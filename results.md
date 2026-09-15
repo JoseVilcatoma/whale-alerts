@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 11:36:53 (hora de Perú)
+Actualizado: 2026-09-15 11:38:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2789**  ($150,595,854 en total)
+- Apuestas registradas: **2790**  ($150,640,195 en total)
 - Resueltas: **2763** — 1663 ganadas / 1100 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 395
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 395 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| watcherz88 | Szczecin: Tiago Pereira vs Filip Pieczonka | Tiago Pereira | 1.39 (72¢) | $44,341 | — | ⏳ Pendiente |
 | jtwyslljy | Will Deportivo Alavés win on 2026-09-15? | No | 2.44 (41¢) | $30,399 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Szczecin: Facundo Acosta vs Daniel Galan | Facundo Acosta | 1.08 (93¢) | $27,900 | — | ⏳ Pendiente |
 | HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.06 (94¢) | $44,897 | +$2,866 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 395 en total)_
 | theowalcott | Will Philadelphia Union win on 2026-09-13? | Yes | 2.38 (42¢) | $30,996 | +$42,804 | ✅ Ganada |
 | jaytee158 | Cowboys vs. Giants: O/U 49.5 | Under 49.5 | 1.72 (58¢) | $30,940 | +$22,405 | ✅ Ganada |
 | SS787878 | Spread: Cowboys (-3.5) | Cowboys | 2.13 (47¢) | $63,950 | -$63,950 | ❌ Perdida |
-| 3648393489047 | Packers vs. Vikings | Vikings | 1.10 (91¢) | $47,126 | +$4,661 | ✅ Ganada |
