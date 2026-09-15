@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 13:23:50 (hora de Perú)
+Actualizado: 2026-09-15 13:25:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2792**  ($150,725,029 en total)
-- Resueltas: **2764** — 1663 ganadas / 1101 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **2765** — 1663 ganadas / 1102 perdidas (**60%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 395
 
 ### Balance
 
-- **Resultado de los apostadores: +$831,586** sobre $149,211,070 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,281** sobre $272,100 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$787,245** sobre $149,255,411 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,381** sobre $272,200 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 395 en total)_
 |---|---|---|---|---|---|---|
 | Feromont | Will Rayo Vallecano de Madrid win on 2026-09-15? | Yes | 2.33 (43¢) | $30,960 | — | ⏳ Pendiente |
 | mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $53,874 | — | ⏳ Pendiente |
-| watcherz88 | Szczecin: Tiago Pereira vs Filip Pieczonka | Tiago Pereira | 1.39 (72¢) | $44,341 | — | ⏳ Pendiente |
+| watcherz88 | Szczecin: Tiago Pereira vs Filip Pieczonka | Tiago Pereira | 1.39 (72¢) | $44,341 | -$44,341 | ❌ Perdida |
 | jtwyslljy | Will Deportivo Alavés win on 2026-09-15? | No | 2.44 (41¢) | $30,399 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Szczecin: Facundo Acosta vs Daniel Galan | Facundo Acosta | 1.08 (93¢) | $27,900 | -$27,900 | ❌ Perdida |
 | HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.06 (94¢) | $44,897 | +$2,866 | ✅ Ganada |
