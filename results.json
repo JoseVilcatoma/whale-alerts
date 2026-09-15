@@ -42050,7 +42050,7 @@
     "side": "BUY",
     "usd": 39272.591700000004,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789499305,
     "fills": 1
   },
@@ -42307,6 +42307,21 @@
     "odds_at_bet": 54,
     "status": "pending",
     "ultimo_fill": 1789511653,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5749,
+    "timestamp": 1789512973,
+    "username": "xifutloong3",
+    "wallet": "0x2dc13c6bda81b202281e796953a7323de675b33c",
+    "slug": "mlb-oak-tb-2026-09-15",
+    "title": "Athletics vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 49999.99880000001,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1789512973,
     "fills": 1
   }
 ]

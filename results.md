@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 17:55:41 (hora de Perú)
+Actualizado: 2026-09-15 17:57:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2814**  ($151,630,470 en total)
-- Resueltas: **2787** — 1681 ganadas / 1106 perdidas (**60%** de acierto)
+- Apuestas registradas: **2815**  ($151,680,470 en total)
+- Resueltas: **2788** — 1682 ganadas / 1106 perdidas (**60%** de acierto)
 - Pendientes: 13
 - Apostadores distintos: 398
 
 ### Balance
 
-- **Resultado de los apostadores: +$561,619** sobre $150,589,250 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,992** sobre $274,400 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$567,487** sobre $150,628,522 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,977** sobre $274,500 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,8 +50,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | SDTrading | 16 | 19 | 0 | 46% | $1,043,223 | -$159,601 |
+| xifutloong3 | 15 | 15 | 1 | 50% | $1,023,989 | -$178,816 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 12 | 0 | 33% | $995,219 | -$314,813 |
-| xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
 | Talvez10 | 8 | 5 | 5 | 62% | $957,905 | +$301,969 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xifutloong3 | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.47 (68¢) | $50,000 | — | ⏳ Pendiente |
 | SharkbetX-com | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $25,000 | — | ⏳ Pendiente |
 | Talvez10 | San Francisco Giants vs. St. Louis Cardinals | St. Louis Cardinals | 1.61 (62¢) | $26,040 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $57,722 | — | ⏳ Pendiente |
@@ -88,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 | Zombie77 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,029 | +$9,885 | ✅ Ganada |
 | 177-letsgo | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $37,600 | +$2,400 | ✅ Ganada |
 | ptrck7 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $47,015 | +$10,320 | ✅ Ganada |
-| 0xsven | Will Arsenal FC win on 2026-09-15? | Yes | 1.15 (87¢) | $39,273 | — | ⏳ Pendiente |
+| 0xsven | Will Arsenal FC win on 2026-09-15? | Yes | 1.15 (87¢) | $39,273 | +$5,868 | ✅ Ganada |
 | beeemw | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $67,855 | +$4,331 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $27,945 | +$6,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $30,125 | +$7,066 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 | fivethirty | Tiburon: Alastair Gray vs Patrick Maloney | Patrick Maloney | 1.15 (87¢) | $30,000 | +$4,483 | ✅ Ganada |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $42,518 | -$42,518 | ❌ Perdida |
 | pleaseplease123 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.82 (55¢) | $67,062 | +$54,869 | ✅ Ganada |
-| pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $94,813 | +$94,813 | ✅ Ganada |
