@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 21:21:37 (hora de Perú)
+Actualizado: 2026-09-14 21:23:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2766**  ($149,254,719 en total)
-- Resueltas: **2743** — 1646 ganadas / 1097 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Resueltas: **2744** — 1647 ganadas / 1097 perdidas (**60%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 394
 
 ### Balance
 
-- **Resultado de los apostadores: +$751,771** sobre $148,256,974 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,627** sobre $270,200 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$755,313** sobre $148,285,632 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,615** sobre $270,300 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 | fivethirty | Broncos vs. Chiefs | Chiefs | 1.11 (90¢) | $40,000 | — | ⏳ Pendiente |
 | pilotlady | Broncos vs. Chiefs: O/U 40.5 | Over 40.5 | 1.82 (55¢) | $26,316 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Broncos vs. Chiefs: O/U 41.5 | Under 41.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
-| fivethirty | Baltimore Orioles vs. New York Mets | Baltimore Orioles | 1.12 (89¢) | $28,657 | — | ⏳ Pendiente |
+| fivethirty | Baltimore Orioles vs. New York Mets | Baltimore Orioles | 1.12 (89¢) | $28,657 | +$3,542 | ✅ Ganada |
 | cosmicxbt | Spread: Chiefs (-3.5) | Broncos | 1.67 (60¢) | $118,119 | — | ⏳ Pendiente |
 | fivethirty | Guadalajara Open Akron: Magdalena Frech vs Nao Hibino | Magdalena Frech | 1.14 (88¢) | $29,999 | -$682 | 💰 Vendida antes |
 | ndb1 | Broncos vs. Chiefs | Chiefs | 1.85 (54¢) | $46,150 | — | ⏳ Pendiente |
