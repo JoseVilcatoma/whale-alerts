@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 19:12:26 (hora de Perú)
+Actualizado: 2026-09-14 19:14:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2759**  ($148,939,478 en total)
+- Apuestas registradas: **2760**  ($148,985,628 en total)
 - Resueltas: **2739** — 1645 ganadas / 1094 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 393
 
 ### Balance
@@ -59,8 +59,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | Talvez10 | 8 | 5 | 0 | 62% | $743,326 | +$301,969 |
+| ndb1 | 6 | 7 | 1 | 46% | $729,427 | +$18,908 |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 8 | 5 | 0 | 62% | $684,011 | +$220,209 |
-| ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | texaskid | 5 | 7 | 0 | 42% | $602,221 | -$118,976 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 393 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Broncos vs. Chiefs | Chiefs | 1.85 (54¢) | $46,150 | — | ⏳ Pendiente |
 | 0x8fb23b3c8041533008CB67ffcD87dEb00a7aA9d7-1775253556546 | Broncos vs. Chiefs: O/U 43.5 | Under 43.5 | 1.85 (54¢) | $30,411 | — | ⏳ Pendiente |
 | fivethirty | Tiburon: Alastair Gray vs Patrick Maloney | Patrick Maloney | 1.15 (87¢) | $30,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $42,518 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 393 en total)_
 | Kch-Temp | Spread: Eagles (-5.5) | Commanders | 2.08 (48¢) | $28,414 | +$30,782 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Saints vs. Lions | Lions | 1.19 (84¢) | $29,884 | +$5,692 | ✅ Ganada |
 | MonsieurDimanche | US Open ATP: Alexander Zverev vs Ben Shelton | Ben Shelton | 2.38 (42¢) | $89,831 | -$89,831 | ❌ Perdida |
-| texaskid | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $37,760 | -$37,760 | ❌ Perdida |
