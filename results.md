@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 06:05:32 (hora de Perú)
+Actualizado: 2026-09-15 06:07:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2774**  ($149,634,028 en total)
-- Resueltas: **2756** — 1657 ganadas / 1099 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Resueltas: **2757** — 1658 ganadas / 1099 perdidas (**60%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 394
 
 ### Balance
 
-- **Resultado de los apostadores: +$846,816** sobre $148,902,362 apostados (ROI **+0.6%**)
+- **Resultado de los apostadores: +$849,846** sobre $148,942,362 apostados (ROI **+0.6%**)
 - Copiando $100 fijo en cada una: **-$8,230** sobre $271,400 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.52 (66¢) | $40,000 | — | ⏳ Pendiente |
+| fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.52 (66¢) | $40,000 | +$3,030 | 💰 Vendida antes |
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.35 (74¢) | $39,000 | +$1,581 | 💰 Vendida antes |
 | fivethirty | Guangzhou: Fajing Sun vs Alexis Galarneau | Fajing Sun | 1.25 (80¢) | $28,350 | +$7,088 | ✅ Ganada |
 | fivethirty | Guangzhou: Jake Delaney vs Hikaru Shiraishi | Jake Delaney | 1.22 (82¢) | $30,000 | +$6,585 | ✅ Ganada |
