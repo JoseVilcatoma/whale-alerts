@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 10:10:17 (hora de Perú)
+Actualizado: 2026-09-15 10:12:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2781**  ($150,274,841 en total)
+- Apuestas registradas: **2783**  ($150,349,338 en total)
 - Resueltas: **2759** — 1659 ganadas / 1100 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Pendientes: 10
 - Apostadores distintos: 395
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 395 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jaytee158 | LoL: Skillcamp Esport vs Project Conquerors (BO5) - LFL Promotion Playoffs | Skillcamp Esport | 1.15 (87¢) | $43,497 | — | ⏳ Pendiente |
+| SS787878 | Counter-Strike: FORZE Reload vs UPGRADE (BO3) - CIS LAN Championship Playoffs | FORZE Reload | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | watcherz88 | Sao Paulo Open: Darja Semenistaja vs Hayu Kinoshita | Darja Semenistaja | 1.27 (79¢) | $46,309 | — | ⏳ Pendiente |
 | 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.69 (59¢) | $319,948 | — | ⏳ Pendiente |
 | jaytee158 | Afghanistan Tour of India T20s: India vs Afghanistan | India | 1.11 (90¢) | $25,406 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 395 en total)_
 | fivethirty | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $70,000 | +$15,366 | ✅ Ganada |
 | fivethirty | Cardinals vs. Chargers | Chargers | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Sentinels vs FlyQuest (BO5) - LCS Playoffs | FlyQuest | 1.14 (88¢) | $87,304 | +$11,905 | ✅ Ganada |
-| theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.69 (59¢) | $25,467 | -$25,467 | ❌ Perdida |
-| theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.72 (58¢) | $27,358 | -$27,358 | ❌ Perdida |

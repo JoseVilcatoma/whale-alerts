@@ -41813,5 +41813,35 @@
     "status": "pending",
     "ultimo_fill": 1789484517,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5685,
+    "timestamp": 1789485057,
+    "username": "SS787878",
+    "wallet": "0xdd7e989aee938a94a878256f00d1121be1760be3",
+    "slug": "cs2-forzer-upgrad-2026-09-15",
+    "title": "Counter-Strike: FORZE Reload vs UPGRADE (BO3) - CIS LAN Championship Playoffs",
+    "outcome": "FORZE Reload",
+    "side": "BUY",
+    "usd": 31000.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1789485057,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5686,
+    "timestamp": 1789485117,
+    "username": "jaytee158",
+    "wallet": "0xa2c908ce8b8386bc8c5471120c5a662551332c23",
+    "slug": "lol-sc-pcs-2026-09-15",
+    "title": "LoL: Skillcamp Esport vs Project Conquerors (BO5) - LFL Promotion Playoffs",
+    "outcome": "Skillcamp Esport",
+    "side": "BUY",
+    "usd": 43497.129,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1789485117,
+    "fills": 1
   }
 ]
