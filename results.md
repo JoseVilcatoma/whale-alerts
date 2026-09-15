@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 22:36:26 (hora de Perú)
+Actualizado: 2026-09-14 22:38:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2766**  ($149,254,719 en total)
-- Resueltas: **2744** — 1647 ganadas / 1097 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Resueltas: **2746** — 1649 ganadas / 1097 perdidas (**60%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 394
 
 ### Balance
 
-- **Resultado de los apostadores: +$755,313** sobre $148,285,632 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,615** sobre $270,300 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$799,070** sobre $148,371,781 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,518** sobre $270,500 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | Talvez10 | 8 | 5 | 0 | 62% | $743,326 | +$301,969 |
-| ndb1 | 6 | 7 | 1 | 46% | $729,427 | +$18,908 |
+| ndb1 | 7 | 7 | 0 | 50% | $729,427 | +$58,221 |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 8 | 5 | 0 | 62% | $684,011 | +$220,209 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,13 +71,13 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| fivethirty | Broncos vs. Chiefs | Chiefs | 1.11 (90¢) | $40,000 | — | ⏳ Pendiente |
+| fivethirty | Broncos vs. Chiefs | Chiefs | 1.11 (90¢) | $40,000 | +$4,444 | ✅ Ganada |
 | pilotlady | Broncos vs. Chiefs: O/U 40.5 | Over 40.5 | 1.82 (55¢) | $26,316 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Broncos vs. Chiefs: O/U 41.5 | Under 41.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | fivethirty | Baltimore Orioles vs. New York Mets | Baltimore Orioles | 1.12 (89¢) | $28,657 | +$3,542 | ✅ Ganada |
 | cosmicxbt | Spread: Chiefs (-3.5) | Broncos | 1.67 (60¢) | $118,119 | — | ⏳ Pendiente |
 | fivethirty | Guadalajara Open Akron: Magdalena Frech vs Nao Hibino | Magdalena Frech | 1.14 (88¢) | $29,999 | -$682 | 💰 Vendida antes |
-| ndb1 | Broncos vs. Chiefs | Chiefs | 1.85 (54¢) | $46,150 | — | ⏳ Pendiente |
+| ndb1 | Broncos vs. Chiefs | Chiefs | 1.85 (54¢) | $46,150 | +$39,313 | ✅ Ganada |
 | 0x8fb23b3c8041533008CB67ffcD87dEb00a7aA9d7-1775253556546 | Broncos vs. Chiefs: O/U 43.5 | Under 43.5 | 1.85 (54¢) | $30,411 | — | ⏳ Pendiente |
 | fivethirty | Tiburon: Alastair Gray vs Patrick Maloney | Patrick Maloney | 1.15 (87¢) | $30,000 | +$4,483 | ✅ Ganada |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $42,518 | -$42,518 | ❌ Perdida |
