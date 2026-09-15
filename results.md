@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 15:17:12 (hora de Perú)
+Actualizado: 2026-09-15 15:19:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2805**  ($151,296,155 en total)
-- Resueltas: **2767** — 1665 ganadas / 1102 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Resueltas: **2773** — 1668 ganadas / 1105 perdidas (**60%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 398
 
 ### Balance
 
-- **Resultado de los apostadores: +$831,108** sobre $149,311,777 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,237** sobre $272,400 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$486,117** sobre $149,930,049 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$8,116** sobre $273,000 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 25 | 2 | 0 | 93% | $1,960,364 | +$88,444 |
-| 00gringo00 | 8 | 1 | 2 | 89% | $1,811,926 | +$603,362 |
+| 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | BrotherObama | 13 | 17 | 1 | 43% | $1,514,448 | +$74,064 |
@@ -87,20 +87,20 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 | Feromont | Will Rayo Vallecano de Madrid win on 2026-09-15? | Yes | 2.33 (43¢) | $30,960 | +$41,040 | ✅ Ganada |
 | mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $53,874 | — | ⏳ Pendiente |
 | watcherz88 | Szczecin: Tiago Pereira vs Filip Pieczonka | Tiago Pereira | 1.39 (72¢) | $44,341 | -$44,341 | ❌ Perdida |
-| jtwyslljy | Will Deportivo Alavés win on 2026-09-15? | No | 2.44 (41¢) | $30,399 | — | ⏳ Pendiente |
+| jtwyslljy | Will Deportivo Alavés win on 2026-09-15? | No | 2.44 (41¢) | $30,399 | +$43,745 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Szczecin: Facundo Acosta vs Daniel Galan | Facundo Acosta | 1.08 (93¢) | $27,900 | -$27,900 | ❌ Perdida |
 | HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.06 (94¢) | $44,897 | +$2,866 | ✅ Ganada |
-| 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.67 (60¢) | $57,686 | — | ⏳ Pendiente |
-| gambamaster | Will Deportivo Alavés win on 2026-09-15? | No | 2.50 (40¢) | $50,843 | — | ⏳ Pendiente |
+| 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.67 (60¢) | $57,686 | -$57,686 | ❌ Perdida |
+| gambamaster | Will Deportivo Alavés win on 2026-09-15? | No | 2.50 (40¢) | $50,843 | +$76,264 | ✅ Ganada |
 | HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.27 (79¢) | $34,790 | +$9,248 | ✅ Ganada |
 | jaytee158 | LoL: Skillcamp Esport vs Project Conquerors (BO5) - LFL Promotion Playoffs | Skillcamp Esport | 1.15 (87¢) | $43,497 | — | ⏳ Pendiente |
 | SS787878 | Counter-Strike: FORZE Reload vs UPGRADE (BO3) - CIS LAN Championship Playoffs | FORZE Reload | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | watcherz88 | Sao Paulo Open: Darja Semenistaja vs Hayu Kinoshita | Darja Semenistaja | 1.27 (79¢) | $46,309 | +$12,310 | ✅ Ganada |
-| 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.69 (59¢) | $319,948 | — | ⏳ Pendiente |
+| 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.69 (59¢) | $319,948 | -$319,948 | ❌ Perdida |
 | jaytee158 | Afghanistan Tour of India T20s: India vs Afghanistan | India | 1.11 (90¢) | $25,406 | +$2,823 | ✅ Ganada |
 | watcherz88 | Valencia: Oksana Selekhmeteva vs Nastasja Schunk | Nastasja Schunk | 1.11 (90¢) | $49,755 | +$5,528 | ✅ Ganada |
-| Joey25 | Will Deportivo Alavés win on 2026-09-15? | No | 2.27 (44¢) | $31,692 | — | ⏳ Pendiente |
-| kindar | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.72 (58¢) | $127,702 | — | ⏳ Pendiente |
+| Joey25 | Will Deportivo Alavés win on 2026-09-15? | No | 2.27 (44¢) | $31,692 | +$40,335 | ✅ Ganada |
+| kindar | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.72 (58¢) | $127,702 | -$127,702 | ❌ Perdida |
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.16 (86¢) | $40,000 | -$40,000 | ❌ Perdida |
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.52 (66¢) | $40,000 | +$3,030 | 💰 Vendida antes |
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.35 (74¢) | $39,000 | +$1,581 | 💰 Vendida antes |
