@@ -42263,5 +42263,35 @@
     "status": "pending",
     "ultimo_fill": 1789511652,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5744,
+    "timestamp": 1789511878,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-sf-stl-2026-09-15",
+    "title": "San Francisco Giants vs. St. Louis Cardinals",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 26040.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1789511878,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5745,
+    "timestamp": 1789511956,
+    "username": "SharkbetX-com",
+    "wallet": "0x2759769cd371bee44ec5bfc5e72c7f1f092b2b38",
+    "slug": "mlb-cws-cle-2026-09-15",
+    "title": "Chicago White Sox vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 25000.0051,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1789511956,
+    "fills": 1
   }
 ]
