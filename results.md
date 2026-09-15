@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 11:03:55 (hora de Perú)
+Actualizado: 2026-09-15 11:06:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2787**  ($150,537,555 en total)
-- Resueltas: **2762** — 1662 ganadas / 1100 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Resueltas: **2763** — 1663 ganadas / 1100 perdidas (**60%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 395
 
 ### Balance
 
-- **Resultado de los apostadores: +$847,176** sobre $149,136,861 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,208** sobre $271,900 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$859,486** sobre $149,183,170 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,181** sobre $272,000 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 395 en total)_
 | HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.27 (79¢) | $34,790 | +$9,248 | ✅ Ganada |
 | jaytee158 | LoL: Skillcamp Esport vs Project Conquerors (BO5) - LFL Promotion Playoffs | Skillcamp Esport | 1.15 (87¢) | $43,497 | — | ⏳ Pendiente |
 | SS787878 | Counter-Strike: FORZE Reload vs UPGRADE (BO3) - CIS LAN Championship Playoffs | FORZE Reload | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
-| watcherz88 | Sao Paulo Open: Darja Semenistaja vs Hayu Kinoshita | Darja Semenistaja | 1.27 (79¢) | $46,309 | — | ⏳ Pendiente |
+| watcherz88 | Sao Paulo Open: Darja Semenistaja vs Hayu Kinoshita | Darja Semenistaja | 1.27 (79¢) | $46,309 | +$12,310 | ✅ Ganada |
 | 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.69 (59¢) | $319,948 | — | ⏳ Pendiente |
 | jaytee158 | Afghanistan Tour of India T20s: India vs Afghanistan | India | 1.11 (90¢) | $25,406 | — | ⏳ Pendiente |
 | watcherz88 | Valencia: Oksana Selekhmeteva vs Nastasja Schunk | Nastasja Schunk | 1.11 (90¢) | $49,755 | +$5,528 | ✅ Ganada |
