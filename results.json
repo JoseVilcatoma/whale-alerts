@@ -42338,5 +42338,20 @@
     "status": "pending",
     "ultimo_fill": 1789513808,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5752,
+    "timestamp": 1789514014,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-sea-laa-2026-09-15",
+    "title": "Seattle Mariners vs. Los Angeles Angels",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 30500.0,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1789514014,
+    "fills": 1
   }
 ]
