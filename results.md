@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 16:45:26 (hora de Perú)
+Actualizado: 2026-09-15 16:47:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2807**  ($151,362,999 en total)
-- Resueltas: **2774** — 1668 ganadas / 1106 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Resueltas: **2783** — 1677 ganadas / 1106 perdidas (**60%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 398
 
 ### Balance
 
-- **Resultado de los apostadores: +$455,117** sobre $149,961,049 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$8,216** sobre $273,100 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$545,383** sobre $150,393,215 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,026** sobre $274,000 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 211 | 112 | 5 | 65% | $21,472,239 | +$1,308,221 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 214 | 112 | 2 | 66% | $21,472,239 | +$1,326,996 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 75 | 63 | 0 | 54% | $5,738,874 | -$135,048 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -75,19 +75,19 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 | pleaseplease123 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,246 | — | ⏳ Pendiente |
 | Donkey14 | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.49 (67¢) | $40,606 | — | ⏳ Pendiente |
 | Talvez10 | San Francisco Giants vs. St. Louis Cardinals | St. Louis Cardinals | 1.61 (62¢) | $58,173 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.10 (91¢) | $52,109 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.10 (91¢) | $52,109 | +$5,154 | ✅ Ganada |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $47,082 | — | ⏳ Pendiente |
-| afraz | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $29,676 | — | ⏳ Pendiente |
-| Zombie77 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,029 | — | ⏳ Pendiente |
+| afraz | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $29,676 | +$6,514 | ✅ Ganada |
+| Zombie77 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,029 | +$9,885 | ✅ Ganada |
 | 177-letsgo | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $37,600 | — | ⏳ Pendiente |
-| ptrck7 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $47,015 | — | ⏳ Pendiente |
+| ptrck7 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $47,015 | +$10,320 | ✅ Ganada |
 | 0xsven | Will Arsenal FC win on 2026-09-15? | Yes | 1.15 (87¢) | $39,273 | — | ⏳ Pendiente |
 | beeemw | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $67,855 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $27,945 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $30,125 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $27,945 | +$6,555 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $30,125 | +$7,066 | ✅ Ganada |
 | nb1985 | Will Liverpool FC win on 2026-09-15? | No | 1.89 (53¢) | $48,637 | — | ⏳ Pendiente |
 | Feromont | Will Rayo Vallecano de Madrid win on 2026-09-15? | Yes | 2.33 (43¢) | $30,960 | +$41,040 | ✅ Ganada |
-| mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $53,874 | — | ⏳ Pendiente |
+| mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $53,874 | +$12,637 | ✅ Ganada |
 | watcherz88 | Szczecin: Tiago Pereira vs Filip Pieczonka | Tiago Pereira | 1.39 (72¢) | $44,341 | -$44,341 | ❌ Perdida |
 | jtwyslljy | Will Deportivo Alavés win on 2026-09-15? | No | 2.44 (41¢) | $30,399 | +$43,745 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Szczecin: Facundo Acosta vs Daniel Galan | Facundo Acosta | 1.08 (93¢) | $27,900 | -$27,900 | ❌ Perdida |
@@ -108,9 +108,9 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.35 (74¢) | $39,000 | +$1,581 | 💰 Vendida antes |
 | fivethirty | Guangzhou: Fajing Sun vs Alexis Galarneau | Fajing Sun | 1.25 (80¢) | $28,350 | +$7,088 | ✅ Ganada |
 | fivethirty | Guangzhou: Jake Delaney vs Hikaru Shiraishi | Jake Delaney | 1.22 (82¢) | $30,000 | +$6,585 | ✅ Ganada |
-| surfandturf | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $100,630 | — | ⏳ Pendiente |
+| surfandturf | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $100,630 | +$22,089 | ✅ Ganada |
 | mimi121 | Counter-Strike: Brute vs G2 Ares (BO3) - NODWIN Clutch Series Group Stage | Brute | 1.79 (56¢) | $25,057 | +$19,688 | ✅ Ganada |
-| mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,763 | — | ⏳ Pendiente |
+| mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,763 | +$10,045 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins | 1.20 (83¢) | $70,509 | -$70,509 | ❌ Perdida |
 | fivethirty | Broncos vs. Chiefs | Chiefs | 1.11 (90¢) | $40,000 | +$4,444 | ✅ Ganada |
 | pilotlady | Broncos vs. Chiefs: O/U 40.5 | Over 40.5 | 1.82 (55¢) | $26,316 | +$21,531 | ✅ Ganada |
