@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 15:25:35 (hora de Perú)
+Actualizado: 2026-09-15 15:27:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2805**  ($151,296,155 en total)
-- Resueltas: **2773** — 1668 ganadas / 1105 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **2774** — 1668 ganadas / 1106 perdidas (**60%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 398
 
 ### Balance
 
-- **Resultado de los apostadores: +$486,117** sobre $149,930,049 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$8,116** sobre $273,000 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$455,117** sobre $149,961,049 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$8,216** sobre $273,100 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 | gambamaster | Will Deportivo Alavés win on 2026-09-15? | No | 2.50 (40¢) | $50,843 | +$76,264 | ✅ Ganada |
 | HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.27 (79¢) | $34,790 | +$9,248 | ✅ Ganada |
 | jaytee158 | LoL: Skillcamp Esport vs Project Conquerors (BO5) - LFL Promotion Playoffs | Skillcamp Esport | 1.15 (87¢) | $43,497 | — | ⏳ Pendiente |
-| SS787878 | Counter-Strike: FORZE Reload vs UPGRADE (BO3) - CIS LAN Championship Playoffs | FORZE Reload | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
+| SS787878 | Counter-Strike: FORZE Reload vs UPGRADE (BO3) - CIS LAN Championship Playoffs | FORZE Reload | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
 | watcherz88 | Sao Paulo Open: Darja Semenistaja vs Hayu Kinoshita | Darja Semenistaja | 1.27 (79¢) | $46,309 | +$12,310 | ✅ Ganada |
 | 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.69 (59¢) | $319,948 | -$319,948 | ❌ Perdida |
 | jaytee158 | Afghanistan Tour of India T20s: India vs Afghanistan | India | 1.11 (90¢) | $25,406 | +$2,823 | ✅ Ganada |
