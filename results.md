@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 10:22:34 (hora de Perú)
+Actualizado: 2026-09-15 10:24:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2784**  ($150,384,129 en total)
+- Apuestas registradas: **2786**  ($150,492,658 en total)
 - Resueltas: **2759** — 1659 ganadas / 1100 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 13
 - Apostadores distintos: 395
 
 ### Balance
@@ -40,8 +40,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 25 | 2 | 0 | 93% | $1,960,364 | +$88,444 |
+| 00gringo00 | 8 | 1 | 2 | 89% | $1,811,926 | +$603,362 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| 00gringo00 | 8 | 1 | 1 | 89% | $1,754,239 | +$603,362 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | BrotherObama | 13 | 17 | 1 | 43% | $1,514,448 | +$74,064 |
 | ferrariChampions2026 | 23 | 14 | 0 | 62% | $1,489,930 | -$468,530 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 395 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.67 (60¢) | $57,686 | — | ⏳ Pendiente |
+| gambamaster | Will Deportivo Alavés win on 2026-09-15? | No | 2.50 (40¢) | $50,843 | — | ⏳ Pendiente |
 | HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.27 (79¢) | $34,790 | — | ⏳ Pendiente |
 | jaytee158 | LoL: Skillcamp Esport vs Project Conquerors (BO5) - LFL Promotion Playoffs | Skillcamp Esport | 1.15 (87¢) | $43,497 | — | ⏳ Pendiente |
 | SS787878 | Counter-Strike: FORZE Reload vs UPGRADE (BO3) - CIS LAN Championship Playoffs | FORZE Reload | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 395 en total)_
 | kimi1986 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $33,150 | -$33,150 | ❌ Perdida |
 | ethanaz | Packers vs. Vikings | Packers | 1.15 (87¢) | $51,024 | -$51,024 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dolphins vs. Raiders | Raiders | 1.14 (88¢) | $89,000 | +$12,136 | ✅ Ganada |
-| fivethirty | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $70,000 | +$15,366 | ✅ Ganada |
-| fivethirty | Cardinals vs. Chargers | Chargers | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
