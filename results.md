@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 13:58:36 (hora de Perú)
+Actualizado: 2026-09-15 14:00:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2793**  ($150,773,666 en total)
+- Apuestas registradas: **2794**  ($150,803,791 en total)
 - Resueltas: **2765** — 1663 ganadas / 1102 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 396
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 211 | 112 | 2 | 65% | $21,362,060 | +$1,308,221 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 211 | 112 | 3 | 65% | $21,392,185 | +$1,308,221 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 75 | 63 | 0 | 54% | $5,738,874 | -$135,048 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 396 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $30,125 | — | ⏳ Pendiente |
 | nb1985 | Will Liverpool FC win on 2026-09-15? | No | 1.89 (53¢) | $48,637 | — | ⏳ Pendiente |
 | Feromont | Will Rayo Vallecano de Madrid win on 2026-09-15? | Yes | 2.33 (43¢) | $30,960 | — | ⏳ Pendiente |
 | mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $53,874 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 396 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Giants | Giants | 1.96 (51¢) | $28,495 | +$27,378 | ✅ Ganada |
 | TKD44 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.92 (52¢) | $37,956 | +$35,037 | ✅ Ganada |
-| wigglew | Will Philadelphia Union win on 2026-09-13? | No | 1.82 (55¢) | $25,300 | -$25,300 | ❌ Perdida |
