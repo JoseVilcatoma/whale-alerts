@@ -41798,5 +41798,20 @@
     "status": "pending",
     "ultimo_fill": 1789484306,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 5684,
+    "timestamp": 1789484517,
+    "username": "watcherz88",
+    "wallet": "0xc5a2337f82aafe82a7eaae248586fbbc3c736dd9",
+    "slug": "wta-semenis-kinoshi-2026-09-15",
+    "title": "Sao Paulo Open: Darja Semenistaja vs Hayu Kinoshita",
+    "outcome": "Darja Semenistaja",
+    "side": "BUY",
+    "usd": 46309.4524,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1789484517,
+    "fills": 1
   }
 ]
