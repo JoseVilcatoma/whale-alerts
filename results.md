@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 17:41:21 (hora de Perú)
+Actualizado: 2026-09-15 17:43:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2813**  ($151,572,748 en total)
+- Apuestas registradas: **2814**  ($151,630,470 en total)
 - Resueltas: **2786** — 1680 ganadas / 1106 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 398
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| pleaseplease123 | 57 | 38 | 1 | 60% | $4,180,793 | +$734,614 |
+| pleaseplease123 | 57 | 38 | 2 | 60% | $4,238,515 | +$734,614 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -73,6 +73,7 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 |---|---|---|---|---|---|---|
 | SharkbetX-com | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $25,000 | — | ⏳ Pendiente |
 | Talvez10 | San Francisco Giants vs. St. Louis Cardinals | St. Louis Cardinals | 1.61 (62¢) | $26,040 | — | ⏳ Pendiente |
+| pleaseplease123 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $57,722 | — | ⏳ Pendiente |
 | Talvez10 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $36,835 | — | ⏳ Pendiente |
 | Talvez10 | Kansas City Royals vs. Houston Astros | Kansas City Royals | 2.50 (40¢) | $56,933 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Colorado Rockies | San Diego Padres | 1.56 (64¢) | $38,659 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $42,518 | -$42,518 | ❌ Perdida |
 | pleaseplease123 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.82 (55¢) | $67,062 | +$54,869 | ✅ Ganada |
 | pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $94,813 | +$94,813 | ✅ Ganada |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend | Tatjana Maria | 1.92 (52¢) | $25,992 | -$25,992 | ❌ Perdida |
