@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 08:12:21 (hora de Perú)
+Actualizado: 2026-09-15 08:14:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2777**  ($149,833,422 en total)
-- Resueltas: **2758** — 1658 ganadas / 1100 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Resueltas: **2759** — 1659 ganadas / 1100 perdidas (**60%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 394
 
 ### Balance
 
-- **Resultado de los apostadores: +$809,846** sobre $148,982,362 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,330** sobre $271,500 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$829,534** sobre $149,007,419 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,252** sobre $271,600 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 | fivethirty | Guangzhou: Fajing Sun vs Alexis Galarneau | Fajing Sun | 1.25 (80¢) | $28,350 | +$7,088 | ✅ Ganada |
 | fivethirty | Guangzhou: Jake Delaney vs Hikaru Shiraishi | Jake Delaney | 1.22 (82¢) | $30,000 | +$6,585 | ✅ Ganada |
 | surfandturf | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $100,630 | — | ⏳ Pendiente |
-| mimi121 | Counter-Strike: Brute vs G2 Ares (BO3) - NODWIN Clutch Series Group Stage | Brute | 1.79 (56¢) | $25,057 | — | ⏳ Pendiente |
+| mimi121 | Counter-Strike: Brute vs G2 Ares (BO3) - NODWIN Clutch Series Group Stage | Brute | 1.79 (56¢) | $25,057 | +$19,688 | ✅ Ganada |
 | mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,763 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins | 1.20 (83¢) | $70,509 | -$70,509 | ❌ Perdida |
 | fivethirty | Broncos vs. Chiefs | Chiefs | 1.11 (90¢) | $40,000 | +$4,444 | ✅ Ganada |
