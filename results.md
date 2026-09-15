@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 14:27:32 (hora de Perú)
+Actualizado: 2026-09-15 14:29:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2800**  ($151,068,508 en total)
-- Resueltas: **2766** — 1664 ganadas / 1102 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Resueltas: **2767** — 1665 ganadas / 1102 perdidas (**60%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 397
 
 ### Balance
 
-- **Resultado de los apostadores: +$790,068** sobre $149,280,817 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,370** sobre $272,300 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$831,108** sobre $149,311,777 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,237** sobre $272,400 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 397 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $27,945 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $30,125 | — | ⏳ Pendiente |
 | nb1985 | Will Liverpool FC win on 2026-09-15? | No | 1.89 (53¢) | $48,637 | — | ⏳ Pendiente |
-| Feromont | Will Rayo Vallecano de Madrid win on 2026-09-15? | Yes | 2.33 (43¢) | $30,960 | — | ⏳ Pendiente |
+| Feromont | Will Rayo Vallecano de Madrid win on 2026-09-15? | Yes | 2.33 (43¢) | $30,960 | +$41,040 | ✅ Ganada |
 | mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $53,874 | — | ⏳ Pendiente |
 | watcherz88 | Szczecin: Tiago Pereira vs Filip Pieczonka | Tiago Pereira | 1.39 (72¢) | $44,341 | -$44,341 | ❌ Perdida |
 | jtwyslljy | Will Deportivo Alavés win on 2026-09-15? | No | 2.44 (41¢) | $30,399 | — | ⏳ Pendiente |
