@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 05:26:42 (hora de Perú)
+Actualizado: 2026-09-15 05:28:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2772**  ($149,555,028 en total)
-- Resueltas: **2753** — 1654 ganadas / 1099 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Resueltas: **2754** — 1655 ganadas / 1099 perdidas (**60%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 394
 
 ### Balance
 
-- **Resultado de los apostadores: +$831,562** sobre $148,805,011 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,277** sobre $271,200 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$838,147** sobre $148,835,011 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,255** sobre $271,300 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | fivethirty | Guangzhou: Fajing Sun vs Alexis Galarneau | Fajing Sun | 1.25 (80¢) | $28,350 | — | ⏳ Pendiente |
-| fivethirty | Guangzhou: Jake Delaney vs Hikaru Shiraishi | Jake Delaney | 1.22 (82¢) | $30,000 | — | ⏳ Pendiente |
+| fivethirty | Guangzhou: Jake Delaney vs Hikaru Shiraishi | Jake Delaney | 1.22 (82¢) | $30,000 | +$6,585 | ✅ Ganada |
 | surfandturf | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $100,630 | — | ⏳ Pendiente |
 | mimi121 | Counter-Strike: Brute vs G2 Ares (BO3) - NODWIN Clutch Series Group Stage | Brute | 1.79 (56¢) | $25,057 | — | ⏳ Pendiente |
 | mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,763 | — | ⏳ Pendiente |
