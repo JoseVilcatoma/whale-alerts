@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 23:33:53 (hora de Perú)
+Actualizado: 2026-09-14 23:35:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2767**  ($149,325,228 en total)
-- Resueltas: **2746** — 1649 ganadas / 1097 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Resueltas: **2747** — 1650 ganadas / 1097 perdidas (**60%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 394
 
 ### Balance
 
-- **Resultado de los apostadores: +$799,070** sobre $148,371,781 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,518** sobre $270,500 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$893,883** sobre $148,466,594 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,418** sobre $270,600 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| pleaseplease123 | 55 | 38 | 2 | 59% | $4,150,547 | +$584,932 |
+| pleaseplease123 | 56 | 38 | 1 | 60% | $4,150,547 | +$679,744 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 | fivethirty | Tiburon: Alastair Gray vs Patrick Maloney | Patrick Maloney | 1.15 (87¢) | $30,000 | +$4,483 | ✅ Ganada |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $42,518 | -$42,518 | ❌ Perdida |
 | pleaseplease123 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.82 (55¢) | $67,062 | — | ⏳ Pendiente |
-| pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $94,813 | — | ⏳ Pendiente |
+| pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $94,813 | +$94,813 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend | Tatjana Maria | 1.92 (52¢) | $25,992 | -$25,992 | ❌ Perdida |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $31,766 | -$31,766 | ❌ Perdida |
 | AGUGava | Red Star FC vs. FC Metz: O/U 1.5 | Under 1.5 | 1.69 (59¢) | $33,396 | +$23,207 | ✅ Ganada |
