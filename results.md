@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 09:17:43 (hora de Perú)
+Actualizado: 2026-09-15 09:19:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2777**  ($149,833,422 en total)
+- Apuestas registradas: **2778**  ($149,858,829 en total)
 - Resueltas: **2759** — 1659 ganadas / 1100 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 394
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jaytee158 | Afghanistan Tour of India T20s: India vs Afghanistan | India | 1.11 (90¢) | $25,406 | — | ⏳ Pendiente |
 | Joey25 | Will Deportivo Alavés win on 2026-09-15? | No | 2.27 (44¢) | $31,692 | — | ⏳ Pendiente |
 | kindar | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.72 (58¢) | $127,702 | — | ⏳ Pendiente |
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.16 (86¢) | $40,000 | -$40,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 | doubylinkedlist | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.37 (73¢) | $36,500 | +$13,500 | ✅ Ganada |
 | 177-letsgo | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $77,900 | +$17,100 | ✅ Ganada |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $70,100 | -$70,100 | ❌ Perdida |
-| fivethirty | Saints vs. Lions | Lions | 1.28 (78¢) | $28,368 | +$8,001 | ✅ Ganada |

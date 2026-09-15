@@ -41753,5 +41753,20 @@
     "status": "pending",
     "ultimo_fill": 1789473841,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 5680,
+    "timestamp": 1789481905,
+    "username": "jaytee158",
+    "wallet": "0xa2c908ce8b8386bc8c5471120c5a662551332c23",
+    "slug": "crint-ind-afg-2026-09-15",
+    "title": "Afghanistan Tour of India T20s: India vs Afghanistan",
+    "outcome": "India",
+    "side": "BUY",
+    "usd": 25406.460000000003,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1789481905,
+    "fills": 1
   }
 ]
