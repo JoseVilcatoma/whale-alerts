@@ -42068,5 +42068,20 @@
     "status": "pending",
     "ultimo_fill": 1789499313,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5710,
+    "timestamp": 1789500093,
+    "username": "177-letsgo",
+    "wallet": "0x7a75a4183e577123db9ff0adff520561ef95d288",
+    "slug": "lal-elc-rea-2026-09-15-elc",
+    "title": "Will Elche CF win on 2026-09-15?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 37600.0,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1789500093,
+    "fills": 1
   }
 ]
