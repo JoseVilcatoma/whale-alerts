@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 15:04:39 (hora de Perú)
+Actualizado: 2026-09-15 15:06:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2803**  ($151,197,376 en total)
+- Apuestas registradas: **2804**  ($151,255,549 en total)
 - Resueltas: **2767** — 1665 ganadas / 1102 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 397
 
 ### Balance
@@ -56,9 +56,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
 | Jsram | 12 | 8 | 0 | 60% | $829,230 | -$30,726 |
+| Talvez10 | 8 | 5 | 1 | 62% | $801,498 | +$301,969 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
-| Talvez10 | 8 | 5 | 0 | 62% | $743,326 | +$301,969 |
 | ndb1 | 7 | 7 | 0 | 50% | $729,427 | +$58,221 |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 8 | 5 | 0 | 62% | $684,011 | +$220,209 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 397 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | San Francisco Giants vs. St. Louis Cardinals | St. Louis Cardinals | 1.61 (62¢) | $58,173 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.10 (91¢) | $52,109 | — | ⏳ Pendiente |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $47,082 | — | ⏳ Pendiente |
 | afraz | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $29,676 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 397 en total)_
 | itsonlyamatteroftime | Cowboys vs. Giants | Giants | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
 | curie | Cowboys vs. Giants | Giants | 1.16 (86¢) | $135,450 | +$22,050 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.11 (90¢) | $40,275 | +$4,475 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.12 (89¢) | $53,742 | +$6,642 | ✅ Ganada |
