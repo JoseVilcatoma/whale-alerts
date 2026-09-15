@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 18:01:47 (hora de Perú)
+Actualizado: 2026-09-15 18:03:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2815**  ($151,680,470 en total)
-- Resueltas: **2788** — 1682 ganadas / 1106 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Resueltas: **2789** — 1682 ganadas / 1107 perdidas (**60%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 398
 
 ### Balance
 
-- **Resultado de los apostadores: +$567,487** sobre $150,628,522 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,977** sobre $274,500 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$518,850** sobre $150,677,159 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$8,077** sobre $274,600 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 | beeemw | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $67,855 | +$4,331 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $27,945 | +$6,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $30,125 | +$7,066 | ✅ Ganada |
-| nb1985 | Will Liverpool FC win on 2026-09-15? | No | 1.89 (53¢) | $48,637 | — | ⏳ Pendiente |
+| nb1985 | Will Liverpool FC win on 2026-09-15? | No | 1.89 (53¢) | $48,637 | -$48,637 | ❌ Perdida |
 | Feromont | Will Rayo Vallecano de Madrid win on 2026-09-15? | Yes | 2.33 (43¢) | $30,960 | +$41,040 | ✅ Ganada |
 | mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $53,874 | +$12,637 | ✅ Ganada |
 | watcherz88 | Szczecin: Tiago Pereira vs Filip Pieczonka | Tiago Pereira | 1.39 (72¢) | $44,341 | -$44,341 | ❌ Perdida |
