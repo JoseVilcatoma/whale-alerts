@@ -41644,5 +41644,20 @@
     "status": "pending",
     "ultimo_fill": 1789459598,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5667,
+    "timestamp": 1789465849,
+    "username": "fivethirty",
+    "wallet": "0x2e6cbf2564cc6b9702d79dad46279c2865710c51",
+    "slug": "atp-delaney-shirais-2026-09-14",
+    "title": "Guangzhou: Jake Delaney vs Hikaru Shiraishi",
+    "outcome": "Jake Delaney",
+    "side": "BUY",
+    "usd": 29999.999998000003,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1789465849,
+    "fills": 1
   }
 ]
