@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 16:51:37 (hora de Perú)
+Actualizado: 2026-09-15 16:53:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2807**  ($151,362,999 en total)
+- Apuestas registradas: **2808**  ($151,389,280 en total)
 - Resueltas: **2786** — 1680 ganadas / 1106 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 398
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 214 | 112 | 2 | 66% | $21,472,239 | +$1,326,996 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 75 | 63 | 0 | 54% | $5,738,874 | -$135,048 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 75 | 63 | 1 | 54% | $5,765,155 | -$135,048 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 1.89 (53¢) | $26,281 | — | ⏳ Pendiente |
 | Talvez10 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $36,597 | — | ⏳ Pendiente |
 | pleaseplease123 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,246 | — | ⏳ Pendiente |
 | Donkey14 | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.49 (67¢) | $40,606 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-14? | No | 2.94 (34¢) | $34,000 | -$34,000 | ❌ Perdida |
 | 00gringo00 | Will AS Roma win on 2026-09-14? | Yes | 1.56 (64¢) | $99,925 | +$56,208 | ✅ Ganada |
 | phonesculptor | Will Torino FC win on 2026-09-14? | No | 1.15 (87¢) | $114,052 | +$17,042 | ✅ Ganada |
-| ferrariChampions2026 | Biella: Alejandro Moro Canas vs Geoffrey Blancaneaux | Alejandro Moro Canas | 1.22 (82¢) | $28,799 | +$6,322 | ✅ Ganada |
