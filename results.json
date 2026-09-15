@@ -41492,5 +41492,20 @@
     "status": "pending",
     "ultimo_fill": 1789431193,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5641,
+    "timestamp": 1789431876,
+    "username": "fivethirty",
+    "wallet": "0x2e6cbf2564cc6b9702d79dad46279c2865710c51",
+    "slug": "wta-frech-hibino-2026-09-14",
+    "title": "Guadalajara Open Akron: Magdalena Frech vs Nao Hibino",
+    "outcome": "Magdalena Frech",
+    "side": "BUY",
+    "usd": 29998.999995000002,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1789431876,
+    "fills": 1
   }
 ]

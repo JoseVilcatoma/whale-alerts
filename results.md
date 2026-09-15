@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 19:22:40 (hora de Perú)
+Actualizado: 2026-09-14 19:24:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2760**  ($148,985,628 en total)
+- Apuestas registradas: **2761**  ($149,015,627 en total)
 - Resueltas: **2739** — 1645 ganadas / 1094 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 393
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 393 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fivethirty | Guadalajara Open Akron: Magdalena Frech vs Nao Hibino | Magdalena Frech | 1.14 (88¢) | $29,999 | — | ⏳ Pendiente |
 | ndb1 | Broncos vs. Chiefs | Chiefs | 1.85 (54¢) | $46,150 | — | ⏳ Pendiente |
 | 0x8fb23b3c8041533008CB67ffcD87dEb00a7aA9d7-1775253556546 | Broncos vs. Chiefs: O/U 43.5 | Under 43.5 | 1.85 (54¢) | $30,411 | — | ⏳ Pendiente |
 | fivethirty | Tiburon: Alastair Gray vs Patrick Maloney | Patrick Maloney | 1.15 (87¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 393 en total)_
 | pleaseplease123 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox | 1.56 (64¢) | $35,556 | +$20,000 | ✅ Ganada |
 | Kch-Temp | Spread: Eagles (-5.5) | Commanders | 2.08 (48¢) | $28,414 | +$30,782 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Saints vs. Lions | Lions | 1.19 (84¢) | $29,884 | +$5,692 | ✅ Ganada |
-| MonsieurDimanche | US Open ATP: Alexander Zverev vs Ben Shelton | Ben Shelton | 2.38 (42¢) | $89,831 | -$89,831 | ❌ Perdida |
