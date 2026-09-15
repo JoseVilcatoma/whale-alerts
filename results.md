@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 19:02:12 (hora de Perú)
+Actualizado: 2026-09-14 19:04:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2758**  ($148,909,067 en total)
-- Resueltas: **2738** — 1645 ganadas / 1093 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Resueltas: **2739** — 1645 ganadas / 1094 perdidas (**60%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 392
 
 ### Balance
 
-- **Resultado de los apostadores: +$848,247** sobre $148,096,699 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,342** sobre $269,800 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$822,255** sobre $148,122,691 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,442** sobre $269,900 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $42,518 | — | ⏳ Pendiente |
 | pleaseplease123 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.82 (55¢) | $67,062 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $94,813 | — | ⏳ Pendiente |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend | Tatjana Maria | 1.92 (52¢) | $25,992 | — | ⏳ Pendiente |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend | Tatjana Maria | 1.92 (52¢) | $25,992 | -$25,992 | ❌ Perdida |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $31,766 | — | ⏳ Pendiente |
 | AGUGava | Red Star FC vs. FC Metz: O/U 1.5 | Under 1.5 | 1.69 (59¢) | $33,396 | +$23,207 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-14? | No | 2.94 (34¢) | $34,000 | -$34,000 | ❌ Perdida |
