@@ -42805,5 +42805,20 @@
     "status": "pending",
     "ultimo_fill": 1789583666,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5810,
+    "timestamp": 1789583963,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-det-tor-2026-09-16-total-8pt5",
+    "title": "Detroit Tigers vs. Toronto Blue Jays: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 59454.1059,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1789583963,
+    "fills": 1
   }
 ]
