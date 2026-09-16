@@ -42185,7 +42185,7 @@
     "side": "BUY",
     "usd": 30246.2985,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789505911,
     "fills": 1
   },
@@ -42200,7 +42200,7 @@
     "side": "BUY",
     "usd": 36597.49,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789507035,
     "fills": 1
   },
@@ -42413,5 +42413,20 @@
     "status": "pending",
     "ultimo_fill": 1789519226,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 5757,
+    "timestamp": 1789520645,
+    "username": "RealityTwister",
+    "wallet": "0xc6b6ffce6c52b6fdf4bad57de303939f19ab13ac",
+    "slug": "itf-chen7-kokkin1-2026-09-16",
+    "title": "W35 Shenyang: Meng Yi Chen vs Tahlia Kokkinis",
+    "outcome": "Tahlia Kokkinis",
+    "side": "BUY",
+    "usd": 64330.7931,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789520645,
+    "fills": 1
   }
 ]
