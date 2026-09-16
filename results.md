@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 15:54:11 (hora de Perú)
+Actualizado: 2026-09-16 15:56:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2861**  ($155,364,806 en total)
+- Apuestas registradas: **2862**  ($155,418,386 en total)
 - Resueltas: **2819** — 1699 ganadas / 1120 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 405
 
 ### Balance
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 76 | 65 | 1 | 54% | $5,876,171 | -$183,628 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
+| pleaseplease123 | 59 | 40 | 3 | 60% | $4,600,953 | +$661,934 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| pleaseplease123 | 59 | 40 | 2 | 60% | $4,547,372 | +$661,934 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 2.00 (50¢) | $53,580 | — | ⏳ Pendiente |
 | tenniz | Szczecin: Laslo Djere vs Luka Mikrut | Luka Mikrut | 1.12 (89¢) | $41,516 | — | ⏳ Pendiente |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Sport Lisboa e Benfica win on 2026-09-16? | Yes | 1.14 (88¢) | $27,000 | — | ⏳ Pendiente |
 | suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.79 (56¢) | $51,833 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | Donkey14 | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.49 (67¢) | $40,606 | +$20,000 | ✅ Ganada |
 | Talvez10 | San Francisco Giants vs. St. Louis Cardinals | St. Louis Cardinals | 1.61 (62¢) | $58,173 | -$58,173 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.10 (91¢) | $52,109 | +$5,154 | ✅ Ganada |
-| 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $47,082 | +$3,005 | ✅ Ganada |
