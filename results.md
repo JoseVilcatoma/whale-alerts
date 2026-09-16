@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 13:49:25 (hora de Perú)
+Actualizado: 2026-09-16 13:51:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2848**  ($153,836,606 en total)
+- Apuestas registradas: **2850**  ($153,925,231 en total)
 - Resueltas: **2812** — 1693 ganadas / 1119 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Pendientes: 22
 - Apostadores distintos: 404
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 215 | 113 | 2 | 66% | $21,755,385 | +$1,091,584 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 76 | 65 | 0 | 54% | $5,837,041 | -$183,628 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 76 | 65 | 1 | 54% | $5,876,171 | -$183,628 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 404 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elaran1993 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $49,495 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $39,130 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $59,454 | — | ⏳ Pendiente |
 | surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $456,170 | — | ⏳ Pendiente |
 | p1252 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 404 en total)_
 | nb1985 | Will Liverpool FC win on 2026-09-15? | No | 1.89 (53¢) | $48,637 | -$48,637 | ❌ Perdida |
 | Feromont | Will Rayo Vallecano de Madrid win on 2026-09-15? | Yes | 2.33 (43¢) | $30,960 | +$41,040 | ✅ Ganada |
 | mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $53,874 | +$12,637 | ✅ Ganada |
-| watcherz88 | Szczecin: Tiago Pereira vs Filip Pieczonka | Tiago Pereira | 1.39 (72¢) | $44,341 | -$44,341 | ❌ Perdida |
-| jtwyslljy | Will Deportivo Alavés win on 2026-09-15? | No | 2.44 (41¢) | $30,399 | +$43,745 | ✅ Ganada |
