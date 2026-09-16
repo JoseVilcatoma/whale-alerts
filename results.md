@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 13:32:28 (hora de Perú)
+Actualizado: 2026-09-16 13:34:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2846**  ($153,320,982 en total)
+- Apuestas registradas: **2847**  ($153,777,152 en total)
 - Resueltas: **2812** — 1693 ganadas / 1119 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 404
 
 ### Balance
@@ -52,6 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 16 | 15 | 1 | 52% | $1,065,337 | -$155,287 |
 | SDTrading | 16 | 19 | 0 | 46% | $1,043,223 | -$159,601 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 12 | 0 | 33% | $995,219 | -$314,813 |
+| surfandturf | 3 | 2 | 2 | ⚠️ 60% (5) | $980,333 | -$53,804 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 8 | 5 | 0 | 62% | $684,011 | +$220,209 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
-| texaskid | 5 | 7 | 0 | 42% | $602,221 | -$118,976 |
 
 _(mostrando los 40 de mayor monto, de 404 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 404 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $456,170 | — | ⏳ Pendiente |
 | p1252 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
 | Jsram | Will Aston Villa FC win on 2026-09-16? | No | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Jsram | Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 404 en total)_
 | watcherz88 | Szczecin: Tiago Pereira vs Filip Pieczonka | Tiago Pereira | 1.39 (72¢) | $44,341 | -$44,341 | ❌ Perdida |
 | jtwyslljy | Will Deportivo Alavés win on 2026-09-15? | No | 2.44 (41¢) | $30,399 | +$43,745 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Szczecin: Facundo Acosta vs Daniel Galan | Facundo Acosta | 1.08 (93¢) | $27,900 | -$27,900 | ❌ Perdida |
-| HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.06 (94¢) | $44,897 | +$2,866 | ✅ Ganada |
