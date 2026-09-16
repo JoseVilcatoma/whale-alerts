@@ -42609,5 +42609,20 @@
     "status": "pending",
     "ultimo_fill": 1789573462,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5796,
+    "timestamp": 1789573818,
+    "username": "phonesculptor",
+    "wallet": "0xf1528f12e645462c344799b62b1b421a6a4c64aa",
+    "slug": "lal-mad-osa-2026-09-16-osa",
+    "title": "Will CA Osasuna win on 2026-09-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 32480.002099999998,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1789573818,
+    "fills": 1
   }
 ]
