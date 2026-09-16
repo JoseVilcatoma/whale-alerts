@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 18:59:44 (hora de Perú)
+Actualizado: 2026-09-15 19:01:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2819**  ($152,023,088 en total)
+- Apuestas registradas: **2820**  ($152,052,797 en total)
 - Resueltas: **2789** — 1682 ganadas / 1107 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 398
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| pleaseplease123 | 57 | 38 | 2 | 60% | $4,238,515 | +$734,614 |
+| pleaseplease123 | 57 | 38 | 3 | 60% | $4,268,224 | +$734,614 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Boston Red Sox vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $29,709 | — | ⏳ Pendiente |
 | BrotherObama | Miami Marlins vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | Kansas City Royals vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,000 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 | fivethirty | Baltimore Orioles vs. New York Mets | Baltimore Orioles | 1.12 (89¢) | $28,657 | +$3,542 | ✅ Ganada |
 | cosmicxbt | Spread: Chiefs (-3.5) | Broncos | 1.67 (60¢) | $118,119 | -$118,119 | ❌ Perdida |
 | fivethirty | Guadalajara Open Akron: Magdalena Frech vs Nao Hibino | Magdalena Frech | 1.14 (88¢) | $29,999 | -$682 | 💰 Vendida antes |
-| ndb1 | Broncos vs. Chiefs | Chiefs | 1.85 (54¢) | $46,150 | +$39,313 | ✅ Ganada |
