@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 22:02:43 (hora de Perú)
+Actualizado: 2026-09-15 22:04:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2826**  ($152,390,611 en total)
-- Resueltas: **2801** — 1690 ganadas / 1111 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Resueltas: **2803** — 1690 ganadas / 1113 perdidas (**60%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 399
 
 ### Balance
 
-- **Resultado de los apostadores: +$358,617** sobre $151,350,527 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$7,889** sobre $275,800 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$274,404** sobre $151,434,740 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$8,089** sobre $276,000 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 16 | 19 | 0 | 46% | $1,043,223 | -$159,601 |
 | xifutloong3 | 16 | 15 | 0 | 52% | $1,023,989 | -$155,287 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 12 | 0 | 33% | $995,219 | -$314,813 |
-| Talvez10 | 9 | 7 | 2 | 56% | $957,905 | +$249,470 |
+| Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 399 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Toronto Blue Jays | Toronto Blue Jays | 1.85 (54¢) | $252,119 | -$252,119 | ❌ Perdida |
 | xifutloong3 | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.47 (68¢) | $50,000 | +$23,529 | ✅ Ganada |
 | SharkbetX-com | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $25,000 | +$17,373 | ✅ Ganada |
-| Talvez10 | San Francisco Giants vs. St. Louis Cardinals | St. Louis Cardinals | 1.61 (62¢) | $26,040 | — | ⏳ Pendiente |
+| Talvez10 | San Francisco Giants vs. St. Louis Cardinals | St. Louis Cardinals | 1.61 (62¢) | $26,040 | -$26,040 | ❌ Perdida |
 | pleaseplease123 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $57,722 | +$49,171 | ✅ Ganada |
 | Talvez10 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $36,835 | -$36,835 | ❌ Perdida |
 | Talvez10 | Kansas City Royals vs. Houston Astros | Kansas City Royals | 2.50 (40¢) | $56,933 | -$56,933 | ❌ Perdida |
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 399 en total)_
 | Talvez10 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $36,597 | +$41,270 | ✅ Ganada |
 | pleaseplease123 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,246 | -$30,246 | ❌ Perdida |
 | Donkey14 | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.49 (67¢) | $40,606 | +$20,000 | ✅ Ganada |
-| Talvez10 | San Francisco Giants vs. St. Louis Cardinals | St. Louis Cardinals | 1.61 (62¢) | $58,173 | — | ⏳ Pendiente |
+| Talvez10 | San Francisco Giants vs. St. Louis Cardinals | St. Louis Cardinals | 1.61 (62¢) | $58,173 | -$58,173 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.10 (91¢) | $52,109 | +$5,154 | ✅ Ganada |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $47,082 | +$3,005 | ✅ Ganada |
 | afraz | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $29,676 | +$6,514 | ✅ Ganada |
