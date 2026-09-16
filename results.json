@@ -42579,5 +42579,20 @@
     "status": "pending",
     "ultimo_fill": 1789566261,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5794,
+    "timestamp": 1789570093,
+    "username": "Painfulvoid",
+    "wallet": "0xd6966eb1ae7b52320ba7ab1016680198c9e08a49",
+    "slug": "uel-lev-cel2-2026-09-16-lev",
+    "title": "Will Bayer 04 Leverkusen win on 2026-09-16?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 65714.1906,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1789570093,
+    "fills": 1
   }
 ]
