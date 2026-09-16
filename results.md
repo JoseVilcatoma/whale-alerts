@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 13:57:34 (hora de Perú)
+Actualizado: 2026-09-16 13:59:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2851**  ($154,444,307 en total)
+- Apuestas registradas: **2853**  ($154,792,410 en total)
 - Resueltas: **2813** — 1693 ganadas / 1120 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 24
 - Apostadores distintos: 405
 
 ### Balance
@@ -51,19 +51,19 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | xifutloong3 | 16 | 15 | 1 | 52% | $1,065,337 | -$155,287 |
 | SDTrading | 16 | 19 | 0 | 46% | $1,043,223 | -$159,601 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 12 | 0 | 33% | $995,219 | -$314,813 |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 12 | 1 | 33% | $1,021,344 | -$314,813 |
 | surfandturf | 3 | 2 | 2 | ⚠️ 60% (5) | $980,333 | -$53,804 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | Jsram | 12 | 8 | 2 | 60% | $881,230 | -$30,726 |
+| ndb1 | 7 | 7 | 1 | 50% | $846,818 | +$58,221 |
 | gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
-| ndb1 | 7 | 7 | 0 | 50% | $729,427 | +$58,221 |
+| halvanicus | 0 | 0 | 1 | — | $723,663 | — |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 8 | 5 | 0 | 62% | $684,011 | +$220,209 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
-| BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 
 _(mostrando los 40 de mayor monto, de 405 en total)_
 
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.27 (44¢) | $519,076 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AC Milan win on 2026-09-16? | No | 1.82 (55¢) | $26,125 | — | ⏳ Pendiente |
+| ndb1 | Will AC Milan win on 2026-09-16? | No | 1.85 (54¢) | $117,391 | — | ⏳ Pendiente |
+| halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.22 (45¢) | $723,663 | — | ⏳ Pendiente |
 | Elaran1993 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $49,495 | -$2,020 | 💰 Vendida antes |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $39,130 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $59,454 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | beeemw | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $67,855 | +$4,331 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $27,945 | +$6,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $30,125 | +$7,066 | ✅ Ganada |
-| nb1985 | Will Liverpool FC win on 2026-09-15? | No | 1.89 (53¢) | $48,637 | -$48,637 | ❌ Perdida |
-| Feromont | Will Rayo Vallecano de Madrid win on 2026-09-15? | Yes | 2.33 (43¢) | $30,960 | +$41,040 | ✅ Ganada |
