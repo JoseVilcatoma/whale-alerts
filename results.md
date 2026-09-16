@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 11:59:49 (hora de Perú)
+Actualizado: 2026-09-16 12:01:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2837**  ($153,020,249 en total)
+- Apuestas registradas: **2838**  ($153,057,148 en total)
 - Resueltas: **2812** — 1693 ganadas / 1119 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 403
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 403 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Pwaddler | New York Yankees vs. Minnesota Twins | New York Yankees | 1.67 (60¢) | $36,899 | — | ⏳ Pendiente |
 | Ne8om | Will FC Barcelona win on 2026-09-16? | Yes | 1.10 (91¢) | $70,286 | — | ⏳ Pendiente |
 | zhqzhq | Will CA Osasuna win on 2026-09-16? | No | 1.09 (92¢) | $35,000 | — | ⏳ Pendiente |
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $32,480 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 403 en total)_
 | watcherz88 | Sao Paulo Open: Darja Semenistaja vs Hayu Kinoshita | Darja Semenistaja | 1.27 (79¢) | $46,309 | +$12,310 | ✅ Ganada |
 | 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.69 (59¢) | $319,948 | -$319,948 | ❌ Perdida |
 | jaytee158 | Afghanistan Tour of India T20s: India vs Afghanistan | India | 1.11 (90¢) | $25,406 | +$2,823 | ✅ Ganada |
-| watcherz88 | Valencia: Oksana Selekhmeteva vs Nastasja Schunk | Nastasja Schunk | 1.11 (90¢) | $49,755 | +$5,528 | ✅ Ganada |
