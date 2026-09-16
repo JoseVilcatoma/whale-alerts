@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 20:58:54 (hora de Perú)
+Actualizado: 2026-09-15 21:01:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2824**  ($152,302,694 en total)
-- Resueltas: **2794** — 1686 ganadas / 1108 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Resueltas: **2795** — 1687 ganadas / 1108 perdidas (**60%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 399
 
 ### Balance
 
-- **Resultado de los apostadores: +$590,775** sobre $150,859,609 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,899** sobre $275,100 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$614,081** sobre $150,885,890 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,810** sobre $275,200 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 214 | 112 | 4 | 66% | $21,755,385 | +$1,326,996 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 75 | 63 | 3 | 54% | $5,837,041 | -$135,048 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 76 | 63 | 2 | 55% | $5,837,041 | -$111,742 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 399 en total)_
 | Talvez10 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $36,835 | — | ⏳ Pendiente |
 | Talvez10 | Kansas City Royals vs. Houston Astros | Kansas City Royals | 2.50 (40¢) | $56,933 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Colorado Rockies | San Diego Padres | 1.56 (64¢) | $38,659 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 1.89 (53¢) | $26,281 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 1.89 (53¢) | $26,281 | +$23,306 | ✅ Ganada |
 | Talvez10 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $36,597 | +$41,270 | ✅ Ganada |
 | pleaseplease123 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,246 | -$30,246 | ❌ Perdida |
 | Donkey14 | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.49 (67¢) | $40,606 | +$20,000 | ✅ Ganada |
