@@ -42488,5 +42488,35 @@
     "status": "lost",
     "ultimo_fill": 1789525709,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5785,
+    "timestamp": 1789550680,
+    "username": "0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390",
+    "wallet": "0x004c832cb3af8ee0771fdf5fc3d494fe8ca2bb89",
+    "slug": "atp-honda-basilas-2026-09-15",
+    "title": "Guangzhou: Naoya Honda vs Nikoloz Basilashvili",
+    "outcome": "Naoya Honda",
+    "side": "BUY",
+    "usd": 43456.65340005037,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1789550680,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5786,
+    "timestamp": 1789550680,
+    "username": "tenniz",
+    "wallet": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
+    "slug": "atp-honda-basilas-2026-09-15",
+    "title": "Guangzhou: Naoya Honda vs Nikoloz Basilashvili",
+    "outcome": "Naoya Honda",
+    "side": "BUY",
+    "usd": 42281.88819882856,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1789550680,
+    "fills": 1
   }
 ]
