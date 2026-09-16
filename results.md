@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 16:57:50 (hora de Perú)
+Actualizado: 2026-09-16 16:59:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2865**  ($155,563,521 en total)
-- Resueltas: **2827** — 1707 ganadas / 1120 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Resueltas: **2830** — 1707 ganadas / 1123 perdidas (**60%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 405
 
 ### Balance
 
-- **Resultado de los apostadores: +$148,908** sobre $153,094,703 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$8,375** sobre $278,300 (ROI **-3.0%**)
+- **Resultado de los apostadores: -$16,857** sobre $153,260,468 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$8,675** sobre $278,600 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,8 +77,8 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | pleaseplease123 | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 2.00 (50¢) | $53,580 | — | ⏳ Pendiente |
 | tenniz | Szczecin: Laslo Djere vs Luka Mikrut | Luka Mikrut | 1.12 (89¢) | $41,516 | +$5,131 | ✅ Ganada |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Sport Lisboa e Benfica win on 2026-09-16? | Yes | 1.14 (88¢) | $27,000 | — | ⏳ Pendiente |
-| suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.79 (56¢) | $51,833 | — | ⏳ Pendiente |
-| suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.82 (55¢) | $77,033 | — | ⏳ Pendiente |
+| suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.79 (56¢) | $51,833 | -$51,833 | ❌ Perdida |
+| suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.82 (55¢) | $77,033 | -$77,033 | ❌ Perdida |
 | pleaseplease123 | Kansas City Royals vs. Houston Astros | Houston Astros | 1.64 (61¢) | $98,381 | — | ⏳ Pendiente |
 | ukowna | Will FC Barcelona win on 2026-09-16? | Yes | 1.08 (93¢) | $89,651 | +$6,748 | ✅ Ganada |
 | halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.13 (47¢) | $151,764 | — | ⏳ Pendiente |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | 0x076d…8d4c | Will AC Milan win on 2026-09-16? | Yes | 2.22 (45¢) | $30,868 | — | ⏳ Pendiente |
 | xifutloong3 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $41,348 | +$25,342 | ✅ Ganada |
 | Sassy-Bucket | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers | 2.22 (45¢) | $34,358 | — | ⏳ Pendiente |
-| Pwaddler | New York Yankees vs. Minnesota Twins | New York Yankees | 1.67 (60¢) | $36,899 | — | ⏳ Pendiente |
+| Pwaddler | New York Yankees vs. Minnesota Twins | New York Yankees | 1.67 (60¢) | $36,899 | -$36,899 | ❌ Perdida |
 | Ne8om | Will FC Barcelona win on 2026-09-16? | Yes | 1.10 (91¢) | $70,286 | +$6,951 | ✅ Ganada |
 | zhqzhq | Will CA Osasuna win on 2026-09-16? | No | 1.09 (92¢) | $35,000 | +$3,043 | ✅ Ganada |
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $32,480 | +$3,212 | ✅ Ganada |
