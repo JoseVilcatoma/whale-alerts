@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 04:55:49 (hora de Perú)
+Actualizado: 2026-09-16 04:57:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2828**  ($152,476,349 en total)
-- Resueltas: **2810** — 1691 ganadas / 1119 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Resueltas: **2812** — 1693 ganadas / 1119 perdidas (**60%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 401
 
 ### Balance
 
-- **Resultado de los apostadores: +$8,180** sobre $151,760,381 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$8,589** sobre $276,700 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$21,075** sobre $151,846,120 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$8,559** sobre $276,900 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,8 +71,8 @@ _(mostrando los 40 de mayor monto, de 401 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390 | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.18 (85¢) | $43,457 | — | ⏳ Pendiente |
-| tenniz | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.12 (89¢) | $42,282 | — | ⏳ Pendiente |
+| 0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390 | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.18 (85¢) | $43,457 | +$7,669 | ✅ Ganada |
+| tenniz | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.12 (89¢) | $42,282 | +$5,226 | ✅ Ganada |
 | Runemup | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.67 (60¢) | $42,234 | -$42,234 | ❌ Perdida |
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.11 (90¢) | $45,682 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.75 (57¢) | $33,226 | -$33,226 | ❌ Perdida |
