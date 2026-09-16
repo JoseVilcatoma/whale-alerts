@@ -42518,5 +42518,20 @@
     "status": "won",
     "ultimo_fill": 1789550680,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5789,
+    "timestamp": 1789554064,
+    "username": "0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57",
+    "wallet": "0xd8b4d1e58dc7d60ddc886bcb9d456eb5da887773",
+    "slug": "wta-trevisa-burel-2026-09-16",
+    "title": "Valencia: Martina Trevisan vs Clara Burel",
+    "outcome": "Martina Trevisan",
+    "side": "BUY",
+    "usd": 30677.3859,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1789554064,
+    "fills": 1
   }
 ]
