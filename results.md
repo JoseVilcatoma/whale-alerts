@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 20:54:42 (hora de Perú)
+Actualizado: 2026-09-15 20:56:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2824**  ($152,302,694 en total)
-- Resueltas: **2793** — 1685 ganadas / 1108 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Resueltas: **2794** — 1686 ganadas / 1108 perdidas (**60%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 399
 
 ### Balance
 
-- **Resultado de los apostadores: +$573,402** sobre $150,834,609 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,968** sobre $275,000 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$590,775** sobre $150,859,609 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,899** sobre $275,100 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 399 en total)_
 | monkeymashingkeyboard | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Toronto Blue Jays | Toronto Blue Jays | 1.85 (54¢) | $252,119 | — | ⏳ Pendiente |
 | xifutloong3 | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.47 (68¢) | $50,000 | +$23,529 | ✅ Ganada |
-| SharkbetX-com | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $25,000 | — | ⏳ Pendiente |
+| SharkbetX-com | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $25,000 | +$17,373 | ✅ Ganada |
 | Talvez10 | San Francisco Giants vs. St. Louis Cardinals | St. Louis Cardinals | 1.61 (62¢) | $26,040 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $57,722 | — | ⏳ Pendiente |
 | Talvez10 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $36,835 | — | ⏳ Pendiente |
