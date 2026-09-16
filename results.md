@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 15:11:08 (hora de Perú)
+Actualizado: 2026-09-16 15:13:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2856**  ($155,069,042 en total)
-- Resueltas: **2818** — 1698 ganadas / 1120 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Resueltas: **2819** — 1699 ganadas / 1120 perdidas (**60%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 405
 
 ### Balance
 
-- **Resultado de los apostadores: +$38,942** sobre $152,095,287 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$8,510** sobre $277,400 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$64,284** sobre $152,136,634 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$8,448** sobre $277,500 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| xifutloong3 | 16 | 15 | 1 | 52% | $1,065,337 | -$155,287 |
+| xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | SDTrading | 16 | 19 | 0 | 46% | $1,043,223 | -$159,601 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 12 | 1 | 33% | $1,021,344 | -$314,813 |
 | surfandturf | 3 | 2 | 2 | ⚠️ 60% (5) | $980,333 | -$53,804 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | jaytee158 | Will Club Atlético de Madrid win on 2026-09-16? | Yes | 1.10 (91¢) | $40,413 | +$3,997 | ✅ Ganada |
 | 0x076d…8d4c | Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $28,046 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will AC Milan win on 2026-09-16? | Yes | 2.22 (45¢) | $30,868 | — | ⏳ Pendiente |
-| xifutloong3 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $41,348 | — | ⏳ Pendiente |
+| xifutloong3 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $41,348 | +$25,342 | ✅ Ganada |
 | Sassy-Bucket | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers | 2.22 (45¢) | $34,358 | — | ⏳ Pendiente |
 | Pwaddler | New York Yankees vs. Minnesota Twins | New York Yankees | 1.67 (60¢) | $36,899 | — | ⏳ Pendiente |
 | Ne8om | Will FC Barcelona win on 2026-09-16? | Yes | 1.10 (91¢) | $70,286 | — | ⏳ Pendiente |
