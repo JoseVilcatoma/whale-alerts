@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 14:24:10 (hora de Perú)
+Actualizado: 2026-09-16 14:26:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2855**  ($154,979,391 en total)
+- Apuestas registradas: **2856**  ($155,069,042 en total)
 - Resueltas: **2818** — 1698 ganadas / 1120 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 405
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ukowna | Will FC Barcelona win on 2026-09-16? | Yes | 1.08 (93¢) | $89,651 | — | ⏳ Pendiente |
 | halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.13 (47¢) | $151,764 | — | ⏳ Pendiente |
 | SharkbetX-com | Will AC Milan win on 2026-09-16? | No | 1.85 (54¢) | $35,217 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AC Milan win on 2026-09-16? | No | 1.82 (55¢) | $26,125 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | 177-letsgo | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $37,600 | +$2,400 | ✅ Ganada |
 | ptrck7 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $47,015 | +$10,320 | ✅ Ganada |
 | 0xsven | Will Arsenal FC win on 2026-09-15? | Yes | 1.15 (87¢) | $39,273 | +$5,868 | ✅ Ganada |
-| beeemw | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $67,855 | +$4,331 | ✅ Ganada |
