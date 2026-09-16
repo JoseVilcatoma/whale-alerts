@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 23:28:55 (hora de Perú)
+Actualizado: 2026-09-15 23:31:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2826**  ($152,390,611 en total)
-- Resueltas: **2805** — 1691 ganadas / 1114 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Resueltas: **2808** — 1691 ganadas / 1117 perdidas (**60%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 399
 
 ### Balance
 
-- **Resultado de los apostadores: +$265,454** sobre $151,503,108 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$8,089** sobre $276,200 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$159,493** sobre $151,609,068 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$8,389** sobre $276,500 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 215 | 113 | 2 | 66% | $21,755,385 | +$1,091,584 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 76 | 64 | 1 | 54% | $5,837,041 | -$150,402 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 76 | 65 | 0 | 54% | $5,837,041 | -$183,628 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
@@ -71,16 +71,16 @@ _(mostrando los 40 de mayor monto, de 399 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Runemup | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.67 (60¢) | $42,234 | — | ⏳ Pendiente |
+| Runemup | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.67 (60¢) | $42,234 | -$42,234 | ❌ Perdida |
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.11 (90¢) | $45,682 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.75 (57¢) | $33,226 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.75 (57¢) | $33,226 | -$33,226 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tiburon: Darwin Blanch vs Stefan Kozlov | Darwin Blanch | 1.54 (65¢) | $31,027 | +$16,707 | ✅ Ganada |
 | RealityTwister | W35 Shenyang: Meng Yi Chen vs Tahlia Kokkinis | Tahlia Kokkinis | 1.96 (51¢) | $64,331 | — | ⏳ Pendiente |
 | pleaseplease123 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $121,313 | — | ⏳ Pendiente |
 | pleaseplease123 | Boston Red Sox vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $29,709 | +$29,709 | ✅ Ganada |
 | BrotherObama | Miami Marlins vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | Kansas City Royals vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,000 | +$24,545 | ✅ Ganada |
-| monkeymashingkeyboard | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.64 (61¢) | $30,500 | -$30,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Toronto Blue Jays | Toronto Blue Jays | 1.85 (54¢) | $252,119 | -$252,119 | ❌ Perdida |
 | xifutloong3 | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.47 (68¢) | $50,000 | +$23,529 | ✅ Ganada |
 | SharkbetX-com | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $25,000 | +$17,373 | ✅ Ganada |
