@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 15:29:31 (hora de Perú)
+Actualizado: 2026-09-16 15:31:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2859**  ($155,296,290 en total)
+- Apuestas registradas: **2860**  ($155,323,290 en total)
 - Resueltas: **2819** — 1699 ganadas / 1120 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 405
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Sport Lisboa e Benfica win on 2026-09-16? | Yes | 1.14 (88¢) | $27,000 | — | ⏳ Pendiente |
 | suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.79 (56¢) | $51,833 | — | ⏳ Pendiente |
 | suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.82 (55¢) | $77,033 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Houston Astros | Houston Astros | 1.64 (61¢) | $98,381 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.10 (91¢) | $52,109 | +$5,154 | ✅ Ganada |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $47,082 | +$3,005 | ✅ Ganada |
 | afraz | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $29,676 | +$6,514 | ✅ Ganada |
-| Zombie77 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,029 | +$9,885 | ✅ Ganada |
