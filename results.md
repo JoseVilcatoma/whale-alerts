@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 15:23:21 (hora de Perú)
+Actualizado: 2026-09-16 15:25:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2857**  ($155,167,424 en total)
+- Apuestas registradas: **2858**  ($155,244,457 en total)
 - Resueltas: **2819** — 1699 ganadas / 1120 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 405
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.82 (55¢) | $77,033 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Houston Astros | Houston Astros | 1.64 (61¢) | $98,381 | — | ⏳ Pendiente |
 | ukowna | Will FC Barcelona win on 2026-09-16? | Yes | 1.08 (93¢) | $89,651 | — | ⏳ Pendiente |
 | halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.13 (47¢) | $151,764 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | afraz | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $29,676 | +$6,514 | ✅ Ganada |
 | Zombie77 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,029 | +$9,885 | ✅ Ganada |
 | 177-letsgo | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $37,600 | +$2,400 | ✅ Ganada |
-| ptrck7 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $47,015 | +$10,320 | ✅ Ganada |

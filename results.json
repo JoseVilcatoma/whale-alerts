@@ -42957,5 +42957,20 @@
     "status": "pending",
     "ultimo_fill": 1789589760,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5827,
+    "timestamp": 1789590319,
+    "username": "suntori",
+    "wallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+    "slug": "mlb-nyy-min-2026-09-16",
+    "title": "New York Yankees vs. Minnesota Twins",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 77033.24200000001,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1789590319,
+    "fills": 1
   }
 ]
