@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 16:51:41 (hora de Perú)
+Actualizado: 2026-09-16 16:53:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2864**  ($155,529,273 en total)
-- Resueltas: **2820** — 1700 ganadas / 1120 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Apuestas registradas: **2865**  ($155,563,521 en total)
+- Resueltas: **2827** — 1707 ganadas / 1120 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 405
 
 ### Balance
 
-- **Resultado de los apostadores: +$69,416** sobre $152,178,150 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$8,436** sobre $277,600 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$148,908** sobre $153,094,703 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$8,375** sobre $278,300 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 215 | 113 | 2 | 66% | $21,755,385 | +$1,091,584 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 76 | 65 | 1 | 54% | $5,876,171 | -$183,628 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 76 | 65 | 2 | 54% | $5,910,419 | -$183,628 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | pleaseplease123 | 59 | 40 | 3 | 60% | $4,600,953 | +$661,934 |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | SDTrading | 16 | 19 | 0 | 46% | $1,043,223 | -$159,601 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 12 | 1 | 33% | $1,021,344 | -$314,813 |
-| surfandturf | 3 | 2 | 2 | ⚠️ 60% (5) | $980,333 | -$53,804 |
+| surfandturf | 5 | 2 | 0 | ⚠️ 71% (7) | $980,333 | +$3,774 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $34,248 | — | ⏳ Pendiente |
 | theowalcott | Will CA Mineiro win on 2026-09-16? | Yes | 1.96 (51¢) | $27,548 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Sao Paulo Open: Vendula Valdmannova vs Laura Pigossi | Laura Pigossi | 3.03 (33¢) | $83,339 | — | ⏳ Pendiente |
 | pleaseplease123 | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 2.00 (50¢) | $53,580 | — | ⏳ Pendiente |
@@ -79,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.79 (56¢) | $51,833 | — | ⏳ Pendiente |
 | suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.82 (55¢) | $77,033 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Houston Astros | Houston Astros | 1.64 (61¢) | $98,381 | — | ⏳ Pendiente |
-| ukowna | Will FC Barcelona win on 2026-09-16? | Yes | 1.08 (93¢) | $89,651 | — | ⏳ Pendiente |
+| ukowna | Will FC Barcelona win on 2026-09-16? | Yes | 1.08 (93¢) | $89,651 | +$6,748 | ✅ Ganada |
 | halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.13 (47¢) | $151,764 | — | ⏳ Pendiente |
 | SharkbetX-com | Will AC Milan win on 2026-09-16? | No | 1.85 (54¢) | $35,217 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AC Milan win on 2026-09-16? | No | 1.82 (55¢) | $26,125 | — | ⏳ Pendiente |
@@ -88,8 +89,8 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | Elaran1993 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $49,495 | -$2,020 | 💰 Vendida antes |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $39,130 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $59,454 | — | ⏳ Pendiente |
-| surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $456,170 | — | ⏳ Pendiente |
-| p1252 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
+| surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $456,170 | +$39,667 | ✅ Ganada |
+| p1252 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
 | Jsram | Will Aston Villa FC win on 2026-09-16? | No | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Jsram | Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | jaytee158 | Will Club Atlético de Madrid win on 2026-09-16? | Yes | 1.10 (91¢) | $40,413 | +$3,997 | ✅ Ganada |
@@ -98,14 +99,14 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | xifutloong3 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $41,348 | +$25,342 | ✅ Ganada |
 | Sassy-Bucket | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers | 2.22 (45¢) | $34,358 | — | ⏳ Pendiente |
 | Pwaddler | New York Yankees vs. Minnesota Twins | New York Yankees | 1.67 (60¢) | $36,899 | — | ⏳ Pendiente |
-| Ne8om | Will FC Barcelona win on 2026-09-16? | Yes | 1.10 (91¢) | $70,286 | — | ⏳ Pendiente |
+| Ne8om | Will FC Barcelona win on 2026-09-16? | Yes | 1.10 (91¢) | $70,286 | +$6,951 | ✅ Ganada |
 | zhqzhq | Will CA Osasuna win on 2026-09-16? | No | 1.09 (92¢) | $35,000 | +$3,043 | ✅ Ganada |
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $32,480 | +$3,212 | ✅ Ganada |
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $46,097 | +$4,559 | ✅ Ganada |
 | Painfulvoid | Will Bayer 04 Leverkusen win on 2026-09-16? | Yes | 1.08 (93¢) | $65,714 | — | ⏳ Pendiente |
-| donchonx | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
-| 1xx3 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $30,066 | — | ⏳ Pendiente |
-| surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $205,979 | — | ⏳ Pendiente |
+| donchonx | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
+| 1xx3 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $30,066 | +$2,614 | ✅ Ganada |
+| surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $205,979 | +$17,911 | ✅ Ganada |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Valencia: Martina Trevisan vs Clara Burel | Martina Trevisan | 2.04 (49¢) | $30,677 | — | ⊘ Anulada |
 | 0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390 | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.18 (85¢) | $43,457 | +$7,669 | ✅ Ganada |
 | tenniz | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.12 (89¢) | $42,282 | +$5,226 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 1.89 (53¢) | $26,281 | +$23,306 | ✅ Ganada |
 | Talvez10 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $36,597 | +$41,270 | ✅ Ganada |
 | pleaseplease123 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,246 | -$30,246 | ❌ Perdida |
-| Donkey14 | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.49 (67¢) | $40,606 | +$20,000 | ✅ Ganada |

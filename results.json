@@ -42547,7 +42547,7 @@
     "side": "BUY",
     "usd": 205979.18640000004,
     "odds_at_bet": 92,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789560451,
     "fills": 1
   },
@@ -42562,7 +42562,7 @@
     "side": "BUY",
     "usd": 30065.600000000002,
     "odds_at_bet": 92,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789566134,
     "fills": 1
   },
@@ -42577,7 +42577,7 @@
     "side": "BUY",
     "usd": 27600.0,
     "odds_at_bet": 92,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789566261,
     "fills": 1
   },
@@ -42652,7 +42652,7 @@
     "side": "BUY",
     "usd": 70286.18870000001,
     "odds_at_bet": 91,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789577421,
     "fills": 1
   },
@@ -42787,7 +42787,7 @@
     "side": "BUY",
     "usd": 36800.0,
     "odds_at_bet": 92,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789583165,
     "fills": 1
   },
@@ -42802,7 +42802,7 @@
     "side": "BUY",
     "usd": 456170.4264,
     "odds_at_bet": 92,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789583666,
     "fills": 1
   },
@@ -42939,7 +42939,7 @@
     "side": "BUY",
     "usd": 89651.06070000002,
     "odds_at_bet": 93,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789586675,
     "fills": 1
   },
@@ -43061,6 +43061,21 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1789595189,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5835,
+    "timestamp": 1789595543,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-lad-cin-2026-09-16-total-8pt5",
+    "title": "Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 34247.995800000004,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789595543,
     "fills": 1
   }
 ]
