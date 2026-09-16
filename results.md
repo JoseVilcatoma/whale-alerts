@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 17:01:57 (hora de Perú)
+Actualizado: 2026-09-16 17:04:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2866**  ($155,590,739 en total)
-- Resueltas: **2832** — 1708 ganadas / 1124 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **2833** — 1708 ganadas / 1125 perdidas (**60%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 405
 
 ### Balance
 
-- **Resultado de los apostadores: -$38,716** sobre $153,359,052 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$8,679** sobre $278,800 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$73,074** sobre $153,393,411 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$8,779** sobre $278,900 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Sassy-Bucket | 24 | 25 | 2 | 49% | $2,489,480 | -$112,979 |
+| Sassy-Bucket | 24 | 26 | 1 | 48% | $2,489,480 | -$147,337 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | 0x076d…8d4c | Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $28,046 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will AC Milan win on 2026-09-16? | Yes | 2.22 (45¢) | $30,868 | — | ⏳ Pendiente |
 | xifutloong3 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $41,348 | +$25,342 | ✅ Ganada |
-| Sassy-Bucket | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers | 2.22 (45¢) | $34,358 | — | ⏳ Pendiente |
+| Sassy-Bucket | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers | 2.22 (45¢) | $34,358 | -$34,358 | ❌ Perdida |
 | Pwaddler | New York Yankees vs. Minnesota Twins | New York Yankees | 1.67 (60¢) | $36,899 | -$36,899 | ❌ Perdida |
 | Ne8om | Will FC Barcelona win on 2026-09-16? | Yes | 1.10 (91¢) | $70,286 | +$6,951 | ✅ Ganada |
 | zhqzhq | Will CA Osasuna win on 2026-09-16? | No | 1.09 (92¢) | $35,000 | +$3,043 | ✅ Ganada |
