@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 11:39:11 (hora de Perú)
+Actualizado: 2026-09-16 11:41:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2835**  ($152,914,962 en total)
+- Apuestas registradas: **2836**  ($152,949,962 en total)
 - Resueltas: **2812** — 1693 ganadas / 1119 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 402
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 402 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| zhqzhq | Will CA Osasuna win on 2026-09-16? | No | 1.09 (92¢) | $35,000 | — | ⏳ Pendiente |
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $32,480 | — | ⏳ Pendiente |
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $46,097 | — | ⏳ Pendiente |
 | Painfulvoid | Will Bayer 04 Leverkusen win on 2026-09-16? | Yes | 1.08 (93¢) | $65,714 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 402 en total)_
 | jaytee158 | Afghanistan Tour of India T20s: India vs Afghanistan | India | 1.11 (90¢) | $25,406 | +$2,823 | ✅ Ganada |
 | watcherz88 | Valencia: Oksana Selekhmeteva vs Nastasja Schunk | Nastasja Schunk | 1.11 (90¢) | $49,755 | +$5,528 | ✅ Ganada |
 | Joey25 | Will Deportivo Alavés win on 2026-09-15? | No | 2.27 (44¢) | $31,692 | +$40,335 | ✅ Ganada |
-| kindar | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.72 (58¢) | $127,702 | -$127,702 | ❌ Perdida |
