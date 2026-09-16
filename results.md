@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 18:03:54 (hora de Perú)
+Actualizado: 2026-09-16 18:05:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2868**  ($155,655,193 en total)
-- Resueltas: **2842** — 1713 ganadas / 1129 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Resueltas: **2844** — 1713 ganadas / 1131 perdidas (**60%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 405
 
 ### Balance
 
-- **Resultado de los apostadores: -$845,366** sobre $154,597,153 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$8,906** sobre $279,800 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$899,413** sobre $154,651,200 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$9,106** sobre $280,000 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
-| Jsram | 12 | 9 | 1 | 57% | $881,230 | -$56,726 |
+| Jsram | 12 | 10 | 0 | 55% | $881,230 | -$82,726 |
 | halvanicus | 0 | 2 | 0 | ⚠️ 0% (2) | $875,427 | -$875,427 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 | gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
@@ -95,9 +95,9 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $456,170 | +$39,667 | ✅ Ganada |
 | p1252 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
 | Jsram | Will Aston Villa FC win on 2026-09-16? | No | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
-| Jsram | Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| Jsram | Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | jaytee158 | Will Club Atlético de Madrid win on 2026-09-16? | Yes | 1.10 (91¢) | $40,413 | +$3,997 | ✅ Ganada |
-| 0x076d…8d4c | Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $28,046 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $28,046 | -$28,046 | ❌ Perdida |
 | 0x076d…8d4c | Will AC Milan win on 2026-09-16? | Yes | 2.22 (45¢) | $30,868 | -$30,868 | ❌ Perdida |
 | xifutloong3 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $41,348 | +$25,342 | ✅ Ganada |
 | Sassy-Bucket | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers | 2.22 (45¢) | $34,358 | -$34,358 | ❌ Perdida |
