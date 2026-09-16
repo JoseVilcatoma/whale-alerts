@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 08:44:12 (hora de Perú)
+Actualizado: 2026-09-16 08:46:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2831**  ($152,743,071 en total)
+- Apuestas registradas: **2832**  ($152,770,671 en total)
 - Resueltas: **2812** — 1693 ganadas / 1119 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 402
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 402 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| donchonx | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
 | 1xx3 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $30,066 | — | ⏳ Pendiente |
 | surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $205,979 | — | ⏳ Pendiente |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Valencia: Martina Trevisan vs Clara Burel | Martina Trevisan | 2.04 (49¢) | $30,677 | — | ⊘ Anulada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 402 en total)_
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.16 (86¢) | $40,000 | -$40,000 | ❌ Perdida |
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.52 (66¢) | $40,000 | +$3,030 | 💰 Vendida antes |
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.35 (74¢) | $39,000 | +$1,581 | 💰 Vendida antes |
-| fivethirty | Guangzhou: Fajing Sun vs Alexis Galarneau | Fajing Sun | 1.25 (80¢) | $28,350 | +$7,088 | ✅ Ganada |
