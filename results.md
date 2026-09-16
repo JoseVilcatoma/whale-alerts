@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 15:15:15 (hora de Perú)
+Actualizado: 2026-09-16 15:17:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2856**  ($155,069,042 en total)
+- Apuestas registradas: **2857**  ($155,167,424 en total)
 - Resueltas: **2819** — 1699 ganadas / 1120 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 405
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| pleaseplease123 | 59 | 40 | 1 | 60% | $4,448,991 | +$661,934 |
+| pleaseplease123 | 59 | 40 | 2 | 60% | $4,547,372 | +$661,934 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Kansas City Royals vs. Houston Astros | Houston Astros | 1.64 (61¢) | $98,381 | — | ⏳ Pendiente |
 | ukowna | Will FC Barcelona win on 2026-09-16? | Yes | 1.08 (93¢) | $89,651 | — | ⏳ Pendiente |
 | halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.13 (47¢) | $151,764 | — | ⏳ Pendiente |
 | SharkbetX-com | Will AC Milan win on 2026-09-16? | No | 1.85 (54¢) | $35,217 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | Zombie77 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,029 | +$9,885 | ✅ Ganada |
 | 177-letsgo | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $37,600 | +$2,400 | ✅ Ganada |
 | ptrck7 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $47,015 | +$10,320 | ✅ Ganada |
-| 0xsven | Will Arsenal FC win on 2026-09-15? | Yes | 1.15 (87¢) | $39,273 | +$5,868 | ✅ Ganada |
