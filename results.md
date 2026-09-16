@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 17:41:10 (hora de Perú)
+Actualizado: 2026-09-16 17:43:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2866**  ($155,590,739 en total)
+- Apuestas registradas: **2868**  ($155,655,193 en total)
 - Resueltas: **2833** — 1708 ganadas / 1125 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Pendientes: 19
 - Apostadores distintos: 405
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 215 | 113 | 2 | 66% | $21,755,385 | +$1,091,584 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 77 | 65 | 1 | 54% | $5,910,419 | -$146,032 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 77 | 65 | 3 | 54% | $5,974,872 | -$146,032 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | pleaseplease123 | 59 | 41 | 2 | 59% | $4,600,953 | +$602,480 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Washington Nationals | Philadelphia Phillies | 1.56 (64¢) | $34,898 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Tampa Bay Rays | Athletics | 2.63 (38¢) | $29,555 | — | ⏳ Pendiente |
 | Sassy-Bucket | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.82 (55¢) | $27,219 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $34,248 | — | ⏳ Pendiente |
 | theowalcott | Will CA Mineiro win on 2026-09-16? | Yes | 1.96 (51¢) | $27,548 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | Talvez10 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $36,835 | -$36,835 | ❌ Perdida |
 | Talvez10 | Kansas City Royals vs. Houston Astros | Kansas City Royals | 2.50 (40¢) | $56,933 | -$56,933 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Colorado Rockies | San Diego Padres | 1.56 (64¢) | $38,659 | -$38,659 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 1.89 (53¢) | $26,281 | +$23,306 | ✅ Ganada |
-| Talvez10 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $36,597 | +$41,270 | ✅ Ganada |

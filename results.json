@@ -43092,5 +43092,35 @@
     "status": "pending",
     "ultimo_fill": 1789596033,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5851,
+    "timestamp": 1789598525,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-phi-wsh-2026-09-16",
+    "title": "Philadelphia Phillies vs. Washington Nationals",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 34898.1696,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1789598525,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5852,
+    "timestamp": 1789598356,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-oak-tb-2026-09-16",
+    "title": "Athletics vs. Tampa Bay Rays",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 29555.260000000002,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1789598356,
+    "fills": 1
   }
 ]
