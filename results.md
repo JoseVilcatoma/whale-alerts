@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 13:51:27 (hora de Perú)
+Actualizado: 2026-09-16 13:53:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2850**  ($153,925,231 en total)
-- Resueltas: **2812** — 1693 ganadas / 1119 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Resueltas: **2813** — 1693 ganadas / 1120 perdidas (**60%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 404
 
 ### Balance
 
-- **Resultado de los apostadores: +$21,075** sobre $151,846,120 apostados (ROI **+0.0%**)
+- **Resultado de los apostadores: +$19,055** sobre $151,895,614 apostados (ROI **+0.0%**)
 - Copiando $100 fijo en cada una: **-$8,559** sobre $276,900 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 404 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Elaran1993 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $49,495 | — | ⏳ Pendiente |
+| Elaran1993 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $49,495 | -$2,020 | 💰 Vendida antes |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $39,130 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $59,454 | — | ⏳ Pendiente |
 | surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $456,170 | — | ⏳ Pendiente |
