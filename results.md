@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 10:43:39 (hora de Perú)
+Actualizado: 2026-09-16 10:45:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2833**  ($152,836,385 en total)
+- Apuestas registradas: **2834**  ($152,882,482 en total)
 - Resueltas: **2812** — 1693 ganadas / 1119 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 402
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 402 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $46,097 | — | ⏳ Pendiente |
 | Painfulvoid | Will Bayer 04 Leverkusen win on 2026-09-16? | Yes | 1.08 (93¢) | $65,714 | — | ⏳ Pendiente |
 | donchonx | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
 | 1xx3 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $30,066 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 402 en total)_
 | Joey25 | Will Deportivo Alavés win on 2026-09-15? | No | 2.27 (44¢) | $31,692 | +$40,335 | ✅ Ganada |
 | kindar | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.72 (58¢) | $127,702 | -$127,702 | ❌ Perdida |
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.16 (86¢) | $40,000 | -$40,000 | ❌ Perdida |
-| fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.52 (66¢) | $40,000 | +$3,030 | 💰 Vendida antes |
