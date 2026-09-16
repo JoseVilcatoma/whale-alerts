@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 12:47:18 (hora de Perú)
+Actualizado: 2026-09-16 12:49:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2840**  ($153,132,854 en total)
+- Apuestas registradas: **2841**  ($153,163,722 en total)
 - Resueltas: **2812** — 1693 ganadas / 1119 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 403
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 403 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x076d…8d4c | Will AC Milan win on 2026-09-16? | Yes | 2.22 (45¢) | $30,868 | — | ⏳ Pendiente |
 | xifutloong3 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $41,348 | — | ⏳ Pendiente |
 | Sassy-Bucket | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers | 2.22 (45¢) | $34,358 | — | ⏳ Pendiente |
 | Pwaddler | New York Yankees vs. Minnesota Twins | New York Yankees | 1.67 (60¢) | $36,899 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 403 en total)_
 | HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.27 (79¢) | $34,790 | +$9,248 | ✅ Ganada |
 | jaytee158 | LoL: Skillcamp Esport vs Project Conquerors (BO5) - LFL Promotion Playoffs | Skillcamp Esport | 1.15 (87¢) | $43,497 | +$6,500 | ✅ Ganada |
 | SS787878 | Counter-Strike: FORZE Reload vs UPGRADE (BO3) - CIS LAN Championship Playoffs | FORZE Reload | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
-| watcherz88 | Sao Paulo Open: Darja Semenistaja vs Hayu Kinoshita | Darja Semenistaja | 1.27 (79¢) | $46,309 | +$12,310 | ✅ Ganada |
