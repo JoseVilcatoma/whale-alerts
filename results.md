@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 11:49:29 (hora de Perú)
+Actualizado: 2026-09-16 11:51:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2836**  ($152,949,962 en total)
+- Apuestas registradas: **2837**  ($153,020,249 en total)
 - Resueltas: **2812** — 1693 ganadas / 1119 perdidas (**60%** de acierto)
-- Pendientes: 8
-- Apostadores distintos: 402
+- Pendientes: 9
+- Apostadores distintos: 403
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | texaskid | 5 | 7 | 0 | 42% | $602,221 | -$118,976 |
 
-_(mostrando los 40 de mayor monto, de 402 en total)_
+_(mostrando los 40 de mayor monto, de 403 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Ne8om | Will FC Barcelona win on 2026-09-16? | Yes | 1.10 (91¢) | $70,286 | — | ⏳ Pendiente |
 | zhqzhq | Will CA Osasuna win on 2026-09-16? | No | 1.09 (92¢) | $35,000 | — | ⏳ Pendiente |
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $32,480 | — | ⏳ Pendiente |
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $46,097 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 402 en total)_
 | 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.69 (59¢) | $319,948 | -$319,948 | ❌ Perdida |
 | jaytee158 | Afghanistan Tour of India T20s: India vs Afghanistan | India | 1.11 (90¢) | $25,406 | +$2,823 | ✅ Ganada |
 | watcherz88 | Valencia: Oksana Selekhmeteva vs Nastasja Schunk | Nastasja Schunk | 1.11 (90¢) | $49,755 | +$5,528 | ✅ Ganada |
-| Joey25 | Will Deportivo Alavés win on 2026-09-15? | No | 2.27 (44¢) | $31,692 | +$40,335 | ✅ Ganada |
