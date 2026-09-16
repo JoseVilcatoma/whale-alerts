@@ -1,6 +1,6 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 11:06:13 (hora de Perú)
+Actualizado: 2026-09-16 11:08:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
@@ -8,7 +8,7 @@ Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 - Apuestas registradas: **2835**  ($152,914,962 en total)
 - Resueltas: **2812** — 1693 ganadas / 1119 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Pendientes: 7
 - Apostadores distintos: 402
 
 ### Balance
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 402 en total)_
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.11 (90¢) | $45,682 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.75 (57¢) | $33,226 | -$33,226 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tiburon: Darwin Blanch vs Stefan Kozlov | Darwin Blanch | 1.54 (65¢) | $31,027 | +$16,707 | ✅ Ganada |
-| RealityTwister | W35 Shenyang: Meng Yi Chen vs Tahlia Kokkinis | Tahlia Kokkinis | 1.96 (51¢) | $64,331 | — | ⏳ Pendiente |
+| RealityTwister | W35 Shenyang: Meng Yi Chen vs Tahlia Kokkinis | Tahlia Kokkinis | 1.96 (51¢) | $64,331 | — | ⊘ Anulada |
 | pleaseplease123 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $121,313 | -$121,313 | ❌ Perdida |
 | pleaseplease123 | Boston Red Sox vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $29,709 | +$29,709 | ✅ Ganada |
 | BrotherObama | Miami Marlins vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $30,000 | -$30,000 | ❌ Perdida |
