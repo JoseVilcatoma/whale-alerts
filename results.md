@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 13:55:32 (hora de Perú)
+Actualizado: 2026-09-16 13:57:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2851**  ($154,052,707 en total)
+- Apuestas registradas: **2851**  ($154,444,307 en total)
 - Resueltas: **2813** — 1693 ganadas / 1120 perdidas (**60%** de acierto)
 - Pendientes: 22
 - Apostadores distintos: 405
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.38 (42¢) | $127,476 | — | ⏳ Pendiente |
+| halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.27 (44¢) | $519,076 | — | ⏳ Pendiente |
 | Elaran1993 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $49,495 | -$2,020 | 💰 Vendida antes |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $39,130 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $59,454 | — | ⏳ Pendiente |
