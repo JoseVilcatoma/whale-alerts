@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 16:35:11 (hora de Perú)
+Actualizado: 2026-09-16 16:37:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2863**  ($155,451,386 en total)
+- Apuestas registradas: **2863**  ($155,501,725 en total)
 - Resueltas: **2820** — 1700 ganadas / 1120 perdidas (**60%** de acierto)
 - Pendientes: 27
 - Apostadores distintos: 405
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Sao Paulo Open: Vendula Valdmannova vs Laura Pigossi | Laura Pigossi | 3.03 (33¢) | $33,000 | — | ⏳ Pendiente |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Sao Paulo Open: Vendula Valdmannova vs Laura Pigossi | Laura Pigossi | 3.03 (33¢) | $83,339 | — | ⏳ Pendiente |
 | pleaseplease123 | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 2.00 (50¢) | $53,580 | — | ⏳ Pendiente |
 | tenniz | Szczecin: Laslo Djere vs Luka Mikrut | Luka Mikrut | 1.12 (89¢) | $41,516 | +$5,131 | ✅ Ganada |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Sport Lisboa e Benfica win on 2026-09-16? | Yes | 1.14 (88¢) | $27,000 | — | ⏳ Pendiente |
