@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 07:06:09 (hora de Perú)
+Actualizado: 2026-09-16 07:08:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2829**  ($152,507,027 en total)
+- Apuestas registradas: **2830**  ($152,713,006 en total)
 - Resueltas: **2812** — 1693 ganadas / 1119 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 401
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 401 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $205,979 | — | ⏳ Pendiente |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Valencia: Martina Trevisan vs Clara Burel | Martina Trevisan | 2.04 (49¢) | $30,677 | — | ⏳ Pendiente |
 | 0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390 | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.18 (85¢) | $43,457 | +$7,669 | ✅ Ganada |
 | tenniz | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.12 (89¢) | $42,282 | +$5,226 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 401 en total)_
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.35 (74¢) | $39,000 | +$1,581 | 💰 Vendida antes |
 | fivethirty | Guangzhou: Fajing Sun vs Alexis Galarneau | Fajing Sun | 1.25 (80¢) | $28,350 | +$7,088 | ✅ Ganada |
 | fivethirty | Guangzhou: Jake Delaney vs Hikaru Shiraishi | Jake Delaney | 1.22 (82¢) | $30,000 | +$6,585 | ✅ Ganada |
-| surfandturf | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $100,630 | +$22,089 | ✅ Ganada |
