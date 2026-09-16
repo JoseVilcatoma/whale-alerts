@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 21:54:29 (hora de Perú)
+Actualizado: 2026-09-15 21:56:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2826**  ($152,390,611 en total)
-- Resueltas: **2797** — 1688 ganadas / 1109 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Resueltas: **2801** — 1690 ganadas / 1111 perdidas (**60%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 399
 
 ### Balance
 
-- **Resultado de los apostadores: +$378,669** sobre $151,169,036 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,856** sobre $275,400 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$358,617** sobre $151,350,527 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$7,889** sobre $275,800 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| pleaseplease123 | 57 | 39 | 3 | 59% | $4,389,537 | +$704,367 |
+| pleaseplease123 | 58 | 39 | 2 | 60% | $4,389,537 | +$753,538 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| BrotherObama | 13 | 17 | 3 | 43% | $1,574,448 | +$74,064 |
+| BrotherObama | 14 | 17 | 2 | 45% | $1,574,448 | +$98,610 |
 | ferrariChampions2026 | 23 | 14 | 0 | 62% | $1,489,930 | -$468,530 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 16 | 19 | 0 | 46% | $1,043,223 | -$159,601 |
 | xifutloong3 | 16 | 15 | 0 | 52% | $1,023,989 | -$155,287 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 12 | 0 | 33% | $995,219 | -$314,813 |
-| Talvez10 | 9 | 5 | 4 | 64% | $957,905 | +$343,238 |
+| Talvez10 | 9 | 7 | 2 | 56% | $957,905 | +$249,470 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
@@ -79,15 +79,15 @@ _(mostrando los 40 de mayor monto, de 399 en total)_
 | pleaseplease123 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $121,313 | — | ⏳ Pendiente |
 | pleaseplease123 | Boston Red Sox vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $29,709 | — | ⏳ Pendiente |
 | BrotherObama | Miami Marlins vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
-| BrotherObama | Kansas City Royals vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,000 | — | ⏳ Pendiente |
+| BrotherObama | Kansas City Royals vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,000 | +$24,545 | ✅ Ganada |
 | monkeymashingkeyboard | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Toronto Blue Jays | Toronto Blue Jays | 1.85 (54¢) | $252,119 | -$252,119 | ❌ Perdida |
 | xifutloong3 | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.47 (68¢) | $50,000 | +$23,529 | ✅ Ganada |
 | SharkbetX-com | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $25,000 | +$17,373 | ✅ Ganada |
 | Talvez10 | San Francisco Giants vs. St. Louis Cardinals | St. Louis Cardinals | 1.61 (62¢) | $26,040 | — | ⏳ Pendiente |
-| pleaseplease123 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $57,722 | — | ⏳ Pendiente |
-| Talvez10 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $36,835 | — | ⏳ Pendiente |
-| Talvez10 | Kansas City Royals vs. Houston Astros | Kansas City Royals | 2.50 (40¢) | $56,933 | — | ⏳ Pendiente |
+| pleaseplease123 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $57,722 | +$49,171 | ✅ Ganada |
+| Talvez10 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $36,835 | -$36,835 | ❌ Perdida |
+| Talvez10 | Kansas City Royals vs. Houston Astros | Kansas City Royals | 2.50 (40¢) | $56,933 | -$56,933 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Colorado Rockies | San Diego Padres | 1.56 (64¢) | $38,659 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 1.89 (53¢) | $26,281 | +$23,306 | ✅ Ganada |
 | Talvez10 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $36,597 | +$41,270 | ✅ Ganada |
