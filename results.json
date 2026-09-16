@@ -42817,7 +42817,7 @@
     "side": "BUY",
     "usd": 59454.1059,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789583963,
     "fills": 1
   },
@@ -42832,7 +42832,7 @@
     "side": "BUY",
     "usd": 39130.193699999996,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789584671,
     "fills": 1
   },
@@ -43076,6 +43076,21 @@
     "odds_at_bet": 53,
     "status": "pending",
     "ultimo_fill": 1789595543,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5846,
+    "timestamp": 1789596033,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-mil-pit-2026-09-16",
+    "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 27218.862,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1789596033,
     "fills": 1
   }
 ]

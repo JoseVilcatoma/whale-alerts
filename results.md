@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 16:59:55 (hora de Perú)
+Actualizado: 2026-09-16 17:01:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2865**  ($155,563,521 en total)
-- Resueltas: **2830** — 1707 ganadas / 1123 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Apuestas registradas: **2866**  ($155,590,739 en total)
+- Resueltas: **2832** — 1708 ganadas / 1124 perdidas (**60%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 405
 
 ### Balance
 
-- **Resultado de los apostadores: -$16,857** sobre $153,260,468 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$8,675** sobre $278,600 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$38,716** sobre $153,359,052 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$8,679** sobre $278,800 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,15 +26,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 215 | 113 | 2 | 66% | $21,755,385 | +$1,091,584 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 76 | 65 | 2 | 54% | $5,910,419 | -$183,628 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 77 | 65 | 1 | 54% | $5,910,419 | -$146,032 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
-| pleaseplease123 | 59 | 40 | 3 | 60% | $4,600,953 | +$661,934 |
+| pleaseplease123 | 59 | 41 | 2 | 59% | $4,600,953 | +$602,480 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Sassy-Bucket | 24 | 25 | 1 | 49% | $2,462,261 | -$112,979 |
+| Sassy-Bucket | 24 | 25 | 2 | 49% | $2,489,480 | -$112,979 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.82 (55¢) | $27,219 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $34,248 | — | ⏳ Pendiente |
 | theowalcott | Will CA Mineiro win on 2026-09-16? | Yes | 1.96 (51¢) | $27,548 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Sao Paulo Open: Vendula Valdmannova vs Laura Pigossi | Laura Pigossi | 3.03 (33¢) | $83,339 | — | ⏳ Pendiente |
@@ -87,8 +88,8 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | ndb1 | Will AC Milan win on 2026-09-16? | No | 1.85 (54¢) | $117,391 | — | ⏳ Pendiente |
 | halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.22 (45¢) | $723,663 | — | ⏳ Pendiente |
 | Elaran1993 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $49,495 | -$2,020 | 💰 Vendida antes |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $39,130 | — | ⏳ Pendiente |
-| pleaseplease123 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $59,454 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $39,130 | +$37,596 | ✅ Ganada |
+| pleaseplease123 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $59,454 | -$59,454 | ❌ Perdida |
 | surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $456,170 | +$39,667 | ✅ Ganada |
 | p1252 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
 | Jsram | Will Aston Villa FC win on 2026-09-16? | No | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Colorado Rockies | San Diego Padres | 1.56 (64¢) | $38,659 | -$38,659 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 1.89 (53¢) | $26,281 | +$23,306 | ✅ Ganada |
 | Talvez10 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $36,597 | +$41,270 | ✅ Ganada |
-| pleaseplease123 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,246 | -$30,246 | ❌ Perdida |
