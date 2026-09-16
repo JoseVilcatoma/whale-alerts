@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 12:55:30 (hora de Perú)
+Actualizado: 2026-09-16 12:57:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2841**  ($153,163,722 en total)
+- Apuestas registradas: **2844**  ($153,258,182 en total)
 - Resueltas: **2812** — 1693 ganadas / 1119 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 16
 - Apostadores distintos: 403
 
 ### Balance
@@ -55,8 +55,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
+| Jsram | 12 | 8 | 1 | 60% | $855,230 | -$30,726 |
 | gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
-| Jsram | 12 | 8 | 0 | 60% | $829,230 | -$30,726 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | ndb1 | 7 | 7 | 0 | 50% | $729,427 | +$58,221 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 403 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| jaytee158 | Will Club Atlético de Madrid win on 2026-09-16? | Yes | 1.10 (91¢) | $40,413 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $28,046 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will AC Milan win on 2026-09-16? | Yes | 2.22 (45¢) | $30,868 | — | ⏳ Pendiente |
 | xifutloong3 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $41,348 | — | ⏳ Pendiente |
 | Sassy-Bucket | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers | 2.22 (45¢) | $34,358 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 403 en total)_
 | HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.06 (94¢) | $44,897 | +$2,866 | ✅ Ganada |
 | 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.67 (60¢) | $57,686 | -$57,686 | ❌ Perdida |
 | gambamaster | Will Deportivo Alavés win on 2026-09-15? | No | 2.50 (40¢) | $50,843 | +$76,264 | ✅ Ganada |
-| HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.27 (79¢) | $34,790 | +$9,248 | ✅ Ganada |
-| jaytee158 | LoL: Skillcamp Esport vs Project Conquerors (BO5) - LFL Promotion Playoffs | Skillcamp Esport | 1.15 (87¢) | $43,497 | +$6,500 | ✅ Ganada |
-| SS787878 | Counter-Strike: FORZE Reload vs UPGRADE (BO3) - CIS LAN Championship Playoffs | FORZE Reload | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |

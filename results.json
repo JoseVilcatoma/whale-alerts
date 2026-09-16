@@ -42715,5 +42715,50 @@
     "status": "pending",
     "ultimo_fill": 1789580917,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5803,
+    "timestamp": 1789581346,
+    "username": "0x076d\u20268d4c",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "efl-mnu-bha-2026-09-16-total-3pt5",
+    "title": "Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 28046.43,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1789581346,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5804,
+    "timestamp": 1789581406,
+    "username": "jaytee158",
+    "wallet": "0xa2c908ce8b8386bc8c5471120c5a662551332c23",
+    "slug": "lal-mad-osa-2026-09-16-mad",
+    "title": "Will Club Atl\u00e9tico de Madrid win on 2026-09-16?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 40413.37300000001,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1789581406,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5805,
+    "timestamp": 1789581425,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "efl-mnu-bha-2026-09-16-total-3pt5",
+    "title": "Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 26000.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789581425,
+    "fills": 1
   }
 ]
