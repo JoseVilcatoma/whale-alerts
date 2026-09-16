@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 21:28:02 (hora de Perú)
+Actualizado: 2026-09-15 21:30:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2825**  ($152,348,376 en total)
+- Apuestas registradas: **2826**  ($152,390,611 en total)
 - Resueltas: **2796** — 1688 ganadas / 1108 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 399
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 399 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Runemup | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.67 (60¢) | $42,234 | — | ⏳ Pendiente |
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.11 (90¢) | $45,682 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.75 (57¢) | $33,226 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tiburon: Darwin Blanch vs Stefan Kozlov | Darwin Blanch | 1.54 (65¢) | $31,027 | +$16,707 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 399 en total)_
 | mimi121 | Counter-Strike: Brute vs G2 Ares (BO3) - NODWIN Clutch Series Group Stage | Brute | 1.79 (56¢) | $25,057 | +$19,688 | ✅ Ganada |
 | mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,763 | +$10,045 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins | 1.20 (83¢) | $70,509 | -$70,509 | ❌ Perdida |
-| fivethirty | Broncos vs. Chiefs | Chiefs | 1.11 (90¢) | $40,000 | +$4,444 | ✅ Ganada |
