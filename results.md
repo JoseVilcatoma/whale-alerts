@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 14:18:04 (hora de Perú)
+Actualizado: 2026-09-16 14:20:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2855**  ($154,979,391 en total)
-- Resueltas: **2813** — 1693 ganadas / 1120 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Resueltas: **2817** — 1697 ganadas / 1120 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 405
 
 ### Balance
 
-- **Resultado de los apostadores: +$19,055** sobre $151,895,614 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$8,559** sobre $276,900 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$34,945** sobre $152,054,873 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$8,519** sobre $277,300 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,9 +90,9 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | Sassy-Bucket | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers | 2.22 (45¢) | $34,358 | — | ⏳ Pendiente |
 | Pwaddler | New York Yankees vs. Minnesota Twins | New York Yankees | 1.67 (60¢) | $36,899 | — | ⏳ Pendiente |
 | Ne8om | Will FC Barcelona win on 2026-09-16? | Yes | 1.10 (91¢) | $70,286 | — | ⏳ Pendiente |
-| zhqzhq | Will CA Osasuna win on 2026-09-16? | No | 1.09 (92¢) | $35,000 | — | ⏳ Pendiente |
-| phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $32,480 | — | ⏳ Pendiente |
-| phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $46,097 | — | ⏳ Pendiente |
+| zhqzhq | Will CA Osasuna win on 2026-09-16? | No | 1.09 (92¢) | $35,000 | +$3,043 | ✅ Ganada |
+| phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $32,480 | +$3,212 | ✅ Ganada |
+| phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $46,097 | +$4,559 | ✅ Ganada |
 | Painfulvoid | Will Bayer 04 Leverkusen win on 2026-09-16? | Yes | 1.08 (93¢) | $65,714 | — | ⏳ Pendiente |
 | donchonx | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
 | 1xx3 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $30,066 | — | ⏳ Pendiente |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | 0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390 | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.18 (85¢) | $43,457 | +$7,669 | ✅ Ganada |
 | tenniz | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.12 (89¢) | $42,282 | +$5,226 | ✅ Ganada |
 | Runemup | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.67 (60¢) | $42,234 | -$42,234 | ❌ Perdida |
-| phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.11 (90¢) | $45,682 | — | ⏳ Pendiente |
+| phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.11 (90¢) | $45,682 | +$5,076 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.75 (57¢) | $33,226 | -$33,226 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tiburon: Darwin Blanch vs Stefan Kozlov | Darwin Blanch | 1.54 (65¢) | $31,027 | +$16,707 | ✅ Ganada |
 | RealityTwister | W35 Shenyang: Meng Yi Chen vs Tahlia Kokkinis | Tahlia Kokkinis | 1.96 (51¢) | $64,331 | — | ⊘ Anulada |
