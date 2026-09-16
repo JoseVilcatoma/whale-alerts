@@ -43122,5 +43122,20 @@
     "status": "pending",
     "ultimo_fill": 1789598356,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5864,
+    "timestamp": 1789600035,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-bal-nym-2026-09-16",
+    "title": "Baltimore Orioles vs. New York Mets",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 38177.250799999994,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789600035,
+    "fills": 1
   }
 ]
