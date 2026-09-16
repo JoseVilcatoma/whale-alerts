@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 22:27:21 (hora de Perú)
+Actualizado: 2026-09-15 22:29:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2826**  ($152,390,611 en total)
-- Resueltas: **2803** — 1690 ganadas / 1113 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Resueltas: **2804** — 1691 ganadas / 1113 perdidas (**60%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 399
 
 ### Balance
 
-- **Resultado de los apostadores: +$274,404** sobre $151,434,740 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$8,089** sobre $276,000 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$304,113** sobre $151,464,449 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$7,989** sobre $276,100 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| pleaseplease123 | 58 | 39 | 2 | 60% | $4,389,537 | +$753,538 |
+| pleaseplease123 | 59 | 39 | 1 | 60% | $4,389,537 | +$783,247 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 399 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tiburon: Darwin Blanch vs Stefan Kozlov | Darwin Blanch | 1.54 (65¢) | $31,027 | +$16,707 | ✅ Ganada |
 | RealityTwister | W35 Shenyang: Meng Yi Chen vs Tahlia Kokkinis | Tahlia Kokkinis | 1.96 (51¢) | $64,331 | — | ⏳ Pendiente |
 | pleaseplease123 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $121,313 | — | ⏳ Pendiente |
-| pleaseplease123 | Boston Red Sox vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $29,709 | — | ⏳ Pendiente |
+| pleaseplease123 | Boston Red Sox vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $29,709 | +$29,709 | ✅ Ganada |
 | BrotherObama | Miami Marlins vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | Kansas City Royals vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,000 | +$24,545 | ✅ Ganada |
 | monkeymashingkeyboard | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
