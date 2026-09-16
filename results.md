@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 16:45:29 (hora de Perú)
+Actualizado: 2026-09-16 16:47:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2863**  ($155,501,725 en total)
+- Apuestas registradas: **2864**  ($155,529,273 en total)
 - Resueltas: **2820** — 1700 ganadas / 1120 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 405
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will CA Mineiro win on 2026-09-16? | Yes | 1.96 (51¢) | $27,548 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Sao Paulo Open: Vendula Valdmannova vs Laura Pigossi | Laura Pigossi | 3.03 (33¢) | $83,339 | — | ⏳ Pendiente |
 | pleaseplease123 | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 2.00 (50¢) | $53,580 | — | ⏳ Pendiente |
 | tenniz | Szczecin: Laslo Djere vs Luka Mikrut | Luka Mikrut | 1.12 (89¢) | $41,516 | +$5,131 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | Talvez10 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $36,597 | +$41,270 | ✅ Ganada |
 | pleaseplease123 | Philadelphia Phillies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,246 | -$30,246 | ❌ Perdida |
 | Donkey14 | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.49 (67¢) | $40,606 | +$20,000 | ✅ Ganada |
-| Talvez10 | San Francisco Giants vs. St. Louis Cardinals | St. Louis Cardinals | 1.61 (62¢) | $58,173 | -$58,173 | ❌ Perdida |
