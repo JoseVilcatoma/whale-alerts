@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 13:11:56 (hora de Perú)
+Actualizado: 2026-09-17 13:14:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2922**  ($158,360,085 en total)
+- Apuestas registradas: **2923**  ($158,392,854 en total)
 - Resueltas: **2872** — 1725 ganadas / 1147 perdidas (**60%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 410
 
 ### Balance
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 16 | 19 | 2 | 46% | $1,097,906 | -$159,601 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | halvanicus | 0 | 2 | 1 | ⚠️ 0% (2) | $1,023,502 | -$875,427 |
-| surfandturf | 5 | 2 | 0 | ⚠️ 71% (7) | $980,333 | +$3,774 |
+| surfandturf | 5 | 2 | 1 | ⚠️ 71% (7) | $1,013,101 | +$3,774 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | Jsram | 12 | 10 | 2 | 55% | $956,445 | -$82,726 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Will Manchester City FC win on 2026-09-17? | Yes | 1.18 (85¢) | $32,769 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $41,671 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Getafe CF win on 2026-09-17? | No | 1.09 (92¢) | $83,566 | — | ⏳ Pendiente |
 | theowalcott | Spread: Crystal Palace FC (-1.5) | KKS Lech Poznań | 1.96 (51¢) | $25,769 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | Sassy-Bucket | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.82 (55¢) | $27,219 | +$22,270 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $34,248 | +$30,371 | ✅ Ganada |
 | theowalcott | Will CA Mineiro win on 2026-09-16? | Yes | 1.96 (51¢) | $27,548 | +$26,468 | ✅ Ganada |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Sao Paulo Open: Vendula Valdmannova vs Laura Pigossi | Laura Pigossi | 3.03 (33¢) | $83,339 | -$83,339 | ❌ Perdida |
