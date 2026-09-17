@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 10:08:03 (hora de Perú)
+Actualizado: 2026-09-17 10:10:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2899**  ($157,019,484 en total)
+- Apuestas registradas: **2900**  ($157,045,790 en total)
 - Resueltas: **2867** — 1721 ganadas / 1146 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 410
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Manchester City FC win on 2026-09-17? | Yes | 1.14 (88¢) | $26,306 | — | ⏳ Pendiente |
 | MiltonFriedmanHongKong | Will Real Sociedad de Fútbol win on 2026-09-17? | No | 1.43 (70¢) | $119,241 | — | ⏳ Pendiente |
 | Ancient-Strike | Counter-Strike: Natus Vincere vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 2.17 (46¢) | $26,086 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Betis Balompié win on 2026-09-17? | No | 2.78 (36¢) | $34,053 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | jaytee158 | Will Club Atlético de Madrid win on 2026-09-16? | Yes | 1.10 (91¢) | $40,413 | +$3,997 | ✅ Ganada |
 | 0x076d…8d4c | Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $28,046 | -$28,046 | ❌ Perdida |
 | 0x076d…8d4c | Will AC Milan win on 2026-09-16? | Yes | 2.22 (45¢) | $30,868 | -$30,868 | ❌ Perdida |
-| xifutloong3 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $41,348 | +$25,342 | ✅ Ganada |

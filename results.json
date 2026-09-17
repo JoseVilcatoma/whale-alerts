@@ -43587,5 +43587,20 @@
     "status": "pending",
     "ultimo_fill": 1789657605,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 5921,
+    "timestamp": 1789657696,
+    "username": "0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186",
+    "wallet": "0x2cc8cc54f50dbb45fe346612821ca93b6e93262b",
+    "slug": "efl-mnc-nor-2026-09-17-mnc",
+    "title": "Will Manchester City FC win on 2026-09-17?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 26306.324,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1789657696,
+    "fills": 1
   }
 ]
