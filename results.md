@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 12:32:38 (hora de Perú)
+Actualizado: 2026-09-17 12:34:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2916**  ($158,131,001 en total)
+- Apuestas registradas: **2917**  ($158,156,578 en total)
 - Resueltas: **2871** — 1725 ganadas / 1146 perdidas (**60%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 410
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | San Diego Padres vs. Colorado Rockies | San Diego Padres | 1.54 (65¢) | $25,576 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Luminosity vs NIP (BO1) - Logitech G Play Connect Group A | NIP | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | MiltonFriedmanHongKong | Will Real Sociedad de Fútbol win on 2026-09-17? | No | 1.45 (69¢) | $42,416 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect Group A | B8 | 1.67 (60¢) | $50,822 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Sport Lisboa e Benfica win on 2026-09-16? | Yes | 1.14 (88¢) | $27,000 | +$3,682 | ✅ Ganada |
 | suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.79 (56¢) | $51,833 | -$51,833 | ❌ Perdida |
 | suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.82 (55¢) | $77,033 | -$77,033 | ❌ Perdida |
-| pleaseplease123 | Kansas City Royals vs. Houston Astros | Houston Astros | 1.64 (61¢) | $98,381 | -$98,381 | ❌ Perdida |
