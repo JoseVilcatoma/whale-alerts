@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 16:30:37 (hora de Perú)
+Actualizado: 2026-09-17 16:32:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2928**  ($158,578,891 en total)
-- Resueltas: **2892** — 1736 ganadas / 1156 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Resueltas: **2894** — 1738 ganadas / 1156 perdidas (**60%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 410
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,705,381** sobre $157,023,960 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$10,165** sobre $284,800 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,655,700** sobre $157,078,960 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$9,984** sobre $285,000 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 25 | 2 | 0 | 93% | $1,960,364 | +$88,444 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| BrotherObama | 17 | 19 | 3 | 47% | $1,740,407 | +$127,043 |
+| BrotherObama | 19 | 19 | 1 | 50% | $1,740,407 | +$176,724 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | ferrariChampions2026 | 23 | 14 | 0 | 62% | $1,489,930 | -$468,530 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 |---|---|---|---|---|---|---|
 | matanovik | Will Villarreal CF win on 2026-09-17? | No | 1.82 (55¢) | $42,542 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: AFC Bournemouth (-1.5) | Real Sociedad de Fútbol | 1.32 (76¢) | $28,401 | — | ⏳ Pendiente |
-| BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
+| BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
 | AGUGava | Will Beşiktaş JK win on 2026-09-17? | Yes | 1.75 (57¢) | $40,094 | — | ⏳ Pendiente |
 | kindar | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.18 (85¢) | $50,000 | +$8,824 | ✅ Ganada |
 | surfandturf | Will Manchester City FC win on 2026-09-17? | Yes | 1.18 (85¢) | $32,769 | — | ⏳ Pendiente |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.10 (91¢) | $90,595 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 1.85 (54¢) | $30,000 | +$25,556 | ✅ Ganada |
 | BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 1.89 (53¢) | $25,000 | +$22,170 | ✅ Ganada |
-| BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
+| BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.89 (53¢) | $30,000 | +$26,604 | ✅ Ganada |
 | SDTrading | Los Angeles Dodgers vs. Cincinnati Reds | Cincinnati Reds | 2.56 (39¢) | $26,957 | -$26,957 | ❌ Perdida |
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.11 (90¢) | $106,609 | — | ⏳ Pendiente |
 | SDTrading | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.75 (57¢) | $27,726 | -$27,726 | ❌ Perdida |
