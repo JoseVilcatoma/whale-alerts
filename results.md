@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 08:21:28 (hora de Perú)
+Actualizado: 2026-09-17 08:23:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2889**  ($156,495,092 en total)
+- Apuestas registradas: **2890**  ($156,550,120 en total)
 - Resueltas: **2856** — 1719 ganadas / 1137 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 408
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 408 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.11 (90¢) | $55,028 | — | ⏳ Pendiente |
 | SDTrading | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.75 (57¢) | $27,726 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $35,645 | — | ⏳ Pendiente |
 | maxiforza | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $29,578 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 408 en total)_
 | Painfulvoid | Will Bayer 04 Leverkusen win on 2026-09-16? | Yes | 1.08 (93¢) | $65,714 | +$4,946 | ✅ Ganada |
 | donchonx | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
 | 1xx3 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $30,066 | +$2,614 | ✅ Ganada |
-| surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $205,979 | +$17,911 | ✅ Ganada |
