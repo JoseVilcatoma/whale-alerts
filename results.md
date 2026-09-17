@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 03:36:09 (hora de Perú)
+Actualizado: 2026-09-17 03:38:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2877**  ($156,029,955 en total)
+- Apuestas registradas: **2878**  ($156,094,355 en total)
 - Resueltas: **2854** — 1718 ganadas / 1136 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 406
 
 ### Balance
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| Diabolical-Prize | 22 | 25 | 4 | 47% | $2,595,316 | -$301,111 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Diabolical-Prize | 22 | 25 | 3 | 47% | $2,530,916 | -$301,111 |
 | Sassy-Bucket | 25 | 26 | 0 | 49% | $2,489,480 | -$125,067 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 406 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: NIP vs M80 (BO1) - Logitech G Play Connect Group A | NIP | 1.79 (56¢) | $64,400 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.75 (57¢) | $35,416 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.82 (55¢) | $35,256 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.82 (55¢) | $52,430 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 406 en total)_
 | pleaseplease123 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $121,313 | -$121,313 | ❌ Perdida |
 | pleaseplease123 | Boston Red Sox vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $29,709 | +$29,709 | ✅ Ganada |
 | BrotherObama | Miami Marlins vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $30,000 | -$30,000 | ❌ Perdida |
-| BrotherObama | Kansas City Royals vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,000 | +$24,545 | ✅ Ganada |
