@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 22:22:54 (hora de Perú)
+Actualizado: 2026-09-16 22:24:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2871**  ($155,805,142 en total)
+- Apuestas registradas: **2873**  ($155,871,386 en total)
 - Resueltas: **2852** — 1718 ganadas / 1134 perdidas (**60%** de acierto)
-- Pendientes: 3
-- Apostadores distintos: 405
+- Pendientes: 5
+- Apostadores distintos: 406
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 8 | 5 | 0 | 62% | $684,011 | +$220,209 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 
-_(mostrando los 40 de mayor monto, de 405 en total)_
+_(mostrando los 40 de mayor monto, de 406 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: Luminosity vs M80 (BO1) - Logitech G Play Connect Group A | M80 | 2.08 (48¢) | $28,800 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: NIP vs M80 (BO1) - Logitech G Play Connect Group A | M80 | 2.27 (44¢) | $37,445 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.79 (56¢) | $67,200 | — | ⏳ Pendiente |
 | Elaran1993 | Baltimore Orioles vs. New York Mets | Baltimore Orioles | 1.64 (61¢) | $44,572 | +$28,497 | ✅ Ganada |
 | pleaseplease123 | Baltimore Orioles vs. New York Mets | New York Mets | 1.92 (52¢) | $38,177 | -$38,177 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Toronto Blue Jays | Toronto Blue Jays | 1.85 (54¢) | $252,119 | -$252,119 | ❌ Perdida |
 | xifutloong3 | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.47 (68¢) | $50,000 | +$23,529 | ✅ Ganada |
 | SharkbetX-com | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $25,000 | +$17,373 | ✅ Ganada |
-| Talvez10 | San Francisco Giants vs. St. Louis Cardinals | St. Louis Cardinals | 1.61 (62¢) | $26,040 | -$26,040 | ❌ Perdida |
-| pleaseplease123 | Kansas City Royals vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $57,722 | +$49,171 | ✅ Ganada |
