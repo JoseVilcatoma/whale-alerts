@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 14:56:49 (hora de Perú)
+Actualizado: 2026-09-17 14:58:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2928**  ($158,578,891 en total)
-- Resueltas: **2888** — 1733 ganadas / 1155 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Resueltas: **2889** — 1733 ganadas / 1156 perdidas (**60%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 410
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,726,172** sobre $156,908,653 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$10,230** sobre $284,400 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,753,898** sobre $156,936,379 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$10,330** sobre $284,500 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
-| SDTrading | 16 | 20 | 1 | 44% | $1,097,906 | -$186,558 |
+| SDTrading | 16 | 21 | 0 | 43% | $1,097,906 | -$214,284 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | halvanicus | 1 | 2 | 0 | ⚠️ 33% (3) | $1,023,502 | -$792,134 |
 | surfandturf | 5 | 2 | 1 | ⚠️ 71% (7) | $1,013,101 | +$3,774 |
@@ -110,7 +110,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
 | SDTrading | Los Angeles Dodgers vs. Cincinnati Reds | Cincinnati Reds | 2.56 (39¢) | $26,957 | -$26,957 | ❌ Perdida |
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.11 (90¢) | $106,609 | — | ⏳ Pendiente |
-| SDTrading | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.75 (57¢) | $27,726 | — | ⏳ Pendiente |
+| SDTrading | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.75 (57¢) | $27,726 | -$27,726 | ❌ Perdida |
 | retordedgremlin125 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $35,645 | +$3,961 | ✅ Ganada |
 | maxiforza | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $29,578 | +$3,286 | ✅ Ganada |
 | Rusik7 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $28,342 | +$3,149 | ✅ Ganada |
