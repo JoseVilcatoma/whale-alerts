@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 15:21:19 (hora de Perú)
+Actualizado: 2026-09-17 15:23:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2928**  ($158,578,891 en total)
-- Resueltas: **2889** — 1733 ganadas / 1156 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Resueltas: **2890** — 1734 ganadas / 1156 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 410
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,753,898** sobre $156,936,379 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$10,330** sobre $284,500 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,742,016** sobre $156,965,470 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$10,289** sobre $284,600 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 8 | 5 | 0 | 62% | $684,011 | +$220,209 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 10 | 5 | 3 | 67% | $654,940 | -$4,560 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 11 | 5 | 2 | 69% | $654,940 | +$7,322 |
 
 _(mostrando los 40 de mayor monto, de 410 en total)_
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | MiltonFriedmanHongKong | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
 | MiltonFriedmanHongKong | Will Villarreal CF win on 2026-09-17? | No | 1.96 (51¢) | $110,000 | — | ⏳ Pendiente |
 | Jsram | Spread: Manchester City FC (-2.5) | Norwich City FC | 1.82 (55¢) | $27,009 | — | ⏳ Pendiente |
-| HMLSF | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.41 (71¢) | $29,091 | — | ⏳ Pendiente |
+| HMLSF | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.41 (71¢) | $29,091 | +$11,882 | ✅ Ganada |
 | AGUGava | OFI vs. TSG 1899 Hoffenheim: O/U 4.5 | Under 4.5 | 1.39 (72¢) | $28,490 | — | ⏳ Pendiente |
 | Daemon99 | Will Real Betis Balompié win on 2026-09-17? | No | 2.86 (35¢) | $37,478 | -$37,478 | ❌ Perdida |
 | Jsram | Spread: Manchester City FC (-2.5) | Norwich City FC | 1.82 (55¢) | $48,207 | — | ⏳ Pendiente |
