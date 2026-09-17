@@ -43287,5 +43287,20 @@
     "status": "pending",
     "ultimo_fill": 1789638620,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5887,
+    "timestamp": 1789638783,
+    "username": "salgnklasf",
+    "wallet": "0xdad3251e1639eb14da805365f56bf389575961cf",
+    "slug": "cs2-mouz-nrg-2026-09-17",
+    "title": "Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 39735.999996,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1789638783,
+    "fills": 1
   }
 ]
