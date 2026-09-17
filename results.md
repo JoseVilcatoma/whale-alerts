@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 18:08:12 (hora de Perú)
+Actualizado: 2026-09-17 18:10:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2932**  ($158,698,058 en total)
+- Apuestas registradas: **2933**  ($158,728,841 en total)
 - Resueltas: **2910** — 1747 ganadas / 1163 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 410
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| winwin518168 | Spread: Washington Mystics (-1.5) | Washington Mystics | 1.96 (51¢) | $30,783 | — | ⏳ Pendiente |
 | winwin518168 | Spread: Atlanta Dream (-16.5) | Connecticut Sun | 2.04 (49¢) | $27,215 | — | ⏳ Pendiente |
 | Sassy-Bucket | Philadelphia Phillies vs. New York Mets | New York Mets | 1.89 (53¢) | $29,100 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.82 (55¢) | $35,256 | -$35,256 | ❌ Perdida |
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.82 (55¢) | $52,430 | -$52,430 | ❌ Perdida |
 | jtwyslljy | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Top Esports | 2.22 (45¢) | $35,467 | +$43,348 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Luminosity vs M80 (BO1) - Logitech G Play Connect Group A | M80 | 2.08 (48¢) | $28,800 | -$28,800 | ❌ Perdida |

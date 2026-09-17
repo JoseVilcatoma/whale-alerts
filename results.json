@@ -44082,5 +44082,20 @@
     "status": "pending",
     "ultimo_fill": 1789686482,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5999,
+    "timestamp": 1789686560,
+    "username": "winwin518168",
+    "wallet": "0x682005011dd19c1e986cb060ed6ab83845f21c19",
+    "slug": "wnba-wsh-chi-2026-09-17-spread-away-1pt5",
+    "title": "Spread: Washington Mystics (-1.5)",
+    "outcome": "Washington Mystics",
+    "side": "BUY",
+    "usd": 30783.1401,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789686560,
+    "fills": 1
   }
 ]
