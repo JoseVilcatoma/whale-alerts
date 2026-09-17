@@ -43692,5 +43692,20 @@
     "status": "pending",
     "ultimo_fill": 1789661563,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5931,
+    "timestamp": 1789661692,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "efl-mnc-nor-2026-09-17-spread-home-2pt5",
+    "title": "Spread: Manchester City FC (-2.5)",
+    "outcome": "Norwich City FC",
+    "side": "BUY",
+    "usd": 48206.719000000005,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1789661692,
+    "fills": 1
   }
 ]
