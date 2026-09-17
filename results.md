@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 10:24:52 (hora de Perú)
+Actualizado: 2026-09-17 10:26:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2901**  ($157,136,735 en total)
-- Resueltas: **2867** — 1721 ganadas / 1146 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **2870** — 1724 ganadas / 1146 perdidas (**60%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 410
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,406,586** sobre $155,684,676 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$9,847** sobre $282,300 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,396,190** sobre $155,778,241 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$9,814** sobre $282,600 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,9 +84,9 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | SDTrading | Los Angeles Dodgers vs. Cincinnati Reds | Cincinnati Reds | 2.56 (39¢) | $26,957 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.11 (90¢) | $106,609 | — | ⏳ Pendiente |
 | SDTrading | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.75 (57¢) | $27,726 | — | ⏳ Pendiente |
-| retordedgremlin125 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $35,645 | — | ⏳ Pendiente |
-| maxiforza | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $29,578 | — | ⏳ Pendiente |
-| Rusik7 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $28,342 | — | ⏳ Pendiente |
+| retordedgremlin125 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $35,645 | +$3,961 | ✅ Ganada |
+| maxiforza | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $29,578 | +$3,286 | ✅ Ganada |
+| Rusik7 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $28,342 | +$3,149 | ✅ Ganada |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $25,959 | -$25,959 | ❌ Perdida |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Top Esports | 2.22 (45¢) | $30,000 | +$36,667 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.22 (82¢) | $40,998 | -$40,998 | ❌ Perdida |
