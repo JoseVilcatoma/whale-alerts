@@ -43467,5 +43467,35 @@
     "status": "pending",
     "ultimo_fill": 1789651574,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5912,
+    "timestamp": 1789654243,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-sd-col-2026-09-17-total-10pt5",
+    "title": "San Diego Padres vs. Colorado Rockies: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 30000.000000000004,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789654243,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5913,
+    "timestamp": 1789654281,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-lad-cin-2026-09-17-total-9pt5",
+    "title": "Los Angeles Dodgers vs. Cincinnati Reds: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789654281,
+    "fills": 1
   }
 ]
