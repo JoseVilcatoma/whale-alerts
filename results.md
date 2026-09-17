@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 05:16:55 (hora de Perú)
+Actualizado: 2026-09-17 05:19:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2882**  ($156,276,844 en total)
+- Apuestas registradas: **2883**  ($156,317,842 en total)
 - Resueltas: **2854** — 1718 ganadas / 1136 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 407
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 215 | 113 | 3 | 66% | $21,797,138 | +$1,091,584 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 215 | 113 | 4 | 66% | $21,838,136 | +$1,091,584 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 407 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.22 (82¢) | $40,998 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming - Game 2 Winner | Invictus Gaming | 1.67 (60¢) | $55,900 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.35 (74¢) | $41,752 | — | ⏳ Pendiente |
 | salgnklasf | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.14 (88¢) | $39,736 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 407 en total)_
 | Runemup | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.67 (60¢) | $42,234 | -$42,234 | ❌ Perdida |
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.11 (90¢) | $45,682 | +$5,076 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.75 (57¢) | $33,226 | -$33,226 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tiburon: Darwin Blanch vs Stefan Kozlov | Darwin Blanch | 1.54 (65¢) | $31,027 | +$16,707 | ✅ Ganada |
