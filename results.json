@@ -43497,5 +43497,20 @@
     "status": "pending",
     "ultimo_fill": 1789654281,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5914,
+    "timestamp": 1789654455,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-oak-tb-2026-09-17-spread-home-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 30000.000000000004,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1789654455,
+    "fills": 1
   }
 ]
