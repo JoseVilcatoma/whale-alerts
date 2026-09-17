@@ -43827,5 +43827,20 @@
     "status": "pending",
     "ultimo_fill": 1789665384,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5940,
+    "timestamp": 1789665597,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-lg6-nip-2026-09-17",
+    "title": "Counter-Strike: Luminosity vs NIP (BO1) - Logitech G Play Connect Group A",
+    "outcome": "NIP",
+    "side": "BUY",
+    "usd": 52000.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789665597,
+    "fills": 1
   }
 ]

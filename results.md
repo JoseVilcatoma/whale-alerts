@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 12:18:03 (hora de Perú)
+Actualizado: 2026-09-17 12:20:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2915**  ($158,079,001 en total)
+- Apuestas registradas: **2916**  ($158,131,001 en total)
 - Resueltas: **2870** — 1724 ganadas / 1146 perdidas (**60%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 410
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Diabolical-Prize | 22 | 30 | 1 | 42% | $2,702,038 | -$576,297 |
+| Diabolical-Prize | 22 | 30 | 2 | 42% | $2,754,038 | -$576,297 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Sassy-Bucket | 25 | 26 | 0 | 49% | $2,489,480 | -$125,067 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Luminosity vs NIP (BO1) - Logitech G Play Connect Group A | NIP | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | MiltonFriedmanHongKong | Will Real Sociedad de Fútbol win on 2026-09-17? | No | 1.45 (69¢) | $42,416 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect Group A | B8 | 1.67 (60¢) | $50,822 | — | ⏳ Pendiente |
 | MiltonFriedmanHongKong | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.79 (56¢) | $51,833 | -$51,833 | ❌ Perdida |
 | suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.82 (55¢) | $77,033 | -$77,033 | ❌ Perdida |
 | pleaseplease123 | Kansas City Royals vs. Houston Astros | Houston Astros | 1.64 (61¢) | $98,381 | -$98,381 | ❌ Perdida |
-| ukowna | Will FC Barcelona win on 2026-09-16? | Yes | 1.08 (93¢) | $89,651 | +$6,748 | ✅ Ganada |
