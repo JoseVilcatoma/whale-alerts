@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 21:30:35 (hora de Perú)
+Actualizado: 2026-09-16 21:32:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2871**  ($155,805,142 en total)
-- Resueltas: **2849** — 1716 ganadas / 1133 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Resueltas: **2850** — 1717 ganadas / 1133 perdidas (**60%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 405
 
 ### Balance
 
-- **Resultado de los apostadores: -$935,838** sobre $154,860,787 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$9,065** sobre $280,500 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$913,568** sobre $154,888,006 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$8,983** sobre $280,600 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Sassy-Bucket | 24 | 26 | 1 | 48% | $2,489,480 | -$147,337 |
+| Sassy-Bucket | 25 | 26 | 0 | 49% | $2,489,480 | -$125,067 |
 | Diabolical-Prize | 22 | 25 | 1 | 47% | $2,443,230 | -$301,111 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | pleaseplease123 | Baltimore Orioles vs. New York Mets | New York Mets | 1.92 (52¢) | $38,177 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Washington Nationals | Philadelphia Phillies | 1.56 (64¢) | $34,898 | +$19,630 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Tampa Bay Rays | Athletics | 2.63 (38¢) | $29,555 | -$29,555 | ❌ Perdida |
-| Sassy-Bucket | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.82 (55¢) | $27,219 | — | ⏳ Pendiente |
+| Sassy-Bucket | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.82 (55¢) | $27,219 | +$22,270 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $34,248 | +$30,371 | ✅ Ganada |
 | theowalcott | Will CA Mineiro win on 2026-09-16? | Yes | 1.96 (51¢) | $27,548 | +$26,468 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Sao Paulo Open: Vendula Valdmannova vs Laura Pigossi | Laura Pigossi | 3.03 (33¢) | $83,339 | -$83,339 | ❌ Perdida |
