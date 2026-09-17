@@ -43777,10 +43777,25 @@
     "title": "Will Villarreal CF win on 2026-09-17?",
     "outcome": "No",
     "side": "BUY",
-    "usd": 85000.00000000001,
+    "usd": 110000.00000044002,
     "odds_at_bet": 51,
     "status": "pending",
-    "ultimo_fill": 1789664476,
+    "ultimo_fill": 1789664568,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 5937,
+    "timestamp": 1789664851,
+    "username": "MiltonFriedmanHongKong",
+    "wallet": "0x1c27279c65b33090c36d16a8d0cfafea55b4b1ba",
+    "slug": "lal-mala-vil-2026-09-17-vil",
+    "title": "Will Villarreal CF win on 2026-09-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789664851,
     "fills": 1
   }
 ]
