@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 06:00:06 (hora de Perú)
+Actualizado: 2026-09-17 06:02:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2883**  ($156,317,842 en total)
+- Apuestas registradas: **2884**  ($156,347,842 en total)
 - Resueltas: **2856** — 1719 ganadas / 1137 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 407
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| BrotherObama | 14 | 18 | 1 | 44% | $1,574,448 | +$68,610 |
+| BrotherObama | 14 | 18 | 2 | 44% | $1,604,448 | +$68,610 |
 | ferrariChampions2026 | 23 | 14 | 0 | 62% | $1,489,930 | -$468,530 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 407 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Top Esports | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.22 (82¢) | $40,998 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming - Game 2 Winner | Invictus Gaming | 1.67 (60¢) | $55,900 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.35 (74¢) | $41,752 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 407 en total)_
 | tenniz | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.12 (89¢) | $42,282 | +$5,226 | ✅ Ganada |
 | Runemup | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.67 (60¢) | $42,234 | -$42,234 | ❌ Perdida |
 | phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.11 (90¢) | $45,682 | +$5,076 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.75 (57¢) | $33,226 | -$33,226 | ❌ Perdida |
