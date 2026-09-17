@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 18:06:08 (hora de Perú)
+Actualizado: 2026-09-17 18:08:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2931**  ($158,670,843 en total)
-- Resueltas: **2909** — 1746 ganadas / 1163 perdidas (**60%** de acierto)
+- Apuestas registradas: **2932**  ($158,698,058 en total)
+- Resueltas: **2910** — 1747 ganadas / 1163 perdidas (**60%** de acierto)
 - Pendientes: 6
 - Apostadores distintos: 410
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,852,822** sobre $157,871,070 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,458** sobre $286,500 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,822,576** sobre $157,911,164 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,383** sobre $286,600 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| winwin518168 | Spread: Atlanta Dream (-16.5) | Connecticut Sun | 2.04 (49¢) | $27,215 | — | ⏳ Pendiente |
 | Sassy-Bucket | Philadelphia Phillies vs. New York Mets | New York Mets | 1.89 (53¢) | $29,100 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $27,152 | — | ⏳ Pendiente |
 | matanovik | Will Villarreal CF win on 2026-09-17? | No | 1.82 (55¢) | $42,542 | -$42,542 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: AFC Bournemouth (-1.5) | Real Sociedad de Fútbol | 1.32 (76¢) | $28,401 | +$8,969 | ✅ Ganada |
 | BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
-| AGUGava | Will Beşiktaş JK win on 2026-09-17? | Yes | 1.75 (57¢) | $40,094 | — | ⏳ Pendiente |
+| AGUGava | Will Beşiktaş JK win on 2026-09-17? | Yes | 1.75 (57¢) | $40,094 | +$30,246 | ✅ Ganada |
 | kindar | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.18 (85¢) | $50,000 | +$8,824 | ✅ Ganada |
 | surfandturf | Will Manchester City FC win on 2026-09-17? | Yes | 1.18 (85¢) | $32,769 | +$5,783 | ✅ Ganada |
 | 0x076d…8d4c | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $41,671 | -$41,671 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.82 (55¢) | $52,430 | -$52,430 | ❌ Perdida |
 | jtwyslljy | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Top Esports | 2.22 (45¢) | $35,467 | +$43,348 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Luminosity vs M80 (BO1) - Logitech G Play Connect Group A | M80 | 2.08 (48¢) | $28,800 | -$28,800 | ❌ Perdida |
-| lllllllIlll | Counter-Strike: NIP vs M80 (BO1) - Logitech G Play Connect Group A | M80 | 2.27 (44¢) | $37,445 | +$47,657 | ✅ Ganada |
