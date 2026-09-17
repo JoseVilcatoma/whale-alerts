@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 17:55:56 (hora de Perú)
+Actualizado: 2026-09-17 17:57:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2930**  ($158,641,743 en total)
-- Resueltas: **2905** — 1743 ganadas / 1162 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Resueltas: **2906** — 1743 ganadas / 1163 perdidas (**60%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 410
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,906,181** sobre $157,655,244 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,478** sobre $286,100 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,931,950** sobre $157,681,013 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,578** sobre $286,200 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | surfandturf | Will Manchester City FC win on 2026-09-17? | Yes | 1.18 (85¢) | $32,769 | +$5,783 | ✅ Ganada |
 | 0x076d…8d4c | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $41,671 | -$41,671 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Getafe CF win on 2026-09-17? | No | 1.09 (92¢) | $83,566 | +$7,267 | ✅ Ganada |
-| theowalcott | Spread: Crystal Palace FC (-1.5) | KKS Lech Poznań | 1.96 (51¢) | $25,769 | — | ⏳ Pendiente |
+| theowalcott | Spread: Crystal Palace FC (-1.5) | KKS Lech Poznań | 1.96 (51¢) | $25,769 | -$25,769 | ❌ Perdida |
 | HMLSF | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 1.92 (52¢) | $25,413 | — | ⏳ Pendiente |
 | HMLSF | Minnesota Twins vs. Los Angeles Angels | Minnesota Twins | 1.96 (51¢) | $27,089 | — | ⏳ Pendiente |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | San Diego Padres vs. Colorado Rockies | San Diego Padres | 1.54 (65¢) | $25,576 | +$13,772 | ✅ Ganada |
