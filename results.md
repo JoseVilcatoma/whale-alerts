@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 16:46:57 (hora de Perú)
+Actualizado: 2026-09-17 16:49:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2928**  ($158,578,891 en total)
-- Resueltas: **2894** — 1738 ganadas / 1156 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **2898** — 1738 ganadas / 1160 perdidas (**60%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 410
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,655,700** sobre $157,078,960 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$9,984** sobre $285,000 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,874,913** sobre $157,298,173 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,384** sobre $285,400 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,13 +71,13 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| matanovik | Will Villarreal CF win on 2026-09-17? | No | 1.82 (55¢) | $42,542 | — | ⏳ Pendiente |
+| matanovik | Will Villarreal CF win on 2026-09-17? | No | 1.82 (55¢) | $42,542 | -$42,542 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: AFC Bournemouth (-1.5) | Real Sociedad de Fútbol | 1.32 (76¢) | $28,401 | — | ⏳ Pendiente |
 | BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
 | AGUGava | Will Beşiktaş JK win on 2026-09-17? | Yes | 1.75 (57¢) | $40,094 | — | ⏳ Pendiente |
 | kindar | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.18 (85¢) | $50,000 | +$8,824 | ✅ Ganada |
 | surfandturf | Will Manchester City FC win on 2026-09-17? | Yes | 1.18 (85¢) | $32,769 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $41,671 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $41,671 | -$41,671 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Getafe CF win on 2026-09-17? | No | 1.09 (92¢) | $83,566 | +$7,267 | ✅ Ganada |
 | theowalcott | Spread: Crystal Palace FC (-1.5) | KKS Lech Poznań | 1.96 (51¢) | $25,769 | — | ⏳ Pendiente |
 | HMLSF | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 1.92 (52¢) | $25,413 | — | ⏳ Pendiente |
@@ -86,8 +86,8 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | Diabolical-Prize | Counter-Strike: Luminosity vs NIP (BO1) - Logitech G Play Connect Group A | NIP | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
 | MiltonFriedmanHongKong | Will Real Sociedad de Fútbol win on 2026-09-17? | No | 1.45 (69¢) | $42,416 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect Group A | B8 | 1.67 (60¢) | $50,822 | +$33,882 | ✅ Ganada |
-| MiltonFriedmanHongKong | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
-| MiltonFriedmanHongKong | Will Villarreal CF win on 2026-09-17? | No | 1.96 (51¢) | $110,000 | — | ⏳ Pendiente |
+| MiltonFriedmanHongKong | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $25,000 | -$25,000 | ❌ Perdida |
+| MiltonFriedmanHongKong | Will Villarreal CF win on 2026-09-17? | No | 1.96 (51¢) | $110,000 | -$110,000 | ❌ Perdida |
 | Jsram | Spread: Manchester City FC (-2.5) | Norwich City FC | 1.82 (55¢) | $27,009 | — | ⏳ Pendiente |
 | HMLSF | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.41 (71¢) | $29,091 | +$11,882 | ✅ Ganada |
 | AGUGava | OFI vs. TSG 1899 Hoffenheim: O/U 4.5 | Under 4.5 | 1.39 (72¢) | $28,490 | +$11,079 | ✅ Ganada |
