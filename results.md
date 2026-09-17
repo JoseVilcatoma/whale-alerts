@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 11:30:45 (hora de Perú)
+Actualizado: 2026-09-17 11:32:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2907**  ($157,728,696 en total)
+- Apuestas registradas: **2908**  ($157,766,174 en total)
 - Resueltas: **2870** — 1724 ganadas / 1146 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 410
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Daemon99 | Will Real Betis Balompié win on 2026-09-17? | No | 2.86 (35¢) | $37,478 | — | ⏳ Pendiente |
 | Jsram | Spread: Manchester City FC (-2.5) | Norwich City FC | 1.82 (55¢) | $48,207 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.56 (64¢) | $45,165 | — | ⏳ Pendiente |
 | Flaznorp | Will Real Betis Balompié win on 2026-09-17? | No | 2.94 (34¢) | $38,514 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.22 (45¢) | $723,663 | -$723,663 | ❌ Perdida |
 | Elaran1993 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $49,495 | -$2,020 | 💰 Vendida antes |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $39,130 | +$37,596 | ✅ Ganada |
-| pleaseplease123 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $59,454 | -$59,454 | ❌ Perdida |
