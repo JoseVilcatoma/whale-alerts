@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 21:46:59 (hora de Perú)
+Actualizado: 2026-09-16 21:49:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2871**  ($155,805,142 en total)
-- Resueltas: **2850** — 1717 ganadas / 1133 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Resueltas: **2852** — 1718 ganadas / 1134 perdidas (**60%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 405
 
 ### Balance
 
-- **Resultado de los apostadores: -$913,568** sobre $154,888,006 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$8,983** sobre $280,600 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$923,249** sobre $154,970,755 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$9,019** sobre $280,800 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
-| pleaseplease123 | 59 | 41 | 3 | 59% | $4,639,130 | +$602,480 |
+| pleaseplease123 | 59 | 42 | 2 | 58% | $4,639,130 | +$564,303 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -72,8 +72,8 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.79 (56¢) | $67,200 | — | ⏳ Pendiente |
-| Elaran1993 | Baltimore Orioles vs. New York Mets | Baltimore Orioles | 1.64 (61¢) | $44,572 | — | ⏳ Pendiente |
-| pleaseplease123 | Baltimore Orioles vs. New York Mets | New York Mets | 1.92 (52¢) | $38,177 | — | ⏳ Pendiente |
+| Elaran1993 | Baltimore Orioles vs. New York Mets | Baltimore Orioles | 1.64 (61¢) | $44,572 | +$28,497 | ✅ Ganada |
+| pleaseplease123 | Baltimore Orioles vs. New York Mets | New York Mets | 1.92 (52¢) | $38,177 | -$38,177 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Washington Nationals | Philadelphia Phillies | 1.56 (64¢) | $34,898 | +$19,630 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Tampa Bay Rays | Athletics | 2.63 (38¢) | $29,555 | -$29,555 | ❌ Perdida |
 | Sassy-Bucket | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.82 (55¢) | $27,219 | +$22,270 | ✅ Ganada |
