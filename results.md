@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 14:17:57 (hora de Perú)
+Actualizado: 2026-09-17 14:20:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2928**  ($158,578,891 en total)
-- Resueltas: **2875** — 1726 ganadas / 1149 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Resueltas: **2886** — 1732 ganadas / 1154 perdidas (**60%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 410
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,457,586** sobre $155,981,049 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$9,930** sobre $283,100 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,721,385** sobre $156,856,697 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$10,219** sobre $284,200 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 215 | 115 | 6 | 65% | $22,165,268 | +$1,008,833 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 217 | 116 | 3 | 65% | $22,165,268 | +$871,506 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -49,10 +49,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 12 | 2 | 37% | $1,197,397 | -$293,438 |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
 | SDTrading | 16 | 19 | 2 | 46% | $1,097,906 | -$159,601 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
-| halvanicus | 0 | 2 | 1 | ⚠️ 0% (2) | $1,023,502 | -$875,427 |
+| halvanicus | 1 | 2 | 0 | ⚠️ 33% (3) | $1,023,502 | -$792,134 |
 | surfandturf | 5 | 2 | 1 | ⚠️ 71% (7) | $1,013,101 | +$3,774 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | Jsram | 12 | 10 | 2 | 55% | $956,445 | -$82,726 |
@@ -75,10 +75,10 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: AFC Bournemouth (-1.5) | Real Sociedad de Fútbol | 1.32 (76¢) | $28,401 | — | ⏳ Pendiente |
 | BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
 | AGUGava | Will Beşiktaş JK win on 2026-09-17? | Yes | 1.75 (57¢) | $40,094 | — | ⏳ Pendiente |
-| kindar | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.18 (85¢) | $50,000 | — | ⏳ Pendiente |
+| kindar | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.18 (85¢) | $50,000 | +$8,824 | ✅ Ganada |
 | surfandturf | Will Manchester City FC win on 2026-09-17? | Yes | 1.18 (85¢) | $32,769 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $41,671 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Getafe CF win on 2026-09-17? | No | 1.09 (92¢) | $83,566 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Getafe CF win on 2026-09-17? | No | 1.09 (92¢) | $83,566 | +$7,267 | ✅ Ganada |
 | theowalcott | Spread: Crystal Palace FC (-1.5) | KKS Lech Poznań | 1.96 (51¢) | $25,769 | — | ⏳ Pendiente |
 | HMLSF | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 1.92 (52¢) | $25,413 | — | ⏳ Pendiente |
 | HMLSF | Minnesota Twins vs. Los Angeles Angels | Minnesota Twins | 1.96 (51¢) | $27,089 | — | ⏳ Pendiente |
@@ -91,19 +91,19 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | Jsram | Spread: Manchester City FC (-2.5) | Norwich City FC | 1.82 (55¢) | $27,009 | — | ⏳ Pendiente |
 | HMLSF | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.41 (71¢) | $29,091 | — | ⏳ Pendiente |
 | AGUGava | OFI vs. TSG 1899 Hoffenheim: O/U 4.5 | Under 4.5 | 1.39 (72¢) | $28,490 | — | ⏳ Pendiente |
-| Daemon99 | Will Real Betis Balompié win on 2026-09-17? | No | 2.86 (35¢) | $37,478 | — | ⏳ Pendiente |
+| Daemon99 | Will Real Betis Balompié win on 2026-09-17? | No | 2.86 (35¢) | $37,478 | -$37,478 | ❌ Perdida |
 | Jsram | Spread: Manchester City FC (-2.5) | Norwich City FC | 1.82 (55¢) | $48,207 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.56 (64¢) | $45,165 | — | ⏳ Pendiente |
-| Flaznorp | Will Real Betis Balompié win on 2026-09-17? | No | 2.94 (34¢) | $38,514 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Betis Balompié win on 2026-09-17? | No | 2.94 (34¢) | $170,000 | — | ⏳ Pendiente |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Betis Balompié win on 2026-09-17? | No | 2.78 (36¢) | $142,000 | — | ⏳ Pendiente |
-| halvanicus | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.56 (64¢) | $148,075 | — | ⏳ Pendiente |
-| phonesculptor | Will Getafe CF win on 2026-09-17? | No | 1.14 (88¢) | $90,944 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.56 (64¢) | $45,165 | +$25,405 | ✅ Ganada |
+| Flaznorp | Will Real Betis Balompié win on 2026-09-17? | No | 2.94 (34¢) | $38,514 | -$38,514 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Betis Balompié win on 2026-09-17? | No | 2.94 (34¢) | $170,000 | -$170,000 | ❌ Perdida |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Betis Balompié win on 2026-09-17? | No | 2.78 (36¢) | $142,000 | -$142,000 | ❌ Perdida |
+| halvanicus | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.56 (64¢) | $148,075 | +$83,292 | ✅ Ganada |
+| phonesculptor | Will Getafe CF win on 2026-09-17? | No | 1.14 (88¢) | $90,944 | +$12,402 | ✅ Ganada |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Manchester City FC win on 2026-09-17? | Yes | 1.14 (88¢) | $26,306 | — | ⏳ Pendiente |
 | MiltonFriedmanHongKong | Will Real Sociedad de Fútbol win on 2026-09-17? | No | 1.43 (70¢) | $119,241 | — | ⏳ Pendiente |
 | Ancient-Strike | Counter-Strike: Natus Vincere vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 2.17 (46¢) | $26,086 | +$30,623 | ✅ Ganada |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Betis Balompié win on 2026-09-17? | No | 2.78 (36¢) | $34,053 | — | ⏳ Pendiente |
-| kindar | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.59 (63¢) | $35,851 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Betis Balompié win on 2026-09-17? | No | 2.78 (36¢) | $34,053 | -$34,053 | ❌ Perdida |
+| kindar | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.59 (63¢) | $35,851 | +$21,055 | ✅ Ganada |
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.10 (91¢) | $90,595 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 1.89 (53¢) | $25,000 | — | ⏳ Pendiente |
