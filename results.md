@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 11:45:04 (hora de Perú)
+Actualizado: 2026-09-17 11:47:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2909**  ($157,794,664 en total)
+- Apuestas registradas: **2911**  ($157,850,763 en total)
 - Resueltas: **2870** — 1724 ganadas / 1146 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Pendientes: 25
 - Apostadores distintos: 410
 
 ### Balance
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | halvanicus | 0 | 2 | 1 | ⚠️ 0% (2) | $1,023,502 | -$875,427 |
 | surfandturf | 5 | 2 | 0 | ⚠️ 71% (7) | $980,333 | +$3,774 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
-| Jsram | 12 | 10 | 1 | 55% | $929,436 | -$82,726 |
+| Jsram | 12 | 10 | 2 | 55% | $956,445 | -$82,726 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Spread: Manchester City FC (-2.5) | Norwich City FC | 1.82 (55¢) | $27,009 | — | ⏳ Pendiente |
+| HMLSF | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.41 (71¢) | $29,091 | — | ⏳ Pendiente |
 | AGUGava | OFI vs. TSG 1899 Hoffenheim: O/U 4.5 | Under 4.5 | 1.39 (72¢) | $28,490 | — | ⏳ Pendiente |
 | Daemon99 | Will Real Betis Balompié win on 2026-09-17? | No | 2.86 (35¢) | $37,478 | — | ⏳ Pendiente |
 | Jsram | Spread: Manchester City FC (-2.5) | Norwich City FC | 1.82 (55¢) | $48,207 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | SharkbetX-com | Will AC Milan win on 2026-09-16? | No | 1.85 (54¢) | $35,217 | +$30,000 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AC Milan win on 2026-09-16? | No | 1.82 (55¢) | $26,125 | +$21,375 | ✅ Ganada |
 | ndb1 | Will AC Milan win on 2026-09-16? | No | 1.85 (54¢) | $117,391 | +$100,000 | ✅ Ganada |
-| halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.22 (45¢) | $723,663 | -$723,663 | ❌ Perdida |
-| Elaran1993 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $49,495 | -$2,020 | 💰 Vendida antes |
