@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 09:53:37 (hora de Perú)
+Actualizado: 2026-09-17 09:55:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2897**  ($156,874,157 en total)
+- Apuestas registradas: **2898**  ($156,900,243 en total)
 - Resueltas: **2867** — 1721 ganadas / 1146 perdidas (**60%** de acierto)
-- Pendientes: 14
-- Apostadores distintos: 408
+- Pendientes: 15
+- Apostadores distintos: 409
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 8 | 5 | 0 | 62% | $684,011 | +$220,209 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 
-_(mostrando los 40 de mayor monto, de 408 en total)_
+_(mostrando los 40 de mayor monto, de 409 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Ancient-Strike | Counter-Strike: Natus Vincere vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 2.17 (46¢) | $26,086 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Betis Balompié win on 2026-09-17? | No | 2.78 (36¢) | $34,053 | — | ⏳ Pendiente |
 | kindar | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.59 (63¢) | $35,851 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.10 (91¢) | $90,595 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 408 en total)_
 | 0x076d…8d4c | Will AC Milan win on 2026-09-16? | Yes | 2.22 (45¢) | $30,868 | -$30,868 | ❌ Perdida |
 | xifutloong3 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $41,348 | +$25,342 | ✅ Ganada |
 | Sassy-Bucket | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers | 2.22 (45¢) | $34,358 | -$34,358 | ❌ Perdida |
-| Pwaddler | New York Yankees vs. Minnesota Twins | New York Yankees | 1.67 (60¢) | $36,899 | -$36,899 | ❌ Perdida |
