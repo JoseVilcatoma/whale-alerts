@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 12:15:59 (hora de Perú)
+Actualizado: 2026-09-17 12:18:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2914**  ($158,036,586 en total)
+- Apuestas registradas: **2915**  ($158,079,001 en total)
 - Resueltas: **2870** — 1724 ganadas / 1146 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 410
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MiltonFriedmanHongKong | Will Real Sociedad de Fútbol win on 2026-09-17? | No | 1.45 (69¢) | $42,416 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect Group A | B8 | 1.67 (60¢) | $50,822 | — | ⏳ Pendiente |
 | MiltonFriedmanHongKong | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
 | MiltonFriedmanHongKong | Will Villarreal CF win on 2026-09-17? | No | 1.96 (51¢) | $110,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.82 (55¢) | $77,033 | -$77,033 | ❌ Perdida |
 | pleaseplease123 | Kansas City Royals vs. Houston Astros | Houston Astros | 1.64 (61¢) | $98,381 | -$98,381 | ❌ Perdida |
 | ukowna | Will FC Barcelona win on 2026-09-16? | Yes | 1.08 (93¢) | $89,651 | +$6,748 | ✅ Ganada |
-| halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.13 (47¢) | $151,764 | -$151,764 | ❌ Perdida |
