@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 23:14:06 (hora de Perú)
+Actualizado: 2026-09-16 23:16:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2873**  ($155,871,386 en total)
-- Resueltas: **2853** — 1718 ganadas / 1135 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Resueltas: **2854** — 1718 ganadas / 1136 perdidas (**60%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 406
 
 ### Balance
 
-- **Resultado de los apostadores: -$976,829** sobre $155,024,335 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$9,119** sobre $280,900 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$1,075,210** sobre $155,122,717 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,219** sobre $281,000 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
-| pleaseplease123 | 59 | 43 | 1 | 58% | $4,639,130 | +$510,723 |
+| pleaseplease123 | 59 | 44 | 0 | 57% | $4,639,130 | +$412,341 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 406 en total)_
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Sport Lisboa e Benfica win on 2026-09-16? | Yes | 1.14 (88¢) | $27,000 | +$3,682 | ✅ Ganada |
 | suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.79 (56¢) | $51,833 | -$51,833 | ❌ Perdida |
 | suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.82 (55¢) | $77,033 | -$77,033 | ❌ Perdida |
-| pleaseplease123 | Kansas City Royals vs. Houston Astros | Houston Astros | 1.64 (61¢) | $98,381 | — | ⏳ Pendiente |
+| pleaseplease123 | Kansas City Royals vs. Houston Astros | Houston Astros | 1.64 (61¢) | $98,381 | -$98,381 | ❌ Perdida |
 | ukowna | Will FC Barcelona win on 2026-09-16? | Yes | 1.08 (93¢) | $89,651 | +$6,748 | ✅ Ganada |
 | halvanicus | Will AC Milan win on 2026-09-16? | Yes | 2.13 (47¢) | $151,764 | -$151,764 | ❌ Perdida |
 | SharkbetX-com | Will AC Milan win on 2026-09-16? | No | 1.85 (54¢) | $35,217 | +$30,000 | ✅ Ganada |
