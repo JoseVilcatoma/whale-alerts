@@ -43299,7 +43299,7 @@
     "side": "BUY",
     "usd": 39735.999996,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789638783,
     "fills": 1
   },
@@ -43344,7 +43344,7 @@
     "side": "BUY",
     "usd": 40998.318999999996,
     "odds_at_bet": 82,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789640272,
     "fills": 1
   },
@@ -43447,11 +43447,11 @@
     "title": "Will Manchester City FC win on 2026-09-17?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 55028.329997,
+    "usd": 106609.45999075192,
     "odds_at_bet": 90,
     "status": "pending",
-    "ultimo_fill": 1789651373,
-    "fills": 1
+    "ultimo_fill": 1789651384,
+    "fills": 2
   },
   {
     "telegram_msg_id": 5901,

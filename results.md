@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 08:27:46 (hora de Perú)
+Actualizado: 2026-09-17 08:29:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2891**  ($156,577,077 en total)
-- Resueltas: **2857** — 1719 ganadas / 1138 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Apuestas registradas: **2891**  ($156,628,658 en total)
+- Resueltas: **2859** — 1719 ganadas / 1140 perdidas (**60%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 408
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,147,854** sobre $155,280,462 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,292** sobre $281,300 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$1,228,588** sobre $155,361,196 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$9,492** sobre $281,500 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 215 | 113 | 4 | 66% | $21,838,136 | +$1,091,584 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 215 | 114 | 3 | 65% | $21,838,136 | +$1,050,586 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -72,17 +72,17 @@ _(mostrando los 40 de mayor monto, de 408 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | SDTrading | Los Angeles Dodgers vs. Cincinnati Reds | Cincinnati Reds | 2.56 (39¢) | $26,957 | — | ⏳ Pendiente |
-| 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.11 (90¢) | $55,028 | — | ⏳ Pendiente |
+| 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.11 (90¢) | $106,609 | — | ⏳ Pendiente |
 | SDTrading | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.75 (57¢) | $27,726 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $35,645 | — | ⏳ Pendiente |
 | maxiforza | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $29,578 | — | ⏳ Pendiente |
 | Rusik7 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $28,342 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $25,959 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Top Esports | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.22 (82¢) | $40,998 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.22 (82¢) | $40,998 | -$40,998 | ❌ Perdida |
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming - Game 2 Winner | Invictus Gaming | 1.67 (60¢) | $55,900 | -$55,900 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.35 (74¢) | $41,752 | — | ⏳ Pendiente |
-| salgnklasf | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.14 (88¢) | $39,736 | — | ⏳ Pendiente |
+| salgnklasf | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.14 (88¢) | $39,736 | -$39,736 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect Group A | M80 | 2.44 (41¢) | $45,100 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: NIP vs M80 (BO1) - Logitech G Play Connect Group A | NIP | 1.79 (56¢) | $64,400 | -$64,400 | ❌ Perdida |
 | FORTNITEMASTER888 | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.75 (57¢) | $35,416 | — | ⏳ Pendiente |
