@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 08:00:32 (hora de Perú)
+Actualizado: 2026-09-17 08:02:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2887**  ($156,431,721 en total)
+- Apuestas registradas: **2888**  ($156,467,366 en total)
 - Resueltas: **2856** — 1719 ganadas / 1137 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 408
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 408 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| retordedgremlin125 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $35,645 | — | ⏳ Pendiente |
 | maxiforza | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $29,578 | — | ⏳ Pendiente |
 | Rusik7 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $28,342 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $25,959 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 408 en total)_
 | 1xx3 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $30,066 | +$2,614 | ✅ Ganada |
 | surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $205,979 | +$17,911 | ✅ Ganada |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Valencia: Martina Trevisan vs Clara Burel | Martina Trevisan | 2.04 (49¢) | $30,677 | — | ⊘ Anulada |
-| 0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390 | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.18 (85¢) | $43,457 | +$7,669 | ✅ Ganada |
