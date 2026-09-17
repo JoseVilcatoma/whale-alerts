@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 10:05:57 (hora de Perú)
+Actualizado: 2026-09-17 10:08:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2899**  ($156,961,599 en total)
+- Apuestas registradas: **2899**  ($157,019,484 en total)
 - Resueltas: **2867** — 1721 ganadas / 1146 perdidas (**60%** de acierto)
 - Pendientes: 16
 - Apostadores distintos: 410
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| MiltonFriedmanHongKong | Will Real Sociedad de Fútbol win on 2026-09-17? | No | 1.43 (70¢) | $61,355 | — | ⏳ Pendiente |
+| MiltonFriedmanHongKong | Will Real Sociedad de Fútbol win on 2026-09-17? | No | 1.43 (70¢) | $119,241 | — | ⏳ Pendiente |
 | Ancient-Strike | Counter-Strike: Natus Vincere vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 2.17 (46¢) | $26,086 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Betis Balompié win on 2026-09-17? | No | 2.78 (36¢) | $34,053 | — | ⏳ Pendiente |
 | kindar | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.59 (63¢) | $35,851 | — | ⏳ Pendiente |
