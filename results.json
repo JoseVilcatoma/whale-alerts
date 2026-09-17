@@ -43377,5 +43377,20 @@
     "status": "pending",
     "ultimo_fill": 1789647153,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5895,
+    "timestamp": 1789649637,
+    "username": "Rusik7",
+    "wallet": "0xa6a0ef15106e14b2c5422a4d691a2e64ce594469",
+    "slug": "cs2-vit-mgc-2026-09-17",
+    "title": "Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 28341.792,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1789649637,
+    "fills": 1
   }
 ]

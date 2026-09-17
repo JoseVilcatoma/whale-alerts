@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 07:52:11 (hora de Perú)
+Actualizado: 2026-09-17 07:54:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2885**  ($156,373,801 en total)
+- Apuestas registradas: **2886**  ($156,402,143 en total)
 - Resueltas: **2856** — 1719 ganadas / 1137 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 407
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 407 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Rusik7 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $28,342 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $25,959 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Top Esports | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.22 (82¢) | $40,998 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 407 en total)_
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Valencia: Martina Trevisan vs Clara Burel | Martina Trevisan | 2.04 (49¢) | $30,677 | — | ⊘ Anulada |
 | 0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390 | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.18 (85¢) | $43,457 | +$7,669 | ✅ Ganada |
 | tenniz | Guangzhou: Naoya Honda vs Nikoloz Basilashvili | Naoya Honda | 1.12 (89¢) | $42,282 | +$5,226 | ✅ Ganada |
-| Runemup | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners | 1.67 (60¢) | $42,234 | -$42,234 | ❌ Perdida |
