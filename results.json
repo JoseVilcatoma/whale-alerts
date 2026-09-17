@@ -43887,5 +43887,35 @@
     "status": "pending",
     "ultimo_fill": 1789666627,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5945,
+    "timestamp": 1789667292,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "uel-cry-lep-2026-09-17-spread-home-1pt5",
+    "title": "Spread: Crystal Palace FC (-1.5)",
+    "outcome": "KKS Lech Pozna\u0144",
+    "side": "BUY",
+    "usd": 25768.811999999994,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789667292,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5946,
+    "timestamp": 1789667343,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lal-bet-get-2026-09-17-get",
+    "title": "Will Getafe CF win on 2026-09-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 83566.3416,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1789667343,
+    "fills": 1
   }
 ]
