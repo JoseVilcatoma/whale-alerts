@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 12:57:28 (hora de Perú)
+Actualizado: 2026-09-17 12:59:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2921**  ($158,318,415 en total)
-- Resueltas: **2871** — 1725 ganadas / 1146 perdidas (**60%** de acierto)
-- Pendientes: 34
+- Resueltas: **2872** — 1725 ganadas / 1147 perdidas (**60%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 410
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,365,567** sobre $155,804,327 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$9,696** sobre $282,700 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,394,367** sobre $155,833,127 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$9,796** sobre $282,800 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -119,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.82 (55¢) | $35,256 | -$35,256 | ❌ Perdida |
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.82 (55¢) | $52,430 | -$52,430 | ❌ Perdida |
 | jtwyslljy | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Top Esports | 2.22 (45¢) | $35,467 | +$43,348 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Luminosity vs M80 (BO1) - Logitech G Play Connect Group A | M80 | 2.08 (48¢) | $28,800 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Luminosity vs M80 (BO1) - Logitech G Play Connect Group A | M80 | 2.08 (48¢) | $28,800 | -$28,800 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: NIP vs M80 (BO1) - Logitech G Play Connect Group A | M80 | 2.27 (44¢) | $37,445 | +$47,657 | ✅ Ganada |
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.79 (56¢) | $67,200 | -$67,200 | ❌ Perdida |
 | Elaran1993 | Baltimore Orioles vs. New York Mets | Baltimore Orioles | 1.64 (61¢) | $44,572 | +$28,497 | ✅ Ganada |
