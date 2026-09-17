@@ -43362,5 +43362,20 @@
     "status": "pending",
     "ultimo_fill": 1789642821,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5894,
+    "timestamp": 1789647153,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-tes-ig1-2026-09-17-game4",
+    "title": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 25958.5483,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1789647153,
+    "fills": 1
   }
 ]
