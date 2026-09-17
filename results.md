@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 21:24:23 (hora de Perú)
+Actualizado: 2026-09-16 21:26:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2871**  ($155,805,142 en total)
-- Resueltas: **2848** — 1715 ganadas / 1133 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Resueltas: **2849** — 1716 ganadas / 1133 perdidas (**60%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 405
 
 ### Balance
 
-- **Resultado de los apostadores: -$962,305** sobre $154,833,240 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$9,161** sobre $280,400 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$935,838** sobre $154,860,787 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$9,065** sobre $280,500 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Tampa Bay Rays | Athletics | 2.63 (38¢) | $29,555 | -$29,555 | ❌ Perdida |
 | Sassy-Bucket | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.82 (55¢) | $27,219 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $34,248 | +$30,371 | ✅ Ganada |
-| theowalcott | Will CA Mineiro win on 2026-09-16? | Yes | 1.96 (51¢) | $27,548 | — | ⏳ Pendiente |
+| theowalcott | Will CA Mineiro win on 2026-09-16? | Yes | 1.96 (51¢) | $27,548 | +$26,468 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Sao Paulo Open: Vendula Valdmannova vs Laura Pigossi | Laura Pigossi | 3.03 (33¢) | $83,339 | -$83,339 | ❌ Perdida |
 | pleaseplease123 | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 2.00 (50¢) | $53,580 | — | ⏳ Pendiente |
 | tenniz | Szczecin: Laslo Djere vs Luka Mikrut | Luka Mikrut | 1.12 (89¢) | $41,516 | +$5,131 | ✅ Ganada |
