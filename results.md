@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 21:16:08 (hora de Perú)
+Actualizado: 2026-09-16 21:18:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2871**  ($155,805,142 en total)
-- Resueltas: **2847** — 1714 ganadas / 1133 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Resueltas: **2848** — 1715 ganadas / 1133 perdidas (**60%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 405
 
 ### Balance
 
-- **Resultado de los apostadores: -$992,676** sobre $154,798,992 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$9,249** sobre $280,300 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$962,305** sobre $154,833,240 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$9,161** sobre $280,400 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 215 | 113 | 2 | 66% | $21,755,385 | +$1,091,584 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 78 | 66 | 1 | 54% | $5,974,872 | -$155,957 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | pleaseplease123 | 59 | 41 | 3 | 59% | $4,639,130 | +$602,480 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 405 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Washington Nationals | Philadelphia Phillies | 1.56 (64¢) | $34,898 | +$19,630 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Tampa Bay Rays | Athletics | 2.63 (38¢) | $29,555 | -$29,555 | ❌ Perdida |
 | Sassy-Bucket | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.82 (55¢) | $27,219 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $34,248 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $34,248 | +$30,371 | ✅ Ganada |
 | theowalcott | Will CA Mineiro win on 2026-09-16? | Yes | 1.96 (51¢) | $27,548 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Sao Paulo Open: Vendula Valdmannova vs Laura Pigossi | Laura Pigossi | 3.03 (33¢) | $83,339 | -$83,339 | ❌ Perdida |
 | pleaseplease123 | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 2.00 (50¢) | $53,580 | — | ⏳ Pendiente |
