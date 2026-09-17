@@ -43272,5 +43272,20 @@
     "status": "pending",
     "ultimo_fill": 1789634206,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5886,
+    "timestamp": 1789638620,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-b8-m80-2026-09-17",
+    "title": "Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect Group A",
+    "outcome": "M80",
+    "side": "BUY",
+    "usd": 45100.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1789638620,
+    "fills": 1
   }
 ]
