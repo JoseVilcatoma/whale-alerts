@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 14:40:31 (hora de Perú)
+Actualizado: 2026-09-17 14:42:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2928**  ($158,578,891 en total)
-- Resueltas: **2886** — 1732 ganadas / 1154 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Resueltas: **2887** — 1733 ganadas / 1154 perdidas (**60%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 410
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,721,385** sobre $156,856,697 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$10,219** sobre $284,200 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,699,216** sobre $156,881,697 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$10,130** sobre $284,300 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 25 | 2 | 0 | 93% | $1,960,364 | +$88,444 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| BrotherObama | 15 | 19 | 5 | 44% | $1,740,407 | +$79,318 |
+| BrotherObama | 16 | 19 | 4 | 46% | $1,740,407 | +$101,488 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | ferrariChampions2026 | 23 | 14 | 0 | 62% | $1,489,930 | -$468,530 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -106,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | kindar | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.59 (63¢) | $35,851 | +$21,055 | ✅ Ganada |
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.10 (91¢) | $90,595 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
-| BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 1.89 (53¢) | $25,000 | — | ⏳ Pendiente |
+| BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 1.89 (53¢) | $25,000 | +$22,170 | ✅ Ganada |
 | BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
 | SDTrading | Los Angeles Dodgers vs. Cincinnati Reds | Cincinnati Reds | 2.56 (39¢) | $26,957 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.11 (90¢) | $106,609 | — | ⏳ Pendiente |
