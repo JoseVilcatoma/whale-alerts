@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-16 22:24:56 (hora de Perú)
+Actualizado: 2026-09-16 22:26:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2873**  ($155,871,386 en total)
-- Resueltas: **2852** — 1718 ganadas / 1134 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Resueltas: **2853** — 1718 ganadas / 1135 perdidas (**60%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 406
 
 ### Balance
 
-- **Resultado de los apostadores: -$923,249** sobre $154,970,755 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$9,019** sobre $280,800 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$976,829** sobre $155,024,335 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$9,119** sobre $280,900 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
-| pleaseplease123 | 59 | 42 | 2 | 58% | $4,639,130 | +$564,303 |
+| pleaseplease123 | 59 | 43 | 1 | 58% | $4,639,130 | +$510,723 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 406 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $34,248 | +$30,371 | ✅ Ganada |
 | theowalcott | Will CA Mineiro win on 2026-09-16? | Yes | 1.96 (51¢) | $27,548 | +$26,468 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Sao Paulo Open: Vendula Valdmannova vs Laura Pigossi | Laura Pigossi | 3.03 (33¢) | $83,339 | -$83,339 | ❌ Perdida |
-| pleaseplease123 | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 2.00 (50¢) | $53,580 | — | ⏳ Pendiente |
+| pleaseplease123 | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 2.00 (50¢) | $53,580 | -$53,580 | ❌ Perdida |
 | tenniz | Szczecin: Laslo Djere vs Luka Mikrut | Luka Mikrut | 1.12 (89¢) | $41,516 | +$5,131 | ✅ Ganada |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Sport Lisboa e Benfica win on 2026-09-16? | Yes | 1.14 (88¢) | $27,000 | +$3,682 | ✅ Ganada |
 | suntori | New York Yankees vs. Minnesota Twins | New York Yankees | 1.79 (56¢) | $51,833 | -$51,833 | ❌ Perdida |
