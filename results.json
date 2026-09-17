@@ -43917,5 +43917,20 @@
     "status": "pending",
     "ultimo_fill": 1789667343,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5948,
+    "timestamp": 1789668585,
+    "username": "0x076d\u20268d4c",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "lal-mala-vil-2026-09-17-vil",
+    "title": "Will Villarreal CF win on 2026-09-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 41670.590000000004,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789668585,
+    "fills": 1
   }
 ]
