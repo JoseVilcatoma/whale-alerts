@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 15:39:41 (hora de Perú)
+Actualizado: 2026-09-17 15:41:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2928**  ($158,578,891 en total)
-- Resueltas: **2891** — 1735 ganadas / 1156 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Resueltas: **2892** — 1736 ganadas / 1156 perdidas (**60%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 410
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,716,461** sobre $156,995,470 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$10,204** sobre $284,700 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,705,381** sobre $157,023,960 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$10,165** sobre $284,800 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | MiltonFriedmanHongKong | Will Villarreal CF win on 2026-09-17? | No | 1.96 (51¢) | $110,000 | — | ⏳ Pendiente |
 | Jsram | Spread: Manchester City FC (-2.5) | Norwich City FC | 1.82 (55¢) | $27,009 | — | ⏳ Pendiente |
 | HMLSF | Athletics vs. Tampa Bay Rays | Tampa Bay Rays | 1.41 (71¢) | $29,091 | +$11,882 | ✅ Ganada |
-| AGUGava | OFI vs. TSG 1899 Hoffenheim: O/U 4.5 | Under 4.5 | 1.39 (72¢) | $28,490 | — | ⏳ Pendiente |
+| AGUGava | OFI vs. TSG 1899 Hoffenheim: O/U 4.5 | Under 4.5 | 1.39 (72¢) | $28,490 | +$11,079 | ✅ Ganada |
 | Daemon99 | Will Real Betis Balompié win on 2026-09-17? | No | 2.86 (35¢) | $37,478 | -$37,478 | ❌ Perdida |
 | Jsram | Spread: Manchester City FC (-2.5) | Norwich City FC | 1.82 (55¢) | $48,207 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.56 (64¢) | $45,165 | +$25,405 | ✅ Ganada |
