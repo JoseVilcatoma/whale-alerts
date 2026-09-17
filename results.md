@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 11:10:18 (hora de Perú)
+Actualizado: 2026-09-17 11:12:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2901**  ($157,136,735 en total)
+- Apuestas registradas: **2905**  ($157,635,324 en total)
 - Resueltas: **2870** — 1724 ganadas / 1146 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 19
 - Apostadores distintos: 410
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 215 | 115 | 2 | 65% | $21,838,136 | +$1,008,833 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 215 | 115 | 3 | 65% | $22,008,136 | +$1,008,833 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -49,15 +49,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 12 | 2 | 37% | $1,197,397 | -$293,438 |
 | SDTrading | 16 | 19 | 2 | 46% | $1,097,906 | -$159,601 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 12 | 1 | 37% | $1,055,397 | -$293,438 |
+| halvanicus | 0 | 2 | 1 | ⚠️ 0% (2) | $1,023,502 | -$875,427 |
 | surfandturf | 5 | 2 | 0 | ⚠️ 71% (7) | $980,333 | +$3,774 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | Jsram | 12 | 10 | 0 | 55% | $881,230 | -$82,726 |
-| halvanicus | 0 | 2 | 0 | ⚠️ 0% (2) | $875,427 | -$875,427 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 | gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Will Real Betis Balompié win on 2026-09-17? | No | 2.94 (34¢) | $38,514 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Betis Balompié win on 2026-09-17? | No | 2.94 (34¢) | $170,000 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Betis Balompié win on 2026-09-17? | No | 2.78 (36¢) | $142,000 | — | ⏳ Pendiente |
+| halvanicus | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.56 (64¢) | $148,075 | — | ⏳ Pendiente |
 | phonesculptor | Will Getafe CF win on 2026-09-17? | No | 1.14 (88¢) | $90,944 | — | ⏳ Pendiente |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Manchester City FC win on 2026-09-17? | Yes | 1.14 (88¢) | $26,306 | — | ⏳ Pendiente |
 | MiltonFriedmanHongKong | Will Real Sociedad de Fútbol win on 2026-09-17? | No | 1.43 (70¢) | $119,241 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 410 en total)_
 | pleaseplease123 | Detroit Tigers vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $59,454 | -$59,454 | ❌ Perdida |
 | surfandturf | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $456,170 | +$39,667 | ✅ Ganada |
 | p1252 | Will FC Barcelona win on 2026-09-16? | Yes | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
-| Jsram | Will Aston Villa FC win on 2026-09-16? | No | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
-| Jsram | Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
-| jaytee158 | Will Club Atlético de Madrid win on 2026-09-16? | Yes | 1.10 (91¢) | $40,413 | +$3,997 | ✅ Ganada |
-| 0x076d…8d4c | Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $28,046 | -$28,046 | ❌ Perdida |
