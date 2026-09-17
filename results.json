@@ -43284,7 +43284,7 @@
     "side": "BUY",
     "usd": 45100.0,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789638620,
     "fills": 1
   },
@@ -43809,7 +43809,7 @@
     "side": "BUY",
     "usd": 50822.3568,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789665171,
     "fills": 1
   },
@@ -43976,6 +43976,21 @@
     "odds_at_bet": 57,
     "status": "pending",
     "ultimo_fill": 1789669828,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5953,
+    "timestamp": 1789671962,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-sd-col-2026-09-17-total-10pt5",
+    "title": "San Diego Padres vs. Colorado Rockies: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789671962,
     "fills": 1
   }
 ]
