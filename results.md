@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 08:23:34 (hora de Perú)
+Actualizado: 2026-09-17 08:25:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2890**  ($156,550,120 en total)
-- Resueltas: **2856** — 1719 ganadas / 1137 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **2857** — 1719 ganadas / 1138 perdidas (**60%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 408
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,091,953** sobre $155,224,561 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,192** sobre $281,200 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$1,147,854** sobre $155,280,462 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,292** sobre $281,300 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Diabolical-Prize | 22 | 26 | 4 | 46% | $2,651,216 | -$365,511 |
+| Diabolical-Prize | 22 | 27 | 3 | 45% | $2,651,216 | -$421,412 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Sassy-Bucket | 25 | 26 | 0 | 49% | $2,489,480 | -$125,067 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 408 en total)_
 | BrotherObama | LoL: Top Esports vs Invictus Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $25,959 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Top Esports | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.22 (82¢) | $40,998 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: Top Esports vs Invictus Gaming - Game 2 Winner | Invictus Gaming | 1.67 (60¢) | $55,900 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Top Esports vs Invictus Gaming - Game 2 Winner | Invictus Gaming | 1.67 (60¢) | $55,900 | -$55,900 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.35 (74¢) | $41,752 | — | ⏳ Pendiente |
 | salgnklasf | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.14 (88¢) | $39,736 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect Group A | M80 | 2.44 (41¢) | $45,100 | — | ⏳ Pendiente |
