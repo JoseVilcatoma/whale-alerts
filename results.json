@@ -43602,5 +43602,20 @@
     "status": "pending",
     "ultimo_fill": 1789657696,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5922,
+    "timestamp": 1789657832,
+    "username": "phonesculptor",
+    "wallet": "0xf1528f12e645462c344799b62b1b421a6a4c64aa",
+    "slug": "lal-bet-get-2026-09-17-get",
+    "title": "Will Getafe CF win on 2026-09-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 90944.44480000001,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1789657832,
+    "fills": 1
   }
 ]
