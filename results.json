@@ -43242,5 +43242,20 @@
     "status": "pending",
     "ultimo_fill": 1789628244,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5883,
+    "timestamp": 1789629188,
+    "username": "FORTNITEMASTER888",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-tes-ig1-2026-09-17",
+    "title": "LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 35416.4883,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789629188,
+    "fills": 1
   }
 ]
