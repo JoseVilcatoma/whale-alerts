@@ -43422,5 +43422,20 @@
     "status": "pending",
     "ultimo_fill": 1789650074,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5898,
+    "timestamp": 1789651053,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-mil-pit-2026-09-17",
+    "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 27726.0312,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789651053,
+    "fills": 1
   }
 ]
