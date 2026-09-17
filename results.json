@@ -43572,5 +43572,20 @@
     "status": "pending",
     "ultimo_fill": 1789656895,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5920,
+    "timestamp": 1789657497,
+    "username": "MiltonFriedmanHongKong",
+    "wallet": "0x1c27279c65b33090c36d16a8d0cfafea55b4b1ba",
+    "slug": "uel-rso-bou-2026-09-17-rso",
+    "title": "Will Real Sociedad de F\u00fatbol win on 2026-09-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 61355.330599999994,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1789657497,
+    "fills": 2
   }
 ]
