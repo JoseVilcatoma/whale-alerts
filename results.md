@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 09:27:00 (hora de Perú)
+Actualizado: 2026-09-17 09:29:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2894**  ($156,713,658 en total)
+- Apuestas registradas: **2895**  ($156,804,253 en total)
 - Resueltas: **2867** — 1721 ganadas / 1146 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 408
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 408 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.10 (91¢) | $90,595 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 1.89 (53¢) | $25,000 | — | ⏳ Pendiente |
 | BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 408 en total)_
 | Pwaddler | New York Yankees vs. Minnesota Twins | New York Yankees | 1.67 (60¢) | $36,899 | -$36,899 | ❌ Perdida |
 | Ne8om | Will FC Barcelona win on 2026-09-16? | Yes | 1.10 (91¢) | $70,286 | +$6,951 | ✅ Ganada |
 | zhqzhq | Will CA Osasuna win on 2026-09-16? | No | 1.09 (92¢) | $35,000 | +$3,043 | ✅ Ganada |
-| phonesculptor | Will CA Osasuna win on 2026-09-16? | No | 1.10 (91¢) | $32,480 | +$3,212 | ✅ Ganada |
