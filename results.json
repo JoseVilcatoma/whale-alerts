@@ -43722,5 +43722,20 @@
     "status": "pending",
     "ultimo_fill": 1789662665,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5933,
+    "timestamp": 1789663437,
+    "username": "AGUGava",
+    "wallet": "0x0353aaf82abbd3e69c00059df0a825bc198fc2ff",
+    "slug": "uel-ofi-hof-2026-09-17-total-4pt5",
+    "title": "OFI vs. TSG 1899 Hoffenheim: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 28490.0141,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1789663437,
+    "fills": 1
   }
 ]
