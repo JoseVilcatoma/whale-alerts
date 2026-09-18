@@ -44112,5 +44112,35 @@
     "status": "pending",
     "ultimo_fill": 1789689731,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6001,
+    "timestamp": 1789690062,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-det-buf-2026-09-18",
+    "title": "Lions vs. Bills",
+    "outcome": "Bills",
+    "side": "BUY",
+    "usd": 34500.0,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1789690062,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6002,
+    "timestamp": 1789690076,
+    "username": "wan123",
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "slug": "nfl-det-buf-2026-09-18-total-54pt5",
+    "title": "Lions vs. Bills: O/U 54.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1789690076,
+    "fills": 1
   }
 ]
