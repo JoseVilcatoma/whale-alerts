@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 18:24:45 (hora de Perú)
+Actualizado: 2026-09-18 18:26:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2992**  ($162,685,200 en total)
+- Apuestas registradas: **2993**  ($162,712,800 en total)
 - Resueltas: **2956** — 1777 ganadas / 1179 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 414
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Shopify Rebellion vs Sentinels (BO5) - LCS Playoffs | Sentinels | 1.56 (64¢) | $31,578 | — | ⏳ Pendiente |
 | sleepy-panda | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
 | martingaleking | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $49,561 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | wan123 | Lions vs. Bills: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.45 (69¢) | $34,500 | +$15,500 | ✅ Ganada |
 | 0x8fb23b3c8041533008CB67ffcD87dEb00a7aA9d7-1775253556546 | Lions vs. Bills: O/U 55.5 | Under 55.5 | 1.85 (54¢) | $47,520 | -$47,520 | ❌ Perdida |
-| winwin518168 | Spread: Washington Mystics (-1.5) | Washington Mystics | 1.96 (51¢) | $30,783 | +$29,576 | ✅ Ganada |
