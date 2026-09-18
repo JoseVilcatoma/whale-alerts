@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 15:27:47 (hora de Perú)
+Actualizado: 2026-09-18 15:29:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2978**  ($162,126,129 en total)
+- Apuestas registradas: **2979**  ($162,158,668 en total)
 - Resueltas: **2940** — 1764 ganadas / 1176 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 414
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Will Brentford FC win on 2026-09-18? | Yes | 1.45 (69¢) | $32,539 | — | ⏳ Pendiente |
 | pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $41,157 | — | ⏳ Pendiente |
 | pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox | 2.27 (44¢) | $25,873 | — | ⏳ Pendiente |
 | Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | 0x076d…8d4c | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $41,671 | -$41,671 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Getafe CF win on 2026-09-17? | No | 1.09 (92¢) | $83,566 | +$7,267 | ✅ Ganada |
 | theowalcott | Spread: Crystal Palace FC (-1.5) | KKS Lech Poznań | 1.96 (51¢) | $25,769 | -$25,769 | ❌ Perdida |
-| HMLSF | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 1.92 (52¢) | $25,413 | +$23,458 | ✅ Ganada |
