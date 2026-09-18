@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 07:27:08 (hora de Perú)
+Actualizado: 2026-09-18 07:29:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2951**  ($159,666,466 en total)
-- Resueltas: **2929** — 1760 ganadas / 1169 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Resueltas: **2930** — 1760 ganadas / 1170 perdidas (**60%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 412
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,806,517** sobre $158,850,915 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$10,423** sobre $288,500 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,834,103** sobre $158,878,500 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,523** sobre $288,600 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 412 en total)_
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 1.67 (60¢) | $34,354 | — | ⏳ Pendiente |
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 2.63 (38¢) | $25,420 | — | ⏳ Pendiente |
 | mariabelo | Will FC Bayern München win on 2026-09-18? | Yes | 1.08 (93¢) | $32,763 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: 3DMAX vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | EYEBALLERS | 2.50 (40¢) | $27,586 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: 3DMAX vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | EYEBALLERS | 2.50 (40¢) | $27,586 | -$27,586 | ❌ Perdida |
 | cosmicxbt | Spread: Bills (-6.5) | Bills | 1.25 (80¢) | $48,643 | +$12,161 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.06 (94¢) | $26,406 | +$1,686 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.08 (93¢) | $53,295 | +$4,011 | ✅ Ganada |
