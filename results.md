@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 13:27:03 (hora de Perú)
+Actualizado: 2026-09-18 13:29:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2964**  ($160,326,337 en total)
+- Apuestas registradas: **2965**  ($160,587,716 en total)
 - Resueltas: **2935** — 1763 ganadas / 1172 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 414
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
+| totoro3miyazaki | 29 | 17 | 1 | 63% | $5,171,079 | -$140,999 |
 | pleaseplease123 | 61 | 44 | 0 | 58% | $4,701,982 | +$473,794 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 36 | 25 | 0 | 59% | $3,397,749 | -$315,555 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $261,379 | — | ⏳ Pendiente |
 | surfandturf | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $94,000 | — | ⏳ Pendiente |
 | watcherz88 | Caldas da Rainha: Susan Bandecchi vs Lisa Pigato | Susan Bandecchi | 1.33 (75¢) | $29,843 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $37,091 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | Daemon99 | Will Real Betis Balompié win on 2026-09-17? | No | 2.86 (35¢) | $37,478 | -$37,478 | ❌ Perdida |
 | Jsram | Spread: Manchester City FC (-2.5) | Norwich City FC | 1.82 (55¢) | $48,207 | -$48,207 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.56 (64¢) | $45,165 | +$25,405 | ✅ Ganada |
-| Flaznorp | Will Real Betis Balompié win on 2026-09-17? | No | 2.94 (34¢) | $38,514 | -$38,514 | ❌ Perdida |

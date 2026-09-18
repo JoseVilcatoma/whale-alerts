@@ -44562,5 +44562,20 @@
     "status": "pending",
     "ultimo_fill": 1789754406,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6061,
+    "timestamp": 1789756054,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "epl-bre-che-2026-09-18-che",
+    "title": "Will Chelsea FC win on 2026-09-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 261378.77120000002,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1789756054,
+    "fills": 1
   }
 ]
