@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 07:02:36 (hora de Perú)
+Actualizado: 2026-09-18 07:04:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2949**  ($159,586,263 en total)
+- Apuestas registradas: **2950**  ($159,639,445 en total)
 - Resueltas: **2929** — 1760 ganadas / 1169 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 412
 
 ### Balance
@@ -61,8 +61,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 | gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 12 | 6 | 3 | 67% | $767,896 | +$3,690 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 12 | 6 | 2 | 67% | $714,714 | +$3,690 |
 | ethanaz | 7 | 2 | 0 | 78% | $697,735 | -$94,278 |
 
 _(mostrando los 40 de mayor monto, de 412 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 412 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.59 (63¢) | $53,182 | — | ⏳ Pendiente |
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 1.67 (60¢) | $34,354 | — | ⏳ Pendiente |
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 2.63 (38¢) | $25,420 | — | ⏳ Pendiente |
 | mariabelo | Will FC Bayern München win on 2026-09-18? | Yes | 1.08 (93¢) | $32,763 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 412 en total)_
 | BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 1.89 (53¢) | $25,000 | +$22,170 | ✅ Ganada |
 | BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.89 (53¢) | $30,000 | +$26,604 | ✅ Ganada |
 | SDTrading | Los Angeles Dodgers vs. Cincinnati Reds | Cincinnati Reds | 2.56 (39¢) | $26,957 | -$26,957 | ❌ Perdida |
-| 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.11 (90¢) | $106,609 | +$11,845 | ✅ Ganada |
