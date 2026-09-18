@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 12:09:33 (hora de Perú)
+Actualizado: 2026-09-18 12:11:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2960**  ($160,138,730 en total)
+- Apuestas registradas: **2961**  ($160,165,403 en total)
 - Resueltas: **2935** — 1763 ganadas / 1172 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 414
 
 ### Balance
@@ -60,8 +60,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 | gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 8 | 1 | 62% | $794,569 | -$24,850 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 8 | 0 | 62% | $767,896 | -$24,850 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | ethanaz | 7 | 2 | 0 | 78% | $697,735 | -$94,278 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HMLSF | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies | 2.00 (50¢) | $26,673 | — | ⏳ Pendiente |
 | PerpsKing | Spread: Miami (FL) (-19.5) | Miami (FL) | 1.85 (54¢) | $36,651 | — | ⏳ Pendiente |
 | Feromont | Houston vs. Texas Tech | Texas Tech | 1.33 (75¢) | $26,250 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: NRG vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 1.30 (77¢) | $67,659 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Betis Balompié win on 2026-09-17? | No | 2.94 (34¢) | $170,000 | -$170,000 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Betis Balompié win on 2026-09-17? | No | 2.78 (36¢) | $142,000 | -$142,000 | ❌ Perdida |
 | halvanicus | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.56 (64¢) | $148,075 | +$83,292 | ✅ Ganada |
-| phonesculptor | Will Getafe CF win on 2026-09-17? | No | 1.14 (88¢) | $90,944 | +$12,402 | ✅ Ganada |
