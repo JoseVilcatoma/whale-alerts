@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 00:02:49 (hora de Perú)
+Actualizado: 2026-09-18 00:04:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2947**  ($159,526,489 en total)
-- Resueltas: **2924** — 1757 ganadas / 1167 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Resueltas: **2928** — 1759 ganadas / 1169 perdidas (**60%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 412
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,805,199** sobre $158,664,489 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$10,444** sobre $288,000 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,818,678** sobre $158,802,272 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$10,448** sobre $288,400 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,13 +29,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
-| pleaseplease123 | 59 | 44 | 2 | 57% | $4,701,982 | +$412,341 |
+| pleaseplease123 | 61 | 44 | 0 | 58% | $4,701,982 | +$473,794 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 36 | 25 | 0 | 59% | $3,397,749 | -$315,555 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 23 | 31 | 0 | 43% | $2,754,038 | -$594,416 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Sassy-Bucket | 25 | 27 | 1 | 48% | $2,566,422 | -$154,167 |
+| Sassy-Bucket | 25 | 28 | 0 | 47% | $2,566,422 | -$202,009 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 412 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.06 (94¢) | $26,406 | +$1,686 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.08 (93¢) | $53,295 | +$4,011 | ✅ Ganada |
 | ethanaz | Lions vs. Bills | Bills | 1.06 (94¢) | $204,528 | +$13,055 | ✅ Ganada |
-| Sassy-Bucket | Minnesota Twins vs. Los Angeles Angels | Minnesota Twins | 2.04 (49¢) | $47,842 | — | ⏳ Pendiente |
+| Sassy-Bucket | Minnesota Twins vs. Los Angeles Angels | Minnesota Twins | 2.04 (49¢) | $47,842 | -$47,842 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Syracuse vs. Pittsburgh | Pittsburgh | 1.16 (86¢) | $92,669 | +$15,086 | ✅ Ganada |
 | ethanaz | Syracuse vs. Pittsburgh | Pittsburgh | 1.08 (93¢) | $26,103 | +$1,965 | ✅ Ganada |
 | ferrariChampions2026 | Lions vs. Bills | Bills | 1.28 (78¢) | $33,574 | +$9,470 | ✅ Ganada |
@@ -88,8 +88,8 @@ _(mostrando los 40 de mayor monto, de 412 en total)_
 | winwin518168 | Spread: Washington Mystics (-1.5) | Washington Mystics | 1.96 (51¢) | $30,783 | +$29,576 | ✅ Ganada |
 | winwin518168 | Spread: Atlanta Dream (-16.5) | Connecticut Sun | 2.04 (49¢) | $27,215 | -$27,215 | ❌ Perdida |
 | Sassy-Bucket | Philadelphia Phillies vs. New York Mets | New York Mets | 1.89 (53¢) | $29,100 | -$29,100 | ❌ Perdida |
-| pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
-| pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $27,152 | — | ⏳ Pendiente |
+| pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.96 (51¢) | $35,700 | +$34,300 | ✅ Ganada |
+| pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $27,152 | +$27,152 | ✅ Ganada |
 | matanovik | Will Villarreal CF win on 2026-09-17? | No | 1.82 (55¢) | $42,542 | -$42,542 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: AFC Bournemouth (-1.5) | Real Sociedad de Fútbol | 1.32 (76¢) | $28,401 | +$8,969 | ✅ Ganada |
 | BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 412 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Getafe CF win on 2026-09-17? | No | 1.09 (92¢) | $83,566 | +$7,267 | ✅ Ganada |
 | theowalcott | Spread: Crystal Palace FC (-1.5) | KKS Lech Poznań | 1.96 (51¢) | $25,769 | -$25,769 | ❌ Perdida |
 | HMLSF | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 1.92 (52¢) | $25,413 | +$23,458 | ✅ Ganada |
-| HMLSF | Minnesota Twins vs. Los Angeles Angels | Minnesota Twins | 1.96 (51¢) | $27,089 | — | ⏳ Pendiente |
+| HMLSF | Minnesota Twins vs. Los Angeles Angels | Minnesota Twins | 1.96 (51¢) | $27,089 | -$27,089 | ❌ Perdida |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | San Diego Padres vs. Colorado Rockies | San Diego Padres | 1.54 (65¢) | $25,576 | +$13,772 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Luminosity vs NIP (BO1) - Logitech G Play Connect Group A | NIP | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
 | MiltonFriedmanHongKong | Will Real Sociedad de Fútbol win on 2026-09-17? | No | 1.45 (69¢) | $42,416 | +$19,056 | ✅ Ganada |
