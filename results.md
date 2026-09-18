@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 22:52:59 (hora de Perú)
+Actualizado: 2026-09-17 22:55:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2945**  ($159,466,140 en total)
-- Resueltas: **2917** — 1751 ganadas / 1166 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Resueltas: **2923** — 1757 ganadas / 1166 perdidas (**60%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 411
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,856,327** sobre $158,189,967 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,471** sobre $287,300 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,780,199** sobre $158,639,489 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$10,344** sobre $287,900 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 218 | 116 | 6 | 65% | $22,376,688 | +$880,474 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 222 | 116 | 2 | 66% | $22,376,688 | +$934,077 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | BrotherObama | 19 | 19 | 1 | 50% | $1,740,407 | +$176,724 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| ferrariChampions2026 | 23 | 14 | 1 | 62% | $1,523,504 | -$468,530 |
+| ferrariChampions2026 | 24 | 14 | 0 | 63% | $1,523,504 | -$459,061 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
-| ethanaz | 6 | 2 | 1 | 75% | $697,735 | -$107,333 |
+| ethanaz | 7 | 2 | 0 | 78% | $697,735 | -$94,278 |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 8 | 5 | 0 | 62% | $684,011 | +$220,209 |
 
 _(mostrando los 40 de mayor monto, de 411 en total)_
@@ -72,16 +72,16 @@ _(mostrando los 40 de mayor monto, de 411 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | cosmicxbt | Spread: Bills (-6.5) | Bills | 1.25 (80¢) | $48,643 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.06 (94¢) | $26,406 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.08 (93¢) | $53,295 | — | ⏳ Pendiente |
-| ethanaz | Lions vs. Bills | Bills | 1.06 (94¢) | $204,528 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.06 (94¢) | $26,406 | +$1,686 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.08 (93¢) | $53,295 | +$4,011 | ✅ Ganada |
+| ethanaz | Lions vs. Bills | Bills | 1.06 (94¢) | $204,528 | +$13,055 | ✅ Ganada |
 | Sassy-Bucket | Minnesota Twins vs. Los Angeles Angels | Minnesota Twins | 2.04 (49¢) | $47,842 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Syracuse vs. Pittsburgh | Pittsburgh | 1.16 (86¢) | $92,669 | +$15,086 | ✅ Ganada |
 | ethanaz | Syracuse vs. Pittsburgh | Pittsburgh | 1.08 (93¢) | $26,103 | +$1,965 | ✅ Ganada |
-| ferrariChampions2026 | Lions vs. Bills | Bills | 1.28 (78¢) | $33,574 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.33 (75¢) | $97,218 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Lions vs. Bills | Bills | 1.28 (78¢) | $33,574 | +$9,470 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.33 (75¢) | $97,218 | +$32,406 | ✅ Ganada |
 | wan123 | Lions vs. Bills: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.45 (69¢) | $34,500 | +$15,500 | ✅ Ganada |
 | 0x8fb23b3c8041533008CB67ffcD87dEb00a7aA9d7-1775253556546 | Lions vs. Bills: O/U 55.5 | Under 55.5 | 1.85 (54¢) | $47,520 | -$47,520 | ❌ Perdida |
 | winwin518168 | Spread: Washington Mystics (-1.5) | Washington Mystics | 1.96 (51¢) | $30,783 | +$29,576 | ✅ Ganada |
 | winwin518168 | Spread: Atlanta Dream (-16.5) | Connecticut Sun | 2.04 (49¢) | $27,215 | -$27,215 | ❌ Perdida |
