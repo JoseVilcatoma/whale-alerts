@@ -44922,5 +44922,20 @@
     "status": "pending",
     "ultimo_fill": 1789771484,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6107,
+    "timestamp": 1789771784,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-mil-bal-2026-09-18-total-8pt5",
+    "title": "Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 40334.1342,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789771784,
+    "fills": 1
   }
 ]
