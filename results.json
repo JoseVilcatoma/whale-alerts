@@ -44832,5 +44832,20 @@
     "status": "pending",
     "ultimo_fill": 1789767301,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6100,
+    "timestamp": 1789767597,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "cfb-mia-wake-2026-09-18-spread-away-20pt5",
+    "title": "Spread: Miami (FL) (-20.5)",
+    "outcome": "Wake Forest",
+    "side": "BUY",
+    "usd": 25219.6683,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789767597,
+    "fills": 1
   }
 ]
