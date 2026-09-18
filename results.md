@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 22:30:12 (hora de Perú)
+Actualizado: 2026-09-17 22:32:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2945**  ($159,466,140 en total)
-- Resueltas: **2916** — 1750 ganadas / 1166 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Resueltas: **2917** — 1751 ganadas / 1166 perdidas (**60%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 411
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,879,785** sobre $158,164,554 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,563** sobre $287,200 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,856,327** sobre $158,189,967 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,471** sobre $287,300 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 411 en total)_
 | 0x076d…8d4c | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $41,671 | -$41,671 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Getafe CF win on 2026-09-17? | No | 1.09 (92¢) | $83,566 | +$7,267 | ✅ Ganada |
 | theowalcott | Spread: Crystal Palace FC (-1.5) | KKS Lech Poznań | 1.96 (51¢) | $25,769 | -$25,769 | ❌ Perdida |
-| HMLSF | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 1.92 (52¢) | $25,413 | — | ⏳ Pendiente |
+| HMLSF | Boston Red Sox vs. Texas Rangers | Boston Red Sox | 1.92 (52¢) | $25,413 | +$23,458 | ✅ Ganada |
 | HMLSF | Minnesota Twins vs. Los Angeles Angels | Minnesota Twins | 1.96 (51¢) | $27,089 | — | ⏳ Pendiente |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | San Diego Padres vs. Colorado Rockies | San Diego Padres | 1.54 (65¢) | $25,576 | +$13,772 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Luminosity vs NIP (BO1) - Logitech G Play Connect Group A | NIP | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
