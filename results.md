@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 23:09:22 (hora de Perú)
+Actualizado: 2026-09-17 23:11:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2945**  ($159,466,140 en total)
+- Apuestas registradas: **2946**  ($159,493,725 en total)
 - Resueltas: **2923** — 1757 ganadas / 1166 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 411
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 411 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: 3DMAX vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | EYEBALLERS | 2.50 (40¢) | $27,586 | — | ⏳ Pendiente |
 | cosmicxbt | Spread: Bills (-6.5) | Bills | 1.25 (80¢) | $48,643 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.06 (94¢) | $26,406 | +$1,686 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.08 (93¢) | $53,295 | +$4,011 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 411 en total)_
 | SDTrading | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers | 1.75 (57¢) | $27,726 | -$27,726 | ❌ Perdida |
 | retordedgremlin125 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $35,645 | +$3,961 | ✅ Ganada |
 | maxiforza | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $29,578 | +$3,286 | ✅ Ganada |
-| Rusik7 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $28,342 | +$3,149 | ✅ Ganada |

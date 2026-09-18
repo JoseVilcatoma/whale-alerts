@@ -44277,5 +44277,20 @@
     "status": "pending",
     "ultimo_fill": 1789700659,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6026,
+    "timestamp": 1789704622,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-3dmax-eye-2026-09-18",
+    "title": "Counter-Strike: 3DMAX vs EYEBALLERS (BO1) - Logitech G Play Connect Group B",
+    "outcome": "EYEBALLERS",
+    "side": "BUY",
+    "usd": 27585.676000000003,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1789704622,
+    "fills": 1
   }
 ]
