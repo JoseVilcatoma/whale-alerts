@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 13:50:05 (hora de Perú)
+Actualizado: 2026-09-18 13:52:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2971**  ($161,854,470 en total)
+- Apuestas registradas: **2972**  ($161,911,887 en total)
 - Resueltas: **2935** — 1763 ganadas / 1172 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 414
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| totoro3miyazaki | 29 | 17 | 2 | 63% | $5,481,382 | -$140,999 |
+| totoro3miyazaki | 29 | 17 | 3 | 63% | $5,538,799 | -$140,999 |
 | pleaseplease123 | 61 | 44 | 0 | 58% | $4,701,982 | +$473,794 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 36 | 25 | 0 | 59% | $3,397,749 | -$315,555 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $57,417 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-09-18? | Yes | 2.78 (36¢) | $177,007 | — | ⏳ Pendiente |
 | halvanicus | Will Chelsea FC win on 2026-09-18? | Yes | 2.63 (38¢) | $193,791 | — | ⏳ Pendiente |
 | Flaznorp | Will Chelsea FC win on 2026-09-18? | No | 1.61 (62¢) | $28,106 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | MiltonFriedmanHongKong | Will Real Sociedad de Fútbol win on 2026-09-17? | No | 1.45 (69¢) | $42,416 | +$19,056 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect Group A | B8 | 1.67 (60¢) | $50,822 | +$33,882 | ✅ Ganada |
 | MiltonFriedmanHongKong | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $25,000 | -$25,000 | ❌ Perdida |
-| MiltonFriedmanHongKong | Will Villarreal CF win on 2026-09-17? | No | 1.96 (51¢) | $110,000 | -$110,000 | ❌ Perdida |
