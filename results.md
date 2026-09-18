@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 13:56:09 (hora de Perú)
+Actualizado: 2026-09-18 13:58:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2973**  ($161,939,617 en total)
-- Resueltas: **2935** — 1763 ganadas / 1172 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Resueltas: **2936** — 1764 ganadas / 1172 perdidas (**60%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,836,199** sobre $159,043,505 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,563** sobre $289,100 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,815,990** sobre $159,111,164 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$10,533** sobre $289,200 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | HMLSF | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies | 2.00 (50¢) | $26,673 | — | ⏳ Pendiente |
 | PerpsKing | Spread: Miami (FL) (-19.5) | Miami (FL) | 1.85 (54¢) | $36,651 | — | ⏳ Pendiente |
 | Feromont | Houston vs. Texas Tech | Texas Tech | 1.33 (75¢) | $26,250 | — | ⏳ Pendiente |
-| retordedgremlin125 | Counter-Strike: NRG vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 1.30 (77¢) | $67,659 | — | ⏳ Pendiente |
+| retordedgremlin125 | Counter-Strike: NRG vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 1.30 (77¢) | $67,659 | +$20,210 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | Inner Circle Esports | 1.56 (64¢) | $57,600 | — | ⏳ Pendiente |
 | Ne8om | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $66,232 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.56 (39¢) | $52,000 | — | ⏳ Pendiente |
