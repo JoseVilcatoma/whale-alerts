@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 08:30:32 (hora de Perú)
+Actualizado: 2026-09-18 08:32:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2953**  ($159,723,883 en total)
-- Resueltas: **2930** — 1760 ganadas / 1170 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Resueltas: **2934** — 1762 ganadas / 1172 perdidas (**60%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 412
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,834,103** sobre $158,878,500 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,523** sobre $288,600 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,847,444** sobre $159,018,477 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,608** sobre $289,000 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 | gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 12 | 6 | 3 | 67% | $767,896 | +$3,690 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 8 | 0 | 62% | $767,896 | -$24,850 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | ethanaz | 7 | 2 | 0 | 78% | $697,735 | -$94,278 |
 
@@ -73,10 +73,10 @@ _(mostrando los 40 de mayor monto, de 412 en total)_
 |---|---|---|---|---|---|---|
 | FORTNITEMASTER888 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.70 (37¢) | $32,389 | — | ⏳ Pendiente |
 | SemyonMarmeladov | Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs | MIBR | 1.45 (69¢) | $25,028 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.56 (64¢) | $27,021 | — | ⏳ Pendiente |
-| HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.59 (63¢) | $53,182 | — | ⏳ Pendiente |
-| HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 1.67 (60¢) | $34,354 | — | ⏳ Pendiente |
-| HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 2.63 (38¢) | $25,420 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.56 (64¢) | $27,021 | +$15,199 | ✅ Ganada |
+| HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.59 (63¢) | $53,182 | +$31,234 | ✅ Ganada |
+| HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 1.67 (60¢) | $34,354 | -$34,354 | ❌ Perdida |
+| HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 2.63 (38¢) | $25,420 | -$25,420 | ❌ Perdida |
 | mariabelo | Will FC Bayern München win on 2026-09-18? | Yes | 1.08 (93¢) | $32,763 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: 3DMAX vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | EYEBALLERS | 2.50 (40¢) | $27,586 | -$27,586 | ❌ Perdida |
 | cosmicxbt | Spread: Bills (-6.5) | Bills | 1.25 (80¢) | $48,643 | +$12,161 | ✅ Ganada |
