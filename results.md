@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 00:35:31 (hora de Perú)
+Actualizado: 2026-09-18 00:37:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2947**  ($159,526,489 en total)
-- Resueltas: **2928** — 1759 ganadas / 1169 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Resueltas: **2929** — 1760 ganadas / 1169 perdidas (**60%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 412
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,818,678** sobre $158,802,272 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$10,448** sobre $288,400 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,806,517** sobre $158,850,915 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$10,423** sobre $288,500 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 412 en total)_
 |---|---|---|---|---|---|---|
 | mariabelo | Will FC Bayern München win on 2026-09-18? | Yes | 1.08 (93¢) | $32,763 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: 3DMAX vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | EYEBALLERS | 2.50 (40¢) | $27,586 | — | ⏳ Pendiente |
-| cosmicxbt | Spread: Bills (-6.5) | Bills | 1.25 (80¢) | $48,643 | — | ⏳ Pendiente |
+| cosmicxbt | Spread: Bills (-6.5) | Bills | 1.25 (80¢) | $48,643 | +$12,161 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.06 (94¢) | $26,406 | +$1,686 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.08 (93¢) | $53,295 | +$4,011 | ✅ Ganada |
 | ethanaz | Lions vs. Bills | Bills | 1.06 (94¢) | $204,528 | +$13,055 | ✅ Ganada |
