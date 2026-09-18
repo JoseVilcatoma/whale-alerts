@@ -44682,5 +44682,20 @@
     "status": "pending",
     "ultimo_fill": 1789757506,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6069,
+    "timestamp": 1789757730,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-chc-cin-2026-09-18",
+    "title": "Chicago Cubs vs. Cincinnati Reds",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 27730.1637,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789757730,
+    "fills": 1
   }
 ]
