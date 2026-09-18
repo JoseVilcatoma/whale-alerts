@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 13:04:39 (hora de Perú)
+Actualizado: 2026-09-18 13:06:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2963**  ($160,232,337 en total)
+- Apuestas registradas: **2964**  ($160,326,337 en total)
 - Resueltas: **2935** — 1763 ganadas / 1172 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 414
 
 ### Balance
@@ -50,10 +50,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 1 | 90% | $1,371,057 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
+| surfandturf | 6 | 2 | 1 | 75% | $1,107,101 | +$9,557 |
 | SDTrading | 16 | 21 | 0 | 43% | $1,097,906 | -$214,284 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | halvanicus | 1 | 2 | 0 | ⚠️ 33% (3) | $1,023,502 | -$792,134 |
-| surfandturf | 6 | 2 | 0 | 75% | $1,013,101 | +$9,557 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | Jsram | 12 | 12 | 0 | 50% | $956,445 | -$157,941 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $94,000 | — | ⏳ Pendiente |
 | watcherz88 | Caldas da Rainha: Susan Bandecchi vs Lisa Pigato | Susan Bandecchi | 1.33 (75¢) | $29,843 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $37,091 | — | ⏳ Pendiente |
 | HMLSF | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies | 2.00 (50¢) | $26,673 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | Jsram | Spread: Manchester City FC (-2.5) | Norwich City FC | 1.82 (55¢) | $48,207 | -$48,207 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.56 (64¢) | $45,165 | +$25,405 | ✅ Ganada |
 | Flaznorp | Will Real Betis Balompié win on 2026-09-17? | No | 2.94 (34¢) | $38,514 | -$38,514 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Betis Balompié win on 2026-09-17? | No | 2.94 (34¢) | $170,000 | -$170,000 | ❌ Perdida |
