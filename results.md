@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 21:21:30 (hora de Perú)
+Actualizado: 2026-09-17 21:23:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2943**  ($159,391,091 en total)
-- Resueltas: **2911** — 1747 ganadas / 1164 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Resueltas: **2912** — 1747 ganadas / 1165 perdidas (**60%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 411
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,849,791** sobre $157,938,379 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,483** sobre $286,700 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,878,891** sobre $157,967,479 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,583** sobre $286,800 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 23 | 31 | 0 | 43% | $2,754,038 | -$594,416 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Sassy-Bucket | 25 | 26 | 2 | 49% | $2,566,422 | -$125,067 |
+| Sassy-Bucket | 25 | 27 | 1 | 48% | $2,566,422 | -$154,167 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 411 en total)_
 | 0x8fb23b3c8041533008CB67ffcD87dEb00a7aA9d7-1775253556546 | Lions vs. Bills: O/U 55.5 | Under 55.5 | 1.85 (54¢) | $47,520 | — | ⏳ Pendiente |
 | winwin518168 | Spread: Washington Mystics (-1.5) | Washington Mystics | 1.96 (51¢) | $30,783 | — | ⏳ Pendiente |
 | winwin518168 | Spread: Atlanta Dream (-16.5) | Connecticut Sun | 2.04 (49¢) | $27,215 | -$27,215 | ❌ Perdida |
-| Sassy-Bucket | Philadelphia Phillies vs. New York Mets | New York Mets | 1.89 (53¢) | $29,100 | — | ⏳ Pendiente |
+| Sassy-Bucket | Philadelphia Phillies vs. New York Mets | New York Mets | 1.89 (53¢) | $29,100 | -$29,100 | ❌ Perdida |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $27,152 | — | ⏳ Pendiente |
 | matanovik | Will Villarreal CF win on 2026-09-17? | No | 1.82 (55¢) | $42,542 | -$42,542 | ❌ Perdida |
