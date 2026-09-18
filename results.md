@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 20:24:31 (hora de Perú)
+Actualizado: 2026-09-17 20:26:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2939**  ($158,992,757 en total)
+- Apuestas registradas: **2940**  ($159,085,426 en total)
 - Resueltas: **2910** — 1747 ganadas / 1163 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 411
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | pleaseplease123 | 59 | 44 | 2 | 57% | $4,701,982 | +$412,341 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
+| wr0ngw4yb3tt0r | 35 | 25 | 1 | 58% | $3,397,749 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 23 | 31 | 0 | 43% | $2,754,038 | -$594,416 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 411 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Syracuse vs. Pittsburgh | Pittsburgh | 1.16 (86¢) | $92,669 | — | ⏳ Pendiente |
 | ethanaz | Syracuse vs. Pittsburgh | Pittsburgh | 1.08 (93¢) | $26,103 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Lions vs. Bills | Bills | 1.28 (78¢) | $33,574 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.33 (75¢) | $97,218 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 411 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.22 (82¢) | $40,998 | -$40,998 | ❌ Perdida |
 | Diabolical-Prize | LoL: Top Esports vs Invictus Gaming - Game 2 Winner | Invictus Gaming | 1.67 (60¢) | $55,900 | -$55,900 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.35 (74¢) | $41,752 | -$41,752 | ❌ Perdida |
-| salgnklasf | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.14 (88¢) | $39,736 | -$39,736 | ❌ Perdida |
