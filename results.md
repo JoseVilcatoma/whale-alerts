@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 16:15:23 (hora de Perú)
+Actualizado: 2026-09-18 16:17:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2979**  ($162,158,668 en total)
-- Resueltas: **2945** — 1769 ganadas / 1176 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **2947** — 1771 ganadas / 1176 perdidas (**60%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,965,838** sobre $159,621,539 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,900** sobre $290,100 (ROI **-3.8%**)
+- **Resultado de los apostadores: -$1,842,200** sobre $159,718,106 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,685** sobre $290,300 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 222 | 116 | 4 | 66% | $23,084,414 | +$934,077 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
-| totoro3miyazaki | 29 | 17 | 4 | 63% | $5,602,826 | -$140,999 |
+| totoro3miyazaki | 30 | 17 | 3 | 64% | $5,602,826 | -$31,980 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 61 | 44 | 2 | 58% | $4,769,012 | +$473,794 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
@@ -71,11 +71,11 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Flaznorp | Will Brentford FC win on 2026-09-18? | Yes | 1.45 (69¢) | $32,539 | — | ⏳ Pendiente |
+| Flaznorp | Will Brentford FC win on 2026-09-18? | Yes | 1.45 (69¢) | $32,539 | +$14,619 | ✅ Ganada |
 | pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $41,157 | — | ⏳ Pendiente |
 | pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox | 2.27 (44¢) | $25,873 | — | ⏳ Pendiente |
 | Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Brentford FC win on 2026-09-18? | Yes | 2.70 (37¢) | $64,027 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Brentford FC win on 2026-09-18? | Yes | 2.70 (37¢) | $64,027 | +$109,020 | ✅ Ganada |
 | pilimili | Will Chelsea FC win on 2026-09-18? | Yes | 2.78 (36¢) | $30,000 | — | ⏳ Pendiente |
 | SDTrading | Chicago Cubs vs. Cincinnati Reds | Chicago Cubs | 1.75 (57¢) | $27,730 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $57,417 | — | ⏳ Pendiente |
