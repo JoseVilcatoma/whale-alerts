@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 17:24:53 (hora de Perú)
+Actualizado: 2026-09-18 17:26:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2984**  ($162,322,151 en total)
+- Apuestas registradas: **2985**  ($162,347,651 en total)
 - Resueltas: **2956** — 1777 ganadas / 1179 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 414
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vjnn | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $25,200 | — | ⏳ Pendiente |
 | SDTrading | Spread: Miami (FL) (-20.5) | Wake Forest | 1.96 (51¢) | $25,220 | — | ⏳ Pendiente |
 | kkookkoo | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.56 (64¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | matanovik | Will Villarreal CF win on 2026-09-17? | No | 1.82 (55¢) | $42,542 | -$42,542 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: AFC Bournemouth (-1.5) | Real Sociedad de Fútbol | 1.32 (76¢) | $28,401 | +$8,969 | ✅ Ganada |
 | BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
-| AGUGava | Will Beşiktaş JK win on 2026-09-17? | Yes | 1.75 (57¢) | $40,094 | +$30,246 | ✅ Ganada |
