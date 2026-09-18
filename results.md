@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 21:40:50 (hora de Perú)
+Actualizado: 2026-09-17 21:42:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2943**  ($159,391,091 en total)
-- Resueltas: **2912** — 1747 ganadas / 1165 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Resueltas: **2913** — 1748 ganadas / 1165 perdidas (**60%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 411
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,878,891** sobre $157,967,479 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,583** sobre $286,800 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,849,315** sobre $157,998,262 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,487** sobre $286,900 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 411 en total)_
 | wan123 | Lions vs. Bills: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
 | 0x8fb23b3c8041533008CB67ffcD87dEb00a7aA9d7-1775253556546 | Lions vs. Bills: O/U 55.5 | Under 55.5 | 1.85 (54¢) | $47,520 | — | ⏳ Pendiente |
-| winwin518168 | Spread: Washington Mystics (-1.5) | Washington Mystics | 1.96 (51¢) | $30,783 | — | ⏳ Pendiente |
+| winwin518168 | Spread: Washington Mystics (-1.5) | Washington Mystics | 1.96 (51¢) | $30,783 | +$29,576 | ✅ Ganada |
 | winwin518168 | Spread: Atlanta Dream (-16.5) | Connecticut Sun | 2.04 (49¢) | $27,215 | -$27,215 | ❌ Perdida |
 | Sassy-Bucket | Philadelphia Phillies vs. New York Mets | New York Mets | 1.89 (53¢) | $29,100 | -$29,100 | ❌ Perdida |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
