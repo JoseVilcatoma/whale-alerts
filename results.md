@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 14:00:13 (hora de Perú)
+Actualizado: 2026-09-18 14:02:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2975**  ($162,033,645 en total)
-- Resueltas: **2936** — 1764 ganadas / 1172 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Resueltas: **2937** — 1764 ganadas / 1173 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,815,990** sobre $159,111,164 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$10,533** sobre $289,200 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,845,833** sobre $159,141,007 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,633** sobre $289,300 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Chelsea FC win on 2026-09-18? | No | 1.61 (62¢) | $26,828 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $261,379 | — | ⏳ Pendiente |
 | surfandturf | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $94,000 | — | ⏳ Pendiente |
-| watcherz88 | Caldas da Rainha: Susan Bandecchi vs Lisa Pigato | Susan Bandecchi | 1.33 (75¢) | $29,843 | — | ⏳ Pendiente |
+| watcherz88 | Caldas da Rainha: Susan Bandecchi vs Lisa Pigato | Susan Bandecchi | 1.33 (75¢) | $29,843 | -$29,843 | ❌ Perdida |
 | Roadto1mlesgooo | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $37,091 | — | ⏳ Pendiente |
 | HMLSF | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies | 2.00 (50¢) | $26,673 | — | ⏳ Pendiente |
 | PerpsKing | Spread: Miami (FL) (-19.5) | Miami (FL) | 1.85 (54¢) | $36,651 | — | ⏳ Pendiente |
