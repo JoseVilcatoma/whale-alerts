@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 22:17:42 (hora de Perú)
+Actualizado: 2026-09-17 22:19:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2945**  ($159,466,140 en total)
-- Resueltas: **2914** — 1748 ganadas / 1166 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Resueltas: **2916** — 1750 ganadas / 1166 perdidas (**60%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 411
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,896,835** sobre $158,045,782 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,587** sobre $287,000 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,879,785** sobre $158,164,554 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,563** sobre $287,200 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | pleaseplease123 | 59 | 44 | 2 | 57% | $4,701,982 | +$412,341 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 35 | 25 | 1 | 58% | $3,397,749 | -$330,640 |
+| wr0ngw4yb3tt0r | 36 | 25 | 0 | 59% | $3,397,749 | -$315,555 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 23 | 31 | 0 | 43% | $2,754,038 | -$594,416 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
-| ethanaz | 5 | 2 | 2 | ⚠️ 71% (7) | $697,735 | -$109,297 |
+| ethanaz | 6 | 2 | 1 | 75% | $697,735 | -$107,333 |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 8 | 5 | 0 | 62% | $684,011 | +$220,209 |
 
 _(mostrando los 40 de mayor monto, de 411 en total)_
@@ -76,8 +76,8 @@ _(mostrando los 40 de mayor monto, de 411 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.08 (93¢) | $53,295 | — | ⏳ Pendiente |
 | ethanaz | Lions vs. Bills | Bills | 1.06 (94¢) | $204,528 | — | ⏳ Pendiente |
 | Sassy-Bucket | Minnesota Twins vs. Los Angeles Angels | Minnesota Twins | 2.04 (49¢) | $47,842 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Syracuse vs. Pittsburgh | Pittsburgh | 1.16 (86¢) | $92,669 | — | ⏳ Pendiente |
-| ethanaz | Syracuse vs. Pittsburgh | Pittsburgh | 1.08 (93¢) | $26,103 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Syracuse vs. Pittsburgh | Pittsburgh | 1.16 (86¢) | $92,669 | +$15,086 | ✅ Ganada |
+| ethanaz | Syracuse vs. Pittsburgh | Pittsburgh | 1.08 (93¢) | $26,103 | +$1,965 | ✅ Ganada |
 | ferrariChampions2026 | Lions vs. Bills | Bills | 1.28 (78¢) | $33,574 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.33 (75¢) | $97,218 | — | ⏳ Pendiente |
 | wan123 | Lions vs. Bills: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
