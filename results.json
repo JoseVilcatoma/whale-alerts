@@ -44202,5 +44202,20 @@
     "status": "pending",
     "ultimo_fill": 1789694790,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 6007,
+    "timestamp": 1789695014,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-min-laa-2026-09-17",
+    "title": "Minnesota Twins vs. Los Angeles Angels",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 47841.608487000005,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1789695014,
+    "fills": 1
   }
 ]
