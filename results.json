@@ -44952,5 +44952,20 @@
     "status": "pending",
     "ultimo_fill": 1789772546,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6109,
+    "timestamp": 1789773243,
+    "username": "sleepy-panda",
+    "wallet": "0xa49becb692927d455924583b5e3e5788246f4c40",
+    "slug": "cfb-mia-wake-2026-09-18",
+    "title": "Miami (FL) vs. Wake Forest",
+    "outcome": "Miami (FL)",
+    "side": "BUY",
+    "usd": 36800.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1789773243,
+    "fills": 1
   }
 ]
