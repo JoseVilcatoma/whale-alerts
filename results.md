@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 17:33:07 (hora de Perú)
+Actualizado: 2026-09-18 17:35:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2985**  ($162,347,651 en total)
+- Apuestas registradas: **2986**  ($162,378,562 en total)
 - Resueltas: **2956** — 1777 ganadas / 1179 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 414
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 223 | 117 | 2 | 66% | $23,084,414 | +$1,082,350 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 1 | 54% | $6,005,784 | -$125,586 |
 | totoro3miyazaki | 33 | 17 | 0 | 66% | $5,602,826 | +$321,888 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 61 | 44 | 3 | 58% | $4,817,075 | +$473,794 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Pittsburgh Pirates (-1.5) | Kansas City Royals | 1.79 (56¢) | $30,912 | — | ⏳ Pendiente |
 | vjnn | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $25,200 | — | ⏳ Pendiente |
 | SDTrading | Spread: Miami (FL) (-20.5) | Wake Forest | 1.96 (51¢) | $25,220 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $27,152 | +$27,152 | ✅ Ganada |
 | matanovik | Will Villarreal CF win on 2026-09-17? | No | 1.82 (55¢) | $42,542 | -$42,542 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: AFC Bournemouth (-1.5) | Real Sociedad de Fútbol | 1.32 (76¢) | $28,401 | +$8,969 | ✅ Ganada |
-| BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
