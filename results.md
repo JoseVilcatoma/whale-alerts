@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 16:21:30 (hora de Perú)
+Actualizado: 2026-09-18 16:23:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2979**  ($162,158,668 en total)
-- Resueltas: **2947** — 1771 ganadas / 1176 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Apuestas registradas: **2981**  ($162,246,731 en total)
+- Resueltas: **2956** — 1777 ganadas / 1179 perdidas (**60%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,842,200** sobre $159,718,106 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,685** sobre $290,300 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,530,181** sobre $161,333,655 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,632** sobre $291,200 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 222 | 116 | 4 | 66% | $23,084,414 | +$934,077 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 223 | 117 | 2 | 66% | $23,084,414 | +$1,082,350 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 0 | 54% | $5,974,872 | -$125,586 |
-| totoro3miyazaki | 30 | 17 | 3 | 64% | $5,602,826 | -$31,980 |
+| totoro3miyazaki | 33 | 17 | 0 | 66% | $5,602,826 | +$321,888 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 61 | 44 | 2 | 58% | $4,769,012 | +$473,794 |
+| pleaseplease123 | 61 | 44 | 3 | 58% | $4,817,075 | +$473,794 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 36 | 25 | 0 | 59% | $3,397,749 | -$315,555 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 20 | 2 | 0 | 91% | $1,371,057 | +$56,363 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| halvanicus | 1 | 2 | 1 | ⚠️ 33% (3) | $1,217,294 | -$792,134 |
+| halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
 | SDTrading | 16 | 21 | 1 | 43% | $1,125,636 | -$214,284 |
 | surfandturf | 7 | 2 | 0 | 78% | $1,107,101 | +$15,557 |
@@ -71,21 +71,23 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
+| pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $48,063 | — | ⏳ Pendiente |
 | Flaznorp | Will Brentford FC win on 2026-09-18? | Yes | 1.45 (69¢) | $32,539 | +$14,619 | ✅ Ganada |
 | pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $41,157 | — | ⏳ Pendiente |
 | pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox | 2.27 (44¢) | $25,873 | — | ⏳ Pendiente |
 | Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Brentford FC win on 2026-09-18? | Yes | 2.70 (37¢) | $64,027 | +$109,020 | ✅ Ganada |
-| pilimili | Will Chelsea FC win on 2026-09-18? | Yes | 2.78 (36¢) | $30,000 | — | ⏳ Pendiente |
+| pilimili | Will Chelsea FC win on 2026-09-18? | Yes | 2.78 (36¢) | $30,000 | -$30,000 | ❌ Perdida |
 | SDTrading | Chicago Cubs vs. Cincinnati Reds | Chicago Cubs | 1.75 (57¢) | $27,730 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $57,417 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-09-18? | Yes | 2.78 (36¢) | $177,007 | — | ⏳ Pendiente |
-| halvanicus | Will Chelsea FC win on 2026-09-18? | Yes | 2.63 (38¢) | $193,791 | — | ⏳ Pendiente |
-| Flaznorp | Will Chelsea FC win on 2026-09-18? | No | 1.61 (62¢) | $28,106 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $310,303 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-09-18? | No | 1.61 (62¢) | $530,719 | — | ⏳ Pendiente |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Chelsea FC win on 2026-09-18? | No | 1.61 (62¢) | $26,828 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $261,379 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $57,417 | +$32,297 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-09-18? | Yes | 2.78 (36¢) | $177,007 | -$177,007 | ❌ Perdida |
+| halvanicus | Will Chelsea FC win on 2026-09-18? | Yes | 2.63 (38¢) | $193,791 | -$193,791 | ❌ Perdida |
+| Flaznorp | Will Chelsea FC win on 2026-09-18? | No | 1.61 (62¢) | $28,106 | +$17,226 | ✅ Ganada |
+| totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $310,303 | +$174,545 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-09-18? | No | 1.61 (62¢) | $530,719 | +$325,280 | ✅ Ganada |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Chelsea FC win on 2026-09-18? | No | 1.61 (62¢) | $26,828 | +$16,443 | ✅ Ganada |
+| totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $261,379 | +$147,026 | ✅ Ganada |
 | surfandturf | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $94,000 | +$6,000 | ✅ Ganada |
 | watcherz88 | Caldas da Rainha: Susan Bandecchi vs Lisa Pigato | Susan Bandecchi | 1.33 (75¢) | $29,843 | -$29,843 | ❌ Perdida |
 | Roadto1mlesgooo | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $37,091 | +$2,368 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | kindar | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.18 (85¢) | $50,000 | +$8,824 | ✅ Ganada |
 | surfandturf | Will Manchester City FC win on 2026-09-17? | Yes | 1.18 (85¢) | $32,769 | +$5,783 | ✅ Ganada |
 | 0x076d…8d4c | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $41,671 | -$41,671 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Getafe CF win on 2026-09-17? | No | 1.09 (92¢) | $83,566 | +$7,267 | ✅ Ganada |
-| theowalcott | Spread: Crystal Palace FC (-1.5) | KKS Lech Poznań | 1.96 (51¢) | $25,769 | -$25,769 | ❌ Perdida |
