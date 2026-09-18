@@ -44457,5 +44457,20 @@
     "status": "pending",
     "ultimo_fill": 1789744294,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6051,
+    "timestamp": 1789747421,
+    "username": "retordedgremlin125",
+    "wallet": "0xf0b6a8ebfa3a626337cc45e8eed30eaafb182fef",
+    "slug": "cs2-nrg-aur1-2026-09-18",
+    "title": "Counter-Strike: NRG vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 67658.659998,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1789747421,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 11:03:33 (hora de Perú)
+Actualizado: 2026-09-18 11:05:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2957**  ($160,008,171 en total)
+- Apuestas registradas: **2958**  ($160,075,830 en total)
 - Resueltas: **2934** — 1762 ganadas / 1172 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 413
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 413 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| retordedgremlin125 | Counter-Strike: NRG vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 1.30 (77¢) | $67,659 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | Inner Circle Esports | 1.56 (64¢) | $57,600 | — | ⏳ Pendiente |
 | Ne8om | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $66,232 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.56 (39¢) | $52,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 413 en total)_
 | phonesculptor | Will Getafe CF win on 2026-09-17? | No | 1.14 (88¢) | $90,944 | +$12,402 | ✅ Ganada |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Manchester City FC win on 2026-09-17? | Yes | 1.14 (88¢) | $26,306 | +$3,587 | ✅ Ganada |
 | MiltonFriedmanHongKong | Will Real Sociedad de Fútbol win on 2026-09-17? | No | 1.43 (70¢) | $119,241 | +$51,103 | ✅ Ganada |
-| Ancient-Strike | Counter-Strike: Natus Vincere vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 2.17 (46¢) | $26,086 | +$30,623 | ✅ Ganada |
