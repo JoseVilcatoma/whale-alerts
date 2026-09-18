@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 11:44:47 (hora de Perú)
+Actualizado: 2026-09-18 11:46:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2959**  ($160,102,080 en total)
+- Apuestas registradas: **2960**  ($160,138,730 en total)
 - Resueltas: **2935** — 1763 ganadas / 1172 perdidas (**60%** de acierto)
-- Pendientes: 8
-- Apostadores distintos: 413
+- Pendientes: 9
+- Apostadores distintos: 414
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | ethanaz | 7 | 2 | 0 | 78% | $697,735 | -$94,278 |
 
-_(mostrando los 40 de mayor monto, de 413 en total)_
+_(mostrando los 40 de mayor monto, de 414 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| PerpsKing | Spread: Miami (FL) (-19.5) | Miami (FL) | 1.85 (54¢) | $36,651 | — | ⏳ Pendiente |
 | Feromont | Houston vs. Texas Tech | Texas Tech | 1.33 (75¢) | $26,250 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: NRG vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 1.30 (77¢) | $67,659 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | Inner Circle Esports | 1.56 (64¢) | $57,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 413 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Betis Balompié win on 2026-09-17? | No | 2.78 (36¢) | $142,000 | -$142,000 | ❌ Perdida |
 | halvanicus | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.56 (64¢) | $148,075 | +$83,292 | ✅ Ganada |
 | phonesculptor | Will Getafe CF win on 2026-09-17? | No | 1.14 (88¢) | $90,944 | +$12,402 | ✅ Ganada |
-| 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Manchester City FC win on 2026-09-17? | Yes | 1.14 (88¢) | $26,306 | +$3,587 | ✅ Ganada |

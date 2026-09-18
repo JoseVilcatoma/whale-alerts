@@ -44487,5 +44487,20 @@
     "status": "pending",
     "ultimo_fill": 1789747927,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6054,
+    "timestamp": 1789749926,
+    "username": "PerpsKing",
+    "wallet": "0x8e92289bbff5635543812defcb7acc4e514c15de",
+    "slug": "cfb-mia-wake-2026-09-18-spread-away-19pt5",
+    "title": "Spread: Miami (FL) (-19.5)",
+    "outcome": "Miami (FL)",
+    "side": "BUY",
+    "usd": 36650.5398,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1789749926,
+    "fills": 1
   }
 ]
