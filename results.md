@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 11:24:10 (hora de Perú)
+Actualizado: 2026-09-18 11:26:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2959**  ($160,102,080 en total)
-- Resueltas: **2934** — 1762 ganadas / 1172 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Resueltas: **2935** — 1763 ganadas / 1172 perdidas (**60%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 413
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,847,444** sobre $159,018,477 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,608** sobre $289,000 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,836,199** sobre $159,043,505 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,563** sobre $289,100 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 413 en total)_
 | fantasy7788 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.56 (39¢) | $52,000 | — | ⏳ Pendiente |
 | Ne8om | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $108,455 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.70 (37¢) | $32,389 | — | ⏳ Pendiente |
-| SemyonMarmeladov | Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs | MIBR | 1.45 (69¢) | $25,028 | — | ⏳ Pendiente |
+| SemyonMarmeladov | Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs | MIBR | 1.45 (69¢) | $25,028 | +$11,244 | ✅ Ganada |
 | FORTNITEMASTER888 | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.56 (64¢) | $27,021 | +$15,199 | ✅ Ganada |
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.59 (63¢) | $53,182 | +$31,234 | ✅ Ganada |
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 1.67 (60¢) | $34,354 | -$34,354 | ❌ Perdida |
