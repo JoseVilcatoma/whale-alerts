@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 16:33:56 (hora de Perú)
+Actualizado: 2026-09-18 16:36:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2981**  ($162,246,731 en total)
+- Apuestas registradas: **2982**  ($162,271,731 en total)
 - Resueltas: **2956** — 1777 ganadas / 1179 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 414
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.56 (64¢) | $25,000 | — | ⏳ Pendiente |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $48,063 | — | ⏳ Pendiente |
 | Flaznorp | Will Brentford FC win on 2026-09-18? | Yes | 1.45 (69¢) | $32,539 | +$14,619 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | AGUGava | Will Beşiktaş JK win on 2026-09-17? | Yes | 1.75 (57¢) | $40,094 | +$30,246 | ✅ Ganada |
 | kindar | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.18 (85¢) | $50,000 | +$8,824 | ✅ Ganada |
 | surfandturf | Will Manchester City FC win on 2026-09-17? | Yes | 1.18 (85¢) | $32,769 | +$5,783 | ✅ Ganada |
-| 0x076d…8d4c | Will Villarreal CF win on 2026-09-17? | No | 1.92 (52¢) | $41,671 | -$41,671 | ❌ Perdida |
