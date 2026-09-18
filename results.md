@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 07:08:43 (hora de Perú)
+Actualizado: 2026-09-18 07:10:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2950**  ($159,639,445 en total)
+- Apuestas registradas: **2951**  ($159,666,466 en total)
 - Resueltas: **2929** — 1760 ganadas / 1169 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 412
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 412 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FORTNITEMASTER888 | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.56 (64¢) | $27,021 | — | ⏳ Pendiente |
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.59 (63¢) | $53,182 | — | ⏳ Pendiente |
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 1.67 (60¢) | $34,354 | — | ⏳ Pendiente |
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 2.63 (38¢) | $25,420 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 412 en total)_
 | BrotherObama | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 1.85 (54¢) | $30,000 | +$25,556 | ✅ Ganada |
 | BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 1.89 (53¢) | $25,000 | +$22,170 | ✅ Ganada |
 | BrotherObama | San Diego Padres vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.89 (53¢) | $30,000 | +$26,604 | ✅ Ganada |
-| SDTrading | Los Angeles Dodgers vs. Cincinnati Reds | Cincinnati Reds | 2.56 (39¢) | $26,957 | -$26,957 | ❌ Perdida |

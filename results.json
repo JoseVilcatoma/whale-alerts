@@ -44352,5 +44352,20 @@
     "status": "pending",
     "ultimo_fill": 1789733025,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6038,
+    "timestamp": 1789733398,
+    "username": "FORTNITEMASTER888",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-mouz-navi-2026-09-18",
+    "title": "Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 27020.608,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1789733398,
+    "fills": 1
   }
 ]
