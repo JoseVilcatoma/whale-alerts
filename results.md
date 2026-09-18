@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 22:03:14 (hora de Perú)
+Actualizado: 2026-09-17 22:05:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2944**  ($159,417,497 en total)
+- Apuestas registradas: **2945**  ($159,466,140 en total)
 - Resueltas: **2913** — 1748 ganadas / 1165 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 411
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 411 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Spread: Bills (-6.5) | Bills | 1.25 (80¢) | $48,643 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.06 (94¢) | $26,406 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.08 (93¢) | $53,295 | — | ⏳ Pendiente |
 | ethanaz | Lions vs. Bills | Bills | 1.06 (94¢) | $204,528 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 411 en total)_
 | retordedgremlin125 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $35,645 | +$3,961 | ✅ Ganada |
 | maxiforza | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $29,578 | +$3,286 | ✅ Ganada |
 | Rusik7 | Counter-Strike: Vitality vs magic (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.11 (90¢) | $28,342 | +$3,149 | ✅ Ganada |
-| BrotherObama | LoL: Top Esports vs Invictus Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $25,959 | -$25,959 | ❌ Perdida |
