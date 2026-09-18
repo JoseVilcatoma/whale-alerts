@@ -44892,5 +44892,20 @@
     "status": "pending",
     "ultimo_fill": 1789770795,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6105,
+    "timestamp": 1789770964,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "mlb-bos-tb-2026-09-18-total-7pt5",
+    "title": "Boston Red Sox vs. Tampa Bay Rays: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 115864.21919999999,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789770964,
+    "fills": 1
   }
 ]
