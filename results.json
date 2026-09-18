@@ -44382,5 +44382,20 @@
     "status": "pending",
     "ultimo_fill": 1789736977,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6041,
+    "timestamp": 1789737883,
+    "username": "FORTNITEMASTER888",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-navi-mkoi-2026-09-18",
+    "title": "LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 32389.3079,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1789737883,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 08:24:23 (hora de Perú)
+Actualizado: 2026-09-18 08:26:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2952**  ($159,691,494 en total)
+- Apuestas registradas: **2953**  ($159,723,883 en total)
 - Resueltas: **2930** — 1760 ganadas / 1170 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 412
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 412 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FORTNITEMASTER888 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.70 (37¢) | $32,389 | — | ⏳ Pendiente |
 | SemyonMarmeladov | Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs | MIBR | 1.45 (69¢) | $25,028 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.56 (64¢) | $27,021 | — | ⏳ Pendiente |
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.59 (63¢) | $53,182 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 412 en total)_
 | kindar | Will Real Betis Balompié win on 2026-09-17? | Yes | 1.59 (63¢) | $35,851 | +$21,055 | ✅ Ganada |
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-17? | Yes | 1.10 (91¢) | $90,595 | +$8,960 | ✅ Ganada |
 | BrotherObama | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 1.85 (54¢) | $30,000 | +$25,556 | ✅ Ganada |
-| BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 1.89 (53¢) | $25,000 | +$22,170 | ✅ Ganada |
