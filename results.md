@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 23:50:29 (hora de Perú)
+Actualizado: 2026-09-17 23:52:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2947**  ($159,526,489 en total)
-- Resueltas: **2923** — 1757 ganadas / 1166 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Resueltas: **2924** — 1757 ganadas / 1167 perdidas (**60%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 412
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,780,199** sobre $158,639,489 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$10,344** sobre $287,900 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,805,199** sobre $158,664,489 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$10,444** sobre $288,000 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 412 en total)_
 | ethanaz | Syracuse vs. Pittsburgh | Pittsburgh | 1.08 (93¢) | $26,103 | +$1,965 | ✅ Ganada |
 | ferrariChampions2026 | Lions vs. Bills | Bills | 1.28 (78¢) | $33,574 | +$9,470 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.33 (75¢) | $97,218 | +$32,406 | ✅ Ganada |
-| wan123 | Lions vs. Bills: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| wan123 | Lions vs. Bills: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.45 (69¢) | $34,500 | +$15,500 | ✅ Ganada |
 | 0x8fb23b3c8041533008CB67ffcD87dEb00a7aA9d7-1775253556546 | Lions vs. Bills: O/U 55.5 | Under 55.5 | 1.85 (54¢) | $47,520 | -$47,520 | ❌ Perdida |
 | winwin518168 | Spread: Washington Mystics (-1.5) | Washington Mystics | 1.96 (51¢) | $30,783 | +$29,576 | ✅ Ganada |
