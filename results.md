@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 18:01:41 (hora de Perú)
+Actualizado: 2026-09-18 18:03:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2989**  ($162,567,261 en total)
+- Apuestas registradas: **2990**  ($162,616,821 en total)
 - Resueltas: **2956** — 1777 ganadas / 1179 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 414
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| martingaleking | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $49,561 | — | ⏳ Pendiente |
 | pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $40,334 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
 | Elaran1993 | Boston Red Sox vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.75 (57¢) | $115,864 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | winwin518168 | Spread: Washington Mystics (-1.5) | Washington Mystics | 1.96 (51¢) | $30,783 | +$29,576 | ✅ Ganada |
 | winwin518168 | Spread: Atlanta Dream (-16.5) | Connecticut Sun | 2.04 (49¢) | $27,215 | -$27,215 | ❌ Perdida |
 | Sassy-Bucket | Philadelphia Phillies vs. New York Mets | New York Mets | 1.89 (53¢) | $29,100 | -$29,100 | ❌ Perdida |
-| pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.96 (51¢) | $35,700 | +$34,300 | ✅ Ganada |
