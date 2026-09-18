@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 14:59:14 (hora de Perú)
+Actualizado: 2026-09-18 15:01:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2977**  ($162,084,972 en total)
-- Resueltas: **2938** — 1764 ganadas / 1174 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Resueltas: **2940** — 1764 ganadas / 1176 perdidas (**60%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,903,433** sobre $159,198,607 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,733** sobre $289,400 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,987,822** sobre $159,282,996 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,933** sobre $289,600 (ROI **-3.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -93,9 +93,9 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | retordedgremlin125 | Counter-Strike: NRG vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 1.30 (77¢) | $67,659 | +$20,210 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | Inner Circle Esports | 1.56 (64¢) | $57,600 | -$57,600 | ❌ Perdida |
 | Ne8om | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $66,232 | — | ⏳ Pendiente |
-| fantasy7788 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.56 (39¢) | $52,000 | — | ⏳ Pendiente |
+| fantasy7788 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.56 (39¢) | $52,000 | -$52,000 | ❌ Perdida |
 | Ne8om | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $108,455 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.70 (37¢) | $32,389 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.70 (37¢) | $32,389 | -$32,389 | ❌ Perdida |
 | SemyonMarmeladov | Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs | MIBR | 1.45 (69¢) | $25,028 | +$11,244 | ✅ Ganada |
 | FORTNITEMASTER888 | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.56 (64¢) | $27,021 | +$15,199 | ✅ Ganada |
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.59 (63¢) | $53,182 | +$31,234 | ✅ Ganada |
