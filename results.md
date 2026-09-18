@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-17 19:26:22 (hora de Perú)
+Actualizado: 2026-09-17 19:28:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2937**  ($158,933,080 en total)
+- Apuestas registradas: **2938**  ($158,966,653 en total)
 - Resueltas: **2910** — 1747 ganadas / 1163 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 411
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | BrotherObama | 19 | 19 | 1 | 50% | $1,740,407 | +$176,724 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| ferrariChampions2026 | 23 | 14 | 0 | 62% | $1,489,930 | -$468,530 |
+| ferrariChampions2026 | 23 | 14 | 1 | 62% | $1,523,504 | -$468,530 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 411 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Lions vs. Bills | Bills | 1.28 (78¢) | $33,574 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.33 (75¢) | $97,218 | — | ⏳ Pendiente |
 | wan123 | Lions vs. Bills: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 411 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.35 (74¢) | $41,752 | -$41,752 | ❌ Perdida |
 | salgnklasf | Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.14 (88¢) | $39,736 | -$39,736 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect Group A | M80 | 2.44 (41¢) | $45,100 | -$45,100 | ❌ Perdida |
-| Diabolical-Prize | Counter-Strike: NIP vs M80 (BO1) - Logitech G Play Connect Group A | NIP | 1.79 (56¢) | $64,400 | -$64,400 | ❌ Perdida |
