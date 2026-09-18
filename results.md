@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 10:12:08 (hora de Perú)
+Actualizado: 2026-09-18 10:14:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2956**  ($159,950,571 en total)
+- Apuestas registradas: **2957**  ($160,008,171 en total)
 - Resueltas: **2934** — 1762 ganadas / 1172 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 413
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 36 | 25 | 0 | 59% | $3,397,749 | -$315,555 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Diabolical-Prize | 23 | 31 | 0 | 43% | $2,754,038 | -$594,416 |
+| Diabolical-Prize | 23 | 31 | 1 | 43% | $2,811,638 | -$594,416 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Sassy-Bucket | 25 | 28 | 0 | 47% | $2,566,422 | -$202,009 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 413 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Inner Circle Esports vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | Inner Circle Esports | 1.56 (64¢) | $57,600 | — | ⏳ Pendiente |
 | Ne8om | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $66,232 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.56 (39¢) | $52,000 | — | ⏳ Pendiente |
 | Ne8om | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $108,455 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 413 en total)_
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Manchester City FC win on 2026-09-17? | Yes | 1.14 (88¢) | $26,306 | +$3,587 | ✅ Ganada |
 | MiltonFriedmanHongKong | Will Real Sociedad de Fútbol win on 2026-09-17? | No | 1.43 (70¢) | $119,241 | +$51,103 | ✅ Ganada |
 | Ancient-Strike | Counter-Strike: Natus Vincere vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 2.17 (46¢) | $26,086 | +$30,623 | ✅ Ganada |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Betis Balompié win on 2026-09-17? | No | 2.78 (36¢) | $34,053 | -$34,053 | ❌ Perdida |
