@@ -44697,5 +44697,35 @@
     "status": "pending",
     "ultimo_fill": 1789757730,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6071,
+    "timestamp": 1789757961,
+    "username": "pilimili",
+    "wallet": "0xd1049158a102840ce595efc6ab683a0cb6fbacef",
+    "slug": "epl-bre-che-2026-09-18-che",
+    "title": "Will Chelsea FC win on 2026-09-18?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "ultimo_fill": 1789757961,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6072,
+    "timestamp": 1789757992,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "epl-bre-che-2026-09-18-bre",
+    "title": "Will Brentford FC win on 2026-09-18?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 64027.39,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1789757992,
+    "fills": 1
   }
 ]
