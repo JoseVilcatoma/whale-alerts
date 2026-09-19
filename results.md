@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 15:16:31 (hora de Perú)
+Actualizado: 2026-09-19 15:18:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3077**  ($166,576,093 en total)
+- Apuestas registradas: **3078**  ($166,606,757 en total)
 - Resueltas: **3032** — 1826 ganadas / 1206 perdidas (**60%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 420
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 231 | 119 | 3 | 66% | $23,482,005 | +$1,087,513 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 231 | 119 | 4 | 66% | $23,512,669 | +$1,087,513 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami (OH) vs. Cincinnati | Cincinnati | 1.39 (72¢) | $30,664 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Sevilla FC vs. FC Barcelona: O/U 2.5 | Over 2.5 | 1.12 (89¢) | $28,869 | — | ⏳ Pendiente |
 | maz26 | SMU vs. Louisville | Louisville | 1.75 (57¢) | $53,317 | — | ⏳ Pendiente |
 | phonesculptor | USC vs. Rutgers | USC | 1.06 (94¢) | $53,170 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | BrotherObama | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 2.08 (48¢) | $25,000 | +$27,083 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play Connect Playoffs | Luminosity | 1.54 (65¢) | $65,000 | +$35,000 | ✅ Ganada |
 | Takon88 | Will CA Osasuna win on 2026-09-19? | No | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
-| phonesculptor | Will Coventry City FC win on 2026-09-19? | No | 1.19 (84¢) | $73,539 | — | ⏳ Pendiente |
