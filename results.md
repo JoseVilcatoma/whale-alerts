@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 05:17:17 (hora de Perú)
+Actualizado: 2026-09-19 05:19:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3016**  ($163,828,138 en total)
+- Apuestas registradas: **3017**  ($163,856,938 en total)
 - Resueltas: **2991** — 1800 ganadas / 1191 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 414
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 38 | 25 | 0 | 60% | $3,480,189 | -$301,769 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Diabolical-Prize | 23 | 32 | 1 | 42% | $2,927,701 | -$652,016 |
+| Diabolical-Prize | 23 | 32 | 2 | 42% | $2,956,501 | -$652,016 |
 | Sassy-Bucket | 26 | 29 | 0 | 47% | $2,630,653 | -$206,240 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play Connect Playoffs | Luminosity | 1.56 (64¢) | $28,800 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Invictus Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 1.69 (59¢) | $116,062 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.85 (54¢) | $28,784 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | PerpsKing | Spread: Miami (FL) (-19.5) | Miami (FL) | 1.85 (54¢) | $36,651 | -$36,651 | ❌ Perdida |
 | Feromont | Houston vs. Texas Tech | Texas Tech | 1.33 (75¢) | $26,250 | +$4,900 | 💰 Vendida antes |
 | retordedgremlin125 | Counter-Strike: NRG vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 1.30 (77¢) | $67,659 | +$20,210 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: Inner Circle Esports vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | Inner Circle Esports | 1.56 (64¢) | $57,600 | -$57,600 | ❌ Perdida |
