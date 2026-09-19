@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 05:46:18 (hora de Perú)
+Actualizado: 2026-09-19 05:48:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3018**  ($163,930,477 en total)
+- Apuestas registradas: **3019**  ($163,961,977 en total)
 - Resueltas: **2991** — 1800 ganadas / 1191 perdidas (**60%** de acierto)
-- Pendientes: 11
-- Apostadores distintos: 414
+- Pendientes: 12
+- Apostadores distintos: 415
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | ethanaz | 8 | 2 | 0 | 80% | $739,439 | -$74,652 |
 
-_(mostrando los 40 de mayor monto, de 414 en total)_
+_(mostrando los 40 de mayor monto, de 415 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Takon88 | Will CA Osasuna win on 2026-09-19? | No | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | phonesculptor | Will Coventry City FC win on 2026-09-19? | No | 1.19 (84¢) | $73,539 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play Connect Playoffs | Luminosity | 1.56 (64¢) | $28,800 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Invictus Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 1.69 (59¢) | $116,062 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | Roadto1mlesgooo | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $37,091 | +$2,368 | ✅ Ganada |
 | HMLSF | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies | 2.00 (50¢) | $26,673 | -$26,673 | ❌ Perdida |
 | PerpsKing | Spread: Miami (FL) (-19.5) | Miami (FL) | 1.85 (54¢) | $36,651 | -$36,651 | ❌ Perdida |
-| Feromont | Houston vs. Texas Tech | Texas Tech | 1.33 (75¢) | $26,250 | +$4,900 | 💰 Vendida antes |
