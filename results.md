@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 18:46:23 (hora de Perú)
+Actualizado: 2026-09-19 18:48:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3103**  ($167,803,986 en total)
-- Resueltas: **3050** — 1837 ganadas / 1213 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Resueltas: **3051** — 1838 ganadas / 1213 perdidas (**60%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,375,862** sobre $165,432,907 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,498** sobre $300,400 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,350,150** sobre $165,469,907 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,429** sobre $300,500 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.69 (59¢) | $67,102 | — | ⏳ Pendiente |
 | Eztennis | LoL: LYON vs Cloud9 (BO5) - LCS Playoffs | LYON | 1.37 (73¢) | $39,275 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: LYON vs Cloud9 - Game 3 Winner | LYON | 1.56 (64¢) | $40,418 | — | ⏳ Pendiente |
-| kkookkoo | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.69 (59¢) | $37,000 | — | ⏳ Pendiente |
+| kkookkoo | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.69 (59¢) | $37,000 | +$25,712 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Virginia Tech vs. Maryland | Maryland | 2.27 (44¢) | $65,725 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Mississippi State vs. South Carolina: O/U 58.5 | Over 58.5 | 1.89 (53¢) | $26,206 | — | ⏳ Pendiente |
 | pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.44 (41¢) | $28,692 | — | ⏳ Pendiente |
