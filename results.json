@@ -45072,5 +45072,20 @@
     "status": "pending",
     "ultimo_fill": 1789781564,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6118,
+    "timestamp": 1789781857,
+    "username": "SharkbetX-com",
+    "wallet": "0x2759769cd371bee44ec5bfc5e72c7f1f092b2b38",
+    "slug": "mlb-nyy-ari-2026-09-18",
+    "title": "New York Yankees vs. Arizona Diamondbacks",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "usd": 43117.026900000004,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789781857,
+    "fills": 1
   }
 ]
