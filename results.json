@@ -44997,5 +44997,20 @@
     "status": "pending",
     "ultimo_fill": 1789773959,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6112,
+    "timestamp": 1789776076,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "mlb-sea-col-2026-09-18",
+    "title": "Seattle Mariners vs. Colorado Rockies",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 33836.052599999995,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1789776076,
+    "fills": 1
   }
 ]
