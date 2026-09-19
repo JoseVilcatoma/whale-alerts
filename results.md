@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 16:26:19 (hora de Perú)
+Actualizado: 2026-09-19 16:28:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3087**  ($166,978,757 en total)
-- Resueltas: **3041** — 1832 ganadas / 1209 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Resueltas: **3042** — 1832 ganadas / 1210 perdidas (**60%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,249,497** sobre $164,920,992 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,269** sobre $299,500 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,295,216** sobre $164,966,710 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,369** sobre $299,600 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 18 | 22 | 0 | 45% | $1,177,356 | -$194,283 |
 | surfandturf | 7 | 2 | 0 | 78% | $1,107,101 | +$15,557 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
-| Jsram | 13 | 13 | 1 | 50% | $1,060,561 | -$170,502 |
+| Jsram | 13 | 14 | 0 | 48% | $1,060,561 | -$216,221 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -113,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | fantasy7788 | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 3.45 (29¢) | $40,000 | +$97,931 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: Delaware (-4.5) | Delaware | 1.89 (53¢) | $27,825 | +$24,675 | ✅ Ganada |
 | Roadto1mlesgooo | Brighton & Hove Albion FC vs. Arsenal FC: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $25,069 | +$3,419 | ✅ Ganada |
-| Jsram | Spread: FC Barcelona (-1.5) | Sevilla FC | 2.22 (45¢) | $45,718 | — | ⏳ Pendiente |
+| Jsram | Spread: FC Barcelona (-1.5) | Sevilla FC | 2.22 (45¢) | $45,718 | -$45,718 | ❌ Perdida |
 | heal-.- | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Karmine Corp | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | Diabolical-Prize | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Movistar KOI | 2.17 (46¢) | $45,281 | +$53,156 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | M80 | 2.00 (50¢) | $28,021 | -$28,021 | ❌ Perdida |
