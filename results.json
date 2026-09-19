@@ -46318,7 +46318,7 @@
     "side": "BUY",
     "usd": 29990.66,
     "odds_at_bet": 70,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789849915,
     "fills": 1
   },
@@ -46378,7 +46378,7 @@
     "side": "BUY",
     "usd": 39984.4513,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789851703,
     "fills": 1
   },
@@ -46635,6 +46635,21 @@
     "odds_at_bet": 78,
     "status": "pending",
     "ultimo_fill": 1789861041,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6318,
+    "timestamp": 1789861460,
+    "username": "maz26",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "cfb-frest-sjst-2026-09-19",
+    "title": "Fresno State vs. San Jose State",
+    "outcome": "San Jose State",
+    "side": "BUY",
+    "usd": 44362.5,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1789861460,
     "fills": 1
   }
 ]
