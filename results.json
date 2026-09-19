@@ -45809,5 +45809,20 @@
     "status": "pending",
     "ultimo_fill": 1789829030,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6219,
+    "timestamp": 1789829593,
+    "username": "fantasy7788",
+    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+    "slug": "lol-kc-mkoi-2026-09-19",
+    "title": "LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 39999.99999999999,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "ultimo_fill": 1789829593,
+    "fills": 1
   }
 ]
