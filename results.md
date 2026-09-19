@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 15:45:08 (hora de Perú)
+Actualizado: 2026-09-19 15:47:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3082**  ($166,747,030 en total)
-- Resueltas: **3039** — 1830 ganadas / 1209 perdidas (**60%** de acierto)
+- Apuestas registradas: **3083**  ($166,847,030 en total)
+- Resueltas: **3040** — 1831 ganadas / 1209 perdidas (**60%** de acierto)
 - Pendientes: 27
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,326,668** sobre $164,837,390 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,453** sobre $299,300 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,298,976** sobre $164,867,390 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,361** sobre $299,400 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 62 | 47 | 0 | 57% | $4,857,409 | +$377,168 |
+| pleaseplease123 | 62 | 47 | 1 | 57% | $4,957,409 | +$377,168 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 40 | 26 | 2 | 61% | $3,655,256 | -$304,035 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Washington Nationals vs. St. Louis Cardinals | Washington Nationals | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | HMLSF | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.92 (52¢) | $27,361 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Temple vs. Toledo | Temple | 1.43 (70¢) | $29,991 | — | ⏳ Pendiente |
 | bands1 | Florida vs. Auburn | Florida | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
@@ -112,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | heal-.- | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Karmine Corp | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | Diabolical-Prize | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Movistar KOI | 2.17 (46¢) | $45,281 | +$53,156 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | M80 | 2.00 (50¢) | $28,021 | -$28,021 | ❌ Perdida |
-| primm | Spread: Georgia (-24.5) | Georgia | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
+| primm | Spread: Georgia (-24.5) | Georgia | 1.92 (52¢) | $30,000 | +$27,692 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.13 (47¢) | $70,333 | +$79,312 | ✅ Ganada |
 | AGUGava | Newcastle United FC vs. Hull City AFC: O/U 3.5 | Under 3.5 | 1.59 (63¢) | $29,766 | +$1,417 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Borussia Mönchengladbach win on 2026-09-19? | No | 1.43 (70¢) | $44,510 | +$19,076 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | lfg100k | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.72 (58¢) | $25,000 | +$18,103 | ✅ Ganada |
 | totoro3miyazaki | Will Rayo Vallecano de Madrid win on 2026-09-19? | No | 1.52 (66¢) | $157,202 | +$80,983 | ✅ Ganada |
 | Jsram | Tottenham Hotspur FC vs. Aston Villa FC: O/U 3.5 | Under 3.5 | 1.61 (62¢) | $29,521 | -$29,521 | ❌ Perdida |
-| Netrol | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | Invictus Gaming | 2.44 (41¢) | $30,399 | -$30,399 | ❌ Perdida |

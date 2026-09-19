@@ -45718,7 +45718,7 @@
     "side": "BUY",
     "usd": 30000.000000000004,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789825756,
     "fills": 1
   },
@@ -46335,6 +46335,21 @@
     "odds_at_bet": 52,
     "status": "pending",
     "ultimo_fill": 1789850291,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6289,
+    "timestamp": 1789850784,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-wsh-stl-2026-09-19",
+    "title": "Washington Nationals vs. St. Louis Cardinals",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 100000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1789850784,
     "fills": 1
   }
 ]
