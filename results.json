@@ -45689,5 +45689,35 @@
     "status": "pending",
     "ultimo_fill": 1789825092,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6200,
+    "timestamp": 1789825755,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-3dmax-m80-2026-09-19",
+    "title": "Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "usd": 70333.37550000001,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1789825755,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6201,
+    "timestamp": 1789825756,
+    "username": "primm",
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "slug": "cfb-ga-ark-2026-09-19-spread-away-24pt5",
+    "title": "Spread: Georgia (-24.5)",
+    "outcome": "Georgia",
+    "side": "BUY",
+    "usd": 30000.000000000004,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789825756,
+    "fills": 1
   }
 ]
