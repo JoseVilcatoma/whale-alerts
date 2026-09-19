@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 01:24:23 (hora de Perú)
+Actualizado: 2026-09-19 01:26:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3011**  ($163,447,375 en total)
+- Apuestas registradas: **3012**  ($163,585,622 en total)
 - Resueltas: **2991** — 1800 ganadas / 1191 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 414
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x361b…74fe | Will FC Barcelona win on 2026-09-19? | Yes | 1.25 (80¢) | $138,246 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-19? | Yes | 1.79 (56¢) | $75,249 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Tottenham Hotspur FC win on 2026-09-19? | Yes | 2.04 (49¢) | $33,507 | — | ⏳ Pendiente |
 | gransaaa | Will Arsenal FC win on 2026-09-19? | No | 2.27 (44¢) | $29,244 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | fantasy7788 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.56 (39¢) | $52,000 | -$52,000 | ❌ Perdida |
 | Ne8om | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $108,455 | +$6,923 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.70 (37¢) | $32,389 | -$32,389 | ❌ Perdida |
-| SemyonMarmeladov | Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs | MIBR | 1.45 (69¢) | $25,028 | +$11,244 | ✅ Ganada |
