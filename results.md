@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 21:52:28 (hora de Perú)
+Actualizado: 2026-09-18 21:54:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3005**  ($163,129,449 en total)
-- Resueltas: **2971** — 1785 ganadas / 1186 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **2972** — 1786 ganadas / 1186 perdidas (**60%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,530,510** sobre $161,878,234 apostados (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,525,610** sobre $161,904,484 apostados (ROI **-0.9%**)
 - Copiando $100 fijo en cada una: **-$10,752** sobre $292,700 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -117,7 +117,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | Roadto1mlesgooo | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $37,091 | +$2,368 | ✅ Ganada |
 | HMLSF | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies | 2.00 (50¢) | $26,673 | -$26,673 | ❌ Perdida |
 | PerpsKing | Spread: Miami (FL) (-19.5) | Miami (FL) | 1.85 (54¢) | $36,651 | — | ⏳ Pendiente |
-| Feromont | Houston vs. Texas Tech | Texas Tech | 1.33 (75¢) | $26,250 | — | ⏳ Pendiente |
+| Feromont | Houston vs. Texas Tech | Texas Tech | 1.33 (75¢) | $26,250 | +$4,900 | 💰 Vendida antes |
 | retordedgremlin125 | Counter-Strike: NRG vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 1.30 (77¢) | $67,659 | +$20,210 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | Inner Circle Esports | 1.56 (64¢) | $57,600 | -$57,600 | ❌ Perdida |
 | Ne8om | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $66,232 | +$4,228 | ✅ Ganada |
