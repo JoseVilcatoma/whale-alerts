@@ -45566,7 +45566,7 @@
     "side": "BUY",
     "usd": 26500.0,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789821029,
     "fills": 1
   },
@@ -46048,7 +46048,7 @@
     "side": "BUY",
     "usd": 50960.0,
     "odds_at_bet": 91,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789832816,
     "fills": 1
   },
@@ -46153,7 +46153,7 @@
     "side": "BUY",
     "usd": 30806.1612,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789836829,
     "fills": 1
   },
@@ -46200,6 +46200,51 @@
     "odds_at_bet": 61,
     "status": "pending",
     "ultimo_fill": 1789844887,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6267,
+    "timestamp": 1789848052,
+    "username": "177-letsgo",
+    "wallet": "0x7a75a4183e577123db9ff0adff520561ef95d288",
+    "slug": "cfb-flst-ala-2026-09-19",
+    "title": "Florida State vs. Alabama",
+    "outcome": "Alabama",
+    "side": "BUY",
+    "usd": 87400.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1789848063,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 6268,
+    "timestamp": 1789848069,
+    "username": "phonesculptor",
+    "wallet": "0xf1528f12e645462c344799b62b1b421a6a4c64aa",
+    "slug": "cfb-usc-rutger-2026-09-19",
+    "title": "USC vs. Rutgers",
+    "outcome": "USC",
+    "side": "BUY",
+    "usd": 53169.689999999995,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1789848069,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6272,
+    "timestamp": 1789848088,
+    "username": "maz26",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "cfb-smu-lou-2026-09-19",
+    "title": "SMU vs. Louisville",
+    "outcome": "Louisville",
+    "side": "BUY",
+    "usd": 53316.659999999996,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789848088,
     "fills": 1
   }
 ]

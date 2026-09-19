@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 15:00:17 (hora de Perú)
+Actualizado: 2026-09-19 15:02:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3073**  ($166,353,339 en total)
-- Resueltas: **3027** — 1824 ganadas / 1203 perdidas (**60%** de acierto)
+- Apuestas registradas: **3076**  ($166,547,225 en total)
+- Resueltas: **3030** — 1826 ganadas / 1204 perdidas (**60%** de acierto)
 - Pendientes: 30
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,241,736** sobre $164,332,350 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,195** sobre $298,100 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,244,002** sobre $164,440,616 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,196** sobre $298,400 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
-| SDTrading | 17 | 22 | 1 | 44% | $1,177,356 | -$217,783 |
+| SDTrading | 18 | 22 | 0 | 45% | $1,177,356 | -$194,283 |
 | surfandturf | 7 | 2 | 0 | 78% | $1,107,101 | +$15,557 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Jsram | 13 | 13 | 1 | 50% | $1,060,561 | -$170,502 |
@@ -60,9 +60,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
+| phonesculptor | 10 | 0 | 3 | 100% | $841,168 | +$83,650 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 9 | 0 | 59% | $794,569 | -$51,522 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
-| phonesculptor | 9 | 0 | 3 | 100% | $787,999 | +$78,610 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 
 _(mostrando los 40 de mayor monto, de 420 en total)_
@@ -71,17 +71,20 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| maz26 | SMU vs. Louisville | Louisville | 1.75 (57¢) | $53,317 | — | ⏳ Pendiente |
+| phonesculptor | USC vs. Rutgers | USC | 1.06 (94¢) | $53,170 | — | ⏳ Pendiente |
+| 177-letsgo | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $87,400 | — | ⏳ Pendiente |
 | Donkey14 | Mississippi State vs. South Carolina | South Carolina | 1.64 (61¢) | $31,191 | — | ⏳ Pendiente |
 | maz26 | SMU vs. Louisville | Louisville | 1.79 (56¢) | $72,800 | — | ⏳ Pendiente |
 | AGUGava | FC Metz vs. AS Saint-Étienne: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $34,421 | — | ⏳ Pendiente |
-| winwin518168 | Spread: Dallas Wings (-10.5) | Dallas Wings | 1.96 (51¢) | $30,806 | — | ⏳ Pendiente |
+| winwin518168 | Spread: Dallas Wings (-10.5) | Dallas Wings | 1.96 (51¢) | $30,806 | -$30,806 | ❌ Perdida |
 | phonesculptor | Will Coventry City FC win on 2026-09-19? | No | 1.19 (84¢) | $25,090 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 2.33 (43¢) | $45,082 | — | ⏳ Pendiente |
 | tikstt2 | Spread: Nottingham Forest FC (-1.5) | Coventry City FC | 1.49 (67¢) | $33,203 | — | ⏳ Pendiente |
 | sbsigner | Will Nottingham Forest FC vs. Coventry City FC end in a draw? | No | 1.32 (76¢) | $30,611 | — | ⏳ Pendiente |
 | Sassy-Bucket | North Carolina vs. Clemson | Clemson | 1.69 (59¢) | $27,658 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Buffalo vs. Penn State: O/U 49.5 | Under 49.5 | 1.89 (53¢) | $43,223 | -$43,223 | ❌ Perdida |
-| phonesculptor | Tulane vs. Kansas State | Kansas State | 1.10 (91¢) | $50,960 | — | ⏳ Pendiente |
+| phonesculptor | Tulane vs. Kansas State | Kansas State | 1.10 (91¢) | $50,960 | +$5,040 | ✅ Ganada |
 | itwillallbeok | North Carolina vs. Clemson | North Carolina | 2.44 (41¢) | $98,114 | — | ⏳ Pendiente |
 | Kch-Temp | NC State vs. Vanderbilt: O/U 50.5 | Over 50.5 | 1.92 (52¢) | $53,602 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Coastal Carolina vs. Delaware | Delaware | 1.56 (64¢) | $28,947 | +$16,283 | ✅ Ganada |
@@ -113,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | lucidarderi | Will Newcastle United FC win on 2026-09-19? | Yes | 1.61 (62¢) | $119,970 | +$73,530 | ✅ Ganada |
 | Jsram | Newcastle United FC vs. Hull City AFC: O/U 3.5 | Under 3.5 | 1.59 (63¢) | $28,877 | +$16,960 | ✅ Ganada |
 | Kch-Temp | James Madison vs. San Diego State: O/U 46.5 | Over 46.5 | 2.08 (48¢) | $51,855 | — | ⏳ Pendiente |
-| SDTrading | Spread: Penn State (-39.5) | Penn State | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| SDTrading | Spread: Penn State (-39.5) | Penn State | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | raybanman | Will Newcastle United FC win on 2026-09-19? | Yes | 1.64 (61¢) | $106,750 | +$68,250 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $34,395 | +$29,300 | ✅ Ganada |
 | fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | JD Gaming | 2.13 (47¢) | $28,713 | -$28,713 | ❌ Perdida |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | Takon88 | Will CA Osasuna win on 2026-09-19? | No | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | phonesculptor | Will Coventry City FC win on 2026-09-19? | No | 1.19 (84¢) | $73,539 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play Connect Playoffs | Luminosity | 1.56 (64¢) | $28,800 | +$16,200 | ✅ Ganada |
-| Diabolical-Prize | LoL: Invictus Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 1.69 (59¢) | $116,062 | -$116,062 | ❌ Perdida |
-| fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
-| FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.85 (54¢) | $28,784 | +$24,520 | ✅ Ganada |
