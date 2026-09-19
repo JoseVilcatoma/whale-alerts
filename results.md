@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 17:55:14 (hora de Perú)
+Actualizado: 2026-09-19 17:57:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3097**  ($167,548,291 en total)
-- Resueltas: **3045** — 1835 ganadas / 1210 perdidas (**60%** de acierto)
-- Pendientes: 36
+- Apuestas registradas: **3098**  ($167,576,791 en total)
+- Resueltas: **3047** — 1836 ganadas / 1211 perdidas (**60%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,238,918** sobre $165,206,496 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$10,306** sobre $299,900 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,317,812** sobre $165,332,268 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,337** sobre $300,100 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 40 | 26 | 5 | 61% | $3,778,669 | -$304,035 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 0 | 45% | $3,229,966 | -$579,176 |
-| Sassy-Bucket | 26 | 29 | 2 | 47% | $2,689,000 | -$206,240 |
+| Sassy-Bucket | 27 | 29 | 1 | 48% | $2,689,000 | -$187,020 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | whodissss | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $102,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.56 (64¢) | $60,362 | — | ⏳ Pendiente |
 | Sassy-Bucket | Nevada vs. Middle Tennessee | Nevada | 1.61 (62¢) | $30,688 | — | ⏳ Pendiente |
@@ -103,10 +104,10 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 2.33 (43¢) | $45,082 | — | ⏳ Pendiente |
 | tikstt2 | Spread: Nottingham Forest FC (-1.5) | Coventry City FC | 1.49 (67¢) | $33,203 | +$16,354 | ✅ Ganada |
 | sbsigner | Will Nottingham Forest FC vs. Coventry City FC end in a draw? | No | 1.32 (76¢) | $30,611 | +$9,667 | ✅ Ganada |
-| Sassy-Bucket | North Carolina vs. Clemson | Clemson | 1.69 (59¢) | $27,658 | — | ⏳ Pendiente |
+| Sassy-Bucket | North Carolina vs. Clemson | Clemson | 1.69 (59¢) | $27,658 | +$19,220 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Buffalo vs. Penn State: O/U 49.5 | Under 49.5 | 1.89 (53¢) | $43,223 | -$43,223 | ❌ Perdida |
 | phonesculptor | Tulane vs. Kansas State | Kansas State | 1.10 (91¢) | $50,960 | +$5,040 | ✅ Ganada |
-| itwillallbeok | North Carolina vs. Clemson | North Carolina | 2.44 (41¢) | $98,114 | — | ⏳ Pendiente |
+| itwillallbeok | North Carolina vs. Clemson | North Carolina | 2.44 (41¢) | $98,114 | -$98,114 | ❌ Perdida |
 | Kch-Temp | NC State vs. Vanderbilt: O/U 50.5 | Over 50.5 | 1.92 (52¢) | $53,602 | +$49,479 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Coastal Carolina vs. Delaware | Delaware | 1.56 (64¢) | $28,947 | +$16,283 | ✅ Ganada |
 | Berniepaidoff | Coastal Carolina vs. Delaware | Delaware | 1.52 (66¢) | $50,000 | +$25,758 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | primm | Spread: Georgia (-24.5) | Georgia | 1.92 (52¢) | $30,000 | +$27,692 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.13 (47¢) | $70,333 | +$79,312 | ✅ Ganada |
 | AGUGava | Newcastle United FC vs. Hull City AFC: O/U 3.5 | Under 3.5 | 1.59 (63¢) | $29,766 | +$1,417 | 💰 Vendida antes |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Borussia Mönchengladbach win on 2026-09-19? | No | 1.43 (70¢) | $44,510 | +$19,076 | ✅ Ganada |
