@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 08:52:28 (hora de Perú)
+Actualizado: 2026-09-19 08:54:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3042**  ($165,064,180 en total)
-- Resueltas: **2995** — 1802 ganadas / 1193 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Resueltas: **2996** — 1802 ganadas / 1194 perdidas (**60%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 417
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,644,553** sobre $162,893,191 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,798** sobre $295,000 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,678,060** sobre $162,926,698 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,898** sobre $295,100 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 | 0x361b…74fe | Will FC Barcelona win on 2026-09-19? | Yes | 1.25 (80¢) | $72,671 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will FC Barcelona win on 2026-09-19? | Yes | 1.25 (80¢) | $138,246 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-19? | Yes | 1.79 (56¢) | $75,249 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Will Tottenham Hotspur FC win on 2026-09-19? | Yes | 2.04 (49¢) | $33,507 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Will Tottenham Hotspur FC win on 2026-09-19? | Yes | 2.04 (49¢) | $33,507 | -$33,507 | ❌ Perdida |
 | gransaaa | Will Arsenal FC win on 2026-09-19? | No | 2.27 (44¢) | $29,244 | — | ⏳ Pendiente |
 | coinlaundry | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $35,821 | — | ⏳ Pendiente |
 | curie | Houston vs. Texas Tech | Texas Tech | 1.08 (93¢) | $87,885 | +$6,615 | ✅ Ganada |
