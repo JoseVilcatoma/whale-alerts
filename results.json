@@ -45404,5 +45404,20 @@
     "status": "pending",
     "ultimo_fill": 1789815494,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6176,
+    "timestamp": 1789816047,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-ig1-jdg-2026-09-19-game3",
+    "title": "LoL: Invictus Gaming vs JD Gaming - Game 3 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1789816047,
+    "fills": 1
   }
 ]
