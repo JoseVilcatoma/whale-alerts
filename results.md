@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 12:12:54 (hora de Perú)
+Actualizado: 2026-09-19 12:15:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3070**  ($166,214,926 en total)
-- Resueltas: **3008** — 1811 ganadas / 1197 perdidas (**60%** de acierto)
-- Pendientes: 46
+- Resueltas: **3012** — 1814 ganadas / 1198 perdidas (**60%** de acierto)
+- Pendientes: 42
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,508,477** sobre $163,450,338 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,627** sobre $296,200 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,538,161** sobre $163,629,714 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,576** sobre $296,600 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 230 | 118 | 5 | 66% | $23,482,005 | +$1,146,181 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 230 | 119 | 4 | 66% | $23,482,005 | +$1,070,932 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 24 | 14 | 0 | 63% | $1,523,504 | -$459,061 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 20 | 2 | 1 | 91% | $1,396,126 | +$56,363 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 21 | 2 | 0 | 91% | $1,396,126 | +$59,782 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
-| gransaaa | 9 | 12 | 1 | 43% | $871,794 | -$57,245 |
+| gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 9 | 0 | 59% | $794,569 | -$51,522 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
@@ -92,10 +92,10 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | primm | Spread: Toledo (-5.5) | Temple | 1.96 (51¢) | $29,747 | — | ⏳ Pendiente |
 | Pwaddler | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.69 (59¢) | $52,498 | — | ⏳ Pendiente |
 | Elaran1993 | Will Paris FC win on 2026-09-19? | Yes | 1.85 (54¢) | $68,848 | — | ⏳ Pendiente |
-| beeemw | Will Arsenal FC win on 2026-09-19? | No | 1.10 (91¢) | $49,813 | — | ⏳ Pendiente |
+| beeemw | Will Arsenal FC win on 2026-09-19? | No | 1.10 (91¢) | $49,813 | +$4,927 | ✅ Ganada |
 | fantasy7788 | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 3.45 (29¢) | $40,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Delaware (-4.5) | Delaware | 1.89 (53¢) | $27,825 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Brighton & Hove Albion FC vs. Arsenal FC: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $25,069 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Brighton & Hove Albion FC vs. Arsenal FC: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $25,069 | +$3,419 | ✅ Ganada |
 | Jsram | Spread: FC Barcelona (-1.5) | Sevilla FC | 2.22 (45¢) | $45,718 | — | ⏳ Pendiente |
 | heal-.- | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Karmine Corp | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | Diabolical-Prize | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Movistar KOI | 2.17 (46¢) | $45,281 | — | ⏳ Pendiente |
@@ -130,4 +130,4 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.85 (54¢) | $28,784 | +$24,520 | ✅ Ganada |
 | 0x361b…74fe | Will FC Barcelona win on 2026-09-19? | Yes | 1.25 (80¢) | $72,671 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will FC Barcelona win on 2026-09-19? | Yes | 1.25 (80¢) | $138,246 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-19? | Yes | 1.79 (56¢) | $75,249 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-19? | Yes | 1.79 (56¢) | $75,249 | -$75,249 | ❌ Perdida |
