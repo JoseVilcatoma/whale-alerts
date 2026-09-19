@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 05:19:22 (hora de Perú)
+Actualizado: 2026-09-19 05:21:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3017**  ($163,856,938 en total)
+- Apuestas registradas: **3018**  ($163,930,477 en total)
 - Resueltas: **2991** — 1800 ganadas / 1191 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 414
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| phonesculptor | Will Coventry City FC win on 2026-09-19? | No | 1.19 (84¢) | $73,539 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play Connect Playoffs | Luminosity | 1.56 (64¢) | $28,800 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Invictus Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 1.69 (59¢) | $116,062 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | HMLSF | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies | 2.00 (50¢) | $26,673 | -$26,673 | ❌ Perdida |
 | PerpsKing | Spread: Miami (FL) (-19.5) | Miami (FL) | 1.85 (54¢) | $36,651 | -$36,651 | ❌ Perdida |
 | Feromont | Houston vs. Texas Tech | Texas Tech | 1.33 (75¢) | $26,250 | +$4,900 | 💰 Vendida antes |
-| retordedgremlin125 | Counter-Strike: NRG vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 1.30 (77¢) | $67,659 | +$20,210 | ✅ Ganada |
