@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 21:20:57 (hora de Perú)
+Actualizado: 2026-09-18 21:23:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3003**  ($163,061,525 en total)
-- Resueltas: **2966** — 1783 ganadas / 1183 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Resueltas: **2967** — 1784 ganadas / 1183 perdidas (**60%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,465,494** sobre $161,704,416 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,601** sobre $292,200 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,456,494** sobre $161,745,416 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,580** sobre $292,300 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 225 | 118 | 6 | 66% | $23,303,432 | +$1,071,583 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 226 | 118 | 5 | 66% | $23,303,432 | +$1,080,583 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
 | totoro3miyazaki | 33 | 17 | 0 | 66% | $5,602,826 | +$321,888 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | SharkbetX-com | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.96 (51¢) | $43,117 | — | ⏳ Pendiente |
 | Sassy-Bucket | Minnesota Twins vs. Los Angeles Angels: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $39,032 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 1.11 (90¢) | $29,803 | +$3,311 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Indiana Fever vs. Toronto Tempo | Indiana Fever | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Indiana Fever vs. Toronto Tempo | Indiana Fever | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Club Puebla win on 2026-09-18? | No | 1.64 (61¢) | $25,599 | — | ⏳ Pendiente |
 | Donkey14 | Seattle Mariners vs. Colorado Rockies | Seattle Mariners | 1.59 (63¢) | $33,836 | — | ⏳ Pendiente |
 | 3648393489047 | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
