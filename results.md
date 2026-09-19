@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 20:58:13 (hora de Perú)
+Actualizado: 2026-09-18 21:00:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3000**  ($162,952,991 en total)
+- Apuestas registradas: **3001**  ($162,983,724 en total)
 - Resueltas: **2963** — 1781 ganadas / 1182 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 414
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 225 | 118 | 5 | 66% | $23,272,700 | +$1,071,583 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 225 | 118 | 6 | 66% | $23,303,432 | +$1,071,583 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
 | totoro3miyazaki | 33 | 17 | 0 | 66% | $5,602,826 | +$321,888 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami Marlins vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $30,733 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Colorado Rockies | Seattle Mariners | 1.52 (66¢) | $27,805 | — | ⏳ Pendiente |
 | SharkbetX-com | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.96 (51¢) | $43,117 | — | ⏳ Pendiente |
 | Sassy-Bucket | Minnesota Twins vs. Los Angeles Angels: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $39,032 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.06 (94¢) | $26,406 | +$1,686 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.08 (93¢) | $53,295 | +$4,011 | ✅ Ganada |
 | ethanaz | Lions vs. Bills | Bills | 1.06 (94¢) | $204,528 | +$13,055 | ✅ Ganada |
-| Sassy-Bucket | Minnesota Twins vs. Los Angeles Angels | Minnesota Twins | 2.04 (49¢) | $47,842 | -$47,842 | ❌ Perdida |
