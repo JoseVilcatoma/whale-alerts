@@ -45764,5 +45764,35 @@
     "status": "pending",
     "ultimo_fill": 1789828149,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6216,
+    "timestamp": 1789828656,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "lal-sev-bar-2026-09-19-spread-away-1pt5",
+    "title": "Spread: FC Barcelona (-1.5)",
+    "outcome": "Sevilla FC",
+    "side": "BUY",
+    "usd": 45718.2765,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1789828656,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6217,
+    "timestamp": 1789828700,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "epl-bri-ars-2026-09-19-total-1pt5",
+    "title": "Brighton & Hove Albion FC vs. Arsenal FC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25069.0264,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1789828700,
+    "fills": 1
   }
 ]
