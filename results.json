@@ -46411,5 +46411,20 @@
     "status": "pending",
     "ultimo_fill": 1789852580,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6299,
+    "timestamp": 1789853785,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "cfb-mspst-sc-2026-09-19-total-58pt5",
+    "title": "Mississippi State vs. South Carolina: O/U 58.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26205.5585,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789853785,
+    "fills": 1
   }
 ]

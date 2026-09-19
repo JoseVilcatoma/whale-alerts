@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 16:34:31 (hora de Perú)
+Actualizado: 2026-09-19 16:36:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3087**  ($166,978,757 en total)
+- Apuestas registradas: **3088**  ($167,004,963 en total)
 - Resueltas: **3045** — 1835 ganadas / 1210 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 420
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 231 | 120 | 3 | 66% | $23,512,669 | +$1,059,491 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 1 | 54% | $6,031,989 | -$156,498 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 62 | 47 | 2 | 57% | $4,986,101 | +$377,168 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Mississippi State vs. South Carolina: O/U 58.5 | Over 58.5 | 1.89 (53¢) | $26,206 | — | ⏳ Pendiente |
 | pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.44 (41¢) | $28,692 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.85 (54¢) | $30,208 | — | ⏳ Pendiente |
 | Berniepaidoff | Temple vs. Toledo | Temple | 1.67 (60¢) | $39,984 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | SDTrading | Spread: Penn State (-39.5) | Penn State | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | raybanman | Will Newcastle United FC win on 2026-09-19? | Yes | 1.64 (61¢) | $106,750 | +$68,250 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $34,395 | +$29,300 | ✅ Ganada |
-| fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | JD Gaming | 2.13 (47¢) | $28,713 | -$28,713 | ❌ Perdida |
