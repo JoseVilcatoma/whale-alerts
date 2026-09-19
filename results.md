@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 16:53:00 (hora de Perú)
+Actualizado: 2026-09-19 16:55:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3089**  ($167,070,688 en total)
+- Apuestas registradas: **3090**  ($167,107,688 en total)
 - Resueltas: **3045** — 1835 ganadas / 1210 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 420
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.69 (59¢) | $37,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Virginia Tech vs. Maryland | Maryland | 2.27 (44¢) | $65,725 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Mississippi State vs. South Carolina: O/U 58.5 | Over 58.5 | 1.89 (53¢) | $26,206 | — | ⏳ Pendiente |
 | pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.44 (41¢) | $28,692 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | Jsram | Newcastle United FC vs. Hull City AFC: O/U 3.5 | Under 3.5 | 1.59 (63¢) | $28,877 | +$16,960 | ✅ Ganada |
 | Kch-Temp | James Madison vs. San Diego State: O/U 46.5 | Over 46.5 | 2.08 (48¢) | $51,855 | — | ⏳ Pendiente |
 | SDTrading | Spread: Penn State (-39.5) | Penn State | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
-| raybanman | Will Newcastle United FC win on 2026-09-19? | Yes | 1.64 (61¢) | $106,750 | +$68,250 | ✅ Ganada |
