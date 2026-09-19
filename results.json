@@ -46321,5 +46321,20 @@
     "status": "pending",
     "ultimo_fill": 1789849915,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6286,
+    "timestamp": 1789850291,
+    "username": "HMLSF",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "mlb-kc-pit-2026-09-19",
+    "title": "Kansas City Royals vs. Pittsburgh Pirates",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 27361.1728,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789850291,
+    "fills": 1
   }
 ]
