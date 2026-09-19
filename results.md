@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 12:29:28 (hora de Perú)
+Actualizado: 2026-09-19 12:31:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3070**  ($166,214,926 en total)
-- Resueltas: **3012** — 1814 ganadas / 1198 perdidas (**60%** de acierto)
-- Pendientes: 42
+- Resueltas: **3013** — 1815 ganadas / 1198 perdidas (**60%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,538,161** sobre $163,629,714 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,576** sobre $296,600 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,479,513** sobre $163,698,561 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,491** sobre $296,700 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | retordedgremlin125 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.30 (77¢) | $50,000 | — | ⏳ Pendiente |
 | primm | Spread: Toledo (-5.5) | Temple | 1.96 (51¢) | $29,747 | — | ⏳ Pendiente |
 | Pwaddler | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.69 (59¢) | $52,498 | — | ⏳ Pendiente |
-| Elaran1993 | Will Paris FC win on 2026-09-19? | Yes | 1.85 (54¢) | $68,848 | — | ⏳ Pendiente |
+| Elaran1993 | Will Paris FC win on 2026-09-19? | Yes | 1.85 (54¢) | $68,848 | +$58,648 | ✅ Ganada |
 | beeemw | Will Arsenal FC win on 2026-09-19? | No | 1.10 (91¢) | $49,813 | +$4,927 | ✅ Ganada |
 | fantasy7788 | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 3.45 (29¢) | $40,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Delaware (-4.5) | Delaware | 1.89 (53¢) | $27,825 | — | ⏳ Pendiente |
