@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 20:48:02 (hora de Perú)
+Actualizado: 2026-09-18 20:50:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2999**  ($162,925,187 en total)
-- Resueltas: **2959** — 1779 ganadas / 1180 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Resueltas: **2960** — 1779 ganadas / 1181 perdidas (**60%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,530,197** sobre $161,422,734 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,622** sobre $291,500 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,561,109** sobre $161,453,645 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,722** sobre $291,600 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 224 | 118 | 5 | 65% | $23,244,895 | +$1,068,272 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 1 | 54% | $6,005,784 | -$125,586 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
 | totoro3miyazaki | 33 | 17 | 0 | 66% | $5,602,826 | +$321,888 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 61 | 44 | 4 | 58% | $4,857,409 | +$473,794 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $40,334 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
 | Elaran1993 | Boston Red Sox vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.75 (57¢) | $115,864 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Pittsburgh Pirates (-1.5) | Kansas City Royals | 1.79 (56¢) | $30,912 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Pittsburgh Pirates (-1.5) | Kansas City Royals | 1.79 (56¢) | $30,912 | -$30,912 | ❌ Perdida |
 | vjnn | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $25,200 | — | ⏳ Pendiente |
 | SDTrading | Spread: Miami (FL) (-20.5) | Wake Forest | 1.96 (51¢) | $25,220 | — | ⏳ Pendiente |
