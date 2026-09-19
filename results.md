@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 09:27:15 (hora de Perú)
+Actualizado: 2026-09-19 09:29:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3043**  ($165,109,461 en total)
+- Apuestas registradas: **3044**  ($165,135,961 en total)
 - Resueltas: **3006** — 1809 ganadas / 1197 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 417
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| heal-.- | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Karmine Corp | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | Diabolical-Prize | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Movistar KOI | 2.17 (46¢) | $45,281 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | M80 | 2.00 (50¢) | $28,021 | — | ⏳ Pendiente |
 | primm | Spread: Georgia (-24.5) | Georgia | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 | Elaran1993 | Boston Red Sox vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.75 (57¢) | $115,864 | +$87,406 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Pittsburgh Pirates (-1.5) | Kansas City Royals | 1.79 (56¢) | $30,912 | -$30,912 | ❌ Perdida |
 | vjnn | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
-| Sassy-Bucket | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $25,200 | +$34,800 | ✅ Ganada |
