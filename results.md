@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 18:17:43 (hora de Perú)
+Actualizado: 2026-09-19 18:19:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3100**  ($167,704,260 en total)
+- Apuestas registradas: **3101**  ($167,729,329 en total)
 - Resueltas: **3047** — 1836 ganadas / 1211 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 420
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Feromont | Spread: LSU (-2.5) | LSU | 1.92 (52¢) | $25,069 | — | ⏳ Pendiente |
 | Elaran1993 | Will CR Vasco da Gama win on 2026-09-19? | Yes | 1.37 (73¢) | $28,059 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.92 (52¢) | $99,411 | — | ⏳ Pendiente |
 | Donkey14 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | heal-.- | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Karmine Corp | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | Diabolical-Prize | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Movistar KOI | 2.17 (46¢) | $45,281 | +$53,156 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | M80 | 2.00 (50¢) | $28,021 | -$28,021 | ❌ Perdida |
-| primm | Spread: Georgia (-24.5) | Georgia | 1.92 (52¢) | $30,000 | +$27,692 | ✅ Ganada |
