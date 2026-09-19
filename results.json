@@ -45898,7 +45898,7 @@
     "side": "BUY",
     "usd": 49999.999999,
     "odds_at_bet": 77,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789830685,
     "fills": 1
   },
@@ -45943,7 +45943,7 @@
     "side": "BUY",
     "usd": 35976.5475,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789831347,
     "fills": 1
   },
@@ -46245,6 +46245,21 @@
     "odds_at_bet": 57,
     "status": "pending",
     "ultimo_fill": 1789848088,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6273,
+    "timestamp": 1789848801,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "lal-sev-bar-2026-09-19-total-2pt5",
+    "title": "Sevilla FC vs. FC Barcelona: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 28868.511420000003,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1789848801,
     "fills": 1
   }
 ]
