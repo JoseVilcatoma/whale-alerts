@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 11:01:00 (hora de Perú)
+Actualizado: 2026-09-19 11:03:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3066**  ($166,080,745 en total)
+- Apuestas registradas: **3068**  ($166,159,030 en total)
 - Resueltas: **3008** — 1811 ganadas / 1197 perdidas (**60%** de acierto)
-- Pendientes: 42
-- Apostadores distintos: 419
+- Pendientes: 44
+- Apostadores distintos: 420
 
 ### Balance
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 62 | 47 | 0 | 57% | $4,857,409 | +$377,168 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 38 | 25 | 3 | 60% | $3,580,184 | -$301,769 |
+| wr0ngw4yb3tt0r | 38 | 25 | 4 | 60% | $3,625,266 | -$301,769 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 26 | 33 | 3 | 44% | $3,229,966 | -$677,644 |
 | Sassy-Bucket | 26 | 29 | 1 | 47% | $2,658,312 | -$206,240 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | phonesculptor | 9 | 0 | 2 | 100% | $762,909 | +$78,610 |
 
-_(mostrando los 40 de mayor monto, de 419 en total)_
+_(mostrando los 40 de mayor monto, de 420 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 2.33 (43¢) | $45,082 | — | ⏳ Pendiente |
+| tikstt2 | Spread: Nottingham Forest FC (-1.5) | Coventry City FC | 1.49 (67¢) | $33,203 | — | ⏳ Pendiente |
 | sbsigner | Will Nottingham Forest FC vs. Coventry City FC end in a draw? | No | 1.32 (76¢) | $30,611 | — | ⏳ Pendiente |
 | Sassy-Bucket | North Carolina vs. Clemson | Clemson | 1.69 (59¢) | $27,658 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Buffalo vs. Penn State: O/U 49.5 | Under 49.5 | 1.89 (53¢) | $43,223 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 419 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-19? | Yes | 1.79 (56¢) | $75,249 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Tottenham Hotspur FC win on 2026-09-19? | Yes | 2.04 (49¢) | $33,507 | -$33,507 | ❌ Perdida |
 | gransaaa | Will Arsenal FC win on 2026-09-19? | No | 2.27 (44¢) | $29,244 | — | ⏳ Pendiente |
-| coinlaundry | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $35,821 | — | ⏳ Pendiente |
-| curie | Houston vs. Texas Tech | Texas Tech | 1.08 (93¢) | $87,885 | +$6,615 | ✅ Ganada |

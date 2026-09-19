@@ -46096,5 +46096,35 @@
     "status": "pending",
     "ultimo_fill": 1789833444,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6240,
+    "timestamp": 1789833744,
+    "username": "tikstt2",
+    "wallet": "0xc789d1196769518a3c8d15c61cdc6415e40d1a62",
+    "slug": "epl-not-cov-2026-09-19-spread-home-1pt5",
+    "title": "Spread: Nottingham Forest FC (-1.5)",
+    "outcome": "Coventry City FC",
+    "side": "BUY",
+    "usd": 33203.2225,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1789833744,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6241,
+    "timestamp": 1789833765,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-lsu-miss-2026-09-19",
+    "title": "LSU vs. Ole Miss",
+    "outcome": "Ole Miss",
+    "side": "BUY",
+    "usd": 45081.888,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1789833765,
+    "fills": 1
   }
 ]
