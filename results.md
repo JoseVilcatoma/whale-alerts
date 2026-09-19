@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 09:15:05 (hora de Perú)
+Actualizado: 2026-09-19 09:17:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3043**  ($165,109,461 en total)
-- Resueltas: **2997** — 1802 ganadas / 1195 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Resueltas: **2999** — 1804 ganadas / 1195 perdidas (**60%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 417
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,707,581** sobre $162,956,219 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,998** sobre $295,200 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,602,078** sobre $163,142,205 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,861** sobre $295,400 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 229 | 118 | 6 | 66% | $23,482,005 | +$1,127,106 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
-| totoro3miyazaki | 33 | 17 | 1 | 66% | $5,760,028 | +$321,888 |
+| totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 62 | 47 | 0 | 57% | $4,857,409 | +$377,168 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 | fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | JD Gaming | 2.13 (47¢) | $28,713 | — | ⏳ Pendiente |
 | StasPanda | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Karmine Corp | 1.37 (73¢) | $26,622 | — | ⏳ Pendiente |
 | lfg100k | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Rayo Vallecano de Madrid win on 2026-09-19? | No | 1.52 (66¢) | $157,202 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Rayo Vallecano de Madrid win on 2026-09-19? | No | 1.52 (66¢) | $157,202 | +$80,983 | ✅ Ganada |
 | Jsram | Tottenham Hotspur FC vs. Aston Villa FC: O/U 3.5 | Under 3.5 | 1.61 (62¢) | $29,521 | -$29,521 | ❌ Perdida |
 | Netrol | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | Invictus Gaming | 2.44 (41¢) | $30,399 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 1.67 (60¢) | $58,851 | — | ⏳ Pendiente |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 | Diabolical-Prize | Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play Connect Playoffs | Luminosity | 1.56 (64¢) | $28,800 | +$16,200 | ✅ Ganada |
 | Diabolical-Prize | LoL: Invictus Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 1.69 (59¢) | $116,062 | -$116,062 | ❌ Perdida |
 | fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
-| FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.85 (54¢) | $28,784 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.85 (54¢) | $28,784 | +$24,520 | ✅ Ganada |
 | 0x361b…74fe | Will FC Barcelona win on 2026-09-19? | Yes | 1.25 (80¢) | $72,671 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will FC Barcelona win on 2026-09-19? | Yes | 1.25 (80¢) | $138,246 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-19? | Yes | 1.79 (56¢) | $75,249 | — | ⏳ Pendiente |
