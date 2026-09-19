@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 13:41:53 (hora de Perú)
+Actualizado: 2026-09-19 13:43:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3070**  ($166,214,926 en total)
-- Resueltas: **3017** — 1817 ganadas / 1200 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Resueltas: **3018** — 1818 ganadas / 1200 perdidas (**60%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,396,733** sobre $163,984,281 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,566** sobre $297,100 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,379,773** sobre $164,013,159 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,507** sobre $297,200 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 17 | 22 | 1 | 44% | $1,177,356 | -$217,783 |
 | surfandturf | 7 | 2 | 0 | 78% | $1,107,101 | +$15,557 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
-| Jsram | 12 | 13 | 2 | 48% | $1,060,561 | -$187,462 |
+| Jsram | 13 | 13 | 1 | 50% | $1,060,561 | -$170,502 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | Kch-Temp | Spread: LSU (-3.5) | Ole Miss | 1.82 (55¢) | $25,849 | — | ⏳ Pendiente |
 | Kch-Temp | LSU vs. Ole Miss | Ole Miss | 2.38 (42¢) | $28,275 | — | ⏳ Pendiente |
 | lucidarderi | Will Newcastle United FC win on 2026-09-19? | Yes | 1.61 (62¢) | $119,970 | +$73,530 | ✅ Ganada |
-| Jsram | Newcastle United FC vs. Hull City AFC: O/U 3.5 | Under 3.5 | 1.59 (63¢) | $28,877 | — | ⏳ Pendiente |
+| Jsram | Newcastle United FC vs. Hull City AFC: O/U 3.5 | Under 3.5 | 1.59 (63¢) | $28,877 | +$16,960 | ✅ Ganada |
 | Kch-Temp | James Madison vs. San Diego State: O/U 46.5 | Over 46.5 | 2.08 (48¢) | $51,855 | — | ⏳ Pendiente |
 | SDTrading | Spread: Penn State (-39.5) | Penn State | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | raybanman | Will Newcastle United FC win on 2026-09-19? | Yes | 1.64 (61¢) | $106,750 | +$68,250 | ✅ Ganada |
