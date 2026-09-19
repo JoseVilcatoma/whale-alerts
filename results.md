@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 07:29:30 (hora de Perú)
+Actualizado: 2026-09-19 07:31:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3030**  ($164,549,429 en total)
+- Apuestas registradas: **3031**  ($164,575,929 en total)
 - Resueltas: **2991** — 1800 ganadas / 1191 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 416
 
 ### Balance
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
-| SDTrading | 17 | 22 | 0 | 44% | $1,150,856 | -$217,783 |
+| SDTrading | 17 | 22 | 1 | 44% | $1,177,356 | -$217,783 |
 | surfandturf | 7 | 2 | 0 | 78% | $1,107,101 | +$15,557 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Jsram | 12 | 12 | 1 | 50% | $985,966 | -$157,941 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 416 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Spread: Penn State (-39.5) | Penn State | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | raybanman | Will Newcastle United FC win on 2026-09-19? | Yes | 1.64 (61¢) | $106,750 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $34,395 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | JD Gaming | 2.13 (47¢) | $28,713 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 416 en total)_
 | pilimili | Will Chelsea FC win on 2026-09-18? | Yes | 2.78 (36¢) | $30,000 | -$30,000 | ❌ Perdida |
 | SDTrading | Chicago Cubs vs. Cincinnati Reds | Chicago Cubs | 1.75 (57¢) | $27,730 | -$27,730 | ❌ Perdida |
 | totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $57,417 | +$32,297 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-09-18? | Yes | 2.78 (36¢) | $177,007 | -$177,007 | ❌ Perdida |
