@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 10:22:29 (hora de Perú)
+Actualizado: 2026-09-19 10:24:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3056**  ($165,622,629 en total)
+- Apuestas registradas: **3057**  ($165,647,629 en total)
 - Resueltas: **3006** — 1809 ganadas / 1197 perdidas (**60%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 417
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Rennes: Sascha Gueymard-Wayenburg vs Titouan Droguet | Titouan Droguet | 1.61 (62¢) | $25,000 | — | ⏳ Pendiente |
 | Ancient-Strike | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.33 (75¢) | $35,977 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Karmine Corp vs Movistar KOI - Game 1 Winner | Karmine Corp | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
 | primm | Spread: South Alabama (-6.5) | South Alabama | 1.92 (52¢) | $27,174 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Colorado Rockies | Seattle Mariners | 1.52 (66¢) | $27,805 | +$14,324 | ✅ Ganada |
 | SharkbetX-com | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.96 (51¢) | $43,117 | -$43,117 | ❌ Perdida |
 | Sassy-Bucket | Minnesota Twins vs. Los Angeles Angels: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $39,032 | -$39,032 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 1.11 (90¢) | $29,803 | +$3,311 | ✅ Ganada |
