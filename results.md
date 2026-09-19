@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 18:34:00 (hora de Perú)
+Actualizado: 2026-09-19 18:36:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3101**  ($167,729,329 en total)
-- Resueltas: **3047** — 1836 ganadas / 1211 perdidas (**60%** de acierto)
-- Pendientes: 38
+- Resueltas: **3048** — 1837 ganadas / 1211 perdidas (**60%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,317,812** sobre $165,332,268 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,337** sobre $300,100 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,305,887** sobre $165,362,932 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,298** sobre $300,200 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 231 | 120 | 4 | 66% | $23,578,394 | +$1,059,491 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 232 | 120 | 3 | 66% | $23,578,394 | +$1,071,416 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 2 | 54% | $6,099,092 | -$156,498 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | wr0ngw4yb3tt0r | Temple vs. Toledo | Temple | 1.43 (70¢) | $29,991 | — | ⏳ Pendiente |
 | bands1 | Florida vs. Auburn | Florida | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | SMU vs. Louisville | Louisville | 1.61 (62¢) | $49,921 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami (OH) vs. Cincinnati | Cincinnati | 1.39 (72¢) | $30,664 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami (OH) vs. Cincinnati | Cincinnati | 1.39 (72¢) | $30,664 | +$11,925 | ✅ Ganada |
 | Roadto1mlesgooo | Sevilla FC vs. FC Barcelona: O/U 2.5 | Over 2.5 | 1.12 (89¢) | $28,869 | +$3,568 | ✅ Ganada |
 | maz26 | SMU vs. Louisville | Louisville | 1.75 (57¢) | $53,317 | — | ⏳ Pendiente |
 | phonesculptor | USC vs. Rutgers | USC | 1.06 (94¢) | $53,170 | — | ⏳ Pendiente |
