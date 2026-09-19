@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 06:52:30 (hora de Perú)
+Actualizado: 2026-09-19 06:54:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3026**  ($164,354,571 en total)
+- Apuestas registradas: **3028**  ($164,408,284 en total)
 - Resueltas: **2991** — 1800 ganadas / 1191 perdidas (**60%** de acierto)
-- Pendientes: 19
-- Apostadores distintos: 415
+- Pendientes: 21
+- Apostadores distintos: 416
 
 ### Balance
 
@@ -65,13 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | ethanaz | 8 | 2 | 0 | 80% | $739,439 | -$74,652 |
 
-_(mostrando los 40 de mayor monto, de 415 en total)_
+_(mostrando los 40 de mayor monto, de 416 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | JD Gaming | 2.13 (47¢) | $28,713 | — | ⏳ Pendiente |
 | StasPanda | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Karmine Corp | 1.37 (73¢) | $26,622 | — | ⏳ Pendiente |
+| lfg100k | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Rayo Vallecano de Madrid win on 2026-09-19? | No | 1.52 (66¢) | $157,202 | — | ⏳ Pendiente |
 | Jsram | Tottenham Hotspur FC vs. Aston Villa FC: O/U 3.5 | Under 3.5 | 1.61 (62¢) | $29,521 | — | ⏳ Pendiente |
 | Netrol | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | Invictus Gaming | 2.44 (41¢) | $30,399 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 415 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-09-18? | Yes | 2.78 (36¢) | $177,007 | -$177,007 | ❌ Perdida |
 | halvanicus | Will Chelsea FC win on 2026-09-18? | Yes | 2.63 (38¢) | $193,791 | -$193,791 | ❌ Perdida |
 | Flaznorp | Will Chelsea FC win on 2026-09-18? | No | 1.61 (62¢) | $28,106 | +$17,226 | ✅ Ganada |
-| totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $310,303 | +$174,545 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-09-18? | No | 1.61 (62¢) | $530,719 | +$325,280 | ✅ Ganada |
