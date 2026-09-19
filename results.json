@@ -46531,5 +46531,20 @@
     "status": "pending",
     "ultimo_fill": 1789856609,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6308,
+    "timestamp": 1789856861,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-smu-lou-2026-09-19",
+    "title": "SMU vs. Louisville",
+    "outcome": "Louisville",
+    "side": "BUY",
+    "usd": 60361.509000000005,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1789856876,
+    "fills": 2
   }
 ]
