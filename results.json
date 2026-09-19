@@ -44694,7 +44694,7 @@
     "side": "BUY",
     "usd": 27730.1637,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789757730,
     "fills": 1
   },
@@ -44859,7 +44859,7 @@
     "side": "BUY",
     "usd": 25200.0,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789769853,
     "fills": 1
   },
@@ -45054,7 +45054,7 @@
     "side": "BUY",
     "usd": 29803.212,
     "odds_at_bet": 90,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789780483,
     "fills": 1
   },
@@ -45086,6 +45086,21 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1789781857,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6125,
+    "timestamp": 1789782776,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-sea-col-2026-09-18",
+    "title": "Seattle Mariners vs. Colorado Rockies",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 27804.625200000002,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1789782776,
     "fills": 1
   }
 ]
