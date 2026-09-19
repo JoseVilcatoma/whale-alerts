@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 00:55:44 (hora de Perú)
+Actualizado: 2026-09-19 00:57:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3010**  ($163,372,126 en total)
+- Apuestas registradas: **3011**  ($163,447,375 en total)
 - Resueltas: **2991** — 1800 ganadas / 1191 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 414
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 229 | 118 | 2 | 66% | $23,303,432 | +$1,127,106 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 229 | 118 | 3 | 66% | $23,378,681 | +$1,127,106 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
 | totoro3miyazaki | 33 | 17 | 0 | 66% | $5,602,826 | +$321,888 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-19? | Yes | 1.79 (56¢) | $75,249 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Tottenham Hotspur FC win on 2026-09-19? | Yes | 2.04 (49¢) | $33,507 | — | ⏳ Pendiente |
 | gransaaa | Will Arsenal FC win on 2026-09-19? | No | 2.27 (44¢) | $29,244 | — | ⏳ Pendiente |
 | coinlaundry | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $35,821 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | Ne8om | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $108,455 | +$6,923 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.70 (37¢) | $32,389 | -$32,389 | ❌ Perdida |
 | SemyonMarmeladov | Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs | MIBR | 1.45 (69¢) | $25,028 | +$11,244 | ✅ Ganada |
-| FORTNITEMASTER888 | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.56 (64¢) | $27,021 | +$15,199 | ✅ Ganada |
