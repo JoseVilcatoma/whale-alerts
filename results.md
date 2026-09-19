@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 23:54:22 (hora de Perú)
+Actualizado: 2026-09-18 23:56:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3010**  ($163,372,126 en total)
-- Resueltas: **2986** — 1798 ganadas / 1188 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Resueltas: **2990** — 1799 ganadas / 1191 perdidas (**60%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,455,709** sobre $162,470,817 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,524** sobre $294,100 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,571,057** sobre $162,632,730 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,772** sobre $294,500 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 227 | 118 | 4 | 66% | $23,303,432 | +$1,094,907 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 228 | 118 | 3 | 66% | $23,303,432 | +$1,110,739 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
 | totoro3miyazaki | 33 | 17 | 0 | 66% | $5,602,826 | +$321,888 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 62 | 46 | 1 | 57% | $4,857,409 | +$425,231 |
+| pleaseplease123 | 62 | 47 | 0 | 57% | $4,857,409 | +$377,168 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 38 | 25 | 0 | 60% | $3,480,189 | -$301,769 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -80,9 +80,9 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.39 (72¢) | $26,220 | +$10,197 | ✅ Ganada |
 | HVAB | Guadalajara Open Akron: Liudmila Samsonova vs Peyton Stearns | Peyton Stearns | 1.47 (68¢) | $50,000 | +$23,529 | ✅ Ganada |
 | 0x6db5…e279 | Houston vs. Texas Tech | Texas Tech | 1.49 (67¢) | $27,801 | +$13,693 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami Marlins vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $30,733 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami Marlins vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $30,733 | +$15,832 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Colorado Rockies | Seattle Mariners | 1.52 (66¢) | $27,805 | +$14,324 | ✅ Ganada |
-| SharkbetX-com | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.96 (51¢) | $43,117 | — | ⏳ Pendiente |
+| SharkbetX-com | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.96 (51¢) | $43,117 | -$43,117 | ❌ Perdida |
 | Sassy-Bucket | Minnesota Twins vs. Los Angeles Angels: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $39,032 | -$39,032 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 1.11 (90¢) | $29,803 | +$3,311 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Indiana Fever vs. Toronto Tempo | Indiana Fever | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
@@ -100,8 +100,8 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | Sassy-Bucket | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $25,200 | +$34,800 | ✅ Ganada |
 | SDTrading | Spread: Miami (FL) (-20.5) | Wake Forest | 1.96 (51¢) | $25,220 | +$24,231 | ✅ Ganada |
 | kkookkoo | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.56 (64¢) | $25,000 | +$14,062 | ✅ Ganada |
-| 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
-| pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $48,063 | — | ⏳ Pendiente |
+| 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $40,000 | -$40,000 | ❌ Perdida |
+| pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $48,063 | -$48,063 | ❌ Perdida |
 | Flaznorp | Will Brentford FC win on 2026-09-18? | Yes | 1.45 (69¢) | $32,539 | +$14,619 | ✅ Ganada |
 | pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $41,157 | -$41,157 | ❌ Perdida |
 | pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox | 2.27 (44¢) | $25,873 | +$32,929 | ✅ Ganada |
