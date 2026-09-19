@@ -45959,5 +45959,35 @@
     "status": "pending",
     "ultimo_fill": 1789831415,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6229,
+    "timestamp": 1789831506,
+    "username": "Berniepaidoff",
+    "wallet": "0xc506cc1d5efd0c85bcb94f9ecaf1b541921ce987",
+    "slug": "cfb-arzst-kan-2026-09-19",
+    "title": "Arizona State vs. Kansas",
+    "outcome": "Arizona State",
+    "side": "BUY",
+    "usd": 50000.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1789831506,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6230,
+    "timestamp": 1789831527,
+    "username": "Berniepaidoff",
+    "wallet": "0xc506cc1d5efd0c85bcb94f9ecaf1b541921ce987",
+    "slug": "cfb-coast-del-2026-09-19",
+    "title": "Coastal Carolina vs. Delaware",
+    "outcome": "Delaware",
+    "side": "BUY",
+    "usd": 50000.0,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1789831527,
+    "fills": 1
   }
 ]

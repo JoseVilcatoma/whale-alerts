@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 10:24:30 (hora de Perú)
+Actualizado: 2026-09-19 10:26:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3057**  ($165,647,629 en total)
+- Apuestas registradas: **3059**  ($165,747,629 en total)
 - Resueltas: **3006** — 1809 ganadas / 1197 perdidas (**60%** de acierto)
-- Pendientes: 35
-- Apostadores distintos: 417
+- Pendientes: 37
+- Apostadores distintos: 418
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | ethanaz | 8 | 2 | 0 | 80% | $739,439 | -$74,652 |
 
-_(mostrando los 40 de mayor monto, de 417 en total)_
+_(mostrando los 40 de mayor monto, de 418 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Berniepaidoff | Coastal Carolina vs. Delaware | Delaware | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
+| Berniepaidoff | Arizona State vs. Kansas | Arizona State | 1.49 (67¢) | $50,000 | — | ⏳ Pendiente |
 | kkookkoo | Rennes: Sascha Gueymard-Wayenburg vs Titouan Droguet | Titouan Droguet | 1.61 (62¢) | $25,000 | — | ⏳ Pendiente |
 | Ancient-Strike | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.33 (75¢) | $35,977 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Karmine Corp vs Movistar KOI - Game 1 Winner | Karmine Corp | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 | 0x6db5…e279 | Houston vs. Texas Tech | Texas Tech | 1.49 (67¢) | $27,801 | +$13,693 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami Marlins vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $30,733 | +$15,832 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Colorado Rockies | Seattle Mariners | 1.52 (66¢) | $27,805 | +$14,324 | ✅ Ganada |
-| SharkbetX-com | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.96 (51¢) | $43,117 | -$43,117 | ❌ Perdida |
-| Sassy-Bucket | Minnesota Twins vs. Los Angeles Angels: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $39,032 | -$39,032 | ❌ Perdida |
