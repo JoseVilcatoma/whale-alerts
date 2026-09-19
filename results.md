@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 15:22:35 (hora de Perú)
+Actualizado: 2026-09-19 15:24:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3078**  ($166,606,757 en total)
-- Resueltas: **3032** — 1826 ganadas / 1206 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Resueltas: **3035** — 1827 ganadas / 1208 perdidas (**60%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,329,978** sobre $164,526,593 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,396** sobre $298,600 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,418,940** sobre $164,655,832 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,565** sobre $298,900 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
-| phonesculptor | 10 | 0 | 3 | 100% | $841,168 | +$83,650 |
+| phonesculptor | 10 | 2 | 1 | 83% | $841,168 | -$14,979 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 9 | 0 | 59% | $794,569 | -$51,522 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
@@ -80,10 +80,10 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | maz26 | SMU vs. Louisville | Louisville | 1.79 (56¢) | $72,800 | — | ⏳ Pendiente |
 | AGUGava | FC Metz vs. AS Saint-Étienne: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $34,421 | — | ⏳ Pendiente |
 | winwin518168 | Spread: Dallas Wings (-10.5) | Dallas Wings | 1.96 (51¢) | $30,806 | -$30,806 | ❌ Perdida |
-| phonesculptor | Will Coventry City FC win on 2026-09-19? | No | 1.19 (84¢) | $25,090 | — | ⏳ Pendiente |
+| phonesculptor | Will Coventry City FC win on 2026-09-19? | No | 1.19 (84¢) | $25,090 | -$25,090 | ❌ Perdida |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 2.33 (43¢) | $45,082 | — | ⏳ Pendiente |
 | tikstt2 | Spread: Nottingham Forest FC (-1.5) | Coventry City FC | 1.49 (67¢) | $33,203 | — | ⏳ Pendiente |
-| sbsigner | Will Nottingham Forest FC vs. Coventry City FC end in a draw? | No | 1.32 (76¢) | $30,611 | — | ⏳ Pendiente |
+| sbsigner | Will Nottingham Forest FC vs. Coventry City FC end in a draw? | No | 1.32 (76¢) | $30,611 | +$9,667 | ✅ Ganada |
 | Sassy-Bucket | North Carolina vs. Clemson | Clemson | 1.69 (59¢) | $27,658 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Buffalo vs. Penn State: O/U 49.5 | Under 49.5 | 1.89 (53¢) | $43,223 | -$43,223 | ❌ Perdida |
 | phonesculptor | Tulane vs. Kansas State | Kansas State | 1.10 (91¢) | $50,960 | +$5,040 | ✅ Ganada |
