@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 15:24:37 (hora de Perú)
+Actualizado: 2026-09-19 15:26:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3078**  ($166,606,757 en total)
+- Apuestas registradas: **3080**  ($166,689,678 en total)
 - Resueltas: **3035** — 1827 ganadas / 1208 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Pendientes: 29
 - Apostadores distintos: 420
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | BrotherObama | 20 | 19 | 1 | 51% | $1,765,407 | +$203,807 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| ferrariChampions2026 | 24 | 14 | 0 | 63% | $1,523,504 | -$459,061 |
+| ferrariChampions2026 | 24 | 14 | 1 | 63% | $1,573,425 | -$459,061 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 21 | 2 | 1 | 91% | $1,424,995 | +$59,782 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bands1 | Florida vs. Auburn | Florida | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | SMU vs. Louisville | Louisville | 1.61 (62¢) | $49,921 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami (OH) vs. Cincinnati | Cincinnati | 1.39 (72¢) | $30,664 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Sevilla FC vs. FC Barcelona: O/U 2.5 | Over 2.5 | 1.12 (89¢) | $28,869 | — | ⏳ Pendiente |
 | maz26 | SMU vs. Louisville | Louisville | 1.75 (57¢) | $53,317 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | Netrol | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | Invictus Gaming | 2.44 (41¢) | $30,399 | -$30,399 | ❌ Perdida |
 | Diabolical-Prize | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 1.67 (60¢) | $58,851 | +$39,234 | ✅ Ganada |
 | BrotherObama | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 2.08 (48¢) | $25,000 | +$27,083 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play Connect Playoffs | Luminosity | 1.54 (65¢) | $65,000 | +$35,000 | ✅ Ganada |
-| Takon88 | Will CA Osasuna win on 2026-09-19? | No | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |

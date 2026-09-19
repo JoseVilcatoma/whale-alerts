@@ -46276,5 +46276,35 @@
     "status": "pending",
     "ultimo_fill": 1789849110,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6280,
+    "timestamp": 1789849534,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-smu-lou-2026-09-19",
+    "title": "SMU vs. Louisville",
+    "outcome": "Louisville",
+    "side": "BUY",
+    "usd": 49920.806599999996,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1789849534,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6281,
+    "timestamp": 1789849593,
+    "username": "bands1",
+    "wallet": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f",
+    "slug": "cfb-fl-aubrn-2026-09-19",
+    "title": "Florida vs. Auburn",
+    "outcome": "Florida",
+    "side": "BUY",
+    "usd": 32999.9945,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1789849593,
+    "fills": 1
   }
 ]
