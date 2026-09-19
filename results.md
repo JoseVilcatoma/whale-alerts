@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 14:12:55 (hora de Perú)
+Actualizado: 2026-09-19 14:15:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3073**  ($166,353,339 en total)
-- Resueltas: **3019** — 1818 ganadas / 1201 perdidas (**60%** de acierto)
-- Pendientes: 38
+- Resueltas: **3025** — 1823 ganadas / 1202 perdidas (**60%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,422,996** sobre $164,056,382 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,607** sobre $297,300 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,313,044** sobre $164,265,727 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,340** sobre $297,900 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,16 +24,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 230 | 119 | 4 | 66% | $23,482,005 | +$1,070,932 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 231 | 119 | 3 | 66% | $23,482,005 | +$1,087,513 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 62 | 47 | 0 | 57% | $4,857,409 | +$377,168 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 38 | 26 | 3 | 59% | $3,625,266 | -$344,992 |
+| wr0ngw4yb3tt0r | 40 | 26 | 1 | 61% | $3,625,266 | -$304,035 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Diabolical-Prize | 26 | 34 | 2 | 43% | $3,229,966 | -$711,644 |
+| Diabolical-Prize | 27 | 34 | 1 | 44% | $3,229,966 | -$658,488 |
 | Sassy-Bucket | 26 | 29 | 1 | 47% | $2,658,312 | -$206,240 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -84,8 +84,8 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | phonesculptor | Tulane vs. Kansas State | Kansas State | 1.10 (91¢) | $50,960 | — | ⏳ Pendiente |
 | itwillallbeok | North Carolina vs. Clemson | North Carolina | 2.44 (41¢) | $98,114 | — | ⏳ Pendiente |
 | Kch-Temp | NC State vs. Vanderbilt: O/U 50.5 | Over 50.5 | 1.92 (52¢) | $53,602 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Coastal Carolina vs. Delaware | Delaware | 1.56 (64¢) | $28,947 | — | ⏳ Pendiente |
-| Berniepaidoff | Coastal Carolina vs. Delaware | Delaware | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Coastal Carolina vs. Delaware | Delaware | 1.56 (64¢) | $28,947 | +$16,283 | ✅ Ganada |
+| Berniepaidoff | Coastal Carolina vs. Delaware | Delaware | 1.52 (66¢) | $50,000 | +$25,758 | ✅ Ganada |
 | Berniepaidoff | Arizona State vs. Kansas | Arizona State | 1.49 (67¢) | $50,000 | — | ⏳ Pendiente |
 | kkookkoo | Rennes: Sascha Gueymard-Wayenburg vs Titouan Droguet | Titouan Droguet | 1.61 (62¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Ancient-Strike | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.33 (75¢) | $35,977 | — | ⏳ Pendiente |
@@ -97,17 +97,17 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | Elaran1993 | Will Paris FC win on 2026-09-19? | Yes | 1.85 (54¢) | $68,848 | +$58,648 | ✅ Ganada |
 | beeemw | Will Arsenal FC win on 2026-09-19? | No | 1.10 (91¢) | $49,813 | +$4,927 | ✅ Ganada |
 | fantasy7788 | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 3.45 (29¢) | $40,000 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: Delaware (-4.5) | Delaware | 1.89 (53¢) | $27,825 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Spread: Delaware (-4.5) | Delaware | 1.89 (53¢) | $27,825 | +$24,675 | ✅ Ganada |
 | Roadto1mlesgooo | Brighton & Hove Albion FC vs. Arsenal FC: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $25,069 | +$3,419 | ✅ Ganada |
 | Jsram | Spread: FC Barcelona (-1.5) | Sevilla FC | 2.22 (45¢) | $45,718 | — | ⏳ Pendiente |
-| heal-.- | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Karmine Corp | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
-| Diabolical-Prize | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Movistar KOI | 2.17 (46¢) | $45,281 | — | ⏳ Pendiente |
+| heal-.- | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Karmine Corp | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
+| Diabolical-Prize | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Movistar KOI | 2.17 (46¢) | $45,281 | +$53,156 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | M80 | 2.00 (50¢) | $28,021 | — | ⏳ Pendiente |
 | primm | Spread: Georgia (-24.5) | Georgia | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.13 (47¢) | $70,333 | — | ⏳ Pendiente |
 | AGUGava | Newcastle United FC vs. Hull City AFC: O/U 3.5 | Under 3.5 | 1.59 (63¢) | $29,766 | +$1,417 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Borussia Mönchengladbach win on 2026-09-19? | No | 1.43 (70¢) | $44,510 | +$19,076 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Coastal Carolina vs. Delaware | Delaware | 1.54 (65¢) | $30,793 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Coastal Carolina vs. Delaware | Delaware | 1.54 (65¢) | $30,793 | +$16,581 | ✅ Ganada |
 | Kch-Temp | Spread: LSU (-3.5) | Ole Miss | 1.82 (55¢) | $25,849 | — | ⏳ Pendiente |
 | Kch-Temp | LSU vs. Ole Miss | Ole Miss | 2.38 (42¢) | $28,275 | — | ⏳ Pendiente |
 | lucidarderi | Will Newcastle United FC win on 2026-09-19? | Yes | 1.61 (62¢) | $119,970 | +$73,530 | ✅ Ganada |
