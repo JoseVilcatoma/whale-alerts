@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 22:34:06 (hora de Perú)
+Actualizado: 2026-09-18 22:36:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3007**  ($163,273,554 en total)
-- Resueltas: **2972** — 1786 ganadas / 1186 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Resueltas: **2973** — 1787 ganadas / 1186 perdidas (**60%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,525,610** sobre $161,904,484 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,752** sobre $292,700 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,501,380** sobre $161,929,704 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,656** sobre $292,800 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
-| SDTrading | 16 | 22 | 1 | 42% | $1,150,856 | -$242,014 |
+| SDTrading | 17 | 22 | 0 | 44% | $1,150,856 | -$217,783 |
 | surfandturf | 7 | 2 | 0 | 78% | $1,107,101 | +$15,557 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Pittsburgh Pirates (-1.5) | Kansas City Royals | 1.79 (56¢) | $30,912 | -$30,912 | ❌ Perdida |
 | vjnn | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | Sassy-Bucket | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $25,200 | +$34,800 | ✅ Ganada |
-| SDTrading | Spread: Miami (FL) (-20.5) | Wake Forest | 1.96 (51¢) | $25,220 | — | ⏳ Pendiente |
+| SDTrading | Spread: Miami (FL) (-20.5) | Wake Forest | 1.96 (51¢) | $25,220 | +$24,231 | ✅ Ganada |
 | kkookkoo | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.56 (64¢) | $25,000 | +$14,062 | ✅ Ganada |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $48,063 | — | ⏳ Pendiente |
