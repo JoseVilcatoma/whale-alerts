@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 10:14:19 (hora de Perú)
+Actualizado: 2026-09-19 10:16:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3054**  ($165,552,653 en total)
+- Apuestas registradas: **3055**  ($165,586,653 en total)
 - Resueltas: **3006** — 1809 ganadas / 1197 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 417
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 38 | 25 | 1 | 60% | $3,508,014 | -$301,769 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Diabolical-Prize | 26 | 33 | 2 | 44% | $3,195,966 | -$677,644 |
+| Diabolical-Prize | 26 | 33 | 3 | 44% | $3,229,966 | -$677,644 |
 | Sassy-Bucket | 26 | 29 | 0 | 47% | $2,630,653 | -$206,240 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: Karmine Corp vs Movistar KOI - Game 1 Winner | Karmine Corp | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
 | primm | Spread: South Alabama (-6.5) | South Alabama | 1.92 (52¢) | $27,174 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.30 (77¢) | $50,000 | — | ⏳ Pendiente |
 | primm | Spread: Toledo (-5.5) | Temple | 1.96 (51¢) | $29,747 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 | Sassy-Bucket | Minnesota Twins vs. Los Angeles Angels: O/U 8.5 | Over 8.5 | 2.13 (47¢) | $39,032 | -$39,032 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 1.11 (90¢) | $29,803 | +$3,311 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Indiana Fever vs. Toronto Tempo | Indiana Fever | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Club Puebla win on 2026-09-18? | No | 1.64 (61¢) | $25,599 | +$16,367 | ✅ Ganada |
