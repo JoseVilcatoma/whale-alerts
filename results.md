@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 20:08:03 (hora de Perú)
+Actualizado: 2026-09-18 20:10:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2996**  ($162,813,235 en total)
-- Resueltas: **2956** — 1777 ganadas / 1179 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Resueltas: **2957** — 1777 ganadas / 1180 perdidas (**60%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,530,181** sobre $161,333,655 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,632** sobre $291,200 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,561,760** sobre $161,365,234 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,732** sobre $291,300 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 223 | 117 | 6 | 66% | $23,215,092 | +$1,082,350 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 223 | 118 | 5 | 65% | $23,215,092 | +$1,050,772 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 1 | 54% | $6,005,784 | -$125,586 |
 | totoro3miyazaki | 33 | 17 | 0 | 66% | $5,602,826 | +$321,888 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Club Puebla win on 2026-09-18? | No | 1.64 (61¢) | $25,599 | — | ⏳ Pendiente |
 | Donkey14 | Seattle Mariners vs. Colorado Rockies | Seattle Mariners | 1.59 (63¢) | $33,836 | — | ⏳ Pendiente |
 | 3648393489047 | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Shopify Rebellion vs Sentinels (BO5) - LCS Playoffs | Sentinels | 1.56 (64¢) | $31,578 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Shopify Rebellion vs Sentinels (BO5) - LCS Playoffs | Sentinels | 1.56 (64¢) | $31,578 | -$31,578 | ❌ Perdida |
 | sleepy-panda | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
 | martingaleking | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $49,561 | — | ⏳ Pendiente |
 | pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $40,334 | — | ⏳ Pendiente |
