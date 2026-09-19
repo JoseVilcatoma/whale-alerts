@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 05:02:49 (hora de Perú)
+Actualizado: 2026-09-19 05:04:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3014**  ($163,687,076 en total)
+- Apuestas registradas: **3015**  ($163,712,076 en total)
 - Resueltas: **2991** — 1800 ganadas / 1191 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 414
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs | Invictus Gaming | 1.85 (54¢) | $28,784 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will FC Barcelona win on 2026-09-19? | Yes | 1.25 (80¢) | $72,671 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will FC Barcelona win on 2026-09-19? | Yes | 1.25 (80¢) | $138,246 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | retordedgremlin125 | Counter-Strike: NRG vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 1.30 (77¢) | $67,659 | +$20,210 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | Inner Circle Esports | 1.56 (64¢) | $57,600 | -$57,600 | ❌ Perdida |
 | Ne8om | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $66,232 | +$4,228 | ✅ Ganada |
-| fantasy7788 | LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs | Natus Vincere | 2.56 (39¢) | $52,000 | -$52,000 | ❌ Perdida |
