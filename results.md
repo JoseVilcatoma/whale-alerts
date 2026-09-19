@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 10:10:15 (hora de Perú)
+Actualizado: 2026-09-19 10:12:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3052**  ($165,475,479 en total)
+- Apuestas registradas: **3054**  ($165,552,653 en total)
 - Resueltas: **3006** — 1809 ganadas / 1197 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Pendientes: 32
 - Apostadores distintos: 417
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| primm | Spread: South Alabama (-6.5) | South Alabama | 1.92 (52¢) | $27,174 | — | ⏳ Pendiente |
+| retordedgremlin125 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.30 (77¢) | $50,000 | — | ⏳ Pendiente |
 | primm | Spread: Toledo (-5.5) | Temple | 1.96 (51¢) | $29,747 | — | ⏳ Pendiente |
 | Pwaddler | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.69 (59¢) | $52,498 | — | ⏳ Pendiente |
 | Elaran1993 | Will Paris FC win on 2026-09-19? | Yes | 1.85 (54¢) | $68,848 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 1.11 (90¢) | $29,803 | +$3,311 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Indiana Fever vs. Toronto Tempo | Indiana Fever | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Club Puebla win on 2026-09-18? | No | 1.64 (61¢) | $25,599 | +$16,367 | ✅ Ganada |
-| Donkey14 | Seattle Mariners vs. Colorado Rockies | Seattle Mariners | 1.59 (63¢) | $33,836 | +$19,872 | ✅ Ganada |
-| 3648393489047 | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
