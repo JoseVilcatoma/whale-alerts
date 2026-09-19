@@ -45869,5 +45869,20 @@
     "status": "pending",
     "ultimo_fill": 1789830313,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6223,
+    "timestamp": 1789830509,
+    "username": "primm",
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "slug": "cfb-templ-toledo-2026-09-19-spread-home-5pt5",
+    "title": "Spread: Toledo (-5.5)",
+    "outcome": "Temple",
+    "side": "BUY",
+    "usd": 29747.0396,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789830509,
+    "fills": 1
   }
 ]
