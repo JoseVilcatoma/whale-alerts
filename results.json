@@ -45524,5 +45524,20 @@
     "status": "pending",
     "ultimo_fill": 1789818870,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6184,
+    "timestamp": 1789819478,
+    "username": "FORTNITEMASTER888",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-ig1-jdg-2026-09-19-game4",
+    "title": "LoL: Invictus Gaming vs JD Gaming - Game 4 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 34395.089400000004,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1789819478,
+    "fills": 1
   }
 ]
