@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 13:31:27 (hora de Perú)
+Actualizado: 2026-09-19 13:33:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3070**  ($166,214,926 en total)
-- Resueltas: **3013** — 1815 ganadas / 1198 perdidas (**60%** de acierto)
-- Pendientes: 41
+- Resueltas: **3015** — 1817 ganadas / 1198 perdidas (**60%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,479,513** sobre $163,698,561 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,491** sobre $296,700 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,337,733** sobre $163,925,281 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,366** sobre $296,900 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -107,11 +107,11 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Coastal Carolina vs. Delaware | Delaware | 1.54 (65¢) | $30,793 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: LSU (-3.5) | Ole Miss | 1.82 (55¢) | $25,849 | — | ⏳ Pendiente |
 | Kch-Temp | LSU vs. Ole Miss | Ole Miss | 2.38 (42¢) | $28,275 | — | ⏳ Pendiente |
-| lucidarderi | Will Newcastle United FC win on 2026-09-19? | Yes | 1.61 (62¢) | $119,970 | — | ⏳ Pendiente |
+| lucidarderi | Will Newcastle United FC win on 2026-09-19? | Yes | 1.61 (62¢) | $119,970 | +$73,530 | ✅ Ganada |
 | Jsram | Newcastle United FC vs. Hull City AFC: O/U 3.5 | Under 3.5 | 1.59 (63¢) | $28,877 | — | ⏳ Pendiente |
 | Kch-Temp | James Madison vs. San Diego State: O/U 46.5 | Over 46.5 | 2.08 (48¢) | $51,855 | — | ⏳ Pendiente |
 | SDTrading | Spread: Penn State (-39.5) | Penn State | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
-| raybanman | Will Newcastle United FC win on 2026-09-19? | Yes | 1.64 (61¢) | $106,750 | — | ⏳ Pendiente |
+| raybanman | Will Newcastle United FC win on 2026-09-19? | Yes | 1.64 (61¢) | $106,750 | +$68,250 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $34,395 | +$29,300 | ✅ Ganada |
 | fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | JD Gaming | 2.13 (47¢) | $28,713 | -$28,713 | ❌ Perdida |
 | StasPanda | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Karmine Corp | 1.37 (73¢) | $26,622 | — | ⏳ Pendiente |
