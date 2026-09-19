@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 13:54:24 (hora de Perú)
+Actualizado: 2026-09-19 13:56:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3070**  ($166,214,926 en total)
-- Resueltas: **3018** — 1818 ganadas / 1200 perdidas (**60%** de acierto)
-- Pendientes: 36
+- Resueltas: **3019** — 1818 ganadas / 1201 perdidas (**60%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,379,773** sobre $164,013,159 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,507** sobre $297,200 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,422,996** sobre $164,056,382 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,607** sobre $297,300 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 62 | 47 | 0 | 57% | $4,857,409 | +$377,168 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 38 | 25 | 4 | 60% | $3,625,266 | -$301,769 |
+| wr0ngw4yb3tt0r | 38 | 26 | 3 | 59% | $3,625,266 | -$344,992 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 26 | 34 | 2 | 43% | $3,229,966 | -$711,644 |
 | Sassy-Bucket | 26 | 29 | 1 | 47% | $2,658,312 | -$206,240 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | tikstt2 | Spread: Nottingham Forest FC (-1.5) | Coventry City FC | 1.49 (67¢) | $33,203 | — | ⏳ Pendiente |
 | sbsigner | Will Nottingham Forest FC vs. Coventry City FC end in a draw? | No | 1.32 (76¢) | $30,611 | — | ⏳ Pendiente |
 | Sassy-Bucket | North Carolina vs. Clemson | Clemson | 1.69 (59¢) | $27,658 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Buffalo vs. Penn State: O/U 49.5 | Under 49.5 | 1.89 (53¢) | $43,223 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Buffalo vs. Penn State: O/U 49.5 | Under 49.5 | 1.89 (53¢) | $43,223 | -$43,223 | ❌ Perdida |
 | phonesculptor | Tulane vs. Kansas State | Kansas State | 1.10 (91¢) | $50,960 | — | ⏳ Pendiente |
 | itwillallbeok | North Carolina vs. Clemson | North Carolina | 2.44 (41¢) | $98,114 | — | ⏳ Pendiente |
 | Kch-Temp | NC State vs. Vanderbilt: O/U 50.5 | Over 50.5 | 1.92 (52¢) | $53,602 | — | ⏳ Pendiente |
