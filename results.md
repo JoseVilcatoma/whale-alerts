@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 13:37:45 (hora de Perú)
+Actualizado: 2026-09-19 13:39:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3070**  ($166,214,926 en total)
-- Resueltas: **3016** — 1817 ganadas / 1199 perdidas (**60%** de acierto)
-- Pendientes: 38
+- Resueltas: **3017** — 1817 ganadas / 1200 perdidas (**60%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,362,733** sobre $163,950,281 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,466** sobre $297,000 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,396,733** sobre $163,984,281 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,566** sobre $297,100 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 38 | 25 | 4 | 60% | $3,625,266 | -$301,769 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Diabolical-Prize | 26 | 33 | 3 | 44% | $3,229,966 | -$677,644 |
+| Diabolical-Prize | 26 | 34 | 2 | 43% | $3,229,966 | -$711,644 |
 | Sassy-Bucket | 26 | 29 | 1 | 47% | $2,658,312 | -$206,240 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | Berniepaidoff | Arizona State vs. Kansas | Arizona State | 1.49 (67¢) | $50,000 | — | ⏳ Pendiente |
 | kkookkoo | Rennes: Sascha Gueymard-Wayenburg vs Titouan Droguet | Titouan Droguet | 1.61 (62¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Ancient-Strike | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.33 (75¢) | $35,977 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: Karmine Corp vs Movistar KOI - Game 1 Winner | Karmine Corp | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Karmine Corp vs Movistar KOI - Game 1 Winner | Karmine Corp | 1.47 (68¢) | $34,000 | -$34,000 | ❌ Perdida |
 | primm | Spread: South Alabama (-6.5) | South Alabama | 1.92 (52¢) | $27,174 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.30 (77¢) | $50,000 | — | ⏳ Pendiente |
 | primm | Spread: Toledo (-5.5) | Temple | 1.96 (51¢) | $29,747 | — | ⏳ Pendiente |
