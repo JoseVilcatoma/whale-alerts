@@ -45671,7 +45671,7 @@
     "side": "BUY",
     "usd": 44509.901334,
     "odds_at_bet": 70,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789824602,
     "fills": 1
   },
@@ -46050,6 +46050,36 @@
     "odds_at_bet": 91,
     "status": "pending",
     "ultimo_fill": 1789832816,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6237,
+    "timestamp": 1789833269,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-buf-pennst-2026-09-19-total-49pt5",
+    "title": "Buffalo vs. Penn State: O/U 49.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 43222.9999,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789833269,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6238,
+    "timestamp": 1789833287,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-ncar-clmsn-2026-09-19",
+    "title": "North Carolina vs. Clemson",
+    "outcome": "Clemson",
+    "side": "BUY",
+    "usd": 27658.432999999997,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1789833287,
     "fills": 1
   }
 ]

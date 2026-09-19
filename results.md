@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 10:52:51 (hora de Perú)
+Actualizado: 2026-09-19 10:54:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3063**  ($165,979,252 en total)
-- Resueltas: **3007** — 1810 ganadas / 1197 perdidas (**60%** de acierto)
-- Pendientes: 40
+- Apuestas registradas: **3065**  ($166,050,134 en total)
+- Resueltas: **3008** — 1811 ganadas / 1197 perdidas (**60%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 419
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,527,552** sobre $163,405,828 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,670** sobre $296,100 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,508,477** sobre $163,450,338 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,627** sobre $296,200 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,17 +24,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 229 | 118 | 6 | 66% | $23,482,005 | +$1,127,106 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 230 | 118 | 5 | 66% | $23,482,005 | +$1,146,181 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 62 | 47 | 0 | 57% | $4,857,409 | +$377,168 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 38 | 25 | 2 | 60% | $3,536,961 | -$301,769 |
+| wr0ngw4yb3tt0r | 38 | 25 | 3 | 60% | $3,580,184 | -$301,769 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 26 | 33 | 3 | 44% | $3,229,966 | -$677,644 |
-| Sassy-Bucket | 26 | 29 | 0 | 47% | $2,630,653 | -$206,240 |
+| Sassy-Bucket | 26 | 29 | 1 | 47% | $2,658,312 | -$206,240 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 419 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | North Carolina vs. Clemson | Clemson | 1.69 (59¢) | $27,658 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Buffalo vs. Penn State: O/U 49.5 | Under 49.5 | 1.89 (53¢) | $43,223 | — | ⏳ Pendiente |
 | phonesculptor | Tulane vs. Kansas State | Kansas State | 1.10 (91¢) | $50,960 | — | ⏳ Pendiente |
 | itwillallbeok | North Carolina vs. Clemson | North Carolina | 2.44 (41¢) | $98,114 | — | ⏳ Pendiente |
 | Kch-Temp | NC State vs. Vanderbilt: O/U 50.5 | Over 50.5 | 1.92 (52¢) | $53,602 | — | ⏳ Pendiente |
@@ -96,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 419 en total)_
 | primm | Spread: Georgia (-24.5) | Georgia | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.13 (47¢) | $70,333 | — | ⏳ Pendiente |
 | AGUGava | Newcastle United FC vs. Hull City AFC: O/U 3.5 | Under 3.5 | 1.59 (63¢) | $29,766 | +$1,417 | 💰 Vendida antes |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Borussia Mönchengladbach win on 2026-09-19? | No | 1.43 (70¢) | $44,510 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Borussia Mönchengladbach win on 2026-09-19? | No | 1.43 (70¢) | $44,510 | +$19,076 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Coastal Carolina vs. Delaware | Delaware | 1.54 (65¢) | $30,793 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: LSU (-3.5) | Ole Miss | 1.82 (55¢) | $25,849 | — | ⏳ Pendiente |
 | Kch-Temp | LSU vs. Ole Miss | Ole Miss | 2.38 (42¢) | $28,275 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 419 en total)_
 | coinlaundry | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $35,821 | — | ⏳ Pendiente |
 | curie | Houston vs. Texas Tech | Texas Tech | 1.08 (93¢) | $87,885 | +$6,615 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.06 (94¢) | $56,220 | +$3,589 | ✅ Ganada |
-| ethanaz | Houston vs. Texas Tech | Texas Tech | 1.47 (68¢) | $41,704 | +$19,625 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.39 (72¢) | $26,220 | +$10,197 | ✅ Ganada |
