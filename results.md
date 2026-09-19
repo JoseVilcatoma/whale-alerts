@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 15:47:12 (hora de Perú)
+Actualizado: 2026-09-19 15:49:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3083**  ($166,847,030 en total)
-- Resueltas: **3040** — 1831 ganadas / 1209 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Resueltas: **3041** — 1832 ganadas / 1209 perdidas (**60%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,298,976** sobre $164,867,390 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,361** sobre $299,400 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,249,497** sobre $164,920,992 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,269** sobre $299,500 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | wr0ngw4yb3tt0r | Buffalo vs. Penn State: O/U 49.5 | Under 49.5 | 1.89 (53¢) | $43,223 | -$43,223 | ❌ Perdida |
 | phonesculptor | Tulane vs. Kansas State | Kansas State | 1.10 (91¢) | $50,960 | +$5,040 | ✅ Ganada |
 | itwillallbeok | North Carolina vs. Clemson | North Carolina | 2.44 (41¢) | $98,114 | — | ⏳ Pendiente |
-| Kch-Temp | NC State vs. Vanderbilt: O/U 50.5 | Over 50.5 | 1.92 (52¢) | $53,602 | — | ⏳ Pendiente |
+| Kch-Temp | NC State vs. Vanderbilt: O/U 50.5 | Over 50.5 | 1.92 (52¢) | $53,602 | +$49,479 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Coastal Carolina vs. Delaware | Delaware | 1.56 (64¢) | $28,947 | +$16,283 | ✅ Ganada |
 | Berniepaidoff | Coastal Carolina vs. Delaware | Delaware | 1.52 (66¢) | $50,000 | +$25,758 | ✅ Ganada |
 | Berniepaidoff | Arizona State vs. Kansas | Arizona State | 1.49 (67¢) | $50,000 | +$24,627 | ✅ Ganada |
