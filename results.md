@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 15:30:49 (hora de Perú)
+Actualizado: 2026-09-19 15:32:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3080**  ($166,689,678 en total)
+- Apuestas registradas: **3081**  ($166,719,669 en total)
 - Resueltas: **3035** — 1827 ganadas / 1208 perdidas (**60%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 420
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 62 | 47 | 0 | 57% | $4,857,409 | +$377,168 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 40 | 26 | 1 | 61% | $3,625,266 | -$304,035 |
+| wr0ngw4yb3tt0r | 40 | 26 | 2 | 61% | $3,655,256 | -$304,035 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 27 | 34 | 1 | 44% | $3,229,966 | -$658,488 |
 | Sassy-Bucket | 26 | 29 | 1 | 47% | $2,658,312 | -$206,240 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Temple vs. Toledo | Temple | 1.43 (70¢) | $29,991 | — | ⏳ Pendiente |
 | bands1 | Florida vs. Auburn | Florida | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | SMU vs. Louisville | Louisville | 1.61 (62¢) | $49,921 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami (OH) vs. Cincinnati | Cincinnati | 1.39 (72¢) | $30,664 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | Jsram | Tottenham Hotspur FC vs. Aston Villa FC: O/U 3.5 | Under 3.5 | 1.61 (62¢) | $29,521 | -$29,521 | ❌ Perdida |
 | Netrol | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | Invictus Gaming | 2.44 (41¢) | $30,399 | -$30,399 | ❌ Perdida |
 | Diabolical-Prize | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 1.67 (60¢) | $58,851 | +$39,234 | ✅ Ganada |
-| BrotherObama | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 2.08 (48¢) | $25,000 | +$27,083 | ✅ Ganada |
