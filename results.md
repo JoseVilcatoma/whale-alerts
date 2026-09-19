@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 22:46:22 (hora de Perú)
+Actualizado: 2026-09-18 22:48:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3007**  ($163,273,554 en total)
-- Resueltas: **2979** — 1792 ganadas / 1187 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Resueltas: **2980** — 1793 ganadas / 1187 perdidas (**60%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,493,925** sobre $162,141,956 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,620** sobre $293,400 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,470,396** sobre $162,191,956 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,573** sobre $293,500 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.06 (94¢) | $56,220 | — | ⏳ Pendiente |
 | ethanaz | Houston vs. Texas Tech | Texas Tech | 1.47 (68¢) | $41,704 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.39 (72¢) | $26,220 | — | ⏳ Pendiente |
-| HVAB | Guadalajara Open Akron: Liudmila Samsonova vs Peyton Stearns | Peyton Stearns | 1.47 (68¢) | $50,000 | — | ⏳ Pendiente |
+| HVAB | Guadalajara Open Akron: Liudmila Samsonova vs Peyton Stearns | Peyton Stearns | 1.47 (68¢) | $50,000 | +$23,529 | ✅ Ganada |
 | 0x6db5…e279 | Houston vs. Texas Tech | Texas Tech | 1.49 (67¢) | $27,801 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami Marlins vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $30,733 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Colorado Rockies | Seattle Mariners | 1.52 (66¢) | $27,805 | +$14,324 | ✅ Ganada |
