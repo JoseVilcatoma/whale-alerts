@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 22:15:14 (hora de Perú)
+Actualizado: 2026-09-18 22:17:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3006**  ($163,185,669 en total)
+- Apuestas registradas: **3007**  ($163,273,554 en total)
 - Resueltas: **2972** — 1786 ganadas / 1186 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 414
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| curie | Houston vs. Texas Tech | Texas Tech | 1.08 (93¢) | $87,885 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.06 (94¢) | $56,220 | — | ⏳ Pendiente |
 | ethanaz | Houston vs. Texas Tech | Texas Tech | 1.47 (68¢) | $41,704 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.39 (72¢) | $26,220 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | MOUZ | 1.59 (63¢) | $53,182 | +$31,234 | ✅ Ganada |
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 1.67 (60¢) | $34,354 | -$34,354 | ❌ Perdida |
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 2.63 (38¢) | $25,420 | -$25,420 | ❌ Perdida |
-| mariabelo | Will FC Bayern München win on 2026-09-18? | Yes | 1.08 (93¢) | $32,763 | +$2,466 | ✅ Ganada |
