@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 09:00:37 (hora de Perú)
+Actualizado: 2026-09-19 09:02:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3042**  ($165,064,180 en total)
+- Apuestas registradas: **3043**  ($165,109,461 en total)
 - Resueltas: **2997** — 1802 ganadas / 1195 perdidas (**60%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 417
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 38 | 25 | 0 | 60% | $3,480,189 | -$301,769 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Diabolical-Prize | 25 | 33 | 2 | 43% | $3,150,685 | -$716,878 |
+| Diabolical-Prize | 25 | 33 | 3 | 43% | $3,195,966 | -$716,878 |
 | Sassy-Bucket | 26 | 29 | 0 | 47% | $2,630,653 | -$206,240 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Game Handicap: KC (-1.5) vs Movistar KOI (+1.5) | Movistar KOI | 2.17 (46¢) | $45,281 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | M80 | 2.00 (50¢) | $28,021 | — | ⏳ Pendiente |
 | primm | Spread: Georgia (-24.5) | Georgia | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.13 (47¢) | $70,333 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Pittsburgh Pirates (-1.5) | Kansas City Royals | 1.79 (56¢) | $30,912 | -$30,912 | ❌ Perdida |
 | vjnn | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | Sassy-Bucket | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $25,200 | +$34,800 | ✅ Ganada |
-| SDTrading | Spread: Miami (FL) (-20.5) | Wake Forest | 1.96 (51¢) | $25,220 | +$24,231 | ✅ Ganada |
