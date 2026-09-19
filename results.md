@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 18:01:23 (hora de Perú)
+Actualizado: 2026-09-19 18:03:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3098**  ($167,576,791 en total)
+- Apuestas registradas: **3099**  ($167,676,202 en total)
 - Resueltas: **3047** — 1836 ganadas / 1211 perdidas (**60%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 420
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 2 | 54% | $6,099,092 | -$156,498 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 62 | 47 | 2 | 57% | $4,986,101 | +$377,168 |
+| pleaseplease123 | 62 | 47 | 3 | 57% | $5,085,512 | +$377,168 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 40 | 26 | 5 | 61% | $3,778,669 | -$304,035 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.92 (52¢) | $99,411 | — | ⏳ Pendiente |
 | Donkey14 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | whodissss | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $102,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.56 (64¢) | $60,362 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | M80 | 2.00 (50¢) | $28,021 | -$28,021 | ❌ Perdida |
 | primm | Spread: Georgia (-24.5) | Georgia | 1.92 (52¢) | $30,000 | +$27,692 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.13 (47¢) | $70,333 | +$79,312 | ✅ Ganada |
-| AGUGava | Newcastle United FC vs. Hull City AFC: O/U 3.5 | Under 3.5 | 1.59 (63¢) | $29,766 | +$1,417 | 💰 Vendida antes |
