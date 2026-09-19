@@ -45854,5 +45854,20 @@
     "status": "pending",
     "ultimo_fill": 1789829970,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 6222,
+    "timestamp": 1789830313,
+    "username": "Pwaddler",
+    "wallet": "0x1d1ade627d0bb0205758580b20d808573e720df6",
+    "slug": "mlb-nyy-ari-2026-09-19",
+    "title": "New York Yankees vs. Arizona Diamondbacks",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 52498.4714,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1789830313,
+    "fills": 1
   }
 ]
