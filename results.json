@@ -44739,7 +44739,7 @@
     "side": "BUY",
     "usd": 25454.542400000002,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789760480,
     "fills": 1
   },
@@ -44754,7 +44754,7 @@
     "side": "BUY",
     "usd": 25872.919599999997,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789760481,
     "fills": 1
   },
@@ -45146,6 +45146,21 @@
     "odds_at_bet": 68,
     "status": "pending",
     "ultimo_fill": 1789784152,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6133,
+    "timestamp": 1789784611,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-hou-txtech-2026-09-18",
+    "title": "Houston vs. Texas Tech",
+    "outcome": "Texas Tech",
+    "side": "BUY",
+    "usd": 26219.9952,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1789784611,
     "fills": 1
   }
 ]

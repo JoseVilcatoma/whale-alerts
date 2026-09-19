@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 21:23:03 (hora de Perú)
+Actualizado: 2026-09-18 21:25:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3003**  ($163,061,525 en total)
-- Resueltas: **2967** — 1784 ganadas / 1183 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Apuestas registradas: **3004**  ($163,087,745 en total)
+- Resueltas: **2969** — 1785 ganadas / 1184 perdidas (**60%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,456,494** sobre $161,745,416 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,580** sobre $292,300 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,449,019** sobre $161,796,743 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,552** sobre $292,500 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,9 +29,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
 | totoro3miyazaki | 33 | 17 | 0 | 66% | $5,602,826 | +$321,888 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 61 | 44 | 4 | 58% | $4,857,409 | +$473,794 |
+| pleaseplease123 | 62 | 44 | 3 | 58% | $4,857,409 | +$506,723 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 36 | 25 | 0 | 59% | $3,397,749 | -$315,555 |
+| wr0ngw4yb3tt0r | 36 | 25 | 1 | 59% | $3,423,969 | -$315,555 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 23 | 32 | 0 | 42% | $2,811,638 | -$652,016 |
 | Sassy-Bucket | 26 | 28 | 1 | 48% | $2,630,653 | -$167,209 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.39 (72¢) | $26,220 | — | ⏳ Pendiente |
 | HVAB | Guadalajara Open Akron: Liudmila Samsonova vs Peyton Stearns | Peyton Stearns | 1.47 (68¢) | $50,000 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Houston vs. Texas Tech | Texas Tech | 1.49 (67¢) | $27,801 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami Marlins vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $30,733 | — | ⏳ Pendiente |
@@ -97,8 +98,8 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $48,063 | — | ⏳ Pendiente |
 | Flaznorp | Will Brentford FC win on 2026-09-18? | Yes | 1.45 (69¢) | $32,539 | +$14,619 | ✅ Ganada |
 | pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $41,157 | — | ⏳ Pendiente |
-| pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox | 2.27 (44¢) | $25,873 | — | ⏳ Pendiente |
-| Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
+| pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox | 2.27 (44¢) | $25,873 | +$32,929 | ✅ Ganada |
+| Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $25,455 | -$25,455 | ❌ Perdida |
 | totoro3miyazaki | Will Brentford FC win on 2026-09-18? | Yes | 2.70 (37¢) | $64,027 | +$109,020 | ✅ Ganada |
 | pilimili | Will Chelsea FC win on 2026-09-18? | Yes | 2.78 (36¢) | $30,000 | -$30,000 | ❌ Perdida |
 | SDTrading | Chicago Cubs vs. Cincinnati Reds | Chicago Cubs | 1.75 (57¢) | $27,730 | -$27,730 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | mariabelo | Will FC Bayern München win on 2026-09-18? | Yes | 1.08 (93¢) | $32,763 | +$2,466 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: 3DMAX vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | EYEBALLERS | 2.50 (40¢) | $27,586 | -$27,586 | ❌ Perdida |
 | cosmicxbt | Spread: Bills (-6.5) | Bills | 1.25 (80¢) | $48,643 | +$12,161 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Bills | Bills | 1.06 (94¢) | $26,406 | +$1,686 | ✅ Ganada |
