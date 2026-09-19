@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 13:35:41 (hora de Perú)
+Actualizado: 2026-09-19 13:37:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3070**  ($166,214,926 en total)
-- Resueltas: **3015** — 1817 ganadas / 1198 perdidas (**60%** de acierto)
-- Pendientes: 39
+- Resueltas: **3016** — 1817 ganadas / 1199 perdidas (**60%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,337,733** sobre $163,925,281 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,366** sobre $296,900 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,362,733** sobre $163,950,281 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,466** sobre $297,000 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | wr0ngw4yb3tt0r | Coastal Carolina vs. Delaware | Delaware | 1.56 (64¢) | $28,947 | — | ⏳ Pendiente |
 | Berniepaidoff | Coastal Carolina vs. Delaware | Delaware | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
 | Berniepaidoff | Arizona State vs. Kansas | Arizona State | 1.49 (67¢) | $50,000 | — | ⏳ Pendiente |
-| kkookkoo | Rennes: Sascha Gueymard-Wayenburg vs Titouan Droguet | Titouan Droguet | 1.61 (62¢) | $25,000 | — | ⏳ Pendiente |
+| kkookkoo | Rennes: Sascha Gueymard-Wayenburg vs Titouan Droguet | Titouan Droguet | 1.61 (62¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Ancient-Strike | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.33 (75¢) | $35,977 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Karmine Corp vs Movistar KOI - Game 1 Winner | Karmine Corp | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
 | primm | Spread: South Alabama (-6.5) | South Alabama | 1.92 (52¢) | $27,174 | — | ⏳ Pendiente |
