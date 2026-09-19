@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 22:06:50 (hora de Perú)
+Actualizado: 2026-09-18 22:08:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3005**  ($163,129,449 en total)
+- Apuestas registradas: **3006**  ($163,185,669 en total)
 - Resueltas: **2972** — 1786 ganadas / 1186 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 414
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 62 | 46 | 1 | 57% | $4,857,409 | +$425,231 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 36 | 25 | 1 | 59% | $3,423,969 | -$315,555 |
+| wr0ngw4yb3tt0r | 36 | 25 | 2 | 59% | $3,480,189 | -$315,555 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 23 | 32 | 0 | 42% | $2,811,638 | -$652,016 |
 | Sassy-Bucket | 26 | 28 | 1 | 48% | $2,630,653 | -$167,209 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.06 (94¢) | $56,220 | — | ⏳ Pendiente |
 | ethanaz | Houston vs. Texas Tech | Texas Tech | 1.47 (68¢) | $41,704 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.39 (72¢) | $26,220 | — | ⏳ Pendiente |
 | HVAB | Guadalajara Open Akron: Liudmila Samsonova vs Peyton Stearns | Peyton Stearns | 1.47 (68¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 1.67 (60¢) | $34,354 | -$34,354 | ❌ Perdida |
 | HMLSF | Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs | Natus Vincere | 2.63 (38¢) | $25,420 | -$25,420 | ❌ Perdida |
 | mariabelo | Will FC Bayern München win on 2026-09-18? | Yes | 1.08 (93¢) | $32,763 | +$2,466 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: 3DMAX vs EYEBALLERS (BO1) - Logitech G Play Connect Group B | EYEBALLERS | 2.50 (40¢) | $27,586 | -$27,586 | ❌ Perdida |
