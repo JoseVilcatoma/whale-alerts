@@ -45539,5 +45539,20 @@
     "status": "pending",
     "ultimo_fill": 1789819478,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6185,
+    "timestamp": 1789820620,
+    "username": "raybanman",
+    "wallet": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+    "slug": "epl-new-hul-2026-09-19-new",
+    "title": "Will Newcastle United FC win on 2026-09-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 106750.0,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1789820620,
+    "fills": 1
   }
 ]
