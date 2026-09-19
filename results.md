@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 11:09:12 (hora de Perú)
+Actualizado: 2026-09-19 11:11:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3068**  ($166,159,030 en total)
+- Apuestas registradas: **3069**  ($166,184,120 en total)
 - Resueltas: **3008** — 1811 ganadas / 1197 perdidas (**60%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 420
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 9 | 0 | 59% | $794,569 | -$51,522 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
+| phonesculptor | 9 | 0 | 3 | 100% | $787,999 | +$78,610 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
-| phonesculptor | 9 | 0 | 2 | 100% | $762,909 | +$78,610 |
 
 _(mostrando los 40 de mayor monto, de 420 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| phonesculptor | Will Coventry City FC win on 2026-09-19? | No | 1.19 (84¢) | $25,090 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 2.33 (43¢) | $45,082 | — | ⏳ Pendiente |
 | tikstt2 | Spread: Nottingham Forest FC (-1.5) | Coventry City FC | 1.49 (67¢) | $33,203 | — | ⏳ Pendiente |
 | sbsigner | Will Nottingham Forest FC vs. Coventry City FC end in a draw? | No | 1.32 (76¢) | $30,611 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | 0x361b…74fe | Will FC Barcelona win on 2026-09-19? | Yes | 1.25 (80¢) | $138,246 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-19? | Yes | 1.79 (56¢) | $75,249 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Tottenham Hotspur FC win on 2026-09-19? | Yes | 2.04 (49¢) | $33,507 | -$33,507 | ❌ Perdida |
-| gransaaa | Will Arsenal FC win on 2026-09-19? | No | 2.27 (44¢) | $29,244 | — | ⏳ Pendiente |
