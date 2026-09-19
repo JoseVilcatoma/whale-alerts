@@ -45329,5 +45329,20 @@
     "status": "pending",
     "ultimo_fill": 1789812004,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6171,
+    "timestamp": 1789812614,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-ig1-jdg-2026-09-19-game2",
+    "title": "LoL: Invictus Gaming vs JD Gaming - Game 2 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 116062.2886985487,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1789812608,
+    "fills": 2
   }
 ]
