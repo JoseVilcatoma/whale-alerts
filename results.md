@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 10:46:46 (hora de Perú)
+Actualizado: 2026-09-19 10:48:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3062**  ($165,928,292 en total)
-- Resueltas: **3006** — 1809 ganadas / 1197 perdidas (**60%** de acierto)
+- Apuestas registradas: **3063**  ($165,979,252 en total)
+- Resueltas: **3007** — 1810 ganadas / 1197 perdidas (**60%** de acierto)
 - Pendientes: 40
 - Apostadores distintos: 419
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,528,970** sobre $163,376,062 apostados (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,527,552** sobre $163,405,828 apostados (ROI **-0.9%**)
 - Copiando $100 fijo en cada una: **-$10,670** sobre $296,100 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 9 | 0 | 59% | $794,569 | -$51,522 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
-| ethanaz | 8 | 2 | 0 | 80% | $739,439 | -$74,652 |
+| phonesculptor | 9 | 0 | 2 | 100% | $762,909 | +$78,610 |
 
 _(mostrando los 40 de mayor monto, de 419 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 419 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| phonesculptor | Tulane vs. Kansas State | Kansas State | 1.10 (91¢) | $50,960 | — | ⏳ Pendiente |
 | itwillallbeok | North Carolina vs. Clemson | North Carolina | 2.44 (41¢) | $98,114 | — | ⏳ Pendiente |
 | Kch-Temp | NC State vs. Vanderbilt: O/U 50.5 | Over 50.5 | 1.92 (52¢) | $53,602 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Coastal Carolina vs. Delaware | Delaware | 1.56 (64¢) | $28,947 | — | ⏳ Pendiente |
@@ -94,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 419 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | M80 | 2.00 (50¢) | $28,021 | — | ⏳ Pendiente |
 | primm | Spread: Georgia (-24.5) | Georgia | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.13 (47¢) | $70,333 | — | ⏳ Pendiente |
-| AGUGava | Newcastle United FC vs. Hull City AFC: O/U 3.5 | Under 3.5 | 1.59 (63¢) | $29,766 | — | ⏳ Pendiente |
+| AGUGava | Newcastle United FC vs. Hull City AFC: O/U 3.5 | Under 3.5 | 1.59 (63¢) | $29,766 | +$1,417 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Borussia Mönchengladbach win on 2026-09-19? | No | 1.43 (70¢) | $44,510 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Coastal Carolina vs. Delaware | Delaware | 1.54 (65¢) | $30,793 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: LSU (-3.5) | Ole Miss | 1.82 (55¢) | $25,849 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 419 en total)_
 | wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.06 (94¢) | $56,220 | +$3,589 | ✅ Ganada |
 | ethanaz | Houston vs. Texas Tech | Texas Tech | 1.47 (68¢) | $41,704 | +$19,625 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.39 (72¢) | $26,220 | +$10,197 | ✅ Ganada |
-| HVAB | Guadalajara Open Akron: Liudmila Samsonova vs Peyton Stearns | Peyton Stearns | 1.47 (68¢) | $50,000 | +$23,529 | ✅ Ganada |
