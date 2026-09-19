@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 09:55:49 (hora de Perú)
+Actualizado: 2026-09-19 09:57:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3048**  ($165,274,573 en total)
+- Apuestas registradas: **3050**  ($165,356,975 en total)
 - Resueltas: **3006** — 1809 ganadas / 1197 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Pendientes: 28
 - Apostadores distintos: 417
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elaran1993 | Will Paris FC win on 2026-09-19? | Yes | 1.85 (54¢) | $32,589 | — | ⏳ Pendiente |
+| beeemw | Will Arsenal FC win on 2026-09-19? | No | 1.10 (91¢) | $49,813 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 3.45 (29¢) | $40,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Delaware (-4.5) | Delaware | 1.89 (53¢) | $27,825 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Brighton & Hove Albion FC vs. Arsenal FC: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $25,069 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 | 3648393489047 | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Shopify Rebellion vs Sentinels (BO5) - LCS Playoffs | Sentinels | 1.56 (64¢) | $31,578 | -$31,578 | ❌ Perdida |
 | sleepy-panda | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
-| martingaleking | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $49,561 | +$4,310 | ✅ Ganada |
-| pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $40,334 | -$40,334 | ❌ Perdida |
