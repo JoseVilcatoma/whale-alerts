@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 20:45:59 (hora de Perú)
+Actualizado: 2026-09-18 20:48:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2999**  ($162,925,187 en total)
-- Resueltas: **2957** — 1777 ganadas / 1180 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Resueltas: **2959** — 1779 ganadas / 1180 perdidas (**60%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,561,760** sobre $161,365,234 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,732** sobre $291,300 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,530,197** sobre $161,422,734 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,622** sobre $291,500 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 223 | 118 | 6 | 65% | $23,244,895 | +$1,050,772 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 224 | 118 | 5 | 65% | $23,244,895 | +$1,068,272 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 66 | 1 | 54% | $6,005,784 | -$125,586 |
 | totoro3miyazaki | 33 | 17 | 0 | 66% | $5,602,826 | +$321,888 |
@@ -82,13 +82,13 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | sleepy-panda | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
 | martingaleking | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $49,561 | — | ⏳ Pendiente |
 | pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $40,334 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
 | Elaran1993 | Boston Red Sox vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.75 (57¢) | $115,864 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Pittsburgh Pirates (-1.5) | Kansas City Royals | 1.79 (56¢) | $30,912 | — | ⏳ Pendiente |
 | vjnn | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $25,200 | — | ⏳ Pendiente |
 | SDTrading | Spread: Miami (FL) (-20.5) | Wake Forest | 1.96 (51¢) | $25,220 | — | ⏳ Pendiente |
-| kkookkoo | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.56 (64¢) | $25,000 | — | ⏳ Pendiente |
+| kkookkoo | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.56 (64¢) | $25,000 | +$14,062 | ✅ Ganada |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $48,063 | — | ⏳ Pendiente |
 | Flaznorp | Will Brentford FC win on 2026-09-18? | Yes | 1.45 (69¢) | $32,539 | +$14,619 | ✅ Ganada |
