@@ -45326,7 +45326,7 @@
     "side": "BUY",
     "usd": 25000.000001474567,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789812004,
     "fills": 1
   },
@@ -45341,7 +45341,7 @@
     "side": "BUY",
     "usd": 116062.2886985487,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789812608,
     "fills": 2
   },
@@ -45643,6 +45643,21 @@
     "odds_at_bet": 55,
     "status": "pending",
     "ultimo_fill": 1789823662,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6196,
+    "timestamp": 1789824500,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-coast-del-2026-09-19",
+    "title": "Coastal Carolina vs. Delaware",
+    "outcome": "Delaware",
+    "side": "BUY",
+    "usd": 30792.684,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1789824500,
     "fills": 1
   }
 ]
