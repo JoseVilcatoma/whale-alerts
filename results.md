@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 17:17:44 (hora de Perú)
+Actualizado: 2026-09-19 17:19:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3093**  ($167,254,483 en total)
+- Apuestas registradas: **3094**  ($167,354,642 en total)
 - Resueltas: **3045** — 1835 ganadas / 1210 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 420
 
 ### Balance
@@ -61,9 +61,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 | phonesculptor | 10 | 2 | 1 | 83% | $841,168 | -$14,979 |
+| ethanaz | 8 | 2 | 1 | 80% | $839,598 | -$74,652 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 9 | 1 | 59% | $821,930 | -$51,522 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
-| plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 
 _(mostrando los 40 de mayor monto, de 420 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Florida State vs. Alabama | Florida State | 2.08 (48¢) | $100,159 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.69 (59¢) | $67,102 | — | ⏳ Pendiente |
 | Eztennis | LoL: LYON vs Cloud9 (BO5) - LCS Playoffs | LYON | 1.37 (73¢) | $39,275 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: LYON vs Cloud9 - Game 3 Winner | LYON | 1.56 (64¢) | $40,418 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Coastal Carolina vs. Delaware | Delaware | 1.54 (65¢) | $30,793 | +$16,581 | ✅ Ganada |
 | Kch-Temp | Spread: LSU (-3.5) | Ole Miss | 1.82 (55¢) | $25,849 | — | ⏳ Pendiente |
 | Kch-Temp | LSU vs. Ole Miss | Ole Miss | 2.38 (42¢) | $28,275 | — | ⏳ Pendiente |
-| lucidarderi | Will Newcastle United FC win on 2026-09-19? | Yes | 1.61 (62¢) | $119,970 | +$73,530 | ✅ Ganada |
