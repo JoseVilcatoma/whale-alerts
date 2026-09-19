@@ -46141,5 +46141,20 @@
     "status": "pending",
     "ultimo_fill": 1789834222,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6243,
+    "timestamp": 1789836829,
+    "username": "winwin518168",
+    "wallet": "0x682005011dd19c1e986cb060ed6ab83845f21c19",
+    "slug": "wnba-phx-dal-2026-09-19-spread-home-10pt5",
+    "title": "Spread: Dallas Wings (-10.5)",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "usd": 30806.1612,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789836829,
+    "fills": 1
   }
 ]

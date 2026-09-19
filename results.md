@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 11:52:20 (hora de Perú)
+Actualizado: 2026-09-19 11:54:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3069**  ($166,184,120 en total)
+- Apuestas registradas: **3070**  ($166,214,926 en total)
 - Resueltas: **3008** — 1811 ganadas / 1197 perdidas (**60%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 420
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| winwin518168 | Spread: Dallas Wings (-10.5) | Dallas Wings | 1.96 (51¢) | $30,806 | — | ⏳ Pendiente |
 | phonesculptor | Will Coventry City FC win on 2026-09-19? | No | 1.19 (84¢) | $25,090 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 2.33 (43¢) | $45,082 | — | ⏳ Pendiente |
 | tikstt2 | Spread: Nottingham Forest FC (-1.5) | Coventry City FC | 1.49 (67¢) | $33,203 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | 0x361b…74fe | Will FC Barcelona win on 2026-09-19? | Yes | 1.25 (80¢) | $72,671 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will FC Barcelona win on 2026-09-19? | Yes | 1.25 (80¢) | $138,246 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-19? | Yes | 1.79 (56¢) | $75,249 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Will Tottenham Hotspur FC win on 2026-09-19? | Yes | 2.04 (49¢) | $33,507 | -$33,507 | ❌ Perdida |
