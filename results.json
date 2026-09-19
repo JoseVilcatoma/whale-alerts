@@ -45299,5 +45299,20 @@
     "status": "pending",
     "ultimo_fill": 1789800199,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 6169,
+    "timestamp": 1789809159,
+    "username": "FORTNITEMASTER888",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-ig1-jdg-2026-09-19",
+    "title": "LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 28783.944,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1789809159,
+    "fills": 1
   }
 ]
