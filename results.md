@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 08:56:32 (hora de Perú)
+Actualizado: 2026-09-19 08:58:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3042**  ($165,064,180 en total)
-- Resueltas: **2996** — 1802 ganadas / 1194 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Resueltas: **2997** — 1802 ganadas / 1195 perdidas (**60%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 417
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,678,060** sobre $162,926,698 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,898** sobre $295,100 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,707,581** sobre $162,956,219 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,998** sobre $295,200 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 17 | 22 | 1 | 44% | $1,177,356 | -$217,783 |
 | surfandturf | 7 | 2 | 0 | 78% | $1,107,101 | +$15,557 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
-| Jsram | 12 | 12 | 2 | 50% | $1,014,843 | -$157,941 |
+| Jsram | 12 | 13 | 1 | 48% | $1,014,843 | -$187,462 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 | StasPanda | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Karmine Corp | 1.37 (73¢) | $26,622 | — | ⏳ Pendiente |
 | lfg100k | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Rayo Vallecano de Madrid win on 2026-09-19? | No | 1.52 (66¢) | $157,202 | — | ⏳ Pendiente |
-| Jsram | Tottenham Hotspur FC vs. Aston Villa FC: O/U 3.5 | Under 3.5 | 1.61 (62¢) | $29,521 | — | ⏳ Pendiente |
+| Jsram | Tottenham Hotspur FC vs. Aston Villa FC: O/U 3.5 | Under 3.5 | 1.61 (62¢) | $29,521 | -$29,521 | ❌ Perdida |
 | Netrol | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | Invictus Gaming | 2.44 (41¢) | $30,399 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 1.67 (60¢) | $58,851 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
