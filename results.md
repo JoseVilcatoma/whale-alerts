@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 14:54:06 (hora de Perú)
+Actualizado: 2026-09-19 14:56:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3073**  ($166,353,339 en total)
-- Resueltas: **3025** — 1823 ganadas / 1202 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Resueltas: **3027** — 1824 ganadas / 1203 perdidas (**60%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,313,044** sobre $164,265,727 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,340** sobre $297,900 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,241,736** sobre $164,332,350 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,195** sobre $298,100 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | Pwaddler | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.69 (59¢) | $52,498 | — | ⏳ Pendiente |
 | Elaran1993 | Will Paris FC win on 2026-09-19? | Yes | 1.85 (54¢) | $68,848 | +$58,648 | ✅ Ganada |
 | beeemw | Will Arsenal FC win on 2026-09-19? | No | 1.10 (91¢) | $49,813 | +$4,927 | ✅ Ganada |
-| fantasy7788 | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 3.45 (29¢) | $40,000 | — | ⏳ Pendiente |
+| fantasy7788 | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 3.45 (29¢) | $40,000 | +$97,931 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: Delaware (-4.5) | Delaware | 1.89 (53¢) | $27,825 | +$24,675 | ✅ Ganada |
 | Roadto1mlesgooo | Brighton & Hove Albion FC vs. Arsenal FC: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $25,069 | +$3,419 | ✅ Ganada |
 | Jsram | Spread: FC Barcelona (-1.5) | Sevilla FC | 2.22 (45¢) | $45,718 | — | ⏳ Pendiente |
@@ -117,7 +117,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | raybanman | Will Newcastle United FC win on 2026-09-19? | Yes | 1.64 (61¢) | $106,750 | +$68,250 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $34,395 | +$29,300 | ✅ Ganada |
 | fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | JD Gaming | 2.13 (47¢) | $28,713 | -$28,713 | ❌ Perdida |
-| StasPanda | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Karmine Corp | 1.37 (73¢) | $26,622 | — | ⏳ Pendiente |
+| StasPanda | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Karmine Corp | 1.37 (73¢) | $26,622 | -$26,622 | ❌ Perdida |
 | lfg100k | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.72 (58¢) | $25,000 | +$18,103 | ✅ Ganada |
 | totoro3miyazaki | Will Rayo Vallecano de Madrid win on 2026-09-19? | No | 1.52 (66¢) | $157,202 | +$80,983 | ✅ Ganada |
 | Jsram | Tottenham Hotspur FC vs. Aston Villa FC: O/U 3.5 | Under 3.5 | 1.61 (62¢) | $29,521 | -$29,521 | ❌ Perdida |
