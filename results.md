@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 18:50:33 (hora de Perú)
+Actualizado: 2026-09-19 18:52:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3104**  ($167,893,362 en total)
-- Resueltas: **3051** — 1838 ganadas / 1213 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Resueltas: **3052** — 1839 ganadas / 1213 perdidas (**60%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,350,150** sobre $165,469,907 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,429** sobre $300,500 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,321,570** sobre $165,499,654 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,332** sobre $300,600 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -123,7 +123,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | Diabolical-Prize | LoL: Karmine Corp vs Movistar KOI - Game 1 Winner | Karmine Corp | 1.47 (68¢) | $34,000 | -$34,000 | ❌ Perdida |
 | primm | Spread: South Alabama (-6.5) | South Alabama | 1.92 (52¢) | $27,174 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.30 (77¢) | $50,000 | -$50,000 | ❌ Perdida |
-| primm | Spread: Toledo (-5.5) | Temple | 1.96 (51¢) | $29,747 | — | ⏳ Pendiente |
+| primm | Spread: Toledo (-5.5) | Temple | 1.96 (51¢) | $29,747 | +$28,580 | ✅ Ganada |
 | Pwaddler | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.69 (59¢) | $52,498 | — | ⏳ Pendiente |
 | Elaran1993 | Will Paris FC win on 2026-09-19? | Yes | 1.85 (54¢) | $68,848 | +$58,648 | ✅ Ganada |
 | beeemw | Will Arsenal FC win on 2026-09-19? | No | 1.10 (91¢) | $49,813 | +$4,927 | ✅ Ganada |
