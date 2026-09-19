@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 22:52:31 (hora de Perú)
+Actualizado: 2026-09-18 22:54:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3008**  ($163,309,375 en total)
-- Resueltas: **2980** — 1793 ganadas / 1187 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Resueltas: **2985** — 1798 ganadas / 1187 perdidas (**60%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,470,396** sobre $162,191,956 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,573** sobre $293,500 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,416,677** sobre $162,431,786 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,424** sobre $294,000 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 62 | 46 | 1 | 57% | $4,857,409 | +$425,231 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 36 | 25 | 2 | 59% | $3,480,189 | -$315,555 |
+| wr0ngw4yb3tt0r | 38 | 25 | 0 | 60% | $3,480,189 | -$301,769 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 23 | 32 | 0 | 42% | $2,811,638 | -$652,016 |
 | Sassy-Bucket | 26 | 28 | 1 | 48% | $2,630,653 | -$167,209 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 9 | 0 | 59% | $794,569 | -$51,522 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
-| ethanaz | 7 | 2 | 1 | 78% | $739,439 | -$94,278 |
+| ethanaz | 8 | 2 | 0 | 80% | $739,439 | -$74,652 |
 
 _(mostrando los 40 de mayor monto, de 414 en total)_
 
@@ -72,12 +72,12 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | coinlaundry | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $35,821 | — | ⏳ Pendiente |
-| curie | Houston vs. Texas Tech | Texas Tech | 1.08 (93¢) | $87,885 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.06 (94¢) | $56,220 | — | ⏳ Pendiente |
-| ethanaz | Houston vs. Texas Tech | Texas Tech | 1.47 (68¢) | $41,704 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.39 (72¢) | $26,220 | — | ⏳ Pendiente |
+| curie | Houston vs. Texas Tech | Texas Tech | 1.08 (93¢) | $87,885 | +$6,615 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.06 (94¢) | $56,220 | +$3,589 | ✅ Ganada |
+| ethanaz | Houston vs. Texas Tech | Texas Tech | 1.47 (68¢) | $41,704 | +$19,625 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.39 (72¢) | $26,220 | +$10,197 | ✅ Ganada |
 | HVAB | Guadalajara Open Akron: Liudmila Samsonova vs Peyton Stearns | Peyton Stearns | 1.47 (68¢) | $50,000 | +$23,529 | ✅ Ganada |
-| 0x6db5…e279 | Houston vs. Texas Tech | Texas Tech | 1.49 (67¢) | $27,801 | — | ⏳ Pendiente |
+| 0x6db5…e279 | Houston vs. Texas Tech | Texas Tech | 1.49 (67¢) | $27,801 | +$13,693 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami Marlins vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $30,733 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Colorado Rockies | Seattle Mariners | 1.52 (66¢) | $27,805 | +$14,324 | ✅ Ganada |
 | SharkbetX-com | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.96 (51¢) | $43,117 | — | ⏳ Pendiente |
