@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 10:42:43 (hora de Perú)
+Actualizado: 2026-09-19 10:44:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3061**  ($165,830,179 en total)
+- Apuestas registradas: **3062**  ($165,928,292 en total)
 - Resueltas: **3006** — 1809 ganadas / 1197 perdidas (**60%** de acierto)
-- Pendientes: 39
-- Apostadores distintos: 418
+- Pendientes: 40
+- Apostadores distintos: 419
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | ethanaz | 8 | 2 | 0 | 80% | $739,439 | -$74,652 |
 
-_(mostrando los 40 de mayor monto, de 418 en total)_
+_(mostrando los 40 de mayor monto, de 419 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| itwillallbeok | North Carolina vs. Clemson | North Carolina | 2.44 (41¢) | $98,114 | — | ⏳ Pendiente |
 | Kch-Temp | NC State vs. Vanderbilt: O/U 50.5 | Over 50.5 | 1.92 (52¢) | $53,602 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Coastal Carolina vs. Delaware | Delaware | 1.56 (64¢) | $28,947 | — | ⏳ Pendiente |
 | Berniepaidoff | Coastal Carolina vs. Delaware | Delaware | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 418 en total)_
 | ethanaz | Houston vs. Texas Tech | Texas Tech | 1.47 (68¢) | $41,704 | +$19,625 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.39 (72¢) | $26,220 | +$10,197 | ✅ Ganada |
 | HVAB | Guadalajara Open Akron: Liudmila Samsonova vs Peyton Stearns | Peyton Stearns | 1.47 (68¢) | $50,000 | +$23,529 | ✅ Ganada |
-| 0x6db5…e279 | Houston vs. Texas Tech | Texas Tech | 1.49 (67¢) | $27,801 | +$13,693 | ✅ Ganada |
