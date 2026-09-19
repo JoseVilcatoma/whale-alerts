@@ -46426,5 +46426,20 @@
     "status": "pending",
     "ultimo_fill": 1789853785,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6300,
+    "timestamp": 1789854766,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-vtech-mary-2026-09-19",
+    "title": "Virginia Tech vs. Maryland",
+    "outcome": "Maryland",
+    "side": "BUY",
+    "usd": 65725.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1789854766,
+    "fills": 1
   }
 ]
