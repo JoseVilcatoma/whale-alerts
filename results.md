@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 21:12:34 (hora de Perú)
+Actualizado: 2026-09-18 21:14:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3002**  ($163,011,525 en total)
-- Resueltas: **2964** — 1782 ganadas / 1182 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Resueltas: **2965** — 1782 ganadas / 1183 perdidas (**60%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,526,228** sobre $161,561,879 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,577** sobre $292,000 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,552,900** sobre $161,588,551 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,677** sobre $292,100 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 | gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 8 | 1 | 62% | $794,569 | -$24,850 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 9 | 0 | 59% | $794,569 | -$51,522 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | ethanaz | 7 | 2 | 0 | 78% | $697,735 | -$94,278 |
@@ -112,7 +112,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | surfandturf | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $94,000 | +$6,000 | ✅ Ganada |
 | watcherz88 | Caldas da Rainha: Susan Bandecchi vs Lisa Pigato | Susan Bandecchi | 1.33 (75¢) | $29,843 | -$29,843 | ❌ Perdida |
 | Roadto1mlesgooo | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $37,091 | +$2,368 | ✅ Ganada |
-| HMLSF | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies | 2.00 (50¢) | $26,673 | — | ⏳ Pendiente |
+| HMLSF | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies | 2.00 (50¢) | $26,673 | -$26,673 | ❌ Perdida |
 | PerpsKing | Spread: Miami (FL) (-19.5) | Miami (FL) | 1.85 (54¢) | $36,651 | — | ⏳ Pendiente |
 | Feromont | Houston vs. Texas Tech | Texas Tech | 1.33 (75¢) | $26,250 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: NRG vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs | Aurora Gaming | 1.30 (77¢) | $67,659 | +$20,210 | ✅ Ganada |
