@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 07:37:54 (hora de Perú)
+Actualizado: 2026-09-19 07:39:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3031**  ($164,575,929 en total)
+- Apuestas registradas: **3032**  ($164,627,784 en total)
 - Resueltas: **2991** — 1800 ganadas / 1191 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 416
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 416 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | James Madison vs. San Diego State: O/U 46.5 | Over 46.5 | 2.08 (48¢) | $51,855 | — | ⏳ Pendiente |
 | SDTrading | Spread: Penn State (-39.5) | Penn State | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | raybanman | Will Newcastle United FC win on 2026-09-19? | Yes | 1.64 (61¢) | $106,750 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $34,395 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 416 en total)_
 | totoro3miyazaki | Will Brentford FC win on 2026-09-18? | Yes | 2.70 (37¢) | $64,027 | +$109,020 | ✅ Ganada |
 | pilimili | Will Chelsea FC win on 2026-09-18? | Yes | 2.78 (36¢) | $30,000 | -$30,000 | ❌ Perdida |
 | SDTrading | Chicago Cubs vs. Cincinnati Reds | Chicago Cubs | 1.75 (57¢) | $27,730 | -$27,730 | ❌ Perdida |
-| totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $57,417 | +$32,297 | ✅ Ganada |
