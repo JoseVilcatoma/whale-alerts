@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 06:11:05 (hora de Perú)
+Actualizado: 2026-09-19 06:13:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3021**  ($164,051,977 en total)
+- Apuestas registradas: **3023**  ($164,141,226 en total)
 - Resueltas: **2991** — 1800 ganadas / 1191 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Pendientes: 16
 - Apostadores distintos: 415
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 38 | 25 | 0 | 60% | $3,480,189 | -$301,769 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Diabolical-Prize | 23 | 32 | 3 | 42% | $3,021,501 | -$652,016 |
+| Diabolical-Prize | 23 | 32 | 4 | 42% | $3,080,352 | -$652,016 |
 | Sassy-Bucket | 26 | 29 | 0 | 47% | $2,630,653 | -$206,240 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 415 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Netrol | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | Invictus Gaming | 2.44 (41¢) | $30,399 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 1.67 (60¢) | $58,851 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play Connect Playoffs | Luminosity | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
 | Takon88 | Will CA Osasuna win on 2026-09-19? | No | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 415 en total)_
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Chelsea FC win on 2026-09-18? | No | 1.61 (62¢) | $26,828 | +$16,443 | ✅ Ganada |
 | totoro3miyazaki | Will Chelsea FC win on 2026-09-18? | No | 1.56 (64¢) | $261,379 | +$147,026 | ✅ Ganada |
 | surfandturf | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $94,000 | +$6,000 | ✅ Ganada |
-| watcherz88 | Caldas da Rainha: Susan Bandecchi vs Lisa Pigato | Susan Bandecchi | 1.33 (75¢) | $29,843 | -$29,843 | ❌ Perdida |
-| Roadto1mlesgooo | Will FC Bayern München win on 2026-09-18? | Yes | 1.06 (94¢) | $37,091 | +$2,368 | ✅ Ganada |
