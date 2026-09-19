@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 21:18:50 (hora de Perú)
+Actualizado: 2026-09-18 21:20:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3003**  ($163,061,525 en total)
-- Resueltas: **2965** — 1782 ganadas / 1183 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Resueltas: **2966** — 1783 ganadas / 1183 perdidas (**60%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,552,900** sobre $161,588,551 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,677** sobre $292,100 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,465,494** sobre $161,704,416 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,601** sobre $292,200 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | martingaleking | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $49,561 | — | ⏳ Pendiente |
 | pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $40,334 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
-| Elaran1993 | Boston Red Sox vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.75 (57¢) | $115,864 | — | ⏳ Pendiente |
+| Elaran1993 | Boston Red Sox vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.75 (57¢) | $115,864 | +$87,406 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Pittsburgh Pirates (-1.5) | Kansas City Royals | 1.79 (56¢) | $30,912 | -$30,912 | ❌ Perdida |
 | vjnn | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | Sassy-Bucket | Chicago Cubs vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $25,200 | +$34,800 | ✅ Ganada |
