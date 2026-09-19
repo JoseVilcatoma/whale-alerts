@@ -46351,5 +46351,20 @@
     "status": "pending",
     "ultimo_fill": 1789850784,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6291,
+    "timestamp": 1789851663,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sf-lad-2026-09-19-total-7pt5",
+    "title": "San Francisco Giants vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 32842.9968,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1789851663,
+    "fills": 1
   }
 ]

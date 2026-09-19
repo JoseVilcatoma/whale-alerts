@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 15:59:29 (hora de Perú)
+Actualizado: 2026-09-19 16:01:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3083**  ($166,847,030 en total)
+- Apuestas registradas: **3084**  ($166,879,873 en total)
 - Resueltas: **3041** — 1832 ganadas / 1209 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 420
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 62 | 47 | 1 | 57% | $4,957,409 | +$377,168 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 40 | 26 | 2 | 61% | $3,655,256 | -$304,035 |
+| wr0ngw4yb3tt0r | 40 | 26 | 3 | 61% | $3,688,099 | -$304,035 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 0 | 45% | $3,229,966 | -$579,176 |
 | Sassy-Bucket | 26 | 29 | 1 | 47% | $2,658,312 | -$206,240 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | San Francisco Giants vs. Los Angeles Dodgers: O/U 7.5 | Over 7.5 | 2.08 (48¢) | $32,843 | — | ⏳ Pendiente |
 | pleaseplease123 | Washington Nationals vs. St. Louis Cardinals | Washington Nationals | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | HMLSF | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.92 (52¢) | $27,361 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Temple vs. Toledo | Temple | 1.43 (70¢) | $29,991 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | StasPanda | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Karmine Corp | 1.37 (73¢) | $26,622 | -$26,622 | ❌ Perdida |
 | lfg100k | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.72 (58¢) | $25,000 | +$18,103 | ✅ Ganada |
 | totoro3miyazaki | Will Rayo Vallecano de Madrid win on 2026-09-19? | No | 1.52 (66¢) | $157,202 | +$80,983 | ✅ Ganada |
-| Jsram | Tottenham Hotspur FC vs. Aston Villa FC: O/U 3.5 | Under 3.5 | 1.61 (62¢) | $29,521 | -$29,521 | ❌ Perdida |
