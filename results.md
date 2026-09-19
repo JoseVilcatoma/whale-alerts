@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-18 21:50:25 (hora de Perú)
+Actualizado: 2026-09-18 21:52:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3005**  ($163,129,449 en total)
-- Resueltas: **2969** — 1785 ganadas / 1184 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Resueltas: **2971** — 1785 ganadas / 1186 perdidas (**60%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 414
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,449,019** sobre $161,796,743 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,552** sobre $292,500 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,530,510** sobre $161,878,234 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,752** sobre $292,700 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 0 | 54% | $6,005,784 | -$156,498 |
 | totoro3miyazaki | 33 | 17 | 0 | 66% | $5,602,826 | +$321,888 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 62 | 44 | 3 | 58% | $4,857,409 | +$506,723 |
+| pleaseplease123 | 62 | 46 | 1 | 57% | $4,857,409 | +$425,231 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 36 | 25 | 1 | 59% | $3,423,969 | -$315,555 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Shopify Rebellion vs Sentinels (BO5) - LCS Playoffs | Sentinels | 1.56 (64¢) | $31,578 | -$31,578 | ❌ Perdida |
 | sleepy-panda | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
 | martingaleking | Miami (FL) vs. Wake Forest | Miami (FL) | 1.09 (92¢) | $49,561 | — | ⏳ Pendiente |
-| pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $40,334 | — | ⏳ Pendiente |
+| pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $40,334 | -$40,334 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
 | Elaran1993 | Boston Red Sox vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.75 (57¢) | $115,864 | +$87,406 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Pittsburgh Pirates (-1.5) | Kansas City Royals | 1.79 (56¢) | $30,912 | -$30,912 | ❌ Perdida |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 414 en total)_
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.00 (50¢) | $48,063 | — | ⏳ Pendiente |
 | Flaznorp | Will Brentford FC win on 2026-09-18? | Yes | 1.45 (69¢) | $32,539 | +$14,619 | ✅ Ganada |
-| pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $41,157 | — | ⏳ Pendiente |
+| pleaseplease123 | Milwaukee Brewers vs. Baltimore Orioles: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $41,157 | -$41,157 | ❌ Perdida |
 | pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox | 2.27 (44¢) | $25,873 | +$32,929 | ✅ Ganada |
 | Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $25,455 | -$25,455 | ❌ Perdida |
 | totoro3miyazaki | Will Brentford FC win on 2026-09-18? | Yes | 2.70 (37¢) | $64,027 | +$109,020 | ✅ Ganada |
