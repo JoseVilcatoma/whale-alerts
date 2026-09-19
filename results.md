@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 10:56:56 (hora de Perú)
+Actualizado: 2026-09-19 10:58:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3065**  ($166,050,134 en total)
+- Apuestas registradas: **3066**  ($166,080,745 en total)
 - Resueltas: **3008** — 1811 ganadas / 1197 perdidas (**60%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 419
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 419 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sbsigner | Will Nottingham Forest FC vs. Coventry City FC end in a draw? | No | 1.32 (76¢) | $30,611 | — | ⏳ Pendiente |
 | Sassy-Bucket | North Carolina vs. Clemson | Clemson | 1.69 (59¢) | $27,658 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Buffalo vs. Penn State: O/U 49.5 | Under 49.5 | 1.89 (53¢) | $43,223 | — | ⏳ Pendiente |
 | phonesculptor | Tulane vs. Kansas State | Kansas State | 1.10 (91¢) | $50,960 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 419 en total)_
 | gransaaa | Will Arsenal FC win on 2026-09-19? | No | 2.27 (44¢) | $29,244 | — | ⏳ Pendiente |
 | coinlaundry | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $35,821 | — | ⏳ Pendiente |
 | curie | Houston vs. Texas Tech | Texas Tech | 1.08 (93¢) | $87,885 | +$6,615 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Houston vs. Texas Tech | Texas Tech | 1.06 (94¢) | $56,220 | +$3,589 | ✅ Ganada |
