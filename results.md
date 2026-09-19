@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 09:19:08 (hora de Perú)
+Actualizado: 2026-09-19 09:21:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3043**  ($165,109,461 en total)
-- Resueltas: **2999** — 1804 ganadas / 1195 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Resueltas: **3006** — 1809 ganadas / 1197 perdidas (**60%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 417
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,602,078** sobre $163,142,205 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,861** sobre $295,400 (ROI **-3.7%**)
+- **Resultado de los apostadores: -$1,528,970** sobre $163,376,062 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,670** sobre $296,100 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 38 | 25 | 0 | 60% | $3,480,189 | -$301,769 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Diabolical-Prize | 25 | 33 | 3 | 43% | $3,195,966 | -$716,878 |
+| Diabolical-Prize | 26 | 33 | 2 | 44% | $3,195,966 | -$677,644 |
 | Sassy-Bucket | 26 | 29 | 0 | 47% | $2,630,653 | -$206,240 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 25 | 2 | 0 | 93% | $1,960,364 | +$88,444 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| BrotherObama | 19 | 19 | 2 | 50% | $1,765,407 | +$176,724 |
+| BrotherObama | 20 | 19 | 1 | 51% | $1,765,407 | +$203,807 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | ferrariChampions2026 | 24 | 14 | 0 | 63% | $1,523,504 | -$459,061 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -85,17 +85,17 @@ _(mostrando los 40 de mayor monto, de 417 en total)_
 | Kch-Temp | James Madison vs. San Diego State: O/U 46.5 | Over 46.5 | 2.08 (48¢) | $51,855 | — | ⏳ Pendiente |
 | SDTrading | Spread: Penn State (-39.5) | Penn State | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | raybanman | Will Newcastle United FC win on 2026-09-19? | Yes | 1.64 (61¢) | $106,750 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $34,395 | — | ⏳ Pendiente |
-| fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | JD Gaming | 2.13 (47¢) | $28,713 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.85 (54¢) | $34,395 | +$29,300 | ✅ Ganada |
+| fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | JD Gaming | 2.13 (47¢) | $28,713 | -$28,713 | ❌ Perdida |
 | StasPanda | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Karmine Corp | 1.37 (73¢) | $26,622 | — | ⏳ Pendiente |
-| lfg100k | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
+| lfg100k | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.72 (58¢) | $25,000 | +$18,103 | ✅ Ganada |
 | totoro3miyazaki | Will Rayo Vallecano de Madrid win on 2026-09-19? | No | 1.52 (66¢) | $157,202 | +$80,983 | ✅ Ganada |
 | Jsram | Tottenham Hotspur FC vs. Aston Villa FC: O/U 3.5 | Under 3.5 | 1.61 (62¢) | $29,521 | -$29,521 | ❌ Perdida |
-| Netrol | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | Invictus Gaming | 2.44 (41¢) | $30,399 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 1.67 (60¢) | $58,851 | — | ⏳ Pendiente |
-| BrotherObama | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
+| Netrol | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | Invictus Gaming | 2.44 (41¢) | $30,399 | -$30,399 | ❌ Perdida |
+| Diabolical-Prize | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 1.67 (60¢) | $58,851 | +$39,234 | ✅ Ganada |
+| BrotherObama | LoL: Invictus Gaming vs JD Gaming - Game 3 Winner | JD Gaming | 2.08 (48¢) | $25,000 | +$27,083 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play Connect Playoffs | Luminosity | 1.54 (65¢) | $65,000 | +$35,000 | ✅ Ganada |
-| Takon88 | Will CA Osasuna win on 2026-09-19? | No | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
+| Takon88 | Will CA Osasuna win on 2026-09-19? | No | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | phonesculptor | Will Coventry City FC win on 2026-09-19? | No | 1.19 (84¢) | $73,539 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play Connect Playoffs | Luminosity | 1.56 (64¢) | $28,800 | +$16,200 | ✅ Ganada |
 | Diabolical-Prize | LoL: Invictus Gaming vs JD Gaming - Game 2 Winner | JD Gaming | 1.69 (59¢) | $116,062 | -$116,062 | ❌ Perdida |
