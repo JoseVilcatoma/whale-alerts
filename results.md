@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 16:01:31 (hora de Perú)
+Actualizado: 2026-09-19 16:03:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3084**  ($166,879,873 en total)
+- Apuestas registradas: **3085**  ($166,919,857 en total)
 - Resueltas: **3041** — 1832 ganadas / 1209 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 420
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Berniepaidoff | Temple vs. Toledo | Temple | 1.67 (60¢) | $39,984 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | San Francisco Giants vs. Los Angeles Dodgers: O/U 7.5 | Over 7.5 | 2.08 (48¢) | $32,843 | — | ⏳ Pendiente |
 | pleaseplease123 | Washington Nationals vs. St. Louis Cardinals | Washington Nationals | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | HMLSF | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.92 (52¢) | $27,361 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | fantasy7788 | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | JD Gaming | 2.13 (47¢) | $28,713 | -$28,713 | ❌ Perdida |
 | StasPanda | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Karmine Corp | 1.37 (73¢) | $26,622 | -$26,622 | ❌ Perdida |
 | lfg100k | LoL: Invictus Gaming vs JD Gaming - Game 4 Winner | Invictus Gaming | 1.72 (58¢) | $25,000 | +$18,103 | ✅ Ganada |
-| totoro3miyazaki | Will Rayo Vallecano de Madrid win on 2026-09-19? | No | 1.52 (66¢) | $157,202 | +$80,983 | ✅ Ganada |
