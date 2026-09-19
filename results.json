@@ -46621,5 +46621,20 @@
     "status": "pending",
     "ultimo_fill": 1789859883,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6317,
+    "timestamp": 1789861041,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-flst-ala-2026-09-19",
+    "title": "Florida State vs. Alabama",
+    "outcome": "Alabama",
+    "side": "BUY",
+    "usd": 30294.560400000002,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1789861041,
+    "fills": 1
   }
 ]
