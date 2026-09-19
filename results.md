@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 08:08:43 (hora de Perú)
+Actualizado: 2026-09-19 08:10:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3033**  ($164,656,662 en total)
+- Apuestas registradas: **3034**  ($164,776,632 en total)
 - Resueltas: **2991** — 1800 ganadas / 1191 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 416
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 416 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lucidarderi | Will Newcastle United FC win on 2026-09-19? | Yes | 1.61 (62¢) | $119,970 | — | ⏳ Pendiente |
 | Jsram | Newcastle United FC vs. Hull City AFC: O/U 3.5 | Under 3.5 | 1.59 (63¢) | $28,877 | — | ⏳ Pendiente |
 | Kch-Temp | James Madison vs. San Diego State: O/U 46.5 | Over 46.5 | 2.08 (48¢) | $51,855 | — | ⏳ Pendiente |
 | SDTrading | Spread: Penn State (-39.5) | Penn State | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 416 en total)_
 | pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox | 2.27 (44¢) | $25,873 | +$32,929 | ✅ Ganada |
 | Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $25,455 | -$25,455 | ❌ Perdida |
 | totoro3miyazaki | Will Brentford FC win on 2026-09-18? | Yes | 2.70 (37¢) | $64,027 | +$109,020 | ✅ Ganada |
-| pilimili | Will Chelsea FC win on 2026-09-18? | Yes | 2.78 (36¢) | $30,000 | -$30,000 | ❌ Perdida |
