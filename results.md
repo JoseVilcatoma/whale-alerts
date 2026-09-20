@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 16:24:12 (hora de Perú)
+Actualizado: 2026-09-20 16:26:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3359**  ($181,317,610 en total)
-- Resueltas: **3224** — 1952 ganadas / 1272 perdidas (**61%** de acierto)
-- Pendientes: 119
+- Resueltas: **3225** — 1953 ganadas / 1272 perdidas (**61%** de acierto)
+- Pendientes: 118
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,525,010** sobre $174,139,871 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$9,708** sobre $317,600 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$1,471,083** sobre $174,185,809 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$9,591** sobre $317,700 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 66 | 47 | 4 | 58% | $5,353,186 | +$658,855 |
 | wr0ngw4yb3tt0r | 49 | 30 | 9 | 62% | $4,701,474 | -$282,157 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Sassy-Bucket | 31 | 32 | 4 | 49% | $3,340,986 | -$424,415 |
+| Sassy-Bucket | 32 | 32 | 3 | 50% | $3,340,986 | -$370,487 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 29 | 34 | 0 | 46% | $3,255,364 | -$527,610 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -130,4 +130,4 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | mooseborzoi | Eagles vs. Titans | Eagles | 1.30 (77¢) | $42,326 | +$12,643 | ✅ Ganada |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.04 (49¢) | $29,463 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Saints vs. Ravens | Ravens | 1.19 (84¢) | $37,282 | -$37,282 | ❌ Perdida |
-| Sassy-Bucket | Toronto Blue Jays vs. Texas Rangers: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $45,938 | — | ⏳ Pendiente |
+| Sassy-Bucket | Toronto Blue Jays vs. Texas Rangers: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $45,938 | +$53,928 | ✅ Ganada |
