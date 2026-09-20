@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 13:24:17 (hora de Perú)
+Actualizado: 2026-09-20 13:26:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3315**  ($178,441,539 en total)
-- Resueltas: **3157** — 1912 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 142
+- Resueltas: **3158** — 1913 ganadas / 1245 perdidas (**61%** de acierto)
+- Pendientes: 141
 - Apostadores distintos: 438
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,136,280** sobre $170,596,241 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,707** sobre $311,100 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$1,124,748** sobre $170,621,908 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,662** sobre $311,200 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | gambamaster | Packers vs. Jets | Packers | 1.79 (56¢) | $41,604 | — | ⏳ Pendiente |
 | ethanaz | Packers vs. Jets | Packers | 1.75 (57¢) | $26,166 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Chargers (-6.5) | Raiders | 2.04 (49¢) | $29,927 | — | ⏳ Pendiente |
-| HVAB | Valencia: Alicia Herrero Linana vs Clara Burel | Clara Burel | 1.45 (69¢) | $25,668 | — | ⏳ Pendiente |
+| HVAB | Valencia: Alicia Herrero Linana vs Clara Burel | Clara Burel | 1.45 (69¢) | $25,668 | +$11,532 | ✅ Ganada |
 | ethanaz | Panthers vs. Falcons | Panthers | 1.43 (70¢) | $41,302 | — | ⏳ Pendiente |
 | weflyhigh | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Broncos (-2.5) | Jaguars | 2.08 (48¢) | $54,372 | — | ⏳ Pendiente |
