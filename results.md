@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 09:28:36 (hora de Perú)
+Actualizado: 2026-09-20 09:30:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3210**  ($173,076,474 en total)
-- Resueltas: **3130** — 1889 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 64
+- Resueltas: **3131** — 1890 ganadas / 1241 perdidas (**60%** de acierto)
+- Pendientes: 63
 - Apostadores distintos: 430
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,363,597** sobre $169,031,356 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,245** sobre $308,400 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$1,354,900** sobre $169,064,075 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,219** sobre $308,500 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 235 | 123 | 7 | 66% | $24,178,266 | +$913,067 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 236 | 123 | 6 | 66% | $24,178,266 | +$921,765 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 2 | 54% | $6,162,969 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $72,000 | — | ⏳ Pendiente |
 | surfandturf | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $71,021 | — | ⏳ Pendiente |
 | afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Málaga CF win on 2026-09-20? | No | 1.27 (79¢) | $32,719 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Málaga CF win on 2026-09-20? | No | 1.27 (79¢) | $32,719 | +$8,697 | ✅ Ganada |
 | maz26 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $26,511 | — | ⏳ Pendiente |
 | afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
 | beeemw | Will Sunderland AFC win on 2026-09-20? | No | 1.10 (91¢) | $73,692 | — | ⏳ Pendiente |
