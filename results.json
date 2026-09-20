@@ -48436,5 +48436,20 @@
     "status": "pending",
     "ultimo_fill": 1789916648,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6525,
+    "timestamp": 1789916846,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "nfl-pit-ne-2026-09-20",
+    "title": "Steelers vs. Patriots",
+    "outcome": "Patriots",
+    "side": "BUY",
+    "usd": 34880.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1789916846,
+    "fills": 1
   }
 ]

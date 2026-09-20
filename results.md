@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:06:14 (hora de Perú)
+Actualizado: 2026-09-20 10:08:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3222**  ($173,735,409 en total)
+- Apuestas registradas: **3223**  ($173,770,289 en total)
 - Resueltas: **3131** — 1890 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 75
+- Pendientes: 76
 - Apostadores distintos: 431
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 431 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $34,880 | — | ⏳ Pendiente |
 | maz26 | Spread: BAL (-8.5) | BAL | 2.08 (48¢) | $50,251 | — | ⏳ Pendiente |
 | Kch-Temp | Packers vs. Jets | Jets | 2.56 (39¢) | $29,250 | — | ⏳ Pendiente |
 | beautifulobsession | Will Fulham FC win on 2026-09-20? | No | 1.37 (73¢) | $35,040 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 431 en total)_
 | Jsram | Spread: Bears (-4.5) | Bears | 2.00 (50¢) | $50,431 | — | ⏳ Pendiente |
 | Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $130,358 | — | ⏳ Pendiente |
 | mimi121 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.49 (67¢) | $37,136 | +$18,291 | ✅ Ganada |
-| retordedgremlin125 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $47,653 | +$22,425 | ✅ Ganada |
