@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:18:51 (hora de Perú)
+Actualizado: 2026-09-20 10:20:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3228**  ($174,162,737 en total)
-- Resueltas: **3136** — 1892 ganadas / 1244 perdidas (**60%** de acierto)
-- Pendientes: 76
+- Apuestas registradas: **3229**  ($174,235,346 en total)
+- Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
+- Pendientes: 65
 - Apostadores distintos: 433
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,547,006** sobre $169,385,238 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,443** sobre $309,000 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,423,431** sobre $169,930,540 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,209** sobre $310,200 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 236 | 124 | 7 | 66% | $24,229,266 | +$775,917 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 237 | 124 | 6 | 66% | $24,229,266 | +$803,917 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 2 | 54% | $6,162,969 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 65 | 47 | 1 | 58% | $5,123,757 | +$610,220 |
+| pleaseplease123 | 65 | 47 | 2 | 58% | $5,196,366 | +$610,220 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 48 | 28 | 2 | 63% | $4,051,644 | -$132,094 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 14 | 3 | 50% | $1,337,042 | -$196,221 |
-| surfandturf | 8 | 2 | 2 | 80% | $1,299,768 | +$77,057 |
+| surfandturf | 10 | 2 | 0 | 83% | $1,299,768 | +$117,566 |
 | SDTrading | 18 | 22 | 3 | 45% | $1,280,596 | -$194,283 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 433 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Detroit Tigers vs. Chicago White Sox | Chicago White Sox | 1.92 (52¢) | $72,609 | — | ⏳ Pendiente |
 | BruceWayne77 | Vikings vs. Bears | Bears | 1.52 (66¢) | $32,340 | — | ⏳ Pendiente |
 | SDTrading | Spread: Patriots (-5.5) | Steelers | 1.92 (52¢) | $31,362 | — | ⏳ Pendiente |
 | winwin518168 | Spread: Indiana Fever (-6.5) | Indiana Fever | 2.00 (50¢) | $29,947 | — | ⏳ Pendiente |
@@ -111,23 +112,22 @@ _(mostrando los 40 de mayor monto, de 433 en total)_
 | Roadto1mlesgooo | AFC Bournemouth vs. Liverpool FC: O/U 0.5 | Over 0.5 | 1.09 (92¢) | $72,732 | +$6,325 | ✅ Ganada |
 | SDTrading | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $31,079 | — | ⏳ Pendiente |
 | five5120 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.43 (70¢) | $40,000 | — | ⏳ Pendiente |
-| MrDouche | Will Manchester City FC win on 2026-09-20? | Yes | 1.41 (71¢) | $35,379 | — | ⏳ Pendiente |
-| surfandturf | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $33,145 | — | ⏳ Pendiente |
-| jaytee158 | Will Sunderland AFC win on 2026-09-20? | No | 1.11 (90¢) | $26,183 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $72,000 | — | ⏳ Pendiente |
-| surfandturf | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $71,021 | — | ⏳ Pendiente |
-| afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
+| MrDouche | Will Manchester City FC win on 2026-09-20? | Yes | 1.41 (71¢) | $35,379 | +$14,451 | ✅ Ganada |
+| surfandturf | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $33,145 | +$12,890 | ✅ Ganada |
+| jaytee158 | Will Sunderland AFC win on 2026-09-20? | No | 1.11 (90¢) | $26,183 | +$2,909 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $72,000 | +$28,000 | ✅ Ganada |
+| surfandturf | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $71,021 | +$27,619 | ✅ Ganada |
+| afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $25,200 | +$9,800 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Málaga CF win on 2026-09-20? | No | 1.27 (79¢) | $32,719 | +$8,697 | ✅ Ganada |
 | maz26 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $26,511 | — | ⏳ Pendiente |
-| afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
-| beeemw | Will Sunderland AFC win on 2026-09-20? | No | 1.10 (91¢) | $73,692 | — | ⏳ Pendiente |
+| afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $25,550 | +$9,450 | ✅ Ganada |
+| beeemw | Will Sunderland AFC win on 2026-09-20? | No | 1.10 (91¢) | $73,692 | +$7,288 | ✅ Ganada |
 | Kch-Temp | Will Liverpool FC win on 2026-09-20? | No | 1.75 (57¢) | $41,216 | -$41,216 | ❌ Perdida |
-| zhqzhq | Will Sunderland AFC win on 2026-09-20? | No | 1.10 (91¢) | $50,000 | — | ⏳ Pendiente |
+| zhqzhq | Will Sunderland AFC win on 2026-09-20? | No | 1.10 (91¢) | $50,000 | +$4,945 | ✅ Ganada |
 | Kch-Temp | Vikings vs. Bears: O/U 47.5 | Under 47.5 | 1.89 (53¢) | $29,715 | — | ⏳ Pendiente |
-| MiltonFriedmanHongKong | Will Manchester City FC win on 2026-09-20? | No | 3.57 (28¢) | $30,098 | — | ⏳ Pendiente |
+| MiltonFriedmanHongKong | Will Manchester City FC win on 2026-09-20? | No | 3.57 (28¢) | $30,098 | -$30,098 | ❌ Perdida |
 | Jsram | AFC Bournemouth vs. Liverpool FC: O/U 3.5 | Under 3.5 | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
-| flashclub | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $54,113 | — | ⏳ Pendiente |
+| flashclub | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $54,113 | +$20,014 | ✅ Ganada |
 | Kch-Temp | Panthers vs. Falcons: O/U 43.5 | Under 43.5 | 1.96 (51¢) | $28,046 | — | ⏳ Pendiente |
 | Herdonia | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $26,818 | — | ⏳ Pendiente |
 | Kch-Temp | Vikings vs. Bears: O/U 47.5 | Under 47.5 | 1.92 (52¢) | $39,149 | — | ⏳ Pendiente |
-| Kch-Temp | Browns vs. Buccaneers | Browns | 4.55 (22¢) | $75,490 | — | ⏳ Pendiente |

@@ -47368,7 +47368,7 @@
     "side": "BUY",
     "usd": 48920.509997999994,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789886208,
     "fills": 1
   },
@@ -47698,7 +47698,7 @@
     "side": "BUY",
     "usd": 54113.082299999995,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789905763,
     "fills": 1
   },
@@ -47728,7 +47728,7 @@
     "side": "BUY",
     "usd": 30098.1044,
     "odds_at_bet": 28,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789906054,
     "fills": 1
   },
@@ -47758,7 +47758,7 @@
     "side": "BUY",
     "usd": 50000.0,
     "odds_at_bet": 91,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789906720,
     "fills": 1
   },
@@ -47788,7 +47788,7 @@
     "side": "BUY",
     "usd": 73692.24590000001,
     "odds_at_bet": 91,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789906955,
     "fills": 1
   },
@@ -47803,7 +47803,7 @@
     "side": "BUY",
     "usd": 25550.0,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789907299,
     "fills": 1
   },
@@ -47848,7 +47848,7 @@
     "side": "BUY",
     "usd": 25200.0,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789907482,
     "fills": 1
   },
@@ -47863,7 +47863,7 @@
     "side": "BUY",
     "usd": 71021.1528,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789908754,
     "fills": 1
   },
@@ -47878,7 +47878,7 @@
     "side": "BUY",
     "usd": 72000.0,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789908818,
     "fills": 1
   },
@@ -47893,7 +47893,7 @@
     "side": "BUY",
     "usd": 26182.728,
     "odds_at_bet": 90,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789908878,
     "fills": 1
   },
@@ -47908,7 +47908,7 @@
     "side": "BUY",
     "usd": 33145.2792,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789908951,
     "fills": 1
   },
@@ -47923,7 +47923,7 @@
     "side": "BUY",
     "usd": 35379.3355,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789909039,
     "fills": 1
   },
@@ -48525,6 +48525,21 @@
     "odds_at_bet": 66,
     "status": "pending",
     "ultimo_fill": 1789917493,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6548,
+    "timestamp": 1789917653,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-det-cws-2026-09-20",
+    "title": "Detroit Tigers vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 72609.1288,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789917653,
     "fills": 1
   }
 ]
