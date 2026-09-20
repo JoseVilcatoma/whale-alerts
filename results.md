@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:38:44 (hora de Perú)
+Actualizado: 2026-09-20 15:40:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3354**  ($181,098,711 en total)
-- Resueltas: **3203** — 1939 ganadas / 1264 perdidas (**61%** de acierto)
-- Pendientes: 135
+- Apuestas registradas: **3355**  ($181,155,537 en total)
+- Resueltas: **3220** — 1950 ganadas / 1270 perdidas (**61%** de acierto)
+- Pendientes: 119
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,388,044** sobre $173,108,412 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$9,684** sobre $315,500 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$1,467,441** sobre $173,947,576 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$9,530** sobre $317,200 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,15 +24,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 240 | 124 | 12 | 66% | $24,704,998 | +$992,777 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 242 | 124 | 10 | 66% | $24,704,998 | +$1,041,777 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 69 | 1 | 54% | $6,162,969 | -$226,170 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 66 | 47 | 4 | 58% | $5,353,186 | +$658,855 |
-| wr0ngw4yb3tt0r | 49 | 28 | 11 | 64% | $4,701,474 | -$111,556 |
+| wr0ngw4yb3tt0r | 49 | 30 | 9 | 62% | $4,701,474 | -$282,157 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Sassy-Bucket | 29 | 32 | 6 | 48% | $3,340,986 | -$492,159 |
+| Sassy-Bucket | 31 | 32 | 4 | 49% | $3,340,986 | -$424,415 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 29 | 34 | 0 | 46% | $3,255,364 | -$527,610 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -40,24 +40,24 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 25 | 2 | 1 | 93% | $2,014,685 | +$88,444 |
-| ferrariChampions2026 | 28 | 17 | 4 | 62% | $1,956,537 | -$491,521 |
+| ferrariChampions2026 | 30 | 17 | 2 | 64% | $1,956,537 | -$451,143 |
 | BrotherObama | 21 | 20 | 4 | 51% | $1,945,334 | +$192,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| surfandturf | 10 | 2 | 5 | 83% | $1,723,372 | +$117,566 |
+| surfandturf | 11 | 2 | 4 | 85% | $1,723,372 | +$173,816 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| ethanaz | 12 | 4 | 3 | 75% | $1,379,813 | -$155,295 |
 | Jsram | 14 | 16 | 1 | 47% | $1,337,042 | -$392,271 |
-| ethanaz | 11 | 4 | 3 | 73% | $1,322,987 | -$172,996 |
 | SDTrading | 18 | 22 | 3 | 45% | $1,280,596 | -$194,283 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 2 | 33% | $1,257,497 | -$469,491 |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 8 | 14 | 1 | 36% | $1,257,497 | -$444,678 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | Elaran1993 | 7 | 6 | 1 | 54% | $1,087,702 | +$83,076 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
-| Kch-Temp | 7 | 4 | 8 | 64% | $1,046,987 | +$114,744 |
+| Kch-Temp | 7 | 5 | 7 | 58% | $1,046,987 | +$80,373 |
 | Talvez10 | 9 | 9 | 3 | 50% | $1,046,960 | +$165,257 |
 | maz26 | 4 | 1 | 9 | ⚠️ 80% (5) | $950,222 | +$98,394 |
 | ndb1 | 8 | 7 | 2 | 53% | $943,236 | +$158,221 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Commanders vs. Cowboys | Cowboys | 1.18 (85¢) | $56,826 | — | ⏳ Pendiente |
 | ndb1 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $38,182 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Raiders vs. Chargers | Chargers | 1.49 (67¢) | $31,534 | — | ⏳ Pendiente |
 | optimistic-dragon | Raiders vs. Chargers | Raiders | 3.03 (33¢) | $39,600 | — | ⏳ Pendiente |
@@ -107,10 +108,10 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | jaytee158 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $51,498 | — | ⏳ Pendiente |
 | marchettamaker | Valencia CF vs. Real Sociedad de Fútbol: O/U 2.5 | Under 2.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | maz26 | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $150,570 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Panthers vs. Falcons | Panthers | 1.16 (86¢) | $56,577 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Panthers vs. Falcons | Panthers | 1.16 (86¢) | $56,577 | +$9,210 | ✅ Ganada |
 | ferrariChampions2026 | Saints vs. Ravens | Ravens | 1.12 (89¢) | $57,503 | -$57,503 | ❌ Perdida |
 | ferrariChampions2026 | Eagles vs. Titans | Eagles | 1.16 (86¢) | $53,287 | +$8,675 | ✅ Ganada |
-| cosmicxbt | Panthers vs. Falcons | Panthers | 1.11 (90¢) | $63,000 | — | ⏳ Pendiente |
+| cosmicxbt | Panthers vs. Falcons | Panthers | 1.11 (90¢) | $63,000 | +$7,000 | ✅ Ganada |
 | Talvez10 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.89 (53¢) | $33,587 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $54,929 | — | ⏳ Pendiente |
 | ethanaz | Eagles vs. Titans | Eagles | 1.09 (92¢) | $80,485 | +$6,999 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | ferrariChampions2026 | Eagles vs. Titans | Eagles | 1.64 (61¢) | $30,075 | +$19,228 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 1.64 (61¢) | $84,088 | +$53,762 | ✅ Ganada |
 | BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $50,000 | — | ⏳ Pendiente |
-| pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $52,688 | +$48,635 | ✅ Ganada |

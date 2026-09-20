@@ -47503,7 +47503,7 @@
     "side": "BUY",
     "usd": 65367.1165,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789888105,
     "fills": 1
   },
@@ -48193,7 +48193,7 @@
     "side": "BUY",
     "usd": 38276.3949,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789913732,
     "fills": 1
   },
@@ -48298,7 +48298,7 @@
     "side": "BUY",
     "usd": 34370.643299999996,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789915356,
     "fills": 1
   },
@@ -48343,7 +48343,7 @@
     "side": "BUY",
     "usd": 25500.0,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789916053,
     "fills": 1
   },
@@ -48358,7 +48358,7 @@
     "side": "BUY",
     "usd": 25500.0,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789916389,
     "fills": 1
   },
@@ -48673,7 +48673,7 @@
     "side": "BUY",
     "usd": 32439.4221,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789918698,
     "fills": 1
   },
@@ -48763,7 +48763,7 @@
     "side": "BUY",
     "usd": 30136.999200000002,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789919104,
     "fills": 1
   },
@@ -48778,7 +48778,7 @@
     "side": "BUY",
     "usd": 140463.9896,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789919145,
     "fills": 4
   },
@@ -48793,7 +48793,7 @@
     "side": "BUY",
     "usd": 57583.27120000001,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789919141,
     "fills": 1
   },
@@ -48868,7 +48868,7 @@
     "side": "BUY",
     "usd": 31579.968000000004,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789919756,
     "fills": 1
   },
@@ -48883,7 +48883,7 @@
     "side": "BUY",
     "usd": 69907.4728,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789919759,
     "fills": 1
   },
@@ -49078,7 +49078,7 @@
     "side": "BUY",
     "usd": 30910.18,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789922013,
     "fills": 1
   },
@@ -49153,7 +49153,7 @@
     "side": "BUY",
     "usd": 27500.000000000004,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789922874,
     "fills": 1
   },
@@ -49273,7 +49273,7 @@
     "side": "BUY",
     "usd": 68749.99450000002,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789923600,
     "fills": 1
   },
@@ -49438,7 +49438,7 @@
     "side": "BUY",
     "usd": 41301.575,
     "odds_at_bet": 70,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789924433,
     "fills": 1
   },
@@ -49828,7 +49828,7 @@
     "side": "BUY",
     "usd": 63000.0,
     "odds_at_bet": 90,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789928417,
     "fills": 1
   },
@@ -49873,7 +49873,7 @@
     "side": "BUY",
     "usd": 56577.4048,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789929060,
     "fills": 1
   },
@@ -50419,6 +50419,21 @@
     "odds_at_bet": 90,
     "status": "pending",
     "ultimo_fill": 1789936390,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6747,
+    "timestamp": 1789936818,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-was-dal-2026-09-20",
+    "title": "Commanders vs. Cowboys",
+    "outcome": "Cowboys",
+    "side": "BUY",
+    "usd": 56825.9935,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1789936818,
     "fills": 1
   }
 ]
