@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 20:04:34 (hora de Perú)
+Actualizado: 2026-09-19 20:06:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3111**  ($168,140,908 en total)
+- Apuestas registradas: **3112**  ($168,243,818 en total)
 - Resueltas: **3062** — 1846 ganadas / 1216 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 422
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 232 | 120 | 6 | 66% | $23,667,947 | +$1,071,416 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 232 | 120 | 7 | 66% | $23,770,857 | +$1,071,416 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 67 | 1 | 54% | $6,099,092 | -$133,259 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 422 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $102,910 | — | ⏳ Pendiente |
 | sts22 | UFC 331: Marlon Vera vs. Charles Jourdain (Bantamweight, Prelims) | Marlon Vera | 1.06 (94¢) | $28,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LSU vs. Ole Miss | Ole Miss | 1.20 (83¢) | $33,200 | — | ⏳ Pendiente |
 | maz26 | San Francisco Giants vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.28 (78¢) | $57,915 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 422 en total)_
 | Diabolical-Prize | LoL: Karmine Corp vs Movistar KOI - Game 1 Winner | Karmine Corp | 1.47 (68¢) | $34,000 | -$34,000 | ❌ Perdida |
 | primm | Spread: South Alabama (-6.5) | South Alabama | 1.92 (52¢) | $27,174 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.30 (77¢) | $50,000 | -$50,000 | ❌ Perdida |
-| primm | Spread: Toledo (-5.5) | Temple | 1.96 (51¢) | $29,747 | +$28,580 | ✅ Ganada |
