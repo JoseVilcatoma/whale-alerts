@@ -47446,5 +47446,20 @@
     "status": "pending",
     "ultimo_fill": 1789886859,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6441,
+    "timestamp": 1789887001,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-no-bal-2026-09-20-spread-home-8pt5",
+    "title": "Spread: BAL (-8.5)",
+    "outcome": "BAL",
+    "side": "BUY",
+    "usd": 74293.0224,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1789887001,
+    "fills": 1
   }
 ]
