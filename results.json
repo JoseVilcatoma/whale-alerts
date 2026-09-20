@@ -47581,5 +47581,35 @@
     "status": "pending",
     "ultimo_fill": 1789901574,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 6461,
+    "timestamp": 1789902511,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "nfl-min-chi-2026-09-20-spread-home-4pt5",
+    "title": "Spread: Bears (-4.5)",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 50430.88,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1789902511,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6462,
+    "timestamp": 1789902533,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "nfl-min-chi-2026-09-20",
+    "title": "Vikings vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 65691.6546,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1789902533,
+    "fills": 1
   }
 ]

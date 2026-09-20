@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 06:07:07 (hora de Perú)
+Actualizado: 2026-09-20 06:09:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3165**  ($170,848,631 en total)
+- Apuestas registradas: **3167**  ($170,964,754 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Pendientes: 25
 - Apostadores distintos: 429
 
 ### Balance
@@ -48,11 +48,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 22 | 2 | 0 | 92% | $1,424,995 | +$63,350 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| Jsram | 13 | 14 | 3 | 48% | $1,307,042 | -$216,221 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
 | surfandturf | 8 | 2 | 0 | 80% | $1,195,602 | +$77,057 |
-| Jsram | 13 | 14 | 1 | 48% | $1,190,919 | -$216,221 |
 | SDTrading | 18 | 22 | 0 | 45% | $1,177,356 | -$194,283 |
 | ethanaz | 10 | 3 | 0 | 77% | $1,110,448 | -$147,797 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $65,692 | — | ⏳ Pendiente |
+| Jsram | Spread: Bears (-4.5) | Bears | 2.00 (50¢) | $50,431 | — | ⏳ Pendiente |
 | Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $130,358 | — | ⏳ Pendiente |
 | mimi121 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.49 (67¢) | $37,136 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $47,653 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LSU vs. Ole Miss | Ole Miss | 1.20 (83¢) | $33,200 | +$6,800 | ✅ Ganada |
 | maz26 | San Francisco Giants vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.28 (78¢) | $57,915 | +$16,335 | ✅ Ganada |
 | donaldbush | LSU vs. Ole Miss | Ole Miss | 1.33 (75¢) | $32,397 | +$10,799 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $26,058 | -$26,058 | ❌ Perdida |
-| Sassy-Bucket | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
