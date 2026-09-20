@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 00:29:10 (hora de Perú)
+Actualizado: 2026-09-20 00:31:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3145**  ($169,679,645 en total)
-- Resueltas: **3107** — 1871 ganadas / 1236 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Resueltas: **3109** — 1873 ganadas / 1236 perdidas (**60%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 428
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,545,658** sobre $168,040,212 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,722** sobre $306,100 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,511,633** sobre $168,106,353 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,619** sobre $306,300 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 428 en total)_
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | LSU | 1.96 (51¢) | $26,950 | -$26,950 | ❌ Perdida |
 | 0x6db5…e279 | LSU vs. Ole Miss | LSU | 2.08 (48¢) | $27,039 | -$27,039 | ❌ Perdida |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.41 (71¢) | $28,792 | +$11,760 | ✅ Ganada |
-| Elaran1993 | Will Portland Timbers win on 2026-09-19? | No | 1.92 (52¢) | $32,855 | — | ⏳ Pendiente |
+| Elaran1993 | Will Portland Timbers win on 2026-09-19? | No | 1.92 (52¢) | $32,855 | +$30,327 | ✅ Ganada |
 | kkookkoo | O/U 1.5 Rounds | Under 1.5 Rounds | 1.22 (82¢) | $27,258 | +$5,984 | ✅ Ganada |
 | pereira12 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.11 (90¢) | $34,654 | -$34,654 | ❌ Perdida |
 | 35808932420 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.09 (92¢) | $36,800 | -$36,800 | ❌ Perdida |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 428 en total)_
 | wr0ngw4yb3tt0r | James Madison vs. San Diego State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $25,025 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | James Madison vs. San Diego State: O/U 46.5 | Over 46.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | James Madison vs. San Diego State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $28,901 | — | ⏳ Pendiente |
-| jaytee158 | Charlotte vs. Appalachian State | Appalachian State | 1.11 (90¢) | $33,286 | — | ⏳ Pendiente |
+| jaytee158 | Charlotte vs. Appalachian State | Appalachian State | 1.11 (90¢) | $33,286 | +$3,698 | ✅ Ganada |
 | 0xA0da9371A4Aa5f2eCE33eDa9B6f47b656bAd1F80-1777002339626 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $40,000 | +$27,797 | ✅ Ganada |
 | ferrariChampions2026 | Spread: Golden State Valkyries (-13.5) | Seattle Storm | 2.22 (45¢) | $25,388 | +$31,030 | ✅ Ganada |
 | Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $26,916 | +$10,467 | ✅ Ganada |
