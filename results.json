@@ -48466,5 +48466,35 @@
     "status": "pending",
     "ultimo_fill": 1789917027,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6527,
+    "timestamp": 1789917055,
+    "username": "0x80d5aebbE7a714879177E4dAE0014195beb3987E-1789159822906",
+    "wallet": "0x80d5aebbe7a714879177e4dae0014195beb3987e",
+    "slug": "sea-juv-ata-2026-09-20-juv",
+    "title": "Will Juventus FC win on 2026-09-20?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 34800.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1789917055,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6528,
+    "timestamp": 1789917100,
+    "username": "winwin518168",
+    "wallet": "0x682005011dd19c1e986cb060ed6ab83845f21c19",
+    "slug": "wnba-wsh-ind-2026-09-20-spread-home-6pt5",
+    "title": "Spread: Indiana Fever (-6.5)",
+    "outcome": "Indiana Fever",
+    "side": "BUY",
+    "usd": 29946.618000000002,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1789917100,
+    "fills": 1
   }
 ]
