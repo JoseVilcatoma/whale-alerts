@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 18:45:41 (hora de Perú)
+Actualizado: 2026-09-20 18:47:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3369**  ($181,685,304 en total)
-- Resueltas: **3310** — 1999 ganadas / 1311 perdidas (**60%** de acierto)
-- Pendientes: 43
+- Resueltas: **3313** — 2001 ganadas / 1312 perdidas (**60%** de acierto)
+- Pendientes: 40
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,557,890** sobre $178,243,372 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$9,962** sobre $326,200 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$1,548,819** sobre $178,332,868 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$9,957** sobre $326,500 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 246 | 127 | 4 | 66% | $24,736,893 | +$982,149 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 69 | 1 | 54% | $6,162,969 | -$226,170 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 69 | 0 | 54% | $6,162,969 | -$205,672 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 66 | 50 | 1 | 57% | $5,353,186 | +$551,147 |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Sassy-Bucket | San Francisco Giants vs. Los Angeles Dodgers | San Francisco Giants | 3.45 (29¢) | $28,609 | -$28,609 | ❌ Perdida |
 | taylorsversion | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $118,140 | — | ⏳ Pendiente |
 | Berniepaidoff | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $50,000 | -$758 | 💰 Vendida antes |
-| 3648393489047 | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
+| 3648393489047 | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $26,400 | +$13,600 | ✅ Ganada |
 | Elaran1993 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $477,695 | — | ⏳ Pendiente |
 | surfandturf | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $99,750 | +$75,250 | ✅ Ganada |
 | Feromont | Spread: Chargers (-6.5) | Chargers | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
