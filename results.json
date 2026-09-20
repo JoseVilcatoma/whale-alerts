@@ -47611,5 +47611,20 @@
     "status": "pending",
     "ultimo_fill": 1789902533,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6463,
+    "timestamp": 1789903169,
+    "username": "maz26",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-gb-nyj-2026-09-20-spread-away-3pt5",
+    "title": "Spread: Packers (-3.5)",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 52220.759999999995,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1789903169,
+    "fills": 1
   }
 ]
