@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:08:23 (hora de Perú)
+Actualizado: 2026-09-20 10:10:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3223**  ($173,770,289 en total)
+- Apuestas registradas: **3224**  ($174,034,289 en total)
 - Resueltas: **3131** — 1890 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 76
+- Pendientes: 77
 - Apostadores distintos: 431
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 48 | 28 | 2 | 63% | $4,051,644 | -$132,094 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
-| Sassy-Bucket | 29 | 31 | 0 | 48% | $2,808,556 | -$228,159 |
+| Sassy-Bucket | 29 | 31 | 1 | 48% | $3,072,556 | -$228,159 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 431 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Vikings vs. Bears | Bears | 1.52 (66¢) | $264,000 | — | ⏳ Pendiente |
 | kkookkoo | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $34,880 | — | ⏳ Pendiente |
 | maz26 | Spread: BAL (-8.5) | BAL | 2.08 (48¢) | $50,251 | — | ⏳ Pendiente |
 | Kch-Temp | Packers vs. Jets | Jets | 2.56 (39¢) | $29,250 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 431 en total)_
 | Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $65,692 | — | ⏳ Pendiente |
 | Jsram | Spread: Bears (-4.5) | Bears | 2.00 (50¢) | $50,431 | — | ⏳ Pendiente |
 | Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $130,358 | — | ⏳ Pendiente |
-| mimi121 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.49 (67¢) | $37,136 | +$18,291 | ✅ Ganada |
