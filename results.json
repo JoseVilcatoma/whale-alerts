@@ -48796,5 +48796,35 @@
     "status": "pending",
     "ultimo_fill": 1789919141,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6566,
+    "timestamp": 1789919232,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-pit-ne-2026-09-20-total-41pt5",
+    "title": "Steelers vs. Patriots: O/U 41.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 30992.999799999998,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1789919232,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6567,
+    "timestamp": 1789919244,
+    "username": "RegardedMoney",
+    "wallet": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
+    "slug": "nfl-gb-nyj-2026-09-20-spread-away-2pt5",
+    "title": "Spread: Packers (-2.5)",
+    "outcome": "Jets",
+    "side": "BUY",
+    "usd": 29647.952999999998,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1789919244,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:46:13 (hora de Perú)
+Actualizado: 2026-09-20 10:48:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3246**  ($175,375,589 en total)
+- Apuestas registradas: **3248**  ($175,436,230 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 82
+- Pendientes: 84
 - Apostadores distintos: 435
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 65 | 47 | 2 | 58% | $5,231,035 | +$610,220 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 48 | 28 | 7 | 63% | $4,490,122 | -$132,094 |
+| wr0ngw4yb3tt0r | 48 | 28 | 8 | 63% | $4,521,115 | -$132,094 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
 | Sassy-Bucket | 29 | 31 | 2 | 48% | $3,130,139 | -$228,159 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 435 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RegardedMoney | Spread: Packers (-2.5) | Jets | 2.22 (45¢) | $29,648 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Steelers vs. Patriots: O/U 41.5 | Over 41.5 | 2.04 (49¢) | $30,993 | — | ⏳ Pendiente |
 | Sassy-Bucket | Panthers vs. Falcons | Panthers | 1.79 (56¢) | $57,583 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Panthers vs. Falcons | Falcons | 2.27 (44¢) | $140,464 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Panthers (-2.5) | Falcons | 2.04 (49¢) | $30,137 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 435 en total)_
 | Roadto1mlesgooo | AFC Bournemouth vs. Liverpool FC: O/U 0.5 | Over 0.5 | 1.09 (92¢) | $72,732 | +$6,325 | ✅ Ganada |
 | SDTrading | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $31,079 | — | ⏳ Pendiente |
 | five5120 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.43 (70¢) | $40,000 | — | ⏳ Pendiente |
-| MrDouche | Will Manchester City FC win on 2026-09-20? | Yes | 1.41 (71¢) | $35,379 | +$14,451 | ✅ Ganada |
-| surfandturf | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $33,145 | +$12,890 | ✅ Ganada |
