@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 11:56:31 (hora de Perú)
+Actualizado: 2026-09-20 11:58:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3275**  ($176,588,253 en total)
+- Apuestas registradas: **3276**  ($176,616,849 en total)
 - Resueltas: **3151** — 1906 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 108
+- Pendientes: 109
 - Apostadores distintos: 438
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Painfulvoid | Bengals vs. Texans | Texans | 1.72 (58¢) | $28,595 | — | ⏳ Pendiente |
 | Feromont | Spread: Patriots (-4.5) | Steelers | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
 | Herdonia | Eagles vs. Titans | Eagles | 1.33 (75¢) | $67,544 | — | ⏳ Pendiente |
 | THEdirkdiggler | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | beautifulobsession | Will Fulham FC win on 2026-09-20? | No | 1.37 (73¢) | $35,040 | — | ⏳ Pendiente |
 | justwins | Panthers vs. Falcons: O/U 43.5 | Over 43.5 | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | SDTrading | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Panthers (-2.5) | Panthers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Panthers (-2.5) | Panthers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
