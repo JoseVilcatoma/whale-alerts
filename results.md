@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 12:40:24 (hora de Perú)
+Actualizado: 2026-09-20 12:42:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3302**  ($177,745,156 en total)
+- Apuestas registradas: **3304**  ($177,819,824 en total)
 - Resueltas: **3152** — 1907 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 134
+- Pendientes: 136
 - Apostadores distintos: 438
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gambamaster | Packers vs. Jets | Packers | 1.72 (58¢) | $32,343 | — | ⏳ Pendiente |
+| mooseborzoi | Eagles vs. Titans | Eagles | 1.30 (77¢) | $42,326 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.04 (49¢) | $29,463 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Saints vs. Ravens | Ravens | 1.19 (84¢) | $37,282 | — | ⏳ Pendiente |
 | Sassy-Bucket | Toronto Blue Jays vs. Texas Rangers: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $45,938 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | wr0ngw4yb3tt0r | Steelers vs. Patriots: O/U 41.5 | Over 41.5 | 2.04 (49¢) | $30,993 | — | ⏳ Pendiente |
 | Sassy-Bucket | Panthers vs. Falcons | Panthers | 1.79 (56¢) | $57,583 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Panthers vs. Falcons | Falcons | 2.27 (44¢) | $140,464 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: Panthers (-2.5) | Falcons | 2.04 (49¢) | $30,137 | — | ⏳ Pendiente |
-| Berniepaidoff | Vikings vs. Bears | Bears | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
