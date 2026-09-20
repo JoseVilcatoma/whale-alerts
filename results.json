@@ -49006,5 +49006,20 @@
     "status": "pending",
     "ultimo_fill": 1789921076,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6580,
+    "timestamp": 1789921388,
+    "username": "tiger105",
+    "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
+    "slug": "epl-ful-mun-2026-09-20-total-0pt5",
+    "title": "Fulham FC vs. Manchester United FC: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 32633.119998999995,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1789921388,
+    "fills": 1
   }
 ]
