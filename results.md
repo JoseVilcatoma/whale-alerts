@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:18:10 (hora de Perú)
+Actualizado: 2026-09-20 15:20:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3348**  ($180,748,175 en total)
+- Apuestas registradas: **3349**  ($180,850,864 en total)
 - Resueltas: **3173** — 1922 ganadas / 1251 perdidas (**61%** de acierto)
-- Pendientes: 159
+- Pendientes: 160
 - Apostadores distintos: 441
 
 ### Balance
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| surfandturf | 10 | 2 | 3 | 83% | $1,540,387 | +$117,566 |
+| surfandturf | 10 | 2 | 4 | 83% | $1,643,077 | +$117,566 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $102,690 | — | ⏳ Pendiente |
 | Tiger200 | Spread: 49ers (-13.5) | Dolphins | 1.92 (52¢) | $130,095 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Commanders vs. Cowboys: O/U 51.5 | Under 51.5 | 1.92 (52¢) | $26,246 | — | ⏳ Pendiente |
 | maz26 | Spread: 49ers (-13.5) | 49ers | 2.13 (47¢) | $94,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | ethanaz | Packers vs. Jets | Packers | 1.75 (57¢) | $26,166 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Chargers (-6.5) | Raiders | 2.04 (49¢) | $29,927 | — | ⏳ Pendiente |
 | HVAB | Valencia: Alicia Herrero Linana vs Clara Burel | Clara Burel | 1.45 (69¢) | $25,668 | +$11,532 | ✅ Ganada |
-| ethanaz | Panthers vs. Falcons | Panthers | 1.43 (70¢) | $41,302 | — | ⏳ Pendiente |
