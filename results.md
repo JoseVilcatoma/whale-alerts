@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 20:43:38 (hora de Perú)
+Actualizado: 2026-09-19 20:45:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3119**  ($168,473,334 en total)
-- Resueltas: **3063** — 1847 ganadas / 1216 perdidas (**60%** de acierto)
-- Pendientes: 40
+- Resueltas: **3068** — 1851 ganadas / 1217 perdidas (**60%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 424
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,219,548** sobre $165,987,950 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$10,174** sobre $301,700 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,287,092** sobre $166,331,000 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,214** sobre $302,200 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 232 | 120 | 7 | 66% | $23,770,857 | +$1,071,416 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 233 | 120 | 6 | 66% | $23,770,857 | +$1,079,961 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 67 | 1 | 54% | $6,099,092 | -$133,259 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Jsram | 13 | 14 | 0 | 48% | $1,060,561 | -$216,221 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
-| ethanaz | 8 | 2 | 2 | 80% | $928,974 | -$74,652 |
+| ethanaz | 9 | 3 | 0 | 75% | $928,974 | -$161,456 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
@@ -86,9 +86,9 @@ _(mostrando los 40 de mayor monto, de 424 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $26,058 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | 3648393489047 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,776 | — | ⏳ Pendiente |
-| ethanaz | Florida State vs. Alabama | Alabama | 1.15 (87¢) | $89,376 | — | ⏳ Pendiente |
+| ethanaz | Florida State vs. Alabama | Alabama | 1.15 (87¢) | $89,376 | +$13,355 | ✅ Ganada |
 | maz26 | Fresno State vs. San Jose State | San Jose State | 2.86 (35¢) | $44,362 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Florida State vs. Alabama | Alabama | 1.28 (78¢) | $30,295 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Florida State vs. Alabama | Alabama | 1.28 (78¢) | $30,295 | +$8,545 | ✅ Ganada |
 | Feromont | Spread: LSU (-2.5) | LSU | 1.92 (52¢) | $25,069 | — | ⏳ Pendiente |
 | Elaran1993 | Will CR Vasco da Gama win on 2026-09-19? | Yes | 1.37 (73¢) | $28,059 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.92 (52¢) | $99,411 | — | ⏳ Pendiente |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 424 en total)_
 | whodissss | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $102,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.56 (64¢) | $60,362 | +$33,953 | ✅ Ganada |
 | Sassy-Bucket | Nevada vs. Middle Tennessee | Nevada | 1.61 (62¢) | $30,688 | — | ⏳ Pendiente |
-| ethanaz | Florida State vs. Alabama | Florida State | 2.08 (48¢) | $100,159 | — | ⏳ Pendiente |
+| ethanaz | Florida State vs. Alabama | Florida State | 2.08 (48¢) | $100,159 | -$100,159 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.69 (59¢) | $67,102 | — | ⏳ Pendiente |
 | Eztennis | LoL: LYON vs Cloud9 (BO5) - LCS Playoffs | LYON | 1.37 (73¢) | $39,275 | -$39,275 | ❌ Perdida |
 | FORTNITEMASTER888 | LoL: LYON vs Cloud9 - Game 3 Winner | LYON | 1.56 (64¢) | $40,418 | -$40,418 | ❌ Perdida |
@@ -116,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 424 en total)_
 | Roadto1mlesgooo | Sevilla FC vs. FC Barcelona: O/U 2.5 | Over 2.5 | 1.12 (89¢) | $28,869 | +$3,568 | ✅ Ganada |
 | maz26 | SMU vs. Louisville | Louisville | 1.75 (57¢) | $53,317 | +$40,221 | ✅ Ganada |
 | phonesculptor | USC vs. Rutgers | USC | 1.06 (94¢) | $53,170 | +$3,394 | ✅ Ganada |
-| 177-letsgo | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $87,400 | — | ⏳ Pendiente |
+| 177-letsgo | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $87,400 | +$7,600 | ✅ Ganada |
 | Donkey14 | Mississippi State vs. South Carolina | South Carolina | 1.64 (61¢) | $31,191 | — | ⏳ Pendiente |
 | maz26 | SMU vs. Louisville | Louisville | 1.79 (56¢) | $72,800 | +$57,200 | ✅ Ganada |
 | AGUGava | FC Metz vs. AS Saint-Étienne: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $34,421 | -$34,421 | ❌ Perdida |
