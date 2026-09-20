@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 09:18:24 (hora de Perú)
+Actualizado: 2026-09-20 09:20:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3207**  ($172,884,280 en total)
-- Resueltas: **3129** — 1888 ganadas / 1241 perdidas (**60%** de acierto)
+- Apuestas registradas: **3208**  ($172,954,480 en total)
+- Resueltas: **3130** — 1889 ganadas / 1241 perdidas (**60%** de acierto)
 - Pendientes: 62
 - Apostadores distintos: 430
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,368,691** sobre $169,004,615 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,264** sobre $308,300 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$1,363,597** sobre $169,031,356 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,245** sobre $308,400 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ratatatatatatatataaaa | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.92 (52¢) | $70,200 | — | ⏳ Pendiente |
 | ratatatatatatatataaaa | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.96 (51¢) | $81,236 | — | ⏳ Pendiente |
 | Donkey14 | Panthers vs. Falcons | Panthers | 1.75 (57¢) | $38,276 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.75 (57¢) | $27,225 | — | ⏳ Pendiente |
@@ -116,7 +117,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $130,358 | — | ⏳ Pendiente |
 | mimi121 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.49 (67¢) | $37,136 | +$18,291 | ✅ Ganada |
 | retordedgremlin125 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $47,653 | +$22,425 | ✅ Ganada |
-| bloodmaster | LoL: Fuego vs EDward Gaming Youth Team (BO1) - World Star Challengers Invitational Group A | EDward Gaming Youth Team | 1.19 (84¢) | $26,742 | — | ⏳ Pendiente |
+| bloodmaster | LoL: Fuego vs EDward Gaming Youth Team (BO1) - World Star Challengers Invitational Group A | EDward Gaming Youth Team | 1.19 (84¢) | $26,742 | +$5,094 | ✅ Ganada |
 | raybanman | Seahawks vs. Cardinals: O/U 41.5 | Over 41.5 | 2.00 (50¢) | $102,606 | — | ⏳ Pendiente |
 | raybanman | Panthers vs. Falcons | Falcons | 2.33 (43¢) | $65,367 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Broncos (-2.5) | Broncos | 1.96 (51¢) | $53,550 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | NemanjaWC | Will Manchester City FC win on 2026-09-20? | Yes | 1.33 (75¢) | $48,921 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seahawks vs. Cardinals | Seahawks | 1.54 (65¢) | $38,069 | — | ⏳ Pendiente |
 | Kosherlocks | Eagles vs. Titans | Eagles | 1.32 (76¢) | $29,854 | — | ⏳ Pendiente |
-| Kosherlocks | Raiders vs. Chargers | Chargers | 1.37 (73¢) | $95,000 | — | ⏳ Pendiente |
