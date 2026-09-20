@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 17:47:02 (hora de Perú)
+Actualizado: 2026-09-20 17:49:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3365**  ($181,555,251 en total)
+- Apuestas registradas: **3366**  ($181,588,538 en total)
 - Resueltas: **3273** — 1976 ganadas / 1297 perdidas (**60%** de acierto)
-- Pendientes: 76
+- Pendientes: 77
 - Apostadores distintos: 441
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 66 | 48 | 3 | 58% | $5,353,186 | +$620,610 |
-| wr0ngw4yb3tt0r | 49 | 33 | 6 | 60% | $4,701,474 | -$471,406 |
+| wr0ngw4yb3tt0r | 49 | 33 | 7 | 60% | $4,734,761 | -$471,406 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 32 | 32 | 3 | 50% | $3,340,986 | -$370,487 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Raiders vs. Chargers | Raiders | 1.92 (52¢) | $33,287 | — | ⏳ Pendiente |
 | rf13g145g41g4g4 | Raiders vs. Chargers | Raiders | 1.64 (61¢) | $52,869 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Cowboys | Cowboys | 1.39 (72¢) | $38,515 | — | ⏳ Pendiente |
 | jaytee158 | Commanders vs. Cowboys | Cowboys | 1.16 (86¢) | $50,247 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Tiger200 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $117,925 | — | ⏳ Pendiente |
 | beeemw | Will US Lecce win on 2026-09-20? | No | 1.06 (94¢) | $67,951 | +$4,337 | ✅ Ganada |
 | predictionlegend | Will Real Sociedad de Fútbol win on 2026-09-20? | No | 1.59 (63¢) | $33,495 | -$33,495 | ❌ Perdida |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Packers vs. Jets | Packers | 1.61 (62¢) | $28,520 | +$17,480 | ✅ Ganada |
