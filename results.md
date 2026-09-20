@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 16:42:51 (hora de Perú)
+Actualizado: 2026-09-20 16:45:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3361**  ($181,384,220 en total)
-- Resueltas: **3227** — 1953 ganadas / 1274 perdidas (**61%** de acierto)
-- Pendientes: 118
+- Resueltas: **3228** — 1953 ganadas / 1275 perdidas (**61%** de acierto)
+- Pendientes: 117
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,534,828** sobre $174,249,554 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$9,791** sobre $317,900 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$1,568,323** sobre $174,283,050 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$9,891** sobre $318,000 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -125,7 +125,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Sassy-Bucket | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $68,000 | — | ⏳ Pendiente |
 | Tiger200 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $117,925 | — | ⏳ Pendiente |
 | beeemw | Will US Lecce win on 2026-09-20? | No | 1.06 (94¢) | $67,951 | +$4,337 | ✅ Ganada |
-| predictionlegend | Will Real Sociedad de Fútbol win on 2026-09-20? | No | 1.59 (63¢) | $33,495 | — | ⏳ Pendiente |
+| predictionlegend | Will Real Sociedad de Fútbol win on 2026-09-20? | No | 1.59 (63¢) | $33,495 | -$33,495 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Packers vs. Jets | Packers | 1.61 (62¢) | $28,520 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Packers vs. Jets | Jets | 2.38 (42¢) | $31,823 | — | ⏳ Pendiente |
 | gambamaster | Packers vs. Jets | Packers | 1.72 (58¢) | $32,343 | — | ⏳ Pendiente |
