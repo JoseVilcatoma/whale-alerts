@@ -49036,5 +49036,35 @@
     "status": "pending",
     "ultimo_fill": 1789921571,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6582,
+    "timestamp": 1789921661,
+    "username": "177-letsgo",
+    "wallet": "0x7a75a4183e577123db9ff0adff520561ef95d288",
+    "slug": "nfl-cle-tb-2026-09-20",
+    "title": "Browns vs. Buccaneers",
+    "outcome": "Buccaneers",
+    "side": "BUY",
+    "usd": 46799.22,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1789921661,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6583,
+    "timestamp": 1789921716,
+    "username": "raybanman",
+    "wallet": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+    "slug": "nfl-no-bal-2026-09-20",
+    "title": "Saints vs. Ravens",
+    "outcome": "Saints",
+    "side": "BUY",
+    "usd": 33000.0,
+    "odds_at_bet": 22,
+    "status": "pending",
+    "ultimo_fill": 1789921716,
+    "fills": 1
   }
 ]

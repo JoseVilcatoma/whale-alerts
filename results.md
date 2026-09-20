@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 11:27:31 (hora de Perú)
+Actualizado: 2026-09-20 11:29:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3262**  ($176,077,576 en total)
+- Apuestas registradas: **3264**  ($176,157,376 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 98
+- Pendientes: 100
 - Apostadores distintos: 437
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 437 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Saints vs. Ravens | Saints | 4.55 (22¢) | $33,000 | — | ⏳ Pendiente |
+| 177-letsgo | Browns vs. Buccaneers | Buccaneers | 1.28 (78¢) | $46,799 | — | ⏳ Pendiente |
 | raybanman | Spread: BAL (-8.5) | NO | 1.89 (53¢) | $37,250 | — | ⏳ Pendiente |
 | tiger105 | Fulham FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $32,633 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 2.50 (40¢) | $27,425 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 437 en total)_
 | ratatatatatatatataaaa | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.96 (51¢) | $81,236 | — | ⏳ Pendiente |
 | Donkey14 | Panthers vs. Falcons | Panthers | 1.75 (57¢) | $38,276 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.75 (57¢) | $27,225 | — | ⏳ Pendiente |
-| raybanman | Will Real Madrid CF win on 2026-09-20? | No | 1.92 (52¢) | $35,835 | — | ⏳ Pendiente |
-| Ancient-Strike | Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs | Vitality | 1.37 (73¢) | $47,640 | — | ⏳ Pendiente |
