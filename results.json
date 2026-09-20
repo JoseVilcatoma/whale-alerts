@@ -46681,5 +46681,50 @@
     "status": "pending",
     "ultimo_fill": 1789862561,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6332,
+    "timestamp": 1789864929,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "ufc-ale8-jos49-2026-09-19",
+    "title": "UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card)",
+    "outcome": "Alexandre Pantoja",
+    "side": "BUY",
+    "usd": 41000.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1789864929,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6333,
+    "timestamp": 1789864956,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ufc-ale8-jos49-2026-09-19",
+    "title": "UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card)",
+    "outcome": "Alexandre Pantoja",
+    "side": "BUY",
+    "usd": 26058.4028,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1789864956,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6334,
+    "timestamp": 1789865039,
+    "username": "donaldbush",
+    "wallet": "0x66b23cd8bcb651e11b70f6f340ce154864870fdf",
+    "slug": "cfb-lsu-miss-2026-09-19",
+    "title": "LSU vs. Ole Miss",
+    "outcome": "Ole Miss",
+    "side": "BUY",
+    "usd": 32396.9019,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1789865039,
+    "fills": 1
   }
 ]
