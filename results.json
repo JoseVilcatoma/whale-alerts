@@ -49096,5 +49096,20 @@
     "status": "pending",
     "ultimo_fill": 1789922073,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6586,
+    "timestamp": 1789922411,
+    "username": "0xd4aa6f8e91cfea29b66a48ebff52814",
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "slug": "nfl-was-dal-2026-09-20-spread-home-4pt5",
+    "title": "Spread: Cowboys (-4.5)",
+    "outcome": "Cowboys",
+    "side": "BUY",
+    "usd": 33696.96,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1789922411,
+    "fills": 1
   }
 ]
