@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:50:23 (hora de Perú)
+Actualizado: 2026-09-20 10:52:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3249**  ($175,473,204 en total)
+- Apuestas registradas: **3250**  ($175,510,644 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 85
+- Pendientes: 86
 - Apostadores distintos: 435
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 435 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| maz26 | Browns vs. Buccaneers | Buccaneers | 1.28 (78¢) | $37,440 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.19 (84¢) | $36,974 | — | ⏳ Pendiente |
 | RegardedMoney | Spread: Packers (-2.5) | Jets | 2.22 (45¢) | $29,648 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Steelers vs. Patriots: O/U 41.5 | Over 41.5 | 2.04 (49¢) | $30,993 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 435 en total)_
 | Kch-Temp | Eagles vs. Titans | Titans | 3.85 (26¢) | $98,499 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Bears (-4.5) | Vikings | 1.96 (51¢) | $31,443 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | AFC Bournemouth vs. Liverpool FC: O/U 0.5 | Over 0.5 | 1.09 (92¢) | $72,732 | +$6,325 | ✅ Ganada |
-| SDTrading | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $31,079 | — | ⏳ Pendiente |
