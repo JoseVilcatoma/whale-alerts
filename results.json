@@ -47131,5 +47131,20 @@
     "status": "pending",
     "ultimo_fill": 1789874049,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6378,
+    "timestamp": 1789874344,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ufc-ale8-jos49-2026-09-19",
+    "title": "UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card)",
+    "outcome": "Joshua Van",
+    "side": "BUY",
+    "usd": 28999.999999999996,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1789874344,
+    "fills": 1
   }
 ]
