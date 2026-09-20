@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 13:45:06 (hora de Perú)
+Actualizado: 2026-09-20 13:47:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3319**  ($178,759,477 en total)
+- Apuestas registradas: **3320**  ($178,784,977 en total)
 - Resueltas: **3158** — 1913 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 145
-- Apostadores distintos: 438
+- Pendientes: 146
+- Apostadores distintos: 439
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | maz26 | 4 | 1 | 8 | ⚠️ 80% (5) | $856,222 | +$98,394 |
 
-_(mostrando los 40 de mayor monto, de 438 en total)_
+_(mostrando los 40 de mayor monto, de 439 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| marchettamaker | Valencia CF vs. Real Sociedad de Fútbol: O/U 2.5 | Under 2.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | maz26 | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $150,570 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Panthers vs. Falcons | Panthers | 1.16 (86¢) | $56,577 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Saints vs. Ravens | Ravens | 1.12 (89¢) | $57,503 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | 177-letsgo | Browns vs. Buccaneers | Buccaneers | 1.28 (78¢) | $46,799 | — | ⏳ Pendiente |
 | raybanman | Spread: BAL (-8.5) | NO | 1.89 (53¢) | $37,250 | — | ⏳ Pendiente |
 | tiger105 | Fulham FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $32,633 | +$5,759 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 2.50 (40¢) | $27,425 | — | ⏳ Pendiente |
