@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 13:09:40 (hora de Perú)
+Actualizado: 2026-09-20 13:11:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3308**  ($177,981,613 en total)
+- Apuestas registradas: **3310**  ($178,167,538 en total)
 - Resueltas: **3155** — 1910 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 137
+- Pendientes: 139
 - Apostadores distintos: 438
 
 ### Balance
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 48 | 28 | 11 | 63% | $4,675,228 | -$132,094 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| Sassy-Bucket | 29 | 31 | 5 | 48% | $3,271,577 | -$228,159 |
 | Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
-| Sassy-Bucket | 29 | 31 | 4 | 48% | $3,203,577 | -$228,159 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $68,000 | — | ⏳ Pendiente |
+| Tiger200 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $117,925 | — | ⏳ Pendiente |
 | beeemw | Will US Lecce win on 2026-09-20? | No | 1.06 (94¢) | $67,951 | — | ⏳ Pendiente |
 | predictionlegend | Will Real Sociedad de Fútbol win on 2026-09-20? | No | 1.59 (63¢) | $33,495 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Packers vs. Jets | Packers | 1.61 (62¢) | $28,520 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
 | justwins | Panthers vs. Falcons | Falcons | 2.27 (44¢) | $69,907 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Panthers vs. Falcons | Panthers | 1.79 (56¢) | $31,580 | — | ⏳ Pendiente |
-| maz26 | Browns vs. Buccaneers | Buccaneers | 1.28 (78¢) | $37,440 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.19 (84¢) | $36,974 | — | ⏳ Pendiente |
