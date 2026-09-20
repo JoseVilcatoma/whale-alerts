@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 16:26:21 (hora de Perú)
+Actualizado: 2026-09-20 16:28:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3359**  ($181,317,610 en total)
+- Apuestas registradas: **3361**  ($181,384,220 en total)
 - Resueltas: **3225** — 1953 ganadas / 1272 perdidas (**61%** de acierto)
-- Pendientes: 118
+- Pendientes: 120
 - Apostadores distintos: 441
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 242 | 124 | 10 | 66% | $24,704,998 | +$1,041,777 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 242 | 124 | 11 | 66% | $24,736,893 | +$1,041,777 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 69 | 1 | 54% | $6,162,969 | -$226,170 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -59,8 +59,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 7 | 5 | 7 | 58% | $1,046,987 | +$80,373 |
 | Talvez10 | 9 | 9 | 3 | 50% | $1,046,960 | +$165,257 |
+| ndb1 | 8 | 7 | 3 | 53% | $977,951 | +$158,221 |
 | maz26 | 4 | 1 | 9 | ⚠️ 80% (5) | $950,222 | +$98,394 |
-| ndb1 | 8 | 7 | 2 | 53% | $943,236 | +$158,221 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raiders vs. Chargers | Raiders | 2.44 (41¢) | $31,895 | — | ⏳ Pendiente |
+| ndb1 | Dolphins vs. 49ers | 49ers | 1.08 (93¢) | $34,715 | — | ⏳ Pendiente |
 | gambamaster | Raiders vs. Chargers | Chargers | 1.56 (64¢) | $27,804 | — | ⏳ Pendiente |
 | 3648393489047 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $26,700 | — | ⏳ Pendiente |
 | cosmicxbt | Commanders vs. Cowboys | Cowboys | 1.25 (80¢) | $67,885 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | gambamaster | Packers vs. Jets | Packers | 1.72 (58¢) | $32,343 | — | ⏳ Pendiente |
 | mooseborzoi | Eagles vs. Titans | Eagles | 1.30 (77¢) | $42,326 | +$12,643 | ✅ Ganada |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.04 (49¢) | $29,463 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Saints vs. Ravens | Ravens | 1.19 (84¢) | $37,282 | -$37,282 | ❌ Perdida |
-| Sassy-Bucket | Toronto Blue Jays vs. Texas Rangers: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $45,938 | +$53,928 | ✅ Ganada |

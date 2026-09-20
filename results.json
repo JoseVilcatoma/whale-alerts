@@ -50495,5 +50495,35 @@
     "status": "pending",
     "ultimo_fill": 1789938515,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6757,
+    "timestamp": 1789939621,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "nfl-mia-sf-2026-09-20",
+    "title": "Dolphins vs. 49ers",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 34715.21345,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1789939621,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6758,
+    "timestamp": 1789939637,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-lv-lac-2026-09-20",
+    "title": "Raiders vs. Chargers",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "usd": 31895.084899999998,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1789939637,
+    "fills": 1
   }
 ]
