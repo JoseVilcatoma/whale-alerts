@@ -46228,7 +46228,7 @@
     "side": "BUY",
     "usd": 53169.689999999995,
     "odds_at_bet": 94,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789848069,
     "fills": 1
   },
@@ -46665,6 +46665,21 @@
     "odds_at_bet": 87,
     "status": "pending",
     "ultimo_fill": 1789861716,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6325,
+    "timestamp": 1789862561,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "cfb-lsu-miss-2026-09-19",
+    "title": "LSU vs. Ole Miss",
+    "outcome": "LSU",
+    "side": "BUY",
+    "usd": 28775.9655,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789862561,
     "fills": 1
   }
 ]

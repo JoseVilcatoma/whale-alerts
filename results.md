@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 19:00:52 (hora de Perú)
+Actualizado: 2026-09-19 19:02:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3104**  ($167,893,362 en total)
-- Resueltas: **3052** — 1839 ganadas / 1213 perdidas (**60%** de acierto)
+- Apuestas registradas: **3105**  ($167,922,138 en total)
+- Resueltas: **3053** — 1840 ganadas / 1213 perdidas (**60%** de acierto)
 - Pendientes: 36
 - Apostadores distintos: 420
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,321,570** sobre $165,499,654 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,332** sobre $300,600 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,318,176** sobre $165,552,824 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,326** sobre $300,700 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
-| phonesculptor | 10 | 2 | 1 | 83% | $841,168 | -$14,979 |
+| phonesculptor | 11 | 2 | 0 | 85% | $841,168 | -$11,585 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 9 | 1 | 59% | $821,930 | -$51,522 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,776 | — | ⏳ Pendiente |
 | ethanaz | Florida State vs. Alabama | Alabama | 1.15 (87¢) | $89,376 | — | ⏳ Pendiente |
 | maz26 | Fresno State vs. San Jose State | San Jose State | 2.86 (35¢) | $44,362 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Florida State vs. Alabama | Alabama | 1.28 (78¢) | $30,295 | — | ⏳ Pendiente |
@@ -100,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami (OH) vs. Cincinnati | Cincinnati | 1.39 (72¢) | $30,664 | +$11,925 | ✅ Ganada |
 | Roadto1mlesgooo | Sevilla FC vs. FC Barcelona: O/U 2.5 | Over 2.5 | 1.12 (89¢) | $28,869 | +$3,568 | ✅ Ganada |
 | maz26 | SMU vs. Louisville | Louisville | 1.75 (57¢) | $53,317 | — | ⏳ Pendiente |
-| phonesculptor | USC vs. Rutgers | USC | 1.06 (94¢) | $53,170 | — | ⏳ Pendiente |
+| phonesculptor | USC vs. Rutgers | USC | 1.06 (94¢) | $53,170 | +$3,394 | ✅ Ganada |
 | 177-letsgo | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $87,400 | — | ⏳ Pendiente |
 | Donkey14 | Mississippi State vs. South Carolina | South Carolina | 1.64 (61¢) | $31,191 | — | ⏳ Pendiente |
 | maz26 | SMU vs. Louisville | Louisville | 1.79 (56¢) | $72,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 420 en total)_
 | fantasy7788 | LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 3.45 (29¢) | $40,000 | +$97,931 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: Delaware (-4.5) | Delaware | 1.89 (53¢) | $27,825 | +$24,675 | ✅ Ganada |
 | Roadto1mlesgooo | Brighton & Hove Albion FC vs. Arsenal FC: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $25,069 | +$3,419 | ✅ Ganada |
-| Jsram | Spread: FC Barcelona (-1.5) | Sevilla FC | 2.22 (45¢) | $45,718 | -$45,718 | ❌ Perdida |
