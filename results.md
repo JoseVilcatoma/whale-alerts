@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 12:19:40 (hora de Perú)
+Actualizado: 2026-09-20 12:21:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3292**  ($177,313,010 en total)
+- Apuestas registradas: **3295**  ($177,439,501 en total)
 - Resueltas: **3151** — 1906 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 125
+- Pendientes: 128
 - Apostadores distintos: 438
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 2 | 54% | $6,162,969 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 65 | 47 | 2 | 58% | $5,231,035 | +$610,220 |
+| pleaseplease123 | 65 | 47 | 3 | 58% | $5,283,723 | +$610,220 |
 | wr0ngw4yb3tt0r | 48 | 28 | 11 | 63% | $4,675,228 | -$132,094 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -52,9 +52,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 14 | 14 | 3 | 50% | $1,337,042 | -$196,221 |
 | SDTrading | 18 | 22 | 3 | 45% | $1,280,596 | -$194,283 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
+| ethanaz | 10 | 3 | 4 | 77% | $1,242,502 | -$147,797 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 1 | 33% | $1,228,977 | -$469,491 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
-| ethanaz | 10 | 3 | 3 | 77% | $1,210,304 | -$147,797 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 7 | 3 | 9 | 70% | $1,046,987 | +$213,243 |
 | Talvez10 | 9 | 9 | 1 | 50% | $984,565 | +$165,257 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $52,688 | — | ⏳ Pendiente |
+| ethanaz | Eagles vs. Titans | Titans | 2.50 (40¢) | $32,198 | — | ⏳ Pendiente |
+| gambamaster | Packers vs. Jets | Packers | 1.79 (56¢) | $41,604 | — | ⏳ Pendiente |
 | ethanaz | Packers vs. Jets | Packers | 1.75 (57¢) | $26,166 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Chargers (-6.5) | Raiders | 2.04 (49¢) | $29,927 | — | ⏳ Pendiente |
 | HVAB | Valencia: Alicia Herrero Linana vs Clara Burel | Clara Burel | 1.45 (69¢) | $25,668 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | ferrariChampions2026 | Spread: Panthers (-2.5) | Panthers | 1.96 (51¢) | $32,439 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Buccaneers (-7.5) | Browns | 2.00 (50¢) | $29,902 | — | ⏳ Pendiente |
 | ic4cream | Eagles vs. Titans | Eagles | 1.33 (75¢) | $61,250 | — | ⏳ Pendiente |
-| 0x80d5aebbE7a714879177E4dAE0014195beb3987E-1789159822906 | Will Juventus FC win on 2026-09-20? | Yes | 1.69 (59¢) | $41,300 | — | ⏳ Pendiente |
-| Donkey14 | Bengals vs. Texans | Texans | 1.72 (58¢) | $41,429 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: Chargers (-6.5) | Raiders | 2.04 (49¢) | $140,107 | — | ⏳ Pendiente |
