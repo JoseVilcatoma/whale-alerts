@@ -48106,5 +48106,20 @@
     "status": "pending",
     "ultimo_fill": 1789912810,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6498,
+    "timestamp": 1789913396,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "epl-bou-liv-2026-09-20-draw",
+    "title": "Will AFC Bournemouth vs. Liverpool FC end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 145847.8395,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1789913396,
+    "fills": 1
   }
 ]

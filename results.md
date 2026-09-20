@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 09:08:14 (hora de Perú)
+Actualizado: 2026-09-20 09:10:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3200**  ($172,476,853 en total)
+- Apuestas registradas: **3201**  ($172,622,701 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 58
+- Pendientes: 59
 - Apostadores distintos: 430
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 235 | 123 | 6 | 66% | $24,032,419 | +$913,067 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 235 | 123 | 7 | 66% | $24,178,266 | +$913,067 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 2 | 54% | $6,162,969 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Bournemouth vs. Liverpool FC end in a draw? | Yes | 2.70 (37¢) | $145,848 | — | ⏳ Pendiente |
 | raybanman | Will Real Madrid CF win on 2026-09-20? | No | 1.92 (52¢) | $55,456 | — | ⏳ Pendiente |
 | wigglew | Eagles vs. Titans | Eagles | 1.33 (75¢) | $130,717 | — | ⏳ Pendiente |
 | justwins | Bengals vs. Texans: O/U 45.5 | Under 45.5 | 1.96 (51¢) | $30,010 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | Diabolical-Prize | Vikings vs. Bears | Vikings | 3.03 (33¢) | $25,399 | — | ⏳ Pendiente |
 | 11111111111111111111112 | LoL: EDward Gaming Youth Team vs T1 Academy (BO1) - World Star Challengers Invitational Group A | T1 Academy | 1.11 (90¢) | $26,062 | -$26,062 | ❌ Perdida |
 | jtwyslljy | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $27,200 | — | ⏳ Pendiente |
-| ethanaz | James Madison vs. San Diego State | James Madison | 1.08 (93¢) | $181,474 | +$13,659 | ✅ Ganada |
