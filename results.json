@@ -49606,5 +49606,35 @@
     "status": "pending",
     "ultimo_fill": 1789925130,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6623,
+    "timestamp": 1789925549,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-no-bal-2026-09-20",
+    "title": "Saints vs. Ravens",
+    "outcome": "Ravens",
+    "side": "BUY",
+    "usd": 37281.5184,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1789925549,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6624,
+    "timestamp": 1789925648,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-min-laa-2026-09-20",
+    "title": "Minnesota Twins vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 29463.2149,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1789925648,
+    "fills": 1
   }
 ]
