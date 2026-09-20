@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 08:56:01 (hora de Perú)
+Actualizado: 2026-09-20 08:57:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3196**  ($172,162,171 en total)
+- Apuestas registradas: **3199**  ($172,421,397 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 54
+- Pendientes: 57
 - Apostadores distintos: 430
 
 ### Balance
@@ -56,10 +56,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
 | ethanaz | 10 | 3 | 0 | 77% | $1,110,448 | -$147,797 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
+| Kch-Temp | 7 | 2 | 8 | 78% | $983,367 | +$254,459 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
-| Kch-Temp | 7 | 2 | 7 | 78% | $884,868 | +$254,459 |
 | phonesculptor | 12 | 2 | 0 | 86% | $873,288 | -$7,205 |
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
@@ -71,10 +71,13 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wigglew | Eagles vs. Titans | Eagles | 1.33 (75¢) | $130,717 | — | ⏳ Pendiente |
+| justwins | Bengals vs. Texans: O/U 45.5 | Under 45.5 | 1.96 (51¢) | $30,010 | — | ⏳ Pendiente |
 | justwins | Eagles vs. Titans: O/U 39.5 | Under 39.5 | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Eagles (-7.5) | Titans | 1.85 (54¢) | $31,865 | — | ⏳ Pendiente |
 | Herdonia | Eagles vs. Titans | Eagles | 1.35 (74¢) | $38,232 | — | ⏳ Pendiente |
 | TKD44 | Eagles vs. Titans | Eagles | 1.35 (74¢) | $44,400 | — | ⏳ Pendiente |
+| Kch-Temp | Eagles vs. Titans | Titans | 3.85 (26¢) | $98,499 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Bears (-4.5) | Vikings | 1.96 (51¢) | $31,443 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | AFC Bournemouth vs. Liverpool FC: O/U 0.5 | Over 0.5 | 1.09 (92¢) | $72,732 | — | ⏳ Pendiente |
 | SDTrading | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $31,079 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | jtwyslljy | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $27,200 | — | ⏳ Pendiente |
 | ethanaz | James Madison vs. San Diego State | James Madison | 1.08 (93¢) | $181,474 | +$13,659 | ✅ Ganada |
 | 3648393489047 | Fresno State vs. San Jose State | Fresno State | 1.47 (68¢) | $31,491 | +$14,819 | ✅ Ganada |
-| Takon88 | Will Real Madrid CF win on 2026-09-20? | No | 1.92 (52¢) | $114,059 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | James Madison vs. San Diego State | James Madison | 1.16 (86¢) | $26,768 | +$4,358 | ✅ Ganada |
-| surfandturf | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $88,500 | +$61,500 | ✅ Ganada |

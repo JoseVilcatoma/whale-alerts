@@ -48046,5 +48046,50 @@
     "status": "pending",
     "ultimo_fill": 1789912085,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6494,
+    "timestamp": 1789912306,
+    "username": "wigglew",
+    "wallet": "0xc96e5287ab294ac0388c2ddb00180fc464cff1f9",
+    "slug": "nfl-phi-ten-2026-09-20",
+    "title": "Eagles vs. Titans",
+    "outcome": "Eagles",
+    "side": "BUY",
+    "usd": 130716.7875,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1789912306,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 6495,
+    "timestamp": 1789912278,
+    "username": "justwins",
+    "wallet": "0xa2cced8bfae7d645f7f437fb76becf2fcbb70cbc",
+    "slug": "nfl-cin-hou-2026-09-20-total-45pt5",
+    "title": "Bengals vs. Texans: O/U 45.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 30009.828,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789912278,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6496,
+    "timestamp": 1789911784,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "nfl-phi-ten-2026-09-20",
+    "title": "Eagles vs. Titans",
+    "outcome": "Titans",
+    "side": "BUY",
+    "usd": 98499.2034,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "ultimo_fill": 1789911784,
+    "fills": 2
   }
 ]
