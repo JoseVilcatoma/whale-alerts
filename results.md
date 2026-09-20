@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 17:42:58 (hora de Perú)
+Actualizado: 2026-09-20 17:44:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3365**  ($181,555,251 en total)
-- Resueltas: **3267** — 1973 ganadas / 1294 perdidas (**60%** de acierto)
-- Pendientes: 82
+- Resueltas: **3272** — 1975 ganadas / 1297 perdidas (**60%** de acierto)
+- Pendientes: 77
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,719,766** sobre $176,117,281 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,223** sobre $321,900 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$1,501,368** sobre $176,406,545 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,056** sobre $322,400 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -57,10 +57,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | Elaran1993 | 7 | 6 | 1 | 54% | $1,087,702 | +$83,076 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
-| Kch-Temp | 8 | 6 | 5 | 57% | $1,046,987 | +$78,267 |
+| Kch-Temp | 9 | 6 | 4 | 60% | $1,046,987 | +$345,915 |
 | Talvez10 | 9 | 10 | 2 | 47% | $1,046,960 | +$136,449 |
 | ndb1 | 8 | 7 | 3 | 53% | $977,951 | +$158,221 |
-| maz26 | 5 | 3 | 6 | 62% | $950,222 | -$62,155 |
+| maz26 | 5 | 4 | 5 | 56% | $950,222 | -$99,595 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Feromont | Spread: Chargers (-6.5) | Chargers | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
 | optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | -$6,148 | 💰 Vendida antes |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
-| Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $77,327 | — | ⏳ Pendiente |
+| Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $77,327 | +$87,198 | ✅ Ganada |
 | jaytee158 | LoL: Team Liquid vs FlyQuest (BO5) - LCS Playoffs | Team Liquid | 1.32 (76¢) | $30,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 1.18 (85¢) | $47,596 | -$47,596 | ❌ Perdida |
 | Sassy-Bucket | Washington Mystics vs. Indiana Fever | Indiana Fever | 1.47 (68¢) | $40,800 | — | ⏳ Pendiente |
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-6.5) | Titans | 1.06 (94¢) | $32,847 | +$2,097 | ✅ Ganada |
 | AnonymousUsername | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $47,775 | — | ⏳ Pendiente |
 | surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $72,119 | — | ⏳ Pendiente |
-| Laskhask | Browns vs. Buccaneers | Buccaneers | 1.47 (68¢) | $52,208 | — | ⏳ Pendiente |
+| Laskhask | Browns vs. Buccaneers | Buccaneers | 1.47 (68¢) | $52,208 | -$52,208 | ❌ Perdida |
 | Donkey14 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $30,291 | — | ⏳ Pendiente |
 | rf13g145g41g4g4 | Jaguars vs. Broncos | Jaguars | 2.27 (44¢) | $47,593 | — | ⏳ Pendiente |
 | Laskhask | Eagles vs. Titans | Eagles | 1.41 (71¢) | $55,932 | +$22,845 | ✅ Ganada |
