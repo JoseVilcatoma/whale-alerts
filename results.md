@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 17:30:38 (hora de Perú)
+Actualizado: 2026-09-20 17:32:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3364**  ($181,502,382 en total)
-- Resueltas: **3250** — 1962 ganadas / 1288 perdidas (**60%** de acierto)
-- Pendientes: 98
+- Resueltas: **3252** — 1963 ganadas / 1289 perdidas (**60%** de acierto)
+- Pendientes: 96
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,811,733** sobre $175,287,432 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,583** sobre $320,200 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$1,838,444** sobre $175,349,087 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,677** sobre $320,400 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 244 | 126 | 7 | 66% | $24,736,893 | +$1,008,448 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 245 | 126 | 6 | 66% | $24,736,893 | +$1,010,544 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 69 | 1 | 54% | $6,162,969 | -$226,170 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Elaran1993 | 7 | 6 | 1 | 54% | $1,087,702 | +$83,076 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 8 | 6 | 5 | 57% | $1,046,987 | +$78,267 |
-| Talvez10 | 9 | 9 | 3 | 50% | $1,046,960 | +$165,257 |
+| Talvez10 | 9 | 10 | 2 | 47% | $1,046,960 | +$136,449 |
 | ndb1 | 8 | 7 | 3 | 53% | $977,951 | +$158,221 |
 | maz26 | 4 | 2 | 8 | ⚠️ 67% (6) | $950,222 | -$57,606 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Sassy-Bucket | Washington Mystics vs. Indiana Fever | Indiana Fever | 1.47 (68¢) | $40,800 | — | ⏳ Pendiente |
 | Laskhask | Eagles vs. Titans | Titans | 1.54 (65¢) | $29,539 | -$29,539 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 2.78 (36¢) | $70,874 | +$125,998 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-6.5) | Titans | 1.06 (94¢) | $32,847 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-6.5) | Titans | 1.06 (94¢) | $32,847 | +$2,097 | ✅ Ganada |
 | AnonymousUsername | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $47,775 | — | ⏳ Pendiente |
 | surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $72,119 | — | ⏳ Pendiente |
 | Laskhask | Browns vs. Buccaneers | Buccaneers | 1.47 (68¢) | $52,208 | — | ⏳ Pendiente |
