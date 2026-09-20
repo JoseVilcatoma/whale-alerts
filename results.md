@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 13:26:22 (hora de Perú)
+Actualizado: 2026-09-20 13:28:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3315**  ($178,441,539 en total)
+- Apuestas registradas: **3316**  ($178,494,826 en total)
 - Resueltas: **3158** — 1913 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 141
+- Pendientes: 142
 - Apostadores distintos: 438
 
 ### Balance
@@ -42,8 +42,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 25 | 2 | 1 | 93% | $2,014,685 | +$88,444 |
 | BrotherObama | 21 | 20 | 3 | 51% | $1,915,334 | +$192,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
+| ferrariChampions2026 | 26 | 14 | 6 | 65% | $1,810,923 | -$397,434 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| ferrariChampions2026 | 26 | 14 | 5 | 65% | $1,757,636 | -$397,434 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Eagles vs. Titans | Eagles | 1.16 (86¢) | $53,287 | — | ⏳ Pendiente |
 | cosmicxbt | Panthers vs. Falcons | Panthers | 1.11 (90¢) | $63,000 | — | ⏳ Pendiente |
 | Talvez10 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.89 (53¢) | $33,587 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $54,929 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | theowalcott | Spread: Deportivo Toluca FC (-1.5) | Deportivo Toluca FC | 1.72 (58¢) | $30,062 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Steelers vs. Patriots: O/U 41.5 | Over 41.5 | 2.04 (49¢) | $65,062 | — | ⏳ Pendiente |
 | weflyhigh | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.96 (51¢) | $67,472 | — | ⏳ Pendiente |
-| maz26 | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.96 (51¢) | $47,568 | — | ⏳ Pendiente |
