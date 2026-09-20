@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 20:35:23 (hora de Perú)
+Actualizado: 2026-09-19 20:37:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3117**  ($168,398,309 en total)
+- Apuestas registradas: **3118**  ($168,448,309 en total)
 - Resueltas: **3063** — 1847 ganadas / 1216 perdidas (**60%** de acierto)
-- Pendientes: 38
-- Apostadores distintos: 423
+- Pendientes: 39
+- Apostadores distintos: 424
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 9 | 1 | 59% | $821,930 | -$51,522 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 
-_(mostrando los 40 de mayor monto, de 423 en total)_
+_(mostrando los 40 de mayor monto, de 424 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | James Madison vs. San Diego State: O/U 46.5 | Over 46.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | James Madison vs. San Diego State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $28,901 | — | ⏳ Pendiente |
 | jaytee158 | Charlotte vs. Appalachian State | Appalachian State | 1.11 (90¢) | $33,286 | — | ⏳ Pendiente |
 | 0xA0da9371A4Aa5f2eCE33eDa9B6f47b656bAd1F80-1777002339626 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $40,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 423 en total)_
 | Kch-Temp | NC State vs. Vanderbilt: O/U 50.5 | Over 50.5 | 1.92 (52¢) | $53,602 | +$49,479 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Coastal Carolina vs. Delaware | Delaware | 1.56 (64¢) | $28,947 | +$16,283 | ✅ Ganada |
 | Berniepaidoff | Coastal Carolina vs. Delaware | Delaware | 1.52 (66¢) | $50,000 | +$25,758 | ✅ Ganada |
-| Berniepaidoff | Arizona State vs. Kansas | Arizona State | 1.49 (67¢) | $50,000 | +$24,627 | ✅ Ganada |
