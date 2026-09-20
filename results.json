@@ -49306,5 +49306,20 @@
     "status": "pending",
     "ultimo_fill": 1789923753,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6603,
+    "timestamp": 1789923891,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nfl-jax-den-2026-09-20",
+    "title": "Jaguars vs. Broncos",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 39767.4408,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789923891,
+    "fills": 1
   }
 ]
