@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 14:55:21 (hora de Perú)
+Actualizado: 2026-09-20 14:57:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3334**  ($179,419,713 en total)
+- Apuestas registradas: **3335**  ($179,450,113 en total)
 - Resueltas: **3163** — 1918 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 155
+- Pendientes: 156
 - Apostadores distintos: 440
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jaytee158 | LoL: Team Liquid vs FlyQuest (BO5) - LCS Playoffs | Team Liquid | 1.32 (76¢) | $30,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 1.18 (85¢) | $47,596 | — | ⏳ Pendiente |
 | Sassy-Bucket | Washington Mystics vs. Indiana Fever | Indiana Fever | 1.47 (68¢) | $40,800 | — | ⏳ Pendiente |
 | Laskhask | Eagles vs. Titans | Titans | 1.54 (65¢) | $29,539 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 | surfandturf | Panthers vs. Falcons | Panthers | 1.82 (55¢) | $68,750 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Patriots (-5.5) | Patriots | 2.13 (47¢) | $34,679 | — | ⏳ Pendiente |
 | Painfulvoid | Bengals vs. Texans | Texans | 1.72 (58¢) | $28,595 | — | ⏳ Pendiente |
-| Feromont | Spread: Patriots (-4.5) | Steelers | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
