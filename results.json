@@ -48586,5 +48586,20 @@
     "status": "pending",
     "ultimo_fill": 1789917755,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6552,
+    "timestamp": 1789917966,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-lv-lac-2026-09-20-spread-home-6pt5",
+    "title": "Spread: Chargers (-6.5)",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "usd": 140106.9936,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1789917966,
+    "fills": 2
   }
 ]

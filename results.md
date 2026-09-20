@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:25:06 (hora de Perú)
+Actualizado: 2026-09-20 10:27:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3232**  ($174,503,804 en total)
+- Apuestas registradas: **3233**  ($174,643,911 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 68
+- Pendientes: 69
 - Apostadores distintos: 434
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 65 | 47 | 2 | 58% | $5,231,035 | +$610,220 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 48 | 28 | 3 | 63% | $4,149,512 | -$132,094 |
+| wr0ngw4yb3tt0r | 48 | 28 | 4 | 63% | $4,289,619 | -$132,094 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
 | Sassy-Bucket | 29 | 31 | 1 | 48% | $3,072,556 | -$228,159 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 434 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Chargers (-6.5) | Raiders | 2.04 (49¢) | $140,107 | — | ⏳ Pendiente |
 | DimSumConnoisseur. | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $81,600 | — | ⏳ Pendiente |
 | 0F62 | Will Olympique de Marseille win on 2026-09-20? | No | 1.15 (87¢) | $54,320 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Chargers (-6.5) | Raiders | 2.04 (49¢) | $97,868 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 434 en total)_
 | Kch-Temp | Vikings vs. Bears: O/U 47.5 | Under 47.5 | 1.89 (53¢) | $29,715 | — | ⏳ Pendiente |
 | MiltonFriedmanHongKong | Will Manchester City FC win on 2026-09-20? | No | 3.57 (28¢) | $30,098 | -$30,098 | ❌ Perdida |
 | Jsram | AFC Bournemouth vs. Liverpool FC: O/U 3.5 | Under 3.5 | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
-| flashclub | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $54,113 | +$20,014 | ✅ Ganada |
