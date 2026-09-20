@@ -46786,5 +46786,20 @@
     "status": "pending",
     "ultimo_fill": 1789866311,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6342,
+    "timestamp": 1789866572,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "ufc-arm-mau4-2026-09-19",
+    "title": "UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card)",
+    "outcome": "Arman Tsarukyan",
+    "side": "BUY",
+    "usd": 26915.811429,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1789866572,
+    "fills": 1
   }
 ]
