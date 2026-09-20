@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 17:04:00 (hora de Perú)
+Actualizado: 2026-09-20 17:08:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3361**  ($181,384,220 en total)
+- Apuestas registradas: **3362**  ($181,434,467 en total)
 - Resueltas: **3245** — 1960 ganadas / 1285 perdidas (**60%** de acierto)
-- Pendientes: 100
+- Pendientes: 101
 - Apostadores distintos: 441
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jaytee158 | Commanders vs. Cowboys | Cowboys | 1.16 (86¢) | $50,247 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raiders vs. Chargers | Raiders | 2.44 (41¢) | $31,895 | — | ⏳ Pendiente |
 | ndb1 | Dolphins vs. 49ers | 49ers | 1.08 (93¢) | $34,715 | — | ⏳ Pendiente |
 | gambamaster | Raiders vs. Chargers | Chargers | 1.56 (64¢) | $27,804 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | ferrariChampions2026 | Packers vs. Jets | Jets | 2.38 (42¢) | $31,823 | -$31,823 | ❌ Perdida |
 | gambamaster | Packers vs. Jets | Packers | 1.72 (58¢) | $32,343 | +$23,421 | ✅ Ganada |
 | mooseborzoi | Eagles vs. Titans | Eagles | 1.30 (77¢) | $42,326 | +$12,643 | ✅ Ganada |
-| pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.04 (49¢) | $29,463 | — | ⏳ Pendiente |
