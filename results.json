@@ -46876,5 +46876,20 @@
     "status": "pending",
     "ultimo_fill": 1789868205,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6349,
+    "timestamp": 1789868397,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-jmad-sdst-2026-09-19-total-46pt5",
+    "title": "James Madison vs. San Diego State: O/U 46.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 25025.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1789868397,
+    "fills": 1
   }
 ]
