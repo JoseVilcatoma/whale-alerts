@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:02:04 (hora de Perú)
+Actualizado: 2026-09-20 10:04:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3220**  ($173,655,908 en total)
+- Apuestas registradas: **3222**  ($173,735,409 en total)
 - Resueltas: **3131** — 1890 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 73
+- Pendientes: 75
 - Apostadores distintos: 431
 
 ### Balance
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
 | ethanaz | 10 | 3 | 0 | 77% | $1,110,448 | -$147,797 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
-| Kch-Temp | 7 | 2 | 9 | 78% | $1,017,737 | +$254,459 |
+| Kch-Temp | 7 | 2 | 10 | 78% | $1,046,987 | +$254,459 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | Flaznorp | 15 | 3 | 2 | 83% | $909,393 | +$94,220 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 431 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| maz26 | Spread: BAL (-8.5) | BAL | 2.08 (48¢) | $50,251 | — | ⏳ Pendiente |
+| Kch-Temp | Packers vs. Jets | Jets | 2.56 (39¢) | $29,250 | — | ⏳ Pendiente |
 | beautifulobsession | Will Fulham FC win on 2026-09-20? | No | 1.37 (73¢) | $35,040 | — | ⏳ Pendiente |
 | justwins | Panthers vs. Falcons: O/U 43.5 | Over 43.5 | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | SDTrading | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 431 en total)_
 | Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $130,358 | — | ⏳ Pendiente |
 | mimi121 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.49 (67¢) | $37,136 | +$18,291 | ✅ Ganada |
 | retordedgremlin125 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $47,653 | +$22,425 | ✅ Ganada |
-| bloodmaster | LoL: Fuego vs EDward Gaming Youth Team (BO1) - World Star Challengers Invitational Group A | EDward Gaming Youth Team | 1.19 (84¢) | $26,742 | +$5,094 | ✅ Ganada |
-| raybanman | Seahawks vs. Cardinals: O/U 41.5 | Over 41.5 | 2.00 (50¢) | $102,606 | — | ⏳ Pendiente |
