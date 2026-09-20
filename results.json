@@ -46921,5 +46921,35 @@
     "status": "pending",
     "ultimo_fill": 1789869217,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6359,
+    "timestamp": 1789869767,
+    "username": "pereira12",
+    "wallet": "0xcb706459515fe4866301c85fb1fb1e5b13653a12",
+    "slug": "ufc-gsteve-sea18-2026-09-19",
+    "title": "UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims)",
+    "outcome": "Gable Steveson",
+    "side": "BUY",
+    "usd": 34654.311,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1789869767,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6360,
+    "timestamp": 1789869840,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "ufc-gsteve-sea18-2026-09-19-totals-1pt5",
+    "title": "O/U 1.5 Rounds",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 27258.2432,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1789869840,
+    "fills": 1
   }
 ]

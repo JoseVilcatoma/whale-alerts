@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 21:02:11 (hora de Perú)
+Actualizado: 2026-09-19 21:04:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3121**  ($168,550,133 en total)
+- Apuestas registradas: **3123**  ($168,612,045 en total)
 - Resueltas: **3070** — 1852 ganadas / 1218 perdidas (**60%** de acierto)
-- Pendientes: 35
-- Apostadores distintos: 425
+- Pendientes: 37
+- Apostadores distintos: 426
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 14 | 9 | 0 | 61% | $821,930 | -$26,266 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 
-_(mostrando los 40 de mayor monto, de 425 en total)_
+_(mostrando los 40 de mayor monto, de 426 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | O/U 1.5 Rounds | Under 1.5 Rounds | 1.22 (82¢) | $27,258 | — | ⏳ Pendiente |
+| pereira12 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.11 (90¢) | $34,654 | — | ⏳ Pendiente |
 | 35808932420 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
 | kkookkoo | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.39 (72¢) | $39,999 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | James Madison vs. San Diego State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $25,025 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 425 en total)_
 | sbsigner | Will Nottingham Forest FC vs. Coventry City FC end in a draw? | No | 1.32 (76¢) | $30,611 | +$9,667 | ✅ Ganada |
 | Sassy-Bucket | North Carolina vs. Clemson | Clemson | 1.69 (59¢) | $27,658 | +$19,220 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Buffalo vs. Penn State: O/U 49.5 | Under 49.5 | 1.89 (53¢) | $43,223 | -$43,223 | ❌ Perdida |
-| phonesculptor | Tulane vs. Kansas State | Kansas State | 1.10 (91¢) | $50,960 | +$5,040 | ✅ Ganada |
-| itwillallbeok | North Carolina vs. Clemson | North Carolina | 2.44 (41¢) | $98,114 | -$98,114 | ❌ Perdida |
