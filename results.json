@@ -47173,7 +47173,7 @@
     "side": "BUY",
     "usd": 26768.1364,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789875095,
     "fills": 1
   },
@@ -47218,7 +47218,7 @@
     "side": "BUY",
     "usd": 181474.2108,
     "odds_at_bet": 93,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789877525,
     "fills": 1
   },
@@ -47400,6 +47400,21 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1789886388,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6434,
+    "timestamp": 1789886562,
+    "username": "raybanman",
+    "wallet": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+    "slug": "nfl-phi-ten-2026-09-20-total-39pt5",
+    "title": "Eagles vs. Titans: O/U 39.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 127201.4544,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789886562,
     "fills": 1
   }
 ]

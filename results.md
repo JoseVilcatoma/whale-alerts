@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 01:40:55 (hora de Perú)
+Actualizado: 2026-09-20 01:42:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3153**  ($170,027,320 en total)
-- Resueltas: **3110** — 1874 ganadas / 1236 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Apuestas registradas: **3154**  ($170,154,522 en total)
+- Resueltas: **3112** — 1876 ganadas / 1236 perdidas (**60%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 429
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,419,869** sobre $168,205,763 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,526** sobre $306,400 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,401,852** sobre $168,414,006 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,503** sobre $306,600 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
 | surfandturf | 8 | 2 | 0 | 80% | $1,195,602 | +$77,057 |
 | SDTrading | 18 | 22 | 0 | 45% | $1,177,356 | -$194,283 |
-| ethanaz | 9 | 3 | 1 | 75% | $1,110,448 | -$161,456 |
+| ethanaz | 10 | 3 | 0 | 77% | $1,110,448 | -$147,797 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Jsram | 13 | 14 | 0 | 48% | $1,060,561 | -$216,221 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Eagles vs. Titans: O/U 39.5 | Over 39.5 | 1.96 (51¢) | $127,201 | — | ⏳ Pendiente |
 | raybanman | Spread: BAL (-8.5) | NO | 1.96 (51¢) | $34,814 | — | ⏳ Pendiente |
 | 0xc1dA8SO23a3D915E7FcA367bbBFSO4E74DSO27A | Spread: BAL (-8.5) | NO | 2.04 (49¢) | $28,420 | — | ⏳ Pendiente |
 | NemanjaWC | Will Manchester City FC win on 2026-09-20? | Yes | 1.33 (75¢) | $48,921 | — | ⏳ Pendiente |
@@ -83,10 +84,10 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | Diabolical-Prize | Vikings vs. Bears | Vikings | 3.03 (33¢) | $25,399 | — | ⏳ Pendiente |
 | 11111111111111111111112 | LoL: EDward Gaming Youth Team vs T1 Academy (BO1) - World Star Challengers Invitational Group A | T1 Academy | 1.11 (90¢) | $26,062 | — | ⏳ Pendiente |
 | jtwyslljy | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $27,200 | — | ⏳ Pendiente |
-| ethanaz | James Madison vs. San Diego State | James Madison | 1.08 (93¢) | $181,474 | — | ⏳ Pendiente |
+| ethanaz | James Madison vs. San Diego State | James Madison | 1.08 (93¢) | $181,474 | +$13,659 | ✅ Ganada |
 | 3648393489047 | Fresno State vs. San Jose State | Fresno State | 1.47 (68¢) | $31,491 | — | ⏳ Pendiente |
 | Takon88 | Will Real Madrid CF win on 2026-09-20? | No | 1.92 (52¢) | $114,059 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | James Madison vs. San Diego State | James Madison | 1.16 (86¢) | $26,768 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | James Madison vs. San Diego State | James Madison | 1.16 (86¢) | $26,768 | +$4,358 | ✅ Ganada |
 | surfandturf | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $88,500 | +$61,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.19 (84¢) | $42,887 | +$8,169 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | whodissss | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $102,600 | -$102,600 | ❌ Perdida |
 | wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.56 (64¢) | $60,362 | +$33,953 | ✅ Ganada |
 | Sassy-Bucket | Nevada vs. Middle Tennessee | Nevada | 1.61 (62¢) | $30,688 | -$30,688 | ❌ Perdida |
-| ethanaz | Florida State vs. Alabama | Florida State | 2.08 (48¢) | $100,159 | -$100,159 | ❌ Perdida |
