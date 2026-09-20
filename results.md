@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 21:36:53 (hora de Perú)
+Actualizado: 2026-09-19 21:38:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3128**  ($168,766,422 en total)
+- Apuestas registradas: **3129**  ($168,801,028 en total)
 - Resueltas: **3070** — 1852 ganadas / 1218 perdidas (**60%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 426
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LSU vs. Ole Miss | LSU | 1.72 (58¢) | $34,605 | — | ⏳ Pendiente |
 | 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.96 (51¢) | $38,742 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | LSU | 1.96 (51¢) | $26,950 | — | ⏳ Pendiente |
 | 0x6db5…e279 | LSU vs. Ole Miss | LSU | 2.08 (48¢) | $27,039 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | maz26 | SMU vs. Louisville | Louisville | 1.79 (56¢) | $72,800 | +$57,200 | ✅ Ganada |
 | AGUGava | FC Metz vs. AS Saint-Étienne: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $34,421 | -$34,421 | ❌ Perdida |
 | winwin518168 | Spread: Dallas Wings (-10.5) | Dallas Wings | 1.96 (51¢) | $30,806 | -$30,806 | ❌ Perdida |
-| phonesculptor | Will Coventry City FC win on 2026-09-19? | No | 1.19 (84¢) | $25,090 | -$25,090 | ❌ Perdida |
