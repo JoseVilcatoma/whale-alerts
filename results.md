@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 02:03:22 (hora de Perú)
+Actualizado: 2026-09-20 02:05:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3159**  ($170,438,770 en total)
-- Resueltas: **3116** — 1878 ganadas / 1238 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Resueltas: **3117** — 1879 ganadas / 1238 perdidas (**60%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 429
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,449,781** sobre $168,569,787 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,503** sobre $307,000 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,420,957** sobre $168,599,787 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,407** sobre $307,100 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 25 | 2 | 0 | 93% | $1,960,364 | +$88,444 |
-| BrotherObama | 20 | 20 | 2 | 50% | $1,835,407 | +$163,807 |
+| BrotherObama | 21 | 20 | 1 | 51% | $1,835,407 | +$192,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.32 (76¢) | $89,152 | +$28,153 | ✅ Ganada |
 | BrotherObama | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 2.22 (45¢) | $40,000 | -$40,000 | ❌ Perdida |
 | phonesculptor | Montana vs. Oregon State | Oregon State | 1.14 (88¢) | $32,120 | — | ⏳ Pendiente |
-| BrotherObama | Spread: Fresno State (-3.5) | Fresno State | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Fresno State (-3.5) | Fresno State | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
 | Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $51,640 | +$20,082 | ✅ Ganada |
 | TAIWANNUMBERONE | LSU vs. Ole Miss | LSU | 1.72 (58¢) | $34,605 | -$34,605 | ❌ Perdida |
 | 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.96 (51¢) | $38,742 | +$37,222 | ✅ Ganada |
