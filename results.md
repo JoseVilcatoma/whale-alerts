@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 01:13:28 (hora de Perú)
+Actualizado: 2026-09-20 01:15:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3148**  ($169,847,243 en total)
-- Resueltas: **3109** — 1873 ganadas / 1236 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Resueltas: **3110** — 1874 ganadas / 1236 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 428
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,511,633** sobre $168,106,353 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,619** sobre $306,300 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,419,869** sobre $168,205,763 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,526** sobre $306,400 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 0 | 54% | $6,099,092 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 64 | 47 | 1 | 58% | $5,085,512 | +$518,457 |
+| pleaseplease123 | 65 | 47 | 0 | 58% | $5,085,512 | +$610,220 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 45 | 28 | 3 | 62% | $3,931,224 | -$221,600 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -120,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 428 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Florida State vs. Alabama | Alabama | 1.28 (78¢) | $30,295 | +$8,545 | ✅ Ganada |
 | Feromont | Spread: LSU (-2.5) | LSU | 1.92 (52¢) | $25,069 | -$25,069 | ❌ Perdida |
 | Elaran1993 | Will CR Vasco da Gama win on 2026-09-19? | Yes | 1.37 (73¢) | $28,059 | — | ⏳ Pendiente |
-| pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.92 (52¢) | $99,411 | — | ⏳ Pendiente |
+| pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.92 (52¢) | $99,411 | +$91,764 | ✅ Ganada |
 | Donkey14 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,500 | -$28,500 | ❌ Perdida |
 | whodissss | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $102,600 | -$102,600 | ❌ Perdida |
 | wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.56 (64¢) | $60,362 | +$33,953 | ✅ Ganada |
