@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:09:45 (hora de Perú)
+Actualizado: 2026-09-20 15:11:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3343**  ($180,351,085 en total)
-- Resueltas: **3163** — 1918 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 164
-- Apostadores distintos: 440
+- Apuestas registradas: **3345**  ($180,497,834 en total)
+- Resueltas: **3164** — 1918 ganadas / 1246 perdidas (**61%** de acierto)
+- Pendientes: 165
+- Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,057,470** sobre $170,815,392 apostados (ROI **-0.6%**)
+- **Resultado de los apostadores: -$1,058,228** sobre $170,865,392 apostados (ROI **-0.6%**)
 - Copiando $100 fijo en cada una: **-$9,489** sobre $311,700 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 65 | 47 | 5 | 58% | $5,353,186 | +$610,220 |
 | wr0ngw4yb3tt0r | 48 | 28 | 11 | 63% | $4,675,228 | -$132,094 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Sassy-Bucket | 29 | 31 | 6 | 48% | $3,312,377 | -$228,159 |
+| Sassy-Bucket | 29 | 31 | 7 | 48% | $3,340,986 | -$228,159 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -65,13 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | phonesculptor | 12 | 2 | 0 | 86% | $873,288 | -$7,205 |
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 
-_(mostrando los 40 de mayor monto, de 440 en total)_
+_(mostrando los 40 de mayor monto, de 441 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Berniepaidoff | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | San Francisco Giants vs. Los Angeles Dodgers | San Francisco Giants | 3.45 (29¢) | $28,609 | — | ⏳ Pendiente |
+| taylorsversion | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $118,140 | — | ⏳ Pendiente |
+| Berniepaidoff | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $50,000 | -$758 | 💰 Vendida antes |
 | 3648393489047 | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
 | Elaran1993 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $477,695 | — | ⏳ Pendiente |
 | surfandturf | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $99,750 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 | weflyhigh | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Broncos (-2.5) | Jaguars | 2.08 (48¢) | $54,372 | — | ⏳ Pendiente |
 | DimSumConnoisseur. | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $56,250 | — | ⏳ Pendiente |
-| mooseborzoi | Saints vs. Ravens | Ravens | 1.30 (77¢) | $41,580 | — | ⏳ Pendiente |
-| ethanaz | Packers vs. Jets | Packers | 1.75 (57¢) | $32,389 | — | ⏳ Pendiente |
