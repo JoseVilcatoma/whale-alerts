@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 22:45:54 (hora de Perú)
+Actualizado: 2026-09-19 22:47:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3138**  ($169,231,095 en total)
+- Apuestas registradas: **3139**  ($169,345,154 en total)
 - Resueltas: **3074** — 1853 ganadas / 1221 perdidas (**60%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 426
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Takon88 | Will Real Madrid CF win on 2026-09-20? | No | 1.92 (52¢) | $114,059 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | James Madison vs. San Diego State | James Madison | 1.16 (86¢) | $26,768 | — | ⏳ Pendiente |
 | surfandturf | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $88,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | HMLSF | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.92 (52¢) | $27,361 | +$25,256 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Temple vs. Toledo | Temple | 1.43 (70¢) | $29,991 | -$29,991 | ❌ Perdida |
 | bands1 | Florida vs. Auburn | Florida | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | SMU vs. Louisville | Louisville | 1.61 (62¢) | $49,921 | +$30,597 | ✅ Ganada |

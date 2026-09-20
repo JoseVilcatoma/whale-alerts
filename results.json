@@ -47176,5 +47176,20 @@
     "status": "pending",
     "ultimo_fill": 1789875095,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6381,
+    "timestamp": 1789875984,
+    "username": "Takon88",
+    "wallet": "0xa96274cc1b321afc8cbdc1ba07f7e2d471e6f7c8",
+    "slug": "lal-mad-rea-2026-09-20-rea",
+    "title": "Will Real Madrid CF win on 2026-09-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 114058.8592,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789875984,
+    "fills": 1
   }
 ]
