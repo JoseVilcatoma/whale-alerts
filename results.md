@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:22:16 (hora de Perú)
+Actualizado: 2026-09-20 15:24:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3349**  ($180,890,983 en total)
-- Resueltas: **3173** — 1922 ganadas / 1251 perdidas (**61%** de acierto)
-- Pendientes: 160
+- Resueltas: **3174** — 1922 ganadas / 1252 perdidas (**61%** de acierto)
+- Pendientes: 159
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,045,507** sobre $171,263,794 apostados (ROI **-0.6%**)
+- **Resultado de los apostadores: -$1,051,655** sobre $171,346,794 apostados (ROI **-0.6%**)
 - Copiando $100 fijo en cada una: **-$9,493** sobre $312,600 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Elaran1993 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $477,695 | — | ⏳ Pendiente |
 | surfandturf | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $99,750 | — | ⏳ Pendiente |
 | Feromont | Spread: Chargers (-6.5) | Chargers | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
-| optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | — | ⏳ Pendiente |
+| optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | -$6,148 | 💰 Vendida antes |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $77,327 | — | ⏳ Pendiente |
 | jaytee158 | LoL: Team Liquid vs FlyQuest (BO5) - LCS Playoffs | Team Liquid | 1.32 (76¢) | $30,400 | — | ⏳ Pendiente |
