@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 22:31:13 (hora de Perú)
+Actualizado: 2026-09-19 22:33:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3137**  ($169,204,327 en total)
+- Apuestas registradas: **3138**  ($169,231,095 en total)
 - Resueltas: **3074** — 1853 ganadas / 1221 perdidas (**60%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 426
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | James Madison vs. San Diego State | James Madison | 1.16 (86¢) | $26,768 | — | ⏳ Pendiente |
 | surfandturf | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $88,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.19 (84¢) | $42,887 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | wr0ngw4yb3tt0r | Temple vs. Toledo | Temple | 1.43 (70¢) | $29,991 | -$29,991 | ❌ Perdida |
 | bands1 | Florida vs. Auburn | Florida | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | SMU vs. Louisville | Louisville | 1.61 (62¢) | $49,921 | +$30,597 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami (OH) vs. Cincinnati | Cincinnati | 1.39 (72¢) | $30,664 | +$11,925 | ✅ Ganada |

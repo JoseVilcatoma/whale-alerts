@@ -47161,5 +47161,20 @@
     "status": "pending",
     "ultimo_fill": 1789874738,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 6380,
+    "timestamp": 1789875095,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "cfb-jmad-sdst-2026-09-19",
+    "title": "James Madison vs. San Diego State",
+    "outcome": "James Madison",
+    "side": "BUY",
+    "usd": 26768.1364,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1789875095,
+    "fills": 1
   }
 ]
