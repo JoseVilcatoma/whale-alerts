@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:37:44 (hora de Perú)
+Actualizado: 2026-09-20 10:39:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3237**  ($174,817,791 en total)
+- Apuestas registradas: **3238**  ($174,850,230 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 73
+- Pendientes: 74
 - Apostadores distintos: 434
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| ferrariChampions2026 | 26 | 14 | 0 | 65% | $1,598,813 | -$397,434 |
+| ferrariChampions2026 | 26 | 14 | 1 | 65% | $1,631,252 | -$397,434 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 434 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Panthers (-2.5) | Panthers | 1.96 (51¢) | $32,439 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Buccaneers (-7.5) | Browns | 2.00 (50¢) | $29,902 | — | ⏳ Pendiente |
 | ic4cream | Eagles vs. Titans | Eagles | 1.33 (75¢) | $61,250 | — | ⏳ Pendiente |
 | 0x80d5aebbE7a714879177E4dAE0014195beb3987E-1789159822906 | Will Juventus FC win on 2026-09-20? | Yes | 1.69 (59¢) | $41,300 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 434 en total)_
 | maz26 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $26,511 | — | ⏳ Pendiente |
 | afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $25,550 | +$9,450 | ✅ Ganada |
 | beeemw | Will Sunderland AFC win on 2026-09-20? | No | 1.10 (91¢) | $73,692 | +$7,288 | ✅ Ganada |
-| Kch-Temp | Will Liverpool FC win on 2026-09-20? | No | 1.75 (57¢) | $41,216 | -$41,216 | ❌ Perdida |

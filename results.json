@@ -48661,5 +48661,20 @@
     "status": "pending",
     "ultimo_fill": 1789918514,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6557,
+    "timestamp": 1789918698,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-car-atl-2026-09-20-spread-away-2pt5",
+    "title": "Spread: Panthers (-2.5)",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 32439.4221,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789918698,
+    "fills": 1
   }
 ]
