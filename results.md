@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 09:12:18 (hora de Perú)
+Actualizado: 2026-09-20 09:14:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3202**  ($172,654,067 en total)
-- Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 60
+- Apuestas registradas: **3204**  ($172,737,542 en total)
+- Resueltas: **3129** — 1888 ganadas / 1241 perdidas (**60%** de acierto)
+- Pendientes: 59
 - Apostadores distintos: 430
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,422,207** sobre $168,892,626 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,408** sobre $308,000 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,368,691** sobre $169,004,615 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,264** sobre $308,300 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Will Real Madrid CF win on 2026-09-20? | No | 1.92 (52¢) | $35,835 | — | ⏳ Pendiente |
+| Ancient-Strike | Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs | Vitality | 1.37 (73¢) | $47,640 | — | ⏳ Pendiente |
 | Flaznorp | Will Liverpool FC win on 2026-09-20? | No | 1.54 (65¢) | $31,367 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Bournemouth vs. Liverpool FC end in a draw? | Yes | 2.70 (37¢) | $145,848 | — | ⏳ Pendiente |
 | raybanman | Will Real Madrid CF win on 2026-09-20? | No | 1.92 (52¢) | $55,456 | — | ⏳ Pendiente |
@@ -109,8 +111,8 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $65,692 | — | ⏳ Pendiente |
 | Jsram | Spread: Bears (-4.5) | Bears | 2.00 (50¢) | $50,431 | — | ⏳ Pendiente |
 | Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $130,358 | — | ⏳ Pendiente |
-| mimi121 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.49 (67¢) | $37,136 | — | ⏳ Pendiente |
-| retordedgremlin125 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $47,653 | — | ⏳ Pendiente |
+| mimi121 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.49 (67¢) | $37,136 | +$18,291 | ✅ Ganada |
+| retordedgremlin125 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $47,653 | +$22,425 | ✅ Ganada |
 | bloodmaster | LoL: Fuego vs EDward Gaming Youth Team (BO1) - World Star Challengers Invitational Group A | EDward Gaming Youth Team | 1.19 (84¢) | $26,742 | — | ⏳ Pendiente |
 | raybanman | Seahawks vs. Cardinals: O/U 41.5 | Over 41.5 | 2.00 (50¢) | $102,606 | — | ⏳ Pendiente |
 | raybanman | Panthers vs. Falcons | Falcons | 2.33 (43¢) | $65,367 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | freeman123 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.37 (73¢) | $34,869 | — | ⏳ Pendiente |
 | elPolloLoco | Fresno State vs. San Jose State | Fresno State | 1.11 (90¢) | $37,729 | +$4,192 | ✅ Ganada |
 | optimistic-dragon | Vikings vs. Bears | Bears | 1.49 (67¢) | $42,865 | — | ⏳ Pendiente |
-| Diabolical-Prize | Vikings vs. Bears | Vikings | 3.03 (33¢) | $25,399 | — | ⏳ Pendiente |
-| 11111111111111111111112 | LoL: EDward Gaming Youth Team vs T1 Academy (BO1) - World Star Challengers Invitational Group A | T1 Academy | 1.11 (90¢) | $26,062 | -$26,062 | ❌ Perdida |

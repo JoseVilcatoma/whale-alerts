@@ -47233,7 +47233,7 @@
     "side": "BUY",
     "usd": 27200.000000000004,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789877827,
     "fills": 1
   },
@@ -47548,7 +47548,7 @@
     "side": "BUY",
     "usd": 47652.659999,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789896105,
     "fills": 1
   },
@@ -47563,7 +47563,7 @@
     "side": "BUY",
     "usd": 37135.6478,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789897710,
     "fills": 1
   },
@@ -48135,6 +48135,36 @@
     "odds_at_bet": 65,
     "status": "pending",
     "ultimo_fill": 1789913437,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6503,
+    "timestamp": 1789913642,
+    "username": "raybanman",
+    "wallet": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+    "slug": "lal-mad-rea-2026-09-20-rea",
+    "title": "Will Real Madrid CF win on 2026-09-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 35834.6872,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789913642,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6504,
+    "timestamp": 1789913642,
+    "username": "Ancient-Strike",
+    "wallet": "0xc9ae00eda811041a059f3eec9356b24067c1b9e0",
+    "slug": "cs2-aur1-vit-2026-09-20",
+    "title": "Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 47640.4351,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1789913642,
     "fills": 1
   }
 ]
