@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 22:00:24 (hora de Perú)
+Actualizado: 2026-09-19 22:02:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3133**  ($168,954,788 en total)
+- Apuestas registradas: **3134**  ($169,043,940 en total)
 - Resueltas: **3073** — 1852 ganadas / 1221 perdidas (**60%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 426
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.32 (76¢) | $89,152 | — | ⏳ Pendiente |
 | BrotherObama | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 2.22 (45¢) | $40,000 | — | ⏳ Pendiente |
 | phonesculptor | Montana vs. Oregon State | Oregon State | 1.14 (88¢) | $32,120 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Fresno State (-3.5) | Fresno State | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | Roadto1mlesgooo | Sevilla FC vs. FC Barcelona: O/U 2.5 | Over 2.5 | 1.12 (89¢) | $28,869 | +$3,568 | ✅ Ganada |
 | maz26 | SMU vs. Louisville | Louisville | 1.75 (57¢) | $53,317 | +$40,221 | ✅ Ganada |
 | phonesculptor | USC vs. Rutgers | USC | 1.06 (94¢) | $53,170 | +$3,394 | ✅ Ganada |
-| 177-letsgo | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $87,400 | +$7,600 | ✅ Ganada |
