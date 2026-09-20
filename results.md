@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:34:36 (hora de Perú)
+Actualizado: 2026-09-20 15:36:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3354**  ($181,098,711 en total)
-- Resueltas: **3201** — 1937 ganadas / 1264 perdidas (**61%** de acierto)
-- Pendientes: 137
+- Resueltas: **3203** — 1939 ganadas / 1264 perdidas (**61%** de acierto)
+- Pendientes: 135
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,457,218** sobre $173,028,498 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$9,852** sobre $315,300 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$1,388,044** sobre $173,108,412 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$9,684** sobre $315,500 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 69 | 1 | 54% | $6,162,969 | -$226,170 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 65 | 47 | 5 | 58% | $5,353,186 | +$610,220 |
-| wr0ngw4yb3tt0r | 48 | 28 | 12 | 63% | $4,701,474 | -$132,094 |
+| pleaseplease123 | 66 | 47 | 4 | 58% | $5,353,186 | +$658,855 |
+| wr0ngw4yb3tt0r | 49 | 28 | 11 | 64% | $4,701,474 | -$111,556 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 29 | 32 | 6 | 48% | $3,340,986 | -$492,159 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -130,4 +130,4 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | ferrariChampions2026 | Eagles vs. Titans | Eagles | 1.64 (61¢) | $30,075 | +$19,228 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 1.64 (61¢) | $84,088 | +$53,762 | ✅ Ganada |
 | BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $50,000 | — | ⏳ Pendiente |
-| pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $52,688 | — | ⏳ Pendiente |
+| pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $52,688 | +$48,635 | ✅ Ganada |
