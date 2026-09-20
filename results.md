@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 23:00:25 (hora de Perú)
+Actualizado: 2026-09-19 23:02:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3139**  ($169,345,154 en total)
-- Resueltas: **3079** — 1854 ganadas / 1225 perdidas (**60%** de acierto)
-- Pendientes: 44
+- Resueltas: **3096** — 1863 ganadas / 1233 perdidas (**60%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 426
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,547,497** sobre $166,747,245 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,756** sobre $303,300 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,663,901** sobre $167,450,885 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,962** sobre $305,000 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,14 +24,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 233 | 120 | 7 | 66% | $23,799,857 | +$1,079,961 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 234 | 121 | 5 | 66% | $23,799,857 | +$1,021,036 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 0 | 54% | $6,099,092 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 63 | 47 | 2 | 57% | $5,085,512 | +$418,457 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 42 | 27 | 7 | 61% | $3,931,224 | -$274,339 |
+| wr0ngw4yb3tt0r | 45 | 28 | 3 | 62% | $3,931,224 | -$221,600 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 0 | 45% | $3,229,966 | -$579,176 |
 | Sassy-Bucket | 27 | 30 | 3 | 47% | $2,808,556 | -$217,708 |
@@ -75,17 +75,17 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | TAIWANNUMBERONE | James Madison vs. San Diego State | James Madison | 1.16 (86¢) | $26,768 | — | ⏳ Pendiente |
 | surfandturf | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $88,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.19 (84¢) | $42,887 | — | ⏳ Pendiente |
-| 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.32 (76¢) | $89,152 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.19 (84¢) | $42,887 | +$8,169 | ✅ Ganada |
+| 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.32 (76¢) | $89,152 | +$28,153 | ✅ Ganada |
 | BrotherObama | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 2.22 (45¢) | $40,000 | -$40,000 | ❌ Perdida |
 | phonesculptor | Montana vs. Oregon State | Oregon State | 1.14 (88¢) | $32,120 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Fresno State (-3.5) | Fresno State | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $51,640 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | LSU vs. Ole Miss | LSU | 1.72 (58¢) | $34,605 | — | ⏳ Pendiente |
-| 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.96 (51¢) | $38,742 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | LSU vs. Ole Miss | LSU | 1.96 (51¢) | $26,950 | — | ⏳ Pendiente |
-| 0x6db5…e279 | LSU vs. Ole Miss | LSU | 2.08 (48¢) | $27,039 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.41 (71¢) | $28,792 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LSU vs. Ole Miss | LSU | 1.72 (58¢) | $34,605 | -$34,605 | ❌ Perdida |
+| 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.96 (51¢) | $38,742 | +$37,222 | ✅ Ganada |
+| wr0ngw4yb3tt0r | LSU vs. Ole Miss | LSU | 1.96 (51¢) | $26,950 | -$26,950 | ❌ Perdida |
+| 0x6db5…e279 | LSU vs. Ole Miss | LSU | 2.08 (48¢) | $27,039 | -$27,039 | ❌ Perdida |
+| wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.41 (71¢) | $28,792 | +$11,760 | ✅ Ganada |
 | Elaran1993 | Will Portland Timbers win on 2026-09-19? | No | 1.92 (52¢) | $32,855 | — | ⏳ Pendiente |
 | kkookkoo | O/U 1.5 Rounds | Under 1.5 Rounds | 1.22 (82¢) | $27,258 | +$5,984 | ✅ Ganada |
 | pereira12 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.11 (90¢) | $34,654 | -$34,654 | ❌ Perdida |
@@ -100,20 +100,20 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $26,916 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $102,910 | — | ⏳ Pendiente |
 | sts22 | UFC 331: Marlon Vera vs. Charles Jourdain (Bantamweight, Prelims) | Marlon Vera | 1.06 (94¢) | $28,200 | +$1,800 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LSU vs. Ole Miss | Ole Miss | 1.20 (83¢) | $33,200 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LSU vs. Ole Miss | Ole Miss | 1.20 (83¢) | $33,200 | +$6,800 | ✅ Ganada |
 | maz26 | San Francisco Giants vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.28 (78¢) | $57,915 | — | ⏳ Pendiente |
-| donaldbush | LSU vs. Ole Miss | Ole Miss | 1.33 (75¢) | $32,397 | — | ⏳ Pendiente |
+| donaldbush | LSU vs. Ole Miss | Ole Miss | 1.33 (75¢) | $32,397 | +$10,799 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $26,058 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
-| 3648393489047 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,776 | — | ⏳ Pendiente |
+| 3648393489047 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,776 | -$28,776 | ❌ Perdida |
 | ethanaz | Florida State vs. Alabama | Alabama | 1.15 (87¢) | $89,376 | +$13,355 | ✅ Ganada |
 | maz26 | Fresno State vs. San Jose State | San Jose State | 2.86 (35¢) | $44,362 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Florida State vs. Alabama | Alabama | 1.28 (78¢) | $30,295 | +$8,545 | ✅ Ganada |
-| Feromont | Spread: LSU (-2.5) | LSU | 1.92 (52¢) | $25,069 | — | ⏳ Pendiente |
+| Feromont | Spread: LSU (-2.5) | LSU | 1.92 (52¢) | $25,069 | -$25,069 | ❌ Perdida |
 | Elaran1993 | Will CR Vasco da Gama win on 2026-09-19? | Yes | 1.37 (73¢) | $28,059 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.92 (52¢) | $99,411 | — | ⏳ Pendiente |
-| Donkey14 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
-| whodissss | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $102,600 | — | ⏳ Pendiente |
+| Donkey14 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,500 | -$28,500 | ❌ Perdida |
+| whodissss | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $102,600 | -$102,600 | ❌ Perdida |
 | wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.56 (64¢) | $60,362 | +$33,953 | ✅ Ganada |
 | Sassy-Bucket | Nevada vs. Middle Tennessee | Nevada | 1.61 (62¢) | $30,688 | -$30,688 | ❌ Perdida |
 | ethanaz | Florida State vs. Alabama | Florida State | 2.08 (48¢) | $100,159 | -$100,159 | ❌ Perdida |
@@ -121,7 +121,7 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | Eztennis | LoL: LYON vs Cloud9 (BO5) - LCS Playoffs | LYON | 1.37 (73¢) | $39,275 | -$39,275 | ❌ Perdida |
 | FORTNITEMASTER888 | LoL: LYON vs Cloud9 - Game 3 Winner | LYON | 1.56 (64¢) | $40,418 | -$40,418 | ❌ Perdida |
 | kkookkoo | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.69 (59¢) | $37,000 | +$25,712 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Virginia Tech vs. Maryland | Maryland | 2.27 (44¢) | $65,725 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Virginia Tech vs. Maryland | Maryland | 2.27 (44¢) | $65,725 | -$65,725 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Mississippi State vs. South Carolina: O/U 58.5 | Over 58.5 | 1.89 (53¢) | $26,206 | +$23,239 | ✅ Ganada |
 | pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.44 (41¢) | $28,692 | +$41,288 | ✅ Ganada |
 | wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.85 (54¢) | $30,208 | +$25,733 | ✅ Ganada |
