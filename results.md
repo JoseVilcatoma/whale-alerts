@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 02:09:38 (hora de Perú)
+Actualizado: 2026-09-20 02:11:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3160**  ($170,504,137 en total)
-- Resueltas: **3120** — 1881 ganadas / 1239 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Resueltas: **3121** — 1882 ganadas / 1239 perdidas (**60%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 429
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,446,308** sobre $168,713,369 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,448** sobre $307,400 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,441,928** sobre $168,745,489 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,435** sobre $307,500 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
-| phonesculptor | 11 | 2 | 1 | 85% | $873,288 | -$11,585 |
+| phonesculptor | 12 | 2 | 0 | 86% | $873,288 | -$7,205 |
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 14 | 9 | 0 | 61% | $821,930 | -$26,266 |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.19 (84¢) | $42,887 | +$8,169 | ✅ Ganada |
 | 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.32 (76¢) | $89,152 | +$28,153 | ✅ Ganada |
 | BrotherObama | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 2.22 (45¢) | $40,000 | -$40,000 | ❌ Perdida |
-| phonesculptor | Montana vs. Oregon State | Oregon State | 1.14 (88¢) | $32,120 | — | ⏳ Pendiente |
+| phonesculptor | Montana vs. Oregon State | Oregon State | 1.14 (88¢) | $32,120 | +$4,380 | ✅ Ganada |
 | BrotherObama | Spread: Fresno State (-3.5) | Fresno State | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
 | Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $51,640 | +$20,082 | ✅ Ganada |
 | TAIWANNUMBERONE | LSU vs. Ole Miss | LSU | 1.72 (58¢) | $34,605 | -$34,605 | ❌ Perdida |
