@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 07:30:18 (hora de Perú)
+Actualizado: 2026-09-20 07:32:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3181**  ($171,547,373 en total)
+- Apuestas registradas: **3183**  ($171,605,292 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 39
+- Pendientes: 41
 - Apostadores distintos: 430
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 235 | 123 | 4 | 66% | $23,927,700 | +$913,067 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 235 | 123 | 5 | 66% | $23,960,419 | +$913,067 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 2 | 54% | $6,162,969 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Málaga CF win on 2026-09-20? | No | 1.27 (79¢) | $32,719 | — | ⏳ Pendiente |
 | maz26 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $26,511 | — | ⏳ Pendiente |
 | afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
 | beeemw | Will Sunderland AFC win on 2026-09-20? | No | 1.10 (91¢) | $73,692 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | 0x6db5…e279 | LSU vs. Ole Miss | LSU | 2.08 (48¢) | $27,039 | -$27,039 | ❌ Perdida |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.41 (71¢) | $28,792 | +$11,760 | ✅ Ganada |
 | Elaran1993 | Will Portland Timbers win on 2026-09-19? | No | 1.92 (52¢) | $32,855 | +$30,327 | ✅ Ganada |
-| kkookkoo | O/U 1.5 Rounds | Under 1.5 Rounds | 1.22 (82¢) | $27,258 | +$5,984 | ✅ Ganada |
-| pereira12 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.11 (90¢) | $34,654 | -$34,654 | ❌ Perdida |
