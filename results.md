@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 09:00:02 (hora de Perú)
+Actualizado: 2026-09-20 09:02:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3199**  ($172,421,397 en total)
+- Apuestas registradas: **3200**  ($172,476,853 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 57
+- Pendientes: 58
 - Apostadores distintos: 430
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Will Real Madrid CF win on 2026-09-20? | No | 1.92 (52¢) | $55,456 | — | ⏳ Pendiente |
 | wigglew | Eagles vs. Titans | Eagles | 1.33 (75¢) | $130,717 | — | ⏳ Pendiente |
 | justwins | Bengals vs. Texans: O/U 45.5 | Under 45.5 | 1.96 (51¢) | $30,010 | — | ⏳ Pendiente |
 | justwins | Eagles vs. Titans: O/U 39.5 | Under 39.5 | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | 11111111111111111111112 | LoL: EDward Gaming Youth Team vs T1 Academy (BO1) - World Star Challengers Invitational Group A | T1 Academy | 1.11 (90¢) | $26,062 | -$26,062 | ❌ Perdida |
 | jtwyslljy | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $27,200 | — | ⏳ Pendiente |
 | ethanaz | James Madison vs. San Diego State | James Madison | 1.08 (93¢) | $181,474 | +$13,659 | ✅ Ganada |
-| 3648393489047 | Fresno State vs. San Jose State | Fresno State | 1.47 (68¢) | $31,491 | +$14,819 | ✅ Ganada |
