@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 05:52:53 (hora de Perú)
+Actualizado: 2026-09-20 05:54:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3165**  ($170,818,273 en total)
+- Apuestas registradas: **3165**  ($170,848,631 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
 - Pendientes: 23
 - Apostadores distintos: 429
@@ -52,8 +52,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
 | surfandturf | 8 | 2 | 0 | 80% | $1,195,602 | +$77,057 |
+| Jsram | 13 | 14 | 1 | 48% | $1,190,919 | -$216,221 |
 | SDTrading | 18 | 22 | 0 | 45% | $1,177,356 | -$194,283 |
-| Jsram | 13 | 14 | 1 | 48% | $1,160,561 | -$216,221 |
 | ethanaz | 10 | 3 | 0 | 77% | $1,110,448 | -$147,797 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $100,000 | — | ⏳ Pendiente |
+| Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $130,358 | — | ⏳ Pendiente |
 | mimi121 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.49 (67¢) | $37,136 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $47,653 | — | ⏳ Pendiente |
 | bloodmaster | LoL: Fuego vs EDward Gaming Youth Team (BO1) - World Star Challengers Invitational Group A | EDward Gaming Youth Team | 1.19 (84¢) | $26,742 | — | ⏳ Pendiente |
