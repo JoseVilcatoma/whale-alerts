@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:20:57 (hora de Perú)
+Actualizado: 2026-09-20 10:23:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3229**  ($174,235,346 en total)
+- Apuestas registradas: **3232**  ($174,503,804 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 65
-- Apostadores distintos: 433
+- Pendientes: 68
+- Apostadores distintos: 434
 
 ### Balance
 
@@ -29,9 +29,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 2 | 54% | $6,162,969 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 65 | 47 | 2 | 58% | $5,196,366 | +$610,220 |
+| pleaseplease123 | 65 | 47 | 2 | 58% | $5,231,035 | +$610,220 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 48 | 28 | 2 | 63% | $4,051,644 | -$132,094 |
+| wr0ngw4yb3tt0r | 48 | 28 | 3 | 63% | $4,149,512 | -$132,094 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
 | Sassy-Bucket | 29 | 31 | 1 | 48% | $3,072,556 | -$228,159 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| 0F62 | 25 | 2 | 0 | 93% | $1,960,364 | +$88,444 |
+| 0F62 | 25 | 2 | 1 | 93% | $2,014,685 | +$88,444 |
 | BrotherObama | 21 | 20 | 1 | 51% | $1,835,407 | +$192,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -65,13 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 
-_(mostrando los 40 de mayor monto, de 433 en total)_
+_(mostrando los 40 de mayor monto, de 434 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| pleaseplease123 | Detroit Tigers vs. Chicago White Sox | Chicago White Sox | 1.92 (52¢) | $72,609 | — | ⏳ Pendiente |
+| DimSumConnoisseur. | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $81,600 | — | ⏳ Pendiente |
+| 0F62 | Will Olympique de Marseille win on 2026-09-20? | No | 1.15 (87¢) | $54,320 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Spread: Chargers (-6.5) | Raiders | 2.04 (49¢) | $97,868 | — | ⏳ Pendiente |
+| pleaseplease123 | Detroit Tigers vs. Chicago White Sox | Chicago White Sox | 1.92 (52¢) | $107,278 | — | ⏳ Pendiente |
 | BruceWayne77 | Vikings vs. Bears | Bears | 1.52 (66¢) | $32,340 | — | ⏳ Pendiente |
 | SDTrading | Spread: Patriots (-5.5) | Steelers | 1.92 (52¢) | $31,362 | — | ⏳ Pendiente |
 | winwin518168 | Spread: Indiana Fever (-6.5) | Indiana Fever | 2.00 (50¢) | $29,947 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 433 en total)_
 | MiltonFriedmanHongKong | Will Manchester City FC win on 2026-09-20? | No | 3.57 (28¢) | $30,098 | -$30,098 | ❌ Perdida |
 | Jsram | AFC Bournemouth vs. Liverpool FC: O/U 3.5 | Under 3.5 | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | flashclub | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $54,113 | +$20,014 | ✅ Ganada |
-| Kch-Temp | Panthers vs. Falcons: O/U 43.5 | Under 43.5 | 1.96 (51¢) | $28,046 | — | ⏳ Pendiente |
-| Herdonia | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $26,818 | — | ⏳ Pendiente |
-| Kch-Temp | Vikings vs. Bears: O/U 47.5 | Under 47.5 | 1.92 (52¢) | $39,149 | — | ⏳ Pendiente |
