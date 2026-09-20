@@ -49111,5 +49111,35 @@
     "status": "pending",
     "ultimo_fill": 1789922411,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6587,
+    "timestamp": 1789922711,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "nfl-gb-nyj-2026-09-20-total-43pt5",
+    "title": "Packers vs. Jets: O/U 43.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 26659.8367,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1789922711,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1789922765,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nfl-gb-nyj-2026-09-20",
+    "title": "Packers vs. Jets",
+    "outcome": "Jets",
+    "side": "BUY",
+    "usd": 28066.008,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1789922765,
+    "fills": 1
   }
 ]

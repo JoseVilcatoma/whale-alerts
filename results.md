@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 11:44:02 (hora de Perú)
+Actualizado: 2026-09-20 11:46:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3267**  ($176,254,344 en total)
+- Apuestas registradas: **3269**  ($176,309,070 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 103
+- Pendientes: 105
 - Apostadores distintos: 437
 
 ### Balance
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 10 | 3 | 0 | 77% | $1,110,448 | -$147,797 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 7 | 3 | 9 | 70% | $1,046,987 | +$213,243 |
-| Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
+| Talvez10 | 9 | 9 | 1 | 50% | $984,565 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | Flaznorp | 15 | 4 | 1 | 79% | $909,393 | +$62,853 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 437 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Packers vs. Jets | Jets | 2.50 (40¢) | $28,066 | — | ⏳ Pendiente |
+| Talvez10 | Packers vs. Jets: O/U 43.5 | Under 43.5 | 2.04 (49¢) | $26,660 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Spread: Cowboys (-4.5) | Cowboys | 2.08 (48¢) | $33,697 | — | ⏳ Pendiente |
 | primm | Panthers vs. Falcons: O/U 43.5 | Under 43.5 | 1.92 (52¢) | $32,361 | — | ⏳ Pendiente |
 | justwins | Spread: Panthers (-2.5) | Falcons | 2.00 (50¢) | $30,910 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 437 en total)_
 | pleaseplease123 | Atlanta Braves vs. Houston Astros | Houston Astros | 1.72 (58¢) | $38,245 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs | Vitality | 1.37 (73¢) | $34,000 | — | ⏳ Pendiente |
 | Pwaddler | Commanders vs. Cowboys: O/U 51.5 | Over 51.5 | 2.08 (48¢) | $28,800 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Steelers vs. Patriots: O/U 41.5 | Over 41.5 | 2.00 (50¢) | $93,194 | — | ⏳ Pendiente |
-| ratatatatatatatataaaa | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.92 (52¢) | $70,200 | — | ⏳ Pendiente |
