@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:42:01 (hora de Perú)
+Actualizado: 2026-09-20 10:44:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3238**  ($174,850,230 en total)
+- Apuestas registradas: **3243**  ($175,147,405 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 74
-- Apostadores distintos: 434
+- Pendientes: 79
+- Apostadores distintos: 435
 
 ### Balance
 
@@ -65,12 +65,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 
-_(mostrando los 40 de mayor monto, de 434 en total)_
+_(mostrando los 40 de mayor monto, de 435 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Berniepaidoff | Vikings vs. Bears | Bears | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Seahawks vs. Cardinals | Cardinals | 2.94 (34¢) | $25,027 | — | ⏳ Pendiente |
+| maz26 | Spread: Packers (-3.5) | Jets | 1.85 (54¢) | $36,267 | — | ⏳ Pendiente |
+| DaWinci | Packers vs. Jets | Jets | 2.56 (39¢) | $29,880 | — | ⏳ Pendiente |
+| maz26 | Packers vs. Jets | Jets | 2.56 (39¢) | $156,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Panthers (-2.5) | Panthers | 1.96 (51¢) | $32,439 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Buccaneers (-7.5) | Browns | 2.00 (50¢) | $29,902 | — | ⏳ Pendiente |
 | ic4cream | Eagles vs. Titans | Eagles | 1.33 (75¢) | $61,250 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 434 en total)_
 | jaytee158 | Will Sunderland AFC win on 2026-09-20? | No | 1.11 (90¢) | $26,183 | +$2,909 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $72,000 | +$28,000 | ✅ Ganada |
 | surfandturf | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $71,021 | +$27,619 | ✅ Ganada |
-| afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $25,200 | +$9,800 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Málaga CF win on 2026-09-20? | No | 1.27 (79¢) | $32,719 | +$8,697 | ✅ Ganada |
-| maz26 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $26,511 | — | ⏳ Pendiente |
-| afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $25,550 | +$9,450 | ✅ Ganada |
-| beeemw | Will Sunderland AFC win on 2026-09-20? | No | 1.10 (91¢) | $73,692 | +$7,288 | ✅ Ganada |
