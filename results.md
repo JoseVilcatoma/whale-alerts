@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 01:19:45 (hora de Perú)
+Actualizado: 2026-09-20 01:21:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3148**  ($169,847,243 en total)
+- Apuestas registradas: **3149**  ($169,877,097 en total)
 - Resueltas: **3110** — 1874 ganadas / 1236 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 428
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 428 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kosherlocks | Eagles vs. Titans | Eagles | 1.32 (76¢) | $29,854 | — | ⏳ Pendiente |
 | Kosherlocks | Raiders vs. Chargers | Chargers | 1.37 (73¢) | $95,000 | — | ⏳ Pendiente |
 | freeman123 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.37 (73¢) | $34,869 | — | ⏳ Pendiente |
 | elPolloLoco | Fresno State vs. San Jose State | Fresno State | 1.11 (90¢) | $37,729 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 428 en total)_
 | Eztennis | LoL: LYON vs Cloud9 (BO5) - LCS Playoffs | LYON | 1.37 (73¢) | $39,275 | -$39,275 | ❌ Perdida |
 | FORTNITEMASTER888 | LoL: LYON vs Cloud9 - Game 3 Winner | LYON | 1.56 (64¢) | $40,418 | -$40,418 | ❌ Perdida |
 | kkookkoo | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.69 (59¢) | $37,000 | +$25,712 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Virginia Tech vs. Maryland | Maryland | 2.27 (44¢) | $65,725 | -$65,725 | ❌ Perdida |
