@@ -50071,5 +50071,35 @@
     "status": "pending",
     "ultimo_fill": 1789933336,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6667,
+    "timestamp": 1789933381,
+    "username": "Laskhask",
+    "wallet": "0x3682205f93964f923d1cc2b100907268f300df75",
+    "slug": "nfl-phi-ten-2026-09-20",
+    "title": "Eagles vs. Titans",
+    "outcome": "Titans",
+    "side": "BUY",
+    "usd": 29538.600000000002,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1789933381,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6668,
+    "timestamp": 1789933439,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "wnba-wsh-ind-2026-09-20",
+    "title": "Washington Mystics vs. Indiana Fever",
+    "outcome": "Indiana Fever",
+    "side": "BUY",
+    "usd": 40800.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1789933439,
+    "fills": 1
   }
 ]

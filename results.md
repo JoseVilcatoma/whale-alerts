@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 14:42:58 (hora de Perú)
+Actualizado: 2026-09-20 14:45:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3331**  ($179,301,779 en total)
+- Apuestas registradas: **3333**  ($179,372,117 en total)
 - Resueltas: **3163** — 1918 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 152
+- Pendientes: 154
 - Apostadores distintos: 440
 
 ### Balance
@@ -32,8 +32,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 65 | 47 | 4 | 58% | $5,313,186 | +$610,220 |
 | wr0ngw4yb3tt0r | 48 | 28 | 11 | 63% | $4,675,228 | -$132,094 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
+| Sassy-Bucket | 29 | 31 | 6 | 48% | $3,312,377 | -$228,159 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Sassy-Bucket | 29 | 31 | 5 | 48% | $3,271,577 | -$228,159 |
 | Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Washington Mystics vs. Indiana Fever | Indiana Fever | 1.47 (68¢) | $40,800 | — | ⏳ Pendiente |
+| Laskhask | Eagles vs. Titans | Titans | 1.54 (65¢) | $29,539 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 2.78 (36¢) | $70,874 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-6.5) | Titans | 1.06 (94¢) | $32,847 | — | ⏳ Pendiente |
 | AnonymousUsername | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $47,775 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 | Painfulvoid | Bengals vs. Texans | Texans | 1.72 (58¢) | $28,595 | — | ⏳ Pendiente |
 | Feromont | Spread: Patriots (-4.5) | Steelers | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
 | Herdonia | Eagles vs. Titans | Eagles | 1.33 (75¢) | $67,544 | — | ⏳ Pendiente |
-| THEdirkdiggler | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
-| Feromont | Spread: Patriots (-4.5) | Steelers | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
