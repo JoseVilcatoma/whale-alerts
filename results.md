@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 02:07:27 (hora de Perú)
+Actualizado: 2026-09-20 02:09:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3159**  ($170,438,770 en total)
-- Resueltas: **3117** — 1879 ganadas / 1238 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Apuestas registradas: **3160**  ($170,504,137 en total)
+- Resueltas: **3120** — 1881 ganadas / 1239 perdidas (**60%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 429
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,420,957** sobre $168,599,787 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,407** sobre $307,100 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,446,308** sobre $168,713,369 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,448** sobre $307,400 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Panthers vs. Falcons | Falcons | 2.33 (43¢) | $65,367 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Broncos (-2.5) | Broncos | 1.96 (51¢) | $53,550 | — | ⏳ Pendiente |
 | raybanman | Spread: BAL (-8.5) | NO | 1.96 (51¢) | $31,431 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: BAL (-8.5) | BAL | 2.08 (48¢) | $74,293 | — | ⏳ Pendiente |
@@ -84,13 +85,13 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | Kosherlocks | Eagles vs. Titans | Eagles | 1.32 (76¢) | $29,854 | — | ⏳ Pendiente |
 | Kosherlocks | Raiders vs. Chargers | Chargers | 1.37 (73¢) | $95,000 | — | ⏳ Pendiente |
 | freeman123 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.37 (73¢) | $34,869 | — | ⏳ Pendiente |
-| elPolloLoco | Fresno State vs. San Jose State | Fresno State | 1.11 (90¢) | $37,729 | — | ⏳ Pendiente |
+| elPolloLoco | Fresno State vs. San Jose State | Fresno State | 1.11 (90¢) | $37,729 | +$4,192 | ✅ Ganada |
 | optimistic-dragon | Vikings vs. Bears | Bears | 1.49 (67¢) | $42,865 | — | ⏳ Pendiente |
 | Diabolical-Prize | Vikings vs. Bears | Vikings | 3.03 (33¢) | $25,399 | — | ⏳ Pendiente |
 | 11111111111111111111112 | LoL: EDward Gaming Youth Team vs T1 Academy (BO1) - World Star Challengers Invitational Group A | T1 Academy | 1.11 (90¢) | $26,062 | — | ⏳ Pendiente |
 | jtwyslljy | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $27,200 | — | ⏳ Pendiente |
 | ethanaz | James Madison vs. San Diego State | James Madison | 1.08 (93¢) | $181,474 | +$13,659 | ✅ Ganada |
-| 3648393489047 | Fresno State vs. San Jose State | Fresno State | 1.47 (68¢) | $31,491 | — | ⏳ Pendiente |
+| 3648393489047 | Fresno State vs. San Jose State | Fresno State | 1.47 (68¢) | $31,491 | +$14,819 | ✅ Ganada |
 | Takon88 | Will Real Madrid CF win on 2026-09-20? | No | 1.92 (52¢) | $114,059 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | James Madison vs. San Diego State | James Madison | 1.16 (86¢) | $26,768 | +$4,358 | ✅ Ganada |
 | surfandturf | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $88,500 | +$61,500 | ✅ Ganada |
@@ -127,7 +128,6 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | Sassy-Bucket | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
 | 3648393489047 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,776 | -$28,776 | ❌ Perdida |
 | ethanaz | Florida State vs. Alabama | Alabama | 1.15 (87¢) | $89,376 | +$13,355 | ✅ Ganada |
-| maz26 | Fresno State vs. San Jose State | San Jose State | 2.86 (35¢) | $44,362 | — | ⏳ Pendiente |
+| maz26 | Fresno State vs. San Jose State | San Jose State | 2.86 (35¢) | $44,362 | -$44,362 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Florida State vs. Alabama | Alabama | 1.28 (78¢) | $30,295 | +$8,545 | ✅ Ganada |
 | Feromont | Spread: LSU (-2.5) | LSU | 1.92 (52¢) | $25,069 | -$25,069 | ❌ Perdida |
-| Elaran1993 | Will CR Vasco da Gama win on 2026-09-19? | Yes | 1.37 (73¢) | $28,059 | — | ⏳ Pendiente |
