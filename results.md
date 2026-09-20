@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 12:15:23 (hora de Perú)
+Actualizado: 2026-09-20 12:17:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3289**  ($177,231,250 en total)
+- Apuestas registradas: **3291**  ($177,286,845 en total)
 - Resueltas: **3151** — 1906 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 122
+- Pendientes: 124
 - Apostadores distintos: 438
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 25 | 2 | 1 | 93% | $2,014,685 | +$88,444 |
-| BrotherObama | 21 | 20 | 1 | 51% | $1,835,407 | +$192,631 |
+| BrotherObama | 21 | 20 | 2 | 51% | $1,865,334 | +$192,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Spread: Chargers (-6.5) | Raiders | 2.04 (49¢) | $29,927 | — | ⏳ Pendiente |
+| HVAB | Valencia: Alicia Herrero Linana vs Clara Burel | Clara Burel | 1.45 (69¢) | $25,668 | — | ⏳ Pendiente |
 | ethanaz | Panthers vs. Falcons | Panthers | 1.43 (70¢) | $41,302 | — | ⏳ Pendiente |
 | weflyhigh | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Broncos (-2.5) | Jaguars | 2.08 (48¢) | $54,372 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | Donkey14 | Bengals vs. Texans | Texans | 1.72 (58¢) | $41,429 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Chargers (-6.5) | Raiders | 2.04 (49¢) | $140,107 | — | ⏳ Pendiente |
 | DimSumConnoisseur. | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $81,600 | — | ⏳ Pendiente |
-| 0F62 | Will Olympique de Marseille win on 2026-09-20? | No | 1.15 (87¢) | $54,320 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: Chargers (-6.5) | Raiders | 2.04 (49¢) | $97,868 | — | ⏳ Pendiente |
