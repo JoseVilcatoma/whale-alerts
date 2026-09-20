@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 12:13:15 (hora de Perú)
+Actualizado: 2026-09-20 12:15:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3284**  ($176,996,146 en total)
+- Apuestas registradas: **3289**  ($177,231,250 en total)
 - Resueltas: **3151** — 1906 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 117
+- Pendientes: 122
 - Apostadores distintos: 438
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 65 | 47 | 2 | 58% | $5,231,035 | +$610,220 |
-| wr0ngw4yb3tt0r | 48 | 28 | 10 | 63% | $4,620,856 | -$132,094 |
+| wr0ngw4yb3tt0r | 48 | 28 | 11 | 63% | $4,675,228 | -$132,094 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 1 | 33% | $1,228,977 | -$469,491 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
-| ethanaz | 10 | 3 | 1 | 77% | $1,142,837 | -$147,797 |
+| ethanaz | 10 | 3 | 2 | 77% | $1,184,139 | -$147,797 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 7 | 3 | 9 | 70% | $1,046,987 | +$213,243 |
 | Talvez10 | 9 | 9 | 1 | 50% | $984,565 | +$165,257 |
@@ -71,6 +71,11 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Panthers vs. Falcons | Panthers | 1.43 (70¢) | $41,302 | — | ⏳ Pendiente |
+| weflyhigh | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Spread: Broncos (-2.5) | Jaguars | 2.08 (48¢) | $54,372 | — | ⏳ Pendiente |
+| DimSumConnoisseur. | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $56,250 | — | ⏳ Pendiente |
+| mooseborzoi | Saints vs. Ravens | Ravens | 1.30 (77¢) | $41,580 | — | ⏳ Pendiente |
 | ethanaz | Packers vs. Jets | Packers | 1.75 (57¢) | $32,389 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Vikings vs. Bears | Bears | 1.59 (63¢) | $27,204 | — | ⏳ Pendiente |
 | mooseborzoi | Packers vs. Jets | Jets | 2.22 (45¢) | $33,994 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | DimSumConnoisseur. | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $81,600 | — | ⏳ Pendiente |
 | 0F62 | Will Olympique de Marseille win on 2026-09-20? | No | 1.15 (87¢) | $54,320 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Chargers (-6.5) | Raiders | 2.04 (49¢) | $97,868 | — | ⏳ Pendiente |
-| pleaseplease123 | Detroit Tigers vs. Chicago White Sox | Chicago White Sox | 1.92 (52¢) | $107,278 | — | ⏳ Pendiente |
-| BruceWayne77 | Vikings vs. Bears | Bears | 1.52 (66¢) | $32,340 | — | ⏳ Pendiente |
-| SDTrading | Spread: Patriots (-5.5) | Steelers | 1.92 (52¢) | $31,362 | — | ⏳ Pendiente |
-| winwin518168 | Spread: Indiana Fever (-6.5) | Indiana Fever | 2.00 (50¢) | $29,947 | — | ⏳ Pendiente |
-| 0x80d5aebbE7a714879177E4dAE0014195beb3987E-1789159822906 | Will Juventus FC win on 2026-09-20? | Yes | 1.72 (58¢) | $34,800 | — | ⏳ Pendiente |
