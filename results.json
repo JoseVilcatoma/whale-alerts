@@ -46798,7 +46798,7 @@
     "side": "BUY",
     "usd": 26915.811429,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789866572,
     "fills": 1
   },
@@ -47053,7 +47053,7 @@
     "side": "BUY",
     "usd": 51640.0272,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789872228,
     "fills": 1
   },
@@ -47235,6 +47235,21 @@
     "odds_at_bet": 68,
     "status": "pending",
     "ultimo_fill": 1789877827,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6411,
+    "timestamp": 1789878156,
+    "username": "11111111111111111111112",
+    "wallet": "0xacb78b7ae8ece64f705a9e3147390d6959486966",
+    "slug": "lol-edgy-t1a-2026-09-20",
+    "title": "LoL: EDward Gaming Youth Team vs T1 Academy (BO1) - World Star Challengers Invitational Group A",
+    "outcome": "T1 Academy",
+    "side": "BUY",
+    "usd": 26062.029999,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1789878156,
     "fills": 1
   }
 ]
