@@ -47506,5 +47506,20 @@
     "status": "pending",
     "ultimo_fill": 1789888105,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6453,
+    "timestamp": 1789889791,
+    "username": "raybanman",
+    "wallet": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+    "slug": "nfl-sea-ari-2026-09-20-total-41pt5",
+    "title": "Seahawks vs. Cardinals: O/U 41.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 102606.36349999999,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1789889791,
+    "fills": 2
   }
 ]
