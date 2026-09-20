@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 07:51:09 (hora de Perú)
+Actualizado: 2026-09-20 07:53:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3183**  ($171,605,292 en total)
+- Apuestas registradas: **3184**  ($171,676,313 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 430
 
 ### Balance
@@ -49,10 +49,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 22 | 2 | 0 | 92% | $1,424,995 | +$63,350 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 13 | 14 | 4 | 48% | $1,337,042 | -$216,221 |
+| surfandturf | 8 | 2 | 1 | 80% | $1,266,623 | +$77,057 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
-| surfandturf | 8 | 2 | 0 | 80% | $1,195,602 | +$77,057 |
 | SDTrading | 18 | 22 | 0 | 45% | $1,177,356 | -$194,283 |
 | ethanaz | 10 | 3 | 0 | 77% | $1,110,448 | -$147,797 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $71,021 | — | ⏳ Pendiente |
 | afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Málaga CF win on 2026-09-20? | No | 1.27 (79¢) | $32,719 | — | ⏳ Pendiente |
 | maz26 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $26,511 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | LSU | 1.96 (51¢) | $26,950 | -$26,950 | ❌ Perdida |
 | 0x6db5…e279 | LSU vs. Ole Miss | LSU | 2.08 (48¢) | $27,039 | -$27,039 | ❌ Perdida |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.41 (71¢) | $28,792 | +$11,760 | ✅ Ganada |
-| Elaran1993 | Will Portland Timbers win on 2026-09-19? | No | 1.92 (52¢) | $32,855 | +$30,327 | ✅ Ganada |
