@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 16:22:08 (hora de Perú)
+Actualizado: 2026-09-20 16:24:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3359**  ($181,317,610 en total)
-- Resueltas: **3223** — 1951 ganadas / 1272 perdidas (**61%** de acierto)
-- Pendientes: 120
+- Resueltas: **3224** — 1952 ganadas / 1272 perdidas (**61%** de acierto)
+- Pendientes: 119
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,533,127** sobre $174,085,550 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$9,723** sobre $317,500 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$1,525,010** sobre $174,139,871 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$9,708** sobre $317,600 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| 0F62 | 25 | 2 | 1 | 93% | $2,014,685 | +$88,444 |
+| 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | ferrariChampions2026 | 30 | 17 | 2 | 64% | $1,956,537 | -$451,143 |
 | BrotherObama | 21 | 20 | 4 | 51% | $1,945,334 | +$192,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
