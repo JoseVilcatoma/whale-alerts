@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 17:10:25 (hora de Perú)
+Actualizado: 2026-09-20 17:12:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3362**  ($181,434,467 en total)
+- Apuestas registradas: **3363**  ($181,463,867 en total)
 - Resueltas: **3247** — 1961 ganadas / 1286 perdidas (**60%** de acierto)
-- Pendientes: 99
+- Pendientes: 100
 - Apostadores distintos: 441
 
 ### Balance
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | jaytee158 | Commanders vs. Cowboys | Cowboys | 1.16 (86¢) | $50,247 | — | ⏳ Pendiente |
+| winwin518168 | Portland Fire vs. Los Angeles Sparks | Portland Fire | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raiders vs. Chargers | Raiders | 2.44 (41¢) | $31,895 | — | ⏳ Pendiente |
 | ndb1 | Dolphins vs. 49ers | 49ers | 1.08 (93¢) | $34,715 | — | ⏳ Pendiente |
 | gambamaster | Raiders vs. Chargers | Chargers | 1.56 (64¢) | $27,804 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Packers vs. Jets | Packers | 1.61 (62¢) | $28,520 | +$17,480 | ✅ Ganada |
 | ferrariChampions2026 | Packers vs. Jets | Jets | 2.38 (42¢) | $31,823 | -$31,823 | ❌ Perdida |
 | gambamaster | Packers vs. Jets | Packers | 1.72 (58¢) | $32,343 | +$23,421 | ✅ Ganada |
-| mooseborzoi | Eagles vs. Titans | Eagles | 1.30 (77¢) | $42,326 | +$12,643 | ✅ Ganada |
