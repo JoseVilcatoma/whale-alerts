@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 07:07:28 (hora de Perú)
+Actualizado: 2026-09-20 07:09:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3174**  ($171,270,591 en total)
+- Apuestas registradas: **3175**  ($171,300,689 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 430
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MiltonFriedmanHongKong | Will Manchester City FC win on 2026-09-20? | No | 3.57 (28¢) | $30,098 | — | ⏳ Pendiente |
 | Jsram | AFC Bournemouth vs. Liverpool FC: O/U 3.5 | Under 3.5 | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | flashclub | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $54,113 | — | ⏳ Pendiente |
 | Kch-Temp | Panthers vs. Falcons: O/U 43.5 | Under 43.5 | 1.96 (51¢) | $28,046 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | James Madison vs. San Diego State: O/U 46.5 | Over 46.5 | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
 | wr0ngw4yb3tt0r | James Madison vs. San Diego State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $28,901 | +$28,901 | ✅ Ganada |
 | jaytee158 | Charlotte vs. Appalachian State | Appalachian State | 1.11 (90¢) | $33,286 | +$3,698 | ✅ Ganada |
-| 0xA0da9371A4Aa5f2eCE33eDa9B6f47b656bAd1F80-1777002339626 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $40,000 | +$27,797 | ✅ Ganada |
