@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 11:00:43 (hora de Perú)
+Actualizado: 2026-09-20 11:02:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3252**  ($175,612,132 en total)
+- Apuestas registradas: **3255**  ($175,770,104 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 88
+- Pendientes: 91
 - Apostadores distintos: 435
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 237 | 124 | 6 | 66% | $24,229,266 | +$803,917 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 237 | 124 | 9 | 66% | $24,387,238 | +$803,917 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 2 | 54% | $6,162,969 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 435 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jets (-5.5) | Packers | 1.30 (77¢) | $67,329 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jets (-4.5) | Packers | 1.33 (75¢) | $64,743 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
 | justwins | Panthers vs. Falcons | Falcons | 2.27 (44¢) | $69,907 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Panthers vs. Falcons | Panthers | 1.79 (56¢) | $31,580 | — | ⏳ Pendiente |
 | maz26 | Browns vs. Buccaneers | Buccaneers | 1.28 (78¢) | $37,440 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 435 en total)_
 | justwins | Bengals vs. Texans: O/U 45.5 | Under 45.5 | 1.96 (51¢) | $30,010 | — | ⏳ Pendiente |
 | justwins | Eagles vs. Titans: O/U 39.5 | Under 39.5 | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Eagles (-7.5) | Titans | 1.85 (54¢) | $31,865 | — | ⏳ Pendiente |
-| Herdonia | Eagles vs. Titans | Eagles | 1.35 (74¢) | $38,232 | — | ⏳ Pendiente |
-| TKD44 | Eagles vs. Titans | Eagles | 1.35 (74¢) | $44,400 | — | ⏳ Pendiente |
-| Kch-Temp | Eagles vs. Titans | Titans | 3.85 (26¢) | $98,499 | — | ⏳ Pendiente |
