@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:24:20 (hora de Perú)
+Actualizado: 2026-09-20 15:26:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3349**  ($180,890,983 en total)
+- Apuestas registradas: **3353**  ($181,060,528 en total)
 - Resueltas: **3174** — 1922 ganadas / 1252 perdidas (**61%** de acierto)
-- Pendientes: 159
+- Pendientes: 163
 - Apostadores distintos: 441
 
 ### Balance
@@ -40,12 +40,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 25 | 2 | 1 | 93% | $2,014,685 | +$88,444 |
+| ferrariChampions2026 | 26 | 16 | 7 | 62% | $1,956,537 | -$492,219 |
 | BrotherObama | 21 | 20 | 4 | 51% | $1,945,334 | +$192,631 |
-| ferrariChampions2026 | 26 | 16 | 6 | 62% | $1,925,004 | -$492,219 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
+| surfandturf | 10 | 2 | 5 | 83% | $1,723,372 | +$117,566 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| surfandturf | 10 | 2 | 4 | 83% | $1,683,195 | +$117,566 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 4 | 1 | 9 | ⚠️ 80% (5) | $950,222 | +$98,394 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
+| ndb1 | 8 | 7 | 1 | 53% | $905,053 | +$158,221 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
-| phonesculptor | 12 | 2 | 0 | 86% | $873,288 | -$7,205 |
 
 _(mostrando los 40 de mayor monto, de 441 en total)_
 
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Raiders vs. Chargers | Chargers | 1.49 (67¢) | $31,534 | — | ⏳ Pendiente |
+| optimistic-dragon | Raiders vs. Chargers | Raiders | 3.03 (33¢) | $39,600 | — | ⏳ Pendiente |
+| ndb1 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $58,235 | — | ⏳ Pendiente |
+| surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $40,176 | — | ⏳ Pendiente |
 | surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $142,808 | — | ⏳ Pendiente |
 | Tiger200 | Spread: 49ers (-13.5) | Dolphins | 1.92 (52¢) | $130,095 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Commanders vs. Cowboys: O/U 51.5 | Under 51.5 | 1.92 (52¢) | $26,246 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $50,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $52,688 | — | ⏳ Pendiente |
 | ethanaz | Eagles vs. Titans | Titans | 2.50 (40¢) | $32,198 | — | ⏳ Pendiente |
-| gambamaster | Packers vs. Jets | Packers | 1.79 (56¢) | $41,604 | — | ⏳ Pendiente |
-| ethanaz | Packers vs. Jets | Packers | 1.75 (57¢) | $26,166 | — | ⏳ Pendiente |
-| BrotherObama | Spread: Chargers (-6.5) | Raiders | 2.04 (49¢) | $29,927 | — | ⏳ Pendiente |
-| HVAB | Valencia: Alicia Herrero Linana vs Clara Burel | Clara Burel | 1.45 (69¢) | $25,668 | +$11,532 | ✅ Ganada |
