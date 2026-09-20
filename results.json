@@ -50283,5 +50283,35 @@
     "status": "pending",
     "ultimo_fill": 1789935105,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6682,
+    "timestamp": 1789935265,
+    "username": "maz26",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-mia-sf-2026-09-20-spread-home-13pt5",
+    "title": "Spread: 49ers (-13.5)",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 94000.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1789935265,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6683,
+    "timestamp": 1789935328,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-was-dal-2026-09-20-total-51pt5",
+    "title": "Commanders vs. Cowboys: O/U 51.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 26245.9964,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789935328,
+    "fills": 1
   }
 ]

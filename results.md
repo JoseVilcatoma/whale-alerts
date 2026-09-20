@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:13:53 (hora de Perú)
+Actualizado: 2026-09-20 15:15:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3345**  ($180,497,834 en total)
+- Apuestas registradas: **3347**  ($180,618,080 en total)
 - Resueltas: **3164** — 1918 ganadas / 1246 perdidas (**61%** de acierto)
-- Pendientes: 165
+- Pendientes: 167
 - Apostadores distintos: 441
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 65 | 47 | 5 | 58% | $5,353,186 | +$610,220 |
-| wr0ngw4yb3tt0r | 48 | 28 | 11 | 63% | $4,675,228 | -$132,094 |
+| wr0ngw4yb3tt0r | 48 | 28 | 12 | 63% | $4,701,474 | -$132,094 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 29 | 31 | 7 | 48% | $3,340,986 | -$228,159 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 7 | 3 | 9 | 70% | $1,046,987 | +$213,243 |
 | Talvez10 | 9 | 9 | 3 | 50% | $1,046,960 | +$165,257 |
+| maz26 | 4 | 1 | 9 | ⚠️ 80% (5) | $950,222 | +$98,394 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | phonesculptor | 12 | 2 | 0 | 86% | $873,288 | -$7,205 |
-| gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 
 _(mostrando los 40 de mayor monto, de 441 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Commanders vs. Cowboys: O/U 51.5 | Under 51.5 | 1.92 (52¢) | $26,246 | — | ⏳ Pendiente |
+| maz26 | Spread: 49ers (-13.5) | 49ers | 2.13 (47¢) | $94,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Francisco Giants vs. Los Angeles Dodgers | San Francisco Giants | 3.45 (29¢) | $28,609 | — | ⏳ Pendiente |
 | taylorsversion | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $118,140 | — | ⏳ Pendiente |
 | Berniepaidoff | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $50,000 | -$758 | 💰 Vendida antes |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | HVAB | Valencia: Alicia Herrero Linana vs Clara Burel | Clara Burel | 1.45 (69¢) | $25,668 | +$11,532 | ✅ Ganada |
 | ethanaz | Panthers vs. Falcons | Panthers | 1.43 (70¢) | $41,302 | — | ⏳ Pendiente |
 | weflyhigh | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: Broncos (-2.5) | Jaguars | 2.08 (48¢) | $54,372 | — | ⏳ Pendiente |
-| DimSumConnoisseur. | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $56,250 | — | ⏳ Pendiente |
