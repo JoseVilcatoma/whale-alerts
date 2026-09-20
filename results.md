@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 13:30:27 (hora de Perú)
+Actualizado: 2026-09-20 13:32:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3317**  ($178,552,329 en total)
+- Apuestas registradas: **3318**  ($178,608,907 en total)
 - Resueltas: **3158** — 1913 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 143
+- Pendientes: 144
 - Apostadores distintos: 438
 
 ### Balance
@@ -40,8 +40,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 25 | 2 | 1 | 93% | $2,014,685 | +$88,444 |
+| ferrariChampions2026 | 26 | 14 | 8 | 65% | $1,925,004 | -$397,434 |
 | BrotherObama | 21 | 20 | 3 | 51% | $1,915,334 | +$192,631 |
-| ferrariChampions2026 | 26 | 14 | 7 | 65% | $1,868,426 | -$397,434 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Panthers vs. Falcons | Panthers | 1.16 (86¢) | $56,577 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Saints vs. Ravens | Ravens | 1.12 (89¢) | $57,503 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Eagles vs. Titans | Eagles | 1.16 (86¢) | $53,287 | — | ⏳ Pendiente |
 | cosmicxbt | Panthers vs. Falcons | Panthers | 1.11 (90¢) | $63,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | tiger105 | Fulham FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $32,633 | +$5,759 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 2.50 (40¢) | $27,425 | — | ⏳ Pendiente |
 | theowalcott | Spread: Deportivo Toluca FC (-1.5) | Deportivo Toluca FC | 1.72 (58¢) | $30,062 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Steelers vs. Patriots: O/U 41.5 | Over 41.5 | 2.04 (49¢) | $65,062 | — | ⏳ Pendiente |

@@ -49861,5 +49861,20 @@
     "status": "pending",
     "ultimo_fill": 1789928972,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6648,
+    "timestamp": 1789929060,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-car-atl-2026-09-20",
+    "title": "Panthers vs. Falcons",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 56577.4048,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1789929060,
+    "fills": 1
   }
 ]
