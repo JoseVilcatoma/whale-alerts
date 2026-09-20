@@ -48976,5 +48976,35 @@
     "status": "pending",
     "ultimo_fill": 1789920936,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 6578,
+    "timestamp": 1789921039,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "mex-tol-san-2026-09-20-spread-home-1pt5",
+    "title": "Spread: Deportivo Toluca FC (-1.5)",
+    "outcome": "Deportivo Toluca FC",
+    "side": "BUY",
+    "usd": 30062.445799999994,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1789921039,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6579,
+    "timestamp": 1789921076,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-gb-nyj-2026-09-20",
+    "title": "Packers vs. Jets",
+    "outcome": "Jets",
+    "side": "BUY",
+    "usd": 27425.26,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1789921076,
+    "fills": 1
   }
 ]

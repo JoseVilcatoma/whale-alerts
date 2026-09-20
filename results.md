@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 11:17:18 (hora de Perú)
+Actualizado: 2026-09-20 11:19:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3258**  ($175,950,206 en total)
+- Apuestas registradas: **3260**  ($176,007,693 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 94
+- Pendientes: 96
 - Apostadores distintos: 436
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 237 | 124 | 9 | 66% | $24,387,238 | +$803,917 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 237 | 124 | 10 | 66% | $24,414,663 | +$803,917 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 2 | 54% | $6,162,969 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 436 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 2.50 (40¢) | $27,425 | — | ⏳ Pendiente |
+| theowalcott | Spread: Deportivo Toluca FC (-1.5) | Deportivo Toluca FC | 1.72 (58¢) | $30,062 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Steelers vs. Patriots: O/U 41.5 | Over 41.5 | 2.04 (49¢) | $65,062 | — | ⏳ Pendiente |
 | weflyhigh | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.96 (51¢) | $67,472 | — | ⏳ Pendiente |
 | maz26 | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.96 (51¢) | $47,568 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 436 en total)_
 | Ancient-Strike | Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs | Vitality | 1.37 (73¢) | $47,640 | — | ⏳ Pendiente |
 | Flaznorp | Will Liverpool FC win on 2026-09-20? | No | 1.54 (65¢) | $31,367 | -$31,367 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Bournemouth vs. Liverpool FC end in a draw? | Yes | 2.70 (37¢) | $145,848 | -$145,848 | ❌ Perdida |
-| raybanman | Will Real Madrid CF win on 2026-09-20? | No | 1.92 (52¢) | $55,456 | — | ⏳ Pendiente |
-| wigglew | Eagles vs. Titans | Eagles | 1.33 (75¢) | $130,717 | — | ⏳ Pendiente |
