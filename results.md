@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 06:33:47 (hora de Perú)
+Actualizado: 2026-09-20 06:35:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3169**  ($171,092,465 en total)
+- Apuestas registradas: **3170**  ($171,131,614 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 429
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Vikings vs. Bears: O/U 47.5 | Under 47.5 | 1.92 (52¢) | $39,149 | — | ⏳ Pendiente |
 | Kch-Temp | Browns vs. Buccaneers | Browns | 4.55 (22¢) | $75,490 | — | ⏳ Pendiente |
 | maz26 | Spread: Packers (-3.5) | Packers | 2.13 (47¢) | $52,221 | — | ⏳ Pendiente |
 | Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $65,692 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $26,916 | +$10,467 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $102,910 | -$102,910 | ❌ Perdida |
 | sts22 | UFC 331: Marlon Vera vs. Charles Jourdain (Bantamweight, Prelims) | Marlon Vera | 1.06 (94¢) | $28,200 | +$1,800 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LSU vs. Ole Miss | Ole Miss | 1.20 (83¢) | $33,200 | +$6,800 | ✅ Ganada |

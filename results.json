@@ -47641,5 +47641,20 @@
     "status": "pending",
     "ultimo_fill": 1789903795,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 6465,
+    "timestamp": 1789904139,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "nfl-min-chi-2026-09-20-total-47pt5",
+    "title": "Vikings vs. Bears: O/U 47.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 39149.2002,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789904139,
+    "fills": 1
   }
 ]
