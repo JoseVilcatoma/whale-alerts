@@ -48496,5 +48496,20 @@
     "status": "pending",
     "ultimo_fill": 1789917100,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6534,
+    "timestamp": 1789917389,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "nfl-pit-ne-2026-09-20-spread-home-5pt5",
+    "title": "Spread: Patriots (-5.5)",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 31361.766799999998,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789917389,
+    "fills": 1
   }
 ]

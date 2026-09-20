@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:14:41 (hora de Perú)
+Actualizado: 2026-09-20 10:16:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3226**  ($174,099,035 en total)
+- Apuestas registradas: **3227**  ($174,130,397 en total)
 - Resueltas: **3136** — 1892 ganadas / 1244 perdidas (**60%** de acierto)
-- Pendientes: 74
+- Pendientes: 75
 - Apostadores distintos: 432
 
 ### Balance
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 14 | 3 | 50% | $1,337,042 | -$196,221 |
 | surfandturf | 8 | 2 | 2 | 80% | $1,299,768 | +$77,057 |
-| SDTrading | 18 | 22 | 2 | 45% | $1,249,235 | -$194,283 |
+| SDTrading | 18 | 22 | 3 | 45% | $1,280,596 | -$194,283 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 432 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Spread: Patriots (-5.5) | Steelers | 1.92 (52¢) | $31,362 | — | ⏳ Pendiente |
 | winwin518168 | Spread: Indiana Fever (-6.5) | Indiana Fever | 2.00 (50¢) | $29,947 | — | ⏳ Pendiente |
 | 0x80d5aebbE7a714879177E4dAE0014195beb3987E-1789159822906 | Will Juventus FC win on 2026-09-20? | Yes | 1.72 (58¢) | $34,800 | — | ⏳ Pendiente |
 | Sassy-Bucket | Vikings vs. Bears | Bears | 1.52 (66¢) | $264,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 432 en total)_
 | Kch-Temp | Vikings vs. Bears: O/U 47.5 | Under 47.5 | 1.92 (52¢) | $39,149 | — | ⏳ Pendiente |
 | Kch-Temp | Browns vs. Buccaneers | Browns | 4.55 (22¢) | $75,490 | — | ⏳ Pendiente |
 | maz26 | Spread: Packers (-3.5) | Packers | 2.13 (47¢) | $52,221 | — | ⏳ Pendiente |
-| Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $65,692 | — | ⏳ Pendiente |
