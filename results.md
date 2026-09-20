@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 20:58:02 (hora de Perú)
+Actualizado: 2026-09-19 21:00:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3120**  ($168,513,333 en total)
+- Apuestas registradas: **3121**  ($168,550,133 en total)
 - Resueltas: **3070** — 1852 ganadas / 1218 perdidas (**60%** de acierto)
-- Pendientes: 34
-- Apostadores distintos: 424
+- Pendientes: 35
+- Apostadores distintos: 425
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 14 | 9 | 0 | 61% | $821,930 | -$26,266 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 
-_(mostrando los 40 de mayor monto, de 424 en total)_
+_(mostrando los 40 de mayor monto, de 425 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 35808932420 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
 | kkookkoo | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.39 (72¢) | $39,999 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | James Madison vs. San Diego State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $25,025 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | James Madison vs. San Diego State: O/U 46.5 | Over 46.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 424 en total)_
 | wr0ngw4yb3tt0r | Buffalo vs. Penn State: O/U 49.5 | Under 49.5 | 1.89 (53¢) | $43,223 | -$43,223 | ❌ Perdida |
 | phonesculptor | Tulane vs. Kansas State | Kansas State | 1.10 (91¢) | $50,960 | +$5,040 | ✅ Ganada |
 | itwillallbeok | North Carolina vs. Clemson | North Carolina | 2.44 (41¢) | $98,114 | -$98,114 | ❌ Perdida |
-| Kch-Temp | NC State vs. Vanderbilt: O/U 50.5 | Over 50.5 | 1.92 (52¢) | $53,602 | +$49,479 | ✅ Ganada |
