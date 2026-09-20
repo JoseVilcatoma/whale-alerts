@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 12:50:43 (hora de Perú)
+Actualizado: 2026-09-20 12:53:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3304**  ($177,819,824 en total)
+- Apuestas registradas: **3305**  ($177,848,344 en total)
 - Resueltas: **3155** — 1910 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 133
+- Pendientes: 134
 - Apostadores distintos: 438
 
 ### Balance
@@ -51,9 +51,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 10 | 2 | 1 | 83% | $1,368,518 | +$117,566 |
 | Jsram | 14 | 14 | 3 | 50% | $1,337,042 | -$196,221 |
 | SDTrading | 18 | 22 | 3 | 45% | $1,280,596 | -$194,283 |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 2 | 33% | $1,257,497 | -$469,491 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | ethanaz | 10 | 3 | 4 | 77% | $1,242,502 | -$147,797 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 1 | 33% | $1,228,977 | -$469,491 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 7 | 3 | 9 | 70% | $1,046,987 | +$213,243 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Packers vs. Jets | Packers | 1.61 (62¢) | $28,520 | — | ⏳ Pendiente |
 | gambamaster | Packers vs. Jets | Packers | 1.72 (58¢) | $32,343 | — | ⏳ Pendiente |
 | mooseborzoi | Eagles vs. Titans | Eagles | 1.30 (77¢) | $42,326 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.04 (49¢) | $29,463 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | RegardedMoney | Spread: Packers (-2.5) | Jets | 2.22 (45¢) | $29,648 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Steelers vs. Patriots: O/U 41.5 | Over 41.5 | 2.04 (49¢) | $30,993 | — | ⏳ Pendiente |
 | Sassy-Bucket | Panthers vs. Falcons | Panthers | 1.79 (56¢) | $57,583 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Panthers vs. Falcons | Falcons | 2.27 (44¢) | $140,464 | — | ⏳ Pendiente |
