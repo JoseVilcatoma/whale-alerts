@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 13:20:08 (hora de Perú)
+Actualizado: 2026-09-20 13:22:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3314**  ($178,378,539 en total)
+- Apuestas registradas: **3315**  ($178,441,539 en total)
 - Resueltas: **3157** — 1912 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 141
+- Pendientes: 142
 - Apostadores distintos: 438
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Panthers vs. Falcons | Panthers | 1.11 (90¢) | $63,000 | — | ⏳ Pendiente |
 | Talvez10 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.89 (53¢) | $33,587 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $54,929 | — | ⏳ Pendiente |
 | ethanaz | Eagles vs. Titans | Eagles | 1.09 (92¢) | $80,485 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | wr0ngw4yb3tt0r | Steelers vs. Patriots: O/U 41.5 | Over 41.5 | 2.04 (49¢) | $65,062 | — | ⏳ Pendiente |
 | weflyhigh | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.96 (51¢) | $67,472 | — | ⏳ Pendiente |
 | maz26 | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.96 (51¢) | $47,568 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jets (-5.5) | Packers | 1.30 (77¢) | $67,329 | — | ⏳ Pendiente |
