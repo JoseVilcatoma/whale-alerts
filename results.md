@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 16:34:35 (hora de Perú)
+Actualizado: 2026-09-20 16:36:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3361**  ($181,384,220 en total)
-- Resueltas: **3226** — 1953 ganadas / 1273 perdidas (**61%** de acierto)
-- Pendientes: 119
+- Resueltas: **3227** — 1953 ganadas / 1274 perdidas (**61%** de acierto)
+- Pendientes: 118
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,496,583** sobre $174,211,309 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$9,691** sobre $317,800 (ROI **-3.0%**)
+- **Resultado de los apostadores: -$1,534,828** sobre $174,249,554 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$9,791** sobre $317,900 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 69 | 1 | 54% | $6,162,969 | -$226,170 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 66 | 47 | 4 | 58% | $5,353,186 | +$658,855 |
+| pleaseplease123 | 66 | 48 | 3 | 58% | $5,353,186 | +$620,610 |
 | wr0ngw4yb3tt0r | 49 | 30 | 9 | 62% | $4,701,474 | -$282,157 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 32 | 32 | 3 | 50% | $3,340,986 | -$370,487 |
