@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 19:56:16 (hora de Perú)
+Actualizado: 2026-09-19 19:58:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3111**  ($168,140,908 en total)
-- Resueltas: **3060** — 1846 ganadas / 1214 perdidas (**60%** de acierto)
-- Pendientes: 35
+- Resueltas: **3061** — 1846 ganadas / 1215 perdidas (**60%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 422
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,141,655** sobre $165,880,057 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,981** sobre $301,400 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$1,182,073** sobre $165,920,476 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$10,081** sobre $301,500 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 422 en total)_
 | ethanaz | Florida State vs. Alabama | Florida State | 2.08 (48¢) | $100,159 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.69 (59¢) | $67,102 | — | ⏳ Pendiente |
 | Eztennis | LoL: LYON vs Cloud9 (BO5) - LCS Playoffs | LYON | 1.37 (73¢) | $39,275 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | LoL: LYON vs Cloud9 - Game 3 Winner | LYON | 1.56 (64¢) | $40,418 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | LoL: LYON vs Cloud9 - Game 3 Winner | LYON | 1.56 (64¢) | $40,418 | -$40,418 | ❌ Perdida |
 | kkookkoo | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.69 (59¢) | $37,000 | +$25,712 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Virginia Tech vs. Maryland | Maryland | 2.27 (44¢) | $65,725 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Mississippi State vs. South Carolina: O/U 58.5 | Over 58.5 | 1.89 (53¢) | $26,206 | +$23,239 | ✅ Ganada |
