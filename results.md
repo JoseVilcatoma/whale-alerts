@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 14:59:28 (hora de Perú)
+Actualizado: 2026-09-20 15:01:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3335**  ($179,450,113 en total)
+- Apuestas registradas: **3337**  ($179,535,380 en total)
 - Resueltas: **3163** — 1918 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 156
+- Pendientes: 158
 - Apostadores distintos: 440
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 2 | 54% | $6,162,969 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 65 | 47 | 4 | 58% | $5,313,186 | +$610,220 |
+| pleaseplease123 | 65 | 47 | 5 | 58% | $5,353,186 | +$610,220 |
 | wr0ngw4yb3tt0r | 48 | 28 | 11 | 63% | $4,675,228 | -$132,094 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 29 | 31 | 6 | 48% | $3,312,377 | -$228,159 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
+| Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $45,266 | — | ⏳ Pendiente |
 | jaytee158 | LoL: Team Liquid vs FlyQuest (BO5) - LCS Playoffs | Team Liquid | 1.32 (76¢) | $30,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 1.18 (85¢) | $47,596 | — | ⏳ Pendiente |
 | Sassy-Bucket | Washington Mystics vs. Indiana Fever | Indiana Fever | 1.47 (68¢) | $40,800 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 | martingaleking | Vikings vs. Bears | Bears | 1.52 (66¢) | $26,648 | — | ⏳ Pendiente |
 | mooseborzoi | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $115,866 | — | ⏳ Pendiente |
 | surfandturf | Panthers vs. Falcons | Panthers | 1.82 (55¢) | $68,750 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: Patriots (-5.5) | Patriots | 2.13 (47¢) | $34,679 | — | ⏳ Pendiente |
-| Painfulvoid | Bengals vs. Texans | Texans | 1.72 (58¢) | $28,595 | — | ⏳ Pendiente |
