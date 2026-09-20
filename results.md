@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 19:46:08 (hora de Perú)
+Actualizado: 2026-09-19 19:48:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3108**  ($168,021,593 en total)
+- Apuestas registradas: **3109**  ($168,079,508 en total)
 - Resueltas: **3059** — 1845 ganadas / 1214 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 421
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 421 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| maz26 | San Francisco Giants vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.28 (78¢) | $57,915 | — | ⏳ Pendiente |
 | donaldbush | LSU vs. Ole Miss | Ole Miss | 1.33 (75¢) | $32,397 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $26,058 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 421 en total)_
 | primm | Spread: Toledo (-5.5) | Temple | 1.96 (51¢) | $29,747 | +$28,580 | ✅ Ganada |
 | Pwaddler | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.69 (59¢) | $52,498 | — | ⏳ Pendiente |
 | Elaran1993 | Will Paris FC win on 2026-09-19? | Yes | 1.85 (54¢) | $68,848 | +$58,648 | ✅ Ganada |
-| beeemw | Will Arsenal FC win on 2026-09-19? | No | 1.10 (91¢) | $49,813 | +$4,927 | ✅ Ganada |
