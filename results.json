@@ -47551,5 +47551,20 @@
     "status": "pending",
     "ultimo_fill": 1789896105,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6458,
+    "timestamp": 1789897710,
+    "username": "mimi121",
+    "wallet": "0x14af7564566edfd07d1996ae8b08d6235d7aca2c",
+    "slug": "cs2-vit-furia-2026-09-20",
+    "title": "Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 37135.6478,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1789897710,
+    "fills": 1
   }
 ]
