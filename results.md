@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 20:49:49 (hora de Perú)
+Actualizado: 2026-09-19 20:51:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3120**  ($168,513,333 en total)
-- Resueltas: **3068** — 1851 ganadas / 1217 perdidas (**60%** de acierto)
-- Pendientes: 36
+- Resueltas: **3069** — 1852 ganadas / 1217 perdidas (**60%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 424
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,287,092** sobre $166,331,000 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,214** sobre $302,200 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,261,835** sobre $166,358,361 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,121** sobre $302,300 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 | phonesculptor | 11 | 2 | 0 | 85% | $841,168 | -$11,585 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 9 | 1 | 59% | $821,930 | -$51,522 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 14 | 9 | 0 | 61% | $821,930 | -$26,266 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 
 _(mostrando los 40 de mayor monto, de 424 en total)_
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 424 en total)_
 | Berniepaidoff | Temple vs. Toledo | Temple | 1.67 (60¢) | $39,984 | -$39,984 | ❌ Perdida |
 | wr0ngw4yb3tt0r | San Francisco Giants vs. Los Angeles Dodgers: O/U 7.5 | Over 7.5 | 2.08 (48¢) | $32,843 | — | ⏳ Pendiente |
 | pleaseplease123 | Washington Nationals vs. St. Louis Cardinals | Washington Nationals | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
-| HMLSF | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.92 (52¢) | $27,361 | — | ⏳ Pendiente |
+| HMLSF | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.92 (52¢) | $27,361 | +$25,256 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Temple vs. Toledo | Temple | 1.43 (70¢) | $29,991 | -$29,991 | ❌ Perdida |
 | bands1 | Florida vs. Auburn | Florida | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | SMU vs. Louisville | Louisville | 1.61 (62¢) | $49,921 | +$30,597 | ✅ Ganada |
