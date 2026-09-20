@@ -46918,7 +46918,7 @@
     "side": "BUY",
     "usd": 36800.0,
     "odds_at_bet": 92,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789869217,
     "fills": 1
   },
@@ -46933,7 +46933,7 @@
     "side": "BUY",
     "usd": 34654.311,
     "odds_at_bet": 90,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789869767,
     "fills": 1
   },
@@ -47070,6 +47070,36 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1789873021,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6371,
+    "timestamp": 1789873111,
+    "username": "phonesculptor",
+    "wallet": "0xf1528f12e645462c344799b62b1b421a6a4c64aa",
+    "slug": "cfb-mont-oregst-2026-09-19",
+    "title": "Montana vs. Oregon State",
+    "outcome": "Oregon State",
+    "side": "BUY",
+    "usd": 32120.0,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1789873111,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6374,
+    "timestamp": 1789873222,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-nyy-ari-2026-09-19",
+    "title": "New York Yankees vs. Arizona Diamondbacks",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 40000.00000000001,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1789873222,
     "fills": 1
   }
 ]

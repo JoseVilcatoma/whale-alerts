@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 21:58:19 (hora de Perú)
+Actualizado: 2026-09-19 22:00:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3131**  ($168,882,668 en total)
-- Resueltas: **3071** — 1852 ganadas / 1219 perdidas (**60%** de acierto)
+- Apuestas registradas: **3133**  ($168,954,788 en total)
+- Resueltas: **3073** — 1852 ganadas / 1221 perdidas (**60%** de acierto)
 - Pendientes: 44
 - Apostadores distintos: 426
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,323,715** sobre $166,420,241 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,321** sobre $302,500 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,395,169** sobre $166,491,695 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,521** sobre $302,700 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,8 +40,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 25 | 2 | 0 | 93% | $1,960,364 | +$88,444 |
+| BrotherObama | 20 | 19 | 3 | 51% | $1,835,407 | +$203,807 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| BrotherObama | 20 | 19 | 2 | 51% | $1,795,407 | +$203,807 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | ferrariChampions2026 | 25 | 14 | 1 | 64% | $1,598,813 | -$428,464 |
@@ -59,9 +59,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 9 | 3 | 0 | 75% | $928,974 | -$161,456 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
+| phonesculptor | 11 | 2 | 1 | 85% | $873,288 | -$11,585 |
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
-| phonesculptor | 11 | 2 | 0 | 85% | $841,168 | -$11,585 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 14 | 9 | 0 | 61% | $821,930 | -$26,266 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 2.22 (45¢) | $40,000 | — | ⏳ Pendiente |
+| phonesculptor | Montana vs. Oregon State | Oregon State | 1.14 (88¢) | $32,120 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Fresno State (-3.5) | Fresno State | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $51,640 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LSU vs. Ole Miss | LSU | 1.72 (58¢) | $34,605 | — | ⏳ Pendiente |
@@ -80,8 +82,8 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.41 (71¢) | $28,792 | — | ⏳ Pendiente |
 | Elaran1993 | Will Portland Timbers win on 2026-09-19? | No | 1.92 (52¢) | $32,855 | — | ⏳ Pendiente |
 | kkookkoo | O/U 1.5 Rounds | Under 1.5 Rounds | 1.22 (82¢) | $27,258 | — | ⏳ Pendiente |
-| pereira12 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.11 (90¢) | $34,654 | — | ⏳ Pendiente |
-| 35808932420 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
+| pereira12 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.11 (90¢) | $34,654 | -$34,654 | ❌ Perdida |
+| 35808932420 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.09 (92¢) | $36,800 | -$36,800 | ❌ Perdida |
 | kkookkoo | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.39 (72¢) | $39,999 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | James Madison vs. San Diego State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $25,025 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | James Madison vs. San Diego State: O/U 46.5 | Over 46.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | maz26 | SMU vs. Louisville | Louisville | 1.75 (57¢) | $53,317 | +$40,221 | ✅ Ganada |
 | phonesculptor | USC vs. Rutgers | USC | 1.06 (94¢) | $53,170 | +$3,394 | ✅ Ganada |
 | 177-letsgo | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $87,400 | +$7,600 | ✅ Ganada |
-| Donkey14 | Mississippi State vs. South Carolina | South Carolina | 1.64 (61¢) | $31,191 | -$31,191 | ❌ Perdida |
-| maz26 | SMU vs. Louisville | Louisville | 1.79 (56¢) | $72,800 | +$57,200 | ✅ Ganada |
