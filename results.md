@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 08:20:06 (hora de Perú)
+Actualizado: 2026-09-20 08:22:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3190**  ($171,914,099 en total)
+- Apuestas registradas: **3191**  ($171,986,832 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 430
 
 ### Balance
@@ -45,8 +45,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | ferrariChampions2026 | 26 | 14 | 0 | 65% | $1,598,813 | -$397,434 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 22 | 2 | 1 | 92% | $1,497,727 | +$63,350 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 22 | 2 | 0 | 92% | $1,424,995 | +$63,350 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 13 | 14 | 4 | 48% | $1,337,042 | -$216,221 |
 | surfandturf | 8 | 2 | 2 | 80% | $1,299,768 | +$77,057 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Roadto1mlesgooo | AFC Bournemouth vs. Liverpool FC: O/U 0.5 | Over 0.5 | 1.09 (92¢) | $72,732 | — | ⏳ Pendiente |
 | SDTrading | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $31,079 | — | ⏳ Pendiente |
 | five5120 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.43 (70¢) | $40,000 | — | ⏳ Pendiente |
 | MrDouche | Will Manchester City FC win on 2026-09-20? | Yes | 1.41 (71¢) | $35,379 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.32 (76¢) | $89,152 | +$28,153 | ✅ Ganada |
 | BrotherObama | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 2.22 (45¢) | $40,000 | -$40,000 | ❌ Perdida |
 | phonesculptor | Montana vs. Oregon State | Oregon State | 1.14 (88¢) | $32,120 | +$4,380 | ✅ Ganada |
-| BrotherObama | Spread: Fresno State (-3.5) | Fresno State | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
