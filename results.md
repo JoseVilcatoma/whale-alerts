@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:27:13 (hora de Perú)
+Actualizado: 2026-09-20 10:29:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3233**  ($174,643,911 en total)
+- Apuestas registradas: **3234**  ($174,685,339 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 69
+- Pendientes: 70
 - Apostadores distintos: 434
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 434 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Bengals vs. Texans | Texans | 1.72 (58¢) | $41,429 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Chargers (-6.5) | Raiders | 2.04 (49¢) | $140,107 | — | ⏳ Pendiente |
 | DimSumConnoisseur. | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $81,600 | — | ⏳ Pendiente |
 | 0F62 | Will Olympique de Marseille win on 2026-09-20? | No | 1.15 (87¢) | $54,320 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 434 en total)_
 | zhqzhq | Will Sunderland AFC win on 2026-09-20? | No | 1.10 (91¢) | $50,000 | +$4,945 | ✅ Ganada |
 | Kch-Temp | Vikings vs. Bears: O/U 47.5 | Under 47.5 | 1.89 (53¢) | $29,715 | — | ⏳ Pendiente |
 | MiltonFriedmanHongKong | Will Manchester City FC win on 2026-09-20? | No | 3.57 (28¢) | $30,098 | -$30,098 | ❌ Perdida |
-| Jsram | AFC Bournemouth vs. Liverpool FC: O/U 3.5 | Under 3.5 | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
