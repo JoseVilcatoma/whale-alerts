@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 22:02:24 (hora de Perú)
+Actualizado: 2026-09-19 22:04:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3134**  ($169,043,940 en total)
-- Resueltas: **3073** — 1852 ganadas / 1221 perdidas (**60%** de acierto)
-- Pendientes: 45
+- Resueltas: **3074** — 1853 ganadas / 1221 perdidas (**60%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 426
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,395,169** sobre $166,491,695 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,521** sobre $302,700 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,389,185** sobre $166,518,953 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,499** sobre $302,800 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | 0x6db5…e279 | LSU vs. Ole Miss | LSU | 2.08 (48¢) | $27,039 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.41 (71¢) | $28,792 | — | ⏳ Pendiente |
 | Elaran1993 | Will Portland Timbers win on 2026-09-19? | No | 1.92 (52¢) | $32,855 | — | ⏳ Pendiente |
-| kkookkoo | O/U 1.5 Rounds | Under 1.5 Rounds | 1.22 (82¢) | $27,258 | — | ⏳ Pendiente |
+| kkookkoo | O/U 1.5 Rounds | Under 1.5 Rounds | 1.22 (82¢) | $27,258 | +$5,984 | ✅ Ganada |
 | pereira12 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.11 (90¢) | $34,654 | -$34,654 | ❌ Perdida |
 | 35808932420 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.09 (92¢) | $36,800 | -$36,800 | ❌ Perdida |
 | kkookkoo | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.39 (72¢) | $39,999 | — | ⏳ Pendiente |
