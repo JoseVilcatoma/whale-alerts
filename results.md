@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 14:05:55 (hora de Perú)
+Actualizado: 2026-09-20 14:08:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3321**  ($178,836,475 en total)
+- Apuestas registradas: **3325**  ($178,995,663 en total)
 - Resueltas: **3161** — 1916 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 144
-- Apostadores distintos: 439
+- Pendientes: 148
+- Apostadores distintos: 440
 
 ### Balance
 
@@ -40,8 +40,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 25 | 2 | 1 | 93% | $2,014,685 | +$88,444 |
+| BrotherObama | 21 | 20 | 4 | 51% | $1,945,334 | +$192,631 |
 | ferrariChampions2026 | 26 | 14 | 8 | 65% | $1,925,004 | -$397,434 |
-| BrotherObama | 21 | 20 | 3 | 51% | $1,915,334 | +$192,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -65,12 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | maz26 | 4 | 1 | 8 | ⚠️ 80% (5) | $856,222 | +$98,394 |
 
-_(mostrando los 40 de mayor monto, de 439 en total)_
+_(mostrando los 40 de mayor monto, de 440 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| rf13g145g41g4g4 | Jaguars vs. Broncos | Jaguars | 2.27 (44¢) | $47,593 | — | ⏳ Pendiente |
+| Laskhask | Eagles vs. Titans | Eagles | 1.41 (71¢) | $55,932 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Saints vs. Ravens | Ravens | 1.11 (90¢) | $25,664 | — | ⏳ Pendiente |
+| BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
 | jaytee158 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $51,498 | — | ⏳ Pendiente |
 | marchettamaker | Valencia CF vs. Real Sociedad de Fútbol: O/U 2.5 | Under 2.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | maz26 | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $150,570 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 439 en total)_
 | Talvez10 | Packers vs. Jets: O/U 43.5 | Under 43.5 | 2.04 (49¢) | $26,660 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Spread: Cowboys (-4.5) | Cowboys | 2.08 (48¢) | $33,697 | — | ⏳ Pendiente |
 | primm | Panthers vs. Falcons: O/U 43.5 | Under 43.5 | 1.92 (52¢) | $32,361 | — | ⏳ Pendiente |
-| justwins | Spread: Panthers (-2.5) | Falcons | 2.00 (50¢) | $30,910 | — | ⏳ Pendiente |
-| raybanman | Saints vs. Ravens | Saints | 4.55 (22¢) | $33,000 | — | ⏳ Pendiente |
-| 177-letsgo | Browns vs. Buccaneers | Buccaneers | 1.28 (78¢) | $46,799 | — | ⏳ Pendiente |
-| raybanman | Spread: BAL (-8.5) | NO | 1.89 (53¢) | $37,250 | — | ⏳ Pendiente |
