@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 18:39:34 (hora de Perú)
+Actualizado: 2026-09-20 18:41:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3369**  ($181,685,304 en total)
-- Resueltas: **3297** — 1987 ganadas / 1310 perdidas (**60%** de acierto)
-- Pendientes: 56
+- Resueltas: **3310** — 1999 ganadas / 1311 perdidas (**60%** de acierto)
+- Pendientes: 43
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,606,496** sobre $177,613,706 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,095** sobre $324,900 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$1,557,890** sobre $178,243,372 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$9,962** sobre $326,200 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 21 | 22 | 2 | 49% | $1,945,334 | +$112,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| surfandturf | 12 | 2 | 3 | 86% | $1,723,372 | +$249,066 |
+| surfandturf | 15 | 2 | 0 | 88% | $1,723,372 | +$280,596 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -59,8 +59,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 10 | 6 | 3 | 62% | $1,046,987 | +$372,860 |
 | Talvez10 | 11 | 10 | 0 | 52% | $1,046,960 | +$193,981 |
-| ndb1 | 8 | 7 | 3 | 53% | $977,951 | +$158,221 |
-| maz26 | 6 | 4 | 4 | 60% | $950,222 | +$6,405 |
+| ndb1 | 10 | 7 | 1 | 59% | $977,951 | +$165,076 |
+| maz26 | 8 | 5 | 1 | 62% | $950,222 | -$11,645 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -80,18 +80,18 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | jaytee158 | Commanders vs. Cowboys | Cowboys | 1.16 (86¢) | $50,247 | — | ⏳ Pendiente |
 | winwin518168 | Portland Fire vs. Los Angeles Sparks | Portland Fire | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raiders vs. Chargers | Raiders | 2.44 (41¢) | $31,895 | +$45,898 | ✅ Ganada |
-| ndb1 | Dolphins vs. 49ers | 49ers | 1.08 (93¢) | $34,715 | — | ⏳ Pendiente |
+| ndb1 | Dolphins vs. 49ers | 49ers | 1.08 (93¢) | $34,715 | +$2,613 | ✅ Ganada |
 | gambamaster | Raiders vs. Chargers | Chargers | 1.56 (64¢) | $27,804 | -$27,804 | ❌ Perdida |
-| 3648393489047 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $26,700 | — | ⏳ Pendiente |
+| 3648393489047 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
 | cosmicxbt | Commanders vs. Cowboys | Cowboys | 1.25 (80¢) | $67,885 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Cowboys | Cowboys | 1.20 (83¢) | $39,684 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Cowboys | Cowboys | 1.18 (85¢) | $56,826 | — | ⏳ Pendiente |
-| ndb1 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $38,182 | — | ⏳ Pendiente |
+| ndb1 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $38,182 | +$4,242 | ✅ Ganada |
 | ferrariChampions2026 | Raiders vs. Chargers | Chargers | 1.49 (67¢) | $31,534 | -$31,534 | ❌ Perdida |
 | optimistic-dragon | Raiders vs. Chargers | Raiders | 3.03 (33¢) | $39,600 | +$80,400 | ✅ Ganada |
 | ndb1 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $58,235 | — | ⏳ Pendiente |
-| surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $40,176 | — | ⏳ Pendiente |
-| surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $142,808 | — | ⏳ Pendiente |
+| surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $40,176 | +$4,966 | ✅ Ganada |
+| surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $142,808 | +$17,650 | ✅ Ganada |
 | Tiger200 | Spread: 49ers (-13.5) | Dolphins | 1.92 (52¢) | $130,095 | -$130,095 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Commanders vs. Cowboys: O/U 51.5 | Under 51.5 | 1.92 (52¢) | $26,246 | — | ⏳ Pendiente |
 | maz26 | Spread: 49ers (-13.5) | 49ers | 2.13 (47¢) | $94,000 | +$106,000 | ✅ Ganada |
@@ -105,21 +105,21 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | -$6,148 | 💰 Vendida antes |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $40,000 | -$40,000 | ❌ Perdida |
 | Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $77,327 | +$87,198 | ✅ Ganada |
-| jaytee158 | LoL: Team Liquid vs FlyQuest (BO5) - LCS Playoffs | Team Liquid | 1.32 (76¢) | $30,400 | — | ⏳ Pendiente |
+| jaytee158 | LoL: Team Liquid vs FlyQuest (BO5) - LCS Playoffs | Team Liquid | 1.32 (76¢) | $30,400 | +$9,600 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 1.18 (85¢) | $47,596 | -$47,596 | ❌ Perdida |
 | Sassy-Bucket | Washington Mystics vs. Indiana Fever | Indiana Fever | 1.47 (68¢) | $40,800 | -$40,800 | ❌ Perdida |
 | Laskhask | Eagles vs. Titans | Titans | 1.54 (65¢) | $29,539 | -$29,539 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 2.78 (36¢) | $70,874 | +$125,998 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-6.5) | Titans | 1.06 (94¢) | $32,847 | +$2,097 | ✅ Ganada |
-| AnonymousUsername | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $47,775 | — | ⏳ Pendiente |
-| surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $72,119 | — | ⏳ Pendiente |
+| AnonymousUsername | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $47,775 | +$5,905 | ✅ Ganada |
+| surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $72,119 | +$8,914 | ✅ Ganada |
 | Laskhask | Browns vs. Buccaneers | Buccaneers | 1.47 (68¢) | $52,208 | -$52,208 | ❌ Perdida |
-| Donkey14 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $30,291 | — | ⏳ Pendiente |
+| Donkey14 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $30,291 | +$3,744 | ✅ Ganada |
 | rf13g145g41g4g4 | Jaguars vs. Broncos | Jaguars | 2.27 (44¢) | $47,593 | -$47,593 | ❌ Perdida |
 | Laskhask | Eagles vs. Titans | Eagles | 1.41 (71¢) | $55,932 | +$22,845 | ✅ Ganada |
 | TAIWANNUMBERONE | Saints vs. Ravens | Ravens | 1.11 (90¢) | $25,664 | -$25,664 | ❌ Perdida |
 | BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $30,000 | -$30,000 | ❌ Perdida |
-| jaytee158 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $51,498 | — | ⏳ Pendiente |
+| jaytee158 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $51,498 | +$5,722 | ✅ Ganada |
 | marchettamaker | Valencia CF vs. Real Sociedad de Fútbol: O/U 2.5 | Under 2.5 | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | maz26 | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $150,570 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Panthers vs. Falcons | Panthers | 1.16 (86¢) | $56,577 | +$9,210 | ✅ Ganada |
