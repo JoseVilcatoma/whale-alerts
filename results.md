@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:01:32 (hora de Perú)
+Actualizado: 2026-09-20 15:03:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3337**  ($179,535,380 en total)
+- Apuestas registradas: **3338**  ($179,650,440 en total)
 - Resueltas: **3163** — 1918 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 158
+- Pendientes: 159
 - Apostadores distintos: 440
 
 ### Balance
@@ -71,8 +71,9 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
-| Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $45,266 | — | ⏳ Pendiente |
+| Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $77,327 | — | ⏳ Pendiente |
 | jaytee158 | LoL: Team Liquid vs FlyQuest (BO5) - LCS Playoffs | Team Liquid | 1.32 (76¢) | $30,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 1.18 (85¢) | $47,596 | — | ⏳ Pendiente |
 | Sassy-Bucket | Washington Mystics vs. Indiana Fever | Indiana Fever | 1.47 (68¢) | $40,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 | Donkey14 | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $39,767 | — | ⏳ Pendiente |
 | martingaleking | Vikings vs. Bears | Bears | 1.52 (66¢) | $26,648 | — | ⏳ Pendiente |
 | mooseborzoi | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $115,866 | — | ⏳ Pendiente |
-| surfandturf | Panthers vs. Falcons | Panthers | 1.82 (55¢) | $68,750 | — | ⏳ Pendiente |

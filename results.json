@@ -50141,11 +50141,11 @@
     "title": "Browns vs. Buccaneers",
     "outcome": "Browns",
     "side": "BUY",
-    "usd": 45266.48959999999,
+    "usd": 77326.62779999999,
     "odds_at_bet": 47,
     "status": "pending",
-    "ultimo_fill": 1789934388,
-    "fills": 1
+    "ultimo_fill": 1789934503,
+    "fills": 2
   },
   {
     "telegram_msg_id": 6672,
@@ -50160,6 +50160,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1789934435,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6673,
+    "timestamp": 1789934571,
+    "username": "optimistic-dragon",
+    "wallet": "0xa92f2a035a9920b0b3f61ef7244b958d69e0ea6e",
+    "slug": "nfl-cle-tb-2026-09-20",
+    "title": "Browns vs. Buccaneers",
+    "outcome": "Buccaneers",
+    "side": "BUY",
+    "usd": 82999.99999999999,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1789934571,
     "fills": 1
   }
 ]
