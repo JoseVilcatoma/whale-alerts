@@ -47281,5 +47281,20 @@
     "status": "pending",
     "ultimo_fill": 1789878963,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6423,
+    "timestamp": 1789882950,
+    "username": "elPolloLoco",
+    "wallet": "0xa2f1fecf1cc7db65a46588f764b6691533052d22",
+    "slug": "cfb-frest-sjst-2026-09-19",
+    "title": "Fresno State vs. San Jose State",
+    "outcome": "Fresno State",
+    "side": "BUY",
+    "usd": 37729.08,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1789882950,
+    "fills": 1
   }
 ]

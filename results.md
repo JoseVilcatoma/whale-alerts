@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 00:41:46 (hora de Perú)
+Actualizado: 2026-09-20 00:43:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3145**  ($169,679,645 en total)
+- Apuestas registradas: **3146**  ($169,717,374 en total)
 - Resueltas: **3109** — 1873 ganadas / 1236 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 428
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 428 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| elPolloLoco | Fresno State vs. San Jose State | Fresno State | 1.11 (90¢) | $37,729 | — | ⏳ Pendiente |
 | optimistic-dragon | Vikings vs. Bears | Bears | 1.49 (67¢) | $42,865 | — | ⏳ Pendiente |
 | Diabolical-Prize | Vikings vs. Bears | Vikings | 3.03 (33¢) | $25,399 | — | ⏳ Pendiente |
 | 11111111111111111111112 | LoL: EDward Gaming Youth Team vs T1 Academy (BO1) - World Star Challengers Invitational Group A | T1 Academy | 1.11 (90¢) | $26,062 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 428 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Virginia Tech vs. Maryland | Maryland | 2.27 (44¢) | $65,725 | -$65,725 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Mississippi State vs. South Carolina: O/U 58.5 | Over 58.5 | 1.89 (53¢) | $26,206 | +$23,239 | ✅ Ganada |
 | pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.44 (41¢) | $28,692 | +$41,288 | ✅ Ganada |
-| wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.85 (54¢) | $30,208 | +$25,733 | ✅ Ganada |
