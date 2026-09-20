@@ -49081,5 +49081,20 @@
     "status": "pending",
     "ultimo_fill": 1789922013,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6585,
+    "timestamp": 1789922073,
+    "username": "primm",
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "slug": "nfl-car-atl-2026-09-20-total-43pt5",
+    "title": "Panthers vs. Falcons: O/U 43.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 32361.243200000004,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789922073,
+    "fills": 1
   }
 ]
