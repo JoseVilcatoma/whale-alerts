@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 23:39:41 (hora de Perú)
+Actualizado: 2026-09-19 23:41:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3145**  ($169,679,645 en total)
-- Resueltas: **3106** — 1870 ganadas / 1236 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Resueltas: **3107** — 1871 ganadas / 1236 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 428
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,561,993** sobre $167,982,297 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,750** sobre $306,000 (ROI **-3.5%**)
+- **Resultado de los apostadores: -$1,545,658** sobre $168,040,212 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,722** sobre $306,100 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 428 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $102,910 | -$102,910 | ❌ Perdida |
 | sts22 | UFC 331: Marlon Vera vs. Charles Jourdain (Bantamweight, Prelims) | Marlon Vera | 1.06 (94¢) | $28,200 | +$1,800 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LSU vs. Ole Miss | Ole Miss | 1.20 (83¢) | $33,200 | +$6,800 | ✅ Ganada |
-| maz26 | San Francisco Giants vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.28 (78¢) | $57,915 | — | ⏳ Pendiente |
+| maz26 | San Francisco Giants vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.28 (78¢) | $57,915 | +$16,335 | ✅ Ganada |
 | donaldbush | LSU vs. Ole Miss | Ole Miss | 1.33 (75¢) | $32,397 | +$10,799 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $26,058 | -$26,058 | ❌ Perdida |
 | Sassy-Bucket | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
