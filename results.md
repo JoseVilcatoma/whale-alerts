@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 23:17:15 (hora de Perú)
+Actualizado: 2026-09-19 23:19:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3142**  ($169,585,319 en total)
-- Resueltas: **3097** — 1864 ganadas / 1233 perdidas (**60%** de acierto)
-- Pendientes: 29
+- Resueltas: **3098** — 1865 ganadas / 1233 perdidas (**60%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 426
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,632,871** sobre $167,476,273 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,840** sobre $305,100 (ROI **-3.6%**)
+- **Resultado de los apostadores: -$1,532,871** sobre $167,576,273 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,740** sobre $305,200 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 0 | 54% | $6,099,092 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 63 | 47 | 2 | 57% | $5,085,512 | +$418,457 |
+| pleaseplease123 | 64 | 47 | 1 | 58% | $5,085,512 | +$518,457 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 45 | 28 | 3 | 62% | $3,931,224 | -$221,600 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -130,4 +130,4 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.85 (54¢) | $30,208 | +$25,733 | ✅ Ganada |
 | Berniepaidoff | Temple vs. Toledo | Temple | 1.67 (60¢) | $39,984 | -$39,984 | ❌ Perdida |
 | wr0ngw4yb3tt0r | San Francisco Giants vs. Los Angeles Dodgers: O/U 7.5 | Over 7.5 | 2.08 (48¢) | $32,843 | — | ⏳ Pendiente |
-| pleaseplease123 | Washington Nationals vs. St. Louis Cardinals | Washington Nationals | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
+| pleaseplease123 | Washington Nationals vs. St. Louis Cardinals | Washington Nationals | 2.00 (50¢) | $100,000 | +$100,000 | ✅ Ganada |
