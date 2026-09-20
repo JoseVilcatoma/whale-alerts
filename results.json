@@ -49996,5 +49996,20 @@
     "status": "pending",
     "ultimo_fill": 1789931664,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6660,
+    "timestamp": 1789931961,
+    "username": "Laskhask",
+    "wallet": "0x3682205f93964f923d1cc2b100907268f300df75",
+    "slug": "nfl-cle-tb-2026-09-20",
+    "title": "Browns vs. Buccaneers",
+    "outcome": "Buccaneers",
+    "side": "BUY",
+    "usd": 52208.36,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1789931961,
+    "fills": 1
   }
 ]

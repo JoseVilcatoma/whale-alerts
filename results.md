@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 14:18:23 (hora de Perú)
+Actualizado: 2026-09-20 14:20:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3326**  ($179,025,955 en total)
+- Apuestas registradas: **3327**  ($179,078,163 en total)
 - Resueltas: **3161** — 1916 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 149
+- Pendientes: 150
 - Apostadores distintos: 440
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Laskhask | Browns vs. Buccaneers | Buccaneers | 1.47 (68¢) | $52,208 | — | ⏳ Pendiente |
 | Donkey14 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $30,291 | — | ⏳ Pendiente |
 | rf13g145g41g4g4 | Jaguars vs. Broncos | Jaguars | 2.27 (44¢) | $47,593 | — | ⏳ Pendiente |
 | Laskhask | Eagles vs. Titans | Eagles | 1.41 (71¢) | $55,932 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 | Sassy-Bucket | Panthers vs. Falcons | Panthers | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | Donkey14 | Packers vs. Jets | Jets | 2.50 (40¢) | $28,066 | — | ⏳ Pendiente |
 | Talvez10 | Packers vs. Jets: O/U 43.5 | Under 43.5 | 2.04 (49¢) | $26,660 | — | ⏳ Pendiente |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Spread: Cowboys (-4.5) | Cowboys | 2.08 (48¢) | $33,697 | — | ⏳ Pendiente |
