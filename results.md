@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 04:37:08 (hora de Perú)
+Actualizado: 2026-09-20 04:39:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3162**  ($170,633,485 en total)
+- Apuestas registradas: **3163**  ($170,681,138 en total)
 - Resueltas: **3125** — 1885 ganadas / 1240 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 429
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| retordedgremlin125 | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $47,653 | — | ⏳ Pendiente |
 | bloodmaster | LoL: Fuego vs EDward Gaming Youth Team (BO1) - World Star Challengers Invitational Group A | EDward Gaming Youth Team | 1.19 (84¢) | $26,742 | — | ⏳ Pendiente |
 | raybanman | Seahawks vs. Cardinals: O/U 41.5 | Over 41.5 | 2.00 (50¢) | $102,606 | — | ⏳ Pendiente |
 | raybanman | Panthers vs. Falcons | Falcons | 2.33 (43¢) | $65,367 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | Sassy-Bucket | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
 | 3648393489047 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,776 | -$28,776 | ❌ Perdida |
 | ethanaz | Florida State vs. Alabama | Alabama | 1.15 (87¢) | $89,376 | +$13,355 | ✅ Ganada |
-| maz26 | Fresno State vs. San Jose State | San Jose State | 2.86 (35¢) | $44,362 | -$44,362 | ❌ Perdida |
