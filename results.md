@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 21:43:00 (hora de Perú)
+Actualizado: 2026-09-19 21:45:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3129**  ($168,801,028 en total)
+- Apuestas registradas: **3130**  ($168,852,668 en total)
 - Resueltas: **3070** — 1852 ganadas / 1218 perdidas (**60%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 426
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 42 | 27 | 6 | 61% | $3,888,337 | -$274,339 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 0 | 45% | $3,229,966 | -$579,176 |
-| Sassy-Bucket | 27 | 29 | 3 | 48% | $2,756,916 | -$187,020 |
+| Sassy-Bucket | 27 | 29 | 4 | 48% | $2,808,556 | -$187,020 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $51,640 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LSU vs. Ole Miss | LSU | 1.72 (58¢) | $34,605 | — | ⏳ Pendiente |
 | 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.96 (51¢) | $38,742 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | LSU | 1.96 (51¢) | $26,950 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | Donkey14 | Mississippi State vs. South Carolina | South Carolina | 1.64 (61¢) | $31,191 | -$31,191 | ❌ Perdida |
 | maz26 | SMU vs. Louisville | Louisville | 1.79 (56¢) | $72,800 | +$57,200 | ✅ Ganada |
 | AGUGava | FC Metz vs. AS Saint-Étienne: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $34,421 | -$34,421 | ❌ Perdida |
-| winwin518168 | Spread: Dallas Wings (-10.5) | Dallas Wings | 1.96 (51¢) | $30,806 | -$30,806 | ❌ Perdida |
