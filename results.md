@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 20:16:55 (hora de Perú)
+Actualizado: 2026-09-19 20:18:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3114**  ($168,296,122 en total)
+- Apuestas registradas: **3115**  ($168,336,122 en total)
 - Resueltas: **3062** — 1846 ganadas / 1216 perdidas (**60%** de acierto)
-- Pendientes: 36
-- Apostadores distintos: 422
+- Pendientes: 37
+- Apostadores distintos: 423
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 9 | 1 | 59% | $821,930 | -$51,522 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 
-_(mostrando los 40 de mayor monto, de 422 en total)_
+_(mostrando los 40 de mayor monto, de 423 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xA0da9371A4Aa5f2eCE33eDa9B6f47b656bAd1F80-1777002339626 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $40,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Golden State Valkyries (-13.5) | Seattle Storm | 2.22 (45¢) | $25,388 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $26,916 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $102,910 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 422 en total)_
 | Berniepaidoff | Arizona State vs. Kansas | Arizona State | 1.49 (67¢) | $50,000 | +$24,627 | ✅ Ganada |
 | kkookkoo | Rennes: Sascha Gueymard-Wayenburg vs Titouan Droguet | Titouan Droguet | 1.61 (62¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Ancient-Strike | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.33 (75¢) | $35,977 | -$35,977 | ❌ Perdida |
-| Diabolical-Prize | LoL: Karmine Corp vs Movistar KOI - Game 1 Winner | Karmine Corp | 1.47 (68¢) | $34,000 | -$34,000 | ❌ Perdida |
