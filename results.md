@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:48:59 (hora de Perú)
+Actualizado: 2026-09-20 15:51:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3355**  ($181,155,537 en total)
+- Apuestas registradas: **3356**  ($181,195,220 en total)
 - Resueltas: **3222** — 1950 ganadas / 1272 perdidas (**61%** de acierto)
-- Pendientes: 117
+- Pendientes: 118
 - Apostadores distintos: 441
 
 ### Balance
@@ -48,8 +48,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
+| ethanaz | 12 | 4 | 4 | 75% | $1,419,497 | -$155,295 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| ethanaz | 12 | 4 | 3 | 75% | $1,379,813 | -$155,295 |
 | Jsram | 14 | 16 | 1 | 47% | $1,337,042 | -$392,271 |
 | SDTrading | 18 | 22 | 3 | 45% | $1,280,596 | -$194,283 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 8 | 14 | 1 | 36% | $1,257,497 | -$444,678 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Commanders vs. Cowboys | Cowboys | 1.20 (83¢) | $39,684 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Cowboys | Cowboys | 1.18 (85¢) | $56,826 | — | ⏳ Pendiente |
 | ndb1 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $38,182 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Raiders vs. Chargers | Chargers | 1.49 (67¢) | $31,534 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Talvez10 | Athletics vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.22 (45¢) | $28,808 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Eagles vs. Titans | Eagles | 1.64 (61¢) | $30,075 | +$19,228 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 1.64 (61¢) | $84,088 | +$53,762 | ✅ Ganada |
-| BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $50,000 | — | ⏳ Pendiente |
