@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 11:02:48 (hora de Perú)
+Actualizado: 2026-09-20 11:04:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3255**  ($175,770,104 en total)
+- Apuestas registradas: **3256**  ($175,817,671 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 91
+- Pendientes: 92
 - Apostadores distintos: 435
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 435 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| maz26 | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.96 (51¢) | $47,568 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jets (-5.5) | Packers | 1.30 (77¢) | $67,329 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jets (-4.5) | Packers | 1.33 (75¢) | $64,743 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 435 en total)_
 | wigglew | Eagles vs. Titans | Eagles | 1.33 (75¢) | $130,717 | — | ⏳ Pendiente |
 | justwins | Bengals vs. Texans: O/U 45.5 | Under 45.5 | 1.96 (51¢) | $30,010 | — | ⏳ Pendiente |
 | justwins | Eagles vs. Titans: O/U 39.5 | Under 39.5 | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
-| Kch-Temp | Spread: Eagles (-7.5) | Titans | 1.85 (54¢) | $31,865 | — | ⏳ Pendiente |
