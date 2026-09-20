@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 21:56:17 (hora de Perú)
+Actualizado: 2026-09-19 21:58:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3130**  ($168,852,668 en total)
-- Resueltas: **3070** — 1852 ganadas / 1218 perdidas (**60%** de acierto)
+- Apuestas registradas: **3131**  ($168,882,668 en total)
+- Resueltas: **3071** — 1852 ganadas / 1219 perdidas (**60%** de acierto)
 - Pendientes: 44
 - Apostadores distintos: 426
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,293,027** sobre $166,389,553 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,221** sobre $302,400 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,323,715** sobre $166,420,241 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,321** sobre $302,500 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,15 +34,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 42 | 27 | 6 | 61% | $3,888,337 | -$274,339 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 0 | 45% | $3,229,966 | -$579,176 |
-| Sassy-Bucket | 27 | 29 | 4 | 48% | $2,808,556 | -$187,020 |
+| Sassy-Bucket | 27 | 30 | 3 | 47% | $2,808,556 | -$217,708 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 25 | 2 | 0 | 93% | $1,960,364 | +$88,444 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
+| BrotherObama | 20 | 19 | 2 | 51% | $1,795,407 | +$203,807 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| BrotherObama | 20 | 19 | 1 | 51% | $1,765,407 | +$203,807 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | ferrariChampions2026 | 25 | 14 | 1 | 64% | $1,598,813 | -$428,464 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Spread: Fresno State (-3.5) | Fresno State | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $51,640 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LSU vs. Ole Miss | LSU | 1.72 (58¢) | $34,605 | — | ⏳ Pendiente |
 | 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.96 (51¢) | $38,742 | — | ⏳ Pendiente |
@@ -106,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | Donkey14 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | whodissss | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $102,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.56 (64¢) | $60,362 | +$33,953 | ✅ Ganada |
-| Sassy-Bucket | Nevada vs. Middle Tennessee | Nevada | 1.61 (62¢) | $30,688 | — | ⏳ Pendiente |
+| Sassy-Bucket | Nevada vs. Middle Tennessee | Nevada | 1.61 (62¢) | $30,688 | -$30,688 | ❌ Perdida |
 | ethanaz | Florida State vs. Alabama | Florida State | 2.08 (48¢) | $100,159 | -$100,159 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.69 (59¢) | $67,102 | — | ⏳ Pendiente |
 | Eztennis | LoL: LYON vs Cloud9 (BO5) - LCS Playoffs | LYON | 1.37 (73¢) | $39,275 | -$39,275 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | 177-letsgo | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $87,400 | +$7,600 | ✅ Ganada |
 | Donkey14 | Mississippi State vs. South Carolina | South Carolina | 1.64 (61¢) | $31,191 | -$31,191 | ❌ Perdida |
 | maz26 | SMU vs. Louisville | Louisville | 1.79 (56¢) | $72,800 | +$57,200 | ✅ Ganada |
-| AGUGava | FC Metz vs. AS Saint-Étienne: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $34,421 | -$34,421 | ❌ Perdida |

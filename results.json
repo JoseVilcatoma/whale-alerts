@@ -46528,7 +46528,7 @@
     "side": "BUY",
     "usd": 30687.9726,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789856609,
     "fills": 1
   },
@@ -47055,6 +47055,21 @@
     "odds_at_bet": 72,
     "status": "pending",
     "ultimo_fill": 1789872228,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6370,
+    "timestamp": 1789873021,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "cfb-frest-sjst-2026-09-19-spread-away-3pt5",
+    "title": "Spread: Fresno State (-3.5)",
+    "outcome": "Fresno State",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789873021,
     "fills": 1
   }
 ]
