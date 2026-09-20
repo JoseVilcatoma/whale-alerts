@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 09:49:34 (hora de Perú)
+Actualizado: 2026-09-20 09:51:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3213**  ($173,183,090 en total)
+- Apuestas registradas: **3215**  ($173,499,668 en total)
 - Resueltas: **3131** — 1890 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 66
+- Pendientes: 68
 - Apostadores distintos: 430
 
 ### Balance
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 7 | 2 | 9 | 78% | $1,017,737 | +$254,459 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
+| Flaznorp | 15 | 3 | 2 | 83% | $909,393 | +$94,220 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | phonesculptor | 12 | 2 | 0 | 86% | $873,288 | -$7,205 |
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 14 | 9 | 0 | 61% | $821,930 | -$26,266 |
 
 _(mostrando los 40 de mayor monto, de 430 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xsven | Fulham FC vs. Manchester United FC: O/U 1.5 | Over 1.5 | 1.22 (82¢) | $30,648 | — | ⏳ Pendiente |
+| Flaznorp | Fulham FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $285,929 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Panthers (-2.5) | Falcons | 2.04 (49¢) | $34,371 | — | ⏳ Pendiente |
 | pleaseplease123 | Atlanta Braves vs. Houston Astros | Houston Astros | 1.72 (58¢) | $38,245 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs | Vitality | 1.37 (73¢) | $34,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | raybanman | Spread: BAL (-8.5) | NO | 1.96 (51¢) | $31,431 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: BAL (-8.5) | BAL | 2.08 (48¢) | $74,293 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Steelers vs. Patriots | Steelers | 3.23 (31¢) | $25,809 | — | ⏳ Pendiente |
-| raybanman | Spread: Broncos (-2.5) | Jaguars | 2.04 (49¢) | $99,165 | — | ⏳ Pendiente |
-| raybanman | Eagles vs. Titans: O/U 39.5 | Over 39.5 | 1.96 (51¢) | $127,201 | — | ⏳ Pendiente |
