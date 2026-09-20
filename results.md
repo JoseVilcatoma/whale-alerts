@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:28:27 (hora de Perú)
+Actualizado: 2026-09-20 15:30:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3353**  ($181,060,528 en total)
-- Resueltas: **3174** — 1922 ganadas / 1252 perdidas (**61%** de acierto)
-- Pendientes: 163
+- Resueltas: **3184** — 1923 ganadas / 1261 perdidas (**60%** de acierto)
+- Pendientes: 153
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,051,655** sobre $171,346,794 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$9,493** sobre $312,600 (ROI **-3.0%**)
+- **Resultado de los apostadores: -$1,681,195** sobre $172,053,299 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,190** sobre $313,600 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,15 +32,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 65 | 47 | 5 | 58% | $5,353,186 | +$610,220 |
 | wr0ngw4yb3tt0r | 48 | 28 | 12 | 63% | $4,701,474 | -$132,094 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Sassy-Bucket | 29 | 31 | 7 | 48% | $3,340,986 | -$228,159 |
+| Sassy-Bucket | 29 | 32 | 6 | 48% | $3,340,986 | -$492,159 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
+| Diabolical-Prize | 29 | 34 | 0 | 46% | $3,255,364 | -$527,610 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 25 | 2 | 1 | 93% | $2,014,685 | +$88,444 |
-| ferrariChampions2026 | 26 | 16 | 7 | 62% | $1,956,537 | -$492,219 |
+| ferrariChampions2026 | 26 | 17 | 6 | 60% | $1,956,537 | -$519,424 |
 | BrotherObama | 21 | 20 | 4 | 51% | $1,945,334 | +$192,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Jsram | 14 | 14 | 3 | 50% | $1,337,042 | -$196,221 |
+| Jsram | 14 | 16 | 1 | 47% | $1,337,042 | -$392,271 |
 | ethanaz | 10 | 3 | 5 | 77% | $1,322,987 | -$147,797 |
 | SDTrading | 18 | 22 | 3 | 45% | $1,280,596 | -$194,283 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 2 | 33% | $1,257,497 | -$469,491 |
@@ -113,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Talvez10 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.89 (53¢) | $33,587 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $54,929 | — | ⏳ Pendiente |
 | ethanaz | Eagles vs. Titans | Eagles | 1.09 (92¢) | $80,485 | — | ⏳ Pendiente |
-| gambamaster | Vikings vs. Bears | Bears | 1.67 (60¢) | $42,000 | — | ⏳ Pendiente |
+| gambamaster | Vikings vs. Bears | Bears | 1.67 (60¢) | $42,000 | -$42,000 | ❌ Perdida |
 | Sassy-Bucket | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $68,000 | — | ⏳ Pendiente |
 | Tiger200 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $117,925 | — | ⏳ Pendiente |
 | beeemw | Will US Lecce win on 2026-09-20? | No | 1.06 (94¢) | $67,951 | — | ⏳ Pendiente |
