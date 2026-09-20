@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 08:05:38 (hora de Perú)
+Actualizado: 2026-09-20 08:07:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3188**  ($171,843,020 en total)
+- Apuestas registradas: **3189**  ($171,883,020 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 430
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| five5120 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.43 (70¢) | $40,000 | — | ⏳ Pendiente |
 | MrDouche | Will Manchester City FC win on 2026-09-20? | Yes | 1.41 (71¢) | $35,379 | — | ⏳ Pendiente |
 | surfandturf | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $33,145 | — | ⏳ Pendiente |
 | jaytee158 | Will Sunderland AFC win on 2026-09-20? | No | 1.11 (90¢) | $26,183 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | phonesculptor | Montana vs. Oregon State | Oregon State | 1.14 (88¢) | $32,120 | +$4,380 | ✅ Ganada |
 | BrotherObama | Spread: Fresno State (-3.5) | Fresno State | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
 | Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $51,640 | +$20,082 | ✅ Ganada |
-| TAIWANNUMBERONE | LSU vs. Ole Miss | LSU | 1.72 (58¢) | $34,605 | -$34,605 | ❌ Perdida |
