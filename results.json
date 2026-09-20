@@ -47311,5 +47311,20 @@
     "status": "pending",
     "ultimo_fill": 1789883188,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6425,
+    "timestamp": 1789884250,
+    "username": "Kosherlocks",
+    "wallet": "0x82398835fe16616214d928ba87127e28fc1cd9a3",
+    "slug": "nfl-lv-lac-2026-09-20",
+    "title": "Raiders vs. Chargers",
+    "outcome": "Chargers",
+    "side": "BUY",
+    "usd": 94999.999999,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1789884250,
+    "fills": 1
   }
 ]

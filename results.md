@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 01:02:54 (hora de Perú)
+Actualizado: 2026-09-20 01:05:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3147**  ($169,752,243 en total)
+- Apuestas registradas: **3148**  ($169,847,243 en total)
 - Resueltas: **3109** — 1873 ganadas / 1236 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 428
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 428 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kosherlocks | Raiders vs. Chargers | Chargers | 1.37 (73¢) | $95,000 | — | ⏳ Pendiente |
 | freeman123 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.37 (73¢) | $34,869 | — | ⏳ Pendiente |
 | elPolloLoco | Fresno State vs. San Jose State | Fresno State | 1.11 (90¢) | $37,729 | — | ⏳ Pendiente |
 | optimistic-dragon | Vikings vs. Bears | Bears | 1.49 (67¢) | $42,865 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 428 en total)_
 | FORTNITEMASTER888 | LoL: LYON vs Cloud9 - Game 3 Winner | LYON | 1.56 (64¢) | $40,418 | -$40,418 | ❌ Perdida |
 | kkookkoo | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.69 (59¢) | $37,000 | +$25,712 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Virginia Tech vs. Maryland | Maryland | 2.27 (44¢) | $65,725 | -$65,725 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Mississippi State vs. South Carolina: O/U 58.5 | Over 58.5 | 1.89 (53¢) | $26,206 | +$23,239 | ✅ Ganada |
