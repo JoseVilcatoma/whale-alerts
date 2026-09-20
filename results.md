@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:54:31 (hora de Perú)
+Actualizado: 2026-09-20 10:56:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3250**  ($175,510,644 en total)
+- Apuestas registradas: **3252**  ($175,612,132 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 86
+- Pendientes: 88
 - Apostadores distintos: 435
 
 ### Balance
@@ -52,8 +52,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 10 | 2 | 0 | 83% | $1,299,768 | +$117,566 |
 | SDTrading | 18 | 22 | 3 | 45% | $1,280,596 | -$194,283 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 1 | 33% | $1,228,977 | -$469,491 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
 | ethanaz | 10 | 3 | 0 | 77% | $1,110,448 | -$147,797 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 7 | 3 | 9 | 70% | $1,046,987 | +$213,243 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 435 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | Panthers vs. Falcons | Falcons | 2.27 (44¢) | $69,907 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Panthers vs. Falcons | Panthers | 1.79 (56¢) | $31,580 | — | ⏳ Pendiente |
 | maz26 | Browns vs. Buccaneers | Buccaneers | 1.28 (78¢) | $37,440 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.19 (84¢) | $36,974 | — | ⏳ Pendiente |
 | RegardedMoney | Spread: Packers (-2.5) | Jets | 2.22 (45¢) | $29,648 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 435 en total)_
 | Herdonia | Eagles vs. Titans | Eagles | 1.35 (74¢) | $38,232 | — | ⏳ Pendiente |
 | TKD44 | Eagles vs. Titans | Eagles | 1.35 (74¢) | $44,400 | — | ⏳ Pendiente |
 | Kch-Temp | Eagles vs. Titans | Titans | 3.85 (26¢) | $98,499 | — | ⏳ Pendiente |
-| Kch-Temp | Spread: Bears (-4.5) | Vikings | 1.96 (51¢) | $31,443 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | AFC Bournemouth vs. Liverpool FC: O/U 0.5 | Over 0.5 | 1.09 (92¢) | $72,732 | +$6,325 | ✅ Ganada |

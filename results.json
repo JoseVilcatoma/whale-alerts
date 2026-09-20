@@ -48856,5 +48856,35 @@
     "status": "pending",
     "ultimo_fill": 1789919509,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6570,
+    "timestamp": 1789919756,
+    "username": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+    "wallet": "0xd3a0b4e941b557d33a8efd5a51c581e7c79cf136",
+    "slug": "nfl-car-atl-2026-09-20",
+    "title": "Panthers vs. Falcons",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 31579.968000000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1789919756,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6571,
+    "timestamp": 1789919759,
+    "username": "justwins",
+    "wallet": "0xa2cced8bfae7d645f7f437fb76becf2fcbb70cbc",
+    "slug": "nfl-car-atl-2026-09-20",
+    "title": "Panthers vs. Falcons",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 69907.4728,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1789919759,
+    "fills": 1
   }
 ]
