@@ -48166,5 +48166,50 @@
     "status": "pending",
     "ultimo_fill": 1789913642,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6505,
+    "timestamp": 1789913664,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-tb-2026-09-20",
+    "title": "Boston Red Sox vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 27225.497099999997,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789913664,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6506,
+    "timestamp": 1789913732,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nfl-car-atl-2026-09-20",
+    "title": "Panthers vs. Falcons",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 38276.3949,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789913732,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6507,
+    "timestamp": 1789913767,
+    "username": "ratatatatatatatataaaa",
+    "wallet": "0x7f8e1877a0907f2b2c7cabf8bdb2e2a8f3854487",
+    "slug": "nfl-pit-ne-2026-09-20-total-41pt5",
+    "title": "Steelers vs. Patriots: O/U 41.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 81235.65209999999,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789913767,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 09:14:20 (hora de Perú)
+Actualizado: 2026-09-20 09:16:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3204**  ($172,737,542 en total)
+- Apuestas registradas: **3207**  ($172,884,280 en total)
 - Resueltas: **3129** — 1888 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 59
+- Pendientes: 62
 - Apostadores distintos: 430
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 65 | 47 | 0 | 58% | $5,085,512 | +$610,220 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 48 | 28 | 0 | 63% | $3,931,224 | -$132,094 |
+| wr0ngw4yb3tt0r | 48 | 28 | 1 | 63% | $3,958,450 | -$132,094 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
 | Sassy-Bucket | 29 | 31 | 0 | 48% | $2,808,556 | -$228,159 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ratatatatatatatataaaa | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.96 (51¢) | $81,236 | — | ⏳ Pendiente |
+| Donkey14 | Panthers vs. Falcons | Panthers | 1.75 (57¢) | $38,276 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.75 (57¢) | $27,225 | — | ⏳ Pendiente |
 | raybanman | Will Real Madrid CF win on 2026-09-20? | No | 1.92 (52¢) | $35,835 | — | ⏳ Pendiente |
 | Ancient-Strike | Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs | Vitality | 1.37 (73¢) | $47,640 | — | ⏳ Pendiente |
 | Flaznorp | Will Liverpool FC win on 2026-09-20? | No | 1.54 (65¢) | $31,367 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seahawks vs. Cardinals | Seahawks | 1.54 (65¢) | $38,069 | — | ⏳ Pendiente |
 | Kosherlocks | Eagles vs. Titans | Eagles | 1.32 (76¢) | $29,854 | — | ⏳ Pendiente |
 | Kosherlocks | Raiders vs. Chargers | Chargers | 1.37 (73¢) | $95,000 | — | ⏳ Pendiente |
-| freeman123 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.37 (73¢) | $34,869 | — | ⏳ Pendiente |
-| elPolloLoco | Fresno State vs. San Jose State | Fresno State | 1.11 (90¢) | $37,729 | +$4,192 | ✅ Ganada |
-| optimistic-dragon | Vikings vs. Bears | Bears | 1.49 (67¢) | $42,865 | — | ⏳ Pendiente |
