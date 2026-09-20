@@ -47383,7 +47383,7 @@
     "side": "BUY",
     "usd": 28420.0,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789886261,
     "fills": 1
   },
@@ -47398,7 +47398,7 @@
     "side": "BUY",
     "usd": 34814.108100000005,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789886388,
     "fills": 1
   },
@@ -47458,7 +47458,7 @@
     "side": "BUY",
     "usd": 74293.0224,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789887001,
     "fills": 1
   },
@@ -47473,7 +47473,7 @@
     "side": "BUY",
     "usd": 31431.0603,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789887131,
     "fills": 1
   },
@@ -48073,7 +48073,7 @@
     "side": "BUY",
     "usd": 30009.828,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789912278,
     "fills": 1
   },
@@ -48433,7 +48433,7 @@
     "side": "BUY",
     "usd": 50251.1712,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789916648,
     "fills": 1
   },
@@ -49033,7 +49033,7 @@
     "side": "BUY",
     "usd": 37249.9052,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789921571,
     "fills": 1
   },
@@ -50569,6 +50569,21 @@
     "odds_at_bet": 72,
     "status": "pending",
     "ultimo_fill": 1789942556,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6791,
+    "timestamp": 1789943830,
+    "username": "rf13g145g41g4g4",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "nfl-lv-lac-2026-09-20",
+    "title": "Raiders vs. Chargers",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "usd": 52869.1575,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1789943830,
     "fills": 1
   }
 ]

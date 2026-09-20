@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 17:36:48 (hora de Perú)
+Actualizado: 2026-09-20 17:38:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3364**  ($181,502,382 en total)
-- Resueltas: **3252** — 1963 ganadas / 1289 perdidas (**60%** de acierto)
-- Pendientes: 96
+- Apuestas registradas: **3365**  ($181,555,251 en total)
+- Resueltas: **3259** — 1968 ganadas / 1291 perdidas (**60%** de acierto)
+- Pendientes: 90
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,838,444** sobre $175,349,087 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,677** sobre $320,400 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$1,807,895** sobre $175,635,556 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,396** sobre $321,100 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 245 | 126 | 6 | 66% | $24,736,893 | +$1,010,544 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 245 | 127 | 5 | 66% | $24,736,893 | +$936,251 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 69 | 1 | 54% | $6,162,969 | -$226,170 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 8 | 6 | 5 | 57% | $1,046,987 | +$78,267 |
 | Talvez10 | 9 | 10 | 2 | 47% | $1,046,960 | +$136,449 |
 | ndb1 | 8 | 7 | 3 | 53% | $977,951 | +$158,221 |
-| maz26 | 4 | 2 | 8 | ⚠️ 67% (6) | $950,222 | -$57,606 |
+| maz26 | 4 | 3 | 7 | ⚠️ 57% (7) | $950,222 | -$107,857 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| rf13g145g41g4g4 | Raiders vs. Chargers | Raiders | 1.64 (61¢) | $52,869 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Cowboys | Cowboys | 1.39 (72¢) | $38,515 | — | ⏳ Pendiente |
 | jaytee158 | Commanders vs. Cowboys | Cowboys | 1.16 (86¢) | $50,247 | — | ⏳ Pendiente |
 | winwin518168 | Portland Fire vs. Los Angeles Sparks | Portland Fire | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | beeemw | Will US Lecce win on 2026-09-20? | No | 1.06 (94¢) | $67,951 | +$4,337 | ✅ Ganada |
 | predictionlegend | Will Real Sociedad de Fútbol win on 2026-09-20? | No | 1.59 (63¢) | $33,495 | -$33,495 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Packers vs. Jets | Packers | 1.61 (62¢) | $28,520 | +$17,480 | ✅ Ganada |
-| ferrariChampions2026 | Packers vs. Jets | Jets | 2.38 (42¢) | $31,823 | -$31,823 | ❌ Perdida |
