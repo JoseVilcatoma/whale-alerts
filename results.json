@@ -47476,5 +47476,20 @@
     "status": "pending",
     "ultimo_fill": 1789887131,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6443,
+    "timestamp": 1789887553,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-jax-den-2026-09-20-spread-home-2pt5",
+    "title": "Spread: Broncos (-2.5)",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 53550.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789887553,
+    "fills": 1
   }
 ]
