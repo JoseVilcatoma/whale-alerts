@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 11:50:16 (hora de Perú)
+Actualizado: 2026-09-20 11:52:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3271**  ($176,365,709 en total)
+- Apuestas registradas: **3272**  ($176,416,709 en total)
 - Resueltas: **3151** — 1906 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 104
+- Pendientes: 105
 - Apostadores distintos: 437
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 437 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Feromont | Spread: Patriots (-4.5) | Steelers | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Packers (-2.5) | Jets | 2.17 (46¢) | $29,140 | — | ⏳ Pendiente |
 | Sassy-Bucket | Panthers vs. Falcons | Panthers | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | Donkey14 | Packers vs. Jets | Jets | 2.50 (40¢) | $28,066 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 437 en total)_
 | 0xsven | Fulham FC vs. Manchester United FC: O/U 1.5 | Over 1.5 | 1.22 (82¢) | $30,648 | — | ⏳ Pendiente |
 | Flaznorp | Fulham FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $285,929 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Panthers (-2.5) | Falcons | 2.04 (49¢) | $34,371 | — | ⏳ Pendiente |
-| pleaseplease123 | Atlanta Braves vs. Houston Astros | Houston Astros | 1.72 (58¢) | $38,245 | — | ⏳ Pendiente |
