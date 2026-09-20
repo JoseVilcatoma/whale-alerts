@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 16:32:34 (hora de Perú)
+Actualizado: 2026-09-20 16:34:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3361**  ($181,384,220 en total)
-- Resueltas: **3225** — 1953 ganadas / 1272 perdidas (**61%** de acierto)
-- Pendientes: 120
+- Resueltas: **3226** — 1953 ganadas / 1273 perdidas (**61%** de acierto)
+- Pendientes: 119
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,471,083** sobre $174,185,809 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$9,591** sobre $317,700 (ROI **-3.0%**)
+- **Resultado de los apostadores: -$1,496,583** sobre $174,211,309 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$9,691** sobre $317,800 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -112,7 +112,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | TAIWANNUMBERONE | Saints vs. Ravens | Ravens | 1.11 (90¢) | $25,664 | -$25,664 | ❌ Perdida |
 | BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
 | jaytee158 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $51,498 | — | ⏳ Pendiente |
-| marchettamaker | Valencia CF vs. Real Sociedad de Fútbol: O/U 2.5 | Under 2.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
+| marchettamaker | Valencia CF vs. Real Sociedad de Fútbol: O/U 2.5 | Under 2.5 | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | maz26 | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $150,570 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Panthers vs. Falcons | Panthers | 1.16 (86¢) | $56,577 | +$9,210 | ✅ Ganada |
 | ferrariChampions2026 | Saints vs. Ravens | Ravens | 1.12 (89¢) | $57,503 | -$57,503 | ❌ Perdida |
