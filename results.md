@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 01:44:57 (hora de Perú)
+Actualizado: 2026-09-20 01:46:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3154**  ($170,154,522 en total)
+- Apuestas registradas: **3155**  ($170,253,687 en total)
 - Resueltas: **3116** — 1878 ganadas / 1238 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 429
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Spread: Broncos (-2.5) | Jaguars | 2.04 (49¢) | $99,165 | — | ⏳ Pendiente |
 | raybanman | Eagles vs. Titans: O/U 39.5 | Over 39.5 | 1.96 (51¢) | $127,201 | — | ⏳ Pendiente |
 | raybanman | Spread: BAL (-8.5) | NO | 1.96 (51¢) | $34,814 | — | ⏳ Pendiente |
 | 0xc1dA8SO23a3D915E7FcA367bbBFSO4E74DSO27A | Spread: BAL (-8.5) | NO | 2.04 (49¢) | $28,420 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | Donkey14 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,500 | -$28,500 | ❌ Perdida |
 | whodissss | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $102,600 | -$102,600 | ❌ Perdida |
 | wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.56 (64¢) | $60,362 | +$33,953 | ✅ Ganada |
-| Sassy-Bucket | Nevada vs. Middle Tennessee | Nevada | 1.61 (62¢) | $30,688 | -$30,688 | ❌ Perdida |
