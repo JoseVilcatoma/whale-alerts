@@ -50231,10 +50231,25 @@
     "title": "Commanders vs. Cowboys",
     "outcome": "Cowboys",
     "side": "BUY",
-    "usd": 352294.8792,
+    "usd": 477694.8792,
     "odds_at_bet": 66,
     "status": "pending",
-    "ultimo_fill": 1789934758,
+    "ultimo_fill": 1789934862,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 6678,
+    "timestamp": 1789934922,
+    "username": "Berniepaidoff",
+    "wallet": "0xc506cc1d5efd0c85bcb94f9ecaf1b541921ce987",
+    "slug": "nfl-sea-ari-2026-09-20",
+    "title": "Seahawks vs. Cardinals",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 50000.0,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1789934922,
     "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:07:42 (hora de Perú)
+Actualizado: 2026-09-20 15:09:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3342**  ($180,175,685 en total)
+- Apuestas registradas: **3343**  ($180,351,085 en total)
 - Resueltas: **3163** — 1918 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 163
+- Pendientes: 164
 - Apostadores distintos: 440
 
 ### Balance
@@ -55,10 +55,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 2 | 33% | $1,257,497 | -$469,491 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
+| Elaran1993 | 7 | 6 | 1 | 54% | $1,087,702 | +$83,076 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 7 | 3 | 9 | 70% | $1,046,987 | +$213,243 |
 | Talvez10 | 9 | 9 | 3 | 50% | $1,046,960 | +$165,257 |
-| Elaran1993 | 7 | 6 | 1 | 54% | $962,302 | +$83,076 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -71,8 +71,9 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Berniepaidoff | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
 | 3648393489047 | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
-| Elaran1993 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $352,295 | — | ⏳ Pendiente |
+| Elaran1993 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $477,695 | — | ⏳ Pendiente |
 | surfandturf | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $99,750 | — | ⏳ Pendiente |
 | Feromont | Spread: Chargers (-6.5) | Chargers | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
 | optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 | DimSumConnoisseur. | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $56,250 | — | ⏳ Pendiente |
 | mooseborzoi | Saints vs. Ravens | Ravens | 1.30 (77¢) | $41,580 | — | ⏳ Pendiente |
 | ethanaz | Packers vs. Jets | Packers | 1.75 (57¢) | $32,389 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Vikings vs. Bears | Bears | 1.59 (63¢) | $27,204 | — | ⏳ Pendiente |
