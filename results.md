@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 17:18:26 (hora de Perú)
+Actualizado: 2026-09-20 17:20:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3364**  ($181,502,382 en total)
-- Resueltas: **3247** — 1961 ganadas / 1286 perdidas (**60%** de acierto)
-- Pendientes: 101
+- Resueltas: **3249** — 1961 ganadas / 1288 perdidas (**60%** de acierto)
+- Pendientes: 99
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,758,877** sobre $175,175,567 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,468** sobre $319,900 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$1,838,877** sobre $175,255,567 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,668** sobre $320,100 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | ferrariChampions2026 | 30 | 18 | 1 | 62% | $1,956,537 | -$482,966 |
-| BrotherObama | 21 | 20 | 4 | 51% | $1,945,334 | +$192,631 |
+| BrotherObama | 21 | 22 | 2 | 49% | $1,945,334 | +$112,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | surfandturf | 11 | 2 | 4 | 85% | $1,723,372 | +$173,816 |
@@ -113,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | rf13g145g41g4g4 | Jaguars vs. Broncos | Jaguars | 2.27 (44¢) | $47,593 | — | ⏳ Pendiente |
 | Laskhask | Eagles vs. Titans | Eagles | 1.41 (71¢) | $55,932 | +$22,845 | ✅ Ganada |
 | TAIWANNUMBERONE | Saints vs. Ravens | Ravens | 1.11 (90¢) | $25,664 | -$25,664 | ❌ Perdida |
-| BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
+| BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $30,000 | -$30,000 | ❌ Perdida |
 | jaytee158 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $51,498 | — | ⏳ Pendiente |
 | marchettamaker | Valencia CF vs. Real Sociedad de Fútbol: O/U 2.5 | Under 2.5 | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | maz26 | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $150,570 | — | ⏳ Pendiente |
