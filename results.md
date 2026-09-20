@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 22:25:01 (hora de Perú)
+Actualizado: 2026-09-19 22:27:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3136**  ($169,115,827 en total)
+- Apuestas registradas: **3137**  ($169,204,327 en total)
 - Resueltas: **3074** — 1853 ganadas / 1221 perdidas (**60%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 426
 
 ### Balance
@@ -51,8 +51,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
+| surfandturf | 7 | 2 | 1 | 78% | $1,195,602 | +$15,557 |
 | SDTrading | 18 | 22 | 0 | 45% | $1,177,356 | -$194,283 |
-| surfandturf | 7 | 2 | 0 | 78% | $1,107,101 | +$15,557 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Jsram | 13 | 14 | 0 | 48% | $1,060,561 | -$216,221 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $88,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.19 (84¢) | $42,887 | — | ⏳ Pendiente |
 | 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.32 (76¢) | $89,152 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | bands1 | Florida vs. Auburn | Florida | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | SMU vs. Louisville | Louisville | 1.61 (62¢) | $49,921 | +$30,597 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami (OH) vs. Cincinnati | Cincinnati | 1.39 (72¢) | $30,664 | +$11,925 | ✅ Ganada |
-| Roadto1mlesgooo | Sevilla FC vs. FC Barcelona: O/U 2.5 | Over 2.5 | 1.12 (89¢) | $28,869 | +$3,568 | ✅ Ganada |
