@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 11:46:05 (hora de Perú)
+Actualizado: 2026-09-20 11:48:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3269**  ($176,309,070 en total)
-- Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 105
+- Apuestas registradas: **3270**  ($176,336,570 en total)
+- Resueltas: **3151** — 1906 ganadas / 1245 perdidas (**60%** de acierto)
+- Pendientes: 103
 - Apostadores distintos: 437
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,423,431** sobre $169,930,540 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,209** sobre $310,200 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$1,233,878** sobre $170,135,890 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,932** sobre $310,500 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 48 | 28 | 9 | 63% | $4,586,178 | -$132,094 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
-| Sassy-Bucket | 29 | 31 | 2 | 48% | $3,130,139 | -$228,159 |
+| Sassy-Bucket | 29 | 31 | 3 | 48% | $3,157,639 | -$228,159 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 437 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Panthers vs. Falcons | Panthers | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | Donkey14 | Packers vs. Jets | Jets | 2.50 (40¢) | $28,066 | — | ⏳ Pendiente |
 | Talvez10 | Packers vs. Jets: O/U 43.5 | Under 43.5 | 2.04 (49¢) | $26,660 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Spread: Cowboys (-4.5) | Cowboys | 2.08 (48¢) | $33,697 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 437 en total)_
 | Kch-Temp | Spread: Panthers (-2.5) | Falcons | 2.04 (49¢) | $34,371 | — | ⏳ Pendiente |
 | pleaseplease123 | Atlanta Braves vs. Houston Astros | Houston Astros | 1.72 (58¢) | $38,245 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs | Vitality | 1.37 (73¢) | $34,000 | — | ⏳ Pendiente |
-| Pwaddler | Commanders vs. Cowboys: O/U 51.5 | Over 51.5 | 2.08 (48¢) | $28,800 | — | ⏳ Pendiente |
