@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 07:28:16 (hora de Perú)
+Actualizado: 2026-09-20 07:30:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3179**  ($171,495,312 en total)
+- Apuestas registradas: **3181**  ($171,547,373 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Pendientes: 39
 - Apostadores distintos: 430
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| maz26 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $26,511 | — | ⏳ Pendiente |
+| afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
 | beeemw | Will Sunderland AFC win on 2026-09-20? | No | 1.10 (91¢) | $73,692 | — | ⏳ Pendiente |
 | Kch-Temp | Will Liverpool FC win on 2026-09-20? | No | 1.75 (57¢) | $41,216 | — | ⏳ Pendiente |
 | zhqzhq | Will Sunderland AFC win on 2026-09-20? | No | 1.10 (91¢) | $50,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | Elaran1993 | Will Portland Timbers win on 2026-09-19? | No | 1.92 (52¢) | $32,855 | +$30,327 | ✅ Ganada |
 | kkookkoo | O/U 1.5 Rounds | Under 1.5 Rounds | 1.22 (82¢) | $27,258 | +$5,984 | ✅ Ganada |
 | pereira12 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.11 (90¢) | $34,654 | -$34,654 | ❌ Perdida |
-| 35808932420 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.09 (92¢) | $36,800 | -$36,800 | ❌ Perdida |
-| kkookkoo | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.39 (72¢) | $39,999 | -$39,999 | ❌ Perdida |

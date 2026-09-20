@@ -47791,5 +47791,35 @@
     "status": "pending",
     "ultimo_fill": 1789906955,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6475,
+    "timestamp": 1789907299,
+    "username": "afraz",
+    "wallet": "0xca6465345246f543b7cb3152d5f5f54096f84f43",
+    "slug": "epl-mac-sun-2026-09-20-mac",
+    "title": "Will Manchester City FC win on 2026-09-20?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 25550.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1789907299,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6476,
+    "timestamp": 1789907403,
+    "username": "maz26",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-mia-sf-2026-09-20",
+    "title": "Dolphins vs. 49ers",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 26511.2043,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1789907403,
+    "fills": 1
   }
 ]
