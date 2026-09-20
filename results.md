@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 18:22:38 (hora de Perú)
+Actualizado: 2026-09-20 18:24:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3369**  ($181,685,304 en total)
-- Resueltas: **3277** — 1976 ganadas / 1301 perdidas (**60%** de acierto)
-- Pendientes: 76
+- Resueltas: **3284** — 1979 ganadas / 1305 perdidas (**60%** de acierto)
+- Pendientes: 69
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,612,493** sobre $176,572,078 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,352** sobre $322,900 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$1,706,331** sobre $176,856,925 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,450** sobre $323,600 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 66 | 50 | 1 | 57% | $5,353,186 | +$551,147 |
-| wr0ngw4yb3tt0r | 49 | 33 | 7 | 60% | $4,734,761 | -$471,406 |
+| wr0ngw4yb3tt0r | 50 | 33 | 6 | 60% | $4,734,761 | -$432,300 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 32 | 34 | 1 | 48% | $3,340,986 | -$439,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -51,13 +51,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 14 | 4 | 3 | 78% | $1,458,012 | -$111,123 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 16 | 1 | 47% | $1,337,042 | -$392,271 |
-| SDTrading | 18 | 22 | 3 | 45% | $1,280,596 | -$194,283 |
+| SDTrading | 18 | 23 | 2 | 44% | $1,280,596 | -$225,645 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 14 | 0 | 39% | $1,257,497 | -$427,198 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | Elaran1993 | 7 | 6 | 1 | 54% | $1,087,702 | +$83,076 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
-| Kch-Temp | 9 | 6 | 4 | 60% | $1,046,987 | +$345,915 |
+| Kch-Temp | 10 | 6 | 3 | 62% | $1,046,987 | +$372,860 |
 | Talvez10 | 10 | 10 | 1 | 50% | $1,046,960 | +$164,197 |
 | ndb1 | 8 | 7 | 3 | 53% | $977,951 | +$158,221 |
 | maz26 | 5 | 4 | 5 | 56% | $950,222 | -$99,595 |
