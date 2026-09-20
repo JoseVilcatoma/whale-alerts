@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 12:07:00 (hora de Perú)
+Actualizado: 2026-09-20 12:09:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3281**  ($176,902,558 en total)
+- Apuestas registradas: **3282**  ($176,936,553 en total)
 - Resueltas: **3151** — 1906 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 114
+- Pendientes: 115
 - Apostadores distintos: 438
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Packers vs. Jets | Jets | 2.22 (45¢) | $33,994 | — | ⏳ Pendiente |
 | Donkey14 | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $39,767 | — | ⏳ Pendiente |
 | martingaleking | Vikings vs. Bears | Bears | 1.52 (66¢) | $26,648 | — | ⏳ Pendiente |
 | mooseborzoi | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $115,866 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | 0x80d5aebbE7a714879177E4dAE0014195beb3987E-1789159822906 | Will Juventus FC win on 2026-09-20? | Yes | 1.72 (58¢) | $34,800 | — | ⏳ Pendiente |
 | Sassy-Bucket | Vikings vs. Bears | Bears | 1.52 (66¢) | $264,000 | — | ⏳ Pendiente |
 | kkookkoo | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $34,880 | — | ⏳ Pendiente |
-| maz26 | Spread: BAL (-8.5) | BAL | 2.08 (48¢) | $50,251 | — | ⏳ Pendiente |
