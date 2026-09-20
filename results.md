@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 18:35:12 (hora de Perú)
+Actualizado: 2026-09-20 18:37:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3369**  ($181,685,304 en total)
-- Resueltas: **3287** — 1981 ganadas / 1306 perdidas (**60%** de acierto)
-- Pendientes: 66
+- Resueltas: **3297** — 1987 ganadas / 1310 perdidas (**60%** de acierto)
+- Pendientes: 56
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,700,641** sobre $177,114,607 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,349** sobre $323,900 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$1,606,496** sobre $177,613,706 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,095** sobre $324,900 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 245 | 127 | 5 | 66% | $24,736,893 | +$936,251 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 246 | 127 | 4 | 66% | $24,736,893 | +$982,149 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 69 | 1 | 54% | $6,162,969 | -$226,170 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 66 | 50 | 1 | 57% | $5,353,186 | +$551,147 |
-| wr0ngw4yb3tt0r | 50 | 33 | 6 | 60% | $4,734,761 | -$432,300 |
+| wr0ngw4yb3tt0r | 51 | 33 | 5 | 61% | $4,734,761 | -$401,574 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 32 | 34 | 1 | 48% | $3,340,986 | -$439,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -40,11 +40,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
-| ferrariChampions2026 | 30 | 18 | 1 | 62% | $1,956,537 | -$482,966 |
+| ferrariChampions2026 | 30 | 19 | 0 | 61% | $1,956,537 | -$514,500 |
 | BrotherObama | 21 | 22 | 2 | 49% | $1,945,334 | +$112,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| surfandturf | 11 | 2 | 4 | 85% | $1,723,372 | +$173,816 |
+| surfandturf | 12 | 2 | 3 | 86% | $1,723,372 | +$249,066 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -74,21 +74,21 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | OhWhenTheReds | Deportivo Toluca FC vs. Club Santos Laguna: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $25,189 | — | ⏳ Pendiente |
 | kkookkoo | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.49 (67¢) | $45,000 | — | ⏳ Pendiente |
 | mooseborzoi | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.52 (66¢) | $26,577 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Raiders vs. Chargers | Raiders | 1.92 (52¢) | $33,287 | — | ⏳ Pendiente |
-| rf13g145g41g4g4 | Raiders vs. Chargers | Raiders | 1.64 (61¢) | $52,869 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Raiders vs. Chargers | Raiders | 1.92 (52¢) | $33,287 | +$30,726 | ✅ Ganada |
+| rf13g145g41g4g4 | Raiders vs. Chargers | Raiders | 1.64 (61¢) | $52,869 | +$33,802 | ✅ Ganada |
 | ethanaz | Commanders vs. Cowboys | Cowboys | 1.39 (72¢) | $38,515 | — | ⏳ Pendiente |
 | jaytee158 | Commanders vs. Cowboys | Cowboys | 1.16 (86¢) | $50,247 | — | ⏳ Pendiente |
 | winwin518168 | Portland Fire vs. Los Angeles Sparks | Portland Fire | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raiders vs. Chargers | Raiders | 2.44 (41¢) | $31,895 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raiders vs. Chargers | Raiders | 2.44 (41¢) | $31,895 | +$45,898 | ✅ Ganada |
 | ndb1 | Dolphins vs. 49ers | 49ers | 1.08 (93¢) | $34,715 | — | ⏳ Pendiente |
-| gambamaster | Raiders vs. Chargers | Chargers | 1.56 (64¢) | $27,804 | — | ⏳ Pendiente |
+| gambamaster | Raiders vs. Chargers | Chargers | 1.56 (64¢) | $27,804 | -$27,804 | ❌ Perdida |
 | 3648393489047 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $26,700 | — | ⏳ Pendiente |
 | cosmicxbt | Commanders vs. Cowboys | Cowboys | 1.25 (80¢) | $67,885 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Cowboys | Cowboys | 1.20 (83¢) | $39,684 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Cowboys | Cowboys | 1.18 (85¢) | $56,826 | — | ⏳ Pendiente |
 | ndb1 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $38,182 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Raiders vs. Chargers | Chargers | 1.49 (67¢) | $31,534 | — | ⏳ Pendiente |
-| optimistic-dragon | Raiders vs. Chargers | Raiders | 3.03 (33¢) | $39,600 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Raiders vs. Chargers | Chargers | 1.49 (67¢) | $31,534 | -$31,534 | ❌ Perdida |
+| optimistic-dragon | Raiders vs. Chargers | Raiders | 3.03 (33¢) | $39,600 | +$80,400 | ✅ Ganada |
 | ndb1 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $58,235 | — | ⏳ Pendiente |
 | surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $40,176 | — | ⏳ Pendiente |
 | surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $142,808 | — | ⏳ Pendiente |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Berniepaidoff | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $50,000 | -$758 | 💰 Vendida antes |
 | 3648393489047 | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
 | Elaran1993 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $477,695 | — | ⏳ Pendiente |
-| surfandturf | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $99,750 | — | ⏳ Pendiente |
+| surfandturf | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $99,750 | +$75,250 | ✅ Ganada |
 | Feromont | Spread: Chargers (-6.5) | Chargers | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
 | optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | -$6,148 | 💰 Vendida antes |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $40,000 | -$40,000 | ❌ Perdida |
@@ -115,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $72,119 | — | ⏳ Pendiente |
 | Laskhask | Browns vs. Buccaneers | Buccaneers | 1.47 (68¢) | $52,208 | -$52,208 | ❌ Perdida |
 | Donkey14 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $30,291 | — | ⏳ Pendiente |
-| rf13g145g41g4g4 | Jaguars vs. Broncos | Jaguars | 2.27 (44¢) | $47,593 | — | ⏳ Pendiente |
+| rf13g145g41g4g4 | Jaguars vs. Broncos | Jaguars | 2.27 (44¢) | $47,593 | -$47,593 | ❌ Perdida |
 | Laskhask | Eagles vs. Titans | Eagles | 1.41 (71¢) | $55,932 | +$22,845 | ✅ Ganada |
 | TAIWANNUMBERONE | Saints vs. Ravens | Ravens | 1.11 (90¢) | $25,664 | -$25,664 | ❌ Perdida |
 | BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $30,000 | -$30,000 | ❌ Perdida |
