@@ -48271,5 +48271,20 @@
     "status": "pending",
     "ultimo_fill": 1789914739,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6514,
+    "timestamp": 1789915165,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-atl-hou-2026-09-20",
+    "title": "Atlanta Braves vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 38245.043399999995,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1789915165,
+    "fills": 1
   }
 ]

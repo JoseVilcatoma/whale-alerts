@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 09:39:04 (hora de Perú)
+Actualizado: 2026-09-20 09:41:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3211**  ($173,110,474 en total)
+- Apuestas registradas: **3212**  ($173,148,719 en total)
 - Resueltas: **3131** — 1890 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 64
+- Pendientes: 65
 - Apostadores distintos: 430
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 2 | 54% | $6,162,969 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 65 | 47 | 0 | 58% | $5,085,512 | +$610,220 |
+| pleaseplease123 | 65 | 47 | 1 | 58% | $5,123,757 | +$610,220 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | wr0ngw4yb3tt0r | 48 | 28 | 2 | 63% | $4,051,644 | -$132,094 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Atlanta Braves vs. Houston Astros | Houston Astros | 1.72 (58¢) | $38,245 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs | Vitality | 1.37 (73¢) | $34,000 | — | ⏳ Pendiente |
 | Pwaddler | Commanders vs. Cowboys: O/U 51.5 | Over 51.5 | 2.08 (48¢) | $28,800 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Steelers vs. Patriots: O/U 41.5 | Over 41.5 | 2.00 (50¢) | $93,194 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | raybanman | Spread: Broncos (-2.5) | Jaguars | 2.04 (49¢) | $99,165 | — | ⏳ Pendiente |
 | raybanman | Eagles vs. Titans: O/U 39.5 | Over 39.5 | 1.96 (51¢) | $127,201 | — | ⏳ Pendiente |
 | raybanman | Spread: BAL (-8.5) | NO | 1.96 (51¢) | $34,814 | — | ⏳ Pendiente |
-| 0xc1dA8SO23a3D915E7FcA367bbBFSO4E74DSO27A | Spread: BAL (-8.5) | NO | 2.04 (49¢) | $28,420 | — | ⏳ Pendiente |
