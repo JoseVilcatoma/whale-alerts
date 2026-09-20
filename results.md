@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 20:51:50 (hora de Perú)
+Actualizado: 2026-09-19 20:53:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3120**  ($168,513,333 en total)
-- Resueltas: **3069** — 1852 ganadas / 1217 perdidas (**60%** de acierto)
-- Pendientes: 35
+- Resueltas: **3070** — 1852 ganadas / 1218 perdidas (**60%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 424
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,261,835** sobre $166,358,361 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,121** sobre $302,300 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$1,293,027** sobre $166,389,553 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,221** sobre $302,400 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -118,7 +118,7 @@ _(mostrando los 40 de mayor monto, de 424 en total)_
 | maz26 | SMU vs. Louisville | Louisville | 1.75 (57¢) | $53,317 | +$40,221 | ✅ Ganada |
 | phonesculptor | USC vs. Rutgers | USC | 1.06 (94¢) | $53,170 | +$3,394 | ✅ Ganada |
 | 177-letsgo | Florida State vs. Alabama | Alabama | 1.09 (92¢) | $87,400 | +$7,600 | ✅ Ganada |
-| Donkey14 | Mississippi State vs. South Carolina | South Carolina | 1.64 (61¢) | $31,191 | — | ⏳ Pendiente |
+| Donkey14 | Mississippi State vs. South Carolina | South Carolina | 1.64 (61¢) | $31,191 | -$31,191 | ❌ Perdida |
 | maz26 | SMU vs. Louisville | Louisville | 1.79 (56¢) | $72,800 | +$57,200 | ✅ Ganada |
 | AGUGava | FC Metz vs. AS Saint-Étienne: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $34,421 | -$34,421 | ❌ Perdida |
 | winwin518168 | Spread: Dallas Wings (-10.5) | Dallas Wings | 1.96 (51¢) | $30,806 | -$30,806 | ❌ Perdida |
