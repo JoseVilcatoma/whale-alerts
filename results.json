@@ -46996,5 +46996,35 @@
     "status": "pending",
     "ultimo_fill": 1789871403,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6364,
+    "timestamp": 1789871509,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-lsu-miss-2026-09-19",
+    "title": "LSU vs. Ole Miss",
+    "outcome": "LSU",
+    "side": "BUY",
+    "usd": 26949.9963,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789871509,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6365,
+    "timestamp": 1789871527,
+    "username": "0x6db5\u2026e279",
+    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
+    "slug": "cfb-lsu-miss-2026-09-19",
+    "title": "LSU vs. Ole Miss",
+    "outcome": "Ole Miss",
+    "side": "BUY",
+    "usd": 38741.5628,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789871527,
+    "fills": 1
   }
 ]
