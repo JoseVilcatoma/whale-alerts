@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 07:01:08 (hora de Perú)
+Actualizado: 2026-09-20 07:03:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3172**  ($171,186,478 en total)
+- Apuestas registradas: **3173**  ($171,240,591 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 30
-- Apostadores distintos: 429
+- Pendientes: 31
+- Apostadores distintos: 430
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 14 | 9 | 0 | 61% | $821,930 | -$26,266 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 
-_(mostrando los 40 de mayor monto, de 429 en total)_
+_(mostrando los 40 de mayor monto, de 430 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| flashclub | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $54,113 | — | ⏳ Pendiente |
 | Kch-Temp | Panthers vs. Falcons: O/U 43.5 | Under 43.5 | 1.96 (51¢) | $28,046 | — | ⏳ Pendiente |
 | Herdonia | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $26,818 | — | ⏳ Pendiente |
 | Kch-Temp | Vikings vs. Bears: O/U 47.5 | Under 47.5 | 1.92 (52¢) | $39,149 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | jaytee158 | Charlotte vs. Appalachian State | Appalachian State | 1.11 (90¢) | $33,286 | +$3,698 | ✅ Ganada |
 | 0xA0da9371A4Aa5f2eCE33eDa9B6f47b656bAd1F80-1777002339626 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $40,000 | +$27,797 | ✅ Ganada |
 | ferrariChampions2026 | Spread: Golden State Valkyries (-13.5) | Seattle Storm | 2.22 (45¢) | $25,388 | +$31,030 | ✅ Ganada |
-| Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $26,916 | +$10,467 | ✅ Ganada |
