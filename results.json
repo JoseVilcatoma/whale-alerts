@@ -50011,5 +50011,35 @@
     "status": "pending",
     "ultimo_fill": 1789931961,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6663,
+    "timestamp": 1789933065,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "nfl-mia-sf-2026-09-20",
+    "title": "Dolphins vs. 49ers",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 72119.1208,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1789933065,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6664,
+    "timestamp": 1789933076,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "nfl-mia-sf-2026-09-20",
+    "title": "Dolphins vs. 49ers",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 47775.2,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1789933076,
+    "fills": 1
   }
 ]

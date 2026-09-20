@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 14:36:50 (hora de Perú)
+Actualizado: 2026-09-20 14:38:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3327**  ($179,078,163 en total)
+- Apuestas registradas: **3329**  ($179,198,058 en total)
 - Resueltas: **3163** — 1918 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 148
+- Pendientes: 150
 - Apostadores distintos: 440
 
 ### Balance
@@ -47,8 +47,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
+| surfandturf | 10 | 2 | 2 | 83% | $1,440,637 | +$117,566 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| surfandturf | 10 | 2 | 1 | 83% | $1,368,518 | +$117,566 |
 | Jsram | 14 | 14 | 3 | 50% | $1,337,042 | -$196,221 |
 | ethanaz | 10 | 3 | 5 | 77% | $1,322,987 | -$147,797 |
 | SDTrading | 18 | 22 | 3 | 45% | $1,280,596 | -$194,283 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AnonymousUsername | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $47,775 | — | ⏳ Pendiente |
+| surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $72,119 | — | ⏳ Pendiente |
 | Laskhask | Browns vs. Buccaneers | Buccaneers | 1.47 (68¢) | $52,208 | — | ⏳ Pendiente |
 | Donkey14 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $30,291 | — | ⏳ Pendiente |
 | rf13g145g41g4g4 | Jaguars vs. Broncos | Jaguars | 2.27 (44¢) | $47,593 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 | Feromont | Spread: Patriots (-4.5) | Steelers | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Packers (-2.5) | Jets | 2.17 (46¢) | $29,140 | — | ⏳ Pendiente |
 | Sassy-Bucket | Panthers vs. Falcons | Panthers | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
-| Donkey14 | Packers vs. Jets | Jets | 2.50 (40¢) | $28,066 | — | ⏳ Pendiente |
-| Talvez10 | Packers vs. Jets: O/U 43.5 | Under 43.5 | 2.04 (49¢) | $26,660 | — | ⏳ Pendiente |
