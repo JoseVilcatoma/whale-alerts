@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:59:16 (hora de Perú)
+Actualizado: 2026-09-20 16:01:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3357**  ($181,263,105 en total)
+- Apuestas registradas: **3358**  ($181,289,805 en total)
 - Resueltas: **3222** — 1950 ganadas / 1272 perdidas (**61%** de acierto)
-- Pendientes: 119
+- Pendientes: 120
 - Apostadores distintos: 441
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $26,700 | — | ⏳ Pendiente |
 | cosmicxbt | Commanders vs. Cowboys | Cowboys | 1.25 (80¢) | $67,885 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Cowboys | Cowboys | 1.20 (83¢) | $39,684 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Cowboys | Cowboys | 1.18 (85¢) | $56,826 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | ferrariChampions2026 | Saints vs. Ravens | Ravens | 1.19 (84¢) | $37,282 | -$37,282 | ❌ Perdida |
 | Sassy-Bucket | Toronto Blue Jays vs. Texas Rangers: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $45,938 | — | ⏳ Pendiente |
 | Talvez10 | Athletics vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.22 (45¢) | $28,808 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Eagles vs. Titans | Eagles | 1.64 (61¢) | $30,075 | +$19,228 | ✅ Ganada |
