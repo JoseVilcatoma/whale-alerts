@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 20:29:13 (hora de Perú)
+Actualizado: 2026-09-19 20:31:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3116**  ($168,369,408 en total)
-- Resueltas: **3062** — 1846 ganadas / 1216 perdidas (**60%** de acierto)
-- Pendientes: 38
+- Resueltas: **3063** — 1847 ganadas / 1216 perdidas (**60%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 423
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,221,348** sobre $165,959,750 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$10,181** sobre $301,600 (ROI **-3.4%**)
+- **Resultado de los apostadores: -$1,219,548** sobre $165,987,950 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$10,174** sobre $301,700 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 423 en total)_
 | ferrariChampions2026 | Spread: Golden State Valkyries (-13.5) | Seattle Storm | 2.22 (45¢) | $25,388 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $26,916 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $102,910 | — | ⏳ Pendiente |
-| sts22 | UFC 331: Marlon Vera vs. Charles Jourdain (Bantamweight, Prelims) | Marlon Vera | 1.06 (94¢) | $28,200 | — | ⏳ Pendiente |
+| sts22 | UFC 331: Marlon Vera vs. Charles Jourdain (Bantamweight, Prelims) | Marlon Vera | 1.06 (94¢) | $28,200 | +$1,800 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LSU vs. Ole Miss | Ole Miss | 1.20 (83¢) | $33,200 | — | ⏳ Pendiente |
 | maz26 | San Francisco Giants vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.28 (78¢) | $57,915 | — | ⏳ Pendiente |
 | donaldbush | LSU vs. Ole Miss | Ole Miss | 1.33 (75¢) | $32,397 | — | ⏳ Pendiente |
