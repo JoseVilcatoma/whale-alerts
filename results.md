@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 17:44:58 (hora de Perú)
+Actualizado: 2026-09-20 17:47:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3365**  ($181,555,251 en total)
-- Resueltas: **3272** — 1975 ganadas / 1297 perdidas (**60%** de acierto)
-- Pendientes: 77
+- Resueltas: **3273** — 1976 ganadas / 1297 perdidas (**60%** de acierto)
+- Pendientes: 76
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,501,368** sobre $176,406,545 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,056** sobre $322,400 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$1,473,621** sobre $176,433,205 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$9,952** sobre $322,500 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Elaran1993 | 7 | 6 | 1 | 54% | $1,087,702 | +$83,076 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 9 | 6 | 4 | 60% | $1,046,987 | +$345,915 |
-| Talvez10 | 9 | 10 | 2 | 47% | $1,046,960 | +$136,449 |
+| Talvez10 | 10 | 10 | 1 | 50% | $1,046,960 | +$164,197 |
 | ndb1 | 8 | 7 | 3 | 53% | $977,951 | +$158,221 |
 | maz26 | 5 | 4 | 5 | 56% | $950,222 | -$99,595 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
