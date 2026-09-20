@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 07:53:14 (hora de Perú)
+Actualizado: 2026-09-20 07:55:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3184**  ($171,676,313 en total)
+- Apuestas registradas: **3186**  ($171,774,496 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 42
+- Pendientes: 44
 - Apostadores distintos: 430
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 235 | 123 | 5 | 66% | $23,960,419 | +$913,067 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 235 | 123 | 6 | 66% | $24,032,419 | +$913,067 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 2 | 54% | $6,162,969 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jaytee158 | Will Sunderland AFC win on 2026-09-20? | No | 1.11 (90¢) | $26,183 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $72,000 | — | ⏳ Pendiente |
 | surfandturf | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $71,021 | — | ⏳ Pendiente |
 | afraz | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $25,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Málaga CF win on 2026-09-20? | No | 1.27 (79¢) | $32,719 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | TAIWANNUMBERONE | LSU vs. Ole Miss | LSU | 1.72 (58¢) | $34,605 | -$34,605 | ❌ Perdida |
 | 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.96 (51¢) | $38,742 | +$37,222 | ✅ Ganada |
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | LSU | 1.96 (51¢) | $26,950 | -$26,950 | ❌ Perdida |
-| 0x6db5…e279 | LSU vs. Ole Miss | LSU | 2.08 (48¢) | $27,039 | -$27,039 | ❌ Perdida |
-| wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.41 (71¢) | $28,792 | +$11,760 | ✅ Ganada |

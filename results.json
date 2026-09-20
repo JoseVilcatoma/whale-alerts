@@ -47866,5 +47866,35 @@
     "status": "pending",
     "ultimo_fill": 1789908754,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6480,
+    "timestamp": 1789908818,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "epl-mac-sun-2026-09-20-mac",
+    "title": "Will Manchester City FC win on 2026-09-20?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 72000.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1789908818,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6481,
+    "timestamp": 1789908878,
+    "username": "jaytee158",
+    "wallet": "0xa2c908ce8b8386bc8c5471120c5a662551332c23",
+    "slug": "epl-mac-sun-2026-09-20-sun",
+    "title": "Will Sunderland AFC win on 2026-09-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 26182.728,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1789908878,
+    "fills": 1
   }
 ]
