@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 20:25:07 (hora de Perú)
+Actualizado: 2026-09-19 20:27:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3115**  ($168,336,122 en total)
+- Apuestas registradas: **3116**  ($168,369,408 en total)
 - Resueltas: **3062** — 1846 ganadas / 1216 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 423
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 423 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jaytee158 | Charlotte vs. Appalachian State | Appalachian State | 1.11 (90¢) | $33,286 | — | ⏳ Pendiente |
 | 0xA0da9371A4Aa5f2eCE33eDa9B6f47b656bAd1F80-1777002339626 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $40,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Golden State Valkyries (-13.5) | Seattle Storm | 2.22 (45¢) | $25,388 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card) | Arman Tsarukyan | 1.39 (72¢) | $26,916 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 423 en total)_
 | Berniepaidoff | Coastal Carolina vs. Delaware | Delaware | 1.52 (66¢) | $50,000 | +$25,758 | ✅ Ganada |
 | Berniepaidoff | Arizona State vs. Kansas | Arizona State | 1.49 (67¢) | $50,000 | +$24,627 | ✅ Ganada |
 | kkookkoo | Rennes: Sascha Gueymard-Wayenburg vs Titouan Droguet | Titouan Droguet | 1.61 (62¢) | $25,000 | -$25,000 | ❌ Perdida |
-| Ancient-Strike | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.33 (75¢) | $35,977 | -$35,977 | ❌ Perdida |
