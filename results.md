@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 06:29:40 (hora de Perú)
+Actualizado: 2026-09-20 06:31:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3168**  ($171,016,975 en total)
+- Apuestas registradas: **3169**  ($171,092,465 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 429
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Browns vs. Buccaneers | Browns | 4.55 (22¢) | $75,490 | — | ⏳ Pendiente |
 | maz26 | Spread: Packers (-3.5) | Packers | 2.13 (47¢) | $52,221 | — | ⏳ Pendiente |
 | Jsram | Vikings vs. Bears | Bears | 1.52 (66¢) | $65,692 | — | ⏳ Pendiente |
 | Jsram | Spread: Bears (-4.5) | Bears | 2.00 (50¢) | $50,431 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Alexandre Pantoja | 2.44 (41¢) | $102,910 | -$102,910 | ❌ Perdida |
 | sts22 | UFC 331: Marlon Vera vs. Charles Jourdain (Bantamweight, Prelims) | Marlon Vera | 1.06 (94¢) | $28,200 | +$1,800 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LSU vs. Ole Miss | Ole Miss | 1.20 (83¢) | $33,200 | +$6,800 | ✅ Ganada |
-| maz26 | San Francisco Giants vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.28 (78¢) | $57,915 | +$16,335 | ✅ Ganada |
