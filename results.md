@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 09:41:09 (hora de Perú)
+Actualizado: 2026-09-20 09:43:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3212**  ($173,148,719 en total)
+- Apuestas registradas: **3213**  ($173,183,090 en total)
 - Resueltas: **3131** — 1890 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 65
+- Pendientes: 66
 - Apostadores distintos: 430
 
 ### Balance
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
 | ethanaz | 10 | 3 | 0 | 77% | $1,110,448 | -$147,797 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
-| Kch-Temp | 7 | 2 | 8 | 78% | $983,367 | +$254,459 |
+| Kch-Temp | 7 | 2 | 9 | 78% | $1,017,737 | +$254,459 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Spread: Panthers (-2.5) | Falcons | 2.04 (49¢) | $34,371 | — | ⏳ Pendiente |
 | pleaseplease123 | Atlanta Braves vs. Houston Astros | Houston Astros | 1.72 (58¢) | $38,245 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs | Vitality | 1.37 (73¢) | $34,000 | — | ⏳ Pendiente |
 | Pwaddler | Commanders vs. Cowboys: O/U 51.5 | Over 51.5 | 2.08 (48¢) | $28,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Steelers vs. Patriots | Steelers | 3.23 (31¢) | $25,809 | — | ⏳ Pendiente |
 | raybanman | Spread: Broncos (-2.5) | Jaguars | 2.04 (49¢) | $99,165 | — | ⏳ Pendiente |
 | raybanman | Eagles vs. Titans: O/U 39.5 | Over 39.5 | 1.96 (51¢) | $127,201 | — | ⏳ Pendiente |
-| raybanman | Spread: BAL (-8.5) | NO | 1.96 (51¢) | $34,814 | — | ⏳ Pendiente |
