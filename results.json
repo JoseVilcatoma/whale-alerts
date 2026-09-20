@@ -48511,5 +48511,20 @@
     "status": "pending",
     "ultimo_fill": 1789917389,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6535,
+    "timestamp": 1789917493,
+    "username": "BruceWayne77",
+    "wallet": "0xa2b5bafa01d0f81926a2a88e5628a95b59fc4582",
+    "slug": "nfl-min-chi-2026-09-20",
+    "title": "Vikings vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 32340.0,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1789917493,
+    "fills": 1
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:16:49 (hora de Perú)
+Actualizado: 2026-09-20 10:18:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3227**  ($174,130,397 en total)
+- Apuestas registradas: **3228**  ($174,162,737 en total)
 - Resueltas: **3136** — 1892 ganadas / 1244 perdidas (**60%** de acierto)
-- Pendientes: 75
-- Apostadores distintos: 432
+- Pendientes: 76
+- Apostadores distintos: 433
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 
-_(mostrando los 40 de mayor monto, de 432 en total)_
+_(mostrando los 40 de mayor monto, de 433 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BruceWayne77 | Vikings vs. Bears | Bears | 1.52 (66¢) | $32,340 | — | ⏳ Pendiente |
 | SDTrading | Spread: Patriots (-5.5) | Steelers | 1.92 (52¢) | $31,362 | — | ⏳ Pendiente |
 | winwin518168 | Spread: Indiana Fever (-6.5) | Indiana Fever | 2.00 (50¢) | $29,947 | — | ⏳ Pendiente |
 | 0x80d5aebbE7a714879177E4dAE0014195beb3987E-1789159822906 | Will Juventus FC win on 2026-09-20? | Yes | 1.72 (58¢) | $34,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 432 en total)_
 | Herdonia | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $26,818 | — | ⏳ Pendiente |
 | Kch-Temp | Vikings vs. Bears: O/U 47.5 | Under 47.5 | 1.92 (52¢) | $39,149 | — | ⏳ Pendiente |
 | Kch-Temp | Browns vs. Buccaneers | Browns | 4.55 (22¢) | $75,490 | — | ⏳ Pendiente |
-| maz26 | Spread: Packers (-3.5) | Packers | 2.13 (47¢) | $52,221 | — | ⏳ Pendiente |
