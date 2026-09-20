@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 18:29:02 (hora de Perú)
+Actualizado: 2026-09-20 18:31:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3369**  ($181,685,304 en total)
-- Resueltas: **3284** — 1979 ganadas / 1305 perdidas (**60%** de acierto)
-- Pendientes: 69
+- Resueltas: **3285** — 1980 ganadas / 1305 perdidas (**60%** de acierto)
+- Pendientes: 68
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,706,331** sobre $176,856,925 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,450** sobre $323,600 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$1,676,546** sobre $176,890,512 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,362** sobre $323,700 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Elaran1993 | 7 | 6 | 1 | 54% | $1,087,702 | +$83,076 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 10 | 6 | 3 | 62% | $1,046,987 | +$372,860 |
-| Talvez10 | 10 | 10 | 1 | 50% | $1,046,960 | +$164,197 |
+| Talvez10 | 11 | 10 | 0 | 52% | $1,046,960 | +$193,981 |
 | ndb1 | 8 | 7 | 3 | 53% | $977,951 | +$158,221 |
 | maz26 | 5 | 4 | 5 | 56% | $950,222 | -$99,595 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -126,7 +126,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | ferrariChampions2026 | Saints vs. Ravens | Ravens | 1.12 (89¢) | $57,503 | -$57,503 | ❌ Perdida |
 | ferrariChampions2026 | Eagles vs. Titans | Eagles | 1.16 (86¢) | $53,287 | +$8,675 | ✅ Ganada |
 | cosmicxbt | Panthers vs. Falcons | Panthers | 1.11 (90¢) | $63,000 | +$7,000 | ✅ Ganada |
-| Talvez10 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.89 (53¢) | $33,587 | — | ⏳ Pendiente |
+| Talvez10 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.89 (53¢) | $33,587 | +$29,785 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $54,929 | — | ⏳ Pendiente |
 | ethanaz | Eagles vs. Titans | Eagles | 1.09 (92¢) | $80,485 | +$6,999 | ✅ Ganada |
 | gambamaster | Vikings vs. Bears | Bears | 1.67 (60¢) | $42,000 | -$42,000 | ❌ Perdida |
