@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 12:00:42 (hora de Perú)
+Actualizado: 2026-09-20 12:02:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3279**  ($176,836,143 en total)
+- Apuestas registradas: **3280**  ($176,862,791 en total)
 - Resueltas: **3151** — 1906 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 112
+- Pendientes: 113
 - Apostadores distintos: 438
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| martingaleking | Vikings vs. Bears | Bears | 1.52 (66¢) | $26,648 | — | ⏳ Pendiente |
 | mooseborzoi | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $115,866 | — | ⏳ Pendiente |
 | surfandturf | Panthers vs. Falcons | Panthers | 1.82 (55¢) | $68,750 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Patriots (-5.5) | Patriots | 2.13 (47¢) | $34,679 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | kkookkoo | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $34,880 | — | ⏳ Pendiente |
 | maz26 | Spread: BAL (-8.5) | BAL | 2.08 (48¢) | $50,251 | — | ⏳ Pendiente |
 | Kch-Temp | Packers vs. Jets | Jets | 2.56 (39¢) | $29,250 | — | ⏳ Pendiente |
-| beautifulobsession | Will Fulham FC win on 2026-09-20? | No | 1.37 (73¢) | $35,040 | — | ⏳ Pendiente |
