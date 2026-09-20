@@ -48616,5 +48616,35 @@
     "status": "pending",
     "ultimo_fill": 1789918087,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6554,
+    "timestamp": 1789918207,
+    "username": "0x80d5aebbE7a714879177E4dAE0014195beb3987E-1789159822906",
+    "wallet": "0x80d5aebbe7a714879177e4dae0014195beb3987e",
+    "slug": "sea-juv-ata-2026-09-20-juv",
+    "title": "Will Juventus FC win on 2026-09-20?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 41300.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1789918207,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6555,
+    "timestamp": 1789918216,
+    "username": "ic4cream",
+    "wallet": "0x27f738fe203827445690339104aae35b20bc44b0",
+    "slug": "nfl-phi-ten-2026-09-20",
+    "title": "Eagles vs. Titans",
+    "outcome": "Eagles",
+    "side": "BUY",
+    "usd": 61249.5,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1789918216,
+    "fills": 1
   }
 ]
