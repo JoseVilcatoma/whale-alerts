@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 18:03:39 (hora de Perú)
+Actualizado: 2026-09-20 18:05:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3366**  ($181,588,538 en total)
-- Resueltas: **3273** — 1976 ganadas / 1297 perdidas (**60%** de acierto)
-- Pendientes: 77
+- Apuestas registradas: **3367**  ($181,615,115 en total)
+- Resueltas: **3275** — 1976 ganadas / 1299 perdidas (**60%** de acierto)
+- Pendientes: 76
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,473,621** sobre $176,433,205 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$9,952** sobre $322,500 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$1,543,030** sobre $176,502,614 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,152** sobre $322,700 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 66 | 48 | 3 | 58% | $5,353,186 | +$620,610 |
 | wr0ngw4yb3tt0r | 49 | 33 | 7 | 60% | $4,734,761 | -$471,406 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Sassy-Bucket | 32 | 32 | 3 | 50% | $3,340,986 | -$370,487 |
+| Sassy-Bucket | 32 | 34 | 1 | 48% | $3,340,986 | -$439,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 29 | 34 | 0 | 46% | $3,255,364 | -$527,610 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.52 (66¢) | $26,577 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Raiders vs. Chargers | Raiders | 1.92 (52¢) | $33,287 | — | ⏳ Pendiente |
 | rf13g145g41g4g4 | Raiders vs. Chargers | Raiders | 1.64 (61¢) | $52,869 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Cowboys | Cowboys | 1.39 (72¢) | $38,515 | — | ⏳ Pendiente |
@@ -92,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Tiger200 | Spread: 49ers (-13.5) | Dolphins | 1.92 (52¢) | $130,095 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Commanders vs. Cowboys: O/U 51.5 | Under 51.5 | 1.92 (52¢) | $26,246 | — | ⏳ Pendiente |
 | maz26 | Spread: 49ers (-13.5) | 49ers | 2.13 (47¢) | $94,000 | — | ⏳ Pendiente |
-| Sassy-Bucket | San Francisco Giants vs. Los Angeles Dodgers | San Francisco Giants | 3.45 (29¢) | $28,609 | — | ⏳ Pendiente |
+| Sassy-Bucket | San Francisco Giants vs. Los Angeles Dodgers | San Francisco Giants | 3.45 (29¢) | $28,609 | -$28,609 | ❌ Perdida |
 | taylorsversion | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $118,140 | — | ⏳ Pendiente |
 | Berniepaidoff | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $50,000 | -$758 | 💰 Vendida antes |
 | 3648393489047 | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
@@ -104,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $77,327 | +$87,198 | ✅ Ganada |
 | jaytee158 | LoL: Team Liquid vs FlyQuest (BO5) - LCS Playoffs | Team Liquid | 1.32 (76¢) | $30,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 1.18 (85¢) | $47,596 | -$47,596 | ❌ Perdida |
-| Sassy-Bucket | Washington Mystics vs. Indiana Fever | Indiana Fever | 1.47 (68¢) | $40,800 | — | ⏳ Pendiente |
+| Sassy-Bucket | Washington Mystics vs. Indiana Fever | Indiana Fever | 1.47 (68¢) | $40,800 | -$40,800 | ❌ Perdida |
 | Laskhask | Eagles vs. Titans | Titans | 1.54 (65¢) | $29,539 | -$29,539 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 2.78 (36¢) | $70,874 | +$125,998 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-6.5) | Titans | 1.06 (94¢) | $32,847 | +$2,097 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Sassy-Bucket | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $68,000 | — | ⏳ Pendiente |
 | Tiger200 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $117,925 | — | ⏳ Pendiente |
 | beeemw | Will US Lecce win on 2026-09-20? | No | 1.06 (94¢) | $67,951 | +$4,337 | ✅ Ganada |
-| predictionlegend | Will Real Sociedad de Fútbol win on 2026-09-20? | No | 1.59 (63¢) | $33,495 | -$33,495 | ❌ Perdida |
