@@ -49711,5 +49711,20 @@
     "status": "pending",
     "ultimo_fill": 1789926090,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6635,
+    "timestamp": 1789927219,
+    "username": "beeemw",
+    "wallet": "0x1e386b0e0f1fc58c67ce738d7bbc4ba7ec74fd47",
+    "slug": "sea-mil-lec-2026-09-20-lec",
+    "title": "Will US Lecce win on 2026-09-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 67950.6824,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1789927219,
+    "fills": 1
   }
 ]

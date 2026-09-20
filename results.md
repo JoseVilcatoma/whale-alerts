@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 12:59:26 (hora de Perú)
+Actualizado: 2026-09-20 13:01:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3307**  ($177,913,663 en total)
+- Apuestas registradas: **3308**  ($177,981,613 en total)
 - Resueltas: **3155** — 1910 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 136
+- Pendientes: 137
 - Apostadores distintos: 438
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beeemw | Will US Lecce win on 2026-09-20? | No | 1.06 (94¢) | $67,951 | — | ⏳ Pendiente |
 | predictionlegend | Will Real Sociedad de Fútbol win on 2026-09-20? | No | 1.59 (63¢) | $33,495 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Packers vs. Jets | Packers | 1.61 (62¢) | $28,520 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Packers vs. Jets | Jets | 2.38 (42¢) | $31,823 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Panthers vs. Falcons | Panthers | 1.79 (56¢) | $31,580 | — | ⏳ Pendiente |
 | maz26 | Browns vs. Buccaneers | Buccaneers | 1.28 (78¢) | $37,440 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.19 (84¢) | $36,974 | — | ⏳ Pendiente |
-| RegardedMoney | Spread: Packers (-2.5) | Jets | 2.22 (45¢) | $29,648 | — | ⏳ Pendiente |
