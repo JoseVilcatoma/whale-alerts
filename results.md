@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 18:16:18 (hora de Perú)
+Actualizado: 2026-09-20 18:18:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3367**  ($181,615,115 en total)
-- Resueltas: **3275** — 1976 ganadas / 1299 perdidas (**60%** de acierto)
-- Pendientes: 76
+- Resueltas: **3277** — 1976 ganadas / 1301 perdidas (**60%** de acierto)
+- Pendientes: 74
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,543,030** sobre $176,502,614 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$10,152** sobre $322,700 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$1,612,493** sobre $176,572,078 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$10,352** sobre $322,900 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 69 | 1 | 54% | $6,162,969 | -$226,170 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 66 | 48 | 3 | 58% | $5,353,186 | +$620,610 |
+| pleaseplease123 | 66 | 50 | 1 | 57% | $5,353,186 | +$551,147 |
 | wr0ngw4yb3tt0r | 49 | 33 | 7 | 60% | $4,734,761 | -$471,406 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 32 | 34 | 1 | 48% | $3,340,986 | -$439,896 |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | surfandturf | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $99,750 | — | ⏳ Pendiente |
 | Feromont | Spread: Chargers (-6.5) | Chargers | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
 | optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | -$6,148 | 💰 Vendida antes |
-| pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
+| pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $40,000 | -$40,000 | ❌ Perdida |
 | Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $77,327 | +$87,198 | ✅ Ganada |
 | jaytee158 | LoL: Team Liquid vs FlyQuest (BO5) - LCS Playoffs | Team Liquid | 1.32 (76¢) | $30,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 1.18 (85¢) | $47,596 | -$47,596 | ❌ Perdida |
