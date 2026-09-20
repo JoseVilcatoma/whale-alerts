@@ -48751,5 +48751,50 @@
     "status": "pending",
     "ultimo_fill": 1789919021,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6563,
+    "timestamp": 1789919104,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-car-atl-2026-09-20-spread-away-2pt5",
+    "title": "Spread: Panthers (-2.5)",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 30136.999200000002,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1789919104,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6564,
+    "timestamp": 1789919138,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-car-atl-2026-09-20",
+    "title": "Panthers vs. Falcons",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 140463.9896,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1789919145,
+    "fills": 4
+  },
+  {
+    "telegram_msg_id": 6565,
+    "timestamp": 1789919141,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-car-atl-2026-09-20",
+    "title": "Panthers vs. Falcons",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 57583.27120000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1789919141,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 10:44:03 (hora de Perú)
+Actualizado: 2026-09-20 10:46:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3243**  ($175,147,405 en total)
+- Apuestas registradas: **3246**  ($175,375,589 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 79
+- Pendientes: 82
 - Apostadores distintos: 435
 
 ### Balance
@@ -31,10 +31,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 65 | 47 | 2 | 58% | $5,231,035 | +$610,220 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 48 | 28 | 5 | 63% | $4,319,521 | -$132,094 |
+| wr0ngw4yb3tt0r | 48 | 28 | 7 | 63% | $4,490,122 | -$132,094 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
-| Sassy-Bucket | 29 | 31 | 1 | 48% | $3,072,556 | -$228,159 |
+| Sassy-Bucket | 29 | 31 | 2 | 48% | $3,130,139 | -$228,159 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 435 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Panthers vs. Falcons | Panthers | 1.79 (56¢) | $57,583 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Panthers vs. Falcons | Falcons | 2.27 (44¢) | $140,464 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Spread: Panthers (-2.5) | Falcons | 2.04 (49¢) | $30,137 | — | ⏳ Pendiente |
 | Berniepaidoff | Vikings vs. Bears | Bears | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Seahawks vs. Cardinals | Cardinals | 2.94 (34¢) | $25,027 | — | ⏳ Pendiente |
 | maz26 | Spread: Packers (-3.5) | Jets | 1.85 (54¢) | $36,267 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 435 en total)_
 | five5120 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.43 (70¢) | $40,000 | — | ⏳ Pendiente |
 | MrDouche | Will Manchester City FC win on 2026-09-20? | Yes | 1.41 (71¢) | $35,379 | +$14,451 | ✅ Ganada |
 | surfandturf | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $33,145 | +$12,890 | ✅ Ganada |
-| jaytee158 | Will Sunderland AFC win on 2026-09-20? | No | 1.11 (90¢) | $26,183 | +$2,909 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $72,000 | +$28,000 | ✅ Ganada |
-| surfandturf | Will Manchester City FC win on 2026-09-20? | Yes | 1.39 (72¢) | $71,021 | +$27,619 | ✅ Ganada |
