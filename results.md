@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 18:18:31 (hora de Perú)
+Actualizado: 2026-09-20 18:20:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3367**  ($181,615,115 en total)
+- Apuestas registradas: **3368**  ($181,660,115 en total)
 - Resueltas: **3277** — 1976 ganadas / 1301 perdidas (**60%** de acierto)
-- Pendientes: 74
+- Pendientes: 75
 - Apostadores distintos: 441
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.49 (67¢) | $45,000 | — | ⏳ Pendiente |
 | mooseborzoi | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.52 (66¢) | $26,577 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Raiders vs. Chargers | Raiders | 1.92 (52¢) | $33,287 | — | ⏳ Pendiente |
 | rf13g145g41g4g4 | Raiders vs. Chargers | Raiders | 1.64 (61¢) | $52,869 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | gambamaster | Vikings vs. Bears | Bears | 1.67 (60¢) | $42,000 | -$42,000 | ❌ Perdida |
 | Sassy-Bucket | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $68,000 | — | ⏳ Pendiente |
 | Tiger200 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $117,925 | — | ⏳ Pendiente |
-| beeemw | Will US Lecce win on 2026-09-20? | No | 1.06 (94¢) | $67,951 | +$4,337 | ✅ Ganada |
