@@ -48226,5 +48226,35 @@
     "status": "pending",
     "ultimo_fill": 1789913970,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6510,
+    "timestamp": 1789914187,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-pit-ne-2026-09-20-total-41pt5",
+    "title": "Steelers vs. Patriots: O/U 41.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 54190.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1789914187,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6511,
+    "timestamp": 1789914218,
+    "username": "Pwaddler",
+    "wallet": "0x1d1ade627d0bb0205758580b20d808573e720df6",
+    "slug": "nfl-was-dal-2026-09-20-total-51pt5",
+    "title": "Commanders vs. Cowboys: O/U 51.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 28800.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1789914218,
+    "fills": 1
   }
 ]
