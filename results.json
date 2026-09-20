@@ -47746,5 +47746,35 @@
     "status": "pending",
     "ultimo_fill": 1789906597,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6472,
+    "timestamp": 1789906720,
+    "username": "zhqzhq",
+    "wallet": "0xac715194f101aa682a63e56d979e58e6b2e40b92",
+    "slug": "epl-mac-sun-2026-09-20-sun",
+    "title": "Will Sunderland AFC win on 2026-09-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 50000.0,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1789906720,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6473,
+    "timestamp": 1789906757,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "epl-bou-liv-2026-09-20-liv",
+    "title": "Will Liverpool FC win on 2026-09-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 41216.335199999994,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789906757,
+    "fills": 1
   }
 ]
