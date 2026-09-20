@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 17:38:52 (hora de Perú)
+Actualizado: 2026-09-20 17:40:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3365**  ($181,555,251 en total)
-- Resueltas: **3259** — 1968 ganadas / 1291 perdidas (**60%** de acierto)
-- Pendientes: 90
+- Resueltas: **3267** — 1973 ganadas / 1294 perdidas (**60%** de acierto)
+- Pendientes: 82
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,807,895** sobre $175,635,556 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$10,396** sobre $321,100 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$1,719,766** sobre $176,117,281 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$10,223** sobre $321,900 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 66 | 48 | 3 | 58% | $5,353,186 | +$620,610 |
-| wr0ngw4yb3tt0r | 49 | 30 | 9 | 62% | $4,701,474 | -$282,157 |
+| wr0ngw4yb3tt0r | 49 | 33 | 6 | 60% | $4,701,474 | -$471,406 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 32 | 32 | 3 | 50% | $3,340,986 | -$370,487 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 8 | 6 | 5 | 57% | $1,046,987 | +$78,267 |
 | Talvez10 | 9 | 10 | 2 | 47% | $1,046,960 | +$136,449 |
 | ndb1 | 8 | 7 | 3 | 53% | $977,951 | +$158,221 |
-| maz26 | 4 | 3 | 7 | ⚠️ 57% (7) | $950,222 | -$107,857 |
+| maz26 | 5 | 3 | 6 | 62% | $950,222 | -$62,155 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
