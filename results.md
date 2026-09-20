@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:05:37 (hora de Perú)
+Actualizado: 2026-09-20 15:07:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3340**  ($179,796,990 en total)
+- Apuestas registradas: **3342**  ($180,175,685 en total)
 - Resueltas: **3163** — 1918 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 161
+- Pendientes: 163
 - Apostadores distintos: 440
 
 ### Balance
@@ -58,12 +58,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 7 | 3 | 9 | 70% | $1,046,987 | +$213,243 |
 | Talvez10 | 9 | 9 | 3 | 50% | $1,046,960 | +$165,257 |
+| Elaran1993 | 7 | 6 | 1 | 54% | $962,302 | +$83,076 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | phonesculptor | 12 | 2 | 0 | 86% | $873,288 | -$7,205 |
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
-| maz26 | 4 | 1 | 8 | ⚠️ 80% (5) | $856,222 | +$98,394 |
 
 _(mostrando los 40 de mayor monto, de 440 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
+| Elaran1993 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $352,295 | — | ⏳ Pendiente |
 | surfandturf | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $99,750 | — | ⏳ Pendiente |
 | Feromont | Spread: Chargers (-6.5) | Chargers | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
 | optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 | mooseborzoi | Saints vs. Ravens | Ravens | 1.30 (77¢) | $41,580 | — | ⏳ Pendiente |
 | ethanaz | Packers vs. Jets | Packers | 1.75 (57¢) | $32,389 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Vikings vs. Bears | Bears | 1.59 (63¢) | $27,204 | — | ⏳ Pendiente |
-| mooseborzoi | Packers vs. Jets | Jets | 2.22 (45¢) | $33,994 | — | ⏳ Pendiente |
-| Donkey14 | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $39,767 | — | ⏳ Pendiente |
