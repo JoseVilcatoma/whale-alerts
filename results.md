@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 09:30:42 (hora de Perú)
+Actualizado: 2026-09-20 09:32:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3210**  ($173,076,474 en total)
+- Apuestas registradas: **3211**  ($173,110,474 en total)
 - Resueltas: **3131** — 1890 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 63
+- Pendientes: 64
 - Apostadores distintos: 430
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs | Vitality | 1.37 (73¢) | $34,000 | — | ⏳ Pendiente |
 | Pwaddler | Commanders vs. Cowboys: O/U 51.5 | Over 51.5 | 2.08 (48¢) | $28,800 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Steelers vs. Patriots: O/U 41.5 | Over 41.5 | 2.00 (50¢) | $93,194 | — | ⏳ Pendiente |
 | ratatatatatatatataaaa | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.92 (52¢) | $70,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | raybanman | Eagles vs. Titans: O/U 39.5 | Over 39.5 | 1.96 (51¢) | $127,201 | — | ⏳ Pendiente |
 | raybanman | Spread: BAL (-8.5) | NO | 1.96 (51¢) | $34,814 | — | ⏳ Pendiente |
 | 0xc1dA8SO23a3D915E7FcA367bbBFSO4E74DSO27A | Spread: BAL (-8.5) | NO | 2.04 (49¢) | $28,420 | — | ⏳ Pendiente |
-| NemanjaWC | Will Manchester City FC win on 2026-09-20? | Yes | 1.33 (75¢) | $48,921 | — | ⏳ Pendiente |
