@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 07:05:18 (hora de Perú)
+Actualizado: 2026-09-20 07:07:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3173**  ($171,240,591 en total)
+- Apuestas registradas: **3174**  ($171,270,591 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 430
 
 ### Balance
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 22 | 2 | 0 | 92% | $1,424,995 | +$63,350 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Jsram | 13 | 14 | 3 | 48% | $1,307,042 | -$216,221 |
+| Jsram | 13 | 14 | 4 | 48% | $1,337,042 | -$216,221 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | AFC Bournemouth vs. Liverpool FC: O/U 3.5 | Under 3.5 | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | flashclub | Will Manchester City FC win on 2026-09-20? | Yes | 1.37 (73¢) | $54,113 | — | ⏳ Pendiente |
 | Kch-Temp | Panthers vs. Falcons: O/U 43.5 | Under 43.5 | 1.96 (51¢) | $28,046 | — | ⏳ Pendiente |
 | Herdonia | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $26,818 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | wr0ngw4yb3tt0r | James Madison vs. San Diego State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $28,901 | +$28,901 | ✅ Ganada |
 | jaytee158 | Charlotte vs. Appalachian State | Appalachian State | 1.11 (90¢) | $33,286 | +$3,698 | ✅ Ganada |
 | 0xA0da9371A4Aa5f2eCE33eDa9B6f47b656bAd1F80-1777002339626 | UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card) | Joshua Van | 1.69 (59¢) | $40,000 | +$27,797 | ✅ Ganada |
-| ferrariChampions2026 | Spread: Golden State Valkyries (-13.5) | Seattle Storm | 2.22 (45¢) | $25,388 | +$31,030 | ✅ Ganada |
