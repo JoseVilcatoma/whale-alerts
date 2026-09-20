@@ -46951,5 +46951,20 @@
     "status": "pending",
     "ultimo_fill": 1789869840,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6361,
+    "timestamp": 1789869945,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "mls-por-atl-2026-09-19-por",
+    "title": "Will Portland Timbers win on 2026-09-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 32854.759600000005,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789869945,
+    "fills": 1
   }
 ]

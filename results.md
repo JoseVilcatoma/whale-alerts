@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 21:04:13 (hora de Perú)
+Actualizado: 2026-09-19 21:06:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3123**  ($168,612,045 en total)
+- Apuestas registradas: **3124**  ($168,644,900 en total)
 - Resueltas: **3070** — 1852 ganadas / 1218 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 426
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elaran1993 | Will Portland Timbers win on 2026-09-19? | No | 1.92 (52¢) | $32,855 | — | ⏳ Pendiente |
 | kkookkoo | O/U 1.5 Rounds | Under 1.5 Rounds | 1.22 (82¢) | $27,258 | — | ⏳ Pendiente |
 | pereira12 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.11 (90¢) | $34,654 | — | ⏳ Pendiente |
 | 35808932420 | UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims) | Gable Steveson | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | tikstt2 | Spread: Nottingham Forest FC (-1.5) | Coventry City FC | 1.49 (67¢) | $33,203 | +$16,354 | ✅ Ganada |
 | sbsigner | Will Nottingham Forest FC vs. Coventry City FC end in a draw? | No | 1.32 (76¢) | $30,611 | +$9,667 | ✅ Ganada |
 | Sassy-Bucket | North Carolina vs. Clemson | Clemson | 1.69 (59¢) | $27,658 | +$19,220 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Buffalo vs. Penn State: O/U 49.5 | Under 49.5 | 1.89 (53¢) | $43,223 | -$43,223 | ❌ Perdida |
