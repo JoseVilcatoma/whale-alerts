@@ -49531,5 +49531,50 @@
     "status": "pending",
     "ultimo_fill": 1789924888,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6618,
+    "timestamp": 1789924928,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-sea-col-2026-09-20-total-10pt5",
+    "title": "Seattle Mariners vs. Colorado Rockies: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 50000.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1789924928,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6619,
+    "timestamp": 1789924955,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-phi-ten-2026-09-20",
+    "title": "Eagles vs. Titans",
+    "outcome": "Eagles",
+    "side": "BUY",
+    "usd": 84088.5,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1789924974,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 6620,
+    "timestamp": 1789924997,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-phi-ten-2026-09-20",
+    "title": "Eagles vs. Titans",
+    "outcome": "Eagles",
+    "side": "BUY",
+    "usd": 30074.6714,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1789924997,
+    "fills": 1
   }
 ]

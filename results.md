@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 12:21:44 (hora de Perú)
+Actualizado: 2026-09-20 12:23:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3295**  ($177,439,501 en total)
+- Apuestas registradas: **3298**  ($177,603,664 en total)
 - Resueltas: **3151** — 1906 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 128
+- Pendientes: 131
 - Apostadores distintos: 438
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 237 | 124 | 10 | 66% | $24,414,663 | +$803,917 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 237 | 124 | 11 | 66% | $24,498,752 | +$803,917 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 68 | 2 | 54% | $6,162,969 | -$200,361 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -40,11 +40,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 25 | 2 | 1 | 93% | $2,014,685 | +$88,444 |
-| BrotherObama | 21 | 20 | 2 | 51% | $1,865,334 | +$192,631 |
+| BrotherObama | 21 | 20 | 3 | 51% | $1,915,334 | +$192,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| ferrariChampions2026 | 26 | 14 | 2 | 65% | $1,658,456 | -$397,434 |
+| ferrariChampions2026 | 26 | 14 | 3 | 65% | $1,688,531 | -$397,434 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Eagles vs. Titans | Eagles | 1.64 (61¢) | $30,075 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 1.64 (61¢) | $84,088 | — | ⏳ Pendiente |
+| BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $50,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Boston Red Sox vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $52,688 | — | ⏳ Pendiente |
 | ethanaz | Eagles vs. Titans | Titans | 2.50 (40¢) | $32,198 | — | ⏳ Pendiente |
 | gambamaster | Packers vs. Jets | Packers | 1.79 (56¢) | $41,604 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | maz26 | Spread: Packers (-3.5) | Jets | 1.85 (54¢) | $36,267 | — | ⏳ Pendiente |
 | DaWinci | Packers vs. Jets | Jets | 2.56 (39¢) | $29,880 | — | ⏳ Pendiente |
 | maz26 | Packers vs. Jets | Jets | 2.56 (39¢) | $156,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Spread: Panthers (-2.5) | Panthers | 1.96 (51¢) | $32,439 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: Buccaneers (-7.5) | Browns | 2.00 (50¢) | $29,902 | — | ⏳ Pendiente |
-| ic4cream | Eagles vs. Titans | Eagles | 1.33 (75¢) | $61,250 | — | ⏳ Pendiente |
