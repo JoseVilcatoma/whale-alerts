@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 01:38:47 (hora de Perú)
+Actualizado: 2026-09-20 01:40:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3152**  ($169,992,506 en total)
+- Apuestas registradas: **3153**  ($170,027,320 en total)
 - Resueltas: **3110** — 1874 ganadas / 1236 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 429
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Spread: BAL (-8.5) | NO | 1.96 (51¢) | $34,814 | — | ⏳ Pendiente |
 | 0xc1dA8SO23a3D915E7FcA367bbBFSO4E74DSO27A | Spread: BAL (-8.5) | NO | 2.04 (49¢) | $28,420 | — | ⏳ Pendiente |
 | NemanjaWC | Will Manchester City FC win on 2026-09-20? | Yes | 1.33 (75¢) | $48,921 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seahawks vs. Cardinals | Seahawks | 1.54 (65¢) | $38,069 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.56 (64¢) | $60,362 | +$33,953 | ✅ Ganada |
 | Sassy-Bucket | Nevada vs. Middle Tennessee | Nevada | 1.61 (62¢) | $30,688 | -$30,688 | ❌ Perdida |
 | ethanaz | Florida State vs. Alabama | Florida State | 2.08 (48¢) | $100,159 | -$100,159 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.69 (59¢) | $67,102 | -$67,102 | ❌ Perdida |
