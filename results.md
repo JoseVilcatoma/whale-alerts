@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 20:47:45 (hora de Perú)
+Actualizado: 2026-09-19 20:49:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3119**  ($168,473,334 en total)
+- Apuestas registradas: **3120**  ($168,513,333 en total)
 - Resueltas: **3068** — 1851 ganadas / 1217 perdidas (**60%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 424
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 424 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.39 (72¢) | $39,999 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | James Madison vs. San Diego State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $25,025 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | James Madison vs. San Diego State: O/U 46.5 | Over 46.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | James Madison vs. San Diego State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $28,901 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 424 en total)_
 | phonesculptor | Tulane vs. Kansas State | Kansas State | 1.10 (91¢) | $50,960 | +$5,040 | ✅ Ganada |
 | itwillallbeok | North Carolina vs. Clemson | North Carolina | 2.44 (41¢) | $98,114 | -$98,114 | ❌ Perdida |
 | Kch-Temp | NC State vs. Vanderbilt: O/U 50.5 | Over 50.5 | 1.92 (52¢) | $53,602 | +$49,479 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Coastal Carolina vs. Delaware | Delaware | 1.56 (64¢) | $28,947 | +$16,283 | ✅ Ganada |
