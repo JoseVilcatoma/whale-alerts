@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 11:54:26 (hora de Perú)
+Actualizado: 2026-09-20 11:56:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3272**  ($176,416,709 en total)
+- Apuestas registradas: **3275**  ($176,588,253 en total)
 - Resueltas: **3151** — 1906 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 105
-- Apostadores distintos: 437
+- Pendientes: 108
+- Apostadores distintos: 438
 
 ### Balance
 
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 
-_(mostrando los 40 de mayor monto, de 437 en total)_
+_(mostrando los 40 de mayor monto, de 438 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Feromont | Spread: Patriots (-4.5) | Steelers | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
+| Herdonia | Eagles vs. Titans | Eagles | 1.33 (75¢) | $67,544 | — | ⏳ Pendiente |
+| THEdirkdiggler | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Feromont | Spread: Patriots (-4.5) | Steelers | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Packers (-2.5) | Jets | 2.17 (46¢) | $29,140 | — | ⏳ Pendiente |
 | Sassy-Bucket | Panthers vs. Falcons | Panthers | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 437 en total)_
 | SDTrading | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Panthers (-2.5) | Panthers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Panthers (-2.5) | Panthers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| 0xsven | Fulham FC vs. Manchester United FC: O/U 1.5 | Over 1.5 | 1.22 (82¢) | $30,648 | — | ⏳ Pendiente |
-| Flaznorp | Fulham FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $285,929 | — | ⏳ Pendiente |
-| Kch-Temp | Spread: Panthers (-2.5) | Falcons | 2.04 (49¢) | $34,371 | — | ⏳ Pendiente |
