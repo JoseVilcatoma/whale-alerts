@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 01:51:04 (hora de Perú)
+Actualizado: 2026-09-20 01:53:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3157**  ($170,353,789 en total)
+- Apuestas registradas: **3158**  ($170,385,220 en total)
 - Resueltas: **3116** — 1878 ganadas / 1238 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 429
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Spread: BAL (-8.5) | NO | 1.96 (51¢) | $31,431 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: BAL (-8.5) | BAL | 2.08 (48¢) | $74,293 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Steelers vs. Patriots | Steelers | 3.23 (31¢) | $25,809 | — | ⏳ Pendiente |
 | raybanman | Spread: Broncos (-2.5) | Jaguars | 2.04 (49¢) | $99,165 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | Feromont | Spread: LSU (-2.5) | LSU | 1.92 (52¢) | $25,069 | -$25,069 | ❌ Perdida |
 | Elaran1993 | Will CR Vasco da Gama win on 2026-09-19? | Yes | 1.37 (73¢) | $28,059 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 1.92 (52¢) | $99,411 | +$91,764 | ✅ Ganada |
-| Donkey14 | LSU vs. Ole Miss | LSU | 1.75 (57¢) | $28,500 | -$28,500 | ❌ Perdida |
