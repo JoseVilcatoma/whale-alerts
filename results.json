@@ -46423,7 +46423,7 @@
     "side": "BUY",
     "usd": 26205.5585,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789853785,
     "fills": 1
   },
@@ -46755,6 +46755,21 @@
     "odds_at_bet": 83,
     "status": "pending",
     "ultimo_fill": 1789865531,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6338,
+    "timestamp": 1789865738,
+    "username": "sts22",
+    "wallet": "0x6b123a3056bdfa9a6ab33f884e735deeb18ed642",
+    "slug": "ufc-mar8-cha3-2026-09-19",
+    "title": "UFC 331: Marlon Vera vs. Charles Jourdain (Bantamweight, Prelims)",
+    "outcome": "Marlon Vera",
+    "side": "BUY",
+    "usd": 28200.0,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1789865738,
     "fills": 1
   }
 ]

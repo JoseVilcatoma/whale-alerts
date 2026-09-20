@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 19:54:16 (hora de Perú)
+Actualizado: 2026-09-19 19:56:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3110**  ($168,112,708 en total)
-- Resueltas: **3059** — 1845 ganadas / 1214 perdidas (**60%** de acierto)
+- Apuestas registradas: **3111**  ($168,140,908 en total)
+- Resueltas: **3060** — 1846 ganadas / 1214 perdidas (**60%** de acierto)
 - Pendientes: 35
-- Apostadores distintos: 421
+- Apostadores distintos: 422
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,164,893** sobre $165,853,852 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$10,069** sobre $301,300 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$1,141,655** sobre $165,880,057 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,981** sobre $301,400 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 232 | 120 | 6 | 66% | $23,667,947 | +$1,071,416 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 79 | 67 | 2 | 54% | $6,099,092 | -$156,498 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 80 | 67 | 1 | 54% | $6,099,092 | -$133,259 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 62 | 47 | 3 | 57% | $5,085,512 | +$377,168 |
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 13 | 9 | 1 | 59% | $821,930 | -$51,522 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 
-_(mostrando los 40 de mayor monto, de 421 en total)_
+_(mostrando los 40 de mayor monto, de 422 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sts22 | UFC 331: Marlon Vera vs. Charles Jourdain (Bantamweight, Prelims) | Marlon Vera | 1.06 (94¢) | $28,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LSU vs. Ole Miss | Ole Miss | 1.20 (83¢) | $33,200 | — | ⏳ Pendiente |
 | maz26 | San Francisco Giants vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.28 (78¢) | $57,915 | — | ⏳ Pendiente |
 | donaldbush | LSU vs. Ole Miss | Ole Miss | 1.33 (75¢) | $32,397 | — | ⏳ Pendiente |
@@ -93,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 421 en total)_
 | FORTNITEMASTER888 | LoL: LYON vs Cloud9 - Game 3 Winner | LYON | 1.56 (64¢) | $40,418 | — | ⏳ Pendiente |
 | kkookkoo | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.69 (59¢) | $37,000 | +$25,712 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Virginia Tech vs. Maryland | Maryland | 2.27 (44¢) | $65,725 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Mississippi State vs. South Carolina: O/U 58.5 | Over 58.5 | 1.89 (53¢) | $26,206 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Mississippi State vs. South Carolina: O/U 58.5 | Over 58.5 | 1.89 (53¢) | $26,206 | +$23,239 | ✅ Ganada |
 | pleaseplease123 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.44 (41¢) | $28,692 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | SMU vs. Louisville | Louisville | 1.85 (54¢) | $30,208 | +$25,733 | ✅ Ganada |
 | Berniepaidoff | Temple vs. Toledo | Temple | 1.67 (60¢) | $39,984 | -$39,984 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 421 en total)_
 | primm | Spread: South Alabama (-6.5) | South Alabama | 1.92 (52¢) | $27,174 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.30 (77¢) | $50,000 | -$50,000 | ❌ Perdida |
 | primm | Spread: Toledo (-5.5) | Temple | 1.96 (51¢) | $29,747 | +$28,580 | ✅ Ganada |
-| Pwaddler | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 1.69 (59¢) | $52,498 | — | ⏳ Pendiente |
