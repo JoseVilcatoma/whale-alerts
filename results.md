@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 11:58:35 (hora de Perú)
+Actualizado: 2026-09-20 12:00:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3276**  ($176,616,849 en total)
+- Apuestas registradas: **3279**  ($176,836,143 en total)
 - Resueltas: **3151** — 1906 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 109
+- Pendientes: 112
 - Apostadores distintos: 438
 
 ### Balance
@@ -30,8 +30,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 65 | 47 | 2 | 58% | $5,231,035 | +$610,220 |
+| wr0ngw4yb3tt0r | 48 | 28 | 10 | 63% | $4,620,856 | -$132,094 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 48 | 28 | 9 | 63% | $4,586,178 | -$132,094 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
 | Sassy-Bucket | 29 | 31 | 3 | 48% | $3,157,639 | -$228,159 |
@@ -48,8 +48,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| surfandturf | 10 | 2 | 1 | 83% | $1,368,518 | +$117,566 |
 | Jsram | 14 | 14 | 3 | 50% | $1,337,042 | -$196,221 |
-| surfandturf | 10 | 2 | 0 | 83% | $1,299,768 | +$117,566 |
 | SDTrading | 18 | 22 | 3 | 45% | $1,280,596 | -$194,283 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 1 | 33% | $1,228,977 | -$469,491 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $115,866 | — | ⏳ Pendiente |
+| surfandturf | Panthers vs. Falcons | Panthers | 1.82 (55¢) | $68,750 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Spread: Patriots (-5.5) | Patriots | 2.13 (47¢) | $34,679 | — | ⏳ Pendiente |
 | Painfulvoid | Bengals vs. Texans | Texans | 1.72 (58¢) | $28,595 | — | ⏳ Pendiente |
 | Feromont | Spread: Patriots (-4.5) | Steelers | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
 | Herdonia | Eagles vs. Titans | Eagles | 1.33 (75¢) | $67,544 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | maz26 | Spread: BAL (-8.5) | BAL | 2.08 (48¢) | $50,251 | — | ⏳ Pendiente |
 | Kch-Temp | Packers vs. Jets | Jets | 2.56 (39¢) | $29,250 | — | ⏳ Pendiente |
 | beautifulobsession | Will Fulham FC win on 2026-09-20? | No | 1.37 (73¢) | $35,040 | — | ⏳ Pendiente |
-| justwins | Panthers vs. Falcons: O/U 43.5 | Over 43.5 | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
-| SDTrading | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Panthers (-2.5) | Panthers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
