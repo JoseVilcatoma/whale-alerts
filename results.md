@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 15:03:35 (hora de Perú)
+Actualizado: 2026-09-20 15:05:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3338**  ($179,650,440 en total)
+- Apuestas registradas: **3340**  ($179,796,990 en total)
 - Resueltas: **3163** — 1918 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 159
+- Pendientes: 161
 - Apostadores distintos: 440
 
 ### Balance
@@ -45,9 +45,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
+| surfandturf | 10 | 2 | 3 | 83% | $1,540,387 | +$117,566 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| surfandturf | 10 | 2 | 2 | 83% | $1,440,637 | +$117,566 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 14 | 3 | 50% | $1,337,042 | -$196,221 |
 | ethanaz | 10 | 3 | 5 | 77% | $1,322,987 | -$147,797 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $99,750 | — | ⏳ Pendiente |
+| Feromont | Spread: Chargers (-6.5) | Chargers | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
 | optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $77,327 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 440 en total)_
 | ferrariChampions2026 | Vikings vs. Bears | Bears | 1.59 (63¢) | $27,204 | — | ⏳ Pendiente |
 | mooseborzoi | Packers vs. Jets | Jets | 2.22 (45¢) | $33,994 | — | ⏳ Pendiente |
 | Donkey14 | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $39,767 | — | ⏳ Pendiente |
-| martingaleking | Vikings vs. Bears | Bears | 1.52 (66¢) | $26,648 | — | ⏳ Pendiente |
-| mooseborzoi | Steelers vs. Patriots | Patriots | 1.47 (68¢) | $115,866 | — | ⏳ Pendiente |
