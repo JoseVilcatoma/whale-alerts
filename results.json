@@ -49336,5 +49336,35 @@
     "status": "pending",
     "ultimo_fill": 1789924101,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6605,
+    "timestamp": 1789924296,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-min-chi-2026-09-20",
+    "title": "Vikings vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 27204.345,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1789924296,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6606,
+    "timestamp": 1789924331,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-gb-nyj-2026-09-20",
+    "title": "Packers vs. Jets",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 32388.933299999997,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789924331,
+    "fills": 1
   }
 ]
