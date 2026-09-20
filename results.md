@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 12:42:25 (hora de Perú)
+Actualizado: 2026-09-20 12:44:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3304**  ($177,819,824 en total)
-- Resueltas: **3152** — 1907 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 136
+- Resueltas: **3155** — 1910 ganadas / 1245 perdidas (**61%** de acierto)
+- Pendientes: 133
 - Apostadores distintos: 438
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,227,150** sobre $170,166,538 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,910** sobre $310,600 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$1,190,180** sobre $170,520,141 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,849** sobre $310,900 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 7 | 3 | 9 | 70% | $1,046,987 | +$213,243 |
 | Talvez10 | 9 | 9 | 2 | 50% | $1,013,373 | +$165,257 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
-| Flaznorp | 15 | 4 | 1 | 79% | $909,393 | +$62,853 |
+| Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | phonesculptor | 12 | 2 | 0 | 86% | $873,288 | -$7,205 |
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
@@ -114,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | raybanman | Saints vs. Ravens | Saints | 4.55 (22¢) | $33,000 | — | ⏳ Pendiente |
 | 177-letsgo | Browns vs. Buccaneers | Buccaneers | 1.28 (78¢) | $46,799 | — | ⏳ Pendiente |
 | raybanman | Spread: BAL (-8.5) | NO | 1.89 (53¢) | $37,250 | — | ⏳ Pendiente |
-| tiger105 | Fulham FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $32,633 | — | ⏳ Pendiente |
+| tiger105 | Fulham FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $32,633 | +$5,759 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 2.50 (40¢) | $27,425 | — | ⏳ Pendiente |
 | theowalcott | Spread: Deportivo Toluca FC (-1.5) | Deportivo Toluca FC | 1.72 (58¢) | $30,062 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Steelers vs. Patriots: O/U 41.5 | Over 41.5 | 2.04 (49¢) | $65,062 | — | ⏳ Pendiente |
