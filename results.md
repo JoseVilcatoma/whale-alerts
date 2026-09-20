@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 05:20:10 (hora de Perú)
+Actualizado: 2026-09-20 05:22:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3164**  ($170,718,273 en total)
-- Resueltas: **3125** — 1885 ganadas / 1240 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 429
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,396,144** sobre $168,866,564 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$10,308** sobre $307,900 (ROI **-3.3%**)
+- **Resultado de los apostadores: -$1,422,207** sobre $168,892,626 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$10,408** sobre $308,000 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 429 en total)_
 | elPolloLoco | Fresno State vs. San Jose State | Fresno State | 1.11 (90¢) | $37,729 | +$4,192 | ✅ Ganada |
 | optimistic-dragon | Vikings vs. Bears | Bears | 1.49 (67¢) | $42,865 | — | ⏳ Pendiente |
 | Diabolical-Prize | Vikings vs. Bears | Vikings | 3.03 (33¢) | $25,399 | — | ⏳ Pendiente |
-| 11111111111111111111112 | LoL: EDward Gaming Youth Team vs T1 Academy (BO1) - World Star Challengers Invitational Group A | T1 Academy | 1.11 (90¢) | $26,062 | — | ⏳ Pendiente |
+| 11111111111111111111112 | LoL: EDward Gaming Youth Team vs T1 Academy (BO1) - World Star Challengers Invitational Group A | T1 Academy | 1.11 (90¢) | $26,062 | -$26,062 | ❌ Perdida |
 | jtwyslljy | Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs | Vitality | 1.47 (68¢) | $27,200 | — | ⏳ Pendiente |
 | ethanaz | James Madison vs. San Diego State | James Madison | 1.08 (93¢) | $181,474 | +$13,659 | ✅ Ganada |
 | 3648393489047 | Fresno State vs. San Jose State | Fresno State | 1.47 (68¢) | $31,491 | +$14,819 | ✅ Ganada |
