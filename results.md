@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 08:36:33 (hora de Perú)
+Actualizado: 2026-09-20 08:38:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3191**  ($171,986,832 en total)
+- Apuestas registradas: **3192**  ($172,018,275 en total)
 - Resueltas: **3126** — 1885 ganadas / 1241 perdidas (**60%** de acierto)
-- Pendientes: 49
+- Pendientes: 50
 - Apostadores distintos: 430
 
 ### Balance
@@ -61,9 +61,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | phonesculptor | 12 | 2 | 0 | 86% | $873,288 | -$7,205 |
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
+| Kch-Temp | 7 | 2 | 6 | 78% | $853,002 | +$254,459 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 14 | 9 | 0 | 61% | $821,930 | -$26,266 |
-| Kch-Temp | 7 | 2 | 5 | 78% | $821,559 | +$254,459 |
 
 _(mostrando los 40 de mayor monto, de 430 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Spread: Bears (-4.5) | Vikings | 1.96 (51¢) | $31,443 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | AFC Bournemouth vs. Liverpool FC: O/U 0.5 | Over 0.5 | 1.09 (92¢) | $72,732 | — | ⏳ Pendiente |
 | SDTrading | Spread: Broncos (-2.5) | Broncos | 1.92 (52¢) | $31,079 | — | ⏳ Pendiente |
 | five5120 | LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs | G2 Esports | 1.43 (70¢) | $40,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 430 en total)_
 | wr0ngw4yb3tt0r | LSU vs. Ole Miss | Ole Miss | 1.19 (84¢) | $42,887 | +$8,169 | ✅ Ganada |
 | 0x6db5…e279 | LSU vs. Ole Miss | Ole Miss | 1.32 (76¢) | $89,152 | +$28,153 | ✅ Ganada |
 | BrotherObama | New York Yankees vs. Arizona Diamondbacks | New York Yankees | 2.22 (45¢) | $40,000 | -$40,000 | ❌ Perdida |
-| phonesculptor | Montana vs. Oregon State | Oregon State | 1.14 (88¢) | $32,120 | +$4,380 | ✅ Ganada |
