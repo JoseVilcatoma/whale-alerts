@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 11:31:39 (hora de Perú)
+Actualizado: 2026-09-20 11:33:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3264**  ($176,157,376 en total)
+- Apuestas registradas: **3265**  ($176,188,286 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 100
+- Pendientes: 101
 - Apostadores distintos: 437
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 437 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | Spread: Panthers (-2.5) | Falcons | 2.00 (50¢) | $30,910 | — | ⏳ Pendiente |
 | raybanman | Saints vs. Ravens | Saints | 4.55 (22¢) | $33,000 | — | ⏳ Pendiente |
 | 177-letsgo | Browns vs. Buccaneers | Buccaneers | 1.28 (78¢) | $46,799 | — | ⏳ Pendiente |
 | raybanman | Spread: BAL (-8.5) | NO | 1.89 (53¢) | $37,250 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 437 en total)_
 | ratatatatatatatataaaa | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.92 (52¢) | $70,200 | — | ⏳ Pendiente |
 | ratatatatatatatataaaa | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.96 (51¢) | $81,236 | — | ⏳ Pendiente |
 | Donkey14 | Panthers vs. Falcons | Panthers | 1.75 (57¢) | $38,276 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Tampa Bay Rays | Tampa Bay Rays | 1.75 (57¢) | $27,225 | — | ⏳ Pendiente |
