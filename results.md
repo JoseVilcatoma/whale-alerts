@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 13:11:43 (hora de Perú)
+Actualizado: 2026-09-20 13:13:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3310**  ($178,167,538 en total)
+- Apuestas registradas: **3312**  ($178,290,023 en total)
 - Resueltas: **3155** — 1910 ganadas / 1245 perdidas (**61%** de acierto)
-- Pendientes: 139
+- Pendientes: 141
 - Apostadores distintos: 438
 
 ### Balance
@@ -50,10 +50,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | surfandturf | 10 | 2 | 1 | 83% | $1,368,518 | +$117,566 |
 | Jsram | 14 | 14 | 3 | 50% | $1,337,042 | -$196,221 |
+| ethanaz | 10 | 3 | 5 | 77% | $1,322,987 | -$147,797 |
 | SDTrading | 18 | 22 | 3 | 45% | $1,280,596 | -$194,283 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 2 | 33% | $1,257,497 | -$469,491 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| ethanaz | 10 | 3 | 4 | 77% | $1,242,502 | -$147,797 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 7 | 3 | 9 | 70% | $1,046,987 | +$213,243 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Eagles vs. Titans | Eagles | 1.09 (92¢) | $80,485 | — | ⏳ Pendiente |
+| gambamaster | Vikings vs. Bears | Bears | 1.67 (60¢) | $42,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $68,000 | — | ⏳ Pendiente |
 | Tiger200 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $117,925 | — | ⏳ Pendiente |
 | beeemw | Will US Lecce win on 2026-09-20? | No | 1.06 (94¢) | $67,951 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 438 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jets (-5.5) | Packers | 1.30 (77¢) | $67,329 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jets (-4.5) | Packers | 1.33 (75¢) | $64,743 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
-| justwins | Panthers vs. Falcons | Falcons | 2.27 (44¢) | $69,907 | — | ⏳ Pendiente |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Panthers vs. Falcons | Panthers | 1.79 (56¢) | $31,580 | — | ⏳ Pendiente |
