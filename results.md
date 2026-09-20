@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 11:15:15 (hora de Perú)
+Actualizado: 2026-09-20 11:17:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3256**  ($175,817,671 en total)
+- Apuestas registradas: **3258**  ($175,950,206 en total)
 - Resueltas: **3148** — 1903 ganadas / 1245 perdidas (**60%** de acierto)
-- Pendientes: 92
-- Apostadores distintos: 435
+- Pendientes: 94
+- Apostadores distintos: 436
 
 ### Balance
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 65 | 47 | 2 | 58% | $5,231,035 | +$610,220 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| wr0ngw4yb3tt0r | 48 | 28 | 8 | 63% | $4,521,115 | -$132,094 |
+| wr0ngw4yb3tt0r | 48 | 28 | 9 | 63% | $4,586,178 | -$132,094 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Diabolical-Prize | 28 | 34 | 1 | 45% | $3,255,364 | -$579,176 |
 | Sassy-Bucket | 29 | 31 | 2 | 48% | $3,130,139 | -$228,159 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 10 | 12 | 0 | 45% | $871,794 | -$20,025 |
 | ndb1 | 8 | 7 | 0 | 53% | $846,818 | +$158,221 |
 
-_(mostrando los 40 de mayor monto, de 435 en total)_
+_(mostrando los 40 de mayor monto, de 436 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Steelers vs. Patriots: O/U 41.5 | Over 41.5 | 2.04 (49¢) | $65,062 | — | ⏳ Pendiente |
+| weflyhigh | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.96 (51¢) | $67,472 | — | ⏳ Pendiente |
 | maz26 | Steelers vs. Patriots: O/U 41.5 | Under 41.5 | 1.96 (51¢) | $47,568 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jets (-5.5) | Packers | 1.30 (77¢) | $67,329 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jets (-4.5) | Packers | 1.33 (75¢) | $64,743 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 435 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Bournemouth vs. Liverpool FC end in a draw? | Yes | 2.70 (37¢) | $145,848 | -$145,848 | ❌ Perdida |
 | raybanman | Will Real Madrid CF win on 2026-09-20? | No | 1.92 (52¢) | $55,456 | — | ⏳ Pendiente |
 | wigglew | Eagles vs. Titans | Eagles | 1.33 (75¢) | $130,717 | — | ⏳ Pendiente |
-| justwins | Bengals vs. Texans: O/U 45.5 | Under 45.5 | 1.96 (51¢) | $30,010 | — | ⏳ Pendiente |
-| justwins | Eagles vs. Titans: O/U 39.5 | Under 39.5 | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |

@@ -48946,5 +48946,35 @@
     "status": "pending",
     "ultimo_fill": 1789920174,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6576,
+    "timestamp": 1789920936,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-pit-ne-2026-09-20-total-41pt5",
+    "title": "Steelers vs. Patriots: O/U 41.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 65062.4303,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1789920936,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 6577,
+    "timestamp": 1789920936,
+    "username": "weflyhigh",
+    "wallet": "0x03e8a544e97eeff5753bc1e90d46e5ef22af1697",
+    "slug": "nfl-pit-ne-2026-09-20-total-41pt5",
+    "title": "Steelers vs. Patriots: O/U 41.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 67471.95449999999,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789920936,
+    "fills": 2
   }
 ]
