@@ -47251,5 +47251,35 @@
     "status": "pending",
     "ultimo_fill": 1789878156,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6418,
+    "timestamp": 1789878936,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "nfl-min-chi-2026-09-20",
+    "title": "Vikings vs. Bears",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 25398.502800000002,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "ultimo_fill": 1789878936,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6419,
+    "timestamp": 1789878963,
+    "username": "optimistic-dragon",
+    "wallet": "0xa92f2a035a9920b0b3f61ef7244b958d69e0ea6e",
+    "slug": "nfl-min-chi-2026-09-20",
+    "title": "Vikings vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 42864.999999,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1789878963,
+    "fills": 1
   }
 ]
