@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-19 23:11:05 (hora de Perú)
+Actualizado: 2026-09-19 23:13:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3140**  ($169,376,645 en total)
+- Apuestas registradas: **3141**  ($169,558,119 en total)
 - Resueltas: **3097** — 1864 ganadas / 1233 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 426
 
 ### Balance
@@ -53,10 +53,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 7 | 14 | 0 | 33% | $1,197,397 | -$469,491 |
 | surfandturf | 7 | 2 | 1 | 78% | $1,195,602 | +$15,557 |
 | SDTrading | 18 | 22 | 0 | 45% | $1,177,356 | -$194,283 |
+| ethanaz | 9 | 3 | 1 | 75% | $1,110,448 | -$161,456 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Jsram | 13 | 14 | 0 | 48% | $1,060,561 | -$216,221 |
 | Talvez10 | 9 | 9 | 0 | 50% | $957,905 | +$165,257 |
-| ethanaz | 9 | 3 | 0 | 75% | $928,974 | -$161,456 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | phonesculptor | 11 | 2 | 1 | 85% | $873,288 | -$11,585 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | James Madison vs. San Diego State | James Madison | 1.08 (93¢) | $181,474 | — | ⏳ Pendiente |
 | 3648393489047 | Fresno State vs. San Jose State | Fresno State | 1.47 (68¢) | $31,491 | — | ⏳ Pendiente |
 | Takon88 | Will Real Madrid CF win on 2026-09-20? | No | 1.92 (52¢) | $114,059 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | James Madison vs. San Diego State | James Madison | 1.16 (86¢) | $26,768 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 426 en total)_
 | wr0ngw4yb3tt0r | San Francisco Giants vs. Los Angeles Dodgers: O/U 7.5 | Over 7.5 | 2.08 (48¢) | $32,843 | — | ⏳ Pendiente |
 | pleaseplease123 | Washington Nationals vs. St. Louis Cardinals | Washington Nationals | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | HMLSF | Kansas City Royals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.92 (52¢) | $27,361 | +$25,256 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Temple vs. Toledo | Temple | 1.43 (70¢) | $29,991 | -$29,991 | ❌ Perdida |
