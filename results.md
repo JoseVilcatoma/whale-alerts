@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 22:42:26 (hora de Perú)
+Actualizado: 2026-09-20 22:44:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3399**  ($183,091,391 en total)
+- Apuestas registradas: **3400**  ($183,117,648 en total)
 - Resueltas: **3352** — 2027 ganadas / 1325 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 445
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| curie | Colts vs. Chiefs: O/U 57.5 | Over 57.5 | 1.10 (91¢) | $26,257 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
 | ethanaz | Colts vs. Chiefs | Chiefs | 1.43 (70¢) | $40,353 | — | ⏳ Pendiente |
 | surfandturf | Colts vs. Chiefs | Chiefs | 1.69 (59¢) | $26,296 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | Berniepaidoff | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $50,000 | -$758 | 💰 Vendida antes |
 | 3648393489047 | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $26,400 | +$13,600 | ✅ Ganada |
 | Elaran1993 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $477,695 | +$246,085 | ✅ Ganada |
-| surfandturf | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $99,750 | +$75,250 | ✅ Ganada |
