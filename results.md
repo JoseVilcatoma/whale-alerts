@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 20:18:19 (hora de Perú)
+Actualizado: 2026-09-20 20:20:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3382**  ($182,478,399 en total)
-- Resueltas: **3336** — 2018 ganadas / 1318 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Resueltas: **3344** — 2022 ganadas / 1322 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 442
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,156,621** sobre $180,027,551 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$9,482** sobre $328,800 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$1,098,527** sobre $180,722,501 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$9,478** sobre $329,600 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 69 | 0 | 54% | $6,162,969 | -$205,672 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 66 | 50 | 1 | 57% | $5,353,186 | +$551,147 |
-| wr0ngw4yb3tt0r | 52 | 34 | 3 | 60% | $4,734,761 | -$426,044 |
+| pleaseplease123 | 67 | 50 | 0 | 57% | $5,353,186 | +$650,173 |
+| wr0ngw4yb3tt0r | 54 | 34 | 1 | 61% | $4,734,761 | -$178,355 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | ferrariChampions2026 | 30 | 19 | 1 | 61% | $1,990,583 | -$514,500 |
-| BrotherObama | 21 | 22 | 2 | 49% | $1,945,334 | +$112,631 |
+| BrotherObama | 22 | 22 | 1 | 50% | $1,945,334 | +$143,780 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | surfandturf | 15 | 2 | 1 | 88% | $1,794,372 | +$280,596 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
-| SDTrading | 19 | 23 | 2 | 45% | $1,307,596 | -$196,957 |
+| SDTrading | 19 | 24 | 1 | 44% | $1,307,596 | -$237,757 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 14 | 0 | 39% | $1,257,497 | -$427,198 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | Talvez10 | 11 | 10 | 0 | 52% | $1,046,960 | +$193,981 |
 | ndb1 | 11 | 7 | 0 | 61% | $977,951 | +$195,076 |
-| maz26 | 8 | 5 | 1 | 62% | $950,222 | -$11,645 |
+| maz26 | 8 | 6 | 0 | 57% | $950,222 | -$162,214 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -114,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 | 3648393489047 | Seahawks vs. Cardinals | Seahawks | 1.52 (66¢) | $26,400 | +$13,600 | ✅ Ganada |
 | Elaran1993 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $477,695 | +$246,085 | ✅ Ganada |
 | surfandturf | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $99,750 | +$75,250 | ✅ Ganada |
-| Feromont | Spread: Chargers (-6.5) | Chargers | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
+| Feromont | Spread: Chargers (-6.5) | Chargers | 1.92 (52¢) | $46,800 | -$46,800 | ❌ Perdida |
 | optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | -$6,148 | 💰 Vendida antes |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $40,000 | -$40,000 | ❌ Perdida |
 | Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $77,327 | +$87,198 | ✅ Ganada |
