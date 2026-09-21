@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 22:28:06 (hora de Perú)
+Actualizado: 2026-09-20 22:30:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3397**  ($183,025,539 en total)
+- Apuestas registradas: **3398**  ($183,065,891 en total)
 - Resueltas: **3352** — 2027 ganadas / 1325 perdidas (**60%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 445
 
 ### Balance
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| ethanaz | 17 | 4 | 1 | 81% | $1,545,887 | -$77,988 |
+| ethanaz | 17 | 4 | 2 | 81% | $1,586,239 | -$77,988 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Colts vs. Chiefs | Chiefs | 1.43 (70¢) | $40,353 | — | ⏳ Pendiente |
 | surfandturf | Colts vs. Chiefs | Chiefs | 1.69 (59¢) | $26,296 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.72 (58¢) | $25,829 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Chiefs | Colts | 2.13 (47¢) | $27,804 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | Elaran1993 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $477,695 | +$246,085 | ✅ Ganada |
 | surfandturf | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $99,750 | +$75,250 | ✅ Ganada |
 | Feromont | Spread: Chargers (-6.5) | Chargers | 1.92 (52¢) | $46,800 | -$46,800 | ❌ Perdida |
-| optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | -$6,148 | 💰 Vendida antes |
