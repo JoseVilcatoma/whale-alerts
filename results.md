@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 21:39:32 (hora de Perú)
+Actualizado: 2026-09-20 21:41:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3389**  ($182,785,924 en total)
+- Apuestas registradas: **3390**  ($182,811,124 en total)
 - Resueltas: **3351** — 2026 ganadas / 1325 perdidas (**60%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 442
+- Pendientes: 23
+- Apostadores distintos: 443
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 
-_(mostrando los 40 de mayor monto, de 442 en total)_
+_(mostrando los 40 de mayor monto, de 443 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Colts vs. Chiefs | Chiefs | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.27 (79¢) | $89,454 | — | ⏳ Pendiente |
 | User1244322 | Colts vs. Chiefs | Chiefs | 1.35 (74¢) | $36,813 | — | ⏳ Pendiente |
 | User1244322 | Colts vs. Chiefs | Colts | 2.50 (40¢) | $36,821 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 | Sassy-Bucket | Washington Mystics vs. Indiana Fever | Indiana Fever | 1.47 (68¢) | $40,800 | -$40,800 | ❌ Perdida |
 | Laskhask | Eagles vs. Titans | Titans | 1.54 (65¢) | $29,539 | -$29,539 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 2.78 (36¢) | $70,874 | +$125,998 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-6.5) | Titans | 1.06 (94¢) | $32,847 | +$2,097 | ✅ Ganada |
