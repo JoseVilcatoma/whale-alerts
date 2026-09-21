@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 21:02:12 (hora de Perú)
+Actualizado: 2026-09-20 21:04:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3385**  ($182,591,553 en total)
+- Apuestas registradas: **3386**  ($182,622,835 en total)
 - Resueltas: **3348** — 2024 ganadas / 1324 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 442
 
 ### Balance
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | Talvez10 | 11 | 10 | 0 | 52% | $1,046,960 | +$193,981 |
-| ndb1 | 11 | 7 | 0 | 61% | $977,951 | +$195,076 |
+| ndb1 | 11 | 7 | 1 | 61% | $1,009,233 | +$195,076 |
 | maz26 | 8 | 6 | 0 | 57% | $950,222 | -$162,214 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Colts vs. Chiefs | Chiefs | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs | Chiefs | 1.61 (62¢) | $40,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts | 2.56 (39¢) | $47,785 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Chiefs: O/U 57.5 | Over 57.5 | 1.61 (62¢) | $25,369 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 | AnonymousUsername | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $47,775 | +$5,905 | ✅ Ganada |
 | surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $72,119 | +$8,914 | ✅ Ganada |
 | Laskhask | Browns vs. Buccaneers | Buccaneers | 1.47 (68¢) | $52,208 | -$52,208 | ❌ Perdida |
-| Donkey14 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $30,291 | +$3,744 | ✅ Ganada |
