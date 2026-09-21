@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 21:14:24 (hora de Perú)
+Actualizado: 2026-09-20 21:16:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3387**  ($182,659,656 en total)
+- Apuestas registradas: **3388**  ($182,696,470 en total)
 - Resueltas: **3349** — 2024 ganadas / 1325 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 442
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| User1244322 | Colts vs. Chiefs | Chiefs | 1.35 (74¢) | $36,813 | — | ⏳ Pendiente |
 | User1244322 | Colts vs. Chiefs | Colts | 2.50 (40¢) | $36,821 | — | ⏳ Pendiente |
 | ndb1 | Colts vs. Chiefs | Chiefs | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs | Chiefs | 1.61 (62¢) | $40,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 2.78 (36¢) | $70,874 | +$125,998 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-6.5) | Titans | 1.06 (94¢) | $32,847 | +$2,097 | ✅ Ganada |
 | AnonymousUsername | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $47,775 | +$5,905 | ✅ Ganada |
-| surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $72,119 | +$8,914 | ✅ Ganada |
