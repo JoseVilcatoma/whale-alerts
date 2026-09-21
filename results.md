@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 00:59:31 (hora de Perú)
+Actualizado: 2026-09-21 01:01:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3402**  ($183,251,290 en total)
-- Resueltas: **3384** — 2049 ganadas / 1335 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Resueltas: **3386** — 2051 ganadas / 1335 perdidas (**61%** de acierto)
+- Pendientes: 0
 - Apostadores distintos: 445
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,296,997** sobre $182,555,065 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,428** sobre $333,500 (ROI **-2.8%**)
+- **Resultado de los apostadores: -$1,227,997** sobre $182,636,065 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,257** sobre $333,700 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
-| SDTrading | 19 | 24 | 1 | 44% | $1,307,596 | -$237,757 |
+| SDTrading | 20 | 24 | 0 | 45% | $1,307,596 | -$214,757 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 14 | 0 | 39% | $1,257,497 | -$427,198 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
@@ -102,8 +102,8 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | primm | Colts vs. Chiefs: O/U 45.5 | Over 45.5 | 2.00 (50¢) | $41,396 | +$41,396 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $44,896 | -$44,896 | ❌ Perdida |
 | Tiger200 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $79,457 | -$79,457 | ❌ Perdida |
-| taylorsversion | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $54,000 | — | ⏳ Pendiente |
-| SDTrading | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
+| taylorsversion | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $54,000 | +$46,000 | ✅ Ganada |
+| SDTrading | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | OhWhenTheReds | Deportivo Toluca FC vs. Club Santos Laguna: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $25,189 | -$25,189 | ❌ Perdida |
 | kkookkoo | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.49 (67¢) | $45,000 | +$22,164 | ✅ Ganada |
 | mooseborzoi | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.52 (66¢) | $26,577 | +$13,691 | ✅ Ganada |
