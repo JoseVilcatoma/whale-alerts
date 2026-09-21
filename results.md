@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 22:19:56 (hora de Perú)
+Actualizado: 2026-09-20 22:21:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3395**  ($182,973,414 en total)
+- Apuestas registradas: **3397**  ($183,025,539 en total)
 - Resueltas: **3352** — 2027 ganadas / 1325 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Pendientes: 29
 - Apostadores distintos: 445
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 247 | 128 | 5 | 66% | $24,932,312 | +$978,670 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 247 | 128 | 6 | 66% | $24,958,141 | +$978,670 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 69 | 0 | 54% | $6,162,969 | -$205,672 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -42,8 +42,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 30 | 19 | 5 | 61% | $2,161,310 | -$514,500 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | BrotherObama | 22 | 22 | 1 | 50% | $1,945,334 | +$143,780 |
+| surfandturf | 16 | 2 | 1 | 89% | $1,820,668 | +$292,596 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| surfandturf | 16 | 2 | 0 | 89% | $1,794,372 | +$292,596 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | ethanaz | 17 | 4 | 1 | 81% | $1,545,887 | -$77,988 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Colts vs. Chiefs | Chiefs | 1.69 (59¢) | $26,296 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.72 (58¢) | $25,829 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Chiefs | Colts | 2.13 (47¢) | $27,804 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.89 (53¢) | $28,101 | — | ⏳ Pendiente |
 | KaneAnalytics | Colts vs. Chiefs | Colts | 2.22 (45¢) | $26,185 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | surfandturf | Jaguars vs. Broncos | Broncos | 1.75 (57¢) | $99,750 | +$75,250 | ✅ Ganada |
 | Feromont | Spread: Chargers (-6.5) | Chargers | 1.92 (52¢) | $46,800 | -$46,800 | ❌ Perdida |
 | optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | -$6,148 | 💰 Vendida antes |
-| pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $40,000 | -$40,000 | ❌ Perdida |
-| Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $77,327 | +$87,198 | ✅ Ganada |
