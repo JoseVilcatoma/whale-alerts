@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 21:37:29 (hora de Perú)
+Actualizado: 2026-09-20 21:39:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3389**  ($182,785,924 en total)
-- Resueltas: **3349** — 2024 ganadas / 1325 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Resueltas: **3351** — 2026 ganadas / 1325 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 442
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,189,074** sobre $180,943,251 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,561** sobre $330,100 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$1,153,219** sobre $181,014,828 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$9,460** sobre $330,300 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,8 +92,8 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 | taylorsversion | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $54,000 | — | ⏳ Pendiente |
 | SDTrading | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | OhWhenTheReds | Deportivo Toluca FC vs. Club Santos Laguna: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $25,189 | — | ⏳ Pendiente |
-| kkookkoo | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.49 (67¢) | $45,000 | — | ⏳ Pendiente |
-| mooseborzoi | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.52 (66¢) | $26,577 | — | ⏳ Pendiente |
+| kkookkoo | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.49 (67¢) | $45,000 | +$22,164 | ✅ Ganada |
+| mooseborzoi | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.52 (66¢) | $26,577 | +$13,691 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Raiders vs. Chargers | Raiders | 1.92 (52¢) | $33,287 | +$30,726 | ✅ Ganada |
 | rf13g145g41g4g4 | Raiders vs. Chargers | Raiders | 1.64 (61¢) | $52,869 | +$33,802 | ✅ Ganada |
 | ethanaz | Commanders vs. Cowboys | Cowboys | 1.39 (72¢) | $38,515 | +$14,978 | ✅ Ganada |
