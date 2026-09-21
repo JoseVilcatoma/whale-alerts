@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 00:49:19 (hora de Perú)
+Actualizado: 2026-09-21 00:51:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3402**  ($183,251,290 en total)
-- Resueltas: **3382** — 2047 ganadas / 1335 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **3384** — 2049 ganadas / 1335 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 445
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,315,142** sobre $182,503,440 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,499** sobre $333,300 (ROI **-2.8%**)
+- **Resultado de los apostadores: -$1,296,997** sobre $182,555,065 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,428** sobre $333,500 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| ferrariChampions2026 | 33 | 20 | 1 | 62% | $2,161,310 | -$469,946 |
+| ferrariChampions2026 | 34 | 20 | 0 | 63% | $2,161,310 | -$454,397 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | BrotherObama | 22 | 22 | 1 | 50% | $1,945,334 | +$143,780 |
 | surfandturf | 17 | 2 | 0 | 89% | $1,820,668 | +$310,869 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.23 (81¢) | $46,362 | +$10,875 | ✅ Ganada |
 | TKD44 | Colts vs. Chiefs | Colts | 3.45 (29¢) | $87,281 | -$87,281 | ❌ Perdida |
-| curie | Colts vs. Chiefs: O/U 57.5 | Over 57.5 | 1.10 (91¢) | $26,257 | — | ⏳ Pendiente |
+| curie | Colts vs. Chiefs: O/U 57.5 | Over 57.5 | 1.10 (91¢) | $26,257 | +$2,597 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | ethanaz | Colts vs. Chiefs | Chiefs | 1.43 (70¢) | $40,353 | +$17,294 | ✅ Ganada |
 | surfandturf | Colts vs. Chiefs | Chiefs | 1.69 (59¢) | $26,296 | +$18,273 | ✅ Ganada |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | ndb1 | Colts vs. Chiefs | Chiefs | 1.64 (61¢) | $31,282 | +$20,000 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs | Chiefs | 1.61 (62¢) | $40,000 | +$24,516 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts | 2.56 (39¢) | $47,785 | -$47,785 | ❌ Perdida |
-| ferrariChampions2026 | Colts vs. Chiefs: O/U 57.5 | Over 57.5 | 1.61 (62¢) | $25,369 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colts vs. Chiefs: O/U 57.5 | Over 57.5 | 1.61 (62¢) | $25,369 | +$15,548 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.43 (70¢) | $100,206 | +$42,945 | ✅ Ganada |
 | ethanaz | Colts vs. Chiefs | Chiefs | 1.35 (74¢) | $87,875 | +$30,875 | ✅ Ganada |
 | sbsigner | Colts vs. Chiefs | Chiefs | 1.28 (78¢) | $32,237 | +$9,092 | ✅ Ganada |
