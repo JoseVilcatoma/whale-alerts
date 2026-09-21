@@ -50675,5 +50675,20 @@
     "status": "pending",
     "ultimo_fill": 1789949196,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6875,
+    "timestamp": 1789949382,
+    "username": "Tiger200",
+    "wallet": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
+    "slug": "nfl-ind-kc-2026-09-21-total-46pt5",
+    "title": "Colts vs. Chiefs: O/U 46.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 79457.4144,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1789949382,
+    "fills": 1
   }
 ]
