@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 20:54:07 (hora de Perú)
+Actualizado: 2026-09-20 20:56:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3384**  ($182,551,553 en total)
-- Resueltas: **3347** — 2023 ganadas / 1324 perdidas (**60%** de acierto)
+- Apuestas registradas: **3385**  ($182,591,553 en total)
+- Resueltas: **3348** — 2024 ganadas / 1324 perdidas (**60%** de acierto)
 - Pendientes: 21
 - Apostadores distintos: 442
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,196,179** sobre $180,880,154 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,569** sobre $329,900 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$1,159,674** sobre $180,913,851 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$9,461** sobre $330,000 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs | Chiefs | 1.61 (62¢) | $40,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts | 2.56 (39¢) | $47,785 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Chiefs: O/U 57.5 | Over 57.5 | 1.61 (62¢) | $25,369 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.43 (70¢) | $100,206 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 | surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $72,119 | +$8,914 | ✅ Ganada |
 | Laskhask | Browns vs. Buccaneers | Buccaneers | 1.47 (68¢) | $52,208 | -$52,208 | ❌ Perdida |
 | Donkey14 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $30,291 | +$3,744 | ✅ Ganada |
-| rf13g145g41g4g4 | Jaguars vs. Broncos | Jaguars | 2.27 (44¢) | $47,593 | -$47,593 | ❌ Perdida |
