@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 19:51:35 (hora de Perú)
+Actualizado: 2026-09-20 19:53:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3379**  ($182,258,082 en total)
+- Apuestas registradas: **3380**  ($182,290,318 en total)
 - Resueltas: **3330** — 2014 ganadas / 1316 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 442
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sbsigner | Colts vs. Chiefs | Chiefs | 1.28 (78¢) | $32,237 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.69 (59¢) | $34,045 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.49 (67¢) | $40,200 | — | ⏳ Pendiente |
 | surfandturf | Colts vs. Chiefs | Chiefs | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 | TAIWANNUMBERONE | Saints vs. Ravens | Ravens | 1.11 (90¢) | $25,664 | -$25,664 | ❌ Perdida |
 | BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $30,000 | -$30,000 | ❌ Perdida |
 | jaytee158 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $51,498 | +$5,722 | ✅ Ganada |
-| marchettamaker | Valencia CF vs. Real Sociedad de Fútbol: O/U 2.5 | Under 2.5 | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
