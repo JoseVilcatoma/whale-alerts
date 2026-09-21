@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 18:58:17 (hora de Perú)
+Actualizado: 2026-09-20 19:00:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3369**  ($181,685,304 en total)
-- Resueltas: **3324** — 2010 ganadas / 1314 perdidas (**60%** de acierto)
-- Pendientes: 29
+- Apuestas registradas: **3370**  ($181,712,304 en total)
+- Resueltas: **3328** — 2013 ganadas / 1315 perdidas (**60%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,215,768** sobre $179,480,948 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,832** sobre $327,600 (ROI **-3.0%**)
+- **Resultado de los apostadores: -$1,173,501** sobre $179,631,686 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,655** sobre $328,000 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,14 +50,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | ethanaz | 17 | 4 | 0 | 81% | $1,458,012 | -$77,988 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Jsram | 14 | 16 | 1 | 47% | $1,337,042 | -$392,271 |
-| SDTrading | 18 | 23 | 2 | 44% | $1,280,596 | -$225,645 |
+| Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
+| SDTrading | 18 | 23 | 3 | 44% | $1,307,596 | -$225,645 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 14 | 0 | 39% | $1,257,497 | -$427,198 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | xifutloong3 | 17 | 15 | 0 | 53% | $1,065,337 | -$129,945 |
-| Kch-Temp | 10 | 6 | 3 | 62% | $1,046,987 | +$372,860 |
+| Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | Talvez10 | 11 | 10 | 0 | 52% | $1,046,960 | +$193,981 |
 | ndb1 | 11 | 7 | 0 | 61% | $977,951 | +$195,076 |
 | maz26 | 8 | 5 | 1 | 62% | $950,222 | -$11,645 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | OhWhenTheReds | Deportivo Toluca FC vs. Club Santos Laguna: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $25,189 | — | ⏳ Pendiente |
 | kkookkoo | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.49 (67¢) | $45,000 | — | ⏳ Pendiente |
 | mooseborzoi | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.52 (66¢) | $26,577 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $54,929 | -$54,929 | ❌ Perdida |
 | ethanaz | Eagles vs. Titans | Eagles | 1.09 (92¢) | $80,485 | +$6,999 | ✅ Ganada |
 | gambamaster | Vikings vs. Bears | Bears | 1.67 (60¢) | $42,000 | -$42,000 | ❌ Perdida |
-| Sassy-Bucket | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $68,000 | -$68,000 | ❌ Perdida |

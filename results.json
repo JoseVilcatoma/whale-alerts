@@ -47593,7 +47593,7 @@
     "side": "BUY",
     "usd": 50430.88,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789902511,
     "fills": 1
   },
@@ -47653,7 +47653,7 @@
     "side": "BUY",
     "usd": 39149.2002,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789904139,
     "fills": 1
   },
@@ -47743,7 +47743,7 @@
     "side": "BUY",
     "usd": 29714.5878,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789906597,
     "fills": 1
   },
@@ -47983,7 +47983,7 @@
     "side": "BUY",
     "usd": 31443.0147,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789911495,
     "fills": 1
   },
@@ -50644,6 +50644,21 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1789946473,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6872,
+    "timestamp": 1789948786,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "nfl-ind-kc-2026-09-21-spread-home-6pt5",
+    "title": "Spread: Chiefs (-6.5)",
+    "outcome": "Colts",
+    "side": "BUY",
+    "usd": 27000.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1789948786,
     "fills": 1
   }
 ]
