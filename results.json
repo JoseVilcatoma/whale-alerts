@@ -51142,5 +51142,20 @@
     "status": "won",
     "ultimo_fill": 1789962396,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6960,
+    "timestamp": 1789997018,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-lgd-xtreme-2026-09-21",
+    "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - PGL Wallachia Group Stage",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 29999.999999,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1789997018,
+    "fills": 1
   }
 ]
