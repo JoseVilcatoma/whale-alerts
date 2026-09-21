@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 22:03:30 (hora de Perú)
+Actualizado: 2026-09-20 22:05:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3393**  ($182,917,509 en total)
+- Apuestas registradas: **3395**  ($182,973,414 en total)
 - Resueltas: **3352** — 2027 ganadas / 1325 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Pendientes: 27
 - Apostadores distintos: 445
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| ferrariChampions2026 | 30 | 19 | 3 | 61% | $2,105,405 | -$514,500 |
+| ferrariChampions2026 | 30 | 19 | 5 | 61% | $2,161,310 | -$514,500 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | BrotherObama | 22 | 22 | 1 | 50% | $1,945,334 | +$143,780 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Colts vs. Chiefs | Colts | 2.13 (47¢) | $27,804 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.89 (53¢) | $28,101 | — | ⏳ Pendiente |
 | KaneAnalytics | Colts vs. Chiefs | Colts | 2.22 (45¢) | $26,185 | — | ⏳ Pendiente |
 | Soarin22 | Colts vs. Chiefs | Chiefs | 1.47 (68¢) | $25,187 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.30 (77¢) | $55,013 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | optimistic-dragon | Browns vs. Buccaneers | Buccaneers | 1.85 (54¢) | $83,000 | -$6,148 | 💰 Vendida antes |
 | pleaseplease123 | Minnesota Twins vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $40,000 | -$40,000 | ❌ Perdida |
 | Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $77,327 | +$87,198 | ✅ Ganada |
-| jaytee158 | LoL: Team Liquid vs FlyQuest (BO5) - LCS Playoffs | Team Liquid | 1.32 (76¢) | $30,400 | +$9,600 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 1.18 (85¢) | $47,596 | -$47,596 | ❌ Perdida |

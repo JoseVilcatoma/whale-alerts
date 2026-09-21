@@ -51007,5 +51007,35 @@
     "status": "pending",
     "ultimo_fill": 1789959790,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6921,
+    "timestamp": 1789959868,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-ind-kc-2026-09-21",
+    "title": "Colts vs. Chiefs",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 28101.225400000003,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789959868,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6922,
+    "timestamp": 1789959909,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-ind-kc-2026-09-21",
+    "title": "Colts vs. Chiefs",
+    "outcome": "Colts",
+    "side": "BUY",
+    "usd": 27803.5127,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1789959909,
+    "fills": 1
   }
 ]
