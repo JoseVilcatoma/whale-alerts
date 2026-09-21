@@ -39,38 +39,6 @@
     "username": "JnStrtPrdctnMrkts",
     "added_at": 1789349451.6111715
   },
-  "0xa8cf2ed8751f4e58ad039e1b68a8b58b4395031f": {
-    "username": "",
-    "added_at": 1789353057.367998
-  },
-  "0x0f35109cc3ceaf729609c3109310791bd616c84a": {
-    "username": "",
-    "added_at": 1789353057.367998
-  },
-  "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
-    "username": "theowalcott",
-    "added_at": 1789356931.7884362
-  },
-  "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b": {
-    "username": "cosmicxbt",
-    "added_at": 1789356931.7884362
-  },
-  "0x7b023e54b7e217d16784ec8faa71e5dae0221fdd": {
-    "username": "shadyjdz",
-    "added_at": 1789356931.7884362
-  },
-  "0x68df8708aadb901618f11abf2471805a66a24815": {
-    "username": "TKD44",
-    "added_at": 1789356931.7884362
-  },
-  "0xb1c27773dbe9bb5c45bcd10ca8575af4344f891a": {
-    "username": "judgejowday",
-    "added_at": 1789356931.7884362
-  },
-  "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
-    "username": "SDTrading",
-    "added_at": 1789356931.7884362
-  },
   "0x6575759174ad221bba9947bc3f18750ec769b198": {
     "username": "dromedaryy",
     "added_at": 1789360540.8632545
@@ -346,5 +314,13 @@
   "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3": {
     "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
     "added_at": 1789958235.902803
+  },
+  "0x054964a95e2cb3fc2105a62a1edf3da44979c052": {
+    "username": "COMEONDUDE",
+    "added_at": 1789962444.3611932
+  },
+  "0xb9c7d35d1f04d08624fabcfd3b6cee2d3c9baade": {
+    "username": "taylorsversion",
+    "added_at": 1789962444.3611932
   }
 }
