@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 22:01:28 (hora de Perú)
+Actualizado: 2026-09-20 22:03:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3392**  ($182,891,324 en total)
+- Apuestas registradas: **3393**  ($182,917,509 en total)
 - Resueltas: **3352** — 2027 ganadas / 1325 perdidas (**60%** de acierto)
-- Pendientes: 24
-- Apostadores distintos: 444
+- Pendientes: 25
+- Apostadores distintos: 445
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 
-_(mostrando los 40 de mayor monto, de 444 en total)_
+_(mostrando los 40 de mayor monto, de 445 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Colts vs. Chiefs | Colts | 2.22 (45¢) | $26,185 | — | ⏳ Pendiente |
 | Soarin22 | Colts vs. Chiefs | Chiefs | 1.47 (68¢) | $25,187 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.30 (77¢) | $55,013 | — | ⏳ Pendiente |
 | 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Colts vs. Chiefs | Chiefs | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 444 en total)_
 | Laskhask | Browns vs. Buccaneers | Browns | 2.13 (47¢) | $77,327 | +$87,198 | ✅ Ganada |
 | jaytee158 | LoL: Team Liquid vs FlyQuest (BO5) - LCS Playoffs | Team Liquid | 1.32 (76¢) | $30,400 | +$9,600 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 1.18 (85¢) | $47,596 | -$47,596 | ❌ Perdida |
-| Sassy-Bucket | Washington Mystics vs. Indiana Fever | Indiana Fever | 1.47 (68¢) | $40,800 | -$40,800 | ❌ Perdida |

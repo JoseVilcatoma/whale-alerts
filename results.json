@@ -50992,5 +50992,20 @@
     "status": "pending",
     "ultimo_fill": 1789959545,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6920,
+    "timestamp": 1789959790,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "nfl-ind-kc-2026-09-21",
+    "title": "Colts vs. Chiefs",
+    "outcome": "Colts",
+    "side": "BUY",
+    "usd": 26184.987,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1789959790,
+    "fills": 1
   }
 ]
