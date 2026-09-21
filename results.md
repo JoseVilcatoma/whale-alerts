@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 21:51:21 (hora de Perú)
+Actualizado: 2026-09-20 21:53:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3390**  ($182,811,124 en total)
+- Apuestas registradas: **3391**  ($182,866,137 en total)
 - Resueltas: **3352** — 2027 ganadas / 1325 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 443
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 247 | 128 | 4 | 66% | $24,877,299 | +$978,670 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 247 | 128 | 5 | 66% | $24,932,312 | +$978,670 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 69 | 0 | 54% | $6,162,969 | -$205,672 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 443 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.30 (77¢) | $55,013 | — | ⏳ Pendiente |
 | 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Colts vs. Chiefs | Chiefs | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.27 (79¢) | $89,454 | — | ⏳ Pendiente |
 | User1244322 | Colts vs. Chiefs | Chiefs | 1.35 (74¢) | $36,813 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 443 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Jets | Jets | 1.18 (85¢) | $47,596 | -$47,596 | ❌ Perdida |
 | Sassy-Bucket | Washington Mystics vs. Indiana Fever | Indiana Fever | 1.47 (68¢) | $40,800 | -$40,800 | ❌ Perdida |
 | Laskhask | Eagles vs. Titans | Titans | 1.54 (65¢) | $29,539 | -$29,539 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Titans | Eagles | 2.78 (36¢) | $70,874 | +$125,998 | ✅ Ganada |
