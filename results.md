@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 19:06:28 (hora de Perú)
+Actualizado: 2026-09-20 19:08:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3370**  ($181,712,304 en total)
+- Apuestas registradas: **3371**  ($181,766,304 en total)
 - Resueltas: **3329** — 2013 ganadas / 1316 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 441
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| taylorsversion | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $54,000 | — | ⏳ Pendiente |
 | SDTrading | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | OhWhenTheReds | Deportivo Toluca FC vs. Club Santos Laguna: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $25,189 | — | ⏳ Pendiente |
 | kkookkoo | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.49 (67¢) | $45,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 441 en total)_
 | Talvez10 | New York Yankees vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.89 (53¢) | $33,587 | +$29,785 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Cowboys | Commanders | 2.94 (34¢) | $54,929 | -$54,929 | ❌ Perdida |
 | ethanaz | Eagles vs. Titans | Eagles | 1.09 (92¢) | $80,485 | +$6,999 | ✅ Ganada |
-| gambamaster | Vikings vs. Bears | Bears | 1.67 (60¢) | $42,000 | -$42,000 | ❌ Perdida |
