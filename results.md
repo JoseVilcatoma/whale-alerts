@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 10:45:47 (hora de Perú)
+Actualizado: 2026-09-21 10:47:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3409**  ($183,466,918 en total)
-- Resueltas: **3386** — 2051 ganadas / 1335 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **3387** — 2051 ganadas / 1336 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 445
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,227,997** sobre $182,636,065 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,257** sobre $333,700 (ROI **-2.8%**)
+- **Resultado de los apostadores: -$1,263,601** sobre $182,671,669 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,357** sobre $333,800 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 67 | 50 | 0 | 57% | $5,353,186 | +$650,173 |
 | wr0ngw4yb3tt0r | 54 | 36 | 0 | 60% | $4,782,546 | -$252,386 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Diabolical-Prize | 29 | 34 | 3 | 46% | $3,349,759 | -$527,610 |
+| Diabolical-Prize | 29 | 35 | 2 | 45% | $3,349,759 | -$563,214 |
 | Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $27,570 | — | ⏳ Pendiente |
 | 177-letsgo | Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska | Nadia Podoroska | 1.18 (85¢) | $25,358 | — | ⏳ Pendiente |
 | bloodmaster | LoL: Skillcamp Esport vs Arctic Pandas (BO3) - EMEA Masters Group A | Skillcamp Esport | 1.09 (92¢) | $29,876 | — | ⏳ Pendiente |
-| Diabolical-Prize | Dota 2: Yakult Brothers vs PlayTime - Game 2 Winner | PlayTime | 2.33 (43¢) | $35,604 | — | ⏳ Pendiente |
+| Diabolical-Prize | Dota 2: Yakult Brothers vs PlayTime - Game 2 Winner | PlayTime | 2.33 (43¢) | $35,604 | -$35,604 | ❌ Perdida |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - PGL Wallachia Group Stage | LGD Gaming | 1.59 (63¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.23 (81¢) | $46,362 | +$10,875 | ✅ Ganada |
 | TKD44 | Colts vs. Chiefs | Colts | 3.45 (29¢) | $87,281 | -$87,281 | ❌ Perdida |
