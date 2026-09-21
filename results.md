@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 20:24:41 (hora de Perú)
+Actualizado: 2026-09-20 20:26:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3382**  ($182,478,399 en total)
-- Resueltas: **3344** — 2022 ganadas / 1322 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Resueltas: **3347** — 2023 ganadas / 1324 perdidas (**60%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 442
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,098,527** sobre $180,722,501 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$9,478** sobre $329,600 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$1,196,179** sobre $180,880,154 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,569** sobre $329,900 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 67 | 50 | 0 | 57% | $5,353,186 | +$650,173 |
-| wr0ngw4yb3tt0r | 54 | 34 | 1 | 61% | $4,734,761 | -$178,355 |
+| wr0ngw4yb3tt0r | 54 | 35 | 0 | 61% | $4,734,761 | -$204,601 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -106,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 | surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $40,176 | +$4,966 | ✅ Ganada |
 | surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $142,808 | +$17,650 | ✅ Ganada |
 | Tiger200 | Spread: 49ers (-13.5) | Dolphins | 1.92 (52¢) | $130,095 | -$130,095 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Commanders vs. Cowboys: O/U 51.5 | Under 51.5 | 1.92 (52¢) | $26,246 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Commanders vs. Cowboys: O/U 51.5 | Under 51.5 | 1.92 (52¢) | $26,246 | -$26,246 | ❌ Perdida |
 | maz26 | Spread: 49ers (-13.5) | 49ers | 2.13 (47¢) | $94,000 | +$106,000 | ✅ Ganada |
 | Sassy-Bucket | San Francisco Giants vs. Los Angeles Dodgers | San Francisco Giants | 3.45 (29¢) | $28,609 | -$28,609 | ❌ Perdida |
 | taylorsversion | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $118,140 | +$60,860 | ✅ Ganada |
