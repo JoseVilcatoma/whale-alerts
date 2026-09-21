@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 16:59:55 (hora de Perú)
+Actualizado: 2026-09-21 17:01:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3409**  ($183,466,918 en total)
+- Apuestas registradas: **3410**  ($183,494,295 en total)
 - Resueltas: **3392** — 2054 ganadas / 1338 perdidas (**61%** de acierto)
-- Pendientes: 1
+- Pendientes: 2
 - Apostadores distintos: 445
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.89 (53¢) | $27,377 | — | ⏳ Pendiente |
 | BrotherObama | Minnesota Twins vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.27 (44¢) | $31,220 | +$39,735 | ✅ Ganada |
 | Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $27,570 | +$38,073 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | ferrariChampions2026 | Raiders vs. Chargers | Chargers | 1.49 (67¢) | $31,534 | -$31,534 | ❌ Perdida |
 | optimistic-dragon | Raiders vs. Chargers | Raiders | 3.03 (33¢) | $39,600 | +$80,400 | ✅ Ganada |
 | ndb1 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $58,235 | +$30,000 | ✅ Ganada |
-| surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $40,176 | +$4,966 | ✅ Ganada |
