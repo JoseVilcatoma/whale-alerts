@@ -50840,5 +50840,35 @@
     "status": "pending",
     "ultimo_fill": 1789952326,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 6904,
+    "timestamp": 1789955554,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-ind-kc-2026-09-21-total-57pt5",
+    "title": "Colts vs. Chiefs: O/U 57.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25368.54,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1789955554,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6905,
+    "timestamp": 1789955629,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-ind-kc-2026-09-21",
+    "title": "Colts vs. Chiefs",
+    "outcome": "Colts",
+    "side": "BUY",
+    "usd": 47785.2258,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1789955629,
+    "fills": 1
   }
 ]

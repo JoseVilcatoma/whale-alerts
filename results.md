@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 20:52:01 (hora de Perú)
+Actualizado: 2026-09-20 20:54:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3382**  ($182,478,399 en total)
+- Apuestas registradas: **3384**  ($182,551,553 en total)
 - Resueltas: **3347** — 2023 ganadas / 1324 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Pendientes: 21
 - Apostadores distintos: 442
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 67 | 50 | 0 | 57% | $5,353,186 | +$650,173 |
-| wr0ngw4yb3tt0r | 54 | 35 | 0 | 61% | $4,734,761 | -$204,601 |
+| wr0ngw4yb3tt0r | 54 | 35 | 1 | 61% | $4,782,546 | -$204,601 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -39,8 +39,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
+| ferrariChampions2026 | 30 | 19 | 2 | 61% | $2,015,951 | -$514,500 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
-| ferrariChampions2026 | 30 | 19 | 1 | 61% | $1,990,583 | -$514,500 |
 | BrotherObama | 22 | 22 | 1 | 50% | $1,945,334 | +$143,780 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | surfandturf | 15 | 2 | 1 | 88% | $1,794,372 | +$280,596 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts | 2.56 (39¢) | $47,785 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colts vs. Chiefs: O/U 57.5 | Over 57.5 | 1.61 (62¢) | $25,369 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.43 (70¢) | $100,206 | — | ⏳ Pendiente |
 | ethanaz | Colts vs. Chiefs | Chiefs | 1.35 (74¢) | $87,875 | — | ⏳ Pendiente |
 | sbsigner | Colts vs. Chiefs | Chiefs | 1.28 (78¢) | $32,237 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 | Laskhask | Browns vs. Buccaneers | Buccaneers | 1.47 (68¢) | $52,208 | -$52,208 | ❌ Perdida |
 | Donkey14 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $30,291 | +$3,744 | ✅ Ganada |
 | rf13g145g41g4g4 | Jaguars vs. Broncos | Jaguars | 2.27 (44¢) | $47,593 | -$47,593 | ❌ Perdida |
-| Laskhask | Eagles vs. Titans | Eagles | 1.41 (71¢) | $55,932 | +$22,845 | ✅ Ganada |
-| TAIWANNUMBERONE | Saints vs. Ravens | Ravens | 1.11 (90¢) | $25,664 | -$25,664 | ❌ Perdida |
