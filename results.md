@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 19:20:50 (hora de Perú)
+Actualizado: 2026-09-20 19:22:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3375**  ($181,957,752 en total)
+- Apuestas registradas: **3377**  ($182,183,837 en total)
 - Resueltas: **3329** — 2013 ganadas / 1316 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Pendientes: 32
 - Apostadores distintos: 442
 
 ### Balance
@@ -43,8 +43,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 30 | 19 | 0 | 61% | $1,956,537 | -$514,500 |
 | BrotherObama | 21 | 22 | 2 | 49% | $1,945,334 | +$112,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
+| surfandturf | 15 | 2 | 1 | 88% | $1,794,372 | +$280,596 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| surfandturf | 15 | 2 | 0 | 88% | $1,723,372 | +$280,596 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Colts vs. Chiefs | Chiefs | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
+| mooseborzoi | Colts vs. Chiefs | Colts | 3.45 (29¢) | $155,084 | — | ⏳ Pendiente |
 | everythingisokay | Colts vs. Chiefs | Chiefs | 1.39 (72¢) | $25,699 | — | ⏳ Pendiente |
 | primm | Colts vs. Chiefs: O/U 45.5 | Over 45.5 | 2.00 (50¢) | $41,396 | — | ⏳ Pendiente |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $44,896 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 | marchettamaker | Valencia CF vs. Real Sociedad de Fútbol: O/U 2.5 | Under 2.5 | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | maz26 | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $150,570 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Panthers vs. Falcons | Panthers | 1.16 (86¢) | $56,577 | +$9,210 | ✅ Ganada |
-| ferrariChampions2026 | Saints vs. Ravens | Ravens | 1.12 (89¢) | $57,503 | -$57,503 | ❌ Perdida |
-| ferrariChampions2026 | Eagles vs. Titans | Eagles | 1.16 (86¢) | $53,287 | +$8,675 | ✅ Ganada |
