@@ -48658,7 +48658,7 @@
     "side": "BUY",
     "usd": 29902.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789918514,
     "fills": 1
   },
@@ -50779,6 +50779,21 @@
     "odds_at_bet": 67,
     "status": "pending",
     "ultimo_fill": 1789950309,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6883,
+    "timestamp": 1789950642,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-ind-kc-2026-09-21",
+    "title": "Colts vs. Chiefs",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 34045.3895,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1789950642,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 19:29:04 (hora de Perú)
+Actualizado: 2026-09-20 19:31:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3378**  ($182,224,037 en total)
-- Resueltas: **3329** — 2013 ganadas / 1316 perdidas (**60%** de acierto)
+- Apuestas registradas: **3379**  ($182,258,082 en total)
+- Resueltas: **3330** — 2014 ganadas / 1316 perdidas (**60%** de acierto)
 - Pendientes: 33
 - Apostadores distintos: 442
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,203,447** sobre $179,661,633 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,755** sobre $328,100 (ROI **-3.0%**)
+- **Resultado de los apostadores: -$1,173,545** sobre $179,691,535 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,655** sobre $328,200 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 66 | 50 | 1 | 57% | $5,353,186 | +$551,147 |
-| wr0ngw4yb3tt0r | 51 | 33 | 5 | 61% | $4,734,761 | -$401,574 |
+| wr0ngw4yb3tt0r | 52 | 33 | 4 | 61% | $4,734,761 | -$371,672 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
-| ferrariChampions2026 | 30 | 19 | 0 | 61% | $1,956,537 | -$514,500 |
+| ferrariChampions2026 | 30 | 19 | 1 | 61% | $1,990,583 | -$514,500 |
 | BrotherObama | 21 | 22 | 2 | 49% | $1,945,334 | +$112,631 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | surfandturf | 15 | 2 | 1 | 88% | $1,794,372 | +$280,596 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.69 (59¢) | $34,045 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.49 (67¢) | $40,200 | — | ⏳ Pendiente |
 | surfandturf | Colts vs. Chiefs | Chiefs | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | mooseborzoi | Colts vs. Chiefs | Colts | 3.45 (29¢) | $155,084 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 | BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $30,000 | -$30,000 | ❌ Perdida |
 | jaytee158 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $51,498 | +$5,722 | ✅ Ganada |
 | marchettamaker | Valencia CF vs. Real Sociedad de Fútbol: O/U 2.5 | Under 2.5 | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
-| maz26 | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $150,570 | — | ⏳ Pendiente |
