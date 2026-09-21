@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 10:29:22 (hora de Perú)
+Actualizado: 2026-09-21 10:31:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3408**  ($183,430,918 en total)
+- Apuestas registradas: **3409**  ($183,466,918 en total)
 - Resueltas: **3386** — 2051 ganadas / 1335 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 445
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ferrariChampions2026 | 34 | 20 | 0 | 63% | $2,161,310 | -$454,397 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
-| BrotherObama | 22 | 22 | 1 | 50% | $1,945,334 | +$143,780 |
+| BrotherObama | 22 | 22 | 2 | 50% | $1,981,334 | +$143,780 |
 | surfandturf | 17 | 2 | 0 | 89% | $1,820,668 | +$310,869 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Minnesota Twins vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.27 (44¢) | $31,220 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $27,570 | — | ⏳ Pendiente |
 | 177-letsgo | Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska | Nadia Podoroska | 1.18 (85¢) | $25,358 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | optimistic-dragon | Raiders vs. Chargers | Raiders | 3.03 (33¢) | $39,600 | +$80,400 | ✅ Ganada |
 | ndb1 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $58,235 | +$30,000 | ✅ Ganada |
 | surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $40,176 | +$4,966 | ✅ Ganada |
-| surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $142,808 | +$17,650 | ✅ Ganada |
