@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 23:41:57 (hora de Perú)
+Actualizado: 2026-09-20 23:44:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3402**  ($183,251,290 en total)
-- Resueltas: **3379** — 2046 ganadas / 1333 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **3380** — 2047 ganadas / 1333 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 445
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,232,184** sobre $182,337,691 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,399** sobre $333,000 (ROI **-2.8%**)
+- **Resultado de los apostadores: -$1,190,789** sobre $182,379,086 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,299** sobre $333,100 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | surfandturf | Colts vs. Chiefs | Chiefs | 1.41 (71¢) | $71,000 | +$12,000 | 💰 Vendida antes |
 | mooseborzoi | Colts vs. Chiefs | Colts | 3.45 (29¢) | $155,084 | -$155,084 | ❌ Perdida |
 | everythingisokay | Colts vs. Chiefs | Chiefs | 1.39 (72¢) | $25,699 | +$9,994 | ✅ Ganada |
-| primm | Colts vs. Chiefs: O/U 45.5 | Over 45.5 | 2.00 (50¢) | $41,396 | — | ⏳ Pendiente |
+| primm | Colts vs. Chiefs: O/U 45.5 | Over 45.5 | 2.00 (50¢) | $41,396 | +$41,396 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $44,896 | — | ⏳ Pendiente |
 | Tiger200 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $79,457 | — | ⏳ Pendiente |
 | taylorsversion | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $54,000 | — | ⏳ Pendiente |
