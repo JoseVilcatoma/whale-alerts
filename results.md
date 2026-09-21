@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 09:48:23 (hora de Perú)
+Actualizado: 2026-09-21 09:50:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3404**  ($183,316,894 en total)
+- Apuestas registradas: **3405**  ($183,346,770 en total)
 - Resueltas: **3386** — 2051 ganadas / 1335 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 445
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bloodmaster | LoL: Skillcamp Esport vs Arctic Pandas (BO3) - EMEA Masters Group A | Skillcamp Esport | 1.09 (92¢) | $29,876 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: Yakult Brothers vs PlayTime - Game 2 Winner | PlayTime | 2.33 (43¢) | $35,604 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - PGL Wallachia Group Stage | LGD Gaming | 1.59 (63¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.23 (81¢) | $46,362 | +$10,875 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | Tiger200 | Spread: 49ers (-13.5) | Dolphins | 1.92 (52¢) | $130,095 | -$130,095 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Commanders vs. Cowboys: O/U 51.5 | Under 51.5 | 1.92 (52¢) | $26,246 | -$26,246 | ❌ Perdida |
 | maz26 | Spread: 49ers (-13.5) | 49ers | 2.13 (47¢) | $94,000 | +$106,000 | ✅ Ganada |
-| Sassy-Bucket | San Francisco Giants vs. Los Angeles Dodgers | San Francisco Giants | 3.45 (29¢) | $28,609 | -$28,609 | ❌ Perdida |
