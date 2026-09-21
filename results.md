@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 10:12:55 (hora de Perú)
+Actualizado: 2026-09-21 10:14:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3407**  ($183,399,698 en total)
+- Apuestas registradas: **3408**  ($183,430,918 en total)
 - Resueltas: **3386** — 2051 ganadas / 1335 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 445
 
 ### Balance
@@ -32,8 +32,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 67 | 50 | 0 | 57% | $5,353,186 | +$650,173 |
 | wr0ngw4yb3tt0r | 54 | 36 | 0 | 60% | $4,782,546 | -$252,386 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
+| Diabolical-Prize | 29 | 34 | 3 | 46% | $3,349,759 | -$527,610 |
 | Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
-| Diabolical-Prize | 29 | 34 | 2 | 46% | $3,318,539 | -$527,610 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.27 (44¢) | $31,220 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $27,570 | — | ⏳ Pendiente |
 | 177-letsgo | Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska | Nadia Podoroska | 1.18 (85¢) | $25,358 | — | ⏳ Pendiente |
 | bloodmaster | LoL: Skillcamp Esport vs Arctic Pandas (BO3) - EMEA Masters Group A | Skillcamp Esport | 1.09 (92¢) | $29,876 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | ndb1 | Commanders vs. Cowboys | Cowboys | 1.52 (66¢) | $58,235 | +$30,000 | ✅ Ganada |
 | surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $40,176 | +$4,966 | ✅ Ganada |
 | surfandturf | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $142,808 | +$17,650 | ✅ Ganada |
-| Tiger200 | Spread: 49ers (-13.5) | Dolphins | 1.92 (52¢) | $130,095 | -$130,095 | ❌ Perdida |
