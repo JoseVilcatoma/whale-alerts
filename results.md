@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 23:09:14 (hora de Perú)
+Actualizado: 2026-09-20 23:11:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3402**  ($183,251,290 en total)
-- Resueltas: **3352** — 2027 ganadas / 1325 perdidas (**60%** de acierto)
-- Pendientes: 34
+- Resueltas: **3354** — 2027 ganadas / 1327 perdidas (**60%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 445
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,141,219** sobre $181,085,828 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$9,460** sobre $330,300 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$1,196,471** sobre $181,141,079 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,660** sobre $330,500 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | Tiger200 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $79,457 | — | ⏳ Pendiente |
 | taylorsversion | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $54,000 | — | ⏳ Pendiente |
 | SDTrading | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
-| OhWhenTheReds | Deportivo Toluca FC vs. Club Santos Laguna: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $25,189 | — | ⏳ Pendiente |
+| OhWhenTheReds | Deportivo Toluca FC vs. Club Santos Laguna: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $25,189 | -$25,189 | ❌ Perdida |
 | kkookkoo | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.49 (67¢) | $45,000 | +$22,164 | ✅ Ganada |
 | mooseborzoi | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.52 (66¢) | $26,577 | +$13,691 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Raiders vs. Chargers | Raiders | 1.92 (52¢) | $33,287 | +$30,726 | ✅ Ganada |
