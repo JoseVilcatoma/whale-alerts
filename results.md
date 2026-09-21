@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 21:41:32 (hora de Perú)
+Actualizado: 2026-09-20 21:43:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3390**  ($182,811,124 en total)
-- Resueltas: **3351** — 2026 ganadas / 1325 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Resueltas: **3352** — 2027 ganadas / 1325 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 443
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,153,219** sobre $181,014,828 apostados (ROI **-0.6%**)
+- **Resultado de los apostadores: -$1,141,219** sobre $181,085,828 apostados (ROI **-0.6%**)
 - Copiando $100 fijo en cada una: **-$9,460** sobre $330,300 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | BrotherObama | 22 | 22 | 1 | 50% | $1,945,334 | +$143,780 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| surfandturf | 15 | 2 | 1 | 88% | $1,794,372 | +$280,596 |
+| surfandturf | 16 | 2 | 0 | 89% | $1,794,372 | +$292,596 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | ethanaz | 17 | 4 | 1 | 81% | $1,545,887 | -$77,988 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 443 en total)_
 | sbsigner | Colts vs. Chiefs | Chiefs | 1.28 (78¢) | $32,237 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.69 (59¢) | $34,045 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.49 (67¢) | $40,200 | — | ⏳ Pendiente |
-| surfandturf | Colts vs. Chiefs | Chiefs | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
+| surfandturf | Colts vs. Chiefs | Chiefs | 1.41 (71¢) | $71,000 | +$12,000 | 💰 Vendida antes |
 | mooseborzoi | Colts vs. Chiefs | Colts | 3.45 (29¢) | $155,084 | — | ⏳ Pendiente |
 | everythingisokay | Colts vs. Chiefs | Chiefs | 1.39 (72¢) | $25,699 | — | ⏳ Pendiente |
 | primm | Colts vs. Chiefs: O/U 45.5 | Over 45.5 | 2.00 (50¢) | $41,396 | — | ⏳ Pendiente |
