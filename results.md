@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 19:57:44 (hora de Perú)
+Actualizado: 2026-09-20 19:59:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3381**  ($182,378,193 en total)
+- Apuestas registradas: **3382**  ($182,478,399 en total)
 - Resueltas: **3330** — 2014 ganadas / 1316 perdidas (**60%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 442
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 246 | 128 | 4 | 66% | $24,777,093 | +$927,220 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 246 | 128 | 5 | 66% | $24,877,299 | +$927,220 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 69 | 0 | 54% | $6,162,969 | -$205,672 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.43 (70¢) | $100,206 | — | ⏳ Pendiente |
 | ethanaz | Colts vs. Chiefs | Chiefs | 1.35 (74¢) | $87,875 | — | ⏳ Pendiente |
 | sbsigner | Colts vs. Chiefs | Chiefs | 1.28 (78¢) | $32,237 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.69 (59¢) | $34,045 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 | rf13g145g41g4g4 | Jaguars vs. Broncos | Jaguars | 2.27 (44¢) | $47,593 | -$47,593 | ❌ Perdida |
 | Laskhask | Eagles vs. Titans | Eagles | 1.41 (71¢) | $55,932 | +$22,845 | ✅ Ganada |
 | TAIWANNUMBERONE | Saints vs. Ravens | Ravens | 1.11 (90¢) | $25,664 | -$25,664 | ❌ Perdida |
-| BrotherObama | Seattle Mariners vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $30,000 | -$30,000 | ❌ Perdida |
