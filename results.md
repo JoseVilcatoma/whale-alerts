@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 19:00:19 (hora de Perú)
+Actualizado: 2026-09-20 19:02:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3370**  ($181,712,304 en total)
-- Resueltas: **3328** — 2013 ganadas / 1315 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Resueltas: **3329** — 2013 ganadas / 1316 perdidas (**60%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 441
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,173,501** sobre $179,631,686 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,655** sobre $328,000 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$1,203,447** sobre $179,661,633 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,755** sobre $328,100 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
