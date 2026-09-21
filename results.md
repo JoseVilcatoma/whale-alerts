@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 20:16:16 (hora de Perú)
+Actualizado: 2026-09-20 20:18:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3382**  ($182,478,399 en total)
-- Resueltas: **3330** — 2014 ganadas / 1316 perdidas (**60%** de acierto)
-- Pendientes: 36
+- Resueltas: **3336** — 2018 ganadas / 1318 perdidas (**60%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 442
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,173,545** sobre $179,691,535 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,655** sobre $328,200 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$1,156,621** sobre $180,027,551 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$9,482** sobre $328,800 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 246 | 128 | 5 | 66% | $24,877,299 | +$927,220 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 247 | 128 | 4 | 66% | $24,877,299 | +$978,670 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 69 | 0 | 54% | $6,162,969 | -$205,672 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 66 | 50 | 1 | 57% | $5,353,186 | +$551,147 |
-| wr0ngw4yb3tt0r | 52 | 33 | 4 | 61% | $4,734,761 | -$371,672 |
+| wr0ngw4yb3tt0r | 52 | 34 | 3 | 60% | $4,734,761 | -$426,044 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
-| SDTrading | 18 | 23 | 3 | 44% | $1,307,596 | -$225,645 |
+| SDTrading | 19 | 23 | 2 | 45% | $1,307,596 | -$196,957 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 14 | 0 | 39% | $1,257,497 | -$427,198 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
