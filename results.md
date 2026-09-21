@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-20 19:25:00 (hora de Perú)
+Actualizado: 2026-09-20 19:27:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3377**  ($182,183,837 en total)
+- Apuestas registradas: **3378**  ($182,224,037 en total)
 - Resueltas: **3329** — 2013 ganadas / 1316 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 442
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 246 | 128 | 3 | 66% | $24,736,893 | +$927,220 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 246 | 128 | 4 | 66% | $24,777,093 | +$927,220 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 69 | 0 | 54% | $6,162,969 | -$205,672 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.49 (67¢) | $40,200 | — | ⏳ Pendiente |
 | surfandturf | Colts vs. Chiefs | Chiefs | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | mooseborzoi | Colts vs. Chiefs | Colts | 3.45 (29¢) | $155,084 | — | ⏳ Pendiente |
 | everythingisokay | Colts vs. Chiefs | Chiefs | 1.39 (72¢) | $25,699 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 442 en total)_
 | jaytee158 | Dolphins vs. 49ers | 49ers | 1.11 (90¢) | $51,498 | +$5,722 | ✅ Ganada |
 | marchettamaker | Valencia CF vs. Real Sociedad de Fútbol: O/U 2.5 | Under 2.5 | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | maz26 | Spread: Chargers (-6.5) | Chargers | 1.96 (51¢) | $150,570 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Panthers vs. Falcons | Panthers | 1.16 (86¢) | $56,577 | +$9,210 | ✅ Ganada |
