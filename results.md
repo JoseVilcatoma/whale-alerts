@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 19:56:45 (hora de Perú)
+Actualizado: 2026-09-21 19:58:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3425**  ($184,352,274 en total)
-- Resueltas: **3392** — 2054 ganadas / 1338 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **3394** — 2055 ganadas / 1339 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 446
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,238,553** sobre $182,815,693 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,283** sobre $334,300 (ROI **-2.8%**)
+- **Resultado de los apostadores: -$1,267,953** sobre $182,918,693 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,383** sobre $334,400 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Giants vs. Rams | Rams | 1.11 (90¢) | $72,000 | — | ⏳ Pendiente |
+| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Giants vs. Rams | Rams | 1.11 (90¢) | $72,000 | +$1,600 | 💰 Vendida antes |
 | ethanaz | Giants vs. Rams | Rams | 1.27 (79¢) | $125,510 | — | ⏳ Pendiente |
 | bands1 | Giants vs. Rams | Rams | 1.25 (80¢) | $48,000 | — | ⏳ Pendiente |
 | 3648393489047 | Giants vs. Rams | Rams | 1.25 (80¢) | $26,073 | — | ⏳ Pendiente |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 | surfandturf | Giants vs. Rams | Rams | 1.39 (72¢) | $52,892 | — | ⏳ Pendiente |
 | BruceWayne77 | Giants vs. Rams | Giants | 3.57 (28¢) | $28,000 | — | ⏳ Pendiente |
 | kkookkoo | Spread: Rams (-7.5) | Giants | 1.75 (57¢) | $36,999 | — | ⏳ Pendiente |
-| kkookkoo | Buenos Aires 2: Gonzalo Villanueva vs Guido Justo | Gonzalo Villanueva | 1.85 (54¢) | $31,000 | — | ⏳ Pendiente |
+| kkookkoo | Buenos Aires 2: Gonzalo Villanueva vs Guido Justo | Gonzalo Villanueva | 1.85 (54¢) | $31,000 | -$31,000 | ❌ Perdida |
 | justwins | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.89 (53¢) | $27,377 | — | ⏳ Pendiente |
 | BrotherObama | Minnesota Twins vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.27 (44¢) | $31,220 | +$39,735 | ✅ Ganada |
