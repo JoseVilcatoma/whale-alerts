@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 17:34:41 (hora de Perú)
+Actualizado: 2026-09-22 17:36:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3451**  ($187,982,318 en total)
+- Apuestas registradas: **3452**  ($188,045,917 en total)
 - Resueltas: **3427** — 2077 ganadas / 1350 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 450
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 56 | 36 | 0 | 61% | $4,912,957 | -$243,583 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Diabolical-Prize | 34 | 37 | 0 | 48% | $3,535,684 | -$434,244 |
-| Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
+| Sassy-Bucket | 32 | 35 | 1 | 48% | $3,404,585 | -$507,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 0 | 2 | ⚠️ 100% (1) | $2,470,204 | +$223,085 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $63,599 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $27,043 | — | ⏳ Pendiente |
 | Donkey14 | Arizona Diamondbacks vs. Colorado Rockies | Arizona Diamondbacks | 1.59 (63¢) | $26,452 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $76,647 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | ferrariChampions2026 | Colts vs. Chiefs | Colts | 2.13 (47¢) | $27,804 | -$27,804 | ❌ Perdida |
 | ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.89 (53¢) | $28,101 | +$24,920 | ✅ Ganada |
 | KaneAnalytics | Colts vs. Chiefs | Colts | 2.22 (45¢) | $26,185 | -$26,185 | ❌ Perdida |
-| Soarin22 | Colts vs. Chiefs | Chiefs | 1.47 (68¢) | $25,187 | +$11,853 | ✅ Ganada |
