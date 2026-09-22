@@ -31,14 +31,6 @@
     "username": "HMLSF",
     "added_at": 1789478060.2512648
   },
-  "0x19c3b385be5667154fc69c87d8f7914be84087c1": {
-    "username": "KatsuManager87",
-    "added_at": 1789500320.661108
-  },
-  "0x091ccc435273c422260279c8a8277170b2dc182e": {
-    "username": "blahblah344",
-    "added_at": 1789500320.661108
-  },
   "0x9f2fe025f84839ca81dd8e0338892605702d2ca8": {
     "username": "surfandturf",
     "added_at": 1789519069.5036454
@@ -326,5 +318,9 @@
   "0xee00ba338c59557141789b127927a55f5cc5cea1": {
     "username": "S-Works",
     "added_at": 1790036888.7649457
+  },
+  "0xc29cd8f36242f58938ea9f10dc07fd269d592d10": {
+    "username": "goshkam",
+    "added_at": 1790105275.7249842
   }
 }
