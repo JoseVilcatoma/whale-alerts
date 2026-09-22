@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 11:10:44 (hora de Perú)
+Actualizado: 2026-09-22 11:12:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3438**  ($185,013,035 en total)
+- Apuestas registradas: **3438**  ($185,111,501 en total)
 - Resueltas: **3417** — 2070 ganadas / 1347 perdidas (**61%** de acierto)
 - Pendientes: 5
 - Apostadores distintos: 449
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 449 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.27 (44¢) | $35,200 | — | ⏳ Pendiente |
-| goshkam | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.75 (57¢) | $166,512 | — | ⏳ Pendiente |
+| goshkam | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.75 (57¢) | $264,978 | — | ⏳ Pendiente |
 | HMLSF | Tolentino: Barbora Palicova vs Alicia Herrero Linana | Barbora Palicova | 1.19 (84¢) | $25,907 | +$4,935 | ✅ Ganada |
 | SDTrading | Spread: New York Yankees (-1.5) | Tampa Bay Rays | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | EsportsAI | Dota 2: Natus Vincere vs 1win (BO3) - PGL Wallachia Group Stage | 1win | 1.89 (53¢) | $26,242 | -$26,242 | ❌ Perdida |
