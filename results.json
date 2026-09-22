@@ -51666,7 +51666,7 @@
     "side": "BUY",
     "usd": 295717.5463,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790093578,
     "fills": 6
   },
@@ -51696,7 +51696,7 @@
     "side": "BUY",
     "usd": 25999.999999,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790093955,
     "fills": 1
   },
@@ -51726,7 +51726,7 @@
     "side": "BUY",
     "usd": 25420.0,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790094938,
     "fills": 1
   },
@@ -51741,7 +51741,7 @@
     "side": "BUY",
     "usd": 341047.38,
     "odds_at_bet": 40,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790094938,
     "fills": 1
   },
@@ -51756,7 +51756,7 @@
     "side": "BUY",
     "usd": 28840.760999999995,
     "odds_at_bet": 58,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790097182,
     "fills": 1
   },
@@ -51789,5 +51789,20 @@
     "status": "pending",
     "ultimo_fill": 1790106491,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7044,
+    "timestamp": 1790109283,
+    "username": "goshkam",
+    "wallet": "0xc29cd8f36242f58938ea9f10dc07fd269d592d10",
+    "slug": "mlb-cin-atl-2026-09-22",
+    "title": "Cincinnati Reds vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 333066.7988,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1790109284,
+    "fills": 3
   }
 ]
