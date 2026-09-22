@@ -51534,5 +51534,20 @@
     "status": "pending",
     "ultimo_fill": 1790042184,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6996,
+    "timestamp": 1790042496,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-nyg-la-2026-09-22",
+    "title": "Giants vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 41894.41588,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1790042496,
+    "fills": 1
   }
 ]

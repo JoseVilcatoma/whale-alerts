@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 21:01:32 (hora de Perú)
+Actualizado: 2026-09-21 21:03:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3428**  ($184,545,738 en total)
+- Apuestas registradas: **3429**  ($184,587,632 en total)
 - Resueltas: **3394** — 2055 ganadas / 1339 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 446
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 67 | 50 | 0 | 57% | $5,353,186 | +$650,173 |
-| wr0ngw4yb3tt0r | 54 | 36 | 1 | 60% | $4,871,062 | -$252,386 |
+| wr0ngw4yb3tt0r | 54 | 36 | 2 | 60% | $4,912,957 | -$252,386 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Diabolical-Prize | 31 | 35 | 2 | 47% | $3,432,937 | -$485,406 |
 | Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.08 (93¢) | $41,894 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Giants vs. Rams: O/U 37.5 | Over 37.5 | 1.79 (56¢) | $29,939 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.06 (94¢) | $88,516 | — | ⏳ Pendiente |
 | cosmicxbt | Giants vs. Rams | Rams | 1.11 (90¢) | $75,009 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 | Tiger200 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $79,457 | -$79,457 | ❌ Perdida |
 | taylorsversion | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $54,000 | +$46,000 | ✅ Ganada |
 | SDTrading | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
-| OhWhenTheReds | Deportivo Toluca FC vs. Club Santos Laguna: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $25,189 | -$25,189 | ❌ Perdida |
