@@ -51277,5 +51277,20 @@
     "status": "pending",
     "ultimo_fill": 1790033992,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6977,
+    "timestamp": 1790035434,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "nfl-nyg-la-2026-09-22-spread-home-7pt5",
+    "title": "Spread: Rams (-7.5)",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 36999.000000119995,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1790035434,
+    "fills": 1
   }
 ]
