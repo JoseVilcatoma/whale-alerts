@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 06:40:51 (hora de Perú)
+Actualizado: 2026-09-22 06:42:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3431**  ($184,643,775 en total)
+- Apuestas registradas: **3432**  ($184,684,625 en total)
 - Resueltas: **3414** — 2068 ganadas / 1346 perdidas (**61%** de acierto)
-- Pendientes: 1
+- Pendientes: 2
 - Apostadores distintos: 447
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 67 | 50 | 0 | 57% | $5,353,186 | +$650,173 |
 | wr0ngw4yb3tt0r | 56 | 36 | 0 | 61% | $4,912,957 | -$243,583 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Diabolical-Prize | 31 | 37 | 0 | 46% | $3,432,937 | -$568,583 |
+| Diabolical-Prize | 31 | 37 | 1 | 46% | $3,473,787 | -$568,583 |
 | Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 447 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $40,850 | — | ⏳ Pendiente |
 | kkookkoo | Plovdiv 4: Tommaso Compagnucci vs Yanaki Milev | Tommaso Compagnucci | 1.79 (56¢) | $28,109 | — | ⏳ Pendiente |
 | laIaIalala | St. Tropez: Hugo Grenier vs Thomas Faurel | Thomas Faurel | 1.37 (73¢) | $28,034 | +$10,369 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.08 (93¢) | $41,894 | +$3,153 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 447 en total)_
 | everythingisokay | Colts vs. Chiefs | Chiefs | 1.39 (72¢) | $25,699 | +$9,994 | ✅ Ganada |
 | primm | Colts vs. Chiefs: O/U 45.5 | Over 45.5 | 2.00 (50¢) | $41,396 | +$41,396 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $44,896 | -$44,896 | ❌ Perdida |
-| Tiger200 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $79,457 | -$79,457 | ❌ Perdida |
