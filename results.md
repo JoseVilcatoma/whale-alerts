@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 11:18:58 (hora de Perú)
+Actualizado: 2026-09-22 11:21:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3438**  ($185,142,241 en total)
+- Apuestas registradas: **3439**  ($185,168,241 en total)
 - Resueltas: **3417** — 2070 ganadas / 1347 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 449
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 449 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| retordedgremlin125 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.69 (59¢) | $26,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.27 (44¢) | $35,200 | — | ⏳ Pendiente |
 | goshkam | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.75 (57¢) | $295,718 | — | ⏳ Pendiente |
 | HMLSF | Tolentino: Barbora Palicova vs Alicia Herrero Linana | Barbora Palicova | 1.19 (84¢) | $25,907 | +$4,935 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 449 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.43 (70¢) | $100,206 | +$42,945 | ✅ Ganada |
 | ethanaz | Colts vs. Chiefs | Chiefs | 1.35 (74¢) | $87,875 | +$30,875 | ✅ Ganada |
 | sbsigner | Colts vs. Chiefs | Chiefs | 1.28 (78¢) | $32,237 | +$9,092 | ✅ Ganada |
-| ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.69 (59¢) | $34,045 | +$23,659 | ✅ Ganada |
