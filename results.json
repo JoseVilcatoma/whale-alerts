@@ -51606,7 +51606,7 @@
     "side": "BUY",
     "usd": 44850.0,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790078945,
     "fills": 1
   },
@@ -51698,6 +51698,21 @@
     "odds_at_bet": 59,
     "status": "pending",
     "ultimo_fill": 1790093955,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7033,
+    "timestamp": 1790094258,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-ice-3dmax-2026-09-22",
+    "title": "Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "usd": 26697.41,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1790094258,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 11:23:04 (hora de Perú)
+Actualizado: 2026-09-22 11:25:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3439**  ($185,168,241 en total)
-- Resueltas: **3417** — 2070 ganadas / 1347 perdidas (**61%** de acierto)
+- Apuestas registradas: **3440**  ($185,194,938 en total)
+- Resueltas: **3418** — 2071 ganadas / 1347 perdidas (**61%** de acierto)
 - Pendientes: 6
 - Apostadores distintos: 449
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,362,568** sobre $184,080,698 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,679** sobre $336,700 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$1,292,418** sobre $184,125,548 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,523** sobre $336,800 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 67 | 50 | 0 | 57% | $5,353,186 | +$650,173 |
 | wr0ngw4yb3tt0r | 56 | 36 | 0 | 61% | $4,912,957 | -$243,583 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Diabolical-Prize | 31 | 37 | 2 | 46% | $3,508,987 | -$568,583 |
+| Diabolical-Prize | 31 | 37 | 3 | 46% | $3,535,684 | -$568,583 |
 | Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 449 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $26,697 | — | ⏳ Pendiente |
 | retordedgremlin125 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.69 (59¢) | $26,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.27 (44¢) | $35,200 | — | ⏳ Pendiente |
 | goshkam | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.75 (57¢) | $295,718 | — | ⏳ Pendiente |
 | HMLSF | Tolentino: Barbora Palicova vs Alicia Herrero Linana | Barbora Palicova | 1.19 (84¢) | $25,907 | +$4,935 | ✅ Ganada |
 | SDTrading | Spread: New York Yankees (-1.5) | Tampa Bay Rays | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | EsportsAI | Dota 2: Natus Vincere vs 1win (BO3) - PGL Wallachia Group Stage | 1win | 1.89 (53¢) | $26,242 | -$26,242 | ❌ Perdida |
-| lllllllIlll | Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play Connect Playoffs | Luminosity | 2.56 (39¢) | $44,850 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play Connect Playoffs | Luminosity | 2.56 (39¢) | $44,850 | +$70,150 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $40,850 | — | ⏳ Pendiente |
 | kkookkoo | Plovdiv 4: Tommaso Compagnucci vs Yanaki Milev | Tommaso Compagnucci | 1.79 (56¢) | $28,109 | +$22,086 | ✅ Ganada |
 | laIaIalala | St. Tropez: Hugo Grenier vs Thomas Faurel | Thomas Faurel | 1.37 (73¢) | $28,034 | +$10,369 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 449 en total)_
 | ferrariChampions2026 | Colts vs. Chiefs: O/U 57.5 | Over 57.5 | 1.61 (62¢) | $25,369 | +$15,548 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.43 (70¢) | $100,206 | +$42,945 | ✅ Ganada |
 | ethanaz | Colts vs. Chiefs | Chiefs | 1.35 (74¢) | $87,875 | +$30,875 | ✅ Ganada |
-| sbsigner | Colts vs. Chiefs | Chiefs | 1.28 (78¢) | $32,237 | +$9,092 | ✅ Ganada |
