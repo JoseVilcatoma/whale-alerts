@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 19:11:18 (hora de Perú)
+Actualizado: 2026-09-21 19:13:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3415**  ($183,685,765 en total)
+- Apuestas registradas: **3417**  ($183,816,279 en total)
 - Resueltas: **3392** — 2054 ganadas / 1338 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 9
 - Apostadores distintos: 445
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 253 | 128 | 2 | 66% | $25,030,003 | +$1,091,927 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 253 | 128 | 3 | 66% | $25,124,517 | +$1,091,927 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 69 | 0 | 54% | $6,162,969 | -$205,672 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Rams | Giants | 3.57 (28¢) | $94,514 | — | ⏳ Pendiente |
+| THEdirkdiggler | Giants vs. Rams | Rams | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Giants vs. Rams: O/U 47.5 | Over 47.5 | 2.04 (49¢) | $42,578 | — | ⏳ Pendiente |
 | surfandturf | Giants vs. Rams | Rams | 1.39 (72¢) | $52,892 | — | ⏳ Pendiente |
 | BruceWayne77 | Giants vs. Rams | Giants | 3.57 (28¢) | $28,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | ndb1 | Dolphins vs. 49ers | 49ers | 1.08 (93¢) | $34,715 | +$2,613 | ✅ Ganada |
 | gambamaster | Raiders vs. Chargers | Chargers | 1.56 (64¢) | $27,804 | -$27,804 | ❌ Perdida |
 | 3648393489047 | Dolphins vs. 49ers | 49ers | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
-| cosmicxbt | Commanders vs. Cowboys | Cowboys | 1.25 (80¢) | $67,885 | +$16,971 | ✅ Ganada |
-| ethanaz | Commanders vs. Cowboys | Cowboys | 1.20 (83¢) | $39,684 | +$8,128 | ✅ Ganada |

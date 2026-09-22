@@ -51337,5 +51337,35 @@
     "status": "pending",
     "ultimo_fill": 1790035845,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 6981,
+    "timestamp": 1790035961,
+    "username": "THEdirkdiggler",
+    "wallet": "0x1e7792acc779a6af8304bd7991ff31d16d468c33",
+    "slug": "nfl-nyg-la-2026-09-22",
+    "title": "Giants vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 36000.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1790035961,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 6982,
+    "timestamp": 1790035977,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-nyg-la-2026-09-22",
+    "title": "Giants vs. Rams",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 94514.00000000001,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "ultimo_fill": 1790035977,
+    "fills": 1
   }
 ]
