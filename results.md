@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 20:28:04 (hora de Perú)
+Actualizado: 2026-09-21 20:30:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3425**  ($184,352,274 en total)
+- Apuestas registradas: **3426**  ($184,427,283 en total)
 - Resueltas: **3394** — 2055 ganadas / 1339 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 446
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Giants vs. Rams | Rams | 1.11 (90¢) | $75,009 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Giants vs. Rams | Rams | 1.11 (90¢) | $72,000 | +$1,600 | 💰 Vendida antes |
 | ethanaz | Giants vs. Rams | Rams | 1.27 (79¢) | $125,510 | — | ⏳ Pendiente |
 | bands1 | Giants vs. Rams | Rams | 1.25 (80¢) | $48,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 | OhWhenTheReds | Deportivo Toluca FC vs. Club Santos Laguna: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $25,189 | -$25,189 | ❌ Perdida |
 | kkookkoo | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.49 (67¢) | $45,000 | +$22,164 | ✅ Ganada |
 | mooseborzoi | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.52 (66¢) | $26,577 | +$13,691 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Raiders vs. Chargers | Raiders | 1.92 (52¢) | $33,287 | +$30,726 | ✅ Ganada |
