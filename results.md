@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 09:09:57 (hora de Perú)
+Actualizado: 2026-09-22 09:12:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3435**  ($184,785,417 en total)
+- Apuestas registradas: **3436**  ($184,811,323 en total)
 - Resueltas: **3416** — 2069 ganadas / 1347 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 448
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 448 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HMLSF | Tolentino: Barbora Palicova vs Alicia Herrero Linana | Barbora Palicova | 1.19 (84¢) | $25,907 | — | ⏳ Pendiente |
 | SDTrading | Spread: New York Yankees (-1.5) | Tampa Bay Rays | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | EsportsAI | Dota 2: Natus Vincere vs 1win (BO3) - PGL Wallachia Group Stage | 1win | 1.89 (53¢) | $26,242 | -$26,242 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play Connect Playoffs | Luminosity | 2.56 (39¢) | $44,850 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 448 en total)_
 | ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.69 (59¢) | $34,045 | +$23,659 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.49 (67¢) | $40,200 | +$19,800 | ✅ Ganada |
 | surfandturf | Colts vs. Chiefs | Chiefs | 1.41 (71¢) | $71,000 | +$12,000 | 💰 Vendida antes |
-| mooseborzoi | Colts vs. Chiefs | Colts | 3.45 (29¢) | $155,084 | -$155,084 | ❌ Perdida |
