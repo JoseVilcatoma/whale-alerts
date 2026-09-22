@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 14:37:45 (hora de Perú)
+Actualizado: 2026-09-22 14:39:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3443**  ($185,590,246 en total)
+- Apuestas registradas: **3444**  ($185,621,810 en total)
 - Resueltas: **3418** — 2071 ganadas / 1347 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 449
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 449 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Cincinnati Reds vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.67 (60¢) | $31,564 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.72 (58¢) | $28,841 | — | ⏳ Pendiente |
 | sulumos | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $25,420 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.50 (40¢) | $341,047 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 449 en total)_
 | User1244322 | Colts vs. Chiefs | Colts | 2.50 (40¢) | $36,821 | -$36,821 | ❌ Perdida |
 | ndb1 | Colts vs. Chiefs | Chiefs | 1.64 (61¢) | $31,282 | +$20,000 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs | Chiefs | 1.61 (62¢) | $40,000 | +$24,516 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts | 2.56 (39¢) | $47,785 | -$47,785 | ❌ Perdida |
