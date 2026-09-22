@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 19:37:53 (hora de Perú)
+Actualizado: 2026-09-21 19:40:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3423**  ($184,154,764 en total)
+- Apuestas registradas: **3424**  ($184,280,274 en total)
 - Resueltas: **3392** — 2054 ganadas / 1338 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 446
 
 ### Balance
@@ -45,8 +45,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 17 | 2 | 1 | 89% | $1,873,560 | +$310,869 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
+| ethanaz | 19 | 4 | 1 | 83% | $1,711,749 | -$29,820 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| ethanaz | 19 | 4 | 0 | 83% | $1,586,239 | -$29,820 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Giants vs. Rams | Rams | 1.27 (79¢) | $125,510 | — | ⏳ Pendiente |
 | bands1 | Giants vs. Rams | Rams | 1.25 (80¢) | $48,000 | — | ⏳ Pendiente |
 | 3648393489047 | Giants vs. Rams | Rams | 1.25 (80¢) | $26,073 | — | ⏳ Pendiente |
 | nuttypoo | Giants vs. Rams | Rams | 1.23 (81¢) | $78,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 | mooseborzoi | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.52 (66¢) | $26,577 | +$13,691 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Raiders vs. Chargers | Raiders | 1.92 (52¢) | $33,287 | +$30,726 | ✅ Ganada |
 | rf13g145g41g4g4 | Raiders vs. Chargers | Raiders | 1.64 (61¢) | $52,869 | +$33,802 | ✅ Ganada |
-| ethanaz | Commanders vs. Cowboys | Cowboys | 1.39 (72¢) | $38,515 | +$14,978 | ✅ Ganada |
