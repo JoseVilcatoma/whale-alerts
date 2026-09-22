@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 18:46:35 (hora de Perú)
+Actualizado: 2026-09-22 18:48:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3459**  ($188,512,699 en total)
+- Apuestas registradas: **3460**  ($188,561,739 en total)
 - Resueltas: **3427** — 2077 ganadas / 1350 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 450
 
 ### Balance
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 14 | 0 | 39% | $1,257,497 | -$427,198 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
-| xifutloong3 | 17 | 15 | 1 | 53% | $1,098,413 | -$129,945 |
+| xifutloong3 | 17 | 15 | 2 | 53% | $1,147,454 | -$129,945 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | Talvez10 | 11 | 10 | 0 | 52% | $1,046,960 | +$193,981 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xifutloong3 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $49,041 | — | ⏳ Pendiente |
 | BrotherObama | Arizona Diamondbacks vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $80,228 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.15 (87¢) | $89,966 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $65,839 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - PGL Wallachia Group Stage | LGD Gaming | 1.59 (63¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.23 (81¢) | $46,362 | +$10,875 | ✅ Ganada |
 | TKD44 | Colts vs. Chiefs | Colts | 3.45 (29¢) | $87,281 | -$87,281 | ❌ Perdida |
-| curie | Colts vs. Chiefs: O/U 57.5 | Over 57.5 | 1.10 (91¢) | $26,257 | +$2,597 | ✅ Ganada |

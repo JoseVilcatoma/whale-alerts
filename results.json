@@ -51999,5 +51999,20 @@
     "status": "pending",
     "ultimo_fill": 1790120257,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7066,
+    "timestamp": 1790120919,
+    "username": "xifutloong3",
+    "wallet": "0x2dc13c6bda81b202281e796953a7323de675b33c",
+    "slug": "mlb-cin-atl-2026-09-22",
+    "title": "Cincinnati Reds vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 49040.546,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1790120919,
+    "fills": 1
   }
 ]
