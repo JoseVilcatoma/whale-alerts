@@ -51954,5 +51954,20 @@
     "status": "pending",
     "ultimo_fill": 1790118224,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7063,
+    "timestamp": 1790119383,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-min-sf-2026-09-22-total-7pt5",
+    "title": "Minnesota Twins vs. San Francisco Giants: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 65838.663,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1790119383,
+    "fills": 1
   }
 ]
