@@ -51624,5 +51624,20 @@
     "status": "pending",
     "ultimo_fill": 1790081071,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7025,
+    "timestamp": 1790084081,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-tb-nyy-2026-05-23-spread-home-1pt5",
+    "title": "Spread: New York Yankees (-1.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 29700.0,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1790084081,
+    "fills": 1
   }
 ]
