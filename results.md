@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 12:12:29 (hora de Perú)
+Actualizado: 2026-09-22 12:14:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3442**  ($185,561,406 en total)
+- Apuestas registradas: **3443**  ($185,590,246 en total)
 - Resueltas: **3418** — 2071 ganadas / 1347 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 449
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 253 | 129 | 3 | 66% | $25,465,564 | +$997,413 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 253 | 129 | 4 | 66% | $25,494,405 | +$997,413 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 70 | 0 | 54% | $6,192,908 | -$235,611 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 449 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.72 (58¢) | $28,841 | — | ⏳ Pendiente |
 | sulumos | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $25,420 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.50 (40¢) | $341,047 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $26,697 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 449 en total)_
 | ndb1 | Colts vs. Chiefs | Chiefs | 1.64 (61¢) | $31,282 | +$20,000 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs | Chiefs | 1.61 (62¢) | $40,000 | +$24,516 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts | 2.56 (39¢) | $47,785 | -$47,785 | ❌ Perdida |
-| ferrariChampions2026 | Colts vs. Chiefs: O/U 57.5 | Over 57.5 | 1.61 (62¢) | $25,369 | +$15,548 | ✅ Ganada |
