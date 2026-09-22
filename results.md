@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 10:01:14 (hora de Perú)
+Actualizado: 2026-09-22 10:03:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3436**  ($184,811,323 en total)
-- Resueltas: **3416** — 2069 ganadas / 1347 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **3417** — 2070 ganadas / 1347 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 448
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,367,502** sobre $184,054,792 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,698** sobre $336,600 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$1,362,568** sobre $184,080,698 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,679** sobre $336,700 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 448 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| HMLSF | Tolentino: Barbora Palicova vs Alicia Herrero Linana | Barbora Palicova | 1.19 (84¢) | $25,907 | — | ⏳ Pendiente |
+| HMLSF | Tolentino: Barbora Palicova vs Alicia Herrero Linana | Barbora Palicova | 1.19 (84¢) | $25,907 | +$4,935 | ✅ Ganada |
 | SDTrading | Spread: New York Yankees (-1.5) | Tampa Bay Rays | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | EsportsAI | Dota 2: Natus Vincere vs 1win (BO3) - PGL Wallachia Group Stage | 1win | 1.89 (53¢) | $26,242 | -$26,242 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play Connect Playoffs | Luminosity | 2.56 (39¢) | $44,850 | — | ⏳ Pendiente |
