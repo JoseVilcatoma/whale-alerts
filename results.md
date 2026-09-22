@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 15:39:37 (hora de Perú)
+Actualizado: 2026-09-22 15:41:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3446**  ($186,051,565 en total)
-- Resueltas: **3426** — 2077 ganadas / 1349 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **3427** — 2077 ganadas / 1350 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 450
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,262,508** sobre $184,945,321 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,113** sobre $337,600 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$1,292,208** sobre $184,975,021 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,213** sobre $337,700 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| SDTrading | 20 | 24 | 1 | 45% | $1,337,296 | -$214,757 |
+| SDTrading | 20 | 25 | 0 | 44% | $1,337,296 | -$244,457 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 14 | 0 | 39% | $1,257,497 | -$427,198 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.27 (44¢) | $35,200 | +$44,800 | ✅ Ganada |
 | goshkam | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.75 (57¢) | $295,718 | +$223,085 | ✅ Ganada |
 | HMLSF | Tolentino: Barbora Palicova vs Alicia Herrero Linana | Barbora Palicova | 1.19 (84¢) | $25,907 | +$4,935 | ✅ Ganada |
-| SDTrading | Spread: New York Yankees (-1.5) | Tampa Bay Rays | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
+| SDTrading | Spread: New York Yankees (-1.5) | Tampa Bay Rays | 1.52 (66¢) | $29,700 | -$29,700 | ❌ Perdida |
 | EsportsAI | Dota 2: Natus Vincere vs 1win (BO3) - PGL Wallachia Group Stage | 1win | 1.89 (53¢) | $26,242 | -$26,242 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play Connect Playoffs | Luminosity | 2.56 (39¢) | $44,850 | +$70,150 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $40,850 | +$54,150 | ✅ Ganada |
