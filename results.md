@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 00:18:09 (hora de Perú)
+Actualizado: 2026-09-22 00:20:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3429**  ($184,587,632 en total)
-- Resueltas: **3412** — 2067 ganadas / 1345 perdidas (**61%** de acierto)
-- Pendientes: 1
+- Resueltas: **3413** — 2067 ganadas / 1346 perdidas (**61%** de acierto)
+- Pendientes: 0
 - Apostadores distintos: 446
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,336,716** sobre $183,935,408 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,614** sobre $336,200 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$1,373,715** sobre $183,972,407 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,714** sobre $336,300 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 | Diabolical-Prize | Giants vs. Rams: O/U 47.5 | Over 47.5 | 2.04 (49¢) | $42,578 | -$42,578 | ❌ Perdida |
 | surfandturf | Giants vs. Rams | Rams | 1.39 (72¢) | $52,892 | +$20,569 | ✅ Ganada |
 | BruceWayne77 | Giants vs. Rams | Giants | 3.57 (28¢) | $28,000 | -$28,000 | ❌ Perdida |
-| kkookkoo | Spread: Rams (-7.5) | Giants | 1.75 (57¢) | $36,999 | — | ⏳ Pendiente |
+| kkookkoo | Spread: Rams (-7.5) | Giants | 1.75 (57¢) | $36,999 | -$36,999 | ❌ Perdida |
 | kkookkoo | Buenos Aires 2: Gonzalo Villanueva vs Guido Justo | Gonzalo Villanueva | 1.85 (54¢) | $31,000 | -$31,000 | ❌ Perdida |
 | justwins | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.89 (53¢) | $27,377 | +$24,278 | ✅ Ganada |
 | BrotherObama | Minnesota Twins vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,000 | -$36,000 | ❌ Perdida |
