@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 09:01:45 (hora de Perú)
+Actualizado: 2026-09-22 09:03:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3435**  ($184,785,417 en total)
-- Resueltas: **3415** — 2069 ganadas / 1346 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **3416** — 2069 ganadas / 1347 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 448
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,341,261** sobre $184,028,550 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,598** sobre $336,500 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$1,367,502** sobre $184,054,792 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,698** sobre $336,600 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 448 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | SDTrading | Spread: New York Yankees (-1.5) | Tampa Bay Rays | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
-| EsportsAI | Dota 2: Natus Vincere vs 1win (BO3) - PGL Wallachia Group Stage | 1win | 1.89 (53¢) | $26,242 | — | ⏳ Pendiente |
+| EsportsAI | Dota 2: Natus Vincere vs 1win (BO3) - PGL Wallachia Group Stage | 1win | 1.89 (53¢) | $26,242 | -$26,242 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play Connect Playoffs | Luminosity | 2.56 (39¢) | $44,850 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $40,850 | — | ⏳ Pendiente |
 | kkookkoo | Plovdiv 4: Tommaso Compagnucci vs Yanaki Milev | Tommaso Compagnucci | 1.79 (56¢) | $28,109 | +$22,086 | ✅ Ganada |
