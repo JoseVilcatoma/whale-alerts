@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 17:46:21 (hora de Perú)
+Actualizado: 2026-09-22 17:48:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3454**  ($188,167,984 en total)
+- Apuestas registradas: **3455**  ($188,243,590 en total)
 - Resueltas: **3427** — 2077 ganadas / 1350 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 450
 
 ### Balance
@@ -28,8 +28,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 70 | 2 | 54% | $6,303,575 | -$235,611 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
+| pleaseplease123 | 67 | 50 | 4 | 57% | $5,607,482 | +$650,173 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| pleaseplease123 | 67 | 50 | 3 | 57% | $5,531,875 | +$650,173 |
 | wr0ngw4yb3tt0r | 56 | 36 | 0 | 61% | $4,912,957 | -$243,583 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Diabolical-Prize | 34 | 37 | 0 | 48% | $3,535,684 | -$434,244 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $75,606 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Atlanta Braves: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $62,206 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.69 (59¢) | $48,461 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $75,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | ethanaz | Colts vs. Chiefs | Chiefs | 1.43 (70¢) | $40,353 | +$17,294 | ✅ Ganada |
 | surfandturf | Colts vs. Chiefs | Chiefs | 1.69 (59¢) | $26,296 | +$18,273 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.72 (58¢) | $25,829 | +$18,704 | ✅ Ganada |
-| ferrariChampions2026 | Colts vs. Chiefs | Colts | 2.13 (47¢) | $27,804 | -$27,804 | ❌ Perdida |
