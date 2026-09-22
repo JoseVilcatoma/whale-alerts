@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 11:06:39 (hora de Perú)
+Actualizado: 2026-09-22 11:08:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3436**  ($184,811,323 en total)
+- Apuestas registradas: **3437**  ($184,950,923 en total)
 - Resueltas: **3417** — 2070 ganadas / 1347 perdidas (**61%** de acierto)
-- Pendientes: 3
-- Apostadores distintos: 448
+- Pendientes: 4
+- Apostadores distintos: 449
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 
-_(mostrando los 40 de mayor monto, de 448 en total)_
+_(mostrando los 40 de mayor monto, de 449 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| goshkam | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.75 (57¢) | $139,600 | — | ⏳ Pendiente |
 | HMLSF | Tolentino: Barbora Palicova vs Alicia Herrero Linana | Barbora Palicova | 1.19 (84¢) | $25,907 | +$4,935 | ✅ Ganada |
 | SDTrading | Spread: New York Yankees (-1.5) | Tampa Bay Rays | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | EsportsAI | Dota 2: Natus Vincere vs 1win (BO3) - PGL Wallachia Group Stage | 1win | 1.89 (53¢) | $26,242 | -$26,242 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 448 en total)_
 | sbsigner | Colts vs. Chiefs | Chiefs | 1.28 (78¢) | $32,237 | +$9,092 | ✅ Ganada |
 | ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.69 (59¢) | $34,045 | +$23,659 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.49 (67¢) | $40,200 | +$19,800 | ✅ Ganada |
-| surfandturf | Colts vs. Chiefs | Chiefs | 1.41 (71¢) | $71,000 | +$12,000 | 💰 Vendida antes |

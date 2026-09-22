@@ -51654,5 +51654,20 @@
     "status": "won",
     "ultimo_fill": 1790086251,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7030,
+    "timestamp": 1790093316,
+    "username": "goshkam",
+    "wallet": "0xc29cd8f36242f58938ea9f10dc07fd269d592d10",
+    "slug": "mlb-tb-nyy-2026-05-23",
+    "title": "Tampa Bay Rays vs. New York Yankees",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 139600.2977,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1790093316,
+    "fills": 2
   }
 ]
