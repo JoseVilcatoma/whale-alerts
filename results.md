@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 15:06:40 (hora de Perú)
+Actualizado: 2026-09-22 15:08:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3445**  ($185,649,498 en total)
-- Resueltas: **3418** — 2071 ganadas / 1347 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **3421** — 2074 ganadas / 1347 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 450
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,292,418** sobre $184,125,548 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,523** sobre $336,800 (ROI **-2.8%**)
+- **Resultado de los apostadores: -$1,158,078** sobre $184,228,296 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$9,130** sobre $337,100 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 67 | 50 | 0 | 57% | $5,353,186 | +$650,173 |
 | wr0ngw4yb3tt0r | 56 | 36 | 0 | 61% | $4,912,957 | -$243,583 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Diabolical-Prize | 31 | 37 | 3 | 46% | $3,535,684 | -$568,583 |
+| Diabolical-Prize | 34 | 37 | 0 | 48% | $3,535,684 | -$434,244 |
 | Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -76,15 +76,15 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.72 (58¢) | $28,841 | — | ⏳ Pendiente |
 | sulumos | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $25,420 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.50 (40¢) | $341,047 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $26,697 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $26,697 | +$35,390 | ✅ Ganada |
 | retordedgremlin125 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.69 (59¢) | $26,000 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.27 (44¢) | $35,200 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.27 (44¢) | $35,200 | +$44,800 | ✅ Ganada |
 | goshkam | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.75 (57¢) | $295,718 | — | ⏳ Pendiente |
 | HMLSF | Tolentino: Barbora Palicova vs Alicia Herrero Linana | Barbora Palicova | 1.19 (84¢) | $25,907 | +$4,935 | ✅ Ganada |
 | SDTrading | Spread: New York Yankees (-1.5) | Tampa Bay Rays | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | EsportsAI | Dota 2: Natus Vincere vs 1win (BO3) - PGL Wallachia Group Stage | 1win | 1.89 (53¢) | $26,242 | -$26,242 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play Connect Playoffs | Luminosity | 2.56 (39¢) | $44,850 | +$70,150 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $40,850 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $40,850 | +$54,150 | ✅ Ganada |
 | kkookkoo | Plovdiv 4: Tommaso Compagnucci vs Yanaki Milev | Tommaso Compagnucci | 1.79 (56¢) | $28,109 | +$22,086 | ✅ Ganada |
 | laIaIalala | St. Tropez: Hugo Grenier vs Thomas Faurel | Thomas Faurel | 1.37 (73¢) | $28,034 | +$10,369 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.08 (93¢) | $41,894 | +$3,153 | ✅ Ganada |
