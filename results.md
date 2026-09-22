@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 19:17:31 (hora de Perú)
+Actualizado: 2026-09-21 19:19:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3419**  ($183,900,079 en total)
+- Apuestas registradas: **3420**  ($184,002,691 en total)
 - Resueltas: **3392** — 2054 ganadas / 1338 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 445
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ratatatatatatatataaaa | Giants vs. Rams | Rams | 1.39 (72¢) | $102,612 | — | ⏳ Pendiente |
 | martingaleking | Giants vs. Rams | Rams | 1.39 (72¢) | $43,200 | — | ⏳ Pendiente |
 | Diabolical-Prize | Giants vs. Rams | Giants | 3.45 (29¢) | $40,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Rams | Giants | 3.57 (28¢) | $94,514 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | jaytee158 | Commanders vs. Cowboys | Cowboys | 1.16 (86¢) | $50,247 | +$8,180 | ✅ Ganada |
 | winwin518168 | Portland Fire vs. Los Angeles Sparks | Portland Fire | 2.04 (49¢) | $29,400 | -$29,400 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raiders vs. Chargers | Raiders | 2.44 (41¢) | $31,895 | +$45,898 | ✅ Ganada |
-| ndb1 | Dolphins vs. 49ers | 49ers | 1.08 (93¢) | $34,715 | +$2,613 | ✅ Ganada |
