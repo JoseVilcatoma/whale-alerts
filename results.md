@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 21:54:33 (hora de Perú)
+Actualizado: 2026-09-21 21:56:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3429**  ($184,587,632 en total)
-- Resueltas: **3394** — 2055 ganadas / 1339 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **3395** — 2056 ganadas / 1339 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 446
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,267,953** sobre $182,918,693 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,383** sobre $334,400 (ROI **-2.8%**)
+- **Resultado de los apostadores: -$1,243,675** sobre $182,946,070 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,295** sobre $334,500 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 | BruceWayne77 | Giants vs. Rams | Giants | 3.57 (28¢) | $28,000 | — | ⏳ Pendiente |
 | kkookkoo | Spread: Rams (-7.5) | Giants | 1.75 (57¢) | $36,999 | — | ⏳ Pendiente |
 | kkookkoo | Buenos Aires 2: Gonzalo Villanueva vs Guido Justo | Gonzalo Villanueva | 1.85 (54¢) | $31,000 | -$31,000 | ❌ Perdida |
-| justwins | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.89 (53¢) | $27,377 | — | ⏳ Pendiente |
+| justwins | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.89 (53¢) | $27,377 | +$24,278 | ✅ Ganada |
 | BrotherObama | Minnesota Twins vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.27 (44¢) | $31,220 | +$39,735 | ✅ Ganada |
 | Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $27,570 | +$38,073 | ✅ Ganada |
