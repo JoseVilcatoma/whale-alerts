@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 18:29:48 (hora de Perú)
+Actualizado: 2026-09-22 18:31:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3457**  ($188,342,505 en total)
+- Apuestas registradas: **3458**  ($188,432,471 en total)
 - Resueltas: **3427** — 2077 ganadas / 1350 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 450
 
 ### Balance
@@ -38,9 +38,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 0 | 2 | ⚠️ 100% (1) | $2,470,204 | +$223,085 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
+| ferrariChampions2026 | 34 | 20 | 1 | 63% | $2,251,276 | -$454,397 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| ferrariChampions2026 | 34 | 20 | 0 | 63% | $2,161,310 | -$454,397 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | BrotherObama | 22 | 23 | 1 | 49% | $1,981,334 | +$107,780 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.15 (87¢) | $89,966 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $65,839 | — | ⏳ Pendiente |
 | xifutloong3 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.54 (65¢) | $33,076 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $75,606 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | TKD44 | Colts vs. Chiefs | Colts | 3.45 (29¢) | $87,281 | -$87,281 | ❌ Perdida |
 | curie | Colts vs. Chiefs: O/U 57.5 | Over 57.5 | 1.10 (91¢) | $26,257 | +$2,597 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
-| ethanaz | Colts vs. Chiefs | Chiefs | 1.43 (70¢) | $40,353 | +$17,294 | ✅ Ganada |
