@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 06:18:29 (hora de Perú)
+Actualizado: 2026-09-22 06:20:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3430**  ($184,615,666 en total)
+- Apuestas registradas: **3431**  ($184,643,775 en total)
 - Resueltas: **3413** — 2067 ganadas / 1346 perdidas (**61%** de acierto)
-- Pendientes: 1
+- Pendientes: 2
 - Apostadores distintos: 447
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 447 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Plovdiv 4: Tommaso Compagnucci vs Yanaki Milev | Tommaso Compagnucci | 1.79 (56¢) | $28,109 | — | ⏳ Pendiente |
 | laIaIalala | St. Tropez: Hugo Grenier vs Thomas Faurel | Thomas Faurel | 1.37 (73¢) | $28,034 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.08 (93¢) | $41,894 | +$3,153 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Giants vs. Rams: O/U 37.5 | Over 37.5 | 1.79 (56¢) | $29,939 | -$29,939 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 447 en total)_
 | primm | Colts vs. Chiefs: O/U 45.5 | Over 45.5 | 2.00 (50¢) | $41,396 | +$41,396 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $44,896 | -$44,896 | ❌ Perdida |
 | Tiger200 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $79,457 | -$79,457 | ❌ Perdida |
-| taylorsversion | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $54,000 | +$46,000 | ✅ Ganada |
