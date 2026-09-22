@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 19:23:31 (hora de Perú)
+Actualizado: 2026-09-21 19:25:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3420**  ($184,002,691 en total)
+- Apuestas registradas: **3423**  ($184,154,764 en total)
 - Resueltas: **3392** — 2054 ganadas / 1338 perdidas (**61%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 445
+- Pendientes: 15
+- Apostadores distintos: 446
 
 ### Balance
 
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 
-_(mostrando los 40 de mayor monto, de 445 en total)_
+_(mostrando los 40 de mayor monto, de 446 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bands1 | Giants vs. Rams | Rams | 1.25 (80¢) | $48,000 | — | ⏳ Pendiente |
+| 3648393489047 | Giants vs. Rams | Rams | 1.25 (80¢) | $26,073 | — | ⏳ Pendiente |
+| nuttypoo | Giants vs. Rams | Rams | 1.23 (81¢) | $78,000 | — | ⏳ Pendiente |
 | ratatatatatatatataaaa | Giants vs. Rams | Rams | 1.39 (72¢) | $102,612 | — | ⏳ Pendiente |
 | martingaleking | Giants vs. Rams | Rams | 1.39 (72¢) | $43,200 | — | ⏳ Pendiente |
 | Diabolical-Prize | Giants vs. Rams | Giants | 3.45 (29¢) | $40,600 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 445 en total)_
 | wr0ngw4yb3tt0r | Raiders vs. Chargers | Raiders | 1.92 (52¢) | $33,287 | +$30,726 | ✅ Ganada |
 | rf13g145g41g4g4 | Raiders vs. Chargers | Raiders | 1.64 (61¢) | $52,869 | +$33,802 | ✅ Ganada |
 | ethanaz | Commanders vs. Cowboys | Cowboys | 1.39 (72¢) | $38,515 | +$14,978 | ✅ Ganada |
-| jaytee158 | Commanders vs. Cowboys | Cowboys | 1.16 (86¢) | $50,247 | +$8,180 | ✅ Ganada |
-| winwin518168 | Portland Fire vs. Los Angeles Sparks | Portland Fire | 2.04 (49¢) | $29,400 | -$29,400 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raiders vs. Chargers | Raiders | 2.44 (41¢) | $31,895 | +$45,898 | ✅ Ganada |
