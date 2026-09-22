@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 14:48:06 (hora de Perú)
+Actualizado: 2026-09-22 14:50:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3444**  ($185,621,810 en total)
+- Apuestas registradas: **3445**  ($185,649,498 en total)
 - Resueltas: **3418** — 2071 ganadas / 1347 perdidas (**61%** de acierto)
-- Pendientes: 10
-- Apostadores distintos: 449
+- Pendientes: 11
+- Apostadores distintos: 450
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 
-_(mostrando los 40 de mayor monto, de 449 en total)_
+_(mostrando los 40 de mayor monto, de 450 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Singapore Open: Oleksandra Oliynykova vs Maja Chwalinska | Maja Chwalinska | 1.49 (67¢) | $27,688 | — | ⏳ Pendiente |
 | kkookkoo | Cincinnati Reds vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.67 (60¢) | $31,564 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.72 (58¢) | $28,841 | — | ⏳ Pendiente |
 | sulumos | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $25,420 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 449 en total)_
 | User1244322 | Colts vs. Chiefs | Chiefs | 1.35 (74¢) | $36,813 | +$12,934 | ✅ Ganada |
 | User1244322 | Colts vs. Chiefs | Colts | 2.50 (40¢) | $36,821 | -$36,821 | ❌ Perdida |
 | ndb1 | Colts vs. Chiefs | Chiefs | 1.64 (61¢) | $31,282 | +$20,000 | ✅ Ganada |
-| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs | Chiefs | 1.61 (62¢) | $40,000 | +$24,516 | ✅ Ganada |

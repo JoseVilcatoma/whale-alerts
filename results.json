@@ -51774,5 +51774,20 @@
     "status": "pending",
     "ultimo_fill": 1790105939,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7040,
+    "timestamp": 1790106491,
+    "username": "0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513",
+    "wallet": "0x2ce8505aa641791eb8460f6ac6bf5c0511e34527",
+    "slug": "wta-oliynyk-chwalin-2026-09-22",
+    "title": "Singapore Open: Oleksandra Oliynykova vs Maja Chwalinska",
+    "outcome": "Maja Chwalinska",
+    "side": "BUY",
+    "usd": 27687.7232,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1790106491,
+    "fills": 1
   }
 ]
