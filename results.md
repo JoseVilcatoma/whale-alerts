@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 23:33:16 (hora de Perú)
+Actualizado: 2026-09-21 23:35:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3429**  ($184,587,632 en total)
-- Resueltas: **3409** — 2067 ganadas / 1342 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **3410** — 2067 ganadas / 1343 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 446
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,228,199** sobre $183,826,891 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,314** sobre $335,900 (ROI **-2.8%**)
+- **Resultado de los apostadores: -$1,264,199** sobre $183,862,891 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,414** sobre $336,000 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ferrariChampions2026 | 34 | 20 | 0 | 63% | $2,161,310 | -$454,397 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
-| BrotherObama | 22 | 22 | 2 | 50% | $1,981,334 | +$143,780 |
+| BrotherObama | 22 | 23 | 1 | 49% | $1,981,334 | +$107,780 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 | kkookkoo | Spread: Rams (-7.5) | Giants | 1.75 (57¢) | $36,999 | — | ⏳ Pendiente |
 | kkookkoo | Buenos Aires 2: Gonzalo Villanueva vs Guido Justo | Gonzalo Villanueva | 1.85 (54¢) | $31,000 | -$31,000 | ❌ Perdida |
 | justwins | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.89 (53¢) | $27,377 | +$24,278 | ✅ Ganada |
-| BrotherObama | Minnesota Twins vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,000 | — | ⏳ Pendiente |
+| BrotherObama | Minnesota Twins vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,000 | -$36,000 | ❌ Perdida |
 | Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.27 (44¢) | $31,220 | +$39,735 | ✅ Ganada |
 | Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $27,570 | +$38,073 | ✅ Ganada |
 | 177-letsgo | Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska | Nadia Podoroska | 1.18 (85¢) | $25,358 | -$25,358 | ❌ Perdida |
