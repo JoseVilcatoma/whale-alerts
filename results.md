@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 22:33:40 (hora de Perú)
+Actualizado: 2026-09-21 22:36:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3429**  ($184,587,632 en total)
-- Resueltas: **3395** — 2056 ganadas / 1339 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **3409** — 2067 ganadas / 1342 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 446
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,243,675** sobre $182,946,070 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,295** sobre $334,500 (ROI **-2.8%**)
+- **Resultado de los apostadores: -$1,228,199** sobre $183,826,891 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,314** sobre $335,900 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,15 +24,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 253 | 128 | 3 | 66% | $25,124,517 | +$1,091,927 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 253 | 129 | 2 | 66% | $25,124,517 | +$997,413 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 69 | 1 | 54% | $6,192,908 | -$205,672 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 67 | 50 | 0 | 57% | $5,353,186 | +$650,173 |
-| wr0ngw4yb3tt0r | 54 | 36 | 2 | 60% | $4,912,957 | -$252,386 |
+| wr0ngw4yb3tt0r | 56 | 36 | 0 | 61% | $4,912,957 | -$243,583 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Diabolical-Prize | 31 | 35 | 2 | 47% | $3,432,937 | -$485,406 |
+| Diabolical-Prize | 31 | 36 | 1 | 46% | $3,432,937 | -$526,006 |
 | Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -42,10 +42,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 34 | 20 | 0 | 63% | $2,161,310 | -$454,397 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | BrotherObama | 22 | 22 | 2 | 50% | $1,981,334 | +$143,780 |
-| surfandturf | 17 | 2 | 1 | 89% | $1,873,560 | +$310,869 |
+| surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| ethanaz | 19 | 4 | 1 | 83% | $1,711,749 | -$29,820 |
+| ethanaz | 20 | 4 | 0 | 83% | $1,711,749 | +$3,544 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,23 +71,23 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.08 (93¢) | $41,894 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.08 (93¢) | $41,894 | +$3,153 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Giants vs. Rams: O/U 37.5 | Over 37.5 | 1.79 (56¢) | $29,939 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.06 (94¢) | $88,516 | — | ⏳ Pendiente |
-| cosmicxbt | Giants vs. Rams | Rams | 1.11 (90¢) | $75,009 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.06 (94¢) | $88,516 | +$5,650 | ✅ Ganada |
+| cosmicxbt | Giants vs. Rams | Rams | 1.11 (90¢) | $75,009 | +$8,334 | ✅ Ganada |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Giants vs. Rams | Rams | 1.11 (90¢) | $72,000 | +$1,600 | 💰 Vendida antes |
-| ethanaz | Giants vs. Rams | Rams | 1.27 (79¢) | $125,510 | — | ⏳ Pendiente |
-| bands1 | Giants vs. Rams | Rams | 1.25 (80¢) | $48,000 | — | ⏳ Pendiente |
-| 3648393489047 | Giants vs. Rams | Rams | 1.25 (80¢) | $26,073 | — | ⏳ Pendiente |
-| nuttypoo | Giants vs. Rams | Rams | 1.23 (81¢) | $78,000 | — | ⏳ Pendiente |
-| ratatatatatatatataaaa | Giants vs. Rams | Rams | 1.39 (72¢) | $102,612 | — | ⏳ Pendiente |
-| martingaleking | Giants vs. Rams | Rams | 1.39 (72¢) | $43,200 | — | ⏳ Pendiente |
-| Diabolical-Prize | Giants vs. Rams | Giants | 3.45 (29¢) | $40,600 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Rams | Giants | 3.57 (28¢) | $94,514 | — | ⏳ Pendiente |
-| THEdirkdiggler | Giants vs. Rams | Rams | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
+| ethanaz | Giants vs. Rams | Rams | 1.27 (79¢) | $125,510 | +$33,363 | ✅ Ganada |
+| bands1 | Giants vs. Rams | Rams | 1.25 (80¢) | $48,000 | +$12,000 | ✅ Ganada |
+| 3648393489047 | Giants vs. Rams | Rams | 1.25 (80¢) | $26,073 | +$6,518 | ✅ Ganada |
+| nuttypoo | Giants vs. Rams | Rams | 1.23 (81¢) | $78,000 | +$18,296 | ✅ Ganada |
+| ratatatatatatatataaaa | Giants vs. Rams | Rams | 1.39 (72¢) | $102,612 | +$39,905 | ✅ Ganada |
+| martingaleking | Giants vs. Rams | Rams | 1.39 (72¢) | $43,200 | +$16,800 | ✅ Ganada |
+| Diabolical-Prize | Giants vs. Rams | Giants | 3.45 (29¢) | $40,600 | -$40,600 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Rams | Giants | 3.57 (28¢) | $94,514 | -$94,514 | ❌ Perdida |
+| THEdirkdiggler | Giants vs. Rams | Rams | 1.39 (72¢) | $36,000 | +$14,000 | ✅ Ganada |
 | Diabolical-Prize | Giants vs. Rams: O/U 47.5 | Over 47.5 | 2.04 (49¢) | $42,578 | — | ⏳ Pendiente |
-| surfandturf | Giants vs. Rams | Rams | 1.39 (72¢) | $52,892 | — | ⏳ Pendiente |
-| BruceWayne77 | Giants vs. Rams | Giants | 3.57 (28¢) | $28,000 | — | ⏳ Pendiente |
+| surfandturf | Giants vs. Rams | Rams | 1.39 (72¢) | $52,892 | +$20,569 | ✅ Ganada |
+| BruceWayne77 | Giants vs. Rams | Giants | 3.57 (28¢) | $28,000 | -$28,000 | ❌ Perdida |
 | kkookkoo | Spread: Rams (-7.5) | Giants | 1.75 (57¢) | $36,999 | — | ⏳ Pendiente |
 | kkookkoo | Buenos Aires 2: Gonzalo Villanueva vs Guido Justo | Gonzalo Villanueva | 1.85 (54¢) | $31,000 | -$31,000 | ❌ Perdida |
 | justwins | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.89 (53¢) | $27,377 | +$24,278 | ✅ Ganada |
