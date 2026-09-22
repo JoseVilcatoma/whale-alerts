@@ -51664,10 +51664,25 @@
     "title": "Tampa Bay Rays vs. New York Yankees",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "usd": 139600.2977,
+    "usd": 166512.2977,
     "odds_at_bet": 57,
     "status": "pending",
-    "ultimo_fill": 1790093316,
-    "fills": 2
+    "ultimo_fill": 1790093411,
+    "fills": 3
+  },
+  {
+    "telegram_msg_id": 7031,
+    "timestamp": 1790093323,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-ice-3dmax-2026-09-22",
+    "title": "Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "usd": 35200.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1790093323,
+    "fills": 1
   }
 ]
