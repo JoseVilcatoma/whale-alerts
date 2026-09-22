@@ -51609,5 +51609,20 @@
     "status": "pending",
     "ultimo_fill": 1790078945,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7024,
+    "timestamp": 1790081071,
+    "username": "EsportsAI",
+    "wallet": "0xb1ce16068fc340157af2ba61fecf263232ec3991",
+    "slug": "dota2-navi-1win-2026-09-22",
+    "title": "Dota 2: Natus Vincere vs 1win (BO3) - PGL Wallachia Group Stage",
+    "outcome": "1win",
+    "side": "BUY",
+    "usd": 26241.5985,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1790081071,
+    "fills": 1
   }
 ]
