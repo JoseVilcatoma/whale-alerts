@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 06:24:35 (hora de Perú)
+Actualizado: 2026-09-22 06:26:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3431**  ($184,643,775 en total)
-- Resueltas: **3413** — 2067 ganadas / 1346 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Resueltas: **3414** — 2068 ganadas / 1346 perdidas (**61%** de acierto)
+- Pendientes: 1
 - Apostadores distintos: 447
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,373,715** sobre $183,972,407 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,714** sobre $336,300 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$1,363,346** sobre $184,000,441 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,677** sobre $336,400 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 447 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | kkookkoo | Plovdiv 4: Tommaso Compagnucci vs Yanaki Milev | Tommaso Compagnucci | 1.79 (56¢) | $28,109 | — | ⏳ Pendiente |
-| laIaIalala | St. Tropez: Hugo Grenier vs Thomas Faurel | Thomas Faurel | 1.37 (73¢) | $28,034 | — | ⏳ Pendiente |
+| laIaIalala | St. Tropez: Hugo Grenier vs Thomas Faurel | Thomas Faurel | 1.37 (73¢) | $28,034 | +$10,369 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.08 (93¢) | $41,894 | +$3,153 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Giants vs. Rams: O/U 37.5 | Over 37.5 | 1.79 (56¢) | $29,939 | -$29,939 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.06 (94¢) | $88,516 | +$5,650 | ✅ Ganada |
