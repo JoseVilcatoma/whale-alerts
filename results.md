@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 20:46:52 (hora de Perú)
+Actualizado: 2026-09-21 20:48:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3426**  ($184,427,283 en total)
+- Apuestas registradas: **3427**  ($184,515,799 en total)
 - Resueltas: **3394** — 2055 ganadas / 1339 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 446
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | pleaseplease123 | 67 | 50 | 0 | 57% | $5,353,186 | +$650,173 |
-| wr0ngw4yb3tt0r | 54 | 36 | 0 | 60% | $4,782,546 | -$252,386 |
+| wr0ngw4yb3tt0r | 54 | 36 | 1 | 60% | $4,871,062 | -$252,386 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Diabolical-Prize | 31 | 35 | 2 | 47% | $3,432,937 | -$485,406 |
 | Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.06 (94¢) | $88,516 | — | ⏳ Pendiente |
 | cosmicxbt | Giants vs. Rams | Rams | 1.11 (90¢) | $75,009 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Giants vs. Rams | Rams | 1.11 (90¢) | $72,000 | +$1,600 | 💰 Vendida antes |
 | ethanaz | Giants vs. Rams | Rams | 1.27 (79¢) | $125,510 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 | SDTrading | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | OhWhenTheReds | Deportivo Toluca FC vs. Club Santos Laguna: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $25,189 | -$25,189 | ❌ Perdida |
 | kkookkoo | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.49 (67¢) | $45,000 | +$22,164 | ✅ Ganada |
-| mooseborzoi | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.52 (66¢) | $26,577 | +$13,691 | ✅ Ganada |
