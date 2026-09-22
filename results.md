@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 07:07:19 (hora de Perú)
+Actualizado: 2026-09-22 07:09:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3432**  ($184,684,625 en total)
+- Apuestas registradas: **3433**  ($184,729,475 en total)
 - Resueltas: **3414** — 2068 ganadas / 1346 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 447
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 447 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play Connect Playoffs | Luminosity | 2.56 (39¢) | $44,850 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $40,850 | — | ⏳ Pendiente |
 | kkookkoo | Plovdiv 4: Tommaso Compagnucci vs Yanaki Milev | Tommaso Compagnucci | 1.79 (56¢) | $28,109 | — | ⏳ Pendiente |
 | laIaIalala | St. Tropez: Hugo Grenier vs Thomas Faurel | Thomas Faurel | 1.37 (73¢) | $28,034 | +$10,369 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 447 en total)_
 | mooseborzoi | Colts vs. Chiefs | Colts | 3.45 (29¢) | $155,084 | -$155,084 | ❌ Perdida |
 | everythingisokay | Colts vs. Chiefs | Chiefs | 1.39 (72¢) | $25,699 | +$9,994 | ✅ Ganada |
 | primm | Colts vs. Chiefs: O/U 45.5 | Over 45.5 | 2.00 (50¢) | $41,396 | +$41,396 | ✅ Ganada |
-| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $44,896 | -$44,896 | ❌ Perdida |
