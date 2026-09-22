@@ -51549,5 +51549,20 @@
     "status": "won",
     "ultimo_fill": 1790042496,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7018,
+    "timestamp": 1790071382,
+    "username": "laIaIalala",
+    "wallet": "0x441909510a0b18a7df9f5ea588314a53d5bcfcf4",
+    "slug": "atp-grenier-faurel-2026-09-22",
+    "title": "St. Tropez: Hugo Grenier vs Thomas Faurel",
+    "outcome": "Thomas Faurel",
+    "side": "BUY",
+    "usd": 28033.8848,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1790071382,
+    "fills": 1
   }
 ]

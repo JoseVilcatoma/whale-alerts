@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 05:01:20 (hora de Perú)
+Actualizado: 2026-09-22 05:03:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3429**  ($184,587,632 en total)
+- Apuestas registradas: **3430**  ($184,615,666 en total)
 - Resueltas: **3413** — 2067 ganadas / 1346 perdidas (**61%** de acierto)
-- Pendientes: 0
-- Apostadores distintos: 446
+- Pendientes: 1
+- Apostadores distintos: 447
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Flaznorp | 16 | 4 | 0 | 80% | $909,393 | +$81,104 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 
-_(mostrando los 40 de mayor monto, de 446 en total)_
+_(mostrando los 40 de mayor monto, de 447 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| laIaIalala | St. Tropez: Hugo Grenier vs Thomas Faurel | Thomas Faurel | 1.37 (73¢) | $28,034 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.08 (93¢) | $41,894 | +$3,153 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Giants vs. Rams: O/U 37.5 | Over 37.5 | 1.79 (56¢) | $29,939 | -$29,939 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.06 (94¢) | $88,516 | +$5,650 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $44,896 | -$44,896 | ❌ Perdida |
 | Tiger200 | Colts vs. Chiefs: O/U 46.5 | Under 46.5 | 1.85 (54¢) | $79,457 | -$79,457 | ❌ Perdida |
 | taylorsversion | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $54,000 | +$46,000 | ✅ Ganada |
-| SDTrading | Spread: Chiefs (-6.5) | Colts | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
