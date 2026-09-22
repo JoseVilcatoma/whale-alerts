@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-21 19:46:17 (hora de Perú)
+Actualizado: 2026-09-21 19:48:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3424**  ($184,280,274 en total)
+- Apuestas registradas: **3425**  ($184,352,274 en total)
 - Resueltas: **3392** — 2054 ganadas / 1338 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 446
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Giants vs. Rams | Rams | 1.11 (90¢) | $72,000 | — | ⏳ Pendiente |
 | ethanaz | Giants vs. Rams | Rams | 1.27 (79¢) | $125,510 | — | ⏳ Pendiente |
 | bands1 | Giants vs. Rams | Rams | 1.25 (80¢) | $48,000 | — | ⏳ Pendiente |
 | 3648393489047 | Giants vs. Rams | Rams | 1.25 (80¢) | $26,073 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 446 en total)_
 | kkookkoo | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.49 (67¢) | $45,000 | +$22,164 | ✅ Ganada |
 | mooseborzoi | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers | 1.52 (66¢) | $26,577 | +$13,691 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Raiders vs. Chargers | Raiders | 1.92 (52¢) | $33,287 | +$30,726 | ✅ Ganada |
-| rf13g145g41g4g4 | Raiders vs. Chargers | Raiders | 1.64 (61¢) | $52,869 | +$33,802 | ✅ Ganada |
