@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 07:13:26 (hora de Perú)
+Actualizado: 2026-09-22 07:15:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3433**  ($184,729,475 en total)
-- Resueltas: **3414** — 2068 ganadas / 1346 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Resueltas: **3415** — 2069 ganadas / 1346 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 447
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,363,346** sobre $184,000,441 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,677** sobre $336,400 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$1,341,261** sobre $184,028,550 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$9,598** sobre $336,500 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 447 en total)_
 |---|---|---|---|---|---|---|
 | lllllllIlll | Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play Connect Playoffs | Luminosity | 2.56 (39¢) | $44,850 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $40,850 | — | ⏳ Pendiente |
-| kkookkoo | Plovdiv 4: Tommaso Compagnucci vs Yanaki Milev | Tommaso Compagnucci | 1.79 (56¢) | $28,109 | — | ⏳ Pendiente |
+| kkookkoo | Plovdiv 4: Tommaso Compagnucci vs Yanaki Milev | Tommaso Compagnucci | 1.79 (56¢) | $28,109 | +$22,086 | ✅ Ganada |
 | laIaIalala | St. Tropez: Hugo Grenier vs Thomas Faurel | Thomas Faurel | 1.37 (73¢) | $28,034 | +$10,369 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.08 (93¢) | $41,894 | +$3,153 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Giants vs. Rams: O/U 37.5 | Over 37.5 | 1.79 (56¢) | $29,939 | -$29,939 | ❌ Perdida |
