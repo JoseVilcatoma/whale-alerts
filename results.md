@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 17:34:41 (hora de Perú)
+Actualizado: 2026-09-22 17:40:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3451**  ($187,982,318 en total)
+- Apuestas registradas: **3452**  ($188,030,778 en total)
 - Resueltas: **3427** — 2077 ganadas / 1350 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 450
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 254 | 130 | 2 | 66% | $25,494,405 | +$677,250 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 70 | 0 | 54% | $6,192,908 | -$235,611 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 70 | 1 | 54% | $6,241,369 | -$235,611 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.69 (59¢) | $48,461 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $27,043 | — | ⏳ Pendiente |
 | Donkey14 | Arizona Diamondbacks vs. Colorado Rockies | Arizona Diamondbacks | 1.59 (63¢) | $26,452 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $76,647 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | ferrariChampions2026 | Colts vs. Chiefs | Colts | 2.13 (47¢) | $27,804 | -$27,804 | ❌ Perdida |
 | ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.89 (53¢) | $28,101 | +$24,920 | ✅ Ganada |
 | KaneAnalytics | Colts vs. Chiefs | Colts | 2.22 (45¢) | $26,185 | -$26,185 | ❌ Perdida |
-| Soarin22 | Colts vs. Chiefs | Chiefs | 1.47 (68¢) | $25,187 | +$11,853 | ✅ Ganada |
