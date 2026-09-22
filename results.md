@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 16:39:01 (hora de Perú)
+Actualizado: 2026-09-22 16:41:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3447**  ($187,823,985 en total)
+- Apuestas registradas: **3448**  ($187,852,176 en total)
 - Resueltas: **3427** — 2077 ganadas / 1350 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 450
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 3.23 (31¢) | $28,192 | — | ⏳ Pendiente |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $1,772,420 | — | ⏳ Pendiente |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $402,067 | — | ⏳ Pendiente |
 | 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Singapore Open: Oleksandra Oliynykova vs Maja Chwalinska | Maja Chwalinska | 1.49 (67¢) | $27,688 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.30 (77¢) | $55,013 | +$16,432 | ✅ Ganada |
 | 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Colts vs. Chiefs | Chiefs | 1.19 (84¢) | $25,200 | +$4,800 | ✅ Ganada |
 | ferrariChampions2026 | Colts vs. Chiefs | Chiefs | 1.27 (79¢) | $89,454 | +$23,779 | ✅ Ganada |
-| User1244322 | Colts vs. Chiefs | Chiefs | 1.35 (74¢) | $36,813 | +$12,934 | ✅ Ganada |
