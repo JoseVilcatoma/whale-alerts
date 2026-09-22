@@ -51894,5 +51894,35 @@
     "status": "pending",
     "ultimo_fill": 1790116720,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7059,
+    "timestamp": 1790116977,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-cin-atl-2026-09-22-total-9pt5",
+    "title": "Cincinnati Reds vs. Atlanta Braves: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 62205.85919999999,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1790116977,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7060,
+    "timestamp": 1790116541,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-min-sf-2026-09-22-total-7pt5",
+    "title": "Minnesota Twins vs. San Francisco Giants: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 74999.52,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1790116541,
+    "fills": 1
   }
 ]
