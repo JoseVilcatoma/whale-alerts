@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 17:49:16 (hora de Perú)
+Actualizado: 2026-09-23 17:51:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3488**  ($190,281,204 en total)
-- Resueltas: **3460** — 2096 ganadas / 1364 perdidas (**61%** de acierto)
+- Apuestas registradas: **3489**  ($190,323,152 en total)
+- Resueltas: **3461** — 2096 ganadas / 1365 perdidas (**61%** de acierto)
 - Pendientes: 11
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,820,633** sobre $189,186,062 apostados (ROI **-2.0%**)
-- Copiando $100 fijo en cada una: **-$8,975** sobre $341,000 (ROI **-2.6%**)
+- **Resultado de los apostadores: -$3,854,375** sobre $189,219,804 apostados (ROI **-2.0%**)
+- Copiando $100 fijo en cada una: **-$9,075** sobre $341,100 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 256 | 130 | 4 | 66% | $25,723,472 | +$809,772 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 83 | 71 | 0 | 54% | $6,369,414 | -$208,056 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 83 | 71 | 1 | 54% | $6,411,362 | -$208,056 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | pleaseplease123 | 69 | 53 | 0 | 57% | $5,638,282 | +$559,966 |
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Athletics | Los Angeles Angels | 1.82 (55¢) | $41,948 | — | ⏳ Pendiente |
 | nigiri99 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $27,012 | — | ⏳ Pendiente |
 | HMLSF | Los Angeles Angels vs. Athletics | Athletics | 2.17 (46¢) | $25,877 | — | ⏳ Pendiente |
 | Donkey14 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $45,177 | — | ⏳ Pendiente |
 | HMLSF | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox | 1.79 (56¢) | $27,858 | — | ⏳ Pendiente |
 | dsasdaas | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $90,315 | — | ⏳ Pendiente |
 | mooseborzoi | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $25,181 | — | ⏳ Pendiente |
-| EsportsAI | Minnesota Twins vs. San Francisco Giants | San Francisco Giants | 2.38 (42¢) | $33,742 | — | ⏳ Pendiente |
+| EsportsAI | Minnesota Twins vs. San Francisco Giants | San Francisco Giants | 2.38 (42¢) | $33,742 | -$33,742 | ❌ Perdida |
 | xifutloong3 | Toronto Blue Jays vs. Baltimore Orioles | Toronto Blue Jays | 2.22 (45¢) | $34,124 | -$34,124 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5 | Under 11.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | Pwaddler | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $36,372 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $40,850 | +$54,150 | ✅ Ganada |
 | kkookkoo | Plovdiv 4: Tommaso Compagnucci vs Yanaki Milev | Tommaso Compagnucci | 1.79 (56¢) | $28,109 | +$22,086 | ✅ Ganada |
 | laIaIalala | St. Tropez: Hugo Grenier vs Thomas Faurel | Thomas Faurel | 1.37 (73¢) | $28,034 | +$10,369 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.08 (93¢) | $41,894 | +$3,153 | ✅ Ganada |
