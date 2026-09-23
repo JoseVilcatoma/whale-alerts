@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 19:19:22 (hora de Perú)
+Actualizado: 2026-09-22 19:21:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3461**  ($188,595,889 en total)
+- Apuestas registradas: **3462**  ($188,626,121 en total)
 - Resueltas: **3427** — 2077 ganadas / 1350 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 450
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 11 | 10 | 0 | 52% | $1,046,960 | +$193,981 |
 | ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
 | maz26 | 8 | 6 | 0 | 57% | $950,222 | -$162,214 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 15 | 9 | 3 | 62% | $940,410 | -$21,331 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 15 | 9 | 2 | 62% | $910,178 | -$21,331 |
 
 _(mostrando los 40 de mayor monto, de 450 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HMLSF | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.92 (52¢) | $30,233 | — | ⏳ Pendiente |
 | HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 2.50 (40¢) | $34,150 | — | ⏳ Pendiente |
 | xifutloong3 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $49,041 | — | ⏳ Pendiente |
 | BrotherObama | Arizona Diamondbacks vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $80,228 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | bloodmaster | LoL: Skillcamp Esport vs Arctic Pandas (BO3) - EMEA Masters Group A | Skillcamp Esport | 1.09 (92¢) | $29,876 | +$2,598 | ✅ Ganada |
 | Diabolical-Prize | Dota 2: Yakult Brothers vs PlayTime - Game 2 Winner | PlayTime | 2.33 (43¢) | $35,604 | -$35,604 | ❌ Perdida |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - PGL Wallachia Group Stage | LGD Gaming | 1.59 (63¢) | $30,000 | -$30,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colts vs. Chiefs | Chiefs | 1.23 (81¢) | $46,362 | +$10,875 | ✅ Ganada |
