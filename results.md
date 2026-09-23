@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 21:10:41 (hora de Perú)
+Actualizado: 2026-09-22 21:12:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3464**  ($188,684,448 en total)
-- Resueltas: **3437** — 2083 ganadas / 1354 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **3438** — 2083 ganadas / 1355 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 450
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,340,489** sobre $187,494,189 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$9,010** sobre $338,700 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$3,402,695** sobre $187,556,395 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$9,110** sobre $338,800 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 254 | 130 | 2 | 66% | $25,494,405 | +$677,250 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 82 | 70 | 2 | 54% | $6,369,414 | -$201,935 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 82 | 71 | 1 | 54% | $6,369,414 | -$264,141 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | pleaseplease123 | 67 | 50 | 4 | 57% | $5,607,482 | +$650,173 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $65,839 | — | ⏳ Pendiente |
 | xifutloong3 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.54 (65¢) | $33,076 | +$17,810 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $75,606 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Atlanta Braves: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $62,206 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Atlanta Braves: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $62,206 | -$62,206 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.69 (59¢) | $48,461 | +$33,676 | ✅ Ganada |
 | pleaseplease123 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $75,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $27,043 | — | ⏳ Pendiente |
