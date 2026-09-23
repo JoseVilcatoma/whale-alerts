@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 22:25:36 (hora de Perú)
+Actualizado: 2026-09-22 22:27:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3464**  ($188,684,448 en total)
-- Resueltas: **3439** — 2083 ganadas / 1356 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **3440** — 2084 ganadas / 1356 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 450
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,479,341** sobre $187,633,042 apostados (ROI **-1.9%**)
-- Copiando $100 fijo en cada una: **-$9,210** sobre $338,900 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$3,450,199** sobre $187,661,042 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$9,106** sobre $339,000 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| kkookkoo | New York Mets vs. Texas Rangers | New York Mets | 2.04 (49¢) | $28,000 | — | ⏳ Pendiente |
+| kkookkoo | New York Mets vs. Texas Rangers | New York Mets | 2.04 (49¢) | $28,000 | +$29,143 | ✅ Ganada |
 | Sassy-Bucket | Houston Astros vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $30,327 | — | ⏳ Pendiente |
 | HMLSF | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.92 (52¢) | $30,233 | +$27,907 | ✅ Ganada |
 | HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 2.50 (40¢) | $34,150 | +$51,225 | ✅ Ganada |
