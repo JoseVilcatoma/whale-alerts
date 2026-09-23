@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 22:33:44 (hora de Perú)
+Actualizado: 2026-09-22 22:35:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3464**  ($188,684,448 en total)
-- Resueltas: **3441** — 2084 ganadas / 1357 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **3442** — 2085 ganadas / 1357 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 450
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,530,426** sobre $187,741,269 apostados (ROI **-1.9%**)
-- Copiando $100 fijo en cada una: **-$9,206** sobre $339,100 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$3,514,891** sobre $187,767,721 apostados (ROI **-1.9%**)
+- Copiando $100 fijo en cada una: **-$9,147** sobre $339,200 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.69 (59¢) | $48,461 | +$33,676 | ✅ Ganada |
 | pleaseplease123 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $75,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $27,043 | — | ⏳ Pendiente |
-| Donkey14 | Arizona Diamondbacks vs. Colorado Rockies | Arizona Diamondbacks | 1.59 (63¢) | $26,452 | — | ⏳ Pendiente |
+| Donkey14 | Arizona Diamondbacks vs. Colorado Rockies | Arizona Diamondbacks | 1.59 (63¢) | $26,452 | +$15,535 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $76,647 | -$76,647 | ❌ Perdida |
 | HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 3.23 (31¢) | $28,192 | +$62,749 | ✅ Ganada |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $1,772,420 | -$1,772,420 | ❌ Perdida |
