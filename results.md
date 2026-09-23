@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 12:37:32 (hora de Perú)
+Actualizado: 2026-09-23 12:39:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3478**  ($189,885,547 en total)
+- Apuestas registradas: **3479**  ($189,921,919 en total)
 - Resueltas: **3452** — 2092 ganadas / 1360 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 451
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Pwaddler | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $36,372 | — | ⏳ Pendiente |
 | pleaseplease123 | Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,800 | — | ⏳ Pendiente |
 | SDTrading | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles | 1.85 (54¢) | $30,518 | — | ⏳ Pendiente |
 | tg-stakeqiu | Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs | 3DMAX | 2.38 (42¢) | $26,716 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | 3648393489047 | Giants vs. Rams | Rams | 1.25 (80¢) | $26,073 | +$6,518 | ✅ Ganada |
 | nuttypoo | Giants vs. Rams | Rams | 1.23 (81¢) | $78,000 | +$18,296 | ✅ Ganada |
 | ratatatatatatatataaaa | Giants vs. Rams | Rams | 1.39 (72¢) | $102,612 | +$39,905 | ✅ Ganada |
-| martingaleking | Giants vs. Rams | Rams | 1.39 (72¢) | $43,200 | +$16,800 | ✅ Ganada |
