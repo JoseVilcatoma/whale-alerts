@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 10:25:11 (hora de Perú)
+Actualizado: 2026-09-23 10:27:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3473**  ($189,358,146 en total)
+- Apuestas registradas: **3475**  ($189,797,513 en total)
 - Resueltas: **3451** — 2091 ganadas / 1360 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 7
 - Apostadores distintos: 451
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 255 | 130 | 3 | 66% | $25,599,472 | +$683,772 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 255 | 130 | 4 | 66% | $25,673,472 | +$683,772 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 83 | 71 | 0 | 54% | $6,369,414 | -$208,056 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.70 (37¢) | $74,000 | — | ⏳ Pendiente |
+| SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.56 (64¢) | $365,368 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $293,916 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.56 (39¢) | $119,532 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 2 Winner | LGD Gaming | 1.56 (64¢) | $41,489 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | Diabolical-Prize | Giants vs. Rams | Giants | 3.45 (29¢) | $40,600 | -$40,600 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Rams | Giants | 3.57 (28¢) | $94,514 | -$94,514 | ❌ Perdida |
 | THEdirkdiggler | Giants vs. Rams | Rams | 1.39 (72¢) | $36,000 | +$14,000 | ✅ Ganada |
-| Diabolical-Prize | Giants vs. Rams: O/U 47.5 | Over 47.5 | 2.04 (49¢) | $42,578 | -$42,578 | ❌ Perdida |
-| surfandturf | Giants vs. Rams | Rams | 1.39 (72¢) | $52,892 | +$20,569 | ✅ Ganada |

@@ -52210,5 +52210,35 @@
     "status": "pending",
     "ultimo_fill": 1790176484,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7107,
+    "timestamp": 1790177167,
+    "username": "SmartPredictOrNot",
+    "wallet": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
+    "slug": "mlb-wsh-det-2026-09-23",
+    "title": "Washington Nationals vs. Detroit Tigers",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 365367.7795,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1790177168,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 7108,
+    "timestamp": 1790177168,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-wsh-det-2026-09-23",
+    "title": "Washington Nationals vs. Detroit Tigers",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 74000.0,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1790177168,
+    "fills": 1
   }
 ]
