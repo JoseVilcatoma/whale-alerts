@@ -52135,5 +52135,20 @@
     "status": "pending",
     "ultimo_fill": 1790167023,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7099,
+    "timestamp": 1790170393,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "dota2-lgd-mouz-2026-09-23-game1",
+    "title": "Dota 2: LGD Gaming vs MOUZ - Game 1 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 25742.016500000005,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1790170393,
+    "fills": 1
   }
 ]
