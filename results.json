@@ -52090,5 +52090,20 @@
     "ultimo_fill": 1790144936,
     "fills": 1,
     "profit_usd": 0.0
+  },
+  {
+    "telegram_msg_id": 7095,
+    "timestamp": 1790155762,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-nem-cs-2026-09-23-game1",
+    "title": "Dota 2: Team Nemesis vs Conventus Stellarum - Game 1 Winner",
+    "outcome": "Conventus Stellarum",
+    "side": "BUY",
+    "usd": 30000.000000244218,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1790155762,
+    "fills": 1
   }
 ]
