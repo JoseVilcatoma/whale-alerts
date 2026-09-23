@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 10:14:56 (hora de Perú)
+Actualizado: 2026-09-23 10:16:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3473**  ($189,250,367 en total)
+- Apuestas registradas: **3473**  ($189,358,146 en total)
 - Resueltas: **3451** — 2091 ganadas / 1360 perdidas (**61%** de acierto)
 - Pendientes: 5
 - Apostadores distintos: 451
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $186,137 | — | ⏳ Pendiente |
+| SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $293,916 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.56 (39¢) | $119,532 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 2 Winner | LGD Gaming | 1.56 (64¢) | $41,489 | — | ⏳ Pendiente |
 | Donkey14 | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
