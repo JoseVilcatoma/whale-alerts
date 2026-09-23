@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 01:41:49 (hora de Perú)
+Actualizado: 2026-09-23 01:43:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3465**  ($188,749,448 en total)
-- Resueltas: **3447** — 2087 ganadas / 1360 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Resueltas: **3448** — 2088 ganadas / 1360 perdidas (**61%** de acierto)
+- Pendientes: 1
 - Apostadores distintos: 450
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,527,894** sobre $188,041,536 apostados (ROI **-1.9%**)
-- Copiando $100 fijo en cada una: **-$9,277** sobre $339,700 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$3,514,257** sobre $188,069,223 apostados (ROI **-1.9%**)
+- Copiando $100 fijo en cada una: **-$9,228** sobre $339,800 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 3.23 (31¢) | $28,192 | +$62,749 | ✅ Ganada |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $1,772,420 | -$1,772,420 | ❌ Perdida |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $402,067 | -$402,067 | ❌ Perdida |
-| 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Singapore Open: Oleksandra Oliynykova vs Maja Chwalinska | Maja Chwalinska | 1.49 (67¢) | $27,688 | — | ⏳ Pendiente |
+| 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Singapore Open: Oleksandra Oliynykova vs Maja Chwalinska | Maja Chwalinska | 1.49 (67¢) | $27,688 | +$13,637 | ✅ Ganada |
 | kkookkoo | Cincinnati Reds vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.67 (60¢) | $31,564 | -$31,564 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.72 (58¢) | $28,841 | +$20,885 | ✅ Ganada |
 | sulumos | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $25,420 | -$25,420 | ❌ Perdida |
