@@ -1,8 +1,4 @@
 {
-  "0x5a218c7ad04135830a45c41aaed7294df7809318": {
-    "username": "balthazar",
-    "added_at": 1788226494.085779
-  },
   "0x3a8aa345d5db7ec5138298c8c4f4540259be7699": {
     "username": "TheReturnOfDarthMaul",
     "added_at": 1788798387.366081
@@ -26,10 +22,6 @@
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1789414928.4822145
-  },
-  "0x1610db79f753a80207e1d66716be9e91e627ae49": {
-    "username": "HMLSF",
-    "added_at": 1789478060.2512648
   },
   "0x9f2fe025f84839ca81dd8e0338892605702d2ca8": {
     "username": "surfandturf",
@@ -322,5 +314,17 @@
   "0xc29cd8f36242f58938ea9f10dc07fd269d592d10": {
     "username": "goshkam",
     "added_at": 1790105275.7249842
+  },
+  "0xe639e41094bbeae18f3e6d1790c17299183f082a": {
+    "username": "0xe639e41094bbeae18g3e6d1790c17299183f082a",
+    "added_at": 1790123009.6515932
+  },
+  "0x9c02fb0be74593049cf07a744f4dc8cf8b74285c": {
+    "username": "barndoor3",
+    "added_at": 1790123009.6515932
+  },
+  "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf": {
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "added_at": 1790123009.6515932
   }
 }
