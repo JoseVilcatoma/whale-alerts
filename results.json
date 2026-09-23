@@ -52105,5 +52105,20 @@
     "status": "won",
     "ultimo_fill": 1790155762,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7097,
+    "timestamp": 1790166575,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-tb-nyy-2026-09-23",
+    "title": "Tampa Bay Rays vs. New York Yankees",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 26668.9174,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1790166575,
+    "fills": 1
   }
 ]

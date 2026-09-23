@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 07:29:07 (hora de Perú)
+Actualizado: 2026-09-23 07:31:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3466**  ($188,779,448 en total)
+- Apuestas registradas: **3467**  ($188,806,117 en total)
 - Resueltas: **3449** — 2089 ganadas / 1360 perdidas (**61%** de acierto)
-- Pendientes: 0
+- Pendientes: 1
 - Apostadores distintos: 450
 
 ### Balance
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| SDTrading | 20 | 25 | 0 | 44% | $1,337,296 | -$244,457 |
+| SDTrading | 20 | 25 | 1 | 44% | $1,363,965 | -$244,457 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 14 | 0 | 39% | $1,257,497 | -$427,198 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $26,669 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Nemesis vs Conventus Stellarum - Game 1 Winner | Conventus Stellarum | 1.49 (67¢) | $30,000 | +$14,776 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Singapore Open: Elise Mertens vs Barbora Krejcikova | Elise Mertens | 1.96 (51¢) | $65,000 | — | ⊘ Anulada |
 | kkookkoo | New York Mets vs. Texas Rangers | New York Mets | 2.04 (49¢) | $28,000 | +$29,143 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | justwins | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.89 (53¢) | $27,377 | +$24,278 | ✅ Ganada |
 | BrotherObama | Minnesota Twins vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $36,000 | -$36,000 | ❌ Perdida |
 | Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.27 (44¢) | $31,220 | +$39,735 | ✅ Ganada |
-| Diabolical-Prize | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $27,570 | +$38,073 | ✅ Ganada |
