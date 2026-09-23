@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 17:01:17 (hora de Perú)
+Actualizado: 2026-09-23 17:03:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3482**  ($190,039,785 en total)
+- Apuestas registradas: **3483**  ($190,064,966 en total)
 - Resueltas: **3460** — 2096 ganadas / 1364 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 451
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $25,181 | — | ⏳ Pendiente |
 | EsportsAI | Minnesota Twins vs. San Francisco Giants | San Francisco Giants | 2.38 (42¢) | $33,742 | — | ⏳ Pendiente |
 | xifutloong3 | Toronto Blue Jays vs. Baltimore Orioles | Toronto Blue Jays | 2.22 (45¢) | $34,124 | -$34,124 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5 | Under 11.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | cosmicxbt | Giants vs. Rams | Rams | 1.11 (90¢) | $75,009 | +$8,334 | ✅ Ganada |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Giants vs. Rams | Rams | 1.11 (90¢) | $72,000 | +$1,600 | 💰 Vendida antes |
 | ethanaz | Giants vs. Rams | Rams | 1.27 (79¢) | $125,510 | +$33,363 | ✅ Ganada |
-| bands1 | Giants vs. Rams | Rams | 1.25 (80¢) | $48,000 | +$12,000 | ✅ Ganada |
