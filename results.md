@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 12:47:53 (hora de Perú)
+Actualizado: 2026-09-23 12:49:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3479**  ($189,921,919 en total)
+- Apuestas registradas: **3480**  ($189,971,919 en total)
 - Resueltas: **3452** — 2092 ganadas / 1360 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 451
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 255 | 130 | 4 | 66% | $25,673,472 | +$683,772 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 255 | 130 | 5 | 66% | $25,723,472 | +$683,772 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 83 | 71 | 0 | 54% | $6,369,414 | -$208,056 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5 | Under 11.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | Pwaddler | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $36,372 | — | ⏳ Pendiente |
 | pleaseplease123 | Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,800 | — | ⏳ Pendiente |
 | SDTrading | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles | 1.85 (54¢) | $30,518 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | bands1 | Giants vs. Rams | Rams | 1.25 (80¢) | $48,000 | +$12,000 | ✅ Ganada |
 | 3648393489047 | Giants vs. Rams | Rams | 1.25 (80¢) | $26,073 | +$6,518 | ✅ Ganada |
 | nuttypoo | Giants vs. Rams | Rams | 1.23 (81¢) | $78,000 | +$18,296 | ✅ Ganada |
-| ratatatatatatatataaaa | Giants vs. Rams | Rams | 1.39 (72¢) | $102,612 | +$39,905 | ✅ Ganada |
