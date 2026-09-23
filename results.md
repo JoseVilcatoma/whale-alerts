@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 21:29:25 (hora de Perú)
+Actualizado: 2026-09-22 21:31:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3464**  ($188,684,448 en total)
-- Resueltas: **3438** — 2083 ganadas / 1355 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **3439** — 2083 ganadas / 1356 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 450
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,402,695** sobre $187,556,395 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$9,110** sobre $338,800 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$3,479,341** sobre $187,633,042 apostados (ROI **-1.9%**)
+- Copiando $100 fijo en cada una: **-$9,210** sobre $338,900 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 82 | 71 | 1 | 54% | $6,369,414 | -$264,141 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
-| pleaseplease123 | 67 | 50 | 4 | 57% | $5,607,482 | +$650,173 |
+| pleaseplease123 | 67 | 51 | 3 | 57% | $5,607,482 | +$573,526 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 56 | 36 | 0 | 61% | $4,912,957 | -$243,583 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | pleaseplease123 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $75,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $27,043 | — | ⏳ Pendiente |
 | Donkey14 | Arizona Diamondbacks vs. Colorado Rockies | Arizona Diamondbacks | 1.59 (63¢) | $26,452 | — | ⏳ Pendiente |
-| pleaseplease123 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $76,647 | — | ⏳ Pendiente |
+| pleaseplease123 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $76,647 | -$76,647 | ❌ Perdida |
 | HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 3.23 (31¢) | $28,192 | +$62,749 | ✅ Ganada |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $1,772,420 | -$1,772,420 | ❌ Perdida |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $402,067 | -$402,067 | ❌ Perdida |
