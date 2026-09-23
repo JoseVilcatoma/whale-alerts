@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 08:40:34 (hora de Perú)
+Actualizado: 2026-09-23 08:42:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3470**  ($188,903,209 en total)
-- Resueltas: **3449** — 2089 ganadas / 1360 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **3450** — 2090 ganadas / 1360 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 450
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,499,481** sobre $188,099,223 apostados (ROI **-1.9%**)
-- Copiando $100 fijo en cada una: **-$9,178** sobre $339,900 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$3,492,958** sobre $188,139,291 apostados (ROI **-1.9%**)
+- Copiando $100 fijo en cada una: **-$9,162** sobre $340,000 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 254 | 130 | 4 | 66% | $25,599,472 | +$677,250 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 255 | 130 | 3 | 66% | $25,599,472 | +$683,772 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 83 | 71 | 0 | 54% | $6,369,414 | -$208,056 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 |---|---|---|---|---|---|---|
 | Donkey14 | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 1 Winner | LGD Gaming | 1.37 (73¢) | $25,742 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Valentin Royer vs Adam Walton | Valentin Royer | 1.16 (86¢) | $40,067 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Valentin Royer vs Adam Walton | Valentin Royer | 1.16 (86¢) | $40,067 | +$6,523 | ✅ Ganada |
 | SDTrading | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $26,669 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Nemesis vs Conventus Stellarum - Game 1 Winner | Conventus Stellarum | 1.49 (67¢) | $30,000 | +$14,776 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Singapore Open: Elise Mertens vs Barbora Krejcikova | Elise Mertens | 1.96 (51¢) | $65,000 | — | ⊘ Anulada |
