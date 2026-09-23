@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 21:08:38 (hora de Perú)
+Actualizado: 2026-09-22 21:10:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3464**  ($188,684,448 en total)
-- Resueltas: **3431** — 2081 ganadas / 1350 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **3437** — 2083 ganadas / 1354 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 450
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,199,371** sobre $185,176,757 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$8,983** sobre $338,100 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$3,340,489** sobre $187,494,189 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$9,010** sobre $338,700 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 32 | 35 | 1 | 48% | $3,371,314 | -$507,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| goshkam | 1 | 0 | 2 | ⚠️ 100% (1) | $2,470,204 | +$223,085 |
+| goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | ferrariChampions2026 | 35 | 20 | 0 | 64% | $2,251,276 | -$440,954 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -56,13 +56,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 14 | 0 | 39% | $1,257,497 | -$427,198 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
-| xifutloong3 | 18 | 15 | 1 | 55% | $1,147,454 | -$112,134 |
+| xifutloong3 | 18 | 16 | 0 | 53% | $1,147,454 | -$161,175 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | Talvez10 | 11 | 10 | 0 | 52% | $1,046,960 | +$193,981 |
 | ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
 | maz26 | 8 | 6 | 0 | 57% | $950,222 | -$162,214 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 16 | 9 | 2 | 64% | $940,410 | +$6,576 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 18 | 9 | 0 | 67% | $940,410 | +$120,549 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 
 _(mostrando los 40 de mayor monto, de 450 en total)_
@@ -74,8 +74,8 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | kkookkoo | New York Mets vs. Texas Rangers | New York Mets | 2.04 (49¢) | $28,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Houston Astros vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $30,327 | — | ⏳ Pendiente |
 | HMLSF | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.92 (52¢) | $30,233 | +$27,907 | ✅ Ganada |
-| HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 2.50 (40¢) | $34,150 | — | ⏳ Pendiente |
-| xifutloong3 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $49,041 | — | ⏳ Pendiente |
+| HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 2.50 (40¢) | $34,150 | +$51,225 | ✅ Ganada |
+| xifutloong3 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $49,041 | -$49,041 | ❌ Perdida |
 | BrotherObama | Arizona Diamondbacks vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $80,228 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.15 (87¢) | $89,966 | +$13,443 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $65,839 | — | ⏳ Pendiente |
@@ -87,11 +87,11 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $27,043 | — | ⏳ Pendiente |
 | Donkey14 | Arizona Diamondbacks vs. Colorado Rockies | Arizona Diamondbacks | 1.59 (63¢) | $26,452 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $76,647 | — | ⏳ Pendiente |
-| HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 3.23 (31¢) | $28,192 | — | ⏳ Pendiente |
-| goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $1,772,420 | — | ⏳ Pendiente |
-| goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $402,067 | — | ⏳ Pendiente |
+| HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 3.23 (31¢) | $28,192 | +$62,749 | ✅ Ganada |
+| goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $1,772,420 | -$1,772,420 | ❌ Perdida |
+| goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $402,067 | -$402,067 | ❌ Perdida |
 | 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Singapore Open: Oleksandra Oliynykova vs Maja Chwalinska | Maja Chwalinska | 1.49 (67¢) | $27,688 | — | ⏳ Pendiente |
-| kkookkoo | Cincinnati Reds vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.67 (60¢) | $31,564 | — | ⏳ Pendiente |
+| kkookkoo | Cincinnati Reds vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.67 (60¢) | $31,564 | -$31,564 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.72 (58¢) | $28,841 | +$20,885 | ✅ Ganada |
 | sulumos | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $25,420 | -$25,420 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.50 (40¢) | $341,047 | -$341,047 | ❌ Perdida |
