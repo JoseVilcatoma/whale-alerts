@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 20:33:55 (hora de Perú)
+Actualizado: 2026-09-22 20:36:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3462**  ($188,626,121 en total)
-- Resueltas: **3427** — 2077 ganadas / 1350 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Apuestas registradas: **3463**  ($188,656,448 en total)
+- Resueltas: **3431** — 2081 ganadas / 1350 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 450
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,292,208** sobre $184,975,021 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$9,213** sobre $337,700 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$1,199,371** sobre $185,176,757 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$8,983** sobre $338,100 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 254 | 130 | 2 | 66% | $25,494,405 | +$677,250 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 81 | 70 | 3 | 54% | $6,369,414 | -$235,611 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 82 | 70 | 2 | 54% | $6,369,414 | -$201,935 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | pleaseplease123 | 67 | 50 | 4 | 57% | $5,607,482 | +$650,173 |
@@ -33,12 +33,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 56 | 36 | 0 | 61% | $4,912,957 | -$243,583 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Diabolical-Prize | 34 | 37 | 0 | 48% | $3,535,684 | -$434,244 |
-| Sassy-Bucket | 32 | 35 | 0 | 48% | $3,340,986 | -$507,896 |
+| Sassy-Bucket | 32 | 35 | 1 | 48% | $3,371,314 | -$507,896 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 0 | 2 | ⚠️ 100% (1) | $2,470,204 | +$223,085 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| ferrariChampions2026 | 34 | 20 | 1 | 63% | $2,251,276 | -$454,397 |
+| ferrariChampions2026 | 35 | 20 | 0 | 64% | $2,251,276 | -$440,954 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | BrotherObama | 22 | 23 | 2 | 49% | $2,061,562 | +$107,780 |
@@ -56,13 +56,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 14 | 0 | 39% | $1,257,497 | -$427,198 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
-| xifutloong3 | 17 | 15 | 2 | 53% | $1,147,454 | -$129,945 |
+| xifutloong3 | 18 | 15 | 1 | 55% | $1,147,454 | -$112,134 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | Talvez10 | 11 | 10 | 0 | 52% | $1,046,960 | +$193,981 |
 | ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
 | maz26 | 8 | 6 | 0 | 57% | $950,222 | -$162,214 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 15 | 9 | 3 | 62% | $940,410 | -$21,331 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 16 | 9 | 2 | 64% | $940,410 | +$6,576 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 
 _(mostrando los 40 de mayor monto, de 450 en total)_
@@ -71,16 +71,17 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| HMLSF | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.92 (52¢) | $30,233 | — | ⏳ Pendiente |
+| Sassy-Bucket | Houston Astros vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $30,327 | — | ⏳ Pendiente |
+| HMLSF | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.92 (52¢) | $30,233 | +$27,907 | ✅ Ganada |
 | HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 2.50 (40¢) | $34,150 | — | ⏳ Pendiente |
 | xifutloong3 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $49,041 | — | ⏳ Pendiente |
 | BrotherObama | Arizona Diamondbacks vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $80,228 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.15 (87¢) | $89,966 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.15 (87¢) | $89,966 | +$13,443 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $65,839 | — | ⏳ Pendiente |
-| xifutloong3 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.54 (65¢) | $33,076 | — | ⏳ Pendiente |
+| xifutloong3 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.54 (65¢) | $33,076 | +$17,810 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $75,606 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Atlanta Braves: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $62,206 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.69 (59¢) | $48,461 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.69 (59¢) | $48,461 | +$33,676 | ✅ Ganada |
 | pleaseplease123 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $75,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $27,043 | — | ⏳ Pendiente |
 | Donkey14 | Arizona Diamondbacks vs. Colorado Rockies | Arizona Diamondbacks | 1.59 (63¢) | $26,452 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | 177-letsgo | Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska | Nadia Podoroska | 1.18 (85¢) | $25,358 | -$25,358 | ❌ Perdida |
 | bloodmaster | LoL: Skillcamp Esport vs Arctic Pandas (BO3) - EMEA Masters Group A | Skillcamp Esport | 1.09 (92¢) | $29,876 | +$2,598 | ✅ Ganada |
 | Diabolical-Prize | Dota 2: Yakult Brothers vs PlayTime - Game 2 Winner | PlayTime | 2.33 (43¢) | $35,604 | -$35,604 | ❌ Perdida |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - PGL Wallachia Group Stage | LGD Gaming | 1.59 (63¢) | $30,000 | -$30,000 | ❌ Perdida |

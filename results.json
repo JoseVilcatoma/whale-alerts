@@ -51891,7 +51891,7 @@
     "side": "BUY",
     "usd": 48460.7002,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790116720,
     "fills": 1
   },
@@ -51951,7 +51951,7 @@
     "side": "BUY",
     "usd": 33076.4395,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790118224,
     "fills": 1
   },
@@ -51981,7 +51981,7 @@
     "side": "BUY",
     "usd": 89965.8561,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790119864,
     "fills": 2
   },
@@ -52041,8 +52041,23 @@
     "side": "BUY",
     "usd": 30232.5816,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790122770,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7069,
+    "timestamp": 1790127290,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-hou-sea-2026-09-22-total-7pt5",
+    "title": "Houston Astros vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 30327.087,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1790127290,
     "fills": 1
   }
 ]
