@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 10:31:22 (hora de Perú)
+Actualizado: 2026-09-23 10:33:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3475**  ($189,797,513 en total)
+- Apuestas registradas: **3476**  ($189,824,229 en total)
 - Resueltas: **3451** — 2091 ganadas / 1360 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 451
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tg-stakeqiu | Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs | 3DMAX | 2.38 (42¢) | $26,716 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.70 (37¢) | $74,000 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.56 (64¢) | $365,368 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $293,916 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | martingaleking | Giants vs. Rams | Rams | 1.39 (72¢) | $43,200 | +$16,800 | ✅ Ganada |
 | Diabolical-Prize | Giants vs. Rams | Giants | 3.45 (29¢) | $40,600 | -$40,600 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Rams | Giants | 3.57 (28¢) | $94,514 | -$94,514 | ❌ Perdida |
-| THEdirkdiggler | Giants vs. Rams | Rams | 1.39 (72¢) | $36,000 | +$14,000 | ✅ Ganada |
