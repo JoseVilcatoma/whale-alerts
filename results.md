@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 09:50:22 (hora de Perú)
+Actualizado: 2026-09-23 09:52:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3470**  ($188,903,209 en total)
+- Apuestas registradas: **3471**  ($188,944,697 en total)
 - Resueltas: **3450** — 2090 ganadas / 1360 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 450
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 56 | 36 | 0 | 61% | $4,912,957 | -$243,583 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Diabolical-Prize | 34 | 37 | 1 | 48% | $3,561,426 | -$434,244 |
+| Diabolical-Prize | 34 | 37 | 2 | 48% | $3,602,915 | -$434,244 |
 | Sassy-Bucket | 32 | 36 | 0 | 47% | $3,371,314 | -$538,223 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 2 Winner | LGD Gaming | 1.56 (64¢) | $41,489 | — | ⏳ Pendiente |
 | Donkey14 | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 1 Winner | LGD Gaming | 1.37 (73¢) | $25,742 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Valentin Royer vs Adam Walton | Valentin Royer | 1.16 (86¢) | $40,067 | +$6,523 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | surfandturf | Giants vs. Rams | Rams | 1.39 (72¢) | $52,892 | +$20,569 | ✅ Ganada |
 | BruceWayne77 | Giants vs. Rams | Giants | 3.57 (28¢) | $28,000 | -$28,000 | ❌ Perdida |
 | kkookkoo | Spread: Rams (-7.5) | Giants | 1.75 (57¢) | $36,999 | -$36,999 | ❌ Perdida |
-| kkookkoo | Buenos Aires 2: Gonzalo Villanueva vs Guido Justo | Gonzalo Villanueva | 1.85 (54¢) | $31,000 | -$31,000 | ❌ Perdida |
