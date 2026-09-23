@@ -52405,5 +52405,20 @@
     "status": "pending",
     "ultimo_fill": 1790202174,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7130,
+    "timestamp": 1790202235,
+    "username": "HMLSF",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "mlb-laa-oak-2026-09-23",
+    "title": "Los Angeles Angels vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 25877.024,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1790202235,
+    "fills": 1
   }
 ]
