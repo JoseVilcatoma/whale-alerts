@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 15:18:30 (hora de Perú)
+Actualizado: 2026-09-23 15:20:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3482**  ($190,039,785 en total)
-- Resueltas: **3452** — 2092 ganadas / 1360 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **3457** — 2094 ganadas / 1363 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,460,100** sobre $188,206,521 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$9,069** sobre $340,200 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$3,837,706** sobre $189,090,619 apostados (ROI **-2.0%**)
+- Copiando $100 fijo en cada una: **-$9,042** sobre $340,700 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 255 | 130 | 5 | 66% | $25,723,472 | +$683,772 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 256 | 130 | 4 | 66% | $25,723,472 | +$809,772 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 83 | 71 | 0 | 54% | $6,369,414 | -$208,056 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | pleaseplease123 | 68 | 53 | 1 | 56% | $5,638,282 | +$534,766 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 56 | 36 | 1 | 61% | $5,032,489 | -$243,583 |
+| wr0ngw4yb3tt0r | 57 | 36 | 0 | 61% | $5,032,489 | -$56,623 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Diabolical-Prize | 36 | 37 | 0 | 49% | $3,602,915 | -$401,385 |
 | Sassy-Bucket | 32 | 36 | 0 | 47% | $3,371,314 | -$538,223 |
@@ -78,12 +78,12 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | pleaseplease123 | Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,800 | — | ⏳ Pendiente |
 | SDTrading | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles | 1.85 (54¢) | $30,518 | — | ⏳ Pendiente |
 | tg-stakeqiu | Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs | 3DMAX | 2.38 (42¢) | $26,716 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.70 (37¢) | $74,000 | — | ⏳ Pendiente |
-| SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.56 (64¢) | $365,368 | — | ⏳ Pendiente |
-| SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $293,916 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.56 (39¢) | $119,532 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.70 (37¢) | $74,000 | +$126,000 | ✅ Ganada |
+| SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.56 (64¢) | $365,368 | -$365,368 | ❌ Perdida |
+| SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $293,916 | -$293,916 | ❌ Perdida |
+| wr0ngw4yb3tt0r | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.56 (39¢) | $119,532 | +$186,960 | ✅ Ganada |
 | Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 2 Winner | LGD Gaming | 1.56 (64¢) | $41,489 | +$23,337 | ✅ Ganada |
-| Donkey14 | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
+| Donkey14 | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $31,282 | -$31,282 | ❌ Perdida |
 | Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 1 Winner | LGD Gaming | 1.37 (73¢) | $25,742 | +$9,521 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Valentin Royer vs Adam Walton | Valentin Royer | 1.16 (86¢) | $40,067 | +$6,523 | ✅ Ganada |
 | SDTrading | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $26,669 | — | ⏳ Pendiente |
