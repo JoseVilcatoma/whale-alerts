@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 10:12:54 (hora de Perú)
+Actualizado: 2026-09-23 10:14:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3471**  ($188,944,697 en total)
+- Apuestas registradas: **3473**  ($189,250,367 en total)
 - Resueltas: **3451** — 2091 ganadas / 1360 perdidas (**61%** de acierto)
-- Pendientes: 3
-- Apostadores distintos: 450
+- Pendientes: 5
+- Apostadores distintos: 451
 
 ### Balance
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | pleaseplease123 | 68 | 53 | 0 | 56% | $5,607,482 | +$534,766 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 56 | 36 | 0 | 61% | $4,912,957 | -$243,583 |
+| wr0ngw4yb3tt0r | 56 | 36 | 1 | 61% | $5,032,489 | -$243,583 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Diabolical-Prize | 35 | 37 | 1 | 49% | $3,602,915 | -$424,723 |
 | Sassy-Bucket | 32 | 36 | 0 | 47% | $3,371,314 | -$538,223 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 18 | 9 | 0 | 67% | $940,410 | +$120,549 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 
-_(mostrando los 40 de mayor monto, de 450 en total)_
+_(mostrando los 40 de mayor monto, de 451 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $186,137 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.56 (39¢) | $119,532 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 2 Winner | LGD Gaming | 1.56 (64¢) | $41,489 | — | ⏳ Pendiente |
 | Donkey14 | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 1 Winner | LGD Gaming | 1.37 (73¢) | $25,742 | +$9,521 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | THEdirkdiggler | Giants vs. Rams | Rams | 1.39 (72¢) | $36,000 | +$14,000 | ✅ Ganada |
 | Diabolical-Prize | Giants vs. Rams: O/U 47.5 | Over 47.5 | 2.04 (49¢) | $42,578 | -$42,578 | ❌ Perdida |
 | surfandturf | Giants vs. Rams | Rams | 1.39 (72¢) | $52,892 | +$20,569 | ✅ Ganada |
-| BruceWayne77 | Giants vs. Rams | Giants | 3.57 (28¢) | $28,000 | -$28,000 | ❌ Perdida |
-| kkookkoo | Spread: Rams (-7.5) | Giants | 1.75 (57¢) | $36,999 | -$36,999 | ❌ Perdida |
