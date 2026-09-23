@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 11:04:29 (hora de Perú)
+Actualizado: 2026-09-23 11:06:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3478**  ($189,885,547 en total)
-- Resueltas: **3451** — 2091 ganadas / 1360 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **3452** — 2092 ganadas / 1360 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,483,437** sobre $188,165,033 apostados (ROI **-1.9%**)
-- Copiando $100 fijo en cada una: **-$9,125** sobre $340,100 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$3,460,100** sobre $188,206,521 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$9,069** sobre $340,200 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 56 | 36 | 1 | 61% | $5,032,489 | -$243,583 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Diabolical-Prize | 35 | 37 | 1 | 49% | $3,602,915 | -$424,723 |
+| Diabolical-Prize | 36 | 37 | 0 | 49% | $3,602,915 | -$401,385 |
 | Sassy-Bucket | 32 | 36 | 0 | 47% | $3,371,314 | -$538,223 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.56 (64¢) | $365,368 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $293,916 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.56 (39¢) | $119,532 | — | ⏳ Pendiente |
-| Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 2 Winner | LGD Gaming | 1.56 (64¢) | $41,489 | — | ⏳ Pendiente |
+| Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 2 Winner | LGD Gaming | 1.56 (64¢) | $41,489 | +$23,337 | ✅ Ganada |
 | Donkey14 | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 1 Winner | LGD Gaming | 1.37 (73¢) | $25,742 | +$9,521 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Valentin Royer vs Adam Walton | Valentin Royer | 1.16 (86¢) | $40,067 | +$6,523 | ✅ Ganada |
