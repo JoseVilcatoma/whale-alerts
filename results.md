@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 00:06:05 (hora de Perú)
+Actualizado: 2026-09-23 00:08:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3464**  ($188,684,448 en total)
-- Resueltas: **3444** — 2087 ganadas / 1357 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **3445** — 2087 ganadas / 1358 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 450
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,394,918** sobre $187,908,559 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$8,977** sobre $339,400 (ROI **-2.6%**)
+- **Resultado de los apostadores: -$3,425,245** sobre $187,938,887 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$9,077** sobre $339,500 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 56 | 36 | 0 | 61% | $4,912,957 | -$243,583 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | Diabolical-Prize | 34 | 37 | 0 | 48% | $3,535,684 | -$434,244 |
-| Sassy-Bucket | 32 | 35 | 1 | 48% | $3,371,314 | -$507,896 |
+| Sassy-Bucket | 32 | 36 | 0 | 47% | $3,371,314 | -$538,223 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | kkookkoo | New York Mets vs. Texas Rangers | New York Mets | 2.04 (49¢) | $28,000 | +$29,143 | ✅ Ganada |
-| Sassy-Bucket | Houston Astros vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $30,327 | — | ⏳ Pendiente |
+| Sassy-Bucket | Houston Astros vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $30,327 | -$30,327 | ❌ Perdida |
 | HMLSF | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.92 (52¢) | $30,233 | +$27,907 | ✅ Ganada |
 | HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 2.50 (40¢) | $34,150 | +$51,225 | ✅ Ganada |
 | xifutloong3 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $49,041 | -$49,041 | ❌ Perdida |
