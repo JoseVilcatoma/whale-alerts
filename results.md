@@ -1,6 +1,6 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 02:16:23 (hora de Perú)
+Actualizado: 2026-09-23 02:18:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
@@ -8,7 +8,7 @@ Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 - Apuestas registradas: **3465**  ($188,749,448 en total)
 - Resueltas: **3448** — 2088 ganadas / 1360 perdidas (**61%** de acierto)
-- Pendientes: 1
+- Pendientes: 0
 - Apostadores distintos: 450
 
 ### Balance
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Singapore Open: Elise Mertens vs Barbora Krejcikova | Elise Mertens | 1.96 (51¢) | $65,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Singapore Open: Elise Mertens vs Barbora Krejcikova | Elise Mertens | 1.96 (51¢) | $65,000 | — | ⊘ Anulada |
 | kkookkoo | New York Mets vs. Texas Rangers | New York Mets | 2.04 (49¢) | $28,000 | +$29,143 | ✅ Ganada |
 | Sassy-Bucket | Houston Astros vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $30,327 | -$30,327 | ❌ Perdida |
 | HMLSF | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.92 (52¢) | $30,233 | +$27,907 | ✅ Ganada |
