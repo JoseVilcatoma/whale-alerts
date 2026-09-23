@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 22:31:43 (hora de Perú)
+Actualizado: 2026-09-22 22:33:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3464**  ($188,684,448 en total)
-- Resueltas: **3440** — 2084 ganadas / 1356 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **3441** — 2084 ganadas / 1357 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 450
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,450,199** sobre $187,661,042 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$9,106** sobre $339,000 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$3,530,426** sobre $187,741,269 apostados (ROI **-1.9%**)
+- Copiando $100 fijo en cada una: **-$9,206** sobre $339,100 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 35 | 20 | 0 | 64% | $2,251,276 | -$440,954 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| BrotherObama | 22 | 23 | 2 | 49% | $2,061,562 | +$107,780 |
+| BrotherObama | 22 | 24 | 1 | 48% | $2,061,562 | +$27,552 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | HMLSF | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.92 (52¢) | $30,233 | +$27,907 | ✅ Ganada |
 | HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 2.50 (40¢) | $34,150 | +$51,225 | ✅ Ganada |
 | xifutloong3 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $49,041 | -$49,041 | ❌ Perdida |
-| BrotherObama | Arizona Diamondbacks vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $80,228 | — | ⏳ Pendiente |
+| BrotherObama | Arizona Diamondbacks vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $80,228 | -$80,228 | ❌ Perdida |
 | ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.15 (87¢) | $89,966 | +$13,443 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $65,839 | — | ⏳ Pendiente |
 | xifutloong3 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.54 (65¢) | $33,076 | +$17,810 | ✅ Ganada |
