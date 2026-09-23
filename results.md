@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 17:21:51 (hora de Perú)
+Actualizado: 2026-09-23 17:23:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3484**  ($190,155,281 en total)
+- Apuestas registradas: **3486**  ($190,228,316 en total)
 - Resueltas: **3460** — 2096 ganadas / 1364 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 9
 - Apostadores distintos: 451
 
 ### Balance
@@ -61,8 +61,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | Talvez10 | 11 | 10 | 0 | 52% | $1,046,960 | +$193,981 |
 | ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 18 | 9 | 1 | 67% | $968,268 | +$120,549 |
 | maz26 | 8 | 6 | 0 | 57% | $950,222 | -$162,214 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 18 | 9 | 0 | 67% | $940,410 | +$120,549 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 
 _(mostrando los 40 de mayor monto, de 451 en total)_
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $45,177 | — | ⏳ Pendiente |
+| HMLSF | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox | 1.79 (56¢) | $27,858 | — | ⏳ Pendiente |
 | dsasdaas | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $90,315 | — | ⏳ Pendiente |
 | mooseborzoi | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $25,181 | — | ⏳ Pendiente |
 | EsportsAI | Minnesota Twins vs. San Francisco Giants | San Francisco Giants | 2.38 (42¢) | $33,742 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.08 (93¢) | $41,894 | +$3,153 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Giants vs. Rams: O/U 37.5 | Over 37.5 | 1.79 (56¢) | $29,939 | -$29,939 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.06 (94¢) | $88,516 | +$5,650 | ✅ Ganada |
-| cosmicxbt | Giants vs. Rams | Rams | 1.11 (90¢) | $75,009 | +$8,334 | ✅ Ganada |
-| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Giants vs. Rams | Rams | 1.11 (90¢) | $72,000 | +$1,600 | 💰 Vendida antes |
