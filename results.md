@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-22 23:45:35 (hora de Perú)
+Actualizado: 2026-09-22 23:47:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3464**  ($188,684,448 en total)
-- Resueltas: **3442** — 2085 ganadas / 1357 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **3444** — 2087 ganadas / 1357 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 450
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,514,891** sobre $187,767,721 apostados (ROI **-1.9%**)
-- Copiando $100 fijo en cada una: **-$9,147** sobre $339,200 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$3,394,918** sobre $187,908,559 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$8,977** sobre $339,400 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,10 +25,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 254 | 130 | 2 | 66% | $25,494,405 | +$677,250 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 82 | 71 | 1 | 54% | $6,369,414 | -$264,141 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 83 | 71 | 0 | 54% | $6,369,414 | -$208,056 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
-| pleaseplease123 | 67 | 51 | 3 | 57% | $5,607,482 | +$573,526 |
+| pleaseplease123 | 68 | 51 | 2 | 57% | $5,607,482 | +$637,415 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 56 | 36 | 0 | 61% | $4,912,957 | -$243,583 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
@@ -78,12 +78,12 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | xifutloong3 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $49,041 | -$49,041 | ❌ Perdida |
 | BrotherObama | Arizona Diamondbacks vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $80,228 | -$80,228 | ❌ Perdida |
 | ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.15 (87¢) | $89,966 | +$13,443 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $65,839 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $65,839 | +$56,085 | ✅ Ganada |
 | xifutloong3 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.54 (65¢) | $33,076 | +$17,810 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $75,606 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Atlanta Braves: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $62,206 | -$62,206 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.69 (59¢) | $48,461 | +$33,676 | ✅ Ganada |
-| pleaseplease123 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $75,000 | — | ⏳ Pendiente |
+| pleaseplease123 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $75,000 | +$63,888 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $27,043 | — | ⏳ Pendiente |
 | Donkey14 | Arizona Diamondbacks vs. Colorado Rockies | Arizona Diamondbacks | 1.59 (63¢) | $26,452 | +$15,535 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $76,647 | -$76,647 | ❌ Perdida |
