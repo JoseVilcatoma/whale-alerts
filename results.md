@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 17:30:08 (hora de Perú)
+Actualizado: 2026-09-23 17:32:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3487**  ($190,254,193 en total)
+- Apuestas registradas: **3488**  ($190,281,204 en total)
 - Resueltas: **3460** — 2096 ganadas / 1364 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 451
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nigiri99 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $27,012 | — | ⏳ Pendiente |
 | HMLSF | Los Angeles Angels vs. Athletics | Athletics | 2.17 (46¢) | $25,877 | — | ⏳ Pendiente |
 | Donkey14 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $45,177 | — | ⏳ Pendiente |
 | HMLSF | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox | 1.79 (56¢) | $27,858 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | kkookkoo | Plovdiv 4: Tommaso Compagnucci vs Yanaki Milev | Tommaso Compagnucci | 1.79 (56¢) | $28,109 | +$22,086 | ✅ Ganada |
 | laIaIalala | St. Tropez: Hugo Grenier vs Thomas Faurel | Thomas Faurel | 1.37 (73¢) | $28,034 | +$10,369 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Giants vs. Rams | Rams | 1.08 (93¢) | $41,894 | +$3,153 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Giants vs. Rams: O/U 37.5 | Over 37.5 | 1.79 (56¢) | $29,939 | -$29,939 | ❌ Perdida |

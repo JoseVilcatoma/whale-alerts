@@ -52420,5 +52420,20 @@
     "status": "pending",
     "ultimo_fill": 1790202235,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7131,
+    "timestamp": 1790202711,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-mil-phi-2026-09-23-total-7pt5",
+    "title": "Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 27011.600000000002,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1790202711,
+    "fills": 1
   }
 ]
