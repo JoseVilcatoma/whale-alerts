@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 08:38:32 (hora de Perú)
+Actualizado: 2026-09-23 08:40:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3469**  ($188,871,927 en total)
+- Apuestas registradas: **3470**  ($188,903,209 en total)
 - Resueltas: **3449** — 2089 ganadas / 1360 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 450
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 1 Winner | LGD Gaming | 1.37 (73¢) | $25,742 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Valentin Royer vs Adam Walton | Valentin Royer | 1.16 (86¢) | $40,067 | — | ⏳ Pendiente |
 | SDTrading | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $26,669 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 450 en total)_
 | BruceWayne77 | Giants vs. Rams | Giants | 3.57 (28¢) | $28,000 | -$28,000 | ❌ Perdida |
 | kkookkoo | Spread: Rams (-7.5) | Giants | 1.75 (57¢) | $36,999 | -$36,999 | ❌ Perdida |
 | kkookkoo | Buenos Aires 2: Gonzalo Villanueva vs Guido Justo | Gonzalo Villanueva | 1.85 (54¢) | $31,000 | -$31,000 | ❌ Perdida |
-| justwins | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.89 (53¢) | $27,377 | +$24,278 | ✅ Ganada |
