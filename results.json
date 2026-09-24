@@ -52525,5 +52525,20 @@
     "status": "won",
     "ultimo_fill": 1790211020,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7158,
+    "timestamp": 1790242308,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-bca-ast-2026-09-24",
+    "title": "Counter-Strike: Betclic Apogee Esports vs ASTRAL (BO3) - Stake Pulse Beat II Group D",
+    "outcome": "Betclic Apogee Esports",
+    "side": "BUY",
+    "usd": 26199.747,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1790242308,
+    "fills": 1
   }
 ]
