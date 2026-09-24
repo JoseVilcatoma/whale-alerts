@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 11:16:59 (hora de Perú)
+Actualizado: 2026-09-24 11:19:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3523**  ($193,055,030 en total)
+- Apuestas registradas: **3524**  ($193,126,260 en total)
 - Resueltas: **3484** — 2116 ganadas / 1368 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 453
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $71,231 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $49,746 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $124,512 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | No | 2.78 (36¢) | $109,022 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | SDTrading | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $26,669 | -$26,669 | ❌ Perdida |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Nemesis vs Conventus Stellarum - Game 1 Winner | Conventus Stellarum | 1.49 (67¢) | $30,000 | +$14,776 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Singapore Open: Elise Mertens vs Barbora Krejcikova | Elise Mertens | 1.96 (51¢) | $65,000 | — | ⊘ Anulada |
-| kkookkoo | New York Mets vs. Texas Rangers | New York Mets | 2.04 (49¢) | $28,000 | +$29,143 | ✅ Ganada |
