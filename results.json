@@ -52630,5 +52630,50 @@
     "status": "won",
     "ultimo_fill": 1790252793,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7173,
+    "timestamp": 1790260544,
+    "username": "0x361b\u202674fe",
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "slug": "unl-nor-den-2026-09-24-nor",
+    "title": "Will Norway win on 2026-09-24?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 101263.29000000001,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1790260553,
+    "fills": 3
+  },
+  {
+    "telegram_msg_id": 7174,
+    "timestamp": 1790260549,
+    "username": "LuckyWin",
+    "wallet": "0x59229282121256ed2d629ce5adf0e04cc7fb3388",
+    "slug": "dota2-dxk-gpk-2026-09-24-game2",
+    "title": "Dota 2: Daxak Team vs gpk Team - Game 2 Winner",
+    "outcome": "gpk Team",
+    "side": "BUY",
+    "usd": 44284.271069999995,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1790260549,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7175,
+    "timestamp": 1790260551,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "unl-nor-den-2026-09-24-nor",
+    "title": "Will Norway win on 2026-09-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 51477.525439,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1790260551,
+    "fills": 1
   }
 ]

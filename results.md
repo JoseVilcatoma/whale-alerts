@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 09:31:46 (hora de Perú)
+Actualizado: 2026-09-24 09:36:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3501**  ($190,985,819 en total)
+- Apuestas registradas: **3504**  ($191,182,844 en total)
 - Resueltas: **3484** — 2116 ganadas / 1368 perdidas (**61%** de acierto)
-- Pendientes: 0
-- Apostadores distintos: 451
+- Pendientes: 3
+- Apostadores distintos: 452
 
 ### Balance
 
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 8 | 6 | 0 | 57% | $950,222 | -$162,214 |
 | Lakersfan111 | 10 | 14 | 0 | 42% | $938,835 | -$350,029 |
 
-_(mostrando los 40 de mayor monto, de 451 en total)_
+_(mostrando los 40 de mayor monto, de 452 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sulumos | Will Norway win on 2026-09-24? | No | 2.33 (43¢) | $51,478 | — | ⏳ Pendiente |
+| LuckyWin | Dota 2: Daxak Team vs gpk Team - Game 2 Winner | gpk Team | 1.06 (94¢) | $44,284 | — | ⏳ Pendiente |
+| 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $101,263 | — | ⏳ Pendiente |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.54 (65¢) | $35,973 | +$19,370 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | TYLOO | 2.86 (35¢) | $107,190 | -$107,190 | ❌ Perdida |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $56,100 | +$28,900 | ✅ Ganada |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $1,772,420 | -$1,772,420 | ❌ Perdida |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $402,067 | -$402,067 | ❌ Perdida |
 | 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Singapore Open: Oleksandra Oliynykova vs Maja Chwalinska | Maja Chwalinska | 1.49 (67¢) | $27,688 | +$13,637 | ✅ Ganada |
-| kkookkoo | Cincinnati Reds vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.67 (60¢) | $31,564 | -$31,564 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.72 (58¢) | $28,841 | +$20,885 | ✅ Ganada |
-| sulumos | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $25,420 | -$25,420 | ❌ Perdida |
