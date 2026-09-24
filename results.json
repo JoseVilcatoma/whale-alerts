@@ -52555,5 +52555,20 @@
     "status": "pending",
     "ultimo_fill": 1790250486,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7160,
+    "timestamp": 1790250791,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "val-tyloo-g21-2026-09-24",
+    "title": "Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 86290.2348,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1790250791,
+    "fills": 1
   }
 ]

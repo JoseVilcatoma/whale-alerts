@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 06:51:50 (hora de Perú)
+Actualizado: 2026-09-24 06:53:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3496**  ($190,637,700 en total)
+- Apuestas registradas: **3497**  ($190,723,991 en total)
 - Resueltas: **3477** — 2110 ganadas / 1367 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 451
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 57 | 36 | 0 | 61% | $5,032,489 | -$56,623 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Diabolical-Prize | 36 | 37 | 0 | 49% | $3,602,915 | -$401,385 |
+| Diabolical-Prize | 36 | 37 | 1 | 49% | $3,689,205 | -$401,385 |
 | Sassy-Bucket | 32 | 36 | 0 | 47% | $3,371,314 | -$538,223 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $86,290 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.47 (68¢) | $85,548 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Betclic Apogee Esports vs ASTRAL (BO3) - Stake Pulse Beat II Group D | Betclic Apogee Esports | 1.49 (67¢) | $26,200 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Los Angeles Angels (-1.5) | Athletics | 1.79 (56¢) | $25,455 | +$20,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $26,697 | +$35,390 | ✅ Ganada |
 | retordedgremlin125 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.69 (59¢) | $26,000 | +$18,068 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.27 (44¢) | $35,200 | +$44,800 | ✅ Ganada |
-| goshkam | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.75 (57¢) | $295,718 | +$223,085 | ✅ Ganada |
