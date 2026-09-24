@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 15:54:47 (hora de Perú)
+Actualizado: 2026-09-24 15:56:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3533**  ($193,704,293 en total)
-- Resueltas: **3492** — 2123 ganadas / 1369 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **3493** — 2123 ganadas / 1370 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 453
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,291,699** sobre $190,612,702 apostados (ROI **-1.7%**)
-- Copiando $100 fijo en cada una: **-$7,588** sobre $344,000 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$3,323,440** sobre $190,644,443 apostados (ROI **-1.7%**)
+- Copiando $100 fijo en cada una: **-$7,688** sobre $344,100 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 57 | 36 | 1 | 61% | $5,059,289 | -$56,623 |
 | ripley86alien | 30 | 13 | 1 | 70% | $4,726,353 | +$1,882,828 |
 | Diabolical-Prize | 40 | 37 | 0 | 52% | $3,843,844 | -$276,432 |
-| Sassy-Bucket | 32 | 36 | 2 | 47% | $3,439,047 | -$538,223 |
+| Sassy-Bucket | 32 | 37 | 1 | 46% | $3,439,047 | -$569,965 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Talvez10 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 2.08 (48¢) | $52,800 | — | ⏳ Pendiente |
-| Sassy-Bucket | Arizona Diamondbacks vs. Colorado Rockies: O/U 9.5 | Under 9.5 | 2.17 (46¢) | $31,741 | — | ⏳ Pendiente |
+| Sassy-Bucket | Arizona Diamondbacks vs. Colorado Rockies: O/U 9.5 | Under 9.5 | 2.17 (46¢) | $31,741 | -$31,741 | ❌ Perdida |
 | ripley86alien | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $131,860 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | Yes | 1.67 (60¢) | $144,000 | — | ⏳ Pendiente |
 | Feromont | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $30,000 | — | ⏳ Pendiente |
