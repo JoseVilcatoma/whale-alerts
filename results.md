@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 20:37:09 (hora de Perú)
+Actualizado: 2026-09-23 20:39:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3494**  ($190,525,953 en total)
-- Resueltas: **3463** — 2098 ganadas / 1365 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **3464** — 2099 ganadas / 1365 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,791,324** sobre $189,274,858 apostados (ROI **-2.0%**)
-- Copiando $100 fijo en cada una: **-$8,845** sobre $341,300 (ROI **-2.6%**)
+- **Resultado de los apostadores: -$3,769,223** sobre $189,301,869 apostados (ROI **-2.0%**)
+- Copiando $100 fijo en cada una: **-$8,763** sobre $341,400 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | pleaseplease123 | Houston Astros vs. Seattle Mariners | Seattle Mariners | 1.82 (55¢) | $88,426 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $28,338 | +$26,158 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Athletics | Los Angeles Angels | 1.82 (55¢) | $41,948 | — | ⏳ Pendiente |
-| nigiri99 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $27,012 | — | ⏳ Pendiente |
+| nigiri99 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $27,012 | +$22,100 | ✅ Ganada |
 | HMLSF | Los Angeles Angels vs. Athletics | Athletics | 2.17 (46¢) | $25,877 | — | ⏳ Pendiente |
 | Donkey14 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $45,177 | — | ⏳ Pendiente |
 | HMLSF | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox | 1.79 (56¢) | $27,858 | — | ⏳ Pendiente |
