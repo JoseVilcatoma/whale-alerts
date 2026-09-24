@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 10:06:51 (hora de Perú)
+Actualizado: 2026-09-24 10:08:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3508**  ($191,408,387 en total)
+- Apuestas registradas: **3509**  ($191,479,933 en total)
 - Resueltas: **3484** — 2116 ganadas / 1368 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 452
 
 ### Balance
@@ -57,10 +57,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | xifutloong3 | 18 | 17 | 0 | 51% | $1,181,578 | -$195,299 |
+| Talvez10 | 11 | 10 | 1 | 52% | $1,118,506 | +$193,981 |
 | Lakersfan111 | 10 | 14 | 2 | 42% | $1,111,953 | -$350,029 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
-| Talvez10 | 11 | 10 | 0 | 52% | $1,046,960 | +$193,981 |
 | ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 20 | 9 | 0 | 69% | $994,145 | +$172,815 |
 | maz26 | 8 | 6 | 0 | 57% | $950,222 | -$162,214 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 452 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $71,546 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | SDTrading | Chicago White Sox vs. Kansas City Royals | Chicago White Sox | 1.82 (55¢) | $25,625 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $130,820 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 452 en total)_
 | pleaseplease123 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $75,000 | +$63,888 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $27,043 | -$27,043 | ❌ Perdida |
 | Donkey14 | Arizona Diamondbacks vs. Colorado Rockies | Arizona Diamondbacks | 1.59 (63¢) | $26,452 | +$15,535 | ✅ Ganada |
-| pleaseplease123 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $76,647 | -$76,647 | ❌ Perdida |
