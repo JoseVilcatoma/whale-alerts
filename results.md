@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 19:03:25 (hora de Perú)
+Actualizado: 2026-09-23 19:05:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3492**  ($190,474,154 en total)
-- Resueltas: **3461** — 2096 ganadas / 1365 perdidas (**61%** de acierto)
+- Apuestas registradas: **3493**  ($190,500,498 en total)
+- Resueltas: **3462** — 2097 ganadas / 1365 perdidas (**61%** de acierto)
 - Pendientes: 14
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,854,375** sobre $189,219,804 apostados (ROI **-2.0%**)
-- Copiando $100 fijo en cada una: **-$9,075** sobre $341,100 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$3,817,482** sobre $189,246,519 apostados (ROI **-2.0%**)
+- Copiando $100 fijo en cada una: **-$8,937** sobre $341,200 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 256 | 130 | 4 | 66% | $25,723,472 | +$809,772 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 83 | 71 | 1 | 54% | $6,411,362 | -$208,056 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 83 | 71 | 2 | 54% | $6,437,706 | -$208,056 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | pleaseplease123 | 69 | 53 | 2 | 57% | $5,755,046 | +$559,966 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Texas Rangers | New York Mets | 1.96 (51¢) | $26,344 | — | ⏳ Pendiente |
 | nuttypoo | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.20 (83¢) | $34,237 | — | ⏳ Pendiente |
 | pleaseplease123 | Houston Astros vs. Seattle Mariners | Seattle Mariners | 1.82 (55¢) | $88,426 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $28,338 | — | ⏳ Pendiente |
@@ -87,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | Pwaddler | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $36,372 | — | ⏳ Pendiente |
 | pleaseplease123 | Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,800 | +$25,200 | ✅ Ganada |
 | SDTrading | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles | 1.85 (54¢) | $30,518 | +$25,997 | ✅ Ganada |
-| tg-stakeqiu | Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs | 3DMAX | 2.38 (42¢) | $26,716 | — | ⏳ Pendiente |
+| tg-stakeqiu | Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs | 3DMAX | 2.38 (42¢) | $26,716 | +$36,893 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.70 (37¢) | $74,000 | +$126,000 | ✅ Ganada |
 | SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.56 (64¢) | $365,368 | -$365,368 | ❌ Perdida |
 | SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $293,916 | -$293,916 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | HMLSF | Tolentino: Barbora Palicova vs Alicia Herrero Linana | Barbora Palicova | 1.19 (84¢) | $25,907 | +$4,935 | ✅ Ganada |
 | SDTrading | Spread: New York Yankees (-1.5) | Tampa Bay Rays | 1.52 (66¢) | $29,700 | -$29,700 | ❌ Perdida |
 | EsportsAI | Dota 2: Natus Vincere vs 1win (BO3) - PGL Wallachia Group Stage | 1win | 1.89 (53¢) | $26,242 | -$26,242 | ❌ Perdida |
-| lllllllIlll | Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play Connect Playoffs | Luminosity | 2.56 (39¢) | $44,850 | +$70,150 | ✅ Ganada |

@@ -52252,7 +52252,7 @@
     "side": "BUY",
     "usd": 26715.95,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790177540,
     "fills": 1
   },
@@ -52494,6 +52494,21 @@
     "odds_at_bet": 83,
     "status": "pending",
     "ultimo_fill": 1790206865,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7139,
+    "timestamp": 1790208278,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-nym-tex-2026-09-23",
+    "title": "New York Mets vs. Texas Rangers",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 26344.2387,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1790208278,
     "fills": 1
   }
 ]
