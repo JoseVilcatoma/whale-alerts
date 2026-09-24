@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 14:42:10 (hora de Perú)
+Actualizado: 2026-09-24 14:44:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3532**  ($193,651,493 en total)
-- Resueltas: **3490** — 2121 ganadas / 1369 perdidas (**61%** de acierto)
+- Apuestas registradas: **3533**  ($193,704,293 en total)
+- Resueltas: **3491** — 2122 ganadas / 1369 perdidas (**61%** de acierto)
 - Pendientes: 25
 - Apostadores distintos: 453
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,348,999** sobre $190,550,002 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$7,769** sobre $343,800 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$3,325,999** sobre $190,577,002 apostados (ROI **-1.7%**)
+- Copiando $100 fijo en cada una: **-$7,684** sobre $343,900 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 257 | 130 | 5 | 66% | $25,976,494 | +$859,772 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 72 | 0 | 54% | $6,437,706 | -$224,693 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| pleaseplease123 | 71 | 53 | 1 | 57% | $5,782,046 | +$658,473 |
+| pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 57 | 36 | 1 | 61% | $5,059,289 | -$56,623 |
@@ -58,8 +58,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | xifutloong3 | 18 | 17 | 0 | 51% | $1,181,578 | -$195,299 |
+| Talvez10 | 11 | 10 | 2 | 52% | $1,171,306 | +$193,981 |
 | Lakersfan111 | 11 | 14 | 2 | 44% | $1,165,917 | -$322,986 |
-| Talvez10 | 11 | 10 | 1 | 52% | $1,118,506 | +$193,981 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 2.08 (48¢) | $52,800 | — | ⏳ Pendiente |
 | Sassy-Bucket | Arizona Diamondbacks vs. Colorado Rockies: O/U 9.5 | Under 9.5 | 2.17 (46¢) | $31,741 | — | ⏳ Pendiente |
 | ripley86alien | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $131,860 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | Yes | 1.67 (60¢) | $144,000 | — | ⏳ Pendiente |
 | Feromont | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | New York Mets vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $88,940 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chicago White Sox vs. Kansas City Royals | Kansas City Royals | 2.27 (44¢) | $35,992 | — | ⏳ Pendiente |
-| pleaseplease123 | Chicago White Sox vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
+| pleaseplease123 | Chicago White Sox vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Phantom vs Iberian Soul (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs | Iberian Soul | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $71,231 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $49,746 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | tg-stakeqiu | Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs | 3DMAX | 2.38 (42¢) | $26,716 | +$36,893 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.70 (37¢) | $74,000 | +$126,000 | ✅ Ganada |
 | SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.56 (64¢) | $365,368 | -$365,368 | ❌ Perdida |
-| SmartPredictOrNot | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $293,916 | -$293,916 | ❌ Perdida |

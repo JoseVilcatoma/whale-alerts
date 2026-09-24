@@ -53006,7 +53006,7 @@
     "side": "BUY",
     "usd": 27000.0,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790269107,
     "fills": 1
   },
@@ -53098,6 +53098,21 @@
     "odds_at_bet": 46,
     "status": "pending",
     "ultimo_fill": 1790276264,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7211,
+    "timestamp": 1790278979,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-mil-phi-2026-09-24-total-7pt5",
+    "title": "Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 52800.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1790278979,
     "fills": 1
   }
 ]
