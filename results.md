@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 13:04:02 (hora de Perú)
+Actualizado: 2026-09-24 13:06:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3526**  ($193,188,960 en total)
-- Resueltas: **3485** — 2117 ganadas / 1368 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **3486** — 2118 ganadas / 1368 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 453
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,411,941** sobre $190,349,878 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$7,923** sobre $343,500 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$3,400,791** sobre $190,397,414 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$7,899** sobre $343,600 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.69 (59¢) | $361,080 | — | ⏳ Pendiente |
 | kkookkoo | St. Louis Cardinals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $38,957 | — | ⏳ Pendiente |
-| acorp | Dota 2: Team Yandex vs 1win (BO3) - PGL Wallachia Playoffs | Team Yandex | 1.23 (81¢) | $47,536 | — | ⏳ Pendiente |
+| acorp | Dota 2: Team Yandex vs 1win (BO3) - PGL Wallachia Playoffs | Team Yandex | 1.23 (81¢) | $47,536 | +$11,150 | ✅ Ganada |
 | Talvez10 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $71,546 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | SDTrading | Chicago White Sox vs. Kansas City Royals | Chicago White Sox | 1.82 (55¢) | $25,625 | — | ⏳ Pendiente |
