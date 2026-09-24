@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 09:17:27 (hora de Perú)
+Actualizado: 2026-09-24 09:19:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3501**  ($190,985,819 en total)
-- Resueltas: **3477** — 2110 ganadas / 1367 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **3478** — 2111 ganadas / 1367 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,485,694** sobre $189,845,728 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$8,134** sobre $342,700 (ROI **-2.4%**)
+- **Resultado de los apostadores: -$3,472,789** sobre $189,871,927 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$8,085** sobre $342,800 (ROI **-2.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $62,565 | — | ⏳ Pendiente |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $86,290 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.47 (68¢) | $85,548 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Betclic Apogee Esports vs ASTRAL (BO3) - Stake Pulse Beat II Group D | Betclic Apogee Esports | 1.49 (67¢) | $26,200 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Betclic Apogee Esports vs ASTRAL (BO3) - Stake Pulse Beat II Group D | Betclic Apogee Esports | 1.49 (67¢) | $26,200 | +$12,904 | ✅ Ganada |
 | Donkey14 | Spread: Los Angeles Angels (-1.5) | Athletics | 1.79 (56¢) | $25,455 | +$20,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Texas Rangers | New York Mets | 1.96 (51¢) | $26,344 | +$25,311 | ✅ Ganada |
 | nuttypoo | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.20 (83¢) | $34,237 | +$7,012 | ✅ Ganada |
