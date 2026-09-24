@@ -53005,5 +53005,20 @@
     "status": "pending",
     "ultimo_fill": 1790269107,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7200,
+    "timestamp": 1790273197,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-cws-kc-2026-09-24",
+    "title": "Chicago White Sox vs. Kansas City Royals",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "usd": 35991.819599999995,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1790273197,
+    "fills": 1
   }
 ]
