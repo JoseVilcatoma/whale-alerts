@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 10:39:45 (hora de Perú)
+Actualizado: 2026-09-24 10:41:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3513**  ($191,744,307 en total)
+- Apuestas registradas: **3514**  ($191,995,272 en total)
 - Resueltas: **3484** — 2116 ganadas / 1368 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 453
 
 ### Balance
@@ -61,9 +61,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 10 | 14 | 2 | 42% | $1,111,953 | -$350,029 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
+| SmartPredictOrNot | 0 | 2 | 1 | ⚠️ 0% (2) | $1,020,364 | -$659,284 |
 | ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 20 | 9 | 0 | 69% | $994,145 | +$172,815 |
-| maz26 | 8 | 6 | 0 | 57% | $950,222 | -$162,214 |
 
 _(mostrando los 40 de mayor monto, de 453 en total)_
 
@@ -71,8 +71,9 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Ne8om | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $26,765 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
-| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.72 (58¢) | $136,880 | — | ⏳ Pendiente |
+| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.69 (59¢) | $361,080 | — | ⏳ Pendiente |
 | kkookkoo | St. Louis Cardinals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $38,957 | — | ⏳ Pendiente |
 | acorp | Dota 2: Team Yandex vs 1win (BO3) - PGL Wallachia Playoffs | Team Yandex | 1.23 (81¢) | $47,536 | — | ⏳ Pendiente |
 | Talvez10 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $71,546 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $65,839 | +$56,085 | ✅ Ganada |
 | xifutloong3 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.54 (65¢) | $33,076 | +$17,810 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Angels vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $75,606 | -$75,606 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Atlanta Braves: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $62,206 | -$62,206 | ❌ Perdida |
