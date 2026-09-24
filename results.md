@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 11:58:02 (hora de Perú)
+Actualizado: 2026-09-24 12:00:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3525**  ($193,161,960 en total)
+- Apuestas registradas: **3526**  ($193,188,960 en total)
 - Resueltas: **3485** — 2117 ganadas / 1368 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 453
 
 ### Balance
@@ -27,8 +27,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 257 | 130 | 4 | 66% | $25,832,494 | +$859,772 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 72 | 0 | 54% | $6,437,706 | -$224,693 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
+| pleaseplease123 | 71 | 53 | 1 | 57% | $5,782,046 | +$658,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
-| pleaseplease123 | 71 | 53 | 0 | 57% | $5,755,046 | +$658,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 57 | 36 | 1 | 61% | $5,059,289 | -$56,623 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Chicago White Sox vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Phantom vs Iberian Soul (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs | Iberian Soul | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $71,231 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $49,746 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 1 Winner | LGD Gaming | 1.37 (73¢) | $25,742 | +$9,521 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Valentin Royer vs Adam Walton | Valentin Royer | 1.16 (86¢) | $40,067 | +$6,523 | ✅ Ganada |
 | SDTrading | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $26,669 | -$26,669 | ❌ Perdida |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Nemesis vs Conventus Stellarum - Game 1 Winner | Conventus Stellarum | 1.49 (67¢) | $30,000 | +$14,776 | ✅ Ganada |
