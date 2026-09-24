@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 16:05:20 (hora de Perú)
+Actualizado: 2026-09-24 16:07:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3533**  ($193,704,293 en total)
-- Resueltas: **3493** — 2123 ganadas / 1370 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **3495** — 2124 ganadas / 1371 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 453
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,323,440** sobre $190,644,443 apostados (ROI **-1.7%**)
-- Copiando $100 fijo en cada una: **-$7,688** sobre $344,100 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$3,338,466** sobre $190,706,060 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$7,706** sobre $344,300 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 57 | 36 | 1 | 61% | $5,059,289 | -$56,623 |
 | ripley86alien | 30 | 13 | 1 | 70% | $4,726,353 | +$1,882,828 |
 | Diabolical-Prize | 40 | 37 | 0 | 52% | $3,843,844 | -$276,432 |
-| Sassy-Bucket | 32 | 37 | 1 | 46% | $3,439,047 | -$569,965 |
+| Sassy-Bucket | 32 | 38 | 0 | 46% | $3,439,047 | -$605,957 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| SDTrading | 21 | 26 | 1 | 45% | $1,420,108 | -$245,129 |
+| SDTrading | 22 | 26 | 0 | 46% | $1,420,108 | -$224,163 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | Yes | 1.67 (60¢) | $144,000 | — | ⏳ Pendiente |
 | Feromont | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | New York Mets vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $88,940 | — | ⏳ Pendiente |
-| Sassy-Bucket | Chicago White Sox vs. Kansas City Royals | Kansas City Royals | 2.27 (44¢) | $35,992 | — | ⏳ Pendiente |
+| Sassy-Bucket | Chicago White Sox vs. Kansas City Royals | Kansas City Royals | 2.27 (44¢) | $35,992 | -$35,992 | ❌ Perdida |
 | pleaseplease123 | Chicago White Sox vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Phantom vs Iberian Soul (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs | Iberian Soul | 1.96 (51¢) | $35,700 | +$34,300 | ✅ Ganada |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $71,231 | — | ⏳ Pendiente |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | acorp | Dota 2: Team Yandex vs 1win (BO3) - PGL Wallachia Playoffs | Team Yandex | 1.23 (81¢) | $47,536 | +$11,150 | ✅ Ganada |
 | Talvez10 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $71,546 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
-| SDTrading | Chicago White Sox vs. Kansas City Royals | Chicago White Sox | 1.82 (55¢) | $25,625 | — | ⏳ Pendiente |
+| SDTrading | Chicago White Sox vs. Kansas City Royals | Chicago White Sox | 1.82 (55¢) | $25,625 | +$20,966 | ✅ Ganada |
 | FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $130,820 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Spread: Pittsburgh Pirates (-1.5) | St. Louis Cardinals | 1.64 (61¢) | $42,298 | +$27,043 | ✅ Ganada |
 | sulumos | Will Norway win on 2026-09-24? | No | 2.33 (43¢) | $51,478 | — | ⏳ Pendiente |
