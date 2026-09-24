@@ -52750,5 +52750,20 @@
     "status": "pending",
     "ultimo_fill": 1790262474,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7181,
+    "timestamp": 1790263394,
+    "username": "acorp",
+    "wallet": "0x99e42eb9038705165b22f821e27659c1dc41e4c4",
+    "slug": "dota2-ty-1win-2026-09-24",
+    "title": "Dota 2: Team Yandex vs 1win (BO3) - PGL Wallachia Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 47536.0569,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1790263394,
+    "fills": 1
   }
 ]
