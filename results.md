@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 22:29:38 (hora de Perú)
+Actualizado: 2026-09-23 22:31:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3494**  ($190,525,953 en total)
-- Resueltas: **3472** — 2106 ganadas / 1366 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **3473** — 2107 ganadas / 1366 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,616,472** sobre $189,614,022 apostados (ROI **-1.9%**)
-- Copiando $100 fijo en cada una: **-$8,412** sobre $342,200 (ROI **-2.5%**)
+- **Resultado de los apostadores: -$3,566,472** sobre $189,664,022 apostados (ROI **-1.9%**)
+- Copiando $100 fijo en cada una: **-$8,312** sobre $342,300 (ROI **-2.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 256 | 130 | 4 | 66% | $25,723,472 | +$809,772 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 257 | 130 | 3 | 66% | $25,723,472 | +$859,772 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 71 | 1 | 54% | $6,437,706 | -$182,745 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | mooseborzoi | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $25,181 | +$16,787 | ✅ Ganada |
 | EsportsAI | Minnesota Twins vs. San Francisco Giants | San Francisco Giants | 2.38 (42¢) | $33,742 | -$33,742 | ❌ Perdida |
 | xifutloong3 | Toronto Blue Jays vs. Baltimore Orioles | Toronto Blue Jays | 2.22 (45¢) | $34,124 | -$34,124 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5 | Under 11.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5 | Under 11.5 | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
 | Pwaddler | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $36,372 | +$29,759 | ✅ Ganada |
 | pleaseplease123 | Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,800 | +$25,200 | ✅ Ganada |
 | SDTrading | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles | 1.85 (54¢) | $30,518 | +$25,997 | ✅ Ganada |
