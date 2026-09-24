@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 21:24:22 (hora de Perú)
+Actualizado: 2026-09-23 21:26:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3494**  ($190,525,953 en total)
-- Resueltas: **3466** — 2101 ganadas / 1365 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **3469** — 2103 ganadas / 1366 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,728,882** sobre $189,374,904 apostados (ROI **-2.0%**)
-- Copiando $100 fijo en cada una: **-$8,643** sobre $341,600 (ROI **-2.5%**)
+- **Resultado de los apostadores: -$3,718,780** sobre $189,472,182 apostados (ROI **-2.0%**)
+- Copiando $100 fijo en cada una: **-$8,641** sobre $341,900 (ROI **-2.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| SDTrading | 21 | 25 | 1 | 46% | $1,394,483 | -$218,460 |
+| SDTrading | 21 | 26 | 0 | 45% | $1,394,483 | -$245,129 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 14 | 0 | 39% | $1,257,497 | -$427,198 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 |---|---|---|---|---|---|---|
 | Donkey14 | Spread: Los Angeles Angels (-1.5) | Athletics | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Texas Rangers | New York Mets | 1.96 (51¢) | $26,344 | — | ⏳ Pendiente |
-| nuttypoo | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.20 (83¢) | $34,237 | — | ⏳ Pendiente |
+| nuttypoo | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.20 (83¢) | $34,237 | +$7,012 | ✅ Ganada |
 | pleaseplease123 | Houston Astros vs. Seattle Mariners | Seattle Mariners | 1.82 (55¢) | $88,426 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $28,338 | +$26,158 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Athletics | Los Angeles Angels | 1.82 (55¢) | $41,948 | — | ⏳ Pendiente |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | EsportsAI | Minnesota Twins vs. San Francisco Giants | San Francisco Giants | 2.38 (42¢) | $33,742 | -$33,742 | ❌ Perdida |
 | xifutloong3 | Toronto Blue Jays vs. Baltimore Orioles | Toronto Blue Jays | 2.22 (45¢) | $34,124 | -$34,124 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5 | Under 11.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
-| Pwaddler | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $36,372 | — | ⏳ Pendiente |
+| Pwaddler | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.82 (55¢) | $36,372 | +$29,759 | ✅ Ganada |
 | pleaseplease123 | Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,800 | +$25,200 | ✅ Ganada |
 | SDTrading | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles | 1.85 (54¢) | $30,518 | +$25,997 | ✅ Ganada |
 | tg-stakeqiu | Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs | 3DMAX | 2.38 (42¢) | $26,716 | +$36,893 | ✅ Ganada |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | Donkey14 | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $31,282 | -$31,282 | ❌ Perdida |
 | Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 1 Winner | LGD Gaming | 1.37 (73¢) | $25,742 | +$9,521 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Valentin Royer vs Adam Walton | Valentin Royer | 1.16 (86¢) | $40,067 | +$6,523 | ✅ Ganada |
-| SDTrading | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $26,669 | — | ⏳ Pendiente |
+| SDTrading | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $26,669 | -$26,669 | ❌ Perdida |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Nemesis vs Conventus Stellarum - Game 1 Winner | Conventus Stellarum | 1.49 (67¢) | $30,000 | +$14,776 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Singapore Open: Elise Mertens vs Barbora Krejcikova | Elise Mertens | 1.96 (51¢) | $65,000 | — | ⊘ Anulada |
 | kkookkoo | New York Mets vs. Texas Rangers | New York Mets | 2.04 (49¢) | $28,000 | +$29,143 | ✅ Ganada |
