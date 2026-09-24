@@ -52870,5 +52870,50 @@
     "status": "pending",
     "ultimo_fill": 1790264819,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7189,
+    "timestamp": 1790265155,
+    "username": "CongoleseBorat",
+    "wallet": "0x6f0ebea3c2e777699519ee128faaa07a9d0b2ee5",
+    "slug": "unl-nor-den-2026-09-24-nor",
+    "title": "Will Norway win on 2026-09-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 27593.489999999998,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1790265155,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7190,
+    "timestamp": 1790265168,
+    "username": "Ne8om",
+    "wallet": "0xbeb1c94b4260398f93f418e349a15a40b2ae4687",
+    "slug": "unl-nor-den-2026-09-24-nor",
+    "title": "Will Norway win on 2026-09-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25222.785,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1790265168,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7191,
+    "timestamp": 1790265242,
+    "username": "SmartPredictOrNot",
+    "wallet": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
+    "slug": "unl-nor-den-2026-09-24-nor",
+    "title": "Will Norway win on 2026-09-24?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 179700.38100000002,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1790265242,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 10:52:17 (hora de Perú)
+Actualizado: 2026-09-24 10:54:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3517**  ($192,326,922 en total)
+- Apuestas registradas: **3520**  ($192,559,439 en total)
 - Resueltas: **3484** — 2116 ganadas / 1368 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 19
 - Apostadores distintos: 453
 
 ### Balance
@@ -50,11 +50,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
+| SmartPredictOrNot | 0 | 2 | 3 | ⚠️ 0% (2) | $1,447,418 | -$659,284 |
 | SDTrading | 21 | 26 | 1 | 45% | $1,420,108 | -$245,129 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 14 | 1 | 39% | $1,298,497 | -$427,198 |
-| SmartPredictOrNot | 0 | 2 | 2 | ⚠️ 0% (2) | $1,267,717 | -$659,284 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | xifutloong3 | 18 | 17 | 0 | 51% | $1,181,578 | -$195,299 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.59 (63¢) | $179,700 | — | ⏳ Pendiente |
+| Ne8om | Will Norway win on 2026-09-24? | No | 2.63 (38¢) | $25,223 | — | ⏳ Pendiente |
+| CongoleseBorat | Will Norway win on 2026-09-24? | No | 2.70 (37¢) | $27,593 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $53,964 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $247,353 | — | ⏳ Pendiente |
 | ArturitoFilito | Will Norway win on 2026-09-24? | No | 2.56 (39¢) | $30,333 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | Sassy-Bucket | Houston Astros vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $30,327 | -$30,327 | ❌ Perdida |
 | HMLSF | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.92 (52¢) | $30,233 | +$27,907 | ✅ Ganada |
 | HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 2.50 (40¢) | $34,150 | +$51,225 | ✅ Ganada |
-| xifutloong3 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $49,041 | -$49,041 | ❌ Perdida |
-| BrotherObama | Arizona Diamondbacks vs. Colorado Rockies: O/U 10.5 | Over 10.5 | 1.85 (54¢) | $80,228 | -$80,228 | ❌ Perdida |
-| ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.15 (87¢) | $89,966 | +$13,443 | ✅ Ganada |
