@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 00:50:36 (hora de Perú)
+Actualizado: 2026-09-24 00:52:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3494**  ($190,525,953 en total)
-- Resueltas: **3476** — 2109 ganadas / 1367 perdidas (**61%** de acierto)
-- Pendientes: 1
+- Resueltas: **3477** — 2110 ganadas / 1367 perdidas (**61%** de acierto)
+- Pendientes: 0
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,558,042** sobre $189,757,301 apostados (ROI **-1.9%**)
-- Copiando $100 fijo en cada una: **-$8,216** sobre $342,600 (ROI **-2.4%**)
+- **Resultado de los apostadores: -$3,485,694** sobre $189,845,728 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$8,134** sobre $342,700 (ROI **-2.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 72 | 0 | 54% | $6,437,706 | -$224,693 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
-| pleaseplease123 | 70 | 53 | 1 | 57% | $5,755,046 | +$586,124 |
+| pleaseplease123 | 71 | 53 | 0 | 57% | $5,755,046 | +$658,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 57 | 36 | 0 | 61% | $5,032,489 | -$56,623 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | Donkey14 | Spread: Los Angeles Angels (-1.5) | Athletics | 1.79 (56¢) | $25,455 | +$20,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Texas Rangers | New York Mets | 1.96 (51¢) | $26,344 | +$25,311 | ✅ Ganada |
 | nuttypoo | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.20 (83¢) | $34,237 | +$7,012 | ✅ Ganada |
-| pleaseplease123 | Houston Astros vs. Seattle Mariners | Seattle Mariners | 1.82 (55¢) | $88,426 | — | ⏳ Pendiente |
+| pleaseplease123 | Houston Astros vs. Seattle Mariners | Seattle Mariners | 1.82 (55¢) | $88,426 | +$72,349 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $28,338 | +$26,158 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Athletics | Los Angeles Angels | 1.82 (55¢) | $41,948 | -$41,948 | ❌ Perdida |
 | nigiri99 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $27,012 | +$22,100 | ✅ Ganada |
