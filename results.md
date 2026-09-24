@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 14:36:01 (hora de Perú)
+Actualizado: 2026-09-24 14:38:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3532**  ($193,651,493 en total)
-- Resueltas: **3488** — 2119 ganadas / 1369 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **3489** — 2120 ganadas / 1369 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 453
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,402,013** sobre $190,468,747 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$7,899** sobre $343,600 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$3,376,042** sobre $190,507,704 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$7,833** sobre $343,700 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | Ne8om | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $26,765 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $41,000 | -$2,000 | 💰 Vendida antes |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.69 (59¢) | $361,080 | — | ⏳ Pendiente |
-| kkookkoo | St. Louis Cardinals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $38,957 | — | ⏳ Pendiente |
+| kkookkoo | St. Louis Cardinals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $38,957 | +$25,971 | ✅ Ganada |
 | acorp | Dota 2: Team Yandex vs 1win (BO3) - PGL Wallachia Playoffs | Team Yandex | 1.23 (81¢) | $47,536 | +$11,150 | ✅ Ganada |
 | Talvez10 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $71,546 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
