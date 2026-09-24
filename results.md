@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 06:47:45 (hora de Perú)
+Actualizado: 2026-09-24 06:49:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3495**  ($190,552,152 en total)
+- Apuestas registradas: **3496**  ($190,637,700 en total)
 - Resueltas: **3477** — 2110 ganadas / 1367 perdidas (**61%** de acierto)
-- Pendientes: 1
+- Pendientes: 2
 - Apostadores distintos: 451
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.47 (68¢) | $85,548 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Betclic Apogee Esports vs ASTRAL (BO3) - Stake Pulse Beat II Group D | Betclic Apogee Esports | 1.49 (67¢) | $26,200 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Los Angeles Angels (-1.5) | Athletics | 1.79 (56¢) | $25,455 | +$20,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Texas Rangers | New York Mets | 1.96 (51¢) | $26,344 | +$25,311 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | retordedgremlin125 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.69 (59¢) | $26,000 | +$18,068 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.27 (44¢) | $35,200 | +$44,800 | ✅ Ganada |
 | goshkam | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.75 (57¢) | $295,718 | +$223,085 | ✅ Ganada |
-| HMLSF | Tolentino: Barbora Palicova vs Alicia Herrero Linana | Barbora Palicova | 1.19 (84¢) | $25,907 | +$4,935 | ✅ Ganada |
