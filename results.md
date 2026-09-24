@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 07:24:28 (hora de Perú)
+Actualizado: 2026-09-24 07:26:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3499**  ($190,842,656 en total)
+- Apuestas registradas: **3500**  ($190,905,790 en total)
 - Resueltas: **3477** — 2110 ganadas / 1367 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 451
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | TYLOO | 2.86 (35¢) | $63,134 | — | ⏳ Pendiente |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $56,100 | — | ⏳ Pendiente |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $62,565 | — | ⏳ Pendiente |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $86,290 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.72 (58¢) | $28,841 | +$20,885 | ✅ Ganada |
 | sulumos | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.44 (41¢) | $25,420 | -$25,420 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays | 2.50 (40¢) | $341,047 | -$341,047 | ❌ Perdida |
-| Diabolical-Prize | Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs | 3DMAX | 2.33 (43¢) | $26,697 | +$35,390 | ✅ Ganada |
