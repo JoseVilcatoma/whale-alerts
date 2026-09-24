@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 11:39:37 (hora de Perú)
+Actualizado: 2026-09-24 11:41:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3525**  ($193,161,960 en total)
-- Resueltas: **3484** — 2116 ganadas / 1368 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **3485** — 2117 ganadas / 1368 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 453
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,414,768** sobre $190,305,594 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$7,929** sobre $343,400 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$3,411,941** sobre $190,349,878 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$7,923** sobre $343,500 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $130,820 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Spread: Pittsburgh Pirates (-1.5) | St. Louis Cardinals | 1.64 (61¢) | $42,298 | — | ⏳ Pendiente |
 | sulumos | Will Norway win on 2026-09-24? | No | 2.33 (43¢) | $51,478 | — | ⏳ Pendiente |
-| LuckyWin | Dota 2: Daxak Team vs gpk Team - Game 2 Winner | gpk Team | 1.06 (94¢) | $44,284 | — | ⏳ Pendiente |
+| LuckyWin | Dota 2: Daxak Team vs gpk Team - Game 2 Winner | gpk Team | 1.06 (94¢) | $44,284 | +$2,827 | ✅ Ganada |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $101,263 | — | ⏳ Pendiente |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.54 (65¢) | $35,973 | +$19,370 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | TYLOO | 2.86 (35¢) | $107,190 | -$107,190 | ❌ Perdida |
