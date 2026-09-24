@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 00:01:49 (hora de Perú)
+Actualizado: 2026-09-24 00:03:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3494**  ($190,525,953 en total)
-- Resueltas: **3475** — 2108 ganadas / 1367 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Resueltas: **3476** — 2109 ganadas / 1367 perdidas (**61%** de acierto)
+- Pendientes: 1
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,578,042** sobre $189,731,847 apostados (ROI **-1.9%**)
-- Copiando $100 fijo en cada una: **-$8,294** sobre $342,500 (ROI **-2.4%**)
+- **Resultado de los apostadores: -$3,558,042** sobre $189,757,301 apostados (ROI **-1.9%**)
+- Copiando $100 fijo en cada una: **-$8,216** sobre $342,600 (ROI **-2.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Donkey14 | Spread: Los Angeles Angels (-1.5) | Athletics | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
+| Donkey14 | Spread: Los Angeles Angels (-1.5) | Athletics | 1.79 (56¢) | $25,455 | +$20,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Texas Rangers | New York Mets | 1.96 (51¢) | $26,344 | +$25,311 | ✅ Ganada |
 | nuttypoo | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.20 (83¢) | $34,237 | +$7,012 | ✅ Ganada |
 | pleaseplease123 | Houston Astros vs. Seattle Mariners | Seattle Mariners | 1.82 (55¢) | $88,426 | — | ⏳ Pendiente |
