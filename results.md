@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 15:40:08 (hora de Perú)
+Actualizado: 2026-09-24 15:42:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3533**  ($193,704,293 en total)
-- Resueltas: **3491** — 2122 ganadas / 1369 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **3492** — 2123 ganadas / 1369 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 453
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,325,999** sobre $190,577,002 apostados (ROI **-1.7%**)
-- Copiando $100 fijo en cada una: **-$7,684** sobre $343,900 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$3,291,699** sobre $190,612,702 apostados (ROI **-1.7%**)
+- Copiando $100 fijo en cada una: **-$7,588** sobre $344,000 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | BrotherObama | New York Mets vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $88,940 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chicago White Sox vs. Kansas City Royals | Kansas City Royals | 2.27 (44¢) | $35,992 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago White Sox vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Phantom vs Iberian Soul (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs | Iberian Soul | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Phantom vs Iberian Soul (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs | Iberian Soul | 1.96 (51¢) | $35,700 | +$34,300 | ✅ Ganada |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $71,231 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $49,746 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $124,512 | — | ⏳ Pendiente |
