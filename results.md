@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 19:49:14 (hora de Perú)
+Actualizado: 2026-09-23 19:51:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3493**  ($190,500,498 en total)
+- Apuestas registradas: **3494**  ($190,525,953 en total)
 - Resueltas: **3463** — 2098 ganadas / 1365 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 451
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Spread: Los Angeles Angels (-1.5) | Athletics | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Texas Rangers | New York Mets | 1.96 (51¢) | $26,344 | — | ⏳ Pendiente |
 | nuttypoo | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.20 (83¢) | $34,237 | — | ⏳ Pendiente |
 | pleaseplease123 | Houston Astros vs. Seattle Mariners | Seattle Mariners | 1.82 (55¢) | $88,426 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | goshkam | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.75 (57¢) | $295,718 | +$223,085 | ✅ Ganada |
 | HMLSF | Tolentino: Barbora Palicova vs Alicia Herrero Linana | Barbora Palicova | 1.19 (84¢) | $25,907 | +$4,935 | ✅ Ganada |
 | SDTrading | Spread: New York Yankees (-1.5) | Tampa Bay Rays | 1.52 (66¢) | $29,700 | -$29,700 | ❌ Perdida |
-| EsportsAI | Dota 2: Natus Vincere vs 1win (BO3) - PGL Wallachia Group Stage | 1win | 1.89 (53¢) | $26,242 | -$26,242 | ❌ Perdida |
