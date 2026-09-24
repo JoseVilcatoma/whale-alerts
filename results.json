@@ -52807,9 +52807,11 @@
     "side": "BUY",
     "usd": 41000.0,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1790264383,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": -2000.0,
+    "precio_salida": 39
   },
   {
     "telegram_msg_id": 7185,
@@ -52837,9 +52839,11 @@
     "side": "BUY",
     "usd": 30333.030000000002,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1790264577,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": 777.77,
+    "precio_salida": 40
   },
   {
     "telegram_msg_id": 7187,

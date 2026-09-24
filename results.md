@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 13:18:21 (hora de Perú)
+Actualizado: 2026-09-24 13:20:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3527**  ($193,224,952 en total)
-- Resueltas: **3486** — 2118 ganadas / 1368 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **3488** — 2119 ganadas / 1369 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 453
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,400,791** sobre $190,397,414 apostados (ROI **-1.8%**)
+- **Resultado de los apostadores: -$3,402,013** sobre $190,468,747 apostados (ROI **-1.8%**)
 - Copiando $100 fijo en cada una: **-$7,899** sobre $343,600 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 21 | 26 | 1 | 45% | $1,420,108 | -$245,129 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 14 | 1 | 39% | $1,298,497 | -$427,198 |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | xifutloong3 | 18 | 17 | 0 | 51% | $1,181,578 | -$195,299 |
@@ -83,9 +83,9 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | CongoleseBorat | Will Norway win on 2026-09-24? | No | 2.70 (37¢) | $27,593 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $53,964 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $247,353 | — | ⏳ Pendiente |
-| ArturitoFilito | Will Norway win on 2026-09-24? | No | 2.56 (39¢) | $30,333 | — | ⏳ Pendiente |
+| ArturitoFilito | Will Norway win on 2026-09-24? | No | 2.56 (39¢) | $30,333 | +$778 | 💰 Vendida antes |
 | Ne8om | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $26,765 | — | ⏳ Pendiente |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $41,000 | -$2,000 | 💰 Vendida antes |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.69 (59¢) | $361,080 | — | ⏳ Pendiente |
 | kkookkoo | St. Louis Cardinals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $38,957 | — | ⏳ Pendiente |
 | acorp | Dota 2: Team Yandex vs 1win (BO3) - PGL Wallachia Playoffs | Team Yandex | 1.23 (81¢) | $47,536 | +$11,150 | ✅ Ganada |
