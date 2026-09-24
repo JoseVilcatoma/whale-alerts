@@ -52610,10 +52610,25 @@
     "title": "Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C",
     "outcome": "TYLOO",
     "side": "BUY",
-    "usd": 63133.591499999995,
+    "usd": 107189.7507,
     "odds_at_bet": 35,
     "status": "pending",
-    "ultimo_fill": 1790252692,
+    "ultimo_fill": 1790252793,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 7164,
+    "timestamp": 1790252793,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "val-tyloo-g21-2026-09-24",
+    "title": "Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 35973.304800000005,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1790252793,
     "fills": 1
   }
 ]
