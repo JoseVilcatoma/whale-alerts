@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 09:44:22 (hora de Perú)
+Actualizado: 2026-09-24 09:46:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3504**  ($191,182,844 en total)
+- Apuestas registradas: **3505**  ($191,225,142 en total)
 - Resueltas: **3484** — 2116 ganadas / 1368 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 452
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 11 | 10 | 0 | 52% | $1,046,960 | +$193,981 |
 | ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 20 | 9 | 0 | 69% | $994,145 | +$172,815 |
+| Lakersfan111 | 10 | 14 | 1 | 42% | $981,133 | -$350,029 |
 | maz26 | 8 | 6 | 0 | 57% | $950,222 | -$162,214 |
-| Lakersfan111 | 10 | 14 | 0 | 42% | $938,835 | -$350,029 |
 
 _(mostrando los 40 de mayor monto, de 452 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 452 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FORTNITEMASTER888 | Spread: Pittsburgh Pirates (-1.5) | St. Louis Cardinals | 1.64 (61¢) | $42,298 | — | ⏳ Pendiente |
 | sulumos | Will Norway win on 2026-09-24? | No | 2.33 (43¢) | $51,478 | — | ⏳ Pendiente |
 | LuckyWin | Dota 2: Daxak Team vs gpk Team - Game 2 Winner | gpk Team | 1.06 (94¢) | $44,284 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $101,263 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 452 en total)_
 | HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 3.23 (31¢) | $28,192 | +$62,749 | ✅ Ganada |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $1,772,420 | -$1,772,420 | ❌ Perdida |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $402,067 | -$402,067 | ❌ Perdida |
-| 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Singapore Open: Oleksandra Oliynykova vs Maja Chwalinska | Maja Chwalinska | 1.49 (67¢) | $27,688 | +$13,637 | ✅ Ganada |
