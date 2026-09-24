@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 10:56:26 (hora de Perú)
+Actualizado: 2026-09-24 10:58:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3520**  ($192,771,749 en total)
+- Apuestas registradas: **3521**  ($192,880,771 en total)
 - Resueltas: **3484** — 2116 ganadas / 1368 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 453
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 257 | 130 | 3 | 66% | $25,723,472 | +$859,772 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 257 | 130 | 4 | 66% | $25,832,494 | +$859,772 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 72 | 0 | 54% | $6,437,706 | -$224,693 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | No | 2.78 (36¢) | $109,022 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.59 (63¢) | $392,010 | — | ⏳ Pendiente |
 | Ne8om | Will Norway win on 2026-09-24? | No | 2.63 (38¢) | $25,223 | — | ⏳ Pendiente |
 | CongoleseBorat | Will Norway win on 2026-09-24? | No | 2.70 (37¢) | $27,593 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | kkookkoo | New York Mets vs. Texas Rangers | New York Mets | 2.04 (49¢) | $28,000 | +$29,143 | ✅ Ganada |
 | Sassy-Bucket | Houston Astros vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $30,327 | -$30,327 | ❌ Perdida |
 | HMLSF | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.92 (52¢) | $30,233 | +$27,907 | ✅ Ganada |
-| HMLSF | Cincinnati Reds vs. Atlanta Braves | Cincinnati Reds | 2.50 (40¢) | $34,150 | +$51,225 | ✅ Ganada |
