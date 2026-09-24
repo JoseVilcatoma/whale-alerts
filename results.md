@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 17:42:54 (hora de Perú)
+Actualizado: 2026-09-24 17:44:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3535**  ($193,776,359 en total)
-- Resueltas: **3496** — 2124 ganadas / 1372 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **3513** — 2134 ganadas / 1379 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 453
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,427,406** sobre $190,795,001 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$7,806** sobre $344,400 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,754,353** sobre $192,872,922 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,869** sobre $346,100 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,14 +24,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 257 | 130 | 5 | 66% | $25,976,494 | +$859,772 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 258 | 131 | 3 | 66% | $25,976,494 | +$846,750 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 72 | 1 | 54% | $6,474,895 | -$224,693 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 57 | 36 | 1 | 61% | $5,059,289 | -$56,623 |
-| ripley86alien | 30 | 13 | 1 | 70% | $4,726,353 | +$1,882,828 |
+| ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 40 | 37 | 0 | 52% | $3,843,844 | -$276,432 |
 | Sassy-Bucket | 32 | 38 | 1 | 46% | $3,473,924 | -$605,957 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| SmartPredictOrNot | 0 | 2 | 4 | ⚠️ 0% (2) | $1,784,240 | -$659,284 |
+| SmartPredictOrNot | 4 | 2 | 0 | ⚠️ 67% (6) | $1,784,240 | +$43,506 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | ethanaz | 20 | 4 | 0 | 83% | $1,711,749 | +$3,544 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | xifutloong3 | 18 | 17 | 0 | 51% | $1,181,578 | -$195,299 |
 | Talvez10 | 11 | 10 | 2 | 52% | $1,171,306 | +$193,981 |
-| Lakersfan111 | 11 | 14 | 2 | 44% | $1,165,917 | -$322,986 |
+| Lakersfan111 | 13 | 14 | 0 | 48% | $1,165,917 | -$191,223 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
@@ -75,36 +75,36 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.85 (54¢) | $37,189 | — | ⏳ Pendiente |
 | Talvez10 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 2.08 (48¢) | $52,800 | — | ⏳ Pendiente |
 | Sassy-Bucket | Arizona Diamondbacks vs. Colorado Rockies: O/U 9.5 | Under 9.5 | 2.17 (46¢) | $31,741 | -$31,741 | ❌ Perdida |
-| ripley86alien | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $131,860 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | Yes | 1.67 (60¢) | $144,000 | — | ⏳ Pendiente |
-| Feromont | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $30,000 | — | ⏳ Pendiente |
+| ripley86alien | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $131,860 | -$131,860 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | Yes | 1.67 (60¢) | $144,000 | +$96,000 | ✅ Ganada |
+| Feromont | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $30,000 | -$30,000 | ❌ Perdida |
 | BrotherObama | New York Mets vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $88,940 | -$88,940 | ❌ Perdida |
 | Sassy-Bucket | Chicago White Sox vs. Kansas City Royals | Kansas City Royals | 2.27 (44¢) | $35,992 | -$35,992 | ❌ Perdida |
 | pleaseplease123 | Chicago White Sox vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Phantom vs Iberian Soul (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs | Iberian Soul | 1.96 (51¢) | $35,700 | +$34,300 | ✅ Ganada |
-| 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $71,231 | — | ⏳ Pendiente |
-| 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $49,746 | — | ⏳ Pendiente |
-| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $124,512 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | No | 2.78 (36¢) | $109,022 | — | ⏳ Pendiente |
-| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.59 (63¢) | $392,010 | — | ⏳ Pendiente |
-| Ne8om | Will Norway win on 2026-09-24? | No | 2.63 (38¢) | $25,223 | — | ⏳ Pendiente |
-| CongoleseBorat | Will Norway win on 2026-09-24? | No | 2.70 (37¢) | $27,593 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $53,964 | — | ⏳ Pendiente |
-| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $247,353 | — | ⏳ Pendiente |
+| 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $71,231 | +$40,067 | ✅ Ganada |
+| 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $49,746 | +$27,982 | ✅ Ganada |
+| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $124,512 | +$70,038 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | No | 2.78 (36¢) | $109,022 | -$109,022 | ❌ Perdida |
+| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.59 (63¢) | $392,010 | +$230,228 | ✅ Ganada |
+| Ne8om | Will Norway win on 2026-09-24? | No | 2.63 (38¢) | $25,223 | -$25,223 | ❌ Perdida |
+| CongoleseBorat | Will Norway win on 2026-09-24? | No | 2.70 (37¢) | $27,593 | -$27,593 | ❌ Perdida |
+| FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $53,964 | +$33,075 | ✅ Ganada |
+| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $247,353 | +$151,604 | ✅ Ganada |
 | ArturitoFilito | Will Norway win on 2026-09-24? | No | 2.56 (39¢) | $30,333 | +$778 | 💰 Vendida antes |
-| Ne8om | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $26,765 | — | ⏳ Pendiente |
+| Ne8om | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $26,765 | -$26,765 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $41,000 | -$2,000 | 💰 Vendida antes |
-| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.69 (59¢) | $361,080 | — | ⏳ Pendiente |
+| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.69 (59¢) | $361,080 | +$250,920 | ✅ Ganada |
 | kkookkoo | St. Louis Cardinals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $38,957 | +$25,971 | ✅ Ganada |
 | acorp | Dota 2: Team Yandex vs 1win (BO3) - PGL Wallachia Playoffs | Team Yandex | 1.23 (81¢) | $47,536 | +$11,150 | ✅ Ganada |
 | Talvez10 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $71,546 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | SDTrading | Chicago White Sox vs. Kansas City Royals | Chicago White Sox | 1.82 (55¢) | $25,625 | +$20,966 | ✅ Ganada |
-| FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $130,820 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $130,820 | +$98,689 | ✅ Ganada |
 | FORTNITEMASTER888 | Spread: Pittsburgh Pirates (-1.5) | St. Louis Cardinals | 1.64 (61¢) | $42,298 | +$27,043 | ✅ Ganada |
-| sulumos | Will Norway win on 2026-09-24? | No | 2.33 (43¢) | $51,478 | — | ⏳ Pendiente |
+| sulumos | Will Norway win on 2026-09-24? | No | 2.33 (43¢) | $51,478 | -$51,478 | ❌ Perdida |
 | LuckyWin | Dota 2: Daxak Team vs gpk Team - Game 2 Winner | gpk Team | 1.06 (94¢) | $44,284 | +$2,827 | ✅ Ganada |
-| 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $101,263 | — | ⏳ Pendiente |
+| 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $101,263 | +$76,392 | ✅ Ganada |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.54 (65¢) | $35,973 | +$19,370 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | TYLOO | 2.86 (35¢) | $107,190 | -$107,190 | ❌ Perdida |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $56,100 | +$28,900 | ✅ Ganada |
