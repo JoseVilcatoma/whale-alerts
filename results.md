@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 21:46:31 (hora de Perú)
+Actualizado: 2026-09-23 21:48:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3494**  ($190,525,953 en total)
-- Resueltas: **3469** — 2103 ganadas / 1366 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **3471** — 2105 ganadas / 1366 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,718,780** sobre $189,472,182 apostados (ROI **-2.0%**)
-- Copiando $100 fijo en cada una: **-$8,641** sobre $341,900 (ROI **-2.5%**)
+- **Resultado de los apostadores: -$3,641,783** sobre $189,587,678 apostados (ROI **-1.9%**)
+- Copiando $100 fijo en cada una: **-$8,508** sobre $342,100 (ROI **-2.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,8 +81,8 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | HMLSF | Los Angeles Angels vs. Athletics | Athletics | 2.17 (46¢) | $25,877 | — | ⏳ Pendiente |
 | Donkey14 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $45,177 | +$18,452 | ✅ Ganada |
 | HMLSF | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox | 1.79 (56¢) | $27,858 | +$21,888 | ✅ Ganada |
-| dsasdaas | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $90,315 | — | ⏳ Pendiente |
-| mooseborzoi | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $25,181 | — | ⏳ Pendiente |
+| dsasdaas | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $90,315 | +$60,210 | ✅ Ganada |
+| mooseborzoi | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $25,181 | +$16,787 | ✅ Ganada |
 | EsportsAI | Minnesota Twins vs. San Francisco Giants | San Francisco Giants | 2.38 (42¢) | $33,742 | -$33,742 | ❌ Perdida |
 | xifutloong3 | Toronto Blue Jays vs. Baltimore Orioles | Toronto Blue Jays | 2.22 (45¢) | $34,124 | -$34,124 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5 | Under 11.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
