@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 17:32:23 (hora de Perú)
+Actualizado: 2026-09-24 17:34:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3534**  ($193,741,482 en total)
+- Apuestas registradas: **3535**  ($193,776,359 en total)
 - Resueltas: **3496** — 2124 ganadas / 1372 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 453
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 57 | 36 | 1 | 61% | $5,059,289 | -$56,623 |
 | ripley86alien | 30 | 13 | 1 | 70% | $4,726,353 | +$1,882,828 |
 | Diabolical-Prize | 40 | 37 | 0 | 52% | $3,843,844 | -$276,432 |
-| Sassy-Bucket | 32 | 38 | 0 | 46% | $3,439,047 | -$605,957 |
+| Sassy-Bucket | 32 | 38 | 1 | 46% | $3,473,924 | -$605,957 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Liberty vs. Coastal Carolina | Liberty | 1.79 (56¢) | $34,877 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.85 (54¢) | $37,189 | — | ⏳ Pendiente |
 | Talvez10 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 2.08 (48¢) | $52,800 | — | ⏳ Pendiente |
 | Sassy-Bucket | Arizona Diamondbacks vs. Colorado Rockies: O/U 9.5 | Under 9.5 | 2.17 (46¢) | $31,741 | -$31,741 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | pleaseplease123 | Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,800 | +$25,200 | ✅ Ganada |
 | SDTrading | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles | 1.85 (54¢) | $30,518 | +$25,997 | ✅ Ganada |
 | tg-stakeqiu | Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs | 3DMAX | 2.38 (42¢) | $26,716 | +$36,893 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.70 (37¢) | $74,000 | +$126,000 | ✅ Ganada |
