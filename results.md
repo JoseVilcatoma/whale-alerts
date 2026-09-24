@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 14:40:07 (hora de Perú)
+Actualizado: 2026-09-24 14:42:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3532**  ($193,651,493 en total)
-- Resueltas: **3489** — 2120 ganadas / 1369 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **3490** — 2121 ganadas / 1369 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 453
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,376,042** sobre $190,507,704 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$7,833** sobre $343,700 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$3,348,999** sobre $190,550,002 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$7,769** sobre $343,800 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | xifutloong3 | 18 | 17 | 0 | 51% | $1,181,578 | -$195,299 |
-| Lakersfan111 | 10 | 14 | 3 | 42% | $1,165,917 | -$350,029 |
+| Lakersfan111 | 11 | 14 | 2 | 44% | $1,165,917 | -$322,986 |
 | Talvez10 | 11 | 10 | 1 | 52% | $1,118,506 | +$193,981 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | SDTrading | Chicago White Sox vs. Kansas City Royals | Chicago White Sox | 1.82 (55¢) | $25,625 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $130,820 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | Spread: Pittsburgh Pirates (-1.5) | St. Louis Cardinals | 1.64 (61¢) | $42,298 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | Spread: Pittsburgh Pirates (-1.5) | St. Louis Cardinals | 1.64 (61¢) | $42,298 | +$27,043 | ✅ Ganada |
 | sulumos | Will Norway win on 2026-09-24? | No | 2.33 (43¢) | $51,478 | — | ⏳ Pendiente |
 | LuckyWin | Dota 2: Daxak Team vs gpk Team - Game 2 Winner | gpk Team | 1.06 (94¢) | $44,284 | +$2,827 | ✅ Ganada |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $101,263 | — | ⏳ Pendiente |
