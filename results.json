@@ -53079,10 +53079,10 @@
     "title": "Will Norway win on 2026-09-24?",
     "outcome": "No",
     "side": "BUY",
-    "usd": 35859.528000000006,
+    "usd": 131859.528,
     "odds_at_bet": 40,
     "status": "pending",
-    "ultimo_fill": 1790275476,
-    "fills": 1
+    "ultimo_fill": 1790275436,
+    "fills": 2
   }
 ]
