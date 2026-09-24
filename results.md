@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 18:16:25 (hora de Perú)
+Actualizado: 2026-09-24 18:18:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3540**  ($193,934,197 en total)
+- Apuestas registradas: **3541**  ($193,970,015 en total)
 - Resueltas: **3513** — 2134 ganadas / 1379 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 453
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 57 | 36 | 1 | 61% | $5,059,289 | -$56,623 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 40 | 37 | 0 | 52% | $3,843,844 | -$276,432 |
-| Sassy-Bucket | 32 | 38 | 1 | 46% | $3,473,924 | -$605,957 |
+| Sassy-Bucket | 32 | 38 | 2 | 46% | $3,509,742 | -$605,957 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Liberty vs. Coastal Carolina | Liberty | 1.79 (56¢) | $35,818 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.67 (60¢) | $26,665 | — | ⏳ Pendiente |
 | kkookkoo | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $33,948 | — | ⏳ Pendiente |
 | xifutloong3 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.82 (55¢) | $38,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | dsasdaas | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $90,315 | +$60,210 | ✅ Ganada |
 | mooseborzoi | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $25,181 | +$16,787 | ✅ Ganada |
 | EsportsAI | Minnesota Twins vs. San Francisco Giants | San Francisco Giants | 2.38 (42¢) | $33,742 | -$33,742 | ❌ Perdida |
-| xifutloong3 | Toronto Blue Jays vs. Baltimore Orioles | Toronto Blue Jays | 2.22 (45¢) | $34,124 | -$34,124 | ❌ Perdida |
