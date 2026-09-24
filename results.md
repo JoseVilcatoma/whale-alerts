@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 09:19:31 (hora de Perú)
+Actualizado: 2026-09-24 09:21:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3501**  ($190,985,819 en total)
-- Resueltas: **3478** — 2111 ganadas / 1367 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **3484** — 2116 ganadas / 1368 perdidas (**61%** de acierto)
+- Pendientes: 0
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,472,789** sobre $189,871,927 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$8,085** sobre $342,800 (ROI **-2.4%**)
+- **Resultado de los apostadores: -$3,414,768** sobre $190,305,594 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$7,929** sobre $343,400 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 57 | 36 | 0 | 61% | $5,032,489 | -$56,623 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| Diabolical-Prize | 36 | 37 | 4 | 49% | $3,843,844 | -$401,385 |
+| Diabolical-Prize | 40 | 37 | 0 | 52% | $3,843,844 | -$276,432 |
 | Sassy-Bucket | 32 | 36 | 0 | 47% | $3,371,314 | -$538,223 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 20 | 9 | 0 | 69% | $994,145 | +$172,815 |
 | maz26 | 8 | 6 | 0 | 57% | $950,222 | -$162,214 |
-| Lakersfan111 | 9 | 13 | 2 | 41% | $938,835 | -$283,097 |
+| Lakersfan111 | 10 | 14 | 0 | 42% | $938,835 | -$350,029 |
 
 _(mostrando los 40 de mayor monto, de 451 en total)_
 
@@ -71,12 +71,12 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.54 (65¢) | $35,973 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | TYLOO | 2.86 (35¢) | $107,190 | — | ⏳ Pendiente |
-| Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $56,100 | — | ⏳ Pendiente |
-| Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $62,565 | — | ⏳ Pendiente |
-| Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $86,290 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.47 (68¢) | $85,548 | — | ⏳ Pendiente |
+| Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.54 (65¢) | $35,973 | +$19,370 | ✅ Ganada |
+| FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | TYLOO | 2.86 (35¢) | $107,190 | -$107,190 | ❌ Perdida |
+| Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $56,100 | +$28,900 | ✅ Ganada |
+| Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $62,565 | +$32,231 | ✅ Ganada |
+| Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $86,290 | +$44,453 | ✅ Ganada |
+| FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.47 (68¢) | $85,548 | +$40,258 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Betclic Apogee Esports vs ASTRAL (BO3) - Stake Pulse Beat II Group D | Betclic Apogee Esports | 1.49 (67¢) | $26,200 | +$12,904 | ✅ Ganada |
 | Donkey14 | Spread: Los Angeles Angels (-1.5) | Athletics | 1.79 (56¢) | $25,455 | +$20,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Texas Rangers | New York Mets | 1.96 (51¢) | $26,344 | +$25,311 | ✅ Ganada |
