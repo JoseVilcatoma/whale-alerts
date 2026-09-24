@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 19:26:22 (hora de Perú)
+Actualizado: 2026-09-23 19:28:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3493**  ($190,500,498 en total)
-- Resueltas: **3462** — 2097 ganadas / 1365 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **3463** — 2098 ganadas / 1365 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,817,482** sobre $189,246,519 apostados (ROI **-2.0%**)
-- Copiando $100 fijo en cada una: **-$8,937** sobre $341,200 (ROI **-2.6%**)
+- **Resultado de los apostadores: -$3,791,324** sobre $189,274,858 apostados (ROI **-2.0%**)
+- Copiando $100 fijo en cada una: **-$8,845** sobre $341,300 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 83 | 71 | 2 | 54% | $6,437,706 | -$208,056 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
-| pleaseplease123 | 69 | 53 | 2 | 57% | $5,755,046 | +$559,966 |
+| pleaseplease123 | 70 | 53 | 1 | 57% | $5,755,046 | +$586,124 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 57 | 36 | 0 | 61% | $5,032,489 | -$56,623 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Texas Rangers | New York Mets | 1.96 (51¢) | $26,344 | — | ⏳ Pendiente |
 | nuttypoo | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.20 (83¢) | $34,237 | — | ⏳ Pendiente |
 | pleaseplease123 | Houston Astros vs. Seattle Mariners | Seattle Mariners | 1.82 (55¢) | $88,426 | — | ⏳ Pendiente |
-| pleaseplease123 | Tampa Bay Rays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $28,338 | — | ⏳ Pendiente |
+| pleaseplease123 | Tampa Bay Rays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $28,338 | +$26,158 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Athletics | Los Angeles Angels | 1.82 (55¢) | $41,948 | — | ⏳ Pendiente |
 | nigiri99 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $27,012 | — | ⏳ Pendiente |
 | HMLSF | Los Angeles Angels vs. Athletics | Athletics | 2.17 (46¢) | $25,877 | — | ⏳ Pendiente |
