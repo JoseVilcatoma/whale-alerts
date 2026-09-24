@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 13:34:41 (hora de Perú)
+Actualizado: 2026-09-24 13:36:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3528**  ($193,313,892 en total)
+- Apuestas registradas: **3529**  ($193,343,892 en total)
 - Resueltas: **3488** — 2119 ganadas / 1369 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 453
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Feromont | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | New York Mets vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $88,940 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chicago White Sox vs. Kansas City Royals | Kansas City Royals | 2.27 (44¢) | $35,992 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago White Sox vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | wr0ngw4yb3tt0r | Washington Nationals vs. Detroit Tigers | Washington Nationals | 2.56 (39¢) | $119,532 | +$186,960 | ✅ Ganada |
 | Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 2 Winner | LGD Gaming | 1.56 (64¢) | $41,489 | +$23,337 | ✅ Ganada |
 | Donkey14 | Washington Nationals vs. Detroit Tigers | Detroit Tigers | 1.64 (61¢) | $31,282 | -$31,282 | ❌ Perdida |
-| Diabolical-Prize | Dota 2: LGD Gaming vs MOUZ - Game 1 Winner | LGD Gaming | 1.37 (73¢) | $25,742 | +$9,521 | ✅ Ganada |
