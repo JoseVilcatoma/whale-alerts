@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 10:54:23 (hora de Perú)
+Actualizado: 2026-09-24 10:56:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3520**  ($192,559,439 en total)
+- Apuestas registradas: **3520**  ($192,771,749 en total)
 - Resueltas: **3484** — 2116 ganadas / 1368 perdidas (**61%** de acierto)
 - Pendientes: 19
 - Apostadores distintos: 453
@@ -48,9 +48,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | ethanaz | 20 | 4 | 0 | 83% | $1,711,749 | +$3,544 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
+| SmartPredictOrNot | 0 | 2 | 3 | ⚠️ 0% (2) | $1,659,728 | -$659,284 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| SmartPredictOrNot | 0 | 2 | 3 | ⚠️ 0% (2) | $1,447,418 | -$659,284 |
 | SDTrading | 21 | 26 | 1 | 45% | $1,420,108 | -$245,129 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.59 (63¢) | $179,700 | — | ⏳ Pendiente |
+| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.59 (63¢) | $392,010 | — | ⏳ Pendiente |
 | Ne8om | Will Norway win on 2026-09-24? | No | 2.63 (38¢) | $25,223 | — | ⏳ Pendiente |
 | CongoleseBorat | Will Norway win on 2026-09-24? | No | 2.70 (37¢) | $27,593 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $53,964 | — | ⏳ Pendiente |
