@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 16:29:32 (hora de Perú)
+Actualizado: 2026-09-24 16:31:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3533**  ($193,704,293 en total)
-- Resueltas: **3495** — 2124 ganadas / 1371 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **3496** — 2124 ganadas / 1372 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 453
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,338,466** sobre $190,706,060 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$7,706** sobre $344,300 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$3,427,406** sobre $190,795,001 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$7,806** sobre $344,400 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 35 | 20 | 0 | 64% | $2,251,276 | -$440,954 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| BrotherObama | 22 | 24 | 2 | 48% | $2,150,502 | +$27,552 |
+| BrotherObama | 22 | 25 | 1 | 47% | $2,150,502 | -$61,388 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | ripley86alien | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $131,860 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | Yes | 1.67 (60¢) | $144,000 | — | ⏳ Pendiente |
 | Feromont | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $30,000 | — | ⏳ Pendiente |
-| BrotherObama | New York Mets vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $88,940 | — | ⏳ Pendiente |
+| BrotherObama | New York Mets vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $88,940 | -$88,940 | ❌ Perdida |
 | Sassy-Bucket | Chicago White Sox vs. Kansas City Royals | Kansas City Royals | 2.27 (44¢) | $35,992 | -$35,992 | ❌ Perdida |
 | pleaseplease123 | Chicago White Sox vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Phantom vs Iberian Soul (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs | Iberian Soul | 1.96 (51¢) | $35,700 | +$34,300 | ✅ Ganada |
