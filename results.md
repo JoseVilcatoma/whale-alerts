@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 21:20:18 (hora de Perú)
+Actualizado: 2026-09-23 21:22:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3494**  ($190,525,953 en total)
-- Resueltas: **3465** — 2100 ganadas / 1365 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **3466** — 2101 ganadas / 1365 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,747,335** sobre $189,329,727 apostados (ROI **-2.0%**)
-- Copiando $100 fijo en cada una: **-$8,684** sobre $341,500 (ROI **-2.5%**)
+- **Resultado de los apostadores: -$3,728,882** sobre $189,374,904 apostados (ROI **-2.0%**)
+- Copiando $100 fijo en cada una: **-$8,643** sobre $341,600 (ROI **-2.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Athletics | Los Angeles Angels | 1.82 (55¢) | $41,948 | — | ⏳ Pendiente |
 | nigiri99 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $27,012 | +$22,100 | ✅ Ganada |
 | HMLSF | Los Angeles Angels vs. Athletics | Athletics | 2.17 (46¢) | $25,877 | — | ⏳ Pendiente |
-| Donkey14 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $45,177 | — | ⏳ Pendiente |
+| Donkey14 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $45,177 | +$18,452 | ✅ Ganada |
 | HMLSF | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox | 1.79 (56¢) | $27,858 | +$21,888 | ✅ Ganada |
 | dsasdaas | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $90,315 | — | ⏳ Pendiente |
 | mooseborzoi | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $25,181 | — | ⏳ Pendiente |
