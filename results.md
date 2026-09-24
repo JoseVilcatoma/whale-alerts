@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-23 21:12:03 (hora de Perú)
+Actualizado: 2026-09-23 21:14:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3494**  ($190,525,953 en total)
-- Resueltas: **3464** — 2099 ganadas / 1365 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **3465** — 2100 ganadas / 1365 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 451
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,769,223** sobre $189,301,869 apostados (ROI **-2.0%**)
-- Copiando $100 fijo en cada una: **-$8,763** sobre $341,400 (ROI **-2.6%**)
+- **Resultado de los apostadores: -$3,747,335** sobre $189,329,727 apostados (ROI **-2.0%**)
+- Copiando $100 fijo en cada una: **-$8,684** sobre $341,500 (ROI **-2.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | Talvez10 | 11 | 10 | 0 | 52% | $1,046,960 | +$193,981 |
 | ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 18 | 9 | 2 | 67% | $994,145 | +$120,549 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 19 | 9 | 1 | 68% | $994,145 | +$142,438 |
 | maz26 | 8 | 6 | 0 | 57% | $950,222 | -$162,214 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 451 en total)_
 | nigiri99 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $27,012 | +$22,100 | ✅ Ganada |
 | HMLSF | Los Angeles Angels vs. Athletics | Athletics | 2.17 (46¢) | $25,877 | — | ⏳ Pendiente |
 | Donkey14 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $45,177 | — | ⏳ Pendiente |
-| HMLSF | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox | 1.79 (56¢) | $27,858 | — | ⏳ Pendiente |
+| HMLSF | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox | 1.79 (56¢) | $27,858 | +$21,888 | ✅ Ganada |
 | dsasdaas | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $90,315 | — | ⏳ Pendiente |
 | mooseborzoi | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $25,181 | — | ⏳ Pendiente |
 | EsportsAI | Minnesota Twins vs. San Francisco Giants | San Francisco Giants | 2.38 (42¢) | $33,742 | -$33,742 | ❌ Perdida |
