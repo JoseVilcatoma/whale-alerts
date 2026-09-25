@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 23:05:27 (hora de Perú)
+Actualizado: 2026-09-24 23:07:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3574**  ($195,503,327 en total)
+- Apuestas registradas: **3575**  ($195,549,327 en total)
 - Resueltas: **3549** — 2152 ganadas / 1397 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 459
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 57 | 39 | 0 | 59% | $5,261,517 | -$285,651 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
-| Diabolical-Prize | 40 | 37 | 1 | 52% | $3,891,844 | -$276,432 |
+| Diabolical-Prize | 40 | 37 | 2 | 52% | $3,937,843 | -$276,432 |
 | Sassy-Bucket | 34 | 38 | 0 | 47% | $3,509,742 | -$550,411 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs | Sinners | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
 | FlamePyro | Falcons vs. Packers | Falcons | 1.06 (94¢) | $86,480 | +$5,520 | ✅ Ganada |
 | FlamePyro | Falcons vs. Packers | Falcons | 1.10 (91¢) | $27,267 | +$2,697 | ✅ Ganada |
 | cosmicxbt | Falcons vs. Packers | Falcons | 1.09 (92¢) | $90,907 | +$7,905 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | CongoleseBorat | Will Norway win on 2026-09-24? | No | 2.70 (37¢) | $27,593 | -$27,593 | ❌ Perdida |
 | FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $53,964 | +$33,075 | ✅ Ganada |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $247,353 | +$151,604 | ✅ Ganada |
-| ArturitoFilito | Will Norway win on 2026-09-24? | No | 2.56 (39¢) | $30,333 | +$778 | 💰 Vendida antes |
