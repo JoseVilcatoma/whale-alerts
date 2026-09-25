@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 22:38:46 (hora de Perú)
+Actualizado: 2026-09-24 22:40:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3574**  ($195,503,327 en total)
-- Resueltas: **3523** — 2137 ganadas / 1386 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **3546** — 2149 ganadas / 1397 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 459
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,903,101** sobre $193,263,278 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$8,176** sobre $347,000 (ROI **-2.4%**)
+- **Resultado de los apostadores: -$3,138,728** sobre $194,394,774 apostados (ROI **-1.6%**)
+- Copiando $100 fijo en cada una: **-$8,468** sobre $349,300 (ROI **-2.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,20 +24,20 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 132 | 6 | 66% | $26,166,280 | +$831,629 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 134 | 4 | 66% | $26,166,280 | +$743,821 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 57 | 37 | 2 | 61% | $5,261,517 | -$83,423 |
+| wr0ngw4yb3tt0r | 57 | 39 | 0 | 59% | $5,261,517 | -$285,651 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 40 | 37 | 1 | 52% | $3,891,844 | -$276,432 |
 | Sassy-Bucket | 32 | 38 | 2 | 46% | $3,509,742 | -$605,957 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| ferrariChampions2026 | 36 | 20 | 4 | 64% | $2,408,850 | -$423,177 |
+| ferrariChampions2026 | 37 | 23 | 0 | 62% | $2,408,850 | -$515,986 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | BrotherObama | 22 | 25 | 2 | 47% | $2,251,234 | -$61,388 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| ethanaz | 20 | 4 | 2 | 83% | $1,786,874 | +$3,544 |
+| ethanaz | 21 | 5 | 0 | 81% | $1,786,874 | +$1,613 |
 | SmartPredictOrNot | 4 | 2 | 0 | ⚠️ 67% (6) | $1,784,240 | +$43,506 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | ndb1 | 12 | 7 | 1 | 63% | $1,042,233 | +$215,076 |
-| maz26 | 8 | 6 | 1 | 57% | $999,822 | -$162,214 |
+| maz26 | 9 | 6 | 0 | 60% | $999,822 | -$56,814 |
 
 _(mostrando los 40 de mayor monto, de 459 en total)_
 
@@ -71,39 +71,39 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| FlamePyro | Falcons vs. Packers | Falcons | 1.06 (94¢) | $86,480 | — | ⏳ Pendiente |
-| FlamePyro | Falcons vs. Packers | Falcons | 1.10 (91¢) | $27,267 | — | ⏳ Pendiente |
-| cosmicxbt | Falcons vs. Packers | Falcons | 1.09 (92¢) | $90,907 | — | ⏳ Pendiente |
+| FlamePyro | Falcons vs. Packers | Falcons | 1.06 (94¢) | $86,480 | +$5,520 | ✅ Ganada |
+| FlamePyro | Falcons vs. Packers | Falcons | 1.10 (91¢) | $27,267 | +$2,697 | ✅ Ganada |
+| cosmicxbt | Falcons vs. Packers | Falcons | 1.09 (92¢) | $90,907 | +$7,905 | ✅ Ganada |
 | Kev69 | Liberty vs. Coastal Carolina | Liberty | 1.39 (72¢) | $26,000 | — | ⏳ Pendiente |
-| takeormake | Falcons vs. Packers | Falcons | 1.27 (79¢) | $37,677 | — | ⏳ Pendiente |
-| insidiousidiot | Falcons vs. Packers | Falcons | 1.25 (80¢) | $27,000 | — | ⏳ Pendiente |
+| takeormake | Falcons vs. Packers | Falcons | 1.27 (79¢) | $37,677 | +$10,016 | ✅ Ganada |
+| insidiousidiot | Falcons vs. Packers | Falcons | 1.25 (80¢) | $27,000 | +$6,750 | ✅ Ganada |
 | kkookkoo | Los Angeles Angels vs. Seattle Mariners | Seattle Mariners | 1.25 (80¢) | $31,908 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Falcons vs. Packers | Falcons | 1.37 (73¢) | $27,813 | — | ⏳ Pendiente |
-| ethanaz | Spread: Falcons (-3.5) | Packers | 1.79 (56¢) | $43,651 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Falcons vs. Packers | Falcons | 1.37 (73¢) | $27,813 | +$10,287 | ✅ Ganada |
+| ethanaz | Spread: Falcons (-3.5) | Packers | 1.79 (56¢) | $43,651 | -$43,651 | ❌ Perdida |
 | Kev69 | Houston Astros vs. Athletics | Houston Astros | 1.18 (85¢) | $26,430 | -$622 | 💰 Vendida antes |
-| Eztennis | Falcons vs. Packers | Falcons | 1.43 (70¢) | $37,341 | — | ⏳ Pendiente |
+| Eztennis | Falcons vs. Packers | Falcons | 1.43 (70¢) | $37,341 | +$16,003 | ✅ Ganada |
 | KaneAnalytics | Falcons vs. Packers: O/U 45.5 | Over 45.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Falcons vs. Packers | Falcons | 1.45 (69¢) | $36,445 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Falcons (-4.5) | Packers | 2.00 (50¢) | $51,433 | — | ⏳ Pendiente |
-| yoyoyoyoer | Falcons vs. Packers | Falcons | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
-| ethanaz | Falcons vs. Packers | Falcons | 2.33 (43¢) | $31,473 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.69 (59¢) | $160,260 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.67 (60¢) | $41,968 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Falcons vs. Packers | Falcons | 1.45 (69¢) | $36,445 | +$16,374 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Falcons (-4.5) | Packers | 2.00 (50¢) | $51,433 | -$51,433 | ❌ Perdida |
+| yoyoyoyoer | Falcons vs. Packers | Falcons | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
+| ethanaz | Falcons vs. Packers | Falcons | 2.33 (43¢) | $31,473 | +$41,720 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.69 (59¢) | $160,260 | -$160,260 | ❌ Perdida |
+| wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.67 (60¢) | $41,968 | -$41,968 | ❌ Perdida |
 | ndb1 | Falcons vs. Packers: O/U 49.5 | Under 49.5 | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Packers | Packers | 1.22 (82¢) | $36,375 | — | ⏳ Pendiente |
-| jaytee158 | Falcons vs. Packers | Packers | 1.20 (83¢) | $57,576 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Falcons vs. Packers | Packers | 1.30 (77¢) | $38,431 | — | ⏳ Pendiente |
-| Runemup | Falcons vs. Packers | Packers | 1.45 (69¢) | $35,294 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Packers | Packers | 1.22 (82¢) | $36,375 | -$36,375 | ❌ Perdida |
+| jaytee158 | Falcons vs. Packers | Packers | 1.20 (83¢) | $57,576 | -$57,576 | ❌ Perdida |
+| ferrariChampions2026 | Falcons vs. Packers | Packers | 1.30 (77¢) | $38,431 | -$38,431 | ❌ Perdida |
+| Runemup | Falcons vs. Packers | Packers | 1.45 (69¢) | $35,294 | -$35,294 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-4.5) | Packers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $27,200 | — | ⏳ Pendiente |
-| mooseborzoi | Falcons vs. Packers | Falcons | 3.12 (32¢) | $57,982 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $37,465 | — | ⏳ Pendiente |
-| maz26 | Falcons vs. Packers | Falcons | 3.12 (32¢) | $49,600 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $27,200 | -$27,200 | ❌ Perdida |
+| mooseborzoi | Falcons vs. Packers | Falcons | 3.12 (32¢) | $57,982 | +$123,213 | ✅ Ganada |
+| ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $37,465 | -$37,465 | ❌ Perdida |
+| maz26 | Falcons vs. Packers | Falcons | 3.12 (32¢) | $49,600 | +$105,400 | ✅ Ganada |
 | Diabolical-Prize | Falcons vs. Packers: O/U 43.5 | Over 43.5 | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-5.5) | Packers | 2.08 (48¢) | $48,254 | -$48,254 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-4.5) | Falcons | 2.08 (48¢) | $36,493 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Packers (-4.5) | Falcons | 2.04 (49¢) | $100,732 | — | ⏳ Pendiente |
-| 0x2f98…bd4c | Falcons vs. Packers | Packers | 1.45 (69¢) | $65,057 | — | ⏳ Pendiente |
+| 0x2f98…bd4c | Falcons vs. Packers | Packers | 1.45 (69¢) | $65,057 | -$65,057 | ❌ Perdida |
 | Sassy-Bucket | Liberty vs. Coastal Carolina | Liberty | 1.79 (56¢) | $35,818 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.67 (60¢) | $26,665 | +$17,777 | ✅ Ganada |
 | kkookkoo | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $33,948 | -$33,948 | ❌ Perdida |
