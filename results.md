@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 23:11:37 (hora de Perú)
+Actualizado: 2026-09-24 23:13:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3575**  ($195,549,327 en total)
+- Apuestas registradas: **3576**  ($195,575,727 en total)
 - Resueltas: **3549** — 2152 ganadas / 1397 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 459
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: Heroic vs fnatic (BO3) - Stake Pulse Beat II Playoffs | Heroic | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs | Sinners | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
 | FlamePyro | Falcons vs. Packers | Falcons | 1.06 (94¢) | $86,480 | +$5,520 | ✅ Ganada |
 | FlamePyro | Falcons vs. Packers | Falcons | 1.10 (91¢) | $27,267 | +$2,697 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | Ne8om | Will Norway win on 2026-09-24? | No | 2.63 (38¢) | $25,223 | -$25,223 | ❌ Perdida |
 | CongoleseBorat | Will Norway win on 2026-09-24? | No | 2.70 (37¢) | $27,593 | -$27,593 | ❌ Perdida |
 | FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $53,964 | +$33,075 | ✅ Ganada |
-| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $247,353 | +$151,604 | ✅ Ganada |
