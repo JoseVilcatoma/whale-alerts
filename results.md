@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 21:27:28 (hora de Perú)
+Actualizado: 2026-09-24 21:29:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3572**  ($195,389,581 en total)
+- Apuestas registradas: **3573**  ($195,416,847 en total)
 - Resueltas: **3522** — 2137 ganadas / 1385 perdidas (**61%** de acierto)
-- Pendientes: 33
-- Apostadores distintos: 458
+- Pendientes: 34
+- Apostadores distintos: 459
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 12 | 7 | 1 | 63% | $1,042,233 | +$215,076 |
 | maz26 | 8 | 6 | 1 | 57% | $999,822 | -$162,214 |
 
-_(mostrando los 40 de mayor monto, de 458 en total)_
+_(mostrando los 40 de mayor monto, de 459 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FlamePyro | Falcons vs. Packers | Falcons | 1.10 (91¢) | $27,267 | — | ⏳ Pendiente |
 | cosmicxbt | Falcons vs. Packers | Falcons | 1.09 (92¢) | $90,907 | — | ⏳ Pendiente |
 | Kev69 | Liberty vs. Coastal Carolina | Liberty | 1.39 (72¢) | $26,000 | — | ⏳ Pendiente |
 | takeormake | Falcons vs. Packers | Falcons | 1.27 (79¢) | $37,677 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 458 en total)_
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.61 (62¢) | $247,353 | +$151,604 | ✅ Ganada |
 | ArturitoFilito | Will Norway win on 2026-09-24? | No | 2.56 (39¢) | $30,333 | +$778 | 💰 Vendida antes |
 | Ne8om | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $26,765 | -$26,765 | ❌ Perdida |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $41,000 | -$2,000 | 💰 Vendida antes |
