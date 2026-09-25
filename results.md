@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 19:47:24 (hora de Perú)
+Actualizado: 2026-09-24 19:49:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3554**  ($194,597,599 en total)
+- Apuestas registradas: **3555**  ($194,633,974 en total)
 - Resueltas: **3513** — 2134 ganadas / 1379 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 454
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 258 | 131 | 6 | 66% | $26,078,472 | +$846,750 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 258 | 131 | 7 | 66% | $26,114,847 | +$846,750 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 72 | 1 | 54% | $6,474,895 | -$224,693 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Packers | Packers | 1.22 (82¢) | $36,375 | — | ⏳ Pendiente |
 | jaytee158 | Falcons vs. Packers | Packers | 1.20 (83¢) | $57,576 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.30 (77¢) | $38,431 | — | ⏳ Pendiente |
 | Runemup | Falcons vs. Packers | Packers | 1.45 (69¢) | $35,294 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $62,565 | +$32,231 | ✅ Ganada |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $86,290 | +$44,453 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.47 (68¢) | $85,548 | +$40,258 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Betclic Apogee Esports vs ASTRAL (BO3) - Stake Pulse Beat II Group D | Betclic Apogee Esports | 1.49 (67¢) | $26,200 | +$12,904 | ✅ Ganada |
