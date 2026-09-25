@@ -53549,5 +53549,20 @@
     "status": "pending",
     "ultimo_fill": 1790301149,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7269,
+    "timestamp": 1790301325,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "nfl-atl-gb-2026-09-25-total-45pt5",
+    "title": "Falcons vs. Packers: O/U 45.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1790301325,
+    "fills": 1
   }
 ]
