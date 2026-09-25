@@ -54163,8 +54163,10 @@
     "side": "BUY",
     "usd": 25198.8,
     "odds_at_bet": 69,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1790370908,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": 365.2,
+    "precio_salida": 70
   }
 ]

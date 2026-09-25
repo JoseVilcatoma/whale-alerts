@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 16:17:36 (hora de Perú)
+Actualizado: 2026-09-25 16:19:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3603**  ($196,805,143 en total)
-- Resueltas: **3567** — 2163 ganadas / 1404 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **3568** — 2164 ganadas / 1404 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 462
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,861,037** sobre $195,267,039 apostados (ROI **-1.5%**)
+- **Resultado de los apostadores: -$2,860,672** sobre $195,292,238 apostados (ROI **-1.5%**)
 - Copiando $100 fijo en cada una: **-$7,962** sobre $351,400 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| FlamePyro | Army vs. Temple | Army | 1.45 (69¢) | $25,199 | — | ⏳ Pendiente |
+| FlamePyro | Army vs. Temple | Army | 1.45 (69¢) | $25,199 | +$365 | 💰 Vendida antes |
 | ethanaz | Army vs. Temple | Army | 1.28 (78¢) | $36,587 | — | ⏳ Pendiente |
 | KaneAnalytics | Army vs. Temple | Army | 1.33 (75¢) | $27,014 | — | ⏳ Pendiente |
 | Talvez10 | Cincinnati Reds vs. Toronto Blue Jays | Toronto Blue Jays | 1.69 (59¢) | $45,112 | — | ⏳ Pendiente |
