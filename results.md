@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 17:49:55 (hora de Perú)
+Actualizado: 2026-09-25 17:51:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3608**  ($196,946,345 en total)
-- Resueltas: **3573** — 2168 ganadas / 1405 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **3574** — 2168 ganadas / 1406 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,837,605** sobre $195,469,002 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$7,886** sobre $351,900 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,869,605** sobre $195,501,002 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$7,986** sobre $352,000 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | bloodmaster | Games Total: O/U 4.5 | Under 4.5 | 1.28 (78¢) | $26,847 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Army (-3.5) | Temple | 2.08 (48¢) | $82,194 | — | ⏳ Pendiente |
 | phonesculptor | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $171,000 | — | ⏳ Pendiente |
-| HectorHuang | Spread: France (-1.5) | France | 1.96 (51¢) | $32,000 | — | ⏳ Pendiente |
+| HectorHuang | Spread: France (-1.5) | France | 1.96 (51¢) | $32,000 | -$32,000 | ❌ Perdida |
 | jaytee158 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
 | useruserlol | Will Sweden win on 2026-09-25? | Yes | 1.49 (67¢) | $26,373 | +$12,990 | ✅ Ganada |
 | Momo63 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $57,038 | — | ⏳ Pendiente |
