@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 21:13:03 (hora de Perú)
+Actualizado: 2026-09-24 21:15:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3567**  ($195,176,088 en total)
+- Apuestas registradas: **3570**  ($195,272,674 en total)
 - Resueltas: **3517** — 2136 ganadas / 1381 perdidas (**61%** de acierto)
-- Pendientes: 33
-- Apostadores distintos: 456
+- Pendientes: 36
+- Apostadores distintos: 458
 
 ### Balance
 
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 12 | 7 | 1 | 63% | $1,042,233 | +$215,076 |
 | maz26 | 8 | 6 | 1 | 57% | $999,822 | -$162,214 |
 
-_(mostrando los 40 de mayor monto, de 456 en total)_
+_(mostrando los 40 de mayor monto, de 458 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| takeormake | Falcons vs. Packers | Falcons | 1.27 (79¢) | $37,677 | — | ⏳ Pendiente |
+| insidiousidiot | Falcons vs. Packers | Falcons | 1.25 (80¢) | $27,000 | — | ⏳ Pendiente |
+| kkookkoo | Los Angeles Angels vs. Seattle Mariners | Seattle Mariners | 1.25 (80¢) | $31,908 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Falcons vs. Packers | Falcons | 1.37 (73¢) | $27,813 | — | ⏳ Pendiente |
 | ethanaz | Spread: Falcons (-3.5) | Packers | 1.79 (56¢) | $43,651 | — | ⏳ Pendiente |
 | Kev69 | Houston Astros vs. Athletics | Houston Astros | 1.18 (85¢) | $26,430 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 456 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $41,000 | -$2,000 | 💰 Vendida antes |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.69 (59¢) | $361,080 | +$250,920 | ✅ Ganada |
 | kkookkoo | St. Louis Cardinals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $38,957 | +$25,971 | ✅ Ganada |
-| acorp | Dota 2: Team Yandex vs 1win (BO3) - PGL Wallachia Playoffs | Team Yandex | 1.23 (81¢) | $47,536 | +$11,150 | ✅ Ganada |
-| Talvez10 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $71,546 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
