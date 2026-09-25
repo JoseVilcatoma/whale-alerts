@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 02:52:26 (hora de Perú)
+Actualizado: 2026-09-25 02:54:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3579**  ($195,676,247 en total)
+- Apuestas registradas: **3580**  ($195,715,872 en total)
 - Resueltas: **3557** — 2157 ganadas / 1400 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 459
 
 ### Balance
@@ -55,10 +55,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
+| Lakersfan111 | 13 | 14 | 2 | 48% | $1,247,463 | -$191,223 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
-| Lakersfan111 | 13 | 14 | 1 | 48% | $1,207,838 | -$191,223 |
 | Talvez10 | 12 | 11 | 0 | 52% | $1,171,306 | +$179,635 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FORTNITEMASTER888 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | NRG | 1.92 (52¢) | $39,624 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | Nongshim RedForce | 2.08 (48¢) | $27,599 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs | Sinners | 2.13 (47¢) | $31,000 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | NRG | 2.00 (50¢) | $41,921 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $49,746 | +$27,982 | ✅ Ganada |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $124,512 | +$70,038 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | No | 2.78 (36¢) | $109,022 | -$109,022 | ❌ Perdida |
-| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.59 (63¢) | $392,010 | +$230,228 | ✅ Ganada |
