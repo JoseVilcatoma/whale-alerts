@@ -53339,5 +53339,35 @@
     "status": "pending",
     "ultimo_fill": 1790294966,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7251,
+    "timestamp": 1790295187,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nfl-atl-gb-2026-09-25",
+    "title": "Falcons vs. Packers",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 57982.4352,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "ultimo_fill": 1790295187,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7252,
+    "timestamp": 1790295200,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-atl-gb-2026-09-25",
+    "title": "Falcons vs. Packers",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 27200.000000000004,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1790295200,
+    "fills": 1
   }
 ]

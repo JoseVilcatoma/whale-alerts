@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 19:12:06 (hora de Perú)
+Actualizado: 2026-09-24 19:14:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3548**  ($194,355,615 en total)
+- Apuestas registradas: **3550**  ($194,440,798 en total)
 - Resueltas: **3513** — 2134 ganadas / 1379 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 20
 - Apostadores distintos: 454
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| ferrariChampions2026 | 35 | 20 | 2 | 64% | $2,315,406 | -$440,954 |
+| ferrariChampions2026 | 35 | 20 | 3 | 64% | $2,342,606 | -$440,954 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | BrotherObama | 22 | 25 | 2 | 47% | $2,251,234 | -$61,388 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $27,200 | — | ⏳ Pendiente |
+| mooseborzoi | Falcons vs. Packers | Falcons | 3.12 (32¢) | $57,982 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $37,465 | — | ⏳ Pendiente |
 | maz26 | Falcons vs. Packers | Falcons | 3.12 (32¢) | $49,600 | — | ⏳ Pendiente |
 | Diabolical-Prize | Falcons vs. Packers: O/U 43.5 | Over 43.5 | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Texas Rangers | New York Mets | 1.96 (51¢) | $26,344 | +$25,311 | ✅ Ganada |
 | nuttypoo | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.20 (83¢) | $34,237 | +$7,012 | ✅ Ganada |
 | pleaseplease123 | Houston Astros vs. Seattle Mariners | Seattle Mariners | 1.82 (55¢) | $88,426 | +$72,349 | ✅ Ganada |
-| pleaseplease123 | Tampa Bay Rays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $28,338 | +$26,158 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Athletics | Los Angeles Angels | 1.82 (55¢) | $41,948 | -$41,948 | ❌ Perdida |
