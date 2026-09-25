@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 20:39:29 (hora de Perú)
+Actualizado: 2026-09-24 20:41:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3559**  ($194,900,675 en total)
+- Apuestas registradas: **3560**  ($194,927,475 en total)
 - Resueltas: **3517** — 2136 ganadas / 1381 perdidas (**61%** de acierto)
-- Pendientes: 25
-- Apostadores distintos: 454
+- Pendientes: 26
+- Apostadores distintos: 455
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 12 | 7 | 1 | 63% | $1,042,233 | +$215,076 |
 | maz26 | 8 | 6 | 1 | 57% | $999,822 | -$162,214 |
 
-_(mostrando los 40 de mayor monto, de 454 en total)_
+_(mostrando los 40 de mayor monto, de 455 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yoyoyoyoer | Falcons vs. Packers | Falcons | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | ethanaz | Falcons vs. Packers | Falcons | 2.33 (43¢) | $31,473 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.69 (59¢) | $160,260 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.67 (60¢) | $41,968 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 | LuckyWin | Dota 2: Daxak Team vs gpk Team - Game 2 Winner | gpk Team | 1.06 (94¢) | $44,284 | +$2,827 | ✅ Ganada |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $101,263 | +$76,392 | ✅ Ganada |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.54 (65¢) | $35,973 | +$19,370 | ✅ Ganada |
-| FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | TYLOO | 2.86 (35¢) | $107,190 | -$107,190 | ❌ Perdida |
