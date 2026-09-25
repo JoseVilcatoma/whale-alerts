@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 15:29:19 (hora de Perú)
+Actualizado: 2026-09-25 15:31:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3601**  ($196,743,357 en total)
+- Apuestas registradas: **3602**  ($196,779,944 en total)
 - Resueltas: **3566** — 2162 ganadas / 1404 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 462
 
 ### Balance
@@ -44,8 +44,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
+| ethanaz | 21 | 5 | 1 | 81% | $1,823,461 | +$1,613 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| ethanaz | 21 | 5 | 0 | 81% | $1,786,874 | +$1,613 |
 | SmartPredictOrNot | 4 | 2 | 0 | ⚠️ 67% (6) | $1,784,240 | +$43,506 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Army vs. Temple | Army | 1.28 (78¢) | $36,587 | — | ⏳ Pendiente |
 | KaneAnalytics | Army vs. Temple | Army | 1.33 (75¢) | $27,014 | — | ⏳ Pendiente |
 | Talvez10 | Cincinnati Reds vs. Toronto Blue Jays | Toronto Blue Jays | 1.69 (59¢) | $45,112 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Navy (-6.5) | UAB | 2.00 (50¢) | $33,729 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-5.5) | Packers | 2.08 (48¢) | $48,254 | -$48,254 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-4.5) | Falcons | 2.08 (48¢) | $36,493 | +$39,534 | ✅ Ganada |
 | BrotherObama | Spread: Packers (-4.5) | Falcons | 2.04 (49¢) | $100,732 | +$104,844 | ✅ Ganada |
-| 0x2f98…bd4c | Falcons vs. Packers | Packers | 1.45 (69¢) | $65,057 | -$65,057 | ❌ Perdida |
