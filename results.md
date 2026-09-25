@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 00:21:35 (hora de Perú)
+Actualizado: 2026-09-25 00:23:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3577**  ($195,617,648 en total)
-- Resueltas: **3552** — 2154 ganadas / 1398 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **3554** — 2155 ganadas / 1399 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 459
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,028,479** sobre $194,596,877 apostados (ROI **-1.6%**)
-- Copiando $100 fijo en cada una: **-$8,168** sobre $349,900 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$3,031,979** sobre $194,660,377 apostados (ROI **-1.6%**)
+- Copiando $100 fijo en cada una: **-$8,186** sobre $350,100 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 12 | 11 | 0 | 52% | $1,171,306 | +$179,635 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
-| ndb1 | 12 | 7 | 1 | 63% | $1,042,233 | +$215,076 |
+| ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
 | maz26 | 9 | 6 | 0 | 60% | $999,822 | -$56,814 |
 
 _(mostrando los 40 de mayor monto, de 459 en total)_
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | ethanaz | Falcons vs. Packers | Falcons | 2.33 (43¢) | $31,473 | +$41,720 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.69 (59¢) | $160,260 | -$160,260 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.67 (60¢) | $41,968 | -$41,968 | ❌ Perdida |
-| ndb1 | Falcons vs. Packers: O/U 49.5 | Under 49.5 | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
+| ndb1 | Falcons vs. Packers: O/U 49.5 | Under 49.5 | 1.82 (55¢) | $33,000 | +$27,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Packers | Packers | 1.22 (82¢) | $36,375 | -$36,375 | ❌ Perdida |
 | jaytee158 | Falcons vs. Packers | Packers | 1.20 (83¢) | $57,576 | -$57,576 | ❌ Perdida |
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.30 (77¢) | $38,431 | -$38,431 | ❌ Perdida |
@@ -111,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.67 (60¢) | $26,665 | +$17,777 | ✅ Ganada |
 | kkookkoo | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $33,948 | -$33,948 | ❌ Perdida |
 | xifutloong3 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.82 (55¢) | $38,500 | -$38,500 | ❌ Perdida |
-| monkeymashingkeyboard | San Diego Padres vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | San Diego Padres vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $30,500 | -$30,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians | 2.17 (46¢) | $28,224 | +$33,133 | ✅ Ganada |
 | Sassy-Bucket | Liberty vs. Coastal Carolina | Liberty | 1.79 (56¢) | $34,877 | +$27,403 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.85 (54¢) | $37,189 | -$37,189 | ❌ Perdida |
