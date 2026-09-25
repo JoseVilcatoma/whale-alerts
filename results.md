@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 12:51:49 (hora de Perú)
+Actualizado: 2026-09-25 12:53:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3591**  ($196,215,050 en total)
-- Resueltas: **3565** — 2162 ganadas / 1403 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **3566** — 2162 ganadas / 1404 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 460
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,856,137** sobre $195,132,139 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$7,899** sobre $351,200 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,896,137** sobre $195,172,139 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$7,999** sobre $351,300 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 460 en total)_
 | Ne8om | Will Sweden win on 2026-09-25? | Yes | 1.52 (66¢) | $33,338 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | M80 | 1.41 (71¢) | $53,219 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: magic vs EYEBALLERS (BO3) - 1win Private Club #1 Playoffs | magic | 1.37 (73¢) | $94,900 | — | ⏳ Pendiente |
-| tg-stakeqiu | Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs | Xtreme Gaming | 1.69 (59¢) | $40,000 | — | ⏳ Pendiente |
+| tg-stakeqiu | Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs | Xtreme Gaming | 1.69 (59¢) | $40,000 | -$40,000 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
 | WanderingWombat | Clemson vs. California | California | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Türkiye vs. France: O/U 3.5 | Under 3.5 | 2.08 (48¢) | $38,795 | — | ⏳ Pendiente |
