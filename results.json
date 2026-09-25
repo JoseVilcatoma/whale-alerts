@@ -53484,10 +53484,25 @@
     "title": "Falcons vs. Packers",
     "outcome": "Packers",
     "side": "BUY",
-    "usd": 82992.996,
-    "odds_at_bet": 60,
+    "usd": 160259.9875,
+    "odds_at_bet": 59,
     "status": "pending",
-    "ultimo_fill": 1790298976,
+    "ultimo_fill": 1790299147,
+    "fills": 3
+  },
+  {
+    "telegram_msg_id": 7261,
+    "timestamp": 1790299065,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-atl-gb-2026-09-25",
+    "title": "Falcons vs. Packers",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 31473.2179,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1790299065,
     "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 20:17:06 (hora de Perú)
+Actualizado: 2026-09-24 20:19:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3558**  ($194,791,935 en total)
+- Apuestas registradas: **3559**  ($194,900,675 en total)
 - Resueltas: **3513** — 2134 ganadas / 1379 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 454
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 57 | 36 | 3 | 61% | $5,184,250 | -$56,623 |
+| wr0ngw4yb3tt0r | 57 | 36 | 3 | 61% | $5,261,517 | -$56,623 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 40 | 37 | 1 | 52% | $3,891,844 | -$276,432 |
 | Sassy-Bucket | 32 | 38 | 2 | 46% | $3,509,742 | -$605,957 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | SmartPredictOrNot | 4 | 2 | 0 | ⚠️ 67% (6) | $1,784,240 | +$43,506 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| ethanaz | 20 | 4 | 0 | 83% | $1,711,749 | +$3,544 |
+| ethanaz | 20 | 4 | 1 | 83% | $1,743,222 | +$3,544 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.67 (60¢) | $82,993 | — | ⏳ Pendiente |
+| ethanaz | Falcons vs. Packers | Falcons | 2.33 (43¢) | $31,473 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.69 (59¢) | $160,260 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.67 (60¢) | $41,968 | — | ⏳ Pendiente |
 | ndb1 | Falcons vs. Packers: O/U 49.5 | Under 49.5 | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Packers | Packers | 1.22 (82¢) | $36,375 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $101,263 | +$76,392 | ✅ Ganada |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.54 (65¢) | $35,973 | +$19,370 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | TYLOO | 2.86 (35¢) | $107,190 | -$107,190 | ❌ Perdida |
-| Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $56,100 | +$28,900 | ✅ Ganada |
