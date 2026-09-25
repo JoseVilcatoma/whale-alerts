@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 11:27:36 (hora de Perú)
+Actualizado: 2026-09-25 11:29:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3589**  ($196,109,094 en total)
+- Apuestas registradas: **3590**  ($196,177,116 en total)
 - Resueltas: **3564** — 2162 ganadas / 1402 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 460
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 57 | 39 | 0 | 59% | $5,261,517 | -$285,651 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
-| Diabolical-Prize | 42 | 37 | 1 | 53% | $4,032,743 | -$170,432 |
+| Diabolical-Prize | 42 | 37 | 2 | 53% | $4,100,766 | -$170,432 |
 | Sassy-Bucket | 34 | 38 | 0 | 47% | $3,509,742 | -$550,411 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 460 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner | Xtreme Gaming | 1.85 (54¢) | $68,022 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: DENDELE CS vs Voca (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | DENDELE CS | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
 | Ne8om | Will Sweden win on 2026-09-25? | Yes | 1.52 (66¢) | $33,338 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | M80 | 1.41 (71¢) | $53,219 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 460 en total)_
 | Talvez10 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 2.08 (48¢) | $52,800 | +$57,200 | ✅ Ganada |
 | Sassy-Bucket | Arizona Diamondbacks vs. Colorado Rockies: O/U 9.5 | Under 9.5 | 2.17 (46¢) | $31,741 | -$31,741 | ❌ Perdida |
 | ripley86alien | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $131,860 | -$131,860 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | Yes | 1.67 (60¢) | $144,000 | +$96,000 | ✅ Ganada |
