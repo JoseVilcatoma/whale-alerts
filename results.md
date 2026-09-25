@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 10:30:00 (hora de Perú)
+Actualizado: 2026-09-25 10:32:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3587**  ($196,049,856 en total)
+- Apuestas registradas: **3589**  ($196,109,094 en total)
 - Resueltas: **3564** — 2162 ganadas / 1402 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 8
 - Apostadores distintos: 460
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 460 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| StasPanda | Counter-Strike: DENDELE CS vs Voca (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | DENDELE CS | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
+| Ne8om | Will Sweden win on 2026-09-25? | Yes | 1.52 (66¢) | $33,338 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | M80 | 1.41 (71¢) | $53,219 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: magic vs EYEBALLERS (BO3) - 1win Private Club #1 Playoffs | magic | 1.37 (73¢) | $94,900 | — | ⏳ Pendiente |
 | tg-stakeqiu | Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs | Xtreme Gaming | 1.69 (59¢) | $40,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 460 en total)_
 | Sassy-Bucket | Arizona Diamondbacks vs. Colorado Rockies: O/U 9.5 | Under 9.5 | 2.17 (46¢) | $31,741 | -$31,741 | ❌ Perdida |
 | ripley86alien | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $131,860 | -$131,860 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | Yes | 1.67 (60¢) | $144,000 | +$96,000 | ✅ Ganada |
-| Feromont | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $30,000 | -$30,000 | ❌ Perdida |
-| BrotherObama | New York Mets vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $88,940 | -$88,940 | ❌ Perdida |
