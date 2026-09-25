@@ -53866,5 +53866,20 @@
     "status": "pending",
     "ultimo_fill": 1790345358,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7335,
+    "timestamp": 1790346242,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-gl1-k271-2026-09-25",
+    "title": "Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "usd": 50400.00000000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1790346242,
+    "fills": 1
   }
 ]
