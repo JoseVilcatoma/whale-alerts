@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 16:36:29 (hora de Perú)
+Actualizado: 2026-09-25 16:38:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3604**  ($196,836,561 en total)
+- Apuestas registradas: **3605**  ($196,868,651 en total)
 - Resueltas: **3568** — 2164 ganadas / 1404 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 462
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 136 | 3 | 66% | $26,193,879 | +$690,722 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 136 | 4 | 66% | $26,225,970 | +$690,722 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FlyQuest vs Shopify Rebellion (BO5) - LCS Playoffs | FlyQuest | 1.25 (80¢) | $32,091 | — | ⏳ Pendiente |
 | FlamePyro | Army vs. Temple | Temple | 2.63 (38¢) | $31,418 | — | ⏳ Pendiente |
 | FlamePyro | Army vs. Temple | Army | 1.45 (69¢) | $25,199 | +$365 | 💰 Vendida antes |
 | ethanaz | Army vs. Temple | Army | 1.28 (78¢) | $36,587 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $37,465 | -$37,465 | ❌ Perdida |
 | maz26 | Falcons vs. Packers | Falcons | 3.12 (32¢) | $49,600 | +$105,400 | ✅ Ganada |
 | Diabolical-Prize | Falcons vs. Packers: O/U 43.5 | Over 43.5 | 2.08 (48¢) | $48,000 | +$52,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-5.5) | Packers | 2.08 (48¢) | $48,254 | -$48,254 | ❌ Perdida |
