@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 19:53:45 (hora de Perú)
+Actualizado: 2026-09-24 19:55:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3555**  ($194,633,974 en total)
+- Apuestas registradas: **3556**  ($194,666,974 en total)
 - Resueltas: **3513** — 2134 ganadas / 1379 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 454
 
 ### Balance
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 13 | 14 | 0 | 48% | $1,165,917 | -$191,223 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
-| ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
+| ndb1 | 12 | 7 | 1 | 63% | $1,042,233 | +$215,076 |
 | maz26 | 8 | 6 | 1 | 57% | $999,822 | -$162,214 |
 
 _(mostrando los 40 de mayor monto, de 454 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Falcons vs. Packers: O/U 49.5 | Under 49.5 | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Packers | Packers | 1.22 (82¢) | $36,375 | — | ⏳ Pendiente |
 | jaytee158 | Falcons vs. Packers | Packers | 1.20 (83¢) | $57,576 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.30 (77¢) | $38,431 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $56,100 | +$28,900 | ✅ Ganada |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $62,565 | +$32,231 | ✅ Ganada |
 | Diabolical-Prize | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.52 (66¢) | $86,290 | +$44,453 | ✅ Ganada |
-| FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.47 (68¢) | $85,548 | +$40,258 | ✅ Ganada |
