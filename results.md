@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 19:34:44 (hora de Perú)
+Actualizado: 2026-09-24 19:36:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3552**  ($194,501,592 en total)
+- Apuestas registradas: **3553**  ($194,540,023 en total)
 - Resueltas: **3513** — 2134 ganadas / 1379 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 454
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| ferrariChampions2026 | 35 | 20 | 3 | 64% | $2,342,606 | -$440,954 |
+| ferrariChampions2026 | 35 | 20 | 4 | 64% | $2,381,037 | -$440,954 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | BrotherObama | 22 | 25 | 2 | 47% | $2,251,234 | -$61,388 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Falcons vs. Packers | Packers | 1.30 (77¢) | $38,431 | — | ⏳ Pendiente |
 | Runemup | Falcons vs. Packers | Packers | 1.45 (69¢) | $35,294 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-4.5) | Packers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $27,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 | FORTNITEMASTER888 | Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C | G2 Esports | 1.47 (68¢) | $85,548 | +$40,258 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Betclic Apogee Esports vs ASTRAL (BO3) - Stake Pulse Beat II Group D | Betclic Apogee Esports | 1.49 (67¢) | $26,200 | +$12,904 | ✅ Ganada |
 | Donkey14 | Spread: Los Angeles Angels (-1.5) | Athletics | 1.79 (56¢) | $25,455 | +$20,000 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Texas Rangers | New York Mets | 1.96 (51¢) | $26,344 | +$25,311 | ✅ Ganada |

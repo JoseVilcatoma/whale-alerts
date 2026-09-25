@@ -53399,5 +53399,20 @@
     "status": "pending",
     "ultimo_fill": 1790295885,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7255,
+    "timestamp": 1790296575,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-atl-gb-2026-09-25",
+    "title": "Falcons vs. Packers",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 38431.1697,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1790296575,
+    "fills": 1
   }
 ]
