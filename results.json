@@ -53923,7 +53923,7 @@
     "side": "BUY",
     "usd": 53219.4842,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790346345,
     "fills": 1
   },
@@ -53953,7 +53953,7 @@
     "side": "BUY",
     "usd": 25900.0,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790350307,
     "fills": 1
   },
@@ -54212,6 +54212,21 @@
     "odds_at_bet": 46,
     "status": "pending",
     "ultimo_fill": 1790373935,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7365,
+    "timestamp": 1790375017,
+    "username": "gawtaiuwty028wa3r",
+    "wallet": "0x4bce17a7db66ea50154ac523304039dde7368c3e",
+    "slug": "cfb-navy-uab-2026-09-25-spread-away-6pt5",
+    "title": "Spread: Navy (-6.5)",
+    "outcome": "Navy",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1790375017,
     "fills": 1
   }
 ]

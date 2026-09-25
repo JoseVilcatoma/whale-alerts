@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 17:22:49 (hora de Perú)
+Actualizado: 2026-09-25 17:24:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3606**  ($196,893,824 en total)
-- Resueltas: **3568** — 2164 ganadas / 1404 perdidas (**61%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 462
+- Apuestas registradas: **3607**  ($196,919,324 en total)
+- Resueltas: **3570** — 2166 ganadas / 1404 perdidas (**61%** de acierto)
+- Pendientes: 20
+- Apostadores distintos: 463
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,860,672** sobre $195,292,238 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$7,962** sobre $351,400 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,829,835** sobre $195,371,357 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,886** sobre $351,600 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | phonesculptor | 12 | 2 | 1 | 86% | $1,044,288 | -$7,205 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
 
-_(mostrando los 40 de mayor monto, de 462 en total)_
+_(mostrando los 40 de mayor monto, de 463 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gawtaiuwty028wa3r | Spread: Navy (-6.5) | Navy | 2.00 (50¢) | $25,500 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Clemson vs. California: O/U 50.5 | Under 50.5 | 2.17 (46¢) | $25,173 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FlyQuest vs Shopify Rebellion (BO5) - LCS Playoffs | FlyQuest | 1.25 (80¢) | $32,091 | — | ⏳ Pendiente |
 | FlamePyro | Army vs. Temple | Temple | 2.63 (38¢) | $31,418 | — | ⏳ Pendiente |
@@ -88,9 +89,9 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 | Momo63 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $57,038 | — | ⏳ Pendiente |
 | kindar | Will Italy win on 2026-09-25? | Yes | 2.27 (44¢) | $37,934 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner | Xtreme Gaming | 1.85 (54¢) | $68,022 | -$68,022 | ❌ Perdida |
-| StasPanda | Counter-Strike: DENDELE CS vs Voca (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | DENDELE CS | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
+| StasPanda | Counter-Strike: DENDELE CS vs Voca (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | DENDELE CS | 1.35 (74¢) | $25,900 | +$9,100 | ✅ Ganada |
 | Ne8om | Will Sweden win on 2026-09-25? | Yes | 1.52 (66¢) | $33,338 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | M80 | 1.41 (71¢) | $53,219 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | M80 | 1.41 (71¢) | $53,219 | +$21,738 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: magic vs EYEBALLERS (BO3) - 1win Private Club #1 Playoffs | magic | 1.37 (73¢) | $94,900 | +$35,100 | ✅ Ganada |
 | tg-stakeqiu | Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs | Xtreme Gaming | 1.69 (59¢) | $40,000 | -$40,000 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $27,200 | -$27,200 | ❌ Perdida |
 | mooseborzoi | Falcons vs. Packers | Falcons | 3.12 (32¢) | $57,982 | +$123,213 | ✅ Ganada |
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $37,465 | -$37,465 | ❌ Perdida |
-| maz26 | Falcons vs. Packers | Falcons | 3.12 (32¢) | $49,600 | +$105,400 | ✅ Ganada |
