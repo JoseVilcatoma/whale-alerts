@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 18:24:20 (hora de Perú)
+Actualizado: 2026-09-25 18:26:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3608**  ($196,946,345 en total)
-- Resueltas: **3578** — 2172 ganadas / 1406 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **3579** — 2173 ganadas / 1406 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,799,239** sobre $195,794,834 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,844** sobre $352,400 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,759,639** sobre $195,845,234 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,765** sobre $352,500 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | lllllllIlll | Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | M80 | 1.41 (71¢) | $53,219 | +$21,738 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: magic vs EYEBALLERS (BO3) - 1win Private Club #1 Playoffs | magic | 1.37 (73¢) | $94,900 | +$35,100 | ✅ Ganada |
 | tg-stakeqiu | Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs | Xtreme Gaming | 1.69 (59¢) | $40,000 | -$40,000 | ❌ Perdida |
-| lllllllIlll | Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.79 (56¢) | $50,400 | +$39,600 | ✅ Ganada |
 | WanderingWombat | Clemson vs. California | California | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Türkiye vs. France: O/U 3.5 | Under 3.5 | 2.08 (48¢) | $38,795 | +$42,028 | ✅ Ganada |
 | mimi121 | Dota 2: GamerLegion vs 1win (BO3) - PGL Wallachia Playoffs | 1win | 1.45 (69¢) | $28,470 | -$28,470 | ❌ Perdida |
