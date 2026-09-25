@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 15:25:07 (hora de Perú)
+Actualizado: 2026-09-25 15:27:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3600**  ($196,716,343 en total)
+- Apuestas registradas: **3601**  ($196,743,357 en total)
 - Resueltas: **3566** — 2162 ganadas / 1404 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 462
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Army vs. Temple | Army | 1.33 (75¢) | $27,014 | — | ⏳ Pendiente |
 | Talvez10 | Cincinnati Reds vs. Toronto Blue Jays | Toronto Blue Jays | 1.69 (59¢) | $45,112 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Navy (-6.5) | UAB | 2.00 (50¢) | $33,729 | — | ⏳ Pendiente |
 | bloodmaster | Games Total: O/U 4.5 | Under 4.5 | 1.28 (78¢) | $26,847 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-4.5) | Falcons | 2.08 (48¢) | $36,493 | +$39,534 | ✅ Ganada |
 | BrotherObama | Spread: Packers (-4.5) | Falcons | 2.04 (49¢) | $100,732 | +$104,844 | ✅ Ganada |
 | 0x2f98…bd4c | Falcons vs. Packers | Packers | 1.45 (69¢) | $65,057 | -$65,057 | ❌ Perdida |
-| Sassy-Bucket | Liberty vs. Coastal Carolina | Liberty | 1.79 (56¢) | $35,818 | +$28,143 | ✅ Ganada |

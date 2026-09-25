@@ -54121,5 +54121,20 @@
     "status": "pending",
     "ultimo_fill": 1790366776,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7357,
+    "timestamp": 1790367928,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "cfb-army-templ-2026-09-25",
+    "title": "Army vs. Temple",
+    "outcome": "Army",
+    "side": "BUY",
+    "usd": 27013.7475,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1790367928,
+    "fills": 1
   }
 ]
