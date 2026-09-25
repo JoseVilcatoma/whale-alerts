@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 00:05:13 (hora de Perú)
+Actualizado: 2026-09-25 00:07:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3576**  ($195,575,727 en total)
-- Resueltas: **3550** — 2152 ganadas / 1398 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **3552** — 2154 ganadas / 1398 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 459
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,104,979** sobre $194,523,377 apostados (ROI **-1.6%**)
-- Copiando $100 fijo en cada una: **-$8,372** sobre $349,700 (ROI **-2.4%**)
+- **Resultado de los apostadores: -$3,028,479** sobre $194,596,877 apostados (ROI **-1.6%**)
+- Copiando $100 fijo en cada una: **-$8,168** sobre $349,900 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 57 | 39 | 0 | 59% | $5,261,517 | -$285,651 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
-| Diabolical-Prize | 40 | 37 | 2 | 52% | $3,937,843 | -$276,432 |
+| Diabolical-Prize | 41 | 37 | 1 | 53% | $3,937,843 | -$224,432 |
 | Sassy-Bucket | 34 | 38 | 0 | 47% | $3,509,742 | -$550,411 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | ethanaz | Spread: Falcons (-3.5) | Packers | 1.79 (56¢) | $43,651 | -$43,651 | ❌ Perdida |
 | Kev69 | Houston Astros vs. Athletics | Houston Astros | 1.18 (85¢) | $26,430 | -$622 | 💰 Vendida antes |
 | Eztennis | Falcons vs. Packers | Falcons | 1.43 (70¢) | $37,341 | +$16,003 | ✅ Ganada |
-| KaneAnalytics | Falcons vs. Packers: O/U 45.5 | Over 45.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
+| KaneAnalytics | Falcons vs. Packers: O/U 45.5 | Over 45.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | TAIWANNUMBERONE | Falcons vs. Packers | Falcons | 1.45 (69¢) | $36,445 | +$16,374 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Falcons (-4.5) | Packers | 2.00 (50¢) | $51,433 | -$51,433 | ❌ Perdida |
 | yoyoyoyoer | Falcons vs. Packers | Falcons | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | mooseborzoi | Falcons vs. Packers | Falcons | 3.12 (32¢) | $57,982 | +$123,213 | ✅ Ganada |
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $37,465 | -$37,465 | ❌ Perdida |
 | maz26 | Falcons vs. Packers | Falcons | 3.12 (32¢) | $49,600 | +$105,400 | ✅ Ganada |
-| Diabolical-Prize | Falcons vs. Packers: O/U 43.5 | Over 43.5 | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
+| Diabolical-Prize | Falcons vs. Packers: O/U 43.5 | Over 43.5 | 2.08 (48¢) | $48,000 | +$52,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-5.5) | Packers | 2.08 (48¢) | $48,254 | -$48,254 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-4.5) | Falcons | 2.08 (48¢) | $36,493 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Packers (-4.5) | Falcons | 2.04 (49¢) | $100,732 | — | ⏳ Pendiente |
