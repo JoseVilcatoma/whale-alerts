@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 09:57:08 (hora de Perú)
+Actualizado: 2026-09-25 09:59:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3587**  ($196,049,856 en total)
-- Resueltas: **3563** — 2162 ganadas / 1401 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **3564** — 2162 ganadas / 1402 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 460
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,759,645** sobre $195,035,647 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,699** sobre $351,000 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,788,115** sobre $195,064,117 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,799** sobre $351,100 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 460 en total)_
 | lllllllIlll | Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
 | WanderingWombat | Clemson vs. California | California | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Türkiye vs. France: O/U 3.5 | Under 3.5 | 2.08 (48¢) | $38,795 | — | ⏳ Pendiente |
-| mimi121 | Dota 2: GamerLegion vs 1win (BO3) - PGL Wallachia Playoffs | 1win | 1.45 (69¢) | $28,470 | — | ⏳ Pendiente |
+| mimi121 | Dota 2: GamerLegion vs 1win (BO3) - PGL Wallachia Playoffs | 1win | 1.45 (69¢) | $28,470 | -$28,470 | ❌ Perdida |
 | FORTNITEMASTER888 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | NRG | 1.92 (52¢) | $39,624 | +$36,576 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | Nongshim RedForce | 2.08 (48¢) | $27,599 | -$27,599 | ❌ Perdida |
 | BrotherObama | Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs | Sinners | 2.13 (47¢) | $31,000 | +$34,957 | ✅ Ganada |
