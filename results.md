@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 07:50:41 (hora de Perú)
+Actualizado: 2026-09-25 07:52:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3581**  ($195,744,342 en total)
+- Apuestas registradas: **3582**  ($195,783,136 en total)
 - Resueltas: **3561** — 2160 ganadas / 1401 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 459
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x076d…8d4c | Türkiye vs. France: O/U 3.5 | Under 3.5 | 2.08 (48¢) | $38,795 | — | ⏳ Pendiente |
 | mimi121 | Dota 2: GamerLegion vs 1win (BO3) - PGL Wallachia Playoffs | 1win | 1.45 (69¢) | $28,470 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | NRG | 1.92 (52¢) | $39,624 | +$36,576 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | Nongshim RedForce | 2.08 (48¢) | $27,599 | -$27,599 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | lllllllIlll | Counter-Strike: Phantom vs Iberian Soul (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs | Iberian Soul | 1.96 (51¢) | $35,700 | +$34,300 | ✅ Ganada |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $71,231 | +$40,067 | ✅ Ganada |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $49,746 | +$27,982 | ✅ Ganada |
-| SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $124,512 | +$70,038 | ✅ Ganada |
