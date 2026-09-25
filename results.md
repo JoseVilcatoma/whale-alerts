@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 21:21:19 (hora de Perú)
+Actualizado: 2026-09-24 21:23:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3570**  ($195,272,674 en total)
-- Resueltas: **3517** — 2136 ganadas / 1381 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **3518** — 2136 ganadas / 1382 perdidas (**61%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 458
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,739,709** sobre $193,029,635 apostados (ROI **-1.4%**)
+- **Resultado de los apostadores: -$2,740,331** sobre $193,056,065 apostados (ROI **-1.4%**)
 - Copiando $100 fijo en cada una: **-$7,843** sobre $346,500 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 458 en total)_
 | kkookkoo | Los Angeles Angels vs. Seattle Mariners | Seattle Mariners | 1.25 (80¢) | $31,908 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Falcons vs. Packers | Falcons | 1.37 (73¢) | $27,813 | — | ⏳ Pendiente |
 | ethanaz | Spread: Falcons (-3.5) | Packers | 1.79 (56¢) | $43,651 | — | ⏳ Pendiente |
-| Kev69 | Houston Astros vs. Athletics | Houston Astros | 1.18 (85¢) | $26,430 | — | ⏳ Pendiente |
+| Kev69 | Houston Astros vs. Athletics | Houston Astros | 1.18 (85¢) | $26,430 | -$622 | 💰 Vendida antes |
 | Eztennis | Falcons vs. Packers | Falcons | 1.43 (70¢) | $37,341 | — | ⏳ Pendiente |
 | KaneAnalytics | Falcons vs. Packers: O/U 45.5 | Over 45.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Falcons vs. Packers | Falcons | 1.45 (69¢) | $36,445 | — | ⏳ Pendiente |
