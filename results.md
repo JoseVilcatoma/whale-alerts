@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 00:23:39 (hora de Perú)
+Actualizado: 2026-09-25 00:25:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3577**  ($195,617,648 en total)
-- Resueltas: **3554** — 2155 ganadas / 1399 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **3557** — 2157 ganadas / 1400 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 459
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,031,979** sobre $194,660,377 apostados (ROI **-1.6%**)
-- Copiando $100 fijo en cada una: **-$8,186** sobre $350,100 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,913,101** sobre $194,823,102 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$8,073** sobre $350,400 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 134 | 4 | 66% | $26,166,280 | +$743,821 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 135 | 3 | 66% | $26,166,280 | +$718,321 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 37 | 23 | 0 | 62% | $2,408,850 | -$515,986 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| BrotherObama | 22 | 25 | 2 | 47% | $2,251,234 | -$61,388 |
+| BrotherObama | 23 | 25 | 1 | 48% | $2,251,234 | +$43,455 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
@@ -97,15 +97,15 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | jaytee158 | Falcons vs. Packers | Packers | 1.20 (83¢) | $57,576 | -$57,576 | ❌ Perdida |
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.30 (77¢) | $38,431 | -$38,431 | ❌ Perdida |
 | Runemup | Falcons vs. Packers | Packers | 1.45 (69¢) | $35,294 | -$35,294 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-4.5) | Packers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-4.5) | Packers | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $27,200 | -$27,200 | ❌ Perdida |
 | mooseborzoi | Falcons vs. Packers | Falcons | 3.12 (32¢) | $57,982 | +$123,213 | ✅ Ganada |
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $37,465 | -$37,465 | ❌ Perdida |
 | maz26 | Falcons vs. Packers | Falcons | 3.12 (32¢) | $49,600 | +$105,400 | ✅ Ganada |
 | Diabolical-Prize | Falcons vs. Packers: O/U 43.5 | Over 43.5 | 2.08 (48¢) | $48,000 | +$52,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-5.5) | Packers | 2.08 (48¢) | $48,254 | -$48,254 | ❌ Perdida |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-4.5) | Falcons | 2.08 (48¢) | $36,493 | — | ⏳ Pendiente |
-| BrotherObama | Spread: Packers (-4.5) | Falcons | 2.04 (49¢) | $100,732 | — | ⏳ Pendiente |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-4.5) | Falcons | 2.08 (48¢) | $36,493 | +$39,534 | ✅ Ganada |
+| BrotherObama | Spread: Packers (-4.5) | Falcons | 2.04 (49¢) | $100,732 | +$104,844 | ✅ Ganada |
 | 0x2f98…bd4c | Falcons vs. Packers | Packers | 1.45 (69¢) | $65,057 | -$65,057 | ❌ Perdida |
 | Sassy-Bucket | Liberty vs. Coastal Carolina | Liberty | 1.79 (56¢) | $35,818 | +$28,143 | ✅ Ganada |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.67 (60¢) | $26,665 | +$17,777 | ✅ Ganada |
