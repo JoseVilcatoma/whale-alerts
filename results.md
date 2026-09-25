@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 12:35:12 (hora de Perú)
+Actualizado: 2026-09-25 12:37:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3590**  ($196,177,116 en total)
+- Apuestas registradas: **3591**  ($196,215,050 en total)
 - Resueltas: **3564** — 2162 ganadas / 1402 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 460
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 460 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kindar | Will Italy win on 2026-09-25? | Yes | 2.27 (44¢) | $37,934 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner | Xtreme Gaming | 1.85 (54¢) | $68,022 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: DENDELE CS vs Voca (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | DENDELE CS | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
 | Ne8om | Will Sweden win on 2026-09-25? | Yes | 1.52 (66¢) | $33,338 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 460 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.85 (54¢) | $37,189 | -$37,189 | ❌ Perdida |
 | Talvez10 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 2.08 (48¢) | $52,800 | +$57,200 | ✅ Ganada |
 | Sassy-Bucket | Arizona Diamondbacks vs. Colorado Rockies: O/U 9.5 | Under 9.5 | 2.17 (46¢) | $31,741 | -$31,741 | ❌ Perdida |
-| ripley86alien | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $131,860 | -$131,860 | ❌ Perdida |
