@@ -53249,5 +53249,35 @@
     "status": "pending",
     "ultimo_fill": 1790294629,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7245,
+    "timestamp": 1790294673,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "nfl-atl-gb-2026-09-25-spread-home-4pt5",
+    "title": "Spread: Packers (-4.5)",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 100732.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1790294673,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1790294759,
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+    "slug": "nfl-atl-gb-2026-09-25-spread-home-4pt5",
+    "title": "Spread: Packers (-4.5)",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 36492.9984,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1790294759,
+    "fills": 1
   }
 ]

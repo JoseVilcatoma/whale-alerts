@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 19:03:56 (hora de Perú)
+Actualizado: 2026-09-24 19:06:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3542**  ($194,035,072 en total)
+- Apuestas registradas: **3544**  ($194,172,297 en total)
 - Resueltas: **3513** — 2134 ganadas / 1379 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 14
 - Apostadores distintos: 454
 
 ### Balance
@@ -39,9 +39,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | ferrariChampions2026 | 35 | 20 | 1 | 64% | $2,277,941 | -$440,954 |
+| BrotherObama | 22 | 25 | 2 | 47% | $2,251,234 | -$61,388 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| BrotherObama | 22 | 25 | 1 | 47% | $2,150,502 | -$61,388 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-4.5) | Falcons | 2.08 (48¢) | $36,493 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Packers (-4.5) | Falcons | 2.04 (49¢) | $100,732 | — | ⏳ Pendiente |
 | 0x2f98…bd4c | Falcons vs. Packers | Packers | 1.45 (69¢) | $65,057 | — | ⏳ Pendiente |
 | Sassy-Bucket | Liberty vs. Coastal Carolina | Liberty | 1.79 (56¢) | $35,818 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.67 (60¢) | $26,665 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 | HMLSF | Los Angeles Angels vs. Athletics | Athletics | 2.17 (46¢) | $25,877 | +$30,377 | ✅ Ganada |
 | Donkey14 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.41 (71¢) | $45,177 | +$18,452 | ✅ Ganada |
 | HMLSF | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox | 1.79 (56¢) | $27,858 | +$21,888 | ✅ Ganada |
-| dsasdaas | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $90,315 | +$60,210 | ✅ Ganada |
-| mooseborzoi | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $25,181 | +$16,787 | ✅ Ganada |
