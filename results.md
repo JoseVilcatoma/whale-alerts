@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 02:11:35 (hora de Perú)
+Actualizado: 2026-09-25 02:13:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3577**  ($195,617,648 en total)
+- Apuestas registradas: **3578**  ($195,648,648 en total)
 - Resueltas: **3557** — 2157 ganadas / 1400 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 459
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 37 | 23 | 0 | 62% | $2,408,850 | -$515,986 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| BrotherObama | 23 | 25 | 1 | 48% | $2,251,234 | +$43,455 |
+| BrotherObama | 23 | 25 | 2 | 48% | $2,282,234 | +$43,455 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs | Sinners | 2.13 (47¢) | $31,000 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | NRG | 2.00 (50¢) | $41,921 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Heroic vs fnatic (BO3) - Stake Pulse Beat II Playoffs | Heroic | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs | Sinners | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | No | 2.78 (36¢) | $109,022 | -$109,022 | ❌ Perdida |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.59 (63¢) | $392,010 | +$230,228 | ✅ Ganada |
 | Ne8om | Will Norway win on 2026-09-24? | No | 2.63 (38¢) | $25,223 | -$25,223 | ❌ Perdida |
-| CongoleseBorat | Will Norway win on 2026-09-24? | No | 2.70 (37¢) | $27,593 | -$27,593 | ❌ Perdida |
