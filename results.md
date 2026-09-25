@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 19:01:52 (hora de Perú)
+Actualizado: 2026-09-24 19:03:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3541**  ($193,970,015 en total)
+- Apuestas registradas: **3542**  ($194,035,072 en total)
 - Resueltas: **3513** — 2134 ganadas / 1379 perdidas (**61%** de acierto)
-- Pendientes: 11
-- Apostadores distintos: 453
+- Pendientes: 12
+- Apostadores distintos: 454
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 20 | 9 | 0 | 69% | $994,145 | +$172,815 |
 
-_(mostrando los 40 de mayor monto, de 453 en total)_
+_(mostrando los 40 de mayor monto, de 454 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2f98…bd4c | Falcons vs. Packers | Packers | 1.45 (69¢) | $65,057 | — | ⏳ Pendiente |
 | Sassy-Bucket | Liberty vs. Coastal Carolina | Liberty | 1.79 (56¢) | $35,818 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.67 (60¢) | $26,665 | — | ⏳ Pendiente |
 | kkookkoo | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $33,948 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 453 en total)_
 | HMLSF | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox | 1.79 (56¢) | $27,858 | +$21,888 | ✅ Ganada |
 | dsasdaas | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $90,315 | +$60,210 | ✅ Ganada |
 | mooseborzoi | Atlanta Dream vs. New York Liberty | Atlanta Dream | 1.67 (60¢) | $25,181 | +$16,787 | ✅ Ganada |
-| EsportsAI | Minnesota Twins vs. San Francisco Giants | San Francisco Giants | 2.38 (42¢) | $33,742 | -$33,742 | ❌ Perdida |
