@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 17:41:42 (hora de Perú)
+Actualizado: 2026-09-25 17:43:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3608**  ($196,946,345 en total)
-- Resueltas: **3570** — 2166 ganadas / 1404 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **3571** — 2166 ganadas / 1405 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,829,835** sobre $195,371,357 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,886** sobre $351,600 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,867,768** sobre $195,409,291 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$7,986** sobre $351,700 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | jaytee158 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
 | useruserlol | Will Sweden win on 2026-09-25? | Yes | 1.49 (67¢) | $26,373 | — | ⏳ Pendiente |
 | Momo63 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $57,038 | — | ⏳ Pendiente |
-| kindar | Will Italy win on 2026-09-25? | Yes | 2.27 (44¢) | $37,934 | — | ⏳ Pendiente |
+| kindar | Will Italy win on 2026-09-25? | Yes | 2.27 (44¢) | $37,934 | -$37,934 | ❌ Perdida |
 | Diabolical-Prize | Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner | Xtreme Gaming | 1.85 (54¢) | $68,022 | -$68,022 | ❌ Perdida |
 | StasPanda | Counter-Strike: DENDELE CS vs Voca (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | DENDELE CS | 1.35 (74¢) | $25,900 | +$9,100 | ✅ Ganada |
 | Ne8om | Will Sweden win on 2026-09-25? | Yes | 1.52 (66¢) | $33,338 | — | ⏳ Pendiente |
