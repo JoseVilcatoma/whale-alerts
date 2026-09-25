@@ -53986,5 +53986,20 @@
     "status": "pending",
     "ultimo_fill": 1790357793,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7347,
+    "timestamp": 1790359419,
+    "username": "Momo63",
+    "wallet": "0x09bed1976600971fd9f9db454a9c302c7a559c32",
+    "slug": "unl-tur-fra-2026-09-25-tur",
+    "title": "Will T\u00fcrkiye win on 2026-09-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 57037.869000000006,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1790359419,
+    "fills": 1
   }
 ]
