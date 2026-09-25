@@ -53579,5 +53579,20 @@
     "status": "pending",
     "ultimo_fill": 1790301717,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7271,
+    "timestamp": 1790301802,
+    "username": "Kev69",
+    "wallet": "0x1250846658e2a118930edb02e31f7a7e82258f99",
+    "slug": "mlb-hou-oak-2026-09-24",
+    "title": "Houston Astros vs. Athletics",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 26429.6346,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1790301802,
+    "fills": 1
   }
 ]

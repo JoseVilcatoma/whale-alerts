@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 21:02:39 (hora de Perú)
+Actualizado: 2026-09-24 21:04:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3564**  ($195,078,194 en total)
+- Apuestas registradas: **3565**  ($195,104,624 en total)
 - Resueltas: **3517** — 2136 ganadas / 1381 perdidas (**61%** de acierto)
-- Pendientes: 30
-- Apostadores distintos: 455
+- Pendientes: 31
+- Apostadores distintos: 456
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 12 | 7 | 1 | 63% | $1,042,233 | +$215,076 |
 | maz26 | 8 | 6 | 1 | 57% | $999,822 | -$162,214 |
 
-_(mostrando los 40 de mayor monto, de 455 en total)_
+_(mostrando los 40 de mayor monto, de 456 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kev69 | Houston Astros vs. Athletics | Houston Astros | 1.18 (85¢) | $26,430 | — | ⏳ Pendiente |
 | Eztennis | Falcons vs. Packers | Falcons | 1.43 (70¢) | $37,341 | — | ⏳ Pendiente |
 | KaneAnalytics | Falcons vs. Packers: O/U 45.5 | Over 45.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Falcons vs. Packers | Falcons | 1.45 (69¢) | $36,445 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 455 en total)_
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | SDTrading | Chicago White Sox vs. Kansas City Royals | Chicago White Sox | 1.82 (55¢) | $25,625 | +$20,966 | ✅ Ganada |
 | FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $130,820 | +$98,689 | ✅ Ganada |
-| FORTNITEMASTER888 | Spread: Pittsburgh Pirates (-1.5) | St. Louis Cardinals | 1.64 (61¢) | $42,298 | +$27,043 | ✅ Ganada |
