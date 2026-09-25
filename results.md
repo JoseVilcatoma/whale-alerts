@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 06:47:35 (hora de Perú)
+Actualizado: 2026-09-25 06:49:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3581**  ($195,744,342 en total)
-- Resueltas: **3560** — 2159 ganadas / 1401 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **3561** — 2160 ganadas / 1401 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 459
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,862,202** sobre $194,932,247 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$7,981** sobre $350,700 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,848,602** sobre $194,958,647 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$7,930** sobre $350,800 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | Nongshim RedForce | 2.08 (48¢) | $27,599 | -$27,599 | ❌ Perdida |
 | BrotherObama | Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs | Sinners | 2.13 (47¢) | $31,000 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | NRG | 2.00 (50¢) | $41,921 | +$41,921 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Heroic vs fnatic (BO3) - Stake Pulse Beat II Playoffs | Heroic | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Heroic vs fnatic (BO3) - Stake Pulse Beat II Playoffs | Heroic | 1.52 (66¢) | $26,400 | +$13,600 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs | Sinners | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
 | FlamePyro | Falcons vs. Packers | Falcons | 1.06 (94¢) | $86,480 | +$5,520 | ✅ Ganada |
 | FlamePyro | Falcons vs. Packers | Falcons | 1.10 (91¢) | $27,267 | +$2,697 | ✅ Ganada |
