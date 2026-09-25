@@ -53851,5 +53851,20 @@
     "status": "pending",
     "ultimo_fill": 1790340684,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7334,
+    "timestamp": 1790345358,
+    "username": "WanderingWombat",
+    "wallet": "0x878d54931d8dd4e9ec25611e37ef82b7ae1385a5",
+    "slug": "cfb-clmsn-cah-2026-09-25",
+    "title": "Clemson vs. California",
+    "outcome": "California",
+    "side": "BUY",
+    "usd": 28200.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1790345358,
+    "fills": 1
   }
 ]
