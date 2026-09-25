@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 18:42:44 (hora de Perú)
+Actualizado: 2026-09-25 18:44:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3609**  ($196,976,277 en total)
-- Resueltas: **3580** — 2173 ganadas / 1407 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **3583** — 2175 ganadas / 1408 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,841,833** sobre $195,927,428 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$7,865** sobre $352,600 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,853,927** sobre $196,022,447 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$7,904** sobre $352,900 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
-| ethanaz | 21 | 5 | 1 | 81% | $1,823,461 | +$1,613 |
+| ethanaz | 22 | 5 | 0 | 81% | $1,823,461 | +$11,932 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | SmartPredictOrNot | 4 | 2 | 0 | ⚠️ 67% (6) | $1,784,240 | +$43,506 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -76,10 +76,10 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | gawtaiuwty028wa3r | Spread: Navy (-6.5) | Navy | 2.00 (50¢) | $25,500 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Clemson vs. California: O/U 50.5 | Under 50.5 | 2.17 (46¢) | $25,173 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FlyQuest vs Shopify Rebellion (BO5) - LCS Playoffs | FlyQuest | 1.25 (80¢) | $32,091 | — | ⏳ Pendiente |
-| FlamePyro | Army vs. Temple | Temple | 2.63 (38¢) | $31,418 | — | ⏳ Pendiente |
+| FlamePyro | Army vs. Temple | Temple | 2.63 (38¢) | $31,418 | -$31,418 | ❌ Perdida |
 | FlamePyro | Army vs. Temple | Army | 1.45 (69¢) | $25,199 | +$365 | 💰 Vendida antes |
-| ethanaz | Army vs. Temple | Army | 1.28 (78¢) | $36,587 | — | ⏳ Pendiente |
-| KaneAnalytics | Army vs. Temple | Army | 1.33 (75¢) | $27,014 | — | ⏳ Pendiente |
+| ethanaz | Army vs. Temple | Army | 1.28 (78¢) | $36,587 | +$10,319 | ✅ Ganada |
+| KaneAnalytics | Army vs. Temple | Army | 1.33 (75¢) | $27,014 | +$9,005 | ✅ Ganada |
 | Talvez10 | Cincinnati Reds vs. Toronto Blue Jays | Toronto Blue Jays | 1.69 (59¢) | $45,112 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Navy (-6.5) | UAB | 2.00 (50¢) | $33,729 | — | ⏳ Pendiente |
 | bloodmaster | Games Total: O/U 4.5 | Under 4.5 | 1.28 (78¢) | $26,847 | — | ⏳ Pendiente |
