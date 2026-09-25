@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 13:14:39 (hora de Perú)
+Actualizado: 2026-09-25 13:16:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3593**  ($196,298,461 en total)
+- Apuestas registradas: **3594**  ($196,325,461 en total)
 - Resueltas: **3566** — 2162 ganadas / 1404 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 462
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jaytee158 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
 | useruserlol | Will Sweden win on 2026-09-25? | Yes | 1.49 (67¢) | $26,373 | — | ⏳ Pendiente |
 | Momo63 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $57,038 | — | ⏳ Pendiente |
 | kindar | Will Italy win on 2026-09-25? | Yes | 2.27 (44¢) | $37,934 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 | monkeymashingkeyboard | San Diego Padres vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $30,500 | -$30,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians | 2.17 (46¢) | $28,224 | +$33,133 | ✅ Ganada |
 | Sassy-Bucket | Liberty vs. Coastal Carolina | Liberty | 1.79 (56¢) | $34,877 | +$27,403 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.85 (54¢) | $37,189 | -$37,189 | ❌ Perdida |
