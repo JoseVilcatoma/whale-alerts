@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 22:36:41 (hora de Perú)
+Actualizado: 2026-09-24 22:38:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3574**  ($195,503,327 en total)
-- Resueltas: **3522** — 2137 ganadas / 1385 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **3523** — 2137 ganadas / 1386 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 459
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,854,848** sobre $193,215,024 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$8,076** sobre $346,900 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,903,101** sobre $193,263,278 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$8,176** sobre $347,000 (ROI **-2.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 131 | 7 | 66% | $26,166,280 | +$879,883 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 132 | 6 | 66% | $26,166,280 | +$831,629 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $37,465 | — | ⏳ Pendiente |
 | maz26 | Falcons vs. Packers | Falcons | 3.12 (32¢) | $49,600 | — | ⏳ Pendiente |
 | Diabolical-Prize | Falcons vs. Packers: O/U 43.5 | Over 43.5 | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-5.5) | Packers | 2.08 (48¢) | $48,254 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-5.5) | Packers | 2.08 (48¢) | $48,254 | -$48,254 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-4.5) | Falcons | 2.08 (48¢) | $36,493 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Packers (-4.5) | Falcons | 2.04 (49¢) | $100,732 | — | ⏳ Pendiente |
 | 0x2f98…bd4c | Falcons vs. Packers | Packers | 1.45 (69¢) | $65,057 | — | ⏳ Pendiente |
