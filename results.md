@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 19:08:00 (hora de Perú)
+Actualizado: 2026-09-24 19:10:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3546**  ($194,268,551 en total)
+- Apuestas registradas: **3548**  ($194,355,615 en total)
 - Resueltas: **3513** — 2134 ganadas / 1379 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 18
 - Apostadores distintos: 454
 
 ### Balance
@@ -37,8 +37,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
+| ferrariChampions2026 | 35 | 20 | 2 | 64% | $2,315,406 | -$440,954 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| ferrariChampions2026 | 35 | 20 | 1 | 64% | $2,277,941 | -$440,954 |
 | BrotherObama | 22 | 25 | 2 | 47% | $2,251,234 | -$61,388 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | ndb1 | 12 | 7 | 0 | 63% | $1,009,233 | +$215,076 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 20 | 9 | 0 | 69% | $994,145 | +$172,815 |
+| maz26 | 8 | 6 | 1 | 57% | $999,822 | -$162,214 |
 
 _(mostrando los 40 de mayor monto, de 454 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $37,465 | — | ⏳ Pendiente |
+| maz26 | Falcons vs. Packers | Falcons | 3.12 (32¢) | $49,600 | — | ⏳ Pendiente |
 | Diabolical-Prize | Falcons vs. Packers: O/U 43.5 | Over 43.5 | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-5.5) | Packers | 2.08 (48¢) | $48,254 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-4.5) | Falcons | 2.08 (48¢) | $36,493 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 | pleaseplease123 | Houston Astros vs. Seattle Mariners | Seattle Mariners | 1.82 (55¢) | $88,426 | +$72,349 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $28,338 | +$26,158 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Athletics | Los Angeles Angels | 1.82 (55¢) | $41,948 | -$41,948 | ❌ Perdida |
-| nigiri99 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $27,012 | +$22,100 | ✅ Ganada |
-| HMLSF | Los Angeles Angels vs. Athletics | Athletics | 2.17 (46¢) | $25,877 | +$30,377 | ✅ Ganada |
