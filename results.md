@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 05:31:47 (hora de Perú)
+Actualizado: 2026-09-25 05:33:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3580**  ($195,715,872 en total)
+- Apuestas registradas: **3581**  ($195,744,342 en total)
 - Resueltas: **3557** — 2157 ganadas / 1400 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 459
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mimi121 | Dota 2: GamerLegion vs 1win (BO3) - PGL Wallachia Playoffs | 1win | 1.45 (69¢) | $28,470 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | NRG | 1.92 (52¢) | $39,624 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | Nongshim RedForce | 2.08 (48¢) | $27,599 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs | Sinners | 2.13 (47¢) | $31,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $71,231 | +$40,067 | ✅ Ganada |
 | 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $49,746 | +$27,982 | ✅ Ganada |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.56 (64¢) | $124,512 | +$70,038 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | No | 2.78 (36¢) | $109,022 | -$109,022 | ❌ Perdida |
