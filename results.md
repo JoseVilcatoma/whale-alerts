@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 13:43:48 (hora de Perú)
+Actualizado: 2026-09-25 13:45:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3595**  ($196,357,461 en total)
+- Apuestas registradas: **3596**  ($196,528,461 en total)
 - Resueltas: **3566** — 2162 ganadas / 1404 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 462
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 12 | 11 | 0 | 52% | $1,171,306 | +$179,635 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
+| phonesculptor | 12 | 2 | 1 | 86% | $1,044,288 | -$7,205 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
-| maz26 | 9 | 6 | 0 | 60% | $999,822 | -$56,814 |
 
 _(mostrando los 40 de mayor monto, de 462 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| phonesculptor | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $171,000 | — | ⏳ Pendiente |
 | HectorHuang | Spread: France (-1.5) | France | 1.96 (51¢) | $32,000 | — | ⏳ Pendiente |
 | jaytee158 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
 | useruserlol | Will Sweden win on 2026-09-25? | Yes | 1.49 (67¢) | $26,373 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 | kkookkoo | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $33,948 | -$33,948 | ❌ Perdida |
 | xifutloong3 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.82 (55¢) | $38,500 | -$38,500 | ❌ Perdida |
 | monkeymashingkeyboard | San Diego Padres vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $30,500 | -$30,500 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians | 2.17 (46¢) | $28,224 | +$33,133 | ✅ Ganada |
