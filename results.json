@@ -54168,5 +54168,20 @@
     "fills": 1,
     "profit_usd": 365.2,
     "precio_salida": 70
+  },
+  {
+    "telegram_msg_id": 7362,
+    "timestamp": 1790371898,
+    "username": "FlamePyro",
+    "wallet": "0x613bfbb81d9e5398bff208da4ae848e7a73e823a",
+    "slug": "cfb-army-templ-2026-09-25",
+    "title": "Army vs. Temple",
+    "outcome": "Temple",
+    "side": "BUY",
+    "usd": 31418.02,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1790371898,
+    "fills": 1
   }
 ]
