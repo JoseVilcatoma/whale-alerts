@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 17:45:54 (hora de Perú)
+Actualizado: 2026-09-25 17:47:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3608**  ($196,946,345 en total)
-- Resueltas: **3571** — 2166 ganadas / 1405 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **3573** — 2168 ganadas / 1405 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,867,768** sobre $195,409,291 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$7,986** sobre $351,700 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,837,605** sobre $195,469,002 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$7,886** sobre $351,900 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -86,12 +86,12 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | phonesculptor | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $171,000 | — | ⏳ Pendiente |
 | HectorHuang | Spread: France (-1.5) | France | 1.96 (51¢) | $32,000 | — | ⏳ Pendiente |
 | jaytee158 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
-| useruserlol | Will Sweden win on 2026-09-25? | Yes | 1.49 (67¢) | $26,373 | — | ⏳ Pendiente |
+| useruserlol | Will Sweden win on 2026-09-25? | Yes | 1.49 (67¢) | $26,373 | +$12,990 | ✅ Ganada |
 | Momo63 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $57,038 | — | ⏳ Pendiente |
 | kindar | Will Italy win on 2026-09-25? | Yes | 2.27 (44¢) | $37,934 | -$37,934 | ❌ Perdida |
 | Diabolical-Prize | Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner | Xtreme Gaming | 1.85 (54¢) | $68,022 | -$68,022 | ❌ Perdida |
 | StasPanda | Counter-Strike: DENDELE CS vs Voca (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | DENDELE CS | 1.35 (74¢) | $25,900 | +$9,100 | ✅ Ganada |
-| Ne8om | Will Sweden win on 2026-09-25? | Yes | 1.52 (66¢) | $33,338 | — | ⏳ Pendiente |
+| Ne8om | Will Sweden win on 2026-09-25? | Yes | 1.52 (66¢) | $33,338 | +$17,174 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | M80 | 1.41 (71¢) | $53,219 | +$21,738 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: magic vs EYEBALLERS (BO3) - 1win Private Club #1 Playoffs | magic | 1.37 (73¢) | $94,900 | +$35,100 | ✅ Ganada |
 | tg-stakeqiu | Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs | Xtreme Gaming | 1.69 (59¢) | $40,000 | -$40,000 | ❌ Perdida |
