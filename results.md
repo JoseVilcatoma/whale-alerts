@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 18:40:43 (hora de Perú)
+Actualizado: 2026-09-25 18:42:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3609**  ($196,976,277 en total)
-- Resueltas: **3579** — 2173 ganadas / 1406 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **3580** — 2173 ganadas / 1407 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,759,639** sobre $195,845,234 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,765** sobre $352,500 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,841,833** sobre $195,927,428 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$7,865** sobre $352,600 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 57 | 39 | 2 | 59% | $5,368,884 | -$285,651 |
+| wr0ngw4yb3tt0r | 57 | 40 | 1 | 59% | $5,368,884 | -$367,845 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 43 | 38 | 0 | 53% | $4,100,766 | -$203,354 |
 | Sassy-Bucket | 34 | 38 | 1 | 47% | $3,539,674 | -$550,411 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | Talvez10 | Cincinnati Reds vs. Toronto Blue Jays | Toronto Blue Jays | 1.69 (59¢) | $45,112 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Navy (-6.5) | UAB | 2.00 (50¢) | $33,729 | — | ⏳ Pendiente |
 | bloodmaster | Games Total: O/U 4.5 | Under 4.5 | 1.28 (78¢) | $26,847 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: Army (-3.5) | Temple | 2.08 (48¢) | $82,194 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Spread: Army (-3.5) | Temple | 2.08 (48¢) | $82,194 | -$82,194 | ❌ Perdida |
 | phonesculptor | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $171,000 | +$19,000 | ✅ Ganada |
 | HectorHuang | Spread: France (-1.5) | France | 1.96 (51¢) | $32,000 | -$32,000 | ❌ Perdida |
 | jaytee158 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
