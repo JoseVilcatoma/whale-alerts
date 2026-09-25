@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 20:52:01 (hora de Perú)
+Actualizado: 2026-09-24 20:54:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3561**  ($194,978,908 en total)
+- Apuestas registradas: **3562**  ($195,015,353 en total)
 - Resueltas: **3517** — 2136 ganadas / 1381 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 455
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 455 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Falcons vs. Packers | Falcons | 1.45 (69¢) | $36,445 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Falcons (-4.5) | Packers | 2.00 (50¢) | $51,433 | — | ⏳ Pendiente |
 | yoyoyoyoer | Falcons vs. Packers | Falcons | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | ethanaz | Falcons vs. Packers | Falcons | 2.33 (43¢) | $31,473 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 455 en total)_
 | FORTNITEMASTER888 | Spread: Pittsburgh Pirates (-1.5) | St. Louis Cardinals | 1.64 (61¢) | $42,298 | +$27,043 | ✅ Ganada |
 | sulumos | Will Norway win on 2026-09-24? | No | 2.33 (43¢) | $51,478 | -$51,478 | ❌ Perdida |
 | LuckyWin | Dota 2: Daxak Team vs gpk Team - Game 2 Winner | gpk Team | 1.06 (94¢) | $44,284 | +$2,827 | ✅ Ganada |
-| 0x361b…74fe | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $101,263 | +$76,392 | ✅ Ganada |
