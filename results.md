@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 23:50:47 (hora de Perú)
+Actualizado: 2026-09-24 23:52:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3576**  ($195,575,727 en total)
-- Resueltas: **3549** — 2152 ganadas / 1397 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **3550** — 2152 ganadas / 1398 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 459
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,073,071** sobre $194,491,469 apostados (ROI **-1.6%**)
-- Copiando $100 fijo en cada una: **-$8,272** sobre $349,600 (ROI **-2.4%**)
+- **Resultado de los apostadores: -$3,104,979** sobre $194,523,377 apostados (ROI **-1.6%**)
+- Copiando $100 fijo en cada una: **-$8,372** sobre $349,700 (ROI **-2.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 459 en total)_
 | Kev69 | Liberty vs. Coastal Carolina | Liberty | 1.39 (72¢) | $26,000 | +$10,111 | ✅ Ganada |
 | takeormake | Falcons vs. Packers | Falcons | 1.27 (79¢) | $37,677 | +$10,016 | ✅ Ganada |
 | insidiousidiot | Falcons vs. Packers | Falcons | 1.25 (80¢) | $27,000 | +$6,750 | ✅ Ganada |
-| kkookkoo | Los Angeles Angels vs. Seattle Mariners | Seattle Mariners | 1.25 (80¢) | $31,908 | — | ⏳ Pendiente |
+| kkookkoo | Los Angeles Angels vs. Seattle Mariners | Seattle Mariners | 1.25 (80¢) | $31,908 | -$31,908 | ❌ Perdida |
 | ferrariChampions2026 | Falcons vs. Packers | Falcons | 1.37 (73¢) | $27,813 | +$10,287 | ✅ Ganada |
 | ethanaz | Spread: Falcons (-3.5) | Packers | 1.79 (56¢) | $43,651 | -$43,651 | ❌ Perdida |
 | Kev69 | Houston Astros vs. Athletics | Houston Astros | 1.18 (85¢) | $26,430 | -$622 | 💰 Vendida antes |
