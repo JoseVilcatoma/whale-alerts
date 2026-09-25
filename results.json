@@ -52732,7 +52732,7 @@
     "side": "BUY",
     "usd": 26800.0,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790262382,
     "fills": 1
   },
@@ -52747,7 +52747,7 @@
     "side": "BUY",
     "usd": 71546.0232,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790262474,
     "fills": 2
   },
@@ -53201,7 +53201,7 @@
     "side": "BUY",
     "usd": 33947.920000000006,
     "odds_at_bet": 69,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790291469,
     "fills": 1
   },
@@ -53216,7 +53216,7 @@
     "side": "BUY",
     "usd": 26665.398,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790291667,
     "fills": 1
   },
@@ -53670,6 +53670,21 @@
     "odds_at_bet": 79,
     "status": "pending",
     "ultimo_fill": 1790302468,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7282,
+    "timestamp": 1790303067,
+    "username": "Kev69",
+    "wallet": "0x1250846658e2a118930edb02e31f7a7e82258f99",
+    "slug": "cfb-librty-coast-2026-09-24",
+    "title": "Liberty vs. Coastal Carolina",
+    "outcome": "Liberty",
+    "side": "BUY",
+    "usd": 26000.000000000004,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1790303067,
     "fills": 1
   }
 ]

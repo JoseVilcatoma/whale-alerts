@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 21:23:23 (hora de Perú)
+Actualizado: 2026-09-24 21:25:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3570**  ($195,272,674 en total)
-- Resueltas: **3518** — 2136 ganadas / 1382 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Apuestas registradas: **3571**  ($195,298,674 en total)
+- Resueltas: **3522** — 2137 ganadas / 1385 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 458
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,740,331** sobre $193,056,065 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,843** sobre $346,500 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,854,848** sobre $193,215,024 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$8,076** sobre $346,900 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,14 +30,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 57 | 36 | 3 | 61% | $5,261,517 | -$56,623 |
+| wr0ngw4yb3tt0r | 57 | 37 | 2 | 61% | $5,261,517 | -$83,423 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 40 | 37 | 1 | 52% | $3,891,844 | -$276,432 |
 | Sassy-Bucket | 32 | 38 | 2 | 46% | $3,509,742 | -$605,957 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| ferrariChampions2026 | 35 | 20 | 5 | 64% | $2,408,850 | -$440,954 |
+| ferrariChampions2026 | 36 | 20 | 4 | 64% | $2,408,850 | -$423,177 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | BrotherObama | 22 | 25 | 2 | 47% | $2,251,234 | -$61,388 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
-| Talvez10 | 12 | 10 | 1 | 55% | $1,171,306 | +$251,181 |
+| Talvez10 | 12 | 11 | 0 | 52% | $1,171,306 | +$179,635 |
 | Lakersfan111 | 13 | 14 | 0 | 48% | $1,165,917 | -$191,223 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 458 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kev69 | Liberty vs. Coastal Carolina | Liberty | 1.39 (72¢) | $26,000 | — | ⏳ Pendiente |
 | takeormake | Falcons vs. Packers | Falcons | 1.27 (79¢) | $37,677 | — | ⏳ Pendiente |
 | insidiousidiot | Falcons vs. Packers | Falcons | 1.25 (80¢) | $27,000 | — | ⏳ Pendiente |
 | kkookkoo | Los Angeles Angels vs. Seattle Mariners | Seattle Mariners | 1.25 (80¢) | $31,908 | — | ⏳ Pendiente |
@@ -101,8 +102,8 @@ _(mostrando los 40 de mayor monto, de 458 en total)_
 | BrotherObama | Spread: Packers (-4.5) | Falcons | 2.04 (49¢) | $100,732 | — | ⏳ Pendiente |
 | 0x2f98…bd4c | Falcons vs. Packers | Packers | 1.45 (69¢) | $65,057 | — | ⏳ Pendiente |
 | Sassy-Bucket | Liberty vs. Coastal Carolina | Liberty | 1.79 (56¢) | $35,818 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.67 (60¢) | $26,665 | — | ⏳ Pendiente |
-| kkookkoo | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $33,948 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.67 (60¢) | $26,665 | +$17,777 | ✅ Ganada |
+| kkookkoo | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $33,948 | -$33,948 | ❌ Perdida |
 | xifutloong3 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.82 (55¢) | $38,500 | -$38,500 | ❌ Perdida |
 | monkeymashingkeyboard | San Diego Padres vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians | 2.17 (46¢) | $28,224 | +$33,133 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 458 en total)_
 | Ne8om | Will Norway win on 2026-09-24? | No | 2.50 (40¢) | $26,765 | -$26,765 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $41,000 | -$2,000 | 💰 Vendida antes |
 | SmartPredictOrNot | Will Norway win on 2026-09-24? | Yes | 1.69 (59¢) | $361,080 | +$250,920 | ✅ Ganada |
-| kkookkoo | St. Louis Cardinals vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $38,957 | +$25,971 | ✅ Ganada |
