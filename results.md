@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 14:33:21 (hora de Perú)
+Actualizado: 2026-09-25 14:35:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3596**  ($196,528,461 en total)
+- Apuestas registradas: **3597**  ($196,610,655 en total)
 - Resueltas: **3566** — 2162 ganadas / 1404 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 462
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 57 | 39 | 0 | 59% | $5,261,517 | -$285,651 |
+| wr0ngw4yb3tt0r | 57 | 39 | 1 | 59% | $5,343,711 | -$285,651 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 42 | 38 | 1 | 52% | $4,100,766 | -$238,454 |
 | Sassy-Bucket | 34 | 38 | 0 | 47% | $3,509,742 | -$550,411 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Army (-3.5) | Temple | 2.08 (48¢) | $82,194 | — | ⏳ Pendiente |
 | phonesculptor | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $171,000 | — | ⏳ Pendiente |
 | HectorHuang | Spread: France (-1.5) | France | 1.96 (51¢) | $32,000 | — | ⏳ Pendiente |
 | jaytee158 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees | 1.67 (60¢) | $26,665 | +$17,777 | ✅ Ganada |
 | kkookkoo | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $33,948 | -$33,948 | ❌ Perdida |
 | xifutloong3 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.82 (55¢) | $38,500 | -$38,500 | ❌ Perdida |
-| monkeymashingkeyboard | San Diego Padres vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $30,500 | -$30,500 | ❌ Perdida |
