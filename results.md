@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 21:04:47 (hora de Perú)
+Actualizado: 2026-09-24 21:06:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3565**  ($195,104,624 en total)
+- Apuestas registradas: **3566**  ($195,148,275 en total)
 - Resueltas: **3517** — 2136 ganadas / 1381 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 456
 
 ### Balance
@@ -45,9 +45,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
+| ethanaz | 20 | 4 | 2 | 83% | $1,786,874 | +$3,544 |
 | SmartPredictOrNot | 4 | 2 | 0 | ⚠️ 67% (6) | $1,784,240 | +$43,506 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| ethanaz | 20 | 4 | 1 | 83% | $1,743,222 | +$3,544 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 456 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Spread: Falcons (-3.5) | Packers | 1.79 (56¢) | $43,651 | — | ⏳ Pendiente |
 | Kev69 | Houston Astros vs. Athletics | Houston Astros | 1.18 (85¢) | $26,430 | — | ⏳ Pendiente |
 | Eztennis | Falcons vs. Packers | Falcons | 1.43 (70¢) | $37,341 | — | ⏳ Pendiente |
 | KaneAnalytics | Falcons vs. Packers: O/U 45.5 | Over 45.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 456 en total)_
 | Talvez10 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $71,546 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | SDTrading | Chicago White Sox vs. Kansas City Royals | Chicago White Sox | 1.82 (55¢) | $25,625 | +$20,966 | ✅ Ganada |
-| FORTNITEMASTER888 | Will Norway win on 2026-09-24? | Yes | 1.75 (57¢) | $130,820 | +$98,689 | ✅ Ganada |
