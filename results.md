@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-24 20:35:24 (hora de Perú)
+Actualizado: 2026-09-24 20:37:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3559**  ($194,900,675 en total)
-- Resueltas: **3516** — 2135 ganadas / 1381 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **3517** — 2136 ganadas / 1381 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 454
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,772,842** sobre $193,001,411 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,960** sobre $346,400 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,739,709** sobre $193,029,635 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,843** sobre $346,500 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 258 | 131 | 7 | 66% | $26,114,847 | +$846,750 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 131 | 6 | 66% | $26,114,847 | +$879,883 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 454 en total)_
 | kkookkoo | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $33,948 | — | ⏳ Pendiente |
 | xifutloong3 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.82 (55¢) | $38,500 | -$38,500 | ❌ Perdida |
 | monkeymashingkeyboard | San Diego Padres vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians | 2.17 (46¢) | $28,224 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians | 2.17 (46¢) | $28,224 | +$33,133 | ✅ Ganada |
 | Sassy-Bucket | Liberty vs. Coastal Carolina | Liberty | 1.79 (56¢) | $34,877 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Philadelphia Phillies | Philadelphia Phillies | 1.85 (54¢) | $37,189 | -$37,189 | ❌ Perdida |
 | Talvez10 | Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 2.08 (48¢) | $52,800 | +$57,200 | ✅ Ganada |
