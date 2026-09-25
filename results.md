@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 16:13:24 (hora de Perú)
+Actualizado: 2026-09-25 16:15:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3602**  ($196,779,944 en total)
+- Apuestas registradas: **3603**  ($196,805,143 en total)
 - Resueltas: **3567** — 2163 ganadas / 1404 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 462
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FlamePyro | Army vs. Temple | Army | 1.45 (69¢) | $25,199 | — | ⏳ Pendiente |
 | ethanaz | Army vs. Temple | Army | 1.28 (78¢) | $36,587 | — | ⏳ Pendiente |
 | KaneAnalytics | Army vs. Temple | Army | 1.33 (75¢) | $27,014 | — | ⏳ Pendiente |
 | Talvez10 | Cincinnati Reds vs. Toronto Blue Jays | Toronto Blue Jays | 1.69 (59¢) | $45,112 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 462 en total)_
 | Diabolical-Prize | Falcons vs. Packers: O/U 43.5 | Over 43.5 | 2.08 (48¢) | $48,000 | +$52,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-5.5) | Packers | 2.08 (48¢) | $48,254 | -$48,254 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-4.5) | Falcons | 2.08 (48¢) | $36,493 | +$39,534 | ✅ Ganada |
-| BrotherObama | Spread: Packers (-4.5) | Falcons | 2.04 (49¢) | $100,732 | +$104,844 | ✅ Ganada |
