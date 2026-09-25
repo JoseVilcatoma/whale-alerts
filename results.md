@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 18:36:34 (hora de Perú)
+Actualizado: 2026-09-25 18:38:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3608**  ($196,946,345 en total)
+- Apuestas registradas: **3609**  ($196,976,277 en total)
 - Resueltas: **3579** — 2173 ganadas / 1406 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 464
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 57 | 39 | 2 | 59% | $5,368,884 | -$285,651 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 43 | 38 | 0 | 53% | $4,100,766 | -$203,354 |
-| Sassy-Bucket | 34 | 38 | 0 | 47% | $3,509,742 | -$550,411 |
+| Sassy-Bucket | 34 | 38 | 1 | 47% | $3,539,674 | -$550,411 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Colorado Rockies | 3.23 (31¢) | $29,932 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: Indiana (-20.5) | Northwestern | 2.00 (50¢) | $27,021 | — | ⏳ Pendiente |
 | gawtaiuwty028wa3r | Spread: Navy (-6.5) | Navy | 2.00 (50¢) | $25,500 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Clemson vs. California: O/U 50.5 | Under 50.5 | 2.17 (46¢) | $25,173 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | Runemup | Falcons vs. Packers | Packers | 1.45 (69¢) | $35,294 | -$35,294 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Packers (-4.5) | Packers | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | ferrariChampions2026 | Falcons vs. Packers | Packers | 1.47 (68¢) | $27,200 | -$27,200 | ❌ Perdida |
-| mooseborzoi | Falcons vs. Packers | Falcons | 3.12 (32¢) | $57,982 | +$123,213 | ✅ Ganada |
