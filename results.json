@@ -53881,5 +53881,50 @@
     "status": "pending",
     "ultimo_fill": 1790346242,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7336,
+    "timestamp": 1790346305,
+    "username": "tg-stakeqiu",
+    "wallet": "0x0a5392910ef4f236c60d212b4b4cd2c82adb077b",
+    "slug": "dota2-xtreme-lgd-2026-09-25",
+    "title": "Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs",
+    "outcome": "Xtreme Gaming",
+    "side": "BUY",
+    "usd": 40000.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1790346305,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7337,
+    "timestamp": 1790346307,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-mgc-eye-2026-09-25",
+    "title": "Counter-Strike: magic vs EYEBALLERS (BO3) - 1win Private Club #1 Playoffs",
+    "outcome": "magic",
+    "side": "BUY",
+    "usd": 94900.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1790346307,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7338,
+    "timestamp": 1790346345,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-m80-bst-2026-09-25",
+    "title": "Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B",
+    "outcome": "M80",
+    "side": "BUY",
+    "usd": 53219.4842,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1790346345,
+    "fills": 1
   }
 ]

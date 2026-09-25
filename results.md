@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 09:24:18 (hora de Perú)
+Actualizado: 2026-09-25 09:26:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3584**  ($195,861,736 en total)
+- Apuestas registradas: **3587**  ($196,049,856 en total)
 - Resueltas: **3563** — 2162 ganadas / 1401 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 7
 - Apostadores distintos: 460
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 57 | 39 | 0 | 59% | $5,261,517 | -$285,651 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
-| Diabolical-Prize | 42 | 37 | 0 | 53% | $3,937,843 | -$170,432 |
+| Diabolical-Prize | 42 | 37 | 1 | 53% | $4,032,743 | -$170,432 |
 | Sassy-Bucket | 34 | 38 | 0 | 47% | $3,509,742 | -$550,411 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 460 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | M80 | 1.41 (71¢) | $53,219 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: magic vs EYEBALLERS (BO3) - 1win Private Club #1 Playoffs | magic | 1.37 (73¢) | $94,900 | — | ⏳ Pendiente |
+| tg-stakeqiu | Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs | Xtreme Gaming | 1.69 (59¢) | $40,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
 | WanderingWombat | Clemson vs. California | California | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Türkiye vs. France: O/U 3.5 | Under 3.5 | 2.08 (48¢) | $38,795 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 460 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Norway win on 2026-09-24? | Yes | 1.67 (60¢) | $144,000 | +$96,000 | ✅ Ganada |
 | Feromont | Will Norway win on 2026-09-24? | No | 2.44 (41¢) | $30,000 | -$30,000 | ❌ Perdida |
 | BrotherObama | New York Mets vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $88,940 | -$88,940 | ❌ Perdida |
-| Sassy-Bucket | Chicago White Sox vs. Kansas City Royals | Kansas City Royals | 2.27 (44¢) | $35,992 | -$35,992 | ❌ Perdida |
-| pleaseplease123 | Chicago White Sox vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Phantom vs Iberian Soul (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs | Iberian Soul | 1.96 (51¢) | $35,700 | +$34,300 | ✅ Ganada |
