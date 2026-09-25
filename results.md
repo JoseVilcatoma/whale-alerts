@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 17:51:56 (hora de Perú)
+Actualizado: 2026-09-25 17:53:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3608**  ($196,946,345 en total)
-- Resueltas: **3574** — 2168 ganadas / 1406 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **3578** — 2172 ganadas / 1406 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,869,605** sobre $195,501,002 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$7,986** sobre $352,000 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,799,239** sobre $195,794,834 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,844** sobre $352,400 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
-| phonesculptor | 12 | 2 | 1 | 86% | $1,044,288 | -$7,205 |
+| phonesculptor | 13 | 2 | 0 | 87% | $1,044,288 | +$11,795 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
 
 _(mostrando los 40 de mayor monto, de 464 en total)_
@@ -83,11 +83,11 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | Talvez10 | Spread: Navy (-6.5) | UAB | 2.00 (50¢) | $33,729 | — | ⏳ Pendiente |
 | bloodmaster | Games Total: O/U 4.5 | Under 4.5 | 1.28 (78¢) | $26,847 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Army (-3.5) | Temple | 2.08 (48¢) | $82,194 | — | ⏳ Pendiente |
-| phonesculptor | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $171,000 | — | ⏳ Pendiente |
+| phonesculptor | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $171,000 | +$19,000 | ✅ Ganada |
 | HectorHuang | Spread: France (-1.5) | France | 1.96 (51¢) | $32,000 | -$32,000 | ❌ Perdida |
-| jaytee158 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
+| jaytee158 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
 | useruserlol | Will Sweden win on 2026-09-25? | Yes | 1.49 (67¢) | $26,373 | +$12,990 | ✅ Ganada |
-| Momo63 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $57,038 | — | ⏳ Pendiente |
+| Momo63 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $57,038 | +$6,338 | ✅ Ganada |
 | kindar | Will Italy win on 2026-09-25? | Yes | 2.27 (44¢) | $37,934 | -$37,934 | ❌ Perdida |
 | Diabolical-Prize | Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner | Xtreme Gaming | 1.85 (54¢) | $68,022 | -$68,022 | ❌ Perdida |
 | StasPanda | Counter-Strike: DENDELE CS vs Voca (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | DENDELE CS | 1.35 (74¢) | $25,900 | +$9,100 | ✅ Ganada |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | tg-stakeqiu | Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs | Xtreme Gaming | 1.69 (59¢) | $40,000 | -$40,000 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
 | WanderingWombat | Clemson vs. California | California | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Türkiye vs. France: O/U 3.5 | Under 3.5 | 2.08 (48¢) | $38,795 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Türkiye vs. France: O/U 3.5 | Under 3.5 | 2.08 (48¢) | $38,795 | +$42,028 | ✅ Ganada |
 | mimi121 | Dota 2: GamerLegion vs 1win (BO3) - PGL Wallachia Playoffs | 1win | 1.45 (69¢) | $28,470 | -$28,470 | ❌ Perdida |
 | FORTNITEMASTER888 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | NRG | 1.92 (52¢) | $39,624 | +$36,576 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | Nongshim RedForce | 2.08 (48¢) | $27,599 | -$27,599 | ❌ Perdida |
