@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 18:35:58 (hora de Perú)
+Actualizado: 2026-09-26 18:38:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3717**  ($202,444,611 en total)
+- Apuestas registradas: **3718**  ($202,478,400 en total)
 - Resueltas: **3673** — 2233 ganadas / 1440 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 469
 
 ### Balance
@@ -53,8 +53,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 1 | 92% | $1,527,965 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| Talvez10 | 14 | 13 | 1 | 52% | $1,345,034 | +$183,617 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
-| Talvez10 | 14 | 13 | 0 | 52% | $1,311,245 | +$183,617 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | Lakersfan111 | 16 | 14 | 0 | 53% | $1,274,405 | -$101,179 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Houston Astros vs. Athletics | Athletics | 2.50 (40¢) | $33,789 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tulsa vs. Arkansas | Arkansas | 1.39 (72¢) | $131,976 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Brady Hiestand vs. Rinya Nakamura (Bantamweight, Main Card) | Rinya Nakamura | 1.30 (77¢) | $93,810 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $51,473 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Anjun | Will Faroe Islands win on 2026-09-26? | No | 2.33 (43¢) | $85,111 | +$112,821 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | Villson | Will Faroe Islands win on 2026-09-26? | No | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
-| SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.82 (55¢) | $185,520 | -$185,520 | ❌ Perdida |
