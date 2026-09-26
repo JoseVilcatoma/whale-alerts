@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 18:42:10 (hora de Perú)
+Actualizado: 2026-09-26 18:44:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3718**  ($202,478,400 en total)
-- Resueltas: **3673** — 2233 ganadas / 1440 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **3681** — 2240 ganadas / 1441 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,536,491** sobre $200,321,669 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$7,020** sobre $361,900 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$2,462,323** sobre $200,724,012 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,832** sobre $362,700 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Sassy-Bucket | 43 | 42 | 7 | 51% | $4,575,354 | -$652,156 |
+| Sassy-Bucket | 43 | 43 | 6 | 50% | $4,575,354 | -$719,606 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
-| ethanaz | 22 | 10 | 4 | 69% | $2,226,964 | -$199,010 |
+| ethanaz | 26 | 10 | 0 | 72% | $2,226,964 | -$130,917 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | surfandturf | 20 | 2 | 0 | 91% | $1,965,560 | +$439,439 |
@@ -83,30 +83,30 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.79 (56¢) | $40,204 | -$40,204 | ❌ Perdida |
 | jaytee158 | Delaware vs. Virginia | Virginia | 1.09 (92¢) | $37,023 | — | ⏳ Pendiente |
 | Talvez10 | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.82 (55¢) | $31,484 | -$31,484 | ❌ Perdida |
-| TAIWANNUMBERONE | Ole Miss vs. Florida | Florida | 1.22 (82¢) | $32,800 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Ole Miss vs. Florida | Florida | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
 | Talvez10 | UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims) | Rodolfo Bellato | 1.59 (63¢) | $29,613 | -$29,613 | ❌ Perdida |
 | nuttypoo | Wisconsin vs. Penn State | Penn State | 1.27 (79¢) | $122,133 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: South Florida (-18.5) | Bowling Green | 1.89 (53¢) | $28,744 | — | ⏳ Pendiente |
 | texaskid | Spread: LSU (-8.5) | LSU | 2.00 (50¢) | $87,553 | — | ⏳ Pendiente |
 | ethanaz | Iowa vs. Michigan | Michigan | 1.35 (74¢) | $30,194 | -$30,194 | ❌ Perdida |
 | ethanaz | Iowa vs. Michigan | Michigan | 1.39 (72¢) | $44,672 | -$44,672 | ❌ Perdida |
-| ethanaz | Ole Miss vs. Florida | Florida | 1.19 (84¢) | $54,473 | — | ⏳ Pendiente |
+| ethanaz | Ole Miss vs. Florida | Florida | 1.19 (84¢) | $54,473 | +$10,376 | ✅ Ganada |
 | KaneAnalytics | Iowa vs. Michigan | Michigan | 1.45 (69¢) | $30,794 | -$30,794 | ❌ Perdida |
 | SDTrading | Spread: Nebraska (-6.5) | Michigan State | 1.96 (51¢) | $33,563 | — | ⏳ Pendiente |
-| ethanaz | Ole Miss vs. Florida | Florida | 1.28 (78¢) | $36,763 | — | ⏳ Pendiente |
+| ethanaz | Ole Miss vs. Florida | Florida | 1.28 (78¢) | $36,763 | +$10,369 | ✅ Ganada |
 | phonesculptor | South Florida vs. Bowling Green | South Florida | 1.12 (89¢) | $62,935 | — | ⏳ Pendiente |
-| ethanaz | Ole Miss vs. Florida | Florida | 1.43 (70¢) | $72,033 | — | ⏳ Pendiente |
-| ethanaz | Ole Miss vs. Florida | Florida | 1.56 (64¢) | $29,292 | — | ⏳ Pendiente |
+| ethanaz | Ole Miss vs. Florida | Florida | 1.43 (70¢) | $72,033 | +$30,871 | ✅ Ganada |
+| ethanaz | Ole Miss vs. Florida | Florida | 1.56 (64¢) | $29,292 | +$16,477 | ✅ Ganada |
 | SharkbetX-com | Will England win on 2026-09-26? | Yes | 1.82 (55¢) | $28,909 | -$28,909 | ❌ Perdida |
 | Sassy-Bucket | Vanderbilt vs. Auburn | Vanderbilt | 4.17 (24¢) | $29,417 | — | ⏳ Pendiente |
 | texaskid | Utah vs. Iowa State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $47,830 | -$47,830 | ❌ Perdida |
-| alwaysfade | Ole Miss vs. Florida | Florida | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
+| alwaysfade | Ole Miss vs. Florida | Florida | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | KaneAnalytics | Wake Forest vs. Louisville | Wake Forest | 1.61 (62¢) | $26,040 | +$15,960 | ✅ Ganada |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.32 (76¢) | $108,541 | +$34,276 | ✅ Ganada |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.33 (75¢) | $28,072 | +$9,357 | ✅ Ganada |
 | Sassy-Bucket | TCU vs. UCF | TCU | 1.61 (62¢) | $60,901 | -$60,901 | ❌ Perdida |
-| texaskid | Ole Miss vs. Florida | Florida | 1.61 (62¢) | $78,032 | — | ⏳ Pendiente |
-| Sassy-Bucket | Ole Miss vs. Florida | Ole Miss | 2.63 (38¢) | $67,450 | — | ⏳ Pendiente |
+| texaskid | Ole Miss vs. Florida | Florida | 1.61 (62¢) | $78,032 | +$47,826 | ✅ Ganada |
+| Sassy-Bucket | Ole Miss vs. Florida | Ole Miss | 2.63 (38¢) | $67,450 | -$67,450 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Tennessee | Texas | 1.09 (92¢) | $31,585 | +$2,746 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England vs. Spain end in a draw? | No | 1.41 (71¢) | $60,787 | +$24,829 | ✅ Ganada |
 | tes21sa | Will England vs. Spain end in a draw? | Yes | 3.45 (29¢) | $29,992 | -$29,992 | ❌ Perdida |
