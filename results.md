@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 15:40:46 (hora de Perú)
+Actualizado: 2026-09-26 15:42:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3700**  ($201,515,524 en total)
-- Resueltas: **3637** — 2211 ganadas / 1426 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Resueltas: **3638** — 2212 ganadas / 1426 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,752,221** sobre $198,621,657 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,299** sobre $358,300 (ROI **-2.0%**)
+- **Resultado de los apostadores: -$2,745,821** sobre $198,695,256 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,291** sobre $358,400 (ROI **-2.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | bredxiao | Will Spain win on 2026-09-26? | Yes | 2.08 (48¢) | $25,237 | — | ⏳ Pendiente |
 | primm | TCU vs. UCF | TCU | 1.67 (60¢) | $42,601 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Georgia (-13.5) | Georgia | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
-| 177-letsgo | South Alabama vs. Kentucky | Kentucky | 1.09 (92¢) | $73,599 | — | ⏳ Pendiente |
+| 177-letsgo | South Alabama vs. Kentucky | Kentucky | 1.09 (92¢) | $73,599 | +$6,400 | ✅ Ganada |
 | 177-letsgo | Texas vs. Tennessee | Texas | 1.32 (76¢) | $26,486 | +$8,364 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.19 (84¢) | $35,283 | +$6,721 | ✅ Ganada |
 | Sassy-Bucket | Texas vs. Tennessee | Texas | 1.54 (65¢) | $29,938 | +$16,120 | ✅ Ganada |
