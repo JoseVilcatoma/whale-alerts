@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 15:22:31 (hora de Perú)
+Actualizado: 2026-09-26 15:24:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3697**  ($201,385,585 en total)
-- Resueltas: **3628** — 2202 ganadas / 1426 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Apuestas registradas: **3698**  ($201,416,378 en total)
+- Resueltas: **3631** — 2205 ganadas / 1426 perdidas (**61%** de acierto)
+- Pendientes: 49
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,927,642** sobre $198,321,529 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$7,829** sobre $357,400 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,840,769** sobre $198,414,621 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,548** sobre $357,700 (ROI **-2.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | BrotherObama | 26 | 25 | 3 | 51% | $2,562,234 | +$291,990 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| ferrariChampions2026 | 37 | 23 | 1 | 62% | $2,433,850 | -$515,986 |
+| ferrariChampions2026 | 38 | 23 | 0 | 62% | $2,433,850 | -$491,966 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| SDTrading | 24 | 26 | 2 | 48% | $1,553,883 | -$160,468 |
+| SDTrading | 25 | 26 | 1 | 49% | $1,553,883 | -$136,468 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Iowa vs. Michigan | Michigan | 1.45 (69¢) | $30,794 | — | ⏳ Pendiente |
 | SDTrading | Spread: Nebraska (-6.5) | Michigan State | 1.96 (51¢) | $33,563 | — | ⏳ Pendiente |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.28 (78¢) | $36,763 | — | ⏳ Pendiente |
 | phonesculptor | South Florida vs. Bowling Green | South Florida | 1.12 (89¢) | $62,935 | — | ⏳ Pendiente |
@@ -104,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | San Diego State vs. Toledo | San Diego State | 2.27 (44¢) | $82,628 | -$82,628 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Faroe Islands win on 2026-09-26? | No | 2.08 (48¢) | $83,099 | +$90,024 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $25,723 | +$5,269 | ✅ Ganada |
-| liquiditycrisis | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $42,091 | — | ⏳ Pendiente |
+| liquiditycrisis | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $42,091 | +$38,854 | ✅ Ganada |
 | texaskid | UCLA vs. Maryland | UCLA | 1.75 (57¢) | $39,265 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.69 (59¢) | $265,754 | -$265,754 | ❌ Perdida |
 | Anjun | Will Faroe Islands win on 2026-09-26? | No | 2.33 (43¢) | $85,111 | +$112,821 | ✅ Ganada |
@@ -120,7 +121,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Kch-Temp | UCLA vs. Maryland | UCLA | 1.85 (54¢) | $26,372 | — | ⏳ Pendiente |
 | texaskid | Spread: Florida (-3.5) | Florida | 2.00 (50¢) | $29,972 | — | ⏳ Pendiente |
 | phonesculptor | Wake Forest vs. Louisville | Louisville | 1.23 (81¢) | $36,183 | -$36,183 | ❌ Perdida |
-| ferrariChampions2026 | Spread: Texas (-5.5) | Tennessee | 1.96 (51¢) | $25,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Spread: Texas (-5.5) | Tennessee | 1.96 (51¢) | $25,000 | +$24,020 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
 | Berniepaidoff | Texas vs. Tennessee | Texas | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: LY (-2.5) vs Shopify Rebellion (+2.5) | Shopify Rebellion | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
@@ -128,6 +129,5 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | texaskid | Spread: Auburn (-9.5) | Auburn | 1.92 (52¢) | $62,695 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: Walczaki vs BET-M 33 (BO3) - NODWIN Clutch Series Playoffs | BET-M 33 | 1.96 (51¢) | $30,000 | — | ⊘ Anulada |
 | texaskid | Spread: Miami (OH) (-3.5) | UConn | 1.85 (54¢) | $41,252 | — | ⏳ Pendiente |
-| SDTrading | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| SDTrading | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-09-26? | No | 1.32 (76¢) | $43,822 | — | ⏳ Pendiente |
-| Ne8om | Will Spain win on 2026-09-26? | No | 2.00 (50¢) | $33,477 | — | ⏳ Pendiente |
