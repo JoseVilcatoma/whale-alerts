@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 20:25:38 (hora de Perú)
+Actualizado: 2026-09-25 20:27:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3612**  ($197,147,350 en total)
+- Apuestas registradas: **3613**  ($197,267,350 en total)
 - Resueltas: **3585** — 2175 ganadas / 1410 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 464
 
 ### Balance
@@ -38,8 +38,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 37 | 23 | 0 | 62% | $2,408,850 | -$515,986 |
+| BrotherObama | 24 | 25 | 2 | 49% | $2,402,234 | +$78,413 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| BrotherObama | 24 | 25 | 1 | 49% | $2,282,234 | +$78,413 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Houston Astros vs. Athletics: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $120,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Northwestern vs. Indiana | Indiana | 1.10 (91¢) | $27,255 | — | ⏳ Pendiente |
 | liquiditycrisis | Clemson vs. California | Clemson | 1.79 (56¢) | $118,531 | — | ⏳ Pendiente |
 | predictionlegend | Will CF Monterrey win on 2026-09-25? | No | 1.72 (58¢) | $25,287 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | ndb1 | Falcons vs. Packers: O/U 49.5 | Under 49.5 | 1.82 (55¢) | $33,000 | +$27,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Packers | Packers | 1.22 (82¢) | $36,375 | -$36,375 | ❌ Perdida |
 | jaytee158 | Falcons vs. Packers | Packers | 1.20 (83¢) | $57,576 | -$57,576 | ❌ Perdida |
-| ferrariChampions2026 | Falcons vs. Packers | Packers | 1.30 (77¢) | $38,431 | -$38,431 | ❌ Perdida |
