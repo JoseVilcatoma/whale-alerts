@@ -54648,5 +54648,20 @@
     "status": "pending",
     "ultimo_fill": 1790426959,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7436,
+    "timestamp": 1790427598,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "cfb-okl-ga-2026-09-26-total-43pt5",
+    "title": "Oklahoma vs. Georgia: O/U 43.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 33616.3896,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1790427598,
+    "fills": 1
   }
 ]
