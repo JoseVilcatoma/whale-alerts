@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 18:48:19 (hora de Perú)
+Actualizado: 2026-09-26 18:50:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3719**  ($202,511,396 en total)
+- Apuestas registradas: **3720**  ($202,561,343 en total)
 - Resueltas: **3682** — 2241 ganadas / 1441 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 469
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Texas A&M vs. LSU | LSU | 1.43 (70¢) | $49,947 | — | ⏳ Pendiente |
 | ethanaz | Texas A&M vs. LSU: O/U 52.5 | Under 52.5 | 2.00 (50¢) | $32,997 | — | ⏳ Pendiente |
 | Talvez10 | Houston Astros vs. Athletics | Athletics | 2.50 (40¢) | $33,789 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tulsa vs. Arkansas | Arkansas | 1.39 (72¢) | $131,976 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | texaskid | UCLA vs. Maryland | UCLA | 1.75 (57¢) | $39,265 | +$29,621 | ✅ Ganada |
 | SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.69 (59¢) | $265,754 | -$265,754 | ❌ Perdida |
 | Anjun | Will Faroe Islands win on 2026-09-26? | No | 2.33 (43¢) | $85,111 | +$112,821 | ✅ Ganada |
-| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
