@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 18:03:07 (hora de Perú)
+Actualizado: 2026-09-26 18:05:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3713**  ($202,135,444 en total)
-- Resueltas: **3659** — 2228 ganadas / 1431 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **3660** — 2229 ganadas / 1431 perdidas (**61%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,337,650** sobre $199,701,894 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,460** sobre $360,500 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,309,014** sobre $199,735,511 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,375** sobre $360,600 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | phonesculptor | 14 | 3 | 2 | 82% | $1,213,036 | -$20,602 |
-| Kch-Temp | 15 | 6 | 1 | 71% | $1,191,211 | +$559,780 |
+| Kch-Temp | 16 | 6 | 0 | 73% | $1,191,211 | +$588,416 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
 
