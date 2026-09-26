@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 10:25:42 (hora de Perú)
+Actualizado: 2026-09-26 10:27:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3655**  ($199,006,904 en total)
+- Apuestas registradas: **3656**  ($199,046,232 en total)
 - Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 466
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 44 | 38 | 2 | 54% | $4,236,631 | -$162,554 |
-| Sassy-Bucket | 34 | 39 | 2 | 47% | $3,592,972 | -$580,343 |
+| Sassy-Bucket | 34 | 39 | 3 | 47% | $3,632,300 | -$580,343 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | BrotherObama | 26 | 25 | 2 | 51% | $2,532,234 | +$291,990 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Texas vs. Tennessee | Texas | 1.52 (66¢) | $39,328 | — | ⏳ Pendiente |
 | SDTrading | Ball State vs. Kent State | Kent State | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | SDTrading | Spread: UNLV (-13.5) | UNLV | 1.92 (52¢) | $45,711 | — | ⏳ Pendiente |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $26,100 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | Talvez10 | Spread: Navy (-6.5) | UAB | 2.00 (50¢) | $33,729 | +$33,729 | ✅ Ganada |
 | bloodmaster | Games Total: O/U 4.5 | Under 4.5 | 1.28 (78¢) | $26,847 | -$26,847 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Spread: Army (-3.5) | Temple | 2.08 (48¢) | $82,194 | -$82,194 | ❌ Perdida |
-| phonesculptor | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $171,000 | +$19,000 | ✅ Ganada |
