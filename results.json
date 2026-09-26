@@ -55068,5 +55068,35 @@
     "status": "pending",
     "ultimo_fill": 1790437654,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7469,
+    "timestamp": 1790438009,
+    "username": "liquiditycrisis",
+    "wallet": "0xa90429bc88a1d22eb40e4aac9aaf0bcefd29d20c",
+    "slug": "cfb-tx-tenn-2026-09-26-spread-away-5pt5",
+    "title": "Spread: Texas (-5.5)",
+    "outcome": "Tennessee",
+    "side": "BUY",
+    "usd": 42091.3,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1790438009,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1790438066,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-unlv-akron-2026-09-26",
+    "title": "UNLV vs. Akron",
+    "outcome": "UNLV",
+    "side": "BUY",
+    "usd": 25723.3517,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1790438066,
+    "fills": 1
   }
 ]

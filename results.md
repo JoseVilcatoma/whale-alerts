@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 10:52:20 (hora de Perú)
+Actualizado: 2026-09-26 10:54:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3663**  ($199,739,582 en total)
+- Apuestas registradas: **3665**  ($199,807,397 en total)
 - Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 38
 - Apostadores distintos: 467
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 44 | 38 | 2 | 54% | $4,236,631 | -$162,554 |
-| Sassy-Bucket | 34 | 39 | 4 | 47% | $3,673,300 | -$580,343 |
+| Sassy-Bucket | 34 | 39 | 5 | 47% | $3,699,023 | -$580,343 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | BrotherObama | 26 | 25 | 2 | 51% | $2,532,234 | +$291,990 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 467 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $25,723 | — | ⏳ Pendiente |
+| liquiditycrisis | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $42,091 | — | ⏳ Pendiente |
 | texaskid | UCLA vs. Maryland | UCLA | 1.75 (57¢) | $39,265 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.69 (59¢) | $265,754 | — | ⏳ Pendiente |
 | Anjun | Will Faroe Islands win on 2026-09-26? | No | 2.33 (43¢) | $85,111 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 467 en total)_
 | liquiditycrisis | Spread: Indiana (-20.5) | Northwestern | 2.00 (50¢) | $27,021 | +$27,021 | ✅ Ganada |
 | gawtaiuwty028wa3r | Spread: Navy (-6.5) | Navy | 2.00 (50¢) | $25,500 | -$25,500 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Clemson vs. California: O/U 50.5 | Under 50.5 | 2.17 (46¢) | $25,173 | +$29,551 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FlyQuest vs Shopify Rebellion (BO5) - LCS Playoffs | FlyQuest | 1.25 (80¢) | $32,091 | -$32,091 | ❌ Perdida |
-| FlamePyro | Army vs. Temple | Temple | 2.63 (38¢) | $31,418 | -$31,418 | ❌ Perdida |
