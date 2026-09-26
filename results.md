@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 07:20:55 (hora de Perú)
+Actualizado: 2026-09-26 07:22:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3631**  ($198,031,983 en total)
-- Resueltas: **3606** — 2188 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **3607** — 2189 ganadas / 1418 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 466
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,653,659** sobre $197,000,994 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$7,843** sobre $355,200 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,640,687** sobre $197,037,914 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$7,808** sobre $355,300 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | Diabolical-Prize | Counter-Strike: EYEBALLERS vs K27 (BO3) - 1win Private Club #1 Playoffs | K27 | 1.52 (66¢) | $79,200 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: paiN (-1.5) vs Galorys (+1.5) | Galorys | 1.35 (74¢) | $25,865 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: paiN vs Galorys (BO3) - FERJEE In House Playoffs | Galorys | 2.27 (44¢) | $30,800 | — | ⏳ Pendiente |
-| tankfest2027 | Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B | Team Vitality | 1.35 (74¢) | $36,920 | — | ⏳ Pendiente |
+| tankfest2027 | Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B | Team Vitality | 1.35 (74¢) | $36,920 | +$12,972 | ✅ Ganada |
 | Netrol | Dota 2: Aurora vs Natus Vincere - Game 1 Winner | Natus Vincere | 1.79 (56¢) | $34,753 | +$27,306 | ✅ Ganada |
 | phonesculptor | Will North Macedonia win on 2026-09-26? | No | 1.10 (91¢) | $38,279 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Clemson vs. California | Clemson | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
