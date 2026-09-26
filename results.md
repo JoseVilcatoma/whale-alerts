@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 05:19:54 (hora de Perú)
+Actualizado: 2026-09-26 05:21:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3626**  ($197,787,465 en total)
+- Apuestas registradas: **3627**  ($197,866,665 en total)
 - Resueltas: **3604** — 2186 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 465
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
-| Diabolical-Prize | 43 | 38 | 2 | 53% | $4,157,431 | -$203,354 |
+| Diabolical-Prize | 43 | 38 | 3 | 53% | $4,236,631 | -$203,354 |
 | Sassy-Bucket | 34 | 39 | 0 | 47% | $3,539,674 | -$580,343 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 465 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: EYEBALLERS vs K27 (BO3) - 1win Private Club #1 Playoffs | K27 | 1.52 (66¢) | $79,200 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: paiN (-1.5) vs Galorys (+1.5) | Galorys | 1.35 (74¢) | $25,865 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: paiN vs Galorys (BO3) - FERJEE In House Playoffs | Galorys | 2.27 (44¢) | $30,800 | — | ⏳ Pendiente |
 | tankfest2027 | Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B | Team Vitality | 1.35 (74¢) | $36,920 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 465 en total)_
 | takeormake | Falcons vs. Packers | Falcons | 1.27 (79¢) | $37,677 | +$10,016 | ✅ Ganada |
 | insidiousidiot | Falcons vs. Packers | Falcons | 1.25 (80¢) | $27,000 | +$6,750 | ✅ Ganada |
 | kkookkoo | Los Angeles Angels vs. Seattle Mariners | Seattle Mariners | 1.25 (80¢) | $31,908 | -$31,908 | ❌ Perdida |
-| ferrariChampions2026 | Falcons vs. Packers | Falcons | 1.37 (73¢) | $27,813 | +$10,287 | ✅ Ganada |
