@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 16:44:18 (hora de Perú)
+Actualizado: 2026-09-26 16:46:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3707**  ($201,878,044 en total)
+- Apuestas registradas: **3708**  ($201,915,068 en total)
 - Resueltas: **3642** — 2216 ganadas / 1426 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 469
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jaytee158 | Delaware vs. Virginia | Virginia | 1.09 (92¢) | $37,023 | — | ⏳ Pendiente |
 | Talvez10 | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.82 (55¢) | $31,484 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ole Miss vs. Florida | Florida | 1.22 (82¢) | $32,800 | — | ⏳ Pendiente |
 | Talvez10 | UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims) | Rodolfo Bellato | 1.59 (63¢) | $29,613 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Kch-Temp | UCLA vs. Maryland | UCLA | 1.85 (54¢) | $26,372 | +$22,465 | ✅ Ganada |
 | texaskid | Spread: Florida (-3.5) | Florida | 2.00 (50¢) | $29,972 | — | ⏳ Pendiente |
 | phonesculptor | Wake Forest vs. Louisville | Louisville | 1.23 (81¢) | $36,183 | -$36,183 | ❌ Perdida |
-| ferrariChampions2026 | Spread: Texas (-5.5) | Tennessee | 1.96 (51¢) | $25,000 | +$24,020 | ✅ Ganada |

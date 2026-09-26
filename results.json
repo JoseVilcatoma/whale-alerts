@@ -55729,5 +55729,20 @@
     "status": "pending",
     "ultimo_fill": 1790457684,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7546,
+    "timestamp": 1790459160,
+    "username": "jaytee158",
+    "wallet": "0xa2c908ce8b8386bc8c5471120c5a662551332c23",
+    "slug": "cfb-del-vir-2026-09-26",
+    "title": "Delaware vs. Virginia",
+    "outcome": "Virginia",
+    "side": "BUY",
+    "usd": 37023.247200000005,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1790459160,
+    "fills": 1
   }
 ]
