@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 23:00:11 (hora de Perú)
+Actualizado: 2026-09-25 23:02:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3620**  ($197,595,648 en total)
-- Resueltas: **3592** — 2179 ganadas / 1413 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **3593** — 2180 ganadas / 1413 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,859,703** sobre $196,414,865 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$8,046** sobre $353,800 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,857,008** sobre $196,442,120 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$8,036** sobre $353,900 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 57 | 40 | 2 | 59% | $5,396,139 | -$367,845 |
+| wr0ngw4yb3tt0r | 58 | 40 | 1 | 59% | $5,396,139 | -$365,150 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 43 | 38 | 0 | 53% | $4,100,766 | -$203,354 |
 | Sassy-Bucket | 34 | 39 | 0 | 47% | $3,539,674 | -$580,343 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | BrotherObama | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $100,000 | +$88,679 | ✅ Ganada |
 | ethanaz | Navy vs. UAB | Navy | 1.49 (67¢) | $72,185 | -$72,185 | ❌ Perdida |
 | BrotherObama | Houston Astros vs. Athletics: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $120,000 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Northwestern vs. Indiana | Indiana | 1.10 (91¢) | $27,255 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Northwestern vs. Indiana | Indiana | 1.10 (91¢) | $27,255 | +$2,696 | ✅ Ganada |
 | liquiditycrisis | Clemson vs. California | Clemson | 1.79 (56¢) | $118,531 | — | ⏳ Pendiente |
 | predictionlegend | Will CF Monterrey win on 2026-09-25? | No | 1.72 (58¢) | $25,287 | — | ⏳ Pendiente |
 | Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Colorado Rockies | 3.23 (31¢) | $29,932 | -$29,932 | ❌ Perdida |
