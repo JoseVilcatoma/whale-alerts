@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 12:23:12 (hora de Perú)
+Actualizado: 2026-09-26 12:25:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3673**  ($200,231,031 en total)
+- Apuestas registradas: **3674**  ($200,256,268 en total)
 - Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 45
-- Apostadores distintos: 467
+- Pendientes: 46
+- Apostadores distintos: 468
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
 
-_(mostrando los 40 de mayor monto, de 467 en total)_
+_(mostrando los 40 de mayor monto, de 468 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bredxiao | Will Spain win on 2026-09-26? | Yes | 2.08 (48¢) | $25,237 | — | ⏳ Pendiente |
 | primm | TCU vs. UCF | TCU | 1.67 (60¢) | $42,601 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Georgia (-13.5) | Georgia | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
 | 177-letsgo | South Alabama vs. Kentucky | Kentucky | 1.09 (92¢) | $73,599 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 467 en total)_
 | ethanaz | Clemson vs. California | California | 1.69 (59¢) | $32,725 | -$32,725 | ❌ Perdida |
 | bands1 | Clemson vs. California | California | 2.22 (45¢) | $31,752 | -$31,752 | ❌ Perdida |
 | BrotherObama | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $100,000 | +$88,679 | ✅ Ganada |
-| ethanaz | Navy vs. UAB | Navy | 1.49 (67¢) | $72,185 | -$72,185 | ❌ Perdida |
