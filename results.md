@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 09:18:06 (hora de Perú)
+Actualizado: 2026-09-26 09:20:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3644**  ($198,649,168 en total)
-- Resueltas: **3607** — 2189 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **3609** — 2190 ganadas / 1419 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 466
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,640,687** sobre $197,037,914 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$7,808** sobre $355,300 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,679,098** sobre $197,114,813 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,865** sobre $355,500 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
-| Lakersfan111 | 15 | 14 | 1 | 52% | $1,274,405 | -$112,725 |
+| Lakersfan111 | 16 | 14 | 0 | 53% | $1,274,405 | -$101,179 |
 | Talvez10 | 14 | 11 | 0 | 56% | $1,250,148 | +$244,714 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
@@ -84,9 +84,9 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | Kch-Temp | UCLA vs. Maryland | UCLA | 1.85 (54¢) | $84,236 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.00 (50¢) | $30,257 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.13 (47¢) | $28,630 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | LOUD | 1.43 (70¢) | $26,942 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | LOUD | 1.43 (70¢) | $26,942 | +$11,547 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.17 (46¢) | $62,800 | — | ⏳ Pendiente |
-| tg-stakeqiu | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | EDward Gaming | 3.33 (30¢) | $49,958 | — | ⏳ Pendiente |
+| tg-stakeqiu | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | EDward Gaming | 3.33 (30¢) | $49,958 | -$49,958 | ❌ Perdida |
 | gvrgb326552g65 | Dota 2: Aurora vs Natus Vincere - Game 2 Winner | Natus Vincere | 2.04 (49¢) | $25,618 | +$26,663 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: EYEBALLERS vs K27 (BO3) - 1win Private Club #1 Playoffs | K27 | 1.52 (66¢) | $79,200 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: paiN (-1.5) vs Galorys (+1.5) | Galorys | 1.35 (74¢) | $25,865 | — | ⏳ Pendiente |
