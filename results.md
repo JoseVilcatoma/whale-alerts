@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 09:12:02 (hora de Perú)
+Actualizado: 2026-09-26 09:14:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3642**  ($198,556,473 en total)
+- Apuestas registradas: **3643**  ($198,619,168 en total)
 - Resueltas: **3607** — 2189 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 466
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Spread: Auburn (-9.5) | Auburn | 1.92 (52¢) | $62,695 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: Walczaki vs BET-M 33 (BO3) - NODWIN Clutch Series Playoffs | BET-M 33 | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | texaskid | Spread: Miami (OH) (-3.5) | UConn | 1.85 (54¢) | $41,252 | — | ⏳ Pendiente |
 | SDTrading | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | Diabolical-Prize | Counter-Strike: magic vs EYEBALLERS (BO3) - 1win Private Club #1 Playoffs | magic | 1.37 (73¢) | $94,900 | +$35,100 | ✅ Ganada |
 | tg-stakeqiu | Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs | Xtreme Gaming | 1.69 (59¢) | $40,000 | -$40,000 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.79 (56¢) | $50,400 | +$39,600 | ✅ Ganada |
-| WanderingWombat | Clemson vs. California | California | 2.13 (47¢) | $28,200 | -$28,200 | ❌ Perdida |
