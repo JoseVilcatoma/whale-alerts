@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 08:10:25 (hora de Perú)
+Actualizado: 2026-09-26 08:12:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3636**  ($198,286,550 en total)
+- Apuestas registradas: **3638**  ($198,369,822 en total)
 - Resueltas: **3607** — 2189 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 14
 - Apostadores distintos: 466
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Ne8om | Will Spain win on 2026-09-26? | No | 2.00 (50¢) | $33,477 | — | ⏳ Pendiente |
+| 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.00 (50¢) | $49,796 | — | ⏳ Pendiente |
 | Kch-Temp | Oklahoma vs. Georgia: O/U 43.5 | Over 43.5 | 1.85 (54¢) | $33,616 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.00 (50¢) | $77,828 | — | ⏳ Pendiente |
 | Kch-Temp | UCLA vs. Maryland | UCLA | 1.85 (54¢) | $84,236 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | mimi121 | Dota 2: GamerLegion vs 1win (BO3) - PGL Wallachia Playoffs | 1win | 1.45 (69¢) | $28,470 | -$28,470 | ❌ Perdida |
 | FORTNITEMASTER888 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | NRG | 1.92 (52¢) | $39,624 | +$36,576 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | Nongshim RedForce | 2.08 (48¢) | $27,599 | -$27,599 | ❌ Perdida |
-| BrotherObama | Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs | Sinners | 2.13 (47¢) | $31,000 | +$34,957 | ✅ Ganada |
-| FORTNITEMASTER888 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | NRG | 2.00 (50¢) | $41,921 | +$41,921 | ✅ Ganada |
