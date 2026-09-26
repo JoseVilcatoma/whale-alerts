@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 08:37:04 (hora de Perú)
+Actualizado: 2026-09-26 08:39:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3639**  ($198,459,221 en total)
+- Apuestas registradas: **3640**  ($198,485,221 en total)
 - Resueltas: **3607** — 2189 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 466
 
 ### Balance
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| SDTrading | 22 | 26 | 0 | 46% | $1,420,108 | -$224,163 |
+| SDTrading | 22 | 26 | 1 | 46% | $1,446,108 | -$224,163 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-09-26? | No | 1.32 (76¢) | $43,822 | — | ⏳ Pendiente |
 | Ne8om | Will Spain win on 2026-09-26? | No | 2.00 (50¢) | $33,477 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.00 (50¢) | $95,373 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | WanderingWombat | Clemson vs. California | California | 2.13 (47¢) | $28,200 | -$28,200 | ❌ Perdida |
 | 0x076d…8d4c | Türkiye vs. France: O/U 3.5 | Under 3.5 | 2.08 (48¢) | $38,795 | +$42,028 | ✅ Ganada |
 | mimi121 | Dota 2: GamerLegion vs 1win (BO3) - PGL Wallachia Playoffs | 1win | 1.45 (69¢) | $28,470 | -$28,470 | ❌ Perdida |
-| FORTNITEMASTER888 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | NRG | 1.92 (52¢) | $39,624 | +$36,576 | ✅ Ganada |
