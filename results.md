@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 09:03:55 (hora de Perú)
+Actualizado: 2026-09-26 09:05:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3641**  ($198,526,473 en total)
+- Apuestas registradas: **3642**  ($198,556,473 en total)
 - Resueltas: **3607** — 2189 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 466
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 34 | 39 | 0 | 47% | $3,539,674 | -$580,343 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| BrotherObama | 26 | 25 | 1 | 51% | $2,502,234 | +$291,990 |
+| BrotherObama | 26 | 25 | 2 | 51% | $2,532,234 | +$291,990 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 37 | 23 | 0 | 62% | $2,408,850 | -$515,986 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Counter-Strike: Walczaki vs BET-M 33 (BO3) - NODWIN Clutch Series Playoffs | BET-M 33 | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | texaskid | Spread: Miami (OH) (-3.5) | UConn | 1.85 (54¢) | $41,252 | — | ⏳ Pendiente |
 | SDTrading | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-09-26? | No | 1.32 (76¢) | $43,822 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | tg-stakeqiu | Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs | Xtreme Gaming | 1.69 (59¢) | $40,000 | -$40,000 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.79 (56¢) | $50,400 | +$39,600 | ✅ Ganada |
 | WanderingWombat | Clemson vs. California | California | 2.13 (47¢) | $28,200 | -$28,200 | ❌ Perdida |
-| 0x076d…8d4c | Türkiye vs. France: O/U 3.5 | Under 3.5 | 2.08 (48¢) | $38,795 | +$42,028 | ✅ Ganada |
