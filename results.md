@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 17:12:53 (hora de Perú)
+Actualizado: 2026-09-26 17:14:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3710**  ($201,989,124 en total)
-- Resueltas: **3642** — 2216 ganadas / 1426 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Resueltas: **3644** — 2217 ganadas / 1427 perdidas (**61%** de acierto)
+- Pendientes: 48
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,611,978** sobre $198,875,129 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$7,012** sobre $358,800 (ROI **-2.0%**)
+- **Resultado de los apostadores: -$2,618,855** sobre $198,940,829 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$7,016** sobre $359,000 (ROI **-2.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 41 | 40 | 6 | 51% | $4,181,457 | -$594,685 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| BrotherObama | 26 | 25 | 3 | 51% | $2,562,234 | +$291,990 |
+| BrotherObama | 27 | 25 | 2 | 52% | $2,562,234 | +$320,813 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 38 | 23 | 0 | 62% | $2,433,850 | -$491,966 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | surfandturf | Will Spain win on 2026-09-26? | Yes | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
 | ripley86alien | Will Spain win on 2026-09-26? | No | 1.89 (53¢) | $113,674 | — | ⏳ Pendiente |
 | surfandturf | Will Spain win on 2026-09-26? | Yes | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
-| BrotherObama | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | magic | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
+| BrotherObama | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | magic | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northern Illinois vs. Georgia State | Georgia State | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
 | bredxiao | Will Spain win on 2026-09-26? | Yes | 2.08 (48¢) | $25,237 | — | ⏳ Pendiente |
 | primm | TCU vs. UCF | TCU | 1.67 (60¢) | $42,601 | — | ⏳ Pendiente |
