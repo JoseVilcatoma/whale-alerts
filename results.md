@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 18:15:30 (hora de Perú)
+Actualizado: 2026-09-26 18:17:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3715**  ($202,218,825 en total)
-- Resueltas: **3663** — 2230 ganadas / 1433 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **3665** — 2230 ganadas / 1435 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,345,562** sobre $199,848,452 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,489** sobre $360,900 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,449,063** sobre $199,951,953 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,689** sobre $361,100 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Sassy-Bucket | 41 | 41 | 8 | 50% | $4,349,568 | -$634,889 |
+| Sassy-Bucket | 41 | 42 | 7 | 49% | $4,349,568 | -$695,790 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | KaneAnalytics | Wake Forest vs. Louisville | Wake Forest | 1.61 (62¢) | $26,040 | +$15,960 | ✅ Ganada |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.32 (76¢) | $108,541 | — | ⏳ Pendiente |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.33 (75¢) | $28,072 | — | ⏳ Pendiente |
-| Sassy-Bucket | TCU vs. UCF | TCU | 1.61 (62¢) | $60,901 | — | ⏳ Pendiente |
+| Sassy-Bucket | TCU vs. UCF | TCU | 1.61 (62¢) | $60,901 | -$60,901 | ❌ Perdida |
 | texaskid | Ole Miss vs. Florida | Florida | 1.61 (62¢) | $78,032 | — | ⏳ Pendiente |
 | Sassy-Bucket | Ole Miss vs. Florida | Ole Miss | 2.63 (38¢) | $67,450 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Tennessee | Texas | 1.09 (92¢) | $31,585 | +$2,746 | ✅ Ganada |
@@ -113,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | BrotherObama | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | magic | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northern Illinois vs. Georgia State | Georgia State | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
 | bredxiao | Will Spain win on 2026-09-26? | Yes | 2.08 (48¢) | $25,237 | +$27,340 | ✅ Ganada |
-| primm | TCU vs. UCF | TCU | 1.67 (60¢) | $42,601 | — | ⏳ Pendiente |
+| primm | TCU vs. UCF | TCU | 1.67 (60¢) | $42,601 | -$42,601 | ❌ Perdida |
 | Donkey14 | Spread: Georgia (-13.5) | Georgia | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
 | 177-letsgo | South Alabama vs. Kentucky | Kentucky | 1.09 (92¢) | $73,599 | +$6,400 | ✅ Ganada |
 | 177-letsgo | Texas vs. Tennessee | Texas | 1.32 (76¢) | $26,486 | +$8,364 | ✅ Ganada |
