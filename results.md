@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 09:40:30 (hora de Perú)
+Actualizado: 2026-09-26 09:42:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3646**  ($198,726,168 en total)
+- Apuestas registradas: **3647**  ($198,761,868 en total)
 - Resueltas: **3609** — 2190 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 466
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
 | Berniepaidoff | Texas vs. Tennessee | Texas | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: LY (-2.5) vs Shopify Rebellion (+2.5) | Shopify Rebellion | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | Kosherlocks | Wake Forest vs. Louisville | Louisville | 1.22 (82¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | Diabolical-Prize | Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner | Xtreme Gaming | 1.85 (54¢) | $68,022 | -$68,022 | ❌ Perdida |
 | StasPanda | Counter-Strike: DENDELE CS vs Voca (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | DENDELE CS | 1.35 (74¢) | $25,900 | +$9,100 | ✅ Ganada |
 | Ne8om | Will Sweden win on 2026-09-25? | Yes | 1.52 (66¢) | $33,338 | +$17,174 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | M80 | 1.41 (71¢) | $53,219 | +$21,738 | ✅ Ganada |
