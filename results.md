@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 10:54:27 (hora de Perú)
+Actualizado: 2026-09-26 10:56:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3665**  ($199,807,397 en total)
+- Apuestas registradas: **3666**  ($199,890,496 en total)
 - Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 467
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 260 | 137 | 5 | 65% | $26,321,992 | +$673,432 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 260 | 137 | 6 | 65% | $26,405,091 | +$673,432 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 467 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Faroe Islands win on 2026-09-26? | No | 2.08 (48¢) | $83,099 | — | ⏳ Pendiente |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $25,723 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $42,091 | — | ⏳ Pendiente |
 | texaskid | UCLA vs. Maryland | UCLA | 1.75 (57¢) | $39,265 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 467 en total)_
 | Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Colorado Rockies | 3.23 (31¢) | $29,932 | -$29,932 | ❌ Perdida |
 | liquiditycrisis | Spread: Indiana (-20.5) | Northwestern | 2.00 (50¢) | $27,021 | +$27,021 | ✅ Ganada |
 | gawtaiuwty028wa3r | Spread: Navy (-6.5) | Navy | 2.00 (50¢) | $25,500 | -$25,500 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Clemson vs. California: O/U 50.5 | Under 50.5 | 2.17 (46¢) | $25,173 | +$29,551 | ✅ Ganada |
