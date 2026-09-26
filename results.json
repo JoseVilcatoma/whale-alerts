@@ -55204,5 +55204,20 @@
     "status": "pending",
     "ultimo_fill": 1790441114,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7478,
+    "timestamp": 1790442198,
+    "username": "primm",
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "slug": "cfb-tcu-ucf-2026-09-26",
+    "title": "TCU vs. UCF",
+    "outcome": "TCU",
+    "side": "BUY",
+    "usd": 42601.206,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1790442198,
+    "fills": 1
   }
 ]

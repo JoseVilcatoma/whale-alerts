@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 12:02:35 (hora de Perú)
+Actualizado: 2026-09-26 12:04:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3672**  ($200,188,430 en total)
+- Apuestas registradas: **3673**  ($200,231,031 en total)
 - Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 467
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 467 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| primm | TCU vs. UCF | TCU | 1.67 (60¢) | $42,601 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Georgia (-13.5) | Georgia | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
 | 177-letsgo | South Alabama vs. Kentucky | Kentucky | 1.09 (92¢) | $73,599 | — | ⏳ Pendiente |
 | 177-letsgo | Texas vs. Tennessee | Texas | 1.32 (76¢) | $26,486 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 467 en total)_
 | bands1 | Clemson vs. California | California | 2.22 (45¢) | $31,752 | -$31,752 | ❌ Perdida |
 | BrotherObama | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $100,000 | +$88,679 | ✅ Ganada |
 | ethanaz | Navy vs. UAB | Navy | 1.49 (67¢) | $72,185 | -$72,185 | ❌ Perdida |
-| BrotherObama | Houston Astros vs. Athletics: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $120,000 | +$124,898 | ✅ Ganada |
