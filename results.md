@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 07:18:50 (hora de Perú)
+Actualizado: 2026-09-26 07:20:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3631**  ($198,031,983 en total)
-- Resueltas: **3605** — 2187 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **3606** — 2188 ganadas / 1418 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 466
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,680,322** sobre $196,975,376 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,948** sobre $355,100 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,653,659** sobre $197,000,994 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$7,843** sobre $355,200 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | FORTNITEMASTER888 | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | LOUD | 1.43 (70¢) | $26,942 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.17 (46¢) | $62,800 | — | ⏳ Pendiente |
 | tg-stakeqiu | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | EDward Gaming | 3.33 (30¢) | $49,958 | — | ⏳ Pendiente |
-| gvrgb326552g65 | Dota 2: Aurora vs Natus Vincere - Game 2 Winner | Natus Vincere | 2.04 (49¢) | $25,618 | — | ⏳ Pendiente |
+| gvrgb326552g65 | Dota 2: Aurora vs Natus Vincere - Game 2 Winner | Natus Vincere | 2.04 (49¢) | $25,618 | +$26,663 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: EYEBALLERS vs K27 (BO3) - 1win Private Club #1 Playoffs | K27 | 1.52 (66¢) | $79,200 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: paiN (-1.5) vs Galorys (+1.5) | Galorys | 1.35 (74¢) | $25,865 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: paiN vs Galorys (BO3) - FERJEE In House Playoffs | Galorys | 2.27 (44¢) | $30,800 | — | ⏳ Pendiente |
