@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 10:07:15 (hora de Perú)
+Actualizado: 2026-09-26 10:09:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3654**  ($198,978,404 en total)
+- Apuestas registradas: **3655**  ($199,006,904 en total)
 - Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 466
 
 ### Balance
@@ -49,8 +49,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 4 | 2 | 0 | ⚠️ 67% (6) | $1,784,240 | +$43,506 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
+| SDTrading | 22 | 26 | 3 | 46% | $1,520,320 | -$224,163 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
-| SDTrading | 22 | 26 | 2 | 46% | $1,491,820 | -$224,163 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Ball State vs. Kent State | Kent State | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | SDTrading | Spread: UNLV (-13.5) | UNLV | 1.92 (52¢) | $45,711 | — | ⏳ Pendiente |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $26,100 | — | ⏳ Pendiente |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $27,198 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | bloodmaster | Games Total: O/U 4.5 | Under 4.5 | 1.28 (78¢) | $26,847 | -$26,847 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Spread: Army (-3.5) | Temple | 2.08 (48¢) | $82,194 | -$82,194 | ❌ Perdida |
 | phonesculptor | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $171,000 | +$19,000 | ✅ Ganada |
-| HectorHuang | Spread: France (-1.5) | France | 1.96 (51¢) | $32,000 | -$32,000 | ❌ Perdida |
