@@ -54918,5 +54918,20 @@
     "status": "pending",
     "ultimo_fill": 1790433933,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7459,
+    "timestamp": 1790434850,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "cfb-unlv-akron-2026-09-26-spread-away-13pt5",
+    "title": "Spread: UNLV (-13.5)",
+    "outcome": "UNLV",
+    "side": "BUY",
+    "usd": 45711.4498,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1790434850,
+    "fills": 1
   }
 ]
