@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 09:52:44 (hora de Perú)
+Actualizado: 2026-09-26 09:54:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3651**  ($198,881,593 en total)
+- Apuestas registradas: **3652**  ($198,907,693 en total)
 - Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 466
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 44 | 38 | 2 | 54% | $4,236,631 | -$162,554 |
-| Sassy-Bucket | 34 | 39 | 1 | 47% | $3,566,872 | -$580,343 |
+| Sassy-Bucket | 34 | 39 | 2 | 47% | $3,592,972 | -$580,343 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | BrotherObama | 26 | 25 | 2 | 51% | $2,532,234 | +$291,990 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $26,100 | — | ⏳ Pendiente |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $27,198 | — | ⏳ Pendiente |
 | Kch-Temp | UCLA vs. Maryland | UCLA | 1.85 (54¢) | $26,372 | — | ⏳ Pendiente |
 | texaskid | Spread: Florida (-3.5) | Florida | 2.00 (50¢) | $29,972 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | HectorHuang | Spread: France (-1.5) | France | 1.96 (51¢) | $32,000 | -$32,000 | ❌ Perdida |
 | jaytee158 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
 | useruserlol | Will Sweden win on 2026-09-25? | Yes | 1.49 (67¢) | $26,373 | +$12,990 | ✅ Ganada |
-| Momo63 | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $57,038 | +$6,338 | ✅ Ganada |
