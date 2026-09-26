@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 13:02:13 (hora de Perú)
+Actualizado: 2026-09-26 13:04:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3676**  ($200,316,268 en total)
+- Apuestas registradas: **3677**  ($200,363,268 en total)
 - Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 468
 
 ### Balance
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | ethanaz | 22 | 8 | 0 | 73% | $1,959,537 | -$124,144 |
-| surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
+| surfandturf | 18 | 2 | 1 | 90% | $1,920,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Will Spain win on 2026-09-26? | Yes | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | magic | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northern Illinois vs. Georgia State | Georgia State | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | bredxiao | Will Spain win on 2026-09-26? | Yes | 2.08 (48¢) | $25,237 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 | HMLSF | Clemson vs. California | Clemson | 1.79 (56¢) | $29,681 | +$23,321 | ✅ Ganada |
 | KaneAnalytics | Clemson vs. California | California | 1.89 (53¢) | $30,789 | -$30,789 | ❌ Perdida |
 | ethanaz | Clemson vs. California | California | 1.92 (52¢) | $31,166 | -$31,166 | ❌ Perdida |
-| ethanaz | Clemson vs. California | California | 1.69 (59¢) | $32,725 | -$32,725 | ❌ Perdida |
