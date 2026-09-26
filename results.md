@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 10:40:02 (hora de Perú)
+Actualizado: 2026-09-26 10:42:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3657**  ($199,075,932 en total)
+- Apuestas registradas: **3660**  ($199,226,105 en total)
 - Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 30
-- Apostadores distintos: 466
+- Pendientes: 33
+- Apostadores distintos: 467
 
 ### Balance
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 44 | 38 | 2 | 54% | $4,236,631 | -$162,554 |
-| Sassy-Bucket | 34 | 39 | 3 | 47% | $3,632,300 | -$580,343 |
+| Sassy-Bucket | 34 | 39 | 4 | 47% | $3,673,300 | -$580,343 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | BrotherObama | 26 | 25 | 2 | 51% | $2,532,234 | +$291,990 |
@@ -45,8 +45,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | ethanaz | 22 | 8 | 0 | 73% | $1,959,537 | -$124,144 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
+| SmartPredictOrNot | 4 | 2 | 1 | ⚠️ 67% (6) | $1,846,413 | +$43,506 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| SmartPredictOrNot | 4 | 2 | 0 | ⚠️ 67% (6) | $1,784,240 | +$43,506 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 22 | 26 | 3 | 46% | $1,520,320 | -$224,163 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
 
-_(mostrando los 40 de mayor monto, de 466 en total)_
+_(mostrando los 40 de mayor monto, de 467 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
+| Villson | Will Faroe Islands win on 2026-09-26? | No | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
+| SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.96 (51¢) | $62,173 | — | ⏳ Pendiente |
 | martingaleking | Texas vs. Tennessee | Texas | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas vs. Tennessee | Texas | 1.52 (66¢) | $39,328 | — | ⏳ Pendiente |
 | SDTrading | Ball State vs. Kent State | Kent State | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | FlamePyro | Army vs. Temple | Army | 1.45 (69¢) | $25,199 | +$365 | 💰 Vendida antes |
 | ethanaz | Army vs. Temple | Army | 1.28 (78¢) | $36,587 | +$10,319 | ✅ Ganada |
 | KaneAnalytics | Army vs. Temple | Army | 1.33 (75¢) | $27,014 | +$9,005 | ✅ Ganada |
-| Talvez10 | Cincinnati Reds vs. Toronto Blue Jays | Toronto Blue Jays | 1.69 (59¢) | $45,112 | +$31,349 | ✅ Ganada |
-| Talvez10 | Spread: Navy (-6.5) | UAB | 2.00 (50¢) | $33,729 | +$33,729 | ✅ Ganada |
-| bloodmaster | Games Total: O/U 4.5 | Under 4.5 | 1.28 (78¢) | $26,847 | -$26,847 | ❌ Perdida |
