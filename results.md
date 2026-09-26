@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 16:19:50 (hora de Perú)
+Actualizado: 2026-09-26 16:21:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3706**  ($201,846,560 en total)
+- Apuestas registradas: **3707**  ($201,878,044 en total)
 - Resueltas: **3641** — 2215 ganadas / 1426 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 469
 
 ### Balance
@@ -54,8 +54,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
+| Talvez10 | 14 | 11 | 2 | 56% | $1,311,245 | +$244,714 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
-| Talvez10 | 14 | 11 | 1 | 56% | $1,279,761 | +$244,714 |
 | Lakersfan111 | 16 | 14 | 0 | 53% | $1,274,405 | -$101,179 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.82 (55¢) | $31,484 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ole Miss vs. Florida | Florida | 1.22 (82¢) | $32,800 | — | ⏳ Pendiente |
 | Talvez10 | UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims) | Rodolfo Bellato | 1.59 (63¢) | $29,613 | — | ⏳ Pendiente |
 | nuttypoo | Wisconsin vs. Penn State | Penn State | 1.27 (79¢) | $122,133 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | texaskid | Spread: Florida (-3.5) | Florida | 2.00 (50¢) | $29,972 | — | ⏳ Pendiente |
 | phonesculptor | Wake Forest vs. Louisville | Louisville | 1.23 (81¢) | $36,183 | -$36,183 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Texas (-5.5) | Tennessee | 1.96 (51¢) | $25,000 | +$24,020 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
