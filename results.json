@@ -55411,7 +55411,7 @@
     "side": "BUY",
     "usd": 28072.3575,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790450497,
     "fills": 1
   },
@@ -55426,7 +55426,7 @@
     "side": "BUY",
     "usd": 108541.1685,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790450878,
     "fills": 2
   },
@@ -55863,6 +55863,21 @@
     "odds_at_bet": 77,
     "status": "pending",
     "ultimo_fill": 1790464957,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7587,
+    "timestamp": 1790465621,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-tulsa-ark-2026-09-26",
+    "title": "Tulsa vs. Arkansas",
+    "outcome": "Arkansas",
+    "side": "BUY",
+    "usd": 131976.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1790465621,
     "fills": 1
   }
 ]

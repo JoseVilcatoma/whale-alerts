@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 18:31:54 (hora de Perú)
+Actualizado: 2026-09-26 18:33:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3716**  ($202,312,635 en total)
-- Resueltas: **3671** — 2231 ganadas / 1440 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Apuestas registradas: **3717**  ($202,444,611 en total)
+- Resueltas: **3673** — 2233 ganadas / 1440 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,580,125** sobre $200,185,056 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$7,085** sobre $361,700 (ROI **-2.0%**)
+- **Resultado de los apostadores: -$2,536,491** sobre $200,321,669 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$7,020** sobre $361,900 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Sassy-Bucket | 41 | 42 | 8 | 49% | $4,443,378 | -$695,790 |
+| Sassy-Bucket | 43 | 42 | 7 | 51% | $4,575,354 | -$652,156 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Tulsa vs. Arkansas | Arkansas | 1.39 (72¢) | $131,976 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Brady Hiestand vs. Rinya Nakamura (Bantamweight, Main Card) | Rinya Nakamura | 1.30 (77¢) | $93,810 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $51,473 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $31,908 | — | ⏳ Pendiente |
@@ -100,8 +101,8 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | texaskid | Utah vs. Iowa State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $47,830 | -$47,830 | ❌ Perdida |
 | alwaysfade | Ole Miss vs. Florida | Florida | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | KaneAnalytics | Wake Forest vs. Louisville | Wake Forest | 1.61 (62¢) | $26,040 | +$15,960 | ✅ Ganada |
-| Sassy-Bucket | Utah vs. Iowa State | Utah | 1.32 (76¢) | $108,541 | — | ⏳ Pendiente |
-| Sassy-Bucket | Utah vs. Iowa State | Utah | 1.33 (75¢) | $28,072 | — | ⏳ Pendiente |
+| Sassy-Bucket | Utah vs. Iowa State | Utah | 1.32 (76¢) | $108,541 | +$34,276 | ✅ Ganada |
+| Sassy-Bucket | Utah vs. Iowa State | Utah | 1.33 (75¢) | $28,072 | +$9,357 | ✅ Ganada |
 | Sassy-Bucket | TCU vs. UCF | TCU | 1.61 (62¢) | $60,901 | -$60,901 | ❌ Perdida |
 | texaskid | Ole Miss vs. Florida | Florida | 1.61 (62¢) | $78,032 | — | ⏳ Pendiente |
 | Sassy-Bucket | Ole Miss vs. Florida | Ole Miss | 2.63 (38¢) | $67,450 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | Villson | Will Faroe Islands win on 2026-09-26? | No | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
 | SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.82 (55¢) | $185,520 | -$185,520 | ❌ Perdida |
-| martingaleking | Texas vs. Tennessee | Texas | 1.52 (66¢) | $29,700 | +$15,300 | ✅ Ganada |
