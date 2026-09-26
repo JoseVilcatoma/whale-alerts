@@ -15,10 +15,6 @@
     "username": "totoro3miyazaki",
     "added_at": 1789323603.3408208
   },
-  "0x1465b79bff7992bc703e1aafb3683b1089647072": {
-    "username": "JnStrtPrdctnMrkts",
-    "added_at": 1789349451.6111715
-  },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1789414928.4822145
@@ -30,14 +26,6 @@
   "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563": {
     "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
     "added_at": 1789641974.7111
-  },
-  "0x63cf8544631c31e9fcea0b02141dd24d01d6e4d0": {
-    "username": "halvanicus",
-    "added_at": 1789695342.1723082
-  },
-  "0x369f46433349a57cd6d08abf2819da737c09873e": {
-    "username": "kindar",
-    "added_at": 1789695342.1723082
   },
   "0xd570e634aeb745d6501566dba5f81a555cc7e4f8": {
     "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
@@ -282,5 +270,17 @@
   "0x5a218c7ad04135830a45c41aaed7294df7809318": {
     "username": "balthazar",
     "added_at": 1790381717.5101626
+  },
+  "0x9f2fe025f84839ca81dd8e0338892605702d2ca8": {
+    "username": "surfandturf",
+    "added_at": 1790382618.602702
+  },
+  "0xd1c769317bd15de7768a70d0214cf0bbcc531d2b": {
+    "username": "033033033",
+    "added_at": 1790382618.602702
+  },
+  "0xa2cced8bfae7d645f7f437fb76becf2fcbb70cbc": {
+    "username": "justwins",
+    "added_at": 1790382618.602702
   }
 }
