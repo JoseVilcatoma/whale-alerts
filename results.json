@@ -55654,5 +55654,20 @@
     "status": "pending",
     "ultimo_fill": 1790455584,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7537,
+    "timestamp": 1790455900,
+    "username": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "slug": "cfb-sfl-bowlgr-2026-09-26-spread-away-18pt5",
+    "title": "Spread: South Florida (-18.5)",
+    "outcome": "Bowling Green",
+    "side": "BUY",
+    "usd": 28744.409998999996,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1790455900,
+    "fills": 1
   }
 ]
