@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 18:25:45 (hora de Perú)
+Actualizado: 2026-09-26 18:27:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3716**  ($202,312,635 en total)
-- Resueltas: **3665** — 2230 ganadas / 1435 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **3666** — 2231 ganadas / 1435 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,449,063** sobre $199,951,953 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,689** sobre $361,100 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$2,397,023** sobre $200,001,953 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,585** sobre $361,200 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -115,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northern Illinois vs. Georgia State | Georgia State | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
 | bredxiao | Will Spain win on 2026-09-26? | Yes | 2.08 (48¢) | $25,237 | +$27,340 | ✅ Ganada |
 | primm | TCU vs. UCF | TCU | 1.67 (60¢) | $42,601 | -$42,601 | ❌ Perdida |
-| Donkey14 | Spread: Georgia (-13.5) | Georgia | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
+| Donkey14 | Spread: Georgia (-13.5) | Georgia | 2.04 (49¢) | $50,000 | +$52,041 | ✅ Ganada |
 | 177-letsgo | South Alabama vs. Kentucky | Kentucky | 1.09 (92¢) | $73,599 | +$6,400 | ✅ Ganada |
 | 177-letsgo | Texas vs. Tennessee | Texas | 1.32 (76¢) | $26,486 | +$8,364 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.19 (84¢) | $35,283 | +$6,721 | ✅ Ganada |
