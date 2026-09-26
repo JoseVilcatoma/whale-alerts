@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 18:29:50 (hora de Perú)
+Actualizado: 2026-09-26 18:31:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3716**  ($202,312,635 en total)
-- Resueltas: **3666** — 2231 ganadas / 1435 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Resueltas: **3671** — 2231 ganadas / 1440 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,397,023** sobre $200,001,953 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,585** sobre $361,200 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,580,125** sobre $200,185,056 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$7,085** sobre $361,700 (ROI **-2.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
-| ethanaz | 22 | 8 | 6 | 73% | $2,226,964 | -$124,144 |
+| ethanaz | 22 | 10 | 4 | 69% | $2,226,964 | -$199,010 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | surfandturf | 20 | 2 | 0 | 91% | $1,965,560 | +$439,439 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
-| Talvez10 | 14 | 12 | 1 | 54% | $1,311,245 | +$213,230 |
+| Talvez10 | 14 | 13 | 0 | 52% | $1,311,245 | +$183,617 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | Lakersfan111 | 16 | 14 | 0 | 53% | $1,274,405 | -$101,179 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -82,14 +82,14 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | jaytee158 | Delaware vs. Virginia | Virginia | 1.09 (92¢) | $37,023 | — | ⏳ Pendiente |
 | Talvez10 | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.82 (55¢) | $31,484 | -$31,484 | ❌ Perdida |
 | TAIWANNUMBERONE | Ole Miss vs. Florida | Florida | 1.22 (82¢) | $32,800 | — | ⏳ Pendiente |
-| Talvez10 | UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims) | Rodolfo Bellato | 1.59 (63¢) | $29,613 | — | ⏳ Pendiente |
+| Talvez10 | UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims) | Rodolfo Bellato | 1.59 (63¢) | $29,613 | -$29,613 | ❌ Perdida |
 | nuttypoo | Wisconsin vs. Penn State | Penn State | 1.27 (79¢) | $122,133 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: South Florida (-18.5) | Bowling Green | 1.89 (53¢) | $28,744 | — | ⏳ Pendiente |
 | texaskid | Spread: LSU (-8.5) | LSU | 2.00 (50¢) | $87,553 | — | ⏳ Pendiente |
-| ethanaz | Iowa vs. Michigan | Michigan | 1.35 (74¢) | $30,194 | — | ⏳ Pendiente |
-| ethanaz | Iowa vs. Michigan | Michigan | 1.39 (72¢) | $44,672 | — | ⏳ Pendiente |
+| ethanaz | Iowa vs. Michigan | Michigan | 1.35 (74¢) | $30,194 | -$30,194 | ❌ Perdida |
+| ethanaz | Iowa vs. Michigan | Michigan | 1.39 (72¢) | $44,672 | -$44,672 | ❌ Perdida |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.19 (84¢) | $54,473 | — | ⏳ Pendiente |
-| KaneAnalytics | Iowa vs. Michigan | Michigan | 1.45 (69¢) | $30,794 | — | ⏳ Pendiente |
+| KaneAnalytics | Iowa vs. Michigan | Michigan | 1.45 (69¢) | $30,794 | -$30,794 | ❌ Perdida |
 | SDTrading | Spread: Nebraska (-6.5) | Michigan State | 1.96 (51¢) | $33,563 | — | ⏳ Pendiente |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.28 (78¢) | $36,763 | — | ⏳ Pendiente |
 | phonesculptor | South Florida vs. Bowling Green | South Florida | 1.12 (89¢) | $62,935 | — | ⏳ Pendiente |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | ethanaz | Ole Miss vs. Florida | Florida | 1.56 (64¢) | $29,292 | — | ⏳ Pendiente |
 | SharkbetX-com | Will England win on 2026-09-26? | Yes | 1.82 (55¢) | $28,909 | -$28,909 | ❌ Perdida |
 | Sassy-Bucket | Vanderbilt vs. Auburn | Vanderbilt | 4.17 (24¢) | $29,417 | — | ⏳ Pendiente |
-| texaskid | Utah vs. Iowa State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $47,830 | — | ⏳ Pendiente |
+| texaskid | Utah vs. Iowa State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $47,830 | -$47,830 | ❌ Perdida |
 | alwaysfade | Ole Miss vs. Florida | Florida | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | KaneAnalytics | Wake Forest vs. Louisville | Wake Forest | 1.61 (62¢) | $26,040 | +$15,960 | ✅ Ganada |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.32 (76¢) | $108,541 | — | ⏳ Pendiente |
