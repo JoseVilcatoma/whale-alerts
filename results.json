@@ -54573,5 +54573,20 @@
     "status": "pending",
     "ultimo_fill": 1790424509,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7429,
+    "timestamp": 1790424727,
+    "username": "FORTNITEMASTER888",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "val-loud-edg1-2026-09-26",
+    "title": "Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B",
+    "outcome": "LOUD",
+    "side": "BUY",
+    "usd": 26941.985,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1790424727,
+    "fills": 1
   }
 ]
