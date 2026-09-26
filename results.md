@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 12:35:30 (hora de Perú)
+Actualizado: 2026-09-26 12:37:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3675**  ($200,286,268 en total)
+- Apuestas registradas: **3676**  ($200,316,268 en total)
 - Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 468
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 34 | 39 | 8 | 47% | $3,846,871 | -$580,343 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| BrotherObama | 26 | 25 | 2 | 51% | $2,532,234 | +$291,990 |
+| BrotherObama | 26 | 25 | 3 | 51% | $2,562,234 | +$291,990 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 37 | 23 | 1 | 62% | $2,433,850 | -$515,986 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | magic | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northern Illinois vs. Georgia State | Georgia State | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | bredxiao | Will Spain win on 2026-09-26? | Yes | 2.08 (48¢) | $25,237 | — | ⏳ Pendiente |
 | primm | TCU vs. UCF | TCU | 1.67 (60¢) | $42,601 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 | KaneAnalytics | Clemson vs. California | California | 1.89 (53¢) | $30,789 | -$30,789 | ❌ Perdida |
 | ethanaz | Clemson vs. California | California | 1.92 (52¢) | $31,166 | -$31,166 | ❌ Perdida |
 | ethanaz | Clemson vs. California | California | 1.69 (59¢) | $32,725 | -$32,725 | ❌ Perdida |
-| bands1 | Clemson vs. California | California | 2.22 (45¢) | $31,752 | -$31,752 | ❌ Perdida |
