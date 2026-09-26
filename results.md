@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 18:09:18 (hora de Perú)
+Actualizado: 2026-09-26 18:11:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3713**  ($202,135,444 en total)
-- Resueltas: **3662** — 2229 ganadas / 1433 perdidas (**61%** de acierto)
+- Apuestas registradas: **3714**  ($202,167,352 en total)
+- Resueltas: **3663** — 2230 ganadas / 1433 perdidas (**61%** de acierto)
 - Pendientes: 33
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,380,702** sobre $199,807,199 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,575** sobre $360,800 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,345,562** sobre $199,848,452 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,489** sobre $360,900 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Sassy-Bucket | 41 | 41 | 6 | 50% | $4,266,188 | -$634,889 |
+| Sassy-Bucket | 41 | 41 | 7 | 50% | $4,298,096 | -$634,889 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $31,908 | — | ⏳ Pendiente |
 | phonesculptor | Kennesaw State vs. Arkansas State | Arkansas State | 1.43 (70¢) | $31,351 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Canada vs. Chile: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $30,238 | — | ⏳ Pendiente |
 | Sassy-Bucket | Louisiana vs. Charlotte | Louisiana | 1.27 (79¢) | $84,731 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | martingaleking | Texas vs. Tennessee | Texas | 1.52 (66¢) | $29,700 | +$15,300 | ✅ Ganada |
 | Sassy-Bucket | Texas vs. Tennessee | Texas | 1.52 (66¢) | $39,328 | +$20,260 | ✅ Ganada |
 | SDTrading | Ball State vs. Kent State | Kent State | 1.75 (57¢) | $28,500 | +$21,500 | ✅ Ganada |
-| SDTrading | Spread: UNLV (-13.5) | UNLV | 1.92 (52¢) | $45,711 | +$42,195 | ✅ Ganada |
