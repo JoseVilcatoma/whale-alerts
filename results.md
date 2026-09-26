@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 20:42:19 (hora de Perú)
+Actualizado: 2026-09-25 22:00:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3615**  ($197,439,535 en total)
-- Resueltas: **3585** — 2175 ganadas / 1410 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **3591** — 2178 ganadas / 1413 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,912,865** sobre $196,081,384 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$8,104** sobre $353,100 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,886,724** sobre $196,387,844 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$8,146** sobre $353,700 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,17 +33,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 57 | 40 | 2 | 59% | $5,396,139 | -$367,845 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 43 | 38 | 0 | 53% | $4,100,766 | -$203,354 |
-| Sassy-Bucket | 34 | 38 | 1 | 47% | $3,539,674 | -$550,411 |
+| Sassy-Bucket | 34 | 39 | 0 | 47% | $3,539,674 | -$580,343 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| BrotherObama | 24 | 25 | 3 | 49% | $2,502,234 | +$78,413 |
+| BrotherObama | 25 | 25 | 2 | 50% | $2,502,234 | +$167,092 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 37 | 23 | 0 | 62% | $2,408,850 | -$515,986 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
-| ethanaz | 22 | 5 | 1 | 81% | $1,895,646 | +$11,932 |
+| ethanaz | 22 | 6 | 0 | 79% | $1,895,646 | -$60,253 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | SmartPredictOrNot | 4 | 2 | 0 | ⚠️ 67% (6) | $1,784,240 | +$43,506 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
-| Talvez10 | 12 | 11 | 2 | 52% | $1,250,148 | +$179,635 |
+| Talvez10 | 14 | 11 | 0 | 56% | $1,250,148 | +$244,714 |
 | Lakersfan111 | 15 | 14 | 0 | 52% | $1,247,463 | -$112,725 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
@@ -71,23 +71,23 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| BrotherObama | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $100,000 | — | ⏳ Pendiente |
-| ethanaz | Navy vs. UAB | Navy | 1.49 (67¢) | $72,185 | — | ⏳ Pendiente |
+| BrotherObama | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $100,000 | +$88,679 | ✅ Ganada |
+| ethanaz | Navy vs. UAB | Navy | 1.49 (67¢) | $72,185 | -$72,185 | ❌ Perdida |
 | BrotherObama | Houston Astros vs. Athletics: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $120,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Northwestern vs. Indiana | Indiana | 1.10 (91¢) | $27,255 | — | ⏳ Pendiente |
 | liquiditycrisis | Clemson vs. California | Clemson | 1.79 (56¢) | $118,531 | — | ⏳ Pendiente |
 | predictionlegend | Will CF Monterrey win on 2026-09-25? | No | 1.72 (58¢) | $25,287 | — | ⏳ Pendiente |
-| Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Colorado Rockies | 3.23 (31¢) | $29,932 | — | ⏳ Pendiente |
+| Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Colorado Rockies | 3.23 (31¢) | $29,932 | -$29,932 | ❌ Perdida |
 | liquiditycrisis | Spread: Indiana (-20.5) | Northwestern | 2.00 (50¢) | $27,021 | — | ⏳ Pendiente |
-| gawtaiuwty028wa3r | Spread: Navy (-6.5) | Navy | 2.00 (50¢) | $25,500 | — | ⏳ Pendiente |
+| gawtaiuwty028wa3r | Spread: Navy (-6.5) | Navy | 2.00 (50¢) | $25,500 | -$25,500 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Clemson vs. California: O/U 50.5 | Under 50.5 | 2.17 (46¢) | $25,173 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FlyQuest vs Shopify Rebellion (BO5) - LCS Playoffs | FlyQuest | 1.25 (80¢) | $32,091 | -$32,091 | ❌ Perdida |
 | FlamePyro | Army vs. Temple | Temple | 2.63 (38¢) | $31,418 | -$31,418 | ❌ Perdida |
 | FlamePyro | Army vs. Temple | Army | 1.45 (69¢) | $25,199 | +$365 | 💰 Vendida antes |
 | ethanaz | Army vs. Temple | Army | 1.28 (78¢) | $36,587 | +$10,319 | ✅ Ganada |
 | KaneAnalytics | Army vs. Temple | Army | 1.33 (75¢) | $27,014 | +$9,005 | ✅ Ganada |
-| Talvez10 | Cincinnati Reds vs. Toronto Blue Jays | Toronto Blue Jays | 1.69 (59¢) | $45,112 | — | ⏳ Pendiente |
-| Talvez10 | Spread: Navy (-6.5) | UAB | 2.00 (50¢) | $33,729 | — | ⏳ Pendiente |
+| Talvez10 | Cincinnati Reds vs. Toronto Blue Jays | Toronto Blue Jays | 1.69 (59¢) | $45,112 | +$31,349 | ✅ Ganada |
+| Talvez10 | Spread: Navy (-6.5) | UAB | 2.00 (50¢) | $33,729 | +$33,729 | ✅ Ganada |
 | bloodmaster | Games Total: O/U 4.5 | Under 4.5 | 1.28 (78¢) | $26,847 | -$26,847 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Spread: Army (-3.5) | Temple | 2.08 (48¢) | $82,194 | -$82,194 | ❌ Perdida |
 | phonesculptor | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $171,000 | +$19,000 | ✅ Ganada |
