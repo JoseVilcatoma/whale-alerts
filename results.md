@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 13:17:09 (hora de Perú)
+Actualizado: 2026-09-26 13:19:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3678**  ($200,408,268 en total)
+- Apuestas registradas: **3679**  ($200,521,942 en total)
 - Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 468
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
-| ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
+| ripley86alien | 30 | 14 | 1 | 68% | $4,840,027 | +$1,750,969 |
 | Diabolical-Prize | 44 | 38 | 2 | 54% | $4,236,631 | -$162,554 |
 | Sassy-Bucket | 34 | 39 | 8 | 47% | $3,846,871 | -$580,343 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | surfandturf | Will Spain win on 2026-09-26? | Yes | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
+| ripley86alien | Will Spain win on 2026-09-26? | No | 1.89 (53¢) | $113,674 | — | ⏳ Pendiente |
 | surfandturf | Will Spain win on 2026-09-26? | Yes | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | magic | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northern Illinois vs. Georgia State | Georgia State | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 | phonesculptor | Will North Macedonia win on 2026-09-26? | No | 1.10 (91¢) | $38,279 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Clemson vs. California | Clemson | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
 | HMLSF | Clemson vs. California | Clemson | 1.79 (56¢) | $29,681 | +$23,321 | ✅ Ganada |
-| KaneAnalytics | Clemson vs. California | California | 1.89 (53¢) | $30,789 | -$30,789 | ❌ Perdida |
