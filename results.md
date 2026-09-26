@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 22:02:23 (hora de Perú)
+Actualizado: 2026-09-25 22:04:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3615**  ($197,439,535 en total)
+- Apuestas registradas: **3617**  ($197,504,013 en total)
 - Resueltas: **3591** — 2178 ganadas / 1413 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 9
 - Apostadores distintos: 464
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
-| ethanaz | 22 | 6 | 0 | 79% | $1,895,646 | -$60,253 |
+| ethanaz | 22 | 6 | 1 | 79% | $1,928,371 | -$60,253 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | SmartPredictOrNot | 4 | 2 | 0 | ⚠️ 67% (6) | $1,784,240 | +$43,506 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Clemson vs. California | California | 1.69 (59¢) | $32,725 | — | ⏳ Pendiente |
+| bands1 | Clemson vs. California | California | 2.22 (45¢) | $31,752 | — | ⏳ Pendiente |
 | BrotherObama | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $100,000 | +$88,679 | ✅ Ganada |
 | ethanaz | Navy vs. UAB | Navy | 1.49 (67¢) | $72,185 | -$72,185 | ❌ Perdida |
 | BrotherObama | Houston Astros vs. Athletics: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $120,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | yoyoyoyoer | Falcons vs. Packers | Falcons | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
 | ethanaz | Falcons vs. Packers | Falcons | 2.33 (43¢) | $31,473 | +$41,720 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.69 (59¢) | $160,260 | -$160,260 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.67 (60¢) | $41,968 | -$41,968 | ❌ Perdida |
-| ndb1 | Falcons vs. Packers: O/U 49.5 | Under 49.5 | 1.82 (55¢) | $33,000 | +$27,000 | ✅ Ganada |
