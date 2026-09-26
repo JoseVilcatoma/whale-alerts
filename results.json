@@ -55128,5 +55128,35 @@
     "status": "pending",
     "ultimo_fill": 1790438293,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7473,
+    "timestamp": 1790438334,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-tx-tenn-2026-09-26",
+    "title": "Texas vs. Tennessee",
+    "outcome": "Texas",
+    "side": "BUY",
+    "usd": 29937.7,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1790438334,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7474,
+    "timestamp": 1790438380,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-unlv-akron-2026-09-26",
+    "title": "UNLV vs. Akron",
+    "outcome": "UNLV",
+    "side": "BUY",
+    "usd": 35282.920399999995,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1790438380,
+    "fills": 1
   }
 ]
