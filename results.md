@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 18:46:16 (hora de Perú)
+Actualizado: 2026-09-26 18:48:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3718**  ($202,478,400 en total)
+- Apuestas registradas: **3719**  ($202,511,396 en total)
 - Resueltas: **3682** — 2241 ganadas / 1441 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 469
 
 ### Balance
@@ -40,9 +40,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 38 | 23 | 0 | 62% | $2,433,850 | -$491,966 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
+| ethanaz | 26 | 10 | 1 | 72% | $2,259,961 | -$130,917 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
-| ethanaz | 26 | 10 | 0 | 72% | $2,226,964 | -$130,917 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | surfandturf | 20 | 2 | 0 | 91% | $1,965,560 | +$439,439 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Texas A&M vs. LSU: O/U 52.5 | Under 52.5 | 2.00 (50¢) | $32,997 | — | ⏳ Pendiente |
 | Talvez10 | Houston Astros vs. Athletics | Athletics | 2.50 (40¢) | $33,789 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tulsa vs. Arkansas | Arkansas | 1.39 (72¢) | $131,976 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Brady Hiestand vs. Rinya Nakamura (Bantamweight, Main Card) | Rinya Nakamura | 1.30 (77¢) | $93,810 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.69 (59¢) | $265,754 | -$265,754 | ❌ Perdida |
 | Anjun | Will Faroe Islands win on 2026-09-26? | No | 2.33 (43¢) | $85,111 | +$112,821 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
-| Villson | Will Faroe Islands win on 2026-09-26? | No | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
