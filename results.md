@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 16:13:44 (hora de Perú)
+Actualizado: 2026-09-26 16:15:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3704**  ($201,784,147 en total)
+- Apuestas registradas: **3705**  ($201,813,760 en total)
 - Resueltas: **3641** — 2215 ganadas / 1426 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 469
 
 ### Balance
@@ -55,8 +55,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
+| Talvez10 | 14 | 11 | 1 | 56% | $1,279,761 | +$244,714 |
 | Lakersfan111 | 16 | 14 | 0 | 53% | $1,274,405 | -$101,179 |
-| Talvez10 | 14 | 11 | 0 | 56% | $1,250,148 | +$244,714 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims) | Rodolfo Bellato | 1.59 (63¢) | $29,613 | — | ⏳ Pendiente |
 | nuttypoo | Wisconsin vs. Penn State | Penn State | 1.27 (79¢) | $122,133 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: South Florida (-18.5) | Bowling Green | 1.89 (53¢) | $28,744 | — | ⏳ Pendiente |
 | texaskid | Spread: LSU (-8.5) | LSU | 2.00 (50¢) | $87,553 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | ferrariChampions2026 | Spread: Texas (-5.5) | Tennessee | 1.96 (51¢) | $25,000 | +$24,020 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
 | Berniepaidoff | Texas vs. Tennessee | Texas | 1.52 (66¢) | $50,000 | +$25,758 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: LY (-2.5) vs Shopify Rebellion (+2.5) | Shopify Rebellion | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |

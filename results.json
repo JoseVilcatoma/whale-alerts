@@ -55684,5 +55684,20 @@
     "status": "pending",
     "ultimo_fill": 1790456084,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7542,
+    "timestamp": 1790457310,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-cedwar-rod3-2026-09-26",
+    "title": "UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims)",
+    "outcome": "Rodolfo Bellato",
+    "side": "BUY",
+    "usd": 29612.898,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1790457310,
+    "fills": 1
   }
 ]
