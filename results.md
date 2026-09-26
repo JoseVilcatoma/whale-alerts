@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 14:22:52 (hora de Perú)
+Actualizado: 2026-09-26 14:24:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3686**  ($200,878,761 en total)
-- Resueltas: **3617** — 2197 ganadas / 1420 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Resueltas: **3618** — 2197 ganadas / 1421 perdidas (**61%** de acierto)
+- Pendientes: 50
 - Apostadores distintos: 468
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,594,997** sobre $197,425,830 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$7,719** sobre $356,300 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,620,863** sobre $197,451,695 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$7,819** sobre $356,400 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 14 | 1 | 68% | $4,840,027 | +$1,750,969 |
-| Diabolical-Prize | 44 | 39 | 1 | 53% | $4,236,631 | -$193,354 |
+| Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
 | Sassy-Bucket | 39 | 39 | 6 | 50% | $4,003,294 | -$548,437 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
