@@ -54783,5 +54783,20 @@
     "status": "pending",
     "ultimo_fill": 1790432203,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7449,
+    "timestamp": 1790432991,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ly-sr-2026-09-26-game-handicap-away-2pt5",
+    "title": "Game Handicap: LY (-2.5) vs Shopify Rebellion (+2.5)",
+    "outcome": "Shopify Rebellion",
+    "side": "BUY",
+    "usd": 27000.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1790432991,
+    "fills": 1
   }
 ]

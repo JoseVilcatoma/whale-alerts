@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 09:28:18 (hora de Perú)
+Actualizado: 2026-09-26 09:30:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3644**  ($198,649,168 en total)
+- Apuestas registradas: **3645**  ($198,676,168 en total)
 - Resueltas: **3609** — 2190 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 466
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 260 | 137 | 4 | 65% | $26,294,992 | +$673,432 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 260 | 137 | 5 | 65% | $26,321,992 | +$673,432 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: LY (-2.5) vs Shopify Rebellion (+2.5) | Shopify Rebellion | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | Kosherlocks | Wake Forest vs. Louisville | Louisville | 1.22 (82¢) | $30,000 | — | ⏳ Pendiente |
 | texaskid | Spread: Auburn (-9.5) | Auburn | 1.92 (52¢) | $62,695 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: Walczaki vs BET-M 33 (BO3) - NODWIN Clutch Series Playoffs | BET-M 33 | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | Ne8om | Will Sweden win on 2026-09-25? | Yes | 1.52 (66¢) | $33,338 | +$17,174 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | M80 | 1.41 (71¢) | $53,219 | +$21,738 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: magic vs EYEBALLERS (BO3) - 1win Private Club #1 Playoffs | magic | 1.37 (73¢) | $94,900 | +$35,100 | ✅ Ganada |
-| tg-stakeqiu | Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs | Xtreme Gaming | 1.69 (59¢) | $40,000 | -$40,000 | ❌ Perdida |
