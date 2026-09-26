@@ -55354,5 +55354,35 @@
     "status": "pending",
     "ultimo_fill": 1790449718,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7489,
+    "timestamp": 1790450093,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-miss-fl-2026-09-26",
+    "title": "Ole Miss vs. Florida",
+    "outcome": "Ole Miss",
+    "side": "BUY",
+    "usd": 67450.0,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1790450161,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 7490,
+    "timestamp": 1790450172,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "cfb-miss-fl-2026-09-26",
+    "title": "Ole Miss vs. Florida",
+    "outcome": "Florida",
+    "side": "BUY",
+    "usd": 78031.6934,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1790450172,
+    "fills": 1
   }
 ]
