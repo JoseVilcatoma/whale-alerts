@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 05:58:49 (hora de Perú)
+Actualizado: 2026-09-26 06:00:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3627**  ($197,866,665 en total)
+- Apuestas registradas: **3628**  ($197,892,283 en total)
 - Resueltas: **3604** — 2186 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 6
-- Apostadores distintos: 465
+- Pendientes: 7
+- Apostadores distintos: 466
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
 
-_(mostrando los 40 de mayor monto, de 465 en total)_
+_(mostrando los 40 de mayor monto, de 466 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gvrgb326552g65 | Dota 2: Aurora vs Natus Vincere - Game 2 Winner | Natus Vincere | 2.04 (49¢) | $25,618 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: EYEBALLERS vs K27 (BO3) - 1win Private Club #1 Playoffs | K27 | 1.52 (66¢) | $79,200 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: paiN (-1.5) vs Galorys (+1.5) | Galorys | 1.35 (74¢) | $25,865 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: paiN vs Galorys (BO3) - FERJEE In House Playoffs | Galorys | 2.27 (44¢) | $30,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 465 en total)_
 | Kev69 | Liberty vs. Coastal Carolina | Liberty | 1.39 (72¢) | $26,000 | +$10,111 | ✅ Ganada |
 | takeormake | Falcons vs. Packers | Falcons | 1.27 (79¢) | $37,677 | +$10,016 | ✅ Ganada |
 | insidiousidiot | Falcons vs. Packers | Falcons | 1.25 (80¢) | $27,000 | +$6,750 | ✅ Ganada |
-| kkookkoo | Los Angeles Angels vs. Seattle Mariners | Seattle Mariners | 1.25 (80¢) | $31,908 | -$31,908 | ❌ Perdida |
