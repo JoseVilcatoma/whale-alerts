@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 14:31:06 (hora de Perú)
+Actualizado: 2026-09-26 14:33:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3688**  ($201,013,342 en total)
+- Apuestas registradas: **3689**  ($201,044,842 en total)
 - Resueltas: **3618** — 2197 ganadas / 1421 perdidas (**61%** de acierto)
-- Pendientes: 52
-- Apostadores distintos: 468
+- Pendientes: 53
+- Apostadores distintos: 469
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
 
-_(mostrando los 40 de mayor monto, de 468 en total)_
+_(mostrando los 40 de mayor monto, de 469 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| alwaysfade | Ole Miss vs. Florida | Florida | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | KaneAnalytics | Wake Forest vs. Louisville | Wake Forest | 1.61 (62¢) | $26,040 | — | ⏳ Pendiente |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.32 (76¢) | $108,541 | — | ⏳ Pendiente |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.33 (75¢) | $28,072 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.13 (47¢) | $28,630 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | LOUD | 1.43 (70¢) | $26,942 | +$11,547 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.17 (46¢) | $62,800 | — | ⏳ Pendiente |
-| tg-stakeqiu | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | EDward Gaming | 3.33 (30¢) | $49,958 | -$49,958 | ❌ Perdida |

@@ -55444,5 +55444,20 @@
     "status": "pending",
     "ultimo_fill": 1790451024,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7503,
+    "timestamp": 1790451136,
+    "username": "alwaysfade",
+    "wallet": "0xe5b70fd855af9258d9463992e4f1ed7987905ee3",
+    "slug": "cfb-miss-fl-2026-09-26",
+    "title": "Ole Miss vs. Florida",
+    "outcome": "Florida",
+    "side": "BUY",
+    "usd": 31500.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1790451136,
+    "fills": 1
   }
 ]
