@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 14:59:56 (hora de Perú)
+Actualizado: 2026-09-26 15:02:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3693**  ($201,180,291 en total)
+- Apuestas registradas: **3694**  ($201,252,324 en total)
 - Resueltas: **3620** — 2198 ganadas / 1422 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 469
 
 ### Balance
@@ -43,8 +43,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 4 | 2 | 2 | ⚠️ 67% (6) | $2,235,514 | +$43,506 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
+| ethanaz | 22 | 8 | 2 | 73% | $2,060,862 | -$124,144 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
-| ethanaz | 22 | 8 | 1 | 73% | $1,988,829 | -$124,144 |
 | surfandturf | 18 | 2 | 2 | 90% | $1,965,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Ole Miss vs. Florida | Florida | 1.43 (70¢) | $72,033 | — | ⏳ Pendiente |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.56 (64¢) | $29,292 | — | ⏳ Pendiente |
 | SharkbetX-com | Will England win on 2026-09-26? | Yes | 1.82 (55¢) | $28,909 | — | ⏳ Pendiente |
 | Sassy-Bucket | Vanderbilt vs. Auburn | Vanderbilt | 4.17 (24¢) | $29,417 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.00 (50¢) | $95,373 | — | ⏳ Pendiente |
 | Kch-Temp | Oklahoma vs. Georgia: O/U 43.5 | Over 43.5 | 1.85 (54¢) | $33,616 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.00 (50¢) | $77,828 | — | ⏳ Pendiente |
-| Kch-Temp | UCLA vs. Maryland | UCLA | 1.85 (54¢) | $84,236 | — | ⏳ Pendiente |
