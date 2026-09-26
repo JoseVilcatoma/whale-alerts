@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 20:01:00 (hora de Perú)
+Actualizado: 2026-09-25 20:03:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3611**  ($197,120,095 en total)
-- Resueltas: **3584** — 2175 ganadas / 1409 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **3585** — 2175 ganadas / 1410 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,886,018** sobre $196,054,538 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$8,004** sobre $353,000 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,912,865** sobre $196,081,384 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$8,104** sobre $353,100 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | KaneAnalytics | Army vs. Temple | Army | 1.33 (75¢) | $27,014 | +$9,005 | ✅ Ganada |
 | Talvez10 | Cincinnati Reds vs. Toronto Blue Jays | Toronto Blue Jays | 1.69 (59¢) | $45,112 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Navy (-6.5) | UAB | 2.00 (50¢) | $33,729 | — | ⏳ Pendiente |
-| bloodmaster | Games Total: O/U 4.5 | Under 4.5 | 1.28 (78¢) | $26,847 | — | ⏳ Pendiente |
+| bloodmaster | Games Total: O/U 4.5 | Under 4.5 | 1.28 (78¢) | $26,847 | -$26,847 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Spread: Army (-3.5) | Temple | 2.08 (48¢) | $82,194 | -$82,194 | ❌ Perdida |
 | phonesculptor | Will Türkiye win on 2026-09-25? | No | 1.11 (90¢) | $171,000 | +$19,000 | ✅ Ganada |
 | HectorHuang | Spread: France (-1.5) | France | 1.96 (51¢) | $32,000 | -$32,000 | ❌ Perdida |
