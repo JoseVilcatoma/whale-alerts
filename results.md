@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 19:56:56 (hora de Perú)
+Actualizado: 2026-09-25 19:58:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3611**  ($197,120,095 en total)
-- Resueltas: **3583** — 2175 ganadas / 1408 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **3584** — 2175 ganadas / 1409 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,853,927** sobre $196,022,447 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$7,904** sobre $352,900 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,886,018** sobre $196,054,538 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$8,004** sobre $353,000 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 136 | 4 | 66% | $26,225,970 | +$690,722 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 137 | 3 | 65% | $26,225,970 | +$658,632 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | liquiditycrisis | Spread: Indiana (-20.5) | Northwestern | 2.00 (50¢) | $27,021 | — | ⏳ Pendiente |
 | gawtaiuwty028wa3r | Spread: Navy (-6.5) | Navy | 2.00 (50¢) | $25,500 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Clemson vs. California: O/U 50.5 | Under 50.5 | 2.17 (46¢) | $25,173 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FlyQuest vs Shopify Rebellion (BO5) - LCS Playoffs | FlyQuest | 1.25 (80¢) | $32,091 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FlyQuest vs Shopify Rebellion (BO5) - LCS Playoffs | FlyQuest | 1.25 (80¢) | $32,091 | -$32,091 | ❌ Perdida |
 | FlamePyro | Army vs. Temple | Temple | 2.63 (38¢) | $31,418 | -$31,418 | ❌ Perdida |
 | FlamePyro | Army vs. Temple | Army | 1.45 (69¢) | $25,199 | +$365 | 💰 Vendida antes |
 | ethanaz | Army vs. Temple | Army | 1.28 (78¢) | $36,587 | +$10,319 | ✅ Ganada |
