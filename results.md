@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 18:21:38 (hora de Perú)
+Actualizado: 2026-09-26 18:23:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3715**  ($202,218,825 en total)
+- Apuestas registradas: **3716**  ($202,312,635 en total)
 - Resueltas: **3665** — 2230 ganadas / 1435 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 469
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Sassy-Bucket | 41 | 42 | 7 | 49% | $4,349,568 | -$695,790 |
+| Sassy-Bucket | 41 | 42 | 8 | 49% | $4,443,378 | -$695,790 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UFC Fight Night: Brady Hiestand vs. Rinya Nakamura (Bantamweight, Main Card) | Rinya Nakamura | 1.30 (77¢) | $93,810 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $51,473 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $31,908 | — | ⏳ Pendiente |
 | phonesculptor | Kennesaw State vs. Arkansas State | Arkansas State | 1.43 (70¢) | $31,351 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Villson | Will Faroe Islands win on 2026-09-26? | No | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
 | SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.82 (55¢) | $185,520 | -$185,520 | ❌ Perdida |
 | martingaleking | Texas vs. Tennessee | Texas | 1.52 (66¢) | $29,700 | +$15,300 | ✅ Ganada |
-| Sassy-Bucket | Texas vs. Tennessee | Texas | 1.52 (66¢) | $39,328 | +$20,260 | ✅ Ganada |
