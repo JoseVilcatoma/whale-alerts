@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 15:06:08 (hora de Perú)
+Actualizado: 2026-09-26 15:08:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3694**  ($201,252,324 en total)
-- Resueltas: **3620** — 2198 ganadas / 1422 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Apuestas registradas: **3696**  ($201,352,021 en total)
+- Resueltas: **3625** — 2201 ganadas / 1424 perdidas (**61%** de acierto)
+- Pendientes: 53
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,681,991** sobre $197,562,823 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,844** sobre $356,600 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,877,419** sobre $198,229,307 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$7,690** sobre $357,100 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 260 | 137 | 9 | 65% | $26,527,463 | +$673,432 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 261 | 137 | 8 | 66% | $26,527,463 | +$763,456 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -40,10 +40,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 37 | 23 | 1 | 62% | $2,433,850 | -$515,986 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| SmartPredictOrNot | 4 | 2 | 2 | ⚠️ 67% (6) | $2,235,514 | +$43,506 |
+| SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| ethanaz | 22 | 8 | 2 | 73% | $2,060,862 | -$124,144 |
+| ethanaz | 22 | 8 | 3 | 73% | $2,097,625 | -$124,144 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | surfandturf | 18 | 2 | 2 | 90% | $1,965,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | Kch-Temp | 13 | 6 | 3 | 68% | $1,191,211 | +$465,559 |
-| phonesculptor | 13 | 2 | 2 | 87% | $1,118,750 | +$11,795 |
+| phonesculptor | 13 | 2 | 3 | 87% | $1,181,685 | +$11,795 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Ole Miss vs. Florida | Florida | 1.28 (78¢) | $36,763 | — | ⏳ Pendiente |
+| phonesculptor | South Florida vs. Bowling Green | South Florida | 1.12 (89¢) | $62,935 | — | ⏳ Pendiente |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.43 (70¢) | $72,033 | — | ⏳ Pendiente |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.56 (64¢) | $29,292 | — | ⏳ Pendiente |
 | SharkbetX-com | Will England win on 2026-09-26? | Yes | 1.82 (55¢) | $28,909 | — | ⏳ Pendiente |
@@ -99,15 +101,15 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.19 (84¢) | $35,283 | +$6,721 | ✅ Ganada |
 | Sassy-Bucket | Texas vs. Tennessee | Texas | 1.54 (65¢) | $29,938 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Diego State vs. Toledo | San Diego State | 2.27 (44¢) | $82,628 | -$82,628 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Faroe Islands win on 2026-09-26? | No | 2.08 (48¢) | $83,099 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Faroe Islands win on 2026-09-26? | No | 2.08 (48¢) | $83,099 | +$90,024 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $25,723 | +$5,269 | ✅ Ganada |
 | liquiditycrisis | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $42,091 | — | ⏳ Pendiente |
 | texaskid | UCLA vs. Maryland | UCLA | 1.75 (57¢) | $39,265 | — | ⏳ Pendiente |
-| SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.69 (59¢) | $265,754 | — | ⏳ Pendiente |
-| Anjun | Will Faroe Islands win on 2026-09-26? | No | 2.33 (43¢) | $85,111 | — | ⏳ Pendiente |
+| SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.69 (59¢) | $265,754 | -$265,754 | ❌ Perdida |
+| Anjun | Will Faroe Islands win on 2026-09-26? | No | 2.33 (43¢) | $85,111 | +$112,821 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
-| Villson | Will Faroe Islands win on 2026-09-26? | No | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
-| SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.82 (55¢) | $185,520 | — | ⏳ Pendiente |
+| Villson | Will Faroe Islands win on 2026-09-26? | No | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
+| SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.82 (55¢) | $185,520 | -$185,520 | ❌ Perdida |
 | martingaleking | Texas vs. Tennessee | Texas | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas vs. Tennessee | Texas | 1.52 (66¢) | $39,328 | — | ⏳ Pendiente |
 | SDTrading | Ball State vs. Kent State | Kent State | 1.75 (57¢) | $28,500 | +$21,500 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-09-26? | No | 1.32 (76¢) | $43,822 | — | ⏳ Pendiente |
 | Ne8om | Will Spain win on 2026-09-26? | No | 2.00 (50¢) | $33,477 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.00 (50¢) | $95,373 | — | ⏳ Pendiente |
-| Kch-Temp | Oklahoma vs. Georgia: O/U 43.5 | Over 43.5 | 1.85 (54¢) | $33,616 | — | ⏳ Pendiente |
-| 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.00 (50¢) | $77,828 | — | ⏳ Pendiente |
