@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 15:24:32 (hora de Perú)
+Actualizado: 2026-09-26 15:26:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3698**  ($201,416,378 en total)
-- Resueltas: **3631** — 2205 ganadas / 1426 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Apuestas registradas: **3699**  ($201,470,852 en total)
+- Resueltas: **3637** — 2211 ganadas / 1426 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,840,769** sobre $198,414,621 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,548** sobre $357,700 (ROI **-2.1%**)
+- **Resultado de los apostadores: -$2,752,221** sobre $198,621,657 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,299** sobre $358,300 (ROI **-2.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 261 | 137 | 8 | 66% | $26,527,463 | +$763,456 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 262 | 137 | 7 | 66% | $26,527,463 | +$766,203 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 14 | 1 | 68% | $4,840,027 | +$1,750,969 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
-| Sassy-Bucket | 39 | 40 | 7 | 49% | $4,141,253 | -$631,065 |
+| Sassy-Bucket | 41 | 40 | 5 | 51% | $4,141,253 | -$594,685 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | BrotherObama | 26 | 25 | 3 | 51% | $2,562,234 | +$291,990 |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| ethanaz | 22 | 8 | 3 | 73% | $2,097,625 | -$124,144 |
+| ethanaz | 22 | 8 | 4 | 73% | $2,152,099 | -$124,144 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
 | surfandturf | 18 | 2 | 2 | 90% | $1,965,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Ole Miss vs. Florida | Florida | 1.19 (84¢) | $54,473 | — | ⏳ Pendiente |
 | KaneAnalytics | Iowa vs. Michigan | Michigan | 1.45 (69¢) | $30,794 | — | ⏳ Pendiente |
 | SDTrading | Spread: Nebraska (-6.5) | Michigan State | 1.96 (51¢) | $33,563 | — | ⏳ Pendiente |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.28 (78¢) | $36,763 | — | ⏳ Pendiente |
@@ -87,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | TCU vs. UCF | TCU | 1.61 (62¢) | $60,901 | — | ⏳ Pendiente |
 | texaskid | Ole Miss vs. Florida | Florida | 1.61 (62¢) | $78,032 | — | ⏳ Pendiente |
 | Sassy-Bucket | Ole Miss vs. Florida | Ole Miss | 2.63 (38¢) | $67,450 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Tennessee | Texas | 1.09 (92¢) | $31,585 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Tennessee | Texas | 1.09 (92¢) | $31,585 | +$2,746 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England vs. Spain end in a draw? | No | 1.41 (71¢) | $60,787 | — | ⏳ Pendiente |
 | tes21sa | Will England vs. Spain end in a draw? | Yes | 3.45 (29¢) | $29,992 | — | ⏳ Pendiente |
 | surfandturf | Will Spain win on 2026-09-26? | Yes | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
@@ -99,9 +100,9 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | primm | TCU vs. UCF | TCU | 1.67 (60¢) | $42,601 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Georgia (-13.5) | Georgia | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
 | 177-letsgo | South Alabama vs. Kentucky | Kentucky | 1.09 (92¢) | $73,599 | — | ⏳ Pendiente |
-| 177-letsgo | Texas vs. Tennessee | Texas | 1.32 (76¢) | $26,486 | — | ⏳ Pendiente |
+| 177-letsgo | Texas vs. Tennessee | Texas | 1.32 (76¢) | $26,486 | +$8,364 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.19 (84¢) | $35,283 | +$6,721 | ✅ Ganada |
-| Sassy-Bucket | Texas vs. Tennessee | Texas | 1.54 (65¢) | $29,938 | — | ⏳ Pendiente |
+| Sassy-Bucket | Texas vs. Tennessee | Texas | 1.54 (65¢) | $29,938 | +$16,120 | ✅ Ganada |
 | Sassy-Bucket | San Diego State vs. Toledo | San Diego State | 2.27 (44¢) | $82,628 | -$82,628 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Faroe Islands win on 2026-09-26? | No | 2.08 (48¢) | $83,099 | +$90,024 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $25,723 | +$5,269 | ✅ Ganada |
@@ -112,8 +113,8 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | Villson | Will Faroe Islands win on 2026-09-26? | No | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
 | SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.82 (55¢) | $185,520 | -$185,520 | ❌ Perdida |
-| martingaleking | Texas vs. Tennessee | Texas | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
-| Sassy-Bucket | Texas vs. Tennessee | Texas | 1.52 (66¢) | $39,328 | — | ⏳ Pendiente |
+| martingaleking | Texas vs. Tennessee | Texas | 1.52 (66¢) | $29,700 | +$15,300 | ✅ Ganada |
+| Sassy-Bucket | Texas vs. Tennessee | Texas | 1.52 (66¢) | $39,328 | +$20,260 | ✅ Ganada |
 | SDTrading | Ball State vs. Kent State | Kent State | 1.75 (57¢) | $28,500 | +$21,500 | ✅ Ganada |
 | SDTrading | Spread: UNLV (-13.5) | UNLV | 1.92 (52¢) | $45,711 | +$42,195 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $26,100 | +$5,346 | ✅ Ganada |
@@ -123,11 +124,10 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | phonesculptor | Wake Forest vs. Louisville | Louisville | 1.23 (81¢) | $36,183 | -$36,183 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Texas (-5.5) | Tennessee | 1.96 (51¢) | $25,000 | +$24,020 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
-| Berniepaidoff | Texas vs. Tennessee | Texas | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
+| Berniepaidoff | Texas vs. Tennessee | Texas | 1.52 (66¢) | $50,000 | +$25,758 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: LY (-2.5) vs Shopify Rebellion (+2.5) | Shopify Rebellion | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | Kosherlocks | Wake Forest vs. Louisville | Louisville | 1.22 (82¢) | $30,000 | -$30,000 | ❌ Perdida |
 | texaskid | Spread: Auburn (-9.5) | Auburn | 1.92 (52¢) | $62,695 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: Walczaki vs BET-M 33 (BO3) - NODWIN Clutch Series Playoffs | BET-M 33 | 1.96 (51¢) | $30,000 | — | ⊘ Anulada |
 | texaskid | Spread: Miami (OH) (-3.5) | UConn | 1.85 (54¢) | $41,252 | — | ⏳ Pendiente |
 | SDTrading | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-09-26? | No | 1.32 (76¢) | $43,822 | — | ⏳ Pendiente |
