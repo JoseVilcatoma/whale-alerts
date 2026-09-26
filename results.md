@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 16:11:40 (hora de Perú)
+Actualizado: 2026-09-26 16:13:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3704**  ($201,784,147 en total)
-- Resueltas: **3638** — 2212 ganadas / 1426 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Resueltas: **3641** — 2215 ganadas / 1426 perdidas (**61%** de acierto)
+- Pendientes: 45
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,745,821** sobre $198,695,256 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,291** sobre $358,400 (ROI **-2.0%**)
+- **Resultado de los apostadores: -$2,621,978** sobre $198,845,129 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$7,045** sobre $358,700 (ROI **-2.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
-| Kch-Temp | 13 | 6 | 3 | 68% | $1,191,211 | +$465,559 |
+| Kch-Temp | 15 | 6 | 1 | 71% | $1,191,211 | +$559,780 |
 | phonesculptor | 13 | 3 | 2 | 81% | $1,181,685 | -$24,387 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
@@ -112,7 +112,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Faroe Islands win on 2026-09-26? | No | 2.08 (48¢) | $83,099 | +$90,024 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $25,723 | +$5,269 | ✅ Ganada |
 | liquiditycrisis | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $42,091 | +$38,854 | ✅ Ganada |
-| texaskid | UCLA vs. Maryland | UCLA | 1.75 (57¢) | $39,265 | — | ⏳ Pendiente |
+| texaskid | UCLA vs. Maryland | UCLA | 1.75 (57¢) | $39,265 | +$29,621 | ✅ Ganada |
 | SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.69 (59¢) | $265,754 | -$265,754 | ❌ Perdida |
 | Anjun | Will Faroe Islands win on 2026-09-26? | No | 2.33 (43¢) | $85,111 | +$112,821 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
@@ -124,7 +124,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | SDTrading | Spread: UNLV (-13.5) | UNLV | 1.92 (52¢) | $45,711 | +$42,195 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $26,100 | +$5,346 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $27,198 | +$5,571 | ✅ Ganada |
-| Kch-Temp | UCLA vs. Maryland | UCLA | 1.85 (54¢) | $26,372 | — | ⏳ Pendiente |
+| Kch-Temp | UCLA vs. Maryland | UCLA | 1.85 (54¢) | $26,372 | +$22,465 | ✅ Ganada |
 | texaskid | Spread: Florida (-3.5) | Florida | 2.00 (50¢) | $29,972 | — | ⏳ Pendiente |
 | phonesculptor | Wake Forest vs. Louisville | Louisville | 1.23 (81¢) | $36,183 | -$36,183 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Texas (-5.5) | Tennessee | 1.96 (51¢) | $25,000 | +$24,020 | ✅ Ganada |
