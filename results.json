@@ -54988,11 +54988,11 @@
     "title": "Will Faroe Islands win on 2026-09-26?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 62173.49699999999,
-    "odds_at_bet": 51,
+    "usd": 156210.4768,
+    "odds_at_bet": 54,
     "status": "pending",
-    "ultimo_fill": 1790437235,
-    "fills": 2
+    "ultimo_fill": 1790437397,
+    "fills": 4
   },
   {
     "telegram_msg_id": 7464,
@@ -55022,6 +55022,21 @@
     "odds_at_bet": 82,
     "status": "pending",
     "ultimo_fill": 1790437318,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7466,
+    "timestamp": 1790437374,
+    "username": "Anjun",
+    "wallet": "0x43372356634781eea88d61bbdd7824cdce958882",
+    "slug": "unl-far-kaz-2026-09-26-far",
+    "title": "Will Faroe Islands win on 2026-09-26?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 47777.7257,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1790437374,
     "fills": 1
   }
 ]
