@@ -54495,7 +54495,7 @@
     "side": "BUY",
     "usd": 30800.0,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790417941,
     "fills": 1
   },
@@ -54886,7 +54886,7 @@
     "side": "BUY",
     "usd": 27198.2202,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790434242,
     "fills": 1
   },
@@ -54901,7 +54901,7 @@
     "side": "BUY",
     "usd": 26100.18,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790434418,
     "fills": 1
   },
@@ -54931,7 +54931,7 @@
     "side": "BUY",
     "usd": 45711.4498,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790434850,
     "fills": 1
   },
@@ -55021,7 +55021,7 @@
     "side": "BUY",
     "usd": 41000.0,
     "odds_at_bet": 82,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790437318,
     "fills": 1
   },
@@ -55096,7 +55096,7 @@
     "side": "BUY",
     "usd": 25723.3517,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790438066,
     "fills": 1
   },
@@ -55156,7 +55156,7 @@
     "side": "BUY",
     "usd": 35282.920399999995,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790438380,
     "fills": 1
   },
@@ -55398,6 +55398,21 @@
     "odds_at_bet": 62,
     "status": "pending",
     "ultimo_fill": 1790450360,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7499,
+    "timestamp": 1790450497,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-utah-iowast-2026-09-26",
+    "title": "Utah vs. Iowa State",
+    "outcome": "Utah",
+    "side": "BUY",
+    "usd": 28072.3575,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1790450497,
     "fills": 1
   }
 ]

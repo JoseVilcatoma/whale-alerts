@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 14:20:50 (hora de Perú)
+Actualizado: 2026-09-26 14:22:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3685**  ($200,850,689 en total)
-- Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Apuestas registradas: **3686**  ($200,878,761 en total)
+- Resueltas: **3617** — 2197 ganadas / 1420 perdidas (**61%** de acierto)
+- Pendientes: 51
 - Apostadores distintos: 468
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,638,298** sobre $197,194,013 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$7,814** sobre $355,600 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,594,997** sobre $197,425,830 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$7,719** sobre $356,300 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,8 +32,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 14 | 1 | 68% | $4,840,027 | +$1,750,969 |
-| Diabolical-Prize | 44 | 38 | 2 | 54% | $4,236,631 | -$162,554 |
-| Sassy-Bucket | 34 | 39 | 10 | 47% | $3,975,222 | -$580,343 |
+| Diabolical-Prize | 44 | 39 | 1 | 53% | $4,236,631 | -$193,354 |
+| Sassy-Bucket | 39 | 39 | 6 | 50% | $4,003,294 | -$548,437 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | BrotherObama | 26 | 25 | 3 | 51% | $2,562,234 | +$291,990 |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| SDTrading | 22 | 26 | 3 | 46% | $1,520,320 | -$224,163 |
+| SDTrading | 23 | 26 | 2 | 47% | $1,520,320 | -$181,968 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Utah vs. Iowa State | Utah | 1.33 (75¢) | $28,072 | — | ⏳ Pendiente |
 | Sassy-Bucket | TCU vs. UCF | TCU | 1.61 (62¢) | $60,901 | — | ⏳ Pendiente |
 | texaskid | Ole Miss vs. Florida | Florida | 1.61 (62¢) | $78,032 | — | ⏳ Pendiente |
 | Sassy-Bucket | Ole Miss vs. Florida | Ole Miss | 2.63 (38¢) | $67,450 | — | ⏳ Pendiente |
@@ -87,24 +88,24 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 | Donkey14 | Spread: Georgia (-13.5) | Georgia | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
 | 177-letsgo | South Alabama vs. Kentucky | Kentucky | 1.09 (92¢) | $73,599 | — | ⏳ Pendiente |
 | 177-letsgo | Texas vs. Tennessee | Texas | 1.32 (76¢) | $26,486 | — | ⏳ Pendiente |
-| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.19 (84¢) | $35,283 | — | ⏳ Pendiente |
+| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.19 (84¢) | $35,283 | +$6,721 | ✅ Ganada |
 | Sassy-Bucket | Texas vs. Tennessee | Texas | 1.54 (65¢) | $29,938 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Diego State vs. Toledo | San Diego State | 2.27 (44¢) | $82,628 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Faroe Islands win on 2026-09-26? | No | 2.08 (48¢) | $83,099 | — | ⏳ Pendiente |
-| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $25,723 | — | ⏳ Pendiente |
+| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $25,723 | +$5,269 | ✅ Ganada |
 | liquiditycrisis | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $42,091 | — | ⏳ Pendiente |
 | texaskid | UCLA vs. Maryland | UCLA | 1.75 (57¢) | $39,265 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.69 (59¢) | $265,754 | — | ⏳ Pendiente |
 | Anjun | Will Faroe Islands win on 2026-09-26? | No | 2.33 (43¢) | $85,111 | — | ⏳ Pendiente |
-| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | Villson | Will Faroe Islands win on 2026-09-26? | No | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.82 (55¢) | $185,520 | — | ⏳ Pendiente |
 | martingaleking | Texas vs. Tennessee | Texas | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas vs. Tennessee | Texas | 1.52 (66¢) | $39,328 | — | ⏳ Pendiente |
 | SDTrading | Ball State vs. Kent State | Kent State | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
-| SDTrading | Spread: UNLV (-13.5) | UNLV | 1.92 (52¢) | $45,711 | — | ⏳ Pendiente |
-| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $26,100 | — | ⏳ Pendiente |
-| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $27,198 | — | ⏳ Pendiente |
+| SDTrading | Spread: UNLV (-13.5) | UNLV | 1.92 (52¢) | $45,711 | +$42,195 | ✅ Ganada |
+| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $26,100 | +$5,346 | ✅ Ganada |
+| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $27,198 | +$5,571 | ✅ Ganada |
 | Kch-Temp | UCLA vs. Maryland | UCLA | 1.85 (54¢) | $26,372 | — | ⏳ Pendiente |
 | texaskid | Spread: Florida (-3.5) | Florida | 2.00 (50¢) | $29,972 | — | ⏳ Pendiente |
 | phonesculptor | Wake Forest vs. Louisville | Louisville | 1.23 (81¢) | $36,183 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 | tg-stakeqiu | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | EDward Gaming | 3.33 (30¢) | $49,958 | -$49,958 | ❌ Perdida |
 | gvrgb326552g65 | Dota 2: Aurora vs Natus Vincere - Game 2 Winner | Natus Vincere | 2.04 (49¢) | $25,618 | +$26,663 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: EYEBALLERS vs K27 (BO3) - 1win Private Club #1 Playoffs | K27 | 1.52 (66¢) | $79,200 | +$40,800 | ✅ Ganada |
-| Diabolical-Prize | Map Handicap: paiN (-1.5) vs Galorys (+1.5) | Galorys | 1.35 (74¢) | $25,865 | — | ⏳ Pendiente |
