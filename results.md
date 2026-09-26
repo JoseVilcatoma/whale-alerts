@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 07:31:12 (hora de Perú)
+Actualizado: 2026-09-26 07:33:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3631**  ($198,031,983 en total)
+- Apuestas registradas: **3632**  ($198,060,613 en total)
 - Resueltas: **3607** — 2189 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 466
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.13 (47¢) | $28,630 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | LOUD | 1.43 (70¢) | $26,942 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.17 (46¢) | $62,800 | — | ⏳ Pendiente |
 | tg-stakeqiu | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | EDward Gaming | 3.33 (30¢) | $49,958 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | Diabolical-Prize | Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs | Sinners | 2.17 (46¢) | $46,000 | +$54,000 | ✅ Ganada |
 | FlamePyro | Falcons vs. Packers | Falcons | 1.06 (94¢) | $86,480 | +$5,520 | ✅ Ganada |
 | FlamePyro | Falcons vs. Packers | Falcons | 1.10 (91¢) | $27,267 | +$2,697 | ✅ Ganada |
-| cosmicxbt | Falcons vs. Packers | Falcons | 1.09 (92¢) | $90,907 | +$7,905 | ✅ Ganada |
