@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 16:15:46 (hora de Perú)
+Actualizado: 2026-09-26 16:17:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3705**  ($201,813,760 en total)
+- Apuestas registradas: **3706**  ($201,846,560 en total)
 - Resueltas: **3641** — 2215 ganadas / 1426 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 469
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Ole Miss vs. Florida | Florida | 1.22 (82¢) | $32,800 | — | ⏳ Pendiente |
 | Talvez10 | UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims) | Rodolfo Bellato | 1.59 (63¢) | $29,613 | — | ⏳ Pendiente |
 | nuttypoo | Wisconsin vs. Penn State | Penn State | 1.27 (79¢) | $122,133 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: South Florida (-18.5) | Bowling Green | 1.89 (53¢) | $28,744 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | phonesculptor | Wake Forest vs. Louisville | Louisville | 1.23 (81¢) | $36,183 | -$36,183 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Texas (-5.5) | Tennessee | 1.96 (51¢) | $25,000 | +$24,020 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
-| Berniepaidoff | Texas vs. Tennessee | Texas | 1.52 (66¢) | $50,000 | +$25,758 | ✅ Ganada |
