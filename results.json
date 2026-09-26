@@ -54468,5 +54468,20 @@
     "status": "pending",
     "ultimo_fill": 1790416037,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7421,
+    "timestamp": 1790417477,
+    "username": "tankfest2027",
+    "wallet": "0x4d6ef7033e3e332ba584882d09070b3abe755cfd",
+    "slug": "val-ge1-vit-2026-09-26",
+    "title": "Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B",
+    "outcome": "Team Vitality",
+    "side": "BUY",
+    "usd": 36919.9912,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1790417477,
+    "fills": 1
   }
 ]

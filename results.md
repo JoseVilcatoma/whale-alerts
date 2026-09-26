@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 05:09:44 (hora de Perú)
+Actualizado: 2026-09-26 05:11:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3623**  ($197,693,880 en total)
+- Apuestas registradas: **3624**  ($197,730,800 en total)
 - Resueltas: **3604** — 2186 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 2
-- Apostadores distintos: 464
+- Pendientes: 3
+- Apostadores distintos: 465
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
 
-_(mostrando los 40 de mayor monto, de 464 en total)_
+_(mostrando los 40 de mayor monto, de 465 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tankfest2027 | Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B | Team Vitality | 1.35 (74¢) | $36,920 | — | ⏳ Pendiente |
 | Netrol | Dota 2: Aurora vs Natus Vincere - Game 1 Winner | Natus Vincere | 1.79 (56¢) | $34,753 | — | ⏳ Pendiente |
 | phonesculptor | Will North Macedonia win on 2026-09-26? | No | 1.10 (91¢) | $38,279 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Clemson vs. California | Clemson | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | ferrariChampions2026 | Falcons vs. Packers | Falcons | 1.37 (73¢) | $27,813 | +$10,287 | ✅ Ganada |
 | ethanaz | Spread: Falcons (-3.5) | Packers | 1.79 (56¢) | $43,651 | -$43,651 | ❌ Perdida |
 | Kev69 | Houston Astros vs. Athletics | Houston Astros | 1.18 (85¢) | $26,430 | -$622 | 💰 Vendida antes |
-| Eztennis | Falcons vs. Packers | Falcons | 1.43 (70¢) | $37,341 | +$16,003 | ✅ Ganada |
