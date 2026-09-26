@@ -54988,11 +54988,11 @@
     "title": "Will Faroe Islands win on 2026-09-26?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 156210.4768,
-    "odds_at_bet": 54,
+    "usd": 185520.2435,
+    "odds_at_bet": 55,
     "status": "pending",
-    "ultimo_fill": 1790437397,
-    "fills": 4
+    "ultimo_fill": 1790437477,
+    "fills": 5
   },
   {
     "telegram_msg_id": 7464,
@@ -55033,10 +55033,10 @@
     "title": "Will Faroe Islands win on 2026-09-26?",
     "outcome": "No",
     "side": "BUY",
-    "usd": 47777.7257,
+    "usd": 85110.6857,
     "odds_at_bet": 43,
     "status": "pending",
-    "ultimo_fill": 1790437374,
-    "fills": 1
+    "ultimo_fill": 1790437457,
+    "fills": 2
   }
 ]

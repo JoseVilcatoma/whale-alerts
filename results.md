@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 10:44:08 (hora de Perú)
+Actualizado: 2026-09-26 10:46:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3661**  ($199,367,920 en total)
+- Apuestas registradas: **3661**  ($199,434,563 en total)
 - Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
 - Pendientes: 34
 - Apostadores distintos: 467
@@ -43,8 +43,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
+| SmartPredictOrNot | 4 | 2 | 1 | ⚠️ 67% (6) | $1,969,760 | +$43,506 |
 | ethanaz | 22 | 8 | 0 | 73% | $1,959,537 | -$124,144 |
-| SmartPredictOrNot | 4 | 2 | 1 | ⚠️ 67% (6) | $1,940,450 | +$43,506 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,10 +71,10 @@ _(mostrando los 40 de mayor monto, de 467 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Anjun | Will Faroe Islands win on 2026-09-26? | No | 2.33 (43¢) | $47,778 | — | ⏳ Pendiente |
+| Anjun | Will Faroe Islands win on 2026-09-26? | No | 2.33 (43¢) | $85,111 | — | ⏳ Pendiente |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | Villson | Will Faroe Islands win on 2026-09-26? | No | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
-| SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.85 (54¢) | $156,210 | — | ⏳ Pendiente |
+| SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.82 (55¢) | $185,520 | — | ⏳ Pendiente |
 | martingaleking | Texas vs. Tennessee | Texas | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas vs. Tennessee | Texas | 1.52 (66¢) | $39,328 | — | ⏳ Pendiente |
 | SDTrading | Ball State vs. Kent State | Kent State | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
