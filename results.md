@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 15:18:28 (hora de Perú)
+Actualizado: 2026-09-26 15:20:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3697**  ($201,385,585 en total)
-- Resueltas: **3625** — 2201 ganadas / 1424 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Resueltas: **3628** — 2202 ganadas / 1426 perdidas (**61%** de acierto)
+- Pendientes: 51
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,877,419** sobre $198,229,307 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$7,690** sobre $357,100 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,927,642** sobre $198,321,529 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$7,829** sobre $357,400 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | Kch-Temp | 13 | 6 | 3 | 68% | $1,191,211 | +$465,559 |
-| phonesculptor | 13 | 2 | 3 | 87% | $1,181,685 | +$11,795 |
+| phonesculptor | 13 | 3 | 2 | 81% | $1,181,685 | -$24,387 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | Vanderbilt vs. Auburn | Vanderbilt | 4.17 (24¢) | $29,417 | — | ⏳ Pendiente |
 | texaskid | Utah vs. Iowa State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $47,830 | — | ⏳ Pendiente |
 | alwaysfade | Ole Miss vs. Florida | Florida | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
-| KaneAnalytics | Wake Forest vs. Louisville | Wake Forest | 1.61 (62¢) | $26,040 | — | ⏳ Pendiente |
+| KaneAnalytics | Wake Forest vs. Louisville | Wake Forest | 1.61 (62¢) | $26,040 | +$15,960 | ✅ Ganada |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.32 (76¢) | $108,541 | — | ⏳ Pendiente |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.33 (75¢) | $28,072 | — | ⏳ Pendiente |
 | Sassy-Bucket | TCU vs. UCF | TCU | 1.61 (62¢) | $60,901 | — | ⏳ Pendiente |
@@ -119,12 +119,12 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $27,198 | +$5,571 | ✅ Ganada |
 | Kch-Temp | UCLA vs. Maryland | UCLA | 1.85 (54¢) | $26,372 | — | ⏳ Pendiente |
 | texaskid | Spread: Florida (-3.5) | Florida | 2.00 (50¢) | $29,972 | — | ⏳ Pendiente |
-| phonesculptor | Wake Forest vs. Louisville | Louisville | 1.23 (81¢) | $36,183 | — | ⏳ Pendiente |
+| phonesculptor | Wake Forest vs. Louisville | Louisville | 1.23 (81¢) | $36,183 | -$36,183 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Texas (-5.5) | Tennessee | 1.96 (51¢) | $25,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
 | Berniepaidoff | Texas vs. Tennessee | Texas | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: LY (-2.5) vs Shopify Rebellion (+2.5) | Shopify Rebellion | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
-| Kosherlocks | Wake Forest vs. Louisville | Louisville | 1.22 (82¢) | $30,000 | — | ⏳ Pendiente |
+| Kosherlocks | Wake Forest vs. Louisville | Louisville | 1.22 (82¢) | $30,000 | -$30,000 | ❌ Perdida |
 | texaskid | Spread: Auburn (-9.5) | Auburn | 1.92 (52¢) | $62,695 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: Walczaki vs BET-M 33 (BO3) - NODWIN Clutch Series Playoffs | BET-M 33 | 1.96 (51¢) | $30,000 | — | ⊘ Anulada |
 | texaskid | Spread: Miami (OH) (-3.5) | UConn | 1.85 (54¢) | $41,252 | — | ⏳ Pendiente |
