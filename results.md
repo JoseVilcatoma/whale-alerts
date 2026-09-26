@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 22:45:42 (hora de Perú)
+Actualizado: 2026-09-25 22:47:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3619**  ($197,565,968 en total)
+- Apuestas registradas: **3620**  ($197,595,648 en total)
 - Resueltas: **3591** — 2178 ganadas / 1413 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 464
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HMLSF | Clemson vs. California | Clemson | 1.79 (56¢) | $29,681 | — | ⏳ Pendiente |
 | KaneAnalytics | Clemson vs. California | California | 1.89 (53¢) | $30,789 | — | ⏳ Pendiente |
 | ethanaz | Clemson vs. California | California | 1.92 (52¢) | $31,166 | — | ⏳ Pendiente |
 | ethanaz | Clemson vs. California | California | 1.69 (59¢) | $32,725 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | KaneAnalytics | Falcons vs. Packers: O/U 45.5 | Over 45.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | TAIWANNUMBERONE | Falcons vs. Packers | Falcons | 1.45 (69¢) | $36,445 | +$16,374 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Falcons (-4.5) | Packers | 2.00 (50¢) | $51,433 | -$51,433 | ❌ Perdida |
-| yoyoyoyoer | Falcons vs. Packers | Falcons | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
