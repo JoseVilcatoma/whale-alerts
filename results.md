@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 23:33:13 (hora de Perú)
+Actualizado: 2026-09-25 23:35:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3621**  ($197,620,848 en total)
-- Resueltas: **3593** — 2180 ganadas / 1413 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **3594** — 2181 ganadas / 1413 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,857,008** sobre $196,442,120 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$8,036** sobre $353,900 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,732,110** sobre $196,562,120 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,932** sobre $354,000 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 34 | 39 | 0 | 47% | $3,539,674 | -$580,343 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| BrotherObama | 25 | 25 | 2 | 50% | $2,502,234 | +$167,092 |
+| BrotherObama | 26 | 25 | 1 | 51% | $2,502,234 | +$291,990 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 37 | 23 | 0 | 62% | $2,408,850 | -$515,986 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | bands1 | Clemson vs. California | California | 2.22 (45¢) | $31,752 | — | ⏳ Pendiente |
 | BrotherObama | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $100,000 | +$88,679 | ✅ Ganada |
 | ethanaz | Navy vs. UAB | Navy | 1.49 (67¢) | $72,185 | -$72,185 | ❌ Perdida |
-| BrotherObama | Houston Astros vs. Athletics: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $120,000 | — | ⏳ Pendiente |
+| BrotherObama | Houston Astros vs. Athletics: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $120,000 | +$124,898 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Northwestern vs. Indiana | Indiana | 1.10 (91¢) | $27,255 | +$2,696 | ✅ Ganada |
 | liquiditycrisis | Clemson vs. California | Clemson | 1.79 (56¢) | $118,531 | — | ⏳ Pendiente |
 | predictionlegend | Will CF Monterrey win on 2026-09-25? | No | 1.72 (58¢) | $25,287 | — | ⏳ Pendiente |
