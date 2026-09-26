@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 00:08:12 (hora de Perú)
+Actualizado: 2026-09-26 00:10:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3621**  ($197,620,848 en total)
-- Resueltas: **3594** — 2181 ganadas / 1413 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **3595** — 2182 ganadas / 1413 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,732,110** sobre $196,562,120 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,932** sobre $354,000 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,713,799** sobre $196,587,406 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,859** sobre $354,100 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | BrotherObama | Houston Astros vs. Athletics: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $120,000 | +$124,898 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Northwestern vs. Indiana | Indiana | 1.10 (91¢) | $27,255 | +$2,696 | ✅ Ganada |
 | liquiditycrisis | Clemson vs. California | Clemson | 1.79 (56¢) | $118,531 | — | ⏳ Pendiente |
-| predictionlegend | Will CF Monterrey win on 2026-09-25? | No | 1.72 (58¢) | $25,287 | — | ⏳ Pendiente |
+| predictionlegend | Will CF Monterrey win on 2026-09-25? | No | 1.72 (58¢) | $25,287 | +$18,311 | ✅ Ganada |
 | Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Colorado Rockies | 3.23 (31¢) | $29,932 | -$29,932 | ❌ Perdida |
 | liquiditycrisis | Spread: Indiana (-20.5) | Northwestern | 2.00 (50¢) | $27,021 | +$27,021 | ✅ Ganada |
 | gawtaiuwty028wa3r | Spread: Navy (-6.5) | Navy | 2.00 (50¢) | $25,500 | -$25,500 | ❌ Perdida |
