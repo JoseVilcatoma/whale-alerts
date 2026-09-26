@@ -55174,5 +55174,20 @@
     "status": "pending",
     "ultimo_fill": 1790439548,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7476,
+    "timestamp": 1790440771,
+    "username": "177-letsgo",
+    "wallet": "0x7a75a4183e577123db9ff0adff520561ef95d288",
+    "slug": "cfb-sala-uk-2026-09-26",
+    "title": "South Alabama vs. Kentucky",
+    "outcome": "Kentucky",
+    "side": "BUY",
+    "usd": 73599.08,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1790440771,
+    "fills": 1
   }
 ]
