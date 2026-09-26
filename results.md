@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 22:56:02 (hora de Perú)
+Actualizado: 2026-09-25 22:58:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3620**  ($197,595,648 en total)
-- Resueltas: **3591** — 2178 ganadas / 1413 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **3592** — 2179 ganadas / 1413 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,886,724** sobre $196,387,844 apostados (ROI **-1.5%**)
-- Copiando $100 fijo en cada una: **-$8,146** sobre $353,700 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,859,703** sobre $196,414,865 apostados (ROI **-1.5%**)
+- Copiando $100 fijo en cada una: **-$8,046** sobre $353,800 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | liquiditycrisis | Clemson vs. California | Clemson | 1.79 (56¢) | $118,531 | — | ⏳ Pendiente |
 | predictionlegend | Will CF Monterrey win on 2026-09-25? | No | 1.72 (58¢) | $25,287 | — | ⏳ Pendiente |
 | Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Colorado Rockies | 3.23 (31¢) | $29,932 | -$29,932 | ❌ Perdida |
-| liquiditycrisis | Spread: Indiana (-20.5) | Northwestern | 2.00 (50¢) | $27,021 | — | ⏳ Pendiente |
+| liquiditycrisis | Spread: Indiana (-20.5) | Northwestern | 2.00 (50¢) | $27,021 | +$27,021 | ✅ Ganada |
 | gawtaiuwty028wa3r | Spread: Navy (-6.5) | Navy | 2.00 (50¢) | $25,500 | -$25,500 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Clemson vs. California: O/U 50.5 | Under 50.5 | 2.17 (46¢) | $25,173 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FlyQuest vs Shopify Rebellion (BO5) - LCS Playoffs | FlyQuest | 1.25 (80¢) | $32,091 | -$32,091 | ❌ Perdida |
