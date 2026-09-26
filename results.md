@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 07:47:41 (hora de Perú)
+Actualizado: 2026-09-26 07:49:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3633**  ($198,090,870 en total)
+- Apuestas registradas: **3635**  ($198,252,933 en total)
 - Resueltas: **3607** — 2189 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 11
 - Apostadores distintos: 466
 
 ### Balance
@@ -60,9 +60,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
+| Kch-Temp | 13 | 6 | 1 | 68% | $1,131,223 | +$465,559 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | phonesculptor | 13 | 2 | 1 | 87% | $1,082,567 | +$11,795 |
-| Kch-Temp | 13 | 6 | 0 | 68% | $1,046,987 | +$465,559 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
 
 _(mostrando los 40 de mayor monto, de 466 en total)_
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.00 (50¢) | $77,828 | — | ⏳ Pendiente |
+| Kch-Temp | UCLA vs. Maryland | UCLA | 1.85 (54¢) | $84,236 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.00 (50¢) | $30,257 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.13 (47¢) | $28,630 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | LOUD | 1.43 (70¢) | $26,942 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | BrotherObama | Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs | Sinners | 2.13 (47¢) | $31,000 | +$34,957 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | NRG | 2.00 (50¢) | $41,921 | +$41,921 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Heroic vs fnatic (BO3) - Stake Pulse Beat II Playoffs | Heroic | 1.52 (66¢) | $26,400 | +$13,600 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs | Sinners | 2.17 (46¢) | $46,000 | +$54,000 | ✅ Ganada |
-| FlamePyro | Falcons vs. Packers | Falcons | 1.06 (94¢) | $86,480 | +$5,520 | ✅ Ganada |
