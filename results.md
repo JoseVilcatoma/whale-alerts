@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 14:29:02 (hora de Perú)
+Actualizado: 2026-09-26 14:31:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3687**  ($200,987,302 en total)
+- Apuestas registradas: **3688**  ($201,013,342 en total)
 - Resueltas: **3618** — 2197 ganadas / 1421 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 52
 - Apostadores distintos: 468
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Wake Forest vs. Louisville | Wake Forest | 1.61 (62¢) | $26,040 | — | ⏳ Pendiente |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.32 (76¢) | $108,541 | — | ⏳ Pendiente |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.33 (75¢) | $28,072 | — | ⏳ Pendiente |
 | Sassy-Bucket | TCU vs. UCF | TCU | 1.61 (62¢) | $60,901 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 | FORTNITEMASTER888 | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | LOUD | 1.43 (70¢) | $26,942 | +$11,547 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.17 (46¢) | $62,800 | — | ⏳ Pendiente |
 | tg-stakeqiu | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | EDward Gaming | 3.33 (30¢) | $49,958 | -$49,958 | ❌ Perdida |
-| gvrgb326552g65 | Dota 2: Aurora vs Natus Vincere - Game 2 Winner | Natus Vincere | 2.04 (49¢) | $25,618 | +$26,663 | ✅ Ganada |

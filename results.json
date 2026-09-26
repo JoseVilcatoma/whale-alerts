@@ -55429,5 +55429,20 @@
     "status": "pending",
     "ultimo_fill": 1790450878,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7502,
+    "timestamp": 1790451024,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "cfb-wake-lou-2026-09-26",
+    "title": "Wake Forest vs. Louisville",
+    "outcome": "Wake Forest",
+    "side": "BUY",
+    "usd": 26039.876,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1790451024,
+    "fills": 1
   }
 ]
