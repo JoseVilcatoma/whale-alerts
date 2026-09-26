@@ -54453,5 +54453,20 @@
     "status": "pending",
     "ultimo_fill": 1790407633,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7420,
+    "timestamp": 1790416037,
+    "username": "Netrol",
+    "wallet": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
+    "slug": "dota2-aur1-navi-2026-09-26-game1",
+    "title": "Dota 2: Aurora vs Natus Vincere - Game 1 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 34752.7529,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1790416037,
+    "fills": 1
   }
 ]

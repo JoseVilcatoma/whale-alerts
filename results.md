@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 04:45:21 (hora de Perú)
+Actualizado: 2026-09-26 04:47:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3622**  ($197,659,127 en total)
+- Apuestas registradas: **3623**  ($197,693,880 en total)
 - Resueltas: **3604** — 2186 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 1
+- Pendientes: 2
 - Apostadores distintos: 464
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Netrol | Dota 2: Aurora vs Natus Vincere - Game 1 Winner | Natus Vincere | 1.79 (56¢) | $34,753 | — | ⏳ Pendiente |
 | phonesculptor | Will North Macedonia win on 2026-09-26? | No | 1.10 (91¢) | $38,279 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Clemson vs. California | Clemson | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
 | HMLSF | Clemson vs. California | Clemson | 1.79 (56¢) | $29,681 | +$23,321 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | ethanaz | Spread: Falcons (-3.5) | Packers | 1.79 (56¢) | $43,651 | -$43,651 | ❌ Perdida |
 | Kev69 | Houston Astros vs. Athletics | Houston Astros | 1.18 (85¢) | $26,430 | -$622 | 💰 Vendida antes |
 | Eztennis | Falcons vs. Packers | Falcons | 1.43 (70¢) | $37,341 | +$16,003 | ✅ Ganada |
-| KaneAnalytics | Falcons vs. Packers: O/U 45.5 | Over 45.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
