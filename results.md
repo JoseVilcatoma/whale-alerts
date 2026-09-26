@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 01:16:06 (hora de Perú)
+Actualizado: 2026-09-26 01:18:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3621**  ($197,620,848 en total)
-- Resueltas: **3595** — 2182 ganadas / 1413 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **3603** — 2185 ganadas / 1418 perdidas (**61%** de acierto)
+- Pendientes: 1
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,713,799** sobre $196,587,406 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,859** sobre $354,100 (ROI **-2.2%**)
+- **Resultado de los apostadores: -$2,737,179** sobre $196,915,450 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$8,144** sobre $354,900 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 137 | 4 | 65% | $26,251,170 | +$658,632 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 260 | 137 | 3 | 65% | $26,251,170 | +$673,432 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 0 | 93% | $2,014,685 | +$96,561 |
-| ethanaz | 22 | 6 | 2 | 79% | $1,959,537 | -$60,253 |
+| ethanaz | 22 | 8 | 0 | 73% | $1,959,537 | -$124,144 |
 | surfandturf | 18 | 2 | 0 | 90% | $1,873,560 | +$331,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | SmartPredictOrNot | 4 | 2 | 0 | ⚠️ 67% (6) | $1,784,240 | +$43,506 |
@@ -71,17 +71,17 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Clemson vs. California | Clemson | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
-| HMLSF | Clemson vs. California | Clemson | 1.79 (56¢) | $29,681 | — | ⏳ Pendiente |
-| KaneAnalytics | Clemson vs. California | California | 1.89 (53¢) | $30,789 | — | ⏳ Pendiente |
-| ethanaz | Clemson vs. California | California | 1.92 (52¢) | $31,166 | — | ⏳ Pendiente |
-| ethanaz | Clemson vs. California | California | 1.69 (59¢) | $32,725 | — | ⏳ Pendiente |
-| bands1 | Clemson vs. California | California | 2.22 (45¢) | $31,752 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Clemson vs. California | Clemson | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
+| HMLSF | Clemson vs. California | Clemson | 1.79 (56¢) | $29,681 | +$23,321 | ✅ Ganada |
+| KaneAnalytics | Clemson vs. California | California | 1.89 (53¢) | $30,789 | -$30,789 | ❌ Perdida |
+| ethanaz | Clemson vs. California | California | 1.92 (52¢) | $31,166 | -$31,166 | ❌ Perdida |
+| ethanaz | Clemson vs. California | California | 1.69 (59¢) | $32,725 | -$32,725 | ❌ Perdida |
+| bands1 | Clemson vs. California | California | 2.22 (45¢) | $31,752 | -$31,752 | ❌ Perdida |
 | BrotherObama | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $100,000 | +$88,679 | ✅ Ganada |
 | ethanaz | Navy vs. UAB | Navy | 1.49 (67¢) | $72,185 | -$72,185 | ❌ Perdida |
 | BrotherObama | Houston Astros vs. Athletics: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $120,000 | +$124,898 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Northwestern vs. Indiana | Indiana | 1.10 (91¢) | $27,255 | +$2,696 | ✅ Ganada |
-| liquiditycrisis | Clemson vs. California | Clemson | 1.79 (56¢) | $118,531 | — | ⏳ Pendiente |
+| liquiditycrisis | Clemson vs. California | Clemson | 1.79 (56¢) | $118,531 | +$93,131 | ✅ Ganada |
 | predictionlegend | Will CF Monterrey win on 2026-09-25? | No | 1.72 (58¢) | $25,287 | +$18,311 | ✅ Ganada |
 | Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Colorado Rockies | 3.23 (31¢) | $29,932 | -$29,932 | ❌ Perdida |
 | liquiditycrisis | Spread: Indiana (-20.5) | Northwestern | 2.00 (50¢) | $27,021 | +$27,021 | ✅ Ganada |
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | Diabolical-Prize | Counter-Strike: magic vs EYEBALLERS (BO3) - 1win Private Club #1 Playoffs | magic | 1.37 (73¢) | $94,900 | +$35,100 | ✅ Ganada |
 | tg-stakeqiu | Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs | Xtreme Gaming | 1.69 (59¢) | $40,000 | -$40,000 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.79 (56¢) | $50,400 | +$39,600 | ✅ Ganada |
-| WanderingWombat | Clemson vs. California | California | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
+| WanderingWombat | Clemson vs. California | California | 2.13 (47¢) | $28,200 | -$28,200 | ❌ Perdida |
 | 0x076d…8d4c | Türkiye vs. France: O/U 3.5 | Under 3.5 | 2.08 (48¢) | $38,795 | +$42,028 | ✅ Ganada |
 | mimi121 | Dota 2: GamerLegion vs 1win (BO3) - PGL Wallachia Playoffs | 1win | 1.45 (69¢) | $28,470 | -$28,470 | ❌ Perdida |
 | FORTNITEMASTER888 | Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D | NRG | 1.92 (52¢) | $39,624 | +$36,576 | ✅ Ganada |
