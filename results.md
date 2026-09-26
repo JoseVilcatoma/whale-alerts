@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 20:29:48 (hora de Perú)
+Actualizado: 2026-09-25 20:31:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3614**  ($197,339,535 en total)
+- Apuestas registradas: **3615**  ($197,439,535 en total)
 - Resueltas: **3585** — 2175 ganadas / 1410 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 464
 
 ### Balance
@@ -36,9 +36,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 34 | 38 | 1 | 47% | $3,539,674 | -$550,411 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
+| BrotherObama | 24 | 25 | 3 | 49% | $2,502,234 | +$78,413 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 37 | 23 | 0 | 62% | $2,408,850 | -$515,986 |
-| BrotherObama | 24 | 25 | 2 | 49% | $2,402,234 | +$78,413 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $100,000 | — | ⏳ Pendiente |
 | ethanaz | Navy vs. UAB | Navy | 1.49 (67¢) | $72,185 | — | ⏳ Pendiente |
 | BrotherObama | Houston Astros vs. Athletics: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $120,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Northwestern vs. Indiana | Indiana | 1.10 (91¢) | $27,255 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.69 (59¢) | $160,260 | -$160,260 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Falcons vs. Packers | Packers | 1.67 (60¢) | $41,968 | -$41,968 | ❌ Perdida |
 | ndb1 | Falcons vs. Packers: O/U 49.5 | Under 49.5 | 1.82 (55¢) | $33,000 | +$27,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Packers | Packers | 1.22 (82¢) | $36,375 | -$36,375 | ❌ Perdida |
