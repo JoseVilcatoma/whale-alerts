@@ -55834,5 +55834,20 @@
     "status": "pending",
     "ultimo_fill": 1790464244,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7575,
+    "timestamp": 1790464390,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-txam-lsu-2026-09-26",
+    "title": "Texas A&M vs. LSU",
+    "outcome": "LSU",
+    "side": "BUY",
+    "usd": 51472.520000000004,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1790464390,
+    "fills": 1
   }
 ]
