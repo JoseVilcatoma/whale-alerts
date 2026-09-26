@@ -54288,5 +54288,20 @@
     "status": "pending",
     "ultimo_fill": 1790383448,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7388,
+    "timestamp": 1790384735,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-nw-ind-2026-09-25",
+    "title": "Northwestern vs. Indiana",
+    "outcome": "Indiana",
+    "side": "BUY",
+    "usd": 27254.991400000003,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1790384735,
+    "fills": 1
   }
 ]
