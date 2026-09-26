@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 14:49:37 (hora de Perú)
+Actualizado: 2026-09-26 14:51:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3691**  ($201,122,089 en total)
+- Apuestas registradas: **3692**  ($201,150,999 en total)
 - Resueltas: **3620** — 2198 ganadas / 1422 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 469
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SharkbetX-com | Will England win on 2026-09-26? | Yes | 1.82 (55¢) | $28,909 | — | ⏳ Pendiente |
 | Sassy-Bucket | Vanderbilt vs. Auburn | Vanderbilt | 4.17 (24¢) | $29,417 | — | ⏳ Pendiente |
 | texaskid | Utah vs. Iowa State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $47,830 | — | ⏳ Pendiente |
 | alwaysfade | Ole Miss vs. Florida | Florida | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.00 (50¢) | $77,828 | — | ⏳ Pendiente |
 | Kch-Temp | UCLA vs. Maryland | UCLA | 1.85 (54¢) | $84,236 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.00 (50¢) | $30,257 | — | ⏳ Pendiente |
-| 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.13 (47¢) | $28,630 | — | ⏳ Pendiente |
