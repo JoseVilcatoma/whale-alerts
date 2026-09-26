@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 17:50:31 (hora de Perú)
+Actualizado: 2026-09-26 17:52:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3712**  ($202,104,093 en total)
-- Resueltas: **3644** — 2217 ganadas / 1427 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Resueltas: **3645** — 2218 ganadas / 1427 perdidas (**61%** de acierto)
+- Pendientes: 49
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,618,855** sobre $198,940,829 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$7,016** sobre $359,000 (ROI **-2.0%**)
+- **Resultado de los apostadores: -$2,615,069** sobre $198,979,108 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$7,006** sobre $359,100 (ROI **-2.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | Kch-Temp | 15 | 6 | 1 | 71% | $1,191,211 | +$559,780 |
-| phonesculptor | 13 | 3 | 2 | 81% | $1,181,685 | -$24,387 |
+| phonesculptor | 14 | 3 | 1 | 82% | $1,181,685 | -$20,602 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
 
