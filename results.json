@@ -55774,5 +55774,20 @@
     "status": "pending",
     "ultimo_fill": 1790460503,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7552,
+    "timestamp": 1790461602,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-loulaf-charlt-2026-09-26",
+    "title": "Louisiana vs. Charlotte",
+    "outcome": "Louisiana",
+    "side": "BUY",
+    "usd": 84730.9784,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1790461602,
+    "fills": 1
   }
 ]
