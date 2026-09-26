@@ -54258,5 +54258,20 @@
     "status": "pending",
     "ultimo_fill": 1790379472,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7384,
+    "timestamp": 1790381495,
+    "username": "predictionlegend",
+    "wallet": "0x3eb095d871501a1d7a3cb086a22d174b52356a68",
+    "slug": "mex-atla-mon1-2026-09-25-mon1",
+    "title": "Will CF Monterrey win on 2026-09-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25286.8052,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1790381495,
+    "fills": 1
   }
 ]
