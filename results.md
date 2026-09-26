@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 09:16:06 (hora de Perú)
+Actualizado: 2026-09-26 09:18:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3643**  ($198,619,168 en total)
+- Apuestas registradas: **3644**  ($198,649,168 en total)
 - Resueltas: **3607** — 2189 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 466
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kosherlocks | Wake Forest vs. Louisville | Louisville | 1.22 (82¢) | $30,000 | — | ⏳ Pendiente |
 | texaskid | Spread: Auburn (-9.5) | Auburn | 1.92 (52¢) | $62,695 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: Walczaki vs BET-M 33 (BO3) - NODWIN Clutch Series Playoffs | BET-M 33 | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | texaskid | Spread: Miami (OH) (-3.5) | UConn | 1.85 (54¢) | $41,252 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | lllllllIlll | Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythical LAN Group B | M80 | 1.41 (71¢) | $53,219 | +$21,738 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: magic vs EYEBALLERS (BO3) - 1win Private Club #1 Playoffs | magic | 1.37 (73¢) | $94,900 | +$35,100 | ✅ Ganada |
 | tg-stakeqiu | Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs | Xtreme Gaming | 1.69 (59¢) | $40,000 | -$40,000 | ❌ Perdida |
-| lllllllIlll | Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs | GamerLegion | 1.79 (56¢) | $50,400 | +$39,600 | ✅ Ganada |
