@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 13:43:47 (hora de Perú)
+Actualizado: 2026-09-26 13:45:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3680**  ($200,551,934 en total)
+- Apuestas registradas: **3681**  ($200,612,722 en total)
 - Resueltas: **3610** — 2191 ganadas / 1419 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Pendientes: 53
 - Apostadores distintos: 468
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 260 | 137 | 7 | 65% | $26,435,091 | +$673,432 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 260 | 137 | 8 | 65% | $26,495,878 | +$673,432 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England vs. Spain end in a draw? | No | 1.41 (71¢) | $60,787 | — | ⏳ Pendiente |
 | tes21sa | Will England vs. Spain end in a draw? | Yes | 3.45 (29¢) | $29,992 | — | ⏳ Pendiente |
 | surfandturf | Will Spain win on 2026-09-26? | Yes | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
 | ripley86alien | Will Spain win on 2026-09-26? | No | 1.89 (53¢) | $113,674 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 | tankfest2027 | Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B | Team Vitality | 1.35 (74¢) | $36,920 | +$12,972 | ✅ Ganada |
 | Netrol | Dota 2: Aurora vs Natus Vincere - Game 1 Winner | Natus Vincere | 1.79 (56¢) | $34,753 | +$27,306 | ✅ Ganada |
 | phonesculptor | Will North Macedonia win on 2026-09-26? | No | 1.10 (91¢) | $38,279 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Clemson vs. California | Clemson | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
