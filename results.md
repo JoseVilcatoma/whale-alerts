@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-25 23:29:06 (hora de Perú)
+Actualizado: 2026-09-25 23:31:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3620**  ($197,595,648 en total)
+- Apuestas registradas: **3621**  ($197,620,848 en total)
 - Resueltas: **3593** — 2180 ganadas / 1413 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 464
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 137 | 3 | 65% | $26,225,970 | +$658,632 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 259 | 137 | 4 | 65% | $26,251,170 | +$658,632 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Clemson vs. California | Clemson | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | HMLSF | Clemson vs. California | Clemson | 1.79 (56¢) | $29,681 | — | ⏳ Pendiente |
 | KaneAnalytics | Clemson vs. California | California | 1.89 (53¢) | $30,789 | — | ⏳ Pendiente |
 | ethanaz | Clemson vs. California | California | 1.92 (52¢) | $31,166 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | Eztennis | Falcons vs. Packers | Falcons | 1.43 (70¢) | $37,341 | +$16,003 | ✅ Ganada |
 | KaneAnalytics | Falcons vs. Packers: O/U 45.5 | Over 45.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | TAIWANNUMBERONE | Falcons vs. Packers | Falcons | 1.45 (69¢) | $36,445 | +$16,374 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Falcons (-4.5) | Packers | 2.00 (50¢) | $51,433 | -$51,433 | ❌ Perdida |
