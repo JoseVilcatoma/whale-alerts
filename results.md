@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 17:46:26 (hora de Perú)
+Actualizado: 2026-09-26 17:48:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3711**  ($202,073,855 en total)
+- Apuestas registradas: **3712**  ($202,104,093 en total)
 - Resueltas: **3644** — 2217 ganadas / 1427 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Pendientes: 50
 - Apostadores distintos: 469
 
 ### Balance
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 25 | 26 | 1 | 49% | $1,553,883 | -$136,468 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 1 | 92% | $1,527,965 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Roadto1mlesgooo | Canada vs. Chile: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $30,238 | — | ⏳ Pendiente |
 | Sassy-Bucket | Louisiana vs. Charlotte | Louisiana | 1.27 (79¢) | $84,731 | — | ⏳ Pendiente |
 | ic4cream | Missouri vs. Mississippi State | Mississippi State | 1.61 (62¢) | $33,852 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.79 (56¢) | $40,204 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | SDTrading | Ball State vs. Kent State | Kent State | 1.75 (57¢) | $28,500 | +$21,500 | ✅ Ganada |
 | SDTrading | Spread: UNLV (-13.5) | UNLV | 1.92 (52¢) | $45,711 | +$42,195 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $26,100 | +$5,346 | ✅ Ganada |
-| Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $27,198 | +$5,571 | ✅ Ganada |
