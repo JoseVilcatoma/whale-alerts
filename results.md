@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 15:10:13 (hora de Perú)
+Actualizado: 2026-09-26 15:12:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3696**  ($201,352,021 en total)
+- Apuestas registradas: **3697**  ($201,385,585 en total)
 - Resueltas: **3625** — 2201 ganadas / 1424 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 469
 
 ### Balance
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| SDTrading | 24 | 26 | 1 | 48% | $1,520,320 | -$160,468 |
+| SDTrading | 24 | 26 | 2 | 48% | $1,553,883 | -$160,468 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 0 | 92% | $1,497,727 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Spread: Nebraska (-6.5) | Michigan State | 1.96 (51¢) | $33,563 | — | ⏳ Pendiente |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.28 (78¢) | $36,763 | — | ⏳ Pendiente |
 | phonesculptor | South Florida vs. Bowling Green | South Florida | 1.12 (89¢) | $62,935 | — | ⏳ Pendiente |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.43 (70¢) | $72,033 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | SDTrading | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-09-26? | No | 1.32 (76¢) | $43,822 | — | ⏳ Pendiente |
 | Ne8om | Will Spain win on 2026-09-26? | No | 2.00 (50¢) | $33,477 | — | ⏳ Pendiente |
-| 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.00 (50¢) | $95,373 | — | ⏳ Pendiente |
