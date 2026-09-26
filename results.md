@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 06:09:05 (hora de Perú)
+Actualizado: 2026-09-26 06:11:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3628**  ($197,892,283 en total)
-- Resueltas: **3604** — 2186 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **3605** — 2187 ganadas / 1418 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 466
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,707,628** sobre $196,940,623 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$8,026** sobre $355,000 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,680,322** sobre $196,975,376 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,948** sobre $355,100 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 466 en total)_
 | Diabolical-Prize | Map Handicap: paiN (-1.5) vs Galorys (+1.5) | Galorys | 1.35 (74¢) | $25,865 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: paiN vs Galorys (BO3) - FERJEE In House Playoffs | Galorys | 2.27 (44¢) | $30,800 | — | ⏳ Pendiente |
 | tankfest2027 | Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B | Team Vitality | 1.35 (74¢) | $36,920 | — | ⏳ Pendiente |
-| Netrol | Dota 2: Aurora vs Natus Vincere - Game 1 Winner | Natus Vincere | 1.79 (56¢) | $34,753 | — | ⏳ Pendiente |
+| Netrol | Dota 2: Aurora vs Natus Vincere - Game 1 Winner | Natus Vincere | 1.79 (56¢) | $34,753 | +$27,306 | ✅ Ganada |
 | phonesculptor | Will North Macedonia win on 2026-09-26? | No | 1.10 (91¢) | $38,279 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Clemson vs. California | Clemson | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
 | HMLSF | Clemson vs. California | Clemson | 1.79 (56¢) | $29,681 | +$23,321 | ✅ Ganada |
