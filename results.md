@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 01:18:07 (hora de Perú)
+Actualizado: 2026-09-26 01:20:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3621**  ($197,620,848 en total)
-- Resueltas: **3603** — 2185 ganadas / 1418 perdidas (**61%** de acierto)
-- Pendientes: 1
+- Resueltas: **3604** — 2186 ganadas / 1418 perdidas (**61%** de acierto)
+- Pendientes: 0
 - Apostadores distintos: 464
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,737,179** sobre $196,915,450 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$8,144** sobre $354,900 (ROI **-2.3%**)
+- **Resultado de los apostadores: -$2,707,628** sobre $196,940,623 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$8,026** sobre $355,000 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 58 | 40 | 1 | 59% | $5,396,139 | -$365,150 |
+| wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 14 | 0 | 68% | $4,726,353 | +$1,750,969 |
 | Diabolical-Prize | 43 | 38 | 0 | 53% | $4,100,766 | -$203,354 |
 | Sassy-Bucket | 34 | 39 | 0 | 47% | $3,539,674 | -$580,343 |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 464 en total)_
 | Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Colorado Rockies | 3.23 (31¢) | $29,932 | -$29,932 | ❌ Perdida |
 | liquiditycrisis | Spread: Indiana (-20.5) | Northwestern | 2.00 (50¢) | $27,021 | +$27,021 | ✅ Ganada |
 | gawtaiuwty028wa3r | Spread: Navy (-6.5) | Navy | 2.00 (50¢) | $25,500 | -$25,500 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Clemson vs. California: O/U 50.5 | Under 50.5 | 2.17 (46¢) | $25,173 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Clemson vs. California: O/U 50.5 | Under 50.5 | 2.17 (46¢) | $25,173 | +$29,551 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FlyQuest vs Shopify Rebellion (BO5) - LCS Playoffs | FlyQuest | 1.25 (80¢) | $32,091 | -$32,091 | ❌ Perdida |
 | FlamePyro | Army vs. Temple | Temple | 2.63 (38¢) | $31,418 | -$31,418 | ❌ Perdida |
 | FlamePyro | Army vs. Temple | Army | 1.45 (69¢) | $25,199 | +$365 | 💰 Vendida antes |
