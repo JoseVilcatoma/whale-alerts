@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 14:26:58 (hora de Perú)
+Actualizado: 2026-09-26 14:29:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3686**  ($200,878,761 en total)
+- Apuestas registradas: **3687**  ($200,987,302 en total)
 - Resueltas: **3618** — 2197 ganadas / 1421 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 468
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
 | ripley86alien | 30 | 14 | 1 | 68% | $4,840,027 | +$1,750,969 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
-| Sassy-Bucket | 39 | 39 | 6 | 50% | $4,003,294 | -$548,437 |
+| Sassy-Bucket | 39 | 39 | 7 | 50% | $4,111,836 | -$548,437 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | BrotherObama | 26 | 25 | 3 | 51% | $2,562,234 | +$291,990 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Utah vs. Iowa State | Utah | 1.32 (76¢) | $108,541 | — | ⏳ Pendiente |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.33 (75¢) | $28,072 | — | ⏳ Pendiente |
 | Sassy-Bucket | TCU vs. UCF | TCU | 1.61 (62¢) | $60,901 | — | ⏳ Pendiente |
 | texaskid | Ole Miss vs. Florida | Florida | 1.61 (62¢) | $78,032 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 468 en total)_
 | 0x361b…74fe | Will Spain win on 2026-09-26? | Yes | 2.17 (46¢) | $62,800 | — | ⏳ Pendiente |
 | tg-stakeqiu | Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B | EDward Gaming | 3.33 (30¢) | $49,958 | -$49,958 | ❌ Perdida |
 | gvrgb326552g65 | Dota 2: Aurora vs Natus Vincere - Game 2 Winner | Natus Vincere | 2.04 (49¢) | $25,618 | +$26,663 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: EYEBALLERS vs K27 (BO3) - 1win Private Club #1 Playoffs | K27 | 1.52 (66¢) | $79,200 | +$40,800 | ✅ Ganada |
