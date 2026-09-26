@@ -55038,5 +55038,35 @@
     "status": "pending",
     "ultimo_fill": 1790437457,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7467,
+    "timestamp": 1790437604,
+    "username": "SmartPredictOrNot",
+    "wallet": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
+    "slug": "unl-far-kaz-2026-09-26-far",
+    "title": "Will Faroe Islands win on 2026-09-26?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 265753.8051,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1790437604,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7468,
+    "timestamp": 1790437654,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "cfb-ucla-mary-2026-09-26",
+    "title": "UCLA vs. Maryland",
+    "outcome": "UCLA",
+    "side": "BUY",
+    "usd": 39265.390499999994,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1790437654,
+    "fills": 1
   }
 ]
