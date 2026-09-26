@@ -54570,7 +54570,7 @@
     "side": "BUY",
     "usd": 62799.88999687098,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790424509,
     "fills": 2
   },
@@ -54600,7 +54600,7 @@
     "side": "BUY",
     "usd": 28629.870000000003,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790425885,
     "fills": 1
   },
@@ -54615,7 +54615,7 @@
     "side": "BUY",
     "usd": 30257.450002077578,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790426097,
     "fills": 1
   },
@@ -54645,7 +54645,7 @@
     "side": "BUY",
     "usd": 77827.7,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790426959,
     "fills": 2
   },
@@ -54675,7 +54675,7 @@
     "side": "BUY",
     "usd": 33476.77,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790428321,
     "fills": 1
   },
@@ -54690,7 +54690,7 @@
     "side": "BUY",
     "usd": 95372.749999,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790428428,
     "fills": 2
   },
@@ -54705,7 +54705,7 @@
     "side": "BUY",
     "usd": 43821.820400000004,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790428456,
     "fills": 1
   },
@@ -55231,7 +55231,7 @@
     "side": "BUY",
     "usd": 25237.1136,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790443417,
     "fills": 1
   },
@@ -55276,7 +55276,7 @@
     "side": "BUY",
     "usd": 47000.094,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790445759,
     "fills": 1
   },
@@ -55291,7 +55291,7 @@
     "side": "BUY",
     "usd": 45000.0855,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790446471,
     "fills": 1
   },
@@ -55306,7 +55306,7 @@
     "side": "BUY",
     "usd": 113674.40000000001,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790445761,
     "fills": 1
   },
@@ -55321,7 +55321,7 @@
     "side": "BUY",
     "usd": 29991.9914,
     "odds_at_bet": 29,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790448193,
     "fills": 1
   },
@@ -55336,7 +55336,7 @@
     "side": "BUY",
     "usd": 60787.28899999999,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790448252,
     "fills": 1
   },
@@ -55501,7 +55501,7 @@
     "side": "BUY",
     "usd": 28909.446500000002,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790452235,
     "fills": 1
   },
@@ -55803,6 +55803,21 @@
     "odds_at_bet": 94,
     "status": "pending",
     "ultimo_fill": 1790462828,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7561,
+    "timestamp": 1790463522,
+    "username": "phonesculptor",
+    "wallet": "0xf1528f12e645462c344799b62b1b421a6a4c64aa",
+    "slug": "cfb-kenest-arkst-2026-09-26",
+    "title": "Kennesaw State vs. Arkansas State",
+    "outcome": "Arkansas State",
+    "side": "BUY",
+    "usd": 31351.263999999996,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1790463522,
     "fills": 1
   }
 ]
