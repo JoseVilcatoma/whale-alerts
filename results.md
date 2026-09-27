@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 15:46:53 (hora de Perú)
+Actualizado: 2026-09-27 15:48:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3846**  ($210,742,268 en total)
+- Apuestas registradas: **3848**  ($210,837,849 en total)
 - Resueltas: **3750** — 2290 ganadas / 1460 perdidas (**61%** de acierto)
-- Pendientes: 78
+- Pendientes: 80
 - Apostadores distintos: 475
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 27 | 25 | 4 | 52% | $2,640,745 | +$320,813 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| ferrariChampions2026 | 38 | 24 | 2 | 61% | $2,517,743 | -$517,326 |
+| ferrariChampions2026 | 38 | 24 | 3 | 61% | $2,547,324 | -$517,326 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ethanaz | 29 | 10 | 0 | 74% | $2,340,392 | -$12,984 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Ravens vs. Cowboys | Cowboys | 1.52 (66¢) | $66,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $29,581 | — | ⏳ Pendiente |
 | 177-letsgo | Houston Astros vs. Athletics | Houston Astros | 1.08 (93¢) | $32,012 | — | ⏳ Pendiente |
 | ndb1 | Vikings vs. Buccaneers | Vikings | 1.89 (53¢) | $29,845 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Vikings vs. Buccaneers | Buccaneers | 2.22 (45¢) | $26,690 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 | wr0ngw4yb3tt0r | Bengals vs. Steelers: O/U 42.5 | Over 42.5 | 2.00 (50¢) | $46,075 | — | ⏳ Pendiente |
 | liquiditycrisis | Bengals vs. Steelers: O/U 42.5 | Under 42.5 | 2.00 (50¢) | $97,503 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: NIP vs magic (BO3) - 1win Private Club #1 Playoffs | magic | 1.92 (52¢) | $41,930 | -$41,930 | ❌ Perdida |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Titans vs. Giants | Giants | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $51,218 | +$9,756 | ✅ Ganada |
