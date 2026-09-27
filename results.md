@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 07:30:04 (hora de Perú)
+Actualizado: 2026-09-27 07:32:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3761**  ($205,504,588 en total)
+- Apuestas registradas: **3763**  ($205,668,652 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 28
 - Apostadores distintos: 470
 
 ### Balance
@@ -51,10 +51,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 10 | 3 | 4 | 77% | $1,730,227 | +$298,464 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
+| Kch-Temp | 16 | 6 | 6 | 73% | $1,564,513 | +$588,416 |
 | SDTrading | 25 | 27 | 0 | 48% | $1,553,883 | -$170,031 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Kch-Temp | 16 | 6 | 4 | 73% | $1,400,449 | +$588,416 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Bengals vs. Steelers | Steelers | 2.56 (39¢) | $99,491 | — | ⏳ Pendiente |
+| Kch-Temp | Spread: Bengals (-3.5) | Steelers | 1.85 (54¢) | $64,573 | — | ⏳ Pendiente |
 | surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $239,620 | — | ⏳ Pendiente |
 | Kch-Temp | Panthers vs. Browns: O/U 42.5 | Under 42.5 | 1.89 (53¢) | $30,244 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Norway win on 2026-09-27? | Yes | 2.38 (42¢) | $37,573 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | TAIWANNUMBERONE | Ole Miss vs. Florida | Florida | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
 | Talvez10 | UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims) | Rodolfo Bellato | 1.59 (63¢) | $29,613 | -$29,613 | ❌ Perdida |
 | nuttypoo | Wisconsin vs. Penn State | Penn State | 1.27 (79¢) | $122,133 | -$122,133 | ❌ Perdida |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: South Florida (-18.5) | Bowling Green | 1.89 (53¢) | $28,744 | +$25,490 | ✅ Ganada |
-| texaskid | Spread: LSU (-8.5) | LSU | 2.00 (50¢) | $87,553 | +$87,553 | ✅ Ganada |

@@ -56539,5 +56539,35 @@
     "status": "pending",
     "ultimo_fill": 1790512108,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7678,
+    "timestamp": 1790512222,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "nfl-cin-pit-2026-09-27-spread-away-3pt5",
+    "title": "Spread: Bengals (-3.5)",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 64572.552,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1790512222,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7679,
+    "timestamp": 1790512229,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "nfl-cin-pit-2026-09-27",
+    "title": "Bengals vs. Steelers",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 99491.0397,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1790512229,
+    "fills": 2
   }
 ]
