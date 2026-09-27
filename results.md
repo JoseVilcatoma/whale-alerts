@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 20:57:15 (hora de Perú)
+Actualizado: 2026-09-26 20:59:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3729**  ($202,907,049 en total)
+- Apuestas registradas: **3730**  ($202,979,143 en total)
 - Resueltas: **3691** — 2245 ganadas / 1446 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 469
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Oregon vs. USC | Oregon | 1.41 (71¢) | $72,095 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.72 (58¢) | $27,360 | — | ⏳ Pendiente |
 | Sassy-Bucket | Rice vs. Fresno State | Fresno State | 1.22 (82¢) | $34,194 | — | ⏳ Pendiente |
 | texaskid | Spread: Fresno State (-12.5) | Fresno State | 1.96 (51¢) | $26,670 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | primm | TCU vs. UCF | TCU | 1.67 (60¢) | $42,601 | -$42,601 | ❌ Perdida |
 | Donkey14 | Spread: Georgia (-13.5) | Georgia | 2.04 (49¢) | $50,000 | +$52,041 | ✅ Ganada |
 | 177-letsgo | South Alabama vs. Kentucky | Kentucky | 1.09 (92¢) | $73,599 | +$6,400 | ✅ Ganada |
-| 177-letsgo | Texas vs. Tennessee | Texas | 1.32 (76¢) | $26,486 | +$8,364 | ✅ Ganada |
