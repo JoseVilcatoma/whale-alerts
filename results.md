@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 07:05:32 (hora de Perú)
+Actualizado: 2026-09-27 07:07:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3758**  ($205,197,151 en total)
+- Apuestas registradas: **3759**  ($205,234,724 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 470
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x361b…74fe | Will Norway win on 2026-09-27? | Yes | 2.38 (42¢) | $37,573 | — | ⏳ Pendiente |
 | ptrck7 | Will Serbia win on 2026-09-27? | No | 1.12 (89¢) | $31,856 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $34,030 | — | ⏳ Pendiente |
 | Kch-Temp | Seahawks vs. Commanders: O/U 40.5 | Over 40.5 | 2.08 (48¢) | $80,988 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | texaskid | Spread: LSU (-8.5) | LSU | 2.00 (50¢) | $87,553 | +$87,553 | ✅ Ganada |
 | ethanaz | Iowa vs. Michigan | Michigan | 1.35 (74¢) | $30,194 | -$30,194 | ❌ Perdida |
 | ethanaz | Iowa vs. Michigan | Michigan | 1.39 (72¢) | $44,672 | -$44,672 | ❌ Perdida |
-| ethanaz | Ole Miss vs. Florida | Florida | 1.19 (84¢) | $54,473 | +$10,376 | ✅ Ganada |
