@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 10:25:51 (hora de Perú)
+Actualizado: 2026-09-27 10:27:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3802**  ($207,692,345 en total)
+- Apuestas registradas: **3804**  ($207,773,033 en total)
 - Resueltas: **3719** — 2267 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 65
-- Apostadores distintos: 472
+- Pendientes: 67
+- Apostadores distintos: 473
 
 ### Balance
 
@@ -53,8 +53,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 25 | 27 | 2 | 48% | $1,615,472 | -$170,031 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
+| Jsram | 14 | 17 | 3 | 45% | $1,503,878 | -$442,701 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| Jsram | 14 | 17 | 2 | 45% | $1,461,970 | -$442,701 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 9 | 6 | 6 | 60% | $1,217,108 | -$56,814 |
 | phonesculptor | 16 | 3 | 0 | 84% | $1,213,036 | +$613 |
 
-_(mostrando los 40 de mayor monto, de 472 en total)_
+_(mostrando los 40 de mayor monto, de 473 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Spread: Bills (-6.5) | Bills | 1.79 (56¢) | $41,908 | — | ⏳ Pendiente |
+| ColdBlooded | LoL: Colossal Gaming vs The Ruddy Sack (BO1) - EMEA Masters Swiss Stage | The Ruddy Sack | 1.14 (88¢) | $38,779 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: 49ers (-7.5) | Cardinals | 2.04 (49¢) | $41,605 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Bills (-7.5) | Chargers | 1.89 (53¢) | $34,920 | — | ⏳ Pendiente |
 | taylorsversion | Spread: Giants (-2.5) | Titans | 2.00 (50¢) | $95,371 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | raybanman | Spread: Bills (-7.5) | Bills | 2.00 (50¢) | $314,445 | — | ⏳ Pendiente |
 | esportsbetter1 | Valorant: 100 Thieves vs T1 (BO3) - VCT Champions Group A | 100 Thieves | 1.47 (68¢) | $34,000 | +$16,000 | ✅ Ganada |
 | texaskid | Cardinals vs. 49ers: O/U 48.5 | Over 48.5 | 1.96 (51¢) | $78,573 | — | ⏳ Pendiente |
-| liquiditycrisis | Spread: Panthers (-5.5) | Browns | 1.56 (64¢) | $50,913 | — | ⏳ Pendiente |
-| takeormake | Spread: Panthers (-4.5) | Panthers | 2.70 (37¢) | $29,212 | — | ⏳ Pendiente |
