@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 17:28:51 (hora de Perú)
+Actualizado: 2026-09-27 17:30:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3862**  ($211,341,703 en total)
+- Apuestas registradas: **3863**  ($211,388,132 en total)
 - Resueltas: **3787** — 2310 ganadas / 1477 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Pendientes: 58
 - Apostadores distintos: 477
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YEEES-but-why | Raiders vs. Saints | Saints | 1.12 (89¢) | $46,429 | — | ⏳ Pendiente |
 | ethanaz | Raiders vs. Saints | Saints | 1.20 (83¢) | $77,737 | — | ⏳ Pendiente |
 | YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.33 (75¢) | $27,154 | — | ⏳ Pendiente |
 | dreamerwon | Ravens vs. Cowboys | Cowboys | 3.85 (26¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 | ferrariChampions2026 | Titans vs. Giants | Titans | 2.27 (44¢) | $25,359 | -$25,359 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 1.96 (51¢) | $56,211 | +$54,006 | ✅ Ganada |
 | Jsram | Spread: Bills (-6.5) | Bills | 1.79 (56¢) | $41,908 | — | ⏳ Pendiente |
-| ColdBlooded | LoL: Colossal Gaming vs The Ruddy Sack (BO1) - EMEA Masters Swiss Stage | The Ruddy Sack | 1.14 (88¢) | $38,779 | +$5,288 | ✅ Ganada |
