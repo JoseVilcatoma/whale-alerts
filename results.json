@@ -57526,7 +57526,7 @@
     "side": "BUY",
     "usd": 25000.000000000004,
     "odds_at_bet": 36,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790537105,
     "fills": 1
   },
@@ -57811,7 +57811,7 @@
     "side": "BUY",
     "usd": 32012.460000000003,
     "odds_at_bet": 93,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790541532,
     "fills": 1
   },
@@ -58113,6 +58113,21 @@
     "odds_at_bet": 69,
     "status": "pending",
     "ultimo_fill": 1790551921,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7871,
+    "timestamp": 1790552123,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-bal-dal-2026-09-27",
+    "title": "Ravens vs. Cowboys",
+    "outcome": "Cowboys",
+    "side": "BUY",
+    "usd": 32628.056500000002,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1790552123,
     "fills": 1
   }
 ]

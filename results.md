@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 18:33:39 (hora de Perú)
+Actualizado: 2026-09-27 18:35:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3866**  ($211,524,132 en total)
-- Resueltas: **3801** — 2319 ganadas / 1482 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Apuestas registradas: **3867**  ($211,556,760 en total)
+- Resueltas: **3803** — 2320 ganadas / 1483 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 477
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,108,337** sobre $208,241,741 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,732** sobre $374,700 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$1,130,927** sobre $208,298,754 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,824** sobre $374,900 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 138 | 7 | 67% | $27,208,723 | +$1,005,916 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 138 | 8 | 67% | $27,241,351 | +$1,005,916 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 63 | 41 | 3 | 61% | $5,932,804 | +$39,482 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| BrotherObama | 27 | 25 | 4 | 52% | $2,640,745 | +$320,813 |
+| BrotherObama | 27 | 26 | 3 | 51% | $2,640,745 | +$295,813 |
 | ferrariChampions2026 | 38 | 25 | 4 | 60% | $2,619,129 | -$549,169 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $32,628 | — | ⏳ Pendiente |
 | Berniepaidoff | Ravens vs. Cowboys | Ravens | 1.45 (69¢) | $50,000 | — | ⏳ Pendiente |
 | YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $34,400 | — | ⏳ Pendiente |
 | jaytee158 | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $51,600 | — | ⏳ Pendiente |
@@ -91,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 3.33 (30¢) | $30,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Ravens vs. Cowboys | Cowboys | 1.52 (66¢) | $66,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $29,581 | — | ⏳ Pendiente |
-| 177-letsgo | Houston Astros vs. Athletics | Houston Astros | 1.08 (93¢) | $32,012 | — | ⏳ Pendiente |
+| 177-letsgo | Houston Astros vs. Athletics | Houston Astros | 1.08 (93¢) | $32,012 | +$2,410 | ✅ Ganada |
 | ndb1 | Vikings vs. Buccaneers | Vikings | 1.89 (53¢) | $29,845 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Vikings vs. Buccaneers | Buccaneers | 2.22 (45¢) | $26,690 | — | ⏳ Pendiente |
 | LTandBB | Raiders vs. Saints | Saints | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
@@ -110,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 | BrotherObama | Spread: Saints (-3.5) | Raiders | 1.92 (52¢) | $53,511 | — | ⏳ Pendiente |
 | xifutloong3 | Atlanta Braves vs. Miami Marlins | Miami Marlins | 1.85 (54¢) | $39,341 | +$33,513 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.61 (62¢) | $37,152 | — | ⏳ Pendiente |
-| BrotherObama | Houston Astros vs. Athletics | Athletics | 2.78 (36¢) | $25,000 | — | ⏳ Pendiente |
+| BrotherObama | Houston Astros vs. Athletics | Athletics | 2.78 (36¢) | $25,000 | -$25,000 | ❌ Perdida |
 | omnibus-076daa | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Cloud9 | 2.78 (36¢) | $25,940 | — | ⏳ Pendiente |
 | Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Chicago White Sox | 1.67 (60¢) | $66,119 | +$44,079 | ✅ Ganada |
 | cosmicxbt | Chiefs vs. Dolphins | Chiefs | 1.20 (83¢) | $132,027 | +$27,042 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 | COMEONDUDE | Spread: Bills (-7.5) | Bills | 2.13 (47¢) | $32,251 | +$36,368 | ✅ Ganada |
 | texaskid | Spread: 49ers (-7.5) | 49ers | 1.96 (51¢) | $124,206 | — | ⏳ Pendiente |
 | Diabolical-Prize | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $145,224 | +$145,224 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $67,996 | +$53,425 | ✅ Ganada |
