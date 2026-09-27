@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 19:51:51 (hora de Perú)
+Actualizado: 2026-09-26 19:53:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3725**  ($202,751,809 en total)
-- Resueltas: **3688** — 2244 ganadas / 1444 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **3689** — 2244 ganadas / 1445 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,562,004** sobre $201,058,585 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$6,846** sobre $363,400 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$2,684,137** sobre $201,180,718 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$6,946** sobre $363,500 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Talvez10 | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.82 (55¢) | $31,484 | -$31,484 | ❌ Perdida |
 | TAIWANNUMBERONE | Ole Miss vs. Florida | Florida | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
 | Talvez10 | UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims) | Rodolfo Bellato | 1.59 (63¢) | $29,613 | -$29,613 | ❌ Perdida |
-| nuttypoo | Wisconsin vs. Penn State | Penn State | 1.27 (79¢) | $122,133 | — | ⏳ Pendiente |
+| nuttypoo | Wisconsin vs. Penn State | Penn State | 1.27 (79¢) | $122,133 | -$122,133 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: South Florida (-18.5) | Bowling Green | 1.89 (53¢) | $28,744 | +$25,490 | ✅ Ganada |
 | texaskid | Spread: LSU (-8.5) | LSU | 2.00 (50¢) | $87,553 | — | ⏳ Pendiente |
 | ethanaz | Iowa vs. Michigan | Michigan | 1.35 (74¢) | $30,194 | -$30,194 | ❌ Perdida |
