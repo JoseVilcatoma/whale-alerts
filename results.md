@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 08:39:50 (hora de Perú)
+Actualizado: 2026-09-27 08:41:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3773**  ($206,318,116 en total)
+- Apuestas registradas: **3774**  ($206,369,861 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 38
-- Apostadores distintos: 471
+- Pendientes: 39
+- Apostadores distintos: 472
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | phonesculptor | 16 | 3 | 0 | 84% | $1,213,036 | +$613 |
 | texaskid | 11 | 9 | 2 | 55% | $1,145,322 | +$26,235 |
 
-_(mostrando los 40 de mayor monto, de 471 en total)_
+_(mostrando los 40 de mayor monto, de 472 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| btmx6 | Bengals vs. Steelers | Bengals | 1.64 (61¢) | $51,745 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: 49ers (-7.5) | 49ers | 2.00 (50¢) | $29,807 | — | ⏳ Pendiente |
 | gmpm2 | Spread: 49ers (-7.5) | Cardinals | 1.96 (51¢) | $50,608 | — | ⏳ Pendiente |
 | SDTrading | New York Mets vs. Washington Nationals | Washington Nationals | 2.00 (50¢) | $27,871 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 471 en total)_
 | Sassy-Bucket | Tulsa vs. Arkansas | Arkansas | 1.39 (72¢) | $131,976 | +$51,324 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Brady Hiestand vs. Rinya Nakamura (Bantamweight, Main Card) | Rinya Nakamura | 1.30 (77¢) | $93,810 | -$93,810 | ❌ Perdida |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $51,473 | +$16,254 | ✅ Ganada |
-| Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $31,908 | +$10,076 | ✅ Ganada |

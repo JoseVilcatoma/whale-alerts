@@ -56719,5 +56719,20 @@
     "status": "pending",
     "ultimo_fill": 1790516344,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7690,
+    "timestamp": 1790516447,
+    "username": "btmx6",
+    "wallet": "0x74692bbae173bfe318cba2606e319a5685cca5f0",
+    "slug": "nfl-cin-pit-2026-09-27",
+    "title": "Bengals vs. Steelers",
+    "outcome": "Bengals",
+    "side": "BUY",
+    "usd": 51744.6164,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1790516447,
+    "fills": 1
   }
 ]
