@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 10:13:14 (hora de Perú)
+Actualizado: 2026-09-27 10:15:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3798**  ($207,392,726 en total)
+- Apuestas registradas: **3800**  ($207,615,821 en total)
 - Resueltas: **3718** — 2266 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Pendientes: 64
 - Apostadores distintos: 472
 
 ### Balance
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
+| wr0ngw4yb3tt0r | 59 | 41 | 3 | 59% | $5,649,939 | -$370,618 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 59 | 41 | 2 | 59% | $5,522,216 | -$370,618 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Sassy-Bucket | 49 | 47 | 0 | 51% | $4,823,877 | -$902,306 |
 | Diabolical-Prize | 44 | 40 | 1 | 52% | $4,261,887 | -$219,220 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| taylorsversion | Spread: Giants (-2.5) | Titans | 2.00 (50¢) | $95,371 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $127,723 | — | ⏳ Pendiente |
 | gmpm2 | Bengals vs. Steelers | Bengals | 1.64 (61¢) | $32,696 | — | ⏳ Pendiente |
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $39,400 | — | ⏳ Pendiente |
 | bands1 | Titans vs. Giants | Giants | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | takeormake | Spread: Panthers (-4.5) | Panthers | 2.70 (37¢) | $29,212 | — | ⏳ Pendiente |
 | Elaran1993 | Spread: Panthers (-3.5) | Browns | 1.67 (60¢) | $41,631 | — | ⏳ Pendiente |
 | takeormake | Panthers vs. Browns | Panthers | 1.82 (55¢) | $150,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-14.5) | Chargers | 1.39 (72¢) | $57,600 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Minnesota vs. Washington | Washington | 1.92 (52¢) | $35,019 | -$35,019 | ❌ Perdida |
