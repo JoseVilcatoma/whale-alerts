@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 00:43:02 (hora de Perú)
+Actualizado: 2026-09-27 00:45:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3745**  ($203,855,224 en total)
+- Apuestas registradas: **3746**  ($203,889,224 en total)
 - Resueltas: **3709** — 2260 ganadas / 1449 perdidas (**61%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 469
+- Pendientes: 19
+- Apostadores distintos: 470
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | texaskid | 10 | 9 | 3 | 53% | $1,145,322 | +$611 |
 | Elaran1993 | 8 | 6 | 1 | 57% | $1,129,332 | +$329,161 |
 
-_(mostrando los 40 de mayor monto, de 469 en total)_
+_(mostrando los 40 de mayor monto, de 470 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| esportsbetter1 | Valorant: 100 Thieves vs T1 (BO3) - VCT Champions Group A | 100 Thieves | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
 | texaskid | Cardinals vs. 49ers: O/U 48.5 | Over 48.5 | 1.96 (51¢) | $78,573 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: Panthers (-5.5) | Browns | 1.56 (64¢) | $50,913 | — | ⏳ Pendiente |
 | takeormake | Spread: Panthers (-4.5) | Panthers | 2.70 (37¢) | $29,212 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | alwaysfade | Ole Miss vs. Florida | Florida | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | KaneAnalytics | Wake Forest vs. Louisville | Wake Forest | 1.61 (62¢) | $26,040 | +$15,960 | ✅ Ganada |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.32 (76¢) | $108,541 | +$34,276 | ✅ Ganada |
-| Sassy-Bucket | Utah vs. Iowa State | Utah | 1.33 (75¢) | $28,072 | +$9,357 | ✅ Ganada |

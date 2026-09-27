@@ -56299,5 +56299,20 @@
     "status": "pending",
     "ultimo_fill": 1790486559,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7653,
+    "timestamp": 1790487789,
+    "username": "esportsbetter1",
+    "wallet": "0x866056133a70de9282a080758858d1a0c8b393ed",
+    "slug": "val-100t1-t1-2026-09-27",
+    "title": "Valorant: 100 Thieves vs T1 (BO3) - VCT Champions Group A",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 34000.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1790487789,
+    "fills": 1
   }
 ]
