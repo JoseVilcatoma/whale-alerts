@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 10:40:21 (hora de Perú)
+Actualizado: 2026-09-27 10:42:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3807**  ($207,922,599 en total)
+- Apuestas registradas: **3809**  ($208,192,029 en total)
 - Resueltas: **3719** — 2267 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 70
+- Pendientes: 72
 - Apostadores distintos: 473
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Sassy-Bucket | 49 | 47 | 0 | 51% | $4,823,877 | -$902,306 |
-| Diabolical-Prize | 44 | 40 | 1 | 52% | $4,261,887 | -$219,220 |
+| Diabolical-Prize | 44 | 40 | 2 | 52% | $4,407,111 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 21 | 2 | 3 | 91% | $2,605,702 | +$500,939 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -58,12 +58,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
+| texaskid | 11 | 9 | 4 | 55% | $1,296,457 | +$26,235 |
 | Lakersfan111 | 16 | 14 | 0 | 53% | $1,274,405 | -$101,179 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | maz26 | 9 | 6 | 6 | 60% | $1,217,108 | -$56,814 |
-| phonesculptor | 16 | 3 | 0 | 84% | $1,213,036 | +$613 |
 
 _(mostrando los 40 de mayor monto, de 473 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 473 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Spread: 49ers (-7.5) | 49ers | 1.96 (51¢) | $124,206 | — | ⏳ Pendiente |
+| Diabolical-Prize | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $145,224 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $67,996 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Titans vs. Giants | Titans | 2.27 (44¢) | $25,359 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 1.96 (51¢) | $56,211 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 473 en total)_
 | nuttypoo | Seahawks vs. Commanders | Seahawks | 1.28 (78¢) | $105,300 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Lions (-3.5) | Lions | 1.67 (60¢) | $28,077 | — | ⏳ Pendiente |
 | raybanman | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $267,375 | — | ⏳ Pendiente |
-| raybanman | Spread: Chiefs (-10.5) | Dolphins | 1.85 (54¢) | $175,216 | — | ⏳ Pendiente |
-| raybanman | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $140,597 | — | ⏳ Pendiente |
