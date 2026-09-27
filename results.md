@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 21:05:26 (hora de Perú)
+Actualizado: 2026-09-26 21:07:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3730**  ($202,979,143 en total)
+- Apuestas registradas: **3731**  ($203,067,643 en total)
 - Resueltas: **3691** — 2245 ganadas / 1446 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 469
 
 ### Balance
@@ -44,8 +44,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
+| surfandturf | 20 | 2 | 1 | 91% | $2,054,060 | +$439,439 |
 | 0F62 | 26 | 2 | 1 | 93% | $2,048,429 | +$96,561 |
-| surfandturf | 20 | 2 | 0 | 91% | $1,965,560 | +$439,439 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.69 (59¢) | $88,500 | — | ⏳ Pendiente |
 | cosmicxbt | Oregon vs. USC | Oregon | 1.41 (71¢) | $72,095 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.72 (58¢) | $27,360 | — | ⏳ Pendiente |
 | Sassy-Bucket | Rice vs. Fresno State | Fresno State | 1.22 (82¢) | $34,194 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | bredxiao | Will Spain win on 2026-09-26? | Yes | 2.08 (48¢) | $25,237 | +$27,340 | ✅ Ganada |
 | primm | TCU vs. UCF | TCU | 1.67 (60¢) | $42,601 | -$42,601 | ❌ Perdida |
 | Donkey14 | Spread: Georgia (-13.5) | Georgia | 2.04 (49¢) | $50,000 | +$52,041 | ✅ Ganada |
-| 177-letsgo | South Alabama vs. Kentucky | Kentucky | 1.09 (92¢) | $73,599 | +$6,400 | ✅ Ganada |

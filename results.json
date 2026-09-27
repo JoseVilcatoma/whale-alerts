@@ -56074,5 +56074,20 @@
     "status": "pending",
     "ultimo_fill": 1790474276,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7619,
+    "timestamp": 1790474798,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "ufc-rao-rau2-2026-09-26",
+    "title": "UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card)",
+    "outcome": "Raul Rosas Jr.",
+    "side": "BUY",
+    "usd": 88500.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1790474798,
+    "fills": 1
   }
 ]
