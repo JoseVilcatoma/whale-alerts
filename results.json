@@ -56944,5 +56944,20 @@
     "status": "pending",
     "ultimo_fill": 1790519879,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7705,
+    "timestamp": 1790519986,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-nip-mgc-2026-09-27",
+    "title": "Counter-Strike: NIP vs magic (BO3) - 1win Private Club #1 Playoffs",
+    "outcome": "magic",
+    "side": "BUY",
+    "usd": 41929.6072,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1790519986,
+    "fills": 1
   }
 ]
