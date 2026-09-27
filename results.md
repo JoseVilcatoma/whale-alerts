@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 08:37:45 (hora de Perú)
+Actualizado: 2026-09-27 08:39:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3772**  ($206,288,309 en total)
+- Apuestas registradas: **3773**  ($206,318,116 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 471
 
 ### Balance
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | raybanman | 10 | 3 | 4 | 77% | $1,730,227 | +$298,464 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| Kch-Temp | 16 | 6 | 7 | 73% | $1,655,656 | +$588,416 |
+| Kch-Temp | 16 | 6 | 8 | 73% | $1,685,464 | +$588,416 |
 | SDTrading | 25 | 27 | 2 | 48% | $1,615,472 | -$170,031 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 471 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Spread: 49ers (-7.5) | 49ers | 2.00 (50¢) | $29,807 | — | ⏳ Pendiente |
 | gmpm2 | Spread: 49ers (-7.5) | Cardinals | 1.96 (51¢) | $50,608 | — | ⏳ Pendiente |
 | SDTrading | New York Mets vs. Washington Nationals | Washington Nationals | 2.00 (50¢) | $27,871 | — | ⏳ Pendiente |
 | kkookkoo | St. Tropez: Titouan Droguet vs Harold Mayot | Titouan Droguet | 1.23 (81¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 471 en total)_
 | Sassy-Bucket | UFC Fight Night: Brady Hiestand vs. Rinya Nakamura (Bantamweight, Main Card) | Rinya Nakamura | 1.30 (77¢) | $93,810 | -$93,810 | ❌ Perdida |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $51,473 | +$16,254 | ✅ Ganada |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $31,908 | +$10,076 | ✅ Ganada |
-| phonesculptor | Kennesaw State vs. Arkansas State | Arkansas State | 1.43 (70¢) | $31,351 | +$13,436 | ✅ Ganada |
