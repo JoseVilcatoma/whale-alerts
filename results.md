@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 10:30:06 (hora de Perú)
+Actualizado: 2026-09-27 10:32:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3804**  ($207,773,033 en total)
+- Apuestas registradas: **3805**  ($207,829,243 en total)
 - Resueltas: **3719** — 2267 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Pendientes: 68
 - Apostadores distintos: 473
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
-| wr0ngw4yb3tt0r | 59 | 41 | 4 | 59% | $5,691,544 | -$370,618 |
+| wr0ngw4yb3tt0r | 59 | 41 | 5 | 59% | $5,747,755 | -$370,618 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Sassy-Bucket | 49 | 47 | 0 | 51% | $4,823,877 | -$902,306 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 473 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 1.96 (51¢) | $56,211 | — | ⏳ Pendiente |
 | Jsram | Spread: Bills (-6.5) | Bills | 1.79 (56¢) | $41,908 | — | ⏳ Pendiente |
 | ColdBlooded | LoL: Colossal Gaming vs The Ruddy Sack (BO1) - EMEA Masters Swiss Stage | The Ruddy Sack | 1.14 (88¢) | $38,779 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: 49ers (-7.5) | Cardinals | 2.04 (49¢) | $41,605 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 473 en total)_
 | raybanman | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $140,597 | — | ⏳ Pendiente |
 | raybanman | Spread: Bills (-7.5) | Bills | 2.00 (50¢) | $314,445 | — | ⏳ Pendiente |
 | esportsbetter1 | Valorant: 100 Thieves vs T1 (BO3) - VCT Champions Group A | 100 Thieves | 1.47 (68¢) | $34,000 | +$16,000 | ✅ Ganada |
-| texaskid | Cardinals vs. 49ers: O/U 48.5 | Over 48.5 | 1.96 (51¢) | $78,573 | — | ⏳ Pendiente |
