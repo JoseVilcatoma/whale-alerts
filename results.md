@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 16:35:03 (hora de Perú)
+Actualizado: 2026-09-27 16:37:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3856**  ($211,109,072 en total)
-- Resueltas: **3777** — 2303 ganadas / 1474 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Resueltas: **3778** — 2304 ganadas / 1474 perdidas (**61%** de acierto)
+- Pendientes: 60
 - Apostadores distintos: 475
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,550,587** sobre $206,766,188 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,271** sobre $372,300 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,522,716** sobre $206,794,059 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,171** sobre $372,400 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | raybanman | 11 | 3 | 3 | 79% | $1,730,227 | +$612,909 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| SDTrading | 25 | 28 | 2 | 47% | $1,644,472 | -$203,749 |
+| SDTrading | 26 | 28 | 1 | 48% | $1,644,472 | -$175,878 |
 | Jsram | 14 | 17 | 4 | 45% | $1,598,878 | -$442,701 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | maz26 | 10 | 10 | 3 | 50% | $1,509,900 | -$183,365 |
