@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 22:45:36 (hora de Perú)
+Actualizado: 2026-09-26 22:47:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3739**  ($203,447,297 en total)
-- Resueltas: **3706** — 2258 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **3707** — 2259 ganadas / 1448 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,420,498** sobre $202,098,926 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,545** sobre $365,200 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,399,750** sobre $202,132,778 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,484** sobre $365,300 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | phonesculptor | Kennesaw State vs. Arkansas State | Arkansas State | 1.43 (70¢) | $31,351 | +$13,436 | ✅ Ganada |
 | Roadto1mlesgooo | Canada vs. Chile: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $30,238 | +$1,930 | ✅ Ganada |
 | Sassy-Bucket | Louisiana vs. Charlotte | Louisiana | 1.27 (79¢) | $84,731 | +$22,523 | ✅ Ganada |
-| ic4cream | Missouri vs. Mississippi State | Mississippi State | 1.61 (62¢) | $33,852 | — | ⏳ Pendiente |
+| ic4cream | Missouri vs. Mississippi State | Mississippi State | 1.61 (62¢) | $33,852 | +$20,748 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.79 (56¢) | $40,204 | -$40,204 | ❌ Perdida |
 | jaytee158 | Delaware vs. Virginia | Virginia | 1.09 (92¢) | $37,023 | +$3,219 | ✅ Ganada |
 | Talvez10 | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.82 (55¢) | $31,484 | -$31,484 | ❌ Perdida |
