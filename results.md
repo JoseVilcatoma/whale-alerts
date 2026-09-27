@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 15:38:35 (hora de Perú)
+Actualizado: 2026-09-27 15:40:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3845**  ($210,710,255 en total)
-- Resueltas: **3736** — 2280 ganadas / 1456 perdidas (**61%** de acierto)
-- Pendientes: 91
+- Apuestas registradas: **3846**  ($210,742,268 en total)
+- Resueltas: **3741** — 2284 ganadas / 1457 perdidas (**61%** de acierto)
+- Pendientes: 87
 - Apostadores distintos: 475
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,313,720** sobre $203,864,877 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$6,497** sobre $368,200 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,212,279** sobre $204,051,618 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$6,283** sobre $368,700 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 270 | 138 | 9 | 66% | $27,097,471 | +$858,391 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 272 | 138 | 7 | 66% | $27,097,471 | +$936,790 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 59 | 41 | 6 | 59% | $5,903,043 | -$370,618 |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 27 | 25 | 4 | 52% | $2,640,745 | +$320,813 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| ferrariChampions2026 | 38 | 23 | 3 | 62% | $2,517,743 | -$491,966 |
+| ferrariChampions2026 | 38 | 24 | 2 | 61% | $2,517,743 | -$517,326 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ethanaz | 29 | 10 | 0 | 74% | $2,340,392 | -$12,984 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 177-letsgo | Houston Astros vs. Athletics | Houston Astros | 1.08 (93¢) | $32,012 | — | ⏳ Pendiente |
 | ndb1 | Vikings vs. Buccaneers | Vikings | 1.89 (53¢) | $29,845 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Vikings vs. Buccaneers | Buccaneers | 2.22 (45¢) | $26,690 | — | ⏳ Pendiente |
 | LTandBB | Raiders vs. Saints | Saints | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
@@ -102,15 +103,15 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 | SDTrading | Arizona Diamondbacks vs. San Diego Padres | Arizona Diamondbacks | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Seahawks (-8.5) | Commanders | 1.92 (52¢) | $83,688 | — | ⏳ Pendiente |
 | HectorHuang | Spread: Netherlands (-1.5) | Netherlands | 2.13 (47¢) | $29,000 | -$29,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $31,786 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $31,786 | +$24,974 | ✅ Ganada |
 | taylorsversion | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $108,958 | — | ⏳ Pendiente |
 | ratatatatatatatataaaa | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $192,000 | — | ⏳ Pendiente |
 | WanderingWombat | Patriots vs. Jaguars | Patriots | 2.50 (40¢) | $39,938 | — | ⏳ Pendiente |
 | COMEONDUDE | Spread: Bills (-7.5) | Bills | 2.13 (47¢) | $32,251 | — | ⏳ Pendiente |
 | texaskid | Spread: 49ers (-7.5) | 49ers | 1.96 (51¢) | $124,206 | — | ⏳ Pendiente |
 | Diabolical-Prize | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $145,224 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $67,996 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Titans vs. Giants | Titans | 2.27 (44¢) | $25,359 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $67,996 | +$53,425 | ✅ Ganada |
+| ferrariChampions2026 | Titans vs. Giants | Titans | 2.27 (44¢) | $25,359 | -$25,359 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 1.96 (51¢) | $56,211 | — | ⏳ Pendiente |
 | Jsram | Spread: Bills (-6.5) | Bills | 1.79 (56¢) | $41,908 | — | ⏳ Pendiente |
 | ColdBlooded | LoL: Colossal Gaming vs The Ruddy Sack (BO1) - EMEA Masters Swiss Stage | The Ruddy Sack | 1.14 (88¢) | $38,779 | +$5,288 | ✅ Ganada |
@@ -120,7 +121,7 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 | wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $127,723 | — | ⏳ Pendiente |
 | gmpm2 | Bengals vs. Steelers | Bengals | 1.64 (61¢) | $32,696 | — | ⏳ Pendiente |
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $39,400 | — | ⏳ Pendiente |
-| bands1 | Titans vs. Giants | Giants | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
+| bands1 | Titans vs. Giants | Giants | 1.79 (56¢) | $33,600 | +$26,400 | ✅ Ganada |
 | liquiditycrisis | Spread: Bills (-6.5) | Bills | 1.79 (56¢) | $34,822 | — | ⏳ Pendiente |
 | Donkey14 | Patriots vs. Jaguars | Patriots | 2.44 (41¢) | $35,984 | — | ⏳ Pendiente |
 | texaskid | Chargers vs. Bills: O/U 50.5 | Over 50.5 | 2.08 (48¢) | $26,930 | — | ⏳ Pendiente |
@@ -128,6 +129,5 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 | wr0ngw4yb3tt0r | Bengals vs. Steelers: O/U 42.5 | Over 42.5 | 2.00 (50¢) | $46,075 | — | ⏳ Pendiente |
 | liquiditycrisis | Bengals vs. Steelers: O/U 42.5 | Under 42.5 | 2.00 (50¢) | $97,503 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: NIP vs magic (BO3) - 1win Private Club #1 Playoffs | magic | 1.92 (52¢) | $41,930 | -$41,930 | ❌ Perdida |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Titans vs. Giants | Giants | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Titans vs. Giants | Giants | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $51,218 | +$9,756 | ✅ Ganada |
-| Kch-Temp | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $46,919 | — | ⏳ Pendiente |
