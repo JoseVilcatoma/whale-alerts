@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 10:36:17 (hora de Perú)
+Actualizado: 2026-09-27 10:38:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3805**  ($207,829,243 en total)
+- Apuestas registradas: **3807**  ($207,922,599 en total)
 - Resueltas: **3719** — 2267 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 68
+- Pendientes: 70
 - Apostadores distintos: 473
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 8 | 66% | $26,824,311 | +$805,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 9 | 66% | $26,892,307 | +$805,597 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | BrotherObama | 27 | 25 | 2 | 52% | $2,562,234 | +$320,813 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| ferrariChampions2026 | 38 | 23 | 0 | 62% | $2,433,850 | -$491,966 |
+| ferrariChampions2026 | 38 | 23 | 1 | 62% | $2,459,210 | -$491,966 |
 | ethanaz | 29 | 10 | 0 | 74% | $2,340,392 | -$12,984 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 473 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $67,996 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Titans vs. Giants | Titans | 2.27 (44¢) | $25,359 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 1.96 (51¢) | $56,211 | — | ⏳ Pendiente |
 | Jsram | Spread: Bills (-6.5) | Bills | 1.79 (56¢) | $41,908 | — | ⏳ Pendiente |
 | ColdBlooded | LoL: Colossal Gaming vs The Ruddy Sack (BO1) - EMEA Masters Swiss Stage | The Ruddy Sack | 1.14 (88¢) | $38,779 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 473 en total)_
 | raybanman | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $267,375 | — | ⏳ Pendiente |
 | raybanman | Spread: Chiefs (-10.5) | Dolphins | 1.85 (54¢) | $175,216 | — | ⏳ Pendiente |
 | raybanman | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $140,597 | — | ⏳ Pendiente |
-| raybanman | Spread: Bills (-7.5) | Bills | 2.00 (50¢) | $314,445 | — | ⏳ Pendiente |
-| esportsbetter1 | Valorant: 100 Thieves vs T1 (BO3) - VCT Champions Group A | 100 Thieves | 1.47 (68¢) | $34,000 | +$16,000 | ✅ Ganada |

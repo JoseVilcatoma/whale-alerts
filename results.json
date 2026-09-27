@@ -57199,5 +57199,35 @@
     "status": "pending",
     "ultimo_fill": 1790523031,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7724,
+    "timestamp": 1790523418,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-ten-nyg-2026-09-27",
+    "title": "Titans vs. Giants",
+    "outcome": "Titans",
+    "side": "BUY",
+    "usd": 25359.3604,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1790523418,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7725,
+    "timestamp": 1790523434,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-ten-nyg-2026-09-27",
+    "title": "Titans vs. Giants",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 67996.0736,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1790523434,
+    "fills": 1
   }
 ]
