@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 18:41:55 (hora de Perú)
+Actualizado: 2026-09-27 18:44:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3867**  ($211,556,760 en total)
+- Apuestas registradas: **3868**  ($211,602,115 en total)
 - Resueltas: **3803** — 2320 ganadas / 1483 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 477
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | Ravens vs. Cowboys | Ravens | 1.79 (56¢) | $45,355 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $32,628 | — | ⏳ Pendiente |
 | Berniepaidoff | Ravens vs. Cowboys | Ravens | 1.45 (69¢) | $50,000 | — | ⏳ Pendiente |
 | YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $34,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 | WanderingWombat | Patriots vs. Jaguars | Patriots | 2.50 (40¢) | $39,938 | -$39,938 | ❌ Perdida |
 | COMEONDUDE | Spread: Bills (-7.5) | Bills | 2.13 (47¢) | $32,251 | +$36,368 | ✅ Ganada |
 | texaskid | Spread: 49ers (-7.5) | 49ers | 1.96 (51¢) | $124,206 | — | ⏳ Pendiente |
-| Diabolical-Prize | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $145,224 | +$145,224 | ✅ Ganada |
