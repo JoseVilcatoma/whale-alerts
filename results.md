@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 23:22:32 (hora de Perú)
+Actualizado: 2026-09-26 23:24:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3740**  ($203,504,897 en total)
+- Apuestas registradas: **3741**  ($203,654,897 en total)
 - Resueltas: **3707** — 2259 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 469
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| takeormake | Panthers vs. Browns | Panthers | 1.82 (55¢) | $150,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-14.5) | Chargers | 1.39 (72¢) | $57,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Minnesota vs. Washington | Washington | 1.92 (52¢) | $35,019 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Washington | Minnesota | 2.08 (48¢) | $54,049 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | texaskid | Ole Miss vs. Florida | Florida | 1.61 (62¢) | $78,032 | +$47,826 | ✅ Ganada |
 | Sassy-Bucket | Ole Miss vs. Florida | Ole Miss | 2.63 (38¢) | $67,450 | -$67,450 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Tennessee | Texas | 1.09 (92¢) | $31,585 | +$2,746 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England vs. Spain end in a draw? | No | 1.41 (71¢) | $60,787 | +$24,829 | ✅ Ganada |
