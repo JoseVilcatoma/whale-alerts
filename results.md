@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 16:28:47 (hora de Perú)
+Actualizado: 2026-09-27 16:30:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3853**  ($210,998,058 en total)
+- Apuestas registradas: **3855**  ($211,062,709 en total)
 - Resueltas: **3777** — 2303 ganadas / 1474 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Pendientes: 60
 - Apostadores distintos: 475
 
 ### Balance
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 138 | 5 | 67% | $27,127,471 | +$1,005,916 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 138 | 6 | 67% | $27,162,361 | +$1,005,916 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| wr0ngw4yb3tt0r | 63 | 41 | 2 | 61% | $5,903,043 | +$39,482 |
+| wr0ngw4yb3tt0r | 63 | 41 | 3 | 61% | $5,932,804 | +$39,482 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Vikings vs. Buccaneers | Vikings | 1.43 (70¢) | $29,761 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 3.33 (30¢) | $34,890 | — | ⏳ Pendiente |
 | takeormake | Vikings vs. Buccaneers | Buccaneers | 2.94 (34¢) | $31,748 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Vikings vs. Buccaneers | Vikings | 1.47 (68¢) | $42,964 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Raiders vs. Saints | Raiders | 1.64 (61¢) | $28,841 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 | gmpm2 | Bengals vs. Steelers | Bengals | 1.64 (61¢) | $32,696 | -$32,696 | ❌ Perdida |
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $39,400 | — | ⏳ Pendiente |
 | bands1 | Titans vs. Giants | Giants | 1.79 (56¢) | $33,600 | +$26,400 | ✅ Ganada |
-| liquiditycrisis | Spread: Bills (-6.5) | Bills | 1.79 (56¢) | $34,822 | — | ⏳ Pendiente |
-| Donkey14 | Patriots vs. Jaguars | Patriots | 2.44 (41¢) | $35,984 | -$35,984 | ❌ Perdida |

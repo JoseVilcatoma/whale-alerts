@@ -57919,5 +57919,35 @@
     "status": "pending",
     "ultimo_fill": 1790544268,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7831,
+    "timestamp": 1790544605,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-bal-dal-2026-09-27",
+    "title": "Ravens vs. Cowboys",
+    "outcome": "Cowboys",
+    "side": "BUY",
+    "usd": 34889.799,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "ultimo_fill": 1790544605,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7832,
+    "timestamp": 1790544643,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-min-tb-2026-09-27",
+    "title": "Vikings vs. Buccaneers",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 29760.996999999996,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1790544643,
+    "fills": 1
   }
 ]
