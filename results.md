@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 11:13:49 (hora de Perú)
+Actualizado: 2026-09-27 13:52:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3821**  ($209,013,731 en total)
-- Resueltas: **3719** — 2267 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 84
+- Resueltas: **3721** — 2269 ganadas / 1452 perdidas (**61%** de acierto)
+- Pendientes: 82
 - Apostadores distintos: 474
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,467,332** sobre $202,616,159 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,462** sobre $366,500 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,457,330** sobre $202,689,511 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,434** sobre $366,700 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | ferrariChampions2026 | Titans vs. Giants | Titans | 2.27 (44¢) | $25,359 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 1.96 (51¢) | $56,211 | — | ⏳ Pendiente |
 | Jsram | Spread: Bills (-6.5) | Bills | 1.79 (56¢) | $41,908 | — | ⏳ Pendiente |
-| ColdBlooded | LoL: Colossal Gaming vs The Ruddy Sack (BO1) - EMEA Masters Swiss Stage | The Ruddy Sack | 1.14 (88¢) | $38,779 | — | ⏳ Pendiente |
+| ColdBlooded | LoL: Colossal Gaming vs The Ruddy Sack (BO1) - EMEA Masters Swiss Stage | The Ruddy Sack | 1.14 (88¢) | $38,779 | +$5,288 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: 49ers (-7.5) | Cardinals | 2.04 (49¢) | $41,605 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Bills (-7.5) | Chargers | 1.89 (53¢) | $34,920 | — | ⏳ Pendiente |
 | taylorsversion | Spread: Giants (-2.5) | Titans | 2.00 (50¢) | $95,371 | — | ⏳ Pendiente |
@@ -127,7 +127,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | SDTrading | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $33,718 | — | ⏳ Pendiente |
 | surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $218,521 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Chiefs (-10.5) | Dolphins | 1.82 (55¢) | $91,144 | — | ⏳ Pendiente |
-| Sodoo | Dota 2: Team Yandex vs Natus Vincere (BO5) - PGL Wallachia Playoffs | Team Yandex | 1.14 (88¢) | $34,573 | — | ⏳ Pendiente |
+| Sodoo | Dota 2: Team Yandex vs Natus Vincere (BO5) - PGL Wallachia Playoffs | Team Yandex | 1.14 (88¢) | $34,573 | +$4,714 | ✅ Ganada |
 | surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $93,500 | — | ⏳ Pendiente |
 | Kch-Temp | Bengals vs. Steelers | Steelers | 2.56 (39¢) | $99,491 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Bengals (-3.5) | Steelers | 1.85 (54¢) | $64,573 | — | ⏳ Pendiente |
