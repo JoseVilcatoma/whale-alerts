@@ -56974,5 +56974,20 @@
     "status": "pending",
     "ultimo_fill": 1790520413,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7708,
+    "timestamp": 1790520529,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-cin-pit-2026-09-27-total-42pt5",
+    "title": "Bengals vs. Steelers: O/U 42.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 46075.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1790520529,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 09:48:00 (hora de Perú)
+Actualizado: 2026-09-27 09:50:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3790**  ($207,057,691 en total)
+- Apuestas registradas: **3791**  ($207,103,766 en total)
 - Resueltas: **3718** — 2266 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 472
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 59 | 41 | 1 | 59% | $5,476,141 | -$370,618 |
+| wr0ngw4yb3tt0r | 59 | 41 | 2 | 59% | $5,522,216 | -$370,618 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Sassy-Bucket | 49 | 47 | 0 | 51% | $4,823,877 | -$902,306 |
 | Diabolical-Prize | 44 | 40 | 1 | 52% | $4,261,887 | -$219,220 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Bengals vs. Steelers: O/U 42.5 | Over 42.5 | 2.00 (50¢) | $46,075 | — | ⏳ Pendiente |
 | liquiditycrisis | Bengals vs. Steelers: O/U 42.5 | Under 42.5 | 2.00 (50¢) | $97,503 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: NIP vs magic (BO3) - 1win Private Club #1 Playoffs | magic | 1.92 (52¢) | $41,930 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Titans vs. Giants | Giants | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | nigiri99 | Spread: Chiefs (-10.5) | Chiefs | 2.08 (48¢) | $50,834 | — | ⏳ Pendiente |
 | 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Minnesota vs. Washington | Washington | 1.25 (80¢) | $26,784 | -$26,784 | ❌ Perdida |
 | Sassy-Bucket | Minnesota vs. Washington | Washington | 1.23 (81¢) | $119,953 | -$119,953 | ❌ Perdida |
-| surfandturf | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.69 (59¢) | $88,500 | +$61,500 | ✅ Ganada |
