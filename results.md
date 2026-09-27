@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 21:30:12 (hora de Perú)
+Actualizado: 2026-09-26 21:32:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3731**  ($203,067,643 en total)
-- Resueltas: **3694** — 2247 ganadas / 1447 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **3695** — 2247 ganadas / 1448 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,745,537** sobre $201,434,403 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,068** sobre $364,000 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$2,777,810** sobre $201,466,676 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,168** sobre $364,100 (ROI **-2.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 137 | 4 | 66% | $26,559,736 | +$837,870 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 3 | 66% | $26,559,736 | +$805,597 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | Rice vs. Fresno State | Fresno State | 1.22 (82¢) | $34,194 | — | ⏳ Pendiente |
 | texaskid | Spread: Fresno State (-12.5) | Fresno State | 1.96 (51¢) | $26,670 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Norma Dumont vs. Ailin Perez (Women's Bantamweight, Prelims) | Norma Dumont | 2.50 (40¢) | $67,016 | -$67,016 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ilimbek Akylbek Uulu vs. Mehemmedeli Osmanli (Bantamweight, Main Card) | Mehemmedeli Osmanli | 1.35 (74¢) | $32,273 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ilimbek Akylbek Uulu vs. Mehemmedeli Osmanli (Bantamweight, Main Card) | Mehemmedeli Osmanli | 1.35 (74¢) | $32,273 | -$32,273 | ❌ Perdida |
 | 0F62 | Will Greece win on 2026-09-27? | No | 1.12 (89¢) | $33,745 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: 49ers (-7.5) | 49ers | 2.00 (50¢) | $44,983 | — | ⏳ Pendiente |
 | texaskid | Spread: 49ers (-8.5) | Cardinals | 1.89 (53¢) | $51,260 | — | ⏳ Pendiente |
