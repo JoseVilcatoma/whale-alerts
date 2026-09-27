@@ -57124,5 +57124,20 @@
     "status": "pending",
     "ultimo_fill": 1790522055,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 7718,
+    "timestamp": 1790522425,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nfl-lac-buf-2026-09-27-spread-home-7pt5",
+    "title": "Spread: Bills (-7.5)",
+    "outcome": "Chargers",
+    "side": "BUY",
+    "usd": 34919.770800000006,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1790522425,
+    "fills": 1
   }
 ]

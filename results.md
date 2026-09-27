@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 10:19:31 (hora de Perú)
+Actualizado: 2026-09-27 10:21:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3800**  ($207,615,821 en total)
+- Apuestas registradas: **3801**  ($207,650,740 en total)
 - Resueltas: **3718** — 2266 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Pendientes: 65
 - Apostadores distintos: 472
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: Bills (-7.5) | Chargers | 1.89 (53¢) | $34,920 | — | ⏳ Pendiente |
 | taylorsversion | Spread: Giants (-2.5) | Titans | 2.00 (50¢) | $95,371 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $127,723 | — | ⏳ Pendiente |
 | gmpm2 | Bengals vs. Steelers | Bengals | 1.64 (61¢) | $32,696 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | liquiditycrisis | Spread: Panthers (-5.5) | Browns | 1.56 (64¢) | $50,913 | — | ⏳ Pendiente |
 | takeormake | Spread: Panthers (-4.5) | Panthers | 2.70 (37¢) | $29,212 | — | ⏳ Pendiente |
 | Elaran1993 | Spread: Panthers (-3.5) | Browns | 1.67 (60¢) | $41,631 | — | ⏳ Pendiente |
-| takeormake | Panthers vs. Browns | Panthers | 1.82 (55¢) | $150,000 | — | ⏳ Pendiente |
