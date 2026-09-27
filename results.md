@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 13:54:38 (hora de Perú)
+Actualizado: 2026-09-27 13:56:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3821**  ($209,013,731 en total)
+- Apuestas registradas: **3822**  ($209,108,731 en total)
 - Resueltas: **3721** — 2269 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 82
+- Pendientes: 83
 - Apostadores distintos: 474
 
 ### Balance
@@ -52,8 +52,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 10 | 3 | 4 | 77% | $1,730,227 | +$298,464 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 25 | 27 | 3 | 48% | $1,644,472 | -$170,031 |
+| Jsram | 14 | 17 | 4 | 45% | $1,598,878 | -$442,701 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
-| Jsram | 14 | 17 | 3 | 45% | $1,503,878 | -$442,701 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $95,000 | — | ⏳ Pendiente |
 | Kch-Temp | Texans vs. Colts | Colts | 2.13 (47¢) | $65,794 | — | ⏳ Pendiente |
 | taylorsversion | Spread: Seahawks (-7.5) | Seahawks | 1.92 (52¢) | $28,080 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-7.5) | Commanders | 2.08 (48¢) | $25,920 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | Sodoo | Dota 2: Team Yandex vs Natus Vincere (BO5) - PGL Wallachia Playoffs | Team Yandex | 1.14 (88¢) | $34,573 | +$4,714 | ✅ Ganada |
 | surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $93,500 | — | ⏳ Pendiente |
 | Kch-Temp | Bengals vs. Steelers | Steelers | 2.56 (39¢) | $99,491 | — | ⏳ Pendiente |
-| Kch-Temp | Spread: Bengals (-3.5) | Steelers | 1.85 (54¢) | $64,573 | — | ⏳ Pendiente |
