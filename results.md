@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 18:31:34 (hora de Perú)
+Actualizado: 2026-09-27 18:33:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3865**  ($211,474,132 en total)
+- Apuestas registradas: **3866**  ($211,524,132 en total)
 - Resueltas: **3801** — 2319 ganadas / 1482 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 477
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Berniepaidoff | Ravens vs. Cowboys | Ravens | 1.45 (69¢) | $50,000 | — | ⏳ Pendiente |
 | YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $34,400 | — | ⏳ Pendiente |
 | jaytee158 | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $51,600 | — | ⏳ Pendiente |
 | YEEES-but-why | Raiders vs. Saints | Saints | 1.12 (89¢) | $46,429 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 | texaskid | Spread: 49ers (-7.5) | 49ers | 1.96 (51¢) | $124,206 | — | ⏳ Pendiente |
 | Diabolical-Prize | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $145,224 | +$145,224 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $67,996 | +$53,425 | ✅ Ganada |
-| ferrariChampions2026 | Titans vs. Giants | Titans | 2.27 (44¢) | $25,359 | -$25,359 | ❌ Perdida |
