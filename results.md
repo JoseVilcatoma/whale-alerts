@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 08:23:25 (hora de Perú)
+Actualizado: 2026-09-27 08:25:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3769**  ($206,182,830 en total)
+- Apuestas registradas: **3771**  ($206,237,701 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 36
 - Apostadores distintos: 471
 
 ### Balance
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 10 | 3 | 4 | 77% | $1,730,227 | +$298,464 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Kch-Temp | 16 | 6 | 7 | 73% | $1,655,656 | +$588,416 |
-| SDTrading | 25 | 27 | 1 | 48% | $1,587,601 | -$170,031 |
+| SDTrading | 25 | 27 | 2 | 48% | $1,615,472 | -$170,031 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 471 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | New York Mets vs. Washington Nationals | Washington Nationals | 2.00 (50¢) | $27,871 | — | ⏳ Pendiente |
+| kkookkoo | St. Tropez: Titouan Droguet vs Harold Mayot | Titouan Droguet | 1.23 (81¢) | $27,000 | — | ⏳ Pendiente |
 | gmpm2 | Texans vs. Colts | Texans | 1.89 (53¢) | $42,723 | — | ⏳ Pendiente |
 | SDTrading | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $33,718 | — | ⏳ Pendiente |
 | surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $218,521 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 471 en total)_
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $31,908 | +$10,076 | ✅ Ganada |
 | phonesculptor | Kennesaw State vs. Arkansas State | Arkansas State | 1.43 (70¢) | $31,351 | +$13,436 | ✅ Ganada |
 | Roadto1mlesgooo | Canada vs. Chile: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $30,238 | +$1,930 | ✅ Ganada |
-| Sassy-Bucket | Louisiana vs. Charlotte | Louisiana | 1.27 (79¢) | $84,731 | +$22,523 | ✅ Ganada |
-| ic4cream | Missouri vs. Mississippi State | Mississippi State | 1.61 (62¢) | $33,852 | +$20,748 | ✅ Ganada |

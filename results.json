@@ -56659,5 +56659,35 @@
     "status": "pending",
     "ultimo_fill": 1790513497,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7686,
+    "timestamp": 1790515477,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "atp-droguet-mayot-2026-09-27",
+    "title": "St. Tropez: Titouan Droguet vs Harold Mayot",
+    "outcome": "Titouan Droguet",
+    "side": "BUY",
+    "usd": 26999.999999999996,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1790515477,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7687,
+    "timestamp": 1790515519,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-nym-wsh-2026-09-27",
+    "title": "New York Mets vs. Washington Nationals",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "usd": 27871.04,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1790515519,
+    "fills": 1
   }
 ]
