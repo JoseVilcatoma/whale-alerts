@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 10:52:48 (hora de Perú)
+Actualizado: 2026-09-27 10:54:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3814**  ($208,596,961 en total)
+- Apuestas registradas: **3815**  ($208,625,961 en total)
 - Resueltas: **3719** — 2267 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 77
+- Pendientes: 78
 - Apostadores distintos: 474
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HectorHuang | Spread: Netherlands (-1.5) | Netherlands | 2.13 (47¢) | $29,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $31,786 | — | ⏳ Pendiente |
 | taylorsversion | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $108,958 | — | ⏳ Pendiente |
 | ratatatatatatatataaaa | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $192,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | ptrck7 | Will Serbia win on 2026-09-27? | No | 1.12 (89¢) | $31,856 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $34,030 | — | ⏳ Pendiente |
 | Kch-Temp | Seahawks vs. Commanders: O/U 40.5 | Over 40.5 | 2.08 (48¢) | $80,988 | — | ⏳ Pendiente |
-| Kch-Temp | Panthers vs. Browns: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $46,780 | — | ⏳ Pendiente |

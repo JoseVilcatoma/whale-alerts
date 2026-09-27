@@ -57334,5 +57334,20 @@
     "status": "pending",
     "ultimo_fill": 1790523968,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7733,
+    "timestamp": 1790524448,
+    "username": "HectorHuang",
+    "wallet": "0x568ab8ba45ff7c97a9aed2cbe5db66935c2004d9",
+    "slug": "unl-ser-nld-2026-09-27-spread-away-1pt5",
+    "title": "Spread: Netherlands (-1.5)",
+    "outcome": "Netherlands",
+    "side": "BUY",
+    "usd": 29000.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1790524448,
+    "fills": 1
   }
 ]
