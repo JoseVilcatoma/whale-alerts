@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 20:28:28 (hora de Perú)
+Actualizado: 2026-09-26 20:30:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3726**  ($202,818,826 en total)
+- Apuestas registradas: **3727**  ($202,845,495 en total)
 - Resueltas: **3690** — 2244 ganadas / 1446 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 469
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | phonesculptor | 15 | 3 | 1 | 83% | $1,213,036 | -$12,823 |
 | Kch-Temp | 16 | 6 | 0 | 73% | $1,191,211 | +$588,416 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
-| ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
+| texaskid | 9 | 9 | 3 | 50% | $1,066,749 | -$86,942 |
 
 _(mostrando los 40 de mayor monto, de 469 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Spread: Fresno State (-12.5) | Fresno State | 1.96 (51¢) | $26,670 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Norma Dumont vs. Ailin Perez (Women's Bantamweight, Prelims) | Norma Dumont | 2.50 (40¢) | $67,016 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ilimbek Akylbek Uulu vs. Mehemmedeli Osmanli (Bantamweight, Main Card) | Mehemmedeli Osmanli | 1.35 (74¢) | $32,273 | — | ⏳ Pendiente |
 | 0F62 | Will Greece win on 2026-09-27? | No | 1.12 (89¢) | $33,745 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | 177-letsgo | Texas vs. Tennessee | Texas | 1.32 (76¢) | $26,486 | +$8,364 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.19 (84¢) | $35,283 | +$6,721 | ✅ Ganada |
 | Sassy-Bucket | Texas vs. Tennessee | Texas | 1.54 (65¢) | $29,938 | +$16,120 | ✅ Ganada |
-| Sassy-Bucket | San Diego State vs. Toledo | San Diego State | 2.27 (44¢) | $82,628 | -$82,628 | ❌ Perdida |
