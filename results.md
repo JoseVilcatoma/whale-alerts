@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 14:02:43 (hora de Perú)
+Actualizado: 2026-09-27 14:04:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3824**  ($209,272,259 en total)
-- Resueltas: **3721** — 2269 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 85
+- Resueltas: **3722** — 2269 ganadas / 1453 perdidas (**61%** de acierto)
+- Pendientes: 84
 - Apostadores distintos: 474
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,457,330** sobre $202,689,511 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,434** sobre $366,700 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,499,259** sobre $202,731,441 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,534** sobre $366,800 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -106,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $85,529 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Bengals vs. Steelers: O/U 42.5 | Over 42.5 | 2.00 (50¢) | $46,075 | — | ⏳ Pendiente |
 | liquiditycrisis | Bengals vs. Steelers: O/U 42.5 | Under 42.5 | 2.00 (50¢) | $97,503 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: NIP vs magic (BO3) - 1win Private Club #1 Playoffs | magic | 1.92 (52¢) | $41,930 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: NIP vs magic (BO3) - 1win Private Club #1 Playoffs | magic | 1.92 (52¢) | $41,930 | -$41,930 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Titans vs. Giants | Giants | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $51,218 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $46,919 | — | ⏳ Pendiente |
