@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 00:22:24 (hora de Perú)
+Actualizado: 2026-09-27 00:24:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3744**  ($203,776,652 en total)
+- Apuestas registradas: **3745**  ($203,855,224 en total)
 - Resueltas: **3709** — 2260 ganadas / 1449 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 469
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | phonesculptor | 16 | 3 | 0 | 84% | $1,213,036 | +$613 |
 | Kch-Temp | 16 | 6 | 0 | 73% | $1,191,211 | +$588,416 |
+| texaskid | 10 | 9 | 3 | 53% | $1,145,322 | +$611 |
 | Elaran1993 | 8 | 6 | 1 | 57% | $1,129,332 | +$329,161 |
-| texaskid | 10 | 9 | 2 | 53% | $1,066,749 | +$611 |
 
 _(mostrando los 40 de mayor monto, de 469 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Cardinals vs. 49ers: O/U 48.5 | Over 48.5 | 1.96 (51¢) | $78,573 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: Panthers (-5.5) | Browns | 1.56 (64¢) | $50,913 | — | ⏳ Pendiente |
 | takeormake | Spread: Panthers (-4.5) | Panthers | 2.70 (37¢) | $29,212 | — | ⏳ Pendiente |
 | Elaran1993 | Spread: Panthers (-3.5) | Browns | 1.67 (60¢) | $41,631 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | KaneAnalytics | Wake Forest vs. Louisville | Wake Forest | 1.61 (62¢) | $26,040 | +$15,960 | ✅ Ganada |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.32 (76¢) | $108,541 | +$34,276 | ✅ Ganada |
 | Sassy-Bucket | Utah vs. Iowa State | Utah | 1.33 (75¢) | $28,072 | +$9,357 | ✅ Ganada |
-| Sassy-Bucket | TCU vs. UCF | TCU | 1.61 (62¢) | $60,901 | -$60,901 | ❌ Perdida |
