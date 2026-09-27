@@ -57544,5 +57544,20 @@
     "status": "pending",
     "ultimo_fill": 1790537436,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7751,
+    "timestamp": 1790537908,
+    "username": "xifutloong3",
+    "wallet": "0x2dc13c6bda81b202281e796953a7323de675b33c",
+    "slug": "mlb-atl-mia-2026-09-27",
+    "title": "Atlanta Braves vs. Miami Marlins",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "usd": 39340.8468,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1790537908,
+    "fills": 1
   }
 ]
