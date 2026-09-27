@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 14:44:34 (hora de Perú)
+Actualizado: 2026-09-27 14:46:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3829**  ($209,465,811 en total)
+- Apuestas registradas: **3830**  ($209,519,322 en total)
 - Resueltas: **3722** — 2269 ganadas / 1453 perdidas (**61%** de acierto)
-- Pendientes: 89
+- Pendientes: 90
 - Apostadores distintos: 474
 
 ### Balance
@@ -35,9 +35,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 44 | 40 | 2 | 52% | $4,407,111 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| BrotherObama | 27 | 25 | 4 | 52% | $2,640,745 | +$320,813 |
 | surfandturf | 21 | 2 | 3 | 91% | $2,605,702 | +$500,939 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| BrotherObama | 27 | 25 | 3 | 52% | $2,587,234 | +$320,813 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 38 | 23 | 1 | 62% | $2,459,210 | -$491,966 |
 | ethanaz | 29 | 10 | 0 | 74% | $2,340,392 | -$12,984 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Spread: Saints (-3.5) | Raiders | 1.92 (52¢) | $53,511 | — | ⏳ Pendiente |
 | xifutloong3 | Atlanta Braves vs. Miami Marlins | Miami Marlins | 1.85 (54¢) | $39,341 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.61 (62¢) | $37,152 | — | ⏳ Pendiente |
 | BrotherObama | Houston Astros vs. Athletics | Athletics | 2.78 (36¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | Kch-Temp | Spread: 49ers (-7.5) | 49ers | 2.00 (50¢) | $29,807 | — | ⏳ Pendiente |
 | gmpm2 | Spread: 49ers (-7.5) | Cardinals | 1.96 (51¢) | $50,608 | — | ⏳ Pendiente |
 | SDTrading | New York Mets vs. Washington Nationals | Washington Nationals | 2.00 (50¢) | $27,871 | — | ⏳ Pendiente |
-| kkookkoo | St. Tropez: Titouan Droguet vs Harold Mayot | Titouan Droguet | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
