@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 21:11:39 (hora de Perú)
+Actualizado: 2026-09-26 21:13:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3731**  ($203,067,643 en total)
-- Resueltas: **3691** — 2245 ganadas / 1446 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **3692** — 2246 ganadas / 1446 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,714,481** sobre $201,251,304 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$7,037** sobre $363,700 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$2,691,957** sobre $201,336,035 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$7,011** sobre $363,800 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 1 | 60% | $5,441,122 | -$335,599 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Sassy-Bucket | 43 | 45 | 7 | 49% | $4,703,924 | -$842,833 |
+| Sassy-Bucket | 44 | 45 | 6 | 49% | $4,703,924 | -$820,310 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $31,908 | — | ⏳ Pendiente |
 | phonesculptor | Kennesaw State vs. Arkansas State | Arkansas State | 1.43 (70¢) | $31,351 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Canada vs. Chile: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $30,238 | — | ⏳ Pendiente |
-| Sassy-Bucket | Louisiana vs. Charlotte | Louisiana | 1.27 (79¢) | $84,731 | — | ⏳ Pendiente |
+| Sassy-Bucket | Louisiana vs. Charlotte | Louisiana | 1.27 (79¢) | $84,731 | +$22,523 | ✅ Ganada |
 | ic4cream | Missouri vs. Mississippi State | Mississippi State | 1.61 (62¢) | $33,852 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.79 (56¢) | $40,204 | -$40,204 | ❌ Perdida |
 | jaytee158 | Delaware vs. Virginia | Virginia | 1.09 (92¢) | $37,023 | +$3,219 | ✅ Ganada |
