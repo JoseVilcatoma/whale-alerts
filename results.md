@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 15:57:18 (hora de Perú)
+Actualizado: 2026-09-27 15:59:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3848**  ($210,837,849 en total)
-- Resueltas: **3750** — 2290 ganadas / 1460 perdidas (**61%** de acierto)
-- Pendientes: 80
+- Resueltas: **3752** — 2291 ganadas / 1461 perdidas (**61%** de acierto)
+- Pendientes: 78
 - Apostadores distintos: 475
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,809,062** sobre $204,899,945 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,054** sobre $369,600 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$1,777,591** sobre $205,008,462 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,041** sobre $369,800 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 1 | 93% | $2,048,429 | +$96,561 |
-| Kch-Temp | 18 | 6 | 9 | 75% | $1,881,865 | +$723,072 |
+| Kch-Temp | 19 | 6 | 8 | 76% | $1,881,865 | +$797,266 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | raybanman | 10 | 3 | 4 | 77% | $1,730,227 | +$298,464 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 25 | 27 | 3 | 48% | $1,644,472 | -$170,031 |
 | Jsram | 14 | 17 | 4 | 45% | $1,598,878 | -$442,701 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
-| maz26 | 10 | 6 | 7 | 62% | $1,509,900 | -$49,354 |
+| maz26 | 10 | 7 | 6 | 59% | $1,509,900 | -$92,077 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 | cosmicxbt | Chiefs vs. Dolphins | Chiefs | 1.20 (83¢) | $132,027 | +$27,042 | ✅ Ganada |
 | gmpm2 | Seahawks vs. Commanders | Seahawks | 2.00 (50¢) | $31,500 | — | ⏳ Pendiente |
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $95,000 | — | ⏳ Pendiente |
-| Kch-Temp | Texans vs. Colts | Colts | 2.13 (47¢) | $65,794 | — | ⏳ Pendiente |
+| Kch-Temp | Texans vs. Colts | Colts | 2.13 (47¢) | $65,794 | +$74,193 | ✅ Ganada |
 | taylorsversion | Spread: Seahawks (-7.5) | Seahawks | 1.92 (52¢) | $28,080 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-7.5) | Commanders | 2.08 (48¢) | $25,920 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Panthers vs. Browns | Browns | 2.17 (46¢) | $155,289 | — | ⏳ Pendiente |
