@@ -57424,5 +57424,20 @@
     "status": "pending",
     "ultimo_fill": 1790525349,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7739,
+    "timestamp": 1790525579,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "nfl-hou-ind-2026-09-27",
+    "title": "Texans vs. Colts",
+    "outcome": "Colts",
+    "side": "BUY",
+    "usd": 65794.20019999999,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1790525579,
+    "fills": 1
   }
 ]
