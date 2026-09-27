@@ -57574,5 +57574,35 @@
     "status": "pending",
     "ultimo_fill": 1790538289,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7753,
+    "timestamp": 1790538683,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-sea-was-2026-09-27",
+    "title": "Seahawks vs. Commanders",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 31843.023000000005,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1790538683,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7754,
+    "timestamp": 1790538760,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-lv-no-2026-09-27",
+    "title": "Raiders vs. Saints",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "usd": 72633.9822,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1790538760,
+    "fills": 1
   }
 ]
