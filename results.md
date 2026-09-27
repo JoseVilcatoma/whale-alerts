@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 22:33:22 (hora de Perú)
+Actualizado: 2026-09-26 22:35:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3736**  ($203,331,846 en total)
-- Resueltas: **3703** — 2255 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **3704** — 2256 ganadas / 1448 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,588,822** sobre $201,807,303 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$6,725** sobre $364,900 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,501,270** sobre $201,894,856 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,625** sobre $365,000 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | phonesculptor | 16 | 3 | 0 | 84% | $1,213,036 | +$613 |
 | Kch-Temp | 16 | 6 | 0 | 73% | $1,191,211 | +$588,416 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
-| texaskid | 9 | 9 | 3 | 50% | $1,066,749 | -$86,942 |
+| texaskid | 10 | 9 | 2 | 53% | $1,066,749 | +$611 |
 
 _(mostrando los 40 de mayor monto, de 469 en total)_
 
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Talvez10 | UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims) | Rodolfo Bellato | 1.59 (63¢) | $29,613 | -$29,613 | ❌ Perdida |
 | nuttypoo | Wisconsin vs. Penn State | Penn State | 1.27 (79¢) | $122,133 | -$122,133 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: South Florida (-18.5) | Bowling Green | 1.89 (53¢) | $28,744 | +$25,490 | ✅ Ganada |
-| texaskid | Spread: LSU (-8.5) | LSU | 2.00 (50¢) | $87,553 | — | ⏳ Pendiente |
+| texaskid | Spread: LSU (-8.5) | LSU | 2.00 (50¢) | $87,553 | +$87,553 | ✅ Ganada |
 | ethanaz | Iowa vs. Michigan | Michigan | 1.35 (74¢) | $30,194 | -$30,194 | ❌ Perdida |
 | ethanaz | Iowa vs. Michigan | Michigan | 1.39 (72¢) | $44,672 | -$44,672 | ❌ Perdida |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.19 (84¢) | $54,473 | +$10,376 | ✅ Ganada |
