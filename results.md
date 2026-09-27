@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 09:14:47 (hora de Perú)
+Actualizado: 2026-09-27 09:16:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3777**  ($206,466,919 en total)
+- Apuestas registradas: **3778**  ($206,527,399 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 472
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 5 | 66% | $26,645,413 | +$805,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 6 | 66% | $26,705,893 | +$805,597 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $60,480 | — | ⏳ Pendiente |
 | liquiditycrisis | Texans vs. Colts: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $32,413 | — | ⏳ Pendiente |
 | gmpm2 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $39,168 | — | ⏳ Pendiente |
 | omnibus-076daa | Colorado Rockies vs. Chicago White Sox | Colorado Rockies | 2.70 (37¢) | $25,477 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | Talvez10 | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $28,206 | +$25,013 | ✅ Ganada |
 | KaneAnalytics | Texas A&M vs. LSU | LSU | 1.43 (70¢) | $49,947 | +$21,406 | ✅ Ganada |
 | ethanaz | Texas A&M vs. LSU: O/U 52.5 | Under 52.5 | 2.00 (50¢) | $32,997 | +$32,997 | ✅ Ganada |
-| Talvez10 | Houston Astros vs. Athletics | Athletics | 2.50 (40¢) | $33,789 | -$33,789 | ❌ Perdida |

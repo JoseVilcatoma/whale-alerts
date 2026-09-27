@@ -56779,5 +56779,20 @@
     "status": "pending",
     "ultimo_fill": 1790518183,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1790518612,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-kc-mia-2026-09-27",
+    "title": "Chiefs vs. Dolphins",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 60480.0,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1790518612,
+    "fills": 1
   }
 ]
