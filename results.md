@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 15:05:25 (hora de Perú)
+Actualizado: 2026-09-27 15:07:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3835**  ($210,016,723 en total)
-- Resueltas: **3724** — 2270 ganadas / 1454 perdidas (**61%** de acierto)
-- Pendientes: 93
+- Apuestas registradas: **3836**  ($210,085,144 en total)
+- Resueltas: **3726** — 2271 ganadas / 1455 perdidas (**61%** de acierto)
+- Pendientes: 92
 - Apostadores distintos: 474
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,446,898** sobre $202,847,805 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,526** sobre $367,000 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,471,960** sobre $202,908,661 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,614** sobre $367,200 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Sassy-Bucket | 49 | 47 | 3 | 51% | $5,201,984 | -$902,306 |
+| Sassy-Bucket | 49 | 47 | 4 | 51% | $5,270,406 | -$902,306 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 44 | 40 | 2 | 52% | $4,407,111 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $68,422 | — | ⏳ Pendiente |
 | Donkey14 | Raiders vs. Saints | Saints | 1.59 (63¢) | $85,135 | — | ⏳ Pendiente |
 | cosmicxbt | Panthers vs. Browns | Panthers | 1.19 (84¢) | $68,434 | — | ⏳ Pendiente |
 | Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $239,354 | — | ⏳ Pendiente |
@@ -91,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | wr0ngw4yb3tt0r | Panthers vs. Browns | Browns | 2.17 (46¢) | $155,289 | — | ⏳ Pendiente |
 | SDTrading | Arizona Diamondbacks vs. San Diego Padres | Arizona Diamondbacks | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Seahawks (-8.5) | Commanders | 1.92 (52¢) | $83,688 | — | ⏳ Pendiente |
-| HectorHuang | Spread: Netherlands (-1.5) | Netherlands | 2.13 (47¢) | $29,000 | — | ⏳ Pendiente |
+| HectorHuang | Spread: Netherlands (-1.5) | Netherlands | 2.13 (47¢) | $29,000 | -$29,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $31,786 | — | ⏳ Pendiente |
 | taylorsversion | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $108,958 | — | ⏳ Pendiente |
 | ratatatatatatatataaaa | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $192,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | Pwaddler | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $59,488 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $102,480 | — | ⏳ Pendiente |
 | liquiditycrisis | Texans vs. Colts: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $32,413 | — | ⏳ Pendiente |
-| gmpm2 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $39,168 | — | ⏳ Pendiente |
