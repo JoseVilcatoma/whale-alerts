@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 14:23:28 (hora de Perú)
+Actualizado: 2026-09-27 14:25:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3826**  ($209,364,318 en total)
+- Apuestas registradas: **3827**  ($209,389,318 en total)
 - Resueltas: **3722** — 2269 ganadas / 1453 perdidas (**61%** de acierto)
-- Pendientes: 86
+- Pendientes: 87
 - Apostadores distintos: 474
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 21 | 2 | 3 | 91% | $2,605,702 | +$500,939 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| BrotherObama | 27 | 25 | 2 | 52% | $2,562,234 | +$320,813 |
+| BrotherObama | 27 | 25 | 3 | 52% | $2,587,234 | +$320,813 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 38 | 23 | 1 | 62% | $2,459,210 | -$491,966 |
 | ethanaz | 29 | 10 | 0 | 74% | $2,340,392 | -$12,984 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Houston Astros vs. Athletics | Athletics | 2.78 (36¢) | $25,000 | — | ⏳ Pendiente |
 | omnibus-076daa | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Cloud9 | 2.78 (36¢) | $25,940 | — | ⏳ Pendiente |
 | Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Chicago White Sox | 1.67 (60¢) | $66,119 | — | ⏳ Pendiente |
 | cosmicxbt | Chiefs vs. Dolphins | Chiefs | 1.20 (83¢) | $132,027 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | kkookkoo | St. Tropez: Titouan Droguet vs Harold Mayot | Titouan Droguet | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
 | gmpm2 | Texans vs. Colts | Texans | 1.89 (53¢) | $42,723 | — | ⏳ Pendiente |
 | SDTrading | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $33,718 | — | ⏳ Pendiente |
-| surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $218,521 | — | ⏳ Pendiente |
