@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 00:49:08 (hora de Perú)
+Actualizado: 2026-09-27 00:51:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3746**  ($203,889,224 en total)
-- Resueltas: **3710** — 2261 ganadas / 1449 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **3711** — 2262 ganadas / 1449 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 470
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,404,940** sobre $202,232,778 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,480** sobre $365,600 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,397,434** sobre $202,266,972 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,458** sobre $365,700 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 2 | 60% | $5,476,141 | -$335,599 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Sassy-Bucket | 48 | 46 | 2 | 51% | $4,823,877 | -$789,859 |
+| Sassy-Bucket | 49 | 46 | 1 | 52% | $4,823,877 | -$782,353 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | surfandturf | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.69 (59¢) | $88,500 | +$61,500 | ✅ Ganada |
 | cosmicxbt | Oregon vs. USC | Oregon | 1.41 (71¢) | $72,095 | +$29,447 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.72 (58¢) | $27,360 | +$19,812 | ✅ Ganada |
-| Sassy-Bucket | Rice vs. Fresno State | Fresno State | 1.22 (82¢) | $34,194 | — | ⏳ Pendiente |
+| Sassy-Bucket | Rice vs. Fresno State | Fresno State | 1.22 (82¢) | $34,194 | +$7,506 | ✅ Ganada |
 | texaskid | Spread: Fresno State (-12.5) | Fresno State | 1.96 (51¢) | $26,670 | +$25,624 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Norma Dumont vs. Ailin Perez (Women's Bantamweight, Prelims) | Norma Dumont | 2.50 (40¢) | $67,016 | -$67,016 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ilimbek Akylbek Uulu vs. Mehemmedeli Osmanli (Bantamweight, Main Card) | Mehemmedeli Osmanli | 1.35 (74¢) | $32,273 | -$32,273 | ❌ Perdida |
