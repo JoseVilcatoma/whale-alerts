@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 03:57:26 (hora de Perú)
+Actualizado: 2026-09-27 05:21:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3753**  ($204,952,270 en total)
+- Apuestas registradas: **3754**  ($204,986,301 en total)
 - Resueltas: **3716** — 2264 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 470
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $34,030 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Norway vs. Portugal end in a draw? | No | 1.32 (76¢) | $32,037 | — | ⏳ Pendiente |
 | nuttypoo | Seahawks vs. Commanders | Seahawks | 1.28 (78¢) | $105,300 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Lions (-3.5) | Lions | 1.67 (60¢) | $28,077 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | SDTrading | Spread: Nebraska (-6.5) | Michigan State | 1.96 (51¢) | $33,563 | -$33,563 | ❌ Perdida |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.28 (78¢) | $36,763 | +$10,369 | ✅ Ganada |
 | phonesculptor | South Florida vs. Bowling Green | South Florida | 1.12 (89¢) | $62,935 | +$7,778 | ✅ Ganada |
-| ethanaz | Ole Miss vs. Florida | Florida | 1.43 (70¢) | $72,033 | +$30,871 | ✅ Ganada |
