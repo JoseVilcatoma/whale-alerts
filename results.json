@@ -57454,5 +57454,20 @@
     "status": "pending",
     "ultimo_fill": 1790534175,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7744,
+    "timestamp": 1790535431,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-sea-was-2026-09-27",
+    "title": "Seahawks vs. Commanders",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 31500.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1790535431,
+    "fills": 1
   }
 ]

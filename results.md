@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 13:56:34 (hora de Perú)
+Actualizado: 2026-09-27 13:58:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3822**  ($209,108,731 en total)
+- Apuestas registradas: **3823**  ($209,140,231 en total)
 - Resueltas: **3721** — 2269 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 83
+- Pendientes: 84
 - Apostadores distintos: 474
 
 ### Balance
@@ -60,10 +60,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | texaskid | 11 | 9 | 4 | 55% | $1,296,457 | +$26,235 |
 | Lakersfan111 | 16 | 14 | 0 | 53% | $1,274,405 | -$101,179 |
+| maz26 | 9 | 6 | 7 | 60% | $1,248,608 | -$56,814 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
-| maz26 | 9 | 6 | 6 | 60% | $1,217,108 | -$56,814 |
 
 _(mostrando los 40 de mayor monto, de 474 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Seahawks vs. Commanders | Seahawks | 2.00 (50¢) | $31,500 | — | ⏳ Pendiente |
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $95,000 | — | ⏳ Pendiente |
 | Kch-Temp | Texans vs. Colts | Colts | 2.13 (47¢) | $65,794 | — | ⏳ Pendiente |
 | taylorsversion | Spread: Seahawks (-7.5) | Seahawks | 1.92 (52¢) | $28,080 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | Kch-Temp | Spread: Chiefs (-10.5) | Dolphins | 1.82 (55¢) | $91,144 | — | ⏳ Pendiente |
 | Sodoo | Dota 2: Team Yandex vs Natus Vincere (BO5) - PGL Wallachia Playoffs | Team Yandex | 1.14 (88¢) | $34,573 | +$4,714 | ✅ Ganada |
 | surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $93,500 | — | ⏳ Pendiente |
-| Kch-Temp | Bengals vs. Steelers | Steelers | 2.56 (39¢) | $99,491 | — | ⏳ Pendiente |
