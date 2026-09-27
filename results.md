@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 22:21:01 (hora de Perú)
+Actualizado: 2026-09-26 22:23:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3735**  ($203,304,755 en total)
-- Resueltas: **3696** — 2248 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **3698** — 2250 ganadas / 1448 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,752,798** sobre $201,494,882 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,079** sobre $364,200 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$2,671,485** sobre $201,610,741 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$6,937** sobre $364,400 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 1 | 60% | $5,441,122 | -$335,599 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Sassy-Bucket | 44 | 46 | 6 | 49% | $4,823,877 | -$887,326 |
+| Sassy-Bucket | 45 | 46 | 5 | 49% | $4,823,877 | -$867,514 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| surfandturf | 20 | 2 | 1 | 91% | $2,054,060 | +$439,439 |
+| surfandturf | 21 | 2 | 0 | 91% | $2,054,060 | +$500,939 |
 | 0F62 | 26 | 2 | 1 | 93% | $2,048,429 | +$96,561 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -75,9 +75,9 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | nigiri99 | Spread: Chiefs (-10.5) | Chiefs | 2.08 (48¢) | $50,834 | — | ⏳ Pendiente |
 | 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Minnesota vs. Washington | Washington | 1.25 (80¢) | $26,784 | — | ⏳ Pendiente |
 | Sassy-Bucket | Minnesota vs. Washington | Washington | 1.23 (81¢) | $119,953 | — | ⏳ Pendiente |
-| surfandturf | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.69 (59¢) | $88,500 | — | ⏳ Pendiente |
+| surfandturf | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.69 (59¢) | $88,500 | +$61,500 | ✅ Ganada |
 | cosmicxbt | Oregon vs. USC | Oregon | 1.41 (71¢) | $72,095 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.72 (58¢) | $27,360 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.72 (58¢) | $27,360 | +$19,812 | ✅ Ganada |
 | Sassy-Bucket | Rice vs. Fresno State | Fresno State | 1.22 (82¢) | $34,194 | — | ⏳ Pendiente |
 | texaskid | Spread: Fresno State (-12.5) | Fresno State | 1.96 (51¢) | $26,670 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Norma Dumont vs. Ailin Perez (Women's Bantamweight, Prelims) | Norma Dumont | 2.50 (40¢) | $67,016 | -$67,016 | ❌ Perdida |
