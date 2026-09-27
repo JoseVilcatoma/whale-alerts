@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 01:46:39 (hora de Perú)
+Actualizado: 2026-09-27 01:48:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3747**  ($204,203,669 en total)
+- Apuestas registradas: **3749**  ($204,519,482 en total)
 - Resueltas: **3711** — 2262 ganadas / 1449 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 20
 - Apostadores distintos: 470
 
 ### Balance
@@ -52,6 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | SDTrading | 25 | 27 | 0 | 48% | $1,553,883 | -$170,031 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
+| raybanman | 10 | 3 | 3 | 77% | $1,462,852 | +$298,464 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
@@ -62,7 +63,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | phonesculptor | 16 | 3 | 0 | 84% | $1,213,036 | +$613 |
 | Kch-Temp | 16 | 6 | 0 | 73% | $1,191,211 | +$588,416 |
-| raybanman | 10 | 3 | 1 | 77% | $1,147,039 | +$298,464 |
 | texaskid | 11 | 9 | 2 | 55% | $1,145,322 | +$26,235 |
 
 _(mostrando los 40 de mayor monto, de 470 en total)_
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Spread: Chiefs (-10.5) | Dolphins | 1.85 (54¢) | $175,216 | — | ⏳ Pendiente |
+| raybanman | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $140,597 | — | ⏳ Pendiente |
 | raybanman | Spread: Bills (-7.5) | Bills | 2.00 (50¢) | $314,445 | — | ⏳ Pendiente |
 | esportsbetter1 | Valorant: 100 Thieves vs T1 (BO3) - VCT Champions Group A | 100 Thieves | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
 | texaskid | Cardinals vs. 49ers: O/U 48.5 | Over 48.5 | 1.96 (51¢) | $78,573 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | SharkbetX-com | Will England win on 2026-09-26? | Yes | 1.82 (55¢) | $28,909 | -$28,909 | ❌ Perdida |
 | Sassy-Bucket | Vanderbilt vs. Auburn | Vanderbilt | 4.17 (24¢) | $29,417 | -$29,417 | ❌ Perdida |
 | texaskid | Utah vs. Iowa State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $47,830 | -$47,830 | ❌ Perdida |
-| alwaysfade | Ole Miss vs. Florida | Florida | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
-| KaneAnalytics | Wake Forest vs. Louisville | Wake Forest | 1.61 (62¢) | $26,040 | +$15,960 | ✅ Ganada |
