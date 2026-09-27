@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 22:43:35 (hora de Perú)
+Actualizado: 2026-09-26 22:45:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3737**  ($203,358,229 en total)
+- Apuestas registradas: **3739**  ($203,447,297 en total)
 - Resueltas: **3706** — 2258 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 469
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 59 | 40 | 1 | 60% | $5,441,122 | -$335,599 |
+| wr0ngw4yb3tt0r | 59 | 40 | 2 | 60% | $5,476,141 | -$335,599 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Sassy-Bucket | 48 | 46 | 2 | 51% | $4,823,877 | -$789,859 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
@@ -39,8 +39,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 27 | 25 | 2 | 52% | $2,562,234 | +$320,813 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 38 | 23 | 0 | 62% | $2,433,850 | -$491,966 |
+| ethanaz | 27 | 10 | 2 | 73% | $2,340,392 | -$97,920 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| ethanaz | 27 | 10 | 1 | 73% | $2,286,343 | -$97,920 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Minnesota vs. Washington | Washington | 1.92 (52¢) | $35,019 | — | ⏳ Pendiente |
+| ethanaz | Minnesota vs. Washington | Minnesota | 2.08 (48¢) | $54,049 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Washington | Minnesota | 2.00 (50¢) | $26,382 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $27,092 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Vancouver Whitecaps FC vs. D.C. United SC: O/U 2.5 | Over 2.5 | 1.08 (93¢) | $39,541 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Tennessee | Texas | 1.09 (92¢) | $31,585 | +$2,746 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England vs. Spain end in a draw? | No | 1.41 (71¢) | $60,787 | +$24,829 | ✅ Ganada |
 | tes21sa | Will England vs. Spain end in a draw? | Yes | 3.45 (29¢) | $29,992 | -$29,992 | ❌ Perdida |
-| surfandturf | Will Spain win on 2026-09-26? | Yes | 2.22 (45¢) | $45,000 | +$55,000 | ✅ Ganada |
-| ripley86alien | Will Spain win on 2026-09-26? | No | 1.89 (53¢) | $113,674 | -$113,674 | ❌ Perdida |
