@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 10:42:30 (hora de Perú)
+Actualizado: 2026-09-27 10:44:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3809**  ($208,192,029 en total)
+- Apuestas registradas: **3813**  ($208,565,175 en total)
 - Resueltas: **3719** — 2267 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 72
-- Apostadores distintos: 473
+- Pendientes: 76
+- Apostadores distintos: 474
 
 ### Balance
 
@@ -65,12 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | maz26 | 9 | 6 | 6 | 60% | $1,217,108 | -$56,814 |
 
-_(mostrando los 40 de mayor monto, de 473 en total)_
+_(mostrando los 40 de mayor monto, de 474 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| taylorsversion | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $108,958 | — | ⏳ Pendiente |
+| ratatatatatatatataaaa | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $192,000 | — | ⏳ Pendiente |
+| WanderingWombat | Patriots vs. Jaguars | Patriots | 2.50 (40¢) | $39,938 | — | ⏳ Pendiente |
+| COMEONDUDE | Spread: Bills (-7.5) | Bills | 2.13 (47¢) | $32,251 | — | ⏳ Pendiente |
 | texaskid | Spread: 49ers (-7.5) | 49ers | 1.96 (51¢) | $124,206 | — | ⏳ Pendiente |
 | Diabolical-Prize | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $145,224 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $67,996 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 473 en total)_
 | Kch-Temp | Seahawks vs. Commanders: O/U 40.5 | Over 40.5 | 2.08 (48¢) | $80,988 | — | ⏳ Pendiente |
 | Kch-Temp | Panthers vs. Browns: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $46,780 | — | ⏳ Pendiente |
 | Kch-Temp | Chargers vs. Bills: O/U 50.5 | Under 50.5 | 1.89 (53¢) | $51,225 | — | ⏳ Pendiente |
-| 0x361b…74fe | Will Norway vs. Portugal end in a draw? | No | 1.32 (76¢) | $32,037 | — | ⏳ Pendiente |
-| nuttypoo | Seahawks vs. Commanders | Seahawks | 1.28 (78¢) | $105,300 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Lions (-3.5) | Lions | 1.67 (60¢) | $28,077 | — | ⏳ Pendiente |
-| raybanman | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $267,375 | — | ⏳ Pendiente |
