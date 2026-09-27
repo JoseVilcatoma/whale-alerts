@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 15:01:15 (hora de Perú)
+Actualizado: 2026-09-27 15:03:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3832**  ($209,623,799 en total)
+- Apuestas registradas: **3835**  ($210,016,723 en total)
 - Resueltas: **3724** — 2270 ganadas / 1454 perdidas (**61%** de acierto)
-- Pendientes: 90
+- Pendientes: 93
 - Apostadores distintos: 474
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Sassy-Bucket | 49 | 47 | 2 | 51% | $4,962,630 | -$902,306 |
+| Sassy-Bucket | 49 | 47 | 3 | 51% | $5,201,984 | -$902,306 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 44 | 40 | 2 | 52% | $4,407,111 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Raiders vs. Saints | Saints | 1.59 (63¢) | $85,135 | — | ⏳ Pendiente |
+| cosmicxbt | Panthers vs. Browns | Panthers | 1.19 (84¢) | $68,434 | — | ⏳ Pendiente |
+| Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $239,354 | — | ⏳ Pendiente |
 | Sassy-Bucket | Raiders vs. Saints | Raiders | 2.70 (37¢) | $72,634 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seahawks vs. Commanders | Seahawks | 1.49 (67¢) | $31,843 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Saints (-3.5) | Raiders | 1.92 (52¢) | $53,511 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $102,480 | — | ⏳ Pendiente |
 | liquiditycrisis | Texans vs. Colts: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $32,413 | — | ⏳ Pendiente |
 | gmpm2 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $39,168 | — | ⏳ Pendiente |
-| omnibus-076daa | Colorado Rockies vs. Chicago White Sox | Colorado Rockies | 2.70 (37¢) | $25,477 | — | ⏳ Pendiente |
-| btmx6 | Bengals vs. Steelers | Bengals | 1.64 (61¢) | $51,745 | — | ⏳ Pendiente |
-| Kch-Temp | Spread: 49ers (-7.5) | 49ers | 2.00 (50¢) | $29,807 | — | ⏳ Pendiente |
