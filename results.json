@@ -56749,5 +56749,35 @@
     "status": "pending",
     "ultimo_fill": 1790516956,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7692,
+    "timestamp": 1790518148,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-kc-mia-2026-09-27",
+    "title": "Chiefs vs. Dolphins",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 39167.52,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1790518148,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7693,
+    "timestamp": 1790518183,
+    "username": "liquiditycrisis",
+    "wallet": "0xa90429bc88a1d22eb40e4aac9aaf0bcefd29d20c",
+    "slug": "nfl-hou-ind-2026-09-27-total-42pt5",
+    "title": "Texans vs. Colts: O/U 42.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 32412.645200000003,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1790518183,
+    "fills": 1
   }
 ]

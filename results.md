@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 09:08:34 (hora de Perú)
+Actualizado: 2026-09-27 09:10:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3775**  ($206,395,338 en total)
+- Apuestas registradas: **3777**  ($206,466,919 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 42
 - Apostadores distintos: 472
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | phonesculptor | 16 | 3 | 0 | 84% | $1,213,036 | +$613 |
-| texaskid | 11 | 9 | 2 | 55% | $1,145,322 | +$26,235 |
+| maz26 | 9 | 6 | 4 | 60% | $1,159,412 | -$56,814 |
 
 _(mostrando los 40 de mayor monto, de 472 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| liquiditycrisis | Texans vs. Colts: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $32,413 | — | ⏳ Pendiente |
+| gmpm2 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $39,168 | — | ⏳ Pendiente |
 | omnibus-076daa | Colorado Rockies vs. Chicago White Sox | Colorado Rockies | 2.70 (37¢) | $25,477 | — | ⏳ Pendiente |
 | btmx6 | Bengals vs. Steelers | Bengals | 1.64 (61¢) | $51,745 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: 49ers (-7.5) | 49ers | 2.00 (50¢) | $29,807 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | KaneAnalytics | Texas A&M vs. LSU | LSU | 1.43 (70¢) | $49,947 | +$21,406 | ✅ Ganada |
 | ethanaz | Texas A&M vs. LSU: O/U 52.5 | Under 52.5 | 2.00 (50¢) | $32,997 | +$32,997 | ✅ Ganada |
 | Talvez10 | Houston Astros vs. Athletics | Athletics | 2.50 (40¢) | $33,789 | -$33,789 | ❌ Perdida |
-| Sassy-Bucket | Tulsa vs. Arkansas | Arkansas | 1.39 (72¢) | $131,976 | +$51,324 | ✅ Ganada |
-| Sassy-Bucket | UFC Fight Night: Brady Hiestand vs. Rinya Nakamura (Bantamweight, Main Card) | Rinya Nakamura | 1.30 (77¢) | $93,810 | -$93,810 | ❌ Perdida |
