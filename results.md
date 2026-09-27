@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 06:14:12 (hora de Perú)
+Actualizado: 2026-09-27 06:16:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3757**  ($205,165,295 en total)
+- Apuestas registradas: **3758**  ($205,197,151 en total)
 - Resueltas: **3716** — 2264 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 470
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ptrck7 | Will Serbia win on 2026-09-27? | No | 1.12 (89¢) | $31,856 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $34,030 | — | ⏳ Pendiente |
 | Kch-Temp | Seahawks vs. Commanders: O/U 40.5 | Over 40.5 | 2.08 (48¢) | $80,988 | — | ⏳ Pendiente |
 | Kch-Temp | Panthers vs. Browns: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $46,780 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | ethanaz | Iowa vs. Michigan | Michigan | 1.35 (74¢) | $30,194 | -$30,194 | ❌ Perdida |
 | ethanaz | Iowa vs. Michigan | Michigan | 1.39 (72¢) | $44,672 | -$44,672 | ❌ Perdida |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.19 (84¢) | $54,473 | +$10,376 | ✅ Ganada |
-| KaneAnalytics | Iowa vs. Michigan | Michigan | 1.45 (69¢) | $30,794 | -$30,794 | ❌ Perdida |

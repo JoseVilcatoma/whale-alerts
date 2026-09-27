@@ -56479,5 +56479,20 @@
     "status": "pending",
     "ultimo_fill": 1790503794,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7673,
+    "timestamp": 1790507681,
+    "username": "ptrck7",
+    "wallet": "0x96c2e57df188b3593ea675ebaf31d29d46ed5741",
+    "slug": "unl-ser-nld-2026-09-27-ser",
+    "title": "Will Serbia win on 2026-09-27?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 31855.939998,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1790507681,
+    "fills": 1
   }
 ]
