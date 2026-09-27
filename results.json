@@ -56629,5 +56629,35 @@
     "status": "pending",
     "ultimo_fill": 1790513030,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7684,
+    "timestamp": 1790513492,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "nfl-lac-buf-2026-09-27-spread-home-7pt5",
+    "title": "Spread: Bills (-7.5)",
+    "outcome": "Chargers",
+    "side": "BUY",
+    "usd": 33717.8608,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1790513492,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7685,
+    "timestamp": 1790513497,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-hou-ind-2026-09-27",
+    "title": "Texans vs. Colts",
+    "outcome": "Texans",
+    "side": "BUY",
+    "usd": 42722.9502,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1790513497,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 07:50:49 (hora de Perú)
+Actualizado: 2026-09-27 07:52:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3767**  ($206,106,389 en total)
+- Apuestas registradas: **3769**  ($206,182,830 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 34
 - Apostadores distintos: 471
 
 ### Balance
@@ -51,8 +51,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 10 | 3 | 4 | 77% | $1,730,227 | +$298,464 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Kch-Temp | 16 | 6 | 7 | 73% | $1,655,656 | +$588,416 |
+| SDTrading | 25 | 27 | 1 | 48% | $1,587,601 | -$170,031 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
-| SDTrading | 25 | 27 | 0 | 48% | $1,553,883 | -$170,031 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 471 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Texans vs. Colts | Texans | 1.89 (53¢) | $42,723 | — | ⏳ Pendiente |
+| SDTrading | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $33,718 | — | ⏳ Pendiente |
 | surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $218,521 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Chiefs (-10.5) | Dolphins | 1.82 (55¢) | $91,144 | — | ⏳ Pendiente |
 | Sodoo | Dota 2: Team Yandex vs Natus Vincere (BO5) - PGL Wallachia Playoffs | Team Yandex | 1.14 (88¢) | $34,573 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 471 en total)_
 | Roadto1mlesgooo | Canada vs. Chile: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $30,238 | +$1,930 | ✅ Ganada |
 | Sassy-Bucket | Louisiana vs. Charlotte | Louisiana | 1.27 (79¢) | $84,731 | +$22,523 | ✅ Ganada |
 | ic4cream | Missouri vs. Mississippi State | Mississippi State | 1.61 (62¢) | $33,852 | +$20,748 | ✅ Ganada |
-| Sassy-Bucket | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.79 (56¢) | $40,204 | -$40,204 | ❌ Perdida |
-| jaytee158 | Delaware vs. Virginia | Virginia | 1.09 (92¢) | $37,023 | +$3,219 | ✅ Ganada |
