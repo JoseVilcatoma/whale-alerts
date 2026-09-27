@@ -55939,5 +55939,35 @@
     "status": "pending",
     "ultimo_fill": 1790467285,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7603,
+    "timestamp": 1790467518,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "nfl-ari-sf-2026-09-27-spread-home-8pt5",
+    "title": "Spread: 49ers (-8.5)",
+    "outcome": "Cardinals",
+    "side": "BUY",
+    "usd": 51259.7927,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1790467518,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7604,
+    "timestamp": 1790467520,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-ari-sf-2026-09-27-spread-home-7pt5",
+    "title": "Spread: 49ers (-7.5)",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 44983.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1790467520,
+    "fills": 1
   }
 ]

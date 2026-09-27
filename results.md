@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 19:04:41 (hora de Perú)
+Actualizado: 2026-09-26 19:06:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3721**  ($202,589,549 en total)
+- Apuestas registradas: **3723**  ($202,685,792 en total)
 - Resueltas: **3684** — 2241 ganadas / 1443 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 21
 - Apostadores distintos: 469
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 59 | 40 | 0 | 60% | $5,396,139 | -$335,599 |
+| wr0ngw4yb3tt0r | 59 | 40 | 1 | 60% | $5,441,122 | -$335,599 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Sassy-Bucket | 43 | 44 | 5 | 49% | $4,575,354 | -$749,023 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: 49ers (-7.5) | 49ers | 2.00 (50¢) | $44,983 | — | ⏳ Pendiente |
+| texaskid | Spread: 49ers (-8.5) | Cardinals | 1.89 (53¢) | $51,260 | — | ⏳ Pendiente |
 | Talvez10 | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $28,206 | — | ⏳ Pendiente |
 | KaneAnalytics | Texas A&M vs. LSU | LSU | 1.43 (70¢) | $49,947 | — | ⏳ Pendiente |
 | ethanaz | Texas A&M vs. LSU: O/U 52.5 | Under 52.5 | 2.00 (50¢) | $32,997 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Faroe Islands win on 2026-09-26? | No | 2.08 (48¢) | $83,099 | +$90,024 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Akron | UNLV | 1.20 (83¢) | $25,723 | +$5,269 | ✅ Ganada |
 | liquiditycrisis | Spread: Texas (-5.5) | Tennessee | 1.92 (52¢) | $42,091 | +$38,854 | ✅ Ganada |
-| texaskid | UCLA vs. Maryland | UCLA | 1.75 (57¢) | $39,265 | +$29,621 | ✅ Ganada |
-| SmartPredictOrNot | Will Faroe Islands win on 2026-09-26? | Yes | 1.69 (59¢) | $265,754 | -$265,754 | ❌ Perdida |
