@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 16:14:13 (hora de Perú)
+Actualizado: 2026-09-27 16:16:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3848**  ($210,837,849 en total)
-- Resueltas: **3752** — 2291 ganadas / 1461 perdidas (**61%** de acierto)
-- Pendientes: 78
+- Resueltas: **3756** — 2293 ganadas / 1463 perdidas (**61%** de acierto)
+- Pendientes: 74
 - Apostadores distintos: 475
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,777,591** sobre $205,008,462 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,041** sobre $369,800 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$1,666,915** sobre $205,217,649 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$5,928** sobre $370,200 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Sassy-Bucket | 49 | 47 | 4 | 51% | $5,270,406 | -$902,306 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Diabolical-Prize | 45 | 40 | 1 | 53% | $4,407,111 | -$73,995 |
+| Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | BrotherObama | 27 | 25 | 4 | 52% | $2,640,745 | +$320,813 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 1 | 93% | $2,048,429 | +$96,561 |
-| Kch-Temp | 19 | 6 | 8 | 76% | $1,881,865 | +$797,266 |
+| Kch-Temp | 20 | 6 | 7 | 77% | $1,881,865 | +$952,880 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | raybanman | 10 | 3 | 4 | 77% | $1,730,227 | +$298,464 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 25 | 27 | 3 | 48% | $1,644,472 | -$170,031 |
 | Jsram | 14 | 17 | 4 | 45% | $1,598,878 | -$442,701 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
-| maz26 | 10 | 7 | 6 | 59% | $1,509,900 | -$92,077 |
+| maz26 | 10 | 8 | 5 | 56% | $1,509,900 | -$124,773 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
@@ -121,7 +121,7 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 | mooseborzoi | Spread: Bills (-7.5) | Chargers | 1.89 (53¢) | $34,920 | — | ⏳ Pendiente |
 | taylorsversion | Spread: Giants (-2.5) | Titans | 2.00 (50¢) | $95,371 | -$95,371 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $127,723 | +$127,723 | ✅ Ganada |
-| gmpm2 | Bengals vs. Steelers | Bengals | 1.64 (61¢) | $32,696 | — | ⏳ Pendiente |
+| gmpm2 | Bengals vs. Steelers | Bengals | 1.64 (61¢) | $32,696 | -$32,696 | ❌ Perdida |
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $39,400 | — | ⏳ Pendiente |
 | bands1 | Titans vs. Giants | Giants | 1.79 (56¢) | $33,600 | +$26,400 | ✅ Ganada |
 | liquiditycrisis | Spread: Bills (-6.5) | Bills | 1.79 (56¢) | $34,822 | — | ⏳ Pendiente |
