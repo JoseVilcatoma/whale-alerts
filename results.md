@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 23:34:47 (hora de Perú)
+Actualizado: 2026-09-26 23:36:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3741**  ($203,654,897 en total)
+- Apuestas registradas: **3742**  ($203,696,528 en total)
 - Resueltas: **3707** — 2259 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 469
 
 ### Balance
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | phonesculptor | 16 | 3 | 0 | 84% | $1,213,036 | +$613 |
 | Kch-Temp | 16 | 6 | 0 | 73% | $1,191,211 | +$588,416 |
-| Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
+| Elaran1993 | 8 | 6 | 1 | 57% | $1,129,332 | +$329,161 |
 | texaskid | 10 | 9 | 2 | 53% | $1,066,749 | +$611 |
 
 _(mostrando los 40 de mayor monto, de 469 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elaran1993 | Spread: Panthers (-3.5) | Browns | 1.67 (60¢) | $41,631 | — | ⏳ Pendiente |
 | takeormake | Panthers vs. Browns | Panthers | 1.82 (55¢) | $150,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-14.5) | Chargers | 1.39 (72¢) | $57,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Minnesota vs. Washington | Washington | 1.92 (52¢) | $35,019 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | TCU vs. UCF | TCU | 1.61 (62¢) | $60,901 | -$60,901 | ❌ Perdida |
 | texaskid | Ole Miss vs. Florida | Florida | 1.61 (62¢) | $78,032 | +$47,826 | ✅ Ganada |
 | Sassy-Bucket | Ole Miss vs. Florida | Ole Miss | 2.63 (38¢) | $67,450 | -$67,450 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Tennessee | Texas | 1.09 (92¢) | $31,585 | +$2,746 | ✅ Ganada |
