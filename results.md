@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 19:57:57 (hora de Perú)
+Actualizado: 2026-09-26 20:00:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3725**  ($202,751,809 en total)
-- Resueltas: **3689** — 2244 ganadas / 1445 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **3690** — 2244 ganadas / 1446 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,684,137** sobre $201,180,718 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$6,946** sobre $363,500 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$2,717,700** sobre $201,214,281 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,046** sobre $363,600 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| SDTrading | 25 | 26 | 1 | 49% | $1,553,883 | -$136,468 |
+| SDTrading | 25 | 27 | 0 | 48% | $1,553,883 | -$170,031 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 1 | 92% | $1,527,965 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | ethanaz | Iowa vs. Michigan | Michigan | 1.39 (72¢) | $44,672 | -$44,672 | ❌ Perdida |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.19 (84¢) | $54,473 | +$10,376 | ✅ Ganada |
 | KaneAnalytics | Iowa vs. Michigan | Michigan | 1.45 (69¢) | $30,794 | -$30,794 | ❌ Perdida |
-| SDTrading | Spread: Nebraska (-6.5) | Michigan State | 1.96 (51¢) | $33,563 | — | ⏳ Pendiente |
+| SDTrading | Spread: Nebraska (-6.5) | Michigan State | 1.96 (51¢) | $33,563 | -$33,563 | ❌ Perdida |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.28 (78¢) | $36,763 | +$10,369 | ✅ Ganada |
 | phonesculptor | South Florida vs. Bowling Green | South Florida | 1.12 (89¢) | $62,935 | +$7,778 | ✅ Ganada |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.43 (70¢) | $72,033 | +$30,871 | ✅ Ganada |
