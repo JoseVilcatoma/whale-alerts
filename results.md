@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 10:54:54 (hora de Perú)
+Actualizado: 2026-09-27 10:56:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3815**  ($208,625,961 en total)
+- Apuestas registradas: **3816**  ($208,709,649 en total)
 - Resueltas: **3719** — 2267 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 78
+- Pendientes: 79
 - Apostadores distintos: 474
 
 ### Balance
@@ -46,9 +46,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 1 | 93% | $2,048,429 | +$96,561 |
+| Kch-Temp | 16 | 6 | 10 | 73% | $1,816,070 | +$588,416 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| Kch-Temp | 16 | 6 | 9 | 73% | $1,732,383 | +$588,416 |
 | raybanman | 10 | 3 | 4 | 77% | $1,730,227 | +$298,464 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 25 | 27 | 2 | 48% | $1,615,472 | -$170,031 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Spread: Seahawks (-8.5) | Commanders | 1.92 (52¢) | $83,688 | — | ⏳ Pendiente |
 | HectorHuang | Spread: Netherlands (-1.5) | Netherlands | 2.13 (47¢) | $29,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $31,786 | — | ⏳ Pendiente |
 | taylorsversion | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $108,958 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | 0x361b…74fe | Will Norway win on 2026-09-27? | Yes | 2.38 (42¢) | $37,573 | — | ⏳ Pendiente |
 | ptrck7 | Will Serbia win on 2026-09-27? | No | 1.12 (89¢) | $31,856 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $34,030 | — | ⏳ Pendiente |
-| Kch-Temp | Seahawks vs. Commanders: O/U 40.5 | Over 40.5 | 2.08 (48¢) | $80,988 | — | ⏳ Pendiente |
