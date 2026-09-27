@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 07:32:05 (hora de Perú)
+Actualizado: 2026-09-27 07:34:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3763**  ($205,668,652 en total)
+- Apuestas registradas: **3764**  ($205,762,152 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 470
 
 ### Balance
@@ -39,8 +39,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 27 | 25 | 2 | 52% | $2,562,234 | +$320,813 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 38 | 23 | 0 | 62% | $2,433,850 | -$491,966 |
+| surfandturf | 21 | 2 | 2 | 91% | $2,387,181 | +$500,939 |
 | ethanaz | 29 | 10 | 0 | 74% | $2,340,392 | -$12,984 |
-| surfandturf | 21 | 2 | 1 | 91% | $2,293,681 | +$500,939 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $93,500 | — | ⏳ Pendiente |
 | Kch-Temp | Bengals vs. Steelers | Steelers | 2.56 (39¢) | $99,491 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Bengals (-3.5) | Steelers | 1.85 (54¢) | $64,573 | — | ⏳ Pendiente |
 | surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $239,620 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | Talvez10 | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.82 (55¢) | $31,484 | -$31,484 | ❌ Perdida |
 | TAIWANNUMBERONE | Ole Miss vs. Florida | Florida | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
 | Talvez10 | UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims) | Rodolfo Bellato | 1.59 (63¢) | $29,613 | -$29,613 | ❌ Perdida |
-| nuttypoo | Wisconsin vs. Penn State | Penn State | 1.27 (79¢) | $122,133 | -$122,133 | ❌ Perdida |
