@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 19:18:59 (hora de Perú)
+Actualizado: 2026-09-26 19:21:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3723**  ($202,685,792 en total)
-- Resueltas: **3684** — 2241 ganadas / 1443 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **3685** — 2241 ganadas / 1444 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,524,463** sobre $200,846,096 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$6,932** sobre $363,000 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$2,618,273** sobre $200,939,906 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$7,032** sobre $363,100 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 1 | 60% | $5,441,122 | -$335,599 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Sassy-Bucket | 43 | 44 | 5 | 49% | $4,575,354 | -$749,023 |
+| Sassy-Bucket | 43 | 45 | 4 | 49% | $4,575,354 | -$842,833 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | ethanaz | Texas A&M vs. LSU: O/U 52.5 | Under 52.5 | 2.00 (50¢) | $32,997 | — | ⏳ Pendiente |
 | Talvez10 | Houston Astros vs. Athletics | Athletics | 2.50 (40¢) | $33,789 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tulsa vs. Arkansas | Arkansas | 1.39 (72¢) | $131,976 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Brady Hiestand vs. Rinya Nakamura (Bantamweight, Main Card) | Rinya Nakamura | 1.30 (77¢) | $93,810 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC Fight Night: Brady Hiestand vs. Rinya Nakamura (Bantamweight, Main Card) | Rinya Nakamura | 1.30 (77¢) | $93,810 | -$93,810 | ❌ Perdida |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $51,473 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $31,908 | — | ⏳ Pendiente |
 | phonesculptor | Kennesaw State vs. Arkansas State | Arkansas State | 1.43 (70¢) | $31,351 | — | ⏳ Pendiente |
