@@ -57769,5 +57769,20 @@
     "status": "pending",
     "ultimo_fill": 1790540689,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7770,
+    "timestamp": 1790540948,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-min-tb-2026-09-27",
+    "title": "Vikings vs. Buccaneers",
+    "outcome": "Buccaneers",
+    "side": "BUY",
+    "usd": 26690.4135,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1790540948,
+    "fills": 1
   }
 ]
