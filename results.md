@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 05:23:05 (hora de Perú)
+Actualizado: 2026-09-27 05:25:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3754**  ($204,986,301 en total)
+- Apuestas registradas: **3757**  ($205,165,295 en total)
 - Resueltas: **3716** — 2264 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 23
 - Apostadores distintos: 470
 
 ### Balance
@@ -55,6 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
+| Kch-Temp | 16 | 6 | 3 | 73% | $1,370,205 | +$588,416 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | Lakersfan111 | 16 | 14 | 0 | 53% | $1,274,405 | -$101,179 |
@@ -62,7 +63,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | phonesculptor | 16 | 3 | 0 | 84% | $1,213,036 | +$613 |
-| Kch-Temp | 16 | 6 | 0 | 73% | $1,191,211 | +$588,416 |
 | texaskid | 11 | 9 | 2 | 55% | $1,145,322 | +$26,235 |
 
 _(mostrando los 40 de mayor monto, de 470 en total)_
@@ -72,6 +72,9 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $34,030 | — | ⏳ Pendiente |
+| Kch-Temp | Seahawks vs. Commanders: O/U 40.5 | Over 40.5 | 2.08 (48¢) | $80,988 | — | ⏳ Pendiente |
+| Kch-Temp | Panthers vs. Browns: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $46,780 | — | ⏳ Pendiente |
+| Kch-Temp | Chargers vs. Bills: O/U 50.5 | Under 50.5 | 1.89 (53¢) | $51,225 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Norway vs. Portugal end in a draw? | No | 1.32 (76¢) | $32,037 | — | ⏳ Pendiente |
 | nuttypoo | Seahawks vs. Commanders | Seahawks | 1.28 (78¢) | $105,300 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Lions (-3.5) | Lions | 1.67 (60¢) | $28,077 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | ethanaz | Iowa vs. Michigan | Michigan | 1.39 (72¢) | $44,672 | -$44,672 | ❌ Perdida |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.19 (84¢) | $54,473 | +$10,376 | ✅ Ganada |
 | KaneAnalytics | Iowa vs. Michigan | Michigan | 1.45 (69¢) | $30,794 | -$30,794 | ❌ Perdida |
-| SDTrading | Spread: Nebraska (-6.5) | Michigan State | 1.96 (51¢) | $33,563 | -$33,563 | ❌ Perdida |
-| ethanaz | Ole Miss vs. Florida | Florida | 1.28 (78¢) | $36,763 | +$10,369 | ✅ Ganada |
-| phonesculptor | South Florida vs. Bowling Green | South Florida | 1.12 (89¢) | $62,935 | +$7,778 | ✅ Ganada |
