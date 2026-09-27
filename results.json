@@ -57004,5 +57004,20 @@
     "status": "pending",
     "ultimo_fill": 1790520892,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7710,
+    "timestamp": 1790521129,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "nfl-lac-buf-2026-09-27-total-50pt5",
+    "title": "Chargers vs. Bills: O/U 50.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26930.0592,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1790521129,
+    "fills": 1
   }
 ]

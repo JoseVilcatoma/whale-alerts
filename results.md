@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 09:58:31 (hora de Perú)
+Actualizado: 2026-09-27 10:00:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3792**  ($207,189,294 en total)
+- Apuestas registradas: **3793**  ($207,216,225 en total)
 - Resueltas: **3718** — 2266 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 57
 - Apostadores distintos: 472
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Chargers vs. Bills: O/U 50.5 | Over 50.5 | 2.08 (48¢) | $26,930 | — | ⏳ Pendiente |
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $85,529 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Bengals vs. Steelers: O/U 42.5 | Over 42.5 | 2.00 (50¢) | $46,075 | — | ⏳ Pendiente |
 | liquiditycrisis | Bengals vs. Steelers: O/U 42.5 | Under 42.5 | 2.00 (50¢) | $97,503 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | gmpm2 | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $27,092 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Vancouver Whitecaps FC vs. D.C. United SC: O/U 2.5 | Over 2.5 | 1.08 (93¢) | $39,541 | +$2,976 | ✅ Ganada |
 | nigiri99 | Spread: Chiefs (-10.5) | Chiefs | 2.08 (48¢) | $50,834 | — | ⏳ Pendiente |
-| 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Minnesota vs. Washington | Washington | 1.25 (80¢) | $26,784 | -$26,784 | ❌ Perdida |
