@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 07:28:00 (hora de Perú)
+Actualizado: 2026-09-27 07:30:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3760**  ($205,264,968 en total)
+- Apuestas registradas: **3761**  ($205,504,588 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 470
 
 ### Balance
@@ -40,11 +40,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 38 | 23 | 0 | 62% | $2,433,850 | -$491,966 |
 | ethanaz | 29 | 10 | 0 | 74% | $2,340,392 | -$12,984 |
+| surfandturf | 21 | 2 | 1 | 91% | $2,293,681 | +$500,939 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| surfandturf | 21 | 2 | 0 | 91% | $2,054,060 | +$500,939 |
 | 0F62 | 26 | 2 | 1 | 93% | $2,048,429 | +$96,561 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $239,620 | — | ⏳ Pendiente |
 | Kch-Temp | Panthers vs. Browns: O/U 42.5 | Under 42.5 | 1.89 (53¢) | $30,244 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Norway win on 2026-09-27? | Yes | 2.38 (42¢) | $37,573 | — | ⏳ Pendiente |
 | ptrck7 | Will Serbia win on 2026-09-27? | No | 1.12 (89¢) | $31,856 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | nuttypoo | Wisconsin vs. Penn State | Penn State | 1.27 (79¢) | $122,133 | -$122,133 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: South Florida (-18.5) | Bowling Green | 1.89 (53¢) | $28,744 | +$25,490 | ✅ Ganada |
 | texaskid | Spread: LSU (-8.5) | LSU | 2.00 (50¢) | $87,553 | +$87,553 | ✅ Ganada |
-| ethanaz | Iowa vs. Michigan | Michigan | 1.35 (74¢) | $30,194 | -$30,194 | ❌ Perdida |
