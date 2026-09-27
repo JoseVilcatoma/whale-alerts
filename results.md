@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 17:06:10 (hora de Perú)
+Actualizado: 2026-09-27 17:08:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3858**  ($211,167,817 en total)
+- Apuestas registradas: **3859**  ($211,211,813 en total)
 - Resueltas: **3786** — 2309 ganadas / 1477 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 476
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| ethanaz | 29 | 10 | 0 | 74% | $2,340,392 | -$12,984 |
+| ethanaz | 29 | 10 | 1 | 74% | $2,384,388 | -$12,984 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 476 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Vikings vs. Buccaneers | Vikings | 1.32 (76¢) | $43,996 | — | ⏳ Pendiente |
 | yoyoyoyoer | Vikings vs. Buccaneers | Vikings | 1.37 (73¢) | $31,025 | — | ⏳ Pendiente |
 | sifonman | Vikings vs. Buccaneers | Vikings | 1.39 (72¢) | $27,720 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.09 (92¢) | $46,363 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 476 en total)_
 | wr0ngw4yb3tt0r | Spread: 49ers (-7.5) | Cardinals | 2.04 (49¢) | $41,605 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Bills (-7.5) | Chargers | 1.89 (53¢) | $34,920 | -$34,920 | ❌ Perdida |
 | taylorsversion | Spread: Giants (-2.5) | Titans | 2.00 (50¢) | $95,371 | -$95,371 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $127,723 | +$127,723 | ✅ Ganada |
