@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 21:36:19 (hora de Perú)
+Actualizado: 2026-09-26 21:38:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3731**  ($203,067,643 en total)
-- Resueltas: **3695** — 2247 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **3696** — 2248 ganadas / 1448 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,777,810** sobre $201,466,676 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,168** sobre $364,100 (ROI **-2.0%**)
+- **Resultado de los apostadores: -$2,752,798** sobre $201,494,882 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$7,079** sobre $364,200 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 1 | 92% | $1,527,965 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Talvez10 | 14 | 13 | 2 | 52% | $1,373,240 | +$183,617 |
+| Talvez10 | 15 | 13 | 1 | 54% | $1,373,240 | +$208,630 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | Lakersfan111 | 16 | 14 | 0 | 53% | $1,274,405 | -$101,179 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | 0F62 | Will Greece win on 2026-09-27? | No | 1.12 (89¢) | $33,745 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: 49ers (-7.5) | 49ers | 2.00 (50¢) | $44,983 | — | ⏳ Pendiente |
 | texaskid | Spread: 49ers (-8.5) | Cardinals | 1.89 (53¢) | $51,260 | — | ⏳ Pendiente |
-| Talvez10 | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $28,206 | — | ⏳ Pendiente |
+| Talvez10 | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $28,206 | +$25,013 | ✅ Ganada |
 | KaneAnalytics | Texas A&M vs. LSU | LSU | 1.43 (70¢) | $49,947 | — | ⏳ Pendiente |
 | ethanaz | Texas A&M vs. LSU: O/U 52.5 | Under 52.5 | 2.00 (50¢) | $32,997 | — | ⏳ Pendiente |
 | Talvez10 | Houston Astros vs. Athletics | Athletics | 2.50 (40¢) | $33,789 | — | ⏳ Pendiente |
