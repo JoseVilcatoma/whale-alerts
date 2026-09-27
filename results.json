@@ -56781,7 +56781,7 @@
     "fills": 1
   },
   {
-    "telegram_msg_id": null,
+    "telegram_msg_id": 7694,
     "timestamp": 1790518612,
     "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
     "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
@@ -56789,10 +56789,25 @@
     "title": "Chiefs vs. Dolphins",
     "outcome": "Chiefs",
     "side": "BUY",
-    "usd": 60480.0,
+    "usd": 102480.0,
     "odds_at_bet": 84,
     "status": "pending",
-    "ultimo_fill": 1790518612,
+    "ultimo_fill": 1790518638,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 7695,
+    "timestamp": 1790518665,
+    "username": "Pwaddler",
+    "wallet": "0x1d1ade627d0bb0205758580b20d808573e720df6",
+    "slug": "nfl-nyj-det-2026-09-27-spread-home-6pt5",
+    "title": "Spread: Lions (-6.5)",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 59488.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1790518665,
     "fills": 1
   }
 ]
