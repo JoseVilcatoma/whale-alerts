@@ -56314,5 +56314,20 @@
     "status": "pending",
     "ultimo_fill": 1790487789,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7656,
+    "timestamp": 1790491537,
+    "username": "raybanman",
+    "wallet": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+    "slug": "nfl-lac-buf-2026-09-27-spread-home-7pt5",
+    "title": "Spread: Bills (-7.5)",
+    "outcome": "Bills",
+    "side": "BUY",
+    "usd": 314444.6056,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1790491537,
+    "fills": 3
   }
 ]
