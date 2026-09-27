@@ -57484,5 +57484,20 @@
     "status": "pending",
     "ultimo_fill": 1790535566,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7747,
+    "timestamp": 1790535984,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-col-cws-2026-09-27",
+    "title": "Colorado Rockies vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 66119.184,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1790535984,
+    "fills": 1
   }
 ]

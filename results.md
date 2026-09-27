@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 14:04:46 (hora de Perú)
+Actualizado: 2026-09-27 14:06:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3824**  ($209,272,259 en total)
+- Apuestas registradas: **3825**  ($209,338,378 en total)
 - Resueltas: **3722** — 2269 ganadas / 1453 perdidas (**61%** de acierto)
-- Pendientes: 84
+- Pendientes: 85
 - Apostadores distintos: 474
 
 ### Balance
@@ -31,8 +31,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
+| Sassy-Bucket | 49 | 47 | 1 | 51% | $4,889,996 | -$902,306 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Sassy-Bucket | 49 | 47 | 0 | 51% | $4,823,877 | -$902,306 |
 | Diabolical-Prize | 44 | 40 | 2 | 52% | $4,407,111 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 21 | 2 | 3 | 91% | $2,605,702 | +$500,939 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Chicago White Sox | 1.67 (60¢) | $66,119 | — | ⏳ Pendiente |
 | cosmicxbt | Chiefs vs. Dolphins | Chiefs | 1.20 (83¢) | $132,027 | — | ⏳ Pendiente |
 | gmpm2 | Seahawks vs. Commanders | Seahawks | 2.00 (50¢) | $31,500 | — | ⏳ Pendiente |
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $95,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | SDTrading | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $33,718 | — | ⏳ Pendiente |
 | surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $218,521 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Chiefs (-10.5) | Dolphins | 1.82 (55¢) | $91,144 | — | ⏳ Pendiente |
-| Sodoo | Dota 2: Team Yandex vs Natus Vincere (BO5) - PGL Wallachia Playoffs | Team Yandex | 1.14 (88¢) | $34,573 | +$4,714 | ✅ Ganada |
