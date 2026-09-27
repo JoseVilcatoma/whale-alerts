@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 18:48:08 (hora de Perú)
+Actualizado: 2026-09-27 18:50:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3868**  ($211,602,115 en total)
-- Resueltas: **3803** — 2320 ganadas / 1483 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Resueltas: **3805** — 2322 ganadas / 1483 perdidas (**61%** de acierto)
+- Pendientes: 45
 - Apostadores distintos: 477
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,130,927** sobre $208,298,754 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,824** sobre $374,900 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$1,030,436** sobre $208,402,326 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,628** sobre $375,100 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,13 +54,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 26 | 29 | 0 | 47% | $1,644,472 | -$204,878 |
 | Jsram | 15 | 17 | 3 | 47% | $1,598,878 | -$409,774 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
-| maz26 | 10 | 10 | 3 | 50% | $1,509,900 | -$183,365 |
+| maz26 | 11 | 10 | 2 | 52% | $1,509,900 | -$158,365 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
 | Lakersfan111 | 16 | 14 | 1 | 53% | $1,311,556 | -$101,179 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
-| texaskid | 11 | 10 | 3 | 52% | $1,296,457 | -$695 |
+| texaskid | 12 | 10 | 2 | 55% | $1,296,457 | +$74,796 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
