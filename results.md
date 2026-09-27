@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 18:52:21 (hora de Perú)
+Actualizado: 2026-09-27 18:54:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3868**  ($211,602,115 en total)
-- Resueltas: **3805** — 2322 ganadas / 1483 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Resueltas: **3808** — 2325 ganadas / 1483 perdidas (**61%** de acierto)
+- Pendientes: 42
 - Apostadores distintos: 477
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,030,436** sobre $208,402,326 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,628** sobre $375,100 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$898,170** sobre $208,761,362 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$5,483** sobre $375,400 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Sassy-Bucket | 50 | 47 | 3 | 52% | $5,270,406 | -$858,226 |
+| Sassy-Bucket | 52 | 47 | 1 | 53% | $5,270,406 | -$771,418 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
 | Lakersfan111 | 16 | 14 | 1 | 53% | $1,311,556 | -$101,179 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
-| texaskid | 12 | 10 | 2 | 55% | $1,296,457 | +$74,796 |
+| texaskid | 13 | 10 | 1 | 57% | $1,296,457 | +$120,253 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
@@ -103,10 +103,10 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 | gvrgb326552g65 | Ravens vs. Cowboys | Ravens | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
 | Donkey14 | Ravens vs. Cowboys | Cowboys | 2.70 (37¢) | $29,076 | — | ⏳ Pendiente |
 | 177-letsgo | Seahawks vs. Commanders | Commanders | 1.08 (93¢) | $60,450 | +$4,550 | ✅ Ganada |
-| Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $68,422 | — | ⏳ Pendiente |
+| Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $68,422 | +$19,298 | ✅ Ganada |
 | Donkey14 | Raiders vs. Saints | Saints | 1.59 (63¢) | $85,135 | — | ⏳ Pendiente |
 | cosmicxbt | Panthers vs. Browns | Panthers | 1.19 (84¢) | $68,434 | -$68,434 | ❌ Perdida |
-| Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $239,354 | — | ⏳ Pendiente |
+| Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $239,354 | +$67,510 | ✅ Ganada |
 | Sassy-Bucket | Raiders vs. Saints | Raiders | 2.70 (37¢) | $72,634 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seahawks vs. Commanders | Seahawks | 1.49 (67¢) | $31,843 | -$31,843 | ❌ Perdida |
 | BrotherObama | Spread: Saints (-3.5) | Raiders | 1.92 (52¢) | $53,511 | — | ⏳ Pendiente |
