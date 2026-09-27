@@ -56689,5 +56689,20 @@
     "status": "pending",
     "ultimo_fill": 1790515519,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7688,
+    "timestamp": 1790516186,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-ari-sf-2026-09-27-spread-home-7pt5",
+    "title": "Spread: 49ers (-7.5)",
+    "outcome": "Cardinals",
+    "side": "BUY",
+    "usd": 50607.8253,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1790516186,
+    "fills": 1
   }
 ]

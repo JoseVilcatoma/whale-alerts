@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 08:35:43 (hora de Perú)
+Actualizado: 2026-09-27 08:37:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3771**  ($206,237,701 en total)
+- Apuestas registradas: **3772**  ($206,288,309 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 471
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 471 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Spread: 49ers (-7.5) | Cardinals | 1.96 (51¢) | $50,608 | — | ⏳ Pendiente |
 | SDTrading | New York Mets vs. Washington Nationals | Washington Nationals | 2.00 (50¢) | $27,871 | — | ⏳ Pendiente |
 | kkookkoo | St. Tropez: Titouan Droguet vs Harold Mayot | Titouan Droguet | 1.23 (81¢) | $27,000 | — | ⏳ Pendiente |
 | gmpm2 | Texans vs. Colts | Texans | 1.89 (53¢) | $42,723 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 471 en total)_
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $51,473 | +$16,254 | ✅ Ganada |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $31,908 | +$10,076 | ✅ Ganada |
 | phonesculptor | Kennesaw State vs. Arkansas State | Arkansas State | 1.43 (70¢) | $31,351 | +$13,436 | ✅ Ganada |
-| Roadto1mlesgooo | Canada vs. Chile: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $30,238 | +$1,930 | ✅ Ganada |
