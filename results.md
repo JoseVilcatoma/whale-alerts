@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 09:27:14 (hora de Perú)
+Actualizado: 2026-09-27 09:29:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3784**  ($206,765,718 en total)
+- Apuestas registradas: **3786**  ($206,839,041 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Pendientes: 51
 - Apostadores distintos: 472
 
 ### Balance
@@ -48,9 +48,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 26 | 2 | 1 | 93% | $2,048,429 | +$96,561 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
+| Kch-Temp | 16 | 6 | 9 | 73% | $1,732,383 | +$588,416 |
 | raybanman | 10 | 3 | 4 | 77% | $1,730,227 | +$298,464 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| Kch-Temp | 16 | 6 | 8 | 73% | $1,685,464 | +$588,416 |
 | SDTrading | 25 | 27 | 2 | 48% | $1,615,472 | -$170,031 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $46,919 | — | ⏳ Pendiente |
+| SharkbetX-com | Chiefs vs. Dolphins | Dolphins | 6.25 (16¢) | $26,404 | — | ⏳ Pendiente |
 | gmpm2 | Cardinals vs. 49ers: O/U 48.5 | Over 48.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | kkookkoo | Hangzhou Open: Daniil Medvedev vs Coleman Wong | Daniil Medvedev | 1.18 (85¢) | $26,000 | — | ⏳ Pendiente |
 | liquiditycrisis | Seahawks vs. Commanders: O/U 40.5 | Under 40.5 | 1.92 (52¢) | $35,376 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | Sassy-Bucket | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.72 (58¢) | $27,360 | +$19,812 | ✅ Ganada |
 | Sassy-Bucket | Rice vs. Fresno State | Fresno State | 1.22 (82¢) | $34,194 | +$7,506 | ✅ Ganada |
 | texaskid | Spread: Fresno State (-12.5) | Fresno State | 1.96 (51¢) | $26,670 | +$25,624 | ✅ Ganada |
-| Sassy-Bucket | UFC Fight Night: Norma Dumont vs. Ailin Perez (Women's Bantamweight, Prelims) | Norma Dumont | 2.50 (40¢) | $67,016 | -$67,016 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ilimbek Akylbek Uulu vs. Mehemmedeli Osmanli (Bantamweight, Main Card) | Mehemmedeli Osmanli | 1.35 (74¢) | $32,273 | -$32,273 | ❌ Perdida |
