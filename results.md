@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 10:21:35 (hora de Perú)
+Actualizado: 2026-09-27 10:23:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3801**  ($207,650,740 en total)
-- Resueltas: **3718** — 2266 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Resueltas: **3719** — 2267 ganadas / 1452 perdidas (**61%** de acierto)
+- Pendientes: 64
 - Apostadores distintos: 472
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,471,920** sobre $202,590,159 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,479** sobre $366,400 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,467,332** sobre $202,616,159 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,462** sobre $366,500 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | Kch-Temp | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $46,919 | — | ⏳ Pendiente |
 | SharkbetX-com | Chiefs vs. Dolphins | Dolphins | 6.25 (16¢) | $26,404 | — | ⏳ Pendiente |
 | gmpm2 | Cardinals vs. 49ers: O/U 48.5 | Over 48.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| kkookkoo | Hangzhou Open: Daniil Medvedev vs Coleman Wong | Daniil Medvedev | 1.18 (85¢) | $26,000 | — | ⏳ Pendiente |
+| kkookkoo | Hangzhou Open: Daniil Medvedev vs Coleman Wong | Daniil Medvedev | 1.18 (85¢) | $26,000 | +$4,588 | ✅ Ganada |
 | liquiditycrisis | Seahawks vs. Commanders: O/U 40.5 | Under 40.5 | 1.92 (52¢) | $35,376 | — | ⏳ Pendiente |
 | Diabolical-Prize | Bengals vs. Steelers | Steelers | 2.56 (39¢) | $25,256 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
