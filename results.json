@@ -56929,5 +56929,20 @@
     "status": "pending",
     "ultimo_fill": 1790519451,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7704,
+    "timestamp": 1790519879,
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+    "slug": "nfl-ten-nyg-2026-09-27",
+    "title": "Titans vs. Giants",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 28000.000000000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1790519879,
+    "fills": 1
   }
 ]
