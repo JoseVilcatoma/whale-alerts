@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 15:32:24 (hora de Perú)
+Actualizado: 2026-09-27 15:34:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3844**  ($210,680,410 en total)
-- Resueltas: **3726** — 2271 ganadas / 1455 perdidas (**61%** de acierto)
+- Apuestas registradas: **3845**  ($210,710,255 en total)
+- Resueltas: **3727** — 2272 ganadas / 1455 perdidas (**61%** de acierto)
 - Pendientes: 100
 - Apostadores distintos: 475
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,471,960** sobre $202,908,661 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,614** sobre $367,200 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,453,242** sobre $202,936,738 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,547** sobre $367,300 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 13 | 66% | $27,097,471 | +$805,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 267 | 138 | 12 | 66% | $27,097,471 | +$824,315 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 59 | 41 | 6 | 59% | $5,903,043 | -$370,618 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Vikings vs. Buccaneers | Vikings | 1.89 (53¢) | $29,845 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Vikings vs. Buccaneers | Buccaneers | 2.22 (45¢) | $26,690 | — | ⏳ Pendiente |
 | LTandBB | Raiders vs. Saints | Saints | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Commanders | Commanders | 1.23 (81¢) | $79,490 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Titans vs. Giants | Giants | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $51,218 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $46,919 | — | ⏳ Pendiente |
-| SharkbetX-com | Chiefs vs. Dolphins | Dolphins | 6.25 (16¢) | $26,404 | — | ⏳ Pendiente |

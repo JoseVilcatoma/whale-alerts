@@ -56386,7 +56386,7 @@
     "side": "BUY",
     "usd": 28077.138000000003,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790491836,
     "fills": 1
   },
@@ -57783,6 +57783,21 @@
     "odds_at_bet": 45,
     "status": "pending",
     "ultimo_fill": 1790540948,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7771,
+    "timestamp": 1790541199,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "nfl-min-tb-2026-09-27",
+    "title": "Vikings vs. Buccaneers",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 29845.4183,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1790541199,
     "fills": 1
   }
 ]
