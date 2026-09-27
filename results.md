@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 19:35:36 (hora de Perú)
+Actualizado: 2026-09-26 19:37:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3724**  ($202,719,536 en total)
-- Resueltas: **3686** — 2242 ganadas / 1444 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **3687** — 2243 ganadas / 1444 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,592,783** sobre $200,968,650 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$6,943** sobre $363,200 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$2,585,004** sobre $201,031,585 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$6,931** sobre $363,300 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
-| phonesculptor | 14 | 3 | 2 | 82% | $1,213,036 | -$20,602 |
+| phonesculptor | 15 | 3 | 1 | 83% | $1,213,036 | -$12,823 |
 | Kch-Temp | 16 | 6 | 0 | 73% | $1,191,211 | +$588,416 |
 | Elaran1993 | 8 | 6 | 0 | 57% | $1,087,702 | +$329,161 |
 | ndb1 | 13 | 7 | 0 | 65% | $1,042,233 | +$242,076 |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | KaneAnalytics | Iowa vs. Michigan | Michigan | 1.45 (69¢) | $30,794 | -$30,794 | ❌ Perdida |
 | SDTrading | Spread: Nebraska (-6.5) | Michigan State | 1.96 (51¢) | $33,563 | — | ⏳ Pendiente |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.28 (78¢) | $36,763 | +$10,369 | ✅ Ganada |
-| phonesculptor | South Florida vs. Bowling Green | South Florida | 1.12 (89¢) | $62,935 | — | ⏳ Pendiente |
+| phonesculptor | South Florida vs. Bowling Green | South Florida | 1.12 (89¢) | $62,935 | +$7,778 | ✅ Ganada |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.43 (70¢) | $72,033 | +$30,871 | ✅ Ganada |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.56 (64¢) | $29,292 | +$16,477 | ✅ Ganada |
 | SharkbetX-com | Will England win on 2026-09-26? | Yes | 1.82 (55¢) | $28,909 | -$28,909 | ❌ Perdida |
