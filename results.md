@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 14:52:52 (hora de Perú)
+Actualizado: 2026-09-27 14:54:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3832**  ($209,623,799 en total)
-- Resueltas: **3722** — 2269 ganadas / 1453 perdidas (**61%** de acierto)
-- Pendientes: 92
+- Resueltas: **3724** — 2270 ganadas / 1454 perdidas (**61%** de acierto)
+- Pendientes: 90
 - Apostadores distintos: 474
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,499,259** sobre $202,731,441 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,534** sobre $366,800 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,446,898** sobre $202,847,805 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,526** sobre $367,000 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 1 | 93% | $2,048,429 | +$96,561 |
-| Kch-Temp | 16 | 6 | 11 | 73% | $1,881,865 | +$588,416 |
+| Kch-Temp | 17 | 6 | 10 | 74% | $1,881,865 | +$676,154 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | raybanman | 10 | 3 | 4 | 77% | $1,730,227 | +$298,464 |
@@ -121,7 +121,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | SharkbetX-com | Chiefs vs. Dolphins | Dolphins | 6.25 (16¢) | $26,404 | — | ⏳ Pendiente |
 | gmpm2 | Cardinals vs. 49ers: O/U 48.5 | Over 48.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | kkookkoo | Hangzhou Open: Daniil Medvedev vs Coleman Wong | Daniil Medvedev | 1.18 (85¢) | $26,000 | +$4,588 | ✅ Ganada |
-| liquiditycrisis | Seahawks vs. Commanders: O/U 40.5 | Under 40.5 | 1.92 (52¢) | $35,376 | — | ⏳ Pendiente |
+| liquiditycrisis | Seahawks vs. Commanders: O/U 40.5 | Under 40.5 | 1.92 (52¢) | $35,376 | -$35,376 | ❌ Perdida |
 | Diabolical-Prize | Bengals vs. Steelers | Steelers | 2.56 (39¢) | $25,256 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | Pwaddler | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $59,488 | — | ⏳ Pendiente |
