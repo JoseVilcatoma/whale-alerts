@@ -56404,5 +56404,20 @@
     "status": "pending",
     "ultimo_fill": 1790491931,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7667,
+    "timestamp": 1790494024,
+    "username": "0x361b\u202674fe",
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "slug": "unl-nor-prt-2026-09-27-draw",
+    "title": "Will Norway vs. Portugal end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 32036.559998,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1790494024,
+    "fills": 1
   }
 ]
