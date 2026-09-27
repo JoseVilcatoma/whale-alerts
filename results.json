@@ -57679,5 +57679,20 @@
     "status": "pending",
     "ultimo_fill": 1790539918,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7764,
+    "timestamp": 1790540150,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nfl-bal-dal-2026-09-27",
+    "title": "Ravens vs. Cowboys",
+    "outcome": "Cowboys",
+    "side": "BUY",
+    "usd": 29075.524765000002,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1790540150,
+    "fills": 1
   }
 ]
