@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 10:23:45 (hora de Perú)
+Actualizado: 2026-09-27 10:25:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3801**  ($207,650,740 en total)
+- Apuestas registradas: **3802**  ($207,692,345 en total)
 - Resueltas: **3719** — 2267 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Pendientes: 65
 - Apostadores distintos: 472
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
-| wr0ngw4yb3tt0r | 59 | 41 | 3 | 59% | $5,649,939 | -$370,618 |
+| wr0ngw4yb3tt0r | 59 | 41 | 4 | 59% | $5,691,544 | -$370,618 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Sassy-Bucket | 49 | 47 | 0 | 51% | $4,823,877 | -$902,306 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: 49ers (-7.5) | Cardinals | 2.04 (49¢) | $41,605 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Bills (-7.5) | Chargers | 1.89 (53¢) | $34,920 | — | ⏳ Pendiente |
 | taylorsversion | Spread: Giants (-2.5) | Titans | 2.00 (50¢) | $95,371 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $127,723 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | texaskid | Cardinals vs. 49ers: O/U 48.5 | Over 48.5 | 1.96 (51¢) | $78,573 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: Panthers (-5.5) | Browns | 1.56 (64¢) | $50,913 | — | ⏳ Pendiente |
 | takeormake | Spread: Panthers (-4.5) | Panthers | 2.70 (37¢) | $29,212 | — | ⏳ Pendiente |
-| Elaran1993 | Spread: Panthers (-3.5) | Browns | 1.67 (60¢) | $41,631 | — | ⏳ Pendiente |
