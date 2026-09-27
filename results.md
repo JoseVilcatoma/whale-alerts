@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 01:48:46 (hora de Perú)
+Actualizado: 2026-09-27 01:50:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3749**  ($204,519,482 en total)
-- Resueltas: **3711** — 2262 ganadas / 1449 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Apuestas registradas: **3751**  ($204,814,934 en total)
+- Resueltas: **3716** — 2264 ganadas / 1452 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 470
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,397,434** sobre $202,266,972 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,458** sobre $365,700 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,494,254** sobre $202,529,159 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,550** sobre $366,200 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,22 +24,22 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 4 | 66% | $26,617,336 | +$805,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 5 | 66% | $26,645,413 | +$805,597 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| wr0ngw4yb3tt0r | 59 | 40 | 2 | 60% | $5,476,141 | -$335,599 |
+| wr0ngw4yb3tt0r | 59 | 41 | 1 | 59% | $5,476,141 | -$370,618 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Sassy-Bucket | 49 | 46 | 1 | 52% | $4,823,877 | -$782,353 |
+| Sassy-Bucket | 49 | 47 | 0 | 51% | $4,823,877 | -$902,306 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | BrotherObama | 27 | 25 | 2 | 52% | $2,562,234 | +$320,813 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 38 | 23 | 0 | 62% | $2,433,850 | -$491,966 |
-| ethanaz | 27 | 10 | 2 | 73% | $2,340,392 | -$97,920 |
+| ethanaz | 29 | 10 | 0 | 74% | $2,340,392 | -$12,984 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -48,11 +48,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 26 | 2 | 1 | 93% | $2,048,429 | +$96,561 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
+| raybanman | 10 | 3 | 4 | 77% | $1,730,227 | +$298,464 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | SDTrading | 25 | 27 | 0 | 48% | $1,553,883 | -$170,031 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| raybanman | 10 | 3 | 3 | 77% | $1,462,852 | +$298,464 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Lions (-3.5) | Lions | 1.67 (60¢) | $28,077 | — | ⏳ Pendiente |
+| raybanman | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $267,375 | — | ⏳ Pendiente |
 | raybanman | Spread: Chiefs (-10.5) | Dolphins | 1.85 (54¢) | $175,216 | — | ⏳ Pendiente |
 | raybanman | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $140,597 | — | ⏳ Pendiente |
 | raybanman | Spread: Bills (-7.5) | Bills | 2.00 (50¢) | $314,445 | — | ⏳ Pendiente |
@@ -81,14 +83,14 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | Elaran1993 | Spread: Panthers (-3.5) | Browns | 1.67 (60¢) | $41,631 | — | ⏳ Pendiente |
 | takeormake | Panthers vs. Browns | Panthers | 1.82 (55¢) | $150,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-14.5) | Chargers | 1.39 (72¢) | $57,600 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Minnesota vs. Washington | Washington | 1.92 (52¢) | $35,019 | — | ⏳ Pendiente |
-| ethanaz | Minnesota vs. Washington | Minnesota | 2.08 (48¢) | $54,049 | — | ⏳ Pendiente |
-| ethanaz | Minnesota vs. Washington | Minnesota | 2.00 (50¢) | $26,382 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Minnesota vs. Washington | Washington | 1.92 (52¢) | $35,019 | -$35,019 | ❌ Perdida |
+| ethanaz | Minnesota vs. Washington | Minnesota | 2.08 (48¢) | $54,049 | +$58,553 | ✅ Ganada |
+| ethanaz | Minnesota vs. Washington | Minnesota | 2.00 (50¢) | $26,382 | +$26,382 | ✅ Ganada |
 | gmpm2 | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $27,092 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Vancouver Whitecaps FC vs. D.C. United SC: O/U 2.5 | Over 2.5 | 1.08 (93¢) | $39,541 | +$2,976 | ✅ Ganada |
 | nigiri99 | Spread: Chiefs (-10.5) | Chiefs | 2.08 (48¢) | $50,834 | — | ⏳ Pendiente |
-| 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Minnesota vs. Washington | Washington | 1.25 (80¢) | $26,784 | — | ⏳ Pendiente |
-| Sassy-Bucket | Minnesota vs. Washington | Washington | 1.23 (81¢) | $119,953 | — | ⏳ Pendiente |
+| 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Minnesota vs. Washington | Washington | 1.25 (80¢) | $26,784 | -$26,784 | ❌ Perdida |
+| Sassy-Bucket | Minnesota vs. Washington | Washington | 1.23 (81¢) | $119,953 | -$119,953 | ❌ Perdida |
 | surfandturf | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.69 (59¢) | $88,500 | +$61,500 | ✅ Ganada |
 | cosmicxbt | Oregon vs. USC | Oregon | 1.41 (71¢) | $72,095 | +$29,447 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.72 (58¢) | $27,360 | +$19,812 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | ethanaz | Ole Miss vs. Florida | Florida | 1.43 (70¢) | $72,033 | +$30,871 | ✅ Ganada |
 | ethanaz | Ole Miss vs. Florida | Florida | 1.56 (64¢) | $29,292 | +$16,477 | ✅ Ganada |
 | SharkbetX-com | Will England win on 2026-09-26? | Yes | 1.82 (55¢) | $28,909 | -$28,909 | ❌ Perdida |
-| Sassy-Bucket | Vanderbilt vs. Auburn | Vanderbilt | 4.17 (24¢) | $29,417 | -$29,417 | ❌ Perdida |
-| texaskid | Utah vs. Iowa State: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $47,830 | -$47,830 | ❌ Perdida |

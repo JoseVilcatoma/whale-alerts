@@ -56101,7 +56101,7 @@
     "side": "BUY",
     "usd": 119952.6732,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790477667,
     "fills": 1
   },
@@ -56116,7 +56116,7 @@
     "side": "BUY",
     "usd": 26784.0,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790477955,
     "fills": 1
   },
@@ -56176,7 +56176,7 @@
     "side": "BUY",
     "usd": 26382.5,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790480308,
     "fills": 1
   },
@@ -56191,7 +56191,7 @@
     "side": "BUY",
     "usd": 54049.123199999995,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790480633,
     "fills": 1
   },
@@ -56206,7 +56206,7 @@
     "side": "BUY",
     "usd": 35018.999599999996,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790480648,
     "fills": 1
   },
@@ -56359,5 +56359,35 @@
     "status": "pending",
     "ultimo_fill": 1790491679,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7659,
+    "timestamp": 1790491781,
+    "username": "raybanman",
+    "wallet": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+    "slug": "nfl-nyj-det-2026-09-27-spread-home-6pt5",
+    "title": "Spread: Lions (-6.5)",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 267374.536,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1790491781,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7665,
+    "timestamp": 1790491836,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-nyj-det-2026-09-27-spread-home-3pt5",
+    "title": "Spread: Lions (-3.5)",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 28077.138000000003,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1790491836,
+    "fills": 1
   }
 ]
