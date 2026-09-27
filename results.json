@@ -56869,5 +56869,20 @@
     "status": "pending",
     "ultimo_fill": 1790518930,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7700,
+    "timestamp": 1790519143,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-ari-sf-2026-09-27-total-48pt5",
+    "title": "Cardinals vs. 49ers: O/U 48.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1790519143,
+    "fills": 1
   }
 ]

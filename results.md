@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 09:25:10 (hora de Perú)
+Actualizado: 2026-09-27 09:27:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3783**  ($206,740,718 en total)
+- Apuestas registradas: **3784**  ($206,765,718 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 472
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 18 | 18 | 0 | 50% | $1,220,078 | -$233,799 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | phonesculptor | 16 | 3 | 0 | 84% | $1,213,036 | +$613 |
-| maz26 | 9 | 6 | 4 | 60% | $1,159,412 | -$56,814 |
+| maz26 | 9 | 6 | 5 | 60% | $1,184,412 | -$56,814 |
 
 _(mostrando los 40 de mayor monto, de 472 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Cardinals vs. 49ers: O/U 48.5 | Over 48.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | kkookkoo | Hangzhou Open: Daniil Medvedev vs Coleman Wong | Daniil Medvedev | 1.18 (85¢) | $26,000 | — | ⏳ Pendiente |
 | liquiditycrisis | Seahawks vs. Commanders: O/U 40.5 | Under 40.5 | 1.92 (52¢) | $35,376 | — | ⏳ Pendiente |
 | Diabolical-Prize | Bengals vs. Steelers | Steelers | 2.56 (39¢) | $25,256 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | texaskid | Spread: Fresno State (-12.5) | Fresno State | 1.96 (51¢) | $26,670 | +$25,624 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Norma Dumont vs. Ailin Perez (Women's Bantamweight, Prelims) | Norma Dumont | 2.50 (40¢) | $67,016 | -$67,016 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ilimbek Akylbek Uulu vs. Mehemmedeli Osmanli (Bantamweight, Main Card) | Mehemmedeli Osmanli | 1.35 (74¢) | $32,273 | -$32,273 | ❌ Perdida |
-| 0F62 | Will Greece win on 2026-09-27? | No | 1.12 (89¢) | $33,745 | — | ⏳ Pendiente |
