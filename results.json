@@ -57049,5 +57049,35 @@
     "status": "pending",
     "ultimo_fill": 1790521418,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7713,
+    "timestamp": 1790521624,
+    "username": "bands1",
+    "wallet": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f",
+    "slug": "nfl-ten-nyg-2026-09-27",
+    "title": "Titans vs. Giants",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 33599.9944,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1790521624,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7714,
+    "timestamp": 1790521707,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "nfl-ari-sf-2026-09-27-spread-home-7pt5",
+    "title": "Spread: 49ers (-7.5)",
+    "outcome": "Cardinals",
+    "side": "BUY",
+    "usd": 39400.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1790521707,
+    "fills": 1
   }
 ]

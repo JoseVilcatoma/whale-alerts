@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 10:06:51 (hora de Perú)
+Actualizado: 2026-09-27 10:08:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3795**  ($207,287,030 en total)
+- Apuestas registradas: **3797**  ($207,360,030 en total)
 - Resueltas: **3718** — 2266 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Pendientes: 61
 - Apostadores distintos: 472
 
 ### Balance
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 25 | 27 | 2 | 48% | $1,615,472 | -$170,031 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| Jsram | 14 | 17 | 1 | 45% | $1,422,570 | -$442,701 |
+| Jsram | 14 | 17 | 2 | 45% | $1,461,970 | -$442,701 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $39,400 | — | ⏳ Pendiente |
+| bands1 | Titans vs. Giants | Giants | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: Bills (-6.5) | Bills | 1.79 (56¢) | $34,822 | — | ⏳ Pendiente |
 | Donkey14 | Patriots vs. Jaguars | Patriots | 2.44 (41¢) | $35,984 | — | ⏳ Pendiente |
 | texaskid | Chargers vs. Bills: O/U 50.5 | Over 50.5 | 2.08 (48¢) | $26,930 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-14.5) | Chargers | 1.39 (72¢) | $57,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Minnesota vs. Washington | Washington | 1.92 (52¢) | $35,019 | -$35,019 | ❌ Perdida |
 | ethanaz | Minnesota vs. Washington | Minnesota | 2.08 (48¢) | $54,049 | +$58,553 | ✅ Ganada |
-| ethanaz | Minnesota vs. Washington | Minnesota | 2.00 (50¢) | $26,382 | +$26,382 | ✅ Ganada |
-| gmpm2 | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $27,092 | — | ⏳ Pendiente |
