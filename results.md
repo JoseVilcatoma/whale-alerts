@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 22:23:05 (hora de Perú)
+Actualizado: 2026-09-26 22:25:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3735**  ($203,304,755 en total)
-- Resueltas: **3698** — 2250 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **3699** — 2251 ganadas / 1448 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,671,485** sobre $201,610,741 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$6,937** sobre $364,400 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$2,669,555** sobre $201,640,979 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$6,931** sobre $364,500 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 2 | 92% | $1,567,506 | +$69,674 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 24 | 2 | 1 | 92% | $1,567,506 | +$71,604 |
 | SDTrading | 25 | 27 | 0 | 48% | $1,553,883 | -$170,031 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $51,473 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $31,908 | — | ⏳ Pendiente |
 | phonesculptor | Kennesaw State vs. Arkansas State | Arkansas State | 1.43 (70¢) | $31,351 | +$13,436 | ✅ Ganada |
-| Roadto1mlesgooo | Canada vs. Chile: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $30,238 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Canada vs. Chile: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $30,238 | +$1,930 | ✅ Ganada |
 | Sassy-Bucket | Louisiana vs. Charlotte | Louisiana | 1.27 (79¢) | $84,731 | +$22,523 | ✅ Ganada |
 | ic4cream | Missouri vs. Mississippi State | Mississippi State | 1.61 (62¢) | $33,852 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.79 (56¢) | $40,204 | -$40,204 | ❌ Perdida |
