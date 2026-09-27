@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 17:16:25 (hora de Perú)
+Actualizado: 2026-09-27 17:18:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3859**  ($211,211,813 en total)
-- Resueltas: **3786** — 2309 ganadas / 1477 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Resueltas: **3787** — 2310 ganadas / 1477 perdidas (**61%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 476
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,283,902** sobre $207,670,309 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,019** sobre $373,200 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$1,250,390** sobre $207,709,650 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$5,934** sobre $373,300 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 16 | 14 | 1 | 53% | $1,311,556 | -$101,179 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | texaskid | 11 | 9 | 4 | 55% | $1,296,457 | +$26,235 |
-| xifutloong3 | 18 | 18 | 1 | 50% | $1,259,419 | -$233,799 |
+| xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 476 en total)_
 | Sassy-Bucket | Raiders vs. Saints | Raiders | 2.70 (37¢) | $72,634 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seahawks vs. Commanders | Seahawks | 1.49 (67¢) | $31,843 | -$31,843 | ❌ Perdida |
 | BrotherObama | Spread: Saints (-3.5) | Raiders | 1.92 (52¢) | $53,511 | — | ⏳ Pendiente |
-| xifutloong3 | Atlanta Braves vs. Miami Marlins | Miami Marlins | 1.85 (54¢) | $39,341 | — | ⏳ Pendiente |
+| xifutloong3 | Atlanta Braves vs. Miami Marlins | Miami Marlins | 1.85 (54¢) | $39,341 | +$33,513 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.61 (62¢) | $37,152 | — | ⏳ Pendiente |
 | BrotherObama | Houston Astros vs. Athletics | Athletics | 2.78 (36¢) | $25,000 | — | ⏳ Pendiente |
 | omnibus-076daa | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Cloud9 | 2.78 (36¢) | $25,940 | — | ⏳ Pendiente |
