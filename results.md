@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 15:42:47 (hora de Perú)
+Actualizado: 2026-09-27 15:44:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3846**  ($210,742,268 en total)
-- Resueltas: **3741** — 2284 ganadas / 1457 perdidas (**61%** de acierto)
-- Pendientes: 87
+- Resueltas: **3750** — 2290 ganadas / 1460 perdidas (**61%** de acierto)
+- Pendientes: 78
 - Apostadores distintos: 475
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,212,279** sobre $204,051,618 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$6,283** sobre $368,700 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,809,062** sobre $204,899,945 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,054** sobre $369,600 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,13 +27,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 272 | 138 | 7 | 66% | $27,097,471 | +$936,790 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| wr0ngw4yb3tt0r | 59 | 41 | 6 | 59% | $5,903,043 | -$370,618 |
+| wr0ngw4yb3tt0r | 61 | 41 | 4 | 60% | $5,903,043 | -$188,889 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Sassy-Bucket | 49 | 47 | 4 | 51% | $5,270,406 | -$902,306 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Diabolical-Prize | 44 | 40 | 2 | 52% | $4,407,111 | -$219,220 |
+| Diabolical-Prize | 45 | 40 | 1 | 53% | $4,407,111 | -$73,995 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | BrotherObama | 27 | 25 | 4 | 52% | $2,640,745 | +$320,813 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 1 | 93% | $2,048,429 | +$96,561 |
-| Kch-Temp | 17 | 6 | 10 | 74% | $1,881,865 | +$676,154 |
+| Kch-Temp | 18 | 6 | 9 | 75% | $1,881,865 | +$723,072 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | raybanman | 10 | 3 | 4 | 77% | $1,730,227 | +$298,464 |
@@ -104,26 +104,26 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 | Kch-Temp | Spread: Seahawks (-8.5) | Commanders | 1.92 (52¢) | $83,688 | — | ⏳ Pendiente |
 | HectorHuang | Spread: Netherlands (-1.5) | Netherlands | 2.13 (47¢) | $29,000 | -$29,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $31,786 | +$24,974 | ✅ Ganada |
-| taylorsversion | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $108,958 | — | ⏳ Pendiente |
-| ratatatatatatatataaaa | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $192,000 | — | ⏳ Pendiente |
-| WanderingWombat | Patriots vs. Jaguars | Patriots | 2.50 (40¢) | $39,938 | — | ⏳ Pendiente |
+| taylorsversion | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $108,958 | +$72,638 | ✅ Ganada |
+| ratatatatatatatataaaa | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $192,000 | +$128,000 | ✅ Ganada |
+| WanderingWombat | Patriots vs. Jaguars | Patriots | 2.50 (40¢) | $39,938 | -$39,938 | ❌ Perdida |
 | COMEONDUDE | Spread: Bills (-7.5) | Bills | 2.13 (47¢) | $32,251 | — | ⏳ Pendiente |
 | texaskid | Spread: 49ers (-7.5) | 49ers | 1.96 (51¢) | $124,206 | — | ⏳ Pendiente |
-| Diabolical-Prize | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $145,224 | — | ⏳ Pendiente |
+| Diabolical-Prize | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $145,224 | +$145,224 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $67,996 | +$53,425 | ✅ Ganada |
 | ferrariChampions2026 | Titans vs. Giants | Titans | 2.27 (44¢) | $25,359 | -$25,359 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 1.96 (51¢) | $56,211 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 1.96 (51¢) | $56,211 | +$54,006 | ✅ Ganada |
 | Jsram | Spread: Bills (-6.5) | Bills | 1.79 (56¢) | $41,908 | — | ⏳ Pendiente |
 | ColdBlooded | LoL: Colossal Gaming vs The Ruddy Sack (BO1) - EMEA Masters Swiss Stage | The Ruddy Sack | 1.14 (88¢) | $38,779 | +$5,288 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: 49ers (-7.5) | Cardinals | 2.04 (49¢) | $41,605 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Bills (-7.5) | Chargers | 1.89 (53¢) | $34,920 | — | ⏳ Pendiente |
-| taylorsversion | Spread: Giants (-2.5) | Titans | 2.00 (50¢) | $95,371 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $127,723 | — | ⏳ Pendiente |
+| taylorsversion | Spread: Giants (-2.5) | Titans | 2.00 (50¢) | $95,371 | -$95,371 | ❌ Perdida |
+| wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $127,723 | +$127,723 | ✅ Ganada |
 | gmpm2 | Bengals vs. Steelers | Bengals | 1.64 (61¢) | $32,696 | — | ⏳ Pendiente |
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $39,400 | — | ⏳ Pendiente |
 | bands1 | Titans vs. Giants | Giants | 1.79 (56¢) | $33,600 | +$26,400 | ✅ Ganada |
 | liquiditycrisis | Spread: Bills (-6.5) | Bills | 1.79 (56¢) | $34,822 | — | ⏳ Pendiente |
-| Donkey14 | Patriots vs. Jaguars | Patriots | 2.44 (41¢) | $35,984 | — | ⏳ Pendiente |
+| Donkey14 | Patriots vs. Jaguars | Patriots | 2.44 (41¢) | $35,984 | -$35,984 | ❌ Perdida |
 | texaskid | Chargers vs. Bills: O/U 50.5 | Over 50.5 | 2.08 (48¢) | $26,930 | — | ⏳ Pendiente |
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $85,529 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Bengals vs. Steelers: O/U 42.5 | Over 42.5 | 2.00 (50¢) | $46,075 | — | ⏳ Pendiente |
