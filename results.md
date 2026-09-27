@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 15:11:40 (hora de Perú)
+Actualizado: 2026-09-27 15:13:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3836**  ($210,085,144 en total)
+- Apuestas registradas: **3837**  ($210,145,594 en total)
 - Resueltas: **3726** — 2271 ganadas / 1455 perdidas (**61%** de acierto)
-- Pendientes: 92
+- Pendientes: 93
 - Apostadores distintos: 474
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 177-letsgo | Seahawks vs. Commanders | Commanders | 1.08 (93¢) | $60,450 | — | ⏳ Pendiente |
 | Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $68,422 | — | ⏳ Pendiente |
 | Donkey14 | Raiders vs. Saints | Saints | 1.59 (63¢) | $85,135 | — | ⏳ Pendiente |
 | cosmicxbt | Panthers vs. Browns | Panthers | 1.19 (84¢) | $68,434 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | Pwaddler | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $59,488 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $102,480 | — | ⏳ Pendiente |
-| liquiditycrisis | Texans vs. Colts: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $32,413 | — | ⏳ Pendiente |
