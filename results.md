@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 22:35:24 (hora de Perú)
+Actualizado: 2026-09-26 22:37:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3736**  ($203,331,846 en total)
-- Resueltas: **3704** — 2256 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **3706** — 2258 ganadas / 1448 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,501,270** sobre $201,894,856 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,625** sobre $365,000 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,420,498** sobre $202,098,926 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,545** sobre $365,200 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 1 | 60% | $5,441,122 | -$335,599 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Sassy-Bucket | 47 | 46 | 3 | 51% | $4,823,877 | -$841,183 |
+| Sassy-Bucket | 48 | 46 | 2 | 51% | $4,823,877 | -$789,859 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Minnesota vs. Washington | Washington | 1.25 (80¢) | $26,784 | — | ⏳ Pendiente |
 | Sassy-Bucket | Minnesota vs. Washington | Washington | 1.23 (81¢) | $119,953 | — | ⏳ Pendiente |
 | surfandturf | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.69 (59¢) | $88,500 | +$61,500 | ✅ Ganada |
-| cosmicxbt | Oregon vs. USC | Oregon | 1.41 (71¢) | $72,095 | — | ⏳ Pendiente |
+| cosmicxbt | Oregon vs. USC | Oregon | 1.41 (71¢) | $72,095 | +$29,447 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.72 (58¢) | $27,360 | +$19,812 | ✅ Ganada |
 | Sassy-Bucket | Rice vs. Fresno State | Fresno State | 1.22 (82¢) | $34,194 | — | ⏳ Pendiente |
 | texaskid | Spread: Fresno State (-12.5) | Fresno State | 1.96 (51¢) | $26,670 | — | ⏳ Pendiente |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | KaneAnalytics | Texas A&M vs. LSU | LSU | 1.43 (70¢) | $49,947 | +$21,406 | ✅ Ganada |
 | ethanaz | Texas A&M vs. LSU: O/U 52.5 | Under 52.5 | 2.00 (50¢) | $32,997 | +$32,997 | ✅ Ganada |
 | Talvez10 | Houston Astros vs. Athletics | Athletics | 2.50 (40¢) | $33,789 | — | ⏳ Pendiente |
-| Sassy-Bucket | Tulsa vs. Arkansas | Arkansas | 1.39 (72¢) | $131,976 | — | ⏳ Pendiente |
+| Sassy-Bucket | Tulsa vs. Arkansas | Arkansas | 1.39 (72¢) | $131,976 | +$51,324 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Brady Hiestand vs. Rinya Nakamura (Bantamweight, Main Card) | Rinya Nakamura | 1.30 (77¢) | $93,810 | -$93,810 | ❌ Perdida |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $51,473 | +$16,254 | ✅ Ganada |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $31,908 | +$10,076 | ✅ Ganada |
