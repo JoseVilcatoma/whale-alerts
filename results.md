@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 17:04:06 (hora de Perú)
+Actualizado: 2026-09-27 17:06:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3858**  ($211,167,817 en total)
-- Resueltas: **3778** — 2304 ganadas / 1474 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Resueltas: **3786** — 2309 ganadas / 1477 perdidas (**61%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 476
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,522,716** sobre $206,794,059 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,171** sobre $372,400 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,283,902** sobre $207,670,309 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,019** sobre $373,200 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Sassy-Bucket | 49 | 47 | 4 | 51% | $5,270,406 | -$902,306 |
+| Sassy-Bucket | 50 | 47 | 3 | 52% | $5,270,406 | -$858,226 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -46,10 +46,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 1 | 93% | $2,048,429 | +$96,561 |
-| Kch-Temp | 21 | 6 | 6 | 78% | $1,881,865 | +$1,030,130 |
+| Kch-Temp | 21 | 7 | 5 | 75% | $1,881,865 | +$938,987 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| raybanman | 11 | 3 | 3 | 79% | $1,730,227 | +$612,909 |
+| raybanman | 13 | 4 | 0 | 76% | $1,730,227 | +$814,282 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 26 | 28 | 1 | 48% | $1,644,472 | -$175,878 |
 | Jsram | 14 | 17 | 4 | 45% | $1,598,878 | -$442,701 |
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 476 en total)_
 | FORTNITEMASTER888 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.61 (62¢) | $37,152 | — | ⏳ Pendiente |
 | BrotherObama | Houston Astros vs. Athletics | Athletics | 2.78 (36¢) | $25,000 | — | ⏳ Pendiente |
 | omnibus-076daa | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Cloud9 | 2.78 (36¢) | $25,940 | — | ⏳ Pendiente |
-| Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Chicago White Sox | 1.67 (60¢) | $66,119 | — | ⏳ Pendiente |
+| Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Chicago White Sox | 1.67 (60¢) | $66,119 | +$44,079 | ✅ Ganada |
 | cosmicxbt | Chiefs vs. Dolphins | Chiefs | 1.20 (83¢) | $132,027 | +$27,042 | ✅ Ganada |
 | gmpm2 | Seahawks vs. Commanders | Seahawks | 2.00 (50¢) | $31,500 | -$31,500 | ❌ Perdida |
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $95,000 | — | ⏳ Pendiente |
