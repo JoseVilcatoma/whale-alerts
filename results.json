@@ -56104,5 +56104,20 @@
     "status": "pending",
     "ultimo_fill": 1790477667,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7626,
+    "timestamp": 1790477955,
+    "username": "0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092",
+    "wallet": "0xe987c520c086cf3930b0d163067b5470ba0ff0e1",
+    "slug": "cfb-minnst-wash-2026-09-26",
+    "title": "Minnesota vs. Washington",
+    "outcome": "Washington",
+    "side": "BUY",
+    "usd": 26784.0,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1790477955,
+    "fills": 1
   }
 ]

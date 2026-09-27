@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 21:59:12 (hora de Perú)
+Actualizado: 2026-09-26 22:01:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3732**  ($203,187,596 en total)
+- Apuestas registradas: **3733**  ($203,214,380 en total)
 - Resueltas: **3696** — 2248 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 469
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Minnesota vs. Washington | Washington | 1.25 (80¢) | $26,784 | — | ⏳ Pendiente |
 | Sassy-Bucket | Minnesota vs. Washington | Washington | 1.23 (81¢) | $119,953 | — | ⏳ Pendiente |
 | surfandturf | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.69 (59¢) | $88,500 | — | ⏳ Pendiente |
 | cosmicxbt | Oregon vs. USC | Oregon | 1.41 (71¢) | $72,095 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | BrotherObama | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | magic | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northern Illinois vs. Georgia State | Georgia State | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
 | bredxiao | Will Spain win on 2026-09-26? | Yes | 2.08 (48¢) | $25,237 | +$27,340 | ✅ Ganada |
-| primm | TCU vs. UCF | TCU | 1.67 (60¢) | $42,601 | -$42,601 | ❌ Perdida |
