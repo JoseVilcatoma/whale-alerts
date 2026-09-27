@@ -57694,5 +57694,35 @@
     "status": "pending",
     "ultimo_fill": 1790540150,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7765,
+    "timestamp": 1790540217,
+    "username": "gvrgb326552g65",
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "slug": "nfl-bal-dal-2026-09-27",
+    "title": "Ravens vs. Cowboys",
+    "outcome": "Ravens",
+    "side": "BUY",
+    "usd": 37800.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1790540217,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7766,
+    "timestamp": 1790540220,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-bal-dal-2026-09-27-spread-home-3pt5",
+    "title": "Spread: Cowboys (-3.5)",
+    "outcome": "Ravens",
+    "side": "BUY",
+    "usd": 67968.20079999999,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1790540220,
+    "fills": 1
   }
 ]
