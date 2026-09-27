@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 22:37:32 (hora de Perú)
+Actualizado: 2026-09-26 22:39:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3736**  ($203,331,846 en total)
+- Apuestas registradas: **3737**  ($203,358,229 en total)
 - Resueltas: **3706** — 2258 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 469
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 38 | 23 | 0 | 62% | $2,433,850 | -$491,966 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| ethanaz | 27 | 10 | 0 | 73% | $2,259,961 | -$97,920 |
+| ethanaz | 27 | 10 | 1 | 73% | $2,286,343 | -$97,920 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Minnesota vs. Washington | Minnesota | 2.00 (50¢) | $26,382 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $27,092 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Vancouver Whitecaps FC vs. D.C. United SC: O/U 2.5 | Over 2.5 | 1.08 (93¢) | $39,541 | — | ⏳ Pendiente |
 | nigiri99 | Spread: Chiefs (-10.5) | Chiefs | 2.08 (48¢) | $50,834 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | tes21sa | Will England vs. Spain end in a draw? | Yes | 3.45 (29¢) | $29,992 | -$29,992 | ❌ Perdida |
 | surfandturf | Will Spain win on 2026-09-26? | Yes | 2.22 (45¢) | $45,000 | +$55,000 | ✅ Ganada |
 | ripley86alien | Will Spain win on 2026-09-26? | No | 1.89 (53¢) | $113,674 | -$113,674 | ❌ Perdida |
-| surfandturf | Will Spain win on 2026-09-26? | Yes | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
