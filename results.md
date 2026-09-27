@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 09:18:58 (hora de Perú)
+Actualizado: 2026-09-27 09:21:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3779**  ($206,628,887 en total)
+- Apuestas registradas: **3780**  ($206,654,087 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 472
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 6 | 66% | $26,747,893 | +$805,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 7 | 66% | $26,773,093 | +$805,597 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | Pwaddler | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $59,488 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $102,480 | — | ⏳ Pendiente |
 | liquiditycrisis | Texans vs. Colts: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $32,413 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | wr0ngw4yb3tt0r | Spread: 49ers (-7.5) | 49ers | 2.00 (50¢) | $44,983 | — | ⏳ Pendiente |
 | texaskid | Spread: 49ers (-8.5) | Cardinals | 1.89 (53¢) | $51,260 | — | ⏳ Pendiente |
 | Talvez10 | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $28,206 | +$25,013 | ✅ Ganada |
-| KaneAnalytics | Texas A&M vs. LSU | LSU | 1.43 (70¢) | $49,947 | +$21,406 | ✅ Ganada |
