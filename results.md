@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 22:51:40 (hora de Perú)
+Actualizado: 2026-09-26 22:53:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3739**  ($203,447,297 en total)
+- Apuestas registradas: **3740**  ($203,504,897 en total)
 - Resueltas: **3707** — 2259 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 469
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 3 | 66% | $26,559,736 | +$805,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 4 | 66% | $26,617,336 | +$805,597 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-14.5) | Chargers | 1.39 (72¢) | $57,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Minnesota vs. Washington | Washington | 1.92 (52¢) | $35,019 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Washington | Minnesota | 2.08 (48¢) | $54,049 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Washington | Minnesota | 2.00 (50¢) | $26,382 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | Ole Miss vs. Florida | Ole Miss | 2.63 (38¢) | $67,450 | -$67,450 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Tennessee | Texas | 1.09 (92¢) | $31,585 | +$2,746 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England vs. Spain end in a draw? | No | 1.41 (71¢) | $60,787 | +$24,829 | ✅ Ganada |
-| tes21sa | Will England vs. Spain end in a draw? | Yes | 3.45 (29¢) | $29,992 | -$29,992 | ❌ Perdida |
