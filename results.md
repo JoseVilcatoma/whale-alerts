@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 09:21:02 (hora de Perú)
+Actualizado: 2026-09-27 09:23:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3780**  ($206,654,087 en total)
+- Apuestas registradas: **3783**  ($206,740,718 en total)
 - Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 48
 - Apostadores distintos: 472
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 59 | 41 | 1 | 59% | $5,476,141 | -$370,618 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Sassy-Bucket | 49 | 47 | 0 | 51% | $4,823,877 | -$902,306 |
-| Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
+| Diabolical-Prize | 44 | 40 | 1 | 52% | $4,261,887 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 21 | 2 | 3 | 91% | $2,605,702 | +$500,939 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Hangzhou Open: Daniil Medvedev vs Coleman Wong | Daniil Medvedev | 1.18 (85¢) | $26,000 | — | ⏳ Pendiente |
+| liquiditycrisis | Seahawks vs. Commanders: O/U 40.5 | Under 40.5 | 1.92 (52¢) | $35,376 | — | ⏳ Pendiente |
+| Diabolical-Prize | Bengals vs. Steelers | Steelers | 2.56 (39¢) | $25,256 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | Pwaddler | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $59,488 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Dolphins | Chiefs | 1.19 (84¢) | $102,480 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | Sassy-Bucket | UFC Fight Night: Norma Dumont vs. Ailin Perez (Women's Bantamweight, Prelims) | Norma Dumont | 2.50 (40¢) | $67,016 | -$67,016 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ilimbek Akylbek Uulu vs. Mehemmedeli Osmanli (Bantamweight, Main Card) | Mehemmedeli Osmanli | 1.35 (74¢) | $32,273 | -$32,273 | ❌ Perdida |
 | 0F62 | Will Greece win on 2026-09-27? | No | 1.12 (89¢) | $33,745 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: 49ers (-7.5) | 49ers | 2.00 (50¢) | $44,983 | — | ⏳ Pendiente |
-| texaskid | Spread: 49ers (-8.5) | Cardinals | 1.89 (53¢) | $51,260 | — | ⏳ Pendiente |
-| Talvez10 | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $28,206 | +$25,013 | ✅ Ganada |

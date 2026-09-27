@@ -56824,5 +56824,50 @@
     "status": "pending",
     "ultimo_fill": 1790518773,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7697,
+    "timestamp": 1790518868,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "nfl-cin-pit-2026-09-27",
+    "title": "Bengals vs. Steelers",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 25255.5537,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1790518868,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7698,
+    "timestamp": 1790518915,
+    "username": "liquiditycrisis",
+    "wallet": "0xa90429bc88a1d22eb40e4aac9aaf0bcefd29d20c",
+    "slug": "nfl-sea-was-2026-09-27-total-40pt5",
+    "title": "Seahawks vs. Commanders: O/U 40.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 35376.005600000004,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1790518915,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7699,
+    "timestamp": 1790518930,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "atp-medvede-wong-2026-09-27",
+    "title": "Hangzhou Open: Daniil Medvedev vs Coleman Wong",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "usd": 26000.0,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1790518930,
+    "fills": 1
   }
 ]
