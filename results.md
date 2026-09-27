@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 17:41:22 (hora de Perú)
+Actualizado: 2026-09-27 17:43:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3865**  ($211,474,132 en total)
-- Resueltas: **3790** — 2313 ganadas / 1477 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Resueltas: **3792** — 2314 ganadas / 1478 perdidas (**61%** de acierto)
+- Pendientes: 55
 - Apostadores distintos: 477
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,135,095** sobre $207,850,953 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,692** sobre $373,600 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$1,116,599** sobre $207,929,108 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,703** sobre $373,800 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 1 | 93% | $2,048,429 | +$96,561 |
-| Kch-Temp | 22 | 7 | 4 | 76% | $1,881,865 | +$993,993 |
+| Kch-Temp | 23 | 7 | 3 | 77% | $1,881,865 | +$1,039,419 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | raybanman | 13 | 4 | 0 | 76% | $1,730,227 | +$814,282 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
 | Lakersfan111 | 16 | 14 | 1 | 53% | $1,311,556 | -$101,179 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
-| texaskid | 11 | 9 | 4 | 55% | $1,296,457 | +$26,235 |
+| texaskid | 11 | 10 | 3 | 52% | $1,296,457 | -$695 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
