@@ -57019,5 +57019,35 @@
     "status": "pending",
     "ultimo_fill": 1790521129,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7711,
+    "timestamp": 1790521374,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nfl-ne-jax-2026-09-27",
+    "title": "Patriots vs. Jaguars",
+    "outcome": "Patriots",
+    "side": "BUY",
+    "usd": 35983.5434,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1790521374,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7712,
+    "timestamp": 1790521418,
+    "username": "liquiditycrisis",
+    "wallet": "0xa90429bc88a1d22eb40e4aac9aaf0bcefd29d20c",
+    "slug": "nfl-lac-buf-2026-09-27-spread-home-6pt5",
+    "title": "Spread: Bills (-6.5)",
+    "outcome": "Bills",
+    "side": "BUY",
+    "usd": 34822.4072,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1790521418,
+    "fills": 1
   }
 ]
