@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 23:51:00 (hora de Perú)
+Actualizado: 2026-09-26 23:53:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3744**  ($203,776,652 en total)
-- Resueltas: **3707** — 2259 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **3708** — 2259 ganadas / 1449 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,399,750** sobre $202,132,778 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,484** sobre $365,300 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,433,540** sobre $202,166,567 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,584** sobre $365,400 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 25 | 27 | 0 | 48% | $1,553,883 | -$170,031 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Talvez10 | 15 | 13 | 1 | 54% | $1,373,240 | +$208,630 |
+| Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
 | Jsram | 14 | 17 | 0 | 45% | $1,337,042 | -$442,701 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | Lakersfan111 | 16 | 14 | 0 | 53% | $1,274,405 | -$101,179 |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Talvez10 | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $28,206 | +$25,013 | ✅ Ganada |
 | KaneAnalytics | Texas A&M vs. LSU | LSU | 1.43 (70¢) | $49,947 | +$21,406 | ✅ Ganada |
 | ethanaz | Texas A&M vs. LSU: O/U 52.5 | Under 52.5 | 2.00 (50¢) | $32,997 | +$32,997 | ✅ Ganada |
-| Talvez10 | Houston Astros vs. Athletics | Athletics | 2.50 (40¢) | $33,789 | — | ⏳ Pendiente |
+| Talvez10 | Houston Astros vs. Athletics | Athletics | 2.50 (40¢) | $33,789 | -$33,789 | ❌ Perdida |
 | Sassy-Bucket | Tulsa vs. Arkansas | Arkansas | 1.39 (72¢) | $131,976 | +$51,324 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Brady Hiestand vs. Rinya Nakamura (Bantamweight, Main Card) | Rinya Nakamura | 1.30 (77¢) | $93,810 | -$93,810 | ❌ Perdida |
 | Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $51,473 | +$16,254 | ✅ Ganada |
