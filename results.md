@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 18:17:00 (hora de Perú)
+Actualizado: 2026-09-27 18:19:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3865**  ($211,474,132 en total)
-- Resueltas: **3800** — 2319 ganadas / 1481 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Resueltas: **3801** — 2319 ganadas / 1482 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 477
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,079,337** sobre $208,212,741 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,632** sobre $374,600 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$1,108,337** sobre $208,241,741 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,732** sobre $374,700 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | raybanman | 13 | 4 | 0 | 76% | $1,730,227 | +$814,282 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| SDTrading | 26 | 28 | 1 | 48% | $1,644,472 | -$175,878 |
+| SDTrading | 26 | 29 | 0 | 47% | $1,644,472 | -$204,878 |
 | Jsram | 15 | 17 | 3 | 47% | $1,598,878 | -$409,774 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | maz26 | 10 | 10 | 3 | 50% | $1,509,900 | -$183,365 |
@@ -119,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 | taylorsversion | Spread: Seahawks (-7.5) | Seahawks | 1.92 (52¢) | $28,080 | -$28,080 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-7.5) | Commanders | 2.08 (48¢) | $25,920 | +$28,080 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Panthers vs. Browns | Browns | 2.17 (46¢) | $155,289 | +$182,295 | ✅ Ganada |
-| SDTrading | Arizona Diamondbacks vs. San Diego Padres | Arizona Diamondbacks | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
+| SDTrading | Arizona Diamondbacks vs. San Diego Padres | Arizona Diamondbacks | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | Kch-Temp | Spread: Seahawks (-8.5) | Commanders | 1.92 (52¢) | $83,688 | +$77,250 | ✅ Ganada |
 | HectorHuang | Spread: Netherlands (-1.5) | Netherlands | 2.13 (47¢) | $29,000 | -$29,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $31,786 | +$24,974 | ✅ Ganada |
