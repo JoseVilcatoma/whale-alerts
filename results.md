@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 22:14:52 (hora de Perú)
+Actualizado: 2026-09-26 22:16:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3734**  ($203,265,214 en total)
+- Apuestas registradas: **3735**  ($203,304,755 en total)
 - Resueltas: **3696** — 2248 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 469
 
 ### Balance
@@ -49,8 +49,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 2 | 92% | $1,567,506 | +$69,674 |
 | SDTrading | 25 | 27 | 0 | 48% | $1,553,883 | -$170,031 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 23 | 2 | 1 | 92% | $1,527,965 | +$69,674 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 13 | 1 | 54% | $1,373,240 | +$208,630 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Roadto1mlesgooo | Vancouver Whitecaps FC vs. D.C. United SC: O/U 2.5 | Over 2.5 | 1.08 (93¢) | $39,541 | — | ⏳ Pendiente |
 | nigiri99 | Spread: Chiefs (-10.5) | Chiefs | 2.08 (48¢) | $50,834 | — | ⏳ Pendiente |
 | 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Minnesota vs. Washington | Washington | 1.25 (80¢) | $26,784 | — | ⏳ Pendiente |
 | Sassy-Bucket | Minnesota vs. Washington | Washington | 1.23 (81¢) | $119,953 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | ripley86alien | Will Spain win on 2026-09-26? | No | 1.89 (53¢) | $113,674 | -$113,674 | ❌ Perdida |
 | surfandturf | Will Spain win on 2026-09-26? | Yes | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
 | BrotherObama | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | magic | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northern Illinois vs. Georgia State | Georgia State | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
