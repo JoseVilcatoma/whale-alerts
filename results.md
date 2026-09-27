@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 17:37:11 (hora de Perú)
+Actualizado: 2026-09-27 17:39:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3865**  ($211,474,132 en total)
-- Resueltas: **3787** — 2310 ganadas / 1477 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Resueltas: **3790** — 2313 ganadas / 1477 perdidas (**61%** de acierto)
+- Pendientes: 57
 - Apostadores distintos: 477
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,250,390** sobre $207,709,650 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$5,934** sobre $373,300 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$1,135,095** sobre $207,850,953 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,692** sobre $373,600 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,13 +46,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 2 | 1 | 93% | $2,048,429 | +$96,561 |
-| Kch-Temp | 21 | 7 | 5 | 75% | $1,881,865 | +$938,987 |
+| Kch-Temp | 22 | 7 | 4 | 76% | $1,881,865 | +$993,993 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | raybanman | 13 | 4 | 0 | 76% | $1,730,227 | +$814,282 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 26 | 28 | 1 | 48% | $1,644,472 | -$175,878 |
-| Jsram | 14 | 17 | 4 | 45% | $1,598,878 | -$442,701 |
+| Jsram | 15 | 17 | 3 | 47% | $1,598,878 | -$409,774 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | maz26 | 10 | 10 | 3 | 50% | $1,509,900 | -$183,365 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
