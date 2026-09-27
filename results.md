@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 11:07:32 (hora de Perú)
+Actualizado: 2026-09-27 11:09:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3818**  ($208,893,937 en total)
+- Apuestas registradas: **3820**  ($208,947,937 en total)
 - Resueltas: **3719** — 2267 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 81
+- Pendientes: 83
 - Apostadores distintos: 474
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 10 | 66% | $26,924,093 | +$805,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 11 | 66% | $26,950,013 | +$805,597 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 59 | 41 | 6 | 59% | $5,903,043 | -$370,618 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| taylorsversion | Spread: Seahawks (-7.5) | Seahawks | 1.92 (52¢) | $28,080 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-7.5) | Commanders | 2.08 (48¢) | $25,920 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Panthers vs. Browns | Browns | 2.17 (46¢) | $155,289 | — | ⏳ Pendiente |
 | SDTrading | Arizona Diamondbacks vs. San Diego Padres | Arizona Diamondbacks | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Seahawks (-8.5) | Commanders | 1.92 (52¢) | $83,688 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | Kch-Temp | Bengals vs. Steelers | Steelers | 2.56 (39¢) | $99,491 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Bengals (-3.5) | Steelers | 1.85 (54¢) | $64,573 | — | ⏳ Pendiente |
 | surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $239,620 | — | ⏳ Pendiente |
-| Kch-Temp | Panthers vs. Browns: O/U 42.5 | Under 42.5 | 1.89 (53¢) | $30,244 | — | ⏳ Pendiente |
-| 0x361b…74fe | Will Norway win on 2026-09-27? | Yes | 2.38 (42¢) | $37,573 | — | ⏳ Pendiente |
