@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 09:41:48 (hora de Perú)
+Actualizado: 2026-09-27 09:43:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3789**  ($206,960,188 en total)
-- Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Resueltas: **3718** — 2266 ganadas / 1452 perdidas (**61%** de acierto)
+- Pendientes: 53
 - Apostadores distintos: 472
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,478,254** sobre $202,563,159 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,503** sobre $366,300 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,471,920** sobre $202,590,159 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,479** sobre $366,400 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 472 en total)_
 | Kch-Temp | Spread: 49ers (-7.5) | 49ers | 2.00 (50¢) | $29,807 | — | ⏳ Pendiente |
 | gmpm2 | Spread: 49ers (-7.5) | Cardinals | 1.96 (51¢) | $50,608 | — | ⏳ Pendiente |
 | SDTrading | New York Mets vs. Washington Nationals | Washington Nationals | 2.00 (50¢) | $27,871 | — | ⏳ Pendiente |
-| kkookkoo | St. Tropez: Titouan Droguet vs Harold Mayot | Titouan Droguet | 1.23 (81¢) | $27,000 | — | ⏳ Pendiente |
+| kkookkoo | St. Tropez: Titouan Droguet vs Harold Mayot | Titouan Droguet | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
 | gmpm2 | Texans vs. Colts | Texans | 1.89 (53¢) | $42,723 | — | ⏳ Pendiente |
 | SDTrading | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $33,718 | — | ⏳ Pendiente |
 | surfandturf | Chiefs vs. Dolphins | Chiefs | 1.18 (85¢) | $218,521 | — | ⏳ Pendiente |
