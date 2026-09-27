@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 00:05:44 (hora de Perú)
+Actualizado: 2026-09-27 00:07:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3744**  ($203,776,652 en total)
-- Resueltas: **3708** — 2259 ganadas / 1449 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **3709** — 2260 ganadas / 1449 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,433,540** sobre $202,166,567 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,584** sobre $365,400 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,430,563** sobre $202,206,108 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,576** sobre $365,500 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 24 | 2 | 1 | 92% | $1,567,506 | +$71,604 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | SDTrading | 25 | 27 | 0 | 48% | $1,553,883 | -$170,031 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | ethanaz | Minnesota vs. Washington | Minnesota | 2.08 (48¢) | $54,049 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Washington | Minnesota | 2.00 (50¢) | $26,382 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $27,092 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Vancouver Whitecaps FC vs. D.C. United SC: O/U 2.5 | Over 2.5 | 1.08 (93¢) | $39,541 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Vancouver Whitecaps FC vs. D.C. United SC: O/U 2.5 | Over 2.5 | 1.08 (93¢) | $39,541 | +$2,976 | ✅ Ganada |
 | nigiri99 | Spread: Chiefs (-10.5) | Chiefs | 2.08 (48¢) | $50,834 | — | ⏳ Pendiente |
 | 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Minnesota vs. Washington | Washington | 1.25 (80¢) | $26,784 | — | ⏳ Pendiente |
 | Sassy-Bucket | Minnesota vs. Washington | Washington | 1.23 (81¢) | $119,953 | — | ⏳ Pendiente |
