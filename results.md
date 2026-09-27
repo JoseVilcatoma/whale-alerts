@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 22:29:12 (hora de Perú)
+Actualizado: 2026-09-26 22:31:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3735**  ($203,304,755 en total)
-- Resueltas: **3699** — 2251 ganadas / 1448 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Apuestas registradas: **3736**  ($203,331,846 en total)
+- Resueltas: **3703** — 2255 ganadas / 1448 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,669,555** sobre $201,640,979 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$6,931** sobre $364,500 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$2,588,822** sobre $201,807,303 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$6,725** sobre $364,900 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | wr0ngw4yb3tt0r | 59 | 40 | 1 | 60% | $5,441,122 | -$335,599 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Sassy-Bucket | 45 | 46 | 5 | 49% | $4,823,877 | -$867,514 |
+| Sassy-Bucket | 47 | 46 | 3 | 51% | $4,823,877 | -$841,183 |
 | Diabolical-Prize | 44 | 40 | 0 | 52% | $4,236,631 | -$219,220 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ferrariChampions2026 | 38 | 23 | 0 | 62% | $2,433,850 | -$491,966 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| ethanaz | 26 | 10 | 1 | 72% | $2,259,961 | -$130,917 |
+| ethanaz | 27 | 10 | 0 | 73% | $2,259,961 | -$97,920 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Spread: Bills (-7.5) | Chargers | 1.92 (52¢) | $27,092 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Vancouver Whitecaps FC vs. D.C. United SC: O/U 2.5 | Over 2.5 | 1.08 (93¢) | $39,541 | — | ⏳ Pendiente |
 | nigiri99 | Spread: Chiefs (-10.5) | Chiefs | 2.08 (48¢) | $50,834 | — | ⏳ Pendiente |
 | 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Minnesota vs. Washington | Washington | 1.25 (80¢) | $26,784 | — | ⏳ Pendiente |
@@ -86,13 +87,13 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | wr0ngw4yb3tt0r | Spread: 49ers (-7.5) | 49ers | 2.00 (50¢) | $44,983 | — | ⏳ Pendiente |
 | texaskid | Spread: 49ers (-8.5) | Cardinals | 1.89 (53¢) | $51,260 | — | ⏳ Pendiente |
 | Talvez10 | Arizona Diamondbacks vs. San Diego Padres: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $28,206 | +$25,013 | ✅ Ganada |
-| KaneAnalytics | Texas A&M vs. LSU | LSU | 1.43 (70¢) | $49,947 | — | ⏳ Pendiente |
-| ethanaz | Texas A&M vs. LSU: O/U 52.5 | Under 52.5 | 2.00 (50¢) | $32,997 | — | ⏳ Pendiente |
+| KaneAnalytics | Texas A&M vs. LSU | LSU | 1.43 (70¢) | $49,947 | +$21,406 | ✅ Ganada |
+| ethanaz | Texas A&M vs. LSU: O/U 52.5 | Under 52.5 | 2.00 (50¢) | $32,997 | +$32,997 | ✅ Ganada |
 | Talvez10 | Houston Astros vs. Athletics | Athletics | 2.50 (40¢) | $33,789 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tulsa vs. Arkansas | Arkansas | 1.39 (72¢) | $131,976 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Brady Hiestand vs. Rinya Nakamura (Bantamweight, Main Card) | Rinya Nakamura | 1.30 (77¢) | $93,810 | -$93,810 | ❌ Perdida |
-| Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $51,473 | — | ⏳ Pendiente |
-| Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $31,908 | — | ⏳ Pendiente |
+| Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $51,473 | +$16,254 | ✅ Ganada |
+| Sassy-Bucket | Texas A&M vs. LSU | LSU | 1.32 (76¢) | $31,908 | +$10,076 | ✅ Ganada |
 | phonesculptor | Kennesaw State vs. Arkansas State | Arkansas State | 1.43 (70¢) | $31,351 | +$13,436 | ✅ Ganada |
 | Roadto1mlesgooo | Canada vs. Chile: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $30,238 | +$1,930 | ✅ Ganada |
 | Sassy-Bucket | Louisiana vs. Charlotte | Louisiana | 1.27 (79¢) | $84,731 | +$22,523 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | surfandturf | Will Spain win on 2026-09-26? | Yes | 2.22 (45¢) | $45,000 | +$55,000 | ✅ Ganada |
 | ripley86alien | Will Spain win on 2026-09-26? | No | 1.89 (53¢) | $113,674 | -$113,674 | ❌ Perdida |
 | surfandturf | Will Spain win on 2026-09-26? | Yes | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
-| BrotherObama | Counter-Strike: magic vs GamerLegion (BO3) - 1win Private Club #1 Playoffs | magic | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
