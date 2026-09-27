@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 06:28:36 (hora de Perú)
+Actualizado: 2026-09-27 06:30:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3758**  ($205,197,151 en total)
-- Resueltas: **3716** — 2264 ganadas / 1452 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **3717** — 2265 ganadas / 1452 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 470
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,494,254** sobre $202,529,159 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,550** sobre $366,200 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,478,254** sobre $202,563,159 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,503** sobre $366,300 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | raybanman | Spread: Chiefs (-10.5) | Dolphins | 1.85 (54¢) | $175,216 | — | ⏳ Pendiente |
 | raybanman | Spread: Lions (-6.5) | Lions | 1.92 (52¢) | $140,597 | — | ⏳ Pendiente |
 | raybanman | Spread: Bills (-7.5) | Bills | 2.00 (50¢) | $314,445 | — | ⏳ Pendiente |
-| esportsbetter1 | Valorant: 100 Thieves vs T1 (BO3) - VCT Champions Group A | 100 Thieves | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
+| esportsbetter1 | Valorant: 100 Thieves vs T1 (BO3) - VCT Champions Group A | 100 Thieves | 1.47 (68¢) | $34,000 | +$16,000 | ✅ Ganada |
 | texaskid | Cardinals vs. 49ers: O/U 48.5 | Over 48.5 | 1.96 (51¢) | $78,573 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: Panthers (-5.5) | Browns | 1.56 (64¢) | $50,913 | — | ⏳ Pendiente |
 | takeormake | Spread: Panthers (-4.5) | Panthers | 2.70 (37¢) | $29,212 | — | ⏳ Pendiente |
