@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 15:24:11 (hora de Perú)
+Actualizado: 2026-09-27 15:26:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3841**  ($210,541,730 en total)
+- Apuestas registradas: **3843**  ($210,653,720 en total)
 - Resueltas: **3726** — 2271 ganadas / 1455 perdidas (**61%** de acierto)
-- Pendientes: 97
-- Apostadores distintos: 474
+- Pendientes: 99
+- Apostadores distintos: 475
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 12 | 66% | $27,017,981 | +$805,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 266 | 138 | 13 | 66% | $27,097,471 | +$805,597 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 59 | 41 | 6 | 59% | $5,903,043 | -$370,618 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 
-_(mostrando los 40 de mayor monto, de 474 en total)_
+_(mostrando los 40 de mayor monto, de 475 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| LTandBB | Raiders vs. Saints | Saints | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Commanders | Commanders | 1.23 (81¢) | $79,490 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Saints (-3.5) | Saints | 1.92 (52¢) | $261,292 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cowboys (-3.5) | Ravens | 1.35 (74¢) | $67,968 | — | ⏳ Pendiente |
 | gvrgb326552g65 | Ravens vs. Cowboys | Ravens | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 474 en total)_
 | Kch-Temp | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $46,919 | — | ⏳ Pendiente |
 | SharkbetX-com | Chiefs vs. Dolphins | Dolphins | 6.25 (16¢) | $26,404 | — | ⏳ Pendiente |
 | gmpm2 | Cardinals vs. 49ers: O/U 48.5 | Over 48.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| kkookkoo | Hangzhou Open: Daniil Medvedev vs Coleman Wong | Daniil Medvedev | 1.18 (85¢) | $26,000 | +$4,588 | ✅ Ganada |
-| liquiditycrisis | Seahawks vs. Commanders: O/U 40.5 | Under 40.5 | 1.92 (52¢) | $35,376 | -$35,376 | ❌ Perdida |
