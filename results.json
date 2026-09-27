@@ -56584,5 +56584,20 @@
     "status": "pending",
     "ultimo_fill": 1790512391,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7681,
+    "timestamp": 1790512486,
+    "username": "Sodoo",
+    "wallet": "0x0d7cc750f6aafafe000210f52d623f3bce49b7db",
+    "slug": "dota2-ty-navi-2026-09-27",
+    "title": "Dota 2: Team Yandex vs Natus Vincere (BO5) - PGL Wallachia Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 34572.6656,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1790512486,
+    "fills": 1
   }
 ]
