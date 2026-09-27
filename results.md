@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 17:24:43 (hora de Perú)
+Actualizado: 2026-09-27 17:26:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3860**  ($211,236,813 en total)
+- Apuestas registradas: **3861**  ($211,263,966 en total)
 - Resueltas: **3787** — 2310 ganadas / 1477 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 477
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.33 (75¢) | $27,154 | — | ⏳ Pendiente |
 | dreamerwon | Ravens vs. Cowboys | Cowboys | 3.85 (26¢) | $25,000 | — | ⏳ Pendiente |
 | ethanaz | Vikings vs. Buccaneers | Vikings | 1.32 (76¢) | $43,996 | — | ⏳ Pendiente |
 | yoyoyoyoer | Vikings vs. Buccaneers | Vikings | 1.37 (73¢) | $31,025 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 | Jsram | Spread: Bills (-6.5) | Bills | 1.79 (56¢) | $41,908 | — | ⏳ Pendiente |
 | ColdBlooded | LoL: Colossal Gaming vs The Ruddy Sack (BO1) - EMEA Masters Swiss Stage | The Ruddy Sack | 1.14 (88¢) | $38,779 | +$5,288 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: 49ers (-7.5) | Cardinals | 2.04 (49¢) | $41,605 | — | ⏳ Pendiente |
-| mooseborzoi | Spread: Bills (-7.5) | Chargers | 1.89 (53¢) | $34,920 | -$34,920 | ❌ Perdida |
