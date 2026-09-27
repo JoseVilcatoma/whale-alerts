@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 19:33:32 (hora de Perú)
+Actualizado: 2026-09-26 19:35:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3724**  ($202,719,536 en total)
-- Resueltas: **3685** — 2241 ganadas / 1444 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **3686** — 2242 ganadas / 1444 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,618,273** sobre $200,939,906 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$7,032** sobre $363,100 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$2,592,783** sobre $200,968,650 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$6,943** sobre $363,200 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | TAIWANNUMBERONE | Ole Miss vs. Florida | Florida | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
 | Talvez10 | UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims) | Rodolfo Bellato | 1.59 (63¢) | $29,613 | -$29,613 | ❌ Perdida |
 | nuttypoo | Wisconsin vs. Penn State | Penn State | 1.27 (79¢) | $122,133 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: South Florida (-18.5) | Bowling Green | 1.89 (53¢) | $28,744 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: South Florida (-18.5) | Bowling Green | 1.89 (53¢) | $28,744 | +$25,490 | ✅ Ganada |
 | texaskid | Spread: LSU (-8.5) | LSU | 2.00 (50¢) | $87,553 | — | ⏳ Pendiente |
 | ethanaz | Iowa vs. Michigan | Michigan | 1.35 (74¢) | $30,194 | -$30,194 | ❌ Perdida |
 | ethanaz | Iowa vs. Michigan | Michigan | 1.39 (72¢) | $44,672 | -$44,672 | ❌ Perdida |
