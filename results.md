@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-26 20:36:57 (hora de Perú)
+Actualizado: 2026-09-26 20:38:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3727**  ($202,845,495 en total)
-- Resueltas: **3690** — 2244 ganadas / 1446 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **3691** — 2245 ganadas / 1446 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 469
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,717,700** sobre $201,214,281 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$7,046** sobre $363,600 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$2,714,481** sobre $201,251,304 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$7,037** sobre $363,700 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 469 en total)_
 | Sassy-Bucket | Louisiana vs. Charlotte | Louisiana | 1.27 (79¢) | $84,731 | — | ⏳ Pendiente |
 | ic4cream | Missouri vs. Mississippi State | Mississippi State | 1.61 (62¢) | $33,852 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.79 (56¢) | $40,204 | -$40,204 | ❌ Perdida |
-| jaytee158 | Delaware vs. Virginia | Virginia | 1.09 (92¢) | $37,023 | — | ⏳ Pendiente |
+| jaytee158 | Delaware vs. Virginia | Virginia | 1.09 (92¢) | $37,023 | +$3,219 | ✅ Ganada |
 | Talvez10 | UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card) | Josiah Harrell | 1.82 (55¢) | $31,484 | -$31,484 | ❌ Perdida |
 | TAIWANNUMBERONE | Ole Miss vs. Florida | Florida | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
 | Talvez10 | UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims) | Rodolfo Bellato | 1.59 (63¢) | $29,613 | -$29,613 | ❌ Perdida |
