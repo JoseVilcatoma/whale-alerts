@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 00:45:04 (hora de Perú)
+Actualizado: 2026-09-27 00:47:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3746**  ($203,889,224 en total)
-- Resueltas: **3709** — 2260 ganadas / 1449 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **3710** — 2261 ganadas / 1449 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 470
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,430,563** sobre $202,206,108 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,576** sobre $365,500 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$2,404,940** sobre $202,232,778 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,480** sobre $365,600 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 | phonesculptor | 16 | 3 | 0 | 84% | $1,213,036 | +$613 |
 | Kch-Temp | 16 | 6 | 0 | 73% | $1,191,211 | +$588,416 |
-| texaskid | 10 | 9 | 3 | 53% | $1,145,322 | +$611 |
+| texaskid | 11 | 9 | 2 | 55% | $1,145,322 | +$26,235 |
 | Elaran1993 | 8 | 6 | 1 | 57% | $1,129,332 | +$329,161 |
 
 _(mostrando los 40 de mayor monto, de 470 en total)_
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 470 en total)_
 | cosmicxbt | Oregon vs. USC | Oregon | 1.41 (71¢) | $72,095 | +$29,447 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card) | Raul Rosas Jr. | 1.72 (58¢) | $27,360 | +$19,812 | ✅ Ganada |
 | Sassy-Bucket | Rice vs. Fresno State | Fresno State | 1.22 (82¢) | $34,194 | — | ⏳ Pendiente |
-| texaskid | Spread: Fresno State (-12.5) | Fresno State | 1.96 (51¢) | $26,670 | — | ⏳ Pendiente |
+| texaskid | Spread: Fresno State (-12.5) | Fresno State | 1.96 (51¢) | $26,670 | +$25,624 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Norma Dumont vs. Ailin Perez (Women's Bantamweight, Prelims) | Norma Dumont | 2.50 (40¢) | $67,016 | -$67,016 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ilimbek Akylbek Uulu vs. Mehemmedeli Osmanli (Bantamweight, Main Card) | Mehemmedeli Osmanli | 1.35 (74¢) | $32,273 | -$32,273 | ❌ Perdida |
 | 0F62 | Will Greece win on 2026-09-27? | No | 1.12 (89¢) | $33,745 | — | ⏳ Pendiente |
