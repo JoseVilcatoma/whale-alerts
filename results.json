@@ -57964,5 +57964,35 @@
     "status": "pending",
     "ultimo_fill": 1790544718,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7835,
+    "timestamp": 1790546194,
+    "username": "sifonman",
+    "wallet": "0x6ac96d439f44a8dd84de19a781fcbbab5bdee85a",
+    "slug": "nfl-min-tb-2026-09-27",
+    "title": "Vikings vs. Buccaneers",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 27720.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1790546194,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7836,
+    "timestamp": 1790546214,
+    "username": "yoyoyoyoer",
+    "wallet": "0xb7fffe75ad88a55987cd8c60ad6a53640e80aa79",
+    "slug": "nfl-min-tb-2026-09-27",
+    "title": "Vikings vs. Buccaneers",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 31025.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1790546214,
+    "fills": 1
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 16:55:44 (hora de Perú)
+Actualizado: 2026-09-27 16:57:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3856**  ($211,109,072 en total)
+- Apuestas registradas: **3858**  ($211,167,817 en total)
 - Resueltas: **3778** — 2304 ganadas / 1474 perdidas (**61%** de acierto)
-- Pendientes: 60
-- Apostadores distintos: 475
+- Pendientes: 62
+- Apostadores distintos: 476
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 
-_(mostrando los 40 de mayor monto, de 475 en total)_
+_(mostrando los 40 de mayor monto, de 476 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yoyoyoyoer | Vikings vs. Buccaneers | Vikings | 1.37 (73¢) | $31,025 | — | ⏳ Pendiente |
+| sifonman | Vikings vs. Buccaneers | Vikings | 1.39 (72¢) | $27,720 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.09 (92¢) | $46,363 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Vikings vs. Buccaneers | Vikings | 1.43 (70¢) | $29,761 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 3.33 (30¢) | $34,890 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 475 en total)_
 | mooseborzoi | Spread: Bills (-7.5) | Chargers | 1.89 (53¢) | $34,920 | -$34,920 | ❌ Perdida |
 | taylorsversion | Spread: Giants (-2.5) | Titans | 2.00 (50¢) | $95,371 | -$95,371 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Spread: Giants (-2.5) | Giants | 2.00 (50¢) | $127,723 | +$127,723 | ✅ Ganada |
-| gmpm2 | Bengals vs. Steelers | Bengals | 1.64 (61¢) | $32,696 | -$32,696 | ❌ Perdida |
-| Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $39,400 | — | ⏳ Pendiente |
