@@ -55486,7 +55486,7 @@
     "side": "BUY",
     "usd": 29417.039999999997,
     "odds_at_bet": 24,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790451872,
     "fills": 1
   },
@@ -55923,6 +55923,21 @@
     "odds_at_bet": 70,
     "status": "pending",
     "ultimo_fill": 1790466594,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7601,
+    "timestamp": 1790467285,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-ari-sd-2026-09-26-total-7pt5",
+    "title": "Arizona Diamondbacks vs. San Diego Padres: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 28206.0064,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1790467285,
     "fills": 1
   }
 ]
