@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 00:28:55 (hora de Perú)
+Actualizado: 2026-09-28 00:31:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3898**  ($212,885,338 en total)
-- Resueltas: **3871** — 2353 ganadas / 1518 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **3879** — 2355 ganadas / 1524 perdidas (**61%** de acierto)
+- Pendientes: 1
 - Apostadores distintos: 479
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,724,429** sobre $211,847,907 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,936** sobre $381,600 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,882,074** sobre $212,128,313 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,291** sobre $382,400 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 278 | 146 | 5 | 66% | $27,515,800 | +$794,032 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 74 | 2 | 53% | $6,642,003 | -$345,771 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 278 | 147 | 4 | 65% | $27,515,800 | +$768,662 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 76 | 0 | 52% | $6,642,003 | -$428,990 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| wr0ngw4yb3tt0r | 65 | 44 | 1 | 60% | $6,056,956 | -$43,544 |
+| wr0ngw4yb3tt0r | 66 | 44 | 0 | 60% | $6,056,956 | -$8,266 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -35,11 +35,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 40 | 29 | 1 | 58% | $2,712,352 | -$634,735 |
+| ferrariChampions2026 | 41 | 29 | 0 | 59% | $2,712,352 | -$602,573 |
 | BrotherObama | 28 | 26 | 2 | 52% | $2,640,745 | +$345,208 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| ethanaz | 30 | 12 | 1 | 71% | $2,587,606 | -$155,885 |
+| ethanaz | 30 | 13 | 0 | 70% | $2,587,606 | -$202,309 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.54 (65¢) | $37,324 | -$37,324 | ❌ Perdida |
 | Berniepaidoff | Rams vs. Broncos | Rams | 1.67 (60¢) | $50,000 | -$50,000 | ❌ Perdida |
 | nuttypoo | Rams vs. Broncos | Rams | 1.49 (67¢) | $67,000 | -$67,000 | ❌ Perdida |
-| ethanaz | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 2.22 (45¢) | $46,424 | — | ⏳ Pendiente |
+| ethanaz | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 2.22 (45¢) | $46,424 | -$46,424 | ❌ Perdida |
 | ethanaz | Spread: Rams (-5.5) | Rams | 4.17 (24¢) | $79,057 | -$79,057 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.96 (51¢) | $25,181 | -$25,181 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Broncos | 2.38 (42¢) | $25,200 | +$34,800 | ✅ Ganada |
@@ -93,14 +93,14 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | gmpm2 | Rams vs. Broncos | Broncos | 2.00 (50¢) | $73,375 | +$73,375 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 2.00 (50¢) | $60,000 | -$60,000 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Rams vs. Broncos | Broncos | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 1.89 (53¢) | $26,407 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos: O/U 46.5 | Under 46.5 | 1.69 (59¢) | $25,370 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Rams vs. Broncos: O/U 44.5 | Over 44.5 | 2.17 (46¢) | $30,051 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 1.89 (53¢) | $26,407 | -$26,407 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos: O/U 46.5 | Under 46.5 | 1.69 (59¢) | $25,370 | -$25,370 | ❌ Perdida |
+| wr0ngw4yb3tt0r | Rams vs. Broncos: O/U 44.5 | Over 44.5 | 2.17 (46¢) | $30,051 | +$35,277 | ✅ Ganada |
 | btystu | Rams vs. Broncos | Broncos | 2.00 (50¢) | $41,498 | +$41,498 | ✅ Ganada |
-| nigiri99 | Rams vs. Broncos: O/U 45.5 | Under 45.5 | 1.72 (58¢) | $28,997 | — | ⏳ Pendiente |
-| mooseborzoi | Rams vs. Broncos: O/U 45.5 | Under 45.5 | 1.75 (57¢) | $41,075 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $56,812 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Rams vs. Broncos: O/U 45.5 | Over 45.5 | 2.27 (44¢) | $25,270 | — | ⏳ Pendiente |
+| nigiri99 | Rams vs. Broncos: O/U 45.5 | Under 45.5 | 1.72 (58¢) | $28,997 | -$28,997 | ❌ Perdida |
+| mooseborzoi | Rams vs. Broncos: O/U 45.5 | Under 45.5 | 1.75 (57¢) | $41,075 | -$41,075 | ❌ Perdida |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $56,812 | -$56,812 | ❌ Perdida |
+| ferrariChampions2026 | Rams vs. Broncos: O/U 45.5 | Over 45.5 | 2.27 (44¢) | $25,270 | +$32,162 | ✅ Ganada |
 | 3648393489047 | Ravens vs. Cowboys | Ravens | 1.79 (56¢) | $45,355 | +$35,636 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $32,628 | -$32,628 | ❌ Perdida |
 | Berniepaidoff | Ravens vs. Cowboys | Ravens | 1.45 (69¢) | $50,000 | +$22,464 | ✅ Ganada |
