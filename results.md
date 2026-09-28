@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 23:14:38 (hora de Perú)
+Actualizado: 2026-09-27 23:16:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3897**  ($212,838,538 en total)
-- Resueltas: **3869** — 2353 ganadas / 1516 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **3870** — 2353 ganadas / 1517 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 479
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,619,372** sobre $211,742,850 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,736** sobre $381,400 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,698,429** sobre $211,821,908 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,836** sobre $381,500 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 28 | 26 | 2 | 52% | $2,640,745 | +$345,208 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| ethanaz | 30 | 11 | 2 | 73% | $2,587,606 | -$76,828 |
+| ethanaz | 30 | 12 | 1 | 71% | $2,587,606 | -$155,885 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | Berniepaidoff | Rams vs. Broncos | Rams | 1.67 (60¢) | $50,000 | -$50,000 | ❌ Perdida |
 | nuttypoo | Rams vs. Broncos | Rams | 1.49 (67¢) | $67,000 | -$67,000 | ❌ Perdida |
 | ethanaz | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 2.22 (45¢) | $46,424 | — | ⏳ Pendiente |
-| ethanaz | Spread: Rams (-5.5) | Rams | 4.17 (24¢) | $79,057 | — | ⏳ Pendiente |
+| ethanaz | Spread: Rams (-5.5) | Rams | 4.17 (24¢) | $79,057 | -$79,057 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.96 (51¢) | $25,181 | -$25,181 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Broncos | 2.38 (42¢) | $25,200 | +$34,800 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Rams vs. Broncos | Rams | 1.39 (72¢) | $57,990 | -$57,990 | ❌ Perdida |
