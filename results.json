@@ -58581,5 +58581,20 @@
     "status": "lost",
     "ultimo_fill": 1790565206,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7969,
+    "timestamp": 1790571191,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-fils-damm-2026-09-27",
+    "title": "Japan Open Tennis Championships, Qualification: Arthur Fils vs Martin Damm",
+    "outcome": "Arthur Fils",
+    "side": "BUY",
+    "usd": 46800.0,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1790571191,
+    "fills": 1
   }
 ]

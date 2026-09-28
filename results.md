@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 23:51:45 (hora de Perú)
+Actualizado: 2026-09-27 23:53:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3897**  ($212,838,538 en total)
+- Apuestas registradas: **3898**  ($212,885,338 en total)
 - Resueltas: **3870** — 2353 ganadas / 1517 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 479
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 278 | 145 | 5 | 66% | $27,469,000 | +$820,032 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 278 | 145 | 6 | 66% | $27,515,800 | +$820,032 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 74 | 2 | 53% | $6,642,003 | -$345,771 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 65 | 44 | 1 | 60% | $6,056,956 | -$43,544 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Open Tennis Championships, Qualification: Arthur Fils vs Martin Damm | Arthur Fils | 1.28 (78¢) | $46,800 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.54 (65¢) | $37,324 | -$37,324 | ❌ Perdida |
 | Berniepaidoff | Rams vs. Broncos | Rams | 1.67 (60¢) | $50,000 | -$50,000 | ❌ Perdida |
 | nuttypoo | Rams vs. Broncos | Rams | 1.49 (67¢) | $67,000 | -$67,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | gmpm2 | Spread: Saints (-3.5) | Saints | 1.92 (52¢) | $261,292 | -$261,292 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cowboys (-3.5) | Ravens | 1.35 (74¢) | $67,968 | +$23,881 | ✅ Ganada |
 | gvrgb326552g65 | Ravens vs. Cowboys | Ravens | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
-| Donkey14 | Ravens vs. Cowboys | Cowboys | 2.70 (37¢) | $29,076 | -$29,076 | ❌ Perdida |
