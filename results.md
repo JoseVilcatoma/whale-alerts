@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 19:04:57 (hora de Perú)
+Actualizado: 2026-09-27 19:07:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3872**  ($211,754,269 en total)
-- Resueltas: **3816** — 2331 ganadas / 1485 perdidas (**61%** de acierto)
-- Pendientes: 38
-- Apostadores distintos: 477
+- Apuestas registradas: **3873**  ($211,795,767 en total)
+- Resueltas: **3836** — 2340 ganadas / 1496 perdidas (**61%** de acierto)
+- Pendientes: 19
+- Apostadores distintos: 478
 
 ### Balance
 
-- **Resultado de los apostadores: -$861,021** sobre $209,025,112 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$5,397** sobre $376,200 (ROI **-1.4%**)
+- **Resultado de los apostadores: -$1,093,106** sobre $209,888,527 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,972** sobre $378,200 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,23 +24,23 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 138 | 8 | 67% | $27,241,351 | +$1,005,916 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 5 | 66% | $27,241,351 | +$908,398 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 1 | 54% | $6,531,707 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 64 | 41 | 2 | 61% | $5,932,804 | +$52,237 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Sassy-Bucket | 52 | 47 | 1 | 53% | $5,270,406 | -$771,418 |
+| Sassy-Bucket | 53 | 47 | 0 | 53% | $5,270,406 | -$647,744 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 39 | 26 | 3 | 60% | $2,644,399 | -$555,641 |
+| ferrariChampions2026 | 40 | 27 | 1 | 60% | $2,644,399 | -$566,782 |
 | BrotherObama | 27 | 26 | 3 | 51% | $2,640,745 | +$295,813 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| ethanaz | 30 | 10 | 1 | 75% | $2,462,125 | +$909 |
+| ethanaz | 30 | 11 | 0 | 73% | $2,462,125 | -$76,828 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -65,53 +65,54 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 
-_(mostrando los 40 de mayor monto, de 477 en total)_
+_(mostrando los 40 de mayor monto, de 478 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| btystu | Rams vs. Broncos | Broncos | 2.00 (50¢) | $41,498 | — | ⏳ Pendiente |
 | nigiri99 | Rams vs. Broncos: O/U 45.5 | Under 45.5 | 1.72 (58¢) | $28,997 | — | ⏳ Pendiente |
 | mooseborzoi | Rams vs. Broncos: O/U 45.5 | Under 45.5 | 1.75 (57¢) | $41,075 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $56,812 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Rams vs. Broncos: O/U 45.5 | Over 45.5 | 2.27 (44¢) | $25,270 | — | ⏳ Pendiente |
-| 3648393489047 | Ravens vs. Cowboys | Ravens | 1.79 (56¢) | $45,355 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $32,628 | — | ⏳ Pendiente |
-| Berniepaidoff | Ravens vs. Cowboys | Ravens | 1.45 (69¢) | $50,000 | — | ⏳ Pendiente |
-| YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $34,400 | — | ⏳ Pendiente |
-| jaytee158 | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $51,600 | — | ⏳ Pendiente |
-| YEEES-but-why | Raiders vs. Saints | Saints | 1.12 (89¢) | $46,429 | — | ⏳ Pendiente |
-| ethanaz | Raiders vs. Saints | Saints | 1.20 (83¢) | $77,737 | — | ⏳ Pendiente |
-| YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.33 (75¢) | $27,154 | — | ⏳ Pendiente |
-| dreamerwon | Ravens vs. Cowboys | Cowboys | 3.85 (26¢) | $25,000 | — | ⏳ Pendiente |
+| 3648393489047 | Ravens vs. Cowboys | Ravens | 1.79 (56¢) | $45,355 | +$35,636 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $32,628 | -$32,628 | ❌ Perdida |
+| Berniepaidoff | Ravens vs. Cowboys | Ravens | 1.45 (69¢) | $50,000 | +$22,464 | ✅ Ganada |
+| YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
+| jaytee158 | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $51,600 | +$8,400 | ✅ Ganada |
+| YEEES-but-why | Raiders vs. Saints | Saints | 1.12 (89¢) | $46,429 | -$46,429 | ❌ Perdida |
+| ethanaz | Raiders vs. Saints | Saints | 1.20 (83¢) | $77,737 | -$77,737 | ❌ Perdida |
+| YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.33 (75¢) | $27,154 | +$9,051 | ✅ Ganada |
+| dreamerwon | Ravens vs. Cowboys | Cowboys | 3.85 (26¢) | $25,000 | -$25,000 | ❌ Perdida |
 | ethanaz | Vikings vs. Buccaneers | Vikings | 1.32 (76¢) | $43,996 | +$13,893 | ✅ Ganada |
 | yoyoyoyoer | Vikings vs. Buccaneers | Vikings | 1.37 (73¢) | $31,025 | +$11,475 | ✅ Ganada |
 | sifonman | Vikings vs. Buccaneers | Vikings | 1.39 (72¢) | $27,720 | +$10,780 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.09 (92¢) | $46,363 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Vikings vs. Buccaneers | Vikings | 1.43 (70¢) | $29,761 | +$12,755 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 3.33 (30¢) | $34,890 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 3.33 (30¢) | $34,890 | -$34,890 | ❌ Perdida |
 | takeormake | Vikings vs. Buccaneers | Buccaneers | 2.94 (34¢) | $31,748 | -$31,748 | ❌ Perdida |
 | ferrariChampions2026 | Vikings vs. Buccaneers | Vikings | 1.47 (68¢) | $42,964 | +$20,218 | ✅ Ganada |
-| ferrariChampions2026 | Raiders vs. Saints | Raiders | 1.64 (61¢) | $28,841 | — | ⏳ Pendiente |
-| cosmicxbt | Ravens vs. Cowboys | Ravens | 1.43 (70¢) | $26,656 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 3.33 (30¢) | $30,000 | — | ⏳ Pendiente |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Ravens vs. Cowboys | Cowboys | 1.52 (66¢) | $66,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $29,581 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Raiders vs. Saints | Raiders | 1.64 (61¢) | $28,841 | +$18,439 | ✅ Ganada |
+| cosmicxbt | Ravens vs. Cowboys | Ravens | 1.43 (70¢) | $26,656 | +$11,424 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 3.33 (30¢) | $30,000 | -$30,000 | ❌ Perdida |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Ravens vs. Cowboys | Cowboys | 1.52 (66¢) | $66,000 | -$66,000 | ❌ Perdida |
+| ferrariChampions2026 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $29,581 | -$29,581 | ❌ Perdida |
 | 177-letsgo | Houston Astros vs. Athletics | Houston Astros | 1.08 (93¢) | $32,012 | +$2,410 | ✅ Ganada |
 | ndb1 | Vikings vs. Buccaneers | Vikings | 1.89 (53¢) | $29,845 | +$26,467 | ✅ Ganada |
 | ferrariChampions2026 | Vikings vs. Buccaneers | Buccaneers | 2.22 (45¢) | $26,690 | -$26,690 | ❌ Perdida |
-| LTandBB | Raiders vs. Saints | Saints | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
+| LTandBB | Raiders vs. Saints | Saints | 1.54 (65¢) | $32,500 | -$32,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Commanders | Commanders | 1.23 (81¢) | $79,490 | +$18,646 | ✅ Ganada |
 | gmpm2 | Spread: Saints (-3.5) | Saints | 1.92 (52¢) | $261,292 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cowboys (-3.5) | Ravens | 1.35 (74¢) | $67,968 | — | ⏳ Pendiente |
-| gvrgb326552g65 | Ravens vs. Cowboys | Ravens | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
-| Donkey14 | Ravens vs. Cowboys | Cowboys | 2.70 (37¢) | $29,076 | — | ⏳ Pendiente |
+| gvrgb326552g65 | Ravens vs. Cowboys | Ravens | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
+| Donkey14 | Ravens vs. Cowboys | Cowboys | 2.70 (37¢) | $29,076 | -$29,076 | ❌ Perdida |
 | 177-letsgo | Seahawks vs. Commanders | Commanders | 1.08 (93¢) | $60,450 | +$4,550 | ✅ Ganada |
 | Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $68,422 | +$19,298 | ✅ Ganada |
-| Donkey14 | Raiders vs. Saints | Saints | 1.59 (63¢) | $85,135 | — | ⏳ Pendiente |
+| Donkey14 | Raiders vs. Saints | Saints | 1.59 (63¢) | $85,135 | -$85,135 | ❌ Perdida |
 | cosmicxbt | Panthers vs. Browns | Panthers | 1.19 (84¢) | $68,434 | -$68,434 | ❌ Perdida |
 | Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $239,354 | +$67,510 | ✅ Ganada |
-| Sassy-Bucket | Raiders vs. Saints | Raiders | 2.70 (37¢) | $72,634 | — | ⏳ Pendiente |
+| Sassy-Bucket | Raiders vs. Saints | Raiders | 2.70 (37¢) | $72,634 | +$123,674 | ✅ Ganada |
 | ferrariChampions2026 | Seahawks vs. Commanders | Seahawks | 1.49 (67¢) | $31,843 | -$31,843 | ❌ Perdida |
 | BrotherObama | Spread: Saints (-3.5) | Raiders | 1.92 (52¢) | $53,511 | — | ⏳ Pendiente |
 | xifutloong3 | Atlanta Braves vs. Miami Marlins | Miami Marlins | 1.85 (54¢) | $39,341 | +$33,513 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 | Kch-Temp | Spread: Seahawks (-8.5) | Commanders | 1.92 (52¢) | $83,688 | +$77,250 | ✅ Ganada |
 | HectorHuang | Spread: Netherlands (-1.5) | Netherlands | 2.13 (47¢) | $29,000 | -$29,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $31,786 | +$24,974 | ✅ Ganada |
-| taylorsversion | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $108,958 | +$72,638 | ✅ Ganada |
