@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 21:48:15 (hora de Perú)
+Actualizado: 2026-09-27 21:50:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3892**  ($212,558,733 en total)
-- Resueltas: **3850** — 2349 ganadas / 1501 perdidas (**61%** de acierto)
+- Apuestas registradas: **3893**  ($212,637,790 en total)
+- Resueltas: **3851** — 2349 ganadas / 1502 perdidas (**61%** de acierto)
 - Pendientes: 24
 - Apostadores distintos: 479
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,167,402** sobre $210,891,890 apostados (ROI **-0.6%**)
+- **Resultado de los apostadores: -$1,180,920** sobre $210,954,653 apostados (ROI **-0.6%**)
 - Copiando $100 fijo en cada una: **-$5,774** sobre $379,600 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -39,8 +39,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 28 | 26 | 2 | 52% | $2,640,745 | +$345,208 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
+| ethanaz | 30 | 11 | 1 | 73% | $2,541,182 | -$76,828 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| ethanaz | 30 | 11 | 0 | 73% | $2,462,125 | -$76,828 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Spread: Rams (-5.5) | Rams | 4.17 (24¢) | $79,057 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.96 (51¢) | $25,181 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Broncos | 2.38 (42¢) | $25,200 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Rams vs. Broncos | Rams | 1.39 (72¢) | $57,990 | — | ⏳ Pendiente |
@@ -83,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | ferrariChampions2026 | Rams vs. Broncos | Rams | 1.33 (75¢) | $39,643 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Rams vs. Broncos | Rams | 1.39 (72¢) | $28,310 | — | ⏳ Pendiente |
 | yoyoyoyoer | Rams vs. Broncos | Rams | 1.43 (70¢) | $29,842 | — | ⏳ Pendiente |
-| cosmicxbt | Rams vs. Broncos | Rams | 1.54 (65¢) | $62,763 | — | ⏳ Pendiente |
+| cosmicxbt | Rams vs. Broncos | Rams | 1.54 (65¢) | $62,763 | -$13,518 | 💰 Vendida antes |
 | gmpm2 | Rams vs. Broncos | Broncos | 2.00 (50¢) | $73,375 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 2.00 (50¢) | $60,000 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Rams vs. Broncos | Broncos | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $68,422 | +$19,298 | ✅ Ganada |
 | Donkey14 | Raiders vs. Saints | Saints | 1.59 (63¢) | $85,135 | -$85,135 | ❌ Perdida |
 | cosmicxbt | Panthers vs. Browns | Panthers | 1.19 (84¢) | $68,434 | -$68,434 | ❌ Perdida |
-| Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $239,354 | +$67,510 | ✅ Ganada |
