@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 07:09:18 (hora de Perú)
+Actualizado: 2026-09-28 07:11:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3905**  ($213,197,136 en total)
-- Resueltas: **3884** — 2358 ganadas / 1526 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Resueltas: **3885** — 2359 ganadas / 1526 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 479
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,863,195** sobre $212,329,094 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,351** sobre $382,900 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$1,841,276** sobre $212,416,768 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,326** sobre $383,000 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chengdu Open: Hubert Hurkacz vs Denis Shapovalov | Hubert Hurkacz | 1.67 (60¢) | $31,143 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Daniil Medvedev vs Roman Safiullin | Daniil Medvedev | 1.54 (65¢) | $39,000 | — | ⏳ Pendiente |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Bari: Federico Arnaboldi vs Svyatoslav Gulin | Federico Arnaboldi | 1.25 (80¢) | $87,674 | — | ⏳ Pendiente |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Bari: Federico Arnaboldi vs Svyatoslav Gulin | Federico Arnaboldi | 1.25 (80¢) | $87,674 | +$21,918 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Taro Daniel | Taro Daniel | 2.04 (49¢) | $26,595 | -$26,595 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open, Qualification: Yannick Hanfmann vs Tomas Machac | Tomas Machac | 2.04 (49¢) | $54,704 | +$56,937 | ✅ Ganada |
 | jaytee158 | LoL: T1 Academy vs Cupid Esports (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.08 (93¢) | $44,657 | +$3,361 | ✅ Ganada |
