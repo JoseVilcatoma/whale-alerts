@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 21:58:46 (hora de Perú)
+Actualizado: 2026-09-27 22:02:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3893**  ($212,637,790 en total)
+- Apuestas registradas: **3894**  ($212,704,790 en total)
 - Resueltas: **3851** — 2349 ganadas / 1502 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 479
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nuttypoo | Rams vs. Broncos | Rams | 1.49 (67¢) | $67,000 | — | ⏳ Pendiente |
 | ethanaz | Spread: Rams (-5.5) | Rams | 4.17 (24¢) | $79,057 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.96 (51¢) | $25,181 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Broncos | 2.38 (42¢) | $25,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | 177-letsgo | Seahawks vs. Commanders | Commanders | 1.08 (93¢) | $60,450 | +$4,550 | ✅ Ganada |
 | Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $68,422 | +$19,298 | ✅ Ganada |
 | Donkey14 | Raiders vs. Saints | Saints | 1.59 (63¢) | $85,135 | -$85,135 | ❌ Perdida |
-| cosmicxbt | Panthers vs. Browns | Panthers | 1.19 (84¢) | $68,434 | -$68,434 | ❌ Perdida |
