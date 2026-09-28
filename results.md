@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 01:01:42 (hora de Perú)
+Actualizado: 2026-09-28 01:03:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3900**  ($212,958,020 en total)
+- Apuestas registradas: **3901**  ($213,012,725 en total)
 - Resueltas: **3879** — 2355 ganadas / 1524 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 479
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 278 | 147 | 4 | 65% | $27,515,800 | +$768,662 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 278 | 147 | 5 | 65% | $27,570,504 | +$768,662 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 76 | 0 | 52% | $6,642,003 | -$428,990 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 66 | 44 | 0 | 60% | $6,056,956 | -$8,266 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open, Qualification: Yannick Hanfmann vs Tomas Machac | Tomas Machac | 2.04 (49¢) | $54,704 | — | ⏳ Pendiente |
 | jaytee158 | LoL: T1 Academy vs Cupid Esports (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.08 (93¢) | $44,657 | — | ⏳ Pendiente |
 | HectorHuang | Japan Open Tennis Championships, Qualification: Jaume Munar vs Marcos Giron | Marcos Giron | 2.44 (41¢) | $28,025 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Open Tennis Championships, Qualification: Arthur Fils vs Martin Damm | Arthur Fils | 1.28 (78¢) | $46,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | ferrariChampions2026 | Vikings vs. Buccaneers | Buccaneers | 2.22 (45¢) | $26,690 | -$26,690 | ❌ Perdida |
 | LTandBB | Raiders vs. Saints | Saints | 1.54 (65¢) | $32,500 | -$32,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Commanders | Commanders | 1.23 (81¢) | $79,490 | +$18,646 | ✅ Ganada |
-| gmpm2 | Spread: Saints (-3.5) | Saints | 1.92 (52¢) | $261,292 | -$261,292 | ❌ Perdida |

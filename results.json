@@ -58626,5 +58626,20 @@
     "status": "pending",
     "ultimo_fill": 1790574932,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7981,
+    "timestamp": 1790575378,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-hanfman-machac-2026-09-27",
+    "title": "China Open, Qualification: Yannick Hanfmann vs Tomas Machac",
+    "outcome": "Tomas Machac",
+    "side": "BUY",
+    "usd": 54704.2978,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1790575403,
+    "fills": 2
   }
 ]
