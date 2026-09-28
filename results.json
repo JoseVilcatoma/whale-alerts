@@ -58761,5 +58761,20 @@
     "status": "pending",
     "ultimo_fill": 1790606111,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8000,
+    "timestamp": 1790607199,
+    "username": "Takon88",
+    "wallet": "0xa96274cc1b321afc8cbdc1ba07f7e2d471e6f7c8",
+    "slug": "unl-geo-ukr-2026-09-28-geo",
+    "title": "Will Georgia win on 2026-09-28?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 25858.8751,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1790607199,
+    "fills": 1
   }
 ]

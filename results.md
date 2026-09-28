@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 09:52:52 (hora de Perú)
+Actualizado: 2026-09-28 09:54:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3909**  ($213,343,736 en total)
+- Apuestas registradas: **3910**  ($213,369,595 en total)
 - Resueltas: **3888** — 2361 ganadas / 1527 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 480
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Takon88 | Will Georgia win on 2026-09-28? | Yes | 2.56 (39¢) | $25,859 | — | ⏳ Pendiente |
 | lfjlwkflwekfl | Will France win on 2026-09-28? | Yes | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs | NIP | 2.33 (43¢) | $44,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open, Qualification: Miomir Kecmanovic vs Adrian Mannarino | Miomir Kecmanovic | 2.08 (48¢) | $28,800 | -$28,800 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | takeormake | Vikings vs. Buccaneers | Buccaneers | 2.94 (34¢) | $31,748 | -$31,748 | ❌ Perdida |
 | ferrariChampions2026 | Vikings vs. Buccaneers | Vikings | 1.47 (68¢) | $42,964 | +$20,218 | ✅ Ganada |
 | ferrariChampions2026 | Raiders vs. Saints | Raiders | 1.64 (61¢) | $28,841 | +$18,439 | ✅ Ganada |
-| cosmicxbt | Ravens vs. Cowboys | Ravens | 1.43 (70¢) | $26,656 | +$11,424 | ✅ Ganada |
