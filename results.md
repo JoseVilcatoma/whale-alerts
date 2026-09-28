@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 20:26:46 (hora de Perú)
+Actualizado: 2026-09-27 20:28:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3884**  ($212,229,178 en total)
+- Apuestas registradas: **3885**  ($212,275,789 en total)
 - Resueltas: **3848** — 2348 ganadas / 1500 perdidas (**61%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 478
+- Pendientes: 19
+- Apostadores distintos: 479
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 
-_(mostrando los 40 de mayor monto, de 478 en total)_
+_(mostrando los 40 de mayor monto, de 479 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omoi0i0 | Rams vs. Broncos | Rams | 1.23 (81¢) | $46,611 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Rams vs. Broncos | Rams | 1.27 (79¢) | $27,650 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Rams vs. Broncos | Rams | 1.33 (75¢) | $39,643 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Rams vs. Broncos | Rams | 1.39 (72¢) | $28,310 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 | FORTNITEMASTER888 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.61 (62¢) | $37,152 | +$22,770 | ✅ Ganada |
 | BrotherObama | Houston Astros vs. Athletics | Athletics | 2.78 (36¢) | $25,000 | -$25,000 | ❌ Perdida |
 | omnibus-076daa | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Cloud9 | 2.78 (36¢) | $25,940 | -$25,940 | ❌ Perdida |
-| Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Chicago White Sox | 1.67 (60¢) | $66,119 | +$44,079 | ✅ Ganada |

@@ -58384,5 +58384,20 @@
     "status": "pending",
     "ultimo_fill": 1790558509,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7933,
+    "timestamp": 1790558894,
+    "username": "omoi0i0",
+    "wallet": "0xb3cfe7615d64db8dfa743a1b1a2b976911460ebd",
+    "slug": "nfl-la-den-2026-09-28",
+    "title": "Rams vs. Broncos",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 46611.1422,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1790558894,
+    "fills": 1
   }
 ]
