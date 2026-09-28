@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 17:52:09 (hora de Perú)
+Actualizado: 2026-09-28 17:54:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3919**  ($213,637,498 en total)
-- Resueltas: **3897** — 2365 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **3898** — 2366 ganadas / 1532 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 480
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,858,491** sobre $212,792,783 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,449** sobre $384,200 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$1,815,291** sobre $212,839,583 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,356** sobre $384,300 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | ColdBlooded | LoL: Kaufland Hangry Knights vs Senshi Esports Club (BO1) - EMEA Masters Swiss Stage | Kaufland Hangry Knights | 1.12 (89¢) | $33,173 | +$4,100 | ✅ Ganada |
 | HectorHuang | Armenia vs. Montenegro: O/U 2.5 | Under 2.5 | 1.85 (54¢) | $26,991 | -$26,991 | ❌ Perdida |
 | Takon88 | Will Georgia win on 2026-09-28? | Yes | 2.56 (39¢) | $25,859 | -$25,859 | ❌ Perdida |
-| lfjlwkflwekfl | Will France win on 2026-09-28? | Yes | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
+| lfjlwkflwekfl | Will France win on 2026-09-28? | Yes | 1.92 (52¢) | $46,800 | +$43,200 | ✅ Ganada |
 | BrotherObama | Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs | NIP | 2.33 (43¢) | $44,000 | +$58,326 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open, Qualification: Miomir Kecmanovic vs Adrian Mannarino | Miomir Kecmanovic | 2.08 (48¢) | $28,800 | -$28,800 | ❌ Perdida |
 | lfg100k | Will Sweden win on 2026-09-28? | Yes | 2.08 (48¢) | $27,000 | +$29,250 | ✅ Ganada |
