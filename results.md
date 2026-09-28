@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 16:03:32 (hora de Perú)
+Actualizado: 2026-09-28 16:05:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3918**  ($213,609,805 en total)
+- Apuestas registradas: **3919**  ($213,637,498 en total)
 - Resueltas: **3895** — 2364 ganadas / 1531 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 480
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Columbus: Braden Shick vs Ozan Baris | Braden Shick | 1.61 (62¢) | $27,692 | — | ⏳ Pendiente |
 | Elenes | Will Sweden win on 2026-09-28? | No | 1.89 (53¢) | $28,404 | — | ⏳ Pendiente |
 | kkookkoo | Porto 2: Jerome Kym vs Tiago Torres | Tiago Torres | 1.22 (82¢) | $41,247 | -$41,247 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.35 (74¢) | $29,005 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | ethanaz | Raiders vs. Saints | Saints | 1.20 (83¢) | $77,737 | -$77,737 | ❌ Perdida |
 | YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.33 (75¢) | $27,154 | +$9,051 | ✅ Ganada |
 | dreamerwon | Ravens vs. Cowboys | Cowboys | 3.85 (26¢) | $25,000 | -$25,000 | ❌ Perdida |
-| ethanaz | Vikings vs. Buccaneers | Vikings | 1.32 (76¢) | $43,996 | +$13,893 | ✅ Ganada |
