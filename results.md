@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 21:37:44 (hora de Perú)
+Actualizado: 2026-09-27 21:39:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3889**  ($212,450,362 en total)
+- Apuestas registradas: **3890**  ($212,508,353 en total)
 - Resueltas: **3850** — 2349 ganadas / 1501 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 479
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 277 | 141 | 7 | 66% | $27,381,296 | +$936,311 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 3 | 54% | $6,642,003 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| wr0ngw4yb3tt0r | 65 | 42 | 2 | 61% | $5,998,965 | +$50,557 |
+| wr0ngw4yb3tt0r | 65 | 42 | 3 | 61% | $6,056,956 | +$50,557 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Rams vs. Broncos | Rams | 1.39 (72¢) | $57,990 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Rams vs. Broncos | Rams | 1.35 (74¢) | $36,110 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.15 (87¢) | $28,574 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos: O/U 37.5 | Under 37.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $239,354 | +$67,510 | ✅ Ganada |
 | Sassy-Bucket | Raiders vs. Saints | Raiders | 2.70 (37¢) | $72,634 | +$123,674 | ✅ Ganada |
 | ferrariChampions2026 | Seahawks vs. Commanders | Seahawks | 1.49 (67¢) | $31,843 | -$31,843 | ❌ Perdida |
-| BrotherObama | Spread: Saints (-3.5) | Raiders | 1.92 (52¢) | $53,511 | +$49,395 | ✅ Ganada |
