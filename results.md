@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 10:29:48 (hora de Perú)
+Actualizado: 2026-09-28 10:31:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3911**  ($213,396,586 en total)
+- Apuestas registradas: **3912**  ($213,429,759 en total)
 - Resueltas: **3888** — 2361 ganadas / 1527 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 480
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ColdBlooded | LoL: Kaufland Hangry Knights vs Senshi Esports Club (BO1) - EMEA Masters Swiss Stage | Kaufland Hangry Knights | 1.12 (89¢) | $33,173 | — | ⏳ Pendiente |
 | HectorHuang | Armenia vs. Montenegro: O/U 2.5 | Under 2.5 | 1.85 (54¢) | $26,991 | — | ⏳ Pendiente |
 | Takon88 | Will Georgia win on 2026-09-28? | Yes | 2.56 (39¢) | $25,859 | — | ⏳ Pendiente |
 | lfjlwkflwekfl | Will France win on 2026-09-28? | Yes | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | wr0ngw4yb3tt0r | Vikings vs. Buccaneers | Vikings | 1.43 (70¢) | $29,761 | +$12,755 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 3.33 (30¢) | $34,890 | -$34,890 | ❌ Perdida |
 | takeormake | Vikings vs. Buccaneers | Buccaneers | 2.94 (34¢) | $31,748 | -$31,748 | ❌ Perdida |
-| ferrariChampions2026 | Vikings vs. Buccaneers | Vikings | 1.47 (68¢) | $42,964 | +$20,218 | ✅ Ganada |

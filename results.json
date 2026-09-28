@@ -58791,5 +58791,20 @@
     "status": "pending",
     "ultimo_fill": 1790607379,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8002,
+    "timestamp": 1790609487,
+    "username": "ColdBlooded",
+    "wallet": "0xbcc321b6336117432f4e9d2d28b20d8b6795ac9c",
+    "slug": "lol-khk-sec-2026-09-28",
+    "title": "LoL: Kaufland Hangry Knights vs Senshi Esports Club (BO1) - EMEA Masters Swiss Stage",
+    "outcome": "Kaufland Hangry Knights",
+    "side": "BUY",
+    "usd": 33172.6318,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1790609487,
+    "fills": 1
   }
 ]
