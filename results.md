@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 22:08:50 (hora de Perú)
+Actualizado: 2026-09-27 22:10:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3895**  ($212,751,214 en total)
+- Apuestas registradas: **3896**  ($212,801,214 en total)
 - Resueltas: **3851** — 2349 ganadas / 1502 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 479
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Berniepaidoff | Rams vs. Broncos | Rams | 1.67 (60¢) | $50,000 | — | ⏳ Pendiente |
 | nuttypoo | Rams vs. Broncos | Rams | 1.49 (67¢) | $67,000 | — | ⏳ Pendiente |
 | ethanaz | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 2.22 (45¢) | $46,424 | — | ⏳ Pendiente |
 | ethanaz | Spread: Rams (-5.5) | Rams | 4.17 (24¢) | $79,057 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | gvrgb326552g65 | Ravens vs. Cowboys | Ravens | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
 | Donkey14 | Ravens vs. Cowboys | Cowboys | 2.70 (37¢) | $29,076 | -$29,076 | ❌ Perdida |
 | 177-letsgo | Seahawks vs. Commanders | Commanders | 1.08 (93¢) | $60,450 | +$4,550 | ✅ Ganada |
-| Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $68,422 | +$19,298 | ✅ Ganada |
