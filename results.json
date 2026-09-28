@@ -58671,5 +58671,20 @@
     "status": "pending",
     "ultimo_fill": 1790594003,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7990,
+    "timestamp": 1790595085,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-medvede-safiull-2026-09-28",
+    "title": "Hangzhou Open: Daniil Medvedev vs Roman Safiullin",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "usd": 39000.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1790595085,
+    "fills": 1
   }
 ]
