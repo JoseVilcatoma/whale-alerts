@@ -55966,7 +55966,7 @@
     "side": "BUY",
     "usd": 44983.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790467520,
     "fills": 1
   },
@@ -56701,7 +56701,7 @@
     "side": "BUY",
     "usd": 50607.8253,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790516186,
     "fills": 1
   },
@@ -56716,7 +56716,7 @@
     "side": "BUY",
     "usd": 29807.445,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790516344,
     "fills": 1
   },
@@ -57001,7 +57001,7 @@
     "side": "BUY",
     "usd": 85528.515,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790520892,
     "fills": 1
   },
@@ -57076,7 +57076,7 @@
     "side": "BUY",
     "usd": 39400.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790521707,
     "fills": 1
   },
@@ -57151,7 +57151,7 @@
     "side": "BUY",
     "usd": 41604.9739,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790522657,
     "fills": 1
   },
@@ -57256,7 +57256,7 @@
     "side": "BUY",
     "usd": 124205.5683,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790523742,
     "fills": 1
   },
@@ -57451,7 +57451,7 @@
     "side": "BUY",
     "usd": 95000.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790534175,
     "fills": 1
   },
@@ -58368,6 +58368,21 @@
     "odds_at_bet": 75,
     "status": "pending",
     "ultimo_fill": 1790558167,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7932,
+    "timestamp": 1790558509,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-la-den-2026-09-28",
+    "title": "Rams vs. Broncos",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 27650.0,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1790558509,
     "fills": 1
   }
 ]

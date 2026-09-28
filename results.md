@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 20:20:32 (hora de Perú)
+Actualizado: 2026-09-27 20:22:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3883**  ($212,201,528 en total)
-- Resueltas: **3840** — 2343 ganadas / 1497 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Apuestas registradas: **3884**  ($212,229,178 en total)
+- Resueltas: **3848** — 2348 ganadas / 1500 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 478
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,068,364** sobre $210,065,950 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,966** sobre $378,600 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$955,505** sobre $210,577,087 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,766** sobre $379,400 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 277 | 141 | 5 | 66% | $27,326,721 | +$936,311 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 2 | 54% | $6,558,114 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| wr0ngw4yb3tt0r | 64 | 41 | 3 | 61% | $5,962,855 | +$52,237 |
+| wr0ngw4yb3tt0r | 65 | 42 | 1 | 61% | $5,962,855 | +$50,557 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -46,21 +46,21 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 3 | 0 | 90% | $2,048,429 | +$62,817 |
-| Kch-Temp | 25 | 7 | 1 | 78% | $1,881,865 | +$1,109,421 |
+| Kch-Temp | 25 | 8 | 0 | 76% | $1,881,865 | +$1,079,614 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | raybanman | 13 | 4 | 0 | 76% | $1,730,227 | +$814,282 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 26 | 29 | 0 | 47% | $1,644,472 | -$204,878 |
-| Jsram | 15 | 17 | 3 | 47% | $1,598,878 | -$409,774 |
-| maz26 | 11 | 10 | 3 | 52% | $1,583,275 | -$158,365 |
+| Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
+| maz26 | 12 | 10 | 2 | 55% | $1,583,275 | -$109,742 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
 | Lakersfan111 | 17 | 14 | 0 | 55% | $1,311,556 | -$78,408 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
-| texaskid | 13 | 10 | 1 | 57% | $1,296,457 | +$120,253 |
+| texaskid | 13 | 11 | 0 | 54% | $1,296,457 | -$3,953 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Rams vs. Broncos | Rams | 1.27 (79¢) | $27,650 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Rams vs. Broncos | Rams | 1.33 (75¢) | $39,643 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Rams vs. Broncos | Rams | 1.39 (72¢) | $28,310 | — | ⏳ Pendiente |
 | yoyoyoyoer | Rams vs. Broncos | Rams | 1.43 (70¢) | $29,842 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 | BrotherObama | Houston Astros vs. Athletics | Athletics | 2.78 (36¢) | $25,000 | -$25,000 | ❌ Perdida |
 | omnibus-076daa | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Cloud9 | 2.78 (36¢) | $25,940 | -$25,940 | ❌ Perdida |
 | Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Chicago White Sox | 1.67 (60¢) | $66,119 | +$44,079 | ✅ Ganada |
-| cosmicxbt | Chiefs vs. Dolphins | Chiefs | 1.20 (83¢) | $132,027 | +$27,042 | ✅ Ganada |
