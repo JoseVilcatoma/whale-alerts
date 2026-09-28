@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 19:32:15 (hora de Perú)
+Actualizado: 2026-09-27 19:34:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3879**  ($212,040,969 en total)
-- Resueltas: **3837** — 2341 ganadas / 1496 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **3840** — 2343 ganadas / 1497 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 478
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,069,226** sobre $209,956,495 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,936** sobre $378,300 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$1,068,364** sobre $210,065,950 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,966** sobre $378,600 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 276 | 141 | 6 | 66% | $27,326,721 | +$932,279 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 277 | 141 | 5 | 66% | $27,326,721 | +$936,311 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 2 | 54% | $6,558,114 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 64 | 41 | 3 | 61% | $5,962,855 | +$52,237 |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
-| Lakersfan111 | 16 | 14 | 1 | 53% | $1,311,556 | -$101,179 |
+| Lakersfan111 | 17 | 14 | 0 | 55% | $1,311,556 | -$78,408 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | texaskid | 13 | 10 | 1 | 57% | $1,296,457 | +$120,253 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 | ethanaz | Vikings vs. Buccaneers | Vikings | 1.32 (76¢) | $43,996 | +$13,893 | ✅ Ganada |
 | yoyoyoyoer | Vikings vs. Buccaneers | Vikings | 1.37 (73¢) | $31,025 | +$11,475 | ✅ Ganada |
 | sifonman | Vikings vs. Buccaneers | Vikings | 1.39 (72¢) | $27,720 | +$10,780 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.09 (92¢) | $46,363 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.09 (92¢) | $46,363 | +$4,032 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Vikings vs. Buccaneers | Vikings | 1.43 (70¢) | $29,761 | +$12,755 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 3.33 (30¢) | $34,890 | -$34,890 | ❌ Perdida |
 | takeormake | Vikings vs. Buccaneers | Buccaneers | 2.94 (34¢) | $31,748 | -$31,748 | ❌ Perdida |
@@ -122,9 +122,9 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 | ferrariChampions2026 | Seahawks vs. Commanders | Seahawks | 1.49 (67¢) | $31,843 | -$31,843 | ❌ Perdida |
 | BrotherObama | Spread: Saints (-3.5) | Raiders | 1.92 (52¢) | $53,511 | — | ⏳ Pendiente |
 | xifutloong3 | Atlanta Braves vs. Miami Marlins | Miami Marlins | 1.85 (54¢) | $39,341 | +$33,513 | ✅ Ganada |
-| FORTNITEMASTER888 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.61 (62¢) | $37,152 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.61 (62¢) | $37,152 | +$22,770 | ✅ Ganada |
 | BrotherObama | Houston Astros vs. Athletics | Athletics | 2.78 (36¢) | $25,000 | -$25,000 | ❌ Perdida |
-| omnibus-076daa | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Cloud9 | 2.78 (36¢) | $25,940 | — | ⏳ Pendiente |
+| omnibus-076daa | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Cloud9 | 2.78 (36¢) | $25,940 | -$25,940 | ❌ Perdida |
 | Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Chicago White Sox | 1.67 (60¢) | $66,119 | +$44,079 | ✅ Ganada |
 | cosmicxbt | Chiefs vs. Dolphins | Chiefs | 1.20 (83¢) | $132,027 | +$27,042 | ✅ Ganada |
 | gmpm2 | Seahawks vs. Commanders | Seahawks | 2.00 (50¢) | $31,500 | -$31,500 | ❌ Perdida |
