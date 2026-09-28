@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 12:04:45 (hora de Perú)
+Actualizado: 2026-09-28 12:06:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3917**  ($213,581,402 en total)
+- Apuestas registradas: **3918**  ($213,609,805 en total)
 - Resueltas: **3888** — 2361 ganadas / 1527 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 480
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elenes | Will Sweden win on 2026-09-28? | No | 1.89 (53¢) | $28,404 | — | ⏳ Pendiente |
 | kkookkoo | Porto 2: Jerome Kym vs Tiago Torres | Tiago Torres | 1.22 (82¢) | $41,247 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.35 (74¢) | $29,005 | — | ⏳ Pendiente |
 | kkookkoo | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.22 (82¢) | $30,992 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.33 (75¢) | $27,154 | +$9,051 | ✅ Ganada |
 | dreamerwon | Ravens vs. Cowboys | Cowboys | 3.85 (26¢) | $25,000 | -$25,000 | ❌ Perdida |
 | ethanaz | Vikings vs. Buccaneers | Vikings | 1.32 (76¢) | $43,996 | +$13,893 | ✅ Ganada |
-| yoyoyoyoer | Vikings vs. Buccaneers | Vikings | 1.37 (73¢) | $31,025 | +$11,475 | ✅ Ganada |
