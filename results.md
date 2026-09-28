@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 00:20:39 (hora de Perú)
+Actualizado: 2026-09-28 00:22:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3898**  ($212,885,338 en total)
-- Resueltas: **3870** — 2353 ganadas / 1517 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **3871** — 2353 ganadas / 1518 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 479
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,698,429** sobre $211,821,908 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,836** sobre $381,500 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,724,429** sobre $211,847,907 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,936** sobre $381,600 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 278 | 145 | 6 | 66% | $27,515,800 | +$820,032 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 278 | 146 | 5 | 66% | $27,515,800 | +$794,032 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 74 | 2 | 53% | $6,642,003 | -$345,771 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 65 | 44 | 1 | 60% | $6,056,956 | -$43,544 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | wr0ngw4yb3tt0r | Rams vs. Broncos | Rams | 1.39 (72¢) | $57,990 | -$57,990 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Rams vs. Broncos | Rams | 1.35 (74¢) | $36,110 | -$36,110 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.15 (87¢) | $28,574 | -$28,574 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos: O/U 37.5 | Under 37.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos: O/U 37.5 | Under 37.5 | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos | Rams | 1.12 (89¢) | $83,889 | -$83,889 | ❌ Perdida |
 | omoi0i0 | Rams vs. Broncos | Rams | 1.23 (81¢) | $46,611 | -$46,611 | ❌ Perdida |
 | TAIWANNUMBERONE | Rams vs. Broncos | Rams | 1.27 (79¢) | $27,650 | -$27,650 | ❌ Perdida |
