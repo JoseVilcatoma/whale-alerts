@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 06:44:49 (hora de Perú)
+Actualizado: 2026-09-28 06:46:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3904**  ($213,165,993 en total)
+- Apuestas registradas: **3905**  ($213,197,136 en total)
 - Resueltas: **3884** — 2358 ganadas / 1526 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 479
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 280 | 148 | 4 | 65% | $27,636,099 | +$812,205 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 280 | 148 | 5 | 65% | $27,667,242 | +$812,205 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 76 | 0 | 52% | $6,642,003 | -$428,990 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 66 | 44 | 0 | 60% | $6,056,956 | -$8,266 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chengdu Open: Hubert Hurkacz vs Denis Shapovalov | Hubert Hurkacz | 1.67 (60¢) | $31,143 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Daniil Medvedev vs Roman Safiullin | Daniil Medvedev | 1.54 (65¢) | $39,000 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Bari: Federico Arnaboldi vs Svyatoslav Gulin | Federico Arnaboldi | 1.25 (80¢) | $87,674 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Taro Daniel | Taro Daniel | 2.04 (49¢) | $26,595 | -$26,595 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Ravens vs. Cowboys | Cowboys | 1.52 (66¢) | $66,000 | -$66,000 | ❌ Perdida |
 | ferrariChampions2026 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $29,581 | -$29,581 | ❌ Perdida |
 | 177-letsgo | Houston Astros vs. Athletics | Houston Astros | 1.08 (93¢) | $32,012 | +$2,410 | ✅ Ganada |
-| ndb1 | Vikings vs. Buccaneers | Vikings | 1.89 (53¢) | $29,845 | +$26,467 | ✅ Ganada |
