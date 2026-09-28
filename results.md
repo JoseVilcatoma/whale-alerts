@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 20:01:35 (hora de Perú)
+Actualizado: 2026-09-27 20:03:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3880**  ($212,103,733 en total)
+- Apuestas registradas: **3881**  ($212,133,575 en total)
 - Resueltas: **3840** — 2343 ganadas / 1497 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 478
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yoyoyoyoer | Rams vs. Broncos | Rams | 1.43 (70¢) | $29,842 | — | ⏳ Pendiente |
 | cosmicxbt | Rams vs. Broncos | Rams | 1.54 (65¢) | $62,763 | — | ⏳ Pendiente |
 | gmpm2 | Rams vs. Broncos | Broncos | 2.00 (50¢) | $73,375 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 2.00 (50¢) | $60,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 | cosmicxbt | Chiefs vs. Dolphins | Chiefs | 1.20 (83¢) | $132,027 | +$27,042 | ✅ Ganada |
 | gmpm2 | Seahawks vs. Commanders | Seahawks | 2.00 (50¢) | $31,500 | -$31,500 | ❌ Perdida |
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $95,000 | — | ⏳ Pendiente |
-| Kch-Temp | Texans vs. Colts | Colts | 2.13 (47¢) | $65,794 | +$74,193 | ✅ Ganada |
