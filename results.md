@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 20:53:55 (hora de Perú)
+Actualizado: 2026-09-27 20:56:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3885**  ($212,275,789 en total)
-- Resueltas: **3848** — 2348 ganadas / 1500 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **3850** — 2349 ganadas / 1501 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 479
 
 ### Balance
 
-- **Resultado de los apostadores: -$955,505** sobre $210,577,087 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,766** sobre $379,400 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$1,167,402** sobre $210,891,890 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$5,774** sobre $379,600 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 40 | 27 | 3 | 60% | $2,712,352 | -$566,782 |
-| BrotherObama | 27 | 26 | 3 | 51% | $2,640,745 | +$295,813 |
+| BrotherObama | 28 | 26 | 2 | 52% | $2,640,745 | +$345,208 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 26 | 29 | 0 | 47% | $1,644,472 | -$204,878 |
 | Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
-| maz26 | 12 | 10 | 2 | 55% | $1,583,275 | -$109,742 |
+| maz26 | 12 | 11 | 1 | 52% | $1,583,275 | -$371,033 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -115,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | ferrariChampions2026 | Vikings vs. Buccaneers | Buccaneers | 2.22 (45¢) | $26,690 | -$26,690 | ❌ Perdida |
 | LTandBB | Raiders vs. Saints | Saints | 1.54 (65¢) | $32,500 | -$32,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Commanders | Commanders | 1.23 (81¢) | $79,490 | +$18,646 | ✅ Ganada |
-| gmpm2 | Spread: Saints (-3.5) | Saints | 1.92 (52¢) | $261,292 | — | ⏳ Pendiente |
+| gmpm2 | Spread: Saints (-3.5) | Saints | 1.92 (52¢) | $261,292 | -$261,292 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cowboys (-3.5) | Ravens | 1.35 (74¢) | $67,968 | +$23,881 | ✅ Ganada |
 | gvrgb326552g65 | Ravens vs. Cowboys | Ravens | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
 | Donkey14 | Ravens vs. Cowboys | Cowboys | 2.70 (37¢) | $29,076 | -$29,076 | ❌ Perdida |
@@ -126,7 +126,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | Sassy-Bucket | Cardinals vs. 49ers | 49ers | 1.28 (78¢) | $239,354 | +$67,510 | ✅ Ganada |
 | Sassy-Bucket | Raiders vs. Saints | Raiders | 2.70 (37¢) | $72,634 | +$123,674 | ✅ Ganada |
 | ferrariChampions2026 | Seahawks vs. Commanders | Seahawks | 1.49 (67¢) | $31,843 | -$31,843 | ❌ Perdida |
-| BrotherObama | Spread: Saints (-3.5) | Raiders | 1.92 (52¢) | $53,511 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Saints (-3.5) | Raiders | 1.92 (52¢) | $53,511 | +$49,395 | ✅ Ganada |
 | xifutloong3 | Atlanta Braves vs. Miami Marlins | Miami Marlins | 1.85 (54¢) | $39,341 | +$33,513 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.61 (62¢) | $37,152 | +$22,770 | ✅ Ganada |
 | BrotherObama | Houston Astros vs. Athletics | Athletics | 2.78 (36¢) | $25,000 | -$25,000 | ❌ Perdida |
