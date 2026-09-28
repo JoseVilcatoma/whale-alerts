@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 17:43:57 (hora de Perú)
+Actualizado: 2026-09-28 17:46:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3919**  ($213,637,498 en total)
-- Resueltas: **3895** — 2364 ganadas / 1531 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **3897** — 2365 ganadas / 1532 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 480
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,859,337** sobre $212,737,379 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,457** sobre $384,000 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$1,858,491** sobre $212,792,783 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,449** sobre $384,200 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | kkookkoo | Columbus: Braden Shick vs Ozan Baris | Braden Shick | 1.61 (62¢) | $27,692 | — | ⏳ Pendiente |
-| Elenes | Will Sweden win on 2026-09-28? | No | 1.89 (53¢) | $28,404 | — | ⏳ Pendiente |
+| Elenes | Will Sweden win on 2026-09-28? | No | 1.89 (53¢) | $28,404 | -$28,404 | ❌ Perdida |
 | kkookkoo | Porto 2: Jerome Kym vs Tiago Torres | Tiago Torres | 1.22 (82¢) | $41,247 | -$41,247 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.35 (74¢) | $29,005 | — | ⏳ Pendiente |
 | kkookkoo | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.22 (82¢) | $30,992 | — | ⏳ Pendiente |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | lfjlwkflwekfl | Will France win on 2026-09-28? | Yes | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs | NIP | 2.33 (43¢) | $44,000 | +$58,326 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open, Qualification: Miomir Kecmanovic vs Adrian Mannarino | Miomir Kecmanovic | 2.08 (48¢) | $28,800 | -$28,800 | ❌ Perdida |
-| lfg100k | Will Sweden win on 2026-09-28? | Yes | 2.08 (48¢) | $27,000 | — | ⏳ Pendiente |
+| lfg100k | Will Sweden win on 2026-09-28? | Yes | 2.08 (48¢) | $27,000 | +$29,250 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chengdu Open: Hubert Hurkacz vs Denis Shapovalov | Hubert Hurkacz | 1.67 (60¢) | $31,143 | +$20,762 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Daniil Medvedev vs Roman Safiullin | Daniil Medvedev | 1.54 (65¢) | $39,000 | +$21,000 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Bari: Federico Arnaboldi vs Svyatoslav Gulin | Federico Arnaboldi | 1.25 (80¢) | $87,674 | +$21,918 | ✅ Ganada |
