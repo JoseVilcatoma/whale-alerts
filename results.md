@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 00:31:09 (hora de Perú)
+Actualizado: 2026-09-28 00:33:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3898**  ($212,885,338 en total)
+- Apuestas registradas: **3899**  ($212,913,363 en total)
 - Resueltas: **3879** — 2355 ganadas / 1524 perdidas (**61%** de acierto)
-- Pendientes: 1
+- Pendientes: 2
 - Apostadores distintos: 479
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HectorHuang | Japan Open Tennis Championships, Qualification: Jaume Munar vs Marcos Giron | Marcos Giron | 2.44 (41¢) | $28,025 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Open Tennis Championships, Qualification: Arthur Fils vs Martin Damm | Arthur Fils | 1.28 (78¢) | $46,800 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.54 (65¢) | $37,324 | -$37,324 | ❌ Perdida |
 | Berniepaidoff | Rams vs. Broncos | Rams | 1.67 (60¢) | $50,000 | -$50,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Commanders | Commanders | 1.23 (81¢) | $79,490 | +$18,646 | ✅ Ganada |
 | gmpm2 | Spread: Saints (-3.5) | Saints | 1.92 (52¢) | $261,292 | -$261,292 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cowboys (-3.5) | Ravens | 1.35 (74¢) | $67,968 | +$23,881 | ✅ Ganada |
-| gvrgb326552g65 | Ravens vs. Cowboys | Ravens | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
