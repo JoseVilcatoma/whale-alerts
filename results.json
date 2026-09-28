@@ -58219,5 +58219,35 @@
     "status": "pending",
     "ultimo_fill": 1790553800,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7911,
+    "timestamp": 1790554240,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-la-den-2026-09-28-total-44pt5",
+    "title": "Rams vs. Broncos: O/U 44.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 30050.999600000003,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1790554240,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 7912,
+    "timestamp": 1790554241,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-la-den-2026-09-28-total-46pt5",
+    "title": "Rams vs. Broncos: O/U 46.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 25370.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1790554241,
+    "fills": 1
   }
 ]
