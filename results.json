@@ -58656,5 +58656,20 @@
     "status": "lost",
     "ultimo_fill": 1790584776,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 7989,
+    "timestamp": 1790594061,
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "wallet": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+    "slug": "atp-arnabol-gulin-2026-09-28",
+    "title": "Bari: Federico Arnaboldi vs Svyatoslav Gulin",
+    "outcome": "Federico Arnaboldi",
+    "side": "BUY",
+    "usd": 87673.54689964664,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1790594003,
+    "fills": 2
   }
 ]

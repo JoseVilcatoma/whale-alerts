@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 06:26:30 (hora de Perú)
+Actualizado: 2026-09-28 06:28:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3902**  ($213,039,319 en total)
+- Apuestas registradas: **3903**  ($213,126,993 en total)
 - Resueltas: **3884** — 2358 ganadas / 1526 perdidas (**61%** de acierto)
-- Pendientes: 0
+- Pendientes: 1
 - Apostadores distintos: 479
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Bari: Federico Arnaboldi vs Svyatoslav Gulin | Federico Arnaboldi | 1.25 (80¢) | $87,674 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Taro Daniel | Taro Daniel | 2.04 (49¢) | $26,595 | -$26,595 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open, Qualification: Yannick Hanfmann vs Tomas Machac | Tomas Machac | 2.04 (49¢) | $54,704 | +$56,937 | ✅ Ganada |
 | jaytee158 | LoL: T1 Academy vs Cupid Esports (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.08 (93¢) | $44,657 | +$3,361 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | 177-letsgo | Houston Astros vs. Athletics | Houston Astros | 1.08 (93¢) | $32,012 | +$2,410 | ✅ Ganada |
 | ndb1 | Vikings vs. Buccaneers | Vikings | 1.89 (53¢) | $29,845 | +$26,467 | ✅ Ganada |
 | ferrariChampions2026 | Vikings vs. Buccaneers | Buccaneers | 2.22 (45¢) | $26,690 | -$26,690 | ❌ Perdida |
-| LTandBB | Raiders vs. Saints | Saints | 1.54 (65¢) | $32,500 | -$32,500 | ❌ Perdida |
