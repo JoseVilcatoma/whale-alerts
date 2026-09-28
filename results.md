@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 07:31:44 (hora de Perú)
+Actualizado: 2026-09-28 07:33:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3905**  ($213,197,136 en total)
+- Apuestas registradas: **3906**  ($213,224,136 en total)
 - Resueltas: **3885** — 2359 ganadas / 1526 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 479
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lfg100k | Will Sweden win on 2026-09-28? | Yes | 2.08 (48¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chengdu Open: Hubert Hurkacz vs Denis Shapovalov | Hubert Hurkacz | 1.67 (60¢) | $31,143 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Daniil Medvedev vs Roman Safiullin | Daniil Medvedev | 1.54 (65¢) | $39,000 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Bari: Federico Arnaboldi vs Svyatoslav Gulin | Federico Arnaboldi | 1.25 (80¢) | $87,674 | +$21,918 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 3.33 (30¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Ravens vs. Cowboys | Cowboys | 1.52 (66¢) | $66,000 | -$66,000 | ❌ Perdida |
 | ferrariChampions2026 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $29,581 | -$29,581 | ❌ Perdida |
-| 177-letsgo | Houston Astros vs. Athletics | Houston Astros | 1.08 (93¢) | $32,012 | +$2,410 | ✅ Ganada |
