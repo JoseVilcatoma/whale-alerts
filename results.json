@@ -58641,5 +58641,20 @@
     "status": "won",
     "ultimo_fill": 1790575403,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 7984,
+    "timestamp": 1790584776,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-vallejo-daniel-2026-09-28",
+    "title": "Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Taro Daniel",
+    "outcome": "Taro Daniel",
+    "side": "BUY",
+    "usd": 26594.628173,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1790584776,
+    "fills": 1
   }
 ]
