@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 19:00:44 (hora de Perú)
+Actualizado: 2026-09-27 19:02:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3868**  ($211,602,115 en total)
+- Apuestas registradas: **3871**  ($211,725,272 en total)
 - Resueltas: **3816** — 2331 ganadas / 1485 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 37
 - Apostadores distintos: 477
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 138 | 8 | 67% | $27,241,351 | +$1,005,916 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 0 | 54% | $6,474,895 | -$261,882 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 1 | 54% | $6,531,707 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 64 | 41 | 2 | 61% | $5,932,804 | +$52,237 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| ferrariChampions2026 | 39 | 26 | 3 | 60% | $2,644,399 | -$555,641 |
 | BrotherObama | 27 | 26 | 3 | 51% | $2,640,745 | +$295,813 |
-| ferrariChampions2026 | 39 | 26 | 2 | 60% | $2,619,129 | -$555,641 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Rams vs. Broncos: O/U 45.5 | Under 45.5 | 1.75 (57¢) | $41,075 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $56,812 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Rams vs. Broncos: O/U 45.5 | Over 45.5 | 2.27 (44¢) | $25,270 | — | ⏳ Pendiente |
 | 3648393489047 | Ravens vs. Cowboys | Ravens | 1.79 (56¢) | $45,355 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $32,628 | — | ⏳ Pendiente |
 | Berniepaidoff | Ravens vs. Cowboys | Ravens | 1.45 (69¢) | $50,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $31,786 | +$24,974 | ✅ Ganada |
 | taylorsversion | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $108,958 | +$72,638 | ✅ Ganada |
 | ratatatatatatatataaaa | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $192,000 | +$128,000 | ✅ Ganada |
-| WanderingWombat | Patriots vs. Jaguars | Patriots | 2.50 (40¢) | $39,938 | -$39,938 | ❌ Perdida |
-| COMEONDUDE | Spread: Bills (-7.5) | Bills | 2.13 (47¢) | $32,251 | +$36,368 | ✅ Ganada |
-| texaskid | Spread: 49ers (-7.5) | 49ers | 1.96 (51¢) | $124,206 | — | ⏳ Pendiente |
