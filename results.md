@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 08:47:24 (hora de Perú)
+Actualizado: 2026-09-28 08:49:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3907**  ($213,252,936 en total)
+- Apuestas registradas: **3908**  ($213,296,936 en total)
 - Resueltas: **3886** — 2359 ganadas / 1527 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 479
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 41 | 29 | 0 | 59% | $2,712,352 | -$602,573 |
-| BrotherObama | 28 | 26 | 2 | 52% | $2,640,745 | +$345,208 |
+| BrotherObama | 28 | 26 | 3 | 52% | $2,684,745 | +$345,208 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | ethanaz | 30 | 13 | 0 | 70% | $2,587,606 | -$202,309 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs | NIP | 2.33 (43¢) | $44,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open, Qualification: Miomir Kecmanovic vs Adrian Mannarino | Miomir Kecmanovic | 2.08 (48¢) | $28,800 | -$28,800 | ❌ Perdida |
 | lfg100k | Will Sweden win on 2026-09-28? | Yes | 2.08 (48¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chengdu Open: Hubert Hurkacz vs Denis Shapovalov | Hubert Hurkacz | 1.67 (60¢) | $31,143 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 479 en total)_
 | ferrariChampions2026 | Raiders vs. Saints | Raiders | 1.64 (61¢) | $28,841 | +$18,439 | ✅ Ganada |
 | cosmicxbt | Ravens vs. Cowboys | Ravens | 1.43 (70¢) | $26,656 | +$11,424 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 3.33 (30¢) | $30,000 | -$30,000 | ❌ Perdida |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Ravens vs. Cowboys | Cowboys | 1.52 (66¢) | $66,000 | -$66,000 | ❌ Perdida |
