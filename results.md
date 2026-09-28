@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 20:10:00 (hora de Perú)
+Actualizado: 2026-09-27 20:12:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3881**  ($212,133,575 en total)
+- Apuestas registradas: **3882**  ($212,161,885 en total)
 - Resueltas: **3840** — 2343 ganadas / 1497 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 478
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 40 | 27 | 1 | 60% | $2,644,399 | -$566,782 |
+| ferrariChampions2026 | 40 | 27 | 2 | 60% | $2,672,710 | -$566,782 |
 | BrotherObama | 27 | 26 | 3 | 51% | $2,640,745 | +$295,813 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Rams vs. Broncos | Rams | 1.39 (72¢) | $28,310 | — | ⏳ Pendiente |
 | yoyoyoyoer | Rams vs. Broncos | Rams | 1.43 (70¢) | $29,842 | — | ⏳ Pendiente |
 | cosmicxbt | Rams vs. Broncos | Rams | 1.54 (65¢) | $62,763 | — | ⏳ Pendiente |
 | gmpm2 | Rams vs. Broncos | Broncos | 2.00 (50¢) | $73,375 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 | Sassy-Bucket | Colorado Rockies vs. Chicago White Sox | Chicago White Sox | 1.67 (60¢) | $66,119 | +$44,079 | ✅ Ganada |
 | cosmicxbt | Chiefs vs. Dolphins | Chiefs | 1.20 (83¢) | $132,027 | +$27,042 | ✅ Ganada |
 | gmpm2 | Seahawks vs. Commanders | Seahawks | 2.00 (50¢) | $31,500 | -$31,500 | ❌ Perdida |
-| Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $95,000 | — | ⏳ Pendiente |
