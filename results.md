@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 19:07:01 (hora de Perú)
+Actualizado: 2026-09-27 19:09:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3873**  ($211,795,767 en total)
-- Resueltas: **3836** — 2340 ganadas / 1496 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **3837** — 2341 ganadas / 1496 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 478
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,093,106** sobre $209,888,527 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,972** sobre $378,200 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$1,069,226** sobre $209,956,495 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,936** sobre $378,300 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 275 | 141 | 5 | 66% | $27,241,351 | +$908,398 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 276 | 141 | 4 | 66% | $27,241,351 | +$932,279 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 1 | 54% | $6,531,707 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 64 | 41 | 2 | 61% | $5,932,804 | +$52,237 |
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 | LTandBB | Raiders vs. Saints | Saints | 1.54 (65¢) | $32,500 | -$32,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Commanders | Commanders | 1.23 (81¢) | $79,490 | +$18,646 | ✅ Ganada |
 | gmpm2 | Spread: Saints (-3.5) | Saints | 1.92 (52¢) | $261,292 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cowboys (-3.5) | Ravens | 1.35 (74¢) | $67,968 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cowboys (-3.5) | Ravens | 1.35 (74¢) | $67,968 | +$23,881 | ✅ Ganada |
 | gvrgb326552g65 | Ravens vs. Cowboys | Ravens | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
 | Donkey14 | Ravens vs. Cowboys | Cowboys | 2.70 (37¢) | $29,076 | -$29,076 | ❌ Perdida |
 | 177-letsgo | Seahawks vs. Commanders | Commanders | 1.08 (93¢) | $60,450 | +$4,550 | ✅ Ganada |
