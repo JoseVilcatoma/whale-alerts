@@ -58851,5 +58851,35 @@
     "status": "pending",
     "ultimo_fill": 1790613616,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8006,
+    "timestamp": 1790614868,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-efremov-kubka-2026-09-28",
+    "title": "Adana: Ksenia Efremova vs Martyna Kubka",
+    "outcome": "Martyna Kubka",
+    "side": "BUY",
+    "usd": 29005.447,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1790614868,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8007,
+    "timestamp": 1790614916,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "atp-kym-torre-2026-09-28",
+    "title": "Porto 2: Jerome Kym vs Tiago Torres",
+    "outcome": "Tiago Torres",
+    "side": "BUY",
+    "usd": 41247.3832,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1790614916,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 12:00:36 (hora de Perú)
+Actualizado: 2026-09-28 12:02:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3915**  ($213,511,149 en total)
+- Apuestas registradas: **3917**  ($213,581,402 en total)
 - Resueltas: **3888** — 2361 ganadas / 1527 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 11
 - Apostadores distintos: 480
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 282 | 149 | 3 | 65% | $27,696,042 | +$825,167 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 282 | 149 | 4 | 65% | $27,725,048 | +$825,167 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 76 | 0 | 52% | $6,642,003 | -$428,990 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 66 | 44 | 0 | 60% | $6,056,956 | -$8,266 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Porto 2: Jerome Kym vs Tiago Torres | Tiago Torres | 1.22 (82¢) | $41,247 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.35 (74¢) | $29,005 | — | ⏳ Pendiente |
 | kkookkoo | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.22 (82¢) | $30,992 | — | ⏳ Pendiente |
 | 0x760f…326a | Porto 2: Jerome Kym vs Tiago Torres | Jerome Kym | 2.04 (49¢) | $25,013 | — | ⏳ Pendiente |
 | ptrck7 | Will Georgia win on 2026-09-28? | Yes | 2.22 (45¢) | $25,385 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | dreamerwon | Ravens vs. Cowboys | Cowboys | 3.85 (26¢) | $25,000 | -$25,000 | ❌ Perdida |
 | ethanaz | Vikings vs. Buccaneers | Vikings | 1.32 (76¢) | $43,996 | +$13,893 | ✅ Ganada |
 | yoyoyoyoer | Vikings vs. Buccaneers | Vikings | 1.37 (73¢) | $31,025 | +$11,475 | ✅ Ganada |
-| sifonman | Vikings vs. Buccaneers | Vikings | 1.39 (72¢) | $27,720 | +$10,780 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs | Team Liquid | 1.09 (92¢) | $46,363 | +$4,032 | ✅ Ganada |
