@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 19:02:53 (hora de Perú)
+Actualizado: 2026-09-27 19:04:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3871**  ($211,725,272 en total)
+- Apuestas registradas: **3872**  ($211,754,269 en total)
 - Resueltas: **3816** — 2331 ganadas / 1485 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 477
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nigiri99 | Rams vs. Broncos: O/U 45.5 | Under 45.5 | 1.72 (58¢) | $28,997 | — | ⏳ Pendiente |
 | mooseborzoi | Rams vs. Broncos: O/U 45.5 | Under 45.5 | 1.75 (57¢) | $41,075 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $56,812 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Rams vs. Broncos: O/U 45.5 | Over 45.5 | 2.27 (44¢) | $25,270 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 477 en total)_
 | HectorHuang | Spread: Netherlands (-1.5) | Netherlands | 2.13 (47¢) | $29,000 | -$29,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Giants | Giants | 1.79 (56¢) | $31,786 | +$24,974 | ✅ Ganada |
 | taylorsversion | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $108,958 | +$72,638 | ✅ Ganada |
-| ratatatatatatatataaaa | Patriots vs. Jaguars | Jaguars | 1.67 (60¢) | $192,000 | +$128,000 | ✅ Ganada |
