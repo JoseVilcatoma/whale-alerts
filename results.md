@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 12:17:12 (hora de Perú)
+Actualizado: 2026-09-28 16:01:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3918**  ($213,609,805 en total)
-- Resueltas: **3888** — 2361 ganadas / 1527 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **3895** — 2364 ganadas / 1531 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 480
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,828,314** sobre $212,515,711 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,306** sobre $383,300 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$1,859,337** sobre $212,737,379 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,457** sobre $384,000 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 41 | 29 | 0 | 59% | $2,712,352 | -$602,573 |
-| BrotherObama | 28 | 26 | 3 | 52% | $2,684,745 | +$345,208 |
+| BrotherObama | 29 | 26 | 2 | 53% | $2,684,745 | +$403,534 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | ethanaz | 30 | 13 | 0 | 70% | $2,587,606 | -$202,309 |
@@ -72,16 +72,16 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Elenes | Will Sweden win on 2026-09-28? | No | 1.89 (53¢) | $28,404 | — | ⏳ Pendiente |
-| kkookkoo | Porto 2: Jerome Kym vs Tiago Torres | Tiago Torres | 1.22 (82¢) | $41,247 | — | ⏳ Pendiente |
+| kkookkoo | Porto 2: Jerome Kym vs Tiago Torres | Tiago Torres | 1.22 (82¢) | $41,247 | -$41,247 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.35 (74¢) | $29,005 | — | ⏳ Pendiente |
 | kkookkoo | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.22 (82¢) | $30,992 | — | ⏳ Pendiente |
-| 0x760f…326a | Porto 2: Jerome Kym vs Tiago Torres | Jerome Kym | 2.04 (49¢) | $25,013 | — | ⏳ Pendiente |
-| ptrck7 | Will Georgia win on 2026-09-28? | Yes | 2.22 (45¢) | $25,385 | — | ⏳ Pendiente |
-| ColdBlooded | LoL: Kaufland Hangry Knights vs Senshi Esports Club (BO1) - EMEA Masters Swiss Stage | Kaufland Hangry Knights | 1.12 (89¢) | $33,173 | — | ⏳ Pendiente |
-| HectorHuang | Armenia vs. Montenegro: O/U 2.5 | Under 2.5 | 1.85 (54¢) | $26,991 | — | ⏳ Pendiente |
-| Takon88 | Will Georgia win on 2026-09-28? | Yes | 2.56 (39¢) | $25,859 | — | ⏳ Pendiente |
+| 0x760f…326a | Porto 2: Jerome Kym vs Tiago Torres | Jerome Kym | 2.04 (49¢) | $25,013 | +$26,034 | ✅ Ganada |
+| ptrck7 | Will Georgia win on 2026-09-28? | Yes | 2.22 (45¢) | $25,385 | -$25,385 | ❌ Perdida |
+| ColdBlooded | LoL: Kaufland Hangry Knights vs Senshi Esports Club (BO1) - EMEA Masters Swiss Stage | Kaufland Hangry Knights | 1.12 (89¢) | $33,173 | +$4,100 | ✅ Ganada |
+| HectorHuang | Armenia vs. Montenegro: O/U 2.5 | Under 2.5 | 1.85 (54¢) | $26,991 | -$26,991 | ❌ Perdida |
+| Takon88 | Will Georgia win on 2026-09-28? | Yes | 2.56 (39¢) | $25,859 | -$25,859 | ❌ Perdida |
 | lfjlwkflwekfl | Will France win on 2026-09-28? | Yes | 1.92 (52¢) | $46,800 | — | ⏳ Pendiente |
-| BrotherObama | Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs | NIP | 2.33 (43¢) | $44,000 | — | ⏳ Pendiente |
+| BrotherObama | Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs | NIP | 2.33 (43¢) | $44,000 | +$58,326 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open, Qualification: Miomir Kecmanovic vs Adrian Mannarino | Miomir Kecmanovic | 2.08 (48¢) | $28,800 | -$28,800 | ❌ Perdida |
 | lfg100k | Will Sweden win on 2026-09-28? | Yes | 2.08 (48¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chengdu Open: Hubert Hurkacz vs Denis Shapovalov | Hubert Hurkacz | 1.67 (60¢) | $31,143 | +$20,762 | ✅ Ganada |
