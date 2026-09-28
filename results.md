@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 19:19:36 (hora de Perú)
+Actualizado: 2026-09-27 19:21:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3876**  ($211,877,594 en total)
+- Apuestas registradas: **3879**  ($212,040,969 en total)
 - Resueltas: **3837** — 2341 ganadas / 1496 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 24
 - Apostadores distintos: 478
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 276 | 141 | 5 | 66% | $27,266,721 | +$932,279 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 276 | 141 | 6 | 66% | $27,326,721 | +$932,279 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 2 | 54% | $6,558,114 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 64 | 41 | 3 | 61% | $5,962,855 | +$52,237 |
@@ -53,8 +53,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 26 | 29 | 0 | 47% | $1,644,472 | -$204,878 |
 | Jsram | 15 | 17 | 3 | 47% | $1,598,878 | -$409,774 |
+| maz26 | 11 | 10 | 3 | 52% | $1,583,275 | -$158,365 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
-| maz26 | 11 | 10 | 2 | 52% | $1,509,900 | -$158,365 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Rams vs. Broncos | Broncos | 2.00 (50¢) | $73,375 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 2.00 (50¢) | $60,000 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Rams vs. Broncos | Broncos | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 1.89 (53¢) | $26,407 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos: O/U 46.5 | Under 46.5 | 1.69 (59¢) | $25,370 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Rams vs. Broncos: O/U 44.5 | Over 44.5 | 2.17 (46¢) | $30,051 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 | Jsram | Spread: 49ers (-7.5) | Cardinals | 2.00 (50¢) | $95,000 | — | ⏳ Pendiente |
 | Kch-Temp | Texans vs. Colts | Colts | 2.13 (47¢) | $65,794 | +$74,193 | ✅ Ganada |
 | taylorsversion | Spread: Seahawks (-7.5) | Seahawks | 1.92 (52¢) | $28,080 | -$28,080 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-7.5) | Commanders | 2.08 (48¢) | $25,920 | +$28,080 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Panthers vs. Browns | Browns | 2.17 (46¢) | $155,289 | +$182,295 | ✅ Ganada |
-| SDTrading | Arizona Diamondbacks vs. San Diego Padres | Arizona Diamondbacks | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
