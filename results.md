@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 18:22:40 (hora de Perú)
+Actualizado: 2026-09-28 18:24:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3919**  ($213,637,498 en total)
-- Resueltas: **3898** — 2366 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 480
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,815,291** sobre $212,839,583 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,356** sobre $384,300 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$1,798,318** sobre $212,867,275 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,295** sobre $384,400 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| kkookkoo | Columbus: Braden Shick vs Ozan Baris | Braden Shick | 1.61 (62¢) | $27,692 | — | ⏳ Pendiente |
+| kkookkoo | Columbus: Braden Shick vs Ozan Baris | Braden Shick | 1.61 (62¢) | $27,692 | +$16,973 | ✅ Ganada |
 | Elenes | Will Sweden win on 2026-09-28? | No | 1.89 (53¢) | $28,404 | -$28,404 | ❌ Perdida |
 | kkookkoo | Porto 2: Jerome Kym vs Tiago Torres | Tiago Torres | 1.22 (82¢) | $41,247 | -$41,247 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.35 (74¢) | $29,005 | — | ⏳ Pendiente |
