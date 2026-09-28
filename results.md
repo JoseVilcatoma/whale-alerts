@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-27 19:11:13 (hora de Perú)
+Actualizado: 2026-09-27 19:13:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3875**  ($211,851,188 en total)
+- Apuestas registradas: **3876**  ($211,877,594 en total)
 - Resueltas: **3837** — 2341 ganadas / 1496 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 478
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 276 | 141 | 5 | 66% | $27,266,721 | +$932,279 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 1 | 54% | $6,531,707 | -$261,882 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 73 | 2 | 54% | $6,558,114 | -$261,882 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 64 | 41 | 3 | 61% | $5,962,855 | +$52,237 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 1.89 (53¢) | $26,407 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos: O/U 46.5 | Under 46.5 | 1.69 (59¢) | $25,370 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Rams vs. Broncos: O/U 44.5 | Over 44.5 | 2.17 (46¢) | $30,051 | — | ⏳ Pendiente |
 | btystu | Rams vs. Broncos | Broncos | 2.00 (50¢) | $41,498 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 478 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-7.5) | Commanders | 2.08 (48¢) | $25,920 | +$28,080 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Panthers vs. Browns | Browns | 2.17 (46¢) | $155,289 | +$182,295 | ✅ Ganada |
 | SDTrading | Arizona Diamondbacks vs. San Diego Padres | Arizona Diamondbacks | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
-| Kch-Temp | Spread: Seahawks (-8.5) | Commanders | 1.92 (52¢) | $83,688 | +$77,250 | ✅ Ganada |
