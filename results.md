@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 07:16:06 (hora de Perú)
+Actualizado: 2026-09-29 07:18:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3946**  ($214,934,840 en total)
+- Apuestas registradas: **3947**  ($215,001,449 en total)
 - Resueltas: **3924** — 2385 ganadas / 1539 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 482
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 482 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 110thst | Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B | Natus Vincere | 2.00 (50¢) | $66,609 | — | ⏳ Pendiente |
 | BrotherObama | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.22 (45¢) | $34,974 | — | ⏳ Pendiente |
 | Diabolical-Prize | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.27 (44¢) | $45,758 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Jaime Faria | Adolfo Vallejo | 2.27 (44¢) | $34,338 | +$43,704 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 482 en total)_
 | wr0ngw4yb3tt0r | Rams vs. Broncos | Rams | 1.39 (72¢) | $57,990 | -$57,990 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Rams vs. Broncos | Rams | 1.35 (74¢) | $36,110 | -$36,110 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.15 (87¢) | $28,574 | -$28,574 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos: O/U 37.5 | Under 37.5 | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
