@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 19:37:55 (hora de Perú)
+Actualizado: 2026-09-28 19:39:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3922**  ($213,812,570 en total)
+- Apuestas registradas: **3923**  ($213,860,248 en total)
 - Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 480
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 41 | 29 | 0 | 59% | $2,712,352 | -$602,573 |
+| ferrariChampions2026 | 41 | 29 | 1 | 59% | $2,760,031 | -$602,573 |
 | BrotherObama | 29 | 26 | 2 | 53% | $2,684,745 | +$403,534 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Eagles vs. Bears | Bears | 1.67 (60¢) | $47,678 | — | ⏳ Pendiente |
 | sulumos | Eagles vs. Bears | Bears | 1.85 (54¢) | $47,499 | — | ⏳ Pendiente |
 | ndb1 | Eagles vs. Bears: O/U 41.5 | Under 41.5 | 2.13 (47¢) | $65,800 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-2.5) | Eagles | 1.72 (58¢) | $61,773 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | Berniepaidoff | Ravens vs. Cowboys | Ravens | 1.45 (69¢) | $50,000 | +$22,464 | ✅ Ganada |
 | YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
 | jaytee158 | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $51,600 | +$8,400 | ✅ Ganada |
-| YEEES-but-why | Raiders vs. Saints | Saints | 1.12 (89¢) | $46,429 | -$46,429 | ❌ Perdida |
