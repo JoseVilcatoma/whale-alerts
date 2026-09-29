@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 21:16:24 (hora de Perú)
+Actualizado: 2026-09-28 21:18:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3935**  ($214,461,428 en total)
+- Apuestas registradas: **3936**  ($214,489,779 en total)
 - Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 480
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sifonman | Eagles vs. Bears | Bears | 1.28 (78¢) | $28,351 | — | ⏳ Pendiente |
 | ethanaz | Eagles vs. Bears | Bears | 1.96 (51¢) | $41,937 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Bears | Eagles | 1.72 (58¢) | $27,763 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 2.44 (41¢) | $42,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | gmpm2 | Rams vs. Broncos | Broncos | 2.00 (50¢) | $73,375 | +$73,375 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 2.00 (50¢) | $60,000 | -$60,000 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Rams vs. Broncos | Broncos | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 1.89 (53¢) | $26,407 | -$26,407 | ❌ Perdida |

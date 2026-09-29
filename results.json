@@ -59151,5 +59151,20 @@
     "status": "pending",
     "ultimo_fill": 1790647632,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8038,
+    "timestamp": 1790648256,
+    "username": "sifonman",
+    "wallet": "0x6ac96d439f44a8dd84de19a781fcbbab5bdee85a",
+    "slug": "nfl-phi-chi-2026-09-29",
+    "title": "Eagles vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 28351.440000000002,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1790648256,
+    "fills": 1
   }
 ]
