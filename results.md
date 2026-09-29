@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 09:44:17 (hora de Perú)
+Actualizado: 2026-09-29 09:46:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3953**  ($215,189,516 en total)
+- Apuestas registradas: **3954**  ($215,215,139 en total)
 - Resueltas: **3927** — 2386 ganadas / 1541 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 483
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| watcherz88 | Curitiba: Miguel Tobon vs Juan Bautista Torres | Miguel Tobon | 1.82 (55¢) | $25,622 | — | ⏳ Pendiente |
 | watcherz88 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.09 (92¢) | $27,736 | — | ⏳ Pendiente |
 | 110thst | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A | LGD Gaming | 1.47 (68¢) | $30,551 | — | ⏳ Pendiente |
 | mariabelo | Will Finland win on 2026-09-29? | Yes | 1.56 (64¢) | $30,821 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.54 (65¢) | $37,324 | -$37,324 | ❌ Perdida |
 | Berniepaidoff | Rams vs. Broncos | Rams | 1.67 (60¢) | $50,000 | -$50,000 | ❌ Perdida |
 | nuttypoo | Rams vs. Broncos | Rams | 1.49 (67¢) | $67,000 | -$67,000 | ❌ Perdida |
-| ethanaz | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 2.22 (45¢) | $46,424 | -$46,424 | ❌ Perdida |

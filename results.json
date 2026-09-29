@@ -59421,5 +59421,20 @@
     "status": "pending",
     "ultimo_fill": 1790691659,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8086,
+    "timestamp": 1790693155,
+    "username": "watcherz88",
+    "wallet": "0xc5a2337f82aafe82a7eaae248586fbbc3c736dd9",
+    "slug": "atp-tobon-torres-2026-09-28",
+    "title": "Curitiba: Miguel Tobon vs Juan Bautista Torres",
+    "outcome": "Miguel Tobon",
+    "side": "BUY",
+    "usd": 25622.377,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1790693155,
+    "fills": 1
   }
 ]
