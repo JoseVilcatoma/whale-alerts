@@ -59136,5 +59136,20 @@
     "status": "pending",
     "ultimo_fill": 1790646845,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8037,
+    "timestamp": 1790647632,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-phi-chi-2026-09-29",
+    "title": "Eagles vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 41937.2439,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1790647632,
+    "fills": 1
   }
 ]
