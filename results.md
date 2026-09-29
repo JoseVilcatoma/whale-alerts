@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 17:14:59 (hora de Perú)
+Actualizado: 2026-09-29 17:17:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3957**  ($215,505,747 en total)
+- Apuestas registradas: **3958**  ($215,548,570 en total)
 - Resueltas: **3935** — 2391 ganadas / 1544 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 483
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xabidaking | Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs | Jiri Lehecka | 1.39 (72¢) | $42,823 | — | ⏳ Pendiente |
 | kkookkoo | Columbus: Trevor Svajda vs Andres Andrade | Trevor Svajda | 1.64 (61¢) | $27,628 | — | ⏳ Pendiente |
 | PerpsKing | Chicago White Sox vs. Houston Astros | Houston Astros | 1.85 (54¢) | $88,597 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-09-29? | Yes | 1.22 (82¢) | $174,383 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open, Qualification: Yannick Hanfmann vs Tomas Machac | Tomas Machac | 2.04 (49¢) | $54,704 | +$56,937 | ✅ Ganada |
 | jaytee158 | LoL: T1 Academy vs Cupid Esports (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.08 (93¢) | $44,657 | +$3,361 | ✅ Ganada |
 | HectorHuang | Japan Open Tennis Championships, Qualification: Jaume Munar vs Marcos Giron | Marcos Giron | 2.44 (41¢) | $28,025 | -$28,025 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Open Tennis Championships, Qualification: Arthur Fils vs Martin Damm | Arthur Fils | 1.28 (78¢) | $46,800 | +$13,200 | ✅ Ganada |

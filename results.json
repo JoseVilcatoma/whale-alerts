@@ -59481,5 +59481,20 @@
     "status": "pending",
     "ultimo_fill": 1790715729,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8099,
+    "timestamp": 1790720197,
+    "username": "xabidaking",
+    "wallet": "0x3f985e3a68f88e6ed8da1a22e1a5eda81c8e0aa1",
+    "slug": "atp-lehecka-bergs-2026-09-29",
+    "title": "Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs",
+    "outcome": "Jiri Lehecka",
+    "side": "BUY",
+    "usd": 42822.9688,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1790720197,
+    "fills": 1
   }
 ]
