@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 20:35:20 (hora de Perú)
+Actualizado: 2026-09-28 20:37:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3924**  ($213,944,598 en total)
+- Apuestas registradas: **3925**  ($214,007,122 en total)
 - Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 480
 
 ### Balance
@@ -37,9 +37,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 41 | 29 | 1 | 59% | $2,760,031 | -$602,573 |
 | BrotherObama | 29 | 26 | 2 | 53% | $2,684,745 | +$403,534 |
+| ethanaz | 30 | 13 | 1 | 70% | $2,650,130 | -$202,309 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| ethanaz | 30 | 13 | 0 | 70% | $2,587,606 | -$202,309 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Eagles vs. Bears | Eagles | 1.89 (53¢) | $62,524 | — | ⏳ Pendiente |
 | cosmicxbt | Eagles vs. Bears: O/U 44.5 | Under 44.5 | 1.47 (68¢) | $84,350 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Eagles vs. Bears | Bears | 1.67 (60¢) | $47,678 | — | ⏳ Pendiente |
 | sulumos | Eagles vs. Bears | Bears | 1.85 (54¢) | $47,499 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | 3648393489047 | Ravens vs. Cowboys | Ravens | 1.79 (56¢) | $45,355 | +$35,636 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $32,628 | -$32,628 | ❌ Perdida |
 | Berniepaidoff | Ravens vs. Cowboys | Ravens | 1.45 (69¢) | $50,000 | +$22,464 | ✅ Ganada |
-| YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
