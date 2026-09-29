@@ -59451,5 +59451,20 @@
     "status": "pending",
     "ultimo_fill": 1790699668,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 8097,
+    "timestamp": 1790715051,
+    "username": "PerpsKing",
+    "wallet": "0x8e92289bbff5635543812defcb7acc4e514c15de",
+    "slug": "mlb-cws-hou-2026-09-29",
+    "title": "Chicago White Sox vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 88597.07640000002,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1790715051,
+    "fills": 2
   }
 ]
