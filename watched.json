@@ -23,17 +23,9 @@
     "username": "UpTheBlues",
     "added_at": 1789593767.455509
   },
-  "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563": {
-    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-    "added_at": 1789641974.7111
-  },
   "0xd570e634aeb745d6501566dba5f81a555cc7e4f8": {
     "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
     "added_at": 1789738517.2481048
-  },
-  "0x821dab0565ebf5b327f51db06223fdcfe01acf16": {
-    "username": "Flaznorp",
-    "added_at": 1789741955.906342
   },
   "0x924379a79c64b77ad5816ad362122a5f6228658e": {
     "username": "Kch-Temp",
@@ -47,16 +39,8 @@
     "username": "HomeRunHazard",
     "added_at": 1789954624.5095878
   },
-  "0x111f73e91f85b6fe4de1ddec3de2fe32122e355b": {
-    "username": "Papeasy",
-    "added_at": 1790020200.3037941
-  },
   "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83": {
     "username": "vito3corleone",
-    "added_at": 1790020200.3037941
-  },
-  "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227": {
-    "username": "ndb1",
     "added_at": 1790020200.3037941
   },
   "0xc29cd8f36242f58938ea9f10dc07fd269d592d10": {
@@ -234,5 +218,13 @@
   "0xa38a455bbdd4b68486548b7e19da99903f4f821d": {
     "username": "takeormake",
     "added_at": 1790648114.9672618
+  },
+  "0xb0e74df9430a089aa102e2207af5fde1967439d2": {
+    "username": "0xb0e74DF9430A089Aa102e2207Af5fde1967439D2-1789545517033",
+    "added_at": 1790649017.5994613
+  },
+  "0x204f72f35326db932158cba6adff0b9a1da95e14": {
+    "username": "swisstony",
+    "added_at": 1790649017.5994613
   }
 }
