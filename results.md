@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 02:57:12 (hora de Perú)
+Actualizado: 2026-09-29 02:59:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3943**  ($214,819,769 en total)
+- Apuestas registradas: **3944**  ($214,854,108 en total)
 - Resueltas: **3922** — 2383 ganadas / 1539 perdidas (**61%** de acierto)
-- Pendientes: 3
-- Apostadores distintos: 481
+- Pendientes: 4
+- Apostadores distintos: 482
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 
-_(mostrando los 40 de mayor monto, de 481 en total)_
+_(mostrando los 40 de mayor monto, de 482 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kdvlklkvlsklkfs | Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Jaime Faria | Adolfo Vallejo | 2.27 (44¢) | $34,338 | — | ⏳ Pendiente |
 | raybanman | China Open, Qualification: Elvina Kalieva vs Han Shi | Han Shi | 1.75 (57¢) | $25,503 | — | ⏳ Pendiente |
 | raybanman | China Open, Qualification: Marco Trungelliti vs Alex Molcan | Alex Molcan | 1.27 (79¢) | $157,782 | +$41,942 | ✅ Ganada |
 | kkookkoo | Japan Open Tennis Championships, Qualification: Jaume Munar vs Aleksandar Kovacevic | Jaume Munar | 1.67 (60¢) | $29,914 | +$19,943 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 481 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos: O/U 37.5 | Under 37.5 | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos | Rams | 1.12 (89¢) | $83,889 | -$83,889 | ❌ Perdida |
 | omoi0i0 | Rams vs. Broncos | Rams | 1.23 (81¢) | $46,611 | -$46,611 | ❌ Perdida |
-| TAIWANNUMBERONE | Rams vs. Broncos | Rams | 1.27 (79¢) | $27,650 | -$27,650 | ❌ Perdida |

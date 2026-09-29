@@ -59271,5 +59271,20 @@
     "status": "pending",
     "ultimo_fill": 1790660467,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8070,
+    "timestamp": 1790668660,
+    "username": "kdvlklkvlsklkfs",
+    "wallet": "0xcfe8f6cc8ff9cb68985b7af650ef6dbe9a373a6c",
+    "slug": "atp-vallejo-faria-2026-09-29",
+    "title": "Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Jaime Faria",
+    "outcome": "Adolfo Vallejo",
+    "side": "BUY",
+    "usd": 34338.4668,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1790668660,
+    "fills": 1
   }
 ]
