@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 23:55:54 (hora de Perú)
+Actualizado: 2026-09-28 23:57:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3941**  ($214,636,484 en total)
-- Resueltas: **3918** — 2379 ganadas / 1539 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **3919** — 2380 ganadas / 1539 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 481
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,590,253** sobre $213,686,198 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,074** sobre $386,300 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,570,311** sobre $213,716,112 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,007** sobre $386,400 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 481 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| kkookkoo | Japan Open Tennis Championships, Qualification: Jaume Munar vs Aleksandar Kovacevic | Jaume Munar | 1.67 (60¢) | $29,914 | — | ⏳ Pendiente |
+| kkookkoo | Japan Open Tennis Championships, Qualification: Jaume Munar vs Aleksandar Kovacevic | Jaume Munar | 1.67 (60¢) | $29,914 | +$19,943 | ✅ Ganada |
 | ethanaz | Eagles vs. Bears | Bears | 1.25 (80¢) | $26,666 | +$6,667 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 1.27 (79¢) | $30,285 | +$8,050 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 1.20 (83¢) | $32,686 | +$6,695 | ✅ Ganada |
