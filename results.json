@@ -59256,5 +59256,20 @@
     "status": "pending",
     "ultimo_fill": 1790658313,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 8068,
+    "timestamp": 1790660467,
+    "username": "raybanman",
+    "wallet": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+    "slug": "wta-kalieva-shi-2026-09-28",
+    "title": "China Open, Qualification: Elvina Kalieva vs Han Shi",
+    "outcome": "Han Shi",
+    "side": "BUY",
+    "usd": 25503.462099999997,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1790660467,
+    "fills": 1
   }
 ]
