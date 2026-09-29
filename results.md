@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 00:04:04 (hora de Perú)
+Actualizado: 2026-09-29 00:06:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3941**  ($214,636,484 en total)
+- Apuestas registradas: **3942**  ($214,794,266 en total)
 - Resueltas: **3919** — 2380 ganadas / 1539 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 481
 
 ### Balance
@@ -46,10 +46,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 3 | 0 | 90% | $2,048,429 | +$62,817 |
+| raybanman | 13 | 4 | 1 | 76% | $1,888,009 | +$814,282 |
 | Kch-Temp | 25 | 8 | 0 | 76% | $1,881,865 | +$1,079,614 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| raybanman | 13 | 4 | 0 | 76% | $1,730,227 | +$814,282 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 26 | 29 | 0 | 47% | $1,644,472 | -$204,878 |
 | Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 481 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | China Open, Qualification: Marco Trungelliti vs Alex Molcan | Alex Molcan | 1.27 (79¢) | $157,782 | — | ⏳ Pendiente |
 | kkookkoo | Japan Open Tennis Championships, Qualification: Jaume Munar vs Aleksandar Kovacevic | Jaume Munar | 1.67 (60¢) | $29,914 | +$19,943 | ✅ Ganada |
 | ethanaz | Eagles vs. Bears | Bears | 1.25 (80¢) | $26,666 | +$6,667 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 1.27 (79¢) | $30,285 | +$8,050 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 481 en total)_
 | omoi0i0 | Rams vs. Broncos | Rams | 1.23 (81¢) | $46,611 | -$46,611 | ❌ Perdida |
 | TAIWANNUMBERONE | Rams vs. Broncos | Rams | 1.27 (79¢) | $27,650 | -$27,650 | ❌ Perdida |
 | ferrariChampions2026 | Rams vs. Broncos | Rams | 1.33 (75¢) | $39,643 | -$39,643 | ❌ Perdida |
-| ferrariChampions2026 | Rams vs. Broncos | Rams | 1.39 (72¢) | $28,310 | -$28,310 | ❌ Perdida |
