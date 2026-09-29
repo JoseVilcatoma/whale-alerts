@@ -67,10 +67,6 @@
     "username": "ndb1",
     "added_at": 1790020200.3037941
   },
-  "0xee00ba338c59557141789b127927a55f5cc5cea1": {
-    "username": "S-Works",
-    "added_at": 1790036888.7649457
-  },
   "0xc29cd8f36242f58938ea9f10dc07fd269d592d10": {
     "username": "goshkam",
     "added_at": 1790105275.7249842
@@ -202,5 +198,17 @@
   "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7": {
     "username": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
     "added_at": 1790640894.897739
+  },
+  "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
+    "username": "WTSA",
+    "added_at": 1790641796.644674
+  },
+  "0x0346afae2603313d2bbee96b628536c8cbe352a5": {
+    "username": "GoalLineGhost",
+    "added_at": 1790641796.644674
+  },
+  "0x14c7111afa871fb215339f365043d7b2837b9ccf": {
+    "username": "kilian7kilian",
+    "added_at": 1790641796.644674
   }
 }
