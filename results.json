@@ -59391,5 +59391,20 @@
     "status": "pending",
     "ultimo_fill": 1790688327,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8083,
+    "timestamp": 1790688408,
+    "username": "110thst",
+    "wallet": "0x1eeaf77002cf1eef5305abae702ddc3ccc86db08",
+    "slug": "dota2-lgd-xtreme-2026-09-29",
+    "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 30550.831799999996,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1790688408,
+    "fills": 1
   }
 ]
