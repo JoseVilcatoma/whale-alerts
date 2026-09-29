@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 10:50:01 (hora de Perú)
+Actualizado: 2026-09-29 10:52:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3954**  ($215,215,139 en total)
-- Resueltas: **3930** — 2389 ganadas / 1541 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **3931** — 2389 ganadas / 1542 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 483
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,407,839** sobre $214,280,790 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,734** sobre $387,500 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,433,462** sobre $214,306,412 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,834** sobre $387,600 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| watcherz88 | Curitiba: Miguel Tobon vs Juan Bautista Torres | Miguel Tobon | 1.82 (55¢) | $25,622 | — | ⏳ Pendiente |
+| watcherz88 | Curitiba: Miguel Tobon vs Juan Bautista Torres | Miguel Tobon | 1.82 (55¢) | $25,622 | -$25,622 | ❌ Perdida |
 | watcherz88 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.09 (92¢) | $27,736 | +$2,412 | ✅ Ganada |
 | 110thst | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A | LGD Gaming | 1.47 (68¢) | $30,551 | — | ⏳ Pendiente |
 | mariabelo | Will Finland win on 2026-09-29? | Yes | 1.56 (64¢) | $30,821 | — | ⏳ Pendiente |
