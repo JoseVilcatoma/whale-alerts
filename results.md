@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 11:33:05 (hora de Perú)
+Actualizado: 2026-09-29 11:35:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3954**  ($215,215,139 en total)
+- Apuestas registradas: **3955**  ($215,389,521 en total)
 - Resueltas: **3932** — 2390 ganadas / 1542 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 483
 
 ### Balance
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
 | Lakersfan111 | 17 | 14 | 0 | 55% | $1,311,556 | -$78,408 |
+| 0x361b…74fe | 14 | 1 | 2 | 93% | $1,302,905 | +$602,197 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | texaskid | 13 | 11 | 0 | 54% | $1,296,457 | -$3,953 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| halvanicus | 1 | 3 | 0 | ⚠️ 25% (4) | $1,217,294 | -$985,926 |
 
 _(mostrando los 40 de mayor monto, de 483 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x361b…74fe | Will Spain win on 2026-09-29? | Yes | 1.22 (82¢) | $174,383 | — | ⏳ Pendiente |
 | watcherz88 | Curitiba: Miguel Tobon vs Juan Bautista Torres | Miguel Tobon | 1.82 (55¢) | $25,622 | -$25,622 | ❌ Perdida |
 | watcherz88 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.09 (92¢) | $27,736 | +$2,412 | ✅ Ganada |
 | 110thst | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A | LGD Gaming | 1.47 (68¢) | $30,551 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Open Tennis Championships, Qualification: Arthur Fils vs Martin Damm | Arthur Fils | 1.28 (78¢) | $46,800 | +$13,200 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.54 (65¢) | $37,324 | -$37,324 | ❌ Perdida |
 | Berniepaidoff | Rams vs. Broncos | Rams | 1.67 (60¢) | $50,000 | -$50,000 | ❌ Perdida |
-| nuttypoo | Rams vs. Broncos | Rams | 1.49 (67¢) | $67,000 | -$67,000 | ❌ Perdida |
