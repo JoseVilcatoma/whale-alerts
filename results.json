@@ -59001,5 +59001,35 @@
     "status": "pending",
     "ultimo_fill": 1790645829,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8028,
+    "timestamp": 1790646002,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-phi-chi-2026-09-29",
+    "title": "Eagles vs. Bears",
+    "outcome": "Eagles",
+    "side": "BUY",
+    "usd": 30153.997,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1790646002,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8029,
+    "timestamp": 1790646009,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-phi-chi-2026-09-29",
+    "title": "Eagles vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 146202.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1790646009,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 20:39:27 (hora de Perú)
+Actualizado: 2026-09-28 20:41:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3925**  ($214,007,122 en total)
+- Apuestas registradas: **3927**  ($214,183,478 en total)
 - Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 10
 - Apostadores distintos: 480
 
 ### Balance
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 282 | 149 | 5 | 65% | $27,786,821 | +$825,167 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 76 | 0 | 52% | $6,642,003 | -$428,990 |
+| wr0ngw4yb3tt0r | 66 | 44 | 2 | 60% | $6,233,312 | -$8,266 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| wr0ngw4yb3tt0r | 66 | 44 | 0 | 60% | $6,056,956 | -$8,266 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 2.38 (42¢) | $146,202 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Eagles vs. Bears | Eagles | 1.72 (58¢) | $30,154 | — | ⏳ Pendiente |
 | ethanaz | Eagles vs. Bears | Eagles | 1.89 (53¢) | $62,524 | — | ⏳ Pendiente |
 | cosmicxbt | Eagles vs. Bears: O/U 44.5 | Under 44.5 | 1.47 (68¢) | $84,350 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Eagles vs. Bears | Bears | 1.67 (60¢) | $47,678 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $56,812 | -$56,812 | ❌ Perdida |
 | ferrariChampions2026 | Rams vs. Broncos: O/U 45.5 | Over 45.5 | 2.27 (44¢) | $25,270 | +$32,162 | ✅ Ganada |
 | 3648393489047 | Ravens vs. Cowboys | Ravens | 1.79 (56¢) | $45,355 | +$35,636 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $32,628 | -$32,628 | ❌ Perdida |
-| Berniepaidoff | Ravens vs. Cowboys | Ravens | 1.45 (69¢) | $50,000 | +$22,464 | ✅ Ganada |
