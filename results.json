@@ -59511,5 +59511,20 @@
     "status": "pending",
     "ultimo_fill": 1790720728,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8101,
+    "timestamp": 1790721004,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-bos-nyy-2026-09-29-total-6pt5",
+    "title": "Boston Red Sox vs. New York Yankees: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 33594.53,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1790721004,
+    "fills": 1
   }
 ]
