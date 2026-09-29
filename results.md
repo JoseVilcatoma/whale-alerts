@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 20:53:56 (hora de Perú)
+Actualizado: 2026-09-28 20:55:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3933**  ($214,391,727 en total)
+- Apuestas registradas: **3934**  ($214,419,491 en total)
 - Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 480
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 282 | 149 | 7 | 65% | $27,859,079 | +$825,167 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 76 | 0 | 52% | $6,642,003 | -$428,990 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 76 | 1 | 52% | $6,669,766 | -$428,990 |
 | wr0ngw4yb3tt0r | 66 | 44 | 2 | 60% | $6,233,312 | -$8,266 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Bears | Eagles | 1.72 (58¢) | $27,763 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 2.44 (41¢) | $42,000 | — | ⏳ Pendiente |
 | ethanaz | Spread: Eagles (-2.5) | Bears | 2.22 (45¢) | $32,244 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Eagles vs. Bears | Eagles | 1.69 (59¢) | $44,747 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Rams vs. Broncos | Broncos | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 1.89 (53¢) | $26,407 | -$26,407 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos: O/U 46.5 | Under 46.5 | 1.69 (59¢) | $25,370 | -$25,370 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Rams vs. Broncos: O/U 44.5 | Over 44.5 | 2.17 (46¢) | $30,051 | +$35,277 | ✅ Ganada |
