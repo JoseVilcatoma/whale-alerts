@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 03:05:22 (hora de Perú)
+Actualizado: 2026-09-29 03:07:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3944**  ($214,854,108 en total)
-- Resueltas: **3922** — 2383 ganadas / 1539 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **3923** — 2384 ganadas / 1539 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 482
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,414,475** sobre $214,024,043 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,821** sobre $386,700 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,395,235** sobre $214,049,547 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,745** sobre $386,800 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 3 | 0 | 90% | $2,048,429 | +$62,817 |
-| raybanman | 14 | 4 | 1 | 78% | $1,913,512 | +$856,225 |
+| raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | Kch-Temp | 25 | 8 | 0 | 76% | $1,881,865 | +$1,079,614 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 482 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | kdvlklkvlsklkfs | Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Jaime Faria | Adolfo Vallejo | 2.27 (44¢) | $34,338 | — | ⏳ Pendiente |
-| raybanman | China Open, Qualification: Elvina Kalieva vs Han Shi | Han Shi | 1.75 (57¢) | $25,503 | — | ⏳ Pendiente |
+| raybanman | China Open, Qualification: Elvina Kalieva vs Han Shi | Han Shi | 1.75 (57¢) | $25,503 | +$19,239 | ✅ Ganada |
 | raybanman | China Open, Qualification: Marco Trungelliti vs Alex Molcan | Alex Molcan | 1.27 (79¢) | $157,782 | +$41,942 | ✅ Ganada |
 | kkookkoo | Japan Open Tennis Championships, Qualification: Jaume Munar vs Aleksandar Kovacevic | Jaume Munar | 1.67 (60¢) | $29,914 | +$19,943 | ✅ Ganada |
 | ethanaz | Eagles vs. Bears | Bears | 1.25 (80¢) | $26,666 | +$6,667 | ✅ Ganada |
