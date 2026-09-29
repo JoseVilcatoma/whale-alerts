@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 07:26:22 (hora de Perú)
+Actualizado: 2026-09-29 07:28:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3948**  ($215,028,949 en total)
-- Resueltas: **3924** — 2385 ganadas / 1539 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **3926** — 2385 ganadas / 1541 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 483
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,351,532** sobre $214,083,885 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,618** sobre $386,900 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,432,264** sobre $214,164,618 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,818** sobre $387,100 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,11 +33,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Sassy-Bucket | 53 | 47 | 0 | 53% | $5,270,406 | -$647,744 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Diabolical-Prize | 46 | 40 | 1 | 53% | $4,452,869 | -$34,493 |
+| Diabolical-Prize | 46 | 41 | 0 | 53% | $4,452,869 | -$80,251 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 42 | 29 | 0 | 59% | $2,760,031 | -$570,787 |
 | ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
-| BrotherObama | 29 | 26 | 3 | 53% | $2,719,720 | +$403,534 |
+| BrotherObama | 29 | 27 | 2 | 52% | $2,719,720 | +$368,560 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -73,8 +73,8 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 |---|---|---|---|---|---|---|
 | qiu3 | Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D | NRG | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | 110thst | Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B | Natus Vincere | 2.00 (50¢) | $66,609 | — | ⏳ Pendiente |
-| BrotherObama | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.22 (45¢) | $34,974 | — | ⏳ Pendiente |
-| Diabolical-Prize | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.27 (44¢) | $45,758 | — | ⏳ Pendiente |
+| BrotherObama | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.22 (45¢) | $34,974 | -$34,974 | ❌ Perdida |
+| Diabolical-Prize | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.27 (44¢) | $45,758 | -$45,758 | ❌ Perdida |
 | kdvlklkvlsklkfs | Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Jaime Faria | Adolfo Vallejo | 2.27 (44¢) | $34,338 | +$43,704 | ✅ Ganada |
 | raybanman | China Open, Qualification: Elvina Kalieva vs Han Shi | Han Shi | 1.75 (57¢) | $25,503 | +$19,239 | ✅ Ganada |
 | raybanman | China Open, Qualification: Marco Trungelliti vs Alex Molcan | Alex Molcan | 1.27 (79¢) | $157,782 | +$41,942 | ✅ Ganada |
