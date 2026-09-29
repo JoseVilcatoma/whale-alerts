@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 10:06:53 (hora de Perú)
+Actualizado: 2026-09-29 10:08:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3954**  ($215,215,139 en total)
-- Resueltas: **3927** — 2386 ganadas / 1541 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **3930** — 2389 ganadas / 1541 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 483
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,427,245** sobre $214,193,057 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,800** sobre $387,200 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,407,839** sobre $214,280,790 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,734** sobre $387,500 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 285 | 150 | 4 | 66% | $27,889,364 | +$875,425 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 286 | 150 | 3 | 66% | $27,889,364 | +$885,617 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 77 | 0 | 52% | $6,669,766 | -$456,753 |
 | wr0ngw4yb3tt0r | 68 | 45 | 0 | 60% | $6,265,998 | +$170,172 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | watcherz88 | Curitiba: Miguel Tobon vs Juan Bautista Torres | Miguel Tobon | 1.82 (55¢) | $25,622 | — | ⏳ Pendiente |
-| watcherz88 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.09 (92¢) | $27,736 | — | ⏳ Pendiente |
+| watcherz88 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.09 (92¢) | $27,736 | +$2,412 | ✅ Ganada |
 | 110thst | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A | LGD Gaming | 1.47 (68¢) | $30,551 | — | ⏳ Pendiente |
 | mariabelo | Will Finland win on 2026-09-29? | Yes | 1.56 (64¢) | $30,821 | — | ⏳ Pendiente |
 | watcherz88 | Porto 2: Cezar Cretu vs Henrique Rocha | Henrique Rocha | 1.18 (85¢) | $28,439 | +$5,019 | ✅ Ganada |
@@ -109,8 +109,8 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 | kkookkoo | Columbus: Braden Shick vs Ozan Baris | Braden Shick | 1.61 (62¢) | $27,692 | +$16,973 | ✅ Ganada |
 | Elenes | Will Sweden win on 2026-09-28? | No | 1.89 (53¢) | $28,404 | -$28,404 | ❌ Perdida |
 | kkookkoo | Porto 2: Jerome Kym vs Tiago Torres | Tiago Torres | 1.22 (82¢) | $41,247 | -$41,247 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.35 (74¢) | $29,005 | — | ⏳ Pendiente |
-| kkookkoo | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.22 (82¢) | $30,992 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.35 (74¢) | $29,005 | +$10,191 | ✅ Ganada |
+| kkookkoo | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.22 (82¢) | $30,992 | +$6,803 | ✅ Ganada |
 | 0x760f…326a | Porto 2: Jerome Kym vs Tiago Torres | Jerome Kym | 2.04 (49¢) | $25,013 | +$26,034 | ✅ Ganada |
 | ptrck7 | Will Georgia win on 2026-09-28? | Yes | 2.22 (45¢) | $25,385 | -$25,385 | ❌ Perdida |
 | ColdBlooded | LoL: Kaufland Hangry Knights vs Senshi Esports Club (BO1) - EMEA Masters Swiss Stage | Kaufland Hangry Knights | 1.12 (89¢) | $33,173 | +$4,100 | ✅ Ganada |
