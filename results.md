@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 20:43:34 (hora de Perú)
+Actualizado: 2026-09-28 20:45:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3929**  ($214,243,236 en total)
+- Apuestas registradas: **3930**  ($214,272,736 en total)
 - Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 480
 
 ### Balance
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Eagles vs. Bears | Eagles | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
+| 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Eagles vs. Bears | Eagles | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 2.44 (41¢) | $30,258 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 2.38 (42¢) | $146,202 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Eagles vs. Bears | Eagles | 1.72 (58¢) | $30,154 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | btystu | Rams vs. Broncos | Broncos | 2.00 (50¢) | $41,498 | +$41,498 | ✅ Ganada |
 | nigiri99 | Rams vs. Broncos: O/U 45.5 | Under 45.5 | 1.72 (58¢) | $28,997 | -$28,997 | ❌ Perdida |
 | mooseborzoi | Rams vs. Broncos: O/U 45.5 | Under 45.5 | 1.75 (57¢) | $41,075 | -$41,075 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $56,812 | -$56,812 | ❌ Perdida |
