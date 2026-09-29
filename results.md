@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 21:22:40 (hora de Perú)
+Actualizado: 2026-09-28 21:24:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3937**  ($214,516,932 en total)
+- Apuestas registradas: **3938**  ($214,549,619 en total)
 - Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 481
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 282 | 149 | 7 | 65% | $27,859,079 | +$825,167 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 76 | 1 | 52% | $6,669,766 | -$428,990 |
-| wr0ngw4yb3tt0r | 66 | 44 | 2 | 60% | $6,233,312 | -$8,266 |
+| wr0ngw4yb3tt0r | 66 | 44 | 3 | 60% | $6,265,998 | -$8,266 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 481 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 1.20 (83¢) | $32,686 | — | ⏳ Pendiente |
 | ziyoucui | Eagles vs. Bears | Bears | 1.25 (80¢) | $27,153 | — | ⏳ Pendiente |
 | sifonman | Eagles vs. Bears | Bears | 1.28 (78¢) | $28,351 | — | ⏳ Pendiente |
 | ethanaz | Eagles vs. Bears | Bears | 1.96 (51¢) | $41,937 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 481 en total)_
 | yoyoyoyoer | Rams vs. Broncos | Rams | 1.43 (70¢) | $29,842 | -$29,842 | ❌ Perdida |
 | cosmicxbt | Rams vs. Broncos | Rams | 1.54 (65¢) | $62,763 | -$13,518 | 💰 Vendida antes |
 | gmpm2 | Rams vs. Broncos | Broncos | 2.00 (50¢) | $73,375 | +$73,375 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 2.00 (50¢) | $60,000 | -$60,000 | ❌ Perdida |
