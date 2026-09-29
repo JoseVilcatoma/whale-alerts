@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 21:31:05 (hora de Perú)
+Actualizado: 2026-09-28 21:33:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3939**  ($214,579,903 en total)
+- Apuestas registradas: **3940**  ($214,606,570 en total)
 - Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 481
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 41 | 29 | 1 | 59% | $2,760,031 | -$602,573 |
-| ethanaz | 30 | 13 | 3 | 70% | $2,724,312 | -$202,309 |
+| ethanaz | 30 | 13 | 4 | 70% | $2,750,978 | -$202,309 |
 | BrotherObama | 29 | 26 | 2 | 53% | $2,684,745 | +$403,534 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 481 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Eagles vs. Bears | Bears | 1.25 (80¢) | $26,666 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 1.27 (79¢) | $30,285 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 1.20 (83¢) | $32,686 | — | ⏳ Pendiente |
 | ziyoucui | Eagles vs. Bears | Bears | 1.25 (80¢) | $27,153 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 481 en total)_
 | ferrariChampions2026 | Rams vs. Broncos | Rams | 1.33 (75¢) | $39,643 | -$39,643 | ❌ Perdida |
 | ferrariChampions2026 | Rams vs. Broncos | Rams | 1.39 (72¢) | $28,310 | -$28,310 | ❌ Perdida |
 | yoyoyoyoer | Rams vs. Broncos | Rams | 1.43 (70¢) | $29,842 | -$29,842 | ❌ Perdida |
-| cosmicxbt | Rams vs. Broncos | Rams | 1.54 (65¢) | $62,763 | -$13,518 | 💰 Vendida antes |
