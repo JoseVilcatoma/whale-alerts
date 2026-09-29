@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 11:50:42 (hora de Perú)
+Actualizado: 2026-09-29 14:45:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3955**  ($215,389,521 en total)
-- Resueltas: **3932** — 2390 ganadas / 1542 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **3934** — 2391 ganadas / 1543 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 483
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,410,962** sobre $214,333,912 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,753** sobre $387,700 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,463,194** sobre $214,431,072 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,806** sobre $387,900 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,12 +74,12 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 | 0x361b…74fe | Will Spain win on 2026-09-29? | Yes | 1.22 (82¢) | $174,383 | — | ⏳ Pendiente |
 | watcherz88 | Curitiba: Miguel Tobon vs Juan Bautista Torres | Miguel Tobon | 1.82 (55¢) | $25,622 | -$25,622 | ❌ Perdida |
 | watcherz88 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.09 (92¢) | $27,736 | +$2,412 | ✅ Ganada |
-| 110thst | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A | LGD Gaming | 1.47 (68¢) | $30,551 | — | ⏳ Pendiente |
+| 110thst | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A | LGD Gaming | 1.47 (68¢) | $30,551 | +$14,377 | ✅ Ganada |
 | mariabelo | Will Finland win on 2026-09-29? | Yes | 1.56 (64¢) | $30,821 | — | ⏳ Pendiente |
 | watcherz88 | Porto 2: Cezar Cretu vs Henrique Rocha | Henrique Rocha | 1.18 (85¢) | $28,439 | +$5,019 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-09-29? | Yes | 1.23 (81¢) | $43,020 | — | ⏳ Pendiente |
 | qiu3 | Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D | NRG | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
-| 110thst | Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B | Natus Vincere | 2.00 (50¢) | $66,609 | — | ⏳ Pendiente |
+| 110thst | Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B | Natus Vincere | 2.00 (50¢) | $66,609 | -$66,609 | ❌ Perdida |
 | BrotherObama | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.22 (45¢) | $34,974 | -$34,974 | ❌ Perdida |
 | Diabolical-Prize | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.27 (44¢) | $45,758 | -$45,758 | ❌ Perdida |
 | kdvlklkvlsklkfs | Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Jaime Faria | Adolfo Vallejo | 2.27 (44¢) | $34,338 | +$43,704 | ✅ Ganada |
