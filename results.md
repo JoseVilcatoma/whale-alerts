@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 00:14:16 (hora de Perú)
+Actualizado: 2026-09-29 00:16:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3942**  ($214,794,266 en total)
-- Resueltas: **3919** — 2380 ganadas / 1539 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **3921** — 2382 ganadas / 1539 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 481
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,570,311** sobre $213,716,112 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,007** sobre $386,400 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,456,417** sobre $213,866,262 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,847** sobre $386,600 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,10 +89,10 @@ _(mostrando los 40 de mayor monto, de 481 en total)_
 | wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 2.38 (42¢) | $146,202 | +$201,898 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Eagles vs. Bears | Eagles | 1.72 (58¢) | $30,154 | -$30,154 | ❌ Perdida |
 | ethanaz | Eagles vs. Bears | Eagles | 1.89 (53¢) | $62,524 | -$62,524 | ❌ Perdida |
-| cosmicxbt | Eagles vs. Bears: O/U 44.5 | Under 44.5 | 1.47 (68¢) | $84,350 | — | ⏳ Pendiente |
+| cosmicxbt | Eagles vs. Bears: O/U 44.5 | Under 44.5 | 1.47 (68¢) | $84,350 | +$39,694 | ✅ Ganada |
 | ferrariChampions2026 | Eagles vs. Bears | Bears | 1.67 (60¢) | $47,678 | +$31,786 | ✅ Ganada |
 | sulumos | Eagles vs. Bears | Bears | 1.85 (54¢) | $47,499 | +$40,462 | ✅ Ganada |
-| ndb1 | Eagles vs. Bears: O/U 41.5 | Under 41.5 | 2.13 (47¢) | $65,800 | — | ⏳ Pendiente |
+| ndb1 | Eagles vs. Bears: O/U 41.5 | Under 41.5 | 2.13 (47¢) | $65,800 | +$74,200 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-2.5) | Eagles | 1.72 (58¢) | $61,773 | -$61,773 | ❌ Perdida |
 | kkookkoo | Columbus: Braden Shick vs Ozan Baris | Braden Shick | 1.61 (62¢) | $27,692 | +$16,973 | ✅ Ganada |
 | Elenes | Will Sweden win on 2026-09-28? | No | 1.89 (53¢) | $28,404 | -$28,404 | ❌ Perdida |
