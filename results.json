@@ -58926,5 +58926,20 @@
     "status": "pending",
     "ultimo_fill": 1790640523,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8023,
+    "timestamp": 1790640901,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "nfl-phi-chi-2026-09-29-total-41pt5",
+    "title": "Eagles vs. Bears: O/U 41.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 65800.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1790640901,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 19:13:28 (hora de Perú)
+Actualizado: 2026-09-28 19:15:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3920**  ($213,699,271 en total)
+- Apuestas registradas: **3921**  ($213,765,071 en total)
 - Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 480
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Eagles vs. Bears: O/U 41.5 | Under 41.5 | 2.13 (47¢) | $65,800 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-2.5) | Eagles | 1.72 (58¢) | $61,773 | — | ⏳ Pendiente |
 | kkookkoo | Columbus: Braden Shick vs Ozan Baris | Braden Shick | 1.61 (62¢) | $27,692 | +$16,973 | ✅ Ganada |
 | Elenes | Will Sweden win on 2026-09-28? | No | 1.89 (53¢) | $28,404 | -$28,404 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | jaytee158 | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $51,600 | +$8,400 | ✅ Ganada |
 | YEEES-but-why | Raiders vs. Saints | Saints | 1.12 (89¢) | $46,429 | -$46,429 | ❌ Perdida |
 | ethanaz | Raiders vs. Saints | Saints | 1.20 (83¢) | $77,737 | -$77,737 | ❌ Perdida |
-| YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.33 (75¢) | $27,154 | +$9,051 | ✅ Ganada |
