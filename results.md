@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 20:04:33 (hora de Perú)
+Actualizado: 2026-09-28 20:06:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3923**  ($213,860,248 en total)
+- Apuestas registradas: **3924**  ($213,944,598 en total)
 - Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 480
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Eagles vs. Bears: O/U 44.5 | Under 44.5 | 1.47 (68¢) | $84,350 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Eagles vs. Bears | Bears | 1.67 (60¢) | $47,678 | — | ⏳ Pendiente |
 | sulumos | Eagles vs. Bears | Bears | 1.85 (54¢) | $47,499 | — | ⏳ Pendiente |
 | ndb1 | Eagles vs. Bears: O/U 41.5 | Under 41.5 | 2.13 (47¢) | $65,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Cowboys | Cowboys | 1.54 (65¢) | $32,628 | -$32,628 | ❌ Perdida |
 | Berniepaidoff | Ravens vs. Cowboys | Ravens | 1.45 (69¢) | $50,000 | +$22,464 | ✅ Ganada |
 | YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
-| jaytee158 | Ravens vs. Cowboys | Ravens | 1.16 (86¢) | $51,600 | +$8,400 | ✅ Ganada |
