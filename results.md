@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 15:04:17 (hora de Perú)
+Actualizado: 2026-09-29 15:06:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3955**  ($215,389,521 en total)
-- Resueltas: **3934** — 2391 ganadas / 1543 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Resueltas: **3935** — 2391 ganadas / 1544 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 483
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,463,194** sobre $214,431,072 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,806** sobre $387,900 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,494,015** sobre $214,461,893 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,906** sobre $388,000 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 | watcherz88 | Curitiba: Miguel Tobon vs Juan Bautista Torres | Miguel Tobon | 1.82 (55¢) | $25,622 | -$25,622 | ❌ Perdida |
 | watcherz88 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.09 (92¢) | $27,736 | +$2,412 | ✅ Ganada |
 | 110thst | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A | LGD Gaming | 1.47 (68¢) | $30,551 | +$14,377 | ✅ Ganada |
-| mariabelo | Will Finland win on 2026-09-29? | Yes | 1.56 (64¢) | $30,821 | — | ⏳ Pendiente |
+| mariabelo | Will Finland win on 2026-09-29? | Yes | 1.56 (64¢) | $30,821 | -$30,821 | ❌ Perdida |
 | watcherz88 | Porto 2: Cezar Cretu vs Henrique Rocha | Henrique Rocha | 1.18 (85¢) | $28,439 | +$5,019 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-09-29? | Yes | 1.23 (81¢) | $43,020 | — | ⏳ Pendiente |
 | qiu3 | Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D | NRG | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
