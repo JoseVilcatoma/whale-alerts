@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 21:50:02 (hora de Perú)
+Actualizado: 2026-09-28 21:52:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3940**  ($214,606,570 en total)
+- Apuestas registradas: **3941**  ($214,636,484 en total)
 - Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 481
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 481 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Japan Open Tennis Championships, Qualification: Jaume Munar vs Aleksandar Kovacevic | Jaume Munar | 1.67 (60¢) | $29,914 | — | ⏳ Pendiente |
 | ethanaz | Eagles vs. Bears | Bears | 1.25 (80¢) | $26,666 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 1.27 (79¢) | $30,285 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 1.20 (83¢) | $32,686 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 481 en total)_
 | TAIWANNUMBERONE | Rams vs. Broncos | Rams | 1.27 (79¢) | $27,650 | -$27,650 | ❌ Perdida |
 | ferrariChampions2026 | Rams vs. Broncos | Rams | 1.33 (75¢) | $39,643 | -$39,643 | ❌ Perdida |
 | ferrariChampions2026 | Rams vs. Broncos | Rams | 1.39 (72¢) | $28,310 | -$28,310 | ❌ Perdida |
-| yoyoyoyoer | Rams vs. Broncos | Rams | 1.43 (70¢) | $29,842 | -$29,842 | ❌ Perdida |
