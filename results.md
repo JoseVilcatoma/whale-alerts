@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 19:07:22 (hora de Perú)
+Actualizado: 2026-09-28 19:09:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3919**  ($213,637,498 en total)
+- Apuestas registradas: **3920**  ($213,699,271 en total)
 - Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 480
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 282 | 149 | 4 | 65% | $27,725,048 | +$825,167 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 282 | 149 | 5 | 65% | $27,786,821 | +$825,167 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 76 | 0 | 52% | $6,642,003 | -$428,990 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 66 | 44 | 0 | 60% | $6,056,956 | -$8,266 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-2.5) | Eagles | 1.72 (58¢) | $61,773 | — | ⏳ Pendiente |
 | kkookkoo | Columbus: Braden Shick vs Ozan Baris | Braden Shick | 1.61 (62¢) | $27,692 | +$16,973 | ✅ Ganada |
 | Elenes | Will Sweden win on 2026-09-28? | No | 1.89 (53¢) | $28,404 | -$28,404 | ❌ Perdida |
 | kkookkoo | Porto 2: Jerome Kym vs Tiago Torres | Tiago Torres | 1.22 (82¢) | $41,247 | -$41,247 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 480 en total)_
 | YEEES-but-why | Raiders vs. Saints | Saints | 1.12 (89¢) | $46,429 | -$46,429 | ❌ Perdida |
 | ethanaz | Raiders vs. Saints | Saints | 1.20 (83¢) | $77,737 | -$77,737 | ❌ Perdida |
 | YEEES-but-why | Ravens vs. Cowboys | Ravens | 1.33 (75¢) | $27,154 | +$9,051 | ✅ Ganada |
-| dreamerwon | Ravens vs. Cowboys | Cowboys | 3.85 (26¢) | $25,000 | -$25,000 | ❌ Perdida |
