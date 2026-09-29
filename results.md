@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 03:15:34 (hora de Perú)
+Actualizado: 2026-09-29 03:17:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3944**  ($214,854,108 en total)
+- Apuestas registradas: **3945**  ($214,899,866 en total)
 - Resueltas: **3923** — 2384 ganadas / 1539 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 482
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Sassy-Bucket | 53 | 47 | 0 | 53% | $5,270,406 | -$647,744 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
+| Diabolical-Prize | 46 | 40 | 1 | 53% | $4,452,869 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 42 | 29 | 0 | 59% | $2,760,031 | -$570,787 |
 | ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 482 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.27 (44¢) | $45,758 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Jaime Faria | Adolfo Vallejo | 2.27 (44¢) | $34,338 | — | ⏳ Pendiente |
 | raybanman | China Open, Qualification: Elvina Kalieva vs Han Shi | Han Shi | 1.75 (57¢) | $25,503 | +$19,239 | ✅ Ganada |
 | raybanman | China Open, Qualification: Marco Trungelliti vs Alex Molcan | Alex Molcan | 1.27 (79¢) | $157,782 | +$41,942 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 482 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.15 (87¢) | $28,574 | -$28,574 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos: O/U 37.5 | Under 37.5 | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rams vs. Broncos | Rams | 1.12 (89¢) | $83,889 | -$83,889 | ❌ Perdida |
-| omoi0i0 | Rams vs. Broncos | Rams | 1.23 (81¢) | $46,611 | -$46,611 | ❌ Perdida |
