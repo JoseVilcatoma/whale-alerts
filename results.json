@@ -59331,5 +59331,20 @@
     "status": "pending",
     "ultimo_fill": 1790684233,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8077,
+    "timestamp": 1790684329,
+    "username": "qiu3",
+    "wallet": "0x7f7351b5ba33a4be08b7111911b227cdd82414f1",
+    "slug": "val-kc3-nrg-2026-09-29",
+    "title": "Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D",
+    "outcome": "NRG",
+    "side": "BUY",
+    "usd": 27500.000000000004,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1790684329,
+    "fills": 1
   }
 ]
