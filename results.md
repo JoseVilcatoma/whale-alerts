@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 01:29:40 (hora de Perú)
+Actualizado: 2026-09-29 01:31:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3943**  ($214,819,769 en total)
-- Resueltas: **3921** — 2382 ganadas / 1539 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **3922** — 2383 ganadas / 1539 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 481
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,456,417** sobre $213,866,262 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,847** sobre $386,600 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,414,475** sobre $214,024,043 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,821** sobre $386,700 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 26 | 3 | 0 | 90% | $2,048,429 | +$62,817 |
-| raybanman | 13 | 4 | 2 | 76% | $1,913,512 | +$814,282 |
+| raybanman | 14 | 4 | 1 | 78% | $1,913,512 | +$856,225 |
 | Kch-Temp | 25 | 8 | 0 | 76% | $1,881,865 | +$1,079,614 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 481 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | raybanman | China Open, Qualification: Elvina Kalieva vs Han Shi | Han Shi | 1.75 (57¢) | $25,503 | — | ⏳ Pendiente |
-| raybanman | China Open, Qualification: Marco Trungelliti vs Alex Molcan | Alex Molcan | 1.27 (79¢) | $157,782 | — | ⏳ Pendiente |
+| raybanman | China Open, Qualification: Marco Trungelliti vs Alex Molcan | Alex Molcan | 1.27 (79¢) | $157,782 | +$41,942 | ✅ Ganada |
 | kkookkoo | Japan Open Tennis Championships, Qualification: Jaume Munar vs Aleksandar Kovacevic | Jaume Munar | 1.67 (60¢) | $29,914 | +$19,943 | ✅ Ganada |
 | ethanaz | Eagles vs. Bears | Bears | 1.25 (80¢) | $26,666 | +$6,667 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 1.27 (79¢) | $30,285 | +$8,050 | ✅ Ganada |
