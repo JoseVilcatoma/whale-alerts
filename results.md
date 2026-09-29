@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 09:33:56 (hora de Perú)
+Actualizado: 2026-09-29 09:36:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3953**  ($215,189,516 en total)
-- Resueltas: **3926** — 2385 ganadas / 1541 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **3927** — 2386 ganadas / 1541 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 483
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,432,264** sobre $214,164,618 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,818** sobre $387,100 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,427,245** sobre $214,193,057 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,800** sobre $387,200 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 | watcherz88 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.09 (92¢) | $27,736 | — | ⏳ Pendiente |
 | 110thst | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A | LGD Gaming | 1.47 (68¢) | $30,551 | — | ⏳ Pendiente |
 | mariabelo | Will Finland win on 2026-09-29? | Yes | 1.56 (64¢) | $30,821 | — | ⏳ Pendiente |
-| watcherz88 | Porto 2: Cezar Cretu vs Henrique Rocha | Henrique Rocha | 1.18 (85¢) | $28,439 | — | ⏳ Pendiente |
+| watcherz88 | Porto 2: Cezar Cretu vs Henrique Rocha | Henrique Rocha | 1.18 (85¢) | $28,439 | +$5,019 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-09-29? | Yes | 1.23 (81¢) | $43,020 | — | ⏳ Pendiente |
 | qiu3 | Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D | NRG | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | 110thst | Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B | Natus Vincere | 2.00 (50¢) | $66,609 | — | ⏳ Pendiente |
