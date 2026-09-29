@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 10:54:10 (hora de Perú)
+Actualizado: 2026-09-29 10:56:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3954**  ($215,215,139 en total)
-- Resueltas: **3931** — 2389 ganadas / 1542 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **3932** — 2390 ganadas / 1542 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 483
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,433,462** sobre $214,306,412 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,834** sobre $387,600 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,410,962** sobre $214,333,912 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,753** sobre $387,700 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 | mariabelo | Will Finland win on 2026-09-29? | Yes | 1.56 (64¢) | $30,821 | — | ⏳ Pendiente |
 | watcherz88 | Porto 2: Cezar Cretu vs Henrique Rocha | Henrique Rocha | 1.18 (85¢) | $28,439 | +$5,019 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-09-29? | Yes | 1.23 (81¢) | $43,020 | — | ⏳ Pendiente |
-| qiu3 | Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D | NRG | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
+| qiu3 | Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D | NRG | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | 110thst | Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B | Natus Vincere | 2.00 (50¢) | $66,609 | — | ⏳ Pendiente |
 | BrotherObama | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.22 (45¢) | $34,974 | -$34,974 | ❌ Perdida |
 | Diabolical-Prize | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.27 (44¢) | $45,758 | -$45,758 | ❌ Perdida |
