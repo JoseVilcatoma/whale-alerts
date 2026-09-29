@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-28 21:54:16 (hora de Perú)
+Actualizado: 2026-09-28 22:42:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3941**  ($214,636,484 en total)
-- Resueltas: **3899** — 2367 ganadas / 1532 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **3918** — 2379 ganadas / 1539 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 481
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,798,318** sobre $212,867,275 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,295** sobre $384,400 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$1,590,253** sobre $213,686,198 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,074** sobre $386,300 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 282 | 149 | 8 | 65% | $27,889,364 | +$825,167 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 76 | 1 | 52% | $6,669,766 | -$428,990 |
-| wr0ngw4yb3tt0r | 66 | 44 | 3 | 60% | $6,265,998 | -$8,266 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 285 | 150 | 4 | 66% | $27,889,364 | +$875,425 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 77 | 0 | 52% | $6,669,766 | -$456,753 |
+| wr0ngw4yb3tt0r | 68 | 45 | 0 | 60% | $6,265,998 | +$170,172 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 40 | 0 | 53% | $4,407,111 | -$34,493 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 41 | 29 | 1 | 59% | $2,760,031 | -$602,573 |
-| ethanaz | 30 | 13 | 4 | 70% | $2,750,978 | -$202,309 |
+| ferrariChampions2026 | 42 | 29 | 0 | 59% | $2,760,031 | -$570,787 |
+| ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
 | BrotherObama | 29 | 26 | 2 | 53% | $2,684,745 | +$403,534 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -72,27 +72,27 @@ _(mostrando los 40 de mayor monto, de 481 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | kkookkoo | Japan Open Tennis Championships, Qualification: Jaume Munar vs Aleksandar Kovacevic | Jaume Munar | 1.67 (60¢) | $29,914 | — | ⏳ Pendiente |
-| ethanaz | Eagles vs. Bears | Bears | 1.25 (80¢) | $26,666 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 1.27 (79¢) | $30,285 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 1.20 (83¢) | $32,686 | — | ⏳ Pendiente |
-| ziyoucui | Eagles vs. Bears | Bears | 1.25 (80¢) | $27,153 | — | ⏳ Pendiente |
-| sifonman | Eagles vs. Bears | Bears | 1.28 (78¢) | $28,351 | — | ⏳ Pendiente |
-| ethanaz | Eagles vs. Bears | Bears | 1.96 (51¢) | $41,937 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Bears | Eagles | 1.72 (58¢) | $27,763 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 2.44 (41¢) | $42,000 | — | ⏳ Pendiente |
-| ethanaz | Spread: Eagles (-2.5) | Bears | 2.22 (45¢) | $32,244 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Eagles vs. Bears | Eagles | 1.69 (59¢) | $44,747 | — | ⏳ Pendiente |
-| 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Eagles vs. Bears | Eagles | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Eagles vs. Bears | Eagles | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 2.44 (41¢) | $30,258 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 2.38 (42¢) | $146,202 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Eagles vs. Bears | Eagles | 1.72 (58¢) | $30,154 | — | ⏳ Pendiente |
-| ethanaz | Eagles vs. Bears | Eagles | 1.89 (53¢) | $62,524 | — | ⏳ Pendiente |
+| ethanaz | Eagles vs. Bears | Bears | 1.25 (80¢) | $26,666 | +$6,667 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 1.27 (79¢) | $30,285 | +$8,050 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 1.20 (83¢) | $32,686 | +$6,695 | ✅ Ganada |
+| ziyoucui | Eagles vs. Bears | Bears | 1.25 (80¢) | $27,153 | +$6,788 | ✅ Ganada |
+| sifonman | Eagles vs. Bears | Bears | 1.28 (78¢) | $28,351 | +$7,997 | ✅ Ganada |
+| ethanaz | Eagles vs. Bears | Bears | 1.96 (51¢) | $41,937 | +$40,293 | ✅ Ganada |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Bears | Eagles | 1.72 (58¢) | $27,763 | -$27,763 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 2.44 (41¢) | $42,000 | +$60,439 | ✅ Ganada |
+| ethanaz | Spread: Eagles (-2.5) | Bears | 2.22 (45¢) | $32,244 | +$39,410 | ✅ Ganada |
+| TAIWANNUMBERONE | Eagles vs. Bears | Eagles | 1.69 (59¢) | $44,747 | -$44,747 | ❌ Perdida |
+| 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Eagles vs. Bears | Eagles | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
+| 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Eagles vs. Bears | Eagles | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 2.44 (41¢) | $30,258 | +$43,542 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 2.38 (42¢) | $146,202 | +$201,898 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Eagles vs. Bears | Eagles | 1.72 (58¢) | $30,154 | -$30,154 | ❌ Perdida |
+| ethanaz | Eagles vs. Bears | Eagles | 1.89 (53¢) | $62,524 | -$62,524 | ❌ Perdida |
 | cosmicxbt | Eagles vs. Bears: O/U 44.5 | Under 44.5 | 1.47 (68¢) | $84,350 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Eagles vs. Bears | Bears | 1.67 (60¢) | $47,678 | — | ⏳ Pendiente |
-| sulumos | Eagles vs. Bears | Bears | 1.85 (54¢) | $47,499 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Eagles vs. Bears | Bears | 1.67 (60¢) | $47,678 | +$31,786 | ✅ Ganada |
+| sulumos | Eagles vs. Bears | Bears | 1.85 (54¢) | $47,499 | +$40,462 | ✅ Ganada |
 | ndb1 | Eagles vs. Bears: O/U 41.5 | Under 41.5 | 2.13 (47¢) | $65,800 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-2.5) | Eagles | 1.72 (58¢) | $61,773 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-2.5) | Eagles | 1.72 (58¢) | $61,773 | -$61,773 | ❌ Perdida |
 | kkookkoo | Columbus: Braden Shick vs Ozan Baris | Braden Shick | 1.61 (62¢) | $27,692 | +$16,973 | ✅ Ganada |
 | Elenes | Will Sweden win on 2026-09-28? | No | 1.89 (53¢) | $28,404 | -$28,404 | ❌ Perdida |
 | kkookkoo | Porto 2: Jerome Kym vs Tiago Torres | Tiago Torres | 1.22 (82¢) | $41,247 | -$41,247 | ❌ Perdida |

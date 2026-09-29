@@ -15,10 +15,6 @@
     "username": "totoro3miyazaki",
     "added_at": 1789323603.3408208
   },
-  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
-    "username": "RN1",
-    "added_at": 1789414928.4822145
-  },
   "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
     "username": "UpTheBlues",
     "added_at": 1789593767.455509
@@ -226,5 +222,13 @@
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "username": "swisstony",
     "added_at": 1790649017.5994613
+  },
+  "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d": {
+    "username": "Elaran1993",
+    "added_at": 1790653216.958918
+  },
+  "0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991": {
+    "username": "foodenjoyer",
+    "added_at": 1790653216.958918
   }
 }
