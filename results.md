@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 08:19:35 (hora de Perú)
+Actualizado: 2026-09-29 08:21:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3949**  ($215,071,970 en total)
+- Apuestas registradas: **3950**  ($215,100,409 en total)
 - Resueltas: **3926** — 2385 ganadas / 1541 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 483
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| watcherz88 | Porto 2: Cezar Cretu vs Henrique Rocha | Henrique Rocha | 1.18 (85¢) | $28,439 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-09-29? | Yes | 1.23 (81¢) | $43,020 | — | ⏳ Pendiente |
 | qiu3 | Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D | NRG | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | 110thst | Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B | Natus Vincere | 2.00 (50¢) | $66,609 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 483 en total)_
 | ethanaz | Spread: Rams (-5.5) | Rams | 4.17 (24¢) | $79,057 | -$79,057 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams | 1.96 (51¢) | $25,181 | -$25,181 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Broncos | 2.38 (42¢) | $25,200 | +$34,800 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Rams vs. Broncos | Rams | 1.39 (72¢) | $57,990 | -$57,990 | ❌ Perdida |
