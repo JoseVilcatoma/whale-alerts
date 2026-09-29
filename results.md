@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 04:27:00 (hora de Perú)
+Actualizado: 2026-09-29 04:29:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3946**  ($214,934,840 en total)
-- Resueltas: **3923** — 2384 ganadas / 1539 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **3924** — 2385 ganadas / 1539 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 482
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,395,235** sobre $214,049,547 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,745** sobre $386,800 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,351,532** sobre $214,083,885 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,618** sobre $386,900 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 482 en total)_
 |---|---|---|---|---|---|---|
 | BrotherObama | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.22 (45¢) | $34,974 | — | ⏳ Pendiente |
 | Diabolical-Prize | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.27 (44¢) | $45,758 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Jaime Faria | Adolfo Vallejo | 2.27 (44¢) | $34,338 | — | ⏳ Pendiente |
+| kdvlklkvlsklkfs | Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Jaime Faria | Adolfo Vallejo | 2.27 (44¢) | $34,338 | +$43,704 | ✅ Ganada |
 | raybanman | China Open, Qualification: Elvina Kalieva vs Han Shi | Han Shi | 1.75 (57¢) | $25,503 | +$19,239 | ✅ Ganada |
 | raybanman | China Open, Qualification: Marco Trungelliti vs Alex Molcan | Alex Molcan | 1.27 (79¢) | $157,782 | +$41,942 | ✅ Ganada |
 | kkookkoo | Japan Open Tennis Championships, Qualification: Jaume Munar vs Aleksandar Kovacevic | Jaume Munar | 1.67 (60¢) | $29,914 | +$19,943 | ✅ Ganada |
