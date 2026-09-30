@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 02:06:42 (hora de Perú)
+Actualizado: 2026-09-30 02:08:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3973**  ($216,089,471 en total)
+- Apuestas registradas: **3974**  ($216,134,844 en total)
 - Resueltas: **3953** — 2403 ganadas / 1550 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 484
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Group B | Team Vitality | 2.17 (46¢) | $45,373 | — | ⏳ Pendiente |
 | acorp | Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A | Xtreme Gaming | 1.19 (84¢) | $37,382 | — | ⏳ Pendiente |
 | omnibus-076daa | Jingshan: Elias Ymer vs Terence Atmane | Elias Ymer | 1.79 (56¢) | $28,075 | +$22,059 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | China Open: Maya Joint vs Sinja Kraus | Maya Joint | 1.89 (53¢) | $50,798 | -$50,798 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | kkookkoo | Porto 2: Jerome Kym vs Tiago Torres | Tiago Torres | 1.22 (82¢) | $41,247 | -$41,247 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.35 (74¢) | $29,005 | +$10,191 | ✅ Ganada |
 | kkookkoo | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.22 (82¢) | $30,992 | +$6,803 | ✅ Ganada |
-| 0x760f…326a | Porto 2: Jerome Kym vs Tiago Torres | Jerome Kym | 2.04 (49¢) | $25,013 | +$26,034 | ✅ Ganada |
