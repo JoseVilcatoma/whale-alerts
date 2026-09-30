@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 22:20:02 (hora de Perú)
+Actualizado: 2026-09-29 22:22:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3968**  ($215,916,419 en total)
+- Apuestas registradas: **3969**  ($215,943,419 en total)
 - Resueltas: **3942** — 2395 ganadas / 1547 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 484
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | China Open: Karen Khachanov vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.75 (57¢) | $27,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.10 (91¢) | $28,984 | — | ⏳ Pendiente |
 | taylorsversion | Boston Red Sox vs. New York Yankees | New York Yankees | 1.15 (87¢) | $25,022 | — | ⏳ Pendiente |
 | Gourmet1 | Canucks vs. Oilers | Canucks | 3.70 (27¢) | $35,934 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | ColdBlooded | LoL: Kaufland Hangry Knights vs Senshi Esports Club (BO1) - EMEA Masters Swiss Stage | Kaufland Hangry Knights | 1.12 (89¢) | $33,173 | +$4,100 | ✅ Ganada |
 | HectorHuang | Armenia vs. Montenegro: O/U 2.5 | Under 2.5 | 1.85 (54¢) | $26,991 | -$26,991 | ❌ Perdida |
 | Takon88 | Will Georgia win on 2026-09-28? | Yes | 2.56 (39¢) | $25,859 | -$25,859 | ❌ Perdida |
-| lfjlwkflwekfl | Will France win on 2026-09-28? | Yes | 1.92 (52¢) | $46,800 | +$43,200 | ✅ Ganada |
