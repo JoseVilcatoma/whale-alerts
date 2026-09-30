@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 23:45:37 (hora de Perú)
+Actualizado: 2026-09-29 23:47:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3970**  ($215,973,215 en total)
+- Apuestas registradas: **3971**  ($216,024,013 en total)
 - Resueltas: **3947** — 2399 ganadas / 1548 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 484
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | China Open: Maya Joint vs Sinja Kraus | Maya Joint | 1.89 (53¢) | $50,798 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Jingshan: Masamichi Imamura vs Petr Bar Biryukov | Petr Bar Biryukov | 1.19 (84¢) | $29,797 | — | ⏳ Pendiente |
 | kkookkoo | China Open: Karen Khachanov vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.75 (57¢) | $27,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.10 (91¢) | $28,984 | +$2,867 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | 0x760f…326a | Porto 2: Jerome Kym vs Tiago Torres | Jerome Kym | 2.04 (49¢) | $25,013 | +$26,034 | ✅ Ganada |
 | ptrck7 | Will Georgia win on 2026-09-28? | Yes | 2.22 (45¢) | $25,385 | -$25,385 | ❌ Perdida |
 | ColdBlooded | LoL: Kaufland Hangry Knights vs Senshi Esports Club (BO1) - EMEA Masters Swiss Stage | Kaufland Hangry Knights | 1.12 (89¢) | $33,173 | +$4,100 | ✅ Ganada |
-| HectorHuang | Armenia vs. Montenegro: O/U 2.5 | Under 2.5 | 1.85 (54¢) | $26,991 | -$26,991 | ❌ Perdida |

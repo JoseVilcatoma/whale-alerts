@@ -59678,5 +59678,20 @@
     "status": "pending",
     "ultimo_fill": 1790739870,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8126,
+    "timestamp": 1790743552,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "wta-joint-kraus-2026-09-29",
+    "title": "China Open: Maya Joint vs Sinja Kraus",
+    "outcome": "Maya Joint",
+    "side": "BUY",
+    "usd": 50797.80059999999,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1790743552,
+    "fills": 1
   }
 ]
