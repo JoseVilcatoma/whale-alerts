@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 21:38:47 (hora de Perú)
+Actualizado: 2026-09-29 21:40:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3968**  ($215,916,419 en total)
-- Resueltas: **3941** — 2395 ganadas / 1546 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **3942** — 2395 ganadas / 1547 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 484
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,527,187** sobre $214,867,667 apostados (ROI **-0.7%**)
+- **Resultado de los apostadores: -$1,528,351** sobre $214,896,755 apostados (ROI **-0.7%**)
 - Copiando $100 fijo en cada una: **-$6,949** sobre $388,600 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.10 (91¢) | $28,984 | — | ⏳ Pendiente |
 | taylorsversion | Boston Red Sox vs. New York Yankees | New York Yankees | 1.15 (87¢) | $25,022 | — | ⏳ Pendiente |
 | Gourmet1 | Canucks vs. Oilers | Canucks | 3.70 (27¢) | $35,934 | — | ⏳ Pendiente |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $29,088 | — | ⏳ Pendiente |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $29,088 | -$1,164 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.79 (56¢) | $77,281 | — | ⏳ Pendiente |
 | kkookkoo | Boston Red Sox vs. New York Yankees | New York Yankees | 1.35 (74¢) | $28,000 | — | ⏳ Pendiente |
 | viboomchuu | Canadiens vs. Maple Leafs | Canadiens | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
