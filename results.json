@@ -59693,5 +59693,20 @@
     "status": "pending",
     "ultimo_fill": 1790743552,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8131,
+    "timestamp": 1790745931,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-ymer-atmane-2026-09-29",
+    "title": "Jingshan: Elias Ymer vs Terence Atmane",
+    "outcome": "Elias Ymer",
+    "side": "BUY",
+    "usd": 28075.13,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1790745931,
+    "fills": 1
   }
 ]
