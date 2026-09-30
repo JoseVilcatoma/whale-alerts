@@ -59873,5 +59873,20 @@
     "status": "pending",
     "ultimo_fill": 1790782609,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8151,
+    "timestamp": 1790783194,
+    "username": "ColdBlooded",
+    "wallet": "0xbcc321b6336117432f4e9d2d28b20d8b6795ac9c",
+    "slug": "dota2-pari-lgd-2026-09-30-game2",
+    "title": "Dota 2: PARIVISION vs LGD Gaming - Game 2 Winner",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 25152.346400000002,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1790783194,
+    "fills": 1
   }
 ]

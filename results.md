@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 10:45:46 (hora de Perú)
+Actualizado: 2026-09-30 10:47:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3983**  ($216,524,047 en total)
+- Apuestas registradas: **3984**  ($216,549,199 en total)
 - Resueltas: **3958** — 2408 ganadas / 1550 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 485
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ColdBlooded | Dota 2: PARIVISION vs LGD Gaming - Game 2 Winner | PARIVISION | 1.37 (73¢) | $25,152 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Curitiba: Luis Guto Miguel vs Facundo Mena | Luis Guto Miguel | 1.54 (65¢) | $29,137 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. San Diego Padres | Chicago Cubs | 2.27 (44¢) | $53,436 | — | ⏳ Pendiente |
 | jaytee158 | West Indies Tour of India ODIs: India vs West Indies | India | 1.06 (94¢) | $31,383 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 2.38 (42¢) | $146,202 | +$201,898 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Eagles vs. Bears | Eagles | 1.72 (58¢) | $30,154 | -$30,154 | ❌ Perdida |
 | ethanaz | Eagles vs. Bears | Eagles | 1.89 (53¢) | $62,524 | -$62,524 | ❌ Perdida |
-| cosmicxbt | Eagles vs. Bears: O/U 44.5 | Under 44.5 | 1.47 (68¢) | $84,350 | +$39,694 | ✅ Ganada |
