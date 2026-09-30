@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 15:45:16 (hora de Perú)
+Actualizado: 2026-09-30 15:47:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3988**  ($216,677,922 en total)
+- Apuestas registradas: **3990**  ($216,775,865 en total)
 - Resueltas: **3964** — 2413 ganadas / 1551 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 8
 - Apostadores distintos: 485
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 289 | 150 | 4 | 66% | $28,097,481 | +$987,026 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 0 | 52% | $6,707,566 | -$494,553 |
-| wr0ngw4yb3tt0r | 68 | 45 | 1 | 60% | $6,319,434 | +$170,172 |
+| wr0ngw4yb3tt0r | 68 | 45 | 2 | 60% | $6,388,377 | +$170,172 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Soarin22 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Houston Astros | 1.72 (58¢) | $68,943 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.12 (89¢) | $26,700 | — | ⏳ Pendiente |
 | 177-letsgo | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.08 (93¢) | $27,805 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.10 (91¢) | $30,818 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 2.44 (41¢) | $42,000 | +$60,439 | ✅ Ganada |
 | ethanaz | Spread: Eagles (-2.5) | Bears | 2.22 (45¢) | $32,244 | +$39,410 | ✅ Ganada |
 | TAIWANNUMBERONE | Eagles vs. Bears | Eagles | 1.69 (59¢) | $44,747 | -$44,747 | ❌ Perdida |
-| 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Eagles vs. Bears | Eagles | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
-| 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Eagles vs. Bears | Eagles | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
