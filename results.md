@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 01:05:26 (hora de Perú)
+Actualizado: 2026-09-30 01:07:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3973**  ($216,089,471 en total)
-- Resueltas: **3951** — 2402 ganadas / 1549 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **3952** — 2402 ganadas / 1550 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 484
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,375,273** sobre $215,220,167 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,608** sobre $389,500 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,426,071** sobre $215,270,965 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,708** sobre $389,600 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 |---|---|---|---|---|---|---|
 | acorp | Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A | Xtreme Gaming | 1.19 (84¢) | $37,382 | — | ⏳ Pendiente |
 | omnibus-076daa | Jingshan: Elias Ymer vs Terence Atmane | Elias Ymer | 1.79 (56¢) | $28,075 | — | ⏳ Pendiente |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | China Open: Maya Joint vs Sinja Kraus | Maya Joint | 1.89 (53¢) | $50,798 | — | ⏳ Pendiente |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | China Open: Maya Joint vs Sinja Kraus | Maya Joint | 1.89 (53¢) | $50,798 | -$50,798 | ❌ Perdida |
 | ferrariChampions2026 | Jingshan: Masamichi Imamura vs Petr Bar Biryukov | Petr Bar Biryukov | 1.19 (84¢) | $29,797 | +$5,676 | ✅ Ganada |
 | kkookkoo | China Open: Karen Khachanov vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.75 (57¢) | $27,000 | -$27,000 | ❌ Perdida |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.10 (91¢) | $28,984 | +$2,867 | ✅ Ganada |
