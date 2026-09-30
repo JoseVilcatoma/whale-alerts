@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 22:40:03 (hora de Perú)
+Actualizado: 2026-09-29 22:42:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3969**  ($215,943,419 en total)
-- Resueltas: **3944** — 2396 ganadas / 1548 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **3947** — 2399 ganadas / 1548 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 484
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,528,268** sobre $214,968,150 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,936** sobre $388,800 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,511,824** sobre $215,050,156 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,876** sobre $389,100 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 41 | 0 | 53% | $4,452,869 | -$80,251 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 42 | 29 | 1 | 59% | $2,789,015 | -$570,787 |
+| ferrariChampions2026 | 43 | 29 | 0 | 60% | $2,789,015 | -$567,921 |
 | BrotherObama | 30 | 27 | 2 | 53% | $2,753,314 | +$406,443 |
 | ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -72,12 +72,12 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | kkookkoo | China Open: Karen Khachanov vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.75 (57¢) | $27,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.10 (91¢) | $28,984 | — | ⏳ Pendiente |
-| taylorsversion | Boston Red Sox vs. New York Yankees | New York Yankees | 1.15 (87¢) | $25,022 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.10 (91¢) | $28,984 | +$2,867 | ✅ Ganada |
+| taylorsversion | Boston Red Sox vs. New York Yankees | New York Yankees | 1.15 (87¢) | $25,022 | +$3,739 | ✅ Ganada |
 | Gourmet1 | Canucks vs. Oilers | Canucks | 3.70 (27¢) | $35,934 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $29,088 | -$1,164 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.79 (56¢) | $77,281 | — | ⏳ Pendiente |
-| kkookkoo | Boston Red Sox vs. New York Yankees | New York Yankees | 1.35 (74¢) | $28,000 | — | ⏳ Pendiente |
+| kkookkoo | Boston Red Sox vs. New York Yankees | New York Yankees | 1.35 (74¢) | $28,000 | +$9,838 | ✅ Ganada |
 | viboomchuu | Canadiens vs. Maple Leafs | Canadiens | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.11 (90¢) | $42,145 | +$4,683 | ✅ Ganada |
 | BrotherObama | Boston Red Sox vs. New York Yankees: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $33,595 | +$37,883 | ✅ Ganada |
