@@ -59993,5 +59993,20 @@
     "status": "pending",
     "ultimo_fill": 1790801573,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8166,
+    "timestamp": 1790803999,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "mlb-bos-nyy-2026-09-30",
+    "title": "Boston Red Sox vs. New York Yankees",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 29698.909999000003,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1790803999,
+    "fills": 1
   }
 ]
