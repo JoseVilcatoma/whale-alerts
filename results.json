@@ -59843,5 +59843,20 @@
     "status": "pending",
     "ultimo_fill": 1790780189,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8149,
+    "timestamp": 1790780703,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-chc-sd-2026-09-30",
+    "title": "Chicago Cubs vs. San Diego Padres",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 53435.8,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1790780703,
+    "fills": 1
   }
 ]
