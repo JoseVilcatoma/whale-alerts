@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 03:32:35 (hora de Perú)
+Actualizado: 2026-09-30 03:34:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3974**  ($216,134,844 en total)
+- Apuestas registradas: **3975**  ($216,163,964 en total)
 - Resueltas: **3953** — 2403 ganadas / 1550 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 484
 
 ### Balance
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
-| Lakersfan111 | 17 | 14 | 0 | 55% | $1,311,556 | -$78,408 |
+| Lakersfan111 | 17 | 14 | 1 | 55% | $1,340,676 | -$78,408 |
 | 0x361b…74fe | 16 | 1 | 0 | 94% | $1,302,905 | +$650,568 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | texaskid | 13 | 11 | 0 | 54% | $1,296,457 | -$3,953 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FORTNITEMASTER888 | LoL: T1 Academy vs Galions (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.67 (60¢) | $29,120 | — | ⏳ Pendiente |
 | omnibus-076daa | Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Group B | Team Vitality | 2.17 (46¢) | $45,373 | — | ⏳ Pendiente |
 | acorp | Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A | Xtreme Gaming | 1.19 (84¢) | $37,382 | — | ⏳ Pendiente |
 | omnibus-076daa | Jingshan: Elias Ymer vs Terence Atmane | Elias Ymer | 1.79 (56¢) | $28,075 | +$22,059 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | Elenes | Will Sweden win on 2026-09-28? | No | 1.89 (53¢) | $28,404 | -$28,404 | ❌ Perdida |
 | kkookkoo | Porto 2: Jerome Kym vs Tiago Torres | Tiago Torres | 1.22 (82¢) | $41,247 | -$41,247 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.35 (74¢) | $29,005 | +$10,191 | ✅ Ganada |
-| kkookkoo | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.22 (82¢) | $30,992 | +$6,803 | ✅ Ganada |
