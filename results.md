@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 21:13:57 (hora de Perú)
+Actualizado: 2026-09-29 21:16:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3966**  ($215,862,413 en total)
-- Resueltas: **3940** — 2394 ganadas / 1546 perdidas (**61%** de acierto)
+- Apuestas registradas: **3967**  ($215,887,434 en total)
+- Resueltas: **3941** — 2395 ganadas / 1546 perdidas (**61%** de acierto)
 - Pendientes: 8
 - Apostadores distintos: 484
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,557,187** sobre $214,837,667 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,049** sobre $388,500 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,527,187** sobre $214,867,667 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,949** sobre $388,600 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,11 +71,12 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| taylorsversion | Boston Red Sox vs. New York Yankees | New York Yankees | 1.15 (87¢) | $25,022 | — | ⏳ Pendiente |
 | Gourmet1 | Canucks vs. Oilers | Canucks | 3.70 (27¢) | $35,934 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $29,088 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.79 (56¢) | $77,281 | — | ⏳ Pendiente |
 | kkookkoo | Boston Red Sox vs. New York Yankees | New York Yankees | 1.35 (74¢) | $28,000 | — | ⏳ Pendiente |
-| viboomchuu | Canadiens vs. Maple Leafs | Canadiens | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
+| viboomchuu | Canadiens vs. Maple Leafs | Canadiens | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.11 (90¢) | $42,145 | +$4,683 | ✅ Ganada |
 | BrotherObama | Boston Red Sox vs. New York Yankees: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $33,595 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 6.5 | Under 6.5 | 1.85 (54¢) | $37,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | Takon88 | Will Georgia win on 2026-09-28? | Yes | 2.56 (39¢) | $25,859 | -$25,859 | ❌ Perdida |
 | lfjlwkflwekfl | Will France win on 2026-09-28? | Yes | 1.92 (52¢) | $46,800 | +$43,200 | ✅ Ganada |
 | BrotherObama | Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs | NIP | 2.33 (43¢) | $44,000 | +$58,326 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open, Qualification: Miomir Kecmanovic vs Adrian Mannarino | Miomir Kecmanovic | 2.08 (48¢) | $28,800 | -$28,800 | ❌ Perdida |

@@ -59553,7 +59553,7 @@
     "side": "BUY",
     "usd": 30000.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790721187,
     "fills": 1
   },
@@ -59615,6 +59615,21 @@
     "odds_at_bet": 27,
     "status": "pending",
     "ultimo_fill": 1790733476,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8114,
+    "timestamp": 1790734457,
+    "username": "taylorsversion",
+    "wallet": "0xb9c7d35d1f04d08624fabcfd3b6cee2d3c9baade",
+    "slug": "mlb-bos-nyy-2026-09-29",
+    "title": "Boston Red Sox vs. New York Yankees",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 25021.7394,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1790734457,
     "fills": 1
   }
 ]
