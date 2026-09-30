@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 11:22:52 (hora de Perú)
+Actualizado: 2026-09-30 11:24:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3984**  ($216,549,199 en total)
-- Resueltas: **3958** — 2408 ganadas / 1550 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **3959** — 2409 ganadas / 1550 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 485
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,284,234** sobre $215,555,767 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,368** sobre $390,200 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$1,268,546** sobre $215,584,904 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,314** sobre $390,300 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 288 | 150 | 4 | 66% | $28,070,781 | +$971,337 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 289 | 150 | 3 | 66% | $28,070,781 | +$987,026 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 0 | 52% | $6,707,566 | -$494,553 |
 | wr0ngw4yb3tt0r | 68 | 45 | 1 | 60% | $6,319,434 | +$170,172 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | ColdBlooded | Dota 2: PARIVISION vs LGD Gaming - Game 2 Winner | PARIVISION | 1.37 (73¢) | $25,152 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Curitiba: Luis Guto Miguel vs Facundo Mena | Luis Guto Miguel | 1.54 (65¢) | $29,137 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Curitiba: Luis Guto Miguel vs Facundo Mena | Luis Guto Miguel | 1.54 (65¢) | $29,137 | +$15,689 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. San Diego Padres | Chicago Cubs | 2.27 (44¢) | $53,436 | — | ⏳ Pendiente |
 | jaytee158 | West Indies Tour of India ODIs: India vs West Indies | India | 1.06 (94¢) | $31,383 | — | ⏳ Pendiente |
 | llllllIIIIIIlIllllllIIIIIIlIllllllIIIIIIlI | Dota 2: PARIVISION vs LGD Gaming (BO3) - BLAST Slam Group A | PARIVISION | 1.14 (88¢) | $35,200 | — | ⏳ Pendiente |
