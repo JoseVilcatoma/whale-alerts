@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 23:47:40 (hora de Perú)
+Actualizado: 2026-09-29 23:49:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3971**  ($216,024,013 en total)
-- Resueltas: **3947** — 2399 ganadas / 1548 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **3948** — 2400 ganadas / 1548 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 484
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,511,824** sobre $215,050,156 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,876** sobre $389,100 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,506,149** sobre $215,079,953 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,857** sobre $389,200 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 41 | 0 | 53% | $4,452,869 | -$80,251 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 43 | 29 | 1 | 60% | $2,818,812 | -$567,921 |
+| ferrariChampions2026 | 44 | 29 | 0 | 60% | $2,818,812 | -$562,245 |
 | BrotherObama | 30 | 27 | 2 | 53% | $2,753,314 | +$406,443 |
 | ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | China Open: Maya Joint vs Sinja Kraus | Maya Joint | 1.89 (53¢) | $50,798 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Jingshan: Masamichi Imamura vs Petr Bar Biryukov | Petr Bar Biryukov | 1.19 (84¢) | $29,797 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Jingshan: Masamichi Imamura vs Petr Bar Biryukov | Petr Bar Biryukov | 1.19 (84¢) | $29,797 | +$5,676 | ✅ Ganada |
 | kkookkoo | China Open: Karen Khachanov vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.75 (57¢) | $27,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.10 (91¢) | $28,984 | +$2,867 | ✅ Ganada |
 | taylorsversion | Boston Red Sox vs. New York Yankees | New York Yankees | 1.15 (87¢) | $25,022 | +$3,739 | ✅ Ganada |
