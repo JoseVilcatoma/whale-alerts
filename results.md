@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 11:41:24 (hora de Perú)
+Actualizado: 2026-09-30 11:43:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3984**  ($216,549,199 en total)
+- Apuestas registradas: **3985**  ($216,592,599 en total)
 - Resueltas: **3959** — 2409 ganadas / 1550 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 485
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Sassy-Bucket | 53 | 47 | 0 | 53% | $5,270,406 | -$647,744 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Diabolical-Prize | 46 | 41 | 0 | 53% | $4,452,869 | -$80,251 |
+| Diabolical-Prize | 46 | 41 | 1 | 53% | $4,496,269 | -$80,251 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 44 | 29 | 0 | 60% | $2,818,812 | -$562,245 |
 | BrotherObama | 30 | 27 | 2 | 53% | $2,753,314 | +$406,443 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B | Natus Vincere | 1.61 (62¢) | $43,400 | — | ⏳ Pendiente |
 | ColdBlooded | Dota 2: PARIVISION vs LGD Gaming - Game 2 Winner | PARIVISION | 1.37 (73¢) | $25,152 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Curitiba: Luis Guto Miguel vs Facundo Mena | Luis Guto Miguel | 1.54 (65¢) | $29,137 | +$15,689 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. San Diego Padres | Chicago Cubs | 2.27 (44¢) | $53,436 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 2.44 (41¢) | $30,258 | +$43,542 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 2.38 (42¢) | $146,202 | +$201,898 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Eagles vs. Bears | Eagles | 1.72 (58¢) | $30,154 | -$30,154 | ❌ Perdida |
-| ethanaz | Eagles vs. Bears | Eagles | 1.89 (53¢) | $62,524 | -$62,524 | ❌ Perdida |
