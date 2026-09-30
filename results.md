@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 20:38:57 (hora de Perú)
+Actualizado: 2026-09-29 20:41:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3963**  ($215,720,110 en total)
+- Apuestas registradas: **3964**  ($215,797,391 en total)
 - Resueltas: **3940** — 2394 ganadas / 1546 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 484
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 286 | 150 | 3 | 66% | $27,889,364 | +$885,617 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 286 | 150 | 4 | 66% | $27,966,644 | +$885,617 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 77 | 1 | 52% | $6,707,566 | -$456,753 |
 | wr0ngw4yb3tt0r | 68 | 45 | 0 | 60% | $6,265,998 | +$170,172 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.79 (56¢) | $77,281 | — | ⏳ Pendiente |
 | kkookkoo | Boston Red Sox vs. New York Yankees | New York Yankees | 1.35 (74¢) | $28,000 | — | ⏳ Pendiente |
 | viboomchuu | Canadiens vs. Maple Leafs | Canadiens | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.11 (90¢) | $42,145 | +$4,683 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open, Qualification: Miomir Kecmanovic vs Adrian Mannarino | Miomir Kecmanovic | 2.08 (48¢) | $28,800 | -$28,800 | ❌ Perdida |
 | lfg100k | Will Sweden win on 2026-09-28? | Yes | 2.08 (48¢) | $27,000 | +$29,250 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chengdu Open: Hubert Hurkacz vs Denis Shapovalov | Hubert Hurkacz | 1.67 (60¢) | $31,143 | +$20,762 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Daniil Medvedev vs Roman Safiullin | Daniil Medvedev | 1.54 (65¢) | $39,000 | +$21,000 | ✅ Ganada |
