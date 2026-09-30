@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 20:36:53 (hora de Perú)
+Actualizado: 2026-09-29 20:38:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3962**  ($215,692,110 en total)
+- Apuestas registradas: **3963**  ($215,720,110 en total)
 - Resueltas: **3940** — 2394 ganadas / 1546 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 484
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Boston Red Sox vs. New York Yankees | New York Yankees | 1.35 (74¢) | $28,000 | — | ⏳ Pendiente |
 | viboomchuu | Canadiens vs. Maple Leafs | Canadiens | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.11 (90¢) | $42,145 | +$4,683 | ✅ Ganada |
 | BrotherObama | Boston Red Sox vs. New York Yankees: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $33,595 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | lfg100k | Will Sweden win on 2026-09-28? | Yes | 2.08 (48¢) | $27,000 | +$29,250 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chengdu Open: Hubert Hurkacz vs Denis Shapovalov | Hubert Hurkacz | 1.67 (60¢) | $31,143 | +$20,762 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hangzhou Open: Daniil Medvedev vs Roman Safiullin | Daniil Medvedev | 1.54 (65¢) | $39,000 | +$21,000 | ✅ Ganada |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Bari: Federico Arnaboldi vs Svyatoslav Gulin | Federico Arnaboldi | 1.25 (80¢) | $87,674 | +$21,918 | ✅ Ganada |
