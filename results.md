@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 18:33:13 (hora de Perú)
+Actualizado: 2026-09-30 18:35:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3994**  ($216,931,300 en total)
+- Apuestas registradas: **3995**  ($216,991,194 en total)
 - Resueltas: **3967** — 2413 ganadas / 1554 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 485
 
 ### Balance
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| 0F62 | 26 | 3 | 0 | 90% | $2,048,429 | +$62,817 |
+| 0F62 | 26 | 3 | 1 | 90% | $2,108,323 | +$62,817 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | Kch-Temp | 25 | 8 | 0 | 76% | $1,881,865 | +$1,079,614 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.06 (94¢) | $59,894 | — | ⏳ Pendiente |
 | jaytee158 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $32,984 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.30 (77¢) | $25,397 | — | ⏳ Pendiente |
 | kkookkoo | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $29,699 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 1.20 (83¢) | $32,686 | +$6,695 | ✅ Ganada |
 | ziyoucui | Eagles vs. Bears | Bears | 1.25 (80¢) | $27,153 | +$6,788 | ✅ Ganada |
 | sifonman | Eagles vs. Bears | Bears | 1.28 (78¢) | $28,351 | +$7,997 | ✅ Ganada |
-| ethanaz | Eagles vs. Bears | Bears | 1.96 (51¢) | $41,937 | +$40,293 | ✅ Ganada |
