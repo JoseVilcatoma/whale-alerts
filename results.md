@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 17:36:51 (hora de Perú)
+Actualizado: 2026-09-30 17:38:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3993**  ($216,898,316 en total)
+- Apuestas registradas: **3994**  ($216,931,300 en total)
 - Resueltas: **3967** — 2413 ganadas / 1554 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 485
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jaytee158 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $32,984 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.30 (77¢) | $25,397 | — | ⏳ Pendiente |
 | kkookkoo | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $29,699 | — | ⏳ Pendiente |
 | Elenes | Islanders vs. Maple Leafs | Maple Leafs | 1.82 (55¢) | $67,355 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | ziyoucui | Eagles vs. Bears | Bears | 1.25 (80¢) | $27,153 | +$6,788 | ✅ Ganada |
 | sifonman | Eagles vs. Bears | Bears | 1.28 (78¢) | $28,351 | +$7,997 | ✅ Ganada |
 | ethanaz | Eagles vs. Bears | Bears | 1.96 (51¢) | $41,937 | +$40,293 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Bears | Eagles | 1.72 (58¢) | $27,763 | -$27,763 | ❌ Perdida |
