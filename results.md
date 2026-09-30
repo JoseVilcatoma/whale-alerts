@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 06:46:06 (hora de Perú)
+Actualizado: 2026-09-30 06:48:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3977**  ($216,260,957 en total)
-- Resueltas: **3954** — 2404 ganadas / 1550 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **3955** — 2405 ganadas / 1550 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 484
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,392,894** sobre $215,367,340 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,613** sobre $389,800 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,339,629** sobre $215,412,714 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,496** sobre $389,900 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.38 (42¢) | $28,693 | — | ⏳ Pendiente |
 | HVAB | Jingshan: Sijia Wei vs Fiona Ferro | Sijia Wei | 1.16 (86¢) | $68,300 | +$11,119 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: T1 Academy vs Galions (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.67 (60¢) | $29,120 | — | ⏳ Pendiente |
-| omnibus-076daa | Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Group B | Team Vitality | 2.17 (46¢) | $45,373 | — | ⏳ Pendiente |
+| omnibus-076daa | Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Group B | Team Vitality | 2.17 (46¢) | $45,373 | +$53,264 | ✅ Ganada |
 | acorp | Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A | Xtreme Gaming | 1.19 (84¢) | $37,382 | — | ⏳ Pendiente |
 | omnibus-076daa | Jingshan: Elias Ymer vs Terence Atmane | Elias Ymer | 1.79 (56¢) | $28,075 | +$22,059 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | China Open: Maya Joint vs Sinja Kraus | Maya Joint | 1.89 (53¢) | $50,798 | -$50,798 | ❌ Perdida |
