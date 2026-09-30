@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 08:34:38 (hora de Perú)
+Actualizado: 2026-09-30 08:36:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3979**  ($216,374,891 en total)
-- Resueltas: **3956** — 2406 ganadas / 1550 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **3958** — 2408 ganadas / 1550 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 484
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,320,216** sobre $215,441,833 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,429** sobre $390,000 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$1,284,234** sobre $215,555,767 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,368** sobre $390,200 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 287 | 150 | 4 | 66% | $28,041,644 | +$946,337 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 288 | 150 | 3 | 66% | $28,041,644 | +$971,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 0 | 52% | $6,707,566 | -$494,553 |
 | wr0ngw4yb3tt0r | 68 | 45 | 0 | 60% | $6,265,998 | +$170,172 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,8 +71,8 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| watcherz88 | China Open: Nuno Borges vs Novak Djokovic | Novak Djokovic | 1.28 (78¢) | $38,934 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Nuno Borges vs Novak Djokovic | Novak Djokovic | 1.33 (75¢) | $75,000 | — | ⏳ Pendiente |
+| watcherz88 | China Open: Nuno Borges vs Novak Djokovic | Novak Djokovic | 1.28 (78¢) | $38,934 | +$10,981 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Nuno Borges vs Novak Djokovic | Novak Djokovic | 1.33 (75¢) | $75,000 | +$25,000 | ✅ Ganada |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.38 (42¢) | $28,693 | — | ⏳ Pendiente |
 | HVAB | Jingshan: Sijia Wei vs Fiona Ferro | Sijia Wei | 1.16 (86¢) | $68,300 | +$11,119 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: T1 Academy vs Galions (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.67 (60¢) | $29,120 | +$19,413 | ✅ Ganada |
