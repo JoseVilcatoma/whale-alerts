@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 08:20:18 (hora de Perú)
+Actualizado: 2026-09-30 08:22:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3979**  ($216,374,891 en total)
-- Resueltas: **3955** — 2405 ganadas / 1550 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **3956** — 2406 ganadas / 1550 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 484
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,339,629** sobre $215,412,714 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,496** sobre $389,900 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,320,216** sobre $215,441,833 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,429** sobre $390,000 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
-| Lakersfan111 | 17 | 14 | 1 | 55% | $1,340,676 | -$78,408 |
+| Lakersfan111 | 18 | 14 | 0 | 56% | $1,340,676 | -$58,995 |
 | 0x361b…74fe | 16 | 1 | 0 | 94% | $1,302,905 | +$650,568 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | texaskid | 13 | 11 | 0 | 54% | $1,296,457 | -$3,953 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Nuno Borges vs Novak Djokovic | Novak Djokovic | 1.33 (75¢) | $75,000 | — | ⏳ Pendiente |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.38 (42¢) | $28,693 | — | ⏳ Pendiente |
 | HVAB | Jingshan: Sijia Wei vs Fiona Ferro | Sijia Wei | 1.16 (86¢) | $68,300 | +$11,119 | ✅ Ganada |
-| FORTNITEMASTER888 | LoL: T1 Academy vs Galions (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.67 (60¢) | $29,120 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | LoL: T1 Academy vs Galions (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.67 (60¢) | $29,120 | +$19,413 | ✅ Ganada |
 | omnibus-076daa | Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Group B | Team Vitality | 2.17 (46¢) | $45,373 | +$53,264 | ✅ Ganada |
 | acorp | Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A | Xtreme Gaming | 1.19 (84¢) | $37,382 | — | ⏳ Pendiente |
 | omnibus-076daa | Jingshan: Elias Ymer vs Terence Atmane | Elias Ymer | 1.79 (56¢) | $28,075 | +$22,059 | ✅ Ganada |
