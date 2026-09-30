@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 16:43:13 (hora de Perú)
+Actualizado: 2026-09-30 16:45:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3992**  ($216,872,919 en total)
-- Resueltas: **3964** — 2413 ganadas / 1551 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **3967** — 2413 ganadas / 1554 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 485
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,288,719** sobre $215,757,422 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,338** sobre $390,800 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$1,374,042** sobre $215,842,745 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,638** sobre $391,100 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 289 | 150 | 4 | 66% | $28,097,481 | +$987,026 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 289 | 151 | 3 | 66% | $28,097,481 | +$960,326 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 0 | 52% | $6,707,566 | -$494,553 |
 | wr0ngw4yb3tt0r | 68 | 45 | 2 | 60% | $6,388,377 | +$170,172 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 42 | 0 | 52% | $4,496,269 | -$123,651 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 44 | 29 | 1 | 60% | $2,849,630 | -$562,245 |
+| ferrariChampions2026 | 44 | 30 | 0 | 59% | $2,849,630 | -$593,064 |
 | BrotherObama | 30 | 27 | 2 | 53% | $2,753,314 | +$406,443 |
 | ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -75,9 +75,9 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | Elenes | Islanders vs. Maple Leafs | Maple Leafs | 1.82 (55¢) | $67,355 | — | ⏳ Pendiente |
 | Soarin22 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Houston Astros | 1.72 (58¢) | $68,943 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.12 (89¢) | $26,700 | — | ⏳ Pendiente |
-| 177-letsgo | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.08 (93¢) | $27,805 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.10 (91¢) | $30,818 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.12 (89¢) | $26,700 | -$26,700 | ❌ Perdida |
+| 177-letsgo | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.08 (93¢) | $27,805 | -$27,805 | ❌ Perdida |
+| ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.10 (91¢) | $30,818 | -$30,818 | ❌ Perdida |
 | Diabolical-Prize | Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B | Natus Vincere | 1.61 (62¢) | $43,400 | -$43,400 | ❌ Perdida |
 | ColdBlooded | Dota 2: PARIVISION vs LGD Gaming - Game 2 Winner | PARIVISION | 1.37 (73¢) | $25,152 | +$9,303 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Curitiba: Luis Guto Miguel vs Facundo Mena | Luis Guto Miguel | 1.54 (65¢) | $29,137 | +$15,689 | ✅ Ganada |
