@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 21:26:22 (hora de Perú)
+Actualizado: 2026-09-29 21:28:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3967**  ($215,887,434 en total)
+- Apuestas registradas: **3968**  ($215,916,419 en total)
 - Resueltas: **3941** — 2395 ganadas / 1546 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 484
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 41 | 0 | 53% | $4,452,869 | -$80,251 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 42 | 29 | 0 | 59% | $2,760,031 | -$570,787 |
+| ferrariChampions2026 | 42 | 29 | 1 | 59% | $2,789,015 | -$570,787 |
 | BrotherObama | 29 | 27 | 3 | 52% | $2,753,314 | +$368,560 |
 | ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.10 (91¢) | $28,984 | — | ⏳ Pendiente |
 | taylorsversion | Boston Red Sox vs. New York Yankees | New York Yankees | 1.15 (87¢) | $25,022 | — | ⏳ Pendiente |
 | Gourmet1 | Canucks vs. Oilers | Canucks | 3.70 (27¢) | $35,934 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $29,088 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | HectorHuang | Armenia vs. Montenegro: O/U 2.5 | Under 2.5 | 1.85 (54¢) | $26,991 | -$26,991 | ❌ Perdida |
 | Takon88 | Will Georgia win on 2026-09-28? | Yes | 2.56 (39¢) | $25,859 | -$25,859 | ❌ Perdida |
 | lfjlwkflwekfl | Will France win on 2026-09-28? | Yes | 1.92 (52¢) | $46,800 | +$43,200 | ✅ Ganada |
-| BrotherObama | Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs | NIP | 2.33 (43¢) | $44,000 | +$58,326 | ✅ Ganada |
