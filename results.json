@@ -59813,5 +59813,20 @@
     "status": "won",
     "ultimo_fill": 1790772662,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8147,
+    "timestamp": 1790778588,
+    "username": "llllllIIIIIIlIllllllIIIIIIlIllllllIIIIIIlI",
+    "wallet": "0x7714c16f86bcfdba47bfcb161dc39a2a1ff2b814",
+    "slug": "dota2-pari-lgd-2026-09-30",
+    "title": "Dota 2: PARIVISION vs LGD Gaming (BO3) - BLAST Slam Group A",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 35200.0,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1790778588,
+    "fills": 1
   }
 ]
