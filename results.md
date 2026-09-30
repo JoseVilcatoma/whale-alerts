@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 15:51:27 (hora de Perú)
+Actualizado: 2026-09-30 15:53:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3990**  ($216,775,865 en total)
+- Apuestas registradas: **3991**  ($216,843,220 en total)
 - Resueltas: **3964** — 2413 ganadas / 1551 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 485
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elenes | Islanders vs. Maple Leafs | Maple Leafs | 1.82 (55¢) | $67,355 | — | ⏳ Pendiente |
 | Soarin22 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Houston Astros | 1.72 (58¢) | $68,943 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.12 (89¢) | $26,700 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Bears | Eagles | 1.72 (58¢) | $27,763 | -$27,763 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 2.44 (41¢) | $42,000 | +$60,439 | ✅ Ganada |
 | ethanaz | Spread: Eagles (-2.5) | Bears | 2.22 (45¢) | $32,244 | +$39,410 | ✅ Ganada |
-| TAIWANNUMBERONE | Eagles vs. Bears | Eagles | 1.69 (59¢) | $44,747 | -$44,747 | ❌ Perdida |
