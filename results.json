@@ -59663,5 +59663,20 @@
     "status": "pending",
     "ultimo_fill": 1790738412,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8125,
+    "timestamp": 1790739870,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-imamura-biryuko-2026-09-28",
+    "title": "Jingshan: Masamichi Imamura vs Petr Bar Biryukov",
+    "outcome": "Petr Bar Biryukov",
+    "side": "BUY",
+    "usd": 29796.740399999995,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1790739870,
+    "fills": 1
   }
 ]
