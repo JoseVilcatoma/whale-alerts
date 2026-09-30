@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 22:24:06 (hora de Perú)
+Actualizado: 2026-09-29 22:26:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3969**  ($215,943,419 en total)
-- Resueltas: **3942** — 2395 ganadas / 1547 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **3944** — 2396 ganadas / 1548 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 484
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,528,351** sobre $214,896,755 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,949** sobre $388,600 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,528,268** sobre $214,968,150 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,936** sobre $388,800 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 286 | 150 | 4 | 66% | $27,966,644 | +$885,617 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 77 | 1 | 52% | $6,707,566 | -$456,753 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 0 | 52% | $6,707,566 | -$494,553 |
 | wr0ngw4yb3tt0r | 68 | 45 | 0 | 60% | $6,265,998 | +$170,172 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 46 | 41 | 0 | 53% | $4,452,869 | -$80,251 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 42 | 29 | 1 | 59% | $2,789,015 | -$570,787 |
-| BrotherObama | 29 | 27 | 3 | 52% | $2,753,314 | +$368,560 |
+| BrotherObama | 30 | 27 | 2 | 53% | $2,753,314 | +$406,443 |
 | ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -80,8 +80,8 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | kkookkoo | Boston Red Sox vs. New York Yankees | New York Yankees | 1.35 (74¢) | $28,000 | — | ⏳ Pendiente |
 | viboomchuu | Canadiens vs. Maple Leafs | Canadiens | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.11 (90¢) | $42,145 | +$4,683 | ✅ Ganada |
-| BrotherObama | Boston Red Sox vs. New York Yankees: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $33,595 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 6.5 | Under 6.5 | 1.85 (54¢) | $37,800 | — | ⏳ Pendiente |
+| BrotherObama | Boston Red Sox vs. New York Yankees: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $33,595 | +$37,883 | ✅ Ganada |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 6.5 | Under 6.5 | 1.85 (54¢) | $37,800 | -$37,800 | ❌ Perdida |
 | xabidaking | Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs | Jiri Lehecka | 1.39 (72¢) | $42,823 | — | ⏳ Pendiente |
 | kkookkoo | Columbus: Trevor Svajda vs Andres Andrade | Trevor Svajda | 1.64 (61¢) | $27,628 | -$27,628 | ❌ Perdida |
 | PerpsKing | Chicago White Sox vs. Houston Astros | Houston Astros | 1.85 (54¢) | $88,597 | -$88,597 | ❌ Perdida |
