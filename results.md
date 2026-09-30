@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 05:56:54 (hora de Perú)
+Actualizado: 2026-09-30 05:58:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3975**  ($216,163,964 en total)
+- Apuestas registradas: **3976**  ($216,232,264 en total)
 - Resueltas: **3953** — 2403 ganadas / 1550 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 484
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HVAB | Jingshan: Sijia Wei vs Fiona Ferro | Sijia Wei | 1.16 (86¢) | $68,300 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: T1 Academy vs Galions (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.67 (60¢) | $29,120 | — | ⏳ Pendiente |
 | omnibus-076daa | Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Group B | Team Vitality | 2.17 (46¢) | $45,373 | — | ⏳ Pendiente |
 | acorp | Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A | Xtreme Gaming | 1.19 (84¢) | $37,382 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | kkookkoo | Columbus: Braden Shick vs Ozan Baris | Braden Shick | 1.61 (62¢) | $27,692 | +$16,973 | ✅ Ganada |
 | Elenes | Will Sweden win on 2026-09-28? | No | 1.89 (53¢) | $28,404 | -$28,404 | ❌ Perdida |
 | kkookkoo | Porto 2: Jerome Kym vs Tiago Torres | Tiago Torres | 1.22 (82¢) | $41,247 | -$41,247 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.35 (74¢) | $29,005 | +$10,191 | ✅ Ganada |
