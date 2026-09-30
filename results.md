@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 06:37:54 (hora de Perú)
+Actualizado: 2026-09-30 06:39:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3977**  ($216,260,957 en total)
-- Resueltas: **3953** — 2403 ganadas / 1550 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **3954** — 2404 ganadas / 1550 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 484
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,404,012** sobre $215,299,040 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,630** sobre $389,700 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,392,894** sobre $215,367,340 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,613** sobre $389,800 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.38 (42¢) | $28,693 | — | ⏳ Pendiente |
-| HVAB | Jingshan: Sijia Wei vs Fiona Ferro | Sijia Wei | 1.16 (86¢) | $68,300 | — | ⏳ Pendiente |
+| HVAB | Jingshan: Sijia Wei vs Fiona Ferro | Sijia Wei | 1.16 (86¢) | $68,300 | +$11,119 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: T1 Academy vs Galions (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.67 (60¢) | $29,120 | — | ⏳ Pendiente |
 | omnibus-076daa | Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Group B | Team Vitality | 2.17 (46¢) | $45,373 | — | ⏳ Pendiente |
 | acorp | Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A | Xtreme Gaming | 1.19 (84¢) | $37,382 | — | ⏳ Pendiente |
