@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-29 23:59:58 (hora de Perú)
+Actualizado: 2026-09-30 00:02:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3971**  ($216,024,013 en total)
-- Resueltas: **3948** — 2400 ganadas / 1548 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **3949** — 2400 ganadas / 1549 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 484
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,506,149** sobre $215,079,953 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,857** sobre $389,200 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,533,149** sobre $215,106,953 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,957** sobre $389,300 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 484 en total)_
 |---|---|---|---|---|---|---|
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | China Open: Maya Joint vs Sinja Kraus | Maya Joint | 1.89 (53¢) | $50,798 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Jingshan: Masamichi Imamura vs Petr Bar Biryukov | Petr Bar Biryukov | 1.19 (84¢) | $29,797 | +$5,676 | ✅ Ganada |
-| kkookkoo | China Open: Karen Khachanov vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.75 (57¢) | $27,000 | — | ⏳ Pendiente |
+| kkookkoo | China Open: Karen Khachanov vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.75 (57¢) | $27,000 | -$27,000 | ❌ Perdida |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.10 (91¢) | $28,984 | +$2,867 | ✅ Ganada |
 | taylorsversion | Boston Red Sox vs. New York Yankees | New York Yankees | 1.15 (87¢) | $25,022 | +$3,739 | ✅ Ganada |
 | Gourmet1 | Canucks vs. Oilers | Canucks | 3.70 (27¢) | $35,934 | — | ⏳ Pendiente |
