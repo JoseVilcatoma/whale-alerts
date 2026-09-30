@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 15:22:39 (hora de Perú)
+Actualizado: 2026-09-30 15:24:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3985**  ($216,592,599 en total)
+- Apuestas registradas: **3987**  ($216,651,222 en total)
 - Resueltas: **3964** — 2413 ganadas / 1551 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 5
 - Apostadores distintos: 485
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 42 | 0 | 52% | $4,496,269 | -$123,651 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 44 | 29 | 0 | 60% | $2,818,812 | -$562,245 |
+| ferrariChampions2026 | 44 | 29 | 1 | 60% | $2,849,630 | -$562,245 |
 | BrotherObama | 30 | 27 | 2 | 53% | $2,753,314 | +$406,443 |
 | ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 177-letsgo | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.08 (93¢) | $27,805 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.10 (91¢) | $30,818 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B | Natus Vincere | 1.61 (62¢) | $43,400 | -$43,400 | ❌ Perdida |
 | ColdBlooded | Dota 2: PARIVISION vs LGD Gaming - Game 2 Winner | PARIVISION | 1.37 (73¢) | $25,152 | +$9,303 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Curitiba: Luis Guto Miguel vs Facundo Mena | Luis Guto Miguel | 1.54 (65¢) | $29,137 | +$15,689 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Eagles vs. Bears | Eagles | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
 | 0xe987c520c086Cf3930b0d163067B5470ba0FF0E1-1780518901092 | Eagles vs. Bears | Eagles | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 2.44 (41¢) | $30,258 | +$43,542 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 2.38 (42¢) | $146,202 | +$201,898 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Eagles vs. Bears | Eagles | 1.72 (58¢) | $30,154 | -$30,154 | ❌ Perdida |

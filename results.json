@@ -59903,5 +59903,35 @@
     "status": "lost",
     "ultimo_fill": 1790786497,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8160,
+    "timestamp": 1790799763,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-phi-atl-2026-09-30",
+    "title": "Philadelphia Phillies vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 30818.4149,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1790799763,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8161,
+    "timestamp": 1790799835,
+    "username": "177-letsgo",
+    "wallet": "0x7a75a4183e577123db9ff0adff520561ef95d288",
+    "slug": "mlb-phi-atl-2026-09-30",
+    "title": "Philadelphia Phillies vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 27804.7313,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1790799835,
+    "fills": 1
   }
 ]
