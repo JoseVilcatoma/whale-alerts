@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 01:21:54 (hora de Perú)
+Actualizado: 2026-10-01 01:23:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4007**  ($217,475,766 en total)
-- Resueltas: **3982** — 2421 ganadas / 1561 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **3983** — 2421 ganadas / 1562 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 486
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,474,743** sobre $216,460,734 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,792** sobre $392,500 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,508,834** sobre $216,494,825 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,892** sobre $392,600 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 2.00 (50¢) | $26,432 | — | ⏳ Pendiente |
 | Kev69 | China Open: Yulia Starodubtseva vs Alina Charaeva | Yulia Starodubtseva | 1.28 (78¢) | $59,282 | — | ⏳ Pendiente |
 | gransaaa | Will Netherlands win on 2026-10-01? | No | 1.85 (54¢) | $76,140 | — | ⏳ Pendiente |
-| Antblack | Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas | Tomas Etcheverry | 1.92 (52¢) | $34,091 | — | ⏳ Pendiente |
+| Antblack | Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas | Tomas Etcheverry | 1.92 (52¢) | $34,091 | -$34,091 | ❌ Perdida |
 | Kev69 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.37 (73¢) | $46,390 | +$13,345 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $26,316 | -$26,316 | ❌ Perdida |
 | curie | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $35,883 | -$35,883 | ❌ Perdida |
