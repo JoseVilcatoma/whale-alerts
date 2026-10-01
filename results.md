@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 07:11:00 (hora de Perú)
+Actualizado: 2026-10-01 07:13:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4015**  ($217,808,652 en total)
+- Apuestas registradas: **4016**  ($217,833,652 en total)
 - Resueltas: **3989** — 2426 ganadas / 1563 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 486
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 46 | 42 | 1 | 52% | $4,532,820 | -$123,651 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 44 | 30 | 0 | 59% | $2,849,630 | -$593,064 |
-| BrotherObama | 30 | 28 | 2 | 52% | $2,813,314 | +$346,443 |
+| BrotherObama | 30 | 28 | 3 | 52% | $2,838,314 | +$346,443 |
 | ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Counter-Strike: BIG vs fnatic (BO3) - Stake Ranked Episode 4 Playoffs | fnatic | 2.63 (38¢) | $25,000 | — | ⏳ Pendiente |
 | jaytee158 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.16 (86¢) | $44,777 | — | ⏳ Pendiente |
 | qiu3 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.16 (86¢) | $45,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: NS (-1.5) vs XLG Gaming (+1.5) | XLG Gaming | 2.44 (41¢) | $36,551 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 6.5 | Under 6.5 | 1.85 (54¢) | $37,800 | -$37,800 | ❌ Perdida |
 | xabidaking | Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs | Jiri Lehecka | 1.39 (72¢) | $42,823 | +$16,653 | ✅ Ganada |
 | kkookkoo | Columbus: Trevor Svajda vs Andres Andrade | Trevor Svajda | 1.64 (61¢) | $27,628 | -$27,628 | ❌ Perdida |
-| PerpsKing | Chicago White Sox vs. Houston Astros | Houston Astros | 1.85 (54¢) | $88,597 | -$88,597 | ❌ Perdida |
