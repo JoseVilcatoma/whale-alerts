@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 06:56:39 (hora de Perú)
+Actualizado: 2026-10-01 06:58:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4013**  ($217,718,875 en total)
+- Apuestas registradas: **4014**  ($217,763,875 en total)
 - Resueltas: **3987** — 2424 ganadas / 1563 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 486
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| qiu3 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.16 (86¢) | $45,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: NS (-1.5) vs XLG Gaming (+1.5) | XLG Gaming | 2.44 (41¢) | $36,551 | — | ⏳ Pendiente |
 | qiu3 | Map Handicap: NS (-1.5) vs XLG Gaming (+1.5) | Nongshim RedForce | 1.69 (59¢) | $32,152 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.18 (85¢) | $58,357 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | kkookkoo | Columbus: Trevor Svajda vs Andres Andrade | Trevor Svajda | 1.64 (61¢) | $27,628 | -$27,628 | ❌ Perdida |
 | PerpsKing | Chicago White Sox vs. Houston Astros | Houston Astros | 1.85 (54¢) | $88,597 | -$88,597 | ❌ Perdida |
 | 0x361b…74fe | Will Spain win on 2026-09-29? | Yes | 1.22 (82¢) | $174,383 | +$38,279 | ✅ Ganada |
-| watcherz88 | Curitiba: Miguel Tobon vs Juan Bautista Torres | Miguel Tobon | 1.82 (55¢) | $25,622 | -$25,622 | ❌ Perdida |
