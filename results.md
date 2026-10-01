@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 18:56:37 (hora de Perú)
+Actualizado: 2026-10-01 18:58:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4023**  ($218,207,679 en total)
+- Apuestas registradas: **4024**  ($218,267,066 en total)
 - Resueltas: **4000** — 2433 ganadas / 1567 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 486
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Gourmet1 | Wild vs. Predators | Predators | 2.38 (42¢) | $59,387 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | North Texas vs. Tulsa | North Texas | 1.79 (56¢) | $63,535 | — | ⏳ Pendiente |
 | Elenes | Panthers vs. Sharks | Panthers | 1.75 (57¢) | $43,320 | — | ⏳ Pendiente |
 | BillyGating | Will Wales win on 2026-10-01? | Yes | 1.41 (71¢) | $31,352 | +$12,806 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | taylorsversion | Boston Red Sox vs. New York Yankees | New York Yankees | 1.15 (87¢) | $25,022 | +$3,739 | ✅ Ganada |
 | Gourmet1 | Canucks vs. Oilers | Canucks | 3.70 (27¢) | $35,934 | +$97,155 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $29,088 | -$1,164 | 💰 Vendida antes |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.79 (56¢) | $77,281 | +$60,721 | ✅ Ganada |
