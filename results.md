@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 19:37:09 (hora de Perú)
+Actualizado: 2026-09-30 19:39:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3996**  ($217,016,194 en total)
-- Resueltas: **3967** — 2413 ganadas / 1554 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **3972** — 2416 ganadas / 1556 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 485
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,374,042** sobre $215,842,745 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,638** sobre $391,100 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,420,952** sobre $216,054,672 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,664** sobre $391,600 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 289 | 151 | 3 | 66% | $28,097,481 | +$960,326 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 0 | 52% | $6,707,566 | -$494,553 |
-| wr0ngw4yb3tt0r | 68 | 45 | 3 | 60% | $6,413,774 | +$170,172 |
+| wr0ngw4yb3tt0r | 69 | 46 | 1 | 60% | $6,413,774 | +$108,816 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| 0F62 | 26 | 3 | 1 | 90% | $2,108,323 | +$62,817 |
+| 0F62 | 27 | 3 | 0 | 90% | $2,108,323 | +$66,640 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | Kch-Temp | 25 | 8 | 0 | 76% | $1,881,865 | +$1,079,614 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -72,13 +72,13 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | IcemanSeason | Spread: Avalanche (-1.5) | Avalanche | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
-| 0F62 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.06 (94¢) | $59,894 | — | ⏳ Pendiente |
+| 0F62 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.06 (94¢) | $59,894 | +$3,823 | ✅ Ganada |
 | jaytee158 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $32,984 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.30 (77¢) | $25,397 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.30 (77¢) | $25,397 | +$7,586 | ✅ Ganada |
 | kkookkoo | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $29,699 | — | ⏳ Pendiente |
 | Elenes | Islanders vs. Maple Leafs | Maple Leafs | 1.82 (55¢) | $67,355 | — | ⏳ Pendiente |
-| Soarin22 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Houston Astros | 1.72 (58¢) | $68,943 | — | ⏳ Pendiente |
+| Soarin22 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Houston Astros | 1.72 (58¢) | $68,943 | -$68,943 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.12 (89¢) | $26,700 | -$26,700 | ❌ Perdida |
 | 177-letsgo | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.08 (93¢) | $27,805 | -$27,805 | ❌ Perdida |
 | ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.10 (91¢) | $30,818 | -$30,818 | ❌ Perdida |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | llllllIIIIIIlIllllllIIIIIIlIllllllIIIIIIlI | Dota 2: PARIVISION vs LGD Gaming (BO3) - BLAST Slam Group A | PARIVISION | 1.14 (88¢) | $35,200 | +$4,800 | ✅ Ganada |
 | watcherz88 | China Open: Nuno Borges vs Novak Djokovic | Novak Djokovic | 1.28 (78¢) | $38,934 | +$10,981 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Nuno Borges vs Novak Djokovic | Novak Djokovic | 1.33 (75¢) | $75,000 | +$25,000 | ✅ Ganada |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.38 (42¢) | $28,693 | — | ⏳ Pendiente |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.38 (42¢) | $28,693 | +$39,623 | ✅ Ganada |
 | HVAB | Jingshan: Sijia Wei vs Fiona Ferro | Sijia Wei | 1.16 (86¢) | $68,300 | +$11,119 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: T1 Academy vs Galions (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.67 (60¢) | $29,120 | +$19,413 | ✅ Ganada |
 | omnibus-076daa | Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Group B | Team Vitality | 2.17 (46¢) | $45,373 | +$53,264 | ✅ Ganada |
