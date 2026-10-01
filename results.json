@@ -60158,5 +60158,20 @@
     "status": "pending",
     "ultimo_fill": 1790824774,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8190,
+    "timestamp": 1790826608,
+    "username": "Antblack",
+    "wallet": "0x9c68e5a4b3004bf6ac9d6735a33ffb5f983a247a",
+    "slug": "atp-etcheve-tsitsip-2026-09-29",
+    "title": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
+    "outcome": "Tomas Etcheverry",
+    "side": "BUY",
+    "usd": 34090.810000000005,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1790826608,
+    "fills": 1
   }
 ]
