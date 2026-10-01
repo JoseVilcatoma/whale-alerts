@@ -60068,5 +60068,20 @@
     "status": "pending",
     "ultimo_fill": 1790811397,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8180,
+    "timestamp": 1790816351,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-chc-sd-2026-09-30-total-7pt5",
+    "title": "Chicago Cubs vs. San Diego Padres: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 60000.00000000001,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1790816351,
+    "fills": 1
   }
 ]

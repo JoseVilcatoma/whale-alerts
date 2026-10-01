@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 19:57:40 (hora de Perú)
+Actualizado: 2026-09-30 19:59:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3996**  ($217,016,194 en total)
+- Apuestas registradas: **3997**  ($217,076,194 en total)
 - Resueltas: **3972** — 2416 ganadas / 1556 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 485
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 46 | 42 | 0 | 52% | $4,496,269 | -$123,651 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 44 | 30 | 0 | 59% | $2,849,630 | -$593,064 |
-| BrotherObama | 30 | 27 | 2 | 53% | $2,753,314 | +$406,443 |
+| BrotherObama | 30 | 27 | 3 | 53% | $2,813,314 | +$406,443 |
 | ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Chicago Cubs vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $60,000 | — | ⏳ Pendiente |
 | IcemanSeason | Spread: Avalanche (-1.5) | Avalanche | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
 | 0F62 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.06 (94¢) | $59,894 | +$3,823 | ✅ Ganada |
 | jaytee158 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $32,984 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | ethanaz | Eagles vs. Bears | Bears | 1.25 (80¢) | $26,666 | +$6,667 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 1.27 (79¢) | $30,285 | +$8,050 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 1.20 (83¢) | $32,686 | +$6,695 | ✅ Ganada |
-| ziyoucui | Eagles vs. Bears | Bears | 1.25 (80¢) | $27,153 | +$6,788 | ✅ Ganada |
