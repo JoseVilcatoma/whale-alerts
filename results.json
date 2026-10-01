@@ -60310,5 +60310,20 @@
     "status": "pending",
     "ultimo_fill": 1790855425,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8213,
+    "timestamp": 1790855479,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "val-xlg-ns1-2026-10-01-map-handicap-home-1pt5",
+    "title": "Map Handicap: NS (-1.5) vs XLG Gaming (+1.5)",
+    "outcome": "XLG Gaming",
+    "side": "BUY",
+    "usd": 36550.761999999995,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1790855479,
+    "fills": 1
   }
 ]
