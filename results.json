@@ -60265,5 +60265,20 @@
     "status": "won",
     "ultimo_fill": 1790837974,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8208,
+    "timestamp": 1790844427,
+    "username": "jaytee158",
+    "wallet": "0xa2c908ce8b8386bc8c5471120c5a662551332c23",
+    "slug": "val-tyloo-tl1-2026-10-01",
+    "title": "Valorant: TYLOO vs Team Liquid (BO3) - VCT Champions Group C",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 34400.0,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1790844427,
+    "fills": 1
   }
 ]
