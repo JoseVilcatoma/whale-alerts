@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 20:05:53 (hora de Perú)
+Actualizado: 2026-09-30 20:07:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3997**  ($217,076,194 en total)
+- Apuestas registradas: **3998**  ($217,107,896 en total)
 - Resueltas: **3972** — 2416 ganadas / 1556 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 485
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| qiu3 | Valorant: TYLOO vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 1.23 (81¢) | $31,702 | — | ⏳ Pendiente |
 | BrotherObama | Chicago Cubs vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $60,000 | — | ⏳ Pendiente |
 | IcemanSeason | Spread: Avalanche (-1.5) | Avalanche | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
 | 0F62 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.06 (94¢) | $59,894 | +$3,823 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | kkookkoo | Japan Open Tennis Championships, Qualification: Jaume Munar vs Aleksandar Kovacevic | Jaume Munar | 1.67 (60¢) | $29,914 | +$19,943 | ✅ Ganada |
 | ethanaz | Eagles vs. Bears | Bears | 1.25 (80¢) | $26,666 | +$6,667 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Bears | Bears | 1.27 (79¢) | $30,285 | +$8,050 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Eagles vs. Bears | Bears | 1.20 (83¢) | $32,686 | +$6,695 | ✅ Ganada |
