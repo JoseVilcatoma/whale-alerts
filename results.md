@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 23:18:16 (hora de Perú)
+Actualizado: 2026-09-30 23:20:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4004**  ($217,355,715 en total)
-- Resueltas: **3975** — 2419 ganadas / 1556 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **3976** — 2420 ganadas / 1556 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 486
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,316,592** sobre $216,184,710 apostados (ROI **-0.6%**)
+- **Resultado de los apostadores: -$1,303,247** sobre $216,231,099 apostados (ROI **-0.6%**)
 - Copiando $100 fijo en cada una: **-$6,425** sobre $391,900 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 |---|---|---|---|---|---|---|
 | gransaaa | Will Netherlands win on 2026-10-01? | No | 1.85 (54¢) | $76,140 | — | ⏳ Pendiente |
 | Antblack | Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas | Tomas Etcheverry | 1.92 (52¢) | $34,091 | — | ⏳ Pendiente |
-| Kev69 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.37 (73¢) | $46,390 | — | ⏳ Pendiente |
+| Kev69 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.37 (73¢) | $46,390 | +$13,345 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $26,316 | — | ⏳ Pendiente |
 | curie | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $35,883 | — | ⏳ Pendiente |
 | kkookkoo | Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar | Taylor Fritz | 1.64 (61¢) | $29,000 | — | ⏳ Pendiente |
