@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 10:46:49 (hora de Perú)
+Actualizado: 2026-10-01 10:48:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4017**  ($217,858,652 en total)
-- Resueltas: **3995** — 2431 ganadas / 1564 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **3996** — 2431 ganadas / 1565 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 486
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,480,114** sobre $216,995,854 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,772** sobre $393,800 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,505,114** sobre $217,020,854 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,872** sobre $393,900 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 46 | 43 | 0 | 52% | $4,532,820 | -$160,202 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 44 | 30 | 0 | 59% | $2,849,630 | -$593,064 |
-| BrotherObama | 30 | 28 | 3 | 52% | $2,838,314 | +$346,443 |
+| BrotherObama | 30 | 29 | 2 | 51% | $2,838,314 | +$321,443 |
 | ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| BrotherObama | Counter-Strike: BIG vs fnatic (BO3) - Stake Ranked Episode 4 Playoffs | fnatic | 2.63 (38¢) | $25,000 | — | ⏳ Pendiente |
+| BrotherObama | Counter-Strike: BIG vs fnatic (BO3) - Stake Ranked Episode 4 Playoffs | fnatic | 2.63 (38¢) | $25,000 | -$25,000 | ❌ Perdida |
 | jaytee158 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.16 (86¢) | $44,777 | +$7,289 | ✅ Ganada |
 | qiu3 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.16 (86¢) | $45,000 | +$7,326 | ✅ Ganada |
 | Diabolical-Prize | Map Handicap: NS (-1.5) vs XLG Gaming (+1.5) | XLG Gaming | 2.44 (41¢) | $36,551 | -$36,551 | ❌ Perdida |
