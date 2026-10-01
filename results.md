@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 03:06:48 (hora de Perú)
+Actualizado: 2026-10-01 03:08:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4009**  ($217,557,415 en total)
-- Resueltas: **3983** — 2421 ganadas / 1562 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **3984** — 2422 ganadas / 1562 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 486
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,508,834** sobre $216,494,825 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,892** sobre $392,600 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,492,180** sobre $216,537,648 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,853** sobre $392,700 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -122,7 +122,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.11 (90¢) | $42,145 | +$4,683 | ✅ Ganada |
 | BrotherObama | Boston Red Sox vs. New York Yankees: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $33,595 | +$37,883 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 6.5 | Under 6.5 | 1.85 (54¢) | $37,800 | -$37,800 | ❌ Perdida |
-| xabidaking | Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs | Jiri Lehecka | 1.39 (72¢) | $42,823 | — | ⏳ Pendiente |
+| xabidaking | Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs | Jiri Lehecka | 1.39 (72¢) | $42,823 | +$16,653 | ✅ Ganada |
 | kkookkoo | Columbus: Trevor Svajda vs Andres Andrade | Trevor Svajda | 1.64 (61¢) | $27,628 | -$27,628 | ❌ Perdida |
 | PerpsKing | Chicago White Sox vs. Houston Astros | Houston Astros | 1.85 (54¢) | $88,597 | -$88,597 | ❌ Perdida |
 | 0x361b…74fe | Will Spain win on 2026-09-29? | Yes | 1.22 (82¢) | $174,383 | +$38,279 | ✅ Ganada |
