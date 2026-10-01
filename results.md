@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 11:33:46 (hora de Perú)
+Actualizado: 2026-10-01 11:35:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4017**  ($217,858,652 en total)
+- Apuestas registradas: **4018**  ($217,898,652 en total)
 - Resueltas: **3996** — 2431 ganadas / 1565 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 486
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| qiu3 | Counter-Strike: FaZe vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | FaZe | 1.72 (58¢) | $40,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: BIG vs fnatic (BO3) - Stake Ranked Episode 4 Playoffs | fnatic | 2.63 (38¢) | $25,000 | -$25,000 | ❌ Perdida |
 | jaytee158 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.16 (86¢) | $44,777 | +$7,289 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.11 (90¢) | $42,145 | +$4,683 | ✅ Ganada |
 | BrotherObama | Boston Red Sox vs. New York Yankees: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $33,595 | +$37,883 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 6.5 | Under 6.5 | 1.85 (54¢) | $37,800 | -$37,800 | ❌ Perdida |
-| xabidaking | Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs | Jiri Lehecka | 1.39 (72¢) | $42,823 | +$16,653 | ✅ Ganada |
