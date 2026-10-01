@@ -60095,7 +60095,7 @@
     "side": "BUY",
     "usd": 31701.97,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790816792,
     "fills": 1
   },
@@ -60277,7 +60277,7 @@
     "side": "BUY",
     "usd": 34400.0,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1790844427,
     "fills": 1
   },
@@ -60339,6 +60339,21 @@
     "odds_at_bet": 86,
     "status": "pending",
     "ultimo_fill": 1790855817,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8217,
+    "timestamp": 1790856081,
+    "username": "jaytee158",
+    "wallet": "0xa2c908ce8b8386bc8c5471120c5a662551332c23",
+    "slug": "val-xlg-ns1-2026-10-01",
+    "title": "Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D",
+    "outcome": "Nongshim RedForce",
+    "side": "BUY",
+    "usd": 44777.0094,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1790856081,
     "fills": 1
   }
 ]
