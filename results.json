@@ -60415,5 +60415,35 @@
     "status": "pending",
     "ultimo_fill": 1790874067,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8230,
+    "timestamp": 1790884436,
+    "username": "BillyGating",
+    "wallet": "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60",
+    "slug": "unl-wal-nor-2026-10-01-wal",
+    "title": "Will Wales win on 2026-10-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 31352.326896869996,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1790884436,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8231,
+    "timestamp": 1790884329,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "unl-wal-nor-2026-10-01-wal",
+    "title": "Will Wales win on 2026-10-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 96092.5324,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "ultimo_fill": 1790884329,
+    "fills": 1
   }
 ]
