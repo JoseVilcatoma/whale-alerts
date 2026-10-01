@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 12:00:23 (hora de Perú)
+Actualizado: 2026-10-01 12:02:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4018**  ($217,898,652 en total)
+- Apuestas registradas: **4019**  ($217,973,379 en total)
 - Resueltas: **3996** — 2431 ganadas / 1565 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 486
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 290 | 152 | 4 | 66% | $28,190,297 | +$942,510 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 290 | 152 | 5 | 66% | $28,265,024 | +$942,510 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 0 | 52% | $6,707,566 | -$494,553 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.04 (49¢) | $74,727 | — | ⏳ Pendiente |
 | qiu3 | Counter-Strike: FaZe vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | FaZe | 1.72 (58¢) | $40,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: BIG vs fnatic (BO3) - Stake Ranked Episode 4 Playoffs | fnatic | 2.63 (38¢) | $25,000 | -$25,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | viboomchuu | Canadiens vs. Maple Leafs | Canadiens | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.11 (90¢) | $42,145 | +$4,683 | ✅ Ganada |
 | BrotherObama | Boston Red Sox vs. New York Yankees: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $33,595 | +$37,883 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 6.5 | Under 6.5 | 1.85 (54¢) | $37,800 | -$37,800 | ❌ Perdida |
