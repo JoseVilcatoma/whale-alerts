@@ -59855,7 +59855,7 @@
     "side": "BUY",
     "usd": 53435.8,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790780703,
     "fills": 1
   },

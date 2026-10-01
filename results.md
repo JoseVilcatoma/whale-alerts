@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 00:20:13 (hora de Perú)
+Actualizado: 2026-10-01 00:22:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4007**  ($217,475,766 en total)
-- Resueltas: **3979** — 2421 ganadas / 1558 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **3980** — 2421 ganadas / 1559 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 486
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,332,307** sobre $216,318,299 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,492** sobre $392,200 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,385,743** sobre $216,371,734 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,592** sobre $392,300 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 289 | 152 | 3 | 66% | $28,123,797 | +$934,010 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 0 | 52% | $6,707,566 | -$494,553 |
-| wr0ngw4yb3tt0r | 69 | 46 | 1 | 60% | $6,413,774 | +$108,816 |
+| wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | Diabolical-Prize | Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B | Natus Vincere | 1.61 (62¢) | $43,400 | -$43,400 | ❌ Perdida |
 | ColdBlooded | Dota 2: PARIVISION vs LGD Gaming - Game 2 Winner | PARIVISION | 1.37 (73¢) | $25,152 | +$9,303 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Curitiba: Luis Guto Miguel vs Facundo Mena | Luis Guto Miguel | 1.54 (65¢) | $29,137 | +$15,689 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Chicago Cubs vs. San Diego Padres | Chicago Cubs | 2.27 (44¢) | $53,436 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Chicago Cubs vs. San Diego Padres | Chicago Cubs | 2.27 (44¢) | $53,436 | -$53,436 | ❌ Perdida |
 | jaytee158 | West Indies Tour of India ODIs: India vs West Indies | India | 1.06 (94¢) | $31,383 | +$2,003 | ✅ Ganada |
 | llllllIIIIIIlIllllllIIIIIIlIllllllIIIIIIlI | Dota 2: PARIVISION vs LGD Gaming (BO3) - BLAST Slam Group A | PARIVISION | 1.14 (88¢) | $35,200 | +$4,800 | ✅ Ganada |
 | watcherz88 | China Open: Nuno Borges vs Novak Djokovic | Novak Djokovic | 1.28 (78¢) | $38,934 | +$10,981 | ✅ Ganada |
