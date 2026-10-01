@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 17:59:22 (hora de Perú)
+Actualizado: 2026-10-01 18:01:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4022**  ($218,144,143 en total)
+- Apuestas registradas: **4023**  ($218,207,679 en total)
 - Resueltas: **4000** — 2433 ganadas / 1567 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 486
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 290 | 153 | 5 | 65% | $28,361,117 | +$846,417 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 290 | 153 | 6 | 65% | $28,424,652 | +$846,417 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 0 | 52% | $6,707,566 | -$494,553 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | North Texas vs. Tulsa | North Texas | 1.79 (56¢) | $63,535 | — | ⏳ Pendiente |
 | Elenes | Panthers vs. Sharks | Panthers | 1.75 (57¢) | $43,320 | — | ⏳ Pendiente |
 | BillyGating | Will Wales win on 2026-10-01? | Yes | 1.41 (71¢) | $31,352 | +$12,806 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wales win on 2026-10-01? | No | 3.45 (29¢) | $96,093 | -$96,093 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | Gourmet1 | Canucks vs. Oilers | Canucks | 3.70 (27¢) | $35,934 | +$97,155 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $29,088 | -$1,164 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.79 (56¢) | $77,281 | +$60,721 | ✅ Ganada |
-| kkookkoo | Boston Red Sox vs. New York Yankees | New York Yankees | 1.35 (74¢) | $28,000 | +$9,838 | ✅ Ganada |
