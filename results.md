@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 21:34:29 (hora de Perú)
+Actualizado: 2026-09-30 21:36:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **3999**  ($217,136,896 en total)
-- Resueltas: **3972** — 2416 ganadas / 1556 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **3973** — 2417 ganadas / 1556 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 485
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,420,952** sobre $216,054,672 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,664** sobre $391,600 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,365,843** sobre $216,122,027 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,582** sobre $391,700 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | jaytee158 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $32,984 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.30 (77¢) | $25,397 | +$7,586 | ✅ Ganada |
 | kkookkoo | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $29,699 | — | ⏳ Pendiente |
-| Elenes | Islanders vs. Maple Leafs | Maple Leafs | 1.82 (55¢) | $67,355 | — | ⏳ Pendiente |
+| Elenes | Islanders vs. Maple Leafs | Maple Leafs | 1.82 (55¢) | $67,355 | +$55,109 | ✅ Ganada |
 | Soarin22 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Houston Astros | 1.72 (58¢) | $68,943 | -$68,943 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.12 (89¢) | $26,700 | -$26,700 | ❌ Perdida |
