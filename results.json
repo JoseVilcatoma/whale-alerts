@@ -60173,5 +60173,20 @@
     "status": "pending",
     "ultimo_fill": 1790826608,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8191,
+    "timestamp": 1790828059,
+    "username": "gransaaa",
+    "wallet": "0x4d3079bd4c73bc0e8f7d9f64a9f64fadbd17a42d",
+    "slug": "unl-grc-nld-2026-10-01-nld",
+    "title": "Will Netherlands win on 2026-10-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 76140.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1790828059,
+    "fills": 1
   }
 ]
