@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 03:33:35 (hora de Perú)
+Actualizado: 2026-10-01 03:35:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4009**  ($217,557,415 en total)
-- Resueltas: **3985** — 2423 ganadas / 1562 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **3986** — 2423 ganadas / 1563 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 486
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,483,680** sobre $216,579,148 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,833** sobre $392,800 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,542,962** sobre $216,638,430 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,933** sobre $392,900 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | FORTNITEMASTER888 | Map Handicap: NS (-1.5) vs XLG Gaming (+1.5) | Nongshim RedForce | 1.72 (58¢) | $40,149 | — | ⏳ Pendiente |
 | 0F62 | Japan Open Tennis Championships: Carlos Alcaraz vs Alex Michelsen | Carlos Alcaraz | 1.20 (83¢) | $34,337 | — | ⏳ Pendiente |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 2.00 (50¢) | $26,432 | — | ⏳ Pendiente |
-| Kev69 | China Open: Yulia Starodubtseva vs Alina Charaeva | Yulia Starodubtseva | 1.28 (78¢) | $59,282 | — | ⏳ Pendiente |
+| Kev69 | China Open: Yulia Starodubtseva vs Alina Charaeva | Yulia Starodubtseva | 1.28 (78¢) | $59,282 | -$59,282 | ❌ Perdida |
 | gransaaa | Will Netherlands win on 2026-10-01? | No | 1.85 (54¢) | $76,140 | — | ⏳ Pendiente |
 | Antblack | Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas | Tomas Etcheverry | 1.92 (52¢) | $34,091 | -$34,091 | ❌ Perdida |
 | Kev69 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.37 (73¢) | $46,390 | +$13,345 | 💰 Vendida antes |
