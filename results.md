@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 00:44:56 (hora de Perú)
+Actualizado: 2026-10-01 00:46:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4007**  ($217,475,766 en total)
-- Resueltas: **3981** — 2421 ganadas / 1560 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **3982** — 2421 ganadas / 1561 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 486
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,445,743** sobre $216,431,734 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,692** sobre $392,400 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,474,743** sobre $216,460,734 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,792** sobre $392,500 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | Kev69 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.37 (73¢) | $46,390 | +$13,345 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $26,316 | -$26,316 | ❌ Perdida |
 | curie | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $35,883 | -$35,883 | ❌ Perdida |
-| kkookkoo | Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar | Taylor Fritz | 1.64 (61¢) | $29,000 | — | ⏳ Pendiente |
+| kkookkoo | Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar | Taylor Fritz | 1.64 (61¢) | $29,000 | -$29,000 | ❌ Perdida |
 | qiu3 | Valorant: TYLOO vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 1.23 (81¢) | $31,702 | — | ⏳ Pendiente |
 | BrotherObama | Chicago Cubs vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $60,000 | -$60,000 | ❌ Perdida |
 | IcemanSeason | Spread: Avalanche (-1.5) | Avalanche | 2.33 (43¢) | $25,000 | +$33,140 | ✅ Ganada |
