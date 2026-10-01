@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 04:14:37 (hora de Perú)
+Actualizado: 2026-10-01 04:16:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4010**  ($217,591,815 en total)
+- Apuestas registradas: **4011**  ($217,650,172 en total)
 - Resueltas: **3986** — 2423 ganadas / 1563 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 486
 
 ### Balance
@@ -56,8 +56,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 13 | 11 | 0 | 54% | $1,583,275 | -$297,658 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
+| Lakersfan111 | 18 | 14 | 2 | 56% | $1,439,183 | -$58,995 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Lakersfan111 | 18 | 14 | 1 | 56% | $1,380,826 | -$58,995 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
 | 0x361b…74fe | 16 | 1 | 0 | 94% | $1,302,905 | +$650,568 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FORTNITEMASTER888 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.18 (85¢) | $58,357 | — | ⏳ Pendiente |
 | jaytee158 | Valorant: TYLOO vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 1.25 (80¢) | $34,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Botic van de Zandschulp vs Francisco Cerundolo | Francisco Cerundolo | 1.20 (83¢) | $41,500 | +$8,500 | ✅ Ganada |
 | FORTNITEMASTER888 | Map Handicap: NS (-1.5) vs XLG Gaming (+1.5) | Nongshim RedForce | 1.72 (58¢) | $40,149 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | watcherz88 | Curitiba: Miguel Tobon vs Juan Bautista Torres | Miguel Tobon | 1.82 (55¢) | $25,622 | -$25,622 | ❌ Perdida |
 | watcherz88 | Adana: Ksenia Efremova vs Martyna Kubka | Martyna Kubka | 1.09 (92¢) | $27,736 | +$2,412 | ✅ Ganada |
 | 110thst | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A | LGD Gaming | 1.47 (68¢) | $30,551 | +$14,377 | ✅ Ganada |
-| mariabelo | Will Finland win on 2026-09-29? | Yes | 1.56 (64¢) | $30,821 | -$30,821 | ❌ Perdida |
