@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 17:45:01 (hora de Perú)
+Actualizado: 2026-10-01 17:47:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4022**  ($218,144,143 en total)
-- Resueltas: **3997** — 2431 ganadas / 1566 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **3999** — 2432 ganadas / 1567 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 486
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,545,114** sobre $217,060,854 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,972** sobre $394,000 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,628,401** sobre $217,188,299 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,031** sobre $394,200 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 290 | 152 | 6 | 66% | $28,361,117 | +$942,510 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 290 | 153 | 5 | 65% | $28,361,117 | +$846,417 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 0 | 52% | $6,707,566 | -$494,553 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -72,8 +72,8 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Elenes | Panthers vs. Sharks | Panthers | 1.75 (57¢) | $43,320 | — | ⏳ Pendiente |
-| BillyGating | Will Wales win on 2026-10-01? | Yes | 1.41 (71¢) | $31,352 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wales win on 2026-10-01? | No | 3.45 (29¢) | $96,093 | — | ⏳ Pendiente |
+| BillyGating | Will Wales win on 2026-10-01? | Yes | 1.41 (71¢) | $31,352 | +$12,806 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wales win on 2026-10-01? | No | 3.45 (29¢) | $96,093 | -$96,093 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.04 (49¢) | $74,727 | — | ⏳ Pendiente |
 | qiu3 | Counter-Strike: FaZe vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | FaZe | 1.72 (58¢) | $40,000 | -$40,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
