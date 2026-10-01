@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 04:26:57 (hora de Perú)
+Actualizado: 2026-10-01 06:19:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4011**  ($217,650,172 en total)
-- Resueltas: **3986** — 2423 ganadas / 1563 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **3987** — 2424 ganadas / 1563 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 486
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,542,962** sobre $216,638,430 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,933** sobre $392,900 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,535,929** sobre $216,672,767 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,912** sobre $393,000 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| 0F62 | 27 | 3 | 1 | 90% | $2,142,660 | +$66,640 |
+| 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | Kch-Temp | 25 | 8 | 0 | 76% | $1,881,865 | +$1,079,614 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | jaytee158 | Valorant: TYLOO vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 1.25 (80¢) | $34,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Botic van de Zandschulp vs Francisco Cerundolo | Francisco Cerundolo | 1.20 (83¢) | $41,500 | +$8,500 | ✅ Ganada |
 | FORTNITEMASTER888 | Map Handicap: NS (-1.5) vs XLG Gaming (+1.5) | Nongshim RedForce | 1.72 (58¢) | $40,149 | — | ⏳ Pendiente |
-| 0F62 | Japan Open Tennis Championships: Carlos Alcaraz vs Alex Michelsen | Carlos Alcaraz | 1.20 (83¢) | $34,337 | — | ⏳ Pendiente |
+| 0F62 | Japan Open Tennis Championships: Carlos Alcaraz vs Alex Michelsen | Carlos Alcaraz | 1.20 (83¢) | $34,337 | +$7,033 | ✅ Ganada |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 2.00 (50¢) | $26,432 | — | ⏳ Pendiente |
 | Kev69 | China Open: Yulia Starodubtseva vs Alina Charaeva | Yulia Starodubtseva | 1.28 (78¢) | $59,282 | -$59,282 | ❌ Perdida |
 | gransaaa | Will Netherlands win on 2026-10-01? | No | 1.85 (54¢) | $76,140 | — | ⏳ Pendiente |
