@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 00:24:21 (hora de Perú)
+Actualizado: 2026-10-01 00:26:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4007**  ($217,475,766 en total)
-- Resueltas: **3980** — 2421 ganadas / 1559 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **3981** — 2421 ganadas / 1560 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 486
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,385,743** sobre $216,371,734 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,592** sobre $392,300 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,445,743** sobre $216,431,734 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,692** sobre $392,400 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 46 | 42 | 0 | 52% | $4,496,269 | -$123,651 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 44 | 30 | 0 | 59% | $2,849,630 | -$593,064 |
-| BrotherObama | 30 | 27 | 3 | 53% | $2,813,314 | +$406,443 |
+| BrotherObama | 30 | 28 | 2 | 52% | $2,813,314 | +$346,443 |
 | ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | curie | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $35,883 | -$35,883 | ❌ Perdida |
 | kkookkoo | Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar | Taylor Fritz | 1.64 (61¢) | $29,000 | — | ⏳ Pendiente |
 | qiu3 | Valorant: TYLOO vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 1.23 (81¢) | $31,702 | — | ⏳ Pendiente |
-| BrotherObama | Chicago Cubs vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $60,000 | — | ⏳ Pendiente |
+| BrotherObama | Chicago Cubs vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $60,000 | -$60,000 | ❌ Perdida |
 | IcemanSeason | Spread: Avalanche (-1.5) | Avalanche | 2.33 (43¢) | $25,000 | +$33,140 | ✅ Ganada |
 | 0F62 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.06 (94¢) | $59,894 | +$3,823 | ✅ Ganada |
 | jaytee158 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $32,984 | +$25,916 | ✅ Ganada |
