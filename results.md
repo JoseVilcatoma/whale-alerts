@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 23:36:53 (hora de Perú)
+Actualizado: 2026-09-30 23:38:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4006**  ($217,441,429 en total)
-- Resueltas: **3976** — 2420 ganadas / 1556 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Apuestas registradas: **4007**  ($217,475,766 en total)
+- Resueltas: **3978** — 2420 ganadas / 1558 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 486
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,303,247** sobre $216,231,099 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,425** sobre $391,900 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$1,365,447** sobre $216,293,299 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,625** sobre $392,100 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 289 | 151 | 4 | 66% | $28,123,797 | +$960,326 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 289 | 152 | 3 | 66% | $28,123,797 | +$934,010 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 0 | 52% | $6,707,566 | -$494,553 |
 | wr0ngw4yb3tt0r | 69 | 46 | 1 | 60% | $6,413,774 | +$108,816 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| 0F62 | 27 | 3 | 0 | 90% | $2,108,323 | +$66,640 |
+| 0F62 | 27 | 3 | 1 | 90% | $2,142,660 | +$66,640 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | Kch-Temp | 25 | 8 | 0 | 76% | $1,881,865 | +$1,079,614 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Japan Open Tennis Championships: Carlos Alcaraz vs Alex Michelsen | Carlos Alcaraz | 1.20 (83¢) | $34,337 | — | ⏳ Pendiente |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 2.00 (50¢) | $26,432 | — | ⏳ Pendiente |
 | Kev69 | China Open: Yulia Starodubtseva vs Alina Charaeva | Yulia Starodubtseva | 1.28 (78¢) | $59,282 | — | ⏳ Pendiente |
 | gransaaa | Will Netherlands win on 2026-10-01? | No | 1.85 (54¢) | $76,140 | — | ⏳ Pendiente |
 | Antblack | Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas | Tomas Etcheverry | 1.92 (52¢) | $34,091 | — | ⏳ Pendiente |
 | Kev69 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.37 (73¢) | $46,390 | +$13,345 | 💰 Vendida antes |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $26,316 | — | ⏳ Pendiente |
-| curie | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $35,883 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $26,316 | -$26,316 | ❌ Perdida |
+| curie | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $35,883 | -$35,883 | ❌ Perdida |
 | kkookkoo | Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar | Taylor Fritz | 1.64 (61¢) | $29,000 | — | ⏳ Pendiente |
 | qiu3 | Valorant: TYLOO vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 1.23 (81¢) | $31,702 | — | ⏳ Pendiente |
 | BrotherObama | Chicago Cubs vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $60,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | watcherz88 | Porto 2: Cezar Cretu vs Henrique Rocha | Henrique Rocha | 1.18 (85¢) | $28,439 | +$5,019 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-09-29? | Yes | 1.23 (81¢) | $43,020 | +$10,091 | ✅ Ganada |
 | qiu3 | Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D | NRG | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
-| 110thst | Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B | Natus Vincere | 2.00 (50¢) | $66,609 | -$66,609 | ❌ Perdida |

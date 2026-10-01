@@ -60125,7 +60125,7 @@
     "side": "BUY",
     "usd": 26316.3924,
     "odds_at_bet": 69,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790822204,
     "fills": 1
   },
@@ -60140,7 +60140,7 @@
     "side": "BUY",
     "usd": 35882.759999999995,
     "odds_at_bet": 69,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1790822204,
     "fills": 1
   },
@@ -60219,6 +60219,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1790828695,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8195,
+    "timestamp": 1790829478,
+    "username": "0F62",
+    "wallet": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+    "slug": "atp-alcaraz-michels-2026-09-29",
+    "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Alex Michelsen",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "usd": 34337.3656,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1790829478,
     "fills": 1
   }
 ]
