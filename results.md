@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 21:36:29 (hora de Perú)
+Actualizado: 2026-09-30 21:38:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **3999**  ($217,136,896 en total)
+- Apuestas registradas: **4001**  ($217,199,095 en total)
 - Resueltas: **3973** — 2417 ganadas / 1556 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 10
 - Apostadores distintos: 485
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 289 | 151 | 3 | 66% | $28,097,481 | +$960,326 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 289 | 151 | 4 | 66% | $28,123,797 | +$960,326 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 0 | 52% | $6,707,566 | -$494,553 |
 | wr0ngw4yb3tt0r | 69 | 46 | 1 | 60% | $6,413,774 | +$108,816 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $26,316 | — | ⏳ Pendiente |
+| curie | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $35,883 | — | ⏳ Pendiente |
 | kkookkoo | Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar | Taylor Fritz | 1.64 (61¢) | $29,000 | — | ⏳ Pendiente |
 | qiu3 | Valorant: TYLOO vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 1.23 (81¢) | $31,702 | — | ⏳ Pendiente |
 | BrotherObama | Chicago Cubs vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $60,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | kdvlklkvlsklkfs | Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Jaime Faria | Adolfo Vallejo | 2.27 (44¢) | $34,338 | +$43,704 | ✅ Ganada |
 | raybanman | China Open, Qualification: Elvina Kalieva vs Han Shi | Han Shi | 1.75 (57¢) | $25,503 | +$19,239 | ✅ Ganada |
 | raybanman | China Open, Qualification: Marco Trungelliti vs Alex Molcan | Alex Molcan | 1.27 (79¢) | $157,782 | +$41,942 | ✅ Ganada |
-| kkookkoo | Japan Open Tennis Championships, Qualification: Jaume Munar vs Aleksandar Kovacevic | Jaume Munar | 1.67 (60¢) | $29,914 | +$19,943 | ✅ Ganada |
-| ethanaz | Eagles vs. Bears | Bears | 1.25 (80¢) | $26,666 | +$6,667 | ✅ Ganada |

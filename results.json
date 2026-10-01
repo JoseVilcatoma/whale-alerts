@@ -60113,5 +60113,35 @@
     "status": "pending",
     "ultimo_fill": 1790821706,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8184,
+    "timestamp": 1790822204,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wnba-gsv-dal-2026-09-30",
+    "title": "Golden State Valkyries vs. Dallas Wings",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "usd": 26316.3924,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1790822204,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8185,
+    "timestamp": 1790822204,
+    "username": "curie",
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "slug": "wnba-gsv-dal-2026-09-30",
+    "title": "Golden State Valkyries vs. Dallas Wings",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "usd": 35882.759999999995,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1790822204,
+    "fills": 1
   }
 ]
