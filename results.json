@@ -60190,5 +60190,20 @@
     "status": "pending",
     "ultimo_fill": 1790828059,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8193,
+    "timestamp": 1790828427,
+    "username": "Kev69",
+    "wallet": "0x1250846658e2a118930edb02e31f7a7e82258f99",
+    "slug": "wta-starodu-charaev-2026-09-29",
+    "title": "China Open: Yulia Starodubtseva vs Alina Charaeva",
+    "outcome": "Yulia Starodubtseva",
+    "side": "BUY",
+    "usd": 59281.619999999995,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1790828427,
+    "fills": 1
   }
 ]
