@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 00:14:00 (hora de Perú)
+Actualizado: 2026-10-01 00:16:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4007**  ($217,475,766 en total)
-- Resueltas: **3978** — 2420 ganadas / 1558 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **3979** — 2421 ganadas / 1558 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 486
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,365,447** sobre $216,293,299 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,625** sobre $392,100 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,332,307** sobre $216,318,299 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,492** sobre $392,200 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | kkookkoo | Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar | Taylor Fritz | 1.64 (61¢) | $29,000 | — | ⏳ Pendiente |
 | qiu3 | Valorant: TYLOO vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 1.23 (81¢) | $31,702 | — | ⏳ Pendiente |
 | BrotherObama | Chicago Cubs vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $60,000 | — | ⏳ Pendiente |
-| IcemanSeason | Spread: Avalanche (-1.5) | Avalanche | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
+| IcemanSeason | Spread: Avalanche (-1.5) | Avalanche | 2.33 (43¢) | $25,000 | +$33,140 | ✅ Ganada |
 | 0F62 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.06 (94¢) | $59,894 | +$3,823 | ✅ Ganada |
 | jaytee158 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $32,984 | +$25,916 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.30 (77¢) | $25,397 | +$7,586 | ✅ Ganada |
