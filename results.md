@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 01:58:52 (hora de Perú)
+Actualizado: 2026-10-01 02:00:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4008**  ($217,515,915 en total)
+- Apuestas registradas: **4009**  ($217,557,415 en total)
 - Resueltas: **3983** — 2421 ganadas / 1562 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 486
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 289 | 152 | 3 | 66% | $28,123,797 | +$934,010 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 289 | 152 | 4 | 66% | $28,165,297 | +$934,010 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 0 | 52% | $6,707,566 | -$494,553 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Botic van de Zandschulp vs Francisco Cerundolo | Francisco Cerundolo | 1.20 (83¢) | $41,500 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Map Handicap: NS (-1.5) vs XLG Gaming (+1.5) | Nongshim RedForce | 1.72 (58¢) | $40,149 | — | ⏳ Pendiente |
 | 0F62 | Japan Open Tennis Championships: Carlos Alcaraz vs Alex Michelsen | Carlos Alcaraz | 1.20 (83¢) | $34,337 | — | ⏳ Pendiente |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 2.00 (50¢) | $26,432 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | 110thst | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A | LGD Gaming | 1.47 (68¢) | $30,551 | +$14,377 | ✅ Ganada |
 | mariabelo | Will Finland win on 2026-09-29? | Yes | 1.56 (64¢) | $30,821 | -$30,821 | ❌ Perdida |
 | watcherz88 | Porto 2: Cezar Cretu vs Henrique Rocha | Henrique Rocha | 1.18 (85¢) | $28,439 | +$5,019 | ✅ Ganada |
-| 0x361b…74fe | Will Spain win on 2026-09-29? | Yes | 1.23 (81¢) | $43,020 | +$10,091 | ✅ Ganada |
