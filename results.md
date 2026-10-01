@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-30 22:17:52 (hora de Perú)
+Actualizado: 2026-09-30 22:19:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4001**  ($217,199,095 en total)
+- Apuestas registradas: **4002**  ($217,245,484 en total)
 - Resueltas: **3973** — 2417 ganadas / 1556 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 485
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kev69 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.37 (73¢) | $46,390 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $26,316 | — | ⏳ Pendiente |
 | curie | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $35,883 | — | ⏳ Pendiente |
 | kkookkoo | Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar | Taylor Fritz | 1.64 (61¢) | $29,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 485 en total)_
 | Diabolical-Prize | Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C | G2 Esports | 2.27 (44¢) | $45,758 | -$45,758 | ❌ Perdida |
 | kdvlklkvlsklkfs | Japan Open Tennis Championships, Qualification: Adolfo Vallejo vs Jaime Faria | Adolfo Vallejo | 2.27 (44¢) | $34,338 | +$43,704 | ✅ Ganada |
 | raybanman | China Open, Qualification: Elvina Kalieva vs Han Shi | Han Shi | 1.75 (57¢) | $25,503 | +$19,239 | ✅ Ganada |
-| raybanman | China Open, Qualification: Marco Trungelliti vs Alex Molcan | Alex Molcan | 1.27 (79¢) | $157,782 | +$41,942 | ✅ Ganada |
