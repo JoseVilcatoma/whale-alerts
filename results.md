@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 09:20:53 (hora de Perú)
+Actualizado: 2026-10-02 09:22:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4058**  ($219,742,291 en total)
+- Apuestas registradas: **4059**  ($219,772,250 en total)
 - Resueltas: **4038** — 2455 ganadas / 1583 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 490
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thorin1 | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $29,960 | — | ⏳ Pendiente |
 | viboomchuu | Bruins vs. Jets | Bruins | 2.13 (47¢) | $29,824 | — | ⏳ Pendiente |
 | PAROLIBOYS | Will Belgium win on 2026-10-02? | No | 2.63 (38¢) | $27,167 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Map Handicap: T1 (-1.5) vs JD Gaming (+1.5) | T1 | 1.61 (62¢) | $32,834 | -$32,834 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 | Kev69 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.37 (73¢) | $46,390 | +$13,345 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $26,316 | -$26,316 | ❌ Perdida |
 | curie | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $35,883 | -$35,883 | ❌ Perdida |
-| kkookkoo | Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar | Taylor Fritz | 1.64 (61¢) | $29,000 | -$29,000 | ❌ Perdida |
