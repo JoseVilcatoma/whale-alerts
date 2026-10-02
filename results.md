@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 02:38:57 (hora de Perú)
+Actualizado: 2026-10-02 02:40:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4047**  ($219,299,505 en total)
-- Resueltas: **4025** — 2448 ganadas / 1577 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **4028** — 2450 ganadas / 1578 perdidas (**61%** de acierto)
+- Pendientes: 1
 - Apostadores distintos: 489
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,583,468** sobre $218,446,179 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,155** sobre $396,800 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,580,315** sobre $218,544,251 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,106** sobre $397,100 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 293 | 154 | 4 | 66% | $28,568,198 | +$883,169 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 294 | 154 | 3 | 66% | $28,568,198 | +$895,569 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -72,9 +72,9 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.41 (71¢) | $45,029 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
-| 0x78be…bde0 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
-| Kev69 | China Open: Taylah Preston vs Diane Parry | Diane Parry | 1.96 (51¢) | $40,471 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 1.45 (69¢) | $27,600 | +$12,400 | ✅ Ganada |
+| 0x78be…bde0 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 2.04 (49¢) | $30,000 | +$31,224 | ✅ Ganada |
+| Kev69 | China Open: Taylah Preston vs Diane Parry | Diane Parry | 1.96 (51¢) | $40,471 | -$40,471 | ❌ Perdida |
 | 0x78be…bde0 | Jingshan: Alex Bolt vs Dane Sweeny | Dane Sweeny | 2.04 (49¢) | $27,605 | -$27,605 | ❌ Perdida |
 | Kev69 | Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas | Valentin Vacherot | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
 | mooseborzoii | Steelers vs. Browns | Browns | 1.64 (61¢) | $26,202 | +$16,752 | ✅ Ganada |
