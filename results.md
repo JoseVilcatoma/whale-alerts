@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 00:29:59 (hora de Perú)
+Actualizado: 2026-10-02 00:32:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4042**  ($219,128,799 en total)
-- Resueltas: **4020** — 2445 ganadas / 1575 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **4021** — 2446 ganadas / 1575 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 489
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,712,839** sobre $218,151,287 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,167** sobre $396,300 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,662,918** sobre $218,214,823 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,089** sobre $396,400 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 292 | 154 | 4 | 65% | $28,540,598 | +$833,248 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 293 | 154 | 3 | 66% | $28,540,598 | +$883,169 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 | ferrariChampions2026 | Spread: Steelers (-2.5) | Steelers | 1.85 (54¢) | $46,827 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Steelers (-2.5) | Browns | 2.17 (46¢) | $126,924 | — | ⏳ Pendiente |
 | Gourmet1 | Wild vs. Predators | Predators | 2.38 (42¢) | $59,387 | -$59,387 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | North Texas vs. Tulsa | North Texas | 1.79 (56¢) | $63,535 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | North Texas vs. Tulsa | North Texas | 1.79 (56¢) | $63,535 | +$49,921 | ✅ Ganada |
 | Elenes | Panthers vs. Sharks | Panthers | 1.75 (57¢) | $43,320 | -$43,320 | ❌ Perdida |
 | BillyGating | Will Wales win on 2026-10-01? | Yes | 1.41 (71¢) | $31,352 | +$12,806 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wales win on 2026-10-01? | No | 3.45 (29¢) | $96,093 | -$96,093 | ❌ Perdida |
