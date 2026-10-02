@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 17:49:28 (hora de Perú)
+Actualizado: 2026-10-02 17:51:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4062**  ($220,012,265 en total)
-- Resueltas: **4039** — 2456 ganadas / 1583 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **4040** — 2456 ganadas / 1584 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 490
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,695,569** sobre $219,005,034 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,317** sobre $398,200 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,722,735** sobre $219,032,201 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,417** sobre $398,300 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 | Eztennis | Rangers vs. Red Wings | Red Wings | 1.82 (55¢) | $70,000 | — | ⏳ Pendiente |
 | Thorin1 | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $29,960 | +$41,373 | ✅ Ganada |
 | viboomchuu | Bruins vs. Jets | Bruins | 2.13 (47¢) | $29,824 | — | ⏳ Pendiente |
-| PAROLIBOYS | Will Belgium win on 2026-10-02? | No | 2.63 (38¢) | $27,167 | — | ⏳ Pendiente |
+| PAROLIBOYS | Will Belgium win on 2026-10-02? | No | 2.63 (38¢) | $27,167 | -$27,167 | ❌ Perdida |
 | FORTNITEMASTER888 | Map Handicap: T1 (-1.5) vs JD Gaming (+1.5) | T1 | 1.61 (62¢) | $32,834 | -$32,834 | ❌ Perdida |
 | FORTNITEMASTER888 | Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A | T1 | 1.18 (85¢) | $34,000 | +$6,000 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A | T1 | 1.15 (87¢) | $31,526 | +$4,711 | ✅ Ganada |
