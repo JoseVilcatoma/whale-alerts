@@ -60700,5 +60700,20 @@
     "status": "pending",
     "ultimo_fill": 1790905931,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8253,
+    "timestamp": 1790905979,
+    "username": "Gourmet1",
+    "wallet": "0xc430e5b17128df7ce78d69fa28bc7de038641ebf",
+    "slug": "nhl-fla-sj-2026-10-01",
+    "title": "Panthers vs. Sharks",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 53962.880999999994,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1790905979,
+    "fills": 1
   }
 ]

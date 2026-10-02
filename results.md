@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 20:52:36 (hora de Perú)
+Actualizado: 2026-10-01 20:54:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4038**  ($218,985,587 en total)
+- Apuestas registradas: **4039**  ($219,039,550 en total)
 - Resueltas: **4000** — 2433 ganadas / 1567 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 488
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 488 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Gourmet1 | Panthers vs. Sharks | Panthers | 1.72 (58¢) | $53,963 | — | ⏳ Pendiente |
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $50,328 | — | ⏳ Pendiente |
 | ethanaz | Steelers vs. Browns | Browns | 1.43 (70¢) | $71,152 | — | ⏳ Pendiente |
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $42,190 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 488 en total)_
 | wr0ngw4yb3tt0r | Chicago Cubs vs. San Diego Padres | Chicago Cubs | 2.27 (44¢) | $53,436 | -$53,436 | ❌ Perdida |
 | jaytee158 | West Indies Tour of India ODIs: India vs West Indies | India | 1.06 (94¢) | $31,383 | +$2,003 | ✅ Ganada |
 | llllllIIIIIIlIllllllIIIIIIlIllllllIIIIIIlI | Dota 2: PARIVISION vs LGD Gaming (BO3) - BLAST Slam Group A | PARIVISION | 1.14 (88¢) | $35,200 | +$4,800 | ✅ Ganada |
-| watcherz88 | China Open: Nuno Borges vs Novak Djokovic | Novak Djokovic | 1.28 (78¢) | $38,934 | +$10,981 | ✅ Ganada |
