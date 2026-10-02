@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 03:11:37 (hora de Perú)
+Actualizado: 2026-10-02 03:13:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4051**  ($219,514,156 en total)
+- Apuestas registradas: **4052**  ($219,546,666 en total)
 - Resueltas: **4028** — 2450 ganadas / 1578 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 489
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 294 | 154 | 3 | 66% | $28,568,198 | +$895,569 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 294 | 154 | 4 | 66% | $28,600,708 | +$895,569 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.86 (35¢) | $32,510 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $56,595 | — | ⏳ Pendiente |
 | Antblack | Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi | Luciano Darderi | 1.69 (59¢) | $29,349 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.70 (37¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 | 0F62 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.06 (94¢) | $59,894 | +$3,823 | ✅ Ganada |
 | jaytee158 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $32,984 | +$25,916 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.30 (77¢) | $25,397 | +$7,586 | ✅ Ganada |
-| kkookkoo | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $29,699 | +$23,335 | ✅ Ganada |
