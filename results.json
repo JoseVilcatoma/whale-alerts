@@ -60490,5 +60490,20 @@
     "status": "pending",
     "ultimo_fill": 1790899099,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8239,
+    "timestamp": 1790899339,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-pit-cle-2026-10-02-spread-away-2pt5",
+    "title": "Spread: Steelers (-2.5)",
+    "outcome": "Browns",
+    "side": "BUY",
+    "usd": 126924.40962999997,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1790899339,
+    "fills": 1
   }
 ]

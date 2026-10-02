@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 19:00:42 (hora de Perú)
+Actualizado: 2026-10-01 19:02:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4024**  ($218,267,066 en total)
+- Apuestas registradas: **4025**  ($218,393,991 en total)
 - Resueltas: **4000** — 2433 ganadas / 1567 perdidas (**61%** de acierto)
-- Pendientes: 6
-- Apostadores distintos: 486
+- Pendientes: 7
+- Apostadores distintos: 487
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 486 en total)_
+_(mostrando los 40 de mayor monto, de 487 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Spread: Steelers (-2.5) | Browns | 2.17 (46¢) | $126,924 | — | ⏳ Pendiente |
 | Gourmet1 | Wild vs. Predators | Predators | 2.38 (42¢) | $59,387 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | North Texas vs. Tulsa | North Texas | 1.79 (56¢) | $63,535 | — | ⏳ Pendiente |
 | Elenes | Panthers vs. Sharks | Panthers | 1.75 (57¢) | $43,320 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 486 en total)_
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.10 (91¢) | $28,984 | +$2,867 | ✅ Ganada |
 | taylorsversion | Boston Red Sox vs. New York Yankees | New York Yankees | 1.15 (87¢) | $25,022 | +$3,739 | ✅ Ganada |
 | Gourmet1 | Canucks vs. Oilers | Canucks | 3.70 (27¢) | $35,934 | +$97,155 | ✅ Ganada |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $29,088 | -$1,164 | 💰 Vendida antes |
