@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 18:22:06 (hora de Perú)
+Actualizado: 2026-10-02 18:24:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4062**  ($220,012,265 en total)
+- Apuestas registradas: **4063**  ($220,043,236 en total)
 - Resueltas: **4040** — 2456 ganadas / 1584 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 490
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| curie | Pittsburgh vs. Virginia Tech | Virginia Tech | 1.25 (80¢) | $30,971 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.17 (46¢) | $77,436 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Virginia Tech (-1.5) | Pittsburgh | 1.96 (51¢) | $92,579 | — | ⏳ Pendiente |
 | Eztennis | Rangers vs. Red Wings | Red Wings | 1.82 (55¢) | $70,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 2.00 (50¢) | $26,432 | -$26,432 | ❌ Perdida |
 | Kev69 | China Open: Yulia Starodubtseva vs Alina Charaeva | Yulia Starodubtseva | 1.28 (78¢) | $59,282 | -$59,282 | ❌ Perdida |
 | gransaaa | Will Netherlands win on 2026-10-01? | No | 1.85 (54¢) | $76,140 | +$64,860 | ✅ Ganada |
-| Antblack | Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas | Tomas Etcheverry | 1.92 (52¢) | $34,091 | -$34,091 | ❌ Perdida |
