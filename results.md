@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 20:50:31 (hora de Perú)
+Actualizado: 2026-10-01 20:52:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4037**  ($218,935,259 en total)
+- Apuestas registradas: **4038**  ($218,985,587 en total)
 - Resueltas: **4000** — 2433 ganadas / 1567 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 488
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 488 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $50,328 | — | ⏳ Pendiente |
 | ethanaz | Steelers vs. Browns | Browns | 1.43 (70¢) | $71,152 | — | ⏳ Pendiente |
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $42,190 | — | ⏳ Pendiente |
 | FlamePyro | Steelers vs. Browns | Browns | 1.52 (66¢) | $42,900 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 488 en total)_
 | jaytee158 | West Indies Tour of India ODIs: India vs West Indies | India | 1.06 (94¢) | $31,383 | +$2,003 | ✅ Ganada |
 | llllllIIIIIIlIllllllIIIIIIlIllllllIIIIIIlI | Dota 2: PARIVISION vs LGD Gaming (BO3) - BLAST Slam Group A | PARIVISION | 1.14 (88¢) | $35,200 | +$4,800 | ✅ Ganada |
 | watcherz88 | China Open: Nuno Borges vs Novak Djokovic | Novak Djokovic | 1.28 (78¢) | $38,934 | +$10,981 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Nuno Borges vs Novak Djokovic | Novak Djokovic | 1.33 (75¢) | $75,000 | +$25,000 | ✅ Ganada |
