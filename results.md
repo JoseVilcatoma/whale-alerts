@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 03:48:40 (hora de Perú)
+Actualizado: 2026-10-02 03:50:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4052**  ($219,546,666 en total)
+- Apuestas registradas: **4053**  ($219,586,939 en total)
 - Resueltas: **4028** — 2450 ganadas / 1578 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 489
 
 ### Balance
@@ -54,8 +54,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 26 | 29 | 0 | 47% | $1,644,472 | -$204,878 |
 | Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
 | maz26 | 13 | 11 | 0 | 54% | $1,583,275 | -$297,658 |
+| Lakersfan111 | 20 | 14 | 3 | 59% | $1,581,080 | -$19,623 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
-| Lakersfan111 | 20 | 14 | 2 | 59% | $1,540,807 | -$19,623 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Talvez10 | 15 | 14 | 0 | 52% | $1,373,240 | +$174,841 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $40,273 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.86 (35¢) | $32,510 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $56,595 | — | ⏳ Pendiente |
 | Antblack | Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi | Luciano Darderi | 1.69 (59¢) | $29,349 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 | IcemanSeason | Spread: Avalanche (-1.5) | Avalanche | 2.33 (43¢) | $25,000 | +$33,140 | ✅ Ganada |
 | 0F62 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.06 (94¢) | $59,894 | +$3,823 | ✅ Ganada |
 | jaytee158 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $32,984 | +$25,916 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.30 (77¢) | $25,397 | +$7,586 | ✅ Ganada |
