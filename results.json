@@ -60820,5 +60820,20 @@
     "status": "pending",
     "ultimo_fill": 1790922772,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8287,
+    "timestamp": 1790926716,
+    "username": "FORTNITEMASTER888",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "val-ge1-edg1-2026-10-02",
+    "title": "Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B",
+    "outcome": "Global Esports",
+    "side": "BUY",
+    "usd": 45029.17931099999,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1790926716,
+    "fills": 1
   }
 ]
