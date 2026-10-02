@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 00:17:48 (hora de Perú)
+Actualizado: 2026-10-02 00:19:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4041**  ($219,098,799 en total)
-- Resueltas: **4018** — 2445 ganadas / 1573 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **4020** — 2445 ganadas / 1575 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 489
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,615,556** sobre $218,054,004 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,967** sobre $396,100 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,712,839** sobre $218,151,287 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,167** sobre $396,300 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 |---|---|---|---|---|---|---|
 | mooseborzoii | Steelers vs. Browns | Browns | 1.64 (61¢) | $26,202 | +$16,752 | ✅ Ganada |
 | 01258787xy48487484545122 | China Open: Anastasia Potapova vs Sinja Kraus | Sinja Kraus | 1.16 (86¢) | $33,047 | +$5,380 | ✅ Ganada |
-| Gourmet1 | Panthers vs. Sharks | Panthers | 1.72 (58¢) | $53,963 | — | ⏳ Pendiente |
+| Gourmet1 | Panthers vs. Sharks | Panthers | 1.72 (58¢) | $53,963 | -$53,963 | ❌ Perdida |
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $50,328 | +$3,212 | ✅ Ganada |
 | ethanaz | Steelers vs. Browns | Browns | 1.43 (70¢) | $71,152 | +$30,494 | ✅ Ganada |
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $42,190 | +$2,693 | ✅ Ganada |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 | mooseborzoii | Spread: Steelers (-2.5) | Browns | 2.17 (46¢) | $126,924 | — | ⏳ Pendiente |
 | Gourmet1 | Wild vs. Predators | Predators | 2.38 (42¢) | $59,387 | -$59,387 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | North Texas vs. Tulsa | North Texas | 1.79 (56¢) | $63,535 | — | ⏳ Pendiente |
-| Elenes | Panthers vs. Sharks | Panthers | 1.75 (57¢) | $43,320 | — | ⏳ Pendiente |
+| Elenes | Panthers vs. Sharks | Panthers | 1.75 (57¢) | $43,320 | -$43,320 | ❌ Perdida |
 | BillyGating | Will Wales win on 2026-10-01? | Yes | 1.41 (71¢) | $31,352 | +$12,806 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wales win on 2026-10-01? | No | 3.45 (29¢) | $96,093 | -$96,093 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.04 (49¢) | $74,727 | +$77,777 | ✅ Ganada |
