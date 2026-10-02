@@ -60835,5 +60835,20 @@
     "status": "pending",
     "ultimo_fill": 1790926716,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8291,
+    "timestamp": 1790926862,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-sly-t1a-2026-10-02",
+    "title": "LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs",
+    "outcome": "Solary",
+    "side": "BUY",
+    "usd": 93707.8884,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "ultimo_fill": 1790926862,
+    "fills": 1
   }
 ]
