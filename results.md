@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 00:52:29 (hora de Perú)
+Actualizado: 2026-10-02 00:54:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4043**  ($219,156,404 en total)
+- Apuestas registradas: **4045**  ($219,226,876 en total)
 - Resueltas: **4023** — 2447 ganadas / 1576 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Pendientes: 4
 - Apostadores distintos: 489
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x78be…bde0 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
+| Kev69 | China Open: Taylah Preston vs Diane Parry | Diane Parry | 1.96 (51¢) | $40,471 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Jingshan: Alex Bolt vs Dane Sweeny | Dane Sweeny | 2.04 (49¢) | $27,605 | — | ⏳ Pendiente |
 | Kev69 | Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas | Valentin Vacherot | 1.16 (86¢) | $30,000 | — | ⏳ Pendiente |
 | mooseborzoii | Steelers vs. Browns | Browns | 1.64 (61¢) | $26,202 | +$16,752 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.12 (89¢) | $26,700 | -$26,700 | ❌ Perdida |
 | 177-letsgo | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.08 (93¢) | $27,805 | -$27,805 | ❌ Perdida |
 | ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.10 (91¢) | $30,818 | -$30,818 | ❌ Perdida |
-| Diabolical-Prize | Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B | Natus Vincere | 1.61 (62¢) | $43,400 | -$43,400 | ❌ Perdida |
-| ColdBlooded | Dota 2: PARIVISION vs LGD Gaming - Game 2 Winner | PARIVISION | 1.37 (73¢) | $25,152 | +$9,303 | ✅ Ganada |

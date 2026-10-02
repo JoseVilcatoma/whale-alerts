@@ -60775,5 +60775,35 @@
     "status": "pending",
     "ultimo_fill": 1790920270,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8282,
+    "timestamp": 1790920348,
+    "username": "Kev69",
+    "wallet": "0x1250846658e2a118930edb02e31f7a7e82258f99",
+    "slug": "wta-preston-parry-2026-10-01",
+    "title": "China Open: Taylah Preston vs Diane Parry",
+    "outcome": "Diane Parry",
+    "side": "BUY",
+    "usd": 40471.46,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1790920348,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8283,
+    "timestamp": 1790920383,
+    "username": "0x78be\u2026bde0",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "wta-preston-parry-2026-10-01",
+    "title": "China Open: Taylah Preston vs Diane Parry",
+    "outcome": "Taylah Preston",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1790920383,
+    "fills": 1
   }
 ]
