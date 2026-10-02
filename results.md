@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 23:03:52 (hora de Perú)
+Actualizado: 2026-10-01 23:05:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4041**  ($219,098,799 en total)
-- Resueltas: **4008** — 2439 ganadas / 1569 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **4017** — 2444 ganadas / 1573 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 489
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,514,404** sobre $217,604,169 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,832** sobre $395,100 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,620,936** sobre $218,020,957 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,983** sobre $396,000 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 292 | 153 | 5 | 66% | $28,540,598 | +$949,194 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 292 | 154 | 4 | 65% | $28,540,598 | +$833,248 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 44 | 30 | 1 | 59% | $2,896,457 | -$593,064 |
 | BrotherObama | 30 | 29 | 2 | 51% | $2,838,314 | +$321,443 |
-| ethanaz | 33 | 14 | 1 | 70% | $2,822,130 | -$178,464 |
+| ethanaz | 34 | 14 | 0 | 71% | $2,822,130 | -$147,970 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,21 +71,21 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| mooseborzoii | Steelers vs. Browns | Browns | 1.64 (61¢) | $26,202 | — | ⏳ Pendiente |
+| mooseborzoii | Steelers vs. Browns | Browns | 1.64 (61¢) | $26,202 | +$16,752 | ✅ Ganada |
 | 01258787xy48487484545122 | China Open: Anastasia Potapova vs Sinja Kraus | Sinja Kraus | 1.16 (86¢) | $33,047 | — | ⏳ Pendiente |
 | Gourmet1 | Panthers vs. Sharks | Panthers | 1.72 (58¢) | $53,963 | — | ⏳ Pendiente |
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $50,328 | +$3,212 | ✅ Ganada |
-| ethanaz | Steelers vs. Browns | Browns | 1.43 (70¢) | $71,152 | — | ⏳ Pendiente |
+| ethanaz | Steelers vs. Browns | Browns | 1.43 (70¢) | $71,152 | +$30,494 | ✅ Ganada |
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $42,190 | +$2,693 | ✅ Ganada |
-| FlamePyro | Steelers vs. Browns | Browns | 1.52 (66¢) | $42,900 | — | ⏳ Pendiente |
-| sulumos | Steelers vs. Browns | Browns | 1.52 (66¢) | $40,920 | — | ⏳ Pendiente |
+| FlamePyro | Steelers vs. Browns | Browns | 1.52 (66¢) | $42,900 | +$22,100 | ✅ Ganada |
+| sulumos | Steelers vs. Browns | Browns | 1.52 (66¢) | $40,920 | +$21,080 | ✅ Ganada |
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.15 (87¢) | $36,157 | +$5,403 | ✅ Ganada |
-| FlamePyro | Steelers vs. Browns | Steelers | 1.39 (72¢) | $30,240 | — | ⏳ Pendiente |
-| yoyoyoyoer | Steelers vs. Browns | Steelers | 1.30 (77¢) | $36,575 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Steelers vs. Browns | Steelers | 1.32 (76¢) | $115,946 | — | ⏳ Pendiente |
+| FlamePyro | Steelers vs. Browns | Steelers | 1.39 (72¢) | $30,240 | -$30,240 | ❌ Perdida |
+| yoyoyoyoer | Steelers vs. Browns | Steelers | 1.30 (77¢) | $36,575 | -$36,575 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Steelers vs. Browns | Steelers | 1.32 (76¢) | $115,946 | -$115,946 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.82 (55¢) | $25,509 | +$20,871 | ✅ Ganada |
-| ndb1 | Spread: Browns (-3.5) | Steelers | 1.39 (72¢) | $27,833 | — | ⏳ Pendiente |
-| troonnnn | Steelers vs. Browns | Steelers | 1.67 (60¢) | $25,020 | — | ⏳ Pendiente |
+| ndb1 | Spread: Browns (-3.5) | Steelers | 1.39 (72¢) | $27,833 | +$10,824 | ✅ Ganada |
+| troonnnn | Steelers vs. Browns | Steelers | 1.67 (60¢) | $25,020 | -$25,020 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Steelers (-2.5) | Steelers | 1.85 (54¢) | $46,827 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Steelers (-2.5) | Browns | 2.17 (46¢) | $126,924 | — | ⏳ Pendiente |
 | Gourmet1 | Wild vs. Predators | Predators | 2.38 (42¢) | $59,387 | -$59,387 | ❌ Perdida |
