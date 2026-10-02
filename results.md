@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 08:36:01 (hora de Perú)
+Actualizado: 2026-10-02 08:38:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4057**  ($219,712,466 en total)
-- Resueltas: **4032** — 2453 ganadas / 1579 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **4035** — 2453 ganadas / 1582 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 490
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,553,601** sobre $218,715,497 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,087** sobre $397,500 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,714,818** sobre $218,876,714 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,387** sobre $397,800 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 294 | 154 | 4 | 66% | $28,600,708 | +$895,569 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 294 | 155 | 3 | 65% | $28,600,708 | +$863,059 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -33,10 +33,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Sassy-Bucket | 53 | 47 | 0 | 53% | $5,270,406 | -$647,744 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Diabolical-Prize | 46 | 43 | 1 | 52% | $4,626,528 | -$160,202 |
+| Diabolical-Prize | 46 | 44 | 0 | 51% | $4,626,528 | -$253,910 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 44 | 31 | 0 | 59% | $2,896,457 | -$639,891 |
-| BrotherObama | 30 | 29 | 3 | 51% | $2,873,314 | +$321,443 |
+| BrotherObama | 30 | 30 | 2 | 50% | $2,873,314 | +$286,443 |
 | ethanaz | 34 | 14 | 0 | 71% | $2,822,130 | -$147,970 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -76,11 +76,11 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 | FORTNITEMASTER888 | Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A | T1 | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A | T1 | 1.15 (87¢) | $31,526 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $40,273 | +$15,662 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.86 (35¢) | $32,510 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.86 (35¢) | $32,510 | -$32,510 | ❌ Perdida |
 | FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $56,595 | +$22,009 | ✅ Ganada |
 | Antblack | Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi | Luciano Darderi | 1.69 (59¢) | $29,349 | -$29,349 | ❌ Perdida |
-| BrotherObama | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.70 (37¢) | $35,000 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.78 (36¢) | $93,708 | — | ⏳ Pendiente |
+| BrotherObama | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.70 (37¢) | $35,000 | -$35,000 | ❌ Perdida |
+| Diabolical-Prize | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.78 (36¢) | $93,708 | -$93,708 | ❌ Perdida |
 | FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.41 (71¢) | $45,029 | +$18,392 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 1.45 (69¢) | $27,600 | +$12,400 | ✅ Ganada |
 | 0x78be…bde0 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 2.04 (49¢) | $30,000 | +$31,224 | ✅ Ganada |
