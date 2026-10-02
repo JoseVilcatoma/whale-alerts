@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 17:41:17 (hora de Perú)
+Actualizado: 2026-10-02 17:43:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4061**  ($219,883,585 en total)
+- Apuestas registradas: **4062**  ($220,012,265 en total)
 - Resueltas: **4039** — 2456 ganadas / 1583 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 490
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 294 | 155 | 3 | 65% | $28,600,708 | +$863,059 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 294 | 155 | 4 | 65% | $28,678,144 | +$863,059 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 13 | 11 | 0 | 54% | $1,583,275 | -$297,658 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| Talvez10 | 15 | 14 | 1 | 52% | $1,414,575 | +$174,841 |
+| Talvez10 | 15 | 14 | 1 | 52% | $1,465,819 | +$174,841 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 16 | 1 | 0 | 94% | $1,302,905 | +$650,568 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Talvez10 | Spread: Virginia Tech (-1.5) | Pittsburgh | 1.96 (51¢) | $41,335 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.17 (46¢) | $77,436 | — | ⏳ Pendiente |
+| Talvez10 | Spread: Virginia Tech (-1.5) | Pittsburgh | 1.96 (51¢) | $92,579 | — | ⏳ Pendiente |
 | Eztennis | Rangers vs. Red Wings | Red Wings | 1.82 (55¢) | $70,000 | — | ⏳ Pendiente |
 | Thorin1 | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $29,960 | +$41,373 | ✅ Ganada |
 | viboomchuu | Bruins vs. Jets | Bruins | 2.13 (47¢) | $29,824 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 | Kev69 | China Open: Yulia Starodubtseva vs Alina Charaeva | Yulia Starodubtseva | 1.28 (78¢) | $59,282 | -$59,282 | ❌ Perdida |
 | gransaaa | Will Netherlands win on 2026-10-01? | No | 1.85 (54¢) | $76,140 | +$64,860 | ✅ Ganada |
 | Antblack | Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas | Tomas Etcheverry | 1.92 (52¢) | $34,091 | -$34,091 | ❌ Perdida |
-| Kev69 | Chicago Cubs vs. San Diego Padres | San Diego Padres | 1.37 (73¢) | $46,390 | +$13,345 | 💰 Vendida antes |

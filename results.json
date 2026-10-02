@@ -61040,10 +61040,25 @@
     "title": "Spread: Virginia Tech (-1.5)",
     "outcome": "Pittsburgh",
     "side": "BUY",
-    "usd": 41335.2037,
+    "usd": 92578.54000000001,
     "odds_at_bet": 51,
     "status": "pending",
-    "ultimo_fill": 1790980850,
+    "ultimo_fill": 1790980918,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 8318,
+    "timestamp": 1790980949,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-pitt-vtech-2026-10-02",
+    "title": "Pittsburgh vs. Virginia Tech",
+    "outcome": "Pittsburgh",
+    "side": "BUY",
+    "usd": 77436.0274,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1790980949,
     "fills": 1
   }
 ]
