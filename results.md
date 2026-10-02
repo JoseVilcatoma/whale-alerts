@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 19:13:02 (hora de Perú)
+Actualizado: 2026-10-01 19:15:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4026**  ($218,440,818 en total)
+- Apuestas registradas: **4028**  ($218,493,671 en total)
 - Resueltas: **4000** — 2433 ganadas / 1567 perdidas (**61%** de acierto)
-- Pendientes: 8
-- Apostadores distintos: 487
+- Pendientes: 10
+- Apostadores distintos: 488
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 487 en total)_
+_(mostrando los 40 de mayor monto, de 488 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Spread: Browns (-3.5) | Steelers | 1.39 (72¢) | $27,833 | — | ⏳ Pendiente |
+| troonnnn | Steelers vs. Browns | Steelers | 1.67 (60¢) | $25,020 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Steelers (-2.5) | Steelers | 1.85 (54¢) | $46,827 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Steelers (-2.5) | Browns | 2.17 (46¢) | $126,924 | — | ⏳ Pendiente |
 | Gourmet1 | Wild vs. Predators | Predators | 2.38 (42¢) | $59,387 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 487 en total)_
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | China Open: Maya Joint vs Sinja Kraus | Maya Joint | 1.89 (53¢) | $50,798 | -$50,798 | ❌ Perdida |
 | ferrariChampions2026 | Jingshan: Masamichi Imamura vs Petr Bar Biryukov | Petr Bar Biryukov | 1.19 (84¢) | $29,797 | +$5,676 | ✅ Ganada |
 | kkookkoo | China Open: Karen Khachanov vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.75 (57¢) | $27,000 | -$27,000 | ❌ Perdida |
-| ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.10 (91¢) | $28,984 | +$2,867 | ✅ Ganada |
-| taylorsversion | Boston Red Sox vs. New York Yankees | New York Yankees | 1.15 (87¢) | $25,022 | +$3,739 | ✅ Ganada |

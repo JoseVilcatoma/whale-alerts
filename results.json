@@ -60520,5 +60520,35 @@
     "status": "pending",
     "ultimo_fill": 1790899816,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8241,
+    "timestamp": 1790900014,
+    "username": "troonnnn",
+    "wallet": "0xcbd4e59cd04a74291e3333630eeec431e4814e22",
+    "slug": "nfl-pit-cle-2026-10-02",
+    "title": "Steelers vs. Browns",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 25020.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1790900014,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8242,
+    "timestamp": 1790900025,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "nfl-pit-cle-2026-10-02-spread-home-3pt5",
+    "title": "Spread: Browns (-3.5)",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 27833.234399999998,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1790900025,
+    "fills": 1
   }
 ]
