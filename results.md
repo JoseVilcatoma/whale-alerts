@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 19:46:07 (hora de Perú)
+Actualizado: 2026-10-01 19:48:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4029**  ($218,519,180 en total)
+- Apuestas registradas: **4030**  ($218,635,126 en total)
 - Resueltas: **4000** — 2433 ganadas / 1567 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 488
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 290 | 153 | 6 | 65% | $28,424,652 | +$846,417 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 290 | 153 | 7 | 65% | $28,540,598 | +$846,417 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 84 | 78 | 1 | 52% | $6,733,075 | -$494,553 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 488 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Steelers vs. Browns | Steelers | 1.32 (76¢) | $115,946 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.82 (55¢) | $25,509 | — | ⏳ Pendiente |
 | ndb1 | Spread: Browns (-3.5) | Steelers | 1.39 (72¢) | $27,833 | — | ⏳ Pendiente |
 | troonnnn | Steelers vs. Browns | Steelers | 1.67 (60¢) | $25,020 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 488 en total)_
 | acorp | Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A | Xtreme Gaming | 1.19 (84¢) | $37,382 | +$7,120 | ✅ Ganada |
 | omnibus-076daa | Jingshan: Elias Ymer vs Terence Atmane | Elias Ymer | 1.79 (56¢) | $28,075 | +$22,059 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | China Open: Maya Joint vs Sinja Kraus | Maya Joint | 1.89 (53¢) | $50,798 | -$50,798 | ❌ Perdida |
-| ferrariChampions2026 | Jingshan: Masamichi Imamura vs Petr Bar Biryukov | Petr Bar Biryukov | 1.19 (84¢) | $29,797 | +$5,676 | ✅ Ganada |
