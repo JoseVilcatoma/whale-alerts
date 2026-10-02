@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 22:36:49 (hora de Perú)
+Actualizado: 2026-10-01 22:38:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4039**  ($219,039,550 en total)
+- Apuestas registradas: **4041**  ($219,098,799 en total)
 - Resueltas: **4008** — 2439 ganadas / 1569 perdidas (**61%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 488
+- Pendientes: 15
+- Apostadores distintos: 489
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 488 en total)_
+_(mostrando los 40 de mayor monto, de 489 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Steelers vs. Browns | Browns | 1.64 (61¢) | $26,202 | — | ⏳ Pendiente |
+| 01258787xy48487484545122 | China Open: Anastasia Potapova vs Sinja Kraus | Sinja Kraus | 1.16 (86¢) | $33,047 | — | ⏳ Pendiente |
 | Gourmet1 | Panthers vs. Sharks | Panthers | 1.72 (58¢) | $53,963 | — | ⏳ Pendiente |
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $50,328 | +$3,212 | ✅ Ganada |
 | ethanaz | Steelers vs. Browns | Browns | 1.43 (70¢) | $71,152 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 488 en total)_
 | ColdBlooded | Dota 2: PARIVISION vs LGD Gaming - Game 2 Winner | PARIVISION | 1.37 (73¢) | $25,152 | +$9,303 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Curitiba: Luis Guto Miguel vs Facundo Mena | Luis Guto Miguel | 1.54 (65¢) | $29,137 | +$15,689 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. San Diego Padres | Chicago Cubs | 2.27 (44¢) | $53,436 | -$53,436 | ❌ Perdida |
-| jaytee158 | West Indies Tour of India ODIs: India vs West Indies | India | 1.06 (94¢) | $31,383 | +$2,003 | ✅ Ganada |
-| llllllIIIIIIlIllllllIIIIIIlIllllllIIIIIIlI | Dota 2: PARIVISION vs LGD Gaming (BO3) - BLAST Slam Group A | PARIVISION | 1.14 (88¢) | $35,200 | +$4,800 | ✅ Ganada |

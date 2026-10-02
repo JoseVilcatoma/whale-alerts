@@ -60715,5 +60715,35 @@
     "status": "pending",
     "ultimo_fill": 1790905979,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8263,
+    "timestamp": 1790911913,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-pit-cle-2026-10-02",
+    "title": "Steelers vs. Browns",
+    "outcome": "Browns",
+    "side": "BUY",
+    "usd": 26201.994899999998,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1790911913,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8264,
+    "timestamp": 1790911910,
+    "username": "01258787xy48487484545122",
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "slug": "wta-potapov-kraus-2026-10-01",
+    "title": "China Open: Anastasia Potapova vs Sinja Kraus",
+    "outcome": "Sinja Kraus",
+    "side": "BUY",
+    "usd": 33047.0652,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1790911910,
+    "fills": 1
   }
 ]
