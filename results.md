@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 08:54:25 (hora de Perú)
+Actualizado: 2026-10-02 08:56:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4058**  ($219,742,291 en total)
-- Resueltas: **4037** — 2455 ganadas / 1582 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Resueltas: **4038** — 2455 ganadas / 1583 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 490
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,704,107** sobre $218,942,241 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,355** sobre $398,000 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,736,941** sobre $218,975,075 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,455** sobre $398,100 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| Lakersfan111 | 25 | 14 | 1 | 64% | $1,679,440 | +$47,151 |
+| Lakersfan111 | 25 | 15 | 0 | 62% | $1,679,440 | +$14,317 |
 | SDTrading | 26 | 29 | 0 | 47% | $1,644,472 | -$204,878 |
 | Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
 | maz26 | 13 | 11 | 0 | 54% | $1,583,275 | -$297,658 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 |---|---|---|---|---|---|---|
 | viboomchuu | Bruins vs. Jets | Bruins | 2.13 (47¢) | $29,824 | — | ⏳ Pendiente |
 | PAROLIBOYS | Will Belgium win on 2026-10-02? | No | 2.63 (38¢) | $27,167 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | Map Handicap: T1 (-1.5) vs JD Gaming (+1.5) | T1 | 1.61 (62¢) | $32,834 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | Map Handicap: T1 (-1.5) vs JD Gaming (+1.5) | T1 | 1.61 (62¢) | $32,834 | -$32,834 | ❌ Perdida |
 | FORTNITEMASTER888 | Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A | T1 | 1.18 (85¢) | $34,000 | +$6,000 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A | T1 | 1.15 (87¢) | $31,526 | +$4,711 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $40,273 | +$15,662 | ✅ Ganada |
