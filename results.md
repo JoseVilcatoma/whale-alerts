@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 20:06:49 (hora de Perú)
+Actualizado: 2026-10-01 20:08:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4032**  ($218,701,941 en total)
+- Apuestas registradas: **4033**  ($218,738,098 en total)
 - Resueltas: **4000** — 2433 ganadas / 1567 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 488
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 488 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.15 (87¢) | $36,157 | — | ⏳ Pendiente |
 | FlamePyro | Steelers vs. Browns | Steelers | 1.39 (72¢) | $30,240 | — | ⏳ Pendiente |
 | yoyoyoyoer | Steelers vs. Browns | Steelers | 1.30 (77¢) | $36,575 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Steelers vs. Browns | Steelers | 1.32 (76¢) | $115,946 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 488 en total)_
 | HVAB | Jingshan: Sijia Wei vs Fiona Ferro | Sijia Wei | 1.16 (86¢) | $68,300 | +$11,119 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: T1 Academy vs Galions (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.67 (60¢) | $29,120 | +$19,413 | ✅ Ganada |
 | omnibus-076daa | Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Group B | Team Vitality | 2.17 (46¢) | $45,373 | +$53,264 | ✅ Ganada |
-| acorp | Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A | Xtreme Gaming | 1.19 (84¢) | $37,382 | +$7,120 | ✅ Ganada |
