@@ -61015,5 +61015,20 @@
     "status": "won",
     "ultimo_fill": 1790950933,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8316,
+    "timestamp": 1790977096,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "nhl-nyr-det-2026-10-02",
+    "title": "Rangers vs. Red Wings",
+    "outcome": "Red Wings",
+    "side": "BUY",
+    "usd": 70000.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1790977096,
+    "fills": 1
   }
 ]
