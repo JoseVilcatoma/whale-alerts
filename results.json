@@ -60865,5 +60865,20 @@
     "status": "pending",
     "ultimo_fill": 1790926997,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8293,
+    "timestamp": 1790928091,
+    "username": "Antblack",
+    "wallet": "0x9c68e5a4b3004bf6ac9d6735a33ffb5f983a247a",
+    "slug": "atp-jacquet-darderi-2026-10-02",
+    "title": "Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi",
+    "outcome": "Luciano Darderi",
+    "side": "BUY",
+    "usd": 29348.604600000002,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1790928091,
+    "fills": 1
   }
 ]
