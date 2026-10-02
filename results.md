@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 02:28:43 (hora de Perú)
+Actualizado: 2026-10-02 02:30:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4046**  ($219,254,476 en total)
-- Resueltas: **4024** — 2448 ganadas / 1576 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **4025** — 2448 ganadas / 1577 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 489
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,555,863** sobre $218,418,574 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,055** sobre $396,700 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,583,468** sobre $218,446,179 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,155** sobre $396,800 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | 0x78be…bde0 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | Kev69 | China Open: Taylah Preston vs Diane Parry | Diane Parry | 1.96 (51¢) | $40,471 | — | ⏳ Pendiente |
-| 0x78be…bde0 | Jingshan: Alex Bolt vs Dane Sweeny | Dane Sweeny | 2.04 (49¢) | $27,605 | — | ⏳ Pendiente |
+| 0x78be…bde0 | Jingshan: Alex Bolt vs Dane Sweeny | Dane Sweeny | 2.04 (49¢) | $27,605 | -$27,605 | ❌ Perdida |
 | Kev69 | Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas | Valentin Vacherot | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
 | mooseborzoii | Steelers vs. Browns | Browns | 1.64 (61¢) | $26,202 | +$16,752 | ✅ Ganada |
 | 01258787xy48487484545122 | China Open: Anastasia Potapova vs Sinja Kraus | Sinja Kraus | 1.16 (86¢) | $33,047 | +$5,380 | ✅ Ganada |
