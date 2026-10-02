@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 04:27:49 (hora de Perú)
+Actualizado: 2026-10-02 05:52:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4053**  ($219,586,939 en total)
-- Resueltas: **4028** — 2450 ganadas / 1578 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **4029** — 2450 ganadas / 1579 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 489
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,580,315** sobre $218,544,251 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,106** sobre $397,100 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,609,664** sobre $218,573,599 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,206** sobre $397,200 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 | FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $40,273 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.86 (35¢) | $32,510 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $56,595 | — | ⏳ Pendiente |
-| Antblack | Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi | Luciano Darderi | 1.69 (59¢) | $29,349 | — | ⏳ Pendiente |
+| Antblack | Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi | Luciano Darderi | 1.69 (59¢) | $29,349 | -$29,349 | ❌ Perdida |
 | BrotherObama | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.70 (37¢) | $35,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.78 (36¢) | $93,708 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.41 (71¢) | $45,029 | — | ⏳ Pendiente |
