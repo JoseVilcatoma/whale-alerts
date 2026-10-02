@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 20:21:13 (hora de Perú)
+Actualizado: 2026-10-01 20:23:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4033**  ($218,738,098 en total)
+- Apuestas registradas: **4035**  ($218,821,918 en total)
 - Resueltas: **4000** — 2433 ganadas / 1567 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 17
 - Apostadores distintos: 488
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 488 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FlamePyro | Steelers vs. Browns | Browns | 1.52 (66¢) | $42,900 | — | ⏳ Pendiente |
+| sulumos | Steelers vs. Browns | Browns | 1.52 (66¢) | $40,920 | — | ⏳ Pendiente |
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.15 (87¢) | $36,157 | — | ⏳ Pendiente |
 | FlamePyro | Steelers vs. Browns | Steelers | 1.39 (72¢) | $30,240 | — | ⏳ Pendiente |
 | yoyoyoyoer | Steelers vs. Browns | Steelers | 1.30 (77¢) | $36,575 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 488 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Nuno Borges vs Novak Djokovic | Novak Djokovic | 1.33 (75¢) | $75,000 | +$25,000 | ✅ Ganada |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.38 (42¢) | $28,693 | +$39,623 | ✅ Ganada |
 | HVAB | Jingshan: Sijia Wei vs Fiona Ferro | Sijia Wei | 1.16 (86¢) | $68,300 | +$11,119 | ✅ Ganada |
-| FORTNITEMASTER888 | LoL: T1 Academy vs Galions (BO5) - World Star Challengers Invitational Playoffs | T1 Academy | 1.67 (60¢) | $29,120 | +$19,413 | ✅ Ganada |
-| omnibus-076daa | Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Group B | Team Vitality | 2.17 (46¢) | $45,373 | +$53,264 | ✅ Ganada |
