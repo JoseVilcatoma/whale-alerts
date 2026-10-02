@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 08:38:02 (hora de Perú)
+Actualizado: 2026-10-02 08:40:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4057**  ($219,712,466 en total)
+- Apuestas registradas: **4058**  ($219,742,291 en total)
 - Resueltas: **4035** — 2453 ganadas / 1582 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 490
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| viboomchuu | Bruins vs. Jets | Bruins | 2.13 (47¢) | $29,824 | — | ⏳ Pendiente |
 | PAROLIBOYS | Will Belgium win on 2026-10-02? | No | 2.63 (38¢) | $27,167 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Map Handicap: T1 (-1.5) vs JD Gaming (+1.5) | T1 | 1.61 (62¢) | $32,834 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A | T1 | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $26,316 | -$26,316 | ❌ Perdida |
 | curie | Golden State Valkyries vs. Dallas Wings | Golden State Valkyries | 1.45 (69¢) | $35,883 | -$35,883 | ❌ Perdida |
 | kkookkoo | Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar | Taylor Fritz | 1.64 (61¢) | $29,000 | -$29,000 | ❌ Perdida |
-| qiu3 | Valorant: TYLOO vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 1.23 (81¢) | $31,702 | +$7,436 | ✅ Ganada |
