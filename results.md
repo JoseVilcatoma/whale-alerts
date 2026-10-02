@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-01 19:08:55 (hora de Perú)
+Actualizado: 2026-10-01 19:10:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4025**  ($218,393,991 en total)
+- Apuestas registradas: **4026**  ($218,440,818 en total)
 - Resueltas: **4000** — 2433 ganadas / 1567 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 487
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 43 | 0 | 52% | $4,532,820 | -$160,202 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 44 | 30 | 0 | 59% | $2,849,630 | -$593,064 |
+| ferrariChampions2026 | 44 | 30 | 1 | 59% | $2,896,457 | -$593,064 |
 | BrotherObama | 30 | 29 | 2 | 51% | $2,838,314 | +$321,443 |
 | ethanaz | 33 | 14 | 0 | 70% | $2,750,978 | -$178,464 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 487 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Steelers (-2.5) | Steelers | 1.85 (54¢) | $46,827 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Steelers (-2.5) | Browns | 2.17 (46¢) | $126,924 | — | ⏳ Pendiente |
 | Gourmet1 | Wild vs. Predators | Predators | 2.38 (42¢) | $59,387 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | North Texas vs. Tulsa | North Texas | 1.79 (56¢) | $63,535 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 487 en total)_
 | kkookkoo | China Open: Karen Khachanov vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.75 (57¢) | $27,000 | -$27,000 | ❌ Perdida |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.10 (91¢) | $28,984 | +$2,867 | ✅ Ganada |
 | taylorsversion | Boston Red Sox vs. New York Yankees | New York Yankees | 1.15 (87¢) | $25,022 | +$3,739 | ✅ Ganada |
-| Gourmet1 | Canucks vs. Oilers | Canucks | 3.70 (27¢) | $35,934 | +$97,155 | ✅ Ganada |

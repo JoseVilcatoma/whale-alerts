@@ -60505,5 +60505,20 @@
     "status": "pending",
     "ultimo_fill": 1790899339,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8240,
+    "timestamp": 1790899816,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-pit-cle-2026-10-02-spread-away-2pt5",
+    "title": "Spread: Steelers (-2.5)",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 46826.937000000005,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1790899816,
+    "fills": 1
   }
 ]
