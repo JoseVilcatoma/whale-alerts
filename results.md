@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 05:52:02 (hora de Perú)
+Actualizado: 2026-10-02 05:54:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4053**  ($219,586,939 en total)
-- Resueltas: **4029** — 2450 ganadas / 1579 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Apuestas registradas: **4054**  ($219,620,939 en total)
+- Resueltas: **4032** — 2453 ganadas / 1579 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 489
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,609,664** sobre $218,573,599 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,206** sobre $397,200 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,553,601** sobre $218,715,497 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,087** sobre $397,500 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -52,9 +52,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 26 | 29 | 0 | 47% | $1,644,472 | -$204,878 |
+| Lakersfan111 | 23 | 14 | 1 | 62% | $1,615,080 | +$36,440 |
 | Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
 | maz26 | 13 | 11 | 0 | 54% | $1,583,275 | -$297,658 |
-| Lakersfan111 | 20 | 14 | 3 | 59% | $1,581,080 | -$19,623 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $40,273 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A | T1 | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $40,273 | +$15,662 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.86 (35¢) | $32,510 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $56,595 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $56,595 | +$22,009 | ✅ Ganada |
 | Antblack | Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi | Luciano Darderi | 1.69 (59¢) | $29,349 | -$29,349 | ❌ Perdida |
 | BrotherObama | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.70 (37¢) | $35,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.78 (36¢) | $93,708 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.41 (71¢) | $45,029 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.41 (71¢) | $45,029 | +$18,392 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 1.45 (69¢) | $27,600 | +$12,400 | ✅ Ganada |
 | 0x78be…bde0 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 2.04 (49¢) | $30,000 | +$31,224 | ✅ Ganada |
 | Kev69 | China Open: Taylah Preston vs Diane Parry | Diane Parry | 1.96 (51¢) | $40,471 | -$40,471 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 489 en total)_
 | BrotherObama | Chicago Cubs vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $60,000 | -$60,000 | ❌ Perdida |
 | IcemanSeason | Spread: Avalanche (-1.5) | Avalanche | 2.33 (43¢) | $25,000 | +$33,140 | ✅ Ganada |
 | 0F62 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 1.06 (94¢) | $59,894 | +$3,823 | ✅ Ganada |
-| jaytee158 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $32,984 | +$25,916 | ✅ Ganada |
