@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 23:00:43 (hora de Perú)
+Actualizado: 2026-10-02 23:02:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4077**  ($220,747,481 en total)
-- Resueltas: **4053** — 2467 ganadas / 1586 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **4054** — 2468 ganadas / 1586 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 491
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,459,623** sobre $219,699,229 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,958** sobre $399,600 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,434,083** sobre $219,724,770 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,858** sobre $399,700 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 491 en total)_
 | ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.47 (68¢) | $29,993 | +$14,115 | ✅ Ganada |
 | FORTNITEMASTER888 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | Legacy | 2.33 (43¢) | $53,938 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $64,355 | +$7,954 | ✅ Ganada |
-| CHZHSHCH | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries | 2.00 (50¢) | $25,541 | — | ⏳ Pendiente |
+| CHZHSHCH | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries | 2.00 (50¢) | $25,541 | +$25,541 | ✅ Ganada |
 | halanddd123 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.25 (80¢) | $48,000 | +$12,000 | ✅ Ganada |
 | BrotherObama | Spread: Golden Knights (-1.5) | Golden Knights | 2.17 (46¢) | $35,000 | — | ⏳ Pendiente |
 | ethanaz | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.30 (77¢) | $50,166 | +$14,985 | ✅ Ganada |
