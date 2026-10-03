@@ -61702,7 +61702,7 @@
     "side": "BUY",
     "usd": 53801.19,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791034274,
     "fills": 2
   },
@@ -62004,6 +62004,36 @@
     "odds_at_bet": 66,
     "status": "pending",
     "ultimo_fill": 1791042999,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8428,
+    "timestamp": 1791043102,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "cfb-wvir-iowast-2026-10-03",
+    "title": "West Virginia vs. Iowa State",
+    "outcome": "Iowa State",
+    "side": "BUY",
+    "usd": 78458.27590000001,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1791043102,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8430,
+    "timestamp": 1791043126,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-ala-mspst-2026-10-03",
+    "title": "Alabama vs. Mississippi State",
+    "outcome": "Alabama",
+    "side": "BUY",
+    "usd": 72303.5478,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1791043126,
     "fills": 1
   }
 ]
