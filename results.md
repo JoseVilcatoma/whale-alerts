@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 15:03:25 (hora de Perú)
+Actualizado: 2026-10-03 15:05:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4148**  ($223,592,713 en total)
+- Apuestas registradas: **4149**  ($223,618,313 en total)
 - Resueltas: **4103** — 2498 ganadas / 1605 perdidas (**61%** de acierto)
-- Pendientes: 27
-- Apostadores distintos: 497
+- Pendientes: 28
+- Apostadores distintos: 498
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 497 en total)_
+_(mostrando los 40 de mayor monto, de 498 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| eschaworldchampion2026 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
 | ethanaz | Florida vs. Missouri | Florida | 1.45 (69¢) | $78,772 | — | ⏳ Pendiente |
 | mooseborzoii | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.52 (66¢) | $95,757 | — | ⏳ Pendiente |
 | 177-letsgo | Ohio State vs. Iowa | Ohio State | 1.06 (94¢) | $25,872 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 | lllllllIlll | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | BIG | 2.13 (47¢) | $40,060 | -$40,060 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Katerina Siniakova vs Elina Svitolina | Elina Svitolina | 1.35 (74¢) | $29,403 | +$10,331 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $47,214 | — | ⏳ Pendiente |
-| Eztennis | China Open: Andrey Rublev vs Roman Safiullin | Roman Safiullin | 2.22 (45¢) | $33,494 | -$33,494 | ❌ Perdida |
