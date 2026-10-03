@@ -62287,7 +62287,7 @@
     "side": "BUY",
     "usd": 25553.1855,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791056509,
     "fills": 1
   },
@@ -62302,7 +62302,7 @@
     "side": "BUY",
     "usd": 40606.0602,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791056820,
     "fills": 1
   },
@@ -62332,7 +62332,7 @@
     "side": "BUY",
     "usd": 95756.99100000001,
     "odds_at_bet": 66,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791056914,
     "fills": 2
   },
@@ -62512,7 +62512,7 @@
     "side": "BUY",
     "usd": 455800.0,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791062165,
     "fills": 3
   },
@@ -62724,6 +62724,21 @@
     "odds_at_bet": 49,
     "status": "pending",
     "ultimo_fill": 1791069483,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8515,
+    "timestamp": 1791069580,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-army-loutch-2026-10-03",
+    "title": "Army vs. Louisiana Tech",
+    "outcome": "Army",
+    "side": "BUY",
+    "usd": 55699.37,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1791069580,
     "fills": 1
   }
 ]
