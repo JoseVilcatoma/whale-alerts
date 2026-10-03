@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 06:00:22 (hora de Perú)
+Actualizado: 2026-10-03 06:02:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4099**  ($221,582,464 en total)
+- Apuestas registradas: **4100**  ($221,608,146 en total)
 - Resueltas: **4060** — 2471 ganadas / 1589 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 493
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sodoo | Counter-Strike: Vitality vs 1WIN (BO3) - ESL Pro League Group Stage | Vitality | 1.10 (91¢) | $25,682 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.85 (54¢) | $37,740 | — | ⏳ Pendiente |
 | 3648393489047 | LoL: LGD Gaming vs FlyQuest (BO1) - Demacia Cup Global Invitational Group Stage | LGD Gaming | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: LGD Gaming vs FlyQuest (BO1) - Demacia Cup Global Invitational Group Stage | FlyQuest | 3.12 (32¢) | $38,955 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 | 0x78be…bde0 | Jingshan: Alex Bolt vs Dane Sweeny | Dane Sweeny | 2.04 (49¢) | $27,605 | -$27,605 | ❌ Perdida |
 | Kev69 | Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas | Valentin Vacherot | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
 | mooseborzoii | Steelers vs. Browns | Browns | 1.64 (61¢) | $26,202 | +$16,752 | ✅ Ganada |
-| 01258787xy48487484545122 | China Open: Anastasia Potapova vs Sinja Kraus | Sinja Kraus | 1.16 (86¢) | $33,047 | +$5,380 | ✅ Ganada |
