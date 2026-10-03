@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 00:51:28 (hora de Perú)
+Actualizado: 2026-10-03 00:53:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4084**  ($221,058,352 en total)
+- Apuestas registradas: **4085**  ($221,088,352 en total)
 - Resueltas: **4056** — 2469 ganadas / 1587 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 492
 
 ### Balance
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 44 | 2 | 51% | $4,687,376 | -$253,910 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| BrotherObama | 30 | 31 | 4 | 49% | $2,978,314 | +$251,443 |
 | ferrariChampions2026 | 46 | 31 | 0 | 60% | $2,971,450 | -$558,276 |
-| BrotherObama | 30 | 31 | 3 | 49% | $2,948,314 | +$251,443 |
 | ethanaz | 36 | 14 | 0 | 72% | $2,929,752 | -$107,172 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 492 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: HANJIN BRION vs JD Gaming (BO1) - Demacia Cup Global Invitational Group Stage | HANJIN BRION | 1.82 (55¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $40,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.75 (57¢) | $33,140 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Alabama (-5.5) | Mississippi State | 2.04 (49¢) | $25,218 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 492 en total)_
 | ndb1 | Spread: Browns (-3.5) | Steelers | 1.39 (72¢) | $27,833 | +$10,824 | ✅ Ganada |
 | troonnnn | Steelers vs. Browns | Steelers | 1.67 (60¢) | $25,020 | -$25,020 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Steelers (-2.5) | Steelers | 1.85 (54¢) | $46,827 | -$46,827 | ❌ Perdida |
-| mooseborzoii | Spread: Steelers (-2.5) | Browns | 2.17 (46¢) | $126,924 | +$148,998 | ✅ Ganada |
