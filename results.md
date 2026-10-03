@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 18:27:15 (hora de Perú)
+Actualizado: 2026-10-03 18:29:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4174**  ($225,259,613 en total)
-- Resueltas: **4130** — 2520 ganadas / 1610 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **4131** — 2521 ganadas / 1610 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 500
 
 ### Balance
 
-- **Resultado de los apostadores: -$895,746** sobre $223,357,170 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,441** sobre $407,300 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$866,659** sobre $223,382,964 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,328** sobre $407,400 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | User1244322 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $72,647 | +$12,820 | ✅ Ganada |
 | Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 2.00 (50¢) | $25,280 | -$25,280 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Central Michigan (-6.5) | Central Michigan | 1.89 (53¢) | $25,959 | +$23,020 | ✅ Ganada |
-| Mastermoney | Florida vs. Missouri: O/U 59.5 | Over 59.5 | 2.13 (47¢) | $25,794 | — | ⏳ Pendiente |
+| Mastermoney | Florida vs. Missouri: O/U 59.5 | Over 59.5 | 2.13 (47¢) | $25,794 | +$29,087 | ✅ Ganada |
 | 177-letsgo | UCF vs. Houston | Houston | 1.14 (88¢) | $25,518 | +$3,480 | ✅ Ganada |
 | gmpm2 | Spread: Florida (-5.5) | Missouri | 2.04 (49¢) | $30,870 | — | ⏳ Pendiente |
 | gmpm2 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $71,495 | +$12,617 | ✅ Ganada |
