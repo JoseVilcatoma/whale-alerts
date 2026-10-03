@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 08:19:08 (hora de Perú)
+Actualizado: 2026-10-03 08:21:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4104**  ($221,726,320 en total)
-- Resueltas: **4074** — 2480 ganadas / 1594 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **4076** — 2481 ganadas / 1595 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 493
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,294,497** sobre $220,600,291 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,821** sobre $401,700 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,307,954** sobre $220,670,352 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,832** sobre $401,900 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,8 +82,8 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 | jaytee158 | China Open: Daniil Medvedev vs Jan-Lennard Struff | Daniil Medvedev | 1.16 (86¢) | $29,003 | +$4,721 | ✅ Ganada |
 | 0x4fdc…ca1f | China Open: Kamilla Rakhimova vs Leylah Fernandez | Leylah Fernandez | 1.69 (59¢) | $30,000 | -$30,000 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.82 (55¢) | $40,344 | +$33,009 | ✅ Ganada |
-| fantasy7788 | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | Astralis | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | BIG | 2.13 (47¢) | $40,060 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | Astralis | 1.89 (53¢) | $30,000 | +$26,604 | ✅ Ganada |
+| lllllllIlll | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | BIG | 2.13 (47¢) | $40,060 | -$40,060 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Katerina Siniakova vs Elina Svitolina | Elina Svitolina | 1.35 (74¢) | $29,403 | +$10,331 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $47,214 | — | ⏳ Pendiente |
 | Eztennis | China Open: Andrey Rublev vs Roman Safiullin | Roman Safiullin | 2.22 (45¢) | $33,494 | -$33,494 | ❌ Perdida |
