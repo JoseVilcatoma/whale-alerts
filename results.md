@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 21:47:13 (hora de Perú)
+Actualizado: 2026-10-02 21:49:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4075**  ($220,678,464 en total)
-- Resueltas: **4041** — 2456 ganadas / 1585 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **4042** — 2457 ganadas / 1585 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 491
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,792,735** sobre $219,102,201 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,517** sobre $398,400 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$1,787,641** sobre $219,148,053 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,505** sobre $398,500 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 491 en total)_
 | FORTNITEMASTER888 | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $154,531 | — | ⏳ Pendiente |
 | ethanaz | Penn State vs. Northwestern | Northwestern | 1.45 (69¢) | $57,456 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.50 (40¢) | $45,000 | — | ⏳ Pendiente |
-| 3648393489047 | Liberty vs. Delaware | Liberty | 1.11 (90¢) | $45,852 | — | ⏳ Pendiente |
+| 3648393489047 | Liberty vs. Delaware | Liberty | 1.11 (90¢) | $45,852 | +$5,095 | ✅ Ganada |
 | curie | Pittsburgh vs. Virginia Tech | Virginia Tech | 1.25 (80¢) | $30,971 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.17 (46¢) | $77,436 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Virginia Tech (-1.5) | Pittsburgh | 1.96 (51¢) | $92,579 | — | ⏳ Pendiente |
