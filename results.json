@@ -61525,5 +61525,35 @@
     "status": "pending",
     "ultimo_fill": 1791015956,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8371,
+    "timestamp": 1791016081,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-lgc-prv-2026-10-03",
+    "title": "Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 40343.946500000005,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1791016081,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8372,
+    "timestamp": 1791016100,
+    "username": "0x4fdc\u2026ca1f",
+    "wallet": "0x4fdcf76bb5ae86a6c7ebc3779f078791a279ca1f",
+    "slug": "wta-rakhimo-fernand-2026-10-01",
+    "title": "China Open: Kamilla Rakhimova vs Leylah Fernandez",
+    "outcome": "Leylah Fernandez",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1791016100,
+    "fills": 1
   }
 ]

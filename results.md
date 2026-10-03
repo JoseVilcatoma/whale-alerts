@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 03:26:44 (hora de Perú)
+Actualizado: 2026-10-03 03:28:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4093**  ($221,378,823 en total)
+- Apuestas registradas: **4095**  ($221,449,167 en total)
 - Resueltas: **4058** — 2470 ganadas / 1588 perdidas (**61%** de acierto)
-- Pendientes: 17
-- Apostadores distintos: 492
+- Pendientes: 19
+- Apostadores distintos: 493
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 492 en total)_
+_(mostrando los 40 de mayor monto, de 493 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x4fdc…ca1f | China Open: Kamilla Rakhimova vs Leylah Fernandez | Leylah Fernandez | 1.69 (59¢) | $30,000 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.82 (55¢) | $40,344 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | Astralis | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | BIG | 2.13 (47¢) | $40,060 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Katerina Siniakova vs Elina Svitolina | Elina Svitolina | 1.35 (74¢) | $29,403 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 492 en total)_
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $50,328 | +$3,212 | ✅ Ganada |
 | ethanaz | Steelers vs. Browns | Browns | 1.43 (70¢) | $71,152 | +$30,494 | ✅ Ganada |
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $42,190 | +$2,693 | ✅ Ganada |
-| FlamePyro | Steelers vs. Browns | Browns | 1.52 (66¢) | $42,900 | +$22,100 | ✅ Ganada |
-| sulumos | Steelers vs. Browns | Browns | 1.52 (66¢) | $40,920 | +$21,080 | ✅ Ganada |
