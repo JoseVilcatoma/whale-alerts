@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 14:46:44 (hora de Perú)
+Actualizado: 2026-10-03 14:48:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4144**  ($223,351,707 en total)
+- Apuestas registradas: **4147**  ($223,513,941 en total)
 - Resueltas: **4089** — 2489 ganadas / 1600 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 40
 - Apostadores distintos: 497
 
 ### Balance
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.52 (66¢) | $95,757 | — | ⏳ Pendiente |
+| 177-letsgo | Ohio State vs. Iowa | Ohio State | 1.06 (94¢) | $25,872 | — | ⏳ Pendiente |
+| Donkey14 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $40,606 | — | ⏳ Pendiente |
 | SDTrading | Atlanta Braves vs. Los Angeles Dodgers: O/U 7.5 | Over 7.5 | 1.75 (57¢) | $25,553 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Ohio State vs. Iowa | Ohio State | 1.16 (86¢) | $25,800 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 1.96 (51¢) | $41,858 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 | 0x361b…74fe | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $47,214 | — | ⏳ Pendiente |
 | Eztennis | China Open: Andrey Rublev vs Roman Safiullin | Roman Safiullin | 2.22 (45¢) | $33,494 | -$33,494 | ❌ Perdida |
 | FORTNITEMASTER888 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | Legacy | 2.27 (44¢) | $26,727 | -$26,727 | ❌ Perdida |
-| lllllllIlll | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
-| FORTNITEMASTER888 | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $49,372 | +$43,783 | ✅ Ganada |
-| BrotherObama | LoL: HANJIN BRION vs JD Gaming (BO1) - Demacia Cup Global Invitational Group Stage | HANJIN BRION | 1.82 (55¢) | $30,000 | +$24,545 | ✅ Ganada |

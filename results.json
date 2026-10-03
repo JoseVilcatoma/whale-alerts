@@ -62290,5 +62290,50 @@
     "status": "pending",
     "ultimo_fill": 1791056509,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8456,
+    "timestamp": 1791056820,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "mlb-atl-lad-2026-10-03",
+    "title": "Atlanta Braves vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 40606.0602,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1791056820,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8457,
+    "timestamp": 1791056838,
+    "username": "177-letsgo",
+    "wallet": "0x7a75a4183e577123db9ff0adff520561ef95d288",
+    "slug": "cfb-ohiost-iowa-2026-10-03",
+    "title": "Ohio State vs. Iowa",
+    "outcome": "Ohio State",
+    "side": "BUY",
+    "usd": 25871.62,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1791056838,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8458,
+    "timestamp": 1791056913,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "mlb-atl-lad-2026-10-03",
+    "title": "Atlanta Braves vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 95756.99100000001,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1791056914,
+    "fills": 2
   }
 ]
