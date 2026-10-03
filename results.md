@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 09:39:55 (hora de Perú)
+Actualizado: 2026-10-03 09:42:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4108**  ($221,862,960 en total)
+- Apuestas registradas: **4109**  ($221,889,966 en total)
 - Resueltas: **4078** — 2483 ganadas / 1595 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 494
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 156 | 3 | 66% | $28,950,699 | +$1,000,795 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 156 | 4 | 66% | $28,977,706 | +$1,000,795 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 494 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elena Rybakina vs Alina Charaeva | Alina Charaeva | 1.41 (71¢) | $27,006 | — | ⏳ Pendiente |
 | Talvez10 | Kings vs. Sharks | Kings | 2.04 (49¢) | $25,482 | — | ⏳ Pendiente |
 | Elenes | Senators vs. Maple Leafs | Maple Leafs | 1.89 (53¢) | $27,317 | — | ⏳ Pendiente |
 | mooseborzoii | Senators vs. Maple Leafs | Senators | 2.13 (47¢) | $30,040 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 494 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.86 (35¢) | $32,510 | -$32,510 | ❌ Perdida |
 | FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $56,595 | +$22,009 | ✅ Ganada |
 | Antblack | Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi | Luciano Darderi | 1.69 (59¢) | $29,349 | -$29,349 | ❌ Perdida |
-| BrotherObama | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.70 (37¢) | $35,000 | -$35,000 | ❌ Perdida |
