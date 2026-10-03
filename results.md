@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 17:48:00 (hora de Perú)
+Actualizado: 2026-10-03 17:50:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4167**  ($224,875,493 en total)
-- Resueltas: **4104** — 2499 ganadas / 1605 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Resueltas: **4108** — 2503 ganadas / 1605 perdidas (**61%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 499
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,177,724** sobre $221,772,294 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$6,897** sobre $404,700 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,161,575** sobre $221,975,970 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,866** sobre $405,100 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 16 | 14 | 2 | 53% | $1,526,555 | +$263,789 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| 0x361b…74fe | 16 | 1 | 2 | 94% | $1,377,941 | +$650,568 |
+| 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | texaskid | 13 | 11 | 0 | 54% | $1,296,457 | -$3,953 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 499 en total)_
 | primm | Spread: Tennessee (-6.5) | Auburn | 1.92 (52¢) | $31,574 | — | ⏳ Pendiente |
 | primm | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $76,306 | — | ⏳ Pendiente |
 | justwins | Spread: Georgia State (-2.5) | Old Dominion | 2.00 (50¢) | $30,833 | — | ⏳ Pendiente |
-| ukowna | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $58,640 | — | ⏳ Pendiente |
+| ukowna | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $58,640 | +$4,414 | ✅ Ganada |
 | BrotherObama | Spread: Florida (-5.5) | Florida | 1.92 (52¢) | $36,068 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $33,717 | +$17,369 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $72,304 | +$37,247 | ✅ Ganada |
