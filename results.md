@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 03:20:28 (hora de Perú)
+Actualizado: 2026-10-03 03:22:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4091**  ($221,308,762 en total)
+- Apuestas registradas: **4092**  ($221,348,823 en total)
 - Resueltas: **4057** — 2470 ganadas / 1587 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 492
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 492 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | BIG | 2.13 (47¢) | $40,060 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Katerina Siniakova vs Elina Svitolina | Elina Svitolina | 1.35 (74¢) | $29,403 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $47,214 | — | ⏳ Pendiente |
 | Eztennis | China Open: Andrey Rublev vs Roman Safiullin | Roman Safiullin | 2.22 (45¢) | $33,494 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 492 en total)_
 | FlamePyro | Steelers vs. Browns | Browns | 1.52 (66¢) | $42,900 | +$22,100 | ✅ Ganada |
 | sulumos | Steelers vs. Browns | Browns | 1.52 (66¢) | $40,920 | +$21,080 | ✅ Ganada |
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.15 (87¢) | $36,157 | +$5,403 | ✅ Ganada |
-| FlamePyro | Steelers vs. Browns | Steelers | 1.39 (72¢) | $30,240 | -$30,240 | ❌ Perdida |
