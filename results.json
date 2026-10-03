@@ -62365,5 +62365,20 @@
     "status": "pending",
     "ultimo_fill": 1791057850,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8475,
+    "timestamp": 1791058641,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-templ-sfl-2026-10-03-spread-home-5pt5",
+    "title": "Spread: South Florida (-5.5)",
+    "outcome": "Temple",
+    "side": "BUY",
+    "usd": 29008.775999999998,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1791058641,
+    "fills": 1
   }
 ]
