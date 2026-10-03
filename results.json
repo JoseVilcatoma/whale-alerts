@@ -61870,5 +61870,20 @@
     "status": "pending",
     "ultimo_fill": 1791040648,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1791041539,
+    "username": "qiu3",
+    "wallet": "0x7f7351b5ba33a4be08b7111911b227cdd82414f1",
+    "slug": "dota2-lgd-gl-2026-10-03",
+    "title": "Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1791041539,
+    "fills": 1
   }
 ]
