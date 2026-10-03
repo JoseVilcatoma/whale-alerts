@@ -62680,5 +62680,20 @@
     "status": "pending",
     "ultimo_fill": 1791068172,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8503,
+    "timestamp": 1791068637,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "cfb-byu-tcu-2026-10-03",
+    "title": "BYU vs. TCU",
+    "outcome": "BYU",
+    "side": "BUY",
+    "usd": 28603.2288,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1791068637,
+    "fills": 1
   }
 ]
