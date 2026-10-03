@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 10:11:19 (hora de Perú)
+Actualizado: 2026-10-03 10:13:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4115**  ($222,095,118 en total)
-- Resueltas: **4079** — 2484 ganadas / 1595 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **4080** — 2484 ganadas / 1596 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 495
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,281,618** sobre $220,761,386 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,748** sobre $402,200 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,306,618** sobre $220,786,386 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,848** sobre $402,300 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| BrotherObama | 31 | 31 | 6 | 50% | $3,064,314 | +$286,915 |
+| BrotherObama | 31 | 32 | 5 | 49% | $3,064,314 | +$261,915 |
 | ferrariChampions2026 | 46 | 31 | 0 | 60% | $2,971,450 | -$558,276 |
 | ethanaz | 36 | 14 | 0 | 72% | $2,929,752 | -$107,172 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 495 en total)_
 | Elenes | Senators vs. Maple Leafs | Maple Leafs | 1.89 (53¢) | $27,317 | — | ⏳ Pendiente |
 | mooseborzoii | Senators vs. Maple Leafs | Senators | 2.13 (47¢) | $30,040 | — | ⏳ Pendiente |
 | askilika | Bari: Juan Martin vs Matthew William Donald | Juan Martin | 1.69 (59¢) | $53,801 | — | ⏳ Pendiente |
-| BrotherObama | Counter-Strike: fnatic vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs | Alliance | 2.22 (45¢) | $25,000 | — | ⏳ Pendiente |
+| BrotherObama | Counter-Strike: fnatic vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs | Alliance | 2.22 (45¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x361b…74fe | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $27,822 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Marie Bouzkova vs Kimberly Birrell | Marie Bouzkova | 1.43 (70¢) | $28,000 | +$12,000 | ✅ Ganada |
 | DaWinci | LoL: GAM Esports vs Team WE (BO1) - Demacia Cup Global Invitational Group Stage | Team WE | 1.32 (76¢) | $37,352 | +$11,795 | ✅ Ganada |
