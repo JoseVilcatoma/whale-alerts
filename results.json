@@ -62125,5 +62125,20 @@
     "status": "pending",
     "ultimo_fill": 1791052883,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8442,
+    "timestamp": 1791054011,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "cfb-ohiost-iowa-2026-10-03",
+    "title": "Ohio State vs. Iowa",
+    "outcome": "Ohio State",
+    "side": "BUY",
+    "usd": 71495.2,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1791054011,
+    "fills": 1
   }
 ]
