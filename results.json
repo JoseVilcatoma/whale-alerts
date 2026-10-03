@@ -62530,5 +62530,35 @@
     "status": "pending",
     "ultimo_fill": 1791063358,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8486,
+    "timestamp": 1791064220,
+    "username": "lalalalalalallalalalala",
+    "wallet": "0xe1787252abc9db4d5bfac51c253a68e0162ffe19",
+    "slug": "cfb-wash-usc-2026-10-03-spread-home-7pt5",
+    "title": "Spread: USC (-7.5)",
+    "outcome": "Washington",
+    "side": "BUY",
+    "usd": 42742.8384,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791064220,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8487,
+    "timestamp": 1791064261,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "cfb-fl-missr-2026-10-03",
+    "title": "Florida vs. Missouri",
+    "outcome": "Missouri",
+    "side": "BUY",
+    "usd": 46110.64169999999,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1791064261,
+    "fills": 1
   }
 ]
