@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 14:48:44 (hora de Perú)
+Actualizado: 2026-10-03 14:50:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4147**  ($223,513,941 en total)
-- Resueltas: **4089** — 2489 ganadas / 1600 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Resueltas: **4091** — 2491 ganadas / 1600 perdidas (**61%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 497
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,311,161** sobre $221,064,837 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,927** sobre $403,200 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,213,433** sobre $221,208,659 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,790** sobre $403,400 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,13 +92,13 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 | BrotherObama | Spread: Florida (-5.5) | Florida | 1.92 (52¢) | $36,068 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $33,717 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $72,304 | — | ⏳ Pendiente |
-| juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.67 (60¢) | $78,458 | — | ⏳ Pendiente |
+| juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.67 (60¢) | $78,458 | +$52,306 | ✅ Ganada |
 | Kch-Temp | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $42,100 | — | ⏳ Pendiente |
 | AGUGava | Croatia vs. England: O/U 3.5 | Under 3.5 | 1.54 (65¢) | $26,489 | — | ⏳ Pendiente |
 | Zzzz87 | Will Belarus win on 2026-10-03? | Yes | 1.09 (92¢) | $25,507 | — | ⏳ Pendiente |
 | 0x2f98…bd4c | Alabama vs. Mississippi State | Mississippi State | 2.94 (34¢) | $38,857 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Houston (-10.5) | Houston | 2.13 (47¢) | $54,060 | — | ⏳ Pendiente |
-| juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.69 (59¢) | $65,364 | — | ⏳ Pendiente |
+| juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.69 (59¢) | $65,364 | +$45,422 | ✅ Ganada |
 | mooseborzoii | Navy vs. Air Force | Navy | 2.33 (43¢) | $27,188 | -$27,188 | ❌ Perdida |
 | Gourmet1 | Canadiens vs. Penguins | Canadiens | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | qiu3 | Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier | LGD Gaming | 1.54 (65¢) | $25,000 | +$13,462 | ✅ Ganada |
