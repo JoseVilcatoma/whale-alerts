@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 18:06:23 (hora de Perú)
+Actualizado: 2026-10-03 18:08:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4171**  ($225,143,052 en total)
-- Resueltas: **4109** — 2504 ganadas / 1605 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Resueltas: **4110** — 2504 ganadas / 1606 perdidas (**61%** de acierto)
+- Pendientes: 43
 - Apostadores distintos: 500
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,138,555** sobre $222,001,928 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$6,777** sobre $405,200 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,169,389** sobre $222,032,762 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,877** sobre $405,300 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -111,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | gmpm2 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $71,495 | — | ⏳ Pendiente |
 | primm | Spread: Tennessee (-6.5) | Auburn | 1.92 (52¢) | $31,574 | — | ⏳ Pendiente |
 | primm | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $76,306 | — | ⏳ Pendiente |
-| justwins | Spread: Georgia State (-2.5) | Old Dominion | 2.00 (50¢) | $30,833 | — | ⏳ Pendiente |
+| justwins | Spread: Georgia State (-2.5) | Old Dominion | 2.00 (50¢) | $30,833 | -$30,833 | ❌ Perdida |
 | ukowna | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $58,640 | +$4,414 | ✅ Ganada |
 | BrotherObama | Spread: Florida (-5.5) | Florida | 1.92 (52¢) | $36,068 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $33,717 | +$17,369 | ✅ Ganada |
