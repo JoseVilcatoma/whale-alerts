@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 17:06:36 (hora de Perú)
+Actualizado: 2026-10-03 17:08:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4162**  ($224,595,985 en total)
+- Apuestas registradas: **4163**  ($224,631,727 en total)
 - Resueltas: **4103** — 2498 ganadas / 1605 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 499
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 499 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 177-letsgo | Auburn vs. Tennessee | Tennessee | 1.08 (93¢) | $35,741 | — | ⏳ Pendiente |
 | 3648393489047 | Florida vs. Missouri | Missouri | 1.20 (83¢) | $46,111 | — | ⏳ Pendiente |
 | lalalalalalallalalalala | Spread: USC (-7.5) | Washington | 1.89 (53¢) | $42,743 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 332: Johnny Walker vs. Mick Parkin (Heavyweight, Early Prelims) | Johnny Walker | 1.92 (52¢) | $58,864 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 499 en total)_
 | mooseborzoii | Senators vs. Maple Leafs | Senators | 2.13 (47¢) | $30,040 | — | ⏳ Pendiente |
 | askilika | Bari: Juan Martin vs Matthew William Donald | Juan Martin | 1.69 (59¢) | $53,801 | +$37,387 | ✅ Ganada |
 | BrotherObama | Counter-Strike: fnatic vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs | Alliance | 2.22 (45¢) | $25,000 | -$25,000 | ❌ Perdida |
-| 0x361b…74fe | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $27,822 | — | ⏳ Pendiente |
