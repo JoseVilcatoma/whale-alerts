@@ -61675,5 +61675,20 @@
     "status": "pending",
     "ultimo_fill": 1791028659,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8397,
+    "timestamp": 1791030087,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "cs2-fnc-all-2026-10-03",
+    "title": "Counter-Strike: fnatic vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs",
+    "outcome": "Alliance",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1791030087,
+    "fills": 1
   }
 ]
