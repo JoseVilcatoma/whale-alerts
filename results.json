@@ -61285,5 +61285,20 @@
     "status": "pending",
     "ultimo_fill": 1790998948,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8351,
+    "timestamp": 1791002677,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-lg6-nemi1-2026-10-03",
+    "title": "Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "usd": 29455.177499999998,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1791002677,
+    "fills": 1
   }
 ]
