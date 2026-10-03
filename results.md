@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 22:05:57 (hora de Perú)
+Actualizado: 2026-10-02 22:07:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4075**  ($220,678,464 en total)
-- Resueltas: **4042** — 2457 ganadas / 1585 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **4049** — 2463 ganadas / 1586 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 491
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,787,641** sobre $219,148,053 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,505** sobre $398,500 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$1,530,161** sobre $219,522,198 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,140** sobre $399,200 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 294 | 155 | 5 | 65% | $28,742,498 | +$863,059 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 295 | 155 | 4 | 66% | $28,742,498 | +$953,962 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 44 | 0 | 51% | $4,626,528 | -$253,910 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 44 | 31 | 2 | 59% | $2,971,450 | -$639,891 |
-| ethanaz | 34 | 14 | 2 | 71% | $2,929,752 | -$147,970 |
+| ferrariChampions2026 | 46 | 31 | 0 | 60% | $2,971,450 | -$558,276 |
+| ethanaz | 35 | 14 | 1 | 71% | $2,929,752 | -$132,986 |
 | BrotherObama | 30 | 30 | 3 | 50% | $2,908,314 | +$286,443 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 13 | 11 | 0 | 54% | $1,583,275 | -$297,658 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| Talvez10 | 15 | 14 | 1 | 52% | $1,465,819 | +$174,841 |
+| Talvez10 | 16 | 14 | 0 | 53% | $1,465,819 | +$263,789 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 16 | 1 | 0 | 94% | $1,302,905 | +$650,568 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
@@ -71,21 +71,21 @@ _(mostrando los 40 de mayor monto, de 491 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.47 (68¢) | $29,993 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.47 (68¢) | $29,993 | +$14,115 | ✅ Ganada |
 | FORTNITEMASTER888 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | Legacy | 2.33 (43¢) | $53,938 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $64,355 | — | ⏳ Pendiente |
 | CHZHSHCH | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries | 2.00 (50¢) | $25,541 | — | ⏳ Pendiente |
-| halanddd123 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.25 (80¢) | $48,000 | — | ⏳ Pendiente |
+| halanddd123 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.25 (80¢) | $48,000 | +$12,000 | ✅ Ganada |
 | BrotherObama | Spread: Golden Knights (-1.5) | Golden Knights | 2.17 (46¢) | $35,000 | — | ⏳ Pendiente |
-| ethanaz | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.30 (77¢) | $50,166 | — | ⏳ Pendiente |
+| ethanaz | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.30 (77¢) | $50,166 | +$14,985 | ✅ Ganada |
 | mooseborzoii | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $25,396 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $154,531 | — | ⏳ Pendiente |
 | ethanaz | Penn State vs. Northwestern | Northwestern | 1.45 (69¢) | $57,456 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.50 (40¢) | $45,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.50 (40¢) | $45,000 | +$67,500 | ✅ Ganada |
 | 3648393489047 | Liberty vs. Delaware | Liberty | 1.11 (90¢) | $45,852 | +$5,095 | ✅ Ganada |
-| curie | Pittsburgh vs. Virginia Tech | Virginia Tech | 1.25 (80¢) | $30,971 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.17 (46¢) | $77,436 | — | ⏳ Pendiente |
-| Talvez10 | Spread: Virginia Tech (-1.5) | Pittsburgh | 1.96 (51¢) | $92,579 | — | ⏳ Pendiente |
+| curie | Pittsburgh vs. Virginia Tech | Virginia Tech | 1.25 (80¢) | $30,971 | -$30,971 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.17 (46¢) | $77,436 | +$90,903 | ✅ Ganada |
+| Talvez10 | Spread: Virginia Tech (-1.5) | Pittsburgh | 1.96 (51¢) | $92,579 | +$88,948 | ✅ Ganada |
 | Eztennis | Rangers vs. Red Wings | Red Wings | 1.82 (55¢) | $70,000 | -$70,000 | ❌ Perdida |
 | Thorin1 | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $29,960 | +$41,373 | ✅ Ganada |
 | viboomchuu | Bruins vs. Jets | Bruins | 2.13 (47¢) | $29,824 | — | ⏳ Pendiente |
