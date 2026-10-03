@@ -62335,5 +62335,20 @@
     "status": "pending",
     "ultimo_fill": 1791056914,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 8461,
+    "timestamp": 1791057175,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "cfb-fl-missr-2026-10-03",
+    "title": "Florida vs. Missouri",
+    "outcome": "Florida",
+    "side": "BUY",
+    "usd": 78772.0526,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1791057175,
+    "fills": 1
   }
 ]
