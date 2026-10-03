@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 20:53:46 (hora de Perú)
+Actualizado: 2026-10-02 20:55:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4068**  ($220,371,471 en total)
+- Apuestas registradas: **4069**  ($220,421,638 en total)
 - Resueltas: **4041** — 2456 ganadas / 1585 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 490
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 46 | 44 | 0 | 51% | $4,626,528 | -$253,910 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 44 | 31 | 1 | 59% | $2,941,457 | -$639,891 |
-| ethanaz | 34 | 14 | 1 | 71% | $2,879,586 | -$147,970 |
+| ethanaz | 34 | 14 | 2 | 71% | $2,929,752 | -$147,970 |
 | BrotherObama | 30 | 30 | 2 | 50% | $2,873,314 | +$286,443 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.30 (77¢) | $50,166 | — | ⏳ Pendiente |
 | mooseborzoii | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $25,396 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $154,531 | — | ⏳ Pendiente |
 | ethanaz | Penn State vs. Northwestern | Northwestern | 1.45 (69¢) | $57,456 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 | qiu3 | Map Handicap: NS (-1.5) vs XLG Gaming (+1.5) | Nongshim RedForce | 1.69 (59¢) | $32,152 | +$22,343 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.18 (85¢) | $58,357 | +$10,298 | ✅ Ganada |
 | jaytee158 | Valorant: TYLOO vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 1.25 (80¢) | $34,400 | +$8,600 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Botic van de Zandschulp vs Francisco Cerundolo | Francisco Cerundolo | 1.20 (83¢) | $41,500 | +$8,500 | ✅ Ganada |
