@@ -61630,5 +61630,20 @@
     "status": "pending",
     "ultimo_fill": 1791025332,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8385,
+    "timestamp": 1791026961,
+    "username": "DaWinci",
+    "wallet": "0xd729f11adff3be01381ffe3b2215e02e90b009d7",
+    "slug": "lol-gam-we-2026-10-03",
+    "title": "LoL: GAM Esports vs Team WE (BO1) - Demacia Cup Global Invitational Group Stage",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 37352.176,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1791026961,
+    "fills": 1
   }
 ]

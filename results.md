@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 06:28:52 (hora de Perú)
+Actualizado: 2026-10-03 06:30:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4100**  ($221,608,146 en total)
+- Apuestas registradas: **4101**  ($221,645,498 en total)
 - Resueltas: **4064** — 2474 ganadas / 1590 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 493
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| DaWinci | LoL: GAM Esports vs Team WE (BO1) - Demacia Cup Global Invitational Group Stage | Team WE | 1.32 (76¢) | $37,352 | — | ⏳ Pendiente |
 | Sodoo | Counter-Strike: Vitality vs 1WIN (BO3) - ESL Pro League Group Stage | Vitality | 1.10 (91¢) | $25,682 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.85 (54¢) | $37,740 | — | ⏳ Pendiente |
 | 3648393489047 | LoL: LGD Gaming vs FlyQuest (BO1) - Demacia Cup Global Invitational Group Stage | LGD Gaming | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 | Kev69 | China Open: Taylah Preston vs Diane Parry | Diane Parry | 1.96 (51¢) | $40,471 | -$40,471 | ❌ Perdida |
 | 0x78be…bde0 | Jingshan: Alex Bolt vs Dane Sweeny | Dane Sweeny | 2.04 (49¢) | $27,605 | -$27,605 | ❌ Perdida |
 | Kev69 | Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas | Valentin Vacherot | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
-| mooseborzoii | Steelers vs. Browns | Browns | 1.64 (61¢) | $26,202 | +$16,752 | ✅ Ganada |
