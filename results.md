@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 14:40:31 (hora de Perú)
+Actualizado: 2026-10-03 14:42:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4143**  ($223,326,154 en total)
+- Apuestas registradas: **4144**  ($223,351,707 en total)
 - Resueltas: **4088** — 2489 ganadas / 1599 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 497
 
 ### Balance
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | maz26 | 13 | 11 | 2 | 54% | $1,685,640 | -$297,658 |
-| SDTrading | 26 | 29 | 0 | 47% | $1,644,472 | -$204,878 |
+| SDTrading | 26 | 29 | 1 | 47% | $1,670,025 | -$204,878 |
 | Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | Talvez10 | 16 | 14 | 1 | 53% | $1,491,300 | +$263,789 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Atlanta Braves vs. Los Angeles Dodgers: O/U 7.5 | Over 7.5 | 1.75 (57¢) | $25,553 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Ohio State vs. Iowa | Ohio State | 1.16 (86¢) | $25,800 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 1.96 (51¢) | $41,858 | — | ⏳ Pendiente |
 | BoggsFromShawshank | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 | lllllllIlll | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $49,372 | +$43,783 | ✅ Ganada |
 | BrotherObama | LoL: HANJIN BRION vs JD Gaming (BO1) - Demacia Cup Global Invitational Group Stage | HANJIN BRION | 1.82 (55¢) | $30,000 | +$24,545 | ✅ Ganada |
-| BrotherObama | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $40,000 | +$35,472 | ✅ Ganada |

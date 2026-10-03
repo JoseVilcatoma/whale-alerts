@@ -62275,5 +62275,20 @@
     "status": "pending",
     "ultimo_fill": 1791056053,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8454,
+    "timestamp": 1791056509,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-atl-lad-2026-10-03-total-7pt5",
+    "title": "Atlanta Braves vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25553.1855,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1791056509,
+    "fills": 1
   }
 ]
