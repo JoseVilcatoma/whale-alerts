@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 10:23:56 (hora de Perú)
+Actualizado: 2026-10-03 10:26:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4116**  ($222,201,967 en total)
-- Resueltas: **4080** — 2484 ganadas / 1596 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **4081** — 2485 ganadas / 1596 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 495
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,306,618** sobre $220,786,386 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,848** sobre $402,300 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,295,588** sobre $220,813,392 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,807** sobre $402,400 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 156 | 4 | 66% | $28,977,706 | +$1,000,795 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 301 | 156 | 3 | 66% | $28,977,706 | +$1,011,825 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 495 en total)_
 | fantasy7788 | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Luminosity | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
 | BrotherObama | LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs | LOUD | 2.38 (42¢) | $36,000 | — | ⏳ Pendiente |
 | BrotherObama | LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs | LOUD | 2.44 (41¢) | $25,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elena Rybakina vs Alina Charaeva | Alina Charaeva | 1.41 (71¢) | $27,006 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elena Rybakina vs Alina Charaeva | Alina Charaeva | 1.41 (71¢) | $27,006 | +$11,031 | ✅ Ganada |
 | Talvez10 | Kings vs. Sharks | Kings | 2.04 (49¢) | $25,482 | — | ⏳ Pendiente |
 | Elenes | Senators vs. Maple Leafs | Maple Leafs | 1.89 (53¢) | $27,317 | — | ⏳ Pendiente |
 | mooseborzoii | Senators vs. Maple Leafs | Senators | 2.13 (47¢) | $30,040 | — | ⏳ Pendiente |
