@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 14:30:16 (hora de Perú)
+Actualizado: 2026-10-03 14:32:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4139**  ($223,155,848 en total)
+- Apuestas registradas: **4141**  ($223,258,495 en total)
 - Resueltas: **4088** — 2489 ganadas / 1599 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 35
 - Apostadores distintos: 497
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BoggsFromShawshank | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
+| User1244322 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $72,647 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 2.00 (50¢) | $25,280 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Central Michigan (-6.5) | Central Michigan | 1.89 (53¢) | $25,959 | — | ⏳ Pendiente |
 | Mastermoney | Florida vs. Missouri: O/U 59.5 | Over 59.5 | 2.13 (47¢) | $25,794 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 | BrotherObama | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $40,000 | +$35,472 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.75 (57¢) | $33,140 | +$25,000 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Alabama (-5.5) | Mississippi State | 2.04 (49¢) | $25,218 | — | ⏳ Pendiente |
-| 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will Spain win on 2026-10-03? | Yes | 1.09 (92¢) | $70,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Xinran Sun vs Cristina Bucsa | Cristina Bucsa | 1.52 (66¢) | $50,686 | -$50,686 | ❌ Perdida |

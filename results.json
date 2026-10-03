@@ -62215,5 +62215,35 @@
     "status": "pending",
     "ultimo_fill": 1791055582,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8450,
+    "timestamp": 1791055846,
+    "username": "User1244322",
+    "wallet": "0xe558bb7b02ea489d772bd34f14cc845e391fdcd2",
+    "slug": "cfb-ohiost-iowa-2026-10-03",
+    "title": "Ohio State vs. Iowa",
+    "outcome": "Ohio State",
+    "side": "BUY",
+    "usd": 72647.19649999999,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1791055846,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8451,
+    "timestamp": 1791055899,
+    "username": "BoggsFromShawshank",
+    "wallet": "0xc660ae71765d0d9eaf5fa8328c1c959841d2bd28",
+    "slug": "cfb-ohiost-iowa-2026-10-03-spread-away-14pt5",
+    "title": "Spread: Ohio State (-14.5)",
+    "outcome": "Ohio State",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1791055899,
+    "fills": 1
   }
 ]
