@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 18:31:25 (hora de Perú)
+Actualizado: 2026-10-03 18:33:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4174**  ($225,259,613 en total)
-- Resueltas: **4131** — 2521 ganadas / 1610 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **4133** — 2522 ganadas / 1611 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 500
 
 ### Balance
 
-- **Resultado de los apostadores: -$866,659** sobre $223,382,964 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,328** sobre $407,400 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$870,597** sobre $223,449,902 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,324** sobre $407,600 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| BrotherObama | 32 | 34 | 4 | 48% | $3,206,447 | +$225,460 |
+| BrotherObama | 32 | 35 | 3 | 48% | $3,206,447 | +$189,392 |
 | ethanaz | 38 | 15 | 1 | 72% | $3,172,046 | -$79,265 |
 | ferrariChampions2026 | 46 | 31 | 2 | 60% | $3,032,312 | -$558,276 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| maz26 | 14 | 11 | 1 | 56% | $1,685,640 | -$285,041 |
+| maz26 | 15 | 11 | 0 | 58% | $1,685,640 | -$252,911 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
@@ -110,13 +110,13 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Central Michigan (-6.5) | Central Michigan | 1.89 (53¢) | $25,959 | +$23,020 | ✅ Ganada |
 | Mastermoney | Florida vs. Missouri: O/U 59.5 | Over 59.5 | 2.13 (47¢) | $25,794 | +$29,087 | ✅ Ganada |
 | 177-letsgo | UCF vs. Houston | Houston | 1.14 (88¢) | $25,518 | +$3,480 | ✅ Ganada |
-| gmpm2 | Spread: Florida (-5.5) | Missouri | 2.04 (49¢) | $30,870 | — | ⏳ Pendiente |
+| gmpm2 | Spread: Florida (-5.5) | Missouri | 2.04 (49¢) | $30,870 | +$32,130 | ✅ Ganada |
 | gmpm2 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $71,495 | +$12,617 | ✅ Ganada |
 | primm | Spread: Tennessee (-6.5) | Auburn | 1.92 (52¢) | $31,574 | -$31,574 | ❌ Perdida |
 | primm | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $76,306 | +$76,306 | ✅ Ganada |
 | justwins | Spread: Georgia State (-2.5) | Old Dominion | 2.00 (50¢) | $30,833 | -$30,833 | ❌ Perdida |
 | ukowna | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $58,640 | +$4,414 | ✅ Ganada |
-| BrotherObama | Spread: Florida (-5.5) | Florida | 1.92 (52¢) | $36,068 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Florida (-5.5) | Florida | 1.92 (52¢) | $36,068 | -$36,068 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $33,717 | +$17,369 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $72,304 | +$37,247 | ✅ Ganada |
 | juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.67 (60¢) | $78,458 | +$52,306 | ✅ Ganada |
