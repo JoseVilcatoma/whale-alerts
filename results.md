@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 07:27:19 (hora de Perú)
+Actualizado: 2026-10-03 07:29:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4104**  ($221,726,320 en total)
-- Resueltas: **4073** — 2480 ganadas / 1593 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **4074** — 2480 ganadas / 1594 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 493
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,243,811** sobre $220,549,606 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,721** sobre $401,600 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,294,497** sobre $220,600,291 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,821** sobre $401,700 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 299 | 155 | 5 | 66% | $28,950,699 | +$1,039,480 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 299 | 156 | 4 | 66% | $28,950,699 | +$988,795 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 | Diabolical-Prize | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.75 (57¢) | $33,140 | +$25,000 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Alabama (-5.5) | Mississippi State | 2.04 (49¢) | $25,218 | — | ⏳ Pendiente |
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will Spain win on 2026-10-03? | Yes | 1.09 (92¢) | $70,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Xinran Sun vs Cristina Bucsa | Cristina Bucsa | 1.52 (66¢) | $50,686 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Xinran Sun vs Cristina Bucsa | Cristina Bucsa | 1.52 (66¢) | $50,686 | -$50,686 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Katie Volynets vs Elise Mertens | Elise Mertens | 1.56 (64¢) | $62,372 | +$35,085 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Nemiga | 1.75 (57¢) | $29,455 | — | ⏳ Pendiente |
 | Eztennis | Japan Open Tennis Championships: Denis Shapovalov vs Alejandro Tabilo | Denis Shapovalov | 2.00 (50¢) | $41,308 | +$41,308 | ✅ Ganada |
