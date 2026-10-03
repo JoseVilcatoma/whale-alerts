@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 14:42:32 (hora de Perú)
+Actualizado: 2026-10-03 14:44:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4144**  ($223,351,707 en total)
-- Resueltas: **4088** — 2489 ganadas / 1599 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **4089** — 2489 ganadas / 1600 perdidas (**61%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 497
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,283,973** sobre $221,037,649 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,827** sobre $403,100 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,311,161** sobre $221,064,837 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,927** sobre $403,200 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 | 0x2f98…bd4c | Alabama vs. Mississippi State | Mississippi State | 2.94 (34¢) | $38,857 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Houston (-10.5) | Houston | 2.13 (47¢) | $54,060 | — | ⏳ Pendiente |
 | juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.69 (59¢) | $65,364 | — | ⏳ Pendiente |
-| mooseborzoii | Navy vs. Air Force | Navy | 2.33 (43¢) | $27,188 | — | ⏳ Pendiente |
+| mooseborzoii | Navy vs. Air Force | Navy | 2.33 (43¢) | $27,188 | -$27,188 | ❌ Perdida |
 | Gourmet1 | Canadiens vs. Penguins | Canadiens | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | qiu3 | Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier | LGD Gaming | 1.54 (65¢) | $25,000 | +$13,462 | ✅ Ganada |
 | Sassy-Bucket | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $106,849 | — | ⏳ Pendiente |
