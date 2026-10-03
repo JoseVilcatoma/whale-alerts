@@ -61297,7 +61297,7 @@
     "side": "BUY",
     "usd": 29455.177499999998,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791002677,
     "fills": 1
   },
@@ -61807,7 +61807,7 @@
     "side": "BUY",
     "usd": 25000.0,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791039227,
     "fills": 1
   },
@@ -61882,7 +61882,7 @@
     "side": "BUY",
     "usd": 25000.0,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791041539,
     "fills": 1
   },
@@ -62049,6 +62049,21 @@
     "odds_at_bet": 66,
     "status": "pending",
     "ultimo_fill": 1791043311,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8437,
+    "timestamp": 1791052190,
+    "username": "justwins",
+    "wallet": "0xa2cced8bfae7d645f7f437fb76becf2fcbb70cbc",
+    "slug": "cfb-old-gast-2026-10-03-spread-home-2pt5",
+    "title": "Spread: Georgia State (-2.5)",
+    "outcome": "Old Dominion",
+    "side": "BUY",
+    "usd": 30833.495,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1791052190,
     "fills": 1
   }
 ]

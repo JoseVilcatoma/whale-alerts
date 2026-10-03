@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 11:03:23 (hora de Perú)
+Actualizado: 2026-10-03 13:30:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4128**  ($222,717,511 en total)
-- Resueltas: **4083** — 2487 ganadas / 1596 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Apuestas registradas: **4129**  ($222,748,345 en total)
+- Resueltas: **4086** — 2489 ganadas / 1597 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 496
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,233,655** sobre $220,897,194 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,656** sobre $402,600 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,222,973** sobre $220,976,649 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,627** sobre $402,900 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 496 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | Spread: Georgia State (-2.5) | Old Dominion | 2.00 (50¢) | $30,833 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $33,717 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $72,304 | — | ⏳ Pendiente |
 | juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.67 (60¢) | $78,458 | — | ⏳ Pendiente |
@@ -82,12 +83,12 @@ _(mostrando los 40 de mayor monto, de 496 en total)_
 | juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.69 (59¢) | $65,364 | — | ⏳ Pendiente |
 | mooseborzoii | Navy vs. Air Force | Navy | 2.33 (43¢) | $27,188 | — | ⏳ Pendiente |
 | Gourmet1 | Canadiens vs. Penguins | Canadiens | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
-| qiu3 | Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier | LGD Gaming | 1.54 (65¢) | $25,000 | — | ⏳ Pendiente |
+| qiu3 | Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier | LGD Gaming | 1.54 (65¢) | $25,000 | +$13,462 | ✅ Ganada |
 | Sassy-Bucket | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $106,849 | — | ⏳ Pendiente |
 | sport-intelligence | Croatia vs. England: O/U 2.5 | Over 2.5 | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
 | Pwaddler | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
 | nigiri99 | Croatia vs. England: O/U 2.5 | Under 2.5 | 2.38 (42¢) | $29,152 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Luminosity | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Luminosity | 2.33 (43¢) | $25,000 | -$25,000 | ❌ Perdida |
 | BrotherObama | LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs | LOUD | 2.38 (42¢) | $36,000 | — | ⏳ Pendiente |
 | BrotherObama | LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs | LOUD | 2.44 (41¢) | $25,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elena Rybakina vs Alina Charaeva | Alina Charaeva | 1.41 (71¢) | $27,006 | +$11,031 | ✅ Ganada |
@@ -121,7 +122,7 @@ _(mostrando los 40 de mayor monto, de 496 en total)_
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will Spain win on 2026-10-03? | Yes | 1.09 (92¢) | $70,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Xinran Sun vs Cristina Bucsa | Cristina Bucsa | 1.52 (66¢) | $50,686 | -$50,686 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Katie Volynets vs Elise Mertens | Elise Mertens | 1.56 (64¢) | $62,372 | +$35,085 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Nemiga | 1.75 (57¢) | $29,455 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Nemiga | 1.75 (57¢) | $29,455 | +$22,221 | ✅ Ganada |
 | Eztennis | Japan Open Tennis Championships: Denis Shapovalov vs Alejandro Tabilo | Denis Shapovalov | 2.00 (50¢) | $41,308 | +$41,308 | ✅ Ganada |
 | Diabolical-Prize | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 2.13 (47¢) | $27,709 | -$27,709 | ❌ Perdida |
 | ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.47 (68¢) | $29,993 | +$14,115 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 496 en total)_
 | CHZHSHCH | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries | 2.00 (50¢) | $25,541 | +$25,541 | ✅ Ganada |
 | halanddd123 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.25 (80¢) | $48,000 | +$12,000 | ✅ Ganada |
 | BrotherObama | Spread: Golden Knights (-1.5) | Golden Knights | 2.17 (46¢) | $35,000 | -$35,000 | ❌ Perdida |
-| ethanaz | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.30 (77¢) | $50,166 | +$14,985 | ✅ Ganada |
