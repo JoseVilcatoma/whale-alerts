@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 15:25:58 (hora de Perú)
+Actualizado: 2026-10-03 15:28:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4150**  ($223,647,322 en total)
+- Apuestas registradas: **4152**  ($223,746,400 en total)
 - Resueltas: **4103** — 2498 ganadas / 1605 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 31
 - Apostadores distintos: 498
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 498 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Spread: South Florida (-5.5) | South Florida | 1.96 (51¢) | $30,941 | — | ⏳ Pendiente |
+| liquiditycrisis | Spread: South Florida (-5.5) | Temple | 2.04 (49¢) | $68,136 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: South Florida (-5.5) | Temple | 2.08 (48¢) | $29,009 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
 | ethanaz | Florida vs. Missouri | Florida | 1.45 (69¢) | $78,772 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 498 en total)_
 | 0x4fdc…ca1f | China Open: Kamilla Rakhimova vs Leylah Fernandez | Leylah Fernandez | 1.69 (59¢) | $30,000 | -$30,000 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.82 (55¢) | $40,344 | +$33,009 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | Astralis | 1.89 (53¢) | $30,000 | +$26,604 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | BIG | 2.13 (47¢) | $40,060 | -$40,060 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Katerina Siniakova vs Elina Svitolina | Elina Svitolina | 1.35 (74¢) | $29,403 | +$10,331 | ✅ Ganada |

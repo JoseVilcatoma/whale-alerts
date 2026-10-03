@@ -62380,5 +62380,35 @@
     "status": "pending",
     "ultimo_fill": 1791058641,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8476,
+    "timestamp": 1791059266,
+    "username": "liquiditycrisis",
+    "wallet": "0xa90429bc88a1d22eb40e4aac9aaf0bcefd29d20c",
+    "slug": "cfb-templ-sfl-2026-10-03-spread-home-5pt5",
+    "title": "Spread: South Florida (-5.5)",
+    "outcome": "Temple",
+    "side": "BUY",
+    "usd": 68136.3963,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791059266,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1791059280,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "cfb-templ-sfl-2026-10-03-spread-home-5pt5",
+    "title": "Spread: South Florida (-5.5)",
+    "outcome": "South Florida",
+    "side": "BUY",
+    "usd": 30941.2257,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791059280,
+    "fills": 1
   }
 ]
