@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 18:12:31 (hora de Perú)
+Actualizado: 2026-10-03 18:14:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4171**  ($225,143,052 en total)
-- Resueltas: **4110** — 2504 ganadas / 1606 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Resueltas: **4118** — 2510 ganadas / 1608 perdidas (**61%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 500
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,169,389** sobre $222,032,762 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$6,877** sobre $405,300 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,098,933** sobre $222,402,020 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,819** sobre $406,100 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| Sassy-Bucket | 55 | 47 | 5 | 54% | $5,789,995 | -$538,364 |
+| Sassy-Bucket | 55 | 49 | 3 | 53% | $5,789,995 | -$605,503 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| maz26 | 13 | 11 | 2 | 54% | $1,685,640 | -$297,658 |
+| maz26 | 14 | 11 | 1 | 56% | $1,685,640 | -$285,041 |
 | SDTrading | 26 | 29 | 1 | 47% | $1,670,025 | -$204,878 |
 | Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
@@ -96,21 +96,21 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | eschaworldchampion2026 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
 | ethanaz | Florida vs. Missouri | Florida | 1.45 (69¢) | $78,772 | — | ⏳ Pendiente |
 | mooseborzoii | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.52 (66¢) | $95,757 | — | ⏳ Pendiente |
-| 177-letsgo | Ohio State vs. Iowa | Ohio State | 1.06 (94¢) | $25,872 | — | ⏳ Pendiente |
+| 177-letsgo | Ohio State vs. Iowa | Ohio State | 1.06 (94¢) | $25,872 | +$1,651 | ✅ Ganada |
 | Donkey14 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $40,606 | — | ⏳ Pendiente |
 | SDTrading | Atlanta Braves vs. Los Angeles Dodgers: O/U 7.5 | Over 7.5 | 1.75 (57¢) | $25,553 | — | ⏳ Pendiente |
-| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Ohio State vs. Iowa | Ohio State | 1.16 (86¢) | $25,800 | — | ⏳ Pendiente |
-| Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 1.96 (51¢) | $41,858 | — | ⏳ Pendiente |
-| BoggsFromShawshank | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
-| User1244322 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $72,647 | — | ⏳ Pendiente |
-| Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 2.00 (50¢) | $25,280 | — | ⏳ Pendiente |
+| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Ohio State vs. Iowa | Ohio State | 1.16 (86¢) | $25,800 | +$4,200 | ✅ Ganada |
+| Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 1.96 (51¢) | $41,858 | -$41,858 | ❌ Perdida |
+| BoggsFromShawshank | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
+| User1244322 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $72,647 | +$12,820 | ✅ Ganada |
+| Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 2.00 (50¢) | $25,280 | -$25,280 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Central Michigan (-6.5) | Central Michigan | 1.89 (53¢) | $25,959 | +$23,020 | ✅ Ganada |
 | Mastermoney | Florida vs. Missouri: O/U 59.5 | Over 59.5 | 2.13 (47¢) | $25,794 | — | ⏳ Pendiente |
 | 177-letsgo | UCF vs. Houston | Houston | 1.14 (88¢) | $25,518 | +$3,480 | ✅ Ganada |
 | gmpm2 | Spread: Florida (-5.5) | Missouri | 2.04 (49¢) | $30,870 | — | ⏳ Pendiente |
-| gmpm2 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $71,495 | — | ⏳ Pendiente |
+| gmpm2 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $71,495 | +$12,617 | ✅ Ganada |
 | primm | Spread: Tennessee (-6.5) | Auburn | 1.92 (52¢) | $31,574 | — | ⏳ Pendiente |
-| primm | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $76,306 | — | ⏳ Pendiente |
+| primm | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $76,306 | +$76,306 | ✅ Ganada |
 | justwins | Spread: Georgia State (-2.5) | Old Dominion | 2.00 (50¢) | $30,833 | -$30,833 | ❌ Perdida |
 | ukowna | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $58,640 | +$4,414 | ✅ Ganada |
 | BrotherObama | Spread: Florida (-5.5) | Florida | 1.92 (52¢) | $36,068 | — | ⏳ Pendiente |
