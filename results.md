@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 18:25:08 (hora de Perú)
+Actualizado: 2026-10-03 18:27:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4174**  ($225,259,613 en total)
-- Resueltas: **4122** — 2514 ganadas / 1608 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **4130** — 2520 ganadas / 1610 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 500
 
 ### Balance
 
-- **Resultado de los apostadores: -$936,126** sobre $223,019,736 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,627** sobre $406,500 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$895,746** sobre $223,357,170 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,441** sobre $407,300 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | BrotherObama | 32 | 34 | 4 | 48% | $3,206,447 | +$225,460 |
-| ethanaz | 36 | 14 | 4 | 72% | $3,172,046 | -$107,172 |
+| ethanaz | 38 | 15 | 1 | 72% | $3,172,046 | -$79,265 |
 | ferrariChampions2026 | 46 | 31 | 2 | 60% | $3,032,312 | -$558,276 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -82,22 +82,22 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | Sassy-Bucket | Kraken vs. Oilers | Oilers | 1.54 (65¢) | $76,619 | — | ⏳ Pendiente |
 | BrotherObama | New York Yankees vs. Tampa Bay Rays | New York Yankees | 2.22 (45¢) | $106,065 | — | ⏳ Pendiente |
 | Talvez10 | Senators vs. Maple Leafs | Senators | 2.04 (49¢) | $35,255 | — | ⏳ Pendiente |
-| 177-letsgo | Auburn vs. Tennessee | Tennessee | 1.08 (93¢) | $35,741 | — | ⏳ Pendiente |
-| 3648393489047 | Florida vs. Missouri | Missouri | 1.20 (83¢) | $46,111 | — | ⏳ Pendiente |
+| 177-letsgo | Auburn vs. Tennessee | Tennessee | 1.08 (93¢) | $35,741 | +$2,690 | ✅ Ganada |
+| 3648393489047 | Florida vs. Missouri | Missouri | 1.20 (83¢) | $46,111 | +$9,444 | ✅ Ganada |
 | lalalalalalallalalalala | Spread: USC (-7.5) | Washington | 1.89 (53¢) | $42,743 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 332: Johnny Walker vs. Mick Parkin (Heavyweight, Early Prelims) | Johnny Walker | 1.92 (52¢) | $58,864 | +$54,336 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.16 (86¢) | $455,800 | +$74,200 | ✅ Ganada |
-| mooseborzoii | Florida vs. Missouri | Missouri | 1.49 (67¢) | $26,270 | — | ⏳ Pendiente |
-| mooseborzoii | Florida vs. Missouri | Missouri | 1.72 (58¢) | $26,202 | — | ⏳ Pendiente |
+| mooseborzoii | Florida vs. Missouri | Missouri | 1.49 (67¢) | $26,270 | +$12,939 | ✅ Ganada |
+| mooseborzoii | Florida vs. Missouri | Missouri | 1.72 (58¢) | $26,202 | +$18,974 | ✅ Ganada |
 | ethanaz | Kentucky vs. South Carolina | South Carolina | 1.10 (91¢) | $70,758 | — | ⏳ Pendiente |
-| ethanaz | Florida vs. Missouri | Missouri | 2.04 (49¢) | $57,195 | — | ⏳ Pendiente |
+| ethanaz | Florida vs. Missouri | Missouri | 2.04 (49¢) | $57,195 | +$59,530 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Ajeet Rai vs Grigoriy Lomakin | Ajeet Rai | 1.33 (75¢) | $30,074 | — | ⏳ Pendiente |
-| ethanaz | Florida vs. Missouri | Missouri | 2.33 (43¢) | $35,569 | — | ⏳ Pendiente |
+| ethanaz | Florida vs. Missouri | Missouri | 2.33 (43¢) | $35,569 | +$47,150 | ✅ Ganada |
 | mooseborzoii | Spread: South Florida (-5.5) | South Florida | 1.96 (51¢) | $30,941 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: South Florida (-5.5) | Temple | 2.04 (49¢) | $68,136 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: South Florida (-5.5) | Temple | 2.08 (48¢) | $29,009 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
-| ethanaz | Florida vs. Missouri | Florida | 1.45 (69¢) | $78,772 | — | ⏳ Pendiente |
+| ethanaz | Florida vs. Missouri | Florida | 1.45 (69¢) | $78,772 | -$78,772 | ❌ Perdida |
 | mooseborzoii | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.52 (66¢) | $95,757 | +$49,329 | ✅ Ganada |
 | 177-letsgo | Ohio State vs. Iowa | Ohio State | 1.06 (94¢) | $25,872 | +$1,651 | ✅ Ganada |
 | Donkey14 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $40,606 | +$20,000 | ✅ Ganada |
@@ -112,7 +112,7 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | 177-letsgo | UCF vs. Houston | Houston | 1.14 (88¢) | $25,518 | +$3,480 | ✅ Ganada |
 | gmpm2 | Spread: Florida (-5.5) | Missouri | 2.04 (49¢) | $30,870 | — | ⏳ Pendiente |
 | gmpm2 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $71,495 | +$12,617 | ✅ Ganada |
-| primm | Spread: Tennessee (-6.5) | Auburn | 1.92 (52¢) | $31,574 | — | ⏳ Pendiente |
+| primm | Spread: Tennessee (-6.5) | Auburn | 1.92 (52¢) | $31,574 | -$31,574 | ❌ Perdida |
 | primm | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $76,306 | +$76,306 | ✅ Ganada |
 | justwins | Spread: Georgia State (-2.5) | Old Dominion | 2.00 (50¢) | $30,833 | -$30,833 | ❌ Perdida |
 | ukowna | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $58,640 | +$4,414 | ✅ Ganada |
