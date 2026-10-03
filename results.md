@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 23:58:01 (hora de Perú)
+Actualizado: 2026-10-03 00:00:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4079**  ($220,839,309 en total)
-- Resueltas: **4055** — 2469 ganadas / 1586 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **4056** — 2469 ganadas / 1587 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 491
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,392,774** sobre $219,766,078 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,758** sobre $399,800 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,427,774** sobre $219,801,078 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,858** sobre $399,900 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 46 | 31 | 0 | 60% | $2,971,450 | -$558,276 |
 | ethanaz | 36 | 14 | 0 | 72% | $2,929,752 | -$107,172 |
-| BrotherObama | 30 | 30 | 3 | 50% | $2,908,314 | +$286,443 |
+| BrotherObama | 30 | 31 | 2 | 49% | $2,908,314 | +$251,443 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 491 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $64,355 | +$7,954 | ✅ Ganada |
 | CHZHSHCH | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries | 2.00 (50¢) | $25,541 | +$25,541 | ✅ Ganada |
 | halanddd123 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.25 (80¢) | $48,000 | +$12,000 | ✅ Ganada |
-| BrotherObama | Spread: Golden Knights (-1.5) | Golden Knights | 2.17 (46¢) | $35,000 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Golden Knights (-1.5) | Golden Knights | 2.17 (46¢) | $35,000 | -$35,000 | ❌ Perdida |
 | ethanaz | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.30 (77¢) | $50,166 | +$14,985 | ✅ Ganada |
 | mooseborzoii | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $25,396 | +$3,139 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $154,531 | — | ⏳ Pendiente |
