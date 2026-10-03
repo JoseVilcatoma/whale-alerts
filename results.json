@@ -61735,5 +61735,20 @@
     "status": "pending",
     "ultimo_fill": 1791034864,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8406,
+    "timestamp": 1791036677,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "nhl-lak-sj-2026-10-03",
+    "title": "Kings vs. Sharks",
+    "outcome": "Kings",
+    "side": "BUY",
+    "usd": 25481.699,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791036677,
+    "fills": 1
   }
 ]
