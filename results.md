@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 03:22:33 (hora de Perú)
+Actualizado: 2026-10-03 03:24:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4092**  ($221,348,823 en total)
-- Resueltas: **4057** — 2470 ganadas / 1587 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **4058** — 2470 ganadas / 1588 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 492
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,392,690** sobre $219,863,451 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,801** sobre $400,000 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,426,184** sobre $219,896,945 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,901** sobre $400,100 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 492 en total)_
 | lllllllIlll | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | BIG | 2.13 (47¢) | $40,060 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Katerina Siniakova vs Elina Svitolina | Elina Svitolina | 1.35 (74¢) | $29,403 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $47,214 | — | ⏳ Pendiente |
-| Eztennis | China Open: Andrey Rublev vs Roman Safiullin | Roman Safiullin | 2.22 (45¢) | $33,494 | — | ⏳ Pendiente |
+| Eztennis | China Open: Andrey Rublev vs Roman Safiullin | Roman Safiullin | 2.22 (45¢) | $33,494 | -$33,494 | ❌ Perdida |
 | FORTNITEMASTER888 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | Legacy | 2.27 (44¢) | $26,727 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $49,372 | — | ⏳ Pendiente |
