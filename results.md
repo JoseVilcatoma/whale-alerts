@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 10:05:00 (hora de Perú)
+Actualizado: 2026-10-03 10:07:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4114**  ($222,070,118 en total)
+- Apuestas registradas: **4115**  ($222,095,118 en total)
 - Resueltas: **4079** — 2484 ganadas / 1595 perdidas (**61%** de acierto)
-- Pendientes: 17
-- Apostadores distintos: 494
+- Pendientes: 18
+- Apostadores distintos: 495
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 494 en total)_
+_(mostrando los 40 de mayor monto, de 495 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sport-intelligence | Croatia vs. England: O/U 2.5 | Over 2.5 | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
 | Pwaddler | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
 | nigiri99 | Croatia vs. England: O/U 2.5 | Under 2.5 | 2.38 (42¢) | $29,152 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Luminosity | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 494 en total)_
 | viboomchuu | Bruins vs. Jets | Bruins | 2.13 (47¢) | $29,824 | +$33,632 | ✅ Ganada |
 | PAROLIBOYS | Will Belgium win on 2026-10-02? | No | 2.63 (38¢) | $27,167 | -$27,167 | ❌ Perdida |
 | FORTNITEMASTER888 | Map Handicap: T1 (-1.5) vs JD Gaming (+1.5) | T1 | 1.61 (62¢) | $32,834 | -$32,834 | ❌ Perdida |
-| FORTNITEMASTER888 | Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A | T1 | 1.18 (85¢) | $34,000 | +$6,000 | ✅ Ganada |

@@ -61827,7 +61827,7 @@
     "fills": 1
   },
   {
-    "telegram_msg_id": null,
+    "telegram_msg_id": 8413,
     "timestamp": 1791039900,
     "username": "Pwaddler",
     "wallet": "0x1d1ade627d0bb0205758580b20d808573e720df6",
@@ -61839,6 +61839,21 @@
     "odds_at_bet": 65,
     "status": "pending",
     "ultimo_fill": 1791039900,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8414,
+    "timestamp": 1791039994,
+    "username": "sport-intelligence",
+    "wallet": "0xc289082ddba5a95e95efa216adbed7cc8ab4ab37",
+    "slug": "unl-hrv-eng-2026-10-03-total-2pt5",
+    "title": "Croatia vs. England: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1791039994,
     "fills": 1
   }
 ]
