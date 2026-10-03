@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 10:00:49 (hora de Perú)
+Actualizado: 2026-10-03 10:02:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4112**  ($221,975,966 en total)
+- Apuestas registradas: **4113**  ($222,005,118 en total)
 - Resueltas: **4079** — 2484 ganadas / 1595 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 494
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 494 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nigiri99 | Croatia vs. England: O/U 2.5 | Under 2.5 | 2.38 (42¢) | $29,152 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Luminosity | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
 | BrotherObama | LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs | LOUD | 2.38 (42¢) | $36,000 | — | ⏳ Pendiente |
 | BrotherObama | LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs | LOUD | 2.44 (41¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 494 en total)_
 | FORTNITEMASTER888 | Map Handicap: T1 (-1.5) vs JD Gaming (+1.5) | T1 | 1.61 (62¢) | $32,834 | -$32,834 | ❌ Perdida |
 | FORTNITEMASTER888 | Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A | T1 | 1.18 (85¢) | $34,000 | +$6,000 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A | T1 | 1.15 (87¢) | $31,526 | +$4,711 | ✅ Ganada |
-| FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.39 (72¢) | $40,273 | +$15,662 | ✅ Ganada |
