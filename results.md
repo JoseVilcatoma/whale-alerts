@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 06:49:42 (hora de Perú)
+Actualizado: 2026-10-03 06:51:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4101**  ($221,645,498 en total)
+- Apuestas registradas: **4102**  ($221,673,498 en total)
 - Resueltas: **4064** — 2474 ganadas / 1590 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 493
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 298 | 155 | 5 | 66% | $28,922,699 | +$1,007,332 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 298 | 155 | 6 | 66% | $28,950,699 | +$1,007,332 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Marie Bouzkova vs Kimberly Birrell | Marie Bouzkova | 1.43 (70¢) | $28,000 | — | ⏳ Pendiente |
 | DaWinci | LoL: GAM Esports vs Team WE (BO1) - Demacia Cup Global Invitational Group Stage | Team WE | 1.32 (76¢) | $37,352 | — | ⏳ Pendiente |
 | Sodoo | Counter-Strike: Vitality vs 1WIN (BO3) - ESL Pro League Group Stage | Vitality | 1.10 (91¢) | $25,682 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.85 (54¢) | $37,740 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 | 0x78be…bde0 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 2.04 (49¢) | $30,000 | +$31,224 | ✅ Ganada |
 | Kev69 | China Open: Taylah Preston vs Diane Parry | Diane Parry | 1.96 (51¢) | $40,471 | -$40,471 | ❌ Perdida |
 | 0x78be…bde0 | Jingshan: Alex Bolt vs Dane Sweeny | Dane Sweeny | 2.04 (49¢) | $27,605 | -$27,605 | ❌ Perdida |
-| Kev69 | Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas | Valentin Vacherot | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
