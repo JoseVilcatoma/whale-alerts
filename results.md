@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 14:54:59 (hora de Perú)
+Actualizado: 2026-10-03 14:57:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4148**  ($223,592,713 en total)
-- Resueltas: **4092** — 2492 ganadas / 1600 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **4102** — 2497 ganadas / 1605 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 497
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,211,215** sobre $221,234,166 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$6,782** sobre $403,500 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,235,540** sobre $221,687,911 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$7,003** sobre $404,500 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,14 +24,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 301 | 156 | 5 | 66% | $29,083,726 | +$1,011,825 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 303 | 156 | 3 | 66% | $29,083,726 | +$1,066,442 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Sassy-Bucket | 53 | 47 | 3 | 53% | $5,444,393 | -$647,744 |
+| Sassy-Bucket | 54 | 47 | 2 | 53% | $5,444,393 | -$592,700 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
 | Lakersfan111 | 27 | 18 | 0 | 60% | $2,002,963 | +$75,517 |
-| Kch-Temp | 25 | 8 | 1 | 76% | $1,923,965 | +$1,079,614 |
+| Kch-Temp | 26 | 8 | 0 | 76% | $1,923,965 | +$1,101,302 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -91,22 +91,22 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 | justwins | Spread: Georgia State (-2.5) | Old Dominion | 2.00 (50¢) | $30,833 | — | ⏳ Pendiente |
 | ukowna | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $58,640 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Florida (-5.5) | Florida | 1.92 (52¢) | $36,068 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $33,717 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $72,304 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $33,717 | +$17,369 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $72,304 | +$37,247 | ✅ Ganada |
 | juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.67 (60¢) | $78,458 | +$52,306 | ✅ Ganada |
-| Kch-Temp | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $42,100 | — | ⏳ Pendiente |
-| AGUGava | Croatia vs. England: O/U 3.5 | Under 3.5 | 1.54 (65¢) | $26,489 | — | ⏳ Pendiente |
+| Kch-Temp | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $42,100 | +$21,688 | ✅ Ganada |
+| AGUGava | Croatia vs. England: O/U 3.5 | Under 3.5 | 1.54 (65¢) | $26,489 | -$26,489 | ❌ Perdida |
 | Zzzz87 | Will Belarus win on 2026-10-03? | Yes | 1.09 (92¢) | $25,507 | +$2,218 | ✅ Ganada |
-| 0x2f98…bd4c | Alabama vs. Mississippi State | Mississippi State | 2.94 (34¢) | $38,857 | — | ⏳ Pendiente |
-| mooseborzoii | Spread: Houston (-10.5) | Houston | 2.13 (47¢) | $54,060 | — | ⏳ Pendiente |
+| 0x2f98…bd4c | Alabama vs. Mississippi State | Mississippi State | 2.94 (34¢) | $38,857 | -$38,857 | ❌ Perdida |
+| mooseborzoii | Spread: Houston (-10.5) | Houston | 2.13 (47¢) | $54,060 | -$54,060 | ❌ Perdida |
 | juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.69 (59¢) | $65,364 | +$45,422 | ✅ Ganada |
 | mooseborzoii | Navy vs. Air Force | Navy | 2.33 (43¢) | $27,188 | -$27,188 | ❌ Perdida |
 | Gourmet1 | Canadiens vs. Penguins | Canadiens | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | qiu3 | Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier | LGD Gaming | 1.54 (65¢) | $25,000 | +$13,462 | ✅ Ganada |
-| Sassy-Bucket | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $106,849 | — | ⏳ Pendiente |
-| sport-intelligence | Croatia vs. England: O/U 2.5 | Over 2.5 | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $106,849 | +$55,043 | ✅ Ganada |
+| sport-intelligence | Croatia vs. England: O/U 2.5 | Over 2.5 | 1.72 (58¢) | $25,000 | +$18,103 | ✅ Ganada |
 | Pwaddler | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
-| nigiri99 | Croatia vs. England: O/U 2.5 | Under 2.5 | 2.38 (42¢) | $29,152 | — | ⏳ Pendiente |
+| nigiri99 | Croatia vs. England: O/U 2.5 | Under 2.5 | 2.38 (42¢) | $29,152 | -$29,152 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Luminosity | 2.33 (43¢) | $25,000 | -$25,000 | ❌ Perdida |
 | BrotherObama | LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs | LOUD | 2.38 (42¢) | $36,000 | -$36,000 | ❌ Perdida |
 | BrotherObama | LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs | LOUD | 2.44 (41¢) | $25,000 | -$25,000 | ❌ Perdida |
