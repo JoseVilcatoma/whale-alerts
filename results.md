@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 13:40:51 (hora de Perú)
+Actualizado: 2026-10-03 13:42:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4132**  ($222,919,358 en total)
+- Apuestas registradas: **4133**  ($222,950,932 en total)
 - Resueltas: **4086** — 2489 ganadas / 1597 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 496
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 496 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| primm | Spread: Tennessee (-6.5) | Auburn | 1.92 (52¢) | $31,574 | — | ⏳ Pendiente |
 | primm | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $76,306 | — | ⏳ Pendiente |
 | justwins | Spread: Georgia State (-2.5) | Old Dominion | 2.00 (50¢) | $30,833 | — | ⏳ Pendiente |
 | ukowna | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $58,640 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 496 en total)_
 | Diabolical-Prize | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 2.13 (47¢) | $27,709 | -$27,709 | ❌ Perdida |
 | ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.47 (68¢) | $29,993 | +$14,115 | ✅ Ganada |
 | FORTNITEMASTER888 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | Legacy | 2.33 (43¢) | $53,938 | -$53,938 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $64,355 | +$7,954 | ✅ Ganada |
