@@ -61345,5 +61345,20 @@
     "status": "pending",
     "ultimo_fill": 1791004406,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8357,
+    "timestamp": 1791004562,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "cfb-ala-mspst-2026-10-03-spread-away-5pt5",
+    "title": "Spread: Alabama (-5.5)",
+    "outcome": "Mississippi State",
+    "side": "BUY",
+    "usd": 25217.8647,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791004562,
+    "fills": 1
   }
 ]
