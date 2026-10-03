@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 14:17:57 (hora de Perú)
+Actualizado: 2026-10-03 14:19:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4138**  ($223,130,568 en total)
-- Resueltas: **4086** — 2489 ganadas / 1597 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **4088** — 2489 ganadas / 1599 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 497
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,222,973** sobre $220,976,649 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,627** sobre $402,900 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$1,283,973** sobre $221,037,649 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,827** sobre $403,100 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| BrotherObama | 32 | 32 | 5 | 50% | $3,100,382 | +$286,460 |
+| BrotherObama | 32 | 34 | 3 | 48% | $3,100,382 | +$225,460 |
 | ferrariChampions2026 | 46 | 31 | 0 | 60% | $2,971,450 | -$558,276 |
 | ethanaz | 36 | 14 | 0 | 72% | $2,929,752 | -$107,172 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -98,8 +98,8 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 | Pwaddler | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
 | nigiri99 | Croatia vs. England: O/U 2.5 | Under 2.5 | 2.38 (42¢) | $29,152 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Luminosity | 2.33 (43¢) | $25,000 | -$25,000 | ❌ Perdida |
-| BrotherObama | LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs | LOUD | 2.38 (42¢) | $36,000 | — | ⏳ Pendiente |
-| BrotherObama | LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs | LOUD | 2.44 (41¢) | $25,000 | — | ⏳ Pendiente |
+| BrotherObama | LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs | LOUD | 2.38 (42¢) | $36,000 | -$36,000 | ❌ Perdida |
+| BrotherObama | LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs | LOUD | 2.44 (41¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elena Rybakina vs Alina Charaeva | Alina Charaeva | 1.41 (71¢) | $27,006 | +$11,031 | ✅ Ganada |
 | Talvez10 | Kings vs. Sharks | Kings | 2.04 (49¢) | $25,482 | — | ⏳ Pendiente |
 | Elenes | Senators vs. Maple Leafs | Maple Leafs | 1.89 (53¢) | $27,317 | — | ⏳ Pendiente |
