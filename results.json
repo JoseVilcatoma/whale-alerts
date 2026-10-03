@@ -62605,5 +62605,20 @@
     "status": "pending",
     "ultimo_fill": 1791066587,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8492,
+    "timestamp": 1791066711,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nhl-sea-edm-2026-10-03",
+    "title": "Kraken vs. Oilers",
+    "outcome": "Oilers",
+    "side": "BUY",
+    "usd": 76618.7565,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1791066711,
+    "fills": 1
   }
 ]
