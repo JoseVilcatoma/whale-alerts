@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 22:56:39 (hora de Perú)
+Actualizado: 2026-10-02 22:58:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4077**  ($220,747,481 en total)
-- Resueltas: **4050** — 2464 ganadas / 1586 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **4053** — 2467 ganadas / 1586 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 491
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,496,530** sobre $219,552,023 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,027** sobre $399,300 (ROI **-1.8%**)
+- **Resultado de los apostadores: -$1,459,623** sobre $219,699,229 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,958** sobre $399,600 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 295 | 155 | 4 | 66% | $28,742,498 | +$953,962 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 296 | 155 | 3 | 66% | $28,742,498 | +$961,916 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 46 | 44 | 1 | 51% | $4,654,237 | -$253,910 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 46 | 31 | 0 | 60% | $2,971,450 | -$558,276 |
-| ethanaz | 35 | 14 | 1 | 71% | $2,929,752 | -$132,986 |
+| ethanaz | 36 | 14 | 0 | 72% | $2,929,752 | -$107,172 |
 | BrotherObama | 30 | 30 | 3 | 50% | $2,908,314 | +$286,443 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -75,14 +75,14 @@ _(mostrando los 40 de mayor monto, de 491 en total)_
 | Diabolical-Prize | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 2.13 (47¢) | $27,709 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.47 (68¢) | $29,993 | +$14,115 | ✅ Ganada |
 | FORTNITEMASTER888 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | Legacy | 2.33 (43¢) | $53,938 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $64,355 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $64,355 | +$7,954 | ✅ Ganada |
 | CHZHSHCH | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries | 2.00 (50¢) | $25,541 | — | ⏳ Pendiente |
 | halanddd123 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.25 (80¢) | $48,000 | +$12,000 | ✅ Ganada |
 | BrotherObama | Spread: Golden Knights (-1.5) | Golden Knights | 2.17 (46¢) | $35,000 | — | ⏳ Pendiente |
 | ethanaz | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.30 (77¢) | $50,166 | +$14,985 | ✅ Ganada |
-| mooseborzoii | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $25,396 | — | ⏳ Pendiente |
+| mooseborzoii | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $25,396 | +$3,139 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $154,531 | — | ⏳ Pendiente |
-| ethanaz | Penn State vs. Northwestern | Northwestern | 1.45 (69¢) | $57,456 | — | ⏳ Pendiente |
+| ethanaz | Penn State vs. Northwestern | Northwestern | 1.45 (69¢) | $57,456 | +$25,814 | ✅ Ganada |
 | ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.50 (40¢) | $45,000 | +$67,500 | ✅ Ganada |
 | 3648393489047 | Liberty vs. Delaware | Liberty | 1.11 (90¢) | $45,852 | +$5,095 | ✅ Ganada |
 | curie | Pittsburgh vs. Virginia Tech | Virginia Tech | 1.25 (80¢) | $30,971 | -$30,971 | ❌ Perdida |
