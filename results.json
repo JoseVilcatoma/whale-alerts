@@ -61915,5 +61915,35 @@
     "status": "pending",
     "ultimo_fill": 1791042013,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8422,
+    "timestamp": 1791042580,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "cfb-wvir-iowast-2026-10-03",
+    "title": "West Virginia vs. Iowa State",
+    "outcome": "Iowa State",
+    "side": "BUY",
+    "usd": 65363.7282,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1791042580,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8423,
+    "timestamp": 1791042635,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "cfb-ucf-hou-2026-10-03-spread-home-10pt5",
+    "title": "Spread: Houston (-10.5)",
+    "outcome": "Houston",
+    "side": "BUY",
+    "usd": 26039.997499999998,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1791042635,
+    "fills": 1
   }
 ]

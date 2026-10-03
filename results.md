@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 10:49:08 (hora de Perú)
+Actualizado: 2026-10-03 10:51:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4119**  ($222,280,655 en total)
+- Apuestas registradas: **4121**  ($222,372,059 en total)
 - Resueltas: **4082** — 2486 ganadas / 1596 perdidas (**61%** de acierto)
-- Pendientes: 19
-- Apostadores distintos: 495
+- Pendientes: 21
+- Apostadores distintos: 496
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 495 en total)_
+_(mostrando los 40 de mayor monto, de 496 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Spread: Houston (-10.5) | Houston | 2.13 (47¢) | $26,040 | — | ⏳ Pendiente |
+| juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.69 (59¢) | $65,364 | — | ⏳ Pendiente |
 | mooseborzoii | Navy vs. Air Force | Navy | 2.33 (43¢) | $27,188 | — | ⏳ Pendiente |
 | Gourmet1 | Canadiens vs. Penguins | Canadiens | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | qiu3 | Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier | LGD Gaming | 1.54 (65¢) | $25,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 495 en total)_
 | 3648393489047 | Liberty vs. Delaware | Liberty | 1.11 (90¢) | $45,852 | +$5,095 | ✅ Ganada |
 | curie | Pittsburgh vs. Virginia Tech | Virginia Tech | 1.25 (80¢) | $30,971 | -$30,971 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.17 (46¢) | $77,436 | +$90,903 | ✅ Ganada |
-| Talvez10 | Spread: Virginia Tech (-1.5) | Pittsburgh | 1.96 (51¢) | $92,579 | +$88,948 | ✅ Ganada |
-| Eztennis | Rangers vs. Red Wings | Red Wings | 1.82 (55¢) | $70,000 | -$70,000 | ❌ Perdida |
