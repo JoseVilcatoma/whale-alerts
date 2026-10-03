@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 23:55:57 (hora de Perú)
+Actualizado: 2026-10-02 23:58:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4079**  ($220,839,309 en total)
-- Resueltas: **4054** — 2468 ganadas / 1586 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **4055** — 2469 ganadas / 1586 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 491
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,434,083** sobre $219,724,770 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,858** sobre $399,700 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,392,774** sobre $219,766,078 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,758** sobre $399,800 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 491 en total)_
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Katie Volynets vs Elise Mertens | Elise Mertens | 1.56 (64¢) | $62,372 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Nemiga | 1.75 (57¢) | $29,455 | — | ⏳ Pendiente |
-| Eztennis | Japan Open Tennis Championships: Denis Shapovalov vs Alejandro Tabilo | Denis Shapovalov | 2.00 (50¢) | $41,308 | — | ⏳ Pendiente |
+| Eztennis | Japan Open Tennis Championships: Denis Shapovalov vs Alejandro Tabilo | Denis Shapovalov | 2.00 (50¢) | $41,308 | +$41,308 | ✅ Ganada |
 | Diabolical-Prize | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 2.13 (47¢) | $27,709 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.47 (68¢) | $29,993 | +$14,115 | ✅ Ganada |
 | FORTNITEMASTER888 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | Legacy | 2.33 (43¢) | $53,938 | — | ⏳ Pendiente |
