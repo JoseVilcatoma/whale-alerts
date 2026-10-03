@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 10:53:09 (hora de Perú)
+Actualizado: 2026-10-03 10:55:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4122**  ($222,438,936 en total)
+- Apuestas registradas: **4123**  ($222,464,443 en total)
 - Resueltas: **4082** — 2486 ganadas / 1596 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 496
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 496 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zzzz87 | Will Belarus win on 2026-10-03? | Yes | 1.09 (92¢) | $25,507 | — | ⏳ Pendiente |
 | 0x2f98…bd4c | Alabama vs. Mississippi State | Mississippi State | 2.94 (34¢) | $38,857 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Houston (-10.5) | Houston | 2.13 (47¢) | $54,060 | — | ⏳ Pendiente |
 | juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.69 (59¢) | $65,364 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 496 en total)_
 | ethanaz | Penn State vs. Northwestern | Northwestern | 1.45 (69¢) | $57,456 | +$25,814 | ✅ Ganada |
 | ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.50 (40¢) | $45,000 | +$67,500 | ✅ Ganada |
 | 3648393489047 | Liberty vs. Delaware | Liberty | 1.11 (90¢) | $45,852 | +$5,095 | ✅ Ganada |
-| curie | Pittsburgh vs. Virginia Tech | Virginia Tech | 1.25 (80¢) | $30,971 | -$30,971 | ❌ Perdida |
