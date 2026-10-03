@@ -62590,5 +62590,20 @@
     "status": "pending",
     "ultimo_fill": 1791065332,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8491,
+    "timestamp": 1791066587,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-nyy-tb-2026-10-03",
+    "title": "New York Yankees vs. Tampa Bay Rays",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 106065.11000025,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1791066587,
+    "fills": 1
   }
 ]
