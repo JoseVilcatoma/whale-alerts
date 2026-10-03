@@ -61585,5 +61585,20 @@
     "status": "pending",
     "ultimo_fill": 1791017175,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8375,
+    "timestamp": 1791017268,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "lol-lgd-fly-2026-10-03",
+    "title": "LoL: LGD Gaming vs FlyQuest (BO1) - Demacia Cup Global Invitational Group Stage",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 27599.999999999996,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1791017268,
+    "fills": 1
   }
 ]
