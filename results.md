@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 14:52:57 (hora de Perú)
+Actualizado: 2026-10-03 14:54:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4148**  ($223,592,713 en total)
-- Resueltas: **4091** — 2491 ganadas / 1600 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Resueltas: **4092** — 2492 ganadas / 1600 perdidas (**61%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 497
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,213,433** sobre $221,208,659 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$6,790** sobre $403,400 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,211,215** sobre $221,234,166 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,782** sobre $403,500 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 | juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.67 (60¢) | $78,458 | +$52,306 | ✅ Ganada |
 | Kch-Temp | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $42,100 | — | ⏳ Pendiente |
 | AGUGava | Croatia vs. England: O/U 3.5 | Under 3.5 | 1.54 (65¢) | $26,489 | — | ⏳ Pendiente |
-| Zzzz87 | Will Belarus win on 2026-10-03? | Yes | 1.09 (92¢) | $25,507 | — | ⏳ Pendiente |
+| Zzzz87 | Will Belarus win on 2026-10-03? | Yes | 1.09 (92¢) | $25,507 | +$2,218 | ✅ Ganada |
 | 0x2f98…bd4c | Alabama vs. Mississippi State | Mississippi State | 2.94 (34¢) | $38,857 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Houston (-10.5) | Houston | 2.13 (47¢) | $54,060 | — | ⏳ Pendiente |
 | juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.69 (59¢) | $65,364 | +$45,422 | ✅ Ganada |
