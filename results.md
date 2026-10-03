@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 00:49:24 (hora de Perú)
+Actualizado: 2026-10-03 00:51:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4082**  ($220,985,213 en total)
+- Apuestas registradas: **4084**  ($221,058,352 en total)
 - Resueltas: **4056** — 2469 ganadas / 1587 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 10
 - Apostadores distintos: 492
 
 ### Balance
@@ -33,11 +33,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Sassy-Bucket | 53 | 47 | 0 | 53% | $5,270,406 | -$647,744 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Diabolical-Prize | 46 | 44 | 1 | 51% | $4,654,237 | -$253,910 |
+| Diabolical-Prize | 46 | 44 | 2 | 51% | $4,687,376 | -$253,910 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 46 | 31 | 0 | 60% | $2,971,450 | -$558,276 |
+| BrotherObama | 30 | 31 | 3 | 49% | $2,948,314 | +$251,443 |
 | ethanaz | 36 | 14 | 0 | 72% | $2,929,752 | -$107,172 |
-| BrotherObama | 30 | 31 | 2 | 49% | $2,908,314 | +$251,443 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 492 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $40,000 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.75 (57¢) | $33,140 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Alabama (-5.5) | Mississippi State | 2.04 (49¢) | $25,218 | — | ⏳ Pendiente |
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will Spain win on 2026-10-03? | Yes | 1.09 (92¢) | $70,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Xinran Sun vs Cristina Bucsa | Cristina Bucsa | 1.52 (66¢) | $50,686 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 492 en total)_
 | troonnnn | Steelers vs. Browns | Steelers | 1.67 (60¢) | $25,020 | -$25,020 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Steelers (-2.5) | Steelers | 1.85 (54¢) | $46,827 | -$46,827 | ❌ Perdida |
 | mooseborzoii | Spread: Steelers (-2.5) | Browns | 2.17 (46¢) | $126,924 | +$148,998 | ✅ Ganada |
-| Gourmet1 | Wild vs. Predators | Predators | 2.38 (42¢) | $59,387 | -$59,387 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | North Texas vs. Tulsa | North Texas | 1.79 (56¢) | $63,535 | +$49,921 | ✅ Ganada |

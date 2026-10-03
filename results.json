@@ -61360,5 +61360,35 @@
     "status": "pending",
     "ultimo_fill": 1791004562,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8358,
+    "timestamp": 1791006641,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-lgc-prv-2026-10-03",
+    "title": "Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 33139.534884,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1791006641,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8359,
+    "timestamp": 1791006668,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "val-g21-tl1-2026-10-03",
+    "title": "Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 40000.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791006668,
+    "fills": 1
   }
 ]
