@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 03:54:05 (hora de Perú)
+Actualizado: 2026-10-03 03:56:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4098**  ($221,544,724 en total)
+- Apuestas registradas: **4099**  ($221,582,464 en total)
 - Resueltas: **4058** — 2470 ganadas / 1588 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 493
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 297 | 155 | 5 | 66% | $28,884,960 | +$997,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 297 | 155 | 6 | 66% | $28,922,699 | +$997,001 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.85 (54¢) | $37,740 | — | ⏳ Pendiente |
 | 3648393489047 | LoL: LGD Gaming vs FlyQuest (BO1) - Demacia Cup Global Invitational Group Stage | LGD Gaming | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: LGD Gaming vs FlyQuest (BO1) - Demacia Cup Global Invitational Group Stage | FlyQuest | 3.12 (32¢) | $38,955 | — | ⏳ Pendiente |
 | jaytee158 | China Open: Daniil Medvedev vs Jan-Lennard Struff | Daniil Medvedev | 1.16 (86¢) | $29,003 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 | Kev69 | Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas | Valentin Vacherot | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
 | mooseborzoii | Steelers vs. Browns | Browns | 1.64 (61¢) | $26,202 | +$16,752 | ✅ Ganada |
 | 01258787xy48487484545122 | China Open: Anastasia Potapova vs Sinja Kraus | Sinja Kraus | 1.16 (86¢) | $33,047 | +$5,380 | ✅ Ganada |
-| Gourmet1 | Panthers vs. Sharks | Panthers | 1.72 (58¢) | $53,963 | -$53,963 | ❌ Perdida |

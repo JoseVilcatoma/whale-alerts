@@ -61600,5 +61600,20 @@
     "status": "pending",
     "ultimo_fill": 1791017268,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8376,
+    "timestamp": 1791017740,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-lgc-prv-2026-10-03",
+    "title": "Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 37739.5524,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1791017740,
+    "fills": 1
   }
 ]
