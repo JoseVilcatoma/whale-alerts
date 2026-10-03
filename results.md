@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 08:45:59 (hora de Perú)
+Actualizado: 2026-10-03 08:48:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4107**  ($221,837,478 en total)
-- Resueltas: **4077** — 2482 ganadas / 1595 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **4078** — 2483 ganadas / 1595 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 494
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,305,414** sobre $220,696,034 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,823** sobre $402,000 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,293,414** sobre $220,724,034 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,780** sobre $402,100 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 299 | 156 | 4 | 66% | $28,950,699 | +$988,795 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 300 | 156 | 3 | 66% | $28,950,699 | +$1,000,795 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 494 en total)_
 | askilika | Bari: Juan Martin vs Matthew William Donald | Juan Martin | 1.69 (59¢) | $53,801 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: fnatic vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs | Alliance | 2.22 (45¢) | $25,000 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $27,822 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Marie Bouzkova vs Kimberly Birrell | Marie Bouzkova | 1.43 (70¢) | $28,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Marie Bouzkova vs Kimberly Birrell | Marie Bouzkova | 1.43 (70¢) | $28,000 | +$12,000 | ✅ Ganada |
 | DaWinci | LoL: GAM Esports vs Team WE (BO1) - Demacia Cup Global Invitational Group Stage | Team WE | 1.32 (76¢) | $37,352 | — | ⏳ Pendiente |
 | Sodoo | Counter-Strike: Vitality vs 1WIN (BO3) - ESL Pro League Group Stage | Vitality | 1.10 (91¢) | $25,682 | +$2,540 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.85 (54¢) | $37,740 | +$32,149 | ✅ Ganada |
