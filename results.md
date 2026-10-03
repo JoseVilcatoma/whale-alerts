@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 14:32:17 (hora de Perú)
+Actualizado: 2026-10-03 14:34:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4141**  ($223,258,495 en total)
+- Apuestas registradas: **4143**  ($223,326,154 en total)
 - Resueltas: **4088** — 2489 ganadas / 1599 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 37
 - Apostadores distintos: 497
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Sassy-Bucket | 53 | 47 | 2 | 53% | $5,402,535 | -$647,744 |
+| Sassy-Bucket | 53 | 47 | 3 | 53% | $5,444,393 | -$647,744 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Ohio State vs. Iowa | Ohio State | 1.16 (86¢) | $25,800 | — | ⏳ Pendiente |
+| Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 1.96 (51¢) | $41,858 | — | ⏳ Pendiente |
 | BoggsFromShawshank | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | User1244322 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $72,647 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 2.00 (50¢) | $25,280 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 | FORTNITEMASTER888 | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $49,372 | +$43,783 | ✅ Ganada |
 | BrotherObama | LoL: HANJIN BRION vs JD Gaming (BO1) - Demacia Cup Global Invitational Group Stage | HANJIN BRION | 1.82 (55¢) | $30,000 | +$24,545 | ✅ Ganada |
 | BrotherObama | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $40,000 | +$35,472 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.75 (57¢) | $33,140 | +$25,000 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Alabama (-5.5) | Mississippi State | 2.04 (49¢) | $25,218 | — | ⏳ Pendiente |
