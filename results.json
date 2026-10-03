@@ -61705,5 +61705,35 @@
     "status": "pending",
     "ultimo_fill": 1791034274,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 8403,
+    "timestamp": 1791034863,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nhl-ott-tor-2026-10-03",
+    "title": "Senators vs. Maple Leafs",
+    "outcome": "Senators",
+    "side": "BUY",
+    "usd": 30039.9983,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1791034863,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8404,
+    "timestamp": 1791034864,
+    "username": "Elenes",
+    "wallet": "0x29b15e8557b2cb5b5ba1ec8b5cbba479ee26f737",
+    "slug": "nhl-ott-tor-2026-10-03",
+    "title": "Senators vs. Maple Leafs",
+    "outcome": "Maple Leafs",
+    "side": "BUY",
+    "usd": 27316.73,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791034864,
+    "fills": 1
   }
 ]

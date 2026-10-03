@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 08:39:46 (hora de Perú)
+Actualizado: 2026-10-03 08:41:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4105**  ($221,780,121 en total)
+- Apuestas registradas: **4107**  ($221,837,478 en total)
 - Resueltas: **4077** — 2482 ganadas / 1595 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 12
 - Apostadores distintos: 494
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 494 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elenes | Senators vs. Maple Leafs | Maple Leafs | 1.89 (53¢) | $27,317 | — | ⏳ Pendiente |
+| mooseborzoii | Senators vs. Maple Leafs | Senators | 2.13 (47¢) | $30,040 | — | ⏳ Pendiente |
 | askilika | Bari: Juan Martin vs Matthew William Donald | Juan Martin | 1.69 (59¢) | $53,801 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: fnatic vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs | Alliance | 2.22 (45¢) | $25,000 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $27,822 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 494 en total)_
 | Antblack | Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi | Luciano Darderi | 1.69 (59¢) | $29,349 | -$29,349 | ❌ Perdida |
 | BrotherObama | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.70 (37¢) | $35,000 | -$35,000 | ❌ Perdida |
 | Diabolical-Prize | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.78 (36¢) | $93,708 | -$93,708 | ❌ Perdida |
-| FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.41 (71¢) | $45,029 | +$18,392 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 1.45 (69¢) | $27,600 | +$12,400 | ✅ Ganada |
