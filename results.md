@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 20:41:24 (hora de Perú)
+Actualizado: 2026-10-02 20:43:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4067**  ($220,346,075 en total)
-- Resueltas: **4040** — 2456 ganadas / 1584 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **4041** — 2456 ganadas / 1585 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 490
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,722,735** sobre $219,032,201 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,417** sobre $398,300 (ROI **-1.9%**)
+- **Resultado de los apostadores: -$1,792,735** sobre $219,102,201 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,517** sobre $398,400 (ROI **-1.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 | curie | Pittsburgh vs. Virginia Tech | Virginia Tech | 1.25 (80¢) | $30,971 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.17 (46¢) | $77,436 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Virginia Tech (-1.5) | Pittsburgh | 1.96 (51¢) | $92,579 | — | ⏳ Pendiente |
-| Eztennis | Rangers vs. Red Wings | Red Wings | 1.82 (55¢) | $70,000 | — | ⏳ Pendiente |
+| Eztennis | Rangers vs. Red Wings | Red Wings | 1.82 (55¢) | $70,000 | -$70,000 | ❌ Perdida |
 | Thorin1 | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $29,960 | +$41,373 | ✅ Ganada |
 | viboomchuu | Bruins vs. Jets | Bruins | 2.13 (47¢) | $29,824 | — | ⏳ Pendiente |
 | PAROLIBOYS | Will Belgium win on 2026-10-02? | No | 2.63 (38¢) | $27,167 | -$27,167 | ❌ Perdida |
