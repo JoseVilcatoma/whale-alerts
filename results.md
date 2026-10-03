@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 10:47:06 (hora de Perú)
+Actualizado: 2026-10-03 10:49:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4119**  ($222,280,655 en total)
-- Resueltas: **4081** — 2485 ganadas / 1596 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **4082** — 2486 ganadas / 1596 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 495
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,295,588** sobre $220,813,392 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,807** sobre $402,400 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,271,042** sobre $220,843,392 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,725** sobre $402,500 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| BrotherObama | 31 | 32 | 5 | 49% | $3,064,314 | +$261,915 |
+| BrotherObama | 32 | 32 | 4 | 50% | $3,064,314 | +$286,460 |
 | ferrariChampions2026 | 46 | 31 | 0 | 60% | $2,971,450 | -$558,276 |
 | ethanaz | 36 | 14 | 0 | 72% | $2,929,752 | -$107,172 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 495 en total)_
 | FORTNITEMASTER888 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | Legacy | 2.27 (44¢) | $26,727 | -$26,727 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
 | FORTNITEMASTER888 | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $49,372 | +$43,783 | ✅ Ganada |
-| BrotherObama | LoL: HANJIN BRION vs JD Gaming (BO1) - Demacia Cup Global Invitational Group Stage | HANJIN BRION | 1.82 (55¢) | $30,000 | — | ⏳ Pendiente |
+| BrotherObama | LoL: HANJIN BRION vs JD Gaming (BO1) - Demacia Cup Global Invitational Group Stage | HANJIN BRION | 1.82 (55¢) | $30,000 | +$24,545 | ✅ Ganada |
 | BrotherObama | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $40,000 | +$35,472 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.75 (57¢) | $33,140 | +$25,000 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Alabama (-5.5) | Mississippi State | 2.04 (49¢) | $25,218 | — | ⏳ Pendiente |
