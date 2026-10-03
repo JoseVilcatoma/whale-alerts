@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 21:08:16 (hora de Perú)
+Actualizado: 2026-10-02 21:10:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4072**  ($220,530,178 en total)
+- Apuestas registradas: **4073**  ($220,594,533 en total)
 - Resueltas: **4041** — 2456 ganadas / 1585 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 491
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 294 | 155 | 4 | 65% | $28,678,144 | +$863,059 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 294 | 155 | 5 | 65% | $28,742,498 | +$863,059 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 491 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $64,355 | — | ⏳ Pendiente |
 | CHZHSHCH | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries | 2.00 (50¢) | $25,541 | — | ⏳ Pendiente |
 | halanddd123 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.25 (80¢) | $48,000 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Golden Knights (-1.5) | Golden Knights | 2.17 (46¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 491 en total)_
 | BrotherObama | Counter-Strike: BIG vs fnatic (BO3) - Stake Ranked Episode 4 Playoffs | fnatic | 2.63 (38¢) | $25,000 | -$25,000 | ❌ Perdida |
 | jaytee158 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.16 (86¢) | $44,777 | +$7,289 | ✅ Ganada |
 | qiu3 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.16 (86¢) | $45,000 | +$7,326 | ✅ Ganada |
-| Diabolical-Prize | Map Handicap: NS (-1.5) vs XLG Gaming (+1.5) | XLG Gaming | 2.44 (41¢) | $36,551 | -$36,551 | ❌ Perdida |
