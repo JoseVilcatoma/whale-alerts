@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 07:14:41 (hora de Perú)
+Actualizado: 2026-10-03 07:16:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4103**  ($221,701,320 en total)
-- Resueltas: **4064** — 2474 ganadas / 1590 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **4065** — 2475 ganadas / 1590 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 493
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,257,271** sobre $220,227,961 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,800** sobre $400,700 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,252,549** sobre $220,256,963 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,784** sobre $400,800 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.85 (54¢) | $37,740 | — | ⏳ Pendiente |
 | 3648393489047 | LoL: LGD Gaming vs FlyQuest (BO1) - Demacia Cup Global Invitational Group Stage | LGD Gaming | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: LGD Gaming vs FlyQuest (BO1) - Demacia Cup Global Invitational Group Stage | FlyQuest | 3.12 (32¢) | $38,955 | — | ⏳ Pendiente |
-| jaytee158 | China Open: Daniil Medvedev vs Jan-Lennard Struff | Daniil Medvedev | 1.16 (86¢) | $29,003 | — | ⏳ Pendiente |
+| jaytee158 | China Open: Daniil Medvedev vs Jan-Lennard Struff | Daniil Medvedev | 1.16 (86¢) | $29,003 | +$4,721 | ✅ Ganada |
 | 0x4fdc…ca1f | China Open: Kamilla Rakhimova vs Leylah Fernandez | Leylah Fernandez | 1.69 (59¢) | $30,000 | -$30,000 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.82 (55¢) | $40,344 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | Astralis | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
