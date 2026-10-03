@@ -61195,5 +61195,20 @@
     "status": "pending",
     "ultimo_fill": 1790992604,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8331,
+    "timestamp": 1790993021,
+    "username": "CHZHSHCH",
+    "wallet": "0x385edd359037625b95dd057794ba3ea25a9c40ce",
+    "slug": "wnba-dal-gsv-2026-10-02",
+    "title": "Dallas Wings vs. Golden State Valkyries",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "usd": 25540.51,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1790993021,
+    "fills": 1
   }
 ]

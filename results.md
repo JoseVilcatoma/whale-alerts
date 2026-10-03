@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 21:02:03 (hora de Perú)
+Actualizado: 2026-10-02 21:04:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4071**  ($220,504,638 en total)
+- Apuestas registradas: **4072**  ($220,530,178 en total)
 - Resueltas: **4041** — 2456 ganadas / 1585 perdidas (**61%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 490
+- Pendientes: 13
+- Apostadores distintos: 491
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 490 en total)_
+_(mostrando los 40 de mayor monto, de 491 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CHZHSHCH | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries | 2.00 (50¢) | $25,541 | — | ⏳ Pendiente |
 | halanddd123 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.25 (80¢) | $48,000 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Golden Knights (-1.5) | Golden Knights | 2.17 (46¢) | $35,000 | — | ⏳ Pendiente |
 | ethanaz | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.30 (77¢) | $50,166 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 | jaytee158 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.16 (86¢) | $44,777 | +$7,289 | ✅ Ganada |
 | qiu3 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.16 (86¢) | $45,000 | +$7,326 | ✅ Ganada |
 | Diabolical-Prize | Map Handicap: NS (-1.5) vs XLG Gaming (+1.5) | XLG Gaming | 2.44 (41¢) | $36,551 | -$36,551 | ❌ Perdida |
-| qiu3 | Map Handicap: NS (-1.5) vs XLG Gaming (+1.5) | Nongshim RedForce | 1.69 (59¢) | $32,152 | +$22,343 | ✅ Ganada |
