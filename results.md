@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 14:57:14 (hora de Perú)
+Actualizado: 2026-10-03 14:59:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4148**  ($223,592,713 en total)
-- Resueltas: **4102** — 2497 ganadas / 1605 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **4103** — 2498 ganadas / 1605 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 497
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,235,540** sobre $221,687,911 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$7,003** sobre $404,500 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,232,060** sobre $221,713,430 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,990** sobre $404,600 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 497 en total)_
 | Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 2.00 (50¢) | $25,280 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Central Michigan (-6.5) | Central Michigan | 1.89 (53¢) | $25,959 | — | ⏳ Pendiente |
 | Mastermoney | Florida vs. Missouri: O/U 59.5 | Over 59.5 | 2.13 (47¢) | $25,794 | — | ⏳ Pendiente |
-| 177-letsgo | UCF vs. Houston | Houston | 1.14 (88¢) | $25,518 | — | ⏳ Pendiente |
+| 177-letsgo | UCF vs. Houston | Houston | 1.14 (88¢) | $25,518 | +$3,480 | ✅ Ganada |
 | gmpm2 | Spread: Florida (-5.5) | Missouri | 2.04 (49¢) | $30,870 | — | ⏳ Pendiente |
 | gmpm2 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $71,495 | — | ⏳ Pendiente |
 | primm | Spread: Tennessee (-6.5) | Auburn | 1.92 (52¢) | $31,574 | — | ⏳ Pendiente |
