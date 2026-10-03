@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 03:35:08 (hora de Perú)
+Actualizado: 2026-10-03 03:37:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4095**  ($221,449,167 en total)
+- Apuestas registradas: **4096**  ($221,478,170 en total)
 - Resueltas: **4058** — 2470 ganadas / 1588 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 493
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jaytee158 | China Open: Daniil Medvedev vs Jan-Lennard Struff | Daniil Medvedev | 1.16 (86¢) | $29,003 | — | ⏳ Pendiente |
 | 0x4fdc…ca1f | China Open: Kamilla Rakhimova vs Leylah Fernandez | Leylah Fernandez | 1.69 (59¢) | $30,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.82 (55¢) | $40,344 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | Astralis | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 | Gourmet1 | Panthers vs. Sharks | Panthers | 1.72 (58¢) | $53,963 | -$53,963 | ❌ Perdida |
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $50,328 | +$3,212 | ✅ Ganada |
 | ethanaz | Steelers vs. Browns | Browns | 1.43 (70¢) | $71,152 | +$30,494 | ✅ Ganada |
-| mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $42,190 | +$2,693 | ✅ Ganada |
