@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 14:07:36 (hora de Perú)
+Actualizado: 2026-10-03 14:09:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4136**  ($223,078,815 en total)
+- Apuestas registradas: **4137**  ($223,104,609 en total)
 - Resueltas: **4086** — 2489 ganadas / 1597 perdidas (**61%** de acierto)
-- Pendientes: 32
-- Apostadores distintos: 496
+- Pendientes: 33
+- Apostadores distintos: 497
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 496 en total)_
+_(mostrando los 40 de mayor monto, de 497 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mastermoney | Florida vs. Missouri: O/U 59.5 | Over 59.5 | 2.13 (47¢) | $25,794 | — | ⏳ Pendiente |
 | 177-letsgo | UCF vs. Houston | Houston | 1.14 (88¢) | $25,518 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Florida (-5.5) | Missouri | 2.04 (49¢) | $30,870 | — | ⏳ Pendiente |
 | gmpm2 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $71,495 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 496 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Xinran Sun vs Cristina Bucsa | Cristina Bucsa | 1.52 (66¢) | $50,686 | -$50,686 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Katie Volynets vs Elise Mertens | Elise Mertens | 1.56 (64¢) | $62,372 | +$35,085 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Nemiga | 1.75 (57¢) | $29,455 | +$22,221 | ✅ Ganada |
-| Eztennis | Japan Open Tennis Championships: Denis Shapovalov vs Alejandro Tabilo | Denis Shapovalov | 2.00 (50¢) | $41,308 | +$41,308 | ✅ Ganada |
