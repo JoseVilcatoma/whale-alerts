@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 04:00:26 (hora de Perú)
+Actualizado: 2026-10-03 04:02:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4099**  ($221,582,464 en total)
-- Resueltas: **4058** — 2470 ganadas / 1588 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **4059** — 2471 ganadas / 1588 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 493
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,426,184** sobre $219,896,945 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,901** sobre $400,100 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,415,853** sobre $219,926,348 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,866** sobre $400,200 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 297 | 155 | 6 | 66% | $28,922,699 | +$997,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 298 | 155 | 5 | 66% | $28,922,699 | +$1,007,332 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 | lllllllIlll | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.82 (55¢) | $40,344 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | Astralis | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | BIG | 2.13 (47¢) | $40,060 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Katerina Siniakova vs Elina Svitolina | Elina Svitolina | 1.35 (74¢) | $29,403 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Katerina Siniakova vs Elina Svitolina | Elina Svitolina | 1.35 (74¢) | $29,403 | +$10,331 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $47,214 | — | ⏳ Pendiente |
 | Eztennis | China Open: Andrey Rublev vs Roman Safiullin | Roman Safiullin | 2.22 (45¢) | $33,494 | -$33,494 | ❌ Perdida |
 | FORTNITEMASTER888 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | Legacy | 2.27 (44¢) | $26,727 | — | ⏳ Pendiente |
