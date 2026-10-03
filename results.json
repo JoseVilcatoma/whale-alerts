@@ -61855,5 +61855,20 @@
     "status": "pending",
     "ultimo_fill": 1791039994,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8416,
+    "timestamp": 1791040648,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-ala-mspst-2026-10-03",
+    "title": "Alabama vs. Mississippi State",
+    "outcome": "Alabama",
+    "side": "BUY",
+    "usd": 106848.8652,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1791040648,
+    "fills": 1
   }
 ]

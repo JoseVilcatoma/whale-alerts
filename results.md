@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 10:15:32 (hora de Perú)
+Actualizado: 2026-10-03 10:17:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4115**  ($222,095,118 en total)
+- Apuestas registradas: **4116**  ($222,201,967 en total)
 - Resueltas: **4080** — 2484 ganadas / 1596 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 495
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Sassy-Bucket | 53 | 47 | 0 | 53% | $5,270,406 | -$647,744 |
+| Sassy-Bucket | 53 | 47 | 1 | 53% | $5,377,255 | -$647,744 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 495 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $106,849 | — | ⏳ Pendiente |
 | sport-intelligence | Croatia vs. England: O/U 2.5 | Over 2.5 | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
 | Pwaddler | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
 | nigiri99 | Croatia vs. England: O/U 2.5 | Under 2.5 | 2.38 (42¢) | $29,152 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 495 en total)_
 | Thorin1 | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $29,960 | +$41,373 | ✅ Ganada |
 | viboomchuu | Bruins vs. Jets | Bruins | 2.13 (47¢) | $29,824 | +$33,632 | ✅ Ganada |
 | PAROLIBOYS | Will Belgium win on 2026-10-02? | No | 2.63 (38¢) | $27,167 | -$27,167 | ❌ Perdida |
-| FORTNITEMASTER888 | Map Handicap: T1 (-1.5) vs JD Gaming (+1.5) | T1 | 1.61 (62¢) | $32,834 | -$32,834 | ❌ Perdida |
