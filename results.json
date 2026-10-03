@@ -62065,5 +62065,50 @@
     "status": "pending",
     "ultimo_fill": 1791052190,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8438,
+    "timestamp": 1791052378,
+    "username": "primm",
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "slug": "cfb-ohiost-iowa-2026-10-03-spread-away-14pt5",
+    "title": "Spread: Ohio State (-14.5)",
+    "outcome": "Ohio State",
+    "side": "BUY",
+    "usd": 76305.665,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1791052378,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8439,
+    "timestamp": 1791052062,
+    "username": "ukowna",
+    "wallet": "0x8fbc899fe286351fb21f23c32710e3facb8a5c63",
+    "slug": "unl-esp-cze-2026-10-03-esp",
+    "title": "Will Spain win on 2026-10-03?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 58639.8387,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1791052062,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8440,
+    "timestamp": 1791051990,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "cfb-fl-missr-2026-10-03-spread-away-5pt5",
+    "title": "Spread: Florida (-5.5)",
+    "outcome": "Florida",
+    "side": "BUY",
+    "usd": 36068.00000024,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1791051990,
+    "fills": 1
   }
 ]

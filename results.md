@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 13:32:40 (hora de Perú)
+Actualizado: 2026-10-03 13:34:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4129**  ($222,748,345 en total)
+- Apuestas registradas: **4132**  ($222,919,358 en total)
 - Resueltas: **4086** — 2489 ganadas / 1597 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 28
 - Apostadores distintos: 496
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| BrotherObama | 32 | 32 | 4 | 50% | $3,064,314 | +$286,460 |
+| BrotherObama | 32 | 32 | 5 | 50% | $3,100,382 | +$286,460 |
 | ferrariChampions2026 | 46 | 31 | 0 | 60% | $2,971,450 | -$558,276 |
 | ethanaz | 36 | 14 | 0 | 72% | $2,929,752 | -$107,172 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -71,7 +71,10 @@ _(mostrando los 40 de mayor monto, de 496 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| primm | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $76,306 | — | ⏳ Pendiente |
 | justwins | Spread: Georgia State (-2.5) | Old Dominion | 2.00 (50¢) | $30,833 | — | ⏳ Pendiente |
+| ukowna | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $58,640 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Florida (-5.5) | Florida | 1.92 (52¢) | $36,068 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $33,717 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $72,304 | — | ⏳ Pendiente |
 | juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.67 (60¢) | $78,458 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 496 en total)_
 | ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.47 (68¢) | $29,993 | +$14,115 | ✅ Ganada |
 | FORTNITEMASTER888 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | Legacy | 2.33 (43¢) | $53,938 | -$53,938 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $64,355 | +$7,954 | ✅ Ganada |
-| CHZHSHCH | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries | 2.00 (50¢) | $25,541 | +$25,541 | ✅ Ganada |
-| halanddd123 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.25 (80¢) | $48,000 | +$12,000 | ✅ Ganada |
-| BrotherObama | Spread: Golden Knights (-1.5) | Golden Knights | 2.17 (46¢) | $35,000 | -$35,000 | ❌ Perdida |
