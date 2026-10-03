@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 15:48:41 (hora de Perú)
+Actualizado: 2026-10-03 15:50:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4153**  ($223,781,969 en total)
+- Apuestas registradas: **4154**  ($223,812,043 en total)
 - Resueltas: **4103** — 2498 ganadas / 1605 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 498
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 498 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Ajeet Rai vs Grigoriy Lomakin | Ajeet Rai | 1.33 (75¢) | $30,074 | — | ⏳ Pendiente |
 | ethanaz | Florida vs. Missouri | Missouri | 2.33 (43¢) | $35,569 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: South Florida (-5.5) | South Florida | 1.96 (51¢) | $30,941 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: South Florida (-5.5) | Temple | 2.04 (49¢) | $68,136 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 498 en total)_
 | FORTNITEMASTER888 | LoL: LGD Gaming vs FlyQuest (BO1) - Demacia Cup Global Invitational Group Stage | FlyQuest | 3.12 (32¢) | $38,955 | -$38,955 | ❌ Perdida |
 | jaytee158 | China Open: Daniil Medvedev vs Jan-Lennard Struff | Daniil Medvedev | 1.16 (86¢) | $29,003 | +$4,721 | ✅ Ganada |
 | 0x4fdc…ca1f | China Open: Kamilla Rakhimova vs Leylah Fernandez | Leylah Fernandez | 1.69 (59¢) | $30,000 | -$30,000 | ❌ Perdida |
-| lllllllIlll | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.82 (55¢) | $40,344 | +$33,009 | ✅ Ganada |

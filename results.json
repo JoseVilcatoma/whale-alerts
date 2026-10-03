@@ -62425,5 +62425,20 @@
     "status": "pending",
     "ultimo_fill": 1791059759,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8479,
+    "timestamp": 1791060639,
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "wallet": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+    "slug": "atp-rai-lomakin-2026-10-03",
+    "title": "Wuning 3: Ajeet Rai vs Grigoriy Lomakin",
+    "outcome": "Ajeet Rai",
+    "side": "BUY",
+    "usd": 30074.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1791060639,
+    "fills": 1
   }
 ]
