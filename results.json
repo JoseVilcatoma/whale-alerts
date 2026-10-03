@@ -61940,10 +61940,25 @@
     "title": "Spread: Houston (-10.5)",
     "outcome": "Houston",
     "side": "BUY",
-    "usd": 26039.997499999998,
+    "usd": 54059.9969,
     "odds_at_bet": 47,
     "status": "pending",
-    "ultimo_fill": 1791042635,
+    "ultimo_fill": 1791042682,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 8424,
+    "timestamp": 1791042745,
+    "username": "0x2f98\u2026bd4c",
+    "wallet": "0x2f983f2a36c462320331eff6901db9307d1abd4c",
+    "slug": "cfb-ala-mspst-2026-10-03",
+    "title": "Alabama vs. Mississippi State",
+    "outcome": "Mississippi State",
+    "side": "BUY",
+    "usd": 38857.14140000001,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "ultimo_fill": 1791042745,
     "fills": 1
   }
 ]
