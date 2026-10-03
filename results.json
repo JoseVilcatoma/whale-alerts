@@ -61090,5 +61090,20 @@
     "status": "pending",
     "ultimo_fill": 1790985646,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8323,
+    "timestamp": 1790989813,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-pitt-vtech-2026-10-02",
+    "title": "Pittsburgh vs. Virginia Tech",
+    "outcome": "Pittsburgh",
+    "side": "BUY",
+    "usd": 45000.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1790989813,
+    "fills": 1
   }
 ]
