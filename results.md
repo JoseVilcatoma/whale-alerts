@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 20:49:39 (hora de Perú)
+Actualizado: 2026-10-02 20:51:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4067**  ($220,346,075 en total)
+- Apuestas registradas: **4068**  ($220,371,471 en total)
 - Resueltas: **4041** — 2456 ganadas / 1585 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 490
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $25,396 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $154,531 | — | ⏳ Pendiente |
 | ethanaz | Penn State vs. Northwestern | Northwestern | 1.45 (69¢) | $57,456 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.50 (40¢) | $45,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 490 en total)_
 | FORTNITEMASTER888 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.18 (85¢) | $58,357 | +$10,298 | ✅ Ganada |
 | jaytee158 | Valorant: TYLOO vs Team Liquid (BO3) - VCT Champions Group C | Team Liquid | 1.25 (80¢) | $34,400 | +$8,600 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Botic van de Zandschulp vs Francisco Cerundolo | Francisco Cerundolo | 1.20 (83¢) | $41,500 | +$8,500 | ✅ Ganada |
-| FORTNITEMASTER888 | Map Handicap: NS (-1.5) vs XLG Gaming (+1.5) | Nongshim RedForce | 1.72 (58¢) | $40,149 | +$29,073 | ✅ Ganada |
