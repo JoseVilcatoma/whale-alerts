@@ -61885,5 +61885,35 @@
     "status": "pending",
     "ultimo_fill": 1791041539,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8419,
+    "timestamp": 1791041940,
+    "username": "Gourmet1",
+    "wallet": "0xc430e5b17128df7ce78d69fa28bc7de038641ebf",
+    "slug": "nhl-mon-pit-2026-10-03",
+    "title": "Canadiens vs. Penguins",
+    "outcome": "Canadiens",
+    "side": "BUY",
+    "usd": 26500.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791041940,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8420,
+    "timestamp": 1791042013,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "cfb-navy-airf-2026-10-03",
+    "title": "Navy vs. Air Force",
+    "outcome": "Navy",
+    "side": "BUY",
+    "usd": 27187.997,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1791042013,
+    "fills": 1
   }
 ]

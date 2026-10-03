@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 10:38:39 (hora de Perú)
+Actualizado: 2026-10-03 10:40:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4117**  ($222,226,967 en total)
+- Apuestas registradas: **4119**  ($222,280,655 en total)
 - Resueltas: **4081** — 2485 ganadas / 1596 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 20
 - Apostadores distintos: 495
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 495 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Navy vs. Air Force | Navy | 2.33 (43¢) | $27,188 | — | ⏳ Pendiente |
+| Gourmet1 | Canadiens vs. Penguins | Canadiens | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | qiu3 | Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier | LGD Gaming | 1.54 (65¢) | $25,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $106,849 | — | ⏳ Pendiente |
 | sport-intelligence | Croatia vs. England: O/U 2.5 | Over 2.5 | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 495 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pittsburgh vs. Virginia Tech | Pittsburgh | 2.17 (46¢) | $77,436 | +$90,903 | ✅ Ganada |
 | Talvez10 | Spread: Virginia Tech (-1.5) | Pittsburgh | 1.96 (51¢) | $92,579 | +$88,948 | ✅ Ganada |
 | Eztennis | Rangers vs. Red Wings | Red Wings | 1.82 (55¢) | $70,000 | -$70,000 | ❌ Perdida |
-| Thorin1 | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 2.38 (42¢) | $29,960 | +$41,373 | ✅ Ganada |
-| viboomchuu | Bruins vs. Jets | Bruins | 2.13 (47¢) | $29,824 | +$33,632 | ✅ Ganada |
