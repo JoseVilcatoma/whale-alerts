@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-02 21:35:01 (hora de Perú)
+Actualizado: 2026-10-02 21:37:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4074**  ($220,648,470 en total)
+- Apuestas registradas: **4075**  ($220,678,464 en total)
 - Resueltas: **4041** — 2456 ganadas / 1585 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 491
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 46 | 44 | 0 | 51% | $4,626,528 | -$253,910 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 44 | 31 | 1 | 59% | $2,941,457 | -$639,891 |
+| ferrariChampions2026 | 44 | 31 | 2 | 59% | $2,971,450 | -$639,891 |
 | ethanaz | 34 | 14 | 2 | 71% | $2,929,752 | -$147,970 |
 | BrotherObama | 30 | 30 | 3 | 50% | $2,908,314 | +$286,443 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 491 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Pittsburgh vs. Virginia Tech | Pittsburgh | 1.47 (68¢) | $29,993 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | Legacy | 2.33 (43¢) | $53,938 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Penn State vs. Northwestern | Northwestern | 1.12 (89¢) | $64,355 | — | ⏳ Pendiente |
 | CHZHSHCH | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries | 2.00 (50¢) | $25,541 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 491 en total)_
 | qiu3 | Counter-Strike: FaZe vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | FaZe | 1.72 (58¢) | $40,000 | -$40,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | BrotherObama | Counter-Strike: BIG vs fnatic (BO3) - Stake Ranked Episode 4 Playoffs | fnatic | 2.63 (38¢) | $25,000 | -$25,000 | ❌ Perdida |
-| jaytee158 | Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Champions Group D | Nongshim RedForce | 1.16 (86¢) | $44,777 | +$7,289 | ✅ Ganada |
