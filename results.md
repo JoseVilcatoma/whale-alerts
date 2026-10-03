@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 17:08:42 (hora de Perú)
+Actualizado: 2026-10-03 17:10:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4163**  ($224,631,727 en total)
-- Resueltas: **4103** — 2498 ganadas / 1605 perdidas (**61%** de acierto)
+- Apuestas registradas: **4164**  ($224,666,982 en total)
+- Resueltas: **4104** — 2499 ganadas / 1605 perdidas (**61%** de acierto)
 - Pendientes: 42
 - Apostadores distintos: 499
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,232,060** sobre $221,713,430 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,990** sobre $404,600 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,177,724** sobre $221,772,294 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,897** sobre $404,700 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Sassy-Bucket | 54 | 47 | 3 | 53% | $5,503,257 | -$592,700 |
+| Sassy-Bucket | 55 | 47 | 2 | 54% | $5,503,257 | -$538,364 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 26 | 29 | 1 | 47% | $1,670,025 | -$204,878 |
 | Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
-| Talvez10 | 16 | 14 | 1 | 53% | $1,491,300 | +$263,789 |
+| Talvez10 | 16 | 14 | 2 | 53% | $1,526,555 | +$263,789 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 16 | 1 | 2 | 94% | $1,377,941 | +$650,568 |
@@ -71,10 +71,11 @@ _(mostrando los 40 de mayor monto, de 499 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Senators vs. Maple Leafs | Senators | 2.04 (49¢) | $35,255 | — | ⏳ Pendiente |
 | 177-letsgo | Auburn vs. Tennessee | Tennessee | 1.08 (93¢) | $35,741 | — | ⏳ Pendiente |
 | 3648393489047 | Florida vs. Missouri | Missouri | 1.20 (83¢) | $46,111 | — | ⏳ Pendiente |
 | lalalalalalallalalalala | Spread: USC (-7.5) | Washington | 1.89 (53¢) | $42,743 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC 332: Johnny Walker vs. Mick Parkin (Heavyweight, Early Prelims) | Johnny Walker | 1.92 (52¢) | $58,864 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC 332: Johnny Walker vs. Mick Parkin (Heavyweight, Early Prelims) | Johnny Walker | 1.92 (52¢) | $58,864 | +$54,336 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.16 (86¢) | $455,800 | — | ⏳ Pendiente |
 | mooseborzoii | Florida vs. Missouri | Missouri | 1.49 (67¢) | $26,270 | — | ⏳ Pendiente |
 | mooseborzoii | Florida vs. Missouri | Missouri | 1.72 (58¢) | $26,202 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 499 en total)_
 | Elenes | Senators vs. Maple Leafs | Maple Leafs | 1.89 (53¢) | $27,317 | — | ⏳ Pendiente |
 | mooseborzoii | Senators vs. Maple Leafs | Senators | 2.13 (47¢) | $30,040 | — | ⏳ Pendiente |
 | askilika | Bari: Juan Martin vs Matthew William Donald | Juan Martin | 1.69 (59¢) | $53,801 | +$37,387 | ✅ Ganada |
-| BrotherObama | Counter-Strike: fnatic vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs | Alliance | 2.22 (45¢) | $25,000 | -$25,000 | ❌ Perdida |

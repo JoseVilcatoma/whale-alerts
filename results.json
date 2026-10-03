@@ -62527,7 +62527,7 @@
     "side": "BUY",
     "usd": 58864.0,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791063358,
     "fills": 1
   },
@@ -62574,6 +62574,21 @@
     "odds_at_bet": 93,
     "status": "pending",
     "ultimo_fill": 1791065284,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8490,
+    "timestamp": 1791065332,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "nhl-ott-tor-2026-10-03",
+    "title": "Senators vs. Maple Leafs",
+    "outcome": "Senators",
+    "side": "BUY",
+    "usd": 35255.059,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791065332,
     "fills": 1
   }
 ]
