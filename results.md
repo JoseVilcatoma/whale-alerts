@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 10:02:55 (hora de Perú)
+Actualizado: 2026-10-03 10:05:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4113**  ($222,005,118 en total)
+- Apuestas registradas: **4114**  ($222,070,118 en total)
 - Resueltas: **4079** — 2484 ganadas / 1595 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 494
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 494 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Pwaddler | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
 | nigiri99 | Croatia vs. England: O/U 2.5 | Under 2.5 | 2.38 (42¢) | $29,152 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Luminosity | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
 | BrotherObama | LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs | LOUD | 2.38 (42¢) | $36,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 494 en total)_
 | PAROLIBOYS | Will Belgium win on 2026-10-02? | No | 2.63 (38¢) | $27,167 | -$27,167 | ❌ Perdida |
 | FORTNITEMASTER888 | Map Handicap: T1 (-1.5) vs JD Gaming (+1.5) | T1 | 1.61 (62¢) | $32,834 | -$32,834 | ❌ Perdida |
 | FORTNITEMASTER888 | Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A | T1 | 1.18 (85¢) | $34,000 | +$6,000 | ✅ Ganada |
-| FORTNITEMASTER888 | Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A | T1 | 1.15 (87¢) | $31,526 | +$4,711 | ✅ Ganada |
