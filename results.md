@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 03:24:39 (hora de Perú)
+Actualizado: 2026-10-03 03:26:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4092**  ($221,348,823 en total)
+- Apuestas registradas: **4093**  ($221,378,823 en total)
 - Resueltas: **4058** — 2470 ganadas / 1588 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 492
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 492 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | Astralis | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Astralis vs BIG (BO3) - Stake Ranked Episode 4 Playoffs | BIG | 2.13 (47¢) | $40,060 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Katerina Siniakova vs Elina Svitolina | Elina Svitolina | 1.35 (74¢) | $29,403 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $47,214 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 492 en total)_
 | mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.06 (94¢) | $42,190 | +$2,693 | ✅ Ganada |
 | FlamePyro | Steelers vs. Browns | Browns | 1.52 (66¢) | $42,900 | +$22,100 | ✅ Ganada |
 | sulumos | Steelers vs. Browns | Browns | 1.52 (66¢) | $40,920 | +$21,080 | ✅ Ganada |
-| mooseborzoii | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.15 (87¢) | $36,157 | +$5,403 | ✅ Ganada |
