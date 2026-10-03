@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 08:29:30 (hora de Perú)
+Actualizado: 2026-10-03 08:31:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4104**  ($221,726,320 en total)
+- Apuestas registradas: **4105**  ($221,780,121 en total)
 - Resueltas: **4076** — 2481 ganadas / 1595 perdidas (**61%** de acierto)
-- Pendientes: 10
-- Apostadores distintos: 493
+- Pendientes: 11
+- Apostadores distintos: 494
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 493 en total)_
+_(mostrando los 40 de mayor monto, de 494 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| askilika | Bari: Juan Martin vs Matthew William Donald | Juan Martin | 1.69 (59¢) | $53,801 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: fnatic vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs | Alliance | 2.22 (45¢) | $25,000 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $27,822 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Marie Bouzkova vs Kimberly Birrell | Marie Bouzkova | 1.43 (70¢) | $28,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 493 en total)_
 | Diabolical-Prize | LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs | Solary | 2.78 (36¢) | $93,708 | -$93,708 | ❌ Perdida |
 | FORTNITEMASTER888 | Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B | Global Esports | 1.41 (71¢) | $45,029 | +$18,392 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 1.45 (69¢) | $27,600 | +$12,400 | ✅ Ganada |
-| 0x78be…bde0 | China Open: Taylah Preston vs Diane Parry | Taylah Preston | 2.04 (49¢) | $30,000 | +$31,224 | ✅ Ganada |
