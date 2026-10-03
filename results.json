@@ -61300,5 +61300,20 @@
     "status": "pending",
     "ultimo_fill": 1791002677,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8352,
+    "timestamp": 1791003114,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-volynet-mertens-2026-10-01",
+    "title": "China Open: Katie Volynets vs Elise Mertens",
+    "outcome": "Elise Mertens",
+    "side": "BUY",
+    "usd": 62372.448,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1791003114,
+    "fills": 1
   }
 ]
