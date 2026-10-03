@@ -61642,7 +61642,7 @@
     "side": "BUY",
     "usd": 37352.176,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791026961,
     "fills": 1
   },
@@ -61779,6 +61779,21 @@
     "odds_at_bet": 41,
     "status": "pending",
     "ultimo_fill": 1791038635,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8410,
+    "timestamp": 1791038965,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-lll-fur-2026-10-03",
+    "title": "LoL: LOUD vs FURIA Esports (BO5) - CBLOL Playoffs",
+    "outcome": "LOUD",
+    "side": "BUY",
+    "usd": 35999.99999999999,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1791038965,
     "fills": 1
   }
 ]
