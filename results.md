@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 18:16:45 (hora de Perú)
+Actualizado: 2026-10-03 18:18:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4171**  ($225,143,052 en total)
+- Apuestas registradas: **4173**  ($225,203,914 en total)
 - Resueltas: **4118** — 2510 ganadas / 1608 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 37
 - Apostadores distintos: 500
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | BrotherObama | 32 | 34 | 4 | 48% | $3,206,447 | +$225,460 |
 | ethanaz | 36 | 14 | 4 | 72% | $3,172,046 | -$107,172 |
-| ferrariChampions2026 | 46 | 31 | 0 | 60% | $2,971,450 | -$558,276 |
+| ferrariChampions2026 | 46 | 31 | 2 | 60% | $3,032,312 | -$558,276 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Army vs. Louisiana Tech | Army | 2.04 (49¢) | $34,910 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Army vs. Louisiana Tech | Louisiana Tech | 2.00 (50¢) | $25,952 | — | ⏳ Pendiente |
 | kkookkoo | BYU vs. TCU | BYU | 1.49 (67¢) | $28,603 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.52 (66¢) | $113,139 | — | ⏳ Pendiente |
 | Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $96,980 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | Sassy-Bucket | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $106,849 | +$55,043 | ✅ Ganada |
 | sport-intelligence | Croatia vs. England: O/U 2.5 | Over 2.5 | 1.72 (58¢) | $25,000 | +$18,103 | ✅ Ganada |
 | Pwaddler | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
-| nigiri99 | Croatia vs. England: O/U 2.5 | Under 2.5 | 2.38 (42¢) | $29,152 | -$29,152 | ❌ Perdida |
-| fantasy7788 | Counter-Strike: Luminosity vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs | Luminosity | 2.33 (43¢) | $25,000 | -$25,000 | ❌ Perdida |

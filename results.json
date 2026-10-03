@@ -62695,5 +62695,35 @@
     "status": "pending",
     "ultimo_fill": 1791068637,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8513,
+    "timestamp": 1791069411,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-army-loutch-2026-10-03",
+    "title": "Army vs. Louisiana Tech",
+    "outcome": "Louisiana Tech",
+    "side": "BUY",
+    "usd": 25951.895,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1791069411,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8514,
+    "timestamp": 1791069483,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-army-loutch-2026-10-03",
+    "title": "Army vs. Louisiana Tech",
+    "outcome": "Army",
+    "side": "BUY",
+    "usd": 34910.123499999994,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791069483,
+    "fills": 1
   }
 ]
