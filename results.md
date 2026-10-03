@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 01:05:56 (hora de Perú)
+Actualizado: 2026-10-03 01:08:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4085**  ($221,088,352 en total)
+- Apuestas registradas: **4086**  ($221,137,724 en total)
 - Resueltas: **4056** — 2469 ganadas / 1587 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 492
 
 ### Balance
@@ -46,8 +46,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
+| Lakersfan111 | 25 | 15 | 3 | 62% | $1,937,281 | +$14,317 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
-| Lakersfan111 | 25 | 15 | 2 | 62% | $1,887,909 | +$14,317 |
 | Kch-Temp | 25 | 8 | 0 | 76% | $1,881,865 | +$1,079,614 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 492 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FORTNITEMASTER888 | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $49,372 | — | ⏳ Pendiente |
 | BrotherObama | LoL: HANJIN BRION vs JD Gaming (BO1) - Demacia Cup Global Invitational Group Stage | HANJIN BRION | 1.82 (55¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | Valorant: G2 Esports vs Team Liquid (BO3) - VCT Champions Group C | G2 Esports | 1.89 (53¢) | $40,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 1.75 (57¢) | $33,140 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 492 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Atlanta Braves | Atlanta Braves | 1.82 (55¢) | $25,509 | +$20,871 | ✅ Ganada |
 | ndb1 | Spread: Browns (-3.5) | Steelers | 1.39 (72¢) | $27,833 | +$10,824 | ✅ Ganada |
 | troonnnn | Steelers vs. Browns | Steelers | 1.67 (60¢) | $25,020 | -$25,020 | ❌ Perdida |
-| ferrariChampions2026 | Spread: Steelers (-2.5) | Steelers | 1.85 (54¢) | $46,827 | -$46,827 | ❌ Perdida |
