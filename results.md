@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 17:45:40 (hora de Perú)
+Actualizado: 2026-10-04 17:47:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4416**  ($239,069,818 en total)
-- Resueltas: **4321** — 2629 ganadas / 1692 perdidas (**61%** de acierto)
-- Pendientes: 77
+- Resueltas: **4325** — 2632 ganadas / 1693 perdidas (**61%** de acierto)
+- Pendientes: 73
 - Apostadores distintos: 508
 
 ### Balance
 
-- **Resultado de los apostadores: -$694,583** sobre $232,606,686 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,967** sobre $426,400 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$649,775** sobre $232,799,079 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,932** sobre $426,800 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 315 | 163 | 8 | 66% | $30,779,272 | +$1,196,671 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 315 | 164 | 7 | 66% | $30,779,272 | +$1,166,221 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 59 | 53 | 4 | 53% | $6,384,205 | -$603,319 |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 2 | 93% | $1,673,116 | +$74,581 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
 | mooseborzoii | 18 | 5 | 6 | 78% | $1,585,765 | +$509,911 |
@@ -127,7 +127,7 @@ _(mostrando los 40 de mayor monto, de 508 en total)_
 | Kch-Temp | Dolphins vs. Vikings: O/U 38.5 | Over 38.5 | 1.96 (51¢) | $25,450 | — | ⏳ Pendiente |
 | cosmicxbt | Jaguars vs. Bengals | Jaguars | 1.25 (80¢) | $44,000 | +$11,000 | ✅ Ganada |
 | BrotherObama | Spread: Seahawks (-7.5) | Seahawks | 2.13 (47¢) | $70,000 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Netherlands vs. Serbia: O/U 2.5 | Over 2.5 | 1.11 (90¢) | $57,094 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Netherlands vs. Serbia: O/U 2.5 | Over 2.5 | 1.11 (90¢) | $57,094 | +$6,344 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Patriots vs. Bills | Bills | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | ferrariChampions2026 | Patriots vs. Bills | Patriots | 2.08 (48¢) | $25,031 | +$27,117 | ✅ Ganada |
 | ethanaz | Patriots vs. Bills | Bills | 1.92 (52¢) | $28,348 | -$28,348 | ❌ Perdida |
