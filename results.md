@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 09:59:25 (hora de Perú)
+Actualizado: 2026-10-04 10:01:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4291**  ($231,101,915 en total)
+- Apuestas registradas: **4292**  ($231,145,575 en total)
 - Resueltas: **4208** — 2567 ganadas / 1641 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Pendientes: 66
 - Apostadores distintos: 506
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| liquiditycrisis | Patriots vs. Bills | Bills | 1.35 (74¢) | $43,660 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: Bills (-6.5) | Bills | 1.89 (53¢) | $45,474 | — | ⏳ Pendiente |
 | primm | Chiefs vs. Raiders | Chiefs | 1.49 (67¢) | $32,334 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: 49ers (-2.5) | 49ers | 1.85 (54¢) | $164,566 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $29,282 | +$24,943 | ✅ Ganada |
 | fantasy7788 | LoL: Team WE vs HANJIN BRION - Game 1 Winner | HANJIN BRION | 1.96 (51¢) | $27,389 | -$27,389 | ❌ Perdida |
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $39,398 | +$33,562 | ✅ Ganada |
-| crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $36,614 | +$31,190 | ✅ Ganada |
