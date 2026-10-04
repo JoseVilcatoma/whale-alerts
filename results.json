@@ -64870,5 +64870,20 @@
     "status": "pending",
     "ultimo_fill": 1791129873,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8751,
+    "timestamp": 1791129907,
+    "username": "eschaworldchampion2026",
+    "wallet": "0x7b6c6d1279098054b0c630a4b871002a7cd46305",
+    "slug": "cs2-vit-navi-2026-10-04",
+    "title": "Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 29592.18,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1791129907,
+    "fills": 1
   }
 ]

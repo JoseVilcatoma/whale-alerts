@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 11:04:39 (hora de Perú)
+Actualizado: 2026-10-04 11:06:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4316**  ($232,575,950 en total)
+- Apuestas registradas: **4317**  ($232,605,542 en total)
 - Resueltas: **4209** — 2567 ganadas / 1642 perdidas (**61%** de acierto)
-- Pendientes: 89
+- Pendientes: 90
 - Apostadores distintos: 507
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $29,592 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Buccaneers | Packers | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $25,508 | — | ⏳ Pendiente |
 | wan123 | Cowboys vs. Texans | Texans | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Tiger200 | Spread: Colts (-4.5) | Colts | 1.96 (51¢) | $133,248 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Colts (-4.5) | Commanders | 2.04 (49¢) | $38,528 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Commanders | Colts | 1.49 (67¢) | $62,657 | — | ⏳ Pendiente |
-| surfandturf | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $39,012 | — | ⏳ Pendiente |
