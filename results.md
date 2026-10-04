@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 18:47:41 (hora de Perú)
+Actualizado: 2026-10-04 18:49:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4421**  ($239,295,356 en total)
-- Resueltas: **4340** — 2645 ganadas / 1695 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Resueltas: **4341** — 2645 ganadas / 1696 perdidas (**61%** de acierto)
+- Pendientes: 62
 - Apostadores distintos: 509
 
 ### Balance
 
-- **Resultado de los apostadores: -$79,746** sobre $234,201,081 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$6,634** sobre $428,200 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$118,246** sobre $234,239,581 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,734** sobre $428,300 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -110,7 +110,7 @@ _(mostrando los 40 de mayor monto, de 509 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Raiders | Raiders | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
 | ndb1 | Dolphins vs. Vikings | Vikings | 1.19 (84¢) | $115,489 | +$21,998 | ✅ Ganada |
 | ferrariChampions2026 | Chiefs vs. Raiders | Chiefs | 1.67 (60¢) | $29,569 | — | ⏳ Pendiente |
-| kkookkoo | San Diego Padres vs. Milwaukee Brewers | San Diego Padres | 1.67 (60¢) | $38,500 | — | ⏳ Pendiente |
+| kkookkoo | San Diego Padres vs. Milwaukee Brewers | San Diego Padres | 1.67 (60¢) | $38,500 | -$38,500 | ❌ Perdida |
 | 177-letsgo | Chargers vs. Seahawks | Seahawks | 1.33 (75¢) | $69,750 | — | ⏳ Pendiente |
 | Diabolical-Prize | Spread: Chiefs (-4.5) | Chiefs | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | ethanaz | Dolphins vs. Vikings | Vikings | 1.20 (83¢) | $170,654 | +$34,953 | ✅ Ganada |
