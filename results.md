@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 20:04:28 (hora de Perú)
+Actualizado: 2026-10-03 20:06:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4182**  ($225,754,192 en total)
+- Apuestas registradas: **4183**  ($225,785,161 en total)
 - Resueltas: **4137** — 2525 ganadas / 1612 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 500
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Washington vs. USC | USC | 1.52 (66¢) | $30,969 | — | ⏳ Pendiente |
 | mooseborzoii | Washington vs. USC | USC | 1.49 (67¢) | $141,318 | — | ⏳ Pendiente |
 | 3648393489047 | BYU vs. TCU | BYU | 1.67 (60¢) | $35,188 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Diego Padres vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.82 (55¢) | $34,951 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.67 (60¢) | $78,458 | +$52,306 | ✅ Ganada |
 | Kch-Temp | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $42,100 | +$21,688 | ✅ Ganada |
 | AGUGava | Croatia vs. England: O/U 3.5 | Under 3.5 | 1.54 (65¢) | $26,489 | -$26,489 | ❌ Perdida |
-| Zzzz87 | Will Belarus win on 2026-10-03? | Yes | 1.09 (92¢) | $25,507 | +$2,218 | ✅ Ganada |
