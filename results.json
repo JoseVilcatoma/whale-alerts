@@ -63817,7 +63817,7 @@
     "side": "BUY",
     "usd": 55979.9936,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791118516,
     "fills": 1
   },
@@ -64627,7 +64627,7 @@
     "side": "BUY",
     "usd": 63000.0,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791128112,
     "fills": 1
   },
@@ -64912,7 +64912,7 @@
     "side": "BUY",
     "usd": 50400.0,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791130281,
     "fills": 1
   },
@@ -64942,7 +64942,7 @@
     "side": "BUY",
     "usd": 25200.0,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791130327,
     "fills": 1
   },
@@ -65227,7 +65227,7 @@
     "side": "BUY",
     "usd": 29533.743799051183,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791138127,
     "fills": 1
   },
@@ -65377,7 +65377,7 @@
     "side": "BUY",
     "usd": 69831.3692,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791139748,
     "fills": 1
   },
@@ -65975,10 +65975,25 @@
     "title": "Broncos vs. 49ers",
     "outcome": "49ers",
     "side": "BUY",
-    "usd": 25180.5569,
-    "odds_at_bet": 59,
+    "usd": 76820.55529999999,
+    "odds_at_bet": 58,
     "status": "pending",
-    "ultimo_fill": 1791146668,
+    "ultimo_fill": 1791146763,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 8910,
+    "timestamp": 1791146865,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-mia-min-2026-10-04",
+    "title": "Dolphins vs. Vikings",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 29793.752100000005,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1791146865,
     "fills": 1
   }
 ]
