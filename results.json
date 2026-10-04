@@ -64555,5 +64555,20 @@
     "status": "pending",
     "ultimo_fill": 1791127070,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8729,
+    "timestamp": 1791127223,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-ind-was-2026-10-04",
+    "title": "Colts vs. Commanders",
+    "outcome": "Colts",
+    "side": "BUY",
+    "usd": 59534.0728,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1791127223,
+    "fills": 1
   }
 ]
