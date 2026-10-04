@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 17:13:15 (hora de Perú)
+Actualizado: 2026-10-04 17:15:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4413**  ($238,933,909 en total)
+- Apuestas registradas: **4414**  ($239,005,829 en total)
 - Resueltas: **4309** — 2624 ganadas / 1685 perdidas (**61%** de acierto)
-- Pendientes: 86
+- Pendientes: 87
 - Apostadores distintos: 508
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 39 | 17 | 3 | 70% | $3,467,148 | -$168,931 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| surfandturf | 25 | 5 | 1 | 83% | $2,817,247 | +$509,463 |
+| surfandturf | 25 | 5 | 1 | 83% | $2,848,247 | +$509,463 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | maz26 | 20 | 14 | 5 | 59% | $2,546,121 | -$265,288 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -58,8 +58,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
 | mooseborzoii | 17 | 5 | 6 | 77% | $1,560,661 | +$463,371 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
+| ndb1 | 16 | 7 | 4 | 70% | $1,492,602 | +$353,567 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| ndb1 | 16 | 7 | 3 | 70% | $1,451,682 | +$353,567 |
 | texaskid | 13 | 13 | 1 | 50% | $1,447,575 | -$121,070 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
@@ -71,9 +71,10 @@ _(mostrando los 40 de mayor monto, de 508 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Spread: Seahawks (-7.5) | Seahawks | 1.22 (82¢) | $40,920 | — | ⏳ Pendiente |
 | 177-letsgo | Dolphins vs. Vikings | Vikings | 1.09 (92¢) | $59,800 | — | ⏳ Pendiente |
 | ethanaz | Dolphins vs. Vikings | Vikings | 1.10 (91¢) | $36,743 | — | ⏳ Pendiente |
-| surfandturf | Chiefs vs. Raiders | Chiefs | 1.69 (59¢) | $58,500 | — | ⏳ Pendiente |
+| surfandturf | Chiefs vs. Raiders | Chiefs | 1.67 (60¢) | $89,500 | — | ⏳ Pendiente |
 | Uniform123 | LoL: Team Liquid vs LYON (BO5) - LCS Playoffs | Team Liquid | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
 | gmpm2 | Broncos vs. 49ers | 49ers | 1.61 (62¢) | $32,736 | — | ⏳ Pendiente |
 | YEEES-but-why | Dolphins vs. Vikings | Vikings | 1.12 (89¢) | $25,776 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 508 en total)_
 | ethanaz | Patriots vs. Bills | Bills | 1.92 (52¢) | $28,348 | -$28,348 | ❌ Perdida |
 | ferrariChampions2026 | Cowboys vs. Texans | Texans | 1.89 (53¢) | $29,482 | -$29,482 | ❌ Perdida |
 | DaWinci | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $33,997 | — | ⏳ Pendiente |
-| timezonewarrior | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $98,600 | — | ⏳ Pendiente |
