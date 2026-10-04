@@ -62905,5 +62905,20 @@
     "status": "pending",
     "ultimo_fill": 1791077880,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8547,
+    "timestamp": 1791077988,
+    "username": "0xCa4e92ce46D71a9FAd74805470A84EE3D576f97E-1764958694511",
+    "wallet": "0xca4e92ce46d71a9fad74805470a84ee3d576f97e",
+    "slug": "ufc-dei-pay-2026-10-03",
+    "title": "UFC 332: Deiveson Figueiredo vs. Payton Talbott (Bantamweight, Main Card)",
+    "outcome": "Payton Talbott",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1791077988,
+    "fills": 1
   }
 ]

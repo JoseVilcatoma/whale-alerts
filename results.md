@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 20:39:30 (hora de Perú)
+Actualizado: 2026-10-03 20:41:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4185**  ($225,837,766 en total)
+- Apuestas registradas: **4186**  ($225,863,266 en total)
 - Resueltas: **4138** — 2525 ganadas / 1613 perdidas (**61%** de acierto)
-- Pendientes: 29
-- Apostadores distintos: 500
+- Pendientes: 30
+- Apostadores distintos: 501
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 500 en total)_
+_(mostrando los 40 de mayor monto, de 501 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xCa4e92ce46D71a9FAd74805470A84EE3D576f97E-1764958694511 | UFC 332: Deiveson Figueiredo vs. Payton Talbott (Bantamweight, Main Card) | Payton Talbott | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-3.5) | Buccaneers | 1.82 (55¢) | $27,430 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $25,175 | — | ⏳ Pendiente |
 | mooseborzoii | Washington vs. USC | USC | 1.52 (66¢) | $30,969 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | BrotherObama | Spread: Florida (-5.5) | Florida | 1.92 (52¢) | $36,068 | -$36,068 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $33,717 | +$17,369 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $72,304 | +$37,247 | ✅ Ganada |
-| juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.67 (60¢) | $78,458 | +$52,306 | ✅ Ganada |
