@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 17:09:05 (hora de Perú)
+Actualizado: 2026-10-04 17:11:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4410**  ($238,778,866 en total)
+- Apuestas registradas: **4412**  ($238,874,109 en total)
 - Resueltas: **4309** — 2624 ganadas / 1685 perdidas (**61%** de acierto)
-- Pendientes: 83
+- Pendientes: 85
 - Apostadores distintos: 508
 
 ### Balance
@@ -36,10 +36,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 54 | 35 | 9 | 61% | $4,031,058 | -$538,986 |
 | SmartPredictOrNot | 4 | 4 | 3 | 50% | $3,705,357 | -$407,768 |
-| ethanaz | 39 | 17 | 2 | 70% | $3,430,405 | -$168,931 |
+| ethanaz | 39 | 17 | 3 | 70% | $3,467,148 | -$168,931 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| surfandturf | 25 | 5 | 0 | 83% | $2,758,747 | +$509,463 |
+| surfandturf | 25 | 5 | 1 | 83% | $2,817,247 | +$509,463 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | maz26 | 20 | 14 | 5 | 59% | $2,546,121 | -$265,288 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 508 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Dolphins vs. Vikings | Vikings | 1.10 (91¢) | $36,743 | — | ⏳ Pendiente |
+| surfandturf | Chiefs vs. Raiders | Chiefs | 1.69 (59¢) | $58,500 | — | ⏳ Pendiente |
 | Uniform123 | LoL: Team Liquid vs LYON (BO5) - LCS Playoffs | Team Liquid | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
 | gmpm2 | Broncos vs. 49ers | 49ers | 1.61 (62¢) | $32,736 | — | ⏳ Pendiente |
 | YEEES-but-why | Dolphins vs. Vikings | Vikings | 1.12 (89¢) | $25,776 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 508 en total)_
 | DaWinci | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $33,997 | — | ⏳ Pendiente |
 | timezonewarrior | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $98,600 | — | ⏳ Pendiente |
 | texaskid | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
-| mooseborzoii | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $94,116 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jaguars vs. Bengals | Jaguars | 1.37 (73¢) | $30,953 | +$11,448 | ✅ Ganada |
