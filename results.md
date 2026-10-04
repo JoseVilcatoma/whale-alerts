@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 15:37:38 (hora de Perú)
+Actualizado: 2026-10-04 15:39:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4384**  ($236,752,579 en total)
+- Apuestas registradas: **4385**  ($236,793,379 en total)
 - Resueltas: **4276** — 2605 ganadas / 1671 perdidas (**61%** de acierto)
-- Pendientes: 90
+- Pendientes: 91
 - Apostadores distintos: 507
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Raiders | Raiders | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
 | ndb1 | Dolphins vs. Vikings | Vikings | 1.19 (84¢) | $115,489 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chiefs vs. Raiders | Chiefs | 1.67 (60¢) | $29,569 | — | ⏳ Pendiente |
 | kkookkoo | San Diego Padres vs. Milwaukee Brewers | San Diego Padres | 1.67 (60¢) | $38,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | NS13 | Counter-Strike: BetBoom Team vs M80 (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.43 (70¢) | $37,164 | +$15,927 | ✅ Ganada |
 | Kosherlocks | Chargers vs. Seahawks | Seahawks | 1.32 (76¢) | $33,721 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 3.57 (28¢) | $42,000 | -$42,000 | ❌ Perdida |
-| gmpm2 | Spread: Cardinals (-2.5) | Giants | 1.96 (51¢) | $39,800 | — | ⏳ Pendiente |
