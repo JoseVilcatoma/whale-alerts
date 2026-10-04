@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 07:53:16 (hora de Perú)
+Actualizado: 2026-10-04 07:55:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4244**  ($228,617,094 en total)
+- Apuestas registradas: **4246**  ($228,756,790 en total)
 - Resueltas: **4195** — 2560 ganadas / 1635 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 33
 - Apostadores distintos: 505
 
 ### Balance
@@ -47,10 +47,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
-| Kch-Temp | 26 | 8 | 0 | 76% | $1,923,965 | +$1,101,302 |
+| Kch-Temp | 26 | 8 | 1 | 76% | $1,979,945 | +$1,101,302 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
+| maz26 | 15 | 12 | 3 | 56% | $1,855,253 | -$279,699 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| maz26 | 15 | 12 | 2 | 56% | $1,771,536 | -$279,699 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Rams vs. Eagles | Eagles | 2.70 (37¢) | $55,980 | — | ⏳ Pendiente |
+| gmpm2 | Spread: Rams (-3.5) | Rams | 2.04 (49¢) | $83,716 | — | ⏳ Pendiente |
 | BillyGating | China Open: Alexander Zverev vs Novak Djokovic | Novak Djokovic | 2.56 (39¢) | $78,093 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: G2 vs 1WIN (BO3) - ESL Pro League Group Stage | G2 | 1.35 (74¢) | $112,135 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global Invitational Group Stage | HANJIN BRION | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.17 (46¢) | $32,625 | -$32,625 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 1.85 (54¢) | $38,857 | -$38,857 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| 0xCa4e92ce46D71a9FAd74805470A84EE3D576f97E-1764958694511 | UFC 332: Deiveson Figueiredo vs. Payton Talbott (Bantamweight, Main Card) | Payton Talbott | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-3.5) | Buccaneers | 1.82 (55¢) | $27,430 | — | ⏳ Pendiente |
