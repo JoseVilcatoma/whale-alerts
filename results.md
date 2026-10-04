@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 13:41:47 (hora de Perú)
+Actualizado: 2026-10-04 13:43:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4346**  ($234,499,511 en total)
+- Apuestas registradas: **4348**  ($234,588,107 en total)
 - Resueltas: **4226** — 2579 ganadas / 1647 perdidas (**61%** de acierto)
-- Pendientes: 102
+- Pendientes: 104
 - Apostadores distintos: 507
 
 ### Balance
@@ -55,13 +55,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 18 | 17 | 1 | 51% | $1,629,226 | -$189,845 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 1 | 93% | $1,616,022 | +$74,581 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | texaskid | 13 | 11 | 2 | 54% | $1,413,575 | -$3,953 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
-| mooseborzoii | 12 | 4 | 8 | 75% | $1,310,466 | +$235,156 |
+| mooseborzoii | 12 | 4 | 9 | 75% | $1,350,546 | +$235,156 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Cardinals vs. Giants | Giants | 1.69 (59¢) | $40,080 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Netherlands vs. Serbia: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $48,516 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cardinals vs. Giants | Cardinals | 2.44 (41¢) | $26,085 | — | ⏳ Pendiente |
 | taylorsversion | Spread: Chiefs (-4.5) | Chiefs | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $38,400 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | liquiditycrisis | Spread: Bills (-6.5) | Bills | 1.89 (53¢) | $45,474 | — | ⏳ Pendiente |
 | primm | Chiefs vs. Raiders | Chiefs | 1.49 (67¢) | $32,334 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: 49ers (-2.5) | 49ers | 1.85 (54¢) | $164,566 | — | ⏳ Pendiente |
-| Donkey14 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,489 | — | ⏳ Pendiente |
-| KaneAnalytics | Colts vs. Commanders | Colts | 1.56 (64¢) | $91,010 | +$51,193 | ✅ Ganada |

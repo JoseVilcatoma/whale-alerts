@@ -65320,5 +65320,35 @@
     "status": "pending",
     "ultimo_fill": 1791139252,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8799,
+    "timestamp": 1791139327,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "unl-nld-ser-2026-10-04-total-1pt5",
+    "title": "Netherlands vs. Serbia: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 48516.24600000001,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1791139327,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8800,
+    "timestamp": 1791139341,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-ari-nyg-2026-10-04",
+    "title": "Cardinals vs. Giants",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 40079.998,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1791139341,
+    "fills": 1
   }
 ]
