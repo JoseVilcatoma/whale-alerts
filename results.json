@@ -65410,5 +65410,50 @@
     "status": "pending",
     "ultimo_fill": 1791141141,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 8819,
+    "timestamp": 1791141274,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "nfl-kc-lv-2026-10-04",
+    "title": "Chiefs vs. Raiders",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 34000.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1791141274,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8820,
+    "timestamp": 1791141305,
+    "username": "timezonewarrior",
+    "wallet": "0x8f8c0eb3c2450ae709c2369bb61dd1b049e9e275",
+    "slug": "nfl-kc-lv-2026-10-04",
+    "title": "Chiefs vs. Raiders",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 98600.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1791141305,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8821,
+    "timestamp": 1791141314,
+    "username": "DaWinci",
+    "wallet": "0xd729f11adff3be01381ffe3b2215e02e90b009d7",
+    "slug": "nfl-kc-lv-2026-10-04",
+    "title": "Chiefs vs. Raiders",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 33996.974,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1791141314,
+    "fills": 1
   }
 ]

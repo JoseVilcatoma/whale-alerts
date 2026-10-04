@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 14:14:26 (hora de Perú)
+Actualizado: 2026-10-04 14:16:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4352**  ($234,810,883 en total)
+- Apuestas registradas: **4355**  ($234,977,480 en total)
 - Resueltas: **4240** — 2584 ganadas / 1656 perdidas (**61%** de acierto)
-- Pendientes: 94
+- Pendientes: 97
 - Apostadores distintos: 507
 
 ### Balance
@@ -58,9 +58,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 1 | 93% | $1,616,022 | +$74,581 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
+| texaskid | 13 | 11 | 3 | 54% | $1,447,575 | -$3,953 |
 | mooseborzoii | 13 | 5 | 8 | 72% | $1,444,662 | +$265,321 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| texaskid | 13 | 11 | 2 | 54% | $1,413,575 | -$3,953 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| DaWinci | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $33,997 | — | ⏳ Pendiente |
+| timezonewarrior | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $98,600 | — | ⏳ Pendiente |
+| texaskid | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $94,116 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jaguars vs. Bengals | Jaguars | 1.37 (73¢) | $30,953 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Rams vs. Eagles | Eagles | 1.47 (68¢) | $69,831 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | bigballaz | Colts vs. Commanders | Colts | 1.15 (87¢) | $32,190 | +$4,810 | ✅ Ganada |
 | WanderingWombat | Spread: Bengals (-2.5) | Bengals | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Commanders | Colts | 1.06 (94¢) | $59,534 | +$3,800 | ✅ Ganada |
-| Jsram | Spread: Packers (-3.5) | Buccaneers | 1.79 (56¢) | $30,348 | — | ⏳ Pendiente |
-| mooseborzoii | Spread: Texans (-2.5) | Cowboys | 2.08 (48¢) | $42,960 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Colts vs. Commanders | Colts | 1.20 (83¢) | $83,652 | +$17,134 | ✅ Ganada |
