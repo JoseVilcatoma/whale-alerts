@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 10:50:05 (hora de Perú)
+Actualizado: 2026-10-04 10:52:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4311**  ($232,247,415 en total)
+- Apuestas registradas: **4311**  ($232,292,662 en total)
 - Resueltas: **4208** — 2567 ganadas / 1641 perdidas (**61%** de acierto)
 - Pendientes: 85
 - Apostadores distintos: 507
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | taylorsversion | Cowboys vs. Texans | Texans | 1.72 (58¢) | $27,840 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.92 (52¢) | $100,000 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.89 (53¢) | $145,247 | — | ⏳ Pendiente |
 | Baronen11 | Colts vs. Commanders | Colts | 1.19 (84¢) | $27,777 | — | ⏳ Pendiente |
 | Elaran1993 | Cowboys vs. Texans | Texans | 1.72 (58¢) | $99,760 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.92 (52¢) | $50,000 | — | ⏳ Pendiente |
