@@ -65800,5 +65800,50 @@
     "status": "pending",
     "ultimo_fill": 1791145354,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8866,
+    "timestamp": 1791145455,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-mia-min-2026-10-04",
+    "title": "Dolphins vs. Vikings",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 170653.7105,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1791145455,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8867,
+    "timestamp": 1791145471,
+    "username": "177-letsgo",
+    "wallet": "0x7a75a4183e577123db9ff0adff520561ef95d288",
+    "slug": "nfl-lac-sea-2026-10-04",
+    "title": "Chargers vs. Seahawks",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 69750.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1791145471,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8868,
+    "timestamp": 1791145471,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "nfl-kc-lv-2026-10-04-spread-away-4pt5",
+    "title": "Spread: Chiefs (-4.5)",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 26000.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1791145471,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 15:22:56 (hora de Perú)
+Actualizado: 2026-10-04 15:24:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4378**  ($236,302,618 en total)
+- Apuestas registradas: **4381**  ($236,569,021 en total)
 - Resueltas: **4261** — 2599 ganadas / 1662 perdidas (**61%** de acierto)
-- Pendientes: 99
+- Pendientes: 102
 - Apostadores distintos: 507
 
 ### Balance
@@ -32,12 +32,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Diabolical-Prize | 49 | 49 | 0 | 50% | $4,930,148 | -$316,593 |
+| Diabolical-Prize | 49 | 49 | 1 | 50% | $4,956,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 53 | 32 | 5 | 62% | $3,654,857 | -$440,705 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
+| ethanaz | 38 | 16 | 3 | 70% | $3,399,366 | -$150,022 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ethanaz | 38 | 16 | 2 | 70% | $3,228,713 | -$150,022 |
 | SmartPredictOrNot | 4 | 4 | 2 | 50% | $2,912,909 | -$407,768 |
 | surfandturf | 25 | 5 | 0 | 83% | $2,758,747 | +$509,463 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 177-letsgo | Chargers vs. Seahawks | Seahawks | 1.33 (75¢) | $69,750 | — | ⏳ Pendiente |
+| Diabolical-Prize | Spread: Chiefs (-4.5) | Chiefs | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| ethanaz | Dolphins vs. Vikings | Vikings | 1.20 (83¢) | $170,654 | — | ⏳ Pendiente |
 | ndb1 | Dolphins vs. Vikings | Vikings | 1.20 (83¢) | $45,374 | — | ⏳ Pendiente |
 | gmpm2 | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $77,100 | — | ⏳ Pendiente |
 | BoggsFromShawshank | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $45,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | crispychook99 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $51,840 | +$20,160 | ✅ Ganada |
 | takeormake | Spread: Bengals (-2.5) | Jaguars | 2.00 (50¢) | $79,562 | — | ⏳ Pendiente |
 | takeormake | Jaguars vs. Bengals | Jaguars | 2.27 (44¢) | $88,357 | — | ⏳ Pendiente |
-| bands1 | Rams vs. Eagles | Rams | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
-| Donkey14 | Jets vs. Bears | Bears | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
-| primm | Rams vs. Eagles | Rams | 1.59 (63¢) | $50,400 | — | ⏳ Pendiente |
