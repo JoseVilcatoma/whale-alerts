@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 10:45:50 (hora de Perú)
+Actualizado: 2026-10-04 10:48:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4305**  ($231,913,397 en total)
+- Apuestas registradas: **4308**  ($232,091,797 en total)
 - Resueltas: **4208** — 2567 ganadas / 1641 perdidas (**61%** de acierto)
-- Pendientes: 79
+- Pendientes: 82
 - Apostadores distintos: 506
 
 ### Balance
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elaran1993 | Cowboys vs. Texans | Texans | 1.72 (58¢) | $99,760 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.92 (52¢) | $50,000 | — | ⏳ Pendiente |
+| eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.37 (73¢) | $28,641 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Nemiga | 2.04 (49¢) | $46,501 | — | ⏳ Pendiente |
 | sulumos | Colts vs. Commanders | Colts | 1.15 (87¢) | $66,555 | — | ⏳ Pendiente |
 | TKD44 | Spread: Rams (-3.5) | Eagles | 1.96 (51¢) | $46,779 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | monkeymashingkeyboard | Spread: Bears (-3.5) | Jets | 2.00 (50¢) | $36,688 | — | ⏳ Pendiente |
 | BrotherObama | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Spread: Colts (-4.5) | Commanders | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
-| liquiditycrisis | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $127,689 | — | ⏳ Pendiente |
-| gmpm2 | Patriots vs. Bills | Bills | 1.37 (73¢) | $73,000 | — | ⏳ Pendiente |
-| Kch-Temp | Rams vs. Eagles | Eagles | 2.70 (37¢) | $55,980 | — | ⏳ Pendiente |
