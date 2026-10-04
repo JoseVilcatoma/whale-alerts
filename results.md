@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 14:10:17 (hora de Perú)
+Actualizado: 2026-10-04 14:12:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4351**  ($234,716,767 en total)
+- Apuestas registradas: **4352**  ($234,773,525 en total)
 - Resueltas: **4240** — 2584 ganadas / 1656 perdidas (**61%** de acierto)
-- Pendientes: 93
+- Pendientes: 94
 - Apostadores distintos: 507
 
 ### Balance
@@ -60,8 +60,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | texaskid | 13 | 11 | 2 | 54% | $1,413,575 | -$3,953 |
+| mooseborzoii | 13 | 5 | 8 | 72% | $1,407,304 | +$265,321 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
-| mooseborzoii | 13 | 5 | 7 | 72% | $1,350,546 | +$265,321 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $56,758 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jaguars vs. Bengals | Jaguars | 1.37 (73¢) | $30,953 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Rams vs. Eagles | Eagles | 1.47 (68¢) | $69,831 | — | ⏳ Pendiente |
 | KaneAnalytics | Cardinals vs. Giants | Cardinals | 2.33 (43¢) | $27,876 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Jsram | Spread: Packers (-3.5) | Buccaneers | 1.79 (56¢) | $30,348 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Texans (-2.5) | Cowboys | 2.08 (48¢) | $42,960 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Commanders | Colts | 1.20 (83¢) | $83,652 | +$17,134 | ✅ Ganada |
-| liquiditycrisis | Patriots vs. Bills | Bills | 1.35 (74¢) | $43,660 | — | ⏳ Pendiente |
