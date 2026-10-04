@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 08:36:16 (hora de Perú)
+Actualizado: 2026-10-04 08:38:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4260**  ($229,504,245 en total)
+- Apuestas registradas: **4261**  ($229,557,245 en total)
 - Resueltas: **4195** — 2560 ganadas / 1635 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 505
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| eschaworldchampion2026 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | Tiger200 | Spread: Colts (-4.5) | Colts | 1.96 (51¢) | $133,248 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Colts (-4.5) | Commanders | 2.04 (49¢) | $38,528 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Commanders | Colts | 1.49 (67¢) | $62,657 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | monkeymashingkeyboard | Cardinals vs. Giants | Cardinals | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawaii | 1.75 (57¢) | $35,158 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $35,158 | -$35,158 | ❌ Perdida |
-| primm | San Jose State vs. Hawai'i | San Jose State | 2.33 (43¢) | $55,208 | +$73,182 | ✅ Ganada |
