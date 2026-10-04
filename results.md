@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 19:32:51 (hora de Perú)
+Actualizado: 2026-10-03 19:34:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4180**  ($225,577,686 en total)
+- Apuestas registradas: **4181**  ($225,612,873 en total)
 - Resueltas: **4133** — 2522 ganadas / 1611 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 500
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | BYU vs. TCU | BYU | 1.67 (60¢) | $35,188 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Diego Padres vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.82 (55¢) | $34,951 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Arkansas State vs. Louisiana | Louisiana | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Washington vs. USC | USC | 1.30 (77¢) | $97,609 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | AGUGava | Croatia vs. England: O/U 3.5 | Under 3.5 | 1.54 (65¢) | $26,489 | -$26,489 | ❌ Perdida |
 | Zzzz87 | Will Belarus win on 2026-10-03? | Yes | 1.09 (92¢) | $25,507 | +$2,218 | ✅ Ganada |
 | 0x2f98…bd4c | Alabama vs. Mississippi State | Mississippi State | 2.94 (34¢) | $38,857 | -$38,857 | ❌ Perdida |
-| mooseborzoii | Spread: Houston (-10.5) | Houston | 2.13 (47¢) | $54,060 | -$54,060 | ❌ Perdida |
