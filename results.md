@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 20:51:55 (hora de Perú)
+Actualizado: 2026-10-03 20:53:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4188**  ($225,927,623 en total)
+- Apuestas registradas: **4190**  ($225,985,386 en total)
 - Resueltas: **4138** — 2525 ganadas / 1613 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 34
 - Apostadores distintos: 501
 
 ### Balance
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 305 | 156 | 7 | 66% | $29,738,733 | +$1,146,700 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 305 | 156 | 8 | 66% | $29,771,358 | +$1,146,700 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| Sassy-Bucket | 55 | 49 | 5 | 53% | $5,880,646 | -$605,503 |
+| Sassy-Bucket | 55 | 49 | 6 | 53% | $5,905,784 | -$605,503 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $25,138 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.17 (46¢) | $32,625 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 1.85 (54¢) | $38,857 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0xCa4e92ce46D71a9FAd74805470A84EE3D576f97E-1764958694511 | UFC 332: Deiveson Figueiredo vs. Payton Talbott (Bantamweight, Main Card) | Payton Talbott | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | primm | Spread: Tennessee (-6.5) | Auburn | 1.92 (52¢) | $31,574 | -$31,574 | ❌ Perdida |
 | primm | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $76,306 | +$76,306 | ✅ Ganada |
 | justwins | Spread: Georgia State (-2.5) | Old Dominion | 2.00 (50¢) | $30,833 | -$30,833 | ❌ Perdida |
-| ukowna | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $58,640 | +$4,414 | ✅ Ganada |
-| BrotherObama | Spread: Florida (-5.5) | Florida | 1.92 (52¢) | $36,068 | -$36,068 | ❌ Perdida |
