@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 04:32:27 (hora de Perú)
+Actualizado: 2026-10-04 04:34:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4229**  ($227,969,044 en total)
-- Resueltas: **4187** — 2556 ganadas / 1631 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **4188** — 2556 ganadas / 1632 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 504
 
 ### Balance
 
-- **Resultado de los apostadores: -$567,901** sobre $226,334,144 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,021** sobre $413,000 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$603,520** sobre $226,369,763 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,121** sobre $413,100 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 504 en total)_
 | omnibus-076daa | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.22 (45¢) | $30,515 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Team Falcons | 1.67 (60¢) | $31,244 | — | ⏳ Pendiente |
 | fantasy7788 | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.27 (44¢) | $50,000 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Wuning 3: Yuta Kikuchi vs Kosuke Ogura | Kosuke Ogura | 1.72 (58¢) | $35,619 | — | ⏳ Pendiente |
+| kdvlklkvlsklkfs | Wuning 3: Yuta Kikuchi vs Kosuke Ogura | Kosuke Ogura | 1.72 (58¢) | $35,619 | -$35,619 | ❌ Perdida |
 | Tontis | Wuning 3: Ryuki Matsuda vs Sergey Betov | Ryuki Matsuda | 1.10 (91¢) | $77,350 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Blake Bayldon vs Taisei Ichikawa | Blake Bayldon | 5.26 (19¢) | $26,513 | +$113,027 | ✅ Ganada |
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.92 (52¢) | $34,304 | — | ⏳ Pendiente |
