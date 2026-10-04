@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 17:23:39 (hora de Perú)
+Actualizado: 2026-10-04 17:25:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4416**  ($239,069,818 en total)
-- Resueltas: **4318** — 2628 ganadas / 1690 perdidas (**61%** de acierto)
-- Pendientes: 80
+- Resueltas: **4319** — 2628 ganadas / 1691 perdidas (**61%** de acierto)
+- Pendientes: 79
 - Apostadores distintos: 508
 
 ### Balance
 
-- **Resultado de los apostadores: -$708,581** sobre $232,449,834 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,871** sobre $426,100 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$734,938** sobre $232,476,190 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,971** sobre $426,200 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 315 | 162 | 9 | 66% | $30,779,272 | +$1,223,028 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 315 | 163 | 8 | 66% | $30,779,272 | +$1,196,671 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 59 | 53 | 4 | 53% | $6,384,205 | -$603,319 |
