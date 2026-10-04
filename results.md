@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 20:47:52 (hora de Perú)
+Actualizado: 2026-10-03 20:49:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4187**  ($225,888,766 en total)
+- Apuestas registradas: **4188**  ($225,927,623 en total)
 - Resueltas: **4138** — 2525 ganadas / 1613 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 501
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 305 | 156 | 6 | 66% | $29,699,876 | +$1,146,700 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 305 | 156 | 7 | 66% | $29,738,733 | +$1,146,700 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 1.85 (54¢) | $38,857 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0xCa4e92ce46D71a9FAd74805470A84EE3D576f97E-1764958694511 | UFC 332: Deiveson Figueiredo vs. Payton Talbott (Bantamweight, Main Card) | Payton Talbott | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-3.5) | Buccaneers | 1.82 (55¢) | $27,430 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | justwins | Spread: Georgia State (-2.5) | Old Dominion | 2.00 (50¢) | $30,833 | -$30,833 | ❌ Perdida |
 | ukowna | Will Spain win on 2026-10-03? | Yes | 1.08 (93¢) | $58,640 | +$4,414 | ✅ Ganada |
 | BrotherObama | Spread: Florida (-5.5) | Florida | 1.92 (52¢) | $36,068 | -$36,068 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $33,717 | +$17,369 | ✅ Ganada |
