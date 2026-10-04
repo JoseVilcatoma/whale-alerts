@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 10:07:48 (hora de Perú)
+Actualizado: 2026-10-04 10:09:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4293**  ($231,198,142 en total)
+- Apuestas registradas: **4294**  ($231,272,187 en total)
 - Resueltas: **4208** — 2567 ganadas / 1641 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Pendientes: 68
 - Apostadores distintos: 506
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 48 | 48 | 0 | 50% | $4,834,418 | -$320,363 |
 | BrotherObama | 32 | 36 | 5 | 47% | $3,346,447 | +$83,327 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ferrariChampions2026 | 48 | 32 | 1 | 60% | $3,239,848 | -$512,786 |
+| ferrariChampions2026 | 48 | 32 | 1 | 60% | $3,270,933 | -$512,786 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
 | surfandturf | 24 | 4 | 2 | 86% | $2,758,747 | +$522,787 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | texaskid | 13 | 11 | 1 | 54% | $1,321,935 | -$3,953 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
+| mooseborzoii | 12 | 3 | 8 | 80% | $1,272,066 | +$268,684 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
-| S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
 _(mostrando los 40 de mayor monto, de 506 en total)_
 
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ferrariChampions2026 | Colts vs. Commanders | Colts | 1.20 (83¢) | $52,567 | — | ⏳ Pendiente |
+| mooseborzoii | Spread: Texans (-2.5) | Cowboys | 2.08 (48¢) | $42,960 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colts vs. Commanders | Colts | 1.20 (83¢) | $83,652 | — | ⏳ Pendiente |
 | liquiditycrisis | Patriots vs. Bills | Bills | 1.35 (74¢) | $43,660 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: Bills (-6.5) | Bills | 1.89 (53¢) | $45,474 | — | ⏳ Pendiente |
 | primm | Chiefs vs. Raiders | Chiefs | 1.49 (67¢) | $32,334 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $28,700 | -$28,700 | ❌ Perdida |
 | Diabolical-Prize | LoL: Team WE vs HANJIN BRION - Game 1 Winner | Team WE | 1.96 (51¢) | $42,482 | +$40,816 | ✅ Ganada |
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $29,282 | +$24,943 | ✅ Ganada |
-| fantasy7788 | LoL: Team WE vs HANJIN BRION - Game 1 Winner | HANJIN BRION | 1.96 (51¢) | $27,389 | -$27,389 | ❌ Perdida |

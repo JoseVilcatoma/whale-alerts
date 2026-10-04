@@ -64520,10 +64520,25 @@
     "title": "Colts vs. Commanders",
     "outcome": "Colts",
     "side": "BUY",
-    "usd": 52567.3196,
+    "usd": 83652.31360000001,
     "odds_at_bet": 83,
     "status": "pending",
-    "ultimo_fill": 1791126443,
+    "ultimo_fill": 1791126526,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 8727,
+    "timestamp": 1791126569,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-dal-hou-2026-10-04-spread-home-2pt5",
+    "title": "Spread: Texans (-2.5)",
+    "outcome": "Cowboys",
+    "side": "BUY",
+    "usd": 42960.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1791126569,
     "fills": 1
   }
 ]
