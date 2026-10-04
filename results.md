@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 08:25:58 (hora de Perú)
+Actualizado: 2026-10-04 08:28:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4255**  ($229,190,799 en total)
+- Apuestas registradas: **4257**  ($229,269,812 en total)
 - Resueltas: **4195** — 2560 ganadas / 1635 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 44
 - Apostadores distintos: 505
 
 ### Balance
@@ -35,10 +35,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 47 | 45 | 4 | 51% | $4,834,418 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| BrotherObama | 32 | 36 | 3 | 47% | $3,236,447 | +$83,327 |
+| BrotherObama | 32 | 36 | 4 | 47% | $3,276,447 | +$83,327 |
 | ferrariChampions2026 | 48 | 32 | 0 | 60% | $3,187,281 | -$512,786 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
-| surfandturf | 24 | 4 | 0 | 86% | $2,681,202 | +$522,787 |
+| surfandturf | 24 | 4 | 1 | 86% | $2,720,215 | +$522,787 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $39,012 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Colts (-4.5) | Colts | 1.96 (51¢) | $40,000 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Colts (-5.5) | Commanders | 1.92 (52¢) | $33,528 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $26,410 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Buccaneers | Buccaneers | 2.50 (40¢) | $47,293 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | Sassy-Bucket | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $28,261 | -$28,261 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.72 (58¢) | $28,594 | +$20,706 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.44 (41¢) | $39,806 | -$39,806 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.41 (71¢) | $205,900 | +$84,100 | ✅ Ganada |
-| ferrariChampions2026 | Washington vs. USC | USC | 1.35 (74¢) | $154,969 | +$54,448 | ✅ Ganada |
