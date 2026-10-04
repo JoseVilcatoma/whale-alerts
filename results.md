@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 10:43:48 (hora de Perú)
+Actualizado: 2026-10-04 10:45:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4303**  ($231,800,341 en total)
+- Apuestas registradas: **4305**  ($231,913,397 en total)
 - Resueltas: **4208** — 2567 ganadas / 1641 perdidas (**61%** de acierto)
-- Pendientes: 77
+- Pendientes: 79
 - Apostadores distintos: 506
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Nemiga | 2.04 (49¢) | $46,501 | — | ⏳ Pendiente |
+| sulumos | Colts vs. Commanders | Colts | 1.15 (87¢) | $66,555 | — | ⏳ Pendiente |
 | TKD44 | Spread: Rams (-3.5) | Eagles | 1.96 (51¢) | $46,779 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Nemiga | 2.04 (49¢) | $90,835 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | liquiditycrisis | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $127,689 | — | ⏳ Pendiente |
 | gmpm2 | Patriots vs. Bills | Bills | 1.37 (73¢) | $73,000 | — | ⏳ Pendiente |
 | Kch-Temp | Rams vs. Eagles | Eagles | 2.70 (37¢) | $55,980 | — | ⏳ Pendiente |
-| gmpm2 | Spread: Rams (-3.5) | Rams | 2.04 (49¢) | $83,716 | — | ⏳ Pendiente |
-| BillyGating | China Open: Alexander Zverev vs Novak Djokovic | Novak Djokovic | 2.56 (39¢) | $78,093 | +$122,146 | ✅ Ganada |

@@ -64675,5 +64675,35 @@
     "status": "pending",
     "ultimo_fill": 1791128594,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8737,
+    "timestamp": 1791128646,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "nfl-ind-was-2026-10-04",
+    "title": "Colts vs. Commanders",
+    "outcome": "Colts",
+    "side": "BUY",
+    "usd": 66555.0,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1791128646,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8738,
+    "timestamp": 1791128689,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-nemi1-ast10-2026-10-04",
+    "title": "Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "usd": 46500.716665,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791128689,
+    "fills": 1
   }
 ]
