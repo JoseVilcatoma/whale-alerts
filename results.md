@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 19:18:20 (hora de Perú)
+Actualizado: 2026-10-03 19:20:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4179**  ($225,542,735 en total)
+- Apuestas registradas: **4180**  ($225,577,686 en total)
 - Resueltas: **4133** — 2522 ganadas / 1611 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 500
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| Sassy-Bucket | 55 | 49 | 4 | 53% | $5,845,695 | -$605,503 |
+| Sassy-Bucket | 55 | 49 | 5 | 53% | $5,880,646 | -$605,503 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | San Diego Padres vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.82 (55¢) | $34,951 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Arkansas State vs. Louisiana | Louisiana | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Washington vs. USC | USC | 1.30 (77¢) | $97,609 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.39 (72¢) | $74,713 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | Zzzz87 | Will Belarus win on 2026-10-03? | Yes | 1.09 (92¢) | $25,507 | +$2,218 | ✅ Ganada |
 | 0x2f98…bd4c | Alabama vs. Mississippi State | Mississippi State | 2.94 (34¢) | $38,857 | -$38,857 | ❌ Perdida |
 | mooseborzoii | Spread: Houston (-10.5) | Houston | 2.13 (47¢) | $54,060 | -$54,060 | ❌ Perdida |
-| juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.69 (59¢) | $65,364 | +$45,422 | ✅ Ganada |
