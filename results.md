@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 15:16:42 (hora de Perú)
+Actualizado: 2026-10-04 15:18:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4370**  ($235,937,003 en total)
-- Resueltas: **4254** — 2593 ganadas / 1661 perdidas (**61%** de acierto)
-- Pendientes: 98
+- Apuestas registradas: **4372**  ($236,026,118 en total)
+- Resueltas: **4261** — 2599 ganadas / 1662 perdidas (**61%** de acierto)
+- Pendientes: 93
 - Apostadores distintos: 507
 
 ### Balance
 
-- **Resultado de los apostadores: -$718,065** sobre $229,375,326 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,743** sobre $419,700 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$643,305** sobre $229,625,034 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,480** sobre $420,400 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 160 | 12 | 66% | $30,597,721 | +$1,202,498 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 160 | 13 | 66% | $30,651,876 | +$1,202,498 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 59 | 53 | 1 | 53% | $6,250,359 | -$603,319 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 49 | 0 | 50% | $4,930,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 51 | 32 | 7 | 61% | $3,654,857 | -$482,986 |
+| ferrariChampions2026 | 53 | 32 | 5 | 62% | $3,654,857 | -$440,705 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ethanaz | 38 | 16 | 2 | 70% | $3,228,713 | -$150,022 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 25 | 5 | 0 | 83% | $2,758,747 | +$509,463 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| maz26 | 17 | 12 | 8 | 59% | $2,436,285 | -$223,663 |
+| maz26 | 19 | 13 | 5 | 59% | $2,436,285 | -$230,527 |
 | Lakersfan111 | 32 | 19 | 0 | 63% | $2,306,537 | +$104,902 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raiders (-3.5) | Chiefs | 1.25 (80¢) | $54,155 | — | ⏳ Pendiente |
+| YEEES-but-why | Spread: Seahawks (-7.5) | Seahawks | 2.17 (46¢) | $34,960 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $121,314 | — | ⏳ Pendiente |
 | YEEES-but-why | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $74,400 | — | ⏳ Pendiente |
 | gmpm2 | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $302,850 | — | ⏳ Pendiente |
@@ -108,8 +110,8 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | kkookkoo | Rams vs. Eagles | Rams | 1.69 (59¢) | $29,534 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Will Portugal win on 2026-10-04? | Yes | 1.72 (58¢) | $128,563 | — | ⏳ Pendiente |
 | gambamaster | Cardinals vs. Giants | Giants | 1.59 (63¢) | $30,314 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | +$21,141 | ✅ Ganada |
+| ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | +$21,141 | ✅ Ganada |
 | Tiger200 | Spread: Bears (-3.5) | Jets | 1.96 (51¢) | $55,714 | -$55,714 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-3.5) | Bills | 1.61 (62¢) | $31,811 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-6.5) | Patriots | 2.13 (47¢) | $107,948 | — | ⏳ Pendiente |
@@ -121,13 +123,11 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | takeormake | Spread: Bengals (-2.5) | Jaguars | 2.00 (50¢) | $79,562 | — | ⏳ Pendiente |
 | takeormake | Jaguars vs. Bengals | Jaguars | 2.27 (44¢) | $88,357 | — | ⏳ Pendiente |
 | bands1 | Rams vs. Eagles | Rams | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
-| Donkey14 | Jets vs. Bears | Bears | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
+| Donkey14 | Jets vs. Bears | Bears | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | primm | Rams vs. Eagles | Rams | 1.59 (63¢) | $50,400 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: VIT (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.85 (54¢) | $53,730 | +$45,770 | ✅ Ganada |
 | eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $29,592 | +$11,508 | ✅ Ganada |
-| gmpm2 | Packers vs. Buccaneers | Packers | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
+| gmpm2 | Packers vs. Buccaneers | Packers | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $25,508 | +$9,920 | ✅ Ganada |
 | wan123 | Cowboys vs. Texans | Texans | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | texaskid | Cowboys vs. Texans | Texans | 1.72 (58¢) | $91,640 | — | ⏳ Pendiente |
-| COMEONDUDE | Spread: Texans (-2.5) | Texans | 1.92 (52¢) | $107,640 | — | ⏳ Pendiente |
-| taylorsversion | Cowboys vs. Texans | Texans | 1.72 (58¢) | $27,840 | — | ⏳ Pendiente |
