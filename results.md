@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 22:29:10 (hora de Perú)
+Actualizado: 2026-10-03 22:31:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4199**  ($226,737,943 en total)
-- Resueltas: **4161** — 2541 ganadas / 1620 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **4171** — 2548 ganadas / 1623 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 501
 
 ### Balance
 
-- **Resultado de los apostadores: -$765,025** sobre $224,847,245 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,998** sobre $410,400 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$573,289** sobre $225,692,606 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,980** sobre $411,400 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 307 | 156 | 9 | 66% | $30,045,658 | +$1,187,327 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 310 | 159 | 3 | 66% | $30,045,658 | +$1,209,899 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | BrotherObama | 32 | 36 | 2 | 47% | $3,206,447 | +$83,327 |
-| ferrariChampions2026 | 47 | 32 | 1 | 59% | $3,187,281 | -$567,234 |
+| ferrariChampions2026 | 48 | 32 | 0 | 60% | $3,187,281 | -$512,786 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
 | surfandturf | 24 | 2 | 2 | 92% | $2,681,202 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,29 +71,29 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.72 (58¢) | $28,594 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.44 (41¢) | $39,806 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.41 (71¢) | $205,900 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Washington vs. USC | USC | 1.35 (74¢) | $154,969 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.72 (58¢) | $28,594 | +$20,706 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.44 (41¢) | $39,806 | -$39,806 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.41 (71¢) | $205,900 | +$84,100 | ✅ Ganada |
+| ferrariChampions2026 | Washington vs. USC | USC | 1.35 (74¢) | $154,969 | +$54,448 | ✅ Ganada |
 | surfandturf | Texas State vs. San Diego State | Texas State | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $195,000 | +$105,000 | ✅ Ganada |
 | surfandturf | Texas State vs. San Diego State | Texas State | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | kkookkoo | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.43 (70¢) | $26,000 | — | ⏳ Pendiente |
 | gmpm2 | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Wang Cong | 2.86 (35¢) | $26,788 | -$26,788 | ❌ Perdida |
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $25,138 | +$13,536 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.17 (46¢) | $32,625 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 1.85 (54¢) | $38,857 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.17 (46¢) | $32,625 | -$32,625 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 1.85 (54¢) | $38,857 | -$38,857 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0xCa4e92ce46D71a9FAd74805470A84EE3D576f97E-1764958694511 | UFC 332: Deiveson Figueiredo vs. Payton Talbott (Bantamweight, Main Card) | Payton Talbott | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-3.5) | Buccaneers | 1.82 (55¢) | $27,430 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $25,175 | — | ⏳ Pendiente |
-| mooseborzoii | Washington vs. USC | USC | 1.52 (66¢) | $30,969 | — | ⏳ Pendiente |
-| mooseborzoii | Washington vs. USC | USC | 1.49 (67¢) | $141,318 | — | ⏳ Pendiente |
+| mooseborzoii | Washington vs. USC | USC | 1.52 (66¢) | $30,969 | +$15,954 | ✅ Ganada |
+| mooseborzoii | Washington vs. USC | USC | 1.49 (67¢) | $141,318 | +$69,605 | ✅ Ganada |
 | 3648393489047 | BYU vs. TCU | BYU | 1.67 (60¢) | $35,188 | +$23,458 | ✅ Ganada |
 | Sassy-Bucket | San Diego Padres vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.82 (55¢) | $34,951 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Arkansas State vs. Louisiana | Louisiana | 1.52 (66¢) | $50,000 | +$25,758 | ✅ Ganada |
-| TAIWANNUMBERONE | Washington vs. USC | USC | 1.30 (77¢) | $97,609 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.39 (72¢) | $74,713 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Washington vs. USC | USC | 1.30 (77¢) | $97,609 | +$29,156 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.39 (72¢) | $74,713 | +$29,055 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Texas Tech vs. Colorado | Texas Tech | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas Tech vs. Colorado | Texas Tech | 1.30 (77¢) | $30,800 | +$9,200 | ✅ Ganada |
 | Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $55,699 | -$55,699 | ❌ Perdida |
