@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 15:41:42 (hora de Perú)
+Actualizado: 2026-10-04 15:43:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4387**  ($236,869,917 en total)
-- Resueltas: **4279** — 2607 ganadas / 1672 perdidas (**61%** de acierto)
-- Pendientes: 90
+- Apuestas registradas: **4389**  ($236,944,457 en total)
+- Resueltas: **4286** — 2608 ganadas / 1678 perdidas (**61%** de acierto)
+- Pendientes: 85
 - Apostadores distintos: 507
 
 ### Balance
 
-- **Resultado de los apostadores: -$807,174** sobre $230,387,463 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,858** sobre $422,200 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$1,064,505** sobre $230,732,331 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,320** sobre $422,900 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,9 +34,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 49 | 1 | 50% | $4,956,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 54 | 33 | 5 | 62% | $3,735,445 | -$439,673 |
+| ferrariChampions2026 | 54 | 34 | 4 | 61% | $3,735,445 | -$469,155 |
+| ethanaz | 38 | 17 | 3 | 69% | $3,430,405 | -$178,370 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
-| ethanaz | 38 | 17 | 2 | 69% | $3,399,366 | -$178,370 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | SmartPredictOrNot | 4 | 4 | 2 | 50% | $2,912,909 | -$407,768 |
 | surfandturf | 25 | 5 | 0 | 83% | $2,758,747 | +$509,463 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 32 | 19 | 0 | 63% | $2,306,537 | +$104,902 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
-| Kch-Temp | 26 | 8 | 4 | 76% | $2,220,597 | +$1,101,302 |
+| Kch-Temp | 27 | 8 | 3 | 77% | $2,220,597 | +$1,152,073 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | mooseborzoii | 15 | 5 | 7 | 75% | $1,483,841 | +$396,653 |
-| texaskid | 13 | 11 | 3 | 54% | $1,447,575 | -$3,953 |
+| texaskid | 13 | 12 | 2 | 52% | $1,447,575 | -$95,593 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | ndb1 | 16 | 7 | 2 | 70% | $1,326,575 | +$353,567 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Raiders | Raiders | 2.00 (50¢) | $43,501 | — | ⏳ Pendiente |
+| ethanaz | Broncos vs. 49ers | Broncos | 2.44 (41¢) | $31,039 | — | ⏳ Pendiente |
 | Nooserac | Dolphins vs. Vikings | Vikings | 1.19 (84¢) | $25,519 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chiefs vs. Raiders | Chiefs | 2.04 (49¢) | $51,019 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Raiders | Raiders | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
@@ -102,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Patriots vs. Bills | Bills | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | ferrariChampions2026 | Patriots vs. Bills | Patriots | 2.08 (48¢) | $25,031 | +$27,117 | ✅ Ganada |
 | ethanaz | Patriots vs. Bills | Bills | 1.92 (52¢) | $28,348 | -$28,348 | ❌ Perdida |
-| ferrariChampions2026 | Cowboys vs. Texans | Texans | 1.89 (53¢) | $29,482 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cowboys vs. Texans | Texans | 1.89 (53¢) | $29,482 | -$29,482 | ❌ Perdida |
 | DaWinci | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $33,997 | — | ⏳ Pendiente |
 | timezonewarrior | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $98,600 | — | ⏳ Pendiente |
 | texaskid | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | +$21,141 | ✅ Ganada |
 | Tiger200 | Spread: Bears (-3.5) | Jets | 1.96 (51¢) | $55,714 | -$55,714 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-3.5) | Bills | 1.61 (62¢) | $31,811 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-6.5) | Patriots | 2.13 (47¢) | $107,948 | — | ⏳ Pendiente |
-| NS13 | Counter-Strike: BetBoom Team vs M80 (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.43 (70¢) | $37,164 | +$15,927 | ✅ Ganada |
