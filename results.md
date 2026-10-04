@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 09:07:09 (hora de Perú)
+Actualizado: 2026-10-04 09:09:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4273**  ($230,019,188 en total)
+- Apuestas registradas: **4276**  ($230,280,524 en total)
 - Resueltas: **4200** — 2564 ganadas / 1636 perdidas (**61%** de acierto)
-- Pendientes: 55
-- Apostadores distintos: 505
+- Pendientes: 58
+- Apostadores distintos: 506
 
 ### Balance
 
@@ -46,9 +46,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
+| Kch-Temp | 26 | 8 | 2 | 76% | $2,158,381 | +$1,101,302 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
 | maz26 | 15 | 12 | 6 | 56% | $2,038,203 | -$279,699 |
-| Kch-Temp | 26 | 8 | 1 | 76% | $1,979,945 | +$1,101,302 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 505 en total)_
+_(mostrando los 40 de mayor monto, de 506 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Siddhartha1 | Spread: 49ers (-2.5) | Broncos | 2.13 (47¢) | $32,900 | — | ⏳ Pendiente |
+| Kch-Temp | Broncos vs. 49ers | 49ers | 1.72 (58¢) | $178,436 | — | ⏳ Pendiente |
+| Donkey14 | Spread: Bills (-6.5) | Patriots | 2.08 (48¢) | $50,000 | — | ⏳ Pendiente |
 | mooseborzoii | Titans vs. Ravens: O/U 41.5 | Over 41.5 | 1.89 (53¢) | $38,868 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.37 (73¢) | $56,280 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.04 (49¢) | $70,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | BTCGambler247 | Chiefs vs. Raiders | Chiefs | 1.49 (67¢) | $35,510 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: ShindeN vs Legacy (BO3) - ESL Pro League Group Stage | Legacy | 1.32 (76¢) | $28,911 | +$9,130 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Germany win on 2026-10-04? | Yes | 1.85 (54¢) | $30,450 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Wuning 3: Max Purcell vs Julien De Cuyper | Max Purcell | 1.11 (90¢) | $81,000 | +$9,000 | ✅ Ganada |
-| takeormake | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $39,999 | +$9,383 | ✅ Ganada |
-| omoi0i0 | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $91,107 | +$21,371 | ✅ Ganada |
