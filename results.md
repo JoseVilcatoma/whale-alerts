@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 17:19:28 (hora de Perú)
+Actualizado: 2026-10-04 17:21:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4415**  ($239,044,715 en total)
-- Resueltas: **4313** — 2625 ganadas / 1688 perdidas (**61%** de acierto)
-- Pendientes: 84
+- Apuestas registradas: **4416**  ($239,069,818 en total)
+- Resueltas: **4316** — 2627 ganadas / 1689 perdidas (**61%** de acierto)
+- Pendientes: 82
 - Apostadores distintos: 508
 
 ### Balance
 
-- **Resultado de los apostadores: -$867,564** sobre $232,115,851 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,992** sobre $425,600 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$737,143** sobre $232,319,272 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,871** sobre $425,900 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 314 | 162 | 10 | 66% | $30,779,272 | +$1,101,300 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 315 | 162 | 9 | 66% | $30,779,272 | +$1,223,028 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 59 | 53 | 4 | 53% | $6,384,205 | -$603,319 |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 2 | 93% | $1,673,116 | +$74,581 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
-| mooseborzoii | 18 | 5 | 5 | 78% | $1,560,661 | +$509,911 |
+| mooseborzoii | 18 | 5 | 6 | 78% | $1,585,765 | +$509,911 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | ndb1 | 16 | 7 | 4 | 70% | $1,492,602 | +$353,567 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 508 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $25,104 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs LYON (BO5) - LCS Playoffs | Team Liquid | 1.18 (85¢) | $38,885 | — | ⏳ Pendiente |
 | ndb1 | Spread: Seahawks (-7.5) | Seahawks | 1.22 (82¢) | $40,920 | — | ⏳ Pendiente |
 | 177-letsgo | Dolphins vs. Vikings | Vikings | 1.09 (92¢) | $59,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 508 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Patriots vs. Bills | Bills | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | ferrariChampions2026 | Patriots vs. Bills | Patriots | 2.08 (48¢) | $25,031 | +$27,117 | ✅ Ganada |
 | ethanaz | Patriots vs. Bills | Bills | 1.92 (52¢) | $28,348 | -$28,348 | ❌ Perdida |
-| ferrariChampions2026 | Cowboys vs. Texans | Texans | 1.89 (53¢) | $29,482 | -$29,482 | ❌ Perdida |
