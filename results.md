@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 11:27:10 (hora de Perú)
+Actualizado: 2026-10-04 11:29:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4325**  ($233,025,931 en total)
+- Apuestas registradas: **4326**  ($233,067,931 en total)
 - Resueltas: **4209** — 2567 ganadas / 1642 perdidas (**61%** de acierto)
-- Pendientes: 98
+- Pendientes: 99
 - Apostadores distintos: 507
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Diabolical-Prize | 48 | 48 | 1 | 50% | $4,888,148 | -$320,363 |
+| Diabolical-Prize | 48 | 48 | 2 | 50% | $4,930,148 | -$320,363 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 48 | 32 | 3 | 60% | $3,384,935 | -$512,786 |
 | BrotherObama | 32 | 36 | 5 | 47% | $3,346,447 | +$83,327 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 3.57 (28¢) | $42,000 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Cardinals (-2.5) | Giants | 1.96 (51¢) | $39,800 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $51,840 | — | ⏳ Pendiente |
 | takeormake | Spread: Bengals (-2.5) | Jaguars | 2.00 (50¢) | $79,562 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | viboomchuu | Utah vs. Rangers | Utah | 2.13 (47¢) | $27,710 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.08 (48¢) | $27,120 | — | ⏳ Pendiente |
 | TKD44 | Spread: Bears (-3.5) | Bears | 2.00 (50¢) | $26,100 | — | ⏳ Pendiente |
-| Donkey14 | Spread: Bears (-3.5) | Bears | 2.00 (50¢) | $26,100 | — | ⏳ Pendiente |
