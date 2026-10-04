@@ -64600,5 +64600,35 @@
     "status": "pending",
     "ultimo_fill": 1791127965,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8732,
+    "timestamp": 1791128039,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-ind-was-2026-10-04",
+    "title": "Colts vs. Commanders",
+    "outcome": "Colts",
+    "side": "BUY",
+    "usd": 54467.3604,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1791128039,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8733,
+    "timestamp": 1791128112,
+    "username": "alwaysfade",
+    "wallet": "0xe5b70fd855af9258d9463992e4f1ed7987905ee3",
+    "slug": "nfl-la-phi-2026-10-04",
+    "title": "Rams vs. Eagles",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 63000.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1791128112,
+    "fills": 1
   }
 ]

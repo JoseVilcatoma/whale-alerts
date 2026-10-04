@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 10:33:08 (hora de Perú)
+Actualizado: 2026-10-04 10:35:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4298**  ($231,445,259 en total)
+- Apuestas registradas: **4300**  ($231,562,726 en total)
 - Resueltas: **4208** — 2567 ganadas / 1641 perdidas (**61%** de acierto)
-- Pendientes: 72
+- Pendientes: 74
 - Apostadores distintos: 506
 
 ### Balance
@@ -34,8 +34,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 48 | 48 | 0 | 50% | $4,834,418 | -$320,363 |
+| ferrariChampions2026 | 48 | 32 | 3 | 60% | $3,384,935 | -$512,786 |
 | BrotherObama | 32 | 36 | 5 | 47% | $3,346,447 | +$83,327 |
-| ferrariChampions2026 | 48 | 32 | 2 | 60% | $3,330,467 | -$512,786 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
 | surfandturf | 24 | 4 | 2 | 86% | $2,758,747 | +$522,787 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| alwaysfade | Rams vs. Eagles | Rams | 1.59 (63¢) | $63,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colts vs. Commanders | Colts | 1.16 (86¢) | $54,467 | — | ⏳ Pendiente |
 | bigballaz | Colts vs. Commanders | Colts | 1.15 (87¢) | $32,190 | — | ⏳ Pendiente |
 | WanderingWombat | Spread: Bengals (-2.5) | Bengals | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Commanders | Colts | 1.06 (94¢) | $59,534 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | crispychook99 | Counter-Strike: G2 vs 1WIN (BO3) - ESL Pro League Group Stage | G2 | 1.35 (74¢) | $112,135 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global Invitational Group Stage | HANJIN BRION | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoii | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $66,000 | — | ⏳ Pendiente |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.38 (42¢) | $34,860 | -$34,860 | ❌ Perdida |
