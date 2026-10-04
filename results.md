@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 06:04:51 (hora de Perú)
+Actualizado: 2026-10-04 06:06:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4233**  ($228,106,653 en total)
-- Resueltas: **4189** — 2557 ganadas / 1632 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **4190** — 2558 ganadas / 1632 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 505
 
 ### Balance
 
-- **Resultado de los apostadores: -$594,520** sobre $226,450,763 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,110** sobre $413,200 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$586,870** sobre $226,528,113 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,100** sobre $413,300 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | lllllllIlll | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Team Falcons | 1.67 (60¢) | $31,244 | — | ⏳ Pendiente |
 | fantasy7788 | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.27 (44¢) | $50,000 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Wuning 3: Yuta Kikuchi vs Kosuke Ogura | Kosuke Ogura | 1.72 (58¢) | $35,619 | -$35,619 | ❌ Perdida |
-| Tontis | Wuning 3: Ryuki Matsuda vs Sergey Betov | Ryuki Matsuda | 1.10 (91¢) | $77,350 | — | ⏳ Pendiente |
+| Tontis | Wuning 3: Ryuki Matsuda vs Sergey Betov | Ryuki Matsuda | 1.10 (91¢) | $77,350 | +$7,650 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Blake Bayldon vs Taisei Ichikawa | Blake Bayldon | 5.26 (19¢) | $26,513 | +$113,027 | ✅ Ganada |
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.92 (52¢) | $34,304 | — | ⏳ Pendiente |
 | THEdirkdiggler | Spread: Vikings (-9.5) | Dolphins | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
