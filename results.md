@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 17:00:46 (hora de Perú)
+Actualizado: 2026-10-04 17:02:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4408**  ($238,720,630 en total)
+- Apuestas registradas: **4409**  ($238,753,366 en total)
 - Resueltas: **4305** — 2620 ganadas / 1685 perdidas (**61%** de acierto)
-- Pendientes: 85
+- Pendientes: 86
 - Apostadores distintos: 507
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 25 | 5 | 0 | 83% | $2,758,747 | +$509,463 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| maz26 | 20 | 14 | 4 | 59% | $2,513,385 | -$265,288 |
+| maz26 | 20 | 14 | 5 | 59% | $2,546,121 | -$265,288 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | Lakersfan111 | 32 | 19 | 0 | 63% | $2,306,537 | +$104,902 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Broncos vs. 49ers | 49ers | 1.61 (62¢) | $32,736 | — | ⏳ Pendiente |
 | YEEES-but-why | Dolphins vs. Vikings | Vikings | 1.12 (89¢) | $25,776 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: 49ers (-2.5) | 49ers | 1.79 (56¢) | $115,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Dolphins vs. Vikings | Vikings | 1.12 (89¢) | $44,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | mooseborzoii | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $94,116 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jaguars vs. Bengals | Jaguars | 1.37 (73¢) | $30,953 | +$11,448 | ✅ Ganada |
 | ferrariChampions2026 | Rams vs. Eagles | Eagles | 1.47 (68¢) | $69,831 | -$69,831 | ❌ Perdida |
-| KaneAnalytics | Cardinals vs. Giants | Cardinals | 2.33 (43¢) | $27,876 | -$27,876 | ❌ Perdida |
