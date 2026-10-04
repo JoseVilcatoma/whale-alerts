@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 08:13:45 (hora de Perú)
+Actualizado: 2026-10-04 08:15:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4252**  ($229,083,568 en total)
+- Apuestas registradas: **4253**  ($229,130,861 en total)
 - Resueltas: **4195** — 2560 ganadas / 1635 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 505
 
 ### Balance
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
 | Kch-Temp | 26 | 8 | 1 | 76% | $1,979,945 | +$1,101,302 |
-| maz26 | 15 | 12 | 4 | 56% | $1,928,253 | -$279,699 |
+| maz26 | 15 | 12 | 5 | 56% | $1,975,546 | -$279,699 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Packers vs. Buccaneers | Buccaneers | 2.50 (40¢) | $47,293 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Spread: Bears (-3.5) | Jets | 2.00 (50¢) | $36,688 | — | ⏳ Pendiente |
 | BrotherObama | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | ferrariChampions2026 | Washington vs. USC | USC | 1.35 (74¢) | $154,969 | +$54,448 | ✅ Ganada |
 | surfandturf | Texas State vs. San Diego State | Texas State | 1.33 (75¢) | $37,500 | -$37,500 | ❌ Perdida |
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $195,000 | +$105,000 | ✅ Ganada |
-| surfandturf | Texas State vs. San Diego State | Texas State | 1.32 (76¢) | $38,000 | -$38,000 | ❌ Perdida |
