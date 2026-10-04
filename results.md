@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 21:10:30 (hora de Perú)
+Actualizado: 2026-10-03 21:12:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4194**  ($226,271,174 en total)
-- Resueltas: **4139** — 2526 ganadas / 1613 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Resueltas: **4142** — 2528 ganadas / 1614 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 501
 
 ### Balance
 
-- **Resultado de los apostadores: -$966,481** sobre $223,783,607 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,324** sobre $408,200 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$923,229** sobre $223,876,219 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,207** sobre $408,500 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
-| Talvez10 | 16 | 14 | 2 | 53% | $1,526,555 | +$263,789 |
+| Talvez10 | 17 | 14 | 1 | 55% | $1,526,555 | +$300,483 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.23 (81¢) | $25,828 | +$6,058 | ✅ Ganada |
 | Sassy-Bucket | Kraken vs. Oilers | Oilers | 1.54 (65¢) | $76,619 | +$41,256 | ✅ Ganada |
 | BrotherObama | New York Yankees vs. Tampa Bay Rays | New York Yankees | 2.22 (45¢) | $106,065 | -$106,065 | ❌ Perdida |
-| Talvez10 | Senators vs. Maple Leafs | Senators | 2.04 (49¢) | $35,255 | — | ⏳ Pendiente |
+| Talvez10 | Senators vs. Maple Leafs | Senators | 2.04 (49¢) | $35,255 | +$36,694 | ✅ Ganada |
 | 177-letsgo | Auburn vs. Tennessee | Tennessee | 1.08 (93¢) | $35,741 | +$2,690 | ✅ Ganada |
 | 3648393489047 | Florida vs. Missouri | Missouri | 1.20 (83¢) | $46,111 | +$9,444 | ✅ Ganada |
 | lalalalalalallalalalala | Spread: USC (-7.5) | Washington | 1.89 (53¢) | $42,743 | — | ⏳ Pendiente |
