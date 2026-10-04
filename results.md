@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 22:58:09 (hora de Perú)
+Actualizado: 2026-10-03 23:00:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4204**  ($226,942,128 en total)
+- Apuestas registradas: **4206**  ($227,044,350 en total)
 - Resueltas: **4171** — 2548 ganadas / 1623 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 17
 - Apostadores distintos: 501
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $45,889 | — | ⏳ Pendiente |
+| btmx6 | Will Germany win on 2026-10-04? | No | 2.13 (47¢) | $56,333 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Cardinals vs. Giants | Cardinals | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawaii | 1.75 (57¢) | $35,158 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $35,158 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | eschaworldchampion2026 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
 | ethanaz | Florida vs. Missouri | Florida | 1.45 (69¢) | $78,772 | -$78,772 | ❌ Perdida |
 | mooseborzoii | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.52 (66¢) | $95,757 | +$49,329 | ✅ Ganada |
-| 177-letsgo | Ohio State vs. Iowa | Ohio State | 1.06 (94¢) | $25,872 | +$1,651 | ✅ Ganada |
-| Donkey14 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $40,606 | +$20,000 | ✅ Ganada |
