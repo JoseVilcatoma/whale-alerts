@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 11:10:53 (hora de Perú)
+Actualizado: 2026-10-04 11:12:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4318**  ($232,659,272 en total)
+- Apuestas registradas: **4321**  ($232,766,372 en total)
 - Resueltas: **4209** — 2567 ganadas / 1642 perdidas (**61%** de acierto)
-- Pendientes: 91
+- Pendientes: 94
 - Apostadores distintos: 507
 
 ### Balance
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bands1 | Rams vs. Eagles | Rams | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
+| Donkey14 | Jets vs. Bears | Bears | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
+| primm | Rams vs. Eagles | Rams | 1.59 (63¢) | $50,400 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: VIT (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.85 (54¢) | $53,730 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $29,592 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Buccaneers | Packers | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | mooseborzoii | Titans vs. Ravens: O/U 41.5 | Over 41.5 | 1.89 (53¢) | $36,368 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rams (-4.5) | Rams | 2.22 (45¢) | $26,356 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.08 (48¢) | $50,000 | — | ⏳ Pendiente |
-| eschaworldchampion2026 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
-| Tiger200 | Spread: Colts (-4.5) | Colts | 1.96 (51¢) | $133,248 | — | ⏳ Pendiente |
-| mooseborzoii | Spread: Colts (-4.5) | Commanders | 2.04 (49¢) | $38,528 | — | ⏳ Pendiente |
