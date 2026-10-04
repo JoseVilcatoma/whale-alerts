@@ -63415,5 +63415,20 @@
     "status": "pending",
     "ultimo_fill": 1791094595,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8624,
+    "timestamp": 1791096566,
+    "username": "THEdirkdiggler",
+    "wallet": "0x1e7792acc779a6af8304bd7991ff31d16d468c33",
+    "slug": "nfl-mia-min-2026-10-04-spread-home-9pt5",
+    "title": "Spread: Vikings (-9.5)",
+    "outcome": "Dolphins",
+    "side": "BUY",
+    "usd": 49000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791096566,
+    "fills": 1
   }
 ]

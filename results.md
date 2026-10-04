@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 01:48:18 (hora de Perú)
+Actualizado: 2026-10-04 01:50:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4219**  ($227,557,498 en total)
+- Apuestas registradas: **4220**  ($227,606,498 en total)
 - Resueltas: **4180** — 2552 ganadas / 1628 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 503
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 503 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| THEdirkdiggler | Spread: Vikings (-9.5) | Dolphins | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | BTCGambler247 | Chiefs vs. Raiders | Chiefs | 1.49 (67¢) | $35,510 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: ShindeN vs Legacy (BO3) - ESL Pro League Group Stage | Legacy | 1.32 (76¢) | $28,911 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Germany win on 2026-10-04? | Yes | 1.85 (54¢) | $30,450 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 503 en total)_
 | 177-letsgo | Auburn vs. Tennessee | Tennessee | 1.08 (93¢) | $35,741 | +$2,690 | ✅ Ganada |
 | 3648393489047 | Florida vs. Missouri | Missouri | 1.20 (83¢) | $46,111 | +$9,444 | ✅ Ganada |
 | lalalalalalallalalalala | Spread: USC (-7.5) | Washington | 1.89 (53¢) | $42,743 | +$37,904 | ✅ Ganada |
-| Sassy-Bucket | UFC 332: Johnny Walker vs. Mick Parkin (Heavyweight, Early Prelims) | Johnny Walker | 1.92 (52¢) | $58,864 | +$54,336 | ✅ Ganada |
