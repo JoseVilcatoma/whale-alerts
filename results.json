@@ -63385,5 +63385,20 @@
     "status": "pending",
     "ultimo_fill": 1791093340,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8618,
+    "timestamp": 1791093771,
+    "username": "Wiretransferxyz",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-shin-lgc-2026-10-04",
+    "title": "Counter-Strike: ShindeN vs Legacy (BO3) - ESL Pro League Group Stage",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 28911.122,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1791093771,
+    "fills": 1
   }
 ]

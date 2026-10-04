@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 01:02:22 (hora de Perú)
+Actualizado: 2026-10-04 01:04:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4217**  ($227,493,077 en total)
+- Apuestas registradas: **4218**  ($227,521,988 en total)
 - Resueltas: **4176** — 2550 ganadas / 1626 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 502
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 502 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Wiretransferxyz | Counter-Strike: ShindeN vs Legacy (BO3) - ESL Pro League Group Stage | Legacy | 1.32 (76¢) | $28,911 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Germany win on 2026-10-04? | Yes | 1.85 (54¢) | $30,450 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Wuning 3: Max Purcell vs Julien De Cuyper | Max Purcell | 1.11 (90¢) | $81,000 | — | ⏳ Pendiente |
 | takeormake | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $39,999 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 502 en total)_
 | lalalalalalallalalalala | Spread: USC (-7.5) | Washington | 1.89 (53¢) | $42,743 | +$37,904 | ✅ Ganada |
 | Sassy-Bucket | UFC 332: Johnny Walker vs. Mick Parkin (Heavyweight, Early Prelims) | Johnny Walker | 1.92 (52¢) | $58,864 | +$54,336 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.16 (86¢) | $455,800 | +$74,200 | ✅ Ganada |
-| mooseborzoii | Florida vs. Missouri | Missouri | 1.49 (67¢) | $26,270 | +$12,939 | ✅ Ganada |
