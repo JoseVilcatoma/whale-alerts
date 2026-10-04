@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 15:06:22 (hora de Perú)
+Actualizado: 2026-10-04 15:08:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4365**  ($235,356,784 en total)
+- Apuestas registradas: **4366**  ($235,390,939 en total)
 - Resueltas: **4248** — 2591 ganadas / 1657 perdidas (**61%** de acierto)
-- Pendientes: 99
+- Pendientes: 100
 - Apostadores distintos: 507
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | Cardinals vs. Giants | Cardinals | 1.56 (64¢) | $34,154 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Dolphins vs. Vikings | Dolphins | 5.88 (17¢) | $33,899 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Giants | Giants | 1.25 (80¢) | $40,000 | — | ⏳ Pendiente |
 | Kch-Temp | Dolphins vs. Vikings: O/U 38.5 | Over 38.5 | 1.96 (51¢) | $25,450 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Baronen11 | Colts vs. Commanders | Colts | 1.19 (84¢) | $27,777 | +$5,291 | ✅ Ganada |
 | Elaran1993 | Cowboys vs. Texans | Texans | 1.72 (58¢) | $99,760 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.92 (52¢) | $50,000 | — | ⏳ Pendiente |
-| eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.37 (73¢) | $28,641 | +$10,593 | ✅ Ganada |

@@ -65605,5 +65605,20 @@
     "status": "pending",
     "ultimo_fill": 1791144261,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8840,
+    "timestamp": 1791144501,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "nfl-ari-nyg-2026-10-04",
+    "title": "Cardinals vs. Giants",
+    "outcome": "Cardinals",
+    "side": "BUY",
+    "usd": 34154.067200000005,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1791144501,
+    "fills": 1
   }
 ]
