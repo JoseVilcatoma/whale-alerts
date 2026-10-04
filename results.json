@@ -63325,5 +63325,35 @@
     "status": "pending",
     "ultimo_fill": 1791090000,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8613,
+    "timestamp": 1791090986,
+    "username": "omoi0i0",
+    "wallet": "0xb3cfe7615d64db8dfa743a1b1a2b976911460ebd",
+    "slug": "cfb-sjst-hawaii-2026-10-04",
+    "title": "San Jose State vs. Hawai'i",
+    "outcome": "San Jose State",
+    "side": "BUY",
+    "usd": 91107.3825,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1791090986,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8614,
+    "timestamp": 1791091035,
+    "username": "takeormake",
+    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+    "slug": "cfb-sjst-hawaii-2026-10-04",
+    "title": "San Jose State vs. Hawai'i",
+    "outcome": "San Jose State",
+    "side": "BUY",
+    "usd": 39999.420000000006,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1791091035,
+    "fills": 1
   }
 ]

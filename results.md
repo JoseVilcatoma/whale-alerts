@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 00:16:08 (hora de Perú)
+Actualizado: 2026-10-04 00:18:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4213**  ($227,250,520 en total)
+- Apuestas registradas: **4215**  ($227,381,627 en total)
 - Resueltas: **4175** — 2550 ganadas / 1625 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 22
 - Apostadores distintos: 502
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 502 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| takeormake | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $39,999 | — | ⏳ Pendiente |
+| omoi0i0 | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $91,107 | — | ⏳ Pendiente |
 | Wldntulike2know | Patriots vs. Bills | Bills | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
 | primm | Cardinals vs. Giants: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $29,397 | — | ⏳ Pendiente |
 | Soarin22 | Jaguars vs. Bengals | Jaguars | 2.33 (43¢) | $29,544 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 502 en total)_
 | mooseborzoii | Florida vs. Missouri | Missouri | 1.49 (67¢) | $26,270 | +$12,939 | ✅ Ganada |
 | mooseborzoii | Florida vs. Missouri | Missouri | 1.72 (58¢) | $26,202 | +$18,974 | ✅ Ganada |
 | ethanaz | Kentucky vs. South Carolina | South Carolina | 1.10 (91¢) | $70,758 | -$70,758 | ❌ Perdida |
-| ethanaz | Florida vs. Missouri | Missouri | 2.04 (49¢) | $57,195 | +$59,530 | ✅ Ganada |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Ajeet Rai vs Grigoriy Lomakin | Ajeet Rai | 1.33 (75¢) | $30,074 | -$30,074 | ❌ Perdida |
