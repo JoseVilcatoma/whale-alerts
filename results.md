@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 10:41:39 (hora de Perú)
+Actualizado: 2026-10-04 10:43:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4300**  ($231,562,726 en total)
+- Apuestas registradas: **4303**  ($231,800,341 en total)
 - Resueltas: **4208** — 2567 ganadas / 1641 perdidas (**61%** de acierto)
-- Pendientes: 74
+- Pendientes: 77
 - Apostadores distintos: 506
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 159 | 6 | 66% | $30,189,860 | +$1,227,498 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 159 | 7 | 66% | $30,280,696 | +$1,227,498 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TKD44 | Spread: Rams (-3.5) | Eagles | 1.96 (51¢) | $46,779 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Nemiga | 2.04 (49¢) | $90,835 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | alwaysfade | Rams vs. Eagles | Rams | 1.59 (63¢) | $63,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Commanders | Colts | 1.16 (86¢) | $54,467 | — | ⏳ Pendiente |
 | bigballaz | Colts vs. Commanders | Colts | 1.15 (87¢) | $32,190 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | Kch-Temp | Rams vs. Eagles | Eagles | 2.70 (37¢) | $55,980 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Rams (-3.5) | Rams | 2.04 (49¢) | $83,716 | — | ⏳ Pendiente |
 | BillyGating | China Open: Alexander Zverev vs Novak Djokovic | Novak Djokovic | 2.56 (39¢) | $78,093 | +$122,146 | ✅ Ganada |
-| crispychook99 | Counter-Strike: G2 vs 1WIN (BO3) - ESL Pro League Group Stage | G2 | 1.35 (74¢) | $112,135 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global Invitational Group Stage | HANJIN BRION | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| mooseborzoii | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $66,000 | — | ⏳ Pendiente |
