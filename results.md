@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 16:44:18 (hora de Perú)
+Actualizado: 2026-10-04 16:46:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4404**  ($238,410,247 en total)
+- Apuestas registradas: **4405**  ($238,535,354 en total)
 - Resueltas: **4305** — 2620 ganadas / 1685 perdidas (**61%** de acierto)
-- Pendientes: 81
+- Pendientes: 82
 - Apostadores distintos: 507
 
 ### Balance
@@ -59,10 +59,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 15 | 5 | 8 | 75% | $1,560,661 | +$396,653 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
+| ndb1 | 16 | 7 | 3 | 70% | $1,451,682 | +$353,567 |
 | texaskid | 13 | 13 | 1 | 50% | $1,447,575 | -$121,070 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
-| ndb1 | 16 | 7 | 2 | 70% | $1,326,575 | +$353,567 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 
 _(mostrando los 40 de mayor monto, de 507 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Broncos vs. 49ers | 49ers | 1.61 (62¢) | $125,107 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Dolphins vs. Vikings | Vikings | 1.09 (92¢) | $49,174 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chiefs vs. Raiders | Chiefs | 1.61 (62¢) | $34,596 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chargers vs. Seahawks | Seahawks | 1.27 (79¢) | $26,686 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | mooseborzoii | Cardinals vs. Giants | Giants | 1.69 (59¢) | $40,080 | +$27,852 | ✅ Ganada |
 | Roadto1mlesgooo | Netherlands vs. Serbia: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $48,516 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cardinals vs. Giants | Cardinals | 2.44 (41¢) | $26,085 | -$26,085 | ❌ Perdida |
-| taylorsversion | Spread: Chiefs (-4.5) | Chiefs | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
