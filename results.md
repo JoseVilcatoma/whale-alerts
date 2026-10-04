@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 22:51:56 (hora de Perú)
+Actualizado: 2026-10-03 22:54:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4203**  ($226,891,728 en total)
+- Apuestas registradas: **4204**  ($226,942,128 en total)
 - Resueltas: **4171** — 2548 ganadas / 1623 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 501
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Cardinals vs. Giants | Cardinals | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawaii | 1.75 (57¢) | $35,158 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $35,158 | — | ⏳ Pendiente |
 | primm | San Jose State vs. Hawai'i | San Jose State | 2.33 (43¢) | $55,208 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | mooseborzoii | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.52 (66¢) | $95,757 | +$49,329 | ✅ Ganada |
 | 177-letsgo | Ohio State vs. Iowa | Ohio State | 1.06 (94¢) | $25,872 | +$1,651 | ✅ Ganada |
 | Donkey14 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $40,606 | +$20,000 | ✅ Ganada |
-| SDTrading | Atlanta Braves vs. Los Angeles Dodgers: O/U 7.5 | Over 7.5 | 1.75 (57¢) | $25,553 | +$19,277 | ✅ Ganada |
