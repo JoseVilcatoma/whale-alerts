@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 01:25:37 (hora de Perú)
+Actualizado: 2026-10-04 01:27:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4219**  ($227,557,498 en total)
-- Resueltas: **4176** — 2550 ganadas / 1626 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **4178** — 2552 ganadas / 1626 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 503
 
 ### Balance
 
-- **Resultado de los apostadores: -$617,653** sobre $225,874,113 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,184** sobre $411,900 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$600,055** sobre $225,936,508 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,127** sobre $412,100 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 310 | 159 | 6 | 66% | $30,138,504 | +$1,209,899 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 159 | 4 | 66% | $30,138,504 | +$1,227,498 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -80,8 +80,8 @@ _(mostrando los 40 de mayor monto, de 503 en total)_
 | Wldntulike2know | Patriots vs. Bills | Bills | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
 | primm | Cardinals vs. Giants: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $29,397 | — | ⏳ Pendiente |
 | Soarin22 | Jaguars vs. Bengals | Jaguars | 2.33 (43¢) | $29,544 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baylor vs. Arizona State | Baylor | 1.28 (78¢) | $31,195 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baylor vs. Arizona State | Baylor | 1.28 (78¢) | $31,200 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baylor vs. Arizona State | Baylor | 1.28 (78¢) | $31,195 | +$8,799 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baylor vs. Arizona State | Baylor | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
 | gmpm2 | Jets vs. Bears | Bears | 1.59 (63¢) | $33,934 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $45,889 | — | ⏳ Pendiente |
