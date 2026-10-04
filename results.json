@@ -63892,7 +63892,7 @@
     "side": "BUY",
     "usd": 36688.475,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791119284,
     "fills": 1
   },
@@ -64102,7 +64102,7 @@
     "side": "BUY",
     "usd": 26100.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791121984,
     "fills": 1
   },
@@ -64117,7 +64117,7 @@
     "side": "BUY",
     "usd": 26100.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791121984,
     "fills": 1
   },
@@ -64132,7 +64132,7 @@
     "side": "BUY",
     "usd": 26100.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791121985,
     "fills": 1
   },
@@ -64177,7 +64177,7 @@
     "side": "BUY",
     "usd": 50941.279800000004,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791122135,
     "fills": 1
   },
@@ -65092,7 +65092,7 @@
     "side": "BUY",
     "usd": 55713.5118,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791132164,
     "fills": 1
   },
@@ -65635,5 +65635,50 @@
     "status": "pending",
     "ultimo_fill": 1791144736,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8842,
+    "timestamp": 1791144885,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-den-sf-2026-10-04",
+    "title": "Broncos vs. 49ers",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 302850.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1791144935,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 8843,
+    "timestamp": 1791144899,
+    "username": "YEEES-but-why",
+    "wallet": "0x9052a5f2324b8efa264a2a37e942770284143c2d",
+    "slug": "nfl-den-sf-2026-10-04",
+    "title": "Broncos vs. 49ers",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 74400.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1791144908,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 8850,
+    "timestamp": 1791144954,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-kc-lv-2026-10-04",
+    "title": "Chiefs vs. Raiders",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 121313.7204,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1791144955,
+    "fills": 2
   }
 ]
