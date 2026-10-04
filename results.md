@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 07:30:48 (hora de Perú)
+Actualizado: 2026-10-04 07:32:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4239**  ($228,310,365 en total)
-- Resueltas: **4193** — 2559 ganadas / 1634 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **4195** — 2560 ganadas / 1635 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 505
 
 ### Balance
 
-- **Resultado de los apostadores: -$658,255** sobre $226,637,539 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,269** sobre $413,600 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$685,255** sobre $226,714,539 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,347** sobre $413,800 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,8 +81,8 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $36,614 | — | ⏳ Pendiente |
 | danielhansen | China Open: Alexander Zverev vs Novak Djokovic | Alexander Zverev | 1.41 (71¢) | $25,577 | — | ⏳ Pendiente |
 | qiu3 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | FUT Esports | 2.04 (49¢) | $36,020 | — | ⏳ Pendiente |
-| juice-fruit | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | Spirit | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 5.56 (18¢) | $36,000 | — | ⏳ Pendiente |
+| juice-fruit | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | Spirit | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
+| lllllllIlll | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 5.56 (18¢) | $36,000 | -$36,000 | ❌ Perdida |
 | omnibus-076daa | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.22 (45¢) | $30,515 | -$30,515 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Team Falcons | 1.67 (60¢) | $31,244 | — | ⏳ Pendiente |
 | fantasy7788 | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.27 (44¢) | $50,000 | -$50,000 | ❌ Perdida |
