@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 09:21:47 (hora de Perú)
+Actualizado: 2026-10-04 09:23:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4282**  ($230,492,938 en total)
-- Resueltas: **4200** — 2564 ganadas / 1636 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Resueltas: **4202** — 2565 ganadas / 1637 perdidas (**61%** de acierto)
+- Pendientes: 62
 - Apostadores distintos: 506
 
 ### Balance
 
-- **Resultado de los apostadores: -$599,914** sobre $226,890,157 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,099** sobre $414,300 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$503,345** sobre $226,993,828 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$6,043** sobre $414,500 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | gmpm2 | Patriots vs. Bills | Bills | 1.37 (73¢) | $73,000 | — | ⏳ Pendiente |
 | Kch-Temp | Rams vs. Eagles | Eagles | 2.70 (37¢) | $55,980 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Rams (-3.5) | Rams | 2.04 (49¢) | $83,716 | — | ⏳ Pendiente |
-| BillyGating | China Open: Alexander Zverev vs Novak Djokovic | Novak Djokovic | 2.56 (39¢) | $78,093 | — | ⏳ Pendiente |
+| BillyGating | China Open: Alexander Zverev vs Novak Djokovic | Novak Djokovic | 2.56 (39¢) | $78,093 | +$122,146 | ✅ Ganada |
 | crispychook99 | Counter-Strike: G2 vs 1WIN (BO3) - ESL Pro League Group Stage | G2 | 1.35 (74¢) | $112,135 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global Invitational Group Stage | HANJIN BRION | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoii | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $66,000 | — | ⏳ Pendiente |
@@ -122,7 +122,7 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | fantasy7788 | LoL: Team WE vs HANJIN BRION - Game 1 Winner | HANJIN BRION | 1.96 (51¢) | $27,389 | — | ⏳ Pendiente |
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $39,398 | +$33,562 | ✅ Ganada |
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $36,614 | +$31,190 | ✅ Ganada |
-| danielhansen | China Open: Alexander Zverev vs Novak Djokovic | Alexander Zverev | 1.41 (71¢) | $25,577 | — | ⏳ Pendiente |
+| danielhansen | China Open: Alexander Zverev vs Novak Djokovic | Alexander Zverev | 1.41 (71¢) | $25,577 | -$25,577 | ❌ Perdida |
 | qiu3 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | FUT Esports | 2.04 (49¢) | $36,020 | -$36,020 | ❌ Perdida |
 | juice-fruit | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | Spirit | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 5.56 (18¢) | $36,000 | -$36,000 | ❌ Perdida |
