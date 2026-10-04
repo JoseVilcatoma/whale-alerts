@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 17:25:44 (hora de Perú)
+Actualizado: 2026-10-04 17:27:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4416**  ($239,069,818 en total)
-- Resueltas: **4319** — 2628 ganadas / 1691 perdidas (**61%** de acierto)
-- Pendientes: 79
+- Resueltas: **4321** — 2629 ganadas / 1692 perdidas (**61%** de acierto)
+- Pendientes: 77
 - Apostadores distintos: 508
 
 ### Balance
 
-- **Resultado de los apostadores: -$734,938** sobre $232,476,190 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,971** sobre $426,200 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$694,583** sobre $232,606,686 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,967** sobre $426,400 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 25 | 5 | 1 | 83% | $2,848,247 | +$509,463 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| maz26 | 20 | 15 | 4 | 57% | $2,546,121 | -$291,219 |
+| maz26 | 21 | 15 | 3 | 58% | $2,546,121 | -$204,086 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | Lakersfan111 | 32 | 19 | 0 | 63% | $2,306,537 | +$104,902 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
