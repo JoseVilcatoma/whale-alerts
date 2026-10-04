@@ -63115,5 +63115,20 @@
     "status": "won",
     "ultimo_fill": 1791082587,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8594,
+    "timestamp": 1791084705,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-sjst-hawaii-2026-10-04",
+    "title": "San Jose State vs. Hawai'i",
+    "outcome": "Hawai'i",
+    "side": "BUY",
+    "usd": 28261.078799999996,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1791084705,
+    "fills": 1
   }
 ]

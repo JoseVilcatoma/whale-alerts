@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 22:31:13 (hora de Perú)
+Actualizado: 2026-10-03 22:33:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4199**  ($226,737,943 en total)
+- Apuestas registradas: **4200**  ($226,766,204 en total)
 - Resueltas: **4171** — 2548 ganadas / 1623 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 501
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| Sassy-Bucket | 59 | 51 | 1 | 54% | $6,100,784 | -$540,107 |
+| Sassy-Bucket | 59 | 51 | 2 | 54% | $6,129,045 | -$540,107 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $28,261 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.72 (58¢) | $28,594 | +$20,706 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.44 (41¢) | $39,806 | -$39,806 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.41 (71¢) | $205,900 | +$84,100 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Ohio State vs. Iowa | Ohio State | 1.16 (86¢) | $25,800 | +$4,200 | ✅ Ganada |
 | Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 1.96 (51¢) | $41,858 | -$41,858 | ❌ Perdida |
 | BoggsFromShawshank | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
-| User1244322 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $72,647 | +$12,820 | ✅ Ganada |
