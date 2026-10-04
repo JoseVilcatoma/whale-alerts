@@ -62917,7 +62917,7 @@
     "side": "BUY",
     "usd": 25500.0,
     "odds_at_bet": 85,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791077988,
     "fills": 1
   },
@@ -63054,6 +63054,21 @@
     "odds_at_bet": 75,
     "status": "pending",
     "ultimo_fill": 1791080333,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8562,
+    "timestamp": 1791080496,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-wash-usc-2026-10-03",
+    "title": "Washington vs. USC",
+    "outcome": "USC",
+    "side": "BUY",
+    "usd": 36079.7112,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1791080496,
     "fills": 1
   }
 ]
