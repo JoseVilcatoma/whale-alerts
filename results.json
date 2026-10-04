@@ -64465,5 +64465,20 @@
     "status": "pending",
     "ultimo_fill": 1791125155,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 8723,
+    "timestamp": 1791125413,
+    "username": "primm",
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "slug": "nfl-kc-lv-2026-10-04",
+    "title": "Chiefs vs. Raiders",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 32333.7846,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1791125413,
+    "fills": 1
   }
 ]

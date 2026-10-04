@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 09:48:55 (hora de Perú)
+Actualizado: 2026-10-04 09:51:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4289**  ($231,024,107 en total)
+- Apuestas registradas: **4290**  ($231,056,441 en total)
 - Resueltas: **4208** — 2567 ganadas / 1641 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Pendientes: 64
 - Apostadores distintos: 506
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| primm | Chiefs vs. Raiders | Chiefs | 1.49 (67¢) | $32,334 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: 49ers (-2.5) | 49ers | 1.85 (54¢) | $164,566 | — | ⏳ Pendiente |
 | Donkey14 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,489 | — | ⏳ Pendiente |
 | KaneAnalytics | Colts vs. Commanders | Colts | 1.56 (64¢) | $91,010 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $39,398 | +$33,562 | ✅ Ganada |
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $36,614 | +$31,190 | ✅ Ganada |
 | danielhansen | China Open: Alexander Zverev vs Novak Djokovic | Alexander Zverev | 1.41 (71¢) | $25,577 | -$25,577 | ❌ Perdida |
-| qiu3 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | FUT Esports | 2.04 (49¢) | $36,020 | -$36,020 | ❌ Perdida |
