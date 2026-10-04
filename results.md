@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 17:15:18 (hora de Perú)
+Actualizado: 2026-10-04 17:17:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4414**  ($239,005,829 en total)
-- Resueltas: **4309** — 2624 ganadas / 1685 perdidas (**61%** de acierto)
-- Pendientes: 87
+- Resueltas: **4312** — 2625 ganadas / 1687 perdidas (**61%** de acierto)
+- Pendientes: 84
 - Apostadores distintos: 508
 
 ### Balance
 
-- **Resultado de los apostadores: -$748,722** sobre $231,907,508 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,800** sobre $425,200 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$835,753** sobre $232,084,040 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,892** sobre $425,500 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 25 | 5 | 1 | 83% | $2,848,247 | +$509,463 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| maz26 | 20 | 14 | 5 | 59% | $2,546,121 | -$265,288 |
+| maz26 | 20 | 15 | 4 | 57% | $2,546,121 | -$291,219 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | Lakersfan111 | 32 | 19 | 0 | 63% | $2,306,537 | +$104,902 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 2 | 93% | $1,673,116 | +$74,581 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
-| mooseborzoii | 17 | 5 | 6 | 77% | $1,560,661 | +$463,371 |
+| mooseborzoii | 18 | 5 | 5 | 78% | $1,560,661 | +$509,911 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | ndb1 | 16 | 7 | 4 | 70% | $1,492,602 | +$353,567 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
