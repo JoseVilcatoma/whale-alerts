@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 02:44:03 (hora de Perú)
+Actualizado: 2026-10-04 02:46:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4222**  ($227,667,315 en total)
+- Apuestas registradas: **4223**  ($227,744,665 en total)
 - Resueltas: **4186** — 2555 ganadas / 1631 perdidas (**61%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 503
+- Pendientes: 19
+- Apostadores distintos: 504
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 503 en total)_
+_(mostrando los 40 de mayor monto, de 504 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Tontis | Wuning 3: Ryuki Matsuda vs Sergey Betov | Ryuki Matsuda | 1.10 (91¢) | $77,350 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Blake Bayldon vs Taisei Ichikawa | Blake Bayldon | 5.26 (19¢) | $26,513 | — | ⏳ Pendiente |
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.92 (52¢) | $34,304 | — | ⏳ Pendiente |
 | THEdirkdiggler | Spread: Vikings (-9.5) | Dolphins | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 503 en total)_
 | Sassy-Bucket | Kraken vs. Oilers | Oilers | 1.54 (65¢) | $76,619 | +$41,256 | ✅ Ganada |
 | BrotherObama | New York Yankees vs. Tampa Bay Rays | New York Yankees | 2.22 (45¢) | $106,065 | -$106,065 | ❌ Perdida |
 | Talvez10 | Senators vs. Maple Leafs | Senators | 2.04 (49¢) | $35,255 | +$36,694 | ✅ Ganada |
-| 177-letsgo | Auburn vs. Tennessee | Tennessee | 1.08 (93¢) | $35,741 | +$2,690 | ✅ Ganada |
