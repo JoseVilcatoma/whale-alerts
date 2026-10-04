@@ -64975,5 +64975,35 @@
     "status": "pending",
     "ultimo_fill": 1791130711,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8758,
+    "timestamp": 1791130891,
+    "username": "crispychook99",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-vit-navi-2026-10-04",
+    "title": "Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 51840.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1791130891,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8759,
+    "timestamp": 1791130974,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-ari-nyg-2026-10-04-spread-away-2pt5",
+    "title": "Spread: Cardinals (-2.5)",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 39800.0634,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791130974,
+    "fills": 1
   }
 ]

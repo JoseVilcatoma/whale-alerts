@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 11:21:02 (hora de Perú)
+Actualizado: 2026-10-04 11:23:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4323**  ($232,934,291 en total)
+- Apuestas registradas: **4325**  ($233,025,931 en total)
 - Resueltas: **4209** — 2567 ganadas / 1642 perdidas (**61%** de acierto)
-- Pendientes: 96
+- Pendientes: 98
 - Apostadores distintos: 507
 
 ### Balance
@@ -41,14 +41,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 24 | 4 | 2 | 86% | $2,758,747 | +$522,787 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
+| Lakersfan111 | 31 | 18 | 2 | 63% | $2,306,537 | +$196,878 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| Lakersfan111 | 31 | 18 | 1 | 63% | $2,254,697 | +$196,878 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Kch-Temp | 26 | 8 | 3 | 76% | $2,195,147 | +$1,101,302 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
-| maz26 | 15 | 12 | 8 | 56% | $2,093,635 | -$279,699 |
+| maz26 | 15 | 12 | 9 | 56% | $2,133,435 | -$279,699 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Spread: Cardinals (-2.5) | Giants | 1.96 (51¢) | $39,800 | — | ⏳ Pendiente |
+| crispychook99 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $51,840 | — | ⏳ Pendiente |
 | takeormake | Spread: Bengals (-2.5) | Jaguars | 2.00 (50¢) | $79,562 | — | ⏳ Pendiente |
 | takeormake | Jaguars vs. Bengals | Jaguars | 2.27 (44¢) | $88,357 | — | ⏳ Pendiente |
 | bands1 | Rams vs. Eagles | Rams | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | fantasy7788 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.08 (48¢) | $27,120 | — | ⏳ Pendiente |
 | TKD44 | Spread: Bears (-3.5) | Bears | 2.00 (50¢) | $26,100 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Bears (-3.5) | Bears | 2.00 (50¢) | $26,100 | — | ⏳ Pendiente |
-| taylorsversion | Spread: Bears (-3.5) | Jets | 2.00 (50¢) | $26,100 | — | ⏳ Pendiente |
-| mooseborzoii | Titans vs. Ravens: O/U 41.5 | Over 41.5 | 1.89 (53¢) | $36,368 | — | ⏳ Pendiente |
