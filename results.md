@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 14:55:55 (hora de Perú)
+Actualizado: 2026-10-04 14:58:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4363**  ($235,282,885 en total)
-- Resueltas: **4247** — 2590 ganadas / 1657 perdidas (**61%** de acierto)
-- Pendientes: 98
+- Resueltas: **4248** — 2591 ganadas / 1657 perdidas (**61%** de acierto)
+- Pendientes: 97
 - Apostadores distintos: 507
 
 ### Balance
 
-- **Resultado de los apostadores: -$616,749** sobre $229,116,519 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,586** sobre $419,000 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$600,822** sobre $229,153,682 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,543** sobre $419,100 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -106,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Tiger200 | Spread: Bears (-3.5) | Jets | 1.96 (51¢) | $55,714 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-3.5) | Bills | 1.61 (62¢) | $31,811 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-6.5) | Patriots | 2.13 (47¢) | $107,948 | — | ⏳ Pendiente |
-| NS13 | Counter-Strike: BetBoom Team vs M80 (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.43 (70¢) | $37,164 | — | ⏳ Pendiente |
+| NS13 | Counter-Strike: BetBoom Team vs M80 (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.43 (70¢) | $37,164 | +$15,927 | ✅ Ganada |
 | Kosherlocks | Chargers vs. Seahawks | Seahawks | 1.32 (76¢) | $33,721 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 3.57 (28¢) | $42,000 | -$42,000 | ❌ Perdida |
 | gmpm2 | Spread: Cardinals (-2.5) | Giants | 1.96 (51¢) | $39,800 | — | ⏳ Pendiente |
