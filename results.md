@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 19:36:58 (hora de Perú)
+Actualizado: 2026-10-03 19:39:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4181**  ($225,612,873 en total)
-- Resueltas: **4135** — 2523 ganadas / 1612 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **4137** — 2525 ganadas / 1612 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 500
 
 ### Balance
 
-- **Resultado de los apostadores: -$922,131** sobre $223,549,495 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,357** sobre $407,800 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$901,672** sobre $223,600,923 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,277** sobre $408,000 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 304 | 156 | 7 | 66% | $29,699,876 | +$1,140,642 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 305 | 156 | 6 | 66% | $29,699,876 | +$1,146,700 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.52 (66¢) | $113,139 | — | ⏳ Pendiente |
 | Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $96,980 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: Cloud9 vs LYON - Game 4 Winner | LYON | 1.67 (60¢) | $28,835 | +$19,224 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.23 (81¢) | $25,828 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.23 (81¢) | $25,828 | +$6,058 | ✅ Ganada |
 | Sassy-Bucket | Kraken vs. Oilers | Oilers | 1.54 (65¢) | $76,619 | — | ⏳ Pendiente |
 | BrotherObama | New York Yankees vs. Tampa Bay Rays | New York Yankees | 2.22 (45¢) | $106,065 | — | ⏳ Pendiente |
 | Talvez10 | Senators vs. Maple Leafs | Senators | 2.04 (49¢) | $35,255 | — | ⏳ Pendiente |
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | mooseborzoii | Spread: South Florida (-5.5) | South Florida | 1.96 (51¢) | $30,941 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: South Florida (-5.5) | Temple | 2.04 (49¢) | $68,136 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: South Florida (-5.5) | Temple | 2.08 (48¢) | $29,009 | — | ⏳ Pendiente |
-| eschaworldchampion2026 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
+| eschaworldchampion2026 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
 | ethanaz | Florida vs. Missouri | Florida | 1.45 (69¢) | $78,772 | -$78,772 | ❌ Perdida |
 | mooseborzoii | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.52 (66¢) | $95,757 | +$49,329 | ✅ Ganada |
 | 177-letsgo | Ohio State vs. Iowa | Ohio State | 1.06 (94¢) | $25,872 | +$1,651 | ✅ Ganada |
