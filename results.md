@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 13:33:40 (hora de Perú)
+Actualizado: 2026-10-04 13:35:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4334**  ($233,459,266 en total)
+- Apuestas registradas: **4343**  ($234,393,426 en total)
 - Resueltas: **4226** — 2579 ganadas / 1647 perdidas (**61%** de acierto)
-- Pendientes: 90
+- Pendientes: 99
 - Apostadores distintos: 507
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 160 | 9 | 66% | $30,473,441 | +$1,202,498 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 160 | 10 | 66% | $30,526,768 | +$1,202,498 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -37,13 +37,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 51 | 32 | 2 | 61% | $3,456,927 | -$482,986 |
 | BrotherObama | 32 | 37 | 4 | 46% | $3,346,447 | +$13,327 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
+| ethanaz | 38 | 16 | 1 | 70% | $3,200,364 | -$150,022 |
+| SmartPredictOrNot | 4 | 4 | 2 | 50% | $2,912,909 | -$407,768 |
 | surfandturf | 25 | 4 | 1 | 86% | $2,758,747 | +$548,476 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | Lakersfan111 | 31 | 19 | 1 | 62% | $2,306,537 | +$84,742 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Kch-Temp | 26 | 8 | 3 | 76% | $2,195,147 | +$1,101,302 |
@@ -71,7 +71,16 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $38,529 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $52,987 | — | ⏳ Pendiente |
+| ATAKAJr. | Curitiba: Gustavo Heide vs Guido Justo | Gustavo Heide | 1.30 (77¢) | $39,589 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.54 (65¢) | $53,327 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Cardinals vs. Giants | Giants | 1.37 (73¢) | $37,154 | — | ⏳ Pendiente |
+| SmartPredictOrNot | Will Portugal win on 2026-10-04? | Yes | 1.67 (60¢) | $548,832 | — | ⏳ Pendiente |
+| ethanaz | Jaguars vs. Bengals | Jaguars | 1.33 (75¢) | $28,318 | — | ⏳ Pendiente |
+| kkookkoo | Rams vs. Eagles | Rams | 1.69 (59¢) | $29,534 | — | ⏳ Pendiente |
+| SmartPredictOrNot | Will Portugal win on 2026-10-04? | Yes | 1.72 (58¢) | $128,563 | — | ⏳ Pendiente |
+| gambamaster | Cardinals vs. Giants | Giants | 1.59 (63¢) | $30,314 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | — | ⏳ Pendiente |
 | Tiger200 | Spread: Bears (-3.5) | Jets | 1.96 (51¢) | $55,714 | — | ⏳ Pendiente |
@@ -122,12 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Donkey14 | Spread: Cardinals (-2.5) | Giants | 2.00 (50¢) | $33,321 | — | ⏳ Pendiente |
 | ratatatatatatatataaaa | Spread: Cardinals (-2.5) | Cardinals | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | mooseborzoii | Cardinals vs. Giants | Giants | 2.27 (44¢) | $81,305 | — | ⏳ Pendiente |
-| texaskid | Cardinals vs. Giants: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $25,477 | — | ⏳ Pendiente |
-| 177-letsgo | Colts vs. Commanders | Colts | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
-| Kch-Temp | Cowboys vs. Texans | Cowboys | 2.38 (42¢) | $36,766 | — | ⏳ Pendiente |
-| AnonymousUsername | Cowboys vs. Texans | Texans | 1.72 (58¢) | $30,380 | — | ⏳ Pendiente |
-| gmpm2 | Spread: Texans (-2.5) | Texans | 1.89 (53¢) | $25,931 | — | ⏳ Pendiente |
-| CORGI777 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.92 (52¢) | $51,804 | +$47,819 | ✅ Ganada |
-| Siddhartha1 | Spread: 49ers (-2.5) | Broncos | 2.13 (47¢) | $32,900 | — | ⏳ Pendiente |
-| Kch-Temp | Broncos vs. 49ers | 49ers | 1.72 (58¢) | $178,436 | — | ⏳ Pendiente |
-| Donkey14 | Spread: Bills (-6.5) | Patriots | 2.08 (48¢) | $50,000 | — | ⏳ Pendiente |
