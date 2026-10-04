@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 06:02:49 (hora de Perú)
+Actualizado: 2026-10-04 06:04:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4232**  ($228,067,254 en total)
+- Apuestas registradas: **4233**  ($228,106,653 en total)
 - Resueltas: **4189** — 2557 ganadas / 1632 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 505
 
 ### Balance
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
-| Lakersfan111 | 27 | 18 | 2 | 60% | $2,073,882 | +$75,517 |
+| Lakersfan111 | 27 | 18 | 3 | 60% | $2,113,280 | +$75,517 |
 | Kch-Temp | 26 | 8 | 0 | 76% | $1,923,965 | +$1,101,302 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $39,398 | — | ⏳ Pendiente |
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $36,614 | — | ⏳ Pendiente |
 | danielhansen | China Open: Alexander Zverev vs Novak Djokovic | Alexander Zverev | 1.41 (71¢) | $25,577 | — | ⏳ Pendiente |
 | qiu3 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | FUT Esports | 2.04 (49¢) | $36,020 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Texas Tech vs. Colorado | Texas Tech | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas Tech vs. Colorado | Texas Tech | 1.30 (77¢) | $30,800 | +$9,200 | ✅ Ganada |
 | Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $55,699 | -$55,699 | ❌ Perdida |
-| ferrariChampions2026 | Army vs. Louisiana Tech | Army | 2.04 (49¢) | $34,910 | -$34,910 | ❌ Perdida |
