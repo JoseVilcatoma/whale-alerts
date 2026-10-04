@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 15:43:48 (hora de Perú)
+Actualizado: 2026-10-04 15:45:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4389**  ($236,944,457 en total)
-- Resueltas: **4286** — 2608 ganadas / 1678 perdidas (**61%** de acierto)
+- Apuestas registradas: **4390**  ($236,969,638 en total)
+- Resueltas: **4287** — 2608 ganadas / 1679 perdidas (**61%** de acierto)
 - Pendientes: 85
 - Apostadores distintos: 507
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,064,505** sobre $230,732,331 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$7,320** sobre $422,900 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$1,104,093** sobre $230,771,920 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,420** sobre $423,000 (ROI **-1.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 18 | 17 | 1 | 51% | $1,629,226 | -$189,845 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
+| mooseborzoii | 15 | 5 | 8 | 75% | $1,509,021 | +$396,653 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| mooseborzoii | 15 | 5 | 7 | 75% | $1,483,841 | +$396,653 |
 | texaskid | 13 | 12 | 2 | 52% | $1,447,575 | -$95,593 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Broncos vs. 49ers | 49ers | 1.69 (59¢) | $25,181 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Raiders | Raiders | 2.00 (50¢) | $43,501 | — | ⏳ Pendiente |
 | ethanaz | Broncos vs. 49ers | Broncos | 2.44 (41¢) | $31,039 | — | ⏳ Pendiente |
 | Nooserac | Dolphins vs. Vikings | Vikings | 1.19 (84¢) | $25,519 | — | ⏳ Pendiente |
@@ -119,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | mooseborzoii | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $38,400 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $38,529 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $52,987 | — | ⏳ Pendiente |
-| ATAKAJr. | Curitiba: Gustavo Heide vs Guido Justo | Gustavo Heide | 1.30 (77¢) | $39,589 | — | ⏳ Pendiente |
+| ATAKAJr. | Curitiba: Gustavo Heide vs Guido Justo | Gustavo Heide | 1.30 (77¢) | $39,589 | -$39,589 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.54 (65¢) | $53,327 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Cardinals vs. Giants | Giants | 1.37 (73¢) | $37,154 | +$13,742 | ✅ Ganada |
 | SmartPredictOrNot | Will Portugal win on 2026-10-04? | Yes | 1.67 (60¢) | $548,832 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | +$21,141 | ✅ Ganada |
 | ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | +$21,141 | ✅ Ganada |
 | Tiger200 | Spread: Bears (-3.5) | Jets | 1.96 (51¢) | $55,714 | -$55,714 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-3.5) | Bills | 1.61 (62¢) | $31,811 | — | ⏳ Pendiente |
