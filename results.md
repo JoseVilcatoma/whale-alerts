@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 15:27:01 (hora de Perú)
+Actualizado: 2026-10-04 15:29:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4381**  ($236,569,021 en total)
+- Apuestas registradas: **4382**  ($236,607,521 en total)
 - Resueltas: **4261** — 2599 ganadas / 1662 perdidas (**61%** de acierto)
-- Pendientes: 102
+- Pendientes: 103
 - Apostadores distintos: 507
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | San Diego Padres vs. Milwaukee Brewers | San Diego Padres | 1.67 (60¢) | $38,500 | — | ⏳ Pendiente |
 | 177-letsgo | Chargers vs. Seahawks | Seahawks | 1.33 (75¢) | $69,750 | — | ⏳ Pendiente |
 | Diabolical-Prize | Spread: Chiefs (-4.5) | Chiefs | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | ethanaz | Dolphins vs. Vikings | Vikings | 1.20 (83¢) | $170,654 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | gmpm2 | Spread: Cardinals (-2.5) | Giants | 1.96 (51¢) | $39,800 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $51,840 | +$20,160 | ✅ Ganada |
 | takeormake | Spread: Bengals (-2.5) | Jaguars | 2.00 (50¢) | $79,562 | — | ⏳ Pendiente |
-| takeormake | Jaguars vs. Bengals | Jaguars | 2.27 (44¢) | $88,357 | — | ⏳ Pendiente |
