@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 07:34:54 (hora de Perú)
+Actualizado: 2026-10-04 07:36:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4239**  ($228,310,365 en total)
+- Apuestas registradas: **4241**  ($228,401,865 en total)
 - Resueltas: **4195** — 2560 ganadas / 1635 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 28
 - Apostadores distintos: 505
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $66,000 | — | ⏳ Pendiente |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.38 (42¢) | $34,860 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $28,700 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | gmpm2 | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $25,175 | — | ⏳ Pendiente |
 | mooseborzoii | Washington vs. USC | USC | 1.52 (66¢) | $30,969 | +$15,954 | ✅ Ganada |
 | mooseborzoii | Washington vs. USC | USC | 1.49 (67¢) | $141,318 | +$69,605 | ✅ Ganada |
-| 3648393489047 | BYU vs. TCU | BYU | 1.67 (60¢) | $35,188 | +$23,458 | ✅ Ganada |
-| Sassy-Bucket | San Diego Padres vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.82 (55¢) | $34,951 | -$34,951 | ❌ Perdida |

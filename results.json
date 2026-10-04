@@ -63715,5 +63715,35 @@
     "status": "pending",
     "ultimo_fill": 1791116291,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8660,
+    "timestamp": 1791117357,
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+    "slug": "nfl-ind-was-2026-10-04-total-46pt5",
+    "title": "Colts vs. Commanders: O/U 46.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791117357,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8661,
+    "timestamp": 1791117375,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-ind-was-2026-10-04-total-46pt5",
+    "title": "Colts vs. Commanders: O/U 46.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 65999.9963,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791117375,
+    "fills": 1
   }
 ]
