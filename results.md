@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 09:23:53 (hora de Perú)
+Actualizado: 2026-10-04 09:25:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4282**  ($230,492,938 en total)
+- Apuestas registradas: **4283**  ($230,518,416 en total)
 - Resueltas: **4202** — 2565 ganadas / 1637 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Pendientes: 63
 - Apostadores distintos: 506
 
 ### Balance
@@ -60,8 +60,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
+| texaskid | 13 | 11 | 1 | 54% | $1,321,935 | -$3,953 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
-| texaskid | 13 | 11 | 0 | 54% | $1,296,457 | -$3,953 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Cardinals vs. Giants: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $25,477 | — | ⏳ Pendiente |
 | 177-letsgo | Colts vs. Commanders | Colts | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | Kch-Temp | Cowboys vs. Texans | Cowboys | 2.38 (42¢) | $36,766 | — | ⏳ Pendiente |
 | AnonymousUsername | Cowboys vs. Texans | Texans | 1.72 (58¢) | $30,380 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | lllllllIlll | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Team Falcons | 1.67 (60¢) | $31,244 | — | ⏳ Pendiente |
 | fantasy7788 | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.27 (44¢) | $50,000 | -$50,000 | ❌ Perdida |
 | kdvlklkvlsklkfs | Wuning 3: Yuta Kikuchi vs Kosuke Ogura | Kosuke Ogura | 1.72 (58¢) | $35,619 | -$35,619 | ❌ Perdida |
-| Tontis | Wuning 3: Ryuki Matsuda vs Sergey Betov | Ryuki Matsuda | 1.10 (91¢) | $77,350 | +$7,650 | ✅ Ganada |
