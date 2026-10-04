@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 16:17:08 (hora de Perú)
+Actualizado: 2026-10-04 16:19:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4400**  ($238,172,395 en total)
+- Apuestas registradas: **4401**  ($238,299,791 en total)
 - Resueltas: **4303** — 2620 ganadas / 1683 perdidas (**61%** de acierto)
-- Pendientes: 79
+- Pendientes: 80
 - Apostadores distintos: 507
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 314 | 161 | 10 | 66% | $30,651,876 | +$1,133,111 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 314 | 161 | 11 | 66% | $30,779,272 | +$1,133,111 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 59 | 53 | 4 | 53% | $6,384,205 | -$603,319 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $127,396 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Atlanta Braves vs. Los Angeles Dodgers | Atlanta Braves | 3.23 (31¢) | $25,184 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.45 (69¢) | $792,448 | — | ⏳ Pendiente |
 | Sassy-Bucket | Atlanta Braves vs. Los Angeles Dodgers | Atlanta Braves | 3.12 (32¢) | $64,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | mooseborzoii | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $38,400 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $38,529 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $52,987 | — | ⏳ Pendiente |
-| ATAKAJr. | Curitiba: Gustavo Heide vs Guido Justo | Gustavo Heide | 1.30 (77¢) | $39,589 | -$39,589 | ❌ Perdida |
