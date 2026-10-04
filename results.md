@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 07:47:10 (hora de Perú)
+Actualizado: 2026-10-04 07:49:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4241**  ($228,401,865 en total)
+- Apuestas registradas: **4242**  ($228,426,865 en total)
 - Resueltas: **4195** — 2560 ganadas / 1635 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 505
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 159 | 4 | 66% | $30,138,504 | +$1,227,498 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 159 | 5 | 66% | $30,163,504 | +$1,227,498 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global Invitational Group Stage | HANJIN BRION | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoii | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $66,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.38 (42¢) | $34,860 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-3.5) | Buccaneers | 1.82 (55¢) | $27,430 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $25,175 | — | ⏳ Pendiente |
 | mooseborzoii | Washington vs. USC | USC | 1.52 (66¢) | $30,969 | +$15,954 | ✅ Ganada |
-| mooseborzoii | Washington vs. USC | USC | 1.49 (67¢) | $141,318 | +$69,605 | ✅ Ganada |
