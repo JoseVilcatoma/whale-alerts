@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 16:10:53 (hora de Perú)
+Actualizado: 2026-10-04 16:12:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4397**  ($237,290,763 en total)
+- Apuestas registradas: **4399**  ($237,457,211 en total)
 - Resueltas: **4303** — 2620 ganadas / 1683 perdidas (**61%** de acierto)
-- Pendientes: 76
+- Pendientes: 78
 - Apostadores distintos: 507
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 314 | 161 | 10 | 66% | $30,651,876 | +$1,133,111 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Sassy-Bucket | 59 | 53 | 3 | 53% | $6,320,205 | -$603,319 |
+| Sassy-Bucket | 59 | 53 | 4 | 53% | $6,384,205 | -$603,319 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 39 | 17 | 2 | 70% | $3,430,405 | -$168,931 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| SmartPredictOrNot | 4 | 4 | 2 | 50% | $2,912,909 | -$407,768 |
+| SmartPredictOrNot | 4 | 4 | 3 | 50% | $3,015,357 | -$407,768 |
 | surfandturf | 25 | 5 | 0 | 83% | $2,758,747 | +$509,463 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | maz26 | 20 | 14 | 4 | 59% | $2,513,385 | -$265,288 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SmartPredictOrNot | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.45 (69¢) | $102,448 | — | ⏳ Pendiente |
+| Sassy-Bucket | Atlanta Braves vs. Los Angeles Dodgers | Atlanta Braves | 3.12 (32¢) | $64,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chargers vs. Seahawks | Seahawks | 1.28 (78¢) | $40,363 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Broncos vs. 49ers | 49ers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | gambamaster | Chiefs vs. Raiders | Chiefs | 1.52 (66¢) | $33,456 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $52,987 | — | ⏳ Pendiente |
 | ATAKAJr. | Curitiba: Gustavo Heide vs Guido Justo | Gustavo Heide | 1.30 (77¢) | $39,589 | -$39,589 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.54 (65¢) | $53,327 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Cardinals vs. Giants | Giants | 1.37 (73¢) | $37,154 | +$13,742 | ✅ Ganada |
-| SmartPredictOrNot | Will Portugal win on 2026-10-04? | Yes | 1.67 (60¢) | $548,832 | — | ⏳ Pendiente |
