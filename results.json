@@ -62980,5 +62980,20 @@
     "status": "pending",
     "ultimo_fill": 1791078782,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8552,
+    "timestamp": 1791079072,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "ufc-nat7-wan2-2026-10-03",
+    "title": "UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card)",
+    "outcome": "Wang Cong",
+    "side": "BUY",
+    "usd": 26787.774999999998,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1791079072,
+    "fills": 1
   }
 ]
