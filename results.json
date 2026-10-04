@@ -64570,5 +64570,35 @@
     "status": "pending",
     "ultimo_fill": 1791127223,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8730,
+    "timestamp": 1791127932,
+    "username": "WanderingWombat",
+    "wallet": "0x878d54931d8dd4e9ec25611e37ef82b7ae1385a5",
+    "slug": "nfl-jax-cin-2026-10-04-spread-home-2pt5",
+    "title": "Spread: Bengals (-2.5)",
+    "outcome": "Bengals",
+    "side": "BUY",
+    "usd": 51000.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791127932,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8731,
+    "timestamp": 1791127965,
+    "username": "bigballaz",
+    "wallet": "0xf3a6ac44c5c90ff2b4afa4459f71acc2e57971bd",
+    "slug": "nfl-ind-was-2026-10-04",
+    "title": "Colts vs. Commanders",
+    "outcome": "Colts",
+    "side": "BUY",
+    "usd": 32190.0,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1791127965,
+    "fills": 1
   }
 ]

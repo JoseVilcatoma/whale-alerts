@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 10:31:02 (hora de Perú)
+Actualizado: 2026-10-04 10:33:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4296**  ($231,362,069 en total)
+- Apuestas registradas: **4298**  ($231,445,259 en total)
 - Resueltas: **4208** — 2567 ganadas / 1641 perdidas (**61%** de acierto)
-- Pendientes: 70
+- Pendientes: 72
 - Apostadores distintos: 506
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bigballaz | Colts vs. Commanders | Colts | 1.15 (87¢) | $32,190 | — | ⏳ Pendiente |
+| WanderingWombat | Spread: Bengals (-2.5) | Bengals | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Commanders | Colts | 1.06 (94¢) | $59,534 | — | ⏳ Pendiente |
 | Jsram | Spread: Packers (-3.5) | Buccaneers | 1.79 (56¢) | $30,348 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Texans (-2.5) | Cowboys | 2.08 (48¢) | $42,960 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | mooseborzoii | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $66,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.38 (42¢) | $34,860 | -$34,860 | ❌ Perdida |
-| Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
-| Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $28,700 | -$28,700 | ❌ Perdida |
