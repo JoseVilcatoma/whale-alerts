@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 16:42:11 (hora de Perú)
+Actualizado: 2026-10-04 16:44:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4403**  ($238,361,073 en total)
+- Apuestas registradas: **4404**  ($238,410,247 en total)
 - Resueltas: **4305** — 2620 ganadas / 1685 perdidas (**61%** de acierto)
-- Pendientes: 80
+- Pendientes: 81
 - Apostadores distintos: 507
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 49 | 1 | 50% | $4,956,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 54 | 35 | 7 | 61% | $3,866,884 | -$538,986 |
+| ferrariChampions2026 | 54 | 35 | 8 | 61% | $3,916,058 | -$538,986 |
 | SmartPredictOrNot | 4 | 4 | 3 | 50% | $3,705,357 | -$407,768 |
 | ethanaz | 39 | 17 | 2 | 70% | $3,430,405 | -$168,931 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dolphins vs. Vikings | Vikings | 1.09 (92¢) | $49,174 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chiefs vs. Raiders | Chiefs | 1.61 (62¢) | $34,596 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chargers vs. Seahawks | Seahawks | 1.27 (79¢) | $26,686 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $127,396 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Roadto1mlesgooo | Netherlands vs. Serbia: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $48,516 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cardinals vs. Giants | Cardinals | 2.44 (41¢) | $26,085 | -$26,085 | ❌ Perdida |
 | taylorsversion | Spread: Chiefs (-4.5) | Chiefs | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
-| mooseborzoii | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $38,400 | — | ⏳ Pendiente |
