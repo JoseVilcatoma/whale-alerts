@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 23:33:00 (hora de Perú)
+Actualizado: 2026-10-03 23:35:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4209**  ($227,134,484 en total)
-- Resueltas: **4174** — 2550 ganadas / 1624 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **4175** — 2550 ganadas / 1625 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 501
 
 ### Balance
 
-- **Resultado de los apostadores: -$557,221** sobre $225,813,680 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,984** sobre $411,700 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$592,172** sobre $225,848,631 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,084** sobre $411,800 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| Sassy-Bucket | 59 | 51 | 2 | 54% | $6,129,045 | -$540,107 |
+| Sassy-Bucket | 59 | 52 | 1 | 53% | $6,129,045 | -$575,058 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | mooseborzoii | Washington vs. USC | USC | 1.52 (66¢) | $30,969 | +$15,954 | ✅ Ganada |
 | mooseborzoii | Washington vs. USC | USC | 1.49 (67¢) | $141,318 | +$69,605 | ✅ Ganada |
 | 3648393489047 | BYU vs. TCU | BYU | 1.67 (60¢) | $35,188 | +$23,458 | ✅ Ganada |
-| Sassy-Bucket | San Diego Padres vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.82 (55¢) | $34,951 | — | ⏳ Pendiente |
+| Sassy-Bucket | San Diego Padres vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.82 (55¢) | $34,951 | -$34,951 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Arkansas State vs. Louisiana | Louisiana | 1.52 (66¢) | $50,000 | +$25,758 | ✅ Ganada |
 | TAIWANNUMBERONE | Washington vs. USC | USC | 1.30 (77¢) | $97,609 | +$29,156 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.39 (72¢) | $74,713 | +$29,055 | ✅ Ganada |
