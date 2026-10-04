@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 11:16:57 (hora de Perú)
+Actualizado: 2026-10-04 11:19:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4321**  ($232,766,372 en total)
+- Apuestas registradas: **4323**  ($232,934,291 en total)
 - Resueltas: **4209** — 2567 ganadas / 1642 perdidas (**61%** de acierto)
-- Pendientes: 94
+- Pendientes: 96
 - Apostadores distintos: 507
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| takeormake | Spread: Bengals (-2.5) | Jaguars | 2.00 (50¢) | $79,562 | — | ⏳ Pendiente |
+| takeormake | Jaguars vs. Bengals | Jaguars | 2.27 (44¢) | $88,357 | — | ⏳ Pendiente |
 | bands1 | Rams vs. Eagles | Rams | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | Donkey14 | Jets vs. Bears | Bears | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | primm | Rams vs. Eagles | Rams | 1.59 (63¢) | $50,400 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Donkey14 | Spread: Bears (-3.5) | Bears | 2.00 (50¢) | $26,100 | — | ⏳ Pendiente |
 | taylorsversion | Spread: Bears (-3.5) | Jets | 2.00 (50¢) | $26,100 | — | ⏳ Pendiente |
 | mooseborzoii | Titans vs. Ravens: O/U 41.5 | Over 41.5 | 1.89 (53¢) | $36,368 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rams (-4.5) | Rams | 2.22 (45¢) | $26,356 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.08 (48¢) | $50,000 | — | ⏳ Pendiente |

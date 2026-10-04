@@ -64945,5 +64945,35 @@
     "status": "pending",
     "ultimo_fill": 1791130327,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8756,
+    "timestamp": 1791130670,
+    "username": "takeormake",
+    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+    "slug": "nfl-jax-cin-2026-10-04",
+    "title": "Jaguars vs. Bengals",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 88357.4516,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1791130670,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8757,
+    "timestamp": 1791130711,
+    "username": "takeormake",
+    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+    "slug": "nfl-jax-cin-2026-10-04-spread-home-2pt5",
+    "title": "Spread: Bengals (-2.5)",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 79561.53,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1791130711,
+    "fills": 1
   }
 ]
