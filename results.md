@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 16:23:23 (hora de Perú)
+Actualizado: 2026-10-04 16:25:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4402**  ($238,326,477 en total)
-- Resueltas: **4303** — 2620 ganadas / 1683 perdidas (**61%** de acierto)
-- Pendientes: 81
+- Resueltas: **4305** — 2620 ganadas / 1685 perdidas (**61%** de acierto)
+- Pendientes: 79
 - Apostadores distintos: 507
 
 ### Balance
 
-- **Resultado de los apostadores: -$806,854** sobre $231,719,620 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,938** sobre $424,600 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$861,728** sobre $231,774,494 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,138** sobre $424,800 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 15 | 5 | 8 | 75% | $1,560,661 | +$396,653 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| texaskid | 13 | 12 | 2 | 52% | $1,447,575 | -$95,593 |
+| texaskid | 13 | 13 | 1 | 50% | $1,447,575 | -$121,070 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | ndb1 | 16 | 7 | 2 | 70% | $1,326,575 | +$353,567 |
