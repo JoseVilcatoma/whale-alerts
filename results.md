@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 08:28:04 (hora de Perú)
+Actualizado: 2026-10-04 08:30:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4257**  ($229,269,812 en total)
+- Apuestas registradas: **4260**  ($229,401,597 en total)
 - Resueltas: **4195** — 2560 ganadas / 1635 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 47
 - Apostadores distintos: 505
 
 ### Balance
@@ -47,8 +47,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
+| maz26 | 15 | 12 | 6 | 56% | $2,038,203 | -$279,699 |
 | Kch-Temp | 26 | 8 | 1 | 76% | $1,979,945 | +$1,101,302 |
-| maz26 | 15 | 12 | 5 | 56% | $1,975,546 | -$279,699 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Tiger200 | Spread: Colts (-4.5) | Colts | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
+| mooseborzoii | Spread: Colts (-4.5) | Commanders | 2.04 (49¢) | $38,528 | — | ⏳ Pendiente |
+| gmpm2 | Colts vs. Commanders | Colts | 1.49 (67¢) | $62,657 | — | ⏳ Pendiente |
 | surfandturf | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $39,012 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Colts (-4.5) | Colts | 1.96 (51¢) | $40,000 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Colts (-5.5) | Commanders | 1.92 (52¢) | $33,528 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawaii | 1.75 (57¢) | $35,158 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $35,158 | -$35,158 | ❌ Perdida |
 | primm | San Jose State vs. Hawai'i | San Jose State | 2.33 (43¢) | $55,208 | +$73,182 | ✅ Ganada |
-| Sassy-Bucket | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $28,261 | -$28,261 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.72 (58¢) | $28,594 | +$20,706 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.44 (41¢) | $39,806 | -$39,806 | ❌ Perdida |
