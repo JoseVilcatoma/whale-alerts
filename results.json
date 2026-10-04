@@ -66205,5 +66205,50 @@
     "status": "pending",
     "ultimo_fill": 1791150303,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8937,
+    "timestamp": 1791151026,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-mia-min-2026-10-04",
+    "title": "Dolphins vs. Vikings",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 44500.0,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1791151026,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8938,
+    "timestamp": 1791151051,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-den-sf-2026-10-04-spread-home-2pt5",
+    "title": "Spread: 49ers (-2.5)",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 114999.999999,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1791151051,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8939,
+    "timestamp": 1791151080,
+    "username": "YEEES-but-why",
+    "wallet": "0x9052a5f2324b8efa264a2a37e942770284143c2d",
+    "slug": "nfl-mia-min-2026-10-04",
+    "title": "Dolphins vs. Vikings",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 25775.948600000003,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1791151080,
+    "fills": 1
   }
 ]

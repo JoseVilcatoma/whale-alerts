@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 16:56:40 (hora de Perú)
+Actualizado: 2026-10-04 16:58:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4405**  ($238,535,354 en total)
+- Apuestas registradas: **4408**  ($238,720,630 en total)
 - Resueltas: **4305** — 2620 ganadas / 1685 perdidas (**61%** de acierto)
-- Pendientes: 82
+- Pendientes: 85
 - Apostadores distintos: 507
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 49 | 1 | 50% | $4,956,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 54 | 35 | 8 | 61% | $3,916,058 | -$538,986 |
+| ferrariChampions2026 | 54 | 35 | 9 | 61% | $4,031,058 | -$538,986 |
 | SmartPredictOrNot | 4 | 4 | 3 | 50% | $3,705,357 | -$407,768 |
 | ethanaz | 39 | 17 | 2 | 70% | $3,430,405 | -$168,931 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YEEES-but-why | Dolphins vs. Vikings | Vikings | 1.12 (89¢) | $25,776 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Spread: 49ers (-2.5) | 49ers | 1.79 (56¢) | $115,000 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Dolphins vs. Vikings | Vikings | 1.12 (89¢) | $44,500 | — | ⏳ Pendiente |
 | ndb1 | Broncos vs. 49ers | 49ers | 1.61 (62¢) | $125,107 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Dolphins vs. Vikings | Vikings | 1.09 (92¢) | $49,174 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chiefs vs. Raiders | Chiefs | 1.61 (62¢) | $34,596 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jaguars vs. Bengals | Jaguars | 1.37 (73¢) | $30,953 | +$11,448 | ✅ Ganada |
 | ferrariChampions2026 | Rams vs. Eagles | Eagles | 1.47 (68¢) | $69,831 | -$69,831 | ❌ Perdida |
 | KaneAnalytics | Cardinals vs. Giants | Cardinals | 2.33 (43¢) | $27,876 | -$27,876 | ❌ Perdida |
-| mooseborzoii | Cardinals vs. Giants | Giants | 1.69 (59¢) | $40,080 | +$27,852 | ✅ Ganada |
-| Roadto1mlesgooo | Netherlands vs. Serbia: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $48,516 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Cardinals vs. Giants | Cardinals | 2.44 (41¢) | $26,085 | -$26,085 | ❌ Perdida |
