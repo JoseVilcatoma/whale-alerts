@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 22:14:29 (hora de Perú)
+Actualizado: 2026-10-03 22:16:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4199**  ($226,737,943 en total)
-- Resueltas: **4149** — 2533 ganadas / 1616 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Resueltas: **4153** — 2536 ganadas / 1617 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 501
 
 ### Balance
 
-- **Resultado de los apostadores: -$836,280** sobre $224,120,096 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,061** sobre $409,200 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$686,248** sobre $224,480,161 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,002** sobre $409,600 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| Sassy-Bucket | 56 | 49 | 6 | 53% | $6,100,784 | -$564,246 |
+| Sassy-Bucket | 59 | 49 | 3 | 55% | $6,100,784 | -$387,427 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| maz26 | 15 | 11 | 2 | 58% | $1,737,603 | -$252,911 |
+| maz26 | 15 | 12 | 1 | 56% | $1,737,603 | -$279,699 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
@@ -76,11 +76,11 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.41 (71¢) | $205,900 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Washington vs. USC | USC | 1.35 (74¢) | $154,969 | — | ⏳ Pendiente |
 | surfandturf | Texas State vs. San Diego State | Texas State | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $195,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $195,000 | +$105,000 | ✅ Ganada |
 | surfandturf | Texas State vs. San Diego State | Texas State | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | kkookkoo | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.43 (70¢) | $26,000 | — | ⏳ Pendiente |
-| gmpm2 | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Wang Cong | 2.86 (35¢) | $26,788 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $25,138 | — | ⏳ Pendiente |
+| gmpm2 | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Wang Cong | 2.86 (35¢) | $26,788 | -$26,788 | ❌ Perdida |
+| Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $25,138 | +$13,536 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.17 (46¢) | $32,625 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 1.85 (54¢) | $38,857 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | ferrariChampions2026 | Army vs. Louisiana Tech | Army | 2.04 (49¢) | $34,910 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Army vs. Louisiana Tech | Louisiana Tech | 2.00 (50¢) | $25,952 | — | ⏳ Pendiente |
 | kkookkoo | BYU vs. TCU | BYU | 1.49 (67¢) | $28,603 | +$14,088 | ✅ Ganada |
-| Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.52 (66¢) | $113,139 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.52 (66¢) | $113,139 | +$58,284 | ✅ Ganada |
 | Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $96,980 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: Cloud9 vs LYON - Game 4 Winner | LYON | 1.67 (60¢) | $28,835 | +$19,224 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.23 (81¢) | $25,828 | +$6,058 | ✅ Ganada |
