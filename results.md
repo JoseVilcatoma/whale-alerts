@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 13:47:52 (hora de Perú)
+Actualizado: 2026-10-04 13:49:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4348**  ($234,588,107 en total)
+- Apuestas registradas: **4350**  ($234,685,814 en total)
 - Resueltas: **4240** — 2584 ganadas / 1656 perdidas (**61%** de acierto)
-- Pendientes: 90
+- Pendientes: 92
 - Apostadores distintos: 507
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 48 | 48 | 2 | 50% | $4,930,148 | -$320,363 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 51 | 32 | 3 | 61% | $3,483,012 | -$482,986 |
+| ferrariChampions2026 | 51 | 32 | 4 | 61% | $3,552,843 | -$482,986 |
 | BrotherObama | 34 | 37 | 2 | 48% | $3,346,447 | +$82,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ethanaz | 38 | 16 | 1 | 70% | $3,200,364 | -$150,022 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Rams vs. Eagles | Eagles | 1.47 (68¢) | $69,831 | — | ⏳ Pendiente |
+| KaneAnalytics | Cardinals vs. Giants | Cardinals | 2.33 (43¢) | $27,876 | — | ⏳ Pendiente |
 | mooseborzoii | Cardinals vs. Giants | Giants | 1.69 (59¢) | $40,080 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Netherlands vs. Serbia: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $48,516 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cardinals vs. Giants | Cardinals | 2.44 (41¢) | $26,085 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | ferrariChampions2026 | Colts vs. Commanders | Colts | 1.20 (83¢) | $83,652 | +$17,134 | ✅ Ganada |
 | liquiditycrisis | Patriots vs. Bills | Bills | 1.35 (74¢) | $43,660 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: Bills (-6.5) | Bills | 1.89 (53¢) | $45,474 | — | ⏳ Pendiente |
-| primm | Chiefs vs. Raiders | Chiefs | 1.49 (67¢) | $32,334 | — | ⏳ Pendiente |
-| mooseborzoii | Spread: 49ers (-2.5) | 49ers | 1.85 (54¢) | $164,566 | — | ⏳ Pendiente |
