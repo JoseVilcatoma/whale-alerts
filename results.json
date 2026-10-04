@@ -63565,5 +63565,35 @@
     "status": "pending",
     "ultimo_fill": 1791104316,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8644,
+    "timestamp": 1791110915,
+    "username": "danielhansen",
+    "wallet": "0xa379fded5ade68bc38364007fb62ff18ae4076de",
+    "slug": "atp-zverev-djokovi-2026-10-04",
+    "title": "China Open: Alexander Zverev vs Novak Djokovic",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "usd": 25577.089699999997,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1791110915,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8645,
+    "timestamp": 1791110246,
+    "username": "qiu3",
+    "wallet": "0x7f7351b5ba33a4be08b7111911b227cdd82414f1",
+    "slug": "val-fut1-t1-2026-10-04",
+    "title": "Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "usd": 36019.52690000653,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791110246,
+    "fills": 1
   }
 ]

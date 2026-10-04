@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 05:54:40 (hora de Perú)
+Actualizado: 2026-10-04 05:56:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4229**  ($227,969,044 en total)
+- Apuestas registradas: **4231**  ($228,030,640 en total)
 - Resueltas: **4189** — 2557 ganadas / 1632 perdidas (**61%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 504
+- Pendientes: 24
+- Apostadores distintos: 505
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 
-_(mostrando los 40 de mayor monto, de 504 en total)_
+_(mostrando los 40 de mayor monto, de 505 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| danielhansen | China Open: Alexander Zverev vs Novak Djokovic | Alexander Zverev | 1.41 (71¢) | $25,577 | — | ⏳ Pendiente |
+| qiu3 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | FUT Esports | 2.04 (49¢) | $36,020 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | Spirit | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 5.56 (18¢) | $36,000 | — | ⏳ Pendiente |
 | omnibus-076daa | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.22 (45¢) | $30,515 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 504 en total)_
 | Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $55,699 | -$55,699 | ❌ Perdida |
 | ferrariChampions2026 | Army vs. Louisiana Tech | Army | 2.04 (49¢) | $34,910 | -$34,910 | ❌ Perdida |
 | ferrariChampions2026 | Army vs. Louisiana Tech | Louisiana Tech | 2.00 (50¢) | $25,952 | +$25,952 | ✅ Ganada |
-| kkookkoo | BYU vs. TCU | BYU | 1.49 (67¢) | $28,603 | +$14,088 | ✅ Ganada |
-| Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.52 (66¢) | $113,139 | +$58,284 | ✅ Ganada |
