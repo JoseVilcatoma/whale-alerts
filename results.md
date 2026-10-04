@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 11:41:31 (hora de Perú)
+Actualizado: 2026-10-04 11:43:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4329**  ($233,246,763 en total)
+- Apuestas registradas: **4332**  ($233,370,284 en total)
 - Resueltas: **4214** — 2569 ganadas / 1645 perdidas (**61%** de acierto)
-- Pendientes: 97
+- Pendientes: 100
 - Apostadores distintos: 507
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 160 | 7 | 66% | $30,388,643 | +$1,202,498 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 160 | 8 | 66% | $30,420,455 | +$1,202,498 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 48 | 48 | 2 | 50% | $4,930,148 | -$320,363 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 48 | 32 | 3 | 60% | $3,384,935 | -$512,786 |
+| ferrariChampions2026 | 48 | 32 | 4 | 60% | $3,420,931 | -$512,786 |
 | BrotherObama | 32 | 37 | 4 | 46% | $3,346,447 | +$13,327 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | — | ⏳ Pendiente |
+| Tiger200 | Spread: Bears (-3.5) | Jets | 1.96 (51¢) | $55,714 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-3.5) | Bills | 1.61 (62¢) | $31,811 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-6.5) | Patriots | 2.13 (47¢) | $107,948 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: BetBoom Team vs M80 (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.43 (70¢) | $37,164 | — | ⏳ Pendiente |
 | Kosherlocks | Chargers vs. Seahawks | Seahawks | 1.32 (76¢) | $33,721 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Donkey14 | Spread: Bills (-6.5) | Patriots | 2.08 (48¢) | $50,000 | — | ⏳ Pendiente |
 | surfandturf | Colts vs. Commanders | Colts | 1.67 (60¢) | $38,533 | — | ⏳ Pendiente |
 | mooseborzoii | Titans vs. Ravens: O/U 41.5 | Over 41.5 | 1.89 (53¢) | $38,868 | — | ⏳ Pendiente |
-| eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.37 (73¢) | $56,280 | — | ⏳ Pendiente |
-| BrotherObama | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.04 (49¢) | $70,000 | -$70,000 | ❌ Perdida |
-| liquiditycrisis | Spread: Bears (-3.5) | Jets | 1.96 (51¢) | $50,941 | — | ⏳ Pendiente |
