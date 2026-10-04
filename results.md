@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 11:43:34 (hora de Perú)
+Actualizado: 2026-10-04 11:45:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4332**  ($233,370,284 en total)
+- Apuestas registradas: **4333**  ($233,406,280 en total)
 - Resueltas: **4214** — 2569 ganadas / 1645 perdidas (**61%** de acierto)
-- Pendientes: 100
+- Pendientes: 101
 - Apostadores distintos: 507
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 48 | 48 | 2 | 50% | $4,930,148 | -$320,363 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 48 | 32 | 4 | 60% | $3,420,931 | -$512,786 |
+| ferrariChampions2026 | 48 | 32 | 5 | 60% | $3,456,927 | -$512,786 |
 | BrotherObama | 32 | 37 | 4 | 46% | $3,346,447 | +$13,327 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | — | ⏳ Pendiente |
 | Tiger200 | Spread: Bears (-3.5) | Jets | 1.96 (51¢) | $55,714 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-3.5) | Bills | 1.61 (62¢) | $31,811 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Kch-Temp | Broncos vs. 49ers | 49ers | 1.72 (58¢) | $178,436 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Bills (-6.5) | Patriots | 2.08 (48¢) | $50,000 | — | ⏳ Pendiente |
 | surfandturf | Colts vs. Commanders | Colts | 1.67 (60¢) | $38,533 | — | ⏳ Pendiente |
-| mooseborzoii | Titans vs. Ravens: O/U 41.5 | Over 41.5 | 1.89 (53¢) | $38,868 | — | ⏳ Pendiente |

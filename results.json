@@ -65110,5 +65110,20 @@
     "status": "pending",
     "ultimo_fill": 1791132195,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8772,
+    "timestamp": 1791132318,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-nyj-chi-2026-10-04",
+    "title": "Jets vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 35996.0013,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1791132318,
+    "fills": 1
   }
 ]
