@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 10:58:24 (hora de Perú)
+Actualizado: 2026-10-04 11:00:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4312**  ($232,400,302 en total)
+- Apuestas registradas: **4313**  ($232,491,942 en total)
 - Resueltas: **4209** — 2567 ganadas / 1642 perdidas (**61%** de acierto)
-- Pendientes: 85
+- Pendientes: 86
 - Apostadores distintos: 507
 
 ### Balance
@@ -59,8 +59,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| texaskid | 13 | 11 | 2 | 54% | $1,413,575 | -$3,953 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
-| texaskid | 13 | 11 | 1 | 54% | $1,321,935 | -$3,953 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | mooseborzoii | 12 | 3 | 8 | 80% | $1,272,066 | +$268,684 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Cowboys vs. Texans | Texans | 1.72 (58¢) | $91,640 | — | ⏳ Pendiente |
 | COMEONDUDE | Spread: Texans (-2.5) | Texans | 1.92 (52¢) | $107,640 | — | ⏳ Pendiente |
 | taylorsversion | Cowboys vs. Texans | Texans | 1.72 (58¢) | $27,840 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.89 (53¢) | $145,247 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | BrotherObama | Spread: Colts (-4.5) | Colts | 1.96 (51¢) | $40,000 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Colts (-5.5) | Commanders | 1.92 (52¢) | $33,528 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $26,410 | — | ⏳ Pendiente |
-| gmpm2 | Packers vs. Buccaneers | Buccaneers | 2.50 (40¢) | $47,293 | — | ⏳ Pendiente |

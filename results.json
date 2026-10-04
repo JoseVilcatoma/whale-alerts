@@ -64810,5 +64810,20 @@
     "status": "pending",
     "ultimo_fill": 1791129462,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8747,
+    "timestamp": 1791129606,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "nfl-dal-hou-2026-10-04",
+    "title": "Cowboys vs. Texans",
+    "outcome": "Texans",
+    "side": "BUY",
+    "usd": 91640.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1791129606,
+    "fills": 1
   }
 ]
