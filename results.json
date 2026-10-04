@@ -66040,5 +66040,35 @@
     "status": "pending",
     "ultimo_fill": 1791147360,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8924,
+    "timestamp": 1791147678,
+    "username": "gambamaster",
+    "wallet": "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de",
+    "slug": "nfl-kc-lv-2026-10-04",
+    "title": "Chiefs vs. Raiders",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 33455.8554,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1791147678,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8925,
+    "timestamp": 1791147684,
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+    "slug": "nfl-den-sf-2026-10-04",
+    "title": "Broncos vs. 49ers",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791147684,
+    "fills": 1
   }
 ]

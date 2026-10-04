@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 16:00:22 (hora de Perú)
+Actualizado: 2026-10-04 16:02:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4394**  ($237,191,444 en total)
+- Apuestas registradas: **4396**  ($237,250,400 en total)
 - Resueltas: **4303** — 2620 ganadas / 1683 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Pendientes: 75
 - Apostadores distintos: 507
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Broncos vs. 49ers | 49ers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
+| gambamaster | Chiefs vs. Raiders | Chiefs | 1.52 (66¢) | $33,456 | — | ⏳ Pendiente |
 | 0F62 | Chargers vs. Seahawks | Seahawks | 1.16 (86¢) | $45,504 | — | ⏳ Pendiente |
 | KaneAnalytics | Broncos vs. 49ers | Broncos | 2.38 (42¢) | $31,750 | — | ⏳ Pendiente |
 | 3648393489047 | Chiefs vs. Raiders | Chiefs | 1.64 (61¢) | $63,118 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | TAIWANNUMBERONE | Cardinals vs. Giants | Giants | 1.37 (73¢) | $37,154 | +$13,742 | ✅ Ganada |
 | SmartPredictOrNot | Will Portugal win on 2026-10-04? | Yes | 1.67 (60¢) | $548,832 | — | ⏳ Pendiente |
 | ethanaz | Jaguars vs. Bengals | Jaguars | 1.33 (75¢) | $28,318 | +$9,439 | ✅ Ganada |
-| kkookkoo | Rams vs. Eagles | Rams | 1.69 (59¢) | $29,534 | +$20,523 | ✅ Ganada |
-| SmartPredictOrNot | Will Portugal win on 2026-10-04? | Yes | 1.72 (58¢) | $128,563 | — | ⏳ Pendiente |
