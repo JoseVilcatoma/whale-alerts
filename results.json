@@ -63355,5 +63355,20 @@
     "status": "pending",
     "ultimo_fill": 1791091035,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8616,
+    "timestamp": 1791092241,
+    "username": "kdvlklkvlsklkfs",
+    "wallet": "0xcfe8f6cc8ff9cb68985b7af650ef6dbe9a373a6c",
+    "slug": "atp-purcell-cuyper-2026-10-04",
+    "title": "Wuning 3: Max Purcell vs Julien De Cuyper",
+    "outcome": "Max Purcell",
+    "side": "BUY",
+    "usd": 81000.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1791092241,
+    "fills": 1
   }
 ]

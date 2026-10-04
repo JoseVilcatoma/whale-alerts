@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 00:37:05 (hora de Perú)
+Actualizado: 2026-10-04 00:39:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4215**  ($227,381,627 en total)
+- Apuestas registradas: **4216**  ($227,462,627 en total)
 - Resueltas: **4176** — 2550 ganadas / 1626 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 502
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 502 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kdvlklkvlsklkfs | Wuning 3: Max Purcell vs Julien De Cuyper | Max Purcell | 1.11 (90¢) | $81,000 | — | ⏳ Pendiente |
 | takeormake | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $39,999 | — | ⏳ Pendiente |
 | omoi0i0 | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $91,107 | — | ⏳ Pendiente |
 | Wldntulike2know | Patriots vs. Bills | Bills | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 502 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.16 (86¢) | $455,800 | +$74,200 | ✅ Ganada |
 | mooseborzoii | Florida vs. Missouri | Missouri | 1.49 (67¢) | $26,270 | +$12,939 | ✅ Ganada |
 | mooseborzoii | Florida vs. Missouri | Missouri | 1.72 (58¢) | $26,202 | +$18,974 | ✅ Ganada |
-| ethanaz | Kentucky vs. South Carolina | South Carolina | 1.10 (91¢) | $70,758 | -$70,758 | ❌ Perdida |
