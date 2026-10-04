@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 03:57:11 (hora de Perú)
+Actualizado: 2026-10-04 03:59:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4227**  ($227,892,044 en total)
+- Apuestas registradas: **4229**  ($227,969,044 en total)
 - Resueltas: **4186** — 2555 ganadas / 1631 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 25
 - Apostadores distintos: 504
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 504 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | Spirit | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 5.56 (18¢) | $36,000 | — | ⏳ Pendiente |
 | omnibus-076daa | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.22 (45¢) | $30,515 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Team Falcons | 1.67 (60¢) | $31,244 | — | ⏳ Pendiente |
 | fantasy7788 | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.27 (44¢) | $50,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 504 en total)_
 | ferrariChampions2026 | Army vs. Louisiana Tech | Louisiana Tech | 2.00 (50¢) | $25,952 | +$25,952 | ✅ Ganada |
 | kkookkoo | BYU vs. TCU | BYU | 1.49 (67¢) | $28,603 | +$14,088 | ✅ Ganada |
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.52 (66¢) | $113,139 | +$58,284 | ✅ Ganada |
-| Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $96,980 | -$96,980 | ❌ Perdida |
-| vtcchampion52 | LoL: Cloud9 vs LYON - Game 4 Winner | LYON | 1.67 (60¢) | $28,835 | +$19,224 | ✅ Ganada |

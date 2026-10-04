@@ -63535,5 +63535,35 @@
     "status": "pending",
     "ultimo_fill": 1791104191,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8638,
+    "timestamp": 1791104298,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-ts7-prv-2026-10-04",
+    "title": "Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 36000.0,
+    "odds_at_bet": 18,
+    "status": "pending",
+    "ultimo_fill": 1791104298,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8639,
+    "timestamp": 1791104316,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "cs2-ts7-prv-2026-10-04",
+    "title": "Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 41000.0,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1791104316,
+    "fills": 1
   }
 ]
