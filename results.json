@@ -64165,5 +64165,35 @@
     "status": "pending",
     "ultimo_fill": 1791122034,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8695,
+    "timestamp": 1791122135,
+    "username": "liquiditycrisis",
+    "wallet": "0xa90429bc88a1d22eb40e4aac9aaf0bcefd29d20c",
+    "slug": "nfl-nyj-chi-2026-10-04-spread-home-3pt5",
+    "title": "Spread: Bears (-3.5)",
+    "outcome": "Jets",
+    "side": "BUY",
+    "usd": 50941.279800000004,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791122135,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8696,
+    "timestamp": 1791122191,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "cs2-furia-mouz-2026-10-04",
+    "title": "Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 70000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791122191,
+    "fills": 1
   }
 ]

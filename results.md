@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 08:54:49 (hora de Perú)
+Actualizado: 2026-10-04 08:56:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4269**  ($229,803,099 en total)
+- Apuestas registradas: **4271**  ($229,924,040 en total)
 - Resueltas: **4200** — 2564 ganadas / 1636 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 53
 - Apostadores distintos: 505
 
 ### Balance
@@ -34,8 +34,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 47 | 45 | 4 | 51% | $4,834,418 | -$256,619 |
+| BrotherObama | 32 | 36 | 5 | 47% | $3,346,447 | +$83,327 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| BrotherObama | 32 | 36 | 4 | 47% | $3,276,447 | +$83,327 |
 | ferrariChampions2026 | 48 | 32 | 0 | 60% | $3,187,281 | -$512,786 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
 | surfandturf | 24 | 4 | 1 | 86% | $2,720,215 | +$522,787 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.04 (49¢) | $70,000 | — | ⏳ Pendiente |
+| liquiditycrisis | Spread: Bears (-3.5) | Jets | 1.96 (51¢) | $50,941 | — | ⏳ Pendiente |
 | viboomchuu | Utah vs. Rangers | Utah | 2.13 (47¢) | $27,710 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.08 (48¢) | $27,120 | — | ⏳ Pendiente |
 | TKD44 | Spread: Bears (-3.5) | Bears | 2.00 (50¢) | $26,100 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | omoi0i0 | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $91,107 | +$21,371 | ✅ Ganada |
 | Wldntulike2know | Patriots vs. Bills | Bills | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
 | primm | Cardinals vs. Giants: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $29,397 | — | ⏳ Pendiente |
-| Soarin22 | Jaguars vs. Bengals | Jaguars | 2.33 (43¢) | $29,544 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baylor vs. Arizona State | Baylor | 1.28 (78¢) | $31,195 | +$8,799 | ✅ Ganada |
