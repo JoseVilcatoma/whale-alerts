@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 23:24:49 (hora de Perú)
+Actualizado: 2026-10-03 23:26:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4207**  ($227,069,350 en total)
+- Apuestas registradas: **4208**  ($227,103,284 en total)
 - Resueltas: **4172** — 2548 ganadas / 1624 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 501
 
 ### Balance
@@ -50,8 +50,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 26 | 8 | 0 | 76% | $1,923,965 | +$1,101,302 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
+| maz26 | 15 | 12 | 2 | 56% | $1,771,536 | -$279,699 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| maz26 | 15 | 12 | 1 | 56% | $1,737,603 | -$279,699 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Jets vs. Bears | Bears | 1.59 (63¢) | $33,934 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $45,889 | — | ⏳ Pendiente |
 | btmx6 | Will Germany win on 2026-10-04? | No | 2.13 (47¢) | $56,333 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | liquiditycrisis | Spread: South Florida (-5.5) | Temple | 2.04 (49¢) | $68,136 | +$70,917 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: South Florida (-5.5) | Temple | 2.08 (48¢) | $29,009 | +$31,426 | ✅ Ganada |
 | eschaworldchampion2026 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
-| ethanaz | Florida vs. Missouri | Florida | 1.45 (69¢) | $78,772 | -$78,772 | ❌ Perdida |
