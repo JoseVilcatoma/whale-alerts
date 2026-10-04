@@ -64207,7 +64207,7 @@
     "side": "BUY",
     "usd": 56279.5544,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791122607,
     "fills": 1
   },
@@ -64717,7 +64717,7 @@
     "side": "BUY",
     "usd": 28640.8419,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791128757,
     "fills": 1
   },
@@ -64852,7 +64852,7 @@
     "side": "BUY",
     "usd": 25507.895399999998,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791129846,
     "fills": 1
   },
@@ -64882,7 +64882,7 @@
     "side": "BUY",
     "usd": 29592.18,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791129907,
     "fills": 1
   },
@@ -64987,7 +64987,7 @@
     "side": "BUY",
     "usd": 51840.0,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791130891,
     "fills": 1
   },
@@ -65017,7 +65017,7 @@
     "side": "BUY",
     "usd": 42000.00000000001,
     "odds_at_bet": 28,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791131294,
     "fills": 1
   },
@@ -65544,6 +65544,21 @@
     "odds_at_bet": 47,
     "status": "pending",
     "ultimo_fill": 1791142288,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8828,
+    "timestamp": 1791142435,
+    "username": "cosmicxbt",
+    "wallet": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+    "slug": "nfl-jax-cin-2026-10-04",
+    "title": "Jaguars vs. Bengals",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 44000.0,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1791142435,
     "fills": 1
   }
 ]

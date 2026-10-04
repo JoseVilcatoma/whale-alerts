@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 14:33:05 (hora de Perú)
+Actualizado: 2026-10-04 14:35:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4361**  ($235,213,435 en total)
-- Resueltas: **4240** — 2584 ganadas / 1656 perdidas (**61%** de acierto)
-- Pendientes: 103
+- Apuestas registradas: **4362**  ($235,257,435 en total)
+- Resueltas: **4246** — 2589 ganadas / 1657 perdidas (**61%** de acierto)
+- Pendientes: 98
 - Apostadores distintos: 507
 
 ### Balance
 
-- **Resultado de los apostadores: -$693,515** sobre $228,828,929 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,762** sobre $418,300 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$662,518** sobre $229,062,789 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,671** sobre $418,900 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Diabolical-Prize | 48 | 48 | 2 | 50% | $4,930,148 | -$320,363 |
+| Diabolical-Prize | 48 | 49 | 1 | 49% | $4,930,148 | -$362,363 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 51 | 32 | 6 | 61% | $3,607,356 | -$482,986 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 25 | 5 | 0 | 83% | $2,758,747 | +$509,463 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| Lakersfan111 | 31 | 19 | 1 | 62% | $2,306,537 | +$84,742 |
+| Lakersfan111 | 32 | 19 | 0 | 63% | $2,306,537 | +$104,902 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Jaguars vs. Bengals | Jaguars | 1.25 (80¢) | $44,000 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Seahawks (-7.5) | Seahawks | 2.13 (47¢) | $70,000 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Netherlands vs. Serbia: O/U 2.5 | Over 2.5 | 1.11 (90¢) | $57,094 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Patriots vs. Bills | Bills | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
@@ -106,18 +107,18 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bills (-6.5) | Patriots | 2.13 (47¢) | $107,948 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: BetBoom Team vs M80 (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.43 (70¢) | $37,164 | — | ⏳ Pendiente |
 | Kosherlocks | Chargers vs. Seahawks | Seahawks | 1.32 (76¢) | $33,721 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 3.57 (28¢) | $42,000 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 3.57 (28¢) | $42,000 | -$42,000 | ❌ Perdida |
 | gmpm2 | Spread: Cardinals (-2.5) | Giants | 1.96 (51¢) | $39,800 | — | ⏳ Pendiente |
-| crispychook99 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $51,840 | — | ⏳ Pendiente |
+| crispychook99 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $51,840 | +$20,160 | ✅ Ganada |
 | takeormake | Spread: Bengals (-2.5) | Jaguars | 2.00 (50¢) | $79,562 | — | ⏳ Pendiente |
 | takeormake | Jaguars vs. Bengals | Jaguars | 2.27 (44¢) | $88,357 | — | ⏳ Pendiente |
 | bands1 | Rams vs. Eagles | Rams | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | Donkey14 | Jets vs. Bears | Bears | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | primm | Rams vs. Eagles | Rams | 1.59 (63¢) | $50,400 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: VIT (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.85 (54¢) | $53,730 | — | ⏳ Pendiente |
-| eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $29,592 | — | ⏳ Pendiente |
+| eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $29,592 | +$11,508 | ✅ Ganada |
 | gmpm2 | Packers vs. Buccaneers | Packers | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $25,508 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $25,508 | +$9,920 | ✅ Ganada |
 | wan123 | Cowboys vs. Texans | Texans | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | texaskid | Cowboys vs. Texans | Texans | 1.72 (58¢) | $91,640 | — | ⏳ Pendiente |
 | COMEONDUDE | Spread: Texans (-2.5) | Texans | 1.92 (52¢) | $107,640 | — | ⏳ Pendiente |
@@ -126,8 +127,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Baronen11 | Colts vs. Commanders | Colts | 1.19 (84¢) | $27,777 | +$5,291 | ✅ Ganada |
 | Elaran1993 | Cowboys vs. Texans | Texans | 1.72 (58¢) | $99,760 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.92 (52¢) | $50,000 | — | ⏳ Pendiente |
-| eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.37 (73¢) | $28,641 | — | ⏳ Pendiente |
+| eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.37 (73¢) | $28,641 | +$10,593 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Nemiga | 2.04 (49¢) | $46,501 | — | ⏳ Pendiente |
 | sulumos | Colts vs. Commanders | Colts | 1.15 (87¢) | $66,555 | +$9,945 | ✅ Ganada |
 | TKD44 | Spread: Rams (-3.5) | Eagles | 1.96 (51¢) | $46,779 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Nemiga | 2.04 (49¢) | $90,835 | — | ⏳ Pendiente |
