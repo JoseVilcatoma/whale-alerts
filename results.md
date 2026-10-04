@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 21:22:51 (hora de Perú)
+Actualizado: 2026-10-03 21:24:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4196**  ($226,344,754 en total)
+- Apuestas registradas: **4196**  ($226,463,643 en total)
 - Resueltas: **4143** — 2529 ganadas / 1614 perdidas (**61%** de acierto)
 - Pendientes: 35
 - Apostadores distintos: 501
@@ -36,8 +36,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | BrotherObama | 32 | 36 | 2 | 47% | $3,206,447 | +$83,327 |
+| ferrariChampions2026 | 46 | 31 | 3 | 60% | $3,187,281 | -$558,276 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
-| ferrariChampions2026 | 46 | 31 | 3 | 60% | $3,068,392 | -$558,276 |
 | surfandturf | 24 | 2 | 2 | 92% | $2,681,202 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ferrariChampions2026 | Washington vs. USC | USC | 1.39 (72¢) | $36,080 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Washington vs. USC | USC | 1.35 (74¢) | $154,969 | — | ⏳ Pendiente |
 | surfandturf | Texas State vs. San Diego State | Texas State | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $195,000 | — | ⏳ Pendiente |
 | surfandturf | Texas State vs. San Diego State | Texas State | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
