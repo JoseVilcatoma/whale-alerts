@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 22:22:57 (hora de Perú)
+Actualizado: 2026-10-03 22:25:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4199**  ($226,737,943 en total)
-- Resueltas: **4154** — 2537 ganadas / 1617 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **4158** — 2538 ganadas / 1620 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 501
 
 ### Balance
 
-- **Resultado de los apostadores: -$660,491** sobre $224,530,161 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,950** sobre $409,700 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$822,129** sobre $224,743,703 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,150** sobre $410,100 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| Sassy-Bucket | 59 | 49 | 3 | 55% | $6,100,784 | -$387,427 |
+| Sassy-Bucket | 59 | 51 | 1 | 54% | $6,100,784 | -$540,107 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | BrotherObama | 32 | 36 | 2 | 47% | $3,206,447 | +$83,327 |
-| ferrariChampions2026 | 46 | 31 | 3 | 60% | $3,187,281 | -$558,276 |
+| ferrariChampions2026 | 47 | 32 | 1 | 59% | $3,187,281 | -$567,234 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
 | surfandturf | 24 | 2 | 2 | 92% | $2,681,202 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -96,12 +96,12 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.39 (72¢) | $74,713 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Texas Tech vs. Colorado | Texas Tech | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas Tech vs. Colorado | Texas Tech | 1.30 (77¢) | $30,800 | — | ⏳ Pendiente |
-| Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $55,699 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Army vs. Louisiana Tech | Army | 2.04 (49¢) | $34,910 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Army vs. Louisiana Tech | Louisiana Tech | 2.00 (50¢) | $25,952 | — | ⏳ Pendiente |
+| Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $55,699 | -$55,699 | ❌ Perdida |
+| ferrariChampions2026 | Army vs. Louisiana Tech | Army | 2.04 (49¢) | $34,910 | -$34,910 | ❌ Perdida |
+| ferrariChampions2026 | Army vs. Louisiana Tech | Louisiana Tech | 2.00 (50¢) | $25,952 | +$25,952 | ✅ Ganada |
 | kkookkoo | BYU vs. TCU | BYU | 1.49 (67¢) | $28,603 | +$14,088 | ✅ Ganada |
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.52 (66¢) | $113,139 | +$58,284 | ✅ Ganada |
-| Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $96,980 | — | ⏳ Pendiente |
+| Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $96,980 | -$96,980 | ❌ Perdida |
 | vtcchampion52 | LoL: Cloud9 vs LYON - Game 4 Winner | LYON | 1.67 (60¢) | $28,835 | +$19,224 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.23 (81¢) | $25,828 | +$6,058 | ✅ Ganada |
 | Sassy-Bucket | Kraken vs. Oilers | Oilers | 1.54 (65¢) | $76,619 | +$41,256 | ✅ Ganada |
