@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 11:29:12 (hora de Perú)
+Actualizado: 2026-10-04 11:31:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4326**  ($233,067,931 en total)
+- Apuestas registradas: **4327**  ($233,101,652 en total)
 - Resueltas: **4209** — 2567 ganadas / 1642 perdidas (**61%** de acierto)
-- Pendientes: 99
+- Pendientes: 100
 - Apostadores distintos: 507
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kosherlocks | Chargers vs. Seahawks | Seahawks | 1.32 (76¢) | $33,721 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 3.57 (28¢) | $42,000 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Cardinals (-2.5) | Giants | 1.96 (51¢) | $39,800 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $51,840 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | liquiditycrisis | Spread: Bears (-3.5) | Jets | 1.96 (51¢) | $50,941 | — | ⏳ Pendiente |
 | viboomchuu | Utah vs. Rangers | Utah | 2.13 (47¢) | $27,710 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.08 (48¢) | $27,120 | — | ⏳ Pendiente |
-| TKD44 | Spread: Bears (-3.5) | Bears | 2.00 (50¢) | $26,100 | — | ⏳ Pendiente |
