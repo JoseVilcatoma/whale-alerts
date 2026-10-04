@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 23:16:27 (hora de Perú)
+Actualizado: 2026-10-03 23:18:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4207**  ($227,069,350 en total)
-- Resueltas: **4171** — 2548 ganadas / 1623 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **4172** — 2548 ganadas / 1624 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 501
 
 ### Balance
 
-- **Resultado de los apostadores: -$573,289** sobre $225,692,606 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,980** sobre $411,400 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$603,363** sobre $225,722,680 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,080** sobre $411,500 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -124,7 +124,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | mooseborzoii | Florida vs. Missouri | Missouri | 1.72 (58¢) | $26,202 | +$18,974 | ✅ Ganada |
 | ethanaz | Kentucky vs. South Carolina | South Carolina | 1.10 (91¢) | $70,758 | -$70,758 | ❌ Perdida |
 | ethanaz | Florida vs. Missouri | Missouri | 2.04 (49¢) | $57,195 | +$59,530 | ✅ Ganada |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Ajeet Rai vs Grigoriy Lomakin | Ajeet Rai | 1.33 (75¢) | $30,074 | — | ⏳ Pendiente |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Ajeet Rai vs Grigoriy Lomakin | Ajeet Rai | 1.33 (75¢) | $30,074 | -$30,074 | ❌ Perdida |
 | ethanaz | Florida vs. Missouri | Missouri | 2.33 (43¢) | $35,569 | +$47,150 | ✅ Ganada |
 | mooseborzoii | Spread: South Florida (-5.5) | South Florida | 1.96 (51¢) | $30,941 | -$30,941 | ❌ Perdida |
 | liquiditycrisis | Spread: South Florida (-5.5) | Temple | 2.04 (49¢) | $68,136 | +$70,917 | ✅ Ganada |
