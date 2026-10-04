@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 13:43:50 (hora de Perú)
+Actualizado: 2026-10-04 13:45:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4348**  ($234,588,107 en total)
-- Resueltas: **4226** — 2579 ganadas / 1647 perdidas (**61%** de acierto)
-- Pendientes: 104
+- Resueltas: **4240** — 2584 ganadas / 1656 perdidas (**61%** de acierto)
+- Pendientes: 90
 - Apostadores distintos: 507
 
 ### Balance
 
-- **Resultado de los apostadores: -$618,023** sobre $228,167,466 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,362** sobre $416,900 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$693,515** sobre $228,828,929 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,762** sobre $418,300 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,11 +35,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 48 | 48 | 2 | 50% | $4,930,148 | -$320,363 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 51 | 32 | 3 | 61% | $3,483,012 | -$482,986 |
-| BrotherObama | 32 | 37 | 4 | 46% | $3,346,447 | +$13,327 |
+| BrotherObama | 34 | 37 | 2 | 48% | $3,346,447 | +$82,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ethanaz | 38 | 16 | 1 | 70% | $3,200,364 | -$150,022 |
 | SmartPredictOrNot | 4 | 4 | 2 | 50% | $2,912,909 | -$407,768 |
-| surfandturf | 25 | 4 | 1 | 86% | $2,758,747 | +$548,476 |
+| surfandturf | 25 | 5 | 0 | 83% | $2,758,747 | +$509,463 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | Lakersfan111 | 31 | 19 | 1 | 62% | $2,306,537 | +$84,742 |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Kch-Temp | 26 | 8 | 3 | 76% | $2,195,147 | +$1,101,302 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
-| maz26 | 16 | 12 | 8 | 57% | $2,133,435 | -$248,838 |
+| maz26 | 17 | 12 | 7 | 59% | $2,133,435 | -$223,663 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | texaskid | 13 | 11 | 2 | 54% | $1,413,575 | -$3,953 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
-| mooseborzoii | 12 | 4 | 9 | 75% | $1,350,546 | +$235,156 |
+| mooseborzoii | 13 | 5 | 7 | 72% | $1,350,546 | +$265,321 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 
