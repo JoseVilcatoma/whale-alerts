@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 19:34:54 (hora de Perú)
+Actualizado: 2026-10-03 19:36:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4181**  ($225,612,873 en total)
-- Resueltas: **4133** — 2522 ganadas / 1611 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **4135** — 2523 ganadas / 1612 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 500
 
 ### Balance
 
-- **Resultado de los apostadores: -$870,597** sobre $223,449,902 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,324** sobre $407,600 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$922,131** sobre $223,549,495 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,357** sobre $407,800 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | BrotherObama | 32 | 35 | 3 | 48% | $3,206,447 | +$189,392 |
-| ethanaz | 38 | 15 | 1 | 72% | $3,172,046 | -$79,265 |
+| ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
 | ferrariChampions2026 | 46 | 31 | 2 | 60% | $3,032,312 | -$558,276 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | kkookkoo | BYU vs. TCU | BYU | 1.49 (67¢) | $28,603 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.52 (66¢) | $113,139 | — | ⏳ Pendiente |
 | Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $96,980 | — | ⏳ Pendiente |
-| vtcchampion52 | LoL: Cloud9 vs LYON - Game 4 Winner | LYON | 1.67 (60¢) | $28,835 | — | ⏳ Pendiente |
+| vtcchampion52 | LoL: Cloud9 vs LYON - Game 4 Winner | LYON | 1.67 (60¢) | $28,835 | +$19,224 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.23 (81¢) | $25,828 | — | ⏳ Pendiente |
 | Sassy-Bucket | Kraken vs. Oilers | Oilers | 1.54 (65¢) | $76,619 | — | ⏳ Pendiente |
 | BrotherObama | New York Yankees vs. Tampa Bay Rays | New York Yankees | 2.22 (45¢) | $106,065 | — | ⏳ Pendiente |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.16 (86¢) | $455,800 | +$74,200 | ✅ Ganada |
 | mooseborzoii | Florida vs. Missouri | Missouri | 1.49 (67¢) | $26,270 | +$12,939 | ✅ Ganada |
 | mooseborzoii | Florida vs. Missouri | Missouri | 1.72 (58¢) | $26,202 | +$18,974 | ✅ Ganada |
-| ethanaz | Kentucky vs. South Carolina | South Carolina | 1.10 (91¢) | $70,758 | — | ⏳ Pendiente |
+| ethanaz | Kentucky vs. South Carolina | South Carolina | 1.10 (91¢) | $70,758 | -$70,758 | ❌ Perdida |
 | ethanaz | Florida vs. Missouri | Missouri | 2.04 (49¢) | $57,195 | +$59,530 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Ajeet Rai vs Grigoriy Lomakin | Ajeet Rai | 1.33 (75¢) | $30,074 | — | ⏳ Pendiente |
 | ethanaz | Florida vs. Missouri | Missouri | 2.33 (43¢) | $35,569 | +$47,150 | ✅ Ganada |
