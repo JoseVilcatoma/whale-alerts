@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 14:37:23 (hora de Perú)
+Actualizado: 2026-10-04 14:39:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4362**  ($235,257,435 en total)
-- Resueltas: **4246** — 2589 ganadas / 1657 perdidas (**61%** de acierto)
-- Pendientes: 98
+- Resueltas: **4247** — 2590 ganadas / 1657 perdidas (**61%** de acierto)
+- Pendientes: 97
 - Apostadores distintos: 507
 
 ### Balance
 
-- **Resultado de los apostadores: -$662,518** sobre $229,062,789 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,671** sobre $418,900 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$616,749** sobre $229,116,519 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,586** sobre $419,000 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Diabolical-Prize | 48 | 49 | 1 | 49% | $4,930,148 | -$362,363 |
+| Diabolical-Prize | 49 | 49 | 0 | 50% | $4,930,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 51 | 32 | 6 | 61% | $3,607,356 | -$482,986 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
@@ -115,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | bands1 | Rams vs. Eagles | Rams | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | Donkey14 | Jets vs. Bears | Bears | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | primm | Rams vs. Eagles | Rams | 1.59 (63¢) | $50,400 | — | ⏳ Pendiente |
-| Diabolical-Prize | Map Handicap: VIT (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.85 (54¢) | $53,730 | — | ⏳ Pendiente |
+| Diabolical-Prize | Map Handicap: VIT (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.85 (54¢) | $53,730 | +$45,770 | ✅ Ganada |
 | eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $29,592 | +$11,508 | ✅ Ganada |
 | gmpm2 | Packers vs. Buccaneers | Packers | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $25,508 | +$9,920 | ✅ Ganada |
