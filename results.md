@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 18:26:53 (hora de Perú)
+Actualizado: 2026-10-04 18:28:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4420**  ($239,266,817 en total)
+- Apuestas registradas: **4421**  ($239,295,356 en total)
 - Resueltas: **4340** — 2645 ganadas / 1695 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Pendientes: 63
 - Apostadores distintos: 509
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 509 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs LYON - Game 4 Winner | LYON | 1.79 (56¢) | $28,539 | — | ⏳ Pendiente |
 | curie | Chiefs vs. Raiders | Chiefs | 1.27 (79¢) | $61,068 | — | ⏳ Pendiente |
 | Gulvisa8 | Chiefs vs. Raiders | Chiefs | 1.28 (78¢) | $55,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Raiders | Chiefs | 1.33 (75¢) | $43,373 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 509 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Giants | Giants | 1.25 (80¢) | $40,000 | +$10,000 | ✅ Ganada |
 | Kch-Temp | Dolphins vs. Vikings: O/U 38.5 | Over 38.5 | 1.96 (51¢) | $25,450 | — | ⏳ Pendiente |
 | cosmicxbt | Jaguars vs. Bengals | Jaguars | 1.25 (80¢) | $44,000 | +$11,000 | ✅ Ganada |
-| BrotherObama | Spread: Seahawks (-7.5) | Seahawks | 2.13 (47¢) | $70,000 | — | ⏳ Pendiente |
