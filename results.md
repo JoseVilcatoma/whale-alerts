@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 15:18:52 (hora de Perú)
+Actualizado: 2026-10-04 15:20:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4372**  ($236,026,118 en total)
+- Apuestas registradas: **4375**  ($236,135,143 en total)
 - Resueltas: **4261** — 2599 ganadas / 1662 perdidas (**61%** de acierto)
-- Pendientes: 93
+- Pendientes: 96
 - Apostadores distintos: 507
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 160 | 13 | 66% | $30,651,876 | +$1,202,498 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Sassy-Bucket | 59 | 53 | 1 | 53% | $6,250,359 | -$603,319 |
+| Sassy-Bucket | 59 | 53 | 3 | 53% | $6,320,205 | -$603,319 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -58,8 +58,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 18 | 17 | 1 | 51% | $1,629,226 | -$189,845 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
+| mooseborzoii | 13 | 5 | 9 | 72% | $1,483,841 | +$265,321 |
 | texaskid | 13 | 11 | 3 | 54% | $1,447,575 | -$3,953 |
-| mooseborzoii | 13 | 5 | 8 | 72% | $1,444,662 | +$265,321 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Chiefs vs. Raiders | Raiders | 3.12 (32¢) | $39,179 | — | ⏳ Pendiente |
+| Sassy-Bucket | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $29,846 | — | ⏳ Pendiente |
+| Sassy-Bucket | Broncos vs. 49ers | Broncos | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raiders (-3.5) | Chiefs | 1.25 (80¢) | $54,155 | — | ⏳ Pendiente |
 | YEEES-but-why | Spread: Seahawks (-7.5) | Seahawks | 2.17 (46¢) | $34,960 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $121,314 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Diabolical-Prize | Map Handicap: VIT (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.85 (54¢) | $53,730 | +$45,770 | ✅ Ganada |
 | eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $29,592 | +$11,508 | ✅ Ganada |
 | gmpm2 | Packers vs. Buccaneers | Packers | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $25,508 | +$9,920 | ✅ Ganada |
-| wan123 | Cowboys vs. Texans | Texans | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
-| texaskid | Cowboys vs. Texans | Texans | 1.72 (58¢) | $91,640 | — | ⏳ Pendiente |

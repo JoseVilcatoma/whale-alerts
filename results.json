@@ -65710,5 +65710,50 @@
     "status": "pending",
     "ultimo_fill": 1791145092,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8860,
+    "timestamp": 1791145189,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-den-sf-2026-10-04",
+    "title": "Broncos vs. 49ers",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 40000.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1791145189,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8861,
+    "timestamp": 1791145201,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-kc-lv-2026-10-04",
+    "title": "Chiefs vs. Raiders",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "usd": 39178.9984,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "ultimo_fill": 1791145201,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8862,
+    "timestamp": 1791145201,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-kc-lv-2026-10-04",
+    "title": "Chiefs vs. Raiders",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 29846.4376,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1791145201,
+    "fills": 1
   }
 ]
