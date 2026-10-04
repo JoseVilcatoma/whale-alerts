@@ -63625,5 +63625,20 @@
     "status": "pending",
     "ultimo_fill": 1791111845,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8649,
+    "timestamp": 1791112349,
+    "username": "fantasy7788",
+    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+    "slug": "lol-we-bro2-2026-10-04-game1",
+    "title": "LoL: Team WE vs HANJIN BRION - Game 1 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 27388.601199999997,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791112349,
+    "fills": 1
   }
 ]
