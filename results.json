@@ -65077,7 +65077,7 @@
     "side": "BUY",
     "usd": 31811.226599999998,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791132103,
     "fills": 1
   },
@@ -66339,6 +66339,21 @@
     "odds_at_bet": 82,
     "status": "pending",
     "ultimo_fill": 1791152055,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8954,
+    "timestamp": 1791152349,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-tl2-ly-2026-10-04",
+    "title": "LoL: Team Liquid vs LYON (BO5) - LCS Playoffs",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 38885.324,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1791152349,
     "fills": 1
   }
 ]
