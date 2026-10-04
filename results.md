@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 00:53:56 (hora de Perú)
+Actualizado: 2026-10-04 00:56:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4216**  ($227,462,627 en total)
+- Apuestas registradas: **4217**  ($227,493,077 en total)
 - Resueltas: **4176** — 2550 ganadas / 1626 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 502
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 310 | 159 | 5 | 66% | $30,108,054 | +$1,209,899 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 310 | 159 | 6 | 66% | $30,138,504 | +$1,209,899 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 502 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Germany win on 2026-10-04? | Yes | 1.85 (54¢) | $30,450 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Wuning 3: Max Purcell vs Julien De Cuyper | Max Purcell | 1.11 (90¢) | $81,000 | — | ⏳ Pendiente |
 | takeormake | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $39,999 | — | ⏳ Pendiente |
 | omoi0i0 | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $91,107 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 502 en total)_
 | Sassy-Bucket | UFC 332: Johnny Walker vs. Mick Parkin (Heavyweight, Early Prelims) | Johnny Walker | 1.92 (52¢) | $58,864 | +$54,336 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.16 (86¢) | $455,800 | +$74,200 | ✅ Ganada |
 | mooseborzoii | Florida vs. Missouri | Missouri | 1.49 (67¢) | $26,270 | +$12,939 | ✅ Ganada |
-| mooseborzoii | Florida vs. Missouri | Missouri | 1.72 (58¢) | $26,202 | +$18,974 | ✅ Ganada |
