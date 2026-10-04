@@ -64402,7 +64402,7 @@
     "side": "BUY",
     "usd": 100000.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791124041,
     "fills": 1
   },
@@ -64417,7 +64417,7 @@
     "side": "BUY",
     "usd": 33321.48,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791124212,
     "fills": 1
   },
@@ -65002,7 +65002,7 @@
     "side": "BUY",
     "usd": 39800.0634,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791130974,
     "fills": 1
   },
@@ -65904,6 +65904,36 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1791146375,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8888,
+    "timestamp": 1791146389,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-kc-lv-2026-10-04",
+    "title": "Chiefs vs. Raiders",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 51019.2361,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791146389,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8892,
+    "timestamp": 1791146455,
+    "username": "Nooserac",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "nfl-mia-min-2026-10-04",
+    "title": "Dolphins vs. Vikings",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 25518.989999999998,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1791146455,
     "fills": 1
   }
 ]
