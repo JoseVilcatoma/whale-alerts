@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 17:06:59 (hora de Perú)
+Actualizado: 2026-10-04 17:09:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4410**  ($238,778,866 en total)
-- Resueltas: **4305** — 2620 ganadas / 1685 perdidas (**61%** de acierto)
-- Pendientes: 87
+- Resueltas: **4309** — 2624 ganadas / 1685 perdidas (**61%** de acierto)
+- Pendientes: 83
 - Apostadores distintos: 508
 
 ### Balance
 
-- **Resultado de los apostadores: -$861,728** sobre $231,774,494 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,138** sobre $424,800 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$748,722** sobre $231,907,508 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,800** sobre $425,200 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -55,8 +55,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 2 | 93% | $1,673,116 | +$74,581 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
-| Jsram | 18 | 17 | 1 | 51% | $1,629,226 | -$189,845 |
-| mooseborzoii | 15 | 5 | 8 | 75% | $1,560,661 | +$396,653 |
+| Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
+| mooseborzoii | 17 | 5 | 6 | 77% | $1,560,661 | +$463,371 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | ndb1 | 16 | 7 | 3 | 70% | $1,451,682 | +$353,567 |
