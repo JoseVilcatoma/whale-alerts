@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 11:45:38 (hora de Perú)
+Actualizado: 2026-10-04 13:31:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4333**  ($233,406,280 en total)
-- Resueltas: **4214** — 2569 ganadas / 1645 perdidas (**61%** de acierto)
-- Pendientes: 101
+- Apuestas registradas: **4334**  ($233,459,266 en total)
+- Resueltas: **4226** — 2579 ganadas / 1647 perdidas (**61%** de acierto)
+- Pendientes: 90
 - Apostadores distintos: 507
 
 ### Balance
 
-- **Resultado de los apostadores: -$650,948** sobre $227,476,426 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,499** sobre $415,700 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$618,023** sobre $228,167,466 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,362** sobre $416,900 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 160 | 8 | 66% | $30,420,455 | +$1,202,498 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 160 | 9 | 66% | $30,473,441 | +$1,202,498 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -34,21 +34,21 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 48 | 48 | 2 | 50% | $4,930,148 | -$320,363 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 48 | 32 | 5 | 60% | $3,456,927 | -$512,786 |
+| ferrariChampions2026 | 51 | 32 | 2 | 61% | $3,456,927 | -$482,986 |
 | BrotherObama | 32 | 37 | 4 | 46% | $3,346,447 | +$13,327 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
-| surfandturf | 24 | 4 | 2 | 86% | $2,758,747 | +$522,787 |
+| surfandturf | 25 | 4 | 1 | 86% | $2,758,747 | +$548,476 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| Lakersfan111 | 31 | 18 | 2 | 63% | $2,306,537 | +$196,878 |
+| Lakersfan111 | 31 | 19 | 1 | 62% | $2,306,537 | +$84,742 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Kch-Temp | 26 | 8 | 3 | 76% | $2,195,147 | +$1,101,302 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
-| maz26 | 15 | 12 | 9 | 56% | $2,133,435 | -$279,699 |
+| maz26 | 16 | 12 | 8 | 57% | $2,133,435 | -$248,838 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | texaskid | 13 | 11 | 2 | 54% | $1,413,575 | -$3,953 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
-| mooseborzoii | 12 | 3 | 8 | 80% | $1,272,066 | +$268,684 |
+| mooseborzoii | 12 | 4 | 7 | 75% | $1,272,066 | +$235,156 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 
 _(mostrando los 40 de mayor monto, de 507 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $52,987 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | — | ⏳ Pendiente |
 | Tiger200 | Spread: Bears (-3.5) | Jets | 1.96 (51¢) | $55,714 | — | ⏳ Pendiente |
@@ -95,34 +96,34 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | COMEONDUDE | Spread: Texans (-2.5) | Texans | 1.92 (52¢) | $107,640 | — | ⏳ Pendiente |
 | taylorsversion | Cowboys vs. Texans | Texans | 1.72 (58¢) | $27,840 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.89 (53¢) | $145,247 | — | ⏳ Pendiente |
-| Baronen11 | Colts vs. Commanders | Colts | 1.19 (84¢) | $27,777 | — | ⏳ Pendiente |
+| Baronen11 | Colts vs. Commanders | Colts | 1.19 (84¢) | $27,777 | +$5,291 | ✅ Ganada |
 | Elaran1993 | Cowboys vs. Texans | Texans | 1.72 (58¢) | $99,760 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.92 (52¢) | $50,000 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.37 (73¢) | $28,641 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Nemiga | 2.04 (49¢) | $46,501 | — | ⏳ Pendiente |
-| sulumos | Colts vs. Commanders | Colts | 1.15 (87¢) | $66,555 | — | ⏳ Pendiente |
+| sulumos | Colts vs. Commanders | Colts | 1.15 (87¢) | $66,555 | +$9,945 | ✅ Ganada |
 | TKD44 | Spread: Rams (-3.5) | Eagles | 1.96 (51¢) | $46,779 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Nemiga | 2.04 (49¢) | $90,835 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | alwaysfade | Rams vs. Eagles | Rams | 1.59 (63¢) | $63,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Colts vs. Commanders | Colts | 1.16 (86¢) | $54,467 | — | ⏳ Pendiente |
-| bigballaz | Colts vs. Commanders | Colts | 1.15 (87¢) | $32,190 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colts vs. Commanders | Colts | 1.16 (86¢) | $54,467 | +$8,867 | ✅ Ganada |
+| bigballaz | Colts vs. Commanders | Colts | 1.15 (87¢) | $32,190 | +$4,810 | ✅ Ganada |
 | WanderingWombat | Spread: Bengals (-2.5) | Bengals | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Colts vs. Commanders | Colts | 1.06 (94¢) | $59,534 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colts vs. Commanders | Colts | 1.06 (94¢) | $59,534 | +$3,800 | ✅ Ganada |
 | Jsram | Spread: Packers (-3.5) | Buccaneers | 1.79 (56¢) | $30,348 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Texans (-2.5) | Cowboys | 2.08 (48¢) | $42,960 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Colts vs. Commanders | Colts | 1.20 (83¢) | $83,652 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colts vs. Commanders | Colts | 1.20 (83¢) | $83,652 | +$17,134 | ✅ Ganada |
 | liquiditycrisis | Patriots vs. Bills | Bills | 1.35 (74¢) | $43,660 | — | ⏳ Pendiente |
 | liquiditycrisis | Spread: Bills (-6.5) | Bills | 1.89 (53¢) | $45,474 | — | ⏳ Pendiente |
 | primm | Chiefs vs. Raiders | Chiefs | 1.49 (67¢) | $32,334 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: 49ers (-2.5) | 49ers | 1.85 (54¢) | $164,566 | — | ⏳ Pendiente |
 | Donkey14 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,489 | — | ⏳ Pendiente |
-| KaneAnalytics | Colts vs. Commanders | Colts | 1.56 (64¢) | $91,010 | — | ⏳ Pendiente |
+| KaneAnalytics | Colts vs. Commanders | Colts | 1.56 (64¢) | $91,010 | +$51,193 | ✅ Ganada |
 | Donkey14 | Spread: Cardinals (-2.5) | Giants | 2.00 (50¢) | $33,321 | — | ⏳ Pendiente |
 | ratatatatatatatataaaa | Spread: Cardinals (-2.5) | Cardinals | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | mooseborzoii | Cardinals vs. Giants | Giants | 2.27 (44¢) | $81,305 | — | ⏳ Pendiente |
 | texaskid | Cardinals vs. Giants: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $25,477 | — | ⏳ Pendiente |
-| 177-letsgo | Colts vs. Commanders | Colts | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
+| 177-letsgo | Colts vs. Commanders | Colts | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
 | Kch-Temp | Cowboys vs. Texans | Cowboys | 2.38 (42¢) | $36,766 | — | ⏳ Pendiente |
 | AnonymousUsername | Cowboys vs. Texans | Texans | 1.72 (58¢) | $30,380 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Texans (-2.5) | Texans | 1.89 (53¢) | $25,931 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Siddhartha1 | Spread: 49ers (-2.5) | Broncos | 2.13 (47¢) | $32,900 | — | ⏳ Pendiente |
 | Kch-Temp | Broncos vs. 49ers | 49ers | 1.72 (58¢) | $178,436 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Bills (-6.5) | Patriots | 2.08 (48¢) | $50,000 | — | ⏳ Pendiente |
-| surfandturf | Colts vs. Commanders | Colts | 1.67 (60¢) | $38,533 | — | ⏳ Pendiente |

@@ -63772,7 +63772,7 @@
     "side": "BUY",
     "usd": 112135.45999999999,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791118286,
     "fills": 2
   },
@@ -63952,7 +63952,7 @@
     "side": "BUY",
     "usd": 33527.9984,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791120209,
     "fills": 1
   },
@@ -63997,7 +63997,7 @@
     "side": "BUY",
     "usd": 62657.060000000005,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791120523,
     "fills": 1
   },
@@ -64282,7 +64282,7 @@
     "side": "BUY",
     "usd": 38532.6,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791122731,
     "fills": 1
   },
@@ -64357,7 +64357,7 @@
     "side": "BUY",
     "usd": 28999.999999999996,
     "odds_at_bet": 58,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791123297,
     "fills": 1
   },
@@ -64432,7 +64432,7 @@
     "side": "BUY",
     "usd": 91010.20800000001,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791124454,
     "fills": 1
   },
@@ -64522,7 +64522,7 @@
     "side": "BUY",
     "usd": 83652.31360000001,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791126526,
     "fills": 2
   },
@@ -64567,7 +64567,7 @@
     "side": "BUY",
     "usd": 59534.0728,
     "odds_at_bet": 94,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791127223,
     "fills": 1
   },
@@ -64597,7 +64597,7 @@
     "side": "BUY",
     "usd": 32190.0,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791127965,
     "fills": 1
   },
@@ -64612,7 +64612,7 @@
     "side": "BUY",
     "usd": 54467.3604,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791128039,
     "fills": 1
   },
@@ -64687,7 +64687,7 @@
     "side": "BUY",
     "usd": 66555.0,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791128646,
     "fills": 1
   },
@@ -64762,7 +64762,7 @@
     "side": "BUY",
     "usd": 27777.262799999997,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791128908,
     "fills": 1
   },
@@ -65124,6 +65124,21 @@
     "odds_at_bet": 63,
     "status": "pending",
     "ultimo_fill": 1791132318,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8786,
+    "timestamp": 1791138612,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-atl-lad-2026-10-04",
+    "title": "Atlanta Braves vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 52986.55470000001,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1791138612,
     "fills": 1
   }
 ]
