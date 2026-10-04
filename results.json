@@ -65035,5 +65035,20 @@
     "status": "pending",
     "ultimo_fill": 1791131439,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8767,
+    "timestamp": 1791131685,
+    "username": "NS13",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-bb3-m80-2026-10-04",
+    "title": "Counter-Strike: BetBoom Team vs M80 (BO3) - ESL Pro League Group Stage",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 37163.623,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1791131685,
+    "fills": 1
   }
 ]
