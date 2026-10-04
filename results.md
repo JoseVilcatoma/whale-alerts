@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 08:07:40 (hora de Perú)
+Actualizado: 2026-10-04 08:09:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4250**  ($229,016,879 en total)
+- Apuestas registradas: **4251**  ($229,053,568 en total)
 - Resueltas: **4195** — 2560 ganadas / 1635 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 505
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Spread: Bears (-3.5) | Jets | 2.00 (50¢) | $36,688 | — | ⏳ Pendiente |
 | BrotherObama | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Spread: Colts (-4.5) | Commanders | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | liquiditycrisis | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $127,689 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $195,000 | +$105,000 | ✅ Ganada |
 | surfandturf | Texas State vs. San Diego State | Texas State | 1.32 (76¢) | $38,000 | -$38,000 | ❌ Perdida |
 | kkookkoo | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.43 (70¢) | $26,000 | +$11,143 | ✅ Ganada |
-| gmpm2 | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Wang Cong | 2.86 (35¢) | $26,788 | -$26,788 | ❌ Perdida |
