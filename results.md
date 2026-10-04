@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 07:55:20 (hora de Perú)
+Actualizado: 2026-10-04 07:57:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4246**  ($228,756,790 en total)
+- Apuestas registradas: **4247**  ($228,829,790 en total)
 - Resueltas: **4195** — 2560 ganadas / 1635 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 505
 
 ### Balance
@@ -48,8 +48,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
 | Kch-Temp | 26 | 8 | 1 | 76% | $1,979,945 | +$1,101,302 |
+| maz26 | 15 | 12 | 4 | 56% | $1,928,253 | -$279,699 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
-| maz26 | 15 | 12 | 3 | 56% | $1,855,253 | -$279,699 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Patriots vs. Bills | Bills | 1.37 (73¢) | $73,000 | — | ⏳ Pendiente |
 | Kch-Temp | Rams vs. Eagles | Eagles | 2.70 (37¢) | $55,980 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Rams (-3.5) | Rams | 2.04 (49¢) | $83,716 | — | ⏳ Pendiente |
 | BillyGating | China Open: Alexander Zverev vs Novak Djokovic | Novak Djokovic | 2.56 (39¢) | $78,093 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $25,138 | +$13,536 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.17 (46¢) | $32,625 | -$32,625 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 1.85 (54¢) | $38,857 | -$38,857 | ❌ Perdida |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |

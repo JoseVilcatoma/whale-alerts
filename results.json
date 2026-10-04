@@ -63820,5 +63820,20 @@
     "status": "pending",
     "ultimo_fill": 1791118516,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8667,
+    "timestamp": 1791118542,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-ne-buf-2026-10-04",
+    "title": "Patriots vs. Bills",
+    "outcome": "Bills",
+    "side": "BUY",
+    "usd": 73000.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1791118542,
+    "fills": 1
   }
 ]
