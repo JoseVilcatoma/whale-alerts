@@ -65515,5 +65515,35 @@
     "status": "pending",
     "ultimo_fill": 1791142082,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8826,
+    "timestamp": 1791142276,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "unl-nld-ser-2026-10-04-total-2pt5",
+    "title": "Netherlands vs. Serbia: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 57093.822,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1791142276,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8827,
+    "timestamp": 1791142288,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "nfl-lac-sea-2026-10-04-spread-home-7pt5",
+    "title": "Spread: Seahawks (-7.5)",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 70000.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1791142288,
+    "fills": 1
   }
 ]
