@@ -63770,10 +63770,25 @@
     "title": "Counter-Strike: G2 vs 1WIN (BO3) - ESL Pro League Group Stage",
     "outcome": "G2",
     "side": "BUY",
-    "usd": 61496.96,
+    "usd": 112135.45999999999,
     "odds_at_bet": 74,
     "status": "pending",
-    "ultimo_fill": 1791118225,
-    "fills": 1
+    "ultimo_fill": 1791118286,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 8664,
+    "timestamp": 1791118356,
+    "username": "BillyGating",
+    "wallet": "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60",
+    "slug": "atp-zverev-djokovi-2026-10-04",
+    "title": "China Open: Alexander Zverev vs Novak Djokovic",
+    "outcome": "Novak Djokovic",
+    "side": "BUY",
+    "usd": 78093.2451,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1791118392,
+    "fills": 2
   }
 ]
