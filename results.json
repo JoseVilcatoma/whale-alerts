@@ -64885,5 +64885,20 @@
     "status": "pending",
     "ultimo_fill": 1791129907,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8752,
+    "timestamp": 1791130153,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-vit-navi-2026-10-04-map-handicap-away-1pt5",
+    "title": "Map Handicap: VIT (-1.5) vs Natus Vincere (+1.5)",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 53729.564009,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1791130153,
+    "fills": 1
   }
 ]
