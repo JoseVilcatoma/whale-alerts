@@ -62617,7 +62617,7 @@
     "side": "BUY",
     "usd": 76618.7565,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791066711,
     "fills": 1
   },
@@ -62994,6 +62994,21 @@
     "odds_at_bet": 35,
     "status": "pending",
     "ultimo_fill": 1791079072,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8554,
+    "timestamp": 1791079534,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "mlb-sd-mil-2026-10-03",
+    "title": "San Diego Padres vs. Milwaukee Brewers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 25999.999999,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1791079534,
     "fills": 1
   }
 ]
