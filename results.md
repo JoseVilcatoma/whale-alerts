@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 21:08:26 (hora de Perú)
+Actualizado: 2026-10-03 21:10:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4193**  ($226,076,174 en total)
+- Apuestas registradas: **4194**  ($226,271,174 en total)
 - Resueltas: **4139** — 2526 ganadas / 1613 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 501
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| Sassy-Bucket | 56 | 49 | 5 | 53% | $5,905,784 | -$564,246 |
+| Sassy-Bucket | 56 | 49 | 6 | 53% | $6,100,784 | -$564,246 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $195,000 | — | ⏳ Pendiente |
 | surfandturf | Texas State vs. San Diego State | Texas State | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | kkookkoo | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.43 (70¢) | $26,000 | — | ⏳ Pendiente |
 | gmpm2 | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Wang Cong | 2.86 (35¢) | $26,788 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | Mastermoney | Florida vs. Missouri: O/U 59.5 | Over 59.5 | 2.13 (47¢) | $25,794 | +$29,087 | ✅ Ganada |
 | 177-letsgo | UCF vs. Houston | Houston | 1.14 (88¢) | $25,518 | +$3,480 | ✅ Ganada |
 | gmpm2 | Spread: Florida (-5.5) | Missouri | 2.04 (49¢) | $30,870 | +$32,130 | ✅ Ganada |
-| gmpm2 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $71,495 | +$12,617 | ✅ Ganada |
