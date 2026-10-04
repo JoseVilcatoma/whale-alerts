@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 10:48:00 (hora de Perú)
+Actualizado: 2026-10-04 10:50:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4308**  ($232,091,797 en total)
+- Apuestas registradas: **4311**  ($232,247,415 en total)
 - Resueltas: **4208** — 2567 ganadas / 1641 perdidas (**61%** de acierto)
-- Pendientes: 82
-- Apostadores distintos: 506
+- Pendientes: 85
+- Apostadores distintos: 507
 
 ### Balance
 
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 12 | 3 | 8 | 80% | $1,272,066 | +$268,684 |
 | xifutloong3 | 19 | 18 | 0 | 51% | $1,259,419 | -$200,287 |
 
-_(mostrando los 40 de mayor monto, de 506 en total)_
+_(mostrando los 40 de mayor monto, de 507 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| taylorsversion | Cowboys vs. Texans | Texans | 1.72 (58¢) | $27,840 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.92 (52¢) | $100,000 | — | ⏳ Pendiente |
+| Baronen11 | Colts vs. Commanders | Colts | 1.19 (84¢) | $27,777 | — | ⏳ Pendiente |
 | Elaran1993 | Cowboys vs. Texans | Texans | 1.72 (58¢) | $99,760 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.92 (52¢) | $50,000 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.37 (73¢) | $28,641 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $26,410 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Buccaneers | Buccaneers | 2.50 (40¢) | $47,293 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
-| monkeymashingkeyboard | Spread: Bears (-3.5) | Jets | 2.00 (50¢) | $36,688 | — | ⏳ Pendiente |
-| BrotherObama | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
-| monkeymashingkeyboard | Spread: Colts (-4.5) | Commanders | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
