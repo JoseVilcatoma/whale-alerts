@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 08:40:19 (hora de Perú)
+Actualizado: 2026-10-04 08:42:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4262**  ($229,607,245 en total)
-- Resueltas: **4195** — 2560 ganadas / 1635 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Resueltas: **4200** — 2564 ganadas / 1636 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 505
 
 ### Balance
 
-- **Resultado de los apostadores: -$685,255** sobre $226,714,539 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,347** sobre $413,800 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$599,914** sobre $226,890,157 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,099** sobre $414,300 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| Lakersfan111 | 27 | 18 | 5 | 60% | $2,254,697 | +$75,517 |
+| Lakersfan111 | 31 | 18 | 1 | 63% | $2,254,697 | +$196,878 |
 | SmartPredictOrNot | 4 | 4 | 0 | 50% | $2,235,514 | -$407,768 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -98,12 +98,12 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $28,700 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Team WE vs HANJIN BRION - Game 1 Winner | Team WE | 1.96 (51¢) | $42,482 | — | ⏳ Pendiente |
-| crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $29,282 | — | ⏳ Pendiente |
+| crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $29,282 | +$24,943 | ✅ Ganada |
 | fantasy7788 | LoL: Team WE vs HANJIN BRION - Game 1 Winner | HANJIN BRION | 1.96 (51¢) | $27,389 | — | ⏳ Pendiente |
-| crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $39,398 | — | ⏳ Pendiente |
-| crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $36,614 | — | ⏳ Pendiente |
+| crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $39,398 | +$33,562 | ✅ Ganada |
+| crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $36,614 | +$31,190 | ✅ Ganada |
 | danielhansen | China Open: Alexander Zverev vs Novak Djokovic | Alexander Zverev | 1.41 (71¢) | $25,577 | — | ⏳ Pendiente |
-| qiu3 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | FUT Esports | 2.04 (49¢) | $36,020 | — | ⏳ Pendiente |
+| qiu3 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | FUT Esports | 2.04 (49¢) | $36,020 | -$36,020 | ❌ Perdida |
 | juice-fruit | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | Spirit | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 5.56 (18¢) | $36,000 | -$36,000 | ❌ Perdida |
 | omnibus-076daa | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.22 (45¢) | $30,515 | -$30,515 | ❌ Perdida |
@@ -112,7 +112,7 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | kdvlklkvlsklkfs | Wuning 3: Yuta Kikuchi vs Kosuke Ogura | Kosuke Ogura | 1.72 (58¢) | $35,619 | -$35,619 | ❌ Perdida |
 | Tontis | Wuning 3: Ryuki Matsuda vs Sergey Betov | Ryuki Matsuda | 1.10 (91¢) | $77,350 | +$7,650 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Blake Bayldon vs Taisei Ichikawa | Blake Bayldon | 5.26 (19¢) | $26,513 | +$113,027 | ✅ Ganada |
-| crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.92 (52¢) | $34,304 | — | ⏳ Pendiente |
+| crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.92 (52¢) | $34,304 | +$31,666 | ✅ Ganada |
 | THEdirkdiggler | Spread: Vikings (-9.5) | Dolphins | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | BTCGambler247 | Chiefs vs. Raiders | Chiefs | 1.49 (67¢) | $35,510 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: ShindeN vs Legacy (BO3) - ESL Pro League Group Stage | Legacy | 1.32 (76¢) | $28,911 | +$9,130 | ✅ Ganada |
