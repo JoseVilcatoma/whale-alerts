@@ -64480,5 +64480,20 @@
     "status": "pending",
     "ultimo_fill": 1791125413,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8724,
+    "timestamp": 1791125935,
+    "username": "liquiditycrisis",
+    "wallet": "0xa90429bc88a1d22eb40e4aac9aaf0bcefd29d20c",
+    "slug": "nfl-ne-buf-2026-10-04-spread-home-6pt5",
+    "title": "Spread: Bills (-6.5)",
+    "outcome": "Bills",
+    "side": "BUY",
+    "usd": 45473.6237,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791125935,
+    "fills": 1
   }
 ]
