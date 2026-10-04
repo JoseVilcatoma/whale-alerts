@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 22:04:01 (hora de Perú)
+Actualizado: 2026-10-03 22:06:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4199**  ($226,737,943 en total)
-- Resueltas: **4146** — 2531 ganadas / 1615 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **4149** — 2533 ganadas / 1616 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 501
 
 ### Balance
 
-- **Resultado de los apostadores: -$907,682** sobre $223,992,010 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,173** sobre $408,900 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$836,280** sobre $224,120,096 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,061** sobre $409,200 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 305 | 156 | 11 | 66% | $30,045,658 | +$1,146,700 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 306 | 156 | 10 | 66% | $30,045,658 | +$1,178,127 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -118,9 +118,9 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | ethanaz | Florida vs. Missouri | Missouri | 2.04 (49¢) | $57,195 | +$59,530 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Ajeet Rai vs Grigoriy Lomakin | Ajeet Rai | 1.33 (75¢) | $30,074 | — | ⏳ Pendiente |
 | ethanaz | Florida vs. Missouri | Missouri | 2.33 (43¢) | $35,569 | +$47,150 | ✅ Ganada |
-| mooseborzoii | Spread: South Florida (-5.5) | South Florida | 1.96 (51¢) | $30,941 | — | ⏳ Pendiente |
-| liquiditycrisis | Spread: South Florida (-5.5) | Temple | 2.04 (49¢) | $68,136 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: South Florida (-5.5) | Temple | 2.08 (48¢) | $29,009 | — | ⏳ Pendiente |
+| mooseborzoii | Spread: South Florida (-5.5) | South Florida | 1.96 (51¢) | $30,941 | -$30,941 | ❌ Perdida |
+| liquiditycrisis | Spread: South Florida (-5.5) | Temple | 2.04 (49¢) | $68,136 | +$70,917 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: South Florida (-5.5) | Temple | 2.08 (48¢) | $29,009 | +$31,426 | ✅ Ganada |
 | eschaworldchampion2026 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
 | ethanaz | Florida vs. Missouri | Florida | 1.45 (69¢) | $78,772 | -$78,772 | ❌ Perdida |
 | mooseborzoii | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.52 (66¢) | $95,757 | +$49,329 | ✅ Ganada |
