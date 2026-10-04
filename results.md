@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 15:31:14 (hora de Perú)
+Actualizado: 2026-10-04 15:33:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4382**  ($236,607,521 en total)
+- Apuestas registradas: **4383**  ($236,637,090 en total)
 - Resueltas: **4261** — 2599 ganadas / 1662 perdidas (**61%** de acierto)
-- Pendientes: 103
+- Pendientes: 104
 - Apostadores distintos: 507
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 49 | 1 | 50% | $4,956,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 53 | 32 | 5 | 62% | $3,654,857 | -$440,705 |
+| ferrariChampions2026 | 53 | 32 | 6 | 62% | $3,684,425 | -$440,705 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
 | ethanaz | 38 | 16 | 3 | 70% | $3,399,366 | -$150,022 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chiefs vs. Raiders | Chiefs | 1.67 (60¢) | $29,569 | — | ⏳ Pendiente |
 | kkookkoo | San Diego Padres vs. Milwaukee Brewers | San Diego Padres | 1.67 (60¢) | $38,500 | — | ⏳ Pendiente |
 | 177-letsgo | Chargers vs. Seahawks | Seahawks | 1.33 (75¢) | $69,750 | — | ⏳ Pendiente |
 | Diabolical-Prize | Spread: Chiefs (-4.5) | Chiefs | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Diabolical-Prize | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 3.57 (28¢) | $42,000 | -$42,000 | ❌ Perdida |
 | gmpm2 | Spread: Cardinals (-2.5) | Giants | 1.96 (51¢) | $39,800 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $51,840 | +$20,160 | ✅ Ganada |
-| takeormake | Spread: Bengals (-2.5) | Jaguars | 2.00 (50¢) | $79,562 | — | ⏳ Pendiente |
