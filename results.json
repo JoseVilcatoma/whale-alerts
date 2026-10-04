@@ -63322,7 +63322,7 @@
     "side": "BUY",
     "usd": 25900.0,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791090000,
     "fills": 1
   },
@@ -63832,7 +63832,7 @@
     "side": "BUY",
     "usd": 73000.0,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791118542,
     "fills": 1
   },
@@ -64507,7 +64507,7 @@
     "side": "BUY",
     "usd": 43660.0,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791126050,
     "fills": 1
   },
@@ -65482,7 +65482,7 @@
     "side": "BUY",
     "usd": 28348.372,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791142026,
     "fills": 1
   },
@@ -65497,7 +65497,7 @@
     "side": "BUY",
     "usd": 25031.088,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791142035,
     "fills": 1
   },
@@ -65512,7 +65512,7 @@
     "side": "BUY",
     "usd": 26000.0,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791142082,
     "fills": 1
   },
@@ -65874,6 +65874,21 @@
     "odds_at_bet": 60,
     "status": "pending",
     "ultimo_fill": 1791145987,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8871,
+    "timestamp": 1791146035,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "nfl-mia-min-2026-10-04",
+    "title": "Dolphins vs. Vikings",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 115489.30679999999,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1791146035,
     "fills": 1
   }
 ]
