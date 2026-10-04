@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 23:39:06 (hora de Perú)
+Actualizado: 2026-10-03 23:41:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4209**  ($227,134,484 en total)
+- Apuestas registradas: **4211**  ($227,195,223 en total)
 - Resueltas: **4175** — 2550 ganadas / 1625 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 18
 - Apostadores distintos: 501
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 310 | 159 | 4 | 66% | $30,076,858 | +$1,209,899 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 310 | 159 | 5 | 66% | $30,108,054 | +$1,209,899 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Soarin22 | Jaguars vs. Bengals | Jaguars | 2.33 (43¢) | $29,544 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baylor vs. Arizona State | Baylor | 1.28 (78¢) | $31,195 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baylor vs. Arizona State | Baylor | 1.28 (78¢) | $31,200 | — | ⏳ Pendiente |
 | gmpm2 | Jets vs. Bears | Bears | 1.59 (63¢) | $33,934 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Ajeet Rai vs Grigoriy Lomakin | Ajeet Rai | 1.33 (75¢) | $30,074 | -$30,074 | ❌ Perdida |
 | ethanaz | Florida vs. Missouri | Missouri | 2.33 (43¢) | $35,569 | +$47,150 | ✅ Ganada |
 | mooseborzoii | Spread: South Florida (-5.5) | South Florida | 1.96 (51¢) | $30,941 | -$30,941 | ❌ Perdida |
-| liquiditycrisis | Spread: South Florida (-5.5) | Temple | 2.04 (49¢) | $68,136 | +$70,917 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: South Florida (-5.5) | Temple | 2.08 (48¢) | $29,009 | +$31,426 | ✅ Ganada |

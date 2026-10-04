@@ -63265,5 +63265,35 @@
     "status": "pending",
     "ultimo_fill": 1791088243,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8609,
+    "timestamp": 1791088753,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-bayl-arzst-2026-10-03",
+    "title": "Baylor vs. Arizona State",
+    "outcome": "Baylor",
+    "side": "BUY",
+    "usd": 31195.497272999994,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1791088753,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8610,
+    "timestamp": 1791088794,
+    "username": "Soarin22",
+    "wallet": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+    "slug": "nfl-jax-cin-2026-10-04",
+    "title": "Jaguars vs. Bengals",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 29543.751999999997,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1791088794,
+    "fills": 1
   }
 ]
