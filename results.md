@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 15:10:26 (hora de Perú)
+Actualizado: 2026-10-04 15:12:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4366**  ($235,390,939 en total)
+- Apuestas registradas: **4367**  ($235,438,439 en total)
 - Resueltas: **4248** — 2591 ganadas / 1657 perdidas (**61%** de acierto)
-- Pendientes: 100
+- Pendientes: 101
 - Apostadores distintos: 507
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 49 | 0 | 50% | $4,930,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 51 | 32 | 6 | 61% | $3,607,356 | -$482,986 |
+| ferrariChampions2026 | 51 | 32 | 7 | 61% | $3,654,857 | -$482,986 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ethanaz | 38 | 16 | 2 | 70% | $3,228,713 | -$150,022 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chargers vs. Seahawks | Seahawks | 1.33 (75¢) | $47,501 | — | ⏳ Pendiente |
 | 3648393489047 | Cardinals vs. Giants | Cardinals | 1.56 (64¢) | $34,154 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Dolphins vs. Vikings | Dolphins | 5.88 (17¢) | $33,899 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Giants | Giants | 1.25 (80¢) | $40,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.89 (53¢) | $145,247 | — | ⏳ Pendiente |
 | Baronen11 | Colts vs. Commanders | Colts | 1.19 (84¢) | $27,777 | +$5,291 | ✅ Ganada |
 | Elaran1993 | Cowboys vs. Texans | Texans | 1.72 (58¢) | $99,760 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.92 (52¢) | $50,000 | — | ⏳ Pendiente |
