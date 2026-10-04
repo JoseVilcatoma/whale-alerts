@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 17:53:47 (hora de Perú)
+Actualizado: 2026-10-04 17:55:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4416**  ($239,069,818 en total)
-- Resueltas: **4325** — 2632 ganadas / 1693 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Resueltas: **4327** — 2634 ganadas / 1693 perdidas (**61%** de acierto)
+- Pendientes: 71
 - Apostadores distintos: 508
 
 ### Balance
 
-- **Resultado de los apostadores: -$649,775** sobre $232,799,079 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,932** sobre $426,800 (ROI **-1.6%**)
+- **Resultado de los apostadores: -$190,789** sobre $233,476,474 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,793** sobre $427,000 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 49 | 49 | 1 | 50% | $4,956,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 54 | 35 | 9 | 61% | $4,031,058 | -$538,986 |
-| SmartPredictOrNot | 4 | 4 | 3 | 50% | $3,705,357 | -$407,768 |
+| SmartPredictOrNot | 6 | 4 | 1 | 60% | $3,705,357 | +$51,217 |
 | ethanaz | 39 | 17 | 3 | 70% | $3,467,148 | -$168,931 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
