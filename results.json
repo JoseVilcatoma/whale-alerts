@@ -63127,7 +63127,7 @@
     "side": "BUY",
     "usd": 28261.078799999996,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791084705,
     "fills": 1
   },
@@ -63142,7 +63142,7 @@
     "side": "BUY",
     "usd": 35157.939999,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791085257,
     "fills": 1
   },
@@ -63172,7 +63172,7 @@
     "side": "BUY",
     "usd": 55207.5323,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791084706,
     "fills": 1
   },
@@ -63217,7 +63217,7 @@
     "side": "BUY",
     "usd": 45889.44,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791086365,
     "fills": 1
   },
@@ -63337,7 +63337,7 @@
     "side": "BUY",
     "usd": 91107.3825,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791090986,
     "fills": 1
   },
@@ -63352,7 +63352,7 @@
     "side": "BUY",
     "usd": 39999.420000000006,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791091035,
     "fills": 1
   },
@@ -63444,6 +63444,21 @@
     "odds_at_bet": 52,
     "status": "pending",
     "ultimo_fill": 1791097480,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8632,
+    "timestamp": 1791099207,
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "wallet": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+    "slug": "atp-bayldon-ichikaw-2026-10-04",
+    "title": "Wuning 3: Blake Bayldon vs Taisei Ichikawa",
+    "outcome": "Blake Bayldon",
+    "side": "BUY",
+    "usd": 26512.5525,
+    "odds_at_bet": 19,
+    "status": "pending",
+    "ultimo_fill": 1791099207,
     "fills": 1
   }
 ]

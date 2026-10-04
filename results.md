@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 02:32:00 (hora de Perú)
+Actualizado: 2026-10-04 02:34:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4221**  ($227,640,803 en total)
-- Resueltas: **4180** — 2552 ganadas / 1628 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Apuestas registradas: **4222**  ($227,667,315 en total)
+- Resueltas: **4186** — 2555 ganadas / 1631 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 503
 
 ### Balance
 
-- **Resultado de los apostadores: -$675,555** sobre $226,012,009 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,327** sobre $412,300 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$680,928** sobre $226,307,631 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,448** sobre $412,900 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| Sassy-Bucket | 59 | 52 | 1 | 53% | $6,129,045 | -$575,058 |
+| Sassy-Bucket | 59 | 53 | 0 | 53% | $6,129,045 | -$603,319 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,14 +71,15 @@ _(mostrando los 40 de mayor monto, de 503 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Blake Bayldon vs Taisei Ichikawa | Blake Bayldon | 5.26 (19¢) | $26,513 | — | ⏳ Pendiente |
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.92 (52¢) | $34,304 | — | ⏳ Pendiente |
 | THEdirkdiggler | Spread: Vikings (-9.5) | Dolphins | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | BTCGambler247 | Chiefs vs. Raiders | Chiefs | 1.49 (67¢) | $35,510 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: ShindeN vs Legacy (BO3) - ESL Pro League Group Stage | Legacy | 1.32 (76¢) | $28,911 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Germany win on 2026-10-04? | Yes | 1.85 (54¢) | $30,450 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Wuning 3: Max Purcell vs Julien De Cuyper | Max Purcell | 1.11 (90¢) | $81,000 | — | ⏳ Pendiente |
-| takeormake | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $39,999 | — | ⏳ Pendiente |
-| omoi0i0 | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $91,107 | — | ⏳ Pendiente |
+| takeormake | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $39,999 | +$9,383 | ✅ Ganada |
+| omoi0i0 | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $91,107 | +$21,371 | ✅ Ganada |
 | Wldntulike2know | Patriots vs. Bills | Bills | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
 | primm | Cardinals vs. Giants: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $29,397 | — | ⏳ Pendiente |
 | Soarin22 | Jaguars vs. Bengals | Jaguars | 2.33 (43¢) | $29,544 | — | ⏳ Pendiente |
@@ -86,13 +87,13 @@ _(mostrando los 40 de mayor monto, de 503 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baylor vs. Arizona State | Baylor | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
 | gmpm2 | Jets vs. Bears | Bears | 1.59 (63¢) | $33,934 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $45,889 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $45,889 | -$45,889 | ❌ Perdida |
 | btmx6 | Will Germany win on 2026-10-04? | No | 2.13 (47¢) | $56,333 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Cardinals vs. Giants | Cardinals | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawaii | 1.75 (57¢) | $35,158 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $35,158 | — | ⏳ Pendiente |
-| primm | San Jose State vs. Hawai'i | San Jose State | 2.33 (43¢) | $55,208 | — | ⏳ Pendiente |
-| Sassy-Bucket | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $28,261 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $35,158 | -$35,158 | ❌ Perdida |
+| primm | San Jose State vs. Hawai'i | San Jose State | 2.33 (43¢) | $55,208 | +$73,182 | ✅ Ganada |
+| Sassy-Bucket | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $28,261 | -$28,261 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.72 (58¢) | $28,594 | +$20,706 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.44 (41¢) | $39,806 | -$39,806 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.41 (71¢) | $205,900 | +$84,100 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 503 en total)_
 | BrotherObama | New York Yankees vs. Tampa Bay Rays | New York Yankees | 2.22 (45¢) | $106,065 | -$106,065 | ❌ Perdida |
 | Talvez10 | Senators vs. Maple Leafs | Senators | 2.04 (49¢) | $35,255 | +$36,694 | ✅ Ganada |
 | 177-letsgo | Auburn vs. Tennessee | Tennessee | 1.08 (93¢) | $35,741 | +$2,690 | ✅ Ganada |
-| 3648393489047 | Florida vs. Missouri | Missouri | 1.20 (83¢) | $46,111 | +$9,444 | ✅ Ganada |
