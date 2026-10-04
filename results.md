@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 08:50:45 (hora de Perú)
+Actualizado: 2026-10-04 08:52:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4263**  ($229,633,602 en total)
+- Apuestas registradas: **4264**  ($229,669,970 en total)
 - Resueltas: **4200** — 2564 ganadas / 1636 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 505
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Titans vs. Ravens: O/U 41.5 | Over 41.5 | 1.89 (53¢) | $36,368 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rams (-4.5) | Rams | 2.22 (45¢) | $26,356 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.08 (48¢) | $50,000 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $45,889 | -$45,889 | ❌ Perdida |
 | btmx6 | Will Germany win on 2026-10-04? | No | 2.13 (47¢) | $56,333 | — | ⏳ Pendiente |
-| monkeymashingkeyboard | Cardinals vs. Giants | Cardinals | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
