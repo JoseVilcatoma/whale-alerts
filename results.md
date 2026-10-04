@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 00:18:14 (hora de Perú)
+Actualizado: 2026-10-04 00:20:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4215**  ($227,381,627 en total)
-- Resueltas: **4175** — 2550 ganadas / 1625 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **4176** — 2550 ganadas / 1626 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 502
 
 ### Balance
 
-- **Resultado de los apostadores: -$592,172** sobre $225,848,631 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,084** sobre $411,800 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$617,653** sobre $225,874,113 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,184** sobre $411,900 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
-| Talvez10 | 17 | 14 | 1 | 55% | $1,526,555 | +$300,483 |
+| Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
