@@ -64450,5 +64450,20 @@
     "status": "pending",
     "ultimo_fill": 1791124672,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8722,
+    "timestamp": 1791125154,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-den-sf-2026-10-04-spread-home-2pt5",
+    "title": "Spread: 49ers (-2.5)",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 164565.99360000002,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1791125155,
+    "fills": 2
   }
 ]
