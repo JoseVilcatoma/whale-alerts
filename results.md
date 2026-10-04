@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 10:16:14 (hora de Perú)
+Actualizado: 2026-10-04 10:18:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4294**  ($231,272,187 en total)
+- Apuestas registradas: **4295**  ($231,302,535 en total)
 - Resueltas: **4208** — 2567 ganadas / 1641 perdidas (**61%** de acierto)
-- Pendientes: 68
+- Pendientes: 69
 - Apostadores distintos: 506
 
 ### Balance
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
-| Jsram | 18 | 17 | 0 | 51% | $1,598,878 | -$189,845 |
+| Jsram | 18 | 17 | 1 | 51% | $1,629,226 | -$189,845 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 25 | 2 | 0 | 93% | $1,567,506 | +$74,581 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Spread: Packers (-3.5) | Buccaneers | 1.79 (56¢) | $30,348 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Texans (-2.5) | Cowboys | 2.08 (48¢) | $42,960 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Commanders | Colts | 1.20 (83¢) | $83,652 | — | ⏳ Pendiente |
 | liquiditycrisis | Patriots vs. Bills | Bills | 1.35 (74¢) | $43,660 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $28,700 | -$28,700 | ❌ Perdida |
 | Diabolical-Prize | LoL: Team WE vs HANJIN BRION - Game 1 Winner | Team WE | 1.96 (51¢) | $42,482 | +$40,816 | ✅ Ganada |
-| crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $29,282 | +$24,943 | ✅ Ganada |
