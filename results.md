@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 03:55:04 (hora de Perú)
+Actualizado: 2026-10-04 03:57:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4226**  ($227,861,529 en total)
+- Apuestas registradas: **4227**  ($227,892,044 en total)
 - Resueltas: **4186** — 2555 ganadas / 1631 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 504
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 504 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.22 (45¢) | $30,515 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Team Falcons | 1.67 (60¢) | $31,244 | — | ⏳ Pendiente |
 | fantasy7788 | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.27 (44¢) | $50,000 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Wuning 3: Yuta Kikuchi vs Kosuke Ogura | Kosuke Ogura | 1.72 (58¢) | $35,619 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 504 en total)_
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.52 (66¢) | $113,139 | +$58,284 | ✅ Ganada |
 | Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $96,980 | -$96,980 | ❌ Perdida |
 | vtcchampion52 | LoL: Cloud9 vs LYON - Game 4 Winner | LYON | 1.67 (60¢) | $28,835 | +$19,224 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.23 (81¢) | $25,828 | +$6,058 | ✅ Ganada |
