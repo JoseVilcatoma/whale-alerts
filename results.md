@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 14:18:33 (hora de Perú)
+Actualizado: 2026-10-04 14:20:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4355**  ($234,977,480 en total)
+- Apuestas registradas: **4356**  ($235,006,962 en total)
 - Resueltas: **4240** — 2584 ganadas / 1656 perdidas (**61%** de acierto)
-- Pendientes: 97
+- Pendientes: 98
 - Apostadores distintos: 507
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 48 | 48 | 2 | 50% | $4,930,148 | -$320,363 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 51 | 32 | 4 | 61% | $3,552,843 | -$482,986 |
+| ferrariChampions2026 | 51 | 32 | 5 | 61% | $3,582,325 | -$482,986 |
 | BrotherObama | 34 | 37 | 2 | 48% | $3,346,447 | +$82,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ethanaz | 38 | 16 | 1 | 70% | $3,200,364 | -$150,022 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cowboys vs. Texans | Texans | 1.89 (53¢) | $29,482 | — | ⏳ Pendiente |
 | DaWinci | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $33,997 | — | ⏳ Pendiente |
 | timezonewarrior | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $98,600 | — | ⏳ Pendiente |
 | texaskid | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | ferrariChampions2026 | Colts vs. Commanders | Colts | 1.16 (86¢) | $54,467 | +$8,867 | ✅ Ganada |
 | bigballaz | Colts vs. Commanders | Colts | 1.15 (87¢) | $32,190 | +$4,810 | ✅ Ganada |
 | WanderingWombat | Spread: Bengals (-2.5) | Bengals | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Colts vs. Commanders | Colts | 1.06 (94¢) | $59,534 | +$3,800 | ✅ Ganada |
