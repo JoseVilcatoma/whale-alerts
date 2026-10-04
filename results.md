@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 18:16:26 (hora de Perú)
+Actualizado: 2026-10-04 18:18:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4419**  ($239,205,749 en total)
+- Apuestas registradas: **4420**  ($239,266,817 en total)
 - Resueltas: **4328** — 2634 ganadas / 1694 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Pendientes: 74
 - Apostadores distintos: 509
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 509 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| curie | Chiefs vs. Raiders | Chiefs | 1.27 (79¢) | $61,068 | — | ⏳ Pendiente |
 | Gulvisa8 | Chiefs vs. Raiders | Chiefs | 1.28 (78¢) | $55,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Raiders | Chiefs | 1.33 (75¢) | $43,373 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Raiders | Chiefs | 1.35 (74¢) | $37,058 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 509 en total)_
 | Kch-Temp | Dolphins vs. Vikings: O/U 38.5 | Over 38.5 | 1.96 (51¢) | $25,450 | — | ⏳ Pendiente |
 | cosmicxbt | Jaguars vs. Bengals | Jaguars | 1.25 (80¢) | $44,000 | +$11,000 | ✅ Ganada |
 | BrotherObama | Spread: Seahawks (-7.5) | Seahawks | 2.13 (47¢) | $70,000 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Netherlands vs. Serbia: O/U 2.5 | Over 2.5 | 1.11 (90¢) | $57,094 | +$6,344 | ✅ Ganada |
