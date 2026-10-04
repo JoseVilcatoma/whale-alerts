@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 21:06:22 (hora de Perú)
+Actualizado: 2026-10-03 21:08:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4192**  ($226,038,174 en total)
+- Apuestas registradas: **4193**  ($226,076,174 en total)
 - Resueltas: **4139** — 2526 ganadas / 1613 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 501
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 32 | 36 | 2 | 47% | $3,206,447 | +$83,327 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
 | ferrariChampions2026 | 46 | 31 | 2 | 60% | $3,032,312 | -$558,276 |
-| surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
+| surfandturf | 24 | 2 | 1 | 92% | $2,643,702 | +$598,287 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Texas State vs. San Diego State | Texas State | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | kkookkoo | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.43 (70¢) | $26,000 | — | ⏳ Pendiente |
 | gmpm2 | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Wang Cong | 2.86 (35¢) | $26,788 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $25,138 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | 177-letsgo | UCF vs. Houston | Houston | 1.14 (88¢) | $25,518 | +$3,480 | ✅ Ganada |
 | gmpm2 | Spread: Florida (-5.5) | Missouri | 2.04 (49¢) | $30,870 | +$32,130 | ✅ Ganada |
 | gmpm2 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $71,495 | +$12,617 | ✅ Ganada |
-| primm | Spread: Tennessee (-6.5) | Auburn | 1.92 (52¢) | $31,574 | -$31,574 | ❌ Perdida |
