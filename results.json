@@ -63517,7 +63517,7 @@
     "side": "BUY",
     "usd": 31244.075999999997,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791104085,
     "fills": 1
   },
@@ -63682,7 +63682,7 @@
     "side": "BUY",
     "usd": 28700.0,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791114975,
     "fills": 1
   },
@@ -63697,7 +63697,7 @@
     "side": "BUY",
     "usd": 41000.0,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791116043,
     "fills": 1
   },
@@ -63712,7 +63712,7 @@
     "side": "BUY",
     "usd": 34860.0,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791116291,
     "fills": 1
   },
@@ -64434,6 +64434,21 @@
     "odds_at_bet": 64,
     "status": "pending",
     "ultimo_fill": 1791124454,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8721,
+    "timestamp": 1791124672,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nfl-nyj-chi-2026-10-04",
+    "title": "Jets vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 35489.0403,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1791124672,
     "fills": 1
   }
 ]

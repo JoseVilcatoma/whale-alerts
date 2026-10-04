@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 09:36:25 (hora de Perú)
+Actualizado: 2026-10-04 09:38:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4287**  ($230,824,052 en total)
-- Resueltas: **4204** — 2566 ganadas / 1638 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Apuestas registradas: **4288**  ($230,859,541 en total)
+- Resueltas: **4208** — 2567 ganadas / 1641 perdidas (**61%** de acierto)
+- Pendientes: 62
 - Apostadores distintos: 506
 
 ### Balance
 
-- **Resultado de los apostadores: -$489,918** sobre $227,063,698 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$6,046** sobre $414,700 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$573,648** sobre $227,199,502 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,280** sobre $415,100 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Diabolical-Prize | 48 | 45 | 3 | 52% | $4,834,418 | -$215,803 |
+| Diabolical-Prize | 48 | 48 | 0 | 50% | $4,834,418 | -$320,363 |
 | BrotherObama | 32 | 36 | 5 | 47% | $3,346,447 | +$83,327 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ferrariChampions2026 | 48 | 32 | 0 | 60% | $3,187,281 | -$512,786 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,489 | — | ⏳ Pendiente |
 | KaneAnalytics | Colts vs. Commanders | Colts | 1.56 (64¢) | $91,010 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Cardinals (-2.5) | Giants | 2.00 (50¢) | $33,321 | — | ⏳ Pendiente |
 | ratatatatatatatataaaa | Spread: Cardinals (-2.5) | Cardinals | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
@@ -119,9 +120,9 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global Invitational Group Stage | HANJIN BRION | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoii | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $66,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.38 (42¢) | $34,860 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $28,700 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.38 (42¢) | $34,860 | -$34,860 | ❌ Perdida |
+| Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
+| Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $28,700 | -$28,700 | ❌ Perdida |
 | Diabolical-Prize | LoL: Team WE vs HANJIN BRION - Game 1 Winner | Team WE | 1.96 (51¢) | $42,482 | +$40,816 | ✅ Ganada |
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.85 (54¢) | $29,282 | +$24,943 | ✅ Ganada |
 | fantasy7788 | LoL: Team WE vs HANJIN BRION - Game 1 Winner | HANJIN BRION | 1.96 (51¢) | $27,389 | -$27,389 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | danielhansen | China Open: Alexander Zverev vs Novak Djokovic | Alexander Zverev | 1.41 (71¢) | $25,577 | -$25,577 | ❌ Perdida |
 | qiu3 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | FUT Esports | 2.04 (49¢) | $36,020 | -$36,020 | ❌ Perdida |
 | juice-fruit | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | Spirit | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 5.56 (18¢) | $36,000 | -$36,000 | ❌ Perdida |
