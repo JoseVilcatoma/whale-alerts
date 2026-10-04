@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 13:39:45 (hora de Perú)
+Actualizado: 2026-10-04 13:41:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4345**  ($234,473,426 en total)
+- Apuestas registradas: **4346**  ($234,499,511 en total)
 - Resueltas: **4226** — 2579 ganadas / 1647 perdidas (**61%** de acierto)
-- Pendientes: 101
+- Pendientes: 102
 - Apostadores distintos: 507
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 48 | 48 | 2 | 50% | $4,930,148 | -$320,363 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 51 | 32 | 2 | 61% | $3,456,927 | -$482,986 |
+| ferrariChampions2026 | 51 | 32 | 3 | 61% | $3,483,012 | -$482,986 |
 | BrotherObama | 32 | 37 | 4 | 46% | $3,346,447 | +$13,327 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ethanaz | 38 | 16 | 1 | 70% | $3,200,364 | -$150,022 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cardinals vs. Giants | Cardinals | 2.44 (41¢) | $26,085 | — | ⏳ Pendiente |
 | taylorsversion | Spread: Chiefs (-4.5) | Chiefs | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $38,400 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $38,529 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | mooseborzoii | Spread: 49ers (-2.5) | 49ers | 1.85 (54¢) | $164,566 | — | ⏳ Pendiente |
 | Donkey14 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,489 | — | ⏳ Pendiente |
 | KaneAnalytics | Colts vs. Commanders | Colts | 1.56 (64¢) | $91,010 | +$51,193 | ✅ Ganada |
-| Donkey14 | Spread: Cardinals (-2.5) | Giants | 2.00 (50¢) | $33,321 | — | ⏳ Pendiente |
