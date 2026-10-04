@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 22:39:29 (hora de Perú)
+Actualizado: 2026-10-03 22:41:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4200**  ($226,766,204 en total)
+- Apuestas registradas: **4201**  ($226,801,362 en total)
 - Resueltas: **4171** — 2548 ganadas / 1623 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 501
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $35,158 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $28,261 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.72 (58¢) | $28,594 | +$20,706 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.44 (41¢) | $39,806 | -$39,806 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | SDTrading | Atlanta Braves vs. Los Angeles Dodgers: O/U 7.5 | Over 7.5 | 1.75 (57¢) | $25,553 | +$19,277 | ✅ Ganada |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Ohio State vs. Iowa | Ohio State | 1.16 (86¢) | $25,800 | +$4,200 | ✅ Ganada |
 | Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 1.96 (51¢) | $41,858 | -$41,858 | ❌ Perdida |
-| BoggsFromShawshank | Spread: Ohio State (-14.5) | Ohio State | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
