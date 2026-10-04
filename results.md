@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 21:31:07 (hora de Perú)
+Actualizado: 2026-10-03 21:33:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4196**  ($226,463,643 en total)
-- Resueltas: **4144** — 2529 ganadas / 1615 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Apuestas registradas: **4197**  ($226,669,543 en total)
+- Resueltas: **4146** — 2531 ganadas / 1615 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 501
 
 ### Balance
 
-- **Resultado de los apostadores: -$945,229** sobre $223,928,219 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,289** sobre $408,700 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$907,682** sobre $223,992,010 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,173** sobre $408,900 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 305 | 156 | 8 | 66% | $29,771,358 | +$1,146,700 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 305 | 156 | 9 | 66% | $29,977,258 | +$1,146,700 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.41 (71¢) | $205,900 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Washington vs. USC | USC | 1.35 (74¢) | $154,969 | — | ⏳ Pendiente |
 | surfandturf | Texas State vs. San Diego State | Texas State | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $195,000 | — | ⏳ Pendiente |
@@ -86,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | gmpm2 | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $25,175 | — | ⏳ Pendiente |
 | mooseborzoii | Washington vs. USC | USC | 1.52 (66¢) | $30,969 | — | ⏳ Pendiente |
 | mooseborzoii | Washington vs. USC | USC | 1.49 (67¢) | $141,318 | — | ⏳ Pendiente |
-| 3648393489047 | BYU vs. TCU | BYU | 1.67 (60¢) | $35,188 | — | ⏳ Pendiente |
+| 3648393489047 | BYU vs. TCU | BYU | 1.67 (60¢) | $35,188 | +$23,458 | ✅ Ganada |
 | Sassy-Bucket | San Diego Padres vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.82 (55¢) | $34,951 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Arkansas State vs. Louisiana | Louisiana | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Washington vs. USC | USC | 1.30 (77¢) | $97,609 | — | ⏳ Pendiente |
@@ -96,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $55,699 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Army vs. Louisiana Tech | Army | 2.04 (49¢) | $34,910 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Army vs. Louisiana Tech | Louisiana Tech | 2.00 (50¢) | $25,952 | — | ⏳ Pendiente |
-| kkookkoo | BYU vs. TCU | BYU | 1.49 (67¢) | $28,603 | — | ⏳ Pendiente |
+| kkookkoo | BYU vs. TCU | BYU | 1.49 (67¢) | $28,603 | +$14,088 | ✅ Ganada |
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.52 (66¢) | $113,139 | — | ⏳ Pendiente |
 | Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $96,980 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: Cloud9 vs LYON - Game 4 Winner | LYON | 1.67 (60¢) | $28,835 | +$19,224 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | User1244322 | Ohio State vs. Iowa | Ohio State | 1.18 (85¢) | $72,647 | +$12,820 | ✅ Ganada |
 | Sassy-Bucket | Spread: Ohio State (-14.5) | Iowa | 2.00 (50¢) | $25,280 | -$25,280 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Central Michigan (-6.5) | Central Michigan | 1.89 (53¢) | $25,959 | +$23,020 | ✅ Ganada |
-| Mastermoney | Florida vs. Missouri: O/U 59.5 | Over 59.5 | 2.13 (47¢) | $25,794 | +$29,087 | ✅ Ganada |
