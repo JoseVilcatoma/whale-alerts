@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 07:16:33 (hora de Perú)
+Actualizado: 2026-10-04 07:18:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4238**  ($228,275,505 en total)
+- Apuestas registradas: **4239**  ($228,310,365 en total)
 - Resueltas: **4193** — 2559 ganadas / 1634 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 505
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| Diabolical-Prize | 47 | 45 | 3 | 51% | $4,799,558 | -$256,619 |
+| Diabolical-Prize | 47 | 45 | 4 | 51% | $4,834,418 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | BrotherObama | 32 | 36 | 2 | 47% | $3,206,447 | +$83,327 |
 | ferrariChampions2026 | 48 | 32 | 0 | 60% | $3,187,281 | -$512,786 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.38 (42¢) | $34,860 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Aurora Gaming | 2.44 (41¢) | $28,700 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Team WE vs HANJIN BRION - Game 1 Winner | Team WE | 1.96 (51¢) | $42,482 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | mooseborzoii | Washington vs. USC | USC | 1.49 (67¢) | $141,318 | +$69,605 | ✅ Ganada |
 | 3648393489047 | BYU vs. TCU | BYU | 1.67 (60¢) | $35,188 | +$23,458 | ✅ Ganada |
 | Sassy-Bucket | San Diego Padres vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.82 (55¢) | $34,951 | -$34,951 | ❌ Perdida |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Arkansas State vs. Louisiana | Louisiana | 1.52 (66¢) | $50,000 | +$25,758 | ✅ Ganada |

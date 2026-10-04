@@ -63700,5 +63700,20 @@
     "status": "pending",
     "ultimo_fill": 1791116043,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8657,
+    "timestamp": 1791116291,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-fal2-aur1-2026-10-04",
+    "title": "Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 34860.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1791116291,
+    "fills": 1
   }
 ]
