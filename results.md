@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 14:47:40 (hora de Perú)
+Actualizado: 2026-10-04 14:49:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4362**  ($235,257,435 en total)
+- Apuestas registradas: **4363**  ($235,282,885 en total)
 - Resueltas: **4247** — 2590 ganadas / 1657 perdidas (**61%** de acierto)
-- Pendientes: 97
+- Pendientes: 98
 - Apostadores distintos: 507
 
 ### Balance
@@ -45,8 +45,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 32 | 19 | 0 | 63% | $2,306,537 | +$104,902 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
+| Kch-Temp | 26 | 8 | 4 | 76% | $2,220,597 | +$1,101,302 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Kch-Temp | 26 | 8 | 3 | 76% | $2,195,147 | +$1,101,302 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
 | maz26 | 17 | 12 | 7 | 59% | $2,133,435 | -$223,663 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Dolphins vs. Vikings: O/U 38.5 | Over 38.5 | 1.96 (51¢) | $25,450 | — | ⏳ Pendiente |
 | cosmicxbt | Jaguars vs. Bengals | Jaguars | 1.25 (80¢) | $44,000 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Seahawks (-7.5) | Seahawks | 2.13 (47¢) | $70,000 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Netherlands vs. Serbia: O/U 2.5 | Over 2.5 | 1.11 (90¢) | $57,094 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.37 (73¢) | $28,641 | +$10,593 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Nemiga | 2.04 (49¢) | $46,501 | — | ⏳ Pendiente |
 | sulumos | Colts vs. Commanders | Colts | 1.15 (87¢) | $66,555 | +$9,945 | ✅ Ganada |
-| TKD44 | Spread: Rams (-3.5) | Eagles | 1.96 (51¢) | $46,779 | — | ⏳ Pendiente |
