@@ -65050,5 +65050,20 @@
     "status": "pending",
     "ultimo_fill": 1791131685,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8768,
+    "timestamp": 1791131960,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-ne-buf-2026-10-04-spread-home-6pt5",
+    "title": "Spread: Bills (-6.5)",
+    "outcome": "Patriots",
+    "side": "BUY",
+    "usd": 107947.6777,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1791131960,
+    "fills": 1
   }
 ]
