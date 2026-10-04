@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 04:40:40 (hora de Perú)
+Actualizado: 2026-10-04 05:52:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4229**  ($227,969,044 en total)
-- Resueltas: **4188** — 2556 ganadas / 1632 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **4189** — 2557 ganadas / 1632 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 504
 
 ### Balance
 
-- **Resultado de los apostadores: -$603,520** sobre $226,369,763 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,121** sobre $413,100 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$594,520** sobre $226,450,763 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,110** sobre $413,200 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 504 en total)_
 | BTCGambler247 | Chiefs vs. Raiders | Chiefs | 1.49 (67¢) | $35,510 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: ShindeN vs Legacy (BO3) - ESL Pro League Group Stage | Legacy | 1.32 (76¢) | $28,911 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Germany win on 2026-10-04? | Yes | 1.85 (54¢) | $30,450 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Wuning 3: Max Purcell vs Julien De Cuyper | Max Purcell | 1.11 (90¢) | $81,000 | — | ⏳ Pendiente |
+| kdvlklkvlsklkfs | Wuning 3: Max Purcell vs Julien De Cuyper | Max Purcell | 1.11 (90¢) | $81,000 | +$9,000 | ✅ Ganada |
 | takeormake | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $39,999 | +$9,383 | ✅ Ganada |
 | omoi0i0 | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $91,107 | +$21,371 | ✅ Ganada |
 | Wldntulike2know | Patriots vs. Bills | Bills | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
