@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 22:20:49 (hora de Perú)
+Actualizado: 2026-10-03 22:22:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4199**  ($226,737,943 en total)
-- Resueltas: **4153** — 2536 ganadas / 1617 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **4154** — 2537 ganadas / 1617 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 501
 
 ### Balance
 
-- **Resultado de los apostadores: -$686,248** sobre $224,480,161 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,002** sobre $409,600 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$660,491** sobre $224,530,161 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,950** sobre $409,700 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 501 en total)_
 | mooseborzoii | Washington vs. USC | USC | 1.49 (67¢) | $141,318 | — | ⏳ Pendiente |
 | 3648393489047 | BYU vs. TCU | BYU | 1.67 (60¢) | $35,188 | +$23,458 | ✅ Ganada |
 | Sassy-Bucket | San Diego Padres vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.82 (55¢) | $34,951 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Arkansas State vs. Louisiana | Louisiana | 1.52 (66¢) | $50,000 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Arkansas State vs. Louisiana | Louisiana | 1.52 (66¢) | $50,000 | +$25,758 | ✅ Ganada |
 | TAIWANNUMBERONE | Washington vs. USC | USC | 1.30 (77¢) | $97,609 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.39 (72¢) | $74,713 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Texas Tech vs. Colorado | Texas Tech | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
