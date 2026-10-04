@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 08:03:35 (hora de Perú)
+Actualizado: 2026-10-04 08:05:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4248**  ($228,957,479 en total)
+- Apuestas registradas: **4250**  ($229,016,879 en total)
 - Resueltas: **4195** — 2560 ganadas / 1635 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 37
 - Apostadores distintos: 505
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 47 | 45 | 4 | 51% | $4,834,418 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| BrotherObama | 32 | 36 | 2 | 47% | $3,206,447 | +$83,327 |
+| BrotherObama | 32 | 36 | 3 | 47% | $3,236,447 | +$83,327 |
 | ferrariChampions2026 | 48 | 32 | 0 | 60% | $3,187,281 | -$512,786 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
 | surfandturf | 24 | 4 | 0 | 86% | $2,681,202 | +$522,787 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Spread: Colts (-4.5) | Commanders | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | liquiditycrisis | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $127,689 | — | ⏳ Pendiente |
 | gmpm2 | Patriots vs. Bills | Bills | 1.37 (73¢) | $73,000 | — | ⏳ Pendiente |
 | Kch-Temp | Rams vs. Eagles | Eagles | 2.70 (37¢) | $55,980 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | surfandturf | Texas State vs. San Diego State | Texas State | 1.32 (76¢) | $38,000 | -$38,000 | ❌ Perdida |
 | kkookkoo | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.43 (70¢) | $26,000 | +$11,143 | ✅ Ganada |
 | gmpm2 | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Wang Cong | 2.86 (35¢) | $26,788 | -$26,788 | ❌ Perdida |
-| Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $25,138 | +$13,536 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.17 (46¢) | $32,625 | -$32,625 | ❌ Perdida |

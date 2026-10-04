@@ -63850,5 +63850,35 @@
     "status": "pending",
     "ultimo_fill": 1791118873,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 8669,
+    "timestamp": 1791119047,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "nfl-ind-was-2026-10-04-spread-away-4pt5",
+    "title": "Spread: Colts (-4.5)",
+    "outcome": "Commanders",
+    "side": "BUY",
+    "usd": 29400.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791119047,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8670,
+    "timestamp": 1791119068,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "nfl-ind-was-2026-10-04-total-46pt5",
+    "title": "Colts vs. Commanders: O/U 46.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791119068,
+    "fills": 1
   }
 ]
