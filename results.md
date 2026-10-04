@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 16:04:35 (hora de Perú)
+Actualizado: 2026-10-04 16:06:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4396**  ($237,250,400 en total)
+- Apuestas registradas: **4397**  ($237,290,763 en total)
 - Resueltas: **4303** — 2620 ganadas / 1683 perdidas (**61%** de acierto)
-- Pendientes: 75
+- Pendientes: 76
 - Apostadores distintos: 507
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 49 | 1 | 50% | $4,956,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 54 | 35 | 4 | 61% | $3,765,238 | -$538,986 |
+| ferrariChampions2026 | 54 | 35 | 5 | 61% | $3,805,601 | -$538,986 |
 | ethanaz | 39 | 17 | 2 | 70% | $3,430,405 | -$168,931 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chargers vs. Seahawks | Seahawks | 1.28 (78¢) | $40,363 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Broncos vs. 49ers | 49ers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | gambamaster | Chiefs vs. Raiders | Chiefs | 1.52 (66¢) | $33,456 | — | ⏳ Pendiente |
 | 0F62 | Chargers vs. Seahawks | Seahawks | 1.16 (86¢) | $45,504 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.54 (65¢) | $53,327 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Cardinals vs. Giants | Giants | 1.37 (73¢) | $37,154 | +$13,742 | ✅ Ganada |
 | SmartPredictOrNot | Will Portugal win on 2026-10-04? | Yes | 1.67 (60¢) | $548,832 | — | ⏳ Pendiente |
-| ethanaz | Jaguars vs. Bengals | Jaguars | 1.33 (75¢) | $28,318 | +$9,439 | ✅ Ganada |

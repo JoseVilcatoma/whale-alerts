@@ -66070,5 +66070,20 @@
     "status": "pending",
     "ultimo_fill": 1791147684,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8926,
+    "timestamp": 1791147928,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-lac-sea-2026-10-04",
+    "title": "Chargers vs. Seahawks",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 40363.042199999996,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1791147928,
+    "fills": 1
   }
 ]
