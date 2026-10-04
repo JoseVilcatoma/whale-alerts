@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 08:30:05 (hora de Perú)
+Actualizado: 2026-10-04 08:32:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4260**  ($229,401,597 en total)
+- Apuestas registradas: **4260**  ($229,504,245 en total)
 - Resueltas: **4195** — 2560 ganadas / 1635 perdidas (**61%** de acierto)
 - Pendientes: 47
 - Apostadores distintos: 505
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Tiger200 | Spread: Colts (-4.5) | Colts | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
+| Tiger200 | Spread: Colts (-4.5) | Colts | 1.96 (51¢) | $133,248 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Colts (-4.5) | Commanders | 2.04 (49¢) | $38,528 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Commanders | Colts | 1.49 (67¢) | $62,657 | — | ⏳ Pendiente |
 | surfandturf | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $39,012 | — | ⏳ Pendiente |
