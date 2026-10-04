@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 18:10:10 (hora de Perú)
+Actualizado: 2026-10-04 18:12:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4416**  ($239,069,818 en total)
+- Apuestas registradas: **4417**  ($239,106,876 en total)
 - Resueltas: **4327** — 2634 ganadas / 1693 perdidas (**61%** de acierto)
-- Pendientes: 71
+- Pendientes: 72
 - Apostadores distintos: 508
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 315 | 164 | 7 | 66% | $30,779,272 | +$1,166,221 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 315 | 164 | 8 | 66% | $30,816,330 | +$1,166,221 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 59 | 53 | 4 | 53% | $6,384,205 | -$603,319 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 508 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Raiders | Chiefs | 1.35 (74¢) | $37,058 | — | ⏳ Pendiente |
 | mooseborzoii | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $25,104 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs LYON (BO5) - LCS Playoffs | Team Liquid | 1.18 (85¢) | $38,885 | — | ⏳ Pendiente |
 | ndb1 | Spread: Seahawks (-7.5) | Seahawks | 1.22 (82¢) | $40,920 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 508 en total)_
 | Roadto1mlesgooo | Netherlands vs. Serbia: O/U 2.5 | Over 2.5 | 1.11 (90¢) | $57,094 | +$6,344 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Patriots vs. Bills | Bills | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | ferrariChampions2026 | Patriots vs. Bills | Patriots | 2.08 (48¢) | $25,031 | +$27,117 | ✅ Ganada |
-| ethanaz | Patriots vs. Bills | Bills | 1.92 (52¢) | $28,348 | -$28,348 | ❌ Perdida |
