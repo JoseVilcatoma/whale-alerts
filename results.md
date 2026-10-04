@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 06:19:15 (hora de Perú)
+Actualizado: 2026-10-04 06:21:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4236**  ($228,205,805 en total)
-- Resueltas: **4190** — 2558 ganadas / 1632 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **4192** — 2558 ganadas / 1634 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 505
 
 ### Balance
 
-- **Resultado de los apostadores: -$586,870** sobre $226,528,113 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,100** sobre $413,300 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$667,385** sobre $226,608,628 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,300** sobre $413,500 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,9 +80,9 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | qiu3 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | FUT Esports | 2.04 (49¢) | $36,020 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | Spirit | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 5.56 (18¢) | $36,000 | — | ⏳ Pendiente |
-| omnibus-076daa | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.22 (45¢) | $30,515 | — | ⏳ Pendiente |
+| omnibus-076daa | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.22 (45¢) | $30,515 | -$30,515 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Team Falcons | 1.67 (60¢) | $31,244 | — | ⏳ Pendiente |
-| fantasy7788 | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.27 (44¢) | $50,000 | — | ⏳ Pendiente |
+| fantasy7788 | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.27 (44¢) | $50,000 | -$50,000 | ❌ Perdida |
 | kdvlklkvlsklkfs | Wuning 3: Yuta Kikuchi vs Kosuke Ogura | Kosuke Ogura | 1.72 (58¢) | $35,619 | -$35,619 | ❌ Perdida |
 | Tontis | Wuning 3: Ryuki Matsuda vs Sergey Betov | Ryuki Matsuda | 1.10 (91¢) | $77,350 | +$7,650 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Blake Bayldon vs Taisei Ichikawa | Blake Bayldon | 5.26 (19¢) | $26,513 | +$113,027 | ✅ Ganada |
