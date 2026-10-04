@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 15:54:05 (hora de Perú)
+Actualizado: 2026-10-04 15:56:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4393**  ($237,145,939 en total)
+- Apuestas registradas: **4394**  ($237,191,444 en total)
 - Resueltas: **4298** — 2617 ganadas / 1681 perdidas (**61%** de acierto)
-- Pendientes: 77
+- Pendientes: 78
 - Apostadores distintos: 507
 
 ### Balance
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | Kch-Temp | 27 | 9 | 2 | 75% | $2,220,597 | +$1,096,093 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
+| 0F62 | 28 | 3 | 1 | 90% | $2,188,165 | +$73,673 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Chargers vs. Seahawks | Seahawks | 1.16 (86¢) | $45,504 | — | ⏳ Pendiente |
 | KaneAnalytics | Broncos vs. 49ers | Broncos | 2.38 (42¢) | $31,750 | — | ⏳ Pendiente |
 | 3648393489047 | Chiefs vs. Raiders | Chiefs | 1.64 (61¢) | $63,118 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Dolphins vs. Vikings | Vikings | 1.23 (81¢) | $29,794 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | ethanaz | Jaguars vs. Bengals | Jaguars | 1.33 (75¢) | $28,318 | +$9,439 | ✅ Ganada |
 | kkookkoo | Rams vs. Eagles | Rams | 1.69 (59¢) | $29,534 | +$20,523 | ✅ Ganada |
 | SmartPredictOrNot | Will Portugal win on 2026-10-04? | Yes | 1.72 (58¢) | $128,563 | — | ⏳ Pendiente |
-| gambamaster | Cardinals vs. Giants | Giants | 1.59 (63¢) | $30,314 | +$17,803 | ✅ Ganada |
