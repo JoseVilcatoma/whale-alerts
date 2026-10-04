@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 09:13:23 (hora de Perú)
+Actualizado: 2026-10-04 09:15:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4281**  ($230,463,938 en total)
+- Apuestas registradas: **4282**  ($230,492,938 en total)
 - Resueltas: **4200** — 2564 ganadas / 1636 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Pendientes: 64
 - Apostadores distintos: 506
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 177-letsgo | Colts vs. Commanders | Colts | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | Kch-Temp | Cowboys vs. Texans | Cowboys | 2.38 (42¢) | $36,766 | — | ⏳ Pendiente |
 | AnonymousUsername | Cowboys vs. Texans | Texans | 1.72 (58¢) | $30,380 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Texans (-2.5) | Texans | 1.89 (53¢) | $25,931 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | fantasy7788 | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.27 (44¢) | $50,000 | -$50,000 | ❌ Perdida |
 | kdvlklkvlsklkfs | Wuning 3: Yuta Kikuchi vs Kosuke Ogura | Kosuke Ogura | 1.72 (58¢) | $35,619 | -$35,619 | ❌ Perdida |
 | Tontis | Wuning 3: Ryuki Matsuda vs Sergey Betov | Ryuki Matsuda | 1.10 (91¢) | $77,350 | +$7,650 | ✅ Ganada |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Blake Bayldon vs Taisei Ichikawa | Blake Bayldon | 5.26 (19¢) | $26,513 | +$113,027 | ✅ Ganada |
