@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 11:31:16 (hora de Perú)
+Actualizado: 2026-10-04 11:33:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4327**  ($233,101,652 en total)
-- Resueltas: **4209** — 2567 ganadas / 1642 perdidas (**61%** de acierto)
-- Pendientes: 100
+- Resueltas: **4214** — 2569 ganadas / 1645 perdidas (**61%** de acierto)
+- Pendientes: 95
 - Apostadores distintos: 507
 
 ### Balance
 
-- **Resultado de los apostadores: -$598,648** sobre $227,224,502 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,380** sobre $415,200 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$650,948** sobre $227,476,426 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,499** sobre $415,700 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 48 | 48 | 2 | 50% | $4,930,148 | -$320,363 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 48 | 32 | 3 | 60% | $3,384,935 | -$512,786 |
-| BrotherObama | 32 | 36 | 5 | 47% | $3,346,447 | +$83,327 |
+| BrotherObama | 32 | 37 | 4 | 46% | $3,346,447 | +$13,327 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
 | surfandturf | 24 | 4 | 2 | 86% | $2,758,747 | +$522,787 |
@@ -120,14 +120,14 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | Kch-Temp | Cowboys vs. Texans | Cowboys | 2.38 (42¢) | $36,766 | — | ⏳ Pendiente |
 | AnonymousUsername | Cowboys vs. Texans | Texans | 1.72 (58¢) | $30,380 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Texans (-2.5) | Texans | 1.89 (53¢) | $25,931 | — | ⏳ Pendiente |
-| CORGI777 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.92 (52¢) | $51,804 | — | ⏳ Pendiente |
+| CORGI777 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.92 (52¢) | $51,804 | +$47,819 | ✅ Ganada |
 | Siddhartha1 | Spread: 49ers (-2.5) | Broncos | 2.13 (47¢) | $32,900 | — | ⏳ Pendiente |
 | Kch-Temp | Broncos vs. 49ers | 49ers | 1.72 (58¢) | $178,436 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Bills (-6.5) | Patriots | 2.08 (48¢) | $50,000 | — | ⏳ Pendiente |
 | surfandturf | Colts vs. Commanders | Colts | 1.67 (60¢) | $38,533 | — | ⏳ Pendiente |
 | mooseborzoii | Titans vs. Ravens: O/U 41.5 | Over 41.5 | 1.89 (53¢) | $38,868 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.37 (73¢) | $56,280 | — | ⏳ Pendiente |
-| BrotherObama | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.04 (49¢) | $70,000 | — | ⏳ Pendiente |
+| BrotherObama | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.04 (49¢) | $70,000 | -$70,000 | ❌ Perdida |
 | liquiditycrisis | Spread: Bears (-3.5) | Jets | 1.96 (51¢) | $50,941 | — | ⏳ Pendiente |
 | viboomchuu | Utah vs. Rangers | Utah | 2.13 (47¢) | $27,710 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.08 (48¢) | $27,120 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.08 (48¢) | $27,120 | -$27,120 | ❌ Perdida |
