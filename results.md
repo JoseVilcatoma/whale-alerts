@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 09:25:59 (hora de Perú)
+Actualizado: 2026-10-04 09:28:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4283**  ($230,518,416 en total)
+- Apuestas registradas: **4285**  ($230,699,721 en total)
 - Resueltas: **4202** — 2565 ganadas / 1637 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Pendientes: 65
 - Apostadores distintos: 506
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ratatatatatatatataaaa | Spread: Cardinals (-2.5) | Cardinals | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
+| mooseborzoii | Cardinals vs. Giants | Giants | 2.27 (44¢) | $81,305 | — | ⏳ Pendiente |
 | texaskid | Cardinals vs. Giants: O/U 44.5 | Under 44.5 | 1.92 (52¢) | $25,477 | — | ⏳ Pendiente |
 | 177-letsgo | Colts vs. Commanders | Colts | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | Kch-Temp | Cowboys vs. Texans | Cowboys | 2.38 (42¢) | $36,766 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 506 en total)_
 | lllllllIlll | Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 5.56 (18¢) | $36,000 | -$36,000 | ❌ Perdida |
 | omnibus-076daa | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.22 (45¢) | $30,515 | -$30,515 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Team Falcons | 1.67 (60¢) | $31,244 | — | ⏳ Pendiente |
-| fantasy7788 | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.27 (44¢) | $50,000 | -$50,000 | ❌ Perdida |
-| kdvlklkvlsklkfs | Wuning 3: Yuta Kikuchi vs Kosuke Ogura | Kosuke Ogura | 1.72 (58¢) | $35,619 | -$35,619 | ❌ Perdida |
