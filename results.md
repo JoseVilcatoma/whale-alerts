@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 01:38:14 (hora de Perú)
+Actualizado: 2026-10-04 01:40:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4219**  ($227,557,498 en total)
-- Resueltas: **4178** — 2552 ganadas / 1626 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **4180** — 2552 ganadas / 1628 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 503
 
 ### Balance
 
-- **Resultado de los apostadores: -$600,055** sobre $225,936,508 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,127** sobre $412,100 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$675,555** sobre $226,012,009 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,327** sobre $412,300 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 32 | 36 | 2 | 47% | $3,206,447 | +$83,327 |
 | ferrariChampions2026 | 48 | 32 | 0 | 60% | $3,187,281 | -$512,786 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
-| surfandturf | 24 | 2 | 2 | 92% | $2,681,202 | +$598,287 |
+| surfandturf | 24 | 4 | 0 | 86% | $2,681,202 | +$522,787 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -95,9 +95,9 @@ _(mostrando los 40 de mayor monto, de 503 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | Washington | 2.44 (41¢) | $39,806 | -$39,806 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Washington vs. USC | USC | 1.41 (71¢) | $205,900 | +$84,100 | ✅ Ganada |
 | ferrariChampions2026 | Washington vs. USC | USC | 1.35 (74¢) | $154,969 | +$54,448 | ✅ Ganada |
-| surfandturf | Texas State vs. San Diego State | Texas State | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
+| surfandturf | Texas State vs. San Diego State | Texas State | 1.33 (75¢) | $37,500 | -$37,500 | ❌ Perdida |
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $195,000 | +$105,000 | ✅ Ganada |
-| surfandturf | Texas State vs. San Diego State | Texas State | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
+| surfandturf | Texas State vs. San Diego State | Texas State | 1.32 (76¢) | $38,000 | -$38,000 | ❌ Perdida |
 | kkookkoo | San Diego Padres vs. Milwaukee Brewers | Milwaukee Brewers | 1.43 (70¢) | $26,000 | +$11,143 | ✅ Ganada |
 | gmpm2 | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Wang Cong | 2.86 (35¢) | $26,788 | -$26,788 | ❌ Perdida |
 | Sassy-Bucket | UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card) | Natalia Silva | 1.54 (65¢) | $25,138 | +$13,536 | ✅ Ganada |
