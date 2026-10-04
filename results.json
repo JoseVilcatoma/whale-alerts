@@ -66110,10 +66110,25 @@
     "title": "Atlanta Braves vs. Los Angeles Dodgers",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "usd": 102448.43999999999,
+    "usd": 792448.44,
     "odds_at_bet": 69,
     "status": "pending",
-    "ultimo_fill": 1791148353,
+    "ultimo_fill": 1791148421,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 8929,
+    "timestamp": 1791148382,
+    "username": "0xd4aa6f8e91cfea29b66a48ebff52814",
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "slug": "mlb-atl-lad-2026-10-04",
+    "title": "Atlanta Braves vs. Los Angeles Dodgers",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 25183.8079,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "ultimo_fill": 1791148382,
     "fills": 1
   }
 ]
