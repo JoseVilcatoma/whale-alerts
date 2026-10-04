@@ -65275,5 +65275,35 @@
     "status": "pending",
     "ultimo_fill": 1791138913,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8796,
+    "timestamp": 1791139033,
+    "username": "taylorsversion",
+    "wallet": "0xb9c7d35d1f04d08624fabcfd3b6cee2d3c9baade",
+    "slug": "nfl-kc-lv-2026-10-04-spread-away-4pt5",
+    "title": "Spread: Chiefs (-4.5)",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 41600.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1791139033,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8797,
+    "timestamp": 1791139033,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-kc-lv-2026-10-04-spread-away-4pt5",
+    "title": "Spread: Chiefs (-4.5)",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "usd": 38400.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1791139033,
+    "fills": 1
   }
 ]
