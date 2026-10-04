@@ -62602,7 +62602,7 @@
     "side": "BUY",
     "usd": 106065.11000025,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791066587,
     "fills": 1
   },
@@ -62889,6 +62889,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1791076763,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8545,
+    "timestamp": 1791077880,
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+    "slug": "nfl-gb-tb-2026-10-04-spread-away-3pt5",
+    "title": "Spread: Packers (-3.5)",
+    "outcome": "Buccaneers",
+    "side": "BUY",
+    "usd": 27430.040000000005,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1791077880,
     "fills": 1
   }
 ]

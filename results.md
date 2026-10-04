@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-03 20:37:21 (hora de Perú)
+Actualizado: 2026-10-03 20:39:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4184**  ($225,810,336 en total)
-- Resueltas: **4137** — 2525 ganadas / 1612 perdidas (**61%** de acierto)
+- Apuestas registradas: **4185**  ($225,837,766 en total)
+- Resueltas: **4138** — 2525 ganadas / 1613 perdidas (**61%** de acierto)
 - Pendientes: 29
 - Apostadores distintos: 500
 
 ### Balance
 
-- **Resultado de los apostadores: -$901,672** sobre $223,600,923 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,277** sobre $408,000 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$1,007,737** sobre $223,706,988 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,377** sobre $408,100 (ROI **-1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | Diabolical-Prize | 47 | 45 | 0 | 51% | $4,687,376 | -$256,619 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| BrotherObama | 32 | 35 | 3 | 48% | $3,206,447 | +$189,392 |
+| BrotherObama | 32 | 36 | 2 | 47% | $3,206,447 | +$83,327 |
 | ethanaz | 38 | 16 | 0 | 70% | $3,172,046 | -$150,022 |
 | ferrariChampions2026 | 46 | 31 | 2 | 60% | $3,032,312 | -$558,276 |
 | surfandturf | 24 | 2 | 0 | 92% | $2,605,702 | +$598,287 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Packers (-3.5) | Buccaneers | 1.82 (55¢) | $27,430 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Commanders: O/U 46.5 | Under 46.5 | 2.00 (50¢) | $25,175 | — | ⏳ Pendiente |
 | mooseborzoii | Washington vs. USC | USC | 1.52 (66¢) | $30,969 | — | ⏳ Pendiente |
 | mooseborzoii | Washington vs. USC | USC | 1.49 (67¢) | $141,318 | — | ⏳ Pendiente |
@@ -90,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | vtcchampion52 | LoL: Cloud9 vs LYON - Game 4 Winner | LYON | 1.67 (60¢) | $28,835 | +$19,224 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.23 (81¢) | $25,828 | +$6,058 | ✅ Ganada |
 | Sassy-Bucket | Kraken vs. Oilers | Oilers | 1.54 (65¢) | $76,619 | — | ⏳ Pendiente |
-| BrotherObama | New York Yankees vs. Tampa Bay Rays | New York Yankees | 2.22 (45¢) | $106,065 | — | ⏳ Pendiente |
+| BrotherObama | New York Yankees vs. Tampa Bay Rays | New York Yankees | 2.22 (45¢) | $106,065 | -$106,065 | ❌ Perdida |
 | Talvez10 | Senators vs. Maple Leafs | Senators | 2.04 (49¢) | $35,255 | — | ⏳ Pendiente |
 | 177-letsgo | Auburn vs. Tennessee | Tennessee | 1.08 (93¢) | $35,741 | +$2,690 | ✅ Ganada |
 | 3648393489047 | Florida vs. Missouri | Missouri | 1.20 (83¢) | $46,111 | +$9,444 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 500 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $33,717 | +$17,369 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $72,304 | +$37,247 | ✅ Ganada |
 | juice-fruit | West Virginia vs. Iowa State | Iowa State | 1.67 (60¢) | $78,458 | +$52,306 | ✅ Ganada |
-| Kch-Temp | Alabama vs. Mississippi State | Alabama | 1.52 (66¢) | $42,100 | +$21,688 | ✅ Ganada |
