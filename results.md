@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 10:56:20 (hora de Perú)
+Actualizado: 2026-10-04 10:58:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4311**  ($232,292,662 en total)
+- Apuestas registradas: **4312**  ($232,400,302 en total)
 - Resueltas: **4209** — 2567 ganadas / 1642 perdidas (**61%** de acierto)
-- Pendientes: 84
+- Pendientes: 85
 - Apostadores distintos: 507
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| COMEONDUDE | Spread: Texans (-2.5) | Texans | 1.92 (52¢) | $107,640 | — | ⏳ Pendiente |
 | taylorsversion | Cowboys vs. Texans | Texans | 1.72 (58¢) | $27,840 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.89 (53¢) | $145,247 | — | ⏳ Pendiente |
 | Baronen11 | Colts vs. Commanders | Colts | 1.19 (84¢) | $27,777 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | mooseborzoii | Spread: Colts (-5.5) | Commanders | 1.92 (52¢) | $33,528 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $26,410 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Buccaneers | Buccaneers | 2.50 (40¢) | $47,293 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
