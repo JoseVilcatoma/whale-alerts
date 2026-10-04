@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 14:58:00 (hora de Perú)
+Actualizado: 2026-10-04 15:00:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4363**  ($235,282,885 en total)
+- Apuestas registradas: **4364**  ($235,322,885 en total)
 - Resueltas: **4248** — 2591 ganadas / 1657 perdidas (**61%** de acierto)
-- Pendientes: 97
+- Pendientes: 98
 - Apostadores distintos: 507
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 160 | 11 | 66% | $30,557,721 | +$1,202,498 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 160 | 12 | 66% | $30,597,721 | +$1,202,498 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Giants | Giants | 1.25 (80¢) | $40,000 | — | ⏳ Pendiente |
 | Kch-Temp | Dolphins vs. Vikings: O/U 38.5 | Over 38.5 | 1.96 (51¢) | $25,450 | — | ⏳ Pendiente |
 | cosmicxbt | Jaguars vs. Bengals | Jaguars | 1.25 (80¢) | $44,000 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Seahawks (-7.5) | Seahawks | 2.13 (47¢) | $70,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | fantasy7788 | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Astralis | 1.92 (52¢) | $50,000 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.37 (73¢) | $28,641 | +$10,593 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Playoffs | Nemiga | 2.04 (49¢) | $46,501 | — | ⏳ Pendiente |
-| sulumos | Colts vs. Commanders | Colts | 1.15 (87¢) | $66,555 | +$9,945 | ✅ Ganada |
