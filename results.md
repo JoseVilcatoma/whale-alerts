@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 03:52:57 (hora de Perú)
+Actualizado: 2026-10-04 03:55:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4224**  ($227,780,285 en total)
+- Apuestas registradas: **4226**  ($227,861,529 en total)
 - Resueltas: **4186** — 2555 ganadas / 1631 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 22
 - Apostadores distintos: 504
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 504 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage | Team Falcons | 1.67 (60¢) | $31,244 | — | ⏳ Pendiente |
+| fantasy7788 | Valorant: LOUD vs Global Esports (BO3) - VCT Champions Group B | Global Esports | 2.27 (44¢) | $50,000 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Wuning 3: Yuta Kikuchi vs Kosuke Ogura | Kosuke Ogura | 1.72 (58¢) | $35,619 | — | ⏳ Pendiente |
 | Tontis | Wuning 3: Ryuki Matsuda vs Sergey Betov | Ryuki Matsuda | 1.10 (91¢) | $77,350 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Wuning 3: Blake Bayldon vs Taisei Ichikawa | Blake Bayldon | 5.26 (19¢) | $26,513 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 504 en total)_
 | Sassy-Bucket | Army vs. Louisiana Tech | Army | 2.00 (50¢) | $96,980 | -$96,980 | ❌ Perdida |
 | vtcchampion52 | LoL: Cloud9 vs LYON - Game 4 Winner | LYON | 1.67 (60¢) | $28,835 | +$19,224 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs LYON (BO5) - LCS Playoffs | LYON | 1.23 (81¢) | $25,828 | +$6,058 | ✅ Ganada |
-| Sassy-Bucket | Kraken vs. Oilers | Oilers | 1.54 (65¢) | $76,619 | +$41,256 | ✅ Ganada |
-| BrotherObama | New York Yankees vs. Tampa Bay Rays | New York Yankees | 2.22 (45¢) | $106,065 | -$106,065 | ❌ Perdida |
