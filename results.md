@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 17:11:10 (hora de Perú)
+Actualizado: 2026-10-04 17:13:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4412**  ($238,874,109 en total)
+- Apuestas registradas: **4413**  ($238,933,909 en total)
 - Resueltas: **4309** — 2624 ganadas / 1685 perdidas (**61%** de acierto)
-- Pendientes: 85
+- Pendientes: 86
 - Apostadores distintos: 508
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 508 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 177-letsgo | Dolphins vs. Vikings | Vikings | 1.09 (92¢) | $59,800 | — | ⏳ Pendiente |
 | ethanaz | Dolphins vs. Vikings | Vikings | 1.10 (91¢) | $36,743 | — | ⏳ Pendiente |
 | surfandturf | Chiefs vs. Raiders | Chiefs | 1.69 (59¢) | $58,500 | — | ⏳ Pendiente |
 | Uniform123 | LoL: Team Liquid vs LYON (BO5) - LCS Playoffs | Team Liquid | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 508 en total)_
 | ferrariChampions2026 | Cowboys vs. Texans | Texans | 1.89 (53¢) | $29,482 | -$29,482 | ❌ Perdida |
 | DaWinci | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $33,997 | — | ⏳ Pendiente |
 | timezonewarrior | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $98,600 | — | ⏳ Pendiente |
-| texaskid | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
