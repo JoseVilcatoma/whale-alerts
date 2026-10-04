@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 08:48:38 (hora de Perú)
+Actualizado: 2026-10-04 08:50:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4262**  ($229,607,245 en total)
+- Apuestas registradas: **4263**  ($229,633,602 en total)
 - Resueltas: **4200** — 2564 ganadas / 1636 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 505
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 159 | 5 | 66% | $30,163,504 | +$1,227,498 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 312 | 159 | 6 | 66% | $30,189,860 | +$1,227,498 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rams (-4.5) | Rams | 2.22 (45¢) | $26,356 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | FURIA | 2.08 (48¢) | $50,000 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | Tiger200 | Spread: Colts (-4.5) | Colts | 1.96 (51¢) | $133,248 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawai'i | 1.75 (57¢) | $45,889 | -$45,889 | ❌ Perdida |
 | btmx6 | Will Germany win on 2026-10-04? | No | 2.13 (47¢) | $56,333 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Cardinals vs. Giants | Cardinals | 1.79 (56¢) | $50,400 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | San Jose State vs. Hawai'i | Hawaii | 1.75 (57¢) | $35,158 | — | ⏳ Pendiente |
