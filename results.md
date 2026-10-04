@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 06:27:26 (hora de Perú)
+Actualizado: 2026-10-04 06:29:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4236**  ($228,205,805 en total)
-- Resueltas: **4192** — 2558 ganadas / 1634 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **4193** — 2559 ganadas / 1634 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 505
 
 ### Balance
 
-- **Resultado de los apostadores: -$667,385** sobre $226,608,628 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$6,300** sobre $413,500 (ROI **-1.5%**)
+- **Resultado de los apostadores: -$658,255** sobre $226,637,539 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$6,269** sobre $413,600 (ROI **-1.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 505 en total)_
 | crispychook99 | Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A | T1 | 1.92 (52¢) | $34,304 | — | ⏳ Pendiente |
 | THEdirkdiggler | Spread: Vikings (-9.5) | Dolphins | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | BTCGambler247 | Chiefs vs. Raiders | Chiefs | 1.49 (67¢) | $35,510 | — | ⏳ Pendiente |
-| Wiretransferxyz | Counter-Strike: ShindeN vs Legacy (BO3) - ESL Pro League Group Stage | Legacy | 1.32 (76¢) | $28,911 | — | ⏳ Pendiente |
+| Wiretransferxyz | Counter-Strike: ShindeN vs Legacy (BO3) - ESL Pro League Group Stage | Legacy | 1.32 (76¢) | $28,911 | +$9,130 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Germany win on 2026-10-04? | Yes | 1.85 (54¢) | $30,450 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Wuning 3: Max Purcell vs Julien De Cuyper | Max Purcell | 1.11 (90¢) | $81,000 | +$9,000 | ✅ Ganada |
 | takeormake | San Jose State vs. Hawai'i | San Jose State | 1.23 (81¢) | $39,999 | +$9,383 | ✅ Ganada |
