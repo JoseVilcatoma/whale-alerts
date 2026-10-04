@@ -63292,7 +63292,7 @@
     "side": "BUY",
     "usd": 29543.751999999997,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791088794,
     "fills": 1
   },
@@ -64957,7 +64957,7 @@
     "side": "BUY",
     "usd": 88357.4516,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791130670,
     "fills": 1
   },
@@ -65212,7 +65212,7 @@
     "side": "BUY",
     "usd": 28318.057500000003,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791138214,
     "fills": 1
   },
@@ -65392,7 +65392,7 @@
     "side": "BUY",
     "usd": 30952.949,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791139854,
     "fills": 1
   },
@@ -65557,7 +65557,7 @@
     "side": "BUY",
     "usd": 44000.0,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791142435,
     "fills": 1
   },
@@ -65994,6 +65994,36 @@
     "odds_at_bet": 81,
     "status": "pending",
     "ultimo_fill": 1791146865,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8911,
+    "timestamp": 1791146928,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "nfl-kc-lv-2026-10-04",
+    "title": "Chiefs vs. Raiders",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 63117.60279999999,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1791146928,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8912,
+    "timestamp": 1791146947,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "nfl-den-sf-2026-10-04",
+    "title": "Broncos vs. 49ers",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 31750.467,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1791146947,
     "fills": 1
   }
 ]

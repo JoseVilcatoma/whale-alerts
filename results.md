@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 15:47:50 (hora de Perú)
+Actualizado: 2026-10-04 15:49:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4391**  ($237,051,071 en total)
-- Resueltas: **4293** — 2612 ganadas / 1681 perdidas (**61%** de acierto)
-- Pendientes: 80
+- Apuestas registradas: **4393**  ($237,145,939 en total)
+- Resueltas: **4298** — 2617 ganadas / 1681 perdidas (**61%** de acierto)
+- Pendientes: 77
 - Apostadores distintos: 507
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,127,981** sobre $231,065,865 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$7,374** sobre $423,600 (ROI **-1.7%**)
+- **Resultado de los apostadores: -$944,476** sobre $231,287,037 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,019** sobre $424,100 (ROI **-1.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 313 | 160 | 12 | 66% | $30,651,876 | +$1,212,498 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 314 | 160 | 11 | 66% | $30,651,876 | +$1,223,946 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 59 | 53 | 3 | 53% | $6,320,205 | -$603,319 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 49 | 49 | 1 | 50% | $4,956,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 54 | 35 | 4 | 61% | $3,765,238 | -$538,986 |
-| ethanaz | 38 | 17 | 3 | 69% | $3,430,405 | -$178,370 |
+| ethanaz | 39 | 17 | 2 | 70% | $3,430,405 | -$168,931 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | SmartPredictOrNot | 4 | 4 | 2 | 50% | $2,912,909 | -$407,768 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Broncos vs. 49ers | Broncos | 2.38 (42¢) | $31,750 | — | ⏳ Pendiente |
+| 3648393489047 | Chiefs vs. Raiders | Chiefs | 1.64 (61¢) | $63,118 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Dolphins vs. Vikings | Vikings | 1.23 (81¢) | $29,794 | — | ⏳ Pendiente |
 | mooseborzoii | Broncos vs. 49ers | 49ers | 1.72 (58¢) | $76,821 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Raiders | Raiders | 2.00 (50¢) | $43,501 | — | ⏳ Pendiente |
@@ -100,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Dolphins vs. Vikings | Dolphins | 5.88 (17¢) | $33,899 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Giants | Giants | 1.25 (80¢) | $40,000 | +$10,000 | ✅ Ganada |
 | Kch-Temp | Dolphins vs. Vikings: O/U 38.5 | Over 38.5 | 1.96 (51¢) | $25,450 | — | ⏳ Pendiente |
-| cosmicxbt | Jaguars vs. Bengals | Jaguars | 1.25 (80¢) | $44,000 | — | ⏳ Pendiente |
+| cosmicxbt | Jaguars vs. Bengals | Jaguars | 1.25 (80¢) | $44,000 | +$11,000 | ✅ Ganada |
 | BrotherObama | Spread: Seahawks (-7.5) | Seahawks | 2.13 (47¢) | $70,000 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Netherlands vs. Serbia: O/U 2.5 | Over 2.5 | 1.11 (90¢) | $57,094 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Patriots vs. Bills | Bills | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
@@ -111,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | timezonewarrior | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $98,600 | — | ⏳ Pendiente |
 | texaskid | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $94,116 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jaguars vs. Bengals | Jaguars | 1.37 (73¢) | $30,953 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jaguars vs. Bengals | Jaguars | 1.37 (73¢) | $30,953 | +$11,448 | ✅ Ganada |
 | ferrariChampions2026 | Rams vs. Eagles | Eagles | 1.47 (68¢) | $69,831 | -$69,831 | ❌ Perdida |
 | KaneAnalytics | Cardinals vs. Giants | Cardinals | 2.33 (43¢) | $27,876 | -$27,876 | ❌ Perdida |
 | mooseborzoii | Cardinals vs. Giants | Giants | 1.69 (59¢) | $40,080 | +$27,852 | ✅ Ganada |
@@ -125,9 +127,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.54 (65¢) | $53,327 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Cardinals vs. Giants | Giants | 1.37 (73¢) | $37,154 | +$13,742 | ✅ Ganada |
 | SmartPredictOrNot | Will Portugal win on 2026-10-04? | Yes | 1.67 (60¢) | $548,832 | — | ⏳ Pendiente |
-| ethanaz | Jaguars vs. Bengals | Jaguars | 1.33 (75¢) | $28,318 | — | ⏳ Pendiente |
+| ethanaz | Jaguars vs. Bengals | Jaguars | 1.33 (75¢) | $28,318 | +$9,439 | ✅ Ganada |
 | kkookkoo | Rams vs. Eagles | Rams | 1.69 (59¢) | $29,534 | +$20,523 | ✅ Ganada |
 | SmartPredictOrNot | Will Portugal win on 2026-10-04? | Yes | 1.72 (58¢) | $128,563 | — | ⏳ Pendiente |
 | gambamaster | Cardinals vs. Giants | Giants | 1.59 (63¢) | $30,314 | +$17,803 | ✅ Ganada |
-| ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | +$21,141 | ✅ Ganada |
-| ferrariChampions2026 | Jets vs. Bears | Bears | 1.59 (63¢) | $35,996 | +$21,141 | ✅ Ganada |
