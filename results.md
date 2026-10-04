@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 15:20:55 (hora de Perú)
+Actualizado: 2026-10-04 15:22:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4375**  ($236,135,143 en total)
+- Apuestas registradas: **4378**  ($236,302,618 en total)
 - Resueltas: **4261** — 2599 ganadas / 1662 perdidas (**61%** de acierto)
-- Pendientes: 96
+- Pendientes: 99
 - Apostadores distintos: 507
 
 ### Balance
@@ -41,8 +41,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 4 | 4 | 2 | 50% | $2,912,909 | -$407,768 |
 | surfandturf | 25 | 5 | 0 | 83% | $2,758,747 | +$509,463 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
+| maz26 | 19 | 13 | 6 | 59% | $2,513,385 | -$230,527 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| maz26 | 19 | 13 | 5 | 59% | $2,436,285 | -$230,527 |
 | Lakersfan111 | 32 | 19 | 0 | 63% | $2,306,537 | +$104,902 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Dolphins vs. Vikings | Vikings | 1.20 (83¢) | $45,374 | — | ⏳ Pendiente |
+| gmpm2 | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $77,100 | — | ⏳ Pendiente |
+| BoggsFromShawshank | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $45,000 | — | ⏳ Pendiente |
 | mooseborzoii | Chiefs vs. Raiders | Raiders | 3.12 (32¢) | $39,179 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $29,846 | — | ⏳ Pendiente |
 | Sassy-Bucket | Broncos vs. 49ers | Broncos | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | bands1 | Rams vs. Eagles | Rams | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | Donkey14 | Jets vs. Bears | Bears | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | primm | Rams vs. Eagles | Rams | 1.59 (63¢) | $50,400 | — | ⏳ Pendiente |
-| Diabolical-Prize | Map Handicap: VIT (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.85 (54¢) | $53,730 | +$45,770 | ✅ Ganada |
-| eschaworldchampion2026 | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $29,592 | +$11,508 | ✅ Ganada |
-| gmpm2 | Packers vs. Buccaneers | Packers | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
