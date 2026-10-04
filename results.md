@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 16:21:19 (hora de Perú)
+Actualizado: 2026-10-04 16:23:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4401**  ($238,299,791 en total)
+- Apuestas registradas: **4402**  ($238,326,477 en total)
 - Resueltas: **4303** — 2620 ganadas / 1683 perdidas (**61%** de acierto)
-- Pendientes: 80
+- Pendientes: 81
 - Apostadores distintos: 507
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 49 | 1 | 50% | $4,956,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 54 | 35 | 5 | 61% | $3,805,601 | -$538,986 |
+| ferrariChampions2026 | 54 | 35 | 6 | 61% | $3,832,288 | -$538,986 |
 | SmartPredictOrNot | 4 | 4 | 3 | 50% | $3,705,357 | -$407,768 |
 | ethanaz | 39 | 17 | 2 | 70% | $3,430,405 | -$168,931 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chargers vs. Seahawks | Seahawks | 1.27 (79¢) | $26,686 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $127,396 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Atlanta Braves vs. Los Angeles Dodgers | Atlanta Braves | 3.23 (31¢) | $25,184 | — | ⏳ Pendiente |
 | SmartPredictOrNot | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.45 (69¢) | $792,448 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | taylorsversion | Spread: Chiefs (-4.5) | Chiefs | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $38,400 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Chiefs (-4.5) | Raiders | 2.08 (48¢) | $38,529 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.49 (67¢) | $52,987 | — | ⏳ Pendiente |
