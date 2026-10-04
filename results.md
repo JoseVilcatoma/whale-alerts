@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 11:02:35 (hora de Perú)
+Actualizado: 2026-10-04 11:04:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4313**  ($232,491,942 en total)
+- Apuestas registradas: **4316**  ($232,575,950 en total)
 - Resueltas: **4209** — 2567 ganadas / 1642 perdidas (**61%** de acierto)
-- Pendientes: 86
+- Pendientes: 89
 - Apostadores distintos: 507
 
 ### Balance
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Kch-Temp | 26 | 8 | 3 | 76% | $2,195,147 | +$1,101,302 |
 | 0F62 | 28 | 3 | 0 | 90% | $2,142,660 | +$73,673 |
-| maz26 | 15 | 12 | 7 | 56% | $2,064,135 | -$279,699 |
+| maz26 | 15 | 12 | 8 | 56% | $2,093,635 | -$279,699 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Packers vs. Buccaneers | Packers | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage | Vitality | 1.39 (72¢) | $25,508 | — | ⏳ Pendiente |
+| wan123 | Cowboys vs. Texans | Texans | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | texaskid | Cowboys vs. Texans | Texans | 1.72 (58¢) | $91,640 | — | ⏳ Pendiente |
 | COMEONDUDE | Spread: Texans (-2.5) | Texans | 1.92 (52¢) | $107,640 | — | ⏳ Pendiente |
 | taylorsversion | Cowboys vs. Texans | Texans | 1.72 (58¢) | $27,840 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 507 en total)_
 | mooseborzoii | Spread: Colts (-4.5) | Commanders | 2.04 (49¢) | $38,528 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Commanders | Colts | 1.49 (67¢) | $62,657 | — | ⏳ Pendiente |
 | surfandturf | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $39,012 | — | ⏳ Pendiente |
-| BrotherObama | Spread: Colts (-4.5) | Colts | 1.96 (51¢) | $40,000 | — | ⏳ Pendiente |
-| mooseborzoii | Spread: Colts (-5.5) | Commanders | 1.92 (52¢) | $33,528 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Commanders: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $26,410 | — | ⏳ Pendiente |

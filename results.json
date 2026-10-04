@@ -64825,5 +64825,50 @@
     "status": "pending",
     "ultimo_fill": 1791129606,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 8748,
+    "timestamp": 1791129804,
+    "username": "wan123",
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "slug": "nfl-dal-hou-2026-10-04",
+    "title": "Cowboys vs. Texans",
+    "outcome": "Texans",
+    "side": "BUY",
+    "usd": 28999.999999999996,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1791129804,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8749,
+    "timestamp": 1791129846,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-vit-navi-2026-10-04",
+    "title": "Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 25507.895399999998,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1791129846,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 8750,
+    "timestamp": 1791129873,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-gb-tb-2026-10-04",
+    "title": "Packers vs. Buccaneers",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 29500.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1791129873,
+    "fills": 1
   }
 ]
