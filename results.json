@@ -67154,5 +67154,35 @@
     "status": "pending",
     "ultimo_fill": 1791207724,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9121,
+    "timestamp": 1791209751,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "cs2-ts7-mouz-2026-10-05",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 41600.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1791209751,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9122,
+    "timestamp": 1791209784,
+    "username": "neutralwave23",
+    "wallet": "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4",
+    "slug": "wta-gauff-su-2026-10-04",
+    "title": "China Open: Coco Gauff vs Xinran Sun",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "usd": 27146.849992000003,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1791209784,
+    "fills": 1
   }
 ]
