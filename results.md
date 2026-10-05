@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 07:17:05 (hora de Perú)
+Actualizado: 2026-10-05 07:19:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4462**  ($241,324,537 en total)
+- Apuestas registradas: **4463**  ($241,387,537 en total)
 - Resueltas: **4436** — 2710 ganadas / 1726 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 512
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 512 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Counter-Strike: 9z vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.43 (70¢) | $63,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.89 (53¢) | $50,074 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.85 (54¢) | $32,433 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 512 en total)_
 | TAIWANNUMBERONE | Dolphins vs. Vikings | Vikings | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
 | ndb1 | Broncos vs. 49ers | 49ers | 1.61 (62¢) | $125,107 | +$76,678 | ✅ Ganada |
 | ferrariChampions2026 | Dolphins vs. Vikings | Vikings | 1.09 (92¢) | $49,174 | +$4,276 | ✅ Ganada |
-| ferrariChampions2026 | Chiefs vs. Raiders | Chiefs | 1.61 (62¢) | $34,596 | +$21,204 | ✅ Ganada |
