@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 07:02:44 (hora de Perú)
+Actualizado: 2026-10-05 07:04:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4457**  ($241,039,829 en total)
+- Apuestas registradas: **4459**  ($241,182,030 en total)
 - Resueltas: **4436** — 2710 ganadas / 1726 perdidas (**61%** de acierto)
-- Pendientes: 3
-- Apostadores distintos: 511
+- Pendientes: 5
+- Apostadores distintos: 512
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 
-_(mostrando los 40 de mayor monto, de 511 en total)_
+_(mostrando los 40 de mayor monto, de 512 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| optimusprime777879 | China Open: Novak Djokovic vs Daniil Medvedev | Novak Djokovic | 4.35 (23¢) | $27,600 | — | ⏳ Pendiente |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.67 (60¢) | $114,601 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | TYLOO | 2.00 (50¢) | $67,494 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: 9z vs Natus Vincere (BO3) - ESL Pro League Group Stage | 9z | 3.23 (31¢) | $39,956 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: ShindeN vs G2 (BO3) - ESL Pro League Group Stage | G2 | 1.15 (87¢) | $48,381 | +$7,229 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 | ferrariChampions2026 | Chargers vs. Seahawks | Seahawks | 1.27 (79¢) | $26,686 | +$7,094 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $127,396 | -$127,396 | ❌ Perdida |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Atlanta Braves vs. Los Angeles Dodgers | Atlanta Braves | 3.23 (31¢) | $25,184 | +$56,054 | ✅ Ganada |
-| SmartPredictOrNot | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.45 (69¢) | $792,448 | -$792,448 | ❌ Perdida |
-| Sassy-Bucket | Atlanta Braves vs. Los Angeles Dodgers | Atlanta Braves | 3.12 (32¢) | $64,000 | +$136,000 | ✅ Ganada |
