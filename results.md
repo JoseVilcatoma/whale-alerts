@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 08:55:56 (hora de Perú)
+Actualizado: 2026-10-05 08:58:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4468**  ($241,535,865 en total)
-- Resueltas: **4436** — 2710 ganadas / 1726 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **4437** — 2710 ganadas / 1727 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 513
 
 ### Balance
 
-- **Resultado de los apostadores: +$42,126** sobre $240,186,996 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$5,720** sobre $437,700 (ROI **-1.3%**)
+- **Resultado de los apostadores: +$9,183** sobre $240,219,939 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$5,820** sobre $437,800 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 322 | 168 | 6 | 66% | $31,318,915 | +$897,253 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 322 | 169 | 5 | 66% | $31,318,915 | +$864,311 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 62 | 54 | 0 | 53% | $6,384,205 | -$436,185 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 513 en total)_
 | fantasy7788 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $29,976 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs 1WIN (BO3) - ESL Pro League Group Stage | Legacy | 3.03 (33¢) | $32,943 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs 1WIN (BO3) - ESL Pro League Group Stage | Legacy | 3.03 (33¢) | $32,943 | -$32,943 | ❌ Perdida |
 | juice-fruit | Counter-Strike: 9z vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.43 (70¢) | $63,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.89 (53¢) | $50,074 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.85 (54¢) | $32,433 | — | ⏳ Pendiente |
