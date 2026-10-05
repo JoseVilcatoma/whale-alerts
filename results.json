@@ -66477,5 +66477,35 @@
     "status": "pending",
     "ultimo_fill": 1791158981,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9005,
+    "timestamp": 1791159125,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "nfl-det-car-2026-10-05",
+    "title": "Lions vs. Panthers",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 110469.03779999999,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1791159125,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9006,
+    "timestamp": 1791159150,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-det-car-2026-10-05",
+    "title": "Lions vs. Panthers",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 100650.0,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1791159150,
+    "fills": 1
   }
 ]

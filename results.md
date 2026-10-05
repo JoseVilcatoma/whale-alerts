@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 19:10:34 (hora de Perú)
+Actualizado: 2026-10-04 19:12:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4423**  ($239,390,414 en total)
+- Apuestas registradas: **4425**  ($239,601,533 en total)
 - Resueltas: **4354** — 2655 ganadas / 1699 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 53
 - Apostadores distintos: 509
 
 ### Balance
@@ -39,9 +39,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 41 | 18 | 0 | 69% | $3,467,148 | -$161,383 |
 | BrotherObama | 34 | 37 | 3 | 48% | $3,416,447 | +$82,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| surfandturf | 25 | 5 | 1 | 83% | $2,848,247 | +$509,463 |
+| surfandturf | 25 | 5 | 2 | 83% | $2,958,716 | +$509,463 |
+| maz26 | 24 | 15 | 1 | 62% | $2,646,771 | +$69,278 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| maz26 | 24 | 15 | 0 | 62% | $2,546,121 | +$69,278 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | Lakersfan111 | 32 | 19 | 0 | 63% | $2,306,537 | +$104,902 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 509 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Lions vs. Panthers | Lions | 1.52 (66¢) | $100,650 | — | ⏳ Pendiente |
+| surfandturf | Lions vs. Panthers | Lions | 1.52 (66¢) | $110,469 | — | ⏳ Pendiente |
 | timezonewarrior | Lions vs. Panthers | Lions | 1.49 (67¢) | $62,158 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Panthers: O/U 51.5 | Under 51.5 | 2.04 (49¢) | $32,900 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs LYON - Game 4 Winner | LYON | 1.79 (56¢) | $28,539 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 509 en total)_
 | gmpm2 | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $302,850 | +$201,900 | ✅ Ganada |
 | ferrariChampions2026 | Chargers vs. Seahawks | Seahawks | 1.33 (75¢) | $47,501 | — | ⏳ Pendiente |
 | 3648393489047 | Cardinals vs. Giants | Cardinals | 1.56 (64¢) | $34,154 | -$34,154 | ❌ Perdida |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Dolphins vs. Vikings | Dolphins | 5.88 (17¢) | $33,899 | -$33,899 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Giants | Giants | 1.25 (80¢) | $40,000 | +$10,000 | ✅ Ganada |
