@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 17:22:28 (hora de Perú)
+Actualizado: 2026-10-05 17:24:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4481**  ($241,969,491 en total)
+- Apuestas registradas: **4482**  ($242,021,200 en total)
 - Resueltas: **4460** — 2724 ganadas / 1736 perdidas (**61%** de acierto)
-- Pendientes: 3
-- Apostadores distintos: 514
+- Pendientes: 4
+- Apostadores distintos: 515
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 
-_(mostrando los 40 de mayor monto, de 514 en total)_
+_(mostrando los 40 de mayor monto, de 515 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.45 (69¢) | $51,710 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Braga: Thiago Monteiro vs Elmer Moeller | Thiago Monteiro | 2.00 (50¢) | $38,573 | -$38,573 | ❌ Perdida |
 | RJW1 | France vs. Belgium: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
 | CORGI777 | Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage | Aurora Gaming | 1.56 (64¢) | $36,082 | +$20,296 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 514 en total)_
 | gmpm2 | Lions vs. Panthers | Lions | 1.52 (66¢) | $100,650 | -$100,650 | ❌ Perdida |
 | surfandturf | Lions vs. Panthers | Lions | 1.52 (66¢) | $110,469 | +$0 | 💰 Vendida antes |
 | timezonewarrior | Lions vs. Panthers | Lions | 1.49 (67¢) | $62,158 | -$62,158 | ❌ Perdida |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Panthers: O/U 51.5 | Under 51.5 | 2.04 (49¢) | $32,900 | -$32,900 | ❌ Perdida |
