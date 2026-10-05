@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 08:41:38 (hora de Perú)
+Actualizado: 2026-10-05 08:43:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4467**  ($241,509,856 en total)
+- Apuestas registradas: **4468**  ($241,535,865 en total)
 - Resueltas: **4436** — 2710 ganadas / 1726 perdidas (**61%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 512
+- Pendientes: 14
+- Apostadores distintos: 513
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 
-_(mostrando los 40 de mayor monto, de 512 en total)_
+_(mostrando los 40 de mayor monto, de 513 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nothingtoint | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $26,009 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $29,976 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 512 en total)_
 | surfandturf | Chiefs vs. Raiders | Chiefs | 1.67 (60¢) | $89,500 | +$59,667 | ✅ Ganada |
 | Uniform123 | LoL: Team Liquid vs LYON (BO5) - LCS Playoffs | Team Liquid | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | gmpm2 | Broncos vs. 49ers | 49ers | 1.61 (62¢) | $32,736 | +$20,064 | ✅ Ganada |
-| YEEES-but-why | Dolphins vs. Vikings | Vikings | 1.12 (89¢) | $25,776 | +$3,186 | ✅ Ganada |
