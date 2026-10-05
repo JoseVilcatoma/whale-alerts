@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 23:04:40 (hora de Perú)
+Actualizado: 2026-10-04 23:06:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4450**  ($240,765,674 en total)
-- Resueltas: **4404** — 2689 ganadas / 1715 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **4426** — 2702 ganadas / 1724 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 511
 
 ### Balance
 
-- **Resultado de los apostadores: +$135,560** sobre $238,685,850 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$5,838** sobre $434,500 (ROI **-1.3%**)
+- **Resultado de los apostadores: -$129,708** sobre $239,808,172 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,112** sobre $436,700 (ROI **-1.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 318 | 167 | 8 | 66% | $31,175,898 | +$973,529 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 322 | 168 | 3 | 66% | $31,175,898 | +$897,253 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 62 | 54 | 0 | 53% | $6,384,205 | -$436,185 |
@@ -34,13 +34,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 50 | 0 | 49% | $4,956,148 | -$342,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 64 | 35 | 4 | 65% | $4,197,226 | -$285,581 |
+| ferrariChampions2026 | 65 | 37 | 1 | 64% | $4,197,226 | -$365,647 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 41 | 18 | 0 | 69% | $3,467,148 | -$161,383 |
 | BrotherObama | 34 | 38 | 2 | 47% | $3,416,447 | +$12,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
-| maz26 | 24 | 15 | 1 | 62% | $2,646,771 | +$69,278 |
+| maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | Lakersfan111 | 32 | 19 | 0 | 63% | $2,306,537 | +$104,902 |
@@ -52,12 +52,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| mooseborzoii | 23 | 6 | 4 | 79% | $1,767,176 | +$826,842 |
+| mooseborzoii | 26 | 6 | 1 | 81% | $1,767,176 | +$855,693 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
-| ndb1 | 19 | 8 | 2 | 70% | $1,567,192 | +$420,616 |
+| ndb1 | 19 | 10 | 0 | 66% | $1,567,192 | +$346,026 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
@@ -71,34 +71,34 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.25 (80¢) | $35,665 | — | ⏳ Pendiente |
-| mooseborzoii | Lions vs. Panthers | Panthers | 1.23 (81¢) | $60,512 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.20 (83¢) | $44,252 | — | ⏳ Pendiente |
-| mooseborzoii | Lions vs. Panthers | Panthers | 1.19 (84¢) | $55,298 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Lions vs. Panthers | Panthers | 1.16 (86¢) | $28,144 | — | ⏳ Pendiente |
-| mooseborzoii | Lions vs. Panthers | Panthers | 1.15 (87¢) | $27,601 | — | ⏳ Pendiente |
-| Nooserac | Lions vs. Panthers | Panthers | 1.15 (87¢) | $54,327 | — | ⏳ Pendiente |
-| Hashbrown | Lions vs. Panthers | Panthers | 1.08 (93¢) | $27,515 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.09 (92¢) | $55,200 | — | ⏳ Pendiente |
-| cosmicxbt | Lions vs. Panthers | Panthers | 1.16 (86¢) | $86,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers: O/U 58.5 | Under 58.5 | 2.27 (44¢) | $36,090 | — | ⏳ Pendiente |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Lions vs. Panthers | Panthers | 2.38 (42¢) | $30,683 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Lions vs. Panthers | Lions | 2.33 (43¢) | $29,723 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Lions vs. Panthers | Lions | 1.67 (60¢) | $54,924 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Lions | 1.72 (58¢) | $144,988 | — | ⏳ Pendiente |
-| ndb1 | Lions vs. Panthers | Lions | 1.72 (58¢) | $48,188 | — | ⏳ Pendiente |
-| Mr.Ape | Lions vs. Panthers | Lions | 1.54 (65¢) | $31,000 | — | ⏳ Pendiente |
-| ndb1 | Lions vs. Panthers | Lions | 1.45 (69¢) | $26,402 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.25 (80¢) | $35,665 | +$8,916 | ✅ Ganada |
+| mooseborzoii | Lions vs. Panthers | Panthers | 1.23 (81¢) | $60,512 | +$14,194 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.20 (83¢) | $44,252 | +$9,064 | ✅ Ganada |
+| mooseborzoii | Lions vs. Panthers | Panthers | 1.19 (84¢) | $55,298 | +$10,533 | ✅ Ganada |
+| ferrariChampions2026 | Lions vs. Panthers | Panthers | 1.16 (86¢) | $28,144 | +$4,582 | ✅ Ganada |
+| mooseborzoii | Lions vs. Panthers | Panthers | 1.15 (87¢) | $27,601 | +$4,124 | ✅ Ganada |
+| Nooserac | Lions vs. Panthers | Panthers | 1.15 (87¢) | $54,327 | +$8,118 | ✅ Ganada |
+| Hashbrown | Lions vs. Panthers | Panthers | 1.08 (93¢) | $27,515 | +$2,071 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.09 (92¢) | $55,200 | +$4,800 | ✅ Ganada |
+| cosmicxbt | Lions vs. Panthers | Panthers | 1.16 (86¢) | $86,000 | +$14,000 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers: O/U 58.5 | Under 58.5 | 2.27 (44¢) | $36,090 | +$45,933 | ✅ Ganada |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Lions vs. Panthers | Panthers | 2.38 (42¢) | $30,683 | +$42,372 | ✅ Ganada |
+| ferrariChampions2026 | Lions vs. Panthers | Lions | 2.33 (43¢) | $29,723 | -$29,723 | ❌ Perdida |
+| ferrariChampions2026 | Lions vs. Panthers | Lions | 1.67 (60¢) | $54,924 | -$54,924 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Lions | 1.72 (58¢) | $144,988 | -$144,988 | ❌ Perdida |
+| ndb1 | Lions vs. Panthers | Lions | 1.72 (58¢) | $48,188 | -$48,188 | ❌ Perdida |
+| Mr.Ape | Lions vs. Panthers | Lions | 1.54 (65¢) | $31,000 | -$31,000 | ❌ Perdida |
+| ndb1 | Lions vs. Panthers | Lions | 1.45 (69¢) | $26,402 | -$26,402 | ❌ Perdida |
 | Elaran1993 | Spread: Lions (-3.5) | Panthers | 2.13 (47¢) | $33,750 | — | ⏳ Pendiente |
-| 3648393489047 | Lions vs. Panthers | Lions | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
+| 3648393489047 | Lions vs. Panthers | Lions | 1.52 (66¢) | $33,000 | -$33,000 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Lions (-5.5) | Panthers | 1.92 (52¢) | $25,408 | +$23,454 | ✅ Ganada |
 | ferrariChampions2026 | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $27,968 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Lions vs. Panthers: O/U 51.5 | Over 51.5 | 1.89 (53¢) | $79,500 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $38,000 | — | ⏳ Pendiente |
-| Donkey14 | Lions vs. Panthers | Panthers | 2.94 (34¢) | $50,000 | — | ⏳ Pendiente |
-| gmpm2 | Lions vs. Panthers | Lions | 1.52 (66¢) | $100,650 | — | ⏳ Pendiente |
+| Donkey14 | Lions vs. Panthers | Panthers | 2.94 (34¢) | $50,000 | +$97,059 | ✅ Ganada |
+| gmpm2 | Lions vs. Panthers | Lions | 1.52 (66¢) | $100,650 | -$100,650 | ❌ Perdida |
 | surfandturf | Lions vs. Panthers | Lions | 1.52 (66¢) | $110,469 | +$0 | 💰 Vendida antes |
-| timezonewarrior | Lions vs. Panthers | Lions | 1.49 (67¢) | $62,158 | — | ⏳ Pendiente |
+| timezonewarrior | Lions vs. Panthers | Lions | 1.49 (67¢) | $62,158 | -$62,158 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Panthers: O/U 51.5 | Under 51.5 | 2.04 (49¢) | $32,900 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs LYON - Game 4 Winner | LYON | 1.79 (56¢) | $28,539 | -$28,539 | ❌ Perdida |
 | curie | Chiefs vs. Raiders | Chiefs | 1.27 (79¢) | $61,068 | +$16,233 | ✅ Ganada |
