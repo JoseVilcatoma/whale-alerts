@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 10:12:10 (hora de Perú)
+Actualizado: 2026-10-05 10:14:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4472**  ($241,676,597 en total)
+- Apuestas registradas: **4473**  ($241,702,150 en total)
 - Resueltas: **4444** — 2712 ganadas / 1732 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 514
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 514 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.41 (71¢) | $25,553 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.43 (70¢) | $33,180 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.47 (68¢) | $38,805 | — | ⏳ Pendiente |
 | neutralwave23 | China Open: Coco Gauff vs Xinran Sun | Coco Gauff | 1.09 (92¢) | $27,147 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 514 en total)_
 | mooseborzoii | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $25,104 | +$16,736 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs LYON (BO5) - LCS Playoffs | Team Liquid | 1.18 (85¢) | $38,885 | -$5,947 | 💰 Vendida antes |
 | ndb1 | Spread: Seahawks (-7.5) | Seahawks | 1.22 (82¢) | $40,920 | -$40,920 | ❌ Perdida |
-| 177-letsgo | Dolphins vs. Vikings | Vikings | 1.09 (92¢) | $59,800 | +$5,200 | ✅ Ganada |
