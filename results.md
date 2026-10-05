@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 19:43:30 (hora de Perú)
+Actualizado: 2026-10-04 19:45:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4433**  ($239,915,561 en total)
+- Apuestas registradas: **4434**  ($239,946,561 en total)
 - Resueltas: **4385** — 2680 ganadas / 1705 perdidas (**61%** de acierto)
-- Pendientes: 30
-- Apostadores distintos: 509
+- Pendientes: 31
+- Apostadores distintos: 510
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
 
-_(mostrando los 40 de mayor monto, de 509 en total)_
+_(mostrando los 40 de mayor monto, de 510 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mr.Ape | Lions vs. Panthers | Lions | 1.54 (65¢) | $31,000 | — | ⏳ Pendiente |
 | ndb1 | Lions vs. Panthers | Lions | 1.45 (69¢) | $26,402 | — | ⏳ Pendiente |
 | Elaran1993 | Spread: Lions (-3.5) | Panthers | 2.13 (47¢) | $33,750 | — | ⏳ Pendiente |
 | 3648393489047 | Lions vs. Panthers | Lions | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 509 en total)_
 | gmpm2 | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $77,100 | +$51,400 | ✅ Ganada |
 | BoggsFromShawshank | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $45,000 | +$30,000 | ✅ Ganada |
 | mooseborzoii | Chiefs vs. Raiders | Raiders | 3.12 (32¢) | $39,179 | -$39,179 | ❌ Perdida |
-| Sassy-Bucket | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $29,846 | +$14,045 | ✅ Ganada |
