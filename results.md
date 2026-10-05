@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 20:41:04 (hora de Perú)
+Actualizado: 2026-10-04 20:43:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4438**  ($240,224,386 en total)
-- Resueltas: **4389** — 2681 ganadas / 1708 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **4392** — 2683 ganadas / 1709 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 510
 
 ### Balance
 
-- **Resultado de los apostadores: +$630,868** sobre $236,993,990 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$6,154** sobre $433,000 (ROI **-1.4%**)
+- **Resultado de los apostadores: +$828,511** sobre $237,306,456 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$6,090** sobre $433,300 (ROI **-1.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 49 | 1 | 50% | $4,956,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 62 | 35 | 5 | 64% | $4,169,082 | -$399,391 |
+| ferrariChampions2026 | 63 | 35 | 4 | 64% | $4,169,082 | -$309,034 |
 | SmartPredictOrNot | 6 | 4 | 1 | 60% | $3,705,357 | +$51,217 |
 | ethanaz | 41 | 18 | 0 | 69% | $3,467,148 | -$161,383 |
 | BrotherObama | 34 | 38 | 2 | 47% | $3,416,447 | +$12,983 |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
-| mooseborzoii | 20 | 6 | 4 | 77% | $1,623,765 | +$543,097 |
+| mooseborzoii | 21 | 6 | 3 | 78% | $1,623,765 | +$683,283 |
 | ndb1 | 19 | 8 | 2 | 70% | $1,567,192 | +$420,616 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 510 en total)_
 | Uniform123 | LoL: Team Liquid vs LYON (BO5) - LCS Playoffs | Team Liquid | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | gmpm2 | Broncos vs. 49ers | 49ers | 1.61 (62¢) | $32,736 | +$20,064 | ✅ Ganada |
 | YEEES-but-why | Dolphins vs. Vikings | Vikings | 1.12 (89¢) | $25,776 | +$3,186 | ✅ Ganada |
-| ferrariChampions2026 | Spread: 49ers (-2.5) | 49ers | 1.79 (56¢) | $115,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Spread: 49ers (-2.5) | 49ers | 1.79 (56¢) | $115,000 | +$90,357 | ✅ Ganada |
 | TAIWANNUMBERONE | Dolphins vs. Vikings | Vikings | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
 | ndb1 | Broncos vs. 49ers | 49ers | 1.61 (62¢) | $125,107 | +$76,678 | ✅ Ganada |
 | ferrariChampions2026 | Dolphins vs. Vikings | Vikings | 1.09 (92¢) | $49,174 | +$4,276 | ✅ Ganada |
