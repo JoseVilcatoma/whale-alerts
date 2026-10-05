@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 01:35:46 (hora de Perú)
+Actualizado: 2026-10-05 01:37:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4451**  ($240,791,957 en total)
+- Apuestas registradas: **4452**  ($240,826,689 en total)
 - Resueltas: **4431** — 2706 ganadas / 1725 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 511
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yesmate | Suzhou: Sofia Costoulas vs Darya Astakhova | Darya Astakhova | 1.33 (75¢) | $34,732 | — | ⏳ Pendiente |
 | askilika | China Open: Alex de Minaur vs Hubert Hurkacz | Alex de Minaur | 1.72 (58¢) | $26,283 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.25 (80¢) | $35,665 | +$8,916 | ✅ Ganada |
 | mooseborzoii | Lions vs. Panthers | Panthers | 1.23 (81¢) | $60,512 | +$14,194 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 | gambamaster | Chiefs vs. Raiders | Chiefs | 1.52 (66¢) | $33,456 | +$17,235 | ✅ Ganada |
 | 0F62 | Chargers vs. Seahawks | Seahawks | 1.16 (86¢) | $45,504 | +$7,408 | ✅ Ganada |
 | KaneAnalytics | Broncos vs. 49ers | Broncos | 2.38 (42¢) | $31,750 | -$31,750 | ❌ Perdida |
-| 3648393489047 | Chiefs vs. Raiders | Chiefs | 1.64 (61¢) | $63,118 | +$40,354 | ✅ Ganada |

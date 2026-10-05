@@ -66899,5 +66899,20 @@
     "status": "pending",
     "ultimo_fill": 1791175759,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9097,
+    "timestamp": 1791182192,
+    "username": "yesmate",
+    "wallet": "0x5d7639ed5fd3c5ebf0fc69d548e1046acd0f9168",
+    "slug": "wta-costoul-astakho-2026-10-05",
+    "title": "Suzhou: Sofia Costoulas vs Darya Astakhova",
+    "outcome": "Darya Astakhova",
+    "side": "BUY",
+    "usd": 34732.270000000004,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1791182192,
+    "fills": 1
   }
 ]
