@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 11:41:11 (hora de Perú)
+Actualizado: 2026-10-05 11:43:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4479**  ($241,900,418 en total)
-- Resueltas: **4445** — 2713 ganadas / 1732 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **4449** — 2716 ganadas / 1733 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 514
 
 ### Balance
 
-- **Resultado de los apostadores: -$166,121** sobre $240,634,749 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,934** sobre $438,600 (ROI **-1.4%**)
+- **Resultado de los apostadores: -$164,802** sobre $240,773,888 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,903** sobre $439,000 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,11 +77,11 @@ _(mostrando los 40 de mayor monto, de 514 en total)_
 | ferrariChampions2026 | Braga: Thiago Monteiro vs Elmer Moeller | Elmer Moeller | 1.35 (74¢) | $32,904 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Braga: Thiago Monteiro vs Elmer Moeller | Elmer Moeller | 1.33 (75¢) | $26,250 | — | ⏳ Pendiente |
 | Mr.Ape | Will Montenegro win on 2026-10-05? | Yes | 1.45 (69¢) | $33,178 | — | ⏳ Pendiente |
-| omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.41 (71¢) | $25,553 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.43 (70¢) | $33,180 | — | ⏳ Pendiente |
-| omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.47 (68¢) | $38,805 | — | ⏳ Pendiente |
+| omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.41 (71¢) | $25,553 | +$10,437 | ✅ Ganada |
+| fantasy7788 | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.43 (70¢) | $33,180 | +$14,220 | ✅ Ganada |
+| omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.47 (68¢) | $38,805 | +$18,261 | ✅ Ganada |
 | neutralwave23 | China Open: Coco Gauff vs Xinran Sun | Coco Gauff | 1.09 (92¢) | $27,147 | +$2,361 | ✅ Ganada |
-| juice-fruit | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | Spirit | 1.56 (64¢) | $41,600 | — | ⏳ Pendiente |
+| juice-fruit | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | Spirit | 1.56 (64¢) | $41,600 | -$41,600 | ❌ Perdida |
 | nothingtoint | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $26,009 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $29,976 | — | ⏳ Pendiente |
