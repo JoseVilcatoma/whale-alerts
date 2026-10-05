@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 22:24:22 (hora de Perú)
+Actualizado: 2026-10-04 22:26:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4449**  ($240,730,009 en total)
+- Apuestas registradas: **4450**  ($240,765,674 en total)
 - Resueltas: **4397** — 2686 ganadas / 1711 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 511
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 318 | 164 | 10 | 66% | $31,140,233 | +$1,207,238 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 318 | 164 | 11 | 66% | $31,175,898 | +$1,207,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 61 | 54 | 1 | 53% | $6,384,205 | -$572,185 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.25 (80¢) | $35,665 | — | ⏳ Pendiente |
 | mooseborzoii | Lions vs. Panthers | Panthers | 1.23 (81¢) | $60,512 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.20 (83¢) | $44,252 | — | ⏳ Pendiente |
 | mooseborzoii | Lions vs. Panthers | Panthers | 1.19 (84¢) | $55,298 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 | KaneAnalytics | Broncos vs. 49ers | Broncos | 2.38 (42¢) | $31,750 | -$31,750 | ❌ Perdida |
 | 3648393489047 | Chiefs vs. Raiders | Chiefs | 1.64 (61¢) | $63,118 | +$40,354 | ✅ Ganada |
 | ferrariChampions2026 | Dolphins vs. Vikings | Vikings | 1.23 (81¢) | $29,794 | +$6,989 | ✅ Ganada |
-| mooseborzoii | Broncos vs. 49ers | 49ers | 1.72 (58¢) | $76,821 | +$55,629 | ✅ Ganada |
