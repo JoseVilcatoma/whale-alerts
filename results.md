@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 11:10:04 (hora de Perú)
+Actualizado: 2026-10-05 11:12:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4475**  ($241,761,578 en total)
+- Apuestas registradas: **4476**  ($241,794,482 en total)
 - Resueltas: **4444** — 2712 ganadas / 1732 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 514
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 50 | 0 | 49% | $4,956,148 | -$342,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 66 | 37 | 0 | 64% | $4,197,226 | -$337,678 |
+| ferrariChampions2026 | 66 | 37 | 1 | 64% | $4,230,130 | -$337,678 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 41 | 18 | 0 | 69% | $3,467,148 | -$161,383 |
 | BrotherObama | 34 | 38 | 2 | 47% | $3,416,447 | +$12,983 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 514 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Braga: Thiago Monteiro vs Elmer Moeller | Elmer Moeller | 1.35 (74¢) | $32,904 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Braga: Thiago Monteiro vs Elmer Moeller | Elmer Moeller | 1.33 (75¢) | $26,250 | — | ⏳ Pendiente |
 | Mr.Ape | Will Montenegro win on 2026-10-05? | Yes | 1.45 (69¢) | $33,178 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.41 (71¢) | $25,553 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 514 en total)_
 | Gulvisa8 | Chiefs vs. Raiders | Chiefs | 1.28 (78¢) | $55,500 | +$15,654 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Raiders | Chiefs | 1.33 (75¢) | $43,373 | +$14,458 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Raiders | Chiefs | 1.35 (74¢) | $37,058 | +$13,020 | ✅ Ganada |
-| mooseborzoii | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $25,104 | +$16,736 | ✅ Ganada |
