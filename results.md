@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 10:05:59 (hora de Perú)
+Actualizado: 2026-10-05 10:08:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4470**  ($241,604,612 en total)
+- Apuestas registradas: **4471**  ($241,643,417 en total)
 - Resueltas: **4444** — 2712 ganadas / 1732 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 514
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 514 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.47 (68¢) | $38,805 | — | ⏳ Pendiente |
 | neutralwave23 | China Open: Coco Gauff vs Xinran Sun | Coco Gauff | 1.09 (92¢) | $27,147 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | Spirit | 1.56 (64¢) | $41,600 | — | ⏳ Pendiente |
 | nothingtoint | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $26,009 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 514 en total)_
 | ndb1 | Spread: Seahawks (-7.5) | Seahawks | 1.22 (82¢) | $40,920 | -$40,920 | ❌ Perdida |
 | 177-letsgo | Dolphins vs. Vikings | Vikings | 1.09 (92¢) | $59,800 | +$5,200 | ✅ Ganada |
 | ethanaz | Dolphins vs. Vikings | Vikings | 1.10 (91¢) | $36,743 | +$3,634 | ✅ Ganada |
-| surfandturf | Chiefs vs. Raiders | Chiefs | 1.67 (60¢) | $89,500 | +$59,667 | ✅ Ganada |
