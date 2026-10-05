@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 07:04:45 (hora de Perú)
+Actualizado: 2026-10-05 07:06:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4459**  ($241,182,030 en total)
+- Apuestas registradas: **4460**  ($241,242,030 en total)
 - Resueltas: **4436** — 2710 ganadas / 1726 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 512
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 322 | 168 | 3 | 66% | $31,175,898 | +$897,253 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 322 | 168 | 4 | 66% | $31,235,898 | +$897,253 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 62 | 54 | 0 | 53% | $6,384,205 | -$436,185 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 512 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
 | optimusprime777879 | China Open: Novak Djokovic vs Daniil Medvedev | Novak Djokovic | 4.35 (23¢) | $27,600 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.67 (60¢) | $114,601 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | TYLOO | 2.00 (50¢) | $67,494 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 512 en total)_
 | ferrariChampions2026 | Chiefs vs. Raiders | Chiefs | 1.61 (62¢) | $34,596 | +$21,204 | ✅ Ganada |
 | ferrariChampions2026 | Chargers vs. Seahawks | Seahawks | 1.27 (79¢) | $26,686 | +$7,094 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $127,396 | -$127,396 | ❌ Perdida |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Atlanta Braves vs. Los Angeles Dodgers | Atlanta Braves | 3.23 (31¢) | $25,184 | +$56,054 | ✅ Ganada |
