@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 19:22:57 (hora de Perú)
+Actualizado: 2026-10-04 19:25:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4430**  ($239,822,410 en total)
+- Apuestas registradas: **4432**  ($239,889,160 en total)
 - Resueltas: **4385** — 2680 ganadas / 1705 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 29
 - Apostadores distintos: 509
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 509 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elaran1993 | Spread: Lions (-3.5) | Panthers | 2.13 (47¢) | $33,750 | — | ⏳ Pendiente |
+| 3648393489047 | Lions vs. Panthers | Lions | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Lions (-5.5) | Panthers | 1.92 (52¢) | $25,408 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $27,968 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Lions vs. Panthers: O/U 51.5 | Over 51.5 | 1.89 (53¢) | $79,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 509 en total)_
 | mooseborzoii | Chiefs vs. Raiders | Raiders | 3.12 (32¢) | $39,179 | -$39,179 | ❌ Perdida |
 | Sassy-Bucket | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $29,846 | +$14,045 | ✅ Ganada |
 | Sassy-Bucket | Broncos vs. 49ers | Broncos | 2.50 (40¢) | $40,000 | -$40,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raiders (-3.5) | Chiefs | 1.25 (80¢) | $54,155 | +$13,539 | ✅ Ganada |
-| YEEES-but-why | Spread: Seahawks (-7.5) | Seahawks | 2.17 (46¢) | $34,960 | -$34,960 | ❌ Perdida |
