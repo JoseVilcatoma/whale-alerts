@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 11:30:46 (hora de Perú)
+Actualizado: 2026-10-05 11:32:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4478**  ($241,864,336 en total)
+- Apuestas registradas: **4479**  ($241,900,418 en total)
 - Resueltas: **4445** — 2713 ganadas / 1732 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 514
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 514 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CORGI777 | Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage | Aurora Gaming | 1.56 (64¢) | $36,082 | — | ⏳ Pendiente |
 | CORGI777 | Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage | Team Falcons | 2.70 (37¢) | $44,854 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage | Aurora Gaming | 1.56 (64¢) | $25,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Braga: Thiago Monteiro vs Elmer Moeller | Elmer Moeller | 1.35 (74¢) | $32,904 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 514 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Panthers: O/U 51.5 | Under 51.5 | 2.04 (49¢) | $32,900 | -$32,900 | ❌ Perdida |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs LYON - Game 4 Winner | LYON | 1.79 (56¢) | $28,539 | -$28,539 | ❌ Perdida |
 | curie | Chiefs vs. Raiders | Chiefs | 1.27 (79¢) | $61,068 | +$16,233 | ✅ Ganada |
-| Gulvisa8 | Chiefs vs. Raiders | Chiefs | 1.28 (78¢) | $55,500 | +$15,654 | ✅ Ganada |

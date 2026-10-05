@@ -67304,5 +67304,20 @@
     "status": "pending",
     "ultimo_fill": 1791217686,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9139,
+    "timestamp": 1791217949,
+    "username": "CORGI777",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-aur1-bb3-2026-10-05",
+    "title": "Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 36082.1632,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1791217949,
+    "fills": 1
   }
 ]
