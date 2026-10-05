@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 23:47:37 (hora de Perú)
+Actualizado: 2026-10-04 23:49:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4450**  ($240,765,674 en total)
+- Apuestas registradas: **4451**  ($240,791,957 en total)
 - Resueltas: **4426** — 2702 ganadas / 1724 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 511
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| askilika | China Open: Alex de Minaur vs Hubert Hurkacz | Alex de Minaur | 1.72 (58¢) | $26,283 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.25 (80¢) | $35,665 | +$8,916 | ✅ Ganada |
 | mooseborzoii | Lions vs. Panthers | Panthers | 1.23 (81¢) | $60,512 | +$14,194 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.20 (83¢) | $44,252 | +$9,064 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 | 0F62 | Chargers vs. Seahawks | Seahawks | 1.16 (86¢) | $45,504 | +$7,408 | ✅ Ganada |
 | KaneAnalytics | Broncos vs. 49ers | Broncos | 2.38 (42¢) | $31,750 | -$31,750 | ❌ Perdida |
 | 3648393489047 | Chiefs vs. Raiders | Chiefs | 1.64 (61¢) | $63,118 | +$40,354 | ✅ Ganada |
-| ferrariChampions2026 | Dolphins vs. Vikings | Vikings | 1.23 (81¢) | $29,794 | +$6,989 | ✅ Ganada |
