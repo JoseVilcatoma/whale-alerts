@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 08:39:34 (hora de Perú)
+Actualizado: 2026-10-05 08:41:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4466**  ($241,479,856 en total)
+- Apuestas registradas: **4467**  ($241,509,856 en total)
 - Resueltas: **4436** — 2710 ganadas / 1726 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 512
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 512 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $29,976 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs 1WIN (BO3) - ESL Pro League Group Stage | Legacy | 3.03 (33¢) | $32,943 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 512 en total)_
 | Uniform123 | LoL: Team Liquid vs LYON (BO5) - LCS Playoffs | Team Liquid | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | gmpm2 | Broncos vs. 49ers | 49ers | 1.61 (62¢) | $32,736 | +$20,064 | ✅ Ganada |
 | YEEES-but-why | Dolphins vs. Vikings | Vikings | 1.12 (89¢) | $25,776 | +$3,186 | ✅ Ganada |
-| ferrariChampions2026 | Spread: 49ers (-2.5) | 49ers | 1.79 (56¢) | $115,000 | +$90,357 | ✅ Ganada |
