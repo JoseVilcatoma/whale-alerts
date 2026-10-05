@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 20:18:27 (hora de Perú)
+Actualizado: 2026-10-04 20:20:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4437**  ($240,194,662 en total)
+- Apuestas registradas: **4438**  ($240,224,386 en total)
 - Resueltas: **4389** — 2681 ganadas / 1708 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 510
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 49 | 1 | 50% | $4,956,148 | -$316,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 62 | 35 | 4 | 64% | $4,139,359 | -$399,391 |
+| ferrariChampions2026 | 62 | 35 | 5 | 64% | $4,169,082 | -$399,391 |
 | SmartPredictOrNot | 6 | 4 | 1 | 60% | $3,705,357 | +$51,217 |
 | ethanaz | 41 | 18 | 0 | 69% | $3,467,148 | -$161,383 |
 | BrotherObama | 34 | 38 | 2 | 47% | $3,416,447 | +$12,983 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 510 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Lions vs. Panthers | Lions | 2.33 (43¢) | $29,723 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Lions vs. Panthers | Lions | 1.67 (60¢) | $54,924 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Lions | 1.72 (58¢) | $144,988 | — | ⏳ Pendiente |
 | ndb1 | Lions vs. Panthers | Lions | 1.72 (58¢) | $48,188 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 510 en total)_
 | 177-letsgo | Chargers vs. Seahawks | Seahawks | 1.33 (75¢) | $69,750 | +$23,250 | ✅ Ganada |
 | Diabolical-Prize | Spread: Chiefs (-4.5) | Chiefs | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | ethanaz | Dolphins vs. Vikings | Vikings | 1.20 (83¢) | $170,654 | +$34,953 | ✅ Ganada |
-| ndb1 | Dolphins vs. Vikings | Vikings | 1.20 (83¢) | $45,374 | +$9,294 | ✅ Ganada |
