@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 19:59:59 (hora de Perú)
+Actualizado: 2026-10-04 20:02:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4435**  ($239,994,750 en total)
+- Apuestas registradas: **4436**  ($240,139,738 en total)
 - Resueltas: **4388** — 2681 ganadas / 1707 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 510
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 318 | 164 | 6 | 66% | $30,859,703 | +$1,207,238 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 318 | 164 | 7 | 66% | $31,004,691 | +$1,207,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 61 | 54 | 1 | 53% | $6,384,205 | -$572,185 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 510 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Lions | 1.72 (58¢) | $144,988 | — | ⏳ Pendiente |
 | ndb1 | Lions vs. Panthers | Lions | 1.72 (58¢) | $48,188 | — | ⏳ Pendiente |
 | Mr.Ape | Lions vs. Panthers | Lions | 1.54 (65¢) | $31,000 | — | ⏳ Pendiente |
 | ndb1 | Lions vs. Panthers | Lions | 1.45 (69¢) | $26,402 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 510 en total)_
 | ethanaz | Dolphins vs. Vikings | Vikings | 1.20 (83¢) | $170,654 | +$34,953 | ✅ Ganada |
 | ndb1 | Dolphins vs. Vikings | Vikings | 1.20 (83¢) | $45,374 | +$9,294 | ✅ Ganada |
 | gmpm2 | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $77,100 | +$51,400 | ✅ Ganada |
-| BoggsFromShawshank | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $45,000 | +$30,000 | ✅ Ganada |
