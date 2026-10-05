@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 07:19:08 (hora de Perú)
+Actualizado: 2026-10-05 07:21:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4463**  ($241,387,537 en total)
+- Apuestas registradas: **4464**  ($241,420,480 en total)
 - Resueltas: **4436** — 2710 ganadas / 1726 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 512
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 322 | 168 | 5 | 66% | $31,285,972 | +$897,253 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 322 | 168 | 6 | 66% | $31,318,915 | +$897,253 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 62 | 54 | 0 | 53% | $6,384,205 | -$436,185 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 512 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs 1WIN (BO3) - ESL Pro League Group Stage | Legacy | 3.03 (33¢) | $32,943 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: 9z vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.43 (70¢) | $63,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.89 (53¢) | $50,074 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.85 (54¢) | $32,433 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 512 en total)_
 | ferrariChampions2026 | Spread: 49ers (-2.5) | 49ers | 1.79 (56¢) | $115,000 | +$90,357 | ✅ Ganada |
 | TAIWANNUMBERONE | Dolphins vs. Vikings | Vikings | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
 | ndb1 | Broncos vs. 49ers | 49ers | 1.61 (62¢) | $125,107 | +$76,678 | ✅ Ganada |
-| ferrariChampions2026 | Dolphins vs. Vikings | Vikings | 1.09 (92¢) | $49,174 | +$4,276 | ✅ Ganada |
