@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 19:14:39 (hora de Perú)
+Actualizado: 2026-10-04 19:16:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4426**  ($239,651,533 en total)
+- Apuestas registradas: **4427**  ($239,689,533 en total)
 - Resueltas: **4385** — 2680 ganadas / 1705 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 509
 
 ### Balance
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
-| mooseborzoii | 20 | 6 | 3 | 77% | $1,585,765 | +$543,097 |
+| mooseborzoii | 20 | 6 | 4 | 77% | $1,623,765 | +$543,097 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | ndb1 | 19 | 8 | 0 | 70% | $1,492,602 | +$420,616 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 509 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $38,000 | — | ⏳ Pendiente |
 | Donkey14 | Lions vs. Panthers | Panthers | 2.94 (34¢) | $50,000 | — | ⏳ Pendiente |
 | gmpm2 | Lions vs. Panthers | Lions | 1.52 (66¢) | $100,650 | — | ⏳ Pendiente |
 | surfandturf | Lions vs. Panthers | Lions | 1.52 (66¢) | $110,469 | +$0 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 509 en total)_
 | Sassy-Bucket | Chiefs vs. Raiders | Chiefs | 1.47 (68¢) | $121,314 | +$57,089 | ✅ Ganada |
 | YEEES-but-why | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $74,400 | +$49,600 | ✅ Ganada |
 | gmpm2 | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $302,850 | +$201,900 | ✅ Ganada |
-| ferrariChampions2026 | Chargers vs. Seahawks | Seahawks | 1.33 (75¢) | $47,501 | +$15,834 | ✅ Ganada |
