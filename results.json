@@ -67319,5 +67319,20 @@
     "status": "pending",
     "ultimo_fill": 1791217949,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9144,
+    "timestamp": 1791220354,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "unl-fra-bel-2026-10-05-total-3pt5",
+    "title": "France vs. Belgium: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 30500.0,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1791220354,
+    "fills": 1
   }
 ]
