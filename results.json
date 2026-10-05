@@ -67034,5 +67034,35 @@
     "status": "pending",
     "ultimo_fill": 1791201936,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9112,
+    "timestamp": 1791202168,
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "wallet": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+    "slug": "atp-djokovi-medvede-2026-10-05",
+    "title": "China Open: Novak Djokovic vs Daniil Medvedev",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "usd": 32432.591800000002,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1791202168,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9113,
+    "timestamp": 1791202239,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-djokovi-medvede-2026-10-05",
+    "title": "China Open: Novak Djokovic vs Daniil Medvedev",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "usd": 50073.7587,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791202239,
+    "fills": 1
   }
 ]
