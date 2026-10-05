@@ -67109,5 +67109,20 @@
     "status": "pending",
     "ultimo_fill": 1791207037,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9117,
+    "timestamp": 1791207123,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "cs2-m80-tyloo-2026-10-05",
+    "title": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
+    "outcome": "M80",
+    "side": "BUY",
+    "usd": 29976.31,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791207123,
+    "fills": 1
   }
 ]
