@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 22:42:09 (hora de Perú)
+Actualizado: 2026-10-04 22:44:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4450**  ($240,765,674 en total)
-- Resueltas: **4397** — 2686 ganadas / 1711 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **4403** — 2688 ganadas / 1715 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 511
 
 ### Balance
 
-- **Resultado de los apostadores: +$946,210** sobre $237,545,101 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$5,965** sobre $433,800 (ROI **-1.4%**)
+- **Resultado de los apostadores: +$112,106** sobre $238,660,442 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$5,930** sobre $434,400 (ROI **-1.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 318 | 164 | 11 | 66% | $31,175,898 | +$1,207,238 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 318 | 167 | 8 | 66% | $31,175,898 | +$973,529 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Sassy-Bucket | 61 | 54 | 1 | 53% | $6,384,205 | -$572,185 |
+| Sassy-Bucket | 62 | 54 | 0 | 53% | $6,384,205 | -$436,185 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 49 | 50 | 0 | 49% | $4,956,148 | -$342,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 63 | 35 | 5 | 64% | $4,197,226 | -$309,034 |
-| SmartPredictOrNot | 6 | 4 | 1 | 60% | $3,705,357 | +$51,217 |
+| SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 41 | 18 | 0 | 69% | $3,467,148 | -$161,383 |
 | BrotherObama | 34 | 38 | 2 | 47% | $3,416,447 | +$12,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -120,10 +120,10 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 | ferrariChampions2026 | Dolphins vs. Vikings | Vikings | 1.09 (92¢) | $49,174 | +$4,276 | ✅ Ganada |
 | ferrariChampions2026 | Chiefs vs. Raiders | Chiefs | 1.61 (62¢) | $34,596 | +$21,204 | ✅ Ganada |
 | ferrariChampions2026 | Chargers vs. Seahawks | Seahawks | 1.27 (79¢) | $26,686 | +$7,094 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $127,396 | — | ⏳ Pendiente |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Atlanta Braves vs. Los Angeles Dodgers | Atlanta Braves | 3.23 (31¢) | $25,184 | — | ⏳ Pendiente |
-| SmartPredictOrNot | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.45 (69¢) | $792,448 | — | ⏳ Pendiente |
-| Sassy-Bucket | Atlanta Braves vs. Los Angeles Dodgers | Atlanta Braves | 3.12 (32¢) | $64,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $127,396 | -$127,396 | ❌ Perdida |
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Atlanta Braves vs. Los Angeles Dodgers | Atlanta Braves | 3.23 (31¢) | $25,184 | +$56,054 | ✅ Ganada |
+| SmartPredictOrNot | Atlanta Braves vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.45 (69¢) | $792,448 | -$792,448 | ❌ Perdida |
+| Sassy-Bucket | Atlanta Braves vs. Los Angeles Dodgers | Atlanta Braves | 3.12 (32¢) | $64,000 | +$136,000 | ✅ Ganada |
 | ferrariChampions2026 | Chargers vs. Seahawks | Seahawks | 1.28 (78¢) | $40,363 | +$11,384 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Broncos vs. 49ers | 49ers | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | gambamaster | Chiefs vs. Raiders | Chiefs | 1.52 (66¢) | $33,456 | +$17,235 | ✅ Ganada |
