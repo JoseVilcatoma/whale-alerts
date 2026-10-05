@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 03:23:41 (hora de Perú)
+Actualizado: 2026-10-05 03:25:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4453**  ($240,855,998 en total)
+- Apuestas registradas: **4454**  ($240,883,998 en total)
 - Resueltas: **4432** — 2707 ganadas / 1725 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 511
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HectorHuang | China Open: Alex de Minaur vs Hubert Hurkacz | Hubert Hurkacz | 2.38 (42¢) | $28,000 | — | ⏳ Pendiente |
 | crispychook99 | LoL: Natus Vincere vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage | Natus Vincere | 1.69 (59¢) | $29,308 | — | ⏳ Pendiente |
 | yesmate | Suzhou: Sofia Costoulas vs Darya Astakhova | Darya Astakhova | 1.33 (75¢) | $34,732 | +$11,577 | ✅ Ganada |
 | askilika | China Open: Alex de Minaur vs Hubert Hurkacz | Alex de Minaur | 1.72 (58¢) | $26,283 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 | ferrariChampions2026 | Chargers vs. Seahawks | Seahawks | 1.28 (78¢) | $40,363 | +$11,384 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Broncos vs. 49ers | 49ers | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | gambamaster | Chiefs vs. Raiders | Chiefs | 1.52 (66¢) | $33,456 | +$17,235 | ✅ Ganada |
-| 0F62 | Chargers vs. Seahawks | Seahawks | 1.16 (86¢) | $45,504 | +$7,408 | ✅ Ganada |
