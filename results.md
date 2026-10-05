@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 21:57:25 (hora de Perú)
+Actualizado: 2026-10-04 21:59:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4443**  ($240,459,874 en total)
+- Apuestas registradas: **4444**  ($240,514,201 en total)
 - Resueltas: **4397** — 2686 ganadas / 1711 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 511
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Nooserac | Lions vs. Panthers | Panthers | 1.15 (87¢) | $54,327 | — | ⏳ Pendiente |
 | Hashbrown | Lions vs. Panthers | Panthers | 1.08 (93¢) | $27,515 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.09 (92¢) | $55,200 | — | ⏳ Pendiente |
 | cosmicxbt | Lions vs. Panthers | Panthers | 1.16 (86¢) | $86,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 | Nooserac | Dolphins vs. Vikings | Vikings | 1.19 (84¢) | $25,519 | +$4,861 | ✅ Ganada |
 | ferrariChampions2026 | Chiefs vs. Raiders | Chiefs | 2.04 (49¢) | $51,019 | +$53,102 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Raiders | Raiders | 1.96 (51¢) | $40,800 | -$40,800 | ❌ Perdida |
-| ndb1 | Dolphins vs. Vikings | Vikings | 1.19 (84¢) | $115,489 | +$21,998 | ✅ Ganada |
