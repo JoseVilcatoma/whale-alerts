@@ -66914,5 +66914,20 @@
     "status": "won",
     "ultimo_fill": 1791182192,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9099,
+    "timestamp": 1791186283,
+    "username": "crispychook99",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-navi-fly-2026-10-05",
+    "title": "LoL: Natus Vincere vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 29308.25,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1791186283,
+    "fills": 1
   }
 ]

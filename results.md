@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 02:42:56 (hora de Perú)
+Actualizado: 2026-10-05 02:44:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4452**  ($240,826,689 en total)
+- Apuestas registradas: **4453**  ($240,855,998 en total)
 - Resueltas: **4432** — 2707 ganadas / 1725 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 511
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| Lakersfan111 | 32 | 19 | 0 | 63% | $2,306,537 | +$104,902 |
+| Lakersfan111 | 32 | 19 | 1 | 63% | $2,335,845 | +$104,902 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | Kch-Temp | 28 | 10 | 0 | 74% | $2,220,597 | +$1,199,855 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| crispychook99 | LoL: Natus Vincere vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage | Natus Vincere | 1.69 (59¢) | $29,308 | — | ⏳ Pendiente |
 | yesmate | Suzhou: Sofia Costoulas vs Darya Astakhova | Darya Astakhova | 1.33 (75¢) | $34,732 | +$11,577 | ✅ Ganada |
 | askilika | China Open: Alex de Minaur vs Hubert Hurkacz | Alex de Minaur | 1.72 (58¢) | $26,283 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.25 (80¢) | $35,665 | +$8,916 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Broncos vs. 49ers | 49ers | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | gambamaster | Chiefs vs. Raiders | Chiefs | 1.52 (66¢) | $33,456 | +$17,235 | ✅ Ganada |
 | 0F62 | Chargers vs. Seahawks | Seahawks | 1.16 (86¢) | $45,504 | +$7,408 | ✅ Ganada |
-| KaneAnalytics | Broncos vs. 49ers | Broncos | 2.38 (42¢) | $31,750 | -$31,750 | ❌ Perdida |
