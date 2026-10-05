@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 02:12:27 (hora de Perú)
+Actualizado: 2026-10-05 02:14:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4452**  ($240,826,689 en total)
-- Resueltas: **4431** — 2706 ganadas / 1725 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Resueltas: **4432** — 2707 ganadas / 1725 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 511
 
 ### Balance
 
-- **Resultado de los apostadores: +$11,919** sobre $240,020,291 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$5,811** sobre $437,200 (ROI **-1.3%**)
+- **Resultado de los apostadores: +$23,497** sobre $240,055,023 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$5,777** sobre $437,300 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| yesmate | Suzhou: Sofia Costoulas vs Darya Astakhova | Darya Astakhova | 1.33 (75¢) | $34,732 | — | ⏳ Pendiente |
+| yesmate | Suzhou: Sofia Costoulas vs Darya Astakhova | Darya Astakhova | 1.33 (75¢) | $34,732 | +$11,577 | ✅ Ganada |
 | askilika | China Open: Alex de Minaur vs Hubert Hurkacz | Alex de Minaur | 1.72 (58¢) | $26,283 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.25 (80¢) | $35,665 | +$8,916 | ✅ Ganada |
 | mooseborzoii | Lions vs. Panthers | Panthers | 1.23 (81¢) | $60,512 | +$14,194 | ✅ Ganada |
