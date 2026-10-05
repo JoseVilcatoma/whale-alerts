@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 00:30:40 (hora de Perú)
+Actualizado: 2026-10-05 00:32:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4451**  ($240,791,957 en total)
-- Resueltas: **4426** — 2702 ganadas / 1724 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **4428** — 2703 ganadas / 1725 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 511
 
 ### Balance
 
-- **Resultado de los apostadores: -$129,708** sobre $239,808,172 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,112** sobre $436,700 (ROI **-1.4%**)
+- **Resultado de los apostadores: -$92,108** sobre $239,920,572 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$6,123** sobre $436,900 (ROI **-1.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -94,13 +94,13 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 | 3648393489047 | Lions vs. Panthers | Lions | 1.52 (66¢) | $33,000 | -$33,000 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Lions (-5.5) | Panthers | 1.92 (52¢) | $25,408 | +$23,454 | ✅ Ganada |
 | ferrariChampions2026 | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $27,968 | — | ⏳ Pendiente |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Lions vs. Panthers: O/U 51.5 | Over 51.5 | 1.89 (53¢) | $79,500 | — | ⏳ Pendiente |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Lions vs. Panthers: O/U 51.5 | Over 51.5 | 1.89 (53¢) | $79,500 | +$70,500 | ✅ Ganada |
 | mooseborzoii | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $38,000 | — | ⏳ Pendiente |
 | Donkey14 | Lions vs. Panthers | Panthers | 2.94 (34¢) | $50,000 | +$97,059 | ✅ Ganada |
 | gmpm2 | Lions vs. Panthers | Lions | 1.52 (66¢) | $100,650 | -$100,650 | ❌ Perdida |
 | surfandturf | Lions vs. Panthers | Lions | 1.52 (66¢) | $110,469 | +$0 | 💰 Vendida antes |
 | timezonewarrior | Lions vs. Panthers | Lions | 1.49 (67¢) | $62,158 | -$62,158 | ❌ Perdida |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Panthers: O/U 51.5 | Under 51.5 | 2.04 (49¢) | $32,900 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Panthers: O/U 51.5 | Under 51.5 | 2.04 (49¢) | $32,900 | -$32,900 | ❌ Perdida |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs LYON - Game 4 Winner | LYON | 1.79 (56¢) | $28,539 | -$28,539 | ❌ Perdida |
 | curie | Chiefs vs. Raiders | Chiefs | 1.27 (79¢) | $61,068 | +$16,233 | ✅ Ganada |
 | Gulvisa8 | Chiefs vs. Raiders | Chiefs | 1.28 (78¢) | $55,500 | +$15,654 | ✅ Ganada |
