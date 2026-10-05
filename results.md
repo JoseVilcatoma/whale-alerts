@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 23:00:38 (hora de Perú)
+Actualizado: 2026-10-04 23:02:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4450**  ($240,765,674 en total)
-- Resueltas: **4403** — 2688 ganadas / 1715 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **4404** — 2689 ganadas / 1715 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 511
 
 ### Balance
 
-- **Resultado de los apostadores: +$112,106** sobre $238,660,442 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$5,930** sobre $434,400 (ROI **-1.4%**)
+- **Resultado de los apostadores: +$135,560** sobre $238,685,850 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$5,838** sobre $434,500 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 50 | 0 | 49% | $4,956,148 | -$342,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 63 | 35 | 5 | 64% | $4,197,226 | -$309,034 |
+| ferrariChampions2026 | 64 | 35 | 4 | 65% | $4,197,226 | -$285,581 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 41 | 18 | 0 | 69% | $3,467,148 | -$161,383 |
 | BrotherObama | 34 | 38 | 2 | 47% | $3,416,447 | +$12,983 |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 | ndb1 | Lions vs. Panthers | Lions | 1.45 (69¢) | $26,402 | — | ⏳ Pendiente |
 | Elaran1993 | Spread: Lions (-3.5) | Panthers | 2.13 (47¢) | $33,750 | — | ⏳ Pendiente |
 | 3648393489047 | Lions vs. Panthers | Lions | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Spread: Lions (-5.5) | Panthers | 1.92 (52¢) | $25,408 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Spread: Lions (-5.5) | Panthers | 1.92 (52¢) | $25,408 | +$23,454 | ✅ Ganada |
 | ferrariChampions2026 | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $27,968 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Lions vs. Panthers: O/U 51.5 | Over 51.5 | 1.89 (53¢) | $79,500 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $38,000 | — | ⏳ Pendiente |
