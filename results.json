@@ -66719,5 +66719,20 @@
     "status": "pending",
     "ultimo_fill": 1791165233,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9052,
+    "timestamp": 1791166037,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-det-car-2026-10-05-total-58pt5",
+    "title": "Lions vs. Panthers: O/U 58.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 36090.2916,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1791166037,
+    "fills": 1
   }
 ]

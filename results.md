@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 21:05:34 (hora de Perú)
+Actualizado: 2026-10-04 21:07:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4439**  ($240,255,069 en total)
+- Apuestas registradas: **4440**  ($240,291,159 en total)
 - Resueltas: **4397** — 2686 ganadas / 1711 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 510
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 318 | 164 | 7 | 66% | $31,004,691 | +$1,207,238 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 318 | 164 | 8 | 66% | $31,040,781 | +$1,207,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Sassy-Bucket | 61 | 54 | 1 | 53% | $6,384,205 | -$572,185 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 510 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers: O/U 58.5 | Under 58.5 | 2.27 (44¢) | $36,090 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Lions vs. Panthers | Panthers | 2.38 (42¢) | $30,683 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Lions vs. Panthers | Lions | 2.33 (43¢) | $29,723 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Lions vs. Panthers | Lions | 1.67 (60¢) | $54,924 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 510 en total)_
 | ferrariChampions2026 | Chiefs vs. Raiders | Chiefs | 1.67 (60¢) | $29,569 | +$19,712 | ✅ Ganada |
 | kkookkoo | San Diego Padres vs. Milwaukee Brewers | San Diego Padres | 1.67 (60¢) | $38,500 | -$38,500 | ❌ Perdida |
 | 177-letsgo | Chargers vs. Seahawks | Seahawks | 1.33 (75¢) | $69,750 | +$23,250 | ✅ Ganada |
-| Diabolical-Prize | Spread: Chiefs (-4.5) | Chiefs | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
