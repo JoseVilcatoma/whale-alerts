@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 20:10:13 (hora de Perú)
+Actualizado: 2026-10-04 20:12:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4437**  ($240,194,662 en total)
-- Resueltas: **4388** — 2681 ganadas / 1707 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **4389** — 2681 ganadas / 1708 perdidas (**61%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 510
 
 ### Balance
 
-- **Resultado de los apostadores: +$656,319** sobre $236,968,540 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$6,054** sobre $432,900 (ROI **-1.4%**)
+- **Resultado de los apostadores: +$630,868** sobre $236,993,990 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$6,154** sobre $433,000 (ROI **-1.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 32 | 19 | 0 | 63% | $2,306,537 | +$104,902 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
-| Kch-Temp | 28 | 9 | 1 | 76% | $2,220,597 | +$1,225,306 |
+| Kch-Temp | 28 | 10 | 0 | 74% | $2,220,597 | +$1,199,855 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
