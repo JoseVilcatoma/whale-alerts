@@ -66644,5 +66644,20 @@
     "status": "pending",
     "ultimo_fill": 1791161043,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9038,
+    "timestamp": 1791161975,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "nfl-det-car-2026-10-05",
+    "title": "Lions vs. Panthers",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 48188.314,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1791161975,
+    "fills": 1
   }
 ]

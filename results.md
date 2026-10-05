@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 19:57:57 (hora de Perú)
+Actualizado: 2026-10-04 19:59:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4434**  ($239,946,561 en total)
+- Apuestas registradas: **4435**  ($239,994,750 en total)
 - Resueltas: **4388** — 2681 ganadas / 1707 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 510
 
 ### Balance
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
 | mooseborzoii | 20 | 6 | 4 | 77% | $1,623,765 | +$543,097 |
+| ndb1 | 19 | 8 | 2 | 70% | $1,567,192 | +$420,616 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
-| ndb1 | 19 | 8 | 1 | 70% | $1,519,004 | +$420,616 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 510 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Lions vs. Panthers | Lions | 1.72 (58¢) | $48,188 | — | ⏳ Pendiente |
 | Mr.Ape | Lions vs. Panthers | Lions | 1.54 (65¢) | $31,000 | — | ⏳ Pendiente |
 | ndb1 | Lions vs. Panthers | Lions | 1.45 (69¢) | $26,402 | — | ⏳ Pendiente |
 | Elaran1993 | Spread: Lions (-3.5) | Panthers | 2.13 (47¢) | $33,750 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 510 en total)_
 | ndb1 | Dolphins vs. Vikings | Vikings | 1.20 (83¢) | $45,374 | +$9,294 | ✅ Ganada |
 | gmpm2 | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $77,100 | +$51,400 | ✅ Ganada |
 | BoggsFromShawshank | Broncos vs. 49ers | 49ers | 1.67 (60¢) | $45,000 | +$30,000 | ✅ Ganada |
-| mooseborzoii | Chiefs vs. Raiders | Raiders | 3.12 (32¢) | $39,179 | -$39,179 | ❌ Perdida |
