@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 00:44:58 (hora de Perú)
+Actualizado: 2026-10-05 00:47:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4451**  ($240,791,957 en total)
-- Resueltas: **4428** — 2703 ganadas / 1725 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **4431** — 2706 ganadas / 1725 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 511
 
 ### Balance
 
-- **Resultado de los apostadores: -$92,108** sobre $239,920,572 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$6,123** sobre $436,900 (ROI **-1.4%**)
+- **Resultado de los apostadores: +$11,919** sobre $240,020,291 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$5,811** sobre $437,200 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 50 | 0 | 49% | $4,956,148 | -$342,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 65 | 37 | 1 | 64% | $4,197,226 | -$365,647 |
+| ferrariChampions2026 | 66 | 37 | 0 | 64% | $4,197,226 | -$337,678 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 41 | 18 | 0 | 69% | $3,467,148 | -$161,383 |
 | BrotherObama | 34 | 38 | 2 | 47% | $3,416,447 | +$12,983 |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| mooseborzoii | 26 | 6 | 1 | 81% | $1,767,176 | +$855,693 |
+| mooseborzoii | 27 | 6 | 0 | 82% | $1,767,176 | +$893,693 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
@@ -90,12 +90,12 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 | ndb1 | Lions vs. Panthers | Lions | 1.72 (58¢) | $48,188 | -$48,188 | ❌ Perdida |
 | Mr.Ape | Lions vs. Panthers | Lions | 1.54 (65¢) | $31,000 | -$31,000 | ❌ Perdida |
 | ndb1 | Lions vs. Panthers | Lions | 1.45 (69¢) | $26,402 | -$26,402 | ❌ Perdida |
-| Elaran1993 | Spread: Lions (-3.5) | Panthers | 2.13 (47¢) | $33,750 | — | ⏳ Pendiente |
+| Elaran1993 | Spread: Lions (-3.5) | Panthers | 2.13 (47¢) | $33,750 | +$38,059 | ✅ Ganada |
 | 3648393489047 | Lions vs. Panthers | Lions | 1.52 (66¢) | $33,000 | -$33,000 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Lions (-5.5) | Panthers | 1.92 (52¢) | $25,408 | +$23,454 | ✅ Ganada |
-| ferrariChampions2026 | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $27,968 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $27,968 | +$27,968 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Lions vs. Panthers: O/U 51.5 | Over 51.5 | 1.89 (53¢) | $79,500 | +$70,500 | ✅ Ganada |
-| mooseborzoii | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $38,000 | — | ⏳ Pendiente |
+| mooseborzoii | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $38,000 | +$38,000 | ✅ Ganada |
 | Donkey14 | Lions vs. Panthers | Panthers | 2.94 (34¢) | $50,000 | +$97,059 | ✅ Ganada |
 | gmpm2 | Lions vs. Panthers | Lions | 1.52 (66¢) | $100,650 | -$100,650 | ❌ Perdida |
 | surfandturf | Lions vs. Panthers | Lions | 1.52 (66¢) | $110,469 | +$0 | 💰 Vendida antes |
