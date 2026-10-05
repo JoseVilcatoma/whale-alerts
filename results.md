@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 19:55:51 (hora de Perú)
+Actualizado: 2026-10-04 19:57:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4434**  ($239,946,561 en total)
-- Resueltas: **4385** — 2680 ganadas / 1705 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **4388** — 2681 ganadas / 1707 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 510
 
 ### Balance
 
-- **Resultado de los apostadores: +$708,068** sobre $236,886,791 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$5,872** sobre $432,600 (ROI **-1.4%**)
+- **Resultado de los apostadores: +$656,319** sobre $236,968,540 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$6,054** sobre $432,900 (ROI **-1.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 510 en total)_
 | surfandturf | Lions vs. Panthers | Lions | 1.52 (66¢) | $110,469 | +$0 | 💰 Vendida antes |
 | timezonewarrior | Lions vs. Panthers | Lions | 1.49 (67¢) | $62,158 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Panthers: O/U 51.5 | Under 51.5 | 2.04 (49¢) | $32,900 | — | ⏳ Pendiente |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs LYON - Game 4 Winner | LYON | 1.79 (56¢) | $28,539 | — | ⏳ Pendiente |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs LYON - Game 4 Winner | LYON | 1.79 (56¢) | $28,539 | -$28,539 | ❌ Perdida |
 | curie | Chiefs vs. Raiders | Chiefs | 1.27 (79¢) | $61,068 | +$16,233 | ✅ Ganada |
 | Gulvisa8 | Chiefs vs. Raiders | Chiefs | 1.28 (78¢) | $55,500 | +$15,654 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Raiders | Chiefs | 1.33 (75¢) | $43,373 | +$14,458 | ✅ Ganada |
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 510 en total)_
 | 177-letsgo | Dolphins vs. Vikings | Vikings | 1.09 (92¢) | $59,800 | +$5,200 | ✅ Ganada |
 | ethanaz | Dolphins vs. Vikings | Vikings | 1.10 (91¢) | $36,743 | +$3,634 | ✅ Ganada |
 | surfandturf | Chiefs vs. Raiders | Chiefs | 1.67 (60¢) | $89,500 | +$59,667 | ✅ Ganada |
-| Uniform123 | LoL: Team Liquid vs LYON (BO5) - LCS Playoffs | Team Liquid | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
+| Uniform123 | LoL: Team Liquid vs LYON (BO5) - LCS Playoffs | Team Liquid | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | gmpm2 | Broncos vs. 49ers | 49ers | 1.61 (62¢) | $32,736 | +$20,064 | ✅ Ganada |
 | YEEES-but-why | Dolphins vs. Vikings | Vikings | 1.12 (89¢) | $25,776 | +$3,186 | ✅ Ganada |
 | ferrariChampions2026 | Spread: 49ers (-2.5) | 49ers | 1.79 (56¢) | $115,000 | — | ⏳ Pendiente |
