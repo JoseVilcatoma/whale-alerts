@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 17:46:58 (hora de Perú)
+Actualizado: 2026-10-05 17:49:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4482**  ($242,021,200 en total)
-- Resueltas: **4460** — 2724 ganadas / 1736 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **4462** — 2724 ganadas / 1738 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 515
 
 ### Balance
 
-- **Resultado de los apostadores: -$147,840** sobre $241,160,429 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,630** sobre $440,100 (ROI **-1.3%**)
+- **Resultado de los apostadores: -$211,518** sobre $241,224,108 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,830** sobre $440,300 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,13 +73,13 @@ _(mostrando los 40 de mayor monto, de 515 en total)_
 |---|---|---|---|---|---|---|
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.45 (69¢) | $51,710 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Braga: Thiago Monteiro vs Elmer Moeller | Thiago Monteiro | 2.00 (50¢) | $38,573 | -$38,573 | ❌ Perdida |
-| RJW1 | France vs. Belgium: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
+| RJW1 | France vs. Belgium: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $30,500 | -$30,500 | ❌ Perdida |
 | CORGI777 | Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage | Aurora Gaming | 1.56 (64¢) | $36,082 | +$20,296 | ✅ Ganada |
 | CORGI777 | Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage | Team Falcons | 2.70 (37¢) | $44,854 | -$44,854 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage | Aurora Gaming | 1.56 (64¢) | $25,000 | +$14,062 | ✅ Ganada |
 | ferrariChampions2026 | Braga: Thiago Monteiro vs Elmer Moeller | Elmer Moeller | 1.35 (74¢) | $32,904 | +$11,561 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Braga: Thiago Monteiro vs Elmer Moeller | Elmer Moeller | 1.33 (75¢) | $26,250 | +$8,750 | ✅ Ganada |
-| Mr.Ape | Will Montenegro win on 2026-10-05? | Yes | 1.45 (69¢) | $33,178 | — | ⏳ Pendiente |
+| Mr.Ape | Will Montenegro win on 2026-10-05? | Yes | 1.45 (69¢) | $33,178 | -$33,178 | ❌ Perdida |
 | omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.41 (71¢) | $25,553 | +$10,437 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.43 (70¢) | $33,180 | +$14,220 | ✅ Ganada |
 | omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.47 (68¢) | $38,805 | +$18,261 | ✅ Ganada |
