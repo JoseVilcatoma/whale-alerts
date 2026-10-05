@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 11:16:18 (hora de Perú)
+Actualizado: 2026-10-05 11:18:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4476**  ($241,794,482 en total)
-- Resueltas: **4444** — 2712 ganadas / 1732 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **4445** — 2713 ganadas / 1732 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 514
 
 ### Balance
 
-- **Resultado de los apostadores: -$168,481** sobre $240,607,603 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,943** sobre $438,500 (ROI **-1.4%**)
+- **Resultado de los apostadores: -$166,121** sobre $240,634,749 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,934** sobre $438,600 (ROI **-1.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 514 en total)_
 | omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.41 (71¢) | $25,553 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.43 (70¢) | $33,180 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.47 (68¢) | $38,805 | — | ⏳ Pendiente |
-| neutralwave23 | China Open: Coco Gauff vs Xinran Sun | Coco Gauff | 1.09 (92¢) | $27,147 | — | ⏳ Pendiente |
+| neutralwave23 | China Open: Coco Gauff vs Xinran Sun | Coco Gauff | 1.09 (92¢) | $27,147 | +$2,361 | ✅ Ganada |
 | juice-fruit | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | Spirit | 1.56 (64¢) | $41,600 | — | ⏳ Pendiente |
 | nothingtoint | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $26,009 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
