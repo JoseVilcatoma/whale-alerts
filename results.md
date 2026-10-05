@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-04 21:59:33 (hora de Perú)
+Actualizado: 2026-10-04 22:01:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4444**  ($240,514,201 en total)
+- Apuestas registradas: **4446**  ($240,569,947 en total)
 - Resueltas: **4397** — 2686 ganadas / 1711 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 31
 - Apostadores distintos: 511
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 49 | 50 | 0 | 49% | $4,956,148 | -$342,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 63 | 35 | 4 | 64% | $4,169,082 | -$309,034 |
+| ferrariChampions2026 | 63 | 35 | 5 | 64% | $4,197,226 | -$309,034 |
 | SmartPredictOrNot | 6 | 4 | 1 | 60% | $3,705,357 | +$51,217 |
 | ethanaz | 41 | 18 | 0 | 69% | $3,467,148 | -$161,383 |
 | BrotherObama | 34 | 38 | 2 | 47% | $3,416,447 | +$12,983 |
@@ -55,8 +55,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
+| mooseborzoii | 23 | 6 | 2 | 79% | $1,651,366 | +$826,842 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
-| mooseborzoii | 23 | 6 | 1 | 79% | $1,623,765 | +$826,842 |
 | ndb1 | 19 | 8 | 2 | 70% | $1,567,192 | +$420,616 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Lions vs. Panthers | Panthers | 1.16 (86¢) | $28,144 | — | ⏳ Pendiente |
+| mooseborzoii | Lions vs. Panthers | Panthers | 1.15 (87¢) | $27,601 | — | ⏳ Pendiente |
 | Nooserac | Lions vs. Panthers | Panthers | 1.15 (87¢) | $54,327 | — | ⏳ Pendiente |
 | Hashbrown | Lions vs. Panthers | Panthers | 1.08 (93¢) | $27,515 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.09 (92¢) | $55,200 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 511 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Raiders | Raiders | 2.00 (50¢) | $43,501 | -$43,501 | ❌ Perdida |
 | ethanaz | Broncos vs. 49ers | Broncos | 2.44 (41¢) | $31,039 | -$31,039 | ❌ Perdida |
 | Nooserac | Dolphins vs. Vikings | Vikings | 1.19 (84¢) | $25,519 | +$4,861 | ✅ Ganada |
-| ferrariChampions2026 | Chiefs vs. Raiders | Chiefs | 2.04 (49¢) | $51,019 | +$53,102 | ✅ Ganada |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Raiders | Raiders | 1.96 (51¢) | $40,800 | -$40,800 | ❌ Perdida |
