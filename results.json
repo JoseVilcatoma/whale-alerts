@@ -66959,5 +66959,20 @@
     "status": "pending",
     "ultimo_fill": 1791190376,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9102,
+    "timestamp": 1791191106,
+    "username": "crispychook99",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-9z-navi-2026-10-05",
+    "title": "Counter-Strike: 9z vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+    "outcome": "9z",
+    "side": "BUY",
+    "usd": 39956.21,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "ultimo_fill": 1791191106,
+    "fills": 1
   }
 ]
