@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 18:06:38 (hora de Perú)
+Actualizado: 2026-10-06 18:08:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4555**  ($246,387,911 en total)
-- Resueltas: **4517** — 2760 ganadas / 1757 perdidas (**61%** de acierto)
+- Apuestas registradas: **4556**  ($246,424,812 en total)
+- Resueltas: **4518** — 2761 ganadas / 1757 perdidas (**61%** de acierto)
 - Pendientes: 20
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: +$57,226** sobre $244,934,155 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$5,670** sobre $445,700 (ROI **-1.3%**)
+- **Resultado de los apostadores: +$62,226** sobre $244,962,488 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$5,652** sobre $445,800 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 328 | 175 | 6 | 65% | $31,865,579 | +$669,092 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 328 | 175 | 7 | 65% | $31,902,481 | +$669,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 1 | 52% | $6,771,964 | -$473,683 |
 | Sassy-Bucket | 62 | 56 | 2 | 53% | $6,648,490 | -$613,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,10 +71,11 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 2.04 (49¢) | $36,901 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $38,888 | — | ⏳ Pendiente |
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Palermo: Jay Clarke vs Gabriele Piraino | Gabriele Piraino | 1.18 (85¢) | $28,333 | — | ⏳ Pendiente |
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Palermo: Jay Clarke vs Gabriele Piraino | Gabriele Piraino | 1.18 (85¢) | $28,333 | +$5,000 | ✅ Ganada |
 | BrotherObama | Spread: Rangers (-1.5) | Rangers | 2.70 (37¢) | $25,000 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 2.04 (49¢) | $29,254 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $29,334 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | ethanaz | Spread: Falcons (-10.5) | Saints | 2.13 (47¢) | $39,813 | -$39,813 | ❌ Perdida |
 | mooseborzoii | Falcons vs. Saints | Falcons | 1.14 (88¢) | $28,808 | +$3,928 | ✅ Ganada |
 | mooseborzoii | Spread: Falcons (-10.5) | Saints | 2.22 (45¢) | $42,905 | -$42,905 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
