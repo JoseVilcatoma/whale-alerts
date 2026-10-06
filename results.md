@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 09:28:50 (hora de Perú)
+Actualizado: 2026-10-06 09:30:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4519**  ($243,634,438 en total)
-- Resueltas: **4486** — 2740 ganadas / 1746 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Apuestas registradas: **4521**  ($243,702,236 en total)
+- Resueltas: **4487** — 2740 ganadas / 1747 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 518
 
 ### Balance
 
-- **Resultado de los apostadores: -$322,209** sobre $242,387,755 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,866** sobre $442,700 (ROI **-1.3%**)
+- **Resultado de los apostadores: -$387,459** sobre $242,453,005 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,966** sobre $442,800 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Diabolical-Prize | 49 | 50 | 0 | 49% | $4,956,148 | -$342,593 |
+| Diabolical-Prize | 49 | 50 | 1 | 49% | $4,988,734 | -$342,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 67 | 38 | 0 | 64% | $4,268,703 | -$364,690 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -41,8 +41,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
 | maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
+| Lakersfan111 | 34 | 21 | 3 | 62% | $2,605,363 | +$25,048 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Lakersfan111 | 34 | 21 | 2 | 62% | $2,570,152 | +$25,048 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| crispychook99 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.33 (43¢) | $35,212 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.38 (42¢) | $32,586 | — | ⏳ Pendiente |
 | SharkbetX-com | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | G2 | 1.69 (59¢) | $27,005 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 2.38 (42¢) | $30,000 | — | ⏳ Pendiente |
@@ -83,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 | SDTrading | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.89 (53¢) | $30,740 | — | ⏳ Pendiente |
 | ipop00 | LoL: JD Gaming vs LGD Gaming - Game 2 Winner | LGD Gaming | 1.96 (51¢) | $28,109 | +$27,007 | ✅ Ganada |
 | omnibus-076daa | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 2.56 (39¢) | $34,418 | — | ⏳ Pendiente |
-| jaytee158 | Counter-Strike: Spirit vs 1WIN (BO3) - ESL Pro League Group Stage | Spirit | 1.15 (87¢) | $65,250 | — | ⏳ Pendiente |
+| jaytee158 | Counter-Strike: Spirit vs 1WIN (BO3) - ESL Pro League Group Stage | Spirit | 1.15 (87¢) | $65,250 | -$65,250 | ❌ Perdida |
 | crispychook99 | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | M80 | 2.17 (46¢) | $51,146 | — | ⏳ Pendiente |
 | BrotherObama | LoL: JD Gaming vs LGD Gaming (BO3) - Demacia Cup Global Invitational Group Stage | LGD Gaming | 2.08 (48¢) | $27,000 | +$29,250 | ✅ Ganada |
 | crispychook99 | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | G2 | 1.61 (62¢) | $27,330 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs 1WIN (BO3) - ESL Pro League Group Stage | Legacy | 3.03 (33¢) | $32,943 | -$32,943 | ❌ Perdida |
 | juice-fruit | Counter-Strike: 9z vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.43 (70¢) | $63,000 | +$27,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.89 (53¢) | $50,074 | -$50,074 | ❌ Perdida |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.85 (54¢) | $32,433 | -$32,433 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.67 (60¢) | $60,000 | -$60,000 | ❌ Perdida |

@@ -67736,7 +67736,7 @@
     "side": "BUY",
     "usd": 65250.0,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791287590,
     "fills": 1
   },
@@ -67918,6 +67918,36 @@
     "odds_at_bet": 57,
     "status": "pending",
     "ultimo_fill": 1791296444,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9224,
+    "timestamp": 1791296957,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-9z-bb3-2026-10-06",
+    "title": "Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage",
+    "outcome": "9z",
+    "side": "BUY",
+    "usd": 32586.206896999996,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1791296957,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9226,
+    "timestamp": 1791296996,
+    "username": "crispychook99",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-9z-bb3-2026-10-06",
+    "title": "Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage",
+    "outcome": "9z",
+    "side": "BUY",
+    "usd": 35211.5949,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1791296996,
     "fills": 1
   }
 ]
