@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 17:04:27 (hora de Perú)
+Actualizado: 2026-10-06 17:06:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4550**  ($246,227,889 en total)
+- Apuestas registradas: **4551**  ($246,252,889 en total)
 - Resueltas: **4507** — 2752 ganadas / 1755 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 522
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 68 | 38 | 0 | 64% | $4,310,188 | -$357,937 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
-| BrotherObama | 36 | 38 | 2 | 49% | $3,473,447 | +$83,661 |
+| BrotherObama | 36 | 38 | 3 | 49% | $3,498,447 | +$83,661 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
 | maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Spread: Rangers (-1.5) | Rangers | 2.70 (37¢) | $25,000 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 2.04 (49¢) | $29,254 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $29,334 | — | ⏳ Pendiente |
 | Mastermoney | Southern Miss vs. Troy: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $42,633 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.49 (67¢) | $39,967 | +$19,685 | ✅ Ganada |
 | Lorolorota09 | Falcons vs. Saints | Falcons | 1.61 (62¢) | $28,324 | +$17,360 | ✅ Ganada |
 | mooseborzoii | Falcons vs. Saints | Falcons | 1.52 (66¢) | $29,005 | +$14,942 | ✅ Ganada |
-| nuttypoo | Falcons vs. Saints | Falcons | 1.49 (67¢) | $44,220 | +$21,780 | ✅ Ganada |
