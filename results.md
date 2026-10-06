@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 09:20:28 (hora de Perú)
+Actualizado: 2026-10-06 09:22:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4518**  ($243,604,438 en total)
+- Apuestas registradas: **4519**  ($243,634,438 en total)
 - Resueltas: **4486** — 2740 ganadas / 1746 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 518
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SharkbetX-com | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | G2 | 1.69 (59¢) | $27,005 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 2.38 (42¢) | $30,000 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.89 (53¢) | $50,074 | -$50,074 | ❌ Perdida |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.85 (54¢) | $32,433 | -$32,433 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.67 (60¢) | $60,000 | -$60,000 | ❌ Perdida |
-| optimusprime777879 | China Open: Novak Djokovic vs Daniil Medvedev | Novak Djokovic | 4.35 (23¢) | $27,600 | +$92,400 | ✅ Ganada |
