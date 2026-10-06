@@ -68054,5 +68054,20 @@
     "status": "pending",
     "ultimo_fill": 1791303647,
     "fills": 4
+  },
+  {
+    "telegram_msg_id": 9239,
+    "timestamp": 1791304331,
+    "username": "Mastermoney",
+    "wallet": "0xbe23032d56a012c531b372c7739bc1dbd4dfb587",
+    "slug": "unl-hrv-esp-2026-10-06-total-2pt5",
+    "title": "Croatia vs. Spain: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 27744.0824,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1791304331,
+    "fills": 1
   }
 ]
