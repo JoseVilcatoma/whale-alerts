@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 11:51:46 (hora de Perú)
+Actualizado: 2026-10-06 11:53:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4535**  ($245,555,660 en total)
+- Apuestas registradas: **4537**  ($245,643,283 en total)
 - Resueltas: **4493** — 2744 ganadas / 1749 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 26
 - Apostadores distintos: 522
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 326 | 173 | 6 | 65% | $31,682,746 | +$743,959 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 326 | 173 | 7 | 65% | $31,716,433 | +$743,959 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | Sassy-Bucket | 62 | 56 | 0 | 53% | $6,561,205 | -$613,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Spain win on 2026-10-06? | No | 4.76 (21¢) | $33,686 | — | ⏳ Pendiente |
+| omnibus-076daa | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $53,937 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Spain win on 2026-10-06? | No | 4.76 (21¢) | $40,774 | — | ⏳ Pendiente |
 | lfjlwkflwekfl | Palermo: Christian Langmo vs Lorenzo Giustino | Lorenzo Giustino | 1.33 (75¢) | $37,447 | — | ⏳ Pendiente |
 | joseph00677 | Will Spain win on 2026-10-06? | Yes | 1.28 (78¢) | $1,004,263 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | RJW1 | France vs. Belgium: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $30,500 | -$30,500 | ❌ Perdida |
 | CORGI777 | Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage | Aurora Gaming | 1.56 (64¢) | $36,082 | +$20,296 | ✅ Ganada |
 | CORGI777 | Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage | Team Falcons | 2.70 (37¢) | $44,854 | -$44,854 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage | Aurora Gaming | 1.56 (64¢) | $25,000 | +$14,062 | ✅ Ganada |
-| ferrariChampions2026 | Braga: Thiago Monteiro vs Elmer Moeller | Elmer Moeller | 1.35 (74¢) | $32,904 | +$11,561 | ✅ Ganada |
