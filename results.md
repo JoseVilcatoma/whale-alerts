@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 07:26:55 (hora de Perú)
+Actualizado: 2026-10-06 07:28:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4510**  ($243,278,711 en total)
+- Apuestas registradas: **4511**  ($243,344,192 en total)
 - Resueltas: **4482** — 2736 ganadas / 1746 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 518
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 325 | 173 | 3 | 65% | $31,493,404 | +$724,400 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 325 | 173 | 4 | 65% | $31,558,885 | +$724,400 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | Sassy-Bucket | 62 | 56 | 0 | 53% | $6,561,205 | -$613,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.30 (77¢) | $65,481 | — | ⏳ Pendiente |
 | SDTrading | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.89 (53¢) | $30,740 | — | ⏳ Pendiente |
 | ipop00 | LoL: JD Gaming vs LGD Gaming - Game 2 Winner | LGD Gaming | 1.96 (51¢) | $28,109 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 2.56 (39¢) | $34,418 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 | HectorHuang | China Open: Alex de Minaur vs Hubert Hurkacz | Hubert Hurkacz | 2.38 (42¢) | $28,000 | -$28,000 | ❌ Perdida |
 | crispychook99 | LoL: Natus Vincere vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage | Natus Vincere | 1.69 (59¢) | $29,308 | +$20,367 | ✅ Ganada |
 | yesmate | Suzhou: Sofia Costoulas vs Darya Astakhova | Darya Astakhova | 1.33 (75¢) | $34,732 | +$11,577 | ✅ Ganada |
-| askilika | China Open: Alex de Minaur vs Hubert Hurkacz | Alex de Minaur | 1.72 (58¢) | $26,283 | +$19,033 | ✅ Ganada |
