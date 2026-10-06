@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 22:37:40 (hora de Perú)
+Actualizado: 2026-10-05 23:19:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4501**  ($242,958,561 en total)
-- Resueltas: **4463** — 2724 ganadas / 1739 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **4480** — 2736 ganadas / 1744 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 516
 
 ### Balance
 
-- **Resultado de los apostadores: -$263,228** sobre $241,275,817 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,930** sobre $440,400 (ROI **-1.3%**)
+- **Resultado de los apostadores: -$226,428** sobre $242,024,533 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,932** sobre $442,100 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 323 | 171 | 7 | 65% | $31,493,404 | +$762,987 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 325 | 173 | 3 | 65% | $31,493,404 | +$724,400 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
-| Sassy-Bucket | 62 | 54 | 2 | 53% | $6,561,205 | -$436,185 |
+| Sassy-Bucket | 62 | 55 | 1 | 53% | $6,561,205 | -$488,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 67 | 38 | 0 | 64% | $4,268,703 | -$364,690 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| ethanaz | 41 | 18 | 1 | 69% | $3,506,961 | -$161,383 |
+| ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
 | BrotherObama | 34 | 38 | 2 | 47% | $3,416,447 | +$12,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
@@ -50,10 +50,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
-| mooseborzoii | 27 | 6 | 4 | 82% | $1,897,446 | +$893,693 |
+| mooseborzoii | 30 | 7 | 0 | 81% | $1,897,446 | +$899,210 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| ndb1 | 19 | 10 | 2 | 66% | $1,749,940 | +$346,026 |
+| ndb1 | 20 | 10 | 1 | 67% | $1,749,940 | +$407,383 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
-| cosmicxbt | 12 | 4 | 1 | 75% | $1,302,328 | -$43,987 |
+| cosmicxbt | 13 | 4 | 0 | 76% | $1,302,328 | +$1,473 |
 
 _(mostrando los 40 de mayor monto, de 516 en total)_
 
@@ -71,24 +71,24 @@ _(mostrando los 40 de mayor monto, de 516 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| nuttypoo | Falcons vs. Saints | Falcons | 1.11 (90¢) | $44,100 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Falcons vs. Saints | Falcons | 1.11 (90¢) | $45,000 | — | ⏳ Pendiente |
-| ethanaz | Spread: Falcons (-10.5) | Saints | 2.13 (47¢) | $39,813 | — | ⏳ Pendiente |
-| mooseborzoii | Falcons vs. Saints | Falcons | 1.14 (88¢) | $28,808 | — | ⏳ Pendiente |
-| mooseborzoii | Spread: Falcons (-10.5) | Saints | 2.22 (45¢) | $42,905 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
-| yoyoyoyoer | Falcons vs. Saints | Falcons | 1.22 (82¢) | $26,543 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.49 (67¢) | $39,967 | — | ⏳ Pendiente |
-| Lorolorota09 | Falcons vs. Saints | Falcons | 1.61 (62¢) | $28,324 | — | ⏳ Pendiente |
-| mooseborzoii | Falcons vs. Saints | Falcons | 1.52 (66¢) | $29,005 | — | ⏳ Pendiente |
-| nuttypoo | Falcons vs. Saints | Falcons | 1.49 (67¢) | $44,220 | — | ⏳ Pendiente |
-| ndb1 | Falcons vs. Saints | Falcons | 1.52 (66¢) | $119,103 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 2.56 (39¢) | $28,359 | — | ⏳ Pendiente |
-| cosmicxbt | Falcons vs. Saints | Falcons | 1.64 (61¢) | $71,103 | — | ⏳ Pendiente |
-| mooseborzoii | Falcons vs. Saints | Falcons | 2.00 (50¢) | $29,552 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 1.96 (51¢) | $35,913 | — | ⏳ Pendiente |
+| nuttypoo | Falcons vs. Saints | Falcons | 1.11 (90¢) | $44,100 | +$4,900 | ✅ Ganada |
+| TAIWANNUMBERONE | Falcons vs. Saints | Falcons | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
+| ethanaz | Spread: Falcons (-10.5) | Saints | 2.13 (47¢) | $39,813 | -$39,813 | ❌ Perdida |
+| mooseborzoii | Falcons vs. Saints | Falcons | 1.14 (88¢) | $28,808 | +$3,928 | ✅ Ganada |
+| mooseborzoii | Spread: Falcons (-10.5) | Saints | 2.22 (45¢) | $42,905 | -$42,905 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
+| yoyoyoyoer | Falcons vs. Saints | Falcons | 1.22 (82¢) | $26,543 | +$5,827 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.49 (67¢) | $39,967 | +$19,685 | ✅ Ganada |
+| Lorolorota09 | Falcons vs. Saints | Falcons | 1.61 (62¢) | $28,324 | +$17,360 | ✅ Ganada |
+| mooseborzoii | Falcons vs. Saints | Falcons | 1.52 (66¢) | $29,005 | +$14,942 | ✅ Ganada |
+| nuttypoo | Falcons vs. Saints | Falcons | 1.49 (67¢) | $44,220 | +$21,780 | ✅ Ganada |
+| ndb1 | Falcons vs. Saints | Falcons | 1.52 (66¢) | $119,103 | +$61,356 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 2.56 (39¢) | $28,359 | -$28,359 | ❌ Perdida |
+| cosmicxbt | Falcons vs. Saints | Falcons | 1.64 (61¢) | $71,103 | +$45,459 | ✅ Ganada |
+| mooseborzoii | Falcons vs. Saints | Falcons | 2.00 (50¢) | $29,552 | +$29,552 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 1.96 (51¢) | $35,913 | -$35,913 | ❌ Perdida |
 | ndb1 | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $63,645 | — | ⏳ Pendiente |
-| Sassy-Bucket | Falcons vs. Saints | Saints | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Falcons vs. Saints | Saints | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
 | Sassy-Bucket | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $125,000 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.45 (69¢) | $51,710 | -$51,710 | ❌ Perdida |
 | ferrariChampions2026 | Braga: Thiago Monteiro vs Elmer Moeller | Thiago Monteiro | 2.00 (50¢) | $38,573 | -$38,573 | ❌ Perdida |
