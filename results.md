@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 23:55:53 (hora de Perú)
+Actualizado: 2026-10-05 23:57:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4504**  ($243,042,047 en total)
-- Resueltas: **4480** — 2736 ganadas / 1744 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **4482** — 2736 ganadas / 1746 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 517
 
 ### Balance
 
-- **Resultado de los apostadores: -$226,428** sobre $242,024,533 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,932** sobre $442,100 (ROI **-1.3%**)
+- **Resultado de los apostadores: -$415,073** sobre $242,213,178 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$6,132** sobre $442,300 (ROI **-1.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 325 | 173 | 3 | 65% | $31,493,404 | +$724,400 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
-| Sassy-Bucket | 62 | 55 | 1 | 53% | $6,561,205 | -$488,185 |
+| Sassy-Bucket | 62 | 56 | 0 | 53% | $6,561,205 | -$613,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 30 | 7 | 0 | 81% | $1,897,446 | +$899,210 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| ndb1 | 20 | 10 | 1 | 67% | $1,749,940 | +$407,383 |
+| ndb1 | 20 | 11 | 0 | 65% | $1,749,940 | +$343,738 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
@@ -90,9 +90,9 @@ _(mostrando los 40 de mayor monto, de 517 en total)_
 | cosmicxbt | Falcons vs. Saints | Falcons | 1.64 (61¢) | $71,103 | +$45,459 | ✅ Ganada |
 | mooseborzoii | Falcons vs. Saints | Falcons | 2.00 (50¢) | $29,552 | +$29,552 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 1.96 (51¢) | $35,913 | -$35,913 | ❌ Perdida |
-| ndb1 | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $63,645 | — | ⏳ Pendiente |
+| ndb1 | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $63,645 | -$63,645 | ❌ Perdida |
 | Sassy-Bucket | Falcons vs. Saints | Saints | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
-| Sassy-Bucket | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $125,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $125,000 | -$125,000 | ❌ Perdida |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.45 (69¢) | $51,710 | -$51,710 | ❌ Perdida |
 | ferrariChampions2026 | Braga: Thiago Monteiro vs Elmer Moeller | Thiago Monteiro | 2.00 (50¢) | $38,573 | -$38,573 | ❌ Perdida |
 | RJW1 | France vs. Belgium: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $30,500 | -$30,500 | ❌ Perdida |
