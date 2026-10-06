@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 03:40:47 (hora de Perú)
+Actualizado: 2026-10-06 03:42:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4504**  ($243,042,047 en total)
+- Apuestas registradas: **4505**  ($243,069,047 en total)
 - Resueltas: **4482** — 2736 ganadas / 1746 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 517
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 67 | 38 | 0 | 64% | $4,268,703 | -$364,690 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
-| BrotherObama | 34 | 38 | 2 | 47% | $3,416,447 | +$12,983 |
+| BrotherObama | 34 | 38 | 3 | 47% | $3,443,447 | +$12,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
 | maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 517 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: JD Gaming vs LGD Gaming (BO3) - Demacia Cup Global Invitational Group Stage | LGD Gaming | 2.08 (48¢) | $27,000 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | G2 | 1.61 (62¢) | $27,330 | — | ⏳ Pendiente |
 | Ancient-Strike | Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage | FURIA | 1.85 (54¢) | $26,185 | — | ⏳ Pendiente |
 | LlamaEnjoyer | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.69 (59¢) | $29,972 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 517 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.20 (83¢) | $44,252 | +$9,064 | ✅ Ganada |
 | mooseborzoii | Lions vs. Panthers | Panthers | 1.19 (84¢) | $55,298 | +$10,533 | ✅ Ganada |
 | ferrariChampions2026 | Lions vs. Panthers | Panthers | 1.16 (86¢) | $28,144 | +$4,582 | ✅ Ganada |
-| mooseborzoii | Lions vs. Panthers | Panthers | 1.15 (87¢) | $27,601 | +$4,124 | ✅ Ganada |
