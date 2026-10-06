@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 08:47:17 (hora de Perú)
+Actualizado: 2026-10-06 08:49:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4513**  ($243,425,178 en total)
+- Apuestas registradas: **4514**  ($243,488,111 en total)
 - Resueltas: **4486** — 2740 ganadas / 1746 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 518
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Samsun: Lucrezia Stefanini vs Carole Monnet | Lucrezia Stefanini | 1.23 (81¢) | $62,932 | — | ⏳ Pendiente |
 | omnibus-076daa | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.32 (76¢) | $53,986 | +$17,048 | ✅ Ganada |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.30 (77¢) | $65,481 | +$19,559 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 | crispychook99 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | TYLOO | 2.00 (50¢) | $67,494 | -$67,494 | ❌ Perdida |
 | crispychook99 | Counter-Strike: 9z vs Natus Vincere (BO3) - ESL Pro League Group Stage | 9z | 3.23 (31¢) | $39,956 | -$39,956 | ❌ Perdida |
 | crispychook99 | Counter-Strike: ShindeN vs G2 (BO3) - ESL Pro League Group Stage | G2 | 1.15 (87¢) | $48,381 | +$7,229 | ✅ Ganada |
-| HectorHuang | China Open: Alex de Minaur vs Hubert Hurkacz | Hubert Hurkacz | 2.38 (42¢) | $28,000 | -$28,000 | ❌ Perdida |

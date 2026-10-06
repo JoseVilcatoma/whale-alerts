@@ -67829,5 +67829,20 @@
     "status": "won",
     "ultimo_fill": 1791290215,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9218,
+    "timestamp": 1791294526,
+    "username": "0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295",
+    "wallet": "0x08a30a0a0fb71ebddc8907145791030782b88666",
+    "slug": "wta-stefani-monnet-2026-10-05",
+    "title": "Samsun: Lucrezia Stefanini vs Carole Monnet",
+    "outcome": "Lucrezia Stefanini",
+    "side": "BUY",
+    "usd": 62932.4559,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1791294526,
+    "fills": 1
   }
 ]
