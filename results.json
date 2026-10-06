@@ -68039,5 +68039,20 @@
     "status": "pending",
     "ultimo_fill": 1791301820,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 9238,
+    "timestamp": 1791303492,
+    "username": "Parom51",
+    "wallet": "0x7d2b8ec2211b5ec43ebc66559b999edf6b1d8e80",
+    "slug": "atp-gakhov-milev-2026-10-06",
+    "title": "Palermo: Ivan Gakhov vs Yanaki Milev",
+    "outcome": "Yanaki Milev",
+    "side": "BUY",
+    "usd": 55132.5003,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791303520,
+    "fills": 2
   }
 ]
