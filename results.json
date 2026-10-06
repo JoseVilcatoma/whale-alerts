@@ -67469,5 +67469,50 @@
     "status": "pending",
     "ultimo_fill": 1791246126,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9168,
+    "timestamp": 1791246563,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "nfl-atl-no-2026-10-06",
+    "title": "Falcons vs. Saints",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 84904.50540000001,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1791246563,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9169,
+    "timestamp": 1791246629,
+    "username": "nuttypoo",
+    "wallet": "0xa1e6ba93d878b71a895f80fcb5c36337143fe1c2",
+    "slug": "nfl-atl-no-2026-10-06",
+    "title": "Falcons vs. Saints",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 44220.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1791246629,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9170,
+    "timestamp": 1791246635,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-atl-no-2026-10-06",
+    "title": "Falcons vs. Saints",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 29005.165200000003,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1791246635,
+    "fills": 1
   }
 ]

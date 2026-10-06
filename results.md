@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 19:28:51 (hora de Perú)
+Actualizado: 2026-10-05 19:30:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4489**  ($242,426,773 en total)
+- Apuestas registradas: **4492**  ($242,584,902 en total)
 - Resueltas: **4462** — 2724 ganadas / 1738 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 12
 - Apostadores distintos: 515
 
 ### Balance
@@ -50,13 +50,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
+| mooseborzoii | 27 | 6 | 2 | 82% | $1,825,733 | +$893,693 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| mooseborzoii | 27 | 6 | 1 | 82% | $1,796,728 | +$893,693 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
+| ndb1 | 19 | 10 | 2 | 66% | $1,715,742 | +$346,026 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
-| ndb1 | 19 | 10 | 1 | 66% | $1,630,837 | +$346,026 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 515 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Falcons vs. Saints | Falcons | 1.52 (66¢) | $29,005 | — | ⏳ Pendiente |
+| nuttypoo | Falcons vs. Saints | Falcons | 1.49 (67¢) | $44,220 | — | ⏳ Pendiente |
+| ndb1 | Falcons vs. Saints | Falcons | 1.52 (66¢) | $84,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 2.56 (39¢) | $28,359 | — | ⏳ Pendiente |
 | cosmicxbt | Falcons vs. Saints | Falcons | 1.64 (61¢) | $71,103 | — | ⏳ Pendiente |
 | mooseborzoii | Falcons vs. Saints | Falcons | 2.00 (50¢) | $29,552 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 515 en total)_
 | ndb1 | Lions vs. Panthers | Lions | 1.72 (58¢) | $48,188 | -$48,188 | ❌ Perdida |
 | Mr.Ape | Lions vs. Panthers | Lions | 1.54 (65¢) | $31,000 | -$31,000 | ❌ Perdida |
 | ndb1 | Lions vs. Panthers | Lions | 1.45 (69¢) | $26,402 | -$26,402 | ❌ Perdida |
-| Elaran1993 | Spread: Lions (-3.5) | Panthers | 2.13 (47¢) | $33,750 | +$38,059 | ✅ Ganada |
-| 3648393489047 | Lions vs. Panthers | Lions | 1.52 (66¢) | $33,000 | -$33,000 | ❌ Perdida |
-| ferrariChampions2026 | Spread: Lions (-5.5) | Panthers | 1.92 (52¢) | $25,408 | +$23,454 | ✅ Ganada |
