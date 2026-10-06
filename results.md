@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 16:32:59 (hora de Perú)
+Actualizado: 2026-10-06 16:35:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4544**  ($246,012,775 en total)
+- Apuestas registradas: **4545**  ($246,038,717 en total)
 - Resueltas: **4506** — 2752 ganadas / 1754 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 522
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 327 | 173 | 7 | 65% | $31,812,638 | +$768,554 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 327 | 173 | 8 | 65% | $31,838,579 | +$768,554 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | Sassy-Bucket | 62 | 56 | 0 | 53% | $6,561,205 | -$613,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.04 (49¢) | $25,941 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Antofagasta: Gustavo Heide vs Maximo Zeitune | Gustavo Heide | 1.15 (87¢) | $82,261 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Croatia win on 2026-10-06? | No | 1.06 (94¢) | $66,930 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Villena: August Holmgren vs Pedro Martinez | Pedro Martinez | 1.16 (86¢) | $41,485 | +$6,753 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | cosmicxbt | Falcons vs. Saints | Falcons | 1.64 (61¢) | $71,103 | +$45,459 | ✅ Ganada |
 | mooseborzoii | Falcons vs. Saints | Falcons | 2.00 (50¢) | $29,552 | +$29,552 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 1.96 (51¢) | $35,913 | -$35,913 | ❌ Perdida |
-| ndb1 | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $63,645 | -$63,645 | ❌ Perdida |
