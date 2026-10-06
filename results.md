@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 09:56:01 (hora de Perú)
+Actualizado: 2026-10-06 09:58:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4521**  ($243,702,236 en total)
+- Apuestas registradas: **4522**  ($243,878,218 en total)
 - Resueltas: **4487** — 2740 ganadas / 1747 perdidas (**61%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 518
+- Pendientes: 17
+- Apostadores distintos: 519
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | cosmicxbt | 13 | 4 | 0 | 76% | $1,302,328 | +$1,473 |
 
-_(mostrando los 40 de mayor monto, de 518 en total)_
+_(mostrando los 40 de mayor monto, de 519 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Parom51 | Palermo: Kalin Ivanovski vs Alejandro Moro Canas | Alejandro Moro Canas | 1.14 (88¢) | $175,982 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.33 (43¢) | $35,212 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.38 (42¢) | $32,586 | — | ⏳ Pendiente |
 | SharkbetX-com | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 | fantasy7788 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 2.04 (49¢) | $29,400 | +$30,600 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs 1WIN (BO3) - ESL Pro League Group Stage | Legacy | 3.03 (33¢) | $32,943 | -$32,943 | ❌ Perdida |
 | juice-fruit | Counter-Strike: 9z vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.43 (70¢) | $63,000 | +$27,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.89 (53¢) | $50,074 | -$50,074 | ❌ Perdida |
