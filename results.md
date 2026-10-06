@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 08:57:37 (hora de Perú)
+Actualizado: 2026-10-06 08:59:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4514**  ($243,488,111 en total)
+- Apuestas registradas: **4515**  ($243,518,933 en total)
 - Resueltas: **4486** — 2740 ganadas / 1746 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 518
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 326 | 173 | 3 | 65% | $31,558,885 | +$743,959 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 326 | 173 | 4 | 65% | $31,589,708 | +$743,959 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | Sassy-Bucket | 62 | 56 | 0 | 53% | $6,561,205 | -$613,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $30,823 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Samsun: Lucrezia Stefanini vs Carole Monnet | Lucrezia Stefanini | 1.23 (81¢) | $62,932 | — | ⏳ Pendiente |
 | omnibus-076daa | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.32 (76¢) | $53,986 | +$17,048 | ✅ Ganada |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.67 (60¢) | $114,601 | -$114,601 | ❌ Perdida |
 | crispychook99 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | TYLOO | 2.00 (50¢) | $67,494 | -$67,494 | ❌ Perdida |
 | crispychook99 | Counter-Strike: 9z vs Natus Vincere (BO3) - ESL Pro League Group Stage | 9z | 3.23 (31¢) | $39,956 | -$39,956 | ❌ Perdida |
-| crispychook99 | Counter-Strike: ShindeN vs G2 (BO3) - ESL Pro League Group Stage | G2 | 1.15 (87¢) | $48,381 | +$7,229 | ✅ Ganada |
