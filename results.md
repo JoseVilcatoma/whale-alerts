@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 17:47:51 (hora de Perú)
+Actualizado: 2026-10-06 17:50:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4554**  ($246,360,911 en total)
-- Resueltas: **4510** — 2755 ganadas / 1755 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **4517** — 2760 ganadas / 1757 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: -$151,929** sobre $243,632,382 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,553** sobre $445,000 (ROI **-1.2%**)
+- **Resultado de los apostadores: +$57,226** sobre $244,934,155 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$5,670** sobre $445,700 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 327 | 173 | 8 | 65% | $31,838,579 | +$768,554 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 328 | 175 | 5 | 65% | $31,838,579 | +$669,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 1 | 52% | $6,771,964 | -$473,683 |
 | Sassy-Bucket | 62 | 56 | 2 | 53% | $6,648,490 | -$613,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| 0x361b…74fe | 18 | 1 | 1 | 95% | $1,450,786 | +$656,216 |
+| 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | cosmicxbt | 13 | 4 | 0 | 76% | $1,302,328 | +$1,473 |
@@ -82,23 +82,23 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.04 (49¢) | $25,941 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Antofagasta: Gustavo Heide vs Maximo Zeitune | Gustavo Heide | 1.15 (87¢) | $82,261 | +$12,292 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Croatia win on 2026-10-06? | No | 1.06 (94¢) | $66,930 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Croatia win on 2026-10-06? | No | 1.06 (94¢) | $66,930 | +$4,272 | ✅ Ganada |
 | ferrariChampions2026 | Villena: August Holmgren vs Pedro Martinez | Pedro Martinez | 1.16 (86¢) | $41,485 | +$6,753 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $52,500 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | M80 | 2.27 (44¢) | $37,040 | +$47,142 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Spain win on 2026-10-06? | No | 4.76 (21¢) | $62,961 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Spain win on 2026-10-06? | No | 4.76 (21¢) | $62,961 | -$62,961 | ❌ Perdida |
 | omnibus-076daa | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $53,937 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Spain win on 2026-10-06? | No | 4.76 (21¢) | $40,774 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Spain win on 2026-10-06? | No | 4.76 (21¢) | $40,774 | -$40,774 | ❌ Perdida |
 | lfjlwkflwekfl | Palermo: Christian Langmo vs Lorenzo Giustino | Lorenzo Giustino | 1.33 (75¢) | $37,447 | +$12,482 | ✅ Ganada |
-| joseph00677 | Will Spain win on 2026-10-06? | Yes | 1.28 (78¢) | $1,004,263 | — | ⏳ Pendiente |
-| 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
+| joseph00677 | Will Spain win on 2026-10-06? | Yes | 1.28 (78¢) | $1,004,263 | +$283,254 | ✅ Ganada |
+| 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
 | StasPanda | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $34,605 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $70,633 | — | ⏳ Pendiente |
 | Mastermoney | Croatia vs. Spain: O/U 2.5 | Over 2.5 | 1.49 (67¢) | $27,744 | +$13,665 | ✅ Ganada |
 | Parom51 | Palermo: Ivan Gakhov vs Yanaki Milev | Yanaki Milev | 1.92 (52¢) | $124,120 | +$114,572 | ✅ Ganada |
-| 0x361b…74fe | Will Spain win on 2026-10-06? | Yes | 1.27 (79¢) | $72,845 | — | ⏳ Pendiente |
+| 0x361b…74fe | Will Spain win on 2026-10-06? | Yes | 1.27 (79¢) | $72,845 | +$19,364 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.33 (43¢) | $30,000 | -$698 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 1.47 (68¢) | $52,265 | +$24,595 | ✅ Ganada |
 | Cbs710 | Will England win on 2026-10-06? | Yes | 1.12 (89¢) | $38,915 | +$4,810 | ✅ Ganada |
@@ -113,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $30,823 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Samsun: Lucrezia Stefanini vs Carole Monnet | Lucrezia Stefanini | 1.23 (81¢) | $62,932 | +$14,762 | ✅ Ganada |
 | omnibus-076daa | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.32 (76¢) | $53,986 | +$17,048 | ✅ Ganada |
-| 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
+| 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.30 (77¢) | $65,481 | +$19,559 | ✅ Ganada |
 | SDTrading | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.89 (53¢) | $30,740 | — | ⏳ Pendiente |
 | ipop00 | LoL: JD Gaming vs LGD Gaming - Game 2 Winner | LGD Gaming | 1.96 (51¢) | $28,109 | +$27,007 | ✅ Ganada |
