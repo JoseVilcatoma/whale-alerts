@@ -67979,5 +67979,20 @@
     "status": "pending",
     "ultimo_fill": 1791299452,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9229,
+    "timestamp": 1791299846,
+    "username": "Cbs710",
+    "wallet": "0x700a306c6dd9c87db2f5519b1bfae0340e83a239",
+    "slug": "unl-eng-cze-2026-10-06-eng",
+    "title": "Will England win on 2026-10-06?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 38914.549997999995,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1791299846,
+    "fills": 1
   }
 ]
