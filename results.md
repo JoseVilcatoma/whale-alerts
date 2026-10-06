@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 11:47:42 (hora de Perú)
+Actualizado: 2026-10-06 11:49:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4533**  ($244,658,037 en total)
+- Apuestas registradas: **4533**  ($244,876,865 en total)
 - Resueltas: **4493** — 2744 ganadas / 1749 perdidas (**61%** de acierto)
 - Pendientes: 22
 - Apostadores distintos: 522
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| joseph00677 | Will Spain win on 2026-10-06? | Yes | 1.28 (78¢) | $184,860 | — | ⏳ Pendiente |
+| joseph00677 | Will Spain win on 2026-10-06? | Yes | 1.28 (78¢) | $403,688 | — | ⏳ Pendiente |
 | 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $34,605 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $70,633 | — | ⏳ Pendiente |
