@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 16:51:44 (hora de Perú)
+Actualizado: 2026-10-06 16:53:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4546**  ($246,068,717 en total)
+- Apuestas registradas: **4547**  ($246,097,342 en total)
 - Resueltas: **4507** — 2752 ganadas / 1755 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 522
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 327 | 173 | 8 | 65% | $31,838,579 | +$768,554 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
-| Sassy-Bucket | 62 | 56 | 0 | 53% | $6,561,205 | -$613,185 |
+| Sassy-Bucket | 62 | 56 | 1 | 53% | $6,589,830 | -$613,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $28,625 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.04 (49¢) | $25,941 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Antofagasta: Gustavo Heide vs Maximo Zeitune | Gustavo Heide | 1.15 (87¢) | $82,261 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | ndb1 | Falcons vs. Saints | Falcons | 1.52 (66¢) | $119,103 | +$61,356 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 2.56 (39¢) | $28,359 | -$28,359 | ❌ Perdida |
 | cosmicxbt | Falcons vs. Saints | Falcons | 1.64 (61¢) | $71,103 | +$45,459 | ✅ Ganada |
-| mooseborzoii | Falcons vs. Saints | Falcons | 2.00 (50¢) | $29,552 | +$29,552 | ✅ Ganada |
