@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 19:20:37 (hora de Perú)
+Actualizado: 2026-10-05 19:22:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4486**  ($242,263,665 en total)
+- Apuestas registradas: **4489**  ($242,426,773 en total)
 - Resueltas: **4462** — 2724 ganadas / 1738 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 9
 - Apostadores distintos: 515
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 323 | 171 | 4 | 65% | $31,381,078 | +$762,987 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 323 | 171 | 5 | 65% | $31,409,437 | +$762,987 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | Sassy-Bucket | 62 | 54 | 2 | 53% | $6,561,205 | -$436,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -56,14 +56,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
+| ndb1 | 19 | 10 | 1 | 66% | $1,630,837 | +$346,026 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
-| ndb1 | 19 | 10 | 0 | 66% | $1,567,192 | +$346,026 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 9 | 15 | 0 | 38% | $1,298,497 | -$429,198 |
+| cosmicxbt | 12 | 4 | 1 | 75% | $1,302,328 | -$43,987 |
 
 _(mostrando los 40 de mayor monto, de 515 en total)_
 
@@ -71,8 +71,11 @@ _(mostrando los 40 de mayor monto, de 515 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 2.56 (39¢) | $28,359 | — | ⏳ Pendiente |
+| cosmicxbt | Falcons vs. Saints | Falcons | 1.64 (61¢) | $71,103 | — | ⏳ Pendiente |
 | mooseborzoii | Falcons vs. Saints | Falcons | 2.00 (50¢) | $29,552 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 1.96 (51¢) | $35,913 | — | ⏳ Pendiente |
+| ndb1 | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $63,645 | — | ⏳ Pendiente |
 | Sassy-Bucket | Falcons vs. Saints | Saints | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $125,000 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.45 (69¢) | $51,710 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 515 en total)_
 | Elaran1993 | Spread: Lions (-3.5) | Panthers | 2.13 (47¢) | $33,750 | +$38,059 | ✅ Ganada |
 | 3648393489047 | Lions vs. Panthers | Lions | 1.52 (66¢) | $33,000 | -$33,000 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Lions (-5.5) | Panthers | 1.92 (52¢) | $25,408 | +$23,454 | ✅ Ganada |
-| ferrariChampions2026 | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $27,968 | +$27,968 | ✅ Ganada |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Lions vs. Panthers: O/U 51.5 | Over 51.5 | 1.89 (53¢) | $79,500 | +$70,500 | ✅ Ganada |
-| mooseborzoii | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $38,000 | +$38,000 | ✅ Ganada |
