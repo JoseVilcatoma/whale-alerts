@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 15:20:29 (hora de Perú)
+Actualizado: 2026-10-06 15:22:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4542**  ($245,863,584 en total)
+- Apuestas registradas: **4543**  ($245,930,514 en total)
 - Resueltas: **4505** — 2751 ganadas / 1754 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 522
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 327 | 173 | 6 | 65% | $31,745,708 | +$768,554 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 327 | 173 | 7 | 65% | $31,812,638 | +$768,554 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | Sassy-Bucket | 62 | 56 | 0 | 53% | $6,561,205 | -$613,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Croatia win on 2026-10-06? | No | 1.06 (94¢) | $66,930 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Villena: August Holmgren vs Pedro Martinez | Pedro Martinez | 1.16 (86¢) | $41,485 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $52,500 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 1.96 (51¢) | $35,913 | -$35,913 | ❌ Perdida |
 | ndb1 | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $63,645 | -$63,645 | ❌ Perdida |
 | Sassy-Bucket | Falcons vs. Saints | Saints | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
-| Sassy-Bucket | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $125,000 | -$125,000 | ❌ Perdida |
