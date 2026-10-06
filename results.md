@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 19:30:54 (hora de Perú)
+Actualizado: 2026-10-05 19:32:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4492**  ($242,584,902 en total)
+- Apuestas registradas: **4492**  ($242,619,101 en total)
 - Resueltas: **4462** — 2724 ganadas / 1738 perdidas (**61%** de acierto)
 - Pendientes: 12
 - Apostadores distintos: 515
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 27 | 6 | 2 | 82% | $1,825,733 | +$893,693 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| ndb1 | 19 | 10 | 2 | 66% | $1,715,742 | +$346,026 |
+| ndb1 | 19 | 10 | 2 | 66% | $1,749,940 | +$346,026 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 515 en total)_
 |---|---|---|---|---|---|---|
 | mooseborzoii | Falcons vs. Saints | Falcons | 1.52 (66¢) | $29,005 | — | ⏳ Pendiente |
 | nuttypoo | Falcons vs. Saints | Falcons | 1.49 (67¢) | $44,220 | — | ⏳ Pendiente |
-| ndb1 | Falcons vs. Saints | Falcons | 1.52 (66¢) | $84,905 | — | ⏳ Pendiente |
+| ndb1 | Falcons vs. Saints | Falcons | 1.52 (66¢) | $119,103 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 2.56 (39¢) | $28,359 | — | ⏳ Pendiente |
 | cosmicxbt | Falcons vs. Saints | Falcons | 1.64 (61¢) | $71,103 | — | ⏳ Pendiente |
 | mooseborzoii | Falcons vs. Saints | Falcons | 2.00 (50¢) | $29,552 | — | ⏳ Pendiente |
