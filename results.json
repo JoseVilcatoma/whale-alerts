@@ -67604,5 +67604,20 @@
     "status": "pending",
     "ultimo_fill": 1791252701,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9178,
+    "timestamp": 1791252794,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-atl-no-2026-10-06-spread-away-10pt5",
+    "title": "Spread: Falcons (-10.5)",
+    "outcome": "Saints",
+    "side": "BUY",
+    "usd": 39812.854,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1791252794,
+    "fills": 1
   }
 ]

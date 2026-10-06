@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 21:12:15 (hora de Perú)
+Actualizado: 2026-10-05 21:14:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4498**  ($242,829,648 en total)
+- Apuestas registradas: **4499**  ($242,869,461 en total)
 - Resueltas: **4463** — 2724 ganadas / 1739 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 516
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 67 | 38 | 0 | 64% | $4,268,703 | -$364,690 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| ethanaz | 41 | 18 | 0 | 69% | $3,467,148 | -$161,383 |
+| ethanaz | 41 | 18 | 1 | 69% | $3,506,961 | -$161,383 |
 | BrotherObama | 34 | 38 | 2 | 47% | $3,416,447 | +$12,983 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 516 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Spread: Falcons (-10.5) | Saints | 2.13 (47¢) | $39,813 | — | ⏳ Pendiente |
 | mooseborzoii | Falcons vs. Saints | Falcons | 1.14 (88¢) | $28,808 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Falcons (-10.5) | Saints | 2.22 (45¢) | $42,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 516 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.09 (92¢) | $55,200 | +$4,800 | ✅ Ganada |
 | cosmicxbt | Lions vs. Panthers | Panthers | 1.16 (86¢) | $86,000 | +$14,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers: O/U 58.5 | Under 58.5 | 2.27 (44¢) | $36,090 | +$45,933 | ✅ Ganada |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Lions vs. Panthers | Panthers | 2.38 (42¢) | $30,683 | +$42,372 | ✅ Ganada |
