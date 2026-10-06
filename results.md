@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 20:28:46 (hora de Perú)
+Actualizado: 2026-10-05 20:30:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4494**  ($242,687,392 en total)
+- Apuestas registradas: **4495**  ($242,713,935 en total)
 - Resueltas: **4463** — 2724 ganadas / 1739 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 516
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 516 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yoyoyoyoer | Falcons vs. Saints | Falcons | 1.22 (82¢) | $26,543 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.49 (67¢) | $39,967 | — | ⏳ Pendiente |
 | Lorolorota09 | Falcons vs. Saints | Falcons | 1.61 (62¢) | $28,324 | — | ⏳ Pendiente |
 | mooseborzoii | Falcons vs. Saints | Falcons | 1.52 (66¢) | $29,005 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 516 en total)_
 | ferrariChampions2026 | Lions vs. Panthers | Lions | 2.33 (43¢) | $29,723 | -$29,723 | ❌ Perdida |
 | ferrariChampions2026 | Lions vs. Panthers | Lions | 1.67 (60¢) | $54,924 | -$54,924 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Lions | 1.72 (58¢) | $144,988 | -$144,988 | ❌ Perdida |
-| ndb1 | Lions vs. Panthers | Lions | 1.72 (58¢) | $48,188 | -$48,188 | ❌ Perdida |
