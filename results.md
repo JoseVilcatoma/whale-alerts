@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 17:41:41 (hora de Perú)
+Actualizado: 2026-10-06 17:43:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4554**  ($246,360,911 en total)
-- Resueltas: **4508** — 2753 ganadas / 1755 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **4509** — 2754 ganadas / 1755 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: -$170,403** sobre $243,565,723 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,615** sobre $444,800 (ROI **-1.3%**)
+- **Resultado de los apostadores: -$165,594** sobre $243,604,638 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,603** sobre $444,900 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | 0x361b…74fe | Will Spain win on 2026-10-06? | Yes | 1.27 (79¢) | $72,845 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.33 (43¢) | $30,000 | -$698 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 1.47 (68¢) | $52,265 | +$24,595 | ✅ Ganada |
-| Cbs710 | Will England win on 2026-10-06? | Yes | 1.12 (89¢) | $38,915 | — | ⏳ Pendiente |
+| Cbs710 | Will England win on 2026-10-06? | Yes | 1.12 (89¢) | $38,915 | +$4,810 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | Legacy | 1.82 (55¢) | $116,831 | -$116,831 | ❌ Perdida |
 | Parom51 | Palermo: Kalin Ivanovski vs Alejandro Moro Canas | Alejandro Moro Canas | 1.14 (88¢) | $175,982 | +$23,998 | ✅ Ganada |
 | crispychook99 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.33 (43¢) | $35,212 | +$46,676 | ✅ Ganada |
