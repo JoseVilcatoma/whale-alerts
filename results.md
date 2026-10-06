@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 17:17:10 (hora de Perú)
+Actualizado: 2026-10-06 17:19:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4552**  ($246,281,222 en total)
+- Apuestas registradas: **4553**  ($246,320,111 en total)
 - Resueltas: **4507** — 2752 ganadas / 1755 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 522
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 327 | 173 | 8 | 65% | $31,838,579 | +$768,554 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 1 | 52% | $6,771,964 | -$473,683 |
 | Sassy-Bucket | 62 | 56 | 2 | 53% | $6,648,490 | -$613,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $38,888 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Palermo: Jay Clarke vs Gabriele Piraino | Gabriele Piraino | 1.18 (85¢) | $28,333 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Rangers (-1.5) | Rangers | 2.70 (37¢) | $25,000 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 2.04 (49¢) | $29,254 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
 | yoyoyoyoer | Falcons vs. Saints | Falcons | 1.22 (82¢) | $26,543 | +$5,827 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.49 (67¢) | $39,967 | +$19,685 | ✅ Ganada |
-| Lorolorota09 | Falcons vs. Saints | Falcons | 1.61 (62¢) | $28,324 | +$17,360 | ✅ Ganada |
