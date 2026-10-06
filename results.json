@@ -67799,5 +67799,20 @@
     "status": "pending",
     "ultimo_fill": 1791289658,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 9212,
+    "timestamp": 1791290100,
+    "username": "0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186",
+    "wallet": "0x2cc8cc54f50dbb45fe346612821ca93b6e93262b",
+    "slug": "unl-hrv-esp-2026-10-06-hrv",
+    "title": "Will Croatia win on 2026-10-06?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 27000.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1791290100,
+    "fills": 1
   }
 ]
