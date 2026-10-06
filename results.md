@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 11:35:34 (hora de Perú)
+Actualizado: 2026-10-06 11:37:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4529**  ($244,340,939 en total)
-- Resueltas: **4492** — 2743 ganadas / 1749 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **4493** — 2744 ganadas / 1749 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 520
 
 ### Balance
 
-- **Resultado de los apostadores: -$331,769** sobre $242,634,690 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,848** sobre $443,300 (ROI **-1.3%**)
+- **Resultado de los apostadores: -$307,771** sobre $242,810,673 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,834** sobre $443,400 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 520 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 1.47 (68¢) | $52,265 | — | ⏳ Pendiente |
 | Cbs710 | Will England win on 2026-10-06? | Yes | 1.12 (89¢) | $38,915 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | Legacy | 1.82 (55¢) | $116,831 | — | ⏳ Pendiente |
-| Parom51 | Palermo: Kalin Ivanovski vs Alejandro Moro Canas | Alejandro Moro Canas | 1.14 (88¢) | $175,982 | — | ⏳ Pendiente |
+| Parom51 | Palermo: Kalin Ivanovski vs Alejandro Moro Canas | Alejandro Moro Canas | 1.14 (88¢) | $175,982 | +$23,998 | ✅ Ganada |
 | crispychook99 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.33 (43¢) | $35,212 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.38 (42¢) | $32,586 | — | ⏳ Pendiente |
 | SharkbetX-com | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
