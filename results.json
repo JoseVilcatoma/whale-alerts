@@ -68341,5 +68341,20 @@
     "status": "pending",
     "ultimo_fill": 1791323675,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 9274,
+    "timestamp": 1791323809,
+    "username": "Mastermoney",
+    "wallet": "0xbe23032d56a012c531b372c7739bc1dbd4dfb587",
+    "slug": "cfb-soumis-troy-2026-10-06-total-51pt5",
+    "title": "Southern Miss vs. Troy: O/U 51.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 42632.94,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1791323809,
+    "fills": 1
   }
 ]

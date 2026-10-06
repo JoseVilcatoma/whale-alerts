@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 16:55:58 (hora de Perú)
+Actualizado: 2026-10-06 16:58:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4547**  ($246,126,668 en total)
+- Apuestas registradas: **4548**  ($246,169,301 en total)
 - Resueltas: **4507** — 2752 ganadas / 1755 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 522
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mastermoney | Southern Miss vs. Troy: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $42,633 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $57,952 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.04 (49¢) | $25,941 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | nuttypoo | Falcons vs. Saints | Falcons | 1.49 (67¢) | $44,220 | +$21,780 | ✅ Ganada |
 | ndb1 | Falcons vs. Saints | Falcons | 1.52 (66¢) | $119,103 | +$61,356 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 2.56 (39¢) | $28,359 | -$28,359 | ❌ Perdida |
-| cosmicxbt | Falcons vs. Saints | Falcons | 1.64 (61¢) | $71,103 | +$45,459 | ✅ Ganada |
