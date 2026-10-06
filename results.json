@@ -67814,5 +67814,20 @@
     "status": "pending",
     "ultimo_fill": 1791290100,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9213,
+    "timestamp": 1791290215,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-djokovi-minaur-2026-10-06",
+    "title": "China Open: Novak Djokovic vs Alex de Minaur",
+    "outcome": "Novak Djokovic",
+    "side": "BUY",
+    "usd": 53986.369998,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1791290215,
+    "fills": 1
   }
 ]

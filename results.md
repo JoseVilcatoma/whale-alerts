@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 07:35:12 (hora de Perú)
+Actualizado: 2026-10-06 07:37:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4512**  ($243,371,192 en total)
+- Apuestas registradas: **4513**  ($243,425,178 en total)
 - Resueltas: **4482** — 2736 ganadas / 1746 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 518
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.32 (76¢) | $53,986 | — | ⏳ Pendiente |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.30 (77¢) | $65,481 | — | ⏳ Pendiente |
 | SDTrading | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.89 (53¢) | $30,740 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 | crispychook99 | Counter-Strike: 9z vs Natus Vincere (BO3) - ESL Pro League Group Stage | 9z | 3.23 (31¢) | $39,956 | -$39,956 | ❌ Perdida |
 | crispychook99 | Counter-Strike: ShindeN vs G2 (BO3) - ESL Pro League Group Stage | G2 | 1.15 (87¢) | $48,381 | +$7,229 | ✅ Ganada |
 | HectorHuang | China Open: Alex de Minaur vs Hubert Hurkacz | Hubert Hurkacz | 2.38 (42¢) | $28,000 | -$28,000 | ❌ Perdida |
-| crispychook99 | LoL: Natus Vincere vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage | Natus Vincere | 1.69 (59¢) | $29,308 | +$20,367 | ✅ Ganada |
