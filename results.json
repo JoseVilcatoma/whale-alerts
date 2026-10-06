@@ -68279,5 +68279,20 @@
     "status": "pending",
     "ultimo_fill": 1791318064,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9268,
+    "timestamp": 1791319638,
+    "username": "0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295",
+    "wallet": "0x08a30a0a0fb71ebddc8907145791030782b88666",
+    "slug": "atp-heide-zeitune-2026-10-06",
+    "title": "Antofagasta: Gustavo Heide vs Maximo Zeitune",
+    "outcome": "Gustavo Heide",
+    "side": "BUY",
+    "usd": 82261.284,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1791319638,
+    "fills": 1
   }
 ]

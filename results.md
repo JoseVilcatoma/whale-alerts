@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 15:45:40 (hora de Perú)
+Actualizado: 2026-10-06 15:47:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4543**  ($245,930,514 en total)
+- Apuestas registradas: **4544**  ($246,012,775 en total)
 - Resueltas: **4505** — 2751 ganadas / 1754 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 522
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Antofagasta: Gustavo Heide vs Maximo Zeitune | Gustavo Heide | 1.15 (87¢) | $82,261 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Croatia win on 2026-10-06? | No | 1.06 (94¢) | $66,930 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Villena: August Holmgren vs Pedro Martinez | Pedro Martinez | 1.16 (86¢) | $41,485 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $52,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | mooseborzoii | Falcons vs. Saints | Falcons | 2.00 (50¢) | $29,552 | +$29,552 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 1.96 (51¢) | $35,913 | -$35,913 | ❌ Perdida |
 | ndb1 | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $63,645 | -$63,645 | ❌ Perdida |
-| Sassy-Bucket | Falcons vs. Saints | Saints | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
