@@ -67409,5 +67409,20 @@
     "status": "pending",
     "ultimo_fill": 1791245905,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9164,
+    "timestamp": 1791245939,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-atl-no-2026-10-06",
+    "title": "Falcons vs. Saints",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 29552.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1791245939,
+    "fills": 1
   }
 ]

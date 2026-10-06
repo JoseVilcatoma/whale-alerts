@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 19:18:34 (hora de Perú)
+Actualizado: 2026-10-05 19:20:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4485**  ($242,234,113 en total)
+- Apuestas registradas: **4486**  ($242,263,665 en total)
 - Resueltas: **4462** — 2724 ganadas / 1738 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 515
 
 ### Balance
@@ -51,8 +51,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
+| mooseborzoii | 27 | 6 | 1 | 82% | $1,796,728 | +$893,693 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| mooseborzoii | 27 | 6 | 0 | 82% | $1,767,176 | +$893,693 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | SDTrading | 27 | 29 | 0 | 48% | $1,670,025 | -$185,601 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 515 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Falcons vs. Saints | Falcons | 2.00 (50¢) | $29,552 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Saints | 1.96 (51¢) | $35,913 | — | ⏳ Pendiente |
 | Sassy-Bucket | Falcons vs. Saints | Saints | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $125,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 515 en total)_
 | ferrariChampions2026 | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $27,968 | +$27,968 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Lions vs. Panthers: O/U 51.5 | Over 51.5 | 1.89 (53¢) | $79,500 | +$70,500 | ✅ Ganada |
 | mooseborzoii | Spread: Lions (-4.5) | Panthers | 2.00 (50¢) | $38,000 | +$38,000 | ✅ Ganada |
-| Donkey14 | Lions vs. Panthers | Panthers | 2.94 (34¢) | $50,000 | +$97,059 | ✅ Ganada |
