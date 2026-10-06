@@ -68109,11 +68109,11 @@
     "title": "Will Spain win on 2026-10-06?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 403688.32,
+    "usd": 1004262.91,
     "odds_at_bet": 78,
     "status": "pending",
-    "ultimo_fill": 1791305363,
-    "fills": 4
+    "ultimo_fill": 1791305483,
+    "fills": 7
   },
   {
     "telegram_msg_id": 9244,
@@ -68128,6 +68128,36 @@
     "odds_at_bet": 58,
     "status": "pending",
     "ultimo_fill": 1791304998,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9245,
+    "timestamp": 1791305416,
+    "username": "lfjlwkflwekfl",
+    "wallet": "0xae9508c5623b068b7e81f050c359b87a079317b8",
+    "slug": "atp-langmo-giustin-2026-10-06",
+    "title": "Palermo: Christian Langmo vs Lorenzo Giustino",
+    "outcome": "Lorenzo Giustino",
+    "side": "BUY",
+    "usd": 37446.795,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1791305416,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9246,
+    "timestamp": 1791305470,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "unl-hrv-esp-2026-10-06-esp",
+    "title": "Will Spain win on 2026-10-06?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 40773.5244,
+    "odds_at_bet": 21,
+    "status": "pending",
+    "ultimo_fill": 1791305470,
     "fills": 1
   }
 ]
