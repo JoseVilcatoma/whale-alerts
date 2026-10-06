@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 12:34:32 (hora de Perú)
+Actualizado: 2026-10-06 14:58:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4541**  ($245,822,099 en total)
-- Resueltas: **4499** — 2747 ganadas / 1752 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **4502** — 2749 ganadas / 1753 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: -$279,972** sobre $243,019,208 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,817** sobre $444,000 (ROI **-1.3%**)
+- **Resultado de los apostadores: -$179,102** sobre $243,206,959 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,791** sobre $444,300 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,13 +78,13 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Spain win on 2026-10-06? | No | 4.76 (21¢) | $62,961 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $53,937 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Spain win on 2026-10-06? | No | 4.76 (21¢) | $40,774 | — | ⏳ Pendiente |
-| lfjlwkflwekfl | Palermo: Christian Langmo vs Lorenzo Giustino | Lorenzo Giustino | 1.33 (75¢) | $37,447 | — | ⏳ Pendiente |
+| lfjlwkflwekfl | Palermo: Christian Langmo vs Lorenzo Giustino | Lorenzo Giustino | 1.33 (75¢) | $37,447 | +$12,482 | ✅ Ganada |
 | joseph00677 | Will Spain win on 2026-10-06? | Yes | 1.28 (78¢) | $1,004,263 | — | ⏳ Pendiente |
 | 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $34,605 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $70,633 | — | ⏳ Pendiente |
 | Mastermoney | Croatia vs. Spain: O/U 2.5 | Over 2.5 | 1.49 (67¢) | $27,744 | — | ⏳ Pendiente |
-| Parom51 | Palermo: Ivan Gakhov vs Yanaki Milev | Yanaki Milev | 1.92 (52¢) | $124,120 | — | ⏳ Pendiente |
+| Parom51 | Palermo: Ivan Gakhov vs Yanaki Milev | Yanaki Milev | 1.92 (52¢) | $124,120 | +$114,572 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-10-06? | Yes | 1.27 (79¢) | $72,845 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.33 (43¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 1.47 (68¢) | $52,265 | +$24,595 | ✅ Ganada |
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | crispychook99 | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | M80 | 2.17 (46¢) | $51,146 | — | ⏳ Pendiente |
 | BrotherObama | LoL: JD Gaming vs LGD Gaming (BO3) - Demacia Cup Global Invitational Group Stage | LGD Gaming | 2.08 (48¢) | $27,000 | +$29,250 | ✅ Ganada |
 | crispychook99 | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | G2 | 1.61 (62¢) | $27,330 | -$27,330 | ❌ Perdida |
-| Ancient-Strike | Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage | FURIA | 1.85 (54¢) | $26,185 | — | ⏳ Pendiente |
+| Ancient-Strike | Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage | FURIA | 1.85 (54¢) | $26,185 | -$26,185 | ❌ Perdida |
 | LlamaEnjoyer | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.69 (59¢) | $29,972 | -$29,972 | ❌ Perdida |
 | nuttypoo | Falcons vs. Saints | Falcons | 1.11 (90¢) | $44,100 | +$4,900 | ✅ Ganada |
 | TAIWANNUMBERONE | Falcons vs. Saints | Falcons | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
