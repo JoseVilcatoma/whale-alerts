@@ -67721,7 +67721,7 @@
     "side": "BUY",
     "usd": 51145.560000000005,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791287427,
     "fills": 1
   },
@@ -67976,7 +67976,7 @@
     "side": "BUY",
     "usd": 116831.473,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791299452,
     "fills": 1
   },
@@ -68216,7 +68216,7 @@
     "side": "BUY",
     "usd": 37040.212,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791305934,
     "fills": 1
   },
@@ -68248,6 +68248,21 @@
     "odds_at_bet": 42,
     "status": "pending",
     "ultimo_fill": 1791307922,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9263,
+    "timestamp": 1791317862,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-holmgre-martine-2026-10-05",
+    "title": "Villena: August Holmgren vs Pedro Martinez",
+    "outcome": "Pedro Martinez",
+    "side": "BUY",
+    "usd": 41485.0338,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1791317862,
     "fills": 1
   }
 ]
