@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 19:04:18 (hora de Perú)
+Actualizado: 2026-10-05 19:06:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4482**  ($242,021,200 en total)
+- Apuestas registradas: **4483**  ($242,146,200 en total)
 - Resueltas: **4462** — 2724 ganadas / 1738 perdidas (**61%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 515
 
 ### Balance
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 323 | 171 | 3 | 65% | $31,345,165 | +$762,987 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
+| Sassy-Bucket | 62 | 54 | 1 | 53% | $6,509,205 | -$436,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Sassy-Bucket | 62 | 54 | 0 | 53% | $6,384,205 | -$436,185 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 515 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $125,000 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.45 (69¢) | $51,710 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Braga: Thiago Monteiro vs Elmer Moeller | Thiago Monteiro | 2.00 (50¢) | $38,573 | -$38,573 | ❌ Perdida |
 | RJW1 | France vs. Belgium: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $30,500 | -$30,500 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 515 en total)_
 | Donkey14 | Lions vs. Panthers | Panthers | 2.94 (34¢) | $50,000 | +$97,059 | ✅ Ganada |
 | gmpm2 | Lions vs. Panthers | Lions | 1.52 (66¢) | $100,650 | -$100,650 | ❌ Perdida |
 | surfandturf | Lions vs. Panthers | Lions | 1.52 (66¢) | $110,469 | +$0 | 💰 Vendida antes |
-| timezonewarrior | Lions vs. Panthers | Lions | 1.49 (67¢) | $62,158 | -$62,158 | ❌ Perdida |
