@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 11:39:35 (hora de Perú)
+Actualizado: 2026-10-06 11:41:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4529**  ($244,340,939 en total)
+- Apuestas registradas: **4530**  ($244,411,572 en total)
 - Resueltas: **4493** — 2744 ganadas / 1749 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 520
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Diabolical-Prize | 49 | 50 | 2 | 49% | $5,105,566 | -$342,593 |
+| Diabolical-Prize | 49 | 50 | 3 | 49% | $5,176,198 | -$342,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 67 | 38 | 0 | 64% | $4,268,703 | -$364,690 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 520 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $70,633 | — | ⏳ Pendiente |
 | Mastermoney | Croatia vs. Spain: O/U 2.5 | Over 2.5 | 1.49 (67¢) | $27,744 | — | ⏳ Pendiente |
 | Parom51 | Palermo: Ivan Gakhov vs Yanaki Milev | Yanaki Milev | 1.92 (52¢) | $124,120 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-10-06? | Yes | 1.27 (79¢) | $72,845 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 520 en total)_
 | omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.41 (71¢) | $25,553 | +$10,437 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.43 (70¢) | $33,180 | +$14,220 | ✅ Ganada |
 | omnibus-076daa | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | MOUZ | 1.47 (68¢) | $38,805 | +$18,261 | ✅ Ganada |
-| neutralwave23 | China Open: Coco Gauff vs Xinran Sun | Coco Gauff | 1.09 (92¢) | $27,147 | +$2,361 | ✅ Ganada |
