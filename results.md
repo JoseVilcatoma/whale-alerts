@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 10:51:36 (hora de Perú)
+Actualizado: 2026-10-06 10:53:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4527**  ($244,189,075 en total)
-- Resueltas: **4488** — 2741 ganadas / 1747 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **4492** — 2743 ganadas / 1749 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 520
 
 ### Balance
 
-- **Resultado de los apostadores: -$372,697** sobre $242,515,937 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,942** sobre $442,900 (ROI **-1.3%**)
+- **Resultado de los apostadores: -$331,769** sobre $242,634,690 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,848** sobre $443,300 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,11 +37,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 67 | 38 | 0 | 64% | $4,268,703 | -$364,690 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
-| BrotherObama | 35 | 38 | 3 | 48% | $3,473,447 | +$42,233 |
+| BrotherObama | 36 | 38 | 2 | 49% | $3,473,447 | +$83,661 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
 | maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
-| Lakersfan111 | 34 | 21 | 3 | 62% | $2,605,363 | +$25,048 |
+| Lakersfan111 | 34 | 22 | 2 | 61% | $2,605,363 | -$2,281 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -80,8 +80,8 @@ _(mostrando los 40 de mayor monto, de 520 en total)_
 | crispychook99 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.33 (43¢) | $35,212 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.38 (42¢) | $32,586 | — | ⏳ Pendiente |
 | SharkbetX-com | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
-| NS13 | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | G2 | 1.69 (59¢) | $27,005 | — | ⏳ Pendiente |
-| BrotherObama | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 2.38 (42¢) | $30,000 | — | ⏳ Pendiente |
+| NS13 | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | G2 | 1.69 (59¢) | $27,005 | -$27,005 | ❌ Perdida |
+| BrotherObama | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 2.38 (42¢) | $30,000 | +$41,429 | ✅ Ganada |
 | StasPanda | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $30,823 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Samsun: Lucrezia Stefanini vs Carole Monnet | Lucrezia Stefanini | 1.23 (81¢) | $62,932 | +$14,762 | ✅ Ganada |
@@ -90,11 +90,11 @@ _(mostrando los 40 de mayor monto, de 520 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.30 (77¢) | $65,481 | +$19,559 | ✅ Ganada |
 | SDTrading | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.89 (53¢) | $30,740 | — | ⏳ Pendiente |
 | ipop00 | LoL: JD Gaming vs LGD Gaming - Game 2 Winner | LGD Gaming | 1.96 (51¢) | $28,109 | +$27,007 | ✅ Ganada |
-| omnibus-076daa | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 2.56 (39¢) | $34,418 | — | ⏳ Pendiente |
+| omnibus-076daa | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 2.56 (39¢) | $34,418 | +$53,834 | ✅ Ganada |
 | jaytee158 | Counter-Strike: Spirit vs 1WIN (BO3) - ESL Pro League Group Stage | Spirit | 1.15 (87¢) | $65,250 | -$65,250 | ❌ Perdida |
 | crispychook99 | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | M80 | 2.17 (46¢) | $51,146 | — | ⏳ Pendiente |
 | BrotherObama | LoL: JD Gaming vs LGD Gaming (BO3) - Demacia Cup Global Invitational Group Stage | LGD Gaming | 2.08 (48¢) | $27,000 | +$29,250 | ✅ Ganada |
-| crispychook99 | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | G2 | 1.61 (62¢) | $27,330 | — | ⏳ Pendiente |
+| crispychook99 | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | G2 | 1.61 (62¢) | $27,330 | -$27,330 | ❌ Perdida |
 | Ancient-Strike | Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage | FURIA | 1.85 (54¢) | $26,185 | — | ⏳ Pendiente |
 | LlamaEnjoyer | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.69 (59¢) | $29,972 | — | ⏳ Pendiente |
 | nuttypoo | Falcons vs. Saints | Falcons | 1.11 (90¢) | $44,100 | +$4,900 | ✅ Ganada |
