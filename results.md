@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 16:39:08 (hora de Perú)
+Actualizado: 2026-10-06 16:41:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4545**  ($246,038,717 en total)
-- Resueltas: **4506** — 2752 ganadas / 1754 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **4507** — 2752 ganadas / 1755 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: -$181,997** sobre $243,453,462 apostados (ROI **-0.1%**)
+- **Resultado de los apostadores: -$182,695** sobre $243,483,462 apostados (ROI **-0.1%**)
 - Copiando $100 fijo en cada una: **-$5,630** sobre $444,700 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | Mastermoney | Croatia vs. Spain: O/U 2.5 | Over 2.5 | 1.49 (67¢) | $27,744 | — | ⏳ Pendiente |
 | Parom51 | Palermo: Ivan Gakhov vs Yanaki Milev | Yanaki Milev | 1.92 (52¢) | $124,120 | +$114,572 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-10-06? | Yes | 1.27 (79¢) | $72,845 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.33 (43¢) | $30,000 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.33 (43¢) | $30,000 | -$698 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 1.47 (68¢) | $52,265 | +$24,595 | ✅ Ganada |
 | Cbs710 | Will England win on 2026-10-06? | Yes | 1.12 (89¢) | $38,915 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | Legacy | 1.82 (55¢) | $116,831 | -$116,831 | ❌ Perdida |
