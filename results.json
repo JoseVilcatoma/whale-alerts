@@ -67754,5 +67754,20 @@
     "status": "pending",
     "ultimo_fill": 1791287741,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9209,
+    "timestamp": 1791288590,
+    "username": "ipop00",
+    "wallet": "0x8fbb3c32496d4bcff8f456c3342f90edaaa09a17",
+    "slug": "lol-jdg-lgd-2026-10-06-game2",
+    "title": "LoL: JD Gaming vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 28109.2667,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791288590,
+    "fills": 1
   }
 ]
