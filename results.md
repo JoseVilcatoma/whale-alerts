@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 11:53:50 (hora de Perú)
+Actualizado: 2026-10-06 11:55:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4537**  ($245,643,283 en total)
-- Resueltas: **4493** — 2744 ganadas / 1749 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Apuestas registradas: **4537**  ($245,672,558 en total)
+- Resueltas: **4499** — 2747 ganadas / 1752 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: -$307,771** sobre $242,810,673 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,834** sobre $443,400 (ROI **-1.3%**)
+- **Resultado de los apostadores: -$279,972** sobre $243,019,208 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,817** sobre $444,000 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 326 | 173 | 7 | 65% | $31,716,433 | +$743,959 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 327 | 173 | 6 | 65% | $31,745,708 | +$768,554 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | Sassy-Bucket | 62 | 56 | 0 | 53% | $6,561,205 | -$613,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Diabolical-Prize | 49 | 50 | 3 | 49% | $5,176,198 | -$342,593 |
+| Diabolical-Prize | 50 | 50 | 2 | 50% | $5,176,198 | -$297,593 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 67 | 38 | 0 | 64% | $4,268,703 | -$364,690 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
 | maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
-| Lakersfan111 | 34 | 22 | 2 | 61% | $2,605,363 | -$2,281 |
+| Lakersfan111 | 35 | 22 | 1 | 61% | $2,605,363 | +$44,395 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Spain win on 2026-10-06? | No | 4.76 (21¢) | $33,686 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Spain win on 2026-10-06? | No | 4.76 (21¢) | $62,961 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $53,937 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Spain win on 2026-10-06? | No | 4.76 (21¢) | $40,774 | — | ⏳ Pendiente |
 | lfjlwkflwekfl | Palermo: Christian Langmo vs Lorenzo Giustino | Lorenzo Giustino | 1.33 (75¢) | $37,447 | — | ⏳ Pendiente |
@@ -83,16 +83,16 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | Parom51 | Palermo: Ivan Gakhov vs Yanaki Milev | Yanaki Milev | 1.92 (52¢) | $124,120 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Spain win on 2026-10-06? | Yes | 1.27 (79¢) | $72,845 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.33 (43¢) | $30,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 1.47 (68¢) | $52,265 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 1.47 (68¢) | $52,265 | +$24,595 | ✅ Ganada |
 | Cbs710 | Will England win on 2026-10-06? | Yes | 1.12 (89¢) | $38,915 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | Legacy | 1.82 (55¢) | $116,831 | — | ⏳ Pendiente |
 | Parom51 | Palermo: Kalin Ivanovski vs Alejandro Moro Canas | Alejandro Moro Canas | 1.14 (88¢) | $175,982 | +$23,998 | ✅ Ganada |
-| crispychook99 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.33 (43¢) | $35,212 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.38 (42¢) | $32,586 | — | ⏳ Pendiente |
-| SharkbetX-com | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
+| crispychook99 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.33 (43¢) | $35,212 | +$46,676 | ✅ Ganada |
+| Diabolical-Prize | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.38 (42¢) | $32,586 | +$45,000 | ✅ Ganada |
+| SharkbetX-com | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
 | NS13 | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | G2 | 1.69 (59¢) | $27,005 | -$27,005 | ❌ Perdida |
 | BrotherObama | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 2.38 (42¢) | $30,000 | +$41,429 | ✅ Ganada |
-| StasPanda | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
+| StasPanda | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $28,500 | -$28,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $30,823 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Samsun: Lucrezia Stefanini vs Carole Monnet | Lucrezia Stefanini | 1.23 (81¢) | $62,932 | +$14,762 | ✅ Ganada |
 | omnibus-076daa | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.32 (76¢) | $53,986 | +$17,048 | ✅ Ganada |
@@ -106,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | BrotherObama | LoL: JD Gaming vs LGD Gaming (BO3) - Demacia Cup Global Invitational Group Stage | LGD Gaming | 2.08 (48¢) | $27,000 | +$29,250 | ✅ Ganada |
 | crispychook99 | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | G2 | 1.61 (62¢) | $27,330 | -$27,330 | ❌ Perdida |
 | Ancient-Strike | Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage | FURIA | 1.85 (54¢) | $26,185 | — | ⏳ Pendiente |
-| LlamaEnjoyer | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.69 (59¢) | $29,972 | — | ⏳ Pendiente |
+| LlamaEnjoyer | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.69 (59¢) | $29,972 | -$29,972 | ❌ Perdida |
 | nuttypoo | Falcons vs. Saints | Falcons | 1.11 (90¢) | $44,100 | +$4,900 | ✅ Ganada |
 | TAIWANNUMBERONE | Falcons vs. Saints | Falcons | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
 | ethanaz | Spread: Falcons (-10.5) | Saints | 2.13 (47¢) | $39,813 | -$39,813 | ❌ Perdida |

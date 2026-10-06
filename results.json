@@ -67661,7 +67661,7 @@
     "side": "BUY",
     "usd": 29972.0,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791261433,
     "fills": 1
   },
@@ -67871,7 +67871,7 @@
     "side": "BUY",
     "usd": 28499.999999999996,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791295549,
     "fills": 1
   },
@@ -67916,7 +67916,7 @@
     "side": "BUY",
     "usd": 30000.0006,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791296444,
     "fills": 1
   },
@@ -67931,7 +67931,7 @@
     "side": "BUY",
     "usd": 32586.206896999996,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791296957,
     "fills": 1
   },
@@ -67946,7 +67946,7 @@
     "side": "BUY",
     "usd": 35211.5949,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791296996,
     "fills": 1
   },
@@ -68006,7 +68006,7 @@
     "side": "BUY",
     "usd": 52265.378000000004,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791300283,
     "fills": 1
   },
@@ -68184,10 +68184,10 @@
     "title": "Will Spain win on 2026-10-06?",
     "outcome": "No",
     "side": "BUY",
-    "usd": 33686.2428,
+    "usd": 62961.2298,
     "odds_at_bet": 21,
     "status": "pending",
-    "ultimo_fill": 1791305621,
-    "fills": 1
+    "ultimo_fill": 1791305718,
+    "fills": 2
   }
 ]
