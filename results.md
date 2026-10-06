@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 10:49:30 (hora de Perú)
+Actualizado: 2026-10-06 10:51:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4526**  ($244,116,230 en total)
+- Apuestas registradas: **4527**  ($244,189,075 en total)
 - Resueltas: **4488** — 2741 ganadas / 1747 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 520
 
 ### Balance
@@ -60,9 +60,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
 | Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
+| 0x361b…74fe | 18 | 1 | 1 | 95% | $1,450,786 | +$656,216 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | cosmicxbt | 13 | 4 | 0 | 76% | $1,302,328 | +$1,473 |
 
 _(mostrando los 40 de mayor monto, de 520 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 520 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x361b…74fe | Will Spain win on 2026-10-06? | Yes | 1.27 (79¢) | $72,845 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.33 (43¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 1.47 (68¢) | $52,265 | — | ⏳ Pendiente |
 | Cbs710 | Will England win on 2026-10-06? | Yes | 1.12 (89¢) | $38,915 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 520 en total)_
 | neutralwave23 | China Open: Coco Gauff vs Xinran Sun | Coco Gauff | 1.09 (92¢) | $27,147 | +$2,361 | ✅ Ganada |
 | juice-fruit | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | Spirit | 1.56 (64¢) | $41,600 | -$41,600 | ❌ Perdida |
 | nothingtoint | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $26,009 | +$24,989 | ✅ Ganada |
-| fantasy7788 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
