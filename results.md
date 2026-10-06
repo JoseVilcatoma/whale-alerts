@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 21:03:56 (hora de Perú)
+Actualizado: 2026-10-05 21:06:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4495**  ($242,713,935 en total)
+- Apuestas registradas: **4496**  ($242,757,935 en total)
 - Resueltas: **4463** — 2724 ganadas / 1739 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 516
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 323 | 171 | 6 | 65% | $31,449,404 | +$762,987 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 323 | 171 | 7 | 65% | $31,493,404 | +$762,987 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 0 | 52% | $6,733,075 | -$473,683 |
 | Sassy-Bucket | 62 | 54 | 2 | 53% | $6,561,205 | -$436,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 516 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
 | yoyoyoyoer | Falcons vs. Saints | Falcons | 1.22 (82¢) | $26,543 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.49 (67¢) | $39,967 | — | ⏳ Pendiente |
 | Lorolorota09 | Falcons vs. Saints | Falcons | 1.61 (62¢) | $28,324 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 516 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Lions vs. Panthers | Panthers | 2.38 (42¢) | $30,683 | +$42,372 | ✅ Ganada |
 | ferrariChampions2026 | Lions vs. Panthers | Lions | 2.33 (43¢) | $29,723 | -$29,723 | ❌ Perdida |
 | ferrariChampions2026 | Lions vs. Panthers | Lions | 1.67 (60¢) | $54,924 | -$54,924 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Lions | 1.72 (58¢) | $144,988 | -$144,988 | ❌ Perdida |
