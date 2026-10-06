@@ -68009,5 +68009,20 @@
     "status": "pending",
     "ultimo_fill": 1791300283,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9232,
+    "timestamp": 1791300701,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "cs2-fal2-navi-2026-10-06",
+    "title": "Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 29999.999999999996,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1791300701,
+    "fills": 1
   }
 ]

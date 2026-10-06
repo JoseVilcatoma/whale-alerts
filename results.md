@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 10:31:04 (hora de Perú)
+Actualizado: 2026-10-06 10:33:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4525**  ($244,086,230 en total)
+- Apuestas registradas: **4526**  ($244,116,230 en total)
 - Resueltas: **4488** — 2741 ganadas / 1747 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 520
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 520 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.33 (43¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 1.47 (68¢) | $52,265 | — | ⏳ Pendiente |
 | Cbs710 | Will England win on 2026-10-06? | Yes | 1.12 (89¢) | $38,915 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | Legacy | 1.82 (55¢) | $116,831 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 520 en total)_
 | juice-fruit | Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage | Spirit | 1.56 (64¢) | $41,600 | -$41,600 | ❌ Perdida |
 | nothingtoint | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $26,009 | +$24,989 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
-| omnibus-076daa | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | M80 | 1.96 (51¢) | $29,976 | +$28,801 | ✅ Ganada |
