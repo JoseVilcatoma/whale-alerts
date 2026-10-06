@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 17:56:09 (hora de Perú)
+Actualizado: 2026-10-06 17:58:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4554**  ($246,360,911 en total)
+- Apuestas registradas: **4555**  ($246,387,911 en total)
 - Resueltas: **4517** — 2760 ganadas / 1757 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 522
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 328 | 175 | 5 | 65% | $31,838,579 | +$669,092 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 328 | 175 | 6 | 65% | $31,865,579 | +$669,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 1 | 52% | $6,771,964 | -$473,683 |
 | Sassy-Bucket | 62 | 56 | 2 | 53% | $6,648,490 | -$613,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $38,888 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Palermo: Jay Clarke vs Gabriele Piraino | Gabriele Piraino | 1.18 (85¢) | $28,333 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | mooseborzoii | Falcons vs. Saints | Falcons | 1.14 (88¢) | $28,808 | +$3,928 | ✅ Ganada |
 | mooseborzoii | Spread: Falcons (-10.5) | Saints | 2.22 (45¢) | $42,905 | -$42,905 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
-| yoyoyoyoer | Falcons vs. Saints | Falcons | 1.22 (82¢) | $26,543 | +$5,827 | ✅ Ganada |
