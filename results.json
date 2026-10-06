@@ -67619,5 +67619,35 @@
     "status": "pending",
     "ultimo_fill": 1791252794,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9179,
+    "timestamp": 1791253373,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-atl-no-2026-10-06",
+    "title": "Falcons vs. Saints",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 45000.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1791253373,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9180,
+    "timestamp": 1791253386,
+    "username": "nuttypoo",
+    "wallet": "0xa1e6ba93d878b71a895f80fcb5c36337143fe1c2",
+    "slug": "nfl-atl-no-2026-10-06",
+    "title": "Falcons vs. Saints",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 44100.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1791253386,
+    "fills": 1
   }
 ]

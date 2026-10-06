@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 21:22:16 (hora de Perú)
+Actualizado: 2026-10-05 21:24:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4499**  ($242,869,461 en total)
+- Apuestas registradas: **4501**  ($242,958,561 en total)
 - Resueltas: **4463** — 2724 ganadas / 1739 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 20
 - Apostadores distintos: 516
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 516 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nuttypoo | Falcons vs. Saints | Falcons | 1.11 (90¢) | $44,100 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Falcons vs. Saints | Falcons | 1.11 (90¢) | $45,000 | — | ⏳ Pendiente |
 | ethanaz | Spread: Falcons (-10.5) | Saints | 2.13 (47¢) | $39,813 | — | ⏳ Pendiente |
 | mooseborzoii | Falcons vs. Saints | Falcons | 1.14 (88¢) | $28,808 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Falcons (-10.5) | Saints | 2.22 (45¢) | $42,905 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 516 en total)_
 | Nooserac | Lions vs. Panthers | Panthers | 1.15 (87¢) | $54,327 | +$8,118 | ✅ Ganada |
 | Hashbrown | Lions vs. Panthers | Panthers | 1.08 (93¢) | $27,515 | +$2,071 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.09 (92¢) | $55,200 | +$4,800 | ✅ Ganada |
-| cosmicxbt | Lions vs. Panthers | Panthers | 1.16 (86¢) | $86,000 | +$14,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers: O/U 58.5 | Under 58.5 | 2.27 (44¢) | $36,090 | +$45,933 | ✅ Ganada |
