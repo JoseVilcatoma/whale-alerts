@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 23:35:22 (hora de Perú)
+Actualizado: 2026-10-05 23:37:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4501**  ($242,958,561 en total)
+- Apuestas registradas: **4503**  ($243,014,718 en total)
 - Resueltas: **4480** — 2736 ganadas / 1744 perdidas (**61%** de acierto)
-- Pendientes: 3
-- Apostadores distintos: 516
+- Pendientes: 5
+- Apostadores distintos: 517
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | cosmicxbt | 13 | 4 | 0 | 76% | $1,302,328 | +$1,473 |
 
-_(mostrando los 40 de mayor monto, de 516 en total)_
+_(mostrando los 40 de mayor monto, de 517 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Ancient-Strike | Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage | FURIA | 1.85 (54¢) | $26,185 | — | ⏳ Pendiente |
+| LlamaEnjoyer | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.69 (59¢) | $29,972 | — | ⏳ Pendiente |
 | nuttypoo | Falcons vs. Saints | Falcons | 1.11 (90¢) | $44,100 | +$4,900 | ✅ Ganada |
 | TAIWANNUMBERONE | Falcons vs. Saints | Falcons | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
 | ethanaz | Spread: Falcons (-10.5) | Saints | 2.13 (47¢) | $39,813 | -$39,813 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 516 en total)_
 | ferrariChampions2026 | Lions vs. Panthers | Panthers | 1.16 (86¢) | $28,144 | +$4,582 | ✅ Ganada |
 | mooseborzoii | Lions vs. Panthers | Panthers | 1.15 (87¢) | $27,601 | +$4,124 | ✅ Ganada |
 | Nooserac | Lions vs. Panthers | Panthers | 1.15 (87¢) | $54,327 | +$8,118 | ✅ Ganada |
-| Hashbrown | Lions vs. Panthers | Panthers | 1.08 (93¢) | $27,515 | +$2,071 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Panthers | 1.09 (92¢) | $55,200 | +$4,800 | ✅ Ganada |

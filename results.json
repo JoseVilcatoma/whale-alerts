@@ -67649,5 +67649,35 @@
     "status": "won",
     "ultimo_fill": 1791253386,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9199,
+    "timestamp": 1791261433,
+    "username": "LlamaEnjoyer",
+    "wallet": "0x9b979a065641e8cfde3022a30ed2d9415cf55e12",
+    "slug": "cs2-9z-bb3-2026-10-06",
+    "title": "Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 29972.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1791261433,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9200,
+    "timestamp": 1791261441,
+    "username": "Ancient-Strike",
+    "wallet": "0xc9ae00eda811041a059f3eec9356b24067c1b9e0",
+    "slug": "cs2-furia-aur1-2026-10-06",
+    "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 26184.573,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1791261441,
+    "fills": 1
   }
 ]
