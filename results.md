@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 19:32:59 (hora de Perú)
+Actualizado: 2026-10-05 19:35:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4492**  ($242,619,101 en total)
-- Resueltas: **4462** — 2724 ganadas / 1738 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **4463** — 2724 ganadas / 1739 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 515
 
 ### Balance
 
-- **Resultado de los apostadores: -$211,518** sobre $241,224,108 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,830** sobre $440,300 (ROI **-1.3%**)
+- **Resultado de los apostadores: -$263,228** sobre $241,275,817 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,930** sobre $440,400 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 515 en total)_
 | ndb1 | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $63,645 | — | ⏳ Pendiente |
 | Sassy-Bucket | Falcons vs. Saints | Saints | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Falcons vs. Saints: O/U 47.5 | Under 47.5 | 2.00 (50¢) | $125,000 | — | ⏳ Pendiente |
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.45 (69¢) | $51,710 | — | ⏳ Pendiente |
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.45 (69¢) | $51,710 | -$51,710 | ❌ Perdida |
 | ferrariChampions2026 | Braga: Thiago Monteiro vs Elmer Moeller | Thiago Monteiro | 2.00 (50¢) | $38,573 | -$38,573 | ❌ Perdida |
 | RJW1 | France vs. Belgium: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $30,500 | -$30,500 | ❌ Perdida |
 | CORGI777 | Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage | Aurora Gaming | 1.56 (64¢) | $36,082 | +$20,296 | ✅ Ganada |
