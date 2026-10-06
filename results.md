@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 09:03:49 (hora de Perú)
+Actualizado: 2026-10-06 09:05:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4515**  ($243,518,933 en total)
+- Apuestas registradas: **4516**  ($243,547,433 en total)
 - Resueltas: **4486** — 2740 ganadas / 1746 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 518
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| StasPanda | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $30,823 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Samsun: Lucrezia Stefanini vs Carole Monnet | Lucrezia Stefanini | 1.23 (81¢) | $62,932 | — | ⏳ Pendiente |
 | omnibus-076daa | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.32 (76¢) | $53,986 | +$17,048 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 518 en total)_
 | optimusprime777879 | China Open: Novak Djokovic vs Daniil Medvedev | Novak Djokovic | 4.35 (23¢) | $27,600 | +$92,400 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | China Open: Novak Djokovic vs Daniil Medvedev | Daniil Medvedev | 1.67 (60¢) | $114,601 | -$114,601 | ❌ Perdida |
 | crispychook99 | Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage | TYLOO | 2.00 (50¢) | $67,494 | -$67,494 | ❌ Perdida |
-| crispychook99 | Counter-Strike: 9z vs Natus Vincere (BO3) - ESL Pro League Group Stage | 9z | 3.23 (31¢) | $39,956 | -$39,956 | ❌ Perdida |
