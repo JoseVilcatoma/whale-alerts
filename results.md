@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 11:57:55 (hora de Perú)
+Actualizado: 2026-10-06 11:59:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4538**  ($245,702,558 en total)
+- Apuestas registradas: **4539**  ($245,739,599 en total)
 - Resueltas: **4499** — 2747 ganadas / 1752 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 522
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
 | maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
-| Lakersfan111 | 35 | 22 | 1 | 61% | $2,605,363 | +$44,395 |
+| Lakersfan111 | 35 | 22 | 2 | 61% | $2,642,404 | +$44,395 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| crispychook99 | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | M80 | 2.27 (44¢) | $37,040 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Spain win on 2026-10-06? | No | 4.76 (21¢) | $62,961 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $53,937 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.45 (69¢) | $51,710 | -$51,710 | ❌ Perdida |
 | ferrariChampions2026 | Braga: Thiago Monteiro vs Elmer Moeller | Thiago Monteiro | 2.00 (50¢) | $38,573 | -$38,573 | ❌ Perdida |
 | RJW1 | France vs. Belgium: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $30,500 | -$30,500 | ❌ Perdida |
-| CORGI777 | Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage | Aurora Gaming | 1.56 (64¢) | $36,082 | +$20,296 | ✅ Ganada |
