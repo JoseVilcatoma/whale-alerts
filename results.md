@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 17:12:56 (hora de Perú)
+Actualizado: 2026-10-06 17:15:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4551**  ($246,252,889 en total)
+- Apuestas registradas: **4552**  ($246,281,222 en total)
 - Resueltas: **4507** — 2752 ganadas / 1755 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 522
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Palermo: Jay Clarke vs Gabriele Piraino | Gabriele Piraino | 1.18 (85¢) | $28,333 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Rangers (-1.5) | Rangers | 2.70 (37¢) | $25,000 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 2.04 (49¢) | $29,254 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $29,334 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | yoyoyoyoer | Falcons vs. Saints | Falcons | 1.22 (82¢) | $26,543 | +$5,827 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Falcons vs. Saints | Falcons | 1.49 (67¢) | $39,967 | +$19,685 | ✅ Ganada |
 | Lorolorota09 | Falcons vs. Saints | Falcons | 1.61 (62¢) | $28,324 | +$17,360 | ✅ Ganada |
-| mooseborzoii | Falcons vs. Saints | Falcons | 1.52 (66¢) | $29,005 | +$14,942 | ✅ Ganada |
