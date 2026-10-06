@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-05 19:55:42 (hora de Perú)
+Actualizado: 2026-10-05 19:57:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4492**  ($242,619,101 en total)
+- Apuestas registradas: **4493**  ($242,647,425 en total)
 - Resueltas: **4463** — 2724 ganadas / 1739 perdidas (**61%** de acierto)
-- Pendientes: 11
-- Apostadores distintos: 515
+- Pendientes: 12
+- Apostadores distintos: 516
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 18 | 1 | 0 | 95% | $1,377,941 | +$656,216 |
 | cosmicxbt | 12 | 4 | 1 | 75% | $1,302,328 | -$43,987 |
 
-_(mostrando los 40 de mayor monto, de 515 en total)_
+_(mostrando los 40 de mayor monto, de 516 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Lorolorota09 | Falcons vs. Saints | Falcons | 1.61 (62¢) | $28,324 | — | ⏳ Pendiente |
 | mooseborzoii | Falcons vs. Saints | Falcons | 1.52 (66¢) | $29,005 | — | ⏳ Pendiente |
 | nuttypoo | Falcons vs. Saints | Falcons | 1.49 (67¢) | $44,220 | — | ⏳ Pendiente |
 | ndb1 | Falcons vs. Saints | Falcons | 1.52 (66¢) | $119,103 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 515 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lions vs. Panthers | Lions | 1.72 (58¢) | $144,988 | -$144,988 | ❌ Perdida |
 | ndb1 | Lions vs. Panthers | Lions | 1.72 (58¢) | $48,188 | -$48,188 | ❌ Perdida |
 | Mr.Ape | Lions vs. Panthers | Lions | 1.54 (65¢) | $31,000 | -$31,000 | ❌ Perdida |
-| ndb1 | Lions vs. Panthers | Lions | 1.45 (69¢) | $26,402 | -$26,402 | ❌ Perdida |
