@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 15:54:05 (hora de Perú)
+Actualizado: 2026-10-06 15:56:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4544**  ($246,012,775 en total)
-- Resueltas: **4505** — 2751 ganadas / 1754 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **4506** — 2752 ganadas / 1754 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: -$188,751** sobre $243,411,977 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,646** sobre $444,600 (ROI **-1.3%**)
+- **Resultado de los apostadores: -$181,997** sobre $243,453,462 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,630** sobre $444,700 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 50 | 51 | 2 | 50% | $5,228,698 | -$414,425 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 67 | 38 | 1 | 64% | $4,310,188 | -$364,690 |
+| ferrariChampions2026 | 68 | 38 | 0 | 64% | $4,310,188 | -$357,937 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
 | BrotherObama | 36 | 38 | 2 | 49% | $3,473,447 | +$83,661 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 |---|---|---|---|---|---|---|
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Antofagasta: Gustavo Heide vs Maximo Zeitune | Gustavo Heide | 1.15 (87¢) | $82,261 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Croatia win on 2026-10-06? | No | 1.06 (94¢) | $66,930 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Villena: August Holmgren vs Pedro Martinez | Pedro Martinez | 1.16 (86¢) | $41,485 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Villena: August Holmgren vs Pedro Martinez | Pedro Martinez | 1.16 (86¢) | $41,485 | +$6,753 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $52,500 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | M80 | 2.27 (44¢) | $37,040 | +$47,142 | ✅ Ganada |
