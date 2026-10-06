@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 10:18:59 (hora de Perú)
+Actualizado: 2026-10-06 10:21:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4524**  ($244,033,965 en total)
-- Resueltas: **4487** — 2740 ganadas / 1747 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **4488** — 2741 ganadas / 1747 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 520
 
 ### Balance
 
-- **Resultado de los apostadores: -$387,459** sobre $242,453,005 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,966** sobre $442,800 (ROI **-1.3%**)
+- **Resultado de los apostadores: -$372,697** sobre $242,515,937 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,942** sobre $442,900 (ROI **-1.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 520 en total)_
 | BrotherObama | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 2.38 (42¢) | $30,000 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $30,823 | — | ⏳ Pendiente |
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Samsun: Lucrezia Stefanini vs Carole Monnet | Lucrezia Stefanini | 1.23 (81¢) | $62,932 | — | ⏳ Pendiente |
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Samsun: Lucrezia Stefanini vs Carole Monnet | Lucrezia Stefanini | 1.23 (81¢) | $62,932 | +$14,762 | ✅ Ganada |
 | omnibus-076daa | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.32 (76¢) | $53,986 | +$17,048 | ✅ Ganada |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.30 (77¢) | $65,481 | +$19,559 | ✅ Ganada |
