@@ -23,10 +23,6 @@
     "username": "Kch-Temp",
     "added_at": 1789741955.906342
   },
-  "0xc2e7800b5af46e6093872b177b7a5e7f0563be51": {
-    "username": "beachboy4",
-    "added_at": 1789741955.906342
-  },
   "0x5268527977f700f9bf9b6d5cd843859e4e70135d": {
     "username": "HomeRunHazard",
     "added_at": 1789954624.5095878
@@ -38,10 +34,6 @@
   "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
     "username": "crispychook99",
     "added_at": 1790432994.6922066
-  },
-  "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
-    "username": "wr0ngw4yb3tt0r",
-    "added_at": 1790468295.8638682
   },
   "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62": {
     "username": "raybanman",
@@ -210,5 +202,9 @@
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1791325593.8729963
+  },
+  "0x67542c3219b37fd1610aad290676ff91cdbfe3bc": {
+    "username": "gmpm2",
+    "added_at": 1791336790.489502
   }
 }
