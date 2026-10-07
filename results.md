@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 08:46:19 (hora de Perú)
+Actualizado: 2026-10-07 08:48:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4577**  ($247,400,669 en total)
-- Resueltas: **4555** — 2788 ganadas / 1767 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **4556** — 2789 ganadas / 1767 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 523
 
 ### Balance
 
-- **Resultado de los apostadores: +$248,529** sobre $246,526,047 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,949** sobre $449,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$280,329** sobre $246,554,247 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,836** sobre $449,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Diabolical-Prize | 50 | 53 | 1 | 49% | $5,256,898 | -$537,557 |
+| Diabolical-Prize | 51 | 53 | 0 | 49% | $5,256,898 | -$505,757 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 70 | 38 | 0 | 65% | $4,370,935 | -$324,759 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 523 en total)_
 |---|---|---|---|---|---|---|
 | yupiiiiiiiii | China Open: Alina Charaeva vs Qinwen Zheng | Qinwen Zheng | 1.11 (90¢) | $47,039 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: FURIA vs 9z (BO3) - ESL Pro League Group Stage | FURIA | 1.39 (72¢) | $54,000 | — | ⏳ Pendiente |
-| Diabolical-Prize | Valorant: Paper Rex vs LOUD (BO3) - VCT Champions Playoffs | LOUD | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
+| Diabolical-Prize | Valorant: Paper Rex vs LOUD (BO3) - VCT Champions Playoffs | LOUD | 2.13 (47¢) | $28,200 | +$31,800 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 1.15 (87¢) | $130,500 | +$19,500 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.10 (91¢) | $53,605 | +$5,302 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.35 (74¢) | $26,955 | +$9,471 | ✅ Ganada |
