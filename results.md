@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 16:54:23 (hora de Perú)
+Actualizado: 2026-10-07 16:56:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4590**  ($247,818,565 en total)
+- Apuestas registradas: **4591**  ($247,858,355 en total)
 - Resueltas: **4566** — 2795 ganadas / 1771 perdidas (**61%** de acierto)
-- Pendientes: 6
-- Apostadores distintos: 524
+- Pendientes: 7
+- Apostadores distintos: 525
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | cosmicxbt | 13 | 4 | 0 | 76% | $1,302,328 | +$1,473 |
 
-_(mostrando los 40 de mayor monto, de 524 en total)_
+_(mostrando los 40 de mayor monto, de 525 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| soccergoat | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.20 (83¢) | $39,790 | — | ⏳ Pendiente |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.69 (59¢) | $49,000 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.72 (58¢) | $26,083 | — | ⏳ Pendiente |
 | sulumos | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.28 (78¢) | $34,532 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 524 en total)_
 | lfjlwkflwekfl | Palermo: Christian Langmo vs Lorenzo Giustino | Lorenzo Giustino | 1.33 (75¢) | $37,447 | +$12,482 | ✅ Ganada |
 | joseph00677 | Will Spain win on 2026-10-06? | Yes | 1.28 (78¢) | $1,004,263 | +$283,254 | ✅ Ganada |
 | 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
-| StasPanda | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $34,605 | +$25,059 | ✅ Ganada |
