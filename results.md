@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 01:52:07 (hora de Perú)
+Actualizado: 2026-10-07 01:54:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4569**  ($246,982,517 en total)
+- Apuestas registradas: **4570**  ($247,010,893 en total)
 - Resueltas: **4546** — 2779 ganadas / 1767 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 522
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 50 | 53 | 0 | 49% | $5,228,698 | -$537,557 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 69 | 38 | 0 | 64% | $4,342,559 | -$355,500 |
+| ferrariChampions2026 | 69 | 38 | 1 | 64% | $4,370,935 | -$355,500 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | BrotherObama | 38 | 39 | 2 | 49% | $3,548,447 | +$124,306 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 2.08 (48¢) | $28,376 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Alex Molcan vs Federico Cina | Alex Molcan | 1.32 (76¢) | $71,851 | — | ⏳ Pendiente |
 | tenniz | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.12 (89¢) | $94,243 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.30 (77¢) | $61,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | omnibus-076daa | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.32 (76¢) | $53,986 | +$17,048 | ✅ Ganada |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.30 (77¢) | $65,481 | +$19,559 | ✅ Ganada |
-| SDTrading | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.89 (53¢) | $30,740 | +$27,260 | ✅ Ganada |
