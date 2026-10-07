@@ -68833,7 +68833,7 @@
     "side": "BUY",
     "usd": 39412.519700000004,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791381881,
     "fills": 1
   },
@@ -68925,6 +68925,21 @@
     "odds_at_bet": 88,
     "status": "pending",
     "ultimo_fill": 1791386589,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9368,
+    "timestamp": 1791388234,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "cs2-prv-navi-2026-10-07-game2",
+    "title": "Counter-Strike: PARIVISION vs Natus Vincere - Map 2 Winner",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 26947.802300000003,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791388234,
     "fills": 1
   }
 ]

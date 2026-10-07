@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 10:49:41 (hora de Perú)
+Actualizado: 2026-10-07 10:51:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4586**  ($247,682,002 en total)
-- Resueltas: **4558** — 2791 ganadas / 1767 perdidas (**61%** de acierto)
+- Apuestas registradas: **4587**  ($247,708,949 en total)
+- Resueltas: **4559** — 2792 ganadas / 1767 perdidas (**61%** de acierto)
 - Pendientes: 10
 - Apostadores distintos: 524
 
 ### Balance
 
-- **Resultado de los apostadores: +$306,556** sobre $246,655,286 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,786** sobre $449,800 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$311,427** sobre $246,694,699 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,774** sobre $449,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
+| Noprajsk | 12 | 9 | 1 | 57% | $2,258,065 | +$65,350 |
 | Kch-Temp | 28 | 10 | 0 | 74% | $2,220,597 | +$1,199,855 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 524 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Noprajsk | Counter-Strike: PARIVISION vs Natus Vincere - Map 2 Winner | PARIVISION | 1.89 (53¢) | $26,948 | — | ⏳ Pendiente |
 | 0xc1acc1 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.14 (88¢) | $31,844 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 2.08 (48¢) | $26,936 | — | ⏳ Pendiente |
 | 0xheavy888 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | Mastermoney | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Holger Rune | 1.89 (53¢) | $32,203 | — | ⏳ Pendiente |
 | HVAB | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Daniel Altmaier | 1.85 (54¢) | $33,185 | — | ⏳ Pendiente |
 | viboomchuu | Oilers vs. Ducks | Ducks | 2.22 (45¢) | $35,335 | — | ⏳ Pendiente |
-| 0xc1acc1 | China Open: Ann Li vs Elina Svitolina | Elina Svitolina | 1.12 (89¢) | $39,413 | — | ⏳ Pendiente |
+| 0xc1acc1 | China Open: Ann Li vs Elina Svitolina | Elina Svitolina | 1.12 (89¢) | $39,413 | +$4,871 | ✅ Ganada |
 | Ancient-Strike | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | PARIVISION | 2.94 (34¢) | $27,418 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.52 (66¢) | $25,000 | — | ⏳ Pendiente |
 | yupiiiiiiiii | China Open: Alina Charaeva vs Qinwen Zheng | Qinwen Zheng | 1.11 (90¢) | $47,039 | +$5,227 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 524 en total)_
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $70,633 | -$70,633 | ❌ Perdida |
 | Mastermoney | Croatia vs. Spain: O/U 2.5 | Over 2.5 | 1.49 (67¢) | $27,744 | +$13,665 | ✅ Ganada |
 | Parom51 | Palermo: Ivan Gakhov vs Yanaki Milev | Yanaki Milev | 1.92 (52¢) | $124,120 | +$114,572 | ✅ Ganada |
-| 0x361b…74fe | Will Spain win on 2026-10-06? | Yes | 1.27 (79¢) | $72,845 | +$19,364 | ✅ Ganada |
