@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 04:27:38 (hora de Perú)
+Actualizado: 2026-10-07 04:29:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4574**  ($247,271,430 en total)
-- Resueltas: **4553** — 2786 ganadas / 1767 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Resueltas: **4555** — 2788 ganadas / 1767 perdidas (**61%** de acierto)
+- Pendientes: 1
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: +$198,289** sobre $246,367,171 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$5,073** sobre $449,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$248,529** sobre $246,526,047 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,949** sobre $449,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 50 | 53 | 0 | 49% | $5,228,698 | -$537,557 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 69 | 38 | 1 | 64% | $4,370,935 | -$355,500 |
+| ferrariChampions2026 | 70 | 38 | 0 | 65% | $4,370,935 | -$324,759 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | BrotherObama | 38 | 39 | 2 | 49% | $3,548,447 | +$124,306 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
@@ -71,11 +71,11 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 1.15 (87¢) | $130,500 | — | ⏳ Pendiente |
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 1.15 (87¢) | $130,500 | +$19,500 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.10 (91¢) | $53,605 | +$5,302 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.35 (74¢) | $26,955 | +$9,471 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.28 (78¢) | $49,478 | +$13,955 | ✅ Ganada |
-| ferrariChampions2026 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 2.08 (48¢) | $28,376 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 2.08 (48¢) | $28,376 | +$30,741 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Alex Molcan vs Federico Cina | Alex Molcan | 1.32 (76¢) | $71,851 | +$22,690 | ✅ Ganada |
 | tenniz | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.12 (89¢) | $94,243 | +$11,648 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.30 (77¢) | $61,600 | +$18,400 | ✅ Ganada |
