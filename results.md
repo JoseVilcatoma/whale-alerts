@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 16:09:20 (hora de Perú)
+Actualizado: 2026-10-07 16:11:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4587**  ($247,708,949 en total)
+- Apuestas registradas: **4589**  ($247,769,565 en total)
 - Resueltas: **4566** — 2795 ganadas / 1771 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 5
 - Apostadores distintos: 524
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 524 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.72 (58¢) | $26,083 | — | ⏳ Pendiente |
+| sulumos | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.28 (78¢) | $34,532 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: PARIVISION vs Natus Vincere - Map 2 Winner | PARIVISION | 1.89 (53¢) | $26,948 | +$23,897 | ✅ Ganada |
 | 0xc1acc1 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.14 (88¢) | $31,844 | -$31,844 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 2.08 (48¢) | $26,936 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 524 en total)_
 | 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
 | StasPanda | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $34,605 | +$25,059 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $70,633 | -$70,633 | ❌ Perdida |
-| Mastermoney | Croatia vs. Spain: O/U 2.5 | Over 2.5 | 1.49 (67¢) | $27,744 | +$13,665 | ✅ Ganada |
-| Parom51 | Palermo: Ivan Gakhov vs Yanaki Milev | Yanaki Milev | 1.92 (52¢) | $124,120 | +$114,572 | ✅ Ganada |

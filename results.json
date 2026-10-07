@@ -68941,5 +68941,35 @@
     "status": "won",
     "ultimo_fill": 1791388234,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9377,
+    "timestamp": 1791407396,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "mlb-cle-cws-2026-10-07",
+    "title": "Cleveland Guardians vs. Chicago White Sox",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 34532.121,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1791407396,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9378,
+    "timestamp": 1791407443,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-lad-atl-2026-10-07",
+    "title": "Los Angeles Dodgers vs. Atlanta Braves",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 26083.428571999997,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1791407443,
+    "fills": 1
   }
 ]
