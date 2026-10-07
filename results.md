@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 22:26:17 (hora de Perú)
+Actualizado: 2026-10-06 22:28:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4566**  ($246,754,823 en total)
-- Resueltas: **4538** — 2774 ganadas / 1764 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **4539** — 2775 ganadas / 1764 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: +$86,212** sobre $245,707,145 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$5,319** sobre $447,800 (ROI **-1.2%**)
+- **Resultado de los apostadores: +$92,386** sobre $245,757,101 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$5,307** sobre $447,900 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| HVAB | Suzhou: Darya Astakhova vs Renata Zarazua | Renata Zarazua | 1.12 (89¢) | $49,956 | — | ⏳ Pendiente |
+| HVAB | Suzhou: Darya Astakhova vs Renata Zarazua | Renata Zarazua | 1.12 (89¢) | $49,956 | +$6,174 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | Gourmet1 | Panthers vs. Kings | Kings | 2.04 (49¢) | $32,484 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.82 (55¢) | $28,471 | — | ⏳ Pendiente |
