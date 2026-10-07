@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 08:52:28 (hora de Perú)
+Actualizado: 2026-10-07 08:54:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4577**  ($247,400,669 en total)
+- Apuestas registradas: **4578**  ($247,425,669 en total)
 - Resueltas: **4556** — 2789 ganadas / 1767 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 523
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 523 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.52 (66¢) | $25,000 | — | ⏳ Pendiente |
 | yupiiiiiiiii | China Open: Alina Charaeva vs Qinwen Zheng | Qinwen Zheng | 1.11 (90¢) | $47,039 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: FURIA vs 9z (BO3) - ESL Pro League Group Stage | FURIA | 1.39 (72¢) | $54,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Valorant: Paper Rex vs LOUD (BO3) - VCT Champions Playoffs | LOUD | 2.13 (47¢) | $28,200 | +$31,800 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 523 en total)_
 | crispychook99 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.33 (43¢) | $35,212 | +$46,676 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 2.38 (42¢) | $32,586 | +$45,000 | ✅ Ganada |
 | SharkbetX-com | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
-| NS13 | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | G2 | 1.69 (59¢) | $27,005 | -$27,005 | ❌ Perdida |
