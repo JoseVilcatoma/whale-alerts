@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 03:30:21 (hora de Perú)
+Actualizado: 2026-10-07 03:32:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4573**  ($247,140,930 en total)
+- Apuestas registradas: **4574**  ($247,271,430 en total)
 - Resueltas: **4548** — 2781 ganadas / 1767 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 522
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 1.15 (87¢) | $130,500 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.10 (91¢) | $53,605 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.35 (74¢) | $26,955 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.28 (78¢) | $49,478 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | BrotherObama | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 2.38 (42¢) | $30,000 | +$41,429 | ✅ Ganada |
 | StasPanda | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.75 (57¢) | $28,500 | -$28,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $30,823 | -$30,823 | ❌ Perdida |
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Samsun: Lucrezia Stefanini vs Carole Monnet | Lucrezia Stefanini | 1.23 (81¢) | $62,932 | +$14,762 | ✅ Ganada |
