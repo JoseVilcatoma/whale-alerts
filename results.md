@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 23:10:32 (hora de Perú)
+Actualizado: 2026-10-06 23:12:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4566**  ($246,754,823 en total)
-- Resueltas: **4539** — 2775 ganadas / 1764 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **4540** — 2776 ganadas / 1764 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: +$92,386** sobre $245,757,101 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$5,307** sobre $447,900 (ROI **-1.2%**)
+- **Resultado de los apostadores: +$131,740** sobre $245,799,734 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$5,214** sobre $448,000 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | BrotherObama | Spread: Rangers (-1.5) | Rangers | 2.70 (37¢) | $25,000 | +$42,568 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 2.04 (49¢) | $29,254 | +$30,448 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $29,334 | -$29,334 | ❌ Perdida |
-| Mastermoney | Southern Miss vs. Troy: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $42,633 | — | ⏳ Pendiente |
+| Mastermoney | Southern Miss vs. Troy: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $42,633 | +$39,353 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $57,952 | -$57,952 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.04 (49¢) | $25,941 | +$27,000 | ✅ Ganada |
