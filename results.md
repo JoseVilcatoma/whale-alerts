@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 09:15:03 (hora de Perú)
+Actualizado: 2026-10-07 09:17:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4581**  ($247,527,834 en total)
-- Resueltas: **4557** — 2790 ganadas / 1767 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **4558** — 2791 ganadas / 1767 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 524
 
 ### Balance
 
-- **Resultado de los apostadores: +$285,556** sobre $246,601,286 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,825** sobre $449,700 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$306,556** sobre $246,655,286 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,786** sobre $449,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 524 en total)_
 | Ancient-Strike | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | PARIVISION | 2.94 (34¢) | $27,418 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.52 (66¢) | $25,000 | — | ⏳ Pendiente |
 | yupiiiiiiiii | China Open: Alina Charaeva vs Qinwen Zheng | Qinwen Zheng | 1.11 (90¢) | $47,039 | +$5,227 | ✅ Ganada |
-| juice-fruit | Counter-Strike: FURIA vs 9z (BO3) - ESL Pro League Group Stage | FURIA | 1.39 (72¢) | $54,000 | — | ⏳ Pendiente |
+| juice-fruit | Counter-Strike: FURIA vs 9z (BO3) - ESL Pro League Group Stage | FURIA | 1.39 (72¢) | $54,000 | +$21,000 | ✅ Ganada |
 | Diabolical-Prize | Valorant: Paper Rex vs LOUD (BO3) - VCT Champions Playoffs | LOUD | 2.13 (47¢) | $28,200 | +$31,800 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 1.15 (87¢) | $130,500 | +$19,500 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.10 (91¢) | $53,605 | +$5,302 | ✅ Ganada |
