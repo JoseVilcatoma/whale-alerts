@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 20:26:35 (hora de Perú)
+Actualizado: 2026-10-06 20:28:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4560**  ($246,566,412 en total)
-- Resueltas: **4526** — 2766 ganadas / 1760 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **4532** — 2771 ganadas / 1761 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: +$38,467** sobre $245,294,986 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$5,587** sobre $446,600 (ROI **-1.3%**)
+- **Resultado de los apostadores: +$99,460** sobre $245,508,627 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$5,382** sobre $447,200 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 328 | 176 | 8 | 65% | $31,979,347 | +$638,269 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 331 | 177 | 4 | 65% | $31,979,347 | +$657,625 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 1 | 52% | $6,771,964 | -$473,683 |
 | Sassy-Bucket | 62 | 56 | 2 | 53% | $6,648,490 | -$613,185 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 50 | 53 | 0 | 49% | $5,228,698 | -$537,557 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 68 | 38 | 1 | 64% | $4,342,559 | -$357,937 |
+| ferrariChampions2026 | 69 | 38 | 0 | 64% | $4,342,559 | -$355,500 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
 | BrotherObama | 36 | 38 | 3 | 49% | $3,498,447 | +$83,661 |
@@ -71,13 +71,13 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ferrariChampions2026 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.08 (93¢) | $32,371 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.08 (93¢) | $32,371 | +$2,437 | ✅ Ganada |
 | crispychook99 | LoL: GAM Esports vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage | FlyQuest | 1.39 (72¢) | $32,363 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.12 (89¢) | $50,628 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.12 (89¢) | $50,628 | +$6,257 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nets vs. Hornets | Hornets | 2.63 (38¢) | $26,238 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 2.04 (49¢) | $36,901 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 2.04 (49¢) | $36,901 | -$36,901 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.96 (51¢) | $40,800 | +$39,200 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $38,888 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Palermo: Jay Clarke vs Gabriele Piraino | Gabriele Piraino | 1.18 (85¢) | $28,333 | +$5,000 | ✅ Ganada |
 | BrotherObama | Spread: Rangers (-1.5) | Rangers | 2.70 (37¢) | $25,000 | — | ⏳ Pendiente |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | Mastermoney | Southern Miss vs. Troy: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $42,633 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $57,952 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.04 (49¢) | $25,941 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.04 (49¢) | $25,941 | +$27,000 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Antofagasta: Gustavo Heide vs Maximo Zeitune | Gustavo Heide | 1.15 (87¢) | $82,261 | +$12,292 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Croatia win on 2026-10-06? | No | 1.06 (94¢) | $66,930 | +$4,272 | ✅ Ganada |
 | ferrariChampions2026 | Villena: August Holmgren vs Pedro Martinez | Pedro Martinez | 1.16 (86¢) | $41,485 | +$6,753 | ✅ Ganada |
