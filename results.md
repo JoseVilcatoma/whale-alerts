@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 04:15:23 (hora de Perú)
+Actualizado: 2026-10-07 04:17:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4574**  ($247,271,430 en total)
-- Resueltas: **4552** — 2785 ganadas / 1767 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **4553** — 2786 ganadas / 1767 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: +$185,703** sobre $246,334,808 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$5,111** sobre $449,200 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$198,289** sobre $246,367,171 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$5,073** sobre $449,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
-| Lakersfan111 | 37 | 22 | 1 | 63% | $2,674,767 | +$151,577 |
+| Lakersfan111 | 38 | 22 | 0 | 63% | $2,674,767 | +$164,163 |
 | maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | BrotherObama | Panthers vs. Kings | Panthers | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
 | BrotherObama | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 2.22 (45¢) | $25,000 | -$25,000 | ❌ Perdida |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.08 (93¢) | $32,371 | +$2,437 | ✅ Ganada |
-| crispychook99 | LoL: GAM Esports vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage | FlyQuest | 1.39 (72¢) | $32,363 | — | ⏳ Pendiente |
+| crispychook99 | LoL: GAM Esports vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage | FlyQuest | 1.39 (72¢) | $32,363 | +$12,586 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.12 (89¢) | $50,628 | +$6,257 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nets vs. Hornets | Hornets | 2.63 (38¢) | $26,238 | -$26,238 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 2.04 (49¢) | $36,901 | -$36,901 | ❌ Perdida |
