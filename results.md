@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 00:28:38 (hora de Perú)
+Actualizado: 2026-10-07 00:30:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4566**  ($246,754,823 en total)
-- Resueltas: **4543** — 2778 ganadas / 1765 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **4545** — 2779 ganadas / 1766 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: +$152,534** sobre $245,880,704 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$5,151** sobre $448,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$143,126** sobre $245,938,189 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$5,158** sobre $448,500 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 69 | 38 | 0 | 64% | $4,342,559 | -$355,500 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| BrotherObama | 37 | 39 | 3 | 49% | $3,548,447 | +$101,229 |
+| BrotherObama | 38 | 39 | 2 | 49% | $3,548,447 | +$124,306 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
@@ -73,9 +73,9 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 |---|---|---|---|---|---|---|
 | HVAB | Suzhou: Darya Astakhova vs Renata Zarazua | Renata Zarazua | 1.12 (89¢) | $49,956 | +$6,174 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
-| Gourmet1 | Panthers vs. Kings | Kings | 2.04 (49¢) | $32,484 | — | ⏳ Pendiente |
+| Gourmet1 | Panthers vs. Kings | Kings | 2.04 (49¢) | $32,484 | -$32,484 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.82 (55¢) | $28,471 | +$23,294 | ✅ Ganada |
-| BrotherObama | Panthers vs. Kings | Panthers | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
+| BrotherObama | Panthers vs. Kings | Panthers | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
 | BrotherObama | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 2.22 (45¢) | $25,000 | -$25,000 | ❌ Perdida |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.08 (93¢) | $32,371 | +$2,437 | ✅ Ganada |
 | crispychook99 | LoL: GAM Esports vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage | FlyQuest | 1.39 (72¢) | $32,363 | — | ⏳ Pendiente |
