@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 11:06:14 (hora de Perú)
+Actualizado: 2026-10-07 11:08:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4587**  ($247,708,949 en total)
-- Resueltas: **4559** — 2792 ganadas / 1767 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **4561** — 2793 ganadas / 1768 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 524
 
 ### Balance
 
-- **Resultado de los apostadores: +$311,427** sobre $246,694,699 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,774** sobre $449,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$307,493** sobre $246,760,087 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,789** sobre $450,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,8 +75,8 @@ _(mostrando los 40 de mayor monto, de 524 en total)_
 | 0xc1acc1 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.14 (88¢) | $31,844 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 2.08 (48¢) | $26,936 | — | ⏳ Pendiente |
 | 0xheavy888 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
-| Mastermoney | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Holger Rune | 1.89 (53¢) | $32,203 | — | ⏳ Pendiente |
-| HVAB | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Daniel Altmaier | 1.85 (54¢) | $33,185 | — | ⏳ Pendiente |
+| Mastermoney | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Holger Rune | 1.89 (53¢) | $32,203 | -$32,203 | ❌ Perdida |
+| HVAB | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Daniel Altmaier | 1.85 (54¢) | $33,185 | +$28,269 | ✅ Ganada |
 | viboomchuu | Oilers vs. Ducks | Ducks | 2.22 (45¢) | $35,335 | — | ⏳ Pendiente |
 | 0xc1acc1 | China Open: Ann Li vs Elina Svitolina | Elina Svitolina | 1.12 (89¢) | $39,413 | +$4,871 | ✅ Ganada |
 | Ancient-Strike | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | PARIVISION | 2.94 (34¢) | $27,418 | — | ⏳ Pendiente |
