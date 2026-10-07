@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 01:33:43 (hora de Perú)
+Actualizado: 2026-10-07 01:35:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4568**  ($246,910,666 en total)
+- Apuestas registradas: **4569**  ($246,982,517 en total)
 - Resueltas: **4546** — 2779 ganadas / 1767 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 522
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Alex Molcan vs Federico Cina | Alex Molcan | 1.32 (76¢) | $71,851 | — | ⏳ Pendiente |
 | tenniz | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.12 (89¢) | $94,243 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.30 (77¢) | $61,600 | — | ⏳ Pendiente |
 | HVAB | Suzhou: Darya Astakhova vs Renata Zarazua | Renata Zarazua | 1.12 (89¢) | $49,956 | +$6,174 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Novak Djokovic vs Alex de Minaur | Novak Djokovic | 1.30 (77¢) | $65,481 | +$19,559 | ✅ Ganada |
 | SDTrading | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.89 (53¢) | $30,740 | +$27,260 | ✅ Ganada |
-| ipop00 | LoL: JD Gaming vs LGD Gaming - Game 2 Winner | LGD Gaming | 1.96 (51¢) | $28,109 | +$27,007 | ✅ Ganada |

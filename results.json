@@ -68656,5 +68656,20 @@
     "status": "pending",
     "ultimo_fill": 1791354424,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9336,
+    "timestamp": 1791354849,
+    "username": "0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295",
+    "wallet": "0x08a30a0a0fb71ebddc8907145791030782b88666",
+    "slug": "atp-molcan-cina-2026-10-07",
+    "title": "Shanghai Rolex Masters: Alex Molcan vs Federico Cina",
+    "outcome": "Alex Molcan",
+    "side": "BUY",
+    "usd": 71850.74960000001,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1791354849,
+    "fills": 1
   }
 ]
