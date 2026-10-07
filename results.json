@@ -68566,5 +68566,35 @@
     "status": "pending",
     "ultimo_fill": 1791337645,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9320,
+    "timestamp": 1791338145,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-mil-sd-2026-10-06",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 28470.612500000003,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1791338145,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9321,
+    "timestamp": 1791338243,
+    "username": "Gourmet1",
+    "wallet": "0xc430e5b17128df7ce78d69fa28bc7de038641ebf",
+    "slug": "nhl-fla-lak-2026-10-06",
+    "title": "Panthers vs. Kings",
+    "outcome": "Kings",
+    "side": "BUY",
+    "usd": 32484.4667,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791338243,
+    "fills": 1
   }
 ]

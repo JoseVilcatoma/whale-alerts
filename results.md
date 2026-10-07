@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 20:55:32 (hora de Perú)
+Actualizado: 2026-10-06 20:57:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4562**  ($246,616,412 en total)
+- Apuestas registradas: **4564**  ($246,677,367 en total)
 - Resueltas: **4537** — 2773 ganadas / 1764 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 9
 - Apostadores distintos: 522
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 331 | 178 | 3 | 65% | $31,979,347 | +$631,387 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 331 | 178 | 4 | 65% | $32,007,817 | +$631,387 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 78 | 1 | 52% | $6,771,964 | -$473,683 |
 | Sassy-Bucket | 62 | 58 | 0 | 52% | $6,648,490 | -$700,470 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Gourmet1 | Panthers vs. Kings | Kings | 2.04 (49¢) | $32,484 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.82 (55¢) | $28,471 | — | ⏳ Pendiente |
 | BrotherObama | Panthers vs. Kings | Panthers | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
 | BrotherObama | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 2.22 (45¢) | $25,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.08 (93¢) | $32,371 | +$2,437 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | jaytee158 | Counter-Strike: Spirit vs 1WIN (BO3) - ESL Pro League Group Stage | Spirit | 1.15 (87¢) | $65,250 | -$65,250 | ❌ Perdida |
 | crispychook99 | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | M80 | 2.17 (46¢) | $51,146 | +$60,040 | ✅ Ganada |
 | BrotherObama | LoL: JD Gaming vs LGD Gaming (BO3) - Demacia Cup Global Invitational Group Stage | LGD Gaming | 2.08 (48¢) | $27,000 | +$29,250 | ✅ Ganada |
-| crispychook99 | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | G2 | 1.61 (62¢) | $27,330 | -$27,330 | ❌ Perdida |
-| Ancient-Strike | Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage | FURIA | 1.85 (54¢) | $26,185 | -$26,185 | ❌ Perdida |
