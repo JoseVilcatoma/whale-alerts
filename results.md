@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 02:02:21 (hora de Perú)
+Actualizado: 2026-10-07 02:04:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4570**  ($247,010,893 en total)
-- Resueltas: **4546** — 2779 ganadas / 1767 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **4548** — 2781 ganadas / 1767 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: +$104,238** sobre $245,977,077 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$5,258** sobre $448,600 (ROI **-1.2%**)
+- **Resultado de los apostadores: +$134,286** sobre $246,132,920 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$5,216** sobre $448,800 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,8 +73,8 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 |---|---|---|---|---|---|---|
 | ferrariChampions2026 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 2.08 (48¢) | $28,376 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Alex Molcan vs Federico Cina | Alex Molcan | 1.32 (76¢) | $71,851 | — | ⏳ Pendiente |
-| tenniz | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.12 (89¢) | $94,243 | — | ⏳ Pendiente |
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.30 (77¢) | $61,600 | — | ⏳ Pendiente |
+| tenniz | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.12 (89¢) | $94,243 | +$11,648 | ✅ Ganada |
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.30 (77¢) | $61,600 | +$18,400 | ✅ Ganada |
 | HVAB | Suzhou: Darya Astakhova vs Renata Zarazua | Renata Zarazua | 1.12 (89¢) | $49,956 | +$6,174 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | Gourmet1 | Panthers vs. Kings | Kings | 2.04 (49¢) | $32,484 | -$32,484 | ❌ Perdida |
