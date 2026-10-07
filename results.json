@@ -68836,5 +68836,20 @@
     "status": "pending",
     "ultimo_fill": 1791381881,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9360,
+    "timestamp": 1791382173,
+    "username": "viboomchuu",
+    "wallet": "0x291de54f32a3ee495ff0c624fa9bfeca23451f97",
+    "slug": "nhl-edm-ana-2026-10-07",
+    "title": "Oilers vs. Ducks",
+    "outcome": "Ducks",
+    "side": "BUY",
+    "usd": 35334.7155,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1791382173,
+    "fills": 1
   }
 ]
