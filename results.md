@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 10:22:52 (hora de Perú)
+Actualizado: 2026-10-07 10:24:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4585**  ($247,650,158 en total)
+- Apuestas registradas: **4586**  ($247,682,002 en total)
 - Resueltas: **4558** — 2791 ganadas / 1767 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 524
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 524 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xc1acc1 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.14 (88¢) | $31,844 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 2.08 (48¢) | $26,936 | — | ⏳ Pendiente |
 | 0xheavy888 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | Mastermoney | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Holger Rune | 1.89 (53¢) | $32,203 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 524 en total)_
 | Mastermoney | Croatia vs. Spain: O/U 2.5 | Over 2.5 | 1.49 (67¢) | $27,744 | +$13,665 | ✅ Ganada |
 | Parom51 | Palermo: Ivan Gakhov vs Yanaki Milev | Yanaki Milev | 1.92 (52¢) | $124,120 | +$114,572 | ✅ Ganada |
 | 0x361b…74fe | Will Spain win on 2026-10-06? | Yes | 1.27 (79¢) | $72,845 | +$19,364 | ✅ Ganada |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.33 (43¢) | $30,000 | -$698 | 💰 Vendida antes |
