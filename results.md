@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 18:47:20 (hora de Perú)
+Actualizado: 2026-10-07 18:49:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4593**  ($247,926,309 en total)
-- Resueltas: **4566** — 2795 ganadas / 1771 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **4569** — 2798 ganadas / 1771 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 526
 
 ### Balance
 
-- **Resultado de los apostadores: +$297,768** sobre $246,901,296 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,806** sobre $450,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$344,838** sobre $247,002,554 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,649** sobre $450,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 333 | 178 | 3 | 65% | $32,035,317 | +$677,181 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 85 | 79 | 2 | 52% | $6,824,907 | -$512,571 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 86 | 79 | 1 | 52% | $6,824,907 | -$483,391 |
 | Sassy-Bucket | 62 | 58 | 0 | 52% | $6,648,490 | -$700,470 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -73,13 +73,13 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $26,008 | — | ⏳ Pendiente |
 | veliMax | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.00 (50¢) | $41,946 | — | ⏳ Pendiente |
-| soccergoat | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.20 (83¢) | $39,790 | — | ⏳ Pendiente |
+| soccergoat | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.20 (83¢) | $39,790 | +$8,150 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.69 (59¢) | $49,000 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.72 (58¢) | $26,083 | — | ⏳ Pendiente |
-| sulumos | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.28 (78¢) | $34,532 | — | ⏳ Pendiente |
+| sulumos | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.28 (78¢) | $34,532 | +$9,740 | ✅ Ganada |
 | Noprajsk | Counter-Strike: PARIVISION vs Natus Vincere - Map 2 Winner | PARIVISION | 1.89 (53¢) | $26,948 | +$23,897 | ✅ Ganada |
 | 0xc1acc1 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.14 (88¢) | $31,844 | -$31,844 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 2.08 (48¢) | $26,936 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 2.08 (48¢) | $26,936 | +$29,180 | ✅ Ganada |
 | 0xheavy888 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.33 (75¢) | $30,000 | -$30,000 | ❌ Perdida |
 | Mastermoney | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Holger Rune | 1.89 (53¢) | $32,203 | -$32,203 | ❌ Perdida |
 | HVAB | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Daniel Altmaier | 1.85 (54¢) | $33,185 | +$28,269 | ✅ Ganada |
