@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 19:57:21 (hora de Perú)
+Actualizado: 2026-10-06 19:59:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4559**  ($246,534,041 en total)
+- Apuestas registradas: **4560**  ($246,566,412 en total)
 - Resueltas: **4526** — 2766 ganadas / 1760 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 522
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 50 | 53 | 0 | 49% | $5,228,698 | -$537,557 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 68 | 38 | 0 | 64% | $4,310,188 | -$357,937 |
+| ferrariChampions2026 | 68 | 38 | 1 | 64% | $4,342,559 | -$357,937 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
 | BrotherObama | 36 | 38 | 3 | 49% | $3,498,447 | +$83,661 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.08 (93¢) | $32,371 | — | ⏳ Pendiente |
 | crispychook99 | LoL: GAM Esports vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage | FlyQuest | 1.39 (72¢) | $32,363 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.12 (89¢) | $50,628 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nets vs. Hornets | Hornets | 2.63 (38¢) | $26,238 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | Ancient-Strike | Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage | FURIA | 1.85 (54¢) | $26,185 | -$26,185 | ❌ Perdida |
 | LlamaEnjoyer | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | BetBoom Team | 1.69 (59¢) | $29,972 | -$29,972 | ❌ Perdida |
 | nuttypoo | Falcons vs. Saints | Falcons | 1.11 (90¢) | $44,100 | +$4,900 | ✅ Ganada |
-| TAIWANNUMBERONE | Falcons vs. Saints | Falcons | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
