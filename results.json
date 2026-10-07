@@ -68851,5 +68851,20 @@
     "status": "pending",
     "ultimo_fill": 1791382173,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9362,
+    "timestamp": 1791383845,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-rune-altmaie-2026-10-06",
+    "title": "Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier",
+    "outcome": "Daniel Altmaier",
+    "side": "BUY",
+    "usd": 33185.0853,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1791383845,
+    "fills": 1
   }
 ]
