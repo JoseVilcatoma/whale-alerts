@@ -68506,5 +68506,20 @@
     "status": "pending",
     "ultimo_fill": 1791331873,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9305,
+    "timestamp": 1791333810,
+    "username": "crispychook99",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-gam-fly-2026-10-07",
+    "title": "LoL: GAM Esports vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage",
+    "outcome": "FlyQuest",
+    "side": "BUY",
+    "usd": 32363.056800000002,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1791333810,
+    "fills": 1
   }
 ]
