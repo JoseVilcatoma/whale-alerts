@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 21:30:39 (hora de Perú)
+Actualizado: 2026-10-06 21:32:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4565**  ($246,704,867 en total)
+- Apuestas registradas: **4566**  ($246,754,823 en total)
 - Resueltas: **4537** — 2773 ganadas / 1764 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 522
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HVAB | Suzhou: Darya Astakhova vs Renata Zarazua | Renata Zarazua | 1.12 (89¢) | $49,956 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | Gourmet1 | Panthers vs. Kings | Kings | 2.04 (49¢) | $32,484 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.82 (55¢) | $28,471 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | ipop00 | LoL: JD Gaming vs LGD Gaming - Game 2 Winner | LGD Gaming | 1.96 (51¢) | $28,109 | +$27,007 | ✅ Ganada |
 | omnibus-076daa | Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage | PARIVISION | 2.56 (39¢) | $34,418 | +$53,834 | ✅ Ganada |
 | jaytee158 | Counter-Strike: Spirit vs 1WIN (BO3) - ESL Pro League Group Stage | Spirit | 1.15 (87¢) | $65,250 | -$65,250 | ❌ Perdida |
-| crispychook99 | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | M80 | 2.17 (46¢) | $51,146 | +$60,040 | ✅ Ganada |
