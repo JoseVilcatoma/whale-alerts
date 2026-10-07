@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-06 21:38:51 (hora de Perú)
+Actualizado: 2026-10-06 21:40:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4566**  ($246,754,823 en total)
-- Resueltas: **4537** — 2773 ganadas / 1764 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **4538** — 2774 ganadas / 1764 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 522
 
 ### Balance
 
-- **Resultado de los apostadores: +$43,644** sobre $245,682,145 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$5,489** sobre $447,700 (ROI **-1.2%**)
+- **Resultado de los apostadores: +$86,212** sobre $245,707,145 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$5,319** sobre $447,800 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 69 | 38 | 0 | 64% | $4,342,559 | -$355,500 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| BrotherObama | 36 | 38 | 5 | 49% | $3,548,447 | +$83,661 |
+| BrotherObama | 37 | 38 | 4 | 49% | $3,548,447 | +$126,229 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 522 en total)_
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.96 (51¢) | $40,800 | +$39,200 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. San Diego Padres: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $38,888 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Palermo: Jay Clarke vs Gabriele Piraino | Gabriele Piraino | 1.18 (85¢) | $28,333 | +$5,000 | ✅ Ganada |
-| BrotherObama | Spread: Rangers (-1.5) | Rangers | 2.70 (37¢) | $25,000 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Rangers (-1.5) | Rangers | 2.70 (37¢) | $25,000 | +$42,568 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 2.04 (49¢) | $29,254 | +$30,448 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $29,334 | -$29,334 | ❌ Perdida |
 | Mastermoney | Southern Miss vs. Troy: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $42,633 | — | ⏳ Pendiente |
