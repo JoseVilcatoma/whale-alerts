@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 09:43:47 (hora de Perú)
+Actualizado: 2026-10-07 09:45:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4582**  ($247,561,019 en total)
+- Apuestas registradas: **4583**  ($247,593,222 en total)
 - Resueltas: **4558** — 2791 ganadas / 1767 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 524
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 524 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mastermoney | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Holger Rune | 1.89 (53¢) | $32,203 | — | ⏳ Pendiente |
 | HVAB | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Daniel Altmaier | 1.85 (54¢) | $33,185 | — | ⏳ Pendiente |
 | viboomchuu | Oilers vs. Ducks | Ducks | 2.22 (45¢) | $35,335 | — | ⏳ Pendiente |
 | 0xc1acc1 | China Open: Ann Li vs Elina Svitolina | Elina Svitolina | 1.12 (89¢) | $39,413 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 524 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.33 (43¢) | $30,000 | -$698 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage | 9z | 1.47 (68¢) | $52,265 | +$24,595 | ✅ Ganada |
 | Cbs710 | Will England win on 2026-10-06? | Yes | 1.12 (89¢) | $38,915 | +$4,810 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | Legacy | 1.82 (55¢) | $116,831 | -$116,831 | ❌ Perdida |
