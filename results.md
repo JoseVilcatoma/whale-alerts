@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 16:50:18 (hora de Perú)
+Actualizado: 2026-10-07 16:52:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4589**  ($247,769,565 en total)
+- Apuestas registradas: **4590**  ($247,818,565 en total)
 - Resueltas: **4566** — 2795 ganadas / 1771 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 524
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 524 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.69 (59¢) | $49,000 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.72 (58¢) | $26,083 | — | ⏳ Pendiente |
 | sulumos | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.28 (78¢) | $34,532 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: PARIVISION vs Natus Vincere - Map 2 Winner | PARIVISION | 1.89 (53¢) | $26,948 | +$23,897 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 524 en total)_
 | joseph00677 | Will Spain win on 2026-10-06? | Yes | 1.28 (78¢) | $1,004,263 | +$283,254 | ✅ Ganada |
 | 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will Croatia win on 2026-10-06? | No | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
 | StasPanda | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $34,605 | +$25,059 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $70,633 | -$70,633 | ❌ Perdida |
