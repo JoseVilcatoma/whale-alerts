@@ -69316,5 +69316,20 @@
     "status": "lost",
     "ultimo_fill": 1791473278,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 9429,
+    "timestamp": 1791496666,
+    "username": "FeedTheBigBird",
+    "wallet": "0x84ec4b5b2dbf75d07041b7b89f0a82647e3a72c1",
+    "slug": "cfb-msrst-wkent-2026-10-08",
+    "title": "Missouri State vs. Western Kentucky",
+    "outcome": "Missouri State",
+    "side": "BUY",
+    "usd": 48771.5436,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1791496666,
+    "fills": 1
   }
 ]
