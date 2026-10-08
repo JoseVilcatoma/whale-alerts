@@ -69091,5 +69091,20 @@
     "status": "pending",
     "ultimo_fill": 1791425051,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9394,
+    "timestamp": 1791425262,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-mil-sd-2026-10-07-spread-away-1pt5",
+    "title": "Spread: Milwaukee Brewers (-1.5)",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 31968.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1791425262,
+    "fills": 1
   }
 ]
