@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 10:24:55 (hora de Perú)
+Actualizado: 2026-10-08 10:27:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4611**  ($249,034,009 en total)
-- Resueltas: **4583** — 2809 ganadas / 1774 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **4584** — 2810 ganadas / 1774 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 526
 
 ### Balance
 
-- **Resultado de los apostadores: +$643,555** sobre $247,807,018 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,095** sobre $452,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$652,367** sobre $247,840,170 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,069** sobre $452,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 336 | 178 | 4 | 65% | $32,414,397 | +$827,026 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 337 | 178 | 3 | 65% | $32,414,397 | +$835,839 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 0 | 52% | $6,856,875 | -$494,079 |
 | Sassy-Bucket | 62 | 58 | 0 | 52% | $6,648,490 | -$700,470 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 | Talvez10 | Sharks vs. Blues | Blues | 1.72 (58¢) | $42,992 | — | ⏳ Pendiente |
 | Talvez10 | Canucks vs. Hurricanes | Hurricanes | 1.32 (76¢) | $34,840 | — | ⏳ Pendiente |
 | Talvez10 | Flyers vs. Senators | Senators | 1.67 (60¢) | $29,880 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Braga: Oleksii Krutykh vs Luka Mikrut | Luka Mikrut | 1.27 (79¢) | $33,152 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Braga: Oleksii Krutykh vs Luka Mikrut | Luka Mikrut | 1.27 (79¢) | $33,152 | +$8,813 | ✅ Ganada |
 | ferrariChampions2026 | Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta | Pablo Carreno Busta | 2.17 (46¢) | $56,280 | +$66,068 | ✅ Ganada |
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta | Mariano Navone | 1.96 (51¢) | $39,715 | -$39,715 | ❌ Perdida |
 | crispychook99 | LoL: FlyQuest vs RED Canids (BO3) - Demacia Cup Global Invitational Group Stage | FlyQuest | 1.19 (84¢) | $36,774 | +$7,005 | ✅ Ganada |
