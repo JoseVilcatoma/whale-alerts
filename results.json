@@ -69046,5 +69046,20 @@
     "status": "won",
     "ultimo_fill": 1791418161,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9391,
+    "timestamp": 1791424346,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wnba-nyl-atl-2026-10-07",
+    "title": "New York Liberty vs. Atlanta Dream",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "usd": 32400.000000000004,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1791424346,
+    "fills": 1
   }
 ]
