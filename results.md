@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 09:00:33 (hora de Perú)
+Actualizado: 2026-10-08 09:02:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4606**  ($248,886,838 en total)
+- Apuestas registradas: **4607**  ($248,912,264 en total)
 - Resueltas: **4582** — 2808 ganadas / 1774 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 526
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Eztennis | Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina | Dalibor Svrcina | 2.56 (39¢) | $25,427 | — | ⏳ Pendiente |
 | Talvez10 | Sharks vs. Blues | Blues | 1.72 (58¢) | $42,992 | — | ⏳ Pendiente |
 | Talvez10 | Canucks vs. Hurricanes | Hurricanes | 1.32 (76¢) | $34,840 | — | ⏳ Pendiente |
 | Talvez10 | Flyers vs. Senators | Senators | 1.67 (60¢) | $29,880 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 2.04 (49¢) | $29,254 | +$30,448 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $29,334 | -$29,334 | ❌ Perdida |
 | Mastermoney | Southern Miss vs. Troy: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $42,633 | +$39,353 | ✅ Ganada |
-| Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $57,952 | -$57,952 | ❌ Perdida |
