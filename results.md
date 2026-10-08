@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 07:34:22 (hora de Perú)
+Actualizado: 2026-10-08 07:36:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4605**  ($248,843,845 en total)
+- Apuestas registradas: **4606**  ($248,886,838 en total)
 - Resueltas: **4581** — 2807 ganadas / 1774 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 526
 
 ### Balance
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 28 | 29 | 0 | 49% | $1,700,765 | -$158,341 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
+| Talvez10 | 17 | 15 | 3 | 53% | $1,634,267 | +$275,001 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
-| Talvez10 | 17 | 15 | 2 | 53% | $1,591,275 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Sharks vs. Blues | Blues | 1.72 (58¢) | $42,992 | — | ⏳ Pendiente |
 | Talvez10 | Canucks vs. Hurricanes | Hurricanes | 1.32 (76¢) | $34,840 | — | ⏳ Pendiente |
 | Talvez10 | Flyers vs. Senators | Senators | 1.67 (60¢) | $29,880 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Braga: Oleksii Krutykh vs Luka Mikrut | Luka Mikrut | 1.27 (79¢) | $33,152 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $29,334 | -$29,334 | ❌ Perdida |
 | Mastermoney | Southern Miss vs. Troy: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $42,633 | +$39,353 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $57,952 | -$57,952 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |

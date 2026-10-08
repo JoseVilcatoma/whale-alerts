@@ -69211,5 +69211,20 @@
     "status": "pending",
     "ultimo_fill": 1791462678,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9412,
+    "timestamp": 1791462879,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "nhl-sj-stl-2026-10-08",
+    "title": "Sharks vs. Blues",
+    "outcome": "Blues",
+    "side": "BUY",
+    "usd": 42992.08900000001,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1791462879,
+    "fills": 1
   }
 ]
