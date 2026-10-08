@@ -69346,5 +69346,20 @@
     "status": "pending",
     "ultimo_fill": 1791499635,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 9431,
+    "timestamp": 1791500405,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nhl-chi-nyi-2026-10-08",
+    "title": "Blackhawks vs. Islanders",
+    "outcome": "Blackhawks",
+    "side": "BUY",
+    "usd": 38128.9606,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1791500405,
+    "fills": 1
   }
 ]
