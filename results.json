@@ -69106,5 +69106,20 @@
     "status": "pending",
     "ultimo_fill": 1791425262,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9397,
+    "timestamp": 1791433765,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-navi-jdg-2026-10-08",
+    "title": "LoL: Natus Vincere vs JD Gaming (BO3) - Demacia Cup Global Invitational Group Stage",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 219000.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1791433765,
+    "fills": 1
   }
 ]

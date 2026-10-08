@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 23:27:57 (hora de Perú)
+Actualizado: 2026-10-07 23:29:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4598**  ($248,394,205 en total)
+- Apuestas registradas: **4599**  ($248,613,205 en total)
 - Resueltas: **4574** — 2803 ganadas / 1771 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 526
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Diabolical-Prize | 51 | 53 | 0 | 49% | $5,256,898 | -$505,757 |
+| Diabolical-Prize | 51 | 53 | 1 | 49% | $5,475,898 | -$505,757 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 70 | 38 | 1 | 65% | $4,460,935 | -$324,759 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: Natus Vincere vs JD Gaming (BO3) - Demacia Cup Global Invitational Group Stage | JD Gaming | 1.37 (73¢) | $219,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres | 1.56 (64¢) | $31,968 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $267,732 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $90,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 | ferrariChampions2026 | Villena: August Holmgren vs Pedro Martinez | Pedro Martinez | 1.16 (86¢) | $41,485 | +$6,753 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 2.38 (42¢) | $52,500 | -$52,500 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $30,000 | +$21,724 | ✅ Ganada |
-| crispychook99 | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | M80 | 2.27 (44¢) | $37,040 | +$47,142 | ✅ Ganada |
