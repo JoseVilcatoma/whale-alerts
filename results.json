@@ -69121,5 +69121,20 @@
     "status": "pending",
     "ultimo_fill": 1791433765,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9403,
+    "timestamp": 1791439868,
+    "username": "crispychook99",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-fly-red-2026-10-08",
+    "title": "LoL: FlyQuest vs RED Canids (BO3) - Demacia Cup Global Invitational Group Stage",
+    "outcome": "FlyQuest",
+    "side": "BUY",
+    "usd": 36774.393599999996,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1791439868,
+    "fills": 1
   }
 ]
