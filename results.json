@@ -69136,5 +69136,35 @@
     "status": "pending",
     "ultimo_fill": 1791439868,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9404,
+    "timestamp": 1791449339,
+    "username": "kdvlklkvlsklkfs",
+    "wallet": "0xcfe8f6cc8ff9cb68985b7af650ef6dbe9a373a6c",
+    "slug": "atp-navone-busta-2026-10-06",
+    "title": "Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta",
+    "outcome": "Mariano Navone",
+    "side": "BUY",
+    "usd": 39715.11,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791449339,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9405,
+    "timestamp": 1791449359,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-navone-busta-2026-10-06",
+    "title": "Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta",
+    "outcome": "Pablo Carreno Busta",
+    "side": "BUY",
+    "usd": 56279.8776,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1791449359,
+    "fills": 1
   }
 ]
