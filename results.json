@@ -69361,5 +69361,35 @@
     "status": "pending",
     "ultimo_fill": 1791500405,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9432,
+    "timestamp": 1791502033,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-sala-arkst-2026-10-08",
+    "title": "South Alabama vs. Arkansas State",
+    "outcome": "South Alabama",
+    "side": "BUY",
+    "usd": 69604.416,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1791502033,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9433,
+    "timestamp": 1791502048,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-sala-arkst-2026-10-08-spread-home-3pt5",
+    "title": "Spread: Arkansas State (-3.5)",
+    "outcome": "South Alabama",
+    "side": "BUY",
+    "usd": 50172.156800000004,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791502048,
+    "fills": 1
   }
 ]

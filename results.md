@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 18:26:05 (hora de Perú)
+Actualizado: 2026-10-08 18:28:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4615**  ($249,401,640 en total)
+- Apuestas registradas: **4617**  ($249,521,416 en total)
 - Resueltas: **4590** — 2813 ganadas / 1777 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 9
 - Apostadores distintos: 527
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 337 | 178 | 3 | 65% | $32,414,397 | +$835,839 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 0 | 52% | $6,856,875 | -$494,079 |
-| Sassy-Bucket | 62 | 58 | 1 | 52% | $6,686,619 | -$700,470 |
+| Sassy-Bucket | 62 | 58 | 3 | 52% | $6,806,396 | -$700,470 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 527 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Spread: Arkansas State (-3.5) | South Alabama | 1.89 (53¢) | $50,172 | — | ⏳ Pendiente |
+| Sassy-Bucket | South Alabama vs. Arkansas State | South Alabama | 2.38 (42¢) | $69,604 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blackhawks vs. Islanders | Blackhawks | 2.63 (38¢) | $38,129 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Bruins | Utah | 1.79 (56¢) | $163,621 | — | ⏳ Pendiente |
 | FeedTheBigBird | Missouri State vs. Western Kentucky | Missouri State | 1.92 (52¢) | $48,772 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 527 en total)_
 | ferrariChampions2026 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.08 (93¢) | $32,371 | +$2,437 | ✅ Ganada |
 | crispychook99 | LoL: GAM Esports vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage | FlyQuest | 1.39 (72¢) | $32,363 | +$12,586 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.12 (89¢) | $50,628 | +$6,257 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nets vs. Hornets | Hornets | 2.63 (38¢) | $26,238 | -$26,238 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 2.04 (49¢) | $36,901 | -$36,901 | ❌ Perdida |
