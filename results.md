@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 10:57:58 (hora de Perú)
+Actualizado: 2026-10-08 11:00:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4612**  ($249,151,118 en total)
-- Resueltas: **4584** — 2810 ganadas / 1774 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **4585** — 2811 ganadas / 1774 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 526
 
 ### Balance
 
-- **Resultado de los apostadores: +$652,367** sobre $247,840,170 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,069** sobre $452,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$733,367** sobre $248,059,170 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,032** sobre $452,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Diabolical-Prize | 51 | 53 | 2 | 49% | $5,502,358 | -$505,757 |
+| Diabolical-Prize | 52 | 53 | 1 | 50% | $5,502,358 | -$424,757 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 72 | 38 | 0 | 65% | $4,517,215 | -$231,809 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 | ferrariChampions2026 | Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta | Pablo Carreno Busta | 2.17 (46¢) | $56,280 | +$66,068 | ✅ Ganada |
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta | Mariano Navone | 1.96 (51¢) | $39,715 | -$39,715 | ❌ Perdida |
 | crispychook99 | LoL: FlyQuest vs RED Canids (BO3) - Demacia Cup Global Invitational Group Stage | FlyQuest | 1.19 (84¢) | $36,774 | +$7,005 | ✅ Ganada |
-| Diabolical-Prize | LoL: Natus Vincere vs JD Gaming (BO3) - Demacia Cup Global Invitational Group Stage | JD Gaming | 1.37 (73¢) | $219,000 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Natus Vincere vs JD Gaming (BO3) - Demacia Cup Global Invitational Group Stage | JD Gaming | 1.37 (73¢) | $219,000 | +$81,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres | 1.56 (64¢) | $31,968 | -$31,968 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $267,732 | +$79,972 | ✅ Ganada |
 | ferrariChampions2026 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $90,000 | +$26,883 | ✅ Ganada |
