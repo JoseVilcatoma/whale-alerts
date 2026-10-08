@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 00:29:15 (hora de Perú)
+Actualizado: 2026-10-08 00:31:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4599**  ($248,613,205 en total)
-- Resueltas: **4578** — 2806 ganadas / 1772 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Resueltas: **4579** — 2806 ganadas / 1773 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 526
 
 ### Balance
 
-- **Resultado de los apostadores: +$602,395** sobre $247,616,854 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,188** sobre $451,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$570,427** sobre $247,648,822 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,288** sobre $451,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 336 | 178 | 3 | 65% | $32,381,245 | +$827,026 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 79 | 1 | 52% | $6,856,875 | -$462,111 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 0 | 52% | $6,856,875 | -$494,079 |
 | Sassy-Bucket | 62 | 58 | 0 | 52% | $6,648,490 | -$700,470 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Diabolical-Prize | LoL: Natus Vincere vs JD Gaming (BO3) - Demacia Cup Global Invitational Group Stage | JD Gaming | 1.37 (73¢) | $219,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres | 1.56 (64¢) | $31,968 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres | 1.56 (64¢) | $31,968 | -$31,968 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $267,732 | +$79,972 | ✅ Ganada |
 | ferrariChampions2026 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $90,000 | +$26,883 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | New York Liberty vs. Atlanta Dream | Atlanta Dream | 1.85 (54¢) | $32,400 | +$27,600 | ✅ Ganada |
