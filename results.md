@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 00:06:52 (hora de Perú)
+Actualizado: 2026-10-08 00:08:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4599**  ($248,613,205 en total)
-- Resueltas: **4577** — 2806 ganadas / 1771 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **4578** — 2806 ganadas / 1772 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 526
 
 ### Balance
 
-- **Resultado de los apostadores: +$637,730** sobre $247,581,519 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,088** sobre $451,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$602,395** sobre $247,616,854 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,188** sobre $451,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 | 0xheavy888 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.33 (75¢) | $30,000 | -$30,000 | ❌ Perdida |
 | Mastermoney | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Holger Rune | 1.89 (53¢) | $32,203 | -$32,203 | ❌ Perdida |
 | HVAB | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Daniel Altmaier | 1.85 (54¢) | $33,185 | +$28,269 | ✅ Ganada |
-| viboomchuu | Oilers vs. Ducks | Ducks | 2.22 (45¢) | $35,335 | — | ⏳ Pendiente |
+| viboomchuu | Oilers vs. Ducks | Ducks | 2.22 (45¢) | $35,335 | -$35,335 | ❌ Perdida |
 | 0xc1acc1 | China Open: Ann Li vs Elina Svitolina | Elina Svitolina | 1.12 (89¢) | $39,413 | +$4,871 | ✅ Ganada |
 | Ancient-Strike | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | PARIVISION | 2.94 (34¢) | $27,418 | +$53,222 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.52 (66¢) | $25,000 | -$25,000 | ❌ Perdida |
