@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 09:56:06 (hora de Perú)
+Actualizado: 2026-10-08 09:58:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4607**  ($248,912,264 en total)
-- Resueltas: **4582** — 2808 ganadas / 1774 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **4583** — 2809 ganadas / 1774 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 526
 
 ### Balance
 
-- **Resultado de los apostadores: +$603,785** sobre $247,781,591 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,252** sobre $452,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$643,555** sobre $247,807,018 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,095** sobre $452,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Eztennis | Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina | Dalibor Svrcina | 2.56 (39¢) | $25,427 | — | ⏳ Pendiente |
+| Eztennis | Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina | Dalibor Svrcina | 2.56 (39¢) | $25,427 | +$39,770 | ✅ Ganada |
 | Talvez10 | Sharks vs. Blues | Blues | 1.72 (58¢) | $42,992 | — | ⏳ Pendiente |
 | Talvez10 | Canucks vs. Hurricanes | Hurricanes | 1.32 (76¢) | $34,840 | — | ⏳ Pendiente |
 | Talvez10 | Flyers vs. Senators | Senators | 1.67 (60¢) | $29,880 | — | ⏳ Pendiente |
