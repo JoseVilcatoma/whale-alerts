@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 10:16:40 (hora de Perú)
+Actualizado: 2026-10-08 10:18:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4608**  ($248,939,553 en total)
+- Apuestas registradas: **4609**  ($248,977,252 en total)
 - Resueltas: **4583** — 2809 ganadas / 1774 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 526
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kdvlklkvlsklkfs | Villena: Max Hans Rehberg vs Hynek Barton | Max Hans Rehberg | 1.72 (58¢) | $37,698 | — | ⏳ Pendiente |
 | Sunshine.Smile | Dota 2: Aurora vs 1win - Game 2 Winner | Aurora | 1.92 (52¢) | $27,289 | — | ⏳ Pendiente |
 | Eztennis | Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina | Dalibor Svrcina | 2.56 (39¢) | $25,427 | +$39,770 | ✅ Ganada |
 | Talvez10 | Sharks vs. Blues | Blues | 1.72 (58¢) | $42,992 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Palermo: Jay Clarke vs Gabriele Piraino | Gabriele Piraino | 1.18 (85¢) | $28,333 | +$5,000 | ✅ Ganada |
 | BrotherObama | Spread: Rangers (-1.5) | Rangers | 2.70 (37¢) | $25,000 | +$42,568 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 2.04 (49¢) | $29,254 | +$30,448 | ✅ Ganada |
-| Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $29,334 | -$29,334 | ❌ Perdida |
