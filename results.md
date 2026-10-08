@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 21:02:24 (hora de Perú)
+Actualizado: 2026-10-07 21:04:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4595**  ($248,004,505 en total)
+- Apuestas registradas: **4597**  ($248,362,237 en total)
 - Resueltas: **4573** — 2802 ganadas / 1771 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 6
 - Apostadores distintos: 526
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 334 | 178 | 4 | 65% | $32,113,513 | +$719,454 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 334 | 178 | 5 | 65% | $32,381,245 | +$719,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 86 | 79 | 1 | 52% | $6,824,907 | -$483,391 |
 | Sassy-Bucket | 62 | 58 | 0 | 52% | $6,648,490 | -$700,470 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 51 | 53 | 0 | 49% | $5,256,898 | -$505,757 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 70 | 38 | 0 | 65% | $4,370,935 | -$324,759 |
+| ferrariChampions2026 | 70 | 38 | 1 | 65% | $4,460,935 | -$324,759 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | BrotherObama | 38 | 39 | 2 | 49% | $3,548,447 | +$124,306 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $267,732 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $90,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | New York Liberty vs. Atlanta Dream | Atlanta Dream | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.92 (52¢) | $45,796 | +$42,273 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $26,008 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 | fantasy7788 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $30,000 | +$21,724 | ✅ Ganada |
 | crispychook99 | Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage | M80 | 2.27 (44¢) | $37,040 | +$47,142 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $30,000 | +$21,724 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Spain win on 2026-10-06? | No | 4.76 (21¢) | $62,961 | -$62,961 | ❌ Perdida |
-| omnibus-076daa | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.72 (58¢) | $53,937 | +$39,058 | ✅ Ganada |

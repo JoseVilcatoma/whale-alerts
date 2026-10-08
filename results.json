@@ -69061,5 +69061,35 @@
     "status": "pending",
     "ultimo_fill": 1791424346,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9392,
+    "timestamp": 1791425040,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-las-gsv-2026-10-07",
+    "title": "Las Vegas Aces vs. Golden State Valkyries",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "usd": 89999.99999899999,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1791425049,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 9393,
+    "timestamp": 1791425051,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wnba-las-gsv-2026-10-07",
+    "title": "Las Vegas Aces vs. Golden State Valkyries",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "usd": 267731.7027,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1791425051,
+    "fills": 1
   }
 ]
