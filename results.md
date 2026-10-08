@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-07 20:23:42 (hora de Perú)
+Actualizado: 2026-10-07 20:25:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4594**  ($247,972,105 en total)
-- Resueltas: **4569** — 2798 ganadas / 1771 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **4573** — 2802 ganadas / 1771 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 526
 
 ### Balance
 
-- **Resultado de los apostadores: +$344,838** sobre $247,002,554 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,649** sobre $450,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$481,996** sobre $247,165,379 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,315** sobre $451,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 333 | 178 | 4 | 65% | $32,081,113 | +$677,181 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 334 | 178 | 3 | 65% | $32,081,113 | +$719,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 86 | 79 | 1 | 52% | $6,824,907 | -$483,391 |
 | Sassy-Bucket | 62 | 58 | 0 | 52% | $6,648,490 | -$700,470 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,12 +71,12 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.92 (52¢) | $45,796 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.92 (52¢) | $45,796 | +$42,273 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $26,008 | — | ⏳ Pendiente |
-| veliMax | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.00 (50¢) | $41,946 | — | ⏳ Pendiente |
+| veliMax | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.00 (50¢) | $41,946 | +$41,946 | ✅ Ganada |
 | soccergoat | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.20 (83¢) | $39,790 | +$8,150 | ✅ Ganada |
-| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.69 (59¢) | $49,000 | — | ⏳ Pendiente |
-| monkeymashingkeyboard | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.72 (58¢) | $26,083 | — | ⏳ Pendiente |
+| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.69 (59¢) | $49,000 | +$34,051 | ✅ Ganada |
+| monkeymashingkeyboard | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.72 (58¢) | $26,083 | +$18,888 | ✅ Ganada |
 | sulumos | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.28 (78¢) | $34,532 | +$9,740 | ✅ Ganada |
 | Noprajsk | Counter-Strike: PARIVISION vs Natus Vincere - Map 2 Winner | PARIVISION | 1.89 (53¢) | $26,948 | +$23,897 | ✅ Ganada |
 | 0xc1acc1 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.14 (88¢) | $31,844 | -$31,844 | ❌ Perdida |
