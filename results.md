@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 07:28:14 (hora de Perú)
+Actualizado: 2026-10-08 07:30:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4603**  ($248,779,126 en total)
+- Apuestas registradas: **4604**  ($248,809,006 en total)
 - Resueltas: **4581** — 2807 ganadas / 1774 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 526
 
 ### Balance
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
-| Talvez10 | 17 | 15 | 0 | 53% | $1,526,555 | +$275,001 |
+| Talvez10 | 17 | 15 | 1 | 53% | $1,556,435 | +$275,001 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Flyers vs. Senators | Senators | 1.67 (60¢) | $29,880 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Braga: Oleksii Krutykh vs Luka Mikrut | Luka Mikrut | 1.27 (79¢) | $33,152 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta | Pablo Carreno Busta | 2.17 (46¢) | $56,280 | +$66,068 | ✅ Ganada |
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta | Mariano Navone | 1.96 (51¢) | $39,715 | -$39,715 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5 | Over 5.5 | 1.67 (60¢) | $57,952 | -$57,952 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage | Team Falcons | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.04 (49¢) | $25,941 | +$27,000 | ✅ Ganada |
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Antofagasta: Gustavo Heide vs Maximo Zeitune | Gustavo Heide | 1.15 (87¢) | $82,261 | +$12,292 | ✅ Ganada |
