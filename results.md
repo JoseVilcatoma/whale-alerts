@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 11:47:25 (hora de Perú)
+Actualizado: 2026-10-08 11:49:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4612**  ($249,151,118 en total)
-- Resueltas: **4585** — 2811 ganadas / 1774 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **4586** — 2811 ganadas / 1775 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 526
 
 ### Balance
 
-- **Resultado de los apostadores: +$733,367** sobre $248,059,170 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,032** sobre $452,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$695,669** sobre $248,096,868 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,132** sobre $452,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 | kdvlklkvlsklkfs | Antofagasta: Gustavo Heide vs Eduardo Ribeiro | Gustavo Heide | 1.08 (93¢) | $117,108 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: Aurora vs 1win - Game 2 Winner | 1win | 2.38 (42¢) | $26,460 | — | ⏳ Pendiente |
 | ThorinCSGO | Dota 2: Aurora vs 1win - Game 2 Winner | Aurora | 1.69 (59¢) | $30,297 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Villena: Max Hans Rehberg vs Hynek Barton | Max Hans Rehberg | 1.72 (58¢) | $37,698 | — | ⏳ Pendiente |
+| kdvlklkvlsklkfs | Villena: Max Hans Rehberg vs Hynek Barton | Max Hans Rehberg | 1.72 (58¢) | $37,698 | -$37,698 | ❌ Perdida |
 | Sunshine.Smile | Dota 2: Aurora vs 1win - Game 2 Winner | Aurora | 1.92 (52¢) | $27,289 | — | ⏳ Pendiente |
 | Eztennis | Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina | Dalibor Svrcina | 2.56 (39¢) | $25,427 | +$39,770 | ✅ Ganada |
 | Talvez10 | Sharks vs. Blues | Blues | 1.72 (58¢) | $42,992 | — | ⏳ Pendiente |
