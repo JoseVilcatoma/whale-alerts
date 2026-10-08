@@ -69391,5 +69391,20 @@
     "status": "pending",
     "ultimo_fill": 1791502098,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 9434,
+    "timestamp": 1791503555,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "mlb-cle-cws-2026-10-08",
+    "title": "Cleveland Guardians vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 50000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791503555,
+    "fills": 1
   }
 ]
