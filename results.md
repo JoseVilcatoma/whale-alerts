@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 00:04:48 (hora de Perú)
+Actualizado: 2026-10-08 00:06:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4599**  ($248,613,205 en total)
-- Resueltas: **4575** — 2804 ganadas / 1771 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **4577** — 2806 ganadas / 1771 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 526
 
 ### Balance
 
-- **Resultado de los apostadores: +$530,875** sobre $247,223,787 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,148** sobre $451,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$637,730** sobre $247,581,519 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,088** sobre $451,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 335 | 178 | 4 | 65% | $32,381,245 | +$747,054 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 336 | 178 | 3 | 65% | $32,381,245 | +$827,026 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 79 | 1 | 52% | $6,856,875 | -$462,111 |
 | Sassy-Bucket | 62 | 58 | 0 | 52% | $6,648,490 | -$700,470 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 51 | 53 | 1 | 49% | $5,475,898 | -$505,757 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 70 | 38 | 1 | 65% | $4,460,935 | -$324,759 |
+| ferrariChampions2026 | 71 | 38 | 0 | 65% | $4,460,935 | -$297,876 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | BrotherObama | 38 | 39 | 2 | 49% | $3,548,447 | +$124,306 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
@@ -73,8 +73,8 @@ _(mostrando los 40 de mayor monto, de 526 en total)_
 |---|---|---|---|---|---|---|
 | Diabolical-Prize | LoL: Natus Vincere vs JD Gaming (BO3) - Demacia Cup Global Invitational Group Stage | JD Gaming | 1.37 (73¢) | $219,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres | 1.56 (64¢) | $31,968 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $267,732 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $90,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $267,732 | +$79,972 | ✅ Ganada |
+| ferrariChampions2026 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $90,000 | +$26,883 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | New York Liberty vs. Atlanta Dream | Atlanta Dream | 1.85 (54¢) | $32,400 | +$27,600 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.92 (52¢) | $45,796 | +$42,273 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $26,008 | +$21,279 | ✅ Ganada |
