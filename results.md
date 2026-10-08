@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 17:51:09 (hora de Perú)
+Actualizado: 2026-10-08 17:53:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4614**  ($249,303,061 en total)
+- Apuestas registradas: **4614**  ($249,363,511 en total)
 - Resueltas: **4590** — 2813 ganadas / 1777 perdidas (**61%** de acierto)
 - Pendientes: 6
 - Apostadores distintos: 527
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 527 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Bruins | Utah | 1.79 (56¢) | $103,171 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Bruins | Utah | 1.79 (56¢) | $163,621 | — | ⏳ Pendiente |
 | FeedTheBigBird | Missouri State vs. Western Kentucky | Missouri State | 1.92 (52¢) | $48,772 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Antofagasta: Gustavo Heide vs Eduardo Ribeiro | Gustavo Heide | 1.08 (93¢) | $117,108 | -$117,108 | ❌ Perdida |
 | Diabolical-Prize | Dota 2: Aurora vs 1win - Game 2 Winner | 1win | 2.38 (42¢) | $26,460 | -$26,460 | ❌ Perdida |
