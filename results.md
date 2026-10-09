@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 08:30:19 (hora de Perú)
+Actualizado: 2026-10-09 08:32:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4649**  ($251,180,834 en total)
-- Resueltas: **4616** — 2827 ganadas / 1789 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **4617** — 2828 ganadas / 1789 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 534
 
 ### Balance
 
-- **Resultado de los apostadores: +$454,960** sobre $249,489,545 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,346** sobre $455,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$475,627** sobre $249,520,545 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,279** sobre $455,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 340 | 178 | 4 | 66% | $32,522,698 | +$850,718 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 341 | 178 | 3 | 66% | $32,522,698 | +$871,385 |
 | Sassy-Bucket | 65 | 59 | 0 | 52% | $6,952,704 | -$498,191 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 0 | 52% | $6,856,875 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Eztennis | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 2.04 (49¢) | $46,758 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $219,354 | — | ⏳ Pendiente |
 | rookie765 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $36,207 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elise Mertens vs Iga Swiatek | Elise Mertens | 1.67 (60¢) | $31,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elise Mertens vs Iga Swiatek | Elise Mertens | 1.67 (60¢) | $31,000 | +$20,667 | ✅ Ganada |
 | Eztennis | Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery | Arthur Fery | 2.08 (48¢) | $30,000 | -$30,000 | ❌ Perdida |
 | mbmbbbmbv | Valorant: 100 Thieves vs Nongshim RedForce (BO3) - VCT Champions Playoffs | 100 Thieves | 1.49 (67¢) | $50,758 | — | ⏳ Pendiente |
 | BrotherObama | Map Handicap: VIT (-1.5) vs PARIVISION (+1.5) | Vitality | 1.72 (58¢) | $40,000 | — | ⏳ Pendiente |
