@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 02:52:45 (hora de Perú)
+Actualizado: 2026-10-09 02:54:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4631**  ($250,159,911 en total)
+- Apuestas registradas: **4632**  ($250,185,411 en total)
 - Resueltas: **4610** — 2823 ganadas / 1787 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 529
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 338 | 178 | 4 | 66% | $32,466,198 | +$842,918 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 338 | 178 | 5 | 66% | $32,491,698 | +$842,918 |
 | Sassy-Bucket | 65 | 59 | 0 | 52% | $6,952,704 | -$498,191 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 0 | 52% | $6,856,875 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 529 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Shanghai Rolex Masters: Alexander Zverev vs Yibing Wu | Alexander Zverev | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Shanghai Rolex Masters: Alexander Zverev vs Yibing Wu | Alexander Zverev | 1.12 (89¢) | $26,700 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $70,297 | — | ⏳ Pendiente |
 | kkookkoo | Shanghai Rolex Masters: Adrian Mannarino vs Flavio Cobolli | Flavio Cobolli | 1.54 (65¢) | $25,486 | -$25,486 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 529 en total)_
 | Diabolical-Prize | Valorant: Paper Rex vs LOUD (BO3) - VCT Champions Playoffs | LOUD | 2.13 (47¢) | $28,200 | +$31,800 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 1.15 (87¢) | $130,500 | +$19,500 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.10 (91¢) | $53,605 | +$5,302 | ✅ Ganada |
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.35 (74¢) | $26,955 | +$9,471 | ✅ Ganada |
