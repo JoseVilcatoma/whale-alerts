@@ -69556,5 +69556,20 @@
     "status": "won",
     "ultimo_fill": 1791512304,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9463,
+    "timestamp": 1791518162,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "atp-mannari-cobolli-2026-10-09",
+    "title": "Shanghai Rolex Masters: Adrian Mannarino vs Flavio Cobolli",
+    "outcome": "Flavio Cobolli",
+    "side": "BUY",
+    "usd": 25486.190001566963,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1791518162,
+    "fills": 1
   }
 ]
