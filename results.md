@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 21:20:12 (hora de Perú)
+Actualizado: 2026-10-08 23:04:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4628**  ($250,037,428 en total)
-- Resueltas: **4594** — 2816 ganadas / 1778 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **4607** — 2822 ganadas / 1785 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 528
 
 ### Balance
 
-- **Resultado de los apostadores: +$470,011** sobre $248,555,581 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,157** sobre $453,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$477,418** sobre $249,121,011 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,137** sobre $454,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 337 | 178 | 4 | 65% | $32,439,498 | +$835,839 |
-| Sassy-Bucket | 62 | 58 | 4 | 52% | $6,952,704 | -$700,470 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 338 | 178 | 3 | 66% | $32,439,498 | +$842,918 |
+| Sassy-Bucket | 64 | 59 | 1 | 52% | $6,952,704 | -$575,573 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 0 | 52% | $6,856,875 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 52 | 54 | 0 | 49% | $5,502,358 | -$451,217 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 73 | 38 | 1 | 66% | $4,577,086 | -$227,443 |
+| ferrariChampions2026 | 74 | 38 | 0 | 66% | $4,577,086 | -$104,827 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | BrotherObama | 38 | 39 | 2 | 49% | $3,548,447 | +$124,306 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 28 | 10 | 0 | 74% | $2,220,597 | +$1,199,855 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
-| mooseborzoii | 30 | 7 | 2 | 81% | $1,979,663 | +$899,210 |
+| mooseborzoii | 30 | 9 | 0 | 77% | $1,979,663 | +$816,993 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 28 | 29 | 0 | 49% | $1,700,765 | -$158,341 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
-| Talvez10 | 19 | 15 | 1 | 56% | $1,634,267 | +$305,923 |
+| Talvez10 | 19 | 16 | 0 | 54% | $1,634,267 | +$262,931 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
@@ -71,29 +71,29 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buccaneers vs. Cowboys | Buccaneers | 1.28 (78¢) | $25,101 | — | ⏳ Pendiente |
-| Lorolorota09 | Buccaneers vs. Cowboys | Buccaneers | 1.35 (74¢) | $32,535 | — | ⏳ Pendiente |
-| mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.56 (64¢) | $44,202 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buccaneers vs. Cowboys | Buccaneers | 1.28 (78¢) | $25,101 | +$7,080 | ✅ Ganada |
+| Lorolorota09 | Buccaneers vs. Cowboys | Buccaneers | 1.35 (74¢) | $32,535 | +$11,431 | ✅ Ganada |
+| mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.56 (64¢) | $44,202 | -$44,202 | ❌ Perdida |
 | Sassy-Bucket | Maple Leafs vs. Golden Knights | Golden Knights | 1.64 (61¢) | $121,033 | — | ⏳ Pendiente |
-| mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.47 (68¢) | $38,015 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | South Alabama vs. Arkansas State | South Alabama | 1.30 (77¢) | $27,214 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Buccaneers vs. Cowboys | Buccaneers | 5.00 (20¢) | $30,654 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | South Alabama vs. Arkansas State | Arkansas State | 1.64 (61¢) | $34,806 | — | ⏳ Pendiente |
-| milkteaboba | Buccaneers vs. Cowboys | Cowboys | 1.23 (81¢) | $57,959 | — | ⏳ Pendiente |
+| mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.47 (68¢) | $38,015 | -$38,015 | ❌ Perdida |
+| TAIWANNUMBERONE | South Alabama vs. Arkansas State | South Alabama | 1.30 (77¢) | $27,214 | +$8,129 | ✅ Ganada |
+| ferrariChampions2026 | Buccaneers vs. Cowboys | Buccaneers | 5.00 (20¢) | $30,654 | +$122,616 | ✅ Ganada |
+| TAIWANNUMBERONE | South Alabama vs. Arkansas State | Arkansas State | 1.64 (61¢) | $34,806 | -$34,806 | ❌ Perdida |
+| milkteaboba | Buccaneers vs. Cowboys | Cowboys | 1.23 (81¢) | $57,959 | -$57,959 | ❌ Perdida |
 | ferrariChampions2026 | Utah vs. Bruins | Bruins | 1.15 (87¢) | $29,217 | +$4,366 | ✅ Ganada |
 | Eztennis | Cleveland Guardians vs. Chicago White Sox | Chicago White Sox | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
-| Sassy-Bucket | Spread: Arkansas State (-3.5) | South Alabama | 1.89 (53¢) | $75,447 | — | ⏳ Pendiente |
-| Sassy-Bucket | South Alabama vs. Arkansas State | South Alabama | 2.38 (42¢) | $69,604 | — | ⏳ Pendiente |
-| Sassy-Bucket | Blackhawks vs. Islanders | Blackhawks | 2.63 (38¢) | $38,129 | — | ⏳ Pendiente |
+| Sassy-Bucket | Spread: Arkansas State (-3.5) | South Alabama | 1.89 (53¢) | $75,447 | +$66,906 | ✅ Ganada |
+| Sassy-Bucket | South Alabama vs. Arkansas State | South Alabama | 2.38 (42¢) | $69,604 | +$96,120 | ✅ Ganada |
+| Sassy-Bucket | Blackhawks vs. Islanders | Blackhawks | 2.63 (38¢) | $38,129 | -$38,129 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Bruins | Utah | 1.79 (56¢) | $163,621 | -$163,621 | ❌ Perdida |
-| FeedTheBigBird | Missouri State vs. Western Kentucky | Missouri State | 1.92 (52¢) | $48,772 | — | ⏳ Pendiente |
+| FeedTheBigBird | Missouri State vs. Western Kentucky | Missouri State | 1.92 (52¢) | $48,772 | -$48,772 | ❌ Perdida |
 | kdvlklkvlsklkfs | Antofagasta: Gustavo Heide vs Eduardo Ribeiro | Gustavo Heide | 1.08 (93¢) | $117,108 | -$117,108 | ❌ Perdida |
 | Diabolical-Prize | Dota 2: Aurora vs 1win - Game 2 Winner | 1win | 2.38 (42¢) | $26,460 | -$26,460 | ❌ Perdida |
 | ThorinCSGO | Dota 2: Aurora vs 1win - Game 2 Winner | Aurora | 1.69 (59¢) | $30,297 | +$21,054 | ✅ Ganada |
 | kdvlklkvlsklkfs | Villena: Max Hans Rehberg vs Hynek Barton | Max Hans Rehberg | 1.72 (58¢) | $37,698 | -$37,698 | ❌ Perdida |
 | Sunshine.Smile | Dota 2: Aurora vs 1win - Game 2 Winner | Aurora | 1.92 (52¢) | $27,289 | +$25,190 | ✅ Ganada |
 | Eztennis | Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina | Dalibor Svrcina | 2.56 (39¢) | $25,427 | +$39,770 | ✅ Ganada |
-| Talvez10 | Sharks vs. Blues | Blues | 1.72 (58¢) | $42,992 | — | ⏳ Pendiente |
+| Talvez10 | Sharks vs. Blues | Blues | 1.72 (58¢) | $42,992 | -$42,992 | ❌ Perdida |
 | Talvez10 | Canucks vs. Hurricanes | Hurricanes | 1.32 (76¢) | $34,840 | +$11,002 | ✅ Ganada |
 | Talvez10 | Flyers vs. Senators | Senators | 1.67 (60¢) | $29,880 | +$19,920 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Braga: Oleksii Krutykh vs Luka Mikrut | Luka Mikrut | 1.27 (79¢) | $33,152 | +$8,813 | ✅ Ganada |
