@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 09:58:10 (hora de Perú)
+Actualizado: 2026-10-09 10:00:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4654**  ($251,357,016 en total)
-- Resueltas: **4620** — 2830 ganadas / 1790 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **4623** — 2830 ganadas / 1793 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 534
 
 ### Balance
 
-- **Resultado de los apostadores: +$483,892** sobre $249,631,245 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,288** sobre $456,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$211,311** sobre $249,903,825 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,588** sobre $456,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,12 +75,12 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Eztennis | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.70 (37¢) | $32,820 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $40,483 | — | ⏳ Pendiente |
 | tony1919 | Dota 2: 1win vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.16 (86¢) | $30,000 | — | ⏳ Pendiente |
-| Lorolorota09 | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.16 (86¢) | $35,173 | — | ⏳ Pendiente |
+| Lorolorota09 | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.16 (86¢) | $35,173 | -$35,173 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $26,240 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $108,165 | — | ⏳ Pendiente |
-| crazyoddslover | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.92 (52¢) | $190,650 | — | ⏳ Pendiente |
+| crazyoddslover | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.92 (52¢) | $190,650 | -$190,650 | ❌ Perdida |
 | BrotherObama | Spread: Washington (-2.5) | Washington | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
-| Eztennis | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 2.04 (49¢) | $46,758 | — | ⏳ Pendiente |
+| Eztennis | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 2.04 (49¢) | $46,758 | -$46,758 | ❌ Perdida |
 | crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $219,354 | — | ⏳ Pendiente |
 | rookie765 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $36,207 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elise Mertens vs Iga Swiatek | Elise Mertens | 1.67 (60¢) | $31,000 | +$20,667 | ✅ Ganada |
