@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 21:05:39 (hora de Perú)
+Actualizado: 2026-10-08 21:07:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4626**  ($249,979,792 en total)
-- Resueltas: **4592** — 2815 ganadas / 1777 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **4594** — 2816 ganadas / 1778 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 528
 
 ### Balance
 
-- **Resultado de los apostadores: +$629,266** sobre $248,362,743 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,072** sobre $453,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$470,011** sobre $248,555,581 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,157** sobre $453,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 52 | 54 | 0 | 49% | $5,502,358 | -$451,217 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 72 | 38 | 2 | 65% | $4,577,086 | -$231,809 |
+| ferrariChampions2026 | 73 | 38 | 1 | 66% | $4,577,086 | -$227,443 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | BrotherObama | 38 | 39 | 2 | 49% | $3,548,447 | +$124,306 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
@@ -78,12 +78,12 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 | ferrariChampions2026 | Buccaneers vs. Cowboys | Buccaneers | 5.00 (20¢) | $30,654 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | South Alabama vs. Arkansas State | Arkansas State | 1.64 (61¢) | $34,806 | — | ⏳ Pendiente |
 | milkteaboba | Buccaneers vs. Cowboys | Cowboys | 1.23 (81¢) | $57,959 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Utah vs. Bruins | Bruins | 1.15 (87¢) | $29,217 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Utah vs. Bruins | Bruins | 1.15 (87¢) | $29,217 | +$4,366 | ✅ Ganada |
 | Eztennis | Cleveland Guardians vs. Chicago White Sox | Chicago White Sox | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Arkansas State (-3.5) | South Alabama | 1.89 (53¢) | $75,447 | — | ⏳ Pendiente |
 | Sassy-Bucket | South Alabama vs. Arkansas State | South Alabama | 2.38 (42¢) | $69,604 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blackhawks vs. Islanders | Blackhawks | 2.63 (38¢) | $38,129 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Bruins | Utah | 1.79 (56¢) | $163,621 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Bruins | Utah | 1.79 (56¢) | $163,621 | -$163,621 | ❌ Perdida |
 | FeedTheBigBird | Missouri State vs. Western Kentucky | Missouri State | 1.92 (52¢) | $48,772 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Antofagasta: Gustavo Heide vs Eduardo Ribeiro | Gustavo Heide | 1.08 (93¢) | $117,108 | -$117,108 | ❌ Perdida |
 | Diabolical-Prize | Dota 2: Aurora vs 1win - Game 2 Winner | 1win | 2.38 (42¢) | $26,460 | -$26,460 | ❌ Perdida |
