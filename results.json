@@ -69496,5 +69496,20 @@
     "status": "pending",
     "ultimo_fill": 1791508441,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9442,
+    "timestamp": 1791510922,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nhl-tor-las-2026-10-08",
+    "title": "Maple Leafs vs. Golden Knights",
+    "outcome": "Golden Knights",
+    "side": "BUY",
+    "usd": 121033.4855,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1791510922,
+    "fills": 1
   }
 ]
