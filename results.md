@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 10:49:33 (hora de Perú)
+Actualizado: 2026-10-09 10:51:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4655**  ($251,384,298 en total)
+- Apuestas registradas: **4656**  ($251,418,385 en total)
 - Resueltas: **4624** — 2831 ganadas / 1793 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 534
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yesmate | Palermo: Yanaki Milev vs Carlos Sanchez Jover | Yanaki Milev | 1.12 (89¢) | $34,088 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.22 (82¢) | $27,282 | — | ⏳ Pendiente |
 | viboomchuu | Penguins vs. Blue Jackets | Penguins | 2.13 (47¢) | $37,707 | — | ⏳ Pendiente |
 | Eztennis | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.70 (37¢) | $32,820 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Diabolical-Prize | LoL: Natus Vincere vs JD Gaming (BO3) - Demacia Cup Global Invitational Group Stage | JD Gaming | 1.37 (73¢) | $219,000 | +$81,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres | 1.56 (64¢) | $31,968 | -$31,968 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $267,732 | +$79,972 | ✅ Ganada |
-| ferrariChampions2026 | Las Vegas Aces vs. Golden State Valkyries | Golden State Valkyries | 1.30 (77¢) | $90,000 | +$26,883 | ✅ Ganada |
