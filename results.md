@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 17:42:52 (hora de Perú)
+Actualizado: 2026-10-09 17:44:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4667**  ($251,879,316 en total)
+- Apuestas registradas: **4668**  ($251,918,316 en total)
 - Resueltas: **4646** — 2844 ganadas / 1802 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 534
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 341 | 179 | 3 | 66% | $32,563,698 | +$830,385 |
-| Sassy-Bucket | 65 | 59 | 0 | 52% | $6,952,704 | -$498,191 |
+| Sassy-Bucket | 65 | 59 | 1 | 52% | $6,991,704 | -$498,191 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 0 | 52% | $6,856,875 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Atlanta Dream vs. New York Liberty | Atlanta Dream | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.69 (59¢) | $59,000 | +$41,000 | ✅ Ganada |
 | hansama231 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.44 (41¢) | $29,508 | -$29,508 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Diabolical-Prize | Dota 2: Aurora vs 1win - Game 2 Winner | 1win | 2.38 (42¢) | $26,460 | -$26,460 | ❌ Perdida |
 | ThorinCSGO | Dota 2: Aurora vs 1win - Game 2 Winner | Aurora | 1.69 (59¢) | $30,297 | +$21,054 | ✅ Ganada |
 | kdvlklkvlsklkfs | Villena: Max Hans Rehberg vs Hynek Barton | Max Hans Rehberg | 1.72 (58¢) | $37,698 | -$37,698 | ❌ Perdida |
-| Sunshine.Smile | Dota 2: Aurora vs 1win - Game 2 Winner | Aurora | 1.92 (52¢) | $27,289 | +$25,190 | ✅ Ganada |

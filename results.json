@@ -70141,5 +70141,20 @@
     "status": "won",
     "ultimo_fill": 1791565609,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9543,
+    "timestamp": 1791585855,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "wnba-atl-nyl-2026-10-09",
+    "title": "Atlanta Dream vs. New York Liberty",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "usd": 39000.0,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1791585855,
+    "fills": 1
   }
 ]
