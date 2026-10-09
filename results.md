@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 19:50:30 (hora de Perú)
+Actualizado: 2026-10-08 19:52:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4621**  ($249,718,673 en total)
+- Apuestas registradas: **4622**  ($249,749,327 en total)
 - Resueltas: **4590** — 2813 ganadas / 1777 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 528
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 52 | 54 | 0 | 49% | $5,502,358 | -$451,217 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 72 | 38 | 1 | 65% | $4,546,432 | -$231,809 |
+| ferrariChampions2026 | 72 | 38 | 2 | 65% | $4,577,086 | -$231,809 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | BrotherObama | 38 | 39 | 2 | 49% | $3,548,447 | +$124,306 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Buccaneers vs. Cowboys | Buccaneers | 5.00 (20¢) | $30,654 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | South Alabama vs. Arkansas State | Arkansas State | 1.64 (61¢) | $34,806 | — | ⏳ Pendiente |
 | milkteaboba | Buccaneers vs. Cowboys | Cowboys | 1.23 (81¢) | $57,959 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Utah vs. Bruins | Bruins | 1.15 (87¢) | $29,217 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | Gourmet1 | Panthers vs. Kings | Kings | 2.04 (49¢) | $32,484 | -$32,484 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.82 (55¢) | $28,471 | +$23,294 | ✅ Ganada |
-| BrotherObama | Panthers vs. Kings | Panthers | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
