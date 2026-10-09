@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 07:42:31 (hora de Perú)
+Actualizado: 2026-10-09 07:44:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4642**  ($250,523,460 en total)
-- Resueltas: **4614** — 2827 ganadas / 1787 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **4615** — 2827 ganadas / 1788 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 532
 
 ### Balance
 
-- **Resultado de los apostadores: +$515,617** sobre $249,428,888 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,146** sobre $455,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$484,960** sobre $249,459,545 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,246** sobre $455,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 532 en total)_
 | Eztennis | Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery | Arthur Fery | 2.08 (48¢) | $30,000 | — | ⏳ Pendiente |
 | mbmbbbmbv | Valorant: 100 Thieves vs Nongshim RedForce (BO3) - VCT Champions Playoffs | 100 Thieves | 1.49 (67¢) | $50,758 | — | ⏳ Pendiente |
 | BrotherObama | Map Handicap: VIT (-1.5) vs PARIVISION (+1.5) | Vitality | 1.72 (58¢) | $40,000 | — | ⏳ Pendiente |
-| Medo3D | Dota 2: Team Spirit vs Aurora - Game 2 Winner | Team Spirit | 1.82 (55¢) | $30,657 | — | ⏳ Pendiente |
+| Medo3D | Dota 2: Team Spirit vs Aurora - Game 2 Winner | Team Spirit | 1.82 (55¢) | $30,657 | -$30,657 | ❌ Perdida |
 | crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $25,778 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin | Francisco Cerundolo | 1.56 (64¢) | $28,177 | +$15,850 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: GamerLegion vs Sinners (BO3) - 1win Private Club #2: Closed Qualifier Playoffs | Sinners | 2.44 (41¢) | $28,700 | — | ⏳ Pendiente |
