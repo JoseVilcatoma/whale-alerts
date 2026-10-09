@@ -69841,5 +69841,20 @@
     "status": "pending",
     "ultimo_fill": 1791551900,
     "fills": 6
+  },
+  {
+    "telegram_msg_id": 9492,
+    "timestamp": 1791552175,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "cs2-furia-mouz-2026-10-09",
+    "title": "Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 108164.94189999999,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1791552175,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 08:21:56 (hora de Perú)
+Actualizado: 2026-10-09 08:24:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4647**  ($251,046,429 en total)
+- Apuestas registradas: **4648**  ($251,154,594 en total)
 - Resueltas: **4616** — 2827 ganadas / 1789 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 534
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $108,165 | — | ⏳ Pendiente |
 | crazyoddslover | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.92 (52¢) | $190,650 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Washington (-2.5) | Washington | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
 | Eztennis | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 2.04 (49¢) | $46,758 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | soccergoat | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.20 (83¢) | $39,790 | +$8,150 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.69 (59¢) | $49,000 | +$34,051 | ✅ Ganada |
 | monkeymashingkeyboard | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.72 (58¢) | $26,083 | +$18,888 | ✅ Ganada |
-| sulumos | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.28 (78¢) | $34,532 | +$9,740 | ✅ Ganada |
