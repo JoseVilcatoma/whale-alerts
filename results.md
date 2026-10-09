@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 08:42:54 (hora de Perú)
+Actualizado: 2026-10-09 08:45:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4649**  ($251,180,834 en total)
+- Apuestas registradas: **4650**  ($251,216,006 en total)
 - Resueltas: **4617** — 2828 ganadas / 1789 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 534
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Lorolorota09 | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.16 (86¢) | $35,173 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $26,240 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $108,165 | — | ⏳ Pendiente |
 | crazyoddslover | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.92 (52¢) | $190,650 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $26,008 | +$21,279 | ✅ Ganada |
 | veliMax | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.00 (50¢) | $41,946 | +$41,946 | ✅ Ganada |
 | soccergoat | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.20 (83¢) | $39,790 | +$8,150 | ✅ Ganada |
-| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.69 (59¢) | $49,000 | +$34,051 | ✅ Ganada |
