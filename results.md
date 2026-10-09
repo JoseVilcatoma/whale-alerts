@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 20:46:50 (hora de Perú)
+Actualizado: 2026-10-08 20:48:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4624**  ($249,814,556 en total)
-- Resueltas: **4590** — 2813 ganadas / 1777 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **4591** — 2814 ganadas / 1777 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 528
 
 ### Balance
 
-- **Resultado de los apostadores: +$598,344** sobre $248,298,023 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,170** sobre $453,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$609,346** sobre $248,332,863 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,138** sobre $453,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 28 | 29 | 0 | 49% | $1,700,765 | -$158,341 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
-| Talvez10 | 17 | 15 | 3 | 53% | $1,634,267 | +$275,001 |
+| Talvez10 | 18 | 15 | 2 | 55% | $1,634,267 | +$286,003 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 | Sunshine.Smile | Dota 2: Aurora vs 1win - Game 2 Winner | Aurora | 1.92 (52¢) | $27,289 | +$25,190 | ✅ Ganada |
 | Eztennis | Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina | Dalibor Svrcina | 2.56 (39¢) | $25,427 | +$39,770 | ✅ Ganada |
 | Talvez10 | Sharks vs. Blues | Blues | 1.72 (58¢) | $42,992 | — | ⏳ Pendiente |
-| Talvez10 | Canucks vs. Hurricanes | Hurricanes | 1.32 (76¢) | $34,840 | — | ⏳ Pendiente |
+| Talvez10 | Canucks vs. Hurricanes | Hurricanes | 1.32 (76¢) | $34,840 | +$11,002 | ✅ Ganada |
 | Talvez10 | Flyers vs. Senators | Senators | 1.67 (60¢) | $29,880 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Braga: Oleksii Krutykh vs Luka Mikrut | Luka Mikrut | 1.27 (79¢) | $33,152 | +$8,813 | ✅ Ganada |
 | ferrariChampions2026 | Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta | Pablo Carreno Busta | 2.17 (46¢) | $56,280 | +$66,068 | ✅ Ganada |
