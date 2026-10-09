@@ -69631,5 +69631,20 @@
     "status": "pending",
     "ultimo_fill": 1791534593,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9473,
+    "timestamp": 1791535796,
+    "username": "Dragon-Evolution",
+    "wallet": "0x3eb31daa061a19855cbf0a4884c202fb86976a2a",
+    "slug": "cs2-vit-prv-2026-10-09",
+    "title": "Counter-Strike: Vitality vs PARIVISION (BO3) - ESL Pro League Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 42000.0,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1791535796,
+    "fills": 1
   }
 ]

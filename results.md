@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 03:47:56 (hora de Perú)
+Actualizado: 2026-10-09 03:49:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4633**  ($250,216,390 en total)
+- Apuestas registradas: **4634**  ($250,258,390 en total)
 - Resueltas: **4612** — 2825 ganadas / 1787 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 530
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 530 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Dragon-Evolution | Counter-Strike: Vitality vs PARIVISION (BO3) - ESL Pro League Playoffs | Vitality | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
 | Xyp9xFan | Counter-Strike: 1WIN vs Aurora Gaming (BO3) - ESL Pro League Playoffs | Aurora Gaming | 1.41 (71¢) | $30,979 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Shanghai Rolex Masters: Alexander Zverev vs Yibing Wu | Alexander Zverev | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Shanghai Rolex Masters: Alexander Zverev vs Yibing Wu | Alexander Zverev | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 530 en total)_
 | yupiiiiiiiii | China Open: Alina Charaeva vs Qinwen Zheng | Qinwen Zheng | 1.11 (90¢) | $47,039 | +$5,227 | ✅ Ganada |
 | juice-fruit | Counter-Strike: FURIA vs 9z (BO3) - ESL Pro League Group Stage | FURIA | 1.39 (72¢) | $54,000 | +$21,000 | ✅ Ganada |
 | Diabolical-Prize | Valorant: Paper Rex vs LOUD (BO3) - VCT Champions Playoffs | LOUD | 2.13 (47¢) | $28,200 | +$31,800 | ✅ Ganada |
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 1.15 (87¢) | $130,500 | +$19,500 | ✅ Ganada |
