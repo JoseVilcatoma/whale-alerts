@@ -69436,5 +69436,20 @@
     "status": "pending",
     "ultimo_fill": 1791504848,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9437,
+    "timestamp": 1791505792,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "cfb-sala-arkst-2026-10-08",
+    "title": "South Alabama vs. Arkansas State",
+    "outcome": "Arkansas State",
+    "side": "BUY",
+    "usd": 34806.1547,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1791505792,
+    "fills": 1
   }
 ]
