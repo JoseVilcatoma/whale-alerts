@@ -69616,5 +69616,20 @@
     "status": "pending",
     "ultimo_fill": 1791532433,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9470,
+    "timestamp": 1791534593,
+    "username": "Xyp9xFan",
+    "wallet": "0x24189b6c233a6b9a5365fe99b380673e900766c8",
+    "slug": "cs2-1win-aur1-2026-10-09",
+    "title": "Counter-Strike: 1WIN vs Aurora Gaming (BO3) - ESL Pro League Playoffs",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 30979.195699999997,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1791534593,
+    "fills": 1
   }
 ]
