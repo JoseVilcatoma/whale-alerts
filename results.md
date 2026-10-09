@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 08:59:40 (hora de Perú)
+Actualizado: 2026-10-09 09:01:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4650**  ($251,216,006 en total)
+- Apuestas registradas: **4652**  ($251,286,490 en total)
 - Resueltas: **4619** — 2830 ganadas / 1789 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 534
 
 ### Balance
@@ -31,8 +31,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
+| Diabolical-Prize | 52 | 54 | 3 | 49% | $5,597,781 | -$451,217 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Diabolical-Prize | 52 | 54 | 2 | 49% | $5,557,298 | -$451,217 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 74 | 38 | 0 | 66% | $4,577,086 | -$104,827 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $40,483 | — | ⏳ Pendiente |
+| tony1919 | Dota 2: 1win vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.16 (86¢) | $30,000 | — | ⏳ Pendiente |
 | Lorolorota09 | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.16 (86¢) | $35,173 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $26,240 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $108,165 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | New York Liberty vs. Atlanta Dream | Atlanta Dream | 1.85 (54¢) | $32,400 | +$27,600 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.92 (52¢) | $45,796 | +$42,273 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $26,008 | +$21,279 | ✅ Ganada |
-| veliMax | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.00 (50¢) | $41,946 | +$41,946 | ✅ Ganada |
-| soccergoat | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.20 (83¢) | $39,790 | +$8,150 | ✅ Ganada |
