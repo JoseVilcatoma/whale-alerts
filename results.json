@@ -69931,5 +69931,20 @@
     "status": "pending",
     "ultimo_fill": 1791557024,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9502,
+    "timestamp": 1791557545,
+    "username": "viboomchuu",
+    "wallet": "0x291de54f32a3ee495ff0c624fa9bfeca23451f97",
+    "slug": "nhl-pit-cbj-2026-10-09",
+    "title": "Penguins vs. Blue Jackets",
+    "outcome": "Penguins",
+    "side": "BUY",
+    "usd": 37706.6618,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1791557545,
+    "fills": 1
   }
 ]
