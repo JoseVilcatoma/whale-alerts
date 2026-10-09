@@ -69721,5 +69721,20 @@
     "status": "pending",
     "ultimo_fill": 1791544909,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9482,
+    "timestamp": 1791547172,
+    "username": "mbmbbbmbv",
+    "wallet": "0x8861bcb388f3cd0a4bde4553b02ffe7f57b039f7",
+    "slug": "val-100t1-ns1-2026-10-09",
+    "title": "Valorant: 100 Thieves vs Nongshim RedForce (BO3) - VCT Champions Playoffs",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 50758.169999000005,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1791547172,
+    "fills": 1
   }
 ]
