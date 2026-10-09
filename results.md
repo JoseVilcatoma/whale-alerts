@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 04:54:51 (hora de Perú)
+Actualizado: 2026-10-09 06:38:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4637**  ($250,341,045 en total)
-- Resueltas: **4612** — 2825 ganadas / 1787 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **4614** — 2827 ganadas / 1787 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 530
 
 ### Balance
 
-- **Resultado de los apostadores: +$487,114** sobre $249,369,731 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,243** sobre $455,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$515,617** sobre $249,428,888 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,146** sobre $455,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,10 +72,10 @@ _(mostrando los 40 de mayor monto, de 530 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $25,778 | — | ⏳ Pendiente |
-| 01258787xy48487484545122 | Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin | Francisco Cerundolo | 1.56 (64¢) | $28,177 | — | ⏳ Pendiente |
+| 01258787xy48487484545122 | Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin | Francisco Cerundolo | 1.56 (64¢) | $28,177 | +$15,850 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: GamerLegion vs Sinners (BO3) - 1win Private Club #2: Closed Qualifier Playoffs | Sinners | 2.44 (41¢) | $28,700 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: Vitality vs PARIVISION (BO3) - ESL Pro League Playoffs | Vitality | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
-| Xyp9xFan | Counter-Strike: 1WIN vs Aurora Gaming (BO3) - ESL Pro League Playoffs | Aurora Gaming | 1.41 (71¢) | $30,979 | — | ⏳ Pendiente |
+| Xyp9xFan | Counter-Strike: 1WIN vs Aurora Gaming (BO3) - ESL Pro League Playoffs | Aurora Gaming | 1.41 (71¢) | $30,979 | +$12,653 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Shanghai Rolex Masters: Alexander Zverev vs Yibing Wu | Alexander Zverev | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Shanghai Rolex Masters: Alexander Zverev vs Yibing Wu | Alexander Zverev | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
 | Dragon-Evolution | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $70,297 | — | ⏳ Pendiente |
