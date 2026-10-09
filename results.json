@@ -69526,5 +69526,20 @@
     "status": "pending",
     "ultimo_fill": 1791511279,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9447,
+    "timestamp": 1791512196,
+    "username": "Lorolorota09",
+    "wallet": "0x36223d8d3540f862c6a2210218c9383349bd3fac",
+    "slug": "nfl-tb-dal-2026-10-09",
+    "title": "Buccaneers vs. Cowboys",
+    "outcome": "Buccaneers",
+    "side": "BUY",
+    "usd": 32535.299998,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1791512196,
+    "fills": 1
   }
 ]

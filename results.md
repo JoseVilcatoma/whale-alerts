@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 21:16:01 (hora de Perú)
+Actualizado: 2026-10-08 21:18:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4626**  ($249,979,792 en total)
+- Apuestas registradas: **4627**  ($250,012,327 en total)
 - Resueltas: **4594** — 2816 ganadas / 1778 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 528
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Lorolorota09 | Buccaneers vs. Cowboys | Buccaneers | 1.35 (74¢) | $32,535 | — | ⏳ Pendiente |
 | mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.56 (64¢) | $44,202 | — | ⏳ Pendiente |
 | Sassy-Bucket | Maple Leafs vs. Golden Knights | Golden Knights | 1.64 (61¢) | $121,033 | — | ⏳ Pendiente |
 | mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.47 (68¢) | $38,015 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 | ferrariChampions2026 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 2.08 (48¢) | $28,376 | +$30,741 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Alex Molcan vs Federico Cina | Alex Molcan | 1.32 (76¢) | $71,851 | +$22,690 | ✅ Ganada |
 | tenniz | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.12 (89¢) | $94,243 | +$11,648 | ✅ Ganada |
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.30 (77¢) | $61,600 | +$18,400 | ✅ Ganada |
