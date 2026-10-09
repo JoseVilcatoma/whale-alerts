@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 11:33:04 (hora de Perú)
+Actualizado: 2026-10-09 11:35:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4660**  ($251,615,093 en total)
+- Apuestas registradas: **4661**  ($251,669,903 en total)
 - Resueltas: **4624** — 2831 ganadas / 1793 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 534
 
 ### Balance
@@ -29,9 +29,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 0 | 52% | $6,856,875 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
+| Diabolical-Prize | 52 | 55 | 5 | 49% | $5,794,099 | -$479,917 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
-| Diabolical-Prize | 52 | 55 | 4 | 49% | $5,739,289 | -$479,917 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 74 | 38 | 0 | 66% | $4,577,086 | -$104,827 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $54,810 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.38 (42¢) | $30,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $51,798 | — | ⏳ Pendiente |
 | sulumos | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.38 (42¢) | $25,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Talvez10 | Flyers vs. Senators | Senators | 1.67 (60¢) | $29,880 | +$19,920 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Braga: Oleksii Krutykh vs Luka Mikrut | Luka Mikrut | 1.27 (79¢) | $33,152 | +$8,813 | ✅ Ganada |
 | ferrariChampions2026 | Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta | Pablo Carreno Busta | 2.17 (46¢) | $56,280 | +$66,068 | ✅ Ganada |
-| kdvlklkvlsklkfs | Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta | Mariano Navone | 1.96 (51¢) | $39,715 | -$39,715 | ❌ Perdida |
