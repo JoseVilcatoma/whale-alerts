@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 04:49:16 (hora de Perú)
+Actualizado: 2026-10-09 04:51:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4635**  ($250,287,090 en total)
+- Apuestas registradas: **4636**  ($250,315,267 en total)
 - Resueltas: **4612** — 2825 ganadas / 1787 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 530
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 530 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 01258787xy48487484545122 | Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin | Francisco Cerundolo | 1.56 (64¢) | $28,177 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: GamerLegion vs Sinners (BO3) - 1win Private Club #2: Closed Qualifier Playoffs | Sinners | 2.44 (41¢) | $28,700 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: Vitality vs PARIVISION (BO3) - ESL Pro League Playoffs | Vitality | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
 | Xyp9xFan | Counter-Strike: 1WIN vs Aurora Gaming (BO3) - ESL Pro League Playoffs | Aurora Gaming | 1.41 (71¢) | $30,979 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 530 en total)_
 | Ancient-Strike | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | PARIVISION | 2.94 (34¢) | $27,418 | +$53,222 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.52 (66¢) | $25,000 | -$25,000 | ❌ Perdida |
 | yupiiiiiiiii | China Open: Alina Charaeva vs Qinwen Zheng | Qinwen Zheng | 1.11 (90¢) | $47,039 | +$5,227 | ✅ Ganada |
-| juice-fruit | Counter-Strike: FURIA vs 9z (BO3) - ESL Pro League Group Stage | FURIA | 1.39 (72¢) | $54,000 | +$21,000 | ✅ Ganada |
