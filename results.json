@@ -70066,5 +70066,35 @@
     "status": "pending",
     "ultimo_fill": 1791564826,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9525,
+    "timestamp": 1791565026,
+    "username": "Netrol",
+    "wallet": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
+    "slug": "cs2-fal2-ts7-2026-10-09",
+    "title": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 26385.1686,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1791565026,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9526,
+    "timestamp": 1791565084,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-fal2-ts7-2026-10-09",
+    "title": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 25946.879999999997,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1791565084,
+    "fills": 1
   }
 ]
