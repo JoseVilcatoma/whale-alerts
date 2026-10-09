@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 00:30:09 (hora de Perú)
+Actualizado: 2026-10-09 00:32:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4629**  ($250,062,914 en total)
+- Apuestas registradas: **4630**  ($250,133,211 en total)
 - Resueltas: **4609** — 2823 ganadas / 1786 perdidas (**61%** de acierto)
-- Pendientes: 2
-- Apostadores distintos: 528
+- Pendientes: 3
+- Apostadores distintos: 529
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | cosmicxbt | 13 | 4 | 0 | 76% | $1,302,328 | +$1,473 |
 
-_(mostrando los 40 de mayor monto, de 528 en total)_
+_(mostrando los 40 de mayor monto, de 529 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Dragon-Evolution | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $70,297 | — | ⏳ Pendiente |
 | kkookkoo | Shanghai Rolex Masters: Adrian Mannarino vs Flavio Cobolli | Flavio Cobolli | 1.54 (65¢) | $25,486 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buccaneers vs. Cowboys | Buccaneers | 1.28 (78¢) | $25,101 | +$7,080 | ✅ Ganada |
 | Lorolorota09 | Buccaneers vs. Cowboys | Buccaneers | 1.35 (74¢) | $32,535 | +$11,431 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.10 (91¢) | $53,605 | +$5,302 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.35 (74¢) | $26,955 | +$9,471 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.28 (78¢) | $49,478 | +$13,955 | ✅ Ganada |
-| ferrariChampions2026 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 2.08 (48¢) | $28,376 | +$30,741 | ✅ Ganada |
