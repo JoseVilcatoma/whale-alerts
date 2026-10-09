@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 08:57:34 (hora de Perú)
+Actualizado: 2026-10-09 08:59:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4650**  ($251,216,006 en total)
-- Resueltas: **4618** — 2829 ganadas / 1789 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **4619** — 2830 ganadas / 1789 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 534
 
 ### Balance
 
-- **Resultado de los apostadores: +$483,627** sobre $249,562,545 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,260** sobre $455,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$512,592** sobre $249,602,545 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,188** sobre $455,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 74 | 38 | 0 | 66% | $4,577,086 | -$104,827 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| BrotherObama | 38 | 39 | 4 | 49% | $3,618,447 | +$124,306 |
+| BrotherObama | 39 | 39 | 3 | 50% | $3,618,447 | +$153,271 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elise Mertens vs Iga Swiatek | Elise Mertens | 1.67 (60¢) | $31,000 | +$20,667 | ✅ Ganada |
 | Eztennis | Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery | Arthur Fery | 2.08 (48¢) | $30,000 | -$30,000 | ❌ Perdida |
 | mbmbbbmbv | Valorant: 100 Thieves vs Nongshim RedForce (BO3) - VCT Champions Playoffs | 100 Thieves | 1.49 (67¢) | $50,758 | — | ⏳ Pendiente |
-| BrotherObama | Map Handicap: VIT (-1.5) vs PARIVISION (+1.5) | Vitality | 1.72 (58¢) | $40,000 | — | ⏳ Pendiente |
+| BrotherObama | Map Handicap: VIT (-1.5) vs PARIVISION (+1.5) | Vitality | 1.72 (58¢) | $40,000 | +$28,966 | ✅ Ganada |
 | Medo3D | Dota 2: Team Spirit vs Aurora - Game 2 Winner | Team Spirit | 1.82 (55¢) | $30,657 | -$30,657 | ❌ Perdida |
 | crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $25,778 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin | Francisco Cerundolo | 1.56 (64¢) | $28,177 | +$15,850 | ✅ Ganada |
