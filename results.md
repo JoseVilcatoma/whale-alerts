@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 11:53:59 (hora de Perú)
+Actualizado: 2026-10-09 11:56:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4662**  ($251,697,476 en total)
-- Resueltas: **4633** — 2836 ganadas / 1797 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **4634** — 2837 ganadas / 1797 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 534
 
 ### Balance
 
-- **Resultado de los apostadores: +$343,133** sobre $250,541,208 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,638** sobre $457,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$347,346** sobre $250,575,296 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,626** sobre $457,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $51,798 | — | ⏳ Pendiente |
 | sulumos | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.38 (42¢) | $25,200 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $89,709 | — | ⏳ Pendiente |
-| yesmate | Palermo: Yanaki Milev vs Carlos Sanchez Jover | Yanaki Milev | 1.12 (89¢) | $34,088 | — | ⏳ Pendiente |
+| yesmate | Palermo: Yanaki Milev vs Carlos Sanchez Jover | Yanaki Milev | 1.12 (89¢) | $34,088 | +$4,213 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.22 (82¢) | $27,282 | +$5,989 | ✅ Ganada |
 | viboomchuu | Penguins vs. Blue Jackets | Penguins | 2.13 (47¢) | $37,707 | — | ⏳ Pendiente |
 | Eztennis | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.70 (37¢) | $32,820 | -$32,820 | ❌ Perdida |
