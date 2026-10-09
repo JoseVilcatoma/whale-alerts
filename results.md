@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 18:54:41 (hora de Perú)
+Actualizado: 2026-10-09 18:56:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4670**  ($251,976,489 en total)
+- Apuestas registradas: **4671**  ($252,034,406 en total)
 - Resueltas: **4646** — 2844 ganadas / 1802 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 534
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Florida State vs. Louisville | Florida State | 1.32 (76¢) | $57,917 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Iowa vs. Washington | Iowa | 2.38 (42¢) | $33,000 | — | ⏳ Pendiente |
 | justwins | Spread: New York Liberty (-3.5) | Atlanta Dream | 2.04 (49¢) | $25,172 | — | ⏳ Pendiente |
 | Sassy-Bucket | Atlanta Dream vs. New York Liberty | Atlanta Dream | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Bruins | Utah | 1.79 (56¢) | $163,621 | -$163,621 | ❌ Perdida |
 | FeedTheBigBird | Missouri State vs. Western Kentucky | Missouri State | 1.92 (52¢) | $48,772 | -$48,772 | ❌ Perdida |
 | kdvlklkvlsklkfs | Antofagasta: Gustavo Heide vs Eduardo Ribeiro | Gustavo Heide | 1.08 (93¢) | $117,108 | -$117,108 | ❌ Perdida |
-| Diabolical-Prize | Dota 2: Aurora vs 1win - Game 2 Winner | 1win | 2.38 (42¢) | $26,460 | -$26,460 | ❌ Perdida |
