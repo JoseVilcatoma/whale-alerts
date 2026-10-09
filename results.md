@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 20:13:26 (hora de Perú)
+Actualizado: 2026-10-08 20:15:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4623**  ($249,776,541 en total)
+- Apuestas registradas: **4624**  ($249,814,556 en total)
 - Resueltas: **4590** — 2813 ganadas / 1777 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 528
 
 ### Balance
@@ -49,8 +49,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 28 | 10 | 0 | 74% | $2,220,597 | +$1,199,855 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
+| mooseborzoii | 30 | 7 | 1 | 81% | $1,935,461 | +$899,210 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
-| mooseborzoii | 30 | 7 | 0 | 81% | $1,897,446 | +$899,210 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | ndb1 | 20 | 11 | 0 | 65% | $1,749,940 | +$343,738 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.47 (68¢) | $38,015 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | South Alabama vs. Arkansas State | South Alabama | 1.30 (77¢) | $27,214 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Buccaneers vs. Cowboys | Buccaneers | 5.00 (20¢) | $30,654 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | South Alabama vs. Arkansas State | Arkansas State | 1.64 (61¢) | $34,806 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.30 (77¢) | $61,600 | +$18,400 | ✅ Ganada |
 | HVAB | Suzhou: Darya Astakhova vs Renata Zarazua | Renata Zarazua | 1.12 (89¢) | $49,956 | +$6,174 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
-| Gourmet1 | Panthers vs. Kings | Kings | 2.04 (49¢) | $32,484 | -$32,484 | ❌ Perdida |
