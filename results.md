@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 18:59:07 (hora de Perú)
+Actualizado: 2026-10-08 19:01:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4618**  ($249,596,691 en total)
+- Apuestas registradas: **4619**  ($249,625,908 en total)
 - Resueltas: **4590** — 2813 ganadas / 1777 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 527
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Diabolical-Prize | 52 | 54 | 0 | 49% | $5,502,358 | -$451,217 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 72 | 38 | 0 | 65% | $4,517,215 | -$231,809 |
+| ferrariChampions2026 | 72 | 38 | 1 | 65% | $4,546,432 | -$231,809 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | BrotherObama | 38 | 39 | 2 | 49% | $3,548,447 | +$124,306 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 527 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Utah vs. Bruins | Bruins | 1.15 (87¢) | $29,217 | — | ⏳ Pendiente |
 | Eztennis | Cleveland Guardians vs. Chicago White Sox | Chicago White Sox | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Arkansas State (-3.5) | South Alabama | 1.89 (53¢) | $75,447 | — | ⏳ Pendiente |
 | Sassy-Bucket | South Alabama vs. Arkansas State | South Alabama | 2.38 (42¢) | $69,604 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 527 en total)_
 | BrotherObama | Panthers vs. Kings | Panthers | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
 | BrotherObama | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 2.22 (45¢) | $25,000 | -$25,000 | ❌ Perdida |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.08 (93¢) | $32,371 | +$2,437 | ✅ Ganada |
-| crispychook99 | LoL: GAM Esports vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage | FlyQuest | 1.39 (72¢) | $32,363 | +$12,586 | ✅ Ganada |
