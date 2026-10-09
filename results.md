@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 20:59:23 (hora de Perú)
+Actualizado: 2026-10-08 21:01:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4625**  ($249,935,590 en total)
-- Resueltas: **4591** — 2814 ganadas / 1777 perdidas (**61%** de acierto)
+- Apuestas registradas: **4626**  ($249,979,792 en total)
+- Resueltas: **4592** — 2815 ganadas / 1777 perdidas (**61%** de acierto)
 - Pendientes: 16
 - Apostadores distintos: 528
 
 ### Balance
 
-- **Resultado de los apostadores: +$609,346** sobre $248,332,863 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,138** sobre $453,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$629,266** sobre $248,362,743 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,072** sobre $453,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 28 | 10 | 0 | 74% | $2,220,597 | +$1,199,855 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
-| mooseborzoii | 30 | 7 | 1 | 81% | $1,935,461 | +$899,210 |
+| mooseborzoii | 30 | 7 | 2 | 81% | $1,979,663 | +$899,210 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 28 | 29 | 0 | 49% | $1,700,765 | -$158,341 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
-| Talvez10 | 18 | 15 | 2 | 55% | $1,634,267 | +$286,003 |
+| Talvez10 | 19 | 15 | 1 | 56% | $1,634,267 | +$305,923 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.56 (64¢) | $44,202 | — | ⏳ Pendiente |
 | Sassy-Bucket | Maple Leafs vs. Golden Knights | Golden Knights | 1.64 (61¢) | $121,033 | — | ⏳ Pendiente |
 | mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.47 (68¢) | $38,015 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | South Alabama vs. Arkansas State | South Alabama | 1.30 (77¢) | $27,214 | — | ⏳ Pendiente |
@@ -92,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 | Eztennis | Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina | Dalibor Svrcina | 2.56 (39¢) | $25,427 | +$39,770 | ✅ Ganada |
 | Talvez10 | Sharks vs. Blues | Blues | 1.72 (58¢) | $42,992 | — | ⏳ Pendiente |
 | Talvez10 | Canucks vs. Hurricanes | Hurricanes | 1.32 (76¢) | $34,840 | +$11,002 | ✅ Ganada |
-| Talvez10 | Flyers vs. Senators | Senators | 1.67 (60¢) | $29,880 | — | ⏳ Pendiente |
+| Talvez10 | Flyers vs. Senators | Senators | 1.67 (60¢) | $29,880 | +$19,920 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Braga: Oleksii Krutykh vs Luka Mikrut | Luka Mikrut | 1.27 (79¢) | $33,152 | +$8,813 | ✅ Ganada |
 | ferrariChampions2026 | Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta | Pablo Carreno Busta | 2.17 (46¢) | $56,280 | +$66,068 | ✅ Ganada |
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta | Mariano Navone | 1.96 (51¢) | $39,715 | -$39,715 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Alex Molcan vs Federico Cina | Alex Molcan | 1.32 (76¢) | $71,851 | +$22,690 | ✅ Ganada |
 | tenniz | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.12 (89¢) | $94,243 | +$11,648 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.30 (77¢) | $61,600 | +$18,400 | ✅ Ganada |
-| HVAB | Suzhou: Darya Astakhova vs Renata Zarazua | Renata Zarazua | 1.12 (89¢) | $49,956 | +$6,174 | ✅ Ganada |
