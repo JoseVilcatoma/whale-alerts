@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 10:16:44 (hora de Perú)
+Actualizado: 2026-10-09 10:18:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4655**  ($251,384,298 en total)
-- Resueltas: **4623** — 2830 ganadas / 1793 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **4624** — 2831 ganadas / 1793 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 534
 
 ### Balance
 
-- **Resultado de los apostadores: +$211,311** sobre $249,903,825 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,588** sobre $456,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$236,312** sobre $249,954,584 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,538** sobre $456,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | rookie765 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $36,207 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elise Mertens vs Iga Swiatek | Elise Mertens | 1.67 (60¢) | $31,000 | +$20,667 | ✅ Ganada |
 | Eztennis | Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery | Arthur Fery | 2.08 (48¢) | $30,000 | -$30,000 | ❌ Perdida |
-| mbmbbbmbv | Valorant: 100 Thieves vs Nongshim RedForce (BO3) - VCT Champions Playoffs | 100 Thieves | 1.49 (67¢) | $50,758 | — | ⏳ Pendiente |
+| mbmbbbmbv | Valorant: 100 Thieves vs Nongshim RedForce (BO3) - VCT Champions Playoffs | 100 Thieves | 1.49 (67¢) | $50,758 | +$25,000 | ✅ Ganada |
 | BrotherObama | Map Handicap: VIT (-1.5) vs PARIVISION (+1.5) | Vitality | 1.72 (58¢) | $40,000 | +$28,966 | ✅ Ganada |
 | Medo3D | Dota 2: Team Spirit vs Aurora - Game 2 Winner | Team Spirit | 1.82 (55¢) | $30,657 | -$30,657 | ❌ Perdida |
 | crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $25,778 | — | ⏳ Pendiente |
