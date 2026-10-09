@@ -69646,5 +69646,20 @@
     "status": "pending",
     "ultimo_fill": 1791535796,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9474,
+    "timestamp": 1791539155,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-gl1-sin2-2026-10-09",
+    "title": "Counter-Strike: GamerLegion vs Sinners (BO3) - 1win Private Club #2: Closed Qualifier Playoffs",
+    "outcome": "Sinners",
+    "side": "BUY",
+    "usd": 28700.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1791539155,
+    "fills": 1
   }
 ]

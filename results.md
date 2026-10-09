@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 04:45:10 (hora de Perú)
+Actualizado: 2026-10-09 04:47:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4634**  ($250,258,390 en total)
+- Apuestas registradas: **4635**  ($250,287,090 en total)
 - Resueltas: **4612** — 2825 ganadas / 1787 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 530
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Diabolical-Prize | 52 | 54 | 0 | 49% | $5,502,358 | -$451,217 |
+| Diabolical-Prize | 52 | 54 | 1 | 49% | $5,531,058 | -$451,217 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 74 | 38 | 0 | 66% | $4,577,086 | -$104,827 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 530 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: GamerLegion vs Sinners (BO3) - 1win Private Club #2: Closed Qualifier Playoffs | Sinners | 2.44 (41¢) | $28,700 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: Vitality vs PARIVISION (BO3) - ESL Pro League Playoffs | Vitality | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
 | Xyp9xFan | Counter-Strike: 1WIN vs Aurora Gaming (BO3) - ESL Pro League Playoffs | Aurora Gaming | 1.41 (71¢) | $30,979 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Shanghai Rolex Masters: Alexander Zverev vs Yibing Wu | Alexander Zverev | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 530 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.52 (66¢) | $25,000 | -$25,000 | ❌ Perdida |
 | yupiiiiiiiii | China Open: Alina Charaeva vs Qinwen Zheng | Qinwen Zheng | 1.11 (90¢) | $47,039 | +$5,227 | ✅ Ganada |
 | juice-fruit | Counter-Strike: FURIA vs 9z (BO3) - ESL Pro League Group Stage | FURIA | 1.39 (72¢) | $54,000 | +$21,000 | ✅ Ganada |
-| Diabolical-Prize | Valorant: Paper Rex vs LOUD (BO3) - VCT Champions Playoffs | LOUD | 2.13 (47¢) | $28,200 | +$31,800 | ✅ Ganada |
