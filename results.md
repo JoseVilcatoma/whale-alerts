@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 11:58:09 (hora de Perú)
+Actualizado: 2026-10-09 12:00:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4664**  ($251,749,808 en total)
+- Apuestas registradas: **4665**  ($251,790,808 en total)
 - Resueltas: **4634** — 2837 ganadas / 1797 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 534
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 341 | 178 | 3 | 66% | $32,522,698 | +$871,385 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 341 | 178 | 4 | 66% | $32,563,698 | +$871,385 |
 | Sassy-Bucket | 65 | 59 | 0 | 52% | $6,952,704 | -$498,191 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 0 | 52% | $6,856,875 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $25,947 | — | ⏳ Pendiente |
 | Netrol | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.38 (42¢) | $26,385 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $27,573 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Sunshine.Smile | Dota 2: Aurora vs 1win - Game 2 Winner | Aurora | 1.92 (52¢) | $27,289 | +$25,190 | ✅ Ganada |
 | Eztennis | Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina | Dalibor Svrcina | 2.56 (39¢) | $25,427 | +$39,770 | ✅ Ganada |
 | Talvez10 | Sharks vs. Blues | Blues | 1.72 (58¢) | $42,992 | -$42,992 | ❌ Perdida |
-| Talvez10 | Canucks vs. Hurricanes | Hurricanes | 1.32 (76¢) | $34,840 | +$11,002 | ✅ Ganada |
