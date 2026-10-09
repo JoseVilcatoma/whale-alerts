@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 19:13:37 (hora de Perú)
+Actualizado: 2026-10-08 19:15:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4619**  ($249,625,908 en total)
+- Apuestas registradas: **4620**  ($249,683,867 en total)
 - Resueltas: **4590** — 2813 ganadas / 1777 perdidas (**61%** de acierto)
-- Pendientes: 11
-- Apostadores distintos: 527
+- Pendientes: 12
+- Apostadores distintos: 528
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | cosmicxbt | 13 | 4 | 0 | 76% | $1,302,328 | +$1,473 |
 
-_(mostrando los 40 de mayor monto, de 527 en total)_
+_(mostrando los 40 de mayor monto, de 528 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Buccaneers vs. Cowboys | Cowboys | 1.23 (81¢) | $57,959 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Utah vs. Bruins | Bruins | 1.15 (87¢) | $29,217 | — | ⏳ Pendiente |
 | Eztennis | Cleveland Guardians vs. Chicago White Sox | Chicago White Sox | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Arkansas State (-3.5) | South Alabama | 1.89 (53¢) | $75,447 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 527 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. San Diego Padres | San Diego Padres | 1.82 (55¢) | $28,471 | +$23,294 | ✅ Ganada |
 | BrotherObama | Panthers vs. Kings | Panthers | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
 | BrotherObama | Milwaukee Brewers vs. San Diego Padres | Milwaukee Brewers | 2.22 (45¢) | $25,000 | -$25,000 | ❌ Perdida |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.08 (93¢) | $32,371 | +$2,437 | ✅ Ganada |
