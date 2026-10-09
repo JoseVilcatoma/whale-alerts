@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 08:15:41 (hora de Perú)
+Actualizado: 2026-10-09 08:17:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4647**  ($250,949,224 en total)
+- Apuestas registradas: **4647**  ($251,020,504 en total)
 - Resueltas: **4616** — 2827 ganadas / 1789 perdidas (**61%** de acierto)
 - Pendientes: 13
 - Apostadores distintos: 534
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| crazyoddslover | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.92 (52¢) | $93,446 | — | ⏳ Pendiente |
+| crazyoddslover | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.92 (52¢) | $164,725 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Washington (-2.5) | Washington | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
 | Eztennis | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 2.04 (49¢) | $46,758 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $219,354 | — | ⏳ Pendiente |
