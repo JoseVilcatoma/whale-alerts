@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 12:00:14 (hora de Perú)
+Actualizado: 2026-10-09 12:02:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4665**  ($251,790,808 en total)
+- Apuestas registradas: **4666**  ($251,820,316 en total)
 - Resueltas: **4634** — 2837 ganadas / 1797 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 534
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hansama231 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.44 (41¢) | $29,508 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $25,947 | — | ⏳ Pendiente |
 | Netrol | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.38 (42¢) | $26,385 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | kdvlklkvlsklkfs | Villena: Max Hans Rehberg vs Hynek Barton | Max Hans Rehberg | 1.72 (58¢) | $37,698 | -$37,698 | ❌ Perdida |
 | Sunshine.Smile | Dota 2: Aurora vs 1win - Game 2 Winner | Aurora | 1.92 (52¢) | $27,289 | +$25,190 | ✅ Ganada |
 | Eztennis | Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina | Dalibor Svrcina | 2.56 (39¢) | $25,427 | +$39,770 | ✅ Ganada |
-| Talvez10 | Sharks vs. Blues | Blues | 1.72 (58¢) | $42,992 | -$42,992 | ❌ Perdida |
