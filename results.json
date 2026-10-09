@@ -69796,5 +69796,20 @@
     "status": "pending",
     "ultimo_fill": 1791550145,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9489,
+    "timestamp": 1791550929,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "atp-zhou-musetti-2026-10-09",
+    "title": "Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti",
+    "outcome": "Lorenzo Musetti",
+    "side": "BUY",
+    "usd": 46757.8556,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791550929,
+    "fills": 1
   }
 ]
