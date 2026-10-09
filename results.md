@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 17:49:00 (hora de Perú)
+Actualizado: 2026-10-09 17:51:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4668**  ($251,918,316 en total)
+- Apuestas registradas: **4669**  ($251,943,489 en total)
 - Resueltas: **4646** — 2844 ganadas / 1802 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 534
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | Spread: New York Liberty (-3.5) | Atlanta Dream | 2.04 (49¢) | $25,172 | — | ⏳ Pendiente |
 | Sassy-Bucket | Atlanta Dream vs. New York Liberty | Atlanta Dream | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.69 (59¢) | $59,000 | +$41,000 | ✅ Ganada |
 | hansama231 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.44 (41¢) | $29,508 | -$29,508 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | kdvlklkvlsklkfs | Antofagasta: Gustavo Heide vs Eduardo Ribeiro | Gustavo Heide | 1.08 (93¢) | $117,108 | -$117,108 | ❌ Perdida |
 | Diabolical-Prize | Dota 2: Aurora vs 1win - Game 2 Winner | 1win | 2.38 (42¢) | $26,460 | -$26,460 | ❌ Perdida |
 | ThorinCSGO | Dota 2: Aurora vs 1win - Game 2 Winner | Aurora | 1.69 (59¢) | $30,297 | +$21,054 | ✅ Ganada |
-| kdvlklkvlsklkfs | Villena: Max Hans Rehberg vs Hynek Barton | Max Hans Rehberg | 1.72 (58¢) | $37,698 | -$37,698 | ❌ Perdida |
