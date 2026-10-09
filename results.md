@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 08:13:35 (hora de Perú)
+Actualizado: 2026-10-09 08:15:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4646**  ($250,855,779 en total)
+- Apuestas registradas: **4647**  ($250,949,224 en total)
 - Resueltas: **4616** — 2827 ganadas / 1789 perdidas (**61%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 533
+- Pendientes: 13
+- Apostadores distintos: 534
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | cosmicxbt | 13 | 4 | 0 | 76% | $1,302,328 | +$1,473 |
 
-_(mostrando los 40 de mayor monto, de 533 en total)_
+_(mostrando los 40 de mayor monto, de 534 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| crazyoddslover | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.92 (52¢) | $93,446 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Washington (-2.5) | Washington | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
 | Eztennis | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 2.04 (49¢) | $46,758 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $219,354 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 533 en total)_
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.69 (59¢) | $49,000 | +$34,051 | ✅ Ganada |
 | monkeymashingkeyboard | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 1.72 (58¢) | $26,083 | +$18,888 | ✅ Ganada |
 | sulumos | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 1.28 (78¢) | $34,532 | +$9,740 | ✅ Ganada |
-| Noprajsk | Counter-Strike: PARIVISION vs Natus Vincere - Map 2 Winner | PARIVISION | 1.89 (53¢) | $26,948 | +$23,897 | ✅ Ganada |
