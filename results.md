@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 07:48:41 (hora de Perú)
+Actualizado: 2026-10-09 07:50:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4642**  ($250,523,460 en total)
+- Apuestas registradas: **4644**  ($250,779,021 en total)
 - Resueltas: **4615** — 2827 ganadas / 1788 perdidas (**61%** de acierto)
-- Pendientes: 9
-- Apostadores distintos: 532
+- Pendientes: 11
+- Apostadores distintos: 533
 
 ### Balance
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
-| Lakersfan111 | 39 | 22 | 1 | 64% | $2,737,319 | +$171,167 |
+| Lakersfan111 | 39 | 22 | 2 | 64% | $2,956,672 | +$171,167 |
 | maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | cosmicxbt | 13 | 4 | 0 | 76% | $1,302,328 | +$1,473 |
 
-_(mostrando los 40 de mayor monto, de 532 en total)_
+_(mostrando los 40 de mayor monto, de 533 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $219,354 | — | ⏳ Pendiente |
+| rookie765 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $36,207 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elise Mertens vs Iga Swiatek | Elise Mertens | 1.67 (60¢) | $31,000 | — | ⏳ Pendiente |
 | Eztennis | Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery | Arthur Fery | 2.08 (48¢) | $30,000 | — | ⏳ Pendiente |
 | mbmbbbmbv | Valorant: 100 Thieves vs Nongshim RedForce (BO3) - VCT Champions Playoffs | 100 Thieves | 1.49 (67¢) | $50,758 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 532 en total)_
 | Noprajsk | Counter-Strike: PARIVISION vs Natus Vincere - Map 2 Winner | PARIVISION | 1.89 (53¢) | $26,948 | +$23,897 | ✅ Ganada |
 | 0xc1acc1 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.14 (88¢) | $31,844 | -$31,844 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Chicago White Sox | Cleveland Guardians | 2.08 (48¢) | $26,936 | +$29,180 | ✅ Ganada |
-| 0xheavy888 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.33 (75¢) | $30,000 | -$30,000 | ❌ Perdida |
-| Mastermoney | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Holger Rune | 1.89 (53¢) | $32,203 | -$32,203 | ❌ Perdida |

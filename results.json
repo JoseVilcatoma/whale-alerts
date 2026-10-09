@@ -69766,5 +69766,35 @@
     "status": "pending",
     "ultimo_fill": 1791548234,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9486,
+    "timestamp": 1791550129,
+    "username": "rookie765",
+    "wallet": "0xf1c9a36fd5e982f27337a8692c78b2b1b2e3363f",
+    "slug": "cs2-furia-mouz-2026-10-09",
+    "title": "Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 36207.2262,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1791550129,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9487,
+    "timestamp": 1791550145,
+    "username": "crispychook99",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-furia-mouz-2026-10-09",
+    "title": "Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 219353.62199999997,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1791550145,
+    "fills": 1
   }
 ]
