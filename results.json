@@ -69976,5 +69976,20 @@
     "status": "pending",
     "ultimo_fill": 1791560994,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9509,
+    "timestamp": 1791562538,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-fal2-ts7-2026-10-09",
+    "title": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 28999.999999999996,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1791562538,
+    "fills": 1
   }
 ]
