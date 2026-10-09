@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 23:08:42 (hora de Perú)
+Actualizado: 2026-10-08 23:10:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4629**  ($250,062,914 en total)
-- Resueltas: **4607** — 2822 ganadas / 1785 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **4608** — 2822 ganadas / 1786 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 528
 
 ### Balance
 
-- **Resultado de los apostadores: +$477,418** sobre $249,121,011 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,137** sobre $454,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$427,418** sobre $249,171,011 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,237** sobre $454,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 | TAIWANNUMBERONE | South Alabama vs. Arkansas State | Arkansas State | 1.64 (61¢) | $34,806 | -$34,806 | ❌ Perdida |
 | milkteaboba | Buccaneers vs. Cowboys | Cowboys | 1.23 (81¢) | $57,959 | -$57,959 | ❌ Perdida |
 | ferrariChampions2026 | Utah vs. Bruins | Bruins | 1.15 (87¢) | $29,217 | +$4,366 | ✅ Ganada |
-| Eztennis | Cleveland Guardians vs. Chicago White Sox | Chicago White Sox | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
+| Eztennis | Cleveland Guardians vs. Chicago White Sox | Chicago White Sox | 2.04 (49¢) | $50,000 | -$50,000 | ❌ Perdida |
 | Sassy-Bucket | Spread: Arkansas State (-3.5) | South Alabama | 1.89 (53¢) | $75,447 | +$66,906 | ✅ Ganada |
 | Sassy-Bucket | South Alabama vs. Arkansas State | South Alabama | 2.38 (42¢) | $69,604 | +$96,120 | ✅ Ganada |
 | Sassy-Bucket | Blackhawks vs. Islanders | Blackhawks | 2.63 (38¢) | $38,129 | -$38,129 | ❌ Perdida |
