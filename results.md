@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 06:40:36 (hora de Perú)
+Actualizado: 2026-10-09 06:42:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4637**  ($250,341,045 en total)
+- Apuestas registradas: **4639**  ($250,411,702 en total)
 - Resueltas: **4614** — 2827 ganadas / 1787 perdidas (**61%** de acierto)
-- Pendientes: 5
-- Apostadores distintos: 530
+- Pendientes: 7
+- Apostadores distintos: 531
 
 ### Balance
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 74 | 38 | 0 | 66% | $4,577,086 | -$104,827 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| BrotherObama | 38 | 39 | 2 | 49% | $3,548,447 | +$124,306 |
+| BrotherObama | 38 | 39 | 3 | 49% | $3,588,447 | +$124,306 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | cosmicxbt | 13 | 4 | 0 | 76% | $1,302,328 | +$1,473 |
 
-_(mostrando los 40 de mayor monto, de 530 en total)_
+_(mostrando los 40 de mayor monto, de 531 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Map Handicap: VIT (-1.5) vs PARIVISION (+1.5) | Vitality | 1.72 (58¢) | $40,000 | — | ⏳ Pendiente |
+| Medo3D | Dota 2: Team Spirit vs Aurora - Game 2 Winner | Team Spirit | 1.82 (55¢) | $30,657 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $25,778 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin | Francisco Cerundolo | 1.56 (64¢) | $28,177 | +$15,850 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: GamerLegion vs Sinners (BO3) - 1win Private Club #2: Closed Qualifier Playoffs | Sinners | 2.44 (41¢) | $28,700 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 530 en total)_
 | HVAB | Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier | Daniel Altmaier | 1.85 (54¢) | $33,185 | +$28,269 | ✅ Ganada |
 | viboomchuu | Oilers vs. Ducks | Ducks | 2.22 (45¢) | $35,335 | -$35,335 | ❌ Perdida |
 | 0xc1acc1 | China Open: Ann Li vs Elina Svitolina | Elina Svitolina | 1.12 (89¢) | $39,413 | +$4,871 | ✅ Ganada |
-| Ancient-Strike | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | PARIVISION | 2.94 (34¢) | $27,418 | +$53,222 | ✅ Ganada |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pro League Group Stage | Natus Vincere | 1.52 (66¢) | $25,000 | -$25,000 | ❌ Perdida |
