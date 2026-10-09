@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 07:50:45 (hora de Perú)
+Actualizado: 2026-10-09 07:52:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4644**  ($250,779,021 en total)
-- Resueltas: **4615** — 2827 ganadas / 1788 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **4616** — 2827 ganadas / 1789 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 533
 
 ### Balance
 
-- **Resultado de los apostadores: +$484,960** sobre $249,459,545 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,246** sobre $455,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$454,960** sobre $249,489,545 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,346** sobre $455,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 533 en total)_
 | crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $219,354 | — | ⏳ Pendiente |
 | rookie765 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $36,207 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elise Mertens vs Iga Swiatek | Elise Mertens | 1.67 (60¢) | $31,000 | — | ⏳ Pendiente |
-| Eztennis | Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery | Arthur Fery | 2.08 (48¢) | $30,000 | — | ⏳ Pendiente |
+| Eztennis | Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery | Arthur Fery | 2.08 (48¢) | $30,000 | -$30,000 | ❌ Perdida |
 | mbmbbbmbv | Valorant: 100 Thieves vs Nongshim RedForce (BO3) - VCT Champions Playoffs | 100 Thieves | 1.49 (67¢) | $50,758 | — | ⏳ Pendiente |
 | BrotherObama | Map Handicap: VIT (-1.5) vs PARIVISION (+1.5) | Vitality | 1.72 (58¢) | $40,000 | — | ⏳ Pendiente |
 | Medo3D | Dota 2: Team Spirit vs Aurora - Game 2 Winner | Team Spirit | 1.82 (55¢) | $30,657 | -$30,657 | ❌ Perdida |
