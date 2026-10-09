@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 00:17:56 (hora de Perú)
+Actualizado: 2026-10-09 00:19:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4629**  ($250,062,914 en total)
-- Resueltas: **4608** — 2822 ganadas / 1786 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Resueltas: **4609** — 2823 ganadas / 1786 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 528
 
 ### Balance
 
-- **Resultado de los apostadores: +$427,418** sobre $249,171,011 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,237** sobre $454,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$504,800** sobre $249,292,045 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,173** sobre $454,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 338 | 178 | 3 | 66% | $32,439,498 | +$842,918 |
-| Sassy-Bucket | 64 | 59 | 1 | 52% | $6,952,704 | -$575,573 |
+| Sassy-Bucket | 65 | 59 | 0 | 52% | $6,952,704 | -$498,191 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 0 | 52% | $6,856,875 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buccaneers vs. Cowboys | Buccaneers | 1.28 (78¢) | $25,101 | +$7,080 | ✅ Ganada |
 | Lorolorota09 | Buccaneers vs. Cowboys | Buccaneers | 1.35 (74¢) | $32,535 | +$11,431 | ✅ Ganada |
 | mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.56 (64¢) | $44,202 | -$44,202 | ❌ Perdida |
-| Sassy-Bucket | Maple Leafs vs. Golden Knights | Golden Knights | 1.64 (61¢) | $121,033 | — | ⏳ Pendiente |
+| Sassy-Bucket | Maple Leafs vs. Golden Knights | Golden Knights | 1.64 (61¢) | $121,033 | +$77,382 | ✅ Ganada |
 | mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.47 (68¢) | $38,015 | -$38,015 | ❌ Perdida |
 | TAIWANNUMBERONE | South Alabama vs. Arkansas State | South Alabama | 1.30 (77¢) | $27,214 | +$8,129 | ✅ Ganada |
 | ferrariChampions2026 | Buccaneers vs. Cowboys | Buccaneers | 5.00 (20¢) | $30,654 | +$122,616 | ✅ Ganada |
