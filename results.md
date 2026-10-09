@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 02:09:59 (hora de Perú)
+Actualizado: 2026-10-09 02:12:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4630**  ($250,133,211 en total)
-- Resueltas: **4609** — 2823 ganadas / 1786 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Resueltas: **4610** — 2823 ganadas / 1787 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 529
 
 ### Balance
 
-- **Resultado de los apostadores: +$504,800** sobre $249,292,045 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,173** sobre $454,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$479,314** sobre $249,317,531 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,273** sobre $455,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 529 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Dragon-Evolution | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $70,297 | — | ⏳ Pendiente |
-| kkookkoo | Shanghai Rolex Masters: Adrian Mannarino vs Flavio Cobolli | Flavio Cobolli | 1.54 (65¢) | $25,486 | — | ⏳ Pendiente |
+| kkookkoo | Shanghai Rolex Masters: Adrian Mannarino vs Flavio Cobolli | Flavio Cobolli | 1.54 (65¢) | $25,486 | -$25,486 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buccaneers vs. Cowboys | Buccaneers | 1.28 (78¢) | $25,101 | +$7,080 | ✅ Ganada |
 | Lorolorota09 | Buccaneers vs. Cowboys | Buccaneers | 1.35 (74¢) | $32,535 | +$11,431 | ✅ Ganada |
 | mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.56 (64¢) | $44,202 | -$44,202 | ❌ Perdida |
