@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 11:20:30 (hora de Perú)
+Actualizado: 2026-10-09 11:22:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4657**  ($251,508,094 en total)
+- Apuestas registradas: **4658**  ($251,533,294 en total)
 - Resueltas: **4624** — 2831 ganadas / 1793 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 534
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sulumos | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.38 (42¢) | $25,200 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $89,709 | — | ⏳ Pendiente |
 | yesmate | Palermo: Yanaki Milev vs Carlos Sanchez Jover | Yanaki Milev | 1.12 (89¢) | $34,088 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.22 (82¢) | $27,282 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta | Mariano Navone | 1.96 (51¢) | $39,715 | -$39,715 | ❌ Perdida |
 | crispychook99 | LoL: FlyQuest vs RED Canids (BO3) - Demacia Cup Global Invitational Group Stage | FlyQuest | 1.19 (84¢) | $36,774 | +$7,005 | ✅ Ganada |
 | Diabolical-Prize | LoL: Natus Vincere vs JD Gaming (BO3) - Demacia Cup Global Invitational Group Stage | JD Gaming | 1.37 (73¢) | $219,000 | +$81,000 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Milwaukee Brewers (-1.5) | San Diego Padres | 1.56 (64¢) | $31,968 | -$31,968 | ❌ Perdida |
