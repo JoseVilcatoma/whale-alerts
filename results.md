@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-08 21:18:06 (hora de Perú)
+Actualizado: 2026-10-08 21:20:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4627**  ($250,012,327 en total)
+- Apuestas registradas: **4628**  ($250,037,428 en total)
 - Resueltas: **4594** — 2816 ganadas / 1778 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 528
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 337 | 178 | 3 | 65% | $32,414,397 | +$835,839 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 337 | 178 | 4 | 65% | $32,439,498 | +$835,839 |
 | Sassy-Bucket | 62 | 58 | 4 | 52% | $6,952,704 | -$700,470 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 0 | 52% | $6,856,875 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buccaneers vs. Cowboys | Buccaneers | 1.28 (78¢) | $25,101 | — | ⏳ Pendiente |
 | Lorolorota09 | Buccaneers vs. Cowboys | Buccaneers | 1.35 (74¢) | $32,535 | — | ⏳ Pendiente |
 | mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.56 (64¢) | $44,202 | — | ⏳ Pendiente |
 | Sassy-Bucket | Maple Leafs vs. Golden Knights | Golden Knights | 1.64 (61¢) | $121,033 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 528 en total)_
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | China Open: Coco Gauff vs Elise Mertens | Elise Mertens | 1.28 (78¢) | $49,478 | +$13,955 | ✅ Ganada |
 | ferrariChampions2026 | Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac | Tomas Machac | 2.08 (48¢) | $28,376 | +$30,741 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Alex Molcan vs Federico Cina | Alex Molcan | 1.32 (76¢) | $71,851 | +$22,690 | ✅ Ganada |
-| tenniz | Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili | Adrian Mannarino | 1.12 (89¢) | $94,243 | +$11,648 | ✅ Ganada |
