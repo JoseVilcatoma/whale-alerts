@@ -70246,5 +70246,20 @@
     "status": "pending",
     "ultimo_fill": 1791595136,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9551,
+    "timestamp": 1791597593,
+    "username": "Hashbrown",
+    "wallet": "0xa52b785a5510117ac3ae03d75d029f89a36c9480",
+    "slug": "cfb-iowa-wash-2026-10-09",
+    "title": "Iowa vs. Washington",
+    "outcome": "Iowa",
+    "side": "BUY",
+    "usd": 27300.0,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1791597593,
+    "fills": 1
   }
 ]
