@@ -70291,5 +70291,20 @@
     "status": "pending",
     "ultimo_fill": 1791600423,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9558,
+    "timestamp": 1791601032,
+    "username": "CHZHSHCH",
+    "wallet": "0x385edd359037625b95dd057794ba3ea25a9c40ce",
+    "slug": "wnba-gsv-las-2026-10-09",
+    "title": "Golden State Valkyries vs. Las Vegas Aces",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "usd": 211781.77240000002,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1791601032,
+    "fills": 2
   }
 ]

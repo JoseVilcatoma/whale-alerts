@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 21:55:40 (hora de Perú)
+Actualizado: 2026-10-09 21:57:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4677**  ($252,224,585 en total)
+- Apuestas registradas: **4678**  ($252,436,367 en total)
 - Resueltas: **4650** — 2847 ganadas / 1803 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 534
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CHZHSHCH | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 2.27 (44¢) | $211,782 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.23 (81¢) | $31,815 | — | ⏳ Pendiente |
 | Nooserac | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.22 (82¢) | $27,427 | — | ⏳ Pendiente |
 | Hashbrown | Iowa vs. Washington | Iowa | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | TAIWANNUMBERONE | South Alabama vs. Arkansas State | Arkansas State | 1.64 (61¢) | $34,806 | -$34,806 | ❌ Perdida |
 | milkteaboba | Buccaneers vs. Cowboys | Cowboys | 1.23 (81¢) | $57,959 | -$57,959 | ❌ Perdida |
 | ferrariChampions2026 | Utah vs. Bruins | Bruins | 1.15 (87¢) | $29,217 | +$4,366 | ✅ Ganada |
-| Eztennis | Cleveland Guardians vs. Chicago White Sox | Chicago White Sox | 2.04 (49¢) | $50,000 | -$50,000 | ❌ Perdida |
