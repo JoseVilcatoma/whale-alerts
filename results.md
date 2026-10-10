@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 17:38:40 (hora de Perú)
+Actualizado: 2026-10-10 17:40:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4779**  ($257,154,499 en total)
+- Apuestas registradas: **4780**  ($257,195,789 en total)
 - Resueltas: **4728** — 2902 ganadas / 1826 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 542
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 177-letsgo | Texas vs. Oklahoma | Texas | 1.75 (57¢) | $41,290 | — | ⏳ Pendiente |
 | mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $108,087 | — | ⏳ Pendiente |
 | mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $56,517 | — | ⏳ Pendiente |
 | Gourmet1 | Red Wings vs. Canadiens | Red Wings | 2.78 (36¢) | $36,753 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | Flaznorp | Will FC Internazionale Milano win on 2026-10-10? | Yes | 1.20 (83¢) | $33,660 | +$6,894 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Kansas State (-2.5) | Houston | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | tikstt2 | Will Fulham FC win on 2026-10-10? | No | 1.56 (64¢) | $45,625 | +$25,664 | ✅ Ganada |
-| vtcchampion52 | Dota 2: PARIVISION vs Aurora (BO3) - BLAST Slam Playoffs | PARIVISION | 1.14 (88¢) | $30,169 | +$4,114 | ✅ Ganada |
