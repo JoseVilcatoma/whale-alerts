@@ -71626,5 +71626,20 @@
     "status": "pending",
     "ultimo_fill": 1791664232,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9708,
+    "timestamp": 1791665304,
+    "username": "MinevaJ",
+    "wallet": "0x9e3ae3f398205723ae2fafbe7522a5de2edbe974",
+    "slug": "lal-rea-vil-2026-10-10-rea",
+    "title": "Will Real Madrid CF win on 2026-10-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 30423.027199999997,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1791665304,
+    "fills": 1
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 15:47:33 (hora de Perú)
+Actualizado: 2026-10-10 15:49:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4766**  ($256,514,013 en total)
+- Apuestas registradas: **4767**  ($256,544,436 en total)
 - Resueltas: **4717** — 2893 ganadas / 1824 perdidas (**61%** de acierto)
-- Pendientes: 31
-- Apostadores distintos: 541
+- Pendientes: 32
+- Apostadores distintos: 542
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Elaran1993 | 10 | 8 | 0 | 56% | $1,309,851 | +$248,205 |
 
-_(mostrando los 40 de mayor monto, de 541 en total)_
+_(mostrando los 40 de mayor monto, de 542 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MinevaJ | Will Real Madrid CF win on 2026-10-10? | Yes | 1.14 (88¢) | $30,423 | — | ⏳ Pendiente |
 | curie | Will Real Madrid CF win on 2026-10-10? | Yes | 1.11 (90¢) | $78,247 | — | ⏳ Pendiente |
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.15 (87¢) | $26,099 | — | ⏳ Pendiente |
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.28 (78¢) | $83,158 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 | Sunshine.Smile | Counter-Strike: Aurora Gaming vs Vitality - Map 2 Winner | Vitality | 1.33 (75¢) | $26,382 | +$8,794 | ✅ Ganada |
 | beeemw | Will Deportivo Alavés win on 2026-10-10? | No | 1.25 (80¢) | $36,800 | +$9,200 | ✅ Ganada |
 | fantasy7788 | Map Handicap: VIT (-1.5) vs Aurora Gaming (+1.5) | Aurora Gaming | 1.85 (54¢) | $30,000 | +$25,556 | ✅ Ganada |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.30 (77¢) | $30,000 | +$8,961 | ✅ Ganada |
