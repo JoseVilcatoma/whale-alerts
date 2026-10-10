@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 11:26:39 (hora de Perú)
+Actualizado: 2026-10-10 11:28:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4740**  ($255,296,242 en total)
+- Apuestas registradas: **4741**  ($255,327,289 en total)
 - Resueltas: **4672** — 2858 ganadas / 1814 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 540
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 540 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AnonymousUsername | Will Manchester United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.30 (77¢) | $31,047 | — | ⏳ Pendiente |
 | ethBELIVER | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.16 (86¢) | $34,400 | — | ⏳ Pendiente |
 | chubbytoro | Flyers vs. Bruins | Bruins | 1.79 (56¢) | $134,214 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.49 (67¢) | $182,662 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 540 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: North Dakota State (-3.5) | UNLV | 1.72 (58¢) | $25,894 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | Dota 2: Team Yandex vs Team Spirit (BO3) - BLAST Slam Playoffs | Team Yandex | 1.61 (62¢) | $27,893 | +$17,096 | ✅ Ganada |
 | crispychook99 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Aurora Gaming | 4.17 (24¢) | $40,700 | — | ⏳ Pendiente |
-| ndb1 | Will Chelsea FC win on 2026-10-10? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | ndb1 | Will Chelsea FC win on 2026-10-10? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |

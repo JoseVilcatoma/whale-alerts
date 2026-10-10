@@ -71236,5 +71236,20 @@
     "status": "pending",
     "ultimo_fill": 1791649581,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9645,
+    "timestamp": 1791649697,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "epl-mun-tot-2026-10-10-draw",
+    "title": "Will Manchester United FC vs. Tottenham Hotspur FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 31047.170000000002,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1791649697,
+    "fills": 1
   }
 ]
