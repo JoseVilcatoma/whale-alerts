@@ -70456,5 +70456,35 @@
     "status": "pending",
     "ultimo_fill": 1791624704,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9580,
+    "timestamp": 1791629653,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "lal-ray-bil-2026-10-10-ray",
+    "title": "Will Rayo Vallecano de Madrid win on 2026-10-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 63936.1503,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1791629653,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9581,
+    "timestamp": 1791628843,
+    "username": "beeemw",
+    "wallet": "0x1e386b0e0f1fc58c67ce738d7bbc4ba7ec74fd47",
+    "slug": "epl-ars-lee-2026-10-10-lee",
+    "title": "Will Leeds United FC win on 2026-10-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 33375.0,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1791628843,
+    "fills": 1
   }
 ]

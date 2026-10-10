@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 05:58:23 (hora de Perú)
+Actualizado: 2026-10-10 06:00:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4688**  ($252,768,975 en total)
+- Apuestas registradas: **4690**  ($252,866,286 en total)
 - Resueltas: **4659** — 2849 ganadas / 1810 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 13
 - Apostadores distintos: 534
 
 ### Balance
@@ -45,8 +45,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
+| Kch-Temp | 28 | 10 | 1 | 74% | $2,284,533 | +$1,199,855 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
-| Kch-Temp | 28 | 10 | 0 | 74% | $2,220,597 | +$1,199,855 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
 | mooseborzoii | 30 | 9 | 0 | 77% | $1,979,663 | +$816,993 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Will Rayo Vallecano de Madrid win on 2026-10-10? | No | 1.49 (67¢) | $63,936 | — | ⏳ Pendiente |
+| beeemw | Will Leeds United FC win on 2026-10-10? | No | 1.12 (89¢) | $33,375 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | Counter-Strike: HOTU vs fnatic (BO3) - 1win Private Club #2: Closed Qualifier Playoffs | HOTU | 2.04 (49¢) | $25,098 | — | ⏳ Pendiente |
 | Diabolical-Prize | Valorant: NRG vs LOUD (BO3) - VCT Champions Playoffs | NRG | 1.75 (57¢) | $64,869 | — | ⏳ Pendiente |
 | omnibus-076daa | Valorant: NRG vs LOUD (BO3) - VCT Champions Playoffs | LOUD | 2.33 (43¢) | $38,712 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Xyp9xFan | Counter-Strike: 1WIN vs Aurora Gaming (BO3) - ESL Pro League Playoffs | Aurora Gaming | 1.41 (71¢) | $30,979 | +$12,653 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Shanghai Rolex Masters: Alexander Zverev vs Yibing Wu | Alexander Zverev | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Shanghai Rolex Masters: Alexander Zverev vs Yibing Wu | Alexander Zverev | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
-| Dragon-Evolution | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $70,297 | -$70,297 | ❌ Perdida |
-| kkookkoo | Shanghai Rolex Masters: Adrian Mannarino vs Flavio Cobolli | Flavio Cobolli | 1.54 (65¢) | $25,486 | -$25,486 | ❌ Perdida |
