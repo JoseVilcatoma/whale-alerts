@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 14:19:12 (hora de Perú)
+Actualizado: 2026-10-10 14:21:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4755**  ($256,030,903 en total)
-- Resueltas: **4701** — 2879 ganadas / 1822 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Apuestas registradas: **4757**  ($256,122,770 en total)
+- Resueltas: **4702** — 2880 ganadas / 1822 perdidas (**61%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 541
 
 ### Balance
 
-- **Resultado de los apostadores: +$162,007** sobre $253,348,402 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,489** sobre $464,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$164,553** sobre $253,374,144 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,479** sobre $464,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 75 | 39 | 0 | 66% | $4,638,683 | -$87,852 |
 | BrotherObama | 39 | 40 | 3 | 49% | $3,708,447 | +$123,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| ethanaz | 41 | 19 | 2 | 68% | $3,577,106 | -$201,196 |
+| ethanaz | 41 | 19 | 3 | 68% | $3,637,773 | -$201,196 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 29 | 6 | 0 | 83% | $3,051,521 | +$576,325 |
 | Lakersfan111 | 41 | 23 | 0 | 64% | $2,997,373 | +$300,812 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Indiana vs. Nebraska | Indiana | 1.37 (73¢) | $60,667 | — | ⏳ Pendiente |
+| Donkey14 | Spread: Texas (-7.5) | Texas | 2.00 (50¢) | $31,200 | — | ⏳ Pendiente |
 | nigiri99 | Virginia Tech vs. California | Virginia Tech | 1.30 (77¢) | $40,094 | — | ⏳ Pendiente |
 | viboomchuu | Spread: Devils (-1.5) | Devils | 1.92 (52¢) | $25,191 | — | ⏳ Pendiente |
 | kmak1 | Will Real Madrid CF win on 2026-10-10? | Yes | 1.35 (74¢) | $34,257 | — | ⏳ Pendiente |
@@ -91,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.49 (67¢) | $182,662 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $49,775 | +$6,152 | ✅ Ganada |
 | Nooserac | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $35,600 | +$4,400 | ✅ Ganada |
-| UpTheBlues | Will FC Barcelona vs. Getafe CF end in a draw? | No | 1.10 (91¢) | $25,742 | — | ⏳ Pendiente |
+| UpTheBlues | Will FC Barcelona vs. Getafe CF end in a draw? | No | 1.10 (91¢) | $25,742 | +$2,546 | ✅ Ganada |
 | Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $42,715 | — | ⏳ Pendiente |
 | ethanaz | Texas A&M vs. Missouri | Missouri | 1.52 (66¢) | $40,617 | — | ⏳ Pendiente |
 | surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 | raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 1.92 (52¢) | $93,600 | -$93,600 | ❌ Perdida |
 | raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 2.00 (50¢) | $76,949 | -$76,949 | ❌ Perdida |
 | Bloodygoodrep1 | Will Fulham FC win on 2026-10-10? | Yes | 2.56 (39¢) | $30,287 | -$30,287 | ❌ Perdida |
-| CORGI777 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 2.38 (42¢) | $37,800 | — | ⏳ Pendiente |
-| fantasy7788 | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $60,000 | -$60,000 | ❌ Perdida |
