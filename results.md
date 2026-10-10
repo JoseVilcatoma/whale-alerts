@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 14:11:02 (hora de Perú)
+Actualizado: 2026-10-10 14:13:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4748**  ($255,715,784 en total)
+- Apuestas registradas: **4749**  ($255,771,784 en total)
 - Resueltas: **4700** — 2879 ganadas / 1821 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 541
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 343 | 181 | 6 | 65% | $32,997,621 | +$771,466 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 343 | 181 | 7 | 65% | $33,053,621 | +$771,466 |
 | Sassy-Bucket | 66 | 59 | 2 | 53% | $7,070,540 | -$437,191 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
 | Kch-Temp | Ole Miss vs. Vanderbilt | Ole Miss | 1.32 (76¢) | $164,191 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 1.45 (69¢) | $45,815 | — | ⏳ Pendiente |
 | Flaznorp | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $44,938 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 | 177-letsgo | Will Leeds United FC win on 2026-10-10? | No | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
 | RJW1 | Spread: Arsenal FC (-1.5) | Leeds United FC | 1.67 (60¢) | $45,000 | +$30,000 | ✅ Ganada |
 | Kch-Temp | Will Rayo Vallecano de Madrid win on 2026-10-10? | No | 1.49 (67¢) | $63,936 | — | ⏳ Pendiente |
-| beeemw | Will Leeds United FC win on 2026-10-10? | No | 1.12 (89¢) | $33,375 | +$4,125 | ✅ Ganada |
