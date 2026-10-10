@@ -71161,5 +71161,35 @@
     "status": "pending",
     "ultimo_fill": 1791648856,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9640,
+    "timestamp": 1791649283,
+    "username": "Nooserac",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "cs2-aur1-vit-2026-10-10",
+    "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 35600.0,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1791649283,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9641,
+    "timestamp": 1791649294,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-aur1-vit-2026-10-10",
+    "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 49774.674,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1791649294,
+    "fills": 1
   }
 ]
