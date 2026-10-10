@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 07:54:52 (hora de Perú)
+Actualizado: 2026-10-10 07:56:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4698**  ($253,216,242 en total)
+- Apuestas registradas: **4699**  ($253,267,691 en total)
 - Resueltas: **4661** — 2850 ganadas / 1811 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 534
 
 ### Balance
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
 | mooseborzoii | 30 | 9 | 0 | 77% | $1,979,663 | +$816,993 |
-| raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
+| raybanman | 15 | 4 | 1 | 79% | $1,964,961 | +$875,464 |
 | ndb1 | 20 | 11 | 3 | 65% | $1,830,787 | +$343,738 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 2.00 (50¢) | $51,449 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Fulham FC win on 2026-10-10? | Yes | 2.56 (39¢) | $30,287 | — | ⏳ Pendiente |
 | CORGI777 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 2.38 (42¢) | $37,800 | — | ⏳ Pendiente |
 | fantasy7788 | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $60,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elise Mertens vs Iga Swiatek | Elise Mertens | 1.67 (60¢) | $31,000 | +$20,667 | ✅ Ganada |
 | Eztennis | Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery | Arthur Fery | 2.08 (48¢) | $30,000 | -$30,000 | ❌ Perdida |
 | mbmbbbmbv | Valorant: 100 Thieves vs Nongshim RedForce (BO3) - VCT Champions Playoffs | 100 Thieves | 1.49 (67¢) | $50,758 | +$25,000 | ✅ Ganada |
-| BrotherObama | Map Handicap: VIT (-1.5) vs PARIVISION (+1.5) | Vitality | 1.72 (58¢) | $40,000 | +$28,966 | ✅ Ganada |
