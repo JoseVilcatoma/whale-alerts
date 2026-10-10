@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 08:54:39 (hora de Perú)
+Actualizado: 2026-10-10 08:56:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4710**  ($253,796,368 en total)
-- Resueltas: **4663** — 2851 ganadas / 1812 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **4666** — 2854 ganadas / 1812 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 536
 
 ### Balance
 
-- **Resultado de los apostadores: +$97,440** sobre $251,850,651 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,968** sobre $460,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$134,865** sobre $251,955,726 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,876** sobre $460,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,10 +89,10 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 | omnibus-076daa | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $33,189 | — | ⏳ Pendiente |
 | esportsbetter1 | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | Team Vitality | 2.13 (47¢) | $39,278 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Athletic Club win on 2026-10-10? | Yes | 2.63 (38¢) | $77,702 | — | ⏳ Pendiente |
-| 177-letsgo | Will Leeds United FC win on 2026-10-10? | No | 1.12 (89¢) | $26,700 | — | ⏳ Pendiente |
-| RJW1 | Spread: Arsenal FC (-1.5) | Leeds United FC | 1.67 (60¢) | $45,000 | — | ⏳ Pendiente |
+| 177-letsgo | Will Leeds United FC win on 2026-10-10? | No | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
+| RJW1 | Spread: Arsenal FC (-1.5) | Leeds United FC | 1.67 (60¢) | $45,000 | +$30,000 | ✅ Ganada |
 | Kch-Temp | Will Rayo Vallecano de Madrid win on 2026-10-10? | No | 1.49 (67¢) | $63,936 | — | ⏳ Pendiente |
-| beeemw | Will Leeds United FC win on 2026-10-10? | No | 1.12 (89¢) | $33,375 | — | ⏳ Pendiente |
+| beeemw | Will Leeds United FC win on 2026-10-10? | No | 1.12 (89¢) | $33,375 | +$4,125 | ✅ Ganada |
 | eschaworldchampion2026 | Counter-Strike: HOTU vs fnatic (BO3) - 1win Private Club #2: Closed Qualifier Playoffs | HOTU | 2.04 (49¢) | $25,098 | -$25,098 | ❌ Perdida |
 | Diabolical-Prize | Valorant: NRG vs LOUD (BO3) - VCT Champions Playoffs | NRG | 1.75 (57¢) | $64,869 | -$64,869 | ❌ Perdida |
 | omnibus-076daa | Valorant: NRG vs LOUD (BO3) - VCT Champions Playoffs | LOUD | 2.33 (43¢) | $38,712 | +$51,316 | ✅ Ganada |
