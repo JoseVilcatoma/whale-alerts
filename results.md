@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 01:32:11 (hora de Perú)
+Actualizado: 2026-10-10 01:34:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4683**  ($252,586,510 en total)
+- Apuestas registradas: **4684**  ($252,614,402 en total)
 - Resueltas: **4659** — 2849 ganadas / 1810 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 534
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| eschaworldchampion2026 | Dota 2: Team Yandex vs Team Spirit (BO3) - BLAST Slam Playoffs | Team Yandex | 1.61 (62¢) | $27,893 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Aurora Gaming | 4.17 (24¢) | $40,700 | — | ⏳ Pendiente |
 | ndb1 | Will Chelsea FC win on 2026-10-10? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | ndb1 | Will Chelsea FC win on 2026-10-10? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Lorolorota09 | Buccaneers vs. Cowboys | Buccaneers | 1.35 (74¢) | $32,535 | +$11,431 | ✅ Ganada |
 | mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.56 (64¢) | $44,202 | -$44,202 | ❌ Perdida |
 | Sassy-Bucket | Maple Leafs vs. Golden Knights | Golden Knights | 1.64 (61¢) | $121,033 | +$77,382 | ✅ Ganada |
-| mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.47 (68¢) | $38,015 | -$38,015 | ❌ Perdida |
