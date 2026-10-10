@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 09:27:28 (hora de Perú)
+Actualizado: 2026-10-10 09:29:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4714**  ($253,967,204 en total)
+- Apuestas registradas: **4715**  ($254,006,509 en total)
 - Resueltas: **4670** — 2856 ganadas / 1814 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 536
 
 ### Balance
@@ -39,8 +39,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 39 | 40 | 2 | 49% | $3,618,447 | +$123,271 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| surfandturf | 27 | 5 | 1 | 84% | $2,998,021 | +$569,130 |
 | Lakersfan111 | 41 | 22 | 1 | 65% | $2,997,373 | +$341,513 |
-| surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
 | maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Will FC Bayern München win on 2026-10-10? | Yes | 1.75 (57¢) | $39,305 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas A&M vs. Missouri | Texas A&M | 2.63 (38¢) | $40,924 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas A&M vs. Missouri | Texas A&M | 2.63 (38¢) | $37,911 | — | ⏳ Pendiente |
 | Cbs710 | Will FC Barcelona win on 2026-10-10? | Yes | 1.11 (90¢) | $55,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 | sulumos | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.38 (42¢) | $25,200 | -$25,200 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $89,709 | +$64,962 | ✅ Ganada |
 | yesmate | Palermo: Yanaki Milev vs Carlos Sanchez Jover | Yanaki Milev | 1.12 (89¢) | $34,088 | +$4,213 | ✅ Ganada |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.22 (82¢) | $27,282 | +$5,989 | ✅ Ganada |
