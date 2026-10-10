@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 18:03:24 (hora de Perú)
+Actualizado: 2026-10-10 18:05:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4784**  ($257,476,476 en total)
-- Resueltas: **4729** — 2903 ganadas / 1826 perdidas (**61%** de acierto)
+- Apuestas registradas: **4785**  ($257,554,769 en total)
+- Resueltas: **4730** — 2904 ganadas / 1826 perdidas (**61%** de acierto)
 - Pendientes: 34
 - Apostadores distintos: 542
 
 ### Balance
 
-- **Resultado de los apostadores: +$558,088** sobre $254,827,126 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,944** sobre $466,900 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$580,636** sobre $254,854,685 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,863** sobre $467,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,10 +54,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 23 | 11 | 0 | 68% | $1,830,787 | +$412,607 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| SDTrading | 28 | 29 | 1 | 49% | $1,728,324 | -$158,341 |
+| Talvez10 | 19 | 16 | 2 | 54% | $1,741,461 | +$262,931 |
+| SDTrading | 29 | 29 | 0 | 50% | $1,728,324 | -$135,793 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
-| Talvez10 | 19 | 16 | 1 | 54% | $1,663,169 | +$262,931 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Spread: Alabama (-2.5) | Alabama | 1.96 (51¢) | $78,293 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Francisco Prado | 1.69 (59¢) | $118,000 | — | ⏳ Pendiente |
 | mooseborzoii | Texas vs. Oklahoma | Oklahoma | 1.43 (70¢) | $28,908 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.50 (40¢) | $46,730 | — | ⏳ Pendiente |
@@ -124,10 +125,9 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $42,715 | +$5,825 | ✅ Ganada |
 | ethanaz | Texas A&M vs. Missouri | Missouri | 1.52 (66¢) | $40,617 | +$20,924 | ✅ Ganada |
 | surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
-| SDTrading | Central Michigan vs. Ohio | Ohio | 1.82 (55¢) | $27,559 | — | ⏳ Pendiente |
+| SDTrading | Central Michigan vs. Ohio | Ohio | 1.82 (55¢) | $27,559 | +$22,548 | ✅ Ganada |
 | Kosherlocks | Indiana vs. Nebraska | Indiana | 1.33 (75¢) | $40,224 | +$13,408 | ✅ Ganada |
 | Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.12 (89¢) | $40,554 | +$5,012 | ✅ Ganada |
 | THEHIGHLIFE | Dota 2: PARIVISION vs Aurora - Game 2 Winner | PARIVISION | 3.33 (30¢) | $30,874 | +$72,039 | ✅ Ganada |
 | surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | thegreatjeff | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $65,883 | +$8,984 | ✅ Ganada |
-| UpTheBlues | Will Deportivo Alavés win on 2026-10-10? | No | 1.08 (93¢) | $26,483 | +$1,993 | ✅ Ganada |

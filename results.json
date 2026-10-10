@@ -71098,7 +71098,7 @@
     "side": "BUY",
     "usd": 27558.8665,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791647874,
     "fills": 1
   },
@@ -71898,6 +71898,21 @@
     "odds_at_bet": 59,
     "status": "pending",
     "ultimo_fill": 1791672940,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9739,
+    "timestamp": 1791673497,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "cfb-ga-ala-2026-10-10-spread-home-2pt5",
+    "title": "Spread: Alabama (-2.5)",
+    "outcome": "Alabama",
+    "side": "BUY",
+    "usd": 78292.6755,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791673497,
     "fills": 1
   }
 ]
