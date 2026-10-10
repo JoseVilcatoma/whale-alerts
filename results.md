@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 23:33:29 (hora de Perú)
+Actualizado: 2026-10-09 23:35:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4679**  ($252,464,963 en total)
-- Resueltas: **4651** — 2847 ganadas / 1804 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **4654** — 2847 ganadas / 1807 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 534
 
 ### Balance
 
-- **Resultado de los apostadores: +$447,352** sobre $251,257,152 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,509** sobre $459,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$176,329** sobre $251,528,175 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,809** sobre $459,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 341 | 179 | 4 | 66% | $32,595,513 | +$830,385 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 341 | 180 | 3 | 65% | $32,595,513 | +$798,570 |
 | Sassy-Bucket | 66 | 59 | 0 | 53% | $6,991,704 | -$437,191 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 1 | 52% | $6,882,375 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -72,9 +72,9 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | ferrariChampions2026 | Wyoming vs. San Jose State | San Jose State | 1.37 (73¢) | $28,596 | — | ⏳ Pendiente |
-| CHZHSHCH | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 2.27 (44¢) | $211,782 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.23 (81¢) | $31,815 | — | ⏳ Pendiente |
-| Nooserac | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.22 (82¢) | $27,427 | — | ⏳ Pendiente |
+| CHZHSHCH | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 2.27 (44¢) | $211,782 | -$211,782 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.23 (81¢) | $31,815 | -$31,815 | ❌ Perdida |
+| Nooserac | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.22 (82¢) | $27,427 | -$27,427 | ❌ Perdida |
 | Hashbrown | Iowa vs. Washington | Iowa | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Texas (-7.5) | Oklahoma | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Elaran1993 | Club Puebla vs. Club León FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $47,008 | — | ⏳ Pendiente |
