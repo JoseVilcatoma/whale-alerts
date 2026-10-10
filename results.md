@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 08:48:21 (hora de Perú)
+Actualizado: 2026-10-10 08:50:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4708**  ($253,733,186 en total)
+- Apuestas registradas: **4709**  ($253,769,986 en total)
 - Resueltas: **4663** — 2851 ganadas / 1812 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 536
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beeemw | Will Deportivo Alavés win on 2026-10-10? | No | 1.25 (80¢) | $36,800 | — | ⏳ Pendiente |
 | fantasy7788 | Map Handicap: VIT (-1.5) vs Aurora Gaming (+1.5) | Aurora Gaming | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.30 (77¢) | $30,000 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.32 (76¢) | $32,625 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 | Diabolical-Prize | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $40,483 | -$40,483 | ❌ Perdida |
 | tony1919 | Dota 2: 1win vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
 | Lorolorota09 | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.16 (86¢) | $35,173 | -$35,173 | ❌ Perdida |
-| Diabolical-Prize | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $26,240 | -$26,240 | ❌ Perdida |
