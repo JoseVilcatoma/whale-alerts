@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 18:57:00 (hora de Perú)
+Actualizado: 2026-10-10 18:59:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4792**  ($257,830,492 en total)
-- Resueltas: **4742** — 2910 ganadas / 1832 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **4751** — 2911 ganadas / 1840 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 543
 
 ### Balance
 
-- **Resultado de los apostadores: +$598,557** sobre $255,576,252 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,810** sobre $468,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$153,815** sobre $256,062,291 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,568** sobre $469,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 347 | 182 | 7 | 66% | $33,319,194 | +$960,164 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 347 | 184 | 5 | 65% | $33,319,194 | +$905,249 |
 | Sassy-Bucket | 66 | 63 | 2 | 51% | $7,321,631 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 30 | 10 | 1 | 75% | $2,489,786 | +$1,280,240 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| mooseborzoii | 30 | 10 | 5 | 75% | $2,280,410 | +$765,993 |
+| mooseborzoii | 31 | 12 | 2 | 72% | $2,280,410 | +$613,778 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
@@ -80,12 +80,12 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 | Talvez10 | Spread: Alabama (-2.5) | Alabama | 1.96 (51¢) | $78,293 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.44 (41¢) | $93,336 | -$93,336 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Francisco Prado | 1.69 (59¢) | $118,000 | +$82,000 | ✅ Ganada |
-| mooseborzoii | Texas vs. Oklahoma | Oklahoma | 1.43 (70¢) | $28,908 | — | ⏳ Pendiente |
+| mooseborzoii | Texas vs. Oklahoma | Oklahoma | 1.43 (70¢) | $28,908 | +$12,389 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.50 (40¢) | $46,730 | -$46,730 | ❌ Perdida |
 | nuttypoo | LSU vs. Kentucky: O/U 51.5 | Under 51.5 | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
-| 177-letsgo | Texas vs. Oklahoma | Texas | 1.75 (57¢) | $72,339 | — | ⏳ Pendiente |
-| mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $108,087 | — | ⏳ Pendiente |
-| mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $56,517 | — | ⏳ Pendiente |
+| 177-letsgo | Texas vs. Oklahoma | Texas | 1.75 (57¢) | $72,339 | -$72,339 | ❌ Perdida |
+| mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $108,087 | -$108,087 | ❌ Perdida |
+| mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $56,517 | -$56,517 | ❌ Perdida |
 | Gourmet1 | Red Wings vs. Canadiens | Red Wings | 2.78 (36¢) | $36,753 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $54,853 | -$54,853 | ❌ Perdida |
 | BoggsFromShawshank | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $32,148 | -$32,148 | ❌ Perdida |
@@ -93,15 +93,15 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 2.13 (47¢) | $29,050 | +$32,758 | ✅ Ganada |
 | ferrariChampions2026 | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $40,611 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $59,421 | — | ⊘ Anulada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.22 (82¢) | $25,002 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.22 (82¢) | $25,002 | -$25,002 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $51,605 | — | ⊘ Anulada |
 | mooseborzoii | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Ernesta Kareckaite | 2.17 (46¢) | $31,016 | — | ⊘ Anulada |
 | MinevaJ | Will Real Madrid CF win on 2026-10-10? | Yes | 1.14 (88¢) | $30,423 | +$4,149 | ✅ Ganada |
 | curie | Will Real Madrid CF win on 2026-10-10? | Yes | 1.11 (90¢) | $78,247 | +$8,694 | ✅ Ganada |
-| 177-letsgo | Texas vs. Oklahoma | Texas | 1.15 (87¢) | $26,099 | — | ⏳ Pendiente |
-| 177-letsgo | Texas vs. Oklahoma | Texas | 1.28 (78¢) | $83,158 | — | ⏳ Pendiente |
+| 177-letsgo | Texas vs. Oklahoma | Texas | 1.15 (87¢) | $26,099 | -$26,099 | ❌ Perdida |
+| 177-letsgo | Texas vs. Oklahoma | Texas | 1.28 (78¢) | $83,158 | -$83,158 | ❌ Perdida |
 | 177-letsgo | Ole Miss vs. Vanderbilt | Ole Miss | 1.18 (85¢) | $36,944 | +$6,519 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.25 (80¢) | $29,912 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.25 (80¢) | $29,912 | -$29,912 | ❌ Perdida |
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 4.17 (24¢) | $28,362 | +$89,814 | ✅ Ganada |
 | gmpm2 | Spread: Texas (-7.5) | Oklahoma | 2.00 (50¢) | $31,500 | — | ⏳ Pendiente |
 | Kch-Temp | Tulsa vs. Navy | Navy | 1.69 (59¢) | $41,062 | +$28,535 | ✅ Ganada |
