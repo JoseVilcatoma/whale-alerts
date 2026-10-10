@@ -71839,5 +71839,20 @@
     "status": "pending",
     "ultimo_fill": 1791672127,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 9733,
+    "timestamp": 1791672354,
+    "username": "nuttypoo",
+    "wallet": "0xa1e6ba93d878b71a895f80fcb5c36337143fe1c2",
+    "slug": "cfb-lsu-uk-2026-10-10-total-51pt5",
+    "title": "LSU vs. Kentucky: O/U 51.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 56000.00000000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1791672354,
+    "fills": 1
   }
 ]
