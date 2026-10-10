@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 11:47:40 (hora de Perú)
+Actualizado: 2026-10-10 14:06:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4743**  ($255,401,135 en total)
-- Resueltas: **4672** — 2858 ganadas / 1814 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Resueltas: **4700** — 2879 ganadas / 1821 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 541
 
 ### Balance
 
-- **Resultado de los apostadores: +$112,511** sobre $252,192,137 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,876** sobre $461,200 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$193,054** sobre $253,317,354 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,389** sobre $464,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 341 | 180 | 8 | 65% | $32,951,806 | +$798,570 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 343 | 181 | 5 | 65% | $32,951,806 | +$771,466 |
 | Sassy-Bucket | 66 | 59 | 2 | 53% | $7,070,540 | -$437,191 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -39,8 +39,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 39 | 40 | 2 | 49% | $3,618,447 | +$123,271 |
 | ethanaz | 41 | 19 | 1 | 68% | $3,547,578 | -$201,196 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| surfandturf | 27 | 5 | 3 | 84% | $3,051,521 | +$569,130 |
-| Lakersfan111 | 41 | 22 | 1 | 65% | $2,997,373 | +$341,513 |
+| surfandturf | 29 | 6 | 0 | 83% | $3,051,521 | +$576,325 |
+| Lakersfan111 | 41 | 23 | 0 | 64% | $2,997,373 | +$300,812 |
 | maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -49,9 +49,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
-| raybanman | 15 | 4 | 2 | 79% | $2,084,061 | +$875,464 |
+| raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
 | mooseborzoii | 30 | 9 | 1 | 77% | $2,030,663 | +$816,993 |
-| ndb1 | 20 | 11 | 3 | 65% | $1,830,787 | +$343,738 |
+| ndb1 | 23 | 11 | 0 | 68% | $1,830,787 | +$412,607 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | SDTrading | 28 | 29 | 1 | 49% | $1,728,324 | -$158,341 |
@@ -72,51 +72,51 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | vdsgsdfgb | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $35,990 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.10 (91¢) | $37,857 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.10 (91¢) | $37,857 | +$3,744 | ✅ Ganada |
 | AnonymousUsername | Will Manchester United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.30 (77¢) | $31,047 | — | ⏳ Pendiente |
-| ethBELIVER | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.16 (86¢) | $34,400 | — | ⏳ Pendiente |
+| ethBELIVER | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
 | chubbytoro | Flyers vs. Bruins | Bruins | 1.79 (56¢) | $134,214 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.49 (67¢) | $182,662 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $49,775 | — | ⏳ Pendiente |
-| Nooserac | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $35,600 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $49,775 | +$6,152 | ✅ Ganada |
+| Nooserac | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $35,600 | +$4,400 | ✅ Ganada |
 | UpTheBlues | Will FC Barcelona vs. Getafe CF end in a draw? | No | 1.10 (91¢) | $25,742 | — | ⏳ Pendiente |
 | Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $42,715 | — | ⏳ Pendiente |
 | ethanaz | Texas A&M vs. Missouri | Missouri | 1.52 (66¢) | $40,617 | — | ⏳ Pendiente |
-| surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | SDTrading | Central Michigan vs. Ohio | Ohio | 1.82 (55¢) | $27,559 | — | ⏳ Pendiente |
 | Kosherlocks | Indiana vs. Nebraska | Indiana | 1.33 (75¢) | $40,224 | — | ⏳ Pendiente |
 | Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.12 (89¢) | $40,554 | — | ⏳ Pendiente |
-| THEHIGHLIFE | Dota 2: PARIVISION vs Aurora - Game 2 Winner | PARIVISION | 3.33 (30¢) | $30,874 | — | ⏳ Pendiente |
-| surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
+| THEHIGHLIFE | Dota 2: PARIVISION vs Aurora - Game 2 Winner | PARIVISION | 3.33 (30¢) | $30,874 | +$72,039 | ✅ Ganada |
+| surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | thegreatjeff | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $65,883 | — | ⏳ Pendiente |
-| UpTheBlues | Will Deportivo Alavés win on 2026-10-10? | No | 1.08 (93¢) | $26,483 | — | ⏳ Pendiente |
-| juice-fruit | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.39 (72¢) | $42,954 | — | ⏳ Pendiente |
-| Flaznorp | Will FC Internazionale Milano win on 2026-10-10? | Yes | 1.20 (83¢) | $33,660 | — | ⏳ Pendiente |
+| UpTheBlues | Will Deportivo Alavés win on 2026-10-10? | No | 1.08 (93¢) | $26,483 | +$1,993 | ✅ Ganada |
+| juice-fruit | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.39 (72¢) | $42,954 | +$16,704 | ✅ Ganada |
+| Flaznorp | Will FC Internazionale Milano win on 2026-10-10? | Yes | 1.20 (83¢) | $33,660 | +$6,894 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Kansas State (-2.5) | Houston | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
-| tikstt2 | Will Fulham FC win on 2026-10-10? | No | 1.56 (64¢) | $45,625 | — | ⏳ Pendiente |
-| vtcchampion52 | Dota 2: PARIVISION vs Aurora (BO3) - BLAST Slam Playoffs | PARIVISION | 1.14 (88¢) | $30,169 | — | ⏳ Pendiente |
+| tikstt2 | Will Fulham FC win on 2026-10-10? | No | 1.56 (64¢) | $45,625 | +$25,664 | ✅ Ganada |
+| vtcchampion52 | Dota 2: PARIVISION vs Aurora (BO3) - BLAST Slam Playoffs | PARIVISION | 1.14 (88¢) | $30,169 | +$4,114 | ✅ Ganada |
 | mooseborzoii | Spread: Kansas State (-2.5) | Kansas State | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | primm | Texas vs. Oklahoma | Texas | 1.33 (75¢) | $56,016 | — | ⏳ Pendiente |
 | primm | Texas A&M vs. Missouri | Missouri | 1.61 (62¢) | $121,605 | — | ⏳ Pendiente |
 | Talvez10 | UFC Fight Night: Niko Price vs. Leon Shahbazyan (Welterweight, Prelims) | Leon Shahbazyan | 1.72 (58¢) | $28,902 | — | ⏳ Pendiente |
-| surfandturf | Will FC Bayern München win on 2026-10-10? | Yes | 1.75 (57¢) | $39,305 | — | ⏳ Pendiente |
+| surfandturf | Will FC Bayern München win on 2026-10-10? | Yes | 1.75 (57¢) | $39,305 | -$39,305 | ❌ Perdida |
 | Sassy-Bucket | Texas A&M vs. Missouri | Texas A&M | 2.63 (38¢) | $40,924 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas A&M vs. Missouri | Texas A&M | 2.63 (38¢) | $37,911 | — | ⏳ Pendiente |
 | Cbs710 | Will FC Barcelona win on 2026-10-10? | Yes | 1.11 (90¢) | $55,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Under 2.5 | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Under 2.5 | 2.70 (37¢) | $37,000 | -$37,000 | ❌ Perdida |
 | Sunshine.Smile | Counter-Strike: Aurora Gaming vs Vitality - Map 2 Winner | Vitality | 1.33 (75¢) | $26,382 | +$8,794 | ✅ Ganada |
-| beeemw | Will Deportivo Alavés win on 2026-10-10? | No | 1.25 (80¢) | $36,800 | — | ⏳ Pendiente |
-| fantasy7788 | Map Handicap: VIT (-1.5) vs Aurora Gaming (+1.5) | Aurora Gaming | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.30 (77¢) | $30,000 | — | ⏳ Pendiente |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.32 (76¢) | $32,625 | — | ⏳ Pendiente |
+| beeemw | Will Deportivo Alavés win on 2026-10-10? | No | 1.25 (80¢) | $36,800 | +$9,200 | ✅ Ganada |
+| fantasy7788 | Map Handicap: VIT (-1.5) vs Aurora Gaming (+1.5) | Aurora Gaming | 1.85 (54¢) | $30,000 | +$25,556 | ✅ Ganada |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.30 (77¢) | $30,000 | +$8,961 | ✅ Ganada |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.32 (76¢) | $32,625 | +$10,303 | ✅ Ganada |
 | Diabolical-Prize | Dota 2: PARIVISION vs Aurora - Game 1 Winner | PARIVISION | 1.39 (72¢) | $25,714 | +$10,000 | ✅ Ganada |
-| CongoleseBorat | Spread: FC Bayern München (-2.5) | FC Augsburg | 2.04 (49¢) | $50,470 | — | ⏳ Pendiente |
-| juice-fruit | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Over 2.5 | 1.61 (62¢) | $96,039 | — | ⏳ Pendiente |
-| Yellow-Fever | Will FC Augsburg vs. FC Bayern München end in a draw? | No | 1.11 (90¢) | $29,700 | — | ⏳ Pendiente |
+| CongoleseBorat | Spread: FC Bayern München (-2.5) | FC Augsburg | 2.04 (49¢) | $50,470 | +$52,530 | ✅ Ganada |
+| juice-fruit | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Over 2.5 | 1.61 (62¢) | $96,039 | +$58,863 | ✅ Ganada |
+| Yellow-Fever | Will FC Augsburg vs. FC Bayern München end in a draw? | No | 1.11 (90¢) | $29,700 | -$29,700 | ❌ Perdida |
 | kmak1 | Will Arsenal FC win on 2026-10-10? | Yes | 1.15 (87¢) | $51,847 | +$7,747 | ✅ Ganada |
-| raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 1.92 (52¢) | $93,600 | — | ⏳ Pendiente |
-| raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 2.00 (50¢) | $76,949 | — | ⏳ Pendiente |
-| Bloodygoodrep1 | Will Fulham FC win on 2026-10-10? | Yes | 2.56 (39¢) | $30,287 | — | ⏳ Pendiente |
+| raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 1.92 (52¢) | $93,600 | -$93,600 | ❌ Perdida |
+| raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 2.00 (50¢) | $76,949 | -$76,949 | ❌ Perdida |
+| Bloodygoodrep1 | Will Fulham FC win on 2026-10-10? | Yes | 2.56 (39¢) | $30,287 | -$30,287 | ❌ Perdida |
 | CORGI777 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 2.38 (42¢) | $37,800 | — | ⏳ Pendiente |
 | fantasy7788 | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $60,000 | -$60,000 | ❌ Perdida |
 | omnibus-076daa | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $33,189 | -$33,189 | ❌ Perdida |
