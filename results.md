@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 23:37:33 (hora de Perú)
+Actualizado: 2026-10-09 23:39:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4679**  ($252,464,963 en total)
+- Apuestas registradas: **4680**  ($252,491,809 en total)
 - Resueltas: **4654** — 2847 ganadas / 1807 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 534
 
 ### Balance
@@ -52,8 +52,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 30 | 9 | 0 | 77% | $1,979,663 | +$816,993 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
+| ndb1 | 20 | 11 | 1 | 65% | $1,776,787 | +$343,738 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| ndb1 | 20 | 11 | 0 | 65% | $1,749,940 | +$343,738 |
 | SDTrading | 28 | 29 | 0 | 49% | $1,700,765 | -$158,341 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Will Chelsea FC win on 2026-10-10? | Yes | 1.85 (54¢) | $26,846 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Wyoming vs. San Jose State | San Jose State | 1.37 (73¢) | $28,596 | — | ⏳ Pendiente |
 | CHZHSHCH | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 2.27 (44¢) | $211,782 | -$211,782 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.23 (81¢) | $31,815 | -$31,815 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | TAIWANNUMBERONE | South Alabama vs. Arkansas State | South Alabama | 1.30 (77¢) | $27,214 | +$8,129 | ✅ Ganada |
 | ferrariChampions2026 | Buccaneers vs. Cowboys | Buccaneers | 5.00 (20¢) | $30,654 | +$122,616 | ✅ Ganada |
 | TAIWANNUMBERONE | South Alabama vs. Arkansas State | Arkansas State | 1.64 (61¢) | $34,806 | -$34,806 | ❌ Perdida |
-| milkteaboba | Buccaneers vs. Cowboys | Cowboys | 1.23 (81¢) | $57,959 | -$57,959 | ❌ Perdida |
