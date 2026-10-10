@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 06:00:24 (hora de Perú)
+Actualizado: 2026-10-10 06:02:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4690**  ($252,866,286 en total)
+- Apuestas registradas: **4691**  ($252,911,286 en total)
 - Resueltas: **4659** — 2849 ganadas / 1810 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 534
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Spread: Arsenal FC (-1.5) | Leeds United FC | 1.67 (60¢) | $45,000 | — | ⏳ Pendiente |
 | Kch-Temp | Will Rayo Vallecano de Madrid win on 2026-10-10? | No | 1.49 (67¢) | $63,936 | — | ⏳ Pendiente |
 | beeemw | Will Leeds United FC win on 2026-10-10? | No | 1.12 (89¢) | $33,375 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | Counter-Strike: HOTU vs fnatic (BO3) - 1win Private Club #2: Closed Qualifier Playoffs | HOTU | 2.04 (49¢) | $25,098 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Dragon-Evolution | Counter-Strike: Vitality vs PARIVISION (BO3) - ESL Pro League Playoffs | Vitality | 1.19 (84¢) | $42,000 | +$8,000 | ✅ Ganada |
 | Xyp9xFan | Counter-Strike: 1WIN vs Aurora Gaming (BO3) - ESL Pro League Playoffs | Aurora Gaming | 1.41 (71¢) | $30,979 | +$12,653 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Shanghai Rolex Masters: Alexander Zverev vs Yibing Wu | Alexander Zverev | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Shanghai Rolex Masters: Alexander Zverev vs Yibing Wu | Alexander Zverev | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |

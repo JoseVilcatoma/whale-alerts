@@ -70486,5 +70486,20 @@
     "status": "pending",
     "ultimo_fill": 1791628843,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9582,
+    "timestamp": 1791630114,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "epl-ars-lee-2026-10-10-spread-home-1pt5",
+    "title": "Spread: Arsenal FC (-1.5)",
+    "outcome": "Leeds United FC",
+    "side": "BUY",
+    "usd": 45000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1791630114,
+    "fills": 1
   }
 ]
