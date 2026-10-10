@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 08:15:22 (hora de Perú)
+Actualizado: 2026-10-10 08:17:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4701**  ($253,438,638 en total)
+- Apuestas registradas: **4702**  ($253,468,338 en total)
 - Resueltas: **4661** — 2850 ganadas / 1811 perdidas (**61%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 535
+- Pendientes: 23
+- Apostadores distintos: 536
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Elaran1993 | 10 | 8 | 0 | 56% | $1,309,851 | +$248,205 |
 
-_(mostrando los 40 de mayor monto, de 535 en total)_
+_(mostrando los 40 de mayor monto, de 536 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Yellow-Fever | Will FC Augsburg vs. FC Bayern München end in a draw? | No | 1.11 (90¢) | $29,700 | — | ⏳ Pendiente |
 | kmak1 | Will Arsenal FC win on 2026-10-10? | Yes | 1.15 (87¢) | $51,847 | — | ⏳ Pendiente |
 | raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 1.92 (52¢) | $93,600 | — | ⏳ Pendiente |
 | raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 2.00 (50¢) | $76,949 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 535 en total)_
 | Eztennis | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 2.04 (49¢) | $46,758 | -$46,758 | ❌ Perdida |
 | crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $219,354 | +$152,432 | ✅ Ganada |
 | rookie765 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $36,207 | +$25,161 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elise Mertens vs Iga Swiatek | Elise Mertens | 1.67 (60¢) | $31,000 | +$20,667 | ✅ Ganada |

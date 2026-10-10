@@ -70651,5 +70651,20 @@
     "status": "pending",
     "ultimo_fill": 1791637264,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9595,
+    "timestamp": 1791638223,
+    "username": "Yellow-Fever",
+    "wallet": "0xda856317923415a534d8952e6f8abde17c2e1ca7",
+    "slug": "bun-aug-bay-2026-10-10-draw",
+    "title": "Will FC Augsburg vs. FC Bayern M\u00fcnchen end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 29700.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1791638223,
+    "fills": 1
   }
 ]
