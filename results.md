@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 14:15:07 (hora de Perú)
+Actualizado: 2026-10-10 14:17:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4752**  ($255,931,361 en total)
+- Apuestas registradas: **4754**  ($255,990,809 en total)
 - Resueltas: **4700** — 2879 ganadas / 1821 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 36
 - Apostadores distintos: 541
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| viboomchuu | Spread: Devils (-1.5) | Devils | 1.92 (52¢) | $25,191 | — | ⏳ Pendiente |
+| kmak1 | Will Real Madrid CF win on 2026-10-10? | Yes | 1.35 (74¢) | $34,257 | — | ⏳ Pendiente |
 | 177-letsgo | Indiana vs. Nebraska | Indiana | 1.12 (89¢) | $40,050 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
 | ethanaz | Indiana vs. Nebraska | Indiana | 1.32 (76¢) | $29,527 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 | CORGI777 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 2.38 (42¢) | $37,800 | — | ⏳ Pendiente |
 | fantasy7788 | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $60,000 | -$60,000 | ❌ Perdida |
 | omnibus-076daa | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $33,189 | -$33,189 | ❌ Perdida |
-| esportsbetter1 | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | Team Vitality | 2.13 (47¢) | $39,278 | +$44,293 | ✅ Ganada |
-| totoro3miyazaki | Will Athletic Club win on 2026-10-10? | Yes | 2.63 (38¢) | $77,702 | — | ⏳ Pendiente |
