@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 17:59:15 (hora de Perú)
+Actualizado: 2026-10-10 18:01:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4784**  ($257,476,476 en total)
-- Resueltas: **4728** — 2902 ganadas / 1826 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **4729** — 2903 ganadas / 1826 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 542
 
 ### Balance
 
-- **Resultado de los apostadores: +$529,553** sobre $254,786,064 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,014** sobre $466,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$558,088** sobre $254,827,126 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,944** sobre $466,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 41 | 23 | 0 | 64% | $2,997,373 | +$300,812 |
 | maz26 | 24 | 16 | 1 | 60% | $2,678,271 | -$31,372 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Kch-Temp | 28 | 10 | 3 | 74% | $2,489,786 | +$1,199,855 |
+| Kch-Temp | 29 | 10 | 2 | 74% | $2,489,786 | +$1,228,390 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.25 (80¢) | $29,912 | — | ⏳ Pendiente |
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 4.17 (24¢) | $28,362 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Texas (-7.5) | Oklahoma | 2.00 (50¢) | $31,500 | — | ⏳ Pendiente |
-| Kch-Temp | Tulsa vs. Navy | Navy | 1.69 (59¢) | $41,062 | — | ⏳ Pendiente |
+| Kch-Temp | Tulsa vs. Navy | Navy | 1.69 (59¢) | $41,062 | +$28,535 | ✅ Ganada |
 | nuttypoo | Texas vs. Oklahoma: O/U 42.5 | Under 42.5 | 1.75 (57¢) | $35,960 | — | ⏳ Pendiente |
 | ethanaz | Indiana vs. Nebraska | Indiana | 1.37 (73¢) | $60,667 | +$22,438 | ✅ Ganada |
 | Donkey14 | Spread: Texas (-7.5) | Texas | 2.00 (50¢) | $31,200 | — | ⏳ Pendiente |
