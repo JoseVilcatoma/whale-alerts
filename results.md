@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 07:56:54 (hora de Perú)
+Actualizado: 2026-10-10 07:58:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4699**  ($253,267,691 en total)
+- Apuestas registradas: **4699**  ($253,293,191 en total)
 - Resueltas: **4661** — 2850 ganadas / 1811 perdidas (**61%** de acierto)
 - Pendientes: 20
 - Apostadores distintos: 534
@@ -49,8 +49,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
+| raybanman | 15 | 4 | 1 | 79% | $1,990,461 | +$875,464 |
 | mooseborzoii | 30 | 9 | 0 | 77% | $1,979,663 | +$816,993 |
-| raybanman | 15 | 4 | 1 | 79% | $1,964,961 | +$875,464 |
 | ndb1 | 20 | 11 | 3 | 65% | $1,830,787 | +$343,738 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 2.00 (50¢) | $51,449 | — | ⏳ Pendiente |
+| raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 2.00 (50¢) | $76,949 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Fulham FC win on 2026-10-10? | Yes | 2.56 (39¢) | $30,287 | — | ⏳ Pendiente |
 | CORGI777 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 2.38 (42¢) | $37,800 | — | ⏳ Pendiente |
 | fantasy7788 | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $60,000 | — | ⏳ Pendiente |
