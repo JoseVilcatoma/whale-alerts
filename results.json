@@ -70423,7 +70423,7 @@
     "side": "BUY",
     "usd": 38711.82,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791622584,
     "fills": 1
   },
@@ -70438,7 +70438,7 @@
     "side": "BUY",
     "usd": 64868.730698,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791622629,
     "fills": 1
   },
@@ -70545,6 +70545,21 @@
     "odds_at_bet": 47,
     "status": "pending",
     "ultimo_fill": 1791633176,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9588,
+    "timestamp": 1791633687,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "val-g21-vit-2026-10-10",
+    "title": "Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 33188.56,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1791633687,
     "fills": 1
   }
 ]
