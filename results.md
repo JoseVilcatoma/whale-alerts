@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 10:45:25 (hora de Perú)
+Actualizado: 2026-10-10 10:47:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4727**  ($254,584,806 en total)
+- Apuestas registradas: **4729**  ($254,656,233 en total)
 - Resueltas: **4671** — 2857 ganadas / 1814 perdidas (**61%** de acierto)
-- Pendientes: 38
-- Apostadores distintos: 538
+- Pendientes: 40
+- Apostadores distintos: 539
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Elaran1993 | 10 | 8 | 0 | 56% | $1,309,851 | +$248,205 |
 
-_(mostrando los 40 de mayor monto, de 538 en total)_
+_(mostrando los 40 de mayor monto, de 539 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.12 (89¢) | $40,554 | — | ⏳ Pendiente |
+| THEHIGHLIFE | Dota 2: PARIVISION vs Aurora - Game 2 Winner | PARIVISION | 3.33 (30¢) | $30,874 | — | ⏳ Pendiente |
 | surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | thegreatjeff | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $65,883 | — | ⏳ Pendiente |
 | UpTheBlues | Will Deportivo Alavés win on 2026-10-10? | No | 1.08 (93¢) | $26,483 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 538 en total)_
 | viboomchuu | Ducks vs. Jets | Ducks | 2.08 (48¢) | $31,129 | +$33,723 | ✅ Ganada |
 | KaneAnalytics | Florida State vs. Louisville | Florida State | 1.32 (76¢) | $57,917 | -$57,917 | ❌ Perdida |
 | ferrariChampions2026 | Iowa vs. Washington | Iowa | 2.38 (42¢) | $33,000 | +$45,571 | ✅ Ganada |
-| justwins | Spread: New York Liberty (-3.5) | Atlanta Dream | 2.04 (49¢) | $25,172 | +$26,200 | ✅ Ganada |
-| Sassy-Bucket | Atlanta Dream vs. New York Liberty | Atlanta Dream | 2.56 (39¢) | $39,000 | +$61,000 | ✅ Ganada |

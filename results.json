@@ -71041,5 +71041,35 @@
     "status": "pending",
     "ultimo_fill": 1791647053,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9631,
+    "timestamp": 1791647135,
+    "username": "THEHIGHLIFE",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-pari-aur1-2026-10-10-game2",
+    "title": "Dota 2: PARIVISION vs Aurora - Game 2 Winner",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 30873.644999999997,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "ultimo_fill": 1791647135,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9632,
+    "timestamp": 1791647198,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "lal-bar-get-2026-10-10-bar",
+    "title": "Will FC Barcelona win on 2026-10-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 40553.74,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1791647198,
+    "fills": 1
   }
 ]
