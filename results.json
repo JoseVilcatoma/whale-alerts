@@ -70631,10 +70631,25 @@
     "title": "Spread: FC Bayern M\u00fcnchen (-2.5)",
     "outcome": "FC Bayern M\u00fcnchen",
     "side": "BUY",
-    "usd": 52000.0,
+    "usd": 93600.0,
     "odds_at_bet": 52,
     "status": "pending",
-    "ultimo_fill": 1791637253,
+    "ultimo_fill": 1791637297,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 9594,
+    "timestamp": 1791637264,
+    "username": "kmak1",
+    "wallet": "0x21140e4608d03a0be0ac5462784fd42c2a8fc1bb",
+    "slug": "epl-ars-lee-2026-10-10-ars",
+    "title": "Will Arsenal FC win on 2026-10-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 51846.889994000005,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1791637264,
     "fills": 1
   }
 ]
