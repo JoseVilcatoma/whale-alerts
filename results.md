@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 09:43:47 (hora de Perú)
+Actualizado: 2026-10-10 09:45:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4718**  ($254,213,031 en total)
+- Apuestas registradas: **4720**  ($254,294,201 en total)
 - Resueltas: **4670** — 2856 ganadas / 1814 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 32
 - Apostadores distintos: 536
 
 ### Balance
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
 | raybanman | 15 | 4 | 2 | 79% | $2,084,061 | +$875,464 |
-| mooseborzoii | 30 | 9 | 0 | 77% | $1,979,663 | +$816,993 |
+| mooseborzoii | 30 | 9 | 1 | 77% | $2,030,663 | +$816,993 |
 | ndb1 | 20 | 11 | 3 | 65% | $1,830,787 | +$343,738 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vtcchampion52 | Dota 2: PARIVISION vs Aurora (BO3) - BLAST Slam Playoffs | PARIVISION | 1.14 (88¢) | $30,169 | — | ⏳ Pendiente |
+| mooseborzoii | Spread: Kansas State (-2.5) | Kansas State | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | primm | Texas vs. Oklahoma | Texas | 1.33 (75¢) | $56,016 | — | ⏳ Pendiente |
 | primm | Texas A&M vs. Missouri | Missouri | 1.61 (62¢) | $121,605 | — | ⏳ Pendiente |
 | Talvez10 | UFC Fight Night: Niko Price vs. Leon Shahbazyan (Welterweight, Prelims) | Leon Shahbazyan | 1.72 (58¢) | $28,902 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 | Netrol | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.38 (42¢) | $26,385 | -$26,385 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $27,573 | +$19,967 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $54,810 | +$39,690 | ✅ Ganada |
-| fantasy7788 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.38 (42¢) | $30,000 | -$30,000 | ❌ Perdida |
-| Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $51,798 | +$37,509 | ✅ Ganada |
