@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 08:33:52 (hora de Perú)
+Actualizado: 2026-10-10 08:35:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4704**  ($253,614,847 en total)
-- Resueltas: **4662** — 2851 ganadas / 1811 perdidas (**61%** de acierto)
+- Apuestas registradas: **4705**  ($253,640,561 en total)
+- Resueltas: **4663** — 2851 ganadas / 1812 perdidas (**61%** de acierto)
 - Pendientes: 24
 - Apostadores distintos: 536
 
 ### Balance
 
-- **Resultado de los apostadores: +$122,538** sobre $251,825,553 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,868** sobre $460,200 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$97,440** sobre $251,850,651 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,968** sobre $460,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| Diabolical-Prize | 58 | 58 | 0 | 50% | $5,971,487 | -$389,592 |
+| Diabolical-Prize | 58 | 58 | 1 | 50% | $5,997,202 | -$389,592 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Dota 2: PARIVISION vs Aurora - Game 1 Winner | PARIVISION | 1.39 (72¢) | $25,714 | — | ⏳ Pendiente |
 | CongoleseBorat | Spread: FC Bayern München (-2.5) | FC Augsburg | 2.04 (49¢) | $50,470 | — | ⏳ Pendiente |
 | juice-fruit | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Over 2.5 | 1.61 (62¢) | $96,039 | — | ⏳ Pendiente |
 | Yellow-Fever | Will FC Augsburg vs. FC Bayern München end in a draw? | No | 1.11 (90¢) | $29,700 | — | ⏳ Pendiente |
@@ -87,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 | RJW1 | Spread: Arsenal FC (-1.5) | Leeds United FC | 1.67 (60¢) | $45,000 | — | ⏳ Pendiente |
 | Kch-Temp | Will Rayo Vallecano de Madrid win on 2026-10-10? | No | 1.49 (67¢) | $63,936 | — | ⏳ Pendiente |
 | beeemw | Will Leeds United FC win on 2026-10-10? | No | 1.12 (89¢) | $33,375 | — | ⏳ Pendiente |
-| eschaworldchampion2026 | Counter-Strike: HOTU vs fnatic (BO3) - 1win Private Club #2: Closed Qualifier Playoffs | HOTU | 2.04 (49¢) | $25,098 | — | ⏳ Pendiente |
+| eschaworldchampion2026 | Counter-Strike: HOTU vs fnatic (BO3) - 1win Private Club #2: Closed Qualifier Playoffs | HOTU | 2.04 (49¢) | $25,098 | -$25,098 | ❌ Perdida |
 | Diabolical-Prize | Valorant: NRG vs LOUD (BO3) - VCT Champions Playoffs | NRG | 1.75 (57¢) | $64,869 | -$64,869 | ❌ Perdida |
 | omnibus-076daa | Valorant: NRG vs LOUD (BO3) - VCT Champions Playoffs | LOUD | 2.33 (43¢) | $38,712 | +$51,316 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: North Dakota State (-3.5) | UNLV | 1.72 (58¢) | $25,894 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 | juice-fruit | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $108,165 | +$75,165 | ✅ Ganada |
 | crazyoddslover | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.92 (52¢) | $190,650 | -$190,650 | ❌ Perdida |
 | BrotherObama | Spread: Washington (-2.5) | Washington | 1.85 (54¢) | $30,000 | -$30,000 | ❌ Perdida |
-| Eztennis | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 2.04 (49¢) | $46,758 | -$46,758 | ❌ Perdida |
