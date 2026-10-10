@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 09:08:57 (hora de Perú)
+Actualizado: 2026-10-10 09:10:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4711**  ($253,833,368 en total)
-- Resueltas: **4667** — 2855 ganadas / 1812 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Apuestas registradas: **4712**  ($253,888,368 en total)
+- Resueltas: **4670** — 2856 ganadas / 1814 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 536
 
 ### Balance
 
-- **Resultado de los apostadores: +$142,612** sobre $252,007,573 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,861** sobre $460,700 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$93,716** sobre $252,140,040 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,948** sobre $461,000 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Cbs710 | Will FC Barcelona win on 2026-10-10? | Yes | 1.11 (90¢) | $55,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Under 2.5 | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
 | Sunshine.Smile | Counter-Strike: Aurora Gaming vs Vitality - Map 2 Winner | Vitality | 1.33 (75¢) | $26,382 | — | ⏳ Pendiente |
 | beeemw | Will Deportivo Alavés win on 2026-10-10? | No | 1.25 (80¢) | $36,800 | — | ⏳ Pendiente |
@@ -86,9 +87,9 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 | raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 2.00 (50¢) | $76,949 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Fulham FC win on 2026-10-10? | Yes | 2.56 (39¢) | $30,287 | — | ⏳ Pendiente |
 | CORGI777 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 2.38 (42¢) | $37,800 | — | ⏳ Pendiente |
-| fantasy7788 | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $60,000 | — | ⏳ Pendiente |
-| omnibus-076daa | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $33,189 | — | ⏳ Pendiente |
-| esportsbetter1 | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | Team Vitality | 2.13 (47¢) | $39,278 | — | ⏳ Pendiente |
+| fantasy7788 | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $60,000 | -$60,000 | ❌ Perdida |
+| omnibus-076daa | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $33,189 | -$33,189 | ❌ Perdida |
+| esportsbetter1 | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | Team Vitality | 2.13 (47¢) | $39,278 | +$44,293 | ✅ Ganada |
 | totoro3miyazaki | Will Athletic Club win on 2026-10-10? | Yes | 2.63 (38¢) | $77,702 | — | ⏳ Pendiente |
 | 177-letsgo | Will Leeds United FC win on 2026-10-10? | No | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
 | RJW1 | Spread: Arsenal FC (-1.5) | Leeds United FC | 1.67 (60¢) | $45,000 | +$30,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.22 (82¢) | $27,282 | +$5,989 | ✅ Ganada |
 | viboomchuu | Penguins vs. Blue Jackets | Penguins | 2.13 (47¢) | $37,707 | -$37,707 | ❌ Perdida |
 | Eztennis | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.70 (37¢) | $32,820 | -$32,820 | ❌ Perdida |
-| Diabolical-Prize | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $40,483 | -$40,483 | ❌ Perdida |

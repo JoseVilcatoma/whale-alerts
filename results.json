@@ -70543,7 +70543,7 @@
     "side": "BUY",
     "usd": 39278.4969,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791633176,
     "fills": 1
   },
@@ -70558,7 +70558,7 @@
     "side": "BUY",
     "usd": 33188.56,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791633687,
     "fills": 1
   },
@@ -70573,7 +70573,7 @@
     "side": "BUY",
     "usd": 59999.999999,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791633881,
     "fills": 1
   },
@@ -70800,6 +70800,21 @@
     "odds_at_bet": 37,
     "status": "pending",
     "ultimo_fill": 1791640689,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9614,
+    "timestamp": 1791641363,
+    "username": "Cbs710",
+    "wallet": "0x700a306c6dd9c87db2f5519b1bfae0340e83a239",
+    "slug": "lal-bar-get-2026-10-10-bar",
+    "title": "Will FC Barcelona win on 2026-10-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 54999.999999,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1791641363,
     "fills": 1
   }
 ]
