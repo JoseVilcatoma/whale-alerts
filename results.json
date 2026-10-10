@@ -70783,7 +70783,7 @@
     "side": "BUY",
     "usd": 26382.4759,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791640375,
     "fills": 1
   },
@@ -71115,6 +71115,36 @@
     "odds_at_bet": 53,
     "status": "pending",
     "ultimo_fill": 1791647993,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9636,
+    "timestamp": 1791648876,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "lal-bar-get-2026-10-10-bar",
+    "title": "Will FC Barcelona win on 2026-10-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 42715.2,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1791648876,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9637,
+    "timestamp": 1791648882,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lal-bar-get-2026-10-10-draw",
+    "title": "Will FC Barcelona vs. Getafe CF end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25742.08,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1791648882,
     "fills": 1
   }
 ]

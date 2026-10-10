@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 11:14:13 (hora de Perú)
+Actualizado: 2026-10-10 11:16:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4732**  ($254,750,517 en total)
-- Resueltas: **4671** — 2857 ganadas / 1814 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Apuestas registradas: **4734**  ($254,818,974 en total)
+- Resueltas: **4672** — 2858 ganadas / 1814 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 539
 
 ### Balance
 
-- **Resultado de los apostadores: +$103,716** sobre $252,165,755 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,910** sobre $461,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$112,511** sobre $252,192,137 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,876** sobre $461,200 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 539 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will FC Barcelona vs. Getafe CF end in a draw? | No | 1.10 (91¢) | $25,742 | — | ⏳ Pendiente |
+| Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $42,715 | — | ⏳ Pendiente |
 | surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | SDTrading | Central Michigan vs. Ohio | Ohio | 1.82 (55¢) | $27,559 | — | ⏳ Pendiente |
 | Kosherlocks | Indiana vs. Nebraska | Indiana | 1.33 (75¢) | $40,224 | — | ⏳ Pendiente |
@@ -93,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 539 en total)_
 | Sassy-Bucket | Texas A&M vs. Missouri | Texas A&M | 2.63 (38¢) | $37,911 | — | ⏳ Pendiente |
 | Cbs710 | Will FC Barcelona win on 2026-10-10? | Yes | 1.11 (90¢) | $55,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Under 2.5 | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
-| Sunshine.Smile | Counter-Strike: Aurora Gaming vs Vitality - Map 2 Winner | Vitality | 1.33 (75¢) | $26,382 | — | ⏳ Pendiente |
+| Sunshine.Smile | Counter-Strike: Aurora Gaming vs Vitality - Map 2 Winner | Vitality | 1.33 (75¢) | $26,382 | +$8,794 | ✅ Ganada |
 | beeemw | Will Deportivo Alavés win on 2026-10-10? | No | 1.25 (80¢) | $36,800 | — | ⏳ Pendiente |
 | fantasy7788 | Map Handicap: VIT (-1.5) vs Aurora Gaming (+1.5) | Aurora Gaming | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.30 (77¢) | $30,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 539 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.23 (81¢) | $31,815 | -$31,815 | ❌ Perdida |
 | Nooserac | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.22 (82¢) | $27,427 | -$27,427 | ❌ Perdida |
 | Hashbrown | Iowa vs. Washington | Iowa | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Texas (-7.5) | Oklahoma | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| Elaran1993 | Club Puebla vs. Club León FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $47,008 | -$47,008 | ❌ Perdida |
