@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 00:04:10 (hora de Perú)
+Actualizado: 2026-10-10 00:06:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4681**  ($252,518,809 en total)
+- Apuestas registradas: **4682**  ($252,545,809 en total)
 - Resueltas: **4659** — 2849 ganadas / 1810 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 534
 
 ### Balance
@@ -51,8 +51,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
 | mooseborzoii | 30 | 9 | 0 | 77% | $1,979,663 | +$816,993 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
+| ndb1 | 20 | 11 | 3 | 65% | $1,830,787 | +$343,738 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| ndb1 | 20 | 11 | 2 | 65% | $1,803,787 | +$343,738 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | SDTrading | 28 | 29 | 0 | 49% | $1,700,765 | -$158,341 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Will Chelsea FC win on 2026-10-10? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | ndb1 | Will Chelsea FC win on 2026-10-10? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | ndb1 | Will Chelsea FC win on 2026-10-10? | Yes | 1.85 (54¢) | $26,846 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Wyoming vs. San Jose State | San Jose State | 1.37 (73¢) | $28,596 | -$28,596 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Sassy-Bucket | Maple Leafs vs. Golden Knights | Golden Knights | 1.64 (61¢) | $121,033 | +$77,382 | ✅ Ganada |
 | mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.47 (68¢) | $38,015 | -$38,015 | ❌ Perdida |
 | TAIWANNUMBERONE | South Alabama vs. Arkansas State | South Alabama | 1.30 (77¢) | $27,214 | +$8,129 | ✅ Ganada |
-| ferrariChampions2026 | Buccaneers vs. Cowboys | Buccaneers | 5.00 (20¢) | $30,654 | +$122,616 | ✅ Ganada |
