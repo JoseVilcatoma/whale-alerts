@@ -71959,5 +71959,35 @@
     "status": "pending",
     "ultimo_fill": 1791674759,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9753,
+    "timestamp": 1791675645,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-ga-ala-2026-10-10-total-51pt5",
+    "title": "Georgia vs. Alabama: O/U 51.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 37805.72640000001,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1791675645,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9754,
+    "timestamp": 1791675671,
+    "username": "ohcanada123",
+    "wallet": "0x2e2609682b85c6c1afd7cc74136058a47f29d96f",
+    "slug": "cfb-ga-ala-2026-10-10",
+    "title": "Georgia vs. Alabama",
+    "outcome": "Georgia",
+    "side": "BUY",
+    "usd": 29360.8754,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1791675671,
+    "fills": 1
   }
 ]

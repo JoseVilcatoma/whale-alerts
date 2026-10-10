@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 18:40:44 (hora de Perú)
+Actualizado: 2026-10-10 18:42:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4788**  ($257,711,044 en total)
+- Apuestas registradas: **4790**  ($257,778,211 en total)
 - Resueltas: **4739** — 2908 ganadas / 1831 perdidas (**61%** de acierto)
-- Pendientes: 28
-- Apostadores distintos: 542
+- Pendientes: 30
+- Apostadores distintos: 543
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 347 | 182 | 6 | 66% | $33,281,388 | +$960,164 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 347 | 182 | 7 | 66% | $33,319,194 | +$960,164 |
 | Sassy-Bucket | 66 | 63 | 2 | 51% | $7,321,631 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Elaran1993 | 10 | 8 | 0 | 56% | $1,309,851 | +$248,205 |
 
-_(mostrando los 40 de mayor monto, de 542 en total)_
+_(mostrando los 40 de mayor monto, de 543 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ohcanada123 | Georgia vs. Alabama | Georgia | 2.17 (46¢) | $29,361 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Georgia vs. Alabama: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $37,806 | — | ⏳ Pendiente |
 | BoggsFromShawshank | Georgia vs. Alabama | Alabama | 1.85 (54¢) | $35,640 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Inter Miami CF vs. D.C. United SC: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Alabama (-2.5) | Alabama | 1.96 (51¢) | $78,293 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | ethanaz | Texas A&M vs. Missouri | Missouri | 1.52 (66¢) | $40,617 | +$20,924 | ✅ Ganada |
 | surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | SDTrading | Central Michigan vs. Ohio | Ohio | 1.82 (55¢) | $27,559 | +$22,548 | ✅ Ganada |
-| Kosherlocks | Indiana vs. Nebraska | Indiana | 1.33 (75¢) | $40,224 | +$13,408 | ✅ Ganada |
-| Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.12 (89¢) | $40,554 | +$5,012 | ✅ Ganada |
