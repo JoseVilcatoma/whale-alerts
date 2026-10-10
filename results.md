@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 18:20:04 (hora de Perú)
+Actualizado: 2026-10-10 18:22:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4787**  ($257,675,404 en total)
-- Resueltas: **4731** — 2904 ganadas / 1827 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **4733** — 2905 ganadas / 1828 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 542
 
 ### Balance
 
-- **Resultado de los apostadores: +$551,734** sobre $254,883,587 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,963** sobre $467,100 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$551,734** sobre $254,983,587 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,959** sobre $467,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 345 | 182 | 8 | 65% | $33,281,388 | +$827,164 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 346 | 182 | 7 | 66% | $33,281,388 | +$878,164 |
 | Sassy-Bucket | 66 | 61 | 4 | 52% | $7,321,631 | -$516,026 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
-| mooseborzoii | 30 | 9 | 5 | 77% | $2,255,192 | +$816,993 |
+| mooseborzoii | 30 | 10 | 4 | 75% | $2,255,192 | +$765,993 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
