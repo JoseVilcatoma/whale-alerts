@@ -71746,5 +71746,20 @@
     "status": "pending",
     "ultimo_fill": 1791668607,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9719,
+    "timestamp": 1791669560,
+    "username": "BoggsFromShawshank",
+    "wallet": "0xc660ae71765d0d9eaf5fa8328c1c959841d2bd28",
+    "slug": "ufc-all6-rharri-2026-10-10",
+    "title": "UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims)",
+    "outcome": "RJ Harris",
+    "side": "BUY",
+    "usd": 32148.0,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1791669560,
+    "fills": 1
   }
 ]
