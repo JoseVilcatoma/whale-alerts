@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 17:22:00 (hora de Perú)
+Actualizado: 2026-10-10 17:24:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4776**  ($256,953,143 en total)
+- Apuestas registradas: **4777**  ($256,989,895 en total)
 - Resueltas: **4725** — 2901 ganadas / 1824 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 542
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Gourmet1 | Red Wings vs. Canadiens | Red Wings | 2.78 (36¢) | $36,753 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $54,853 | — | ⏳ Pendiente |
 | BoggsFromShawshank | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $32,148 | — | ⏳ Pendiente |
 | surfandturf | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $85,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | vtcchampion52 | Dota 2: PARIVISION vs Aurora (BO3) - BLAST Slam Playoffs | PARIVISION | 1.14 (88¢) | $30,169 | +$4,114 | ✅ Ganada |
 | mooseborzoii | Spread: Kansas State (-2.5) | Kansas State | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | primm | Texas vs. Oklahoma | Texas | 1.33 (75¢) | $56,016 | — | ⏳ Pendiente |
-| primm | Texas A&M vs. Missouri | Missouri | 1.61 (62¢) | $121,605 | +$74,532 | ✅ Ganada |
