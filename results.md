@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 00:02:06 (hora de Perú)
+Actualizado: 2026-10-10 00:04:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4680**  ($252,491,809 en total)
-- Resueltas: **4658** — 2849 ganadas / 1809 perdidas (**61%** de acierto)
+- Apuestas registradas: **4681**  ($252,518,809 en total)
+- Resueltas: **4659** — 2849 ganadas / 1810 perdidas (**61%** de acierto)
 - Pendientes: 4
 - Apostadores distintos: 534
 
 ### Balance
 
-- **Resultado de los apostadores: +$166,004** sobre $251,647,072 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,861** sobre $459,800 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$118,996** sobre $251,694,080 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,961** sobre $459,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 30 | 9 | 0 | 77% | $1,979,663 | +$816,993 |
 | raybanman | 15 | 4 | 0 | 79% | $1,913,512 | +$875,464 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| ndb1 | 20 | 11 | 1 | 65% | $1,776,787 | +$343,738 |
+| ndb1 | 20 | 11 | 2 | 65% | $1,803,787 | +$343,738 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | SDTrading | 28 | 29 | 0 | 49% | $1,700,765 | -$158,341 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Elaran1993 | 10 | 7 | 1 | 59% | $1,309,851 | +$295,214 |
+| Elaran1993 | 10 | 8 | 0 | 56% | $1,309,851 | +$248,205 |
 
 _(mostrando los 40 de mayor monto, de 534 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Will Chelsea FC win on 2026-10-10? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | ndb1 | Will Chelsea FC win on 2026-10-10? | Yes | 1.85 (54¢) | $26,846 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Wyoming vs. San Jose State | San Jose State | 1.37 (73¢) | $28,596 | -$28,596 | ❌ Perdida |
 | CHZHSHCH | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 2.27 (44¢) | $211,782 | -$211,782 | ❌ Perdida |
@@ -78,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Nooserac | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.22 (82¢) | $27,427 | -$27,427 | ❌ Perdida |
 | Hashbrown | Iowa vs. Washington | Iowa | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Texas (-7.5) | Oklahoma | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| Elaran1993 | Club Puebla vs. Club León FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $47,008 | — | ⏳ Pendiente |
+| Elaran1993 | Club Puebla vs. Club León FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $47,008 | -$47,008 | ❌ Perdida |
 | viboomchuu | Ducks vs. Jets | Ducks | 2.08 (48¢) | $31,129 | +$33,723 | ✅ Ganada |
 | KaneAnalytics | Florida State vs. Louisville | Florida State | 1.32 (76¢) | $57,917 | -$57,917 | ❌ Perdida |
 | ferrariChampions2026 | Iowa vs. Washington | Iowa | 2.38 (42¢) | $33,000 | +$45,571 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.47 (68¢) | $38,015 | -$38,015 | ❌ Perdida |
 | TAIWANNUMBERONE | South Alabama vs. Arkansas State | South Alabama | 1.30 (77¢) | $27,214 | +$8,129 | ✅ Ganada |
 | ferrariChampions2026 | Buccaneers vs. Cowboys | Buccaneers | 5.00 (20¢) | $30,654 | +$122,616 | ✅ Ganada |
-| TAIWANNUMBERONE | South Alabama vs. Arkansas State | Arkansas State | 1.64 (61¢) | $34,806 | -$34,806 | ❌ Perdida |
