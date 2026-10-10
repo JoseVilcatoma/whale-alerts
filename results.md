@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 07:48:46 (hora de Perú)
+Actualizado: 2026-10-10 07:50:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4697**  ($253,185,955 en total)
+- Apuestas registradas: **4698**  ($253,216,242 en total)
 - Resueltas: **4661** — 2850 ganadas / 1811 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 534
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Bloodygoodrep1 | Will Fulham FC win on 2026-10-10? | Yes | 2.56 (39¢) | $30,287 | — | ⏳ Pendiente |
 | CORGI777 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 2.38 (42¢) | $37,800 | — | ⏳ Pendiente |
 | fantasy7788 | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $60,000 | — | ⏳ Pendiente |
 | omnibus-076daa | Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champions Playoffs | G2 Esports | 1.85 (54¢) | $33,189 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Eztennis | Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery | Arthur Fery | 2.08 (48¢) | $30,000 | -$30,000 | ❌ Perdida |
 | mbmbbbmbv | Valorant: 100 Thieves vs Nongshim RedForce (BO3) - VCT Champions Playoffs | 100 Thieves | 1.49 (67¢) | $50,758 | +$25,000 | ✅ Ganada |
 | BrotherObama | Map Handicap: VIT (-1.5) vs PARIVISION (+1.5) | Vitality | 1.72 (58¢) | $40,000 | +$28,966 | ✅ Ganada |
-| Medo3D | Dota 2: Team Spirit vs Aurora - Game 2 Winner | Team Spirit | 1.82 (55¢) | $30,657 | -$30,657 | ❌ Perdida |
