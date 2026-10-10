@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 14:23:18 (hora de Perú)
+Actualizado: 2026-10-10 14:25:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4757**  ($256,122,770 en total)
-- Resueltas: **4702** — 2880 ganadas / 1822 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Resueltas: **4707** — 2885 ganadas / 1822 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 541
 
 ### Balance
 
-- **Resultado de los apostadores: +$164,553** sobre $253,374,144 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,479** sobre $464,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$195,393** sobre $253,614,286 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,415** sobre $464,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 | Flaznorp | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $44,938 | — | ⏳ Pendiente |
 | n0tTODAY | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $25,730 | — | ⏳ Pendiente |
 | ScroooogeMcDuck | Counter-Strike: MOUZ vs Spirit - Map 2 Winner | Spirit | 1.69 (59¢) | $33,975 | — | ⏳ Pendiente |
-| vdsgsdfgb | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $35,990 | — | ⏳ Pendiente |
+| vdsgsdfgb | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $35,990 | +$4,908 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.10 (91¢) | $37,857 | +$3,744 | ✅ Ganada |
 | AnonymousUsername | Will Manchester United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.30 (77¢) | $31,047 | -$31,047 | ❌ Perdida |
 | ethBELIVER | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
@@ -94,15 +94,15 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $49,775 | +$6,152 | ✅ Ganada |
 | Nooserac | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $35,600 | +$4,400 | ✅ Ganada |
 | UpTheBlues | Will FC Barcelona vs. Getafe CF end in a draw? | No | 1.10 (91¢) | $25,742 | +$2,546 | ✅ Ganada |
-| Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $42,715 | — | ⏳ Pendiente |
+| Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $42,715 | +$5,825 | ✅ Ganada |
 | ethanaz | Texas A&M vs. Missouri | Missouri | 1.52 (66¢) | $40,617 | — | ⏳ Pendiente |
 | surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | SDTrading | Central Michigan vs. Ohio | Ohio | 1.82 (55¢) | $27,559 | — | ⏳ Pendiente |
 | Kosherlocks | Indiana vs. Nebraska | Indiana | 1.33 (75¢) | $40,224 | — | ⏳ Pendiente |
-| Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.12 (89¢) | $40,554 | — | ⏳ Pendiente |
+| Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.12 (89¢) | $40,554 | +$5,012 | ✅ Ganada |
 | THEHIGHLIFE | Dota 2: PARIVISION vs Aurora - Game 2 Winner | PARIVISION | 3.33 (30¢) | $30,874 | +$72,039 | ✅ Ganada |
 | surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
-| thegreatjeff | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $65,883 | — | ⏳ Pendiente |
+| thegreatjeff | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $65,883 | +$8,984 | ✅ Ganada |
 | UpTheBlues | Will Deportivo Alavés win on 2026-10-10? | No | 1.08 (93¢) | $26,483 | +$1,993 | ✅ Ganada |
 | juice-fruit | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.39 (72¢) | $42,954 | +$16,704 | ✅ Ganada |
 | Flaznorp | Will FC Internazionale Milano win on 2026-10-10? | Yes | 1.20 (83¢) | $33,660 | +$6,894 | ✅ Ganada |
@@ -116,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 | surfandturf | Will FC Bayern München win on 2026-10-10? | Yes | 1.75 (57¢) | $39,305 | -$39,305 | ❌ Perdida |
 | Sassy-Bucket | Texas A&M vs. Missouri | Texas A&M | 2.63 (38¢) | $40,924 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas A&M vs. Missouri | Texas A&M | 2.63 (38¢) | $37,911 | — | ⏳ Pendiente |
-| Cbs710 | Will FC Barcelona win on 2026-10-10? | Yes | 1.11 (90¢) | $55,000 | — | ⏳ Pendiente |
+| Cbs710 | Will FC Barcelona win on 2026-10-10? | Yes | 1.11 (90¢) | $55,000 | +$6,111 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Under 2.5 | 2.70 (37¢) | $37,000 | -$37,000 | ❌ Perdida |
 | Sunshine.Smile | Counter-Strike: Aurora Gaming vs Vitality - Map 2 Winner | Vitality | 1.33 (75¢) | $26,382 | +$8,794 | ✅ Ganada |
 | beeemw | Will Deportivo Alavés win on 2026-10-10? | No | 1.25 (80¢) | $36,800 | +$9,200 | ✅ Ganada |
