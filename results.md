@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 18:42:43 (hora de Perú)
+Actualizado: 2026-10-10 18:44:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4790**  ($257,778,211 en total)
-- Resueltas: **4739** — 2908 ganadas / 1831 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **4740** — 2908 ganadas / 1832 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 543
 
 ### Balance
 
-- **Resultado de los apostadores: +$511,944** sobre $255,482,880 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,140** sobre $467,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$475,984** sobre $255,518,840 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,240** sobre $468,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 4.17 (24¢) | $28,362 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Texas (-7.5) | Oklahoma | 2.00 (50¢) | $31,500 | — | ⏳ Pendiente |
 | Kch-Temp | Tulsa vs. Navy | Navy | 1.69 (59¢) | $41,062 | +$28,535 | ✅ Ganada |
-| nuttypoo | Texas vs. Oklahoma: O/U 42.5 | Under 42.5 | 1.75 (57¢) | $35,960 | — | ⏳ Pendiente |
+| nuttypoo | Texas vs. Oklahoma: O/U 42.5 | Under 42.5 | 1.75 (57¢) | $35,960 | -$35,960 | ❌ Perdida |
 | ethanaz | Indiana vs. Nebraska | Indiana | 1.37 (73¢) | $60,667 | +$22,438 | ✅ Ganada |
 | Donkey14 | Spread: Texas (-7.5) | Texas | 2.00 (50¢) | $31,200 | — | ⏳ Pendiente |
 | nigiri99 | Virginia Tech vs. California | Virginia Tech | 1.30 (77¢) | $40,094 | -$40,094 | ❌ Perdida |
