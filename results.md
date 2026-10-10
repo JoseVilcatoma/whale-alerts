@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 17:11:47 (hora de Perú)
+Actualizado: 2026-10-10 17:13:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4776**  ($256,953,143 en total)
-- Resueltas: **4720** — 2896 ganadas / 1824 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **4722** — 2898 ganadas / 1824 perdidas (**61%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 542
 
 ### Balance
 
-- **Resultado de los apostadores: +$553,948** sobre $254,460,277 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,007** sobre $466,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$568,423** sobre $254,530,945 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,966** sobre $466,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -101,8 +101,8 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | BrotherObama | Chicago White Sox vs. Cleveland Guardians | Chicago White Sox | 2.27 (44¢) | $90,000 | — | ⏳ Pendiente |
 | Kch-Temp | Ole Miss vs. Vanderbilt | Ole Miss | 1.32 (76¢) | $164,191 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 1.45 (69¢) | $45,815 | +$20,583 | ✅ Ganada |
-| Flaznorp | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $44,938 | — | ⏳ Pendiente |
-| n0tTODAY | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $25,730 | — | ⏳ Pendiente |
+| Flaznorp | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $44,938 | +$9,204 | ✅ Ganada |
+| n0tTODAY | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $25,730 | +$5,270 | ✅ Ganada |
 | ScroooogeMcDuck | Counter-Strike: MOUZ vs Spirit - Map 2 Winner | Spirit | 1.69 (59¢) | $33,975 | +$23,610 | ✅ Ganada |
 | vdsgsdfgb | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $35,990 | +$4,908 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.10 (91¢) | $37,857 | +$3,744 | ✅ Ganada |
