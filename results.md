@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 21:45:22 (hora de Perú)
+Actualizado: 2026-10-09 21:47:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4675**  ($252,165,343 en total)
+- Apuestas registradas: **4677**  ($252,224,585 en total)
 - Resueltas: **4649** — 2846 ganadas / 1803 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 10
 - Apostadores distintos: 534
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 341 | 179 | 3 | 66% | $32,563,698 | +$830,385 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 341 | 179 | 4 | 66% | $32,595,513 | +$830,385 |
 | Sassy-Bucket | 66 | 59 | 0 | 53% | $6,991,704 | -$437,191 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 1 | 52% | $6,882,375 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.23 (81¢) | $31,815 | — | ⏳ Pendiente |
+| Nooserac | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.22 (82¢) | $27,427 | — | ⏳ Pendiente |
 | Hashbrown | Iowa vs. Washington | Iowa | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Texas (-7.5) | Oklahoma | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Elaran1993 | Club Puebla vs. Club León FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $47,008 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | milkteaboba | Buccaneers vs. Cowboys | Cowboys | 1.23 (81¢) | $57,959 | -$57,959 | ❌ Perdida |
 | ferrariChampions2026 | Utah vs. Bruins | Bruins | 1.15 (87¢) | $29,217 | +$4,366 | ✅ Ganada |
 | Eztennis | Cleveland Guardians vs. Chicago White Sox | Chicago White Sox | 2.04 (49¢) | $50,000 | -$50,000 | ❌ Perdida |
-| Sassy-Bucket | Spread: Arkansas State (-3.5) | South Alabama | 1.89 (53¢) | $75,447 | +$66,906 | ✅ Ganada |
-| Sassy-Bucket | South Alabama vs. Arkansas State | South Alabama | 2.38 (42¢) | $69,604 | +$96,120 | ✅ Ganada |
