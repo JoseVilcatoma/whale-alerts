@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 18:26:10 (hora de Perú)
+Actualizado: 2026-10-10 18:28:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4788**  ($257,711,044 en total)
-- Resueltas: **4733** — 2905 ganadas / 1828 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **4734** — 2905 ganadas / 1829 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 542
 
 ### Balance
 
-- **Resultado de los apostadores: +$551,734** sobre $254,983,587 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,959** sobre $467,300 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$511,641** sobre $255,023,680 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,059** sobre $467,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | nuttypoo | Texas vs. Oklahoma: O/U 42.5 | Under 42.5 | 1.75 (57¢) | $35,960 | — | ⏳ Pendiente |
 | ethanaz | Indiana vs. Nebraska | Indiana | 1.37 (73¢) | $60,667 | +$22,438 | ✅ Ganada |
 | Donkey14 | Spread: Texas (-7.5) | Texas | 2.00 (50¢) | $31,200 | — | ⏳ Pendiente |
-| nigiri99 | Virginia Tech vs. California | Virginia Tech | 1.30 (77¢) | $40,094 | — | ⏳ Pendiente |
+| nigiri99 | Virginia Tech vs. California | Virginia Tech | 1.30 (77¢) | $40,094 | -$40,094 | ❌ Perdida |
 | viboomchuu | Spread: Devils (-1.5) | Devils | 1.92 (52¢) | $25,191 | +$23,253 | ✅ Ganada |
 | kmak1 | Will Real Madrid CF win on 2026-10-10? | Yes | 1.35 (74¢) | $34,257 | +$12,036 | ✅ Ganada |
 | 177-letsgo | Indiana vs. Nebraska | Indiana | 1.12 (89¢) | $40,050 | +$4,950 | ✅ Ganada |
