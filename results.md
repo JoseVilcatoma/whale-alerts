@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 23:49:53 (hora de Perú)
+Actualizado: 2026-10-09 23:51:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4680**  ($252,491,809 en total)
-- Resueltas: **4655** — 2847 ganadas / 1808 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **4658** — 2849 ganadas / 1809 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 534
 
 ### Balance
 
-- **Resultado de los apostadores: +$147,732** sobre $251,556,772 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,909** sobre $459,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$166,004** sobre $251,647,072 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,861** sobre $459,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,9 +34,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 74 | 39 | 1 | 65% | $4,638,683 | -$133,423 |
+| ferrariChampions2026 | 75 | 39 | 0 | 66% | $4,638,683 | -$87,852 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| BrotherObama | 39 | 39 | 3 | 50% | $3,618,447 | +$153,271 |
+| BrotherObama | 39 | 40 | 2 | 49% | $3,618,447 | +$123,271 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 0 | 84% | $2,958,716 | +$569,130 |
@@ -76,12 +76,12 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | CHZHSHCH | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 2.27 (44¢) | $211,782 | -$211,782 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.23 (81¢) | $31,815 | -$31,815 | ❌ Perdida |
 | Nooserac | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.22 (82¢) | $27,427 | -$27,427 | ❌ Perdida |
-| Hashbrown | Iowa vs. Washington | Iowa | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
+| Hashbrown | Iowa vs. Washington | Iowa | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Texas (-7.5) | Oklahoma | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Elaran1993 | Club Puebla vs. Club León FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $47,008 | — | ⏳ Pendiente |
 | viboomchuu | Ducks vs. Jets | Ducks | 2.08 (48¢) | $31,129 | +$33,723 | ✅ Ganada |
 | KaneAnalytics | Florida State vs. Louisville | Florida State | 1.32 (76¢) | $57,917 | -$57,917 | ❌ Perdida |
-| ferrariChampions2026 | Iowa vs. Washington | Iowa | 2.38 (42¢) | $33,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Iowa vs. Washington | Iowa | 2.38 (42¢) | $33,000 | +$45,571 | ✅ Ganada |
 | justwins | Spread: New York Liberty (-3.5) | Atlanta Dream | 2.04 (49¢) | $25,172 | +$26,200 | ✅ Ganada |
 | Sassy-Bucket | Atlanta Dream vs. New York Liberty | Atlanta Dream | 2.56 (39¢) | $39,000 | +$61,000 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.69 (59¢) | $59,000 | +$41,000 | ✅ Ganada |
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Diabolical-Prize | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $26,240 | -$26,240 | ❌ Perdida |
 | juice-fruit | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $108,165 | +$75,165 | ✅ Ganada |
 | crazyoddslover | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 1.92 (52¢) | $190,650 | -$190,650 | ❌ Perdida |
-| BrotherObama | Spread: Washington (-2.5) | Washington | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Washington (-2.5) | Washington | 1.85 (54¢) | $30,000 | -$30,000 | ❌ Perdida |
 | Eztennis | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 2.04 (49¢) | $46,758 | -$46,758 | ❌ Perdida |
 | crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $219,354 | +$152,432 | ✅ Ganada |
 | rookie765 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $36,207 | +$25,161 | ✅ Ganada |
