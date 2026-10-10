@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 10:43:23 (hora de Perú)
+Actualizado: 2026-10-10 10:45:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4725**  ($254,491,922 en total)
+- Apuestas registradas: **4727**  ($254,584,806 en total)
 - Resueltas: **4671** — 2857 ganadas / 1814 perdidas (**61%** de acierto)
-- Pendientes: 36
-- Apostadores distintos: 537
+- Pendientes: 38
+- Apostadores distintos: 538
 
 ### Balance
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 39 | 40 | 2 | 49% | $3,618,447 | +$123,271 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| surfandturf | 27 | 5 | 1 | 84% | $2,998,021 | +$569,130 |
+| surfandturf | 27 | 5 | 2 | 84% | $3,025,021 | +$569,130 |
 | Lakersfan111 | 41 | 22 | 1 | 65% | $2,997,373 | +$341,513 |
 | maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Elaran1993 | 10 | 8 | 0 | 56% | $1,309,851 | +$248,205 |
 
-_(mostrando los 40 de mayor monto, de 537 en total)_
+_(mostrando los 40 de mayor monto, de 538 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
+| thegreatjeff | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $65,883 | — | ⏳ Pendiente |
 | UpTheBlues | Will Deportivo Alavés win on 2026-10-10? | No | 1.08 (93¢) | $26,483 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.39 (72¢) | $42,954 | — | ⏳ Pendiente |
 | Flaznorp | Will FC Internazionale Milano win on 2026-10-10? | Yes | 1.20 (83¢) | $33,660 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 537 en total)_
 | ferrariChampions2026 | Iowa vs. Washington | Iowa | 2.38 (42¢) | $33,000 | +$45,571 | ✅ Ganada |
 | justwins | Spread: New York Liberty (-3.5) | Atlanta Dream | 2.04 (49¢) | $25,172 | +$26,200 | ✅ Ganada |
 | Sassy-Bucket | Atlanta Dream vs. New York Liberty | Atlanta Dream | 2.56 (39¢) | $39,000 | +$61,000 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.69 (59¢) | $59,000 | +$41,000 | ✅ Ganada |
-| hansama231 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.44 (41¢) | $29,508 | -$29,508 | ❌ Perdida |

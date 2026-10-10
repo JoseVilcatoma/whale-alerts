@@ -71011,5 +71011,35 @@
     "status": "pending",
     "ultimo_fill": 1791646738,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9629,
+    "timestamp": 1791647038,
+    "username": "thegreatjeff",
+    "wallet": "0xd60419ae698bd0ae7c0ef69470bfc1e0f9a9bc8a",
+    "slug": "lal-bar-get-2026-10-10-bar",
+    "title": "Will FC Barcelona win on 2026-10-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 65883.44999600001,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1791647038,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9630,
+    "timestamp": 1791647053,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "cfb-arz-wvir-2026-10-10-total-59pt5",
+    "title": "Arizona vs. West Virginia: O/U 59.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 27000.054,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1791647053,
+    "fills": 1
   }
 ]
