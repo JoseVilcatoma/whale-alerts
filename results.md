@@ -1,6 +1,6 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 17:15:49 (hora de Perú)
+Actualizado: 2026-10-10 17:17:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
@@ -8,7 +8,7 @@ Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 - Apuestas registradas: **4776**  ($256,953,143 en total)
 - Resueltas: **4725** — 2901 ganadas / 1824 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 30
 - Apostadores distintos: 542
 
 ### Balance
@@ -76,10 +76,10 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | surfandturf | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $85,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 2.13 (47¢) | $29,050 | — | ⏳ Pendiente |
 | ferrariChampions2026 | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $40,611 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $59,421 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $59,421 | — | ⊘ Anulada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.22 (82¢) | $25,002 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $51,605 | — | ⏳ Pendiente |
-| mooseborzoii | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Ernesta Kareckaite | 2.17 (46¢) | $31,016 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $51,605 | — | ⊘ Anulada |
+| mooseborzoii | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Ernesta Kareckaite | 2.17 (46¢) | $31,016 | — | ⊘ Anulada |
 | MinevaJ | Will Real Madrid CF win on 2026-10-10? | Yes | 1.14 (88¢) | $30,423 | +$4,149 | ✅ Ganada |
 | curie | Will Real Madrid CF win on 2026-10-10? | Yes | 1.11 (90¢) | $78,247 | +$8,694 | ✅ Ganada |
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.15 (87¢) | $26,099 | — | ⏳ Pendiente |
