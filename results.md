@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 20:16:53 (hora de Perú)
+Actualizado: 2026-10-09 20:18:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4673**  ($252,112,543 en total)
+- Apuestas registradas: **4674**  ($252,138,043 en total)
 - Resueltas: **4646** — 2844 ganadas / 1802 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 534
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 341 | 179 | 3 | 66% | $32,563,698 | +$830,385 |
 | Sassy-Bucket | 65 | 59 | 1 | 52% | $6,991,704 | -$498,191 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 0 | 52% | $6,856,875 | -$494,079 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 1 | 52% | $6,882,375 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | Diabolical-Prize | 58 | 57 | 0 | 50% | $5,906,619 | -$324,724 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Texas (-7.5) | Oklahoma | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Elaran1993 | Club Puebla vs. Club León FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $47,008 | — | ⏳ Pendiente |
 | viboomchuu | Ducks vs. Jets | Ducks | 2.08 (48¢) | $31,129 | — | ⏳ Pendiente |
 | KaneAnalytics | Florida State vs. Louisville | Florida State | 1.32 (76¢) | $57,917 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Sassy-Bucket | Spread: Arkansas State (-3.5) | South Alabama | 1.89 (53¢) | $75,447 | +$66,906 | ✅ Ganada |
 | Sassy-Bucket | South Alabama vs. Arkansas State | South Alabama | 2.38 (42¢) | $69,604 | +$96,120 | ✅ Ganada |
 | Sassy-Bucket | Blackhawks vs. Islanders | Blackhawks | 2.63 (38¢) | $38,129 | -$38,129 | ❌ Perdida |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Bruins | Utah | 1.79 (56¢) | $163,621 | -$163,621 | ❌ Perdida |
