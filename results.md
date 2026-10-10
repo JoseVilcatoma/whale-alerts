@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 17:34:36 (hora de Perú)
+Actualizado: 2026-10-10 17:36:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4778**  ($257,046,412 en total)
+- Apuestas registradas: **4779**  ($257,154,499 en total)
 - Resueltas: **4728** — 2902 ganadas / 1826 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 542
 
 ### Balance
@@ -47,9 +47,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
+| mooseborzoii | 30 | 9 | 4 | 77% | $2,226,283 | +$816,993 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
-| mooseborzoii | 30 | 9 | 3 | 77% | $2,118,196 | +$816,993 |
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
 | ndb1 | 23 | 11 | 0 | 68% | $1,830,787 | +$412,607 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $108,087 | — | ⏳ Pendiente |
 | mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $56,517 | — | ⏳ Pendiente |
 | Gourmet1 | Red Wings vs. Canadiens | Red Wings | 2.78 (36¢) | $36,753 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $54,853 | -$54,853 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Kansas State (-2.5) | Houston | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | tikstt2 | Will Fulham FC win on 2026-10-10? | No | 1.56 (64¢) | $45,625 | +$25,664 | ✅ Ganada |
 | vtcchampion52 | Dota 2: PARIVISION vs Aurora (BO3) - BLAST Slam Playoffs | PARIVISION | 1.14 (88¢) | $30,169 | +$4,114 | ✅ Ganada |
-| mooseborzoii | Spread: Kansas State (-2.5) | Kansas State | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
