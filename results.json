@@ -70726,5 +70726,20 @@
     "status": "pending",
     "ultimo_fill": 1791639419,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9602,
+    "timestamp": 1791639581,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "cs2-aur1-vit-2026-10-10",
+    "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 29999.999999000003,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1791639581,
+    "fills": 1
   }
 ]
