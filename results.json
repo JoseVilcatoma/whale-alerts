@@ -70741,5 +70741,20 @@
     "status": "pending",
     "ultimo_fill": 1791639581,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9603,
+    "timestamp": 1791639713,
+    "username": "fantasy7788",
+    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+    "slug": "cs2-aur1-vit-2026-10-10-map-handicap-home-1pt5",
+    "title": "Map Handicap: VIT (-1.5) vs Aurora Gaming (+1.5)",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 30000.000000000004,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1791639713,
+    "fills": 1
   }
 ]
