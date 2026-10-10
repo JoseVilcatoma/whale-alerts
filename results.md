@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 18:44:43 (hora de Perú)
+Actualizado: 2026-10-10 18:46:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4790**  ($257,778,211 en total)
-- Resueltas: **4740** — 2908 ganadas / 1832 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **4742** — 2910 ganadas / 1832 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 543
 
 ### Balance
 
-- **Resultado de los apostadores: +$475,984** sobre $255,518,840 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,240** sobre $468,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$598,557** sobre $255,576,252 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,810** sobre $468,200 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 75 | 39 | 3 | 66% | $4,736,705 | -$87,852 |
+| ferrariChampions2026 | 77 | 39 | 1 | 66% | $4,736,705 | +$34,721 |
 | BrotherObama | 39 | 40 | 3 | 49% | $3,708,447 | +$123,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 44 | 19 | 0 | 70% | $3,637,773 | -$148,509 |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $54,853 | -$54,853 | ❌ Perdida |
 | BoggsFromShawshank | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $32,148 | -$32,148 | ❌ Perdida |
 | surfandturf | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $85,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | UCLA vs. Oregon | UCLA | 2.13 (47¢) | $29,050 | — | ⏳ Pendiente |
+| ferrariChampions2026 | UCLA vs. Oregon | UCLA | 2.13 (47¢) | $29,050 | +$32,758 | ✅ Ganada |
 | ferrariChampions2026 | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $40,611 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $59,421 | — | ⊘ Anulada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.22 (82¢) | $25,002 | — | ⏳ Pendiente |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.28 (78¢) | $83,158 | — | ⏳ Pendiente |
 | 177-letsgo | Ole Miss vs. Vanderbilt | Ole Miss | 1.18 (85¢) | $36,944 | +$6,519 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.25 (80¢) | $29,912 | — | ⏳ Pendiente |
-| ferrariChampions2026 | UCLA vs. Oregon | UCLA | 4.17 (24¢) | $28,362 | — | ⏳ Pendiente |
+| ferrariChampions2026 | UCLA vs. Oregon | UCLA | 4.17 (24¢) | $28,362 | +$89,814 | ✅ Ganada |
 | gmpm2 | Spread: Texas (-7.5) | Oklahoma | 2.00 (50¢) | $31,500 | — | ⏳ Pendiente |
 | Kch-Temp | Tulsa vs. Navy | Navy | 1.69 (59¢) | $41,062 | +$28,535 | ✅ Ganada |
 | nuttypoo | Texas vs. Oklahoma: O/U 42.5 | Under 42.5 | 1.75 (57¢) | $35,960 | -$35,960 | ❌ Perdida |
