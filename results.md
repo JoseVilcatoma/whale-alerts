@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 17:13:48 (hora de Perú)
+Actualizado: 2026-10-10 17:15:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4776**  ($256,953,143 en total)
-- Resueltas: **4722** — 2898 ganadas / 1824 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **4725** — 2901 ganadas / 1824 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 542
 
 ### Balance
 
-- **Resultado de los apostadores: +$568,423** sobre $254,530,945 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,966** sobre $466,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$593,301** sobre $254,673,872 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,906** sobre $466,500 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,8 +80,8 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.22 (82¢) | $25,002 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $51,605 | — | ⏳ Pendiente |
 | mooseborzoii | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Ernesta Kareckaite | 2.17 (46¢) | $31,016 | — | ⏳ Pendiente |
-| MinevaJ | Will Real Madrid CF win on 2026-10-10? | Yes | 1.14 (88¢) | $30,423 | — | ⏳ Pendiente |
-| curie | Will Real Madrid CF win on 2026-10-10? | Yes | 1.11 (90¢) | $78,247 | — | ⏳ Pendiente |
+| MinevaJ | Will Real Madrid CF win on 2026-10-10? | Yes | 1.14 (88¢) | $30,423 | +$4,149 | ✅ Ganada |
+| curie | Will Real Madrid CF win on 2026-10-10? | Yes | 1.11 (90¢) | $78,247 | +$8,694 | ✅ Ganada |
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.15 (87¢) | $26,099 | — | ⏳ Pendiente |
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.28 (78¢) | $83,158 | — | ⏳ Pendiente |
 | 177-letsgo | Ole Miss vs. Vanderbilt | Ole Miss | 1.18 (85¢) | $36,944 | — | ⏳ Pendiente |
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | Donkey14 | Spread: Texas (-7.5) | Texas | 2.00 (50¢) | $31,200 | — | ⏳ Pendiente |
 | nigiri99 | Virginia Tech vs. California | Virginia Tech | 1.30 (77¢) | $40,094 | — | ⏳ Pendiente |
 | viboomchuu | Spread: Devils (-1.5) | Devils | 1.92 (52¢) | $25,191 | — | ⏳ Pendiente |
-| kmak1 | Will Real Madrid CF win on 2026-10-10? | Yes | 1.35 (74¢) | $34,257 | — | ⏳ Pendiente |
+| kmak1 | Will Real Madrid CF win on 2026-10-10? | Yes | 1.35 (74¢) | $34,257 | +$12,036 | ✅ Ganada |
 | 177-letsgo | Indiana vs. Nebraska | Indiana | 1.12 (89¢) | $40,050 | +$4,950 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
 | ethanaz | Indiana vs. Nebraska | Indiana | 1.32 (76¢) | $29,527 | +$9,324 | ✅ Ganada |
