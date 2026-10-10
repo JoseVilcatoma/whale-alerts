@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 14:37:40 (hora de Perú)
+Actualizado: 2026-10-10 14:39:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4759**  ($256,199,791 en total)
+- Apuestas registradas: **4760**  ($256,231,291 en total)
 - Resueltas: **4707** — 2885 ganadas / 1822 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 541
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 29 | 6 | 0 | 83% | $3,051,521 | +$576,325 |
 | Lakersfan111 | 41 | 23 | 0 | 64% | $2,997,373 | +$300,812 |
-| maz26 | 24 | 16 | 0 | 60% | $2,646,771 | -$31,372 |
+| maz26 | 24 | 16 | 1 | 60% | $2,678,271 | -$31,372 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Kch-Temp | 28 | 10 | 3 | 74% | $2,489,786 | +$1,199,855 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Spread: Texas (-7.5) | Oklahoma | 2.00 (50¢) | $31,500 | — | ⏳ Pendiente |
 | Kch-Temp | Tulsa vs. Navy | Navy | 1.69 (59¢) | $41,062 | — | ⏳ Pendiente |
 | nuttypoo | Texas vs. Oklahoma: O/U 42.5 | Under 42.5 | 1.75 (57¢) | $35,960 | — | ⏳ Pendiente |
 | ethanaz | Indiana vs. Nebraska | Indiana | 1.37 (73¢) | $60,667 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 | juice-fruit | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Over 2.5 | 1.61 (62¢) | $96,039 | +$58,863 | ✅ Ganada |
 | Yellow-Fever | Will FC Augsburg vs. FC Bayern München end in a draw? | No | 1.11 (90¢) | $29,700 | -$29,700 | ❌ Perdida |
 | kmak1 | Will Arsenal FC win on 2026-10-10? | Yes | 1.15 (87¢) | $51,847 | +$7,747 | ✅ Ganada |
-| raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 1.92 (52¢) | $93,600 | -$93,600 | ❌ Perdida |
