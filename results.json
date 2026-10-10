@@ -71611,5 +71611,20 @@
     "status": "pending",
     "ultimo_fill": 1791663564,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9707,
+    "timestamp": 1791664232,
+    "username": "curie",
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "slug": "lal-rea-vil-2026-10-10-rea",
+    "title": "Will Real Madrid CF win on 2026-10-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 78246.90000000001,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1791664232,
+    "fills": 1
   }
 ]
