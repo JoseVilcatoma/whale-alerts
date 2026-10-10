@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 17:40:43 (hora de Perú)
+Actualizado: 2026-10-10 17:42:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4780**  ($257,195,789 en total)
+- Apuestas registradas: **4780**  ($257,226,838 en total)
 - Resueltas: **4728** — 2902 ganadas / 1826 perdidas (**61%** de acierto)
 - Pendientes: 31
 - Apostadores distintos: 542
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 177-letsgo | Texas vs. Oklahoma | Texas | 1.75 (57¢) | $41,290 | — | ⏳ Pendiente |
+| 177-letsgo | Texas vs. Oklahoma | Texas | 1.75 (57¢) | $72,339 | — | ⏳ Pendiente |
 | mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $108,087 | — | ⏳ Pendiente |
 | mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $56,517 | — | ⏳ Pendiente |
 | Gourmet1 | Red Wings vs. Canadiens | Red Wings | 2.78 (36¢) | $36,753 | — | ⏳ Pendiente |
