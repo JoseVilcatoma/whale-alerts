@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 18:32:25 (hora de Perú)
+Actualizado: 2026-10-10 18:34:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4788**  ($257,711,044 en total)
-- Resueltas: **4734** — 2905 ganadas / 1829 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **4739** — 2908 ganadas / 1831 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 542
 
 ### Balance
 
-- **Resultado de los apostadores: +$511,641** sobre $255,023,680 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,059** sobre $467,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$511,944** sobre $255,482,880 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,140** sobre $467,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 346 | 182 | 7 | 66% | $33,281,388 | +$878,164 |
-| Sassy-Bucket | 66 | 61 | 4 | 52% | $7,321,631 | -$516,026 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 347 | 182 | 6 | 66% | $33,281,388 | +$960,164 |
+| Sassy-Bucket | 66 | 63 | 2 | 51% | $7,321,631 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 41 | 23 | 0 | 64% | $2,997,373 | +$300,812 |
 | maz26 | 24 | 16 | 1 | 60% | $2,678,271 | -$31,372 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Kch-Temp | 29 | 10 | 2 | 74% | $2,489,786 | +$1,228,390 |
+| Kch-Temp | 30 | 10 | 1 | 75% | $2,489,786 | +$1,280,240 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
@@ -74,10 +74,10 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | BoggsFromShawshank | Georgia vs. Alabama | Alabama | 1.85 (54¢) | $35,640 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Inter Miami CF vs. D.C. United SC: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Alabama (-2.5) | Alabama | 1.96 (51¢) | $78,293 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.44 (41¢) | $93,336 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Francisco Prado | 1.69 (59¢) | $118,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.44 (41¢) | $93,336 | -$93,336 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Francisco Prado | 1.69 (59¢) | $118,000 | +$82,000 | ✅ Ganada |
 | mooseborzoii | Texas vs. Oklahoma | Oklahoma | 1.43 (70¢) | $28,908 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.50 (40¢) | $46,730 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.50 (40¢) | $46,730 | -$46,730 | ❌ Perdida |
 | nuttypoo | LSU vs. Kentucky: O/U 51.5 | Under 51.5 | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.75 (57¢) | $72,339 | — | ⏳ Pendiente |
 | mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $108,087 | — | ⏳ Pendiente |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | curie | Will Real Madrid CF win on 2026-10-10? | Yes | 1.11 (90¢) | $78,247 | +$8,694 | ✅ Ganada |
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.15 (87¢) | $26,099 | — | ⏳ Pendiente |
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.28 (78¢) | $83,158 | — | ⏳ Pendiente |
-| 177-letsgo | Ole Miss vs. Vanderbilt | Ole Miss | 1.18 (85¢) | $36,944 | — | ⏳ Pendiente |
+| 177-letsgo | Ole Miss vs. Vanderbilt | Ole Miss | 1.18 (85¢) | $36,944 | +$6,519 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.25 (80¢) | $29,912 | — | ⏳ Pendiente |
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 4.17 (24¢) | $28,362 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Texas (-7.5) | Oklahoma | 2.00 (50¢) | $31,500 | — | ⏳ Pendiente |
@@ -111,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
 | ethanaz | Indiana vs. Nebraska | Indiana | 1.32 (76¢) | $29,527 | +$9,324 | ✅ Ganada |
 | BrotherObama | Chicago White Sox vs. Cleveland Guardians | Chicago White Sox | 2.27 (44¢) | $90,000 | — | ⏳ Pendiente |
-| Kch-Temp | Ole Miss vs. Vanderbilt | Ole Miss | 1.32 (76¢) | $164,191 | — | ⏳ Pendiente |
+| Kch-Temp | Ole Miss vs. Vanderbilt | Ole Miss | 1.32 (76¢) | $164,191 | +$51,850 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 1.45 (69¢) | $45,815 | +$20,583 | ✅ Ganada |
 | Flaznorp | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $44,938 | +$9,204 | ✅ Ganada |
 | n0tTODAY | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $25,730 | +$5,270 | ✅ Ganada |
