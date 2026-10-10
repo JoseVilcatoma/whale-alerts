@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 18:50:50 (hora de Perú)
+Actualizado: 2026-10-10 18:52:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4790**  ($257,778,211 en total)
+- Apuestas registradas: **4791**  ($257,803,429 en total)
 - Resueltas: **4742** — 2910 ganadas / 1832 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 543
 
 ### Balance
@@ -46,8 +46,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 30 | 10 | 1 | 75% | $2,489,786 | +$1,280,240 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
+| mooseborzoii | 30 | 10 | 5 | 75% | $2,280,410 | +$765,993 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
-| mooseborzoii | 30 | 10 | 4 | 75% | $2,255,192 | +$765,993 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Georgia vs. Alabama | Alabama | 1.92 (52¢) | $25,218 | — | ⏳ Pendiente |
 | ohcanada123 | Georgia vs. Alabama | Georgia | 2.17 (46¢) | $29,361 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Georgia vs. Alabama: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $37,806 | — | ⏳ Pendiente |
 | BoggsFromShawshank | Georgia vs. Alabama | Alabama | 1.85 (54¢) | $35,640 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 | Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $42,715 | +$5,825 | ✅ Ganada |
 | ethanaz | Texas A&M vs. Missouri | Missouri | 1.52 (66¢) | $40,617 | +$20,924 | ✅ Ganada |
 | surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
-| SDTrading | Central Michigan vs. Ohio | Ohio | 1.82 (55¢) | $27,559 | +$22,548 | ✅ Ganada |
