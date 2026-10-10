@@ -71641,5 +71641,35 @@
     "status": "pending",
     "ultimo_fill": 1791665304,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9709,
+    "timestamp": 1791666255,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "ufc-mel1-ern2-2026-10-10",
+    "title": "UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims)",
+    "outcome": "Ernesta Kareckaite",
+    "side": "BUY",
+    "usd": 31015.9968,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1791666255,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9710,
+    "timestamp": 1791666311,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "ufc-mel1-ern2-2026-10-10",
+    "title": "UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims)",
+    "outcome": "Melissa Gatto",
+    "side": "BUY",
+    "usd": 51605.100000000006,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1791666311,
+    "fills": 1
   }
 ]
