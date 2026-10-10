@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 08:17:24 (hora de Perú)
+Actualizado: 2026-10-10 08:19:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4702**  ($253,468,338 en total)
+- Apuestas registradas: **4703**  ($253,564,377 en total)
 - Resueltas: **4661** — 2850 ganadas / 1811 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 536
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Over 2.5 | 1.61 (62¢) | $96,039 | — | ⏳ Pendiente |
 | Yellow-Fever | Will FC Augsburg vs. FC Bayern München end in a draw? | No | 1.11 (90¢) | $29,700 | — | ⏳ Pendiente |
 | kmak1 | Will Arsenal FC win on 2026-10-10? | Yes | 1.15 (87¢) | $51,847 | — | ⏳ Pendiente |
 | raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 1.92 (52¢) | $93,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 | BrotherObama | Spread: Washington (-2.5) | Washington | 1.85 (54¢) | $30,000 | -$30,000 | ❌ Perdida |
 | Eztennis | Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti | Lorenzo Musetti | 2.04 (49¢) | $46,758 | -$46,758 | ❌ Perdida |
 | crispychook99 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $219,354 | +$152,432 | ✅ Ganada |
-| rookie765 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $36,207 | +$25,161 | ✅ Ganada |
