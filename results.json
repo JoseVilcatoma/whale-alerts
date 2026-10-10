@@ -70411,5 +70411,35 @@
     "status": "pending",
     "ultimo_fill": 1791616416,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9576,
+    "timestamp": 1791622584,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "val-nrg-loud-2026-10-10",
+    "title": "Valorant: NRG vs LOUD (BO3) - VCT Champions Playoffs",
+    "outcome": "LOUD",
+    "side": "BUY",
+    "usd": 38711.82,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1791622584,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9577,
+    "timestamp": 1791622629,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "val-nrg-loud-2026-10-10",
+    "title": "Valorant: NRG vs LOUD (BO3) - VCT Champions Playoffs",
+    "outcome": "NRG",
+    "side": "BUY",
+    "usd": 64868.730698,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1791622629,
+    "fills": 1
   }
 ]
