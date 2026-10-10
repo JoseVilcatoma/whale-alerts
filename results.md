@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 22:05:58 (hora de Perú)
+Actualizado: 2026-10-09 22:08:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4678**  ($252,436,367 en total)
-- Resueltas: **4650** — 2847 ganadas / 1803 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **4651** — 2847 ganadas / 1804 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 534
 
 ### Balance
 
-- **Resultado de los apostadores: +$505,269** sobre $251,199,235 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,409** sobre $459,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$447,352** sobre $251,257,152 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,509** sobre $459,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Texas (-7.5) | Oklahoma | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Elaran1993 | Club Puebla vs. Club León FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $47,008 | — | ⏳ Pendiente |
 | viboomchuu | Ducks vs. Jets | Ducks | 2.08 (48¢) | $31,129 | +$33,723 | ✅ Ganada |
-| KaneAnalytics | Florida State vs. Louisville | Florida State | 1.32 (76¢) | $57,917 | — | ⏳ Pendiente |
+| KaneAnalytics | Florida State vs. Louisville | Florida State | 1.32 (76¢) | $57,917 | -$57,917 | ❌ Perdida |
 | ferrariChampions2026 | Iowa vs. Washington | Iowa | 2.38 (42¢) | $33,000 | — | ⏳ Pendiente |
 | justwins | Spread: New York Liberty (-3.5) | Atlanta Dream | 2.04 (49¢) | $25,172 | +$26,200 | ✅ Ganada |
 | Sassy-Bucket | Atlanta Dream vs. New York Liberty | Atlanta Dream | 2.56 (39¢) | $39,000 | +$61,000 | ✅ Ganada |
