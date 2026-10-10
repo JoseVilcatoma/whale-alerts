@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 16:53:20 (hora de Perú)
+Actualizado: 2026-10-10 16:55:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4774**  ($256,866,141 en total)
-- Resueltas: **4718** — 2894 ganadas / 1824 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **4720** — 2896 ganadas / 1824 perdidas (**61%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 542
 
 ### Balance
 
-- **Resultado de los apostadores: +$481,166** sobre $254,376,663 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,190** sobre $465,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$553,948** sobre $254,460,277 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,007** sobre $466,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 344 | 181 | 8 | 66% | $33,108,535 | +$861,434 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 345 | 181 | 7 | 66% | $33,108,535 | +$882,017 |
 | Sassy-Bucket | 66 | 61 | 2 | 52% | $7,181,566 | -$516,026 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | ethanaz | Indiana vs. Nebraska | Indiana | 1.32 (76¢) | $29,527 | +$9,324 | ✅ Ganada |
 | BrotherObama | Chicago White Sox vs. Cleveland Guardians | Chicago White Sox | 2.27 (44¢) | $90,000 | — | ⏳ Pendiente |
 | Kch-Temp | Ole Miss vs. Vanderbilt | Ole Miss | 1.32 (76¢) | $164,191 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 1.45 (69¢) | $45,815 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 1.45 (69¢) | $45,815 | +$20,583 | ✅ Ganada |
 | Flaznorp | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $44,938 | — | ⏳ Pendiente |
 | n0tTODAY | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $25,730 | — | ⏳ Pendiente |
 | ScroooogeMcDuck | Counter-Strike: MOUZ vs Spirit - Map 2 Winner | Spirit | 1.69 (59¢) | $33,975 | +$23,610 | ✅ Ganada |
