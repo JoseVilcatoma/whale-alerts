@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 21:06:21 (hora de Perú)
+Actualizado: 2026-10-09 21:08:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4675**  ($252,165,343 en total)
-- Resueltas: **4646** — 2844 ganadas / 1802 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **4647** — 2844 ganadas / 1803 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 534
 
 ### Balance
 
-- **Resultado de los apostadores: +$422,053** sobre $251,066,226 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,678** sobre $458,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$384,346** sobre $251,103,933 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,778** sobre $458,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $89,709 | +$64,962 | ✅ Ganada |
 | yesmate | Palermo: Yanaki Milev vs Carlos Sanchez Jover | Yanaki Milev | 1.12 (89¢) | $34,088 | +$4,213 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.22 (82¢) | $27,282 | +$5,989 | ✅ Ganada |
-| viboomchuu | Penguins vs. Blue Jackets | Penguins | 2.13 (47¢) | $37,707 | — | ⏳ Pendiente |
+| viboomchuu | Penguins vs. Blue Jackets | Penguins | 2.13 (47¢) | $37,707 | -$37,707 | ❌ Perdida |
 | Eztennis | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.70 (37¢) | $32,820 | -$32,820 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | FURIA | 2.44 (41¢) | $40,483 | -$40,483 | ❌ Perdida |
 | tony1919 | Dota 2: 1win vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
