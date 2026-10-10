@@ -71086,5 +71086,20 @@
     "status": "pending",
     "ultimo_fill": 1791647366,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9634,
+    "timestamp": 1791647874,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "cfb-cmich-ohio-2026-10-10",
+    "title": "Central Michigan vs. Ohio",
+    "outcome": "Ohio",
+    "side": "BUY",
+    "usd": 27558.8665,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1791647874,
+    "fills": 1
   }
 ]
