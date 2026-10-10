@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 15:08:26 (hora de Perú)
+Actualizado: 2026-10-10 15:10:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4763**  ($256,326,509 en total)
-- Resueltas: **4716** — 2892 ganadas / 1824 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **4717** — 2893 ganadas / 1824 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 541
 
 ### Balance
 
-- **Resultado de los apostadores: +$367,588** sobre $254,160,026 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,309** sobre $465,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$391,198** sobre $254,194,001 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,239** sobre $465,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 1.45 (69¢) | $45,815 | — | ⏳ Pendiente |
 | Flaznorp | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $44,938 | — | ⏳ Pendiente |
 | n0tTODAY | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $25,730 | — | ⏳ Pendiente |
-| ScroooogeMcDuck | Counter-Strike: MOUZ vs Spirit - Map 2 Winner | Spirit | 1.69 (59¢) | $33,975 | — | ⏳ Pendiente |
+| ScroooogeMcDuck | Counter-Strike: MOUZ vs Spirit - Map 2 Winner | Spirit | 1.69 (59¢) | $33,975 | +$23,610 | ✅ Ganada |
 | vdsgsdfgb | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $35,990 | +$4,908 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.10 (91¢) | $37,857 | +$3,744 | ✅ Ganada |
 | AnonymousUsername | Will Manchester United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.30 (77¢) | $31,047 | -$31,047 | ❌ Perdida |
