@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 17:30:28 (hora de Perú)
+Actualizado: 2026-10-10 17:32:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4777**  ($256,989,895 en total)
-- Resueltas: **4725** — 2901 ganadas / 1824 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **4728** — 2902 ganadas / 1826 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 542
 
 ### Balance
 
-- **Resultado de los apostadores: +$593,301** sobre $254,673,872 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,906** sobre $466,500 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$529,553** sobre $254,786,064 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,014** sobre $466,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 345 | 181 | 8 | 66% | $33,163,388 | +$882,017 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 345 | 182 | 7 | 65% | $33,163,388 | +$827,164 |
 | Sassy-Bucket | 66 | 61 | 2 | 52% | $7,181,566 | -$516,026 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -72,8 +72,8 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Gourmet1 | Red Wings vs. Canadiens | Red Wings | 2.78 (36¢) | $36,753 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $54,853 | — | ⏳ Pendiente |
-| BoggsFromShawshank | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $32,148 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $54,853 | -$54,853 | ❌ Perdida |
+| BoggsFromShawshank | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $32,148 | -$32,148 | ❌ Perdida |
 | surfandturf | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $85,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 2.13 (47¢) | $29,050 | — | ⏳ Pendiente |
 | ferrariChampions2026 | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $40,611 | — | ⏳ Pendiente |
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | ethanaz | Indiana vs. Nebraska | Indiana | 1.37 (73¢) | $60,667 | +$22,438 | ✅ Ganada |
 | Donkey14 | Spread: Texas (-7.5) | Texas | 2.00 (50¢) | $31,200 | — | ⏳ Pendiente |
 | nigiri99 | Virginia Tech vs. California | Virginia Tech | 1.30 (77¢) | $40,094 | — | ⏳ Pendiente |
-| viboomchuu | Spread: Devils (-1.5) | Devils | 1.92 (52¢) | $25,191 | — | ⏳ Pendiente |
+| viboomchuu | Spread: Devils (-1.5) | Devils | 1.92 (52¢) | $25,191 | +$23,253 | ✅ Ganada |
 | kmak1 | Will Real Madrid CF win on 2026-10-10? | Yes | 1.35 (74¢) | $34,257 | +$12,036 | ✅ Ganada |
 | 177-letsgo | Indiana vs. Nebraska | Indiana | 1.12 (89¢) | $40,050 | +$4,950 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
