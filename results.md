@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 16:51:20 (hora de Perú)
+Actualizado: 2026-10-10 16:53:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4774**  ($256,866,141 en total)
-- Resueltas: **4717** — 2893 ganadas / 1824 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Resueltas: **4718** — 2894 ganadas / 1824 perdidas (**61%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 542
 
 ### Balance
 
-- **Resultado de los apostadores: +$391,198** sobre $254,194,001 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,239** sobre $465,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$481,166** sobre $254,376,663 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,190** sobre $465,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 343 | 181 | 9 | 65% | $33,108,535 | +$771,466 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 344 | 181 | 8 | 66% | $33,108,535 | +$861,434 |
 | Sassy-Bucket | 66 | 61 | 2 | 52% | $7,181,566 | -$516,026 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | AnonymousUsername | Will Manchester United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.30 (77¢) | $31,047 | -$31,047 | ❌ Perdida |
 | ethBELIVER | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
 | chubbytoro | Flyers vs. Bruins | Bruins | 1.79 (56¢) | $134,214 | +$105,454 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.49 (67¢) | $182,662 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.49 (67¢) | $182,662 | +$89,968 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $49,775 | +$6,152 | ✅ Ganada |
 | Nooserac | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $35,600 | +$4,400 | ✅ Ganada |
 | UpTheBlues | Will FC Barcelona vs. Getafe CF end in a draw? | No | 1.10 (91¢) | $25,742 | +$2,546 | ✅ Ganada |
