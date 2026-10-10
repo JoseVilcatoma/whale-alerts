@@ -71914,5 +71914,20 @@
     "status": "pending",
     "ultimo_fill": 1791673497,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9741,
+    "timestamp": 1791673708,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "mls-mia-dcu-2026-10-10-total-1pt5",
+    "title": "Inter Miami CF vs. D.C. United SC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 27300.0,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1791673708,
+    "fills": 1
   }
 ]

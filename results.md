@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 18:05:24 (hora de Perú)
+Actualizado: 2026-10-10 18:09:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4785**  ($257,554,769 en total)
+- Apuestas registradas: **4786**  ($257,582,069 en total)
 - Resueltas: **4730** — 2904 ganadas / 1826 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 542
 
 ### Balance
@@ -56,8 +56,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | Talvez10 | 19 | 16 | 2 | 54% | $1,741,461 | +$262,931 |
 | SDTrading | 29 | 29 | 0 | 50% | $1,728,324 | -$135,793 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 1 | 93% | $1,700,416 | +$86,315 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 0 | 93% | $1,673,116 | +$86,315 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Roadto1mlesgooo | Inter Miami CF vs. D.C. United SC: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Alabama (-2.5) | Alabama | 1.96 (51¢) | $78,293 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Francisco Prado | 1.69 (59¢) | $118,000 | — | ⏳ Pendiente |
 | mooseborzoii | Texas vs. Oklahoma | Oklahoma | 1.43 (70¢) | $28,908 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.12 (89¢) | $40,554 | +$5,012 | ✅ Ganada |
 | THEHIGHLIFE | Dota 2: PARIVISION vs Aurora - Game 2 Winner | PARIVISION | 3.33 (30¢) | $30,874 | +$72,039 | ✅ Ganada |
 | surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
-| thegreatjeff | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $65,883 | +$8,984 | ✅ Ganada |
