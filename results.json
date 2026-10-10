@@ -71944,5 +71944,20 @@
     "status": "pending",
     "ultimo_fill": 1791672942,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9746,
+    "timestamp": 1791674759,
+    "username": "BoggsFromShawshank",
+    "wallet": "0xc660ae71765d0d9eaf5fa8328c1c959841d2bd28",
+    "slug": "cfb-ga-ala-2026-10-10",
+    "title": "Georgia vs. Alabama",
+    "outcome": "Alabama",
+    "side": "BUY",
+    "usd": 35640.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1791674759,
+    "fills": 1
   }
 ]
