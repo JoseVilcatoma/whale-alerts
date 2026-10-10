@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 14:56:05 (hora de Perú)
+Actualizado: 2026-10-10 14:58:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4762**  ($256,289,566 en total)
+- Apuestas registradas: **4763**  ($256,326,509 en total)
 - Resueltas: **4716** — 2892 ganadas / 1824 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 541
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 177-letsgo | Ole Miss vs. Vanderbilt | Ole Miss | 1.18 (85¢) | $36,944 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.25 (80¢) | $29,912 | — | ⏳ Pendiente |
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 4.17 (24¢) | $28,362 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Texas (-7.5) | Oklahoma | 2.00 (50¢) | $31,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.32 (76¢) | $32,625 | +$10,303 | ✅ Ganada |
 | Diabolical-Prize | Dota 2: PARIVISION vs Aurora - Game 1 Winner | PARIVISION | 1.39 (72¢) | $25,714 | +$10,000 | ✅ Ganada |
 | CongoleseBorat | Spread: FC Bayern München (-2.5) | FC Augsburg | 2.04 (49¢) | $50,470 | +$52,530 | ✅ Ganada |
-| juice-fruit | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Over 2.5 | 1.61 (62¢) | $96,039 | +$58,863 | ✅ Ganada |
