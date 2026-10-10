@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 16:06:08 (hora de Perú)
+Actualizado: 2026-10-10 16:08:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4769**  ($256,627,058 en total)
+- Apuestas registradas: **4770**  ($256,652,060 en total)
 - Resueltas: **4717** — 2893 ganadas / 1824 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 542
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 343 | 181 | 8 | 65% | $33,083,533 | +$771,466 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 343 | 181 | 9 | 65% | $33,108,535 | +$771,466 |
 | Sassy-Bucket | 66 | 61 | 1 | 52% | $7,122,145 | -$516,026 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.22 (82¢) | $25,002 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $51,605 | — | ⏳ Pendiente |
 | mooseborzoii | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Ernesta Kareckaite | 2.17 (46¢) | $31,016 | — | ⏳ Pendiente |
 | MinevaJ | Will Real Madrid CF win on 2026-10-10? | Yes | 1.14 (88¢) | $30,423 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | Sassy-Bucket | Texas A&M vs. Missouri | Texas A&M | 2.63 (38¢) | $37,911 | -$37,911 | ❌ Perdida |
 | Cbs710 | Will FC Barcelona win on 2026-10-10? | Yes | 1.11 (90¢) | $55,000 | +$6,111 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Under 2.5 | 2.70 (37¢) | $37,000 | -$37,000 | ❌ Perdida |
-| Sunshine.Smile | Counter-Strike: Aurora Gaming vs Vitality - Map 2 Winner | Vitality | 1.33 (75¢) | $26,382 | +$8,794 | ✅ Ganada |
