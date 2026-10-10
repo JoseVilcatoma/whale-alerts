@@ -71101,5 +71101,20 @@
     "status": "pending",
     "ultimo_fill": 1791647874,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9635,
+    "timestamp": 1791647993,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "cfb-arz-wvir-2026-10-10-total-59pt5",
+    "title": "Arizona vs. West Virginia: O/U 59.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26500.053,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791647993,
+    "fills": 1
   }
 ]
