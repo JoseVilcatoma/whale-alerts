@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 02:13:17 (hora de Perú)
+Actualizado: 2026-10-10 02:15:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4684**  ($252,614,402 en total)
+- Apuestas registradas: **4685**  ($252,640,296 en total)
 - Resueltas: **4659** — 2849 ganadas / 1810 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 534
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 341 | 180 | 3 | 65% | $32,595,513 | +$798,570 |
 | Sassy-Bucket | 66 | 59 | 0 | 53% | $6,991,704 | -$437,191 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 1 | 52% | $6,882,375 | -$494,079 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | Diabolical-Prize | 58 | 57 | 0 | 50% | $5,906,619 | -$324,724 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: North Dakota State (-3.5) | UNLV | 1.72 (58¢) | $25,894 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | Dota 2: Team Yandex vs Team Spirit (BO3) - BLAST Slam Playoffs | Team Yandex | 1.61 (62¢) | $27,893 | — | ⏳ Pendiente |
 | crispychook99 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Aurora Gaming | 4.17 (24¢) | $40,700 | — | ⏳ Pendiente |
 | ndb1 | Will Chelsea FC win on 2026-10-10? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buccaneers vs. Cowboys | Buccaneers | 1.28 (78¢) | $25,101 | +$7,080 | ✅ Ganada |
 | Lorolorota09 | Buccaneers vs. Cowboys | Buccaneers | 1.35 (74¢) | $32,535 | +$11,431 | ✅ Ganada |
 | mooseborzoii | Buccaneers vs. Cowboys | Cowboys | 1.56 (64¢) | $44,202 | -$44,202 | ❌ Perdida |
-| Sassy-Bucket | Maple Leafs vs. Golden Knights | Golden Knights | 1.64 (61¢) | $121,033 | +$77,382 | ✅ Ganada |
