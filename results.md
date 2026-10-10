@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 07:58:56 (hora de Perú)
+Actualizado: 2026-10-10 08:00:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4699**  ($253,293,191 en total)
+- Apuestas registradas: **4700**  ($253,345,191 en total)
 - Resueltas: **4661** — 2850 ganadas / 1811 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 534
 
 ### Balance
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
-| raybanman | 15 | 4 | 1 | 79% | $1,990,461 | +$875,464 |
+| raybanman | 15 | 4 | 2 | 79% | $2,042,461 | +$875,464 |
 | mooseborzoii | 30 | 9 | 0 | 77% | $1,979,663 | +$816,993 |
 | ndb1 | 20 | 11 | 3 | 65% | $1,830,787 | +$343,738 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | raybanman | Spread: FC Bayern München (-2.5) | FC Bayern München | 2.00 (50¢) | $76,949 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Fulham FC win on 2026-10-10? | Yes | 2.56 (39¢) | $30,287 | — | ⏳ Pendiente |
 | CORGI777 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 2.38 (42¢) | $37,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | rookie765 | Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs | MOUZ | 1.69 (59¢) | $36,207 | +$25,161 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | China Open: Elise Mertens vs Iga Swiatek | Elise Mertens | 1.67 (60¢) | $31,000 | +$20,667 | ✅ Ganada |
 | Eztennis | Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery | Arthur Fery | 2.08 (48¢) | $30,000 | -$30,000 | ❌ Perdida |
-| mbmbbbmbv | Valorant: 100 Thieves vs Nongshim RedForce (BO3) - VCT Champions Playoffs | 100 Thieves | 1.49 (67¢) | $50,758 | +$25,000 | ✅ Ganada |

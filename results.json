@@ -70621,5 +70621,20 @@
     "status": "pending",
     "ultimo_fill": 1791637063,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 9593,
+    "timestamp": 1791637253,
+    "username": "raybanman",
+    "wallet": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+    "slug": "bun-aug-bay-2026-10-10-spread-away-2pt5",
+    "title": "Spread: FC Bayern M\u00fcnchen (-2.5)",
+    "outcome": "FC Bayern M\u00fcnchen",
+    "side": "BUY",
+    "usd": 52000.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1791637253,
+    "fills": 1
   }
 ]
