@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 11:16:18 (hora de Perú)
+Actualizado: 2026-10-10 11:18:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4734**  ($254,818,974 en total)
+- Apuestas registradas: **4735**  ($254,859,591 en total)
 - Resueltas: **4672** — 2858 ganadas / 1814 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 539
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 75 | 39 | 0 | 66% | $4,638,683 | -$87,852 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | BrotherObama | 39 | 40 | 2 | 49% | $3,618,447 | +$123,271 |
-| ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
+| ethanaz | 41 | 19 | 1 | 68% | $3,547,578 | -$201,196 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 27 | 5 | 3 | 84% | $3,051,521 | +$569,130 |
 | Lakersfan111 | 41 | 22 | 1 | 65% | $2,997,373 | +$341,513 |
@@ -73,6 +73,7 @@ _(mostrando los 40 de mayor monto, de 539 en total)_
 |---|---|---|---|---|---|---|
 | UpTheBlues | Will FC Barcelona vs. Getafe CF end in a draw? | No | 1.10 (91¢) | $25,742 | — | ⏳ Pendiente |
 | Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $42,715 | — | ⏳ Pendiente |
+| ethanaz | Texas A&M vs. Missouri | Missouri | 1.52 (66¢) | $40,617 | — | ⏳ Pendiente |
 | surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | SDTrading | Central Michigan vs. Ohio | Ohio | 1.82 (55¢) | $27,559 | — | ⏳ Pendiente |
 | Kosherlocks | Indiana vs. Nebraska | Indiana | 1.33 (75¢) | $40,224 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 539 en total)_
 | CHZHSHCH | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 2.27 (44¢) | $211,782 | -$211,782 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.23 (81¢) | $31,815 | -$31,815 | ❌ Perdida |
 | Nooserac | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.22 (82¢) | $27,427 | -$27,427 | ❌ Perdida |
-| Hashbrown | Iowa vs. Washington | Iowa | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
