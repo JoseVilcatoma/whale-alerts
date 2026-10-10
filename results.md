@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 09:41:47 (hora de Perú)
+Actualizado: 2026-10-10 09:43:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4717**  ($254,157,015 en total)
+- Apuestas registradas: **4718**  ($254,213,031 en total)
 - Resueltas: **4670** — 2856 ganadas / 1814 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 536
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| primm | Texas vs. Oklahoma | Texas | 1.33 (75¢) | $56,016 | — | ⏳ Pendiente |
 | primm | Texas A&M vs. Missouri | Missouri | 1.61 (62¢) | $121,605 | — | ⏳ Pendiente |
 | Talvez10 | UFC Fight Night: Niko Price vs. Leon Shahbazyan (Welterweight, Prelims) | Leon Shahbazyan | 1.72 (58¢) | $28,902 | — | ⏳ Pendiente |
 | surfandturf | Will FC Bayern München win on 2026-10-10? | Yes | 1.75 (57¢) | $39,305 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $54,810 | +$39,690 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.38 (42¢) | $30,000 | -$30,000 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $51,798 | +$37,509 | ✅ Ganada |
-| sulumos | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.38 (42¢) | $25,200 | -$25,200 | ❌ Perdida |

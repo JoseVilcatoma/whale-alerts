@@ -70891,5 +70891,20 @@
     "status": "pending",
     "ultimo_fill": 1791643131,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9620,
+    "timestamp": 1791643315,
+    "username": "primm",
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "slug": "cfb-tx-okl-2026-10-10",
+    "title": "Texas vs. Oklahoma",
+    "outcome": "Texas",
+    "side": "BUY",
+    "usd": 56016.33,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1791643315,
+    "fills": 1
   }
 ]
