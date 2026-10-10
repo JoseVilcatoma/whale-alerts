@@ -70516,5 +70516,20 @@
     "status": "pending",
     "ultimo_fill": 1791630923,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9584,
+    "timestamp": 1791631822,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "lal-ray-bil-2026-10-10-bil",
+    "title": "Will Athletic Club win on 2026-10-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 77702.127,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1791631854,
+    "fills": 2
   }
 ]

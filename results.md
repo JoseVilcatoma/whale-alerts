@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 06:29:04 (hora de Perú)
+Actualizado: 2026-10-10 06:31:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4692**  ($252,937,986 en total)
+- Apuestas registradas: **4693**  ($253,015,688 en total)
 - Resueltas: **4659** — 2849 ganadas / 1810 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 534
 
 ### Balance
@@ -30,8 +30,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | Diabolical-Prize | 58 | 57 | 1 | 50% | $5,971,487 | -$324,724 |
+| totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
-| totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 75 | 39 | 0 | 66% | $4,638,683 | -$87,852 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will Athletic Club win on 2026-10-10? | Yes | 2.63 (38¢) | $77,702 | — | ⏳ Pendiente |
 | 177-letsgo | Will Leeds United FC win on 2026-10-10? | No | 1.12 (89¢) | $26,700 | — | ⏳ Pendiente |
 | RJW1 | Spread: Arsenal FC (-1.5) | Leeds United FC | 1.67 (60¢) | $45,000 | — | ⏳ Pendiente |
 | Kch-Temp | Will Rayo Vallecano de Madrid win on 2026-10-10? | No | 1.49 (67¢) | $63,936 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | 01258787xy48487484545122 | Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin | Francisco Cerundolo | 1.56 (64¢) | $28,177 | +$15,850 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: GamerLegion vs Sinners (BO3) - 1win Private Club #2: Closed Qualifier Playoffs | Sinners | 2.44 (41¢) | $28,700 | -$28,700 | ❌ Perdida |
 | Dragon-Evolution | Counter-Strike: Vitality vs PARIVISION (BO3) - ESL Pro League Playoffs | Vitality | 1.19 (84¢) | $42,000 | +$8,000 | ✅ Ganada |
-| Xyp9xFan | Counter-Strike: 1WIN vs Aurora Gaming (BO3) - ESL Pro League Playoffs | Aurora Gaming | 1.41 (71¢) | $30,979 | +$12,653 | ✅ Ganada |
