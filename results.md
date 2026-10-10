@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 10:18:40 (hora de Perú)
+Actualizado: 2026-10-10 10:20:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4723**  ($254,422,485 en total)
-- Resueltas: **4670** — 2856 ganadas / 1814 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **4671** — 2857 ganadas / 1814 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 536
 
 ### Balance
 
-- **Resultado de los apostadores: +$93,716** sobre $252,140,040 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,948** sobre $461,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$103,716** sobre $252,165,755 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,910** sobre $461,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| Diabolical-Prize | 58 | 58 | 1 | 50% | $5,997,202 | -$389,592 |
+| Diabolical-Prize | 59 | 58 | 0 | 50% | $5,997,202 | -$379,592 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 | fantasy7788 | Map Handicap: VIT (-1.5) vs Aurora Gaming (+1.5) | Aurora Gaming | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.30 (77¢) | $30,000 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.32 (76¢) | $32,625 | — | ⏳ Pendiente |
-| Diabolical-Prize | Dota 2: PARIVISION vs Aurora - Game 1 Winner | PARIVISION | 1.39 (72¢) | $25,714 | — | ⏳ Pendiente |
+| Diabolical-Prize | Dota 2: PARIVISION vs Aurora - Game 1 Winner | PARIVISION | 1.39 (72¢) | $25,714 | +$10,000 | ✅ Ganada |
 | CongoleseBorat | Spread: FC Bayern München (-2.5) | FC Augsburg | 2.04 (49¢) | $50,470 | — | ⏳ Pendiente |
 | juice-fruit | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Over 2.5 | 1.61 (62¢) | $96,039 | — | ⏳ Pendiente |
 | Yellow-Fever | Will FC Augsburg vs. FC Bayern München end in a draw? | No | 1.11 (90¢) | $29,700 | — | ⏳ Pendiente |
