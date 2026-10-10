@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 14:43:45 (hora de Perú)
+Actualizado: 2026-10-10 14:45:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4760**  ($256,231,291 en total)
+- Apuestas registradas: **4761**  ($256,259,654 en total)
 - Resueltas: **4707** — 2885 ganadas / 1822 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 541
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 75 | 39 | 0 | 66% | $4,638,683 | -$87,852 |
+| ferrariChampions2026 | 75 | 39 | 1 | 66% | $4,667,045 | -$87,852 |
 | BrotherObama | 39 | 40 | 3 | 49% | $3,708,447 | +$123,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 41 | 19 | 3 | 68% | $3,637,773 | -$201,196 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | UCLA vs. Oregon | UCLA | 4.17 (24¢) | $28,362 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Texas (-7.5) | Oklahoma | 2.00 (50¢) | $31,500 | — | ⏳ Pendiente |
 | Kch-Temp | Tulsa vs. Navy | Navy | 1.69 (59¢) | $41,062 | — | ⏳ Pendiente |
 | nuttypoo | Texas vs. Oklahoma: O/U 42.5 | Under 42.5 | 1.75 (57¢) | $35,960 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 541 en total)_
 | CongoleseBorat | Spread: FC Bayern München (-2.5) | FC Augsburg | 2.04 (49¢) | $50,470 | +$52,530 | ✅ Ganada |
 | juice-fruit | Chelsea FC vs. AFC Bournemouth: O/U 2.5 | Over 2.5 | 1.61 (62¢) | $96,039 | +$58,863 | ✅ Ganada |
 | Yellow-Fever | Will FC Augsburg vs. FC Bayern München end in a draw? | No | 1.11 (90¢) | $29,700 | -$29,700 | ❌ Perdida |
-| kmak1 | Will Arsenal FC win on 2026-10-10? | Yes | 1.15 (87¢) | $51,847 | +$7,747 | ✅ Ganada |
