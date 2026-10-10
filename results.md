@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 21:26:57 (hora de Perú)
+Actualizado: 2026-10-09 21:28:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4675**  ($252,165,343 en total)
-- Resueltas: **4647** — 2844 ganadas / 1803 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **4649** — 2846 ganadas / 1803 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 534
 
 ### Balance
 
-- **Resultado de los apostadores: +$384,346** sobre $251,103,933 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,778** sobre $458,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$471,546** sobre $251,168,106 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,518** sobre $458,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 341 | 179 | 3 | 66% | $32,563,698 | +$830,385 |
-| Sassy-Bucket | 65 | 59 | 1 | 52% | $6,991,704 | -$498,191 |
+| Sassy-Bucket | 66 | 59 | 0 | 53% | $6,991,704 | -$437,191 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 1 | 52% | $6,882,375 | -$494,079 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -77,8 +77,8 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | viboomchuu | Ducks vs. Jets | Ducks | 2.08 (48¢) | $31,129 | — | ⏳ Pendiente |
 | KaneAnalytics | Florida State vs. Louisville | Florida State | 1.32 (76¢) | $57,917 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Iowa vs. Washington | Iowa | 2.38 (42¢) | $33,000 | — | ⏳ Pendiente |
-| justwins | Spread: New York Liberty (-3.5) | Atlanta Dream | 2.04 (49¢) | $25,172 | — | ⏳ Pendiente |
-| Sassy-Bucket | Atlanta Dream vs. New York Liberty | Atlanta Dream | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
+| justwins | Spread: New York Liberty (-3.5) | Atlanta Dream | 2.04 (49¢) | $25,172 | +$26,200 | ✅ Ganada |
+| Sassy-Bucket | Atlanta Dream vs. New York Liberty | Atlanta Dream | 2.56 (39¢) | $39,000 | +$61,000 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.69 (59¢) | $59,000 | +$41,000 | ✅ Ganada |
 | hansama231 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.44 (41¢) | $29,508 | -$29,508 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
