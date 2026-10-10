@@ -71071,5 +71071,20 @@
     "status": "pending",
     "ultimo_fill": 1791647198,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9633,
+    "timestamp": 1791647366,
+    "username": "Kosherlocks",
+    "wallet": "0x82398835fe16616214d928ba87127e28fc1cd9a3",
+    "slug": "cfb-ind-nebr-2026-10-10",
+    "title": "Indiana vs. Nebraska",
+    "outcome": "Indiana",
+    "side": "BUY",
+    "usd": 40224.5,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1791647366,
+    "fills": 1
   }
 ]

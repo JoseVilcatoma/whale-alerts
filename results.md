@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 10:47:28 (hora de Perú)
+Actualizado: 2026-10-10 10:49:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4729**  ($254,656,233 en total)
+- Apuestas registradas: **4730**  ($254,696,458 en total)
 - Resueltas: **4671** — 2857 ganadas / 1814 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 539
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 539 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kosherlocks | Indiana vs. Nebraska | Indiana | 1.33 (75¢) | $40,224 | — | ⏳ Pendiente |
 | Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.12 (89¢) | $40,554 | — | ⏳ Pendiente |
 | THEHIGHLIFE | Dota 2: PARIVISION vs Aurora - Game 2 Winner | PARIVISION | 3.33 (30¢) | $30,874 | — | ⏳ Pendiente |
 | surfandturf | Arizona vs. West Virginia: O/U 59.5 | Over 59.5 | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 539 en total)_
 | Elaran1993 | Club Puebla vs. Club León FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $47,008 | -$47,008 | ❌ Perdida |
 | viboomchuu | Ducks vs. Jets | Ducks | 2.08 (48¢) | $31,129 | +$33,723 | ✅ Ganada |
 | KaneAnalytics | Florida State vs. Louisville | Florida State | 1.32 (76¢) | $57,917 | -$57,917 | ❌ Perdida |
-| ferrariChampions2026 | Iowa vs. Washington | Iowa | 2.38 (42¢) | $33,000 | +$45,571 | ✅ Ganada |
