@@ -71731,5 +71731,20 @@
     "status": "pending",
     "ultimo_fill": 1791668382,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9715,
+    "timestamp": 1791668607,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "cfb-sdst-oregst-2026-10-10",
+    "title": "San Diego State vs. Oregon State",
+    "outcome": "Oregon State",
+    "side": "BUY",
+    "usd": 85000.085,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1791668607,
+    "fills": 1
   }
 ]

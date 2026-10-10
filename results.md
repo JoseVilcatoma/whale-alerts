@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 16:43:13 (hora de Perú)
+Actualizado: 2026-10-10 16:45:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4773**  ($256,781,141 en total)
+- Apuestas registradas: **4774**  ($256,866,141 en total)
 - Resueltas: **4717** — 2893 ganadas / 1824 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 542
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 44 | 19 | 0 | 70% | $3,637,773 | -$148,509 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| surfandturf | 29 | 6 | 0 | 83% | $3,051,521 | +$576,325 |
+| surfandturf | 29 | 6 | 1 | 83% | $3,136,521 | +$576,325 |
 | Lakersfan111 | 41 | 23 | 0 | 64% | $2,997,373 | +$300,812 |
 | maz26 | 24 | 16 | 1 | 60% | $2,678,271 | -$31,372 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $85,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 2.13 (47¢) | $29,050 | — | ⏳ Pendiente |
 | ferrariChampions2026 | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $40,611 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $59,421 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | primm | Texas A&M vs. Missouri | Missouri | 1.61 (62¢) | $121,605 | +$74,532 | ✅ Ganada |
 | Talvez10 | UFC Fight Night: Niko Price vs. Leon Shahbazyan (Welterweight, Prelims) | Leon Shahbazyan | 1.72 (58¢) | $28,902 | — | ⏳ Pendiente |
 | surfandturf | Will FC Bayern München win on 2026-10-10? | Yes | 1.75 (57¢) | $39,305 | -$39,305 | ❌ Perdida |
-| Sassy-Bucket | Texas A&M vs. Missouri | Texas A&M | 2.63 (38¢) | $40,924 | -$40,924 | ❌ Perdida |
