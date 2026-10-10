@@ -70861,5 +70861,20 @@
     "status": "pending",
     "ultimo_fill": 1791642470,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9618,
+    "timestamp": 1791642578,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-nik1-leo2-2026-10-10",
+    "title": "UFC Fight Night: Niko Price vs. Leon Shahbazyan (Welterweight, Prelims)",
+    "outcome": "Leon Shahbazyan",
+    "side": "BUY",
+    "usd": 28901.5334,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1791642578,
+    "fills": 1
   }
 ]
