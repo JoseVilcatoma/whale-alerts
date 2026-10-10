@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 10:08:28 (hora de Perú)
+Actualizado: 2026-10-10 10:10:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4722**  ($254,388,826 en total)
+- Apuestas registradas: **4723**  ($254,422,485 en total)
 - Resueltas: **4670** — 2856 ganadas / 1814 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 536
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Will FC Internazionale Milano win on 2026-10-10? | Yes | 1.20 (83¢) | $33,660 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Kansas State (-2.5) | Houston | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | tikstt2 | Will Fulham FC win on 2026-10-10? | No | 1.56 (64¢) | $45,625 | — | ⏳ Pendiente |
 | vtcchampion52 | Dota 2: PARIVISION vs Aurora (BO3) - BLAST Slam Playoffs | PARIVISION | 1.14 (88¢) | $30,169 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 536 en total)_
 | hansama231 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.44 (41¢) | $29,508 | -$29,508 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.72 (58¢) | $25,947 | +$18,789 | ✅ Ganada |
-| Netrol | Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs | Team Falcons | 2.38 (42¢) | $26,385 | -$26,385 | ❌ Perdida |
