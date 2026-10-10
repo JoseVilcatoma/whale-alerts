@@ -70828,7 +70828,7 @@
     "side": "BUY",
     "usd": 37911.3574,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791641490,
     "fills": 1
   },
@@ -70843,7 +70843,7 @@
     "side": "BUY",
     "usd": 40924.41160000001,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791641852,
     "fills": 1
   },
@@ -70888,7 +70888,7 @@
     "side": "BUY",
     "usd": 121604.537,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791643131,
     "fills": 1
   },
@@ -71083,7 +71083,7 @@
     "side": "BUY",
     "usd": 40224.5,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791647366,
     "fills": 1
   },
@@ -71158,7 +71158,7 @@
     "side": "BUY",
     "usd": 40617.3306,
     "odds_at_bet": 66,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791648856,
     "fills": 1
   },
@@ -71383,7 +71383,7 @@
     "side": "BUY",
     "usd": 29527.4364,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791659523,
     "fills": 1
   },
@@ -71413,7 +71413,7 @@
     "side": "BUY",
     "usd": 40050.0,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791659703,
     "fills": 1
   },
@@ -71488,7 +71488,7 @@
     "side": "BUY",
     "usd": 60666.65,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791660066,
     "fills": 1
   },
@@ -71550,6 +71550,21 @@
     "odds_at_bet": 24,
     "status": "pending",
     "ultimo_fill": 1791661540,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9694,
+    "timestamp": 1791662107,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-tx-okl-2026-10-10",
+    "title": "Texas vs. Oklahoma",
+    "outcome": "Texas",
+    "side": "BUY",
+    "usd": 29912.0,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1791662107,
     "fills": 1
   }
 ]
