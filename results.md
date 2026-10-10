@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-09 23:43:45 (hora de Perú)
+Actualizado: 2026-10-09 23:45:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4680**  ($252,491,809 en total)
-- Resueltas: **4654** — 2847 ganadas / 1807 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **4655** — 2847 ganadas / 1808 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 534
 
 ### Balance
 
-- **Resultado de los apostadores: +$176,329** sobre $251,528,175 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,809** sobre $459,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$147,732** sobre $251,556,772 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,909** sobre $459,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 0 | 67% | $5,760,028 | +$402,871 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 74 | 38 | 2 | 66% | $4,638,683 | -$104,827 |
+| ferrariChampions2026 | 74 | 39 | 1 | 65% | $4,638,683 | -$133,423 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | BrotherObama | 39 | 39 | 3 | 50% | $3,618,447 | +$153,271 |
 | ethanaz | 41 | 19 | 0 | 68% | $3,506,961 | -$201,196 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 534 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | ndb1 | Will Chelsea FC win on 2026-10-10? | Yes | 1.85 (54¢) | $26,846 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Wyoming vs. San Jose State | San Jose State | 1.37 (73¢) | $28,596 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Wyoming vs. San Jose State | San Jose State | 1.37 (73¢) | $28,596 | -$28,596 | ❌ Perdida |
 | CHZHSHCH | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 2.27 (44¢) | $211,782 | -$211,782 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.23 (81¢) | $31,815 | -$31,815 | ❌ Perdida |
 | Nooserac | Golden State Valkyries vs. Las Vegas Aces | Las Vegas Aces | 1.22 (82¢) | $27,427 | -$27,427 | ❌ Perdida |
