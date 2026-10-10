@@ -71701,5 +71701,35 @@
     "status": "pending",
     "ultimo_fill": 1791666540,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9713,
+    "timestamp": 1791668379,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-sdst-oregst-2026-10-10",
+    "title": "San Diego State vs. Oregon State",
+    "outcome": "Oregon State",
+    "side": "BUY",
+    "usd": 40610.568999999996,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1791668379,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9714,
+    "timestamp": 1791668382,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-ucla-ore-2026-10-10",
+    "title": "UCLA vs. Oregon",
+    "outcome": "UCLA",
+    "side": "BUY",
+    "usd": 29049.590799999998,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1791668382,
+    "fills": 1
   }
 ]

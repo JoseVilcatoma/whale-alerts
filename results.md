@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 16:39:07 (hora de Perú)
+Actualizado: 2026-10-10 16:41:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4771**  ($256,711,481 en total)
+- Apuestas registradas: **4773**  ($256,781,141 en total)
 - Resueltas: **4717** — 2893 ganadas / 1824 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 38
 - Apostadores distintos: 542
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
-| ferrariChampions2026 | 75 | 39 | 1 | 66% | $4,667,045 | -$87,852 |
+| ferrariChampions2026 | 75 | 39 | 3 | 66% | $4,736,705 | -$87,852 |
 | BrotherObama | 39 | 40 | 3 | 49% | $3,708,447 | +$123,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | ethanaz | 44 | 19 | 0 | 70% | $3,637,773 | -$148,509 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | UCLA vs. Oregon | UCLA | 2.13 (47¢) | $29,050 | — | ⏳ Pendiente |
+| ferrariChampions2026 | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $40,611 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $59,421 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.22 (82¢) | $25,002 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $51,605 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 542 en total)_
 | Talvez10 | UFC Fight Night: Niko Price vs. Leon Shahbazyan (Welterweight, Prelims) | Leon Shahbazyan | 1.72 (58¢) | $28,902 | — | ⏳ Pendiente |
 | surfandturf | Will FC Bayern München win on 2026-10-10? | Yes | 1.75 (57¢) | $39,305 | -$39,305 | ❌ Perdida |
 | Sassy-Bucket | Texas A&M vs. Missouri | Texas A&M | 2.63 (38¢) | $40,924 | -$40,924 | ❌ Perdida |
-| Sassy-Bucket | Texas A&M vs. Missouri | Texas A&M | 2.63 (38¢) | $37,911 | -$37,911 | ❌ Perdida |
-| Cbs710 | Will FC Barcelona win on 2026-10-10? | Yes | 1.11 (90¢) | $55,000 | +$6,111 | ✅ Ganada |
