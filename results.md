@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 11:30:51 (hora de Perú)
+Actualizado: 2026-10-10 11:32:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4742**  ($255,365,146 en total)
+- Apuestas registradas: **4743**  ($255,401,135 en total)
 - Resueltas: **4672** — 2858 ganadas / 1814 perdidas (**61%** de acierto)
-- Pendientes: 52
-- Apostadores distintos: 540
+- Pendientes: 53
+- Apostadores distintos: 541
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Elaran1993 | 10 | 8 | 0 | 56% | $1,309,851 | +$248,205 |
 
-_(mostrando los 40 de mayor monto, de 540 en total)_
+_(mostrando los 40 de mayor monto, de 541 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vdsgsdfgb | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $35,990 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.10 (91¢) | $37,857 | — | ⏳ Pendiente |
 | AnonymousUsername | Will Manchester United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.30 (77¢) | $31,047 | — | ⏳ Pendiente |
 | ethBELIVER | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.16 (86¢) | $34,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 540 en total)_
 | omnibus-076daa | Valorant: NRG vs LOUD (BO3) - VCT Champions Playoffs | LOUD | 2.33 (43¢) | $38,712 | +$51,316 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: North Dakota State (-3.5) | UNLV | 1.72 (58¢) | $25,894 | — | ⏳ Pendiente |
 | eschaworldchampion2026 | Dota 2: Team Yandex vs Team Spirit (BO3) - BLAST Slam Playoffs | Team Yandex | 1.61 (62¢) | $27,893 | +$17,096 | ✅ Ganada |
-| crispychook99 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Aurora Gaming | 4.17 (24¢) | $40,700 | — | ⏳ Pendiente |

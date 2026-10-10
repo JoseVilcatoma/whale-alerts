@@ -71266,5 +71266,20 @@
     "status": "pending",
     "ultimo_fill": 1791649768,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9647,
+    "timestamp": 1791649928,
+    "username": "vdsgsdfgb",
+    "wallet": "0x0e62671015e00e3826b200e39ea07bd3884e17c2",
+    "slug": "lal-bar-get-2026-10-10-bar",
+    "title": "Will FC Barcelona win on 2026-10-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 35989.922600000005,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1791649928,
+    "fills": 1
   }
 ]
