@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 08:28:23 (hora de Perú)
+Actualizado: 2026-10-11 08:30:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4851**  ($261,410,877 en total)
+- Apuestas registradas: **4852**  ($261,560,676 en total)
 - Resueltas: **4788** — 2934 ganadas / 1854 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 549
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 186 | 5 | 65% | $33,477,498 | +$887,170 |
-| Sassy-Bucket | 66 | 63 | 2 | 51% | $7,321,631 | -$656,092 |
+| Sassy-Bucket | 66 | 63 | 3 | 51% | $7,471,431 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 0 | 52% | $6,940,069 | -$482,629 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Spread: Jaguars (-7.5) | Eagles | 2.00 (50¢) | $149,799 | — | ⏳ Pendiente |
 | qiu3 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $37,552 | — | ⏳ Pendiente |
 | fraagen | Will 1. FC Köln win on 2026-10-11? | No | 1.96 (51¢) | $25,704 | — | ⏳ Pendiente |
 | Tiger200 | Spread: Jaguars (-7.5) | Jaguars | 1.92 (52¢) | $547,689 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 | surfandturf | UFC Fight Night: Otari Tanzilovi vs. Malcolm Wellmaker (Bantamweight, Main Card) | Malcolm Wellmaker | 1.56 (64¢) | $30,400 | -$30,400 | ❌ Perdida |
 | ethanaz | Georgia vs. Alabama | Georgia | 2.00 (50¢) | $52,674 | +$52,674 | ✅ Ganada |
 | mooseborzoii | Georgia vs. Alabama | Alabama | 1.67 (60¢) | $26,052 | -$26,052 | ❌ Perdida |
-| 3648393489047 | Georgia vs. Alabama | Alabama | 1.79 (56¢) | $27,063 | -$27,063 | ❌ Perdida |
