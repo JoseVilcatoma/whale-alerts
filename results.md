@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 08:53:20 (hora de Perú)
+Actualizado: 2026-10-11 08:55:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4859**  ($261,927,950 en total)
-- Resueltas: **4791** — 2934 ganadas / 1857 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Resueltas: **4792** — 2935 ganadas / 1857 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 549
 
 ### Balance
 
-- **Resultado de los apostadores: -$70,779** sobre $258,388,831 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$5,141** sobre $472,700 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$25,815** sobre $258,418,807 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,991** sobre $472,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -106,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 | meoooow | Will Elche CF vs. RC Celta de Vigo end in a draw? | No | 1.41 (71¢) | $30,078 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.45 (69¢) | $47,077 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.47 (68¢) | $43,199 | — | ⏳ Pendiente |
-| Kkunn | China Open: Qinwen Zheng vs Mirra Andreeva | Qinwen Zheng | 2.50 (40¢) | $29,976 | — | ⏳ Pendiente |
+| Kkunn | China Open: Qinwen Zheng vs Mirra Andreeva | Qinwen Zheng | 2.50 (40¢) | $29,976 | +$44,964 | ✅ Ganada |
 | p1252 | Will Manchester City FC win on 2026-10-11? | Yes | 2.17 (46¢) | $27,600 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Valorant: G2 Esports vs T1 (BO3) - VCT Champions Playoffs | G2 Esports | 1.61 (62¢) | $25,551 | — | ⏳ Pendiente |
 | lsiflsliggjriek | Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik | Jakub Mensik | 1.82 (55¢) | $73,823 | +$60,401 | ✅ Ganada |
