@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 15:00:44 (hora de Perú)
+Actualizado: 2026-10-11 15:02:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4918**  ($265,837,477 en total)
+- Apuestas registradas: **4919**  ($265,864,055 en total)
 - Resueltas: **4856** — 2976 ganadas / 1880 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 551
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 355 | 188 | 3 | 65% | $33,753,463 | +$1,021,515 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 355 | 188 | 4 | 65% | $33,780,041 | +$1,021,515 |
 | Sassy-Bucket | 67 | 63 | 4 | 52% | $7,635,482 | -$506,293 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 1 | 52% | $6,989,069 | -$482,629 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Jets | Browns | 11.11 (9¢) | $26,578 | — | ⏳ Pendiente |
 | 1827575782 | Browns vs. Jets | Jets | 1.09 (92¢) | $42,364 | — | ⏳ Pendiente |
 | mentionmarket | Browns vs. Jets | Jets | 3.12 (32¢) | $43,334 | — | ⏳ Pendiente |
 | mooseborzoii | Broncos vs. Chargers | Chargers | 2.70 (37¢) | $27,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 1827575782 | Eagles vs. Jaguars | Jaguars | 1.20 (83¢) | $197,662 | +$40,485 | ✅ Ganada |
 | BillyGating | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Spirit | 3.23 (31¢) | $88,352 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $49,389 | +$26,594 | ✅ Ganada |
-| Takon88 | Will Hamarkameratene win on 2026-10-11? | No | 1.27 (79¢) | $25,989 | -$25,989 | ❌ Perdida |
