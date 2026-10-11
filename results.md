@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 07:39:16 (hora de Perú)
+Actualizado: 2026-10-11 07:41:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4840**  ($260,456,251 en total)
+- Apuestas registradas: **4841**  ($260,524,161 en total)
 - Resueltas: **4786** — 2933 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 548
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 30 | 7 | 0 | 81% | $3,166,921 | +$560,925 |
 | maz26 | 25 | 16 | 1 | 61% | $2,709,458 | +$128 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Kch-Temp | 30 | 10 | 1 | 75% | $2,489,786 | +$1,280,240 |
+| Kch-Temp | 30 | 10 | 2 | 75% | $2,557,696 | +$1,280,240 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | mooseborzoii | 31 | 14 | 1 | 69% | $2,306,461 | +$562,509 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Bears vs. Packers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $67,911 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 2.78 (36¢) | $36,000 | — | ⏳ Pendiente |
 | 1827575782 | Will Lewis Hamilton win the 2026 F1 Singapore Grand Prix? | No | 1.09 (92¢) | $194,282 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima | Brandon Nakashima | 2.13 (47¢) | $49,319 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Francisco Prado | 1.69 (59¢) | $118,000 | +$82,000 | ✅ Ganada |
 | mooseborzoii | Texas vs. Oklahoma | Oklahoma | 1.43 (70¢) | $28,908 | +$12,389 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.50 (40¢) | $46,730 | -$46,730 | ❌ Perdida |
-| nuttypoo | LSU vs. Kentucky: O/U 51.5 | Under 51.5 | 1.79 (56¢) | $56,000 | -$56,000 | ❌ Perdida |
