@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 18:40:11 (hora de Perú)
+Actualizado: 2026-10-11 18:42:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4942**  ($267,167,199 en total)
-- Resueltas: **4888** — 2998 ganadas / 1890 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **4891** — 2998 ganadas / 1893 perdidas (**61%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: +$739,262** sobre $264,584,210 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,059** sobre $482,300 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$633,675** sobre $264,689,797 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,359** sobre $482,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,12 +39,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 46 | 28 | 2 | 62% | $3,460,248 | +$144,817 |
-| maz26 | 27 | 17 | 4 | 61% | $3,330,038 | +$93,673 |
+| maz26 | 27 | 18 | 3 | 60% | $3,330,038 | +$61,849 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 8 | 0 | 79% | $3,197,856 | +$529,990 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| mooseborzoii | 33 | 15 | 5 | 69% | $2,572,790 | +$596,879 |
+| mooseborzoii | 33 | 16 | 4 | 67% | $2,572,790 | +$569,079 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 3648393489047 | 49ers vs. Seahawks | Seahawks | 1.39 (72¢) | $50,400 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | 49ers vs. Seahawks | Seahawks | 1.41 (71¢) | $25,139 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | 49ers vs. Seahawks | Seahawks | 1.47 (68¢) | $38,144 | — | ⏳ Pendiente |
-| yoyoyoyoer | Broncos vs. Chargers | Chargers | 1.43 (70¢) | $45,963 | — | ⏳ Pendiente |
+| yoyoyoyoer | Broncos vs. Chargers | Chargers | 1.43 (70¢) | $45,963 | -$45,963 | ❌ Perdida |
 | gambamaster | 49ers vs. Seahawks | 49ers | 1.49 (67¢) | $45,845 | — | ⏳ Pendiente |
 | askilika | Magic vs. Cavaliers | Cavaliers | 1.54 (65¢) | $33,127 | — | ⏳ Pendiente |
 | gmpm2 | Spread: 49ers (-4.5) | Seahawks | 2.00 (50¢) | $155,710 | — | ⏳ Pendiente |
@@ -97,10 +97,10 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Jets | Browns | 11.11 (9¢) | $26,578 | -$26,578 | ❌ Perdida |
 | 1827575782 | Browns vs. Jets | Jets | 1.09 (92¢) | $42,364 | +$3,684 | ✅ Ganada |
 | mentionmarket | Browns vs. Jets | Jets | 3.12 (32¢) | $43,334 | +$92,085 | ✅ Ganada |
-| mooseborzoii | Broncos vs. Chargers | Chargers | 2.70 (37¢) | $27,800 | — | ⏳ Pendiente |
+| mooseborzoii | Broncos vs. Chargers | Chargers | 2.70 (37¢) | $27,800 | -$27,800 | ❌ Perdida |
 | fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $25,790 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will SC Internacional win on 2026-10-11? | Yes | 2.86 (35¢) | $26,882 | — | ⏳ Pendiente |
-| gmpm2 | Spread: Broncos (-3.5) | Chargers | 1.96 (51¢) | $31,824 | — | ⏳ Pendiente |
+| gmpm2 | Spread: Broncos (-3.5) | Chargers | 1.96 (51¢) | $31,824 | -$31,824 | ❌ Perdida |
 | 1827575782 | Vikings vs. Saints | Vikings | 1.08 (93¢) | $139,500 | +$10,500 | ✅ Ganada |
 | UpTheBlues | Will CA Platense win on 2026-10-11? | No | 1.47 (68¢) | $26,483 | +$12,463 | ✅ Ganada |
 | Donkey14 | 49ers vs. Seahawks | Seahawks | 1.67 (60¢) | $75,000 | — | ⏳ Pendiente |
