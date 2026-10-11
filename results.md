@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 16:46:10 (hora de Perú)
+Actualizado: 2026-10-11 16:48:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4929**  ($266,354,667 en total)
+- Apuestas registradas: **4930**  ($266,483,214 en total)
 - Resueltas: **4884** — 2995 ganadas / 1889 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 551
 
 ### Balance
@@ -58,8 +58,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 19 | 18 | 0 | 51% | $1,741,461 | +$155,737 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 28 | 2 | 0 | 93% | $1,700,416 | +$89,015 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
+| 1827575782 | 11 | 0 | 2 | 100% | $1,675,207 | +$181,266 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
-| 1827575782 | 11 | 0 | 1 | 100% | $1,546,660 | +$181,266 |
 | cosmicxbt | 15 | 4 | 0 | 79% | $1,501,518 | +$34,467 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1827575782 | Lions vs. Cardinals | Lions | 1.08 (93¢) | $128,547 | — | ⏳ Pendiente |
 | Hashbrown | Lions vs. Cardinals | Lions | 1.10 (91¢) | $35,490 | — | ⏳ Pendiente |
 | 1827575782 | Lions vs. Cardinals | Lions | 1.11 (90¢) | $153,770 | — | ⏳ Pendiente |
 | KaneAnalytics | Lions vs. Cardinals | Lions | 1.41 (71¢) | $25,487 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $132,346 | +$44,115 | ✅ Ganada |
 | eth10001 | Will Real Sociedad de Fútbol vs. RC Deportivo A Coruña end in a draw? | No | 1.33 (75¢) | $48,000 | +$16,000 | ✅ Ganada |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $62,766 | -$62,766 | ❌ Perdida |
-| para-Vision | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.54 (65¢) | $26,000 | -$26,000 | ❌ Perdida |
