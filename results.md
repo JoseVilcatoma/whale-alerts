@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 09:18:08 (hora de Perú)
+Actualizado: 2026-10-11 09:20:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4872**  ($263,087,113 en total)
+- Apuestas registradas: **4873**  ($263,219,459 en total)
 - Resueltas: **4796** — 2935 ganadas / 1861 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 549
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 42 | 26 | 7 | 62% | $3,434,459 | +$210,636 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 7 | 1 | 81% | $3,197,856 | +$560,925 |
-| maz26 | 25 | 16 | 2 | 61% | $2,951,309 | +$128 |
+| maz26 | 25 | 16 | 3 | 61% | $3,083,655 | +$128 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Kch-Temp | 30 | 10 | 2 | 75% | $2,557,696 | +$1,280,240 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $132,346 | — | ⏳ Pendiente |
 | eth10001 | Will Real Sociedad de Fútbol vs. RC Deportivo A Coruña end in a draw? | No | 1.33 (75¢) | $48,000 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $62,766 | — | ⏳ Pendiente |
 | para-Vision | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 | coinlaundry | Shanghai Rolex Masters: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.16 (86¢) | $25,856 | +$4,209 | ✅ Ganada |
 | btmx6 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $26,837 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wuhan Tennis Open, Qualification: Camila Osorio vs Katie Volynets | Katie Volynets | 1.69 (59¢) | $30,500 | +$21,195 | ✅ Ganada |
-| btmx6 | Will 1. FC Köln win on 2026-10-11? | No | 1.92 (52¢) | $30,519 | — | ⏳ Pendiente |
