@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 15:40:12 (hora de Perú)
+Actualizado: 2026-10-11 15:42:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4924**  ($266,075,519 en total)
-- Resueltas: **4879** — 2992 ganadas / 1887 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **4881** — 2993 ganadas / 1888 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: +$589,541** sobre $264,178,815 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,232** sobre $481,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$573,585** sobre $264,230,949 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,298** sobre $481,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 27 | 17 | 3 | 61% | $3,174,328 | +$93,673 |
 | Kch-Temp | 31 | 10 | 3 | 76% | $2,815,566 | +$1,395,506 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| mooseborzoii | 32 | 15 | 4 | 68% | $2,493,437 | +$587,835 |
+| mooseborzoii | 33 | 15 | 3 | 69% | $2,493,437 | +$596,879 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | veliMax | Will Real Betis Balompié win on 2026-10-11? | Yes | 1.22 (82¢) | $31,071 | +$6,820 | ✅ Ganada |
 | mooseborzoii | Vikings vs. Saints | Saints | 2.27 (44¢) | $29,674 | -$29,674 | ❌ Perdida |
 | Sassy-Bucket | Texans vs. Titans: O/U 38.5 | Over 38.5 | 2.13 (47¢) | $38,052 | -$38,052 | ❌ Perdida |
-| mooseborzoii | Bengals vs. Dolphins | Bengals | 1.33 (75¢) | $27,134 | — | ⏳ Pendiente |
+| mooseborzoii | Bengals vs. Dolphins | Bengals | 1.33 (75¢) | $27,134 | +$9,045 | ✅ Ganada |
 | Sassy-Bucket | Raiders vs. Patriots | Patriots | 1.59 (63¢) | $126,000 | +$74,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-10-11? | Yes | 2.50 (40¢) | $32,533 | +$48,799 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Liverpool FC win on 2026-10-11? | No | 1.32 (76¢) | $64,748 | +$20,447 | ✅ Ganada |
@@ -111,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | Kch-Temp | Spread: Commanders (-3.5) | Giants | 1.92 (52¢) | $111,167 | — | ⏳ Pendiente |
 | nb1985 | Will Manchester City FC win on 2026-10-11? | Yes | 2.08 (48¢) | $150,000 | +$162,500 | ✅ Ganada |
 | wan123 | Spread: Patriots (-3.5) | Patriots | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
-| wan123 | Bengals vs. Dolphins | Dolphins | 4.00 (25¢) | $25,000 | — | ⏳ Pendiente |
+| wan123 | Bengals vs. Dolphins | Dolphins | 4.00 (25¢) | $25,000 | -$25,000 | ❌ Perdida |
 | cosmicxbt | Eagles vs. Jaguars | Jaguars | 1.85 (54¢) | $80,690 | +$1,494 | 💰 Vendida antes |
 | fantasy7788 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.52 (66¢) | $49,000 | +$25,242 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Jaguars | Eagles | 2.50 (40¢) | $76,555 | -$76,555 | ❌ Perdida |
