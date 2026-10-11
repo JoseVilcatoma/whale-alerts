@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 17:08:53 (hora de Perú)
+Actualizado: 2026-10-11 17:10:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4932**  ($266,551,976 en total)
+- Apuestas registradas: **4934**  ($266,811,936 en total)
 - Resueltas: **4884** — 2995 ganadas / 1889 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 29
 - Apostadores distintos: 551
 
 ### Balance
@@ -33,15 +33,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
+| ferrariChampions2026 | 81 | 39 | 2 | 68% | $4,986,215 | +$119,547 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
-| ferrariChampions2026 | 81 | 39 | 1 | 68% | $4,856,215 | +$119,547 |
 | BrotherObama | 39 | 42 | 2 | 48% | $3,753,097 | -$11,378 |
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 46 | 28 | 2 | 62% | $3,460,248 | +$144,817 |
+| maz26 | 27 | 17 | 4 | 61% | $3,304,288 | +$93,673 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 8 | 0 | 79% | $3,197,856 | +$529,990 |
-| maz26 | 27 | 17 | 3 | 61% | $3,174,328 | +$93,673 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | mooseborzoii | 33 | 15 | 4 | 69% | $2,537,077 | +$596,879 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Spread: 49ers (-4.5) | Seahawks | 2.00 (50¢) | $129,960 | — | ⏳ Pendiente |
+| ferrariChampions2026 | 49ers vs. Seahawks | Seahawks | 3.45 (29¢) | $130,000 | — | ⏳ Pendiente |
 | mooseborzoii | 49ers vs. Seahawks | 49ers | 1.41 (71¢) | $43,640 | — | ⏳ Pendiente |
 | yoyoyoyoer | 49ers vs. Seahawks | 49ers | 1.41 (71¢) | $25,122 | — | ⏳ Pendiente |
 | 1827575782 | Lions vs. Cardinals | Lions | 1.08 (93¢) | $128,547 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 0x543f6FdD37cA39Efd4ee7a98f8B7eFEEb8c68323-1791538722885 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $27,112 | +$14,599 | ✅ Ganada |
 | 3edmond.dantes | Will Stade Rennais FC 1901 win on 2026-10-11? | Yes | 1.47 (68¢) | $188,887 | +$88,888 | ✅ Ganada |
 | 3edmond.dantes | Will Stade Rennais FC 1901 win on 2026-10-11? | Yes | 1.49 (67¢) | $121,493 | +$59,840 | ✅ Ganada |
-| 0xe312101A6EA5c00821B74e2855c2674147B2e0b2-1730831637679 | Bears vs. Packers | Bears | 1.89 (53¢) | $49,222 | -$49,222 | ❌ Perdida |
-| gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $132,346 | +$44,115 | ✅ Ganada |
