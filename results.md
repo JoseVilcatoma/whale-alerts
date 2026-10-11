@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 07:47:22 (hora de Perú)
+Actualizado: 2026-10-11 07:49:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4841**  ($260,524,161 en total)
+- Apuestas registradas: **4844**  ($260,608,739 en total)
 - Resueltas: **4786** — 2933 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 37
 - Apostadores distintos: 548
 
 ### Balance
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nb1985 | Will OGC Nice win on 2026-10-11? | Yes | 2.17 (46¢) | $32,809 | — | ⏳ Pendiente |
+| UpTheBlues | Will Hull City AFC win on 2026-10-11? | No | 1.30 (77¢) | $25,288 | — | ⏳ Pendiente |
+| UpTheBlues | Will Hull City AFC vs. Everton FC end in a draw? | No | 1.41 (71¢) | $26,482 | — | ⏳ Pendiente |
 | Kch-Temp | Bears vs. Packers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $67,911 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 2.78 (36¢) | $36,000 | — | ⏳ Pendiente |
 | 1827575782 | Will Lewis Hamilton win the 2026 F1 Singapore Grand Prix? | No | 1.09 (92¢) | $194,282 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | Roadto1mlesgooo | Inter Miami CF vs. D.C. United SC: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
 | Talvez10 | Spread: Alabama (-2.5) | Alabama | 1.96 (51¢) | $78,293 | -$78,293 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.44 (41¢) | $93,336 | -$93,336 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Francisco Prado | 1.69 (59¢) | $118,000 | +$82,000 | ✅ Ganada |
-| mooseborzoii | Texas vs. Oklahoma | Oklahoma | 1.43 (70¢) | $28,908 | +$12,389 | ✅ Ganada |
-| Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.50 (40¢) | $46,730 | -$46,730 | ❌ Perdida |
