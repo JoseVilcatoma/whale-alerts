@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 11:47:05 (hora de Perú)
+Actualizado: 2026-10-11 11:49:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4901**  ($265,012,283 en total)
-- Resueltas: **4818** — 2945 ganadas / 1873 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Resueltas: **4819** — 2946 ganadas / 1873 perdidas (**61%** de acierto)
+- Pendientes: 61
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: -$261,513** sobre $259,508,965 apostados (ROI **-0.1%**)
+- **Resultado de los apostadores: -$260,019** sobre $259,589,656 apostados (ROI **-0.1%**)
 - Copiando $100 fijo en cada una: **-$5,801** sobre $475,400 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| cosmicxbt | 13 | 4 | 1 | 76% | $1,383,018 | +$1,473 |
+| cosmicxbt | 14 | 4 | 0 | 78% | $1,383,018 | +$2,967 |
 
 _(mostrando los 40 de mayor monto, de 551 en total)_
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | nb1985 | Will Manchester City FC win on 2026-10-11? | Yes | 2.08 (48¢) | $150,000 | — | ⏳ Pendiente |
 | wan123 | Spread: Patriots (-3.5) | Patriots | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | wan123 | Bengals vs. Dolphins | Dolphins | 4.00 (25¢) | $25,000 | — | ⏳ Pendiente |
-| cosmicxbt | Eagles vs. Jaguars | Jaguars | 1.85 (54¢) | $80,690 | — | ⏳ Pendiente |
+| cosmicxbt | Eagles vs. Jaguars | Jaguars | 1.85 (54¢) | $80,690 | +$1,494 | 💰 Vendida antes |
 | fantasy7788 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.52 (66¢) | $49,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Jaguars | Eagles | 2.50 (40¢) | $76,555 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.56 (64¢) | $70,400 | — | ⏳ Pendiente |
