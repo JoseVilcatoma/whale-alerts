@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 19:56:46 (hora de Perú)
+Actualizado: 2026-10-10 19:58:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4798**  ($258,046,207 en total)
+- Apuestas registradas: **4800**  ($258,111,878 en total)
 - Resueltas: **4755** — 2913 ganadas / 1842 perdidas (**61%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 543
+- Pendientes: 24
+- Apostadores distintos: 544
 
 ### Balance
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 347 | 184 | 6 | 65% | $33,364,663 | +$905,249 |
 | Sassy-Bucket | 66 | 63 | 2 | 51% | $7,321,631 | -$656,092 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 88 | 80 | 1 | 52% | $6,908,269 | -$469,579 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 88 | 80 | 2 | 52% | $6,940,069 | -$469,579 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | Diabolical-Prize | 59 | 58 | 0 | 50% | $5,997,202 | -$379,592 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Elaran1993 | 10 | 8 | 0 | 56% | $1,309,851 | +$248,205 |
 
-_(mostrando los 40 de mayor monto, de 543 en total)_
+_(mostrando los 40 de mayor monto, de 544 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1827575782 | LSU vs. Kentucky | LSU | 1.82 (55¢) | $33,872 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Boise State (-7.5) | Boise State | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Cardinals: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $33,368 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Andre Fili vs. Kai Kamaka III (Featherweight, Main Card) | Kai Kamaka III | 2.17 (46¢) | $45,469 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Purdue | Purdue | 2.00 (50¢) | $27,752 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 | vdsgsdfgb | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $35,990 | +$4,908 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.10 (91¢) | $37,857 | +$3,744 | ✅ Ganada |
 | AnonymousUsername | Will Manchester United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.30 (77¢) | $31,047 | -$31,047 | ❌ Perdida |
-| ethBELIVER | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
-| chubbytoro | Flyers vs. Bruins | Bruins | 1.79 (56¢) | $134,214 | +$105,454 | ✅ Ganada |

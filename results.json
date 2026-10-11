@@ -72109,5 +72109,35 @@
     "status": "pending",
     "ultimo_fill": 1791679836,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9779,
+    "timestamp": 1791680242,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "cfb-boise-frest-2026-10-10-spread-away-7pt5",
+    "title": "Spread: Boise State (-7.5)",
+    "outcome": "Boise State",
+    "side": "BUY",
+    "usd": 31800.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791680242,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9780,
+    "timestamp": 1791680294,
+    "username": "1827575782",
+    "wallet": "0x27989d8c715acc53e921ea0950ee97306b590b7d",
+    "slug": "cfb-lsu-uk-2026-10-10",
+    "title": "LSU vs. Kentucky",
+    "outcome": "LSU",
+    "side": "BUY",
+    "usd": 33871.86,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1791680294,
+    "fills": 1
   }
 ]
