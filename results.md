@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 08:15:59 (hora de Perú)
+Actualizado: 2026-10-11 08:18:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4850**  ($261,373,325 en total)
-- Resueltas: **4787** — 2934 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Resueltas: **4788** — 2934 ganadas / 1854 perdidas (**61%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 549
 
 ### Balance
 
-- **Resultado de los apostadores: +$154,894** sobre $258,163,158 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,741** sobre $472,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$105,575** sobre $258,212,477 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,841** sobre $472,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 | Kch-Temp | Bears vs. Packers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $67,911 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 2.78 (36¢) | $36,000 | — | ⏳ Pendiente |
 | 1827575782 | Will Lewis Hamilton win the 2026 F1 Singapore Grand Prix? | No | 1.09 (92¢) | $194,282 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima | Brandon Nakashima | 2.13 (47¢) | $49,319 | — | ⏳ Pendiente |
+| kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima | Brandon Nakashima | 2.13 (47¢) | $49,319 | -$49,319 | ❌ Perdida |
 | TKD44 | Spread: Steelers (-7.5) | Colts | 1.41 (71¢) | $31,317 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $38,485 | — | ⏳ Pendiente |
 | Jsram | Crystal Palace FC vs. Nottingham Forest FC: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $32,500 | — | ⏳ Pendiente |
