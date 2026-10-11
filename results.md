@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 06:53:48 (hora de Perú)
+Actualizado: 2026-10-11 06:55:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4835**  ($260,106,847 en total)
+- Apuestas registradas: **4836**  ($260,145,332 en total)
 - Resueltas: **4785** — 2932 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 548
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 39 | 41 | 2 | 49% | $3,708,447 | +$33,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Lakersfan111 | 42 | 23 | 4 | 65% | $3,167,136 | +$323,507 |
+| Lakersfan111 | 42 | 23 | 5 | 65% | $3,205,621 | +$323,507 |
 | surfandturf | 30 | 7 | 0 | 81% | $3,166,921 | +$560,925 |
 | maz26 | 25 | 16 | 1 | 61% | $2,709,458 | +$128 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $38,485 | — | ⏳ Pendiente |
 | Jsram | Crystal Palace FC vs. Nottingham Forest FC: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $32,500 | — | ⏳ Pendiente |
 | RJW1 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $43,200 | — | ⏳ Pendiente |
 | gmpm2 | Eagles vs. Jaguars: O/U 42.5 | Over 42.5 | 2.13 (47¢) | $31,188 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $108,087 | -$108,087 | ❌ Perdida |
 | mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $56,517 | -$56,517 | ❌ Perdida |
 | Gourmet1 | Red Wings vs. Canadiens | Red Wings | 2.78 (36¢) | $36,753 | -$36,753 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $54,853 | -$54,853 | ❌ Perdida |
