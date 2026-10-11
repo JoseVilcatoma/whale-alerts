@@ -72897,5 +72897,20 @@
     "status": "pending",
     "ultimo_fill": 1791724352,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9863,
+    "timestamp": 1791725183,
+    "username": "qiu3",
+    "wallet": "0x7f7351b5ba33a4be08b7111911b227cdd82414f1",
+    "slug": "cs2-vit-mouz-2026-10-11",
+    "title": "Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 37552.07,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1791725183,
+    "fills": 1
   }
 ]

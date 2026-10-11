@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 08:26:21 (hora de Perú)
+Actualizado: 2026-10-11 08:28:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4850**  ($261,373,325 en total)
+- Apuestas registradas: **4851**  ($261,410,877 en total)
 - Resueltas: **4788** — 2934 ganadas / 1854 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 549
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| qiu3 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $37,552 | — | ⏳ Pendiente |
 | fraagen | Will 1. FC Köln win on 2026-10-11? | No | 1.96 (51¢) | $25,704 | — | ⏳ Pendiente |
 | Tiger200 | Spread: Jaguars (-7.5) | Jaguars | 1.92 (52¢) | $547,689 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-10.5) | Eagles | 1.69 (59¢) | $49,258 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 | ethanaz | Georgia vs. Alabama | Georgia | 2.00 (50¢) | $52,674 | +$52,674 | ✅ Ganada |
 | mooseborzoii | Georgia vs. Alabama | Alabama | 1.67 (60¢) | $26,052 | -$26,052 | ❌ Perdida |
 | 3648393489047 | Georgia vs. Alabama | Alabama | 1.79 (56¢) | $27,063 | -$27,063 | ❌ Perdida |
-| mooseborzoii | Georgia vs. Alabama | Alabama | 1.92 (52¢) | $25,218 | -$25,218 | ❌ Perdida |
