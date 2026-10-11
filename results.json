@@ -72702,5 +72702,20 @@
     "status": "pending",
     "ultimo_fill": 1791720556,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9847,
+    "timestamp": 1791720849,
+    "username": "kdvlklkvlsklkfs",
+    "wallet": "0xcfe8f6cc8ff9cb68985b7af650ef6dbe9a373a6c",
+    "slug": "atp-bublik-nakashi-2026-10-11",
+    "title": "Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 49318.8069,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1791720849,
+    "fills": 1
   }
 ]
