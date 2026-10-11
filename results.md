@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 15:23:28 (hora de Perú)
+Actualizado: 2026-10-11 15:25:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4921**  ($265,959,301 en total)
+- Apuestas registradas: **4922**  ($266,016,669 en total)
 - Resueltas: **4865** — 2983 ganadas / 1882 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 551
 
 ### Balance
@@ -44,8 +44,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 27 | 17 | 1 | 61% | $3,115,479 | +$93,673 |
 | Kch-Temp | 31 | 10 | 3 | 76% | $2,815,566 | +$1,395,506 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
+| mooseborzoii | 32 | 15 | 4 | 68% | $2,493,437 | +$587,835 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| mooseborzoii | 32 | 15 | 3 | 68% | $2,436,069 | +$587,835 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Spread: Lions (-5.5) | Cardinals | 2.00 (50¢) | $57,368 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-3.5) | 49ers | 1.79 (56¢) | $56,418 | — | ⏳ Pendiente |
 | ndb1 | 49ers vs. Seahawks | Seahawks | 1.69 (59¢) | $38,829 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Jets | Browns | 11.11 (9¢) | $26,578 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Games Total: O/U 3.5 | Under 3.5 | 3.57 (28¢) | $28,000 | +$72,000 | ✅ Ganada |
 | nb1985 | Will Real Sociedad de Fútbol win on 2026-10-11? | No | 2.17 (46¢) | $29,474 | -$29,474 | ❌ Perdida |
 | 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.82 (55¢) | $57,981 | +$47,439 | ✅ Ganada |
-| 1827575782 | Eagles vs. Jaguars | Jaguars | 1.20 (83¢) | $197,662 | +$40,485 | ✅ Ganada |

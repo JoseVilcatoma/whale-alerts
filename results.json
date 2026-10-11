@@ -73964,5 +73964,20 @@
     "status": "pending",
     "ultimo_fill": 1791749934,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9995,
+    "timestamp": 1791750271,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-det-ari-2026-10-11-spread-away-5pt5",
+    "title": "Spread: Lions (-5.5)",
+    "outcome": "Cardinals",
+    "side": "BUY",
+    "usd": 57368.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1791750271,
+    "fills": 1
   }
 ]
