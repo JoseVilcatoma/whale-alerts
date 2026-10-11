@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 10:31:33 (hora de Perú)
+Actualizado: 2026-10-11 10:33:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4891**  ($264,552,316 en total)
-- Resueltas: **4803** — 2940 ganadas / 1863 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Resueltas: **4807** — 2942 ganadas / 1865 perdidas (**61%** de acierto)
+- Pendientes: 63
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: -$134,426** sobre $258,822,787 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,171** sobre $473,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$143,658** sobre $258,961,716 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,201** sobre $474,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -128,6 +128,6 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | TKD44 | Spread: Steelers (-7.5) | Colts | 1.41 (71¢) | $31,317 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $38,485 | — | ⏳ Pendiente |
 | Jsram | Crystal Palace FC vs. Nottingham Forest FC: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $32,500 | — | ⏳ Pendiente |
-| RJW1 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $43,200 | — | ⏳ Pendiente |
+| RJW1 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $43,200 | +$36,800 | ✅ Ganada |
 | gmpm2 | Eagles vs. Jaguars: O/U 42.5 | Over 42.5 | 2.13 (47¢) | $31,188 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
