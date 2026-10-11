@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 07:53:28 (hora de Perú)
+Actualizado: 2026-10-11 07:55:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4846**  ($260,719,739 en total)
+- Apuestas registradas: **4847**  ($260,750,674 en total)
 - Resueltas: **4786** — 2933 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 548
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Lakersfan111 | 42 | 23 | 5 | 65% | $3,205,621 | +$323,507 |
-| surfandturf | 30 | 7 | 0 | 81% | $3,166,921 | +$560,925 |
+| surfandturf | 30 | 7 | 1 | 81% | $3,197,856 | +$560,925 |
 | maz26 | 25 | 16 | 1 | 61% | $2,709,458 | +$128 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Kch-Temp | 30 | 10 | 2 | 75% | $2,557,696 | +$1,280,240 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Spread: Jaguars (-5.5) | Jaguars | 1.61 (62¢) | $30,935 | — | ⏳ Pendiente |
 | mooseborzoii | Will Bologna FC 1909 win on 2026-10-11? | Yes | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
 | ripley86alien | Will Bologna FC 1909 win on 2026-10-11? | No | 1.82 (55¢) | $66,000 | — | ⏳ Pendiente |
 | nb1985 | Will OGC Nice win on 2026-10-11? | Yes | 2.17 (46¢) | $32,809 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | ohcanada123 | Georgia vs. Alabama | Georgia | 2.17 (46¢) | $29,361 | +$34,467 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Georgia vs. Alabama: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $37,806 | -$37,806 | ❌ Perdida |
 | BoggsFromShawshank | Georgia vs. Alabama | Alabama | 1.85 (54¢) | $35,640 | -$35,640 | ❌ Perdida |
-| Roadto1mlesgooo | Inter Miami CF vs. D.C. United SC: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
