@@ -72594,7 +72594,7 @@
     "side": "BUY",
     "usd": 149716.26750000002,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791718372,
     "fills": 1
   },
@@ -72731,6 +72731,21 @@
     "odds_at_bet": 92,
     "status": "pending",
     "ultimo_fill": 1791721479,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9850,
+    "timestamp": 1791722219,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "cs2-aur1-ts7-2026-10-11",
+    "title": "Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 36000.0,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "ultimo_fill": 1791722219,
     "fills": 1
   }
 ]

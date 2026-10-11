@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 07:35:12 (hora de Perú)
+Actualizado: 2026-10-11 07:37:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4839**  ($260,420,251 en total)
-- Resueltas: **4785** — 2932 ganadas / 1853 perdidas (**61%** de acierto)
+- Apuestas registradas: **4840**  ($260,456,251 en total)
+- Resueltas: **4786** — 2933 ganadas / 1853 perdidas (**61%** de acierto)
 - Pendientes: 33
 - Apostadores distintos: 548
 
 ### Balance
 
-- **Resultado de los apostadores: +$100,779** sobre $257,987,585 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,790** sobre $472,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$150,684** sobre $258,137,302 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,757** sobre $472,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 2.78 (36¢) | $36,000 | — | ⏳ Pendiente |
 | 1827575782 | Will Lewis Hamilton win the 2026 F1 Singapore Grand Prix? | No | 1.09 (92¢) | $194,282 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima | Brandon Nakashima | 2.13 (47¢) | $49,319 | — | ⏳ Pendiente |
 | TKD44 | Spread: Steelers (-7.5) | Colts | 1.41 (71¢) | $31,317 | — | ⏳ Pendiente |
@@ -80,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | gmpm2 | Eagles vs. Jaguars: O/U 42.5 | Over 42.5 | 2.13 (47¢) | $31,188 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-6.5) | Eagles | 2.44 (41¢) | $33,077 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Olbia: Ivan Marrero Curbelo vs Andrea Colombo | Ivan Marrero Curbelo | 1.33 (75¢) | $149,716 | — | ⏳ Pendiente |
+| kdvlklkvlsklkfs | Olbia: Ivan Marrero Curbelo vs Andrea Colombo | Ivan Marrero Curbelo | 1.33 (75¢) | $149,716 | +$49,905 | ✅ Ganada |
 | Herdonia | Eagles vs. Jaguars | Jaguars | 1.30 (77¢) | $41,188 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Olbia: Leo Raquillet vs Gabi Adrian Boitan | Gabi Adrian Boitan | 1.37 (73¢) | $106,682 | — | ⏳ Pendiente |
 | meoooow | Will Elche CF vs. RC Celta de Vigo end in a draw? | No | 1.41 (71¢) | $30,078 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | mooseborzoii | Texas vs. Oklahoma | Oklahoma | 1.43 (70¢) | $28,908 | +$12,389 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.50 (40¢) | $46,730 | -$46,730 | ❌ Perdida |
 | nuttypoo | LSU vs. Kentucky: O/U 51.5 | Under 51.5 | 1.79 (56¢) | $56,000 | -$56,000 | ❌ Perdida |
-| 177-letsgo | Texas vs. Oklahoma | Texas | 1.75 (57¢) | $72,339 | -$72,339 | ❌ Perdida |
