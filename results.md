@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 16:00:43 (hora de Perú)
+Actualizado: 2026-10-11 16:02:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4926**  ($266,139,921 en total)
-- Resueltas: **4881** — 2993 ganadas / 1888 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **4882** — 2994 ganadas / 1888 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: +$573,585** sobre $264,230,949 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,298** sobre $481,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$644,268** sobre $264,298,860 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,194** sobre $481,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 8 | 0 | 79% | $3,197,856 | +$529,990 |
 | maz26 | 27 | 17 | 3 | 61% | $3,174,328 | +$93,673 |
-| Kch-Temp | 31 | 10 | 3 | 76% | $2,815,566 | +$1,395,506 |
+| Kch-Temp | 32 | 10 | 2 | 76% | $2,815,566 | +$1,466,189 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | mooseborzoii | 33 | 15 | 3 | 69% | $2,493,437 | +$596,879 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
