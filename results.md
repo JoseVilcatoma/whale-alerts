@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 10:29:27 (hora de Perú)
+Actualizado: 2026-10-11 10:31:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4890**  ($264,405,613 en total)
+- Apuestas registradas: **4891**  ($264,552,316 en total)
 - Resueltas: **4803** — 2940 ganadas / 1863 perdidas (**61%** de acierto)
-- Pendientes: 66
+- Pendientes: 67
 - Apostadores distintos: 551
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 7 | 1 | 81% | $3,197,856 | +$560,925 |
 | maz26 | 25 | 16 | 3 | 61% | $3,083,655 | +$128 |
-| Kch-Temp | 30 | 10 | 3 | 75% | $2,668,864 | +$1,280,240 |
+| Kch-Temp | 30 | 10 | 4 | 75% | $2,815,566 | +$1,280,240 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | mooseborzoii | 32 | 14 | 1 | 70% | $2,351,461 | +$617,509 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Vikings vs. Saints | Vikings | 1.79 (56¢) | $146,703 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.35 (74¢) | $26,306 | — | ⏳ Pendiente |
 | p1252 | Will Manchester City FC win on 2026-10-11? | No | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 1827575782 | Will Liverpool FC win on 2026-10-11? | No | 1.35 (74¢) | $81,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | RJW1 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $43,200 | — | ⏳ Pendiente |
 | gmpm2 | Eagles vs. Jaguars: O/U 42.5 | Over 42.5 | 2.13 (47¢) | $31,188 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-6.5) | Eagles | 2.44 (41¢) | $33,077 | — | ⏳ Pendiente |
