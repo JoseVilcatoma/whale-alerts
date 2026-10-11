@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 22:14:46 (hora de Perú)
+Actualizado: 2026-10-10 22:16:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4805**  ($258,332,667 en total)
-- Resueltas: **4765** — 2921 ganadas / 1844 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **4766** — 2921 ganadas / 1845 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 545
 
 ### Balance
 
-- **Resultado de los apostadores: +$119,142** sobre $256,619,834 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,654** sobre $470,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$63,142** sobre $256,675,834 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,754** sobre $470,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Francisco Prado | 1.69 (59¢) | $118,000 | +$82,000 | ✅ Ganada |
 | mooseborzoii | Texas vs. Oklahoma | Oklahoma | 1.43 (70¢) | $28,908 | +$12,389 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.50 (40¢) | $46,730 | -$46,730 | ❌ Perdida |
-| nuttypoo | LSU vs. Kentucky: O/U 51.5 | Under 51.5 | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
+| nuttypoo | LSU vs. Kentucky: O/U 51.5 | Under 51.5 | 1.79 (56¢) | $56,000 | -$56,000 | ❌ Perdida |
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.75 (57¢) | $72,339 | -$72,339 | ❌ Perdida |
 | mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $108,087 | -$108,087 | ❌ Perdida |
 | mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $56,517 | -$56,517 | ❌ Perdida |
