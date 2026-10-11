@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 14:21:21 (hora de Perú)
+Actualizado: 2026-10-11 14:23:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4905**  ($265,138,214 en total)
+- Apuestas registradas: **4909**  ($265,398,499 en total)
 - Resueltas: **4855** — 2976 ganadas / 1879 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 33
 - Apostadores distintos: 551
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 355 | 188 | 3 | 65% | $33,753,463 | +$1,021,515 |
 | Sassy-Bucket | 67 | 63 | 4 | 52% | $7,635,482 | -$506,293 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 0 | 52% | $6,940,069 | -$482,629 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 1 | 52% | $6,989,069 | -$482,629 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Diabolical-Prize | 59 | 58 | 1 | 50% | $6,230,697 | -$379,592 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
-| ferrariChampions2026 | 80 | 39 | 1 | 67% | $4,823,469 | +$106,172 |
+| ferrariChampions2026 | 80 | 39 | 2 | 67% | $4,856,215 | +$106,172 |
 | BrotherObama | 39 | 42 | 2 | 48% | $3,753,097 | -$11,378 |
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 28 | 2 | 0 | 93% | $1,700,416 | +$89,015 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
+| cosmicxbt | 14 | 4 | 1 | 78% | $1,501,518 | +$2,967 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| cosmicxbt | 14 | 4 | 0 | 78% | $1,383,018 | +$2,967 |
 
 _(mostrando los 40 de mayor monto, de 551 en total)_
 
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Lions vs. Cardinals: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
+| beeemw | Vikings vs. Saints | Vikings | 1.27 (79¢) | $60,040 | — | ⏳ Pendiente |
+| cosmicxbt | Vikings vs. Saints | Vikings | 1.27 (79¢) | $118,500 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Vikings vs. Saints | Vikings | 1.41 (71¢) | $32,746 | — | ⏳ Pendiente |
 | veliMax | Will Real Betis Balompié win on 2026-10-11? | Yes | 1.22 (82¢) | $31,071 | +$6,820 | ✅ Ganada |
 | mooseborzoii | Vikings vs. Saints | Saints | 2.27 (44¢) | $29,674 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texans vs. Titans: O/U 38.5 | Over 38.5 | 2.13 (47¢) | $38,052 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | Sassy-Bucket | Spread: Jaguars (-7.5) | Eagles | 2.00 (50¢) | $149,799 | +$149,799 | ✅ Ganada |
 | qiu3 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $37,552 | +$20,220 | ✅ Ganada |
 | fraagen | Will 1. FC Köln win on 2026-10-11? | No | 1.96 (51¢) | $25,704 | -$25,704 | ❌ Perdida |
-| Tiger200 | Spread: Jaguars (-7.5) | Jaguars | 1.92 (52¢) | $547,689 | -$547,689 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-10.5) | Eagles | 1.69 (59¢) | $49,258 | +$34,230 | ✅ Ganada |
-| surfandturf | Spread: Jaguars (-5.5) | Jaguars | 1.61 (62¢) | $30,935 | -$30,935 | ❌ Perdida |
-| mooseborzoii | Will Bologna FC 1909 win on 2026-10-11? | Yes | 2.22 (45¢) | $45,000 | +$55,000 | ✅ Ganada |
