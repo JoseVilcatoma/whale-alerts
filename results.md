@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 09:36:52 (hora de Perú)
+Actualizado: 2026-10-11 09:38:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4874**  ($263,268,681 en total)
+- Apuestas registradas: **4875**  ($263,306,459 en total)
 - Resueltas: **4797** — 2936 ganadas / 1861 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 57
 - Apostadores distintos: 550
 
 ### Balance
@@ -27,8 +27,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 186 | 8 | 65% | $33,579,627 | +$887,170 |
 | Sassy-Bucket | 66 | 63 | 3 | 51% | $7,471,431 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 0 | 52% | $6,940,069 | -$482,629 |
+| 3edmond.dantes | 23 | 20 | 3 | 53% | $6,417,230 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| 3edmond.dantes | 23 | 20 | 2 | 53% | $6,379,453 | -$1,657,043 |
 | Diabolical-Prize | 59 | 58 | 1 | 50% | $6,230,697 | -$379,592 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 550 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | Will Stade Rennais FC 1901 win on 2026-10-11? | Yes | 1.47 (68¢) | $37,777 | — | ⏳ Pendiente |
 | 0xe312101A6EA5c00821B74e2855c2674147B2e0b2-1730831637679 | Bears vs. Packers | Bears | 1.89 (53¢) | $49,222 | — | ⏳ Pendiente |
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $132,346 | — | ⏳ Pendiente |
 | eth10001 | Will Real Sociedad de Fútbol vs. RC Deportivo A Coruña end in a draw? | No | 1.33 (75¢) | $48,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 550 en total)_
 | fortnitethegoat667 | Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.37 (73¢) | $27,072 | -$27,072 | ❌ Perdida |
 | fortnitethegoat667 | Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.41 (71¢) | $42,600 | -$42,600 | ❌ Perdida |
 | coinlaundry | Shanghai Rolex Masters: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.16 (86¢) | $25,856 | +$4,209 | ✅ Ganada |
-| btmx6 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $26,837 | — | ⏳ Pendiente |
