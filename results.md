@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 07:22:53 (hora de Perú)
+Actualizado: 2026-10-11 07:24:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4838**  ($260,225,968 en total)
+- Apuestas registradas: **4839**  ($260,420,251 en total)
 - Resueltas: **4785** — 2932 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 548
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1827575782 | Will Lewis Hamilton win the 2026 F1 Singapore Grand Prix? | No | 1.09 (92¢) | $194,282 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima | Brandon Nakashima | 2.13 (47¢) | $49,319 | — | ⏳ Pendiente |
 | TKD44 | Spread: Steelers (-7.5) | Colts | 1.41 (71¢) | $31,317 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $38,485 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.50 (40¢) | $46,730 | -$46,730 | ❌ Perdida |
 | nuttypoo | LSU vs. Kentucky: O/U 51.5 | Under 51.5 | 1.79 (56¢) | $56,000 | -$56,000 | ❌ Perdida |
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.75 (57¢) | $72,339 | -$72,339 | ❌ Perdida |
-| mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $108,087 | -$108,087 | ❌ Perdida |
