@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 01:37:55 (hora de Perú)
+Actualizado: 2026-10-11 01:39:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4815**  ($259,165,837 en total)
-- Resueltas: **4779** — 2926 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **4782** — 2929 ganadas / 1853 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 545
 
 ### Balance
 
-- **Resultado de los apostadores: -$85,933** sobre $257,239,187 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$5,062** sobre $471,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,512** sobre $257,851,921 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$5,014** sobre $471,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,11 +76,11 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 | btmx6 | Will 1. FC Köln win on 2026-10-11? | No | 1.92 (52¢) | $30,519 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Eagles vs. Jaguars | Jaguars | 1.30 (77¢) | $37,191 | — | ⏳ Pendiente |
 | gransaaa | Will Everton FC win on 2026-10-11? | Yes | 2.13 (47¢) | $35,327 | — | ⏳ Pendiente |
-| veliMax | Boise State vs. Fresno State | Boise State | 1.20 (83¢) | $52,970 | — | ⏳ Pendiente |
+| veliMax | Boise State vs. Fresno State | Boise State | 1.20 (83¢) | $52,970 | +$10,849 | ✅ Ganada |
 | gransaaa | SS Lazio vs. AC Monza: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $26,496 | — | ⏳ Pendiente |
 | gransaaa | Will Everton FC win on 2026-10-11? | Yes | 2.13 (47¢) | $33,566 | — | ⏳ Pendiente |
-| 1827575782 | Boise State vs. Fresno State | Boise State | 1.15 (87¢) | $92,442 | — | ⏳ Pendiente |
-| 1827575782 | Boise State vs. Fresno State | Boise State | 1.12 (89¢) | $467,322 | — | ⏳ Pendiente |
+| 1827575782 | Boise State vs. Fresno State | Boise State | 1.15 (87¢) | $92,442 | +$13,813 | ✅ Ganada |
+| 1827575782 | Boise State vs. Fresno State | Boise State | 1.12 (89¢) | $467,322 | +$57,759 | ✅ Ganada |
 | gangmusic | UFC Fight Night: Brendan Allen vs. Christian Leroy Duncan (Middleweight, Main Card) | Brendan Allen | 1.96 (51¢) | $45,695 | +$43,903 | ✅ Ganada |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.59 (63¢) | $33,203 | +$1,779 | 💰 Vendida antes |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $26,394 | +$1,414 | 💰 Vendida antes |
