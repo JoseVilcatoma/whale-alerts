@@ -72669,7 +72669,7 @@
     "side": "BUY",
     "usd": 32500.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791719550,
     "fills": 1
   },
@@ -73541,6 +73541,21 @@
     "odds_at_bet": 73,
     "status": "pending",
     "ultimo_fill": 1791733087,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9925,
+    "timestamp": 1791734054,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-lad-mil-2026-10-11",
+    "title": "Los Angeles Dodgers vs. Milwaukee Brewers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791734054,
     "fills": 1
   }
 ]

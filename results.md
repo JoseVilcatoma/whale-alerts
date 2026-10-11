@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 10:52:34 (hora de Perú)
+Actualizado: 2026-10-11 10:54:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4893**  ($264,607,229 en total)
-- Resueltas: **4807** — 2942 ganadas / 1865 perdidas (**61%** de acierto)
+- Apuestas registradas: **4894**  ($264,632,229 en total)
+- Resueltas: **4808** — 2942 ganadas / 1866 perdidas (**61%** de acierto)
 - Pendientes: 65
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: -$143,658** sobre $258,961,716 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,201** sobre $474,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$176,158** sobre $258,994,216 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,301** sobre $474,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
-| ferrariChampions2026 | 78 | 39 | 2 | 67% | $4,798,469 | +$41,887 |
+| ferrariChampions2026 | 78 | 39 | 3 | 67% | $4,823,469 | +$41,887 |
 | BrotherObama | 39 | 41 | 3 | 49% | $3,753,097 | +$33,271 |
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 29 | 29 | 0 | 50% | $1,728,324 | -$135,793 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 28 | 2 | 0 | 93% | $1,700,416 | +$89,015 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| Jsram | 19 | 17 | 1 | 53% | $1,661,726 | -$166,000 |
+| Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | StasPanda | Will Liverpool FC win on 2026-10-11? | No | 1.37 (73¢) | $25,921 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Eagles vs. Jaguars | Jaguars | 2.17 (46¢) | $28,991 | — | ⏳ Pendiente |
 | Kch-Temp | Vikings vs. Saints | Vikings | 1.79 (56¢) | $146,703 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima | Brandon Nakashima | 2.13 (47¢) | $49,319 | -$49,319 | ❌ Perdida |
 | TKD44 | Spread: Steelers (-7.5) | Colts | 1.41 (71¢) | $31,317 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $38,485 | — | ⏳ Pendiente |
-| Jsram | Crystal Palace FC vs. Nottingham Forest FC: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $32,500 | — | ⏳ Pendiente |
-| RJW1 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $43,200 | +$36,800 | ✅ Ganada |
+| Jsram | Crystal Palace FC vs. Nottingham Forest FC: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $32,500 | -$32,500 | ❌ Perdida |
