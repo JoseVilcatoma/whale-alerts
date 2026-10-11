@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 09:41:01 (hora de Perú)
+Actualizado: 2026-10-11 09:43:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4875**  ($263,427,346 en total)
+- Apuestas registradas: **4877**  ($263,606,173 en total)
 - Resueltas: **4797** — 2936 ganadas / 1861 perdidas (**61%** de acierto)
-- Pendientes: 57
-- Apostadores distintos: 550
+- Pendientes: 59
+- Apostadores distintos: 551
 
 ### Balance
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 186 | 8 | 65% | $33,579,627 | +$887,170 |
 | Sassy-Bucket | 66 | 63 | 3 | 51% | $7,471,431 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 0 | 52% | $6,940,069 | -$482,629 |
-| 3edmond.dantes | 23 | 20 | 3 | 53% | $6,538,118 | -$1,657,043 |
+| 3edmond.dantes | 23 | 20 | 4 | 53% | $6,689,832 | -$1,657,043 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Diabolical-Prize | 59 | 58 | 1 | 50% | $6,230,697 | -$379,592 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
@@ -65,13 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Elaran1993 | 10 | 8 | 0 | 56% | $1,309,851 | +$248,205 |
 
-_(mostrando los 40 de mayor monto, de 550 en total)_
+_(mostrando los 40 de mayor monto, de 551 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 3edmond.dantes | Will Stade Rennais FC 1901 win on 2026-10-11? | Yes | 1.47 (68¢) | $158,665 | — | ⏳ Pendiente |
+| 0x543f6FdD37cA39Efd4ee7a98f8B7eFEEb8c68323-1791538722885 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $27,112 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Stade Rennais FC 1901 win on 2026-10-11? | Yes | 1.47 (68¢) | $188,887 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Stade Rennais FC 1901 win on 2026-10-11? | Yes | 1.49 (67¢) | $121,493 | — | ⏳ Pendiente |
 | 0xe312101A6EA5c00821B74e2855c2674147B2e0b2-1730831637679 | Bears vs. Packers | Bears | 1.89 (53¢) | $49,222 | — | ⏳ Pendiente |
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $132,346 | — | ⏳ Pendiente |
 | eth10001 | Will Real Sociedad de Fútbol vs. RC Deportivo A Coruña end in a draw? | No | 1.33 (75¢) | $48,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 550 en total)_
 | fortnitethegoat667 | Valorant: 100 Thieves vs NRG (BO3) - VCT Champions Playoffs | 100 Thieves | 1.72 (58¢) | $31,341 | +$22,695 | ✅ Ganada |
 | Thesisters2 | Cagliari Calcio vs. Juventus FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $34,284 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.37 (73¢) | $27,072 | -$27,072 | ❌ Perdida |
-| fortnitethegoat667 | Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.41 (71¢) | $42,600 | -$42,600 | ❌ Perdida |
-| coinlaundry | Shanghai Rolex Masters: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.16 (86¢) | $25,856 | +$4,209 | ✅ Ganada |
