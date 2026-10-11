@@ -72447,5 +72447,20 @@
     "status": "pending",
     "ultimo_fill": 1791709171,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9827,
+    "timestamp": 1791709623,
+    "username": "lsiflsliggjriek",
+    "wallet": "0x4f53058cc60f2a4bcdfe5670b2da90196e1367d3",
+    "slug": "atp-cerundo-mensik-2026-10-09",
+    "title": "Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "usd": 42716.2174,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1791709623,
+    "fills": 1
   }
 ]
