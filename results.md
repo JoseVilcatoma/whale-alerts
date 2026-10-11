@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 06:31:16 (hora de Perú)
+Actualizado: 2026-10-11 06:33:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4829**  ($259,752,166 en total)
+- Apuestas registradas: **4830**  ($259,901,882 en total)
 - Resueltas: **4785** — 2932 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 548
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kdvlklkvlsklkfs | Olbia: Ivan Marrero Curbelo vs Andrea Colombo | Ivan Marrero Curbelo | 1.33 (75¢) | $149,716 | — | ⏳ Pendiente |
 | Herdonia | Eagles vs. Jaguars | Jaguars | 1.30 (77¢) | $41,188 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Olbia: Leo Raquillet vs Gabi Adrian Boitan | Gabi Adrian Boitan | 1.37 (73¢) | $106,682 | — | ⏳ Pendiente |
 | meoooow | Will Elche CF vs. RC Celta de Vigo end in a draw? | No | 1.41 (71¢) | $30,078 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 2.13 (47¢) | $29,050 | +$32,758 | ✅ Ganada |
 | ferrariChampions2026 | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $40,611 | +$7,167 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $59,421 | — | ⊘ Anulada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.22 (82¢) | $25,002 | -$25,002 | ❌ Perdida |

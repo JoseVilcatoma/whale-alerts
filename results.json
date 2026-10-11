@@ -72582,5 +72582,20 @@
     "status": "pending",
     "ultimo_fill": 1791717961,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9839,
+    "timestamp": 1791718372,
+    "username": "kdvlklkvlsklkfs",
+    "wallet": "0xcfe8f6cc8ff9cb68985b7af650ef6dbe9a373a6c",
+    "slug": "atp-curbelo-colombo-2026-10-11",
+    "title": "Olbia: Ivan Marrero Curbelo vs Andrea Colombo",
+    "outcome": "Ivan Marrero Curbelo",
+    "side": "BUY",
+    "usd": 149716.26750000002,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1791718372,
+    "fills": 1
   }
 ]
