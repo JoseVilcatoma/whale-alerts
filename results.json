@@ -74189,5 +74189,20 @@
     "status": "pending",
     "ultimo_fill": 1791757533,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10029,
+    "timestamp": 1791757787,
+    "username": "yoyoyoyoer",
+    "wallet": "0xb7fffe75ad88a55987cd8c60ad6a53640e80aa79",
+    "slug": "nfl-den-lac-2026-10-11",
+    "title": "Broncos vs. Chargers",
+    "outcome": "Chargers",
+    "side": "BUY",
+    "usd": 45963.329999999994,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1791757787,
+    "fills": 1
   }
 ]

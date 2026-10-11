@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 17:29:19 (hora de Perú)
+Actualizado: 2026-10-11 17:31:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4936**  ($266,916,659 en total)
+- Apuestas registradas: **4937**  ($266,962,622 en total)
 - Resueltas: **4884** — 2995 ganadas / 1889 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 551
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yoyoyoyoer | Broncos vs. Chargers | Chargers | 1.43 (70¢) | $45,963 | — | ⏳ Pendiente |
 | gambamaster | 49ers vs. Seahawks | 49ers | 1.49 (67¢) | $45,845 | — | ⏳ Pendiente |
 | askilika | Magic vs. Cavaliers | Cavaliers | 1.54 (65¢) | $33,127 | — | ⏳ Pendiente |
 | gmpm2 | Spread: 49ers (-4.5) | Seahawks | 2.00 (50¢) | $155,710 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | S-Works | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.56 (64¢) | $70,400 | +$39,600 | ✅ Ganada |
 | BrotherObama | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | MOUZ | 2.78 (36¢) | $44,649 | -$44,649 | ❌ Perdida |
 | ferrariChampions2026 | Eagles vs. Jaguars | Jaguars | 1.92 (52¢) | $32,773 | +$30,252 | ✅ Ganada |
-| 0x543f6FdD37cA39Efd4ee7a98f8B7eFEEb8c68323-1791538722885 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $27,112 | +$14,599 | ✅ Ganada |
