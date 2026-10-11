@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 14:35:39 (hora de Perú)
+Actualizado: 2026-10-11 14:37:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4912**  ($265,639,482 en total)
+- Apuestas registradas: **4913**  ($265,671,306 en total)
 - Resueltas: **4855** — 2976 ganadas / 1879 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 551
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 43 | 28 | 4 | 61% | $3,434,459 | +$101,611 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 8 | 0 | 79% | $3,197,856 | +$529,990 |
-| maz26 | 25 | 17 | 2 | 60% | $3,083,655 | -$31,059 |
+| maz26 | 25 | 17 | 3 | 60% | $3,115,479 | -$31,059 |
 | Kch-Temp | 30 | 10 | 4 | 75% | $2,815,566 | +$1,280,240 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Spread: Broncos (-3.5) | Chargers | 1.96 (51¢) | $31,824 | — | ⏳ Pendiente |
 | 1827575782 | Vikings vs. Saints | Vikings | 1.08 (93¢) | $139,500 | — | ⏳ Pendiente |
 | UpTheBlues | Will CA Platense win on 2026-10-11? | No | 1.47 (68¢) | $26,483 | — | ⏳ Pendiente |
 | Donkey14 | 49ers vs. Seahawks | Seahawks | 1.67 (60¢) | $75,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.39 (72¢) | $37,511 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.41 (71¢) | $32,366 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $56,892 | +$30,634 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Nottingham Forest FC win on 2026-10-11? | Yes | 1.56 (64¢) | $32,000 | -$32,000 | ❌ Perdida |
