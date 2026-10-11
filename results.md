@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 08:51:18 (hora de Perú)
+Actualizado: 2026-10-11 08:53:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4857**  ($261,761,575 en total)
+- Apuestas registradas: **4859**  ($261,927,950 en total)
 - Resueltas: **4791** — 2934 ganadas / 1857 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 47
 - Apostadores distintos: 549
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 66 | 63 | 3 | 51% | $7,471,431 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 0 | 52% | $6,940,069 | -$482,629 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
+| 3edmond.dantes | 23 | 20 | 1 | 53% | $6,321,472 | -$1,657,043 |
 | Diabolical-Prize | 59 | 58 | 0 | 50% | $5,997,202 | -$379,592 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Takon88 | Will Hamarkameratene win on 2026-10-11? | No | 1.27 (79¢) | $25,989 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.85 (54¢) | $140,386 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Jaguars | Jaguars | 1.47 (68¢) | $42,130 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.39 (72¢) | $37,511 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.41 (71¢) | $32,366 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 | Pwaddler | 49ers vs. Seahawks: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $31,048 | — | ⏳ Pendiente |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $47,499 | +$2,545 | 💰 Vendida antes |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $70,821 | +$3,794 | 💰 Vendida antes |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Boise State (-7.5) | Boise State | 1.89 (53¢) | $31,800 | -$31,800 | ❌ Perdida |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Cardinals: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $33,368 | — | ⏳ Pendiente |
