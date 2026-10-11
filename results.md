@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 10:56:48 (hora de Perú)
+Actualizado: 2026-10-11 10:58:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4895**  ($264,658,465 en total)
-- Resueltas: **4809** — 2942 ganadas / 1867 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Resueltas: **4811** — 2942 ganadas / 1869 perdidas (**61%** de acierto)
+- Pendientes: 63
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: -$208,158** sobre $259,026,216 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,401** sobre $474,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$264,380** sobre $259,082,439 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,601** sobre $474,700 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -116,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Nottingham Forest FC win on 2026-10-11? | Yes | 1.56 (64¢) | $32,000 | -$32,000 | ❌ Perdida |
 | Sassy-Bucket | Spread: Jaguars (-7.5) | Eagles | 2.00 (50¢) | $149,799 | — | ⏳ Pendiente |
 | qiu3 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $37,552 | — | ⏳ Pendiente |
-| fraagen | Will 1. FC Köln win on 2026-10-11? | No | 1.96 (51¢) | $25,704 | — | ⏳ Pendiente |
+| fraagen | Will 1. FC Köln win on 2026-10-11? | No | 1.96 (51¢) | $25,704 | -$25,704 | ❌ Perdida |
 | Tiger200 | Spread: Jaguars (-7.5) | Jaguars | 1.92 (52¢) | $547,689 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-10.5) | Eagles | 1.69 (59¢) | $49,258 | — | ⏳ Pendiente |
 | surfandturf | Spread: Jaguars (-5.5) | Jaguars | 1.61 (62¢) | $30,935 | — | ⏳ Pendiente |
