@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 00:16:43 (hora de Perú)
+Actualizado: 2026-10-11 00:18:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4810**  ($259,005,464 en total)
+- Apuestas registradas: **4811**  ($259,040,790 en total)
 - Resueltas: **4778** — 2926 ganadas / 1852 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 545
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gransaaa | Will Everton FC win on 2026-10-11? | Yes | 2.13 (47¢) | $35,327 | — | ⏳ Pendiente |
 | veliMax | Boise State vs. Fresno State | Boise State | 1.20 (83¢) | $52,970 | — | ⏳ Pendiente |
 | gransaaa | SS Lazio vs. AC Monza: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $26,496 | — | ⏳ Pendiente |
 | gransaaa | Will Everton FC win on 2026-10-11? | Yes | 2.13 (47¢) | $33,566 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 | viboomchuu | Spread: Devils (-1.5) | Devils | 1.92 (52¢) | $25,191 | +$23,253 | ✅ Ganada |
 | kmak1 | Will Real Madrid CF win on 2026-10-10? | Yes | 1.35 (74¢) | $34,257 | +$12,036 | ✅ Ganada |
 | 177-letsgo | Indiana vs. Nebraska | Indiana | 1.12 (89¢) | $40,050 | +$4,950 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $56,000 | +$44,000 | ✅ Ganada |
