@@ -72972,5 +72972,35 @@
     "status": "pending",
     "ultimo_fill": 1791725867,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9871,
+    "timestamp": 1791726603,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-phi-jax-2026-10-11",
+    "title": "Eagles vs. Jaguars",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 42129.6584,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1791726603,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9872,
+    "timestamp": 1791726154,
+    "username": "fortnitethegoat667",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-ty-ts8-2026-10-11",
+    "title": "Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 37511.0208,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1791726154,
+    "fills": 1
   }
 ]
