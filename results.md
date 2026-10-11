@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 08:09:45 (hora de Perú)
+Actualizado: 2026-10-11 08:11:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4848**  ($260,799,932 en total)
+- Apuestas registradas: **4849**  ($261,347,621 en total)
 - Resueltas: **4787** — 2934 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 548
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Tiger200 | Spread: Jaguars (-7.5) | Jaguars | 1.92 (52¢) | $547,689 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-10.5) | Eagles | 1.69 (59¢) | $49,258 | — | ⏳ Pendiente |
 | surfandturf | Spread: Jaguars (-5.5) | Jaguars | 1.61 (62¢) | $30,935 | — | ⏳ Pendiente |
 | mooseborzoii | Will Bologna FC 1909 win on 2026-10-11? | Yes | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | 3648393489047 | Georgia vs. Alabama | Alabama | 1.79 (56¢) | $27,063 | -$27,063 | ❌ Perdida |
 | mooseborzoii | Georgia vs. Alabama | Alabama | 1.92 (52¢) | $25,218 | -$25,218 | ❌ Perdida |
 | ohcanada123 | Georgia vs. Alabama | Georgia | 2.17 (46¢) | $29,361 | +$34,467 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Georgia vs. Alabama: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $37,806 | -$37,806 | ❌ Perdida |
