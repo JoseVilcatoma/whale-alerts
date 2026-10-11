@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 03:29:27 (hora de Perú)
+Actualizado: 2026-10-11 03:31:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4817**  ($259,234,293 en total)
+- Apuestas registradas: **4818**  ($259,261,366 en total)
 - Resueltas: **4783** — 2930 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 545
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 7 | 0 | 81% | $3,166,921 | +$560,925 |
-| Lakersfan111 | 41 | 23 | 1 | 64% | $3,039,973 | +$300,812 |
+| Lakersfan111 | 41 | 23 | 2 | 64% | $3,067,045 | +$300,812 |
 | maz26 | 25 | 16 | 0 | 61% | $2,678,271 | +$128 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Kch-Temp | 30 | 10 | 1 | 75% | $2,489,786 | +$1,280,240 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fortnitethegoat667 | Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.37 (73¢) | $27,072 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.41 (71¢) | $42,600 | — | ⏳ Pendiente |
 | coinlaundry | Shanghai Rolex Masters: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.16 (86¢) | $25,856 | — | ⏳ Pendiente |
 | btmx6 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $26,837 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 4.17 (24¢) | $28,362 | +$89,814 | ✅ Ganada |
 | gmpm2 | Spread: Texas (-7.5) | Oklahoma | 2.00 (50¢) | $31,500 | +$31,500 | ✅ Ganada |
 | Kch-Temp | Tulsa vs. Navy | Navy | 1.69 (59¢) | $41,062 | +$28,535 | ✅ Ganada |
-| nuttypoo | Texas vs. Oklahoma: O/U 42.5 | Under 42.5 | 1.75 (57¢) | $35,960 | -$35,960 | ❌ Perdida |
