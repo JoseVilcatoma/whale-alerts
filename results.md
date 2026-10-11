@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 06:33:22 (hora de Perú)
+Actualizado: 2026-10-11 06:35:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4830**  ($259,901,882 en total)
+- Apuestas registradas: **4832**  ($259,999,959 en total)
 - Resueltas: **4785** — 2932 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 26
 - Apostadores distintos: 548
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 186 | 3 | 65% | $33,395,163 | +$887,170 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 186 | 4 | 65% | $33,428,240 | +$887,170 |
 | Sassy-Bucket | 66 | 63 | 2 | 51% | $7,321,631 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 0 | 52% | $6,940,069 | -$482,629 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Dragon-Evolution | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-6.5) | Eagles | 2.44 (41¢) | $33,077 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Olbia: Ivan Marrero Curbelo vs Andrea Colombo | Ivan Marrero Curbelo | 1.33 (75¢) | $149,716 | — | ⏳ Pendiente |
 | Herdonia | Eagles vs. Jaguars | Jaguars | 1.30 (77¢) | $41,188 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Olbia: Leo Raquillet vs Gabi Adrian Boitan | Gabi Adrian Boitan | 1.37 (73¢) | $106,682 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | BoggsFromShawshank | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $32,148 | -$32,148 | ❌ Perdida |
 | surfandturf | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $85,000 | +$15,000 | ✅ Ganada |
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 2.13 (47¢) | $29,050 | +$32,758 | ✅ Ganada |
-| ferrariChampions2026 | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $40,611 | +$7,167 | ✅ Ganada |
-| Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $59,421 | — | ⊘ Anulada |

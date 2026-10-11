@@ -72597,5 +72597,35 @@
     "status": "pending",
     "ultimo_fill": 1791718372,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9840,
+    "timestamp": 1791718411,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-phi-jax-2026-10-11-spread-home-6pt5",
+    "title": "Spread: Jaguars (-6.5)",
+    "outcome": "Eagles",
+    "side": "BUY",
+    "usd": 33076.92629999999,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1791718411,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9841,
+    "timestamp": 1791718417,
+    "username": "Dragon-Evolution",
+    "wallet": "0x3eb31daa061a19855cbf0a4884c202fb86976a2a",
+    "slug": "cs2-vit-mouz-2026-10-11",
+    "title": "Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 65000.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1791718417,
+    "fills": 1
   }
 ]
