@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 20:13:23 (hora de Perú)
+Actualizado: 2026-10-10 20:15:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4804**  ($258,286,972 en total)
-- Resueltas: **4755** — 2913 ganadas / 1842 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **4756** — 2913 ganadas / 1843 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 544
 
 ### Balance
 
-- **Resultado de los apostadores: +$148,215** sobre $256,180,891 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,572** sobre $469,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$102,746** sobre $256,226,360 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,672** sobre $469,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 347 | 184 | 6 | 65% | $33,364,663 | +$905,249 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 347 | 185 | 5 | 65% | $33,364,663 | +$859,780 |
 | Sassy-Bucket | 66 | 63 | 2 | 51% | $7,321,631 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 88 | 80 | 2 | 52% | $6,940,069 | -$469,579 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 544 en total)_
 | 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $70,821 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Boise State (-7.5) | Boise State | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Cardinals: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $33,368 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Andre Fili vs. Kai Kamaka III (Featherweight, Main Card) | Kai Kamaka III | 2.17 (46¢) | $45,469 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Andre Fili vs. Kai Kamaka III (Featherweight, Main Card) | Kai Kamaka III | 2.17 (46¢) | $45,469 | -$45,469 | ❌ Perdida |
 | ethanaz | Minnesota vs. Purdue | Purdue | 2.00 (50¢) | $27,752 | — | ⏳ Pendiente |
 | surfandturf | UFC Fight Night: Otari Tanzilovi vs. Malcolm Wellmaker (Bantamweight, Main Card) | Malcolm Wellmaker | 1.56 (64¢) | $30,400 | -$30,400 | ❌ Perdida |
 | ethanaz | Georgia vs. Alabama | Georgia | 2.00 (50¢) | $52,674 | — | ⏳ Pendiente |
