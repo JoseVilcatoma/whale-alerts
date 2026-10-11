@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 20:07:15 (hora de Perú)
+Actualizado: 2026-10-10 20:09:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4803**  ($258,253,769 en total)
+- Apuestas registradas: **4804**  ($258,286,972 en total)
 - Resueltas: **4755** — 2913 ganadas / 1842 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 544
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 544 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1827575782 | LSU vs. Kentucky | LSU | 1.59 (63¢) | $33,203 | — | ⏳ Pendiente |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $26,394 | — | ⏳ Pendiente |
 | Pwaddler | 49ers vs. Seahawks: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $31,048 | — | ⏳ Pendiente |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $47,499 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 544 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 1.45 (69¢) | $45,815 | +$20,583 | ✅ Ganada |
 | Flaznorp | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $44,938 | +$9,204 | ✅ Ganada |
 | n0tTODAY | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $25,730 | +$5,270 | ✅ Ganada |
-| ScroooogeMcDuck | Counter-Strike: MOUZ vs Spirit - Map 2 Winner | Spirit | 1.69 (59¢) | $33,975 | +$23,610 | ✅ Ganada |
