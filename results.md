@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 21:58:25 (hora de Perú)
+Actualizado: 2026-10-10 22:00:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4805**  ($258,332,667 en total)
-- Resueltas: **4763** — 2920 ganadas / 1843 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **4764** — 2920 ganadas / 1844 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 545
 
 ### Balance
 
-- **Resultado de los apostadores: +$137,144** sobre $256,557,188 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,626** sobre $469,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$100,391** sobre $256,593,941 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,726** sobre $470,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.75 (57¢) | $72,339 | -$72,339 | ❌ Perdida |
 | mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $108,087 | -$108,087 | ❌ Perdida |
 | mooseborzoii | Texas vs. Oklahoma | Texas | 1.49 (67¢) | $56,517 | -$56,517 | ❌ Perdida |
-| Gourmet1 | Red Wings vs. Canadiens | Red Wings | 2.78 (36¢) | $36,753 | — | ⏳ Pendiente |
+| Gourmet1 | Red Wings vs. Canadiens | Red Wings | 2.78 (36¢) | $36,753 | -$36,753 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $54,853 | -$54,853 | ❌ Perdida |
 | BoggsFromShawshank | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $32,148 | -$32,148 | ❌ Perdida |
 | surfandturf | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $85,000 | +$15,000 | ✅ Ganada |
