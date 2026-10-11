@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 17:10:56 (hora de Perú)
+Actualizado: 2026-10-11 17:12:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4934**  ($266,811,936 en total)
+- Apuestas registradas: **4934**  ($266,837,686 en total)
 - Resueltas: **4884** — 2995 ganadas / 1889 perdidas (**61%** de acierto)
 - Pendientes: 29
 - Apostadores distintos: 551
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 46 | 28 | 2 | 62% | $3,460,248 | +$144,817 |
-| maz26 | 27 | 17 | 4 | 61% | $3,304,288 | +$93,673 |
+| maz26 | 27 | 17 | 4 | 61% | $3,330,038 | +$93,673 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 8 | 0 | 79% | $3,197,856 | +$529,990 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| gmpm2 | Spread: 49ers (-4.5) | Seahawks | 2.00 (50¢) | $129,960 | — | ⏳ Pendiente |
+| gmpm2 | Spread: 49ers (-4.5) | Seahawks | 2.00 (50¢) | $155,710 | — | ⏳ Pendiente |
 | ferrariChampions2026 | 49ers vs. Seahawks | Seahawks | 3.45 (29¢) | $130,000 | — | ⏳ Pendiente |
 | mooseborzoii | 49ers vs. Seahawks | 49ers | 1.41 (71¢) | $43,640 | — | ⏳ Pendiente |
 | yoyoyoyoer | 49ers vs. Seahawks | 49ers | 1.41 (71¢) | $25,122 | — | ⏳ Pendiente |
