@@ -73242,5 +73242,20 @@
     "status": "pending",
     "ultimo_fill": 1791728311,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9894,
+    "timestamp": 1791728472,
+    "username": "0xe312101A6EA5c00821B74e2855c2674147B2e0b2-1730831637679",
+    "wallet": "0xe312101a6ea5c00821b74e2855c2674147b2e0b2",
+    "slug": "nfl-chi-gb-2026-10-11",
+    "title": "Bears vs. Packers",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 49222.2236,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791728472,
+    "fills": 1
   }
 ]
