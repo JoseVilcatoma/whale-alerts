@@ -72139,5 +72139,20 @@
     "status": "pending",
     "ultimo_fill": 1791680384,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 9781,
+    "timestamp": 1791680507,
+    "username": "1827575782",
+    "wallet": "0x27989d8c715acc53e921ea0950ee97306b590b7d",
+    "slug": "cfb-lsu-uk-2026-10-10",
+    "title": "LSU vs. Kentucky",
+    "outcome": "LSU",
+    "side": "BUY",
+    "usd": 47499.110400000005,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1791680507,
+    "fills": 1
   }
 ]
