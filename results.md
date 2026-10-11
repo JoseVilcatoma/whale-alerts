@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 22:47:56 (hora de Perú)
+Actualizado: 2026-10-10 22:49:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4807**  ($258,892,431 en total)
-- Resueltas: **4776** — 2924 ganadas / 1852 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **4777** — 2925 ganadas / 1852 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 545
 
 ### Balance
 
-- **Resultado de los apostadores: -$125,788** sobre $257,133,941 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$5,158** sobre $471,200 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$98,037** sobre $257,161,692 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$5,058** sobre $471,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 78 | 39 | 0 | 67% | $4,736,705 | +$41,887 |
-| ethanaz | 45 | 19 | 1 | 70% | $3,718,198 | -$95,835 |
+| ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | BrotherObama | 39 | 41 | 2 | 49% | $3,708,447 | +$33,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Boise State (-7.5) | Boise State | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Cardinals: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $33,368 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Andre Fili vs. Kai Kamaka III (Featherweight, Main Card) | Kai Kamaka III | 2.17 (46¢) | $45,469 | -$45,469 | ❌ Perdida |
-| ethanaz | Minnesota vs. Purdue | Purdue | 2.00 (50¢) | $27,752 | — | ⏳ Pendiente |
+| ethanaz | Minnesota vs. Purdue | Purdue | 2.00 (50¢) | $27,752 | +$27,752 | ✅ Ganada |
 | surfandturf | UFC Fight Night: Otari Tanzilovi vs. Malcolm Wellmaker (Bantamweight, Main Card) | Malcolm Wellmaker | 1.56 (64¢) | $30,400 | -$30,400 | ❌ Perdida |
 | ethanaz | Georgia vs. Alabama | Georgia | 2.00 (50¢) | $52,674 | +$52,674 | ✅ Ganada |
 | mooseborzoii | Georgia vs. Alabama | Alabama | 1.67 (60¢) | $26,052 | -$26,052 | ❌ Perdida |
