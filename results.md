@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 18:59:03 (hora de Perú)
+Actualizado: 2026-10-10 19:01:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4792**  ($257,830,492 en total)
+- Apuestas registradas: **4794**  ($257,909,218 en total)
 - Resueltas: **4751** — 2911 ganadas / 1840 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 22
 - Apostadores distintos: 543
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 77 | 39 | 1 | 66% | $4,736,705 | +$34,721 |
 | BrotherObama | 39 | 40 | 3 | 49% | $3,708,447 | +$123,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| ethanaz | 44 | 19 | 0 | 70% | $3,637,773 | -$148,509 |
+| ethanaz | 44 | 19 | 1 | 70% | $3,690,447 | -$148,509 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 29 | 6 | 1 | 83% | $3,136,521 | +$576,325 |
 | Lakersfan111 | 41 | 23 | 0 | 64% | $2,997,373 | +$300,812 |
@@ -45,8 +45,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Kch-Temp | 30 | 10 | 1 | 75% | $2,489,786 | +$1,280,240 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
+| mooseborzoii | 31 | 12 | 3 | 72% | $2,306,461 | +$613,778 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| mooseborzoii | 31 | 12 | 2 | 72% | $2,280,410 | +$613,778 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Georgia vs. Alabama | Georgia | 2.00 (50¢) | $52,674 | — | ⏳ Pendiente |
+| mooseborzoii | Georgia vs. Alabama | Alabama | 1.67 (60¢) | $26,052 | — | ⏳ Pendiente |
 | 3648393489047 | Georgia vs. Alabama | Alabama | 1.79 (56¢) | $27,063 | — | ⏳ Pendiente |
 | mooseborzoii | Georgia vs. Alabama | Alabama | 1.92 (52¢) | $25,218 | — | ⏳ Pendiente |
 | ohcanada123 | Georgia vs. Alabama | Georgia | 2.17 (46¢) | $29,361 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $49,775 | +$6,152 | ✅ Ganada |
 | Nooserac | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $35,600 | +$4,400 | ✅ Ganada |
 | UpTheBlues | Will FC Barcelona vs. Getafe CF end in a draw? | No | 1.10 (91¢) | $25,742 | +$2,546 | ✅ Ganada |
-| Zzzz87 | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $42,715 | +$5,825 | ✅ Ganada |
-| ethanaz | Texas A&M vs. Missouri | Missouri | 1.52 (66¢) | $40,617 | +$20,924 | ✅ Ganada |
