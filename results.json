@@ -74009,5 +74009,20 @@
     "status": "pending",
     "ultimo_fill": 1791750512,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10014,
+    "timestamp": 1791751505,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "nfl-sf-sea-2026-10-11",
+    "title": "49ers vs. Seahawks",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1791751505,
+    "fills": 1
   }
 ]

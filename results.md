@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 15:44:23 (hora de Perú)
+Actualizado: 2026-10-11 15:46:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4924**  ($266,075,519 en total)
+- Apuestas registradas: **4925**  ($266,105,519 en total)
 - Resueltas: **4881** — 2993 ganadas / 1888 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 551
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 49ers vs. Seahawks | Seahawks | 1.79 (56¢) | $30,000 | — | ⏳ Pendiente |
 | gmpm2 | 49ers vs. Seahawks | Seahawks | 1.64 (61¢) | $29,368 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Lions (-5.5) | Cardinals | 2.00 (50¢) | $57,368 | — | ⏳ Pendiente |
 | gmpm2 | Lions vs. Cardinals | Cardinals | 3.23 (31¢) | $29,481 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $61,920 | -$61,920 | ❌ Perdida |
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $241,851 | +$80,617 | ✅ Ganada |
 | Diabolical-Prize | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.47 (68¢) | $233,495 | +$109,880 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Games Total: O/U 3.5 | Under 3.5 | 3.57 (28¢) | $28,000 | +$72,000 | ✅ Ganada |
