@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 14:50:16 (hora de Perú)
+Actualizado: 2026-10-11 14:52:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4915**  ($265,723,978 en total)
+- Apuestas registradas: **4917**  ($265,795,112 en total)
 - Resueltas: **4856** — 2976 ganadas / 1880 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 40
 - Apostadores distintos: 551
 
 ### Balance
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 30 | 10 | 4 | 75% | $2,815,566 | +$1,280,240 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| mooseborzoii | 32 | 14 | 3 | 70% | $2,408,269 | +$617,509 |
+| mooseborzoii | 32 | 14 | 4 | 70% | $2,436,069 | +$617,509 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mentionmarket | Browns vs. Jets | Jets | 3.12 (32¢) | $43,334 | — | ⏳ Pendiente |
+| mooseborzoii | Broncos vs. Chargers | Chargers | 2.70 (37¢) | $27,800 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $25,790 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will SC Internacional win on 2026-10-11? | Yes | 2.86 (35¢) | $26,882 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Broncos (-3.5) | Chargers | 1.96 (51¢) | $31,824 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | juice-fruit | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $49,389 | +$26,594 | ✅ Ganada |
 | Takon88 | Will Hamarkameratene win on 2026-10-11? | No | 1.27 (79¢) | $25,989 | -$25,989 | ❌ Perdida |
 | 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.85 (54¢) | $140,386 | +$119,588 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Jaguars | Jaguars | 1.47 (68¢) | $42,130 | +$19,826 | ✅ Ganada |
-| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.39 (72¢) | $37,511 | — | ⏳ Pendiente |
