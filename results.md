@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 16:42:03 (hora de Perú)
+Actualizado: 2026-10-11 16:44:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4927**  ($266,165,407 en total)
-- Resueltas: **4883** — 2994 ganadas / 1889 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Apuestas registradas: **4929**  ($266,354,667 en total)
+- Resueltas: **4884** — 2995 ganadas / 1889 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: +$609,984** sobre $264,333,143 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,294** sobre $481,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$712,600** sobre $264,444,311 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,202** sobre $481,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 8 | 0 | 79% | $3,197,856 | +$529,990 |
 | maz26 | 27 | 17 | 3 | 61% | $3,174,328 | +$93,673 |
-| Kch-Temp | 32 | 10 | 2 | 76% | $2,815,566 | +$1,466,189 |
+| Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | mooseborzoii | 33 | 15 | 3 | 69% | $2,493,437 | +$596,879 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 28 | 2 | 0 | 93% | $1,700,416 | +$89,015 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
+| 1827575782 | 11 | 0 | 1 | 100% | $1,546,660 | +$181,266 |
 | cosmicxbt | 15 | 4 | 0 | 79% | $1,501,518 | +$34,467 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
-| jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 
 _(mostrando los 40 de mayor monto, de 551 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Hashbrown | Lions vs. Cardinals | Lions | 1.10 (91¢) | $35,490 | — | ⏳ Pendiente |
+| 1827575782 | Lions vs. Cardinals | Lions | 1.11 (90¢) | $153,770 | — | ⏳ Pendiente |
 | KaneAnalytics | Lions vs. Cardinals | Lions | 1.41 (71¢) | $25,487 | — | ⏳ Pendiente |
 | NS13 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $34,402 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 49ers vs. Seahawks | Seahawks | 1.79 (56¢) | $30,000 | — | ⏳ Pendiente |
@@ -111,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | NS13 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.35 (74¢) | $26,306 | +$9,243 | ✅ Ganada |
 | p1252 | Will Manchester City FC win on 2026-10-11? | No | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | 1827575782 | Will Liverpool FC win on 2026-10-11? | No | 1.35 (74¢) | $81,400 | +$28,600 | ✅ Ganada |
-| Kch-Temp | Spread: Commanders (-3.5) | Giants | 1.92 (52¢) | $111,167 | — | ⏳ Pendiente |
+| Kch-Temp | Spread: Commanders (-3.5) | Giants | 1.92 (52¢) | $111,167 | +$102,616 | ✅ Ganada |
 | nb1985 | Will Manchester City FC win on 2026-10-11? | Yes | 2.08 (48¢) | $150,000 | +$162,500 | ✅ Ganada |
 | wan123 | Spread: Patriots (-3.5) | Patriots | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | wan123 | Bengals vs. Dolphins | Dolphins | 4.00 (25¢) | $25,000 | -$25,000 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | eth10001 | Will Real Sociedad de Fútbol vs. RC Deportivo A Coruña end in a draw? | No | 1.33 (75¢) | $48,000 | +$16,000 | ✅ Ganada |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $62,766 | -$62,766 | ❌ Perdida |
 | para-Vision | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.54 (65¢) | $26,000 | -$26,000 | ❌ Perdida |
-| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.45 (69¢) | $34,274 | +$15,399 | ✅ Ganada |
-| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $61,920 | -$61,920 | ❌ Perdida |
