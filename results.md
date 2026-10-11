@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 22:25:25 (hora de Perú)
+Actualizado: 2026-10-10 22:27:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4806**  ($258,634,246 en total)
+- Apuestas registradas: **4806**  ($258,799,989 en total)
 - Resueltas: **4768** — 2922 ganadas / 1846 perdidas (**61%** de acierto)
 - Pendientes: 17
 - Apostadores distintos: 545
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 1827575782 | Boise State vs. Fresno State | Boise State | 1.12 (89¢) | $301,579 | — | ⏳ Pendiente |
+| 1827575782 | Boise State vs. Fresno State | Boise State | 1.12 (89¢) | $467,322 | — | ⏳ Pendiente |
 | gangmusic | UFC Fight Night: Brendan Allen vs. Christian Leroy Duncan (Middleweight, Main Card) | Brendan Allen | 1.96 (51¢) | $45,695 | — | ⏳ Pendiente |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.59 (63¢) | $33,203 | +$1,779 | 💰 Vendida antes |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $26,394 | +$1,414 | 💰 Vendida antes |
