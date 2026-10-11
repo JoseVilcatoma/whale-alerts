@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 15:25:32 (hora de Perú)
+Actualizado: 2026-10-11 15:27:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4922**  ($266,016,669 en total)
-- Resueltas: **4865** — 2983 ganadas / 1882 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **4870** — 2987 ganadas / 1883 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: +$436,556** sobre $263,349,600 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,359** sobre $480,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$501,290** sobre $263,775,599 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,287** sobre $480,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 1 | 52% | $6,989,069 | -$482,629 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Diabolical-Prize | 59 | 58 | 1 | 50% | $6,230,697 | -$379,592 |
+| Diabolical-Prize | 60 | 58 | 0 | 51% | $6,230,697 | -$269,712 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 39 | 42 | 2 | 48% | $3,753,097 | -$11,378 |
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Lakersfan111 | 43 | 28 | 5 | 61% | $3,460,248 | +$101,611 |
+| Lakersfan111 | 46 | 28 | 2 | 62% | $3,460,248 | +$144,817 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 8 | 0 | 79% | $3,197,856 | +$529,990 |
 | maz26 | 27 | 17 | 1 | 61% | $3,115,479 | +$93,673 |
@@ -124,10 +124,10 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | eth10001 | Will Real Sociedad de Fútbol vs. RC Deportivo A Coruña end in a draw? | No | 1.33 (75¢) | $48,000 | +$16,000 | ✅ Ganada |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $62,766 | -$62,766 | ❌ Perdida |
 | para-Vision | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.54 (65¢) | $26,000 | -$26,000 | ❌ Perdida |
-| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.45 (69¢) | $34,274 | — | ⏳ Pendiente |
+| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.45 (69¢) | $34,274 | +$15,399 | ✅ Ganada |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $61,920 | -$61,920 | ❌ Perdida |
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $241,851 | +$80,617 | ✅ Ganada |
-| Diabolical-Prize | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.47 (68¢) | $233,495 | — | ⏳ Pendiente |
+| Diabolical-Prize | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.47 (68¢) | $233,495 | +$109,880 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Games Total: O/U 3.5 | Under 3.5 | 3.57 (28¢) | $28,000 | +$72,000 | ✅ Ganada |
 | nb1985 | Will Real Sociedad de Fútbol win on 2026-10-11? | No | 2.17 (46¢) | $29,474 | -$29,474 | ❌ Perdida |
 | 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.82 (55¢) | $57,981 | +$47,439 | ✅ Ganada |
