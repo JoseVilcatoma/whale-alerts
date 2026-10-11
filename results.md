@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 21:29:52 (hora de Perú)
+Actualizado: 2026-10-10 21:31:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4805**  ($258,332,667 en total)
-- Resueltas: **4758** — 2915 ganadas / 1843 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **4759** — 2916 ganadas / 1843 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 545
 
 ### Balance
 
-- **Resultado de los apostadores: +$124,912** sobre $256,351,971 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,636** sobre $469,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$127,612** sobre $256,379,271 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,626** sobre $469,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | Talvez10 | 19 | 17 | 1 | 53% | $1,741,461 | +$234,029 |
 | SDTrading | 29 | 29 | 0 | 50% | $1,728,324 | -$135,793 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 27 | 2 | 1 | 93% | $1,700,416 | +$86,315 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 28 | 2 | 0 | 93% | $1,700,416 | +$89,015 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Jsram | 19 | 17 | 0 | 53% | $1,629,226 | -$166,000 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 | ohcanada123 | Georgia vs. Alabama | Georgia | 2.17 (46¢) | $29,361 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Georgia vs. Alabama: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $37,806 | — | ⏳ Pendiente |
 | BoggsFromShawshank | Georgia vs. Alabama | Alabama | 1.85 (54¢) | $35,640 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Inter Miami CF vs. D.C. United SC: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Inter Miami CF vs. D.C. United SC: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
 | Talvez10 | Spread: Alabama (-2.5) | Alabama | 1.96 (51¢) | $78,293 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Ismael Bonfim | 2.44 (41¢) | $93,336 | -$93,336 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims) | Francisco Prado | 1.69 (59¢) | $118,000 | +$82,000 | ✅ Ganada |
