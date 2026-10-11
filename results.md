@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 01:29:43 (hora de Perú)
+Actualizado: 2026-10-11 01:31:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4814**  ($259,139,000 en total)
+- Apuestas registradas: **4815**  ($259,165,837 en total)
 - Resueltas: **4778** — 2926 ganadas / 1852 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 545
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| btmx6 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $26,837 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wuhan Tennis Open, Qualification: Camila Osorio vs Katie Volynets | Katie Volynets | 1.69 (59¢) | $30,500 | — | ⏳ Pendiente |
 | btmx6 | Will 1. FC Köln win on 2026-10-11? | No | 1.92 (52¢) | $30,519 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Eagles vs. Jaguars | Jaguars | 1.30 (77¢) | $37,191 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 | nuttypoo | Texas vs. Oklahoma: O/U 42.5 | Under 42.5 | 1.75 (57¢) | $35,960 | -$35,960 | ❌ Perdida |
 | ethanaz | Indiana vs. Nebraska | Indiana | 1.37 (73¢) | $60,667 | +$22,438 | ✅ Ganada |
 | Donkey14 | Spread: Texas (-7.5) | Texas | 2.00 (50¢) | $31,200 | -$31,200 | ❌ Perdida |
-| nigiri99 | Virginia Tech vs. California | Virginia Tech | 1.30 (77¢) | $40,094 | -$40,094 | ❌ Perdida |
