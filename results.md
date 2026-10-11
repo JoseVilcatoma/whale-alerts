@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 17:00:29 (hora de Perú)
+Actualizado: 2026-10-11 17:02:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4930**  ($266,483,214 en total)
+- Apuestas registradas: **4931**  ($266,508,336 en total)
 - Resueltas: **4884** — 2995 ganadas / 1889 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 551
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yoyoyoyoer | 49ers vs. Seahawks | 49ers | 1.41 (71¢) | $25,122 | — | ⏳ Pendiente |
 | 1827575782 | Lions vs. Cardinals | Lions | 1.08 (93¢) | $128,547 | — | ⏳ Pendiente |
 | Hashbrown | Lions vs. Cardinals | Lions | 1.10 (91¢) | $35,490 | — | ⏳ Pendiente |
 | 1827575782 | Lions vs. Cardinals | Lions | 1.11 (90¢) | $153,770 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 0xe312101A6EA5c00821B74e2855c2674147B2e0b2-1730831637679 | Bears vs. Packers | Bears | 1.89 (53¢) | $49,222 | -$49,222 | ❌ Perdida |
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $132,346 | +$44,115 | ✅ Ganada |
 | eth10001 | Will Real Sociedad de Fútbol vs. RC Deportivo A Coruña end in a draw? | No | 1.33 (75¢) | $48,000 | +$16,000 | ✅ Ganada |
-| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $62,766 | -$62,766 | ❌ Perdida |
