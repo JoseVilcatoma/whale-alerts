@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 10:14:38 (hora de Perú)
+Actualizado: 2026-10-11 10:16:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4886**  ($264,160,240 en total)
+- Apuestas registradas: **4887**  ($264,271,407 en total)
 - Resueltas: **4797** — 2936 ganadas / 1861 perdidas (**61%** de acierto)
-- Pendientes: 68
+- Pendientes: 69
 - Apostadores distintos: 551
 
 ### Balance
@@ -42,8 +42,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 7 | 1 | 81% | $3,197,856 | +$560,925 |
 | maz26 | 25 | 16 | 3 | 61% | $3,083,655 | +$128 |
+| Kch-Temp | 30 | 10 | 3 | 75% | $2,668,864 | +$1,280,240 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Kch-Temp | 30 | 10 | 2 | 75% | $2,557,696 | +$1,280,240 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | mooseborzoii | 31 | 14 | 2 | 69% | $2,351,461 | +$562,509 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Spread: Commanders (-3.5) | Giants | 1.92 (52¢) | $111,167 | — | ⏳ Pendiente |
 | nb1985 | Will Manchester City FC win on 2026-10-11? | Yes | 2.08 (48¢) | $150,000 | — | ⏳ Pendiente |
 | wan123 | Spread: Patriots (-3.5) | Patriots | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | wan123 | Bengals vs. Dolphins | Dolphins | 4.00 (25¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | kdvlklkvlsklkfs | Olbia: Ivan Marrero Curbelo vs Andrea Colombo | Ivan Marrero Curbelo | 1.33 (75¢) | $149,716 | +$49,905 | ✅ Ganada |
 | Herdonia | Eagles vs. Jaguars | Jaguars | 1.30 (77¢) | $41,188 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Olbia: Leo Raquillet vs Gabi Adrian Boitan | Gabi Adrian Boitan | 1.37 (73¢) | $106,682 | -$106,682 | ❌ Perdida |
-| meoooow | Will Elche CF vs. RC Celta de Vigo end in a draw? | No | 1.41 (71¢) | $30,078 | -$30,078 | ❌ Perdida |
