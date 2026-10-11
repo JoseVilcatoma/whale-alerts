@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 15:17:15 (hora de Perú)
+Actualizado: 2026-10-11 15:19:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4920**  ($265,902,883 en total)
+- Apuestas registradas: **4921**  ($265,959,301 en total)
 - Resueltas: **4865** — 2983 ganadas / 1882 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 551
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 355 | 188 | 4 | 65% | $33,780,041 | +$1,021,515 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 355 | 188 | 5 | 65% | $33,836,459 | +$1,021,515 |
 | Sassy-Bucket | 67 | 64 | 3 | 51% | $7,635,482 | -$544,344 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 1 | 52% | $6,989,069 | -$482,629 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-3.5) | 49ers | 1.79 (56¢) | $56,418 | — | ⏳ Pendiente |
 | ndb1 | 49ers vs. Seahawks | Seahawks | 1.69 (59¢) | $38,829 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Jets | Browns | 11.11 (9¢) | $26,578 | — | ⏳ Pendiente |
 | 1827575782 | Browns vs. Jets | Jets | 1.09 (92¢) | $42,364 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | nb1985 | Will Real Sociedad de Fútbol win on 2026-10-11? | No | 2.17 (46¢) | $29,474 | -$29,474 | ❌ Perdida |
 | 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.82 (55¢) | $57,981 | +$47,439 | ✅ Ganada |
 | 1827575782 | Eagles vs. Jaguars | Jaguars | 1.20 (83¢) | $197,662 | +$40,485 | ✅ Ganada |
-| BillyGating | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Spirit | 3.23 (31¢) | $88,352 | — | ⏳ Pendiente |

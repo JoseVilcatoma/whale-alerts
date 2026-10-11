@@ -73949,5 +73949,20 @@
     "status": "pending",
     "ultimo_fill": 1791749598,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9994,
+    "timestamp": 1791749934,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-sf-sea-2026-10-11-spread-home-3pt5",
+    "title": "Spread: Seahawks (-3.5)",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 56417.872,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1791749934,
+    "fills": 1
   }
 ]
