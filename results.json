@@ -73192,10 +73192,40 @@
     "title": "Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "usd": 31565.226,
+    "usd": 62765.947199999995,
     "odds_at_bet": 66,
     "status": "pending",
-    "ultimo_fill": 1791728145,
+    "ultimo_fill": 1791728203,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 9891,
+    "timestamp": 1791728110,
+    "username": "para-Vision",
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "slug": "dota2-ty-ts8-2026-10-11-game1",
+    "title": "Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 26000.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1791728110,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9892,
+    "timestamp": 1791728177,
+    "username": "eth10001",
+    "wallet": "0x37e053beabee77acc15e641dfe8e395b2b2d024e",
+    "slug": "lal-rso-dep-2026-10-11-draw",
+    "title": "Will Real Sociedad de F\u00fatbol vs. RC Deportivo A Coru\u00f1a end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 48000.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1791728177,
     "fills": 1
   }
 ]

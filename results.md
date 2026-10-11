@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 09:16:02 (hora de Perú)
+Actualizado: 2026-10-11 09:18:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4870**  ($262,981,913 en total)
+- Apuestas registradas: **4872**  ($263,087,113 en total)
 - Resueltas: **4796** — 2935 ganadas / 1861 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 55
 - Apostadores distintos: 549
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | BrotherObama | 39 | 41 | 2 | 49% | $3,708,447 | +$33,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Lakersfan111 | 42 | 26 | 7 | 62% | $3,403,258 | +$210,636 |
+| Lakersfan111 | 42 | 26 | 7 | 62% | $3,434,459 | +$210,636 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 7 | 1 | 81% | $3,197,856 | +$560,925 |
 | maz26 | 25 | 16 | 2 | 61% | $2,951,309 | +$128 |
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $31,565 | — | ⏳ Pendiente |
+| eth10001 | Will Real Sociedad de Fútbol vs. RC Deportivo A Coruña end in a draw? | No | 1.33 (75¢) | $48,000 | — | ⏳ Pendiente |
+| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $62,766 | — | ⏳ Pendiente |
+| para-Vision | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.45 (69¢) | $34,274 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $61,920 | — | ⏳ Pendiente |
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $241,851 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 | btmx6 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $26,837 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wuhan Tennis Open, Qualification: Camila Osorio vs Katie Volynets | Katie Volynets | 1.69 (59¢) | $30,500 | +$21,195 | ✅ Ganada |
 | btmx6 | Will 1. FC Köln win on 2026-10-11? | No | 1.92 (52¢) | $30,519 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Eagles vs. Jaguars | Jaguars | 1.30 (77¢) | $37,191 | — | ⏳ Pendiente |
-| gransaaa | Will Everton FC win on 2026-10-11? | Yes | 2.13 (47¢) | $35,327 | — | ⏳ Pendiente |
