@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 22:39:44 (hora de Perú)
+Actualizado: 2026-10-10 22:41:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4806**  ($258,799,989 en total)
+- Apuestas registradas: **4807**  ($258,892,431 en total)
 - Resueltas: **4776** — 2924 ganadas / 1852 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 545
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1827575782 | Boise State vs. Fresno State | Boise State | 1.15 (87¢) | $92,442 | — | ⏳ Pendiente |
 | 1827575782 | Boise State vs. Fresno State | Boise State | 1.12 (89¢) | $467,322 | — | ⏳ Pendiente |
 | gangmusic | UFC Fight Night: Brendan Allen vs. Christian Leroy Duncan (Middleweight, Main Card) | Brendan Allen | 1.96 (51¢) | $45,695 | — | ⏳ Pendiente |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.59 (63¢) | $33,203 | +$1,779 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 | ethanaz | Indiana vs. Nebraska | Indiana | 1.32 (76¢) | $29,527 | +$9,324 | ✅ Ganada |
 | BrotherObama | Chicago White Sox vs. Cleveland Guardians | Chicago White Sox | 2.27 (44¢) | $90,000 | -$90,000 | ❌ Perdida |
 | Kch-Temp | Ole Miss vs. Vanderbilt | Ole Miss | 1.32 (76¢) | $164,191 | +$51,850 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 1.45 (69¢) | $45,815 | +$20,583 | ✅ Ganada |
