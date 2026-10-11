@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 11:19:52 (hora de Perú)
+Actualizado: 2026-10-11 11:21:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4897**  ($264,717,865 en total)
+- Apuestas registradas: **4898**  ($264,789,003 en total)
 - Resueltas: **4814** — 2942 ganadas / 1872 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Pendientes: 63
 - Apostadores distintos: 551
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Will Manchester City FC win on 2026-10-11? | Yes | 2.44 (41¢) | $71,138 | — | ⏳ Pendiente |
 | SDTrading | Browns vs. Jets | Jets | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
 | SDTrading | Spread: Steelers (-3.5) | Colts | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
 | tiger105 | Will SC Freiburg win on 2026-10-11? | Yes | 1.25 (80¢) | $26,236 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | Kch-Temp | Bears vs. Packers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $67,911 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 2.78 (36¢) | $36,000 | -$36,000 | ❌ Perdida |
 | 1827575782 | Will Lewis Hamilton win the 2026 F1 Singapore Grand Prix? | No | 1.09 (92¢) | $194,282 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima | Brandon Nakashima | 2.13 (47¢) | $49,319 | -$49,319 | ❌ Perdida |
