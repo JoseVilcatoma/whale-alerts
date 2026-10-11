@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 14:58:39 (hora de Perú)
+Actualizado: 2026-10-11 15:00:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4917**  ($265,795,112 en total)
+- Apuestas registradas: **4918**  ($265,837,477 en total)
 - Resueltas: **4856** — 2976 ganadas / 1880 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 551
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1827575782 | Browns vs. Jets | Jets | 1.09 (92¢) | $42,364 | — | ⏳ Pendiente |
 | mentionmarket | Browns vs. Jets | Jets | 3.12 (32¢) | $43,334 | — | ⏳ Pendiente |
 | mooseborzoii | Broncos vs. Chargers | Chargers | 2.70 (37¢) | $27,800 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $25,790 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | BillyGating | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Spirit | 3.23 (31¢) | $88,352 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $49,389 | +$26,594 | ✅ Ganada |
 | Takon88 | Will Hamarkameratene win on 2026-10-11? | No | 1.27 (79¢) | $25,989 | -$25,989 | ❌ Perdida |
-| 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.85 (54¢) | $140,386 | +$119,588 | ✅ Ganada |
