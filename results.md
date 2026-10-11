@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 06:23:09 (hora de Perú)
+Actualizado: 2026-10-11 06:25:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4826**  ($259,574,217 en total)
+- Apuestas registradas: **4827**  ($259,604,296 en total)
 - Resueltas: **4785** — 2932 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 548
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| meoooow | Will Elche CF vs. RC Celta de Vigo end in a draw? | No | 1.41 (71¢) | $30,078 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.45 (69¢) | $47,077 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.47 (68¢) | $43,199 | — | ⏳ Pendiente |
 | Kkunn | China Open: Qinwen Zheng vs Mirra Andreeva | Qinwen Zheng | 2.50 (40¢) | $29,976 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.22 (82¢) | $25,002 | -$25,002 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Melissa Gatto | 1.85 (54¢) | $51,605 | — | ⊘ Anulada |
 | mooseborzoii | UFC Fight Night: Melissa Gatto vs. Ernesta Kareckaite (Women's Flyweight, Prelims) | Ernesta Kareckaite | 2.17 (46¢) | $31,016 | — | ⊘ Anulada |
-| MinevaJ | Will Real Madrid CF win on 2026-10-10? | Yes | 1.14 (88¢) | $30,423 | +$4,149 | ✅ Ganada |

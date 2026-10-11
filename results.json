@@ -72537,5 +72537,20 @@
     "status": "pending",
     "ultimo_fill": 1791717700,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9836,
+    "timestamp": 1791717832,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "lal-elc-cel-2026-10-11-draw",
+    "title": "Will Elche CF vs. RC Celta de Vigo end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 30078.44,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1791717832,
+    "fills": 1
   }
 ]
