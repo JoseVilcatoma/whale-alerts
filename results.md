@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 10:18:53 (hora de Perú)
+Actualizado: 2026-10-11 10:21:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4887**  ($264,271,407 en total)
-- Resueltas: **4798** — 2937 ganadas / 1861 perdidas (**61%** de acierto)
-- Pendientes: 68
+- Resueltas: **4800** — 2938 ganadas / 1862 perdidas (**61%** de acierto)
+- Pendientes: 66
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: -$127,995** sobre $258,633,521 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$5,212** sobre $473,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$130,979** sobre $258,686,499 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,223** sobre $473,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -116,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | ripley86alien | Will Bologna FC 1909 win on 2026-10-11? | No | 1.82 (55¢) | $66,000 | — | ⏳ Pendiente |
 | nb1985 | Will OGC Nice win on 2026-10-11? | Yes | 2.17 (46¢) | $32,809 | +$38,514 | ✅ Ganada |
 | UpTheBlues | Will Hull City AFC win on 2026-10-11? | No | 1.30 (77¢) | $25,288 | — | ⏳ Pendiente |
-| UpTheBlues | Will Hull City AFC vs. Everton FC end in a draw? | No | 1.41 (71¢) | $26,482 | — | ⏳ Pendiente |
+| UpTheBlues | Will Hull City AFC vs. Everton FC end in a draw? | No | 1.41 (71¢) | $26,482 | -$26,482 | ❌ Perdida |
 | Kch-Temp | Bears vs. Packers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $67,911 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 2.78 (36¢) | $36,000 | -$36,000 | ❌ Perdida |
 | 1827575782 | Will Lewis Hamilton win the 2026 F1 Singapore Grand Prix? | No | 1.09 (92¢) | $194,282 | — | ⏳ Pendiente |
