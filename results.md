@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 10:06:10 (hora de Perú)
+Actualizado: 2026-10-11 10:08:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4883**  ($263,960,240 en total)
+- Apuestas registradas: **4885**  ($264,010,240 en total)
 - Resueltas: **4797** — 2936 ganadas / 1861 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Pendientes: 67
 - Apostadores distintos: 551
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wan123 | Spread: Patriots (-3.5) | Patriots | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| wan123 | Bengals vs. Dolphins | Dolphins | 4.00 (25¢) | $25,000 | — | ⏳ Pendiente |
 | cosmicxbt | Eagles vs. Jaguars | Jaguars | 1.85 (54¢) | $80,690 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.52 (66¢) | $49,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Jaguars | Eagles | 2.50 (40¢) | $76,555 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | kdvlklkvlsklkfs | Olbia: Leo Raquillet vs Gabi Adrian Boitan | Gabi Adrian Boitan | 1.37 (73¢) | $106,682 | -$106,682 | ❌ Perdida |
 | meoooow | Will Elche CF vs. RC Celta de Vigo end in a draw? | No | 1.41 (71¢) | $30,078 | -$30,078 | ❌ Perdida |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.45 (69¢) | $47,077 | -$47,077 | ❌ Perdida |
-| fortnitethegoat667 | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.47 (68¢) | $43,199 | -$43,199 | ❌ Perdida |
-| Kkunn | China Open: Qinwen Zheng vs Mirra Andreeva | Qinwen Zheng | 2.50 (40¢) | $29,976 | +$44,964 | ✅ Ganada |
