@@ -74279,5 +74279,20 @@
     "status": "pending",
     "ultimo_fill": 1791761864,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10049,
+    "timestamp": 1791762751,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "mls-stl-lag-2026-10-11-total-4pt5",
+    "title": "St. Louis City SC vs. Los Angeles Galaxy: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 35940.7321,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1791762751,
+    "fills": 1
   }
 ]

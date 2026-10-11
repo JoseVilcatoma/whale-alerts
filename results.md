@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 18:50:30 (hora de Perú)
+Actualizado: 2026-10-11 18:52:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4942**  ($267,167,199 en total)
+- Apuestas registradas: **4943**  ($267,203,140 en total)
 - Resueltas: **4897** — 3002 ganadas / 1895 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 551
 
 ### Balance
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 30 | 30 | 0 | 50% | $1,787,724 | -$135,193 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | Talvez10 | 19 | 18 | 0 | 51% | $1,741,461 | +$155,737 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 28 | 2 | 0 | 93% | $1,700,416 | +$89,015 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 28 | 2 | 1 | 93% | $1,736,357 | +$89,015 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 1827575782 | 13 | 0 | 0 | 100% | $1,675,207 | +$208,027 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Roadto1mlesgooo | St. Louis City SC vs. Los Angeles Galaxy: O/U 4.5 | Over 4.5 | 1.10 (91¢) | $35,941 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Seahawks | 49ers | 1.32 (76¢) | $55,181 | — | ⏳ Pendiente |
 | mooseborzoii | 49ers vs. Seahawks | 49ers | 1.67 (60¢) | $35,714 | — | ⏳ Pendiente |
 | 3648393489047 | 49ers vs. Seahawks | Seahawks | 1.39 (72¢) | $50,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | nb1985 | Will Manchester City FC win on 2026-10-11? | Yes | 2.08 (48¢) | $150,000 | +$162,500 | ✅ Ganada |
 | wan123 | Spread: Patriots (-3.5) | Patriots | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | wan123 | Bengals vs. Dolphins | Dolphins | 4.00 (25¢) | $25,000 | -$25,000 | ❌ Perdida |
-| cosmicxbt | Eagles vs. Jaguars | Jaguars | 1.85 (54¢) | $80,690 | +$1,494 | 💰 Vendida antes |
