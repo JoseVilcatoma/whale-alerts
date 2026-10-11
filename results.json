@@ -72432,5 +72432,20 @@
     "status": "pending",
     "ultimo_fill": 1791708224,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9826,
+    "timestamp": 1791709171,
+    "username": "fortnitethegoat667",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "val-100t1-nrg-2026-10-11",
+    "title": "Valorant: 100 Thieves vs NRG (BO3) - VCT Champions Playoffs",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 31340.839399999997,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1791709171,
+    "fills": 1
   }
 ]
