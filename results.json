@@ -73137,5 +73137,35 @@
     "status": "pending",
     "ultimo_fill": 1791727648,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9886,
+    "timestamp": 1791727527,
+    "username": "nb1985",
+    "wallet": "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7",
+    "slug": "lal-rso-dep-2026-10-11-rso",
+    "title": "Will Real Sociedad de F\u00fatbol win on 2026-10-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 29474.01000018,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1791727527,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9887,
+    "timestamp": 1791727907,
+    "username": "fortnitethegoat667",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-ty-ts8-2026-10-11-game1",
+    "title": "Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 61919.8536,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1791727908,
+    "fills": 2
   }
 ]

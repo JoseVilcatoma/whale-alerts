@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 09:09:49 (hora de Perú)
+Actualizado: 2026-10-11 09:11:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4866**  ($262,824,679 en total)
+- Apuestas registradas: **4868**  ($262,916,073 en total)
 - Resueltas: **4795** — 2935 ganadas / 1860 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 52
 - Apostadores distintos: 549
 
 ### Balance
@@ -38,8 +38,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | BrotherObama | 39 | 41 | 2 | 49% | $3,708,447 | +$33,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
+| Lakersfan111 | 42 | 26 | 5 | 62% | $3,337,418 | +$210,636 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Lakersfan111 | 42 | 26 | 4 | 62% | $3,275,498 | +$210,636 |
 | surfandturf | 30 | 7 | 1 | 81% | $3,197,856 | +$560,925 |
 | maz26 | 25 | 16 | 2 | 61% | $2,951,309 | +$128 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,9 +71,11 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $61,920 | — | ⏳ Pendiente |
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $241,851 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.47 (68¢) | $233,495 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Games Total: O/U 3.5 | Under 3.5 | 3.57 (28¢) | $28,000 | — | ⏳ Pendiente |
+| nb1985 | Will Real Sociedad de Fútbol win on 2026-10-11? | No | 2.17 (46¢) | $29,474 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.82 (55¢) | $57,981 | — | ⏳ Pendiente |
 | 1827575782 | Eagles vs. Jaguars | Jaguars | 1.20 (83¢) | $197,662 | — | ⏳ Pendiente |
 | BillyGating | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Spirit | 3.23 (31¢) | $88,352 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 | gransaaa | Will Everton FC win on 2026-10-11? | Yes | 2.13 (47¢) | $35,327 | — | ⏳ Pendiente |
 | veliMax | Boise State vs. Fresno State | Boise State | 1.20 (83¢) | $52,970 | +$10,849 | ✅ Ganada |
 | gransaaa | SS Lazio vs. AC Monza: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $26,496 | — | ⏳ Pendiente |
-| gransaaa | Will Everton FC win on 2026-10-11? | Yes | 2.13 (47¢) | $33,566 | — | ⏳ Pendiente |
-| 1827575782 | Boise State vs. Fresno State | Boise State | 1.15 (87¢) | $92,442 | +$13,813 | ✅ Ganada |
