@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 17:06:49 (hora de Perú)
+Actualizado: 2026-10-11 17:08:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4931**  ($266,508,336 en total)
+- Apuestas registradas: **4932**  ($266,551,976 en total)
 - Resueltas: **4884** — 2995 ganadas / 1889 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 551
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 27 | 17 | 3 | 61% | $3,174,328 | +$93,673 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| mooseborzoii | 33 | 15 | 3 | 69% | $2,493,437 | +$596,879 |
+| mooseborzoii | 33 | 15 | 4 | 69% | $2,537,077 | +$596,879 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | 49ers vs. Seahawks | 49ers | 1.41 (71¢) | $43,640 | — | ⏳ Pendiente |
 | yoyoyoyoer | 49ers vs. Seahawks | 49ers | 1.41 (71¢) | $25,122 | — | ⏳ Pendiente |
 | 1827575782 | Lions vs. Cardinals | Lions | 1.08 (93¢) | $128,547 | — | ⏳ Pendiente |
 | Hashbrown | Lions vs. Cardinals | Lions | 1.10 (91¢) | $35,490 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 3edmond.dantes | Will Stade Rennais FC 1901 win on 2026-10-11? | Yes | 1.49 (67¢) | $121,493 | +$59,840 | ✅ Ganada |
 | 0xe312101A6EA5c00821B74e2855c2674147B2e0b2-1730831637679 | Bears vs. Packers | Bears | 1.89 (53¢) | $49,222 | -$49,222 | ❌ Perdida |
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $132,346 | +$44,115 | ✅ Ganada |
-| eth10001 | Will Real Sociedad de Fútbol vs. RC Deportivo A Coruña end in a draw? | No | 1.33 (75¢) | $48,000 | +$16,000 | ✅ Ganada |
