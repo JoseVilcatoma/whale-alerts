@@ -73647,5 +73647,20 @@
     "status": "pending",
     "ultimo_fill": 1791736433,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9943,
+    "timestamp": 1791737059,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-lv-ne-2026-10-11",
+    "title": "Raiders vs. Patriots",
+    "outcome": "Patriots",
+    "side": "BUY",
+    "usd": 126000.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1791737059,
+    "fills": 1
   }
 ]
