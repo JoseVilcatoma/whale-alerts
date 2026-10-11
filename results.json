@@ -72462,5 +72462,20 @@
     "status": "pending",
     "ultimo_fill": 1791709643,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 9828,
+    "timestamp": 1791709836,
+    "username": "fortnitethegoat667",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "val-g21-t1-2026-10-11",
+    "title": "Valorant: G2 Esports vs T1 (BO3) - VCT Champions Playoffs",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 25551.030799999997,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1791709836,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 04:09:09 (hora de Perú)
+Actualizado: 2026-10-11 04:11:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4821**  ($259,400,814 en total)
+- Apuestas registradas: **4822**  ($259,426,365 en total)
 - Resueltas: **4783** — 2930 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 547
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 7 | 0 | 81% | $3,166,921 | +$560,925 |
-| Lakersfan111 | 41 | 23 | 3 | 64% | $3,098,386 | +$300,812 |
+| Lakersfan111 | 41 | 23 | 4 | 64% | $3,123,937 | +$300,812 |
 | maz26 | 25 | 16 | 0 | 61% | $2,678,271 | +$128 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Kch-Temp | 30 | 10 | 1 | 75% | $2,489,786 | +$1,280,240 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 547 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fortnitethegoat667 | Valorant: G2 Esports vs T1 (BO3) - VCT Champions Playoffs | G2 Esports | 1.61 (62¢) | $25,551 | — | ⏳ Pendiente |
 | lsiflsliggjriek | Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik | Jakub Mensik | 1.82 (55¢) | $73,823 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Valorant: 100 Thieves vs NRG (BO3) - VCT Champions Playoffs | 100 Thieves | 1.72 (58¢) | $31,341 | — | ⏳ Pendiente |
 | Thesisters2 | Cagliari Calcio vs. Juventus FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $34,284 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 547 en total)_
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.15 (87¢) | $26,099 | -$26,099 | ❌ Perdida |
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.28 (78¢) | $83,158 | -$83,158 | ❌ Perdida |
 | 177-letsgo | Ole Miss vs. Vanderbilt | Ole Miss | 1.18 (85¢) | $36,944 | +$6,519 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.25 (80¢) | $29,912 | -$29,912 | ❌ Perdida |
