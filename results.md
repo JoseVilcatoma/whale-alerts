@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 19:23:21 (hora de Perú)
+Actualizado: 2026-10-10 19:25:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4795**  ($257,939,618 en total)
+- Apuestas registradas: **4796**  ($257,967,369 en total)
 - Resueltas: **4754** — 2913 ganadas / 1841 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 543
 
 ### Balance
@@ -35,9 +35,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 77 | 39 | 1 | 66% | $4,736,705 | +$34,721 |
+| ethanaz | 44 | 19 | 2 | 70% | $3,718,198 | -$148,509 |
 | BrotherObama | 39 | 40 | 3 | 49% | $3,708,447 | +$123,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| ethanaz | 44 | 19 | 1 | 70% | $3,690,447 | -$148,509 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 29 | 6 | 2 | 83% | $3,166,921 | +$576,325 |
 | Lakersfan111 | 41 | 23 | 0 | 64% | $2,997,373 | +$300,812 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Minnesota vs. Purdue | Purdue | 2.00 (50¢) | $27,752 | — | ⏳ Pendiente |
 | surfandturf | UFC Fight Night: Otari Tanzilovi vs. Malcolm Wellmaker (Bantamweight, Main Card) | Malcolm Wellmaker | 1.56 (64¢) | $30,400 | — | ⏳ Pendiente |
 | ethanaz | Georgia vs. Alabama | Georgia | 2.00 (50¢) | $52,674 | — | ⏳ Pendiente |
 | mooseborzoii | Georgia vs. Alabama | Alabama | 1.67 (60¢) | $26,052 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 | chubbytoro | Flyers vs. Bruins | Bruins | 1.79 (56¢) | $134,214 | +$105,454 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.49 (67¢) | $182,662 | +$89,968 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $49,775 | +$6,152 | ✅ Ganada |
-| Nooserac | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $35,600 | +$4,400 | ✅ Ganada |
