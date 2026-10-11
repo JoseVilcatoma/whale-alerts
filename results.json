@@ -74039,5 +74039,20 @@
     "status": "pending",
     "ultimo_fill": 1791751876,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1791753424,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "nfl-det-ari-2026-10-11",
+    "title": "Lions vs. Cardinals",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 25486.6286,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1791753424,
+    "fills": 1
   }
 ]
