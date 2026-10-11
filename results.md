@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 21:06:48 (hora de Perú)
+Actualizado: 2026-10-10 21:08:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4804**  ($258,286,972 en total)
+- Apuestas registradas: **4805**  ($258,332,667 en total)
 - Resueltas: **4758** — 2915 ganadas / 1843 perdidas (**61%** de acierto)
-- Pendientes: 25
-- Apostadores distintos: 544
+- Pendientes: 26
+- Apostadores distintos: 545
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Elaran1993 | 10 | 8 | 0 | 56% | $1,309,851 | +$248,205 |
 
-_(mostrando los 40 de mayor monto, de 544 en total)_
+_(mostrando los 40 de mayor monto, de 545 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gangmusic | UFC Fight Night: Brendan Allen vs. Christian Leroy Duncan (Middleweight, Main Card) | Brendan Allen | 1.96 (51¢) | $45,695 | — | ⏳ Pendiente |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.59 (63¢) | $33,203 | — | ⏳ Pendiente |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $26,394 | — | ⏳ Pendiente |
 | Pwaddler | 49ers vs. Seahawks: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $31,048 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 544 en total)_
 | Kch-Temp | Ole Miss vs. Vanderbilt | Ole Miss | 1.32 (76¢) | $164,191 | +$51,850 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 1.45 (69¢) | $45,815 | +$20,583 | ✅ Ganada |
 | Flaznorp | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $44,938 | +$9,204 | ✅ Ganada |
-| n0tTODAY | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $25,730 | +$5,270 | ✅ Ganada |

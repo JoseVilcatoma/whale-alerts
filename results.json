@@ -72199,5 +72199,20 @@
     "status": "pending",
     "ultimo_fill": 1791680949,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9788,
+    "timestamp": 1791684412,
+    "username": "gangmusic",
+    "wallet": "0xb8d757413fe4d4ec4716390938f12100614f5ac7",
+    "slug": "ufc-bre1-chr20-2026-10-10",
+    "title": "UFC Fight Night: Brendan Allen vs. Christian Leroy Duncan (Middleweight, Main Card)",
+    "outcome": "Brendan Allen",
+    "side": "BUY",
+    "usd": 45695.2962,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791684412,
+    "fills": 1
   }
 ]
