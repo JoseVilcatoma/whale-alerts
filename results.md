@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 11:32:27 (hora de Perú)
+Actualizado: 2026-10-11 11:34:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4899**  ($264,853,750 en total)
+- Apuestas registradas: **4900**  ($264,886,283 en total)
 - Resueltas: **4814** — 2942 ganadas / 1872 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Pendientes: 65
 - Apostadores distintos: 551
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 187 | 9 | 65% | $33,720,930 | +$855,170 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 187 | 10 | 65% | $33,753,463 | +$855,170 |
 | Sassy-Bucket | 66 | 63 | 3 | 51% | $7,471,431 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 0 | 52% | $6,940,069 | -$482,629 |
 | 3edmond.dantes | 23 | 20 | 4 | 53% | $6,689,832 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-10-11? | Yes | 2.50 (40¢) | $32,533 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Liverpool FC win on 2026-10-11? | No | 1.32 (76¢) | $64,748 | — | ⏳ Pendiente |
 | RJW1 | Will Manchester City FC win on 2026-10-11? | Yes | 2.44 (41¢) | $71,138 | — | ⏳ Pendiente |
 | SDTrading | Browns vs. Jets | Jets | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | UpTheBlues | Will Hull City AFC win on 2026-10-11? | No | 1.30 (77¢) | $25,288 | +$7,553 | ✅ Ganada |
 | UpTheBlues | Will Hull City AFC vs. Everton FC end in a draw? | No | 1.41 (71¢) | $26,482 | -$26,482 | ❌ Perdida |
 | Kch-Temp | Bears vs. Packers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $67,911 | — | ⏳ Pendiente |
-| juice-fruit | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 2.78 (36¢) | $36,000 | -$36,000 | ❌ Perdida |
