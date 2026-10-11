@@ -73679,5 +73679,20 @@
     "status": "pending",
     "ultimo_fill": 1791737561,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9946,
+    "timestamp": 1791737790,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-hou-ten-2026-10-11-total-38pt5",
+    "title": "Texans vs. Titans: O/U 38.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 38051.67,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1791737790,
+    "fills": 1
   }
 ]
