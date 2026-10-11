@@ -72687,5 +72687,20 @@
     "status": "pending",
     "ultimo_fill": 1791719687,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9846,
+    "timestamp": 1791720556,
+    "username": "TKD44",
+    "wallet": "0x68df8708aadb901618f11abf2471805a66a24815",
+    "slug": "nfl-ind-pit-2026-10-11-spread-home-7pt5",
+    "title": "Spread: Steelers (-7.5)",
+    "outcome": "Colts",
+    "side": "BUY",
+    "usd": 31317.460999999996,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1791720556,
+    "fills": 1
   }
 ]
