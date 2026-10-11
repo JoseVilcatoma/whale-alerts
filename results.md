@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 09:53:33 (hora de Perú)
+Actualizado: 2026-10-11 09:55:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4878**  ($263,638,946 en total)
+- Apuestas registradas: **4879**  ($263,683,595 en total)
 - Resueltas: **4797** — 2936 ganadas / 1861 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Pendientes: 61
 - Apostadores distintos: 551
 
 ### Balance
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 15 | 1 | 67% | $4,906,027 | +$1,637,294 |
 | ferrariChampions2026 | 78 | 39 | 1 | 67% | $4,769,478 | +$41,887 |
+| BrotherObama | 39 | 41 | 3 | 49% | $3,753,097 | +$33,271 |
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
-| BrotherObama | 39 | 41 | 2 | 49% | $3,708,447 | +$33,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 43 | 26 | 6 | 62% | $3,434,459 | +$226,296 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | MOUZ | 2.78 (36¢) | $44,649 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Eagles vs. Jaguars | Jaguars | 1.92 (52¢) | $32,773 | — | ⏳ Pendiente |
 | 0x543f6FdD37cA39Efd4ee7a98f8B7eFEEb8c68323-1791538722885 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $27,112 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Stade Rennais FC 1901 win on 2026-10-11? | Yes | 1.47 (68¢) | $188,887 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | fortnitethegoat667 | Valorant: G2 Esports vs T1 (BO3) - VCT Champions Playoffs | G2 Esports | 1.61 (62¢) | $25,551 | +$15,660 | ✅ Ganada |
 | lsiflsliggjriek | Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik | Jakub Mensik | 1.82 (55¢) | $73,823 | +$60,401 | ✅ Ganada |
 | fortnitethegoat667 | Valorant: 100 Thieves vs NRG (BO3) - VCT Champions Playoffs | 100 Thieves | 1.72 (58¢) | $31,341 | +$22,695 | ✅ Ganada |
-| Thesisters2 | Cagliari Calcio vs. Juventus FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $34,284 | — | ⏳ Pendiente |
