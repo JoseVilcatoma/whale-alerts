@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 07:51:27 (hora de Perú)
+Actualizado: 2026-10-11 07:53:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4845**  ($260,647,239 en total)
+- Apuestas registradas: **4846**  ($260,719,739 en total)
 - Resueltas: **4786** — 2933 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 548
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ripley86alien | 30 | 15 | 1 | 67% | $4,878,527 | +$1,637,294 |
+| ripley86alien | 30 | 15 | 1 | 67% | $4,906,027 | +$1,637,294 |
 | ferrariChampions2026 | 78 | 39 | 0 | 67% | $4,736,705 | +$41,887 |
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | BrotherObama | 39 | 41 | 2 | 49% | $3,708,447 | +$33,271 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Kch-Temp | 30 | 10 | 2 | 75% | $2,557,696 | +$1,280,240 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| mooseborzoii | 31 | 14 | 1 | 69% | $2,306,461 | +$562,509 |
+| mooseborzoii | 31 | 14 | 2 | 69% | $2,351,461 | +$562,509 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ripley86alien | Will Bologna FC 1909 win on 2026-10-11? | No | 1.82 (55¢) | $38,500 | — | ⏳ Pendiente |
+| mooseborzoii | Will Bologna FC 1909 win on 2026-10-11? | Yes | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
+| ripley86alien | Will Bologna FC 1909 win on 2026-10-11? | No | 1.82 (55¢) | $66,000 | — | ⏳ Pendiente |
 | nb1985 | Will OGC Nice win on 2026-10-11? | Yes | 2.17 (46¢) | $32,809 | — | ⏳ Pendiente |
 | UpTheBlues | Will Hull City AFC win on 2026-10-11? | No | 1.30 (77¢) | $25,288 | — | ⏳ Pendiente |
 | UpTheBlues | Will Hull City AFC vs. Everton FC end in a draw? | No | 1.41 (71¢) | $26,482 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Georgia vs. Alabama: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $37,806 | -$37,806 | ❌ Perdida |
 | BoggsFromShawshank | Georgia vs. Alabama | Alabama | 1.85 (54¢) | $35,640 | -$35,640 | ❌ Perdida |
 | Roadto1mlesgooo | Inter Miami CF vs. D.C. United SC: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
-| Talvez10 | Spread: Alabama (-2.5) | Alabama | 1.96 (51¢) | $78,293 | -$78,293 | ❌ Perdida |

@@ -72817,10 +72817,25 @@
     "title": "Will Bologna FC 1909 win on 2026-10-11?",
     "outcome": "No",
     "side": "BUY",
-    "usd": 38500.0,
+    "usd": 66000.0,
     "odds_at_bet": 55,
     "status": "pending",
-    "ultimo_fill": 1791723067,
+    "ultimo_fill": 1791723120,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 9856,
+    "timestamp": 1791723172,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "sea-lec-bol-2026-10-11-bol",
+    "title": "Will Bologna FC 1909 win on 2026-10-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 45000.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1791723172,
     "fills": 1
   }
 ]
