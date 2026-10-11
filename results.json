@@ -72049,5 +72049,20 @@
     "status": "pending",
     "ultimo_fill": 1791676846,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9774,
+    "timestamp": 1791677599,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "ufc-ota-mwellm-2026-10-10",
+    "title": "UFC Fight Night: Otari Tanzilovi vs. Malcolm Wellmaker (Bantamweight, Main Card)",
+    "outcome": "Malcolm Wellmaker",
+    "side": "BUY",
+    "usd": 30400.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1791677599,
+    "fills": 1
   }
 ]
