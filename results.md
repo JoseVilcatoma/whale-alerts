@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 10:12:31 (hora de Perú)
+Actualizado: 2026-10-11 10:14:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4885**  ($264,010,240 en total)
+- Apuestas registradas: **4886**  ($264,160,240 en total)
 - Resueltas: **4797** — 2936 ganadas / 1861 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Pendientes: 68
 - Apostadores distintos: 551
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nb1985 | Will Manchester City FC win on 2026-10-11? | Yes | 2.08 (48¢) | $150,000 | — | ⏳ Pendiente |
 | wan123 | Spread: Patriots (-3.5) | Patriots | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | wan123 | Bengals vs. Dolphins | Dolphins | 4.00 (25¢) | $25,000 | — | ⏳ Pendiente |
 | cosmicxbt | Eagles vs. Jaguars | Jaguars | 1.85 (54¢) | $80,690 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | Herdonia | Eagles vs. Jaguars | Jaguars | 1.30 (77¢) | $41,188 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Olbia: Leo Raquillet vs Gabi Adrian Boitan | Gabi Adrian Boitan | 1.37 (73¢) | $106,682 | -$106,682 | ❌ Perdida |
 | meoooow | Will Elche CF vs. RC Celta de Vigo end in a draw? | No | 1.41 (71¢) | $30,078 | -$30,078 | ❌ Perdida |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.45 (69¢) | $47,077 | -$47,077 | ❌ Perdida |
