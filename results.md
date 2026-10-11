@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 04:07:07 (hora de Perú)
+Actualizado: 2026-10-11 04:09:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4821**  ($259,369,707 en total)
+- Apuestas registradas: **4821**  ($259,400,814 en total)
 - Resueltas: **4783** — 2930 ganadas / 1853 perdidas (**61%** de acierto)
 - Pendientes: 17
 - Apostadores distintos: 547
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 547 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| lsiflsliggjriek | Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik | Jakub Mensik | 1.82 (55¢) | $42,716 | — | ⏳ Pendiente |
+| lsiflsliggjriek | Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik | Jakub Mensik | 1.82 (55¢) | $73,823 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Valorant: 100 Thieves vs NRG (BO3) - VCT Champions Playoffs | 100 Thieves | 1.72 (58¢) | $31,341 | — | ⏳ Pendiente |
 | Thesisters2 | Cagliari Calcio vs. Juventus FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $34,284 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.37 (73¢) | $27,072 | — | ⏳ Pendiente |
