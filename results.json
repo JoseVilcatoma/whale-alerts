@@ -72882,5 +72882,20 @@
     "status": "pending",
     "ultimo_fill": 1791724300,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9861,
+    "timestamp": 1791724352,
+    "username": "fraagen",
+    "wallet": "0x90c76042ccc84ee8bcbffe6f4ddc6e4cb7e02934",
+    "slug": "bun-koe-moe-2026-10-11-koe",
+    "title": "Will 1. FC K\u00f6ln win on 2026-10-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25704.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791724352,
+    "fills": 1
   }
 ]
