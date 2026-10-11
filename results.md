@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 19:01:04 (hora de Perú)
+Actualizado: 2026-10-10 19:03:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4794**  ($257,909,218 en total)
-- Resueltas: **4751** — 2911 ganadas / 1840 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **4754** — 2913 ganadas / 1841 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 543
 
 ### Balance
 
-- **Resultado de los apostadores: +$153,815** sobre $256,062,291 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,568** sobre $469,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$178,615** sobre $256,150,491 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,472** sobre $469,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 347 | 184 | 5 | 65% | $33,319,194 | +$905,249 |
 | Sassy-Bucket | 66 | 63 | 2 | 51% | $7,321,631 | -$656,092 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 87 | 80 | 2 | 52% | $6,908,269 | -$494,079 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 88 | 80 | 1 | 52% | $6,908,269 | -$469,579 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | Diabolical-Prize | 59 | 58 | 0 | 50% | $5,997,202 | -$379,592 |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 29 | 6 | 1 | 83% | $3,136,521 | +$576,325 |
 | Lakersfan111 | 41 | 23 | 0 | 64% | $2,997,373 | +$300,812 |
-| maz26 | 24 | 16 | 1 | 60% | $2,678,271 | -$31,372 |
+| maz26 | 25 | 16 | 0 | 61% | $2,678,271 | +$128 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Kch-Temp | 30 | 10 | 1 | 75% | $2,489,786 | +$1,280,240 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -105,11 +105,11 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 | 177-letsgo | Ole Miss vs. Vanderbilt | Ole Miss | 1.18 (85¢) | $36,944 | +$6,519 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.25 (80¢) | $29,912 | -$29,912 | ❌ Perdida |
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 4.17 (24¢) | $28,362 | +$89,814 | ✅ Ganada |
-| gmpm2 | Spread: Texas (-7.5) | Oklahoma | 2.00 (50¢) | $31,500 | — | ⏳ Pendiente |
+| gmpm2 | Spread: Texas (-7.5) | Oklahoma | 2.00 (50¢) | $31,500 | +$31,500 | ✅ Ganada |
 | Kch-Temp | Tulsa vs. Navy | Navy | 1.69 (59¢) | $41,062 | +$28,535 | ✅ Ganada |
 | nuttypoo | Texas vs. Oklahoma: O/U 42.5 | Under 42.5 | 1.75 (57¢) | $35,960 | -$35,960 | ❌ Perdida |
 | ethanaz | Indiana vs. Nebraska | Indiana | 1.37 (73¢) | $60,667 | +$22,438 | ✅ Ganada |
-| Donkey14 | Spread: Texas (-7.5) | Texas | 2.00 (50¢) | $31,200 | — | ⏳ Pendiente |
+| Donkey14 | Spread: Texas (-7.5) | Texas | 2.00 (50¢) | $31,200 | -$31,200 | ❌ Perdida |
 | nigiri99 | Virginia Tech vs. California | Virginia Tech | 1.30 (77¢) | $40,094 | -$40,094 | ❌ Perdida |
 | viboomchuu | Spread: Devils (-1.5) | Devils | 1.92 (52¢) | $25,191 | +$23,253 | ✅ Ganada |
 | kmak1 | Will Real Madrid CF win on 2026-10-10? | Yes | 1.35 (74¢) | $34,257 | +$12,036 | ✅ Ganada |
