@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 08:01:33 (hora de Perú)
+Actualizado: 2026-10-11 08:03:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4848**  ($260,799,932 en total)
-- Resueltas: **4786** — 2933 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Resueltas: **4787** — 2934 ganadas / 1853 perdidas (**61%** de acierto)
+- Pendientes: 40
 - Apostadores distintos: 548
 
 ### Balance
 
-- **Resultado de los apostadores: +$150,684** sobre $258,137,302 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,757** sobre $472,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$154,894** sobre $258,163,158 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,741** sobre $472,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | Thesisters2 | Cagliari Calcio vs. Juventus FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $34,284 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.37 (73¢) | $27,072 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.41 (71¢) | $42,600 | — | ⏳ Pendiente |
-| coinlaundry | Shanghai Rolex Masters: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.16 (86¢) | $25,856 | — | ⏳ Pendiente |
+| coinlaundry | Shanghai Rolex Masters: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.16 (86¢) | $25,856 | +$4,209 | ✅ Ganada |
 | btmx6 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $26,837 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wuhan Tennis Open, Qualification: Camila Osorio vs Katie Volynets | Katie Volynets | 1.69 (59¢) | $30,500 | +$21,195 | ✅ Ganada |
 | btmx6 | Will 1. FC Köln win on 2026-10-11? | No | 1.92 (52¢) | $30,519 | — | ⏳ Pendiente |
