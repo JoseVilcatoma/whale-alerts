@@ -73617,5 +73617,20 @@
     "status": "pending",
     "ultimo_fill": 1791735687,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 9937,
+    "timestamp": 1791736281,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "epl-liv-mac-2026-10-11-liv",
+    "title": "Will Liverpool FC win on 2026-10-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 64747.7364,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1791736281,
+    "fills": 1
   }
 ]
