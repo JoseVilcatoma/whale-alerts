@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 10:04:04 (hora de Perú)
+Actualizado: 2026-10-11 10:06:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4882**  ($263,879,550 en total)
+- Apuestas registradas: **4883**  ($263,960,240 en total)
 - Resueltas: **4797** — 2936 ganadas / 1861 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Pendientes: 65
 - Apostadores distintos: 551
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| S-Works | 7 | 3 | 1 | 70% | $1,313,423 | -$120,763 |
+| cosmicxbt | 13 | 4 | 1 | 76% | $1,383,018 | +$1,473 |
 
 _(mostrando los 40 de mayor monto, de 551 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Eagles vs. Jaguars | Jaguars | 1.85 (54¢) | $80,690 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.52 (66¢) | $49,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Jaguars | Eagles | 2.50 (40¢) | $76,555 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.56 (64¢) | $70,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.45 (69¢) | $47,077 | -$47,077 | ❌ Perdida |
 | fortnitethegoat667 | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.47 (68¢) | $43,199 | -$43,199 | ❌ Perdida |
 | Kkunn | China Open: Qinwen Zheng vs Mirra Andreeva | Qinwen Zheng | 2.50 (40¢) | $29,976 | +$44,964 | ✅ Ganada |
-| p1252 | Will Manchester City FC win on 2026-10-11? | Yes | 2.17 (46¢) | $27,600 | — | ⏳ Pendiente |
