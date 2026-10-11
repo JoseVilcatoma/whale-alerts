@@ -71368,7 +71368,7 @@
     "side": "BUY",
     "usd": 56000.00000000001,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791659579,
     "fills": 1
   },
@@ -71398,7 +71398,7 @@
     "side": "BUY",
     "usd": 90000.00000023999,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791659500,
     "fills": 2
   },
@@ -72232,10 +72232,10 @@
     "title": "Boise State vs. Fresno State",
     "outcome": "Boise State",
     "side": "BUY",
-    "usd": 165742.897,
+    "usd": 301578.9423,
     "odds_at_bet": 89,
     "status": "pending",
-    "ultimo_fill": 1791688841,
-    "fills": 3
+    "ultimo_fill": 1791688890,
+    "fills": 4
   }
 ]

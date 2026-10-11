@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 22:20:50 (hora de Perú)
+Actualizado: 2026-10-10 22:23:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4806**  ($258,498,410 en total)
-- Resueltas: **4766** — 2921 ganadas / 1845 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Apuestas registradas: **4806**  ($258,634,246 en total)
+- Resueltas: **4768** — 2922 ganadas / 1846 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 545
 
 ### Balance
 
-- **Resultado de los apostadores: +$63,142** sobre $256,675,834 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,754** sobre $470,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$17,142** sobre $256,821,834 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,775** sobre $470,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 347 | 185 | 5 | 65% | $33,364,663 | +$859,780 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 348 | 185 | 4 | 65% | $33,364,663 | +$903,780 |
 | Sassy-Bucket | 66 | 63 | 2 | 51% | $7,321,631 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 80 | 1 | 53% | $6,940,069 | -$450,829 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 15 | 0 | 67% | $4,840,027 | +$1,637,294 |
 | ferrariChampions2026 | 78 | 39 | 0 | 67% | $4,736,705 | +$41,887 |
 | ethanaz | 44 | 19 | 2 | 70% | $3,718,198 | -$148,509 |
-| BrotherObama | 39 | 40 | 3 | 49% | $3,708,447 | +$123,271 |
+| BrotherObama | 39 | 41 | 2 | 49% | $3,708,447 | +$33,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 7 | 0 | 81% | $3,166,921 | +$560,925 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 1827575782 | Boise State vs. Fresno State | Boise State | 1.12 (89¢) | $165,743 | — | ⏳ Pendiente |
+| 1827575782 | Boise State vs. Fresno State | Boise State | 1.12 (89¢) | $301,579 | — | ⏳ Pendiente |
 | gangmusic | UFC Fight Night: Brendan Allen vs. Christian Leroy Duncan (Middleweight, Main Card) | Brendan Allen | 1.96 (51¢) | $45,695 | — | ⏳ Pendiente |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.59 (63¢) | $33,203 | +$1,779 | 💰 Vendida antes |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $26,394 | +$1,414 | 💰 Vendida antes |
@@ -126,8 +126,8 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 | viboomchuu | Spread: Devils (-1.5) | Devils | 1.92 (52¢) | $25,191 | +$23,253 | ✅ Ganada |
 | kmak1 | Will Real Madrid CF win on 2026-10-10? | Yes | 1.35 (74¢) | $34,257 | +$12,036 | ✅ Ganada |
 | 177-letsgo | Indiana vs. Nebraska | Indiana | 1.12 (89¢) | $40,050 | +$4,950 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago White Sox vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $56,000 | +$44,000 | ✅ Ganada |
 | ethanaz | Indiana vs. Nebraska | Indiana | 1.32 (76¢) | $29,527 | +$9,324 | ✅ Ganada |
-| BrotherObama | Chicago White Sox vs. Cleveland Guardians | Chicago White Sox | 2.27 (44¢) | $90,000 | — | ⏳ Pendiente |
+| BrotherObama | Chicago White Sox vs. Cleveland Guardians | Chicago White Sox | 2.27 (44¢) | $90,000 | -$90,000 | ❌ Perdida |
 | Kch-Temp | Ole Miss vs. Vanderbilt | Ole Miss | 1.32 (76¢) | $164,191 | +$51,850 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs | MOUZ | 1.45 (69¢) | $45,815 | +$20,583 | ✅ Ganada |
