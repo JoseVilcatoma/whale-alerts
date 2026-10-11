@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 17:35:28 (hora de Perú)
+Actualizado: 2026-10-11 17:37:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4937**  ($266,962,622 en total)
-- Resueltas: **4884** — 2995 ganadas / 1889 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Resueltas: **4885** — 2996 ganadas / 1889 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: +$712,600** sobre $264,444,311 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,202** sobre $481,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$725,062** sobre $264,470,794 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,155** sobre $482,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | OhWhenTheReds | Will SC Internacional win on 2026-10-11? | Yes | 2.86 (35¢) | $26,882 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Broncos (-3.5) | Chargers | 1.96 (51¢) | $31,824 | — | ⏳ Pendiente |
 | 1827575782 | Vikings vs. Saints | Vikings | 1.08 (93¢) | $139,500 | +$10,500 | ✅ Ganada |
-| UpTheBlues | Will CA Platense win on 2026-10-11? | No | 1.47 (68¢) | $26,483 | — | ⏳ Pendiente |
+| UpTheBlues | Will CA Platense win on 2026-10-11? | No | 1.47 (68¢) | $26,483 | +$12,463 | ✅ Ganada |
 | Donkey14 | 49ers vs. Seahawks | Seahawks | 1.67 (60¢) | $75,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Lions vs. Cardinals: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | beeemw | Vikings vs. Saints | Vikings | 1.27 (79¢) | $60,040 | +$15,960 | ✅ Ganada |
