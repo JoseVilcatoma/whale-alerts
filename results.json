@@ -72699,7 +72699,7 @@
     "side": "BUY",
     "usd": 31317.460999999996,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791720556,
     "fills": 1
   },
@@ -73254,7 +73254,7 @@
     "side": "BUY",
     "usd": 49222.2236,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791728472,
     "fills": 1
   },
@@ -73421,7 +73421,7 @@
     "side": "BUY",
     "usd": 25000.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791731277,
     "fills": 1
   },
@@ -73661,7 +73661,7 @@
     "side": "BUY",
     "usd": 126000.0,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791737059,
     "fills": 1
   },
@@ -73978,6 +73978,36 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1791750271,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10001,
+    "timestamp": 1791750064,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-det-ari-2026-10-11",
+    "title": "Lions vs. Cardinals",
+    "outcome": "Cardinals",
+    "side": "BUY",
+    "usd": 29481.0,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "ultimo_fill": 1791750064,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10002,
+    "timestamp": 1791750512,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-sf-sea-2026-10-11",
+    "title": "49ers vs. Seahawks",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 29368.45,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1791750512,
     "fills": 1
   }
 ]

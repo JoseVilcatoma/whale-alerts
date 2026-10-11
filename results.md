@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 15:27:37 (hora de Perú)
+Actualizado: 2026-10-11 15:29:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4922**  ($266,016,669 en total)
-- Resueltas: **4870** — 2987 ganadas / 1883 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Apuestas registradas: **4924**  ($266,075,519 en total)
+- Resueltas: **4874** — 2989 ganadas / 1885 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: +$501,290** sobre $263,775,599 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,287** sobre $480,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$519,750** sobre $264,007,138 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,328** sobre $480,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 355 | 188 | 5 | 65% | $33,836,459 | +$1,021,515 |
-| Sassy-Bucket | 67 | 64 | 3 | 51% | $7,635,482 | -$544,344 |
+| Sassy-Bucket | 68 | 64 | 2 | 52% | $7,635,482 | -$470,344 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 1 | 52% | $6,989,069 | -$482,629 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 46 | 28 | 2 | 62% | $3,460,248 | +$144,817 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 8 | 0 | 79% | $3,197,856 | +$529,990 |
-| maz26 | 27 | 17 | 1 | 61% | $3,115,479 | +$93,673 |
+| maz26 | 27 | 17 | 3 | 61% | $3,174,328 | +$93,673 |
 | Kch-Temp | 31 | 10 | 3 | 76% | $2,815,566 | +$1,395,506 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | mooseborzoii | 32 | 15 | 4 | 68% | $2,493,437 | +$587,835 |
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | 49ers vs. Seahawks | Seahawks | 1.64 (61¢) | $29,368 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Lions (-5.5) | Cardinals | 2.00 (50¢) | $57,368 | — | ⏳ Pendiente |
+| gmpm2 | Lions vs. Cardinals | Cardinals | 3.23 (31¢) | $29,481 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-3.5) | 49ers | 1.79 (56¢) | $56,418 | — | ⏳ Pendiente |
 | ndb1 | 49ers vs. Seahawks | Seahawks | 1.69 (59¢) | $38,829 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Jets | Browns | 11.11 (9¢) | $26,578 | — | ⏳ Pendiente |
@@ -92,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | mooseborzoii | Vikings vs. Saints | Saints | 2.27 (44¢) | $29,674 | -$29,674 | ❌ Perdida |
 | Sassy-Bucket | Texans vs. Titans: O/U 38.5 | Over 38.5 | 2.13 (47¢) | $38,052 | -$38,052 | ❌ Perdida |
 | mooseborzoii | Bengals vs. Dolphins | Bengals | 1.33 (75¢) | $27,134 | — | ⏳ Pendiente |
-| Sassy-Bucket | Raiders vs. Patriots | Patriots | 1.59 (63¢) | $126,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Raiders vs. Patriots | Patriots | 1.59 (63¢) | $126,000 | +$74,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-10-11? | Yes | 2.50 (40¢) | $32,533 | +$48,799 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Liverpool FC win on 2026-10-11? | No | 1.32 (76¢) | $64,748 | +$20,447 | ✅ Ganada |
 | RJW1 | Will Manchester City FC win on 2026-10-11? | Yes | 2.44 (41¢) | $71,138 | +$102,369 | ✅ Ganada |
@@ -108,7 +110,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 1827575782 | Will Liverpool FC win on 2026-10-11? | No | 1.35 (74¢) | $81,400 | +$28,600 | ✅ Ganada |
 | Kch-Temp | Spread: Commanders (-3.5) | Giants | 1.92 (52¢) | $111,167 | — | ⏳ Pendiente |
 | nb1985 | Will Manchester City FC win on 2026-10-11? | Yes | 2.08 (48¢) | $150,000 | +$162,500 | ✅ Ganada |
-| wan123 | Spread: Patriots (-3.5) | Patriots | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| wan123 | Spread: Patriots (-3.5) | Patriots | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | wan123 | Bengals vs. Dolphins | Dolphins | 4.00 (25¢) | $25,000 | — | ⏳ Pendiente |
 | cosmicxbt | Eagles vs. Jaguars | Jaguars | 1.85 (54¢) | $80,690 | +$1,494 | 💰 Vendida antes |
 | fantasy7788 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.52 (66¢) | $49,000 | +$25,242 | ✅ Ganada |
@@ -119,7 +121,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 0x543f6FdD37cA39Efd4ee7a98f8B7eFEEb8c68323-1791538722885 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $27,112 | +$14,599 | ✅ Ganada |
 | 3edmond.dantes | Will Stade Rennais FC 1901 win on 2026-10-11? | Yes | 1.47 (68¢) | $188,887 | +$88,888 | ✅ Ganada |
 | 3edmond.dantes | Will Stade Rennais FC 1901 win on 2026-10-11? | Yes | 1.49 (67¢) | $121,493 | +$59,840 | ✅ Ganada |
-| 0xe312101A6EA5c00821B74e2855c2674147B2e0b2-1730831637679 | Bears vs. Packers | Bears | 1.89 (53¢) | $49,222 | — | ⏳ Pendiente |
+| 0xe312101A6EA5c00821B74e2855c2674147B2e0b2-1730831637679 | Bears vs. Packers | Bears | 1.89 (53¢) | $49,222 | -$49,222 | ❌ Perdida |
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $132,346 | +$44,115 | ✅ Ganada |
 | eth10001 | Will Real Sociedad de Fútbol vs. RC Deportivo A Coruña end in a draw? | No | 1.33 (75¢) | $48,000 | +$16,000 | ✅ Ganada |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $62,766 | -$62,766 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $241,851 | +$80,617 | ✅ Ganada |
 | Diabolical-Prize | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.47 (68¢) | $233,495 | +$109,880 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Games Total: O/U 3.5 | Under 3.5 | 3.57 (28¢) | $28,000 | +$72,000 | ✅ Ganada |
-| nb1985 | Will Real Sociedad de Fútbol win on 2026-10-11? | No | 2.17 (46¢) | $29,474 | -$29,474 | ❌ Perdida |
-| 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.82 (55¢) | $57,981 | +$47,439 | ✅ Ganada |
