@@ -73092,5 +73092,50 @@
     "status": "pending",
     "ultimo_fill": 1791727347,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9883,
+    "timestamp": 1791727612,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "dota2-ty-ts8-2026-10-11",
+    "title": "Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 233494.83000000002,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1791727612,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9884,
+    "timestamp": 1791727612,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-vit-mouz-2026-10-11-total-games-3pt5",
+    "title": "Games Total: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 28000.000000000004,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "ultimo_fill": 1791727612,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9885,
+    "timestamp": 1791727648,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-hou-ten-2026-10-11",
+    "title": "Texans vs. Titans",
+    "outcome": "Texans",
+    "side": "BUY",
+    "usd": 241850.8125,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1791727648,
+    "fills": 1
   }
 ]

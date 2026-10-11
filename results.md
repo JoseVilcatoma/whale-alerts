@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 09:05:44 (hora de Perú)
+Actualizado: 2026-10-11 09:07:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4863**  ($262,321,334 en total)
+- Apuestas registradas: **4866**  ($262,824,679 en total)
 - Resueltas: **4795** — 2935 ganadas / 1860 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 50
 - Apostadores distintos: 549
 
 ### Balance
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 186 | 7 | 65% | $33,551,627 | +$887,170 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 186 | 8 | 65% | $33,579,627 | +$887,170 |
 | Sassy-Bucket | 66 | 63 | 3 | 51% | $7,471,431 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 0 | 52% | $6,940,069 | -$482,629 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 3edmond.dantes | 23 | 20 | 2 | 53% | $6,379,453 | -$1,657,043 |
-| Diabolical-Prize | 59 | 58 | 0 | 50% | $5,997,202 | -$379,592 |
+| Diabolical-Prize | 59 | 58 | 1 | 50% | $6,230,697 | -$379,592 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Lakersfan111 | 42 | 26 | 4 | 62% | $3,275,498 | +$210,636 |
 | surfandturf | 30 | 7 | 1 | 81% | $3,197,856 | +$560,925 |
-| maz26 | 25 | 16 | 1 | 61% | $2,709,458 | +$128 |
+| maz26 | 25 | 16 | 2 | 61% | $2,951,309 | +$128 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Kch-Temp | 30 | 10 | 2 | 75% | $2,557,696 | +$1,280,240 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $241,851 | — | ⏳ Pendiente |
+| Diabolical-Prize | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.47 (68¢) | $233,495 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Games Total: O/U 3.5 | Under 3.5 | 3.57 (28¢) | $28,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.82 (55¢) | $57,981 | — | ⏳ Pendiente |
 | 1827575782 | Eagles vs. Jaguars | Jaguars | 1.20 (83¢) | $197,662 | — | ⏳ Pendiente |
 | BillyGating | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Spirit | 3.23 (31¢) | $88,352 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 | gransaaa | SS Lazio vs. AC Monza: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $26,496 | — | ⏳ Pendiente |
 | gransaaa | Will Everton FC win on 2026-10-11? | Yes | 2.13 (47¢) | $33,566 | — | ⏳ Pendiente |
 | 1827575782 | Boise State vs. Fresno State | Boise State | 1.15 (87¢) | $92,442 | +$13,813 | ✅ Ganada |
-| 1827575782 | Boise State vs. Fresno State | Boise State | 1.12 (89¢) | $467,322 | +$57,759 | ✅ Ganada |
-| gangmusic | UFC Fight Night: Brendan Allen vs. Christian Leroy Duncan (Middleweight, Main Card) | Brendan Allen | 1.96 (51¢) | $45,695 | +$43,903 | ✅ Ganada |
-| 1827575782 | LSU vs. Kentucky | LSU | 1.59 (63¢) | $33,203 | +$1,779 | 💰 Vendida antes |
