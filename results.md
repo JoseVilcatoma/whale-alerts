@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 11:51:17 (hora de Perú)
+Actualizado: 2026-10-11 11:53:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4901**  ($265,012,283 en total)
+- Apuestas registradas: **4902**  ($265,039,417 en total)
 - Resueltas: **4819** — 2946 ganadas / 1873 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Pendientes: 62
 - Apostadores distintos: 551
 
 ### Balance
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 30 | 10 | 4 | 75% | $2,815,566 | +$1,280,240 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| mooseborzoii | 32 | 14 | 1 | 70% | $2,351,461 | +$617,509 |
+| mooseborzoii | 32 | 14 | 2 | 70% | $2,378,595 | +$617,509 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Bengals vs. Dolphins | Bengals | 1.33 (75¢) | $27,134 | — | ⏳ Pendiente |
 | Sassy-Bucket | Raiders vs. Patriots | Patriots | 1.59 (63¢) | $126,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-10-11? | Yes | 2.50 (40¢) | $32,533 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Liverpool FC win on 2026-10-11? | No | 1.32 (76¢) | $64,748 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | ripley86alien | Will Bologna FC 1909 win on 2026-10-11? | No | 1.82 (55¢) | $66,000 | -$66,000 | ❌ Perdida |
 | nb1985 | Will OGC Nice win on 2026-10-11? | Yes | 2.17 (46¢) | $32,809 | +$38,514 | ✅ Ganada |
 | UpTheBlues | Will Hull City AFC win on 2026-10-11? | No | 1.30 (77¢) | $25,288 | +$7,553 | ✅ Ganada |
-| UpTheBlues | Will Hull City AFC vs. Everton FC end in a draw? | No | 1.41 (71¢) | $26,482 | -$26,482 | ❌ Perdida |

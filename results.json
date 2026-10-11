@@ -73664,5 +73664,20 @@
     "status": "pending",
     "ultimo_fill": 1791737059,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9945,
+    "timestamp": 1791737561,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-cin-mia-2026-10-11",
+    "title": "Bengals vs. Dolphins",
+    "outcome": "Bengals",
+    "side": "BUY",
+    "usd": 27134.0775,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1791737561,
+    "fills": 1
   }
 ]
