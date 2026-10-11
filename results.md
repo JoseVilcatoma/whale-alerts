@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 11:36:40 (hora de Perú)
+Actualizado: 2026-10-11 11:38:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4900**  ($264,886,283 en total)
-- Resueltas: **4815** — 2943 ganadas / 1872 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Resueltas: **4818** — 2945 ganadas / 1873 perdidas (**61%** de acierto)
+- Pendientes: 61
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: -$399,066** sobre $259,281,125 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,868** sobre $475,100 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$261,513** sobre $259,508,965 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,801** sobre $475,400 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 187 | 10 | 65% | $33,753,463 | +$855,170 |
 | Sassy-Bucket | 66 | 63 | 3 | 51% | $7,471,431 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 0 | 52% | $6,940,069 | -$482,629 |
-| 3edmond.dantes | 23 | 20 | 4 | 53% | $6,689,832 | -$1,657,043 |
+| 3edmond.dantes | 25 | 20 | 2 | 56% | $6,689,832 | -$1,490,016 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Diabolical-Prize | 59 | 58 | 1 | 50% | $6,230,697 | -$379,592 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
@@ -107,13 +107,13 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $241,851 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.47 (68¢) | $233,495 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Games Total: O/U 3.5 | Under 3.5 | 3.57 (28¢) | $28,000 | — | ⏳ Pendiente |
-| nb1985 | Will Real Sociedad de Fútbol win on 2026-10-11? | No | 2.17 (46¢) | $29,474 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.82 (55¢) | $57,981 | — | ⏳ Pendiente |
+| nb1985 | Will Real Sociedad de Fútbol win on 2026-10-11? | No | 2.17 (46¢) | $29,474 | -$29,474 | ❌ Perdida |
+| 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.82 (55¢) | $57,981 | +$47,439 | ✅ Ganada |
 | 1827575782 | Eagles vs. Jaguars | Jaguars | 1.20 (83¢) | $197,662 | — | ⏳ Pendiente |
 | BillyGating | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Spirit | 3.23 (31¢) | $88,352 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $49,389 | — | ⏳ Pendiente |
 | Takon88 | Will Hamarkameratene win on 2026-10-11? | No | 1.27 (79¢) | $25,989 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.85 (54¢) | $140,386 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.85 (54¢) | $140,386 | +$119,588 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Jaguars | Jaguars | 1.47 (68¢) | $42,130 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.39 (72¢) | $37,511 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.41 (71¢) | $32,366 | — | ⏳ Pendiente |
