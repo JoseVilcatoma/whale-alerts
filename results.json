@@ -73694,5 +73694,20 @@
     "status": "pending",
     "ultimo_fill": 1791737790,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9947,
+    "timestamp": 1791737864,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-min-no-2026-10-11",
+    "title": "Vikings vs. Saints",
+    "outcome": "Saints",
+    "side": "BUY",
+    "usd": 29673.996,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1791737864,
+    "fills": 1
   }
 ]
