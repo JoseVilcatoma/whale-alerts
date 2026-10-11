@@ -73572,5 +73572,35 @@
     "status": "pending",
     "ultimo_fill": 1791734186,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9934,
+    "timestamp": 1791734968,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "nfl-ind-pit-2026-10-11-spread-home-3pt5",
+    "title": "Spread: Steelers (-3.5)",
+    "outcome": "Colts",
+    "side": "BUY",
+    "usd": 25200.000000000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1791734968,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9935,
+    "timestamp": 1791735030,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "nfl-cle-nyj-2026-10-11",
+    "title": "Browns vs. Jets",
+    "outcome": "Jets",
+    "side": "BUY",
+    "usd": 34200.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1791735030,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 11:09:24 (hora de Perú)
+Actualizado: 2026-10-11 11:11:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4895**  ($264,658,465 en total)
+- Apuestas registradas: **4897**  ($264,717,865 en total)
 - Resueltas: **4814** — 2942 ganadas / 1872 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Pendientes: 62
 - Apostadores distintos: 551
 
 ### Balance
@@ -53,9 +53,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
 | ndb1 | 23 | 11 | 0 | 68% | $1,830,787 | +$412,607 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
+| SDTrading | 29 | 29 | 2 | 50% | $1,787,724 | -$135,793 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | Talvez10 | 19 | 18 | 0 | 51% | $1,741,461 | +$155,737 |
-| SDTrading | 29 | 29 | 0 | 50% | $1,728,324 | -$135,793 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 28 | 2 | 0 | 93% | $1,700,416 | +$89,015 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Browns vs. Jets | Jets | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
+| SDTrading | Spread: Steelers (-3.5) | Colts | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
 | tiger105 | Will SC Freiburg win on 2026-10-11? | Yes | 1.25 (80¢) | $26,236 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | StasPanda | Will Liverpool FC win on 2026-10-11? | No | 1.37 (73¢) | $25,921 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | juice-fruit | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 2.78 (36¢) | $36,000 | -$36,000 | ❌ Perdida |
 | 1827575782 | Will Lewis Hamilton win the 2026 F1 Singapore Grand Prix? | No | 1.09 (92¢) | $194,282 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima | Brandon Nakashima | 2.13 (47¢) | $49,319 | -$49,319 | ❌ Perdida |
-| TKD44 | Spread: Steelers (-7.5) | Colts | 1.41 (71¢) | $31,317 | — | ⏳ Pendiente |
-| fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $38,485 | — | ⏳ Pendiente |
