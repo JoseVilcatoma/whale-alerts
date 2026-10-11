@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 14:41:57 (hora de Perú)
+Actualizado: 2026-10-11 14:44:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4913**  ($265,671,306 en total)
-- Resueltas: **4855** — 2976 ganadas / 1879 perdidas (**61%** de acierto)
+- Apuestas registradas: **4914**  ($265,698,189 en total)
+- Resueltas: **4856** — 2976 ganadas / 1880 perdidas (**61%** de acierto)
 - Pendientes: 37
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: +$218,937** sobre $262,384,201 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,306** sobre $479,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$192,948** sobre $262,410,190 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,406** sobre $479,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| OhWhenTheReds | Will SC Internacional win on 2026-10-11? | Yes | 2.86 (35¢) | $26,882 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Broncos (-3.5) | Chargers | 1.96 (51¢) | $31,824 | — | ⏳ Pendiente |
 | 1827575782 | Vikings vs. Saints | Vikings | 1.08 (93¢) | $139,500 | — | ⏳ Pendiente |
 | UpTheBlues | Will CA Platense win on 2026-10-11? | No | 1.47 (68¢) | $26,483 | — | ⏳ Pendiente |
@@ -125,9 +126,8 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 1827575782 | Eagles vs. Jaguars | Jaguars | 1.20 (83¢) | $197,662 | +$40,485 | ✅ Ganada |
 | BillyGating | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Spirit | 3.23 (31¢) | $88,352 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $49,389 | +$26,594 | ✅ Ganada |
-| Takon88 | Will Hamarkameratene win on 2026-10-11? | No | 1.27 (79¢) | $25,989 | — | ⏳ Pendiente |
+| Takon88 | Will Hamarkameratene win on 2026-10-11? | No | 1.27 (79¢) | $25,989 | -$25,989 | ❌ Perdida |
 | 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.85 (54¢) | $140,386 | +$119,588 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Jaguars | Jaguars | 1.47 (68¢) | $42,130 | +$19,826 | ✅ Ganada |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.39 (72¢) | $37,511 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.41 (71¢) | $32,366 | — | ⏳ Pendiente |
-| juice-fruit | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $56,892 | +$30,634 | ✅ Ganada |
