@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 19:58:55 (hora de Perú)
+Actualizado: 2026-10-10 20:00:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4800**  ($258,111,878 en total)
+- Apuestas registradas: **4800**  ($258,148,828 en total)
 - Resueltas: **4755** — 2913 ganadas / 1842 perdidas (**61%** de acierto)
 - Pendientes: 24
 - Apostadores distintos: 544
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 544 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 1827575782 | LSU vs. Kentucky | LSU | 1.82 (55¢) | $33,872 | — | ⏳ Pendiente |
+| 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $70,821 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Boise State (-7.5) | Boise State | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Cardinals: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $33,368 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Andre Fili vs. Kai Kamaka III (Featherweight, Main Card) | Kai Kamaka III | 2.17 (46¢) | $45,469 | — | ⏳ Pendiente |
