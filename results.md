@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 12:01:45 (hora de Perú)
+Actualizado: 2026-10-11 12:03:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4904**  ($265,107,143 en total)
+- Apuestas registradas: **4905**  ($265,138,214 en total)
 - Resueltas: **4819** — 2946 ganadas / 1873 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Pendientes: 65
 - Apostadores distintos: 551
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| veliMax | Will Real Betis Balompié win on 2026-10-11? | Yes | 1.22 (82¢) | $31,071 | — | ⏳ Pendiente |
 | mooseborzoii | Vikings vs. Saints | Saints | 2.27 (44¢) | $29,674 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texans vs. Titans: O/U 38.5 | Over 38.5 | 2.13 (47¢) | $38,052 | — | ⏳ Pendiente |
 | mooseborzoii | Bengals vs. Dolphins | Bengals | 1.33 (75¢) | $27,134 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-10.5) | Eagles | 1.69 (59¢) | $49,258 | — | ⏳ Pendiente |
 | surfandturf | Spread: Jaguars (-5.5) | Jaguars | 1.61 (62¢) | $30,935 | — | ⏳ Pendiente |
 | mooseborzoii | Will Bologna FC 1909 win on 2026-10-11? | Yes | 2.22 (45¢) | $45,000 | +$55,000 | ✅ Ganada |
-| ripley86alien | Will Bologna FC 1909 win on 2026-10-11? | No | 1.82 (55¢) | $66,000 | -$66,000 | ❌ Perdida |
