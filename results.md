@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 11:34:33 (hora de Perú)
+Actualizado: 2026-10-11 11:36:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4900**  ($264,886,283 en total)
-- Resueltas: **4814** — 2942 ganadas / 1872 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Resueltas: **4815** — 2943 ganadas / 1872 perdidas (**61%** de acierto)
+- Pendientes: 64
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: -$415,066** sobre $259,233,125 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,901** sobre $475,000 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$399,066** sobre $259,281,125 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,868** sobre $475,100 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 3edmond.dantes | Will Stade Rennais FC 1901 win on 2026-10-11? | Yes | 1.49 (67¢) | $121,493 | — | ⏳ Pendiente |
 | 0xe312101A6EA5c00821B74e2855c2674147B2e0b2-1730831637679 | Bears vs. Packers | Bears | 1.89 (53¢) | $49,222 | — | ⏳ Pendiente |
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $132,346 | — | ⏳ Pendiente |
-| eth10001 | Will Real Sociedad de Fútbol vs. RC Deportivo A Coruña end in a draw? | No | 1.33 (75¢) | $48,000 | — | ⏳ Pendiente |
+| eth10001 | Will Real Sociedad de Fútbol vs. RC Deportivo A Coruña end in a draw? | No | 1.33 (75¢) | $48,000 | +$16,000 | ✅ Ganada |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $62,766 | -$62,766 | ❌ Perdida |
 | para-Vision | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.54 (65¢) | $26,000 | -$26,000 | ❌ Perdida |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.45 (69¢) | $34,274 | — | ⏳ Pendiente |
