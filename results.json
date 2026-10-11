@@ -72282,5 +72282,20 @@
     "status": "pending",
     "ultimo_fill": 1791693181,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9811,
+    "timestamp": 1791695627,
+    "username": "veliMax",
+    "wallet": "0x3435519d1d620440c7dab8b5c9ec5d79c1a5a1ed",
+    "slug": "cfb-boise-frest-2026-10-10",
+    "title": "Boise State vs. Fresno State",
+    "outcome": "Boise State",
+    "side": "BUY",
+    "usd": 52969.9028,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1791695627,
+    "fills": 1
   }
 ]
