@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 09:55:40 (hora de Perú)
+Actualizado: 2026-10-11 09:57:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4879**  ($263,683,595 en total)
+- Apuestas registradas: **4880**  ($263,753,995 en total)
 - Resueltas: **4797** — 2936 ganadas / 1861 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Pendientes: 62
 - Apostadores distintos: 551
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Elaran1993 | 10 | 8 | 0 | 56% | $1,309,851 | +$248,205 |
+| S-Works | 7 | 3 | 1 | 70% | $1,313,423 | -$120,763 |
 
 _(mostrando los 40 de mayor monto, de 551 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.56 (64¢) | $70,400 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | MOUZ | 2.78 (36¢) | $44,649 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Eagles vs. Jaguars | Jaguars | 1.92 (52¢) | $32,773 | — | ⏳ Pendiente |
 | 0x543f6FdD37cA39Efd4ee7a98f8B7eFEEb8c68323-1791538722885 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $27,112 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | p1252 | Will Manchester City FC win on 2026-10-11? | Yes | 2.17 (46¢) | $27,600 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Valorant: G2 Esports vs T1 (BO3) - VCT Champions Playoffs | G2 Esports | 1.61 (62¢) | $25,551 | +$15,660 | ✅ Ganada |
 | lsiflsliggjriek | Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik | Jakub Mensik | 1.82 (55¢) | $73,823 | +$60,401 | ✅ Ganada |
-| fortnitethegoat667 | Valorant: 100 Thieves vs NRG (BO3) - VCT Champions Playoffs | 100 Thieves | 1.72 (58¢) | $31,341 | +$22,695 | ✅ Ganada |
