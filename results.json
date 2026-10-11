@@ -72154,5 +72154,35 @@
     "status": "pending",
     "ultimo_fill": 1791680507,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9782,
+    "timestamp": 1791680735,
+    "username": "Pwaddler",
+    "wallet": "0x1d1ade627d0bb0205758580b20d808573e720df6",
+    "slug": "nfl-sf-sea-2026-10-11-total-46pt5",
+    "title": "49ers vs. Seahawks: O/U 46.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 31048.360899999996,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791680735,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9783,
+    "timestamp": 1791680738,
+    "username": "1827575782",
+    "wallet": "0x27989d8c715acc53e921ea0950ee97306b590b7d",
+    "slug": "cfb-lsu-uk-2026-10-10",
+    "title": "LSU vs. Kentucky",
+    "outcome": "LSU",
+    "side": "BUY",
+    "usd": 26394.222400000002,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1791680738,
+    "fills": 1
   }
 ]

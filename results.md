@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 20:05:13 (hora de Perú)
+Actualizado: 2026-10-10 20:07:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4801**  ($258,196,327 en total)
+- Apuestas registradas: **4803**  ($258,253,769 en total)
 - Resueltas: **4755** — 2913 ganadas / 1842 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 27
 - Apostadores distintos: 544
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 544 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $26,394 | — | ⏳ Pendiente |
+| Pwaddler | 49ers vs. Seahawks: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $31,048 | — | ⏳ Pendiente |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $47,499 | — | ⏳ Pendiente |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $70,821 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Boise State (-7.5) | Boise State | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 544 en total)_
 | Flaznorp | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $44,938 | +$9,204 | ✅ Ganada |
 | n0tTODAY | Will Real Madrid CF vs. Villarreal CF end in a draw? | No | 1.20 (83¢) | $25,730 | +$5,270 | ✅ Ganada |
 | ScroooogeMcDuck | Counter-Strike: MOUZ vs Spirit - Map 2 Winner | Spirit | 1.69 (59¢) | $33,975 | +$23,610 | ✅ Ganada |
-| vdsgsdfgb | Will FC Barcelona win on 2026-10-10? | Yes | 1.14 (88¢) | $35,990 | +$4,908 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.10 (91¢) | $37,857 | +$3,744 | ✅ Ganada |
