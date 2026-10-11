@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 19:42:02 (hora de Perú)
+Actualizado: 2026-10-10 19:44:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4796**  ($257,967,369 en total)
+- Apuestas registradas: **4797**  ($258,012,838 en total)
 - Resueltas: **4754** — 2913 ganadas / 1841 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 543
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 347 | 184 | 5 | 65% | $33,319,194 | +$905,249 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 347 | 184 | 6 | 65% | $33,364,663 | +$905,249 |
 | Sassy-Bucket | 66 | 63 | 2 | 51% | $7,321,631 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 88 | 80 | 1 | 52% | $6,908,269 | -$469,579 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Andre Fili vs. Kai Kamaka III (Featherweight, Main Card) | Kai Kamaka III | 2.17 (46¢) | $45,469 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Purdue | Purdue | 2.00 (50¢) | $27,752 | — | ⏳ Pendiente |
 | surfandturf | UFC Fight Night: Otari Tanzilovi vs. Malcolm Wellmaker (Bantamweight, Main Card) | Malcolm Wellmaker | 1.56 (64¢) | $30,400 | — | ⏳ Pendiente |
 | ethanaz | Georgia vs. Alabama | Georgia | 2.00 (50¢) | $52,674 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 | ethBELIVER | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
 | chubbytoro | Flyers vs. Bruins | Bruins | 1.79 (56¢) | $134,214 | +$105,454 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.49 (67¢) | $182,662 | +$89,968 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs | Vitality | 1.12 (89¢) | $49,775 | +$6,152 | ✅ Ganada |
