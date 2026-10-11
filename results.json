@@ -72519,7 +72519,7 @@
     "side": "BUY",
     "usd": 43199.125,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791717327,
     "fills": 1
   },
@@ -72534,7 +72534,7 @@
     "side": "BUY",
     "usd": 47077.13999899999,
     "odds_at_bet": 69,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791717700,
     "fills": 1
   },
@@ -72744,7 +72744,7 @@
     "side": "BUY",
     "usd": 36000.0,
     "odds_at_bet": 36,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791722219,
     "fills": 1
   },
@@ -73032,5 +73032,50 @@
     "status": "pending",
     "ultimo_fill": 1791726736,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9876,
+    "timestamp": 1791727173,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "cs2-vit-mouz-2026-10-11",
+    "title": "Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 49389.119,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1791727173,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9877,
+    "timestamp": 1791727254,
+    "username": "BillyGating",
+    "wallet": "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60",
+    "slug": "dota2-ty-ts8-2026-10-11",
+    "title": "Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 88352.17,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "ultimo_fill": 1791727254,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9878,
+    "timestamp": 1791727264,
+    "username": "1827575782",
+    "wallet": "0x27989d8c715acc53e921ea0950ee97306b590b7d",
+    "slug": "nfl-phi-jax-2026-10-11",
+    "title": "Eagles vs. Jaguars",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 197662.0432,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1791727283,
+    "fills": 2
   }
 ]
