@@ -73512,5 +73512,20 @@
     "status": "pending",
     "ultimo_fill": 1791732618,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9923,
+    "timestamp": 1791733053,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-phi-jax-2026-10-11",
+    "title": "Eagles vs. Jaguars",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 28991.385000000002,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1791733053,
+    "fills": 1
   }
 ]

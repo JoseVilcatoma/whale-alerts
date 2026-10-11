@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 10:35:43 (hora de Perú)
+Actualizado: 2026-10-11 10:37:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4891**  ($264,552,316 en total)
+- Apuestas registradas: **4892**  ($264,581,308 en total)
 - Resueltas: **4807** — 2942 ganadas / 1865 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Pendientes: 64
 - Apostadores distintos: 551
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
-| ferrariChampions2026 | 78 | 39 | 1 | 67% | $4,769,478 | +$41,887 |
+| ferrariChampions2026 | 78 | 39 | 2 | 67% | $4,798,469 | +$41,887 |
 | BrotherObama | 39 | 41 | 3 | 49% | $3,753,097 | +$33,271 |
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Eagles vs. Jaguars | Jaguars | 2.17 (46¢) | $28,991 | — | ⏳ Pendiente |
 | Kch-Temp | Vikings vs. Saints | Vikings | 1.79 (56¢) | $146,703 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.35 (74¢) | $26,306 | — | ⏳ Pendiente |
 | p1252 | Will Manchester City FC win on 2026-10-11? | No | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | Jsram | Crystal Palace FC vs. Nottingham Forest FC: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $32,500 | — | ⏳ Pendiente |
 | RJW1 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $43,200 | +$36,800 | ✅ Ganada |
 | gmpm2 | Eagles vs. Jaguars: O/U 42.5 | Over 42.5 | 2.13 (47¢) | $31,188 | — | ⏳ Pendiente |
-| Dragon-Evolution | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
