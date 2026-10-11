@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 06:12:56 (hora de Perú)
+Actualizado: 2026-10-11 06:15:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4823**  ($259,456,341 en total)
+- Apuestas registradas: **4824**  ($259,483,941 en total)
 - Resueltas: **4785** — 2932 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 548
 
 ### Balance
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Kkunn | China Open: Qinwen Zheng vs Mirra Andreeva | Qinwen Zheng | 2.50 (40¢) | $29,976 | — | ⏳ Pendiente |
+| p1252 | Will Manchester City FC win on 2026-10-11? | Yes | 2.17 (46¢) | $27,600 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Valorant: G2 Esports vs T1 (BO3) - VCT Champions Playoffs | G2 Esports | 1.61 (62¢) | $25,551 | — | ⏳ Pendiente |
 | lsiflsliggjriek | Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik | Jakub Mensik | 1.82 (55¢) | $73,823 | +$60,401 | ✅ Ganada |
 | fortnitethegoat667 | Valorant: 100 Thieves vs NRG (BO3) - VCT Champions Playoffs | 100 Thieves | 1.72 (58¢) | $31,341 | +$22,695 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | MinevaJ | Will Real Madrid CF win on 2026-10-10? | Yes | 1.14 (88¢) | $30,423 | +$4,149 | ✅ Ganada |
 | curie | Will Real Madrid CF win on 2026-10-10? | Yes | 1.11 (90¢) | $78,247 | +$8,694 | ✅ Ganada |
 | 177-letsgo | Texas vs. Oklahoma | Texas | 1.15 (87¢) | $26,099 | -$26,099 | ❌ Perdida |
-| 177-letsgo | Texas vs. Oklahoma | Texas | 1.28 (78¢) | $83,158 | -$83,158 | ❌ Perdida |
