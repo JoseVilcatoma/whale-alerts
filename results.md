@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 15:32:01 (hora de Perú)
+Actualizado: 2026-10-11 15:34:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4924**  ($266,075,519 en total)
-- Resueltas: **4874** — 2989 ganadas / 1885 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **4875** — 2989 ganadas / 1886 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: +$519,750** sobre $264,007,138 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,328** sobre $480,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$494,550** sobre $264,032,338 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,428** sobre $481,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
 | ndb1 | 23 | 11 | 1 | 68% | $1,869,615 | +$412,607 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| SDTrading | 29 | 29 | 2 | 50% | $1,787,724 | -$135,793 |
+| SDTrading | 29 | 30 | 1 | 49% | $1,787,724 | -$160,993 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | Talvez10 | 19 | 18 | 0 | 51% | $1,741,461 | +$155,737 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 28 | 2 | 0 | 93% | $1,700,416 | +$89,015 |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Liverpool FC win on 2026-10-11? | No | 1.32 (76¢) | $64,748 | +$20,447 | ✅ Ganada |
 | RJW1 | Will Manchester City FC win on 2026-10-11? | Yes | 2.44 (41¢) | $71,138 | +$102,369 | ✅ Ganada |
 | SDTrading | Browns vs. Jets | Jets | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
-| SDTrading | Spread: Steelers (-3.5) | Colts | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
+| SDTrading | Spread: Steelers (-3.5) | Colts | 1.79 (56¢) | $25,200 | -$25,200 | ❌ Perdida |
 | tiger105 | Will SC Freiburg win on 2026-10-11? | Yes | 1.25 (80¢) | $26,236 | +$6,559 | ✅ Ganada |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | StasPanda | Will Liverpool FC win on 2026-10-11? | No | 1.37 (73¢) | $25,921 | +$9,587 | ✅ Ganada |
