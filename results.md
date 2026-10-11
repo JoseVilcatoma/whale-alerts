@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 11:01:01 (hora de Perú)
+Actualizado: 2026-10-11 11:03:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4895**  ($264,658,465 en total)
-- Resueltas: **4811** — 2942 ganadas / 1869 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Resueltas: **4814** — 2942 ganadas / 1872 perdidas (**61%** de acierto)
+- Pendientes: 60
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: -$264,380** sobre $259,082,439 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,601** sobre $474,700 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$415,066** sobre $259,233,125 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,901** sobre $475,000 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 39 | 41 | 3 | 49% | $3,753,097 | +$33,271 |
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Lakersfan111 | 43 | 26 | 6 | 62% | $3,434,459 | +$226,296 |
+| Lakersfan111 | 43 | 28 | 4 | 61% | $3,434,459 | +$101,611 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 7 | 1 | 81% | $3,197,856 | +$560,925 |
 | maz26 | 25 | 16 | 3 | 61% | $3,083,655 | +$128 |
@@ -95,10 +95,10 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 0xe312101A6EA5c00821B74e2855c2674147B2e0b2-1730831637679 | Bears vs. Packers | Bears | 1.89 (53¢) | $49,222 | — | ⏳ Pendiente |
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $132,346 | — | ⏳ Pendiente |
 | eth10001 | Will Real Sociedad de Fútbol vs. RC Deportivo A Coruña end in a draw? | No | 1.33 (75¢) | $48,000 | — | ⏳ Pendiente |
-| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $62,766 | — | ⏳ Pendiente |
-| para-Vision | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
+| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $62,766 | -$62,766 | ❌ Perdida |
+| para-Vision | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.54 (65¢) | $26,000 | -$26,000 | ❌ Perdida |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.45 (69¢) | $34,274 | — | ⏳ Pendiente |
-| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $61,920 | — | ⏳ Pendiente |
+| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $61,920 | -$61,920 | ❌ Perdida |
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $241,851 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.47 (68¢) | $233,495 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Games Total: O/U 3.5 | Under 3.5 | 3.57 (28¢) | $28,000 | — | ⏳ Pendiente |
