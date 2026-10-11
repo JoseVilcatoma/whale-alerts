@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 21:44:12 (hora de Perú)
+Actualizado: 2026-10-10 21:46:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4805**  ($258,332,667 en total)
-- Resueltas: **4759** — 2916 ganadas / 1843 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **4763** — 2920 ganadas / 1843 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 545
 
 ### Balance
 
-- **Resultado de los apostadores: +$127,612** sobre $256,379,271 apostados (ROI **+0.0%**)
+- **Resultado de los apostadores: +$137,144** sobre $256,557,188 apostados (ROI **+0.1%**)
 - Copiando $100 fijo en cada una: **-$4,626** sobre $469,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -72,11 +72,11 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | gangmusic | UFC Fight Night: Brendan Allen vs. Christian Leroy Duncan (Middleweight, Main Card) | Brendan Allen | 1.96 (51¢) | $45,695 | — | ⏳ Pendiente |
-| 1827575782 | LSU vs. Kentucky | LSU | 1.59 (63¢) | $33,203 | — | ⏳ Pendiente |
-| 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $26,394 | — | ⏳ Pendiente |
+| 1827575782 | LSU vs. Kentucky | LSU | 1.59 (63¢) | $33,203 | +$1,779 | 💰 Vendida antes |
+| 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $26,394 | +$1,414 | 💰 Vendida antes |
 | Pwaddler | 49ers vs. Seahawks: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $31,048 | — | ⏳ Pendiente |
-| 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $47,499 | — | ⏳ Pendiente |
-| 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $70,821 | — | ⏳ Pendiente |
+| 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $47,499 | +$2,545 | 💰 Vendida antes |
+| 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $70,821 | +$3,794 | 💰 Vendida antes |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Boise State (-7.5) | Boise State | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Cardinals: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $33,368 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Andre Fili vs. Kai Kamaka III (Featherweight, Main Card) | Kai Kamaka III | 2.17 (46¢) | $45,469 | -$45,469 | ❌ Perdida |
