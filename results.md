@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 10:27:20 (hora de Perú)
+Actualizado: 2026-10-11 10:29:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4888**  ($264,352,807 en total)
+- Apuestas registradas: **4890**  ($264,405,613 en total)
 - Resueltas: **4803** — 2940 ganadas / 1863 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Pendientes: 66
 - Apostadores distintos: 551
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NS13 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.35 (74¢) | $26,306 | — | ⏳ Pendiente |
+| p1252 | Will Manchester City FC win on 2026-10-11? | No | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 1827575782 | Will Liverpool FC win on 2026-10-11? | No | 1.35 (74¢) | $81,400 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Commanders (-3.5) | Giants | 1.92 (52¢) | $111,167 | — | ⏳ Pendiente |
 | nb1985 | Will Manchester City FC win on 2026-10-11? | Yes | 2.08 (48¢) | $150,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | gmpm2 | Eagles vs. Jaguars: O/U 42.5 | Over 42.5 | 2.13 (47¢) | $31,188 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-6.5) | Eagles | 2.44 (41¢) | $33,077 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Olbia: Ivan Marrero Curbelo vs Andrea Colombo | Ivan Marrero Curbelo | 1.33 (75¢) | $149,716 | +$49,905 | ✅ Ganada |
-| Herdonia | Eagles vs. Jaguars | Jaguars | 1.30 (77¢) | $41,188 | — | ⏳ Pendiente |
