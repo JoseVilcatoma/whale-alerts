@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 18:46:18 (hora de Perú)
+Actualizado: 2026-10-11 18:48:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4942**  ($267,167,199 en total)
-- Resueltas: **4891** — 2998 ganadas / 1893 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **4897** — 3002 ganadas / 1895 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: +$633,675** sobre $264,689,797 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,359** sobre $482,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$587,507** sobre $265,119,940 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,490** sobre $483,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,12 +39,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 46 | 28 | 2 | 62% | $3,460,248 | +$144,817 |
-| maz26 | 27 | 18 | 3 | 60% | $3,330,038 | +$61,849 |
+| maz26 | 27 | 19 | 2 | 59% | $3,330,038 | +$32,368 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 8 | 0 | 79% | $3,197,856 | +$529,990 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| mooseborzoii | 33 | 16 | 4 | 67% | $2,572,790 | +$569,079 |
+| mooseborzoii | 33 | 17 | 3 | 66% | $2,572,790 | +$511,711 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 19 | 18 | 0 | 51% | $1,741,461 | +$155,737 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 28 | 2 | 0 | 93% | $1,700,416 | +$89,015 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| 1827575782 | 11 | 0 | 2 | 100% | $1,675,207 | +$181,266 |
+| 1827575782 | 13 | 0 | 0 | 100% | $1,675,207 | +$208,027 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
 | cosmicxbt | 15 | 4 | 0 | 79% | $1,501,518 | +$34,467 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -83,15 +83,15 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | ferrariChampions2026 | 49ers vs. Seahawks | Seahawks | 3.45 (29¢) | $130,000 | — | ⏳ Pendiente |
 | mooseborzoii | 49ers vs. Seahawks | 49ers | 1.41 (71¢) | $43,640 | — | ⏳ Pendiente |
 | yoyoyoyoer | 49ers vs. Seahawks | 49ers | 1.41 (71¢) | $25,122 | — | ⏳ Pendiente |
-| 1827575782 | Lions vs. Cardinals | Lions | 1.08 (93¢) | $128,547 | — | ⏳ Pendiente |
-| Hashbrown | Lions vs. Cardinals | Lions | 1.10 (91¢) | $35,490 | — | ⏳ Pendiente |
-| 1827575782 | Lions vs. Cardinals | Lions | 1.11 (90¢) | $153,770 | — | ⏳ Pendiente |
-| KaneAnalytics | Lions vs. Cardinals | Lions | 1.41 (71¢) | $25,487 | — | ⏳ Pendiente |
+| 1827575782 | Lions vs. Cardinals | Lions | 1.08 (93¢) | $128,547 | +$9,676 | ✅ Ganada |
+| Hashbrown | Lions vs. Cardinals | Lions | 1.10 (91¢) | $35,490 | +$3,510 | ✅ Ganada |
+| 1827575782 | Lions vs. Cardinals | Lions | 1.11 (90¢) | $153,770 | +$17,086 | ✅ Ganada |
+| KaneAnalytics | Lions vs. Cardinals | Lions | 1.41 (71¢) | $25,487 | +$10,410 | ✅ Ganada |
 | NS13 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $34,402 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 49ers vs. Seahawks | Seahawks | 1.79 (56¢) | $30,000 | — | ⏳ Pendiente |
 | gmpm2 | 49ers vs. Seahawks | Seahawks | 1.64 (61¢) | $29,368 | — | ⏳ Pendiente |
-| mooseborzoii | Spread: Lions (-5.5) | Cardinals | 2.00 (50¢) | $57,368 | — | ⏳ Pendiente |
-| gmpm2 | Lions vs. Cardinals | Cardinals | 3.23 (31¢) | $29,481 | — | ⏳ Pendiente |
+| mooseborzoii | Spread: Lions (-5.5) | Cardinals | 2.00 (50¢) | $57,368 | -$57,368 | ❌ Perdida |
+| gmpm2 | Lions vs. Cardinals | Cardinals | 3.23 (31¢) | $29,481 | -$29,481 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-3.5) | 49ers | 1.79 (56¢) | $56,418 | — | ⏳ Pendiente |
 | ndb1 | 49ers vs. Seahawks | Seahawks | 1.69 (59¢) | $38,829 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Jets | Browns | 11.11 (9¢) | $26,578 | -$26,578 | ❌ Perdida |
