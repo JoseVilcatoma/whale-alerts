@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 22:52:00 (hora de Perú)
+Actualizado: 2026-10-10 22:54:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4807**  ($258,892,431 en total)
-- Resueltas: **4777** — 2925 ganadas / 1852 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **4778** — 2926 ganadas / 1852 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 545
 
 ### Balance
 
-- **Resultado de los apostadores: -$98,037** sobre $257,161,692 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$5,058** sobre $471,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$54,133** sobre $257,207,387 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,962** sobre $471,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 |---|---|---|---|---|---|---|
 | 1827575782 | Boise State vs. Fresno State | Boise State | 1.15 (87¢) | $92,442 | — | ⏳ Pendiente |
 | 1827575782 | Boise State vs. Fresno State | Boise State | 1.12 (89¢) | $467,322 | — | ⏳ Pendiente |
-| gangmusic | UFC Fight Night: Brendan Allen vs. Christian Leroy Duncan (Middleweight, Main Card) | Brendan Allen | 1.96 (51¢) | $45,695 | — | ⏳ Pendiente |
+| gangmusic | UFC Fight Night: Brendan Allen vs. Christian Leroy Duncan (Middleweight, Main Card) | Brendan Allen | 1.96 (51¢) | $45,695 | +$43,903 | ✅ Ganada |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.59 (63¢) | $33,203 | +$1,779 | 💰 Vendida antes |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $26,394 | +$1,414 | 💰 Vendida antes |
 | Pwaddler | 49ers vs. Seahawks: O/U 46.5 | Over 46.5 | 1.96 (51¢) | $31,048 | — | ⏳ Pendiente |
