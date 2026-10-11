@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 04:15:11 (hora de Perú)
+Actualizado: 2026-10-11 06:10:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4822**  ($259,426,365 en total)
-- Resueltas: **4783** — 2930 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **4785** — 2932 ganadas / 1853 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 547
 
 ### Balance
 
-- **Resultado de los apostadores: +$17,683** sobre $257,882,421 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,945** sobre $471,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$100,779** sobre $257,987,585 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,790** sobre $472,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 7 | 0 | 81% | $3,166,921 | +$560,925 |
-| Lakersfan111 | 41 | 23 | 4 | 64% | $3,123,937 | +$300,812 |
+| Lakersfan111 | 42 | 23 | 3 | 65% | $3,123,937 | +$323,507 |
 | maz26 | 25 | 16 | 0 | 61% | $2,678,271 | +$128 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Kch-Temp | 30 | 10 | 1 | 75% | $2,489,786 | +$1,280,240 |
@@ -72,8 +72,8 @@ _(mostrando los 40 de mayor monto, de 547 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | fortnitethegoat667 | Valorant: G2 Esports vs T1 (BO3) - VCT Champions Playoffs | G2 Esports | 1.61 (62¢) | $25,551 | — | ⏳ Pendiente |
-| lsiflsliggjriek | Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik | Jakub Mensik | 1.82 (55¢) | $73,823 | — | ⏳ Pendiente |
-| fortnitethegoat667 | Valorant: 100 Thieves vs NRG (BO3) - VCT Champions Playoffs | 100 Thieves | 1.72 (58¢) | $31,341 | — | ⏳ Pendiente |
+| lsiflsliggjriek | Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik | Jakub Mensik | 1.82 (55¢) | $73,823 | +$60,401 | ✅ Ganada |
+| fortnitethegoat667 | Valorant: 100 Thieves vs NRG (BO3) - VCT Champions Playoffs | 100 Thieves | 1.72 (58¢) | $31,341 | +$22,695 | ✅ Ganada |
 | Thesisters2 | Cagliari Calcio vs. Juventus FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $34,284 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.37 (73¢) | $27,072 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.41 (71¢) | $42,600 | — | ⏳ Pendiente |
