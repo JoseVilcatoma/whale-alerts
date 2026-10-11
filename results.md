@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 08:36:42 (hora de Perú)
+Actualizado: 2026-10-11 08:38:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4854**  ($261,649,568 en total)
+- Apuestas registradas: **4855**  ($261,681,934 en total)
 - Resueltas: **4788** — 2934 ganadas / 1854 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 549
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 39 | 41 | 2 | 49% | $3,708,447 | +$33,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Lakersfan111 | 42 | 23 | 5 | 65% | $3,205,621 | +$323,507 |
+| Lakersfan111 | 42 | 23 | 6 | 65% | $3,237,987 | +$323,507 |
 | surfandturf | 30 | 7 | 1 | 81% | $3,197,856 | +$560,925 |
 | maz26 | 25 | 16 | 1 | 61% | $2,709,458 | +$128 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.41 (71¢) | $32,366 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $56,892 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Nottingham Forest FC win on 2026-10-11? | Yes | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Jaguars (-7.5) | Eagles | 2.00 (50¢) | $149,799 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Lions vs. Cardinals: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $33,368 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Andre Fili vs. Kai Kamaka III (Featherweight, Main Card) | Kai Kamaka III | 2.17 (46¢) | $45,469 | -$45,469 | ❌ Perdida |
 | ethanaz | Minnesota vs. Purdue | Purdue | 2.00 (50¢) | $27,752 | +$27,752 | ✅ Ganada |
-| surfandturf | UFC Fight Night: Otari Tanzilovi vs. Malcolm Wellmaker (Bantamweight, Main Card) | Malcolm Wellmaker | 1.56 (64¢) | $30,400 | -$30,400 | ❌ Perdida |
