@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 18:29:57 (hora de Perú)
+Actualizado: 2026-10-11 18:31:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4940**  ($267,076,305 en total)
-- Resueltas: **4886** — 2997 ganadas / 1889 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **4888** — 2998 ganadas / 1890 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: +$754,893** sobre $264,501,842 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,059** sobre $482,100 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$739,262** sobre $264,584,210 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,059** sobre $482,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 355 | 189 | 4 | 65% | $33,836,459 | +$994,937 |
 | Sassy-Bucket | 68 | 64 | 2 | 52% | $7,635,482 | -$470,344 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 1 | 52% | $6,989,069 | -$482,629 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 82 | 0 | 52% | $6,989,069 | -$531,628 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Diabolical-Prize | 60 | 58 | 0 | 51% | $6,230,697 | -$269,712 |
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 1827575782 | Vikings vs. Saints | Vikings | 1.08 (93¢) | $139,500 | +$10,500 | ✅ Ganada |
 | UpTheBlues | Will CA Platense win on 2026-10-11? | No | 1.47 (68¢) | $26,483 | +$12,463 | ✅ Ganada |
 | Donkey14 | 49ers vs. Seahawks | Seahawks | 1.67 (60¢) | $75,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Lions vs. Cardinals: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Lions vs. Cardinals: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $49,000 | -$49,000 | ❌ Perdida |
 | beeemw | Vikings vs. Saints | Vikings | 1.27 (79¢) | $60,040 | +$15,960 | ✅ Ganada |
 | cosmicxbt | Vikings vs. Saints | Vikings | 1.27 (79¢) | $118,500 | +$31,500 | ✅ Ganada |
 | ferrariChampions2026 | Vikings vs. Saints | Vikings | 1.41 (71¢) | $32,746 | +$13,375 | ✅ Ganada |
