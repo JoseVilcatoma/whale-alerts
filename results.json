@@ -73784,5 +73784,35 @@
     "status": "pending",
     "ultimo_fill": 1791745636,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9973,
+    "timestamp": 1791746668,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nfl-sf-sea-2026-10-11",
+    "title": "49ers vs. Seahawks",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 75000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1791746668,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9974,
+    "timestamp": 1791746691,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "arg-pla-aaj-2026-10-11-pla",
+    "title": "Will CA Platense win on 2026-10-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 26482.940000000002,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1791746691,
+    "fills": 1
   }
 ]

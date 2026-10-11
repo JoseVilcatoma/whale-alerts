@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 14:23:24 (hora de Perú)
+Actualizado: 2026-10-11 14:25:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4909**  ($265,398,499 en total)
+- Apuestas registradas: **4911**  ($265,499,982 en total)
 - Resueltas: **4855** — 2976 ganadas / 1879 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 35
 - Apostadores distintos: 551
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will CA Platense win on 2026-10-11? | No | 1.47 (68¢) | $26,483 | — | ⏳ Pendiente |
+| Donkey14 | 49ers vs. Seahawks | Seahawks | 1.67 (60¢) | $75,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Lions vs. Cardinals: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | beeemw | Vikings vs. Saints | Vikings | 1.27 (79¢) | $60,040 | — | ⏳ Pendiente |
 | cosmicxbt | Vikings vs. Saints | Vikings | 1.27 (79¢) | $118,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | juice-fruit | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $56,892 | +$30,634 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Nottingham Forest FC win on 2026-10-11? | Yes | 1.56 (64¢) | $32,000 | -$32,000 | ❌ Perdida |
 | Sassy-Bucket | Spread: Jaguars (-7.5) | Eagles | 2.00 (50¢) | $149,799 | +$149,799 | ✅ Ganada |
-| qiu3 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $37,552 | +$20,220 | ✅ Ganada |
-| fraagen | Will 1. FC Köln win on 2026-10-11? | No | 1.96 (51¢) | $25,704 | -$25,704 | ❌ Perdida |
