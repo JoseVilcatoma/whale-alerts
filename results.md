@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 09:01:34 (hora de Perú)
+Actualizado: 2026-10-11 09:03:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4862**  ($262,263,353 en total)
+- Apuestas registradas: **4863**  ($262,321,334 en total)
 - Resueltas: **4795** — 2935 ganadas / 1860 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 549
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 66 | 63 | 3 | 51% | $7,471,431 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 0 | 52% | $6,940,069 | -$482,629 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| 3edmond.dantes | 23 | 20 | 1 | 53% | $6,321,472 | -$1,657,043 |
+| 3edmond.dantes | 23 | 20 | 2 | 53% | $6,379,453 | -$1,657,043 |
 | Diabolical-Prize | 59 | 58 | 0 | 50% | $5,997,202 | -$379,592 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.82 (55¢) | $57,981 | — | ⏳ Pendiente |
 | 1827575782 | Eagles vs. Jaguars | Jaguars | 1.20 (83¢) | $197,662 | — | ⏳ Pendiente |
 | BillyGating | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Spirit | 3.23 (31¢) | $88,352 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $49,389 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 | 1827575782 | Boise State vs. Fresno State | Boise State | 1.12 (89¢) | $467,322 | +$57,759 | ✅ Ganada |
 | gangmusic | UFC Fight Night: Brendan Allen vs. Christian Leroy Duncan (Middleweight, Main Card) | Brendan Allen | 1.96 (51¢) | $45,695 | +$43,903 | ✅ Ganada |
 | 1827575782 | LSU vs. Kentucky | LSU | 1.59 (63¢) | $33,203 | +$1,779 | 💰 Vendida antes |
-| 1827575782 | LSU vs. Kentucky | LSU | 1.79 (56¢) | $26,394 | +$1,414 | 💰 Vendida antes |
