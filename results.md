@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 18:34:00 (hora de Perú)
+Actualizado: 2026-10-11 18:36:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4940**  ($267,076,305 en total)
+- Apuestas registradas: **4941**  ($267,112,018 en total)
 - Resueltas: **4888** — 2998 ganadas / 1890 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 551
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 30 | 8 | 0 | 79% | $3,197,856 | +$529,990 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| mooseborzoii | 33 | 15 | 4 | 69% | $2,537,077 | +$596,879 |
+| mooseborzoii | 33 | 15 | 5 | 69% | $2,572,790 | +$596,879 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | 49ers vs. Seahawks | 49ers | 1.67 (60¢) | $35,714 | — | ⏳ Pendiente |
 | 3648393489047 | 49ers vs. Seahawks | Seahawks | 1.39 (72¢) | $50,400 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | 49ers vs. Seahawks | Seahawks | 1.41 (71¢) | $25,139 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | 49ers vs. Seahawks | Seahawks | 1.47 (68¢) | $38,144 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | wan123 | Bengals vs. Dolphins | Dolphins | 4.00 (25¢) | $25,000 | -$25,000 | ❌ Perdida |
 | cosmicxbt | Eagles vs. Jaguars | Jaguars | 1.85 (54¢) | $80,690 | +$1,494 | 💰 Vendida antes |
 | fantasy7788 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.52 (66¢) | $49,000 | +$25,242 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Jaguars | Eagles | 2.50 (40¢) | $76,555 | -$76,555 | ❌ Perdida |
