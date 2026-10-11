@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 07:55:29 (hora de Perú)
+Actualizado: 2026-10-11 07:57:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4847**  ($260,750,674 en total)
+- Apuestas registradas: **4848**  ($260,799,932 en total)
 - Resueltas: **4786** — 2933 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 548
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 186 | 4 | 65% | $33,428,240 | +$887,170 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 186 | 5 | 65% | $33,477,498 | +$887,170 |
 | Sassy-Bucket | 66 | 63 | 2 | 51% | $7,321,631 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 0 | 52% | $6,940,069 | -$482,629 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-10.5) | Eagles | 1.69 (59¢) | $49,258 | — | ⏳ Pendiente |
 | surfandturf | Spread: Jaguars (-5.5) | Jaguars | 1.61 (62¢) | $30,935 | — | ⏳ Pendiente |
 | mooseborzoii | Will Bologna FC 1909 win on 2026-10-11? | Yes | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
 | ripley86alien | Will Bologna FC 1909 win on 2026-10-11? | No | 1.82 (55¢) | $66,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | mooseborzoii | Georgia vs. Alabama | Alabama | 1.92 (52¢) | $25,218 | -$25,218 | ❌ Perdida |
 | ohcanada123 | Georgia vs. Alabama | Georgia | 2.17 (46¢) | $29,361 | +$34,467 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Georgia vs. Alabama: O/U 51.5 | Over 51.5 | 1.92 (52¢) | $37,806 | -$37,806 | ❌ Perdida |
-| BoggsFromShawshank | Georgia vs. Alabama | Alabama | 1.85 (54¢) | $35,640 | -$35,640 | ❌ Perdida |
