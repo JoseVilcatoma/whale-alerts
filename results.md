@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 14:46:08 (hora de Perú)
+Actualizado: 2026-10-11 14:48:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4914**  ($265,698,189 en total)
+- Apuestas registradas: **4915**  ($265,723,978 en total)
 - Resueltas: **4856** — 2976 ganadas / 1880 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 551
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 39 | 42 | 2 | 48% | $3,753,097 | -$11,378 |
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Lakersfan111 | 43 | 28 | 4 | 61% | $3,434,459 | +$101,611 |
+| Lakersfan111 | 43 | 28 | 5 | 61% | $3,460,248 | +$101,611 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 8 | 0 | 79% | $3,197,856 | +$529,990 |
 | maz26 | 25 | 17 | 3 | 60% | $3,115,479 | -$31,059 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $25,790 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will SC Internacional win on 2026-10-11? | Yes | 2.86 (35¢) | $26,882 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Broncos (-3.5) | Chargers | 1.96 (51¢) | $31,824 | — | ⏳ Pendiente |
 | 1827575782 | Vikings vs. Saints | Vikings | 1.08 (93¢) | $139,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 3edmond.dantes | Will Real Sociedad de Fútbol win on 2026-10-11? | Yes | 1.85 (54¢) | $140,386 | +$119,588 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Jaguars | Jaguars | 1.47 (68¢) | $42,130 | +$19,826 | ✅ Ganada |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.39 (72¢) | $37,511 | — | ⏳ Pendiente |
-| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.41 (71¢) | $32,366 | — | ⏳ Pendiente |
