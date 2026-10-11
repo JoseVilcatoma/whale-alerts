@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 17:12:56 (hora de Perú)
+Actualizado: 2026-10-11 17:14:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4934**  ($266,837,686 en total)
+- Apuestas registradas: **4935**  ($266,870,813 en total)
 - Resueltas: **4884** — 2995 ganadas / 1889 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 551
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| askilika | Magic vs. Cavaliers | Cavaliers | 1.54 (65¢) | $33,127 | — | ⏳ Pendiente |
 | gmpm2 | Spread: 49ers (-4.5) | Seahawks | 2.00 (50¢) | $155,710 | — | ⏳ Pendiente |
 | ferrariChampions2026 | 49ers vs. Seahawks | Seahawks | 3.45 (29¢) | $130,000 | — | ⏳ Pendiente |
 | mooseborzoii | 49ers vs. Seahawks | 49ers | 1.41 (71¢) | $43,640 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | ferrariChampions2026 | Eagles vs. Jaguars | Jaguars | 1.92 (52¢) | $32,773 | +$30,252 | ✅ Ganada |
 | 0x543f6FdD37cA39Efd4ee7a98f8B7eFEEb8c68323-1791538722885 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $27,112 | +$14,599 | ✅ Ganada |
 | 3edmond.dantes | Will Stade Rennais FC 1901 win on 2026-10-11? | Yes | 1.47 (68¢) | $188,887 | +$88,888 | ✅ Ganada |
-| 3edmond.dantes | Will Stade Rennais FC 1901 win on 2026-10-11? | Yes | 1.49 (67¢) | $121,493 | +$59,840 | ✅ Ganada |

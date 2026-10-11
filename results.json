@@ -74159,5 +74159,20 @@
     "status": "pending",
     "ultimo_fill": 1791756735,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 10027,
+    "timestamp": 1791756870,
+    "username": "askilika",
+    "wallet": "0x0979bad57d7a1403db89cbcd9c52bf43f2138d9b",
+    "slug": "nba-orl-cle-2026-10-11",
+    "title": "Magic vs. Cavaliers",
+    "outcome": "Cavaliers",
+    "side": "BUY",
+    "usd": 33127.393000000004,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1791756870,
+    "fills": 1
   }
 ]
