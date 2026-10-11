@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-10 19:46:16 (hora de Perú)
+Actualizado: 2026-10-10 19:48:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4797**  ($258,012,838 en total)
-- Resueltas: **4754** — 2913 ganadas / 1841 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **4755** — 2913 ganadas / 1842 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 543
 
 ### Balance
 
-- **Resultado de los apostadores: +$178,615** sobre $256,150,491 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,472** sobre $469,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$148,215** sobre $256,180,891 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,572** sobre $469,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 39 | 40 | 3 | 49% | $3,708,447 | +$123,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| surfandturf | 29 | 6 | 2 | 83% | $3,166,921 | +$576,325 |
+| surfandturf | 29 | 7 | 1 | 81% | $3,166,921 | +$545,925 |
 | Lakersfan111 | 41 | 23 | 0 | 64% | $2,997,373 | +$300,812 |
 | maz26 | 25 | 16 | 0 | 61% | $2,678,271 | +$128 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 543 en total)_
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Andre Fili vs. Kai Kamaka III (Featherweight, Main Card) | Kai Kamaka III | 2.17 (46¢) | $45,469 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Purdue | Purdue | 2.00 (50¢) | $27,752 | — | ⏳ Pendiente |
-| surfandturf | UFC Fight Night: Otari Tanzilovi vs. Malcolm Wellmaker (Bantamweight, Main Card) | Malcolm Wellmaker | 1.56 (64¢) | $30,400 | — | ⏳ Pendiente |
+| surfandturf | UFC Fight Night: Otari Tanzilovi vs. Malcolm Wellmaker (Bantamweight, Main Card) | Malcolm Wellmaker | 1.56 (64¢) | $30,400 | -$30,400 | ❌ Perdida |
 | ethanaz | Georgia vs. Alabama | Georgia | 2.00 (50¢) | $52,674 | — | ⏳ Pendiente |
 | mooseborzoii | Georgia vs. Alabama | Alabama | 1.67 (60¢) | $26,052 | — | ⏳ Pendiente |
 | 3648393489047 | Georgia vs. Alabama | Alabama | 1.79 (56¢) | $27,063 | — | ⏳ Pendiente |
