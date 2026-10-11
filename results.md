@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 09:13:57 (hora de Perú)
+Actualizado: 2026-10-11 09:16:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4868**  ($262,916,073 en total)
-- Resueltas: **4795** — 2935 ganadas / 1860 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Apuestas registradas: **4870**  ($262,981,913 en total)
+- Resueltas: **4796** — 2935 ganadas / 1861 perdidas (**61%** de acierto)
+- Pendientes: 53
 - Apostadores distintos: 549
 
 ### Balance
 
-- **Resultado de los apostadores: -$152,091** sobre $258,545,083 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,291** sobre $473,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$182,169** sobre $258,575,162 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,391** sobre $473,200 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | BrotherObama | 39 | 41 | 2 | 49% | $3,708,447 | +$33,271 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Lakersfan111 | 42 | 26 | 5 | 62% | $3,337,418 | +$210,636 |
+| Lakersfan111 | 42 | 26 | 7 | 62% | $3,403,258 | +$210,636 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | surfandturf | 30 | 7 | 1 | 81% | $3,197,856 | +$560,925 |
 | maz26 | 25 | 16 | 2 | 61% | $2,951,309 | +$128 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $31,565 | — | ⏳ Pendiente |
+| fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.45 (69¢) | $34,274 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Yandex | 1.52 (66¢) | $61,920 | — | ⏳ Pendiente |
 | gmpm2 | Texans vs. Titans | Texans | 1.33 (75¢) | $241,851 | — | ⏳ Pendiente |
 | Diabolical-Prize | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.47 (68¢) | $233,495 | — | ⏳ Pendiente |
@@ -112,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 | kdvlklkvlsklkfs | Olbia: Ivan Marrero Curbelo vs Andrea Colombo | Ivan Marrero Curbelo | 1.33 (75¢) | $149,716 | +$49,905 | ✅ Ganada |
 | Herdonia | Eagles vs. Jaguars | Jaguars | 1.30 (77¢) | $41,188 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Olbia: Leo Raquillet vs Gabi Adrian Boitan | Gabi Adrian Boitan | 1.37 (73¢) | $106,682 | -$106,682 | ❌ Perdida |
-| meoooow | Will Elche CF vs. RC Celta de Vigo end in a draw? | No | 1.41 (71¢) | $30,078 | — | ⏳ Pendiente |
+| meoooow | Will Elche CF vs. RC Celta de Vigo end in a draw? | No | 1.41 (71¢) | $30,078 | -$30,078 | ❌ Perdida |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.45 (69¢) | $47,077 | -$47,077 | ❌ Perdida |
 | fortnitethegoat667 | Counter-Strike: Aurora Gaming vs Spirit (BO3) - ESL Pro League Playoffs | Spirit | 1.47 (68¢) | $43,199 | -$43,199 | ❌ Perdida |
 | Kkunn | China Open: Qinwen Zheng vs Mirra Andreeva | Qinwen Zheng | 2.50 (40¢) | $29,976 | +$44,964 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 549 en total)_
 | btmx6 | Will 1. FC Köln win on 2026-10-11? | No | 1.92 (52¢) | $30,519 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Eagles vs. Jaguars | Jaguars | 1.30 (77¢) | $37,191 | — | ⏳ Pendiente |
 | gransaaa | Will Everton FC win on 2026-10-11? | Yes | 2.13 (47¢) | $35,327 | — | ⏳ Pendiente |
-| veliMax | Boise State vs. Fresno State | Boise State | 1.20 (83¢) | $52,970 | +$10,849 | ✅ Ganada |
-| gransaaa | SS Lazio vs. AC Monza: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $26,496 | — | ⏳ Pendiente |

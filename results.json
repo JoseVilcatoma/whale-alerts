@@ -72549,7 +72549,7 @@
     "side": "BUY",
     "usd": 30078.44,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791717832,
     "fills": 1
   },
@@ -73167,5 +73167,35 @@
     "status": "pending",
     "ultimo_fill": 1791727908,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 9888,
+    "timestamp": 1791728075,
+    "username": "fortnitethegoat667",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-ty-ts8-2026-10-11",
+    "title": "Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 34274.231999999996,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1791728075,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9889,
+    "timestamp": 1791728145,
+    "username": "fortnitethegoat667",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-ty-ts8-2026-10-11-game1",
+    "title": "Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 31565.226,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1791728145,
+    "fills": 1
   }
 ]
