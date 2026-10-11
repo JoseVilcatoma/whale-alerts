@@ -72627,5 +72627,35 @@
     "status": "pending",
     "ultimo_fill": 1791718417,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 9842,
+    "timestamp": 1791719137,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-phi-jax-2026-10-11-total-42pt5",
+    "title": "Eagles vs. Jaguars: O/U 42.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 31187.7477,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1791719137,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9843,
+    "timestamp": 1791719226,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "epl-hul-eve-2026-10-11-eve",
+    "title": "Will Everton FC win on 2026-10-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 43200.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1791719226,
+    "fills": 1
   }
 ]

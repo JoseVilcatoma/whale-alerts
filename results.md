@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 06:45:36 (hora de Perú)
+Actualizado: 2026-10-11 06:47:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4832**  ($259,999,959 en total)
+- Apuestas registradas: **4834**  ($260,074,347 en total)
 - Resueltas: **4785** — 2932 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 28
 - Apostadores distintos: 548
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Lakersfan111 | 42 | 23 | 4 | 65% | $3,167,136 | +$323,507 |
 | surfandturf | 30 | 7 | 0 | 81% | $3,166,921 | +$560,925 |
-| maz26 | 25 | 16 | 0 | 61% | $2,678,271 | +$128 |
+| maz26 | 25 | 16 | 1 | 61% | $2,709,458 | +$128 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Kch-Temp | 30 | 10 | 1 | 75% | $2,489,786 | +$1,280,240 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $43,200 | — | ⏳ Pendiente |
+| gmpm2 | Eagles vs. Jaguars: O/U 42.5 | Over 42.5 | 2.13 (47¢) | $31,188 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-6.5) | Eagles | 2.44 (41¢) | $33,077 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Olbia: Ivan Marrero Curbelo vs Andrea Colombo | Ivan Marrero Curbelo | 1.33 (75¢) | $149,716 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 548 en total)_
 | Gourmet1 | Red Wings vs. Canadiens | Red Wings | 2.78 (36¢) | $36,753 | -$36,753 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $54,853 | -$54,853 | ❌ Perdida |
 | BoggsFromShawshank | UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims) | RJ Harris | 1.32 (76¢) | $32,148 | -$32,148 | ❌ Perdida |
-| surfandturf | San Diego State vs. Oregon State | Oregon State | 1.18 (85¢) | $85,000 | +$15,000 | ✅ Ganada |
-| ferrariChampions2026 | UCLA vs. Oregon | UCLA | 2.13 (47¢) | $29,050 | +$32,758 | ✅ Ganada |
