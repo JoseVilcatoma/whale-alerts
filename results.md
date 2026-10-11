@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 15:34:03 (hora de Perú)
+Actualizado: 2026-10-11 15:36:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4924**  ($266,075,519 en total)
-- Resueltas: **4875** — 2989 ganadas / 1886 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **4879** — 2992 ganadas / 1887 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: +$494,550** sobre $264,032,338 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,428** sobre $481,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$589,541** sobre $264,178,815 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,232** sobre $481,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 355 | 188 | 5 | 65% | $33,836,459 | +$1,021,515 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 355 | 189 | 4 | 65% | $33,836,459 | +$994,937 |
 | Sassy-Bucket | 68 | 64 | 2 | 52% | $7,635,482 | -$470,344 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 1 | 52% | $6,989,069 | -$482,629 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
 | ndb1 | 23 | 11 | 1 | 68% | $1,869,615 | +$412,607 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| SDTrading | 29 | 30 | 1 | 49% | $1,787,724 | -$160,993 |
+| SDTrading | 30 | 30 | 0 | 50% | $1,787,724 | -$135,193 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | Talvez10 | 19 | 18 | 0 | 51% | $1,741,461 | +$155,737 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 28 | 2 | 0 | 93% | $1,700,416 | +$89,015 |
@@ -76,9 +76,9 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | gmpm2 | Lions vs. Cardinals | Cardinals | 3.23 (31¢) | $29,481 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-3.5) | 49ers | 1.79 (56¢) | $56,418 | — | ⏳ Pendiente |
 | ndb1 | 49ers vs. Seahawks | Seahawks | 1.69 (59¢) | $38,829 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Jets | Browns | 11.11 (9¢) | $26,578 | — | ⏳ Pendiente |
-| 1827575782 | Browns vs. Jets | Jets | 1.09 (92¢) | $42,364 | — | ⏳ Pendiente |
-| mentionmarket | Browns vs. Jets | Jets | 3.12 (32¢) | $43,334 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Jets | Browns | 11.11 (9¢) | $26,578 | -$26,578 | ❌ Perdida |
+| 1827575782 | Browns vs. Jets | Jets | 1.09 (92¢) | $42,364 | +$3,684 | ✅ Ganada |
+| mentionmarket | Browns vs. Jets | Jets | 3.12 (32¢) | $43,334 | +$92,085 | ✅ Ganada |
 | mooseborzoii | Broncos vs. Chargers | Chargers | 2.70 (37¢) | $27,800 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $25,790 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will SC Internacional win on 2026-10-11? | Yes | 2.86 (35¢) | $26,882 | — | ⏳ Pendiente |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-10-11? | Yes | 2.50 (40¢) | $32,533 | +$48,799 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Liverpool FC win on 2026-10-11? | No | 1.32 (76¢) | $64,748 | +$20,447 | ✅ Ganada |
 | RJW1 | Will Manchester City FC win on 2026-10-11? | Yes | 2.44 (41¢) | $71,138 | +$102,369 | ✅ Ganada |
-| SDTrading | Browns vs. Jets | Jets | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
+| SDTrading | Browns vs. Jets | Jets | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
 | SDTrading | Spread: Steelers (-3.5) | Colts | 1.79 (56¢) | $25,200 | -$25,200 | ❌ Perdida |
 | tiger105 | Will SC Freiburg win on 2026-10-11? | Yes | 1.25 (80¢) | $26,236 | +$6,559 | ✅ Ganada |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
