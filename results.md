@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 02:37:26 (hora de Perú)
+Actualizado: 2026-10-11 02:39:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4815**  ($259,165,837 en total)
-- Resueltas: **4782** — 2929 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **4783** — 2930 ganadas / 1853 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 545
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,512** sobre $257,851,921 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$5,014** sobre $471,800 (ROI **-1.1%**)
+- **Resultado de los apostadores: +$17,683** sobre $257,882,421 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,945** sobre $471,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 348 | 186 | 4 | 65% | $33,395,163 | +$865,975 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 186 | 3 | 65% | $33,395,163 | +$887,170 |
 | Sassy-Bucket | 66 | 63 | 2 | 51% | $7,321,631 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 0 | 52% | $6,940,069 | -$482,629 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | btmx6 | Will Everton FC win on 2026-10-11? | No | 1.85 (54¢) | $26,837 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wuhan Tennis Open, Qualification: Camila Osorio vs Katie Volynets | Katie Volynets | 1.69 (59¢) | $30,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wuhan Tennis Open, Qualification: Camila Osorio vs Katie Volynets | Katie Volynets | 1.69 (59¢) | $30,500 | +$21,195 | ✅ Ganada |
 | btmx6 | Will 1. FC Köln win on 2026-10-11? | No | 1.92 (52¢) | $30,519 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Eagles vs. Jaguars | Jaguars | 1.30 (77¢) | $37,191 | — | ⏳ Pendiente |
 | gransaaa | Will Everton FC win on 2026-10-11? | Yes | 2.13 (47¢) | $35,327 | — | ⏳ Pendiente |
