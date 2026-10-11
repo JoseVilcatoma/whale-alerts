@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 03:41:59 (hora de Perú)
+Actualizado: 2026-10-11 03:44:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4818**  ($259,261,366 en total)
+- Apuestas registradas: **4819**  ($259,295,650 en total)
 - Resueltas: **4783** — 2930 ganadas / 1853 perdidas (**61%** de acierto)
-- Pendientes: 14
-- Apostadores distintos: 545
+- Pendientes: 15
+- Apostadores distintos: 546
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Elaran1993 | 10 | 8 | 0 | 56% | $1,309,851 | +$248,205 |
 
-_(mostrando los 40 de mayor monto, de 545 en total)_
+_(mostrando los 40 de mayor monto, de 546 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thesisters2 | Cagliari Calcio vs. Juventus FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $34,284 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.37 (73¢) | $27,072 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs | PARIVISION | 1.41 (71¢) | $42,600 | — | ⏳ Pendiente |
 | coinlaundry | Shanghai Rolex Masters: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.16 (86¢) | $25,856 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 545 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texas vs. Oklahoma | Texas | 1.25 (80¢) | $29,912 | -$29,912 | ❌ Perdida |
 | ferrariChampions2026 | UCLA vs. Oregon | UCLA | 4.17 (24¢) | $28,362 | +$89,814 | ✅ Ganada |
 | gmpm2 | Spread: Texas (-7.5) | Oklahoma | 2.00 (50¢) | $31,500 | +$31,500 | ✅ Ganada |
-| Kch-Temp | Tulsa vs. Navy | Navy | 1.69 (59¢) | $41,062 | +$28,535 | ✅ Ganada |
