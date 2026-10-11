@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 18:36:04 (hora de Perú)
+Actualizado: 2026-10-11 18:38:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4941**  ($267,112,018 en total)
+- Apuestas registradas: **4942**  ($267,167,199 en total)
 - Resueltas: **4888** — 2998 ganadas / 1890 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 551
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 355 | 189 | 4 | 65% | $33,836,459 | +$994,937 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 355 | 189 | 5 | 65% | $33,891,640 | +$994,937 |
 | Sassy-Bucket | 68 | 64 | 2 | 52% | $7,635,482 | -$470,344 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 82 | 0 | 52% | $6,989,069 | -$531,628 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Seahawks | 49ers | 1.32 (76¢) | $55,181 | — | ⏳ Pendiente |
 | mooseborzoii | 49ers vs. Seahawks | 49ers | 1.67 (60¢) | $35,714 | — | ⏳ Pendiente |
 | 3648393489047 | 49ers vs. Seahawks | Seahawks | 1.39 (72¢) | $50,400 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | 49ers vs. Seahawks | Seahawks | 1.41 (71¢) | $25,139 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | wan123 | Spread: Patriots (-3.5) | Patriots | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | wan123 | Bengals vs. Dolphins | Dolphins | 4.00 (25¢) | $25,000 | -$25,000 | ❌ Perdida |
 | cosmicxbt | Eagles vs. Jaguars | Jaguars | 1.85 (54¢) | $80,690 | +$1,494 | 💰 Vendida antes |
-| fantasy7788 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.52 (66¢) | $49,000 | +$25,242 | ✅ Ganada |
