@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 10:54:41 (hora de Perú)
+Actualizado: 2026-10-11 10:56:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4894**  ($264,632,229 en total)
-- Resueltas: **4808** — 2942 ganadas / 1866 perdidas (**61%** de acierto)
+- Apuestas registradas: **4895**  ($264,658,465 en total)
+- Resueltas: **4809** — 2942 ganadas / 1867 perdidas (**61%** de acierto)
 - Pendientes: 65
 - Apostadores distintos: 551
 
 ### Balance
 
-- **Resultado de los apostadores: -$176,158** sobre $258,994,216 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,301** sobre $474,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$208,158** sobre $259,026,216 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,401** sobre $474,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 186 | 9 | 65% | $33,656,182 | +$887,170 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 349 | 187 | 8 | 65% | $33,656,182 | +$855,170 |
 | Sassy-Bucket | 66 | 63 | 3 | 51% | $7,471,431 | -$656,092 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 81 | 0 | 52% | $6,940,069 | -$482,629 |
 | 3edmond.dantes | 23 | 20 | 4 | 53% | $6,689,832 | -$1,657,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tiger105 | Will SC Freiburg win on 2026-10-11? | Yes | 1.25 (80¢) | $26,236 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | StasPanda | Will Liverpool FC win on 2026-10-11? | No | 1.37 (73¢) | $25,921 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Eagles vs. Jaguars | Jaguars | 2.17 (46¢) | $28,991 | — | ⏳ Pendiente |
@@ -112,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.39 (72¢) | $37,511 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs | Team Yandex | 1.41 (71¢) | $32,366 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $56,892 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Nottingham Forest FC win on 2026-10-11? | Yes | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Nottingham Forest FC win on 2026-10-11? | Yes | 1.56 (64¢) | $32,000 | -$32,000 | ❌ Perdida |
 | Sassy-Bucket | Spread: Jaguars (-7.5) | Eagles | 2.00 (50¢) | $149,799 | — | ⏳ Pendiente |
 | qiu3 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.54 (65¢) | $37,552 | — | ⏳ Pendiente |
 | fraagen | Will 1. FC Köln win on 2026-10-11? | No | 1.96 (51¢) | $25,704 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima | Brandon Nakashima | 2.13 (47¢) | $49,319 | -$49,319 | ❌ Perdida |
 | TKD44 | Spread: Steelers (-7.5) | Colts | 1.41 (71¢) | $31,317 | — | ⏳ Pendiente |
 | fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $38,485 | — | ⏳ Pendiente |
-| Jsram | Crystal Palace FC vs. Nottingham Forest FC: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $32,500 | -$32,500 | ❌ Perdida |

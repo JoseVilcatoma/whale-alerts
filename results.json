@@ -72939,7 +72939,7 @@
     "side": "BUY",
     "usd": 32000.0,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791725498,
     "fills": 1
   },
@@ -73556,6 +73556,21 @@
     "odds_at_bet": 49,
     "status": "pending",
     "ultimo_fill": 1791734054,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 9927,
+    "timestamp": 1791734186,
+    "username": "tiger105",
+    "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
+    "slug": "bun-fre-s04-2026-10-11-fre",
+    "title": "Will SC Freiburg win on 2026-10-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 26236.1079,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1791734186,
     "fills": 1
   }
 ]
