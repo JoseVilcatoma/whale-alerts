@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 18:56:51 (hora de Perú)
+Actualizado: 2026-10-11 18:58:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4944**  ($267,255,541 en total)
+- Apuestas registradas: **4946**  ($267,349,311 en total)
 - Resueltas: **4897** — 3002 ganadas / 1895 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 28
 - Apostadores distintos: 551
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 355 | 189 | 5 | 65% | $33,891,640 | +$994,937 |
-| Sassy-Bucket | 68 | 64 | 3 | 52% | $7,687,884 | -$470,344 |
+| Sassy-Bucket | 68 | 64 | 5 | 52% | $7,781,653 | -$470,344 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 82 | 0 | 52% | $6,989,069 | -$531,628 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $58,938 | — | ⏳ Pendiente |
+| Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 5.5 | Under 5.5 | 2.17 (46¢) | $34,832 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $52,401 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | St. Louis City SC vs. Los Angeles Galaxy: O/U 4.5 | Over 4.5 | 1.10 (91¢) | $35,941 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Seahawks | 49ers | 1.32 (76¢) | $55,181 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 551 en total)_
 | p1252 | Will Manchester City FC win on 2026-10-11? | No | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | 1827575782 | Will Liverpool FC win on 2026-10-11? | No | 1.35 (74¢) | $81,400 | +$28,600 | ✅ Ganada |
 | Kch-Temp | Spread: Commanders (-3.5) | Giants | 1.92 (52¢) | $111,167 | +$102,616 | ✅ Ganada |
-| nb1985 | Will Manchester City FC win on 2026-10-11? | Yes | 2.08 (48¢) | $150,000 | +$162,500 | ✅ Ganada |
-| wan123 | Spread: Patriots (-3.5) | Patriots | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
