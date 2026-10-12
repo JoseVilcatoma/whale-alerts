@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 20:34:26 (hora de Perú)
+Actualizado: 2026-10-11 20:36:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4960**  ($268,422,458 en total)
+- Apuestas registradas: **4961**  ($268,607,458 en total)
 - Resueltas: **4915** — 3011 ganadas / 1904 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 552
 
 ### Balance
@@ -58,9 +58,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 19 | 18 | 0 | 51% | $1,741,461 | +$155,737 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 2 | 0 | 94% | $1,736,357 | +$92,570 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
+| cosmicxbt | 15 | 4 | 1 | 79% | $1,686,518 | +$34,467 |
 | 1827575782 | 13 | 0 | 0 | 100% | $1,675,207 | +$208,027 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
-| cosmicxbt | 15 | 4 | 0 | 79% | $1,501,518 | +$34,467 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $185,000 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.75 (57¢) | $38,119 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.72 (58¢) | $31,384 | — | ⏳ Pendiente |
 | 0F62 | Shanghai Rolex Masters: Zizou Bergs vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $34,249 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | mooseborzoii | Vikings vs. Saints | Saints | 2.27 (44¢) | $29,674 | -$29,674 | ❌ Perdida |
 | Sassy-Bucket | Texans vs. Titans: O/U 38.5 | Over 38.5 | 2.13 (47¢) | $38,052 | -$38,052 | ❌ Perdida |
 | mooseborzoii | Bengals vs. Dolphins | Bengals | 1.33 (75¢) | $27,134 | +$9,045 | ✅ Ganada |
-| Sassy-Bucket | Raiders vs. Patriots | Patriots | 1.59 (63¢) | $126,000 | +$74,000 | ✅ Ganada |
