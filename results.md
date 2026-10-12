@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 20:24:16 (hora de Perú)
+Actualizado: 2026-10-11 20:26:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4960**  ($268,422,458 en total)
-- Resueltas: **4913** — 3009 ganadas / 1904 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **4914** — 3010 ganadas / 1904 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: +$435,684** sobre $265,981,332 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,982** sobre $484,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$453,522** sobre $266,014,459 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,928** sobre $484,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | TAIWANNUMBERONE | 49ers vs. Seahawks | Seahawks | 1.47 (68¢) | $38,144 | -$38,144 | ❌ Perdida |
 | yoyoyoyoer | Broncos vs. Chargers | Chargers | 1.43 (70¢) | $45,963 | -$45,963 | ❌ Perdida |
 | gambamaster | 49ers vs. Seahawks | 49ers | 1.49 (67¢) | $45,845 | +$22,581 | ✅ Ganada |
-| askilika | Magic vs. Cavaliers | Cavaliers | 1.54 (65¢) | $33,127 | — | ⏳ Pendiente |
+| askilika | Magic vs. Cavaliers | Cavaliers | 1.54 (65¢) | $33,127 | +$17,838 | ✅ Ganada |
 | gmpm2 | Spread: 49ers (-4.5) | Seahawks | 2.00 (50¢) | $155,710 | +$155,710 | ✅ Ganada |
 | ferrariChampions2026 | 49ers vs. Seahawks | Seahawks | 3.45 (29¢) | $130,000 | -$130,000 | ❌ Perdida |
 | mooseborzoii | 49ers vs. Seahawks | 49ers | 1.41 (71¢) | $43,640 | +$17,825 | ✅ Ganada |
