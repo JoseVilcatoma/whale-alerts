@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 20:32:23 (hora de Perú)
+Actualizado: 2026-10-11 20:34:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4960**  ($268,422,458 en total)
-- Resueltas: **4914** — 3010 ganadas / 1904 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **4915** — 3011 ganadas / 1904 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: +$453,522** sobre $266,014,459 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,928** sobre $484,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$457,077** sobre $266,050,400 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,918** sobre $485,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 30 | 30 | 0 | 50% | $1,787,724 | -$135,193 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | Talvez10 | 19 | 18 | 0 | 51% | $1,741,461 | +$155,737 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 28 | 2 | 1 | 93% | $1,736,357 | +$89,015 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 2 | 0 | 94% | $1,736,357 | +$92,570 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 1827575782 | 13 | 0 | 0 | 100% | $1,675,207 | +$208,027 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $58,938 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 5.5 | Under 5.5 | 2.17 (46¢) | $34,832 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $52,401 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | St. Louis City SC vs. Los Angeles Galaxy: O/U 4.5 | Over 4.5 | 1.10 (91¢) | $35,941 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | St. Louis City SC vs. Los Angeles Galaxy: O/U 4.5 | Over 4.5 | 1.10 (91¢) | $35,941 | +$3,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Seahawks | 49ers | 1.32 (76¢) | $55,181 | +$17,426 | ✅ Ganada |
 | mooseborzoii | 49ers vs. Seahawks | 49ers | 1.67 (60¢) | $35,714 | +$23,809 | ✅ Ganada |
 | 3648393489047 | 49ers vs. Seahawks | Seahawks | 1.39 (72¢) | $50,400 | -$50,400 | ❌ Perdida |
