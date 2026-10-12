@@ -74504,5 +74504,20 @@
     "status": "pending",
     "ultimo_fill": 1791767230,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 10080,
+    "timestamp": 1791767626,
+    "username": "0F62",
+    "wallet": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+    "slug": "atp-bergs-alcaraz-2026-10-11",
+    "title": "Shanghai Rolex Masters: Zizou Bergs vs Carlos Alcaraz",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "usd": 34249.0728,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1791767626,
+    "fills": 1
   }
 ]

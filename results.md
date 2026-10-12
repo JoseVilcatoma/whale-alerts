@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 20:13:39 (hora de Perú)
+Actualizado: 2026-10-11 20:15:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4957**  ($268,318,706 en total)
+- Apuestas registradas: **4958**  ($268,352,955 en total)
 - Resueltas: **4913** — 3009 ganadas / 1904 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 552
 
 ### Balance
@@ -48,8 +48,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
+| 0F62 | 29 | 3 | 1 | 91% | $2,222,414 | +$81,080 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| 0F62 | 29 | 3 | 0 | 91% | $2,188,165 | +$81,080 |
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
 | ndb1 | 23 | 12 | 0 | 66% | $1,869,615 | +$373,778 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Shanghai Rolex Masters: Zizou Bergs vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $34,249 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.61 (62¢) | $219,027 | — | ⏳ Pendiente |
 | milkteaboba | Ravens vs. Falcons | Falcons | 1.49 (67¢) | $271,562 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Ravens | 3.03 (33¢) | $60,101 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | Sassy-Bucket | Raiders vs. Patriots | Patriots | 1.59 (63¢) | $126,000 | +$74,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-10-11? | Yes | 2.50 (40¢) | $32,533 | +$48,799 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Liverpool FC win on 2026-10-11? | No | 1.32 (76¢) | $64,748 | +$20,447 | ✅ Ganada |
-| RJW1 | Will Manchester City FC win on 2026-10-11? | Yes | 2.44 (41¢) | $71,138 | +$102,369 | ✅ Ganada |
