@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 12:27:13 (hora de Perú)
+Actualizado: 2026-10-12 12:29:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4991**  ($270,498,370 en total)
+- Apuestas registradas: **4993**  ($270,585,848 en total)
 - Resueltas: **4962** — 3038 ganadas / 1924 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 9
 - Apostadores distintos: 552
 
 ### Balance
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ferrariChampions2026 | 81 | 41 | 0 | 66% | $4,986,215 | -$35,453 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
+| BrotherObama | 39 | 45 | 3 | 46% | $3,962,955 | -$161,378 |
 | ethanaz | 47 | 20 | 0 | 70% | $3,910,643 | -$85,390 |
-| BrotherObama | 39 | 45 | 2 | 46% | $3,903,097 | -$161,378 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 50 | 28 | 0 | 64% | $3,599,185 | +$249,733 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.38 (42¢) | $59,859 | — | ⏳ Pendiente |
+| Donkey14 | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers | 1.72 (58¢) | $27,619 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Tampa Bay Rays (-1.5) | Cleveland Guardians | 1.72 (58¢) | $44,353 | — | ⏳ Pendiente |
 | mooseborzoii | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 2.56 (39¢) | $52,077 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.08 (93¢) | $27,516 | +$2,071 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | gambamaster | 49ers vs. Seahawks | 49ers | 1.49 (67¢) | $45,845 | +$22,581 | ✅ Ganada |
 | askilika | Magic vs. Cavaliers | Cavaliers | 1.54 (65¢) | $33,127 | +$17,838 | ✅ Ganada |
 | gmpm2 | Spread: 49ers (-4.5) | Seahawks | 2.00 (50¢) | $155,710 | +$155,710 | ✅ Ganada |
-| ferrariChampions2026 | 49ers vs. Seahawks | Seahawks | 3.45 (29¢) | $130,000 | -$130,000 | ❌ Perdida |
-| mooseborzoii | 49ers vs. Seahawks | 49ers | 1.41 (71¢) | $43,640 | +$17,825 | ✅ Ganada |
