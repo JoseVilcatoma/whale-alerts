@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 04:39:12 (hora de Perú)
+Actualizado: 2026-10-12 07:40:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4983**  ($270,172,712 en total)
-- Resueltas: **4949** — 3029 ganadas / 1920 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **4954** — 3033 ganadas / 1921 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: +$35,475** sobre $268,766,968 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,179** sobre $488,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$45,912** sobre $268,949,817 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,158** sobre $488,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,11 +73,11 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 |---|---|---|---|---|---|---|
 | BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
-| beeemw | Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina | Daniil Medvedev | 1.12 (89¢) | $38,489 | — | ⏳ Pendiente |
-| tennischamp | Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina | Daniil Medvedev | 1.14 (88¢) | $29,955 | — | ⏳ Pendiente |
-| vtcchampion52 | LoL: KT Rolster vs Team Vitality (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
-| madwish355 | LoL: KT Rolster vs Team Vitality (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.47 (68¢) | $44,880 | — | ⏳ Pendiente |
-| 3648393489047 | LoL: KT Rolster vs Team Vitality - Game 1 Winner | KT Rolster | 1.41 (71¢) | $35,525 | — | ⏳ Pendiente |
+| beeemw | Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina | Daniil Medvedev | 1.12 (89¢) | $38,489 | +$4,757 | ✅ Ganada |
+| tennischamp | Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina | Daniil Medvedev | 1.14 (88¢) | $29,955 | +$4,085 | ✅ Ganada |
+| vtcchampion52 | LoL: KT Rolster vs Team Vitality (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.47 (68¢) | $34,000 | +$16,000 | ✅ Ganada |
+| madwish355 | LoL: KT Rolster vs Team Vitality (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.47 (68¢) | $44,880 | +$21,120 | ✅ Ganada |
+| 3648393489047 | LoL: KT Rolster vs Team Vitality - Game 1 Winner | KT Rolster | 1.41 (71¢) | $35,525 | -$35,525 | ❌ Perdida |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Wuhan Tennis Open: Anna Kalinskaya vs Shuai Zhang | Shuai Zhang | 2.04 (49¢) | $28,057 | — | ⊘ Anulada |
 | yoyoyoyoer | Ravens vs. Falcons | Ravens | 1.18 (85¢) | $30,940 | +$5,460 | ✅ Ganada |
 | mooseborzoii | Ravens vs. Falcons | Ravens | 1.89 (53¢) | $106,109 | +$94,096 | ✅ Ganada |
