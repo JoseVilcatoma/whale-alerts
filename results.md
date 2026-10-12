@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 10:37:57 (hora de Perú)
+Actualizado: 2026-10-12 10:39:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4990**  ($270,454,017 en total)
-- Resueltas: **4955** — 3033 ganadas / 1922 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **4957** — 3035 ganadas / 1922 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: +$11,663** sobre $268,984,066 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,258** sobre $488,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$18,847** sobre $269,038,425 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,232** sobre $489,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,9 +72,9 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | mooseborzoii | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 2.56 (39¢) | $52,077 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.08 (93¢) | $27,516 | — | ⏳ Pendiente |
+| kdvlklkvlsklkfs | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.08 (93¢) | $27,516 | +$2,071 | ✅ Ganada |
 | ziyoucui | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.72 (58¢) | $28,856 | — | ⏳ Pendiente |
-| lsiflsliggjriek | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.19 (84¢) | $26,843 | — | ⏳ Pendiente |
+| lsiflsliggjriek | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.19 (84¢) | $26,843 | +$5,113 | ✅ Ganada |
 | fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.20 (83¢) | $87,412 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | SDTrading | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $25,600 | — | ⏳ Pendiente |
