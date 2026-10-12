@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 13:12:34 (hora de Perú)
+Actualizado: 2026-10-12 13:14:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4994**  ($270,625,595 en total)
+- Apuestas registradas: **4995**  ($270,656,957 en total)
 - Resueltas: **4962** — 3038 ganadas / 1924 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 552
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mastermoney | Coventry City FC vs. Newcastle United FC: O/U 8.5 Total Corners | Over 8.5 Total Corners | 1.56 (64¢) | $31,361 | — | ⏳ Pendiente |
 | plonker2026 | Will Newcastle United FC win on 2026-10-12? | Yes | 2.17 (46¢) | $39,748 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.38 (42¢) | $59,859 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers | 1.72 (58¢) | $27,619 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | TAIWANNUMBERONE | 49ers vs. Seahawks | Seahawks | 1.47 (68¢) | $38,144 | -$38,144 | ❌ Perdida |
 | yoyoyoyoer | Broncos vs. Chargers | Chargers | 1.43 (70¢) | $45,963 | -$45,963 | ❌ Perdida |
 | gambamaster | 49ers vs. Seahawks | 49ers | 1.49 (67¢) | $45,845 | +$22,581 | ✅ Ganada |
-| askilika | Magic vs. Cavaliers | Cavaliers | 1.54 (65¢) | $33,127 | +$17,838 | ✅ Ganada |
