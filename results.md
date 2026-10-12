@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 07:48:44 (hora de Perú)
+Actualizado: 2026-10-12 07:50:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4984**  ($270,198,312 en total)
+- Apuestas registradas: **4985**  ($270,231,312 en total)
 - Resueltas: **4955** — 3033 ganadas / 1922 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 552
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 358 | 189 | 3 | 65% | $34,014,151 | +$1,179,202 |
 | Sassy-Bucket | 72 | 64 | 2 | 53% | $7,846,808 | -$275,523 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 90 | 82 | 0 | 52% | $7,016,833 | -$494,824 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 90 | 82 | 1 | 52% | $7,049,833 | -$494,824 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Diabolical-Prize | 60 | 58 | 0 | 51% | $6,230,697 | -$269,712 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | SDTrading | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $25,600 | — | ⏳ Pendiente |
 | BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | 1827575782 | Lions vs. Cardinals | Lions | 1.11 (90¢) | $153,770 | +$17,086 | ✅ Ganada |
 | KaneAnalytics | Lions vs. Cardinals | Lions | 1.41 (71¢) | $25,487 | +$10,410 | ✅ Ganada |
 | NS13 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $34,402 | +$33,053 | ✅ Ganada |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 49ers vs. Seahawks | Seahawks | 1.79 (56¢) | $30,000 | -$30,000 | ❌ Perdida |
