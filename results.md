@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 22:31:39 (hora de Perú)
+Actualizado: 2026-10-11 22:33:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4974**  ($269,797,811 en total)
-- Resueltas: **4920** — 3015 ganadas / 1905 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **4927** — 3020 ganadas / 1907 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: +$593,523** sobre $266,446,037 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,583** sobre $485,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$657,922** sobre $266,743,040 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,369** sobre $486,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 357 | 189 | 4 | 65% | $34,014,151 | +$1,056,691 |
-| Sassy-Bucket | 71 | 64 | 3 | 53% | $7,846,808 | -$327,924 |
+| Sassy-Bucket | 72 | 64 | 2 | 53% | $7,846,808 | -$275,523 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 82 | 1 | 52% | $7,016,833 | -$531,628 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -33,12 +33,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ferrariChampions2026 | 81 | 40 | 1 | 67% | $4,986,215 | -$10,453 |
+| ferrariChampions2026 | 81 | 41 | 0 | 66% | $4,986,215 | -$35,453 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
 | ethanaz | 46 | 19 | 2 | 71% | $3,910,643 | -$68,083 |
-| BrotherObama | 39 | 42 | 3 | 48% | $3,823,097 | -$11,378 |
+| BrotherObama | 39 | 43 | 2 | 48% | $3,823,097 | -$81,378 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Lakersfan111 | 46 | 28 | 3 | 62% | $3,511,773 | +$144,817 |
+| Lakersfan111 | 48 | 28 | 1 | 63% | $3,511,773 | +$207,583 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | surfandturf | 30 | 8 | 1 | 79% | $3,324,510 | +$529,990 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -78,12 +78,12 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | cosmicxbt | Ravens vs. Falcons | Falcons | 1.10 (91¢) | $453,980 | — | ⏳ Pendiente |
 | yoyoyoyoer | Ravens vs. Falcons | Falcons | 1.41 (71¢) | $37,275 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.43 (70¢) | $48,220 | — | ⏳ Pendiente |
-| veliMax | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.22 (82¢) | $50,925 | — | ⏳ Pendiente |
+| veliMax | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.22 (82¢) | $50,925 | +$11,179 | ✅ Ganada |
 | ethanaz | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $125,892 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $29,833 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Ravens | 3.70 (27¢) | $44,404 | — | ⏳ Pendiente |
 | alwaysfade | Ravens vs. Falcons | Ravens | 3.45 (29¢) | $29,000 | — | ⏳ Pendiente |
-| BrotherObama | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 2.00 (50¢) | $70,000 | — | ⏳ Pendiente |
+| BrotherObama | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 2.00 (50¢) | $70,000 | -$70,000 | ❌ Perdida |
 | cosmicxbt | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $210,777 | -$19,938 | 💰 Vendida antes |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.75 (57¢) | $38,119 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.72 (58¢) | $31,384 | — | ⏳ Pendiente |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | presidentyake | Spread: Falcons (-3.5) | Falcons | 2.08 (48¢) | $25,140 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $58,938 | +$48,222 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 5.5 | Under 5.5 | 2.17 (46¢) | $34,832 | +$40,890 | ✅ Ganada |
-| Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $52,401 | — | ⏳ Pendiente |
+| Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $52,401 | +$52,401 | ✅ Ganada |
 | Roadto1mlesgooo | St. Louis City SC vs. Los Angeles Galaxy: O/U 4.5 | Over 4.5 | 1.10 (91¢) | $35,941 | +$3,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Seahawks | 49ers | 1.32 (76¢) | $55,181 | +$17,426 | ✅ Ganada |
 | mooseborzoii | 49ers vs. Seahawks | 49ers | 1.67 (60¢) | $35,714 | +$23,809 | ✅ Ganada |
@@ -119,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | Hashbrown | Lions vs. Cardinals | Lions | 1.10 (91¢) | $35,490 | +$3,510 | ✅ Ganada |
 | 1827575782 | Lions vs. Cardinals | Lions | 1.11 (90¢) | $153,770 | +$17,086 | ✅ Ganada |
 | KaneAnalytics | Lions vs. Cardinals | Lions | 1.41 (71¢) | $25,487 | +$10,410 | ✅ Ganada |
-| NS13 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $34,402 | — | ⏳ Pendiente |
+| NS13 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $34,402 | +$33,053 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 49ers vs. Seahawks | Seahawks | 1.79 (56¢) | $30,000 | -$30,000 | ❌ Perdida |
 | gmpm2 | 49ers vs. Seahawks | Seahawks | 1.64 (61¢) | $29,368 | -$29,368 | ❌ Perdida |
 | mooseborzoii | Spread: Lions (-5.5) | Cardinals | 2.00 (50¢) | $57,368 | -$57,368 | ❌ Perdida |
@@ -130,4 +130,4 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | 1827575782 | Browns vs. Jets | Jets | 1.09 (92¢) | $42,364 | +$3,684 | ✅ Ganada |
 | mentionmarket | Browns vs. Jets | Jets | 3.12 (32¢) | $43,334 | +$92,085 | ✅ Ganada |
 | mooseborzoii | Broncos vs. Chargers | Chargers | 2.70 (37¢) | $27,800 | -$27,800 | ❌ Perdida |
-| fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $25,790 | — | ⏳ Pendiente |
+| fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $25,790 | +$25,790 | ✅ Ganada |
