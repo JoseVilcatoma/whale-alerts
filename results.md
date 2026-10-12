@@ -1,6 +1,6 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 01:42:44 (hora de Perú)
+Actualizado: 2026-10-12 01:44:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
@@ -8,7 +8,7 @@ Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 - Apuestas registradas: **4977**  ($269,945,388 en total)
 - Resueltas: **4949** — 3029 ganadas / 1920 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 6
 - Apostadores distintos: 552
 
 ### Balance
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 3648393489047 | LoL: KT Rolster vs Team Vitality - Game 1 Winner | KT Rolster | 1.41 (71¢) | $35,525 | — | ⏳ Pendiente |
-| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Wuhan Tennis Open: Anna Kalinskaya vs Shuai Zhang | Shuai Zhang | 2.04 (49¢) | $28,057 | — | ⏳ Pendiente |
+| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Wuhan Tennis Open: Anna Kalinskaya vs Shuai Zhang | Shuai Zhang | 2.04 (49¢) | $28,057 | — | ⊘ Anulada |
 | yoyoyoyoer | Ravens vs. Falcons | Ravens | 1.18 (85¢) | $30,940 | +$5,460 | ✅ Ganada |
 | mooseborzoii | Ravens vs. Falcons | Ravens | 1.89 (53¢) | $106,109 | +$94,096 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Falcons | Ravens | 2.00 (50¢) | $122,511 | +$122,511 | ✅ Ganada |
