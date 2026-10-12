@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 20:57:07 (hora de Perú)
+Actualizado: 2026-10-11 20:59:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4962**  ($268,703,235 en total)
-- Resueltas: **4915** — 3011 ganadas / 1904 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **4916** — 3012 ganadas / 1904 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: +$457,077** sobre $266,050,400 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,918** sobre $485,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$471,042** sobre $266,076,335 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,864** sobre $485,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | milkteaboba | Ravens vs. Falcons | Ravens | 2.70 (37¢) | $58,730 | — | ⏳ Pendiente |
 | 3648393489047 | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $65,155 | — | ⏳ Pendiente |
-| 3648393489047 | Hurricanes vs. Flyers | Hurricanes | 1.54 (65¢) | $25,935 | — | ⏳ Pendiente |
+| 3648393489047 | Hurricanes vs. Flyers | Hurricanes | 1.54 (65¢) | $25,935 | +$13,965 | ✅ Ganada |
 | presidentyake | Spread: Falcons (-3.5) | Falcons | 2.08 (48¢) | $25,140 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $58,938 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 5.5 | Under 5.5 | 2.17 (46¢) | $34,832 | — | ⏳ Pendiente |
