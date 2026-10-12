@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 19:40:00 (hora de Perú)
+Actualizado: 2026-10-11 19:42:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4953**  ($267,716,490 en total)
+- Apuestas registradas: **4954**  ($267,768,015 en total)
 - Resueltas: **4912** — 3009 ganadas / 1903 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 552
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 39 | 42 | 2 | 48% | $3,753,097 | -$11,378 |
 | ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Lakersfan111 | 46 | 28 | 2 | 62% | $3,460,248 | +$144,817 |
+| Lakersfan111 | 46 | 28 | 3 | 62% | $3,511,773 | +$144,817 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | surfandturf | 30 | 8 | 1 | 79% | $3,324,510 | +$529,990 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $51,525 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Ravens vs. Falcons | Ravens | 2.33 (43¢) | $27,764 | — | ⏳ Pendiente |
 | surfandturf | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $126,654 | — | ⏳ Pendiente |
 | milkteaboba | Ravens vs. Falcons | Ravens | 2.70 (37¢) | $58,730 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | SDTrading | Browns vs. Jets | Jets | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
 | SDTrading | Spread: Steelers (-3.5) | Colts | 1.79 (56¢) | $25,200 | -$25,200 | ❌ Perdida |
 | tiger105 | Will SC Freiburg win on 2026-10-11? | Yes | 1.25 (80¢) | $26,236 | +$6,559 | ✅ Ganada |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
