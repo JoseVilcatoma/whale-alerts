@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 04:11:19 (hora de Perú)
+Actualizado: 2026-10-12 04:13:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4982**  ($270,142,712 en total)
+- Apuestas registradas: **4983**  ($270,172,712 en total)
 - Resueltas: **4949** — 3029 ganadas / 1920 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 552
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 81 | 41 | 0 | 66% | $4,986,215 | -$35,453 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
 | ethanaz | 47 | 20 | 0 | 70% | $3,910,643 | -$85,390 |
-| BrotherObama | 39 | 43 | 3 | 48% | $3,873,097 | -$81,378 |
+| BrotherObama | 39 | 43 | 4 | 48% | $3,903,097 | -$81,378 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 48 | 28 | 1 | 63% | $3,511,773 | +$207,583 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
 | beeemw | Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina | Daniil Medvedev | 1.12 (89¢) | $38,489 | — | ⏳ Pendiente |
 | tennischamp | Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina | Daniil Medvedev | 1.14 (88¢) | $29,955 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | NS13 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $34,402 | +$33,053 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 49ers vs. Seahawks | Seahawks | 1.79 (56¢) | $30,000 | -$30,000 | ❌ Perdida |
 | gmpm2 | 49ers vs. Seahawks | Seahawks | 1.64 (61¢) | $29,368 | -$29,368 | ❌ Perdida |
-| mooseborzoii | Spread: Lions (-5.5) | Cardinals | 2.00 (50¢) | $57,368 | -$57,368 | ❌ Perdida |
