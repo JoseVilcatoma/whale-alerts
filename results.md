@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 08:15:28 (hora de Perú)
+Actualizado: 2026-10-12 08:17:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4985**  ($270,231,312 en total)
+- Apuestas registradas: **4986**  ($270,318,724 en total)
 - Resueltas: **4955** — 3033 ganadas / 1922 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 552
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 47 | 20 | 0 | 70% | $3,910,643 | -$85,390 |
 | BrotherObama | 39 | 43 | 4 | 48% | $3,903,097 | -$81,378 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Lakersfan111 | 48 | 28 | 1 | 63% | $3,511,773 | +$207,583 |
+| Lakersfan111 | 48 | 28 | 2 | 63% | $3,599,185 | +$207,583 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | surfandturf | 30 | 9 | 0 | 77% | $3,324,510 | +$403,336 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.20 (83¢) | $87,412 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | SDTrading | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $25,600 | — | ⏳ Pendiente |
 | BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | Hashbrown | Lions vs. Cardinals | Lions | 1.10 (91¢) | $35,490 | +$3,510 | ✅ Ganada |
 | 1827575782 | Lions vs. Cardinals | Lions | 1.11 (90¢) | $153,770 | +$17,086 | ✅ Ganada |
 | KaneAnalytics | Lions vs. Cardinals | Lions | 1.41 (71¢) | $25,487 | +$10,410 | ✅ Ganada |
-| NS13 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.96 (51¢) | $34,402 | +$33,053 | ✅ Ganada |
