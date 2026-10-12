@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 22:06:43 (hora de Perú)
+Actualizado: 2026-10-11 22:08:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4969**  ($269,068,784 en total)
+- Apuestas registradas: **4970**  ($269,522,765 en total)
 - Resueltas: **4917** — 3012 ganadas / 1905 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 552
 
 ### Balance
@@ -50,6 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
 | 0F62 | 29 | 3 | 1 | 91% | $2,222,414 | +$81,080 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
+| cosmicxbt | 15 | 5 | 1 | 75% | $2,166,276 | +$14,528 |
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
 | ndb1 | 23 | 12 | 0 | 66% | $1,869,615 | +$373,778 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -57,7 +58,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | Talvez10 | 19 | 18 | 0 | 51% | $1,741,461 | +$155,737 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 2 | 0 | 94% | $1,736,357 | +$92,570 |
-| cosmicxbt | 15 | 5 | 0 | 75% | $1,712,296 | +$14,528 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | 1827575782 | 13 | 0 | 0 | 100% | $1,675,207 | +$208,027 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Ravens vs. Falcons | Falcons | 1.10 (91¢) | $453,980 | — | ⏳ Pendiente |
 | yoyoyoyoer | Ravens vs. Falcons | Falcons | 1.41 (71¢) | $37,275 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.43 (70¢) | $48,220 | — | ⏳ Pendiente |
 | veliMax | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.22 (82¢) | $50,925 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | gmpm2 | Spread: Broncos (-3.5) | Chargers | 1.96 (51¢) | $31,824 | -$31,824 | ❌ Perdida |
 | 1827575782 | Vikings vs. Saints | Vikings | 1.08 (93¢) | $139,500 | +$10,500 | ✅ Ganada |
 | UpTheBlues | Will CA Platense win on 2026-10-11? | No | 1.47 (68¢) | $26,483 | +$12,463 | ✅ Ganada |
-| Donkey14 | 49ers vs. Seahawks | Seahawks | 1.67 (60¢) | $75,000 | -$75,000 | ❌ Perdida |
