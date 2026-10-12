@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 13:33:13 (hora de Perú)
+Actualizado: 2026-10-12 17:22:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4995**  ($270,656,957 en total)
-- Resueltas: **4962** — 3038 ganadas / 1924 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **4964** — 3038 ganadas / 1926 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,893** sobre $269,286,218 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,292** sobre $489,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$69,216** sobre $269,357,328 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,492** sobre $489,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,8 +71,8 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Mastermoney | Coventry City FC vs. Newcastle United FC: O/U 8.5 Total Corners | Over 8.5 Total Corners | 1.56 (64¢) | $31,361 | — | ⏳ Pendiente |
-| plonker2026 | Will Newcastle United FC win on 2026-10-12? | Yes | 2.17 (46¢) | $39,748 | — | ⏳ Pendiente |
+| Mastermoney | Coventry City FC vs. Newcastle United FC: O/U 8.5 Total Corners | Over 8.5 Total Corners | 1.56 (64¢) | $31,361 | -$31,361 | ❌ Perdida |
+| plonker2026 | Will Newcastle United FC win on 2026-10-12? | Yes | 2.17 (46¢) | $39,748 | -$39,748 | ❌ Perdida |
 | BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.38 (42¢) | $59,859 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers | 1.72 (58¢) | $27,619 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Tampa Bay Rays (-1.5) | Cleveland Guardians | 1.72 (58¢) | $44,353 | — | ⏳ Pendiente |
