@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 19:01:01 (hora de Perú)
+Actualizado: 2026-10-11 19:03:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4947**  ($267,374,451 en total)
+- Apuestas registradas: **4950**  ($267,503,341 en total)
 - Resueltas: **4897** — 3002 ganadas / 1895 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 32
 - Apostadores distintos: 552
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 355 | 189 | 5 | 65% | $33,891,640 | +$994,937 |
-| Sassy-Bucket | 68 | 64 | 5 | 52% | $7,781,653 | -$470,344 |
+| Sassy-Bucket | 68 | 64 | 6 | 52% | $7,846,808 | -$470,344 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 82 | 0 | 52% | $6,989,069 | -$531,628 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
+| Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $65,155 | — | ⏳ Pendiente |
+| 3648393489047 | Hurricanes vs. Flyers | Hurricanes | 1.54 (65¢) | $25,935 | — | ⏳ Pendiente |
 | presidentyake | Spread: Falcons (-3.5) | Falcons | 2.08 (48¢) | $25,140 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $58,938 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 5.5 | Under 5.5 | 2.17 (46¢) | $34,832 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | StasPanda | Will Liverpool FC win on 2026-10-11? | No | 1.37 (73¢) | $25,921 | +$9,587 | ✅ Ganada |
 | ferrariChampions2026 | Eagles vs. Jaguars | Jaguars | 2.17 (46¢) | $28,991 | +$34,033 | ✅ Ganada |
 | Kch-Temp | Vikings vs. Saints | Vikings | 1.79 (56¢) | $146,703 | +$115,267 | ✅ Ganada |
-| NS13 | Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs | Vitality | 1.35 (74¢) | $26,306 | +$9,243 | ✅ Ganada |
-| p1252 | Will Manchester City FC win on 2026-10-11? | No | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
-| 1827575782 | Will Liverpool FC win on 2026-10-11? | No | 1.35 (74¢) | $81,400 | +$28,600 | ✅ Ganada |
