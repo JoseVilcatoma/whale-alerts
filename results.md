@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 01:50:57 (hora de Perú)
+Actualizado: 2026-10-12 01:53:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4977**  ($269,945,388 en total)
+- Apuestas registradas: **4978**  ($269,990,268 en total)
 - Resueltas: **4949** — 3029 ganadas / 1920 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 552
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| madwish355 | LoL: KT Rolster vs Team Vitality (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.47 (68¢) | $44,880 | — | ⏳ Pendiente |
 | 3648393489047 | LoL: KT Rolster vs Team Vitality - Game 1 Winner | KT Rolster | 1.41 (71¢) | $35,525 | — | ⏳ Pendiente |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Wuhan Tennis Open: Anna Kalinskaya vs Shuai Zhang | Shuai Zhang | 2.04 (49¢) | $28,057 | — | ⊘ Anulada |
 | yoyoyoyoer | Ravens vs. Falcons | Ravens | 1.18 (85¢) | $30,940 | +$5,460 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-3.5) | 49ers | 1.79 (56¢) | $56,418 | +$44,328 | ✅ Ganada |
 | ndb1 | 49ers vs. Seahawks | Seahawks | 1.69 (59¢) | $38,829 | -$38,829 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Jets | Browns | 11.11 (9¢) | $26,578 | -$26,578 | ❌ Perdida |
-| 1827575782 | Browns vs. Jets | Jets | 1.09 (92¢) | $42,364 | +$3,684 | ✅ Ganada |
