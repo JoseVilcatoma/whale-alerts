@@ -74339,5 +74339,20 @@
     "status": "pending",
     "ultimo_fill": 1791763136,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10053,
+    "timestamp": 1791763230,
+    "username": "presidentyake",
+    "wallet": "0xefbfc288fcea16073ac5544f8ac8e2131d0543ca",
+    "slug": "nfl-bal-atl-2026-10-12-spread-home-3pt5",
+    "title": "Spread: Falcons (-3.5)",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 25140.139999999996,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1791763230,
+    "fills": 1
   }
 ]
