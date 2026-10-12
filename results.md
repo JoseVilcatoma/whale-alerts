@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 23:04:57 (hora de Perú)
+Actualizado: 2026-10-11 23:07:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4975**  ($269,881,806 en total)
-- Resueltas: **4928** — 3020 ganadas / 1908 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **4929** — 3020 ganadas / 1909 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: +$278,774** sobre $267,197,021 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,369** sobre $486,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$253,634** sobre $267,222,161 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,469** sobre $486,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | 3648393489047 | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $65,155 | +$53,309 | ✅ Ganada |
 | 3648393489047 | Hurricanes vs. Flyers | Hurricanes | 1.54 (65¢) | $25,935 | +$13,965 | ✅ Ganada |
-| presidentyake | Spread: Falcons (-3.5) | Falcons | 2.08 (48¢) | $25,140 | — | ⏳ Pendiente |
+| presidentyake | Spread: Falcons (-3.5) | Falcons | 2.08 (48¢) | $25,140 | -$25,140 | ❌ Perdida |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $58,938 | +$48,222 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 5.5 | Under 5.5 | 2.17 (46¢) | $34,832 | +$40,890 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $52,401 | +$52,401 | ✅ Ganada |
