@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 07:46:40 (hora de Perú)
+Actualizado: 2026-10-12 07:48:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4984**  ($270,198,312 en total)
-- Resueltas: **4954** — 3033 ganadas / 1921 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **4955** — 3033 ganadas / 1922 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: +$45,912** sobre $268,949,817 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,158** sobre $488,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$11,663** sobre $268,984,066 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,258** sobre $488,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
-| 0F62 | 29 | 3 | 1 | 91% | $2,222,414 | +$81,080 |
+| 0F62 | 29 | 4 | 0 | 88% | $2,222,414 | +$46,831 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | cosmicxbt | 15 | 6 | 0 | 71% | $2,166,276 | -$364,620 |
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | cosmicxbt | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $210,777 | -$19,938 | 💰 Vendida antes |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.75 (57¢) | $38,119 | -$38,119 | ❌ Perdida |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.72 (58¢) | $31,384 | -$31,384 | ❌ Perdida |
-| 0F62 | Shanghai Rolex Masters: Zizou Bergs vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $34,249 | — | ⏳ Pendiente |
+| 0F62 | Shanghai Rolex Masters: Zizou Bergs vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $34,249 | -$34,249 | ❌ Perdida |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.61 (62¢) | $219,027 | -$219,027 | ❌ Perdida |
 | milkteaboba | Ravens vs. Falcons | Falcons | 1.49 (67¢) | $271,562 | -$271,562 | ❌ Perdida |
 | mooseborzoii | Ravens vs. Falcons | Ravens | 3.03 (33¢) | $60,101 | +$122,023 | ✅ Ganada |
