@@ -74561,9 +74561,11 @@
     "side": "BUY",
     "usd": 210777.2118,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1791769052,
-    "fills": 2
+    "fills": 2,
+    "profit_usd": -19938.38,
+    "precio_salida": 67
   },
   {
     "telegram_msg_id": 10086,
@@ -74656,7 +74658,7 @@
     "fills": 1
   },
   {
-    "telegram_msg_id": null,
+    "telegram_msg_id": 10093,
     "timestamp": 1791773543,
     "username": "mooseborzoii",
     "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
@@ -74668,6 +74670,21 @@
     "odds_at_bet": 70,
     "status": "pending",
     "ultimo_fill": 1791773543,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10095,
+    "timestamp": 1791773597,
+    "username": "yoyoyoyoer",
+    "wallet": "0xb7fffe75ad88a55987cd8c60ad6a53640e80aa79",
+    "slug": "nfl-bal-atl-2026-10-12",
+    "title": "Ravens vs. Falcons",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 37275.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1791773597,
     "fills": 1
   }
 ]
