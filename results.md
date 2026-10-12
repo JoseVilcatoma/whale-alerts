@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 21:44:02 (hora de Perú)
+Actualizado: 2026-10-11 21:46:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4966**  ($268,932,364 en total)
+- Apuestas registradas: **4967**  ($268,983,289 en total)
 - Resueltas: **4916** — 3012 ganadas / 1904 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 552
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| veliMax | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.22 (82¢) | $50,925 | — | ⏳ Pendiente |
 | ethanaz | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $125,892 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $29,833 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Ravens | 3.70 (27¢) | $44,404 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | Donkey14 | 49ers vs. Seahawks | Seahawks | 1.67 (60¢) | $75,000 | -$75,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Lions vs. Cardinals: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $49,000 | -$49,000 | ❌ Perdida |
 | beeemw | Vikings vs. Saints | Vikings | 1.27 (79¢) | $60,040 | +$15,960 | ✅ Ganada |
-| cosmicxbt | Vikings vs. Saints | Vikings | 1.27 (79¢) | $118,500 | +$31,500 | ✅ Ganada |
