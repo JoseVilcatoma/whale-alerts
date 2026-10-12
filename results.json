@@ -74489,5 +74489,20 @@
     "status": "pending",
     "ultimo_fill": 1791765852,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 10079,
+    "timestamp": 1791767185,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-bal-atl-2026-10-12",
+    "title": "Ravens vs. Falcons",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 219027.30661600002,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1791767230,
+    "fills": 3
   }
 ]
