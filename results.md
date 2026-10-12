@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 12:06:45 (hora de Perú)
+Actualizado: 2026-10-12 12:08:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4991**  ($270,498,370 en total)
-- Resueltas: **4957** — 3035 ganadas / 1922 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **4959** — 3035 ganadas / 1924 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: +$18,847** sobre $269,038,425 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,232** sobre $489,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$61,153** sobre $269,118,425 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,432** sobre $489,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 81 | 41 | 0 | 66% | $4,986,215 | -$35,453 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
 | ethanaz | 47 | 20 | 0 | 70% | $3,910,643 | -$85,390 |
-| BrotherObama | 39 | 43 | 4 | 48% | $3,903,097 | -$81,378 |
+| BrotherObama | 39 | 45 | 2 | 46% | $3,903,097 | -$161,378 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 48 | 28 | 2 | 63% | $3,599,185 | +$207,583 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
@@ -79,8 +79,8 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.20 (83¢) | $87,412 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | SDTrading | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $25,600 | — | ⏳ Pendiente |
-| BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
-| BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $50,000 | — | ⏳ Pendiente |
+| BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
+| BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $50,000 | -$50,000 | ❌ Perdida |
 | beeemw | Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina | Daniil Medvedev | 1.12 (89¢) | $38,489 | +$4,757 | ✅ Ganada |
 | tennischamp | Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina | Daniil Medvedev | 1.14 (88¢) | $29,955 | +$4,085 | ✅ Ganada |
 | vtcchampion52 | LoL: KT Rolster vs Team Vitality (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.47 (68¢) | $34,000 | +$16,000 | ✅ Ganada |
