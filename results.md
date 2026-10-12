@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 19:15:18 (hora de Perú)
+Actualizado: 2026-10-11 19:17:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4951**  ($267,562,071 en total)
+- Apuestas registradas: **4952**  ($267,688,725 en total)
 - Resueltas: **4912** — 3009 ganadas / 1903 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 552
 
 ### Balance
@@ -40,8 +40,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 46 | 28 | 2 | 62% | $3,460,248 | +$144,817 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
+| surfandturf | 30 | 8 | 1 | 79% | $3,324,510 | +$529,990 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| surfandturf | 30 | 8 | 0 | 79% | $3,197,856 | +$529,990 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | mooseborzoii | 35 | 17 | 1 | 67% | $2,572,790 | +$553,345 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $126,654 | — | ⏳ Pendiente |
 | milkteaboba | Ravens vs. Falcons | Ravens | 2.70 (37¢) | $58,730 | — | ⏳ Pendiente |
 | 3648393489047 | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $65,155 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | tiger105 | Will SC Freiburg win on 2026-10-11? | Yes | 1.25 (80¢) | $26,236 | +$6,559 | ✅ Ganada |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | StasPanda | Will Liverpool FC win on 2026-10-11? | No | 1.37 (73¢) | $25,921 | +$9,587 | ✅ Ganada |
-| ferrariChampions2026 | Eagles vs. Jaguars | Jaguars | 2.17 (46¢) | $28,991 | +$34,033 | ✅ Ganada |
