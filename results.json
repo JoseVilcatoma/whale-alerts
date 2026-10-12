@@ -74793,5 +74793,20 @@
     "status": "pending",
     "ultimo_fill": 1791784159,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10138,
+    "timestamp": 1791785719,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "lol-kt-vit-2026-10-12-game1",
+    "title": "LoL: KT Rolster vs Team Vitality - Game 1 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 35525.0488,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1791785719,
+    "fills": 1
   }
 ]
