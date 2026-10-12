@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 22:46:31 (hora de Perú)
+Actualizado: 2026-10-11 22:48:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4975**  ($269,828,751 en total)
-- Resueltas: **4928** — 3020 ganadas / 1908 perdidas (**61%** de acierto)
+- Apuestas registradas: **4974**  ($269,797,811 en total)
+- Resueltas: **4927** — 3020 ganadas / 1907 perdidas (**61%** de acierto)
 - Pendientes: 26
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: +$278,774** sobre $267,197,021 apostados (ROI **+0.1%**)
+- **Resultado de los apostadores: +$657,922** sobre $266,743,040 apostados (ROI **+0.2%**)
 - Copiando $100 fijo en cada una: **-$4,369** sobre $486,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
 | 0F62 | 29 | 3 | 1 | 91% | $2,222,414 | +$81,080 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| cosmicxbt | 15 | 6 | 0 | 71% | $2,166,276 | -$364,620 |
+| cosmicxbt | 15 | 5 | 1 | 75% | $2,166,276 | +$14,528 |
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
 | ndb1 | 23 | 12 | 0 | 66% | $1,869,615 | +$373,778 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -71,12 +71,11 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| yoyoyoyoer | Ravens vs. Falcons | Ravens | 1.18 (85¢) | $30,940 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Ravens | 1.89 (53¢) | $53,054 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Falcons | Ravens | 2.00 (50¢) | $122,511 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.61 (62¢) | $32,928 | — | ⏳ Pendiente |
 | ethanaz | Ravens vs. Falcons | Ravens | 2.63 (38¢) | $66,553 | — | ⏳ Pendiente |
-| cosmicxbt | Ravens vs. Falcons | Falcons | 1.10 (91¢) | $453,980 | -$379,148 | 💰 Vendida antes |
+| cosmicxbt | Ravens vs. Falcons | Falcons | 1.10 (91¢) | $453,980 | — | ⏳ Pendiente |
 | yoyoyoyoer | Ravens vs. Falcons | Falcons | 1.41 (71¢) | $37,275 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.43 (70¢) | $48,220 | — | ⏳ Pendiente |
 | veliMax | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.22 (82¢) | $50,925 | +$11,179 | ✅ Ganada |
@@ -131,3 +130,4 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | 1827575782 | Browns vs. Jets | Jets | 1.09 (92¢) | $42,364 | +$3,684 | ✅ Ganada |
 | mentionmarket | Browns vs. Jets | Jets | 3.12 (32¢) | $43,334 | +$92,085 | ✅ Ganada |
 | mooseborzoii | Broncos vs. Chargers | Chargers | 2.70 (37¢) | $27,800 | -$27,800 | ❌ Perdida |
+| fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $25,790 | +$25,790 | ✅ Ganada |
