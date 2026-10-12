@@ -74778,5 +74778,20 @@
     "status": "won",
     "ultimo_fill": 1791776637,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10137,
+    "timestamp": 1791784159,
+    "username": "0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57",
+    "wallet": "0xd8b4d1e58dc7d60ddc886bcb9d456eb5da887773",
+    "slug": "wta-kalinsk-zhang-2026-10-11",
+    "title": "Wuhan Tennis Open: Anna Kalinskaya vs Shuai Zhang",
+    "outcome": "Shuai Zhang",
+    "side": "BUY",
+    "usd": 28057.179200000002,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791784159,
+    "fills": 1
   }
 ]
