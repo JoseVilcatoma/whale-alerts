@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 12:10:50 (hora de Perú)
+Actualizado: 2026-10-12 12:12:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **4991**  ($270,498,370 en total)
-- Resueltas: **4959** — 3035 ganadas / 1924 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **4962** — 3038 ganadas / 1924 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: -$61,153** sobre $269,118,425 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,432** sobre $489,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$1,893** sobre $269,286,218 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,292** sobre $489,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 47 | 20 | 0 | 70% | $3,910,643 | -$85,390 |
 | BrotherObama | 39 | 45 | 2 | 46% | $3,903,097 | -$161,378 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Lakersfan111 | 48 | 28 | 2 | 63% | $3,599,185 | +$207,583 |
+| Lakersfan111 | 50 | 28 | 0 | 64% | $3,599,185 | +$249,733 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | surfandturf | 30 | 9 | 0 | 77% | $3,324,510 | +$403,336 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -74,9 +74,9 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | mooseborzoii | Spread: Tampa Bay Rays (-1.5) | Cleveland Guardians | 1.72 (58¢) | $44,353 | — | ⏳ Pendiente |
 | mooseborzoii | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 2.56 (39¢) | $52,077 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.08 (93¢) | $27,516 | +$2,071 | ✅ Ganada |
-| ziyoucui | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.72 (58¢) | $28,856 | — | ⏳ Pendiente |
+| ziyoucui | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.72 (58¢) | $28,856 | +$20,896 | ✅ Ganada |
 | lsiflsliggjriek | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.19 (84¢) | $26,843 | +$5,113 | ✅ Ganada |
-| fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.20 (83¢) | $87,412 | — | ⏳ Pendiente |
+| fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.20 (83¢) | $87,412 | +$17,904 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | SDTrading | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $25,600 | — | ⏳ Pendiente |
 | BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.61 (62¢) | $219,027 | -$219,027 | ❌ Perdida |
 | milkteaboba | Ravens vs. Falcons | Falcons | 1.49 (67¢) | $271,562 | -$271,562 | ❌ Perdida |
 | mooseborzoii | Ravens vs. Falcons | Ravens | 3.03 (33¢) | $60,101 | +$122,023 | ✅ Ganada |
-| fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $51,525 | — | ⏳ Pendiente |
+| fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $51,525 | +$24,247 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Ravens vs. Falcons | Ravens | 2.33 (43¢) | $27,764 | +$36,804 | ✅ Ganada |
 | surfandturf | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $126,654 | -$126,654 | ❌ Perdida |
 | milkteaboba | Ravens vs. Falcons | Ravens | 2.70 (37¢) | $58,730 | +$100,000 | ✅ Ganada |
