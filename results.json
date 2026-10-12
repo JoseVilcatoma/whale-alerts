@@ -74944,5 +74944,20 @@
     "status": "pending",
     "ultimo_fill": 1791810966,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10155,
+    "timestamp": 1791813395,
+    "username": "lsiflsliggjriek",
+    "wallet": "0x4f53058cc60f2a4bcdfe5670b2da90196e1367d3",
+    "slug": "atp-piraino-gill-2026-10-12",
+    "title": "Catania: Gabriele Piraino vs Felix Gill",
+    "outcome": "Felix Gill",
+    "side": "BUY",
+    "usd": 26843.0055,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1791813395,
+    "fills": 1
   }
 ]

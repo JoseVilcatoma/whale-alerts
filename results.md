@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 08:54:36 (hora de Perú)
+Actualizado: 2026-10-12 08:56:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4986**  ($270,318,724 en total)
+- Apuestas registradas: **4987**  ($270,345,567 en total)
 - Resueltas: **4955** — 3033 ganadas / 1922 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 552
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lsiflsliggjriek | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.19 (84¢) | $26,843 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.20 (83¢) | $87,412 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | SDTrading | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $25,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | 1827575782 | Lions vs. Cardinals | Lions | 1.08 (93¢) | $128,547 | +$9,676 | ✅ Ganada |
 | Hashbrown | Lions vs. Cardinals | Lions | 1.10 (91¢) | $35,490 | +$3,510 | ✅ Ganada |
 | 1827575782 | Lions vs. Cardinals | Lions | 1.11 (90¢) | $153,770 | +$17,086 | ✅ Ganada |
-| KaneAnalytics | Lions vs. Cardinals | Lions | 1.41 (71¢) | $25,487 | +$10,410 | ✅ Ganada |
