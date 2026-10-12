@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 22:25:21 (hora de Perú)
+Actualizado: 2026-10-11 22:27:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4972**  ($269,622,246 en total)
+- Apuestas registradas: **4973**  ($269,744,757 en total)
 - Resueltas: **4917** — 3012 ganadas / 1905 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 552
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 357 | 189 | 3 | 65% | $33,891,640 | +$1,056,691 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 357 | 189 | 4 | 65% | $34,014,151 | +$1,056,691 |
 | Sassy-Bucket | 68 | 64 | 6 | 52% | $7,846,808 | -$470,344 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 82 | 1 | 52% | $7,016,833 | -$531,628 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Falcons | Ravens | 2.00 (50¢) | $122,511 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.61 (62¢) | $32,928 | — | ⏳ Pendiente |
 | ethanaz | Ravens vs. Falcons | Ravens | 2.63 (38¢) | $66,553 | — | ⏳ Pendiente |
 | cosmicxbt | Ravens vs. Falcons | Falcons | 1.10 (91¢) | $453,980 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | mooseborzoii | Broncos vs. Chargers | Chargers | 2.70 (37¢) | $27,800 | -$27,800 | ❌ Perdida |
 | fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $25,790 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will SC Internacional win on 2026-10-11? | Yes | 2.86 (35¢) | $26,882 | -$26,882 | ❌ Perdida |
-| gmpm2 | Spread: Broncos (-3.5) | Chargers | 1.96 (51¢) | $31,824 | -$31,824 | ❌ Perdida |
