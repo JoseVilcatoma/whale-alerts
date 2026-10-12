@@ -59,10 +59,6 @@
     "username": "Diabolical-Prize",
     "added_at": 1791173700.4824295
   },
-  "0x709e8dcb133555794decc598e07f2c923b8366f5": {
-    "username": "0xd4aa6f8e91cfea29b66a48ebff52814",
-    "added_at": 1791173700.4824295
-  },
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
     "username": "Sassy-Bucket",
     "added_at": 1791209640.8225672
@@ -178,5 +174,13 @@
   "0x03805a13a0b3e058f55f6c6af95389d4f431073d": {
     "username": "donthackme",
     "added_at": 1791772629.9394846
+  },
+  "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d": {
+    "username": "mooseborzoii",
+    "added_at": 1791782989.3486636
+  },
+  "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3": {
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "added_at": 1791782989.3486636
   }
 }
