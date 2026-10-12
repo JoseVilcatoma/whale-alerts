@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 22:19:04 (hora de Perú)
+Actualizado: 2026-10-11 22:21:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4970**  ($269,522,765 en total)
+- Apuestas registradas: **4972**  ($269,622,246 en total)
 - Resueltas: **4917** — 3012 ganadas / 1905 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 34
 - Apostadores distintos: 552
 
 ### Balance
@@ -35,14 +35,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ferrariChampions2026 | 81 | 40 | 1 | 67% | $4,986,215 | -$10,453 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
-| ethanaz | 46 | 19 | 1 | 71% | $3,844,090 | -$68,083 |
+| ethanaz | 46 | 19 | 2 | 71% | $3,910,643 | -$68,083 |
 | BrotherObama | 39 | 42 | 3 | 48% | $3,823,097 | -$11,378 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 46 | 28 | 3 | 62% | $3,511,773 | +$144,817 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | surfandturf | 30 | 8 | 1 | 79% | $3,324,510 | +$529,990 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| mooseborzoii | 35 | 17 | 7 | 67% | $3,014,046 | +$553,345 |
+| mooseborzoii | 35 | 17 | 8 | 67% | $3,046,974 | +$553,345 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Ravens vs. Falcons | Falcons | 1.61 (62¢) | $32,928 | — | ⏳ Pendiente |
+| ethanaz | Ravens vs. Falcons | Ravens | 2.63 (38¢) | $66,553 | — | ⏳ Pendiente |
 | cosmicxbt | Ravens vs. Falcons | Falcons | 1.10 (91¢) | $453,980 | — | ⏳ Pendiente |
 | yoyoyoyoer | Ravens vs. Falcons | Falcons | 1.41 (71¢) | $37,275 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.43 (70¢) | $48,220 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $25,790 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will SC Internacional win on 2026-10-11? | Yes | 2.86 (35¢) | $26,882 | -$26,882 | ❌ Perdida |
 | gmpm2 | Spread: Broncos (-3.5) | Chargers | 1.96 (51¢) | $31,824 | -$31,824 | ❌ Perdida |
-| 1827575782 | Vikings vs. Saints | Vikings | 1.08 (93¢) | $139,500 | +$10,500 | ✅ Ganada |
-| UpTheBlues | Will CA Platense win on 2026-10-11? | No | 1.47 (68¢) | $26,483 | +$12,463 | ✅ Ganada |
