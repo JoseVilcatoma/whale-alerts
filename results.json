@@ -74899,5 +74899,20 @@
     "status": "pending",
     "ultimo_fill": 1791796342,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10151,
+    "timestamp": 1791808242,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-cle-tb-2026-10-12",
+    "title": "Cleveland Guardians vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 25600.5,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1791808242,
+    "fills": 1
   }
 ]
