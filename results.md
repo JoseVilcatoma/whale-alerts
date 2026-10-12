@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 22:29:34 (hora de Perú)
+Actualizado: 2026-10-11 22:31:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4973**  ($269,744,757 en total)
-- Resueltas: **4917** — 3012 ganadas / 1905 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Apuestas registradas: **4974**  ($269,797,811 en total)
+- Resueltas: **4920** — 3015 ganadas / 1905 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: +$451,103** sobre $266,287,112 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,864** sobre $485,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$593,523** sobre $266,446,037 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,583** sobre $485,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 357 | 189 | 4 | 65% | $34,014,151 | +$1,056,691 |
-| Sassy-Bucket | 68 | 64 | 6 | 52% | $7,846,808 | -$470,344 |
+| Sassy-Bucket | 71 | 64 | 3 | 53% | $7,846,808 | -$327,924 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 89 | 82 | 1 | 52% | $7,016,833 | -$531,628 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | surfandturf | 30 | 8 | 1 | 79% | $3,324,510 | +$529,990 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| mooseborzoii | 35 | 17 | 8 | 67% | $3,046,974 | +$553,345 |
+| mooseborzoii | 35 | 17 | 9 | 67% | $3,100,028 | +$553,345 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Ravens vs. Falcons | Ravens | 1.89 (53¢) | $53,054 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Falcons | Ravens | 2.00 (50¢) | $122,511 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.61 (62¢) | $32,928 | — | ⏳ Pendiente |
 | ethanaz | Ravens vs. Falcons | Ravens | 2.63 (38¢) | $66,553 | — | ⏳ Pendiente |
@@ -95,11 +96,11 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | surfandturf | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $126,654 | — | ⏳ Pendiente |
 | milkteaboba | Ravens vs. Falcons | Ravens | 2.70 (37¢) | $58,730 | — | ⏳ Pendiente |
 | 3648393489047 | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
-| Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $65,155 | — | ⏳ Pendiente |
+| Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $65,155 | +$53,309 | ✅ Ganada |
 | 3648393489047 | Hurricanes vs. Flyers | Hurricanes | 1.54 (65¢) | $25,935 | +$13,965 | ✅ Ganada |
 | presidentyake | Spread: Falcons (-3.5) | Falcons | 2.08 (48¢) | $25,140 | — | ⏳ Pendiente |
-| Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $58,938 | — | ⏳ Pendiente |
-| Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 5.5 | Under 5.5 | 2.17 (46¢) | $34,832 | — | ⏳ Pendiente |
+| Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $58,938 | +$48,222 | ✅ Ganada |
+| Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 5.5 | Under 5.5 | 2.17 (46¢) | $34,832 | +$40,890 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $52,401 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | St. Louis City SC vs. Los Angeles Galaxy: O/U 4.5 | Over 4.5 | 1.10 (91¢) | $35,941 | +$3,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Seahawks | 49ers | 1.32 (76¢) | $55,181 | +$17,426 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | mentionmarket | Browns vs. Jets | Jets | 3.12 (32¢) | $43,334 | +$92,085 | ✅ Ganada |
 | mooseborzoii | Broncos vs. Chargers | Chargers | 2.70 (37¢) | $27,800 | -$27,800 | ❌ Perdida |
 | fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $25,790 | — | ⏳ Pendiente |
-| OhWhenTheReds | Will SC Internacional win on 2026-10-11? | Yes | 2.86 (35¢) | $26,882 | -$26,882 | ❌ Perdida |
