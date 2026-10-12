@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 21:05:13 (hora de Perú)
+Actualizado: 2026-10-11 21:07:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4962**  ($268,703,235 en total)
+- Apuestas registradas: **4965**  ($268,806,472 en total)
 - Resueltas: **4916** — 3012 ganadas / 1904 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 28
 - Apostadores distintos: 552
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | surfandturf | 30 | 8 | 1 | 79% | $3,324,510 | +$529,990 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| mooseborzoii | 35 | 17 | 5 | 67% | $2,921,422 | +$553,345 |
+| mooseborzoii | 35 | 17 | 6 | 67% | $2,965,826 | +$553,345 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $29,833 | — | ⏳ Pendiente |
+| mooseborzoii | Ravens vs. Falcons | Ravens | 3.70 (27¢) | $44,404 | — | ⏳ Pendiente |
+| alwaysfade | Ravens vs. Falcons | Ravens | 3.45 (29¢) | $29,000 | — | ⏳ Pendiente |
 | BrotherObama | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 2.00 (50¢) | $70,000 | — | ⏳ Pendiente |
 | cosmicxbt | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $210,777 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.75 (57¢) | $38,119 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | beeemw | Vikings vs. Saints | Vikings | 1.27 (79¢) | $60,040 | +$15,960 | ✅ Ganada |
 | cosmicxbt | Vikings vs. Saints | Vikings | 1.27 (79¢) | $118,500 | +$31,500 | ✅ Ganada |
 | ferrariChampions2026 | Vikings vs. Saints | Vikings | 1.41 (71¢) | $32,746 | +$13,375 | ✅ Ganada |
-| veliMax | Will Real Betis Balompié win on 2026-10-11? | Yes | 1.22 (82¢) | $31,071 | +$6,820 | ✅ Ganada |
-| mooseborzoii | Vikings vs. Saints | Saints | 2.27 (44¢) | $29,674 | -$29,674 | ❌ Perdida |
-| Sassy-Bucket | Texans vs. Titans: O/U 38.5 | Over 38.5 | 2.13 (47¢) | $38,052 | -$38,052 | ❌ Perdida |
