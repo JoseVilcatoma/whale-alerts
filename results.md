@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 21:13:23 (hora de Perú)
+Actualizado: 2026-10-11 21:15:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4965**  ($268,806,472 en total)
+- Apuestas registradas: **4966**  ($268,932,364 en total)
 - Resueltas: **4916** — 3012 ganadas / 1904 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 552
 
 ### Balance
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ferrariChampions2026 | 81 | 40 | 1 | 67% | $4,986,215 | -$10,453 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
+| ethanaz | 46 | 19 | 1 | 71% | $3,844,090 | -$68,083 |
 | BrotherObama | 39 | 42 | 3 | 48% | $3,823,097 | -$11,378 |
-| ethanaz | 46 | 19 | 0 | 71% | $3,718,198 | -$68,083 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 46 | 28 | 3 | 62% | $3,511,773 | +$144,817 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $125,892 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $29,833 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Falcons | Ravens | 3.70 (27¢) | $44,404 | — | ⏳ Pendiente |
 | alwaysfade | Ravens vs. Falcons | Ravens | 3.45 (29¢) | $29,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Lions vs. Cardinals: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $49,000 | -$49,000 | ❌ Perdida |
 | beeemw | Vikings vs. Saints | Vikings | 1.27 (79¢) | $60,040 | +$15,960 | ✅ Ganada |
 | cosmicxbt | Vikings vs. Saints | Vikings | 1.27 (79¢) | $118,500 | +$31,500 | ✅ Ganada |
-| ferrariChampions2026 | Vikings vs. Saints | Vikings | 1.41 (71¢) | $32,746 | +$13,375 | ✅ Ganada |
