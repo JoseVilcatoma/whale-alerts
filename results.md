@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-11 19:42:07 (hora de Perú)
+Actualizado: 2026-10-11 19:44:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4954**  ($267,768,015 en total)
-- Resueltas: **4912** — 3009 ganadas / 1903 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Apuestas registradas: **4956**  ($268,099,679 en total)
+- Resueltas: **4913** — 3009 ganadas / 1904 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: +$462,567** sobre $265,954,449 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,882** sobre $484,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$435,684** sobre $265,981,332 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,982** sobre $484,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,8 +43,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 30 | 8 | 1 | 79% | $3,324,510 | +$529,990 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
+| mooseborzoii | 35 | 17 | 2 | 67% | $2,632,891 | +$553,345 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| mooseborzoii | 35 | 17 | 1 | 67% | $2,572,790 | +$553,345 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Ravens vs. Falcons | Falcons | 1.49 (67¢) | $271,562 | — | ⏳ Pendiente |
+| mooseborzoii | Ravens vs. Falcons | Ravens | 3.03 (33¢) | $60,101 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $51,525 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Ravens vs. Falcons | Ravens | 2.33 (43¢) | $27,764 | — | ⏳ Pendiente |
 | surfandturf | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $126,654 | — | ⏳ Pendiente |
@@ -111,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | mentionmarket | Browns vs. Jets | Jets | 3.12 (32¢) | $43,334 | +$92,085 | ✅ Ganada |
 | mooseborzoii | Broncos vs. Chargers | Chargers | 2.70 (37¢) | $27,800 | -$27,800 | ❌ Perdida |
 | fortnitethegoat667 | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $25,790 | — | ⏳ Pendiente |
-| OhWhenTheReds | Will SC Internacional win on 2026-10-11? | Yes | 2.86 (35¢) | $26,882 | — | ⏳ Pendiente |
+| OhWhenTheReds | Will SC Internacional win on 2026-10-11? | Yes | 2.86 (35¢) | $26,882 | -$26,882 | ❌ Perdida |
 | gmpm2 | Spread: Broncos (-3.5) | Chargers | 1.96 (51¢) | $31,824 | -$31,824 | ❌ Perdida |
 | 1827575782 | Vikings vs. Saints | Vikings | 1.08 (93¢) | $139,500 | +$10,500 | ✅ Ganada |
 | UpTheBlues | Will CA Platense win on 2026-10-11? | No | 1.47 (68¢) | $26,483 | +$12,463 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Liverpool FC win on 2026-10-11? | No | 1.32 (76¢) | $64,748 | +$20,447 | ✅ Ganada |
 | RJW1 | Will Manchester City FC win on 2026-10-11? | Yes | 2.44 (41¢) | $71,138 | +$102,369 | ✅ Ganada |
 | SDTrading | Browns vs. Jets | Jets | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
-| SDTrading | Spread: Steelers (-3.5) | Colts | 1.79 (56¢) | $25,200 | -$25,200 | ❌ Perdida |
-| tiger105 | Will SC Freiburg win on 2026-10-11? | Yes | 1.25 (80¢) | $26,236 | +$6,559 | ✅ Ganada |
