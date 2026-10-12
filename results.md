@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 17:45:23 (hora de Perú)
+Actualizado: 2026-10-12 17:47:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4995**  ($270,656,957 en total)
+- Apuestas registradas: **4996**  ($270,684,026 en total)
 - Resueltas: **4964** — 3038 ganadas / 1926 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 552
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| Noprajsk | 13 | 9 | 0 | 59% | $2,258,065 | +$89,247 |
+| Noprajsk | 13 | 9 | 1 | 59% | $2,285,134 | +$89,247 |
 | 0F62 | 29 | 4 | 0 | 88% | $2,222,414 | +$46,831 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | cosmicxbt | 15 | 6 | 0 | 71% | $2,166,276 | -$364,620 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Noprajsk | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.63 (38¢) | $27,069 | — | ⏳ Pendiente |
 | Mastermoney | Coventry City FC vs. Newcastle United FC: O/U 8.5 Total Corners | Over 8.5 Total Corners | 1.56 (64¢) | $31,361 | -$31,361 | ❌ Perdida |
 | plonker2026 | Will Newcastle United FC win on 2026-10-12? | Yes | 2.17 (46¢) | $39,748 | -$39,748 | ❌ Perdida |
 | BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.38 (42¢) | $59,859 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | TAIWANNUMBERONE | 49ers vs. Seahawks | Seahawks | 1.41 (71¢) | $25,139 | -$25,139 | ❌ Perdida |
 | TAIWANNUMBERONE | 49ers vs. Seahawks | Seahawks | 1.47 (68¢) | $38,144 | -$38,144 | ❌ Perdida |
 | yoyoyoyoer | Broncos vs. Chargers | Chargers | 1.43 (70¢) | $45,963 | -$45,963 | ❌ Perdida |
-| gambamaster | 49ers vs. Seahawks | 49ers | 1.49 (67¢) | $45,845 | +$22,581 | ✅ Ganada |
