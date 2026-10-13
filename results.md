@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 19:57:19 (hora de Perú)
+Actualizado: 2026-10-12 19:59:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5003**  ($270,983,260 en total)
+- Apuestas registradas: **5004**  ($271,034,219 en total)
 - Resueltas: **4968** — 3040 ganadas / 1928 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 552
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 39 | 46 | 2 | 46% | $3,962,955 | -$221,237 |
 | ethanaz | 47 | 20 | 0 | 70% | $3,910,643 | -$85,390 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Lakersfan111 | 50 | 28 | 0 | 64% | $3,599,185 | +$249,733 |
+| Lakersfan111 | 50 | 28 | 1 | 64% | $3,650,145 | +$249,733 |
 | surfandturf | 30 | 9 | 1 | 77% | $3,387,086 | +$403,336 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.13 (47¢) | $50,959 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.75 (57¢) | $35,768 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.96 (51¢) | $32,003 | — | ⏳ Pendiente |
 | 3648393489047 | Bills vs. Rams | Bills | 2.04 (49¢) | $25,477 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | presidentyake | Spread: Falcons (-3.5) | Falcons | 2.08 (48¢) | $25,140 | -$25,140 | ❌ Perdida |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $58,938 | +$48,222 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 5.5 | Under 5.5 | 2.17 (46¢) | $34,832 | +$40,890 | ✅ Ganada |
-| Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $52,401 | +$52,401 | ✅ Ganada |
