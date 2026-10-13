@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 16:39:42 (hora de Perú)
+Actualizado: 2026-10-13 16:41:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5058**  ($274,753,006 en total)
-- Resueltas: **5017** — 3071 ganadas / 1946 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **5020** — 3074 ganadas / 1946 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 557
 
 ### Balance
 
-- **Resultado de los apostadores: +$7,103** sobre $272,313,780 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$3,863** sobre $494,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$112,317** sobre $272,944,743 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$3,823** sobre $495,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 360 | 191 | 4 | 65% | $34,712,115 | +$1,145,402 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 361 | 191 | 3 | 65% | $34,712,115 | +$1,237,642 |
 | Sassy-Bucket | 73 | 64 | 2 | 53% | $7,895,360 | -$237,375 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
-| ferrariChampions2026 | 81 | 44 | 2 | 65% | $5,175,496 | -$132,781 |
+| ferrariChampions2026 | 82 | 44 | 1 | 65% | $5,175,496 | -$122,807 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 46 | 2 | 47% | $4,003,955 | -$180,237 |
 | Lakersfan111 | 56 | 28 | 0 | 67% | $3,931,304 | +$596,081 |
@@ -73,13 +73,13 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 |---|---|---|---|---|---|---|
 | ferrariChampions2026 | Panthers vs. Blue Jackets | Panthers | 2.22 (45¢) | $30,684 | — | ⏳ Pendiente |
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $26,801 | — | ⏳ Pendiente |
-| Nooserac | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.06 (94¢) | $47,000 | — | ⏳ Pendiente |
+| Nooserac | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.06 (94¢) | $47,000 | +$3,000 | ✅ Ganada |
 | SebastianAde1996 | Spread: FC Bayern München (-2.5) | Viking FK | 1.89 (53¢) | $70,000 | — | ⏳ Pendiente |
 | Kch-Temp | Will Arsenal FC win on 2026-10-13? | Yes | 1.23 (81¢) | $127,936 | — | ⏳ Pendiente |
 | ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.17 (46¢) | $275,517 | -$275,517 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.18 (85¢) | $522,695 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.18 (85¢) | $522,695 | +$92,240 | ✅ Ganada |
 | ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.27 (44¢) | $209,386 | -$209,386 | ❌ Perdida |
-| ferrariChampions2026 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.16 (86¢) | $61,268 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.16 (86¢) | $61,268 | +$9,974 | ✅ Ganada |
 | Daemon99 | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $27,872 | — | ⏳ Pendiente |
 | YEEES-but-why | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
 | ArturitoFilito | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.22 (45¢) | $70,000 | — | ⏳ Pendiente |
