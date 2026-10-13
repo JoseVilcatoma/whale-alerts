@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 10:07:34 (hora de Perú)
+Actualizado: 2026-10-13 10:09:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5040**  ($272,904,342 en total)
+- Apuestas registradas: **5041**  ($272,936,292 en total)
 - Resueltas: **4998** — 3057 ganadas / 1941 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 556
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.69 (59¢) | $31,950 | — | ⏳ Pendiente |
 | 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $69,315 | — | ⏳ Pendiente |
 | 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.69 (59¢) | $54,925 | — | ⏳ Pendiente |
 | RJW1 | Arsenal FC vs. Lille OSC: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $34,537 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | SDTrading | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $25,600 | -$25,600 | ❌ Perdida |
 | BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
 | BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $50,000 | -$50,000 | ❌ Perdida |
-| beeemw | Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina | Daniil Medvedev | 1.12 (89¢) | $38,489 | +$4,757 | ✅ Ganada |
