@@ -75139,5 +75139,20 @@
     "status": "pending",
     "ultimo_fill": 1791849973,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10178,
+    "timestamp": 1791850555,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "nfl-buf-la-2026-10-13",
+    "title": "Bills vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 31049.249631000002,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1791850555,
+    "fills": 1
   }
 ]

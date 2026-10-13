@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 19:14:03 (hora de Perú)
+Actualizado: 2026-10-12 19:16:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4999**  ($270,827,436 en total)
+- Apuestas registradas: **5000**  ($270,858,485 en total)
 - Resueltas: **4964** — 3038 ganadas / 1926 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 552
 
 ### Balance
@@ -39,8 +39,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 47 | 20 | 0 | 70% | $3,910,643 | -$85,390 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 50 | 28 | 0 | 64% | $3,599,185 | +$249,733 |
+| surfandturf | 30 | 9 | 1 | 77% | $3,355,560 | +$403,336 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
-| surfandturf | 30 | 9 | 0 | 77% | $3,324,510 | +$403,336 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | mooseborzoii | 38 | 22 | 4 | 63% | $3,282,343 | +$519,841 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Bills vs. Rams | Rams | 1.64 (61¢) | $31,049 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Rams (-4.5) | Bills | 1.79 (56¢) | $48,551 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Bills (-3.5) | Rams | 1.37 (73¢) | $62,029 | — | ⏳ Pendiente |
 | mooseborzoii | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 2.56 (39¢) | $32,830 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | Roadto1mlesgooo | St. Louis City SC vs. Los Angeles Galaxy: O/U 4.5 | Over 4.5 | 1.10 (91¢) | $35,941 | +$3,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Seahawks | 49ers | 1.32 (76¢) | $55,181 | +$17,426 | ✅ Ganada |
 | mooseborzoii | 49ers vs. Seahawks | 49ers | 1.67 (60¢) | $35,714 | +$23,809 | ✅ Ganada |
-| 3648393489047 | 49ers vs. Seahawks | Seahawks | 1.39 (72¢) | $50,400 | -$50,400 | ❌ Perdida |
