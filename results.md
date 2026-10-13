@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 12:42:26 (hora de Perú)
+Actualizado: 2026-10-13 12:44:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5044**  ($273,039,299 en total)
+- Apuestas registradas: **5046**  ($273,237,847 en total)
 - Resueltas: **5011** — 3067 ganadas / 1944 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 13
 - Apostadores distintos: 556
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| joseph00677 | Will Club Atlético de Madrid win on 2026-10-13? | Yes | 1.92 (52¢) | $164,048 | — | ⏳ Pendiente |
+| Yellow-Fever | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $34,500 | — | ⏳ Pendiente |
 | bbb17367162806 | Will Club Atlético de Madrid vs. Manchester United FC end in a draw? | No | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | tenniz | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.10 (91¢) | $25,640 | +$2,536 | ✅ Ganada |
 | HVAB | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.30 (77¢) | $47,367 | +$14,149 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | kdvlklkvlsklkfs | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.08 (93¢) | $27,516 | +$2,071 | ✅ Ganada |
 | ziyoucui | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.72 (58¢) | $28,856 | +$20,896 | ✅ Ganada |
 | lsiflsliggjriek | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.19 (84¢) | $26,843 | +$5,113 | ✅ Ganada |
-| fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.20 (83¢) | $87,412 | +$17,904 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 1.82 (55¢) | $33,000 | -$33,000 | ❌ Perdida |
