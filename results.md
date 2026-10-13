@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 21:51:44 (hora de Perú)
+Actualizado: 2026-10-12 21:53:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5012**  ($271,445,369 en total)
+- Apuestas registradas: **5013**  ($271,512,193 en total)
 - Resueltas: **4969** — 3041 ganadas / 1928 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 554
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 358 | 189 | 3 | 65% | $34,014,151 | +$1,179,202 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 358 | 189 | 4 | 65% | $34,046,975 | +$1,179,202 |
 | Sassy-Bucket | 72 | 64 | 3 | 53% | $7,895,360 | -$275,523 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 90 | 83 | 2 | 52% | $7,122,111 | -$527,824 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| cosmicxbt | 15 | 6 | 2 | 71% | $2,372,992 | -$364,620 |
+| cosmicxbt | 15 | 6 | 2 | 71% | $2,406,992 | -$364,620 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0F62 | 29 | 4 | 0 | 88% | $2,222,414 | +$46,831 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 554 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| cosmicxbt | Bills vs. Rams | Bills | 1.47 (68¢) | $133,293 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 3.12 (32¢) | $32,824 | — | ⏳ Pendiente |
+| cosmicxbt | Bills vs. Rams | Bills | 1.47 (68¢) | $167,293 | — | ⏳ Pendiente |
 | Velin217 | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 1.06 (94¢) | $47,134 | — | ⏳ Pendiente |
 | 0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274 | Bills vs. Rams | Rams | 1.82 (55¢) | $25,966 | — | ⏳ Pendiente |
 | cosmicxbt | Bills vs. Rams | Rams | 1.56 (64¢) | $73,423 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 554 en total)_
 | milkteaboba | Ravens vs. Falcons | Falcons | 1.49 (67¢) | $271,562 | -$271,562 | ❌ Perdida |
 | mooseborzoii | Ravens vs. Falcons | Ravens | 3.03 (33¢) | $60,101 | +$122,023 | ✅ Ganada |
 | fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $51,525 | +$24,247 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Ravens vs. Falcons | Ravens | 2.33 (43¢) | $27,764 | +$36,804 | ✅ Ganada |

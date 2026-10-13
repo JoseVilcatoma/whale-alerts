@@ -75331,10 +75331,25 @@
     "title": "Bills vs. Rams",
     "outcome": "Bills",
     "side": "BUY",
-    "usd": 133293.1444,
+    "usd": 167293.1444,
     "odds_at_bet": 68,
     "status": "pending",
-    "ultimo_fill": 1791859901,
+    "ultimo_fill": 1791859951,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 10196,
+    "timestamp": 1791859951,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-buf-la-2026-10-13",
+    "title": "Bills vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 32823.616,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "ultimo_fill": 1791859951,
     "fills": 1
   }
 ]
