@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 22:35:52 (hora de Perú)
+Actualizado: 2026-10-12 22:38:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5017**  ($271,860,026 en total)
+- Apuestas registradas: **5018**  ($271,891,011 en total)
 - Resueltas: **4975** — 3046 ganadas / 1929 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 555
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 358 | 189 | 4 | 65% | $34,046,975 | +$1,179,202 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 358 | 189 | 5 | 65% | $34,077,960 | +$1,179,202 |
 | Sassy-Bucket | 72 | 64 | 3 | 53% | $7,895,360 | -$275,523 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 91 | 83 | 1 | 52% | $7,122,111 | -$499,491 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 555 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 1.11 (90¢) | $30,985 | — | ⏳ Pendiente |
 | arjennnnn | LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.25 (80¢) | $32,000 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.08 (48¢) | $60,775 | — | ⏳ Pendiente |
 | ScroooogeMcDuck | Bills vs. Rams | Bills | 1.23 (81¢) | $45,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 555 en total)_
 | cosmicxbt | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $210,777 | -$19,938 | 💰 Vendida antes |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.75 (57¢) | $38,119 | -$38,119 | ❌ Perdida |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.72 (58¢) | $31,384 | -$31,384 | ❌ Perdida |
-| 0F62 | Shanghai Rolex Masters: Zizou Bergs vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $34,249 | -$34,249 | ❌ Perdida |
