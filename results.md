@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 22:25:30 (hora de Perú)
+Actualizado: 2026-10-12 22:27:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5017**  ($271,860,026 en total)
-- Resueltas: **4970** — 3042 ganadas / 1928 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **4971** — 3043 ganadas / 1928 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 555
 
 ### Balance
 
-- **Resultado de los apostadores: -$68,551** sobre $269,594,672 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,352** sobre $490,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$36,433** sobre $269,639,025 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,280** sobre $490,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| mooseborzoii | 38 | 22 | 4 | 63% | $3,282,343 | +$519,841 |
+| mooseborzoii | 39 | 22 | 3 | 64% | $3,282,343 | +$551,959 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 555 en total)_
 | plonker2026 | Will Newcastle United FC win on 2026-10-12? | Yes | 2.17 (46¢) | $39,748 | -$39,748 | ❌ Perdida |
 | BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.38 (42¢) | $59,859 | -$59,859 | ❌ Perdida |
 | Donkey14 | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers | 1.72 (58¢) | $27,619 | +$20,000 | ✅ Ganada |
-| mooseborzoii | Spread: Tampa Bay Rays (-1.5) | Cleveland Guardians | 1.72 (58¢) | $44,353 | — | ⏳ Pendiente |
+| mooseborzoii | Spread: Tampa Bay Rays (-1.5) | Cleveland Guardians | 1.72 (58¢) | $44,353 | +$32,118 | ✅ Ganada |
 | mooseborzoii | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 2.56 (39¢) | $52,077 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.08 (93¢) | $27,516 | +$2,071 | ✅ Ganada |
 | ziyoucui | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.72 (58¢) | $28,856 | +$20,896 | ✅ Ganada |
