@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 16:15:01 (hora de Perú)
+Actualizado: 2026-10-13 16:17:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5058**  ($274,753,006 en total)
-- Resueltas: **5012** — 3068 ganadas / 1944 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **5013** — 3069 ganadas / 1944 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 557
 
 ### Balance
 
-- **Resultado de los apostadores: +$404,630** sobre $271,677,673 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,811** sobre $494,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$407,626** sobre $271,704,637 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,799** sobre $494,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 13 | 0 | 1 | 100% | $1,724,497 | +$208,027 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
-| 0x361b…74fe | 19 | 1 | 3 | 95% | $1,601,991 | +$675,580 |
+| 0x361b…74fe | 20 | 1 | 2 | 95% | $1,601,991 | +$678,576 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | RJW1 | Arsenal FC vs. Lille OSC: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $34,537 | +$24,000 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.30 (77¢) | $46,200 | -$22,695 | 💰 Vendida antes |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.75 (57¢) | $57,502 | -$28,246 | 💰 Vendida antes |
-| 0x361b…74fe | Will Galatasaray SK win on 2026-10-13? | No | 1.11 (90¢) | $26,964 | — | ⏳ Pendiente |
+| 0x361b…74fe | Will Galatasaray SK win on 2026-10-13? | No | 1.11 (90¢) | $26,964 | +$2,996 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Catania: Enrico Dalla Valle vs Federico Bondioli | Enrico Dalla Valle | 1.49 (67¢) | $33,604 | +$16,551 | ✅ Ganada |
 | Kkunn | Wuhan Tennis Open: Mia Pohankova vs Xiyu Wang | Xiyu Wang | 1.41 (71¢) | $35,500 | -$35,500 | ❌ Perdida |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $55,565 | +$55,565 | ✅ Ganada |
