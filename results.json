@@ -76075,5 +76075,20 @@
     "status": "pending",
     "ultimo_fill": 1791933668,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10309,
+    "timestamp": 1791933836,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "cfb-del-mtnst-2026-10-13",
+    "title": "Delaware vs. Middle Tennessee",
+    "outcome": "Middle Tennessee",
+    "side": "BUY",
+    "usd": 51210.27480000001,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791933836,
+    "fills": 1
   }
 ]

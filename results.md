@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 18:22:05 (hora de Perú)
+Actualizado: 2026-10-13 18:24:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5061**  ($274,905,828 en total)
+- Apuestas registradas: **5062**  ($274,957,039 en total)
 - Resueltas: **5031** — 3078 ganadas / 1953 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 557
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Delaware vs. Middle Tennessee | Middle Tennessee | 1.89 (53¢) | $51,210 | — | ⏳ Pendiente |
 | BrotherObama | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $48,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.13 (47¢) | $33,915 | — | ⏳ Pendiente |
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $70,907 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.61 (62¢) | $29,557 | -$29,557 | ❌ Perdida |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.13 (47¢) | $50,959 | +$57,465 | ✅ Ganada |
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.75 (57¢) | $35,768 | -$35,768 | ❌ Perdida |
-| ferrariChampions2026 | Bills vs. Rams | Rams | 1.96 (51¢) | $32,003 | -$32,003 | ❌ Perdida |
