@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 07:28:49 (hora de Perú)
+Actualizado: 2026-10-13 07:30:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5026**  ($272,310,006 en total)
+- Apuestas registradas: **5027**  ($272,337,647 en total)
 - Resueltas: **4992** — 3055 ganadas / 1937 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 556
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 359 | 191 | 3 | 65% | $34,161,779 | +$1,123,684 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 359 | 191 | 4 | 65% | $34,189,420 | +$1,123,684 |
 | Sassy-Bucket | 73 | 64 | 2 | 53% | $7,895,360 | -$237,375 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Catania: Enrico Dalla Valle vs Federico Bondioli | Enrico Dalla Valle | 1.79 (56¢) | $27,641 | — | ⏳ Pendiente |
 | BrotherObama | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $41,000 | — | ⏳ Pendiente |
 | levaluv | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $27,723 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.04 (49¢) | $65,152 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | cosmicxbt | Ravens vs. Falcons | Falcons | 1.10 (91¢) | $453,980 | -$379,148 | 💰 Vendida antes |
 | yoyoyoyoer | Ravens vs. Falcons | Falcons | 1.41 (71¢) | $37,275 | -$37,275 | ❌ Perdida |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.43 (70¢) | $48,220 | -$48,220 | ❌ Perdida |
-| veliMax | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.22 (82¢) | $50,925 | +$11,179 | ✅ Ganada |
