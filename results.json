@@ -75031,7 +75031,7 @@
     "side": "BUY",
     "usd": 27619.0432,
     "odds_at_bet": 58,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791826082,
     "fills": 1
   },
@@ -75046,7 +75046,7 @@
     "side": "BUY",
     "usd": 59858.63,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791826121,
     "fills": 1
   },
@@ -75168,6 +75168,21 @@
     "odds_at_bet": 49,
     "status": "pending",
     "ultimo_fill": 1791851575,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10182,
+    "timestamp": 1791852418,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-buf-la-2026-10-13",
+    "title": "Bills vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 32003.1987,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791852418,
     "fills": 1
   }
 ]
