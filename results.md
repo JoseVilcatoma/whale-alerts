@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 19:49:05 (hora de Perú)
+Actualizado: 2026-10-12 19:51:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5002**  ($270,947,491 en total)
-- Resueltas: **4966** — 3039 ganadas / 1927 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **4968** — 3040 ganadas / 1928 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: -$109,075** sobre $269,444,805 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,519** sobre $489,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$97,910** sobre $269,504,874 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,456** sobre $490,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 358 | 189 | 3 | 65% | $34,014,151 | +$1,179,202 |
 | Sassy-Bucket | 72 | 64 | 3 | 53% | $7,895,360 | -$275,523 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 90 | 82 | 1 | 52% | $7,049,833 | -$494,824 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 90 | 83 | 0 | 52% | $7,049,833 | -$527,824 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Diabolical-Prize | 60 | 58 | 0 | 51% | $6,230,697 | -$269,712 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| Noprajsk | 13 | 9 | 1 | 59% | $2,285,134 | +$89,247 |
+| Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0F62 | 29 | 4 | 0 | 88% | $2,222,414 | +$46,831 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | cosmicxbt | 15 | 6 | 0 | 71% | $2,166,276 | -$364,620 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | Sassy-Bucket | Spread: Rams (-4.5) | Bills | 1.79 (56¢) | $48,551 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Bills (-3.5) | Rams | 1.37 (73¢) | $62,029 | — | ⏳ Pendiente |
 | mooseborzoii | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 2.56 (39¢) | $32,830 | — | ⏳ Pendiente |
-| Noprajsk | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.63 (38¢) | $27,069 | — | ⏳ Pendiente |
+| Noprajsk | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.63 (38¢) | $27,069 | +$44,165 | ✅ Ganada |
 | Mastermoney | Coventry City FC vs. Newcastle United FC: O/U 8.5 Total Corners | Over 8.5 Total Corners | 1.56 (64¢) | $31,361 | -$31,361 | ❌ Perdida |
 | plonker2026 | Will Newcastle United FC win on 2026-10-12? | Yes | 2.17 (46¢) | $39,748 | -$39,748 | ❌ Perdida |
 | BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.38 (42¢) | $59,859 | -$59,859 | ❌ Perdida |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | ziyoucui | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.72 (58¢) | $28,856 | +$20,896 | ✅ Ganada |
 | lsiflsliggjriek | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.19 (84¢) | $26,843 | +$5,113 | ✅ Ganada |
 | fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.20 (83¢) | $87,412 | +$17,904 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 1.82 (55¢) | $33,000 | -$33,000 | ❌ Perdida |
 | SDTrading | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $25,600 | — | ⏳ Pendiente |
 | BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
 | BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $50,000 | -$50,000 | ❌ Perdida |
