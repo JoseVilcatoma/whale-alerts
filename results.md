@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 18:59:34 (hora de Perú)
+Actualizado: 2026-10-12 19:01:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **4996**  ($270,684,026 en total)
+- Apuestas registradas: **4997**  ($270,716,856 en total)
 - Resueltas: **4964** — 3038 ganadas / 1926 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 552
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | surfandturf | 30 | 9 | 0 | 77% | $3,324,510 | +$403,336 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| mooseborzoii | 38 | 22 | 3 | 63% | $3,249,513 | +$519,841 |
+| mooseborzoii | 38 | 22 | 4 | 63% | $3,282,343 | +$519,841 |
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 2.56 (39¢) | $32,830 | — | ⏳ Pendiente |
 | Noprajsk | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.63 (38¢) | $27,069 | — | ⏳ Pendiente |
 | Mastermoney | Coventry City FC vs. Newcastle United FC: O/U 8.5 Total Corners | Over 8.5 Total Corners | 1.56 (64¢) | $31,361 | -$31,361 | ❌ Perdida |
 | plonker2026 | Will Newcastle United FC win on 2026-10-12? | Yes | 2.17 (46¢) | $39,748 | -$39,748 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | 3648393489047 | 49ers vs. Seahawks | Seahawks | 1.39 (72¢) | $50,400 | -$50,400 | ❌ Perdida |
 | TAIWANNUMBERONE | 49ers vs. Seahawks | Seahawks | 1.41 (71¢) | $25,139 | -$25,139 | ❌ Perdida |
 | TAIWANNUMBERONE | 49ers vs. Seahawks | Seahawks | 1.47 (68¢) | $38,144 | -$38,144 | ❌ Perdida |
-| yoyoyoyoer | Broncos vs. Chargers | Chargers | 1.43 (70¢) | $45,963 | -$45,963 | ❌ Perdida |
