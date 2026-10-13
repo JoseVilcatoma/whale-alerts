@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 17:08:20 (hora de Perú)
+Actualizado: 2026-10-13 17:10:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5058**  ($274,753,006 en total)
-- Resueltas: **5030** — 3077 ganadas / 1953 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **5031** — 3078 ganadas / 1953 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 557
 
 ### Balance
 
-- **Resultado de los apostadores: +$34,150** sobre $273,510,464 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,309** sobre $496,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$64,159** sobre $273,638,400 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,285** sobre $496,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | mooseborzoii | 41 | 22 | 1 | 65% | $3,282,343 | +$684,763 |
-| Kch-Temp | 33 | 10 | 2 | 77% | $2,943,503 | +$1,568,805 |
+| Kch-Temp | 34 | 10 | 1 | 77% | $2,943,503 | +$1,598,814 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | cosmicxbt | 16 | 7 | 0 | 70% | $2,406,992 | -$359,317 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $26,801 | — | ⏳ Pendiente |
 | Nooserac | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.06 (94¢) | $47,000 | +$3,000 | ✅ Ganada |
 | SebastianAde1996 | Spread: FC Bayern München (-2.5) | Viking FK | 1.89 (53¢) | $70,000 | +$62,075 | ✅ Ganada |
-| Kch-Temp | Will Arsenal FC win on 2026-10-13? | Yes | 1.23 (81¢) | $127,936 | — | ⏳ Pendiente |
+| Kch-Temp | Will Arsenal FC win on 2026-10-13? | Yes | 1.23 (81¢) | $127,936 | +$30,010 | ✅ Ganada |
 | ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.17 (46¢) | $275,517 | -$275,517 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.18 (85¢) | $522,695 | +$92,240 | ✅ Ganada |
 | ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.27 (44¢) | $209,386 | -$209,386 | ❌ Perdida |
