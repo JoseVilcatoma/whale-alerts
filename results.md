@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 18:28:16 (hora de Perú)
+Actualizado: 2026-10-13 18:30:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5062**  ($274,957,039 en total)
+- Apuestas registradas: **5063**  ($274,992,008 en total)
 - Resueltas: **5031** — 3078 ganadas / 1953 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 557
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 361 | 191 | 3 | 65% | $34,712,115 | +$1,237,642 |
-| Sassy-Bucket | 73 | 64 | 3 | 53% | $7,929,275 | -$237,375 |
+| Sassy-Bucket | 73 | 64 | 4 | 53% | $7,964,245 | -$237,375 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $34,970 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Delaware vs. Middle Tennessee | Middle Tennessee | 1.89 (53¢) | $51,210 | — | ⏳ Pendiente |
 | BrotherObama | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $48,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.13 (47¢) | $33,915 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams | Bills | 1.96 (51¢) | $45,055 | +$43,289 | ✅ Ganada |
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.61 (62¢) | $29,557 | -$29,557 | ❌ Perdida |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.13 (47¢) | $50,959 | +$57,465 | ✅ Ganada |
-| ferrariChampions2026 | Bills vs. Rams | Rams | 1.75 (57¢) | $35,768 | -$35,768 | ❌ Perdida |
