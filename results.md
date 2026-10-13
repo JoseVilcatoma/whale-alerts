@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 16:49:47 (hora de Perú)
+Actualizado: 2026-10-13 16:51:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5058**  ($274,753,006 en total)
-- Resueltas: **5020** — 3074 ganadas / 1946 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **5021** — 3075 ganadas / 1946 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 557
 
 ### Balance
 
-- **Resultado de los apostadores: +$112,317** sobre $272,944,743 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$3,823** sobre $495,000 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$174,392** sobre $273,014,743 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,734** sobre $495,100 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | ferrariChampions2026 | Panthers vs. Blue Jackets | Panthers | 2.22 (45¢) | $30,684 | — | ⏳ Pendiente |
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $26,801 | — | ⏳ Pendiente |
 | Nooserac | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.06 (94¢) | $47,000 | +$3,000 | ✅ Ganada |
-| SebastianAde1996 | Spread: FC Bayern München (-2.5) | Viking FK | 1.89 (53¢) | $70,000 | — | ⏳ Pendiente |
+| SebastianAde1996 | Spread: FC Bayern München (-2.5) | Viking FK | 1.89 (53¢) | $70,000 | +$62,075 | ✅ Ganada |
 | Kch-Temp | Will Arsenal FC win on 2026-10-13? | Yes | 1.23 (81¢) | $127,936 | — | ⏳ Pendiente |
 | ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.17 (46¢) | $275,517 | -$275,517 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.18 (85¢) | $522,695 | +$92,240 | ✅ Ganada |
