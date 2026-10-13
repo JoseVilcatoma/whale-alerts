@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 19:20:13 (hora de Perú)
+Actualizado: 2026-10-12 19:22:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5000**  ($270,858,485 en total)
+- Apuestas registradas: **5000**  ($270,890,012 en total)
 - Resueltas: **4964** — 3038 ganadas / 1926 perdidas (**61%** de acierto)
 - Pendientes: 14
 - Apostadores distintos: 552
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 47 | 20 | 0 | 70% | $3,910,643 | -$85,390 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 50 | 28 | 0 | 64% | $3,599,185 | +$249,733 |
-| surfandturf | 30 | 9 | 1 | 77% | $3,355,560 | +$403,336 |
+| surfandturf | 30 | 9 | 1 | 77% | $3,387,086 | +$403,336 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | mooseborzoii | 38 | 22 | 4 | 63% | $3,282,343 | +$519,841 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| surfandturf | Bills vs. Rams | Rams | 1.64 (61¢) | $31,049 | — | ⏳ Pendiente |
+| surfandturf | Bills vs. Rams | Rams | 1.64 (61¢) | $62,576 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Rams (-4.5) | Bills | 1.79 (56¢) | $48,551 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Bills (-3.5) | Rams | 1.37 (73¢) | $62,029 | — | ⏳ Pendiente |
 | mooseborzoii | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 2.56 (39¢) | $32,830 | — | ⏳ Pendiente |
