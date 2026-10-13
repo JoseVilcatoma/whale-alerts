@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 19:32:36 (hora de Perú)
+Actualizado: 2026-10-12 19:34:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5000**  ($270,890,012 en total)
+- Apuestas registradas: **5001**  ($270,915,488 en total)
 - Resueltas: **4964** — 3038 ganadas / 1926 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 552
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | Bills vs. Rams | Bills | 2.04 (49¢) | $25,477 | — | ⏳ Pendiente |
 | surfandturf | Bills vs. Rams | Rams | 1.64 (61¢) | $62,576 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Rams (-4.5) | Bills | 1.79 (56¢) | $48,551 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Bills (-3.5) | Rams | 1.37 (73¢) | $62,029 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $52,401 | +$52,401 | ✅ Ganada |
 | Roadto1mlesgooo | St. Louis City SC vs. Los Angeles Galaxy: O/U 4.5 | Over 4.5 | 1.10 (91¢) | $35,941 | +$3,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Seahawks | 49ers | 1.32 (76¢) | $55,181 | +$17,426 | ✅ Ganada |
-| mooseborzoii | 49ers vs. Seahawks | 49ers | 1.67 (60¢) | $35,714 | +$23,809 | ✅ Ganada |
