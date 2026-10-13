@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 22:04:23 (hora de Perú)
+Actualizado: 2026-10-12 22:06:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5013**  ($271,512,193 en total)
+- Apuestas registradas: **5014**  ($271,721,451 en total)
 - Resueltas: **4969** — 3041 ganadas / 1928 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 554
 
 ### Balance
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ferrariChampions2026 | 81 | 41 | 3 | 66% | $5,083,543 | -$35,453 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
+| ethanaz | 47 | 20 | 1 | 70% | $4,119,901 | -$85,390 |
 | BrotherObama | 39 | 46 | 2 | 46% | $3,962,955 | -$221,237 |
-| ethanaz | 47 | 20 | 0 | 70% | $3,910,643 | -$85,390 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 50 | 28 | 1 | 64% | $3,650,145 | +$249,733 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 554 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Bills vs. Rams | Bills | 1.67 (60¢) | $209,258 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 3.12 (32¢) | $32,824 | — | ⏳ Pendiente |
 | cosmicxbt | Bills vs. Rams | Bills | 1.47 (68¢) | $167,293 | — | ⏳ Pendiente |
 | Velin217 | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 1.06 (94¢) | $47,134 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 554 en total)_
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.61 (62¢) | $219,027 | -$219,027 | ❌ Perdida |
 | milkteaboba | Ravens vs. Falcons | Falcons | 1.49 (67¢) | $271,562 | -$271,562 | ❌ Perdida |
 | mooseborzoii | Ravens vs. Falcons | Ravens | 3.03 (33¢) | $60,101 | +$122,023 | ✅ Ganada |
-| fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $51,525 | +$24,247 | ✅ Ganada |
