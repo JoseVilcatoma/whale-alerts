@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 02:57:32 (hora de Perú)
+Actualizado: 2026-10-13 02:59:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5022**  ($272,098,131 en total)
+- Apuestas registradas: **5023**  ($272,176,131 en total)
 - Resueltas: **4991** — 3054 ganadas / 1937 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 555
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Diabolical-Prize | 60 | 58 | 0 | 51% | $6,230,697 | -$269,712 |
+| Diabolical-Prize | 60 | 58 | 1 | 51% | $6,308,697 | -$269,712 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 555 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | LGD Gaming | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
 | 1827575782 | Will Club Brugge KV win on 2026-10-13? | No | 1.08 (93¢) | $49,290 | — | ⏳ Pendiente |
 | gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $48,076 | — | ⏳ Pendiente |
 | gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $25,934 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 555 en total)_
 | ethanaz | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $125,892 | -$125,892 | ❌ Perdida |
 | TAIWANNUMBERONE | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $29,833 | -$29,833 | ❌ Perdida |
 | mooseborzoii | Ravens vs. Falcons | Ravens | 3.70 (27¢) | $44,404 | +$120,055 | ✅ Ganada |
-| alwaysfade | Ravens vs. Falcons | Ravens | 3.45 (29¢) | $29,000 | +$71,000 | ✅ Ganada |
