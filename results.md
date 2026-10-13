@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 20:01:29 (hora de Perú)
+Actualizado: 2026-10-12 20:03:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5005**  ($271,063,776 en total)
-- Resueltas: **4968** — 3040 ganadas / 1928 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **4969** — 3041 ganadas / 1928 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 552
 
 ### Balance
 
-- **Resultado de los apostadores: -$97,910** sobre $269,504,874 apostados (ROI **-0.0%**)
+- **Resultado de los apostadores: -$96,884** sobre $269,567,450 apostados (ROI **-0.0%**)
 - Copiando $100 fijo en cada una: **-$4,456** sobre $490,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 47 | 20 | 0 | 70% | $3,910,643 | -$85,390 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | Lakersfan111 | 50 | 28 | 1 | 64% | $3,650,145 | +$249,733 |
-| surfandturf | 30 | 9 | 1 | 77% | $3,387,086 | +$403,336 |
+| surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | mooseborzoii | 38 | 22 | 4 | 63% | $3,282,343 | +$519,841 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.75 (57¢) | $35,768 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.96 (51¢) | $32,003 | — | ⏳ Pendiente |
 | 3648393489047 | Bills vs. Rams | Bills | 2.04 (49¢) | $25,477 | — | ⏳ Pendiente |
-| surfandturf | Bills vs. Rams | Rams | 1.64 (61¢) | $62,576 | — | ⏳ Pendiente |
+| surfandturf | Bills vs. Rams | Rams | 1.64 (61¢) | $62,576 | +$1,026 | 💰 Vendida antes |
 | Sassy-Bucket | Spread: Rams (-4.5) | Bills | 1.79 (56¢) | $48,551 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Bills (-3.5) | Rams | 1.37 (73¢) | $62,029 | — | ⏳ Pendiente |
 | mooseborzoii | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 2.56 (39¢) | $32,830 | — | ⏳ Pendiente |
