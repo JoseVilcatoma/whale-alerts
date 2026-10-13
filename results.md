@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 16:55:57 (hora de Perú)
+Actualizado: 2026-10-13 16:57:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5058**  ($274,753,006 en total)
-- Resueltas: **5021** — 3075 ganadas / 1946 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **5022** — 3076 ganadas / 1946 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 557
 
 ### Balance
 
-- **Resultado de los apostadores: +$174,392** sobre $273,014,743 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,734** sobre $495,100 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$184,392** sobre $273,044,743 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,701** sobre $495,200 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | ArturitoFilito | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.22 (45¢) | $70,000 | — | ⏳ Pendiente |
 | joseph00677 | Will Club Atlético de Madrid win on 2026-10-13? | Yes | 1.92 (52¢) | $164,048 | — | ⏳ Pendiente |
 | Yellow-Fever | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $34,500 | — | ⏳ Pendiente |
-| bbb17367162806 | Will Club Atlético de Madrid vs. Manchester United FC end in a draw? | No | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
+| bbb17367162806 | Will Club Atlético de Madrid vs. Manchester United FC end in a draw? | No | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
 | tenniz | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.10 (91¢) | $25,640 | +$2,536 | ✅ Ganada |
 | HVAB | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.30 (77¢) | $47,367 | +$14,149 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.69 (59¢) | $31,950 | -$31,950 | ❌ Perdida |
