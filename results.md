@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 17:57:27 (hora de Perú)
+Actualizado: 2026-10-13 17:59:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5058**  ($274,753,006 en total)
+- Apuestas registradas: **5059**  ($274,823,913 en total)
 - Resueltas: **5031** — 3078 ganadas / 1953 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 557
 
 ### Balance
@@ -53,10 +53,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
 | ndb1 | 23 | 12 | 0 | 66% | $1,869,615 | +$373,778 |
+| Talvez10 | 19 | 18 | 2 | 51% | $1,839,170 | +$155,737 |
 | SDTrading | 30 | 31 | 0 | 49% | $1,813,324 | -$160,793 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| Talvez10 | 19 | 18 | 1 | 51% | $1,768,263 | +$155,737 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 2 | 0 | 94% | $1,736,357 | +$92,570 |
 | 1827575782 | 13 | 1 | 0 | 93% | $1,724,497 | +$158,737 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $70,907 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Panthers vs. Blue Jackets | Panthers | 2.22 (45¢) | $30,684 | — | ⏳ Pendiente |
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $26,801 | — | ⏳ Pendiente |
 | Nooserac | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.06 (94¢) | $47,000 | +$3,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.96 (51¢) | $32,003 | -$32,003 | ❌ Perdida |
 | 3648393489047 | Bills vs. Rams | Bills | 2.04 (49¢) | $25,477 | +$26,516 | ✅ Ganada |
 | surfandturf | Bills vs. Rams | Rams | 1.64 (61¢) | $62,576 | +$1,026 | 💰 Vendida antes |
-| Sassy-Bucket | Spread: Rams (-4.5) | Bills | 1.79 (56¢) | $48,551 | +$38,147 | ✅ Ganada |

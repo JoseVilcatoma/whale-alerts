@@ -76030,5 +76030,20 @@
     "status": "pending",
     "ultimo_fill": 1791924104,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10306,
+    "timestamp": 1791932270,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "nhl-sea-phi-2026-10-13",
+    "title": "Kraken vs. Flyers",
+    "outcome": "Kraken",
+    "side": "BUY",
+    "usd": 70907.14050000001,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1791932270,
+    "fills": 1
   }
 ]
