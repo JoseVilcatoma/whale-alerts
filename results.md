@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 08:23:50 (hora de Perú)
+Actualizado: 2026-10-13 08:25:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5033**  ($272,581,295 en total)
-- Resueltas: **4992** — 3055 ganadas / 1937 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **4994** — 3055 ganadas / 1939 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 556
 
 ### Balance
 
-- **Resultado de los apostadores: +$159,912** sobre $270,805,975 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,373** sobre $492,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$106,997** sobre $270,858,891 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,573** sobre $492,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,8 +76,8 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $30,395 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $69,273 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Catania: Enrico Dalla Valle vs Federico Bondioli | Enrico Dalla Valle | 1.79 (56¢) | $27,641 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik | Alexander Bublik | 2.00 (50¢) | $26,808 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik | Alexander Bublik | 1.28 (78¢) | $26,107 | — | ⏳ Pendiente |
+| kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik | Alexander Bublik | 2.00 (50¢) | $26,808 | -$26,808 | ❌ Perdida |
+| kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik | Alexander Bublik | 1.28 (78¢) | $26,107 | -$26,107 | ❌ Perdida |
 | BrotherObama | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $41,000 | — | ⏳ Pendiente |
 | levaluv | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $27,723 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.04 (49¢) | $65,152 | — | ⏳ Pendiente |
