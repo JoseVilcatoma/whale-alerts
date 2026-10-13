@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 07:30:53 (hora de Perú)
+Actualizado: 2026-10-13 07:32:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5027**  ($272,337,647 en total)
+- Apuestas registradas: **5029**  ($272,390,563 en total)
 - Resueltas: **4992** — 3055 ganadas / 1937 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 556
 
 ### Balance
@@ -72,6 +72,8 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Catania: Enrico Dalla Valle vs Federico Bondioli | Enrico Dalla Valle | 1.79 (56¢) | $27,641 | — | ⏳ Pendiente |
+| kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik | Alexander Bublik | 2.00 (50¢) | $26,808 | — | ⏳ Pendiente |
+| kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik | Alexander Bublik | 1.28 (78¢) | $26,107 | — | ⏳ Pendiente |
 | BrotherObama | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $41,000 | — | ⏳ Pendiente |
 | levaluv | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $27,723 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.04 (49¢) | $65,152 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.61 (62¢) | $32,928 | -$32,928 | ❌ Perdida |
 | ethanaz | Ravens vs. Falcons | Ravens | 2.63 (38¢) | $66,553 | +$108,586 | ✅ Ganada |
 | cosmicxbt | Ravens vs. Falcons | Falcons | 1.10 (91¢) | $453,980 | -$379,148 | 💰 Vendida antes |
-| yoyoyoyoer | Ravens vs. Falcons | Falcons | 1.41 (71¢) | $37,275 | -$37,275 | ❌ Perdida |
-| mooseborzoii | Ravens vs. Falcons | Falcons | 1.43 (70¢) | $48,220 | -$48,220 | ❌ Perdida |

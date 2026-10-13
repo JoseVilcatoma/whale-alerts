@@ -75561,5 +75561,35 @@
     "status": "pending",
     "ultimo_fill": 1791894593,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10236,
+    "timestamp": 1791893846,
+    "username": "kdvlklkvlsklkfs",
+    "wallet": "0xcfe8f6cc8ff9cb68985b7af650ef6dbe9a373a6c",
+    "slug": "atp-zverev-bublik-2026-10-13",
+    "title": "Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik",
+    "outcome": "Alexander Bublik",
+    "side": "BUY",
+    "usd": 26808.467702306512,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1791893846,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10237,
+    "timestamp": 1791893641,
+    "username": "kdvlklkvlsklkfs",
+    "wallet": "0xcfe8f6cc8ff9cb68985b7af650ef6dbe9a373a6c",
+    "slug": "atp-zverev-bublik-2026-10-13",
+    "title": "Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik",
+    "outcome": "Alexander Bublik",
+    "side": "BUY",
+    "usd": 26107.269099273664,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1791893641,
+    "fills": 1
   }
 ]
