@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 23:12:31 (hora de Perú)
+Actualizado: 2026-10-12 23:14:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5019**  ($271,974,830 en total)
+- Apuestas registradas: **5020**  ($272,000,764 en total)
 - Resueltas: **4975** — 3046 ganadas / 1929 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 555
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 555 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $25,934 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Bills | 1.10 (91¢) | $83,819 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 1.11 (90¢) | $30,985 | — | ⏳ Pendiente |
 | arjennnnn | LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.25 (80¢) | $32,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 555 en total)_
 | alwaysfade | Ravens vs. Falcons | Ravens | 3.45 (29¢) | $29,000 | +$71,000 | ✅ Ganada |
 | BrotherObama | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 2.00 (50¢) | $70,000 | -$70,000 | ❌ Perdida |
 | cosmicxbt | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $210,777 | -$19,938 | 💰 Vendida antes |
-| mooseborzoii | Ravens vs. Falcons | Falcons | 1.75 (57¢) | $38,119 | -$38,119 | ❌ Perdida |
