@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 13:05:25 (hora de Perú)
+Actualizado: 2026-10-13 13:07:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5049**  ($273,381,719 en total)
+- Apuestas registradas: **5050**  ($273,442,987 en total)
 - Resueltas: **5011** — 3067 ganadas / 1944 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 556
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ferrariChampions2026 | 81 | 44 | 0 | 65% | $5,083,543 | -$132,781 |
+| ferrariChampions2026 | 81 | 44 | 1 | 65% | $5,144,812 | -$132,781 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 46 | 2 | 47% | $4,003,955 | -$180,237 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.16 (86¢) | $61,268 | — | ⏳ Pendiente |
 | Daemon99 | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $27,872 | — | ⏳ Pendiente |
 | YEEES-but-why | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
 | ArturitoFilito | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.22 (45¢) | $70,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.38 (42¢) | $59,859 | -$59,859 | ❌ Perdida |
 | Donkey14 | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers | 1.72 (58¢) | $27,619 | +$20,000 | ✅ Ganada |
 | mooseborzoii | Spread: Tampa Bay Rays (-1.5) | Cleveland Guardians | 1.72 (58¢) | $44,353 | +$32,118 | ✅ Ganada |
-| mooseborzoii | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 2.56 (39¢) | $52,077 | +$81,454 | ✅ Ganada |

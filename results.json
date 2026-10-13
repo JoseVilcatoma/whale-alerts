@@ -75895,5 +75895,20 @@
     "status": "pending",
     "ultimo_fill": 1791913804,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10276,
+    "timestamp": 1791914771,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "euroleague-fenerbah-kaunas-2026-10-13",
+    "title": "Fenerbahce vs. Zalgiris Kaunas",
+    "outcome": "Fenerbahce",
+    "side": "BUY",
+    "usd": 61268.43439999999,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1791914771,
+    "fills": 1
   }
 ]
