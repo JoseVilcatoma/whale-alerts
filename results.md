@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 16:37:37 (hora de Perú)
+Actualizado: 2026-10-13 16:39:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5058**  ($274,753,006 en total)
-- Resueltas: **5013** — 3069 ganadas / 1944 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **5017** — 3071 ganadas / 1946 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 557
 
 ### Balance
 
-- **Resultado de los apostadores: +$407,626** sobre $271,704,637 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,799** sobre $494,300 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$7,103** sobre $272,313,780 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$3,863** sobre $494,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ripley86alien | 30 | 16 | 2 | 65% | $5,390,930 | +$1,571,294 |
+| ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | ferrariChampions2026 | 81 | 44 | 2 | 65% | $5,175,496 | -$132,781 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 46 | 2 | 47% | $4,003,955 | -$180,237 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 13 | 0 | 1 | 100% | $1,724,497 | +$208,027 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
-| 0x361b…74fe | 20 | 1 | 2 | 95% | $1,601,991 | +$678,576 |
+| 0x361b…74fe | 22 | 1 | 0 | 96% | $1,601,991 | +$762,954 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 
@@ -76,9 +76,9 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | Nooserac | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.06 (94¢) | $47,000 | — | ⏳ Pendiente |
 | SebastianAde1996 | Spread: FC Bayern München (-2.5) | Viking FK | 1.89 (53¢) | $70,000 | — | ⏳ Pendiente |
 | Kch-Temp | Will Arsenal FC win on 2026-10-13? | Yes | 1.23 (81¢) | $127,936 | — | ⏳ Pendiente |
-| ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.17 (46¢) | $275,517 | — | ⏳ Pendiente |
+| ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.17 (46¢) | $275,517 | -$275,517 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.18 (85¢) | $522,695 | — | ⏳ Pendiente |
-| ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.27 (44¢) | $209,386 | — | ⏳ Pendiente |
+| ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.27 (44¢) | $209,386 | -$209,386 | ❌ Perdida |
 | ferrariChampions2026 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.16 (86¢) | $61,268 | — | ⏳ Pendiente |
 | Daemon99 | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $27,872 | — | ⏳ Pendiente |
 | YEEES-but-why | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
@@ -89,8 +89,8 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | tenniz | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.10 (91¢) | $25,640 | +$2,536 | ✅ Ganada |
 | HVAB | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.30 (77¢) | $47,367 | +$14,149 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.69 (59¢) | $31,950 | -$31,950 | ❌ Perdida |
-| 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $69,315 | — | ⏳ Pendiente |
-| 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.69 (59¢) | $54,925 | — | ⏳ Pendiente |
+| 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $69,315 | +$46,210 | ✅ Ganada |
+| 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.69 (59¢) | $54,925 | +$38,168 | ✅ Ganada |
 | RJW1 | Arsenal FC vs. Lille OSC: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $34,537 | +$24,000 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.30 (77¢) | $46,200 | -$22,695 | 💰 Vendida antes |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.75 (57¢) | $57,502 | -$28,246 | 💰 Vendida antes |
