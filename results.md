@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 12:44:31 (hora de Perú)
+Actualizado: 2026-10-13 12:46:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5046**  ($273,237,847 en total)
+- Apuestas registradas: **5048**  ($273,353,847 en total)
 - Resueltas: **5011** — 3067 ganadas / 1944 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 556
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YEEES-but-why | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
+| ArturitoFilito | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.22 (45¢) | $70,000 | — | ⏳ Pendiente |
 | joseph00677 | Will Club Atlético de Madrid win on 2026-10-13? | Yes | 1.92 (52¢) | $164,048 | — | ⏳ Pendiente |
 | Yellow-Fever | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $34,500 | — | ⏳ Pendiente |
 | bbb17367162806 | Will Club Atlético de Madrid vs. Manchester United FC end in a draw? | No | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | mooseborzoii | Spread: Tampa Bay Rays (-1.5) | Cleveland Guardians | 1.72 (58¢) | $44,353 | +$32,118 | ✅ Ganada |
 | mooseborzoii | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 2.56 (39¢) | $52,077 | +$81,454 | ✅ Ganada |
 | kdvlklkvlsklkfs | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.08 (93¢) | $27,516 | +$2,071 | ✅ Ganada |
-| ziyoucui | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.72 (58¢) | $28,856 | +$20,896 | ✅ Ganada |
-| lsiflsliggjriek | Catania: Gabriele Piraino vs Felix Gill | Felix Gill | 1.19 (84¢) | $26,843 | +$5,113 | ✅ Ganada |
