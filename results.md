@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 22:14:56 (hora de Perú)
+Actualizado: 2026-10-12 22:17:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5014**  ($271,721,451 en total)
+- Apuestas registradas: **5015**  ($271,767,251 en total)
 - Resueltas: **4969** — 3041 ganadas / 1928 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 554
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 554 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ScroooogeMcDuck | Bills vs. Rams | Bills | 1.23 (81¢) | $45,800 | — | ⏳ Pendiente |
 | ethanaz | Bills vs. Rams | Bills | 1.67 (60¢) | $209,258 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 3.12 (32¢) | $32,824 | — | ⏳ Pendiente |
 | cosmicxbt | Bills vs. Rams | Bills | 1.47 (68¢) | $167,293 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 554 en total)_
 | 0F62 | Shanghai Rolex Masters: Zizou Bergs vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $34,249 | -$34,249 | ❌ Perdida |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.61 (62¢) | $219,027 | -$219,027 | ❌ Perdida |
 | milkteaboba | Ravens vs. Falcons | Falcons | 1.49 (67¢) | $271,562 | -$271,562 | ❌ Perdida |
-| mooseborzoii | Ravens vs. Falcons | Ravens | 3.03 (33¢) | $60,101 | +$122,023 | ✅ Ganada |
