@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 18:20:02 (hora de Perú)
+Actualizado: 2026-10-13 18:22:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5060**  ($274,857,828 en total)
+- Apuestas registradas: **5061**  ($274,905,828 en total)
 - Resueltas: **5031** — 3078 ganadas / 1953 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 557
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | ferrariChampions2026 | 82 | 44 | 1 | 65% | $5,175,496 | -$122,807 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
-| BrotherObama | 40 | 46 | 2 | 47% | $4,003,955 | -$180,237 |
+| BrotherObama | 40 | 46 | 3 | 47% | $4,051,955 | -$180,237 |
 | Lakersfan111 | 56 | 28 | 0 | 67% | $3,931,304 | +$596,081 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $48,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.13 (47¢) | $33,915 | — | ⏳ Pendiente |
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $70,907 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Panthers vs. Blue Jackets | Panthers | 2.22 (45¢) | $30,684 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.13 (47¢) | $50,959 | +$57,465 | ✅ Ganada |
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.75 (57¢) | $35,768 | -$35,768 | ❌ Perdida |
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.96 (51¢) | $32,003 | -$32,003 | ❌ Perdida |
-| 3648393489047 | Bills vs. Rams | Bills | 2.04 (49¢) | $25,477 | +$26,516 | ✅ Ganada |
