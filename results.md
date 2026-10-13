@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 13:09:32 (hora de Perú)
+Actualizado: 2026-10-13 13:11:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5051**  ($273,652,373 en total)
+- Apuestas registradas: **5052**  ($274,175,068 en total)
 - Resueltas: **5011** — 3067 ganadas / 1944 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 556
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 360 | 191 | 3 | 65% | $34,189,420 | +$1,145,402 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 360 | 191 | 4 | 65% | $34,712,115 | +$1,145,402 |
 | Sassy-Bucket | 73 | 64 | 2 | 53% | $7,895,360 | -$237,375 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.18 (85¢) | $522,695 | — | ⏳ Pendiente |
 | ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.27 (44¢) | $209,386 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.16 (86¢) | $61,268 | — | ⏳ Pendiente |
 | Daemon99 | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $27,872 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | Mastermoney | Coventry City FC vs. Newcastle United FC: O/U 8.5 Total Corners | Over 8.5 Total Corners | 1.56 (64¢) | $31,361 | -$31,361 | ❌ Perdida |
 | plonker2026 | Will Newcastle United FC win on 2026-10-12? | Yes | 2.17 (46¢) | $39,748 | -$39,748 | ❌ Perdida |
 | BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.38 (42¢) | $59,859 | -$59,859 | ❌ Perdida |
-| Donkey14 | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers | 1.72 (58¢) | $27,619 | +$20,000 | ✅ Ganada |
