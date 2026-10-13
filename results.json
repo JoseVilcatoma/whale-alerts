@@ -75109,5 +75109,20 @@
     "status": "pending",
     "ultimo_fill": 1791849598,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10176,
+    "timestamp": 1791849834,
+    "username": "milkteaboba",
+    "wallet": "0xf4c95b636c71243531dfc82a97565a94c106f88c",
+    "slug": "nfl-buf-la-2026-10-13-spread-away-3pt5",
+    "title": "Spread: Bills (-3.5)",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 62028.574499999995,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1791849834,
+    "fills": 1
   }
 ]
