@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 16:57:58 (hora de Perú)
+Actualizado: 2026-10-13 17:00:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5058**  ($274,753,006 en total)
-- Resueltas: **5022** — 3076 ganadas / 1946 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **5029** — 3077 ganadas / 1952 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 557
 
 ### Balance
 
-- **Resultado de los apostadores: +$184,392** sobre $273,044,743 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,701** sobre $495,200 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$83,440** sobre $273,461,174 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,209** sobre $495,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,11 +80,11 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.18 (85¢) | $522,695 | +$92,240 | ✅ Ganada |
 | ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.27 (44¢) | $209,386 | -$209,386 | ❌ Perdida |
 | ferrariChampions2026 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.16 (86¢) | $61,268 | +$9,974 | ✅ Ganada |
-| Daemon99 | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $27,872 | — | ⏳ Pendiente |
-| YEEES-but-why | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
-| ArturitoFilito | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.22 (45¢) | $70,000 | — | ⏳ Pendiente |
-| joseph00677 | Will Club Atlético de Madrid win on 2026-10-13? | Yes | 1.92 (52¢) | $164,048 | — | ⏳ Pendiente |
-| Yellow-Fever | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $34,500 | — | ⏳ Pendiente |
+| Daemon99 | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $27,872 | -$27,872 | ❌ Perdida |
+| YEEES-but-why | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $46,000 | -$46,000 | ❌ Perdida |
+| ArturitoFilito | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.22 (45¢) | $70,000 | -$70,000 | ❌ Perdida |
+| joseph00677 | Will Club Atlético de Madrid win on 2026-10-13? | Yes | 1.92 (52¢) | $164,048 | +$151,429 | ✅ Ganada |
+| Yellow-Fever | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $34,500 | -$34,500 | ❌ Perdida |
 | bbb17367162806 | Will Club Atlético de Madrid vs. Manchester United FC end in a draw? | No | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
 | tenniz | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.10 (91¢) | $25,640 | +$2,536 | ✅ Ganada |
 | HVAB | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.30 (77¢) | $47,367 | +$14,149 | ✅ Ganada |
@@ -108,8 +108,8 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.04 (49¢) | $65,152 | +$67,812 | ✅ Ganada |
 | Diabolical-Prize | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | LGD Gaming | 1.92 (52¢) | $78,000 | -$78,000 | ❌ Perdida |
 | 1827575782 | Will Club Brugge KV win on 2026-10-13? | No | 1.08 (93¢) | $49,290 | — | ⏳ Pendiente |
-| gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $48,076 | — | ⏳ Pendiente |
-| gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $25,934 | — | ⏳ Pendiente |
+| gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $48,076 | -$48,076 | ❌ Perdida |
+| gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $25,934 | -$25,934 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Bills | 1.10 (91¢) | $83,819 | +$8,290 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 1.11 (90¢) | $30,985 | -$30,985 | ❌ Perdida |
 | arjennnnn | LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.25 (80¢) | $32,000 | +$8,000 | ✅ Ganada |
