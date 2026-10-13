@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 07:55:16 (hora de Perú)
+Actualizado: 2026-10-13 07:57:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5032**  ($272,545,795 en total)
+- Apuestas registradas: **5033**  ($272,581,295 en total)
 - Resueltas: **4992** — 3055 ganadas / 1937 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 556
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kkunn | Wuhan Tennis Open: Mia Pohankova vs Xiyu Wang | Xiyu Wang | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $55,565 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $30,395 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $69,273 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Wuhan Tennis Open: Anna Kalinskaya vs Shuai Zhang | Shuai Zhang | 2.04 (49¢) | $28,057 | — | ⊘ Anulada |
 | yoyoyoyoer | Ravens vs. Falcons | Ravens | 1.18 (85¢) | $30,940 | +$5,460 | ✅ Ganada |
 | mooseborzoii | Ravens vs. Falcons | Ravens | 1.89 (53¢) | $106,109 | +$94,096 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Falcons | Ravens | 2.00 (50¢) | $122,511 | +$122,511 | ✅ Ganada |
