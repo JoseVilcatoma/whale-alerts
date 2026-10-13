@@ -76045,5 +76045,20 @@
     "status": "pending",
     "ultimo_fill": 1791932270,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10307,
+    "timestamp": 1791932927,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nhl-stl-ott-2026-10-13",
+    "title": "Blues vs. Senators",
+    "outcome": "Senators",
+    "side": "BUY",
+    "usd": 33915.2,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1791932927,
+    "fills": 1
   }
 ]

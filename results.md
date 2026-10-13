@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 18:07:42 (hora de Perú)
+Actualizado: 2026-10-13 18:09:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5059**  ($274,823,913 en total)
+- Apuestas registradas: **5060**  ($274,857,828 en total)
 - Resueltas: **5031** — 3078 ganadas / 1953 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 557
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 361 | 191 | 3 | 65% | $34,712,115 | +$1,237,642 |
-| Sassy-Bucket | 73 | 64 | 2 | 53% | $7,895,360 | -$237,375 |
+| Sassy-Bucket | 73 | 64 | 3 | 53% | $7,929,275 | -$237,375 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Blues vs. Senators | Senators | 2.13 (47¢) | $33,915 | — | ⏳ Pendiente |
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $70,907 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Panthers vs. Blue Jackets | Panthers | 2.22 (45¢) | $30,684 | — | ⏳ Pendiente |
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $26,801 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.75 (57¢) | $35,768 | -$35,768 | ❌ Perdida |
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.96 (51¢) | $32,003 | -$32,003 | ❌ Perdida |
 | 3648393489047 | Bills vs. Rams | Bills | 2.04 (49¢) | $25,477 | +$26,516 | ✅ Ganada |
-| surfandturf | Bills vs. Rams | Rams | 1.64 (61¢) | $62,576 | +$1,026 | 💰 Vendida antes |
