@@ -75790,5 +75790,20 @@
     "status": "pending",
     "ultimo_fill": 1791908928,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10267,
+    "timestamp": 1791910310,
+    "username": "tenniz",
+    "wallet": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
+    "slug": "atp-barton-mrva-2026-10-13",
+    "title": "Olbia: Hynek Barton vs Maxim Mrva",
+    "outcome": "Maxim Mrva",
+    "side": "BUY",
+    "usd": 25639.6999,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1791910310,
+    "fills": 1
   }
 ]

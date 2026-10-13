@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 11:50:28 (hora de Perú)
+Actualizado: 2026-10-13 11:52:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5042**  ($272,983,659 en total)
+- Apuestas registradas: **5043**  ($273,009,299 en total)
 - Resueltas: **5009** — 3065 ganadas / 1944 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 556
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tenniz | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.10 (91¢) | $25,640 | — | ⏳ Pendiente |
 | HVAB | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.30 (77¢) | $47,367 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.69 (59¢) | $31,950 | -$31,950 | ❌ Perdida |
 | 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $69,315 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | fortnitethegoat667 | LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.20 (83¢) | $87,412 | +$17,904 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 1.82 (55¢) | $33,000 | -$33,000 | ❌ Perdida |
 | SDTrading | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $25,600 | -$25,600 | ❌ Perdida |
-| BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
