@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 08:59:15 (hora de Perú)
+Actualizado: 2026-10-13 09:01:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5034**  ($272,614,899 en total)
+- Apuestas registradas: **5035**  ($272,641,864 en total)
 - Resueltas: **4994** — 3055 ganadas / 1939 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 556
 
 ### Balance
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
+| 0x361b…74fe | 19 | 1 | 1 | 95% | $1,477,751 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 
 _(mostrando los 40 de mayor monto, de 556 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x361b…74fe | Will Galatasaray SK win on 2026-10-13? | No | 1.11 (90¢) | $26,964 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Catania: Enrico Dalla Valle vs Federico Bondioli | Enrico Dalla Valle | 1.49 (67¢) | $33,604 | — | ⏳ Pendiente |
 | Kkunn | Wuhan Tennis Open: Mia Pohankova vs Xiyu Wang | Xiyu Wang | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $55,565 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | madwish355 | LoL: KT Rolster vs Team Vitality (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.47 (68¢) | $44,880 | +$21,120 | ✅ Ganada |
 | 3648393489047 | LoL: KT Rolster vs Team Vitality - Game 1 Winner | KT Rolster | 1.41 (71¢) | $35,525 | -$35,525 | ❌ Perdida |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Wuhan Tennis Open: Anna Kalinskaya vs Shuai Zhang | Shuai Zhang | 2.04 (49¢) | $28,057 | — | ⊘ Anulada |
-| yoyoyoyoer | Ravens vs. Falcons | Ravens | 1.18 (85¢) | $30,940 | +$5,460 | ✅ Ganada |
