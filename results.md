@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 00:00:34 (hora de Perú)
+Actualizado: 2026-10-13 00:02:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5020**  ($272,000,764 en total)
+- Apuestas registradas: **5021**  ($272,048,841 en total)
 - Resueltas: **4991** — 3054 ganadas / 1937 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 555
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 555 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $48,076 | — | ⏳ Pendiente |
 | gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $25,934 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Bills | 1.10 (91¢) | $83,819 | +$8,290 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 1.11 (90¢) | $30,985 | -$30,985 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 555 en total)_
 | mooseborzoii | Ravens vs. Falcons | Ravens | 3.70 (27¢) | $44,404 | +$120,055 | ✅ Ganada |
 | alwaysfade | Ravens vs. Falcons | Ravens | 3.45 (29¢) | $29,000 | +$71,000 | ✅ Ganada |
 | BrotherObama | Los Angeles Dodgers vs. Milwaukee Brewers | Los Angeles Dodgers | 2.00 (50¢) | $70,000 | -$70,000 | ❌ Perdida |
-| cosmicxbt | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $210,777 | -$19,938 | 💰 Vendida antes |
