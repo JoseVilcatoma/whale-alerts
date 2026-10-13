@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 19:53:10 (hora de Perú)
+Actualizado: 2026-10-12 19:55:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5002**  ($270,947,491 en total)
+- Apuestas registradas: **5003**  ($270,983,260 en total)
 - Resueltas: **4968** — 3040 ganadas / 1928 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 552
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ferrariChampions2026 | 81 | 41 | 1 | 66% | $5,018,218 | -$35,453 |
+| ferrariChampions2026 | 81 | 41 | 2 | 66% | $5,053,986 | -$35,453 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
 | BrotherObama | 39 | 46 | 2 | 46% | $3,962,955 | -$221,237 |
 | ethanaz | 47 | 20 | 0 | 70% | $3,910,643 | -$85,390 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Bills vs. Rams | Rams | 1.75 (57¢) | $35,768 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.96 (51¢) | $32,003 | — | ⏳ Pendiente |
 | 3648393489047 | Bills vs. Rams | Bills | 2.04 (49¢) | $25,477 | — | ⏳ Pendiente |
 | surfandturf | Bills vs. Rams | Rams | 1.64 (61¢) | $62,576 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $58,938 | +$48,222 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 5.5 | Under 5.5 | 2.17 (46¢) | $34,832 | +$40,890 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.00 (50¢) | $52,401 | +$52,401 | ✅ Ganada |
-| Roadto1mlesgooo | St. Louis City SC vs. Los Angeles Galaxy: O/U 4.5 | Over 4.5 | 1.10 (91¢) | $35,941 | +$3,555 | ✅ Ganada |
