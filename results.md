@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 22:19:09 (hora de Perú)
+Actualizado: 2026-10-12 22:21:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5015**  ($271,767,251 en total)
-- Resueltas: **4969** — 3041 ganadas / 1928 perdidas (**61%** de acierto)
-- Pendientes: 24
-- Apostadores distintos: 554
+- Apuestas registradas: **5017**  ($271,860,026 en total)
+- Resueltas: **4970** — 3042 ganadas / 1928 perdidas (**61%** de acierto)
+- Pendientes: 25
+- Apostadores distintos: 555
 
 ### Balance
 
-- **Resultado de los apostadores: -$96,884** sobre $269,567,450 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,456** sobre $490,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$68,551** sobre $269,594,672 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,352** sobre $490,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 358 | 189 | 4 | 65% | $34,046,975 | +$1,179,202 |
 | Sassy-Bucket | 72 | 64 | 3 | 53% | $7,895,360 | -$275,523 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 90 | 83 | 2 | 52% | $7,122,111 | -$527,824 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 91 | 83 | 1 | 52% | $7,122,111 | -$499,491 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Diabolical-Prize | 60 | 58 | 0 | 51% | $6,230,697 | -$269,712 |
@@ -37,8 +37,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
 | ethanaz | 47 | 20 | 1 | 70% | $4,119,901 | -$85,390 |
 | BrotherObama | 39 | 46 | 2 | 46% | $3,962,955 | -$221,237 |
+| Lakersfan111 | 50 | 28 | 2 | 64% | $3,710,919 | +$249,733 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Lakersfan111 | 50 | 28 | 1 | 64% | $3,650,145 | +$249,733 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 
-_(mostrando los 40 de mayor monto, de 554 en total)_
+_(mostrando los 40 de mayor monto, de 555 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| arjennnnn | LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.25 (80¢) | $32,000 | — | ⏳ Pendiente |
+| fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.08 (48¢) | $60,775 | — | ⏳ Pendiente |
 | ScroooogeMcDuck | Bills vs. Rams | Bills | 1.23 (81¢) | $45,800 | — | ⏳ Pendiente |
 | ethanaz | Bills vs. Rams | Bills | 1.67 (60¢) | $209,258 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 3.12 (32¢) | $32,824 | — | ⏳ Pendiente |
@@ -79,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 554 en total)_
 | 0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274 | Bills vs. Rams | Rams | 1.82 (55¢) | $25,966 | — | ⏳ Pendiente |
 | cosmicxbt | Bills vs. Rams | Rams | 1.56 (64¢) | $73,423 | — | ⏳ Pendiente |
 | esportsbetter1 | Bills vs. Rams | Rams | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams: O/U 48.5 | Over 48.5 | 2.04 (49¢) | $27,222 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams: O/U 48.5 | Over 48.5 | 2.04 (49¢) | $27,222 | +$28,333 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams | Bills | 1.96 (51¢) | $45,055 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.61 (62¢) | $29,557 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.13 (47¢) | $50,959 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 554 en total)_
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.75 (57¢) | $38,119 | -$38,119 | ❌ Perdida |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.72 (58¢) | $31,384 | -$31,384 | ❌ Perdida |
 | 0F62 | Shanghai Rolex Masters: Zizou Bergs vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $34,249 | -$34,249 | ❌ Perdida |
-| mooseborzoii | Ravens vs. Falcons | Falcons | 1.61 (62¢) | $219,027 | -$219,027 | ❌ Perdida |
-| milkteaboba | Ravens vs. Falcons | Falcons | 1.49 (67¢) | $271,562 | -$271,562 | ❌ Perdida |
