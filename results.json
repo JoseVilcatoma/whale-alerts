@@ -75711,5 +75711,20 @@
     "status": "pending",
     "ultimo_fill": 1791901294,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10248,
+    "timestamp": 1791902694,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "ucl-ars-lil-2026-10-13-total-3pt5",
+    "title": "Arsenal FC vs. Lille OSC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 34536.585366,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1791902694,
+    "fills": 1
   }
 ]

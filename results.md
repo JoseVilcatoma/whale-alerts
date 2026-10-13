@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 09:43:12 (hora de Perú)
+Actualizado: 2026-10-13 09:45:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5037**  ($272,745,565 en total)
+- Apuestas registradas: **5038**  ($272,780,102 en total)
 - Resueltas: **4994** — 3055 ganadas / 1939 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 556
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Arsenal FC vs. Lille OSC: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $34,537 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.30 (77¢) | $46,200 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.75 (57¢) | $57,502 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Galatasaray SK win on 2026-10-13? | No | 1.11 (90¢) | $26,964 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | beeemw | Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina | Daniil Medvedev | 1.12 (89¢) | $38,489 | +$4,757 | ✅ Ganada |
 | tennischamp | Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina | Daniil Medvedev | 1.14 (88¢) | $29,955 | +$4,085 | ✅ Ganada |
 | vtcchampion52 | LoL: KT Rolster vs Team Vitality (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.47 (68¢) | $34,000 | +$16,000 | ✅ Ganada |
-| madwish355 | LoL: KT Rolster vs Team Vitality (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.47 (68¢) | $44,880 | +$21,120 | ✅ Ganada |
