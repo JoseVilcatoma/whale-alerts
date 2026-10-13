@@ -75696,5 +75696,20 @@
     "status": "pending",
     "ultimo_fill": 1791900991,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 10247,
+    "timestamp": 1791901294,
+    "username": "0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295",
+    "wallet": "0x08a30a0a0fb71ebddc8907145791030782b88666",
+    "slug": "atp-hurkacz-fokina-2026-10-13",
+    "title": "Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina",
+    "outcome": "Hubert Hurkacz",
+    "side": "BUY",
+    "usd": 46200.0,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1791901294,
+    "fills": 1
   }
 ]
