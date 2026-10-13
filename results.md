@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 03:32:39 (hora de Perú)
+Actualizado: 2026-10-13 03:34:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5024**  ($272,241,283 en total)
+- Apuestas registradas: **5025**  ($272,269,006 en total)
 - Resueltas: **4991** — 3054 ganadas / 1937 perdidas (**61%** de acierto)
-- Pendientes: 11
-- Apostadores distintos: 555
+- Pendientes: 12
+- Apostadores distintos: 556
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 
-_(mostrando los 40 de mayor monto, de 555 en total)_
+_(mostrando los 40 de mayor monto, de 556 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| levaluv | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $27,723 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.04 (49¢) | $65,152 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | LGD Gaming | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
 | 1827575782 | Will Club Brugge KV win on 2026-10-13? | No | 1.08 (93¢) | $49,290 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 555 en total)_
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.43 (70¢) | $48,220 | -$48,220 | ❌ Perdida |
 | veliMax | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.22 (82¢) | $50,925 | +$11,179 | ✅ Ganada |
 | ethanaz | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $125,892 | -$125,892 | ❌ Perdida |
-| TAIWANNUMBERONE | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $29,833 | -$29,833 | ❌ Perdida |

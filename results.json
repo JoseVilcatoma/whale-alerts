@@ -75516,5 +75516,20 @@
     "status": "pending",
     "ultimo_fill": 1791879317,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10231,
+    "timestamp": 1791880367,
+    "username": "levaluv",
+    "wallet": "0x3ce8e7c1d00fd86e1b8cca3bb003479d53fd3cd9",
+    "slug": "lol-bro2-lgd-2026-10-13",
+    "title": "LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 27722.99,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1791880367,
+    "fills": 1
   }
 ]
