@@ -75940,5 +75940,20 @@
     "status": "pending",
     "ultimo_fill": 1791915039,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10279,
+    "timestamp": 1791915217,
+    "username": "ripley86alien",
+    "wallet": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+    "slug": "ucl-gal-fcb-2026-10-13-spread-away-1pt5",
+    "title": "Spread: FC Barcelona (-1.5)",
+    "outcome": "Galatasaray SK",
+    "side": "BUY",
+    "usd": 275516.65729999996,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1791915217,
+    "fills": 1
   }
 ]

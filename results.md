@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 13:11:39 (hora de Perú)
+Actualizado: 2026-10-13 13:13:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5052**  ($274,175,068 en total)
+- Apuestas registradas: **5053**  ($274,450,584 en total)
 - Resueltas: **5011** — 3067 ganadas / 1944 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 556
 
 ### Balance
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
+| ripley86alien | 30 | 16 | 2 | 65% | $5,390,930 | +$1,571,294 |
 | ferrariChampions2026 | 81 | 44 | 1 | 65% | $5,144,812 | -$132,781 |
-| ripley86alien | 30 | 16 | 1 | 65% | $5,115,413 | +$1,571,294 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 46 | 2 | 47% | $4,003,955 | -$180,237 |
 | Lakersfan111 | 56 | 28 | 0 | 67% | $3,931,304 | +$596,081 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.17 (46¢) | $275,517 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.18 (85¢) | $522,695 | — | ⏳ Pendiente |
 | ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.27 (44¢) | $209,386 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.16 (86¢) | $61,268 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | Noprajsk | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.63 (38¢) | $27,069 | +$44,165 | ✅ Ganada |
 | Mastermoney | Coventry City FC vs. Newcastle United FC: O/U 8.5 Total Corners | Over 8.5 Total Corners | 1.56 (64¢) | $31,361 | -$31,361 | ❌ Perdida |
 | plonker2026 | Will Newcastle United FC win on 2026-10-12? | Yes | 2.17 (46¢) | $39,748 | -$39,748 | ❌ Perdida |
-| BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.38 (42¢) | $59,859 | -$59,859 | ❌ Perdida |
