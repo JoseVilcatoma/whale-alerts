@@ -75970,5 +75970,35 @@
     "status": "pending",
     "ultimo_fill": 1791915386,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10281,
+    "timestamp": 1791915515,
+    "username": "SebastianAde1996",
+    "wallet": "0x4b4071d1456249cd8d7272d533a3efe191aa2f6a",
+    "slug": "ucl-vf-bay-2026-10-13-spread-away-2pt5",
+    "title": "Spread: FC Bayern M\u00fcnchen (-2.5)",
+    "outcome": "Viking FK",
+    "side": "BUY",
+    "usd": 69999.999999,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1791915515,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10282,
+    "timestamp": 1791915569,
+    "username": "Nooserac",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "euroleague-fenerbah-kaunas-2026-10-13",
+    "title": "Fenerbahce vs. Zalgiris Kaunas",
+    "outcome": "Fenerbahce",
+    "side": "BUY",
+    "usd": 47000.0,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1791915569,
+    "fills": 1
   }
 ]
