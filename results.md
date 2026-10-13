@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 21:05:41 (hora de Perú)
+Actualizado: 2026-10-12 21:07:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5008**  ($271,165,553 en total)
+- Apuestas registradas: **5009**  ($271,238,976 en total)
 - Resueltas: **4969** — 3041 ganadas / 1928 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 552
 
 ### Balance
@@ -48,9 +48,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
+| cosmicxbt | 15 | 6 | 1 | 71% | $2,239,699 | -$364,620 |
 | 0F62 | 29 | 4 | 0 | 88% | $2,222,414 | +$46,831 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| cosmicxbt | 15 | 6 | 0 | 71% | $2,166,276 | -$364,620 |
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
 | ndb1 | 23 | 12 | 0 | 66% | $1,869,615 | +$373,778 |
 | SDTrading | 30 | 30 | 1 | 50% | $1,813,324 | -$135,193 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Bills vs. Rams | Rams | 1.56 (64¢) | $73,423 | — | ⏳ Pendiente |
 | esportsbetter1 | Bills vs. Rams | Rams | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams: O/U 48.5 | Over 48.5 | 2.04 (49¢) | $27,222 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams | Bills | 1.96 (51¢) | $45,055 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | surfandturf | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $126,654 | -$126,654 | ❌ Perdida |
 | milkteaboba | Ravens vs. Falcons | Ravens | 2.70 (37¢) | $58,730 | +$100,000 | ✅ Ganada |
 | 3648393489047 | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $37,800 | -$37,800 | ❌ Perdida |
-| Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $65,155 | +$53,309 | ✅ Ganada |

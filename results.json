@@ -75276,5 +75276,20 @@
     "status": "pending",
     "ultimo_fill": 1791856706,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10192,
+    "timestamp": 1791857227,
+    "username": "cosmicxbt",
+    "wallet": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+    "slug": "nfl-buf-la-2026-10-13",
+    "title": "Bills vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 73422.8928,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1791857227,
+    "fills": 1
   }
 ]
