@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 11:19:23 (hora de Perú)
+Actualizado: 2026-10-13 11:21:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5041**  ($272,936,292 en total)
-- Resueltas: **5008** — 3065 ganadas / 1943 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **5009** — 3065 ganadas / 1944 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 556
 
 ### Balance
 
-- **Resultado de los apostadores: +$399,446** sobre $271,534,629 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,820** sobre $493,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$363,946** sobre $271,570,129 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,920** sobre $493,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.75 (57¢) | $57,502 | -$28,246 | 💰 Vendida antes |
 | 0x361b…74fe | Will Galatasaray SK win on 2026-10-13? | No | 1.11 (90¢) | $26,964 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Catania: Enrico Dalla Valle vs Federico Bondioli | Enrico Dalla Valle | 1.49 (67¢) | $33,604 | +$16,551 | ✅ Ganada |
-| Kkunn | Wuhan Tennis Open: Mia Pohankova vs Xiyu Wang | Xiyu Wang | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
+| Kkunn | Wuhan Tennis Open: Mia Pohankova vs Xiyu Wang | Xiyu Wang | 1.41 (71¢) | $35,500 | -$35,500 | ❌ Perdida |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $55,565 | +$55,565 | ✅ Ganada |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $30,395 | +$30,395 | ✅ Ganada |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $69,273 | +$69,273 | ✅ Ganada |
