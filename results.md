@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 03:14:04 (hora de Perú)
+Actualizado: 2026-10-13 03:16:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5023**  ($272,176,131 en total)
+- Apuestas registradas: **5024**  ($272,241,283 en total)
 - Resueltas: **4991** — 3054 ganadas / 1937 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 555
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 39 | 46 | 2 | 46% | $3,962,955 | -$221,237 |
-| Lakersfan111 | 50 | 28 | 2 | 64% | $3,710,919 | +$249,733 |
+| Lakersfan111 | 50 | 28 | 3 | 64% | $3,776,072 | +$249,733 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 555 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.04 (49¢) | $65,152 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | LGD Gaming | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
 | 1827575782 | Will Club Brugge KV win on 2026-10-13? | No | 1.08 (93¢) | $49,290 | — | ⏳ Pendiente |
 | gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $48,076 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 555 en total)_
 | veliMax | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 1.22 (82¢) | $50,925 | +$11,179 | ✅ Ganada |
 | ethanaz | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $125,892 | -$125,892 | ❌ Perdida |
 | TAIWANNUMBERONE | Ravens vs. Falcons | Falcons | 1.35 (74¢) | $29,833 | -$29,833 | ❌ Perdida |
-| mooseborzoii | Ravens vs. Falcons | Ravens | 3.70 (27¢) | $44,404 | +$120,055 | ✅ Ganada |
