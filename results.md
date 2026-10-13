@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 12:23:44 (hora de Perú)
+Actualizado: 2026-10-13 12:25:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5044**  ($273,039,299 en total)
-- Resueltas: **5009** — 3065 ganadas / 1944 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **5011** — 3067 ganadas / 1944 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 556
 
 ### Balance
 
-- **Resultado de los apostadores: +$363,946** sobre $271,570,129 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,920** sobre $493,900 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$380,630** sobre $271,643,136 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,880** sobre $494,100 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,8 +72,8 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | bbb17367162806 | Will Club Atlético de Madrid vs. Manchester United FC end in a draw? | No | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
-| tenniz | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.10 (91¢) | $25,640 | — | ⏳ Pendiente |
-| HVAB | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.30 (77¢) | $47,367 | — | ⏳ Pendiente |
+| tenniz | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.10 (91¢) | $25,640 | +$2,536 | ✅ Ganada |
+| HVAB | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.30 (77¢) | $47,367 | +$14,149 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.69 (59¢) | $31,950 | -$31,950 | ❌ Perdida |
 | 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $69,315 | — | ⏳ Pendiente |
 | 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.69 (59¢) | $54,925 | — | ⏳ Pendiente |
