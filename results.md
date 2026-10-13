@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 05:46:58 (hora de Perú)
+Actualizado: 2026-10-13 07:28:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5026**  ($272,310,006 en total)
-- Resueltas: **4991** — 3054 ganadas / 1937 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **4992** — 3055 ganadas / 1937 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 556
 
 ### Balance
 
-- **Resultado de los apostadores: +$151,912** sobre $270,773,975 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,398** sobre $492,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$159,912** sobre $270,805,975 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,373** sobre $492,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $25,934 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Bills | 1.10 (91¢) | $83,819 | +$8,290 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 1.11 (90¢) | $30,985 | -$30,985 | ❌ Perdida |
-| arjennnnn | LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.25 (80¢) | $32,000 | — | ⏳ Pendiente |
+| arjennnnn | LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.25 (80¢) | $32,000 | +$8,000 | ✅ Ganada |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.08 (48¢) | $60,775 | — | ⏳ Pendiente |
 | ScroooogeMcDuck | Bills vs. Rams | Bills | 1.23 (81¢) | $45,800 | +$10,743 | ✅ Ganada |
 | ethanaz | Bills vs. Rams | Bills | 1.67 (60¢) | $209,258 | +$139,505 | ✅ Ganada |
