@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 23:14:34 (hora de Perú)
+Actualizado: 2026-10-12 23:58:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5020**  ($272,000,764 en total)
-- Resueltas: **4975** — 3046 ganadas / 1929 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **4991** — 3054 ganadas / 1937 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 555
 
 ### Balance
 
-- **Resultado de los apostadores: +$73,779** sobre $269,796,667 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,061** sobre $490,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$151,912** sobre $270,773,975 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,398** sobre $492,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,18 +24,18 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 358 | 189 | 6 | 65% | $34,161,779 | +$1,179,202 |
-| Sassy-Bucket | 72 | 64 | 3 | 53% | $7,895,360 | -$275,523 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 91 | 83 | 1 | 52% | $7,122,111 | -$499,491 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 359 | 191 | 3 | 65% | $34,161,779 | +$1,123,684 |
+| Sassy-Bucket | 73 | 64 | 2 | 53% | $7,895,360 | -$237,375 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Diabolical-Prize | 60 | 58 | 0 | 51% | $6,230,697 | -$269,712 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ferrariChampions2026 | 81 | 41 | 3 | 66% | $5,083,543 | -$35,453 |
+| ferrariChampions2026 | 81 | 44 | 0 | 65% | $5,083,543 | -$132,781 |
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
-| ethanaz | 47 | 20 | 1 | 70% | $4,119,901 | -$85,390 |
+| ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 39 | 46 | 2 | 46% | $3,962,955 | -$221,237 |
 | Lakersfan111 | 50 | 28 | 2 | 64% | $3,710,919 | +$249,733 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| cosmicxbt | 15 | 6 | 2 | 71% | $2,406,992 | -$364,620 |
+| cosmicxbt | 16 | 7 | 0 | 70% | $2,406,992 | -$359,317 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0F62 | 29 | 4 | 0 | 88% | $2,222,414 | +$46,831 |
@@ -72,28 +72,28 @@ _(mostrando los 40 de mayor monto, de 555 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $25,934 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Bills | 1.10 (91¢) | $83,819 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 1.11 (90¢) | $30,985 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Bills | 1.10 (91¢) | $83,819 | +$8,290 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 1.11 (90¢) | $30,985 | -$30,985 | ❌ Perdida |
 | arjennnnn | LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.25 (80¢) | $32,000 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.08 (48¢) | $60,775 | — | ⏳ Pendiente |
-| ScroooogeMcDuck | Bills vs. Rams | Bills | 1.23 (81¢) | $45,800 | — | ⏳ Pendiente |
-| ethanaz | Bills vs. Rams | Bills | 1.67 (60¢) | $209,258 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 3.12 (32¢) | $32,824 | — | ⏳ Pendiente |
-| cosmicxbt | Bills vs. Rams | Bills | 1.47 (68¢) | $167,293 | — | ⏳ Pendiente |
+| ScroooogeMcDuck | Bills vs. Rams | Bills | 1.23 (81¢) | $45,800 | +$10,743 | ✅ Ganada |
+| ethanaz | Bills vs. Rams | Bills | 1.67 (60¢) | $209,258 | +$139,505 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 3.12 (32¢) | $32,824 | -$32,824 | ❌ Perdida |
+| cosmicxbt | Bills vs. Rams | Bills | 1.47 (68¢) | $167,293 | +$78,726 | ✅ Ganada |
 | Velin217 | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 1.06 (94¢) | $47,134 | +$3,009 | ✅ Ganada |
-| 0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274 | Bills vs. Rams | Rams | 1.82 (55¢) | $25,966 | — | ⏳ Pendiente |
-| cosmicxbt | Bills vs. Rams | Rams | 1.56 (64¢) | $73,423 | — | ⏳ Pendiente |
-| esportsbetter1 | Bills vs. Rams | Rams | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
+| 0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274 | Bills vs. Rams | Rams | 1.82 (55¢) | $25,966 | -$25,966 | ❌ Perdida |
+| cosmicxbt | Bills vs. Rams | Rams | 1.56 (64¢) | $73,423 | -$73,423 | ❌ Perdida |
+| esportsbetter1 | Bills vs. Rams | Rams | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams: O/U 48.5 | Over 48.5 | 2.04 (49¢) | $27,222 | +$28,333 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams | Bills | 1.96 (51¢) | $45,055 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Bills vs. Rams | Rams | 1.61 (62¢) | $29,557 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams | Bills | 1.96 (51¢) | $45,055 | +$43,289 | ✅ Ganada |
+| ferrariChampions2026 | Bills vs. Rams | Rams | 1.61 (62¢) | $29,557 | -$29,557 | ❌ Perdida |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.13 (47¢) | $50,959 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Bills vs. Rams | Rams | 1.75 (57¢) | $35,768 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Bills vs. Rams | Rams | 1.96 (51¢) | $32,003 | — | ⏳ Pendiente |
-| 3648393489047 | Bills vs. Rams | Bills | 2.04 (49¢) | $25,477 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Bills vs. Rams | Rams | 1.75 (57¢) | $35,768 | -$35,768 | ❌ Perdida |
+| ferrariChampions2026 | Bills vs. Rams | Rams | 1.96 (51¢) | $32,003 | -$32,003 | ❌ Perdida |
+| 3648393489047 | Bills vs. Rams | Bills | 2.04 (49¢) | $25,477 | +$26,516 | ✅ Ganada |
 | surfandturf | Bills vs. Rams | Rams | 1.64 (61¢) | $62,576 | +$1,026 | 💰 Vendida antes |
-| Sassy-Bucket | Spread: Rams (-4.5) | Bills | 1.79 (56¢) | $48,551 | — | ⏳ Pendiente |
-| milkteaboba | Spread: Bills (-3.5) | Rams | 1.37 (73¢) | $62,029 | — | ⏳ Pendiente |
+| Sassy-Bucket | Spread: Rams (-4.5) | Bills | 1.79 (56¢) | $48,551 | +$38,147 | ✅ Ganada |
+| milkteaboba | Spread: Bills (-3.5) | Rams | 1.37 (73¢) | $62,029 | +$22,942 | ✅ Ganada |
 | mooseborzoii | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 2.56 (39¢) | $32,830 | +$51,350 | ✅ Ganada |
 | Noprajsk | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.63 (38¢) | $27,069 | +$44,165 | ✅ Ganada |
 | Mastermoney | Coventry City FC vs. Newcastle United FC: O/U 8.5 Total Corners | Over 8.5 Total Corners | 1.56 (64¢) | $31,361 | -$31,361 | ❌ Perdida |
