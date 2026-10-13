@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 09:49:15 (hora de Perú)
+Actualizado: 2026-10-13 09:51:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5038**  ($272,780,102 en total)
+- Apuestas registradas: **5039**  ($272,835,027 en total)
 - Resueltas: **4996** — 3057 ganadas / 1939 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 556
 
 ### Balance
@@ -61,8 +61,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 13 | 0 | 1 | 100% | $1,724,497 | +$208,027 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
+| 0x361b…74fe | 19 | 1 | 2 | 95% | $1,532,676 | +$675,580 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| 0x361b…74fe | 19 | 1 | 1 | 95% | $1,477,751 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 
 _(mostrando los 40 de mayor monto, de 556 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.69 (59¢) | $54,925 | — | ⏳ Pendiente |
 | RJW1 | Arsenal FC vs. Lille OSC: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $34,537 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.30 (77¢) | $46,200 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.75 (57¢) | $57,502 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | BrotherObama | Game Handicap: BFX (-1.5) vs JD Gaming (+1.5) | BNK FEARX | 2.04 (49¢) | $50,000 | -$50,000 | ❌ Perdida |
 | beeemw | Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina | Daniil Medvedev | 1.12 (89¢) | $38,489 | +$4,757 | ✅ Ganada |
 | tennischamp | Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina | Daniil Medvedev | 1.14 (88¢) | $29,955 | +$4,085 | ✅ Ganada |
-| vtcchampion52 | LoL: KT Rolster vs Team Vitality (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.47 (68¢) | $34,000 | +$16,000 | ✅ Ganada |

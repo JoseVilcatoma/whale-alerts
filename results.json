@@ -75726,5 +75726,20 @@
     "status": "pending",
     "ultimo_fill": 1791902694,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10251,
+    "timestamp": 1791902995,
+    "username": "0x361b\u202674fe",
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "slug": "ucl-gal-fcb-2026-10-13-spread-away-1pt5",
+    "title": "Spread: FC Barcelona (-1.5)",
+    "outcome": "FC Barcelona",
+    "side": "BUY",
+    "usd": 54925.229998999996,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1791902995,
+    "fills": 1
   }
 ]
