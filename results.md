@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 10:48:29 (hora de Perú)
+Actualizado: 2026-10-13 10:50:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5041**  ($272,936,292 en total)
-- Resueltas: **5007** — 3065 ganadas / 1942 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **5008** — 3065 ganadas / 1943 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 556
 
 ### Balance
 
-- **Resultado de los apostadores: +$431,396** sobre $271,502,679 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,720** sobre $493,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$399,446** sobre $271,534,629 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,820** sobre $493,800 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.69 (59¢) | $31,950 | — | ⏳ Pendiente |
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.69 (59¢) | $31,950 | -$31,950 | ❌ Perdida |
 | 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $69,315 | — | ⏳ Pendiente |
 | 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.69 (59¢) | $54,925 | — | ⏳ Pendiente |
 | RJW1 | Arsenal FC vs. Lille OSC: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $34,537 | — | ⏳ Pendiente |
