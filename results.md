@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 07:36:55 (hora de Perú)
+Actualizado: 2026-10-13 07:38:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5029**  ($272,390,563 en total)
+- Apuestas registradas: **5030**  ($272,459,836 en total)
 - Resueltas: **4992** — 3055 ganadas / 1937 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 556
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 16 | 0 | 65% | $4,906,027 | +$1,571,294 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 39 | 46 | 3 | 46% | $4,003,955 | -$221,237 |
-| Lakersfan111 | 50 | 28 | 3 | 64% | $3,776,072 | +$249,733 |
+| Lakersfan111 | 50 | 28 | 4 | 64% | $3,845,345 | +$249,733 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $69,273 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Catania: Enrico Dalla Valle vs Federico Bondioli | Enrico Dalla Valle | 1.79 (56¢) | $27,641 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik | Alexander Bublik | 2.00 (50¢) | $26,808 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik | Alexander Bublik | 1.28 (78¢) | $26,107 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ravens vs. Falcons | Ravens | 2.00 (50¢) | $122,511 | +$122,511 | ✅ Ganada |
 | mooseborzoii | Ravens vs. Falcons | Falcons | 1.61 (62¢) | $32,928 | -$32,928 | ❌ Perdida |
 | ethanaz | Ravens vs. Falcons | Ravens | 2.63 (38¢) | $66,553 | +$108,586 | ✅ Ganada |
-| cosmicxbt | Ravens vs. Falcons | Falcons | 1.10 (91¢) | $453,980 | -$379,148 | 💰 Vendida antes |
