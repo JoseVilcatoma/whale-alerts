@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 13:15:52 (hora de Perú)
+Actualizado: 2026-10-13 13:17:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5053**  ($274,450,584 en total)
+- Apuestas registradas: **5054**  ($274,578,521 en total)
 - Resueltas: **5011** — 3067 ganadas / 1944 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 556
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | mooseborzoii | 41 | 22 | 1 | 65% | $3,282,343 | +$684,763 |
-| Kch-Temp | 33 | 10 | 1 | 77% | $2,815,566 | +$1,568,805 |
+| Kch-Temp | 33 | 10 | 2 | 77% | $2,943,503 | +$1,568,805 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | cosmicxbt | 16 | 7 | 0 | 70% | $2,406,992 | -$359,317 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Will Arsenal FC win on 2026-10-13? | Yes | 1.23 (81¢) | $127,936 | — | ⏳ Pendiente |
 | ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.17 (46¢) | $275,517 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.18 (85¢) | $522,695 | — | ⏳ Pendiente |
 | ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.27 (44¢) | $209,386 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | mooseborzoii | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 2.56 (39¢) | $32,830 | +$51,350 | ✅ Ganada |
 | Noprajsk | Los Angeles Dodgers vs. Milwaukee Brewers | Milwaukee Brewers | 2.63 (38¢) | $27,069 | +$44,165 | ✅ Ganada |
 | Mastermoney | Coventry City FC vs. Newcastle United FC: O/U 8.5 Total Corners | Over 8.5 Total Corners | 1.56 (64¢) | $31,361 | -$31,361 | ❌ Perdida |
-| plonker2026 | Will Newcastle United FC win on 2026-10-12? | Yes | 2.17 (46¢) | $39,748 | -$39,748 | ❌ Perdida |
