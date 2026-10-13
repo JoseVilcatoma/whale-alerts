@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 21:43:21 (hora de Perú)
+Actualizado: 2026-10-12 21:45:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5009**  ($271,238,976 en total)
+- Apuestas registradas: **5010**  ($271,264,942 en total)
 - Resueltas: **4969** — 3041 ganadas / 1928 perdidas (**61%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 552
+- Pendientes: 19
+- Apostadores distintos: 553
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 19 | 1 | 0 | 95% | $1,450,786 | +$675,580 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 
-_(mostrando los 40 de mayor monto, de 552 en total)_
+_(mostrando los 40 de mayor monto, de 553 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274 | Bills vs. Rams | Rams | 1.82 (55¢) | $25,966 | — | ⏳ Pendiente |
 | cosmicxbt | Bills vs. Rams | Rams | 1.56 (64¢) | $73,423 | — | ⏳ Pendiente |
 | esportsbetter1 | Bills vs. Rams | Rams | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams: O/U 48.5 | Over 48.5 | 2.04 (49¢) | $27,222 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Ravens vs. Falcons | Ravens | 2.33 (43¢) | $27,764 | +$36,804 | ✅ Ganada |
 | surfandturf | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $126,654 | -$126,654 | ❌ Perdida |
 | milkteaboba | Ravens vs. Falcons | Ravens | 2.70 (37¢) | $58,730 | +$100,000 | ✅ Ganada |
-| 3648393489047 | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $37,800 | -$37,800 | ❌ Perdida |
