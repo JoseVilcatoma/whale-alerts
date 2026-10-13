@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-12 20:57:19 (hora de Perú)
+Actualizado: 2026-10-12 20:59:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5007**  ($271,136,053 en total)
+- Apuestas registradas: **5008**  ($271,165,553 en total)
 - Resueltas: **4969** — 3041 ganadas / 1928 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 552
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| esportsbetter1 | Bills vs. Rams | Rams | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams: O/U 48.5 | Over 48.5 | 2.04 (49¢) | $27,222 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams | Bills | 1.96 (51¢) | $45,055 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bills vs. Rams | Rams | 1.61 (62¢) | $29,557 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 552 en total)_
 | milkteaboba | Ravens vs. Falcons | Ravens | 2.70 (37¢) | $58,730 | +$100,000 | ✅ Ganada |
 | 3648393489047 | Ravens vs. Falcons | Falcons | 1.59 (63¢) | $37,800 | -$37,800 | ❌ Perdida |
 | Sassy-Bucket | Los Angeles Dodgers vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $65,155 | +$53,309 | ✅ Ganada |
-| 3648393489047 | Hurricanes vs. Flyers | Hurricanes | 1.54 (65¢) | $25,935 | +$13,965 | ✅ Ganada |
