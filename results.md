@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 17:02:11 (hora de Perú)
+Actualizado: 2026-10-13 17:04:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5058**  ($274,753,006 en total)
-- Resueltas: **5029** — 3077 ganadas / 1952 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **5030** — 3077 ganadas / 1953 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 557
 
 ### Balance
 
-- **Resultado de los apostadores: +$83,440** sobre $273,461,174 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,209** sobre $495,900 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$34,150** sobre $273,510,464 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,309** sobre $496,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | Talvez10 | 19 | 18 | 1 | 51% | $1,768,263 | +$155,737 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 2 | 0 | 94% | $1,736,357 | +$92,570 |
-| 1827575782 | 13 | 0 | 1 | 100% | $1,724,497 | +$208,027 |
+| 1827575782 | 13 | 1 | 0 | 93% | $1,724,497 | +$158,737 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
 | 0x361b…74fe | 22 | 1 | 0 | 96% | $1,601,991 | +$762,954 |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 557 en total)_
 | levaluv | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $27,723 | +$27,723 | ✅ Ganada |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.04 (49¢) | $65,152 | +$67,812 | ✅ Ganada |
 | Diabolical-Prize | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | LGD Gaming | 1.92 (52¢) | $78,000 | -$78,000 | ❌ Perdida |
-| 1827575782 | Will Club Brugge KV win on 2026-10-13? | No | 1.08 (93¢) | $49,290 | — | ⏳ Pendiente |
+| 1827575782 | Will Club Brugge KV win on 2026-10-13? | No | 1.08 (93¢) | $49,290 | -$49,290 | ❌ Perdida |
 | gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $48,076 | -$48,076 | ❌ Perdida |
 | gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $25,934 | -$25,934 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Bills | 1.10 (91¢) | $83,819 | +$8,290 | ✅ Ganada |
