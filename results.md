@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 09:45:11 (hora de Perú)
+Actualizado: 2026-10-13 09:47:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5038**  ($272,780,102 en total)
-- Resueltas: **4994** — 3055 ganadas / 1939 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **4996** — 3057 ganadas / 1939 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 556
 
 ### Balance
 
-- **Resultado de los apostadores: +$106,997** sobre $270,858,891 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,573** sobre $492,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$145,266** sobre $270,920,136 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,445** sobre $492,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 359 | 191 | 4 | 65% | $34,189,420 | +$1,123,684 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 360 | 191 | 3 | 65% | $34,189,420 | +$1,145,402 |
 | Sassy-Bucket | 73 | 64 | 2 | 53% | $7,895,360 | -$237,375 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -75,12 +75,12 @@ _(mostrando los 40 de mayor monto, de 556 en total)_
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.30 (77¢) | $46,200 | — | ⏳ Pendiente |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.75 (57¢) | $57,502 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Galatasaray SK win on 2026-10-13? | No | 1.11 (90¢) | $26,964 | — | ⏳ Pendiente |
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Catania: Enrico Dalla Valle vs Federico Bondioli | Enrico Dalla Valle | 1.49 (67¢) | $33,604 | — | ⏳ Pendiente |
+| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Catania: Enrico Dalla Valle vs Federico Bondioli | Enrico Dalla Valle | 1.49 (67¢) | $33,604 | +$16,551 | ✅ Ganada |
 | Kkunn | Wuhan Tennis Open: Mia Pohankova vs Xiyu Wang | Xiyu Wang | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $55,565 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $30,395 | — | ⏳ Pendiente |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $69,273 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Catania: Enrico Dalla Valle vs Federico Bondioli | Enrico Dalla Valle | 1.79 (56¢) | $27,641 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Catania: Enrico Dalla Valle vs Federico Bondioli | Enrico Dalla Valle | 1.79 (56¢) | $27,641 | +$21,718 | ✅ Ganada |
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik | Alexander Bublik | 2.00 (50¢) | $26,808 | -$26,808 | ❌ Perdida |
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik | Alexander Bublik | 1.28 (78¢) | $26,107 | -$26,107 | ❌ Perdida |
 | BrotherObama | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $41,000 | — | ⏳ Pendiente |
