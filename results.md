@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 06:53:56 (hora de Perú)
+Actualizado: 2026-10-14 06:55:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5095**  ($277,067,408 en total)
-- Resueltas: **5054** — 3091 ganadas / 1963 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **5056** — 3092 ganadas / 1964 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 559
 
 ### Balance
 
-- **Resultado de los apostadores: -$78,387** sobre $274,740,852 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,371** sobre $498,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$24,818** sobre $274,953,896 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,375** sobre $498,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 73 | 68 | 2 | 52% | $8,151,825 | -$493,840 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
-| Diabolical-Prize | 60 | 59 | 2 | 50% | $6,490,322 | -$347,712 |
+| Diabolical-Prize | 61 | 59 | 1 | 51% | $6,490,322 | -$217,072 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 83 | 44 | 0 | 65% | $5,175,496 | -$85,304 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
-| Lakersfan111 | 56 | 28 | 1 | 67% | $4,008,376 | +$596,081 |
+| Lakersfan111 | 56 | 29 | 0 | 66% | $4,008,376 | +$519,010 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
@@ -75,8 +75,8 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.06 (94¢) | $39,011 | — | ⏳ Pendiente |
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.14 (88¢) | $177,455 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: BNK FEARX vs KT Rolster - Game 3 Winner | KT Rolster | 1.47 (68¢) | $45,653 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | 9z | 1.96 (51¢) | $135,973 | — | ⏳ Pendiente |
-| corkmaster420blaezit | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 2.00 (50¢) | $77,072 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | 9z | 1.96 (51¢) | $135,973 | +$130,640 | ✅ Ganada |
+| corkmaster420blaezit | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 2.00 (50¢) | $77,072 | -$77,072 | ❌ Perdida |
 | 1827575782 | Shanghai Rolex Masters: Daniil Medvedev vs Stefanos Tsitsipas | Daniil Medvedev | 1.12 (89¢) | $251,370 | — | ⏳ Pendiente |
 | hurrican | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jelena Ostapenko | 1.45 (69¢) | $30,000 | +$13,478 | ✅ Ganada |
 | 3648393489047 | Wuhan Tennis Open: Katie Volynets vs Hanyu Guo | Hanyu Guo | 1.39 (72¢) | $64,556 | -$28,692 | 💰 Vendida antes |
