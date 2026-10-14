@@ -76360,5 +76360,20 @@
     "status": "pending",
     "ultimo_fill": 1791961055,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10346,
+    "timestamp": 1791961437,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "wta-muchova-mcnally-2026-10-13",
+    "title": "Wuhan Tennis Open: Karolina Muchova vs Caty McNally",
+    "outcome": "Karolina Muchova",
+    "side": "BUY",
+    "usd": 29987.048,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1791961437,
+    "fills": 1
   }
 ]
