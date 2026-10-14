@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 06:24:59 (hora de Perú)
+Actualizado: 2026-10-14 06:27:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5092**  ($276,791,371 en total)
-- Resueltas: **5053** — 3091 ganadas / 1962 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **5054** — 3091 ganadas / 1963 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 559
 
 ### Balance
 
-- **Resultado de los apostadores: -$46,883** sobre $274,709,348 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,271** sobre $498,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$78,387** sobre $274,740,852 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,371** sobre $498,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | 1827575782 | Shanghai Rolex Masters: Daniil Medvedev vs Stefanos Tsitsipas | Daniil Medvedev | 1.12 (89¢) | $251,370 | — | ⏳ Pendiente |
 | hurrican | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jelena Ostapenko | 1.45 (69¢) | $30,000 | +$13,478 | ✅ Ganada |
 | 3648393489047 | Wuhan Tennis Open: Katie Volynets vs Hanyu Guo | Hanyu Guo | 1.39 (72¢) | $64,556 | -$28,692 | 💰 Vendida antes |
-| 3648393489047 | Wuhan Tennis Open: Katie Volynets vs Hanyu Guo | Katie Volynets | 1.75 (57¢) | $31,504 | — | ⏳ Pendiente |
+| 3648393489047 | Wuhan Tennis Open: Katie Volynets vs Hanyu Guo | Katie Volynets | 1.75 (57¢) | $31,504 | -$31,504 | ❌ Perdida |
 | RJW1 | Will Real Madrid CF win on 2026-10-14? | No | 1.96 (51¢) | $66,168 | — | ⏳ Pendiente |
 | 1827575782 | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jessica Pegula | 1.18 (85¢) | $70,767 | -$70,767 | ❌ Perdida |
 | 1827575782 | Shanghai Rolex Masters: Casper Ruud vs Felix Auger-Aliassime | Casper Ruud | 1.28 (78¢) | $71,101 | +$20,054 | ✅ Ganada |
