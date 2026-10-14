@@ -77096,7 +77096,7 @@
     "side": "BUY",
     "usd": 27636.3645,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792000225,
     "fills": 1
   },
@@ -77368,6 +77368,21 @@
     "odds_at_bet": 62,
     "status": "pending",
     "ultimo_fill": 1792012496,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10457,
+    "timestamp": 1792012724,
+    "username": "0xd4aa6f8e91cfea29b66a48ebff52814",
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "slug": "mlb-mil-lad-2026-10-14",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 33246.0187,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1792012724,
     "fills": 1
   }
 ]

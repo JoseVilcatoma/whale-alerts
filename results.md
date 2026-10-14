@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 16:17:30 (hora de Perú)
+Actualizado: 2026-10-14 16:19:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5147**  ($280,815,738 en total)
-- Resueltas: **5087** — 3112 ganadas / 1975 perdidas (**61%** de acierto)
+- Apuestas registradas: **5148**  ($280,848,984 en total)
+- Resueltas: **5088** — 3112 ganadas / 1976 perdidas (**61%** de acierto)
 - Pendientes: 38
 - Apostadores distintos: 563
 
 ### Balance
 
-- **Resultado de los apostadores: -$503,804** sobre $277,047,823 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$4,760** sobre $501,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$531,440** sobre $277,075,459 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$4,860** sobre $501,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $33,246 | — | ⏳ Pendiente |
 | joseph00677 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $95,667 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.56 (39¢) | $96,111 | — | ⏳ Pendiente |
 | hurrican | Counter-Strike: FURIA vs BetBoom Team (BO3) - Thunderpick World Championship Group B | FURIA | 1.39 (72¢) | $31,000 | — | ⏳ Pendiente |
@@ -89,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 2.00 (50¢) | $89,000 | — | ⏳ Pendiente |
 | Elaran1993 | Queens Park Rangers FC vs. Derby County FC: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $28,560 | — | ⏳ Pendiente |
 | Jsram | Will Manchester City FC win on 2026-10-14? | No | 1.96 (51¢) | $44,745 | — | ⏳ Pendiente |
-| crisp1973 | FK Bodø/Glimt vs. BV Borussia 09 Dortmund: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $27,636 | — | ⏳ Pendiente |
+| crisp1973 | FK Bodø/Glimt vs. BV Borussia 09 Dortmund: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $27,636 | -$27,636 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.10 (91¢) | $97,781 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs PARIVISION (BO3) - Thunderpick World Championship Group B | Legacy | 1.22 (82¢) | $56,272 | +$12,353 | ✅ Ganada |
 | Pjosully | Will Manchester City FC win on 2026-10-14? | Yes | 2.04 (49¢) | $31,011 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | Diabolical-Prize | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | 9z | 1.96 (51¢) | $135,973 | +$130,640 | ✅ Ganada |
 | corkmaster420blaezit | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 2.00 (50¢) | $77,072 | -$77,072 | ❌ Perdida |
 | 1827575782 | Shanghai Rolex Masters: Daniil Medvedev vs Stefanos Tsitsipas | Daniil Medvedev | 1.12 (89¢) | $251,370 | +$31,068 | ✅ Ganada |
-| hurrican | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jelena Ostapenko | 1.45 (69¢) | $30,000 | +$13,478 | ✅ Ganada |
