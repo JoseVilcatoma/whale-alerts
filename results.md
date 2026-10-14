@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 16:36:14 (hora de Perú)
+Actualizado: 2026-10-14 16:38:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5149**  ($280,875,422 en total)
-- Resueltas: **5113** — 3128 ganadas / 1985 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **5114** — 3129 ganadas / 1985 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 563
 
 ### Balance
 
-- **Resultado de los apostadores: +$629,744** sobre $279,303,908 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,467** sobre $504,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$663,026** sobre $279,348,025 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,391** sobre $504,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -115,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | hurrican | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.16 (86¢) | $33,000 | +$5,372 | ✅ Ganada |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | +$22,214 | ✅ Ganada |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | +$18,421 | 💰 Vendida antes |
-| jonjones1993 | Will BV Borussia 09 Dortmund win on 2026-10-14? | No | 1.75 (57¢) | $44,117 | — | ⏳ Pendiente |
+| jonjones1993 | Will BV Borussia 09 Dortmund win on 2026-10-14? | No | 1.75 (57¢) | $44,117 | +$33,281 | ✅ Ganada |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Irene Burillo Escorihuela | 1.61 (62¢) | $25,805 | -$25,805 | ❌ Perdida |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $36,600 | — | ⏳ Pendiente |
 | mooseborzoii | Stars vs. Avalanche | Stars | 2.38 (42¢) | $32,759 | — | ⏳ Pendiente |
