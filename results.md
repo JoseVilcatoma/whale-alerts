@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 16:52:39 (hora de Perú)
+Actualizado: 2026-10-14 16:54:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5149**  ($280,875,422 en total)
+- Apuestas registradas: **5150**  ($280,904,453 en total)
 - Resueltas: **5116** — 3131 ganadas / 1985 perdidas (**61%** de acierto)
-- Pendientes: 11
-- Apostadores distintos: 563
+- Pendientes: 12
+- Apostadores distintos: 564
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 
-_(mostrando los 40 de mayor monto, de 563 en total)_
+_(mostrando los 40 de mayor monto, de 564 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bitbe | Western Kentucky vs. Sam Houston | Western Kentucky | 1.92 (52¢) | $29,031 | — | ⏳ Pendiente |
 | 24440 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $26,438 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $33,246 | — | ⏳ Pendiente |
 | joseph00677 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $95,667 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.14 (88¢) | $177,455 | -$177,455 | ❌ Perdida |
 | Diabolical-Prize | LoL: BNK FEARX vs KT Rolster - Game 3 Winner | KT Rolster | 1.47 (68¢) | $45,653 | -$45,653 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | 9z | 1.96 (51¢) | $135,973 | +$130,640 | ✅ Ganada |
-| corkmaster420blaezit | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 2.00 (50¢) | $77,072 | -$77,072 | ❌ Perdida |
