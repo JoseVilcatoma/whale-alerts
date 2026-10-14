@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 10:56:02 (hora de Perú)
+Actualizado: 2026-10-14 10:58:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5111**  ($277,772,815 en total)
+- Apuestas registradas: **5112**  ($277,806,601 en total)
 - Resueltas: **5071** — 3102 ganadas / 1969 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 562
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 562 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mastermoney | Manchester City FC vs. Paris Saint-Germain FC: O/U 2.5 | Over 2.5 | 1.39 (72¢) | $33,786 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Como 1907 win on 2026-10-14? | Yes | 2.38 (42¢) | $34,317 | — | ⏳ Pendiente |
 | nb1985 | Spread: Liverpool FC (-1.5) | LASK Linz | 1.75 (57¢) | $100,000 | — | ⏳ Pendiente |
 | Fvalp | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.25 (80¢) | $29,888 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 562 en total)_
 | SebastianAde1996 | Spread: FC Bayern München (-2.5) | Viking FK | 1.89 (53¢) | $70,000 | +$62,075 | ✅ Ganada |
 | Kch-Temp | Will Arsenal FC win on 2026-10-13? | Yes | 1.23 (81¢) | $127,936 | +$30,010 | ✅ Ganada |
 | ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.17 (46¢) | $275,517 | -$275,517 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.18 (85¢) | $522,695 | +$92,240 | ✅ Ganada |

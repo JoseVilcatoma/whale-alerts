@@ -76829,5 +76829,20 @@
     "status": "pending",
     "ultimo_fill": 1791992982,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10402,
+    "timestamp": 1791993364,
+    "username": "Mastermoney",
+    "wallet": "0xbe23032d56a012c531b372c7739bc1dbd4dfb587",
+    "slug": "ucl-mnc-psg-2026-10-14-total-2pt5",
+    "title": "Manchester City FC vs. Paris Saint-Germain FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 33786.174699999996,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1791993364,
+    "fills": 1
   }
 ]
