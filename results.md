@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 09:26:08 (hora de Perú)
+Actualizado: 2026-10-14 09:28:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5105**  ($277,511,677 en total)
-- Resueltas: **5062** — 3096 ganadas / 1966 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **5065** — 3097 ganadas / 1968 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 561
 
 ### Balance
 
-- **Resultado de los apostadores: +$8,520** sobre $275,420,678 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,379** sobre $499,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$183,812** sobre $275,773,906 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$4,561** sobre $499,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | cosmicxbt | 16 | 7 | 0 | 70% | $2,406,992 | -$359,317 |
-| 1827575782 | 15 | 2 | 2 | 88% | $2,334,202 | +$139,093 |
+| 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0F62 | 29 | 4 | 0 | 88% | $2,222,414 | +$46,831 |
@@ -75,15 +75,15 @@ _(mostrando los 40 de mayor monto, de 561 en total)_
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Irene Burillo Escorihuela | 1.61 (62¢) | $25,805 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $36,600 | — | ⏳ Pendiente |
 | mooseborzoii | Stars vs. Avalanche | Stars | 2.38 (42¢) | $32,759 | — | ⏳ Pendiente |
-| csgostar | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Ann Li | 1.18 (85¢) | $136,762 | — | ⏳ Pendiente |
+| csgostar | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Ann Li | 1.18 (85¢) | $136,762 | +$24,135 | ✅ Ganada |
 | Yellow-Fever | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.37 (73¢) | $28,578 | — | ⏳ Pendiente |
 | hurrican | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.33 (75¢) | $25,000 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.35 (74¢) | $37,233 | — | ⏳ Pendiente |
 | AnonymousUsername | Will ŠK Slovan Bratislava win on 2026-10-14? | No | 1.14 (88¢) | $27,416 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will ŠK Slovan Bratislava win on 2026-10-14? | No | 1.15 (87¢) | $50,000 | — | ⏳ Pendiente |
 | Flaznorp | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.09 (92¢) | $59,571 | — | ⏳ Pendiente |
-| 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.06 (94¢) | $39,011 | — | ⏳ Pendiente |
-| 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.14 (88¢) | $177,455 | — | ⏳ Pendiente |
+| 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.06 (94¢) | $39,011 | -$39,011 | ❌ Perdida |
+| 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.14 (88¢) | $177,455 | -$177,455 | ❌ Perdida |
 | Diabolical-Prize | LoL: BNK FEARX vs KT Rolster - Game 3 Winner | KT Rolster | 1.47 (68¢) | $45,653 | -$45,653 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | 9z | 1.96 (51¢) | $135,973 | +$130,640 | ✅ Ganada |
 | corkmaster420blaezit | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 2.00 (50¢) | $77,072 | -$77,072 | ❌ Perdida |
