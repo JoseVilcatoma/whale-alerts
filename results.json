@@ -76494,7 +76494,7 @@
     "side": "BUY",
     "usd": 251370.0893,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791974172,
     "fills": 3
   },
@@ -76616,6 +76616,21 @@
     "odds_at_bet": 87,
     "status": "pending",
     "ultimo_fill": 1791979488,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10373,
+    "timestamp": 1791979982,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "cs2-fal2-nip-2026-10-14",
+    "title": "Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 37232.630000000005,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1791979982,
     "fills": 1
   }
 ]
