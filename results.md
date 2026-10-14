@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 17:40:31 (hora de Perú)
+Actualizado: 2026-10-14 17:42:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5150**  ($280,904,453 en total)
+- Apuestas registradas: **5151**  ($280,934,453 en total)
 - Resueltas: **5117** — 3131 ganadas / 1986 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 564
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 564 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
 | bitbe | Western Kentucky vs. Sam Houston | Western Kentucky | 1.92 (52¢) | $29,031 | — | ⏳ Pendiente |
 | 24440 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $26,438 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $33,246 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 564 en total)_
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.06 (94¢) | $39,011 | -$39,011 | ❌ Perdida |
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.14 (88¢) | $177,455 | -$177,455 | ❌ Perdida |
 | Diabolical-Prize | LoL: BNK FEARX vs KT Rolster - Game 3 Winner | KT Rolster | 1.47 (68¢) | $45,653 | -$45,653 | ❌ Perdida |
-| Diabolical-Prize | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | 9z | 1.96 (51¢) | $135,973 | +$130,640 | ✅ Ganada |
