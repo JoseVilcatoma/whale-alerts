@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 16:19:32 (hora de Perú)
+Actualizado: 2026-10-14 16:21:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5148**  ($280,848,984 en total)
-- Resueltas: **5088** — 3112 ganadas / 1976 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **5089** — 3113 ganadas / 1976 perdidas (**61%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 563
 
 ### Balance
 
-- **Resultado de los apostadores: -$531,440** sobre $277,075,459 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$4,860** sobre $501,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$205,781** sobre $277,258,642 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$4,682** sobre $501,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 34 | 10 | 1 | 77% | $2,943,503 | +$1,598,814 |
-| raybanman | 15 | 9 | 1 | 62% | $2,643,012 | +$329,148 |
+| raybanman | 16 | 9 | 0 | 64% | $2,643,012 | +$654,807 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | cosmicxbt | 16 | 7 | 0 | 70% | $2,406,992 | -$359,317 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | Yellow-Fever | Will Manchester City FC win on 2026-10-14? | No | 2.04 (49¢) | $25,587 | — | ⏳ Pendiente |
 | jonjones1993 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $77,555 | — | ⏳ Pendiente |
 | joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $210,842 | — | ⏳ Pendiente |
-| raybanman | Will FK Bodø/Glimt win on 2026-10-14? | Yes | 2.78 (36¢) | $183,183 | — | ⏳ Pendiente |
+| raybanman | Will FK Bodø/Glimt win on 2026-10-14? | Yes | 2.78 (36¢) | $183,183 | +$325,659 | ✅ Ganada |
 | joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $637,952 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | mooseborzoii | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $33,016 | — | ⏳ Pendiente |
