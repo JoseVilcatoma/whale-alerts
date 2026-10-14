@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 19:09:37 (hora de Perú)
+Actualizado: 2026-10-13 19:11:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5065**  ($275,109,363 en total)
+- Apuestas registradas: **5066**  ($275,155,297 en total)
 - Resueltas: **5031** — 3078 ganadas / 1953 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 558
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 558 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Stars | Avalanche | 2.04 (49¢) | $45,935 | — | ⏳ Pendiente |
 | Icanflyallnight | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $29,114 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $88,241 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $34,970 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 558 en total)_
 | cosmicxbt | Bills vs. Rams | Rams | 1.56 (64¢) | $73,423 | -$73,423 | ❌ Perdida |
 | esportsbetter1 | Bills vs. Rams | Rams | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams: O/U 48.5 | Over 48.5 | 2.04 (49¢) | $27,222 | +$28,333 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Rams | Bills | 1.96 (51¢) | $45,055 | +$43,289 | ✅ Ganada |
