@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 11:18:54 (hora de Perú)
+Actualizado: 2026-10-14 11:20:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5117**  ($277,983,828 en total)
+- Apuestas registradas: **5118**  ($278,283,126 en total)
 - Resueltas: **5071** — 3102 ganadas / 1969 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 562
 
 ### Balance
@@ -47,12 +47,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | cosmicxbt | 16 | 7 | 0 | 70% | $2,406,992 | -$359,317 |
+| raybanman | 15 | 6 | 1 | 71% | $2,383,359 | +$704,915 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0F62 | 29 | 4 | 0 | 88% | $2,222,414 | +$46,831 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
 | ndb1 | 23 | 12 | 0 | 66% | $1,869,615 | +$373,778 |
 | Talvez10 | 21 | 18 | 0 | 54% | $1,839,170 | +$257,433 |
 | SDTrading | 30 | 31 | 0 | 49% | $1,813,324 | -$160,793 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 562 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Will Liverpool FC win on 2026-10-14? | No | 3.03 (33¢) | $299,298 | — | ⏳ Pendiente |
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $33,654 | — | ⏳ Pendiente |
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $27,556 | — | ⏳ Pendiente |
 | optimusprime777879 | Will Como 1907 win on 2026-10-14? | Yes | 2.38 (42¢) | $54,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 562 en total)_
 | BrotherObama | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $48,000 | -$48,000 | ❌ Perdida |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.13 (47¢) | $33,915 | -$33,915 | ❌ Perdida |
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $70,907 | +$73,801 | ✅ Ganada |
-| ferrariChampions2026 | Panthers vs. Blue Jackets | Panthers | 2.22 (45¢) | $30,684 | +$37,503 | ✅ Ganada |
