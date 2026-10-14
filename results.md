@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 18:35:53 (hora de Perú)
+Actualizado: 2026-10-14 18:37:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5155**  ($281,094,821 en total)
+- Apuestas registradas: **5156**  ($281,123,465 en total)
 - Resueltas: **5118** — 3132 ganadas / 1986 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 564
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 564 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Nashville SC vs. Sporting Kansas City: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $28,644 | — | ⏳ Pendiente |
 | Elaran1993 | Columbus Crew vs. Charlotte FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $35,000 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will FC Cincinnati win on 2026-10-14? | No | 1.79 (56¢) | $41,463 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will FC Cincinnati win on 2026-10-14? | No | 1.85 (54¢) | $53,906 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 564 en total)_
 | hurrican | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.33 (75¢) | $25,000 | +$8,333 | ✅ Ganada |
 | juice-fruit | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.35 (74¢) | $37,233 | +$13,082 | ✅ Ganada |
 | AnonymousUsername | Will ŠK Slovan Bratislava win on 2026-10-14? | No | 1.14 (88¢) | $27,416 | +$3,738 | ✅ Ganada |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will ŠK Slovan Bratislava win on 2026-10-14? | No | 1.15 (87¢) | $50,000 | +$7,471 | ✅ Ganada |
