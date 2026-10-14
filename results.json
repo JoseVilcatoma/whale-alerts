@@ -76874,5 +76874,20 @@
     "status": "pending",
     "ultimo_fill": 1791993695,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10405,
+    "timestamp": 1791993729,
+    "username": "optimusprime777879",
+    "wallet": "0x922c7c11daacdcd652c934ed064ba4c251e8d8ba",
+    "slug": "ucl-fey-com-2026-10-14-com",
+    "title": "Will Como 1907 win on 2026-10-14?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 54600.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1791993729,
+    "fills": 1
   }
 ]
