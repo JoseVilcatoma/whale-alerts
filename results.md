@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 00:00:45 (hora de Perú)
+Actualizado: 2026-10-14 00:02:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5076**  ($275,652,061 en total)
+- Apuestas registradas: **5077**  ($275,747,461 en total)
 - Resueltas: **5048** — 3088 ganadas / 1960 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 559
 
 ### Balance
@@ -57,10 +57,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 30 | 31 | 0 | 49% | $1,813,324 | -$160,793 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
+| Jsram | 19 | 18 | 1 | 51% | $1,757,126 | -$198,500 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 2 | 0 | 94% | $1,736,357 | +$92,570 |
 | 1827575782 | 13 | 1 | 0 | 93% | $1,724,497 | +$158,737 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| Jsram | 19 | 18 | 0 | 51% | $1,661,726 | -$198,500 |
 | 0x361b…74fe | 22 | 1 | 0 | 96% | $1,601,991 | +$762,954 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Will Manchester City FC win on 2026-10-14? | No | 1.89 (53¢) | $95,400 | — | ⏳ Pendiente |
 | gransaaa | Will Manchester City FC win on 2026-10-14? | Yes | 2.13 (47¢) | $28,859 | — | ⏳ Pendiente |
 | UpTheBlues | Will Paris Saint-Germain FC win on 2026-10-14? | No | 1.47 (68¢) | $26,508 | — | ⏳ Pendiente |
 | RJW1 | Will Manchester City FC win on 2026-10-14? | No | 1.82 (55¢) | $96,637 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | gransaaa | Will Club Atlético de Madrid win on 2026-10-13? | No | 1.96 (51¢) | $25,934 | -$25,934 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Bills | 1.10 (91¢) | $83,819 | +$8,290 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 1.11 (90¢) | $30,985 | -$30,985 | ❌ Perdida |
-| arjennnnn | LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.25 (80¢) | $32,000 | +$8,000 | ✅ Ganada |
