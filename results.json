@@ -76462,9 +76462,11 @@
     "side": "BUY",
     "usd": 64556.080200000004,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1791973701,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": -28691.59,
+    "precio_salida": 40
   },
   {
     "telegram_msg_id": 10356,
@@ -76490,10 +76492,10 @@
     "title": "Shanghai Rolex Masters: Daniil Medvedev vs Stefanos Tsitsipas",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "usd": 30713.6709,
-    "odds_at_bet": 87,
+    "usd": 251370.0893,
+    "odds_at_bet": 89,
     "status": "pending",
-    "ultimo_fill": 1791974089,
-    "fills": 1
+    "ultimo_fill": 1791974172,
+    "fills": 3
   }
 ]
