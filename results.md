@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 03:39:36 (hora de Perú)
+Actualizado: 2026-10-14 03:41:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5085**  ($276,155,243 en total)
-- Resueltas: **5049** — 3089 ganadas / 1960 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **5050** — 3090 ganadas / 1960 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 559
 
 ### Balance
 
-- **Resultado de los apostadores: +$22,950** sobre $274,514,038 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,270** sobre $497,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$39,097** sobre $274,544,025 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,216** sobre $498,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | 1827575782 | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jessica Pegula | 1.18 (85¢) | $70,767 | — | ⏳ Pendiente |
 | 1827575782 | Shanghai Rolex Masters: Casper Ruud vs Felix Auger-Aliassime | Casper Ruud | 1.28 (78¢) | $71,101 | +$20,054 | ✅ Ganada |
 | ArturitoFilito | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $47,921 | — | ⏳ Pendiente |
-| 3648393489047 | Wuhan Tennis Open: Karolina Muchova vs Caty McNally | Karolina Muchova | 1.54 (65¢) | $29,987 | — | ⏳ Pendiente |
+| 3648393489047 | Wuhan Tennis Open: Karolina Muchova vs Caty McNally | Karolina Muchova | 1.54 (65¢) | $29,987 | +$16,147 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $60,936 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $26,105 | — | ⏳ Pendiente |
 | ziyoucui | LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.67 (60¢) | $34,796 | — | ⏳ Pendiente |
