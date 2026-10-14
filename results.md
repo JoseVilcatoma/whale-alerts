@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 18:54:15 (hora de Perú)
+Actualizado: 2026-10-14 18:56:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5157**  ($281,175,895 en total)
+- Apuestas registradas: **5158**  ($281,206,472 en total)
 - Resueltas: **5118** — 3132 ganadas / 1986 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 565
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $30,577 | — | ⏳ Pendiente |
 | yabanci | Canadiens vs. Capitals | Capitals | 2.04 (49¢) | $52,430 | — | ⏳ Pendiente |
 | theowalcott | Nashville SC vs. Sporting Kansas City: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $28,644 | — | ⏳ Pendiente |
 | Elaran1993 | Columbus Crew vs. Charlotte FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 | csgostar | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Ann Li | 1.18 (85¢) | $136,762 | +$24,135 | ✅ Ganada |
 | Yellow-Fever | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.37 (73¢) | $28,578 | +$10,570 | ✅ Ganada |
 | hurrican | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.33 (75¢) | $25,000 | +$8,333 | ✅ Ganada |
-| juice-fruit | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.35 (74¢) | $37,233 | +$13,082 | ✅ Ganada |
