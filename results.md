@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 21:21:09 (hora de Perú)
+Actualizado: 2026-10-13 21:23:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5071**  ($275,394,222 en total)
-- Resueltas: **5032** — 3079 ganadas / 1953 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **5034** — 3081 ganadas / 1953 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 559
 
 ### Balance
 
-- **Resultado de los apostadores: +$101,662** sobre $273,669,084 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,163** sobre $496,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$203,359** sobre $273,766,792 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,955** sobre $496,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
 | ndb1 | 23 | 12 | 0 | 66% | $1,869,615 | +$373,778 |
-| Talvez10 | 19 | 18 | 2 | 51% | $1,839,170 | +$155,737 |
+| Talvez10 | 21 | 18 | 0 | 54% | $1,839,170 | +$257,433 |
 | SDTrading | 30 | 31 | 0 | 49% | $1,813,324 | -$160,793 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -83,9 +83,9 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | TAIWANNUMBERONE | Delaware vs. Middle Tennessee | Middle Tennessee | 1.89 (53¢) | $51,210 | — | ⏳ Pendiente |
 | BrotherObama | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $48,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.13 (47¢) | $33,915 | — | ⏳ Pendiente |
-| Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $70,907 | — | ⏳ Pendiente |
+| Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $70,907 | +$73,801 | ✅ Ganada |
 | ferrariChampions2026 | Panthers vs. Blue Jackets | Panthers | 2.22 (45¢) | $30,684 | +$37,503 | ✅ Ganada |
-| Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $26,801 | — | ⏳ Pendiente |
+| Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $26,801 | +$27,895 | ✅ Ganada |
 | Nooserac | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.06 (94¢) | $47,000 | +$3,000 | ✅ Ganada |
 | SebastianAde1996 | Spread: FC Bayern München (-2.5) | Viking FK | 1.89 (53¢) | $70,000 | +$62,075 | ✅ Ganada |
 | Kch-Temp | Will Arsenal FC win on 2026-10-13? | Yes | 1.23 (81¢) | $127,936 | +$30,010 | ✅ Ganada |
