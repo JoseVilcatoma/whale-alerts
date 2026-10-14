@@ -77009,5 +77009,20 @@
     "status": "pending",
     "ultimo_fill": 1791995783,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10416,
+    "timestamp": 1791996060,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "ucl-lin2-liv-2026-10-14-lin2",
+    "title": "Will LASK Linz win on 2026-10-14?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 34777.54,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1791996060,
+    "fills": 1
   }
 ]
