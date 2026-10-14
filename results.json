@@ -76844,5 +76844,35 @@
     "status": "pending",
     "ultimo_fill": 1791993364,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10403,
+    "timestamp": 1791993656,
+    "username": "0x361b\u202674fe",
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "slug": "ucl-mnc-psg-2026-10-14-total-3pt5",
+    "title": "Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26166.18,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791993656,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10404,
+    "timestamp": 1791993695,
+    "username": "0x361b\u202674fe",
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "slug": "ucl-mnc-psg-2026-10-14-psg",
+    "title": "Will Paris Saint-Germain FC win on 2026-10-14?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 35251.71,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1791993695,
+    "fills": 1
   }
 ]
