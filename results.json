@@ -77474,5 +77474,20 @@
     "status": "pending",
     "ultimo_fill": 1792018644,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10495,
+    "timestamp": 1792017895,
+    "username": "OhWhenTheReds",
+    "wallet": "0x918b42a06ff25eaaa4a79eca9da6a9de46f4ea63",
+    "slug": "mls-fcc-ner-2026-10-14-fcc",
+    "title": "Will FC Cincinnati win on 2026-10-14?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 53905.54190231235,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792017895,
+    "fills": 1
   }
 ]
