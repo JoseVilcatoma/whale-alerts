@@ -76931,7 +76931,7 @@
     "side": "BUY",
     "usd": 299297.5992,
     "odds_at_bet": 33,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791994832,
     "fills": 1
   },
@@ -76946,7 +76946,7 @@
     "side": "BUY",
     "usd": 35181.93,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791994944,
     "fills": 1
   },
@@ -76976,7 +76976,7 @@
     "side": "BUY",
     "usd": 201000.0,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791995645,
     "fills": 1
   },
@@ -77021,7 +77021,7 @@
     "side": "BUY",
     "usd": 34777.54,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791996060,
     "fills": 1
   },
@@ -77308,6 +77308,21 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1792004042,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10439,
+    "timestamp": 1792004247,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "ucl-shd-aek1-2026-10-14-shd",
+    "title": "Will FK Shakhtar Donetsk win on 2026-10-14?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 36646.66999929,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1792004247,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 13:57:04 (hora de Perú)
+Actualizado: 2026-10-14 13:59:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5143**  ($280,556,314 en total)
-- Resueltas: **5074** — 3105 ganadas / 1969 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Apuestas registradas: **5144**  ($280,592,961 en total)
+- Resueltas: **5078** — 3108 ganadas / 1970 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 563
 
 ### Balance
 
-- **Resultado de los apostadores: -$111,800** sobre $276,073,614 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,423** sobre $500,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$301,179** sobre $276,643,871 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$4,442** sobre $500,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 364 | 192 | 7 | 65% | $35,315,593 | +$1,278,661 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 365 | 192 | 6 | 66% | $35,315,593 | +$1,377,661 |
 | Sassy-Bucket | 73 | 68 | 2 | 52% | $8,151,825 | -$493,840 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 34 | 10 | 1 | 77% | $2,943,503 | +$1,598,814 |
-| raybanman | 15 | 6 | 4 | 71% | $2,643,012 | +$704,915 |
+| raybanman | 15 | 7 | 3 | 68% | $2,643,012 | +$405,618 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | cosmicxbt | 16 | 7 | 0 | 70% | $2,406,992 | -$359,317 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Will FK Shakhtar Donetsk win on 2026-10-14? | No | 1.49 (67¢) | $36,647 | — | ⏳ Pendiente |
 | nb1985 | Will Manchester City FC win on 2026-10-14? | Yes | 1.96 (51¢) | $90,000 | — | ⏳ Pendiente |
 | mooseborzoii | Will Manchester City FC win on 2026-10-14? | No | 2.04 (49¢) | $45,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: FURIA vs BetBoom Team (BO3) - Thunderpick World Championship Group B | FURIA | 1.41 (71¢) | $53,250 | — | ⏳ Pendiente |
@@ -90,13 +91,13 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs PARIVISION (BO3) - Thunderpick World Championship Group B | Legacy | 1.22 (82¢) | $56,272 | +$12,353 | ✅ Ganada |
 | Pjosully | Will Manchester City FC win on 2026-10-14? | Yes | 2.04 (49¢) | $31,011 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.10 (91¢) | $84,219 | — | ⏳ Pendiente |
-| AnonymousUsername | Will LASK Linz win on 2026-10-14? | No | 1.16 (86¢) | $34,778 | — | ⏳ Pendiente |
+| AnonymousUsername | Will LASK Linz win on 2026-10-14? | No | 1.16 (86¢) | $34,778 | +$5,661 | ✅ Ganada |
 | raybanman | Spread: Liverpool FC (-1.5) | LASK Linz | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Liverpool FC (-1.5) | Liverpool FC | 2.38 (42¢) | $34,148 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Liverpool FC win on 2026-10-14? | Yes | 1.49 (67¢) | $201,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Liverpool FC win on 2026-10-14? | Yes | 1.49 (67¢) | $201,000 | +$99,000 | ✅ Ganada |
 | raybanman | Spread: Liverpool FC (-1.5) | LASK Linz | 1.72 (58¢) | $47,470 | — | ⏳ Pendiente |
-| AnonymousUsername | Will LASK Linz win on 2026-10-14? | No | 1.15 (87¢) | $35,182 | — | ⏳ Pendiente |
-| raybanman | Will Liverpool FC win on 2026-10-14? | No | 3.03 (33¢) | $299,298 | — | ⏳ Pendiente |
+| AnonymousUsername | Will LASK Linz win on 2026-10-14? | No | 1.15 (87¢) | $35,182 | +$5,257 | ✅ Ganada |
+| raybanman | Will Liverpool FC win on 2026-10-14? | No | 3.03 (33¢) | $299,298 | -$299,298 | ❌ Perdida |
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $33,654 | — | ⏳ Pendiente |
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $27,556 | — | ⏳ Pendiente |
 | optimusprime777879 | Will Como 1907 win on 2026-10-14? | Yes | 2.38 (42¢) | $54,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | 3648393489047 | Wuhan Tennis Open: Katie Volynets vs Hanyu Guo | Hanyu Guo | 1.39 (72¢) | $64,556 | -$28,692 | 💰 Vendida antes |
 | 3648393489047 | Wuhan Tennis Open: Katie Volynets vs Hanyu Guo | Katie Volynets | 1.75 (57¢) | $31,504 | -$31,504 | ❌ Perdida |
 | RJW1 | Will Real Madrid CF win on 2026-10-14? | No | 1.96 (51¢) | $66,168 | — | ⏳ Pendiente |
-| 1827575782 | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jessica Pegula | 1.18 (85¢) | $70,767 | -$70,767 | ❌ Perdida |
