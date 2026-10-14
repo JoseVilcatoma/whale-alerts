@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 08:20:19 (hora de Perú)
+Actualizado: 2026-10-14 08:22:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5102**  ($277,405,155 en total)
+- Apuestas registradas: **5103**  ($277,441,755 en total)
 - Resueltas: **5062** — 3096 ganadas / 1966 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 560
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 560 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $36,600 | — | ⏳ Pendiente |
 | mooseborzoii | Stars vs. Avalanche | Stars | 2.38 (42¢) | $32,759 | — | ⏳ Pendiente |
 | csgostar | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Ann Li | 1.18 (85¢) | $136,762 | — | ⏳ Pendiente |
 | Yellow-Fever | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.37 (73¢) | $28,578 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 560 en total)_
 | joseph00677 | Will Club Atlético de Madrid win on 2026-10-13? | Yes | 1.92 (52¢) | $164,048 | +$151,429 | ✅ Ganada |
 | Yellow-Fever | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $34,500 | -$34,500 | ❌ Perdida |
 | bbb17367162806 | Will Club Atlético de Madrid vs. Manchester United FC end in a draw? | No | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
-| tenniz | Olbia: Hynek Barton vs Maxim Mrva | Maxim Mrva | 1.10 (91¢) | $25,640 | +$2,536 | ✅ Ganada |
