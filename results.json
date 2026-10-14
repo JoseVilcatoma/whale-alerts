@@ -76749,8 +76749,10 @@
     "side": "BUY",
     "usd": 31966.064200000004,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1791989042,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": 18421.12,
+    "precio_salida": 93
   }
 ]

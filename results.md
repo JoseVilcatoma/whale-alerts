@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 09:48:39 (hora de Perú)
+Actualizado: 2026-10-14 09:52:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5106**  ($277,543,643 en total)
-- Resueltas: **5065** — 3097 ganadas / 1968 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **5066** — 3098 ganadas / 1968 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 561
 
 ### Balance
 
-- **Resultado de los apostadores: -$183,812** sobre $275,773,906 apostados (ROI **-0.1%**)
+- **Resultado de los apostadores: -$165,391** sobre $275,805,872 apostados (ROI **-0.1%**)
 - Copiando $100 fijo en cada una: **-$4,561** sobre $499,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 561 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | — | ⏳ Pendiente |
+| 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | +$18,421 | 💰 Vendida antes |
 | jonjones1993 | Will BV Borussia 09 Dortmund win on 2026-10-14? | No | 1.75 (57¢) | $44,117 | — | ⏳ Pendiente |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Irene Burillo Escorihuela | 1.61 (62¢) | $25,805 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $36,600 | — | ⏳ Pendiente |
