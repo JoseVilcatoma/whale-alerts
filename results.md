@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 23:48:25 (hora de Perú)
+Actualizado: 2026-10-13 23:50:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5076**  ($275,652,061 en total)
-- Resueltas: **5047** — 3088 ganadas / 1959 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **5048** — 3088 ganadas / 1960 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 559
 
 ### Balance
 
-- **Resultado de los apostadores: +$102,236** sobre $274,343,597 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,198** sobre $497,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$2,896** sobre $274,442,936 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,298** sobre $497,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 362 | 192 | 3 | 65% | $34,781,236 | +$1,228,961 |
-| Sassy-Bucket | 73 | 67 | 3 | 52% | $8,151,825 | -$394,501 |
+| Sassy-Bucket | 73 | 68 | 2 | 52% | $8,151,825 | -$493,840 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Florida International vs. Jacksonville State | Jacksonville State | 1.37 (73¢) | $44,121 | +$16,319 | ✅ Ganada |
 | Velin217 | Florida International vs. Jacksonville State | Jacksonville State | 1.11 (90¢) | $61,714 | +$6,857 | ✅ Ganada |
 | scootergene | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
-| Sassy-Bucket | Flames vs. Ducks | Ducks | 1.64 (61¢) | $99,339 | — | ⏳ Pendiente |
+| Sassy-Bucket | Flames vs. Ducks | Ducks | 1.64 (61¢) | $99,339 | -$99,339 | ❌ Perdida |
 | Velin217 | Florida International vs. Jacksonville State | Jacksonville State | 1.25 (80¢) | $43,452 | +$10,863 | ✅ Ganada |
 | www511zwin | Warriors vs. Lakers | Lakers | 2.27 (44¢) | $26,634 | -$26,634 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Middle Tennessee | Delaware | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
