@@ -76754,5 +76754,20 @@
     "fills": 1,
     "profit_usd": 18421.12,
     "precio_salida": 93
+  },
+  {
+    "telegram_msg_id": 10392,
+    "timestamp": 1791989043,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "wta-maneiro-escorih-2026-10-14",
+    "title": "Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela",
+    "outcome": "Jessica Bouzas Maneiro",
+    "side": "BUY",
+    "usd": 31966.064200620964,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1791989043,
+    "fills": 1
   }
 ]
