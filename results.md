@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 12:51:35 (hora de Perú)
+Actualizado: 2026-10-14 12:53:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5129**  ($278,961,624 en total)
+- Apuestas registradas: **5130**  ($279,006,368 en total)
 - Resueltas: **5073** — 3104 ganadas / 1969 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 563
 
 ### Balance
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 21 | 18 | 0 | 54% | $1,839,170 | +$257,433 |
 | SDTrading | 30 | 31 | 0 | 49% | $1,813,324 | -$160,793 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
+| Jsram | 19 | 18 | 2 | 51% | $1,801,871 | -$198,500 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| Jsram | 19 | 18 | 1 | 51% | $1,757,126 | -$198,500 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 2 | 0 | 94% | $1,736,357 | +$92,570 |
 | 0x361b…74fe | 22 | 1 | 4 | 96% | $1,724,618 | +$762,954 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Will Manchester City FC win on 2026-10-14? | No | 1.96 (51¢) | $44,745 | — | ⏳ Pendiente |
 | crisp1973 | FK Bodø/Glimt vs. BV Borussia 09 Dortmund: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $27,636 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.10 (91¢) | $97,781 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs PARIVISION (BO3) - Thunderpick World Championship Group B | Legacy | 1.22 (82¢) | $56,272 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Florida International vs. Jacksonville State | Jacksonville State | 1.37 (73¢) | $44,121 | +$16,319 | ✅ Ganada |
 | Velin217 | Florida International vs. Jacksonville State | Jacksonville State | 1.11 (90¢) | $61,714 | +$6,857 | ✅ Ganada |
 | scootergene | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
-| Sassy-Bucket | Flames vs. Ducks | Ducks | 1.64 (61¢) | $99,339 | -$99,339 | ❌ Perdida |
