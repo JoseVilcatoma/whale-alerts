@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 17:38:25 (hora de Perú)
+Actualizado: 2026-10-14 17:40:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5150**  ($280,904,453 en total)
-- Resueltas: **5116** — 3131 ganadas / 1985 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **5117** — 3131 ganadas / 1986 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 564
 
 ### Balance
 
-- **Resultado de los apostadores: +$696,831** sobre $279,432,275 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,312** sobre $504,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$660,185** sobre $279,468,922 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,412** sobre $504,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 564 en total)_
 | joseph00677 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $95,667 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.56 (39¢) | $96,111 | — | ⏳ Pendiente |
 | hurrican | Counter-Strike: FURIA vs BetBoom Team (BO3) - Thunderpick World Championship Group B | FURIA | 1.39 (72¢) | $31,000 | +$12,056 | ✅ Ganada |
-| juice-fruit | Will FK Shakhtar Donetsk win on 2026-10-14? | No | 1.49 (67¢) | $36,647 | — | ⏳ Pendiente |
+| juice-fruit | Will FK Shakhtar Donetsk win on 2026-10-14? | No | 1.49 (67¢) | $36,647 | -$36,647 | ❌ Perdida |
 | nb1985 | Will Manchester City FC win on 2026-10-14? | Yes | 1.96 (51¢) | $90,000 | -$90,000 | ❌ Perdida |
 | mooseborzoii | Will Manchester City FC win on 2026-10-14? | No | 2.04 (49¢) | $45,000 | +$46,837 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: FURIA vs BetBoom Team (BO3) - Thunderpick World Championship Group B | FURIA | 1.41 (71¢) | $53,250 | +$21,750 | ✅ Ganada |
