@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 22:40:38 (hora de Perú)
+Actualizado: 2026-10-13 22:42:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5074**  ($275,596,694 en total)
-- Resueltas: **5042** — 3084 ganadas / 1958 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **5043** — 3085 ganadas / 1958 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 559
 
 ### Balance
 
-- **Resultado de los apostadores: +$47,021** sobre $274,121,742 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,275** sobre $497,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$94,830** sobre $274,167,677 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,171** sobre $497,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | Velin217 | Florida International vs. Jacksonville State | Jacksonville State | 1.25 (80¢) | $43,452 | — | ⏳ Pendiente |
 | www511zwin | Warriors vs. Lakers | Lakers | 2.27 (44¢) | $26,634 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Middle Tennessee | Delaware | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Stars | Avalanche | 2.04 (49¢) | $45,935 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Stars | Avalanche | 2.04 (49¢) | $45,935 | +$47,809 | ✅ Ganada |
 | Icanflyallnight | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $29,114 | +$22,875 | ✅ Ganada |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $88,241 | -$88,241 | ❌ Perdida |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $34,970 | -$34,970 | ❌ Perdida |
