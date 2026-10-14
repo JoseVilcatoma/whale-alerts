@@ -77504,5 +77504,20 @@
     "status": "pending",
     "ultimo_fill": 1792021022,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10497,
+    "timestamp": 1792021419,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "nhl-mon-wsh-2026-10-14",
+    "title": "Canadiens vs. Capitals",
+    "outcome": "Capitals",
+    "side": "BUY",
+    "usd": 52430.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792021419,
+    "fills": 1
   }
 ]
