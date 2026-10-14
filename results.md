@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 06:51:50 (hora de Perú)
+Actualizado: 2026-10-14 06:53:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5094**  ($277,007,837 en total)
+- Apuestas registradas: **5095**  ($277,067,408 en total)
 - Resueltas: **5054** — 3091 ganadas / 1963 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 559
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.09 (92¢) | $59,571 | — | ⏳ Pendiente |
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.06 (94¢) | $39,011 | — | ⏳ Pendiente |
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.14 (88¢) | $177,455 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: BNK FEARX vs KT Rolster - Game 3 Winner | KT Rolster | 1.47 (68¢) | $45,653 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | RJW1 | Arsenal FC vs. Lille OSC: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $34,537 | +$24,000 | ✅ Ganada |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.30 (77¢) | $46,200 | -$22,695 | 💰 Vendida antes |
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.75 (57¢) | $57,502 | -$28,246 | 💰 Vendida antes |
-| 0x361b…74fe | Will Galatasaray SK win on 2026-10-13? | No | 1.11 (90¢) | $26,964 | +$2,996 | ✅ Ganada |
