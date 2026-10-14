@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 11:20:57 (hora de Perú)
+Actualizado: 2026-10-14 11:23:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5118**  ($278,283,126 en total)
+- Apuestas registradas: **5119**  ($278,318,308 en total)
 - Resueltas: **5071** — 3102 ganadas / 1969 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 562
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 562 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AnonymousUsername | Will LASK Linz win on 2026-10-14? | No | 1.15 (87¢) | $35,182 | — | ⏳ Pendiente |
 | raybanman | Will Liverpool FC win on 2026-10-14? | No | 3.03 (33¢) | $299,298 | — | ⏳ Pendiente |
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $33,654 | — | ⏳ Pendiente |
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $27,556 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 562 en total)_
 | TAIWANNUMBERONE | Delaware vs. Middle Tennessee | Middle Tennessee | 1.89 (53¢) | $51,210 | +$45,413 | ✅ Ganada |
 | BrotherObama | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $48,000 | -$48,000 | ❌ Perdida |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.13 (47¢) | $33,915 | -$33,915 | ❌ Perdida |
-| Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $70,907 | +$73,801 | ✅ Ganada |
