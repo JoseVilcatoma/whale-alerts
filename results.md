@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 07:03:59 (hora de Perú)
+Actualizado: 2026-10-14 07:06:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5095**  ($277,067,408 en total)
+- Apuestas registradas: **5097**  ($277,144,823 en total)
 - Resueltas: **5056** — 3092 ganadas / 1964 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 19
 - Apostadores distintos: 559
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AnonymousUsername | Will ŠK Slovan Bratislava win on 2026-10-14? | No | 1.14 (88¢) | $27,416 | — | ⏳ Pendiente |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will ŠK Slovan Bratislava win on 2026-10-14? | No | 1.15 (87¢) | $50,000 | — | ⏳ Pendiente |
 | Flaznorp | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.09 (92¢) | $59,571 | — | ⏳ Pendiente |
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.06 (94¢) | $39,011 | — | ⏳ Pendiente |
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.14 (88¢) | $177,455 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $69,315 | +$46,210 | ✅ Ganada |
 | 0x361b…74fe | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.69 (59¢) | $54,925 | +$38,168 | ✅ Ganada |
 | RJW1 | Arsenal FC vs. Lille OSC: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $34,537 | +$24,000 | ✅ Ganada |
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.30 (77¢) | $46,200 | -$22,695 | 💰 Vendida antes |
-| 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina | Hubert Hurkacz | 1.75 (57¢) | $57,502 | -$28,246 | 💰 Vendida antes |
