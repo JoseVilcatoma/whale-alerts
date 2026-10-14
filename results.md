@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 22:11:51 (hora de Perú)
+Actualizado: 2026-10-13 22:13:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5071**  ($275,394,222 en total)
-- Resueltas: **5039** — 3082 ganadas / 1957 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **5040** — 3082 ganadas / 1958 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 559
 
 ### Balance
 
-- **Resultado de los apostadores: +$66,646** sobre $274,000,129 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,266** sobre $496,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$18,646** sobre $274,048,129 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,366** sobre $497,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | ferrariChampions2026 | 83 | 44 | 0 | 65% | $5,175,496 | -$85,304 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
-| BrotherObama | 40 | 46 | 3 | 47% | $4,051,955 | -$180,237 |
+| BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
 | Lakersfan111 | 56 | 28 | 0 | 67% | $3,931,304 | +$596,081 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $88,241 | -$88,241 | ❌ Perdida |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $34,970 | -$34,970 | ❌ Perdida |
 | TAIWANNUMBERONE | Delaware vs. Middle Tennessee | Middle Tennessee | 1.89 (53¢) | $51,210 | +$45,413 | ✅ Ganada |
-| BrotherObama | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $48,000 | — | ⏳ Pendiente |
+| BrotherObama | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $48,000 | -$48,000 | ❌ Perdida |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.13 (47¢) | $33,915 | -$33,915 | ❌ Perdida |
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $70,907 | +$73,801 | ✅ Ganada |
 | ferrariChampions2026 | Panthers vs. Blue Jackets | Panthers | 2.22 (45¢) | $30,684 | +$37,503 | ✅ Ganada |
