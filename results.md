@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 17:44:39 (hora de Perú)
+Actualizado: 2026-10-14 17:46:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5151**  ($280,934,453 en total)
+- Apuestas registradas: **5152**  ($280,964,453 en total)
 - Resueltas: **5117** — 3131 ganadas / 1986 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 564
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 56 | 29 | 1 | 66% | $4,104,486 | +$519,010 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| mooseborzoii | 42 | 23 | 2 | 65% | $3,393,118 | +$698,584 |
+| mooseborzoii | 42 | 23 | 3 | 65% | $3,423,118 | +$698,584 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 564 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Will FC Cincinnati win on 2026-10-14? | Yes | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
 | bitbe | Western Kentucky vs. Sam Houston | Western Kentucky | 1.92 (52¢) | $29,031 | — | ⏳ Pendiente |
 | 24440 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $26,438 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 564 en total)_
 | Flaznorp | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.09 (92¢) | $59,571 | +$5,180 | ✅ Ganada |
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.06 (94¢) | $39,011 | -$39,011 | ❌ Perdida |
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.14 (88¢) | $177,455 | -$177,455 | ❌ Perdida |
-| Diabolical-Prize | LoL: BNK FEARX vs KT Rolster - Game 3 Winner | KT Rolster | 1.47 (68¢) | $45,653 | -$45,653 | ❌ Perdida |
