@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 10:33:41 (hora de Perú)
+Actualizado: 2026-10-14 10:35:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5109**  ($277,638,497 en total)
-- Resueltas: **5069** — 3101 ganadas / 1968 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **5071** — 3102 ganadas / 1969 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 562
 
 ### Balance
 
-- **Resultado de los apostadores: -$133,406** sobre $275,896,683 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,456** sobre $499,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$136,997** sobre $275,954,453 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,486** sobre $499,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,10 +73,10 @@ _(mostrando los 40 de mayor monto, de 562 en total)_
 |---|---|---|---|---|---|---|
 | Fvalp | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.25 (80¢) | $29,888 | — | ⏳ Pendiente |
 | hurrican | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.16 (86¢) | $33,000 | — | ⏳ Pendiente |
-| 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | — | ⏳ Pendiente |
+| 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | +$22,214 | ✅ Ganada |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | +$18,421 | 💰 Vendida antes |
 | jonjones1993 | Will BV Borussia 09 Dortmund win on 2026-10-14? | No | 1.75 (57¢) | $44,117 | — | ⏳ Pendiente |
-| 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Irene Burillo Escorihuela | 1.61 (62¢) | $25,805 | — | ⏳ Pendiente |
+| 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Irene Burillo Escorihuela | 1.61 (62¢) | $25,805 | -$25,805 | ❌ Perdida |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $36,600 | — | ⏳ Pendiente |
 | mooseborzoii | Stars vs. Avalanche | Stars | 2.38 (42¢) | $32,759 | — | ⏳ Pendiente |
 | csgostar | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Ann Li | 1.18 (85¢) | $136,762 | +$24,135 | ✅ Ganada |
