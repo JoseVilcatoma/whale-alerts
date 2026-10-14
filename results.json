@@ -76662,5 +76662,20 @@
     "status": "pending",
     "ultimo_fill": 1791980486,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10376,
+    "timestamp": 1791983527,
+    "username": "csgostar",
+    "wallet": "0x2832219259b034fdb2d12e9aa2029d4952a28aa9",
+    "slug": "wta-sabalen-annli-2026-10-14",
+    "title": "Wuhan Tennis Open: Aryna Sabalenka vs Ann Li",
+    "outcome": "Ann Li",
+    "side": "BUY",
+    "usd": 36363.566327,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1791983527,
+    "fills": 1
   }
 ]
