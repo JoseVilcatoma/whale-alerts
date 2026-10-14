@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 13:15:56 (hora de Perú)
+Actualizado: 2026-10-14 13:17:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5133**  ($279,156,944 en total)
+- Apuestas registradas: **5135**  ($279,600,958 en total)
 - Resueltas: **5073** — 3104 ganadas / 1969 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 40
 - Apostadores distintos: 563
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 2 | 0 | 94% | $1,736,357 | +$92,570 |
 | 0x361b…74fe | 22 | 1 | 4 | 96% | $1,724,618 | +$762,954 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
+| joseph00677 | 2 | 0 | 2 | ⚠️ 100% (2) | $1,652,325 | +$434,683 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 
 _(mostrando los 40 de mayor monto, de 563 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $395,014 | — | ⏳ Pendiente |
+| Bloodygoodrep1 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | mooseborzoii | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $33,016 | — | ⏳ Pendiente |
 | joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 2.00 (50¢) | $89,000 | — | ⏳ Pendiente |
 | Elaran1993 | Queens Park Rangers FC vs. Derby County FC: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $28,560 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | ziyoucui | LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.67 (60¢) | $34,796 | -$34,796 | ❌ Perdida |
 | Jsram | Will Manchester City FC win on 2026-10-14? | No | 1.89 (53¢) | $95,400 | — | ⏳ Pendiente |
 | gransaaa | Will Manchester City FC win on 2026-10-14? | Yes | 2.13 (47¢) | $28,859 | — | ⏳ Pendiente |
-| UpTheBlues | Will Paris Saint-Germain FC win on 2026-10-14? | No | 1.47 (68¢) | $26,508 | — | ⏳ Pendiente |
-| RJW1 | Will Manchester City FC win on 2026-10-14? | No | 1.82 (55¢) | $96,637 | — | ⏳ Pendiente |
