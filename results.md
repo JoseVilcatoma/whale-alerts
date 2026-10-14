@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 13:40:29 (hora de Perú)
+Actualizado: 2026-10-14 13:42:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5140**  ($280,368,064 en total)
+- Apuestas registradas: **5141**  ($280,421,314 en total)
 - Resueltas: **5074** — 3105 ganadas / 1969 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 563
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: FURIA vs BetBoom Team (BO3) - Thunderpick World Championship Group B | FURIA | 1.41 (71¢) | $53,250 | — | ⏳ Pendiente |
 | hurrican | Roanne: Mika Brunold vs Benjamin Bonzi | Mika Brunold | 1.16 (86¢) | $27,000 | — | ⏳ Pendiente |
 | Yellow-Fever | Will Manchester City FC win on 2026-10-14? | No | 2.04 (49¢) | $25,587 | — | ⏳ Pendiente |
 | jonjones1993 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $77,555 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | 1827575782 | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jessica Pegula | 1.18 (85¢) | $70,767 | -$70,767 | ❌ Perdida |
 | 1827575782 | Shanghai Rolex Masters: Casper Ruud vs Felix Auger-Aliassime | Casper Ruud | 1.28 (78¢) | $71,101 | +$20,054 | ✅ Ganada |
 | ArturitoFilito | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $47,921 | +$29,371 | ✅ Ganada |
-| 3648393489047 | Wuhan Tennis Open: Karolina Muchova vs Caty McNally | Karolina Muchova | 1.54 (65¢) | $29,987 | +$16,147 | ✅ Ganada |
