@@ -76405,5 +76405,35 @@
     "status": "won",
     "ultimo_fill": 1791963048,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10350,
+    "timestamp": 1791966622,
+    "username": "1827575782",
+    "wallet": "0x27989d8c715acc53e921ea0950ee97306b590b7d",
+    "slug": "wta-ostapen-pegula-2026-10-13",
+    "title": "Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "usd": 70767.05550350969,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1791966622,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10351,
+    "timestamp": 1791966735,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "ucl-rom-rma-2026-10-14-rma",
+    "title": "Will Real Madrid CF win on 2026-10-14?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 66168.16500000001,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1791966735,
+    "fills": 1
   }
 ]
