@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 22:24:07 (hora de Perú)
+Actualizado: 2026-10-13 22:26:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5072**  ($275,455,936 en total)
+- Apuestas registradas: **5073**  ($275,500,057 en total)
 - Resueltas: **5042** — 3084 ganadas / 1958 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 559
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 361 | 192 | 3 | 65% | $34,737,115 | +$1,212,642 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 361 | 192 | 4 | 65% | $34,781,236 | +$1,212,642 |
 | Sassy-Bucket | 73 | 67 | 3 | 52% | $8,151,825 | -$394,501 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Florida International vs. Jacksonville State | Jacksonville State | 1.37 (73¢) | $44,121 | — | ⏳ Pendiente |
 | Velin217 | Florida International vs. Jacksonville State | Jacksonville State | 1.11 (90¢) | $61,714 | — | ⏳ Pendiente |
 | scootergene | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
 | Sassy-Bucket | Flames vs. Ducks | Ducks | 1.64 (61¢) | $99,339 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.08 (48¢) | $60,775 | +$65,839 | ✅ Ganada |
 | ScroooogeMcDuck | Bills vs. Rams | Bills | 1.23 (81¢) | $45,800 | +$10,743 | ✅ Ganada |
 | ethanaz | Bills vs. Rams | Bills | 1.67 (60¢) | $209,258 | +$139,505 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 3.12 (32¢) | $32,824 | -$32,824 | ❌ Perdida |
