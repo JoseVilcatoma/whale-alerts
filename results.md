@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 08:18:08 (hora de Perú)
+Actualizado: 2026-10-14 08:20:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5102**  ($277,304,756 en total)
-- Resueltas: **5058** — 3093 ganadas / 1965 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Apuestas registradas: **5102**  ($277,405,155 en total)
+- Resueltas: **5062** — 3096 ganadas / 1966 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 560
 
 ### Balance
 
-- **Resultado de los apostadores: -$28,546** sobre $275,240,062 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,463** sobre $498,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$8,520** sobre $275,420,678 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,379** sobre $499,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 362 | 192 | 4 | 65% | $34,842,172 | +$1,228,961 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 363 | 192 | 3 | 65% | $34,842,172 | +$1,266,309 |
 | Sassy-Bucket | 73 | 68 | 2 | 52% | $8,151,825 | -$493,840 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
-| Diabolical-Prize | 61 | 59 | 1 | 51% | $6,490,322 | -$217,072 |
+| Diabolical-Prize | 61 | 60 | 0 | 50% | $6,490,322 | -$262,725 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 560 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | mooseborzoii | Stars vs. Avalanche | Stars | 2.38 (42¢) | $32,759 | — | ⏳ Pendiente |
-| csgostar | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Ann Li | 1.18 (85¢) | $36,364 | — | ⏳ Pendiente |
+| csgostar | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Ann Li | 1.18 (85¢) | $136,762 | — | ⏳ Pendiente |
 | Yellow-Fever | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.37 (73¢) | $28,578 | — | ⏳ Pendiente |
 | hurrican | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.33 (75¢) | $25,000 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.35 (74¢) | $37,233 | — | ⏳ Pendiente |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 560 en total)_
 | Flaznorp | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.09 (92¢) | $59,571 | — | ⏳ Pendiente |
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.06 (94¢) | $39,011 | — | ⏳ Pendiente |
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.14 (88¢) | $177,455 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: BNK FEARX vs KT Rolster - Game 3 Winner | KT Rolster | 1.47 (68¢) | $45,653 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: BNK FEARX vs KT Rolster - Game 3 Winner | KT Rolster | 1.47 (68¢) | $45,653 | -$45,653 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | 9z | 1.96 (51¢) | $135,973 | +$130,640 | ✅ Ganada |
 | corkmaster420blaezit | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 2.00 (50¢) | $77,072 | -$77,072 | ❌ Perdida |
 | 1827575782 | Shanghai Rolex Masters: Daniil Medvedev vs Stefanos Tsitsipas | Daniil Medvedev | 1.12 (89¢) | $251,370 | +$31,068 | ✅ Ganada |
@@ -91,10 +91,10 @@ _(mostrando los 40 de mayor monto, de 560 en total)_
 | RJW1 | Will Real Madrid CF win on 2026-10-14? | No | 1.96 (51¢) | $66,168 | — | ⏳ Pendiente |
 | 1827575782 | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jessica Pegula | 1.18 (85¢) | $70,767 | -$70,767 | ❌ Perdida |
 | 1827575782 | Shanghai Rolex Masters: Casper Ruud vs Felix Auger-Aliassime | Casper Ruud | 1.28 (78¢) | $71,101 | +$20,054 | ✅ Ganada |
-| ArturitoFilito | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $47,921 | — | ⏳ Pendiente |
+| ArturitoFilito | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $47,921 | +$29,371 | ✅ Ganada |
 | 3648393489047 | Wuhan Tennis Open: Karolina Muchova vs Caty McNally | Karolina Muchova | 1.54 (65¢) | $29,987 | +$16,147 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $60,936 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $26,105 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $60,936 | +$37,348 | ✅ Ganada |
+| TAIWANNUMBERONE | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $26,105 | +$16,000 | ✅ Ganada |
 | ziyoucui | LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.67 (60¢) | $34,796 | -$34,796 | ❌ Perdida |
 | Jsram | Will Manchester City FC win on 2026-10-14? | No | 1.89 (53¢) | $95,400 | — | ⏳ Pendiente |
 | gransaaa | Will Manchester City FC win on 2026-10-14? | Yes | 2.13 (47¢) | $28,859 | — | ⏳ Pendiente |

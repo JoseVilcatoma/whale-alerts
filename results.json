@@ -76342,7 +76342,7 @@
     "side": "BUY",
     "usd": 26105.263158,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791960931,
     "fills": 1
   },
@@ -76357,7 +76357,7 @@
     "side": "BUY",
     "usd": 60936.1544,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791961055,
     "fills": 1
   },
@@ -76387,7 +76387,7 @@
     "side": "BUY",
     "usd": 47920.896422,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1791961530,
     "fills": 1
   },
@@ -76539,7 +76539,7 @@
     "side": "BUY",
     "usd": 45653.0495,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1791974666,
     "fills": 1
   },
@@ -76672,11 +76672,11 @@
     "title": "Wuhan Tennis Open: Aryna Sabalenka vs Ann Li",
     "outcome": "Ann Li",
     "side": "BUY",
-    "usd": 36363.566327,
+    "usd": 136762.20599395,
     "odds_at_bet": 85,
     "status": "pending",
-    "ultimo_fill": 1791983527,
-    "fills": 1
+    "ultimo_fill": 1791983568,
+    "fills": 3
   },
   {
     "telegram_msg_id": 10377,
