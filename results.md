@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 20:20:27 (hora de Perú)
+Actualizado: 2026-10-13 20:22:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5069**  ($275,250,383 en total)
-- Resueltas: **5031** — 3078 ganadas / 1953 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **5032** — 3079 ganadas / 1953 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 559
 
 ### Balance
 
-- **Resultado de los apostadores: +$64,159** sobre $273,638,400 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,285** sobre $496,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$101,662** sobre $273,669,084 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,163** sobre $496,200 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
-| ferrariChampions2026 | 82 | 44 | 1 | 65% | $5,175,496 | -$122,807 |
+| ferrariChampions2026 | 83 | 44 | 0 | 65% | $5,175,496 | -$85,304 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 46 | 3 | 47% | $4,051,955 | -$180,237 |
 | Lakersfan111 | 56 | 28 | 0 | 67% | $3,931,304 | +$596,081 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | BrotherObama | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $48,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.13 (47¢) | $33,915 | — | ⏳ Pendiente |
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $70,907 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Panthers vs. Blue Jackets | Panthers | 2.22 (45¢) | $30,684 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Panthers vs. Blue Jackets | Panthers | 2.22 (45¢) | $30,684 | +$37,503 | ✅ Ganada |
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $26,801 | — | ⏳ Pendiente |
 | Nooserac | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.06 (94¢) | $47,000 | +$3,000 | ✅ Ganada |
 | SebastianAde1996 | Spread: FC Bayern München (-2.5) | Viking FK | 1.89 (53¢) | $70,000 | +$62,075 | ✅ Ganada |
