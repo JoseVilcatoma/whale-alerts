@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 23:42:14 (hora de Perú)
+Actualizado: 2026-10-13 23:44:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5076**  ($275,652,061 en total)
-- Resueltas: **5046** — 3088 ganadas / 1958 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **5047** — 3088 ganadas / 1959 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 559
 
 ### Balance
 
-- **Resultado de los apostadores: +$128,869** sobre $274,316,963 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,098** sobre $497,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$102,236** sobre $274,343,597 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,198** sobre $497,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | scootergene | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
 | Sassy-Bucket | Flames vs. Ducks | Ducks | 1.64 (61¢) | $99,339 | — | ⏳ Pendiente |
 | Velin217 | Florida International vs. Jacksonville State | Jacksonville State | 1.25 (80¢) | $43,452 | +$10,863 | ✅ Ganada |
-| www511zwin | Warriors vs. Lakers | Lakers | 2.27 (44¢) | $26,634 | — | ⏳ Pendiente |
+| www511zwin | Warriors vs. Lakers | Lakers | 2.27 (44¢) | $26,634 | -$26,634 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Middle Tennessee | Delaware | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Stars | Avalanche | 2.04 (49¢) | $45,935 | +$47,809 | ✅ Ganada |
 | Icanflyallnight | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $29,114 | +$22,875 | ✅ Ganada |
