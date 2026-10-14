@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 11:25:02 (hora de Perú)
+Actualizado: 2026-10-14 11:27:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5120**  ($278,365,778 en total)
-- Resueltas: **5071** — 3102 ganadas / 1969 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **5073** — 3104 ganadas / 1969 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 562
 
 ### Balance
 
-- **Resultado de los apostadores: -$136,997** sobre $275,954,453 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,486** sobre $499,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$124,153** sobre $276,017,342 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,445** sobre $500,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,8 +82,8 @@ _(mostrando los 40 de mayor monto, de 562 en total)_
 | Mastermoney | Manchester City FC vs. Paris Saint-Germain FC: O/U 2.5 | Over 2.5 | 1.39 (72¢) | $33,786 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Como 1907 win on 2026-10-14? | Yes | 2.38 (42¢) | $34,317 | — | ⏳ Pendiente |
 | nb1985 | Spread: Liverpool FC (-1.5) | LASK Linz | 1.75 (57¢) | $100,000 | — | ⏳ Pendiente |
-| Fvalp | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.25 (80¢) | $29,888 | — | ⏳ Pendiente |
-| hurrican | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.16 (86¢) | $33,000 | — | ⏳ Pendiente |
+| Fvalp | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.25 (80¢) | $29,888 | +$7,472 | ✅ Ganada |
+| hurrican | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.16 (86¢) | $33,000 | +$5,372 | ✅ Ganada |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | +$22,214 | ✅ Ganada |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | +$18,421 | 💰 Vendida antes |
 | jonjones1993 | Will BV Borussia 09 Dortmund win on 2026-10-14? | No | 1.75 (57¢) | $44,117 | — | ⏳ Pendiente |
