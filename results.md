@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 16:25:43 (hora de Perú)
+Actualizado: 2026-10-14 16:28:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5149**  ($280,875,422 en total)
-- Resueltas: **5100** — 3119 ganadas / 1981 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **5107** — 3122 ganadas / 1985 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 563
 
 ### Balance
 
-- **Resultado de los apostadores: -$124,148** sobre $277,811,427 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,668** sobre $502,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$522,615** sobre $278,974,961 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,783** sobre $503,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 56 | 29 | 1 | 66% | $4,104,486 | +$519,010 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| mooseborzoii | 42 | 22 | 3 | 66% | $3,393,118 | +$731,600 |
+| mooseborzoii | 42 | 23 | 2 | 65% | $3,393,118 | +$698,584 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0F62 | 29 | 4 | 0 | 88% | $2,222,414 | +$46,831 |
-| joseph00677 | 2 | 0 | 4 | ⚠️ 100% (2) | $2,201,772 | +$434,683 |
+| joseph00677 | 5 | 0 | 1 | ⚠️ 100% (5) | $2,201,772 | +$1,307,186 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ndb1 | 23 | 12 | 0 | 66% | $1,869,615 | +$373,778 |
 | Talvez10 | 21 | 18 | 0 | 54% | $1,839,170 | +$257,433 |
@@ -82,13 +82,13 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | lllllllIlll | Counter-Strike: FURIA vs BetBoom Team (BO3) - Thunderpick World Championship Group B | FURIA | 1.41 (71¢) | $53,250 | — | ⏳ Pendiente |
 | hurrican | Roanne: Mika Brunold vs Benjamin Bonzi | Mika Brunold | 1.16 (86¢) | $27,000 | +$4,395 | ✅ Ganada |
 | Yellow-Fever | Will Manchester City FC win on 2026-10-14? | No | 2.04 (49¢) | $25,587 | +$26,631 | ✅ Ganada |
-| jonjones1993 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $77,555 | — | ⏳ Pendiente |
-| joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $210,842 | — | ⏳ Pendiente |
+| jonjones1993 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $77,555 | -$77,555 | ❌ Perdida |
+| joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $210,842 | +$194,624 | ✅ Ganada |
 | raybanman | Will FK Bodø/Glimt win on 2026-10-14? | Yes | 2.78 (36¢) | $183,183 | +$325,659 | ✅ Ganada |
-| joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $637,952 | — | ⏳ Pendiente |
-| Bloodygoodrep1 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
-| mooseborzoii | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $33,016 | — | ⏳ Pendiente |
-| joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 2.00 (50¢) | $89,000 | — | ⏳ Pendiente |
+| joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $637,952 | +$588,879 | ✅ Ganada |
+| Bloodygoodrep1 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $49,000 | -$49,000 | ❌ Perdida |
+| mooseborzoii | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $33,016 | -$33,016 | ❌ Perdida |
+| joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 2.00 (50¢) | $89,000 | +$89,000 | ✅ Ganada |
 | Elaran1993 | Queens Park Rangers FC vs. Derby County FC: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $28,560 | — | ⏳ Pendiente |
 | Jsram | Will Manchester City FC win on 2026-10-14? | No | 1.96 (51¢) | $44,745 | +$42,990 | ✅ Ganada |
 | crisp1973 | FK Bodø/Glimt vs. BV Borussia 09 Dortmund: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $27,636 | -$27,636 | ❌ Perdida |
