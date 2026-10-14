@@ -77114,5 +77114,20 @@
     "status": "pending",
     "ultimo_fill": 1792000403,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10423,
+    "timestamp": 1792000964,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "elc-qpr-der-2026-10-14-total-2pt5",
+    "title": "Queens Park Rangers FC vs. Derby County FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 28560.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792000964,
+    "fills": 1
   }
 ]
