@@ -76497,5 +76497,35 @@
     "status": "pending",
     "ultimo_fill": 1791974172,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 10359,
+    "timestamp": 1791974521,
+    "username": "corkmaster420blaezit",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-9z-aur1-2026-10-14",
+    "title": "Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 77071.555,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1791974521,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10360,
+    "timestamp": 1791974530,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-9z-aur1-2026-10-14",
+    "title": "Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A",
+    "outcome": "9z",
+    "side": "BUY",
+    "usd": 26322.665,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1791974530,
+    "fills": 1
   }
 ]

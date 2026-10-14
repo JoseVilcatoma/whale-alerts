@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 05:41:35 (hora de Perú)
+Actualizado: 2026-10-14 05:43:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5089**  ($276,532,673 en total)
+- Apuestas registradas: **5091**  ($276,636,068 en total)
 - Resueltas: **5051** — 3090 ganadas / 1961 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 18
 - Apostadores distintos: 559
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Diabolical-Prize | 60 | 59 | 0 | 50% | $6,308,697 | -$347,712 |
+| Diabolical-Prize | 60 | 59 | 1 | 50% | $6,335,019 | -$347,712 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 83 | 44 | 0 | 65% | $5,175,496 | -$85,304 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
-| Lakersfan111 | 56 | 28 | 0 | 67% | $3,931,304 | +$596,081 |
+| Lakersfan111 | 56 | 28 | 1 | 67% | $4,008,376 | +$596,081 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | 9z | 2.00 (50¢) | $26,323 | — | ⏳ Pendiente |
+| corkmaster420blaezit | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 2.00 (50¢) | $77,072 | — | ⏳ Pendiente |
 | 1827575782 | Shanghai Rolex Masters: Daniil Medvedev vs Stefanos Tsitsipas | Daniil Medvedev | 1.12 (89¢) | $251,370 | — | ⏳ Pendiente |
 | hurrican | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jelena Ostapenko | 1.45 (69¢) | $30,000 | — | ⏳ Pendiente |
 | 3648393489047 | Wuhan Tennis Open: Katie Volynets vs Hanyu Guo | Hanyu Guo | 1.39 (72¢) | $64,556 | -$28,692 | 💰 Vendida antes |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | 0x08A30A0A0fb71ebDdc8907145791030782B88666-1782204100295 | Catania: Enrico Dalla Valle vs Federico Bondioli | Enrico Dalla Valle | 1.49 (67¢) | $33,604 | +$16,551 | ✅ Ganada |
 | Kkunn | Wuhan Tennis Open: Mia Pohankova vs Xiyu Wang | Xiyu Wang | 1.41 (71¢) | $35,500 | -$35,500 | ❌ Perdida |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $55,565 | +$55,565 | ✅ Ganada |
-| fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $30,395 | +$30,395 | ✅ Ganada |
-| fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $69,273 | +$69,273 | ✅ Ganada |
