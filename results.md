@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 21:23:16 (hora de Perú)
+Actualizado: 2026-10-13 22:05:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5071**  ($275,394,222 en total)
-- Resueltas: **5034** — 3081 ganadas / 1953 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **5039** — 3082 ganadas / 1957 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 559
 
 ### Balance
 
-- **Resultado de los apostadores: +$203,359** sobre $273,766,792 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,955** sobre $496,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$66,646** sobre $274,000,129 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,266** sobre $496,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 361 | 191 | 4 | 65% | $34,737,115 | +$1,237,642 |
-| Sassy-Bucket | 73 | 64 | 6 | 53% | $8,151,825 | -$237,375 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 361 | 192 | 3 | 65% | $34,737,115 | +$1,212,642 |
+| Sassy-Bucket | 73 | 67 | 3 | 52% | $8,151,825 | -$394,501 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -75,14 +75,14 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | Sassy-Bucket | Flames vs. Ducks | Ducks | 1.64 (61¢) | $99,339 | — | ⏳ Pendiente |
 | Velin217 | Florida International vs. Jacksonville State | Jacksonville State | 1.25 (80¢) | $43,452 | — | ⏳ Pendiente |
 | www511zwin | Warriors vs. Lakers | Lakers | 2.27 (44¢) | $26,634 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Middle Tennessee | Delaware | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Middle Tennessee | Delaware | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Stars | Avalanche | 2.04 (49¢) | $45,935 | — | ⏳ Pendiente |
 | Icanflyallnight | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $29,114 | — | ⏳ Pendiente |
-| Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $88,241 | — | ⏳ Pendiente |
-| Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $34,970 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Delaware vs. Middle Tennessee | Middle Tennessee | 1.89 (53¢) | $51,210 | — | ⏳ Pendiente |
+| Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $88,241 | -$88,241 | ❌ Perdida |
+| Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $34,970 | -$34,970 | ❌ Perdida |
+| TAIWANNUMBERONE | Delaware vs. Middle Tennessee | Middle Tennessee | 1.89 (53¢) | $51,210 | +$45,413 | ✅ Ganada |
 | BrotherObama | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $48,000 | — | ⏳ Pendiente |
-| Sassy-Bucket | Blues vs. Senators | Senators | 2.13 (47¢) | $33,915 | — | ⏳ Pendiente |
+| Sassy-Bucket | Blues vs. Senators | Senators | 2.13 (47¢) | $33,915 | -$33,915 | ❌ Perdida |
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $70,907 | +$73,801 | ✅ Ganada |
 | ferrariChampions2026 | Panthers vs. Blue Jackets | Panthers | 2.22 (45¢) | $30,684 | +$37,503 | ✅ Ganada |
 | Talvez10 | Kraken vs. Flyers | Kraken | 2.04 (49¢) | $26,801 | +$27,895 | ✅ Ganada |
