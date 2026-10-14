@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 11:47:36 (hora de Perú)
+Actualizado: 2026-10-14 11:49:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5125**  ($278,748,922 en total)
+- Apuestas registradas: **5126**  ($278,779,933 en total)
 - Resueltas: **5073** — 3104 ganadas / 1969 perdidas (**61%** de acierto)
-- Pendientes: 30
-- Apostadores distintos: 562
+- Pendientes: 31
+- Apostadores distintos: 563
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 
-_(mostrando los 40 de mayor monto, de 562 en total)_
+_(mostrando los 40 de mayor monto, de 563 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Pjosully | Will Manchester City FC win on 2026-10-14? | Yes | 2.04 (49¢) | $31,011 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.10 (91¢) | $84,219 | — | ⏳ Pendiente |
 | AnonymousUsername | Will LASK Linz win on 2026-10-14? | No | 1.16 (86¢) | $34,778 | — | ⏳ Pendiente |
 | raybanman | Spread: Liverpool FC (-1.5) | LASK Linz | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 562 en total)_
 | Velin217 | Florida International vs. Jacksonville State | Jacksonville State | 1.25 (80¢) | $43,452 | +$10,863 | ✅ Ganada |
 | www511zwin | Warriors vs. Lakers | Lakers | 2.27 (44¢) | $26,634 | -$26,634 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Middle Tennessee | Delaware | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Stars | Avalanche | 2.04 (49¢) | $45,935 | +$47,809 | ✅ Ganada |
