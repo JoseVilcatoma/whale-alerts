@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 09:20:01 (hora de Perú)
+Actualizado: 2026-10-14 09:22:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5104**  ($277,467,560 en total)
+- Apuestas registradas: **5105**  ($277,511,677 en total)
 - Resueltas: **5062** — 3096 ganadas / 1966 perdidas (**61%** de acierto)
-- Pendientes: 20
-- Apostadores distintos: 560
+- Pendientes: 21
+- Apostadores distintos: 561
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 
-_(mostrando los 40 de mayor monto, de 560 en total)_
+_(mostrando los 40 de mayor monto, de 561 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jonjones1993 | Will BV Borussia 09 Dortmund win on 2026-10-14? | No | 1.75 (57¢) | $44,117 | — | ⏳ Pendiente |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Irene Burillo Escorihuela | 1.61 (62¢) | $25,805 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $36,600 | — | ⏳ Pendiente |
 | mooseborzoii | Stars vs. Avalanche | Stars | 2.38 (42¢) | $32,759 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 560 en total)_
 | YEEES-but-why | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $46,000 | -$46,000 | ❌ Perdida |
 | ArturitoFilito | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.22 (45¢) | $70,000 | -$70,000 | ❌ Perdida |
 | joseph00677 | Will Club Atlético de Madrid win on 2026-10-13? | Yes | 1.92 (52¢) | $164,048 | +$151,429 | ✅ Ganada |
-| Yellow-Fever | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $34,500 | -$34,500 | ❌ Perdida |
