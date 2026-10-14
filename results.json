@@ -77279,5 +77279,20 @@
     "status": "pending",
     "ultimo_fill": 1792003280,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10435,
+    "timestamp": 1792003703,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "ucl-mnc-psg-2026-10-14-mnc",
+    "title": "Will Manchester City FC win on 2026-10-14?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 44999.9977,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792003703,
+    "fills": 1
   }
 ]
