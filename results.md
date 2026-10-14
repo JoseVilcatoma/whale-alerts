@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 13:24:01 (hora de Perú)
+Actualizado: 2026-10-14 13:26:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5138**  ($280,315,477 en total)
+- Apuestas registradas: **5140**  ($280,368,064 en total)
 - Resueltas: **5073** — 3104 ganadas / 1969 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 45
 - Apostadores distintos: 563
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hurrican | Roanne: Mika Brunold vs Benjamin Bonzi | Mika Brunold | 1.16 (86¢) | $27,000 | — | ⏳ Pendiente |
+| Yellow-Fever | Will Manchester City FC win on 2026-10-14? | No | 2.04 (49¢) | $25,587 | — | ⏳ Pendiente |
 | jonjones1993 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $77,555 | — | ⏳ Pendiente |
 | joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $210,842 | — | ⏳ Pendiente |
 | raybanman | Will FK Bodø/Glimt win on 2026-10-14? | Yes | 2.78 (36¢) | $183,183 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | 1827575782 | Shanghai Rolex Masters: Casper Ruud vs Felix Auger-Aliassime | Casper Ruud | 1.28 (78¢) | $71,101 | +$20,054 | ✅ Ganada |
 | ArturitoFilito | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $47,921 | +$29,371 | ✅ Ganada |
 | 3648393489047 | Wuhan Tennis Open: Karolina Muchova vs Caty McNally | Karolina Muchova | 1.54 (65¢) | $29,987 | +$16,147 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $60,936 | +$37,348 | ✅ Ganada |
-| TAIWANNUMBERONE | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $26,105 | +$16,000 | ✅ Ganada |
