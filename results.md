@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 20:32:59 (hora de Perú)
+Actualizado: 2026-10-13 20:35:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5069**  ($275,250,383 en total)
+- Apuestas registradas: **5070**  ($275,349,722 en total)
 - Resueltas: **5032** — 3079 ganadas / 1953 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 559
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 361 | 191 | 4 | 65% | $34,737,115 | +$1,237,642 |
-| Sassy-Bucket | 73 | 64 | 5 | 53% | $8,052,485 | -$237,375 |
+| Sassy-Bucket | 73 | 64 | 6 | 53% | $8,151,825 | -$237,375 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Flames vs. Ducks | Ducks | 1.64 (61¢) | $99,339 | — | ⏳ Pendiente |
 | Velin217 | Florida International vs. Jacksonville State | Jacksonville State | 1.25 (80¢) | $43,452 | — | ⏳ Pendiente |
 | www511zwin | Warriors vs. Lakers | Lakers | 2.27 (44¢) | $26,634 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Middle Tennessee | Delaware | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 3.12 (32¢) | $32,824 | -$32,824 | ❌ Perdida |
 | cosmicxbt | Bills vs. Rams | Bills | 1.47 (68¢) | $167,293 | +$78,726 | ✅ Ganada |
 | Velin217 | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 1.06 (94¢) | $47,134 | +$3,009 | ✅ Ganada |
-| 0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274 | Bills vs. Rams | Rams | 1.82 (55¢) | $25,966 | -$25,966 | ❌ Perdida |

@@ -76195,5 +76195,20 @@
     "status": "pending",
     "ultimo_fill": 1791939428,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10318,
+    "timestamp": 1791941634,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nhl-cal-ana-2026-10-13",
+    "title": "Flames vs. Ducks",
+    "outcome": "Ducks",
+    "side": "BUY",
+    "usd": 99339.3052,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1791941634,
+    "fills": 1
   }
 ]
