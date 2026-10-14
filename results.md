@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 09:42:19 (hora de Perú)
+Actualizado: 2026-10-14 09:44:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5105**  ($277,511,677 en total)
+- Apuestas registradas: **5106**  ($277,543,643 en total)
 - Resueltas: **5065** — 3097 ganadas / 1968 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 561
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 561 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | — | ⏳ Pendiente |
 | jonjones1993 | Will BV Borussia 09 Dortmund win on 2026-10-14? | No | 1.75 (57¢) | $44,117 | — | ⏳ Pendiente |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Irene Burillo Escorihuela | 1.61 (62¢) | $25,805 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $36,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 561 en total)_
 | Daemon99 | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $27,872 | -$27,872 | ❌ Perdida |
 | YEEES-but-why | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $46,000 | -$46,000 | ❌ Perdida |
 | ArturitoFilito | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.22 (45¢) | $70,000 | -$70,000 | ❌ Perdida |
-| joseph00677 | Will Club Atlético de Madrid win on 2026-10-13? | Yes | 1.92 (52¢) | $164,048 | +$151,429 | ✅ Ganada |
