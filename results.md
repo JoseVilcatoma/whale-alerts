@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 13:22:01 (hora de Perú)
+Actualizado: 2026-10-14 13:24:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5137**  ($280,237,922 en total)
+- Apuestas registradas: **5138**  ($280,315,477 en total)
 - Resueltas: **5073** — 3104 ganadas / 1969 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 563
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jonjones1993 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $77,555 | — | ⏳ Pendiente |
 | joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $210,842 | — | ⏳ Pendiente |
 | raybanman | Will FK Bodø/Glimt win on 2026-10-14? | Yes | 2.78 (36¢) | $183,183 | — | ⏳ Pendiente |
 | joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $637,952 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | 3648393489047 | Wuhan Tennis Open: Karolina Muchova vs Caty McNally | Karolina Muchova | 1.54 (65¢) | $29,987 | +$16,147 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $60,936 | +$37,348 | ✅ Ganada |
 | TAIWANNUMBERONE | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $26,105 | +$16,000 | ✅ Ganada |
-| ziyoucui | LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.67 (60¢) | $34,796 | -$34,796 | ❌ Perdida |

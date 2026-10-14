@@ -77219,5 +77219,20 @@
     "status": "pending",
     "ultimo_fill": 1792002032,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10430,
+    "timestamp": 1792002169,
+    "username": "jonjones1993",
+    "wallet": "0xce937f66d91dc6fd78e2b0e405f703a7d208ab2c",
+    "slug": "ucl-rom-rma-2026-10-14-rma",
+    "title": "Will Real Madrid CF win on 2026-10-14?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 77555.35759999999,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792002169,
+    "fills": 1
   }
 ]
