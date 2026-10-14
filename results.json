@@ -76165,5 +76165,20 @@
     "status": "pending",
     "ultimo_fill": 1791937797,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10315,
+    "timestamp": 1791939049,
+    "username": "www511zwin",
+    "wallet": "0x93683d55f0ea67212bc179e9802f00e271c9f390",
+    "slug": "nba-gsw-lal-2026-10-13",
+    "title": "Warriors vs. Lakers",
+    "outcome": "Lakers",
+    "side": "BUY",
+    "usd": 26633.619400000003,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1791939049,
+    "fills": 1
   }
 ]
