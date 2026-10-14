@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 06:18:54 (hora de Perú)
+Actualizado: 2026-10-14 06:20:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5092**  ($276,791,371 en total)
-- Resueltas: **5051** — 3090 ganadas / 1961 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **5053** — 3091 ganadas / 1962 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 559
 
 ### Balance
 
-- **Resultado de los apostadores: +$10,406** sobre $274,608,581 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,216** sobre $498,000 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$46,883** sobre $274,709,348 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,271** sobre $498,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0F62 | 29 | 4 | 0 | 88% | $2,222,414 | +$46,831 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| 1827575782 | 14 | 1 | 2 | 93% | $2,117,736 | +$178,792 |
+| 1827575782 | 14 | 2 | 1 | 88% | $2,117,736 | +$108,025 |
 | raybanman | 15 | 6 | 0 | 71% | $2,084,061 | +$704,915 |
 | ndb1 | 23 | 12 | 0 | 66% | $1,869,615 | +$373,778 |
 | Talvez10 | 21 | 18 | 0 | 54% | $1,839,170 | +$257,433 |
@@ -75,11 +75,11 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | Diabolical-Prize | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | 9z | 1.96 (51¢) | $135,973 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 2.00 (50¢) | $77,072 | — | ⏳ Pendiente |
 | 1827575782 | Shanghai Rolex Masters: Daniil Medvedev vs Stefanos Tsitsipas | Daniil Medvedev | 1.12 (89¢) | $251,370 | — | ⏳ Pendiente |
-| hurrican | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jelena Ostapenko | 1.45 (69¢) | $30,000 | — | ⏳ Pendiente |
+| hurrican | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jelena Ostapenko | 1.45 (69¢) | $30,000 | +$13,478 | ✅ Ganada |
 | 3648393489047 | Wuhan Tennis Open: Katie Volynets vs Hanyu Guo | Hanyu Guo | 1.39 (72¢) | $64,556 | -$28,692 | 💰 Vendida antes |
 | 3648393489047 | Wuhan Tennis Open: Katie Volynets vs Hanyu Guo | Katie Volynets | 1.75 (57¢) | $31,504 | — | ⏳ Pendiente |
 | RJW1 | Will Real Madrid CF win on 2026-10-14? | No | 1.96 (51¢) | $66,168 | — | ⏳ Pendiente |
-| 1827575782 | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jessica Pegula | 1.18 (85¢) | $70,767 | — | ⏳ Pendiente |
+| 1827575782 | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jessica Pegula | 1.18 (85¢) | $70,767 | -$70,767 | ❌ Perdida |
 | 1827575782 | Shanghai Rolex Masters: Casper Ruud vs Felix Auger-Aliassime | Casper Ruud | 1.28 (78¢) | $71,101 | +$20,054 | ✅ Ganada |
 | ArturitoFilito | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $47,921 | — | ⏳ Pendiente |
 | 3648393489047 | Wuhan Tennis Open: Karolina Muchova vs Caty McNally | Karolina Muchova | 1.54 (65¢) | $29,987 | +$16,147 | ✅ Ganada |
