@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 22:26:11 (hora de Perú)
+Actualizado: 2026-10-13 22:28:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5073**  ($275,500,057 en total)
+- Apuestas registradas: **5074**  ($275,596,694 en total)
 - Resueltas: **5042** — 3084 ganadas / 1958 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 559
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Will Manchester City FC win on 2026-10-14? | No | 1.82 (55¢) | $96,637 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Florida International vs. Jacksonville State | Jacksonville State | 1.37 (73¢) | $44,121 | — | ⏳ Pendiente |
 | Velin217 | Florida International vs. Jacksonville State | Jacksonville State | 1.11 (90¢) | $61,714 | — | ⏳ Pendiente |
 | scootergene | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | arjennnnn | LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.25 (80¢) | $32,000 | +$8,000 | ✅ Ganada |
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.08 (48¢) | $60,775 | +$65,839 | ✅ Ganada |
 | ScroooogeMcDuck | Bills vs. Rams | Bills | 1.23 (81¢) | $45,800 | +$10,743 | ✅ Ganada |
-| ethanaz | Bills vs. Rams | Bills | 1.67 (60¢) | $209,258 | +$139,505 | ✅ Ganada |
