@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 14:11:23 (hora de Perú)
+Actualizado: 2026-10-14 14:13:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5144**  ($280,592,961 en total)
+- Apuestas registradas: **5145**  ($280,623,961 en total)
 - Resueltas: **5085** — 3110 ganadas / 1975 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 563
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hurrican | Counter-Strike: FURIA vs BetBoom Team (BO3) - Thunderpick World Championship Group B | FURIA | 1.39 (72¢) | $31,000 | — | ⏳ Pendiente |
 | juice-fruit | Will FK Shakhtar Donetsk win on 2026-10-14? | No | 1.49 (67¢) | $36,647 | — | ⏳ Pendiente |
 | nb1985 | Will Manchester City FC win on 2026-10-14? | Yes | 1.96 (51¢) | $90,000 | — | ⏳ Pendiente |
 | mooseborzoii | Will Manchester City FC win on 2026-10-14? | No | 2.04 (49¢) | $45,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | hurrican | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jelena Ostapenko | 1.45 (69¢) | $30,000 | +$13,478 | ✅ Ganada |
 | 3648393489047 | Wuhan Tennis Open: Katie Volynets vs Hanyu Guo | Hanyu Guo | 1.39 (72¢) | $64,556 | -$28,692 | 💰 Vendida antes |
 | 3648393489047 | Wuhan Tennis Open: Katie Volynets vs Hanyu Guo | Katie Volynets | 1.75 (57¢) | $31,504 | -$31,504 | ❌ Perdida |
-| RJW1 | Will Real Madrid CF win on 2026-10-14? | No | 1.96 (51¢) | $66,168 | — | ⏳ Pendiente |
