@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 05:26:56 (hora de Perú)
+Actualizado: 2026-10-14 05:29:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5086**  ($276,186,747 en total)
+- Apuestas registradas: **5087**  ($276,251,303 en total)
 - Resueltas: **5050** — 3090 ganadas / 1960 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 559
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | Wuhan Tennis Open: Katie Volynets vs Hanyu Guo | Hanyu Guo | 1.39 (72¢) | $64,556 | — | ⏳ Pendiente |
 | 3648393489047 | Wuhan Tennis Open: Katie Volynets vs Hanyu Guo | Katie Volynets | 1.75 (57¢) | $31,504 | — | ⏳ Pendiente |
 | RJW1 | Will Real Madrid CF win on 2026-10-14? | No | 1.96 (51¢) | $66,168 | — | ⏳ Pendiente |
 | 1827575782 | Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula | Jessica Pegula | 1.18 (85¢) | $70,767 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | fortnitethegoat667 | LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 2.00 (50¢) | $69,273 | +$69,273 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Catania: Enrico Dalla Valle vs Federico Bondioli | Enrico Dalla Valle | 1.79 (56¢) | $27,641 | +$21,718 | ✅ Ganada |
 | kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik | Alexander Bublik | 2.00 (50¢) | $26,808 | -$26,808 | ❌ Perdida |
-| kdvlklkvlsklkfs | Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik | Alexander Bublik | 1.28 (78¢) | $26,107 | -$26,107 | ❌ Perdida |
