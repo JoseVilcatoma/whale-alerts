@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 14:09:20 (hora de Perú)
+Actualizado: 2026-10-14 14:11:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5144**  ($280,592,961 en total)
-- Resueltas: **5084** — 3109 ganadas / 1975 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **5085** — 3110 ganadas / 1975 perdidas (**61%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 563
 
 ### Balance
 
-- **Resultado de los apostadores: -$519,409** sobre $276,943,407 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$4,804** sobre $501,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$515,014** sobre $276,970,407 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$4,788** sobre $501,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | nb1985 | Will Manchester City FC win on 2026-10-14? | Yes | 1.96 (51¢) | $90,000 | — | ⏳ Pendiente |
 | mooseborzoii | Will Manchester City FC win on 2026-10-14? | No | 2.04 (49¢) | $45,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: FURIA vs BetBoom Team (BO3) - Thunderpick World Championship Group B | FURIA | 1.41 (71¢) | $53,250 | — | ⏳ Pendiente |
-| hurrican | Roanne: Mika Brunold vs Benjamin Bonzi | Mika Brunold | 1.16 (86¢) | $27,000 | — | ⏳ Pendiente |
+| hurrican | Roanne: Mika Brunold vs Benjamin Bonzi | Mika Brunold | 1.16 (86¢) | $27,000 | +$4,395 | ✅ Ganada |
 | Yellow-Fever | Will Manchester City FC win on 2026-10-14? | No | 2.04 (49¢) | $25,587 | — | ⏳ Pendiente |
 | jonjones1993 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $77,555 | — | ⏳ Pendiente |
 | joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $210,842 | — | ⏳ Pendiente |
