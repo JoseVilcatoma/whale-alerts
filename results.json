@@ -76769,5 +76769,20 @@
     "status": "pending",
     "ultimo_fill": 1791989043,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10393,
+    "timestamp": 1791989998,
+    "username": "hurrican",
+    "wallet": "0x8718865882e085b764825b637788043c16185040",
+    "slug": "wta-shi-fernand-2026-10-13",
+    "title": "Wuhan Tennis Open: Han Shi vs Leylah Fernandez",
+    "outcome": "Leylah Fernandez",
+    "side": "BUY",
+    "usd": 32999.999998,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1791989998,
+    "fills": 1
   }
 ]

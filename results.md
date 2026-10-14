@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 09:58:37 (hora de Perú)
+Actualizado: 2026-10-14 10:00:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5107**  ($277,575,609 en total)
+- Apuestas registradas: **5108**  ($277,608,609 en total)
 - Resueltas: **5066** — 3098 ganadas / 1968 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 561
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 561 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hurrican | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.16 (86¢) | $33,000 | — | ⏳ Pendiente |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | — | ⏳ Pendiente |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | +$18,421 | 💰 Vendida antes |
 | jonjones1993 | Will BV Borussia 09 Dortmund win on 2026-10-14? | No | 1.75 (57¢) | $44,117 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 561 en total)_
 | ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.27 (44¢) | $209,386 | -$209,386 | ❌ Perdida |
 | ferrariChampions2026 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.16 (86¢) | $61,268 | +$9,974 | ✅ Ganada |
 | Daemon99 | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $27,872 | -$27,872 | ❌ Perdida |
-| YEEES-but-why | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $46,000 | -$46,000 | ❌ Perdida |
