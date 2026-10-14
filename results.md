@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 10:02:42 (hora de Perú)
+Actualizado: 2026-10-14 10:04:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5108**  ($277,608,609 en total)
+- Apuestas registradas: **5109**  ($277,638,497 en total)
 - Resueltas: **5066** — 3098 ganadas / 1968 perdidas (**61%** de acierto)
-- Pendientes: 20
-- Apostadores distintos: 561
+- Pendientes: 21
+- Apostadores distintos: 562
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | texaskid | 14 | 13 | 0 | 52% | $1,447,575 | -$105,070 |
 
-_(mostrando los 40 de mayor monto, de 561 en total)_
+_(mostrando los 40 de mayor monto, de 562 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Fvalp | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.25 (80¢) | $29,888 | — | ⏳ Pendiente |
 | hurrican | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.16 (86¢) | $33,000 | — | ⏳ Pendiente |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | — | ⏳ Pendiente |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | +$18,421 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 561 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.18 (85¢) | $522,695 | +$92,240 | ✅ Ganada |
 | ripley86alien | Spread: FC Barcelona (-1.5) | Galatasaray SK | 2.27 (44¢) | $209,386 | -$209,386 | ❌ Perdida |
 | ferrariChampions2026 | Fenerbahce vs. Zalgiris Kaunas | Fenerbahce | 1.16 (86¢) | $61,268 | +$9,974 | ✅ Ganada |
-| Daemon99 | Will Club Atlético de Madrid win on 2026-10-13? | No | 2.17 (46¢) | $27,872 | -$27,872 | ❌ Perdida |
