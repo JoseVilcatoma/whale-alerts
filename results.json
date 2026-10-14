@@ -76522,10 +76522,25 @@
     "title": "Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A",
     "outcome": "9z",
     "side": "BUY",
-    "usd": 26322.665,
-    "odds_at_bet": 50,
+    "usd": 135972.665,
+    "odds_at_bet": 51,
     "status": "pending",
-    "ultimo_fill": 1791974530,
+    "ultimo_fill": 1791974622,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 10361,
+    "timestamp": 1791974666,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-fox1-kt-2026-10-14-game3",
+    "title": "LoL: BNK FEARX vs KT Rolster - Game 3 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 45653.0495,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1791974666,
     "fills": 1
   }
 ]
