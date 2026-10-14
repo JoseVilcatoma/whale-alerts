@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 16:30:02 (hora de Perú)
+Actualizado: 2026-10-14 16:32:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5149**  ($280,875,422 en total)
-- Resueltas: **5107** — 3122 ganadas / 1985 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **5110** — 3125 ganadas / 1985 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 563
 
 ### Balance
 
-- **Resultado de los apostadores: +$522,615** sobre $278,974,961 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,783** sobre $503,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$545,795** sobre $279,216,532 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,755** sobre $503,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 366 | 192 | 5 | 66% | $35,315,593 | +$1,424,819 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 192 | 3 | 66% | $35,315,593 | +$1,442,819 |
 | Sassy-Bucket | 73 | 68 | 2 | 52% | $8,151,825 | -$493,840 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -92,10 +92,10 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | Elaran1993 | Queens Park Rangers FC vs. Derby County FC: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $28,560 | — | ⏳ Pendiente |
 | Jsram | Will Manchester City FC win on 2026-10-14? | No | 1.96 (51¢) | $44,745 | +$42,990 | ✅ Ganada |
 | crisp1973 | FK Bodø/Glimt vs. BV Borussia 09 Dortmund: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $27,636 | -$27,636 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.10 (91¢) | $97,781 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.10 (91¢) | $97,781 | +$9,671 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs PARIVISION (BO3) - Thunderpick World Championship Group B | Legacy | 1.22 (82¢) | $56,272 | +$12,353 | ✅ Ganada |
 | Pjosully | Will Manchester City FC win on 2026-10-14? | Yes | 2.04 (49¢) | $31,011 | -$31,011 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.10 (91¢) | $84,219 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.10 (91¢) | $84,219 | +$8,329 | ✅ Ganada |
 | AnonymousUsername | Will LASK Linz win on 2026-10-14? | No | 1.16 (86¢) | $34,778 | +$5,661 | ✅ Ganada |
 | raybanman | Spread: Liverpool FC (-1.5) | LASK Linz | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Liverpool FC (-1.5) | Liverpool FC | 2.38 (42¢) | $34,148 | +$47,157 | ✅ Ganada |
@@ -125,7 +125,7 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | juice-fruit | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.35 (74¢) | $37,233 | +$13,082 | ✅ Ganada |
 | AnonymousUsername | Will ŠK Slovan Bratislava win on 2026-10-14? | No | 1.14 (88¢) | $27,416 | +$3,738 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will ŠK Slovan Bratislava win on 2026-10-14? | No | 1.15 (87¢) | $50,000 | +$7,471 | ✅ Ganada |
-| Flaznorp | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.09 (92¢) | $59,571 | — | ⏳ Pendiente |
+| Flaznorp | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.09 (92¢) | $59,571 | +$5,180 | ✅ Ganada |
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.06 (94¢) | $39,011 | -$39,011 | ❌ Perdida |
 | 1827575782 | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Aryna Sabalenka | 1.14 (88¢) | $177,455 | -$177,455 | ❌ Perdida |
 | Diabolical-Prize | LoL: BNK FEARX vs KT Rolster - Game 3 Winner | KT Rolster | 1.47 (68¢) | $45,653 | -$45,653 | ❌ Perdida |
