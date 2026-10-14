@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 03:16:41 (hora de Perú)
+Actualizado: 2026-10-14 03:18:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5083**  ($276,018,308 en total)
-- Resueltas: **5048** — 3088 ganadas / 1960 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **5049** — 3089 ganadas / 1960 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 559
 
 ### Balance
 
-- **Resultado de los apostadores: +$2,896** sobre $274,442,936 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,298** sobre $497,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$22,950** sobre $274,514,038 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,270** sobre $497,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 21 | 18 | 0 | 54% | $1,839,170 | +$257,433 |
 | SDTrading | 30 | 31 | 0 | 49% | $1,813,324 | -$160,793 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| 1827575782 | 13 | 1 | 1 | 93% | $1,795,598 | +$158,737 |
+| 1827575782 | 14 | 1 | 0 | 93% | $1,795,598 | +$178,792 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | Jsram | 19 | 18 | 1 | 51% | $1,757,126 | -$198,500 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 2 | 0 | 94% | $1,736,357 | +$92,570 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 1827575782 | Shanghai Rolex Masters: Casper Ruud vs Felix Auger-Aliassime | Casper Ruud | 1.28 (78¢) | $71,101 | — | ⏳ Pendiente |
+| 1827575782 | Shanghai Rolex Masters: Casper Ruud vs Felix Auger-Aliassime | Casper Ruud | 1.28 (78¢) | $71,101 | +$20,054 | ✅ Ganada |
 | ArturitoFilito | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $47,921 | — | ⏳ Pendiente |
 | 3648393489047 | Wuhan Tennis Open: Karolina Muchova vs Caty McNally | Karolina Muchova | 1.54 (65¢) | $29,987 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $60,936 | — | ⏳ Pendiente |
