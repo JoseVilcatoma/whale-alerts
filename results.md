@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 14:03:19 (hora de Perú)
+Actualizado: 2026-10-14 14:05:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5144**  ($280,592,961 en total)
-- Resueltas: **5082** — 3109 ganadas / 1973 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Resueltas: **5084** — 3109 ganadas / 1975 perdidas (**61%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 563
 
 ### Balance
 
-- **Resultado de los apostadores: -$430,492** sobre $276,854,490 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$4,604** sobre $501,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$519,409** sobre $276,943,407 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$4,804** sobre $501,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -100,11 +100,11 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | raybanman | Will Liverpool FC win on 2026-10-14? | No | 3.03 (33¢) | $299,298 | -$299,298 | ❌ Perdida |
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $33,654 | — | ⏳ Pendiente |
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $27,556 | — | ⏳ Pendiente |
-| optimusprime777879 | Will Como 1907 win on 2026-10-14? | Yes | 2.38 (42¢) | $54,600 | — | ⏳ Pendiente |
+| optimusprime777879 | Will Como 1907 win on 2026-10-14? | Yes | 2.38 (42¢) | $54,600 | -$54,600 | ❌ Perdida |
 | 0x361b…74fe | Will Paris Saint-Germain FC win on 2026-10-14? | No | 1.41 (71¢) | $35,252 | — | ⏳ Pendiente |
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $26,166 | — | ⏳ Pendiente |
 | Mastermoney | Manchester City FC vs. Paris Saint-Germain FC: O/U 2.5 | Over 2.5 | 1.39 (72¢) | $33,786 | — | ⏳ Pendiente |
-| Bloodygoodrep1 | Will Como 1907 win on 2026-10-14? | Yes | 2.38 (42¢) | $34,317 | — | ⏳ Pendiente |
+| Bloodygoodrep1 | Will Como 1907 win on 2026-10-14? | Yes | 2.38 (42¢) | $34,317 | -$34,317 | ❌ Perdida |
 | nb1985 | Spread: Liverpool FC (-1.5) | LASK Linz | 1.75 (57¢) | $100,000 | -$100,000 | ❌ Perdida |
 | Fvalp | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.25 (80¢) | $29,888 | +$7,472 | ✅ Ganada |
 | hurrican | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.16 (86¢) | $33,000 | +$5,372 | ✅ Ganada |
