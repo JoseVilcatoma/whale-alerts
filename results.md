@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 22:15:55 (hora de Perú)
+Actualizado: 2026-10-13 22:17:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5071**  ($275,394,222 en total)
-- Resueltas: **5040** — 3082 ganadas / 1958 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Apuestas registradas: **5072**  ($275,455,936 en total)
+- Resueltas: **5042** — 3084 ganadas / 1958 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 559
 
 ### Balance
 
-- **Resultado de los apostadores: +$18,646** sobre $274,048,129 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,366** sobre $497,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$47,021** sobre $274,121,742 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,275** sobre $497,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| scootergene | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.12 (89¢) | $44,500 | — | ⏳ Pendiente |
+| Velin217 | Florida International vs. Jacksonville State | Jacksonville State | 1.11 (90¢) | $61,714 | — | ⏳ Pendiente |
+| scootergene | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
 | Sassy-Bucket | Flames vs. Ducks | Ducks | 1.64 (61¢) | $99,339 | — | ⏳ Pendiente |
 | Velin217 | Florida International vs. Jacksonville State | Jacksonville State | 1.25 (80¢) | $43,452 | — | ⏳ Pendiente |
 | www511zwin | Warriors vs. Lakers | Lakers | 2.27 (44¢) | $26,634 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Middle Tennessee | Delaware | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Stars | Avalanche | 2.04 (49¢) | $45,935 | — | ⏳ Pendiente |
-| Icanflyallnight | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $29,114 | — | ⏳ Pendiente |
+| Icanflyallnight | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $29,114 | +$22,875 | ✅ Ganada |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $88,241 | -$88,241 | ❌ Perdida |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $34,970 | -$34,970 | ❌ Perdida |
 | TAIWANNUMBERONE | Delaware vs. Middle Tennessee | Middle Tennessee | 1.89 (53¢) | $51,210 | +$45,413 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | ScroooogeMcDuck | Bills vs. Rams | Bills | 1.23 (81¢) | $45,800 | +$10,743 | ✅ Ganada |
 | ethanaz | Bills vs. Rams | Bills | 1.67 (60¢) | $209,258 | +$139,505 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Rams | Rams | 3.12 (32¢) | $32,824 | -$32,824 | ❌ Perdida |
-| cosmicxbt | Bills vs. Rams | Bills | 1.47 (68¢) | $167,293 | +$78,726 | ✅ Ganada |
