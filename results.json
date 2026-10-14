@@ -77184,10 +77184,25 @@
     "title": "Will Real Madrid CF win on 2026-10-14?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 395013.8972,
+    "usd": 637952.094,
     "odds_at_bet": 52,
     "status": "pending",
-    "ultimo_fill": 1792001804,
+    "ultimo_fill": 1792001883,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 10428,
+    "timestamp": 1792001993,
+    "username": "raybanman",
+    "wallet": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+    "slug": "ucl-bog-bvb-2026-10-14-bog",
+    "title": "Will FK Bod\u00f8/Glimt win on 2026-10-14?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 183183.35450000002,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "ultimo_fill": 1792001993,
     "fills": 1
   }
 ]

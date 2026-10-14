@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 13:17:57 (hora de Perú)
+Actualizado: 2026-10-14 13:19:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5135**  ($279,600,958 en total)
+- Apuestas registradas: **5136**  ($280,027,080 en total)
 - Resueltas: **5073** — 3104 ganadas / 1969 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 563
 
 ### Balance
@@ -44,15 +44,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 34 | 10 | 1 | 77% | $2,943,503 | +$1,598,814 |
+| raybanman | 15 | 6 | 4 | 71% | $2,643,012 | +$704,915 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| raybanman | 15 | 6 | 3 | 71% | $2,459,829 | +$704,915 |
 | cosmicxbt | 16 | 7 | 0 | 70% | $2,406,992 | -$359,317 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0F62 | 29 | 4 | 0 | 88% | $2,222,414 | +$46,831 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
+| joseph00677 | 2 | 0 | 2 | ⚠️ 100% (2) | $1,895,263 | +$434,683 |
 | ndb1 | 23 | 12 | 0 | 66% | $1,869,615 | +$373,778 |
 | Talvez10 | 21 | 18 | 0 | 54% | $1,839,170 | +$257,433 |
 | SDTrading | 30 | 31 | 0 | 49% | $1,813,324 | -$160,793 |
@@ -62,7 +63,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 2 | 0 | 94% | $1,736,357 | +$92,570 |
 | 0x361b…74fe | 22 | 1 | 4 | 96% | $1,724,618 | +$762,954 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| joseph00677 | 2 | 0 | 2 | ⚠️ 100% (2) | $1,652,325 | +$434,683 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 
 _(mostrando los 40 de mayor monto, de 563 en total)_
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $395,014 | — | ⏳ Pendiente |
+| raybanman | Will FK Bodø/Glimt win on 2026-10-14? | Yes | 2.78 (36¢) | $183,183 | — | ⏳ Pendiente |
+| joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $637,952 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | mooseborzoii | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $33,016 | — | ⏳ Pendiente |
 | joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 2.00 (50¢) | $89,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 563 en total)_
 | TAIWANNUMBERONE | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $26,105 | +$16,000 | ✅ Ganada |
 | ziyoucui | LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.67 (60¢) | $34,796 | -$34,796 | ❌ Perdida |
 | Jsram | Will Manchester City FC win on 2026-10-14? | No | 1.89 (53¢) | $95,400 | — | ⏳ Pendiente |
-| gransaaa | Will Manchester City FC win on 2026-10-14? | Yes | 2.13 (47¢) | $28,859 | — | ⏳ Pendiente |
