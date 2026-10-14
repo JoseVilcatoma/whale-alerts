@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 08:16:04 (hora de Perú)
+Actualizado: 2026-10-14 08:18:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5102**  ($277,304,756 en total)
-- Resueltas: **5057** — 3093 ganadas / 1964 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **5058** — 3093 ganadas / 1965 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 560
 
 ### Balance
 
-- **Resultado de los apostadores: +$6,250** sobre $275,205,266 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,363** sobre $498,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$28,546** sobre $275,240,062 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,463** sobre $498,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 560 en total)_
 | 3648393489047 | Wuhan Tennis Open: Karolina Muchova vs Caty McNally | Karolina Muchova | 1.54 (65¢) | $29,987 | +$16,147 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $60,936 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Game Handicap: KT (-1.5) vs BNK FEARX (+1.5) | BNK FEARX | 1.61 (62¢) | $26,105 | — | ⏳ Pendiente |
-| ziyoucui | LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.67 (60¢) | $34,796 | — | ⏳ Pendiente |
+| ziyoucui | LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs | KT Rolster | 1.67 (60¢) | $34,796 | -$34,796 | ❌ Perdida |
 | Jsram | Will Manchester City FC win on 2026-10-14? | No | 1.89 (53¢) | $95,400 | — | ⏳ Pendiente |
 | gransaaa | Will Manchester City FC win on 2026-10-14? | Yes | 2.13 (47¢) | $28,859 | — | ⏳ Pendiente |
 | UpTheBlues | Will Paris Saint-Germain FC win on 2026-10-14? | No | 1.47 (68¢) | $26,508 | — | ⏳ Pendiente |
