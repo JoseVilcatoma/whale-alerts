@@ -77069,5 +77069,20 @@
     "status": "pending",
     "ultimo_fill": 1791996718,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10420,
+    "timestamp": 1791998424,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ucl-ast-fen-2026-10-14-spread-away-1pt5",
+    "title": "Spread: Fenerbah\u00e7e SK (-1.5)",
+    "outcome": "Aston Villa FC",
+    "side": "BUY",
+    "usd": 97781.2927,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1791998424,
+    "fills": 1
   }
 ]
