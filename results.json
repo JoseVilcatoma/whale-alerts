@@ -76180,5 +76180,20 @@
     "status": "pending",
     "ultimo_fill": 1791939049,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10316,
+    "timestamp": 1791939428,
+    "username": "Velin217",
+    "wallet": "0x9a5e78f769d30fb320f084ed64d58fcbc09acd58",
+    "slug": "cfb-flint-jaxst-2026-10-13",
+    "title": "Florida International vs. Jacksonville State",
+    "outcome": "Jacksonville State",
+    "side": "BUY",
+    "usd": 43452.0,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1791939428,
+    "fills": 1
   }
 ]

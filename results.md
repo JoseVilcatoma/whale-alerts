@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-13 19:55:20 (hora de Perú)
+Actualizado: 2026-10-13 19:57:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5068**  ($275,206,931 en total)
+- Apuestas registradas: **5069**  ($275,250,383 en total)
 - Resueltas: **5031** — 3078 ganadas / 1953 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 559
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Velin217 | Florida International vs. Jacksonville State | Jacksonville State | 1.25 (80¢) | $43,452 | — | ⏳ Pendiente |
 | www511zwin | Warriors vs. Lakers | Lakers | 2.27 (44¢) | $26,634 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Middle Tennessee | Delaware | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Stars | Avalanche | 2.04 (49¢) | $45,935 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 559 en total)_
 | cosmicxbt | Bills vs. Rams | Bills | 1.47 (68¢) | $167,293 | +$78,726 | ✅ Ganada |
 | Velin217 | Cleveland Guardians vs. Tampa Bay Rays | Cleveland Guardians | 1.06 (94¢) | $47,134 | +$3,009 | ✅ Ganada |
 | 0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274 | Bills vs. Rams | Rams | 1.82 (55¢) | $25,966 | -$25,966 | ❌ Perdida |
-| cosmicxbt | Bills vs. Rams | Rams | 1.56 (64¢) | $73,423 | -$73,423 | ❌ Perdida |
