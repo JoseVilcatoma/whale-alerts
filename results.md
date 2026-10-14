@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 11:33:14 (hora de Perú)
+Actualizado: 2026-10-14 11:35:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5120**  ($278,365,778 en total)
+- Apuestas registradas: **5122**  ($278,600,926 en total)
 - Resueltas: **5073** — 3104 ganadas / 1969 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 27
 - Apostadores distintos: 562
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 363 | 192 | 3 | 65% | $34,842,172 | +$1,266,309 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 363 | 192 | 5 | 65% | $35,077,321 | +$1,266,309 |
 | Sassy-Bucket | 73 | 68 | 2 | 52% | $8,151,825 | -$493,840 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 562 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Liverpool FC (-1.5) | Liverpool FC | 2.38 (42¢) | $34,148 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Liverpool FC win on 2026-10-14? | Yes | 1.49 (67¢) | $201,000 | — | ⏳ Pendiente |
 | raybanman | Spread: Liverpool FC (-1.5) | LASK Linz | 1.72 (58¢) | $47,470 | — | ⏳ Pendiente |
 | AnonymousUsername | Will LASK Linz win on 2026-10-14? | No | 1.15 (87¢) | $35,182 | — | ⏳ Pendiente |
 | raybanman | Will Liverpool FC win on 2026-10-14? | No | 3.03 (33¢) | $299,298 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 562 en total)_
 | Icanflyallnight | Cleveland Guardians vs. Tampa Bay Rays | Tampa Bay Rays | 1.79 (56¢) | $29,114 | +$22,875 | ✅ Ganada |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $88,241 | -$88,241 | ❌ Perdida |
 | Sassy-Bucket | Blues vs. Senators | Senators | 2.08 (48¢) | $34,970 | -$34,970 | ❌ Perdida |
-| TAIWANNUMBERONE | Delaware vs. Middle Tennessee | Middle Tennessee | 1.89 (53¢) | $51,210 | +$45,413 | ✅ Ganada |
-| BrotherObama | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $48,000 | -$48,000 | ❌ Perdida |
