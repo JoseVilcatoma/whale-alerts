@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 02:58:45 (hora de Perú)
+Actualizado: 2026-10-15 03:00:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5174**  ($281,830,801 en total)
+- Apuestas registradas: **5175**  ($281,862,020 en total)
 - Resueltas: **5145** — 3151 ganadas / 1994 perdidas (**61%** de acierto)
-- Pendientes: 7
-- Apostadores distintos: 566
+- Pendientes: 8
+- Apostadores distintos: 567
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 
-_(mostrando los 40 de mayor monto, de 566 en total)_
+_(mostrando los 40 de mayor monto, de 567 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 2.27 (44¢) | $31,220 | — | ⏳ Pendiente |
 | yabanci | Will AFC Ajax win on 2026-10-15? | Yes | 1.75 (57¢) | $32,490 | — | ⏳ Pendiente |
 | yabanci | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.69 (59¢) | $33,597 | — | ⏳ Pendiente |
 | Velin217 | Nuggets vs. Clippers | Clippers | 1.11 (90¢) | $52,755 | +$5,862 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 566 en total)_
 | raybanman | Will Liverpool FC win on 2026-10-14? | No | 3.03 (33¢) | $299,298 | -$299,298 | ❌ Perdida |
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $33,654 | +$32,334 | ✅ Ganada |
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $27,556 | +$26,475 | ✅ Ganada |
-| optimusprime777879 | Will Como 1907 win on 2026-10-14? | Yes | 2.38 (42¢) | $54,600 | -$54,600 | ❌ Perdida |

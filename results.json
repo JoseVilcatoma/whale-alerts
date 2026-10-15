@@ -77774,5 +77774,20 @@
     "status": "pending",
     "ultimo_fill": 1792040757,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10543,
+    "timestamp": 1792051129,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "lol-we-bro2-2026-10-15",
+    "title": "LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 31219.830400000003,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1792051129,
+    "fills": 1
   }
 ]
