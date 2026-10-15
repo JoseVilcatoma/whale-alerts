@@ -78361,5 +78361,20 @@
     "status": "pending",
     "ultimo_fill": 1792094040,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10596,
+    "timestamp": 1792094167,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-c9-kc-2026-10-15",
+    "title": "LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 36820.5463,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1792094167,
+    "fills": 1
   }
 ]
