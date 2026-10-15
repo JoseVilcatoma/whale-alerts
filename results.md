@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 11:40:48 (hora de Perú)
+Actualizado: 2026-10-15 11:42:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5200**  ($284,168,642 en total)
+- Apuestas registradas: **5201**  ($284,260,091 en total)
 - Resueltas: **5154** — 3155 ganadas / 1999 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 567
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Will Sunderland AFC win on 2026-10-15? | Yes | 1.32 (76¢) | $91,449 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $33,548 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.75 (57¢) | $27,316 | — | ⏳ Pendiente |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $27,044 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | juice-fruit | Will FK Shakhtar Donetsk win on 2026-10-14? | No | 1.49 (67¢) | $36,647 | -$36,647 | ❌ Perdida |
 | nb1985 | Will Manchester City FC win on 2026-10-14? | Yes | 1.96 (51¢) | $90,000 | -$90,000 | ❌ Perdida |
 | mooseborzoii | Will Manchester City FC win on 2026-10-14? | No | 2.04 (49¢) | $45,000 | +$46,837 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: FURIA vs BetBoom Team (BO3) - Thunderpick World Championship Group B | FURIA | 1.41 (71¢) | $53,250 | +$21,750 | ✅ Ganada |
