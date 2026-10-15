@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 15:09:57 (hora de Perú)
+Actualizado: 2026-10-15 15:11:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5216**  ($284,981,515 en total)
-- Resueltas: **5158** — 3157 ganadas / 2001 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **5160** — 3159 ganadas / 2001 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$784,581** sobre $281,074,350 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,192** sobre $508,500 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$813,173** sobre $281,223,099 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,153** sobre $508,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,8 +78,8 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | S-Works | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $54,570 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Cloud9 | 2.04 (49¢) | $48,918 | — | ⏳ Pendiente |
-| 01258787xy48487484545122 | Santa Cruz 2: Guido Justo vs Juan Manuel La Serna | Juan Manuel La Serna | 1.18 (85¢) | $94,340 | — | ⏳ Pendiente |
-| tenniz | Santa Cruz 2: Guido Justo vs Juan Manuel La Serna | Juan Manuel La Serna | 1.22 (82¢) | $54,408 | — | ⏳ Pendiente |
+| 01258787xy48487484545122 | Santa Cruz 2: Guido Justo vs Juan Manuel La Serna | Juan Manuel La Serna | 1.18 (85¢) | $94,340 | +$16,648 | ✅ Ganada |
+| tenniz | Santa Cruz 2: Guido Justo vs Juan Manuel La Serna | Juan Manuel La Serna | 1.22 (82¢) | $54,408 | +$11,943 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ferencvárosi TC win on 2026-10-15? | No | 2.17 (46¢) | $27,974 | — | ⏳ Pendiente |
 | jonjones1993 | Will TSG 1899 Hoffenheim win on 2026-10-15? | No | 2.04 (49¢) | $25,283 | — | ⏳ Pendiente |
 | lsiflsliggjriek | Will TSG 1899 Hoffenheim win on 2026-10-15? | Yes | 1.85 (54¢) | $46,612 | — | ⏳ Pendiente |
