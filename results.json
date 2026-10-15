@@ -77981,11 +77981,11 @@
     "title": "Will Bayer 04 Leverkusen win on 2026-10-15?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 49000.0,
+    "usd": 614771.689,
     "odds_at_bet": 70,
     "status": "pending",
-    "ultimo_fill": 1792074170,
-    "fills": 1
+    "ultimo_fill": 1792074107,
+    "fills": 2
   },
   {
     "telegram_msg_id": 10562,
@@ -78056,11 +78056,11 @@
     "title": "Will Bayer 04 Leverkusen win on 2026-10-15?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 97300.0,
+    "usd": 250132.008,
     "odds_at_bet": 70,
     "status": "pending",
-    "ultimo_fill": 1792074858,
-    "fills": 2
+    "ultimo_fill": 1792074742,
+    "fills": 5
   },
   {
     "telegram_msg_id": 10568,
@@ -78090,6 +78090,21 @@
     "odds_at_bet": 70,
     "status": "pending",
     "ultimo_fill": 1792075121,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10572,
+    "timestamp": 1792075274,
+    "username": "joseph00677",
+    "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+    "slug": "uel-lep-lev-2026-10-15-lev",
+    "title": "Will Bayer 04 Leverkusen win on 2026-10-15?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 49000.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1792075274,
     "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 09:40:13 (hora de Perú)
+Actualizado: 2026-10-15 09:42:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5195**  ($283,213,744 en total)
+- Apuestas registradas: **5196**  ($283,981,348 en total)
 - Resueltas: **5150** — 3153 ganadas / 1997 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 567
 
 ### Balance
@@ -38,12 +38,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 57 | 29 | 2 | 66% | $4,253,368 | +$669,337 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
+| joseph00677 | 5 | 1 | 9 | ⚠️ 83% (6) | $3,711,944 | +$1,211,519 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | mooseborzoii | 43 | 24 | 2 | 64% | $3,472,596 | +$713,822 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| joseph00677 | 5 | 1 | 8 | ⚠️ 83% (6) | $2,944,340 | +$1,211,519 |
 | Kch-Temp | 34 | 10 | 1 | 77% | $2,943,503 | +$1,598,814 |
 | raybanman | 16 | 9 | 0 | 64% | $2,643,012 | +$654,807 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -73,11 +73,12 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 |---|---|---|---|---|---|---|
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | — | ⏳ Pendiente |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $97,300 | — | ⏳ Pendiente |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | — | ⏳ Pendiente |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $250,132 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.45 (69¢) | $48,300 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.45 (69¢) | $48,300 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bayer 04 Leverkusen win on 2026-10-15? | No | 3.23 (31¢) | $37,353 | — | ⏳ Pendiente |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | — | ⏳ Pendiente |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $614,772 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bayer 04 Leverkusen win on 2026-10-15? | No | 3.33 (30¢) | $150,000 | — | ⏳ Pendiente |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 1.85 (54¢) | $49,478 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $331,221 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | Yellow-Fever | Will Manchester City FC win on 2026-10-14? | No | 2.04 (49¢) | $25,587 | +$26,631 | ✅ Ganada |
 | jonjones1993 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $77,555 | -$77,555 | ❌ Perdida |
 | joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $210,842 | +$194,624 | ✅ Ganada |
-| raybanman | Will FK Bodø/Glimt win on 2026-10-14? | Yes | 2.78 (36¢) | $183,183 | +$325,659 | ✅ Ganada |
