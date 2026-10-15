@@ -78556,5 +78556,20 @@
     "status": "pending",
     "ultimo_fill": 1792104627,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10637,
+    "timestamp": 1792105643,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "lib-est-fla-2026-10-15-fla",
+    "title": "Will CR Flamengo win on 2026-10-15?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 28542.6034,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792105643,
+    "fills": 1
   }
 ]

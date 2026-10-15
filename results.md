@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 18:06:46 (hora de Perú)
+Actualizado: 2026-10-15 18:08:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5226**  ($285,338,009 en total)
+- Apuestas registradas: **5227**  ($285,366,552 en total)
 - Resueltas: **5182** — 3175 ganadas / 2007 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 567
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will CR Flamengo win on 2026-10-15? | No | 1.92 (52¢) | $28,543 | — | ⏳ Pendiente |
 | freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | FURIA Esports | 1.33 (75¢) | $36,418 | — | ⏳ Pendiente |
 | hurrican | Santa Cruz 2: Franco Roncadelli vs Juan Carlos Prado | Juan Carlos Prado | 1.16 (86¢) | $32,669 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.49 (67¢) | $33,494 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | Velin217 | Wuhan Tennis Open: Karolina Muchova vs Diana Shnaider | Diana Shnaider | 2.08 (48¢) | $27,792 | +$30,108 | ✅ Ganada |
 | www511zwin | Spread: Nuggets (-10.5) | Clippers | 2.00 (50¢) | $38,832 | +$38,832 | ✅ Ganada |
 | Velin217 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.08 (93¢) | $26,749 | +$2,013 | ✅ Ganada |
-| veliMax | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.08 (93¢) | $61,314 | +$4,615 | ✅ Ganada |
