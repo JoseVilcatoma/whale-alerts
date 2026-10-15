@@ -77714,5 +77714,20 @@
     "status": "pending",
     "ultimo_fill": 1792035174,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10531,
+    "timestamp": 1792036068,
+    "username": "ArielFilipino",
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "slug": "cfb-colst-txst-2026-10-15-total-69pt5",
+    "title": "Colorado State vs. Texas State: O/U 69.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 32000.022399999994,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792036068,
+    "fills": 1
   }
 ]

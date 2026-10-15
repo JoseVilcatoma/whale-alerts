@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 22:45:47 (hora de Perú)
+Actualizado: 2026-10-14 22:47:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5170**  ($281,679,959 en total)
+- Apuestas registradas: **5171**  ($281,711,959 en total)
 - Resueltas: **5137** — 3143 ganadas / 1994 perdidas (**61%** de acierto)
-- Pendientes: 11
-- Apostadores distintos: 565
+- Pendientes: 12
+- Apostadores distintos: 566
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 
-_(mostrando los 40 de mayor monto, de 565 en total)_
+_(mostrando los 40 de mayor monto, de 566 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArielFilipino | Colorado State vs. Texas State: O/U 69.5 | Under 69.5 | 1.96 (51¢) | $32,000 | — | ⏳ Pendiente |
 | Velin217 | Wuhan Tennis Open: Karolina Muchova vs Diana Shnaider | Diana Shnaider | 2.08 (48¢) | $27,792 | — | ⏳ Pendiente |
 | www511zwin | Spread: Nuggets (-10.5) | Clippers | 2.00 (50¢) | $38,832 | — | ⏳ Pendiente |
 | Velin217 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.08 (93¢) | $26,749 | +$2,013 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 | 0x361b…74fe | Will Paris Saint-Germain FC win on 2026-10-14? | No | 1.41 (71¢) | $35,252 | -$35,252 | ❌ Perdida |
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $26,166 | +$25,140 | ✅ Ganada |
 | Mastermoney | Manchester City FC vs. Paris Saint-Germain FC: O/U 2.5 | Over 2.5 | 1.39 (72¢) | $33,786 | +$13,139 | ✅ Ganada |
-| Bloodygoodrep1 | Will Como 1907 win on 2026-10-14? | Yes | 2.38 (42¢) | $34,317 | -$34,317 | ❌ Perdida |
