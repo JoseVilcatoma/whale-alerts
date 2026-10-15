@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 22:01:49 (hora de Perú)
+Actualizado: 2026-10-14 22:03:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5169**  ($281,652,167 en total)
-- Resueltas: **5123** — 3135 ganadas / 1988 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **5124** — 3136 ganadas / 1988 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 565
 
 ### Balance
 
-- **Resultado de los apostadores: +$755,692** sobre $279,710,280 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,248** sobre $505,100 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$781,093** sobre $279,738,923 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,159** sobre $505,200 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 | theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $37,772 | — | ⏳ Pendiente |
 | theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $30,577 | — | ⏳ Pendiente |
 | yabanci | Canadiens vs. Capitals | Capitals | 2.04 (49¢) | $52,430 | +$54,570 | ✅ Ganada |
-| theowalcott | Nashville SC vs. Sporting Kansas City: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $28,644 | — | ⏳ Pendiente |
+| theowalcott | Nashville SC vs. Sporting Kansas City: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $28,644 | +$25,401 | ✅ Ganada |
 | Elaran1993 | Columbus Crew vs. Charlotte FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $35,000 | -$35,000 | ❌ Perdida |
 | OhWhenTheReds | Will FC Cincinnati win on 2026-10-14? | No | 1.79 (56¢) | $41,463 | +$32,578 | ✅ Ganada |
 | OhWhenTheReds | Will FC Cincinnati win on 2026-10-14? | No | 1.85 (54¢) | $53,906 | +$45,920 | ✅ Ganada |
