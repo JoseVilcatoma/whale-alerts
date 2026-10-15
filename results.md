@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 15:55:09 (hora de Perú)
+Actualizado: 2026-10-15 15:57:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5218**  ($285,035,858 en total)
-- Resueltas: **5174** — 3171 ganadas / 2003 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **5175** — 3172 ganadas / 2003 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,362,603** sobre $283,081,539 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$3,783** sobre $510,100 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$1,391,482** sobre $283,172,988 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$3,751** sobre $510,200 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 1 Winner | Karmine Corp | 1.54 (65¢) | $116,829 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $26,386 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $76,500 | — | ⏳ Pendiente |
-| juice-fruit | Will Sunderland AFC win on 2026-10-15? | Yes | 1.32 (76¢) | $91,449 | — | ⏳ Pendiente |
+| juice-fruit | Will Sunderland AFC win on 2026-10-15? | Yes | 1.32 (76¢) | $91,449 | +$28,879 | ✅ Ganada |
 | Sassy-Bucket | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $33,548 | -$33,548 | ❌ Perdida |
 | S-Works | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.75 (57¢) | $27,316 | +$20,607 | ✅ Ganada |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $27,044 | -$27,044 | ❌ Perdida |
