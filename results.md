@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 14:57:41 (hora de Perú)
+Actualizado: 2026-10-15 14:59:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5214**  ($284,924,457 en total)
+- Apuestas registradas: **5215**  ($284,952,015 en total)
 - Resueltas: **5155** — 3156 ganadas / 1999 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 567
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.69 (59¢) | $27,558 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 2.70 (37¢) | $36,821 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.79 (56¢) | $30,226 | — | ⏳ Pendiente |
 | S-Works | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $54,570 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $30,577 | +$20,385 | ✅ Ganada |
 | yabanci | Canadiens vs. Capitals | Capitals | 2.04 (49¢) | $52,430 | +$54,570 | ✅ Ganada |
 | theowalcott | Nashville SC vs. Sporting Kansas City: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $28,644 | +$25,401 | ✅ Ganada |
-| Elaran1993 | Columbus Crew vs. Charlotte FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $35,000 | -$35,000 | ❌ Perdida |
