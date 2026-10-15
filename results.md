@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 18:21:22 (hora de Perú)
+Actualizado: 2026-10-15 18:23:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5227**  ($285,366,552 en total)
-- Resueltas: **5182** — 3175 ganadas / 2007 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **5186** — 3175 ganadas / 2011 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,175,506** sobre $283,591,479 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,884** sobre $510,900 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$1,059,821** sobre $283,707,163 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$4,284** sobre $511,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 369 | 196 | 7 | 65% | $35,781,094 | +$1,147,998 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 369 | 197 | 6 | 65% | $35,781,094 | +$1,118,498 |
 | Sassy-Bucket | 73 | 69 | 2 | 51% | $8,185,373 | -$527,388 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | Diabolical-Prize | 61 | 62 | 2 | 50% | $6,766,064 | -$428,472 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | ferrariChampions2026 | 83 | 44 | 0 | 65% | $5,175,496 | -$85,304 |
-| Lakersfan111 | 57 | 31 | 1 | 65% | $4,283,594 | +$520,455 |
+| Lakersfan111 | 57 | 32 | 0 | 64% | $4,283,594 | +$490,229 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
 | joseph00677 | 15 | 1 | 0 | 94% | $3,811,330 | +$1,907,835 |
@@ -81,11 +81,11 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | Sunshine.Smile | LoL: Cloud9 vs Karmine Corp - Game 4 Winner | Cloud9 | 2.17 (46¢) | $43,651 | — | ⏳ Pendiente |
 | ziyoucui | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 1.43 (70¢) | $33,313 | — | ⏳ Pendiente |
 | qiu3 | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | FURIA | 1.75 (57¢) | $25,943 | +$19,571 | ✅ Ganada |
-| Sunshine.Smile | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.52 (66¢) | $28,400 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| 3648393489047 | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.69 (59¢) | $27,558 | — | ⏳ Pendiente |
+| Sunshine.Smile | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.52 (66¢) | $28,400 | -$28,400 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
+| 3648393489047 | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.69 (59¢) | $27,558 | -$27,558 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 2.70 (37¢) | $36,821 | — | ⏳ Pendiente |
-| corkmaster420blaezit | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.79 (56¢) | $30,226 | — | ⏳ Pendiente |
+| corkmaster420blaezit | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.79 (56¢) | $30,226 | -$30,226 | ❌ Perdida |
 | S-Works | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $54,570 | +$52,430 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Cloud9 | 2.04 (49¢) | $48,918 | -$48,918 | ❌ Perdida |
