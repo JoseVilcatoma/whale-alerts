@@ -77651,7 +77651,7 @@
     "side": "BUY",
     "usd": 32465.2104,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792031990,
     "fills": 1
   },
@@ -77848,7 +77848,7 @@
     "side": "BUY",
     "usd": 31197.7344,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792057836,
     "fills": 1
   },
@@ -78075,6 +78075,21 @@
     "odds_at_bet": 70,
     "status": "pending",
     "ultimo_fill": 1792075001,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10569,
+    "timestamp": 1792075121,
+    "username": "joseph00677",
+    "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+    "slug": "uel-lep-lev-2026-10-15-lev",
+    "title": "Will Bayer 04 Leverkusen win on 2026-10-15?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 49000.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1792075121,
     "fills": 1
   }
 ]
