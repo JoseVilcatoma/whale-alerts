@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 20:14:52 (hora de Perú)
+Actualizado: 2026-10-14 20:16:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5164**  ($281,447,527 en total)
+- Apuestas registradas: **5165**  ($281,492,807 en total)
 - Resueltas: **5118** — 3132 ganadas / 1986 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 565
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Western Kentucky vs. Sam Houston | Western Kentucky | 1.39 (72¢) | $45,280 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Western Kentucky vs. Sam Houston | Western Kentucky | 1.23 (81¢) | $28,513 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Western Kentucky vs. Sam Houston | Western Kentucky | 1.23 (81¢) | $31,936 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.89 (53¢) | $81,561 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 | hurrican | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.16 (86¢) | $33,000 | +$5,372 | ✅ Ganada |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | +$22,214 | ✅ Ganada |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | +$18,421 | 💰 Vendida antes |
-| jonjones1993 | Will BV Borussia 09 Dortmund win on 2026-10-14? | No | 1.75 (57¢) | $44,117 | +$33,281 | ✅ Ganada |
