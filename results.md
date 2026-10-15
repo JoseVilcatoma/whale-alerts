@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 22:41:43 (hora de Perú)
+Actualizado: 2026-10-14 22:43:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5170**  ($281,679,959 en total)
-- Resueltas: **5136** — 3142 ganadas / 1994 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **5137** — 3143 ganadas / 1994 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 565
 
 ### Balance
 
-- **Resultado de los apostadores: +$733,782** sobre $280,329,277 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,298** sobre $506,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$779,021** sobre $280,362,036 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,160** sobre $506,500 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 57 | 29 | 0 | 66% | $4,104,486 | +$669,337 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| mooseborzoii | 42 | 24 | 2 | 64% | $3,423,118 | +$668,584 |
+| mooseborzoii | 43 | 24 | 1 | 64% | $3,423,118 | +$713,822 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
