@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 14:45:28 (hora de Perú)
+Actualizado: 2026-10-15 14:47:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5212**  ($284,857,410 en total)
-- Resueltas: **5154** — 3155 ganadas / 1999 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **5155** — 3156 ganadas / 1999 perdidas (**61%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$782,419** sobre $280,936,964 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,153** sobre $508,100 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$803,026** sobre $280,964,280 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,077** sobre $508,200 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $76,500 | — | ⏳ Pendiente |
 | juice-fruit | Will Sunderland AFC win on 2026-10-15? | Yes | 1.32 (76¢) | $91,449 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $33,548 | — | ⏳ Pendiente |
-| S-Works | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.75 (57¢) | $27,316 | — | ⏳ Pendiente |
+| S-Works | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.75 (57¢) | $27,316 | +$20,607 | ✅ Ganada |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $27,044 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,244 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $99,142 | — | ⏳ Pendiente |
