@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 17:16:39 (hora de Perú)
+Actualizado: 2026-10-15 17:18:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5223**  ($285,235,427 en total)
-- Resueltas: **5177** — 3172 ganadas / 2005 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Apuestas registradas: **5224**  ($285,268,922 en total)
+- Resueltas: **5180** — 3174 ganadas / 2006 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,242,163** sobre $283,322,307 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,951** sobre $510,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$1,270,175** sobre $283,451,295 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,859** sobre $510,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 196 | 8 | 65% | $35,781,094 | +$1,123,498 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 369 | 196 | 7 | 65% | $35,781,094 | +$1,147,998 |
 | Sassy-Bucket | 73 | 69 | 2 | 51% | $8,185,373 | -$527,388 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
-| Diabolical-Prize | 61 | 61 | 2 | 50% | $6,732,569 | -$379,554 |
+| Diabolical-Prize | 61 | 62 | 2 | 50% | $6,766,064 | -$428,472 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.49 (67¢) | $33,494 | — | ⏳ Pendiente |
 | Netrol | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 2.86 (35¢) | $26,287 | — | ⏳ Pendiente |
 | Sunshine.Smile | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.61 (62¢) | $67,981 | — | ⏳ Pendiente |
 | qiu3 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.69 (59¢) | $28,337 | — | ⏳ Pendiente |
@@ -82,9 +83,9 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | 3648393489047 | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.69 (59¢) | $27,558 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 2.70 (37¢) | $36,821 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.79 (56¢) | $30,226 | — | ⏳ Pendiente |
-| S-Works | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $54,570 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Cloud9 | 2.04 (49¢) | $48,918 | — | ⏳ Pendiente |
+| S-Works | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $54,570 | +$52,430 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
+| Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Cloud9 | 2.04 (49¢) | $48,918 | -$48,918 | ❌ Perdida |
 | 01258787xy48487484545122 | Santa Cruz 2: Guido Justo vs Juan Manuel La Serna | Juan Manuel La Serna | 1.18 (85¢) | $94,340 | +$16,648 | ✅ Ganada |
 | tenniz | Santa Cruz 2: Guido Justo vs Juan Manuel La Serna | Juan Manuel La Serna | 1.22 (82¢) | $54,408 | +$11,943 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ferencvárosi TC win on 2026-10-15? | No | 2.17 (46¢) | $27,974 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | veliMax | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.08 (93¢) | $61,314 | +$4,615 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.79 (56¢) | $32,465 | -$32,465 | ❌ Perdida |
 | KaneAnalytics | Western Kentucky vs. Sam Houston | Western Kentucky | 1.39 (72¢) | $45,280 | +$17,609 | ✅ Ganada |
-| TAIWANNUMBERONE | Western Kentucky vs. Sam Houston | Western Kentucky | 1.23 (81¢) | $28,513 | +$6,688 | ✅ Ganada |
