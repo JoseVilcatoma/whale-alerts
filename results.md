@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 10:00:38 (hora de Perú)
+Actualizado: 2026-10-15 10:02:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5197**  ($284,080,734 en total)
-- Resueltas: **5150** — 3153 ganadas / 1997 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **5151** — 3154 ganadas / 1997 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$851,095** sobre $280,791,741 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,006** sobre $507,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$855,911** sobre $280,819,028 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,988** sobre $507,800 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | corkmaster420blaezit | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | Legacy | 2.38 (42¢) | $114,241 | — | ⏳ Pendiente |
 | 3648393489047 | Wuhan Tennis Open: Ashlyn Krueger vs Iga Swiatek | Iga Swiatek | 1.14 (88¢) | $26,697 | +$3,641 | ✅ Ganada |
 | Anjun | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.35 (74¢) | $32,889 | — | ⏳ Pendiente |
-| hurrican | Counter-Strike: 9z vs Team Falcons (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.18 (85¢) | $27,287 | — | ⏳ Pendiente |
+| hurrican | Counter-Strike: 9z vs Team Falcons (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.18 (85¢) | $27,287 | +$4,815 | ✅ Ganada |
 | Pjosully | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.61 (62¢) | $27,933 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.79 (56¢) | $31,198 | -$31,198 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $50,406 | — | ⏳ Pendiente |
