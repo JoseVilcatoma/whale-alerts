@@ -78541,5 +78541,20 @@
     "status": "pending",
     "ultimo_fill": 1792104757,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10636,
+    "timestamp": 1792104627,
+    "username": "hurrican",
+    "wallet": "0x8718865882e085b764825b637788043c16185040",
+    "slug": "atp-roncade-prado-2026-10-14",
+    "title": "Santa Cruz 2: Franco Roncadelli vs Juan Carlos Prado",
+    "outcome": "Juan Carlos Prado",
+    "side": "BUY",
+    "usd": 32669.442401234657,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1792104627,
+    "fills": 1
   }
 ]
