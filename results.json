@@ -78121,5 +78121,20 @@
     "status": "pending",
     "ultimo_fill": 1792075497,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10575,
+    "timestamp": 1792077554,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "mlb-tb-cle-2026-10-15-total-6pt5",
+    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 27044.0811,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792077554,
+    "fills": 1
   }
 ]
