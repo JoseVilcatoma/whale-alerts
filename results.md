@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 13:05:20 (hora de Perú)
+Actualizado: 2026-10-15 13:07:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5202**  ($284,336,591 en total)
+- Apuestas registradas: **5203**  ($284,362,977 en total)
 - Resueltas: **5154** — 3155 ganadas / 1999 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 567
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 194 | 5 | 65% | $35,634,914 | +$1,310,852 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 194 | 6 | 65% | $35,661,300 | +$1,310,852 |
 | Sassy-Bucket | 73 | 68 | 3 | 52% | $8,185,373 | -$493,840 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $26,386 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $76,500 | — | ⏳ Pendiente |
 | juice-fruit | Will Sunderland AFC win on 2026-10-15? | Yes | 1.32 (76¢) | $91,449 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $33,548 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | corkmaster420blaezit | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.56 (39¢) | $96,111 | +$150,327 | ✅ Ganada |
 | hurrican | Counter-Strike: FURIA vs BetBoom Team (BO3) - Thunderpick World Championship Group B | FURIA | 1.39 (72¢) | $31,000 | +$12,056 | ✅ Ganada |
 | juice-fruit | Will FK Shakhtar Donetsk win on 2026-10-14? | No | 1.49 (67¢) | $36,647 | -$36,647 | ❌ Perdida |
-| nb1985 | Will Manchester City FC win on 2026-10-14? | Yes | 1.96 (51¢) | $90,000 | -$90,000 | ❌ Perdida |
