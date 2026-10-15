@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 17:14:37 (hora de Perú)
+Actualizado: 2026-10-15 17:16:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5221**  ($285,141,159 en total)
+- Apuestas registradas: **5223**  ($285,235,427 en total)
 - Resueltas: **5177** — 3172 ganadas / 2005 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 24
 - Apostadores distintos: 567
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Netrol | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 2.86 (35¢) | $26,287 | — | ⏳ Pendiente |
+| Sunshine.Smile | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.61 (62¢) | $67,981 | — | ⏳ Pendiente |
 | qiu3 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.69 (59¢) | $28,337 | — | ⏳ Pendiente |
 | Sunshine.Smile | LoL: Cloud9 vs Karmine Corp - Game 4 Winner | Cloud9 | 2.17 (46¢) | $43,651 | — | ⏳ Pendiente |
 | ziyoucui | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 1.43 (70¢) | $33,313 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | lllllllIlll | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.79 (56¢) | $32,465 | -$32,465 | ❌ Perdida |
 | KaneAnalytics | Western Kentucky vs. Sam Houston | Western Kentucky | 1.39 (72¢) | $45,280 | +$17,609 | ✅ Ganada |
 | TAIWANNUMBERONE | Western Kentucky vs. Sam Houston | Western Kentucky | 1.23 (81¢) | $28,513 | +$6,688 | ✅ Ganada |
-| TAIWANNUMBERONE | Western Kentucky vs. Sam Houston | Western Kentucky | 1.23 (81¢) | $31,936 | +$7,491 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.89 (53¢) | $81,561 | -$81,561 | ❌ Perdida |
