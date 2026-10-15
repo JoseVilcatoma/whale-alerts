@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 08:31:59 (hora de Perú)
+Actualizado: 2026-10-15 08:34:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5184**  ($282,234,345 en total)
-- Resueltas: **5147** — 3152 ganadas / 1995 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **5148** — 3153 ganadas / 1995 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$911,118** sobre $280,701,381 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,819** sobre $507,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$914,758** sobre $280,728,078 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,806** sobre $507,500 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | corkmaster420blaezit | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | Legacy | 2.38 (42¢) | $114,241 | — | ⏳ Pendiente |
-| 3648393489047 | Wuhan Tennis Open: Ashlyn Krueger vs Iga Swiatek | Iga Swiatek | 1.14 (88¢) | $26,697 | — | ⏳ Pendiente |
+| 3648393489047 | Wuhan Tennis Open: Ashlyn Krueger vs Iga Swiatek | Iga Swiatek | 1.14 (88¢) | $26,697 | +$3,641 | ✅ Ganada |
 | Anjun | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.35 (74¢) | $32,889 | — | ⏳ Pendiente |
 | hurrican | Counter-Strike: 9z vs Team Falcons (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.18 (85¢) | $27,287 | — | ⏳ Pendiente |
 | Pjosully | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.61 (62¢) | $27,933 | — | ⏳ Pendiente |
