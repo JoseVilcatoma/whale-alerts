@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 09:24:06 (hora de Perú)
+Actualizado: 2026-10-15 09:26:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5188**  ($282,553,270 en total)
+- Apuestas registradas: **5191**  ($282,970,144 en total)
 - Resueltas: **5148** — 3153 ganadas / 1995 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 21
 - Apostadores distintos: 567
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 193 | 5 | 66% | $35,597,561 | +$1,361,258 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 193 | 6 | 66% | $35,634,914 | +$1,361,258 |
 | Sassy-Bucket | 73 | 68 | 2 | 52% | $8,151,825 | -$493,840 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -44,12 +44,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 34 | 10 | 1 | 77% | $2,943,503 | +$1,598,814 |
+| joseph00677 | 5 | 1 | 4 | ⚠️ 83% (6) | $2,700,740 | +$1,211,519 |
 | raybanman | 16 | 9 | 0 | 64% | $2,643,012 | +$654,807 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | cosmicxbt | 16 | 7 | 0 | 70% | $2,406,992 | -$359,317 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
-| joseph00677 | 5 | 1 | 2 | ⚠️ 83% (6) | $2,321,219 | +$1,211,519 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0F62 | 29 | 4 | 0 | 88% | $2,222,414 | +$46,831 |
@@ -71,9 +71,12 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.45 (69¢) | $48,300 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bayer 04 Leverkusen win on 2026-10-15? | No | 3.23 (31¢) | $37,353 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bayer 04 Leverkusen win on 2026-10-15? | No | 3.33 (30¢) | $150,000 | — | ⏳ Pendiente |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 1.85 (54¢) | $49,478 | — | ⏳ Pendiente |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $331,221 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.49 (67¢) | $70,447 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | Legacy | 2.38 (42¢) | $114,241 | — | ⏳ Pendiente |
 | 3648393489047 | Wuhan Tennis Open: Ashlyn Krueger vs Iga Swiatek | Iga Swiatek | 1.14 (88¢) | $26,697 | +$3,641 | ✅ Ganada |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | Bloodygoodrep1 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $49,000 | -$49,000 | ❌ Perdida |
 | mooseborzoii | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $33,016 | -$33,016 | ❌ Perdida |
 | joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 2.00 (50¢) | $89,000 | +$89,000 | ✅ Ganada |
-| Elaran1993 | Queens Park Rangers FC vs. Derby County FC: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $28,560 | +$27,440 | ✅ Ganada |
-| Jsram | Will Manchester City FC win on 2026-10-14? | No | 1.96 (51¢) | $44,745 | +$42,990 | ✅ Ganada |
-| crisp1973 | FK Bodø/Glimt vs. BV Borussia 09 Dortmund: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $27,636 | -$27,636 | ❌ Perdida |
