@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 00:38:56 (hora de Perú)
+Actualizado: 2026-10-15 00:41:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5174**  ($281,830,801 en total)
-- Resueltas: **5144** — 3150 ganadas / 1994 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **5145** — 3151 ganadas / 1994 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 566
 
 ### Balance
 
-- **Resultado de los apostadores: +$893,852** sobre $280,615,336 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,828** sobre $507,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$923,960** sobre $280,643,128 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,719** sobre $507,300 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 566 en total)_
 | yabanci | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.69 (59¢) | $33,597 | — | ⏳ Pendiente |
 | Velin217 | Nuggets vs. Clippers | Clippers | 1.11 (90¢) | $52,755 | +$5,862 | ✅ Ganada |
 | ArielFilipino | Colorado State vs. Texas State: O/U 69.5 | Under 69.5 | 1.96 (51¢) | $32,000 | — | ⏳ Pendiente |
-| Velin217 | Wuhan Tennis Open: Karolina Muchova vs Diana Shnaider | Diana Shnaider | 2.08 (48¢) | $27,792 | — | ⏳ Pendiente |
+| Velin217 | Wuhan Tennis Open: Karolina Muchova vs Diana Shnaider | Diana Shnaider | 2.08 (48¢) | $27,792 | +$30,108 | ✅ Ganada |
 | www511zwin | Spread: Nuggets (-10.5) | Clippers | 2.00 (50¢) | $38,832 | +$38,832 | ✅ Ganada |
 | Velin217 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.08 (93¢) | $26,749 | +$2,013 | ✅ Ganada |
 | veliMax | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.08 (93¢) | $61,314 | +$4,615 | ✅ Ganada |
