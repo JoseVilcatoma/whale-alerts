@@ -77684,5 +77684,20 @@
     "status": "pending",
     "ultimo_fill": 1792032126,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10515,
+    "timestamp": 1792033069,
+    "username": "www511zwin",
+    "wallet": "0x93683d55f0ea67212bc179e9802f00e271c9f390",
+    "slug": "nba-den-lac-2026-10-14-spread-away-10pt5",
+    "title": "Spread: Nuggets (-10.5)",
+    "outcome": "Clippers",
+    "side": "BUY",
+    "usd": 38832.285,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792033069,
+    "fills": 1
   }
 ]
