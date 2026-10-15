@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 04:49:28 (hora de Perú)
+Actualizado: 2026-10-15 04:51:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5178**  ($281,974,101 en total)
+- Apuestas registradas: **5179**  ($282,005,299 en total)
 - Resueltas: **5146** — 3152 ganadas / 1994 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 567
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.79 (56¢) | $31,198 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $50,406 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $34,641 | — | ⏳ Pendiente |
 | 3648393489047 | Mallorca: Andrea Lazaro Garcia vs Nuria Brancaccio | Nuria Brancaccio | 1.61 (62¢) | $27,033 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Liverpool FC (-1.5) | Liverpool FC | 2.38 (42¢) | $34,148 | +$47,157 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Liverpool FC win on 2026-10-14? | Yes | 1.49 (67¢) | $201,000 | +$99,000 | ✅ Ganada |
 | raybanman | Spread: Liverpool FC (-1.5) | LASK Linz | 1.72 (58¢) | $47,470 | -$47,470 | ❌ Perdida |
-| AnonymousUsername | Will LASK Linz win on 2026-10-14? | No | 1.15 (87¢) | $35,182 | +$5,257 | ✅ Ganada |
