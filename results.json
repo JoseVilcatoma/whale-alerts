@@ -78271,5 +78271,35 @@
     "status": "pending",
     "ultimo_fill": 1792090786,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10589,
+    "timestamp": 1792091086,
+    "username": "01258787xy48487484545122",
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "slug": "atp-justo-serna-2026-10-14",
+    "title": "Santa Cruz 2: Guido Justo vs Juan Manuel La Serna",
+    "outcome": "Juan Manuel La Serna",
+    "side": "BUY",
+    "usd": 94340.4823,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1792091094,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 10590,
+    "timestamp": 1792091086,
+    "username": "tenniz",
+    "wallet": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
+    "slug": "atp-justo-serna-2026-10-14",
+    "title": "Santa Cruz 2: Guido Justo vs Juan Manuel La Serna",
+    "outcome": "Juan Manuel La Serna",
+    "side": "BUY",
+    "usd": 54407.733499999995,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1792091086,
+    "fills": 1
   }
 ]
