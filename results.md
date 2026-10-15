@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 06:32:30 (hora de Perú)
+Actualizado: 2026-10-15 06:34:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5180**  ($282,033,232 en total)
-- Resueltas: **5146** — 3152 ganadas / 1994 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **5147** — 3152 ganadas / 1995 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$938,151** sobre $280,674,348 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,719** sobre $507,300 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$911,118** sobre $280,701,381 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,819** sobre $507,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | lllllllIlll | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.79 (56¢) | $31,198 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $50,406 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $34,641 | — | ⏳ Pendiente |
-| 3648393489047 | Mallorca: Andrea Lazaro Garcia vs Nuria Brancaccio | Nuria Brancaccio | 1.61 (62¢) | $27,033 | — | ⏳ Pendiente |
+| 3648393489047 | Mallorca: Andrea Lazaro Garcia vs Nuria Brancaccio | Nuria Brancaccio | 1.61 (62¢) | $27,033 | -$27,033 | ❌ Perdida |
 | Woaifacai | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 2.27 (44¢) | $31,220 | +$14,191 | 💰 Vendida antes |
 | yabanci | Will AFC Ajax win on 2026-10-15? | Yes | 1.75 (57¢) | $32,490 | — | ⏳ Pendiente |
 | yabanci | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.69 (59¢) | $33,597 | — | ⏳ Pendiente |
