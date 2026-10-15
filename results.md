@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 19:08:49 (hora de Perú)
+Actualizado: 2026-10-14 19:10:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5159**  ($281,244,245 en total)
+- Apuestas registradas: **5160**  ($281,278,564 en total)
 - Resueltas: **5118** — 3132 ganadas / 1986 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 565
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.56 (39¢) | $34,319 | — | ⏳ Pendiente |
 | theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $37,772 | — | ⏳ Pendiente |
 | theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $30,577 | — | ⏳ Pendiente |
 | yabanci | Canadiens vs. Capitals | Capitals | 2.04 (49¢) | $52,430 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 | monkeymashingkeyboard | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $36,600 | — | ⏳ Pendiente |
 | mooseborzoii | Stars vs. Avalanche | Stars | 2.38 (42¢) | $32,759 | — | ⏳ Pendiente |
 | csgostar | Wuhan Tennis Open: Aryna Sabalenka vs Ann Li | Ann Li | 1.18 (85¢) | $136,762 | +$24,135 | ✅ Ganada |
-| Yellow-Fever | Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.37 (73¢) | $28,578 | +$10,570 | ✅ Ganada |

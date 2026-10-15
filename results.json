@@ -77549,5 +77549,20 @@
     "status": "pending",
     "ultimo_fill": 1792022336,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10500,
+    "timestamp": 1792022962,
+    "username": "0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274",
+    "wallet": "0xfc0847fe2ea938d6e2624650eb29ef8d8142a137",
+    "slug": "mlb-mil-lad-2026-10-14",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 34319.2766,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1792022962,
+    "fills": 1
   }
 ]
