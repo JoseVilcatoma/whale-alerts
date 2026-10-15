@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 10:45:42 (hora de Perú)
+Actualizado: 2026-10-15 10:47:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5198**  ($284,107,778 en total)
-- Resueltas: **5151** — 3154 ganadas / 1997 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **5154** — 3155 ganadas / 1999 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$855,911** sobre $280,819,028 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,988** sobre $507,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$782,419** sobre $280,936,964 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,153** sobre $508,100 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 193 | 6 | 66% | $35,634,914 | +$1,361,258 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 194 | 5 | 65% | $35,634,914 | +$1,310,852 |
 | Sassy-Bucket | 73 | 68 | 2 | 52% | $8,151,825 | -$493,840 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | ferrariChampions2026 | 83 | 44 | 0 | 65% | $5,175,496 | -$85,304 |
-| Lakersfan111 | 57 | 29 | 2 | 66% | $4,253,368 | +$669,337 |
+| Lakersfan111 | 57 | 30 | 1 | 66% | $4,253,368 | +$634,696 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
 | joseph00677 | 5 | 1 | 10 | ⚠️ 83% (6) | $3,811,330 | +$1,211,519 |
@@ -87,12 +87,12 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.49 (67¢) | $70,447 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | Legacy | 2.38 (42¢) | $114,241 | — | ⏳ Pendiente |
 | 3648393489047 | Wuhan Tennis Open: Ashlyn Krueger vs Iga Swiatek | Iga Swiatek | 1.14 (88¢) | $26,697 | +$3,641 | ✅ Ganada |
-| Anjun | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.35 (74¢) | $32,889 | — | ⏳ Pendiente |
+| Anjun | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.35 (74¢) | $32,889 | +$11,555 | ✅ Ganada |
 | hurrican | Counter-Strike: 9z vs Team Falcons (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.18 (85¢) | $27,287 | +$4,815 | ✅ Ganada |
 | Pjosully | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.61 (62¢) | $27,933 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.79 (56¢) | $31,198 | -$31,198 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $50,406 | — | ⏳ Pendiente |
-| corkmaster420blaezit | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $34,641 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $50,406 | -$50,406 | ❌ Perdida |
+| corkmaster420blaezit | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $34,641 | -$34,641 | ❌ Perdida |
 | 3648393489047 | Mallorca: Andrea Lazaro Garcia vs Nuria Brancaccio | Nuria Brancaccio | 1.61 (62¢) | $27,033 | -$27,033 | ❌ Perdida |
 | Woaifacai | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 2.27 (44¢) | $31,220 | +$14,191 | 💰 Vendida antes |
 | yabanci | Will AFC Ajax win on 2026-10-15? | Yes | 1.75 (57¢) | $32,490 | — | ⏳ Pendiente |
