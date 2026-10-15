@@ -77594,5 +77594,20 @@
     "status": "pending",
     "ultimo_fill": 1792024605,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10503,
+    "timestamp": 1792025932,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "cfb-wkent-smho-2026-10-14",
+    "title": "Western Kentucky vs. Sam Houston",
+    "outcome": "Western Kentucky",
+    "side": "BUY",
+    "usd": 31935.797100000003,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1792025932,
+    "fills": 1
   }
 ]
