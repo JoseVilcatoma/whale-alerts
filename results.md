@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 15:01:48 (hora de Perú)
+Actualizado: 2026-10-15 15:03:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5216**  ($284,981,515 en total)
-- Resueltas: **5155** — 3156 ganadas / 1999 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Resueltas: **5158** — 3157 ganadas / 2001 perdidas (**61%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$803,026** sobre $280,964,280 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,077** sobre $508,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$784,581** sobre $281,074,350 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,192** sobre $508,500 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 194 | 10 | 65% | $35,781,094 | +$1,310,852 |
-| Sassy-Bucket | 73 | 68 | 3 | 52% | $8,185,373 | -$493,840 |
+| Sassy-Bucket | 73 | 69 | 2 | 51% | $8,185,373 | -$527,388 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | Diabolical-Prize | 61 | 60 | 3 | 50% | $6,732,569 | -$262,725 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
 | joseph00677 | 5 | 1 | 10 | ⚠️ 83% (6) | $3,811,330 | +$1,211,519 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| mooseborzoii | 43 | 24 | 3 | 64% | $3,499,640 | +$713,822 |
+| mooseborzoii | 44 | 25 | 1 | 64% | $3,499,640 | +$728,926 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -87,9 +87,9 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $26,386 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $76,500 | — | ⏳ Pendiente |
 | juice-fruit | Will Sunderland AFC win on 2026-10-15? | Yes | 1.32 (76¢) | $91,449 | — | ⏳ Pendiente |
-| Sassy-Bucket | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $33,548 | — | ⏳ Pendiente |
+| Sassy-Bucket | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $33,548 | -$33,548 | ❌ Perdida |
 | S-Works | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.75 (57¢) | $27,316 | +$20,607 | ✅ Ganada |
-| mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $27,044 | — | ⏳ Pendiente |
+| mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $27,044 | -$27,044 | ❌ Perdida |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,244 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $99,142 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | — | ⏳ Pendiente |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bayer 04 Leverkusen win on 2026-10-15? | No | 3.23 (31¢) | $37,353 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $614,772 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bayer 04 Leverkusen win on 2026-10-15? | No | 3.33 (30¢) | $150,000 | — | ⏳ Pendiente |
-| mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 1.85 (54¢) | $49,478 | — | ⏳ Pendiente |
+| mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 1.85 (54¢) | $49,478 | +$42,148 | ✅ Ganada |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $331,221 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.49 (67¢) | $70,447 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | Legacy | 2.38 (42¢) | $114,241 | — | ⏳ Pendiente |
