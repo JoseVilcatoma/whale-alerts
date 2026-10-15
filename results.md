@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 15:51:05 (hora de Perú)
+Actualizado: 2026-10-15 15:53:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5218**  ($285,035,858 en total)
-- Resueltas: **5160** — 3159 ganadas / 2001 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **5174** — 3171 ganadas / 2003 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$813,173** sobre $281,223,099 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,153** sobre $508,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$1,362,603** sobre $283,081,539 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$3,783** sobre $510,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 194 | 10 | 65% | $35,781,094 | +$1,310,852 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 196 | 8 | 65% | $35,781,094 | +$1,123,498 |
 | Sassy-Bucket | 73 | 69 | 2 | 51% | $8,185,373 | -$527,388 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | Diabolical-Prize | 61 | 60 | 3 | 50% | $6,732,569 | -$262,725 |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 57 | 30 | 2 | 66% | $4,283,594 | +$634,696 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
-| joseph00677 | 5 | 1 | 10 | ⚠️ 83% (6) | $3,811,330 | +$1,211,519 |
+| joseph00677 | 15 | 1 | 0 | 94% | $3,811,330 | +$1,907,835 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | mooseborzoii | 44 | 25 | 1 | 64% | $3,499,640 | +$728,926 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
@@ -92,31 +92,31 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | Sassy-Bucket | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $33,548 | -$33,548 | ❌ Perdida |
 | S-Works | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.75 (57¢) | $27,316 | +$20,607 | ✅ Ganada |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $27,044 | -$27,044 | ❌ Perdida |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,244 | — | ⏳ Pendiente |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $99,142 | — | ⏳ Pendiente |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | — | ⏳ Pendiente |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | — | ⏳ Pendiente |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $250,132 | — | ⏳ Pendiente |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.45 (69¢) | $48,300 | — | ⏳ Pendiente |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.45 (69¢) | $48,300 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bayer 04 Leverkusen win on 2026-10-15? | No | 3.23 (31¢) | $37,353 | — | ⏳ Pendiente |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $614,772 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bayer 04 Leverkusen win on 2026-10-15? | No | 3.33 (30¢) | $150,000 | — | ⏳ Pendiente |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,244 | +$21,104 | ✅ Ganada |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $99,142 | +$42,490 | ✅ Ganada |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | +$21,000 | ✅ Ganada |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | +$21,000 | ✅ Ganada |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $250,132 | +$107,199 | ✅ Ganada |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.45 (69¢) | $48,300 | +$21,700 | ✅ Ganada |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.45 (69¢) | $48,300 | +$21,700 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bayer 04 Leverkusen win on 2026-10-15? | No | 3.23 (31¢) | $37,353 | -$37,353 | ❌ Perdida |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $614,772 | +$263,474 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bayer 04 Leverkusen win on 2026-10-15? | No | 3.33 (30¢) | $150,000 | -$150,000 | ❌ Perdida |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 1.85 (54¢) | $49,478 | +$42,148 | ✅ Ganada |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $331,221 | — | ⏳ Pendiente |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.49 (67¢) | $70,447 | — | ⏳ Pendiente |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $331,221 | +$141,952 | ✅ Ganada |
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.49 (67¢) | $70,447 | +$34,698 | ✅ Ganada |
 | corkmaster420blaezit | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | Legacy | 2.38 (42¢) | $114,241 | — | ⏳ Pendiente |
 | 3648393489047 | Wuhan Tennis Open: Ashlyn Krueger vs Iga Swiatek | Iga Swiatek | 1.14 (88¢) | $26,697 | +$3,641 | ✅ Ganada |
 | Anjun | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.35 (74¢) | $32,889 | +$11,555 | ✅ Ganada |
 | hurrican | Counter-Strike: 9z vs Team Falcons (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.18 (85¢) | $27,287 | +$4,815 | ✅ Ganada |
-| Pjosully | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.61 (62¢) | $27,933 | — | ⏳ Pendiente |
+| Pjosully | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.61 (62¢) | $27,933 | +$17,120 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.79 (56¢) | $31,198 | -$31,198 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $50,406 | -$50,406 | ❌ Perdida |
 | corkmaster420blaezit | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $34,641 | -$34,641 | ❌ Perdida |
 | 3648393489047 | Mallorca: Andrea Lazaro Garcia vs Nuria Brancaccio | Nuria Brancaccio | 1.61 (62¢) | $27,033 | -$27,033 | ❌ Perdida |
 | Woaifacai | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 2.27 (44¢) | $31,220 | +$14,191 | 💰 Vendida antes |
 | yabanci | Will AFC Ajax win on 2026-10-15? | Yes | 1.75 (57¢) | $32,490 | — | ⏳ Pendiente |
-| yabanci | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.69 (59¢) | $33,597 | — | ⏳ Pendiente |
+| yabanci | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.69 (59¢) | $33,597 | +$23,347 | ✅ Ganada |
 | Velin217 | Nuggets vs. Clippers | Clippers | 1.11 (90¢) | $52,755 | +$5,862 | ✅ Ganada |
 | ArielFilipino | Colorado State vs. Texas State: O/U 69.5 | Under 69.5 | 1.96 (51¢) | $32,000 | — | ⏳ Pendiente |
 | Velin217 | Wuhan Tennis Open: Karolina Muchova vs Diana Shnaider | Diana Shnaider | 2.08 (48¢) | $27,792 | +$30,108 | ✅ Ganada |
