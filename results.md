@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 16:42:09 (hora de Perú)
+Actualizado: 2026-10-15 16:44:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5220**  ($285,112,822 en total)
-- Resueltas: **5176** — 3172 ganadas / 2004 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **5177** — 3172 ganadas / 2005 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,358,992** sobre $283,205,478 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$3,851** sobre $510,300 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$1,242,163** sobre $283,322,307 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,951** sobre $510,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 196 | 8 | 65% | $35,781,094 | +$1,123,498 |
 | Sassy-Bucket | 73 | 69 | 2 | 51% | $8,185,373 | -$527,388 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
-| Diabolical-Prize | 61 | 60 | 3 | 50% | $6,732,569 | -$262,725 |
+| Diabolical-Prize | 61 | 61 | 2 | 50% | $6,732,569 | -$379,554 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ferencvárosi TC win on 2026-10-15? | No | 2.17 (46¢) | $27,974 | — | ⏳ Pendiente |
 | jonjones1993 | Will TSG 1899 Hoffenheim win on 2026-10-15? | No | 2.04 (49¢) | $25,283 | — | ⏳ Pendiente |
 | lsiflsliggjriek | Will TSG 1899 Hoffenheim win on 2026-10-15? | Yes | 1.85 (54¢) | $46,612 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 1 Winner | Karmine Corp | 1.54 (65¢) | $116,829 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 1 Winner | Karmine Corp | 1.54 (65¢) | $116,829 | -$116,829 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $26,386 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $76,500 | — | ⏳ Pendiente |
 | juice-fruit | Will Sunderland AFC win on 2026-10-15? | Yes | 1.32 (76¢) | $91,449 | +$28,879 | ✅ Ganada |
