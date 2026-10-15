@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 03:15:14 (hora de Perú)
+Actualizado: 2026-10-15 03:17:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5175**  ($281,862,020 en total)
+- Apuestas registradas: **5176**  ($281,889,054 en total)
 - Resueltas: **5145** — 3151 ganadas / 1994 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 567
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | Mallorca: Andrea Lazaro Garcia vs Nuria Brancaccio | Nuria Brancaccio | 1.61 (62¢) | $27,033 | — | ⏳ Pendiente |
 | Woaifacai | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 2.27 (44¢) | $31,220 | — | ⏳ Pendiente |
 | yabanci | Will AFC Ajax win on 2026-10-15? | Yes | 1.75 (57¢) | $32,490 | — | ⏳ Pendiente |
 | yabanci | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.69 (59¢) | $33,597 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | AnonymousUsername | Will LASK Linz win on 2026-10-14? | No | 1.15 (87¢) | $35,182 | +$5,257 | ✅ Ganada |
 | raybanman | Will Liverpool FC win on 2026-10-14? | No | 3.03 (33¢) | $299,298 | -$299,298 | ❌ Perdida |
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $33,654 | +$32,334 | ✅ Ganada |
-| 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $27,556 | +$26,475 | ✅ Ganada |
