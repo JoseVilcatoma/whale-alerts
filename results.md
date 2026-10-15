@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 22:31:06 (hora de Perú)
+Actualizado: 2026-10-14 22:33:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5169**  ($281,652,167 en total)
+- Apuestas registradas: **5170**  ($281,679,959 en total)
 - Resueltas: **5126** — 3138 ganadas / 1988 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 565
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Velin217 | Wuhan Tennis Open: Karolina Muchova vs Diana Shnaider | Diana Shnaider | 2.08 (48¢) | $27,792 | — | ⏳ Pendiente |
 | www511zwin | Spread: Nuggets (-10.5) | Clippers | 2.00 (50¢) | $38,832 | — | ⏳ Pendiente |
 | Velin217 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.08 (93¢) | $26,749 | — | ⏳ Pendiente |
 | veliMax | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.08 (93¢) | $61,314 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 | 0x361b…74fe | Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $26,166 | +$25,140 | ✅ Ganada |
 | Mastermoney | Manchester City FC vs. Paris Saint-Germain FC: O/U 2.5 | Over 2.5 | 1.39 (72¢) | $33,786 | +$13,139 | ✅ Ganada |
 | Bloodygoodrep1 | Will Como 1907 win on 2026-10-14? | Yes | 2.38 (42¢) | $34,317 | -$34,317 | ❌ Perdida |
-| nb1985 | Spread: Liverpool FC (-1.5) | LASK Linz | 1.75 (57¢) | $100,000 | -$100,000 | ❌ Perdida |
