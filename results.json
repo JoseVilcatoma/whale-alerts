@@ -78526,5 +78526,20 @@
     "status": "pending",
     "ultimo_fill": 1792102612,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10635,
+    "timestamp": 1792104757,
+    "username": "freeman123",
+    "wallet": "0xb70c4f38ce25d986a9da3f3190cbae87660934ca",
+    "slug": "lol-fur-mvk-2026-10-15",
+    "title": "LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In",
+    "outcome": "FURIA Esports",
+    "side": "BUY",
+    "usd": 36417.87,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1792104757,
+    "fills": 1
   }
 ]
