@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 18:44:20 (hora de Perú)
+Actualizado: 2026-10-15 18:46:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5227**  ($285,366,552 en total)
-- Resueltas: **5189** — 3176 ganadas / 2013 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **5190** — 3176 ganadas / 2014 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,011,551** sobre $283,807,031 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$4,380** sobre $511,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$978,881** sobre $283,839,701 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,480** sobre $511,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 |---|---|---|---|---|---|---|
 | theowalcott | Will CR Flamengo win on 2026-10-15? | No | 1.92 (52¢) | $28,543 | — | ⏳ Pendiente |
 | freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | FURIA Esports | 1.33 (75¢) | $36,418 | — | ⏳ Pendiente |
-| hurrican | Santa Cruz 2: Franco Roncadelli vs Juan Carlos Prado | Juan Carlos Prado | 1.16 (86¢) | $32,669 | — | ⏳ Pendiente |
+| hurrican | Santa Cruz 2: Franco Roncadelli vs Juan Carlos Prado | Juan Carlos Prado | 1.16 (86¢) | $32,669 | -$32,669 | ❌ Perdida |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.49 (67¢) | $33,494 | — | ⏳ Pendiente |
 | Netrol | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 2.86 (35¢) | $26,287 | — | ⏳ Pendiente |
 | Sunshine.Smile | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.61 (62¢) | $67,981 | — | ⏳ Pendiente |
