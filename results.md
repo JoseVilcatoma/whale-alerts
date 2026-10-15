@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 09:19:54 (hora de Perú)
+Actualizado: 2026-10-15 09:21:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5185**  ($282,304,792 en total)
+- Apuestas registradas: **5187**  ($282,504,270 en total)
 - Resueltas: **5148** — 3153 ganadas / 1995 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 17
 - Apostadores distintos: 567
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 193 | 4 | 66% | $35,447,561 | +$1,361,258 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 193 | 5 | 66% | $35,597,561 | +$1,361,258 |
 | Sassy-Bucket | 73 | 68 | 2 | 52% | $8,151,825 | -$493,840 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| mooseborzoii | 43 | 24 | 1 | 64% | $3,423,118 | +$713,822 |
+| mooseborzoii | 43 | 24 | 2 | 64% | $3,472,596 | +$713,822 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bayer 04 Leverkusen win on 2026-10-15? | No | 3.33 (30¢) | $150,000 | — | ⏳ Pendiente |
+| mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 1.85 (54¢) | $49,478 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.49 (67¢) | $70,447 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | Legacy | 2.38 (42¢) | $114,241 | — | ⏳ Pendiente |
 | 3648393489047 | Wuhan Tennis Open: Ashlyn Krueger vs Iga Swiatek | Iga Swiatek | 1.14 (88¢) | $26,697 | +$3,641 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | Jsram | Will Manchester City FC win on 2026-10-14? | No | 1.96 (51¢) | $44,745 | +$42,990 | ✅ Ganada |
 | crisp1973 | FK Bodø/Glimt vs. BV Borussia 09 Dortmund: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $27,636 | -$27,636 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Fenerbahçe SK (-1.5) | Aston Villa FC | 1.10 (91¢) | $97,781 | +$9,671 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs PARIVISION (BO3) - Thunderpick World Championship Group B | Legacy | 1.22 (82¢) | $56,272 | +$12,353 | ✅ Ganada |
-| Pjosully | Will Manchester City FC win on 2026-10-14? | Yes | 2.04 (49¢) | $31,011 | -$31,011 | ❌ Perdida |

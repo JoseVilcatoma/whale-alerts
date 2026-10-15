@@ -77941,5 +77941,35 @@
     "status": "pending",
     "ultimo_fill": 1792073702,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 10559,
+    "timestamp": 1792074040,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "mlb-tb-cle-2026-10-15",
+    "title": "Tampa Bay Rays vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 49477.9968,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792074040,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10560,
+    "timestamp": 1792074106,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "uel-lep-lev-2026-10-15-lev",
+    "title": "Will Bayer 04 Leverkusen win on 2026-10-15?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 150000.0,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "ultimo_fill": 1792074106,
+    "fills": 1
   }
 ]
