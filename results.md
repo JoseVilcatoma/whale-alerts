@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 00:16:17 (hora de Perú)
+Actualizado: 2026-10-15 00:18:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5174**  ($281,830,801 en total)
-- Resueltas: **5142** — 3148 ganadas / 1994 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **5143** — 3149 ganadas / 1994 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 566
 
 ### Balance
 
-- **Resultado de los apostadores: +$849,159** sobre $280,523,749 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,939** sobre $507,000 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$887,991** sobre $280,562,582 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,839** sobre $507,100 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 566 en total)_
 | Velin217 | Nuggets vs. Clippers | Clippers | 1.11 (90¢) | $52,755 | — | ⏳ Pendiente |
 | ArielFilipino | Colorado State vs. Texas State: O/U 69.5 | Under 69.5 | 1.96 (51¢) | $32,000 | — | ⏳ Pendiente |
 | Velin217 | Wuhan Tennis Open: Karolina Muchova vs Diana Shnaider | Diana Shnaider | 2.08 (48¢) | $27,792 | — | ⏳ Pendiente |
-| www511zwin | Spread: Nuggets (-10.5) | Clippers | 2.00 (50¢) | $38,832 | — | ⏳ Pendiente |
+| www511zwin | Spread: Nuggets (-10.5) | Clippers | 2.00 (50¢) | $38,832 | +$38,832 | ✅ Ganada |
 | Velin217 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.08 (93¢) | $26,749 | +$2,013 | ✅ Ganada |
 | veliMax | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.08 (93¢) | $61,314 | +$4,615 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.79 (56¢) | $32,465 | — | ⏳ Pendiente |
