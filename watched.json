@@ -1,8 +1,4 @@
 {
-  "0x3a8aa345d5db7ec5138298c8c4f4540259be7699": {
-    "username": "TheReturnOfDarthMaul",
-    "added_at": 1788798387.366081
-  },
   "0x4f1d5ae26fc31472966e951af3183308736d8de2": {
     "username": "e46m3",
     "added_at": 1788879818.9491625
@@ -182,5 +178,13 @@
   "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223": {
     "username": "Jsram",
     "added_at": 1792010251.4566188
+  },
+  "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563": {
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "added_at": 1792024916.7327201
+  },
+  "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62": {
+    "username": "raybanman",
+    "added_at": 1792024916.7327201
   }
 }
