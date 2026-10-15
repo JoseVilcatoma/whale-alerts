@@ -77729,5 +77729,20 @@
     "status": "pending",
     "ultimo_fill": 1792036068,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10537,
+    "timestamp": 1792038561,
+    "username": "Velin217",
+    "wallet": "0x9a5e78f769d30fb320f084ed64d58fcbc09acd58",
+    "slug": "nba-den-lac-2026-10-14",
+    "title": "Nuggets vs. Clippers",
+    "outcome": "Clippers",
+    "side": "BUY",
+    "usd": 52754.562,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1792038561,
+    "fills": 1
   }
 ]
