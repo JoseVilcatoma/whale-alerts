@@ -77639,5 +77639,20 @@
     "status": "pending",
     "ultimo_fill": 1792026910,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10510,
+    "timestamp": 1792031990,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-mibr-bcg-2026-10-15",
+    "title": "Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 32465.2104,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1792031990,
+    "fills": 1
   }
 ]

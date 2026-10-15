@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 21:38:28 (hora de Perú)
+Actualizado: 2026-10-14 21:40:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5165**  ($281,492,807 en total)
+- Apuestas registradas: **5166**  ($281,525,272 en total)
 - Resueltas: **5122** — 3134 ganadas / 1988 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 565
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.79 (56¢) | $32,465 | — | ⏳ Pendiente |
 | KaneAnalytics | Western Kentucky vs. Sam Houston | Western Kentucky | 1.39 (72¢) | $45,280 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Western Kentucky vs. Sam Houston | Western Kentucky | 1.23 (81¢) | $28,513 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Western Kentucky vs. Sam Houston | Western Kentucky | 1.23 (81¢) | $31,936 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 | Fvalp | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.25 (80¢) | $29,888 | +$7,472 | ✅ Ganada |
 | hurrican | Wuhan Tennis Open: Han Shi vs Leylah Fernandez | Leylah Fernandez | 1.16 (86¢) | $33,000 | +$5,372 | ✅ Ganada |
 | 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | +$22,214 | ✅ Ganada |
-| 3648393489047 | Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Escorihuela | Jessica Bouzas Maneiro | 1.69 (59¢) | $31,966 | +$18,421 | 💰 Vendida antes |
