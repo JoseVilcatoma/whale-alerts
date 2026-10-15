@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 21:04:47 (hora de Perú)
+Actualizado: 2026-10-14 21:06:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5165**  ($281,492,807 en total)
-- Resueltas: **5118** — 3132 ganadas / 1986 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **5119** — 3132 ganadas / 1987 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 565
 
 ### Balance
 
-- **Resultado de los apostadores: +$687,625** sobre $279,497,482 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,316** sobre $504,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$652,625** sobre $279,532,482 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,416** sobre $504,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 | theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $30,577 | — | ⏳ Pendiente |
 | yabanci | Canadiens vs. Capitals | Capitals | 2.04 (49¢) | $52,430 | — | ⏳ Pendiente |
 | theowalcott | Nashville SC vs. Sporting Kansas City: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $28,644 | — | ⏳ Pendiente |
-| Elaran1993 | Columbus Crew vs. Charlotte FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $35,000 | — | ⏳ Pendiente |
+| Elaran1993 | Columbus Crew vs. Charlotte FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $35,000 | -$35,000 | ❌ Perdida |
 | OhWhenTheReds | Will FC Cincinnati win on 2026-10-14? | No | 1.79 (56¢) | $41,463 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will FC Cincinnati win on 2026-10-14? | No | 1.85 (54¢) | $53,906 | — | ⏳ Pendiente |
 | mooseborzoii | Will FC Cincinnati win on 2026-10-14? | Yes | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
