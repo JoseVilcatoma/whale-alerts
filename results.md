@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 21:25:55 (hora de Perú)
+Actualizado: 2026-10-14 21:28:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5165**  ($281,492,807 en total)
-- Resueltas: **5119** — 3132 ganadas / 1987 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **5122** — 3134 ganadas / 1988 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 565
 
 ### Balance
 
-- **Resultado de los apostadores: +$652,625** sobre $279,532,482 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,416** sobre $504,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$701,122** sobre $279,657,850 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,352** sobre $505,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 56 | 29 | 1 | 66% | $4,104,486 | +$519,010 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| mooseborzoii | 42 | 23 | 3 | 65% | $3,423,118 | +$698,584 |
+| mooseborzoii | 42 | 24 | 2 | 64% | $3,423,118 | +$668,584 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -82,9 +82,9 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 | yabanci | Canadiens vs. Capitals | Capitals | 2.04 (49¢) | $52,430 | — | ⏳ Pendiente |
 | theowalcott | Nashville SC vs. Sporting Kansas City: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $28,644 | — | ⏳ Pendiente |
 | Elaran1993 | Columbus Crew vs. Charlotte FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $35,000 | -$35,000 | ❌ Perdida |
-| OhWhenTheReds | Will FC Cincinnati win on 2026-10-14? | No | 1.79 (56¢) | $41,463 | — | ⏳ Pendiente |
-| OhWhenTheReds | Will FC Cincinnati win on 2026-10-14? | No | 1.85 (54¢) | $53,906 | — | ⏳ Pendiente |
-| mooseborzoii | Will FC Cincinnati win on 2026-10-14? | Yes | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
+| OhWhenTheReds | Will FC Cincinnati win on 2026-10-14? | No | 1.79 (56¢) | $41,463 | +$32,578 | ✅ Ganada |
+| OhWhenTheReds | Will FC Cincinnati win on 2026-10-14? | No | 1.85 (54¢) | $53,906 | +$45,920 | ✅ Ganada |
+| mooseborzoii | Will FC Cincinnati win on 2026-10-14? | Yes | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
 | bitbe | Western Kentucky vs. Sam Houston | Western Kentucky | 1.92 (52¢) | $29,031 | — | ⏳ Pendiente |
 | 24440 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $26,438 | — | ⏳ Pendiente |
