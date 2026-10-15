@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 22:52:00 (hora de Perú)
+Actualizado: 2026-10-14 22:54:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5171**  ($281,711,959 en total)
-- Resueltas: **5137** — 3143 ganadas / 1994 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **5142** — 3148 ganadas / 1994 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 566
 
 ### Balance
 
-- **Resultado de los apostadores: +$779,021** sobre $280,362,036 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,160** sobre $506,500 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$849,159** sobre $280,523,749 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,939** sobre $507,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,11 +77,11 @@ _(mostrando los 40 de mayor monto, de 566 en total)_
 | Velin217 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.08 (93¢) | $26,749 | +$2,013 | ✅ Ganada |
 | veliMax | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.08 (93¢) | $61,314 | +$4,615 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.79 (56¢) | $32,465 | — | ⏳ Pendiente |
-| KaneAnalytics | Western Kentucky vs. Sam Houston | Western Kentucky | 1.39 (72¢) | $45,280 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Western Kentucky vs. Sam Houston | Western Kentucky | 1.23 (81¢) | $28,513 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Western Kentucky vs. Sam Houston | Western Kentucky | 1.23 (81¢) | $31,936 | — | ⏳ Pendiente |
+| KaneAnalytics | Western Kentucky vs. Sam Houston | Western Kentucky | 1.39 (72¢) | $45,280 | +$17,609 | ✅ Ganada |
+| TAIWANNUMBERONE | Western Kentucky vs. Sam Houston | Western Kentucky | 1.23 (81¢) | $28,513 | +$6,688 | ✅ Ganada |
+| TAIWANNUMBERONE | Western Kentucky vs. Sam Houston | Western Kentucky | 1.23 (81¢) | $31,936 | +$7,491 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.89 (53¢) | $81,561 | -$81,561 | ❌ Perdida |
-| KaneAnalytics | Western Kentucky vs. Sam Houston | Western Kentucky | 1.43 (70¢) | $26,954 | — | ⏳ Pendiente |
+| KaneAnalytics | Western Kentucky vs. Sam Houston | Western Kentucky | 1.43 (70¢) | $26,954 | +$11,552 | ✅ Ganada |
 | 0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.56 (39¢) | $34,319 | +$53,679 | ✅ Ganada |
 | theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $37,772 | +$25,182 | ✅ Ganada |
 | theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $30,577 | +$20,385 | ✅ Ganada |
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 566 en total)_
 | OhWhenTheReds | Will FC Cincinnati win on 2026-10-14? | No | 1.85 (54¢) | $53,906 | +$45,920 | ✅ Ganada |
 | mooseborzoii | Will FC Cincinnati win on 2026-10-14? | Yes | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $30,000 | -$30,000 | ❌ Perdida |
-| bitbe | Western Kentucky vs. Sam Houston | Western Kentucky | 1.92 (52¢) | $29,031 | — | ⏳ Pendiente |
+| bitbe | Western Kentucky vs. Sam Houston | Western Kentucky | 1.92 (52¢) | $29,031 | +$26,798 | ✅ Ganada |
 | 24440 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $26,438 | -$26,438 | ❌ Perdida |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $33,246 | -$33,246 | ❌ Perdida |
 | joseph00677 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $95,667 | -$95,667 | ❌ Perdida |
