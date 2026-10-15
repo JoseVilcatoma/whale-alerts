@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-14 22:03:52 (hora de Perú)
+Actualizado: 2026-10-14 22:05:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5169**  ($281,652,167 en total)
-- Resueltas: **5124** — 3136 ganadas / 1988 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **5126** — 3138 ganadas / 1988 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 565
 
 ### Balance
 
-- **Resultado de los apostadores: +$781,093** sobre $279,738,923 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,159** sobre $505,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$826,659** sobre $279,807,273 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,026** sobre $505,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,8 +81,8 @@ _(mostrando los 40 de mayor monto, de 565 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.89 (53¢) | $81,561 | — | ⏳ Pendiente |
 | KaneAnalytics | Western Kentucky vs. Sam Houston | Western Kentucky | 1.43 (70¢) | $26,954 | — | ⏳ Pendiente |
 | 0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.56 (39¢) | $34,319 | — | ⏳ Pendiente |
-| theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $37,772 | — | ⏳ Pendiente |
-| theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $30,577 | — | ⏳ Pendiente |
+| theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $37,772 | +$25,182 | ✅ Ganada |
+| theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $30,577 | +$20,385 | ✅ Ganada |
 | yabanci | Canadiens vs. Capitals | Capitals | 2.04 (49¢) | $52,430 | +$54,570 | ✅ Ganada |
 | theowalcott | Nashville SC vs. Sporting Kansas City: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $28,644 | +$25,401 | ✅ Ganada |
 | Elaran1993 | Columbus Crew vs. Charlotte FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $35,000 | -$35,000 | ❌ Perdida |
