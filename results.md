@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 09:44:20 (hora de Perú)
+Actualizado: 2026-10-15 09:46:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5196**  ($284,031,490 en total)
+- Apuestas registradas: **5197**  ($284,080,734 en total)
 - Resueltas: **5150** — 3153 ganadas / 1997 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 567
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 57 | 29 | 2 | 66% | $4,253,368 | +$669,337 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
-| joseph00677 | 5 | 1 | 9 | ⚠️ 83% (6) | $3,762,086 | +$1,211,519 |
+| joseph00677 | 5 | 1 | 10 | ⚠️ 83% (6) | $3,811,330 | +$1,211,519 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | mooseborzoii | 43 | 24 | 2 | 64% | $3,472,596 | +$713,822 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,244 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $99,142 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | — | ⏳ Pendiente |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | hurrican | Roanne: Mika Brunold vs Benjamin Bonzi | Mika Brunold | 1.16 (86¢) | $27,000 | +$4,395 | ✅ Ganada |
 | Yellow-Fever | Will Manchester City FC win on 2026-10-14? | No | 2.04 (49¢) | $25,587 | +$26,631 | ✅ Ganada |
 | jonjones1993 | Will Real Madrid CF win on 2026-10-14? | No | 2.04 (49¢) | $77,555 | -$77,555 | ❌ Perdida |
-| joseph00677 | Will Real Madrid CF win on 2026-10-14? | Yes | 1.92 (52¢) | $210,842 | +$194,624 | ✅ Ganada |
