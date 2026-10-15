@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 16:09:27 (hora de Perú)
+Actualizado: 2026-10-15 16:11:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5218**  ($285,035,858 en total)
+- Apuestas registradas: **5219**  ($285,069,172 en total)
 - Resueltas: **5175** — 3172 ganadas / 2003 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 567
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ziyoucui | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 1.43 (70¢) | $33,313 | — | ⏳ Pendiente |
 | qiu3 | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | FURIA | 1.75 (57¢) | $25,943 | — | ⏳ Pendiente |
 | Sunshine.Smile | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.52 (66¢) | $28,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.89 (53¢) | $81,561 | -$81,561 | ❌ Perdida |
 | KaneAnalytics | Western Kentucky vs. Sam Houston | Western Kentucky | 1.43 (70¢) | $26,954 | +$11,552 | ✅ Ganada |
 | 0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.56 (39¢) | $34,319 | +$53,679 | ✅ Ganada |
-| theowalcott | Will St. Louis City SC win on 2026-10-14? | No | 1.67 (60¢) | $37,772 | +$25,182 | ✅ Ganada |
