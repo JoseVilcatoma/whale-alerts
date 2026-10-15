@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 18:40:08 (hora de Perú)
+Actualizado: 2026-10-15 18:42:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5227**  ($285,366,552 en total)
-- Resueltas: **5188** — 3176 ganadas / 2012 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **5189** — 3176 ganadas / 2013 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,039,524** sobre $283,779,057 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$4,280** sobre $511,500 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$1,011,551** sobre $283,807,031 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$4,380** sobre $511,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 369 | 197 | 6 | 65% | $35,781,094 | +$1,118,498 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 369 | 198 | 5 | 65% | $35,781,094 | +$1,090,524 |
 | Sassy-Bucket | 73 | 69 | 2 | 51% | $8,185,373 | -$527,388 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | Diabolical-Prize | 61 | 62 | 2 | 50% | $6,766,064 | -$428,472 |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Cloud9 | 2.04 (49¢) | $48,918 | -$48,918 | ❌ Perdida |
 | 01258787xy48487484545122 | Santa Cruz 2: Guido Justo vs Juan Manuel La Serna | Juan Manuel La Serna | 1.18 (85¢) | $94,340 | +$16,648 | ✅ Ganada |
 | tenniz | Santa Cruz 2: Guido Justo vs Juan Manuel La Serna | Juan Manuel La Serna | 1.22 (82¢) | $54,408 | +$11,943 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ferencvárosi TC win on 2026-10-15? | No | 2.17 (46¢) | $27,974 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ferencvárosi TC win on 2026-10-15? | No | 2.17 (46¢) | $27,974 | -$27,974 | ❌ Perdida |
 | jonjones1993 | Will TSG 1899 Hoffenheim win on 2026-10-15? | No | 2.04 (49¢) | $25,283 | +$26,315 | ✅ Ganada |
 | lsiflsliggjriek | Will TSG 1899 Hoffenheim win on 2026-10-15? | Yes | 1.85 (54¢) | $46,612 | -$46,612 | ❌ Perdida |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 1 Winner | Karmine Corp | 1.54 (65¢) | $116,829 | -$116,829 | ❌ Perdida |
