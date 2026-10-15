@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 13:11:29 (hora de Perú)
+Actualizado: 2026-10-15 13:13:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5203**  ($284,362,977 en total)
+- Apuestas registradas: **5204**  ($284,479,806 en total)
 - Resueltas: **5154** — 3155 ganadas / 1999 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 567
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 73 | 68 | 3 | 52% | $8,185,373 | -$493,840 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
-| Diabolical-Prize | 61 | 60 | 1 | 50% | $6,566,822 | -$262,725 |
+| Diabolical-Prize | 61 | 60 | 2 | 50% | $6,683,652 | -$262,725 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 1 Winner | Karmine Corp | 1.54 (65¢) | $116,829 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $26,386 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $76,500 | — | ⏳ Pendiente |
 | juice-fruit | Will Sunderland AFC win on 2026-10-15? | Yes | 1.32 (76¢) | $91,449 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | joseph00677 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $95,667 | -$95,667 | ❌ Perdida |
 | corkmaster420blaezit | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.56 (39¢) | $96,111 | +$150,327 | ✅ Ganada |
 | hurrican | Counter-Strike: FURIA vs BetBoom Team (BO3) - Thunderpick World Championship Group B | FURIA | 1.39 (72¢) | $31,000 | +$12,056 | ✅ Ganada |
-| juice-fruit | Will FK Shakhtar Donetsk win on 2026-10-14? | No | 1.49 (67¢) | $36,647 | -$36,647 | ❌ Perdida |
