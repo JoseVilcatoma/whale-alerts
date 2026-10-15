@@ -78301,5 +78301,50 @@
     "status": "pending",
     "ultimo_fill": 1792091086,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10591,
+    "timestamp": 1792091812,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-c9-kc-2026-10-15-game2",
+    "title": "LoL: Cloud9 vs Karmine Corp - Game 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 48917.825,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792091812,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10592,
+    "timestamp": 1792091827,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-c9-kc-2026-10-15-game2",
+    "title": "LoL: Cloud9 vs Karmine Corp - Game 2 Winner",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792091827,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10593,
+    "timestamp": 1792091854,
+    "username": "S-Works",
+    "wallet": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+    "slug": "lol-c9-kc-2026-10-15-game2",
+    "title": "LoL: Cloud9 vs Karmine Corp - Game 2 Winner",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 54570.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792091854,
+    "fills": 1
   }
 ]
