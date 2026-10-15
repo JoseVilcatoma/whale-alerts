@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 14:53:34 (hora de Perú)
+Actualizado: 2026-10-15 14:55:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5212**  ($284,857,410 en total)
+- Apuestas registradas: **5213**  ($284,887,636 en total)
 - Resueltas: **5155** — 3156 ganadas / 1999 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 567
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | ferrariChampions2026 | 83 | 44 | 0 | 65% | $5,175,496 | -$85,304 |
-| Lakersfan111 | 57 | 30 | 1 | 66% | $4,253,368 | +$634,696 |
+| Lakersfan111 | 57 | 30 | 2 | 66% | $4,283,594 | +$634,696 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
 | joseph00677 | 5 | 1 | 10 | ⚠️ 83% (6) | $3,811,330 | +$1,211,519 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| corkmaster420blaezit | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.79 (56¢) | $30,226 | — | ⏳ Pendiente |
 | S-Works | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $54,570 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Cloud9 | 2.04 (49¢) | $48,918 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | theowalcott | Nashville SC vs. Sporting Kansas City: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $28,644 | +$25,401 | ✅ Ganada |
 | Elaran1993 | Columbus Crew vs. Charlotte FC: O/U 3.5 | Under 3.5 | 2.00 (50¢) | $35,000 | -$35,000 | ❌ Perdida |
 | OhWhenTheReds | Will FC Cincinnati win on 2026-10-14? | No | 1.79 (56¢) | $41,463 | +$32,578 | ✅ Ganada |
-| OhWhenTheReds | Will FC Cincinnati win on 2026-10-14? | No | 1.85 (54¢) | $53,906 | +$45,920 | ✅ Ganada |

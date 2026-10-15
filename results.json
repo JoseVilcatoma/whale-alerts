@@ -78346,5 +78346,20 @@
     "status": "pending",
     "ultimo_fill": 1792091854,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10595,
+    "timestamp": 1792094040,
+    "username": "corkmaster420blaezit",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-c9-kc-2026-10-15-game3",
+    "title": "LoL: Cloud9 vs Karmine Corp - Game 3 Winner",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 30226.0224,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1792094040,
+    "fills": 1
   }
 ]
