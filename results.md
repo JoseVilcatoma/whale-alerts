@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 13:58:09 (hora de Perú)
+Actualizado: 2026-10-15 14:00:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5206**  ($284,551,700 en total)
+- Apuestas registradas: **5207**  ($284,579,674 en total)
 - Resueltas: **5154** — 3155 ganadas / 1999 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 567
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 194 | 6 | 65% | $35,661,300 | +$1,310,852 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 368 | 194 | 7 | 65% | $35,689,274 | +$1,310,852 |
 | Sassy-Bucket | 73 | 68 | 3 | 52% | $8,185,373 | -$493,840 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 0 | 53% | $7,122,111 | -$456,203 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ferencvárosi TC win on 2026-10-15? | No | 2.17 (46¢) | $27,974 | — | ⏳ Pendiente |
 | jonjones1993 | Will TSG 1899 Hoffenheim win on 2026-10-15? | No | 2.04 (49¢) | $25,283 | — | ⏳ Pendiente |
 | lsiflsliggjriek | Will TSG 1899 Hoffenheim win on 2026-10-15? | Yes | 1.85 (54¢) | $46,612 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 1 Winner | Karmine Corp | 1.54 (65¢) | $116,829 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | bitbe | Western Kentucky vs. Sam Houston | Western Kentucky | 1.92 (52¢) | $29,031 | +$26,798 | ✅ Ganada |
 | 24440 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $26,438 | -$26,438 | ❌ Perdida |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.64 (61¢) | $33,246 | -$33,246 | ❌ Perdida |
-| joseph00677 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $95,667 | -$95,667 | ❌ Perdida |
