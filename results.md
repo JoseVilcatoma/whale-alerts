@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 17:32:54 (hora de Perú)
+Actualizado: 2026-10-15 17:34:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5224**  ($285,268,922 en total)
-- Resueltas: **5180** — 3174 ganadas / 2006 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **5182** — 3175 ganadas / 2007 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 567
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,270,175** sobre $283,451,295 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,859** sobre $510,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$1,175,506** sobre $283,591,479 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,884** sobre $510,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | ferrariChampions2026 | 83 | 44 | 0 | 65% | $5,175,496 | -$85,304 |
-| Lakersfan111 | 57 | 30 | 2 | 66% | $4,283,594 | +$634,696 |
+| Lakersfan111 | 57 | 31 | 1 | 65% | $4,283,594 | +$520,455 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
 | joseph00677 | 15 | 1 | 0 | 94% | $3,811,330 | +$1,907,835 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | qiu3 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.69 (59¢) | $28,337 | — | ⏳ Pendiente |
 | Sunshine.Smile | LoL: Cloud9 vs Karmine Corp - Game 4 Winner | Cloud9 | 2.17 (46¢) | $43,651 | — | ⏳ Pendiente |
 | ziyoucui | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 1.43 (70¢) | $33,313 | — | ⏳ Pendiente |
-| qiu3 | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | FURIA | 1.75 (57¢) | $25,943 | — | ⏳ Pendiente |
+| qiu3 | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | FURIA | 1.75 (57¢) | $25,943 | +$19,571 | ✅ Ganada |
 | Sunshine.Smile | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.52 (66¢) | $28,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | 3648393489047 | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.69 (59¢) | $27,558 | — | ⏳ Pendiente |
@@ -111,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 1.85 (54¢) | $49,478 | +$42,148 | ✅ Ganada |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $331,221 | +$141,952 | ✅ Ganada |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.49 (67¢) | $70,447 | +$34,698 | ✅ Ganada |
-| corkmaster420blaezit | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | Legacy | 2.38 (42¢) | $114,241 | — | ⏳ Pendiente |
+| corkmaster420blaezit | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | Legacy | 2.38 (42¢) | $114,241 | -$114,241 | ❌ Perdida |
 | 3648393489047 | Wuhan Tennis Open: Ashlyn Krueger vs Iga Swiatek | Iga Swiatek | 1.14 (88¢) | $26,697 | +$3,641 | ✅ Ganada |
 | Anjun | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.35 (74¢) | $32,889 | +$11,555 | ✅ Ganada |
 | hurrican | Counter-Strike: 9z vs Team Falcons (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.18 (85¢) | $27,287 | +$4,815 | ✅ Ganada |
