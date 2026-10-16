@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 08:24:52 (hora de Perú)
+Actualizado: 2026-10-16 08:26:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5269**  ($288,530,621 en total)
-- Resueltas: **5237** — 3206 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **5238** — 3207 ganadas / 2031 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 570
 
 ### Balance
 
-- **Resultado de los apostadores: +$494,697** sobre $287,205,797 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,845** sobre $516,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$496,828** sobre $287,239,179 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,838** sobre $516,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 |---|---|---|---|---|---|---|
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.20 (83¢) | $86,707 | — | ⏳ Pendiente |
 | tankfest2027 | Valorant: 100 Thieves vs G2 Esports (BO3) - VCT Champions Playoffs | 100 Thieves | 1.69 (59¢) | $28,331 | — | ⏳ Pendiente |
-| 0000a | Wuhan Tennis Open: Ann Li vs Iga Swiatek | Iga Swiatek | 1.06 (94¢) | $33,382 | — | ⏳ Pendiente |
+| 0000a | Wuhan Tennis Open: Ann Li vs Iga Swiatek | Iga Swiatek | 1.06 (94¢) | $33,382 | +$2,131 | ✅ Ganada |
 | mooseborzoii | Appalachian State vs. Coastal Carolina | Appalachian State | 1.92 (52¢) | $27,178 | — | ⏳ Pendiente |
 | Fvalp | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.22 (82¢) | $35,415 | +$7,774 | ✅ Ganada |
 | 0000a | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.12 (89¢) | $31,105 | +$3,844 | ✅ Ganada |
