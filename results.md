@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 16:18:59 (hora de Perú)
+Actualizado: 2026-10-16 16:21:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5302**  ($290,393,779 en total)
-- Resueltas: **5250** — 3218 ganadas / 2032 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **5251** — 3218 ganadas / 2033 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 571
 
 ### Balance
 
-- **Resultado de los apostadores: +$892,031** sobre $287,933,027 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,175** sobre $517,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$849,883** sobre $287,975,175 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,275** sobre $517,800 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 57 | 32 | 10 | 64% | $4,841,924 | +$490,229 |
 | ethanaz | 48 | 21 | 0 | 70% | $4,260,815 | -$86,799 |
 | BrotherObama | 40 | 48 | 4 | 45% | $4,132,955 | -$253,237 |
-| joseph00677 | 16 | 1 | 1 | 94% | $4,099,184 | +$2,108,867 |
+| joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
 | mooseborzoii | 48 | 25 | 2 | 66% | $3,709,632 | +$862,030 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 | BrotherObama | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $26,000 | — | ⏳ Pendiente |
 | StasPanda | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $70,550 | — | ⏳ Pendiente |
 | Diabolical-Prize | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.67 (60¢) | $42,000 | — | ⏳ Pendiente |
-| joseph00677 | Will RC Deportivo A Coruña win on 2026-10-16? | Yes | 1.28 (78¢) | $42,148 | — | ⏳ Pendiente |
+| joseph00677 | Will RC Deportivo A Coruña win on 2026-10-16? | Yes | 1.28 (78¢) | $42,148 | -$42,148 | ❌ Perdida |
 | 473game | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.19 (84¢) | $45,255 | — | ⏳ Pendiente |
 | ndb1 | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.69 (59¢) | $71,951 | — | ⏳ Pendiente |
 | zb8 | LoL: MVK Esports vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.22 (82¢) | $30,907 | — | ⏳ Pendiente |
