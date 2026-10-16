@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 20:13:31 (hora de Perú)
+Actualizado: 2026-10-15 20:15:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5238**  ($286,389,492 en total)
+- Apuestas registradas: **5239**  ($286,426,492 en total)
 - Resueltas: **5199** — 3181 ganadas / 2018 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 568
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
-| ferrariChampions2026 | 83 | 44 | 0 | 65% | $5,175,496 | -$85,304 |
+| ferrariChampions2026 | 83 | 44 | 1 | 65% | $5,212,496 | -$85,304 |
 | Lakersfan111 | 57 | 32 | 0 | 64% | $4,283,594 | +$490,229 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 47 | 3 | 46% | $4,076,955 | -$228,237 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 568 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Seahawks vs. Broncos | Broncos | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
 | BrotherObama | Utah vs. Oilers | Oilers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Utah vs. Oilers | Oilers | 2.04 (49¢) | $109,952 | — | ⏳ Pendiente |
 | 0000a | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.12 (89¢) | $30,319 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 568 en total)_
 | Anjun | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.35 (74¢) | $32,889 | +$11,555 | ✅ Ganada |
 | hurrican | Counter-Strike: 9z vs Team Falcons (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.18 (85¢) | $27,287 | +$4,815 | ✅ Ganada |
 | Pjosully | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.61 (62¢) | $27,933 | +$17,120 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.79 (56¢) | $31,198 | -$31,198 | ❌ Perdida |
