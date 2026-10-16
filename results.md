@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 13:06:04 (hora de Perú)
+Actualizado: 2026-10-16 13:08:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5283**  ($289,204,798 en total)
+- Apuestas registradas: **5284**  ($289,450,504 en total)
 - Resueltas: **5241** — 3210 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 570
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 57 | 32 | 9 | 64% | $4,815,679 | +$490,229 |
 | ethanaz | 48 | 21 | 0 | 70% | $4,260,815 | -$86,799 |
 | BrotherObama | 40 | 48 | 3 | 45% | $4,106,955 | -$253,237 |
-| joseph00677 | 15 | 1 | 0 | 94% | $3,811,330 | +$1,907,835 |
+| joseph00677 | 15 | 1 | 1 | 94% | $4,057,036 | +$1,907,835 |
 | mooseborzoii | 48 | 25 | 2 | 66% | $3,709,632 | +$862,030 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| joseph00677 | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.82 (55¢) | $245,706 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Memphis (-6.5) | Memphis | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Game Handicap: C9 (-1.5) vs FURIA Esports (+1.5) | Cloud9 | 1.49 (67¢) | $25,004 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | Cloud9 | 2.56 (39¢) | $25,930 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | theowalcott | Will CR Flamengo win on 2026-10-15? | No | 1.92 (52¢) | $28,543 | +$26,347 | ✅ Ganada |
 | freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | FURIA Esports | 1.33 (75¢) | $36,418 | -$36,418 | ❌ Perdida |
 | hurrican | Santa Cruz 2: Franco Roncadelli vs Juan Carlos Prado | Juan Carlos Prado | 1.16 (86¢) | $32,669 | -$32,669 | ❌ Perdida |
-| Diabolical-Prize | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.49 (67¢) | $33,494 | +$16,497 | ✅ Ganada |
