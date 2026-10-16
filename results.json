@@ -79033,7 +79033,7 @@
     "side": "BUY",
     "usd": 28600.0,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792124164,
     "fills": 1
   },
@@ -79423,7 +79423,7 @@
     "side": "BUY",
     "usd": 245705.77390000003,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792174071,
     "fills": 4
   },
@@ -79590,6 +79590,51 @@
     "odds_at_bet": 60,
     "status": "pending",
     "ultimo_fill": 1792183523,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10769,
+    "timestamp": 1792183591,
+    "username": "StasPanda",
+    "wallet": "0x7e5e420a5cde8a322f3b5b93a12a164827f47315",
+    "slug": "lol-fur-c9-2026-10-16",
+    "title": "LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 70550.0,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1792183591,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10770,
+    "timestamp": 1792183596,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-tb-cle-2026-10-16-total-6pt5",
+    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26000.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792183596,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10773,
+    "timestamp": 1792183654,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-fur-c9-2026-10-16",
+    "title": "LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 83000.0,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1792183654,
     "fills": 1
   }
 ]

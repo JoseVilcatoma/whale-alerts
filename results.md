@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 15:45:50 (hora de Perú)
+Actualizado: 2026-10-16 15:47:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5295**  ($289,995,361 en total)
-- Resueltas: **5242** — 3211 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Apuestas registradas: **5298**  ($290,174,911 en total)
+- Resueltas: **5244** — 3213 ganadas / 2031 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 571
 
 ### Balance
 
-- **Resultado de los apostadores: +$577,502** sobre $287,387,619 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,602** sobre $516,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$804,934** sobre $287,661,924 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,428** sobre $517,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 373 | 201 | 5 | 65% | $36,371,652 | +$1,109,148 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 373 | 201 | 6 | 65% | $36,454,652 | +$1,109,148 |
 | Sassy-Bucket | 73 | 70 | 2 | 51% | $8,295,324 | -$637,340 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
 | Diabolical-Prize | 63 | 62 | 3 | 50% | $6,930,555 | -$375,975 |
@@ -37,8 +37,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 57 | 32 | 10 | 64% | $4,841,924 | +$490,229 |
 | ethanaz | 48 | 21 | 0 | 70% | $4,260,815 | -$86,799 |
-| BrotherObama | 40 | 48 | 3 | 45% | $4,106,955 | -$253,237 |
-| joseph00677 | 15 | 1 | 2 | 94% | $4,099,184 | +$1,907,835 |
+| BrotherObama | 40 | 48 | 4 | 45% | $4,132,955 | -$253,237 |
+| joseph00677 | 16 | 1 | 1 | 94% | $4,099,184 | +$2,108,867 |
 | mooseborzoii | 48 | 25 | 2 | 66% | $3,709,632 | +$862,030 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $83,000 | — | ⏳ Pendiente |
+| BrotherObama | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $26,000 | — | ⏳ Pendiente |
+| StasPanda | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $70,550 | — | ⏳ Pendiente |
 | Diabolical-Prize | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.67 (60¢) | $42,000 | — | ⏳ Pendiente |
 | joseph00677 | Will RC Deportivo A Coruña win on 2026-10-16? | Yes | 1.28 (78¢) | $42,148 | — | ⏳ Pendiente |
 | 473game | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.19 (84¢) | $45,255 | — | ⏳ Pendiente |
@@ -82,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 | ferrariChampions2026 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.15 (87¢) | $77,740 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.20 (83¢) | $66,364 | — | ⏳ Pendiente |
 | Kkunn | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | Legacy | 2.50 (40¢) | $28,864 | — | ⏳ Pendiente |
-| joseph00677 | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.82 (55¢) | $245,706 | — | ⏳ Pendiente |
+| joseph00677 | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.82 (55¢) | $245,706 | +$201,032 | ✅ Ganada |
 | BrotherObama | Spread: Memphis (-6.5) | Memphis | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Game Handicap: C9 (-1.5) vs FURIA Esports (+1.5) | Cloud9 | 1.49 (67¢) | $25,004 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | Cloud9 | 2.56 (39¢) | $25,930 | — | ⏳ Pendiente |
@@ -108,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 | juice-fruit | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.52 (66¢) | $63,232 | +$32,574 | ✅ Ganada |
 | lllllllllllIlll | Counter-Strike: NIP vs Liquid (BO3) - Stake Pulse Beat III Playoffs | Liquid | 1.96 (51¢) | $96,464 | -$96,464 | ❌ Perdida |
 | Velin217 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Jelena Ostapenko | 1.16 (86¢) | $50,641 | +$8,244 | ✅ Ganada |
-| gransaaa | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.92 (52¢) | $28,600 | — | ⏳ Pendiente |
+| gransaaa | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.92 (52¢) | $28,600 | +$26,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Diana Shnaider | 1.67 (60¢) | $35,456 | -$35,456 | ❌ Perdida |
 | Velin217 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Diana Shnaider | 1.28 (78¢) | $77,528 | -$77,528 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Broncos | 2.17 (46¢) | $89,012 | +$104,493 | ✅ Ganada |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 1.27 (79¢) | $41,009 | +$10,901 | ✅ Ganada |
 | TAIWANNUMBERONE | Seahawks vs. Broncos | Broncos | 1.27 (79¢) | $39,611 | +$10,529 | ✅ Ganada |
 | ferrariChampions2026 | Seahawks vs. Broncos | Broncos | 1.35 (74¢) | $37,000 | +$13,000 | ✅ Ganada |
-| BrotherObama | Utah vs. Oilers | Oilers | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
-| Sassy-Bucket | Utah vs. Oilers | Oilers | 2.04 (49¢) | $109,952 | -$109,952 | ❌ Perdida |
-| 0000a | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.12 (89¢) | $30,319 | -$30,319 | ❌ Perdida |
