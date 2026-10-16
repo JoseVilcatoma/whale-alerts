@@ -79141,5 +79141,20 @@
     "status": "pending",
     "ultimo_fill": 1792148570,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10729,
+    "timestamp": 1792150420,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "cfb-applst-coast-2026-10-16",
+    "title": "Appalachian State vs. Coastal Carolina",
+    "outcome": "Appalachian State",
+    "side": "BUY",
+    "usd": 27177.9976,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792150420,
+    "fills": 1
   }
 ]
