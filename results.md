@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 21:01:51 (hora de Perú)
+Actualizado: 2026-10-15 21:03:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5243**  ($286,873,077 en total)
+- Apuestas registradas: **5244**  ($286,903,077 en total)
 - Resueltas: **5199** — 3181 ganadas / 2018 perdidas (**61%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 568
+- Pendientes: 23
+- Apostadores distintos: 569
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 
-_(mostrando los 40 de mayor monto, de 568 en total)_
+_(mostrando los 40 de mayor monto, de 569 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Anon455 | Seahawks vs. Broncos | Broncos | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seahawks vs. Broncos | Broncos | 1.30 (77¢) | $334,951 | — | ⏳ Pendiente |
 | bands1 | Seahawks vs. Broncos | Broncos | 1.30 (77¢) | $31,014 | — | ⏳ Pendiente |
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 1.27 (79¢) | $41,009 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 568 en total)_
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 1.85 (54¢) | $49,478 | +$42,148 | ✅ Ganada |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $331,221 | +$141,952 | ✅ Ganada |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.49 (67¢) | $70,447 | +$34,698 | ✅ Ganada |
-| corkmaster420blaezit | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | Legacy | 2.38 (42¢) | $114,241 | -$114,241 | ❌ Perdida |
