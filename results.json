@@ -79531,5 +79531,20 @@
     "status": "pending",
     "ultimo_fill": 1792180430,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10765,
+    "timestamp": 1792180868,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "lol-fur-c9-2026-10-16-game-handicap-home-2pt5",
+    "title": "Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5)",
+    "outcome": "FURIA Esports",
+    "side": "BUY",
+    "usd": 71951.09,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1792180868,
+    "fills": 1
   }
 ]
