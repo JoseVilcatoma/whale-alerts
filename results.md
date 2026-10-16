@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 16:04:17 (hora de Perú)
+Actualizado: 2026-10-16 16:06:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5302**  ($290,393,779 en total)
-- Resueltas: **5247** — 3216 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **5250** — 3218 ganadas / 2032 perdidas (**61%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 571
 
 ### Balance
 
-- **Resultado de los apostadores: +$834,797** sobre $287,847,919 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,381** sobre $517,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$892,031** sobre $287,933,027 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,175** sobre $517,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.11 (90¢) | $41,889 | +$4,654 | ✅ Ganada |
 | ferrariChampions2026 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.15 (87¢) | $77,740 | +$11,616 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.20 (83¢) | $66,364 | +$13,593 | ✅ Ganada |
-| Kkunn | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | Legacy | 2.50 (40¢) | $28,864 | — | ⏳ Pendiente |
+| Kkunn | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | Legacy | 2.50 (40¢) | $28,864 | -$28,864 | ❌ Perdida |
 | joseph00677 | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.82 (55¢) | $245,706 | +$201,032 | ✅ Ganada |
 | BrotherObama | Spread: Memphis (-6.5) | Memphis | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Game Handicap: C9 (-1.5) vs FURIA Esports (+1.5) | Cloud9 | 1.49 (67¢) | $25,004 | — | ⏳ Pendiente |
@@ -98,10 +98,10 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $141,100 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.18 (85¢) | $68,649 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: 100 Thieves vs Sangal (BO3) - Stake Pulse Beat III Playoffs | 100 Thieves | 1.41 (71¢) | $67,117 | +$27,414 | ✅ Ganada |
-| fantasy7788 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.50 (40¢) | $29,244 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.50 (40¢) | $29,244 | +$43,867 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Purdue (-3.5) | Purdue | 2.13 (47¢) | $34,952 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.19 (84¢) | $50,664 | — | ⏳ Pendiente |
-| qiu3 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.56 (39¢) | $27,000 | — | ⏳ Pendiente |
+| qiu3 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.56 (39¢) | $27,000 | +$42,231 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs | MIBR | 1.79 (56¢) | $27,401 | +$21,530 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Aurora Gaming vs 9z (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 1.47 (68¢) | $25,590 | +$12,043 | ✅ Ganada |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.20 (83¢) | $86,707 | — | ⏳ Pendiente |
