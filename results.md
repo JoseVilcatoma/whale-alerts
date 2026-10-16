@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 22:01:20 (hora de Perú)
+Actualizado: 2026-10-15 22:03:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5251**  ($287,425,443 en total)
+- Apuestas registradas: **5252**  ($287,566,357 en total)
 - Resueltas: **5203** — 3183 ganadas / 2020 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 569
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 83 | 44 | 2 | 65% | $5,547,447 | -$85,304 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 57 | 32 | 0 | 64% | $4,283,594 | +$490,229 |
-| ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
+| ethanaz | 48 | 20 | 1 | 71% | $4,260,815 | +$54,116 |
 | BrotherObama | 40 | 47 | 3 | 46% | $4,076,955 | -$228,237 |
 | joseph00677 | 15 | 1 | 0 | 94% | $3,811,330 | +$1,907,835 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 569 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Seahawks vs. Broncos | Seahawks | 2.44 (41¢) | $140,914 | — | ⏳ Pendiente |
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 1.52 (66¢) | $25,876 | — | ⏳ Pendiente |
 | Anon455 | Seahawks vs. Broncos | Broncos | 1.30 (77¢) | $30,800 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Broncos | 1.19 (84¢) | $54,195 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 569 en total)_
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | +$21,000 | ✅ Ganada |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,000 | +$21,000 | ✅ Ganada |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $250,132 | +$107,199 | ✅ Ganada |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.45 (69¢) | $48,300 | +$21,700 | ✅ Ganada |
