@@ -79171,5 +79171,20 @@
     "status": "pending",
     "ultimo_fill": 1792153517,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10731,
+    "timestamp": 1792154414,
+    "username": "tankfest2027",
+    "wallet": "0x4d6ef7033e3e332ba584882d09070b3abe755cfd",
+    "slug": "val-100t1-g21-2026-10-16",
+    "title": "Valorant: 100 Thieves vs G2 Esports (BO3) - VCT Champions Playoffs",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 28330.702599999997,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1792154414,
+    "fills": 1
   }
 ]

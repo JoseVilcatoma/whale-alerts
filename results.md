@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 07:39:29 (hora de Perú)
+Actualizado: 2026-10-16 07:41:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5267**  ($288,415,583 en total)
+- Apuestas registradas: **5268**  ($288,443,914 en total)
 - Resueltas: **5234** — 3203 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 570
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tankfest2027 | Valorant: 100 Thieves vs G2 Esports (BO3) - VCT Champions Playoffs | 100 Thieves | 1.69 (59¢) | $28,331 | — | ⏳ Pendiente |
 | 0000a | Wuhan Tennis Open: Ann Li vs Iga Swiatek | Iga Swiatek | 1.06 (94¢) | $33,382 | — | ⏳ Pendiente |
 | mooseborzoii | Appalachian State vs. Coastal Carolina | Appalachian State | 1.92 (52¢) | $27,178 | — | ⏳ Pendiente |
 | Fvalp | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.22 (82¢) | $35,415 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Cloud9 | 2.04 (49¢) | $48,918 | -$48,918 | ❌ Perdida |
 | 01258787xy48487484545122 | Santa Cruz 2: Guido Justo vs Juan Manuel La Serna | Juan Manuel La Serna | 1.18 (85¢) | $94,340 | +$16,648 | ✅ Ganada |
-| tenniz | Santa Cruz 2: Guido Justo vs Juan Manuel La Serna | Juan Manuel La Serna | 1.22 (82¢) | $54,408 | +$11,943 | ✅ Ganada |
