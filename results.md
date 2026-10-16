@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 12:45:21 (hora de Perú)
+Actualizado: 2026-10-16 12:47:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5277**  ($288,861,239 en total)
-- Resueltas: **5240** — 3209 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **5241** — 3210 ganadas / 2031 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 570
 
 ### Balance
 
-- **Resultado de los apostadores: +$528,558** sobre $287,293,100 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,722** sobre $516,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$550,088** sobre $287,320,501 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,643** sobre $516,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Purdue (-3.5) | Purdue | 2.13 (47¢) | $34,952 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.19 (84¢) | $50,664 | — | ⏳ Pendiente |
 | qiu3 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.56 (39¢) | $27,000 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs | MIBR | 1.79 (56¢) | $27,401 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs | MIBR | 1.79 (56¢) | $27,401 | +$21,530 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Aurora Gaming vs 9z (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 1.47 (68¢) | $25,590 | +$12,043 | ✅ Ganada |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.20 (83¢) | $86,707 | — | ⏳ Pendiente |
 | tankfest2027 | Valorant: 100 Thieves vs G2 Esports (BO3) - VCT Champions Playoffs | 100 Thieves | 1.69 (59¢) | $28,331 | +$19,687 | ✅ Ganada |
