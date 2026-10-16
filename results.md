@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 15:43:47 (hora de Perú)
+Actualizado: 2026-10-16 15:45:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5294**  ($289,953,361 en total)
+- Apuestas registradas: **5295**  ($289,995,361 en total)
 - Resueltas: **5242** — 3211 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 571
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 373 | 201 | 5 | 65% | $36,371,652 | +$1,109,148 |
 | Sassy-Bucket | 73 | 70 | 2 | 51% | $8,295,324 | -$637,340 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
-| Diabolical-Prize | 63 | 62 | 2 | 50% | $6,888,555 | -$375,975 |
+| Diabolical-Prize | 63 | 62 | 3 | 50% | $6,930,555 | -$375,975 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.67 (60¢) | $42,000 | — | ⏳ Pendiente |
 | joseph00677 | Will RC Deportivo A Coruña win on 2026-10-16? | Yes | 1.28 (78¢) | $42,148 | — | ⏳ Pendiente |
 | 473game | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.19 (84¢) | $45,255 | — | ⏳ Pendiente |
 | ndb1 | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.69 (59¢) | $71,951 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 | BrotherObama | Utah vs. Oilers | Oilers | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Sassy-Bucket | Utah vs. Oilers | Oilers | 2.04 (49¢) | $109,952 | -$109,952 | ❌ Perdida |
 | 0000a | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.12 (89¢) | $30,319 | -$30,319 | ❌ Perdida |
-| freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | MVK Esports | 1.23 (81¢) | $27,447 | +$6,438 | ✅ Ganada |
