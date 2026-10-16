@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 22:50:41 (hora de Perú)
+Actualizado: 2026-10-15 22:52:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5256**  ($287,950,604 en total)
-- Resueltas: **5206** — 3184 ganadas / 2022 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **5208** — 3184 ganadas / 2024 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 569
 
 ### Balance
 
-- **Resultado de los apostadores: +$573,325** sobre $284,882,333 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,820** sobre $513,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$438,374** sobre $285,017,285 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$5,020** sobre $513,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 370 | 199 | 7 | 65% | $36,227,942 | +$1,066,121 |
-| Sassy-Bucket | 73 | 69 | 3 | 51% | $8,295,324 | -$527,388 |
+| Sassy-Bucket | 73 | 70 | 2 | 51% | $8,295,324 | -$637,340 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
 | Diabolical-Prize | 63 | 62 | 0 | 50% | $6,766,064 | -$375,975 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 57 | 32 | 0 | 64% | $4,283,594 | +$490,229 |
 | ethanaz | 48 | 20 | 1 | 71% | $4,260,815 | +$54,116 |
-| BrotherObama | 40 | 47 | 3 | 46% | $4,076,955 | -$228,237 |
+| BrotherObama | 40 | 48 | 2 | 45% | $4,076,955 | -$253,237 |
 | joseph00677 | 15 | 1 | 0 | 94% | $3,811,330 | +$1,907,835 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | mooseborzoii | 44 | 25 | 5 | 64% | $3,682,454 | +$728,926 |
@@ -89,8 +89,8 @@ _(mostrando los 40 de mayor monto, de 569 en total)_
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 1.27 (79¢) | $41,009 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Seahawks vs. Broncos | Broncos | 1.27 (79¢) | $39,611 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seahawks vs. Broncos | Broncos | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
-| BrotherObama | Utah vs. Oilers | Oilers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| Sassy-Bucket | Utah vs. Oilers | Oilers | 2.04 (49¢) | $109,952 | — | ⏳ Pendiente |
+| BrotherObama | Utah vs. Oilers | Oilers | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
+| Sassy-Bucket | Utah vs. Oilers | Oilers | 2.04 (49¢) | $109,952 | -$109,952 | ❌ Perdida |
 | 0000a | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.12 (89¢) | $30,319 | -$30,319 | ❌ Perdida |
 | freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | MVK Esports | 1.23 (81¢) | $27,447 | +$6,438 | ✅ Ganada |
 | 0F62 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.11 (90¢) | $370,856 | -$370,856 | ❌ Perdida |
