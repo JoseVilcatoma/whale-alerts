@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 12:59:59 (hora de Perú)
+Actualizado: 2026-10-16 13:02:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5278**  ($289,002,339 en total)
+- Apuestas registradas: **5279**  ($289,053,339 en total)
 - Resueltas: **5241** — 3210 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 570
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 373 | 201 | 3 | 65% | $36,263,398 | +$1,109,148 |
 | Sassy-Bucket | 73 | 70 | 2 | 51% | $8,295,324 | -$637,340 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
-| Diabolical-Prize | 63 | 62 | 0 | 50% | $6,766,064 | -$375,975 |
+| Diabolical-Prize | 63 | 62 | 1 | 50% | $6,817,064 | -$375,975 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | FURIA Esports | 5.88 (17¢) | $51,000 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $141,100 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.18 (85¢) | $68,649 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: 100 Thieves vs Sangal (BO3) - Stake Pulse Beat III Playoffs | 100 Thieves | 1.41 (71¢) | $67,117 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | Sunshine.Smile | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.61 (62¢) | $67,981 | +$41,666 | ✅ Ganada |
 | qiu3 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.69 (59¢) | $28,337 | +$19,692 | ✅ Ganada |
 | Sunshine.Smile | LoL: Cloud9 vs Karmine Corp - Game 4 Winner | Cloud9 | 2.17 (46¢) | $43,651 | -$43,651 | ❌ Perdida |
-| ziyoucui | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 1.43 (70¢) | $33,313 | -$33,313 | ❌ Perdida |

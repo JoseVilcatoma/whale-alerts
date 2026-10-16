@@ -79336,5 +79336,20 @@
     "status": "pending",
     "ultimo_fill": 1792173332,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10750,
+    "timestamp": 1792173715,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-fur-c9-2026-10-16",
+    "title": "LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In",
+    "outcome": "FURIA Esports",
+    "side": "BUY",
+    "usd": 51000.00000000001,
+    "odds_at_bet": 17,
+    "status": "pending",
+    "ultimo_fill": 1792173715,
+    "fills": 1
   }
 ]
