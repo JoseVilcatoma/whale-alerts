@@ -79291,5 +79291,20 @@
     "status": "pending",
     "ultimo_fill": 1792169754,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10746,
+    "timestamp": 1792170366,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "cs2-100t-sng2-2026-10-16",
+    "title": "Counter-Strike: 100 Thieves vs Sangal (BO3) - Stake Pulse Beat III Playoffs",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 67117.4644,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1792170366,
+    "fills": 1
   }
 ]
