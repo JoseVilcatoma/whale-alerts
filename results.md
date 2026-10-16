@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 11:43:55 (hora de Perú)
+Actualizado: 2026-10-16 11:45:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5272**  ($288,610,613 en total)
+- Apuestas registradas: **5273**  ($288,661,277 en total)
 - Resueltas: **5240** — 3209 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 570
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 86 | 44 | 0 | 66% | $5,588,728 | +$32,848 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
-| Lakersfan111 | 57 | 32 | 3 | 64% | $4,433,807 | +$490,229 |
+| Lakersfan111 | 57 | 32 | 4 | 64% | $4,484,471 | +$490,229 |
 | ethanaz | 48 | 21 | 0 | 70% | $4,260,815 | -$86,799 |
 | BrotherObama | 40 | 48 | 2 | 45% | $4,076,955 | -$253,237 |
 | joseph00677 | 15 | 1 | 0 | 94% | $3,811,330 | +$1,907,835 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.19 (84¢) | $50,664 | — | ⏳ Pendiente |
 | qiu3 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.56 (39¢) | $27,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs | MIBR | 1.79 (56¢) | $27,401 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Aurora Gaming vs 9z (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 1.47 (68¢) | $25,590 | +$12,043 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
 | 3648393489047 | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.69 (59¢) | $27,558 | -$27,558 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 2.70 (37¢) | $36,821 | -$36,821 | ❌ Perdida |
-| corkmaster420blaezit | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.79 (56¢) | $30,226 | -$30,226 | ❌ Perdida |

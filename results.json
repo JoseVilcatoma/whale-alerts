@@ -79246,5 +79246,20 @@
     "status": "pending",
     "ultimo_fill": 1792167020,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10743,
+    "timestamp": 1792169104,
+    "username": "corkmaster420blaezit",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-mvk-kc-2026-10-16",
+    "title": "LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 50664.2724,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1792169104,
+    "fills": 1
   }
 ]
