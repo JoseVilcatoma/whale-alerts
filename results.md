@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 19:29:49 (hora de Perú)
+Actualizado: 2026-10-15 19:31:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5231**  ($285,614,288 en total)
+- Apuestas registradas: **5232**  ($285,680,015 en total)
 - Resueltas: **5199** — 3181 ganadas / 2018 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 567
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 40 | 47 | 2 | 46% | $4,051,955 | -$228,237 |
 | joseph00677 | 15 | 1 | 0 | 94% | $3,811,330 | +$1,907,835 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| mooseborzoii | 44 | 25 | 1 | 64% | $3,499,640 | +$728,926 |
+| mooseborzoii | 44 | 25 | 2 | 64% | $3,565,367 | +$728,926 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Seahawks vs. Broncos | Broncos | 2.50 (40¢) | $65,727 | — | ⏳ Pendiente |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Seahawks vs. Broncos | Seahawks | 1.75 (57¢) | $60,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Seahawks | 1.79 (56¢) | $127,217 | — | ⏳ Pendiente |
 | chubbytoro | Seahawks vs. Broncos | Seahawks | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | Woaifacai | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 2.27 (44¢) | $31,220 | +$14,191 | 💰 Vendida antes |
 | yabanci | Will AFC Ajax win on 2026-10-15? | Yes | 1.75 (57¢) | $32,490 | -$32,490 | ❌ Perdida |
 | yabanci | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.69 (59¢) | $33,597 | +$23,347 | ✅ Ganada |
-| Velin217 | Nuggets vs. Clippers | Clippers | 1.11 (90¢) | $52,755 | +$5,862 | ✅ Ganada |
