@@ -78676,5 +78676,35 @@
     "status": "pending",
     "ultimo_fill": 1792111943,
     "fills": 4
+  },
+  {
+    "telegram_msg_id": 10662,
+    "timestamp": 1792112021,
+    "username": "freeman123",
+    "wallet": "0xb70c4f38ce25d986a9da3f3190cbae87660934ca",
+    "slug": "lol-fur-mvk-2026-10-15",
+    "title": "LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In",
+    "outcome": "MVK Esports",
+    "side": "BUY",
+    "usd": 27447.062800000003,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1792112021,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10663,
+    "timestamp": 1792112032,
+    "username": "0000a",
+    "wallet": "0xee15aebd75faa8486bd803bc31c874d8a88a112c",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 30319.185,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1792112032,
+    "fills": 1
   }
 ]

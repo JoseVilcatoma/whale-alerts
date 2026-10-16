@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 19:52:38 (hora de Perú)
+Actualizado: 2026-10-15 19:54:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5234**  ($286,196,774 en total)
+- Apuestas registradas: **5236**  ($286,254,540 en total)
 - Resueltas: **5199** — 3181 ganadas / 2018 perdidas (**61%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 567
+- Pendientes: 15
+- Apostadores distintos: 568
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 
-_(mostrando los 40 de mayor monto, de 567 en total)_
+_(mostrando los 40 de mayor monto, de 568 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0000a | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.12 (89¢) | $30,319 | — | ⏳ Pendiente |
+| freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | MVK Esports | 1.23 (81¢) | $27,447 | — | ⏳ Pendiente |
 | 0F62 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.11 (90¢) | $370,856 | — | ⏳ Pendiente |
 | freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | MVK Esports | 1.23 (81¢) | $145,903 | — | ⏳ Pendiente |
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 2.50 (40¢) | $65,727 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | lllllllIlll | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.79 (56¢) | $31,198 | -$31,198 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $50,406 | -$50,406 | ❌ Perdida |
 | corkmaster420blaezit | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $34,641 | -$34,641 | ❌ Perdida |
-| 3648393489047 | Mallorca: Andrea Lazaro Garcia vs Nuria Brancaccio | Nuria Brancaccio | 1.61 (62¢) | $27,033 | -$27,033 | ❌ Perdida |
-| Woaifacai | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 2.27 (44¢) | $31,220 | +$14,191 | 💰 Vendida antes |
