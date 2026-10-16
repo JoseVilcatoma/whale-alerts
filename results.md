@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 19:56:47 (hora de Perú)
+Actualizado: 2026-10-15 19:58:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5236**  ($286,254,540 en total)
+- Apuestas registradas: **5237**  ($286,364,492 en total)
 - Resueltas: **5199** — 3181 ganadas / 2018 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 568
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 370 | 199 | 4 | 65% | $35,908,311 | +$1,066,121 |
-| Sassy-Bucket | 73 | 69 | 2 | 51% | $8,185,373 | -$527,388 |
+| Sassy-Bucket | 73 | 69 | 3 | 51% | $8,295,324 | -$527,388 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 1 | 53% | $7,149,030 | -$456,203 |
 | Diabolical-Prize | 63 | 62 | 0 | 50% | $6,766,064 | -$375,975 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 568 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Utah vs. Oilers | Oilers | 2.04 (49¢) | $109,952 | — | ⏳ Pendiente |
 | 0000a | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.12 (89¢) | $30,319 | — | ⏳ Pendiente |
 | freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | MVK Esports | 1.23 (81¢) | $27,447 | — | ⏳ Pendiente |
 | 0F62 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.11 (90¢) | $370,856 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 568 en total)_
 | Pjosully | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.61 (62¢) | $27,933 | +$17,120 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.79 (56¢) | $31,198 | -$31,198 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $50,406 | -$50,406 | ❌ Perdida |
-| corkmaster420blaezit | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | HANJIN BRION | 1.82 (55¢) | $34,641 | -$34,641 | ❌ Perdida |
