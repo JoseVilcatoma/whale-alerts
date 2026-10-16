@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 16:23:05 (hora de Perú)
+Actualizado: 2026-10-16 16:25:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5302**  ($290,393,779 en total)
+- Apuestas registradas: **5303**  ($290,433,779 en total)
 - Resueltas: **5256** — 3223 ganadas / 2033 perdidas (**61%** de acierto)
-- Pendientes: 24
-- Apostadores distintos: 571
+- Pendientes: 25
+- Apostadores distintos: 572
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 
-_(mostrando los 40 de mayor monto, de 571 en total)_
+_(mostrando los 40 de mayor monto, de 572 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bluemol | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.10 (91¢) | $40,000 | — | ⏳ Pendiente |
 | dsasdaas | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.22 (82¢) | $42,972 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.59 (63¢) | $48,141 | — | ⏳ Pendiente |
 | Diabolical-Prize | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 | 0000a | Seahawks vs. Broncos | Broncos | 1.20 (83¢) | $99,600 | +$20,400 | ✅ Ganada |
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 1.20 (83¢) | $50,202 | +$10,282 | ✅ Ganada |
 | Anon455 | Seahawks vs. Broncos | Broncos | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
-| ferrariChampions2026 | Seahawks vs. Broncos | Broncos | 1.30 (77¢) | $334,951 | +$100,050 | ✅ Ganada |
