@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 13:44:45 (hora de Perú)
+Actualizado: 2026-10-16 13:46:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5288**  ($289,665,362 en total)
+- Apuestas registradas: **5289**  ($289,691,608 en total)
 - Resueltas: **5241** — 3210 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 570
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 86 | 44 | 1 | 66% | $5,666,469 | +$32,848 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
-| Lakersfan111 | 57 | 32 | 9 | 64% | $4,815,679 | +$490,229 |
+| Lakersfan111 | 57 | 32 | 10 | 64% | $4,841,924 | +$490,229 |
 | ethanaz | 48 | 21 | 0 | 70% | $4,260,815 | -$86,799 |
 | BrotherObama | 40 | 48 | 3 | 45% | $4,106,955 | -$253,237 |
 | joseph00677 | 15 | 1 | 1 | 94% | $4,057,036 | +$1,907,835 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| corkmaster420blaezit | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | Cloud9 | 2.50 (40¢) | $26,245 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.11 (90¢) | $41,889 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.15 (87¢) | $77,740 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.20 (83¢) | $66,364 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 2.50 (40¢) | $65,727 | +$98,590 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Seahawks vs. Broncos | Seahawks | 1.75 (57¢) | $60,000 | -$60,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Seahawks | 1.79 (56¢) | $127,217 | -$127,217 | ❌ Perdida |
-| chubbytoro | Seahawks vs. Broncos | Seahawks | 1.79 (56¢) | $33,600 | -$33,600 | ❌ Perdida |
