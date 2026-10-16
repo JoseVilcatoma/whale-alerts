@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 18:42:15 (hora de Perú)
+Actualizado: 2026-10-16 18:44:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5307**  ($290,801,420 en total)
+- Apuestas registradas: **5309**  ($291,019,323 en total)
 - Resueltas: **5257** — 3224 ganadas / 2033 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 30
 - Apostadores distintos: 572
 
 ### Balance
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 375 | 201 | 4 | 65% | $36,454,652 | +$1,127,396 |
 | Sassy-Bucket | 73 | 70 | 2 | 51% | $8,295,324 | -$637,340 |
+| Diabolical-Prize | 64 | 62 | 5 | 51% | $7,166,504 | -$361,332 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
-| Diabolical-Prize | 64 | 62 | 4 | 51% | $7,058,311 | -$361,332 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 2 | 0 | 94% | $1,736,357 | +$92,570 |
 | 0x361b…74fe | 25 | 2 | 0 | 93% | $1,724,618 | +$811,651 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
+| S-Works | 10 | 3 | 2 | 77% | $1,582,939 | -$8,126 |
 
 _(mostrando los 40 de mayor monto, de 572 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 572 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.89 (53¢) | $109,710 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | FURIA Esports | 2.17 (46¢) | $108,193 | — | ⏳ Pendiente |
 | S-Works | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 2.56 (39¢) | $77,920 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Memphis vs. Tulane | Memphis | 1.45 (69¢) | $30,841 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.09 (92¢) | $45,925 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 572 en total)_
 | ethanaz | Seahawks vs. Broncos | Seahawks | 2.44 (41¢) | $140,914 | -$140,914 | ❌ Perdida |
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 1.52 (66¢) | $25,876 | +$13,330 | ✅ Ganada |
 | Anon455 | Seahawks vs. Broncos | Broncos | 1.30 (77¢) | $30,800 | +$9,200 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Broncos | 1.19 (84¢) | $54,195 | +$10,323 | ✅ Ganada |
-| Anon455 | Seahawks vs. Broncos | Broncos | 1.16 (86¢) | $63,694 | +$10,369 | ✅ Ganada |
