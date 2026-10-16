@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 08:51:45 (hora de Perú)
+Actualizado: 2026-10-16 08:53:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5270**  ($288,556,211 en total)
-- Resueltas: **5238** — 3207 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **5239** — 3208 ganadas / 2031 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 570
 
 ### Balance
 
-- **Resultado de los apostadores: +$496,828** sobre $287,239,179 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,838** sobre $516,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$516,515** sobre $287,267,509 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,769** sobre $516,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 |---|---|---|---|---|---|---|
 | lllllllIlll | Counter-Strike: Aurora Gaming vs 9z (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 1.47 (68¢) | $25,590 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.20 (83¢) | $86,707 | — | ⏳ Pendiente |
-| tankfest2027 | Valorant: 100 Thieves vs G2 Esports (BO3) - VCT Champions Playoffs | 100 Thieves | 1.69 (59¢) | $28,331 | — | ⏳ Pendiente |
+| tankfest2027 | Valorant: 100 Thieves vs G2 Esports (BO3) - VCT Champions Playoffs | 100 Thieves | 1.69 (59¢) | $28,331 | +$19,687 | ✅ Ganada |
 | 0000a | Wuhan Tennis Open: Ann Li vs Iga Swiatek | Iga Swiatek | 1.06 (94¢) | $33,382 | +$2,131 | ✅ Ganada |
 | mooseborzoii | Appalachian State vs. Coastal Carolina | Appalachian State | 1.92 (52¢) | $27,178 | — | ⏳ Pendiente |
 | Fvalp | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.22 (82¢) | $35,415 | +$7,774 | ✅ Ganada |
