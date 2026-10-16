@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 11:39:45 (hora de Perú)
+Actualizado: 2026-10-16 11:41:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5272**  ($288,610,613 en total)
-- Resueltas: **5239** — 3208 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **5240** — 3209 ganadas / 2031 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 570
 
 ### Balance
 
-- **Resultado de los apostadores: +$516,515** sobre $287,267,509 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,769** sobre $516,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$528,558** sobre $287,293,100 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,722** sobre $516,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 |---|---|---|---|---|---|---|
 | qiu3 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.56 (39¢) | $27,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs | MIBR | 1.79 (56¢) | $27,401 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Aurora Gaming vs 9z (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 1.47 (68¢) | $25,590 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Aurora Gaming vs 9z (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 1.47 (68¢) | $25,590 | +$12,043 | ✅ Ganada |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.20 (83¢) | $86,707 | — | ⏳ Pendiente |
 | tankfest2027 | Valorant: 100 Thieves vs G2 Esports (BO3) - VCT Champions Playoffs | 100 Thieves | 1.69 (59¢) | $28,331 | +$19,687 | ✅ Ganada |
 | 0000a | Wuhan Tennis Open: Ann Li vs Iga Swiatek | Iga Swiatek | 1.06 (94¢) | $33,382 | +$2,131 | ✅ Ganada |
