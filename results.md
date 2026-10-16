@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 05:56:19 (hora de Perú)
+Actualizado: 2026-10-16 05:58:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5263**  ($288,288,502 en total)
+- Apuestas registradas: **5264**  ($288,319,608 en total)
 - Resueltas: **5233** — 3203 ganadas / 2030 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 570
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0000a | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.12 (89¢) | $31,105 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.22 (82¢) | $28,499 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.22 (82¢) | $35,007 | — | ⏳ Pendiente |
 | juice-fruit | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.52 (66¢) | $63,232 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ferencvárosi TC win on 2026-10-15? | No | 2.17 (46¢) | $27,974 | -$27,974 | ❌ Perdida |
 | jonjones1993 | Will TSG 1899 Hoffenheim win on 2026-10-15? | No | 2.04 (49¢) | $25,283 | +$26,315 | ✅ Ganada |
 | lsiflsliggjriek | Will TSG 1899 Hoffenheim win on 2026-10-15? | Yes | 1.85 (54¢) | $46,612 | -$46,612 | ❌ Perdida |
-| Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 1 Winner | Karmine Corp | 1.54 (65¢) | $116,829 | -$116,829 | ❌ Perdida |

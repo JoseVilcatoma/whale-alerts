@@ -79111,5 +79111,20 @@
     "status": "pending",
     "ultimo_fill": 1792145869,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10726,
+    "timestamp": 1792148238,
+    "username": "0000a",
+    "wallet": "0xee15aebd75faa8486bd803bc31c874d8a88a112c",
+    "slug": "atp-medvede-paul-2026-10-15",
+    "title": "Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "usd": 31105.446999999996,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1792148238,
+    "fills": 1
   }
 ]
