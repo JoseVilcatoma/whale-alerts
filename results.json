@@ -79351,5 +79351,50 @@
     "status": "pending",
     "ultimo_fill": 1792173715,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10751,
+    "timestamp": 1792173728,
+    "username": "corkmaster420blaezit",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-fur-c9-2026-10-16",
+    "title": "LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 70525.7889,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1792173728,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10752,
+    "timestamp": 1792173730,
+    "username": "corkmaster420blaezit",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-fur-c9-2026-10-16-game-handicap-home-2pt5",
+    "title": "Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5)",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 25929.5647,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1792173730,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10753,
+    "timestamp": 1792173742,
+    "username": "corkmaster420blaezit",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-fur-c9-2026-10-16-game-handicap-home-1pt5",
+    "title": "Game Handicap: C9 (-1.5) vs FURIA Esports (+1.5)",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 25003.7138,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1792173742,
+    "fills": 1
   }
 ]
