@@ -79561,5 +79561,20 @@
     "status": "pending",
     "ultimo_fill": 1792182895,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10767,
+    "timestamp": 1792182962,
+    "username": "joseph00677",
+    "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+    "slug": "lal-dep-lev-2026-10-16-dep",
+    "title": "Will RC Deportivo A Coru\u00f1a win on 2026-10-16?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 42147.7532,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1792182962,
+    "fills": 1
   }
 ]
