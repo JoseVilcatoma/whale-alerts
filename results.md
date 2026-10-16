@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 20:51:19 (hora de Perú)
+Actualizado: 2026-10-15 20:53:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5242**  ($286,538,126 en total)
+- Apuestas registradas: **5243**  ($286,873,077 en total)
 - Resueltas: **5199** — 3181 ganadas / 2018 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 568
 
 ### Balance
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
+| ferrariChampions2026 | 83 | 44 | 2 | 65% | $5,547,447 | -$85,304 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
-| ferrariChampions2026 | 83 | 44 | 1 | 65% | $5,212,496 | -$85,304 |
 | Lakersfan111 | 57 | 32 | 0 | 64% | $4,283,594 | +$490,229 |
 | ethanaz | 48 | 20 | 0 | 71% | $4,119,901 | +$54,116 |
 | BrotherObama | 40 | 47 | 3 | 46% | $4,076,955 | -$228,237 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 568 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Seahawks vs. Broncos | Broncos | 1.30 (77¢) | $334,951 | — | ⏳ Pendiente |
 | bands1 | Seahawks vs. Broncos | Broncos | 1.30 (77¢) | $31,014 | — | ⏳ Pendiente |
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 1.27 (79¢) | $41,009 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Seahawks vs. Broncos | Broncos | 1.27 (79¢) | $39,611 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 568 en total)_
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $331,221 | +$141,952 | ✅ Ganada |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.49 (67¢) | $70,447 | +$34,698 | ✅ Ganada |
 | corkmaster420blaezit | Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B | Legacy | 2.38 (42¢) | $114,241 | -$114,241 | ❌ Perdida |
-| 3648393489047 | Wuhan Tennis Open: Ashlyn Krueger vs Iga Swiatek | Iga Swiatek | 1.14 (88¢) | $26,697 | +$3,641 | ✅ Ganada |
