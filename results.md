@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 14:46:22 (hora de Perú)
+Actualizado: 2026-10-16 14:48:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5290**  ($289,763,099 en total)
-- Resueltas: **5241** — 3210 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **5242** — 3211 ganadas / 2031 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 570
 
 ### Balance
 
-- **Resultado de los apostadores: +$550,088** sobre $287,320,501 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,643** sobre $516,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$577,502** sobre $287,387,619 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,602** sobre $516,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | Diabolical-Prize | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | FURIA Esports | 5.88 (17¢) | $51,000 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $141,100 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.18 (85¢) | $68,649 | — | ⏳ Pendiente |
-| juice-fruit | Counter-Strike: 100 Thieves vs Sangal (BO3) - Stake Pulse Beat III Playoffs | 100 Thieves | 1.41 (71¢) | $67,117 | — | ⏳ Pendiente |
+| juice-fruit | Counter-Strike: 100 Thieves vs Sangal (BO3) - Stake Pulse Beat III Playoffs | 100 Thieves | 1.41 (71¢) | $67,117 | +$27,414 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.50 (40¢) | $29,244 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Purdue (-3.5) | Purdue | 2.13 (47¢) | $34,952 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.19 (84¢) | $50,664 | — | ⏳ Pendiente |
