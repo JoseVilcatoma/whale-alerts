@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 19:13:18 (hora de Perú)
+Actualizado: 2026-10-15 19:15:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5228**  ($285,393,471 en total)
+- Apuestas registradas: **5230**  ($285,554,288 en total)
 - Resueltas: **5199** — 3181 ganadas / 2018 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 9
 - Apostadores distintos: 567
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 370 | 199 | 3 | 65% | $35,781,094 | +$1,066,121 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 370 | 199 | 4 | 65% | $35,908,311 | +$1,066,121 |
 | Sassy-Bucket | 73 | 69 | 2 | 51% | $8,185,373 | -$527,388 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 1 | 53% | $7,149,030 | -$456,203 |
 | Diabolical-Prize | 63 | 62 | 0 | 50% | $6,766,064 | -$375,975 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Seahawks | 1.79 (56¢) | $127,217 | — | ⏳ Pendiente |
+| chubbytoro | Seahawks vs. Broncos | Seahawks | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.38 (42¢) | $26,920 | — | ⏳ Pendiente |
 | theowalcott | Will CR Flamengo win on 2026-10-15? | No | 1.92 (52¢) | $28,543 | — | ⏳ Pendiente |
 | freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | FURIA Esports | 1.33 (75¢) | $36,418 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 567 en total)_
 | yabanci | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.69 (59¢) | $33,597 | +$23,347 | ✅ Ganada |
 | Velin217 | Nuggets vs. Clippers | Clippers | 1.11 (90¢) | $52,755 | +$5,862 | ✅ Ganada |
 | ArielFilipino | Colorado State vs. Texas State: O/U 69.5 | Under 69.5 | 1.96 (51¢) | $32,000 | — | ⏳ Pendiente |
-| Velin217 | Wuhan Tennis Open: Karolina Muchova vs Diana Shnaider | Diana Shnaider | 2.08 (48¢) | $27,792 | +$30,108 | ✅ Ganada |
-| www511zwin | Spread: Nuggets (-10.5) | Clippers | 2.00 (50¢) | $38,832 | +$38,832 | ✅ Ganada |

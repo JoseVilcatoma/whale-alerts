@@ -78586,5 +78586,35 @@
     "status": "pending",
     "ultimo_fill": 1792108806,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10656,
+    "timestamp": 1792109651,
+    "username": "chubbytoro",
+    "wallet": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
+    "slug": "nfl-sea-den-2026-10-16",
+    "title": "Seahawks vs. Broncos",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 33600.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1792109651,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10657,
+    "timestamp": 1792109686,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-sea-den-2026-10-16",
+    "title": "Seahawks vs. Broncos",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 127216.6112,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1792109686,
+    "fills": 1
   }
 ]
