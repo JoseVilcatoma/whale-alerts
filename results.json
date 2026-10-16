@@ -79816,5 +79816,35 @@
     "status": "pending",
     "ultimo_fill": 1792194273,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10800,
+    "timestamp": 1792194837,
+    "username": "0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121",
+    "wallet": "0x17c4f7e008fe22d69865f73f29329b6e76b92471",
+    "slug": "cfb-applst-coast-2026-10-16",
+    "title": "Appalachian State vs. Coastal Carolina",
+    "outcome": "Coastal Carolina",
+    "side": "BUY",
+    "usd": 43732.5704,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792194837,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10801,
+    "timestamp": 1792194848,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "cfb-applst-coast-2026-10-16",
+    "title": "Appalachian State vs. Coastal Carolina",
+    "outcome": "Appalachian State",
+    "side": "BUY",
+    "usd": 64636.335447,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1792194877,
+    "fills": 2
   }
 ]

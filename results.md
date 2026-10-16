@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 18:52:41 (hora de Perú)
+Actualizado: 2026-10-16 18:54:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5310**  ($291,072,323 en total)
+- Apuestas registradas: **5312**  ($291,180,692 en total)
 - Resueltas: **5257** — 3224 ganadas / 2033 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 33
 - Apostadores distintos: 572
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 48 | 21 | 0 | 70% | $4,260,815 | -$86,799 |
 | BrotherObama | 40 | 48 | 4 | 45% | $4,132,955 | -$253,237 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
-| mooseborzoii | 48 | 25 | 2 | 66% | $3,709,632 | +$862,030 |
+| mooseborzoii | 48 | 25 | 3 | 66% | $3,774,268 | +$862,030 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 572 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Appalachian State vs. Coastal Carolina | Appalachian State | 2.08 (48¢) | $64,636 | — | ⏳ Pendiente |
+| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Appalachian State vs. Coastal Carolina | Coastal Carolina | 2.00 (50¢) | $43,733 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | S-Works | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.89 (53¢) | $109,710 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | FURIA Esports | 2.17 (46¢) | $108,193 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 572 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Broncos | 2.17 (46¢) | $89,012 | +$104,493 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Broncos | 1.52 (66¢) | $176,424 | +$90,885 | ✅ Ganada |
 | ferrariChampions2026 | Seahawks vs. Broncos | Broncos | 1.12 (89¢) | $41,281 | +$5,102 | ✅ Ganada |
-| ethanaz | Seahawks vs. Broncos | Seahawks | 2.44 (41¢) | $140,914 | -$140,914 | ❌ Perdida |
-| mooseborzoii | Seahawks vs. Broncos | Broncos | 1.52 (66¢) | $25,876 | +$13,330 | ✅ Ganada |
