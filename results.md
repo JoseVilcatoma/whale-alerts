@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 23:35:49 (hora de Perú)
+Actualizado: 2026-10-15 23:37:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5258**  ($288,014,660 en total)
+- Apuestas registradas: **5259**  ($288,065,301 en total)
 - Resueltas: **5230** — 3202 ganadas / 2028 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 569
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 569 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Velin217 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Jelena Ostapenko | 1.16 (86¢) | $50,641 | — | ⏳ Pendiente |
 | gransaaa | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.92 (52¢) | $28,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Diana Shnaider | 1.67 (60¢) | $35,456 | — | ⏳ Pendiente |
 | Velin217 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Diana Shnaider | 1.28 (78¢) | $77,528 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 569 en total)_
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $76,500 | +$36,000 | ✅ Ganada |
 | juice-fruit | Will Sunderland AFC win on 2026-10-15? | Yes | 1.32 (76¢) | $91,449 | +$28,879 | ✅ Ganada |
 | Sassy-Bucket | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $33,548 | -$33,548 | ❌ Perdida |
-| S-Works | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.75 (57¢) | $27,316 | +$20,607 | ✅ Ganada |
