@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 05:17:08 (hora de Perú)
+Actualizado: 2026-10-16 05:19:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5261**  ($288,224,997 en total)
+- Apuestas registradas: **5263**  ($288,288,502 en total)
 - Resueltas: **5233** — 3203 ganadas / 2030 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 8
 - Apostadores distintos: 570
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 86 | 44 | 0 | 66% | $5,588,728 | +$32,848 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
-| Lakersfan111 | 57 | 32 | 0 | 64% | $4,283,594 | +$490,229 |
+| Lakersfan111 | 57 | 32 | 2 | 64% | $4,347,100 | +$490,229 |
 | ethanaz | 48 | 21 | 0 | 70% | $4,260,815 | -$86,799 |
 | BrotherObama | 40 | 48 | 2 | 45% | $4,076,955 | -$253,237 |
 | joseph00677 | 15 | 1 | 0 | 94% | $3,811,330 | +$1,907,835 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.22 (82¢) | $28,499 | — | ⏳ Pendiente |
+| corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.22 (82¢) | $35,007 | — | ⏳ Pendiente |
 | juice-fruit | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.52 (66¢) | $63,232 | — | ⏳ Pendiente |
 | lllllllllllIlll | Counter-Strike: NIP vs Liquid (BO3) - Stake Pulse Beat III Playoffs | Liquid | 1.96 (51¢) | $96,464 | — | ⏳ Pendiente |
 | Velin217 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Jelena Ostapenko | 1.16 (86¢) | $50,641 | +$8,244 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | jonjones1993 | Will TSG 1899 Hoffenheim win on 2026-10-15? | No | 2.04 (49¢) | $25,283 | +$26,315 | ✅ Ganada |
 | lsiflsliggjriek | Will TSG 1899 Hoffenheim win on 2026-10-15? | Yes | 1.85 (54¢) | $46,612 | -$46,612 | ❌ Perdida |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp - Game 1 Winner | Karmine Corp | 1.54 (65¢) | $116,829 | -$116,829 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $26,386 | +$12,417 | ✅ Ganada |
-| Diabolical-Prize | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.47 (68¢) | $76,500 | +$36,000 | ✅ Ganada |

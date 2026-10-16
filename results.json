@@ -79081,5 +79081,35 @@
     "status": "pending",
     "ultimo_fill": 1792145792,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 10724,
+    "timestamp": 1792145841,
+    "username": "corkmaster420blaezit",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-mvk-kc-2026-10-16",
+    "title": "LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 35006.6118,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1792145841,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10725,
+    "timestamp": 1792145869,
+    "username": "corkmaster420blaezit",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-fur-c9-2026-10-16",
+    "title": "LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 28499.124599999996,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1792145869,
+    "fills": 1
   }
 ]
