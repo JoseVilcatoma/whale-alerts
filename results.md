@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 16:33:34 (hora de Perú)
+Actualizado: 2026-10-16 16:35:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5303**  ($290,433,779 en total)
+- Apuestas registradas: **5304**  ($290,646,735 en total)
 - Resueltas: **5257** — 3224 ganadas / 2033 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 572
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 87 | 44 | 0 | 66% | $5,666,469 | +$44,465 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
-| Lakersfan111 | 61 | 32 | 6 | 66% | $4,841,924 | +$537,438 |
+| Lakersfan111 | 61 | 32 | 7 | 66% | $5,054,880 | +$537,438 |
 | ethanaz | 48 | 21 | 0 | 70% | $4,260,815 | -$86,799 |
 | BrotherObama | 40 | 48 | 4 | 45% | $4,132,955 | -$253,237 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 572 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.09 (92¢) | $212,956 | — | ⏳ Pendiente |
 | bluemol | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.10 (91¢) | $40,000 | — | ⏳ Pendiente |
 | dsasdaas | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.22 (82¢) | $42,972 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.59 (63¢) | $48,141 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 572 en total)_
 | cosmicxbt | Seahawks vs. Broncos | Broncos | 1.11 (90¢) | $198,000 | +$22,000 | ✅ Ganada |
 | 0000a | Seahawks vs. Broncos | Broncos | 1.20 (83¢) | $99,600 | +$20,400 | ✅ Ganada |
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 1.20 (83¢) | $50,202 | +$10,282 | ✅ Ganada |
-| Anon455 | Seahawks vs. Broncos | Broncos | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
