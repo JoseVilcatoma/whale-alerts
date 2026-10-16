@@ -79051,5 +79051,20 @@
     "status": "won",
     "ultimo_fill": 1792125449,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10721,
+    "timestamp": 1792137455,
+    "username": "lllllllllllIlll",
+    "wallet": "0x33d409077f4533e988bf54a5270a712207d72833",
+    "slug": "cs2-nip-tl1-2026-10-16",
+    "title": "Counter-Strike: NIP vs Liquid (BO3) - Stake Pulse Beat III Playoffs",
+    "outcome": "Liquid",
+    "side": "BUY",
+    "usd": 96463.5624,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792137455,
+    "fills": 1
   }
 ]
