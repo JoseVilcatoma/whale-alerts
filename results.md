@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 13:30:28 (hora de Perú)
+Actualizado: 2026-10-16 13:32:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5286**  ($289,545,732 en total)
+- Apuestas registradas: **5288**  ($289,665,362 en total)
 - Resueltas: **5241** — 3210 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 25
 - Apostadores distintos: 570
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 373 | 201 | 4 | 65% | $36,329,763 | +$1,109,148 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 373 | 201 | 5 | 65% | $36,371,652 | +$1,109,148 |
 | Sassy-Bucket | 73 | 70 | 2 | 51% | $8,295,324 | -$637,340 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
 | Diabolical-Prize | 63 | 62 | 1 | 50% | $6,817,064 | -$375,975 |
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
-| ferrariChampions2026 | 86 | 44 | 0 | 66% | $5,588,728 | +$32,848 |
+| ferrariChampions2026 | 86 | 44 | 1 | 66% | $5,666,469 | +$32,848 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 57 | 32 | 9 | 64% | $4,815,679 | +$490,229 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.11 (90¢) | $41,889 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.15 (87¢) | $77,740 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.20 (83¢) | $66,364 | — | ⏳ Pendiente |
 | Kkunn | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | Legacy | 2.50 (40¢) | $28,864 | — | ⏳ Pendiente |
 | joseph00677 | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.82 (55¢) | $245,706 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Seahawks vs. Broncos | Seahawks | 1.75 (57¢) | $60,000 | -$60,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Seahawks | 1.79 (56¢) | $127,217 | -$127,217 | ❌ Perdida |
 | chubbytoro | Seahawks vs. Broncos | Seahawks | 1.79 (56¢) | $33,600 | -$33,600 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.38 (42¢) | $26,920 | +$37,175 | ✅ Ganada |
-| theowalcott | Will CR Flamengo win on 2026-10-15? | No | 1.92 (52¢) | $28,543 | +$26,347 | ✅ Ganada |
