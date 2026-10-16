@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 15:47:54 (hora de Perú)
+Actualizado: 2026-10-16 15:49:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5298**  ($290,174,911 en total)
+- Apuestas registradas: **5299**  ($290,271,667 en total)
 - Resueltas: **5244** — 3213 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 571
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 373 | 201 | 6 | 65% | $36,454,652 | +$1,109,148 |
 | Sassy-Bucket | 73 | 70 | 2 | 51% | $8,295,324 | -$637,340 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
-| Diabolical-Prize | 63 | 62 | 3 | 50% | $6,930,555 | -$375,975 |
+| Diabolical-Prize | 63 | 62 | 4 | 50% | $7,027,311 | -$375,975 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | FURIA Esports | 5.56 (18¢) | $96,756 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $83,000 | — | ⏳ Pendiente |
 | BrotherObama | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $26,000 | — | ⏳ Pendiente |
 | StasPanda | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $70,550 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 | bands1 | Seahawks vs. Broncos | Broncos | 1.30 (77¢) | $31,014 | +$9,264 | ✅ Ganada |
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 1.27 (79¢) | $41,009 | +$10,901 | ✅ Ganada |
 | TAIWANNUMBERONE | Seahawks vs. Broncos | Broncos | 1.27 (79¢) | $39,611 | +$10,529 | ✅ Ganada |
-| ferrariChampions2026 | Seahawks vs. Broncos | Broncos | 1.35 (74¢) | $37,000 | +$13,000 | ✅ Ganada |
