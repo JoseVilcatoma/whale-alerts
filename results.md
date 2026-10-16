@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 20:24:00 (hora de Perú)
+Actualizado: 2026-10-15 20:26:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5239**  ($286,426,492 en total)
+- Apuestas registradas: **5240**  ($286,466,103 en total)
 - Resueltas: **5199** — 3181 ganadas / 2018 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 568
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 568 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Seahawks vs. Broncos | Broncos | 1.27 (79¢) | $39,611 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seahawks vs. Broncos | Broncos | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
 | BrotherObama | Utah vs. Oilers | Oilers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Utah vs. Oilers | Oilers | 2.04 (49¢) | $109,952 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 568 en total)_
 | 3648393489047 | Wuhan Tennis Open: Ashlyn Krueger vs Iga Swiatek | Iga Swiatek | 1.14 (88¢) | $26,697 | +$3,641 | ✅ Ganada |
 | Anjun | LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs | Team WE | 1.35 (74¢) | $32,889 | +$11,555 | ✅ Ganada |
 | hurrican | Counter-Strike: 9z vs Team Falcons (BO3) - Thunderpick World Championship Group A | Team Falcons | 1.18 (85¢) | $27,287 | +$4,815 | ✅ Ganada |
-| Pjosully | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.61 (62¢) | $27,933 | +$17,120 | ✅ Ganada |

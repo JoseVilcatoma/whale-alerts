@@ -78751,5 +78751,20 @@
     "status": "pending",
     "ultimo_fill": 1792113225,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10667,
+    "timestamp": 1792113842,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-sea-den-2026-10-16",
+    "title": "Seahawks vs. Broncos",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 39610.9397,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1792113842,
+    "fills": 1
   }
 ]
