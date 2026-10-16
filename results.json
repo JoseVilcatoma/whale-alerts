@@ -78856,5 +78856,20 @@
     "status": "pending",
     "ultimo_fill": 1792117403,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10679,
+    "timestamp": 1792118544,
+    "username": "cosmicxbt",
+    "wallet": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+    "slug": "nfl-sea-den-2026-10-16",
+    "title": "Seahawks vs. Broncos",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 198000.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1792118544,
+    "fills": 1
   }
 ]
