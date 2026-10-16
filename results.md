@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 22:27:54 (hora de Perú)
+Actualizado: 2026-10-15 22:29:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5255**  ($287,873,075 en total)
-- Resueltas: **5203** — 3183 ganadas / 2020 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **5206** — 3184 ganadas / 2022 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 569
 
 ### Balance
 
-- **Resultado de los apostadores: +$937,325** sobre $284,454,238 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,758** sobre $513,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$573,325** sobre $284,882,333 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,820** sobre $513,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 370 | 199 | 7 | 65% | $36,227,942 | +$1,066,121 |
 | Sassy-Bucket | 73 | 69 | 3 | 51% | $8,295,324 | -$527,388 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 92 | 83 | 1 | 53% | $7,149,030 | -$456,203 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
 | Diabolical-Prize | 63 | 62 | 0 | 50% | $6,766,064 | -$375,975 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 34 | 10 | 1 | 77% | $2,943,503 | +$1,598,814 |
 | raybanman | 16 | 9 | 0 | 64% | $2,643,012 | +$654,807 |
 | cosmicxbt | 16 | 7 | 1 | 70% | $2,604,992 | -$359,317 |
-| 0F62 | 29 | 4 | 1 | 88% | $2,593,269 | +$46,831 |
+| 0F62 | 29 | 5 | 0 | 85% | $2,593,269 | -$324,024 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
@@ -90,15 +90,15 @@ _(mostrando los 40 de mayor monto, de 569 en total)_
 | ferrariChampions2026 | Seahawks vs. Broncos | Broncos | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
 | BrotherObama | Utah vs. Oilers | Oilers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Utah vs. Oilers | Oilers | 2.04 (49¢) | $109,952 | — | ⏳ Pendiente |
-| 0000a | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.12 (89¢) | $30,319 | — | ⏳ Pendiente |
+| 0000a | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.12 (89¢) | $30,319 | -$30,319 | ❌ Perdida |
 | freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | MVK Esports | 1.23 (81¢) | $27,447 | +$6,438 | ✅ Ganada |
-| 0F62 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.11 (90¢) | $370,856 | — | ⏳ Pendiente |
+| 0F62 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.11 (90¢) | $370,856 | -$370,856 | ❌ Perdida |
 | freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | MVK Esports | 1.23 (81¢) | $145,903 | +$34,224 | ✅ Ganada |
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 2.50 (40¢) | $65,727 | — | ⏳ Pendiente |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Seahawks vs. Broncos | Seahawks | 1.75 (57¢) | $60,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Seahawks | 1.79 (56¢) | $127,217 | — | ⏳ Pendiente |
 | chubbytoro | Seahawks vs. Broncos | Seahawks | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.38 (42¢) | $26,920 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.38 (42¢) | $26,920 | +$37,175 | ✅ Ganada |
 | theowalcott | Will CR Flamengo win on 2026-10-15? | No | 1.92 (52¢) | $28,543 | — | ⏳ Pendiente |
 | freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | FURIA Esports | 1.33 (75¢) | $36,418 | -$36,418 | ❌ Perdida |
 | hurrican | Santa Cruz 2: Franco Roncadelli vs Juan Carlos Prado | Juan Carlos Prado | 1.16 (86¢) | $32,669 | -$32,669 | ❌ Perdida |
