@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 14:52:37 (hora de Perú)
+Actualizado: 2026-10-16 14:54:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5290**  ($289,763,099 en total)
+- Apuestas registradas: **5291**  ($289,794,006 en total)
 - Resueltas: **5242** — 3211 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 570
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| zb8 | LoL: MVK Esports vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.22 (82¢) | $30,907 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: MVK Esports vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.20 (83¢) | $71,491 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | Cloud9 | 2.50 (40¢) | $26,245 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.11 (90¢) | $41,889 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | 0F62 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.11 (90¢) | $370,856 | -$370,856 | ❌ Perdida |
 | freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | MVK Esports | 1.23 (81¢) | $145,903 | +$34,224 | ✅ Ganada |
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 2.50 (40¢) | $65,727 | +$98,590 | ✅ Ganada |
-| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Seahawks vs. Broncos | Seahawks | 1.75 (57¢) | $60,000 | -$60,000 | ❌ Perdida |
