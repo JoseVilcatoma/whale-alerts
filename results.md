@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 06:31:23 (hora de Perú)
+Actualizado: 2026-10-16 06:33:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5265**  ($288,355,023 en total)
-- Resueltas: **5233** — 3203 ganadas / 2030 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **5234** — 3203 ganadas / 2031 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 570
 
 ### Balance
 
-- **Resultado de los apostadores: +$546,968** sobre $286,979,580 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,830** sobre $516,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$450,504** sobre $287,076,044 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,930** sobre $516,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.22 (82¢) | $28,499 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.22 (82¢) | $35,007 | — | ⏳ Pendiente |
 | juice-fruit | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.52 (66¢) | $63,232 | — | ⏳ Pendiente |
-| lllllllllllIlll | Counter-Strike: NIP vs Liquid (BO3) - Stake Pulse Beat III Playoffs | Liquid | 1.96 (51¢) | $96,464 | — | ⏳ Pendiente |
+| lllllllllllIlll | Counter-Strike: NIP vs Liquid (BO3) - Stake Pulse Beat III Playoffs | Liquid | 1.96 (51¢) | $96,464 | -$96,464 | ❌ Perdida |
 | Velin217 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Jelena Ostapenko | 1.16 (86¢) | $50,641 | +$8,244 | ✅ Ganada |
 | gransaaa | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.92 (52¢) | $28,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Diana Shnaider | 1.67 (60¢) | $35,456 | -$35,456 | ❌ Perdida |
