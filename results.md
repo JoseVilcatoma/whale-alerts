@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 22:40:31 (hora de Perú)
+Actualizado: 2026-10-15 22:42:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5255**  ($287,873,075 en total)
+- Apuestas registradas: **5256**  ($287,950,604 en total)
 - Resueltas: **5206** — 3184 ganadas / 2022 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 569
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 569 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Velin217 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Diana Shnaider | 1.28 (78¢) | $77,528 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Broncos | 2.17 (46¢) | $89,012 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Broncos | 1.52 (66¢) | $176,424 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seahawks vs. Broncos | Broncos | 1.12 (89¢) | $41,281 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 569 en total)_
 | S-Works | Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D | MIBR | 1.75 (57¢) | $27,316 | +$20,607 | ✅ Ganada |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $27,044 | -$27,044 | ❌ Perdida |
 | joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $49,244 | +$21,104 | ✅ Ganada |
-| joseph00677 | Will Bayer 04 Leverkusen win on 2026-10-15? | Yes | 1.43 (70¢) | $99,142 | +$42,490 | ✅ Ganada |
