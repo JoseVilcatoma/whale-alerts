@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 07:54:07 (hora de Perú)
+Actualizado: 2026-10-16 07:56:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5269**  ($288,530,621 en total)
-- Resueltas: **5234** — 3203 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **5237** — 3206 ganadas / 2031 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 570
 
 ### Balance
 
-- **Resultado de los apostadores: +$450,504** sobre $287,076,044 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,930** sobre $516,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$494,697** sobre $287,205,797 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,845** sobre $516,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,11 +75,11 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | tankfest2027 | Valorant: 100 Thieves vs G2 Esports (BO3) - VCT Champions Playoffs | 100 Thieves | 1.69 (59¢) | $28,331 | — | ⏳ Pendiente |
 | 0000a | Wuhan Tennis Open: Ann Li vs Iga Swiatek | Iga Swiatek | 1.06 (94¢) | $33,382 | — | ⏳ Pendiente |
 | mooseborzoii | Appalachian State vs. Coastal Carolina | Appalachian State | 1.92 (52¢) | $27,178 | — | ⏳ Pendiente |
-| Fvalp | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.22 (82¢) | $35,415 | — | ⏳ Pendiente |
-| 0000a | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.12 (89¢) | $31,105 | — | ⏳ Pendiente |
+| Fvalp | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.22 (82¢) | $35,415 | +$7,774 | ✅ Ganada |
+| 0000a | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.12 (89¢) | $31,105 | +$3,844 | ✅ Ganada |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.22 (82¢) | $28,499 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.22 (82¢) | $35,007 | — | ⏳ Pendiente |
-| juice-fruit | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.52 (66¢) | $63,232 | — | ⏳ Pendiente |
+| juice-fruit | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.52 (66¢) | $63,232 | +$32,574 | ✅ Ganada |
 | lllllllllllIlll | Counter-Strike: NIP vs Liquid (BO3) - Stake Pulse Beat III Playoffs | Liquid | 1.96 (51¢) | $96,464 | -$96,464 | ❌ Perdida |
 | Velin217 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Jelena Ostapenko | 1.16 (86¢) | $50,641 | +$8,244 | ✅ Ganada |
 | gransaaa | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.92 (52¢) | $28,600 | — | ⏳ Pendiente |
