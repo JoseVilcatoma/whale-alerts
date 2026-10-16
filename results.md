@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 08:55:49 (hora de Perú)
+Actualizado: 2026-10-16 08:57:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5270**  ($288,556,211 en total)
+- Apuestas registradas: **5271**  ($288,583,613 en total)
 - Resueltas: **5239** — 3208 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 570
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs | MIBR | 1.79 (56¢) | $27,401 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Aurora Gaming vs 9z (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 1.47 (68¢) | $25,590 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.20 (83¢) | $86,707 | — | ⏳ Pendiente |
 | tankfest2027 | Valorant: 100 Thieves vs G2 Esports (BO3) - VCT Champions Playoffs | 100 Thieves | 1.69 (59¢) | $28,331 | +$19,687 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 2.70 (37¢) | $36,821 | -$36,821 | ❌ Perdida |
 | corkmaster420blaezit | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.79 (56¢) | $30,226 | -$30,226 | ❌ Perdida |
 | S-Works | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $54,570 | +$52,430 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |

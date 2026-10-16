@@ -79216,5 +79216,20 @@
     "status": "pending",
     "ultimo_fill": 1792157739,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10739,
+    "timestamp": 1792158983,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-ast10-mibr-2026-10-16",
+    "title": "Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 27401.360000000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1792158983,
+    "fills": 1
   }
 ]
