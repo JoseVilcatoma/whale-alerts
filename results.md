@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 18:44:23 (hora de Perú)
+Actualizado: 2026-10-16 18:46:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5309**  ($291,019,323 en total)
+- Apuestas registradas: **5310**  ($291,072,323 en total)
 - Resueltas: **5257** — 3224 ganadas / 2033 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 572
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 375 | 201 | 4 | 65% | $36,454,652 | +$1,127,396 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 375 | 201 | 5 | 65% | $36,507,652 | +$1,127,396 |
 | Sassy-Bucket | 73 | 70 | 2 | 51% | $8,295,324 | -$637,340 |
 | Diabolical-Prize | 64 | 62 | 5 | 51% | $7,166,504 | -$361,332 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 572 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | S-Works | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.89 (53¢) | $109,710 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | FURIA Esports | 2.17 (46¢) | $108,193 | — | ⏳ Pendiente |
 | S-Works | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 2.56 (39¢) | $77,920 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 572 en total)_
 | ferrariChampions2026 | Seahawks vs. Broncos | Broncos | 1.12 (89¢) | $41,281 | +$5,102 | ✅ Ganada |
 | ethanaz | Seahawks vs. Broncos | Seahawks | 2.44 (41¢) | $140,914 | -$140,914 | ❌ Perdida |
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 1.52 (66¢) | $25,876 | +$13,330 | ✅ Ganada |
-| Anon455 | Seahawks vs. Broncos | Broncos | 1.30 (77¢) | $30,800 | +$9,200 | ✅ Ganada |
