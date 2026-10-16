@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 15:52:02 (hora de Perú)
+Actualizado: 2026-10-16 15:54:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5300**  ($290,302,667 en total)
+- Apuestas registradas: **5301**  ($290,350,807 en total)
 - Resueltas: **5244** — 3213 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 571
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.59 (63¢) | $48,141 | — | ⏳ Pendiente |
 | Diabolical-Prize | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | FURIA Esports | 5.56 (18¢) | $96,756 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $83,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 571 en total)_
 | Anon455 | Seahawks vs. Broncos | Broncos | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
 | ferrariChampions2026 | Seahawks vs. Broncos | Broncos | 1.30 (77¢) | $334,951 | +$100,050 | ✅ Ganada |
 | bands1 | Seahawks vs. Broncos | Broncos | 1.30 (77¢) | $31,014 | +$9,264 | ✅ Ganada |
-| mooseborzoii | Seahawks vs. Broncos | Broncos | 1.27 (79¢) | $41,009 | +$10,901 | ✅ Ganada |
