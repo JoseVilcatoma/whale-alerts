@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 21:47:07 (hora de Perú)
+Actualizado: 2026-10-15 21:49:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5248**  ($287,280,572 en total)
+- Apuestas registradas: **5248**  ($287,314,572 en total)
 - Resueltas: **5203** — 3183 ganadas / 2020 perdidas (**61%** de acierto)
 - Pendientes: 23
 - Apostadores distintos: 569
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 569 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Anon455 | Seahawks vs. Broncos | Broncos | 1.15 (87¢) | $29,694 | — | ⏳ Pendiente |
+| Anon455 | Seahawks vs. Broncos | Broncos | 1.16 (86¢) | $63,694 | — | ⏳ Pendiente |
 | cosmicxbt | Seahawks vs. Broncos | Broncos | 1.11 (90¢) | $198,000 | — | ⏳ Pendiente |
 | 0000a | Seahawks vs. Broncos | Broncos | 1.20 (83¢) | $99,600 | — | ⏳ Pendiente |
 | mooseborzoii | Seahawks vs. Broncos | Broncos | 1.20 (83¢) | $50,202 | — | ⏳ Pendiente |
