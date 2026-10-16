@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-15 23:27:35 (hora de Perú)
+Actualizado: 2026-10-15 23:29:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5258**  ($288,014,660 en total)
-- Resueltas: **5229** — 3201 ganadas / 2028 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **5230** — 3202 ganadas / 2028 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 569
 
 ### Balance
 
-- **Resultado de los apostadores: +$625,362** sobre $286,787,412 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,739** sobre $515,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$651,709** sobre $286,815,955 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,647** sobre $515,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 569 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Seahawks | 1.79 (56¢) | $127,217 | -$127,217 | ❌ Perdida |
 | chubbytoro | Seahawks vs. Broncos | Seahawks | 1.79 (56¢) | $33,600 | -$33,600 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.38 (42¢) | $26,920 | +$37,175 | ✅ Ganada |
-| theowalcott | Will CR Flamengo win on 2026-10-15? | No | 1.92 (52¢) | $28,543 | — | ⏳ Pendiente |
+| theowalcott | Will CR Flamengo win on 2026-10-15? | No | 1.92 (52¢) | $28,543 | +$26,347 | ✅ Ganada |
 | freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | FURIA Esports | 1.33 (75¢) | $36,418 | -$36,418 | ❌ Perdida |
 | hurrican | Santa Cruz 2: Franco Roncadelli vs Juan Carlos Prado | Juan Carlos Prado | 1.16 (86¢) | $32,669 | -$32,669 | ❌ Perdida |
 | Diabolical-Prize | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.49 (67¢) | $33,494 | +$16,497 | ✅ Ganada |
