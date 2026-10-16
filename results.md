@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 15:33:39 (hora de Perú)
+Actualizado: 2026-10-16 15:35:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5292**  ($289,865,957 en total)
+- Apuestas registradas: **5293**  ($289,911,213 en total)
 - Resueltas: **5242** — 3211 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 28
-- Apostadores distintos: 570
+- Pendientes: 29
+- Apostadores distintos: 571
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 
-_(mostrando los 40 de mayor monto, de 570 en total)_
+_(mostrando los 40 de mayor monto, de 571 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 473game | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.19 (84¢) | $45,255 | — | ⏳ Pendiente |
 | ndb1 | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.69 (59¢) | $71,951 | — | ⏳ Pendiente |
 | zb8 | LoL: MVK Esports vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.22 (82¢) | $30,907 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: MVK Esports vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.20 (83¢) | $71,491 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | 0000a | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.12 (89¢) | $30,319 | -$30,319 | ❌ Perdida |
 | freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | MVK Esports | 1.23 (81¢) | $27,447 | +$6,438 | ✅ Ganada |
 | 0F62 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.11 (90¢) | $370,856 | -$370,856 | ❌ Perdida |
-| freeman123 | LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In | MVK Esports | 1.23 (81¢) | $145,903 | +$34,224 | ✅ Ganada |
