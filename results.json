@@ -78193,7 +78193,7 @@
     "side": "BUY",
     "usd": 76500.0,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792087147,
     "fills": 1
   },
@@ -78208,7 +78208,7 @@
     "side": "BUY",
     "usd": 26385.870000000003,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792087632,
     "fills": 1
   },
@@ -78373,7 +78373,7 @@
     "side": "BUY",
     "usd": 36820.5463,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792094167,
     "fills": 1
   },
@@ -78448,7 +78448,7 @@
     "side": "BUY",
     "usd": 33313.2979,
     "odds_at_bet": 70,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792098604,
     "fills": 1
   },
@@ -78463,7 +78463,7 @@
     "side": "BUY",
     "usd": 43650.676,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792098843,
     "fills": 1
   },
@@ -78478,7 +78478,7 @@
     "side": "BUY",
     "usd": 28336.579999999998,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792101896,
     "fills": 1
   },
@@ -78493,7 +78493,7 @@
     "side": "BUY",
     "usd": 67980.9997,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792102593,
     "fills": 2
   },
@@ -78508,7 +78508,7 @@
     "side": "BUY",
     "usd": 26287.3485,
     "odds_at_bet": 35,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792102577,
     "fills": 1
   },
@@ -78523,7 +78523,7 @@
     "side": "BUY",
     "usd": 33494.3094,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792102612,
     "fills": 1
   },
@@ -78570,6 +78570,21 @@
     "odds_at_bet": 52,
     "status": "pending",
     "ultimo_fill": 1792105643,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10655,
+    "timestamp": 1792108806,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 26919.899999999998,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1792108806,
     "fills": 1
   }
 ]
