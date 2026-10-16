@@ -78946,5 +78946,20 @@
     "status": "pending",
     "ultimo_fill": 1792119768,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 10685,
+    "timestamp": 1792120232,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-sea-den-2026-10-16",
+    "title": "Seahawks vs. Broncos",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 41281.4396,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1792120232,
+    "fills": 1
   }
 ]
