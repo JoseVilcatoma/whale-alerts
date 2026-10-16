@@ -79426,5 +79426,20 @@
     "status": "pending",
     "ultimo_fill": 1792174071,
     "fills": 4
+  },
+  {
+    "telegram_msg_id": 10756,
+    "timestamp": 1792174530,
+    "username": "Kkunn",
+    "wallet": "0xe7870d0e1bfc65a23e3d66caf00ca1b9129e5034",
+    "slug": "cs2-lgc-bb3-2026-10-16",
+    "title": "Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 28864.028000000006,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1792174530,
+    "fills": 1
   }
 ]
