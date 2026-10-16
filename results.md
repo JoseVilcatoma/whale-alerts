@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 11:48:00 (hora de Perú)
+Actualizado: 2026-10-16 11:50:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5273**  ($288,661,277 en total)
+- Apuestas registradas: **5274**  ($288,696,228 en total)
 - Resueltas: **5240** — 3209 ganadas / 2031 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 570
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Purdue (-3.5) | Purdue | 2.13 (47¢) | $34,952 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.19 (84¢) | $50,664 | — | ⏳ Pendiente |
 | qiu3 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.56 (39¢) | $27,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs | MIBR | 1.79 (56¢) | $27,401 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 570 en total)_
 | Sunshine.Smile | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.52 (66¢) | $28,400 | -$28,400 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
 | 3648393489047 | LoL: Cloud9 vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.69 (59¢) | $27,558 | -$27,558 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In | Cloud9 | 2.70 (37¢) | $36,821 | -$36,821 | ❌ Perdida |
