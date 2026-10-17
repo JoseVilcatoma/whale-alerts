@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 12:27:04 (hora de Perú)
+Actualizado: 2026-10-17 12:29:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5414**  ($295,922,637 en total)
-- Resueltas: **5336** — 3271 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Resueltas: **5337** — 3272 ganadas / 2065 perdidas (**61%** de acierto)
+- Pendientes: 55
 - Apostadores distintos: 581
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,336,393** sobre $292,332,242 apostados (ROI **+0.5%**)
+- **Resultado de los apostadores: +$1,355,167** sobre $292,437,063 apostados (ROI **+0.5%**)
 - Copiando $100 fijo en cada una: **-$3,298** sobre $526,200 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -119,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 | asd213457 | Brentford FC vs. Liverpool FC: Liverpool FC O/U 1.5 | Over 1.5 | 1.82 (55¢) | $28,572 | +$9,870 | 💰 Vendida antes |
 | ndb1 | Fulham FC vs. Hull City AFC: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $58,468 | +$63,340 | ✅ Ganada |
 | 0x361b…74fe | Real Betis Balompié vs. FC Barcelona: O/U 3.5 | Over 3.5 | 1.56 (64¢) | $34,344 | — | ⏳ Pendiente |
-| QVanguard | Will FC Barcelona win on 2026-10-17? | Yes | 1.49 (67¢) | $104,821 | — | ⏳ Pendiente |
+| QVanguard | Will FC Barcelona win on 2026-10-17? | Yes | 1.49 (67¢) | $104,821 | +$18,774 | 💰 Vendida antes |
 | 0000a | Mississippi State vs. LSU | LSU | 1.14 (88¢) | $215,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | European Open, Qualification: Giovanni Mpetshi Perricard vs Remy Bertola | Remy Bertola | 1.96 (51¢) | $41,369 | +$39,747 | ✅ Ganada |
 | veliMax | Will Manchester City FC win on 2026-10-17? | Yes | 1.30 (77¢) | $43,195 | +$12,902 | ✅ Ganada |
