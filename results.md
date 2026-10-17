@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 18:24:25 (hora de Perú)
+Actualizado: 2026-10-17 18:26:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5449**  ($298,220,876 en total)
+- Apuestas registradas: **5451**  ($298,405,360 en total)
 - Resueltas: **5408** — 3314 ganadas / 2094 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 21
 - Apostadores distintos: 584
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 384 | 206 | 4 | 65% | $37,132,493 | +$1,032,249 |
 | Sassy-Bucket | 76 | 74 | 2 | 51% | $8,611,572 | -$758,619 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 84 | 1 | 53% | $7,286,745 | -$469,752 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 84 | 2 | 53% | $7,332,727 | -$469,752 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0000a | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $138,502 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Oklahoma (-6.5) | Oklahoma | 1.85 (54¢) | $45,982 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Atlanta United FC vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $34,843 | — | ⏳ Pendiente |
 | gmpm2 | Kent State vs. South Florida | South Florida | 1.09 (92¢) | $57,500 | — | ⏳ Pendiente |
 | DelidelaDele | Will New York Red Bulls win on 2026-10-17? | Yes | 1.72 (58¢) | $37,120 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $90,000 | -$90,000 | ❌ Perdida |
 | YEEES-but-why | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,360 | -$27,360 | ❌ Perdida |
 | NeverLoseBet | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,360 | -$27,360 | ❌ Perdida |
-| lllllllIlll | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $68,963 | -$68,963 | ❌ Perdida |
-| raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $45,000 | -$45,000 | ❌ Perdida |
