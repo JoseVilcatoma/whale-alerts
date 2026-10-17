@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 11:41:49 (hora de Perú)
+Actualizado: 2026-10-17 11:43:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5403**  ($295,484,611 en total)
-- Resueltas: **5330** — 3265 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Resueltas: **5331** — 3266 ganadas / 2065 perdidas (**61%** de acierto)
+- Pendientes: 50
 - Apostadores distintos: 578
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,281,213** sobre $292,086,543 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,418** sobre $525,600 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$1,284,222** sobre $292,116,958 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,408** sobre $525,700 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 | Roadto1mlesgooo | Brentford FC vs. Liverpool FC: O/U 1.5 | Over 1.5 | 1.12 (89¢) | $27,922 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Mississippi State vs. LSU | LSU | 1.14 (88¢) | $38,946 | — | ⏳ Pendiente |
 | sifonman | Will FC Bayern München vs. RB Leipzig end in a draw? | No | 1.15 (87¢) | $31,937 | — | ⏳ Pendiente |
-| 0000a | Spread: Brentford FC (-1.5) | Liverpool FC | 1.10 (91¢) | $30,415 | — | ⏳ Pendiente |
+| 0000a | Spread: Brentford FC (-1.5) | Liverpool FC | 1.10 (91¢) | $30,415 | +$3,008 | ✅ Ganada |
 | asd213457 | Brentford FC vs. Liverpool FC: Liverpool FC O/U 1.5 | Over 1.5 | 1.82 (55¢) | $28,572 | +$9,870 | 💰 Vendida antes |
 | ndb1 | Fulham FC vs. Hull City AFC: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $58,468 | +$63,340 | ✅ Ganada |
 | 0x361b…74fe | Real Betis Balompié vs. FC Barcelona: O/U 3.5 | Over 3.5 | 1.56 (64¢) | $34,344 | — | ⏳ Pendiente |
