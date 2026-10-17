@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 22:55:15 (hora de Perú)
+Actualizado: 2026-10-16 22:57:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5327**  ($291,883,827 en total)
-- Resueltas: **5290** — 3234 ganadas / 2056 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **5292** — 3236 ganadas / 2056 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$631,447** sobre $290,214,979 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,914** sobre $521,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$708,937** sobre $290,387,918 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,826** sobre $521,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 61 | 40 | 0 | 60% | $5,100,805 | -$38,747 |
-| ethanaz | 48 | 21 | 2 | 70% | $4,433,754 | -$86,799 |
+| ethanaz | 50 | 21 | 0 | 70% | $4,433,754 | -$9,309 |
 | BrotherObama | 40 | 49 | 3 | 45% | $4,132,955 | -$283,237 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
 | mooseborzoii | 50 | 25 | 1 | 67% | $3,774,268 | +$957,140 |
@@ -74,8 +74,8 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | Takon88 | Will Gamba Ōsaka win on 2026-10-17? | No | 1.56 (64¢) | $30,833 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Japan Women's Open, Qualification: Sayaka Ishii vs Elina Avanesyan | Sayaka Ishii | 1.25 (80¢) | $134,612 | — | ⏳ Pendiente |
 | esportsbetter1 | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
-| ethanaz | Washington vs. Purdue | Washington | 1.47 (68¢) | $110,288 | — | ⏳ Pendiente |
-| ethanaz | Washington vs. Purdue | Washington | 1.41 (71¢) | $62,651 | — | ⏳ Pendiente |
+| ethanaz | Washington vs. Purdue | Washington | 1.47 (68¢) | $110,288 | +$51,900 | ✅ Ganada |
+| ethanaz | Washington vs. Purdue | Washington | 1.41 (71¢) | $62,651 | +$25,590 | ✅ Ganada |
 | Nooserac | Timberwolves vs. Bulls | Bulls | 1.22 (82¢) | $25,653 | +$5,631 | ✅ Ganada |
 | Sassy-Bucket | Bruins vs. Ducks | Ducks | 2.04 (49¢) | $27,594 | — | ⏳ Pendiente |
 | para-Vision | Bruins vs. Ducks | Bruins | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
