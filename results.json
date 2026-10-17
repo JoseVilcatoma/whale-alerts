@@ -80671,5 +80671,20 @@
     "status": "pending",
     "ultimo_fill": 1792248763,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10915,
+    "timestamp": 1792248968,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "epl-ful-hul-2026-10-17-total-2pt5",
+    "title": "Fulham FC vs. Hull City AFC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 58467.8832,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1792248968,
+    "fills": 1
   }
 ]
