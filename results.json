@@ -81227,7 +81227,7 @@
     "side": "BUY",
     "usd": 28148.556800000002,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792255581,
     "fills": 1
   },
@@ -81392,7 +81392,7 @@
     "side": "BUY",
     "usd": 44346.99999999999,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792259112,
     "fills": 1
   },
@@ -81572,7 +81572,7 @@
     "side": "BUY",
     "usd": 53606.950899999996,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792263003,
     "fills": 1
   },
@@ -81752,7 +81752,7 @@
     "side": "BUY",
     "usd": 77343.2164,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792270366,
     "fills": 1
   },
@@ -81844,6 +81844,21 @@
     "odds_at_bet": 76,
     "status": "pending",
     "ultimo_fill": 1792275709,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11082,
+    "timestamp": 1792276030,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-comesan-wild-2026-10-17",
+    "title": "Santa Cruz 2: Francisco Comesana vs Thiago Seyboth Wild",
+    "outcome": "Thiago Seyboth Wild",
+    "side": "BUY",
+    "usd": 47944.2702,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1792276030,
     "fills": 1
   }
 ]

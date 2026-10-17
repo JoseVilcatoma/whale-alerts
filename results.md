@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 17:27:00 (hora de Perú)
+Actualizado: 2026-10-17 17:29:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5445**  ($298,043,469 en total)
-- Resueltas: **5398** — 3309 ganadas / 2089 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Apuestas registradas: **5446**  ($298,091,413 en total)
+- Resueltas: **5402** — 3311 ganadas / 2091 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 583
 
 ### Balance
 
-- **Resultado de los apostadores: +$951,386** sobre $295,796,809 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,268** sobre $532,300 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$952,888** sobre $296,000,255 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,239** sobre $532,700 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,18 +26,18 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 384 | 205 | 5 | 65% | $37,132,493 | +$1,174,749 |
 | Sassy-Bucket | 75 | 72 | 5 | 51% | $8,611,572 | -$652,004 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 83 | 2 | 53% | $7,286,745 | -$392,409 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 84 | 1 | 53% | $7,286,745 | -$469,752 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 19 | 1 | 64% | $6,191,604 | +$48,997 |
-| ferrariChampions2026 | 90 | 44 | 0 | 67% | $5,933,639 | +$233,909 |
+| ferrariChampions2026 | 90 | 44 | 1 | 67% | $5,981,583 | +$233,909 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 51 | 21 | 0 | 71% | $4,480,194 | +$13,565 |
-| BrotherObama | 40 | 49 | 4 | 45% | $4,177,302 | -$283,237 |
+| BrotherObama | 41 | 49 | 3 | 46% | $4,177,302 | -$207,727 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
 | mooseborzoii | 50 | 26 | 2 | 66% | $3,878,506 | +$880,052 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Santa Cruz 2: Francisco Comesana vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.30 (77¢) | $47,944 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Alabama vs. Tennessee | Tennessee | 1.32 (76¢) | $38,276 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Katlyn Cerminara vs. Mackenzie Stiller (Women's Flyweight, Prelims) | Katlyn Cerminara | 1.45 (69¢) | $31,046 | — | ⏳ Pendiente |
 | gmpm2 | Washington State vs. Oregon State | Oregon State | 1.11 (90¢) | $26,683 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Chad Anheliger vs. Steven Koslow (Bantamweight, Prelims) | Chad Anheliger | 2.63 (38¢) | $27,675 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Tennessee | Tennessee | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Troy vs. Louisiana | Troy | 2.38 (42¢) | $32,666 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Chelsea Chandler vs. Melissa Croden (Women's Bantamweight, Prelims) | Melissa Croden | 1.32 (76¢) | $77,343 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Chelsea Chandler vs. Melissa Croden (Women's Bantamweight, Prelims) | Melissa Croden | 1.32 (76¢) | $77,343 | -$77,343 | ❌ Perdida |
 | Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 4 Winner | MVK Esports | 2.00 (50¢) | $74,514 | +$74,514 | ✅ Ganada |
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.33 (43¢) | $107,838 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.75 (57¢) | $142,500 | — | ⏳ Pendiente |
@@ -89,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | KaneAnalytics | Florida vs. Texas | Florida | 1.54 (65¢) | $35,083 | +$18,891 | ✅ Ganada |
 | KaneAnalytics | Ohio State vs. Indiana | Ohio State | 1.11 (90¢) | $44,395 | +$4,933 | ✅ Ganada |
 | KaneAnalytics | Florida vs. Texas | Florida | 1.16 (86¢) | $43,109 | +$7,018 | ✅ Ganada |
-| Woaifacai | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 1.59 (63¢) | $53,607 | — | ⏳ Pendiente |
+| Woaifacai | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 1.59 (63¢) | $53,607 | +$31,483 | ✅ Ganada |
 | Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.39 (72¢) | $88,278 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will AS Roma win on 2026-10-17? | No | 2.50 (40¢) | $276,864 | -$276,864 | ❌ Perdida |
 | beeemw | Will Genoa CFC win on 2026-10-17? | No | 1.16 (86¢) | $61,203 | +$9,963 | ✅ Ganada |
@@ -101,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 1 Winner | FURIA Esports | 1.59 (63¢) | $75,298 | -$75,298 | ❌ Perdida |
 | ferrariChampions2026 | Ohio State vs. Indiana | Ohio State | 1.67 (60¢) | $177,730 | +$118,487 | ✅ Ganada |
 | Flaznorp | Real Betis Balompié vs. FC Barcelona: O/U 7.5 | Under 7.5 | 1.09 (92¢) | $44,623 | +$3,880 | ✅ Ganada |
-| BrotherObama | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 2.70 (37¢) | $44,347 | — | ⏳ Pendiente |
+| BrotherObama | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 2.70 (37¢) | $44,347 | +$75,510 | ✅ Ganada |
 | Nooserac | Ohio State vs. Indiana | Indiana | 1.56 (64¢) | $29,304 | -$29,304 | ❌ Perdida |
 | veliMax | Will FC Barcelona win on 2026-10-17? | Yes | 1.22 (82¢) | $73,943 | +$16,231 | ✅ Ganada |
 | Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.64 (61¢) | $50,427 | -$50,427 | ❌ Perdida |
@@ -112,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.41 (71¢) | $63,110 | -$63,110 | ❌ Perdida |
 | thegreatjeff | Will FC Barcelona win on 2026-10-17? | Yes | 1.18 (85¢) | $50,000 | +$8,824 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.57 (28¢) | $25,200 | +$64,800 | ✅ Ganada |
-| SineNooneEI | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | FURIA Esports | 1.56 (64¢) | $28,149 | — | ⏳ Pendiente |
+| SineNooneEI | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | FURIA Esports | 1.56 (64¢) | $28,149 | -$28,149 | ❌ Perdida |
 | ferrariChampions2026 | Ohio State vs. Indiana | Ohio State | 1.67 (60¢) | $37,963 | +$25,309 | ✅ Ganada |
 | Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.85 (54¢) | $27,028 | -$27,028 | ❌ Perdida |
 | ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $48,000 | -$48,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | alwaysfade | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
 | raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $58,500 | -$58,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.89 (53¢) | $52,998 | -$52,998 | ❌ Perdida |
-| gmpm2 | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $36,454 | +$27,500 | ✅ Ganada |
