@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 20:03:03 (hora de Perú)
+Actualizado: 2026-10-16 20:05:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5319**  ($291,419,397 en total)
-- Resueltas: **5270** — 3226 ganadas / 2044 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **5274** — 3227 ganadas / 2047 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$749,593** sobre $289,325,059 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,310** sobre $519,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$670,218** sobre $289,639,636 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,492** sobre $520,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 375 | 202 | 5 | 65% | $36,536,052 | +$1,044,396 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 375 | 203 | 4 | 65% | $36,536,052 | +$991,396 |
 | Sassy-Bucket | 73 | 70 | 3 | 51% | $8,335,498 | -$637,340 |
-| Diabolical-Prize | 66 | 62 | 3 | 52% | $7,166,504 | +$328,445 |
+| Diabolical-Prize | 67 | 62 | 2 | 52% | $7,166,504 | +$455,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 2 | 0 | 94% | $1,736,357 | +$92,570 |
 | 0x361b…74fe | 25 | 2 | 0 | 93% | $1,724,618 | +$811,651 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| S-Works | 10 | 4 | 1 | 71% | $1,582,939 | -$86,045 |
+| S-Works | 10 | 5 | 0 | 67% | $1,582,939 | -$195,755 |
 
 _(mostrando los 40 de mayor monto, de 573 en total)_
 
@@ -77,12 +77,12 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | bluemol | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $30,000 | — | ⏳ Pendiente |
 | halanddd123 | Celtics vs. 76ers | 76ers | 1.37 (73¢) | $26,339 | — | ⏳ Pendiente |
 | para-Vision | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.96 (51¢) | $41,825 | — | ⏳ Pendiente |
-| blgmsiwin | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.37 (73¢) | $43,674 | — | ⏳ Pendiente |
+| blgmsiwin | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.37 (73¢) | $43,674 | -$43,674 | ❌ Perdida |
 | mooseborzoii | Appalachian State vs. Coastal Carolina | Appalachian State | 2.08 (48¢) | $64,636 | — | ⏳ Pendiente |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Appalachian State vs. Coastal Carolina | Coastal Carolina | 2.00 (50¢) | $43,733 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
-| S-Works | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.89 (53¢) | $109,710 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | FURIA Esports | 2.17 (46¢) | $108,193 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.89 (53¢) | $53,000 | -$53,000 | ❌ Perdida |
+| S-Works | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.89 (53¢) | $109,710 | -$109,710 | ❌ Perdida |
+| Diabolical-Prize | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | FURIA Esports | 2.17 (46¢) | $108,193 | +$127,009 | ✅ Ganada |
 | S-Works | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 2.56 (39¢) | $77,920 | -$77,920 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Memphis vs. Tulane | Memphis | 1.45 (69¢) | $30,841 | — | ⏳ Pendiente |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.09 (92¢) | $45,925 | -$45,925 | ❌ Perdida |
