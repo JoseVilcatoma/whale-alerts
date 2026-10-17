@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 10:35:34 (hora de Perú)
+Actualizado: 2026-10-17 10:37:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5377**  ($294,350,265 en total)
+- Apuestas registradas: **5378**  ($294,383,070 en total)
 - Resueltas: **5315** — 3254 ganadas / 2061 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 577
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 50 | 26 | 2 | 66% | $3,878,506 | +$880,052 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
-| maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
+| maz26 | 28 | 20 | 1 | 58% | $3,362,843 | +$158,709 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 34 | 10 | 1 | 77% | $2,943,503 | +$1,598,814 |
 | raybanman | 16 | 9 | 1 | 64% | $2,816,162 | +$654,807 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 577 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Florida vs. Texas | Texas | 1.23 (81¢) | $32,805 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.37 (73¢) | $63,893 | — | ⏳ Pendiente |
 | NeverLoseBet | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $46,343 | — | ⏳ Pendiente |
 | lalalalalalallalalalala | Northwestern vs. Michigan State: O/U 49.5 | Over 49.5 | 1.92 (52¢) | $38,968 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 577 en total)_
 | Sassy-Bucket | Bruins vs. Ducks | Ducks | 2.04 (49¢) | $27,594 | -$27,594 | ❌ Perdida |
 | para-Vision | Bruins vs. Ducks | Bruins | 1.96 (51¢) | $40,800 | +$39,200 | ✅ Ganada |
 | arjennnnn | Celtics vs. 76ers | 76ers | 1.12 (89¢) | $28,294 | -$28,294 | ❌ Perdida |
-| Sassy-Bucket | Penguins vs. Avalanche | Avalanche | 1.54 (65¢) | $40,173 | +$21,632 | ✅ Ganada |
