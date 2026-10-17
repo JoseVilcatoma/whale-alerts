@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 16:14:11 (hora de Perú)
+Actualizado: 2026-10-17 16:16:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5440**  ($297,881,790 en total)
-- Resueltas: **5391** — 3304 ganadas / 2087 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **5396** — 3308 ganadas / 2088 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 583
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,085,526** sobre $295,188,750 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,475** sobre $531,600 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$952,171** sobre $295,646,997 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,268** sobre $532,100 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| totoro3miyazaki | 34 | 18 | 2 | 65% | $6,191,604 | +$325,861 |
+| totoro3miyazaki | 34 | 19 | 1 | 64% | $6,191,604 | +$48,997 |
 | ferrariChampions2026 | 90 | 44 | 0 | 67% | $5,933,639 | +$233,909 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.75 (57¢) | $142,500 | — | ⏳ Pendiente |
 | ethanaz | Ohio State vs. Indiana | Ohio State | 1.49 (67¢) | $46,440 | +$22,873 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Air Force | UNLV | 1.96 (51¢) | $92,888 | — | ⏳ Pendiente |
-| 0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900 | Will AS Roma win on 2026-10-17? | Yes | 1.79 (56¢) | $28,913 | — | ⏳ Pendiente |
+| 0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900 | Will AS Roma win on 2026-10-17? | Yes | 1.79 (56¢) | $28,913 | +$22,717 | ✅ Ganada |
 | Kch-Temp | UNLV vs. Air Force | Air Force | 2.08 (48¢) | $94,172 | — | ⏳ Pendiente |
 | sgfkskg243324 | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.52 (66¢) | $31,723 | -$31,723 | ❌ Perdida |
 | KaneAnalytics | Florida vs. Texas | Florida | 1.54 (65¢) | $35,083 | +$18,891 | ✅ Ganada |
@@ -86,13 +86,13 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | KaneAnalytics | Florida vs. Texas | Florida | 1.16 (86¢) | $43,109 | +$7,018 | ✅ Ganada |
 | Woaifacai | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 1.59 (63¢) | $53,607 | — | ⏳ Pendiente |
 | Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.39 (72¢) | $88,278 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will AS Roma win on 2026-10-17? | No | 2.50 (40¢) | $276,864 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will AS Roma win on 2026-10-17? | No | 2.50 (40¢) | $276,864 | -$276,864 | ❌ Perdida |
 | beeemw | Will Genoa CFC win on 2026-10-17? | No | 1.16 (86¢) | $61,203 | +$9,963 | ✅ Ganada |
 | Kch-Temp | Spread: Toledo (-6.5) | Toledo | 1.89 (53¢) | $31,502 | — | ⏳ Pendiente |
 | Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.43 (70¢) | $81,169 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Florida vs. Texas | Florida | 1.89 (53¢) | $51,477 | +$45,649 | ✅ Ganada |
-| nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.82 (55¢) | $50,000 | — | ⏳ Pendiente |
-| nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.85 (54¢) | $71,470 | — | ⏳ Pendiente |
+| nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.82 (55¢) | $50,000 | +$40,909 | ✅ Ganada |
+| nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.85 (54¢) | $71,470 | +$60,882 | ✅ Ganada |
 | Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 1 Winner | FURIA Esports | 1.59 (63¢) | $75,298 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Ohio State vs. Indiana | Ohio State | 1.67 (60¢) | $177,730 | +$118,487 | ✅ Ganada |
 | Flaznorp | Real Betis Balompié vs. FC Barcelona: O/U 7.5 | Under 7.5 | 1.09 (92¢) | $44,623 | +$3,880 | ✅ Ganada |
