@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 21:01:45 (hora de Perú)
+Actualizado: 2026-10-16 21:03:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5321**  ($291,487,791 en total)
-- Resueltas: **5281** — 3231 ganadas / 2050 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Apuestas registradas: **5322**  ($291,513,443 en total)
+- Resueltas: **5284** — 3231 ganadas / 2053 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$718,313** sobre $289,909,906 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,536** sobre $520,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$635,279** sobre $289,992,939 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,836** sobre $521,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 375 | 203 | 4 | 65% | $36,536,052 | +$991,396 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 375 | 204 | 3 | 65% | $36,536,052 | +$962,995 |
 | Sassy-Bucket | 73 | 70 | 4 | 51% | $8,363,091 | -$637,340 |
 | Diabolical-Prize | 69 | 62 | 0 | 53% | $7,166,504 | +$502,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Nooserac | Timberwolves vs. Bulls | Bulls | 1.22 (82¢) | $25,653 | — | ⏳ Pendiente |
 | Sassy-Bucket | Bruins vs. Ducks | Ducks | 2.04 (49¢) | $27,594 | — | ⏳ Pendiente |
 | para-Vision | Bruins vs. Ducks | Bruins | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
-| arjennnnn | Celtics vs. 76ers | 76ers | 1.12 (89¢) | $28,294 | — | ⏳ Pendiente |
+| arjennnnn | Celtics vs. 76ers | 76ers | 1.12 (89¢) | $28,294 | -$28,294 | ❌ Perdida |
 | Sassy-Bucket | Penguins vs. Avalanche | Avalanche | 1.54 (65¢) | $40,173 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. 76ers | 76ers | 1.39 (72¢) | $28,400 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. 76ers | 76ers | 1.39 (72¢) | $28,400 | -$28,400 | ❌ Perdida |
 | bluemol | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $30,000 | — | ⏳ Pendiente |
-| halanddd123 | Celtics vs. 76ers | 76ers | 1.37 (73¢) | $26,339 | — | ⏳ Pendiente |
+| halanddd123 | Celtics vs. 76ers | 76ers | 1.37 (73¢) | $26,339 | -$26,339 | ❌ Perdida |
 | para-Vision | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.96 (51¢) | $41,825 | — | ⏳ Pendiente |
 | blgmsiwin | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.37 (73¢) | $43,674 | -$43,674 | ❌ Perdida |
 | mooseborzoii | Appalachian State vs. Coastal Carolina | Appalachian State | 2.08 (48¢) | $64,636 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | Fvalp | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.22 (82¢) | $35,415 | +$7,774 | ✅ Ganada |
 | 0000a | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.12 (89¢) | $31,105 | +$3,844 | ✅ Ganada |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.22 (82¢) | $28,499 | -$28,499 | ❌ Perdida |
-| corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.22 (82¢) | $35,007 | +$7,684 | ✅ Ganada |
