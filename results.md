@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 16:26:36 (hora de Perú)
+Actualizado: 2026-10-17 16:28:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5440**  ($297,881,790 en total)
+- Apuestas registradas: **5441**  ($297,919,790 en total)
 - Resueltas: **5396** — 3308 ganadas / 2088 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 583
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 384 | 205 | 4 | 65% | $37,094,493 | +$1,174,749 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 384 | 205 | 5 | 65% | $37,132,493 | +$1,174,749 |
 | Sassy-Bucket | 75 | 72 | 3 | 51% | $8,552,852 | -$652,004 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 83 | 2 | 53% | $7,286,745 | -$392,409 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Tennessee | Tennessee | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Troy vs. Louisiana | Troy | 2.38 (42¢) | $32,666 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Chelsea Chandler vs. Melissa Croden (Women's Bantamweight, Prelims) | Melissa Croden | 1.32 (76¢) | $77,343 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 4 Winner | MVK Esports | 2.00 (50¢) | $74,514 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | Sassy-Bucket | Spread: LSU (-16.5) | Mississippi State | 2.22 (45¢) | $48,378 | -$48,378 | ❌ Perdida |
 | DaWinci | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $81,643 | +$8,075 | ✅ Ganada |
 | 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
-| Sassy-Bucket | Florida Atlantic vs. Army | Army | 1.82 (55¢) | $48,494 | +$39,677 | ✅ Ganada |
