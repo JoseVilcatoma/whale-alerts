@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 07:48:11 (hora de Perú)
+Actualizado: 2026-10-17 07:50:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5348**  ($292,774,506 en total)
+- Apuestas registradas: **5349**  ($292,816,806 en total)
 - Resueltas: **5303** — 3244 ganadas / 2059 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 574
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jonjones1993 | Will SSC Napoli win on 2026-10-17? | No | 2.13 (47¢) | $42,300 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-10-17? | Yes | 1.82 (55¢) | $77,010 | — | ⏳ Pendiente |
 | sulumos | Will VfB Stuttgart win on 2026-10-17? | No | 2.17 (46¢) | $25,548 | — | ⏳ Pendiente |
 | mooseborzoii | Will SSC Napoli win on 2026-10-17? | Yes | 1.89 (53¢) | $77,088 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | ndb1 | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.69 (59¢) | $71,951 | +$50,000 | ✅ Ganada |
 | zb8 | LoL: MVK Esports vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.22 (82¢) | $30,907 | +$6,785 | ✅ Ganada |
 | Diabolical-Prize | LoL: MVK Esports vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.20 (83¢) | $71,491 | +$14,643 | ✅ Ganada |
-| corkmaster420blaezit | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | Cloud9 | 2.50 (40¢) | $26,245 | -$26,245 | ❌ Perdida |
