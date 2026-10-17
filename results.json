@@ -81590,5 +81590,20 @@
     "status": "pending",
     "ultimo_fill": 1792263574,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11003,
+    "timestamp": 1792263828,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "cfb-ohiost-ind-2026-10-17",
+    "title": "Ohio State vs. Indiana",
+    "outcome": "Ohio State",
+    "side": "BUY",
+    "usd": 44395.479,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1792263828,
+    "fills": 1
   }
 ]
