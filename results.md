@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 18:48:45 (hora de Perú)
+Actualizado: 2026-10-17 18:50:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5452**  ($298,460,764 en total)
-- Resueltas: **5411** — 3317 ganadas / 2094 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **5413** — 3319 ganadas / 2094 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 584
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,045,794** sobre $296,697,323 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,082** sobre $533,600 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,119,881** sobre $296,773,598 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$2,888** sobre $533,800 (ROI **-0.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 384 | 206 | 4 | 65% | $37,132,493 | +$1,032,249 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 206 | 3 | 65% | $37,132,493 | +$1,094,249 |
 | Sassy-Bucket | 76 | 74 | 2 | 51% | $8,611,572 | -$758,619 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 84 | 2 | 53% | $7,332,727 | -$469,752 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -78,11 +78,11 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | gmpm2 | Kent State vs. South Florida | South Florida | 1.09 (92¢) | $57,500 | — | ⏳ Pendiente |
 | DelidelaDele | Will New York Red Bulls win on 2026-10-17? | Yes | 1.72 (58¢) | $37,120 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Santa Cruz 2: Francisco Comesana vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.30 (77¢) | $47,944 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Alabama vs. Tennessee | Tennessee | 1.32 (76¢) | $38,276 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Alabama vs. Tennessee | Tennessee | 1.32 (76¢) | $38,276 | +$12,087 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Katlyn Cerminara vs. Mackenzie Stiller (Women's Flyweight, Prelims) | Katlyn Cerminara | 1.45 (69¢) | $31,046 | +$13,948 | ✅ Ganada |
 | gmpm2 | Washington State vs. Oregon State | Oregon State | 1.11 (90¢) | $26,683 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Chad Anheliger vs. Steven Koslow (Bantamweight, Prelims) | Chad Anheliger | 2.63 (38¢) | $27,675 | -$27,675 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Tennessee | Tennessee | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Tennessee | Tennessee | 2.63 (38¢) | $38,000 | +$62,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Troy vs. Louisiana | Troy | 2.38 (42¢) | $32,666 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Chelsea Chandler vs. Melissa Croden (Women's Bantamweight, Prelims) | Melissa Croden | 1.32 (76¢) | $77,343 | -$77,343 | ❌ Perdida |
 | Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 4 Winner | MVK Esports | 2.00 (50¢) | $74,514 | +$74,514 | ✅ Ganada |
