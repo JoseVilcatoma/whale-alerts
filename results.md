@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 09:36:02 (hora de Perú)
+Actualizado: 2026-10-17 09:38:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5363**  ($293,560,166 en total)
+- Apuestas registradas: **5364**  ($293,601,536 en total)
 - Resueltas: **5311** — 3251 ganadas / 2060 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 574
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 376 | 204 | 6 | 65% | $36,686,353 | +$966,357 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 376 | 204 | 7 | 65% | $36,727,722 | +$966,357 |
 | Sassy-Bucket | 74 | 71 | 2 | 51% | $8,363,091 | -$643,302 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | European Open, Qualification: Giovanni Mpetshi Perricard vs Remy Bertola | Remy Bertola | 1.96 (51¢) | $41,369 | — | ⏳ Pendiente |
 | veliMax | Will Manchester City FC win on 2026-10-17? | Yes | 1.30 (77¢) | $43,195 | — | ⏳ Pendiente |
 | raybanman | Will Aston Villa FC win on 2026-10-17? | No | 1.49 (67¢) | $173,150 | — | ⏳ Pendiente |
 | SDTrading | Spread: Notre Dame (-10.5) | BYU | 1.96 (51¢) | $30,729 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | S-Works | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 2.56 (39¢) | $77,920 | -$77,920 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Memphis vs. Tulane | Memphis | 1.45 (69¢) | $30,841 | -$30,841 | ❌ Perdida |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.09 (92¢) | $45,925 | -$45,925 | ❌ Perdida |
-| corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.09 (92¢) | $212,956 | -$212,956 | ❌ Perdida |
