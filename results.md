@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 12:12:40 (hora de Perú)
+Actualizado: 2026-10-17 12:14:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5412**  ($295,819,390 en total)
+- Apuestas registradas: **5413**  ($295,893,333 en total)
 - Resueltas: **5336** — 3271 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 581
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| veliMax | Will FC Barcelona win on 2026-10-17? | Yes | 1.22 (82¢) | $73,943 | — | ⏳ Pendiente |
 | Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.64 (61¢) | $50,427 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.28 (78¢) | $31,200 | — | ⏳ Pendiente |
 | LonnieHawkins | Will Newcastle United FC win on 2026-10-17? | No | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 | Dragon-Evolution | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | FURIA | 1.89 (53¢) | $36,079 | +$31,995 | ✅ Ganada |
 | Roadto1mlesgooo | Manchester City FC vs. Ipswich Town FC: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $28,338 | +$3,149 | ✅ Ganada |
 | Flaznorp | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $29,587 | +$8,345 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ipswich Town FC win on 2026-10-17? | No | 1.11 (90¢) | $36,000 | +$4,000 | ✅ Ganada |
