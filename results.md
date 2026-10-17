@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 13:42:48 (hora de Perú)
+Actualizado: 2026-10-17 13:44:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5421**  ($296,437,583 en total)
+- Apuestas registradas: **5424**  ($296,611,457 en total)
 - Resueltas: **5337** — 3272 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Pendientes: 65
 - Apostadores distintos: 581
 
 ### Balance
@@ -44,8 +44,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 28 | 20 | 2 | 58% | $3,399,297 | +$158,709 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| Kch-Temp | 34 | 10 | 3 | 77% | $3,056,174 | +$1,598,814 |
 | raybanman | 16 | 9 | 4 | 64% | $3,009,662 | +$654,807 |
-| Kch-Temp | 34 | 10 | 1 | 77% | $2,943,503 | +$1,598,814 |
 | cosmicxbt | 17 | 7 | 0 | 71% | $2,604,992 | -$337,317 |
 | 0F62 | 29 | 5 | 0 | 85% | $2,593,269 | -$324,024 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beeemw | Will Genoa CFC win on 2026-10-17? | No | 1.16 (86¢) | $61,203 | — | ⏳ Pendiente |
+| Kch-Temp | Spread: Toledo (-6.5) | Toledo | 1.89 (53¢) | $31,502 | — | ⏳ Pendiente |
+| Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.43 (70¢) | $81,169 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Florida vs. Texas | Florida | 1.89 (53¢) | $51,477 | — | ⏳ Pendiente |
 | nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.82 (55¢) | $50,000 | — | ⏳ Pendiente |
 | nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.85 (54¢) | $71,470 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 | 0x361b…74fe | Real Betis Balompié vs. FC Barcelona: O/U 3.5 | Over 3.5 | 1.56 (64¢) | $34,344 | — | ⏳ Pendiente |
 | QVanguard | Will FC Barcelona win on 2026-10-17? | Yes | 1.49 (67¢) | $104,821 | +$18,774 | 💰 Vendida antes |
 | 0000a | Mississippi State vs. LSU | LSU | 1.14 (88¢) | $215,600 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | European Open, Qualification: Giovanni Mpetshi Perricard vs Remy Bertola | Remy Bertola | 1.96 (51¢) | $41,369 | +$39,747 | ✅ Ganada |
-| veliMax | Will Manchester City FC win on 2026-10-17? | Yes | 1.30 (77¢) | $43,195 | +$12,902 | ✅ Ganada |
-| raybanman | Will Aston Villa FC win on 2026-10-17? | No | 1.49 (67¢) | $173,150 | — | ⏳ Pendiente |
