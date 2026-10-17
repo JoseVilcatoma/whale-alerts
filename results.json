@@ -80476,5 +80476,35 @@
     "status": "pending",
     "ultimo_fill": 1792243999,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10897,
+    "timestamp": 1792244371,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "epl-mac-ips-2026-10-17-total-1pt5",
+    "title": "Manchester City FC vs. Ipswich Town FC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 28337.922000000002,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1792244371,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10898,
+    "timestamp": 1792244387,
+    "username": "Dragon-Evolution",
+    "wallet": "0x3eb31daa061a19855cbf0a4884c202fb86976a2a",
+    "slug": "cs2-furia-aur1-2026-10-17",
+    "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 36078.9815,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792244387,
+    "fills": 1
   }
 ]

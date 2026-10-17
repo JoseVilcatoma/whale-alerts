@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 08:38:39 (hora de Perú)
+Actualizado: 2026-10-17 08:40:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5354**  ($293,057,962 en total)
+- Apuestas registradas: **5356**  ($293,122,379 en total)
 - Resueltas: **5306** — 3247 ganadas / 2059 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 28
 - Apostadores distintos: 574
 
 ### Balance
@@ -58,8 +58,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 21 | 18 | 1 | 54% | $1,866,868 | +$257,433 |
 | SDTrading | 30 | 31 | 0 | 49% | $1,813,324 | -$160,793 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 3 | 1 | 91% | $1,803,219 | +$54,045 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 3 | 0 | 91% | $1,774,881 | +$54,045 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | 0x361b…74fe | 25 | 2 | 0 | 93% | $1,724,618 | +$811,651 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Dragon-Evolution | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | FURIA | 1.89 (53¢) | $36,079 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Manchester City FC vs. Ipswich Town FC: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $28,338 | — | ⏳ Pendiente |
 | Flaznorp | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $29,587 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ipswich Town FC win on 2026-10-17? | No | 1.11 (90¢) | $36,000 | — | ⏳ Pendiente |
 | beeemw | Will Ipswich Town FC win on 2026-10-17? | No | 1.09 (92¢) | $49,760 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | Diabolical-Prize | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | FURIA Esports | 5.56 (18¢) | $96,756 | +$440,777 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $83,000 | -$83,000 | ❌ Perdida |
 | BrotherObama | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $26,000 | — | ⏳ Pendiente |
-| StasPanda | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $70,550 | -$70,550 | ❌ Perdida |
-| Diabolical-Prize | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.67 (60¢) | $42,000 | +$28,000 | ✅ Ganada |
