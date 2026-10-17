@@ -80851,5 +80851,20 @@
     "status": "pending",
     "ultimo_fill": 1792251476,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 10931,
+    "timestamp": 1792251638,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "epl-new-ast-2026-10-17-new",
+    "title": "Will Newcastle United FC win on 2026-10-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 58126.31999999999,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1792251643,
+    "fills": 2
   }
 ]

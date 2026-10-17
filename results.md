@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 10:39:42 (hora de Perú)
+Actualizado: 2026-10-17 10:41:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5379**  ($294,438,519 en total)
+- Apuestas registradas: **5380**  ($294,496,645 en total)
 - Resueltas: **5315** — 3254 ganadas / 2061 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 577
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 378 | 204 | 6 | 65% | $36,783,171 | +$1,035,533 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 378 | 204 | 7 | 65% | $36,841,297 | +$1,035,533 |
 | Sassy-Bucket | 74 | 71 | 2 | 51% | $8,363,091 | -$643,302 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 577 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.75 (57¢) | $58,126 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.75 (57¢) | $55,449 | — | ⏳ Pendiente |
 | gmpm2 | Florida vs. Texas | Texas | 1.23 (81¢) | $32,805 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.37 (73¢) | $63,893 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 577 en total)_
 | ethanaz | Washington vs. Purdue | Washington | 1.41 (71¢) | $62,651 | +$25,590 | ✅ Ganada |
 | Nooserac | Timberwolves vs. Bulls | Bulls | 1.22 (82¢) | $25,653 | +$5,631 | ✅ Ganada |
 | Sassy-Bucket | Bruins vs. Ducks | Ducks | 2.04 (49¢) | $27,594 | -$27,594 | ❌ Perdida |
-| para-Vision | Bruins vs. Ducks | Bruins | 1.96 (51¢) | $40,800 | +$39,200 | ✅ Ganada |
