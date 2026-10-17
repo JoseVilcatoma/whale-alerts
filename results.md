@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 12:04:25 (hora de Perú)
+Actualizado: 2026-10-17 12:06:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5409**  ($295,707,762 en total)
+- Apuestas registradas: **5410**  ($295,737,762 en total)
 - Resueltas: **5336** — 3271 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 51
-- Apostadores distintos: 580
+- Pendientes: 52
+- Apostadores distintos: 581
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | S-Works | 10 | 5 | 0 | 67% | $1,582,939 | -$195,755 |
 
-_(mostrando los 40 de mayor monto, de 580 en total)_
+_(mostrando los 40 de mayor monto, de 581 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| LonnieHawkins | Will Newcastle United FC win on 2026-10-17? | No | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.45 (29¢) | $28,987 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Buffalo (-6.5) | Buffalo | 1.96 (51¢) | $27,705 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.41 (71¢) | $63,110 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 580 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ipswich Town FC win on 2026-10-17? | No | 1.11 (90¢) | $36,000 | +$4,000 | ✅ Ganada |
 | beeemw | Will Ipswich Town FC win on 2026-10-17? | No | 1.09 (92¢) | $49,760 | +$4,327 | ✅ Ganada |
 | HVAB | Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska | Maja Chwalinska | 2.13 (47¢) | $39,568 | +$44,619 | ✅ Ganada |
-| Zzzz87 | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $86,241 | +$24,325 | ✅ Ganada |
