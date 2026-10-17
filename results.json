@@ -80956,5 +80956,35 @@
     "status": "pending",
     "ultimo_fill": 1792252955,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10940,
+    "timestamp": 1792253078,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lal-bet-bar-2026-10-17-spread-away-1pt5",
+    "title": "Spread: FC Barcelona (-1.5)",
+    "outcome": "Real Betis Balompi\u00e9",
+    "side": "BUY",
+    "usd": 52997.74220000001,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792253078,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10941,
+    "timestamp": 1792253128,
+    "username": "raybanman",
+    "wallet": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+    "slug": "epl-new-ast-2026-10-17-new",
+    "title": "Will Newcastle United FC win on 2026-10-17?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 58500.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1792253128,
+    "fills": 1
   }
 ]
