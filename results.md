@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 11:50:02 (hora de Perú)
+Actualizado: 2026-10-17 11:52:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5406**  ($295,587,960 en total)
-- Resueltas: **5333** — 3268 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Resueltas: **5336** — 3271 ganadas / 2065 perdidas (**61%** de acierto)
+- Pendientes: 48
 - Apostadores distintos: 580
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,290,821** sobre $292,173,218 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,384** sobre $525,900 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,336,393** sobre $292,332,242 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$3,298** sobre $526,200 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -114,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 580 en total)_
 | QVanguard | Will FC Barcelona win on 2026-10-17? | Yes | 1.49 (67¢) | $104,821 | — | ⏳ Pendiente |
 | 0000a | Mississippi State vs. LSU | LSU | 1.14 (88¢) | $215,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | European Open, Qualification: Giovanni Mpetshi Perricard vs Remy Bertola | Remy Bertola | 1.96 (51¢) | $41,369 | +$39,747 | ✅ Ganada |
-| veliMax | Will Manchester City FC win on 2026-10-17? | Yes | 1.30 (77¢) | $43,195 | — | ⏳ Pendiente |
+| veliMax | Will Manchester City FC win on 2026-10-17? | Yes | 1.30 (77¢) | $43,195 | +$12,902 | ✅ Ganada |
 | raybanman | Will Aston Villa FC win on 2026-10-17? | No | 1.49 (67¢) | $173,150 | — | ⏳ Pendiente |
 | SDTrading | Spread: Notre Dame (-10.5) | BYU | 1.96 (51¢) | $30,729 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Maia: Francesco Passaro vs Matej Dodig | Francesco Passaro | 2.17 (46¢) | $25,070 | +$29,429 | ✅ Ganada |
@@ -123,11 +123,11 @@ _(mostrando los 40 de mayor monto, de 580 en total)_
 | lfg100k | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.69 (59¢) | $41,367 | -$41,367 | ❌ Perdida |
 | Dragon-Evolution | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | FURIA | 1.89 (53¢) | $36,079 | +$31,995 | ✅ Ganada |
 | Roadto1mlesgooo | Manchester City FC vs. Ipswich Town FC: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $28,338 | +$3,149 | ✅ Ganada |
-| Flaznorp | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $29,587 | — | ⏳ Pendiente |
+| Flaznorp | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $29,587 | +$8,345 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ipswich Town FC win on 2026-10-17? | No | 1.11 (90¢) | $36,000 | +$4,000 | ✅ Ganada |
 | beeemw | Will Ipswich Town FC win on 2026-10-17? | No | 1.09 (92¢) | $49,760 | +$4,327 | ✅ Ganada |
 | HVAB | Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska | Maja Chwalinska | 2.13 (47¢) | $39,568 | +$44,619 | ✅ Ganada |
-| Zzzz87 | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $86,241 | — | ⏳ Pendiente |
+| Zzzz87 | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $86,241 | +$24,325 | ✅ Ganada |
 | jonjones1993 | Will SSC Napoli win on 2026-10-17? | No | 2.13 (47¢) | $42,300 | +$47,700 | ✅ Ganada |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-10-17? | Yes | 1.82 (55¢) | $77,010 | -$77,010 | ❌ Perdida |
 | sulumos | Will VfB Stuttgart win on 2026-10-17? | No | 2.17 (46¢) | $25,548 | +$29,992 | ✅ Ganada |
