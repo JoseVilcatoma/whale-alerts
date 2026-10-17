@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 23:48:27 (hora de Perú)
+Actualizado: 2026-10-16 23:50:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5331**  ($292,119,267 en total)
-- Resueltas: **5294** — 3237 ganadas / 2057 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **5295** — 3238 ganadas / 2057 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$695,618** sobre $290,463,043 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,872** sobre $522,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$698,979** sobre $290,515,704 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,865** sobre $522,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 375 | 204 | 4 | 65% | $36,588,713 | +$962,995 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 376 | 204 | 3 | 65% | $36,588,713 | +$966,357 |
 | Sassy-Bucket | 74 | 70 | 3 | 51% | $8,363,091 | -$615,708 |
 | Diabolical-Prize | 69 | 62 | 1 | 53% | $7,213,563 | +$502,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | gransaaa | Will Fulham FC win on 2026-10-17? | Yes | 1.72 (58¢) | $92,220 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Suns | Jazz | 1.06 (94¢) | $52,661 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Suns | Jazz | 1.06 (94¢) | $52,661 | +$3,361 | ✅ Ganada |
 | gransaaa | Will Fulham FC win on 2026-10-17? | Yes | 1.72 (58¢) | $43,500 | — | ⏳ Pendiente |
 | Diabolical-Prize | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 3.12 (32¢) | $47,059 | — | ⏳ Pendiente |
 | Takon88 | Will Gamba Ōsaka win on 2026-10-17? | No | 1.56 (64¢) | $30,833 | — | ⏳ Pendiente |
