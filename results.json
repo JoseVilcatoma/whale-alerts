@@ -80926,5 +80926,20 @@
     "status": "pending",
     "ultimo_fill": 1792252790,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10938,
+    "timestamp": 1792252823,
+    "username": "Satanishippie",
+    "wallet": "0x89eb83948d44d7b9b5e2c58fb49167b563a3cff9",
+    "slug": "cs2-fal2-bb3-2026-10-17",
+    "title": "Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 29999.999998000003,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1792252823,
+    "fills": 1
   }
 ]

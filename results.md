@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 11:00:22 (hora de Perú)
+Actualizado: 2026-10-17 11:02:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5384**  ($294,702,460 en total)
+- Apuestas registradas: **5385**  ($294,732,460 en total)
 - Resueltas: **5317** — 3255 ganadas / 2062 perdidas (**61%** de acierto)
-- Pendientes: 45
-- Apostadores distintos: 577
+- Pendientes: 46
+- Apostadores distintos: 578
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | S-Works | 10 | 5 | 0 | 67% | $1,582,939 | -$195,755 |
 
-_(mostrando los 40 de mayor monto, de 577 en total)_
+_(mostrando los 40 de mayor monto, de 578 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Satanishippie | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.35 (74¢) | $30,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: LSU (-16.5) | Mississippi State | 2.22 (45¢) | $48,378 | — | ⏳ Pendiente |
 | DaWinci | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $81,643 | — | ⏳ Pendiente |
 | 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 577 en total)_
 | Diabolical-Prize | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 3.12 (32¢) | $47,059 | +$100,000 | ✅ Ganada |
 | Takon88 | Will Gamba Ōsaka win on 2026-10-17? | No | 1.56 (64¢) | $30,833 | +$17,344 | ✅ Ganada |
 | 01258787xy48487484545122 | Japan Women's Open, Qualification: Sayaka Ishii vs Elina Avanesyan | Sayaka Ishii | 1.25 (80¢) | $134,612 | +$33,653 | ✅ Ganada |
-| esportsbetter1 | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 3.12 (32¢) | $32,000 | +$68,000 | ✅ Ganada |
