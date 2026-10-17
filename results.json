@@ -80251,5 +80251,20 @@
     "status": "pending",
     "ultimo_fill": 1792233172,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10873,
+    "timestamp": 1792234995,
+    "username": "0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396",
+    "wallet": "0x73bcd24d510ff4e4d5feac6aec763c5511e246ce",
+    "slug": "epl-eve-che-2026-10-17-corners-total-9pt5",
+    "title": "Everton FC vs. Chelsea FC: O/U 9.5 Total Corners",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 27958.9242,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792234995,
+    "fills": 1
   }
 ]
