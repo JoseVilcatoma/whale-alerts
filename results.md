@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 06:14:53 (hora de Perú)
+Actualizado: 2026-10-17 06:17:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5340**  ($292,446,085 en total)
+- Apuestas registradas: **5341**  ($292,485,305 en total)
 - Resueltas: **5299** — 3241 ganadas / 2058 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 574
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Will Everton FC win on 2026-10-17? | No | 1.49 (67¢) | $39,219 | — | ⏳ Pendiente |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Everton FC vs. Chelsea FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 1.96 (51¢) | $27,959 | — | ⏳ Pendiente |
 | plonker2026 | Will Chelsea FC win on 2026-10-17? | No | 1.69 (59¢) | $25,015 | — | ⏳ Pendiente |
 | plonker2026 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | joseph00677 | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.82 (55¢) | $245,706 | +$201,032 | ✅ Ganada |
 | BrotherObama | Spread: Memphis (-6.5) | Memphis | 1.89 (53¢) | $30,000 | -$30,000 | ❌ Perdida |
 | corkmaster420blaezit | Game Handicap: C9 (-1.5) vs FURIA Esports (+1.5) | Cloud9 | 1.49 (67¢) | $25,004 | -$25,004 | ❌ Perdida |
-| corkmaster420blaezit | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | Cloud9 | 2.56 (39¢) | $25,930 | -$25,930 | ❌ Perdida |

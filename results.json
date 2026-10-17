@@ -80266,5 +80266,20 @@
     "status": "pending",
     "ultimo_fill": 1792234995,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10874,
+    "timestamp": 1792235722,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "epl-eve-che-2026-10-17-eve",
+    "title": "Will Everton FC win on 2026-10-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 39219.41,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1792235722,
+    "fills": 1
   }
 ]
