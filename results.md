@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 11:20:53 (hora de Perú)
+Actualizado: 2026-10-17 11:22:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5393**  ($295,083,295 en total)
+- Apuestas registradas: **5396**  ($295,228,366 en total)
 - Resueltas: **5318** — 3256 ganadas / 2062 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 56
 - Apostadores distintos: 578
 
 ### Balance
@@ -44,8 +44,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 28 | 20 | 2 | 58% | $3,399,297 | +$158,709 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| raybanman | 16 | 9 | 4 | 64% | $3,009,662 | +$654,807 |
 | Kch-Temp | 34 | 10 | 1 | 77% | $2,943,503 | +$1,598,814 |
-| raybanman | 16 | 9 | 3 | 64% | $2,919,662 | +$654,807 |
 | cosmicxbt | 17 | 7 | 0 | 71% | $2,604,992 | -$337,317 |
 | 0F62 | 29 | 5 | 0 | 85% | $2,593,269 | -$324,024 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| ndb1 | 24 | 12 | 1 | 67% | $2,000,034 | +$423,778 |
+| ndb1 | 24 | 12 | 2 | 67% | $2,027,534 | +$423,778 |
 | Talvez10 | 21 | 18 | 1 | 54% | $1,866,868 | +$257,433 |
 | SDTrading | 30 | 31 | 1 | 49% | $1,844,053 | -$160,793 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 3 | 2 | 91% | $1,831,141 | +$54,045 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Will Newcastle United FC win on 2026-10-17? | No | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
+| tankfest2027 | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,571 | — | ⏳ Pendiente |
+| raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $90,000 | — | ⏳ Pendiente |
 | YEEES-but-why | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,360 | — | ⏳ Pendiente |
 | NeverLoseBet | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,360 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $68,963 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 | plonker2026 | Will Chelsea FC win on 2026-10-17? | No | 1.69 (59¢) | $25,015 | -$25,015 | ❌ Perdida |
 | plonker2026 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | arjennnnn | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.19 (84¢) | $44,106 | +$8,401 | ✅ Ganada |
-| kansann121 | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.15 (87¢) | $61,360 | +$9,169 | ✅ Ganada |
-| Roadto1mlesgooo | Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina | Alexander Zverev | 1.11 (90¢) | $38,524 | -$38,524 | ❌ Perdida |
-| bbb17367162806 | Will AS Roma win on 2026-10-17? | Yes | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
