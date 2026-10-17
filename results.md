@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 16:01:36 (hora de Perú)
+Actualizado: 2026-10-17 16:03:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5440**  ($297,881,790 en total)
-- Resueltas: **5376** — 3300 ganadas / 2076 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Resueltas: **5389** — 3302 ganadas / 2087 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 583
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,380,087** sobre $294,578,745 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$2,989** sobre $530,100 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,048,945** sobre $295,099,842 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,587** sobre $531,400 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | Sassy-Bucket | UNLV vs. Air Force | UNLV | 1.96 (51¢) | $92,888 | — | ⏳ Pendiente |
 | 0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900 | Will AS Roma win on 2026-10-17? | Yes | 1.79 (56¢) | $28,913 | — | ⏳ Pendiente |
 | Kch-Temp | UNLV vs. Air Force | Air Force | 2.08 (48¢) | $94,172 | — | ⏳ Pendiente |
-| sgfkskg243324 | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.52 (66¢) | $31,723 | — | ⏳ Pendiente |
+| sgfkskg243324 | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.52 (66¢) | $31,723 | -$31,723 | ❌ Perdida |
 | KaneAnalytics | Florida vs. Texas | Florida | 1.54 (65¢) | $35,083 | +$18,891 | ✅ Ganada |
 | KaneAnalytics | Ohio State vs. Indiana | Ohio State | 1.11 (90¢) | $44,395 | +$4,933 | ✅ Ganada |
 | KaneAnalytics | Florida vs. Texas | Florida | 1.16 (86¢) | $43,109 | +$7,018 | ✅ Ganada |
@@ -102,31 +102,31 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.64 (61¢) | $50,427 | -$50,427 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
 | LonnieHawkins | Will Newcastle United FC win on 2026-10-17? | No | 1.61 (62¢) | $30,000 | +$18,387 | ✅ Ganada |
-| Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.45 (29¢) | $28,987 | — | ⏳ Pendiente |
+| Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.45 (29¢) | $28,987 | +$70,968 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Buffalo (-6.5) | Buffalo | 1.96 (51¢) | $27,705 | — | ⏳ Pendiente |
-| ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.41 (71¢) | $63,110 | — | ⏳ Pendiente |
+| ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.41 (71¢) | $63,110 | -$63,110 | ❌ Perdida |
 | thegreatjeff | Will FC Barcelona win on 2026-10-17? | Yes | 1.18 (85¢) | $50,000 | +$8,824 | ✅ Ganada |
-| Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.57 (28¢) | $25,200 | — | ⏳ Pendiente |
+| Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.57 (28¢) | $25,200 | +$64,800 | ✅ Ganada |
 | SineNooneEI | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | FURIA Esports | 1.56 (64¢) | $28,149 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Ohio State vs. Indiana | Ohio State | 1.67 (60¢) | $37,963 | +$25,309 | ✅ Ganada |
 | Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.85 (54¢) | $27,028 | -$27,028 | ❌ Perdida |
-| ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $48,000 | — | ⏳ Pendiente |
+| ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $48,000 | -$48,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Betis Balompié vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.63 (38¢) | $26,498 | +$43,233 | ✅ Ganada |
-| juice-fruit | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $32,588 | — | ⏳ Pendiente |
+| juice-fruit | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $32,588 | -$32,588 | ❌ Perdida |
 | beeemw | Will Real Betis Balompié win on 2026-10-17? | No | 1.15 (87¢) | $48,053 | +$7,180 | ✅ Ganada |
 | gambamaster | Will Newcastle United FC win on 2026-10-17? | No | 1.82 (55¢) | $36,116 | +$29,550 | ✅ Ganada |
 | ndb1 | Will Newcastle United FC win on 2026-10-17? | No | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
-| tankfest2027 | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,571 | — | ⏳ Pendiente |
+| tankfest2027 | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,571 | -$27,571 | ❌ Perdida |
 | raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $90,000 | -$90,000 | ❌ Perdida |
-| YEEES-but-why | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,360 | — | ⏳ Pendiente |
-| NeverLoseBet | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,360 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $68,963 | — | ⏳ Pendiente |
+| YEEES-but-why | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,360 | -$27,360 | ❌ Perdida |
+| NeverLoseBet | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,360 | -$27,360 | ❌ Perdida |
+| lllllllIlll | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $68,963 | -$68,963 | ❌ Perdida |
 | raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $45,000 | -$45,000 | ❌ Perdida |
 | alwaysfade | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
 | raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $58,500 | -$58,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.89 (53¢) | $52,998 | -$52,998 | ❌ Perdida |
 | gmpm2 | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $36,454 | +$27,500 | ✅ Ganada |
-| Satanishippie | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.35 (74¢) | $30,000 | — | ⏳ Pendiente |
+| Satanishippie | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.35 (74¢) | $30,000 | -$30,000 | ❌ Perdida |
 | Sassy-Bucket | Spread: LSU (-16.5) | Mississippi State | 2.22 (45¢) | $48,378 | -$48,378 | ❌ Perdida |
 | DaWinci | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $81,643 | +$8,075 | ✅ Ganada |
 | 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
