@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 23:56:49 (hora de Perú)
+Actualizado: 2026-10-16 23:58:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5331**  ($292,119,267 en total)
-- Resueltas: **5295** — 3238 ganadas / 2057 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **5297** — 3239 ganadas / 2058 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$698,979** sobre $290,515,704 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,865** sobre $522,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$710,585** sobre $290,584,098 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,869** sobre $522,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 376 | 204 | 3 | 65% | $36,588,713 | +$966,357 |
-| Sassy-Bucket | 74 | 70 | 3 | 51% | $8,363,091 | -$615,708 |
+| Sassy-Bucket | 74 | 71 | 2 | 51% | $8,363,091 | -$643,302 |
 | Diabolical-Prize | 69 | 62 | 1 | 53% | $7,213,563 | +$502,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -81,8 +81,8 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | ethanaz | Washington vs. Purdue | Washington | 1.47 (68¢) | $110,288 | +$51,900 | ✅ Ganada |
 | ethanaz | Washington vs. Purdue | Washington | 1.41 (71¢) | $62,651 | +$25,590 | ✅ Ganada |
 | Nooserac | Timberwolves vs. Bulls | Bulls | 1.22 (82¢) | $25,653 | +$5,631 | ✅ Ganada |
-| Sassy-Bucket | Bruins vs. Ducks | Ducks | 2.04 (49¢) | $27,594 | — | ⏳ Pendiente |
-| para-Vision | Bruins vs. Ducks | Bruins | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
+| Sassy-Bucket | Bruins vs. Ducks | Ducks | 2.04 (49¢) | $27,594 | -$27,594 | ❌ Perdida |
+| para-Vision | Bruins vs. Ducks | Bruins | 1.96 (51¢) | $40,800 | +$39,200 | ✅ Ganada |
 | arjennnnn | Celtics vs. 76ers | 76ers | 1.12 (89¢) | $28,294 | -$28,294 | ❌ Perdida |
 | Sassy-Bucket | Penguins vs. Avalanche | Avalanche | 1.54 (65¢) | $40,173 | +$21,632 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. 76ers | 76ers | 1.39 (72¢) | $28,400 | -$28,400 | ❌ Perdida |
