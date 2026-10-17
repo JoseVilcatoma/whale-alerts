@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 08:23:12 (hora de Perú)
+Actualizado: 2026-10-17 08:26:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5352**  ($292,992,375 en total)
-- Resueltas: **5303** — 3244 ganadas / 2059 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **5306** — 3247 ganadas / 2059 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 574
 
 ### Balance
 
-- **Resultado de los apostadores: +$954,698** sobre $290,899,910 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,269** sobre $523,000 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$986,385** sobre $291,035,376 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,188** sobre $523,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -86,8 +86,8 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Everton FC vs. Chelsea FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 1.96 (51¢) | $27,959 | — | ⏳ Pendiente |
 | plonker2026 | Will Chelsea FC win on 2026-10-17? | No | 1.69 (59¢) | $25,015 | — | ⏳ Pendiente |
 | plonker2026 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| arjennnnn | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.19 (84¢) | $44,106 | — | ⏳ Pendiente |
-| kansann121 | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.15 (87¢) | $61,360 | — | ⏳ Pendiente |
+| arjennnnn | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.19 (84¢) | $44,106 | +$8,401 | ✅ Ganada |
+| kansann121 | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.15 (87¢) | $61,360 | +$9,169 | ✅ Ganada |
 | Roadto1mlesgooo | Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina | Alexander Zverev | 1.11 (90¢) | $38,524 | -$38,524 | ❌ Perdida |
 | bbb17367162806 | Will AS Roma win on 2026-10-17? | Yes | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 2.94 (34¢) | $32,784 | +$63,640 | ✅ Ganada |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | arjennnnn | Celtics vs. 76ers | 76ers | 1.12 (89¢) | $28,294 | -$28,294 | ❌ Perdida |
 | Sassy-Bucket | Penguins vs. Avalanche | Avalanche | 1.54 (65¢) | $40,173 | +$21,632 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. 76ers | 76ers | 1.39 (72¢) | $28,400 | -$28,400 | ❌ Perdida |
-| bluemol | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $30,000 | — | ⏳ Pendiente |
+| bluemol | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $30,000 | +$14,118 | ✅ Ganada |
 | halanddd123 | Celtics vs. 76ers | 76ers | 1.37 (73¢) | $26,339 | -$26,339 | ❌ Perdida |
 | para-Vision | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.96 (51¢) | $41,825 | — | ⏳ Pendiente |
 | blgmsiwin | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.37 (73¢) | $43,674 | -$43,674 | ❌ Perdida |
