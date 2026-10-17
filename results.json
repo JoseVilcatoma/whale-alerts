@@ -79846,5 +79846,20 @@
     "status": "pending",
     "ultimo_fill": 1792194877,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 10802,
+    "timestamp": 1792195289,
+    "username": "blgmsiwin",
+    "wallet": "0x6100acd1f9ebe426750cb5cf7bc89e262beaed95",
+    "slug": "lol-fur-c9-2026-10-16-game4",
+    "title": "LoL: FURIA Esports vs Cloud9 - Game 4 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "usd": 43673.73419999999,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1792195289,
+    "fills": 1
   }
 ]
