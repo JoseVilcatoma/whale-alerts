@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 20:05:13 (hora de Perú)
+Actualizado: 2026-10-16 20:07:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5319**  ($291,419,397 en total)
+- Apuestas registradas: **5320**  ($291,460,197 en total)
 - Resueltas: **5274** — 3227 ganadas / 2047 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 573
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| para-Vision | Bruins vs. Ducks | Bruins | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
 | arjennnnn | Celtics vs. 76ers | 76ers | 1.12 (89¢) | $28,294 | — | ⏳ Pendiente |
 | Sassy-Bucket | Penguins vs. Avalanche | Avalanche | 1.54 (65¢) | $40,173 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. 76ers | 76ers | 1.39 (72¢) | $28,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.22 (82¢) | $28,499 | -$28,499 | ❌ Perdida |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.22 (82¢) | $35,007 | +$7,684 | ✅ Ganada |
 | juice-fruit | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.52 (66¢) | $63,232 | +$32,574 | ✅ Ganada |
-| lllllllllllIlll | Counter-Strike: NIP vs Liquid (BO3) - Stake Pulse Beat III Playoffs | Liquid | 1.96 (51¢) | $96,464 | -$96,464 | ❌ Perdida |
