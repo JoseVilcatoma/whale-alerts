@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 11:33:22 (hora de Perú)
+Actualizado: 2026-10-17 11:35:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5400**  ($295,371,621 en total)
-- Resueltas: **5318** — 3256 ganadas / 2062 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Apuestas registradas: **5401**  ($295,419,620 en total)
+- Resueltas: **5320** — 3257 ganadas / 2063 perdidas (**61%** de acierto)
+- Pendientes: 59
 - Apostadores distintos: 578
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,076,320** sobre $291,513,802 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,714** sobre $524,400 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$1,083,314** sobre $291,574,881 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,725** sobre $524,600 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $48,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Betis Balompié vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.63 (38¢) | $26,498 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $32,588 | — | ⏳ Pendiente |
 | beeemw | Will Real Betis Balompié win on 2026-10-17? | No | 1.15 (87¢) | $48,053 | — | ⏳ Pendiente |
@@ -115,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 | Cbs710 | Will Ipswich Town FC win on 2026-10-17? | No | 1.08 (93¢) | $76,265 | — | ⏳ Pendiente |
 | Zzzz87 | Manchester City FC vs. Ipswich Town FC: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $48,012 | — | ⏳ Pendiente |
 | lfg100k | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.69 (59¢) | $41,367 | — | ⏳ Pendiente |
-| Dragon-Evolution | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | FURIA | 1.89 (53¢) | $36,079 | — | ⏳ Pendiente |
+| Dragon-Evolution | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | FURIA | 1.89 (53¢) | $36,079 | +$31,995 | ✅ Ganada |
 | Roadto1mlesgooo | Manchester City FC vs. Ipswich Town FC: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $28,338 | — | ⏳ Pendiente |
 | Flaznorp | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $29,587 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ipswich Town FC win on 2026-10-17? | No | 1.11 (90¢) | $36,000 | — | ⏳ Pendiente |
@@ -128,6 +129,5 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 | mooseborzoii | Will SSC Napoli win on 2026-10-17? | Yes | 1.89 (53¢) | $77,088 | -$77,088 | ❌ Perdida |
 | lfg100k | Will Club Atlético de Madrid win on 2026-10-17? | Yes | 1.72 (58¢) | $29,707 | +$21,512 | ✅ Ganada |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 2.04 (49¢) | $27,149 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | Aurora Gaming | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | Aurora Gaming | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Talvez10 | Sharks vs. Red Wings | Red Wings | 1.79 (56¢) | $27,699 | — | ⏳ Pendiente |
-| Flaznorp | Will Everton FC win on 2026-10-17? | No | 1.49 (67¢) | $39,219 | +$19,317 | ✅ Ganada |
