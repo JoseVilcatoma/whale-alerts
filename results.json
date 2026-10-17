@@ -80356,5 +80356,35 @@
     "status": "pending",
     "ultimo_fill": 1792241146,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 10884,
+    "timestamp": 1792241205,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "bun-hsv-stu-2026-10-17-stu",
+    "title": "Will VfB Stuttgart win on 2026-10-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25548.4,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1792241205,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10885,
+    "timestamp": 1792241206,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "bun-hsv-stu-2026-10-17-stu",
+    "title": "Will VfB Stuttgart win on 2026-10-17?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 77010.1585,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1792241206,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 07:46:04 (hora de Perú)
+Actualizado: 2026-10-17 07:48:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5346**  ($292,671,948 en total)
+- Apuestas registradas: **5348**  ($292,774,506 en total)
 - Resueltas: **5303** — 3244 ganadas / 2059 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 23
 - Apostadores distintos: 574
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| totoro3miyazaki | 34 | 17 | 1 | 67% | $5,837,730 | +$402,871 |
+| totoro3miyazaki | 34 | 17 | 2 | 67% | $5,914,740 | +$402,871 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ferrariChampions2026 | 87 | 44 | 0 | 66% | $5,666,469 | +$44,465 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will VfB Stuttgart win on 2026-10-17? | Yes | 1.82 (55¢) | $77,010 | — | ⏳ Pendiente |
+| sulumos | Will VfB Stuttgart win on 2026-10-17? | No | 2.17 (46¢) | $25,548 | — | ⏳ Pendiente |
 | mooseborzoii | Will SSC Napoli win on 2026-10-17? | Yes | 1.89 (53¢) | $77,088 | — | ⏳ Pendiente |
 | lfg100k | Will Club Atlético de Madrid win on 2026-10-17? | Yes | 1.72 (58¢) | $29,707 | — | ⏳ Pendiente |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 2.04 (49¢) | $27,149 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | zb8 | LoL: MVK Esports vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.22 (82¢) | $30,907 | +$6,785 | ✅ Ganada |
 | Diabolical-Prize | LoL: MVK Esports vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.20 (83¢) | $71,491 | +$14,643 | ✅ Ganada |
 | corkmaster420blaezit | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | Cloud9 | 2.50 (40¢) | $26,245 | -$26,245 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.11 (90¢) | $41,889 | +$4,654 | ✅ Ganada |
-| ferrariChampions2026 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.15 (87¢) | $77,740 | +$11,616 | ✅ Ganada |
