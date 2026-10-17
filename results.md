@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 20:34:34 (hora de Perú)
+Actualizado: 2026-10-16 20:36:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5320**  ($291,460,197 en total)
+- Apuestas registradas: **5321**  ($291,487,791 en total)
 - Resueltas: **5281** — 3231 ganadas / 2050 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 573
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 375 | 203 | 4 | 65% | $36,536,052 | +$991,396 |
-| Sassy-Bucket | 73 | 70 | 3 | 51% | $8,335,498 | -$637,340 |
+| Sassy-Bucket | 73 | 70 | 4 | 51% | $8,363,091 | -$637,340 |
 | Diabolical-Prize | 69 | 62 | 0 | 53% | $7,166,504 | +$502,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Bruins vs. Ducks | Ducks | 2.04 (49¢) | $27,594 | — | ⏳ Pendiente |
 | para-Vision | Bruins vs. Ducks | Bruins | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
 | arjennnnn | Celtics vs. 76ers | 76ers | 1.12 (89¢) | $28,294 | — | ⏳ Pendiente |
 | Sassy-Bucket | Penguins vs. Avalanche | Avalanche | 1.54 (65¢) | $40,173 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | 0000a | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.12 (89¢) | $31,105 | +$3,844 | ✅ Ganada |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.22 (82¢) | $28,499 | -$28,499 | ❌ Perdida |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.22 (82¢) | $35,007 | +$7,684 | ✅ Ganada |
-| juice-fruit | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.52 (66¢) | $63,232 | +$32,574 | ✅ Ganada |
