@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 14:18:05 (hora de Perú)
+Actualizado: 2026-10-17 14:20:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5432**  ($297,278,688 en total)
+- Apuestas registradas: **5433**  ($297,307,601 en total)
 - Resueltas: **5359** — 3287 ganadas / 2072 perdidas (**61%** de acierto)
-- Pendientes: 51
-- Apostadores distintos: 582
+- Pendientes: 52
+- Apostadores distintos: 583
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | S-Works | 10 | 5 | 0 | 67% | $1,582,939 | -$195,755 |
 
-_(mostrando los 40 de mayor monto, de 582 en total)_
+_(mostrando los 40 de mayor monto, de 583 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900 | Will AS Roma win on 2026-10-17? | Yes | 1.79 (56¢) | $28,913 | — | ⏳ Pendiente |
 | Kch-Temp | UNLV vs. Air Force | Air Force | 2.08 (48¢) | $94,172 | — | ⏳ Pendiente |
 | sgfkskg243324 | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.52 (66¢) | $31,723 | — | ⏳ Pendiente |
 | KaneAnalytics | Florida vs. Texas | Florida | 1.54 (65¢) | $35,083 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 582 en total)_
 | NeverLoseBet | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $46,343 | — | ⏳ Pendiente |
 | lalalalalalallalalalala | Northwestern vs. Michigan State: O/U 49.5 | Over 49.5 | 1.92 (52¢) | $38,968 | — | ⏳ Pendiente |
 | Soarin22 | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Brentford FC vs. Liverpool FC: O/U 1.5 | Over 1.5 | 1.12 (89¢) | $27,922 | +$3,451 | ✅ Ganada |

@@ -81650,5 +81650,20 @@
     "status": "pending",
     "ultimo_fill": 1792264674,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 11029,
+    "timestamp": 1792264715,
+    "username": "0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900",
+    "wallet": "0xa2a78bb796f56b1b174b29eff72af4f0c558627b",
+    "slug": "sea-rom-gen-2026-10-17-rom",
+    "title": "Will AS Roma win on 2026-10-17?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 28912.517900000003,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1792264715,
+    "fills": 1
   }
 ]
