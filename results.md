@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 15:03:35 (hora de Perú)
+Actualizado: 2026-10-17 15:05:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5435**  ($297,446,928 en total)
+- Apuestas registradas: **5437**  ($297,697,266 en total)
 - Resueltas: **5368** — 3293 ganadas / 2075 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 47
 - Apostadores distintos: 583
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 384 | 205 | 3 | 65% | $36,951,993 | +$1,174,749 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 384 | 205 | 4 | 65% | $37,094,493 | +$1,174,749 |
 | Sassy-Bucket | 75 | 72 | 3 | 51% | $8,552,852 | -$652,004 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 1 | 53% | $7,176,735 | -$419,028 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.33 (43¢) | $107,838 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.75 (57¢) | $142,500 | — | ⏳ Pendiente |
 | ethanaz | Ohio State vs. Indiana | Ohio State | 1.49 (67¢) | $46,440 | — | ⏳ Pendiente |
 | Sassy-Bucket | UNLV vs. Air Force | UNLV | 1.96 (51¢) | $92,888 | — | ⏳ Pendiente |
 | 0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900 | Will AS Roma win on 2026-10-17? | Yes | 1.79 (56¢) | $28,913 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.75 (57¢) | $58,126 | +$43,850 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.75 (57¢) | $55,449 | +$41,830 | ✅ Ganada |
 | gmpm2 | Florida vs. Texas | Texas | 1.23 (81¢) | $32,805 | -$32,805 | ❌ Perdida |
-| juice-fruit | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.37 (73¢) | $63,893 | — | ⏳ Pendiente |
-| NeverLoseBet | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $46,343 | — | ⏳ Pendiente |

@@ -81695,5 +81695,35 @@
     "status": "pending",
     "ultimo_fill": 1792265267,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11041,
+    "timestamp": 1792267464,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wnba-atl-gsv-2026-10-17",
+    "title": "Atlanta Dream vs. Golden State Valkyries",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "usd": 142500.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1792267464,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11042,
+    "timestamp": 1792267475,
+    "username": "CHZHSHCH",
+    "wallet": "0x385edd359037625b95dd057794ba3ea25a9c40ce",
+    "slug": "wnba-atl-gsv-2026-10-17",
+    "title": "Atlanta Dream vs. Golden State Valkyries",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "usd": 107837.7822,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1792267475,
+    "fills": 1
   }
 ]
