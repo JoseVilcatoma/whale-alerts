@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 22:26:29 (hora de Perú)
+Actualizado: 2026-10-16 22:28:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5326**  ($291,852,994 en total)
-- Resueltas: **5286** — 3232 ganadas / 2054 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **5287** — 3232 ganadas / 2055 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$610,070** sobre $290,049,433 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,914** sobre $521,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$580,070** sobre $290,079,433 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$5,014** sobre $521,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 61 | 40 | 0 | 60% | $5,100,805 | -$38,747 |
 | ethanaz | 48 | 21 | 2 | 70% | $4,433,754 | -$86,799 |
-| BrotherObama | 40 | 48 | 4 | 45% | $4,132,955 | -$253,237 |
+| BrotherObama | 40 | 49 | 3 | 45% | $4,132,955 | -$283,237 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
 | mooseborzoii | 48 | 25 | 3 | 66% | $3,774,268 | +$862,030 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -114,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.20 (83¢) | $66,364 | +$13,593 | ✅ Ganada |
 | Kkunn | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | Legacy | 2.50 (40¢) | $28,864 | -$28,864 | ❌ Perdida |
 | joseph00677 | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.82 (55¢) | $245,706 | +$201,032 | ✅ Ganada |
-| BrotherObama | Spread: Memphis (-6.5) | Memphis | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Memphis (-6.5) | Memphis | 1.89 (53¢) | $30,000 | -$30,000 | ❌ Perdida |
 | corkmaster420blaezit | Game Handicap: C9 (-1.5) vs FURIA Esports (+1.5) | Cloud9 | 1.49 (67¢) | $25,004 | -$25,004 | ❌ Perdida |
 | corkmaster420blaezit | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | Cloud9 | 2.56 (39¢) | $25,930 | -$25,930 | ❌ Perdida |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $70,526 | -$70,526 | ❌ Perdida |
