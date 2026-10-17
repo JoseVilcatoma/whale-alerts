@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 12:43:34 (hora de Perú)
+Actualizado: 2026-10-17 12:45:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5414**  ($295,922,637 en total)
+- Apuestas registradas: **5415**  ($295,966,984 en total)
 - Resueltas: **5337** — 3272 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 581
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 50 | 21 | 0 | 70% | $4,433,754 | -$9,309 |
-| BrotherObama | 40 | 49 | 3 | 45% | $4,132,955 | -$283,237 |
+| BrotherObama | 40 | 49 | 4 | 45% | $4,177,302 | -$283,237 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
 | mooseborzoii | 50 | 26 | 2 | 66% | $3,878,506 | +$880,052 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 2.70 (37¢) | $44,347 | — | ⏳ Pendiente |
 | Nooserac | Ohio State vs. Indiana | Indiana | 1.56 (64¢) | $29,304 | — | ⏳ Pendiente |
 | veliMax | Will FC Barcelona win on 2026-10-17? | Yes | 1.22 (82¢) | $73,943 | — | ⏳ Pendiente |
 | Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.64 (61¢) | $50,427 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 | Zzzz87 | Manchester City FC vs. Ipswich Town FC: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $48,012 | +$42,577 | ✅ Ganada |
 | lfg100k | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.69 (59¢) | $41,367 | -$41,367 | ❌ Perdida |
 | Dragon-Evolution | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | FURIA | 1.89 (53¢) | $36,079 | +$31,995 | ✅ Ganada |
-| Roadto1mlesgooo | Manchester City FC vs. Ipswich Town FC: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $28,338 | +$3,149 | ✅ Ganada |
