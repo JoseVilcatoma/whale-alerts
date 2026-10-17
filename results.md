@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 06:58:00 (hora de Perú)
+Actualizado: 2026-10-17 07:00:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5342**  ($292,513,003 en total)
+- Apuestas registradas: **5345**  ($292,594,859 en total)
 - Resueltas: **5303** — 3244 ganadas / 2059 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 20
 - Apostadores distintos: 574
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 50 | 21 | 0 | 70% | $4,433,754 | -$9,309 |
 | BrotherObama | 40 | 49 | 3 | 45% | $4,132,955 | -$283,237 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
-| mooseborzoii | 50 | 25 | 1 | 67% | $3,774,268 | +$957,140 |
+| mooseborzoii | 50 | 25 | 2 | 67% | $3,801,417 | +$957,140 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lfg100k | Will Club Atlético de Madrid win on 2026-10-17? | Yes | 1.72 (58¢) | $29,707 | — | ⏳ Pendiente |
+| mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 2.04 (49¢) | $27,149 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | Aurora Gaming | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
 | Talvez10 | Sharks vs. Red Wings | Red Wings | 1.79 (56¢) | $27,699 | — | ⏳ Pendiente |
 | Flaznorp | Will Everton FC win on 2026-10-17? | No | 1.49 (67¢) | $39,219 | — | ⏳ Pendiente |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Everton FC vs. Chelsea FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 1.96 (51¢) | $27,959 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.11 (90¢) | $41,889 | +$4,654 | ✅ Ganada |
 | ferrariChampions2026 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.15 (87¢) | $77,740 | +$11,616 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.20 (83¢) | $66,364 | +$13,593 | ✅ Ganada |
-| Kkunn | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | Legacy | 2.50 (40¢) | $28,864 | -$28,864 | ❌ Perdida |
-| joseph00677 | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.82 (55¢) | $245,706 | +$201,032 | ✅ Ganada |
-| BrotherObama | Spread: Memphis (-6.5) | Memphis | 1.89 (53¢) | $30,000 | -$30,000 | ❌ Perdida |

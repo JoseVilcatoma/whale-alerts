@@ -80296,5 +80296,50 @@
     "status": "pending",
     "ultimo_fill": 1792236364,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10880,
+    "timestamp": 1792238298,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "cs2-furia-aur1-2026-10-17",
+    "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1792238298,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10881,
+    "timestamp": 1792238301,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "mlb-tb-cle-2026-10-16",
+    "title": "Tampa Bay Rays vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 27149.140900000002,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792238301,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10882,
+    "timestamp": 1792238383,
+    "username": "lfg100k",
+    "wallet": "0xd3911bd5e070c9ad9a9519c966347802d8f3b109",
+    "slug": "lal-esp-mad-2026-10-17-mad",
+    "title": "Will Club Atl\u00e9tico de Madrid win on 2026-10-17?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 29706.829999999998,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1792238383,
+    "fills": 1
   }
 ]
