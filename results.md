@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 10:08:46 (hora de Perú)
+Actualizado: 2026-10-17 10:10:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5370**  ($294,073,756 en total)
+- Apuestas registradas: **5371**  ($294,105,693 en total)
 - Resueltas: **5311** — 3251 ganadas / 2060 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 576
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 576 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sifonman | Will FC Bayern München vs. RB Leipzig end in a draw? | No | 1.15 (87¢) | $31,937 | — | ⏳ Pendiente |
 | 0000a | Spread: Brentford FC (-1.5) | Liverpool FC | 1.10 (91¢) | $30,415 | — | ⏳ Pendiente |
 | asd213457 | Brentford FC vs. Liverpool FC: Liverpool FC O/U 1.5 | Over 1.5 | 1.82 (55¢) | $28,572 | — | ⏳ Pendiente |
 | ndb1 | Fulham FC vs. Hull City AFC: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $58,468 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 576 en total)_
 | para-Vision | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.96 (51¢) | $41,825 | — | ⏳ Pendiente |
 | blgmsiwin | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.37 (73¢) | $43,674 | -$43,674 | ❌ Perdida |
 | mooseborzoii | Appalachian State vs. Coastal Carolina | Appalachian State | 2.08 (48¢) | $64,636 | +$70,023 | ✅ Ganada |
-| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Appalachian State vs. Coastal Carolina | Coastal Carolina | 2.00 (50¢) | $43,733 | -$43,733 | ❌ Perdida |
