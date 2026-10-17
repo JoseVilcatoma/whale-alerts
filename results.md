@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 14:09:41 (hora de Perú)
+Actualizado: 2026-10-17 14:11:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5430**  ($297,152,793 en total)
-- Resueltas: **5338** — 3273 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 70
+- Resueltas: **5344** — 3276 ganadas / 2068 perdidas (**61%** de acierto)
+- Pendientes: 64
 - Apostadores distintos: 581
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,359,047** sobre $292,481,686 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$3,290** sobre $526,300 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,258,688** sobre $292,755,427 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,513** sobre $526,900 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 380 | 204 | 8 | 65% | $36,951,993 | +$1,090,034 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 380 | 205 | 7 | 65% | $36,951,993 | +$1,037,037 |
 | Sassy-Bucket | 74 | 71 | 4 | 51% | $8,459,963 | -$643,302 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 1 | 53% | $7,176,735 | -$419,028 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
-| 0x361b…74fe | 25 | 2 | 1 | 93% | $1,758,963 | +$811,651 |
+| 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | S-Works | 10 | 5 | 0 | 67% | $1,582,939 | -$195,755 |
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 | BrotherObama | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 2.70 (37¢) | $44,347 | — | ⏳ Pendiente |
 | Nooserac | Ohio State vs. Indiana | Indiana | 1.56 (64¢) | $29,304 | — | ⏳ Pendiente |
 | veliMax | Will FC Barcelona win on 2026-10-17? | Yes | 1.22 (82¢) | $73,943 | — | ⏳ Pendiente |
-| Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.64 (61¢) | $50,427 | — | ⏳ Pendiente |
+| Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.64 (61¢) | $50,427 | -$50,427 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.28 (78¢) | $31,200 | — | ⏳ Pendiente |
 | LonnieHawkins | Will Newcastle United FC win on 2026-10-17? | No | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.45 (29¢) | $28,987 | — | ⏳ Pendiente |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 | Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.57 (28¢) | $25,200 | — | ⏳ Pendiente |
 | SineNooneEI | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | FURIA Esports | 1.56 (64¢) | $28,149 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Ohio State vs. Indiana | Ohio State | 1.67 (60¢) | $37,963 | — | ⏳ Pendiente |
-| Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.85 (54¢) | $27,028 | — | ⏳ Pendiente |
+| Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.85 (54¢) | $27,028 | -$27,028 | ❌ Perdida |
 | ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $48,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Betis Balompié vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.63 (38¢) | $26,498 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $32,588 | — | ⏳ Pendiente |
@@ -114,12 +114,12 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 | raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
 | alwaysfade | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
 | raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $58,500 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.89 (53¢) | $52,998 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.89 (53¢) | $52,998 | -$52,998 | ❌ Perdida |
 | gmpm2 | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $36,454 | — | ⏳ Pendiente |
 | Satanishippie | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.35 (74¢) | $30,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: LSU (-16.5) | Mississippi State | 2.22 (45¢) | $48,378 | — | ⏳ Pendiente |
-| DaWinci | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $81,643 | — | ⏳ Pendiente |
-| 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
+| DaWinci | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $81,643 | +$8,075 | ✅ Ganada |
+| 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
 | Sassy-Bucket | Florida Atlantic vs. Army | Army | 1.82 (55¢) | $48,494 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.75 (57¢) | $58,126 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.75 (57¢) | $55,449 | — | ⏳ Pendiente |
