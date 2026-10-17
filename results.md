@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 10:21:06 (hora de Perú)
+Actualizado: 2026-10-17 10:23:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5373**  ($294,172,561 en total)
+- Apuestas registradas: **5374**  ($294,201,061 en total)
 - Resueltas: **5315** — 3254 ganadas / 2061 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 576
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 576 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Soarin22 | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Brentford FC vs. Liverpool FC: O/U 1.5 | Over 1.5 | 1.12 (89¢) | $27,922 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Mississippi State vs. LSU | LSU | 1.14 (88¢) | $38,946 | — | ⏳ Pendiente |
 | sifonman | Will FC Bayern München vs. RB Leipzig end in a draw? | No | 1.15 (87¢) | $31,937 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 576 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. 76ers | 76ers | 1.39 (72¢) | $28,400 | -$28,400 | ❌ Perdida |
 | bluemol | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $30,000 | +$14,118 | ✅ Ganada |
 | halanddd123 | Celtics vs. 76ers | 76ers | 1.37 (73¢) | $26,339 | -$26,339 | ❌ Perdida |
-| para-Vision | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.96 (51¢) | $41,825 | — | ⏳ Pendiente |
