@@ -81785,5 +81785,20 @@
     "status": "pending",
     "ultimo_fill": 1792272500,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11076,
+    "timestamp": 1792274241,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "ufc-cha14-ste12-2026-10-17",
+    "title": "UFC Fight Night: Chad Anheliger vs. Steven Koslow (Bantamweight, Prelims)",
+    "outcome": "Chad Anheliger",
+    "side": "BUY",
+    "usd": 27674.716,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1792274241,
+    "fills": 1
   }
 ]
