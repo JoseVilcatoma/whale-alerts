@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 14:07:35 (hora de Perú)
+Actualizado: 2026-10-17 14:09:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5430**  ($297,152,793 en total)
-- Resueltas: **5337** — 3272 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 71
+- Resueltas: **5338** — 3273 ganadas / 2065 perdidas (**61%** de acierto)
+- Pendientes: 70
 - Apostadores distintos: 581
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,355,167** sobre $292,437,063 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$3,298** sobre $526,200 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,359,047** sobre $292,481,686 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$3,290** sobre $526,300 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 | nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.85 (54¢) | $71,470 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 1 Winner | FURIA Esports | 1.59 (63¢) | $75,298 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Ohio State vs. Indiana | Ohio State | 1.67 (60¢) | $177,730 | — | ⏳ Pendiente |
-| Flaznorp | Real Betis Balompié vs. FC Barcelona: O/U 7.5 | Under 7.5 | 1.09 (92¢) | $44,623 | — | ⏳ Pendiente |
+| Flaznorp | Real Betis Balompié vs. FC Barcelona: O/U 7.5 | Under 7.5 | 1.09 (92¢) | $44,623 | +$3,880 | ✅ Ganada |
 | BrotherObama | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 2.70 (37¢) | $44,347 | — | ⏳ Pendiente |
 | Nooserac | Ohio State vs. Indiana | Indiana | 1.56 (64¢) | $29,304 | — | ⏳ Pendiente |
 | veliMax | Will FC Barcelona win on 2026-10-17? | Yes | 1.22 (82¢) | $73,943 | — | ⏳ Pendiente |
