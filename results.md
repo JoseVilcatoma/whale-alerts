@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 08:59:07 (hora de Perú)
+Actualizado: 2026-10-17 09:01:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5359**  ($293,288,024 en total)
-- Resueltas: **5306** — 3247 ganadas / 2059 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **5307** — 3247 ganadas / 2060 perdidas (**61%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 574
 
 ### Balance
 
-- **Resultado de los apostadores: +$986,385** sobre $291,035,376 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,188** sobre $523,300 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$961,370** sobre $291,060,391 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,288** sobre $523,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | Talvez10 | Sharks vs. Red Wings | Red Wings | 1.79 (56¢) | $27,699 | — | ⏳ Pendiente |
 | Flaznorp | Will Everton FC win on 2026-10-17? | No | 1.49 (67¢) | $39,219 | — | ⏳ Pendiente |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Everton FC vs. Chelsea FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 1.96 (51¢) | $27,959 | — | ⏳ Pendiente |
-| plonker2026 | Will Chelsea FC win on 2026-10-17? | No | 1.69 (59¢) | $25,015 | — | ⏳ Pendiente |
+| plonker2026 | Will Chelsea FC win on 2026-10-17? | No | 1.69 (59¢) | $25,015 | -$25,015 | ❌ Perdida |
 | plonker2026 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | arjennnnn | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.19 (84¢) | $44,106 | +$8,401 | ✅ Ganada |
 | kansann121 | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.15 (87¢) | $61,360 | +$9,169 | ✅ Ganada |
