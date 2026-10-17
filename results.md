@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 09:31:55 (hora de Perú)
+Actualizado: 2026-10-17 09:33:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5362**  ($293,516,971 en total)
+- Apuestas registradas: **5363**  ($293,560,166 en total)
 - Resueltas: **5311** — 3251 ganadas / 2060 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 574
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| veliMax | Will Manchester City FC win on 2026-10-17? | Yes | 1.30 (77¢) | $43,195 | — | ⏳ Pendiente |
 | raybanman | Will Aston Villa FC win on 2026-10-17? | No | 1.49 (67¢) | $173,150 | — | ⏳ Pendiente |
 | SDTrading | Spread: Notre Dame (-10.5) | BYU | 1.96 (51¢) | $30,729 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Maia: Francesco Passaro vs Matej Dodig | Francesco Passaro | 2.17 (46¢) | $25,070 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Memphis vs. Tulane | Memphis | 1.45 (69¢) | $30,841 | -$30,841 | ❌ Perdida |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.09 (92¢) | $45,925 | -$45,925 | ❌ Perdida |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.09 (92¢) | $212,956 | -$212,956 | ❌ Perdida |
-| bluemol | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.10 (91¢) | $40,000 | -$40,000 | ❌ Perdida |
