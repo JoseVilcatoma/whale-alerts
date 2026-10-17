@@ -81735,10 +81735,25 @@
     "title": "LoL: MVK Esports vs FURIA Esports - Game 4 Winner",
     "outcome": "MVK Esports",
     "side": "BUY",
-    "usd": 39802.9771,
+    "usd": 74514.1418,
     "odds_at_bet": 50,
     "status": "pending",
-    "ultimo_fill": 1792270272,
+    "ultimo_fill": 1792270291,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 11052,
+    "timestamp": 1792270366,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "ufc-che3-mel8-2026-10-17",
+    "title": "UFC Fight Night: Chelsea Chandler vs. Melissa Croden (Women's Bantamweight, Prelims)",
+    "outcome": "Melissa Croden",
+    "side": "BUY",
+    "usd": 77343.2164,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1792270366,
     "fills": 1
   }
 ]
