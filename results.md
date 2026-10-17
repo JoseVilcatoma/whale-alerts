@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 14:26:11 (hora de Perú)
+Actualizado: 2026-10-17 14:28:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5434**  ($297,400,489 en total)
+- Apuestas registradas: **5435**  ($297,446,928 en total)
 - Resueltas: **5359** — 3287 ganadas / 2072 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 583
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
-| ethanaz | 50 | 21 | 0 | 70% | $4,433,754 | -$9,309 |
+| ethanaz | 50 | 21 | 1 | 70% | $4,480,194 | -$9,309 |
 | BrotherObama | 40 | 49 | 4 | 45% | $4,177,302 | -$283,237 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
 | mooseborzoii | 50 | 26 | 2 | 66% | $3,878,506 | +$880,052 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Ohio State vs. Indiana | Ohio State | 1.49 (67¢) | $46,440 | — | ⏳ Pendiente |
 | Sassy-Bucket | UNLV vs. Air Force | UNLV | 1.96 (51¢) | $92,888 | — | ⏳ Pendiente |
 | 0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900 | Will AS Roma win on 2026-10-17? | Yes | 1.79 (56¢) | $28,913 | — | ⏳ Pendiente |
 | Kch-Temp | UNLV vs. Air Force | Air Force | 2.08 (48¢) | $94,172 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | gmpm2 | Florida vs. Texas | Texas | 1.23 (81¢) | $32,805 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.37 (73¢) | $63,893 | — | ⏳ Pendiente |
 | NeverLoseBet | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $46,343 | — | ⏳ Pendiente |
-| lalalalalalallalalalala | Northwestern vs. Michigan State: O/U 49.5 | Over 49.5 | 1.92 (52¢) | $38,968 | — | ⏳ Pendiente |
