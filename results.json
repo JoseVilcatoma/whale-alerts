@@ -80656,5 +80656,20 @@
     "status": "pending",
     "ultimo_fill": 1792248114,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10914,
+    "timestamp": 1792248763,
+    "username": "0x361b\u202674fe",
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "slug": "lal-bet-bar-2026-10-17-total-3pt5",
+    "title": "Real Betis Balompi\u00e9 vs. FC Barcelona: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 34344.39,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1792248763,
+    "fills": 1
   }
 ]
