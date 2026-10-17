@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 10:47:59 (hora de Perú)
+Actualizado: 2026-10-17 10:50:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5382**  ($294,572,439 en total)
-- Resueltas: **5315** — 3254 ganadas / 2061 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Apuestas registradas: **5383**  ($294,654,082 en total)
+- Resueltas: **5317** — 3255 ganadas / 2062 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 577
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,113,468** sobre $291,382,671 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,731** sobre $524,200 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$1,066,449** sobre $291,485,230 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,714** sobre $524,400 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| totoro3miyazaki | 34 | 17 | 2 | 67% | $5,914,740 | +$402,871 |
+| totoro3miyazaki | 34 | 18 | 1 | 65% | $5,914,740 | +$325,861 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ferrariChampions2026 | 87 | 44 | 0 | 66% | $5,666,469 | +$44,465 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 577 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| DaWinci | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $81,643 | — | ⏳ Pendiente |
 | 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
 | Sassy-Bucket | Florida Atlantic vs. Army | Army | 1.82 (55¢) | $48,494 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.75 (57¢) | $58,126 | — | ⏳ Pendiente |
@@ -105,8 +106,8 @@ _(mostrando los 40 de mayor monto, de 577 en total)_
 | HVAB | Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska | Maja Chwalinska | 2.13 (47¢) | $39,568 | +$44,619 | ✅ Ganada |
 | Zzzz87 | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $86,241 | — | ⏳ Pendiente |
 | jonjones1993 | Will SSC Napoli win on 2026-10-17? | No | 2.13 (47¢) | $42,300 | +$47,700 | ✅ Ganada |
-| totoro3miyazaki | Will VfB Stuttgart win on 2026-10-17? | Yes | 1.82 (55¢) | $77,010 | — | ⏳ Pendiente |
-| sulumos | Will VfB Stuttgart win on 2026-10-17? | No | 2.17 (46¢) | $25,548 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will VfB Stuttgart win on 2026-10-17? | Yes | 1.82 (55¢) | $77,010 | -$77,010 | ❌ Perdida |
+| sulumos | Will VfB Stuttgart win on 2026-10-17? | No | 2.17 (46¢) | $25,548 | +$29,992 | ✅ Ganada |
 | mooseborzoii | Will SSC Napoli win on 2026-10-17? | Yes | 1.89 (53¢) | $77,088 | -$77,088 | ❌ Perdida |
 | lfg100k | Will Club Atlético de Madrid win on 2026-10-17? | Yes | 1.72 (58¢) | $29,707 | +$21,512 | ✅ Ganada |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 2.04 (49¢) | $27,149 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 577 en total)_
 | 01258787xy48487484545122 | Japan Women's Open, Qualification: Sayaka Ishii vs Elina Avanesyan | Sayaka Ishii | 1.25 (80¢) | $134,612 | +$33,653 | ✅ Ganada |
 | esportsbetter1 | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 3.12 (32¢) | $32,000 | +$68,000 | ✅ Ganada |
 | ethanaz | Washington vs. Purdue | Washington | 1.47 (68¢) | $110,288 | +$51,900 | ✅ Ganada |
-| ethanaz | Washington vs. Purdue | Washington | 1.41 (71¢) | $62,651 | +$25,590 | ✅ Ganada |
