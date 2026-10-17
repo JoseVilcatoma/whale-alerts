@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 08:19:06 (hora de Perú)
+Actualizado: 2026-10-17 08:21:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5351**  ($292,942,615 en total)
+- Apuestas registradas: **5352**  ($292,992,375 en total)
 - Resueltas: **5303** — 3244 ganadas / 2059 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 574
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beeemw | Will Ipswich Town FC win on 2026-10-17? | No | 1.09 (92¢) | $49,760 | — | ⏳ Pendiente |
 | HVAB | Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska | Maja Chwalinska | 2.13 (47¢) | $39,568 | — | ⏳ Pendiente |
 | Zzzz87 | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $86,241 | — | ⏳ Pendiente |
 | jonjones1993 | Will SSC Napoli win on 2026-10-17? | No | 2.13 (47¢) | $42,300 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | Diabolical-Prize | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.67 (60¢) | $42,000 | +$28,000 | ✅ Ganada |
 | joseph00677 | Will RC Deportivo A Coruña win on 2026-10-16? | Yes | 1.28 (78¢) | $42,148 | -$42,148 | ❌ Perdida |
 | 473game | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.19 (84¢) | $45,255 | -$45,255 | ❌ Perdida |
-| ndb1 | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.69 (59¢) | $71,951 | +$50,000 | ✅ Ganada |
