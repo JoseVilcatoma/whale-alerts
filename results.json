@@ -81183,5 +81183,35 @@
     "status": "pending",
     "ultimo_fill": 1792254804,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10958,
+    "timestamp": 1792254980,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "lal-bet-bar-2026-10-17-spread-away-1pt5",
+    "title": "Spread: FC Barcelona (-1.5)",
+    "outcome": "Real Betis Balompi\u00e9",
+    "side": "BUY",
+    "usd": 27028.08,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792254980,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10959,
+    "timestamp": 1792255007,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-ohiost-ind-2026-10-17",
+    "title": "Ohio State vs. Indiana",
+    "outcome": "Ohio State",
+    "side": "BUY",
+    "usd": 37963.164,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792255007,
+    "fills": 1
   }
 ]

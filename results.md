@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 11:35:29 (hora de Perú)
+Actualizado: 2026-10-17 11:37:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5401**  ($295,419,620 en total)
+- Apuestas registradas: **5403**  ($295,484,611 en total)
 - Resueltas: **5320** — 3257 ganadas / 2063 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Pendientes: 61
 - Apostadores distintos: 578
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 18 | 1 | 65% | $5,914,740 | +$325,861 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
-| ferrariChampions2026 | 87 | 44 | 0 | 66% | $5,666,469 | +$44,465 |
+| ferrariChampions2026 | 87 | 44 | 1 | 66% | $5,704,432 | +$44,465 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Ohio State vs. Indiana | Ohio State | 1.67 (60¢) | $37,963 | — | ⏳ Pendiente |
+| Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.85 (54¢) | $27,028 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $48,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Betis Balompié vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.63 (38¢) | $26,498 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $32,588 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 | mooseborzoii | Will SSC Napoli win on 2026-10-17? | Yes | 1.89 (53¢) | $77,088 | -$77,088 | ❌ Perdida |
 | lfg100k | Will Club Atlético de Madrid win on 2026-10-17? | Yes | 1.72 (58¢) | $29,707 | +$21,512 | ✅ Ganada |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 2.04 (49¢) | $27,149 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | Aurora Gaming | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
-| Talvez10 | Sharks vs. Red Wings | Red Wings | 1.79 (56¢) | $27,699 | — | ⏳ Pendiente |
