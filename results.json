@@ -80056,5 +80056,20 @@
     "status": "pending",
     "ultimo_fill": 1792207562,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 10850,
+    "timestamp": 1792209009,
+    "username": "Takon88",
+    "wallet": "0xa96274cc1b321afc8cbdc1ba07f7e2d471e6f7c8",
+    "slug": "jap-ssp-gam-2026-10-17-gam",
+    "title": "Will Gamba \u014csaka win on 2026-10-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 30832.9088,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1792209009,
+    "fills": 1
   }
 ]
