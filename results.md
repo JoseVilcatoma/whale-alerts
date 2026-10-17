@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 17:20:42 (hora de Perú)
+Actualizado: 2026-10-17 17:22:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5444**  ($298,005,193 en total)
-- Resueltas: **5396** — 3308 ganadas / 2088 perdidas (**61%** de acierto)
+- Apuestas registradas: **5445**  ($298,043,469 en total)
+- Resueltas: **5397** — 3308 ganadas / 2089 perdidas (**61%** de acierto)
 - Pendientes: 26
 - Apostadores distintos: 583
 
 ### Balance
 
-- **Resultado de los apostadores: +$952,171** sobre $295,646,997 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,268** sobre $532,100 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$876,872** sobre $295,722,295 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,368** sobre $532,200 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Alabama vs. Tennessee | Tennessee | 1.32 (76¢) | $38,276 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Katlyn Cerminara vs. Mackenzie Stiller (Women's Flyweight, Prelims) | Katlyn Cerminara | 1.45 (69¢) | $31,046 | — | ⏳ Pendiente |
 | gmpm2 | Washington State vs. Oregon State | Oregon State | 1.11 (90¢) | $26,683 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Chad Anheliger vs. Steven Koslow (Bantamweight, Prelims) | Chad Anheliger | 2.63 (38¢) | $27,675 | — | ⏳ Pendiente |
@@ -97,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | ferrariChampions2026 | Florida vs. Texas | Florida | 1.89 (53¢) | $51,477 | +$45,649 | ✅ Ganada |
 | nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.82 (55¢) | $50,000 | +$40,909 | ✅ Ganada |
 | nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.85 (54¢) | $71,470 | +$60,882 | ✅ Ganada |
-| Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 1 Winner | FURIA Esports | 1.59 (63¢) | $75,298 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 1 Winner | FURIA Esports | 1.59 (63¢) | $75,298 | -$75,298 | ❌ Perdida |
 | ferrariChampions2026 | Ohio State vs. Indiana | Ohio State | 1.67 (60¢) | $177,730 | +$118,487 | ✅ Ganada |
 | Flaznorp | Real Betis Balompié vs. FC Barcelona: O/U 7.5 | Under 7.5 | 1.09 (92¢) | $44,623 | +$3,880 | ✅ Ganada |
 | BrotherObama | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 2.70 (37¢) | $44,347 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $58,500 | -$58,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.89 (53¢) | $52,998 | -$52,998 | ❌ Perdida |
 | gmpm2 | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $36,454 | +$27,500 | ✅ Ganada |
-| Satanishippie | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.35 (74¢) | $30,000 | -$30,000 | ❌ Perdida |
