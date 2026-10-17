@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 11:52:07 (hora de Perú)
+Actualizado: 2026-10-17 11:54:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5406**  ($295,587,960 en total)
+- Apuestas registradas: **5407**  ($295,651,070 en total)
 - Resueltas: **5336** — 3271 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 580
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 580 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.41 (71¢) | $63,110 | — | ⏳ Pendiente |
 | thegreatjeff | Will FC Barcelona win on 2026-10-17? | Yes | 1.18 (85¢) | $50,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.57 (28¢) | $25,200 | — | ⏳ Pendiente |
 | SineNooneEI | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | FURIA Esports | 1.56 (64¢) | $28,149 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 580 en total)_
 | Zzzz87 | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $86,241 | +$24,325 | ✅ Ganada |
 | jonjones1993 | Will SSC Napoli win on 2026-10-17? | No | 2.13 (47¢) | $42,300 | +$47,700 | ✅ Ganada |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-10-17? | Yes | 1.82 (55¢) | $77,010 | -$77,010 | ❌ Perdida |
-| sulumos | Will VfB Stuttgart win on 2026-10-17? | No | 2.17 (46¢) | $25,548 | +$29,992 | ✅ Ganada |
