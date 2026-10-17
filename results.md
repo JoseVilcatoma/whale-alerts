@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 17:00:11 (hora de Perú)
+Actualizado: 2026-10-17 17:02:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5442**  ($297,947,465 en total)
+- Apuestas registradas: **5443**  ($297,974,147 en total)
 - Resueltas: **5396** — 3308 ganadas / 2088 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 583
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
 | mooseborzoii | 50 | 26 | 2 | 66% | $3,878,506 | +$880,052 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| maz26 | 29 | 21 | 0 | 58% | $3,399,297 | +$153,404 |
+| maz26 | 29 | 21 | 1 | 58% | $3,425,980 | +$153,404 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 34 | 10 | 5 | 77% | $3,238,624 | +$1,598,814 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Washington State vs. Oregon State | Oregon State | 1.11 (90¢) | $26,683 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Chad Anheliger vs. Steven Koslow (Bantamweight, Prelims) | Chad Anheliger | 2.63 (38¢) | $27,675 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Tennessee | Tennessee | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Troy vs. Louisiana | Troy | 2.38 (42¢) | $32,666 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | gmpm2 | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $36,454 | +$27,500 | ✅ Ganada |
 | Satanishippie | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.35 (74¢) | $30,000 | -$30,000 | ❌ Perdida |
 | Sassy-Bucket | Spread: LSU (-16.5) | Mississippi State | 2.22 (45¢) | $48,378 | -$48,378 | ❌ Perdida |
-| DaWinci | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $81,643 | +$8,075 | ✅ Ganada |
