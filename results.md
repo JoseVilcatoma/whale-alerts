@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 22:38:46 (hora de Perú)
+Actualizado: 2026-10-16 22:40:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5326**  ($291,852,994 en total)
-- Resueltas: **5287** — 3232 ganadas / 2055 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **5290** — 3234 ganadas / 2056 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$580,070** sobre $290,079,433 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$5,014** sobre $521,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$631,447** sobre $290,214,979 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,914** sobre $521,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 48 | 21 | 2 | 70% | $4,433,754 | -$86,799 |
 | BrotherObama | 40 | 49 | 3 | 45% | $4,132,955 | -$283,237 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
-| mooseborzoii | 48 | 25 | 3 | 66% | $3,774,268 | +$862,030 |
+| mooseborzoii | 50 | 25 | 1 | 67% | $3,774,268 | +$957,140 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
@@ -85,8 +85,8 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | halanddd123 | Celtics vs. 76ers | 76ers | 1.37 (73¢) | $26,339 | -$26,339 | ❌ Perdida |
 | para-Vision | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.96 (51¢) | $41,825 | — | ⏳ Pendiente |
 | blgmsiwin | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.37 (73¢) | $43,674 | -$43,674 | ❌ Perdida |
-| mooseborzoii | Appalachian State vs. Coastal Carolina | Appalachian State | 2.08 (48¢) | $64,636 | — | ⏳ Pendiente |
-| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Appalachian State vs. Coastal Carolina | Coastal Carolina | 2.00 (50¢) | $43,733 | — | ⏳ Pendiente |
+| mooseborzoii | Appalachian State vs. Coastal Carolina | Appalachian State | 2.08 (48¢) | $64,636 | +$70,023 | ✅ Ganada |
+| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Appalachian State vs. Coastal Carolina | Coastal Carolina | 2.00 (50¢) | $43,733 | -$43,733 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.89 (53¢) | $53,000 | -$53,000 | ❌ Perdida |
 | S-Works | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.89 (53¢) | $109,710 | -$109,710 | ❌ Perdida |
 | Diabolical-Prize | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | FURIA Esports | 2.17 (46¢) | $108,193 | +$127,009 | ✅ Ganada |
