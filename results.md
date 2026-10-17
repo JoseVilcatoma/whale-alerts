@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 01:36:24 (hora de Perú)
+Actualizado: 2026-10-17 01:38:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5332**  ($292,155,837 en total)
+- Apuestas registradas: **5333**  ($292,188,621 en total)
 - Resueltas: **5299** — 3241 ganadas / 2058 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 573
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 87 | 44 | 0 | 66% | $5,666,469 | +$44,465 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
-| Lakersfan111 | 61 | 40 | 0 | 60% | $5,100,805 | -$38,747 |
+| Lakersfan111 | 61 | 40 | 1 | 60% | $5,133,589 | -$38,747 |
 | ethanaz | 50 | 21 | 0 | 70% | $4,433,754 | -$9,309 |
 | BrotherObama | 40 | 49 | 3 | 45% | $4,132,955 | -$283,237 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| corkmaster420blaezit | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 2.94 (34¢) | $32,784 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Manchester City FC (-1.5) | Ipswich Town FC | 2.38 (42¢) | $36,570 | — | ⏳ Pendiente |
 | gransaaa | Will Fulham FC win on 2026-10-17? | Yes | 1.72 (58¢) | $92,220 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Suns | Jazz | 1.06 (94¢) | $52,661 | +$3,361 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | juice-fruit | Counter-Strike: 100 Thieves vs Sangal (BO3) - Stake Pulse Beat III Playoffs | 100 Thieves | 1.41 (71¢) | $67,117 | +$27,414 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.50 (40¢) | $29,244 | +$43,867 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Purdue (-3.5) | Purdue | 2.13 (47¢) | $34,952 | -$34,952 | ❌ Perdida |
-| corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.19 (84¢) | $50,664 | +$9,650 | ✅ Ganada |
