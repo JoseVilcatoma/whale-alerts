@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 23:01:22 (hora de Perú)
+Actualizado: 2026-10-16 23:03:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5328**  ($291,930,886 en total)
-- Resueltas: **5293** — 3237 ganadas / 2056 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **5294** — 3237 ganadas / 2057 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$730,569** sobre $290,428,092 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,772** sobre $522,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$695,618** sobre $290,463,043 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,872** sobre $522,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -125,7 +125,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.18 (85¢) | $68,649 | +$12,115 | ✅ Ganada |
 | juice-fruit | Counter-Strike: 100 Thieves vs Sangal (BO3) - Stake Pulse Beat III Playoffs | 100 Thieves | 1.41 (71¢) | $67,117 | +$27,414 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.50 (40¢) | $29,244 | +$43,867 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Purdue (-3.5) | Purdue | 2.13 (47¢) | $34,952 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Purdue (-3.5) | Purdue | 2.13 (47¢) | $34,952 | -$34,952 | ❌ Perdida |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.19 (84¢) | $50,664 | +$9,650 | ✅ Ganada |
 | qiu3 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.56 (39¢) | $27,000 | +$42,231 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs | MIBR | 1.79 (56¢) | $27,401 | +$21,530 | ✅ Ganada |
