@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 21:57:58 (hora de Perú)
+Actualizado: 2026-10-16 22:00:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5325**  ($291,718,382 en total)
-- Resueltas: **5284** — 3231 ganadas / 2053 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **5285** — 3232 ganadas / 2053 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$635,279** sobre $289,992,939 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,836** sobre $521,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$640,910** sobre $290,018,592 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,814** sobre $521,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | esportsbetter1 | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
 | ethanaz | Washington vs. Purdue | Washington | 1.47 (68¢) | $110,288 | — | ⏳ Pendiente |
 | ethanaz | Washington vs. Purdue | Washington | 1.41 (71¢) | $62,651 | — | ⏳ Pendiente |
-| Nooserac | Timberwolves vs. Bulls | Bulls | 1.22 (82¢) | $25,653 | — | ⏳ Pendiente |
+| Nooserac | Timberwolves vs. Bulls | Bulls | 1.22 (82¢) | $25,653 | +$5,631 | ✅ Ganada |
 | Sassy-Bucket | Bruins vs. Ducks | Ducks | 2.04 (49¢) | $27,594 | — | ⏳ Pendiente |
 | para-Vision | Bruins vs. Ducks | Bruins | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
 | arjennnnn | Celtics vs. 76ers | 76ers | 1.12 (89¢) | $28,294 | -$28,294 | ❌ Perdida |
