@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 11:31:17 (hora de Perú)
+Actualizado: 2026-10-17 11:33:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5399**  ($295,345,123 en total)
+- Apuestas registradas: **5400**  ($295,371,621 en total)
 - Resueltas: **5318** — 3256 ganadas / 2062 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Pendientes: 60
 - Apostadores distintos: 578
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 378 | 204 | 8 | 65% | $36,894,295 | +$1,035,533 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 378 | 204 | 9 | 65% | $36,920,793 | +$1,035,533 |
 | Sassy-Bucket | 74 | 71 | 4 | 51% | $8,459,963 | -$643,302 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Betis Balompié vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.63 (38¢) | $26,498 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $32,588 | — | ⏳ Pendiente |
 | beeemw | Will Real Betis Balompié win on 2026-10-17? | No | 1.15 (87¢) | $48,053 | — | ⏳ Pendiente |
 | gambamaster | Will Newcastle United FC win on 2026-10-17? | No | 1.82 (55¢) | $36,116 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | Aurora Gaming | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
 | Talvez10 | Sharks vs. Red Wings | Red Wings | 1.79 (56¢) | $27,699 | — | ⏳ Pendiente |
 | Flaznorp | Will Everton FC win on 2026-10-17? | No | 1.49 (67¢) | $39,219 | +$19,317 | ✅ Ganada |
-| 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Everton FC vs. Chelsea FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 1.96 (51¢) | $27,959 | +$26,862 | ✅ Ganada |
