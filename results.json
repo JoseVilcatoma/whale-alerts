@@ -79876,5 +79876,35 @@
     "status": "pending",
     "ultimo_fill": 1792195569,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10804,
+    "timestamp": 1792196123,
+    "username": "halanddd123",
+    "wallet": "0x2787692672096be48fe4fe0f7921925b7cace0c4",
+    "slug": "nba-bos-phi-2026-10-16",
+    "title": "Celtics vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 26338.8817,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1792196123,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10805,
+    "timestamp": 1792196167,
+    "username": "bluemol",
+    "wallet": "0x664e438f9e05b2c4ee225755ee993223c0bae82a",
+    "slug": "lol-fox1-we-2026-10-17",
+    "title": "LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 30000.000000000004,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1792196167,
+    "fills": 1
   }
 ]

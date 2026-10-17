@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 19:15:22 (hora de Perú)
+Actualizado: 2026-10-16 19:17:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5314**  ($291,266,191 en total)
+- Apuestas registradas: **5316**  ($291,322,529 en total)
 - Resueltas: **5257** — 3224 ganadas / 2033 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 37
 - Apostadores distintos: 573
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bluemol | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $30,000 | — | ⏳ Pendiente |
+| halanddd123 | Celtics vs. 76ers | 76ers | 1.37 (73¢) | $26,339 | — | ⏳ Pendiente |
 | para-Vision | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.96 (51¢) | $41,825 | — | ⏳ Pendiente |
 | blgmsiwin | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.37 (73¢) | $43,674 | — | ⏳ Pendiente |
 | mooseborzoii | Appalachian State vs. Coastal Carolina | Appalachian State | 2.08 (48¢) | $64,636 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | Velin217 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Jelena Ostapenko | 1.16 (86¢) | $50,641 | +$8,244 | ✅ Ganada |
 | gransaaa | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.92 (52¢) | $28,600 | +$26,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Diana Shnaider | 1.67 (60¢) | $35,456 | -$35,456 | ❌ Perdida |
-| Velin217 | Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko | Diana Shnaider | 1.28 (78¢) | $77,528 | -$77,528 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Broncos | Broncos | 2.17 (46¢) | $89,012 | +$104,493 | ✅ Ganada |
