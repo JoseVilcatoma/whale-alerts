@@ -80416,5 +80416,20 @@
     "status": "pending",
     "ultimo_fill": 1792241515,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 10888,
+    "timestamp": 1792241867,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "wta-swiatek-chwalin-2026-10-17",
+    "title": "Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska",
+    "outcome": "Maja Chwalinska",
+    "side": "BUY",
+    "usd": 39567.6487,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1792241867,
+    "fills": 1
   }
 ]
