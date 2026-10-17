@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 11:10:37 (hora de Perú)
+Actualizado: 2026-10-17 11:12:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5389**  ($294,914,612 en total)
-- Resueltas: **5317** — 3255 ganadas / 2062 perdidas (**61%** de acierto)
+- Apuestas registradas: **5390**  ($294,959,612 en total)
+- Resueltas: **5318** — 3256 ganadas / 2062 perdidas (**61%** de acierto)
 - Pendientes: 50
 - Apostadores distintos: 578
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,066,449** sobre $291,485,230 apostados (ROI **+0.4%**)
+- **Resultado de los apostadores: +$1,076,320** sobre $291,513,802 apostados (ROI **+0.4%**)
 - Copiando $100 fijo en cada una: **-$3,714** sobre $524,400 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 34 | 10 | 1 | 77% | $2,943,503 | +$1,598,814 |
-| raybanman | 16 | 9 | 2 | 64% | $2,874,662 | +$654,807 |
+| raybanman | 16 | 9 | 3 | 64% | $2,919,662 | +$654,807 |
 | cosmicxbt | 17 | 7 | 0 | 71% | $2,604,992 | -$337,317 |
 | 0F62 | 29 | 5 | 0 | 85% | $2,593,269 | -$324,024 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
 | alwaysfade | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
 | raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $58,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.89 (53¢) | $52,998 | — | ⏳ Pendiente |
@@ -91,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Mississippi State vs. LSU | LSU | 1.14 (88¢) | $38,946 | — | ⏳ Pendiente |
 | sifonman | Will FC Bayern München vs. RB Leipzig end in a draw? | No | 1.15 (87¢) | $31,937 | — | ⏳ Pendiente |
 | 0000a | Spread: Brentford FC (-1.5) | Liverpool FC | 1.10 (91¢) | $30,415 | — | ⏳ Pendiente |
-| asd213457 | Brentford FC vs. Liverpool FC: Liverpool FC O/U 1.5 | Over 1.5 | 1.82 (55¢) | $28,572 | — | ⏳ Pendiente |
+| asd213457 | Brentford FC vs. Liverpool FC: Liverpool FC O/U 1.5 | Over 1.5 | 1.82 (55¢) | $28,572 | +$9,870 | 💰 Vendida antes |
 | ndb1 | Fulham FC vs. Hull City AFC: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $58,468 | — | ⏳ Pendiente |
 | 0x361b…74fe | Real Betis Balompié vs. FC Barcelona: O/U 3.5 | Over 3.5 | 1.56 (64¢) | $34,344 | — | ⏳ Pendiente |
 | QVanguard | Will FC Barcelona win on 2026-10-17? | Yes | 1.49 (67¢) | $104,821 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 | corkmaster420blaezit | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 2.94 (34¢) | $32,784 | +$63,640 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Manchester City FC (-1.5) | Ipswich Town FC | 2.38 (42¢) | $36,570 | — | ⏳ Pendiente |
 | gransaaa | Will Fulham FC win on 2026-10-17? | Yes | 1.72 (58¢) | $92,220 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Suns | Jazz | 1.06 (94¢) | $52,661 | +$3,361 | ✅ Ganada |
