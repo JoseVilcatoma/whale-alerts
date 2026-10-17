@@ -80866,5 +80866,35 @@
     "status": "pending",
     "ultimo_fill": 1792251643,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 10932,
+    "timestamp": 1792252030,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-flatl-army-2026-10-17",
+    "title": "Florida Atlantic vs. Army",
+    "outcome": "Army",
+    "side": "BUY",
+    "usd": 48493.599,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1792252030,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10933,
+    "timestamp": 1792252033,
+    "username": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+    "wallet": "0xfb07f48542d2b655e9d0bf1cc92a8a6feee8e2cc",
+    "slug": "bun-bay-lei-2026-10-17-lei",
+    "title": "Will RB Leipzig win on 2026-10-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 27300.0,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1792252033,
+    "fills": 1
   }
 ]
