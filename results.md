@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 18:30:31 (hora de Perú)
+Actualizado: 2026-10-17 18:32:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5451**  ($298,405,360 en total)
-- Resueltas: **5408** — 3314 ganadas / 2094 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **5411** — 3317 ganadas / 2094 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 584
 
 ### Balance
 
-- **Resultado de los apostadores: +$948,741** sobre $296,496,374 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,253** sobre $533,300 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,045,794** sobre $296,697,323 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,082** sobre $533,600 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 29 | 21 | 2 | 58% | $3,483,480 | +$153,404 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Kch-Temp | 35 | 10 | 4 | 78% | $3,238,624 | +$1,700,834 |
+| Kch-Temp | 38 | 10 | 1 | 79% | $3,238,624 | +$1,797,887 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | cosmicxbt | 17 | 7 | 0 | 71% | $2,604,992 | -$337,317 |
 | 0F62 | 29 | 5 | 0 | 85% | $2,593,269 | -$324,024 |
@@ -96,11 +96,11 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | KaneAnalytics | Ohio State vs. Indiana | Ohio State | 1.11 (90¢) | $44,395 | +$4,933 | ✅ Ganada |
 | KaneAnalytics | Florida vs. Texas | Florida | 1.16 (86¢) | $43,109 | +$7,018 | ✅ Ganada |
 | Woaifacai | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 1.59 (63¢) | $53,607 | +$31,483 | ✅ Ganada |
-| Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.39 (72¢) | $88,278 | — | ⏳ Pendiente |
+| Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.39 (72¢) | $88,278 | +$34,330 | ✅ Ganada |
 | totoro3miyazaki | Will AS Roma win on 2026-10-17? | No | 2.50 (40¢) | $276,864 | -$276,864 | ❌ Perdida |
 | beeemw | Will Genoa CFC win on 2026-10-17? | No | 1.16 (86¢) | $61,203 | +$9,963 | ✅ Ganada |
-| Kch-Temp | Spread: Toledo (-6.5) | Toledo | 1.89 (53¢) | $31,502 | — | ⏳ Pendiente |
-| Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.43 (70¢) | $81,169 | — | ⏳ Pendiente |
+| Kch-Temp | Spread: Toledo (-6.5) | Toledo | 1.89 (53¢) | $31,502 | +$27,936 | ✅ Ganada |
+| Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.43 (70¢) | $81,169 | +$34,787 | ✅ Ganada |
 | ferrariChampions2026 | Florida vs. Texas | Florida | 1.89 (53¢) | $51,477 | +$45,649 | ✅ Ganada |
 | nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.82 (55¢) | $50,000 | +$40,909 | ✅ Ganada |
 | nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.85 (54¢) | $71,470 | +$60,882 | ✅ Ganada |
