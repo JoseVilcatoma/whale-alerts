@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 08:55:04 (hora de Perú)
+Actualizado: 2026-10-17 08:57:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5358**  ($293,211,759 en total)
+- Apuestas registradas: **5359**  ($293,288,024 en total)
 - Resueltas: **5306** — 3247 ganadas / 2059 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 574
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Cbs710 | Will Ipswich Town FC win on 2026-10-17? | No | 1.08 (93¢) | $76,265 | — | ⏳ Pendiente |
 | Zzzz87 | Manchester City FC vs. Ipswich Town FC: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $48,012 | — | ⏳ Pendiente |
 | lfg100k | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.69 (59¢) | $41,367 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | FURIA | 1.89 (53¢) | $36,079 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | dsasdaas | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.22 (82¢) | $42,972 | -$42,972 | ❌ Perdida |
 | TAIWANNUMBERONE | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.59 (63¢) | $48,141 | +$28,273 | ✅ Ganada |
 | Diabolical-Prize | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.61 (62¢) | $31,000 | +$19,000 | ✅ Ganada |
-| Diabolical-Prize | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | FURIA Esports | 5.56 (18¢) | $96,756 | +$440,777 | ✅ Ganada |
