@@ -80026,5 +80026,20 @@
     "status": "pending",
     "ultimo_fill": 1792203203,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 10842,
+    "timestamp": 1792204643,
+    "username": "esportsbetter1",
+    "wallet": "0x866056133a70de9282a080758858d1a0c8b393ed",
+    "slug": "val-vit-100t1-2026-10-17",
+    "title": "Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs",
+    "outcome": "Team Vitality",
+    "side": "BUY",
+    "usd": 32000.0,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "ultimo_fill": 1792204643,
+    "fills": 1
   }
 ]
