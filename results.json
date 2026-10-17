@@ -81890,5 +81890,20 @@
     "status": "pending",
     "ultimo_fill": 1792277477,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11095,
+    "timestamp": 1792279135,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "mls-atl-mia-2026-10-17-total-1pt5",
+    "title": "Atlanta United FC vs. Inter Miami CF: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 34842.9445,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1792279135,
+    "fills": 1
   }
 ]

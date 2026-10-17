@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 18:18:24 (hora de Perú)
+Actualizado: 2026-10-17 18:20:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5448**  ($298,186,033 en total)
+- Apuestas registradas: **5449**  ($298,220,876 en total)
 - Resueltas: **5408** — 3314 ganadas / 2094 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 584
 
 ### Balance
@@ -56,8 +56,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ndb1 | 26 | 12 | 0 | 68% | $2,027,534 | +$509,618 |
 | Talvez10 | 21 | 18 | 1 | 54% | $1,866,868 | +$257,433 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 31 | 3 | 1 | 91% | $1,865,984 | +$60,645 |
 | SDTrading | 30 | 31 | 1 | 49% | $1,844,053 | -$160,793 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 31 | 3 | 0 | 91% | $1,831,141 | +$60,645 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Roadto1mlesgooo | Atlanta United FC vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $34,843 | — | ⏳ Pendiente |
 | gmpm2 | Kent State vs. South Florida | South Florida | 1.09 (92¢) | $57,500 | — | ⏳ Pendiente |
 | DelidelaDele | Will New York Red Bulls win on 2026-10-17? | Yes | 1.72 (58¢) | $37,120 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Santa Cruz 2: Francisco Comesana vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.30 (77¢) | $47,944 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | NeverLoseBet | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,360 | -$27,360 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $68,963 | -$68,963 | ❌ Perdida |
 | raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $45,000 | -$45,000 | ❌ Perdida |
-| alwaysfade | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
