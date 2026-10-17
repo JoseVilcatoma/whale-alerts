@@ -81755,5 +81755,20 @@
     "status": "pending",
     "ultimo_fill": 1792270366,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11053,
+    "timestamp": 1792270698,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "cfb-troy-loulaf-2026-10-17",
+    "title": "Troy vs. Louisiana",
+    "outcome": "Troy",
+    "side": "BUY",
+    "usd": 32666.34,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1792270698,
+    "fills": 1
   }
 ]
