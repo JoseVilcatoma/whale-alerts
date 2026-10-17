@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 17:39:22 (hora de Perú)
+Actualizado: 2026-10-17 17:41:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5446**  ($298,091,413 en total)
-- Resueltas: **5402** — 3311 ganadas / 2091 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **5404** — 3312 ganadas / 2092 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 583
 
 ### Balance
 
-- **Resultado de los apostadores: +$952,888** sobre $296,000,255 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,239** sobre $532,700 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$953,336** sobre $296,250,593 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,206** sobre $532,900 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 384 | 205 | 5 | 65% | $37,132,493 | +$1,174,749 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 384 | 206 | 4 | 65% | $37,132,493 | +$1,032,249 |
 | Sassy-Bucket | 75 | 72 | 5 | 51% | $8,611,572 | -$652,004 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 84 | 1 | 53% | $7,286,745 | -$469,752 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -80,8 +80,8 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Troy vs. Louisiana | Troy | 2.38 (42¢) | $32,666 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Chelsea Chandler vs. Melissa Croden (Women's Bantamweight, Prelims) | Melissa Croden | 1.32 (76¢) | $77,343 | -$77,343 | ❌ Perdida |
 | Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 4 Winner | MVK Esports | 2.00 (50¢) | $74,514 | +$74,514 | ✅ Ganada |
-| CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.33 (43¢) | $107,838 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.75 (57¢) | $142,500 | — | ⏳ Pendiente |
+| CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.33 (43¢) | $107,838 | +$142,948 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.75 (57¢) | $142,500 | -$142,500 | ❌ Perdida |
 | ethanaz | Ohio State vs. Indiana | Ohio State | 1.49 (67¢) | $46,440 | +$22,873 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Air Force | UNLV | 1.96 (51¢) | $92,888 | — | ⏳ Pendiente |
 | 0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900 | Will AS Roma win on 2026-10-17? | Yes | 1.79 (56¢) | $28,913 | +$22,717 | ✅ Ganada |
