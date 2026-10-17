@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 17:53:41 (hora de Perú)
+Actualizado: 2026-10-17 17:55:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5448**  ($298,186,033 en total)
-- Resueltas: **5404** — 3312 ganadas / 2092 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **5405** — 3312 ganadas / 2093 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 584
 
 ### Balance
 
-- **Resultado de los apostadores: +$953,336** sobre $296,250,593 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,206** sobre $532,900 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$925,661** sobre $296,278,268 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,306** sobre $533,000 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 384 | 206 | 4 | 65% | $37,132,493 | +$1,032,249 |
-| Sassy-Bucket | 75 | 72 | 5 | 51% | $8,611,572 | -$652,004 |
+| Sassy-Bucket | 75 | 73 | 4 | 51% | $8,611,572 | -$679,678 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 84 | 1 | 53% | $7,286,745 | -$469,752 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | TAIWANNUMBERONE | Alabama vs. Tennessee | Tennessee | 1.32 (76¢) | $38,276 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Katlyn Cerminara vs. Mackenzie Stiller (Women's Flyweight, Prelims) | Katlyn Cerminara | 1.45 (69¢) | $31,046 | — | ⏳ Pendiente |
 | gmpm2 | Washington State vs. Oregon State | Oregon State | 1.11 (90¢) | $26,683 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Chad Anheliger vs. Steven Koslow (Bantamweight, Prelims) | Chad Anheliger | 2.63 (38¢) | $27,675 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC Fight Night: Chad Anheliger vs. Steven Koslow (Bantamweight, Prelims) | Chad Anheliger | 2.63 (38¢) | $27,675 | -$27,675 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Tennessee | Tennessee | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Troy vs. Louisiana | Troy | 2.38 (42¢) | $32,666 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Chelsea Chandler vs. Melissa Croden (Women's Bantamweight, Prelims) | Melissa Croden | 1.32 (76¢) | $77,343 | -$77,343 | ❌ Perdida |
