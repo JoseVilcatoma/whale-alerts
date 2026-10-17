@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 21:11:52 (hora de Perú)
+Actualizado: 2026-10-16 21:13:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5323**  ($291,576,094 en total)
+- Apuestas registradas: **5324**  ($291,686,382 en total)
 - Resueltas: **5284** — 3231 ganadas / 2053 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 573
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 61 | 40 | 0 | 60% | $5,100,805 | -$38,747 |
-| ethanaz | 48 | 21 | 1 | 70% | $4,323,466 | -$86,799 |
+| ethanaz | 48 | 21 | 2 | 70% | $4,433,754 | -$86,799 |
 | BrotherObama | 40 | 48 | 4 | 45% | $4,132,955 | -$253,237 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
 | mooseborzoii | 48 | 25 | 3 | 66% | $3,774,268 | +$862,030 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Washington vs. Purdue | Washington | 1.47 (68¢) | $110,288 | — | ⏳ Pendiente |
 | ethanaz | Washington vs. Purdue | Washington | 1.41 (71¢) | $62,651 | — | ⏳ Pendiente |
 | Nooserac | Timberwolves vs. Bulls | Bulls | 1.22 (82¢) | $25,653 | — | ⏳ Pendiente |
 | Sassy-Bucket | Bruins vs. Ducks | Ducks | 2.04 (49¢) | $27,594 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | 0000a | Wuhan Tennis Open: Ann Li vs Iga Swiatek | Iga Swiatek | 1.06 (94¢) | $33,382 | +$2,131 | ✅ Ganada |
 | mooseborzoii | Appalachian State vs. Coastal Carolina | Appalachian State | 1.92 (52¢) | $27,178 | — | ⏳ Pendiente |
 | Fvalp | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.22 (82¢) | $35,415 | +$7,774 | ✅ Ganada |
-| 0000a | Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul | Daniil Medvedev | 1.12 (89¢) | $31,105 | +$3,844 | ✅ Ganada |
