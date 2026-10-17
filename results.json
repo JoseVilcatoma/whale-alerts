@@ -81425,5 +81425,35 @@
     "status": "pending",
     "ultimo_fill": 1792259758,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10992,
+    "timestamp": 1792260892,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "lol-mvk-fur-2026-10-17-game1",
+    "title": "LoL: MVK Esports vs FURIA Esports - Game 1 Winner",
+    "outcome": "FURIA Esports",
+    "side": "BUY",
+    "usd": 75298.1737,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1792260940,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 10993,
+    "timestamp": 1792260930,
+    "username": "nb1985",
+    "wallet": "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7",
+    "slug": "fl1-lil-sbr-2026-10-17-lil",
+    "title": "Will Lille OSC win on 2026-10-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 71470.3535,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792260930,
+    "fills": 2
   }
 ]

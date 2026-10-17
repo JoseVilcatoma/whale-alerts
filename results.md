@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 13:14:02 (hora de Perú)
+Actualizado: 2026-10-17 13:16:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5417**  ($296,189,337 en total)
+- Apuestas registradas: **5419**  ($296,336,106 en total)
 - Resueltas: **5337** — 3272 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Pendientes: 60
 - Apostadores distintos: 581
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.85 (54¢) | $71,470 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 1 Winner | FURIA Esports | 1.59 (63¢) | $75,298 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Ohio State vs. Indiana | Ohio State | 1.67 (60¢) | $177,730 | — | ⏳ Pendiente |
 | Flaznorp | Real Betis Balompié vs. FC Barcelona: O/U 7.5 | Under 7.5 | 1.09 (92¢) | $44,623 | — | ⏳ Pendiente |
 | BrotherObama | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 2.70 (37¢) | $44,347 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 | raybanman | Will Aston Villa FC win on 2026-10-17? | No | 1.49 (67¢) | $173,150 | — | ⏳ Pendiente |
 | SDTrading | Spread: Notre Dame (-10.5) | BYU | 1.96 (51¢) | $30,729 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Maia: Francesco Passaro vs Matej Dodig | Francesco Passaro | 2.17 (46¢) | $25,070 | +$29,429 | ✅ Ganada |
-| Cbs710 | Will Ipswich Town FC win on 2026-10-17? | No | 1.08 (93¢) | $76,265 | +$5,740 | ✅ Ganada |
-| Zzzz87 | Manchester City FC vs. Ipswich Town FC: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $48,012 | +$42,577 | ✅ Ganada |
