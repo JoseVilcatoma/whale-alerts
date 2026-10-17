@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 02:44:53 (hora de Perú)
+Actualizado: 2026-10-17 02:46:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5333**  ($292,188,621 en total)
+- Apuestas registradas: **5334**  ($292,219,621 en total)
 - Resueltas: **5299** — 3241 ganadas / 2058 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 573
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bbb17367162806 | Will AS Roma win on 2026-10-17? | Yes | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 2.94 (34¢) | $32,784 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Manchester City FC (-1.5) | Ipswich Town FC | 2.38 (42¢) | $36,570 | — | ⏳ Pendiente |
 | gransaaa | Will Fulham FC win on 2026-10-17? | Yes | 1.72 (58¢) | $92,220 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.18 (85¢) | $68,649 | +$12,115 | ✅ Ganada |
 | juice-fruit | Counter-Strike: 100 Thieves vs Sangal (BO3) - Stake Pulse Beat III Playoffs | 100 Thieves | 1.41 (71¢) | $67,117 | +$27,414 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.50 (40¢) | $29,244 | +$43,867 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Purdue (-3.5) | Purdue | 2.13 (47¢) | $34,952 | -$34,952 | ❌ Perdida |
