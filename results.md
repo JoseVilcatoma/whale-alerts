@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 13:59:19 (hora de Perú)
+Actualizado: 2026-10-17 14:01:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5427**  ($297,030,205 en total)
+- Apuestas registradas: **5428**  ($297,073,314 en total)
 - Resueltas: **5337** — 3272 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 68
+- Pendientes: 69
 - Apostadores distintos: 581
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Florida vs. Texas | Florida | 1.16 (86¢) | $43,109 | — | ⏳ Pendiente |
 | Woaifacai | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 1.59 (63¢) | $53,607 | — | ⏳ Pendiente |
 | Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.39 (72¢) | $88,278 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will AS Roma win on 2026-10-17? | No | 2.50 (40¢) | $276,864 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 | sifonman | Will FC Bayern München vs. RB Leipzig end in a draw? | No | 1.15 (87¢) | $31,937 | — | ⏳ Pendiente |
 | 0000a | Spread: Brentford FC (-1.5) | Liverpool FC | 1.10 (91¢) | $30,415 | +$3,008 | ✅ Ganada |
 | asd213457 | Brentford FC vs. Liverpool FC: Liverpool FC O/U 1.5 | Over 1.5 | 1.82 (55¢) | $28,572 | +$9,870 | 💰 Vendida antes |
-| ndb1 | Fulham FC vs. Hull City AFC: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $58,468 | +$63,340 | ✅ Ganada |
