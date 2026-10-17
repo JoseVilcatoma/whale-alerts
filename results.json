@@ -79108,7 +79108,7 @@
     "side": "BUY",
     "usd": 28499.124599999996,
     "odds_at_bet": 82,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792145869,
     "fills": 1
   },
@@ -79333,7 +79333,7 @@
     "side": "BUY",
     "usd": 141100.0,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792173332,
     "fills": 1
   },
@@ -79348,7 +79348,7 @@
     "side": "BUY",
     "usd": 51000.00000000001,
     "odds_at_bet": 17,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792173715,
     "fills": 1
   },
@@ -79363,7 +79363,7 @@
     "side": "BUY",
     "usd": 70525.7889,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792173728,
     "fills": 1
   },
@@ -79558,7 +79558,7 @@
     "side": "BUY",
     "usd": 45255.4788,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792182895,
     "fills": 1
   },
@@ -79603,7 +79603,7 @@
     "side": "BUY",
     "usd": 70550.0,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792183591,
     "fills": 1
   },
@@ -79633,7 +79633,7 @@
     "side": "BUY",
     "usd": 83000.0,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792183654,
     "fills": 1
   },
@@ -79648,7 +79648,7 @@
     "side": "BUY",
     "usd": 96755.85780000001,
     "odds_at_bet": 18,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792183745,
     "fills": 2
   },
@@ -79693,7 +79693,7 @@
     "side": "BUY",
     "usd": 42971.813,
     "odds_at_bet": 82,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792184227,
     "fills": 1
   },
@@ -79708,7 +79708,7 @@
     "side": "BUY",
     "usd": 39999.999995,
     "odds_at_bet": 91,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792185877,
     "fills": 1
   },
@@ -79723,7 +79723,7 @@
     "side": "BUY",
     "usd": 212955.57400000002,
     "odds_at_bet": 92,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792186463,
     "fills": 1
   },
@@ -79738,7 +79738,7 @@
     "side": "BUY",
     "usd": 45925.066000000006,
     "odds_at_bet": 92,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792187024,
     "fills": 1
   },
@@ -79768,7 +79768,7 @@
     "side": "BUY",
     "usd": 77919.8355,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792193946,
     "fills": 1
   },
@@ -79935,6 +79935,21 @@
     "odds_at_bet": 65,
     "status": "pending",
     "ultimo_fill": 1792197226,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10821,
+    "timestamp": 1792198940,
+    "username": "arjennnnn",
+    "wallet": "0x24ded84d901a743cfee095f8082b0f9f647183cb",
+    "slug": "nba-bos-phi-2026-10-16",
+    "title": "Celtics vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 28294.061200000004,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1792198940,
     "fills": 1
   }
 ]
