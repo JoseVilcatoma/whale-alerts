@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 09:01:07 (hora de Perú)
+Actualizado: 2026-10-17 09:03:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5359**  ($293,288,024 en total)
-- Resueltas: **5307** — 3247 ganadas / 2060 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **5308** — 3248 ganadas / 2060 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 574
 
 ### Balance
 
-- **Resultado de los apostadores: +$961,370** sobre $291,060,391 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,288** sobre $523,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$980,687** sobre $291,099,611 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,239** sobre $523,500 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 2.04 (49¢) | $27,149 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | Aurora Gaming | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
 | Talvez10 | Sharks vs. Red Wings | Red Wings | 1.79 (56¢) | $27,699 | — | ⏳ Pendiente |
-| Flaznorp | Will Everton FC win on 2026-10-17? | No | 1.49 (67¢) | $39,219 | — | ⏳ Pendiente |
+| Flaznorp | Will Everton FC win on 2026-10-17? | No | 1.49 (67¢) | $39,219 | +$19,317 | ✅ Ganada |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Everton FC vs. Chelsea FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 1.96 (51¢) | $27,959 | — | ⏳ Pendiente |
 | plonker2026 | Will Chelsea FC win on 2026-10-17? | No | 1.69 (59¢) | $25,015 | -$25,015 | ❌ Perdida |
 | plonker2026 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
