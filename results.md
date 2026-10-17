@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 06:21:14 (hora de Perú)
+Actualizado: 2026-10-17 06:23:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5341**  ($292,485,305 en total)
-- Resueltas: **5299** — 3241 ganadas / 2058 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **5300** — 3241 ganadas / 2059 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 574
 
 ### Balance
 
-- **Resultado de los apostadores: +$761,582** sobre $290,749,543 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,788** sobre $522,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$723,058** sobre $290,788,067 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,888** sobre $522,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 30 | 31 | 0 | 49% | $1,813,324 | -$160,793 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 2 | 1 | 94% | $1,774,881 | +$92,570 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 3 | 0 | 91% | $1,774,881 | +$54,045 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | 0x361b…74fe | 25 | 2 | 0 | 93% | $1,724,618 | +$811,651 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | plonker2026 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | arjennnnn | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.19 (84¢) | $44,106 | — | ⏳ Pendiente |
 | kansann121 | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.15 (87¢) | $61,360 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina | Alexander Zverev | 1.11 (90¢) | $38,524 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina | Alexander Zverev | 1.11 (90¢) | $38,524 | -$38,524 | ❌ Perdida |
 | bbb17367162806 | Will AS Roma win on 2026-10-17? | Yes | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 2.94 (34¢) | $32,784 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Manchester City FC (-1.5) | Ipswich Town FC | 2.38 (42¢) | $36,570 | — | ⏳ Pendiente |
