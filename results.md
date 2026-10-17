@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 18:03:54 (hora de Perú)
+Actualizado: 2026-10-17 18:05:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5448**  ($298,186,033 en total)
-- Resueltas: **5406** — 3313 ganadas / 2093 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **5408** — 3314 ganadas / 2094 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 584
 
 ### Balance
 
-- **Resultado de los apostadores: +$939,609** sobre $296,309,313 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,261** sobre $533,100 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$948,741** sobre $296,496,374 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,253** sobre $533,300 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 384 | 206 | 4 | 65% | $37,132,493 | +$1,032,249 |
-| Sassy-Bucket | 76 | 73 | 3 | 51% | $8,611,572 | -$665,730 |
+| Sassy-Bucket | 76 | 74 | 2 | 51% | $8,611,572 | -$758,619 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 84 | 1 | 53% | $7,286,745 | -$469,752 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 29 | 21 | 2 | 58% | $3,483,480 | +$153,404 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Kch-Temp | 34 | 10 | 5 | 77% | $3,238,624 | +$1,598,814 |
+| Kch-Temp | 35 | 10 | 4 | 78% | $3,238,624 | +$1,700,834 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | cosmicxbt | 17 | 7 | 0 | 71% | $2,604,992 | -$337,317 |
 | 0F62 | 29 | 5 | 0 | 85% | $2,593,269 | -$324,024 |
@@ -85,9 +85,9 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.33 (43¢) | $107,838 | +$142,948 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.75 (57¢) | $142,500 | -$142,500 | ❌ Perdida |
 | ethanaz | Ohio State vs. Indiana | Ohio State | 1.49 (67¢) | $46,440 | +$22,873 | ✅ Ganada |
-| Sassy-Bucket | UNLV vs. Air Force | UNLV | 1.96 (51¢) | $92,888 | — | ⏳ Pendiente |
+| Sassy-Bucket | UNLV vs. Air Force | UNLV | 1.96 (51¢) | $92,888 | -$92,888 | ❌ Perdida |
 | 0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900 | Will AS Roma win on 2026-10-17? | Yes | 1.79 (56¢) | $28,913 | +$22,717 | ✅ Ganada |
-| Kch-Temp | UNLV vs. Air Force | Air Force | 2.08 (48¢) | $94,172 | — | ⏳ Pendiente |
+| Kch-Temp | UNLV vs. Air Force | Air Force | 2.08 (48¢) | $94,172 | +$102,020 | ✅ Ganada |
 | sgfkskg243324 | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.52 (66¢) | $31,723 | -$31,723 | ❌ Perdida |
 | KaneAnalytics | Florida vs. Texas | Florida | 1.54 (65¢) | $35,083 | +$18,891 | ✅ Ganada |
 | KaneAnalytics | Ohio State vs. Indiana | Ohio State | 1.11 (90¢) | $44,395 | +$4,933 | ✅ Ganada |
