@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 11:54:10 (hora de Perú)
+Actualizado: 2026-10-17 11:56:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5407**  ($295,651,070 en total)
+- Apuestas registradas: **5408**  ($295,678,775 en total)
 - Resueltas: **5336** — 3271 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Pendientes: 50
 - Apostadores distintos: 580
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 380 | 204 | 7 | 65% | $36,920,793 | +$1,090,034 |
 | Sassy-Bucket | 74 | 71 | 4 | 51% | $8,459,963 | -$643,302 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 1 | 53% | $7,176,735 | -$419,028 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 18 | 1 | 65% | $5,914,740 | +$325,861 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 580 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Buffalo (-6.5) | Buffalo | 1.96 (51¢) | $27,705 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.41 (71¢) | $63,110 | — | ⏳ Pendiente |
 | thegreatjeff | Will FC Barcelona win on 2026-10-17? | Yes | 1.18 (85¢) | $50,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.57 (28¢) | $25,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 580 en total)_
 | HVAB | Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska | Maja Chwalinska | 2.13 (47¢) | $39,568 | +$44,619 | ✅ Ganada |
 | Zzzz87 | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $86,241 | +$24,325 | ✅ Ganada |
 | jonjones1993 | Will SSC Napoli win on 2026-10-17? | No | 2.13 (47¢) | $42,300 | +$47,700 | ✅ Ganada |
-| totoro3miyazaki | Will VfB Stuttgart win on 2026-10-17? | Yes | 1.82 (55¢) | $77,010 | -$77,010 | ❌ Perdida |
