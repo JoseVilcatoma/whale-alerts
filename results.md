@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 09:25:46 (hora de Perú)
+Actualizado: 2026-10-17 09:27:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5359**  ($293,288,024 en total)
-- Resueltas: **5310** — 3250 ganadas / 2060 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **5311** — 3251 ganadas / 2060 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 574
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,029,061** sobre $291,157,276 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$4,070** sobre $523,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$1,073,680** sobre $291,196,844 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,957** sobre $523,800 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | Flaznorp | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $29,587 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ipswich Town FC win on 2026-10-17? | No | 1.11 (90¢) | $36,000 | — | ⏳ Pendiente |
 | beeemw | Will Ipswich Town FC win on 2026-10-17? | No | 1.09 (92¢) | $49,760 | — | ⏳ Pendiente |
-| HVAB | Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska | Maja Chwalinska | 2.13 (47¢) | $39,568 | — | ⏳ Pendiente |
+| HVAB | Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska | Maja Chwalinska | 2.13 (47¢) | $39,568 | +$44,619 | ✅ Ganada |
 | Zzzz87 | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $86,241 | — | ⏳ Pendiente |
 | jonjones1993 | Will SSC Napoli win on 2026-10-17? | No | 2.13 (47¢) | $42,300 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-10-17? | Yes | 1.82 (55¢) | $77,010 | — | ⏳ Pendiente |
