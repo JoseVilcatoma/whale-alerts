@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 20:22:03 (hora de Perú)
+Actualizado: 2026-10-16 20:24:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5320**  ($291,460,197 en total)
-- Resueltas: **5274** — 3227 ganadas / 2047 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **5280** — 3231 ganadas / 2049 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$670,218** sobre $289,639,636 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,492** sobre $520,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$743,316** sobre $289,884,902 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,436** sobre $520,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 375 | 203 | 4 | 65% | $36,536,052 | +$991,396 |
 | Sassy-Bucket | 73 | 70 | 3 | 51% | $8,335,498 | -$637,340 |
-| Diabolical-Prize | 67 | 62 | 2 | 52% | $7,166,504 | +$455,454 |
+| Diabolical-Prize | 69 | 62 | 0 | 53% | $7,166,504 | +$502,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 87 | 44 | 0 | 66% | $5,666,469 | +$44,465 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
-| Lakersfan111 | 61 | 37 | 3 | 62% | $5,100,805 | +$38,432 |
+| Lakersfan111 | 61 | 39 | 1 | 61% | $5,100,805 | -$13,743 |
 | ethanaz | 48 | 21 | 0 | 70% | $4,260,815 | -$86,799 |
 | BrotherObama | 40 | 48 | 4 | 45% | $4,132,955 | -$253,237 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| ndb1 | 23 | 12 | 1 | 66% | $1,941,566 | +$373,778 |
+| ndb1 | 24 | 12 | 0 | 67% | $1,941,566 | +$423,778 |
 | Talvez10 | 21 | 18 | 0 | 54% | $1,839,170 | +$257,433 |
 | SDTrading | 30 | 31 | 0 | 49% | $1,813,324 | -$160,793 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -90,19 +90,19 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.09 (92¢) | $212,956 | -$212,956 | ❌ Perdida |
 | bluemol | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.10 (91¢) | $40,000 | -$40,000 | ❌ Perdida |
 | dsasdaas | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.22 (82¢) | $42,972 | -$42,972 | ❌ Perdida |
-| TAIWANNUMBERONE | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.59 (63¢) | $48,141 | — | ⏳ Pendiente |
-| Diabolical-Prize | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.59 (63¢) | $48,141 | +$28,273 | ✅ Ganada |
+| Diabolical-Prize | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.61 (62¢) | $31,000 | +$19,000 | ✅ Ganada |
 | Diabolical-Prize | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | FURIA Esports | 5.56 (18¢) | $96,756 | +$440,777 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $83,000 | -$83,000 | ❌ Perdida |
 | BrotherObama | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $26,000 | — | ⏳ Pendiente |
 | StasPanda | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $70,550 | -$70,550 | ❌ Perdida |
-| Diabolical-Prize | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.67 (60¢) | $42,000 | — | ⏳ Pendiente |
+| Diabolical-Prize | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.67 (60¢) | $42,000 | +$28,000 | ✅ Ganada |
 | joseph00677 | Will RC Deportivo A Coruña win on 2026-10-16? | Yes | 1.28 (78¢) | $42,148 | -$42,148 | ❌ Perdida |
 | 473game | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.19 (84¢) | $45,255 | -$45,255 | ❌ Perdida |
-| ndb1 | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.69 (59¢) | $71,951 | — | ⏳ Pendiente |
+| ndb1 | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | FURIA Esports | 1.69 (59¢) | $71,951 | +$50,000 | ✅ Ganada |
 | zb8 | LoL: MVK Esports vs Karmine Corp - Game 3 Winner | Karmine Corp | 1.22 (82¢) | $30,907 | +$6,785 | ✅ Ganada |
 | Diabolical-Prize | LoL: MVK Esports vs Karmine Corp - Game 2 Winner | Karmine Corp | 1.20 (83¢) | $71,491 | +$14,643 | ✅ Ganada |
-| corkmaster420blaezit | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | Cloud9 | 2.50 (40¢) | $26,245 | — | ⏳ Pendiente |
+| corkmaster420blaezit | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | Cloud9 | 2.50 (40¢) | $26,245 | -$26,245 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.11 (90¢) | $41,889 | +$4,654 | ✅ Ganada |
 | ferrariChampions2026 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.15 (87¢) | $77,740 | +$11,616 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Zalgiris Kaunas vs. Anadolu Efes | Anadolu Efes | 1.20 (83¢) | $66,364 | +$13,593 | ✅ Ganada |
@@ -110,7 +110,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | joseph00677 | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.82 (55¢) | $245,706 | +$201,032 | ✅ Ganada |
 | BrotherObama | Spread: Memphis (-6.5) | Memphis | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
 | corkmaster420blaezit | Game Handicap: C9 (-1.5) vs FURIA Esports (+1.5) | Cloud9 | 1.49 (67¢) | $25,004 | — | ⏳ Pendiente |
-| corkmaster420blaezit | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | Cloud9 | 2.56 (39¢) | $25,930 | — | ⏳ Pendiente |
+| corkmaster420blaezit | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | Cloud9 | 2.56 (39¢) | $25,930 | -$25,930 | ❌ Perdida |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $70,526 | -$70,526 | ❌ Perdida |
 | Diabolical-Prize | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | FURIA Esports | 5.88 (17¢) | $51,000 | +$249,000 | ✅ Ganada |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $141,100 | -$141,100 | ❌ Perdida |
