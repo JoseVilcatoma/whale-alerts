@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 22:24:27 (hora de Perú)
+Actualizado: 2026-10-16 22:26:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5325**  ($291,718,382 en total)
-- Resueltas: **5285** — 3232 ganadas / 2053 perdidas (**61%** de acierto)
+- Apuestas registradas: **5326**  ($291,852,994 en total)
+- Resueltas: **5286** — 3232 ganadas / 2054 perdidas (**61%** de acierto)
 - Pendientes: 18
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$640,910** sobre $290,018,592 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,814** sobre $521,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$610,070** sobre $290,049,433 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,914** sobre $521,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 01258787xy48487484545122 | Japan Women's Open, Qualification: Sayaka Ishii vs Elina Avanesyan | Sayaka Ishii | 1.25 (80¢) | $134,612 | — | ⏳ Pendiente |
 | esportsbetter1 | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
 | ethanaz | Washington vs. Purdue | Washington | 1.47 (68¢) | $110,288 | — | ⏳ Pendiente |
 | ethanaz | Washington vs. Purdue | Washington | 1.41 (71¢) | $62,651 | — | ⏳ Pendiente |
@@ -90,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | S-Works | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.89 (53¢) | $109,710 | -$109,710 | ❌ Perdida |
 | Diabolical-Prize | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | FURIA Esports | 2.17 (46¢) | $108,193 | +$127,009 | ✅ Ganada |
 | S-Works | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 2.56 (39¢) | $77,920 | -$77,920 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Memphis vs. Tulane | Memphis | 1.45 (69¢) | $30,841 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Memphis vs. Tulane | Memphis | 1.45 (69¢) | $30,841 | -$30,841 | ❌ Perdida |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.09 (92¢) | $45,925 | -$45,925 | ❌ Perdida |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.09 (92¢) | $212,956 | -$212,956 | ❌ Perdida |
 | bluemol | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.10 (91¢) | $40,000 | -$40,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.20 (83¢) | $86,707 | +$17,759 | ✅ Ganada |
 | tankfest2027 | Valorant: 100 Thieves vs G2 Esports (BO3) - VCT Champions Playoffs | 100 Thieves | 1.69 (59¢) | $28,331 | +$19,687 | ✅ Ganada |
 | 0000a | Wuhan Tennis Open: Ann Li vs Iga Swiatek | Iga Swiatek | 1.06 (94¢) | $33,382 | +$2,131 | ✅ Ganada |
-| mooseborzoii | Appalachian State vs. Coastal Carolina | Appalachian State | 1.92 (52¢) | $27,178 | — | ⏳ Pendiente |
