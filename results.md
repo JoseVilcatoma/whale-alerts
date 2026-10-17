@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 14:16:04 (hora de Perú)
+Actualizado: 2026-10-17 14:18:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5431**  ($297,184,516 en total)
-- Resueltas: **5358** — 3286 ganadas / 2072 perdidas (**61%** de acierto)
+- Apuestas registradas: **5432**  ($297,278,688 en total)
+- Resueltas: **5359** — 3287 ganadas / 2072 perdidas (**61%** de acierto)
 - Pendientes: 51
 - Apostadores distintos: 582
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,130,015** sobre $293,542,847 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,292** sobre $528,300 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,137,195** sobre $293,590,900 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,277** sobre $528,400 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 28 | 20 | 2 | 58% | $3,399,297 | +$158,709 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Kch-Temp | 34 | 10 | 4 | 77% | $3,144,451 | +$1,598,814 |
+| Kch-Temp | 34 | 10 | 5 | 77% | $3,238,624 | +$1,598,814 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | cosmicxbt | 17 | 7 | 0 | 71% | $2,604,992 | -$337,317 |
 | 0F62 | 29 | 5 | 0 | 85% | $2,593,269 | -$324,024 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 582 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | UNLV vs. Air Force | Air Force | 2.08 (48¢) | $94,172 | — | ⏳ Pendiente |
 | sgfkskg243324 | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.52 (66¢) | $31,723 | — | ⏳ Pendiente |
 | KaneAnalytics | Florida vs. Texas | Florida | 1.54 (65¢) | $35,083 | — | ⏳ Pendiente |
 | KaneAnalytics | Ohio State vs. Indiana | Ohio State | 1.11 (90¢) | $44,395 | — | ⏳ Pendiente |
@@ -104,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 582 en total)_
 | ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $48,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Betis Balompié vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.63 (38¢) | $26,498 | +$43,233 | ✅ Ganada |
 | juice-fruit | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $32,588 | — | ⏳ Pendiente |
-| beeemw | Will Real Betis Balompié win on 2026-10-17? | No | 1.15 (87¢) | $48,053 | — | ⏳ Pendiente |
+| beeemw | Will Real Betis Balompié win on 2026-10-17? | No | 1.15 (87¢) | $48,053 | +$7,180 | ✅ Ganada |
 | gambamaster | Will Newcastle United FC win on 2026-10-17? | No | 1.82 (55¢) | $36,116 | +$29,550 | ✅ Ganada |
 | ndb1 | Will Newcastle United FC win on 2026-10-17? | No | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | tankfest2027 | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,571 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 582 en total)_
 | lalalalalalallalalalala | Northwestern vs. Michigan State: O/U 49.5 | Over 49.5 | 1.92 (52¢) | $38,968 | — | ⏳ Pendiente |
 | Soarin22 | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Brentford FC vs. Liverpool FC: O/U 1.5 | Over 1.5 | 1.12 (89¢) | $27,922 | +$3,451 | ✅ Ganada |
-| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Mississippi State vs. LSU | LSU | 1.14 (88¢) | $38,946 | — | ⏳ Pendiente |
