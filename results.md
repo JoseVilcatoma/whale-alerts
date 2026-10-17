@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 16:12:05 (hora de Perú)
+Actualizado: 2026-10-17 16:14:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5440**  ($297,881,790 en total)
-- Resueltas: **5389** — 3302 ganadas / 2087 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **5391** — 3304 ganadas / 2087 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 583
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,048,945** sobre $295,099,842 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,587** sobre $531,400 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$1,085,526** sobre $295,188,750 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,475** sobre $531,600 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 384 | 205 | 4 | 65% | $37,094,493 | +$1,174,749 |
 | Sassy-Bucket | 75 | 72 | 3 | 51% | $8,552,852 | -$652,004 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 3 | 53% | $7,286,745 | -$419,028 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 83 | 2 | 53% | $7,286,745 | -$392,409 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | Woaifacai | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 1.59 (63¢) | $53,607 | — | ⏳ Pendiente |
 | Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.39 (72¢) | $88,278 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will AS Roma win on 2026-10-17? | No | 2.50 (40¢) | $276,864 | — | ⏳ Pendiente |
-| beeemw | Will Genoa CFC win on 2026-10-17? | No | 1.16 (86¢) | $61,203 | — | ⏳ Pendiente |
+| beeemw | Will Genoa CFC win on 2026-10-17? | No | 1.16 (86¢) | $61,203 | +$9,963 | ✅ Ganada |
 | Kch-Temp | Spread: Toledo (-6.5) | Toledo | 1.89 (53¢) | $31,502 | — | ⏳ Pendiente |
 | Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.43 (70¢) | $81,169 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Florida vs. Texas | Florida | 1.89 (53¢) | $51,477 | +$45,649 | ✅ Ganada |
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
 | LonnieHawkins | Will Newcastle United FC win on 2026-10-17? | No | 1.61 (62¢) | $30,000 | +$18,387 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.45 (29¢) | $28,987 | +$70,968 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Buffalo (-6.5) | Buffalo | 1.96 (51¢) | $27,705 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Buffalo (-6.5) | Buffalo | 1.96 (51¢) | $27,705 | +$26,618 | ✅ Ganada |
 | ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.41 (71¢) | $63,110 | -$63,110 | ❌ Perdida |
 | thegreatjeff | Will FC Barcelona win on 2026-10-17? | Yes | 1.18 (85¢) | $50,000 | +$8,824 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.57 (28¢) | $25,200 | +$64,800 | ✅ Ganada |
