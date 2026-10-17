@@ -80521,5 +80521,20 @@
     "status": "pending",
     "ultimo_fill": 1792244583,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10900,
+    "timestamp": 1792245236,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "epl-mac-ips-2026-10-17-total-3pt5",
+    "title": "Manchester City FC vs. Ipswich Town FC: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 48012.4939,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792245236,
+    "fills": 1
   }
 ]
