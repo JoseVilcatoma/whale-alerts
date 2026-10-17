@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 17:45:31 (hora de Perú)
+Actualizado: 2026-10-17 17:47:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5446**  ($298,091,413 en total)
+- Apuestas registradas: **5447**  ($298,128,533 en total)
 - Resueltas: **5404** — 3312 ganadas / 2092 perdidas (**61%** de acierto)
-- Pendientes: 20
-- Apostadores distintos: 583
+- Pendientes: 21
+- Apostadores distintos: 584
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | S-Works | 10 | 5 | 0 | 67% | $1,582,939 | -$195,755 |
 
-_(mostrando los 40 de mayor monto, de 583 en total)_
+_(mostrando los 40 de mayor monto, de 584 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| DelidelaDele | Will New York Red Bulls win on 2026-10-17? | Yes | 1.72 (58¢) | $37,120 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Santa Cruz 2: Francisco Comesana vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.30 (77¢) | $47,944 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Alabama vs. Tennessee | Tennessee | 1.32 (76¢) | $38,276 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Katlyn Cerminara vs. Mackenzie Stiller (Women's Flyweight, Prelims) | Katlyn Cerminara | 1.45 (69¢) | $31,046 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $45,000 | -$45,000 | ❌ Perdida |
 | alwaysfade | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
 | raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $58,500 | -$58,500 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.89 (53¢) | $52,998 | -$52,998 | ❌ Perdida |
