@@ -80566,5 +80566,35 @@
     "status": "pending",
     "ultimo_fill": 1792247359,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10908,
+    "timestamp": 1792247276,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-passaro-dodig-2026-10-17",
+    "title": "Maia: Francesco Passaro vs Matej Dodig",
+    "outcome": "Francesco Passaro",
+    "side": "BUY",
+    "usd": 25069.568201546474,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1792247276,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10909,
+    "timestamp": 1792247505,
+    "username": "raybanman",
+    "wallet": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+    "slug": "epl-new-ast-2026-10-17-ast",
+    "title": "Will Aston Villa FC win on 2026-10-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 173149.58740000002,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1792247505,
+    "fills": 1
   }
 ]
