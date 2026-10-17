@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 12:06:28 (hora de Perú)
+Actualizado: 2026-10-17 12:08:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5410**  ($295,737,762 en total)
+- Apuestas registradas: **5412**  ($295,819,390 en total)
 - Resueltas: **5336** — 3271 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Pendientes: 54
 - Apostadores distintos: 581
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 380 | 204 | 7 | 65% | $36,920,793 | +$1,090,034 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 380 | 204 | 8 | 65% | $36,951,993 | +$1,090,034 |
 | Sassy-Bucket | 74 | 71 | 4 | 51% | $8,459,963 | -$643,302 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 1 | 53% | $7,176,735 | -$419,028 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.64 (61¢) | $50,427 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.28 (78¢) | $31,200 | — | ⏳ Pendiente |
 | LonnieHawkins | Will Newcastle United FC win on 2026-10-17? | No | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.45 (29¢) | $28,987 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Buffalo (-6.5) | Buffalo | 1.96 (51¢) | $27,705 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 | Roadto1mlesgooo | Manchester City FC vs. Ipswich Town FC: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $28,338 | +$3,149 | ✅ Ganada |
 | Flaznorp | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $29,587 | +$8,345 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ipswich Town FC win on 2026-10-17? | No | 1.11 (90¢) | $36,000 | +$4,000 | ✅ Ganada |
-| beeemw | Will Ipswich Town FC win on 2026-10-17? | No | 1.09 (92¢) | $49,760 | +$4,327 | ✅ Ganada |
-| HVAB | Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska | Maja Chwalinska | 2.13 (47¢) | $39,568 | +$44,619 | ✅ Ganada |
