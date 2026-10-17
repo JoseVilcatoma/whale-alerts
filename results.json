@@ -81560,5 +81560,20 @@
     "status": "pending",
     "ultimo_fill": 1792262849,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11001,
+    "timestamp": 1792263003,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "lol-mvk-fur-2026-10-17",
+    "title": "LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In",
+    "outcome": "MVK Esports",
+    "side": "BUY",
+    "usd": 53606.950899999996,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1792263003,
+    "fills": 1
   }
 ]
