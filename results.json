@@ -80731,5 +80731,20 @@
     "status": "pending",
     "ultimo_fill": 1792249774,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10919,
+    "timestamp": 1792249944,
+    "username": "0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961",
+    "wallet": "0x418d51e13d019913bb027db22ecc723fe1ad88a3",
+    "slug": "cfb-mspst-lsu-2026-10-17",
+    "title": "Mississippi State vs. LSU",
+    "outcome": "LSU",
+    "side": "BUY",
+    "usd": 38945.72,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1792249944,
+    "fills": 1
   }
 ]
