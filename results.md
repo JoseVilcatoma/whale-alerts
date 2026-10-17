@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 01:13:34 (hora de Perú)
+Actualizado: 2026-10-17 01:15:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5331**  ($292,119,267 en total)
+- Apuestas registradas: **5332**  ($292,155,837 en total)
 - Resueltas: **5298** — 3240 ganadas / 2058 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 573
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 376 | 204 | 3 | 65% | $36,588,713 | +$966,357 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 376 | 204 | 4 | 65% | $36,625,283 | +$966,357 |
 | Sassy-Bucket | 74 | 71 | 2 | 51% | $8,363,091 | -$643,302 |
 | Diabolical-Prize | 69 | 62 | 1 | 53% | $7,213,563 | +$502,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Manchester City FC (-1.5) | Ipswich Town FC | 2.38 (42¢) | $36,570 | — | ⏳ Pendiente |
 | gransaaa | Will Fulham FC win on 2026-10-17? | Yes | 1.72 (58¢) | $92,220 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Suns | Jazz | 1.06 (94¢) | $52,661 | +$3,361 | ✅ Ganada |
 | gransaaa | Will Fulham FC win on 2026-10-17? | Yes | 1.72 (58¢) | $43,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | fantasy7788 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.50 (40¢) | $29,244 | +$43,867 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Purdue (-3.5) | Purdue | 2.13 (47¢) | $34,952 | -$34,952 | ❌ Perdida |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.19 (84¢) | $50,664 | +$9,650 | ✅ Ganada |
-| qiu3 | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | BetBoom Team | 2.56 (39¢) | $27,000 | +$42,231 | ✅ Ganada |
