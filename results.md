@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 12:47:32 (hora de Perú)
+Actualizado: 2026-10-17 12:49:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5415**  ($295,966,984 en total)
+- Apuestas registradas: **5416**  ($296,011,607 en total)
 - Resueltas: **5337** — 3272 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 57
 - Apostadores distintos: 581
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Real Betis Balompié vs. FC Barcelona: O/U 7.5 | Under 7.5 | 1.09 (92¢) | $44,623 | — | ⏳ Pendiente |
 | BrotherObama | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 2.70 (37¢) | $44,347 | — | ⏳ Pendiente |
 | Nooserac | Ohio State vs. Indiana | Indiana | 1.56 (64¢) | $29,304 | — | ⏳ Pendiente |
 | veliMax | Will FC Barcelona win on 2026-10-17? | Yes | 1.22 (82¢) | $73,943 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 581 en total)_
 | Cbs710 | Will Ipswich Town FC win on 2026-10-17? | No | 1.08 (93¢) | $76,265 | +$5,740 | ✅ Ganada |
 | Zzzz87 | Manchester City FC vs. Ipswich Town FC: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $48,012 | +$42,577 | ✅ Ganada |
 | lfg100k | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.69 (59¢) | $41,367 | -$41,367 | ❌ Perdida |
-| Dragon-Evolution | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | FURIA | 1.89 (53¢) | $36,079 | +$31,995 | ✅ Ganada |
