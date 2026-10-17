@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 10:18:59 (hora de Perú)
+Actualizado: 2026-10-17 10:21:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5373**  ($294,172,561 en total)
-- Resueltas: **5313** — 3253 ganadas / 2060 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **5315** — 3254 ganadas / 2061 perdidas (**61%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 576
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,142,856** sobre $291,263,283 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,744** sobre $524,000 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$1,113,468** sobre $291,382,671 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,731** sobre $524,200 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 50 | 21 | 0 | 70% | $4,433,754 | -$9,309 |
 | BrotherObama | 40 | 49 | 3 | 45% | $4,132,955 | -$283,237 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
-| mooseborzoii | 50 | 25 | 3 | 67% | $3,878,506 | +$957,140 |
+| mooseborzoii | 50 | 26 | 2 | 66% | $3,878,506 | +$880,052 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | maz26 | 28 | 20 | 0 | 58% | $3,330,038 | +$158,709 |
@@ -95,10 +95,10 @@ _(mostrando los 40 de mayor monto, de 576 en total)_
 | beeemw | Will Ipswich Town FC win on 2026-10-17? | No | 1.09 (92¢) | $49,760 | — | ⏳ Pendiente |
 | HVAB | Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska | Maja Chwalinska | 2.13 (47¢) | $39,568 | +$44,619 | ✅ Ganada |
 | Zzzz87 | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $86,241 | — | ⏳ Pendiente |
-| jonjones1993 | Will SSC Napoli win on 2026-10-17? | No | 2.13 (47¢) | $42,300 | — | ⏳ Pendiente |
+| jonjones1993 | Will SSC Napoli win on 2026-10-17? | No | 2.13 (47¢) | $42,300 | +$47,700 | ✅ Ganada |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-10-17? | Yes | 1.82 (55¢) | $77,010 | — | ⏳ Pendiente |
 | sulumos | Will VfB Stuttgart win on 2026-10-17? | No | 2.17 (46¢) | $25,548 | — | ⏳ Pendiente |
-| mooseborzoii | Will SSC Napoli win on 2026-10-17? | Yes | 1.89 (53¢) | $77,088 | — | ⏳ Pendiente |
+| mooseborzoii | Will SSC Napoli win on 2026-10-17? | Yes | 1.89 (53¢) | $77,088 | -$77,088 | ❌ Perdida |
 | lfg100k | Will Club Atlético de Madrid win on 2026-10-17? | Yes | 1.72 (58¢) | $29,707 | +$21,512 | ✅ Ganada |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 2.04 (49¢) | $27,149 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | Aurora Gaming | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
