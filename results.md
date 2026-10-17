@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 14:51:00 (hora de Perú)
+Actualizado: 2026-10-17 14:53:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5435**  ($297,446,928 en total)
-- Resueltas: **5366** — 3292 ganadas / 2074 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Resueltas: **5368** — 3293 ganadas / 2075 perdidas (**61%** de acierto)
+- Pendientes: 45
 - Apostadores distintos: 583
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,171,691** sobre $294,046,886 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,291** sobre $529,100 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,162,989** sobre $294,143,758 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,309** sobre $529,300 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 384 | 205 | 3 | 65% | $36,951,993 | +$1,174,749 |
-| Sassy-Bucket | 74 | 71 | 5 | 51% | $8,552,852 | -$643,302 |
+| Sassy-Bucket | 75 | 72 | 3 | 51% | $8,552,852 | -$652,004 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 1 | 53% | $7,176,735 | -$419,028 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -122,10 +122,10 @@ _(mostrando los 40 de mayor monto, de 583 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.89 (53¢) | $52,998 | -$52,998 | ❌ Perdida |
 | gmpm2 | Ohio State vs. Indiana | Ohio State | 1.75 (57¢) | $36,454 | — | ⏳ Pendiente |
 | Satanishippie | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.35 (74¢) | $30,000 | — | ⏳ Pendiente |
-| Sassy-Bucket | Spread: LSU (-16.5) | Mississippi State | 2.22 (45¢) | $48,378 | — | ⏳ Pendiente |
+| Sassy-Bucket | Spread: LSU (-16.5) | Mississippi State | 2.22 (45¢) | $48,378 | -$48,378 | ❌ Perdida |
 | DaWinci | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $81,643 | +$8,075 | ✅ Ganada |
 | 0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542 | Will RB Leipzig win on 2026-10-17? | No | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
-| Sassy-Bucket | Florida Atlantic vs. Army | Army | 1.82 (55¢) | $48,494 | — | ⏳ Pendiente |
+| Sassy-Bucket | Florida Atlantic vs. Army | Army | 1.82 (55¢) | $48,494 | +$39,677 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.75 (57¢) | $58,126 | +$43,850 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.75 (57¢) | $55,449 | +$41,830 | ✅ Ganada |
 | gmpm2 | Florida vs. Texas | Texas | 1.23 (81¢) | $32,805 | -$32,805 | ❌ Perdida |
