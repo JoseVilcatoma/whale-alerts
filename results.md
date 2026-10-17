@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 00:42:28 (hora de Perú)
+Actualizado: 2026-10-17 00:44:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5331**  ($292,119,267 en total)
-- Resueltas: **5297** — 3239 ganadas / 2058 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **5298** — 3240 ganadas / 2058 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$710,585** sobre $290,584,098 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,869** sobre $522,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$744,238** sobre $290,718,710 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,844** sobre $522,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | gransaaa | Will Fulham FC win on 2026-10-17? | Yes | 1.72 (58¢) | $43,500 | — | ⏳ Pendiente |
 | Diabolical-Prize | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 3.12 (32¢) | $47,059 | — | ⏳ Pendiente |
 | Takon88 | Will Gamba Ōsaka win on 2026-10-17? | No | 1.56 (64¢) | $30,833 | — | ⏳ Pendiente |
-| 01258787xy48487484545122 | Japan Women's Open, Qualification: Sayaka Ishii vs Elina Avanesyan | Sayaka Ishii | 1.25 (80¢) | $134,612 | — | ⏳ Pendiente |
+| 01258787xy48487484545122 | Japan Women's Open, Qualification: Sayaka Ishii vs Elina Avanesyan | Sayaka Ishii | 1.25 (80¢) | $134,612 | +$33,653 | ✅ Ganada |
 | esportsbetter1 | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
 | ethanaz | Washington vs. Purdue | Washington | 1.47 (68¢) | $110,288 | +$51,900 | ✅ Ganada |
 | ethanaz | Washington vs. Purdue | Washington | 1.41 (71¢) | $62,651 | +$25,590 | ✅ Ganada |
