@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 09:17:33 (hora de Perú)
+Actualizado: 2026-10-17 09:19:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5359**  ($293,288,024 en total)
-- Resueltas: **5309** — 3249 ganadas / 2060 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **5310** — 3250 ganadas / 2060 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 574
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,007,549** sobre $291,127,570 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,143** sobre $523,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$1,029,061** sobre $291,157,276 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$4,070** sobre $523,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 574 en total)_
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-10-17? | Yes | 1.82 (55¢) | $77,010 | — | ⏳ Pendiente |
 | sulumos | Will VfB Stuttgart win on 2026-10-17? | No | 2.17 (46¢) | $25,548 | — | ⏳ Pendiente |
 | mooseborzoii | Will SSC Napoli win on 2026-10-17? | Yes | 1.89 (53¢) | $77,088 | — | ⏳ Pendiente |
-| lfg100k | Will Club Atlético de Madrid win on 2026-10-17? | Yes | 1.72 (58¢) | $29,707 | — | ⏳ Pendiente |
+| lfg100k | Will Club Atlético de Madrid win on 2026-10-17? | Yes | 1.72 (58¢) | $29,707 | +$21,512 | ✅ Ganada |
 | mooseborzoii | Tampa Bay Rays vs. Cleveland Guardians | Cleveland Guardians | 2.04 (49¢) | $27,149 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | Aurora Gaming | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
 | Talvez10 | Sharks vs. Red Wings | Red Wings | 1.79 (56¢) | $27,699 | — | ⏳ Pendiente |
