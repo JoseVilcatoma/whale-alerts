@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 11:39:37 (hora de Perú)
+Actualizado: 2026-10-17 11:41:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5403**  ($295,484,611 en total)
-- Resueltas: **5324** — 3259 ganadas / 2065 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Resueltas: **5330** — 3265 ganadas / 2065 perdidas (**61%** de acierto)
+- Pendientes: 51
 - Apostadores distintos: 578
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,105,526** sobre $291,730,330 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,698** sobre $525,000 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$1,281,213** sobre $292,086,543 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,418** sobre $525,600 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 379 | 204 | 8 | 65% | $36,920,793 | +$1,086,034 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 380 | 204 | 7 | 65% | $36,920,793 | +$1,090,034 |
 | Sassy-Bucket | 74 | 71 | 4 | 51% | $8,459,963 | -$643,302 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| ndb1 | 24 | 12 | 2 | 67% | $2,027,534 | +$423,778 |
+| ndb1 | 25 | 12 | 1 | 68% | $2,027,534 | +$487,118 |
 | Talvez10 | 21 | 18 | 1 | 54% | $1,866,868 | +$257,433 |
 | SDTrading | 30 | 31 | 1 | 49% | $1,844,053 | -$160,793 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 3 | 2 | 91% | $1,831,141 | +$54,045 |
@@ -106,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 | sifonman | Will FC Bayern München vs. RB Leipzig end in a draw? | No | 1.15 (87¢) | $31,937 | — | ⏳ Pendiente |
 | 0000a | Spread: Brentford FC (-1.5) | Liverpool FC | 1.10 (91¢) | $30,415 | — | ⏳ Pendiente |
 | asd213457 | Brentford FC vs. Liverpool FC: Liverpool FC O/U 1.5 | Over 1.5 | 1.82 (55¢) | $28,572 | +$9,870 | 💰 Vendida antes |
-| ndb1 | Fulham FC vs. Hull City AFC: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $58,468 | — | ⏳ Pendiente |
+| ndb1 | Fulham FC vs. Hull City AFC: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $58,468 | +$63,340 | ✅ Ganada |
 | 0x361b…74fe | Real Betis Balompié vs. FC Barcelona: O/U 3.5 | Over 3.5 | 1.56 (64¢) | $34,344 | — | ⏳ Pendiente |
 | QVanguard | Will FC Barcelona win on 2026-10-17? | Yes | 1.49 (67¢) | $104,821 | — | ⏳ Pendiente |
 | 0000a | Mississippi State vs. LSU | LSU | 1.14 (88¢) | $215,600 | — | ⏳ Pendiente |
@@ -115,14 +115,14 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 | raybanman | Will Aston Villa FC win on 2026-10-17? | No | 1.49 (67¢) | $173,150 | — | ⏳ Pendiente |
 | SDTrading | Spread: Notre Dame (-10.5) | BYU | 1.96 (51¢) | $30,729 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Maia: Francesco Passaro vs Matej Dodig | Francesco Passaro | 2.17 (46¢) | $25,070 | +$29,429 | ✅ Ganada |
-| Cbs710 | Will Ipswich Town FC win on 2026-10-17? | No | 1.08 (93¢) | $76,265 | — | ⏳ Pendiente |
+| Cbs710 | Will Ipswich Town FC win on 2026-10-17? | No | 1.08 (93¢) | $76,265 | +$5,740 | ✅ Ganada |
 | Zzzz87 | Manchester City FC vs. Ipswich Town FC: O/U 3.5 | Over 3.5 | 1.89 (53¢) | $48,012 | +$42,577 | ✅ Ganada |
 | lfg100k | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.69 (59¢) | $41,367 | -$41,367 | ❌ Perdida |
 | Dragon-Evolution | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Thunderpick World Championship Playoffs | FURIA | 1.89 (53¢) | $36,079 | +$31,995 | ✅ Ganada |
 | Roadto1mlesgooo | Manchester City FC vs. Ipswich Town FC: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $28,338 | — | ⏳ Pendiente |
 | Flaznorp | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $29,587 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ipswich Town FC win on 2026-10-17? | No | 1.11 (90¢) | $36,000 | — | ⏳ Pendiente |
-| beeemw | Will Ipswich Town FC win on 2026-10-17? | No | 1.09 (92¢) | $49,760 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ipswich Town FC win on 2026-10-17? | No | 1.11 (90¢) | $36,000 | +$4,000 | ✅ Ganada |
+| beeemw | Will Ipswich Town FC win on 2026-10-17? | No | 1.09 (92¢) | $49,760 | +$4,327 | ✅ Ganada |
 | HVAB | Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska | Maja Chwalinska | 2.13 (47¢) | $39,568 | +$44,619 | ✅ Ganada |
 | Zzzz87 | Will Manchester City FC win on 2026-10-17? | Yes | 1.28 (78¢) | $86,241 | — | ⏳ Pendiente |
 | jonjones1993 | Will SSC Napoli win on 2026-10-17? | No | 2.13 (47¢) | $42,300 | +$47,700 | ✅ Ganada |
