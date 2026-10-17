@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 11:27:07 (hora de Perú)
+Actualizado: 2026-10-17 11:29:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5396**  ($295,228,366 en total)
+- Apuestas registradas: **5399**  ($295,345,123 en total)
 - Resueltas: **5318** — 3256 ganadas / 2062 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 59
 - Apostadores distintos: 578
 
 ### Balance
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $32,588 | — | ⏳ Pendiente |
+| beeemw | Will Real Betis Balompié win on 2026-10-17? | No | 1.15 (87¢) | $48,053 | — | ⏳ Pendiente |
+| gambamaster | Will Newcastle United FC win on 2026-10-17? | No | 1.82 (55¢) | $36,116 | — | ⏳ Pendiente |
 | ndb1 | Will Newcastle United FC win on 2026-10-17? | No | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | tankfest2027 | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,571 | — | ⏳ Pendiente |
 | raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $90,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 578 en total)_
 | Talvez10 | Sharks vs. Red Wings | Red Wings | 1.79 (56¢) | $27,699 | — | ⏳ Pendiente |
 | Flaznorp | Will Everton FC win on 2026-10-17? | No | 1.49 (67¢) | $39,219 | +$19,317 | ✅ Ganada |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Everton FC vs. Chelsea FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 1.96 (51¢) | $27,959 | +$26,862 | ✅ Ganada |
-| plonker2026 | Will Chelsea FC win on 2026-10-17? | No | 1.69 (59¢) | $25,015 | -$25,015 | ❌ Perdida |
-| plonker2026 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| arjennnnn | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.19 (84¢) | $44,106 | +$8,401 | ✅ Ganada |

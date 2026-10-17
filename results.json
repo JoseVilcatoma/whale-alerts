@@ -81108,5 +81108,50 @@
     "status": "pending",
     "ultimo_fill": 1792254132,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10951,
+    "timestamp": 1792254452,
+    "username": "gambamaster",
+    "wallet": "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de",
+    "slug": "epl-new-ast-2026-10-17-new",
+    "title": "Will Newcastle United FC win on 2026-10-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 36116.3,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1792254452,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10952,
+    "timestamp": 1792254509,
+    "username": "beeemw",
+    "wallet": "0x1e386b0e0f1fc58c67ce738d7bbc4ba7ec74fd47",
+    "slug": "lal-bet-bar-2026-10-17-bet",
+    "title": "Will Real Betis Balompi\u00e9 win on 2026-10-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 48053.197199999995,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1792254509,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10953,
+    "timestamp": 1792254525,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "cs2-fal2-bb3-2026-10-17",
+    "title": "Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 32587.588799999998,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1792254525,
+    "fills": 1
   }
 ]
