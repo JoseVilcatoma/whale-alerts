@@ -80206,5 +80206,20 @@
     "status": "pending",
     "ultimo_fill": 1792229575,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 10870,
+    "timestamp": 1792229980,
+    "username": "arjennnnn",
+    "wallet": "0x24ded84d901a743cfee095f8082b0f9f647183cb",
+    "slug": "lol-fox1-we-2026-10-17",
+    "title": "LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 44106.207599999994,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1792229980,
+    "fills": 1
   }
 ]
