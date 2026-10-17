@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 10:12:51 (hora de Perú)
+Actualizado: 2026-10-17 10:14:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5372**  ($294,144,639 en total)
+- Apuestas registradas: **5373**  ($294,172,561 en total)
 - Resueltas: **5311** — 3251 ganadas / 2060 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 576
 
 ### Balance
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 24 | 12 | 1 | 67% | $2,000,034 | +$423,778 |
 | Talvez10 | 21 | 18 | 1 | 54% | $1,866,868 | +$257,433 |
 | SDTrading | 30 | 31 | 1 | 49% | $1,844,053 | -$160,793 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 3 | 2 | 91% | $1,831,141 | +$54,045 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 29 | 3 | 1 | 91% | $1,803,219 | +$54,045 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | 0x361b…74fe | 25 | 2 | 1 | 93% | $1,758,963 | +$811,651 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 576 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Roadto1mlesgooo | Brentford FC vs. Liverpool FC: O/U 1.5 | Over 1.5 | 1.12 (89¢) | $27,922 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Mississippi State vs. LSU | LSU | 1.14 (88¢) | $38,946 | — | ⏳ Pendiente |
 | sifonman | Will FC Bayern München vs. RB Leipzig end in a draw? | No | 1.15 (87¢) | $31,937 | — | ⏳ Pendiente |
 | 0000a | Spread: Brentford FC (-1.5) | Liverpool FC | 1.10 (91¢) | $30,415 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 576 en total)_
 | bluemol | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $30,000 | +$14,118 | ✅ Ganada |
 | halanddd123 | Celtics vs. 76ers | 76ers | 1.37 (73¢) | $26,339 | -$26,339 | ❌ Perdida |
 | para-Vision | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.96 (51¢) | $41,825 | — | ⏳ Pendiente |
-| blgmsiwin | LoL: FURIA Esports vs Cloud9 - Game 4 Winner | Cloud9 | 1.37 (73¢) | $43,674 | -$43,674 | ❌ Perdida |
