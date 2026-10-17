@@ -80176,5 +80176,35 @@
     "status": "pending",
     "ultimo_fill": 1792223183,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 10868,
+    "timestamp": 1792229545,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "atp-zverev-fokina-2026-10-16",
+    "title": "Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "usd": 38524.167,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1792229545,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 10869,
+    "timestamp": 1792229573,
+    "username": "kansann121",
+    "wallet": "0xc4373f98a0ec7acb54485b322a1011bd2e619886",
+    "slug": "lol-fox1-we-2026-10-17",
+    "title": "LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 61359.595400000006,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1792229575,
+    "fills": 2
   }
 ]
