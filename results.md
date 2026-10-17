@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 22:57:18 (hora de Perú)
+Actualizado: 2026-10-16 22:59:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5327**  ($291,883,827 en total)
-- Resueltas: **5292** — 3236 ganadas / 2056 perdidas (**61%** de acierto)
+- Apuestas registradas: **5328**  ($291,930,886 en total)
+- Resueltas: **5293** — 3237 ganadas / 2056 perdidas (**61%** de acierto)
 - Pendientes: 13
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$708,937** sobre $290,387,918 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,826** sobre $521,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$730,569** sobre $290,428,092 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$4,772** sobre $522,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,8 +25,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 375 | 204 | 3 | 65% | $36,536,052 | +$962,995 |
-| Sassy-Bucket | 73 | 70 | 4 | 51% | $8,363,091 | -$637,340 |
-| Diabolical-Prize | 69 | 62 | 0 | 53% | $7,166,504 | +$502,454 |
+| Sassy-Bucket | 74 | 70 | 3 | 51% | $8,363,091 | -$615,708 |
+| Diabolical-Prize | 69 | 62 | 1 | 53% | $7,213,563 | +$502,454 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 93 | 83 | 0 | 53% | $7,149,030 | -$419,028 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 3.12 (32¢) | $47,059 | — | ⏳ Pendiente |
 | Takon88 | Will Gamba Ōsaka win on 2026-10-17? | No | 1.56 (64¢) | $30,833 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Japan Women's Open, Qualification: Sayaka Ishii vs Elina Avanesyan | Sayaka Ishii | 1.25 (80¢) | $134,612 | — | ⏳ Pendiente |
 | esportsbetter1 | Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs | Team Vitality | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
@@ -80,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | Sassy-Bucket | Bruins vs. Ducks | Ducks | 2.04 (49¢) | $27,594 | — | ⏳ Pendiente |
 | para-Vision | Bruins vs. Ducks | Bruins | 1.96 (51¢) | $40,800 | — | ⏳ Pendiente |
 | arjennnnn | Celtics vs. 76ers | 76ers | 1.12 (89¢) | $28,294 | -$28,294 | ❌ Perdida |
-| Sassy-Bucket | Penguins vs. Avalanche | Avalanche | 1.54 (65¢) | $40,173 | — | ⏳ Pendiente |
+| Sassy-Bucket | Penguins vs. Avalanche | Avalanche | 1.54 (65¢) | $40,173 | +$21,632 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. 76ers | 76ers | 1.39 (72¢) | $28,400 | -$28,400 | ❌ Perdida |
 | bluemol | LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs | BNK FEARX | 1.47 (68¢) | $30,000 | — | ⏳ Pendiente |
 | halanddd123 | Celtics vs. 76ers | 76ers | 1.37 (73¢) | $26,339 | -$26,339 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | lllllllIlll | Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs | MIBR | 1.79 (56¢) | $27,401 | +$21,530 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Aurora Gaming vs 9z (BO3) - Thunderpick World Championship Group A | Aurora Gaming | 1.47 (68¢) | $25,590 | +$12,043 | ✅ Ganada |
 | corkmaster420blaezit | LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In | Karmine Corp | 1.20 (83¢) | $86,707 | +$17,759 | ✅ Ganada |
-| tankfest2027 | Valorant: 100 Thieves vs G2 Esports (BO3) - VCT Champions Playoffs | 100 Thieves | 1.69 (59¢) | $28,331 | +$19,687 | ✅ Ganada |
