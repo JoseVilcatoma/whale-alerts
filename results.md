@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-16 20:26:17 (hora de Perú)
+Actualizado: 2026-10-16 20:28:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5320**  ($291,460,197 en total)
-- Resueltas: **5280** — 3231 ganadas / 2049 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **5281** — 3231 ganadas / 2050 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 573
 
 ### Balance
 
-- **Resultado de los apostadores: +$743,316** sobre $289,884,902 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$4,436** sobre $520,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$718,313** sobre $289,909,906 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,536** sobre $520,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 87 | 44 | 0 | 66% | $5,666,469 | +$44,465 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
-| Lakersfan111 | 61 | 39 | 1 | 61% | $5,100,805 | -$13,743 |
+| Lakersfan111 | 61 | 40 | 0 | 60% | $5,100,805 | -$38,747 |
 | ethanaz | 48 | 21 | 0 | 70% | $4,260,815 | -$86,799 |
 | BrotherObama | 40 | 48 | 4 | 45% | $4,132,955 | -$253,237 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 573 en total)_
 | Kkunn | Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B | Legacy | 2.50 (40¢) | $28,864 | -$28,864 | ❌ Perdida |
 | joseph00677 | Will Eintracht Frankfurt win on 2026-10-16? | Yes | 1.82 (55¢) | $245,706 | +$201,032 | ✅ Ganada |
 | BrotherObama | Spread: Memphis (-6.5) | Memphis | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
-| corkmaster420blaezit | Game Handicap: C9 (-1.5) vs FURIA Esports (+1.5) | Cloud9 | 1.49 (67¢) | $25,004 | — | ⏳ Pendiente |
+| corkmaster420blaezit | Game Handicap: C9 (-1.5) vs FURIA Esports (+1.5) | Cloud9 | 1.49 (67¢) | $25,004 | -$25,004 | ❌ Perdida |
 | corkmaster420blaezit | Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5) | Cloud9 | 2.56 (39¢) | $25,930 | -$25,930 | ❌ Perdida |
 | corkmaster420blaezit | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | Cloud9 | 1.20 (83¢) | $70,526 | -$70,526 | ❌ Perdida |
 | Diabolical-Prize | LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In | FURIA Esports | 5.88 (17¢) | $51,000 | +$249,000 | ✅ Ganada |
