@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:19:51 (hora de Perú)
+Actualizado: 2026-10-18 10:21:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5535**  ($305,292,799 en total)
-- Resueltas: **5461** — 3348 ganadas / 2113 perdidas (**61%** de acierto)
+- Apuestas registradas: **5536**  ($305,318,599 en total)
+- Resueltas: **5462** — 3348 ganadas / 2114 perdidas (**61%** de acierto)
 - Pendientes: 52
 - Apostadores distintos: 589
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,240,001** sobre $300,426,874 apostados (ROI **+0.4%**)
+- **Resultado de los apostadores: +$1,235,464** sobre $300,482,452 apostados (ROI **+0.4%**)
 - Copiando $100 fijo en cada una: **-$3,183** sobre $538,600 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Nooserac | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $25,800 | — | ⏳ Pendiente |
 | S-Works | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $135,020 | — | ⏳ Pendiente |
 | migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.39 (72¢) | $75,000 | — | ⏳ Pendiente |
 | migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.41 (71¢) | $35,225 | — | ⏳ Pendiente |
@@ -95,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | ksp15 | Texans vs. Jaguars | Jaguars | 1.75 (57¢) | $53,045 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $51,435 | — | ⏳ Pendiente |
 | Flaznorp | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $26,307 | — | ⏳ Pendiente |
-| JambonMogettes | Bears vs. Falcons: O/U 52.5 | Over 52.5 | 2.04 (49¢) | $55,578 | — | ⏳ Pendiente |
+| JambonMogettes | Bears vs. Falcons: O/U 52.5 | Over 52.5 | 2.04 (49¢) | $55,578 | -$4,537 | 💰 Vendida antes |
 | migrodrigues | Will Sevilla FC win on 2026-10-18? | Yes | 12.50 (8¢) | $35,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $86,211 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Brighton & Hove Albion FC (-1.5) | Brighton & Hove Albion FC | 2.33 (43¢) | $40,994 | +$54,341 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | migrodrigues | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $25,000 | — | ⏳ Pendiente |
 | Zzzz87 | Udinese Calcio vs. US Lecce: O/U 2.5 | Over 2.5 | 2.08 (48¢) | $33,238 | +$36,008 | ✅ Ganada |
 | lfg100k | Will Arsenal FC win on 2026-10-18? | Yes | 1.59 (63¢) | $40,000 | — | ⏳ Pendiente |
-| beeemw | Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Rafael Jodar | Rafael Jodar | 1.25 (80¢) | $25,600 | -$25,600 | ❌ Perdida |
