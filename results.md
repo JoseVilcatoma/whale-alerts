@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:55:19 (hora de Perú)
+Actualizado: 2026-10-18 15:57:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5653**  ($312,817,363 en total)
-- Resueltas: **5546** — 3400 ganadas / 2146 perdidas (**61%** de acierto)
-- Pendientes: 85
+- Apuestas registradas: **5654**  ($312,868,271 en total)
+- Resueltas: **5553** — 3402 ganadas / 2151 perdidas (**61%** de acierto)
+- Pendientes: 79
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,254,663** sobre $306,355,386 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,325** sobre $546,700 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$887,873** sobre $306,838,486 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,770** sobre $547,400 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,12 +31,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | totoro3miyazaki | 34 | 21 | 1 | 62% | $6,664,377 | -$423,776 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| ferrariChampions2026 | 94 | 44 | 4 | 68% | $6,317,876 | +$319,824 |
+| ferrariChampions2026 | 94 | 45 | 3 | 68% | $6,317,876 | +$178,251 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 18 | 3 | 62% | $5,594,771 | +$1,086,392 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| mooseborzoii | 57 | 30 | 7 | 66% | $5,342,581 | +$1,062,032 |
+| mooseborzoii | 57 | 31 | 6 | 65% | $5,342,581 | +$922,992 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 54 | 23 | 0 | 70% | $4,821,947 | -$159,048 |
 | BrotherObama | 43 | 49 | 4 | 47% | $4,270,413 | -$161,127 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $50,907 | — | ⏳ Pendiente |
 | BrotherObama | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $37,000 | — | ⏳ Pendiente |
 | Laskhask | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $29,883 | — | ⏳ Pendiente |
 | takeormake | Bills vs. Raiders | Raiders | 2.86 (35¢) | $49,995 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | mooseborzoii | Will Olympique Lyonnais win on 2026-10-18? | Yes | 2.00 (50¢) | $167,559 | — | ⏳ Pendiente |
 | Jittz | Steelers vs. Buccaneers | Buccaneers | 1.25 (80¢) | $44,800 | — | ⏳ Pendiente |
 | ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
-| mooseborzoii | Will Olympique Lyonnais win on 2026-10-18? | Yes | 1.96 (51¢) | $41,399 | — | ⏳ Pendiente |
