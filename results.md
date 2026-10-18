@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:22:24 (hora de Perú)
+Actualizado: 2026-10-18 15:24:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5640**  ($311,743,440 en total)
+- Apuestas registradas: **5641**  ($311,939,440 en total)
 - Resueltas: **5525** — 3383 ganadas / 2142 perdidas (**61%** de acierto)
-- Pendientes: 93
+- Pendientes: 94
 - Apostadores distintos: 596
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 52 | 23 | 2 | 69% | $4,821,947 | -$192,159 |
 | BrotherObama | 43 | 49 | 3 | 47% | $4,233,413 | -$161,127 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| maz26 | 31 | 21 | 0 | 60% | $3,483,480 | +$161,369 |
+| maz26 | 31 | 21 | 1 | 60% | $3,679,480 | +$161,369 |
 | surfandturf | 31 | 9 | 1 | 78% | $3,441,382 | +$404,362 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 10 | 2 | 79% | $3,280,526 | +$1,797,887 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Spread: Bills (-4.5) | Raiders | 2.04 (49¢) | $196,000 | — | ⏳ Pendiente |
 | Electricy | Spread: Bills (-5.5) | Bills | 2.08 (48¢) | $52,166 | — | ⏳ Pendiente |
 | mooseborzoii | Steelers vs. Buccaneers | Buccaneers | 2.22 (45¢) | $56,774 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.82 (55¢) | $31,546 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | mooseborzoii | Saints vs. Giants | Giants | 2.04 (49¢) | $126,159 | — | ⏳ Pendiente |
 | Sassy-Bucket | Steelers vs. Buccaneers | Steelers | 1.75 (57¢) | $199,544 | — | ⏳ Pendiente |
 | HVAB | W50 Quebec City: Kajsa Rinaldo Persson vs Mimi Xu | Kajsa Rinaldo Persson | 1.30 (77¢) | $26,566 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Bears vs. Falcons | Falcons | 2.08 (48¢) | $141,573 | — | ⏳ Pendiente |

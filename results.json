@@ -84778,5 +84778,20 @@
     "status": "pending",
     "ultimo_fill": 1792354601,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11407,
+    "timestamp": 1792354950,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-buf-lv-2026-10-18-spread-away-4pt5",
+    "title": "Spread: Bills (-4.5)",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "usd": 196000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792354950,
+    "fills": 1
   }
 ]
