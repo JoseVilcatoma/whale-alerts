@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 14:22:38 (hora de Perú)
+Actualizado: 2026-10-18 14:24:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5624**  ($310,959,308 en total)
+- Apuestas registradas: **5625**  ($311,018,879 en total)
 - Resueltas: **5514** — 3379 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 88
+- Pendientes: 89
 - Apostadores distintos: 594
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Laskhask | Panthers vs. Eagles | Panthers | 1.30 (77¢) | $59,571 | — | ⏳ Pendiente |
 | cosmicxbt | Saints vs. Giants | Saints | 1.10 (91¢) | $99,583 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Panthers vs. Eagles | Panthers | 1.37 (73¢) | $26,494 | — | ⏳ Pendiente |
 | ethanaz | Ravens vs. Browns | Ravens | 1.11 (90¢) | $32,118 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 | takeormake | Titans vs. Colts | Titans | 3.57 (28¢) | $30,000 | — | ⏳ Pendiente |
 | 778908 | Texans vs. Jaguars | Texans | 1.12 (89¢) | $78,984 | +$9,762 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Jaguars | Texans | 1.16 (86¢) | $39,619 | +$6,450 | ✅ Ganada |
-| Anon455 | Texans vs. Jaguars | Texans | 1.16 (86¢) | $61,884 | +$10,074 | ✅ Ganada |
