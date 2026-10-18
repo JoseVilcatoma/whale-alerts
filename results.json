@@ -83060,5 +83060,20 @@
     "status": "pending",
     "ultimo_fill": 1792334822,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11218,
+    "timestamp": 1792334978,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "epl-not-ars-2026-10-18-total-2pt5",
+    "title": "Nottingham Forest FC vs. Arsenal FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 67614.06599999999,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792334990,
+    "fills": 2
   }
 ]

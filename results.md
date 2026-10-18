@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 09:48:42 (hora de Perú)
+Actualizado: 2026-10-18 09:50:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5526**  ($304,722,537 en total)
+- Apuestas registradas: **5527**  ($304,790,151 en total)
 - Resueltas: **5448** — 3338 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 57
 - Apostadores distintos: 589
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zzzz87 | Nottingham Forest FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $67,614 | — | ⏳ Pendiente |
 | sulumos | Texans vs. Jaguars | Jaguars | 1.89 (53¢) | $30,740 | — | ⏳ Pendiente |
 | ndb1 | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $53,846 | — | ⏳ Pendiente |
 | CongoleseBorat | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $46,022 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | acorp | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | BetBoom Team | 2.22 (45¢) | $33,840 | — | ⏳ Pendiente |
 | Sassy-Bucket | Nebraska vs. Oregon | Oregon | 1.79 (56¢) | $36,674 | +$28,815 | ✅ Ganada |
 | BrotherObama | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | LOUD | 1.69 (59¢) | $31,111 | +$21,620 | ✅ Ganada |
-| 01258787xy48487484545122 | Japan Women's Open, Qualification: Taylah Preston vs Emerson Jones | Emerson Jones | 1.15 (87¢) | $171,413 | +$25,613 | ✅ Ganada |
