@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 16:28:13 (hora de Perú)
+Actualizado: 2026-10-18 16:30:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5657**  ($313,048,462 en total)
-- Resueltas: **5588** — 3423 ganadas / 2165 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Resueltas: **5590** — 3424 ganadas / 2166 perdidas (**61%** de acierto)
+- Pendientes: 45
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: +$409,843** sobre $309,172,413 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,959** sobre $550,900 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$390,725** sobre $309,390,059 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,051** sobre $551,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ndb1 | 27 | 12 | 0 | 69% | $2,081,380 | +$511,157 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
-| S-Works | 10 | 5 | 2 | 67% | $1,900,606 | -$195,755 |
+| S-Works | 11 | 5 | 1 | 69% | $1,900,606 | -$179,873 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Talvez10 | 22 | 18 | 0 | 55% | $1,866,868 | +$279,196 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
