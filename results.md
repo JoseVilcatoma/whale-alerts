@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 13:55:32 (hora de Perú)
+Actualizado: 2026-10-18 13:57:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5617**  ($310,572,080 en total)
+- Apuestas registradas: **5619**  ($310,661,243 en total)
 - Resueltas: **5514** — 3379 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 81
+- Pendientes: 83
 - Apostadores distintos: 593
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 593 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $63,869 | — | ⏳ Pendiente |
+| yoyoyoyoer | Saints vs. Giants | Saints | 1.41 (71¢) | $25,294 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $26,211 | — | ⏳ Pendiente |
 | ArielFilipino | Spread: Rams (-13.5) | Cardinals | 1.89 (53¢) | $30,846 | — | ⏳ Pendiente |
 | alwaysfade | Spread: Rams (-13.5) | Rams | 2.13 (47¢) | $27,348 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 593 en total)_
 | RegardedMoney | Spread: Panthers (-2.5) | Eagles | 2.22 (45¢) | $41,154 | — | ⏳ Pendiente |
 | Anon455 | Texans vs. Jaguars | Texans | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
 | Herdonia | Chargers vs. Chiefs | Chiefs | 1.28 (78¢) | $25,879 | — | ⏳ Pendiente |
-| mooseborzoii | Texans vs. Jaguars | Texans | 1.47 (68¢) | $86,129 | +$40,531 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Jaguars | Texans | 1.45 (69¢) | $25,079 | +$11,267 | ✅ Ganada |
