@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 12:44:57 (hora de Perú)
+Actualizado: 2026-10-18 12:47:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5589**  ($308,904,858 en total)
-- Resueltas: **5502** — 3373 ganadas / 2129 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Resueltas: **5511** — 3377 ganadas / 2134 perdidas (**61%** de acierto)
+- Pendientes: 56
 - Apostadores distintos: 591
 
 ### Balance
 
-- **Resultado de los apostadores: +$831,746** sobre $302,742,713 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,068** sobre $542,400 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,428,323** sobre $304,307,778 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$3,345** sobre $543,300 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,14 +24,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 391 | 212 | 9 | 65% | $38,292,958 | +$832,497 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 392 | 212 | 8 | 65% | $38,292,958 | +$884,109 |
 | Sassy-Bucket | 77 | 74 | 5 | 51% | $9,351,790 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | totoro3miyazaki | 34 | 21 | 1 | 62% | $6,664,377 | -$423,776 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| joseph00677 | 20 | 2 | 1 | 91% | $6,233,207 | +$2,495,685 |
+| joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | ferrariChampions2026 | 92 | 44 | 2 | 68% | $6,186,132 | +$274,278 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Talvez10 | 22 | 18 | 0 | 55% | $1,866,868 | +$279,196 |
-| Weaseloftheweek | 18 | 17 | 1 | 51% | $1,833,222 | -$75,955 |
+| Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
 | 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
@@ -120,8 +120,8 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | ethanaz | Texans vs. Jaguars | Texans | 1.37 (73¢) | $31,514 | +$11,656 | ✅ Ganada |
 | mooseborzoii | Spread: Ravens (-3.5) | Ravens | 2.13 (47¢) | $60,209 | — | ⏳ Pendiente |
 | gambamaster | Texans vs. Jaguars | Texans | 1.30 (77¢) | $36,117 | +$10,788 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-10-18? | Yes | 1.56 (64¢) | $91,755 | — | ⏳ Pendiente |
-| Mooseborzoiii | Will Arsenal FC win on 2026-10-18? | No | 2.78 (36¢) | $30,280 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-10-18? | Yes | 1.56 (64¢) | $91,755 | +$51,612 | ✅ Ganada |
+| Mooseborzoiii | Will Arsenal FC win on 2026-10-18? | No | 2.78 (36¢) | $30,280 | -$30,280 | ❌ Perdida |
 | Nooserac | Texans vs. Jaguars | Texans | 1.56 (64¢) | $37,073 | +$20,854 | ✅ Ganada |
 | richbeak | Texans vs. Jaguars | Jaguars | 2.33 (43¢) | $195,968 | -$195,968 | ❌ Perdida |
 | Nooserac | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $25,800 | — | ⏳ Pendiente |
@@ -129,5 +129,5 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.39 (72¢) | $75,000 | — | ⏳ Pendiente |
 | migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.41 (71¢) | $35,225 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.39 (72¢) | $48,285 | — | ⏳ Pendiente |
-| Weaseloftheweek | Will Arsenal FC win on 2026-10-18? | Yes | 1.54 (65¢) | $64,273 | — | ⏳ Pendiente |
+| Weaseloftheweek | Will Arsenal FC win on 2026-10-18? | Yes | 1.54 (65¢) | $64,273 | +$34,609 | ✅ Ganada |
 | takeormake | Panthers vs. Eagles | Panthers | 1.67 (60¢) | $50,000 | — | ⏳ Pendiente |
