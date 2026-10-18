@@ -82055,5 +82055,20 @@
     "status": "pending",
     "ultimo_fill": 1792286226,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11113,
+    "timestamp": 1792287817,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-nd-byu-2026-10-17",
+    "title": "Notre Dame vs. BYU",
+    "outcome": "Notre Dame",
+    "side": "BUY",
+    "usd": 45505.1271,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1792287817,
+    "fills": 1
   }
 ]
