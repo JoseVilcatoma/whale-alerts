@@ -85153,5 +85153,20 @@
     "status": "pending",
     "ultimo_fill": 1792363016,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11514,
+    "timestamp": 1792364596,
+    "username": "0F62",
+    "wallet": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+    "slug": "mlb-tb-cle-2026-10-17",
+    "title": "Tampa Bay Rays vs. Cleveland Guardians",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 47407.4544,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1792364596,
+    "fills": 1
   }
 ]
