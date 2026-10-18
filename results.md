@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 11:17:12 (hora de Perú)
+Actualizado: 2026-10-18 11:19:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5553**  ($306,326,066 en total)
+- Apuestas registradas: **5557**  ($306,499,681 en total)
 - Resueltas: **5477** — 3354 ganadas / 2123 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 58
 - Apostadores distintos: 590
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 388 | 212 | 8 | 65% | $38,110,245 | +$785,202 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 388 | 212 | 10 | 65% | $38,228,260 | +$785,202 |
 | Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Panthers (-5.5) | Eagles | 1.69 (59¢) | $41,803 | — | ⏳ Pendiente |
+| Anon455 | Texans vs. Jaguars | Texans | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Panthers (-4.5) | Eagles | 1.75 (57¢) | $76,212 | — | ⏳ Pendiente |
+| takeormake | Spread: Panthers (-3.5) | Panthers | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
 | lfg100k | Will Real Madrid CF win on 2026-10-18? | Yes | 1.25 (80¢) | $58,000 | — | ⏳ Pendiente |
 | mooseborzoii | Texans vs. Jaguars | Texans | 1.49 (67¢) | $32,805 | — | ⏳ Pendiente |
 | mooseborzoii | Texans vs. Jaguars | Texans | 1.23 (81¢) | $61,101 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Joao Domingues vs Ivan Gakhov | Ivan Gakhov | 1.47 (68¢) | $40,651 | -$40,651 | ❌ Perdida |
 | Kch-Temp | Titans vs. Colts: O/U 44.5 | Under 44.5 | 1.96 (51¢) | $41,902 | — | ⏳ Pendiente |
 | mooseborzoii | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $90,393 | +$119,823 | ✅ Ganada |
-| totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.79 (56¢) | $234,440 | -$234,440 | ❌ Perdida |
-| Siddhartha1 | Spread: Steelers (-2.5) | Steelers | 2.00 (50¢) | $35,044 | — | ⏳ Pendiente |
-| juice-fruit | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $150,480 | +$70,814 | ✅ Ganada |
-| Takon88 | Will AFC Bournemouth win on 2026-10-18? | Yes | 2.17 (46¢) | $35,207 | +$41,330 | ✅ Ganada |
