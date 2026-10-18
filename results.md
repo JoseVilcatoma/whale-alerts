@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 06:22:04 (hora de Perú)
+Actualizado: 2026-10-18 06:24:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5485**  ($300,657,172 en total)
+- Apuestas registradas: **5487**  ($300,889,272 en total)
 - Resueltas: **5445** — 3336 ganadas / 2109 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 20
 - Apostadores distintos: 587
 
 ### Balance
@@ -36,8 +36,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
+| joseph00677 | 16 | 2 | 2 | 89% | $4,667,551 | +$2,066,720 |
 | ethanaz | 51 | 22 | 0 | 70% | $4,665,455 | -$171,697 |
-| joseph00677 | 16 | 2 | 1 | 89% | $4,467,451 | +$2,066,720 |
 | BrotherObama | 43 | 49 | 2 | 47% | $4,208,413 | -$161,127 |
 | mooseborzoii | 51 | 27 | 1 | 65% | $4,080,181 | +$971,347 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.45 (69¢) | $200,100 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Brighton & Hove Albion FC win on 2026-10-18? | No | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
 | joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.49 (67¢) | $368,267 | — | ⏳ Pendiente |
 | hfv | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $30,578 | — | ⏳ Pendiente |
 | Kkunn | Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.72 (58¢) | $27,395 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 | KaneAnalytics | Florida vs. Texas | Florida | 1.54 (65¢) | $35,083 | +$18,891 | ✅ Ganada |
 | KaneAnalytics | Ohio State vs. Indiana | Ohio State | 1.11 (90¢) | $44,395 | +$4,933 | ✅ Ganada |
 | KaneAnalytics | Florida vs. Texas | Florida | 1.16 (86¢) | $43,109 | +$7,018 | ✅ Ganada |
-| Woaifacai | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 1.59 (63¢) | $53,607 | +$31,483 | ✅ Ganada |
-| Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.39 (72¢) | $88,278 | +$34,330 | ✅ Ganada |
