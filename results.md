@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 13:01:24 (hora de Perú)
+Actualizado: 2026-10-18 13:03:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5592**  ($308,983,852 en total)
+- Apuestas registradas: **5593**  ($309,166,499 en total)
 - Resueltas: **5512** — 3377 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Pendientes: 59
 - Apostadores distintos: 591
 
 ### Balance
@@ -56,13 +56,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ndb1 | 27 | 12 | 0 | 69% | $2,081,380 | +$511,157 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
+| S-Works | 10 | 5 | 2 | 67% | $1,900,606 | -$195,755 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Talvez10 | 22 | 18 | 0 | 55% | $1,866,868 | +$279,196 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
 | 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
-| S-Works | 10 | 5 | 1 | 67% | $1,717,959 | -$195,755 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 
 _(mostrando los 40 de mayor monto, de 591 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | Will Sevilla FC win on 2026-10-18? | No | 1.09 (92¢) | $182,647 | — | ⏳ Pendiente |
 | 778908 | Panthers vs. Eagles | Panthers | 1.41 (71¢) | $27,157 | — | ⏳ Pendiente |
 | ColdBlooded | Game Handicap: KC (-1.5) vs MVK Esports (+1.5) | Karmine Corp | 1.30 (77¢) | $25,637 | — | ⏳ Pendiente |
 | ethanaz | Panthers vs. Eagles | Panthers | 1.37 (73¢) | $26,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | Nooserac | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $25,800 | — | ⏳ Pendiente |
 | S-Works | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $135,020 | — | ⏳ Pendiente |
 | migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.39 (72¢) | $75,000 | — | ⏳ Pendiente |
-| migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.41 (71¢) | $35,225 | — | ⏳ Pendiente |
