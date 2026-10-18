@@ -84581,5 +84581,20 @@
     "status": "pending",
     "ultimo_fill": 1792351761,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11383,
+    "timestamp": 1792351975,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "nfl-bal-cle-2026-10-18",
+    "title": "Ravens vs. Browns",
+    "outcome": "Browns",
+    "side": "BUY",
+    "usd": 30500.0,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1792351975,
+    "fills": 1
   }
 ]
