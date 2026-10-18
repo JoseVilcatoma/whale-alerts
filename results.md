@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 12:24:12 (hora de Perú)
+Actualizado: 2026-10-18 12:26:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5586**  ($308,766,325 en total)
+- Apuestas registradas: **5588**  ($308,867,930 en total)
 - Resueltas: **5479** — 3355 ganadas / 2124 perdidas (**61%** de acierto)
-- Pendientes: 85
+- Pendientes: 87
 - Apostadores distintos: 591
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Bears vs. Falcons | Bears | 1.28 (78¢) | $51,395 | — | ⏳ Pendiente |
+| gambamaster | Ravens vs. Browns | Ravens | 1.22 (82¢) | $50,211 | — | ⏳ Pendiente |
 | KaneAnalytics | Panthers vs. Eagles | Panthers | 1.43 (70¢) | $42,979 | — | ⏳ Pendiente |
 | lfg100k | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.61 (62¢) | $52,000 | — | ⏳ Pendiente |
 | mooseborzoii | Saints vs. Giants | Giants | 2.04 (49¢) | $126,159 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | Weaseloftheweek | Will Arsenal FC win on 2026-10-18? | Yes | 1.54 (65¢) | $64,273 | — | ⏳ Pendiente |
 | takeormake | Panthers vs. Eagles | Panthers | 1.67 (60¢) | $50,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texans vs. Jaguars | Texans | 2.00 (50¢) | $26,047 | — | ⏳ Pendiente |
-| gambamaster | Texans vs. Jaguars | Jaguars | 1.64 (61¢) | $68,799 | — | ⏳ Pendiente |
-| Zzzz87 | Nottingham Forest FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $67,614 | — | ⏳ Pendiente |
