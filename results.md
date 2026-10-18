@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 22:21:15 (hora de Perú)
+Actualizado: 2026-10-17 22:23:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5467**  ($299,729,479 en total)
-- Resueltas: **5424** — 3325 ganadas / 2099 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **5426** — 3327 ganadas / 2099 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 585
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,026,062** sobre $297,194,816 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,196** sobre $534,900 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,060,952** sobre $297,306,538 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,120** sobre $535,100 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,14 +73,14 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 |---|---|---|---|---|---|---|
 | 01258787xy48487484545122 | Japan Women's Open, Qualification: Taylah Preston vs Emerson Jones | Emerson Jones | 1.15 (87¢) | $171,413 | — | ⏳ Pendiente |
 | ethanaz | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $185,262 | — | ⏳ Pendiente |
-| 0xb4bFC90A6f76A9cD2A7BBb12D5a7BF439729fa41-1788881896364 | Florida State vs. Miami (FL) | Miami (FL) | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
+| 0xb4bFC90A6f76A9cD2A7BBb12D5a7BF439729fa41-1788881896364 | Florida State vs. Miami (FL) | Miami (FL) | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.13 (47¢) | $30,088 | -$30,088 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.22 (45¢) | $25,290 | -$25,290 | ❌ Perdida |
 | mooseborzoii | Notre Dame vs. BYU | BYU | 1.59 (63¢) | $201,676 | — | ⏳ Pendiente |
 | KaneAnalytics | Oklahoma State vs. Houston | Houston | 1.41 (71¢) | $44,884 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Notre Dame vs. BYU | Notre Dame | 2.70 (37¢) | $45,505 | — | ⏳ Pendiente |
 | omnibus-076daa | Oilers vs. Utah | Utah | 1.75 (57¢) | $101,348 | — | ⏳ Pendiente |
-| KaneAnalytics | Florida State vs. Miami (FL) | Miami (FL) | 1.22 (82¢) | $79,222 | — | ⏳ Pendiente |
+| KaneAnalytics | Florida State vs. Miami (FL) | Miami (FL) | 1.22 (82¢) | $79,222 | +$17,390 | ✅ Ganada |
 | Woaifacai | Notre Dame vs. BYU | BYU | 1.96 (51¢) | $184,741 | — | ⏳ Pendiente |
 | ohcanada123 | Notre Dame vs. BYU | Notre Dame | 1.69 (59¢) | $34,131 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $63,601 | — | ⏳ Pendiente |
