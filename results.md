@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 08:37:43 (hora de Perú)
+Actualizado: 2026-10-18 08:39:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5514**  ($303,091,120 en total)
+- Apuestas registradas: **5516**  ($303,170,917 en total)
 - Resueltas: **5448** — 3338 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 46
 - Apostadores distintos: 588
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 51 | 27 | 2 | 65% | $4,170,575 | +$971,347 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 0 | 60% | $3,483,480 | +$161,369 |
-| surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
+| surfandturf | 31 | 9 | 1 | 78% | $3,441,382 | +$404,362 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 10 | 2 | 79% | $3,280,526 | +$1,797,887 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 588 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wan123 | Saints vs. Giants | Saints | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
+| surfandturf | Chargers vs. Chiefs | Chiefs | 1.28 (78¢) | $54,296 | — | ⏳ Pendiente |
 | TheOpportunist | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $26,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $51,435 | — | ⏳ Pendiente |
 | Flaznorp | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $26,307 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 588 en total)_
 | omnibus-076daa | Oilers vs. Utah | Utah | 1.75 (57¢) | $101,348 | -$101,348 | ❌ Perdida |
 | KaneAnalytics | Florida State vs. Miami (FL) | Miami (FL) | 1.22 (82¢) | $79,222 | +$17,390 | ✅ Ganada |
 | Woaifacai | Notre Dame vs. BYU | BYU | 1.96 (51¢) | $184,741 | +$177,496 | ✅ Ganada |
-| ohcanada123 | Notre Dame vs. BYU | Notre Dame | 1.69 (59¢) | $34,131 | -$34,131 | ❌ Perdida |
-| TAIWANNUMBERONE | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $63,601 | -$63,601 | ❌ Perdida |

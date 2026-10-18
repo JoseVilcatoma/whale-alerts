@@ -82880,5 +82880,35 @@
     "status": "pending",
     "ultimo_fill": 1792330429,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11205,
+    "timestamp": 1792330726,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "nfl-lac-kc-2026-10-18",
+    "title": "Chargers vs. Chiefs",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 54296.151,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1792330726,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11206,
+    "timestamp": 1792330760,
+    "username": "wan123",
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "slug": "nfl-no-nyg-2026-10-18",
+    "title": "Saints vs. Giants",
+    "outcome": "Saints",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792330760,
+    "fills": 1
   }
 ]
