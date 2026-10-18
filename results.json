@@ -82955,5 +82955,20 @@
     "status": "pending",
     "ultimo_fill": 1792333536,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11211,
+    "timestamp": 1792333917,
+    "username": "crazyoddslover",
+    "wallet": "0x49f268b2bf6a036aecc080958cf7b1af5759506a",
+    "slug": "atp-schoen-roch-2026-10-18",
+    "title": "Lisbon: Patrick Schoen vs Francisco Rocha",
+    "outcome": "Francisco Rocha",
+    "side": "BUY",
+    "usd": 30134.557500000003,
+    "odds_at_bet": 10,
+    "status": "pending",
+    "ultimo_fill": 1792333917,
+    "fills": 1
   }
 ]
