@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 01:41:33 (hora de Perú)
+Actualizado: 2026-10-18 01:43:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5474**  ($299,941,946 en total)
+- Apuestas registradas: **5475**  ($299,973,546 en total)
 - Resueltas: **5442** — 3334 ganadas / 2108 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 585
 
 ### Balance
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 10 | 1 | 79% | $3,238,624 | +$1,797,887 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
-| 0F62 | 29 | 5 | 1 | 85% | $2,619,669 | -$324,024 |
+| 0F62 | 29 | 5 | 2 | 85% | $2,651,269 | -$324,024 |
 | cosmicxbt | 17 | 7 | 0 | 71% | $2,604,992 | -$337,317 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Chargers vs. Chiefs | Chiefs | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
 | 0F62 | Cardinals vs. Rams | Rams | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
 | omnibus-076daa | Spread: Jaguars (-2.5) | Texans | 2.04 (49¢) | $32,044 | — | ⏳ Pendiente |
 | Woaifacai | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | Team Vitality | 2.33 (43¢) | $25,368 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 | Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 1 Winner | FURIA Esports | 1.59 (63¢) | $75,298 | -$75,298 | ❌ Perdida |
 | ferrariChampions2026 | Ohio State vs. Indiana | Ohio State | 1.67 (60¢) | $177,730 | +$118,487 | ✅ Ganada |
 | Flaznorp | Real Betis Balompié vs. FC Barcelona: O/U 7.5 | Under 7.5 | 1.09 (92¢) | $44,623 | +$3,880 | ✅ Ganada |
-| BrotherObama | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | MVK Esports | 2.70 (37¢) | $44,347 | +$75,510 | ✅ Ganada |
