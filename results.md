@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 05:20:16 (hora de Perú)
+Actualizado: 2026-10-18 05:22:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5477**  ($300,039,146 en total)
+- Apuestas registradas: **5479**  ($300,097,385 en total)
 - Resueltas: **5443** — 3335 ganadas / 2108 perdidas (**61%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 585
+- Pendientes: 14
+- Apostadores distintos: 586
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | S-Works | 10 | 5 | 0 | 67% | $1,582,939 | -$195,755 |
 
-_(mostrando los 40 de mayor monto, de 585 en total)_
+_(mostrando los 40 de mayor monto, de 586 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| migrodrigues | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $25,000 | — | ⏳ Pendiente |
+| Zzzz87 | Udinese Calcio vs. US Lecce: O/U 2.5 | Over 2.5 | 2.08 (48¢) | $33,238 | — | ⏳ Pendiente |
 | lfg100k | Will Arsenal FC win on 2026-10-18? | Yes | 1.59 (63¢) | $40,000 | — | ⏳ Pendiente |
 | beeemw | Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Rafael Jodar | Rafael Jodar | 1.25 (80¢) | $25,600 | — | ⏳ Pendiente |
 | 0F62 | Chargers vs. Chiefs | Chiefs | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 | Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.43 (70¢) | $81,169 | +$34,787 | ✅ Ganada |
 | ferrariChampions2026 | Florida vs. Texas | Florida | 1.89 (53¢) | $51,477 | +$45,649 | ✅ Ganada |
 | nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.82 (55¢) | $50,000 | +$40,909 | ✅ Ganada |
-| nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.85 (54¢) | $71,470 | +$60,882 | ✅ Ganada |
-| Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 1 Winner | FURIA Esports | 1.59 (63¢) | $75,298 | -$75,298 | ❌ Perdida |
