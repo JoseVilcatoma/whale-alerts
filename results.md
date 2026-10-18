@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 06:47:06 (hora de Perú)
+Actualizado: 2026-10-18 06:49:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5493**  ($301,526,576 en total)
+- Apuestas registradas: **5494**  ($301,561,783 en total)
 - Resueltas: **5446** — 3336 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 587
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Takon88 | Will AFC Bournemouth win on 2026-10-18? | Yes | 2.17 (46¢) | $35,207 | — | ⏳ Pendiente |
 | joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $61,880 | — | ⏳ Pendiente |
 | joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.43 (70¢) | $245,000 | — | ⏳ Pendiente |
 | Satanishippie | Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.72 (58¢) | $27,089 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.33 (43¢) | $107,838 | +$142,948 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.75 (57¢) | $142,500 | -$142,500 | ❌ Perdida |
 | ethanaz | Ohio State vs. Indiana | Ohio State | 1.49 (67¢) | $46,440 | +$22,873 | ✅ Ganada |
-| Sassy-Bucket | UNLV vs. Air Force | UNLV | 1.96 (51¢) | $92,888 | -$92,888 | ❌ Perdida |
