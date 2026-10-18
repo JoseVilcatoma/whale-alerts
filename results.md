@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 00:06:48 (hora de Perú)
+Actualizado: 2026-10-18 00:08:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5469**  ($299,797,264 en total)
-- Resueltas: **5437** — 3331 ganadas / 2106 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **5438** — 3331 ganadas / 2107 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 585
 
 ### Balance
 
-- **Resultado de los apostadores: +$868,694** sobre $298,304,623 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,528** sobre $536,200 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$767,346** sobre $298,405,971 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,628** sobre $536,300 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 | mooseborzoii | Notre Dame vs. BYU | BYU | 1.59 (63¢) | $201,676 | +$118,445 | ✅ Ganada |
 | KaneAnalytics | Oklahoma State vs. Houston | Houston | 1.41 (71¢) | $44,884 | +$18,333 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Notre Dame vs. BYU | Notre Dame | 2.70 (37¢) | $45,505 | -$45,505 | ❌ Perdida |
-| omnibus-076daa | Oilers vs. Utah | Utah | 1.75 (57¢) | $101,348 | — | ⏳ Pendiente |
+| omnibus-076daa | Oilers vs. Utah | Utah | 1.75 (57¢) | $101,348 | -$101,348 | ❌ Perdida |
 | KaneAnalytics | Florida State vs. Miami (FL) | Miami (FL) | 1.22 (82¢) | $79,222 | +$17,390 | ✅ Ganada |
 | Woaifacai | Notre Dame vs. BYU | BYU | 1.96 (51¢) | $184,741 | +$177,496 | ✅ Ganada |
 | ohcanada123 | Notre Dame vs. BYU | Notre Dame | 1.69 (59¢) | $34,131 | -$34,131 | ❌ Perdida |
