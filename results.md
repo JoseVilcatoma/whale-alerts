@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:28:03 (hora de Perú)
+Actualizado: 2026-10-18 10:30:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5538**  ($305,551,640 en total)
-- Resueltas: **5463** — 3348 ganadas / 2115 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Apuestas registradas: **5540**  ($305,645,920 en total)
+- Resueltas: **5464** — 3349 ganadas / 2115 perdidas (**61%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 590
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,205,916** sobre $300,512,000 apostados (ROI **+0.4%**)
+- **Resultado de los apostadores: +$1,207,455** sobre $300,565,846 apostados (ROI **+0.4%**)
 - Copiando $100 fijo en cada una: **-$3,283** sobre $538,700 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 387 | 211 | 8 | 65% | $37,913,622 | +$832,362 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 387 | 211 | 9 | 65% | $37,977,622 | +$832,362 |
 | Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| ndb1 | 26 | 12 | 1 | 68% | $2,081,380 | +$509,618 |
+| ndb1 | 27 | 12 | 0 | 69% | $2,081,380 | +$511,157 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 31 | 1 | 50% | $1,875,253 | -$131,270 |
 | Talvez10 | 22 | 18 | 0 | 55% | $1,866,868 | +$279,196 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-10-18? | Yes | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
+| Mooseborzoiii | Will Arsenal FC win on 2026-10-18? | No | 2.78 (36¢) | $30,280 | — | ⏳ Pendiente |
 | Nooserac | Texans vs. Jaguars | Texans | 1.56 (64¢) | $37,073 | — | ⏳ Pendiente |
 | richbeak | Texans vs. Jaguars | Jaguars | 2.33 (43¢) | $195,968 | — | ⏳ Pendiente |
 | Nooserac | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $25,800 | — | ⏳ Pendiente |
@@ -84,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | gambamaster | Texans vs. Jaguars | Jaguars | 1.64 (61¢) | $68,799 | — | ⏳ Pendiente |
 | Zzzz87 | Nottingham Forest FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $67,614 | — | ⏳ Pendiente |
 | sulumos | Texans vs. Jaguars | Jaguars | 1.89 (53¢) | $30,740 | — | ⏳ Pendiente |
-| ndb1 | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $53,846 | — | ⏳ Pendiente |
+| ndb1 | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $53,846 | +$1,538 | 💰 Vendida antes |
 | CongoleseBorat | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $46,022 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | joseph00677 | Will Arsenal FC win on 2026-10-18? | Yes | 1.54 (65¢) | $1,206,336 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | Kkunn | Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.72 (58¢) | $27,395 | — | ⏳ Pendiente |
 | Woaifacai | Will US Lecce win on 2026-10-18? | Yes | 1.27 (79¢) | $79,000 | +$21,000 | ✅ Ganada |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | AFC Bournemouth vs. Sunderland AFC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 2.00 (50¢) | $29,548 | -$29,548 | ❌ Perdida |
-| 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Leeds United FC vs. Manchester United FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| migrodrigues | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $25,000 | — | ⏳ Pendiente |
