@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 21:16:36 (hora de Perú)
+Actualizado: 2026-10-17 21:18:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5462**  ($299,284,926 en total)
-- Resueltas: **5417** — 3322 ganadas / 2095 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **5418** — 3322 ganadas / 2096 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 584
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,107,946** sobre $296,915,734 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$2,937** sobre $534,200 (ROI **-0.5%**)
+- **Resultado de los apostadores: +$1,070,826** sobre $296,952,854 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,037** sobre $534,300 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Oklahoma (-6.5) | Oklahoma | 1.85 (54¢) | $45,982 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Atlanta United FC vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $34,843 | +$3,446 | ✅ Ganada |
 | gmpm2 | Kent State vs. South Florida | South Florida | 1.09 (92¢) | $57,500 | — | ⏳ Pendiente |
-| DelidelaDele | Will New York Red Bulls win on 2026-10-17? | Yes | 1.72 (58¢) | $37,120 | — | ⏳ Pendiente |
+| DelidelaDele | Will New York Red Bulls win on 2026-10-17? | Yes | 1.72 (58¢) | $37,120 | -$37,120 | ❌ Perdida |
 | ferrariChampions2026 | Santa Cruz 2: Francisco Comesana vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.30 (77¢) | $47,944 | +$14,321 | ✅ Ganada |
 | TAIWANNUMBERONE | Alabama vs. Tennessee | Tennessee | 1.32 (76¢) | $38,276 | +$12,087 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Katlyn Cerminara vs. Mackenzie Stiller (Women's Flyweight, Prelims) | Katlyn Cerminara | 1.45 (69¢) | $31,046 | +$13,948 | ✅ Ganada |
