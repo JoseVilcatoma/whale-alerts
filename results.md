@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 21:14:32 (hora de Perú)
+Actualizado: 2026-10-17 21:16:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5462**  ($299,284,926 en total)
-- Resueltas: **5416** — 3321 ganadas / 2095 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **5417** — 3322 ganadas / 2095 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 584
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,104,500** sobre $296,880,891 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$2,947** sobre $534,100 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,107,946** sobre $296,915,734 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$2,937** sobre $534,200 (ROI **-0.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ndb1 | 26 | 12 | 0 | 68% | $2,027,534 | +$509,618 |
 | Talvez10 | 21 | 18 | 1 | 54% | $1,866,868 | +$257,433 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 31 | 3 | 1 | 91% | $1,865,984 | +$60,645 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 32 | 3 | 0 | 91% | $1,865,984 | +$64,091 |
 | SDTrading | 30 | 31 | 1 | 49% | $1,844,053 | -$160,793 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | OhWhenTheReds | Will Vancouver Whitecaps FC win on 2026-10-17? | Yes | 1.54 (65¢) | $55,403 | — | ⏳ Pendiente |
 | 0000a | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $138,502 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Oklahoma (-6.5) | Oklahoma | 1.85 (54¢) | $45,982 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Atlanta United FC vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $34,843 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Atlanta United FC vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $34,843 | +$3,446 | ✅ Ganada |
 | gmpm2 | Kent State vs. South Florida | South Florida | 1.09 (92¢) | $57,500 | — | ⏳ Pendiente |
 | DelidelaDele | Will New York Red Bulls win on 2026-10-17? | Yes | 1.72 (58¢) | $37,120 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Santa Cruz 2: Francisco Comesana vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.30 (77¢) | $47,944 | +$14,321 | ✅ Ganada |
