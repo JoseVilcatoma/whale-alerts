@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:16:12 (hora de Perú)
+Actualizado: 2026-10-18 15:18:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5638**  ($311,634,499 en total)
+- Apuestas registradas: **5639**  ($311,686,665 en total)
 - Resueltas: **5517** — 3381 ganadas / 2136 perdidas (**61%** de acierto)
-- Pendientes: 99
-- Apostadores distintos: 595
+- Pendientes: 100
+- Apostadores distintos: 596
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 
-_(mostrando los 40 de mayor monto, de 595 en total)_
+_(mostrando los 40 de mayor monto, de 596 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Electricy | Spread: Bills (-5.5) | Bills | 2.08 (48¢) | $52,166 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.82 (55¢) | $31,546 | — | ⏳ Pendiente |
 | 0F62 | Cardinals vs. Rams | Rams | 1.15 (87¢) | $51,298 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Steelers vs. Buccaneers | Steelers | 1.30 (77¢) | $38,767 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 595 en total)_
 | HVAB | W50 Quebec City: Kajsa Rinaldo Persson vs Mimi Xu | Kajsa Rinaldo Persson | 1.30 (77¢) | $26,566 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bears vs. Falcons | Falcons | 2.08 (48¢) | $141,573 | — | ⏳ Pendiente |
 | mooseborzoii | Titans vs. Colts | Colts | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
-| mooseborzoii | Ravens vs. Browns | Ravens | 1.64 (61¢) | $85,704 | — | ⏳ Pendiente |
