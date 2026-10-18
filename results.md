@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 17:03:10 (hora de Perú)
+Actualizado: 2026-10-18 17:05:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5658**  ($313,078,102 en total)
-- Resueltas: **5601** — 3433 ganadas / 2168 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **5605** — 3437 ganadas / 2168 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: +$594,448** sobre $310,117,003 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,757** sobre $552,200 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$653,135** sobre $310,299,520 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,641** sobre $552,600 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | yabanci | Will Red Bull Bragantino win on 2026-10-18? | No | 1.92 (52¢) | $29,640 | — | ⏳ Pendiente |
-| hurrican | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.09 (92¢) | $25,674 | — | ⏳ Pendiente |
+| hurrican | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.09 (92¢) | $25,674 | +$2,233 | ✅ Ganada |
 | cosmicxbt | Cardinals vs. Rams | Rams | 1.33 (75¢) | $127,242 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Cardinals vs. Rams | Rams | 1.20 (83¢) | $27,275 | — | ⏳ Pendiente |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $50,907 | — | ⏳ Pendiente |
