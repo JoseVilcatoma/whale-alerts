@@ -85078,5 +85078,35 @@
     "status": "pending",
     "ultimo_fill": 1792361671,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11509,
+    "timestamp": 1792361744,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "nfl-ari-la-2026-10-18",
+    "title": "Cardinals vs. Rams",
+    "outcome": "Cardinals",
+    "side": "BUY",
+    "usd": 35700.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792361744,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11510,
+    "timestamp": 1792361750,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-buf-lv-2026-10-18",
+    "title": "Bills vs. Raiders",
+    "outcome": "Bills",
+    "side": "BUY",
+    "usd": 32141.796300000005,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1792361750,
+    "fills": 1
   }
 ]
