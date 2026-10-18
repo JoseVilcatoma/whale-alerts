@@ -82470,10 +82470,25 @@
     "title": "Will Brighton & Hove Albion FC win on 2026-10-18?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 200099.99999999997,
+    "usd": 252539.99999999997,
     "odds_at_bet": 69,
     "status": "pending",
-    "ultimo_fill": 1792322625,
+    "ultimo_fill": 1792322661,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 11175,
+    "timestamp": 1792322704,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "nfl-hou-jax-2026-10-18-total-42pt5",
+    "title": "Texans vs. Jaguars: O/U 42.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 31200.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792322704,
     "fills": 1
   }
 ]
