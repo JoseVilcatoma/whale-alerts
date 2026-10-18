@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 08:06:48 (hora de Perú)
+Actualizado: 2026-10-18 08:08:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5509**  ($302,896,400 en total)
+- Apuestas registradas: **5510**  ($302,931,400 en total)
 - Resueltas: **5448** — 3338 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 587
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| migrodrigues | Will Sevilla FC win on 2026-10-18? | Yes | 12.50 (8¢) | $35,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $86,211 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Brighton & Hove Albion FC (-1.5) | Brighton & Hove Albion FC | 2.33 (43¢) | $40,994 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Leeds United FC vs. Manchester United FC: O/U 2.5 | Under 2.5 | 1.92 (52¢) | $29,790 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 | omnibus-076daa | Bruins vs. Kings | Kings | 1.79 (56¢) | $39,159 | -$39,159 | ❌ Perdida |
 | OhWhenTheReds | Will Vancouver Whitecaps FC win on 2026-10-17? | Yes | 1.54 (65¢) | $55,403 | +$29,833 | ✅ Ganada |
 | 0000a | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $138,502 | -$138,502 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Oklahoma (-6.5) | Oklahoma | 1.85 (54¢) | $45,982 | -$45,982 | ❌ Perdida |
