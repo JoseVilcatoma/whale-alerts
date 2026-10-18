@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 09:03:15 (hora de Perú)
+Actualizado: 2026-10-18 09:05:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5517**  ($303,223,962 en total)
+- Apuestas registradas: **5518**  ($303,254,692 en total)
 - Resueltas: **5448** — 3338 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 589
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kdvlklkvlsklkfs | Florence: Dmitry Popko vs Daniele Rapagnetta | Dmitry Popko | 2.56 (39¢) | $30,730 | — | ⏳ Pendiente |
 | wan123 | Saints vs. Giants | Saints | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | surfandturf | Chargers vs. Chiefs | Chiefs | 1.28 (78¢) | $54,296 | — | ⏳ Pendiente |
 | TheOpportunist | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $26,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | KaneAnalytics | Oklahoma State vs. Houston | Houston | 1.41 (71¢) | $44,884 | +$18,333 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Notre Dame vs. BYU | Notre Dame | 2.70 (37¢) | $45,505 | -$45,505 | ❌ Perdida |
 | omnibus-076daa | Oilers vs. Utah | Utah | 1.75 (57¢) | $101,348 | -$101,348 | ❌ Perdida |
-| KaneAnalytics | Florida State vs. Miami (FL) | Miami (FL) | 1.22 (82¢) | $79,222 | +$17,390 | ✅ Ganada |
