@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 07:30:12 (hora de Perú)
+Actualizado: 2026-10-18 07:32:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5497**  ($301,858,441 en total)
+- Apuestas registradas: **5498**  ($302,072,140 en total)
 - Resueltas: **5446** — 3336 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 587
 
 ### Balance
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
+| totoro3miyazaki | 34 | 19 | 2 | 64% | $6,426,044 | +$48,997 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| totoro3miyazaki | 34 | 19 | 2 | 64% | $6,302,739 | +$48,997 |
 | ferrariChampions2026 | 91 | 44 | 0 | 67% | $5,981,583 | +$248,230 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 16 | 2 | 4 | 89% | $5,026,871 | +$2,066,720 |
 | ethanaz | 51 | 22 | 0 | 70% | $4,665,455 | -$171,697 |
 | BrotherObama | 43 | 49 | 2 | 47% | $4,208,413 | -$161,127 |
-| mooseborzoii | 51 | 27 | 1 | 65% | $4,080,181 | +$971,347 |
+| mooseborzoii | 51 | 27 | 2 | 65% | $4,170,575 | +$971,347 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 0 | 60% | $3,483,480 | +$161,369 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.79 (56¢) | $111,134 | — | ⏳ Pendiente |
+| mooseborzoii | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $90,393 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.79 (56¢) | $234,440 | — | ⏳ Pendiente |
 | Siddhartha1 | Spread: Steelers (-2.5) | Steelers | 2.00 (50¢) | $35,044 | — | ⏳ Pendiente |
 | juice-fruit | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $150,480 | — | ⏳ Pendiente |
 | Takon88 | Will AFC Bournemouth win on 2026-10-18? | Yes | 2.17 (46¢) | $35,207 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Tennessee | Tennessee | 2.63 (38¢) | $38,000 | +$62,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Troy vs. Louisiana | Troy | 2.38 (42¢) | $32,666 | -$32,666 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Chelsea Chandler vs. Melissa Croden (Women's Bantamweight, Prelims) | Melissa Croden | 1.32 (76¢) | $77,343 | -$77,343 | ❌ Perdida |
-| Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 4 Winner | MVK Esports | 2.00 (50¢) | $74,514 | +$74,514 | ✅ Ganada |

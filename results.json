@@ -82620,10 +82620,25 @@
     "title": "Will Como 1907 win on 2026-10-18?",
     "outcome": "No",
     "side": "BUY",
-    "usd": 111134.24,
+    "usd": 234439.5553,
     "odds_at_bet": 56,
     "status": "pending",
-    "ultimo_fill": 1792326569,
-    "fills": 1
+    "ultimo_fill": 1792326675,
+    "fills": 4
+  },
+  {
+    "telegram_msg_id": 11186,
+    "timestamp": 1792326716,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "sea-fio-com-2026-10-18-com",
+    "title": "Will Como 1907 win on 2026-10-18?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 90393.10789999999,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1792326730,
+    "fills": 2
   }
 ]
