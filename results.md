@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 16:34:18 (hora de Perú)
+Actualizado: 2026-10-18 16:36:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5657**  ($313,048,462 en total)
-- Resueltas: **5591** — 3424 ganadas / 2167 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Resueltas: **5594** — 3427 ganadas / 2167 perdidas (**61%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: +$355,621** sobre $309,425,163 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,151** sobre $551,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$517,093** sobre $309,573,243 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,799** sobre $551,500 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -109,9 +109,9 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | ethanaz | Ravens vs. Browns | Ravens | 1.11 (90¢) | $32,118 | -$32,118 | ❌ Perdida |
 | Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.22 (82¢) | $113,811 | +$24,983 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.27 (79¢) | $26,058 | +$6,927 | ✅ Ganada |
-| Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $63,869 | — | ⏳ Pendiente |
+| Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $63,869 | +$104,207 | ✅ Ganada |
 | yoyoyoyoer | Saints vs. Giants | Saints | 1.41 (71¢) | $25,294 | +$10,332 | ✅ Ganada |
-| Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $26,211 | — | ⏳ Pendiente |
+| Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $26,211 | +$42,765 | ✅ Ganada |
 | ArielFilipino | Spread: Rams (-13.5) | Cardinals | 1.89 (53¢) | $30,846 | — | ⏳ Pendiente |
 | alwaysfade | Spread: Rams (-13.5) | Rams | 2.13 (47¢) | $27,348 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bears vs. Falcons: O/U 51.5 | Over 51.5 | 1.72 (58¢) | $39,986 | +$28,955 | ✅ Ganada |
