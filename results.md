@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:23:57 (hora de Perú)
+Actualizado: 2026-10-18 10:26:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5536**  ($305,318,599 en total)
+- Apuestas registradas: **5537**  ($305,514,567 en total)
 - Resueltas: **5463** — 3348 ganadas / 2115 perdidas (**61%** de acierto)
-- Pendientes: 51
-- Apostadores distintos: 589
+- Pendientes: 52
+- Apostadores distintos: 590
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 10 | 5 | 1 | 67% | $1,717,959 | -$195,755 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 
-_(mostrando los 40 de mayor monto, de 589 en total)_
+_(mostrando los 40 de mayor monto, de 590 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| richbeak | Texans vs. Jaguars | Jaguars | 2.33 (43¢) | $195,968 | — | ⏳ Pendiente |
 | Nooserac | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $25,800 | — | ⏳ Pendiente |
 | S-Works | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $135,020 | — | ⏳ Pendiente |
 | migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.39 (72¢) | $75,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Leeds United FC vs. Manchester United FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | migrodrigues | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $25,000 | — | ⏳ Pendiente |
 | Zzzz87 | Udinese Calcio vs. US Lecce: O/U 2.5 | Over 2.5 | 2.08 (48¢) | $33,238 | +$36,008 | ✅ Ganada |
-| lfg100k | Will Arsenal FC win on 2026-10-18? | Yes | 1.59 (63¢) | $40,000 | — | ⏳ Pendiente |
