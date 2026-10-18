@@ -84506,5 +84506,35 @@
     "status": "pending",
     "ultimo_fill": 1792350276,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11378,
+    "timestamp": 1792350668,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-car-phi-2026-10-18",
+    "title": "Panthers vs. Eagles",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 26493.8681,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1792350668,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11379,
+    "timestamp": 1792350718,
+    "username": "cosmicxbt",
+    "wallet": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+    "slug": "nfl-no-nyg-2026-10-18",
+    "title": "Saints vs. Giants",
+    "outcome": "Saints",
+    "side": "BUY",
+    "usd": 99582.8728,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1792350718,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 14:10:03 (hora de Perú)
+Actualizado: 2026-10-18 14:12:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5622**  ($310,833,231 en total)
+- Apuestas registradas: **5624**  ($310,959,308 en total)
 - Resueltas: **5514** — 3379 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 86
+- Pendientes: 88
 - Apostadores distintos: 594
 
 ### Balance
@@ -46,8 +46,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 10 | 2 | 79% | $3,280,526 | +$1,797,887 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
+| cosmicxbt | 17 | 7 | 1 | 71% | $2,704,575 | -$337,317 |
 | 0F62 | 29 | 6 | 1 | 83% | $2,651,269 | -$324,424 |
-| cosmicxbt | 17 | 7 | 0 | 71% | $2,604,992 | -$337,317 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Saints vs. Giants | Saints | 1.10 (91¢) | $99,583 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Panthers vs. Eagles | Panthers | 1.37 (73¢) | $26,494 | — | ⏳ Pendiente |
 | ethanaz | Ravens vs. Browns | Ravens | 1.11 (90¢) | $32,118 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.22 (82¢) | $113,811 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.27 (79¢) | $26,058 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 | 778908 | Texans vs. Jaguars | Texans | 1.12 (89¢) | $78,984 | +$9,762 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Jaguars | Texans | 1.16 (86¢) | $39,619 | +$6,450 | ✅ Ganada |
 | Anon455 | Texans vs. Jaguars | Texans | 1.16 (86¢) | $61,884 | +$10,074 | ✅ Ganada |
-| BrotherObama | Spread: Steelers (-2.5) | Steelers | 1.96 (51¢) | $25,000 | — | ⏳ Pendiente |
-| milkteaboba | Spread: Panthers (-13.5) | Eagles | 1.27 (79¢) | $39,830 | — | ⏳ Pendiente |
