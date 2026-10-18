@@ -82577,7 +82577,7 @@
     "side": "BUY",
     "usd": 35206.753699999994,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792324060,
     "fills": 1
   },
@@ -82622,7 +82622,7 @@
     "side": "BUY",
     "usd": 234439.5553,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792326675,
     "fills": 4
   },
@@ -82637,7 +82637,7 @@
     "side": "BUY",
     "usd": 90393.10789999999,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792326730,
     "fills": 2
   },
@@ -82697,7 +82697,7 @@
     "side": "BUY",
     "usd": 49999.9958,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792327141,
     "fills": 1
   },
@@ -82712,7 +82712,7 @@
     "side": "BUY",
     "usd": 238333.59839999996,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792327207,
     "fills": 2
   },
@@ -82849,7 +82849,7 @@
     "side": "BUY",
     "usd": 26307.070000000003,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792329559,
     "fills": 1
   },
@@ -82864,7 +82864,7 @@
     "side": "BUY",
     "usd": 51434.694,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792329562,
     "fills": 1
   },
@@ -82954,7 +82954,7 @@
     "side": "BUY",
     "usd": 26260.9772,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792333536,
     "fills": 1
   },
@@ -83269,10 +83269,10 @@
     "title": "Will Arsenal FC win on 2026-10-18?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 64000.0,
+    "usd": 91754.80960000001,
     "odds_at_bet": 64,
     "status": "pending",
-    "ultimo_fill": 1792337378,
-    "fills": 1
+    "ultimo_fill": 1792337413,
+    "fills": 2
   }
 ]

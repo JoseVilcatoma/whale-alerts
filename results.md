@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:30:07 (hora de Perú)
+Actualizado: 2026-10-18 10:32:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5540**  ($305,645,920 en total)
-- Resueltas: **5464** — 3349 ganadas / 2115 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Apuestas registradas: **5540**  ($305,673,675 en total)
+- Resueltas: **5472** — 3353 ganadas / 2119 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 590
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,207,455** sobre $300,565,846 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,283** sobre $538,700 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$888,647** sobre $301,318,222 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,284** sobre $539,500 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 387 | 211 | 9 | 65% | $37,977,622 | +$832,362 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 388 | 212 | 7 | 65% | $38,005,377 | +$785,202 |
 | Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
-| totoro3miyazaki | 34 | 19 | 3 | 64% | $6,664,377 | +$48,997 |
+| totoro3miyazaki | 34 | 21 | 1 | 62% | $6,664,377 | -$423,776 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 20 | 2 | 1 | 91% | $6,233,207 | +$2,495,685 |
 | ferrariChampions2026 | 91 | 44 | 1 | 67% | $6,007,630 | +$248,230 |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 51 | 22 | 0 | 70% | $4,665,455 | -$171,697 |
-| mooseborzoii | 51 | 27 | 3 | 65% | $4,210,080 | +$971,347 |
+| mooseborzoii | 52 | 27 | 2 | 66% | $4,210,080 | +$1,091,171 |
 | BrotherObama | 43 | 49 | 2 | 47% | $4,208,413 | -$161,127 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 0 | 60% | $3,483,480 | +$161,369 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-10-18? | Yes | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-10-18? | Yes | 1.56 (64¢) | $91,755 | — | ⏳ Pendiente |
 | Mooseborzoiii | Will Arsenal FC win on 2026-10-18? | No | 2.78 (36¢) | $30,280 | — | ⏳ Pendiente |
 | Nooserac | Texans vs. Jaguars | Texans | 1.56 (64¢) | $37,073 | — | ⏳ Pendiente |
 | richbeak | Texans vs. Jaguars | Jaguars | 2.33 (43¢) | $195,968 | — | ⏳ Pendiente |
@@ -92,14 +92,14 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | joseph00677 | Will Arsenal FC win on 2026-10-18? | Yes | 1.54 (65¢) | $1,206,336 | — | ⏳ Pendiente |
 | mooseborzoii | Texans vs. Jaguars | Texans | 2.13 (47¢) | $39,505 | — | ⏳ Pendiente |
 | crazyoddslover | Lisbon: Patrick Schoen vs Francisco Rocha | Francisco Rocha | 10.00 (10¢) | $30,135 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-10-18? | Yes | 1.16 (86¢) | $26,261 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-10-18? | Yes | 1.16 (86¢) | $26,261 | +$4,275 | ✅ Ganada |
 | kdvlklkvlsklkfs | Florence: Dmitry Popko vs Daniele Rapagnetta | Dmitry Popko | 2.56 (39¢) | $30,730 | — | ⏳ Pendiente |
 | wan123 | Saints vs. Giants | Saints | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | surfandturf | Chargers vs. Chiefs | Chiefs | 1.28 (78¢) | $54,296 | — | ⏳ Pendiente |
 | TheOpportunist | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $26,400 | — | ⏳ Pendiente |
 | ksp15 | Texans vs. Jaguars | Jaguars | 1.75 (57¢) | $53,045 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $51,435 | — | ⏳ Pendiente |
-| Flaznorp | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $26,307 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $51,435 | -$51,435 | ❌ Perdida |
+| Flaznorp | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $26,307 | -$26,307 | ❌ Perdida |
 | JambonMogettes | Bears vs. Falcons: O/U 52.5 | Over 52.5 | 2.04 (49¢) | $55,578 | -$4,537 | 💰 Vendida antes |
 | migrodrigues | Will Sevilla FC win on 2026-10-18? | Yes | 12.50 (8¢) | $35,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $86,211 | — | ⏳ Pendiente |
@@ -108,16 +108,16 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | migrodrigues | Will Real Madrid CF vs. Sevilla FC end in a draw? | Yes | 7.14 (14¢) | $29,730 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Leeds United FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $51,649 | +$3,888 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $87,029 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.75 (57¢) | $238,334 | — | ⏳ Pendiente |
-| 1l2ihj34li12u34 | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $50,000 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.75 (57¢) | $238,334 | -$238,334 | ❌ Perdida |
+| 1l2ihj34li12u34 | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $50,000 | +$66,279 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $127,971 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Joao Domingues vs Ivan Gakhov | Ivan Gakhov | 1.47 (68¢) | $40,651 | -$40,651 | ❌ Perdida |
 | Kch-Temp | Titans vs. Colts: O/U 44.5 | Under 44.5 | 1.96 (51¢) | $41,902 | — | ⏳ Pendiente |
-| mooseborzoii | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $90,393 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.79 (56¢) | $234,440 | — | ⏳ Pendiente |
+| mooseborzoii | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $90,393 | +$119,823 | ✅ Ganada |
+| totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.79 (56¢) | $234,440 | -$234,440 | ❌ Perdida |
 | Siddhartha1 | Spread: Steelers (-2.5) | Steelers | 2.00 (50¢) | $35,044 | — | ⏳ Pendiente |
 | juice-fruit | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $150,480 | +$70,814 | ✅ Ganada |
-| Takon88 | Will AFC Bournemouth win on 2026-10-18? | Yes | 2.17 (46¢) | $35,207 | — | ⏳ Pendiente |
+| Takon88 | Will AFC Bournemouth win on 2026-10-18? | Yes | 2.17 (46¢) | $35,207 | +$41,330 | ✅ Ganada |
 | joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $61,880 | +$29,120 | ✅ Ganada |
 | joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.43 (70¢) | $245,000 | +$105,000 | ✅ Ganada |
 | Satanishippie | Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.72 (58¢) | $27,089 | — | ⏳ Pendiente |
