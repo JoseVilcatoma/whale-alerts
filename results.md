@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 22:07:00 (hora de Perú)
+Actualizado: 2026-10-17 22:09:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5467**  ($299,729,479 en total)
-- Resueltas: **5420** — 3324 ganadas / 2096 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **5421** — 3324 ganadas / 2097 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 585
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,097,589** sobre $297,038,053 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$2,950** sobre $534,500 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,051,607** sobre $297,084,035 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,050** sobre $534,600 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 206 | 6 | 65% | $37,233,375 | +$1,094,249 |
 | Sassy-Bucket | 76 | 74 | 2 | 51% | $8,611,572 | -$758,619 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 85 | 1 | 53% | $7,332,727 | -$502,419 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 | omnibus-076daa | Bruins vs. Kings | Kings | 1.79 (56¢) | $39,159 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will Vancouver Whitecaps FC win on 2026-10-17? | Yes | 1.54 (65¢) | $55,403 | — | ⏳ Pendiente |
 | 0000a | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $138,502 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Oklahoma (-6.5) | Oklahoma | 1.85 (54¢) | $45,982 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Oklahoma (-6.5) | Oklahoma | 1.85 (54¢) | $45,982 | -$45,982 | ❌ Perdida |
 | Roadto1mlesgooo | Atlanta United FC vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $34,843 | +$3,446 | ✅ Ganada |
 | gmpm2 | Kent State vs. South Florida | South Florida | 1.09 (92¢) | $57,500 | +$5,000 | ✅ Ganada |
 | DelidelaDele | Will New York Red Bulls win on 2026-10-17? | Yes | 1.72 (58¢) | $37,120 | -$37,120 | ❌ Perdida |
