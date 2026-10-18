@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 11:50:35 (hora de Perú)
+Actualizado: 2026-10-18 11:52:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5570**  ($307,034,624 en total)
+- Apuestas registradas: **5573**  ($307,372,872 en total)
 - Resueltas: **5478** — 3354 ganadas / 2124 perdidas (**61%** de acierto)
-- Pendientes: 70
+- Pendientes: 73
 - Apostadores distintos: 591
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 388 | 212 | 12 | 65% | $38,292,958 | +$785,202 |
-| Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
+| Sassy-Bucket | 77 | 74 | 3 | 51% | $8,848,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Saints vs. Giants | Giants | 2.00 (50¢) | $200,000 | — | ⏳ Pendiente |
+| 778908 | Panthers vs. Eagles | Panthers | 1.69 (59¢) | $88,248 | — | ⏳ Pendiente |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will SS Lazio win on 2026-10-18? | No | 1.20 (83¢) | $50,000 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Panthers (-10.5) | Eagles | 1.33 (75¢) | $25,240 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Panthers (-14.5) | Eagles | 1.20 (83¢) | $30,945 | — | ⏳ Pendiente |
 | takeormake | Titans vs. Colts | Titans | 3.57 (28¢) | $30,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | surfandturf | Chargers vs. Chiefs | Chiefs | 1.28 (78¢) | $54,296 | — | ⏳ Pendiente |
 | TheOpportunist | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $26,400 | — | ⏳ Pendiente |
 | ksp15 | Texans vs. Jaguars | Jaguars | 1.75 (57¢) | $53,045 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $51,435 | -$51,435 | ❌ Perdida |
-| Flaznorp | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $26,307 | -$26,307 | ❌ Perdida |
-| JambonMogettes | Bears vs. Falcons: O/U 52.5 | Over 52.5 | 2.04 (49¢) | $55,578 | -$4,537 | 💰 Vendida antes |

@@ -83726,5 +83726,50 @@
     "status": "pending",
     "ultimo_fill": 1792342006,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11292,
+    "timestamp": 1792342246,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "sea-juv-laz-2026-10-18-laz",
+    "title": "Will SS Lazio win on 2026-10-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 49999.99679999999,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1792342246,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11293,
+    "timestamp": 1792342267,
+    "username": "778908",
+    "wallet": "0x3c3ac5fb217e2aee15e00198f4c47f6bb29c8b5f",
+    "slug": "nfl-car-phi-2026-10-18",
+    "title": "Panthers vs. Eagles",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 88248.04639999999,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1792342267,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11294,
+    "timestamp": 1792342276,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-no-nyg-2026-10-18",
+    "title": "Saints vs. Giants",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 200000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792342276,
+    "fills": 1
   }
 ]
