@@ -82250,5 +82250,20 @@
     "status": "pending",
     "ultimo_fill": 1792303165,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11156,
+    "timestamp": 1792303487,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "nfl-hou-jax-2026-10-18-spread-home-2pt5",
+    "title": "Spread: Jaguars (-2.5)",
+    "outcome": "Texans",
+    "side": "BUY",
+    "usd": 32044.436899999997,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792303487,
+    "fills": 1
   }
 ]
