@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 14:28:52 (hora de Perú)
+Actualizado: 2026-10-18 14:30:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5626**  ($311,044,079 en total)
+- Apuestas registradas: **5627**  ($311,078,720 en total)
 - Resueltas: **5514** — 3379 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 90
+- Pendientes: 91
 - Apostadores distintos: 594
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| IdentityV | Panthers vs. Eagles | Panthers | 1.16 (86¢) | $34,641 | — | ⏳ Pendiente |
 | Anon455 | Panthers vs. Eagles | Panthers | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | Laskhask | Panthers vs. Eagles | Panthers | 1.30 (77¢) | $59,571 | — | ⏳ Pendiente |
 | cosmicxbt | Saints vs. Giants | Saints | 1.10 (91¢) | $99,583 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 | milkteaboba | Spread: Panthers (-10.5) | Eagles | 1.33 (75¢) | $25,240 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Panthers (-14.5) | Eagles | 1.20 (83¢) | $30,945 | — | ⏳ Pendiente |
 | takeormake | Titans vs. Colts | Titans | 3.57 (28¢) | $30,000 | — | ⏳ Pendiente |
-| 778908 | Texans vs. Jaguars | Texans | 1.12 (89¢) | $78,984 | +$9,762 | ✅ Ganada |
