@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 13:59:40 (hora de Perú)
+Actualizado: 2026-10-18 14:01:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5620**  ($310,687,301 en total)
+- Apuestas registradas: **5621**  ($310,801,112 en total)
 - Resueltas: **5514** — 3379 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 84
+- Pendientes: 85
 - Apostadores distintos: 594
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.22 (82¢) | $113,811 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.27 (79¢) | $26,058 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $63,869 | — | ⏳ Pendiente |
 | yoyoyoyoer | Saints vs. Giants | Saints | 1.41 (71¢) | $25,294 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 | BrotherObama | Spread: Steelers (-2.5) | Steelers | 1.96 (51¢) | $25,000 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Panthers (-13.5) | Eagles | 1.27 (79¢) | $39,830 | — | ⏳ Pendiente |
 | RegardedMoney | Spread: Panthers (-2.5) | Eagles | 2.22 (45¢) | $41,154 | — | ⏳ Pendiente |
-| Anon455 | Texans vs. Jaguars | Texans | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
