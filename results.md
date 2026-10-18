@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 16:59:00 (hora de Perú)
+Actualizado: 2026-10-18 17:01:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5657**  ($313,048,462 en total)
+- Apuestas registradas: **5658**  ($313,078,102 en total)
 - Resueltas: **5601** — 3433 ganadas / 2168 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 596
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Will Red Bull Bragantino win on 2026-10-18? | No | 1.92 (52¢) | $29,640 | — | ⏳ Pendiente |
 | hurrican | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.09 (92¢) | $25,674 | — | ⏳ Pendiente |
 | cosmicxbt | Cardinals vs. Rams | Rams | 1.33 (75¢) | $127,242 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Cardinals vs. Rams | Rams | 1.20 (83¢) | $27,275 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | sbimbg | Saints vs. Giants | Giants | 1.39 (72¢) | $35,991 | -$35,991 | ❌ Perdida |
 | Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 1 Winner | Karmine Corp | 1.27 (79¢) | $31,600 | +$8,400 | ✅ Ganada |
 | ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $127,778 | -$127,778 | ❌ Perdida |
-| Laskhask | Steelers vs. Buccaneers | Buccaneers | 1.25 (80¢) | $87,511 | -$87,511 | ❌ Perdida |
