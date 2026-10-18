@@ -82025,5 +82025,20 @@
     "status": "pending",
     "ultimo_fill": 1792285100,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 11111,
+    "timestamp": 1792286087,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "cfb-flst-mia-2026-10-17",
+    "title": "Florida State vs. Miami (FL)",
+    "outcome": "Miami (FL)",
+    "side": "BUY",
+    "usd": 79222.4304,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1792286087,
+    "fills": 1
   }
 ]
