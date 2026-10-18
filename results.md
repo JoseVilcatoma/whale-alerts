@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 09:23:48 (hora de Perú)
+Actualizado: 2026-10-18 09:25:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5518**  ($303,254,692 en total)
+- Apuestas registradas: **5519**  ($303,280,953 en total)
 - Resueltas: **5448** — 3338 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 589
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 209 | 11 | 65% | $37,887,361 | +$993,367 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 209 | 12 | 65% | $37,913,622 | +$993,367 |
 | Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-10-18? | Yes | 1.16 (86¢) | $26,261 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Florence: Dmitry Popko vs Daniele Rapagnetta | Dmitry Popko | 2.56 (39¢) | $30,730 | — | ⏳ Pendiente |
 | wan123 | Saints vs. Giants | Saints | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | surfandturf | Chargers vs. Chiefs | Chiefs | 1.28 (78¢) | $54,296 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | mooseborzoii | Notre Dame vs. BYU | BYU | 1.59 (63¢) | $201,676 | +$118,445 | ✅ Ganada |
 | KaneAnalytics | Oklahoma State vs. Houston | Houston | 1.41 (71¢) | $44,884 | +$18,333 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Notre Dame vs. BYU | Notre Dame | 2.70 (37¢) | $45,505 | -$45,505 | ❌ Perdida |
-| omnibus-076daa | Oilers vs. Utah | Utah | 1.75 (57¢) | $101,348 | -$101,348 | ❌ Perdida |
