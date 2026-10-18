@@ -84461,5 +84461,20 @@
     "status": "pending",
     "ultimo_fill": 1792349760,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11375,
+    "timestamp": 1792349900,
+    "username": "PEYZ-BIGGEST-FAN",
+    "wallet": "0xdaef2be2a19ad331737d06545f85615b094554e9",
+    "slug": "lol-kc-mvk-2026-10-18-game2",
+    "title": "LoL: Karmine Corp vs MVK Esports - Game 2 Winner",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 26057.731300000003,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1792349900,
+    "fills": 1
   }
 ]
