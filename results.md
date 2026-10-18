@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:14:07 (hora de Perú)
+Actualizado: 2026-10-18 15:16:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5638**  ($311,634,499 en total)
-- Resueltas: **5515** — 3380 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 101
+- Resueltas: **5517** — 3381 ganadas / 2136 perdidas (**61%** de acierto)
+- Pendientes: 99
 - Apostadores distintos: 595
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,404,763** sobre $304,528,617 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$3,365** sobre $543,600 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,368,524** sobre $304,615,856 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,377** sobre $543,800 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 18 | 3 | 62% | $5,594,771 | +$1,086,392 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| mooseborzoii | 57 | 27 | 9 | 68% | $5,285,806 | +$1,243,945 |
+| mooseborzoii | 57 | 28 | 8 | 67% | $5,285,806 | +$1,183,736 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 52 | 22 | 3 | 70% | $4,821,947 | -$160,041 |
 | BrotherObama | 43 | 49 | 3 | 47% | $4,233,413 | -$161,127 |
