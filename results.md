@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 16:17:57 (hora de Perú)
+Actualizado: 2026-10-18 16:20:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5656**  ($313,022,788 en total)
-- Resueltas: **5586** — 3421 ganadas / 2165 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Resueltas: **5587** — 3422 ganadas / 2165 perdidas (**61%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: +$392,298** sobre $309,104,234 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,011** sobre $550,700 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$400,698** sobre $309,135,834 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,984** sobre $550,800 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -127,7 +127,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $27,064 | -$27,064 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Juventus FC vs. SS Lazio: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $26,193 | +$24,178 | ✅ Ganada |
 | sbimbg | Saints vs. Giants | Giants | 1.39 (72¢) | $35,991 | -$35,991 | ❌ Perdida |
-| Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 1 Winner | Karmine Corp | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 1 Winner | Karmine Corp | 1.27 (79¢) | $31,600 | +$8,400 | ✅ Ganada |
 | ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $127,778 | -$127,778 | ❌ Perdida |
 | Laskhask | Steelers vs. Buccaneers | Buccaneers | 1.25 (80¢) | $87,511 | -$87,511 | ❌ Perdida |
 | mooseborzoii | Will Olympique Lyonnais win on 2026-10-18? | Yes | 2.00 (50¢) | $167,559 | +$167,559 | ✅ Ganada |
