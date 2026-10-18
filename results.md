@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 11:42:08 (hora de Perú)
+Actualizado: 2026-10-18 11:44:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5563**  ($306,742,953 en total)
+- Apuestas registradas: **5566**  ($306,923,440 en total)
 - Resueltas: **5478** — 3354 ganadas / 2124 perdidas (**61%** de acierto)
-- Pendientes: 63
-- Apostadores distintos: 590
+- Pendientes: 66
+- Apostadores distintos: 591
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 388 | 212 | 11 | 65% | $38,253,339 | +$785,202 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 388 | 212 | 12 | 65% | $38,292,958 | +$785,202 |
 | Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 10 | 5 | 1 | 67% | $1,717,959 | -$195,755 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 
-_(mostrando los 40 de mayor monto, de 590 en total)_
+_(mostrando los 40 de mayor monto, de 591 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 778908 | Texans vs. Jaguars | Texans | 1.12 (89¢) | $78,984 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Jaguars | Texans | 1.16 (86¢) | $39,619 | — | ⏳ Pendiente |
+| Anon455 | Texans vs. Jaguars | Texans | 1.16 (86¢) | $61,884 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Panthers (-13.5) | Eagles | 1.27 (79¢) | $39,830 | — | ⏳ Pendiente |
 | RegardedMoney | Spread: Panthers (-2.5) | Eagles | 2.22 (45¢) | $41,154 | — | ⏳ Pendiente |
 | Anon455 | Texans vs. Jaguars | Texans | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $86,211 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Brighton & Hove Albion FC (-1.5) | Brighton & Hove Albion FC | 2.33 (43¢) | $40,994 | +$54,341 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Leeds United FC vs. Manchester United FC: O/U 2.5 | Under 2.5 | 1.92 (52¢) | $29,790 | +$27,498 | ✅ Ganada |
-| migrodrigues | Will Real Madrid CF vs. Sevilla FC end in a draw? | Yes | 7.14 (14¢) | $29,730 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Leeds United FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $51,649 | +$3,888 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $87,029 | — | ⏳ Pendiente |
