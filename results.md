@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 13:25:56 (hora de Perú)
+Actualizado: 2026-10-18 13:27:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5605**  ($309,949,779 en total)
+- Apuestas registradas: **5606**  ($310,016,439 en total)
 - Resueltas: **5512** — 3377 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 71
+- Pendientes: 72
 - Apostadores distintos: 591
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | mooseborzoii | 57 | 27 | 9 | 68% | $5,285,806 | +$1,243,945 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
-| ethanaz | 52 | 22 | 1 | 70% | $4,723,169 | -$160,041 |
+| ethanaz | 52 | 22 | 2 | 70% | $4,789,829 | -$160,041 |
 | BrotherObama | 43 | 49 | 3 | 47% | $4,233,413 | -$161,127 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 0 | 60% | $3,483,480 | +$161,369 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Panthers vs. Eagles | Panthers | 1.35 (74¢) | $66,660 | — | ⏳ Pendiente |
 | Laskhask | Ravens vs. Browns | Ravens | 1.18 (85¢) | $85,821 | — | ⏳ Pendiente |
 | sulumos | Ravens vs. Browns | Ravens | 1.18 (85¢) | $58,565 | — | ⏳ Pendiente |
 | ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $27,064 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | hfv | Texans vs. Jaguars | Texans | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
 | juice-fruit | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.33 (75¢) | $25,824 | — | ⏳ Pendiente |
 | mooseborzoii | Texans vs. Jaguars | Texans | 1.52 (66¢) | $72,220 | +$37,204 | ✅ Ganada |
-| Anon455 | Texans vs. Jaguars | Texans | 1.43 (70¢) | $28,000 | +$12,000 | ✅ Ganada |

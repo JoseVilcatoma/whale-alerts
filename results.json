@@ -84251,5 +84251,20 @@
     "status": "pending",
     "ultimo_fill": 1792347823,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 11360,
+    "timestamp": 1792347987,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-car-phi-2026-10-18",
+    "title": "Panthers vs. Eagles",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 66659.6366,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1792347987,
+    "fills": 1
   }
 ]
