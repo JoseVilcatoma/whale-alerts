@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:48:53 (hora de Perú)
+Actualizado: 2026-10-18 15:50:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5648**  ($312,615,814 en total)
-- Resueltas: **5527** — 3384 ganadas / 2143 perdidas (**61%** de acierto)
-- Pendientes: 99
+- Apuestas registradas: **5649**  ($312,672,136 en total)
+- Resueltas: **5532** — 3387 ganadas / 2145 perdidas (**61%** de acierto)
+- Pendientes: 95
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,111,702** sobre $305,391,619 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,909** sobre $544,800 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$1,075,404** sobre $305,712,489 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,779** sobre $545,300 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 18 | 3 | 62% | $5,594,771 | +$1,086,392 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| mooseborzoii | 57 | 29 | 8 | 66% | $5,342,581 | +$1,098,032 |
+| mooseborzoii | 57 | 30 | 7 | 66% | $5,342,581 | +$1,062,032 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 52 | 23 | 2 | 69% | $4,821,947 | -$192,159 |
 | BrotherObama | 43 | 49 | 3 | 47% | $4,233,413 | -$161,127 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | cosmicxbt | 17 | 7 | 2 | 71% | $2,818,949 | -$337,317 |
-| 0F62 | 29 | 6 | 2 | 83% | $2,702,567 | -$324,424 |
+| 0F62 | 29 | 6 | 3 | 83% | $2,758,889 | -$324,424 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Chargers vs. Chiefs | Chiefs | 1.20 (83¢) | $56,322 | — | ⏳ Pendiente |
 | Jittz | Bills vs. Raiders | Bills | 1.61 (62¢) | $25,575 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.20 (83¢) | $29,265 | — | ⏳ Pendiente |
 | cosmicxbt | Steelers vs. Buccaneers | Steelers | 1.14 (88¢) | $114,375 | — | ⏳ Pendiente |
@@ -90,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Cardinals vs. Rams | Rams | 1.15 (87¢) | $53,940 | — | ⏳ Pendiente |
 | zb8 | LoL: Karmine Corp vs MVK Esports - Game 3 Winner | Karmine Corp | 1.25 (80¢) | $36,578 | — | ⏳ Pendiente |
 | sbimbg | Cardinals vs. Rams | Rams | 1.16 (86¢) | $43,000 | +$500 | 💰 Vendida antes |
-| KaneAnalytics | Titans vs. Colts | Titans | 1.43 (70¢) | $100,050 | — | ⏳ Pendiente |
+| KaneAnalytics | Titans vs. Colts | Titans | 1.43 (70¢) | $100,050 | +$42,879 | ✅ Ganada |
 | KaneAnalytics | Ravens vs. Browns | Browns | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
 | IdentityV | Panthers vs. Eagles | Panthers | 1.16 (86¢) | $34,641 | — | ⏳ Pendiente |
 | Anon455 | Panthers vs. Eagles | Panthers | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
@@ -111,7 +112,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | TAIWANNUMBERONE | Panthers vs. Eagles | Panthers | 1.43 (70¢) | $54,989 | — | ⏳ Pendiente |
 | Kyn008 | Real Madrid CF vs. Sevilla FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $35,104 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Saints vs. Giants | Saints | 1.85 (54¢) | $30,947 | — | ⏳ Pendiente |
-| milkteaboba | Titans vs. Colts | Colts | 1.06 (94¢) | $128,254 | — | ⏳ Pendiente |
+| milkteaboba | Titans vs. Colts | Colts | 1.06 (94¢) | $128,254 | -$128,254 | ❌ Perdida |
 | nb1985 | Will Olympique Lyonnais win on 2026-10-18? | No | 1.92 (52¢) | $100,000 | — | ⏳ Pendiente |
 | ethanaz | Panthers vs. Eagles | Panthers | 1.35 (74¢) | $66,660 | — | ⏳ Pendiente |
 | Laskhask | Ravens vs. Browns | Ravens | 1.18 (85¢) | $85,821 | -$85,821 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | 778908 | Panthers vs. Eagles | Panthers | 1.41 (71¢) | $27,157 | — | ⏳ Pendiente |
 | ColdBlooded | Game Handicap: KC (-1.5) vs MVK Esports (+1.5) | Karmine Corp | 1.30 (77¢) | $25,637 | — | ⏳ Pendiente |
 | ethanaz | Panthers vs. Eagles | Panthers | 1.37 (73¢) | $26,200 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Panthers vs. Eagles | Panthers | 1.45 (69¢) | $36,928 | — | ⏳ Pendiente |
