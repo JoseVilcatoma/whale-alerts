@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:40:20 (hora de Perú)
+Actualizado: 2026-10-18 10:42:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5541**  ($305,709,792 en total)
+- Apuestas registradas: **5542**  ($305,770,001 en total)
 - Resueltas: **5472** — 3353 ganadas / 2119 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 590
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 51 | 22 | 0 | 70% | $4,665,455 | -$171,697 |
-| mooseborzoii | 52 | 27 | 2 | 66% | $4,210,080 | +$1,091,171 |
+| mooseborzoii | 52 | 27 | 3 | 66% | $4,270,289 | +$1,091,171 |
 | BrotherObama | 43 | 49 | 2 | 47% | $4,208,413 | -$161,127 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 0 | 60% | $3,483,480 | +$161,369 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Spread: Ravens (-3.5) | Ravens | 2.13 (47¢) | $60,209 | — | ⏳ Pendiente |
 | gambamaster | Texans vs. Jaguars | Texans | 1.30 (77¢) | $36,117 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-10-18? | Yes | 1.56 (64¢) | $91,755 | — | ⏳ Pendiente |
 | Mooseborzoiii | Will Arsenal FC win on 2026-10-18? | No | 2.78 (36¢) | $30,280 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.49 (67¢) | $368,267 | +$181,385 | ✅ Ganada |
 | hfv | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $30,578 | +$14,390 | ✅ Ganada |
 | Kkunn | Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.72 (58¢) | $27,395 | — | ⏳ Pendiente |
-| Woaifacai | Will US Lecce win on 2026-10-18? | Yes | 1.27 (79¢) | $79,000 | +$21,000 | ✅ Ganada |

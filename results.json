@@ -83289,5 +83289,20 @@
     "status": "pending",
     "ultimo_fill": 1792338003,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11257,
+    "timestamp": 1792338021,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-bal-cle-2026-10-18-spread-away-3pt5",
+    "title": "Spread: Ravens (-3.5)",
+    "outcome": "Ravens",
+    "side": "BUY",
+    "usd": 60208.9975,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1792338021,
+    "fills": 1
   }
 ]
