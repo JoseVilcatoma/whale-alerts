@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 13:03:29 (hora de Perú)
+Actualizado: 2026-10-18 13:05:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5593**  ($309,166,499 en total)
+- Apuestas registradas: **5594**  ($309,207,898 en total)
 - Resueltas: **5512** — 3377 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Pendientes: 60
 - Apostadores distintos: 591
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
-| mooseborzoii | 57 | 27 | 7 | 68% | $5,076,848 | +$1,243,945 |
+| mooseborzoii | 57 | 27 | 8 | 68% | $5,118,247 | +$1,243,945 |
 | ethanaz | 52 | 22 | 1 | 70% | $4,723,169 | -$160,041 |
 | BrotherObama | 43 | 49 | 3 | 47% | $4,233,413 | -$161,127 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Will Olympique Lyonnais win on 2026-10-18? | Yes | 1.96 (51¢) | $41,399 | — | ⏳ Pendiente |
 | S-Works | Will Sevilla FC win on 2026-10-18? | No | 1.09 (92¢) | $182,647 | — | ⏳ Pendiente |
 | 778908 | Panthers vs. Eagles | Panthers | 1.41 (71¢) | $27,157 | — | ⏳ Pendiente |
 | ColdBlooded | Game Handicap: KC (-1.5) vs MVK Esports (+1.5) | Karmine Corp | 1.30 (77¢) | $25,637 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | richbeak | Texans vs. Jaguars | Jaguars | 2.33 (43¢) | $195,968 | -$195,968 | ❌ Perdida |
 | Nooserac | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $25,800 | — | ⏳ Pendiente |
 | S-Works | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $135,020 | — | ⏳ Pendiente |
-| migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.39 (72¢) | $75,000 | — | ⏳ Pendiente |
