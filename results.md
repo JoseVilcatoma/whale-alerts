@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:21:53 (hora de Perú)
+Actualizado: 2026-10-18 10:23:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5536**  ($305,318,599 en total)
-- Resueltas: **5462** — 3348 ganadas / 2114 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Resueltas: **5463** — 3348 ganadas / 2115 perdidas (**61%** de acierto)
+- Pendientes: 51
 - Apostadores distintos: 589
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,235,464** sobre $300,482,452 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,183** sobre $538,600 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,205,916** sobre $300,512,000 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,283** sobre $538,700 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -126,7 +126,7 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | hfv | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $30,578 | +$14,390 | ✅ Ganada |
 | Kkunn | Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.72 (58¢) | $27,395 | — | ⏳ Pendiente |
 | Woaifacai | Will US Lecce win on 2026-10-18? | Yes | 1.27 (79¢) | $79,000 | +$21,000 | ✅ Ganada |
-| 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | AFC Bournemouth vs. Sunderland AFC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 2.00 (50¢) | $29,548 | — | ⏳ Pendiente |
+| 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | AFC Bournemouth vs. Sunderland AFC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 2.00 (50¢) | $29,548 | -$29,548 | ❌ Perdida |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Leeds United FC vs. Manchester United FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | migrodrigues | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $25,000 | — | ⏳ Pendiente |
 | Zzzz87 | Udinese Calcio vs. US Lecce: O/U 2.5 | Over 2.5 | 2.08 (48¢) | $33,238 | +$36,008 | ✅ Ganada |

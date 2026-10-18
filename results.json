@@ -82382,7 +82382,7 @@
     "side": "BUY",
     "usd": 29547.5,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792321452,
     "fills": 1
   },
