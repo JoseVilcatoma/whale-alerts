@@ -83075,5 +83075,20 @@
     "status": "pending",
     "ultimo_fill": 1792334990,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 11219,
+    "timestamp": 1792335201,
+    "username": "gambamaster",
+    "wallet": "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de",
+    "slug": "nfl-hou-jax-2026-10-18",
+    "title": "Texans vs. Jaguars",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 68798.58159999999,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1792335201,
+    "fills": 1
   }
 ]

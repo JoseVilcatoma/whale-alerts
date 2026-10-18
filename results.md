@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 09:52:50 (hora de Perú)
+Actualizado: 2026-10-18 09:54:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5527**  ($304,790,151 en total)
+- Apuestas registradas: **5528**  ($304,858,949 en total)
 - Resueltas: **5448** — 3338 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Pendientes: 58
 - Apostadores distintos: 589
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gambamaster | Texans vs. Jaguars | Jaguars | 1.64 (61¢) | $68,799 | — | ⏳ Pendiente |
 | Zzzz87 | Nottingham Forest FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $67,614 | — | ⏳ Pendiente |
 | sulumos | Texans vs. Jaguars | Jaguars | 1.89 (53¢) | $30,740 | — | ⏳ Pendiente |
 | ndb1 | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $53,846 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | BTCGambler247 | Spread: Ravens (-3.5) | Browns | 1.89 (53¢) | $27,030 | — | ⏳ Pendiente |
 | acorp | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | BetBoom Team | 2.22 (45¢) | $33,840 | — | ⏳ Pendiente |
 | Sassy-Bucket | Nebraska vs. Oregon | Oregon | 1.79 (56¢) | $36,674 | +$28,815 | ✅ Ganada |
-| BrotherObama | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | LOUD | 1.69 (59¢) | $31,111 | +$21,620 | ✅ Ganada |
