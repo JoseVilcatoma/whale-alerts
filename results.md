@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:07:18 (hora de Perú)
+Actualizado: 2026-10-18 10:09:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5532**  ($305,047,555 en total)
+- Apuestas registradas: **5533**  ($305,082,779 en total)
 - Resueltas: **5449** — 3338 ganadas / 2111 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Pendientes: 62
 - Apostadores distintos: 589
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.41 (71¢) | $35,225 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.39 (72¢) | $48,285 | — | ⏳ Pendiente |
 | Weaseloftheweek | Will Arsenal FC win on 2026-10-18? | Yes | 1.54 (65¢) | $64,273 | — | ⏳ Pendiente |
 | takeormake | Panthers vs. Eagles | Panthers | 1.67 (60¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | beeemw | Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Rafael Jodar | Rafael Jodar | 1.25 (80¢) | $25,600 | -$25,600 | ❌ Perdida |
 | 0F62 | Chargers vs. Chiefs | Chiefs | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
 | 0F62 | Cardinals vs. Rams | Rams | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
-| omnibus-076daa | Spread: Jaguars (-2.5) | Texans | 2.04 (49¢) | $32,044 | — | ⏳ Pendiente |
