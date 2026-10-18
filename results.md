@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:12:03 (hora de Perú)
+Actualizado: 2026-10-18 15:14:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5636**  ($311,551,656 en total)
+- Apuestas registradas: **5638**  ($311,634,499 en total)
 - Resueltas: **5515** — 3380 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 99
+- Pendientes: 101
 - Apostadores distintos: 595
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | totoro3miyazaki | 34 | 21 | 1 | 62% | $6,664,377 | -$423,776 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| ferrariChampions2026 | 92 | 44 | 4 | 68% | $6,257,065 | +$274,278 |
+| ferrariChampions2026 | 92 | 44 | 5 | 68% | $6,288,611 | +$274,278 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 18 | 3 | 62% | $5,594,771 | +$1,086,392 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 38 | 10 | 2 | 79% | $3,280,526 | +$1,797,887 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | cosmicxbt | 17 | 7 | 1 | 71% | $2,704,575 | -$337,317 |
-| 0F62 | 29 | 6 | 1 | 83% | $2,651,269 | -$324,424 |
+| 0F62 | 29 | 6 | 2 | 83% | $2,702,567 | -$324,424 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 595 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.82 (55¢) | $31,546 | — | ⏳ Pendiente |
+| 0F62 | Cardinals vs. Rams | Rams | 1.15 (87¢) | $51,298 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Steelers vs. Buccaneers | Steelers | 1.30 (77¢) | $38,767 | — | ⏳ Pendiente |
 | Takon88 | Will Columbus Crew win on 2026-10-18? | No | 1.64 (61¢) | $91,500 | — | ⏳ Pendiente |
 | sinasinner | Spread: Bills (-5.5) | Raiders | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 595 en total)_
 | ferrariChampions2026 | Bears vs. Falcons | Falcons | 2.08 (48¢) | $141,573 | — | ⏳ Pendiente |
 | mooseborzoii | Titans vs. Colts | Colts | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Browns | Ravens | 1.64 (61¢) | $85,704 | — | ⏳ Pendiente |
-| mooseborzoii | Bears vs. Falcons | Falcons | 2.08 (48¢) | $139,040 | — | ⏳ Pendiente |
-| mooseborzoii | Steelers vs. Buccaneers | Buccaneers | 2.27 (44¢) | $167,401 | — | ⏳ Pendiente |
