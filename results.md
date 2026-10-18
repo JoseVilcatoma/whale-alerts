@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:26:28 (hora de Perú)
+Actualizado: 2026-10-18 15:28:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5643**  ($312,208,040 en total)
+- Apuestas registradas: **5644**  ($312,237,660 en total)
 - Resueltas: **5526** — 3383 ganadas / 2143 perdidas (**61%** de acierto)
-- Pendientes: 95
+- Pendientes: 96
 - Apostadores distintos: 596
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Cardinals vs. Rams | Rams | 1.19 (84¢) | $29,620 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Raiders | Bills | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.19 (84¢) | $234,601 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Bills (-4.5) | Raiders | 2.04 (49¢) | $196,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | gambamaster | Ravens vs. Browns | Ravens | 1.22 (82¢) | $50,211 | -$50,211 | ❌ Perdida |
 | KaneAnalytics | Panthers vs. Eagles | Panthers | 1.43 (70¢) | $42,979 | — | ⏳ Pendiente |
 | lfg100k | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.61 (62¢) | $52,000 | — | ⏳ Pendiente |
-| mooseborzoii | Saints vs. Giants | Giants | 2.04 (49¢) | $126,159 | — | ⏳ Pendiente |
