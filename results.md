@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:53:15 (hora de Perú)
+Actualizado: 2026-10-18 15:55:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5651**  ($312,750,480 en total)
+- Apuestas registradas: **5653**  ($312,817,363 en total)
 - Resueltas: **5546** — 3400 ganadas / 2146 perdidas (**61%** de acierto)
-- Pendientes: 83
+- Pendientes: 85
 - Apostadores distintos: 596
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 57 | 30 | 7 | 66% | $5,342,581 | +$1,062,032 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 54 | 23 | 0 | 70% | $4,821,947 | -$159,048 |
-| BrotherObama | 43 | 49 | 3 | 47% | $4,233,413 | -$161,127 |
+| BrotherObama | 43 | 49 | 4 | 47% | $4,270,413 | -$161,127 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 1 | 60% | $3,679,480 | +$161,369 |
 | surfandturf | 31 | 9 | 1 | 78% | $3,441,382 | +$404,362 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $37,000 | — | ⏳ Pendiente |
+| Laskhask | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $29,883 | — | ⏳ Pendiente |
 | takeormake | Bills vs. Raiders | Raiders | 2.86 (35¢) | $49,995 | — | ⏳ Pendiente |
 | Jittz | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $28,350 | — | ⏳ Pendiente |
 | 0F62 | Chargers vs. Chiefs | Chiefs | 1.20 (83¢) | $56,322 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | Jittz | Steelers vs. Buccaneers | Buccaneers | 1.25 (80¢) | $44,800 | — | ⏳ Pendiente |
 | ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | mooseborzoii | Will Olympique Lyonnais win on 2026-10-18? | Yes | 1.96 (51¢) | $41,399 | — | ⏳ Pendiente |
-| S-Works | Will Sevilla FC win on 2026-10-18? | No | 1.09 (92¢) | $182,647 | — | ⏳ Pendiente |
-| 778908 | Panthers vs. Eagles | Panthers | 1.41 (71¢) | $27,157 | +$11,092 | ✅ Ganada |

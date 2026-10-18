@@ -84943,5 +84943,35 @@
     "status": "pending",
     "ultimo_fill": 1792356761,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11439,
+    "timestamp": 1792356872,
+    "username": "Laskhask",
+    "wallet": "0x3682205f93964f923d1cc2b100907268f300df75",
+    "slug": "nfl-lac-kc-2026-10-18",
+    "title": "Chargers vs. Chiefs",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 29883.050399999996,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1792356872,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11440,
+    "timestamp": 1792356908,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-tb-cle-2026-10-17-total-6pt5",
+    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 36999.99999999999,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792356908,
+    "fills": 1
   }
 ]
