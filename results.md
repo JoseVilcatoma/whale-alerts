@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 00:56:16 (hora de Perú)
+Actualizado: 2026-10-18 00:58:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5470**  ($299,831,104 en total)
+- Apuestas registradas: **5471**  ($299,858,134 en total)
 - Resueltas: **5439** — 3332 ganadas / 2107 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 585
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BTCGambler247 | Spread: Ravens (-3.5) | Browns | 1.89 (53¢) | $27,030 | — | ⏳ Pendiente |
 | acorp | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | BetBoom Team | 2.22 (45¢) | $33,840 | — | ⏳ Pendiente |
 | Sassy-Bucket | Nebraska vs. Oregon | Oregon | 1.79 (56¢) | $36,674 | — | ⏳ Pendiente |
 | BrotherObama | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | LOUD | 1.69 (59¢) | $31,111 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 | Nooserac | Ohio State vs. Indiana | Indiana | 1.56 (64¢) | $29,304 | -$29,304 | ❌ Perdida |
 | veliMax | Will FC Barcelona win on 2026-10-17? | Yes | 1.22 (82¢) | $73,943 | +$16,231 | ✅ Ganada |
 | Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.64 (61¢) | $50,427 | -$50,427 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
