@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 07:36:26 (hora de Perú)
+Actualizado: 2026-10-18 07:38:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5500**  ($302,154,693 en total)
+- Apuestas registradas: **5501**  ($302,282,664 en total)
 - Resueltas: **5446** — 3336 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 587
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 209 | 6 | 65% | $37,493,721 | +$993,367 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 209 | 7 | 65% | $37,621,692 | +$993,367 |
 | Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $127,971 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Joao Domingues vs Ivan Gakhov | Ivan Gakhov | 1.47 (68¢) | $40,651 | — | ⏳ Pendiente |
 | Kch-Temp | Titans vs. Colts: O/U 44.5 | Under 44.5 | 1.96 (51¢) | $41,902 | — | ⏳ Pendiente |
 | mooseborzoii | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $90,393 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 | Sassy-Bucket | UFC Fight Night: Katlyn Cerminara vs. Mackenzie Stiller (Women's Flyweight, Prelims) | Katlyn Cerminara | 1.45 (69¢) | $31,046 | +$13,948 | ✅ Ganada |
 | gmpm2 | Washington State vs. Oregon State | Oregon State | 1.11 (90¢) | $26,683 | +$2,965 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Chad Anheliger vs. Steven Koslow (Bantamweight, Prelims) | Chad Anheliger | 2.63 (38¢) | $27,675 | -$27,675 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Tennessee | Tennessee | 2.63 (38¢) | $38,000 | +$62,000 | ✅ Ganada |
