@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 13:40:34 (hora de Perú)
+Actualizado: 2026-10-18 13:42:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5612**  ($310,412,689 en total)
+- Apuestas registradas: **5613**  ($310,447,689 en total)
 - Resueltas: **5512** — 3377 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 78
+- Pendientes: 79
 - Apostadores distintos: 592
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 592 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SebastianAde1996 | Will Olympique Lyonnais win on 2026-10-18? | No | 1.92 (52¢) | $35,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ravens vs. Browns | Ravens | 1.18 (85¢) | $46,956 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Panthers vs. Eagles | Panthers | 1.43 (70¢) | $54,989 | — | ⏳ Pendiente |
 | Kyn008 | Real Madrid CF vs. Sevilla FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $35,104 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 592 en total)_
 | Anon455 | Texans vs. Jaguars | Texans | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Panthers (-4.5) | Eagles | 1.75 (57¢) | $76,212 | — | ⏳ Pendiente |
 | takeormake | Spread: Panthers (-3.5) | Panthers | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
-| lfg100k | Will Real Madrid CF win on 2026-10-18? | Yes | 1.25 (80¢) | $58,000 | — | ⏳ Pendiente |

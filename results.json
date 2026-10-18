@@ -84356,5 +84356,20 @@
     "status": "pending",
     "ultimo_fill": 1792348661,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11367,
+    "timestamp": 1792348957,
+    "username": "SebastianAde1996",
+    "wallet": "0x4b4071d1456249cd8d7272d533a3efe191aa2f6a",
+    "slug": "fl1-lyo-ogc-2026-10-18-lyo",
+    "title": "Will Olympique Lyonnais win on 2026-10-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 34999.99999999999,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792348957,
+    "fills": 1
   }
 ]
