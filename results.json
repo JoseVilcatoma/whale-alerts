@@ -82190,5 +82190,20 @@
     "status": "pending",
     "ultimo_fill": 1792296040,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11147,
+    "timestamp": 1792297366,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-nebr-ore-2026-10-17",
+    "title": "Nebraska vs. Oregon",
+    "outcome": "Oregon",
+    "side": "BUY",
+    "usd": 36674.1375,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1792297366,
+    "fills": 1
   }
 ]
