@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:11:29 (hora de Perú)
+Actualizado: 2026-10-18 10:13:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5533**  ($305,082,779 en total)
-- Resueltas: **5449** — 3338 ganadas / 2111 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Resueltas: **5458** — 3345 ganadas / 2113 perdidas (**61%** de acierto)
+- Pendientes: 53
 - Apostadores distintos: 589
 
 ### Balance
 
-- **Resultado de los apostadores: +$846,800** sobre $298,944,001 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,538** sobre $537,400 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$1,154,274** sobre $300,304,441 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,415** sobre $538,300 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,14 +24,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 210 | 11 | 65% | $37,913,622 | +$952,716 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 386 | 211 | 9 | 65% | $37,913,622 | +$778,021 |
 | Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | totoro3miyazaki | 34 | 19 | 3 | 64% | $6,664,377 | +$48,997 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| joseph00677 | 16 | 2 | 5 | 89% | $6,233,207 | +$2,066,720 |
+| joseph00677 | 20 | 2 | 1 | 91% | $6,233,207 | +$2,495,685 |
 | ferrariChampions2026 | 91 | 44 | 1 | 67% | $6,007,630 | +$248,230 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -109,18 +109,18 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | mooseborzoii | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $90,393 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.79 (56¢) | $234,440 | — | ⏳ Pendiente |
 | Siddhartha1 | Spread: Steelers (-2.5) | Steelers | 2.00 (50¢) | $35,044 | — | ⏳ Pendiente |
-| juice-fruit | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $150,480 | — | ⏳ Pendiente |
+| juice-fruit | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $150,480 | +$70,814 | ✅ Ganada |
 | Takon88 | Will AFC Bournemouth win on 2026-10-18? | Yes | 2.17 (46¢) | $35,207 | — | ⏳ Pendiente |
-| joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $61,880 | — | ⏳ Pendiente |
-| joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.43 (70¢) | $245,000 | — | ⏳ Pendiente |
+| joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $61,880 | +$29,120 | ✅ Ganada |
+| joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.43 (70¢) | $245,000 | +$105,000 | ✅ Ganada |
 | Satanishippie | Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.72 (58¢) | $27,089 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-10-18? | No | 3.33 (30¢) | $188,645 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.45 (69¢) | $31,050 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-10-18? | No | 3.33 (30¢) | $188,645 | -$188,645 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.45 (69¢) | $31,050 | +$13,950 | ✅ Ganada |
 | SDTrading | Texans vs. Jaguars: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
-| joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.45 (69¢) | $252,540 | — | ⏳ Pendiente |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Brighton & Hove Albion FC win on 2026-10-18? | No | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
-| joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.49 (67¢) | $368,267 | — | ⏳ Pendiente |
-| hfv | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $30,578 | — | ⏳ Pendiente |
+| joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.45 (69¢) | $252,540 | +$113,460 | ✅ Ganada |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Brighton & Hove Albion FC win on 2026-10-18? | No | 3.12 (32¢) | $32,000 | -$32,000 | ❌ Perdida |
+| joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.49 (67¢) | $368,267 | +$181,385 | ✅ Ganada |
+| hfv | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $30,578 | +$14,390 | ✅ Ganada |
 | Kkunn | Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.72 (58¢) | $27,395 | — | ⏳ Pendiente |
 | Woaifacai | Will US Lecce win on 2026-10-18? | Yes | 1.27 (79¢) | $79,000 | +$21,000 | ✅ Ganada |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | AFC Bournemouth vs. Sunderland AFC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 2.00 (50¢) | $29,548 | — | ⏳ Pendiente |
