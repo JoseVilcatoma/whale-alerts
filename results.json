@@ -83319,5 +83319,35 @@
     "status": "pending",
     "ultimo_fill": 1792338259,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11263,
+    "timestamp": 1792338273,
+    "username": "Satanishippie",
+    "wallet": "0x89eb83948d44d7b9b5e2c58fb49167b563a3cff9",
+    "slug": "cs2-furia-bb3-2026-10-18-map-handicap-away-1pt5",
+    "title": "Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5)",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 29999.999998999996,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1792338273,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11264,
+    "timestamp": 1792338286,
+    "username": "Satanishippie",
+    "wallet": "0x89eb83948d44d7b9b5e2c58fb49167b563a3cff9",
+    "slug": "cs2-furia-bb3-2026-10-18",
+    "title": "Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 82732.729998,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1792338286,
+    "fills": 1
   }
 ]

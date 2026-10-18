@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:44:27 (hora de Perú)
+Actualizado: 2026-10-18 10:46:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5543**  ($305,801,515 en total)
+- Apuestas registradas: **5545**  ($305,914,248 en total)
 - Resueltas: **5476** — 3354 ganadas / 2122 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 47
 - Apostadores distintos: 590
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Satanishippie | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.35 (74¢) | $82,733 | — | ⏳ Pendiente |
+| Satanishippie | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | FURIA | 1.69 (59¢) | $30,000 | — | ⏳ Pendiente |
 | ethanaz | Texans vs. Jaguars | Texans | 1.37 (73¢) | $31,514 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Ravens (-3.5) | Ravens | 2.13 (47¢) | $60,209 | — | ⏳ Pendiente |
 | gambamaster | Texans vs. Jaguars | Texans | 1.30 (77¢) | $36,117 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | SDTrading | Texans vs. Jaguars: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
 | joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.45 (69¢) | $252,540 | +$113,460 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Brighton & Hove Albion FC win on 2026-10-18? | No | 3.12 (32¢) | $32,000 | -$32,000 | ❌ Perdida |
-| joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.49 (67¢) | $368,267 | +$181,385 | ✅ Ganada |
-| hfv | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $30,578 | +$14,390 | ✅ Ganada |
