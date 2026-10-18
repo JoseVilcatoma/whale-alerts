@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 19:27:19 (hora de Perú)
+Actualizado: 2026-10-17 19:29:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5453**  ($298,499,923 en total)
-- Resueltas: **5414** — 3319 ganadas / 2095 perdidas (**61%** de acierto)
+- Apuestas registradas: **5454**  ($298,529,819 en total)
+- Resueltas: **5415** — 3320 ganadas / 2095 perdidas (**61%** de acierto)
 - Pendientes: 17
 - Apostadores distintos: 584
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,087,214** sobre $296,806,265 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$2,988** sobre $533,900 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,101,535** sobre $296,854,209 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$2,958** sobre $534,000 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | totoro3miyazaki | 34 | 19 | 1 | 64% | $6,191,604 | +$48,997 |
-| ferrariChampions2026 | 90 | 44 | 1 | 67% | $5,981,583 | +$233,909 |
+| ferrariChampions2026 | 91 | 44 | 0 | 67% | $5,981,583 | +$248,230 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Notre Dame vs. BYU | Notre Dame | 1.37 (73¢) | $29,896 | — | ⏳ Pendiente |
 | omnibus-076daa | Bruins vs. Kings | Kings | 1.79 (56¢) | $39,159 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will Vancouver Whitecaps FC win on 2026-10-17? | Yes | 1.54 (65¢) | $55,403 | — | ⏳ Pendiente |
 | 0000a | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $138,502 | — | ⏳ Pendiente |
@@ -78,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | Roadto1mlesgooo | Atlanta United FC vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $34,843 | — | ⏳ Pendiente |
 | gmpm2 | Kent State vs. South Florida | South Florida | 1.09 (92¢) | $57,500 | — | ⏳ Pendiente |
 | DelidelaDele | Will New York Red Bulls win on 2026-10-17? | Yes | 1.72 (58¢) | $37,120 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Santa Cruz 2: Francisco Comesana vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.30 (77¢) | $47,944 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Santa Cruz 2: Francisco Comesana vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.30 (77¢) | $47,944 | +$14,321 | ✅ Ganada |
 | TAIWANNUMBERONE | Alabama vs. Tennessee | Tennessee | 1.32 (76¢) | $38,276 | +$12,087 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Katlyn Cerminara vs. Mackenzie Stiller (Women's Flyweight, Prelims) | Katlyn Cerminara | 1.45 (69¢) | $31,046 | +$13,948 | ✅ Ganada |
 | gmpm2 | Washington State vs. Oregon State | Oregon State | 1.11 (90¢) | $26,683 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | gambamaster | Will Newcastle United FC win on 2026-10-17? | No | 1.82 (55¢) | $36,116 | +$29,550 | ✅ Ganada |
 | ndb1 | Will Newcastle United FC win on 2026-10-17? | No | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | tankfest2027 | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $27,571 | -$27,571 | ❌ Perdida |
-| raybanman | Will Newcastle United FC win on 2026-10-17? | Yes | 2.22 (45¢) | $90,000 | -$90,000 | ❌ Perdida |
