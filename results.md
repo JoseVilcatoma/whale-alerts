@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 11:52:42 (hora de Perú)
+Actualizado: 2026-10-18 11:54:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5573**  ($307,372,872 en total)
+- Apuestas registradas: **5575**  ($307,445,358 en total)
 - Resueltas: **5478** — 3354 ganadas / 2124 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Pendientes: 75
 - Apostadores distintos: 591
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AnonymousUsername | Panthers vs. Eagles | Panthers | 1.72 (58¢) | $27,619 | — | ⏳ Pendiente |
+| milkteaboba | Spread: Panthers (-7.5) | Eagles | 1.47 (68¢) | $44,867 | — | ⏳ Pendiente |
 | Sassy-Bucket | Saints vs. Giants | Giants | 2.00 (50¢) | $200,000 | — | ⏳ Pendiente |
 | 778908 | Panthers vs. Eagles | Panthers | 1.69 (59¢) | $88,248 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will SS Lazio win on 2026-10-18? | No | 1.20 (83¢) | $50,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | kdvlklkvlsklkfs | Florence: Dmitry Popko vs Daniele Rapagnetta | Dmitry Popko | 2.56 (39¢) | $30,730 | +$48,066 | ✅ Ganada |
 | wan123 | Saints vs. Giants | Saints | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | surfandturf | Chargers vs. Chiefs | Chiefs | 1.28 (78¢) | $54,296 | — | ⏳ Pendiente |
-| TheOpportunist | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $26,400 | — | ⏳ Pendiente |
-| ksp15 | Texans vs. Jaguars | Jaguars | 1.75 (57¢) | $53,045 | — | ⏳ Pendiente |
