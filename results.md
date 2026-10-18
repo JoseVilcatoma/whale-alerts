@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 11:56:58 (hora de Perú)
+Actualizado: 2026-10-18 11:59:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5576**  ($307,749,358 en total)
+- Apuestas registradas: **5580**  ($308,177,503 en total)
 - Resueltas: **5478** — 3354 ganadas / 2124 perdidas (**61%** de acierto)
-- Pendientes: 76
+- Pendientes: 80
 - Apostadores distintos: 591
 
 ### Balance
@@ -37,8 +37,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
+| mooseborzoii | 52 | 27 | 11 | 66% | $4,950,689 | +$1,091,171 |
 | ethanaz | 51 | 22 | 1 | 70% | $4,696,969 | -$171,697 |
-| mooseborzoii | 52 | 27 | 7 | 66% | $4,522,544 | +$1,091,171 |
 | BrotherObama | 43 | 49 | 3 | 47% | $4,233,413 | -$161,127 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 0 | 60% | $3,483,480 | +$161,369 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Titans vs. Colts | Colts | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
+| mooseborzoii | Ravens vs. Browns | Ravens | 1.64 (61¢) | $85,704 | — | ⏳ Pendiente |
+| mooseborzoii | Bears vs. Falcons | Falcons | 2.08 (48¢) | $139,040 | — | ⏳ Pendiente |
+| mooseborzoii | Steelers vs. Buccaneers | Buccaneers | 2.27 (44¢) | $167,401 | — | ⏳ Pendiente |
 | Sassy-Bucket | Jets vs. Patriots | Patriots | 1.32 (76¢) | $304,000 | — | ⏳ Pendiente |
 | AnonymousUsername | Panthers vs. Eagles | Panthers | 1.72 (58¢) | $27,619 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Panthers (-7.5) | Eagles | 1.47 (68¢) | $44,867 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | joseph00677 | Will Arsenal FC win on 2026-10-18? | Yes | 1.54 (65¢) | $1,206,336 | — | ⏳ Pendiente |
 | mooseborzoii | Texans vs. Jaguars | Texans | 2.13 (47¢) | $39,505 | — | ⏳ Pendiente |
-| crazyoddslover | Lisbon: Patrick Schoen vs Francisco Rocha | Francisco Rocha | 10.00 (10¢) | $30,135 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-10-18? | Yes | 1.16 (86¢) | $26,261 | +$4,275 | ✅ Ganada |
-| kdvlklkvlsklkfs | Florence: Dmitry Popko vs Daniele Rapagnetta | Dmitry Popko | 2.56 (39¢) | $30,730 | +$48,066 | ✅ Ganada |
-| wan123 | Saints vs. Giants | Saints | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
