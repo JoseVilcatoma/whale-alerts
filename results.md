@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 13:17:48 (hora de Perú)
+Actualizado: 2026-10-18 13:19:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5602**  ($309,778,329 en total)
+- Apuestas registradas: **5603**  ($309,805,394 en total)
 - Resueltas: **5512** — 3377 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 68
+- Pendientes: 69
 - Apostadores distintos: 591
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | ferrariChampions2026 | 92 | 44 | 2 | 68% | $6,186,132 | +$274,278 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
-| ripley86alien | 30 | 18 | 2 | 62% | $5,567,707 | +$1,086,392 |
+| ripley86alien | 30 | 18 | 3 | 62% | $5,594,771 | +$1,086,392 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | mooseborzoii | 57 | 27 | 9 | 68% | $5,285,806 | +$1,243,945 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $27,064 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Juventus FC vs. SS Lazio: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $26,193 | — | ⏳ Pendiente |
 | sbimbg | Saints vs. Giants | Giants | 1.39 (72¢) | $35,991 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 1 Winner | Karmine Corp | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | Anon455 | Texans vs. Jaguars | Texans | 1.43 (70¢) | $28,000 | +$12,000 | ✅ Ganada |
 | Satanishippie | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.35 (74¢) | $82,733 | — | ⏳ Pendiente |
 | Satanishippie | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | FURIA | 1.69 (59¢) | $30,000 | — | ⏳ Pendiente |
-| ethanaz | Texans vs. Jaguars | Texans | 1.37 (73¢) | $31,514 | +$11,656 | ✅ Ganada |
