@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 11:44:14 (hora de Perú)
+Actualizado: 2026-10-18 11:46:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5566**  ($306,923,440 en total)
+- Apuestas registradas: **5568**  ($306,978,439 en total)
 - Resueltas: **5478** — 3354 ganadas / 2124 perdidas (**61%** de acierto)
-- Pendientes: 66
+- Pendientes: 68
 - Apostadores distintos: 591
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 51 | 22 | 1 | 70% | $4,696,969 | -$171,697 |
 | mooseborzoii | 52 | 27 | 7 | 66% | $4,522,544 | +$1,091,171 |
-| BrotherObama | 43 | 49 | 2 | 47% | $4,208,413 | -$161,127 |
+| BrotherObama | 43 | 49 | 3 | 47% | $4,233,413 | -$161,127 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 0 | 60% | $3,483,480 | +$161,369 |
 | surfandturf | 31 | 9 | 1 | 78% | $3,441,382 | +$404,362 |
@@ -71,9 +71,11 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| takeormake | Titans vs. Colts | Titans | 3.57 (28¢) | $30,000 | — | ⏳ Pendiente |
 | 778908 | Texans vs. Jaguars | Texans | 1.12 (89¢) | $78,984 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Jaguars | Texans | 1.16 (86¢) | $39,619 | — | ⏳ Pendiente |
 | Anon455 | Texans vs. Jaguars | Texans | 1.16 (86¢) | $61,884 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Steelers (-2.5) | Steelers | 1.96 (51¢) | $25,000 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Panthers (-13.5) | Eagles | 1.27 (79¢) | $39,830 | — | ⏳ Pendiente |
 | RegardedMoney | Spread: Panthers (-2.5) | Eagles | 2.22 (45¢) | $41,154 | — | ⏳ Pendiente |
 | Anon455 | Texans vs. Jaguars | Texans | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | JambonMogettes | Bears vs. Falcons: O/U 52.5 | Over 52.5 | 2.04 (49¢) | $55,578 | -$4,537 | 💰 Vendida antes |
 | migrodrigues | Will Sevilla FC win on 2026-10-18? | Yes | 12.50 (8¢) | $35,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $86,211 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Brighton & Hove Albion FC (-1.5) | Brighton & Hove Albion FC | 2.33 (43¢) | $40,994 | +$54,341 | ✅ Ganada |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Leeds United FC vs. Manchester United FC: O/U 2.5 | Under 2.5 | 1.92 (52¢) | $29,790 | +$27,498 | ✅ Ganada |

@@ -83666,5 +83666,35 @@
     "status": "pending",
     "ultimo_fill": 1792341839,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11288,
+    "timestamp": 1792341893,
+    "username": "takeormake",
+    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+    "slug": "nfl-ten-ind-2026-10-18",
+    "title": "Titans vs. Colts",
+    "outcome": "Titans",
+    "side": "BUY",
+    "usd": 29999.760000000002,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "ultimo_fill": 1792341893,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11289,
+    "timestamp": 1792341612,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "nfl-pit-tb-2026-10-18-spread-away-2pt5",
+    "title": "Spread: Steelers (-2.5)",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 25000.00000044,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792341612,
+    "fills": 1
   }
 ]
