@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:17:50 (hora de Perú)
+Actualizado: 2026-10-18 10:19:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5535**  ($305,292,799 en total)
-- Resueltas: **5459** — 3346 ganadas / 2113 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Resueltas: **5461** — 3348 ganadas / 2113 perdidas (**61%** de acierto)
+- Pendientes: 52
 - Apostadores distintos: 589
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,208,615** sobre $300,345,435 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,282** sobre $538,400 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,240,001** sobre $300,426,874 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,183** sobre $538,600 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ndb1 | 26 | 12 | 1 | 68% | $2,081,380 | +$509,618 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 32 | 3 | 1 | 91% | $1,917,633 | +$64,091 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 31 | 1 | 50% | $1,875,253 | -$131,270 |
 | Talvez10 | 22 | 18 | 0 | 55% | $1,866,868 | +$279,196 |
 | Weaseloftheweek | 18 | 17 | 1 | 51% | $1,833,222 | -$75,955 |
@@ -99,9 +99,9 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | migrodrigues | Will Sevilla FC win on 2026-10-18? | Yes | 12.50 (8¢) | $35,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $86,211 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Brighton & Hove Albion FC (-1.5) | Brighton & Hove Albion FC | 2.33 (43¢) | $40,994 | +$54,341 | ✅ Ganada |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Leeds United FC vs. Manchester United FC: O/U 2.5 | Under 2.5 | 1.92 (52¢) | $29,790 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Leeds United FC vs. Manchester United FC: O/U 2.5 | Under 2.5 | 1.92 (52¢) | $29,790 | +$27,498 | ✅ Ganada |
 | migrodrigues | Will Real Madrid CF vs. Sevilla FC end in a draw? | Yes | 7.14 (14¢) | $29,730 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Leeds United FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $51,649 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Leeds United FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $51,649 | +$3,888 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $87,029 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.75 (57¢) | $238,334 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $50,000 | — | ⏳ Pendiente |
