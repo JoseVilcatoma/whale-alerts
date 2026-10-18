@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:59:22 (hora de Perú)
+Actualizado: 2026-10-18 16:01:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5654**  ($312,868,271 en total)
+- Apuestas registradas: **5655**  ($312,895,546 en total)
 - Resueltas: **5561** — 3407 ganadas / 2154 perdidas (**61%** de acierto)
-- Pendientes: 71
+- Pendientes: 72
 - Apostadores distintos: 596
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Cardinals vs. Rams | Rams | 1.20 (83¢) | $27,275 | — | ⏳ Pendiente |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $50,907 | — | ⏳ Pendiente |
 | BrotherObama | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $37,000 | — | ⏳ Pendiente |
 | Laskhask | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $29,883 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | Laskhask | Steelers vs. Buccaneers | Buccaneers | 1.25 (80¢) | $87,511 | — | ⏳ Pendiente |
 | mooseborzoii | Will Olympique Lyonnais win on 2026-10-18? | Yes | 2.00 (50¢) | $167,559 | — | ⏳ Pendiente |
 | Jittz | Steelers vs. Buccaneers | Buccaneers | 1.25 (80¢) | $44,800 | — | ⏳ Pendiente |
-| ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
