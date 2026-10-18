@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 22:27:25 (hora de Perú)
+Actualizado: 2026-10-17 22:29:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5467**  ($299,729,479 en total)
-- Resueltas: **5426** — 3327 ganadas / 2099 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **5427** — 3328 ganadas / 2099 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 585
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,060,952** sobre $297,306,538 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,120** sobre $535,100 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,079,285** sobre $297,351,423 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,079** sobre $535,200 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.13 (47¢) | $30,088 | -$30,088 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.22 (45¢) | $25,290 | -$25,290 | ❌ Perdida |
 | mooseborzoii | Notre Dame vs. BYU | BYU | 1.59 (63¢) | $201,676 | — | ⏳ Pendiente |
-| KaneAnalytics | Oklahoma State vs. Houston | Houston | 1.41 (71¢) | $44,884 | — | ⏳ Pendiente |
+| KaneAnalytics | Oklahoma State vs. Houston | Houston | 1.41 (71¢) | $44,884 | +$18,333 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Notre Dame vs. BYU | Notre Dame | 2.70 (37¢) | $45,505 | — | ⏳ Pendiente |
 | omnibus-076daa | Oilers vs. Utah | Utah | 1.75 (57¢) | $101,348 | — | ⏳ Pendiente |
 | KaneAnalytics | Florida State vs. Miami (FL) | Miami (FL) | 1.22 (82¢) | $79,222 | +$17,390 | ✅ Ganada |
