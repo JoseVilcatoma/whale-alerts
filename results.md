@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 11:00:50 (hora de Perú)
+Actualizado: 2026-10-18 11:02:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5549**  ($306,069,292 en total)
-- Resueltas: **5476** — 3354 ganadas / 2122 perdidas (**61%** de acierto)
+- Apuestas registradas: **5550**  ($306,174,160 en total)
+- Resueltas: **5477** — 3354 ganadas / 2123 perdidas (**61%** de acierto)
 - Pendientes: 51
 - Apostadores distintos: 590
 
 ### Balance
 
-- **Resultado de los apostadores: +$857,229** sobre $301,428,436 apostados (ROI **+0.3%**)
+- **Resultado de los apostadores: +$856,829** sobre $301,460,036 apostados (ROI **+0.3%**)
 - Copiando $100 fijo en cada una: **-$3,427** sobre $539,900 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 388 | 212 | 7 | 65% | $38,005,377 | +$785,202 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 388 | 212 | 8 | 65% | $38,110,245 | +$785,202 |
 | Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 10 | 2 | 79% | $3,280,526 | +$1,797,887 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
-| 0F62 | 29 | 5 | 2 | 85% | $2,651,269 | -$324,024 |
+| 0F62 | 29 | 6 | 1 | 83% | $2,651,269 | -$324,424 |
 | cosmicxbt | 17 | 7 | 0 | 71% | $2,604,992 | -$337,317 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Jaguars | Texans | 1.28 (78¢) | $104,868 | — | ⏳ Pendiente |
 | hfv | Texans vs. Jaguars | Texans | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.33 (75¢) | $25,824 | — | ⏳ Pendiente |
 | mooseborzoii | Texans vs. Jaguars | Texans | 1.52 (66¢) | $72,220 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $61,880 | +$29,120 | ✅ Ganada |
 | joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.43 (70¢) | $245,000 | +$105,000 | ✅ Ganada |
 | Satanishippie | Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.72 (58¢) | $27,089 | -$27,089 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-10-18? | No | 3.33 (30¢) | $188,645 | -$188,645 | ❌ Perdida |
