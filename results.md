@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 04:20:31 (hora de Perú)
+Actualizado: 2026-10-18 04:22:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5475**  ($299,973,546 en total)
+- Apuestas registradas: **5476**  ($299,999,146 en total)
 - Resueltas: **5443** — 3335 ganadas / 2108 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 585
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beeemw | Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Rafael Jodar | Rafael Jodar | 1.25 (80¢) | $25,600 | — | ⏳ Pendiente |
 | 0F62 | Chargers vs. Chiefs | Chiefs | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
 | 0F62 | Cardinals vs. Rams | Rams | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
 | omnibus-076daa | Spread: Jaguars (-2.5) | Texans | 2.04 (49¢) | $32,044 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 | nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.85 (54¢) | $71,470 | +$60,882 | ✅ Ganada |
 | Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 1 Winner | FURIA Esports | 1.59 (63¢) | $75,298 | -$75,298 | ❌ Perdida |
 | ferrariChampions2026 | Ohio State vs. Indiana | Ohio State | 1.67 (60¢) | $177,730 | +$118,487 | ✅ Ganada |
-| Flaznorp | Real Betis Balompié vs. FC Barcelona: O/U 7.5 | Under 7.5 | 1.09 (92¢) | $44,623 | +$3,880 | ✅ Ganada |
