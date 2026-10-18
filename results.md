@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 17:36:17 (hora de Perú)
+Actualizado: 2026-10-18 17:38:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5664**  ($313,346,741 en total)
+- Apuestas registradas: **5665**  ($313,385,176 en total)
 - Resueltas: **5607** — 3438 ganadas / 2169 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 596
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | totoro3miyazaki | 34 | 21 | 1 | 62% | $6,664,377 | -$423,776 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| ferrariChampions2026 | 97 | 45 | 0 | 68% | $6,317,876 | +$236,417 |
+| ferrariChampions2026 | 97 | 45 | 1 | 68% | $6,356,310 | +$236,417 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 21 | 0 | 59% | $5,594,771 | +$882,551 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cardinals vs. Rams | Cardinals | 1.25 (80¢) | $38,435 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Bills vs. Raiders | Bills | 1.16 (86¢) | $57,575 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Rams | Rams | 1.89 (53¢) | $53,530 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Bills vs. Raiders | Bills | 1.23 (81¢) | $32,142 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | milkteaboba | Titans vs. Colts | Colts | 1.06 (94¢) | $128,254 | -$128,254 | ❌ Perdida |
 | nb1985 | Will Olympique Lyonnais win on 2026-10-18? | No | 1.92 (52¢) | $100,000 | -$100,000 | ❌ Perdida |
 | ethanaz | Panthers vs. Eagles | Panthers | 1.35 (74¢) | $66,660 | +$23,421 | ✅ Ganada |
-| Laskhask | Ravens vs. Browns | Ravens | 1.18 (85¢) | $85,821 | -$85,821 | ❌ Perdida |
