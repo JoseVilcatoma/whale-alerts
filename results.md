@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 11:37:58 (hora de Perú)
+Actualizado: 2026-10-18 11:40:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5562**  ($306,703,122 en total)
+- Apuestas registradas: **5563**  ($306,742,953 en total)
 - Resueltas: **5478** — 3354 ganadas / 2124 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Pendientes: 63
 - Apostadores distintos: 590
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Spread: Panthers (-13.5) | Eagles | 1.27 (79¢) | $39,830 | — | ⏳ Pendiente |
 | RegardedMoney | Spread: Panthers (-2.5) | Eagles | 2.22 (45¢) | $41,154 | — | ⏳ Pendiente |
 | Anon455 | Texans vs. Jaguars | Texans | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | Herdonia | Chargers vs. Chiefs | Chiefs | 1.28 (78¢) | $25,879 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | migrodrigues | Will Real Madrid CF vs. Sevilla FC end in a draw? | Yes | 7.14 (14¢) | $29,730 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Leeds United FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $51,649 | +$3,888 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $87,029 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.75 (57¢) | $238,334 | -$238,334 | ❌ Perdida |
