@@ -83010,10 +83010,25 @@
     "title": "Will Arsenal FC win on 2026-10-18?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 1011336.2396,
+    "usd": 1206336.2396,
     "odds_at_bet": 65,
     "status": "pending",
-    "ultimo_fill": 1792334142,
+    "ultimo_fill": 1792334276,
+    "fills": 5
+  },
+  {
+    "telegram_msg_id": 11215,
+    "timestamp": 1792334240,
+    "username": "CongoleseBorat",
+    "wallet": "0x6f0ebea3c2e777699519ee128faaa07a9d0b2ee5",
+    "slug": "epl-not-ars-2026-10-18-ars",
+    "title": "Will Arsenal FC win on 2026-10-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 46021.604999999996,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1792334240,
     "fills": 1
   }
 ]
