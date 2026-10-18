@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 23:15:12 (hora de Perú)
+Actualizado: 2026-10-17 23:17:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5468**  ($299,760,590 en total)
-- Resueltas: **5436** — 3331 ganadas / 2105 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **5437** — 3331 ganadas / 2106 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 585
 
 ### Balance
 
-- **Resultado de los apostadores: +$907,853** sobre $298,265,464 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,428** sobre $536,100 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$868,694** sobre $298,304,623 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,528** sobre $536,200 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 | ohcanada123 | Notre Dame vs. BYU | Notre Dame | 1.69 (59¢) | $34,131 | -$34,131 | ❌ Perdida |
 | TAIWANNUMBERONE | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $63,601 | -$63,601 | ❌ Perdida |
 | KaneAnalytics | Notre Dame vs. BYU | Notre Dame | 1.37 (73¢) | $29,896 | -$29,896 | ❌ Perdida |
-| omnibus-076daa | Bruins vs. Kings | Kings | 1.79 (56¢) | $39,159 | — | ⏳ Pendiente |
+| omnibus-076daa | Bruins vs. Kings | Kings | 1.79 (56¢) | $39,159 | -$39,159 | ❌ Perdida |
 | OhWhenTheReds | Will Vancouver Whitecaps FC win on 2026-10-17? | Yes | 1.54 (65¢) | $55,403 | +$29,833 | ✅ Ganada |
 | 0000a | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $138,502 | -$138,502 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Oklahoma (-6.5) | Oklahoma | 1.85 (54¢) | $45,982 | -$45,982 | ❌ Perdida |
