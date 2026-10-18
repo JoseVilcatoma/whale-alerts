@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 13:49:11 (hora de Perú)
+Actualizado: 2026-10-18 13:51:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5614**  ($310,487,675 en total)
+- Apuestas registradas: **5617**  ($310,572,080 en total)
 - Resueltas: **5512** — 3377 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 80
-- Apostadores distintos: 592
+- Pendientes: 83
+- Apostadores distintos: 593
 
 ### Balance
 
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 
-_(mostrando los 40 de mayor monto, de 592 en total)_
+_(mostrando los 40 de mayor monto, de 593 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $26,211 | — | ⏳ Pendiente |
+| ArielFilipino | Spread: Rams (-13.5) | Cardinals | 1.89 (53¢) | $30,846 | — | ⏳ Pendiente |
+| alwaysfade | Spread: Rams (-13.5) | Rams | 2.13 (47¢) | $27,348 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bears vs. Falcons: O/U 51.5 | Over 51.5 | 1.72 (58¢) | $39,986 | — | ⏳ Pendiente |
 | SebastianAde1996 | Will Olympique Lyonnais win on 2026-10-18? | No | 1.92 (52¢) | $35,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ravens vs. Browns | Ravens | 1.18 (85¢) | $46,956 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 592 en total)_
 | Herdonia | Chargers vs. Chiefs | Chiefs | 1.28 (78¢) | $25,879 | — | ⏳ Pendiente |
 | mooseborzoii | Texans vs. Jaguars | Texans | 1.47 (68¢) | $86,129 | +$40,531 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Jaguars | Texans | 1.45 (69¢) | $25,079 | +$11,267 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Panthers (-5.5) | Eagles | 1.69 (59¢) | $41,803 | — | ⏳ Pendiente |
-| Anon455 | Texans vs. Jaguars | Texans | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Panthers (-4.5) | Eagles | 1.75 (57¢) | $76,212 | — | ⏳ Pendiente |

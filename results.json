@@ -84386,5 +84386,50 @@
     "status": "pending",
     "ultimo_fill": 1792349017,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11369,
+    "timestamp": 1792349359,
+    "username": "alwaysfade",
+    "wallet": "0xe5b70fd855af9258d9463992e4f1ed7987905ee3",
+    "slug": "nfl-ari-la-2026-10-18-spread-home-13pt5",
+    "title": "Spread: Rams (-13.5)",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 27348.359999999997,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1792349359,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1792349379,
+    "username": "ArielFilipino",
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "slug": "nfl-ari-la-2026-10-18-spread-home-13pt5",
+    "title": "Spread: Rams (-13.5)",
+    "outcome": "Cardinals",
+    "side": "BUY",
+    "usd": 30846.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792349379,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11370,
+    "timestamp": 1792349429,
+    "username": "Jokerxing7",
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "slug": "lal-rea-sev-2026-10-18-spread-home-2pt5",
+    "title": "Spread: Real Madrid CF (-2.5)",
+    "outcome": "Real Madrid CF",
+    "side": "BUY",
+    "usd": 26210.501100000005,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1792349429,
+    "fills": 1
   }
 ]
