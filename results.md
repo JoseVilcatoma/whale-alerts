@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 13:09:39 (hora de Perú)
+Actualizado: 2026-10-18 13:11:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5595**  ($309,256,898 en total)
+- Apuestas registradas: **5599**  ($309,684,545 en total)
 - Resueltas: **5512** — 3377 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Pendientes: 65
 - Apostadores distintos: 591
 
 ### Balance
@@ -34,10 +34,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | ferrariChampions2026 | 92 | 44 | 2 | 68% | $6,186,132 | +$274,278 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
+| ripley86alien | 30 | 18 | 2 | 62% | $5,567,707 | +$1,086,392 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ripley86alien | 30 | 18 | 1 | 62% | $5,439,929 | +$1,086,392 |
+| mooseborzoii | 57 | 27 | 9 | 68% | $5,285,806 | +$1,243,945 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
-| mooseborzoii | 57 | 27 | 8 | 68% | $5,118,247 | +$1,243,945 |
 | ethanaz | 52 | 22 | 1 | 70% | $4,723,169 | -$160,041 |
 | BrotherObama | 43 | 49 | 3 | 47% | $4,233,413 | -$161,127 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $127,778 | — | ⏳ Pendiente |
+| Laskhask | Steelers vs. Buccaneers | Buccaneers | 1.25 (80¢) | $87,511 | — | ⏳ Pendiente |
+| mooseborzoii | Will Olympique Lyonnais win on 2026-10-18? | Yes | 2.00 (50¢) | $167,559 | — | ⏳ Pendiente |
+| Jittz | Steelers vs. Buccaneers | Buccaneers | 1.25 (80¢) | $44,800 | — | ⏳ Pendiente |
 | ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | mooseborzoii | Will Olympique Lyonnais win on 2026-10-18? | Yes | 1.96 (51¢) | $41,399 | — | ⏳ Pendiente |
 | S-Works | Will Sevilla FC win on 2026-10-18? | No | 1.09 (92¢) | $182,647 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | mooseborzoii | Spread: Ravens (-3.5) | Ravens | 2.13 (47¢) | $60,209 | — | ⏳ Pendiente |
 | gambamaster | Texans vs. Jaguars | Texans | 1.30 (77¢) | $36,117 | +$10,788 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-10-18? | Yes | 1.56 (64¢) | $91,755 | +$51,612 | ✅ Ganada |
-| Mooseborzoiii | Will Arsenal FC win on 2026-10-18? | No | 2.78 (36¢) | $30,280 | -$30,280 | ❌ Perdida |
-| Nooserac | Texans vs. Jaguars | Texans | 1.56 (64¢) | $37,073 | +$20,854 | ✅ Ganada |
-| richbeak | Texans vs. Jaguars | Jaguars | 2.33 (43¢) | $195,968 | -$195,968 | ❌ Perdida |
-| Nooserac | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $25,800 | — | ⏳ Pendiente |
