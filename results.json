@@ -82595,5 +82595,20 @@
     "status": "pending",
     "ultimo_fill": 1792325157,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11184,
+    "timestamp": 1792326396,
+    "username": "Siddhartha1",
+    "wallet": "0xc95ed399d2fbaec9461f2abd70e0d96df1921288",
+    "slug": "nfl-pit-tb-2026-10-18-spread-away-2pt5",
+    "title": "Spread: Steelers (-2.5)",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 35044.185,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792326396,
+    "fills": 1
   }
 ]
