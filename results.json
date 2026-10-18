@@ -82385,5 +82385,35 @@
     "status": "pending",
     "ultimo_fill": 1792321452,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11169,
+    "timestamp": 1792321843,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "sea-udi-lec-2026-10-18-lec",
+    "title": "Will US Lecce win on 2026-10-18?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 79000.0,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1792321843,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11170,
+    "timestamp": 1792321874,
+    "username": "Kkunn",
+    "wallet": "0xe7870d0e1bfc65a23e3d66caf00ca1b9129e5034",
+    "slug": "cs2-aur1-fal2-2026-10-18",
+    "title": "Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 27394.791999999998,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1792321874,
+    "fills": 1
   }
 ]

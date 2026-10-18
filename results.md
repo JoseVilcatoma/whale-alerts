@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 06:09:53 (hora de Perú)
+Actualizado: 2026-10-18 06:11:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5481**  ($300,151,932 en total)
+- Apuestas registradas: **5483**  ($300,258,327 en total)
 - Resueltas: **5445** — 3336 ganadas / 2109 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 16
 - Apostadores distintos: 586
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 586 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kkunn | Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.72 (58¢) | $27,395 | — | ⏳ Pendiente |
+| Woaifacai | Will US Lecce win on 2026-10-18? | Yes | 1.27 (79¢) | $79,000 | — | ⏳ Pendiente |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | AFC Bournemouth vs. Sunderland AFC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 2.00 (50¢) | $29,548 | — | ⏳ Pendiente |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Leeds United FC vs. Manchester United FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | migrodrigues | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $25,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 586 en total)_
 | Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.39 (72¢) | $88,278 | +$34,330 | ✅ Ganada |
 | totoro3miyazaki | Will AS Roma win on 2026-10-17? | No | 2.50 (40¢) | $276,864 | -$276,864 | ❌ Perdida |
 | beeemw | Will Genoa CFC win on 2026-10-17? | No | 1.16 (86¢) | $61,203 | +$9,963 | ✅ Ganada |
-| Kch-Temp | Spread: Toledo (-6.5) | Toledo | 1.89 (53¢) | $31,502 | +$27,936 | ✅ Ganada |
-| Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.43 (70¢) | $81,169 | +$34,787 | ✅ Ganada |
