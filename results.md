@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:24:24 (hora de Perú)
+Actualizado: 2026-10-18 15:26:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5641**  ($311,939,440 en total)
-- Resueltas: **5525** — 3383 ganadas / 2142 perdidas (**61%** de acierto)
-- Pendientes: 94
+- Apuestas registradas: **5643**  ($312,208,040 en total)
+- Resueltas: **5526** — 3383 ganadas / 2143 perdidas (**61%** de acierto)
+- Pendientes: 95
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,057,604** sobre $305,045,717 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,840** sobre $544,600 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$1,015,702** sobre $305,087,619 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,940** sobre $544,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 392 | 212 | 8 | 65% | $38,292,958 | +$884,109 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 392 | 212 | 9 | 65% | $38,326,958 | +$884,109 |
 | Sassy-Bucket | 77 | 74 | 5 | 51% | $9,351,790 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 31 | 21 | 1 | 60% | $3,679,480 | +$161,369 |
 | surfandturf | 31 | 9 | 1 | 78% | $3,441,382 | +$404,362 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Kch-Temp | 38 | 10 | 2 | 79% | $3,280,526 | +$1,797,887 |
+| Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | cosmicxbt | 17 | 7 | 1 | 71% | $2,704,575 | -$337,317 |
 | 0F62 | 29 | 6 | 2 | 83% | $2,702,567 | -$324,424 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Raiders | Bills | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
+| milkteaboba | Cardinals vs. Rams | Rams | 1.19 (84¢) | $234,601 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Bills (-4.5) | Raiders | 2.04 (49¢) | $196,000 | — | ⏳ Pendiente |
 | Electricy | Spread: Bills (-5.5) | Bills | 2.08 (48¢) | $52,166 | — | ⏳ Pendiente |
 | mooseborzoii | Steelers vs. Buccaneers | Buccaneers | 2.22 (45¢) | $56,774 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | KaneAnalytics | Panthers vs. Eagles | Panthers | 1.43 (70¢) | $42,979 | — | ⏳ Pendiente |
 | lfg100k | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.61 (62¢) | $52,000 | — | ⏳ Pendiente |
 | mooseborzoii | Saints vs. Giants | Giants | 2.04 (49¢) | $126,159 | — | ⏳ Pendiente |
-| Sassy-Bucket | Steelers vs. Buccaneers | Steelers | 1.75 (57¢) | $199,544 | — | ⏳ Pendiente |
-| HVAB | W50 Quebec City: Kajsa Rinaldo Persson vs Mimi Xu | Kajsa Rinaldo Persson | 1.30 (77¢) | $26,566 | — | ⏳ Pendiente |

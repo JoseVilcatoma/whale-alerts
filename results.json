@@ -82654,7 +82654,7 @@
     "side": "BUY",
     "usd": 41902.2324,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792326844,
     "fills": 1
   },
@@ -84792,6 +84792,36 @@
     "odds_at_bet": 49,
     "status": "pending",
     "ultimo_fill": 1792354950,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11408,
+    "timestamp": 1792355094,
+    "username": "milkteaboba",
+    "wallet": "0xf4c95b636c71243531dfc82a97565a94c106f88c",
+    "slug": "nfl-ari-la-2026-10-18",
+    "title": "Cardinals vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 234600.5256,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1792355099,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 11410,
+    "timestamp": 1792355171,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-buf-lv-2026-10-18",
+    "title": "Bills vs. Raiders",
+    "outcome": "Bills",
+    "side": "BUY",
+    "usd": 34000.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1792355171,
     "fills": 1
   }
 ]
