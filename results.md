@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 09:34:15 (hora de Perú)
+Actualizado: 2026-10-18 09:36:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5521**  ($303,350,593 en total)
+- Apuestas registradas: **5523**  ($304,396,929 en total)
 - Resueltas: **5448** — 3338 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 53
 - Apostadores distintos: 589
 
 ### Balance
@@ -31,12 +31,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | totoro3miyazaki | 34 | 19 | 3 | 64% | $6,664,377 | +$48,997 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
+| joseph00677 | 16 | 2 | 5 | 89% | $6,038,207 | +$2,066,720 |
 | ferrariChampions2026 | 91 | 44 | 0 | 67% | $5,981,583 | +$248,230 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
-| joseph00677 | 16 | 2 | 4 | 89% | $5,026,871 | +$2,066,720 |
 | ethanaz | 51 | 22 | 0 | 70% | $4,665,455 | -$171,697 |
 | mooseborzoii | 51 | 27 | 3 | 65% | $4,210,080 | +$971,347 |
 | BrotherObama | 43 | 49 | 2 | 47% | $4,208,413 | -$161,127 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
+| joseph00677 | Will Arsenal FC win on 2026-10-18? | Yes | 1.54 (65¢) | $1,011,336 | — | ⏳ Pendiente |
 | mooseborzoii | Texans vs. Jaguars | Texans | 2.13 (47¢) | $39,505 | — | ⏳ Pendiente |
 | crazyoddslover | Lisbon: Patrick Schoen vs Francisco Rocha | Francisco Rocha | 10.00 (10¢) | $30,135 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-10-18? | Yes | 1.16 (86¢) | $26,261 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | ethanaz | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $185,262 | -$185,262 | ❌ Perdida |
 | 0xb4bFC90A6f76A9cD2A7BBb12D5a7BF439729fa41-1788881896364 | Florida State vs. Miami (FL) | Miami (FL) | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.13 (47¢) | $30,088 | -$30,088 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.22 (45¢) | $25,290 | -$25,290 | ❌ Perdida |
-| mooseborzoii | Notre Dame vs. BYU | BYU | 1.59 (63¢) | $201,676 | +$118,445 | ✅ Ganada |
