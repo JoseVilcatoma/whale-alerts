@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:03:12 (hora de Perú)
+Actualizado: 2026-10-18 10:05:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5529**  ($304,884,997 en total)
+- Apuestas registradas: **5531**  ($304,999,269 en total)
 - Resueltas: **5449** — 3338 ganadas / 2111 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Pendientes: 60
 - Apostadores distintos: 589
 
 ### Balance
@@ -58,9 +58,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 32 | 3 | 1 | 91% | $1,917,633 | +$64,091 |
 | SDTrading | 31 | 31 | 1 | 50% | $1,875,253 | -$131,270 |
 | Talvez10 | 22 | 18 | 0 | 55% | $1,866,868 | +$279,196 |
+| Weaseloftheweek | 18 | 17 | 1 | 51% | $1,833,222 | -$75,955 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
-| Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | S-Works | 10 | 5 | 0 | 67% | $1,582,939 | -$195,755 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Will Arsenal FC win on 2026-10-18? | Yes | 1.54 (65¢) | $64,273 | — | ⏳ Pendiente |
+| takeormake | Panthers vs. Eagles | Panthers | 1.67 (60¢) | $50,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texans vs. Jaguars | Texans | 2.00 (50¢) | $26,047 | — | ⏳ Pendiente |
 | gambamaster | Texans vs. Jaguars | Jaguars | 1.64 (61¢) | $68,799 | — | ⏳ Pendiente |
 | Zzzz87 | Nottingham Forest FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $67,614 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | 0F62 | Cardinals vs. Rams | Rams | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
 | omnibus-076daa | Spread: Jaguars (-2.5) | Texans | 2.04 (49¢) | $32,044 | — | ⏳ Pendiente |
 | Woaifacai | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | Team Vitality | 2.33 (43¢) | $25,368 | -$25,368 | ❌ Perdida |
-| BTCGambler247 | Spread: Ravens (-3.5) | Browns | 1.89 (53¢) | $27,030 | — | ⏳ Pendiente |
-| acorp | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | BetBoom Team | 2.22 (45¢) | $33,840 | — | ⏳ Pendiente |
