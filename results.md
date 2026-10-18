@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 17:13:35 (hora de Perú)
+Actualizado: 2026-10-18 17:15:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5658**  ($313,078,102 en total)
+- Apuestas registradas: **5660**  ($313,167,795 en total)
 - Resueltas: **5607** — 3438 ganadas / 2169 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 31
 - Apostadores distintos: 596
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | mooseborzoii | 59 | 34 | 1 | 63% | $5,342,581 | +$779,992 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
-| ethanaz | 54 | 23 | 0 | 70% | $4,821,947 | -$159,048 |
+| ethanaz | 54 | 23 | 1 | 70% | $4,854,939 | -$159,048 |
 | BrotherObama | 44 | 49 | 3 | 47% | $4,270,413 | -$137,108 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 1 | 60% | $3,679,480 | +$161,369 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Bills vs. Raiders | Bills | 1.47 (68¢) | $32,992 | — | ⏳ Pendiente |
+| OhWhenTheReds | Will Red Bull Bragantino win on 2026-10-18? | Yes | 2.08 (48¢) | $56,701 | — | ⏳ Pendiente |
 | yabanci | Will Red Bull Bragantino win on 2026-10-18? | No | 1.92 (52¢) | $29,640 | — | ⏳ Pendiente |
 | hurrican | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.09 (92¢) | $25,674 | +$2,233 | ✅ Ganada |
 | cosmicxbt | Cardinals vs. Rams | Rams | 1.33 (75¢) | $127,242 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $27,064 | -$27,064 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Juventus FC vs. SS Lazio: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $26,193 | +$24,178 | ✅ Ganada |
 | sbimbg | Saints vs. Giants | Giants | 1.39 (72¢) | $35,991 | -$35,991 | ❌ Perdida |
-| Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 1 Winner | Karmine Corp | 1.27 (79¢) | $31,600 | +$8,400 | ✅ Ganada |
-| ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $127,778 | -$127,778 | ❌ Perdida |
