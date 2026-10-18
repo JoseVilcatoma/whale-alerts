@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 11:59:07 (hora de Perú)
+Actualizado: 2026-10-18 12:01:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5580**  ($308,177,503 en total)
+- Apuestas registradas: **5582**  ($308,345,642 en total)
 - Resueltas: **5478** — 3354 ganadas / 2124 perdidas (**61%** de acierto)
-- Pendientes: 80
+- Pendientes: 82
 - Apostadores distintos: 591
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 21 | 1 | 62% | $6,664,377 | -$423,776 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 20 | 2 | 1 | 91% | $6,233,207 | +$2,495,685 |
-| ferrariChampions2026 | 91 | 44 | 1 | 67% | $6,007,630 | +$248,230 |
+| ferrariChampions2026 | 91 | 44 | 2 | 67% | $6,149,204 | +$248,230 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HVAB | W50 Quebec City: Kajsa Rinaldo Persson vs Mimi Xu | Kajsa Rinaldo Persson | 1.30 (77¢) | $26,566 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Bears vs. Falcons | Falcons | 2.08 (48¢) | $141,573 | — | ⏳ Pendiente |
 | mooseborzoii | Titans vs. Colts | Colts | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
 | mooseborzoii | Ravens vs. Browns | Ravens | 1.64 (61¢) | $85,704 | — | ⏳ Pendiente |
 | mooseborzoii | Bears vs. Falcons | Falcons | 2.08 (48¢) | $139,040 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | ndb1 | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $53,846 | +$1,538 | 💰 Vendida antes |
 | CongoleseBorat | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $46,022 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
-| joseph00677 | Will Arsenal FC win on 2026-10-18? | Yes | 1.54 (65¢) | $1,206,336 | — | ⏳ Pendiente |
-| mooseborzoii | Texans vs. Jaguars | Texans | 2.13 (47¢) | $39,505 | — | ⏳ Pendiente |

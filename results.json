@@ -83876,5 +83876,35 @@
     "status": "pending",
     "ultimo_fill": 1792342712,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11302,
+    "timestamp": 1792342747,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-chi-atl-2026-10-18",
+    "title": "Bears vs. Falcons",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 141573.264,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1792342747,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11303,
+    "timestamp": 1792342748,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "itf-persso1-xu6-2026-10-18",
+    "title": "W50 Quebec City: Kajsa Rinaldo Persson vs Mimi Xu",
+    "outcome": "Kajsa Rinaldo Persson",
+    "side": "BUY",
+    "usd": 26565.669566,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1792342748,
+    "fills": 1
   }
 ]
