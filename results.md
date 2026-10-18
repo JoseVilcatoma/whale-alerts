@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 06:26:13 (hora de Perú)
+Actualizado: 2026-10-18 06:28:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5488**  ($300,972,912 en total)
+- Apuestas registradas: **5491**  ($301,219,696 en total)
 - Resueltas: **5445** — 3336 ganadas / 2109 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 24
 - Apostadores distintos: 587
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 209 | 3 | 65% | $37,233,375 | +$993,367 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 209 | 5 | 65% | $37,453,070 | +$993,367 |
 | Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Satanishippie | Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.72 (58¢) | $27,089 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-10-18? | No | 3.33 (30¢) | $188,645 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.45 (69¢) | $31,050 | — | ⏳ Pendiente |
 | SDTrading | Texans vs. Jaguars: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
 | joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.45 (69¢) | $252,540 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Brighton & Hove Albion FC win on 2026-10-18? | No | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 | Sassy-Bucket | UNLV vs. Air Force | UNLV | 1.96 (51¢) | $92,888 | -$92,888 | ❌ Perdida |
 | 0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900 | Will AS Roma win on 2026-10-17? | Yes | 1.79 (56¢) | $28,913 | +$22,717 | ✅ Ganada |
 | Kch-Temp | UNLV vs. Air Force | Air Force | 2.08 (48¢) | $94,172 | +$102,020 | ✅ Ganada |
-| sgfkskg243324 | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.52 (66¢) | $31,723 | -$31,723 | ❌ Perdida |
-| KaneAnalytics | Florida vs. Texas | Florida | 1.54 (65¢) | $35,083 | +$18,891 | ✅ Ganada |
-| KaneAnalytics | Ohio State vs. Indiana | Ohio State | 1.11 (90¢) | $44,395 | +$4,933 | ✅ Ganada |
