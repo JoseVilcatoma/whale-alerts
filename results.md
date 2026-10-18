@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:26:01 (hora de Perú)
+Actualizado: 2026-10-18 10:28:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5537**  ($305,514,567 en total)
+- Apuestas registradas: **5538**  ($305,551,640 en total)
 - Resueltas: **5463** — 3348 ganadas / 2115 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Pendientes: 53
 - Apostadores distintos: 590
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Nooserac | Texans vs. Jaguars | Texans | 1.56 (64¢) | $37,073 | — | ⏳ Pendiente |
 | richbeak | Texans vs. Jaguars | Jaguars | 2.33 (43¢) | $195,968 | — | ⏳ Pendiente |
 | Nooserac | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $25,800 | — | ⏳ Pendiente |
 | S-Works | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $135,020 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | AFC Bournemouth vs. Sunderland AFC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 2.00 (50¢) | $29,548 | -$29,548 | ❌ Perdida |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Leeds United FC vs. Manchester United FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | migrodrigues | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $25,000 | — | ⏳ Pendiente |
-| Zzzz87 | Udinese Calcio vs. US Lecce: O/U 2.5 | Over 2.5 | 2.08 (48¢) | $33,238 | +$36,008 | ✅ Ganada |
