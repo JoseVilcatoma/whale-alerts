@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 16:07:32 (hora de Perú)
+Actualizado: 2026-10-18 16:09:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5655**  ($312,895,546 en total)
-- Resueltas: **5563** — 3408 ganadas / 2155 perdidas (**61%** de acierto)
-- Pendientes: 70
+- Apuestas registradas: **5656**  ($313,022,788 en total)
+- Resueltas: **5583** — 3418 ganadas / 2165 perdidas (**61%** de acierto)
+- Pendientes: 51
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: +$589,770** sobre $307,492,905 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,795** sobre $548,400 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$352,731** sobre $308,938,728 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,089** sobre $550,400 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,29 +24,29 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 392 | 213 | 8 | 65% | $38,326,958 | +$807,898 |
-| Sassy-Bucket | 78 | 75 | 3 | 51% | $9,351,790 | -$833,803 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 392 | 214 | 7 | 65% | $38,326,958 | +$766,094 |
+| Sassy-Bucket | 79 | 75 | 2 | 51% | $9,351,790 | -$683,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | totoro3miyazaki | 34 | 21 | 1 | 62% | $6,664,377 | -$423,776 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| ferrariChampions2026 | 95 | 45 | 2 | 68% | $6,317,876 | +$204,613 |
+| ferrariChampions2026 | 97 | 45 | 0 | 68% | $6,317,876 | +$236,417 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
-| ripley86alien | 30 | 18 | 3 | 62% | $5,594,771 | +$1,086,392 |
+| ripley86alien | 30 | 21 | 0 | 59% | $5,594,771 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| mooseborzoii | 57 | 32 | 5 | 64% | $5,342,581 | +$796,833 |
+| mooseborzoii | 59 | 34 | 1 | 63% | $5,342,581 | +$779,992 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 54 | 23 | 0 | 70% | $4,821,947 | -$159,048 |
-| BrotherObama | 43 | 49 | 4 | 47% | $4,270,413 | -$161,127 |
+| BrotherObama | 44 | 49 | 3 | 47% | $4,270,413 | -$137,108 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 1 | 60% | $3,679,480 | +$161,369 |
 | surfandturf | 31 | 9 | 1 | 78% | $3,441,382 | +$404,362 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
-| cosmicxbt | 18 | 7 | 1 | 72% | $2,818,949 | -$327,468 |
+| cosmicxbt | 19 | 7 | 1 | 73% | $2,946,192 | -$311,871 |
 | 0F62 | 29 | 6 | 3 | 83% | $2,758,889 | -$324,424 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Cardinals vs. Rams | Rams | 1.33 (75¢) | $127,242 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Cardinals vs. Rams | Rams | 1.20 (83¢) | $27,275 | — | ⏳ Pendiente |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $50,907 | — | ⏳ Pendiente |
 | BrotherObama | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $37,000 | — | ⏳ Pendiente |
@@ -79,18 +80,18 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | Jittz | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $28,350 | — | ⏳ Pendiente |
 | 0F62 | Chargers vs. Chiefs | Chiefs | 1.20 (83¢) | $56,322 | — | ⏳ Pendiente |
 | Jittz | Bills vs. Raiders | Bills | 1.61 (62¢) | $25,575 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.20 (83¢) | $29,265 | — | ⏳ Pendiente |
-| cosmicxbt | Steelers vs. Buccaneers | Steelers | 1.14 (88¢) | $114,375 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.20 (83¢) | $29,265 | +$5,994 | ✅ Ganada |
+| cosmicxbt | Steelers vs. Buccaneers | Steelers | 1.14 (88¢) | $114,375 | +$15,597 | ✅ Ganada |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $208,939 | — | ⏳ Pendiente |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.19 (84¢) | $29,620 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Raiders | Bills | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.19 (84¢) | $234,601 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Bills (-4.5) | Raiders | 2.04 (49¢) | $196,000 | — | ⏳ Pendiente |
 | Electricy | Spread: Bills (-5.5) | Bills | 2.08 (48¢) | $52,166 | — | ⏳ Pendiente |
-| mooseborzoii | Steelers vs. Buccaneers | Buccaneers | 2.22 (45¢) | $56,774 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.82 (55¢) | $31,546 | — | ⏳ Pendiente |
+| mooseborzoii | Steelers vs. Buccaneers | Buccaneers | 2.22 (45¢) | $56,774 | -$56,774 | ❌ Perdida |
+| ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.82 (55¢) | $31,546 | +$25,810 | ✅ Ganada |
 | 0F62 | Cardinals vs. Rams | Rams | 1.15 (87¢) | $51,298 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Steelers vs. Buccaneers | Steelers | 1.30 (77¢) | $38,767 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Steelers vs. Buccaneers | Steelers | 1.30 (77¢) | $38,767 | +$11,580 | ✅ Ganada |
 | Takon88 | Will Columbus Crew win on 2026-10-18? | No | 1.64 (61¢) | $91,500 | — | ⏳ Pendiente |
 | sinasinner | Spread: Bills (-5.5) | Raiders | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | alwaysfade | Bills vs. Raiders | Raiders | 3.12 (32¢) | $25,600 | — | ⏳ Pendiente |
@@ -113,21 +114,20 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | ArielFilipino | Spread: Rams (-13.5) | Cardinals | 1.89 (53¢) | $30,846 | — | ⏳ Pendiente |
 | alwaysfade | Spread: Rams (-13.5) | Rams | 2.13 (47¢) | $27,348 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bears vs. Falcons: O/U 51.5 | Over 51.5 | 1.72 (58¢) | $39,986 | +$28,955 | ✅ Ganada |
-| SebastianAde1996 | Will Olympique Lyonnais win on 2026-10-18? | No | 1.92 (52¢) | $35,000 | — | ⏳ Pendiente |
+| SebastianAde1996 | Will Olympique Lyonnais win on 2026-10-18? | No | 1.92 (52¢) | $35,000 | -$35,000 | ❌ Perdida |
 | TAIWANNUMBERONE | Ravens vs. Browns | Ravens | 1.18 (85¢) | $46,956 | -$46,956 | ❌ Perdida |
 | TAIWANNUMBERONE | Panthers vs. Eagles | Panthers | 1.43 (70¢) | $54,989 | +$23,567 | ✅ Ganada |
 | Kyn008 | Real Madrid CF vs. Sevilla FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $35,104 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Saints vs. Giants | Saints | 1.85 (54¢) | $30,947 | +$26,362 | ✅ Ganada |
 | milkteaboba | Titans vs. Colts | Colts | 1.06 (94¢) | $128,254 | -$128,254 | ❌ Perdida |
-| nb1985 | Will Olympique Lyonnais win on 2026-10-18? | No | 1.92 (52¢) | $100,000 | — | ⏳ Pendiente |
+| nb1985 | Will Olympique Lyonnais win on 2026-10-18? | No | 1.92 (52¢) | $100,000 | -$100,000 | ❌ Perdida |
 | ethanaz | Panthers vs. Eagles | Panthers | 1.35 (74¢) | $66,660 | +$23,421 | ✅ Ganada |
 | Laskhask | Ravens vs. Browns | Ravens | 1.18 (85¢) | $85,821 | -$85,821 | ❌ Perdida |
 | sulumos | Ravens vs. Browns | Ravens | 1.18 (85¢) | $58,565 | -$58,565 | ❌ Perdida |
-| ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $27,064 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Juventus FC vs. SS Lazio: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $26,193 | — | ⏳ Pendiente |
+| ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $27,064 | -$27,064 | ❌ Perdida |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Juventus FC vs. SS Lazio: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $26,193 | +$24,178 | ✅ Ganada |
 | sbimbg | Saints vs. Giants | Giants | 1.39 (72¢) | $35,991 | -$35,991 | ❌ Perdida |
 | Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 1 Winner | Karmine Corp | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
-| ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $127,778 | — | ⏳ Pendiente |
-| Laskhask | Steelers vs. Buccaneers | Buccaneers | 1.25 (80¢) | $87,511 | — | ⏳ Pendiente |
-| mooseborzoii | Will Olympique Lyonnais win on 2026-10-18? | Yes | 2.00 (50¢) | $167,559 | — | ⏳ Pendiente |
-| Jittz | Steelers vs. Buccaneers | Buccaneers | 1.25 (80¢) | $44,800 | — | ⏳ Pendiente |
+| ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $127,778 | -$127,778 | ❌ Perdida |
+| Laskhask | Steelers vs. Buccaneers | Buccaneers | 1.25 (80¢) | $87,511 | -$87,511 | ❌ Perdida |
+| mooseborzoii | Will Olympique Lyonnais win on 2026-10-18? | Yes | 2.00 (50¢) | $167,559 | +$167,559 | ✅ Ganada |
