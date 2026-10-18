@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 17:19:45 (hora de Perú)
+Actualizado: 2026-10-18 17:21:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5662**  ($313,235,637 en total)
+- Apuestas registradas: **5663**  ($313,289,167 en total)
 - Resueltas: **5607** — 3438 ganadas / 2169 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 596
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 395 | 214 | 4 | 65% | $38,326,958 | +$815,129 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 395 | 214 | 5 | 65% | $38,380,488 | +$815,129 |
 | Sassy-Bucket | 79 | 75 | 2 | 51% | $9,351,790 | -$683,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Rams | Rams | 1.89 (53¢) | $53,530 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Bills vs. Raiders | Bills | 1.23 (81¢) | $32,142 | — | ⏳ Pendiente |
 | KaneAnalytics | Cardinals vs. Rams | Cardinals | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
 | ethanaz | Bills vs. Raiders | Bills | 1.47 (68¢) | $32,992 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | ethanaz | Panthers vs. Eagles | Panthers | 1.35 (74¢) | $66,660 | +$23,421 | ✅ Ganada |
 | Laskhask | Ravens vs. Browns | Ravens | 1.18 (85¢) | $85,821 | -$85,821 | ❌ Perdida |
 | sulumos | Ravens vs. Browns | Ravens | 1.18 (85¢) | $58,565 | -$58,565 | ❌ Perdida |
-| ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $27,064 | -$27,064 | ❌ Perdida |
