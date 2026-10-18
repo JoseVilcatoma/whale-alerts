@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 11:46:22 (hora de Perú)
+Actualizado: 2026-10-18 11:48:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5568**  ($306,978,439 en total)
+- Apuestas registradas: **5570**  ($307,034,624 en total)
 - Resueltas: **5478** — 3354 ganadas / 2124 perdidas (**61%** de acierto)
-- Pendientes: 68
+- Pendientes: 70
 - Apostadores distintos: 591
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Spread: Panthers (-10.5) | Eagles | 1.33 (75¢) | $25,240 | — | ⏳ Pendiente |
+| milkteaboba | Spread: Panthers (-14.5) | Eagles | 1.20 (83¢) | $30,945 | — | ⏳ Pendiente |
 | takeormake | Titans vs. Colts | Titans | 3.57 (28¢) | $30,000 | — | ⏳ Pendiente |
 | 778908 | Texans vs. Jaguars | Texans | 1.12 (89¢) | $78,984 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Jaguars | Texans | 1.16 (86¢) | $39,619 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $51,435 | -$51,435 | ❌ Perdida |
 | Flaznorp | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $26,307 | -$26,307 | ❌ Perdida |
 | JambonMogettes | Bears vs. Falcons: O/U 52.5 | Over 52.5 | 2.04 (49¢) | $55,578 | -$4,537 | 💰 Vendida antes |
-| migrodrigues | Will Sevilla FC win on 2026-10-18? | Yes | 12.50 (8¢) | $35,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $86,211 | — | ⏳ Pendiente |
