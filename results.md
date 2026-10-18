@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 07:05:33 (hora de Perú)
+Actualizado: 2026-10-18 07:07:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5494**  ($301,561,783 en total)
+- Apuestas registradas: **5495**  ($301,712,263 en total)
 - Resueltas: **5446** — 3336 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 587
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $150,480 | — | ⏳ Pendiente |
 | Takon88 | Will AFC Bournemouth win on 2026-10-18? | Yes | 2.17 (46¢) | $35,207 | — | ⏳ Pendiente |
 | joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $61,880 | — | ⏳ Pendiente |
 | joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.43 (70¢) | $245,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 | Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 4 Winner | MVK Esports | 2.00 (50¢) | $74,514 | +$74,514 | ✅ Ganada |
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.33 (43¢) | $107,838 | +$142,948 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.75 (57¢) | $142,500 | -$142,500 | ❌ Perdida |
-| ethanaz | Ohio State vs. Indiana | Ohio State | 1.49 (67¢) | $46,440 | +$22,873 | ✅ Ganada |
