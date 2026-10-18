@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:07:59 (hora de Perú)
+Actualizado: 2026-10-18 15:10:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5633**  ($311,368,388 en total)
+- Apuestas registradas: **5635**  ($311,512,888 en total)
 - Resueltas: **5515** — 3380 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 96
-- Apostadores distintos: 594
+- Pendientes: 98
+- Apostadores distintos: 595
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 
-_(mostrando los 40 de mayor monto, de 594 en total)_
+_(mostrando los 40 de mayor monto, de 595 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Takon88 | Will Columbus Crew win on 2026-10-18? | No | 1.64 (61¢) | $91,500 | — | ⏳ Pendiente |
+| sinasinner | Spread: Bills (-5.5) | Raiders | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | alwaysfade | Bills vs. Raiders | Raiders | 3.12 (32¢) | $25,600 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Cardinals vs. Rams | Rams | 1.15 (87¢) | $53,940 | — | ⏳ Pendiente |
 | zb8 | LoL: Karmine Corp vs MVK Esports - Game 3 Winner | Karmine Corp | 1.25 (80¢) | $36,578 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 | mooseborzoii | Bears vs. Falcons | Falcons | 2.08 (48¢) | $139,040 | — | ⏳ Pendiente |
 | mooseborzoii | Steelers vs. Buccaneers | Buccaneers | 2.27 (44¢) | $167,401 | — | ⏳ Pendiente |
 | Sassy-Bucket | Jets vs. Patriots | Patriots | 1.32 (76¢) | $304,000 | — | ⏳ Pendiente |
-| AnonymousUsername | Panthers vs. Eagles | Panthers | 1.72 (58¢) | $27,619 | — | ⏳ Pendiente |
-| milkteaboba | Spread: Panthers (-7.5) | Eagles | 1.47 (68¢) | $44,867 | — | ⏳ Pendiente |

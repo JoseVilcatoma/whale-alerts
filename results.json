@@ -84673,5 +84673,35 @@
     "status": "pending",
     "ultimo_fill": 1792353585,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11390,
+    "timestamp": 1792354143,
+    "username": "sinasinner",
+    "wallet": "0x8a260ebadf8ef07e693dd1b0be120b3330dd73c3",
+    "slug": "nfl-buf-lv-2026-10-18-spread-away-5pt5",
+    "title": "Spread: Bills (-5.5)",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "usd": 53000.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792354143,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11391,
+    "timestamp": 1792354197,
+    "username": "Takon88",
+    "wallet": "0xa96274cc1b321afc8cbdc1ba07f7e2d471e6f7c8",
+    "slug": "mls-fcc-clb-2026-10-18-clb",
+    "title": "Will Columbus Crew win on 2026-10-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 91500.0,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1792354197,
+    "fills": 1
   }
 ]
