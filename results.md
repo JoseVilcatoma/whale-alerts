@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:10:01 (hora de Perú)
+Actualizado: 2026-10-18 15:12:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5635**  ($311,512,888 en total)
+- Apuestas registradas: **5636**  ($311,551,656 en total)
 - Resueltas: **5515** — 3380 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 98
+- Pendientes: 99
 - Apostadores distintos: 595
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 595 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Steelers vs. Buccaneers | Steelers | 1.30 (77¢) | $38,767 | — | ⏳ Pendiente |
 | Takon88 | Will Columbus Crew win on 2026-10-18? | No | 1.64 (61¢) | $91,500 | — | ⏳ Pendiente |
 | sinasinner | Spread: Bills (-5.5) | Raiders | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | alwaysfade | Bills vs. Raiders | Raiders | 3.12 (32¢) | $25,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 595 en total)_
 | mooseborzoii | Ravens vs. Browns | Ravens | 1.64 (61¢) | $85,704 | — | ⏳ Pendiente |
 | mooseborzoii | Bears vs. Falcons | Falcons | 2.08 (48¢) | $139,040 | — | ⏳ Pendiente |
 | mooseborzoii | Steelers vs. Buccaneers | Buccaneers | 2.27 (44¢) | $167,401 | — | ⏳ Pendiente |
-| Sassy-Bucket | Jets vs. Patriots | Patriots | 1.32 (76¢) | $304,000 | — | ⏳ Pendiente |
