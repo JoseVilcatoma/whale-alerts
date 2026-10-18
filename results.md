@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:03:54 (hora de Perú)
+Actualizado: 2026-10-18 15:05:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5632**  ($311,342,788 en total)
-- Resueltas: **5514** — 3379 ganadas / 2135 perdidas (**61%** de acierto)
+- Apuestas registradas: **5633**  ($311,368,388 en total)
+- Resueltas: **5515** — 3380 ganadas / 2135 perdidas (**61%** de acierto)
 - Pendientes: 96
 - Apostadores distintos: 594
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,404,263** sobre $304,485,617 apostados (ROI **+0.5%**)
+- **Resultado de los apostadores: +$1,404,763** sobre $304,528,617 apostados (ROI **+0.5%**)
 - Copiando $100 fijo en cada una: **-$3,365** sobre $543,600 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,9 +71,10 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| alwaysfade | Bills vs. Raiders | Raiders | 3.12 (32¢) | $25,600 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Cardinals vs. Rams | Rams | 1.15 (87¢) | $53,940 | — | ⏳ Pendiente |
 | zb8 | LoL: Karmine Corp vs MVK Esports - Game 3 Winner | Karmine Corp | 1.25 (80¢) | $36,578 | — | ⏳ Pendiente |
-| sbimbg | Cardinals vs. Rams | Rams | 1.16 (86¢) | $43,000 | — | ⏳ Pendiente |
+| sbimbg | Cardinals vs. Rams | Rams | 1.16 (86¢) | $43,000 | +$500 | 💰 Vendida antes |
 | KaneAnalytics | Titans vs. Colts | Titans | 1.43 (70¢) | $100,050 | — | ⏳ Pendiente |
 | KaneAnalytics | Ravens vs. Browns | Browns | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
 | IdentityV | Panthers vs. Eagles | Panthers | 1.16 (86¢) | $34,641 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 | Sassy-Bucket | Jets vs. Patriots | Patriots | 1.32 (76¢) | $304,000 | — | ⏳ Pendiente |
 | AnonymousUsername | Panthers vs. Eagles | Panthers | 1.72 (58¢) | $27,619 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Panthers (-7.5) | Eagles | 1.47 (68¢) | $44,867 | — | ⏳ Pendiente |
-| Sassy-Bucket | Saints vs. Giants | Giants | 2.00 (50¢) | $200,000 | — | ⏳ Pendiente |
