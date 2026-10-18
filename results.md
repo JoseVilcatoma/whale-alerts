@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 07:28:08 (hora de Perú)
+Actualizado: 2026-10-18 07:30:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5496**  ($301,747,307 en total)
+- Apuestas registradas: **5497**  ($301,858,441 en total)
 - Resueltas: **5446** — 3336 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 587
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| totoro3miyazaki | 34 | 19 | 1 | 64% | $6,191,604 | +$48,997 |
+| totoro3miyazaki | 34 | 19 | 2 | 64% | $6,302,739 | +$48,997 |
 | ferrariChampions2026 | 91 | 44 | 0 | 67% | $5,981,583 | +$248,230 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.79 (56¢) | $111,134 | — | ⏳ Pendiente |
 | Siddhartha1 | Spread: Steelers (-2.5) | Steelers | 2.00 (50¢) | $35,044 | — | ⏳ Pendiente |
 | juice-fruit | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $150,480 | — | ⏳ Pendiente |
 | Takon88 | Will AFC Bournemouth win on 2026-10-18? | Yes | 2.17 (46¢) | $35,207 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Troy vs. Louisiana | Troy | 2.38 (42¢) | $32,666 | -$32,666 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Chelsea Chandler vs. Melissa Croden (Women's Bantamweight, Prelims) | Melissa Croden | 1.32 (76¢) | $77,343 | -$77,343 | ❌ Perdida |
 | Mooseborzoiii | LoL: MVK Esports vs FURIA Esports - Game 4 Winner | MVK Esports | 2.00 (50¢) | $74,514 | +$74,514 | ✅ Ganada |
-| CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.33 (43¢) | $107,838 | +$142,948 | ✅ Ganada |

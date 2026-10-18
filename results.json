@@ -82610,5 +82610,20 @@
     "status": "pending",
     "ultimo_fill": 1792326396,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11185,
+    "timestamp": 1792326569,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "sea-fio-com-2026-10-18-com",
+    "title": "Will Como 1907 win on 2026-10-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 111134.24,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1792326569,
+    "fills": 1
   }
 ]
