@@ -82865,5 +82865,20 @@
     "status": "pending",
     "ultimo_fill": 1792329562,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11204,
+    "timestamp": 1792330429,
+    "username": "TheOpportunist",
+    "wallet": "0x7d2f82da7ae8c910bd1e89475be705d313daef1a",
+    "slug": "epl-not-ars-2026-10-18-ars",
+    "title": "Will Arsenal FC win on 2026-10-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 26400.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1792330429,
+    "fills": 1
   }
 ]
