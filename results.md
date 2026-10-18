@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 19:58:19 (hora de Perú)
+Actualizado: 2026-10-17 20:00:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5457**  ($298,768,037 en total)
+- Apuestas registradas: **5457**  ($298,812,291 en total)
 - Resueltas: **5415** — 3320 ganadas / 2095 perdidas (**61%** de acierto)
 - Pendientes: 20
 - Apostadores distintos: 584
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Woaifacai | Notre Dame vs. BYU | BYU | 1.96 (51¢) | $140,486 | — | ⏳ Pendiente |
+| Woaifacai | Notre Dame vs. BYU | BYU | 1.96 (51¢) | $184,741 | — | ⏳ Pendiente |
 | ohcanada123 | Notre Dame vs. BYU | Notre Dame | 1.69 (59¢) | $34,131 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $63,601 | — | ⏳ Pendiente |
 | KaneAnalytics | Notre Dame vs. BYU | Notre Dame | 1.37 (73¢) | $29,896 | — | ⏳ Pendiente |
