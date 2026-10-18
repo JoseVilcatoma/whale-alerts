@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 19:51:58 (hora de Perú)
+Actualizado: 2026-10-17 19:54:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5455**  ($298,593,420 en total)
+- Apuestas registradas: **5456**  ($298,627,550 en total)
 - Resueltas: **5415** — 3320 ganadas / 2095 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 584
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ohcanada123 | Notre Dame vs. BYU | Notre Dame | 1.69 (59¢) | $34,131 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $63,601 | — | ⏳ Pendiente |
 | KaneAnalytics | Notre Dame vs. BYU | Notre Dame | 1.37 (73¢) | $29,896 | — | ⏳ Pendiente |
 | omnibus-076daa | Bruins vs. Kings | Kings | 1.79 (56¢) | $39,159 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | juice-fruit | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.39 (72¢) | $32,588 | -$32,588 | ❌ Perdida |
 | beeemw | Will Real Betis Balompié win on 2026-10-17? | No | 1.15 (87¢) | $48,053 | +$7,180 | ✅ Ganada |
 | gambamaster | Will Newcastle United FC win on 2026-10-17? | No | 1.82 (55¢) | $36,116 | +$29,550 | ✅ Ganada |
-| ndb1 | Will Newcastle United FC win on 2026-10-17? | No | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
