@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 08:46:58 (hora de Perú)
+Actualizado: 2026-10-18 08:49:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5516**  ($303,170,917 en total)
+- Apuestas registradas: **5517**  ($303,223,962 en total)
 - Resueltas: **5448** — 3338 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 46
-- Apostadores distintos: 588
+- Pendientes: 47
+- Apostadores distintos: 589
 
 ### Balance
 
@@ -65,7 +65,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | S-Works | 10 | 5 | 0 | 67% | $1,582,939 | -$195,755 |
 
-_(mostrando los 40 de mayor monto, de 588 en total)_
+_(mostrando los 40 de mayor monto, de 589 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
@@ -74,6 +74,7 @@ _(mostrando los 40 de mayor monto, de 588 en total)_
 | wan123 | Saints vs. Giants | Saints | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | surfandturf | Chargers vs. Chiefs | Chiefs | 1.28 (78¢) | $54,296 | — | ⏳ Pendiente |
 | TheOpportunist | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $26,400 | — | ⏳ Pendiente |
+| ksp15 | Texans vs. Jaguars | Jaguars | 1.75 (57¢) | $53,045 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $51,435 | — | ⏳ Pendiente |
 | Flaznorp | Will Como 1907 win on 2026-10-18? | No | 1.67 (60¢) | $26,307 | — | ⏳ Pendiente |
 | JambonMogettes | Bears vs. Falcons: O/U 52.5 | Over 52.5 | 2.04 (49¢) | $55,578 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 588 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Notre Dame vs. BYU | Notre Dame | 2.70 (37¢) | $45,505 | -$45,505 | ❌ Perdida |
 | omnibus-076daa | Oilers vs. Utah | Utah | 1.75 (57¢) | $101,348 | -$101,348 | ❌ Perdida |
 | KaneAnalytics | Florida State vs. Miami (FL) | Miami (FL) | 1.22 (82¢) | $79,222 | +$17,390 | ✅ Ganada |
-| Woaifacai | Notre Dame vs. BYU | BYU | 1.96 (51¢) | $184,741 | +$177,496 | ✅ Ganada |
