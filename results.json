@@ -84371,5 +84371,20 @@
     "status": "pending",
     "ultimo_fill": 1792348957,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11368,
+    "timestamp": 1792349017,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-chi-atl-2026-10-18-total-51pt5",
+    "title": "Bears vs. Falcons: O/U 51.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 39986.0642,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1792349017,
+    "fills": 1
   }
 ]
