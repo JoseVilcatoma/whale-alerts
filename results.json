@@ -84491,5 +84491,20 @@
     "status": "pending",
     "ultimo_fill": 1792350109,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 11377,
+    "timestamp": 1792350276,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-bal-cle-2026-10-18",
+    "title": "Ravens vs. Browns",
+    "outcome": "Ravens",
+    "side": "BUY",
+    "usd": 32118.489,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1792350276,
+    "fills": 1
   }
 ]
