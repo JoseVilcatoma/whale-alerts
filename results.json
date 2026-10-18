@@ -83813,7 +83813,7 @@
     "side": "BUY",
     "usd": 304000.0,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792342504,
     "fills": 1
   },
@@ -84853,5 +84853,20 @@
     "status": "pending",
     "ultimo_fill": 1792355509,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 11413,
+    "timestamp": 1792355630,
+    "username": "cosmicxbt",
+    "wallet": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+    "slug": "nfl-pit-tb-2026-10-18",
+    "title": "Steelers vs. Buccaneers",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 114374.55040000001,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1792355630,
+    "fills": 1
   }
 ]

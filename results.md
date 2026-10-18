@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:32:38 (hora de Perú)
+Actualizado: 2026-10-18 15:34:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5645**  ($312,446,599 en total)
-- Resueltas: **5526** — 3383 ganadas / 2143 perdidas (**61%** de acierto)
+- Apuestas registradas: **5646**  ($312,560,974 en total)
+- Resueltas: **5527** — 3384 ganadas / 2143 perdidas (**61%** de acierto)
 - Pendientes: 97
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,015,702** sobre $305,087,619 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,940** sobre $544,700 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$1,111,702** sobre $305,391,619 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,909** sobre $544,800 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 392 | 212 | 9 | 65% | $38,326,958 | +$884,109 |
-| Sassy-Bucket | 77 | 74 | 5 | 51% | $9,351,790 | -$729,803 |
+| Sassy-Bucket | 78 | 74 | 4 | 51% | $9,351,790 | -$633,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
-| cosmicxbt | 17 | 7 | 1 | 71% | $2,704,575 | -$337,317 |
+| cosmicxbt | 17 | 7 | 2 | 71% | $2,818,949 | -$337,317 |
 | 0F62 | 29 | 6 | 2 | 83% | $2,702,567 | -$324,424 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Steelers vs. Buccaneers | Steelers | 1.14 (88¢) | $114,375 | — | ⏳ Pendiente |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $208,939 | — | ⏳ Pendiente |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.19 (84¢) | $29,620 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Raiders | Bills | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | ferrariChampions2026 | Panthers vs. Eagles | Panthers | 1.45 (69¢) | $36,928 | — | ⏳ Pendiente |
 | KaneAnalytics | Bears vs. Falcons | Bears | 1.28 (78¢) | $51,395 | — | ⏳ Pendiente |
 | gambamaster | Ravens vs. Browns | Ravens | 1.22 (82¢) | $50,211 | -$50,211 | ❌ Perdida |
-| KaneAnalytics | Panthers vs. Eagles | Panthers | 1.43 (70¢) | $42,979 | — | ⏳ Pendiente |
