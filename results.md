@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 16:24:08 (hora de Perú)
+Actualizado: 2026-10-18 16:26:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5657**  ($313,048,462 en total)
-- Resueltas: **5587** — 3422 ganadas / 2165 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Resueltas: **5588** — 3423 ganadas / 2165 perdidas (**61%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: +$400,698** sobre $309,135,834 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,984** sobre $550,800 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$409,843** sobre $309,172,413 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,959** sobre $550,900 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | sinasinner | Spread: Bills (-5.5) | Raiders | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | alwaysfade | Bills vs. Raiders | Raiders | 3.12 (32¢) | $25,600 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Cardinals vs. Rams | Rams | 1.15 (87¢) | $53,940 | — | ⏳ Pendiente |
-| zb8 | LoL: Karmine Corp vs MVK Esports - Game 3 Winner | Karmine Corp | 1.25 (80¢) | $36,578 | — | ⏳ Pendiente |
+| zb8 | LoL: Karmine Corp vs MVK Esports - Game 3 Winner | Karmine Corp | 1.25 (80¢) | $36,578 | +$9,145 | ✅ Ganada |
 | sbimbg | Cardinals vs. Rams | Rams | 1.16 (86¢) | $43,000 | +$500 | 💰 Vendida antes |
 | KaneAnalytics | Titans vs. Colts | Titans | 1.43 (70¢) | $100,050 | +$42,879 | ✅ Ganada |
 | KaneAnalytics | Ravens vs. Browns | Browns | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
