@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 13:21:53 (hora de Perú)
+Actualizado: 2026-10-18 13:23:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5603**  ($309,805,394 en total)
+- Apuestas registradas: **5605**  ($309,949,779 en total)
 - Resueltas: **5512** — 3377 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 69
+- Pendientes: 71
 - Apostadores distintos: 591
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Laskhask | Ravens vs. Browns | Ravens | 1.18 (85¢) | $85,821 | — | ⏳ Pendiente |
+| sulumos | Ravens vs. Browns | Ravens | 1.18 (85¢) | $58,565 | — | ⏳ Pendiente |
 | ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $27,064 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Juventus FC vs. SS Lazio: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $26,193 | — | ⏳ Pendiente |
 | sbimbg | Saints vs. Giants | Giants | 1.39 (72¢) | $35,991 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | juice-fruit | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.33 (75¢) | $25,824 | — | ⏳ Pendiente |
 | mooseborzoii | Texans vs. Jaguars | Texans | 1.52 (66¢) | $72,220 | +$37,204 | ✅ Ganada |
 | Anon455 | Texans vs. Jaguars | Texans | 1.43 (70¢) | $28,000 | +$12,000 | ✅ Ganada |
-| Satanishippie | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.35 (74¢) | $82,733 | — | ⏳ Pendiente |
-| Satanishippie | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | FURIA | 1.69 (59¢) | $30,000 | — | ⏳ Pendiente |

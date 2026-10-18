@@ -84221,5 +84221,35 @@
     "status": "pending",
     "ultimo_fill": 1792347545,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11358,
+    "timestamp": 1792347757,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "nfl-bal-cle-2026-10-18",
+    "title": "Ravens vs. Browns",
+    "outcome": "Ravens",
+    "side": "BUY",
+    "usd": 58565.0,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1792347757,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11359,
+    "timestamp": 1792347761,
+    "username": "Laskhask",
+    "wallet": "0x3682205f93964f923d1cc2b100907268f300df75",
+    "slug": "nfl-bal-cle-2026-10-18",
+    "title": "Ravens vs. Browns",
+    "outcome": "Ravens",
+    "side": "BUY",
+    "usd": 85820.59,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1792347823,
+    "fills": 2
   }
 ]
