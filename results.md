@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 14:57:48 (hora de Perú)
+Actualizado: 2026-10-18 14:59:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5631**  ($311,288,848 en total)
+- Apuestas registradas: **5632**  ($311,342,788 en total)
 - Resueltas: **5514** — 3379 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 95
+- Pendientes: 96
 - Apostadores distintos: 594
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Cardinals vs. Rams | Rams | 1.15 (87¢) | $53,940 | — | ⏳ Pendiente |
 | zb8 | LoL: Karmine Corp vs MVK Esports - Game 3 Winner | Karmine Corp | 1.25 (80¢) | $36,578 | — | ⏳ Pendiente |
 | sbimbg | Cardinals vs. Rams | Rams | 1.16 (86¢) | $43,000 | — | ⏳ Pendiente |
 | KaneAnalytics | Titans vs. Colts | Titans | 1.43 (70¢) | $100,050 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 | AnonymousUsername | Panthers vs. Eagles | Panthers | 1.72 (58¢) | $27,619 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Panthers (-7.5) | Eagles | 1.47 (68¢) | $44,867 | — | ⏳ Pendiente |
 | Sassy-Bucket | Saints vs. Giants | Giants | 2.00 (50¢) | $200,000 | — | ⏳ Pendiente |
-| 778908 | Panthers vs. Eagles | Panthers | 1.69 (59¢) | $88,248 | — | ⏳ Pendiente |

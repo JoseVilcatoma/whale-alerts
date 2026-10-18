@@ -84641,5 +84641,20 @@
     "status": "pending",
     "ultimo_fill": 1792352766,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11387,
+    "timestamp": 1792353480,
+    "username": "0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961",
+    "wallet": "0x418d51e13d019913bb027db22ecc723fe1ad88a3",
+    "slug": "nfl-ari-la-2026-10-18",
+    "title": "Cardinals vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 53940.0,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1792353480,
+    "fills": 1
   }
 ]
