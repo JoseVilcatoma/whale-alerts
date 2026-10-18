@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 16:15:50 (hora de Perú)
+Actualizado: 2026-10-18 16:17:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5656**  ($313,022,788 en total)
-- Resueltas: **5583** — 3418 ganadas / 2165 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Resueltas: **5586** — 3421 ganadas / 2165 perdidas (**61%** de acierto)
+- Pendientes: 48
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: +$352,731** sobre $308,938,728 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,089** sobre $550,400 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$392,298** sobre $309,104,234 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,011** sobre $550,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -106,8 +106,8 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | cosmicxbt | Saints vs. Giants | Saints | 1.10 (91¢) | $99,583 | +$9,849 | ✅ Ganada |
 | TAIWANNUMBERONE | Panthers vs. Eagles | Panthers | 1.37 (73¢) | $26,494 | +$9,799 | ✅ Ganada |
 | ethanaz | Ravens vs. Browns | Ravens | 1.11 (90¢) | $32,118 | -$32,118 | ❌ Perdida |
-| Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.22 (82¢) | $113,811 | — | ⏳ Pendiente |
-| PEYZ-BIGGEST-FAN | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.27 (79¢) | $26,058 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.22 (82¢) | $113,811 | +$24,983 | ✅ Ganada |
+| PEYZ-BIGGEST-FAN | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.27 (79¢) | $26,058 | +$6,927 | ✅ Ganada |
 | Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $63,869 | — | ⏳ Pendiente |
 | yoyoyoyoer | Saints vs. Giants | Saints | 1.41 (71¢) | $25,294 | +$10,332 | ✅ Ganada |
 | Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $26,211 | — | ⏳ Pendiente |
