@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 11:23:24 (hora de Perú)
+Actualizado: 2026-10-18 11:25:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5559**  ($306,610,890 en total)
-- Resueltas: **5477** — 3354 ganadas / 2123 perdidas (**61%** de acierto)
+- Apuestas registradas: **5560**  ($306,636,768 en total)
+- Resueltas: **5478** — 3354 ganadas / 2124 perdidas (**61%** de acierto)
 - Pendientes: 60
 - Apostadores distintos: 590
 
 ### Balance
 
-- **Resultado de los apostadores: +$856,829** sobre $301,460,036 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,427** sobre $539,900 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$825,629** sobre $301,491,236 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,527** sobre $540,000 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ndb1 | 27 | 12 | 0 | 69% | $2,081,380 | +$511,157 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
-| SDTrading | 31 | 31 | 1 | 50% | $1,875,253 | -$131,270 |
+| SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Talvez10 | 22 | 18 | 0 | 55% | $1,866,868 | +$279,196 |
 | Weaseloftheweek | 18 | 17 | 1 | 51% | $1,833,222 | -$75,955 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Herdonia | Chargers vs. Chiefs | Chiefs | 1.28 (78¢) | $25,879 | — | ⏳ Pendiente |
 | mooseborzoii | Texans vs. Jaguars | Texans | 1.47 (68¢) | $86,129 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Jaguars | Texans | 1.45 (69¢) | $25,079 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Panthers (-5.5) | Eagles | 1.69 (59¢) | $41,803 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.75 (57¢) | $238,334 | -$238,334 | ❌ Perdida |
 | 1l2ihj34li12u34 | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $50,000 | +$66,279 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $127,971 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Joao Domingues vs Ivan Gakhov | Ivan Gakhov | 1.47 (68¢) | $40,651 | -$40,651 | ❌ Perdida |
