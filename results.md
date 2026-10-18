@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 06:40:51 (hora de Perú)
+Actualizado: 2026-10-18 06:42:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5493**  ($301,526,576 en total)
-- Resueltas: **5445** — 3336 ganadas / 2109 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **5446** — 3336 ganadas / 2110 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 587
 
 ### Balance
 
-- **Resultado de los apostadores: +$856,042** sobre $298,765,511 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,473** sobre $537,000 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$830,442** sobre $298,791,111 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,573** sobre $537,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 | migrodrigues | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $25,000 | — | ⏳ Pendiente |
 | Zzzz87 | Udinese Calcio vs. US Lecce: O/U 2.5 | Over 2.5 | 2.08 (48¢) | $33,238 | — | ⏳ Pendiente |
 | lfg100k | Will Arsenal FC win on 2026-10-18? | Yes | 1.59 (63¢) | $40,000 | — | ⏳ Pendiente |
-| beeemw | Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Rafael Jodar | Rafael Jodar | 1.25 (80¢) | $25,600 | — | ⏳ Pendiente |
+| beeemw | Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Rafael Jodar | Rafael Jodar | 1.25 (80¢) | $25,600 | -$25,600 | ❌ Perdida |
 | 0F62 | Chargers vs. Chiefs | Chiefs | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
 | 0F62 | Cardinals vs. Rams | Rams | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
 | omnibus-076daa | Spread: Jaguars (-2.5) | Texans | 2.04 (49¢) | $32,044 | — | ⏳ Pendiente |
