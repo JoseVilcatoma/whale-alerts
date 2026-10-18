@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 16:32:15 (hora de Perú)
+Actualizado: 2026-10-18 16:34:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5657**  ($313,048,462 en total)
-- Resueltas: **5590** — 3424 ganadas / 2166 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Resueltas: **5591** — 3424 ganadas / 2167 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: +$390,725** sobre $309,390,059 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,051** sobre $551,100 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$355,621** sobre $309,425,163 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,151** sobre $551,200 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -118,7 +118,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | SebastianAde1996 | Will Olympique Lyonnais win on 2026-10-18? | No | 1.92 (52¢) | $35,000 | -$35,000 | ❌ Perdida |
 | TAIWANNUMBERONE | Ravens vs. Browns | Ravens | 1.18 (85¢) | $46,956 | -$46,956 | ❌ Perdida |
 | TAIWANNUMBERONE | Panthers vs. Eagles | Panthers | 1.43 (70¢) | $54,989 | +$23,567 | ✅ Ganada |
-| Kyn008 | Real Madrid CF vs. Sevilla FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $35,104 | — | ⏳ Pendiente |
+| Kyn008 | Real Madrid CF vs. Sevilla FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $35,104 | -$35,104 | ❌ Perdida |
 | ferrariChampions2026 | Saints vs. Giants | Saints | 1.85 (54¢) | $30,947 | +$26,362 | ✅ Ganada |
 | milkteaboba | Titans vs. Colts | Colts | 1.06 (94¢) | $128,254 | -$128,254 | ❌ Perdida |
 | nb1985 | Will Olympique Lyonnais win on 2026-10-18? | No | 1.92 (52¢) | $100,000 | -$100,000 | ❌ Perdida |
