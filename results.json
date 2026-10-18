@@ -83858,7 +83858,7 @@
     "side": "BUY",
     "usd": 85703.9996,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792342690,
     "fills": 1
   },
@@ -83978,7 +83978,7 @@
     "side": "BUY",
     "usd": 50210.6746,
     "odds_at_bet": 82,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792344289,
     "fills": 1
   },
@@ -84233,7 +84233,7 @@
     "side": "BUY",
     "usd": 58565.0,
     "odds_at_bet": 85,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792347757,
     "fills": 1
   },
@@ -84248,7 +84248,7 @@
     "side": "BUY",
     "usd": 85820.59,
     "odds_at_bet": 85,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792347823,
     "fills": 2
   },
@@ -84353,7 +84353,7 @@
     "side": "BUY",
     "usd": 46956.4225,
     "odds_at_bet": 85,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792348661,
     "fills": 1
   },
@@ -84383,7 +84383,7 @@
     "side": "BUY",
     "usd": 39986.0642,
     "odds_at_bet": 58,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792349017,
     "fills": 1
   },
@@ -84503,7 +84503,7 @@
     "side": "BUY",
     "usd": 32118.489,
     "odds_at_bet": 90,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792350276,
     "fills": 1
   },
@@ -84593,7 +84593,7 @@
     "side": "BUY",
     "usd": 30500.0,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792351975,
     "fills": 1
   },
@@ -84762,6 +84762,21 @@
     "odds_at_bet": 48,
     "status": "pending",
     "ultimo_fill": 1792354628,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11406,
+    "timestamp": 1792354601,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-pit-tb-2026-10-18",
+    "title": "Steelers vs. Buccaneers",
+    "outcome": "Buccaneers",
+    "side": "BUY",
+    "usd": 56774.403,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1792354601,
     "fills": 1
   }
 ]
