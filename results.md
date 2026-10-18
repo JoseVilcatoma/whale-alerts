@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 05:49:31 (hora de Perú)
+Actualizado: 2026-10-18 05:51:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5479**  ($300,097,385 en total)
-- Resueltas: **5443** — 3335 ganadas / 2108 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **5445** — 3336 ganadas / 2109 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 586
 
 ### Balance
 
-- **Resultado de los apostadores: +$859,791** sobre $298,709,032 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,443** sobre $536,800 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$856,042** sobre $298,765,511 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,473** sobre $537,000 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 51 | 22 | 0 | 70% | $4,665,455 | -$171,697 |
-| BrotherObama | 42 | 49 | 3 | 46% | $4,208,413 | -$182,747 |
+| BrotherObama | 43 | 49 | 2 | 47% | $4,208,413 | -$161,127 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
 | mooseborzoii | 51 | 27 | 1 | 65% | $4,080,181 | +$971,347 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -78,11 +78,11 @@ _(mostrando los 40 de mayor monto, de 586 en total)_
 | 0F62 | Chargers vs. Chiefs | Chiefs | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
 | 0F62 | Cardinals vs. Rams | Rams | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
 | omnibus-076daa | Spread: Jaguars (-2.5) | Texans | 2.04 (49¢) | $32,044 | — | ⏳ Pendiente |
-| Woaifacai | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | Team Vitality | 2.33 (43¢) | $25,368 | — | ⏳ Pendiente |
+| Woaifacai | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | Team Vitality | 2.33 (43¢) | $25,368 | -$25,368 | ❌ Perdida |
 | BTCGambler247 | Spread: Ravens (-3.5) | Browns | 1.89 (53¢) | $27,030 | — | ⏳ Pendiente |
 | acorp | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | BetBoom Team | 2.22 (45¢) | $33,840 | — | ⏳ Pendiente |
 | Sassy-Bucket | Nebraska vs. Oregon | Oregon | 1.79 (56¢) | $36,674 | +$28,815 | ✅ Ganada |
-| BrotherObama | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | LOUD | 1.69 (59¢) | $31,111 | — | ⏳ Pendiente |
+| BrotherObama | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | LOUD | 1.69 (59¢) | $31,111 | +$21,620 | ✅ Ganada |
 | 01258787xy48487484545122 | Japan Women's Open, Qualification: Taylah Preston vs Emerson Jones | Emerson Jones | 1.15 (87¢) | $171,413 | +$25,613 | ✅ Ganada |
 | ethanaz | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $185,262 | -$185,262 | ❌ Perdida |
 | 0xb4bFC90A6f76A9cD2A7BBb12D5a7BF439729fa41-1788881896364 | Florida State vs. Miami (FL) | Miami (FL) | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
