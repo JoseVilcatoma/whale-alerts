@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 00:39:46 (hora de Perú)
+Actualizado: 2026-10-18 00:41:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5469**  ($299,797,264 en total)
-- Resueltas: **5438** — 3331 ganadas / 2107 perdidas (**61%** de acierto)
+- Apuestas registradas: **5470**  ($299,831,104 en total)
+- Resueltas: **5439** — 3332 ganadas / 2107 perdidas (**61%** de acierto)
 - Pendientes: 9
 - Apostadores distintos: 585
 
 ### Balance
 
-- **Resultado de los apostadores: +$767,346** sobre $298,405,971 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,628** sobre $536,300 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$792,960** sobre $298,577,384 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,613** sobre $536,400 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,9 +71,10 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| acorp | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | BetBoom Team | 2.22 (45¢) | $33,840 | — | ⏳ Pendiente |
 | Sassy-Bucket | Nebraska vs. Oregon | Oregon | 1.79 (56¢) | $36,674 | — | ⏳ Pendiente |
 | BrotherObama | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | LOUD | 1.69 (59¢) | $31,111 | — | ⏳ Pendiente |
-| 01258787xy48487484545122 | Japan Women's Open, Qualification: Taylah Preston vs Emerson Jones | Emerson Jones | 1.15 (87¢) | $171,413 | — | ⏳ Pendiente |
+| 01258787xy48487484545122 | Japan Women's Open, Qualification: Taylah Preston vs Emerson Jones | Emerson Jones | 1.15 (87¢) | $171,413 | +$25,613 | ✅ Ganada |
 | ethanaz | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $185,262 | -$185,262 | ❌ Perdida |
 | 0xb4bFC90A6f76A9cD2A7BBb12D5a7BF439729fa41-1788881896364 | Florida State vs. Miami (FL) | Miami (FL) | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.13 (47¢) | $30,088 | -$30,088 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 | veliMax | Will FC Barcelona win on 2026-10-17? | Yes | 1.22 (82¢) | $73,943 | +$16,231 | ✅ Ganada |
 | Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.64 (61¢) | $50,427 | -$50,427 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Newcastle United FC win on 2026-10-17? | No | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
-| LonnieHawkins | Will Newcastle United FC win on 2026-10-17? | No | 1.61 (62¢) | $30,000 | +$18,387 | ✅ Ganada |
