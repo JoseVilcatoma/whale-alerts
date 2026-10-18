@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 02:06:23 (hora de Perú)
+Actualizado: 2026-10-18 02:08:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5475**  ($299,973,546 en total)
-- Resueltas: **5442** — 3334 ganadas / 2108 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **5443** — 3335 ganadas / 2108 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 585
 
 ### Balance
 
-- **Resultado de los apostadores: +$830,976** sobre $298,672,358 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,521** sobre $536,700 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$859,791** sobre $298,709,032 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,443** sobre $536,800 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 209 | 3 | 65% | $37,233,375 | +$993,367 |
-| Sassy-Bucket | 76 | 74 | 3 | 51% | $8,648,246 | -$758,619 |
+| Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 | Woaifacai | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | Team Vitality | 2.33 (43¢) | $25,368 | — | ⏳ Pendiente |
 | BTCGambler247 | Spread: Ravens (-3.5) | Browns | 1.89 (53¢) | $27,030 | — | ⏳ Pendiente |
 | acorp | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | BetBoom Team | 2.22 (45¢) | $33,840 | — | ⏳ Pendiente |
-| Sassy-Bucket | Nebraska vs. Oregon | Oregon | 1.79 (56¢) | $36,674 | — | ⏳ Pendiente |
+| Sassy-Bucket | Nebraska vs. Oregon | Oregon | 1.79 (56¢) | $36,674 | +$28,815 | ✅ Ganada |
 | BrotherObama | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | LOUD | 1.69 (59¢) | $31,111 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Japan Women's Open, Qualification: Taylah Preston vs Emerson Jones | Emerson Jones | 1.15 (87¢) | $171,413 | +$25,613 | ✅ Ganada |
 | ethanaz | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $185,262 | -$185,262 | ❌ Perdida |
