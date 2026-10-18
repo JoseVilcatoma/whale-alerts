@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 06:32:27 (hora de Perú)
+Actualizado: 2026-10-18 06:34:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5492**  ($301,464,696 en total)
+- Apuestas registradas: **5493**  ($301,526,576 en total)
 - Resueltas: **5445** — 3336 ganadas / 2109 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 587
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
-| joseph00677 | 16 | 2 | 3 | 89% | $4,964,991 | +$2,066,720 |
+| joseph00677 | 16 | 2 | 4 | 89% | $5,026,871 | +$2,066,720 |
 | ethanaz | 51 | 22 | 0 | 70% | $4,665,455 | -$171,697 |
 | BrotherObama | 43 | 49 | 2 | 47% | $4,208,413 | -$161,127 |
 | mooseborzoii | 51 | 27 | 1 | 65% | $4,080,181 | +$971,347 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $61,880 | — | ⏳ Pendiente |
 | joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.43 (70¢) | $245,000 | — | ⏳ Pendiente |
 | Satanishippie | Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.72 (58¢) | $27,089 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-10-18? | No | 3.33 (30¢) | $188,645 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 587 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.75 (57¢) | $142,500 | -$142,500 | ❌ Perdida |
 | ethanaz | Ohio State vs. Indiana | Ohio State | 1.49 (67¢) | $46,440 | +$22,873 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Air Force | UNLV | 1.96 (51¢) | $92,888 | -$92,888 | ❌ Perdida |
-| 0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900 | Will AS Roma win on 2026-10-17? | Yes | 1.79 (56¢) | $28,913 | +$22,717 | ✅ Ganada |
