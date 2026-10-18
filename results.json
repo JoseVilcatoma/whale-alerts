@@ -83531,5 +83531,35 @@
     "status": "pending",
     "ultimo_fill": 1792340302,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11278,
+    "timestamp": 1792340423,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-hou-jax-2026-10-18",
+    "title": "Texans vs. Jaguars",
+    "outcome": "Texans",
+    "side": "BUY",
+    "usd": 25079.133299999998,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1792340423,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11279,
+    "timestamp": 1792340440,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-hou-jax-2026-10-18",
+    "title": "Texans vs. Jaguars",
+    "outcome": "Texans",
+    "side": "BUY",
+    "usd": 86128.99720000001,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1792340441,
+    "fills": 2
   }
 ]

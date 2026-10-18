@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 11:19:15 (hora de Perú)
+Actualizado: 2026-10-18 11:21:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5557**  ($306,499,681 en total)
+- Apuestas registradas: **5559**  ($306,610,890 en total)
 - Resueltas: **5477** — 3354 ganadas / 2123 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Pendientes: 60
 - Apostadores distintos: 590
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 388 | 212 | 10 | 65% | $38,228,260 | +$785,202 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 388 | 212 | 11 | 65% | $38,253,339 | +$785,202 |
 | Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 51 | 22 | 1 | 70% | $4,696,969 | -$171,697 |
-| mooseborzoii | 52 | 27 | 6 | 66% | $4,436,415 | +$1,091,171 |
+| mooseborzoii | 52 | 27 | 7 | 66% | $4,522,544 | +$1,091,171 |
 | BrotherObama | 43 | 49 | 2 | 47% | $4,208,413 | -$161,127 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 0 | 60% | $3,483,480 | +$161,369 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Texans vs. Jaguars | Texans | 1.47 (68¢) | $86,129 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Jaguars | Texans | 1.45 (69¢) | $25,079 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Panthers (-5.5) | Eagles | 1.69 (59¢) | $41,803 | — | ⏳ Pendiente |
 | Anon455 | Texans vs. Jaguars | Texans | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Panthers (-4.5) | Eagles | 1.75 (57¢) | $76,212 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | 1l2ihj34li12u34 | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $50,000 | +$66,279 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $127,971 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Joao Domingues vs Ivan Gakhov | Ivan Gakhov | 1.47 (68¢) | $40,651 | -$40,651 | ❌ Perdida |
-| Kch-Temp | Titans vs. Colts: O/U 44.5 | Under 44.5 | 1.96 (51¢) | $41,902 | — | ⏳ Pendiente |
-| mooseborzoii | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $90,393 | +$119,823 | ✅ Ganada |
