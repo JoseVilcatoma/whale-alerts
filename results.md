@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 20:58:09 (hora de Perú)
+Actualizado: 2026-10-17 21:00:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5461**  ($299,083,251 en total)
+- Apuestas registradas: **5462**  ($299,284,926 en total)
 - Resueltas: **5415** — 3320 ganadas / 2095 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 584
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 51 | 21 | 0 | 71% | $4,480,194 | +$13,565 |
 | BrotherObama | 41 | 49 | 3 | 46% | $4,177,302 | -$207,727 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
-| mooseborzoii | 50 | 26 | 2 | 66% | $3,878,506 | +$880,052 |
+| mooseborzoii | 50 | 26 | 3 | 66% | $4,080,181 | +$880,052 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 29 | 21 | 2 | 58% | $3,483,480 | +$153,404 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Notre Dame vs. BYU | BYU | 1.59 (63¢) | $201,676 | — | ⏳ Pendiente |
 | KaneAnalytics | Oklahoma State vs. Houston | Houston | 1.41 (71¢) | $44,884 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Notre Dame vs. BYU | Notre Dame | 2.70 (37¢) | $45,505 | — | ⏳ Pendiente |
 | omnibus-076daa | Oilers vs. Utah | Utah | 1.75 (57¢) | $101,348 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.57 (28¢) | $25,200 | +$64,800 | ✅ Ganada |
 | SineNooneEI | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | FURIA Esports | 1.56 (64¢) | $28,149 | -$28,149 | ❌ Perdida |
 | ferrariChampions2026 | Ohio State vs. Indiana | Ohio State | 1.67 (60¢) | $37,963 | +$25,309 | ✅ Ganada |
-| Woaifacai | Spread: FC Barcelona (-1.5) | Real Betis Balompié | 1.85 (54¢) | $27,028 | -$27,028 | ❌ Perdida |

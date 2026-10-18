@@ -82085,5 +82085,20 @@
     "status": "pending",
     "ultimo_fill": 1792288648,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11115,
+    "timestamp": 1792288750,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "cfb-nd-byu-2026-10-17",
+    "title": "Notre Dame vs. BYU",
+    "outcome": "BYU",
+    "side": "BUY",
+    "usd": 201675.8479,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1792288774,
+    "fills": 2
   }
 ]
