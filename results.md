@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 11:15:09 (hora de Perú)
+Actualizado: 2026-10-18 11:17:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5552**  ($306,268,066 en total)
+- Apuestas registradas: **5553**  ($306,326,066 en total)
 - Resueltas: **5477** — 3354 ganadas / 2123 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 590
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lfg100k | Will Real Madrid CF win on 2026-10-18? | Yes | 1.25 (80¢) | $58,000 | — | ⏳ Pendiente |
 | mooseborzoii | Texans vs. Jaguars | Texans | 1.49 (67¢) | $32,805 | — | ⏳ Pendiente |
 | mooseborzoii | Texans vs. Jaguars | Texans | 1.23 (81¢) | $61,101 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Jaguars | Texans | 1.28 (78¢) | $104,868 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | Siddhartha1 | Spread: Steelers (-2.5) | Steelers | 2.00 (50¢) | $35,044 | — | ⏳ Pendiente |
 | juice-fruit | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $150,480 | +$70,814 | ✅ Ganada |
 | Takon88 | Will AFC Bournemouth win on 2026-10-18? | Yes | 2.17 (46¢) | $35,207 | +$41,330 | ✅ Ganada |
-| joseph00677 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.47 (68¢) | $61,880 | +$29,120 | ✅ Ganada |
