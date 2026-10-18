@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 12:55:15 (hora de Perú)
+Actualizado: 2026-10-18 12:57:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5591**  ($308,956,695 en total)
+- Apuestas registradas: **5592**  ($308,983,852 en total)
 - Resueltas: **5512** — 3377 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Pendientes: 58
 - Apostadores distintos: 591
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 778908 | Panthers vs. Eagles | Panthers | 1.41 (71¢) | $27,157 | — | ⏳ Pendiente |
 | ColdBlooded | Game Handicap: KC (-1.5) vs MVK Esports (+1.5) | Karmine Corp | 1.30 (77¢) | $25,637 | — | ⏳ Pendiente |
 | ethanaz | Panthers vs. Eagles | Panthers | 1.37 (73¢) | $26,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Panthers vs. Eagles | Panthers | 1.45 (69¢) | $36,928 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | S-Works | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $135,020 | — | ⏳ Pendiente |
 | migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.39 (72¢) | $75,000 | — | ⏳ Pendiente |
 | migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.41 (71¢) | $35,225 | — | ⏳ Pendiente |
-| Dragon-Evolution | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.39 (72¢) | $48,285 | — | ⏳ Pendiente |
