@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 05:57:42 (hora de Perú)
+Actualizado: 2026-10-18 05:59:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5479**  ($300,097,385 en total)
+- Apuestas registradas: **5480**  ($300,122,385 en total)
 - Resueltas: **5445** — 3336 ganadas / 2109 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 586
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 586 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Leeds United FC vs. Manchester United FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | migrodrigues | Will Arsenal FC win on 2026-10-18? | No | 2.50 (40¢) | $25,000 | — | ⏳ Pendiente |
 | Zzzz87 | Udinese Calcio vs. US Lecce: O/U 2.5 | Over 2.5 | 2.08 (48¢) | $33,238 | — | ⏳ Pendiente |
 | lfg100k | Will Arsenal FC win on 2026-10-18? | Yes | 1.59 (63¢) | $40,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 586 en total)_
 | Kch-Temp | Spread: Toledo (-6.5) | Toledo | 1.89 (53¢) | $31,502 | +$27,936 | ✅ Ganada |
 | Kch-Temp | Toledo vs. Eastern Michigan | Toledo | 1.43 (70¢) | $81,169 | +$34,787 | ✅ Ganada |
 | ferrariChampions2026 | Florida vs. Texas | Florida | 1.89 (53¢) | $51,477 | +$45,649 | ✅ Ganada |
-| nb1985 | Will Lille OSC win on 2026-10-17? | No | 1.82 (55¢) | $50,000 | +$40,909 | ✅ Ganada |

@@ -82355,5 +82355,20 @@
     "status": "pending",
     "ultimo_fill": 1792318876,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11167,
+    "timestamp": 1792321175,
+    "username": "0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396",
+    "wallet": "0x73bcd24d510ff4e4d5feac6aec763c5511e246ce",
+    "slug": "epl-lee-mun-2026-10-18-corners-total-9pt5",
+    "title": "Leeds United FC vs. Manchester United FC: O/U 9.5 Total Corners",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792321175,
+    "fills": 1
   }
 ]
