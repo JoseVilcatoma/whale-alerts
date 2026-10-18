@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 21:44:30 (hora de Perú)
+Actualizado: 2026-10-17 21:46:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5466**  ($299,461,458 en total)
+- Apuestas registradas: **5466**  ($299,558,065 en total)
 - Resueltas: **5419** — 3323 ganadas / 2096 perdidas (**61%** de acierto)
 - Pendientes: 25
 - Apostadores distintos: 585
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
-| ethanaz | 51 | 21 | 1 | 71% | $4,568,848 | +$13,565 |
+| ethanaz | 51 | 21 | 1 | 71% | $4,665,455 | +$13,565 |
 | BrotherObama | 41 | 49 | 3 | 46% | $4,177,302 | -$207,727 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
 | mooseborzoii | 50 | 26 | 3 | 66% | $4,080,181 | +$880,052 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ethanaz | Notre Dame vs. BYU | Notre Dame | 1.30 (77¢) | $88,654 | — | ⏳ Pendiente |
+| ethanaz | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $185,262 | — | ⏳ Pendiente |
 | 0xb4bFC90A6f76A9cD2A7BBb12D5a7BF439729fa41-1788881896364 | Florida State vs. Miami (FL) | Miami (FL) | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.13 (47¢) | $30,088 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.22 (45¢) | $25,290 | — | ⏳ Pendiente |
