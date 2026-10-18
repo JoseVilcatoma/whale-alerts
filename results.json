@@ -82715,5 +82715,20 @@
     "status": "pending",
     "ultimo_fill": 1792327207,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 11192,
+    "timestamp": 1792327338,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lal-rea-sev-2026-10-18-draw",
+    "title": "Will Real Madrid CF vs. Sevilla FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 87028.9642,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1792327338,
+    "fills": 1
   }
 ]
