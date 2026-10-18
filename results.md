@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 21:12:29 (hora de Perú)
+Actualizado: 2026-10-17 21:14:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5462**  ($299,284,926 en total)
-- Resueltas: **5415** — 3320 ganadas / 2095 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **5416** — 3321 ganadas / 2095 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 584
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,101,535** sobre $296,854,209 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$2,958** sobre $534,000 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,104,500** sobre $296,880,891 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$2,947** sobre $534,100 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
 | mooseborzoii | 50 | 26 | 3 | 66% | $4,080,181 | +$880,052 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| maz26 | 29 | 21 | 2 | 58% | $3,483,480 | +$153,404 |
+| maz26 | 30 | 21 | 1 | 59% | $3,483,480 | +$156,369 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 10 | 1 | 79% | $3,238,624 | +$1,797,887 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | ferrariChampions2026 | Santa Cruz 2: Francisco Comesana vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.30 (77¢) | $47,944 | +$14,321 | ✅ Ganada |
 | TAIWANNUMBERONE | Alabama vs. Tennessee | Tennessee | 1.32 (76¢) | $38,276 | +$12,087 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Katlyn Cerminara vs. Mackenzie Stiller (Women's Flyweight, Prelims) | Katlyn Cerminara | 1.45 (69¢) | $31,046 | +$13,948 | ✅ Ganada |
-| gmpm2 | Washington State vs. Oregon State | Oregon State | 1.11 (90¢) | $26,683 | — | ⏳ Pendiente |
+| gmpm2 | Washington State vs. Oregon State | Oregon State | 1.11 (90¢) | $26,683 | +$2,965 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Chad Anheliger vs. Steven Koslow (Bantamweight, Prelims) | Chad Anheliger | 2.63 (38¢) | $27,675 | -$27,675 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. Tennessee | Tennessee | 2.63 (38¢) | $38,000 | +$62,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Troy vs. Louisiana | Troy | 2.38 (42¢) | $32,666 | -$32,666 | ❌ Perdida |
