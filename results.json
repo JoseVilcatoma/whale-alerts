@@ -84011,5 +84011,35 @@
     "status": "pending",
     "ultimo_fill": 1792344570,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11343,
+    "timestamp": 1792345670,
+    "username": "ColdBlooded",
+    "wallet": "0xbcc321b6336117432f4e9d2d28b20d8b6795ac9c",
+    "slug": "lol-kc-mvk-2026-10-18-game-handicap-away-1pt5",
+    "title": "Game Handicap: KC (-1.5) vs MVK Esports (+1.5)",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 25637.073,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1792345670,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11344,
+    "timestamp": 1792345340,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-car-phi-2026-10-18",
+    "title": "Panthers vs. Eagles",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 26199.8022,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1792345340,
+    "fills": 1
   }
 ]

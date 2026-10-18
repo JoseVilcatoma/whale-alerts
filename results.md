@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 12:47:02 (hora de Perú)
+Actualizado: 2026-10-18 12:49:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5589**  ($308,904,858 en total)
+- Apuestas registradas: **5591**  ($308,956,695 en total)
 - Resueltas: **5511** — 3377 ganadas / 2134 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 58
 - Apostadores distintos: 591
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | mooseborzoii | 57 | 27 | 7 | 68% | $5,076,848 | +$1,243,945 |
-| ethanaz | 52 | 22 | 0 | 70% | $4,696,969 | -$160,041 |
+| ethanaz | 52 | 22 | 1 | 70% | $4,723,169 | -$160,041 |
 | BrotherObama | 43 | 49 | 3 | 47% | $4,233,413 | -$161,127 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 0 | 60% | $3,483,480 | +$161,369 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ColdBlooded | Game Handicap: KC (-1.5) vs MVK Esports (+1.5) | Karmine Corp | 1.30 (77¢) | $25,637 | — | ⏳ Pendiente |
+| ethanaz | Panthers vs. Eagles | Panthers | 1.37 (73¢) | $26,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Panthers vs. Eagles | Panthers | 1.45 (69¢) | $36,928 | — | ⏳ Pendiente |
 | KaneAnalytics | Bears vs. Falcons | Bears | 1.28 (78¢) | $51,395 | — | ⏳ Pendiente |
 | gambamaster | Ravens vs. Browns | Ravens | 1.22 (82¢) | $50,211 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.39 (72¢) | $75,000 | — | ⏳ Pendiente |
 | migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.41 (71¢) | $35,225 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.39 (72¢) | $48,285 | — | ⏳ Pendiente |
-| Weaseloftheweek | Will Arsenal FC win on 2026-10-18? | Yes | 1.54 (65¢) | $64,273 | +$34,609 | ✅ Ganada |
-| takeormake | Panthers vs. Eagles | Panthers | 1.67 (60¢) | $50,000 | — | ⏳ Pendiente |
