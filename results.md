@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 18:42:43 (hora de Perú)
+Actualizado: 2026-10-18 18:44:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5666**  ($313,432,583 en total)
-- Resueltas: **5621** — 3441 ganadas / 2180 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **5626** — 3446 ganadas / 2180 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: -$155,343** sobre $311,359,441 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,509** sobre $554,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$110,102** sobre $311,554,171 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,394** sobre $554,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,12 +42,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 44 | 49 | 3 | 47% | $4,270,413 | -$137,108 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 1 | 60% | $3,679,480 | +$161,369 |
-| surfandturf | 31 | 9 | 1 | 78% | $3,441,382 | +$404,362 |
+| surfandturf | 32 | 9 | 0 | 78% | $3,441,382 | +$419,676 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
-| 0F62 | 29 | 8 | 2 | 78% | $2,806,296 | -$402,122 |
+| 0F62 | 30 | 8 | 1 | 79% | $2,806,296 | -$390,586 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
@@ -85,10 +85,10 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | TAIWANNUMBERONE | Cardinals vs. Rams | Rams | 1.20 (83¢) | $27,275 | -$27,275 | ❌ Perdida |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $50,907 | -$50,907 | ❌ Perdida |
 | BrotherObama | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $37,000 | — | ⏳ Pendiente |
-| Laskhask | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $29,883 | — | ⏳ Pendiente |
+| Laskhask | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $29,883 | +$5,692 | ✅ Ganada |
 | takeormake | Bills vs. Raiders | Raiders | 2.86 (35¢) | $49,995 | — | ⏳ Pendiente |
-| Jittz | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $28,350 | — | ⏳ Pendiente |
-| 0F62 | Chargers vs. Chiefs | Chiefs | 1.20 (83¢) | $56,322 | — | ⏳ Pendiente |
+| Jittz | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $28,350 | +$5,400 | ✅ Ganada |
+| 0F62 | Chargers vs. Chiefs | Chiefs | 1.20 (83¢) | $56,322 | +$11,536 | ✅ Ganada |
 | Jittz | Bills vs. Raiders | Bills | 1.61 (62¢) | $25,575 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.20 (83¢) | $29,265 | +$5,994 | ✅ Ganada |
 | cosmicxbt | Steelers vs. Buccaneers | Steelers | 1.14 (88¢) | $114,375 | +$15,597 | ✅ Ganada |
