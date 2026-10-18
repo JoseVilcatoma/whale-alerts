@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 21:36:24 (hora de Perú)
+Actualizado: 2026-10-17 21:38:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5463**  ($299,310,216 en total)
+- Apuestas registradas: **5464**  ($299,340,304 en total)
 - Resueltas: **5419** — 3323 ganadas / 2096 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 584
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 206 | 5 | 65% | $37,203,287 | +$1,094,249 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 206 | 6 | 65% | $37,233,375 | +$1,094,249 |
 | Sassy-Bucket | 76 | 74 | 2 | 51% | $8,611,572 | -$758,619 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 85 | 1 | 53% | $7,332,727 | -$502,419 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.13 (47¢) | $30,088 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.22 (45¢) | $25,290 | — | ⏳ Pendiente |
 | mooseborzoii | Notre Dame vs. BYU | BYU | 1.59 (63¢) | $201,676 | — | ⏳ Pendiente |
 | KaneAnalytics | Oklahoma State vs. Houston | Houston | 1.41 (71¢) | $44,884 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 584 en total)_
 | ArturitoFilito | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.41 (71¢) | $63,110 | -$63,110 | ❌ Perdida |
 | thegreatjeff | Will FC Barcelona win on 2026-10-17? | Yes | 1.18 (85¢) | $50,000 | +$8,824 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs | BetBoom Team | 3.57 (28¢) | $25,200 | +$64,800 | ✅ Ganada |
-| SineNooneEI | LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In | FURIA Esports | 1.56 (64¢) | $28,149 | -$28,149 | ❌ Perdida |
