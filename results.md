@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 09:59:03 (hora de Perú)
+Actualizado: 2026-10-18 10:01:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5528**  ($304,858,949 en total)
-- Resueltas: **5448** — 3338 ganadas / 2110 perdidas (**61%** de acierto)
+- Apuestas registradas: **5529**  ($304,884,997 en total)
+- Resueltas: **5449** — 3338 ganadas / 2111 perdidas (**61%** de acierto)
 - Pendientes: 58
 - Apostadores distintos: 589
 
 ### Balance
 
-- **Resultado de los apostadores: +$887,451** sobre $298,903,350 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,438** sobre $537,300 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$846,800** sobre $298,944,001 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,538** sobre $537,400 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 209 | 12 | 65% | $37,913,622 | +$993,367 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 210 | 11 | 65% | $37,913,622 | +$952,716 |
 | Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 34 | 19 | 3 | 64% | $6,664,377 | +$48,997 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 16 | 2 | 5 | 89% | $6,233,207 | +$2,066,720 |
-| ferrariChampions2026 | 91 | 44 | 0 | 67% | $5,981,583 | +$248,230 |
+| ferrariChampions2026 | 91 | 44 | 1 | 67% | $6,007,630 | +$248,230 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Texans vs. Jaguars | Texans | 2.00 (50¢) | $26,047 | — | ⏳ Pendiente |
 | gambamaster | Texans vs. Jaguars | Jaguars | 1.64 (61¢) | $68,799 | — | ⏳ Pendiente |
 | Zzzz87 | Nottingham Forest FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $67,614 | — | ⏳ Pendiente |
 | sulumos | Texans vs. Jaguars | Jaguars | 1.89 (53¢) | $30,740 | — | ⏳ Pendiente |
@@ -99,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.75 (57¢) | $238,334 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $127,971 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Joao Domingues vs Ivan Gakhov | Ivan Gakhov | 1.47 (68¢) | $40,651 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Joao Domingues vs Ivan Gakhov | Ivan Gakhov | 1.47 (68¢) | $40,651 | -$40,651 | ❌ Perdida |
 | Kch-Temp | Titans vs. Colts: O/U 44.5 | Under 44.5 | 1.96 (51¢) | $41,902 | — | ⏳ Pendiente |
 | mooseborzoii | Will Como 1907 win on 2026-10-18? | Yes | 2.33 (43¢) | $90,393 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Como 1907 win on 2026-10-18? | No | 1.79 (56¢) | $234,440 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | Woaifacai | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | Team Vitality | 2.33 (43¢) | $25,368 | -$25,368 | ❌ Perdida |
 | BTCGambler247 | Spread: Ravens (-3.5) | Browns | 1.89 (53¢) | $27,030 | — | ⏳ Pendiente |
 | acorp | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | BetBoom Team | 2.22 (45¢) | $33,840 | — | ⏳ Pendiente |
-| Sassy-Bucket | Nebraska vs. Oregon | Oregon | 1.79 (56¢) | $36,674 | +$28,815 | ✅ Ganada |

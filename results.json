@@ -82667,7 +82667,7 @@
     "side": "BUY",
     "usd": 40650.944,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792326845,
     "fills": 1
   },
@@ -83089,6 +83089,21 @@
     "odds_at_bet": 61,
     "status": "pending",
     "ultimo_fill": 1792335201,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11221,
+    "timestamp": 1792335664,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-hou-jax-2026-10-18",
+    "title": "Texans vs. Jaguars",
+    "outcome": "Texans",
+    "side": "BUY",
+    "usd": 26047.445,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792335664,
     "fills": 1
   }
 ]
