@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 09:38:22 (hora de Perú)
+Actualizado: 2026-10-18 09:40:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5524**  ($304,637,950 en total)
+- Apuestas registradas: **5525**  ($304,691,797 en total)
 - Resueltas: **5448** — 3338 ganadas / 2110 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 589
 
 ### Balance
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| ndb1 | 26 | 12 | 0 | 68% | $2,027,534 | +$509,618 |
+| ndb1 | 26 | 12 | 1 | 68% | $2,081,380 | +$509,618 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 32 | 3 | 1 | 91% | $1,917,633 | +$64,091 |
 | SDTrading | 31 | 31 | 1 | 50% | $1,875,253 | -$131,270 |
 | Talvez10 | 22 | 18 | 0 | 55% | $1,866,868 | +$279,196 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $53,846 | — | ⏳ Pendiente |
 | CongoleseBorat | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $46,022 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Arsenal FC win on 2026-10-18? | No | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | joseph00677 | Will Arsenal FC win on 2026-10-18? | Yes | 1.54 (65¢) | $1,206,336 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | BrotherObama | Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs | LOUD | 1.69 (59¢) | $31,111 | +$21,620 | ✅ Ganada |
 | 01258787xy48487484545122 | Japan Women's Open, Qualification: Taylah Preston vs Emerson Jones | Emerson Jones | 1.15 (87¢) | $171,413 | +$25,613 | ✅ Ganada |
 | ethanaz | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $185,262 | -$185,262 | ❌ Perdida |
-| 0xb4bFC90A6f76A9cD2A7BBb12D5a7BF439729fa41-1788881896364 | Florida State vs. Miami (FL) | Miami (FL) | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
