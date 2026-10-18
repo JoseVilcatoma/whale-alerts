@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 22:13:07 (hora de Perú)
+Actualizado: 2026-10-17 22:15:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5467**  ($299,729,479 en total)
-- Resueltas: **5421** — 3324 ganadas / 2097 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **5424** — 3325 ganadas / 2099 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 585
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,051,607** sobre $297,084,035 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,050** sobre $534,600 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,026,062** sobre $297,194,816 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,196** sobre $534,900 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 206 | 6 | 65% | $37,233,375 | +$1,094,249 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 385 | 208 | 4 | 65% | $37,233,375 | +$1,038,872 |
 | Sassy-Bucket | 76 | 74 | 2 | 51% | $8,611,572 | -$758,619 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -74,8 +74,8 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 | 01258787xy48487484545122 | Japan Women's Open, Qualification: Taylah Preston vs Emerson Jones | Emerson Jones | 1.15 (87¢) | $171,413 | — | ⏳ Pendiente |
 | ethanaz | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $185,262 | — | ⏳ Pendiente |
 | 0xb4bFC90A6f76A9cD2A7BBb12D5a7BF439729fa41-1788881896364 | Florida State vs. Miami (FL) | Miami (FL) | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.13 (47¢) | $30,088 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.22 (45¢) | $25,290 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.13 (47¢) | $30,088 | -$30,088 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card) | Joaquin Buckley | 2.22 (45¢) | $25,290 | -$25,290 | ❌ Perdida |
 | mooseborzoii | Notre Dame vs. BYU | BYU | 1.59 (63¢) | $201,676 | — | ⏳ Pendiente |
 | KaneAnalytics | Oklahoma State vs. Houston | Houston | 1.41 (71¢) | $44,884 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Notre Dame vs. BYU | Notre Dame | 2.70 (37¢) | $45,505 | — | ⏳ Pendiente |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 | TAIWANNUMBERONE | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $63,601 | — | ⏳ Pendiente |
 | KaneAnalytics | Notre Dame vs. BYU | Notre Dame | 1.37 (73¢) | $29,896 | — | ⏳ Pendiente |
 | omnibus-076daa | Bruins vs. Kings | Kings | 1.79 (56¢) | $39,159 | — | ⏳ Pendiente |
-| OhWhenTheReds | Will Vancouver Whitecaps FC win on 2026-10-17? | Yes | 1.54 (65¢) | $55,403 | — | ⏳ Pendiente |
+| OhWhenTheReds | Will Vancouver Whitecaps FC win on 2026-10-17? | Yes | 1.54 (65¢) | $55,403 | +$29,833 | ✅ Ganada |
 | 0000a | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $138,502 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Oklahoma (-6.5) | Oklahoma | 1.85 (54¢) | $45,982 | -$45,982 | ❌ Perdida |
 | Roadto1mlesgooo | Atlanta United FC vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $34,843 | +$3,446 | ✅ Ganada |
