@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 01:00:24 (hora de Perú)
+Actualizado: 2026-10-18 01:02:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5472**  ($299,883,502 en total)
-- Resueltas: **5439** — 3332 ganadas / 2107 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **5442** — 3334 ganadas / 2108 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 585
 
 ### Balance
 
-- **Resultado de los apostadores: +$792,960** sobre $298,577,384 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$3,613** sobre $536,400 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$830,976** sobre $298,672,358 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$3,521** sobre $536,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,9 +37,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 18 | 0 | 62% | $5,390,930 | +$1,086,392 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 51 | 22 | 0 | 70% | $4,665,455 | -$171,697 |
-| BrotherObama | 41 | 49 | 4 | 46% | $4,208,413 | -$207,727 |
+| BrotherObama | 42 | 49 | 3 | 46% | $4,208,413 | -$182,747 |
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
-| mooseborzoii | 51 | 26 | 2 | 66% | $4,080,181 | +$998,496 |
+| mooseborzoii | 51 | 27 | 1 | 65% | $4,080,181 | +$971,347 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 31 | 21 | 0 | 60% | $3,483,480 | +$161,369 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
