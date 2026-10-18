@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 14:33:09 (hora de Perú)
+Actualizado: 2026-10-18 14:35:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5628**  ($311,109,220 en total)
+- Apuestas registradas: **5629**  ($311,209,270 en total)
 - Resueltas: **5514** — 3379 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 92
+- Pendientes: 93
 - Apostadores distintos: 594
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Titans vs. Colts | Titans | 1.43 (70¢) | $100,050 | — | ⏳ Pendiente |
 | KaneAnalytics | Ravens vs. Browns | Browns | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
 | IdentityV | Panthers vs. Eagles | Panthers | 1.16 (86¢) | $34,641 | — | ⏳ Pendiente |
 | Anon455 | Panthers vs. Eagles | Panthers | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 594 en total)_
 | 778908 | Panthers vs. Eagles | Panthers | 1.69 (59¢) | $88,248 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will SS Lazio win on 2026-10-18? | No | 1.20 (83¢) | $50,000 | — | ⏳ Pendiente |
 | milkteaboba | Spread: Panthers (-10.5) | Eagles | 1.33 (75¢) | $25,240 | — | ⏳ Pendiente |
-| milkteaboba | Spread: Panthers (-14.5) | Eagles | 1.20 (83¢) | $30,945 | — | ⏳ Pendiente |
