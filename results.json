@@ -83379,5 +83379,20 @@
     "status": "pending",
     "ultimo_fill": 1792338557,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 11267,
+    "timestamp": 1792338736,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "cs2-furia-bb3-2026-10-18",
+    "title": "Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 25824.427499999998,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1792338736,
+    "fills": 1
   }
 ]

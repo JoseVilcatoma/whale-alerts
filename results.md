@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:50:38 (hora de Perú)
+Actualizado: 2026-10-18 10:52:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5547**  ($306,014,468 en total)
+- Apuestas registradas: **5548**  ($306,040,292 en total)
 - Resueltas: **5476** — 3354 ganadas / 2122 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Pendientes: 50
 - Apostadores distintos: 590
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.33 (75¢) | $25,824 | — | ⏳ Pendiente |
 | mooseborzoii | Texans vs. Jaguars | Texans | 1.52 (66¢) | $72,220 | — | ⏳ Pendiente |
 | Anon455 | Texans vs. Jaguars | Texans | 1.43 (70¢) | $28,000 | — | ⏳ Pendiente |
 | Satanishippie | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.35 (74¢) | $82,733 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 590 en total)_
 | Satanishippie | Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs | Team Falcons | 1.72 (58¢) | $27,089 | -$27,089 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-10-18? | No | 3.33 (30¢) | $188,645 | -$188,645 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-10-18? | Yes | 1.45 (69¢) | $31,050 | +$13,950 | ✅ Ganada |
-| SDTrading | Texans vs. Jaguars: O/U 42.5 | Under 42.5 | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
