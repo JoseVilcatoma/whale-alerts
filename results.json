@@ -82837,7 +82837,7 @@
     "fills": 1
   },
   {
-    "telegram_msg_id": null,
+    "telegram_msg_id": 11202,
     "timestamp": 1792329559,
     "username": "Flaznorp",
     "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
@@ -82849,6 +82849,21 @@
     "odds_at_bet": 60,
     "status": "pending",
     "ultimo_fill": 1792329559,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11203,
+    "timestamp": 1792329562,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "sea-fio-com-2026-10-18-com",
+    "title": "Will Como 1907 win on 2026-10-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 51434.694,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792329562,
     "fills": 1
   }
 ]
