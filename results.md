@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 10:15:45 (hora de Perú)
+Actualizado: 2026-10-18 10:17:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5534**  ($305,157,779 en total)
-- Resueltas: **5458** — 3345 ganadas / 2113 perdidas (**61%** de acierto)
+- Apuestas registradas: **5535**  ($305,292,799 en total)
+- Resueltas: **5459** — 3346 ganadas / 2113 perdidas (**61%** de acierto)
 - Pendientes: 54
 - Apostadores distintos: 589
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,154,274** sobre $300,304,441 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$3,415** sobre $538,300 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,208,615** sobre $300,345,435 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$3,282** sobre $538,400 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 386 | 211 | 9 | 65% | $37,913,622 | +$778,021 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 387 | 211 | 8 | 65% | $37,913,622 | +$832,362 |
 | Sassy-Bucket | 77 | 74 | 2 | 51% | $8,648,246 | -$729,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
 | 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
+| S-Works | 10 | 5 | 1 | 67% | $1,717,959 | -$195,755 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| S-Works | 10 | 5 | 0 | 67% | $1,582,939 | -$195,755 |
 
 _(mostrando los 40 de mayor monto, de 589 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $135,020 | — | ⏳ Pendiente |
 | migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.39 (72¢) | $75,000 | — | ⏳ Pendiente |
 | migrodrigues | Will Málaga CF win on 2026-10-18? | No | 1.41 (71¢) | $35,225 | — | ⏳ Pendiente |
 | Dragon-Evolution | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.39 (72¢) | $48,285 | — | ⏳ Pendiente |
@@ -97,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | JambonMogettes | Bears vs. Falcons: O/U 52.5 | Over 52.5 | 2.04 (49¢) | $55,578 | — | ⏳ Pendiente |
 | migrodrigues | Will Sevilla FC win on 2026-10-18? | Yes | 12.50 (8¢) | $35,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. Sevilla FC end in a draw? | No | 1.16 (86¢) | $86,211 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Brighton & Hove Albion FC (-1.5) | Brighton & Hove Albion FC | 2.33 (43¢) | $40,994 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Brighton & Hove Albion FC (-1.5) | Brighton & Hove Albion FC | 2.33 (43¢) | $40,994 | +$54,341 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Leeds United FC vs. Manchester United FC: O/U 2.5 | Under 2.5 | 1.92 (52¢) | $29,790 | — | ⏳ Pendiente |
 | migrodrigues | Will Real Madrid CF vs. Sevilla FC end in a draw? | Yes | 7.14 (14¢) | $29,730 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Leeds United FC vs. Manchester United FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $51,649 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 589 en total)_
 | Zzzz87 | Udinese Calcio vs. US Lecce: O/U 2.5 | Over 2.5 | 2.08 (48¢) | $33,238 | +$36,008 | ✅ Ganada |
 | lfg100k | Will Arsenal FC win on 2026-10-18? | Yes | 1.59 (63¢) | $40,000 | — | ⏳ Pendiente |
 | beeemw | Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Rafael Jodar | Rafael Jodar | 1.25 (80¢) | $25,600 | -$25,600 | ❌ Perdida |
-| 0F62 | Chargers vs. Chiefs | Chiefs | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
