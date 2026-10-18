@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-17 21:46:32 (hora de Perú)
+Actualizado: 2026-10-17 21:48:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5466**  ($299,558,065 en total)
-- Resueltas: **5419** — 3323 ganadas / 2096 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **5420** — 3324 ganadas / 2096 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 585
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,092,589** sobre $296,980,553 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$2,958** sobre $534,400 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$1,097,589** sobre $297,038,053 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$2,950** sobre $534,500 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 16 | 2 | 0 | 89% | $4,099,184 | +$2,066,720 |
 | mooseborzoii | 50 | 26 | 3 | 66% | $4,080,181 | +$880,052 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| maz26 | 30 | 21 | 1 | 59% | $3,483,480 | +$156,369 |
+| maz26 | 31 | 21 | 0 | 60% | $3,483,480 | +$161,369 |
 | surfandturf | 31 | 9 | 0 | 78% | $3,387,086 | +$404,362 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 10 | 1 | 79% | $3,238,624 | +$1,797,887 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 585 en total)_
 | 0000a | Notre Dame vs. BYU | Notre Dame | 1.27 (79¢) | $138,502 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Oklahoma (-6.5) | Oklahoma | 1.85 (54¢) | $45,982 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Atlanta United FC vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $34,843 | +$3,446 | ✅ Ganada |
-| gmpm2 | Kent State vs. South Florida | South Florida | 1.09 (92¢) | $57,500 | — | ⏳ Pendiente |
+| gmpm2 | Kent State vs. South Florida | South Florida | 1.09 (92¢) | $57,500 | +$5,000 | ✅ Ganada |
 | DelidelaDele | Will New York Red Bulls win on 2026-10-17? | Yes | 1.72 (58¢) | $37,120 | -$37,120 | ❌ Perdida |
 | ferrariChampions2026 | Santa Cruz 2: Francisco Comesana vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.30 (77¢) | $47,944 | +$14,321 | ✅ Ganada |
 | TAIWANNUMBERONE | Alabama vs. Tennessee | Tennessee | 1.32 (76¢) | $38,276 | +$12,087 | ✅ Ganada |
