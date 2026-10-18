@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 13:30:03 (hora de Perú)
+Actualizado: 2026-10-18 13:32:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5607**  ($310,116,439 en total)
+- Apuestas registradas: **5608**  ($310,244,693 en total)
 - Resueltas: **5512** — 3377 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Pendientes: 74
 - Apostadores distintos: 591
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Titans vs. Colts | Colts | 1.06 (94¢) | $128,254 | — | ⏳ Pendiente |
 | nb1985 | Will Olympique Lyonnais win on 2026-10-18? | No | 1.92 (52¢) | $100,000 | — | ⏳ Pendiente |
 | ethanaz | Panthers vs. Eagles | Panthers | 1.35 (74¢) | $66,660 | — | ⏳ Pendiente |
 | Laskhask | Ravens vs. Browns | Ravens | 1.18 (85¢) | $85,821 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | mooseborzoii | Texans vs. Jaguars | Texans | 1.23 (81¢) | $61,101 | +$14,332 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Jaguars | Texans | 1.28 (78¢) | $104,868 | +$29,578 | ✅ Ganada |
 | hfv | Texans vs. Jaguars | Texans | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
-| juice-fruit | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.33 (75¢) | $25,824 | — | ⏳ Pendiente |
