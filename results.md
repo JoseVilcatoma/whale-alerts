@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 15:38:43 (hora de Perú)
+Actualizado: 2026-10-18 15:40:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5646**  ($312,560,974 en total)
+- Apuestas registradas: **5648**  ($312,615,814 en total)
 - Resueltas: **5527** — 3384 ganadas / 2143 perdidas (**61%** de acierto)
-- Pendientes: 97
+- Pendientes: 99
 - Apostadores distintos: 596
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | totoro3miyazaki | 34 | 21 | 1 | 62% | $6,664,377 | -$423,776 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| ferrariChampions2026 | 93 | 44 | 4 | 68% | $6,288,611 | +$303,233 |
+| ferrariChampions2026 | 93 | 44 | 5 | 68% | $6,317,876 | +$303,233 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 18 | 3 | 62% | $5,594,771 | +$1,086,392 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jittz | Bills vs. Raiders | Bills | 1.61 (62¢) | $25,575 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.20 (83¢) | $29,265 | — | ⏳ Pendiente |
 | cosmicxbt | Steelers vs. Buccaneers | Steelers | 1.14 (88¢) | $114,375 | — | ⏳ Pendiente |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $208,939 | — | ⏳ Pendiente |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.19 (84¢) | $29,620 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | ColdBlooded | Game Handicap: KC (-1.5) vs MVK Esports (+1.5) | Karmine Corp | 1.30 (77¢) | $25,637 | — | ⏳ Pendiente |
 | ethanaz | Panthers vs. Eagles | Panthers | 1.37 (73¢) | $26,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Panthers vs. Eagles | Panthers | 1.45 (69¢) | $36,928 | — | ⏳ Pendiente |
-| KaneAnalytics | Bears vs. Falcons | Bears | 1.28 (78¢) | $51,395 | — | ⏳ Pendiente |
-| gambamaster | Ravens vs. Browns | Ravens | 1.22 (82¢) | $50,211 | -$50,211 | ❌ Perdida |
