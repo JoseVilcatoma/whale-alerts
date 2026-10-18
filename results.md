@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 13:11:42 (hora de Perú)
+Actualizado: 2026-10-18 13:13:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5599**  ($309,684,545 en total)
+- Apuestas registradas: **5601**  ($309,752,136 en total)
 - Resueltas: **5512** — 3377 ganadas / 2135 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Pendientes: 67
 - Apostadores distintos: 591
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sbimbg | Saints vs. Giants | Giants | 1.39 (72¢) | $35,991 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 1 Winner | Karmine Corp | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
 | ripley86alien | Will Olympique Lyonnais win on 2026-10-18? | No | 2.00 (50¢) | $127,778 | — | ⏳ Pendiente |
 | Laskhask | Steelers vs. Buccaneers | Buccaneers | 1.25 (80¢) | $87,511 | — | ⏳ Pendiente |
 | mooseborzoii | Will Olympique Lyonnais win on 2026-10-18? | Yes | 2.00 (50¢) | $167,559 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 591 en total)_
 | Satanishippie | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | FURIA | 1.69 (59¢) | $30,000 | — | ⏳ Pendiente |
 | ethanaz | Texans vs. Jaguars | Texans | 1.37 (73¢) | $31,514 | +$11,656 | ✅ Ganada |
 | mooseborzoii | Spread: Ravens (-3.5) | Ravens | 2.13 (47¢) | $60,209 | — | ⏳ Pendiente |
-| gambamaster | Texans vs. Jaguars | Texans | 1.30 (77¢) | $36,117 | +$10,788 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-10-18? | Yes | 1.56 (64¢) | $91,755 | +$51,612 | ✅ Ganada |
