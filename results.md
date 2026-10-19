@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 23:07:30 (hora de Perú)
+Actualizado: 2026-10-18 23:09:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5686**  ($314,381,727 en total)
-- Resueltas: **5642** — 3456 ganadas / 2186 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **5657** — 3470 ganadas / 2187 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 597
 
 ### Balance
 
-- **Resultado de los apostadores: -$34,561** sobre $312,395,132 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,398** sobre $556,300 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$168,733** sobre $313,203,003 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,808** sobre $557,800 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 215 | 6 | 65% | $38,548,255 | +$777,599 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 397 | 216 | 4 | 65% | $38,548,255 | +$683,151 |
 | Sassy-Bucket | 79 | 75 | 2 | 51% | $9,351,790 | -$683,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 21 | 0 | 59% | $5,594,771 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| mooseborzoii | 59 | 35 | 3 | 63% | $5,549,491 | +$752,224 |
+| mooseborzoii | 61 | 35 | 1 | 64% | $5,549,491 | +$786,731 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 56 | 23 | 0 | 71% | $4,883,840 | -$115,755 |
 | BrotherObama | 44 | 49 | 3 | 47% | $4,270,413 | -$137,108 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
 | 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
-| TAIWANNUMBERONE | 28 | 16 | 1 | 64% | $1,742,450 | -$183,101 |
+| TAIWANNUMBERONE | 29 | 16 | 0 | 64% | $1,742,450 | -$166,848 |
 
 _(mostrando los 40 de mayor monto, de 597 en total)_
 
@@ -72,25 +72,25 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Lilli Tagger vs Liudmila Samsonova | Lilli Tagger | 1.37 (73¢) | $28,895 | — | ⏳ Pendiente |
-| milkteaboba | Cowboys vs. Packers | Packers | 1.08 (93¢) | $67,400 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Packers | Packers | 1.20 (83¢) | $36,872 | — | ⏳ Pendiente |
+| milkteaboba | Cowboys vs. Packers | Packers | 1.08 (93¢) | $67,400 | +$5,073 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Packers | Packers | 1.20 (83¢) | $36,872 | +$7,552 | ✅ Ganada |
 | ethanaz | Cowboys vs. Packers: O/U 44.5 | Under 44.5 | 1.96 (51¢) | $28,901 | +$27,768 | ✅ Ganada |
 | mooseborzoii | Cowboys vs. Packers: O/U 44.5 | Over 44.5 | 2.04 (49¢) | $27,768 | -$27,768 | ❌ Perdida |
-| mooseborzoii | Cowboys vs. Packers | Packers | 1.15 (87¢) | $102,202 | — | ⏳ Pendiente |
-| mooseborzoii | Cowboys vs. Packers | Packers | 1.25 (80¢) | $76,941 | — | ⏳ Pendiente |
-| Hashbrown | Cowboys vs. Packers | Packers | 1.11 (90¢) | $36,000 | — | ⏳ Pendiente |
-| milkteaboba | Cowboys vs. Packers | Packers | 1.39 (72¢) | $54,201 | — | ⏳ Pendiente |
-| sulumos | Cowboys vs. Packers | Packers | 1.41 (71¢) | $59,853 | — | ⏳ Pendiente |
-| yoyoyoyoer | Cowboys vs. Packers | Packers | 1.41 (71¢) | $27,578 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Cowboys vs. Packers | Packers | 1.41 (71¢) | $39,790 | — | ⏳ Pendiente |
-| takeormake | Cowboys vs. Packers | Packers | 1.49 (67¢) | $50,562 | — | ⏳ Pendiente |
-| milkteaboba | Cowboys vs. Packers | Packers | 1.89 (53¢) | $29,615 | — | ⏳ Pendiente |
-| Schnoodled | Cowboys vs. Packers | Packers | 2.04 (49¢) | $25,066 | — | ⏳ Pendiente |
+| mooseborzoii | Cowboys vs. Packers | Packers | 1.15 (87¢) | $102,202 | +$15,272 | ✅ Ganada |
+| mooseborzoii | Cowboys vs. Packers | Packers | 1.25 (80¢) | $76,941 | +$19,235 | ✅ Ganada |
+| Hashbrown | Cowboys vs. Packers | Packers | 1.11 (90¢) | $36,000 | +$4,000 | ✅ Ganada |
+| milkteaboba | Cowboys vs. Packers | Packers | 1.39 (72¢) | $54,201 | +$21,078 | ✅ Ganada |
+| sulumos | Cowboys vs. Packers | Packers | 1.41 (71¢) | $59,853 | +$24,447 | ✅ Ganada |
+| yoyoyoyoer | Cowboys vs. Packers | Packers | 1.41 (71¢) | $27,578 | +$11,264 | ✅ Ganada |
+| TAIWANNUMBERONE | Cowboys vs. Packers | Packers | 1.41 (71¢) | $39,790 | +$16,252 | ✅ Ganada |
+| takeormake | Cowboys vs. Packers | Packers | 1.49 (67¢) | $50,562 | +$24,903 | ✅ Ganada |
+| milkteaboba | Cowboys vs. Packers | Packers | 1.89 (53¢) | $29,615 | +$26,262 | ✅ Ganada |
+| Schnoodled | Cowboys vs. Packers | Packers | 2.04 (49¢) | $25,066 | +$26,089 | ✅ Ganada |
 | ferrariChampions2026 | Cowboys vs. Packers: O/U 54.5 | Over 54.5 | 2.13 (47¢) | $29,708 | — | ⏳ Pendiente |
-| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Cowboys vs. Packers | Packers | 2.04 (49¢) | $27,857 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Packers: O/U 53.5 | Over 53.5 | 1.96 (51¢) | $102,000 | — | ⏳ Pendiente |
+| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Cowboys vs. Packers | Packers | 2.04 (49¢) | $27,857 | +$28,994 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Packers: O/U 53.5 | Over 53.5 | 1.96 (51¢) | $102,000 | -$102,000 | ❌ Perdida |
 | sinasinner | Spread: Cowboys (-1.5) | Packers | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
-| Electricy | Cowboys vs. Packers: O/U 53.5 | Under 53.5 | 2.04 (49¢) | $71,935 | — | ⏳ Pendiente |
+| Electricy | Cowboys vs. Packers: O/U 53.5 | Under 53.5 | 2.04 (49¢) | $71,935 | +$74,871 | ✅ Ganada |
 | 0F62 | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.19 (84¢) | $47,407 | +$9,030 | ✅ Ganada |
 | ferrariChampions2026 | Cardinals vs. Rams | Cardinals | 1.25 (80¢) | $38,435 | +$9,609 | ✅ Ganada |
 | TAIWANNUMBERONE | Bills vs. Raiders | Bills | 1.16 (86¢) | $57,575 | +$9,373 | ✅ Ganada |
