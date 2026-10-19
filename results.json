@@ -85393,5 +85393,20 @@
     "status": "pending",
     "ultimo_fill": 1792377373,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11561,
+    "timestamp": 1792377614,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-dal-gb-2026-10-19-total-44pt5",
+    "title": "Cowboys vs. Packers: O/U 44.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 27767.996199999998,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792377614,
+    "fills": 1
   }
 ]
