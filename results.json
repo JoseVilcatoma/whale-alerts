@@ -85588,5 +85588,20 @@
     "status": "pending",
     "ultimo_fill": 1792425511,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11600,
+    "timestamp": 1792425669,
+    "username": "Velin217",
+    "wallet": "0x9a5e78f769d30fb320f084ed64d58fcbc09acd58",
+    "slug": "atp-kukushk-sakella-2026-10-19",
+    "title": "Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis",
+    "outcome": "Mikhail Kukushkin",
+    "side": "BUY",
+    "usd": 29781.323999999997,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1792425669,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 11:00:25 (hora de Perú)
+Actualizado: 2026-10-19 11:02:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5694**  ($314,635,747 en total)
+- Apuestas registradas: **5695**  ($314,665,528 en total)
 - Resueltas: **5662** — 3473 ganadas / 2189 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 598
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 598 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Velin217 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.39 (72¢) | $29,781 | — | ⏳ Pendiente |
 | 778908 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.45 (69¢) | $28,294 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Getafe CF win on 2026-10-19? | No | 1.47 (68¢) | $25,923 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.61 (62¢) | $33,934 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 598 en total)_
 | ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.82 (55¢) | $31,546 | +$25,810 | ✅ Ganada |
 | 0F62 | Cardinals vs. Rams | Rams | 1.15 (87¢) | $51,298 | -$51,298 | ❌ Perdida |
 | TAIWANNUMBERONE | Steelers vs. Buccaneers | Steelers | 1.30 (77¢) | $38,767 | +$11,580 | ✅ Ganada |
-| Takon88 | Will Columbus Crew win on 2026-10-18? | No | 1.64 (61¢) | $91,500 | -$91,500 | ❌ Perdida |
