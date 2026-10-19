@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 20:05:36 (hora de Perú)
+Actualizado: 2026-10-18 20:07:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5676**  ($313,862,695 en total)
+- Apuestas registradas: **5677**  ($313,922,548 en total)
 - Resueltas: **5638** — 3454 ganadas / 2184 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 597
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sulumos | Cowboys vs. Packers | Packers | 1.41 (71¢) | $59,853 | — | ⏳ Pendiente |
 | yoyoyoyoer | Cowboys vs. Packers | Packers | 1.41 (71¢) | $27,578 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Cowboys vs. Packers | Packers | 1.41 (71¢) | $39,790 | — | ⏳ Pendiente |
 | takeormake | Cowboys vs. Packers | Packers | 1.49 (67¢) | $50,562 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 | PEYZ-BIGGEST-FAN | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.27 (79¢) | $26,058 | +$6,927 | ✅ Ganada |
 | Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $63,869 | +$104,207 | ✅ Ganada |
 | yoyoyoyoer | Saints vs. Giants | Saints | 1.41 (71¢) | $25,294 | +$10,332 | ✅ Ganada |
-| Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $26,211 | +$42,765 | ✅ Ganada |
