@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 21:48:18 (hora de Perú)
+Actualizado: 2026-10-18 21:50:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5682**  ($314,219,659 en total)
+- Apuestas registradas: **5683**  ($314,256,531 en total)
 - Resueltas: **5640** — 3455 ganadas / 2185 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 597
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 215 | 4 | 65% | $38,482,488 | +$777,599 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 396 | 215 | 5 | 65% | $38,519,360 | +$777,599 |
 | Sassy-Bucket | 79 | 75 | 2 | 51% | $9,351,790 | -$683,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Packers | Packers | 1.20 (83¢) | $36,872 | — | ⏳ Pendiente |
 | mooseborzoii | Cowboys vs. Packers: O/U 44.5 | Over 44.5 | 2.04 (49¢) | $27,768 | — | ⏳ Pendiente |
 | mooseborzoii | Cowboys vs. Packers | Packers | 1.15 (87¢) | $102,202 | — | ⏳ Pendiente |
 | mooseborzoii | Cowboys vs. Packers | Packers | 1.25 (80¢) | $76,941 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 | Anon455 | Panthers vs. Eagles | Panthers | 1.19 (84¢) | $25,200 | +$4,800 | ✅ Ganada |
 | Laskhask | Panthers vs. Eagles | Panthers | 1.30 (77¢) | $59,571 | +$17,794 | ✅ Ganada |
 | cosmicxbt | Saints vs. Giants | Saints | 1.10 (91¢) | $99,583 | +$9,849 | ✅ Ganada |
-| TAIWANNUMBERONE | Panthers vs. Eagles | Panthers | 1.37 (73¢) | $26,494 | +$9,799 | ✅ Ganada |
