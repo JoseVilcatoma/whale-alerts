@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 19:26:13 (hora de Perú)
+Actualizado: 2026-10-18 19:28:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5672**  ($313,715,150 en total)
+- Apuestas registradas: **5673**  ($313,744,765 en total)
 - Resueltas: **5638** — 3454 ganadas / 2184 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 597
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Cowboys vs. Packers | Packers | 1.89 (53¢) | $29,615 | — | ⏳ Pendiente |
 | Schnoodled | Cowboys vs. Packers | Packers | 2.04 (49¢) | $25,066 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cowboys vs. Packers: O/U 54.5 | Over 54.5 | 2.13 (47¢) | $29,708 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Cowboys vs. Packers | Packers | 2.04 (49¢) | $27,857 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 | ArielFilipino | Spread: Rams (-13.5) | Cardinals | 1.89 (53¢) | $30,846 | +$27,354 | ✅ Ganada |
 | alwaysfade | Spread: Rams (-13.5) | Rams | 2.13 (47¢) | $27,348 | -$27,348 | ❌ Perdida |
 | ferrariChampions2026 | Bears vs. Falcons: O/U 51.5 | Over 51.5 | 1.72 (58¢) | $39,986 | +$28,955 | ✅ Ganada |
-| SebastianAde1996 | Will Olympique Lyonnais win on 2026-10-18? | No | 1.92 (52¢) | $35,000 | -$35,000 | ❌ Perdida |
