@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 23:23:54 (hora de Perú)
+Actualizado: 2026-10-18 23:25:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5686**  ($314,381,727 en total)
-- Resueltas: **5659** — 3471 ganadas / 2188 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **5660** — 3472 ganadas / 2188 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 597
 
 ### Balance
 
-- **Resultado de los apostadores: +$163,024** sobre $313,258,712 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,815** sobre $558,000 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$173,712** sobre $313,287,607 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,778** sobre $558,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 397 | 216 | 4 | 65% | $38,548,255 | +$683,151 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 398 | 216 | 3 | 65% | $38,548,255 | +$693,838 |
 | Sassy-Bucket | 79 | 75 | 2 | 51% | $9,351,790 | -$683,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Lilli Tagger vs Liudmila Samsonova | Lilli Tagger | 1.37 (73¢) | $28,895 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Lilli Tagger vs Liudmila Samsonova | Lilli Tagger | 1.37 (73¢) | $28,895 | +$10,687 | ✅ Ganada |
 | milkteaboba | Cowboys vs. Packers | Packers | 1.08 (93¢) | $67,400 | +$5,073 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Packers | Packers | 1.20 (83¢) | $36,872 | +$7,552 | ✅ Ganada |
 | ethanaz | Cowboys vs. Packers: O/U 44.5 | Under 44.5 | 1.96 (51¢) | $28,901 | +$27,768 | ✅ Ganada |
