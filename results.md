@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 03:24:50 (hora de Perú)
+Actualizado: 2026-10-19 03:26:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5689**  ($314,485,208 en total)
-- Resueltas: **5661** — 3472 ganadas / 2189 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **5662** — 3473 ganadas / 2189 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 598
 
 ### Balance
 
-- **Resultado de los apostadores: +$139,449** sobre $313,321,869 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$3,878** sobre $558,200 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$206,782** sobre $313,364,918 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,722** sobre $558,300 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 398 | 216 | 4 | 65% | $38,591,303 | +$693,838 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 399 | 216 | 3 | 65% | $38,591,303 | +$761,170 |
 | Sassy-Bucket | 79 | 75 | 2 | 51% | $9,351,790 | -$683,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 598 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Almaty Open: Miomir Kecmanovic vs James Duckworth | James Duckworth | 2.56 (39¢) | $43,049 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Almaty Open: Miomir Kecmanovic vs James Duckworth | James Duckworth | 2.56 (39¢) | $43,049 | +$67,333 | ✅ Ganada |
 | rabbitfoot1 | Will AC Monza win on 2026-10-19? | Yes | 2.50 (40¢) | $26,170 | — | ⏳ Pendiente |
 | robustmst | Ningbo Open: Elise Mertens vs Leylah Fernandez | Elise Mertens | 1.64 (61¢) | $34,262 | -$34,262 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Lilli Tagger vs Liudmila Samsonova | Lilli Tagger | 1.37 (73¢) | $28,895 | +$10,687 | ✅ Ganada |
