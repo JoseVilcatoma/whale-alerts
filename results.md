@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 15:43:16 (hora de Perú)
+Actualizado: 2026-10-19 15:45:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5696**  ($314,711,528 en total)
+- Apuestas registradas: **5697**  ($314,762,149 en total)
 - Resueltas: **5668** — 3478 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 598
 
 ### Balance
@@ -56,9 +56,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ndb1 | 27 | 12 | 0 | 69% | $2,081,380 | +$511,157 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
+| Talvez10 | 22 | 18 | 1 | 55% | $1,917,490 | +$279,196 |
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
-| Talvez10 | 22 | 18 | 0 | 55% | $1,866,868 | +$279,196 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 598 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $50,621 | — | ⏳ Pendiente |
 | crisp1973 | AC Monza vs. Cagliari Calcio: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $46,000 | +$54,000 | ✅ Ganada |
 | Velin217 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.39 (72¢) | $29,781 | +$11,582 | ✅ Ganada |
 | 778908 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.45 (69¢) | $28,294 | +$12,712 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 598 en total)_
 | Electricy | Spread: Bills (-5.5) | Bills | 2.08 (48¢) | $52,166 | -$52,166 | ❌ Perdida |
 | mooseborzoii | Steelers vs. Buccaneers | Buccaneers | 2.22 (45¢) | $56,774 | -$56,774 | ❌ Perdida |
 | ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.82 (55¢) | $31,546 | +$25,810 | ✅ Ganada |
-| 0F62 | Cardinals vs. Rams | Rams | 1.15 (87¢) | $51,298 | -$51,298 | ❌ Perdida |

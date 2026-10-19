@@ -85618,5 +85618,20 @@
     "status": "won",
     "ultimo_fill": 1792426397,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11609,
+    "timestamp": 1792442617,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-cle-tb-2026-10-19-total-6pt5",
+    "title": "Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 50621.201,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792442617,
+    "fills": 1
   }
 ]
