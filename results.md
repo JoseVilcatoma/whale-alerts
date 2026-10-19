@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 23:03:21 (hora de Perú)
+Actualizado: 2026-10-18 23:05:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5686**  ($314,381,727 en total)
-- Resueltas: **5640** — 3455 ganadas / 2185 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **5642** — 3456 ganadas / 2186 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 597
 
 ### Balance
 
-- **Resultado de los apostadores: -$34,561** sobre $312,338,463 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,394** sobre $556,100 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$34,561** sobre $312,395,132 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,398** sobre $556,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,9 +36,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 21 | 0 | 59% | $5,594,771 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| mooseborzoii | 59 | 34 | 4 | 63% | $5,549,491 | +$779,992 |
+| mooseborzoii | 59 | 35 | 3 | 63% | $5,549,491 | +$752,224 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
-| ethanaz | 55 | 23 | 1 | 71% | $4,883,840 | -$143,523 |
+| ethanaz | 56 | 23 | 0 | 71% | $4,883,840 | -$115,755 |
 | BrotherObama | 44 | 49 | 3 | 47% | $4,270,413 | -$137,108 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
@@ -74,8 +74,8 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Lilli Tagger vs Liudmila Samsonova | Lilli Tagger | 1.37 (73¢) | $28,895 | — | ⏳ Pendiente |
 | milkteaboba | Cowboys vs. Packers | Packers | 1.08 (93¢) | $67,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Packers | Packers | 1.20 (83¢) | $36,872 | — | ⏳ Pendiente |
-| ethanaz | Cowboys vs. Packers: O/U 44.5 | Under 44.5 | 1.96 (51¢) | $28,901 | — | ⏳ Pendiente |
-| mooseborzoii | Cowboys vs. Packers: O/U 44.5 | Over 44.5 | 2.04 (49¢) | $27,768 | — | ⏳ Pendiente |
+| ethanaz | Cowboys vs. Packers: O/U 44.5 | Under 44.5 | 1.96 (51¢) | $28,901 | +$27,768 | ✅ Ganada |
+| mooseborzoii | Cowboys vs. Packers: O/U 44.5 | Over 44.5 | 2.04 (49¢) | $27,768 | -$27,768 | ❌ Perdida |
 | mooseborzoii | Cowboys vs. Packers | Packers | 1.15 (87¢) | $102,202 | — | ⏳ Pendiente |
 | mooseborzoii | Cowboys vs. Packers | Packers | 1.25 (80¢) | $76,941 | — | ⏳ Pendiente |
 | Hashbrown | Cowboys vs. Packers | Packers | 1.11 (90¢) | $36,000 | — | ⏳ Pendiente |
