@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 21:02:07 (hora de Perú)
+Actualizado: 2026-10-18 21:04:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5678**  ($313,976,749 en total)
+- Apuestas registradas: **5679**  ($314,012,749 en total)
 - Resueltas: **5638** — 3454 ganadas / 2184 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 597
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Hashbrown | Cowboys vs. Packers | Packers | 1.11 (90¢) | $36,000 | — | ⏳ Pendiente |
 | milkteaboba | Cowboys vs. Packers | Packers | 1.39 (72¢) | $54,201 | — | ⏳ Pendiente |
 | sulumos | Cowboys vs. Packers | Packers | 1.41 (71¢) | $59,853 | — | ⏳ Pendiente |
 | yoyoyoyoer | Cowboys vs. Packers | Packers | 1.41 (71¢) | $27,578 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 | ethanaz | Ravens vs. Browns | Ravens | 1.11 (90¢) | $32,118 | -$32,118 | ❌ Perdida |
 | Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.22 (82¢) | $113,811 | +$24,983 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.27 (79¢) | $26,058 | +$6,927 | ✅ Ganada |
-| Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $63,869 | +$104,207 | ✅ Ganada |
