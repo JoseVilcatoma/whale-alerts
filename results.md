@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 18:59:28 (hora de Perú)
+Actualizado: 2026-10-18 19:01:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5666**  ($313,432,583 en total)
-- Resueltas: **5636** — 3453 ganadas / 2183 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **5637** — 3453 ganadas / 2184 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 596
 
 ### Balance
 
-- **Resultado de los apostadores: +$77,250** sobre $312,113,214 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,306** sobre $555,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$14,250** sobre $312,204,714 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,406** sobre $555,800 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.82 (55¢) | $31,546 | +$25,810 | ✅ Ganada |
 | 0F62 | Cardinals vs. Rams | Rams | 1.15 (87¢) | $51,298 | -$51,298 | ❌ Perdida |
 | TAIWANNUMBERONE | Steelers vs. Buccaneers | Steelers | 1.30 (77¢) | $38,767 | +$11,580 | ✅ Ganada |
-| Takon88 | Will Columbus Crew win on 2026-10-18? | No | 1.64 (61¢) | $91,500 | — | ⏳ Pendiente |
+| Takon88 | Will Columbus Crew win on 2026-10-18? | No | 1.64 (61¢) | $91,500 | -$91,500 | ❌ Perdida |
 | sinasinner | Spread: Bills (-5.5) | Raiders | 1.89 (53¢) | $53,000 | +$47,000 | ✅ Ganada |
 | alwaysfade | Bills vs. Raiders | Raiders | 3.12 (32¢) | $25,600 | -$25,600 | ❌ Perdida |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Cardinals vs. Rams | Rams | 1.15 (87¢) | $53,940 | -$53,940 | ❌ Perdida |
