@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 02:33:39 (hora de Perú)
+Actualizado: 2026-10-19 02:35:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5689**  ($314,485,208 en total)
-- Resueltas: **5660** — 3472 ganadas / 2188 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **5661** — 3472 ganadas / 2189 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 598
 
 ### Balance
 
-- **Resultado de los apostadores: +$173,712** sobre $313,287,607 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,778** sobre $558,100 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$139,449** sobre $313,321,869 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$3,878** sobre $558,200 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 598 en total)_
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Almaty Open: Miomir Kecmanovic vs James Duckworth | James Duckworth | 2.56 (39¢) | $43,049 | — | ⏳ Pendiente |
 | rabbitfoot1 | Will AC Monza win on 2026-10-19? | Yes | 2.50 (40¢) | $26,170 | — | ⏳ Pendiente |
-| robustmst | Ningbo Open: Elise Mertens vs Leylah Fernandez | Elise Mertens | 1.64 (61¢) | $34,262 | — | ⏳ Pendiente |
+| robustmst | Ningbo Open: Elise Mertens vs Leylah Fernandez | Elise Mertens | 1.64 (61¢) | $34,262 | -$34,262 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Lilli Tagger vs Liudmila Samsonova | Lilli Tagger | 1.37 (73¢) | $28,895 | +$10,687 | ✅ Ganada |
 | milkteaboba | Cowboys vs. Packers | Packers | 1.08 (93¢) | $67,400 | +$5,073 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Packers | Packers | 1.20 (83¢) | $36,872 | +$7,552 | ✅ Ganada |
