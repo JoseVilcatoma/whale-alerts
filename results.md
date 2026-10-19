@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 16:16:13 (hora de Perú)
+Actualizado: 2026-10-19 16:18:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5697**  ($314,762,149 en total)
-- Resueltas: **5668** — 3478 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **5669** — 3479 ganadas / 2190 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 598
 
 ### Balance
 
-- **Resultado de los apostadores: +$336,509** sobre $313,563,884 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,338** sobre $558,900 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$348,709** sobre $313,589,807 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,291** sobre $559,000 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 598 en total)_
 | crisp1973 | AC Monza vs. Cagliari Calcio: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $46,000 | +$54,000 | ✅ Ganada |
 | Velin217 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.39 (72¢) | $29,781 | +$11,582 | ✅ Ganada |
 | 778908 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.45 (69¢) | $28,294 | +$12,712 | ✅ Ganada |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Getafe CF win on 2026-10-19? | No | 1.47 (68¢) | $25,923 | — | ⏳ Pendiente |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Getafe CF win on 2026-10-19? | No | 1.47 (68¢) | $25,923 | +$12,199 | ✅ Ganada |
 | kdvlklkvlsklkfs | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.61 (62¢) | $33,934 | -$33,934 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: fnatic vs Liquid (BO3) - 1win Private Club #2 Playoffs | fnatic | 2.33 (43¢) | $34,788 | +$46,114 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Katie Boulter vs Himeno Sakatsume | Katie Boulter | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
