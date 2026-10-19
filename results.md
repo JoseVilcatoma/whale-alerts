@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 21:12:36 (hora de Perú)
+Actualizado: 2026-10-18 21:14:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5679**  ($314,012,749 en total)
+- Apuestas registradas: **5680**  ($314,089,690 en total)
 - Resueltas: **5638** — 3454 ganadas / 2184 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 597
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 21 | 0 | 59% | $5,594,771 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| mooseborzoii | 59 | 34 | 1 | 63% | $5,342,581 | +$779,992 |
+| mooseborzoii | 59 | 34 | 2 | 63% | $5,419,522 | +$779,992 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 55 | 23 | 0 | 71% | $4,854,939 | -$143,523 |
 | BrotherObama | 44 | 49 | 3 | 47% | $4,270,413 | -$137,108 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Cowboys vs. Packers | Packers | 1.25 (80¢) | $76,941 | — | ⏳ Pendiente |
 | Hashbrown | Cowboys vs. Packers | Packers | 1.11 (90¢) | $36,000 | — | ⏳ Pendiente |
 | milkteaboba | Cowboys vs. Packers | Packers | 1.39 (72¢) | $54,201 | — | ⏳ Pendiente |
 | sulumos | Cowboys vs. Packers | Packers | 1.41 (71¢) | $59,853 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 | TAIWANNUMBERONE | Panthers vs. Eagles | Panthers | 1.37 (73¢) | $26,494 | +$9,799 | ✅ Ganada |
 | ethanaz | Ravens vs. Browns | Ravens | 1.11 (90¢) | $32,118 | -$32,118 | ❌ Perdida |
 | Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.22 (82¢) | $113,811 | +$24,983 | ✅ Ganada |
-| PEYZ-BIGGEST-FAN | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.27 (79¢) | $26,058 | +$6,927 | ✅ Ganada |
