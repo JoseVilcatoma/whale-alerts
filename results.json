@@ -85468,5 +85468,20 @@
     "status": "won",
     "ultimo_fill": 1792380076,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11589,
+    "timestamp": 1792390873,
+    "username": "robustmst",
+    "wallet": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63",
+    "slug": "wta-mertens-fernand-2026-10-18",
+    "title": "Ningbo Open: Elise Mertens vs Leylah Fernandez",
+    "outcome": "Elise Mertens",
+    "side": "BUY",
+    "usd": 34262.399999999994,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1792390873,
+    "fills": 1
   }
 ]
