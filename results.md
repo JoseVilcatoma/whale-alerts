@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 21:43:54 (hora de Perú)
+Actualizado: 2026-10-18 21:48:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5682**  ($314,219,659 en total)
-- Resueltas: **5638** — 3454 ganadas / 2184 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **5640** — 3455 ganadas / 2185 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 597
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,220** sobre $312,252,122 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,387** sobre $555,900 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$34,561** sobre $312,338,463 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,394** sobre $556,100 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -94,8 +94,8 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 | TAIWANNUMBERONE | Bills vs. Raiders | Bills | 1.23 (81¢) | $32,142 | +$7,539 | ✅ Ganada |
 | KaneAnalytics | Cardinals vs. Rams | Cardinals | 1.96 (51¢) | $35,700 | +$34,300 | ✅ Ganada |
 | ethanaz | Bills vs. Raiders | Bills | 1.47 (68¢) | $32,992 | +$15,526 | ✅ Ganada |
-| OhWhenTheReds | Will Red Bull Bragantino win on 2026-10-18? | Yes | 2.08 (48¢) | $56,701 | — | ⏳ Pendiente |
-| yabanci | Will Red Bull Bragantino win on 2026-10-18? | No | 1.92 (52¢) | $29,640 | — | ⏳ Pendiente |
+| OhWhenTheReds | Will Red Bull Bragantino win on 2026-10-18? | Yes | 2.08 (48¢) | $56,701 | -$56,701 | ❌ Perdida |
+| yabanci | Will Red Bull Bragantino win on 2026-10-18? | No | 1.92 (52¢) | $29,640 | +$27,360 | ✅ Ganada |
 | hurrican | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.09 (92¢) | $25,674 | +$2,233 | ✅ Ganada |
 | cosmicxbt | Cardinals vs. Rams | Rams | 1.33 (75¢) | $127,242 | -$127,242 | ❌ Perdida |
 | TAIWANNUMBERONE | Cardinals vs. Rams | Rams | 1.20 (83¢) | $27,275 | -$27,275 | ❌ Perdida |
