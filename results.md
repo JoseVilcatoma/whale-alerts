@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 16:51:06 (hora de Perú)
+Actualizado: 2026-10-19 16:53:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5697**  ($314,762,149 en total)
+- Apuestas registradas: **5698**  ($314,793,149 en total)
 - Resueltas: **5669** — 3479 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 6
-- Apostadores distintos: 598
+- Pendientes: 7
+- Apostadores distintos: 599
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
 | TAIWANNUMBERONE | 29 | 16 | 0 | 64% | $1,742,450 | -$166,848 |
 
-_(mostrando los 40 de mayor monto, de 598 en total)_
+_(mostrando los 40 de mayor monto, de 599 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gopfan2 | Avalanche vs. Flyers | Flyers | 3.23 (31¢) | $31,000 | — | ⏳ Pendiente |
 | Talvez10 | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $50,621 | — | ⏳ Pendiente |
 | crisp1973 | AC Monza vs. Cagliari Calcio: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $46,000 | +$54,000 | ✅ Ganada |
 | Velin217 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.39 (72¢) | $29,781 | +$11,582 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 598 en total)_
 | gmpm2 | Spread: Bills (-4.5) | Raiders | 2.04 (49¢) | $196,000 | +$204,000 | ✅ Ganada |
 | Electricy | Spread: Bills (-5.5) | Bills | 2.08 (48¢) | $52,166 | -$52,166 | ❌ Perdida |
 | mooseborzoii | Steelers vs. Buccaneers | Buccaneers | 2.22 (45¢) | $56,774 | -$56,774 | ❌ Perdida |
-| ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.82 (55¢) | $31,546 | +$25,810 | ✅ Ganada |
