@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 19:13:52 (hora de Perú)
+Actualizado: 2026-10-18 19:15:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5667**  ($313,504,519 en total)
+- Apuestas registradas: **5668**  ($313,530,519 en total)
 - Resueltas: **5637** — 3453 ganadas / 2184 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 596
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sinasinner | Spread: Cowboys (-1.5) | Packers | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Electricy | Cowboys vs. Packers: O/U 53.5 | Under 53.5 | 2.04 (49¢) | $71,935 | — | ⏳ Pendiente |
 | 0F62 | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.19 (84¢) | $47,407 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cardinals vs. Rams | Cardinals | 1.25 (80¢) | $38,435 | +$9,609 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | TAIWANNUMBERONE | Panthers vs. Eagles | Panthers | 1.43 (70¢) | $54,989 | +$23,567 | ✅ Ganada |
 | Kyn008 | Real Madrid CF vs. Sevilla FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $35,104 | -$35,104 | ❌ Perdida |
 | ferrariChampions2026 | Saints vs. Giants | Saints | 1.85 (54¢) | $30,947 | +$26,362 | ✅ Ganada |
-| milkteaboba | Titans vs. Colts | Colts | 1.06 (94¢) | $128,254 | -$128,254 | ❌ Perdida |
