@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 19:24:12 (hora de Perú)
+Actualizado: 2026-10-18 19:26:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5671**  ($313,690,084 en total)
-- Resueltas: **5637** — 3453 ganadas / 2184 perdidas (**61%** de acierto)
+- Apuestas registradas: **5672**  ($313,715,150 en total)
+- Resueltas: **5638** — 3454 ganadas / 2184 perdidas (**61%** de acierto)
 - Pendientes: 12
-- Apostadores distintos: 596
+- Apostadores distintos: 597
 
 ### Balance
 
-- **Resultado de los apostadores: -$14,250** sobre $312,204,714 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,406** sobre $555,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$5,220** sobre $312,252,122 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,387** sobre $555,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
-| 0F62 | 30 | 8 | 1 | 79% | $2,806,296 | -$390,586 |
+| 0F62 | 31 | 8 | 0 | 79% | $2,806,296 | -$381,556 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
@@ -65,18 +65,19 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
 | TAIWANNUMBERONE | 28 | 16 | 0 | 64% | $1,702,660 | -$183,101 |
 
-_(mostrando los 40 de mayor monto, de 596 en total)_
+_(mostrando los 40 de mayor monto, de 597 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Schnoodled | Cowboys vs. Packers | Packers | 2.04 (49¢) | $25,066 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cowboys vs. Packers: O/U 54.5 | Over 54.5 | 2.13 (47¢) | $29,708 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Cowboys vs. Packers | Packers | 2.04 (49¢) | $27,857 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Packers: O/U 53.5 | Over 53.5 | 1.96 (51¢) | $102,000 | — | ⏳ Pendiente |
 | sinasinner | Spread: Cowboys (-1.5) | Packers | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Electricy | Cowboys vs. Packers: O/U 53.5 | Under 53.5 | 2.04 (49¢) | $71,935 | — | ⏳ Pendiente |
-| 0F62 | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.19 (84¢) | $47,407 | — | ⏳ Pendiente |
+| 0F62 | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.19 (84¢) | $47,407 | +$9,030 | ✅ Ganada |
 | ferrariChampions2026 | Cardinals vs. Rams | Cardinals | 1.25 (80¢) | $38,435 | +$9,609 | ✅ Ganada |
 | TAIWANNUMBERONE | Bills vs. Raiders | Bills | 1.16 (86¢) | $57,575 | +$9,373 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Rams | Rams | 1.89 (53¢) | $53,530 | -$53,530 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 596 en total)_
 | alwaysfade | Spread: Rams (-13.5) | Rams | 2.13 (47¢) | $27,348 | -$27,348 | ❌ Perdida |
 | ferrariChampions2026 | Bears vs. Falcons: O/U 51.5 | Over 51.5 | 1.72 (58¢) | $39,986 | +$28,955 | ✅ Ganada |
 | SebastianAde1996 | Will Olympique Lyonnais win on 2026-10-18? | No | 1.92 (52¢) | $35,000 | -$35,000 | ❌ Perdida |
-| TAIWANNUMBERONE | Ravens vs. Browns | Ravens | 1.18 (85¢) | $46,956 | -$46,956 | ❌ Perdida |
