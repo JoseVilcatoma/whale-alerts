@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 21:52:23 (hora de Perú)
+Actualizado: 2026-10-18 21:54:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5684**  ($314,285,432 en total)
+- Apuestas registradas: **5685**  ($314,352,832 en total)
 - Resueltas: **5640** — 3455 ganadas / 2185 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 597
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Cowboys vs. Packers | Packers | 1.08 (93¢) | $67,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Packers | Packers | 1.20 (83¢) | $36,872 | — | ⏳ Pendiente |
 | ethanaz | Cowboys vs. Packers: O/U 44.5 | Under 44.5 | 1.96 (51¢) | $28,901 | — | ⏳ Pendiente |
 | mooseborzoii | Cowboys vs. Packers: O/U 44.5 | Over 44.5 | 2.04 (49¢) | $27,768 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 | KaneAnalytics | Ravens vs. Browns | Browns | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
 | IdentityV | Panthers vs. Eagles | Panthers | 1.16 (86¢) | $34,641 | +$5,639 | ✅ Ganada |
 | Anon455 | Panthers vs. Eagles | Panthers | 1.19 (84¢) | $25,200 | +$4,800 | ✅ Ganada |
-| Laskhask | Panthers vs. Eagles | Panthers | 1.30 (77¢) | $59,571 | +$17,794 | ✅ Ganada |
