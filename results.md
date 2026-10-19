@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 20:03:32 (hora de Perú)
+Actualizado: 2026-10-18 20:05:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5674**  ($313,795,327 en total)
+- Apuestas registradas: **5676**  ($313,862,695 en total)
 - Resueltas: **5638** — 3454 ganadas / 2184 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 16
 - Apostadores distintos: 597
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
 | 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
-| TAIWANNUMBERONE | 28 | 16 | 0 | 64% | $1,702,660 | -$183,101 |
+| TAIWANNUMBERONE | 28 | 16 | 1 | 64% | $1,742,450 | -$183,101 |
 
 _(mostrando los 40 de mayor monto, de 597 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yoyoyoyoer | Cowboys vs. Packers | Packers | 1.41 (71¢) | $27,578 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Cowboys vs. Packers | Packers | 1.41 (71¢) | $39,790 | — | ⏳ Pendiente |
 | takeormake | Cowboys vs. Packers | Packers | 1.49 (67¢) | $50,562 | — | ⏳ Pendiente |
 | milkteaboba | Cowboys vs. Packers | Packers | 1.89 (53¢) | $29,615 | — | ⏳ Pendiente |
 | Schnoodled | Cowboys vs. Packers | Packers | 2.04 (49¢) | $25,066 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 | Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $63,869 | +$104,207 | ✅ Ganada |
 | yoyoyoyoer | Saints vs. Giants | Saints | 1.41 (71¢) | $25,294 | +$10,332 | ✅ Ganada |
 | Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.63 (38¢) | $26,211 | +$42,765 | ✅ Ganada |
-| ArielFilipino | Spread: Rams (-13.5) | Cardinals | 1.89 (53¢) | $30,846 | +$27,354 | ✅ Ganada |
-| alwaysfade | Spread: Rams (-13.5) | Rams | 2.13 (47¢) | $27,348 | -$27,348 | ❌ Perdida |

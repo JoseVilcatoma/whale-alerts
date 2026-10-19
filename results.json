@@ -85288,5 +85288,35 @@
     "status": "pending",
     "ultimo_fill": 1792370854,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11554,
+    "timestamp": 1792371895,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-dal-gb-2026-10-19",
+    "title": "Cowboys vs. Packers",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 39790.2247,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1792371895,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11555,
+    "timestamp": 1792371924,
+    "username": "yoyoyoyoer",
+    "wallet": "0xb7fffe75ad88a55987cd8c60ad6a53640e80aa79",
+    "slug": "nfl-dal-gb-2026-10-19",
+    "title": "Cowboys vs. Packers",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 27577.7774,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1792371924,
+    "fills": 1
   }
 ]
