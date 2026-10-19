@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 23:09:35 (hora de Perú)
+Actualizado: 2026-10-18 23:11:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5686**  ($314,381,727 en total)
-- Resueltas: **5657** — 3470 ganadas / 2187 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **5659** — 3471 ganadas / 2188 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 597
 
 ### Balance
 
-- **Resultado de los apostadores: +$168,733** sobre $313,203,003 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,808** sobre $557,800 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$163,024** sobre $313,258,712 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,815** sobre $558,000 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | totoro3miyazaki | 34 | 21 | 1 | 62% | $6,664,377 | -$423,776 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| ferrariChampions2026 | 98 | 45 | 1 | 69% | $6,386,019 | +$246,026 |
+| ferrariChampions2026 | 98 | 46 | 0 | 68% | $6,386,019 | +$216,318 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 21 | 0 | 59% | $5,594,771 | +$882,551 |
@@ -86,10 +86,10 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 | takeormake | Cowboys vs. Packers | Packers | 1.49 (67¢) | $50,562 | +$24,903 | ✅ Ganada |
 | milkteaboba | Cowboys vs. Packers | Packers | 1.89 (53¢) | $29,615 | +$26,262 | ✅ Ganada |
 | Schnoodled | Cowboys vs. Packers | Packers | 2.04 (49¢) | $25,066 | +$26,089 | ✅ Ganada |
-| ferrariChampions2026 | Cowboys vs. Packers: O/U 54.5 | Over 54.5 | 2.13 (47¢) | $29,708 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cowboys vs. Packers: O/U 54.5 | Over 54.5 | 2.13 (47¢) | $29,708 | -$29,708 | ❌ Perdida |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Cowboys vs. Packers | Packers | 2.04 (49¢) | $27,857 | +$28,994 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Packers: O/U 53.5 | Over 53.5 | 1.96 (51¢) | $102,000 | -$102,000 | ❌ Perdida |
-| sinasinner | Spread: Cowboys (-1.5) | Packers | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| sinasinner | Spread: Cowboys (-1.5) | Packers | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | Electricy | Cowboys vs. Packers: O/U 53.5 | Under 53.5 | 2.04 (49¢) | $71,935 | +$74,871 | ✅ Ganada |
 | 0F62 | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.19 (84¢) | $47,407 | +$9,030 | ✅ Ganada |
 | ferrariChampions2026 | Cardinals vs. Rams | Cardinals | 1.25 (80¢) | $38,435 | +$9,609 | ✅ Ganada |
