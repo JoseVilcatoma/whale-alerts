@@ -85648,5 +85648,20 @@
     "status": "pending",
     "ultimo_fill": 1792446754,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11612,
+    "timestamp": 1792453924,
+    "username": "www511zwin",
+    "wallet": "0x93683d55f0ea67212bc179e9802f00e271c9f390",
+    "slug": "wnba-atl-gsv-2026-10-19-spread-home-2pt5",
+    "title": "Spread: Golden State Valkyries (-2.5)",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "usd": 36355.1006,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1792453924,
+    "fills": 1
   }
 ]
