@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 11:16:40 (hora de Perú)
+Actualizado: 2026-10-19 15:20:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5696**  ($314,711,528 en total)
-- Resueltas: **5662** — 3473 ganadas / 2189 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **5668** — 3478 ganadas / 2190 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 598
 
 ### Balance
 
-- **Resultado de los apostadores: +$206,782** sobre $313,364,918 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,722** sobre $558,300 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$336,509** sobre $313,563,884 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,338** sobre $558,900 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 399 | 216 | 5 | 65% | $38,653,691 | +$761,170 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 400 | 216 | 4 | 65% | $38,653,691 | +$807,284 |
 | Sassy-Bucket | 79 | 75 | 2 | 51% | $9,351,790 | -$683,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,15 +71,15 @@ _(mostrando los 40 de mayor monto, de 598 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| crisp1973 | AC Monza vs. Cagliari Calcio: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
-| Velin217 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.39 (72¢) | $29,781 | — | ⏳ Pendiente |
-| 778908 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.45 (69¢) | $28,294 | — | ⏳ Pendiente |
+| crisp1973 | AC Monza vs. Cagliari Calcio: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $46,000 | +$54,000 | ✅ Ganada |
+| Velin217 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.39 (72¢) | $29,781 | +$11,582 | ✅ Ganada |
+| 778908 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.45 (69¢) | $28,294 | +$12,712 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Getafe CF win on 2026-10-19? | No | 1.47 (68¢) | $25,923 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.61 (62¢) | $33,934 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: fnatic vs Liquid (BO3) - 1win Private Club #2 Playoffs | fnatic | 2.33 (43¢) | $34,788 | — | ⏳ Pendiente |
+| kdvlklkvlsklkfs | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.61 (62¢) | $33,934 | -$33,934 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: fnatic vs Liquid (BO3) - 1win Private Club #2 Playoffs | fnatic | 2.33 (43¢) | $34,788 | +$46,114 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Katie Boulter vs Himeno Sakatsume | Katie Boulter | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Almaty Open: Miomir Kecmanovic vs James Duckworth | James Duckworth | 2.56 (39¢) | $43,049 | +$67,333 | ✅ Ganada |
-| rabbitfoot1 | Will AC Monza win on 2026-10-19? | Yes | 2.50 (40¢) | $26,170 | — | ⏳ Pendiente |
+| rabbitfoot1 | Will AC Monza win on 2026-10-19? | Yes | 2.50 (40¢) | $26,170 | +$39,254 | ✅ Ganada |
 | robustmst | Ningbo Open: Elise Mertens vs Leylah Fernandez | Elise Mertens | 1.64 (61¢) | $34,262 | -$34,262 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Lilli Tagger vs Liudmila Samsonova | Lilli Tagger | 1.37 (73¢) | $28,895 | +$10,687 | ✅ Ganada |
 | milkteaboba | Cowboys vs. Packers | Packers | 1.08 (93¢) | $67,400 | +$5,073 | ✅ Ganada |
