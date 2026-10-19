@@ -85198,5 +85198,50 @@
     "status": "pending",
     "ultimo_fill": 1792368905,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11547,
+    "timestamp": 1792369128,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-dal-gb-2026-10-19-total-53pt5",
+    "title": "Cowboys vs. Packers: O/U 53.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 102000.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792369128,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11548,
+    "timestamp": 1792369141,
+    "username": "0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961",
+    "wallet": "0x418d51e13d019913bb027db22ecc723fe1ad88a3",
+    "slug": "nfl-dal-gb-2026-10-19",
+    "title": "Cowboys vs. Packers",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 27856.8185,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792369141,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11549,
+    "timestamp": 1792369142,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-dal-gb-2026-10-19-total-54pt5",
+    "title": "Cowboys vs. Packers: O/U 54.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 29708.3428,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1792369142,
+    "fills": 1
   }
 ]
