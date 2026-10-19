@@ -85513,5 +85513,20 @@
     "status": "won",
     "ultimo_fill": 1792393869,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11595,
+    "timestamp": 1792405932,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-boulter-sakatsu-2026-10-18",
+    "title": "Japan Women's Open: Katie Boulter vs Himeno Sakatsume",
+    "outcome": "Katie Boulter",
+    "side": "BUY",
+    "usd": 27600.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1792405932,
+    "fills": 1
   }
 ]
