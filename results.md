@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 02:07:00 (hora de Perú)
+Actualizado: 2026-10-19 02:09:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5687**  ($314,415,990 en total)
+- Apuestas registradas: **5688**  ($314,442,159 en total)
 - Resueltas: **5660** — 3472 ganadas / 2188 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 598
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 598 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| rabbitfoot1 | Will AC Monza win on 2026-10-19? | Yes | 2.50 (40¢) | $26,170 | — | ⏳ Pendiente |
 | robustmst | Ningbo Open: Elise Mertens vs Leylah Fernandez | Elise Mertens | 1.64 (61¢) | $34,262 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Lilli Tagger vs Liudmila Samsonova | Lilli Tagger | 1.37 (73¢) | $28,895 | +$10,687 | ✅ Ganada |
 | milkteaboba | Cowboys vs. Packers | Packers | 1.08 (93¢) | $67,400 | +$5,073 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 598 en total)_
 | zb8 | LoL: Karmine Corp vs MVK Esports - Game 3 Winner | Karmine Corp | 1.25 (80¢) | $36,578 | +$9,145 | ✅ Ganada |
 | sbimbg | Cardinals vs. Rams | Rams | 1.16 (86¢) | $43,000 | +$500 | 💰 Vendida antes |
 | KaneAnalytics | Titans vs. Colts | Titans | 1.43 (70¢) | $100,050 | +$42,879 | ✅ Ganada |
-| KaneAnalytics | Ravens vs. Browns | Browns | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
