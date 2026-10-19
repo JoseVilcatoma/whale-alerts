@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-18 21:35:40 (hora de Perú)
+Actualizado: 2026-10-18 21:37:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5680**  ($314,089,690 en total)
+- Apuestas registradas: **5681**  ($314,191,891 en total)
 - Resueltas: **5638** — 3454 ganadas / 2184 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 597
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 21 | 0 | 59% | $5,594,771 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| mooseborzoii | 59 | 34 | 2 | 63% | $5,419,522 | +$779,992 |
+| mooseborzoii | 59 | 34 | 3 | 63% | $5,521,723 | +$779,992 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 55 | 23 | 0 | 71% | $4,854,939 | -$143,523 |
 | BrotherObama | 44 | 49 | 3 | 47% | $4,270,413 | -$137,108 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Cowboys vs. Packers | Packers | 1.15 (87¢) | $102,202 | — | ⏳ Pendiente |
 | mooseborzoii | Cowboys vs. Packers | Packers | 1.25 (80¢) | $76,941 | — | ⏳ Pendiente |
 | Hashbrown | Cowboys vs. Packers | Packers | 1.11 (90¢) | $36,000 | — | ⏳ Pendiente |
 | milkteaboba | Cowboys vs. Packers | Packers | 1.39 (72¢) | $54,201 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 597 en total)_
 | cosmicxbt | Saints vs. Giants | Saints | 1.10 (91¢) | $99,583 | +$9,849 | ✅ Ganada |
 | TAIWANNUMBERONE | Panthers vs. Eagles | Panthers | 1.37 (73¢) | $26,494 | +$9,799 | ✅ Ganada |
 | ethanaz | Ravens vs. Browns | Ravens | 1.11 (90¢) | $32,118 | -$32,118 | ❌ Perdida |
-| Mooseborzoiii | LoL: Karmine Corp vs MVK Esports - Game 2 Winner | Karmine Corp | 1.22 (82¢) | $113,811 | +$24,983 | ✅ Ganada |
