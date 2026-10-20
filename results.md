@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 15:56:03 (hora de Perú)
+Actualizado: 2026-10-20 15:58:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5767**  ($319,815,654 en total)
+- Apuestas registradas: **5769**  ($319,873,884 en total)
 - Resueltas: **5697** — 3500 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 50
 - Apostadores distintos: 601
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | ferrariChampions2026 | 98 | 47 | 0 | 68% | $6,411,480 | +$190,856 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
-| mooseborzoii | 64 | 35 | 3 | 65% | $5,927,627 | +$848,378 |
+| mooseborzoii | 64 | 35 | 4 | 65% | $5,959,948 | +$848,378 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 21 | 1 | 59% | $5,770,414 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | Celtics vs. Pistons | Celtics | 1.35 (74¢) | $25,909 | — | ⏳ Pendiente |
+| mooseborzoii | Celtics vs. Pistons | Celtics | 1.37 (73¢) | $32,321 | — | ⏳ Pendiente |
 | mooseborzoii | Celtics vs. Pistons | Celtics | 1.61 (62¢) | $60,739 | — | ⏳ Pendiente |
 | Woaifacai | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 1.35 (74¢) | $29,488 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Pistons | Celtics | 1.12 (89¢) | $62,306 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | Velin217 | Japan Women's Open: Paula Badosa vs Antonia Ruzic | Paula Badosa | 1.14 (88¢) | $36,199 | -$36,199 | ❌ Perdida |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.39 (72¢) | $27,182 | +$10,571 | ✅ Ganada |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.47 (68¢) | $62,690 | +$29,501 | ✅ Ganada |
-| mooseborzoii | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $194,177 | +$21,575 | ✅ Ganada |
-| CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.06 (94¢) | $94,000 | +$6,000 | ✅ Ganada |
