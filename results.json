@@ -86953,5 +86953,35 @@
     "status": "pending",
     "ultimo_fill": 1792536197,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11778,
+    "timestamp": 1792537035,
+    "username": "www511zwin",
+    "wallet": "0x93683d55f0ea67212bc179e9802f00e271c9f390",
+    "slug": "nba-phi-nyk-2026-10-20-spread-home-4pt5",
+    "title": "Spread: Knicks (-4.5)",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 25188.655,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792537035,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11779,
+    "timestamp": 1792537049,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nba-phi-nyk-2026-10-20-spread-home-4pt5",
+    "title": "Spread: Knicks (-4.5)",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 32893.855,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792537049,
+    "fills": 1
   }
 ]
