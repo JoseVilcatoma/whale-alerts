@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 13:02:24 (hora de Perú)
+Actualizado: 2026-10-20 13:04:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5737**  ($318,230,286 en total)
+- Apuestas registradas: **5738**  ($318,344,156 en total)
 - Resueltas: **5694** — 3497 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 601
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | mooseborzoii | 64 | 35 | 1 | 65% | $5,833,540 | +$848,378 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
-| ripley86alien | 30 | 21 | 0 | 59% | $5,594,771 | +$882,551 |
+| ripley86alien | 30 | 21 | 1 | 59% | $5,708,640 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Lakersfan111 | 62 | 40 | 1 | 61% | $5,172,543 | +$24,894 |
 | ethanaz | 56 | 23 | 0 | 71% | $4,883,840 | -$115,755 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | Will SSC Napoli win on 2026-10-20? | Yes | 1.79 (56¢) | $113,870 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Club Atlético de Madrid win on 2026-10-20? | No | 1.82 (55¢) | $56,823 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-10-20? | Yes | 3.33 (30¢) | $202,629 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC win on 2026-10-20? | No | 1.67 (60¢) | $116,466 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | mooseborzoii | Cowboys vs. Packers | Packers | 1.15 (87¢) | $102,202 | +$15,272 | ✅ Ganada |
 | mooseborzoii | Cowboys vs. Packers | Packers | 1.25 (80¢) | $76,941 | +$19,235 | ✅ Ganada |
 | Hashbrown | Cowboys vs. Packers | Packers | 1.11 (90¢) | $36,000 | +$4,000 | ✅ Ganada |
-| milkteaboba | Cowboys vs. Packers | Packers | 1.39 (72¢) | $54,201 | +$21,078 | ✅ Ganada |
