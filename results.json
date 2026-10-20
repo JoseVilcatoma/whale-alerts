@@ -86335,7 +86335,7 @@
     "side": "BUY",
     "usd": 25543.6935,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792521143,
     "fills": 1
   },
@@ -86787,6 +86787,21 @@
     "odds_at_bet": 48,
     "status": "pending",
     "ultimo_fill": 1792533070,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11741,
+    "timestamp": 1792533619,
+    "username": "Jokerxing7",
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "slug": "nba-phi-nyk-2026-10-20-spread-home-4pt5",
+    "title": "Spread: Knicks (-4.5)",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 43781.48,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792533619,
     "fills": 1
   }
 ]

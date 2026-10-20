@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 17:00:00 (hora de Perú)
+Actualizado: 2026-10-20 17:02:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5774**  ($320,089,167 en total)
-- Resueltas: **5718** — 3506 ganadas / 2212 perdidas (**61%** de acierto)
+- Apuestas registradas: **5775**  ($320,132,948 en total)
+- Resueltas: **5719** — 3506 ganadas / 2213 perdidas (**61%** de acierto)
 - Pendientes: 34
 - Apostadores distintos: 601
 
 ### Balance
 
-- **Resultado de los apostadores: -$14,549** sobre $316,974,277 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,471** sobre $563,900 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$40,093** sobre $316,999,821 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,571** sobre $564,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 404 | 217 | 9 | 65% | $39,804,680 | +$791,270 |
 | Sassy-Bucket | 80 | 75 | 3 | 52% | $9,633,628 | -$614,270 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 87 | 1 | 52% | $7,386,771 | -$576,901 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 22 | 1 | 61% | $6,923,829 | -$579,913 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jokerxing7 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $43,781 | — | ⏳ Pendiente |
 | Sassy-Bucket | Avalanche vs. Devils | Avalanche | 2.08 (48¢) | $50,838 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Celtics vs. Pistons | Pistons | 1.16 (86¢) | $45,967 | +$7,483 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Pistons | Pistons | 1.19 (84¢) | $43,509 | +$8,287 | ✅ Ganada |
@@ -101,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | milkteaboba | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Under 4.5 | 1.75 (57¢) | $28,386 | — | ⏳ Pendiente |
 | nigiri99 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $40,426 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.27 (79¢) | $118,898 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Will FC Porto win on 2026-10-20? | Yes | 1.54 (65¢) | $25,544 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Will FC Porto win on 2026-10-20? | Yes | 1.54 (65¢) | $25,544 | -$25,544 | ❌ Perdida |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 2.44 (41¢) | $28,514 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Manchester City FC (-2.5) | AEK | 1.75 (57¢) | $28,500 | -$28,500 | ❌ Perdida |
 | HVAB | Cali: Hugo Dellien vs Juan Manuel La Serna | Juan Manuel La Serna | 1.08 (93¢) | $50,000 | +$3,763 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | kdvlklkvlsklkfs | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.64 (61¢) | $67,315 | +$43,037 | ✅ Ganada |
 | 01258787xy48487484545122 | Japan Women's Open: Katerina Siniakova vs Peyton Stearns | Katerina Siniakova | 1.11 (90¢) | $35,733 | +$3,970 | ✅ Ganada |
 | lsiflsliggjriek | Lisbon: Raul Brancaccio vs Calvin Hemery | Calvin Hemery | 3.33 (30¢) | $25,609 | -$25,609 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.43 (70¢) | $25,462 | +$10,912 | ✅ Ganada |
