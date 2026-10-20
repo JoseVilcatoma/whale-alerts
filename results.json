@@ -86428,5 +86428,20 @@
     "status": "pending",
     "ultimo_fill": 1792521964,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11694,
+    "timestamp": 1792522424,
+    "username": "Jokerxing7",
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "slug": "ucl-psg-fcb-2026-10-20-total-4pt5",
+    "title": "Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 39447.5015,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1792522424,
+    "fills": 1
   }
 ]
