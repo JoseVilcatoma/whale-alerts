@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 04:51:04 (hora de Perú)
+Actualizado: 2026-10-20 04:53:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5717**  ($316,913,705 en total)
+- Apuestas registradas: **5718**  ($316,981,020 en total)
 - Resueltas: **5686** — 3493 ganadas / 2193 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 599
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kdvlklkvlsklkfs | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.64 (61¢) | $67,315 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Japan Women's Open: Katerina Siniakova vs Peyton Stearns | Katerina Siniakova | 1.11 (90¢) | $35,733 | — | ⏳ Pendiente |
 | lsiflsliggjriek | Lisbon: Raul Brancaccio vs Calvin Hemery | Calvin Hemery | 3.33 (30¢) | $25,609 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.43 (70¢) | $25,462 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | KaneAnalytics | Cardinals vs. Rams | Cardinals | 1.96 (51¢) | $35,700 | +$34,300 | ✅ Ganada |
 | ethanaz | Bills vs. Raiders | Bills | 1.47 (68¢) | $32,992 | +$15,526 | ✅ Ganada |
 | OhWhenTheReds | Will Red Bull Bragantino win on 2026-10-18? | Yes | 2.08 (48¢) | $56,701 | -$56,701 | ❌ Perdida |
-| yabanci | Will Red Bull Bragantino win on 2026-10-18? | No | 1.92 (52¢) | $29,640 | +$27,360 | ✅ Ganada |
