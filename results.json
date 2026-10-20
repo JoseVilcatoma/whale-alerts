@@ -85900,7 +85900,7 @@
     "side": "BUY",
     "usd": 35733.339,
     "odds_at_bet": 90,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792489350,
     "fills": 1
   },
@@ -85948,5 +85948,20 @@
     "status": "pending",
     "ultimo_fill": 1792489939,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 11652,
+    "timestamp": 1792492987,
+    "username": "acorp",
+    "wallet": "0x99e42eb9038705165b22f821e27659c1dc41e4c4",
+    "slug": "ucl-rom-sba-2026-10-20-draw",
+    "title": "Will AS Roma vs. \u0160K Slovan Bratislava end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 34732.8,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1792492987,
+    "fills": 1
   }
 ]

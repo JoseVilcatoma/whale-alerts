@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 05:42:33 (hora de Perú)
+Actualizado: 2026-10-20 05:44:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5718**  ($316,981,020 en total)
-- Resueltas: **5686** — 3493 ganadas / 2193 perdidas (**61%** de acierto)
+- Apuestas registradas: **5719**  ($317,015,753 en total)
+- Resueltas: **5687** — 3494 ganadas / 2193 perdidas (**61%** de acierto)
 - Pendientes: 10
 - Apostadores distintos: 599
 
 ### Balance
 
-- **Resultado de los apostadores: +$619,639** sobre $315,268,577 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,055** sobre $560,700 (ROI **-0.5%**)
+- **Resultado de los apostadores: +$623,609** sobre $315,304,310 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,043** sobre $560,800 (ROI **-0.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,8 +71,9 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| acorp | Will AS Roma vs. ŠK Slovan Bratislava end in a draw? | No | 1.11 (90¢) | $34,733 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.64 (61¢) | $67,315 | — | ⏳ Pendiente |
-| 01258787xy48487484545122 | Japan Women's Open: Katerina Siniakova vs Peyton Stearns | Katerina Siniakova | 1.11 (90¢) | $35,733 | — | ⏳ Pendiente |
+| 01258787xy48487484545122 | Japan Women's Open: Katerina Siniakova vs Peyton Stearns | Katerina Siniakova | 1.11 (90¢) | $35,733 | +$3,970 | ✅ Ganada |
 | lsiflsliggjriek | Lisbon: Raul Brancaccio vs Calvin Hemery | Calvin Hemery | 3.33 (30¢) | $25,609 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.43 (70¢) | $25,462 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: Betclic Apogee Esports vs Team Nemesis (BO3) - PGL Bucharest Closed Qualifier Playoffs | Team Nemesis | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | TAIWANNUMBERONE | Bills vs. Raiders | Bills | 1.23 (81¢) | $32,142 | +$7,539 | ✅ Ganada |
 | KaneAnalytics | Cardinals vs. Rams | Cardinals | 1.96 (51¢) | $35,700 | +$34,300 | ✅ Ganada |
 | ethanaz | Bills vs. Raiders | Bills | 1.47 (68¢) | $32,992 | +$15,526 | ✅ Ganada |
-| OhWhenTheReds | Will Red Bull Bragantino win on 2026-10-18? | Yes | 2.08 (48¢) | $56,701 | -$56,701 | ❌ Perdida |
