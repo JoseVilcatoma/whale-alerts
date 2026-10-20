@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 15:08:11 (hora de Perú)
+Actualizado: 2026-10-20 15:10:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5761**  ($319,521,667 en total)
+- Apuestas registradas: **5762**  ($319,555,015 en total)
 - Resueltas: **5697** — 3500 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 601
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | ferrariChampions2026 | 98 | 47 | 0 | 68% | $6,411,480 | +$190,856 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
-| mooseborzoii | 64 | 35 | 1 | 65% | $5,833,540 | +$848,378 |
+| mooseborzoii | 64 | 35 | 2 | 65% | $5,866,888 | +$848,378 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 21 | 1 | 59% | $5,770,414 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Celtics vs. Pistons | Celtics | 1.23 (81¢) | $33,348 | — | ⏳ Pendiente |
 | Anon455 | Will FC Barcelona win on 2026-10-20? | No | 1.30 (77¢) | $30,800 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | UpTheBlues | Will FC Barcelona win on 2026-10-20? | No | 1.27 (79¢) | $25,952 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $153,700 | +$17,078 | ✅ Ganada |
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.14 (88¢) | $263,339 | +$35,910 | ✅ Ganada |
 | 0F62 | Commanders vs. 49ers | 49ers | 1.15 (87¢) | $153,008 | +$22,863 | ✅ Ganada |
-| TAIWANNUMBERONE | Commanders vs. 49ers | 49ers | 1.25 (80¢) | $48,290 | +$12,072 | ✅ Ganada |
