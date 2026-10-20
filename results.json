@@ -85813,5 +85813,20 @@
     "status": "pending",
     "ultimo_fill": 1792465093,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 11627,
+    "timestamp": 1792464239,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-was-sf-2026-10-20",
+    "title": "Commanders vs. 49ers",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 194176.69376,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1792464239,
+    "fills": 1
   }
 ]
