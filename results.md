@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 06:09:22 (hora de Perú)
+Actualizado: 2026-10-20 06:11:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5719**  ($317,015,753 en total)
-- Resueltas: **5687** — 3494 ganadas / 2193 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **5690** — 3496 ganadas / 2194 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 599
 
 ### Balance
 
-- **Resultado de los apostadores: +$623,609** sobre $315,304,310 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,043** sobre $560,800 (ROI **-0.5%**)
+- **Resultado de los apostadores: +$651,950** sobre $315,422,696 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,037** sobre $561,100 (ROI **-0.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 401 | 216 | 5 | 65% | $39,113,657 | +$809,684 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 402 | 216 | 4 | 65% | $39,113,657 | +$820,597 |
 | Sassy-Bucket | 80 | 75 | 2 | 52% | $9,582,790 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -72,10 +72,10 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | acorp | Will AS Roma vs. ŠK Slovan Bratislava end in a draw? | No | 1.11 (90¢) | $34,733 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.64 (61¢) | $67,315 | — | ⏳ Pendiente |
+| kdvlklkvlsklkfs | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.64 (61¢) | $67,315 | +$43,037 | ✅ Ganada |
 | 01258787xy48487484545122 | Japan Women's Open: Katerina Siniakova vs Peyton Stearns | Katerina Siniakova | 1.11 (90¢) | $35,733 | +$3,970 | ✅ Ganada |
-| lsiflsliggjriek | Lisbon: Raul Brancaccio vs Calvin Hemery | Calvin Hemery | 3.33 (30¢) | $25,609 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.43 (70¢) | $25,462 | — | ⏳ Pendiente |
+| lsiflsliggjriek | Lisbon: Raul Brancaccio vs Calvin Hemery | Calvin Hemery | 3.33 (30¢) | $25,609 | -$25,609 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.43 (70¢) | $25,462 | +$10,912 | ✅ Ganada |
 | Wiretransferxyz | Counter-Strike: Betclic Apogee Esports vs Team Nemesis (BO3) - PGL Bucharest Closed Qualifier Playoffs | Team Nemesis | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $434,503 | — | ⏳ Pendiente |
 | Velin217 | Japan Women's Open: Paula Badosa vs Antonia Ruzic | Paula Badosa | 1.14 (88¢) | $36,199 | -$36,199 | ❌ Perdida |
