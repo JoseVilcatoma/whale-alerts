@@ -86803,5 +86803,35 @@
     "status": "pending",
     "ultimo_fill": 1792533619,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11743,
+    "timestamp": 1792533758,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "nba-phi-nyk-2026-10-20",
+    "title": "76ers vs. Knicks",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 31000.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1792533758,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11744,
+    "timestamp": 1792533779,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "cfb-msrst-del-2026-10-20",
+    "title": "Missouri State vs. Delaware",
+    "outcome": "Delaware",
+    "side": "BUY",
+    "usd": 28107.3109,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1792533779,
+    "fills": 1
   }
 ]
