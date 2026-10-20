@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 01:44:07 (hora de Perú)
+Actualizado: 2026-10-20 01:46:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5712**  ($316,362,698 en total)
+- Apuestas registradas: **5713**  ($316,797,201 en total)
 - Resueltas: **5685** — 3493 ganadas / 2192 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 599
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 401 | 216 | 3 | 65% | $38,653,691 | +$809,684 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 401 | 216 | 4 | 65% | $39,088,195 | +$809,684 |
 | Sassy-Bucket | 80 | 75 | 2 | 52% | $9,582,790 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $434,503 | — | ⏳ Pendiente |
 | Velin217 | Japan Women's Open: Paula Badosa vs Antonia Ruzic | Paula Badosa | 1.14 (88¢) | $36,199 | — | ⏳ Pendiente |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.39 (72¢) | $27,182 | +$10,571 | ✅ Ganada |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.47 (68¢) | $62,690 | +$29,501 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | cosmicxbt | Cardinals vs. Rams | Rams | 1.33 (75¢) | $127,242 | -$127,242 | ❌ Perdida |
 | TAIWANNUMBERONE | Cardinals vs. Rams | Rams | 1.20 (83¢) | $27,275 | -$27,275 | ❌ Perdida |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $50,907 | -$50,907 | ❌ Perdida |
-| BrotherObama | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $37,000 | — | ⏳ Pendiente |
