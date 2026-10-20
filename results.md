@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 09:40:39 (hora de Perú)
+Actualizado: 2026-10-20 09:42:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5724**  ($317,239,891 en total)
+- Apuestas registradas: **5725**  ($317,489,548 en total)
 - Resueltas: **5691** — 3496 ganadas / 2195 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 600
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 402 | 216 | 4 | 65% | $39,113,657 | +$820,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 402 | 216 | 5 | 65% | $39,363,314 | +$820,597 |
 | Sassy-Bucket | 80 | 75 | 2 | 52% | $9,582,790 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 600 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC vs. AEK end in a draw? | No | 1.10 (91¢) | $249,657 | — | ⏳ Pendiente |
 | QVanguard | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.25 (80¢) | $116,329 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: TheMongolz vs BIG (BO3) - 1win Private Club Playoffs | TheMongolz | 1.89 (53¢) | $26,462 | — | ⏳ Pendiente |
 | Kkunn | Ningbo Open: Katarzyna Kawa vs Daria Snigur | Katarzyna Kawa | 2.78 (36¢) | $28,603 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 600 en total)_
 | sinasinner | Spread: Cowboys (-1.5) | Packers | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | Electricy | Cowboys vs. Packers: O/U 53.5 | Under 53.5 | 2.04 (49¢) | $71,935 | +$74,871 | ✅ Ganada |
 | 0F62 | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.19 (84¢) | $47,407 | +$9,030 | ✅ Ganada |
-| ferrariChampions2026 | Cardinals vs. Rams | Cardinals | 1.25 (80¢) | $38,435 | +$9,609 | ✅ Ganada |

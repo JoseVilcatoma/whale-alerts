@@ -86038,5 +86038,20 @@
     "status": "pending",
     "ultimo_fill": 1792505749,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 11663,
+    "timestamp": 1792507356,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ucl-mnc-aek1-2026-10-20-draw",
+    "title": "Will Manchester City FC vs. AEK end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 249657.26037799998,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1792507356,
+    "fills": 1
   }
 ]
