@@ -86023,5 +86023,20 @@
     "status": "pending",
     "ultimo_fill": 1792504629,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11660,
+    "timestamp": 1792505747,
+    "username": "QVanguard",
+    "wallet": "0xdc60e778a26e1618730b7c7e271bfec4720795df",
+    "slug": "ucl-psg-fcb-2026-10-20-draw",
+    "title": "Will Paris Saint-Germain FC vs. FC Barcelona end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 116328.839999,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1792505749,
+    "fills": 3
   }
 ]
