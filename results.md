@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 20:02:34 (hora de Perú)
+Actualizado: 2026-10-19 20:04:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5705**  ($315,704,303 en total)
+- Apuestas registradas: **5706**  ($315,913,453 en total)
 - Resueltas: **5669** — 3479 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 599
 
 ### Balance
@@ -55,13 +55,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ndb1 | 27 | 12 | 0 | 69% | $2,081,380 | +$511,157 |
+| milkteaboba | 7 | 9 | 3 | 44% | $2,020,888 | -$859,667 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Talvez10 | 22 | 18 | 1 | 55% | $1,917,490 | +$279,196 |
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| milkteaboba | 7 | 9 | 2 | 44% | $1,811,738 | -$859,667 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
 | TAIWANNUMBERONE | 29 | 16 | 1 | 64% | $1,790,740 | -$166,848 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Commanders vs. 49ers | 49ers | 1.12 (89¢) | $209,150 | — | ⏳ Pendiente |
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $153,700 | — | ⏳ Pendiente |
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.14 (88¢) | $263,339 | — | ⏳ Pendiente |
 | 0F62 | Commanders vs. 49ers | 49ers | 1.15 (87¢) | $153,008 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | 0F62 | Chargers vs. Chiefs | Chiefs | 1.20 (83¢) | $56,322 | +$11,536 | ✅ Ganada |
 | Jittz | Bills vs. Raiders | Bills | 1.61 (62¢) | $25,575 | +$15,675 | ✅ Ganada |
 | ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.20 (83¢) | $29,265 | +$5,994 | ✅ Ganada |
-| cosmicxbt | Steelers vs. Buccaneers | Steelers | 1.14 (88¢) | $114,375 | +$15,597 | ✅ Ganada |
