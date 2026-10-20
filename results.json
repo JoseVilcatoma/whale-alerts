@@ -85693,5 +85693,20 @@
     "status": "pending",
     "ultimo_fill": 1792455304,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11615,
+    "timestamp": 1792456049,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-was-sf-2026-10-20",
+    "title": "Commanders vs. 49ers",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 48289.736000000004,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1792456049,
+    "fills": 1
   }
 ]

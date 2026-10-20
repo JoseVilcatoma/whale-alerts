@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 19:27:27 (hora de Perú)
+Actualizado: 2026-10-19 19:29:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5701**  ($315,085,965 en total)
+- Apuestas registradas: **5702**  ($315,134,255 en total)
 - Resueltas: **5669** — 3479 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 599
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
+| TAIWANNUMBERONE | 29 | 16 | 1 | 64% | $1,790,740 | -$166,848 |
 | 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
-| TAIWANNUMBERONE | 29 | 16 | 0 | 64% | $1,742,450 | -$166,848 |
 
 _(mostrando los 40 de mayor monto, de 599 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Commanders vs. 49ers | 49ers | 1.25 (80¢) | $48,290 | — | ⏳ Pendiente |
 | Sassy-Bucket | Commanders vs. 49ers | 49ers | 1.30 (77¢) | $231,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Commanders vs. 49ers: O/U 52.5 | Over 52.5 | 2.17 (46¢) | $25,461 | — | ⏳ Pendiente |
 | www511zwin | Spread: Golden State Valkyries (-2.5) | Golden State Valkyries | 2.08 (48¢) | $36,355 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $208,939 | -$208,939 | ❌ Perdida |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.19 (84¢) | $29,620 | -$29,620 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Raiders | Bills | 1.47 (68¢) | $34,000 | +$16,000 | ✅ Ganada |
-| milkteaboba | Cardinals vs. Rams | Rams | 1.19 (84¢) | $234,601 | -$234,601 | ❌ Perdida |
