@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 13:08:45 (hora de Perú)
+Actualizado: 2026-10-20 13:10:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5739**  ($318,442,700 en total)
-- Resueltas: **5694** — 3497 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **5695** — 3498 ganadas / 2197 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 601
 
 ### Balance
 
-- **Resultado de los apostadores: +$620,484** sobre $315,533,615 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,159** sobre $561,500 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$634,267** sobre $315,618,285 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,143** sobre $561,600 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | jonjones1993 | Will SSC Napoli win on 2026-10-20? | No | 2.22 (45¢) | $54,000 | — | ⏳ Pendiente |
 | sbsigner | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $25,103 | — | ⏳ Pendiente |
 | alwaysfade | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $29,189 | — | ⏳ Pendiente |
-| 778908 | European Open: Toby Samuel vs Zizou Bergs | Zizou Bergs | 1.16 (86¢) | $84,670 | — | ⏳ Pendiente |
+| 778908 | European Open: Toby Samuel vs Zizou Bergs | Zizou Bergs | 1.16 (86¢) | $84,670 | +$13,783 | ✅ Ganada |
 | Jsram | Manchester City FC vs. AEK: O/U 4.5 | Under 4.5 | 1.56 (64¢) | $27,450 | — | ⏳ Pendiente |
 | YYYYY999 | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $38,953 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.28 (78¢) | $35,455 | — | ⏳ Pendiente |
