@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 09:18:30 (hora de Perú)
+Actualizado: 2026-10-20 09:20:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5724**  ($317,239,891 en total)
-- Resueltas: **5690** — 3496 ganadas / 2194 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **5691** — 3496 ganadas / 2195 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 600
 
 ### Balance
 
-- **Resultado de los apostadores: +$651,950** sobre $315,422,696 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,037** sobre $561,100 (ROI **-0.5%**)
+- **Resultado de los apostadores: +$625,796** sobre $315,448,850 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,137** sobre $561,200 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 600 en total)_
 | QVanguard | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.25 (80¢) | $116,329 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: TheMongolz vs BIG (BO3) - 1win Private Club Playoffs | TheMongolz | 1.89 (53¢) | $26,462 | — | ⏳ Pendiente |
 | Kkunn | Ningbo Open: Katarzyna Kawa vs Daria Snigur | Katarzyna Kawa | 2.78 (36¢) | $28,603 | — | ⏳ Pendiente |
-| Kkunn | Lyon Open: Arthur Fery vs Borna Gojo | Arthur Fery | 2.94 (34¢) | $26,154 | — | ⏳ Pendiente |
+| Kkunn | Lyon Open: Arthur Fery vs Borna Gojo | Arthur Fery | 2.94 (34¢) | $26,154 | -$26,154 | ❌ Perdida |
 | Ksi172 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $26,590 | — | ⏳ Pendiente |
 | acorp | Will AS Roma vs. ŠK Slovan Bratislava end in a draw? | No | 1.11 (90¢) | $34,733 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.64 (61¢) | $67,315 | +$43,037 | ✅ Ganada |
