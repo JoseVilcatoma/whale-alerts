@@ -86170,7 +86170,7 @@
     "side": "BUY",
     "usd": 54000.0,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792518761,
     "fills": 1
   },
@@ -86185,7 +86185,7 @@
     "side": "BUY",
     "usd": 29999.9994,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792519087,
     "fills": 1
   },
@@ -86245,7 +86245,7 @@
     "side": "BUY",
     "usd": 175643.443,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792519581,
     "fills": 4
   },
@@ -86260,7 +86260,7 @@
     "side": "BUY",
     "usd": 36770.576,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792519501,
     "fills": 1
   },
@@ -86545,7 +86545,7 @@
     "side": "BUY",
     "usd": 125566.0896,
     "odds_at_bet": 92,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792523203,
     "fills": 1
   },
@@ -86847,6 +86847,36 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1792533952,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11746,
+    "timestamp": 1792534045,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nhl-col-nj-2026-10-20",
+    "title": "Avalanche vs. Devils",
+    "outcome": "Avalanche",
+    "side": "BUY",
+    "usd": 106732.92439999999,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792534045,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 11747,
+    "timestamp": 1792534078,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nhl-col-nj-2026-10-20",
+    "title": "Avalanche vs. Devils",
+    "outcome": "Devils",
+    "side": "BUY",
+    "usd": 50945.123999999996,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792534078,
     "fills": 1
   }
 ]
