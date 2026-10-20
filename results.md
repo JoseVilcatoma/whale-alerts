@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 21:59:00 (hora de Perú)
+Actualizado: 2026-10-19 22:01:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5709**  ($316,105,140 en total)
-- Resueltas: **5670** — 3480 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **5672** — 3481 ganadas / 2191 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 599
 
 ### Balance
 
-- **Resultado de los apostadores: +$417,709** sobre $313,620,807 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,069** sobre $559,100 (ROI **-0.5%**)
+- **Resultado de los apostadores: +$387,353** sobre $313,751,162 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,162** sobre $559,300 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.47 (68¢) | $62,690 | — | ⏳ Pendiente |
-| CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.06 (94¢) | $94,000 | — | ⏳ Pendiente |
+| CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.06 (94¢) | $94,000 | +$6,000 | ✅ Ganada |
 | 0F62 | Commanders vs. 49ers | 49ers | 1.06 (94¢) | $34,998 | — | ⏳ Pendiente |
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.12 (89¢) | $209,150 | — | ⏳ Pendiente |
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $153,700 | — | ⏳ Pendiente |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | TAIWANNUMBERONE | Commanders vs. 49ers | 49ers | 1.25 (80¢) | $48,290 | — | ⏳ Pendiente |
 | Sassy-Bucket | Commanders vs. 49ers | 49ers | 1.30 (77¢) | $231,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Commanders vs. 49ers: O/U 52.5 | Over 52.5 | 2.17 (46¢) | $25,461 | — | ⏳ Pendiente |
-| www511zwin | Spread: Golden State Valkyries (-2.5) | Golden State Valkyries | 2.08 (48¢) | $36,355 | — | ⏳ Pendiente |
+| www511zwin | Spread: Golden State Valkyries (-2.5) | Golden State Valkyries | 2.08 (48¢) | $36,355 | -$36,355 | ❌ Perdida |
 | gopfan2 | Avalanche vs. Flyers | Flyers | 3.23 (31¢) | $31,000 | +$69,000 | ✅ Ganada |
 | Talvez10 | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $50,621 | — | ⏳ Pendiente |
 | crisp1973 | AC Monza vs. Cagliari Calcio: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $46,000 | +$54,000 | ✅ Ganada |
