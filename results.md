@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 16:53:32 (hora de Perú)
+Actualizado: 2026-10-20 16:55:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5774**  ($320,089,167 en total)
-- Resueltas: **5700** — 3502 ganadas / 2198 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Resueltas: **5706** — 3504 ganadas / 2202 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 601
 
 ### Balance
 
-- **Resultado de los apostadores: +$629,239** sobre $315,847,579 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,198** sobre $562,100 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$352,293** sobre $316,502,189 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,506** sobre $562,700 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 402 | 216 | 12 | 65% | $39,804,680 | +$820,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 403 | 216 | 11 | 65% | $39,804,680 | +$845,288 |
 | Sassy-Bucket | 80 | 75 | 3 | 52% | $9,633,628 | -$614,270 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 2 | 52% | $7,386,771 | -$548,401 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 87 | 1 | 52% | $7,386,771 | -$576,901 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| totoro3miyazaki | 34 | 21 | 3 | 62% | $6,923,829 | -$423,776 |
+| totoro3miyazaki | 35 | 22 | 1 | 61% | $6,923,829 | -$579,913 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | ferrariChampions2026 | 98 | 47 | 0 | 68% | $6,411,480 | +$190,856 |
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | Jokerxing7 | Will FC Barcelona win on 2026-10-20? | Yes | 2.56 (39¢) | $108,333 | — | ⏳ Pendiente |
 | Jokerxing7 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $39,448 | — | ⏳ Pendiente |
 | BrotherObama | Wild vs. Oilers: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $26,000 | — | ⏳ Pendiente |
-| SebastianAde1996 | Will Club Atlético de Madrid win on 2026-10-20? | Yes | 2.22 (45¢) | $77,000 | — | ⏳ Pendiente |
+| SebastianAde1996 | Will Club Atlético de Madrid win on 2026-10-20? | Yes | 2.22 (45¢) | $77,000 | -$77,000 | ❌ Perdida |
 | www511zwin | Spread: Celtics (-1.5) | Celtics | 1.96 (51¢) | $40,914 | — | ⏳ Pendiente |
 | n0tTODAY | Will Paris Saint-Germain FC win on 2026-10-20? | No | 1.69 (59¢) | $28,587 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 2.44 (41¢) | $54,919 | — | ⏳ Pendiente |
@@ -103,13 +103,13 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.27 (79¢) | $118,898 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Will FC Porto win on 2026-10-20? | Yes | 1.54 (65¢) | $25,544 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 2.44 (41¢) | $28,514 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Manchester City FC (-2.5) | AEK | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Manchester City FC (-2.5) | AEK | 1.75 (57¢) | $28,500 | -$28,500 | ❌ Perdida |
 | HVAB | Cali: Hugo Dellien vs Juan Manuel La Serna | Juan Manuel La Serna | 1.08 (93¢) | $50,000 | +$3,763 | ✅ Ganada |
 | tenniz | Cali: Hugo Dellien vs Juan Manuel La Serna | Juan Manuel La Serna | 1.12 (89¢) | $91,719 | +$11,336 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FK Bodø/Glimt win on 2026-10-20? | No | 1.25 (80¢) | $36,771 | — | ⏳ Pendiente |
 | ripley86alien | Will SSC Napoli win on 2026-10-20? | Yes | 1.79 (56¢) | $175,643 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Club Atlético de Madrid win on 2026-10-20? | No | 1.82 (55¢) | $56,823 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will VfB Stuttgart win on 2026-10-20? | Yes | 3.33 (30¢) | $202,629 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Club Atlético de Madrid win on 2026-10-20? | No | 1.82 (55¢) | $56,823 | +$46,492 | ✅ Ganada |
+| totoro3miyazaki | Will VfB Stuttgart win on 2026-10-20? | Yes | 3.33 (30¢) | $202,629 | -$202,629 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC win on 2026-10-20? | No | 1.67 (60¢) | $116,466 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will SSC Napoli win on 2026-10-20? | No | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | jonjones1993 | Will SSC Napoli win on 2026-10-20? | No | 2.22 (45¢) | $54,000 | — | ⏳ Pendiente |
@@ -119,8 +119,8 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | Jsram | Manchester City FC vs. AEK: O/U 4.5 | Under 4.5 | 1.56 (64¢) | $27,450 | -$27,450 | ❌ Perdida |
 | YYYYY999 | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $38,953 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.28 (78¢) | $35,455 | — | ⏳ Pendiente |
-| 0x248e…0b3b | Will Club Atlético de Madrid win on 2026-10-20? | Yes | 2.08 (48¢) | $40,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC vs. AEK end in a draw? | No | 1.10 (91¢) | $249,657 | — | ⏳ Pendiente |
+| 0x248e…0b3b | Will Club Atlético de Madrid win on 2026-10-20? | Yes | 2.08 (48¢) | $40,000 | -$40,000 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC vs. AEK end in a draw? | No | 1.10 (91¢) | $249,657 | +$24,691 | ✅ Ganada |
 | QVanguard | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.25 (80¢) | $116,329 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: TheMongolz vs BIG (BO3) - 1win Private Club Playoffs | TheMongolz | 1.89 (53¢) | $26,462 | -$26,462 | ❌ Perdida |
 | Kkunn | Ningbo Open: Katarzyna Kawa vs Daria Snigur | Katarzyna Kawa | 2.78 (36¢) | $28,603 | +$50,850 | ✅ Ganada |
