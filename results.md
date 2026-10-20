@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 22:27:44 (hora de Perú)
+Actualizado: 2026-10-19 22:29:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5711**  ($316,326,499 en total)
-- Resueltas: **5672** — 3481 ganadas / 2191 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **5673** — 3482 ganadas / 2191 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 599
 
 ### Balance
 
-- **Resultado de los apostadores: +$387,353** sobre $313,751,162 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,162** sobre $559,300 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$432,244** sobre $313,801,784 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,074** sobre $559,400 (ROI **-0.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 27 | 12 | 0 | 69% | $2,081,380 | +$511,157 |
 | milkteaboba | 7 | 9 | 3 | 44% | $2,020,888 | -$859,667 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
-| Talvez10 | 22 | 18 | 1 | 55% | $1,917,490 | +$279,196 |
+| Talvez10 | 23 | 18 | 0 | 56% | $1,917,490 | +$324,087 |
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | ferrariChampions2026 | Commanders vs. 49ers: O/U 52.5 | Over 52.5 | 2.17 (46¢) | $25,461 | — | ⏳ Pendiente |
 | www511zwin | Spread: Golden State Valkyries (-2.5) | Golden State Valkyries | 2.08 (48¢) | $36,355 | -$36,355 | ❌ Perdida |
 | gopfan2 | Avalanche vs. Flyers | Flyers | 3.23 (31¢) | $31,000 | +$69,000 | ✅ Ganada |
-| Talvez10 | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $50,621 | — | ⏳ Pendiente |
+| Talvez10 | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $50,621 | +$44,890 | ✅ Ganada |
 | crisp1973 | AC Monza vs. Cagliari Calcio: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $46,000 | +$54,000 | ✅ Ganada |
 | Velin217 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.39 (72¢) | $29,781 | +$11,582 | ✅ Ganada |
 | 778908 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.45 (69¢) | $28,294 | +$12,712 | ✅ Ganada |
