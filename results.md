@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 22:44:01 (hora de Perú)
+Actualizado: 2026-10-19 22:46:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5711**  ($316,326,499 en total)
-- Resueltas: **5673** — 3482 ganadas / 2191 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **5684** — 3492 ganadas / 2192 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 599
 
 ### Balance
 
-- **Resultado de los apostadores: +$432,244** sobre $313,801,784 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,074** sobre $559,400 (ROI **-0.5%**)
+- **Resultado de los apostadores: +$653,437** sobre $315,204,779 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$2,963** sobre $560,500 (ROI **-0.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,15 +25,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 400 | 216 | 4 | 65% | $38,653,691 | +$807,284 |
-| Sassy-Bucket | 79 | 75 | 3 | 51% | $9,582,790 | -$683,270 |
+| Sassy-Bucket | 80 | 75 | 2 | 52% | $9,582,790 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | totoro3miyazaki | 34 | 21 | 1 | 62% | $6,664,377 | -$423,776 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| ferrariChampions2026 | 98 | 46 | 1 | 68% | $6,411,480 | +$216,318 |
+| ferrariChampions2026 | 98 | 47 | 0 | 68% | $6,411,480 | +$190,856 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
-| mooseborzoii | 61 | 35 | 4 | 64% | $5,833,540 | +$786,731 |
+| mooseborzoii | 64 | 35 | 1 | 65% | $5,833,540 | +$848,378 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 21 | 0 | 59% | $5,594,771 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
-| 0F62 | 31 | 8 | 2 | 79% | $2,994,303 | -$381,556 |
+| 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ndb1 | 27 | 12 | 0 | 69% | $2,081,380 | +$511,157 |
-| milkteaboba | 7 | 9 | 3 | 44% | $2,020,888 | -$859,667 |
+| milkteaboba | 10 | 9 | 0 | 53% | $2,020,888 | -$780,830 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Talvez10 | 23 | 18 | 0 | 56% | $1,917,490 | +$324,087 |
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
-| TAIWANNUMBERONE | 29 | 16 | 1 | 64% | $1,790,740 | -$166,848 |
+| TAIWANNUMBERONE | 30 | 16 | 0 | 65% | $1,790,740 | -$154,776 |
 
 _(mostrando los 40 de mayor monto, de 599 en total)_
 
@@ -71,18 +71,18 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| mooseborzoii | Commanders vs. 49ers | 49ers | 1.39 (72¢) | $27,182 | — | ⏳ Pendiente |
-| mooseborzoii | Commanders vs. 49ers | 49ers | 1.47 (68¢) | $62,690 | — | ⏳ Pendiente |
-| mooseborzoii | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $194,177 | — | ⏳ Pendiente |
+| mooseborzoii | Commanders vs. 49ers | 49ers | 1.39 (72¢) | $27,182 | +$10,571 | ✅ Ganada |
+| mooseborzoii | Commanders vs. 49ers | 49ers | 1.47 (68¢) | $62,690 | +$29,501 | ✅ Ganada |
+| mooseborzoii | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $194,177 | +$21,575 | ✅ Ganada |
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.06 (94¢) | $94,000 | +$6,000 | ✅ Ganada |
-| 0F62 | Commanders vs. 49ers | 49ers | 1.06 (94¢) | $34,998 | — | ⏳ Pendiente |
-| milkteaboba | Commanders vs. 49ers | 49ers | 1.12 (89¢) | $209,150 | — | ⏳ Pendiente |
-| milkteaboba | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $153,700 | — | ⏳ Pendiente |
-| milkteaboba | Commanders vs. 49ers | 49ers | 1.14 (88¢) | $263,339 | — | ⏳ Pendiente |
-| 0F62 | Commanders vs. 49ers | 49ers | 1.15 (87¢) | $153,008 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Commanders vs. 49ers | 49ers | 1.25 (80¢) | $48,290 | — | ⏳ Pendiente |
-| Sassy-Bucket | Commanders vs. 49ers | 49ers | 1.30 (77¢) | $231,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Commanders vs. 49ers: O/U 52.5 | Over 52.5 | 2.17 (46¢) | $25,461 | — | ⏳ Pendiente |
+| 0F62 | Commanders vs. 49ers | 49ers | 1.06 (94¢) | $34,998 | +$2,234 | ✅ Ganada |
+| milkteaboba | Commanders vs. 49ers | 49ers | 1.12 (89¢) | $209,150 | +$25,850 | ✅ Ganada |
+| milkteaboba | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $153,700 | +$17,078 | ✅ Ganada |
+| milkteaboba | Commanders vs. 49ers | 49ers | 1.14 (88¢) | $263,339 | +$35,910 | ✅ Ganada |
+| 0F62 | Commanders vs. 49ers | 49ers | 1.15 (87¢) | $153,008 | +$22,863 | ✅ Ganada |
+| TAIWANNUMBERONE | Commanders vs. 49ers | 49ers | 1.25 (80¢) | $48,290 | +$12,072 | ✅ Ganada |
+| Sassy-Bucket | Commanders vs. 49ers | 49ers | 1.30 (77¢) | $231,000 | +$69,000 | ✅ Ganada |
+| ferrariChampions2026 | Commanders vs. 49ers: O/U 52.5 | Over 52.5 | 2.17 (46¢) | $25,461 | -$25,461 | ❌ Perdida |
 | www511zwin | Spread: Golden State Valkyries (-2.5) | Golden State Valkyries | 2.08 (48¢) | $36,355 | -$36,355 | ❌ Perdida |
 | gopfan2 | Avalanche vs. Flyers | Flyers | 3.23 (31¢) | $31,000 | +$69,000 | ✅ Ganada |
 | Talvez10 | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $50,621 | +$44,890 | ✅ Ganada |
