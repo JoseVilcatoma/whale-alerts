@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 16:45:19 (hora de Perú)
+Actualizado: 2026-10-20 16:47:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5773**  ($320,038,329 en total)
-- Resueltas: **5697** — 3500 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Resueltas: **5699** — 3502 ganadas / 2197 perdidas (**61%** de acierto)
+- Pendientes: 52
 - Apostadores distintos: 601
 
 ### Balance
 
-- **Resultado de los apostadores: +$649,367** sobre $315,760,004 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,123** sobre $561,800 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$656,689** sobre $315,820,129 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,098** sobre $562,000 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | 778908 | Will FK Bodø/Glimt win on 2026-10-20? | No | 1.09 (92¢) | $125,566 | — | ⏳ Pendiente |
 | surfandturf | Celtics vs. Pistons | Celtics | 1.89 (53¢) | $25,108 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Under 4.5 | 1.79 (56¢) | $27,962 | — | ⏳ Pendiente |
-| UpTheBlues | Will AS Roma win on 2026-10-20? | Yes | 1.14 (88¢) | $25,393 | — | ⏳ Pendiente |
+| UpTheBlues | Will AS Roma win on 2026-10-20? | Yes | 1.14 (88¢) | $25,393 | +$3,463 | ✅ Ganada |
 | Jokerxing7 | Will FC Barcelona win on 2026-10-20? | Yes | 2.56 (39¢) | $108,333 | — | ⏳ Pendiente |
 | Jokerxing7 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $39,448 | — | ⏳ Pendiente |
 | BrotherObama | Wild vs. Oilers: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $26,000 | — | ⏳ Pendiente |
@@ -125,7 +125,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | Kkunn | Ningbo Open: Katarzyna Kawa vs Daria Snigur | Katarzyna Kawa | 2.78 (36¢) | $28,603 | +$50,850 | ✅ Ganada |
 | Kkunn | Lyon Open: Arthur Fery vs Borna Gojo | Arthur Fery | 2.94 (34¢) | $26,154 | -$26,154 | ❌ Perdida |
 | Ksi172 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $26,590 | — | ⏳ Pendiente |
-| acorp | Will AS Roma vs. ŠK Slovan Bratislava end in a draw? | No | 1.11 (90¢) | $34,733 | — | ⏳ Pendiente |
+| acorp | Will AS Roma vs. ŠK Slovan Bratislava end in a draw? | No | 1.11 (90¢) | $34,733 | +$3,859 | ✅ Ganada |
 | kdvlklkvlsklkfs | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.64 (61¢) | $67,315 | +$43,037 | ✅ Ganada |
 | 01258787xy48487484545122 | Japan Women's Open: Katerina Siniakova vs Peyton Stearns | Katerina Siniakova | 1.11 (90¢) | $35,733 | +$3,970 | ✅ Ganada |
 | lsiflsliggjriek | Lisbon: Raul Brancaccio vs Calvin Hemery | Calvin Hemery | 3.33 (30¢) | $25,609 | -$25,609 | ❌ Perdida |
