@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 15:35:16 (hora de Perú)
+Actualizado: 2026-10-20 15:37:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5763**  ($319,582,015 en total)
+- Apuestas registradas: **5765**  ($319,725,427 en total)
 - Resueltas: **5697** — 3500 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 46
 - Apostadores distintos: 601
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 402 | 216 | 10 | 65% | $39,698,865 | +$820,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 402 | 216 | 11 | 65% | $39,761,171 | +$820,597 |
 | Sassy-Bucket | 80 | 75 | 2 | 52% | $9,582,790 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 2 | 52% | $7,386,771 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Pistons | Celtics | 1.12 (89¢) | $62,306 | — | ⏳ Pendiente |
+| Flaznorp | Will FC Barcelona win on 2026-10-20? | No | 1.10 (91¢) | $81,107 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Celtics vs. Pistons | Celtics | 1.14 (88¢) | $26,999 | — | ⏳ Pendiente |
 | mooseborzoii | Celtics vs. Pistons | Celtics | 1.23 (81¢) | $33,348 | — | ⏳ Pendiente |
 | Anon455 | Will FC Barcelona win on 2026-10-20? | No | 1.30 (77¢) | $30,800 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.06 (94¢) | $94,000 | +$6,000 | ✅ Ganada |
 | 0F62 | Commanders vs. 49ers | 49ers | 1.06 (94¢) | $34,998 | +$2,234 | ✅ Ganada |
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.12 (89¢) | $209,150 | +$25,850 | ✅ Ganada |
-| milkteaboba | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $153,700 | +$17,078 | ✅ Ganada |
-| milkteaboba | Commanders vs. 49ers | 49ers | 1.14 (88¢) | $263,339 | +$35,910 | ✅ Ganada |
