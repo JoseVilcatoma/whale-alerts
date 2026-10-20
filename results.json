@@ -86998,5 +86998,20 @@
     "status": "pending",
     "ultimo_fill": 1792537176,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11781,
+    "timestamp": 1792537199,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-msrst-del-2026-10-20",
+    "title": "Missouri State vs. Delaware",
+    "outcome": "Delaware",
+    "side": "BUY",
+    "usd": 33852.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792537199,
+    "fills": 1
   }
 ]

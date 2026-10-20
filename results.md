@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 18:00:45 (hora de Perú)
+Actualizado: 2026-10-20 18:02:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5788**  ($320,680,639 en total)
+- Apuestas registradas: **5789**  ($320,714,491 en total)
 - Resueltas: **5743** — 3523 ganadas / 2220 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 602
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 408 | 219 | 5 | 65% | $39,928,676 | +$987,309 |
-| Sassy-Bucket | 80 | 75 | 4 | 52% | $9,740,361 | -$614,270 |
+| Sassy-Bucket | 80 | 75 | 5 | 52% | $9,774,213 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 22 | 1 | 61% | $6,923,829 | -$579,913 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Missouri State vs. Delaware | Delaware | 1.67 (60¢) | $33,852 | — | ⏳ Pendiente |
 | surfandturf | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $32,894 | — | ⏳ Pendiente |
 | www511zwin | Spread: Knicks (-4.5) | 76ers | 2.00 (50¢) | $25,189 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | sbsigner | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $25,103 | +$16,735 | ✅ Ganada |
 | alwaysfade | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $29,189 | — | ⏳ Pendiente |
 | 778908 | European Open: Toby Samuel vs Zizou Bergs | Zizou Bergs | 1.16 (86¢) | $84,670 | +$13,783 | ✅ Ganada |
-| Jsram | Manchester City FC vs. AEK: O/U 4.5 | Under 4.5 | 1.56 (64¢) | $27,450 | -$27,450 | ❌ Perdida |
