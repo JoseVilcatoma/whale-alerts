@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 19:39:52 (hora de Perú)
+Actualizado: 2026-10-19 19:41:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5703**  ($315,287,264 en total)
+- Apuestas registradas: **5704**  ($315,550,603 en total)
 - Resueltas: **5669** — 3479 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 599
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Commanders vs. 49ers | 49ers | 1.14 (88¢) | $263,339 | — | ⏳ Pendiente |
 | 0F62 | Commanders vs. 49ers | 49ers | 1.15 (87¢) | $153,008 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Commanders vs. 49ers | 49ers | 1.25 (80¢) | $48,290 | — | ⏳ Pendiente |
 | Sassy-Bucket | Commanders vs. 49ers | 49ers | 1.30 (77¢) | $231,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.20 (83¢) | $29,265 | +$5,994 | ✅ Ganada |
 | cosmicxbt | Steelers vs. Buccaneers | Steelers | 1.14 (88¢) | $114,375 | +$15,597 | ✅ Ganada |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $208,939 | -$208,939 | ❌ Perdida |
-| milkteaboba | Cardinals vs. Rams | Rams | 1.19 (84¢) | $29,620 | -$29,620 | ❌ Perdida |
