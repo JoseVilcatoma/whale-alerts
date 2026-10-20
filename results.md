@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 17:10:21 (hora de Perú)
+Actualizado: 2026-10-20 17:12:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5781**  ($320,431,715 en total)
+- Apuestas registradas: **5782**  ($320,460,603 en total)
 - Resueltas: **5724** — 3509 ganadas / 2215 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 601
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jokerxing7 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $28,888 | — | ⏳ Pendiente |
 | Jokerxing7 | 76ers vs. Knicks: O/U 231.5 | Over 231.5 | 2.00 (50¢) | $26,593 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Avalanche vs. Devils | Devils | 1.96 (51¢) | $50,945 | — | ⏳ Pendiente |
 | Sassy-Bucket | Avalanche vs. Devils | Avalanche | 2.04 (49¢) | $106,733 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC vs. AEK end in a draw? | No | 1.10 (91¢) | $249,657 | +$24,691 | ✅ Ganada |
 | QVanguard | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.25 (80¢) | $116,329 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: TheMongolz vs BIG (BO3) - 1win Private Club Playoffs | TheMongolz | 1.89 (53¢) | $26,462 | -$26,462 | ❌ Perdida |
-| Kkunn | Ningbo Open: Katarzyna Kawa vs Daria Snigur | Katarzyna Kawa | 2.78 (36¢) | $28,603 | +$50,850 | ✅ Ganada |
