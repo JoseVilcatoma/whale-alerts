@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 19:15:02 (hora de Perú)
+Actualizado: 2026-10-19 19:17:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5700**  ($314,854,965 en total)
+- Apuestas registradas: **5701**  ($315,085,965 en total)
 - Resueltas: **5669** — 3479 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 599
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 400 | 216 | 4 | 65% | $38,653,691 | +$807,284 |
-| Sassy-Bucket | 79 | 75 | 2 | 51% | $9,351,790 | -$683,270 |
+| Sassy-Bucket | 79 | 75 | 3 | 51% | $9,582,790 | -$683,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Commanders vs. 49ers | 49ers | 1.30 (77¢) | $231,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Commanders vs. 49ers: O/U 52.5 | Over 52.5 | 2.17 (46¢) | $25,461 | — | ⏳ Pendiente |
 | www511zwin | Spread: Golden State Valkyries (-2.5) | Golden State Valkyries | 2.08 (48¢) | $36,355 | — | ⏳ Pendiente |
 | gopfan2 | Avalanche vs. Flyers | Flyers | 3.23 (31¢) | $31,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | milkteaboba | Cardinals vs. Rams | Rams | 1.19 (84¢) | $29,620 | -$29,620 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Raiders | Bills | 1.47 (68¢) | $34,000 | +$16,000 | ✅ Ganada |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.19 (84¢) | $234,601 | -$234,601 | ❌ Perdida |
-| gmpm2 | Spread: Bills (-4.5) | Raiders | 2.04 (49¢) | $196,000 | +$204,000 | ✅ Ganada |
