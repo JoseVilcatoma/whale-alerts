@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 00:55:00 (hora de Perú)
+Actualizado: 2026-10-20 00:57:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5711**  ($316,326,499 en total)
+- Apuestas registradas: **5712**  ($316,362,698 en total)
 - Resueltas: **5685** — 3493 ganadas / 2192 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 599
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Velin217 | Japan Women's Open: Paula Badosa vs Antonia Ruzic | Paula Badosa | 1.14 (88¢) | $36,199 | — | ⏳ Pendiente |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.39 (72¢) | $27,182 | +$10,571 | ✅ Ganada |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.47 (68¢) | $62,690 | +$29,501 | ✅ Ganada |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $194,177 | +$21,575 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | TAIWANNUMBERONE | Cardinals vs. Rams | Rams | 1.20 (83¢) | $27,275 | -$27,275 | ❌ Perdida |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $50,907 | -$50,907 | ❌ Perdida |
 | BrotherObama | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $37,000 | — | ⏳ Pendiente |
-| Laskhask | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $29,883 | +$5,692 | ✅ Ganada |

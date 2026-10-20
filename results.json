@@ -85843,5 +85843,20 @@
     "status": "won",
     "ultimo_fill": 1792465432,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11642,
+    "timestamp": 1792475786,
+    "username": "Velin217",
+    "wallet": "0x9a5e78f769d30fb320f084ed64d58fcbc09acd58",
+    "slug": "wta-badosa-ruzic-2026-10-18",
+    "title": "Japan Women's Open: Paula Badosa vs Antonia Ruzic",
+    "outcome": "Paula Badosa",
+    "side": "BUY",
+    "usd": 36198.6046,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1792475786,
+    "fills": 1
   }
 ]
