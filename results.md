@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 22:03:04 (hora de Perú)
+Actualizado: 2026-10-19 22:05:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5710**  ($316,299,317 en total)
+- Apuestas registradas: **5711**  ($316,326,499 en total)
 - Resueltas: **5672** — 3481 ganadas / 2191 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 599
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | ferrariChampions2026 | 98 | 46 | 1 | 68% | $6,411,480 | +$216,318 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
-| mooseborzoii | 61 | 35 | 3 | 64% | $5,806,358 | +$786,731 |
+| mooseborzoii | 61 | 35 | 4 | 64% | $5,833,540 | +$786,731 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 21 | 0 | 59% | $5,594,771 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Commanders vs. 49ers | 49ers | 1.39 (72¢) | $27,182 | — | ⏳ Pendiente |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.47 (68¢) | $62,690 | — | ⏳ Pendiente |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $194,177 | — | ⏳ Pendiente |
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.06 (94¢) | $94,000 | +$6,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $50,907 | -$50,907 | ❌ Perdida |
 | BrotherObama | Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $37,000 | — | ⏳ Pendiente |
 | Laskhask | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $29,883 | +$5,692 | ✅ Ganada |
-| takeormake | Bills vs. Raiders | Raiders | 2.86 (35¢) | $49,995 | -$49,995 | ❌ Perdida |
