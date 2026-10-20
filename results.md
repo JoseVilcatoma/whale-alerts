@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 20:52:20 (hora de Perú)
+Actualizado: 2026-10-19 20:54:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5707**  ($315,948,451 en total)
+- Apuestas registradas: **5708**  ($316,042,451 en total)
 - Resueltas: **5669** — 3479 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 599
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.06 (94¢) | $94,000 | — | ⏳ Pendiente |
 | 0F62 | Commanders vs. 49ers | 49ers | 1.06 (94¢) | $34,998 | — | ⏳ Pendiente |
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.12 (89¢) | $209,150 | — | ⏳ Pendiente |
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $153,700 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | takeormake | Bills vs. Raiders | Raiders | 2.86 (35¢) | $49,995 | -$49,995 | ❌ Perdida |
 | Jittz | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $28,350 | +$5,400 | ✅ Ganada |
 | 0F62 | Chargers vs. Chiefs | Chiefs | 1.20 (83¢) | $56,322 | +$11,536 | ✅ Ganada |
-| Jittz | Bills vs. Raiders | Bills | 1.61 (62¢) | $25,575 | +$15,675 | ✅ Ganada |
