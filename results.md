@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 18:12:58 (hora de Perú)
+Actualizado: 2026-10-20 18:15:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5790**  ($320,741,705 en total)
+- Apuestas registradas: **5791**  ($320,768,856 en total)
 - Resueltas: **5743** — 3523 ganadas / 2220 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 602
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $27,151 | — | ⏳ Pendiente |
 | Woaifacai | Spread: Knicks (-4.5) | Knicks | 1.96 (51¢) | $27,214 | — | ⏳ Pendiente |
 | Sassy-Bucket | Missouri State vs. Delaware | Delaware | 1.67 (60¢) | $33,852 | — | ⏳ Pendiente |
 | surfandturf | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | 1l2ihj34li12u34 | Will SSC Napoli win on 2026-10-20? | No | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
 | jonjones1993 | Will SSC Napoli win on 2026-10-20? | No | 2.22 (45¢) | $54,000 | -$54,000 | ❌ Perdida |
 | sbsigner | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $25,103 | +$16,735 | ✅ Ganada |
-| alwaysfade | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $29,189 | — | ⏳ Pendiente |
