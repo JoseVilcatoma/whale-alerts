@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 16:57:55 (hora de Perú)
+Actualizado: 2026-10-20 17:00:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5774**  ($320,089,167 en total)
-- Resueltas: **5717** — 3506 ganadas / 2211 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **5718** — 3506 ganadas / 2212 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 601
 
 ### Balance
 
-- **Resultado de los apostadores: +$26,365** sobre $316,933,363 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,371** sobre $563,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$14,549** sobre $316,974,277 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,471** sobre $563,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | Jokerxing7 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $39,448 | — | ⏳ Pendiente |
 | BrotherObama | Wild vs. Oilers: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $26,000 | — | ⏳ Pendiente |
 | SebastianAde1996 | Will Club Atlético de Madrid win on 2026-10-20? | Yes | 2.22 (45¢) | $77,000 | -$77,000 | ❌ Perdida |
-| www511zwin | Spread: Celtics (-1.5) | Celtics | 1.96 (51¢) | $40,914 | — | ⏳ Pendiente |
+| www511zwin | Spread: Celtics (-1.5) | Celtics | 1.96 (51¢) | $40,914 | -$40,914 | ❌ Perdida |
 | n0tTODAY | Will Paris Saint-Germain FC win on 2026-10-20? | No | 1.69 (59¢) | $28,587 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 2.44 (41¢) | $54,919 | — | ⏳ Pendiente |
 | milkteaboba | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Under 4.5 | 1.75 (57¢) | $28,386 | — | ⏳ Pendiente |
