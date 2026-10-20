@@ -86243,10 +86243,25 @@
     "title": "Will SSC Napoli win on 2026-10-20?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 113869.64740000002,
+    "usd": 175643.443,
     "odds_at_bet": 56,
     "status": "pending",
-    "ultimo_fill": 1792519464,
-    "fills": 2
+    "ultimo_fill": 1792519581,
+    "fills": 4
+  },
+  {
+    "telegram_msg_id": 11679,
+    "timestamp": 1792519501,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ucl-nap-bog-2026-10-20-bog",
+    "title": "Will FK Bod\u00f8/Glimt win on 2026-10-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 36770.576,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1792519501,
+    "fills": 1
   }
 ]

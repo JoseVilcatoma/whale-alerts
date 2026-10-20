@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 13:04:32 (hora de Perú)
+Actualizado: 2026-10-20 13:06:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5738**  ($318,344,156 en total)
+- Apuestas registradas: **5739**  ($318,442,700 en total)
 - Resueltas: **5694** — 3497 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 601
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 402 | 216 | 7 | 65% | $39,515,235 | +$820,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 402 | 216 | 8 | 65% | $39,552,005 | +$820,597 |
 | Sassy-Bucket | 80 | 75 | 2 | 52% | $9,582,790 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | mooseborzoii | 64 | 35 | 1 | 65% | $5,833,540 | +$848,378 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
-| ripley86alien | 30 | 21 | 1 | 59% | $5,708,640 | +$882,551 |
+| ripley86alien | 30 | 21 | 1 | 59% | $5,770,414 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Lakersfan111 | 62 | 40 | 1 | 61% | $5,172,543 | +$24,894 |
 | ethanaz | 56 | 23 | 0 | 71% | $4,883,840 | -$115,755 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ripley86alien | Will SSC Napoli win on 2026-10-20? | Yes | 1.79 (56¢) | $113,870 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FK Bodø/Glimt win on 2026-10-20? | No | 1.25 (80¢) | $36,771 | — | ⏳ Pendiente |
+| ripley86alien | Will SSC Napoli win on 2026-10-20? | Yes | 1.79 (56¢) | $175,643 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Club Atlético de Madrid win on 2026-10-20? | No | 1.82 (55¢) | $56,823 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-10-20? | Yes | 3.33 (30¢) | $202,629 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC win on 2026-10-20? | No | 1.67 (60¢) | $116,466 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | mooseborzoii | Cowboys vs. Packers: O/U 44.5 | Over 44.5 | 2.04 (49¢) | $27,768 | -$27,768 | ❌ Perdida |
 | mooseborzoii | Cowboys vs. Packers | Packers | 1.15 (87¢) | $102,202 | +$15,272 | ✅ Ganada |
 | mooseborzoii | Cowboys vs. Packers | Packers | 1.25 (80¢) | $76,941 | +$19,235 | ✅ Ganada |
-| Hashbrown | Cowboys vs. Packers | Packers | 1.11 (90¢) | $36,000 | +$4,000 | ✅ Ganada |
