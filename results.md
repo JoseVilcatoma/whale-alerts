@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 10:52:18 (hora de Perú)
+Actualizado: 2026-10-20 10:54:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5727**  ($317,565,003 en total)
+- Apuestas registradas: **5728**  ($317,603,956 en total)
 - Resueltas: **5692** — 3497 ganadas / 2195 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 601
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 21 | 0 | 59% | $5,594,771 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
+| Lakersfan111 | 62 | 40 | 1 | 61% | $5,172,543 | +$24,894 |
 | ethanaz | 56 | 23 | 0 | 71% | $4,883,840 | -$115,755 |
 | BrotherObama | 44 | 49 | 3 | 47% | $4,270,413 | -$137,108 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YYYYY999 | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $38,953 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.28 (78¢) | $35,455 | — | ⏳ Pendiente |
 | 0x248e…0b3b | Will Club Atlético de Madrid win on 2026-10-20? | Yes | 2.08 (48¢) | $40,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC vs. AEK end in a draw? | No | 1.10 (91¢) | $249,657 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | ferrariChampions2026 | Cowboys vs. Packers: O/U 54.5 | Over 54.5 | 2.13 (47¢) | $29,708 | -$29,708 | ❌ Perdida |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Cowboys vs. Packers | Packers | 2.04 (49¢) | $27,857 | +$28,994 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Packers: O/U 53.5 | Over 53.5 | 1.96 (51¢) | $102,000 | -$102,000 | ❌ Perdida |
-| sinasinner | Spread: Cowboys (-1.5) | Packers | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
