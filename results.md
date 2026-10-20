@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 02:49:45 (hora de Perú)
+Actualizado: 2026-10-20 02:51:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5714**  ($316,826,901 en total)
-- Resueltas: **5685** — 3493 ganadas / 2192 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **5686** — 3493 ganadas / 2193 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 599
 
 ### Balance
 
-- **Resultado de los apostadores: +$655,837** sobre $315,232,379 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$2,955** sobre $560,600 (ROI **-0.5%**)
+- **Resultado de los apostadores: +$619,639** sobre $315,268,577 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,055** sobre $560,700 (ROI **-0.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 |---|---|---|---|---|---|---|
 | Wiretransferxyz | Counter-Strike: Betclic Apogee Esports vs Team Nemesis (BO3) - PGL Bucharest Closed Qualifier Playoffs | Team Nemesis | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $434,503 | — | ⏳ Pendiente |
-| Velin217 | Japan Women's Open: Paula Badosa vs Antonia Ruzic | Paula Badosa | 1.14 (88¢) | $36,199 | — | ⏳ Pendiente |
+| Velin217 | Japan Women's Open: Paula Badosa vs Antonia Ruzic | Paula Badosa | 1.14 (88¢) | $36,199 | -$36,199 | ❌ Perdida |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.39 (72¢) | $27,182 | +$10,571 | ✅ Ganada |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.47 (68¢) | $62,690 | +$29,501 | ✅ Ganada |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $194,177 | +$21,575 | ✅ Ganada |
