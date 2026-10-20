@@ -86173,5 +86173,20 @@
     "status": "pending",
     "ultimo_fill": 1792518761,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11674,
+    "timestamp": 1792519087,
+    "username": "1l2ihj34li12u34",
+    "wallet": "0xb52e8b3afd9f0f0d502a5a76494b42816d67285c",
+    "slug": "ucl-nap-bog-2026-10-20-nap",
+    "title": "Will SSC Napoli win on 2026-10-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 29999.9994,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1792519087,
+    "fills": 1
   }
 ]

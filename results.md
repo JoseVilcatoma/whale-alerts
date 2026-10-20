@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 12:56:07 (hora de Perú)
+Actualizado: 2026-10-20 12:58:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5733**  ($317,824,368 en total)
+- Apuestas registradas: **5734**  ($317,854,368 en total)
 - Resueltas: **5694** — 3497 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 601
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1l2ihj34li12u34 | Will SSC Napoli win on 2026-10-20? | No | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | jonjones1993 | Will SSC Napoli win on 2026-10-20? | No | 2.22 (45¢) | $54,000 | — | ⏳ Pendiente |
 | sbsigner | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $25,103 | — | ⏳ Pendiente |
 | alwaysfade | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $29,189 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | sulumos | Cowboys vs. Packers | Packers | 1.41 (71¢) | $59,853 | +$24,447 | ✅ Ganada |
 | yoyoyoyoer | Cowboys vs. Packers | Packers | 1.41 (71¢) | $27,578 | +$11,264 | ✅ Ganada |
 | TAIWANNUMBERONE | Cowboys vs. Packers | Packers | 1.41 (71¢) | $39,790 | +$16,252 | ✅ Ganada |
-| takeormake | Cowboys vs. Packers | Packers | 1.49 (67¢) | $50,562 | +$24,903 | ✅ Ganada |
