@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 02:39:29 (hora de Perú)
+Actualizado: 2026-10-20 02:41:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5713**  ($316,797,201 en total)
+- Apuestas registradas: **5714**  ($316,826,901 en total)
 - Resueltas: **5685** — 3493 ganadas / 2192 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 599
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Wiretransferxyz | Counter-Strike: Betclic Apogee Esports vs Team Nemesis (BO3) - PGL Bucharest Closed Qualifier Playoffs | Team Nemesis | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $434,503 | — | ⏳ Pendiente |
 | Velin217 | Japan Women's Open: Paula Badosa vs Antonia Ruzic | Paula Badosa | 1.14 (88¢) | $36,199 | — | ⏳ Pendiente |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.39 (72¢) | $27,182 | +$10,571 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | hurrican | Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs | FURIA | 1.09 (92¢) | $25,674 | +$2,233 | ✅ Ganada |
 | cosmicxbt | Cardinals vs. Rams | Rams | 1.33 (75¢) | $127,242 | -$127,242 | ❌ Perdida |
 | TAIWANNUMBERONE | Cardinals vs. Rams | Rams | 1.20 (83¢) | $27,275 | -$27,275 | ❌ Perdida |
-| milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $50,907 | -$50,907 | ❌ Perdida |
