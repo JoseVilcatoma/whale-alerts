@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 20:18:56 (hora de Perú)
+Actualizado: 2026-10-19 20:21:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5706**  ($315,913,453 en total)
+- Apuestas registradas: **5707**  ($315,948,451 en total)
 - Resueltas: **5669** — 3479 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 599
 
 ### Balance
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
-| 0F62 | 31 | 8 | 1 | 79% | $2,959,304 | -$381,556 |
+| 0F62 | 31 | 8 | 2 | 79% | $2,994,303 | -$381,556 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Commanders vs. 49ers | 49ers | 1.06 (94¢) | $34,998 | — | ⏳ Pendiente |
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.12 (89¢) | $209,150 | — | ⏳ Pendiente |
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $153,700 | — | ⏳ Pendiente |
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.14 (88¢) | $263,339 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | Jittz | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $28,350 | +$5,400 | ✅ Ganada |
 | 0F62 | Chargers vs. Chiefs | Chiefs | 1.20 (83¢) | $56,322 | +$11,536 | ✅ Ganada |
 | Jittz | Bills vs. Raiders | Bills | 1.61 (62¢) | $25,575 | +$15,675 | ✅ Ganada |
-| ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.20 (83¢) | $29,265 | +$5,994 | ✅ Ganada |
