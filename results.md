@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 06:42:07 (hora de Perú)
+Actualizado: 2026-10-20 06:44:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5719**  ($317,015,753 en total)
+- Apuestas registradas: **5720**  ($317,042,343 en total)
 - Resueltas: **5690** — 3496 ganadas / 2194 perdidas (**61%** de acierto)
-- Pendientes: 7
-- Apostadores distintos: 599
+- Pendientes: 8
+- Apostadores distintos: 600
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
 | TAIWANNUMBERONE | 30 | 16 | 0 | 65% | $1,790,740 | -$154,776 |
 
-_(mostrando los 40 de mayor monto, de 599 en total)_
+_(mostrando los 40 de mayor monto, de 600 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Ksi172 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $26,590 | — | ⏳ Pendiente |
 | acorp | Will AS Roma vs. ŠK Slovan Bratislava end in a draw? | No | 1.11 (90¢) | $34,733 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.64 (61¢) | $67,315 | +$43,037 | ✅ Ganada |
 | 01258787xy48487484545122 | Japan Women's Open: Katerina Siniakova vs Peyton Stearns | Katerina Siniakova | 1.11 (90¢) | $35,733 | +$3,970 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Rams | Rams | 1.89 (53¢) | $53,530 | -$53,530 | ❌ Perdida |
 | TAIWANNUMBERONE | Bills vs. Raiders | Bills | 1.23 (81¢) | $32,142 | +$7,539 | ✅ Ganada |
 | KaneAnalytics | Cardinals vs. Rams | Cardinals | 1.96 (51¢) | $35,700 | +$34,300 | ✅ Ganada |
-| ethanaz | Bills vs. Raiders | Bills | 1.47 (68¢) | $32,992 | +$15,526 | ✅ Ganada |
