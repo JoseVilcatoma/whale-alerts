@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 10:23:45 (hora de Perú)
+Actualizado: 2026-10-20 10:25:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5725**  ($317,489,548 en total)
+- Apuestas registradas: **5726**  ($317,529,548 en total)
 - Resueltas: **5692** — 3497 ganadas / 2195 perdidas (**61%** de acierto)
-- Pendientes: 11
-- Apostadores distintos: 600
+- Pendientes: 12
+- Apostadores distintos: 601
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
 | TAIWANNUMBERONE | 30 | 16 | 0 | 65% | $1,790,740 | -$154,776 |
 
-_(mostrando los 40 de mayor monto, de 600 en total)_
+_(mostrando los 40 de mayor monto, de 601 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x248e…0b3b | Will Club Atlético de Madrid win on 2026-10-20? | Yes | 2.08 (48¢) | $40,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC vs. AEK end in a draw? | No | 1.10 (91¢) | $249,657 | — | ⏳ Pendiente |
 | QVanguard | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.25 (80¢) | $116,329 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: TheMongolz vs BIG (BO3) - 1win Private Club Playoffs | TheMongolz | 1.89 (53¢) | $26,462 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 600 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Packers: O/U 53.5 | Over 53.5 | 1.96 (51¢) | $102,000 | -$102,000 | ❌ Perdida |
 | sinasinner | Spread: Cowboys (-1.5) | Packers | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | Electricy | Cowboys vs. Packers: O/U 53.5 | Under 53.5 | 2.04 (49¢) | $71,935 | +$74,871 | ✅ Ganada |
-| 0F62 | Tampa Bay Rays vs. Cleveland Guardians | Tampa Bay Rays | 1.19 (84¢) | $47,407 | +$9,030 | ✅ Ganada |
