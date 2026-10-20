@@ -35,10 +35,6 @@
     "username": "omnibus-076daa",
     "added_at": 1791027598.2329247
   },
-  "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747": {
-    "username": "juice-fruit",
-    "added_at": 1791138574.0131717
-  },
   "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a": {
     "username": "joseph00677",
     "added_at": 1791236736.249122
@@ -202,5 +198,9 @@
   "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6": {
     "username": "Jokerxing7",
     "added_at": 1792441121.310615
+  },
+  "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
+    "username": "theowalcott",
+    "added_at": 1792455566.6461117
   }
 }
