@@ -86263,5 +86263,35 @@
     "status": "pending",
     "ultimo_fill": 1792519501,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11681,
+    "timestamp": 1792520875,
+    "username": "tenniz",
+    "wallet": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
+    "slug": "atp-dellien-serna-2026-10-19",
+    "title": "Cali: Hugo Dellien vs Juan Manuel La Serna",
+    "outcome": "Juan Manuel La Serna",
+    "side": "BUY",
+    "usd": 91718.8747,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1792520875,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 11682,
+    "timestamp": 1792520877,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-dellien-serna-2026-10-19",
+    "title": "Cali: Hugo Dellien vs Juan Manuel La Serna",
+    "outcome": "Juan Manuel La Serna",
+    "side": "BUY",
+    "usd": 49999.999200000006,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1792520877,
+    "fills": 1
   }
 ]
