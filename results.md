@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 21:04:54 (hora de Perú)
+Actualizado: 2026-10-19 21:07:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5708**  ($316,042,451 en total)
-- Resueltas: **5669** — 3479 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **5670** — 3480 ganadas / 2190 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 599
 
 ### Balance
 
-- **Resultado de los apostadores: +$348,709** sobre $313,589,807 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,291** sobre $559,000 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$417,709** sobre $313,620,807 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$3,069** sobre $559,100 (ROI **-0.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | Sassy-Bucket | Commanders vs. 49ers | 49ers | 1.30 (77¢) | $231,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Commanders vs. 49ers: O/U 52.5 | Over 52.5 | 2.17 (46¢) | $25,461 | — | ⏳ Pendiente |
 | www511zwin | Spread: Golden State Valkyries (-2.5) | Golden State Valkyries | 2.08 (48¢) | $36,355 | — | ⏳ Pendiente |
-| gopfan2 | Avalanche vs. Flyers | Flyers | 3.23 (31¢) | $31,000 | — | ⏳ Pendiente |
+| gopfan2 | Avalanche vs. Flyers | Flyers | 3.23 (31¢) | $31,000 | +$69,000 | ✅ Ganada |
 | Talvez10 | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $50,621 | — | ⏳ Pendiente |
 | crisp1973 | AC Monza vs. Cagliari Calcio: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $46,000 | +$54,000 | ✅ Ganada |
 | Velin217 | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Mikhail Kukushkin | 1.39 (72¢) | $29,781 | +$11,582 | ✅ Ganada |
