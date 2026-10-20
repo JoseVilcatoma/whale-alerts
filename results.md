@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 17:39:33 (hora de Perú)
+Actualizado: 2026-10-20 17:41:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5782**  ($320,460,603 en total)
+- Apuestas registradas: **5784**  ($320,511,506 en total)
 - Resueltas: **5743** — 3523 ganadas / 2220 perdidas (**61%** de acierto)
-- Pendientes: 17
-- Apostadores distintos: 601
+- Pendientes: 19
+- Apostadores distintos: 602
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | TAIWANNUMBERONE | 30 | 16 | 0 | 65% | $1,790,740 | -$154,776 |
 
-_(mostrando los 40 de mayor monto, de 601 en total)_
+_(mostrando los 40 de mayor monto, de 602 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x8efa…894c | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $25,500 | — | ⏳ Pendiente |
+| 0x8efa…894c | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $25,403 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $28,888 | — | ⏳ Pendiente |
 | Jokerxing7 | 76ers vs. Knicks: O/U 231.5 | Over 231.5 | 2.00 (50¢) | $26,593 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Avalanche vs. Devils | Devils | 1.96 (51¢) | $50,945 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.28 (78¢) | $35,455 | +$10,000 | ✅ Ganada |
 | 0x248e…0b3b | Will Club Atlético de Madrid win on 2026-10-20? | Yes | 2.08 (48¢) | $40,000 | -$40,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC vs. AEK end in a draw? | No | 1.10 (91¢) | $249,657 | +$24,691 | ✅ Ganada |
-| QVanguard | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.25 (80¢) | $116,329 | +$29,082 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: TheMongolz vs BIG (BO3) - 1win Private Club Playoffs | TheMongolz | 1.89 (53¢) | $26,462 | -$26,462 | ❌ Perdida |

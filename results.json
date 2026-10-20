@@ -86908,5 +86908,35 @@
     "status": "pending",
     "ultimo_fill": 1792534246,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11774,
+    "timestamp": 1792536059,
+    "username": "0x8efa\u2026894c",
+    "wallet": "0x8efa1ea8ee2d456a051ae2985079a1e3c9aa894c",
+    "slug": "nba-phi-nyk-2026-10-20-spread-home-4pt5",
+    "title": "Spread: Knicks (-4.5)",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792536059,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11775,
+    "timestamp": 1792536059,
+    "username": "0x8efa\u2026894c",
+    "wallet": "0x8efa1ea8ee2d456a051ae2985079a1e3c9aa894c",
+    "slug": "nba-phi-nyk-2026-10-20",
+    "title": "76ers vs. Knicks",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 25402.86,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1792536059,
+    "fills": 1
   }
 ]
