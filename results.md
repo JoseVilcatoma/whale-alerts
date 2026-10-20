@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 10:09:12 (hora de Perú)
+Actualizado: 2026-10-20 10:11:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5725**  ($317,489,548 en total)
-- Resueltas: **5691** — 3496 ganadas / 2195 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **5692** — 3497 ganadas / 2195 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 600
 
 ### Balance
 
-- **Resultado de los apostadores: +$625,796** sobre $315,448,850 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,137** sobre $561,200 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$676,646** sobre $315,477,453 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$2,959** sobre $561,300 (ROI **-0.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 600 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC vs. AEK end in a draw? | No | 1.10 (91¢) | $249,657 | — | ⏳ Pendiente |
 | QVanguard | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.25 (80¢) | $116,329 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: TheMongolz vs BIG (BO3) - 1win Private Club Playoffs | TheMongolz | 1.89 (53¢) | $26,462 | — | ⏳ Pendiente |
-| Kkunn | Ningbo Open: Katarzyna Kawa vs Daria Snigur | Katarzyna Kawa | 2.78 (36¢) | $28,603 | — | ⏳ Pendiente |
+| Kkunn | Ningbo Open: Katarzyna Kawa vs Daria Snigur | Katarzyna Kawa | 2.78 (36¢) | $28,603 | +$50,850 | ✅ Ganada |
 | Kkunn | Lyon Open: Arthur Fery vs Borna Gojo | Arthur Fery | 2.94 (34¢) | $26,154 | -$26,154 | ❌ Perdida |
 | Ksi172 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $26,590 | — | ⏳ Pendiente |
 | acorp | Will AS Roma vs. ŠK Slovan Bratislava end in a draw? | No | 1.11 (90¢) | $34,733 | — | ⏳ Pendiente |
