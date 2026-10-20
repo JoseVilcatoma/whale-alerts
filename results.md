@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 00:42:43 (hora de Perú)
+Actualizado: 2026-10-20 00:44:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5711**  ($316,326,499 en total)
-- Resueltas: **5684** — 3492 ganadas / 2192 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **5685** — 3493 ganadas / 2192 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 599
 
 ### Balance
 
-- **Resultado de los apostadores: +$653,437** sobre $315,204,779 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$2,963** sobre $560,500 (ROI **-0.5%**)
+- **Resultado de los apostadores: +$655,837** sobre $315,232,379 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$2,955** sobre $560,600 (ROI **-0.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 400 | 216 | 4 | 65% | $38,653,691 | +$807,284 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 401 | 216 | 3 | 65% | $38,653,691 | +$809,684 |
 | Sassy-Bucket | 80 | 75 | 2 | 52% | $9,582,790 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Getafe CF win on 2026-10-19? | No | 1.47 (68¢) | $25,923 | +$12,199 | ✅ Ganada |
 | kdvlklkvlsklkfs | Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis | Stefanos Sakellaridis | 1.61 (62¢) | $33,934 | -$33,934 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: fnatic vs Liquid (BO3) - 1win Private Club #2 Playoffs | fnatic | 2.33 (43¢) | $34,788 | +$46,114 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Katie Boulter vs Himeno Sakatsume | Katie Boulter | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Katie Boulter vs Himeno Sakatsume | Katie Boulter | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Almaty Open: Miomir Kecmanovic vs James Duckworth | James Duckworth | 2.56 (39¢) | $43,049 | +$67,333 | ✅ Ganada |
 | rabbitfoot1 | Will AC Monza win on 2026-10-19? | Yes | 2.50 (40¢) | $26,170 | +$39,254 | ✅ Ganada |
 | robustmst | Ningbo Open: Elise Mertens vs Leylah Fernandez | Elise Mertens | 1.64 (61¢) | $34,262 | -$34,262 | ❌ Perdida |
