@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 12:20:44 (hora de Perú)
+Actualizado: 2026-10-20 12:22:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5730**  ($317,716,076 en total)
-- Resueltas: **5693** — 3497 ganadas / 2196 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **5694** — 3497 ganadas / 2197 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 601
 
 ### Balance
 
-- **Resultado de los apostadores: +$650,184** sobre $315,503,915 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,059** sobre $561,400 (ROI **-0.5%**)
+- **Resultado de los apostadores: +$620,484** sobre $315,533,615 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,159** sobre $561,500 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | 01258787xy48487484545122 | Japan Women's Open: Katerina Siniakova vs Peyton Stearns | Katerina Siniakova | 1.11 (90¢) | $35,733 | +$3,970 | ✅ Ganada |
 | lsiflsliggjriek | Lisbon: Raul Brancaccio vs Calvin Hemery | Calvin Hemery | 3.33 (30¢) | $25,609 | -$25,609 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.43 (70¢) | $25,462 | +$10,912 | ✅ Ganada |
-| Wiretransferxyz | Counter-Strike: Betclic Apogee Esports vs Team Nemesis (BO3) - PGL Bucharest Closed Qualifier Playoffs | Team Nemesis | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
+| Wiretransferxyz | Counter-Strike: Betclic Apogee Esports vs Team Nemesis (BO3) - PGL Bucharest Closed Qualifier Playoffs | Team Nemesis | 1.52 (66¢) | $29,700 | -$29,700 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $434,503 | — | ⏳ Pendiente |
 | Velin217 | Japan Women's Open: Paula Badosa vs Antonia Ruzic | Paula Badosa | 1.14 (88¢) | $36,199 | -$36,199 | ❌ Perdida |
 | mooseborzoii | Commanders vs. 49ers | 49ers | 1.39 (72¢) | $27,182 | +$10,571 | ✅ Ganada |
