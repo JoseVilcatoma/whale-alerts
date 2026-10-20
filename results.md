@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 12:58:14 (hora de Perú)
+Actualizado: 2026-10-20 13:00:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5734**  ($317,854,368 en total)
+- Apuestas registradas: **5736**  ($318,106,921 en total)
 - Resueltas: **5694** — 3497 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 20
 - Apostadores distintos: 601
 
 ### Balance
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 402 | 216 | 6 | 65% | $39,398,768 | +$820,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 402 | 216 | 7 | 65% | $39,448,693 | +$820,597 |
 | Sassy-Bucket | 80 | 75 | 2 | 52% | $9,582,790 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 0 | 52% | $7,332,727 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
+| totoro3miyazaki | 34 | 21 | 2 | 62% | $6,867,006 | -$423,776 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
-| totoro3miyazaki | 34 | 21 | 1 | 62% | $6,664,377 | -$423,776 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | ferrariChampions2026 | 98 | 47 | 0 | 68% | $6,411,480 | +$190,856 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will VfB Stuttgart win on 2026-10-20? | Yes | 3.33 (30¢) | $202,629 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC win on 2026-10-20? | No | 1.67 (60¢) | $49,925 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will SSC Napoli win on 2026-10-20? | No | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | jonjones1993 | Will SSC Napoli win on 2026-10-20? | No | 2.22 (45¢) | $54,000 | — | ⏳ Pendiente |
 | sbsigner | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $25,103 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | Hashbrown | Cowboys vs. Packers | Packers | 1.11 (90¢) | $36,000 | +$4,000 | ✅ Ganada |
 | milkteaboba | Cowboys vs. Packers | Packers | 1.39 (72¢) | $54,201 | +$21,078 | ✅ Ganada |
 | sulumos | Cowboys vs. Packers | Packers | 1.41 (71¢) | $59,853 | +$24,447 | ✅ Ganada |
-| yoyoyoyoer | Cowboys vs. Packers | Packers | 1.41 (71¢) | $27,578 | +$11,264 | ✅ Ganada |
-| TAIWANNUMBERONE | Cowboys vs. Packers | Packers | 1.41 (71¢) | $39,790 | +$16,252 | ✅ Ganada |
