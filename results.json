@@ -86198,11 +86198,11 @@
     "title": "Will Paris Saint-Germain FC win on 2026-10-20?",
     "outcome": "No",
     "side": "BUY",
-    "usd": 49924.640999999996,
+    "usd": 116466.15899999999,
     "odds_at_bet": 60,
     "status": "pending",
-    "ultimo_fill": 1792519126,
-    "fills": 1
+    "ultimo_fill": 1792519237,
+    "fills": 2
   },
   {
     "telegram_msg_id": 11676,
@@ -86217,6 +86217,21 @@
     "odds_at_bet": 30,
     "status": "pending",
     "ultimo_fill": 1792519192,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11677,
+    "timestamp": 1792519322,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "ucl-stu-atm-2026-10-20-atm",
+    "title": "Will Club Atl\u00e9tico de Madrid win on 2026-10-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 56823.283599999995,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1792519322,
     "fills": 1
   }
 ]
