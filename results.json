@@ -86128,5 +86128,20 @@
     "status": "pending",
     "ultimo_fill": 1792513920,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 11671,
+    "timestamp": 1792518211,
+    "username": "alwaysfade",
+    "wallet": "0xe5b70fd855af9258d9463992e4f1ed7987905ee3",
+    "slug": "nba-phi-nyk-2026-10-20",
+    "title": "76ers vs. Knicks",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 29188.525800000003,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1792518211,
+    "fills": 1
   }
 ]

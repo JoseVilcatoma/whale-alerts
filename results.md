@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 12:41:31 (hora de Perú)
+Actualizado: 2026-10-20 12:43:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5730**  ($317,716,076 en total)
+- Apuestas registradas: **5731**  ($317,745,265 en total)
 - Resueltas: **5694** — 3497 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 601
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| alwaysfade | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $29,189 | — | ⏳ Pendiente |
 | 778908 | European Open: Toby Samuel vs Zizou Bergs | Zizou Bergs | 1.16 (86¢) | $84,670 | — | ⏳ Pendiente |
 | Jsram | Manchester City FC vs. AEK: O/U 4.5 | Under 4.5 | 1.56 (64¢) | $27,450 | — | ⏳ Pendiente |
 | YYYYY999 | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $38,953 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | takeormake | Cowboys vs. Packers | Packers | 1.49 (67¢) | $50,562 | +$24,903 | ✅ Ganada |
 | milkteaboba | Cowboys vs. Packers | Packers | 1.89 (53¢) | $29,615 | +$26,262 | ✅ Ganada |
 | Schnoodled | Cowboys vs. Packers | Packers | 2.04 (49¢) | $25,066 | +$26,089 | ✅ Ganada |
-| ferrariChampions2026 | Cowboys vs. Packers: O/U 54.5 | Over 54.5 | 2.13 (47¢) | $29,708 | -$29,708 | ❌ Perdida |
