@@ -86398,5 +86398,35 @@
     "status": "pending",
     "ultimo_fill": 1792521847,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11690,
+    "timestamp": 1792521961,
+    "username": "n0tTODAY",
+    "wallet": "0x89a636baae1c31a712eff86c564601ac4135429a",
+    "slug": "ucl-psg-fcb-2026-10-20-psg",
+    "title": "Will Paris Saint-Germain FC win on 2026-10-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 28586.744899999998,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1792521961,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11691,
+    "timestamp": 1792521964,
+    "username": "www511zwin",
+    "wallet": "0x93683d55f0ea67212bc179e9802f00e271c9f390",
+    "slug": "nba-bos-det-2026-10-20-spread-away-1pt5",
+    "title": "Spread: Celtics (-1.5)",
+    "outcome": "Celtics",
+    "side": "BUY",
+    "usd": 40913.8232,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792521964,
+    "fills": 1
   }
 ]
