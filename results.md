@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 21:13:17 (hora de Perú)
+Actualizado: 2026-10-19 21:59:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5708**  ($316,042,451 en total)
+- Apuestas registradas: **5709**  ($316,105,140 en total)
 - Resueltas: **5670** — 3480 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 599
 
 ### Balance
@@ -34,9 +34,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 98 | 46 | 1 | 68% | $6,411,480 | +$216,318 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
+| mooseborzoii | 61 | 35 | 2 | 64% | $5,612,181 | +$786,731 |
 | ripley86alien | 30 | 21 | 0 | 59% | $5,594,771 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| mooseborzoii | 61 | 35 | 1 | 64% | $5,549,491 | +$786,731 |
 | Lakersfan111 | 62 | 40 | 0 | 61% | $5,133,589 | +$24,894 |
 | ethanaz | 56 | 23 | 0 | 71% | $4,883,840 | -$115,755 |
 | BrotherObama | 44 | 49 | 3 | 47% | $4,270,413 | -$137,108 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Commanders vs. 49ers | 49ers | 1.47 (68¢) | $62,690 | — | ⏳ Pendiente |
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.06 (94¢) | $94,000 | — | ⏳ Pendiente |
 | 0F62 | Commanders vs. 49ers | 49ers | 1.06 (94¢) | $34,998 | — | ⏳ Pendiente |
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.12 (89¢) | $209,150 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | Laskhask | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $29,883 | +$5,692 | ✅ Ganada |
 | takeormake | Bills vs. Raiders | Raiders | 2.86 (35¢) | $49,995 | -$49,995 | ❌ Perdida |
 | Jittz | Chargers vs. Chiefs | Chiefs | 1.19 (84¢) | $28,350 | +$5,400 | ✅ Ganada |
-| 0F62 | Chargers vs. Chiefs | Chiefs | 1.20 (83¢) | $56,322 | +$11,536 | ✅ Ganada |
