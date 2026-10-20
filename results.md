@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 17:41:38 (hora de Perú)
+Actualizado: 2026-10-20 17:43:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5784**  ($320,511,506 en total)
+- Apuestas registradas: **5785**  ($320,584,557 en total)
 - Resueltas: **5743** — 3523 ganadas / 2220 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 602
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 408 | 219 | 4 | 65% | $39,855,625 | +$987,309 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 408 | 219 | 5 | 65% | $39,928,676 | +$987,309 |
 | Sassy-Bucket | 80 | 75 | 4 | 52% | $9,740,361 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-4.5) | 76ers | 2.00 (50¢) | $73,051 | — | ⏳ Pendiente |
 | 0x8efa…894c | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $25,500 | — | ⏳ Pendiente |
 | 0x8efa…894c | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $25,403 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $28,888 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | YYYYY999 | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $38,953 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.28 (78¢) | $35,455 | +$10,000 | ✅ Ganada |
 | 0x248e…0b3b | Will Club Atlético de Madrid win on 2026-10-20? | Yes | 2.08 (48¢) | $40,000 | -$40,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC vs. AEK end in a draw? | No | 1.10 (91¢) | $249,657 | +$24,691 | ✅ Ganada |
