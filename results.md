@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 17:58:44 (hora de Perú)
+Actualizado: 2026-10-20 18:00:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5787**  ($320,642,639 en total)
+- Apuestas registradas: **5788**  ($320,680,639 en total)
 - Resueltas: **5743** — 3523 ganadas / 2220 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 602
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 44 | 49 | 4 | 47% | $4,296,413 | -$137,108 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
-| surfandturf | 32 | 10 | 0 | 76% | $3,466,490 | +$394,568 |
+| surfandturf | 32 | 10 | 1 | 76% | $3,504,490 | +$394,568 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $32,894 | — | ⏳ Pendiente |
 | www511zwin | Spread: Knicks (-4.5) | 76ers | 2.00 (50¢) | $25,189 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-4.5) | 76ers | 2.00 (50¢) | $73,051 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | alwaysfade | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $29,189 | — | ⏳ Pendiente |
 | 778908 | European Open: Toby Samuel vs Zizou Bergs | Zizou Bergs | 1.16 (86¢) | $84,670 | +$13,783 | ✅ Ganada |
 | Jsram | Manchester City FC vs. AEK: O/U 4.5 | Under 4.5 | 1.56 (64¢) | $27,450 | -$27,450 | ❌ Perdida |
-| YYYYY999 | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $38,953 | — | ⏳ Pendiente |
