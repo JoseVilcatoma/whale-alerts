@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 08:45:24 (hora de Perú)
+Actualizado: 2026-10-20 08:47:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5721**  ($317,068,497 en total)
+- Apuestas registradas: **5722**  ($317,097,100 en total)
 - Resueltas: **5690** — 3496 ganadas / 2194 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 600
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 600 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kkunn | Ningbo Open: Katarzyna Kawa vs Daria Snigur | Katarzyna Kawa | 2.78 (36¢) | $28,603 | — | ⏳ Pendiente |
 | Kkunn | Lyon Open: Arthur Fery vs Borna Gojo | Arthur Fery | 2.94 (34¢) | $26,154 | — | ⏳ Pendiente |
 | Ksi172 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $26,590 | — | ⏳ Pendiente |
 | acorp | Will AS Roma vs. ŠK Slovan Bratislava end in a draw? | No | 1.11 (90¢) | $34,733 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 600 en total)_
 | ferrariChampions2026 | Cardinals vs. Rams | Cardinals | 1.25 (80¢) | $38,435 | +$9,609 | ✅ Ganada |
 | TAIWANNUMBERONE | Bills vs. Raiders | Bills | 1.16 (86¢) | $57,575 | +$9,373 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Rams | Rams | 1.89 (53¢) | $53,530 | -$53,530 | ❌ Perdida |
-| TAIWANNUMBERONE | Bills vs. Raiders | Bills | 1.23 (81¢) | $32,142 | +$7,539 | ✅ Ganada |
