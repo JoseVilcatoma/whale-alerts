@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 16:51:28 (hora de Perú)
+Actualizado: 2026-10-20 16:53:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5774**  ($320,089,167 en total)
-- Resueltas: **5699** — 3502 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Resueltas: **5700** — 3502 ganadas / 2198 perdidas (**61%** de acierto)
+- Pendientes: 52
 - Apostadores distintos: 601
 
 ### Balance
 
-- **Resultado de los apostadores: +$656,689** sobre $315,820,129 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$3,098** sobre $562,000 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$629,239** sobre $315,847,579 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$3,198** sobre $562,100 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
-| Jsram | 21 | 18 | 1 | 54% | $1,829,321 | -$70,910 |
+| Jsram | 21 | 19 | 0 | 52% | $1,829,321 | -$98,360 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 | TAIWANNUMBERONE | 30 | 16 | 0 | 65% | $1,790,740 | -$154,776 |
 
@@ -116,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | sbsigner | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $25,103 | — | ⏳ Pendiente |
 | alwaysfade | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $29,189 | — | ⏳ Pendiente |
 | 778908 | European Open: Toby Samuel vs Zizou Bergs | Zizou Bergs | 1.16 (86¢) | $84,670 | +$13,783 | ✅ Ganada |
-| Jsram | Manchester City FC vs. AEK: O/U 4.5 | Under 4.5 | 1.56 (64¢) | $27,450 | — | ⏳ Pendiente |
+| Jsram | Manchester City FC vs. AEK: O/U 4.5 | Under 4.5 | 1.56 (64¢) | $27,450 | -$27,450 | ❌ Perdida |
 | YYYYY999 | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $38,953 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.28 (78¢) | $35,455 | — | ⏳ Pendiente |
 | 0x248e…0b3b | Will Club Atlético de Madrid win on 2026-10-20? | Yes | 2.08 (48¢) | $40,000 | — | ⏳ Pendiente |
