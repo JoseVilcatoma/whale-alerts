@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 14:45:24 (hora de Perú)
+Actualizado: 2026-10-20 14:47:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5760**  ($319,490,867 en total)
+- Apuestas registradas: **5761**  ($319,521,667 en total)
 - Resueltas: **5697** — 3500 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 601
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Anon455 | Will FC Barcelona win on 2026-10-20? | No | 1.30 (77¢) | $30,800 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | UpTheBlues | Will FC Barcelona win on 2026-10-20? | No | 1.27 (79¢) | $25,952 | — | ⏳ Pendiente |
 | 778908 | Will FK Bodø/Glimt win on 2026-10-20? | No | 1.09 (92¢) | $125,566 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.14 (88¢) | $263,339 | +$35,910 | ✅ Ganada |
 | 0F62 | Commanders vs. 49ers | 49ers | 1.15 (87¢) | $153,008 | +$22,863 | ✅ Ganada |
 | TAIWANNUMBERONE | Commanders vs. 49ers | 49ers | 1.25 (80¢) | $48,290 | +$12,072 | ✅ Ganada |
-| Sassy-Bucket | Commanders vs. 49ers | 49ers | 1.30 (77¢) | $231,000 | +$69,000 | ✅ Ganada |
