@@ -86443,5 +86443,50 @@
     "status": "pending",
     "ultimo_fill": 1792522424,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11695,
+    "timestamp": 1792522498,
+    "username": "Jokerxing7",
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "slug": "ucl-psg-fcb-2026-10-20-fcb",
+    "title": "Will FC Barcelona win on 2026-10-20?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 108333.03,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1792522498,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11696,
+    "timestamp": 1792522507,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-rom-sba-2026-10-20-rom",
+    "title": "Will AS Roma win on 2026-10-20?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 25392.62,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1792522507,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11697,
+    "timestamp": 1792522571,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ucl-psg-fcb-2026-10-20-total-4pt5",
+    "title": "Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 27961.920000000002,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1792522571,
+    "fills": 1
   }
 ]
