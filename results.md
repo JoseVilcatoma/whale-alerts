@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 19:12:58 (hora de Perú)
+Actualizado: 2026-10-19 19:15:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5699**  ($314,829,504 en total)
+- Apuestas registradas: **5700**  ($314,854,965 en total)
 - Resueltas: **5669** — 3479 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 599
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | totoro3miyazaki | 34 | 21 | 1 | 62% | $6,664,377 | -$423,776 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| ferrariChampions2026 | 98 | 46 | 0 | 68% | $6,386,019 | +$216,318 |
+| ferrariChampions2026 | 98 | 46 | 1 | 68% | $6,411,480 | +$216,318 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 21 | 0 | 59% | $5,594,771 | +$882,551 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Commanders vs. 49ers: O/U 52.5 | Over 52.5 | 2.17 (46¢) | $25,461 | — | ⏳ Pendiente |
 | www511zwin | Spread: Golden State Valkyries (-2.5) | Golden State Valkyries | 2.08 (48¢) | $36,355 | — | ⏳ Pendiente |
 | gopfan2 | Avalanche vs. Flyers | Flyers | 3.23 (31¢) | $31,000 | — | ⏳ Pendiente |
 | Talvez10 | Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $50,621 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Raiders | Bills | 1.47 (68¢) | $34,000 | +$16,000 | ✅ Ganada |
 | milkteaboba | Cardinals vs. Rams | Rams | 1.19 (84¢) | $234,601 | -$234,601 | ❌ Perdida |
 | gmpm2 | Spread: Bills (-4.5) | Raiders | 2.04 (49¢) | $196,000 | +$204,000 | ✅ Ganada |
-| Electricy | Spread: Bills (-5.5) | Bills | 2.08 (48¢) | $52,166 | -$52,166 | ❌ Perdida |
