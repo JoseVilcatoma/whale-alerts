@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 16:16:33 (hora de Perú)
+Actualizado: 2026-10-20 16:18:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5771**  ($319,948,853 en total)
+- Apuestas registradas: **5772**  ($319,992,362 en total)
 - Resueltas: **5697** — 3500 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Pendientes: 53
 - Apostadores distintos: 601
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 402 | 216 | 11 | 65% | $39,761,171 | +$820,597 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 402 | 216 | 12 | 65% | $39,804,680 | +$820,597 |
 | Sassy-Bucket | 80 | 75 | 2 | 52% | $9,582,790 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 86 | 2 | 52% | $7,386,771 | -$548,401 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Pistons | Pistons | 1.19 (84¢) | $43,509 | — | ⏳ Pendiente |
 | mooseborzoii | Celtics vs. Pistons | Celtics | 1.39 (72¢) | $28,202 | — | ⏳ Pendiente |
 | mooseborzoii | Celtics vs. Pistons | Celtics | 1.18 (85¢) | $46,766 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Celtics vs. Pistons | Celtics | 1.35 (74¢) | $25,909 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.43 (70¢) | $25,462 | +$10,912 | ✅ Ganada |
 | Wiretransferxyz | Counter-Strike: Betclic Apogee Esports vs Team Nemesis (BO3) - PGL Bucharest Closed Qualifier Playoffs | Team Nemesis | 1.52 (66¢) | $29,700 | -$29,700 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $434,503 | — | ⏳ Pendiente |
-| Velin217 | Japan Women's Open: Paula Badosa vs Antonia Ruzic | Paula Badosa | 1.14 (88¢) | $36,199 | -$36,199 | ❌ Perdida |

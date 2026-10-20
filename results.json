@@ -86743,5 +86743,20 @@
     "status": "pending",
     "ultimo_fill": 1792530504,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11717,
+    "timestamp": 1792531074,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-bos-det-2026-10-20",
+    "title": "Celtics vs. Pistons",
+    "outcome": "Pistons",
+    "side": "BUY",
+    "usd": 43509.227999999996,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1792531074,
+    "fills": 1
   }
 ]
