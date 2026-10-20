@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 16:18:36 (hora de Perú)
+Actualizado: 2026-10-20 16:20:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5772**  ($319,992,362 en total)
+- Apuestas registradas: **5773**  ($320,038,329 en total)
 - Resueltas: **5697** — 3500 ganadas / 2197 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 601
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | Celtics vs. Pistons | Pistons | 1.16 (86¢) | $45,967 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Pistons | Pistons | 1.19 (84¢) | $43,509 | — | ⏳ Pendiente |
 | mooseborzoii | Celtics vs. Pistons | Celtics | 1.39 (72¢) | $28,202 | — | ⏳ Pendiente |
 | mooseborzoii | Celtics vs. Pistons | Celtics | 1.18 (85¢) | $46,766 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | lsiflsliggjriek | Lisbon: Raul Brancaccio vs Calvin Hemery | Calvin Hemery | 3.33 (30¢) | $25,609 | -$25,609 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lisbon: Raul Brancaccio vs Calvin Hemery | Raul Brancaccio | 1.43 (70¢) | $25,462 | +$10,912 | ✅ Ganada |
 | Wiretransferxyz | Counter-Strike: Betclic Apogee Esports vs Team Nemesis (BO3) - PGL Bucharest Closed Qualifier Playoffs | Team Nemesis | 1.52 (66¢) | $29,700 | -$29,700 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $434,503 | — | ⏳ Pendiente |
