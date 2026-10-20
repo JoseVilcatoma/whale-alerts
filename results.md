@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-19 19:50:15 (hora de Perú)
+Actualizado: 2026-10-19 19:52:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5704**  ($315,550,603 en total)
+- Apuestas registradas: **5705**  ($315,704,303 en total)
 - Resueltas: **5669** — 3479 ganadas / 2190 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 599
 
 ### Balance
@@ -61,9 +61,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
+| milkteaboba | 7 | 9 | 2 | 44% | $1,811,738 | -$859,667 |
 | Jsram | 21 | 18 | 0 | 54% | $1,801,871 | -$70,910 |
 | TAIWANNUMBERONE | 29 | 16 | 1 | 64% | $1,790,740 | -$166,848 |
-| 0x361b…74fe | 26 | 2 | 0 | 93% | $1,758,963 | +$830,970 |
 
 _(mostrando los 40 de mayor monto, de 599 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Commanders vs. 49ers | 49ers | 1.11 (90¢) | $153,700 | — | ⏳ Pendiente |
 | milkteaboba | Commanders vs. 49ers | 49ers | 1.14 (88¢) | $263,339 | — | ⏳ Pendiente |
 | 0F62 | Commanders vs. 49ers | 49ers | 1.15 (87¢) | $153,008 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Commanders vs. 49ers | 49ers | 1.25 (80¢) | $48,290 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 599 en total)_
 | Jittz | Bills vs. Raiders | Bills | 1.61 (62¢) | $25,575 | +$15,675 | ✅ Ganada |
 | ferrariChampions2026 | Steelers vs. Buccaneers | Steelers | 1.20 (83¢) | $29,265 | +$5,994 | ✅ Ganada |
 | cosmicxbt | Steelers vs. Buccaneers | Steelers | 1.14 (88¢) | $114,375 | +$15,597 | ✅ Ganada |
-| milkteaboba | Cardinals vs. Rams | Rams | 1.25 (80¢) | $208,939 | -$208,939 | ❌ Perdida |
