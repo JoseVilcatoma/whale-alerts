@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 16:55:42 (hora de Perú)
+Actualizado: 2026-10-20 16:57:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5774**  ($320,089,167 en total)
-- Resueltas: **5706** — 3504 ganadas / 2202 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Resueltas: **5717** — 3506 ganadas / 2211 perdidas (**61%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 601
 
 ### Balance
 
-- **Resultado de los apostadores: +$352,293** sobre $316,502,189 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$3,506** sobre $562,700 (ROI **-0.6%**)
+- **Resultado de los apostadores: +$26,365** sobre $316,933,363 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,371** sobre $563,800 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 403 | 216 | 11 | 65% | $39,804,680 | +$845,288 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 404 | 217 | 9 | 65% | $39,804,680 | +$791,270 |
 | Sassy-Bucket | 80 | 75 | 3 | 52% | $9,633,628 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 87 | 1 | 52% | $7,386,771 | -$576,901 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | ferrariChampions2026 | 98 | 47 | 0 | 68% | $6,411,480 | +$190,856 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
-| mooseborzoii | 64 | 35 | 6 | 65% | $6,034,917 | +$848,378 |
+| mooseborzoii | 64 | 40 | 1 | 62% | $6,034,917 | +$647,001 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 30 | 21 | 1 | 59% | $5,770,414 | +$882,551 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 44 | 49 | 4 | 47% | $4,296,413 | -$137,108 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
-| surfandturf | 32 | 9 | 1 | 78% | $3,466,490 | +$419,676 |
+| surfandturf | 32 | 10 | 0 | 76% | $3,466,490 | +$394,568 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
@@ -72,23 +72,23 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Sassy-Bucket | Avalanche vs. Devils | Avalanche | 2.08 (48¢) | $50,838 | — | ⏳ Pendiente |
-| 0x6db5…e279 | Celtics vs. Pistons | Pistons | 1.16 (86¢) | $45,967 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Pistons | Pistons | 1.19 (84¢) | $43,509 | — | ⏳ Pendiente |
-| mooseborzoii | Celtics vs. Pistons | Celtics | 1.39 (72¢) | $28,202 | — | ⏳ Pendiente |
-| mooseborzoii | Celtics vs. Pistons | Celtics | 1.18 (85¢) | $46,766 | — | ⏳ Pendiente |
-| 0x6db5…e279 | Celtics vs. Pistons | Celtics | 1.35 (74¢) | $25,909 | — | ⏳ Pendiente |
-| mooseborzoii | Celtics vs. Pistons | Celtics | 1.37 (73¢) | $32,321 | — | ⏳ Pendiente |
-| mooseborzoii | Celtics vs. Pistons | Celtics | 1.61 (62¢) | $60,739 | — | ⏳ Pendiente |
+| 0x6db5…e279 | Celtics vs. Pistons | Pistons | 1.16 (86¢) | $45,967 | +$7,483 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Pistons | Pistons | 1.19 (84¢) | $43,509 | +$8,287 | ✅ Ganada |
+| mooseborzoii | Celtics vs. Pistons | Celtics | 1.39 (72¢) | $28,202 | -$28,202 | ❌ Perdida |
+| mooseborzoii | Celtics vs. Pistons | Celtics | 1.18 (85¢) | $46,766 | -$46,766 | ❌ Perdida |
+| 0x6db5…e279 | Celtics vs. Pistons | Celtics | 1.35 (74¢) | $25,909 | -$25,909 | ❌ Perdida |
+| mooseborzoii | Celtics vs. Pistons | Celtics | 1.37 (73¢) | $32,321 | -$32,321 | ❌ Perdida |
+| mooseborzoii | Celtics vs. Pistons | Celtics | 1.61 (62¢) | $60,739 | -$60,739 | ❌ Perdida |
 | Woaifacai | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 1.35 (74¢) | $29,488 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Pistons | Celtics | 1.12 (89¢) | $62,306 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Pistons | Celtics | 1.12 (89¢) | $62,306 | -$62,306 | ❌ Perdida |
 | Flaznorp | Will FC Barcelona win on 2026-10-20? | No | 1.10 (91¢) | $81,107 | — | ⏳ Pendiente |
-| 0x6db5…e279 | Celtics vs. Pistons | Celtics | 1.14 (88¢) | $26,999 | — | ⏳ Pendiente |
-| mooseborzoii | Celtics vs. Pistons | Celtics | 1.23 (81¢) | $33,348 | — | ⏳ Pendiente |
+| 0x6db5…e279 | Celtics vs. Pistons | Celtics | 1.14 (88¢) | $26,999 | -$26,999 | ❌ Perdida |
+| mooseborzoii | Celtics vs. Pistons | Celtics | 1.23 (81¢) | $33,348 | -$33,348 | ❌ Perdida |
 | Anon455 | Will FC Barcelona win on 2026-10-20? | No | 1.30 (77¢) | $30,800 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | UpTheBlues | Will FC Barcelona win on 2026-10-20? | No | 1.27 (79¢) | $25,952 | — | ⏳ Pendiente |
 | 778908 | Will FK Bodø/Glimt win on 2026-10-20? | No | 1.09 (92¢) | $125,566 | — | ⏳ Pendiente |
-| surfandturf | Celtics vs. Pistons | Celtics | 1.89 (53¢) | $25,108 | — | ⏳ Pendiente |
+| surfandturf | Celtics vs. Pistons | Celtics | 1.89 (53¢) | $25,108 | -$25,108 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Under 4.5 | 1.79 (56¢) | $27,962 | — | ⏳ Pendiente |
 | UpTheBlues | Will AS Roma win on 2026-10-20? | Yes | 1.14 (88¢) | $25,393 | +$3,463 | ✅ Ganada |
 | Jokerxing7 | Will FC Barcelona win on 2026-10-20? | Yes | 2.56 (39¢) | $108,333 | — | ⏳ Pendiente |
