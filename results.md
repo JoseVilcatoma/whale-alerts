@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 17:16:40 (hora de Perú)
+Actualizado: 2026-10-20 17:18:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5782**  ($320,460,603 en total)
-- Resueltas: **5733** — 3517 ganadas / 2216 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **5743** — 3523 ganadas / 2220 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 601
 
 ### Balance
 
-- **Resultado de los apostadores: +$326,904** sobre $318,398,280 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,479** sobre $565,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$397,053** sobre $318,819,066 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,159** sobre $566,400 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 408 | 217 | 6 | 65% | $39,855,625 | +$1,131,737 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 408 | 219 | 4 | 65% | $39,855,625 | +$987,309 |
 | Sassy-Bucket | 80 | 75 | 4 | 52% | $9,740,361 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ndb1 | 27 | 12 | 0 | 69% | $2,081,380 | +$511,157 |
-| milkteaboba | 10 | 9 | 1 | 53% | $2,049,274 | -$780,830 |
+| milkteaboba | 10 | 10 | 0 | 50% | $2,049,274 | -$809,216 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Talvez10 | 23 | 18 | 0 | 56% | $1,917,490 | +$324,087 |
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | 0x6db5…e279 | Celtics vs. Pistons | Celtics | 1.35 (74¢) | $25,909 | -$25,909 | ❌ Perdida |
 | mooseborzoii | Celtics vs. Pistons | Celtics | 1.37 (73¢) | $32,321 | -$32,321 | ❌ Perdida |
 | mooseborzoii | Celtics vs. Pistons | Celtics | 1.61 (62¢) | $60,739 | -$60,739 | ❌ Perdida |
-| Woaifacai | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 1.35 (74¢) | $29,488 | — | ⏳ Pendiente |
+| Woaifacai | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 1.35 (74¢) | $29,488 | +$10,361 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Pistons | Celtics | 1.12 (89¢) | $62,306 | -$62,306 | ❌ Perdida |
 | Flaznorp | Will FC Barcelona win on 2026-10-20? | No | 1.10 (91¢) | $81,107 | +$8,022 | ✅ Ganada |
 | 0x6db5…e279 | Celtics vs. Pistons | Celtics | 1.14 (88¢) | $26,999 | -$26,999 | ❌ Perdida |
@@ -97,20 +97,20 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | UpTheBlues | Will FC Barcelona win on 2026-10-20? | No | 1.27 (79¢) | $25,952 | +$6,898 | ✅ Ganada |
 | 778908 | Will FK Bodø/Glimt win on 2026-10-20? | No | 1.09 (92¢) | $125,566 | +$10,919 | ✅ Ganada |
 | surfandturf | Celtics vs. Pistons | Celtics | 1.89 (53¢) | $25,108 | -$25,108 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Under 4.5 | 1.79 (56¢) | $27,962 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Under 4.5 | 1.79 (56¢) | $27,962 | -$27,962 | ❌ Perdida |
 | UpTheBlues | Will AS Roma win on 2026-10-20? | Yes | 1.14 (88¢) | $25,393 | +$3,463 | ✅ Ganada |
 | Jokerxing7 | Will FC Barcelona win on 2026-10-20? | Yes | 2.56 (39¢) | $108,333 | -$108,333 | ❌ Perdida |
-| Jokerxing7 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $39,448 | — | ⏳ Pendiente |
+| Jokerxing7 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $39,448 | +$52,291 | ✅ Ganada |
 | BrotherObama | Wild vs. Oilers: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $26,000 | — | ⏳ Pendiente |
 | SebastianAde1996 | Will Club Atlético de Madrid win on 2026-10-20? | Yes | 2.22 (45¢) | $77,000 | -$77,000 | ❌ Perdida |
 | www511zwin | Spread: Celtics (-1.5) | Celtics | 1.96 (51¢) | $40,914 | -$40,914 | ❌ Perdida |
-| n0tTODAY | Will Paris Saint-Germain FC win on 2026-10-20? | No | 1.69 (59¢) | $28,587 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 2.44 (41¢) | $54,919 | — | ⏳ Pendiente |
-| milkteaboba | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Under 4.5 | 1.75 (57¢) | $28,386 | — | ⏳ Pendiente |
-| nigiri99 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $40,426 | — | ⏳ Pendiente |
+| n0tTODAY | Will Paris Saint-Germain FC win on 2026-10-20? | No | 1.69 (59¢) | $28,587 | -$28,587 | ❌ Perdida |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 2.44 (41¢) | $54,919 | +$79,030 | ✅ Ganada |
+| milkteaboba | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Under 4.5 | 1.75 (57¢) | $28,386 | -$28,386 | ❌ Perdida |
+| nigiri99 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $40,426 | +$53,588 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC vs. FC Barcelona end in a draw? | No | 1.27 (79¢) | $118,898 | +$31,606 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Will FC Porto win on 2026-10-20? | Yes | 1.54 (65¢) | $25,544 | -$25,544 | ❌ Perdida |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 2.44 (41¢) | $28,514 | — | ⏳ Pendiente |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 2.44 (41¢) | $28,514 | +$41,033 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Manchester City FC (-2.5) | AEK | 1.75 (57¢) | $28,500 | -$28,500 | ❌ Perdida |
 | HVAB | Cali: Hugo Dellien vs Juan Manuel La Serna | Juan Manuel La Serna | 1.08 (93¢) | $50,000 | +$3,763 | ✅ Ganada |
 | tenniz | Cali: Hugo Dellien vs Juan Manuel La Serna | Juan Manuel La Serna | 1.12 (89¢) | $91,719 | +$11,336 | ✅ Ganada |
@@ -118,7 +118,7 @@ _(mostrando los 40 de mayor monto, de 601 en total)_
 | ripley86alien | Will SSC Napoli win on 2026-10-20? | Yes | 1.79 (56¢) | $175,643 | +$138,006 | ✅ Ganada |
 | totoro3miyazaki | Will Club Atlético de Madrid win on 2026-10-20? | No | 1.82 (55¢) | $56,823 | +$46,492 | ✅ Ganada |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-10-20? | Yes | 3.33 (30¢) | $202,629 | -$202,629 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC win on 2026-10-20? | No | 1.67 (60¢) | $116,466 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Paris Saint-Germain FC win on 2026-10-20? | No | 1.67 (60¢) | $116,466 | -$116,466 | ❌ Perdida |
 | 1l2ihj34li12u34 | Will SSC Napoli win on 2026-10-20? | No | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
 | jonjones1993 | Will SSC Napoli win on 2026-10-20? | No | 2.22 (45¢) | $54,000 | -$54,000 | ❌ Perdida |
 | sbsigner | Will FC Barcelona win on 2026-10-20? | No | 1.67 (60¢) | $25,103 | +$16,735 | ✅ Ganada |
