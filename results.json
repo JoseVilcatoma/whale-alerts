@@ -86293,5 +86293,35 @@
     "status": "pending",
     "ultimo_fill": 1792520877,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11683,
+    "timestamp": 1792521004,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "ucl-mnc-aek1-2026-10-20-spread-home-2pt5",
+    "title": "Spread: Manchester City FC (-2.5)",
+    "outcome": "AEK",
+    "side": "BUY",
+    "usd": 28499.999999999996,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1792521004,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1792521070,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "ucl-psg-fcb-2026-10-20-psg",
+    "title": "Will Paris Saint-Germain FC win on 2026-10-20?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 28514.28,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1792521070,
+    "fills": 1
   }
 ]
