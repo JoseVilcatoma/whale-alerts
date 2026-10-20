@@ -86428,5 +86428,20 @@
     "status": "pending",
     "ultimo_fill": 1792521964,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11692,
+    "timestamp": 1792522279,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "nhl-min-edm-2026-10-20-total-6pt5",
+    "title": "Wild vs. Oilers: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26000.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1792522279,
+    "fills": 1
   }
 ]
