@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 17:49:00 (hora de Perú)
+Actualizado: 2026-10-21 17:51:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5901**  ($327,154,790 en total)
+- Apuestas registradas: **5902**  ($327,219,570 en total)
 - Resueltas: **5849** — 3585 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 608
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 608 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Grizzlies (-1.5) | Grizzlies | 1.89 (53¢) | $64,779 | — | ⏳ Pendiente |
 | Sassy-Bucket | Jazz vs. Grizzlies | Jazz | 2.22 (45¢) | $76,590 | — | ⏳ Pendiente |
 | www511zwin | Spread: Atlanta Dream (-3.5) | Golden State Valkyries | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
 | googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $47,707 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 608 en total)_
 | YYYYY999 | Counter-Strike: TheMongolz vs PRIVATE (BO3) - 1win Private Club Playoffs | TheMongolz | 1.52 (66¢) | $32,202 | +$16,589 | ✅ Ganada |
 | 778908 | Will Galatasaray SK win on 2026-10-21? | No | 1.61 (62¢) | $27,022 | -$27,022 | ❌ Perdida |
 | shark142 | Will Como 1907 win on 2026-10-21? | No | 1.67 (60¢) | $25,408 | -$25,408 | ❌ Perdida |
-| YYYYY999 | Hawks vs. Magic | Magic | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
