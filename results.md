@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 07:44:42 (hora de Perú)
+Actualizado: 2026-10-21 07:46:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5830**  ($323,159,427 en total)
+- Apuestas registradas: **5831**  ($323,190,299 en total)
 - Resueltas: **5792** — 3549 ganadas / 2243 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 603
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1l2ihj34li12u34 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $30,872 | — | ⏳ Pendiente |
 | tankfest2027 | Valorant: CGN Esports vs Joblife (BO3) - Project Blender Phase 2 Group A | CGN Esports | 1.96 (51¢) | $38,269 | — | ⏳ Pendiente |
 | mooseborzoi | Mavericks vs. Rockets | Rockets | 1.30 (77¢) | $48,074 | — | ⏳ Pendiente |
 | jankysankyclow | W50 Cherbourg-en-Cotentin: Veronika Podrez vs Julia Stusek | Veronika Podrez | 1.09 (92¢) | $92,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 | Sassy-Bucket | Avalanche vs. Devils | Avalanche | 2.08 (48¢) | $50,838 | -$50,838 | ❌ Perdida |
 | 0x6db5…e279 | Celtics vs. Pistons | Pistons | 1.16 (86¢) | $45,967 | +$7,483 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Pistons | Pistons | 1.19 (84¢) | $43,509 | +$8,287 | ✅ Ganada |
-| mooseborzoii | Celtics vs. Pistons | Celtics | 1.39 (72¢) | $28,202 | -$28,202 | ❌ Perdida |
