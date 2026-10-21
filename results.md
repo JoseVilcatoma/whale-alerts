@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 20:32:45 (hora de Perú)
+Actualizado: 2026-10-20 20:34:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5801**  ($321,538,908 en total)
+- Apuestas registradas: **5801**  ($321,572,222 en total)
 - Resueltas: **5743** — 3523 ganadas / 2220 perdidas (**61%** de acierto)
 - Pendientes: 36
 - Apostadores distintos: 602
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | ferrariChampions2026 | 98 | 47 | 1 | 68% | $6,444,374 | +$190,856 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| mooseborzoii | 64 | 40 | 3 | 62% | $6,236,918 | +$647,001 |
+| mooseborzoii | 64 | 40 | 3 | 62% | $6,270,232 | +$647,001 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Knicks | Knicks | 2.17 (46¢) | $36,103 | — | ⏳ Pendiente |
-| mooseborzoii | 76ers vs. Knicks | 76ers | 1.85 (54¢) | $128,333 | — | ⏳ Pendiente |
+| mooseborzoii | 76ers vs. Knicks | 76ers | 1.85 (54¢) | $161,647 | — | ⏳ Pendiente |
 | ethanaz | 76ers vs. Knicks | Knicks | 2.94 (34¢) | $103,312 | — | ⏳ Pendiente |
 | Jokerxing7 | Thunder vs. Spurs | Spurs | 2.00 (50¢) | $171,826 | — | ⏳ Pendiente |
 | mooseborzoii | 76ers vs. Knicks | 76ers | 1.61 (62¢) | $73,668 | — | ⏳ Pendiente |
