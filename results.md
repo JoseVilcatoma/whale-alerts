@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 05:11:11 (hora de Perú)
+Actualizado: 2026-10-21 05:13:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5825**  ($322,923,925 en total)
+- Apuestas registradas: **5826**  ($322,952,648 en total)
 - Resueltas: **5792** — 3549 ganadas / 2243 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 602
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 414 | 220 | 4 | 65% | $40,326,479 | +$1,123,804 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 414 | 220 | 5 | 65% | $40,355,202 | +$1,123,804 |
 | Sassy-Bucket | 81 | 77 | 2 | 51% | $9,774,213 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,723 | — | ⏳ Pendiente |
 | crisp1973 | Will FC Bayern München win on 2026-10-21? | No | 1.82 (55¢) | $40,397 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Arsenal FC win on 2026-10-21? | Yes | 3.33 (30¢) | $114,950 | — | ⏳ Pendiente |
 | Jokerxing7 | Will Como 1907 win on 2026-10-21? | Yes | 2.33 (43¢) | $33,269 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | 0x6db5…e279 | Celtics vs. Pistons | Celtics | 1.35 (74¢) | $25,909 | -$25,909 | ❌ Perdida |
 | mooseborzoii | Celtics vs. Pistons | Celtics | 1.37 (73¢) | $32,321 | -$32,321 | ❌ Perdida |
 | mooseborzoii | Celtics vs. Pistons | Celtics | 1.61 (62¢) | $60,739 | -$60,739 | ❌ Perdida |
-| Woaifacai | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 1.35 (74¢) | $29,488 | +$10,361 | ✅ Ganada |
