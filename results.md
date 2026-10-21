@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 15:18:49 (hora de Perú)
+Actualizado: 2026-10-21 15:20:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5874**  ($325,674,101 en total)
-- Resueltas: **5804** — 3556 ganadas / 2248 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Resueltas: **5805** — 3557 ganadas / 2248 perdidas (**61%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 606
 
 ### Balance
 
-- **Resultado de los apostadores: +$164,607** sobre $321,837,504 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,563** sobre $572,500 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$181,195** sobre $321,869,706 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,511** sobre $572,600 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Lakersfan111 | 62 | 41 | 3 | 60% | $5,294,990 | -$14,060 |
+| Lakersfan111 | 63 | 41 | 2 | 61% | $5,294,990 | +$2,529 |
 | ethanaz | 56 | 24 | 0 | 70% | $4,987,152 | -$219,067 |
 | BrotherObama | 45 | 49 | 3 | 48% | $4,296,413 | -$107,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | LakersOlga | Will Club Brugge KV win on 2026-10-21? | Yes | 1.89 (53¢) | $26,397 | — | ⏳ Pendiente |
 | QVanguard | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $142,588 | — | ⏳ Pendiente |
 | YYYYY999 | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $62,746 | — | ⏳ Pendiente |
-| YYYYY999 | Counter-Strike: TheMongolz vs PRIVATE (BO3) - 1win Private Club Playoffs | TheMongolz | 1.52 (66¢) | $32,202 | — | ⏳ Pendiente |
+| YYYYY999 | Counter-Strike: TheMongolz vs PRIVATE (BO3) - 1win Private Club Playoffs | TheMongolz | 1.52 (66¢) | $32,202 | +$16,589 | ✅ Ganada |
 | 778908 | Will Galatasaray SK win on 2026-10-21? | No | 1.61 (62¢) | $27,022 | -$27,022 | ❌ Perdida |
 | shark142 | Will Como 1907 win on 2026-10-21? | No | 1.67 (60¢) | $25,408 | -$25,408 | ❌ Perdida |
 | YYYYY999 | Hawks vs. Magic | Magic | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
