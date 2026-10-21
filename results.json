@@ -88663,5 +88663,20 @@
     "status": "pending",
     "ultimo_fill": 1792622126,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 12002,
+    "timestamp": 1792622684,
+    "username": "www511zwin",
+    "wallet": "0x93683d55f0ea67212bc179e9802f00e271c9f390",
+    "slug": "wnba-gsv-atl-2026-10-21-spread-home-3pt5",
+    "title": "Spread: Atlanta Dream (-3.5)",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "usd": 40000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792622684,
+    "fills": 1
   }
 ]

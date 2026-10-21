@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 17:42:54 (hora de Perú)
+Actualizado: 2026-10-21 17:44:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5899**  ($327,038,200 en total)
+- Apuestas registradas: **5900**  ($327,078,200 en total)
 - Resueltas: **5849** — 3585 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 608
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 608 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| www511zwin | Spread: Atlanta Dream (-3.5) | Golden State Valkyries | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
 | googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $47,707 | — | ⏳ Pendiente |
 | googleplay | Jazz vs. Grizzlies | Grizzlies | 1.85 (54¢) | $245,882 | — | ⏳ Pendiente |
 | OhWhenTheReds | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.82 (55¢) | $32,278 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 608 en total)_
 | shark142 | Will Como 1907 win on 2026-10-21? | No | 1.67 (60¢) | $25,408 | -$25,408 | ❌ Perdida |
 | YYYYY999 | Hawks vs. Magic | Magic | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | milkteaboba | Como 1907 vs. Manchester United FC: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $29,404 | -$29,404 | ❌ Perdida |
-| Zzzz87 | Como 1907 vs. Manchester United FC: O/U 3.5 | Over 3.5 | 2.38 (42¢) | $36,018 | +$49,739 | ✅ Ganada |
