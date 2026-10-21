@@ -88678,5 +88678,20 @@
     "status": "pending",
     "ultimo_fill": 1792622684,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12003,
+    "timestamp": 1792622932,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nba-uta-mem-2026-10-21",
+    "title": "Jazz vs. Grizzlies",
+    "outcome": "Jazz",
+    "side": "BUY",
+    "usd": 76590.45,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1792622938,
+    "fills": 2
   }
 ]
