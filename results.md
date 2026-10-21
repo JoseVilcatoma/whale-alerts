@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 13:49:43 (hora de Perú)
+Actualizado: 2026-10-21 13:51:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5861**  ($324,636,716 en total)
+- Apuestas registradas: **5862**  ($324,752,492 en total)
 - Resueltas: **5795** — 3551 ganadas / 2244 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 605
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 605 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $115,776 | — | ⏳ Pendiente |
 | 778908 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.27 (79¢) | $126,390 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Club Brugge KV win on 2026-10-21? | No | 2.27 (44¢) | $75,818 | — | ⏳ Pendiente |
 | Flaznorp | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $25,534 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 605 en total)_
 | suntori | 76ers vs. Knicks | Knicks | 2.94 (34¢) | $32,718 | -$32,718 | ❌ Perdida |
 | RJW1 | Will FC Bayern München win on 2026-10-21? | Yes | 2.13 (47¢) | $29,098 | — | ⏳ Pendiente |
 | Jokerxing7 | Thunder vs. Spurs | Spurs | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
-| mooseborzoii | 76ers vs. Knicks | 76ers | 1.41 (71¢) | $29,276 | +$11,958 | ✅ Ganada |

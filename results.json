@@ -88093,5 +88093,20 @@
     "status": "pending",
     "ultimo_fill": 1792608098,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 11909,
+    "timestamp": 1792608700,
+    "username": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "slug": "ucl-bay-ars-2026-10-21-bay",
+    "title": "Will FC Bayern M\u00fcnchen win on 2026-10-21?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 115775.5,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792608700,
+    "fills": 1
   }
 ]
