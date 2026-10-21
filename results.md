@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 21:58:13 (hora de Perú)
+Actualizado: 2026-10-20 22:00:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5816**  ($322,302,932 en total)
+- Apuestas registradas: **5817**  ($322,399,959 en total)
 - Resueltas: **5776** — 3537 ganadas / 2239 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 602
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 411 | 220 | 4 | 65% | $40,083,577 | +$1,083,289 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 411 | 220 | 5 | 65% | $40,180,604 | +$1,083,289 |
 | Sassy-Bucket | 81 | 77 | 2 | 51% | $9,774,213 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.14 (88¢) | $97,027 | — | ⏳ Pendiente |
 | LlamaEnjoyer | Thunder vs. Spurs | Thunder | 1.12 (89¢) | $76,903 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Thunder vs. Spurs | Thunder | 1.11 (90¢) | $34,305 | — | ⏳ Pendiente |
 | RJW1 | Will FC Bayern München win on 2026-10-21? | Yes | 2.13 (47¢) | $157,067 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | monkeymashingkeyboard | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
 | UpTheBlues | Will FC Barcelona win on 2026-10-20? | No | 1.27 (79¢) | $25,952 | +$6,898 | ✅ Ganada |
 | 778908 | Will FK Bodø/Glimt win on 2026-10-20? | No | 1.09 (92¢) | $125,566 | +$10,919 | ✅ Ganada |
-| surfandturf | Celtics vs. Pistons | Celtics | 1.89 (53¢) | $25,108 | -$25,108 | ❌ Perdida |
