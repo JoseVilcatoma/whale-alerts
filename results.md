@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 14:19:00 (hora de Perú)
+Actualizado: 2026-10-21 14:21:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5874**  ($325,674,101 en total)
-- Resueltas: **5802** — 3555 ganadas / 2247 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Resueltas: **5803** — 3556 ganadas / 2247 perdidas (**61%** de acierto)
+- Pendientes: 49
 - Apostadores distintos: 606
 
 ### Balance
 
-- **Resultado de los apostadores: +$183,592** sobre $321,743,481 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,559** sobre $572,300 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$220,361** sobre $321,781,750 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,463** sobre $572,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -115,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | 01258787xy48487484545122 | Ningbo Open: Ekaterina Alexandrova vs Marta Kostyuk | Ekaterina Alexandrova | 1.23 (81¢) | $74,933 | +$17,577 | ✅ Ganada |
 | rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $55,176 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $30,872 | — | ⏳ Pendiente |
-| tankfest2027 | Valorant: CGN Esports vs Joblife (BO3) - Project Blender Phase 2 Group A | CGN Esports | 1.96 (51¢) | $38,269 | — | ⏳ Pendiente |
+| tankfest2027 | Valorant: CGN Esports vs Joblife (BO3) - Project Blender Phase 2 Group A | CGN Esports | 1.96 (51¢) | $38,269 | +$36,769 | ✅ Ganada |
 | mooseborzoi | Mavericks vs. Rockets | Rockets | 1.30 (77¢) | $48,074 | — | ⏳ Pendiente |
 | jankysankyclow | W50 Cherbourg-en-Cotentin: Veronika Podrez vs Julia Stusek | Veronika Podrez | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,435 | — | ⏳ Pendiente |
