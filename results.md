@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 15:41:39 (hora de Perú)
+Actualizado: 2026-10-21 15:43:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5877**  ($325,835,628 en total)
+- Apuestas registradas: **5879**  ($325,903,935 en total)
 - Resueltas: **5805** — 3557 ganadas / 2248 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 52
 - Apostadores distintos: 606
 
 ### Balance
@@ -31,8 +31,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 35 | 22 | 2 | 61% | $7,038,780 | -$579,913 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | ferrariChampions2026 | 98 | 48 | 0 | 67% | $6,444,374 | +$157,963 |
+| mooseborzoii | 69 | 40 | 2 | 63% | $6,421,774 | +$885,493 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| mooseborzoii | 69 | 40 | 1 | 63% | $6,387,698 | +$885,493 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Kings vs. Clippers | Clippers | 1.56 (64¢) | $34,076 | — | ⏳ Pendiente |
+| Flaznorp | Will FC Bayern München win on 2026-10-21? | No | 1.23 (81¢) | $34,231 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.25 (80¢) | $103,193 | — | ⏳ Pendiente |
 | Flaznorp | Will FC Bayern München win on 2026-10-21? | Yes | 1.41 (71¢) | $27,294 | — | ⏳ Pendiente |
 | RN1 | Will Sporting CP vs. LASK Linz end in a draw? | No | 1.54 (65¢) | $31,040 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | Jokerxing7 | Will Como 1907 win on 2026-10-21? | Yes | 2.33 (43¢) | $48,505 | +$64,297 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 4.5 | Under 4.5 | 1.54 (65¢) | $94,304 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.09 (92¢) | $51,571 | +$4,484 | ✅ Ganada |
-| CHZHSHCH | Thunder vs. Spurs | Thunder | 1.08 (93¢) | $106,196 | +$7,993 | ✅ Ganada |
-| 0x6db5…e279 | Thunder vs. Spurs | Thunder | 1.33 (75¢) | $34,775 | +$11,592 | ✅ Ganada |
