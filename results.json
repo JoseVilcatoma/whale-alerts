@@ -88830,5 +88830,20 @@
     "status": "pending",
     "ultimo_fill": 1792625659,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12015,
+    "timestamp": 1792626439,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-ind-nop-2026-10-21",
+    "title": "Pacers vs. Pelicans",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 129443.0445,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1792626439,
+    "fills": 1
   }
 ]
