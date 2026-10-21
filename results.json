@@ -88198,5 +88198,20 @@
     "status": "pending",
     "ultimo_fill": 1792609162,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11923,
+    "timestamp": 1792609267,
+    "username": "Anon455",
+    "wallet": "0x496121ba250d47b62c2d84b3414a99aeeacade13",
+    "slug": "ucl-bay-ars-2026-10-21-ars",
+    "title": "Will Arsenal FC win on 2026-10-21?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 26337.306600000004,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1792609267,
+    "fills": 1
   }
 ]

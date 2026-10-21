@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 14:00:00 (hora de Perú)
+Actualizado: 2026-10-21 14:02:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5868**  ($325,230,824 en total)
+- Apuestas registradas: **5869**  ($325,257,162 en total)
 - Resueltas: **5802** — 3555 ganadas / 2247 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 606
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Anon455 | Will Arsenal FC win on 2026-10-21? | No | 1.52 (66¢) | $26,337 | — | ⏳ Pendiente |
 | ndb1 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $51,637 | — | ⏳ Pendiente |
 | ndb1 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $93,144 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.35 (74¢) | $190,423 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.61 (62¢) | $37,200 | +$22,800 | ✅ Ganada |
 | mooseborzoii | Thunder vs. Spurs | Thunder | 1.59 (63¢) | $29,426 | +$17,282 | ✅ Ganada |
 | Woaifacai | Thunder vs. Spurs | Thunder | 1.79 (56¢) | $35,340 | +$27,767 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Knicks | 76ers | 1.12 (89¢) | $81,598 | +$10,085 | ✅ Ganada |
