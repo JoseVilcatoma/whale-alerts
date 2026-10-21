@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 18:25:10 (hora de Perú)
+Actualizado: 2026-10-21 18:27:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5908**  ($327,706,394 en total)
+- Apuestas registradas: **5909**  ($327,784,875 en total)
 - Resueltas: **5850** — 3586 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 609
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $78,481 | — | ⏳ Pendiente |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $235,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Hornets (-1.5) | Nets | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Bucks vs. Wizards | Bucks | 2.50 (40¢) | $80,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 | tin54321 | Jazz vs. Grizzlies: O/U 244.5 | Under 244.5 | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
 | rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $33,045 | +$34,393 | ✅ Ganada |
 | RJW1 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Over 4.5 | 2.17 (46¢) | $74,163 | +$87,061 | ✅ Ganada |
-| tin54321 | Hornets vs. Nets: O/U 216.5 | Over 216.5 | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
