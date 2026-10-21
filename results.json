@@ -87688,5 +87688,35 @@
     "status": "pending",
     "ultimo_fill": 1792589868,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11878,
+    "timestamp": 1792590484,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "atp-wawrink-landalu-2026-10-19",
+    "title": "Lyon Open: Stan Wawrinka vs Martin Landaluce",
+    "outcome": "Martin Landaluce",
+    "side": "BUY",
+    "usd": 37626.5654,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1792590484,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11879,
+    "timestamp": 1792590567,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "ucl-ast-vf-2026-10-21-draw",
+    "title": "Will Aston Villa FC vs. Viking FK end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 30357.098229000003,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1792590567,
+    "fills": 1
   }
 ]

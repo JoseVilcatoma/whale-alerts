@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 08:47:47 (hora de Perú)
+Actualizado: 2026-10-21 08:49:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5834**  ($323,353,237 en total)
+- Apuestas registradas: **5836**  ($323,421,221 en total)
 - Resueltas: **5792** — 3549 ganadas / 2243 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 22
 - Apostadores distintos: 603
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AnonymousUsername | Will Aston Villa FC vs. Viking FK end in a draw? | No | 1.16 (86¢) | $30,357 | — | ⏳ Pendiente |
+| Woaifacai | Lyon Open: Stan Wawrinka vs Martin Landaluce | Martin Landaluce | 1.56 (64¢) | $37,627 | — | ⏳ Pendiente |
 | AnonymousUsername | Will Viking FK win on 2026-10-21? | No | 1.09 (92¢) | $32,829 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Ningbo Open: Ekaterina Alexandrova vs Marta Kostyuk | Ekaterina Alexandrova | 1.23 (81¢) | $74,933 | — | ⏳ Pendiente |
 | rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $55,176 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 | Sassy-Bucket | Avalanche vs. Devils | Avalanche | 2.04 (49¢) | $106,733 | -$106,733 | ❌ Perdida |
 | Jokerxing7 | 76ers vs. Knicks: O/U 231.5 | Over 231.5 | 2.00 (50¢) | $55,388 | -$55,388 | ❌ Perdida |
 | Zzzz87 | Missouri State vs. Delaware | Delaware | 1.69 (59¢) | $28,107 | +$19,532 | ✅ Ganada |
-| monkeymashingkeyboard | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
-| Jokerxing7 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $43,781 | -$43,781 | ❌ Perdida |
