@@ -88288,5 +88288,20 @@
     "status": "pending",
     "ultimo_fill": 1792610045,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11933,
+    "timestamp": 1792614124,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "ucl-spo-lin2-2026-10-21-draw",
+    "title": "Will Sporting CP vs. LASK Linz end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 31040.100000000002,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1792614124,
+    "fills": 1
   }
 ]
