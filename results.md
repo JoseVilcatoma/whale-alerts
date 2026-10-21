@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 12:24:40 (hora de Perú)
+Actualizado: 2026-10-21 12:26:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5847**  ($323,913,744 en total)
+- Apuestas registradas: **5848**  ($323,940,141 en total)
 - Resueltas: **5795** — 3551 ganadas / 2244 perdidas (**61%** de acierto)
-- Pendientes: 30
-- Apostadores distintos: 603
+- Pendientes: 31
+- Apostadores distintos: 604
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 31 | 16 | 0 | 66% | $1,825,045 | -$150,964 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 
-_(mostrando los 40 de mayor monto, de 603 en total)_
+_(mostrando los 40 de mayor monto, de 604 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| LakersOlga | Will Club Brugge KV win on 2026-10-21? | Yes | 1.89 (53¢) | $26,397 | — | ⏳ Pendiente |
 | QVanguard | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $142,588 | — | ⏳ Pendiente |
 | YYYYY999 | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $62,746 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: TheMongolz vs PRIVATE (BO3) - 1win Private Club Playoffs | TheMongolz | 1.52 (66¢) | $32,202 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $27,151 | -$27,151 | ❌ Perdida |
 | Woaifacai | Spread: Knicks (-4.5) | Knicks | 1.96 (51¢) | $27,214 | -$27,214 | ❌ Perdida |
 | Sassy-Bucket | Missouri State vs. Delaware | Delaware | 1.67 (60¢) | $33,852 | +$22,568 | ✅ Ganada |
-| surfandturf | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $38,000 | +$62,000 | ✅ Ganada |

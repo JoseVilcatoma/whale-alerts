@@ -87883,5 +87883,20 @@
     "status": "pending",
     "ultimo_fill": 1792603478,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 11895,
+    "timestamp": 1792603577,
+    "username": "LakersOlga",
+    "wallet": "0xe8fcfdb0c2df34287d471aac15f24f853b33e664",
+    "slug": "ucl-bru-rcl-2026-10-21-bru",
+    "title": "Will Club Brugge KV win on 2026-10-21?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 26397.420000000002,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792603577,
+    "fills": 1
   }
 ]
