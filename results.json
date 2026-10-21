@@ -87505,7 +87505,7 @@
     "side": "BUY",
     "usd": 48504.816999999995,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792562673,
     "fills": 1
   },
@@ -87520,7 +87520,7 @@
     "side": "BUY",
     "usd": 33268.9022,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792563066,
     "fills": 1
   },
@@ -87820,7 +87820,7 @@
     "side": "BUY",
     "usd": 25407.972,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792600889,
     "fills": 1
   },
@@ -87835,7 +87835,7 @@
     "side": "BUY",
     "usd": 27022.12894776,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792602204,
     "fills": 1
   },
@@ -88107,6 +88107,51 @@
     "odds_at_bet": 60,
     "status": "pending",
     "ultimo_fill": 1792608700,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11910,
+    "timestamp": 1792609009,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ucl-rma-rbl-2026-10-21-total-4pt5",
+    "title": "Real Madrid CF vs. RB Leipzig: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 53000.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792609009,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11914,
+    "timestamp": 1792609040,
+    "username": "SparYel",
+    "wallet": "0xa164b901678d14b57b89a8d4e928956fe46a8b02",
+    "slug": "ucl-int-shd-2026-10-21-total-3pt5",
+    "title": "FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 32128.413,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792609040,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11915,
+    "timestamp": 1792609053,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ucl-rma-rbl-2026-10-21-spread-home-2pt5",
+    "title": "Spread: Real Madrid CF (-2.5)",
+    "outcome": "RB Leipzig",
+    "side": "BUY",
+    "usd": 57999.99999999999,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1792609053,
     "fills": 1
   }
 ]

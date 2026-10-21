@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 13:55:52 (hora de Perú)
+Actualizado: 2026-10-21 13:57:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5862**  ($324,752,492 en total)
-- Resueltas: **5795** — 3551 ganadas / 2244 perdidas (**61%** de acierto)
-- Pendientes: 45
-- Apostadores distintos: 605
+- Apuestas registradas: **5865**  ($324,895,620 en total)
+- Resueltas: **5799** — 3553 ganadas / 2246 perdidas (**61%** de acierto)
+- Pendientes: 44
+- Apostadores distintos: 606
 
 ### Balance
 
-- **Resultado de los apostadores: +$68,318** sobre $321,516,774 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,806** sobre $571,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$124,286** sobre $321,650,978 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,741** sobre $572,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 414 | 220 | 6 | 65% | $40,383,637 | +$1,123,804 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 414 | 220 | 8 | 65% | $40,494,637 | +$1,123,804 |
 | Sassy-Bucket | 81 | 77 | 2 | 51% | $9,774,213 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 31 | 16 | 0 | 66% | $1,825,045 | -$150,964 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 
-_(mostrando los 40 de mayor monto, de 605 en total)_
+_(mostrando los 40 de mayor monto, de 606 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $58,000 | — | ⏳ Pendiente |
+| SparYel | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $32,128 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $115,776 | — | ⏳ Pendiente |
 | 778908 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.27 (79¢) | $126,390 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Club Brugge KV win on 2026-10-21? | No | 2.27 (44¢) | $75,818 | — | ⏳ Pendiente |
@@ -89,8 +92,8 @@ _(mostrando los 40 de mayor monto, de 605 en total)_
 | QVanguard | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $142,588 | — | ⏳ Pendiente |
 | YYYYY999 | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $62,746 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: TheMongolz vs PRIVATE (BO3) - 1win Private Club Playoffs | TheMongolz | 1.52 (66¢) | $32,202 | — | ⏳ Pendiente |
-| 778908 | Will Galatasaray SK win on 2026-10-21? | No | 1.61 (62¢) | $27,022 | — | ⏳ Pendiente |
-| shark142 | Will Como 1907 win on 2026-10-21? | No | 1.67 (60¢) | $25,408 | — | ⏳ Pendiente |
+| 778908 | Will Galatasaray SK win on 2026-10-21? | No | 1.61 (62¢) | $27,022 | -$27,022 | ❌ Perdida |
+| shark142 | Will Como 1907 win on 2026-10-21? | No | 1.67 (60¢) | $25,408 | -$25,408 | ❌ Perdida |
 | YYYYY999 | Hawks vs. Magic | Magic | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | milkteaboba | Como 1907 vs. Manchester United FC: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $29,404 | — | ⏳ Pendiente |
 | Zzzz87 | Como 1907 vs. Manchester United FC: O/U 3.5 | Over 3.5 | 2.38 (42¢) | $36,018 | — | ⏳ Pendiente |
@@ -110,8 +113,8 @@ _(mostrando los 40 de mayor monto, de 605 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,723 | — | ⏳ Pendiente |
 | crisp1973 | Will FC Bayern München win on 2026-10-21? | No | 1.82 (55¢) | $40,397 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Arsenal FC win on 2026-10-21? | Yes | 3.33 (30¢) | $114,950 | — | ⏳ Pendiente |
-| Jokerxing7 | Will Como 1907 win on 2026-10-21? | Yes | 2.33 (43¢) | $33,269 | — | ⏳ Pendiente |
-| Jokerxing7 | Will Como 1907 win on 2026-10-21? | Yes | 2.33 (43¢) | $48,505 | — | ⏳ Pendiente |
+| Jokerxing7 | Will Como 1907 win on 2026-10-21? | Yes | 2.33 (43¢) | $33,269 | +$44,101 | ✅ Ganada |
+| Jokerxing7 | Will Como 1907 win on 2026-10-21? | Yes | 2.33 (43¢) | $48,505 | +$64,297 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 4.5 | Under 4.5 | 1.54 (65¢) | $94,304 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.09 (92¢) | $51,571 | +$4,484 | ✅ Ganada |
 | CHZHSHCH | Thunder vs. Spurs | Thunder | 1.08 (93¢) | $106,196 | +$7,993 | ✅ Ganada |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 605 en total)_
 | Jokerxing7 | Thunder vs. Spurs: O/U 230.5 | Over 230.5 | 2.08 (48¢) | $47,495 | -$47,495 | ❌ Perdida |
 | Jokerxing7 | Thunder vs. Spurs: O/U 230.5 | Under 230.5 | 1.92 (52¢) | $27,719 | +$25,586 | ✅ Ganada |
 | curie | 76ers vs. Knicks | 76ers | 1.25 (80¢) | $28,800 | +$7,200 | ✅ Ganada |
-| suntori | 76ers vs. Knicks | Knicks | 2.94 (34¢) | $32,718 | -$32,718 | ❌ Perdida |
-| RJW1 | Will FC Bayern München win on 2026-10-21? | Yes | 2.13 (47¢) | $29,098 | — | ⏳ Pendiente |
-| Jokerxing7 | Thunder vs. Spurs | Spurs | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
