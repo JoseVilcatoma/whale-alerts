@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 21:56:12 (hora de Perú)
+Actualizado: 2026-10-20 21:58:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5815**  ($322,226,029 en total)
+- Apuestas registradas: **5816**  ($322,302,932 en total)
 - Resueltas: **5776** — 3537 ganadas / 2239 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 602
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| LlamaEnjoyer | Thunder vs. Spurs | Thunder | 1.12 (89¢) | $76,903 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Thunder vs. Spurs | Thunder | 1.11 (90¢) | $34,305 | — | ⏳ Pendiente |
 | RJW1 | Will FC Bayern München win on 2026-10-21? | Yes | 2.13 (47¢) | $157,067 | — | ⏳ Pendiente |
 | mooseborzoii | Thunder vs. Spurs | Thunder | 1.45 (69¢) | $58,763 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | UpTheBlues | Will FC Barcelona win on 2026-10-20? | No | 1.27 (79¢) | $25,952 | +$6,898 | ✅ Ganada |
 | 778908 | Will FK Bodø/Glimt win on 2026-10-20? | No | 1.09 (92¢) | $125,566 | +$10,919 | ✅ Ganada |
 | surfandturf | Celtics vs. Pistons | Celtics | 1.89 (53¢) | $25,108 | -$25,108 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Under 4.5 | 1.79 (56¢) | $27,962 | -$27,962 | ❌ Perdida |
