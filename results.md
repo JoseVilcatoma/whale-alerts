@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 21:20:35 (hora de Perú)
+Actualizado: 2026-10-20 21:22:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5812**  ($321,975,893 en total)
-- Resueltas: **5747** — 3525 ganadas / 2222 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Resueltas: **5756** — 3527 ganadas / 2229 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 602
 
 ### Balance
 
-- **Resultado de los apostadores: +$370,420** sobre $319,089,434 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,130** sobre $566,800 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$228,400** sobre $319,427,932 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,630** sobre $567,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 409 | 219 | 7 | 65% | $40,083,577 | +$1,036,256 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 410 | 219 | 6 | 65% | $40,083,577 | +$1,109,307 |
 | Sassy-Bucket | 80 | 77 | 3 | 51% | $9,774,213 | -$771,841 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 22 | 1 | 61% | $6,923,829 | -$579,913 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
-| ferrariChampions2026 | 98 | 47 | 1 | 68% | $6,444,374 | +$190,856 |
+| ferrariChampions2026 | 98 | 48 | 0 | 67% | $6,444,374 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | mooseborzoii | 64 | 40 | 5 | 62% | $6,328,934 | +$647,001 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
@@ -93,22 +93,22 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.67 (60¢) | $94,200 | — | ⏳ Pendiente |
 | yabanci | Spread: Knicks (-2.5) | 76ers | 2.33 (43¢) | $61,852 | +$81,990 | ✅ Ganada |
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $27,151 | — | ⏳ Pendiente |
-| Woaifacai | Spread: Knicks (-4.5) | Knicks | 1.96 (51¢) | $27,214 | — | ⏳ Pendiente |
+| Woaifacai | Spread: Knicks (-4.5) | Knicks | 1.96 (51¢) | $27,214 | -$27,214 | ❌ Perdida |
 | Sassy-Bucket | Missouri State vs. Delaware | Delaware | 1.67 (60¢) | $33,852 | — | ⏳ Pendiente |
 | surfandturf | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $32,894 | — | ⏳ Pendiente |
-| www511zwin | Spread: Knicks (-4.5) | 76ers | 2.00 (50¢) | $25,189 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-4.5) | 76ers | 2.00 (50¢) | $73,051 | — | ⏳ Pendiente |
-| 0x8efa…894c | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $25,500 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $32,894 | -$32,894 | ❌ Perdida |
+| www511zwin | Spread: Knicks (-4.5) | 76ers | 2.00 (50¢) | $25,189 | +$25,189 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-4.5) | 76ers | 2.00 (50¢) | $73,051 | +$73,051 | ✅ Ganada |
+| 0x8efa…894c | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $25,500 | -$25,500 | ❌ Perdida |
 | 0x8efa…894c | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $25,403 | — | ⏳ Pendiente |
-| Jokerxing7 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $28,888 | — | ⏳ Pendiente |
-| Jokerxing7 | 76ers vs. Knicks: O/U 231.5 | Over 231.5 | 2.00 (50¢) | $26,593 | — | ⏳ Pendiente |
+| Jokerxing7 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $28,888 | -$28,888 | ❌ Perdida |
+| Jokerxing7 | 76ers vs. Knicks: O/U 231.5 | Over 231.5 | 2.00 (50¢) | $26,593 | -$26,593 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Avalanche vs. Devils | Devils | 1.96 (51¢) | $50,945 | +$48,947 | ✅ Ganada |
 | Sassy-Bucket | Avalanche vs. Devils | Avalanche | 2.04 (49¢) | $106,733 | -$106,733 | ❌ Perdida |
-| Jokerxing7 | 76ers vs. Knicks: O/U 231.5 | Over 231.5 | 2.00 (50¢) | $55,388 | — | ⏳ Pendiente |
+| Jokerxing7 | 76ers vs. Knicks: O/U 231.5 | Over 231.5 | 2.00 (50¢) | $55,388 | -$55,388 | ❌ Perdida |
 | Zzzz87 | Missouri State vs. Delaware | Delaware | 1.69 (59¢) | $28,107 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
-| Jokerxing7 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $43,781 | — | ⏳ Pendiente |
+| Jokerxing7 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $43,781 | -$43,781 | ❌ Perdida |
 | Sassy-Bucket | Avalanche vs. Devils | Avalanche | 2.08 (48¢) | $50,838 | -$50,838 | ❌ Perdida |
 | 0x6db5…e279 | Celtics vs. Pistons | Pistons | 1.16 (86¢) | $45,967 | +$7,483 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Pistons | Pistons | 1.19 (84¢) | $43,509 | +$8,287 | ✅ Ganada |
