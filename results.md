@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 18:33:31 (hora de Perú)
+Actualizado: 2026-10-21 18:35:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5909**  ($327,784,875 en total)
+- Apuestas registradas: **5910**  ($327,889,877 en total)
 - Resueltas: **5850** — 3586 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 609
 
 ### Balance
@@ -30,8 +30,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
+| mooseborzoii | 69 | 40 | 3 | 63% | $6,526,776 | +$885,493 |
 | ferrariChampions2026 | 98 | 48 | 0 | 67% | $6,444,374 | +$157,963 |
-| mooseborzoii | 69 | 40 | 2 | 63% | $6,421,774 | +$885,493 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Panthers vs. Senators | Senators | 2.04 (49¢) | $105,002 | — | ⏳ Pendiente |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $78,481 | — | ⏳ Pendiente |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $235,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Hornets (-1.5) | Nets | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 | nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $100,000 | +$78,571 | ✅ Ganada |
 | tin54321 | Jazz vs. Grizzlies: O/U 244.5 | Under 244.5 | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
 | rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $33,045 | +$34,393 | ✅ Ganada |
-| RJW1 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Over 4.5 | 2.17 (46¢) | $74,163 | +$87,061 | ✅ Ganada |
