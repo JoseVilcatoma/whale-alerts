@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 16:23:02 (hora de Perú)
+Actualizado: 2026-10-21 16:25:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5882**  ($326,009,046 en total)
-- Resueltas: **5830** — 3572 ganadas / 2258 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Apuestas registradas: **5883**  ($326,055,942 en total)
+- Resueltas: **5833** — 3573 ganadas / 2260 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 606
 
 ### Balance
 
-- **Resultado de los apostadores: +$442,005** sobre $323,420,351 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,262** sobre $575,100 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$312,598** sobre $323,589,663 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,411** sobre $575,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 81 | 77 | 2 | 51% | $9,774,213 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| totoro3miyazaki | 35 | 22 | 2 | 61% | $7,038,780 | -$579,913 |
+| totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | ferrariChampions2026 | 98 | 48 | 0 | 67% | $6,444,374 | +$157,963 |
 | mooseborzoii | 69 | 40 | 2 | 63% | $6,421,774 | +$885,493 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 778908 | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.06 (94¢) | $46,896 | — | ⏳ Pendiente |
 | bluemario | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.49 (67¢) | $34,362 | — | ⏳ Pendiente |
 | Anon455 | Will FC Bayern München win on 2026-10-21? | No | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
 | texaskid | Spread: Wizards (-4.5) | Bucks | 2.00 (50¢) | $33,949 | — | ⏳ Pendiente |
@@ -81,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | RN1 | Will Sporting CP vs. LASK Linz end in a draw? | No | 1.54 (65¢) | $31,040 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Aston Villa FC (-2.5) | Viking FK | 1.67 (60¢) | $46,278 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Club Brugge KV vs. Racing Club de Lens: O/U 3.5 | Under 3.5 | 1.75 (57¢) | $26,457 | +$19,959 | ✅ Ganada |
-| Anon455 | Will Arsenal FC win on 2026-10-21? | No | 1.52 (66¢) | $26,337 | — | ⏳ Pendiente |
+| Anon455 | Will Arsenal FC win on 2026-10-21? | No | 1.52 (66¢) | $26,337 | +$13,568 | ✅ Ganada |
 | Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.38 (42¢) | $118,565 | +$163,732 | ✅ Ganada |
 | ndb1 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $51,637 | -$51,637 | ❌ Perdida |
 | Jokerxing7 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Over 4.5 | 2.13 (47¢) | $158,733 | +$178,997 | ✅ Ganada |
@@ -99,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $43,567 | +$34,231 | ✅ Ganada |
 | tin54321 | Lisbon: Marco Trungelliti vs Carlo Alberto Caniato | Carlo Alberto Caniato | 1.23 (81¢) | $55,754 | -$55,754 | ❌ Perdida |
 | nb1985 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $50,000 | +$33,333 | ✅ Ganada |
-| Theshorty | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 1.69 (59¢) | $28,025 | — | ⏳ Pendiente |
+| Theshorty | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 1.69 (59¢) | $28,025 | -$28,025 | ❌ Perdida |
 | nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $100,000 | +$78,571 | ✅ Ganada |
 | tin54321 | Jazz vs. Grizzlies: O/U 244.5 | Under 244.5 | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
 | rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $33,045 | +$34,393 | ✅ Ganada |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,435 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,723 | — | ⏳ Pendiente |
 | crisp1973 | Will FC Bayern München win on 2026-10-21? | No | 1.82 (55¢) | $40,397 | +$33,052 | ✅ Ganada |
-| totoro3miyazaki | Will Arsenal FC win on 2026-10-21? | Yes | 3.33 (30¢) | $114,950 | — | ⏳ Pendiente |
-| Jokerxing7 | Will Como 1907 win on 2026-10-21? | Yes | 2.33 (43¢) | $33,269 | +$44,101 | ✅ Ganada |
+| totoro3miyazaki | Will Arsenal FC win on 2026-10-21? | Yes | 3.33 (30¢) | $114,950 | -$114,950 | ❌ Perdida |

@@ -87550,7 +87550,7 @@
     "side": "BUY",
     "usd": 114950.28899999999,
     "odds_at_bet": 30,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792575788,
     "fills": 2
   },
@@ -87985,7 +87985,7 @@
     "side": "BUY",
     "usd": 28024.632800000003,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792606580,
     "fills": 1
   },
@@ -88210,7 +88210,7 @@
     "side": "BUY",
     "usd": 26337.306600000004,
     "odds_at_bet": 66,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792609267,
     "fills": 1
   },
@@ -88407,6 +88407,21 @@
     "odds_at_bet": 67,
     "status": "pending",
     "ultimo_fill": 1792616512,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11966,
+    "timestamp": 1792617878,
+    "username": "778908",
+    "wallet": "0x3c3ac5fb217e2aee15e00198f4c47f6bb29c8b5f",
+    "slug": "atp-bonzi-paul-2026-10-21",
+    "title": "Lyon Open: Benjamin Bonzi vs Tommy Paul",
+    "outcome": "Tommy Paul",
+    "side": "BUY",
+    "usd": 46896.3778,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1792617878,
     "fills": 1
   }
 ]
