@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 10:37:10 (hora de Perú)
+Actualizado: 2026-10-21 10:39:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5840**  ($323,566,874 en total)
-- Resueltas: **5794** — 3551 ganadas / 2243 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **5795** — 3551 ganadas / 2244 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 603
 
 ### Balance
 
-- **Resultado de los apostadores: +$105,945** sobre $321,479,147 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,706** sobre $571,500 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$68,318** sobre $321,516,774 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,806** sobre $571,600 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 | ArturitoFilito | Hornets vs. Nets | Nets | 2.08 (48¢) | $27,954 | — | ⏳ Pendiente |
 | Jokerxing7 | Como 1907 vs. Manchester United FC: O/U 3.5 | Over 3.5 | 2.44 (41¢) | $27,082 | — | ⏳ Pendiente |
 | AnonymousUsername | Will Aston Villa FC vs. Viking FK end in a draw? | No | 1.16 (86¢) | $30,357 | — | ⏳ Pendiente |
-| Woaifacai | Lyon Open: Stan Wawrinka vs Martin Landaluce | Martin Landaluce | 1.56 (64¢) | $37,627 | — | ⏳ Pendiente |
+| Woaifacai | Lyon Open: Stan Wawrinka vs Martin Landaluce | Martin Landaluce | 1.56 (64¢) | $37,627 | -$37,627 | ❌ Perdida |
 | AnonymousUsername | Will Viking FK win on 2026-10-21? | No | 1.09 (92¢) | $32,829 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Ningbo Open: Ekaterina Alexandrova vs Marta Kostyuk | Ekaterina Alexandrova | 1.23 (81¢) | $74,933 | +$17,577 | ✅ Ganada |
 | rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $55,176 | — | ⏳ Pendiente |
