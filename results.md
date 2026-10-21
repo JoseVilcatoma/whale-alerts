@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 12:53:28 (hora de Perú)
+Actualizado: 2026-10-21 12:55:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5848**  ($323,940,141 en total)
+- Apuestas registradas: **5849**  ($323,970,141 en total)
 - Resueltas: **5795** — 3551 ganadas / 2244 perdidas (**61%** de acierto)
-- Pendientes: 31
-- Apostadores distintos: 604
+- Pendientes: 32
+- Apostadores distintos: 605
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 31 | 16 | 0 | 66% | $1,825,045 | -$150,964 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 
-_(mostrando los 40 de mayor monto, de 604 en total)_
+_(mostrando los 40 de mayor monto, de 605 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tin54321 | Hornets vs. Nets: O/U 216.5 | Over 216.5 | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
 | LakersOlga | Will Club Brugge KV win on 2026-10-21? | Yes | 1.89 (53¢) | $26,397 | — | ⏳ Pendiente |
 | QVanguard | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $142,588 | — | ⏳ Pendiente |
 | YYYYY999 | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $62,746 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 604 en total)_
 | yabanci | Spread: Knicks (-2.5) | 76ers | 2.33 (43¢) | $61,852 | +$81,990 | ✅ Ganada |
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $27,151 | -$27,151 | ❌ Perdida |
 | Woaifacai | Spread: Knicks (-4.5) | Knicks | 1.96 (51¢) | $27,214 | -$27,214 | ❌ Perdida |
-| Sassy-Bucket | Missouri State vs. Delaware | Delaware | 1.67 (60¢) | $33,852 | +$22,568 | ✅ Ganada |
