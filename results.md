@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 09:14:27 (hora de Perú)
+Actualizado: 2026-10-21 09:16:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5836**  ($323,421,221 en total)
-- Resueltas: **5792** — 3549 ganadas / 2243 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **5793** — 3550 ganadas / 2243 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 603
 
 ### Balance
 
-- **Resultado de los apostadores: +$80,368** sobre $321,312,214 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,738** sobre $571,300 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$88,368** sobre $321,404,214 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,729** sobre $571,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 | 1l2ihj34li12u34 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $30,872 | — | ⏳ Pendiente |
 | tankfest2027 | Valorant: CGN Esports vs Joblife (BO3) - Project Blender Phase 2 Group A | CGN Esports | 1.96 (51¢) | $38,269 | — | ⏳ Pendiente |
 | mooseborzoi | Mavericks vs. Rockets | Rockets | 1.30 (77¢) | $48,074 | — | ⏳ Pendiente |
-| jankysankyclow | W50 Cherbourg-en-Cotentin: Veronika Podrez vs Julia Stusek | Veronika Podrez | 1.09 (92¢) | $92,000 | — | ⏳ Pendiente |
+| jankysankyclow | W50 Cherbourg-en-Cotentin: Veronika Podrez vs Julia Stusek | Veronika Podrez | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,435 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,723 | — | ⏳ Pendiente |
 | crisp1973 | Will FC Bayern München win on 2026-10-21? | No | 1.82 (55¢) | $40,397 | — | ⏳ Pendiente |
