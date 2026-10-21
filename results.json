@@ -87745,7 +87745,7 @@
     "side": "BUY",
     "usd": 27081.5783,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792594079,
     "fills": 1
   },
@@ -87775,7 +87775,7 @@
     "side": "BUY",
     "usd": 36017.939999999995,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792594790,
     "fills": 1
   },
@@ -87790,7 +87790,7 @@
     "side": "BUY",
     "usd": 29403.947999999997,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792598356,
     "fills": 1
   },
@@ -88152,6 +88152,51 @@
     "odds_at_bet": 58,
     "status": "pending",
     "ultimo_fill": 1792609053,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11917,
+    "timestamp": 1792609096,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ucl-bay-ars-2026-10-21-draw",
+    "title": "Will FC Bayern M\u00fcnchen vs. Arsenal FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 190423.26076999996,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1792609096,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11918,
+    "timestamp": 1792609114,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "ucl-rma-rbl-2026-10-21-total-4pt5",
+    "title": "Real Madrid CF vs. RB Leipzig: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 93143.89600000001,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792609114,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11922,
+    "timestamp": 1792609162,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "ucl-rma-rbl-2026-10-21-spread-home-2pt5",
+    "title": "Spread: Real Madrid CF (-2.5)",
+    "outcome": "RB Leipzig",
+    "side": "BUY",
+    "usd": 51636.6692,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1792609162,
     "fills": 1
   }
 ]
