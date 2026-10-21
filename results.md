@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 23:13:06 (hora de Perú)
+Actualizado: 2026-10-20 23:15:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5820**  ($322,592,500 en total)
-- Resueltas: **5776** — 3537 ganadas / 2239 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **5778** — 3538 ganadas / 2240 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 602
 
 ### Balance
 
-- **Resultado de los apostadores: +$161,729** sobre $320,415,855 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,873** sobre $569,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$154,235** sobre $320,478,669 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,860** sobre $569,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Lakersfan111 | 62 | 41 | 0 | 60% | $5,172,543 | -$14,060 |
 | ethanaz | 56 | 24 | 0 | 70% | $4,987,152 | -$219,067 |
-| BrotherObama | 44 | 49 | 4 | 47% | $4,296,413 | -$137,108 |
+| BrotherObama | 45 | 49 | 3 | 48% | $4,296,413 | -$107,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
 | surfandturf | 33 | 10 | 0 | 77% | $3,504,490 | +$456,568 |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | Jokerxing7 | Thunder vs. Spurs | Spurs | 2.00 (50¢) | $171,826 | — | ⏳ Pendiente |
 | mooseborzoii | 76ers vs. Knicks | 76ers | 1.61 (62¢) | $73,668 | +$45,151 | ✅ Ganada |
 | 0x6db5…e279 | 76ers vs. Knicks | 76ers | 1.69 (59¢) | $31,445 | +$21,852 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Oilers | Wild | 2.17 (46¢) | $36,813 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Oilers | Wild | 2.17 (46¢) | $36,813 | -$36,813 | ❌ Perdida |
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.54 (65¢) | $32,500 | -$32,500 | ❌ Perdida |
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.67 (60¢) | $94,200 | -$94,200 | ❌ Perdida |
 | yabanci | Spread: Knicks (-2.5) | 76ers | 2.33 (43¢) | $61,852 | +$81,990 | ✅ Ganada |
