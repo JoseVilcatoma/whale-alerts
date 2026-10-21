@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 23:43:33 (hora de Perú)
+Actualizado: 2026-10-20 23:45:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5820**  ($322,592,500 en total)
-- Resueltas: **5778** — 3538 ganadas / 2240 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **5790** — 3548 ganadas / 2242 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 602
 
 ### Balance
 
-- **Resultado de los apostadores: +$154,235** sobre $320,478,669 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,860** sobre $569,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$102,276** sobre $321,237,001 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,730** sobre $571,100 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 411 | 220 | 6 | 65% | $40,232,175 | +$1,083,289 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 414 | 220 | 3 | 65% | $40,232,175 | +$1,123,804 |
 | Sassy-Bucket | 81 | 77 | 2 | 51% | $9,774,213 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | ferrariChampions2026 | 98 | 48 | 0 | 67% | $6,444,374 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| mooseborzoii | 67 | 40 | 3 | 63% | $6,387,698 | +$841,810 |
+| mooseborzoii | 69 | 40 | 1 | 63% | $6,387,698 | +$885,493 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 | Jsram | 21 | 19 | 0 | 52% | $1,829,321 | -$98,360 |
-| TAIWANNUMBERONE | 30 | 16 | 1 | 65% | $1,825,045 | -$154,776 |
+| TAIWANNUMBERONE | 31 | 16 | 0 | 66% | $1,825,045 | -$150,964 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 
 _(mostrando los 40 de mayor monto, de 602 en total)_
@@ -71,29 +71,29 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.09 (92¢) | $51,571 | — | ⏳ Pendiente |
-| CHZHSHCH | Thunder vs. Spurs | Thunder | 1.08 (93¢) | $106,196 | — | ⏳ Pendiente |
-| 0x6db5…e279 | Thunder vs. Spurs | Thunder | 1.33 (75¢) | $34,775 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.14 (88¢) | $97,027 | — | ⏳ Pendiente |
-| LlamaEnjoyer | Thunder vs. Spurs | Thunder | 1.12 (89¢) | $76,903 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Thunder vs. Spurs | Thunder | 1.11 (90¢) | $34,305 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.09 (92¢) | $51,571 | +$4,484 | ✅ Ganada |
+| CHZHSHCH | Thunder vs. Spurs | Thunder | 1.08 (93¢) | $106,196 | +$7,993 | ✅ Ganada |
+| 0x6db5…e279 | Thunder vs. Spurs | Thunder | 1.33 (75¢) | $34,775 | +$11,592 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.14 (88¢) | $97,027 | +$13,231 | ✅ Ganada |
+| LlamaEnjoyer | Thunder vs. Spurs | Thunder | 1.12 (89¢) | $76,903 | +$9,505 | ✅ Ganada |
+| TAIWANNUMBERONE | Thunder vs. Spurs | Thunder | 1.11 (90¢) | $34,305 | +$3,812 | ✅ Ganada |
 | RJW1 | Will FC Bayern München win on 2026-10-21? | Yes | 2.13 (47¢) | $157,067 | — | ⏳ Pendiente |
-| mooseborzoii | Thunder vs. Spurs | Thunder | 1.45 (69¢) | $58,763 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.61 (62¢) | $37,200 | — | ⏳ Pendiente |
-| mooseborzoii | Thunder vs. Spurs | Thunder | 1.59 (63¢) | $29,426 | — | ⏳ Pendiente |
-| Woaifacai | Thunder vs. Spurs | Thunder | 1.79 (56¢) | $35,340 | — | ⏳ Pendiente |
+| mooseborzoii | Thunder vs. Spurs | Thunder | 1.45 (69¢) | $58,763 | +$26,401 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.61 (62¢) | $37,200 | +$22,800 | ✅ Ganada |
+| mooseborzoii | Thunder vs. Spurs | Thunder | 1.59 (63¢) | $29,426 | +$17,282 | ✅ Ganada |
+| Woaifacai | Thunder vs. Spurs | Thunder | 1.79 (56¢) | $35,340 | +$27,767 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Knicks | 76ers | 1.12 (89¢) | $81,598 | +$10,085 | ✅ Ganada |
 | Jokerxing7 | Thunder vs. Spurs: O/U 230.5 | Over 230.5 | 2.08 (48¢) | $47,495 | — | ⏳ Pendiente |
 | Jokerxing7 | Thunder vs. Spurs: O/U 230.5 | Under 230.5 | 1.92 (52¢) | $27,719 | — | ⏳ Pendiente |
 | curie | 76ers vs. Knicks | 76ers | 1.25 (80¢) | $28,800 | +$7,200 | ✅ Ganada |
 | suntori | 76ers vs. Knicks | Knicks | 2.94 (34¢) | $32,718 | -$32,718 | ❌ Perdida |
 | RJW1 | Will FC Bayern München win on 2026-10-21? | Yes | 2.13 (47¢) | $29,098 | — | ⏳ Pendiente |
-| Jokerxing7 | Thunder vs. Spurs | Spurs | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| Jokerxing7 | Thunder vs. Spurs | Spurs | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | mooseborzoii | 76ers vs. Knicks | 76ers | 1.41 (71¢) | $29,276 | +$11,958 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Knicks | Knicks | 2.17 (46¢) | $36,103 | -$36,103 | ❌ Perdida |
 | mooseborzoii | 76ers vs. Knicks | 76ers | 1.85 (54¢) | $161,647 | +$137,699 | ✅ Ganada |
 | ethanaz | 76ers vs. Knicks | Knicks | 2.94 (34¢) | $103,312 | -$103,312 | ❌ Perdida |
-| Jokerxing7 | Thunder vs. Spurs | Spurs | 2.00 (50¢) | $171,826 | — | ⏳ Pendiente |
+| Jokerxing7 | Thunder vs. Spurs | Spurs | 2.00 (50¢) | $171,826 | -$171,826 | ❌ Perdida |
 | mooseborzoii | 76ers vs. Knicks | 76ers | 1.61 (62¢) | $73,668 | +$45,151 | ✅ Ganada |
 | 0x6db5…e279 | 76ers vs. Knicks | 76ers | 1.69 (59¢) | $31,445 | +$21,852 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Oilers | Wild | 2.17 (46¢) | $36,813 | -$36,813 | ❌ Perdida |
