@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 15:29:17 (hora de Perú)
+Actualizado: 2026-10-21 15:31:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5875**  ($325,705,141 en total)
+- Apuestas registradas: **5876**  ($325,732,435 en total)
 - Resueltas: **5805** — 3557 ganadas / 2248 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 606
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Will FC Bayern München win on 2026-10-21? | Yes | 1.41 (71¢) | $27,294 | — | ⏳ Pendiente |
 | RN1 | Will Sporting CP vs. LASK Linz end in a draw? | No | 1.54 (65¢) | $31,040 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Aston Villa FC (-2.5) | Viking FK | 1.67 (60¢) | $46,278 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Club Brugge KV vs. Racing Club de Lens: O/U 3.5 | Under 3.5 | 1.75 (57¢) | $26,457 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | CHZHSHCH | Thunder vs. Spurs | Thunder | 1.08 (93¢) | $106,196 | +$7,993 | ✅ Ganada |
 | 0x6db5…e279 | Thunder vs. Spurs | Thunder | 1.33 (75¢) | $34,775 | +$11,592 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.14 (88¢) | $97,027 | +$13,231 | ✅ Ganada |
-| LlamaEnjoyer | Thunder vs. Spurs | Thunder | 1.12 (89¢) | $76,903 | +$9,505 | ✅ Ganada |
