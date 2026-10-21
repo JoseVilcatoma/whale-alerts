@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 13:35:14 (hora de Perú)
+Actualizado: 2026-10-21 13:37:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5858**  ($324,408,974 en total)
+- Apuestas registradas: **5859**  ($324,434,508 en total)
 - Resueltas: **5795** — 3551 ganadas / 2244 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 605
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 605 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $25,534 | — | ⏳ Pendiente |
 | crisp1973 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.64 (61¢) | $29,280 | — | ⏳ Pendiente |
 | nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $43,567 | — | ⏳ Pendiente |
 | tin54321 | Lisbon: Marco Trungelliti vs Carlo Alberto Caniato | Carlo Alberto Caniato | 1.23 (81¢) | $55,754 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 605 en total)_
 | mooseborzoii | 76ers vs. Knicks | 76ers | 1.41 (71¢) | $29,276 | +$11,958 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Knicks | Knicks | 2.17 (46¢) | $36,103 | -$36,103 | ❌ Perdida |
 | mooseborzoii | 76ers vs. Knicks | 76ers | 1.85 (54¢) | $161,647 | +$137,699 | ✅ Ganada |
-| ethanaz | 76ers vs. Knicks | Knicks | 2.94 (34¢) | $103,312 | -$103,312 | ❌ Perdida |
