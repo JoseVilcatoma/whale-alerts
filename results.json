@@ -87973,5 +87973,35 @@
     "status": "pending",
     "ultimo_fill": 1792606399,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 11901,
+    "timestamp": 1792606580,
+    "username": "Theshorty",
+    "wallet": "0x197c2c31027a6e4ae970b8b23b14fdc7ee95e025",
+    "slug": "ucl-int-shd-2026-10-21-spread-home-1pt5",
+    "title": "Spread: FC Internazionale Milano (-1.5)",
+    "outcome": "FC Internazionale Milano",
+    "side": "BUY",
+    "usd": 28024.632800000003,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1792606580,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11902,
+    "timestamp": 1792606587,
+    "username": "nb1985",
+    "wallet": "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7",
+    "slug": "ucl-bay-ars-2026-10-21-bay",
+    "title": "Will FC Bayern M\u00fcnchen win on 2026-10-21?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 49999.999999,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792606587,
+    "fills": 1
   }
 ]

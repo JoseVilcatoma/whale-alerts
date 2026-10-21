@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 13:14:28 (hora de Perú)
+Actualizado: 2026-10-21 13:16:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5853**  ($324,202,349 en total)
+- Apuestas registradas: **5855**  ($324,280,374 en total)
 - Resueltas: **5795** — 3551 ganadas / 2244 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 38
 - Apostadores distintos: 605
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 605 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nb1985 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $50,000 | — | ⏳ Pendiente |
+| Theshorty | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 1.69 (59¢) | $28,025 | — | ⏳ Pendiente |
 | nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $100,000 | — | ⏳ Pendiente |
 | tin54321 | Jazz vs. Grizzlies: O/U 244.5 | Under 244.5 | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
 | rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $33,045 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 605 en total)_
 | Jokerxing7 | Thunder vs. Spurs | Spurs | 2.00 (50¢) | $171,826 | -$171,826 | ❌ Perdida |
 | mooseborzoii | 76ers vs. Knicks | 76ers | 1.61 (62¢) | $73,668 | +$45,151 | ✅ Ganada |
 | 0x6db5…e279 | 76ers vs. Knicks | 76ers | 1.69 (59¢) | $31,445 | +$21,852 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Oilers | Wild | 2.17 (46¢) | $36,813 | -$36,813 | ❌ Perdida |
-| Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.54 (65¢) | $32,500 | -$32,500 | ❌ Perdida |
