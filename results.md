@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 10:57:24 (hora de Perú)
+Actualizado: 2026-10-21 10:59:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5840**  ($323,566,874 en total)
+- Apuestas registradas: **5841**  ($323,596,278 en total)
 - Resueltas: **5795** — 3551 ganadas / 2244 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 603
 
 ### Balance
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | ndb1 | 27 | 12 | 0 | 69% | $2,081,380 | +$511,157 |
-| milkteaboba | 10 | 10 | 0 | 50% | $2,049,274 | -$809,216 |
+| milkteaboba | 10 | 10 | 1 | 50% | $2,078,678 | -$809,216 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Talvez10 | 23 | 18 | 0 | 56% | $1,917,490 | +$324,087 |
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Como 1907 vs. Manchester United FC: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $29,404 | — | ⏳ Pendiente |
 | Zzzz87 | Como 1907 vs. Manchester United FC: O/U 3.5 | Over 3.5 | 2.38 (42¢) | $36,018 | — | ⏳ Pendiente |
 | scootergene | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $54,600 | — | ⏳ Pendiente |
 | ArturitoFilito | Hornets vs. Nets | Nets | 2.08 (48¢) | $27,954 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 | 0x8efa…894c | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $25,500 | -$25,500 | ❌ Perdida |
 | 0x8efa…894c | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $25,403 | -$25,403 | ❌ Perdida |
 | Jokerxing7 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $28,888 | -$28,888 | ❌ Perdida |
-| Jokerxing7 | 76ers vs. Knicks: O/U 231.5 | Over 231.5 | 2.00 (50¢) | $26,593 | -$26,593 | ❌ Perdida |
