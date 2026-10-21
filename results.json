@@ -88633,5 +88633,35 @@
     "status": "pending",
     "ultimo_fill": 1792622041,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12000,
+    "timestamp": 1792622216,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-min-mia-2026-10-21",
+    "title": "Timberwolves vs. Heat",
+    "outcome": "Heat",
+    "side": "BUY",
+    "usd": 47707.061400000006,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792622216,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12001,
+    "timestamp": 1792622126,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-uta-mem-2026-10-21",
+    "title": "Jazz vs. Grizzlies",
+    "outcome": "Grizzlies",
+    "side": "BUY",
+    "usd": 245882.28070461226,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792622126,
+    "fills": 2
   }
 ]
