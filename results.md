@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 16:33:24 (hora de Perú)
+Actualizado: 2026-10-21 16:35:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5884**  ($326,141,942 en total)
-- Resueltas: **5835** — 3575 ganadas / 2260 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **5838** — 3578 ganadas / 2260 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 606
 
 ### Balance
 
-- **Resultado de los apostadores: +$371,993** sobre $323,819,246 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,359** sobre $575,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$382,773** sobre $323,932,209 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,331** sobre $575,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $115,776 | +$77,184 | ✅ Ganada |
 | 778908 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.27 (79¢) | $126,390 | +$33,597 | ✅ Ganada |
 | 1l2ihj34li12u34 | Will Club Brugge KV win on 2026-10-21? | No | 2.27 (44¢) | $75,818 | -$75,818 | ❌ Perdida |
-| Flaznorp | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $25,534 | — | ⏳ Pendiente |
+| Flaznorp | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $25,534 | +$2,525 | ✅ Ganada |
 | crisp1973 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.64 (61¢) | $29,280 | -$29,280 | ❌ Perdida |
 | nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $43,567 | +$34,231 | ✅ Ganada |
 | tin54321 | Lisbon: Marco Trungelliti vs Carlo Alberto Caniato | Carlo Alberto Caniato | 1.23 (81¢) | $55,754 | -$55,754 | ❌ Perdida |
@@ -116,12 +116,12 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | YYYYY999 | Hawks vs. Magic | Magic | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | milkteaboba | Como 1907 vs. Manchester United FC: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $29,404 | -$29,404 | ❌ Perdida |
 | Zzzz87 | Como 1907 vs. Manchester United FC: O/U 3.5 | Over 3.5 | 2.38 (42¢) | $36,018 | +$49,739 | ✅ Ganada |
-| scootergene | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $54,600 | — | ⏳ Pendiente |
+| scootergene | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $54,600 | +$5,400 | ✅ Ganada |
 | ArturitoFilito | Hornets vs. Nets | Nets | 2.08 (48¢) | $27,954 | — | ⏳ Pendiente |
 | Jokerxing7 | Como 1907 vs. Manchester United FC: O/U 3.5 | Over 3.5 | 2.44 (41¢) | $27,082 | +$38,971 | ✅ Ganada |
 | AnonymousUsername | Will Aston Villa FC vs. Viking FK end in a draw? | No | 1.16 (86¢) | $30,357 | — | ⏳ Pendiente |
 | Woaifacai | Lyon Open: Stan Wawrinka vs Martin Landaluce | Martin Landaluce | 1.56 (64¢) | $37,627 | -$37,627 | ❌ Perdida |
-| AnonymousUsername | Will Viking FK win on 2026-10-21? | No | 1.09 (92¢) | $32,829 | — | ⏳ Pendiente |
+| AnonymousUsername | Will Viking FK win on 2026-10-21? | No | 1.09 (92¢) | $32,829 | +$2,855 | ✅ Ganada |
 | 01258787xy48487484545122 | Ningbo Open: Ekaterina Alexandrova vs Marta Kostyuk | Ekaterina Alexandrova | 1.23 (81¢) | $74,933 | +$17,577 | ✅ Ganada |
 | rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $55,176 | +$57,428 | ✅ Ganada |
 | 1l2ihj34li12u34 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $30,872 | -$30,872 | ❌ Perdida |
