@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 16:47:42 (hora de Perú)
+Actualizado: 2026-10-21 16:49:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5887**  ($326,266,949 en total)
+- Apuestas registradas: **5888**  ($326,331,922 en total)
 - Resueltas: **5847** — 3583 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 607
+- Pendientes: 19
+- Apostadores distintos: 608
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 31 | 16 | 0 | 66% | $1,825,045 | -$150,964 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 
-_(mostrando los 40 de mayor monto, de 607 en total)_
+_(mostrando los 40 de mayor monto, de 608 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pau1og1 | Guangzhou 2: Liam Broady vs Akira Santillan | Liam Broady | 1.52 (66¢) | $64,973 | — | ⏳ Pendiente |
 | Donkey14 | Bucks vs. Wizards | Wizards | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
 | googleplay | Spread: Wizards (-4.5) | Bucks | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Jacdoh | M25 Tamworth: Blake Ellis vs Benjamin O'Connell | Blake Ellis | 1.33 (75¢) | $67,724 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 607 en total)_
 | 1l2ihj34li12u34 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $30,872 | -$30,872 | ❌ Perdida |
 | tankfest2027 | Valorant: CGN Esports vs Joblife (BO3) - Project Blender Phase 2 Group A | CGN Esports | 1.96 (51¢) | $38,269 | +$36,769 | ✅ Ganada |
 | mooseborzoi | Mavericks vs. Rockets | Rockets | 1.30 (77¢) | $48,074 | — | ⏳ Pendiente |
-| jankysankyclow | W50 Cherbourg-en-Cotentin: Veronika Podrez vs Julia Stusek | Veronika Podrez | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
