@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 22:31:06 (hora de Perú)
+Actualizado: 2026-10-20 22:33:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5817**  ($322,399,959 en total)
+- Apuestas registradas: **5818**  ($322,434,733 en total)
 - Resueltas: **5776** — 3537 ganadas / 2239 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 602
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | Thunder vs. Spurs | Thunder | 1.33 (75¢) | $34,775 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.14 (88¢) | $97,027 | — | ⏳ Pendiente |
 | LlamaEnjoyer | Thunder vs. Spurs | Thunder | 1.12 (89¢) | $76,903 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Thunder vs. Spurs | Thunder | 1.11 (90¢) | $34,305 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | Anon455 | Will FC Barcelona win on 2026-10-20? | No | 1.30 (77¢) | $30,800 | +$9,200 | ✅ Ganada |
 | monkeymashingkeyboard | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
 | UpTheBlues | Will FC Barcelona win on 2026-10-20? | No | 1.27 (79¢) | $25,952 | +$6,898 | ✅ Ganada |
-| 778908 | Will FK Bodø/Glimt win on 2026-10-20? | No | 1.09 (92¢) | $125,566 | +$10,919 | ✅ Ganada |
