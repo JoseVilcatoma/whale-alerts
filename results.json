@@ -87913,5 +87913,20 @@
     "status": "pending",
     "ultimo_fill": 1792605281,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11897,
+    "timestamp": 1792605863,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "ucl-rma-rbl-2026-10-21-total-4pt5",
+    "title": "Real Madrid CF vs. RB Leipzig: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 74163.37120000001,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1792605863,
+    "fills": 1
   }
 ]

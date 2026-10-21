@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 13:04:03 (hora de Perú)
+Actualizado: 2026-10-21 13:06:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5849**  ($323,970,141 en total)
+- Apuestas registradas: **5850**  ($324,044,304 en total)
 - Resueltas: **5795** — 3551 ganadas / 2244 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 605
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 605 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Over 4.5 | 2.17 (46¢) | $74,163 | — | ⏳ Pendiente |
 | tin54321 | Hornets vs. Nets: O/U 216.5 | Over 216.5 | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
 | LakersOlga | Will Club Brugge KV win on 2026-10-21? | Yes | 1.89 (53¢) | $26,397 | — | ⏳ Pendiente |
 | QVanguard | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $142,588 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 605 en total)_
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.67 (60¢) | $94,200 | -$94,200 | ❌ Perdida |
 | yabanci | Spread: Knicks (-2.5) | 76ers | 2.33 (43¢) | $61,852 | +$81,990 | ✅ Ganada |
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $27,151 | -$27,151 | ❌ Perdida |
-| Woaifacai | Spread: Knicks (-4.5) | Knicks | 1.96 (51¢) | $27,214 | -$27,214 | ❌ Perdida |
