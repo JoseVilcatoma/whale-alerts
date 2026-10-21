@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 15:47:50 (hora de Perú)
+Actualizado: 2026-10-21 15:49:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5879**  ($325,903,935 en total)
+- Apuestas registradas: **5881**  ($325,974,684 en total)
 - Resueltas: **5805** — 3557 ganadas / 2248 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Pendientes: 54
 - Apostadores distintos: 606
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Anon455 | Will FC Bayern München win on 2026-10-21? | No | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
+| texaskid | Spread: Wizards (-4.5) | Bucks | 2.00 (50¢) | $33,949 | — | ⏳ Pendiente |
 | mooseborzoii | Kings vs. Clippers | Clippers | 1.56 (64¢) | $34,076 | — | ⏳ Pendiente |
 | Flaznorp | Will FC Bayern München win on 2026-10-21? | No | 1.23 (81¢) | $34,231 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.25 (80¢) | $103,193 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | totoro3miyazaki | Will Arsenal FC win on 2026-10-21? | Yes | 3.33 (30¢) | $114,950 | — | ⏳ Pendiente |
 | Jokerxing7 | Will Como 1907 win on 2026-10-21? | Yes | 2.33 (43¢) | $33,269 | +$44,101 | ✅ Ganada |
 | Jokerxing7 | Will Como 1907 win on 2026-10-21? | Yes | 2.33 (43¢) | $48,505 | +$64,297 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 4.5 | Under 4.5 | 1.54 (65¢) | $94,304 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.09 (92¢) | $51,571 | +$4,484 | ✅ Ganada |
