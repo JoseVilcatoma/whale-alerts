@@ -87673,5 +87673,20 @@
     "status": "pending",
     "ultimo_fill": 1792589659,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 11877,
+    "timestamp": 1792589868,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "ucl-ast-vf-2026-10-21-vf",
+    "title": "Will Viking FK win on 2026-10-21?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 32829.28,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1792589868,
+    "fills": 1
   }
 ]
