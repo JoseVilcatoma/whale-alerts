@@ -88453,5 +88453,35 @@
     "status": "pending",
     "ultimo_fill": 1792618610,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11985,
+    "timestamp": 1792618906,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-mil-was-2026-10-21-spread-home-4pt5",
+    "title": "Spread: Wizards (-4.5)",
+    "outcome": "Bucks",
+    "side": "BUY",
+    "usd": 26000.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792618906,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11986,
+    "timestamp": 1792618921,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nba-mil-was-2026-10-21",
+    "title": "Bucks vs. Wizards",
+    "outcome": "Wizards",
+    "side": "BUY",
+    "usd": 31282.0505,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1792618921,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 16:41:41 (hora de Perú)
+Actualizado: 2026-10-21 16:43:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5885**  ($326,209,666 en total)
+- Apuestas registradas: **5887**  ($326,266,949 en total)
 - Resueltas: **5846** — 3582 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 19
 - Apostadores distintos: 607
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 607 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Bucks vs. Wizards | Wizards | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
+| googleplay | Spread: Wizards (-4.5) | Bucks | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Jacdoh | M25 Tamworth: Blake Ellis vs Benjamin O'Connell | Blake Ellis | 1.33 (75¢) | $67,724 | — | ⏳ Pendiente |
 | EdZachary | Pacers vs. Pelicans | Pelicans | 2.33 (43¢) | $86,000 | — | ⏳ Pendiente |
 | 778908 | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.06 (94¢) | $46,896 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 607 en total)_
 | tankfest2027 | Valorant: CGN Esports vs Joblife (BO3) - Project Blender Phase 2 Group A | CGN Esports | 1.96 (51¢) | $38,269 | +$36,769 | ✅ Ganada |
 | mooseborzoi | Mavericks vs. Rockets | Rockets | 1.30 (77¢) | $48,074 | — | ⏳ Pendiente |
 | jankysankyclow | W50 Cherbourg-en-Cotentin: Veronika Podrez vs Julia Stusek | Veronika Podrez | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,435 | -$28,435 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,723 | -$28,723 | ❌ Perdida |
