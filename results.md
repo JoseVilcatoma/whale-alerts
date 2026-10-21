@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 11:28:16 (hora de Perú)
+Actualizado: 2026-10-21 11:30:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5841**  ($323,596,278 en total)
+- Apuestas registradas: **5842**  ($323,623,778 en total)
 - Resueltas: **5795** — 3551 ganadas / 2244 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 603
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Lakersfan111 | 62 | 41 | 0 | 60% | $5,172,543 | -$14,060 |
+| Lakersfan111 | 62 | 41 | 1 | 60% | $5,200,043 | -$14,060 |
 | ethanaz | 56 | 24 | 0 | 70% | $4,987,152 | -$219,067 |
 | BrotherObama | 45 | 49 | 3 | 48% | $4,296,413 | -$107,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YYYYY999 | Hawks vs. Magic | Magic | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | milkteaboba | Como 1907 vs. Manchester United FC: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $29,404 | — | ⏳ Pendiente |
 | Zzzz87 | Como 1907 vs. Manchester United FC: O/U 3.5 | Over 3.5 | 2.38 (42¢) | $36,018 | — | ⏳ Pendiente |
 | scootergene | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $54,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-4.5) | 76ers | 2.00 (50¢) | $73,051 | +$73,051 | ✅ Ganada |
 | 0x8efa…894c | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $25,500 | -$25,500 | ❌ Perdida |
 | 0x8efa…894c | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $25,403 | -$25,403 | ❌ Perdida |
-| Jokerxing7 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $28,888 | -$28,888 | ❌ Perdida |

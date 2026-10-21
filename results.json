@@ -87793,5 +87793,20 @@
     "status": "pending",
     "ultimo_fill": 1792598356,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11889,
+    "timestamp": 1792600100,
+    "username": "YYYYY999",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-atl-orl-2026-10-21",
+    "title": "Hawks vs. Magic",
+    "outcome": "Magic",
+    "side": "BUY",
+    "usd": 27500.000000000004,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1792600100,
+    "fills": 1
   }
 ]
