@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 17:16:16 (hora de Perú)
+Actualizado: 2026-10-21 17:18:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5892**  ($326,523,523 en total)
+- Apuestas registradas: **5893**  ($326,557,655 en total)
 - Resueltas: **5849** — 3585 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 608
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 608 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $34,132 | — | ⏳ Pendiente |
 | googleplay | Spread: Heat (-1.5) | Heat | 1.96 (51¢) | $39,535 | — | ⏳ Pendiente |
 | googleplay | Timberwolves vs. Heat | Heat | 1.89 (53¢) | $96,314 | — | ⏳ Pendiente |
 | bluemario | Montevideo City Torque vs. CA Mineiro: O/U 0.5 | Under 0.5 | 7.69 (13¢) | $26,304 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 608 en total)_
 | AnonymousUsername | Will Aston Villa FC vs. Viking FK end in a draw? | No | 1.16 (86¢) | $30,357 | +$4,942 | ✅ Ganada |
 | Woaifacai | Lyon Open: Stan Wawrinka vs Martin Landaluce | Martin Landaluce | 1.56 (64¢) | $37,627 | -$37,627 | ❌ Perdida |
 | AnonymousUsername | Will Viking FK win on 2026-10-21? | No | 1.09 (92¢) | $32,829 | +$2,855 | ✅ Ganada |
-| 01258787xy48487484545122 | Ningbo Open: Ekaterina Alexandrova vs Marta Kostyuk | Ekaterina Alexandrova | 1.23 (81¢) | $74,933 | +$17,577 | ✅ Ganada |
