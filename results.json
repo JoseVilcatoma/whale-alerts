@@ -88393,5 +88393,20 @@
     "status": "pending",
     "ultimo_fill": 1792615763,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11940,
+    "timestamp": 1792616512,
+    "username": "bluemario",
+    "wallet": "0x34a1eed3f6bb10dd2f99b79cb4e8ca8749ae7622",
+    "slug": "atp-bonzi-paul-2026-10-21",
+    "title": "Lyon Open: Benjamin Bonzi vs Tommy Paul",
+    "outcome": "Tommy Paul",
+    "side": "BUY",
+    "usd": 34362.2897,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1792616512,
+    "fills": 1
   }
 ]
