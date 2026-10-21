@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 20:51:29 (hora de Perú)
+Actualizado: 2026-10-20 20:53:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5806**  ($321,717,115 en total)
+- Apuestas registradas: **5807**  ($321,744,834 en total)
 - Resueltas: **5743** — 3523 ganadas / 2220 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 602
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jokerxing7 | Thunder vs. Spurs: O/U 230.5 | Under 230.5 | 1.92 (52¢) | $27,719 | — | ⏳ Pendiente |
 | curie | 76ers vs. Knicks | 76ers | 1.25 (80¢) | $28,800 | — | ⏳ Pendiente |
 | suntori | 76ers vs. Knicks | Knicks | 2.94 (34¢) | $32,718 | — | ⏳ Pendiente |
 | RJW1 | Will FC Bayern München win on 2026-10-21? | Yes | 2.13 (47¢) | $29,098 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | www511zwin | Spread: Celtics (-1.5) | Celtics | 1.96 (51¢) | $40,914 | -$40,914 | ❌ Perdida |
 | n0tTODAY | Will Paris Saint-Germain FC win on 2026-10-20? | No | 1.69 (59¢) | $28,587 | -$28,587 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 2.44 (41¢) | $54,919 | +$79,030 | ✅ Ganada |
-| milkteaboba | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Under 4.5 | 1.75 (57¢) | $28,386 | -$28,386 | ❌ Perdida |
