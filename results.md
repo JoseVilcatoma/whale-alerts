@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 16:43:39 (hora de Perú)
+Actualizado: 2026-10-21 16:45:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5887**  ($326,266,949 en total)
-- Resueltas: **5846** — 3582 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **5847** — 3583 ganadas / 2264 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 607
 
 ### Balance
 
-- **Resultado de los apostadores: +$269,600** sobre $324,560,225 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,309** sobre $576,700 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$286,314** sobre $324,591,265 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,255** sobre $576,800 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 607 en total)_
 | Flaznorp | Will FC Bayern München win on 2026-10-21? | No | 1.23 (81¢) | $34,231 | +$8,029 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.25 (80¢) | $103,193 | +$25,798 | ✅ Ganada |
 | Flaznorp | Will FC Bayern München win on 2026-10-21? | Yes | 1.41 (71¢) | $27,294 | -$27,294 | ❌ Perdida |
-| RN1 | Will Sporting CP vs. LASK Linz end in a draw? | No | 1.54 (65¢) | $31,040 | — | ⏳ Pendiente |
+| RN1 | Will Sporting CP vs. LASK Linz end in a draw? | No | 1.54 (65¢) | $31,040 | +$16,714 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Aston Villa FC (-2.5) | Viking FK | 1.67 (60¢) | $46,278 | +$30,852 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Club Brugge KV vs. Racing Club de Lens: O/U 3.5 | Under 3.5 | 1.75 (57¢) | $26,457 | +$19,959 | ✅ Ganada |
 | Anon455 | Will Arsenal FC win on 2026-10-21? | No | 1.52 (66¢) | $26,337 | +$13,568 | ✅ Ganada |
