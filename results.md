@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 18:50:02 (hora de Perú)
+Actualizado: 2026-10-21 18:52:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5911**  ($328,019,320 en total)
+- Apuestas registradas: **5912**  ($328,046,133 en total)
 - Resueltas: **5850** — 3586 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 609
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| n0tTODAY | Pacers vs. Pelicans | Pacers | 1.79 (56¢) | $26,813 | — | ⏳ Pendiente |
 | googleplay | Pacers vs. Pelicans | Pelicans | 2.27 (44¢) | $129,443 | — | ⏳ Pendiente |
 | mooseborzoii | Panthers vs. Senators | Senators | 2.04 (49¢) | $105,002 | — | ⏳ Pendiente |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $78,481 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 | nb1985 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $50,000 | +$33,333 | ✅ Ganada |
 | Theshorty | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 1.69 (59¢) | $28,025 | -$28,025 | ❌ Perdida |
 | nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $100,000 | +$78,571 | ✅ Ganada |
-| tin54321 | Jazz vs. Grizzlies: O/U 244.5 | Under 244.5 | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
