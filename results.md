@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 06:23:21 (hora de Perú)
+Actualizado: 2026-10-21 06:25:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5827**  ($322,981,083 en total)
+- Apuestas registradas: **5828**  ($323,073,083 en total)
 - Resueltas: **5792** — 3549 ganadas / 2243 perdidas (**61%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 602
+- Pendientes: 14
+- Apostadores distintos: 603
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 31 | 16 | 0 | 66% | $1,825,045 | -$150,964 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 
-_(mostrando los 40 de mayor monto, de 602 en total)_
+_(mostrando los 40 de mayor monto, de 603 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jankysankyclow | W50 Cherbourg-en-Cotentin: Veronika Podrez vs Julia Stusek | Veronika Podrez | 1.09 (92¢) | $92,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,435 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,723 | — | ⏳ Pendiente |
 | crisp1973 | Will FC Bayern München win on 2026-10-21? | No | 1.82 (55¢) | $40,397 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | mooseborzoii | Celtics vs. Pistons | Celtics | 1.39 (72¢) | $28,202 | -$28,202 | ❌ Perdida |
 | mooseborzoii | Celtics vs. Pistons | Celtics | 1.18 (85¢) | $46,766 | -$46,766 | ❌ Perdida |
 | 0x6db5…e279 | Celtics vs. Pistons | Celtics | 1.35 (74¢) | $25,909 | -$25,909 | ❌ Perdida |
-| mooseborzoii | Celtics vs. Pistons | Celtics | 1.37 (73¢) | $32,321 | -$32,321 | ❌ Perdida |
