@@ -88513,5 +88513,20 @@
     "status": "pending",
     "ultimo_fill": 1792620310,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11992,
+    "timestamp": 1792620508,
+    "username": "bluemario",
+    "wallet": "0x34a1eed3f6bb10dd2f99b79cb4e8ca8749ae7622",
+    "slug": "sud-tor-cam-2026-10-21-total-0pt5",
+    "title": "Montevideo City Torque vs. CA Mineiro: O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 26303.668799999996,
+    "odds_at_bet": 13,
+    "status": "pending",
+    "ultimo_fill": 1792620508,
+    "fills": 1
   }
 ]
