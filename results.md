@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 16:21:01 (hora de Perú)
+Actualizado: 2026-10-21 16:23:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5882**  ($326,009,046 en total)
-- Resueltas: **5826** — 3569 ganadas / 2257 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **5830** — 3572 ganadas / 2258 perdidas (**61%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 606
 
 ### Balance
 
-- **Resultado de los apostadores: +$347,616** sobre $323,269,130 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,474** sobre $574,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$442,005** sobre $323,420,351 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,262** sobre $575,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München vs. Arsenal FC end in a draw? | Yes | 3.85 (26¢) | $66,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.35 (74¢) | $190,423 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $58,000 | -$58,000 | ❌ Perdida |
-| SparYel | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $32,128 | — | ⏳ Pendiente |
+| SparYel | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $32,128 | +$33,440 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $53,000 | -$53,000 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $115,776 | +$77,184 | ✅ Ganada |
 | 778908 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.27 (79¢) | $126,390 | — | ⏳ Pendiente |
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | Theshorty | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 1.69 (59¢) | $28,025 | — | ⏳ Pendiente |
 | nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $100,000 | +$78,571 | ✅ Ganada |
 | tin54321 | Jazz vs. Grizzlies: O/U 244.5 | Under 244.5 | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
-| rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $33,045 | — | ⏳ Pendiente |
+| rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $33,045 | +$34,393 | ✅ Ganada |
 | RJW1 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Over 4.5 | 2.17 (46¢) | $74,163 | +$87,061 | ✅ Ganada |
 | tin54321 | Hornets vs. Nets: O/U 216.5 | Over 216.5 | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
 | LakersOlga | Will Club Brugge KV win on 2026-10-21? | Yes | 1.89 (53¢) | $26,397 | +$23,409 | ✅ Ganada |
@@ -121,8 +121,8 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | Woaifacai | Lyon Open: Stan Wawrinka vs Martin Landaluce | Martin Landaluce | 1.56 (64¢) | $37,627 | -$37,627 | ❌ Perdida |
 | AnonymousUsername | Will Viking FK win on 2026-10-21? | No | 1.09 (92¢) | $32,829 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Ningbo Open: Ekaterina Alexandrova vs Marta Kostyuk | Ekaterina Alexandrova | 1.23 (81¢) | $74,933 | +$17,577 | ✅ Ganada |
-| rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $55,176 | — | ⏳ Pendiente |
-| 1l2ihj34li12u34 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $30,872 | — | ⏳ Pendiente |
+| rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $55,176 | +$57,428 | ✅ Ganada |
+| 1l2ihj34li12u34 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $30,872 | -$30,872 | ❌ Perdida |
 | tankfest2027 | Valorant: CGN Esports vs Joblife (BO3) - Project Blender Phase 2 Group A | CGN Esports | 1.96 (51¢) | $38,269 | +$36,769 | ✅ Ganada |
 | mooseborzoi | Mavericks vs. Rockets | Rockets | 1.30 (77¢) | $48,074 | — | ⏳ Pendiente |
 | jankysankyclow | W50 Cherbourg-en-Cotentin: Veronika Podrez vs Julia Stusek | Veronika Podrez | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
