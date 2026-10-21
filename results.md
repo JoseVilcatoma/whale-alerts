@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 20:22:26 (hora de Perú)
+Actualizado: 2026-10-20 20:24:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5796**  ($321,025,667 en total)
+- Apuestas registradas: **5797**  ($321,099,335 en total)
 - Resueltas: **5743** — 3523 ganadas / 2220 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 602
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 98 | 47 | 1 | 68% | $6,444,374 | +$190,856 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
-| mooseborzoii | 64 | 40 | 1 | 62% | $6,034,917 | +$647,001 |
+| mooseborzoii | 64 | 40 | 2 | 62% | $6,108,585 | +$647,001 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | 76ers vs. Knicks | 76ers | 1.61 (62¢) | $73,668 | — | ⏳ Pendiente |
 | 0x6db5…e279 | 76ers vs. Knicks | 76ers | 1.69 (59¢) | $31,445 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Oilers | Wild | 2.17 (46¢) | $36,813 | — | ⏳ Pendiente |
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | tenniz | Cali: Hugo Dellien vs Juan Manuel La Serna | Juan Manuel La Serna | 1.12 (89¢) | $91,719 | +$11,336 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FK Bodø/Glimt win on 2026-10-20? | No | 1.25 (80¢) | $36,771 | +$9,193 | ✅ Ganada |
 | ripley86alien | Will SSC Napoli win on 2026-10-20? | Yes | 1.79 (56¢) | $175,643 | +$138,006 | ✅ Ganada |
-| totoro3miyazaki | Will Club Atlético de Madrid win on 2026-10-20? | No | 1.82 (55¢) | $56,823 | +$46,492 | ✅ Ganada |
