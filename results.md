@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 15:12:38 (hora de Perú)
+Actualizado: 2026-10-21 15:14:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5874**  ($325,674,101 en total)
-- Resueltas: **5803** — 3556 ganadas / 2247 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Resueltas: **5804** — 3556 ganadas / 2248 perdidas (**61%** de acierto)
+- Pendientes: 48
 - Apostadores distintos: 606
 
 ### Balance
 
-- **Resultado de los apostadores: +$220,361** sobre $321,781,750 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,463** sobre $572,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$164,607** sobre $321,837,504 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,563** sobre $572,500 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | Flaznorp | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $25,534 | — | ⏳ Pendiente |
 | crisp1973 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.64 (61¢) | $29,280 | — | ⏳ Pendiente |
 | nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $43,567 | — | ⏳ Pendiente |
-| tin54321 | Lisbon: Marco Trungelliti vs Carlo Alberto Caniato | Carlo Alberto Caniato | 1.23 (81¢) | $55,754 | — | ⏳ Pendiente |
+| tin54321 | Lisbon: Marco Trungelliti vs Carlo Alberto Caniato | Carlo Alberto Caniato | 1.23 (81¢) | $55,754 | -$55,754 | ❌ Perdida |
 | nb1985 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $50,000 | — | ⏳ Pendiente |
 | Theshorty | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 1.69 (59¢) | $28,025 | — | ⏳ Pendiente |
 | nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $100,000 | — | ⏳ Pendiente |
