@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 09:58:15 (hora de Perú)
+Actualizado: 2026-10-21 10:00:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5838**  ($323,476,256 en total)
+- Apuestas registradas: **5840**  ($323,566,874 en total)
 - Resueltas: **5794** — 3551 ganadas / 2243 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 24
 - Apostadores distintos: 603
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zzzz87 | Como 1907 vs. Manchester United FC: O/U 3.5 | Over 3.5 | 2.38 (42¢) | $36,018 | — | ⏳ Pendiente |
+| scootergene | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $54,600 | — | ⏳ Pendiente |
 | ArturitoFilito | Hornets vs. Nets | Nets | 2.08 (48¢) | $27,954 | — | ⏳ Pendiente |
 | Jokerxing7 | Como 1907 vs. Manchester United FC: O/U 3.5 | Over 3.5 | 2.44 (41¢) | $27,082 | — | ⏳ Pendiente |
 | AnonymousUsername | Will Aston Villa FC vs. Viking FK end in a draw? | No | 1.16 (86¢) | $30,357 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 | 0x8efa…894c | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $25,403 | -$25,403 | ❌ Perdida |
 | Jokerxing7 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $28,888 | -$28,888 | ❌ Perdida |
 | Jokerxing7 | 76ers vs. Knicks: O/U 231.5 | Over 231.5 | 2.00 (50¢) | $26,593 | -$26,593 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Avalanche vs. Devils | Devils | 1.96 (51¢) | $50,945 | +$48,947 | ✅ Ganada |
-| Sassy-Bucket | Avalanche vs. Devils | Avalanche | 2.04 (49¢) | $106,733 | -$106,733 | ❌ Perdida |

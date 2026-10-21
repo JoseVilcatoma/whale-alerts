@@ -87748,5 +87748,35 @@
     "status": "pending",
     "ultimo_fill": 1792594079,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11885,
+    "timestamp": 1792594705,
+    "username": "scootergene",
+    "wallet": "0xf3a6ac44c5c90ff2b4afa4459f71acc2e57971bd",
+    "slug": "ucl-ast-vf-2026-10-21-vf",
+    "title": "Will Viking FK win on 2026-10-21?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 54600.0,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1792594705,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11886,
+    "timestamp": 1792594790,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "ucl-com-mnu-2026-10-21-total-3pt5",
+    "title": "Como 1907 vs. Manchester United FC: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 36017.939999999995,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1792594790,
+    "fills": 1
   }
 ]
