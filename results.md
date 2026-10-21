@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 18:02:36 (hora de Perú)
+Actualizado: 2026-10-21 18:04:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5905**  ($327,373,790 en total)
-- Resueltas: **5849** — 3585 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Apuestas registradas: **5907**  ($327,471,394 en total)
+- Resueltas: **5850** — 3586 ganadas / 2264 perdidas (**61%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 609
 
 ### Balance
 
-- **Resultado de los apostadores: +$306,232** sobre $324,672,523 apostados (ROI **+0.1%**)
+- **Resultado de los apostadores: +$306,232** sobre $324,720,836 apostados (ROI **+0.1%**)
 - Copiando $100 fijo en cada una: **-$4,200** sobre $577,000 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 418 | 225 | 3 | 65% | $40,860,989 | +$892,612 |
 | Sassy-Bucket | 81 | 77 | 4 | 51% | $9,930,803 | -$749,273 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 1 | 52% | $7,411,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -71,10 +71,12 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Hornets (-1.5) | Nets | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Bucks vs. Wizards | Bucks | 2.50 (40¢) | $80,000 | — | ⏳ Pendiente |
-| Mooseborzoiii | Bucks vs. Wizards | Wizards | 1.67 (60¢) | $48,313 | — | ⏳ Pendiente |
+| Mooseborzoiii | Bucks vs. Wizards | Wizards | 1.67 (60¢) | $48,313 | +$0 | 💰 Vendida antes |
 | lpcapital1 | Spread: Wizards (-4.5) | Wizards | 2.04 (49¢) | $25,908 | — | ⏳ Pendiente |
 | googleplay | Spread: Grizzlies (-1.5) | Grizzlies | 1.89 (53¢) | $64,779 | — | ⏳ Pendiente |
+| googleplay | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $72,604 | — | ⏳ Pendiente |
 | Sassy-Bucket | Jazz vs. Grizzlies | Jazz | 2.22 (45¢) | $76,590 | — | ⏳ Pendiente |
 | www511zwin | Spread: Atlanta Dream (-3.5) | Golden State Valkyries | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
 | googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $47,707 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 | RJW1 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Over 4.5 | 2.17 (46¢) | $74,163 | +$87,061 | ✅ Ganada |
 | tin54321 | Hornets vs. Nets: O/U 216.5 | Over 216.5 | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
 | LakersOlga | Will Club Brugge KV win on 2026-10-21? | Yes | 1.89 (53¢) | $26,397 | +$23,409 | ✅ Ganada |
-| QVanguard | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $142,588 | -$142,588 | ❌ Perdida |
-| YYYYY999 | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $62,746 | — | ⏳ Pendiente |
