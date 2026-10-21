@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 09:18:34 (hora de Perú)
+Actualizado: 2026-10-21 09:20:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5836**  ($323,421,221 en total)
-- Resueltas: **5793** — 3550 ganadas / 2243 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **5794** — 3551 ganadas / 2243 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 603
 
 ### Balance
 
-- **Resultado de los apostadores: +$88,368** sobre $321,404,214 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,729** sobre $571,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$105,945** sobre $321,479,147 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,706** sobre $571,500 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 | AnonymousUsername | Will Aston Villa FC vs. Viking FK end in a draw? | No | 1.16 (86¢) | $30,357 | — | ⏳ Pendiente |
 | Woaifacai | Lyon Open: Stan Wawrinka vs Martin Landaluce | Martin Landaluce | 1.56 (64¢) | $37,627 | — | ⏳ Pendiente |
 | AnonymousUsername | Will Viking FK win on 2026-10-21? | No | 1.09 (92¢) | $32,829 | — | ⏳ Pendiente |
-| 01258787xy48487484545122 | Ningbo Open: Ekaterina Alexandrova vs Marta Kostyuk | Ekaterina Alexandrova | 1.23 (81¢) | $74,933 | — | ⏳ Pendiente |
+| 01258787xy48487484545122 | Ningbo Open: Ekaterina Alexandrova vs Marta Kostyuk | Ekaterina Alexandrova | 1.23 (81¢) | $74,933 | +$17,577 | ✅ Ganada |
 | rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $55,176 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $30,872 | — | ⏳ Pendiente |
 | tankfest2027 | Valorant: CGN Esports vs Joblife (BO3) - Project Blender Phase 2 Group A | CGN Esports | 1.96 (51¢) | $38,269 | — | ⏳ Pendiente |
