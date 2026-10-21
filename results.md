@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 17:22:23 (hora de Perú)
+Actualizado: 2026-10-21 17:24:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5895**  ($326,635,288 en total)
+- Apuestas registradas: **5896**  ($326,712,333 en total)
 - Resueltas: **5849** — 3585 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 608
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 608 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $77,045 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will FC Cincinnati win on 2026-09-05? | Yes | 1.56 (64¢) | $52,633 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $34,132 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 608 en total)_
 | scootergene | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $54,600 | +$5,400 | ✅ Ganada |
 | ArturitoFilito | Hornets vs. Nets | Nets | 2.08 (48¢) | $27,954 | — | ⏳ Pendiente |
 | Jokerxing7 | Como 1907 vs. Manchester United FC: O/U 3.5 | Over 3.5 | 2.44 (41¢) | $27,082 | +$38,971 | ✅ Ganada |
-| AnonymousUsername | Will Aston Villa FC vs. Viking FK end in a draw? | No | 1.16 (86¢) | $30,357 | +$4,942 | ✅ Ganada |
