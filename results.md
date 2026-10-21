@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 01:10:02 (hora de Perú)
+Actualizado: 2026-10-21 01:12:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5822**  ($322,735,310 en total)
+- Apuestas registradas: **5823**  ($322,768,578 en total)
 - Resueltas: **5792** — 3549 ganadas / 2243 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 602
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jokerxing7 | Will Como 1907 win on 2026-10-21? | Yes | 2.33 (43¢) | $33,269 | — | ⏳ Pendiente |
 | Jokerxing7 | Will Como 1907 win on 2026-10-21? | Yes | 2.33 (43¢) | $48,505 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 4.5 | Under 4.5 | 1.54 (65¢) | $94,304 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.09 (92¢) | $51,571 | +$4,484 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | Woaifacai | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 1.35 (74¢) | $29,488 | +$10,361 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Pistons | Celtics | 1.12 (89¢) | $62,306 | -$62,306 | ❌ Perdida |
 | Flaznorp | Will FC Barcelona win on 2026-10-20? | No | 1.10 (91¢) | $81,107 | +$8,022 | ✅ Ganada |
-| 0x6db5…e279 | Celtics vs. Pistons | Celtics | 1.14 (88¢) | $26,999 | -$26,999 | ❌ Perdida |
