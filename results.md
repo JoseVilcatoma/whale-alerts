@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 20:16:16 (hora de Perú)
+Actualizado: 2026-10-20 20:18:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5795**  ($320,994,222 en total)
+- Apuestas registradas: **5796**  ($321,025,667 en total)
 - Resueltas: **5743** — 3523 ganadas / 2220 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 602
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | 76ers vs. Knicks | 76ers | 1.69 (59¢) | $31,445 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Oilers | Wild | 2.17 (46¢) | $36,813 | — | ⏳ Pendiente |
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.67 (60¢) | $94,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FK Bodø/Glimt win on 2026-10-20? | No | 1.25 (80¢) | $36,771 | +$9,193 | ✅ Ganada |
 | ripley86alien | Will SSC Napoli win on 2026-10-20? | Yes | 1.79 (56¢) | $175,643 | +$138,006 | ✅ Ganada |
 | totoro3miyazaki | Will Club Atlético de Madrid win on 2026-10-20? | No | 1.82 (55¢) | $56,823 | +$46,492 | ✅ Ganada |
-| totoro3miyazaki | Will VfB Stuttgart win on 2026-10-20? | Yes | 3.33 (30¢) | $202,629 | -$202,629 | ❌ Perdida |
