@@ -88573,5 +88573,35 @@
     "status": "pending",
     "ultimo_fill": 1792621041,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11996,
+    "timestamp": 1792621098,
+    "username": "OhWhenTheReds",
+    "wallet": "0x918b42a06ff25eaaa4a79eca9da6a9de46f4ea63",
+    "slug": "mls-fcc-dcu-2026-09-05-fcc",
+    "title": "Will FC Cincinnati win on 2026-09-05?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 52633.3758,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1792621098,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11997,
+    "timestamp": 1792621172,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "nba-chi-tor-2026-10-21-spread-home-10pt5",
+    "title": "Spread: Raptors (-10.5)",
+    "outcome": "Bulls",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792621172,
+    "fills": 1
   }
 ]
