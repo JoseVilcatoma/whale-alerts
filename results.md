@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 14:08:46 (hora de Perú)
+Actualizado: 2026-10-21 14:10:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5869**  ($325,257,162 en total)
+- Apuestas registradas: **5873**  ($325,627,822 en total)
 - Resueltas: **5802** — 3555 ganadas / 2247 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 49
 - Apostadores distintos: 606
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 414 | 220 | 9 | 65% | $40,685,061 | +$1,123,804 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 414 | 220 | 10 | 65% | $40,711,518 | +$1,123,804 |
 | Sassy-Bucket | 81 | 77 | 2 | 51% | $9,774,213 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,9 +71,13 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Club Brugge KV vs. Racing Club de Lens: O/U 3.5 | Under 3.5 | 1.75 (57¢) | $26,457 | — | ⏳ Pendiente |
 | Anon455 | Will Arsenal FC win on 2026-10-21? | No | 1.52 (66¢) | $26,337 | — | ⏳ Pendiente |
+| Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.38 (42¢) | $118,565 | — | ⏳ Pendiente |
 | ndb1 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $51,637 | — | ⏳ Pendiente |
+| Jokerxing7 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Over 4.5 | 2.13 (47¢) | $158,733 | — | ⏳ Pendiente |
 | ndb1 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $93,144 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München vs. Arsenal FC end in a draw? | Yes | 3.85 (26¢) | $66,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.35 (74¢) | $190,423 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $58,000 | — | ⏳ Pendiente |
 | SparYel | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $32,128 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | LlamaEnjoyer | Thunder vs. Spurs | Thunder | 1.12 (89¢) | $76,903 | +$9,505 | ✅ Ganada |
 | TAIWANNUMBERONE | Thunder vs. Spurs | Thunder | 1.11 (90¢) | $34,305 | +$3,812 | ✅ Ganada |
 | RJW1 | Will FC Bayern München win on 2026-10-21? | Yes | 2.13 (47¢) | $157,067 | — | ⏳ Pendiente |
-| mooseborzoii | Thunder vs. Spurs | Thunder | 1.45 (69¢) | $58,763 | +$26,401 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.61 (62¢) | $37,200 | +$22,800 | ✅ Ganada |
-| mooseborzoii | Thunder vs. Spurs | Thunder | 1.59 (63¢) | $29,426 | +$17,282 | ✅ Ganada |
-| Woaifacai | Thunder vs. Spurs | Thunder | 1.79 (56¢) | $35,340 | +$27,767 | ✅ Ganada |
