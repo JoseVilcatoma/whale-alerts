@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 13:24:50 (hora de Perú)
+Actualizado: 2026-10-21 13:26:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5856**  ($324,336,128 en total)
+- Apuestas registradas: **5857**  ($324,379,694 en total)
 - Resueltas: **5795** — 3551 ganadas / 2244 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 605
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 605 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $43,567 | — | ⏳ Pendiente |
 | tin54321 | Lisbon: Marco Trungelliti vs Carlo Alberto Caniato | Carlo Alberto Caniato | 1.23 (81¢) | $55,754 | — | ⏳ Pendiente |
 | nb1985 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $50,000 | — | ⏳ Pendiente |
 | Theshorty | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 1.69 (59¢) | $28,025 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 605 en total)_
 | mooseborzoii | 76ers vs. Knicks | 76ers | 1.85 (54¢) | $161,647 | +$137,699 | ✅ Ganada |
 | ethanaz | 76ers vs. Knicks | Knicks | 2.94 (34¢) | $103,312 | -$103,312 | ❌ Perdida |
 | Jokerxing7 | Thunder vs. Spurs | Spurs | 2.00 (50¢) | $171,826 | -$171,826 | ❌ Perdida |
-| mooseborzoii | 76ers vs. Knicks | 76ers | 1.61 (62¢) | $73,668 | +$45,151 | ✅ Ganada |
