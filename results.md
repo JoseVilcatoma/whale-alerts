@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 00:10:30 (hora de Perú)
+Actualizado: 2026-10-21 00:12:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5820**  ($322,592,500 en total)
+- Apuestas registradas: **5821**  ($322,686,805 en total)
 - Resueltas: **5792** — 3549 ganadas / 2243 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 602
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 414 | 220 | 3 | 65% | $40,232,175 | +$1,123,804 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 414 | 220 | 4 | 65% | $40,326,479 | +$1,123,804 |
 | Sassy-Bucket | 81 | 77 | 2 | 51% | $9,774,213 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 4.5 | Under 4.5 | 1.54 (65¢) | $94,304 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.09 (92¢) | $51,571 | +$4,484 | ✅ Ganada |
 | CHZHSHCH | Thunder vs. Spurs | Thunder | 1.08 (93¢) | $106,196 | +$7,993 | ✅ Ganada |
 | 0x6db5…e279 | Thunder vs. Spurs | Thunder | 1.33 (75¢) | $34,775 | +$11,592 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | Flaznorp | Will FC Barcelona win on 2026-10-20? | No | 1.10 (91¢) | $81,107 | +$8,022 | ✅ Ganada |
 | 0x6db5…e279 | Celtics vs. Pistons | Celtics | 1.14 (88¢) | $26,999 | -$26,999 | ❌ Perdida |
 | mooseborzoii | Celtics vs. Pistons | Celtics | 1.23 (81¢) | $33,348 | -$33,348 | ❌ Perdida |
-| Anon455 | Will FC Barcelona win on 2026-10-20? | No | 1.30 (77¢) | $30,800 | +$9,200 | ✅ Ganada |
