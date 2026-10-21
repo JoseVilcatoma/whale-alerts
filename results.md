@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 20:28:37 (hora de Perú)
+Actualizado: 2026-10-20 20:30:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5797**  ($321,099,335 en total)
+- Apuestas registradas: **5800**  ($321,375,441 en total)
 - Resueltas: **5743** — 3523 ganadas / 2220 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 35
 - Apostadores distintos: 602
 
 ### Balance
@@ -33,12 +33,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 98 | 47 | 1 | 68% | $6,444,374 | +$190,856 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
-| mooseborzoii | 64 | 40 | 2 | 62% | $6,108,585 | +$647,001 |
+| mooseborzoii | 64 | 40 | 3 | 62% | $6,148,254 | +$647,001 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Lakersfan111 | 62 | 40 | 1 | 61% | $5,172,543 | +$24,894 |
-| ethanaz | 56 | 23 | 0 | 71% | $4,883,840 | -$115,755 |
+| ethanaz | 56 | 23 | 1 | 71% | $4,987,152 | -$115,755 |
 | BrotherObama | 44 | 49 | 4 | 47% | $4,296,413 | -$137,108 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | 76ers vs. Knicks | 76ers | 1.85 (54¢) | $39,669 | — | ⏳ Pendiente |
+| ethanaz | 76ers vs. Knicks | Knicks | 2.94 (34¢) | $103,312 | — | ⏳ Pendiente |
+| Jokerxing7 | Thunder vs. Spurs | Spurs | 2.00 (50¢) | $133,126 | — | ⏳ Pendiente |
 | mooseborzoii | 76ers vs. Knicks | 76ers | 1.61 (62¢) | $73,668 | — | ⏳ Pendiente |
 | 0x6db5…e279 | 76ers vs. Knicks | 76ers | 1.69 (59¢) | $31,445 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Oilers | Wild | 2.17 (46¢) | $36,813 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Will Paris Saint-Germain FC win on 2026-10-20? | Yes | 2.44 (41¢) | $28,514 | +$41,033 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Manchester City FC (-2.5) | AEK | 1.75 (57¢) | $28,500 | -$28,500 | ❌ Perdida |
 | HVAB | Cali: Hugo Dellien vs Juan Manuel La Serna | Juan Manuel La Serna | 1.08 (93¢) | $50,000 | +$3,763 | ✅ Ganada |
-| tenniz | Cali: Hugo Dellien vs Juan Manuel La Serna | Juan Manuel La Serna | 1.12 (89¢) | $91,719 | +$11,336 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FK Bodø/Glimt win on 2026-10-20? | No | 1.25 (80¢) | $36,771 | +$9,193 | ✅ Ganada |
-| ripley86alien | Will SSC Napoli win on 2026-10-20? | Yes | 1.79 (56¢) | $175,643 | +$138,006 | ✅ Ganada |
