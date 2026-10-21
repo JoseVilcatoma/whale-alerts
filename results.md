@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 21:18:34 (hora de Perú)
+Actualizado: 2026-10-20 21:20:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5810**  ($321,909,266 en total)
-- Resueltas: **5746** — 3524 ganadas / 2222 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Apuestas registradas: **5812**  ($321,975,893 en total)
+- Resueltas: **5747** — 3525 ganadas / 2222 perdidas (**61%** de acierto)
+- Pendientes: 43
 - Apostadores distintos: 602
 
 ### Balance
 
-- **Resultado de los apostadores: +$288,430** sobre $319,027,582 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,262** sobre $566,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$370,420** sobre $319,089,434 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,130** sobre $566,800 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 409 | 219 | 6 | 65% | $40,046,377 | +$1,036,256 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 409 | 219 | 7 | 65% | $40,083,577 | +$1,036,256 |
 | Sassy-Bucket | 80 | 77 | 3 | 51% | $9,774,213 | -$771,841 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
 | ferrariChampions2026 | 98 | 47 | 1 | 68% | $6,444,374 | +$190,856 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| mooseborzoii | 64 | 40 | 4 | 62% | $6,299,508 | +$647,001 |
+| mooseborzoii | 64 | 40 | 5 | 62% | $6,328,934 | +$647,001 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.61 (62¢) | $37,200 | — | ⏳ Pendiente |
+| mooseborzoii | Thunder vs. Spurs | Thunder | 1.59 (63¢) | $29,426 | — | ⏳ Pendiente |
 | Woaifacai | Thunder vs. Spurs | Thunder | 1.79 (56¢) | $35,340 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Knicks | 76ers | 1.12 (89¢) | $81,598 | — | ⏳ Pendiente |
 | Jokerxing7 | Thunder vs. Spurs: O/U 230.5 | Over 230.5 | 2.08 (48¢) | $47,495 | — | ⏳ Pendiente |
@@ -89,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Oilers | Wild | 2.17 (46¢) | $36,813 | — | ⏳ Pendiente |
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.67 (60¢) | $94,200 | — | ⏳ Pendiente |
-| yabanci | Spread: Knicks (-2.5) | 76ers | 2.33 (43¢) | $61,852 | — | ⏳ Pendiente |
+| yabanci | Spread: Knicks (-2.5) | 76ers | 2.33 (43¢) | $61,852 | +$81,990 | ✅ Ganada |
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $27,151 | — | ⏳ Pendiente |
 | Woaifacai | Spread: Knicks (-4.5) | Knicks | 1.96 (51¢) | $27,214 | — | ⏳ Pendiente |
 | Sassy-Bucket | Missouri State vs. Delaware | Delaware | 1.67 (60¢) | $33,852 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | UpTheBlues | Will AS Roma win on 2026-10-20? | Yes | 1.14 (88¢) | $25,393 | +$3,463 | ✅ Ganada |
 | Jokerxing7 | Will FC Barcelona win on 2026-10-20? | Yes | 2.56 (39¢) | $108,333 | -$108,333 | ❌ Perdida |
 | Jokerxing7 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Over 4.5 | 2.33 (43¢) | $39,448 | +$52,291 | ✅ Ganada |
-| BrotherObama | Wild vs. Oilers: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $26,000 | — | ⏳ Pendiente |
-| SebastianAde1996 | Will Club Atlético de Madrid win on 2026-10-20? | Yes | 2.22 (45¢) | $77,000 | -$77,000 | ❌ Perdida |
