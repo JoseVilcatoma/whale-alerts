@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 16:35:28 (hora de Perú)
+Actualizado: 2026-10-21 16:37:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5884**  ($326,141,942 en total)
-- Resueltas: **5838** — 3578 ganadas / 2260 perdidas (**61%** de acierto)
-- Pendientes: 24
-- Apostadores distintos: 606
+- Apuestas registradas: **5885**  ($326,209,666 en total)
+- Resueltas: **5840** — 3580 ganadas / 2260 perdidas (**61%** de acierto)
+- Pendientes: 23
+- Apostadores distintos: 607
 
 ### Balance
 
-- **Resultado de los apostadores: +$382,773** sobre $323,932,209 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,331** sobre $575,900 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$464,405** sobre $324,072,792 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,210** sobre $576,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 416 | 222 | 8 | 65% | $40,860,989 | +$1,058,561 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 418 | 222 | 6 | 65% | $40,860,989 | +$1,140,193 |
 | Sassy-Bucket | 81 | 77 | 2 | 51% | $9,774,213 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 31 | 16 | 0 | 66% | $1,825,045 | -$150,964 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 
-_(mostrando los 40 de mayor monto, de 606 en total)_
+_(mostrando los 40 de mayor monto, de 607 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jacdoh | M25 Tamworth: Blake Ellis vs Benjamin O'Connell | Blake Ellis | 1.33 (75¢) | $67,724 | — | ⏳ Pendiente |
 | EdZachary | Pacers vs. Pelicans | Pelicans | 2.33 (43¢) | $86,000 | — | ⏳ Pendiente |
 | 778908 | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.06 (94¢) | $46,896 | — | ⏳ Pendiente |
 | bluemario | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.49 (67¢) | $34,362 | — | ⏳ Pendiente |
@@ -81,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.25 (80¢) | $103,193 | +$25,798 | ✅ Ganada |
 | Flaznorp | Will FC Bayern München win on 2026-10-21? | Yes | 1.41 (71¢) | $27,294 | -$27,294 | ❌ Perdida |
 | RN1 | Will Sporting CP vs. LASK Linz end in a draw? | No | 1.54 (65¢) | $31,040 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Aston Villa FC (-2.5) | Viking FK | 1.67 (60¢) | $46,278 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Aston Villa FC (-2.5) | Viking FK | 1.67 (60¢) | $46,278 | +$30,852 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Club Brugge KV vs. Racing Club de Lens: O/U 3.5 | Under 3.5 | 1.75 (57¢) | $26,457 | +$19,959 | ✅ Ganada |
 | Anon455 | Will Arsenal FC win on 2026-10-21? | No | 1.52 (66¢) | $26,337 | +$13,568 | ✅ Ganada |
 | Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.38 (42¢) | $118,565 | +$163,732 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | jankysankyclow | W50 Cherbourg-en-Cotentin: Veronika Podrez vs Julia Stusek | Veronika Podrez | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,435 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,723 | — | ⏳ Pendiente |
-| crisp1973 | Will FC Bayern München win on 2026-10-21? | No | 1.82 (55¢) | $40,397 | +$33,052 | ✅ Ganada |
