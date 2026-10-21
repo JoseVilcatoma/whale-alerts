@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 17:03:47 (hora de Perú)
+Actualizado: 2026-10-21 17:05:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5888**  ($326,331,922 en total)
-- Resueltas: **5847** — 3583 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Apuestas registradas: **5889**  ($326,361,371 en total)
+- Resueltas: **5849** — 3585 ganadas / 2264 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 608
 
 ### Balance
 
-- **Resultado de los apostadores: +$286,314** sobre $324,591,265 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,255** sobre $576,800 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$306,232** sobre $324,672,523 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,200** sobre $577,000 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 608 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Spread: Raptors (-10.5) | Raptors | 2.00 (50¢) | $29,449 | — | ⏳ Pendiente |
 | pau1og1 | Guangzhou 2: Liam Broady vs Akira Santillan | Liam Broady | 1.52 (66¢) | $64,973 | — | ⏳ Pendiente |
 | Donkey14 | Bucks vs. Wizards | Wizards | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
 | googleplay | Spread: Wizards (-4.5) | Bucks | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Jacdoh | M25 Tamworth: Blake Ellis vs Benjamin O'Connell | Blake Ellis | 1.33 (75¢) | $67,724 | — | ⏳ Pendiente |
 | EdZachary | Pacers vs. Pelicans | Pelicans | 2.33 (43¢) | $86,000 | — | ⏳ Pendiente |
-| 778908 | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.06 (94¢) | $46,896 | — | ⏳ Pendiente |
-| bluemario | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.49 (67¢) | $34,362 | — | ⏳ Pendiente |
+| 778908 | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.06 (94¢) | $46,896 | +$2,993 | ✅ Ganada |
+| bluemario | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.49 (67¢) | $34,362 | +$16,925 | ✅ Ganada |
 | Anon455 | Will FC Bayern München win on 2026-10-21? | No | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
 | texaskid | Spread: Wizards (-4.5) | Bucks | 2.00 (50¢) | $33,949 | — | ⏳ Pendiente |
 | mooseborzoii | Kings vs. Clippers | Clippers | 1.56 (64¢) | $34,076 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 608 en total)_
 | rabbitfoot1 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $55,176 | +$57,428 | ✅ Ganada |
 | 1l2ihj34li12u34 | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $30,872 | -$30,872 | ❌ Perdida |
 | tankfest2027 | Valorant: CGN Esports vs Joblife (BO3) - Project Blender Phase 2 Group A | CGN Esports | 1.96 (51¢) | $38,269 | +$36,769 | ✅ Ganada |
-| mooseborzoi | Mavericks vs. Rockets | Rockets | 1.30 (77¢) | $48,074 | — | ⏳ Pendiente |

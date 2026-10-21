@@ -88405,7 +88405,7 @@
     "side": "BUY",
     "usd": 34362.2897,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792616512,
     "fills": 1
   },
@@ -88420,7 +88420,7 @@
     "side": "BUY",
     "usd": 46896.3778,
     "odds_at_bet": 94,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792617878,
     "fills": 1
   },
@@ -88497,6 +88497,21 @@
     "odds_at_bet": 66,
     "status": "pending",
     "ultimo_fill": 1792619367,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11991,
+    "timestamp": 1792620310,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "nba-chi-tor-2026-10-21-spread-home-10pt5",
+    "title": "Spread: Raptors (-10.5)",
+    "outcome": "Raptors",
+    "side": "BUY",
+    "usd": 29449.295,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792620310,
     "fills": 1
   }
 ]
