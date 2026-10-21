@@ -87718,5 +87718,35 @@
     "status": "pending",
     "ultimo_fill": 1792590567,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11883,
+    "timestamp": 1792594373,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "nba-cha-bkn-2026-10-21",
+    "title": "Hornets vs. Nets",
+    "outcome": "Nets",
+    "side": "BUY",
+    "usd": 27953.6256,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1792594373,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 11884,
+    "timestamp": 1792594079,
+    "username": "Jokerxing7",
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "slug": "ucl-com-mnu-2026-10-21-total-3pt5",
+    "title": "Como 1907 vs. Manchester United FC: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 27081.5783,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1792594079,
+    "fills": 1
   }
 ]
