@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 21:47:40 (hora de Perú)
+Actualizado: 2026-10-20 21:49:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5814**  ($322,191,723 en total)
-- Resueltas: **5774** — 3535 ganadas / 2239 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Apuestas registradas: **5815**  ($322,226,029 en total)
+- Resueltas: **5776** — 3537 ganadas / 2239 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 602
 
 ### Balance
 
-- **Resultado de los apostadores: +$119,629** sobre $320,353,896 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$5,009** sobre $569,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$161,729** sobre $320,415,855 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,873** sobre $569,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 411 | 220 | 4 | 65% | $40,083,577 | +$1,083,289 |
-| Sassy-Bucket | 80 | 77 | 3 | 51% | $9,774,213 | -$771,841 |
+| Sassy-Bucket | 81 | 77 | 2 | 51% | $9,774,213 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 22 | 1 | 61% | $6,923,829 | -$579,913 |
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 | Jsram | 21 | 19 | 0 | 52% | $1,829,321 | -$98,360 |
+| TAIWANNUMBERONE | 30 | 16 | 1 | 65% | $1,825,045 | -$154,776 |
 | 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
-| TAIWANNUMBERONE | 30 | 16 | 0 | 65% | $1,790,740 | -$154,776 |
 
 _(mostrando los 40 de mayor monto, de 602 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Thunder vs. Spurs | Thunder | 1.11 (90¢) | $34,305 | — | ⏳ Pendiente |
 | RJW1 | Will FC Bayern München win on 2026-10-21? | Yes | 2.13 (47¢) | $157,067 | — | ⏳ Pendiente |
 | mooseborzoii | Thunder vs. Spurs | Thunder | 1.45 (69¢) | $58,763 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Spurs | Thunder | 1.61 (62¢) | $37,200 | — | ⏳ Pendiente |
@@ -96,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | yabanci | Spread: Knicks (-2.5) | 76ers | 2.33 (43¢) | $61,852 | +$81,990 | ✅ Ganada |
 | Mooseborzoiii | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $27,151 | -$27,151 | ❌ Perdida |
 | Woaifacai | Spread: Knicks (-4.5) | Knicks | 1.96 (51¢) | $27,214 | -$27,214 | ❌ Perdida |
-| Sassy-Bucket | Missouri State vs. Delaware | Delaware | 1.67 (60¢) | $33,852 | — | ⏳ Pendiente |
+| Sassy-Bucket | Missouri State vs. Delaware | Delaware | 1.67 (60¢) | $33,852 | +$22,568 | ✅ Ganada |
 | surfandturf | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $38,000 | +$62,000 | ✅ Ganada |
 | ferrariChampions2026 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $32,894 | -$32,894 | ❌ Perdida |
 | www511zwin | Spread: Knicks (-4.5) | 76ers | 2.00 (50¢) | $25,189 | +$25,189 | ✅ Ganada |
@@ -108,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Avalanche vs. Devils | Devils | 1.96 (51¢) | $50,945 | +$48,947 | ✅ Ganada |
 | Sassy-Bucket | Avalanche vs. Devils | Avalanche | 2.04 (49¢) | $106,733 | -$106,733 | ❌ Perdida |
 | Jokerxing7 | 76ers vs. Knicks: O/U 231.5 | Over 231.5 | 2.00 (50¢) | $55,388 | -$55,388 | ❌ Perdida |
-| Zzzz87 | Missouri State vs. Delaware | Delaware | 1.69 (59¢) | $28,107 | — | ⏳ Pendiente |
+| Zzzz87 | Missouri State vs. Delaware | Delaware | 1.69 (59¢) | $28,107 | +$19,532 | ✅ Ganada |
 | monkeymashingkeyboard | 76ers vs. Knicks | Knicks | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
 | Jokerxing7 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $43,781 | -$43,781 | ❌ Perdida |
 | Sassy-Bucket | Avalanche vs. Devils | Avalanche | 2.08 (48¢) | $50,838 | -$50,838 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | 778908 | Will FK Bodø/Glimt win on 2026-10-20? | No | 1.09 (92¢) | $125,566 | +$10,919 | ✅ Ganada |
 | surfandturf | Celtics vs. Pistons | Celtics | 1.89 (53¢) | $25,108 | -$25,108 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5 | Under 4.5 | 1.79 (56¢) | $27,962 | -$27,962 | ❌ Perdida |
-| UpTheBlues | Will AS Roma win on 2026-10-20? | Yes | 1.14 (88¢) | $25,393 | +$3,463 | ✅ Ganada |
