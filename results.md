@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 12:22:36 (hora de Perú)
+Actualizado: 2026-10-21 12:24:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5846**  ($323,771,155 en total)
+- Apuestas registradas: **5847**  ($323,913,744 en total)
 - Resueltas: **5795** — 3551 ganadas / 2244 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 603
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| QVanguard | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $142,588 | — | ⏳ Pendiente |
 | YYYYY999 | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $62,746 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: TheMongolz vs PRIVATE (BO3) - 1win Private Club Playoffs | TheMongolz | 1.52 (66¢) | $32,202 | — | ⏳ Pendiente |
 | 778908 | Will Galatasaray SK win on 2026-10-21? | No | 1.61 (62¢) | $27,022 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 603 en total)_
 | Woaifacai | Spread: Knicks (-4.5) | Knicks | 1.96 (51¢) | $27,214 | -$27,214 | ❌ Perdida |
 | Sassy-Bucket | Missouri State vs. Delaware | Delaware | 1.67 (60¢) | $33,852 | +$22,568 | ✅ Ganada |
 | surfandturf | 76ers vs. Knicks | 76ers | 2.63 (38¢) | $38,000 | +$62,000 | ✅ Ganada |
-| ferrariChampions2026 | Spread: Knicks (-4.5) | Knicks | 2.00 (50¢) | $32,894 | -$32,894 | ❌ Perdida |
