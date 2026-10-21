@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 20:55:40 (hora de Perú)
+Actualizado: 2026-10-20 20:57:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5808**  ($321,792,328 en total)
+- Apuestas registradas: **5809**  ($321,873,927 en total)
 - Resueltas: **5743** — 3523 ganadas / 2220 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 602
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 408 | 219 | 6 | 65% | $39,964,779 | +$987,309 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 408 | 219 | 7 | 65% | $40,046,377 | +$987,309 |
 | Sassy-Bucket | 80 | 75 | 5 | 52% | $9,774,213 | -$614,270 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Knicks | 76ers | 1.12 (89¢) | $81,598 | — | ⏳ Pendiente |
 | Jokerxing7 | Thunder vs. Spurs: O/U 230.5 | Over 230.5 | 2.08 (48¢) | $47,495 | — | ⏳ Pendiente |
 | Jokerxing7 | Thunder vs. Spurs: O/U 230.5 | Under 230.5 | 1.92 (52¢) | $27,719 | — | ⏳ Pendiente |
 | curie | 76ers vs. Knicks | 76ers | 1.25 (80¢) | $28,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | BrotherObama | Wild vs. Oilers: O/U 6.5 | Over 6.5 | 2.13 (47¢) | $26,000 | — | ⏳ Pendiente |
 | SebastianAde1996 | Will Club Atlético de Madrid win on 2026-10-20? | Yes | 2.22 (45¢) | $77,000 | -$77,000 | ❌ Perdida |
 | www511zwin | Spread: Celtics (-1.5) | Celtics | 1.96 (51¢) | $40,914 | -$40,914 | ❌ Perdida |
-| n0tTODAY | Will Paris Saint-Germain FC win on 2026-10-20? | No | 1.69 (59¢) | $28,587 | -$28,587 | ❌ Perdida |
