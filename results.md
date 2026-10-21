@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 17:55:11 (hora de Perú)
+Actualizado: 2026-10-21 18:00:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5903**  ($327,245,478 en total)
+- Apuestas registradas: **5904**  ($327,293,790 en total)
 - Resueltas: **5849** — 3585 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 609
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | Bucks vs. Wizards | Wizards | 1.67 (60¢) | $48,313 | — | ⏳ Pendiente |
 | lpcapital1 | Spread: Wizards (-4.5) | Wizards | 2.04 (49¢) | $25,908 | — | ⏳ Pendiente |
 | googleplay | Spread: Grizzlies (-1.5) | Grizzlies | 1.89 (53¢) | $64,779 | — | ⏳ Pendiente |
 | Sassy-Bucket | Jazz vs. Grizzlies | Jazz | 2.22 (45¢) | $76,590 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 | QVanguard | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $142,588 | -$142,588 | ❌ Perdida |
 | YYYYY999 | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $62,746 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: TheMongolz vs PRIVATE (BO3) - 1win Private Club Playoffs | TheMongolz | 1.52 (66¢) | $32,202 | +$16,589 | ✅ Ganada |
-| 778908 | Will Galatasaray SK win on 2026-10-21? | No | 1.61 (62¢) | $27,022 | -$27,022 | ❌ Perdida |
