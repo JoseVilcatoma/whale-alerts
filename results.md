@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 16:27:10 (hora de Perú)
+Actualizado: 2026-10-21 16:29:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5883**  ($326,055,942 en total)
-- Resueltas: **5833** — 3573 ganadas / 2260 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **5835** — 3575 ganadas / 2260 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 606
 
 ### Balance
 
-- **Resultado de los apostadores: +$312,598** sobre $323,589,663 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,411** sobre $575,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$371,993** sobre $323,819,246 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,359** sobre $575,600 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 222 | 9 | 65% | $40,860,989 | +$1,032,763 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 416 | 222 | 8 | 65% | $40,860,989 | +$1,058,561 |
 | Sassy-Bucket | 81 | 77 | 2 | 51% | $9,774,213 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | texaskid | Spread: Wizards (-4.5) | Bucks | 2.00 (50¢) | $33,949 | — | ⏳ Pendiente |
 | mooseborzoii | Kings vs. Clippers | Clippers | 1.56 (64¢) | $34,076 | — | ⏳ Pendiente |
 | Flaznorp | Will FC Bayern München win on 2026-10-21? | No | 1.23 (81¢) | $34,231 | +$8,029 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.25 (80¢) | $103,193 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.25 (80¢) | $103,193 | +$25,798 | ✅ Ganada |
 | Flaznorp | Will FC Bayern München win on 2026-10-21? | Yes | 1.41 (71¢) | $27,294 | -$27,294 | ❌ Perdida |
 | RN1 | Will Sporting CP vs. LASK Linz end in a draw? | No | 1.54 (65¢) | $31,040 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Aston Villa FC (-2.5) | Viking FK | 1.67 (60¢) | $46,278 | — | ⏳ Pendiente |
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | SparYel | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $32,128 | +$33,440 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $53,000 | -$53,000 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $115,776 | +$77,184 | ✅ Ganada |
-| 778908 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.27 (79¢) | $126,390 | — | ⏳ Pendiente |
+| 778908 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.27 (79¢) | $126,390 | +$33,597 | ✅ Ganada |
 | 1l2ihj34li12u34 | Will Club Brugge KV win on 2026-10-21? | No | 2.27 (44¢) | $75,818 | -$75,818 | ❌ Perdida |
 | Flaznorp | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $25,534 | — | ⏳ Pendiente |
 | crisp1973 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.64 (61¢) | $29,280 | -$29,280 | ❌ Perdida |
