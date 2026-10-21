@@ -87313,5 +87313,20 @@
     "status": "pending",
     "ultimo_fill": 1792547753,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11805,
+    "timestamp": 1792548704,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "nba-okc-sas-2026-10-20",
+    "title": "Thunder vs. Spurs",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 35339.7464,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1792548704,
+    "fills": 1
   }
 ]
