@@ -87613,5 +87613,20 @@
     "status": "pending",
     "ultimo_fill": 1792585003,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 11873,
+    "timestamp": 1792585813,
+    "username": "tankfest2027",
+    "wallet": "0x4d6ef7033e3e332ba584882d09070b3abe755cfd",
+    "slug": "val-cgn-jl-2026-10-21",
+    "title": "Valorant: CGN Esports vs Joblife (BO3) - Project Blender Phase 2 Group A",
+    "outcome": "CGN Esports",
+    "side": "BUY",
+    "usd": 38269.308600000004,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792585813,
+    "fills": 1
   }
 ]
