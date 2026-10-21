@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-20 23:47:56 (hora de Perú)
+Actualizado: 2026-10-20 23:50:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5820**  ($322,592,500 en total)
-- Resueltas: **5790** — 3548 ganadas / 2242 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **5792** — 3549 ganadas / 2243 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 602
 
 ### Balance
 
-- **Resultado de los apostadores: +$102,276** sobre $321,237,001 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,730** sobre $571,100 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$80,368** sobre $321,312,214 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,738** sobre $571,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,8 +83,8 @@ _(mostrando los 40 de mayor monto, de 602 en total)_
 | mooseborzoii | Thunder vs. Spurs | Thunder | 1.59 (63¢) | $29,426 | +$17,282 | ✅ Ganada |
 | Woaifacai | Thunder vs. Spurs | Thunder | 1.79 (56¢) | $35,340 | +$27,767 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Knicks | 76ers | 1.12 (89¢) | $81,598 | +$10,085 | ✅ Ganada |
-| Jokerxing7 | Thunder vs. Spurs: O/U 230.5 | Over 230.5 | 2.08 (48¢) | $47,495 | — | ⏳ Pendiente |
-| Jokerxing7 | Thunder vs. Spurs: O/U 230.5 | Under 230.5 | 1.92 (52¢) | $27,719 | — | ⏳ Pendiente |
+| Jokerxing7 | Thunder vs. Spurs: O/U 230.5 | Over 230.5 | 2.08 (48¢) | $47,495 | -$47,495 | ❌ Perdida |
+| Jokerxing7 | Thunder vs. Spurs: O/U 230.5 | Under 230.5 | 1.92 (52¢) | $27,719 | +$25,586 | ✅ Ganada |
 | curie | 76ers vs. Knicks | 76ers | 1.25 (80¢) | $28,800 | +$7,200 | ✅ Ganada |
 | suntori | 76ers vs. Knicks | Knicks | 2.94 (34¢) | $32,718 | -$32,718 | ❌ Perdida |
 | RJW1 | Will FC Bayern München win on 2026-10-21? | Yes | 2.13 (47¢) | $29,098 | — | ⏳ Pendiente |
