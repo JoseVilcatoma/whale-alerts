@@ -87143,11 +87143,11 @@
     "title": "Thunder vs. Spurs",
     "outcome": "Spurs",
     "side": "BUY",
-    "usd": 133125.865,
+    "usd": 171825.685,
     "odds_at_bet": 50,
     "status": "pending",
-    "ultimo_fill": 1792546150,
-    "fills": 1
+    "ultimo_fill": 1792546255,
+    "fills": 2
   },
   {
     "telegram_msg_id": 11791,
@@ -87173,10 +87173,25 @@
     "title": "76ers vs. Knicks",
     "outcome": "76ers",
     "side": "BUY",
-    "usd": 39668.778,
+    "usd": 128332.77119999999,
     "odds_at_bet": 54,
     "status": "pending",
-    "ultimo_fill": 1792546237,
+    "ultimo_fill": 1792546318,
+    "fills": 3
+  },
+  {
+    "telegram_msg_id": 11793,
+    "timestamp": 1792546324,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-phi-nyk-2026-10-20",
+    "title": "76ers vs. Knicks",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 36102.943600000006,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1792546324,
     "fills": 1
   }
 ]
