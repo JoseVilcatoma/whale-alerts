@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 16:14:36 (hora de Perú)
+Actualizado: 2026-10-21 16:16:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5882**  ($326,009,046 en total)
-- Resueltas: **5806** — 3558 ganadas / 2248 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Resueltas: **5818** — 3564 ganadas / 2254 perdidas (**61%** de acierto)
+- Pendientes: 42
 - Apostadores distintos: 606
 
 ### Balance
 
-- **Resultado de los apostadores: +$201,154** sobre $321,896,163 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,436** sobre $572,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$167,309** sobre $322,644,307 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,650** sobre $573,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 220 | 11 | 65% | $40,860,989 | +$1,143,763 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 415 | 221 | 10 | 65% | $40,860,989 | +$1,085,763 |
 | Sassy-Bucket | 81 | 77 | 2 | 51% | $9,774,213 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 0 | 52% | $7,386,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
-| ndb1 | 27 | 12 | 2 | 69% | $2,226,161 | +$511,157 |
+| ndb1 | 27 | 13 | 1 | 68% | $2,226,161 | +$459,520 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | milkteaboba | 10 | 11 | 0 | 48% | $2,078,678 | -$838,620 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
@@ -72,33 +72,33 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | bluemario | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.49 (67¢) | $34,362 | — | ⏳ Pendiente |
-| Anon455 | Will FC Bayern München win on 2026-10-21? | No | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
+| Anon455 | Will FC Bayern München win on 2026-10-21? | No | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
 | texaskid | Spread: Wizards (-4.5) | Bucks | 2.00 (50¢) | $33,949 | — | ⏳ Pendiente |
 | mooseborzoii | Kings vs. Clippers | Clippers | 1.56 (64¢) | $34,076 | — | ⏳ Pendiente |
-| Flaznorp | Will FC Bayern München win on 2026-10-21? | No | 1.23 (81¢) | $34,231 | — | ⏳ Pendiente |
+| Flaznorp | Will FC Bayern München win on 2026-10-21? | No | 1.23 (81¢) | $34,231 | +$8,029 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.25 (80¢) | $103,193 | — | ⏳ Pendiente |
-| Flaznorp | Will FC Bayern München win on 2026-10-21? | Yes | 1.41 (71¢) | $27,294 | — | ⏳ Pendiente |
+| Flaznorp | Will FC Bayern München win on 2026-10-21? | Yes | 1.41 (71¢) | $27,294 | -$27,294 | ❌ Perdida |
 | RN1 | Will Sporting CP vs. LASK Linz end in a draw? | No | 1.54 (65¢) | $31,040 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Aston Villa FC (-2.5) | Viking FK | 1.67 (60¢) | $46,278 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Club Brugge KV vs. Racing Club de Lens: O/U 3.5 | Under 3.5 | 1.75 (57¢) | $26,457 | +$19,959 | ✅ Ganada |
 | Anon455 | Will Arsenal FC win on 2026-10-21? | No | 1.52 (66¢) | $26,337 | — | ⏳ Pendiente |
-| Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.38 (42¢) | $118,565 | — | ⏳ Pendiente |
-| ndb1 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $51,637 | — | ⏳ Pendiente |
+| Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.38 (42¢) | $118,565 | +$163,732 | ✅ Ganada |
+| ndb1 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $51,637 | -$51,637 | ❌ Perdida |
 | Jokerxing7 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Over 4.5 | 2.13 (47¢) | $158,733 | — | ⏳ Pendiente |
 | ndb1 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $93,144 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München vs. Arsenal FC end in a draw? | Yes | 3.85 (26¢) | $66,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.35 (74¢) | $190,423 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $58,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $58,000 | -$58,000 | ❌ Perdida |
 | SparYel | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $32,128 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $115,776 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $115,776 | +$77,184 | ✅ Ganada |
 | 778908 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.27 (79¢) | $126,390 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Club Brugge KV win on 2026-10-21? | No | 2.27 (44¢) | $75,818 | — | ⏳ Pendiente |
 | Flaznorp | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $25,534 | — | ⏳ Pendiente |
-| crisp1973 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.64 (61¢) | $29,280 | — | ⏳ Pendiente |
+| crisp1973 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.64 (61¢) | $29,280 | -$29,280 | ❌ Perdida |
 | nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $43,567 | — | ⏳ Pendiente |
 | tin54321 | Lisbon: Marco Trungelliti vs Carlo Alberto Caniato | Carlo Alberto Caniato | 1.23 (81¢) | $55,754 | -$55,754 | ❌ Perdida |
-| nb1985 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $50,000 | — | ⏳ Pendiente |
+| nb1985 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $50,000 | +$33,333 | ✅ Ganada |
 | Theshorty | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 1.69 (59¢) | $28,025 | — | ⏳ Pendiente |
 | nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $100,000 | — | ⏳ Pendiente |
 | tin54321 | Jazz vs. Grizzlies: O/U 244.5 | Under 244.5 | 1.72 (58¢) | $25,000 | — | ⏳ Pendiente |
@@ -128,6 +128,6 @@ _(mostrando los 40 de mayor monto, de 606 en total)_
 | jankysankyclow | W50 Cherbourg-en-Cotentin: Veronika Podrez vs Julia Stusek | Veronika Podrez | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,435 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.33 (75¢) | $28,723 | — | ⏳ Pendiente |
-| crisp1973 | Will FC Bayern München win on 2026-10-21? | No | 1.82 (55¢) | $40,397 | — | ⏳ Pendiente |
+| crisp1973 | Will FC Bayern München win on 2026-10-21? | No | 1.82 (55¢) | $40,397 | +$33,052 | ✅ Ganada |
 | totoro3miyazaki | Will Arsenal FC win on 2026-10-21? | Yes | 3.33 (30¢) | $114,950 | — | ⏳ Pendiente |
 | Jokerxing7 | Will Como 1907 win on 2026-10-21? | Yes | 2.33 (43¢) | $33,269 | +$44,101 | ✅ Ganada |
