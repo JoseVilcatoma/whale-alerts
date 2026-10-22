@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 11:34:37 (hora de Perú)
+Actualizado: 2026-10-22 11:36:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5959**  ($331,470,115 en total)
+- Apuestas registradas: **5961**  ($331,527,507 en total)
 - Resueltas: **5917** — 3622 ganadas / 2295 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 22
 - Apostadores distintos: 612
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 421 | 227 | 7 | 65% | $41,828,053 | +$888,918 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 421 | 227 | 8 | 65% | $41,855,446 | +$888,918 |
 | Sassy-Bucket | 83 | 79 | 2 | 51% | $10,129,011 | -$808,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tiger105 | Will Sunderland AFC win on 2026-10-22? | Yes | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Fateh Saudi Club vs. Al Shabab Saudi Club: O/U 4.5 | Under 4.5 | 1.35 (74¢) | $27,393 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.72 (58¢) | $60,900 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.75 (57¢) | $56,999 | — | ⏳ Pendiente |
 | bluemario | KKS Lech Poznań vs. Sunderland AFC: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $240,335 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | lpcapital1 | Spread: Wizards (-4.5) | Wizards | 2.04 (49¢) | $25,908 | +$26,965 | ✅ Ganada |
 | googleplay | Spread: Grizzlies (-1.5) | Grizzlies | 1.89 (53¢) | $64,779 | +$57,446 | ✅ Ganada |
 | googleplay | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $72,604 | +$59,403 | ✅ Ganada |
-| Sassy-Bucket | Jazz vs. Grizzlies | Jazz | 2.22 (45¢) | $76,590 | -$76,590 | ❌ Perdida |
-| www511zwin | Spread: Atlanta Dream (-3.5) | Golden State Valkyries | 2.04 (49¢) | $40,000 | -$40,000 | ❌ Perdida |
