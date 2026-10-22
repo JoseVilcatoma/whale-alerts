@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 20:45:33 (hora de Perú)
+Actualizado: 2026-10-21 20:47:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5924**  ($328,879,726 en total)
+- Apuestas registradas: **5925**  ($328,953,093 en total)
 - Resueltas: **5856** — 3589 ganadas / 2267 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 610
 
 ### Balance
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | milkteaboba | 10 | 11 | 0 | 48% | $2,078,678 | -$838,620 |
-| googleplay | 5 | 0 | 16 | ⚠️ 100% (5) | $1,990,512 | +$114,648 |
+| googleplay | 5 | 0 | 17 | ⚠️ 100% (5) | $2,063,879 | +$114,648 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Talvez10 | 23 | 18 | 0 | 56% | $1,917,490 | +$324,087 |
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Suns vs. Trail Blazers | Trail Blazers | 1.64 (61¢) | $73,367 | — | ⏳ Pendiente |
 | ropetard | Suns vs. Trail Blazers | Trail Blazers | 1.69 (59¢) | $55,000 | +$932 | 💰 Vendida antes |
 | googleplay | Mavericks vs. Rockets | Rockets | 1.25 (80¢) | $195,532 | — | ⏳ Pendiente |
 | googleplay | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $66,431 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | ndb1 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $93,144 | -$93,144 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München vs. Arsenal FC end in a draw? | Yes | 3.85 (26¢) | $66,905 | +$190,423 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.35 (74¢) | $190,423 | -$190,423 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $58,000 | -$58,000 | ❌ Perdida |
