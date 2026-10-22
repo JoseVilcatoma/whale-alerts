@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 21:16:26 (hora de Perú)
+Actualizado: 2026-10-21 21:18:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5929**  ($329,307,931 en total)
-- Resueltas: **5863** — 3591 ganadas / 2272 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Resueltas: **5864** — 3591 ganadas / 2273 perdidas (**61%** de acierto)
+- Pendientes: 43
 - Apostadores distintos: 610
 
 ### Balance
 
-- **Resultado de los apostadores: +$87,785** sobre $325,382,802 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,475** sobre $578,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$60,285** sobre $325,410,302 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,575** sobre $578,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Lakersfan111 | 63 | 41 | 3 | 61% | $5,329,215 | +$2,529 |
+| Lakersfan111 | 63 | 42 | 2 | 60% | $5,329,215 | -$24,971 |
 | ethanaz | 56 | 24 | 0 | 70% | $4,987,152 | -$219,067 |
 | BrotherObama | 45 | 49 | 3 | 48% | $4,296,413 | -$107,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
