@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 21:04:07 (hora de Perú)
+Actualizado: 2026-10-21 21:06:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5929**  ($329,307,931 en total)
-- Resueltas: **5857** — 3589 ganadas / 2268 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Resueltas: **5863** — 3591 ganadas / 2272 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 610
 
 ### Balance
 
-- **Resultado de los apostadores: +$216,451** sobre $325,149,980 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,243** sobre $577,600 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$87,785** sobre $325,382,802 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,475** sobre $578,200 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 418 | 226 | 5 | 65% | $41,106,683 | +$747,918 |
-| Sassy-Bucket | 81 | 77 | 6 | 51% | $10,129,011 | -$749,273 |
+| Sassy-Bucket | 81 | 78 | 5 | 51% | $10,129,011 | -$829,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 1 | 52% | $7,411,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
-| googleplay | 5 | 0 | 19 | ⚠️ 100% (5) | $2,220,509 | +$114,648 |
+| googleplay | 5 | 2 | 17 | ⚠️ 71% (7) | $2,220,509 | +$52,965 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | milkteaboba | 10 | 11 | 0 | 48% | $2,078,678 | -$838,620 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | ropetard | Suns vs. Trail Blazers | Trail Blazers | 1.69 (59¢) | $55,000 | +$932 | 💰 Vendida antes |
 | googleplay | Mavericks vs. Rockets | Rockets | 1.25 (80¢) | $195,532 | — | ⏳ Pendiente |
 | googleplay | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $66,431 | — | ⏳ Pendiente |
-| googleplay | Bucks vs. Wizards | Bucks | 1.72 (58¢) | $35,683 | — | ⏳ Pendiente |
+| googleplay | Bucks vs. Wizards | Bucks | 1.72 (58¢) | $35,683 | -$35,683 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $144,694 | -$144,694 | ❌ Perdida |
 | bluemario | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Under 3.5 | 4.00 (25¢) | $50,298 | +$150,893 | ✅ Ganada |
 | bluemario | FC Cincinnati vs. D.C. United SC: O/U 2.5 | Under 2.5 | 5.88 (17¢) | $67,938 | -$67,938 | ❌ Perdida |
@@ -94,9 +94,9 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $78,481 | — | ⏳ Pendiente |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $235,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Hornets (-1.5) | Nets | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| Sassy-Bucket | Bucks vs. Wizards | Bucks | 2.50 (40¢) | $80,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Bucks vs. Wizards | Bucks | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
 | Mooseborzoiii | Bucks vs. Wizards | Wizards | 1.67 (60¢) | $48,313 | +$0 | 💰 Vendida antes |
-| lpcapital1 | Spread: Wizards (-4.5) | Wizards | 2.04 (49¢) | $25,908 | — | ⏳ Pendiente |
+| lpcapital1 | Spread: Wizards (-4.5) | Wizards | 2.04 (49¢) | $25,908 | +$26,965 | ✅ Ganada |
 | googleplay | Spread: Grizzlies (-1.5) | Grizzlies | 1.89 (53¢) | $64,779 | — | ⏳ Pendiente |
 | googleplay | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $72,604 | — | ⏳ Pendiente |
 | Sassy-Bucket | Jazz vs. Grizzlies | Jazz | 2.22 (45¢) | $76,590 | — | ⏳ Pendiente |
@@ -113,14 +113,14 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | bluemario | Montevideo City Torque vs. CA Mineiro: O/U 0.5 | Under 0.5 | 7.69 (13¢) | $26,304 | -$26,304 | ❌ Perdida |
 | texaskid | Spread: Raptors (-10.5) | Raptors | 2.00 (50¢) | $29,449 | — | ⏳ Pendiente |
 | pau1og1 | Guangzhou 2: Liam Broady vs Akira Santillan | Liam Broady | 1.52 (66¢) | $64,973 | — | ⏳ Pendiente |
-| Donkey14 | Bucks vs. Wizards | Wizards | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
-| googleplay | Spread: Wizards (-4.5) | Bucks | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| Donkey14 | Bucks vs. Wizards | Wizards | 1.64 (61¢) | $31,282 | +$20,000 | ✅ Ganada |
+| googleplay | Spread: Wizards (-4.5) | Bucks | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | Jacdoh | M25 Tamworth: Blake Ellis vs Benjamin O'Connell | Blake Ellis | 1.33 (75¢) | $67,724 | — | ⏳ Pendiente |
 | EdZachary | Pacers vs. Pelicans | Pelicans | 2.33 (43¢) | $86,000 | — | ⏳ Pendiente |
 | 778908 | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.06 (94¢) | $46,896 | +$2,993 | ✅ Ganada |
 | bluemario | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.49 (67¢) | $34,362 | +$16,925 | ✅ Ganada |
 | Anon455 | Will FC Bayern München win on 2026-10-21? | No | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
-| texaskid | Spread: Wizards (-4.5) | Bucks | 2.00 (50¢) | $33,949 | — | ⏳ Pendiente |
+| texaskid | Spread: Wizards (-4.5) | Bucks | 2.00 (50¢) | $33,949 | -$33,949 | ❌ Perdida |
 | mooseborzoii | Kings vs. Clippers | Clippers | 1.56 (64¢) | $34,076 | — | ⏳ Pendiente |
 | Flaznorp | Will FC Bayern München win on 2026-10-21? | No | 1.23 (81¢) | $34,231 | +$8,029 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.25 (80¢) | $103,193 | +$25,798 | ✅ Ganada |
