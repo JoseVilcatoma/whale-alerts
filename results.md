@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 20:26:57 (hora de Perú)
+Actualizado: 2026-10-21 20:29:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5924**  ($328,879,726 en total)
-- Resueltas: **5850** — 3586 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Resueltas: **5855** — 3588 ganadas / 2267 perdidas (**61%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 610
 
 ### Balance
 
-- **Resultado de los apostadores: +$306,232** sobre $324,720,836 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,200** sobre $577,000 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$241,823** sobre $325,068,676 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,143** sobre $577,500 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 418 | 225 | 6 | 65% | $41,106,683 | +$892,612 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 418 | 226 | 5 | 65% | $41,106,683 | +$747,918 |
 | Sassy-Bucket | 81 | 77 | 4 | 51% | $9,930,803 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 1 | 52% | $7,411,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -75,9 +75,9 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | googleplay | Mavericks vs. Rockets | Rockets | 1.25 (80¢) | $195,532 | — | ⏳ Pendiente |
 | googleplay | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $66,431 | — | ⏳ Pendiente |
 | googleplay | Bucks vs. Wizards | Bucks | 1.72 (58¢) | $35,683 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $144,694 | — | ⏳ Pendiente |
-| bluemario | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Under 3.5 | 4.00 (25¢) | $50,298 | — | ⏳ Pendiente |
-| bluemario | FC Cincinnati vs. D.C. United SC: O/U 2.5 | Under 2.5 | 5.88 (17¢) | $67,938 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $144,694 | -$144,694 | ❌ Perdida |
+| bluemario | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Under 3.5 | 4.00 (25¢) | $50,298 | +$150,893 | ✅ Ganada |
+| bluemario | FC Cincinnati vs. D.C. United SC: O/U 2.5 | Under 2.5 | 5.88 (17¢) | $67,938 | -$67,938 | ❌ Perdida |
 | googleplay | Spread: Pacers (-2.5) | Pelicans | 1.92 (52¢) | $51,878 | — | ⏳ Pendiente |
 | YYYYY999 | Suns vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $34,225 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
@@ -98,10 +98,10 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | www511zwin | Spread: Atlanta Dream (-3.5) | Golden State Valkyries | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
 | googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $47,707 | — | ⏳ Pendiente |
 | googleplay | Jazz vs. Grizzlies | Grizzlies | 1.85 (54¢) | $245,882 | — | ⏳ Pendiente |
-| OhWhenTheReds | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.82 (55¢) | $32,278 | — | ⏳ Pendiente |
+| OhWhenTheReds | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.82 (55¢) | $32,278 | -$32,278 | ❌ Perdida |
 | googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $77,045 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| OhWhenTheReds | Will FC Cincinnati win on 2026-09-05? | Yes | 1.56 (64¢) | $52,633 | — | ⏳ Pendiente |
+| OhWhenTheReds | Will FC Cincinnati win on 2026-09-05? | Yes | 1.56 (64¢) | $52,633 | +$29,606 | ✅ Ganada |
 | monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $34,132 | — | ⏳ Pendiente |
 | googleplay | Spread: Heat (-1.5) | Heat | 1.96 (51¢) | $39,535 | — | ⏳ Pendiente |
 | googleplay | Timberwolves vs. Heat | Heat | 1.89 (53¢) | $96,314 | — | ⏳ Pendiente |
