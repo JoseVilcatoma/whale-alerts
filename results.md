@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 15:35:34 (hora de Perú)
+Actualizado: 2026-10-22 15:37:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5982**  ($332,857,157 en total)
+- Apuestas registradas: **5983**  ($332,898,157 en total)
 - Resueltas: **5929** — 3630 ganadas / 2299 perdidas (**61%** de acierto)
-- Pendientes: 31
-- Apostadores distintos: 613
+- Pendientes: 32
+- Apostadores distintos: 614
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 19 | 0 | 52% | $1,829,321 | -$98,360 |
 | TAIWANNUMBERONE | 31 | 16 | 0 | 66% | $1,825,045 | -$150,964 |
 
-_(mostrando los 40 de mayor monto, de 613 en total)_
+_(mostrando los 40 de mayor monto, de 614 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kalmal | W15 Bol: Eliska Tichackova vs Andrea Obradovic | Eliska Tichackova | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | Jacdoh | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $59,500 | — | ⏳ Pendiente |
 | scootergene | Will Olympique Lyonnais win on 2026-10-22? | No | 1.08 (93¢) | $43,161 | — | ⏳ Pendiente |
 | EdZachary | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $30,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 | googleplay | Spread: Trail Blazers (-3.5) | Trail Blazers | 1.96 (51¢) | $48,661 | +$46,753 | ✅ Ganada |
 | googleplay | Suns vs. Trail Blazers | Trail Blazers | 1.64 (61¢) | $73,367 | +$46,907 | ✅ Ganada |
 | ropetard | Suns vs. Trail Blazers | Trail Blazers | 1.69 (59¢) | $55,000 | +$932 | 💰 Vendida antes |
-| googleplay | Mavericks vs. Rockets | Rockets | 1.25 (80¢) | $195,532 | +$48,883 | ✅ Ganada |
