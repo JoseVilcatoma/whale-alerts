@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 21:57:41 (hora de Perú)
+Actualizado: 2026-10-21 21:59:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5932**  ($329,405,182 en total)
-- Resueltas: **5880** — 3594 ganadas / 2286 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **5890** — 3600 ganadas / 2290 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 610
 
 ### Balance
 
-- **Resultado de los apostadores: -$711,521** sobre $326,503,176 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,593** sobre $579,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$467,497** sobre $327,211,825 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,479** sobre $580,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 418 | 226 | 5 | 65% | $41,106,683 | +$747,918 |
-| Sassy-Bucket | 81 | 78 | 5 | 51% | $10,129,011 | -$829,273 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 420 | 226 | 3 | 65% | $41,106,683 | +$846,918 |
+| Sassy-Bucket | 81 | 79 | 4 | 51% | $10,129,011 | -$905,863 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
-| googleplay | 5 | 9 | 10 | 36% | $2,220,509 | -$650,560 |
+| googleplay | 8 | 11 | 5 | 42% | $2,220,509 | -$407,049 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | milkteaboba | 10 | 11 | 0 | 48% | $2,078,678 | -$838,620 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
@@ -86,11 +86,11 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $144,694 | -$144,694 | ❌ Perdida |
 | bluemario | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Under 3.5 | 4.00 (25¢) | $50,298 | +$150,893 | ✅ Ganada |
 | bluemario | FC Cincinnati vs. D.C. United SC: O/U 2.5 | Under 2.5 | 5.88 (17¢) | $67,938 | -$67,938 | ❌ Perdida |
-| googleplay | Spread: Pacers (-2.5) | Pelicans | 1.92 (52¢) | $51,878 | — | ⏳ Pendiente |
+| googleplay | Spread: Pacers (-2.5) | Pelicans | 1.92 (52¢) | $51,878 | -$51,878 | ❌ Perdida |
 | YYYYY999 | Suns vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $34,225 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-2.5) | Pacers | 2.04 (49¢) | $73,500 | — | ⏳ Pendiente |
-| googleplay | Spread: Pacers (-2.5) | Pelicans | 1.96 (51¢) | $30,915 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-2.5) | Pacers | 2.04 (49¢) | $73,500 | +$76,500 | ✅ Ganada |
+| googleplay | Spread: Pacers (-2.5) | Pelicans | 1.96 (51¢) | $30,915 | -$30,915 | ❌ Perdida |
 | n0tTODAY | Pacers vs. Pelicans | Pacers | 1.79 (56¢) | $26,813 | +$21,067 | ✅ Ganada |
 | googleplay | Pacers vs. Pelicans | Pelicans | 2.27 (44¢) | $129,443 | -$129,443 | ❌ Perdida |
 | mooseborzoii | Panthers vs. Senators | Senators | 2.04 (49¢) | $105,002 | +$109,288 | ✅ Ganada |
@@ -100,12 +100,12 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | Sassy-Bucket | Bucks vs. Wizards | Bucks | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
 | Mooseborzoiii | Bucks vs. Wizards | Wizards | 1.67 (60¢) | $48,313 | +$0 | 💰 Vendida antes |
 | lpcapital1 | Spread: Wizards (-4.5) | Wizards | 2.04 (49¢) | $25,908 | +$26,965 | ✅ Ganada |
-| googleplay | Spread: Grizzlies (-1.5) | Grizzlies | 1.89 (53¢) | $64,779 | — | ⏳ Pendiente |
-| googleplay | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $72,604 | — | ⏳ Pendiente |
-| Sassy-Bucket | Jazz vs. Grizzlies | Jazz | 2.22 (45¢) | $76,590 | — | ⏳ Pendiente |
-| www511zwin | Spread: Atlanta Dream (-3.5) | Golden State Valkyries | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
+| googleplay | Spread: Grizzlies (-1.5) | Grizzlies | 1.89 (53¢) | $64,779 | +$57,446 | ✅ Ganada |
+| googleplay | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $72,604 | +$59,403 | ✅ Ganada |
+| Sassy-Bucket | Jazz vs. Grizzlies | Jazz | 2.22 (45¢) | $76,590 | -$76,590 | ❌ Perdida |
+| www511zwin | Spread: Atlanta Dream (-3.5) | Golden State Valkyries | 2.04 (49¢) | $40,000 | -$40,000 | ❌ Perdida |
 | googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $47,707 | -$47,707 | ❌ Perdida |
-| googleplay | Jazz vs. Grizzlies | Grizzlies | 1.85 (54¢) | $245,882 | — | ⏳ Pendiente |
+| googleplay | Jazz vs. Grizzlies | Grizzlies | 1.85 (54¢) | $245,882 | +$209,455 | ✅ Ganada |
 | OhWhenTheReds | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.82 (55¢) | $32,278 | -$32,278 | ❌ Perdida |
 | googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $77,045 | -$77,045 | ❌ Perdida |
 | monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
