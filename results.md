@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 12:36:44 (hora de Perú)
+Actualizado: 2026-10-22 12:38:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5966**  ($331,928,081 en total)
-- Resueltas: **5919** — 3624 ganadas / 2295 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **5920** — 3624 ganadas / 2296 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 612
 
 ### Balance
 
-- **Resultado de los apostadores: -$35,839** sobre $329,214,053 apostados (ROI **-0.0%**)
+- **Resultado de los apostadores: -$48,722** sobre $329,253,146 apostados (ROI **-0.0%**)
 - Copiando $100 fijo en cada una: **-$4,876** sobre $583,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.72 (58¢) | $60,900 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.75 (57¢) | $56,999 | — | ⏳ Pendiente |
 | bluemario | KKS Lech Poznań vs. Sunderland AFC: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $240,335 | +$88,544 | 💰 Vendida antes |
-| beeemw | Will Stade Rennais FC 1901 win on 2026-10-22? | No | 1.14 (88¢) | $39,092 | — | ⏳ Pendiente |
+| beeemw | Will Stade Rennais FC 1901 win on 2026-10-22? | No | 1.14 (88¢) | $39,092 | -$12,883 | 💰 Vendida antes |
 | bluemario | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Under 4.5 | 1.52 (66¢) | $68,284 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Over 4.5 | 2.70 (37¢) | $29,330 | — | ⏳ Pendiente |
 | bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 4.5 | Under 4.5 | 1.08 (93¢) | $95,909 | — | ⏳ Pendiente |
