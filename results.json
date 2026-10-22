@@ -89976,5 +89976,20 @@
     "status": "pending",
     "ultimo_fill": 1792707998,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12182,
+    "timestamp": 1792708875,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nhl-sj-ott-2026-10-22",
+    "title": "Sharks vs. Senators",
+    "outcome": "Sharks",
+    "side": "BUY",
+    "usd": 36590.998400000004,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1792708875,
+    "fills": 1
   }
 ]
