@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 13:57:03 (hora de Perú)
+Actualizado: 2026-10-22 13:59:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5978**  ($332,546,642 en total)
+- Apuestas registradas: **5979**  ($332,577,896 en total)
 - Resueltas: **5929** — 3630 ganadas / 2299 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 613
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kyn008 | Will AC Milan win on 2026-10-22? | No | 1.30 (77¢) | $31,253 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Bournemouth win on 2026-10-22? | No | 2.17 (46¢) | $32,200 | — | ⏳ Pendiente |
 | mooseborzoii | Jets vs. Stars | Stars | 1.56 (64¢) | $26,724 | — | ⏳ Pendiente |
 | jonjones1993 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $108,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 | googleplay | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $66,431 | +$17,659 | ✅ Ganada |
 | googleplay | Bucks vs. Wizards | Bucks | 1.72 (58¢) | $35,683 | -$35,683 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $144,694 | -$144,694 | ❌ Perdida |
-| bluemario | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Under 3.5 | 4.00 (25¢) | $50,298 | +$150,893 | ✅ Ganada |
