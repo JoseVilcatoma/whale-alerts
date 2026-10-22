@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 12:53:11 (hora de Perú)
+Actualizado: 2026-10-22 12:55:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5970**  ($332,090,383 en total)
+- Apuestas registradas: **5972**  ($332,179,339 en total)
 - Resueltas: **5924** — 3626 ganadas / 2298 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 26
 - Apostadores distintos: 613
 
 ### Balance
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
-| 3edmond.dantes | 27 | 20 | 3 | 57% | $6,838,028 | -$1,341,289 |
-| mooseborzoii | 71 | 40 | 1 | 64% | $6,526,776 | +$1,013,949 |
+| 3edmond.dantes | 27 | 20 | 4 | 57% | $6,871,983 | -$1,341,289 |
+| mooseborzoii | 71 | 40 | 2 | 64% | $6,581,776 | +$1,013,949 |
 | ferrariChampions2026 | 98 | 48 | 0 | 67% | $6,444,374 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Will TSG 1899 Hoffenheim win on 2026-10-22? | No | 2.13 (47¢) | $55,000 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will TSG 1899 Hoffenheim win on 2026-10-22? | Yes | 1.85 (54¢) | $33,955 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $29,997 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $72,416 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.64 (61¢) | $29,890 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-2.5) | Pacers | 2.04 (49¢) | $73,500 | +$76,500 | ✅ Ganada |
 | googleplay | Spread: Pacers (-2.5) | Pelicans | 1.96 (51¢) | $30,915 | -$30,915 | ❌ Perdida |
-| n0tTODAY | Pacers vs. Pelicans | Pacers | 1.79 (56¢) | $26,813 | +$21,067 | ✅ Ganada |
-| googleplay | Pacers vs. Pelicans | Pelicans | 2.27 (44¢) | $129,443 | -$129,443 | ❌ Perdida |
