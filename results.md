@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 20:51:46 (hora de Perú)
+Actualizado: 2026-10-21 20:53:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5926**  ($329,001,754 en total)
+- Apuestas registradas: **5927**  ($329,109,723 en total)
 - Resueltas: **5856** — 3589 ganadas / 2267 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 610
 
 ### Balance
@@ -54,8 +54,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
+| googleplay | 5 | 0 | 19 | ⚠️ 100% (5) | $2,220,509 | +$114,648 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| googleplay | 5 | 0 | 18 | ⚠️ 100% (5) | $2,112,540 | +$114,648 |
 | milkteaboba | 10 | 11 | 0 | 48% | $2,078,678 | -$838,620 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Talvez10 | 23 | 18 | 0 | 56% | $1,917,490 | +$324,087 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Lakers (-6.5) | Warriors | 2.00 (50¢) | $107,969 | — | ⏳ Pendiente |
 | googleplay | Spread: Trail Blazers (-3.5) | Trail Blazers | 1.96 (51¢) | $48,661 | — | ⏳ Pendiente |
 | googleplay | Suns vs. Trail Blazers | Trail Blazers | 1.64 (61¢) | $73,367 | — | ⏳ Pendiente |
 | ropetard | Suns vs. Trail Blazers | Trail Blazers | 1.69 (59¢) | $55,000 | +$932 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | ndb1 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $51,637 | -$51,637 | ❌ Perdida |
 | Jokerxing7 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Over 4.5 | 2.13 (47¢) | $158,733 | +$178,997 | ✅ Ganada |
 | ndb1 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $93,144 | -$93,144 | ❌ Perdida |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München vs. Arsenal FC end in a draw? | Yes | 3.85 (26¢) | $66,905 | +$190,423 | ✅ Ganada |
