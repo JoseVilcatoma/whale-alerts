@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 17:25:09 (hora de Perú)
+Actualizado: 2026-10-22 17:27:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5985**  ($332,958,621 en total)
+- Apuestas registradas: **5986**  ($332,985,021 en total)
 - Resueltas: **5937** — 3634 ganadas / 2303 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 615
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FeedTheBigBird | Ducks vs. Devils | Devils | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Memphis (-10.5) | East Carolina | 2.00 (50¢) | $26,463 | — | ⏳ Pendiente |
 | kuwkuw | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
 | kalmal | W15 Bol: Eliska Tichackova vs Andrea Obradovic | Eliska Tichackova | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $131,726 | +$64,880 | ✅ Ganada |
 | Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $66,482 | +$32,745 | ✅ Ganada |
 | googleplay | Spread: Lakers (-6.5) | Warriors | 2.00 (50¢) | $107,969 | -$107,969 | ❌ Perdida |
-| googleplay | Spread: Trail Blazers (-3.5) | Trail Blazers | 1.96 (51¢) | $48,661 | +$46,753 | ✅ Ganada |
