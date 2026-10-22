@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 00:16:59 (hora de Perú)
+Actualizado: 2026-10-22 00:19:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5937**  ($329,759,576 en total)
-- Resueltas: **5903** — 3611 ganadas / 2292 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **5905** — 3612 ganadas / 2293 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 612
 
 ### Balance
 
-- **Resultado de los apostadores: -$259,645** sobre $328,204,983 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,178** sobre $582,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$280,591** sobre $328,275,905 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,193** sobre $582,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,8 +77,8 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Lakers | Warriors | 7.69 (13¢) | $26,000 | -$26,000 | ❌ Perdida |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Kings vs. Clippers | Clippers | 1.14 (88¢) | $31,000 | — | ⏳ Pendiente |
 | ethanaz | Warriors vs. Lakers | Lakers | 1.47 (68¢) | $26,329 | +$12,390 | ✅ Ganada |
-| Nooserac | Spread: Clippers (-5.5) | Kings | 2.17 (46¢) | $43,935 | — | ⏳ Pendiente |
-| www511zwin | Spread: Clippers (-5.5) | Clippers | 1.85 (54¢) | $26,987 | — | ⏳ Pendiente |
+| Nooserac | Spread: Clippers (-5.5) | Kings | 2.17 (46¢) | $43,935 | -$43,935 | ❌ Perdida |
+| www511zwin | Spread: Clippers (-5.5) | Clippers | 1.85 (54¢) | $26,987 | +$22,989 | ✅ Ganada |
 | Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $131,726 | +$64,880 | ✅ Ganada |
 | Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $66,482 | +$32,745 | ✅ Ganada |
 | googleplay | Spread: Lakers (-6.5) | Warriors | 2.00 (50¢) | $107,969 | -$107,969 | ❌ Perdida |
