@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 21:33:00 (hora de Perú)
+Actualizado: 2026-10-21 21:35:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5929**  ($329,307,931 en total)
-- Resueltas: **5864** — 3591 ganadas / 2273 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Resueltas: **5865** — 3591 ganadas / 2274 perdidas (**61%** de acierto)
+- Pendientes: 42
 - Apostadores distintos: 610
 
 ### Balance
 
-- **Resultado de los apostadores: +$60,285** sobre $325,410,302 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,575** sobre $578,300 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$35,285** sobre $325,435,302 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$4,675** sobre $578,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 418 | 226 | 5 | 65% | $41,106,683 | +$747,918 |
 | Sassy-Bucket | 81 | 78 | 5 | 51% | $10,129,011 | -$829,273 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 1 | 52% | $7,411,771 | -$602,445 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | mooseborzoii | Panthers vs. Senators | Senators | 2.04 (49¢) | $105,002 | — | ⏳ Pendiente |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $78,481 | — | ⏳ Pendiente |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $235,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Hornets (-1.5) | Nets | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Hornets (-1.5) | Nets | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Sassy-Bucket | Bucks vs. Wizards | Bucks | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
 | Mooseborzoiii | Bucks vs. Wizards | Wizards | 1.67 (60¢) | $48,313 | +$0 | 💰 Vendida antes |
 | lpcapital1 | Spread: Wizards (-4.5) | Wizards | 2.04 (49¢) | $25,908 | +$26,965 | ✅ Ganada |
