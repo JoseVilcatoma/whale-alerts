@@ -89252,5 +89252,20 @@
     "status": "pending",
     "ultimo_fill": 1792646536,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12101,
+    "timestamp": 1792646658,
+    "username": "tin54321",
+    "wallet": "0x91e67d77b45558ce69238bf8a79e2e902b1ee9c5",
+    "slug": "wta-stoiana-uchijim-2026-10-21",
+    "title": "Japan Women's Open: Mary Stoiana vs Moyuka Uchijima",
+    "outcome": "Mary Stoiana",
+    "side": "BUY",
+    "usd": 48788.399999,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1792646658,
+    "fills": 1
   }
 ]
