@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 20:57:56 (hora de Perú)
+Actualizado: 2026-10-21 21:00:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5929**  ($329,307,931 en total)
-- Resueltas: **5856** — 3589 ganadas / 2267 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Resueltas: **5857** — 3589 ganadas / 2268 perdidas (**61%** de acierto)
+- Pendientes: 50
 - Apostadores distintos: 610
 
 ### Balance
 
-- **Resultado de los apostadores: +$242,755** sobre $325,123,676 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,143** sobre $577,500 (ROI **-0.7%**)
+- **Resultado de los apostadores: +$216,451** sobre $325,149,980 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,243** sobre $577,600 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -110,7 +110,7 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $34,132 | — | ⏳ Pendiente |
 | googleplay | Spread: Heat (-1.5) | Heat | 1.96 (51¢) | $39,535 | — | ⏳ Pendiente |
 | googleplay | Timberwolves vs. Heat | Heat | 1.89 (53¢) | $96,314 | — | ⏳ Pendiente |
-| bluemario | Montevideo City Torque vs. CA Mineiro: O/U 0.5 | Under 0.5 | 7.69 (13¢) | $26,304 | — | ⏳ Pendiente |
+| bluemario | Montevideo City Torque vs. CA Mineiro: O/U 0.5 | Under 0.5 | 7.69 (13¢) | $26,304 | -$26,304 | ❌ Perdida |
 | texaskid | Spread: Raptors (-10.5) | Raptors | 2.00 (50¢) | $29,449 | — | ⏳ Pendiente |
 | pau1og1 | Guangzhou 2: Liam Broady vs Akira Santillan | Liam Broady | 1.52 (66¢) | $64,973 | — | ⏳ Pendiente |
 | Donkey14 | Bucks vs. Wizards | Wizards | 1.64 (61¢) | $31,282 | — | ⏳ Pendiente |
