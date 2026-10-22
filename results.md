@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 12:40:50 (hora de Perú)
+Actualizado: 2026-10-22 12:42:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5966**  ($331,928,081 en total)
+- Apuestas registradas: **5967**  ($331,958,081 en total)
 - Resueltas: **5920** — 3624 ganadas / 2296 perdidas (**61%** de acierto)
-- Pendientes: 24
-- Apostadores distintos: 612
+- Pendientes: 25
+- Apostadores distintos: 613
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 19 | 0 | 52% | $1,829,321 | -$98,360 |
 | TAIWANNUMBERONE | 31 | 16 | 0 | 66% | $1,825,045 | -$150,964 |
 
-_(mostrando los 40 de mayor monto, de 612 en total)_
+_(mostrando los 40 de mayor monto, de 613 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | 778908 | Lyon Open: Flavio Cobolli vs Stan Wawrinka | Flavio Cobolli | 1.10 (91¢) | $109,200 | — | ⏳ Pendiente |
 | rabbitfoot1 | Sharks vs. Senators | Sharks | 2.27 (44¢) | $32,839 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | KKS Lech Poznań vs. Sunderland AFC: O/U 2.5 | Over 2.5 | 1.28 (78¢) | $191,038 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | mooseborzoii | Panthers vs. Senators | Senators | 2.04 (49¢) | $105,002 | +$109,288 | ✅ Ganada |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $78,481 | -$78,481 | ❌ Perdida |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $235,000 | -$235,000 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Hornets (-1.5) | Nets | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
