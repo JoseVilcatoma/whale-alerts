@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 23:45:49 (hora de Perú)
+Actualizado: 2026-10-21 23:47:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5936**  ($329,699,799 en total)
-- Resueltas: **5894** — 3604 ganadas / 2290 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **5897** — 3607 ganadas / 2290 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 612
 
 ### Balance
 
-- **Resultado de los apostadores: -$369,917** sobre $327,584,607 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,371** sobre $581,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$251,474** sobre $327,740,860 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,138** sobre $581,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Lakersfan111 | 64 | 42 | 1 | 60% | $5,329,215 | -$8,292 |
+| Lakersfan111 | 65 | 42 | 0 | 61% | $5,329,215 | +$16,492 |
 | ethanaz | 56 | 24 | 1 | 70% | $5,013,481 | -$219,067 |
 | BrotherObama | 45 | 49 | 3 | 48% | $4,296,413 | -$107,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
-| googleplay | 10 | 11 | 3 | 48% | $2,220,509 | -$340,508 |
+| googleplay | 12 | 11 | 1 | 52% | $2,220,509 | -$246,848 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | milkteaboba | 10 | 11 | 0 | 48% | $2,078,678 | -$838,620 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
@@ -81,8 +81,8 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $131,726 | — | ⏳ Pendiente |
 | Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $66,482 | — | ⏳ Pendiente |
 | googleplay | Spread: Lakers (-6.5) | Warriors | 2.00 (50¢) | $107,969 | — | ⏳ Pendiente |
-| googleplay | Spread: Trail Blazers (-3.5) | Trail Blazers | 1.96 (51¢) | $48,661 | — | ⏳ Pendiente |
-| googleplay | Suns vs. Trail Blazers | Trail Blazers | 1.64 (61¢) | $73,367 | — | ⏳ Pendiente |
+| googleplay | Spread: Trail Blazers (-3.5) | Trail Blazers | 1.96 (51¢) | $48,661 | +$46,753 | ✅ Ganada |
+| googleplay | Suns vs. Trail Blazers | Trail Blazers | 1.64 (61¢) | $73,367 | +$46,907 | ✅ Ganada |
 | ropetard | Suns vs. Trail Blazers | Trail Blazers | 1.69 (59¢) | $55,000 | +$932 | 💰 Vendida antes |
 | googleplay | Mavericks vs. Rockets | Rockets | 1.25 (80¢) | $195,532 | +$48,883 | ✅ Ganada |
 | googleplay | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $66,431 | +$17,659 | ✅ Ganada |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | bluemario | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Under 3.5 | 4.00 (25¢) | $50,298 | +$150,893 | ✅ Ganada |
 | bluemario | FC Cincinnati vs. D.C. United SC: O/U 2.5 | Under 2.5 | 5.88 (17¢) | $67,938 | -$67,938 | ❌ Perdida |
 | googleplay | Spread: Pacers (-2.5) | Pelicans | 1.92 (52¢) | $51,878 | -$51,878 | ❌ Perdida |
-| YYYYY999 | Suns vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $34,225 | — | ⏳ Pendiente |
+| YYYYY999 | Suns vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $34,225 | +$24,784 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-2.5) | Pacers | 2.04 (49¢) | $73,500 | +$76,500 | ✅ Ganada |
 | googleplay | Spread: Pacers (-2.5) | Pelicans | 1.96 (51¢) | $30,915 | -$30,915 | ❌ Perdida |
