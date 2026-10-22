@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 18:19:13 (hora de Perú)
+Actualizado: 2026-10-22 18:21:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5999**  ($334,247,788 en total)
-- Resueltas: **5942** — 3638 ganadas / 2304 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **5945** — 3640 ganadas / 2305 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 615
 
 ### Balance
 
-- **Resultado de los apostadores: -$37,182** sobre $331,142,993 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,930** sobre $585,900 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$1,677** sobre $331,347,802 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,941** sobre $586,200 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 1 | 51% | $7,445,993 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
-| 3edmond.dantes | 30 | 20 | 1 | 60% | $6,944,675 | -$1,232,251 |
-| mooseborzoii | 71 | 40 | 5 | 64% | $6,694,977 | +$1,013,949 |
+| 3edmond.dantes | 31 | 20 | 0 | 61% | $6,944,675 | -$1,144,994 |
+| mooseborzoii | 71 | 41 | 4 | 63% | $6,694,977 | +$958,949 |
 | ferrariChampions2026 | 98 | 48 | 0 | 67% | $6,444,374 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | kuwkuw | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
 | kalmal | W15 Bol: Eliska Tichackova vs Andrea Obradovic | Eliska Tichackova | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | Jacdoh | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $59,500 | — | ⏳ Pendiente |
-| scootergene | Will Olympique Lyonnais win on 2026-10-22? | No | 1.08 (93¢) | $43,161 | — | ⏳ Pendiente |
+| scootergene | Will Olympique Lyonnais win on 2026-10-22? | No | 1.08 (93¢) | $43,161 | +$3,249 | ✅ Ganada |
 | EdZachary | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $30,800 | — | ⏳ Pendiente |
 | Kyn008 | Will AC Milan win on 2026-10-22? | No | 1.30 (77¢) | $31,253 | +$9,335 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Bournemouth win on 2026-10-22? | No | 2.17 (46¢) | $32,200 | -$32,200 | ❌ Perdida |
@@ -98,8 +98,8 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | mooseborzoii | Spread: Thunder (-8.5) | Nuggets | 1.96 (51¢) | $49,886 | — | ⏳ Pendiente |
 | Jokerxing7 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $47,422 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.61 (62¢) | $30,380 | — | ⏳ Pendiente |
-| mooseborzoii | Will TSG 1899 Hoffenheim win on 2026-10-22? | No | 2.13 (47¢) | $55,000 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will TSG 1899 Hoffenheim win on 2026-10-22? | Yes | 1.82 (55¢) | $106,647 | — | ⏳ Pendiente |
+| mooseborzoii | Will TSG 1899 Hoffenheim win on 2026-10-22? | No | 2.13 (47¢) | $55,000 | -$55,000 | ❌ Perdida |
+| 3edmond.dantes | Will TSG 1899 Hoffenheim win on 2026-10-22? | Yes | 1.82 (55¢) | $106,647 | +$87,257 | ✅ Ganada |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $29,997 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $72,416 | +$61,688 | ✅ Ganada |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.64 (61¢) | $29,890 | — | ⏳ Pendiente |
