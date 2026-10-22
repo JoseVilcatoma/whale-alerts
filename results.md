@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 15:45:51 (hora de Perú)
+Actualizado: 2026-10-22 15:47:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5984**  ($332,932,157 en total)
-- Resueltas: **5931** — 3630 ganadas / 2301 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **5934** — 3633 ganadas / 2301 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 615
 
 ### Balance
 
-- **Resultado de los apostadores: -$375,359** sobre $330,416,977 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,123** sobre $584,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$266,321** sobre $330,565,173 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$4,903** sobre $585,100 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
-| 3edmond.dantes | 27 | 20 | 4 | 57% | $6,944,675 | -$1,341,289 |
+| 3edmond.dantes | 30 | 20 | 1 | 60% | $6,944,675 | -$1,232,251 |
 | mooseborzoii | 71 | 40 | 4 | 64% | $6,658,386 | +$1,013,949 |
 | ferrariChampions2026 | 98 | 48 | 0 | 67% | $6,444,374 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -93,11 +93,11 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | rabbitfoot1 | Sharks vs. Senators | Sharks | 2.27 (44¢) | $32,839 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | KKS Lech Poznań vs. Sunderland AFC: O/U 2.5 | Over 2.5 | 1.28 (78¢) | $191,038 | -$191,038 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lyon Open: Kyrian Jacquet vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $37,200 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.72 (58¢) | $30,296 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.72 (58¢) | $30,296 | +$21,939 | ✅ Ganada |
 | tiger105 | Will Sunderland AFC win on 2026-10-22? | Yes | 1.89 (53¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Fateh Saudi Club vs. Al Shabab Saudi Club: O/U 4.5 | Under 4.5 | 1.35 (74¢) | $27,393 | +$9,624 | ✅ Ganada |
-| 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.72 (58¢) | $60,900 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.75 (57¢) | $56,999 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.72 (58¢) | $60,900 | +$44,100 | ✅ Ganada |
+| 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.75 (57¢) | $56,999 | +$43,000 | ✅ Ganada |
 | bluemario | KKS Lech Poznań vs. Sunderland AFC: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $240,335 | +$88,544 | 💰 Vendida antes |
 | beeemw | Will Stade Rennais FC 1901 win on 2026-10-22? | No | 1.14 (88¢) | $39,092 | -$12,883 | 💰 Vendida antes |
 | bluemario | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Under 4.5 | 1.52 (66¢) | $68,284 | -$68,284 | ❌ Perdida |
