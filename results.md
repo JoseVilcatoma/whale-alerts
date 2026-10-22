@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 15:39:41 (hora de Perú)
+Actualizado: 2026-10-22 15:41:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5984**  ($332,932,157 en total)
-- Resueltas: **5929** — 3630 ganadas / 2299 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **5931** — 3630 ganadas / 2301 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 615
 
 ### Balance
 
-- **Resultado de los apostadores: -$154,321** sobre $330,195,939 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,923** sobre $584,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$375,359** sobre $330,416,977 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,123** sobre $584,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 425 | 227 | 7 | 65% | $42,115,884 | +$1,004,261 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 425 | 228 | 6 | 65% | $42,115,884 | +$813,222 |
 | Sassy-Bucket | 83 | 79 | 2 | 51% | $10,129,011 | -$808,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -91,10 +91,10 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | 778908 | Lyon Open: Flavio Cobolli vs Stan Wawrinka | Flavio Cobolli | 1.10 (91¢) | $109,200 | +$10,800 | ✅ Ganada |
 | rabbitfoot1 | Sharks vs. Senators | Sharks | 2.27 (44¢) | $32,839 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | KKS Lech Poznań vs. Sunderland AFC: O/U 2.5 | Over 2.5 | 1.28 (78¢) | $191,038 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | KKS Lech Poznań vs. Sunderland AFC: O/U 2.5 | Over 2.5 | 1.28 (78¢) | $191,038 | -$191,038 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lyon Open: Kyrian Jacquet vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $37,200 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.72 (58¢) | $30,296 | — | ⏳ Pendiente |
-| tiger105 | Will Sunderland AFC win on 2026-10-22? | Yes | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
+| tiger105 | Will Sunderland AFC win on 2026-10-22? | Yes | 1.89 (53¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Fateh Saudi Club vs. Al Shabab Saudi Club: O/U 4.5 | Under 4.5 | 1.35 (74¢) | $27,393 | +$9,624 | ✅ Ganada |
 | 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.72 (58¢) | $60,900 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.75 (57¢) | $56,999 | — | ⏳ Pendiente |
