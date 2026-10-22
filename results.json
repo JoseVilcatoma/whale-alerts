@@ -88950,5 +88950,20 @@
     "status": "pending",
     "ultimo_fill": 1792627725,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 12023,
+    "timestamp": 1792628987,
+    "username": "bluemario",
+    "wallet": "0x34a1eed3f6bb10dd2f99b79cb4e8ca8749ae7622",
+    "slug": "mls-fcc-dcu-2026-09-05-total-3pt5",
+    "title": "FC Cincinnati vs. D.C. United SC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 50297.68499999999,
+    "odds_at_bet": 25,
+    "status": "pending",
+    "ultimo_fill": 1792628987,
+    "fills": 1
   }
 ]
