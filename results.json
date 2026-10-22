@@ -89901,5 +89901,20 @@
     "status": "pending",
     "ultimo_fill": 1792699721,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12169,
+    "timestamp": 1792700623,
+    "username": "Jacdoh",
+    "wallet": "0xf2e078fe373abe771dd4b5d33f79489fa7e277f0",
+    "slug": "itf-ziegan1-aguiar2-2026-10-22",
+    "title": "M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard",
+    "outcome": "Enzo Aguiard",
+    "side": "BUY",
+    "usd": 59500.0,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1792700623,
+    "fills": 1
   }
 ]

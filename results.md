@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 15:23:09 (hora de Perú)
+Actualizado: 2026-10-22 15:25:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5981**  ($332,797,657 en total)
+- Apuestas registradas: **5982**  ($332,857,157 en total)
 - Resueltas: **5929** — 3630 ganadas / 2299 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 613
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jacdoh | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $59,500 | — | ⏳ Pendiente |
 | scootergene | Will Olympique Lyonnais win on 2026-10-22? | No | 1.08 (93¢) | $43,161 | — | ⏳ Pendiente |
 | EdZachary | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $30,800 | — | ⏳ Pendiente |
 | Kyn008 | Will AC Milan win on 2026-10-22? | No | 1.30 (77¢) | $31,253 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 | googleplay | Suns vs. Trail Blazers | Trail Blazers | 1.64 (61¢) | $73,367 | +$46,907 | ✅ Ganada |
 | ropetard | Suns vs. Trail Blazers | Trail Blazers | 1.69 (59¢) | $55,000 | +$932 | 💰 Vendida antes |
 | googleplay | Mavericks vs. Rockets | Rockets | 1.25 (80¢) | $195,532 | +$48,883 | ✅ Ganada |
-| googleplay | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $66,431 | +$17,659 | ✅ Ganada |
