@@ -89721,5 +89721,20 @@
     "status": "pending",
     "ultimo_fill": 1792691377,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 12151,
+    "timestamp": 1792691530,
+    "username": "thistime214",
+    "wallet": "0xe3d98584726d6d6e58dca042011022735a6ffc2f",
+    "slug": "nba-cle-phi-2026-10-22-total-232pt5",
+    "title": "Cavaliers vs. 76ers: O/U 232.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 29997.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792691530,
+    "fills": 1
   }
 ]
