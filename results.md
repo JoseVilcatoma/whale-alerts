@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 21:45:09 (hora de Perú)
+Actualizado: 2026-10-21 21:47:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5929**  ($329,307,931 en total)
-- Resueltas: **5873** — 3591 ganadas / 2282 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Apuestas registradas: **5931**  ($329,378,853 en total)
+- Resueltas: **5874** — 3592 ganadas / 2282 perdidas (**61%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 610
 
 ### Balance
 
-- **Resultado de los apostadores: -$596,751** sobre $326,067,337 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,475** sobre $579,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$487,463** sobre $326,172,339 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,371** sobre $579,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
-| mooseborzoii | 69 | 40 | 3 | 63% | $6,526,776 | +$885,493 |
+| mooseborzoii | 70 | 40 | 2 | 64% | $6,526,776 | +$994,781 |
 | ferrariChampions2026 | 98 | 48 | 0 | 67% | $6,444,374 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Nooserac | Spread: Clippers (-5.5) | Kings | 2.17 (46¢) | $43,935 | — | ⏳ Pendiente |
+| www511zwin | Spread: Clippers (-5.5) | Clippers | 1.85 (54¢) | $26,987 | — | ⏳ Pendiente |
 | Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $131,726 | — | ⏳ Pendiente |
 | Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $66,482 | — | ⏳ Pendiente |
 | googleplay | Spread: Lakers (-6.5) | Warriors | 2.00 (50¢) | $107,969 | — | ⏳ Pendiente |
@@ -90,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | googleplay | Spread: Pacers (-2.5) | Pelicans | 1.96 (51¢) | $30,915 | — | ⏳ Pendiente |
 | n0tTODAY | Pacers vs. Pelicans | Pacers | 1.79 (56¢) | $26,813 | — | ⏳ Pendiente |
 | googleplay | Pacers vs. Pelicans | Pelicans | 2.27 (44¢) | $129,443 | — | ⏳ Pendiente |
-| mooseborzoii | Panthers vs. Senators | Senators | 2.04 (49¢) | $105,002 | — | ⏳ Pendiente |
+| mooseborzoii | Panthers vs. Senators | Senators | 2.04 (49¢) | $105,002 | +$109,288 | ✅ Ganada |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $78,481 | -$78,481 | ❌ Perdida |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $235,000 | -$235,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Hornets (-1.5) | Nets | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Aston Villa FC (-2.5) | Viking FK | 1.67 (60¢) | $46,278 | +$30,852 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Club Brugge KV vs. Racing Club de Lens: O/U 3.5 | Under 3.5 | 1.75 (57¢) | $26,457 | +$19,959 | ✅ Ganada |
 | Anon455 | Will Arsenal FC win on 2026-10-21? | No | 1.52 (66¢) | $26,337 | +$13,568 | ✅ Ganada |
-| Jokerxing7 | Spread: Real Madrid CF (-2.5) | Real Madrid CF | 2.38 (42¢) | $118,565 | +$163,732 | ✅ Ganada |
-| ndb1 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $51,637 | -$51,637 | ❌ Perdida |

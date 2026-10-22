@@ -88827,7 +88827,7 @@
     "side": "BUY",
     "usd": 105001.99710000001,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792625659,
     "fills": 1
   },
@@ -89116,6 +89116,36 @@
     "odds_at_bet": 67,
     "status": "pending",
     "ultimo_fill": 1792634267,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12057,
+    "timestamp": 1792637161,
+    "username": "www511zwin",
+    "wallet": "0x93683d55f0ea67212bc179e9802f00e271c9f390",
+    "slug": "nba-sac-lac-2026-10-21-spread-home-5pt5",
+    "title": "Spread: Clippers (-5.5)",
+    "outcome": "Clippers",
+    "side": "BUY",
+    "usd": 26987.216087,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792637161,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12058,
+    "timestamp": 1792637168,
+    "username": "Nooserac",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "nba-sac-lac-2026-10-21-spread-home-5pt5",
+    "title": "Spread: Clippers (-5.5)",
+    "outcome": "Kings",
+    "side": "BUY",
+    "usd": 43934.738000000005,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1792637168,
     "fills": 1
   }
 ]
