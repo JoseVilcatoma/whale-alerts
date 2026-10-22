@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 10:26:54 (hora de Perú)
+Actualizado: 2026-10-22 10:28:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5950**  ($330,652,701 en total)
+- Apuestas registradas: **5951**  ($330,787,224 en total)
 - Resueltas: **5916** — 3622 ganadas / 2294 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 612
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 3.5 | Under 3.5 | 1.52 (66¢) | $134,523 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Fateh Saudi Club vs. Al Shabab Saudi Club: O/U 2.5 | Over 2.5 | 1.11 (90¢) | $358,000 | — | ⏳ Pendiente |
 | Woaifacai | Florence: Henry Searle vs Matthew William Donald | Matthew William Donald | 1.45 (69¢) | $27,414 | — | ⏳ Pendiente |
 | bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 2.5 | Under 2.5 | 5.56 (18¢) | $36,154 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | OhWhenTheReds | Will FC Cincinnati win on 2026-09-05? | Yes | 1.56 (64¢) | $52,633 | +$29,606 | ✅ Ganada |
 | monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $34,132 | -$34,132 | ❌ Perdida |
 | googleplay | Spread: Heat (-1.5) | Heat | 1.96 (51¢) | $39,535 | -$39,535 | ❌ Perdida |
-| googleplay | Timberwolves vs. Heat | Heat | 1.89 (53¢) | $96,314 | -$96,314 | ❌ Perdida |

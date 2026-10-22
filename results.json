@@ -89432,5 +89432,20 @@
     "status": "pending",
     "ultimo_fill": 1792682371,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 12124,
+    "timestamp": 1792682888,
+    "username": "bluemario",
+    "wallet": "0x34a1eed3f6bb10dd2f99b79cb4e8ca8749ae7622",
+    "slug": "spl-haz-fay-2026-10-22-total-3pt5",
+    "title": "Al Hazem SC vs. Al Fayha Saudi Club: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 134523.2912,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1792682888,
+    "fills": 1
   }
 ]
