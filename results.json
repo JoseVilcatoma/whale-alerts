@@ -89057,5 +89057,20 @@
     "status": "pending",
     "ultimo_fill": 1792633615,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12036,
+    "timestamp": 1792633778,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-phx-por-2026-10-21-spread-home-3pt5",
+    "title": "Spread: Trail Blazers (-3.5)",
+    "outcome": "Trail Blazers",
+    "side": "BUY",
+    "usd": 48660.7728,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792633778,
+    "fills": 1
   }
 ]
