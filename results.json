@@ -89507,5 +89507,20 @@
     "status": "pending",
     "ultimo_fill": 1792683928,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12129,
+    "timestamp": 1792684456,
+    "username": "beeemw",
+    "wallet": "0x1e386b0e0f1fc58c67ce738d7bbc4ba7ec74fd47",
+    "slug": "uel-juv-ren1-2026-10-22-ren1",
+    "title": "Will Stade Rennais FC 1901 win on 2026-10-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 39092.428400000004,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1792684456,
+    "fills": 1
   }
 ]

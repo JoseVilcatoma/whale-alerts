@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 10:53:12 (hora de Perú)
+Actualizado: 2026-10-22 10:55:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5955**  ($331,072,788 en total)
+- Apuestas registradas: **5956**  ($331,111,880 en total)
 - Resueltas: **5916** — 3622 ganadas / 2294 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 612
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beeemw | Will Stade Rennais FC 1901 win on 2026-10-22? | No | 1.14 (88¢) | $39,092 | — | ⏳ Pendiente |
 | bluemario | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Under 4.5 | 1.52 (66¢) | $68,284 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Over 4.5 | 2.70 (37¢) | $29,330 | — | ⏳ Pendiente |
 | bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 4.5 | Under 4.5 | 1.08 (93¢) | $95,909 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $47,707 | -$47,707 | ❌ Perdida |
 | googleplay | Jazz vs. Grizzlies | Grizzlies | 1.85 (54¢) | $245,882 | +$209,455 | ✅ Ganada |
 | OhWhenTheReds | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.82 (55¢) | $32,278 | -$32,278 | ❌ Perdida |
-| googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $77,045 | -$77,045 | ❌ Perdida |
