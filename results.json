@@ -89673,7 +89673,7 @@
     "side": "BUY",
     "usd": 109200.0,
     "odds_at_bet": 91,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792689952,
     "fills": 1
   },
@@ -89810,6 +89810,36 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1792693361,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12161,
+    "timestamp": 1792694950,
+    "username": "jonjones1993",
+    "wallet": "0xce937f66d91dc6fd78e2b0e405f703a7d208ab2c",
+    "slug": "uel-bou-mil1-2026-10-22-bou",
+    "title": "Will AFC Bournemouth win on 2026-10-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 108000.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792694950,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12162,
+    "timestamp": 1792695013,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nhl-wpg-dal-2026-10-22",
+    "title": "Jets vs. Stars",
+    "outcome": "Stars",
+    "side": "BUY",
+    "usd": 26724.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1792695013,
     "fills": 1
   }
 ]
