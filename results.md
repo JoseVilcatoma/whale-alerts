@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 16:55:51 (hora de Perú)
+Actualizado: 2026-10-22 16:57:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5985**  ($332,958,621 en total)
-- Resueltas: **5935** — 3634 ganadas / 2301 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **5937** — 3634 ganadas / 2303 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 615
 
 ### Balance
 
-- **Resultado de los apostadores: -$243,521** sobre $330,602,373 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$4,841** sobre $585,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$302,432** sobre $330,661,284 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,041** sobre $585,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Lakersfan111 | 66 | 43 | 1 | 61% | $5,446,811 | -$12,325 |
+| Lakersfan111 | 66 | 44 | 0 | 60% | $5,446,811 | -$42,389 |
 | ethanaz | 57 | 24 | 0 | 70% | $5,013,481 | -$206,677 |
 | BrotherObama | 45 | 49 | 3 | 48% | $4,296,413 | -$107,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -110,8 +110,8 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | Woaifacai | Florence: Henry Searle vs Matthew William Donald | Matthew William Donald | 1.45 (69¢) | $27,414 | +$12,317 | ✅ Ganada |
 | bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 2.5 | Under 2.5 | 5.56 (18¢) | $36,154 | -$36,154 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Hazem SC vs. Al Fayha Saudi Club: O/U 1.5 | Over 1.5 | 1.19 (84¢) | $84,000 | +$16,000 | ✅ Ganada |
-| YYYYY999 | Counter-Strike: Sangal vs Metizport (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs | Metizport | 2.13 (47¢) | $30,064 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Sinners vs Eternal Fire (BO3) - DraculaN Playoffs | Eternal Fire | 2.17 (46¢) | $28,847 | — | ⏳ Pendiente |
+| YYYYY999 | Counter-Strike: Sangal vs Metizport (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs | Metizport | 2.13 (47¢) | $30,064 | -$30,064 | ❌ Perdida |
+| lllllllIlll | Counter-Strike: Sinners vs Eternal Fire (BO3) - DraculaN Playoffs | Eternal Fire | 2.17 (46¢) | $28,847 | -$28,847 | ❌ Perdida |
 | YYYYY999 | Counter-Strike: BC.Game Esports vs FaZe (BO3) - DraculaN Playoffs | FaZe | 1.75 (57¢) | $57,000 | -$57,000 | ❌ Perdida |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Ningbo Open: Elena Rybakina vs Polina Kudermetova | Elena Rybakina | 1.15 (87¢) | $37,207 | +$5,560 | ✅ Ganada |
 | YYYYY999 | Counter-Strike: BIG vs TheMongolz (BO3) - 1win Private Club Playoffs | TheMongolz | 1.92 (52¢) | $30,532 | +$28,184 | ✅ Ganada |
