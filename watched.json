@@ -63,10 +63,6 @@
     "username": "OhWhenTheReds",
     "added_at": 1792030337.9613225
   },
-  "0x96489abcb9f583d6835c8ef95ffc923d05a86825": {
-    "username": "anoin123",
-    "added_at": 1792032143.523415
-  },
   "0x3a8aa345d5db7ec5138298c8c4f4540259be7699": {
     "username": "TheReturnOfDarthMaul",
     "added_at": 1792063996.1467996
@@ -222,5 +218,9 @@
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
     "username": "BrotherObama",
     "added_at": 1792646518.941463
+  },
+  "0x4868c31e81040e002b41984842b84bae8923a1c1": {
+    "username": "alex20011",
+    "added_at": 1792666009.683953
   }
 }
