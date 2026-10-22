@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 07:58:15 (hora de Perú)
+Actualizado: 2026-10-22 08:00:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5945**  ($330,117,069 en total)
+- Apuestas registradas: **5946**  ($330,147,133 en total)
 - Resueltas: **5915** — 3621 ganadas / 2294 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 612
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Lakersfan111 | 65 | 42 | 2 | 61% | $5,416,747 | +$16,492 |
+| Lakersfan111 | 65 | 42 | 3 | 61% | $5,446,811 | +$16,492 |
 | ethanaz | 57 | 24 | 0 | 70% | $5,013,481 | -$206,677 |
 | BrotherObama | 45 | 49 | 3 | 48% | $4,296,413 | -$107,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YYYYY999 | Counter-Strike: Sangal vs Metizport (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs | Metizport | 2.13 (47¢) | $30,064 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Sinners vs Eternal Fire (BO3) - DraculaN Playoffs | Eternal Fire | 2.17 (46¢) | $28,847 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: BC.Game Esports vs FaZe (BO3) - DraculaN Playoffs | FaZe | 1.75 (57¢) | $57,000 | — | ⏳ Pendiente |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Ningbo Open: Elena Rybakina vs Polina Kudermetova | Elena Rybakina | 1.15 (87¢) | $37,207 | +$5,560 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | texaskid | Spread: Raptors (-10.5) | Raptors | 2.00 (50¢) | $29,449 | +$29,449 | ✅ Ganada |
 | pau1og1 | Guangzhou 2: Liam Broady vs Akira Santillan | Liam Broady | 1.52 (66¢) | $64,973 | -$64,973 | ❌ Perdida |
 | Donkey14 | Bucks vs. Wizards | Wizards | 1.64 (61¢) | $31,282 | +$20,000 | ✅ Ganada |
-| googleplay | Spread: Wizards (-4.5) | Bucks | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
