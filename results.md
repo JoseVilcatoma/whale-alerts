@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 21:35:01 (hora de Perú)
+Actualizado: 2026-10-21 21:37:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5929**  ($329,307,931 en total)
-- Resueltas: **5865** — 3591 ganadas / 2274 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Resueltas: **5873** — 3591 ganadas / 2282 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 610
 
 ### Balance
 
-- **Resultado de los apostadores: +$35,285** sobre $325,435,302 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,675** sobre $578,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$596,751** sobre $326,067,337 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,475** sobre $579,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
-| googleplay | 5 | 2 | 17 | ⚠️ 71% (7) | $2,220,509 | +$52,965 |
+| googleplay | 5 | 8 | 11 | 38% | $2,220,509 | -$521,117 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | milkteaboba | 10 | 11 | 0 | 48% | $2,078,678 | -$838,620 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
@@ -91,8 +91,8 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | n0tTODAY | Pacers vs. Pelicans | Pacers | 1.79 (56¢) | $26,813 | — | ⏳ Pendiente |
 | googleplay | Pacers vs. Pelicans | Pelicans | 2.27 (44¢) | $129,443 | — | ⏳ Pendiente |
 | mooseborzoii | Panthers vs. Senators | Senators | 2.04 (49¢) | $105,002 | — | ⏳ Pendiente |
-| googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $78,481 | — | ⏳ Pendiente |
-| googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $235,000 | — | ⏳ Pendiente |
+| googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $78,481 | -$78,481 | ❌ Perdida |
+| googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $235,000 | -$235,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Hornets (-1.5) | Nets | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Sassy-Bucket | Bucks vs. Wizards | Bucks | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
 | Mooseborzoiii | Bucks vs. Wizards | Wizards | 1.67 (60¢) | $48,313 | +$0 | 💰 Vendida antes |
@@ -101,15 +101,15 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | googleplay | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $72,604 | — | ⏳ Pendiente |
 | Sassy-Bucket | Jazz vs. Grizzlies | Jazz | 2.22 (45¢) | $76,590 | — | ⏳ Pendiente |
 | www511zwin | Spread: Atlanta Dream (-3.5) | Golden State Valkyries | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
-| googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $47,707 | — | ⏳ Pendiente |
+| googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $47,707 | -$47,707 | ❌ Perdida |
 | googleplay | Jazz vs. Grizzlies | Grizzlies | 1.85 (54¢) | $245,882 | — | ⏳ Pendiente |
 | OhWhenTheReds | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.82 (55¢) | $32,278 | -$32,278 | ❌ Perdida |
-| googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $77,045 | — | ⏳ Pendiente |
+| googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $77,045 | -$77,045 | ❌ Perdida |
 | monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will FC Cincinnati win on 2026-09-05? | Yes | 1.56 (64¢) | $52,633 | +$29,606 | ✅ Ganada |
 | monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $34,132 | — | ⏳ Pendiente |
-| googleplay | Spread: Heat (-1.5) | Heat | 1.96 (51¢) | $39,535 | — | ⏳ Pendiente |
-| googleplay | Timberwolves vs. Heat | Heat | 1.89 (53¢) | $96,314 | — | ⏳ Pendiente |
+| googleplay | Spread: Heat (-1.5) | Heat | 1.96 (51¢) | $39,535 | -$39,535 | ❌ Perdida |
+| googleplay | Timberwolves vs. Heat | Heat | 1.89 (53¢) | $96,314 | -$96,314 | ❌ Perdida |
 | bluemario | Montevideo City Torque vs. CA Mineiro: O/U 0.5 | Under 0.5 | 7.69 (13¢) | $26,304 | -$26,304 | ❌ Perdida |
 | texaskid | Spread: Raptors (-10.5) | Raptors | 2.00 (50¢) | $29,449 | — | ⏳ Pendiente |
 | pau1og1 | Guangzhou 2: Liam Broady vs Akira Santillan | Liam Broady | 1.52 (66¢) | $64,973 | — | ⏳ Pendiente |
