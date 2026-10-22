@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 18:13:02 (hora de Perú)
+Actualizado: 2026-10-22 18:15:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5999**  ($334,247,788 en total)
-- Resueltas: **5937** — 3634 ganadas / 2303 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Resueltas: **5942** — 3638 ganadas / 2304 perdidas (**61%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 615
 
 ### Balance
 
-- **Resultado de los apostadores: -$302,432** sobre $330,661,284 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,041** sobre $585,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$37,182** sobre $331,142,993 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,930** sobre $585,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 426 | 228 | 7 | 65% | $42,362,138 | +$836,022 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 427 | 229 | 5 | 65% | $42,362,138 | +$814,049 |
 | Sassy-Bucket | 83 | 79 | 6 | 51% | $10,334,654 | -$808,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 1 | 51% | $7,445,993 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -91,17 +91,17 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | Jacdoh | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $59,500 | — | ⏳ Pendiente |
 | scootergene | Will Olympique Lyonnais win on 2026-10-22? | No | 1.08 (93¢) | $43,161 | — | ⏳ Pendiente |
 | EdZachary | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $30,800 | — | ⏳ Pendiente |
-| Kyn008 | Will AC Milan win on 2026-10-22? | No | 1.30 (77¢) | $31,253 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Bournemouth win on 2026-10-22? | No | 2.17 (46¢) | $32,200 | — | ⏳ Pendiente |
+| Kyn008 | Will AC Milan win on 2026-10-22? | No | 1.30 (77¢) | $31,253 | +$9,335 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Bournemouth win on 2026-10-22? | No | 2.17 (46¢) | $32,200 | -$32,200 | ❌ Perdida |
 | mooseborzoii | Jets vs. Stars | Stars | 1.56 (64¢) | $26,724 | — | ⏳ Pendiente |
-| jonjones1993 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $253,800 | — | ⏳ Pendiente |
+| jonjones1993 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $253,800 | +$216,200 | ✅ Ganada |
 | mooseborzoii | Spread: Thunder (-8.5) | Nuggets | 1.96 (51¢) | $49,886 | — | ⏳ Pendiente |
 | Jokerxing7 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $47,422 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.61 (62¢) | $30,380 | — | ⏳ Pendiente |
 | mooseborzoii | Will TSG 1899 Hoffenheim win on 2026-10-22? | No | 2.13 (47¢) | $55,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will TSG 1899 Hoffenheim win on 2026-10-22? | Yes | 1.82 (55¢) | $106,647 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $29,997 | — | ⏳ Pendiente |
-| 1l2ihj34li12u34 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $72,416 | — | ⏳ Pendiente |
+| 1l2ihj34li12u34 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $72,416 | +$61,688 | ✅ Ganada |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.64 (61¢) | $29,890 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | 778908 | Lyon Open: Flavio Cobolli vs Stan Wawrinka | Flavio Cobolli | 1.10 (91¢) | $109,200 | +$10,800 | ✅ Ganada |
@@ -118,7 +118,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | bluemario | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Under 4.5 | 1.52 (66¢) | $68,284 | -$68,284 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Over 4.5 | 2.70 (37¢) | $29,330 | +$49,941 | ✅ Ganada |
 | bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 4.5 | Under 4.5 | 1.08 (93¢) | $95,909 | +$7,219 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AS Omónoia Leukosías win on 2026-10-22? | No | 1.11 (90¢) | $92,040 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AS Omónoia Leukosías win on 2026-10-22? | No | 1.11 (90¢) | $92,040 | +$10,227 | ✅ Ganada |
 | bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 3.5 | Under 3.5 | 1.52 (66¢) | $134,523 | -$134,523 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Fateh Saudi Club vs. Al Shabab Saudi Club: O/U 2.5 | Over 2.5 | 1.11 (90¢) | $358,000 | +$39,778 | ✅ Ganada |
 | Woaifacai | Florence: Henry Searle vs Matthew William Donald | Matthew William Donald | 1.45 (69¢) | $27,414 | +$12,317 | ✅ Ganada |
