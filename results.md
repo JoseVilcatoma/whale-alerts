@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 17:58:52 (hora de Perú)
+Actualizado: 2026-10-22 18:00:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5992**  ($333,240,579 en total)
+- Apuestas registradas: **5998**  ($334,213,566 en total)
 - Resueltas: **5937** — 3634 ganadas / 2303 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 39
 - Apostadores distintos: 615
 
 ### Balance
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 426 | 228 | 6 | 65% | $42,142,138 | +$836,022 |
-| Sassy-Bucket | 83 | 79 | 4 | 51% | $10,211,284 | -$808,238 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 426 | 228 | 7 | 65% | $42,362,138 | +$836,022 |
+| Sassy-Bucket | 83 | 79 | 6 | 51% | $10,334,654 | -$808,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
@@ -48,13 +48,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
+| googleplay | 12 | 12 | 2 | 50% | $2,747,201 | -$354,817 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
-| googleplay | 12 | 12 | 0 | 50% | $2,220,509 | -$354,817 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | milkteaboba | 10 | 11 | 0 | 48% | $2,078,678 | -$838,620 |
 | Talvez10 | 23 | 18 | 1 | 56% | $2,000,565 | +$324,087 |
@@ -71,12 +71,18 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $220,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Ducks vs. Devils | Ducks | 2.94 (34¢) | $31,620 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $26,254 | — | ⏳ Pendiente |
+| googleplay | Cavaliers vs. 76ers | Cavaliers | 2.17 (46¢) | $138,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Kings vs. Islanders | Islanders | 2.04 (49¢) | $26,255 | — | ⏳ Pendiente |
 | Talvez10 | Red Wings vs. Canucks | Red Wings | 1.64 (61¢) | $83,076 | — | ⏳ Pendiente |
+| googleplay | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $388,692 | — | ⏳ Pendiente |
+| www511zwin | Spread: 76ers (-2.5) | Cavaliers | 1.96 (51¢) | $102,926 | — | ⏳ Pendiente |
 | justwins | Cavaliers vs. 76ers: O/U 236.5 | Over 236.5 | 1.92 (52¢) | $27,365 | — | ⏳ Pendiente |
 | Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $56,018 | — | ⏳ Pendiente |
 | mooseborzoii | Sharks vs. Senators | Sharks | 2.27 (44¢) | $36,591 | — | ⏳ Pendiente |
+| Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $91,749 | — | ⏳ Pendiente |
 | FeedTheBigBird | Ducks vs. Devils | Devils | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Memphis (-10.5) | East Carolina | 2.00 (50¢) | $26,463 | — | ⏳ Pendiente |
 | kuwkuw | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
@@ -125,9 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | bluemario | PSM Makassar vs. Persebaya Surabaya: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $62,677 | +$41,785 | ✅ Ganada |
 | RJW1 | Spread: 76ers (-3.5) | 76ers | 2.00 (50¢) | $47,797 | — | ⏳ Pendiente |
 | tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.47 (68¢) | $48,788 | +$22,959 | ✅ Ganada |
-| tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.27 (79¢) | $44,644 | +$11,867 | ✅ Ganada |
-| bluemario | CF Pachuca vs. CF Cruz Azul: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $59,776 | +$41,540 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | CF Pachuca vs. CF Cruz Azul: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $132,000 | +$68,000 | ✅ Ganada |
-| dhgreg | Warriors vs. Lakers | Lakers | 1.15 (87¢) | $105,617 | +$15,782 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Lakers | Warriors | 7.69 (13¢) | $26,000 | -$26,000 | ❌ Perdida |
-| 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Kings vs. Clippers | Clippers | 1.14 (88¢) | $31,000 | +$4,227 | ✅ Ganada |
