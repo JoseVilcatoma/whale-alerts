@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 17:43:54 (hora de Perú)
+Actualizado: 2026-10-22 17:45:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5988**  ($333,077,630 en total)
+- Apuestas registradas: **5989**  ($333,104,994 en total)
 - Resueltas: **5937** — 3634 ganadas / 2303 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 615
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | Cavaliers vs. 76ers: O/U 236.5 | Over 236.5 | 1.92 (52¢) | $27,365 | — | ⏳ Pendiente |
 | Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $56,018 | — | ⏳ Pendiente |
 | mooseborzoii | Sharks vs. Senators | Sharks | 2.27 (44¢) | $36,591 | — | ⏳ Pendiente |
 | FeedTheBigBird | Ducks vs. Devils | Devils | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | ethanaz | Warriors vs. Lakers | Lakers | 1.47 (68¢) | $26,329 | +$12,390 | ✅ Ganada |
 | Nooserac | Spread: Clippers (-5.5) | Kings | 2.17 (46¢) | $43,935 | -$43,935 | ❌ Perdida |
 | www511zwin | Spread: Clippers (-5.5) | Clippers | 1.85 (54¢) | $26,987 | +$22,989 | ✅ Ganada |
-| Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $131,726 | +$64,880 | ✅ Ganada |
