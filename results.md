@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 12:49:08 (hora de Perú)
+Actualizado: 2026-10-22 12:51:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5969**  ($332,018,470 en total)
+- Apuestas registradas: **5969**  ($332,060,386 en total)
 - Resueltas: **5924** — 3626 ganadas / 2298 perdidas (**61%** de acierto)
 - Pendientes: 23
 - Apostadores distintos: 613
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 1l2ihj34li12u34 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.89 (53¢) | $30,499 | — | ⏳ Pendiente |
+| 1l2ihj34li12u34 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $72,416 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.64 (61¢) | $29,890 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | 778908 | Lyon Open: Flavio Cobolli vs Stan Wawrinka | Flavio Cobolli | 1.10 (91¢) | $109,200 | — | ⏳ Pendiente |
