@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 05:05:05 (hora de Perú)
+Actualizado: 2026-10-22 05:07:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5940**  ($329,900,805 en total)
+- Apuestas registradas: **5941**  ($329,963,482 en total)
 - Resueltas: **5913** — 3619 ganadas / 2294 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 612
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bluemario | PSM Makassar vs. Persebaya Surabaya: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $62,677 | — | ⏳ Pendiente |
 | RJW1 | Spread: 76ers (-3.5) | 76ers | 2.00 (50¢) | $47,797 | — | ⏳ Pendiente |
 | tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.47 (68¢) | $48,788 | +$22,959 | ✅ Ganada |
 | tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.27 (79¢) | $44,644 | +$11,867 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | EdZachary | Pacers vs. Pelicans | Pelicans | 2.33 (43¢) | $86,000 | -$86,000 | ❌ Perdida |
 | 778908 | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.06 (94¢) | $46,896 | +$2,993 | ✅ Ganada |
 | bluemario | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.49 (67¢) | $34,362 | +$16,925 | ✅ Ganada |
-| Anon455 | Will FC Bayern München win on 2026-10-21? | No | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
