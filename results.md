@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 21:47:09 (hora de Perú)
+Actualizado: 2026-10-21 21:49:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5931**  ($329,378,853 en total)
-- Resueltas: **5874** — 3592 ganadas / 2282 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **5877** — 3593 ganadas / 2284 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 610
 
 ### Balance
 
-- **Resultado de los apostadores: -$487,463** sobre $326,172,339 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,371** sobre $579,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$517,145** sobre $326,260,920 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,471** sobre $579,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -107,13 +107,13 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | googleplay | Jazz vs. Grizzlies | Grizzlies | 1.85 (54¢) | $245,882 | — | ⏳ Pendiente |
 | OhWhenTheReds | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.82 (55¢) | $32,278 | -$32,278 | ❌ Perdida |
 | googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $77,045 | -$77,045 | ❌ Perdida |
-| monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | OhWhenTheReds | Will FC Cincinnati win on 2026-09-05? | Yes | 1.56 (64¢) | $52,633 | +$29,606 | ✅ Ganada |
-| monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $34,132 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Spread: Raptors (-10.5) | Bulls | 2.00 (50¢) | $34,132 | -$34,132 | ❌ Perdida |
 | googleplay | Spread: Heat (-1.5) | Heat | 1.96 (51¢) | $39,535 | -$39,535 | ❌ Perdida |
 | googleplay | Timberwolves vs. Heat | Heat | 1.89 (53¢) | $96,314 | -$96,314 | ❌ Perdida |
 | bluemario | Montevideo City Torque vs. CA Mineiro: O/U 0.5 | Under 0.5 | 7.69 (13¢) | $26,304 | -$26,304 | ❌ Perdida |
-| texaskid | Spread: Raptors (-10.5) | Raptors | 2.00 (50¢) | $29,449 | — | ⏳ Pendiente |
+| texaskid | Spread: Raptors (-10.5) | Raptors | 2.00 (50¢) | $29,449 | +$29,449 | ✅ Ganada |
 | pau1og1 | Guangzhou 2: Liam Broady vs Akira Santillan | Liam Broady | 1.52 (66¢) | $64,973 | — | ⏳ Pendiente |
 | Donkey14 | Bucks vs. Wizards | Wizards | 1.64 (61¢) | $31,282 | +$20,000 | ✅ Ganada |
 | googleplay | Spread: Wizards (-4.5) | Bucks | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
