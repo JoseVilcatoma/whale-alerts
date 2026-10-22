@@ -89796,5 +89796,20 @@
     "status": "pending",
     "ultimo_fill": 1792693126,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12156,
+    "timestamp": 1792693361,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nba-den-okc-2026-10-22-spread-home-8pt5",
+    "title": "Spread: Thunder (-8.5)",
+    "outcome": "Nuggets",
+    "side": "BUY",
+    "usd": 49885.9968,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792693361,
+    "fills": 1
   }
 ]
