@@ -90051,5 +90051,20 @@
     "status": "pending",
     "ultimo_fill": 1792709293,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12189,
+    "timestamp": 1792709714,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-cle-phi-2026-10-22",
+    "title": "Cavaliers vs. 76ers",
+    "outcome": "Cavaliers",
+    "side": "BUY",
+    "usd": 26254.0305,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1792709714,
+    "fills": 1
   }
 ]

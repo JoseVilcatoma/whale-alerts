@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 17:52:10 (hora de Perú)
+Actualizado: 2026-10-22 17:56:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5991**  ($333,214,325 en total)
+- Apuestas registradas: **5992**  ($333,240,579 en total)
 - Resueltas: **5937** — 3634 ganadas / 2303 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 615
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 426 | 228 | 5 | 65% | $42,115,884 | +$836,022 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 426 | 228 | 6 | 65% | $42,142,138 | +$836,022 |
 | Sassy-Bucket | 83 | 79 | 4 | 51% | $10,211,284 | -$808,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $26,254 | — | ⏳ Pendiente |
 | Sassy-Bucket | Kings vs. Islanders | Islanders | 2.04 (49¢) | $26,255 | — | ⏳ Pendiente |
 | Talvez10 | Red Wings vs. Canucks | Red Wings | 1.64 (61¢) | $83,076 | — | ⏳ Pendiente |
 | justwins | Cavaliers vs. 76ers: O/U 236.5 | Over 236.5 | 1.92 (52¢) | $27,365 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | dhgreg | Warriors vs. Lakers | Lakers | 1.15 (87¢) | $105,617 | +$15,782 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Lakers | Warriors | 7.69 (13¢) | $26,000 | -$26,000 | ❌ Perdida |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Kings vs. Clippers | Clippers | 1.14 (88¢) | $31,000 | +$4,227 | ✅ Ganada |
-| ethanaz | Warriors vs. Lakers | Lakers | 1.47 (68¢) | $26,329 | +$12,390 | ✅ Ganada |
