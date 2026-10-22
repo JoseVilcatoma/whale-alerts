@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 17:52:10 (hora de Perú)
+Actualizado: 2026-10-22 17:54:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5991**  ($333,214,325 en total)
+- Apuestas registradas: **5992**  ($333,268,325 en total)
 - Resueltas: **5937** — 3634 ganadas / 2303 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 615
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Cavaliers vs. 76ers | 76ers | 1.85 (54¢) | $54,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Kings vs. Islanders | Islanders | 2.04 (49¢) | $26,255 | — | ⏳ Pendiente |
 | Talvez10 | Red Wings vs. Canucks | Red Wings | 1.64 (61¢) | $83,076 | — | ⏳ Pendiente |
 | justwins | Cavaliers vs. 76ers: O/U 236.5 | Over 236.5 | 1.92 (52¢) | $27,365 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | dhgreg | Warriors vs. Lakers | Lakers | 1.15 (87¢) | $105,617 | +$15,782 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Lakers | Warriors | 7.69 (13¢) | $26,000 | -$26,000 | ❌ Perdida |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Kings vs. Clippers | Clippers | 1.14 (88¢) | $31,000 | +$4,227 | ✅ Ganada |
-| ethanaz | Warriors vs. Lakers | Lakers | 1.47 (68¢) | $26,329 | +$12,390 | ✅ Ganada |
