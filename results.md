@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 13:17:39 (hora de Perú)
+Actualizado: 2026-10-22 13:19:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5973**  ($332,282,411 en total)
+- Apuestas registradas: **5974**  ($332,329,832 en total)
 - Resueltas: **5924** — 3626 ganadas / 2298 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 613
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jokerxing7 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $47,422 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.61 (62¢) | $30,380 | — | ⏳ Pendiente |
 | mooseborzoii | Will TSG 1899 Hoffenheim win on 2026-10-22? | No | 2.13 (47¢) | $55,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will TSG 1899 Hoffenheim win on 2026-10-22? | Yes | 1.82 (55¢) | $106,647 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 | googleplay | Spread: Pacers (-2.5) | Pelicans | 1.92 (52¢) | $51,878 | -$51,878 | ❌ Perdida |
 | YYYYY999 | Suns vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $34,225 | +$24,784 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-2.5) | Pacers | 2.04 (49¢) | $73,500 | +$76,500 | ✅ Ganada |
