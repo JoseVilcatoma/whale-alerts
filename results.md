@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 22:30:31 (hora de Perú)
+Actualizado: 2026-10-21 22:32:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5933**  ($329,436,182 en total)
+- Apuestas registradas: **5934**  ($329,462,182 en total)
 - Resueltas: **5894** — 3604 ganadas / 2290 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 611
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 420 | 226 | 3 | 65% | $41,106,683 | +$846,918 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 420 | 226 | 4 | 65% | $41,132,683 | +$846,918 |
 | Sassy-Bucket | 81 | 79 | 4 | 51% | $10,129,011 | -$905,863 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 611 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Lakers | Warriors | 7.69 (13¢) | $26,000 | — | ⏳ Pendiente |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Kings vs. Clippers | Clippers | 1.14 (88¢) | $31,000 | — | ⏳ Pendiente |
 | ethanaz | Warriors vs. Lakers | Lakers | 1.47 (68¢) | $26,329 | — | ⏳ Pendiente |
 | Nooserac | Spread: Clippers (-5.5) | Kings | 2.17 (46¢) | $43,935 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 611 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.25 (80¢) | $103,193 | +$25,798 | ✅ Ganada |
 | Flaznorp | Will FC Bayern München win on 2026-10-21? | Yes | 1.41 (71¢) | $27,294 | -$27,294 | ❌ Perdida |
 | RN1 | Will Sporting CP vs. LASK Linz end in a draw? | No | 1.54 (65¢) | $31,040 | +$16,714 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Aston Villa FC (-2.5) | Viking FK | 1.67 (60¢) | $46,278 | +$30,852 | ✅ Ganada |
