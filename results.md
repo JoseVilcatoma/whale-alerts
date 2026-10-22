@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 19:31:24 (hora de Perú)
+Actualizado: 2026-10-21 19:33:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5919**  ($328,382,387 en total)
+- Apuestas registradas: **5921**  ($328,562,764 en total)
 - Resueltas: **5850** — 3586 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 49
 - Apostadores distintos: 609
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 418 | 225 | 5 | 65% | $40,961,989 | +$892,612 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 418 | 225 | 6 | 65% | $41,106,683 | +$892,612 |
 | Sassy-Bucket | 81 | 77 | 4 | 51% | $9,930,803 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 1 | 52% | $7,411,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Bucks vs. Wizards | Bucks | 1.72 (58¢) | $35,683 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $144,694 | — | ⏳ Pendiente |
 | bluemario | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Under 3.5 | 4.00 (25¢) | $50,298 | — | ⏳ Pendiente |
 | bluemario | FC Cincinnati vs. D.C. United SC: O/U 2.5 | Under 2.5 | 5.88 (17¢) | $67,938 | — | ⏳ Pendiente |
 | googleplay | Spread: Pacers (-2.5) | Pelicans | 1.92 (52¢) | $51,878 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 | SparYel | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $32,128 | +$33,440 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $53,000 | -$53,000 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $115,776 | +$77,184 | ✅ Ganada |
-| 778908 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.27 (79¢) | $126,390 | +$33,597 | ✅ Ganada |
-| 1l2ihj34li12u34 | Will Club Brugge KV win on 2026-10-21? | No | 2.27 (44¢) | $75,818 | -$75,818 | ❌ Perdida |

@@ -88965,5 +88965,35 @@
     "status": "pending",
     "ultimo_fill": 1792628987,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12024,
+    "timestamp": 1792629088,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mls-fcc-dcu-2026-09-05-total-3pt5",
+    "title": "FC Cincinnati vs. D.C. United SC: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 144693.90589999998,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1792629088,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12025,
+    "timestamp": 1792629102,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-mil-was-2026-10-21",
+    "title": "Bucks vs. Wizards",
+    "outcome": "Bucks",
+    "side": "BUY",
+    "usd": 35682.7999,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1792629102,
+    "fills": 1
   }
 ]
