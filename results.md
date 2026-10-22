@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 18:00:49 (hora de Perú)
+Actualizado: 2026-10-22 18:02:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5998**  ($334,213,566 en total)
+- Apuestas registradas: **5999**  ($334,247,788 en total)
 - Resueltas: **5937** — 3634 ganadas / 2303 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 615
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 426 | 228 | 7 | 65% | $42,362,138 | +$836,022 |
 | Sassy-Bucket | 83 | 79 | 6 | 51% | $10,334,654 | -$808,238 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 1 | 51% | $7,445,993 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | 3edmond.dantes | 30 | 20 | 1 | 60% | $6,944,675 | -$1,232,251 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $34,222 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $220,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Ducks vs. Devils | Ducks | 2.94 (34¢) | $31,620 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $26,254 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | YYYYY999 | Counter-Strike: BIG vs TheMongolz (BO3) - 1win Private Club Playoffs | TheMongolz | 1.92 (52¢) | $30,532 | +$28,184 | ✅ Ganada |
 | bluemario | PSM Makassar vs. Persebaya Surabaya: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $62,677 | +$41,785 | ✅ Ganada |
 | RJW1 | Spread: 76ers (-3.5) | 76ers | 2.00 (50¢) | $47,797 | — | ⏳ Pendiente |
-| tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.47 (68¢) | $48,788 | +$22,959 | ✅ Ganada |
