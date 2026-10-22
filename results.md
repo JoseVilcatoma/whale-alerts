@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 00:02:32 (hora de Perú)
+Actualizado: 2026-10-22 00:04:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5937**  ($329,759,576 en total)
-- Resueltas: **5897** — 3607 ganadas / 2290 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **5903** — 3611 ganadas / 2292 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 612
 
 ### Balance
 
-- **Resultado de los apostadores: -$251,474** sobre $327,740,860 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,138** sobre $581,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$259,645** sobre $328,204,983 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,178** sobre $582,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 420 | 226 | 5 | 65% | $41,264,683 | +$846,918 |
-| Sassy-Bucket | 81 | 79 | 4 | 51% | $10,129,011 | -$905,863 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 420 | 227 | 4 | 65% | $41,264,683 | +$820,918 |
+| Sassy-Bucket | 83 | 79 | 2 | 51% | $10,129,011 | -$808,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Lakersfan111 | 65 | 42 | 0 | 61% | $5,329,215 | +$16,492 |
-| ethanaz | 56 | 24 | 1 | 70% | $5,013,481 | -$219,067 |
+| ethanaz | 57 | 24 | 0 | 70% | $5,013,481 | -$206,677 |
 | BrotherObama | 45 | 49 | 3 | 48% | $4,296,413 | -$107,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
-| googleplay | 12 | 11 | 1 | 52% | $2,220,509 | -$246,848 |
+| googleplay | 12 | 12 | 0 | 50% | $2,220,509 | -$354,817 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | milkteaboba | 10 | 11 | 0 | 48% | $2,078,678 | -$838,620 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
@@ -73,15 +73,15 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 |---|---|---|---|---|---|---|
 | bluemario | CF Pachuca vs. CF Cruz Azul: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $59,776 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | CF Pachuca vs. CF Cruz Azul: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $132,000 | — | ⏳ Pendiente |
-| dhgreg | Warriors vs. Lakers | Lakers | 1.15 (87¢) | $105,617 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Lakers | Warriors | 7.69 (13¢) | $26,000 | — | ⏳ Pendiente |
+| dhgreg | Warriors vs. Lakers | Lakers | 1.15 (87¢) | $105,617 | +$15,782 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Lakers | Warriors | 7.69 (13¢) | $26,000 | -$26,000 | ❌ Perdida |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Kings vs. Clippers | Clippers | 1.14 (88¢) | $31,000 | — | ⏳ Pendiente |
-| ethanaz | Warriors vs. Lakers | Lakers | 1.47 (68¢) | $26,329 | — | ⏳ Pendiente |
+| ethanaz | Warriors vs. Lakers | Lakers | 1.47 (68¢) | $26,329 | +$12,390 | ✅ Ganada |
 | Nooserac | Spread: Clippers (-5.5) | Kings | 2.17 (46¢) | $43,935 | — | ⏳ Pendiente |
 | www511zwin | Spread: Clippers (-5.5) | Clippers | 1.85 (54¢) | $26,987 | — | ⏳ Pendiente |
-| Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $131,726 | — | ⏳ Pendiente |
-| Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $66,482 | — | ⏳ Pendiente |
-| googleplay | Spread: Lakers (-6.5) | Warriors | 2.00 (50¢) | $107,969 | — | ⏳ Pendiente |
+| Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $131,726 | +$64,880 | ✅ Ganada |
+| Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $66,482 | +$32,745 | ✅ Ganada |
+| googleplay | Spread: Lakers (-6.5) | Warriors | 2.00 (50¢) | $107,969 | -$107,969 | ❌ Perdida |
 | googleplay | Spread: Trail Blazers (-3.5) | Trail Blazers | 1.96 (51¢) | $48,661 | +$46,753 | ✅ Ganada |
 | googleplay | Suns vs. Trail Blazers | Trail Blazers | 1.64 (61¢) | $73,367 | +$46,907 | ✅ Ganada |
 | ropetard | Suns vs. Trail Blazers | Trail Blazers | 1.69 (59¢) | $55,000 | +$932 | 💰 Vendida antes |
