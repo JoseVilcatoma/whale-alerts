@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 14:04:28 (hora de Perú)
+Actualizado: 2026-10-22 14:06:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5979**  ($332,577,896 en total)
+- Apuestas registradas: **5979**  ($332,723,696 en total)
 - Resueltas: **5929** — 3630 ganadas / 2299 perdidas (**61%** de acierto)
 - Pendientes: 28
 - Apostadores distintos: 613
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 | Kyn008 | Will AC Milan win on 2026-10-22? | No | 1.30 (77¢) | $31,253 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Bournemouth win on 2026-10-22? | No | 2.17 (46¢) | $32,200 | — | ⏳ Pendiente |
 | mooseborzoii | Jets vs. Stars | Stars | 1.56 (64¢) | $26,724 | — | ⏳ Pendiente |
-| jonjones1993 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $108,000 | — | ⏳ Pendiente |
+| jonjones1993 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $253,800 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Thunder (-8.5) | Nuggets | 1.96 (51¢) | $49,886 | — | ⏳ Pendiente |
 | Jokerxing7 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $47,422 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.61 (62¢) | $30,380 | — | ⏳ Pendiente |
