@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 17:45:57 (hora de Perú)
+Actualizado: 2026-10-22 17:48:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5989**  ($333,104,994 en total)
+- Apuestas registradas: **5990**  ($333,188,070 en total)
 - Resueltas: **5937** — 3634 ganadas / 2303 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 615
 
 ### Balance
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 12 | 12 | 0 | 50% | $2,220,509 | -$354,817 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | milkteaboba | 10 | 11 | 0 | 48% | $2,078,678 | -$838,620 |
+| Talvez10 | 23 | 18 | 1 | 56% | $2,000,565 | +$324,087 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
-| Talvez10 | 23 | 18 | 0 | 56% | $1,917,490 | +$324,087 |
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Red Wings vs. Canucks | Red Wings | 1.64 (61¢) | $83,076 | — | ⏳ Pendiente |
 | justwins | Cavaliers vs. 76ers: O/U 236.5 | Over 236.5 | 1.92 (52¢) | $27,365 | — | ⏳ Pendiente |
 | Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $56,018 | — | ⏳ Pendiente |
 | mooseborzoii | Sharks vs. Senators | Sharks | 2.27 (44¢) | $36,591 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Kings vs. Clippers | Clippers | 1.14 (88¢) | $31,000 | +$4,227 | ✅ Ganada |
 | ethanaz | Warriors vs. Lakers | Lakers | 1.47 (68¢) | $26,329 | +$12,390 | ✅ Ganada |
 | Nooserac | Spread: Clippers (-5.5) | Kings | 2.17 (46¢) | $43,935 | -$43,935 | ❌ Perdida |
-| www511zwin | Spread: Clippers (-5.5) | Clippers | 1.85 (54¢) | $26,987 | +$22,989 | ✅ Ganada |
