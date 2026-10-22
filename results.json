@@ -89297,5 +89297,20 @@
     "status": "pending",
     "ultimo_fill": 1792663556,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12111,
+    "timestamp": 1792665217,
+    "username": "YYYYY999",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-big5-mglz-2026-10-22",
+    "title": "Counter-Strike: BIG vs TheMongolz (BO3) - 1win Private Club Playoffs",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 30532.18,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792665217,
+    "fills": 1
   }
 ]
