@@ -88905,5 +88905,35 @@
     "status": "pending",
     "ultimo_fill": 1792627328,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12020,
+    "timestamp": 1792627484,
+    "username": "YYYYY999",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-phx-por-2026-10-21",
+    "title": "Suns vs. Trail Blazers",
+    "outcome": "Trail Blazers",
+    "side": "BUY",
+    "usd": 34225.3739,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1792627484,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12021,
+    "timestamp": 1792627496,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-ind-nop-2026-10-21-spread-away-2pt5",
+    "title": "Spread: Pacers (-2.5)",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 51877.852000000006,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792627496,
+    "fills": 1
   }
 ]
