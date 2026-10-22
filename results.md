@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 20:41:25 (hora de Perú)
+Actualizado: 2026-10-21 20:43:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5924**  ($328,879,726 en total)
-- Resueltas: **5855** — 3588 ganadas / 2267 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Resueltas: **5856** — 3589 ganadas / 2267 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 610
 
 ### Balance
 
-- **Resultado de los apostadores: +$241,823** sobre $325,068,676 apostados (ROI **+0.1%**)
+- **Resultado de los apostadores: +$242,755** sobre $325,123,676 apostados (ROI **+0.1%**)
 - Copiando $100 fijo en cada una: **-$4,143** sobre $577,500 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ropetard | Suns vs. Trail Blazers | Trail Blazers | 1.69 (59¢) | $55,000 | — | ⏳ Pendiente |
+| ropetard | Suns vs. Trail Blazers | Trail Blazers | 1.69 (59¢) | $55,000 | +$932 | 💰 Vendida antes |
 | googleplay | Mavericks vs. Rockets | Rockets | 1.25 (80¢) | $195,532 | — | ⏳ Pendiente |
 | googleplay | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $66,431 | — | ⏳ Pendiente |
 | googleplay | Bucks vs. Wizards | Bucks | 1.72 (58¢) | $35,683 | — | ⏳ Pendiente |
