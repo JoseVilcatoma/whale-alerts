@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 12:55:15 (hora de Perú)
+Actualizado: 2026-10-22 12:57:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5972**  ($332,179,339 en total)
+- Apuestas registradas: **5972**  ($332,252,031 en total)
 - Resueltas: **5924** — 3626 ganadas / 2298 perdidas (**61%** de acierto)
 - Pendientes: 26
 - Apostadores distintos: 613
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
-| 3edmond.dantes | 27 | 20 | 4 | 57% | $6,871,983 | -$1,341,289 |
+| 3edmond.dantes | 27 | 20 | 4 | 57% | $6,944,675 | -$1,341,289 |
 | mooseborzoii | 71 | 40 | 2 | 64% | $6,581,776 | +$1,013,949 |
 | ferrariChampions2026 | 98 | 48 | 0 | 67% | $6,444,374 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | mooseborzoii | Will TSG 1899 Hoffenheim win on 2026-10-22? | No | 2.13 (47¢) | $55,000 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will TSG 1899 Hoffenheim win on 2026-10-22? | Yes | 1.85 (54¢) | $33,955 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will TSG 1899 Hoffenheim win on 2026-10-22? | Yes | 1.82 (55¢) | $106,647 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $29,997 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $72,416 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.64 (61¢) | $29,890 | — | ⏳ Pendiente |
