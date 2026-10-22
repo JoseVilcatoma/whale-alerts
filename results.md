@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 09:10:36 (hora de Perú)
+Actualizado: 2026-10-22 09:12:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5946**  ($330,147,133 en total)
+- Apuestas registradas: **5947**  ($330,231,133 en total)
 - Resueltas: **5915** — 3621 ganadas / 2294 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 612
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 421 | 227 | 3 | 65% | $41,264,683 | +$888,918 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 421 | 227 | 4 | 65% | $41,348,683 | +$888,918 |
 | Sassy-Bucket | 83 | 79 | 2 | 51% | $10,129,011 | -$808,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Hazem SC vs. Al Fayha Saudi Club: O/U 1.5 | Over 1.5 | 1.19 (84¢) | $84,000 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Sangal vs Metizport (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs | Metizport | 2.13 (47¢) | $30,064 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Sinners vs Eternal Fire (BO3) - DraculaN Playoffs | Eternal Fire | 2.17 (46¢) | $28,847 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: BC.Game Esports vs FaZe (BO3) - DraculaN Playoffs | FaZe | 1.75 (57¢) | $57,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | bluemario | Montevideo City Torque vs. CA Mineiro: O/U 0.5 | Under 0.5 | 7.69 (13¢) | $26,304 | -$26,304 | ❌ Perdida |
 | texaskid | Spread: Raptors (-10.5) | Raptors | 2.00 (50¢) | $29,449 | +$29,449 | ✅ Ganada |
 | pau1og1 | Guangzhou 2: Liam Broady vs Akira Santillan | Liam Broady | 1.52 (66¢) | $64,973 | -$64,973 | ❌ Perdida |
-| Donkey14 | Bucks vs. Wizards | Wizards | 1.64 (61¢) | $31,282 | +$20,000 | ✅ Ganada |
