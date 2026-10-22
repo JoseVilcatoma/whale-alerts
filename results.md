@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 19:00:20 (hora de Perú)
+Actualizado: 2026-10-21 19:02:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5912**  ($328,046,133 en total)
+- Apuestas registradas: **5915**  ($328,178,048 en total)
 - Resueltas: **5850** — 3586 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 43
 - Apostadores distintos: 609
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 418 | 225 | 3 | 65% | $40,860,989 | +$892,612 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 418 | 225 | 5 | 65% | $40,961,989 | +$892,612 |
 | Sassy-Bucket | 81 | 77 | 4 | 51% | $9,930,803 | -$749,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 88 | 1 | 52% | $7,411,771 | -$602,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-2.5) | Pacers | 2.04 (49¢) | $73,500 | — | ⏳ Pendiente |
+| googleplay | Spread: Pacers (-2.5) | Pelicans | 1.96 (51¢) | $30,915 | — | ⏳ Pendiente |
 | n0tTODAY | Pacers vs. Pelicans | Pacers | 1.79 (56¢) | $26,813 | — | ⏳ Pendiente |
 | googleplay | Pacers vs. Pelicans | Pelicans | 2.27 (44¢) | $129,443 | — | ⏳ Pendiente |
 | mooseborzoii | Panthers vs. Senators | Senators | 2.04 (49¢) | $105,002 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 | crisp1973 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.64 (61¢) | $29,280 | -$29,280 | ❌ Perdida |
 | nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $43,567 | +$34,231 | ✅ Ganada |
 | tin54321 | Lisbon: Marco Trungelliti vs Carlo Alberto Caniato | Carlo Alberto Caniato | 1.23 (81¢) | $55,754 | -$55,754 | ❌ Perdida |
-| nb1985 | Will FC Bayern München win on 2026-10-21? | No | 1.67 (60¢) | $50,000 | +$33,333 | ✅ Ganada |
-| Theshorty | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 1.69 (59¢) | $28,025 | -$28,025 | ❌ Perdida |
-| nb1985 | Will Club Brugge KV win on 2026-10-21? | Yes | 1.79 (56¢) | $100,000 | +$78,571 | ✅ Ganada |

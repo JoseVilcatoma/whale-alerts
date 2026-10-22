@@ -88860,5 +88860,50 @@
     "status": "pending",
     "ultimo_fill": 1792626695,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12017,
+    "timestamp": 1792627274,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-ind-nop-2026-10-21-spread-away-2pt5",
+    "title": "Spread: Pacers (-2.5)",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 30915.4299,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792627274,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12018,
+    "timestamp": 1792627276,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-ind-nop-2026-10-21-spread-away-2pt5",
+    "title": "Spread: Pacers (-2.5)",
+    "outcome": "Pacers",
+    "side": "BUY",
+    "usd": 73500.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792627310,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 12019,
+    "timestamp": 1792627328,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-uta-mem-2026-10-21",
+    "title": "Jazz vs. Grizzlies",
+    "outcome": "Grizzlies",
+    "side": "BUY",
+    "usd": 27500.000000000004,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1792627328,
+    "fills": 1
   }
 ]
