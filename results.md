@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 21:53:39 (hora de Perú)
+Actualizado: 2026-10-21 21:55:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5931**  ($329,378,853 en total)
-- Resueltas: **5877** — 3593 ganadas / 2284 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Resueltas: **5880** — 3594 ganadas / 2286 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 610
 
 ### Balance
 
-- **Resultado de los apostadores: -$517,145** sobre $326,260,920 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,471** sobre $579,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$711,521** sobre $326,503,176 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,593** sobre $579,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
-| googleplay | 5 | 8 | 11 | 38% | $2,220,509 | -$521,117 |
+| googleplay | 5 | 9 | 10 | 36% | $2,220,509 | -$650,560 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | milkteaboba | 10 | 11 | 0 | 48% | $2,078,678 | -$838,620 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
@@ -90,8 +90,8 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-2.5) | Pacers | 2.04 (49¢) | $73,500 | — | ⏳ Pendiente |
 | googleplay | Spread: Pacers (-2.5) | Pelicans | 1.96 (51¢) | $30,915 | — | ⏳ Pendiente |
-| n0tTODAY | Pacers vs. Pelicans | Pacers | 1.79 (56¢) | $26,813 | — | ⏳ Pendiente |
-| googleplay | Pacers vs. Pelicans | Pelicans | 2.27 (44¢) | $129,443 | — | ⏳ Pendiente |
+| n0tTODAY | Pacers vs. Pelicans | Pacers | 1.79 (56¢) | $26,813 | +$21,067 | ✅ Ganada |
+| googleplay | Pacers vs. Pelicans | Pelicans | 2.27 (44¢) | $129,443 | -$129,443 | ❌ Perdida |
 | mooseborzoii | Panthers vs. Senators | Senators | 2.04 (49¢) | $105,002 | +$109,288 | ✅ Ganada |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $78,481 | -$78,481 | ❌ Perdida |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $235,000 | -$235,000 | ❌ Perdida |
@@ -118,7 +118,7 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | Donkey14 | Bucks vs. Wizards | Wizards | 1.64 (61¢) | $31,282 | +$20,000 | ✅ Ganada |
 | googleplay | Spread: Wizards (-4.5) | Bucks | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | Jacdoh | M25 Tamworth: Blake Ellis vs Benjamin O'Connell | Blake Ellis | 1.33 (75¢) | $67,724 | — | ⏳ Pendiente |
-| EdZachary | Pacers vs. Pelicans | Pelicans | 2.33 (43¢) | $86,000 | — | ⏳ Pendiente |
+| EdZachary | Pacers vs. Pelicans | Pelicans | 2.33 (43¢) | $86,000 | -$86,000 | ❌ Perdida |
 | 778908 | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.06 (94¢) | $46,896 | +$2,993 | ✅ Ganada |
 | bluemario | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.49 (67¢) | $34,362 | +$16,925 | ✅ Ganada |
 | Anon455 | Will FC Bayern München win on 2026-10-21? | No | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
