@@ -89946,5 +89946,20 @@
     "status": "pending",
     "ultimo_fill": 1792701575,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12178,
+    "timestamp": 1792705635,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "cfb-ecar-mphs-2026-10-22-spread-home-10pt5",
+    "title": "Spread: Memphis (-10.5)",
+    "outcome": "East Carolina",
+    "side": "BUY",
+    "usd": 26463.435,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792705635,
+    "fills": 1
   }
 ]
