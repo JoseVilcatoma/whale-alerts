@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 00:51:58 (hora de Perú)
+Actualizado: 2026-10-22 00:54:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5939**  ($329,853,008 en total)
-- Resueltas: **5907** — 3614 ganadas / 2293 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **5908** — 3614 ganadas / 2294 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 612
 
 ### Balance
 
-- **Resultado de los apostadores: -$257,196** sobre $328,340,981 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,123** sobre $582,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$322,169** sobre $328,405,954 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,223** sobre $582,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -122,7 +122,7 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | googleplay | Timberwolves vs. Heat | Heat | 1.89 (53¢) | $96,314 | -$96,314 | ❌ Perdida |
 | bluemario | Montevideo City Torque vs. CA Mineiro: O/U 0.5 | Under 0.5 | 7.69 (13¢) | $26,304 | -$26,304 | ❌ Perdida |
 | texaskid | Spread: Raptors (-10.5) | Raptors | 2.00 (50¢) | $29,449 | +$29,449 | ✅ Ganada |
-| pau1og1 | Guangzhou 2: Liam Broady vs Akira Santillan | Liam Broady | 1.52 (66¢) | $64,973 | — | ⏳ Pendiente |
+| pau1og1 | Guangzhou 2: Liam Broady vs Akira Santillan | Liam Broady | 1.52 (66¢) | $64,973 | -$64,973 | ❌ Perdida |
 | Donkey14 | Bucks vs. Wizards | Wizards | 1.64 (61¢) | $31,282 | +$20,000 | ✅ Ganada |
 | googleplay | Spread: Wizards (-4.5) | Bucks | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | Jacdoh | M25 Tamworth: Blake Ellis vs Benjamin O'Connell | Blake Ellis | 1.33 (75¢) | $67,724 | — | ⏳ Pendiente |
