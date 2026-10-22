@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 03:43:23 (hora de Perú)
+Actualizado: 2026-10-22 04:48:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5940**  ($329,900,805 en total)
-- Resueltas: **5912** — 3618 ganadas / 2294 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **5913** — 3619 ganadas / 2294 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 612
 
 ### Balance
 
-- **Resultado de los apostadores: -$177,803** sobre $328,691,163 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,028** sobre $583,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$155,228** sobre $328,758,887 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,995** sobre $583,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -126,7 +126,7 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | pau1og1 | Guangzhou 2: Liam Broady vs Akira Santillan | Liam Broady | 1.52 (66¢) | $64,973 | -$64,973 | ❌ Perdida |
 | Donkey14 | Bucks vs. Wizards | Wizards | 1.64 (61¢) | $31,282 | +$20,000 | ✅ Ganada |
 | googleplay | Spread: Wizards (-4.5) | Bucks | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
-| Jacdoh | M25 Tamworth: Blake Ellis vs Benjamin O'Connell | Blake Ellis | 1.33 (75¢) | $67,724 | — | ⏳ Pendiente |
+| Jacdoh | M25 Tamworth: Blake Ellis vs Benjamin O'Connell | Blake Ellis | 1.33 (75¢) | $67,724 | +$22,575 | ✅ Ganada |
 | EdZachary | Pacers vs. Pelicans | Pelicans | 2.33 (43¢) | $86,000 | -$86,000 | ❌ Perdida |
 | 778908 | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.06 (94¢) | $46,896 | +$2,993 | ✅ Ganada |
 | bluemario | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.49 (67¢) | $34,362 | +$16,925 | ✅ Ganada |
