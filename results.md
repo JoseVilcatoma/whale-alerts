@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 00:21:01 (hora de Perú)
+Actualizado: 2026-10-22 00:23:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5937**  ($329,759,576 en total)
-- Resueltas: **5905** — 3612 ganadas / 2293 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Apuestas registradas: **5938**  ($329,804,219 en total)
+- Resueltas: **5907** — 3614 ganadas / 2293 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 612
 
 ### Balance
 
-- **Resultado de los apostadores: -$280,591** sobre $328,275,905 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,193** sobre $582,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$257,196** sobre $328,340,981 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,123** sobre $582,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | 3edmond.dantes | 27 | 20 | 0 | 57% | $6,689,832 | -$1,341,289 |
-| mooseborzoii | 70 | 40 | 2 | 64% | $6,526,776 | +$994,781 |
+| mooseborzoii | 71 | 40 | 1 | 64% | $6,526,776 | +$1,013,949 |
 | ferrariChampions2026 | 98 | 48 | 0 | 67% | $6,444,374 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
@@ -71,11 +71,12 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.27 (79¢) | $44,644 | — | ⏳ Pendiente |
 | bluemario | CF Pachuca vs. CF Cruz Azul: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $59,776 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | CF Pachuca vs. CF Cruz Azul: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $132,000 | — | ⏳ Pendiente |
 | dhgreg | Warriors vs. Lakers | Lakers | 1.15 (87¢) | $105,617 | +$15,782 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Lakers | Warriors | 7.69 (13¢) | $26,000 | -$26,000 | ❌ Perdida |
-| 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Kings vs. Clippers | Clippers | 1.14 (88¢) | $31,000 | — | ⏳ Pendiente |
+| 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Kings vs. Clippers | Clippers | 1.14 (88¢) | $31,000 | +$4,227 | ✅ Ganada |
 | ethanaz | Warriors vs. Lakers | Lakers | 1.47 (68¢) | $26,329 | +$12,390 | ✅ Ganada |
 | Nooserac | Spread: Clippers (-5.5) | Kings | 2.17 (46¢) | $43,935 | -$43,935 | ❌ Perdida |
 | www511zwin | Spread: Clippers (-5.5) | Clippers | 1.85 (54¢) | $26,987 | +$22,989 | ✅ Ganada |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | bluemario | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.49 (67¢) | $34,362 | +$16,925 | ✅ Ganada |
 | Anon455 | Will FC Bayern München win on 2026-10-21? | No | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
 | texaskid | Spread: Wizards (-4.5) | Bucks | 2.00 (50¢) | $33,949 | -$33,949 | ❌ Perdida |
-| mooseborzoii | Kings vs. Clippers | Clippers | 1.56 (64¢) | $34,076 | — | ⏳ Pendiente |
-| Flaznorp | Will FC Bayern München win on 2026-10-21? | No | 1.23 (81¢) | $34,231 | +$8,029 | ✅ Ganada |
+| mooseborzoii | Kings vs. Clippers | Clippers | 1.56 (64¢) | $34,076 | +$19,168 | ✅ Ganada |

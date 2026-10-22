@@ -88360,7 +88360,7 @@
     "side": "BUY",
     "usd": 34076.0,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792615378,
     "fills": 1
   },
@@ -89174,7 +89174,7 @@
     "side": "BUY",
     "usd": 30999.999998000003,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792639127,
     "fills": 1
   },
@@ -89236,6 +89236,21 @@
     "odds_at_bet": 59,
     "status": "pending",
     "ultimo_fill": 1792644835,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12100,
+    "timestamp": 1792646536,
+    "username": "tin54321",
+    "wallet": "0x91e67d77b45558ce69238bf8a79e2e902b1ee9c5",
+    "slug": "wta-stoiana-uchijim-2026-10-21",
+    "title": "Japan Women's Open: Mary Stoiana vs Moyuka Uchijima",
+    "outcome": "Mary Stoiana",
+    "side": "BUY",
+    "usd": 44643.878099999994,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1792646536,
     "fills": 1
   }
 ]
