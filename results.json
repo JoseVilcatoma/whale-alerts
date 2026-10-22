@@ -89162,5 +89162,20 @@
     "status": "pending",
     "ultimo_fill": 1792637795,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12078,
+    "timestamp": 1792639127,
+    "username": "0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048",
+    "wallet": "0x246be8a4e3805e318801b79ad1ee1268d5fbfb5b",
+    "slug": "nba-sac-lac-2026-10-21",
+    "title": "Kings vs. Clippers",
+    "outcome": "Clippers",
+    "side": "BUY",
+    "usd": 30999.999998000003,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1792639127,
+    "fills": 1
   }
 ]

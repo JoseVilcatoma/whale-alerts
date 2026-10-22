@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 22:17:59 (hora de Perú)
+Actualizado: 2026-10-21 22:20:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5932**  ($329,405,182 en total)
+- Apuestas registradas: **5933**  ($329,436,182 en total)
 - Resueltas: **5890** — 3600 ganadas / 2290 perdidas (**61%** de acierto)
-- Pendientes: 20
-- Apostadores distintos: 610
+- Pendientes: 21
+- Apostadores distintos: 611
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 19 | 0 | 52% | $1,829,321 | -$98,360 |
 | TAIWANNUMBERONE | 31 | 16 | 0 | 66% | $1,825,045 | -$150,964 |
 
-_(mostrando los 40 de mayor monto, de 610 en total)_
+_(mostrando los 40 de mayor monto, de 611 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Kings vs. Clippers | Clippers | 1.14 (88¢) | $31,000 | — | ⏳ Pendiente |
 | ethanaz | Warriors vs. Lakers | Lakers | 1.47 (68¢) | $26,329 | — | ⏳ Pendiente |
 | Nooserac | Spread: Clippers (-5.5) | Kings | 2.17 (46¢) | $43,935 | — | ⏳ Pendiente |
 | www511zwin | Spread: Clippers (-5.5) | Clippers | 1.85 (54¢) | $26,987 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 610 en total)_
 | Flaznorp | Will FC Bayern München win on 2026-10-21? | Yes | 1.41 (71¢) | $27,294 | -$27,294 | ❌ Perdida |
 | RN1 | Will Sporting CP vs. LASK Linz end in a draw? | No | 1.54 (65¢) | $31,040 | +$16,714 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Aston Villa FC (-2.5) | Viking FK | 1.67 (60¢) | $46,278 | +$30,852 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Club Brugge KV vs. Racing Club de Lens: O/U 3.5 | Under 3.5 | 1.75 (57¢) | $26,457 | +$19,959 | ✅ Ganada |
