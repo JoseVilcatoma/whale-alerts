@@ -89222,5 +89222,20 @@
     "status": "pending",
     "ultimo_fill": 1792643738,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12089,
+    "timestamp": 1792644835,
+    "username": "bluemario",
+    "wallet": "0x34a1eed3f6bb10dd2f99b79cb4e8ca8749ae7622",
+    "slug": "mex-pac-caz-2026-10-21-total-3pt5",
+    "title": "CF Pachuca vs. CF Cruz Azul: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 59776.439999999995,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1792644835,
+    "fills": 1
   }
 ]
