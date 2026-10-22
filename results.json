@@ -89312,5 +89312,20 @@
     "status": "pending",
     "ultimo_fill": 1792665217,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12112,
+    "timestamp": 1792667081,
+    "username": "0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048",
+    "wallet": "0x246be8a4e3805e318801b79ad1ee1268d5fbfb5b",
+    "slug": "wta-rybakin-kuderme-2026-10-20",
+    "title": "Ningbo Open: Elena Rybakina vs Polina Kudermetova",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 37207.48,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1792667081,
+    "fills": 1
   }
 ]

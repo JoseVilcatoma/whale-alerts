@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 06:02:42 (hora de Perú)
+Actualizado: 2026-10-22 06:04:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5942**  ($329,994,014 en total)
+- Apuestas registradas: **5943**  ($330,031,222 en total)
 - Resueltas: **5913** — 3619 ganadas / 2294 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 612
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Ningbo Open: Elena Rybakina vs Polina Kudermetova | Elena Rybakina | 1.15 (87¢) | $37,207 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: BIG vs TheMongolz (BO3) - 1win Private Club Playoffs | TheMongolz | 1.92 (52¢) | $30,532 | — | ⏳ Pendiente |
 | bluemario | PSM Makassar vs. Persebaya Surabaya: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $62,677 | — | ⏳ Pendiente |
 | RJW1 | Spread: 76ers (-3.5) | 76ers | 2.00 (50¢) | $47,797 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | googleplay | Spread: Wizards (-4.5) | Bucks | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | Jacdoh | M25 Tamworth: Blake Ellis vs Benjamin O'Connell | Blake Ellis | 1.33 (75¢) | $67,724 | +$22,575 | ✅ Ganada |
 | EdZachary | Pacers vs. Pelicans | Pelicans | 2.33 (43¢) | $86,000 | -$86,000 | ❌ Perdida |
-| 778908 | Lyon Open: Benjamin Bonzi vs Tommy Paul | Tommy Paul | 1.06 (94¢) | $46,896 | +$2,993 | ✅ Ganada |
