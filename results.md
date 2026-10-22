@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 19:35:32 (hora de Perú)
+Actualizado: 2026-10-21 19:37:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5922**  ($328,629,194 en total)
+- Apuestas registradas: **5923**  ($328,824,726 en total)
 - Resueltas: **5850** — 3586 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 609
 
 ### Balance
@@ -56,6 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | milkteaboba | 10 | 11 | 0 | 48% | $2,078,678 | -$838,620 |
+| googleplay | 5 | 0 | 16 | ⚠️ 100% (5) | $1,990,512 | +$114,648 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Talvez10 | 23 | 18 | 0 | 56% | $1,917,490 | +$324,087 |
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 | Jsram | 21 | 19 | 0 | 52% | $1,829,321 | -$98,360 |
 | TAIWANNUMBERONE | 31 | 16 | 0 | 66% | $1,825,045 | -$150,964 |
-| 00gringo00 | 8 | 3 | 0 | 73% | $1,811,926 | +$225,727 |
 
 _(mostrando los 40 de mayor monto, de 609 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Mavericks vs. Rockets | Rockets | 1.25 (80¢) | $195,532 | — | ⏳ Pendiente |
 | googleplay | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $66,431 | — | ⏳ Pendiente |
 | googleplay | Bucks vs. Wizards | Bucks | 1.72 (58¢) | $35,683 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Cincinnati vs. D.C. United SC: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $144,694 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.35 (74¢) | $190,423 | -$190,423 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $58,000 | -$58,000 | ❌ Perdida |
 | SparYel | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $32,128 | +$33,440 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF vs. RB Leipzig: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $53,000 | -$53,000 | ❌ Perdida |
