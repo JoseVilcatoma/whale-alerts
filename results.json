@@ -89534,9 +89534,11 @@
     "side": "BUY",
     "usd": 240334.94819999998,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1792685436,
-    "fills": 2
+    "fills": 2,
+    "profit_usd": 88544.45,
+    "precio_salida": 78
   },
   {
     "telegram_msg_id": 12131,
@@ -89626,6 +89628,21 @@
     "odds_at_bet": 62,
     "status": "pending",
     "ultimo_fill": 1792687778,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12140,
+    "timestamp": 1792688209,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "uel-lep-sun-2026-10-22-total-2pt5",
+    "title": "KKS Lech Pozna\u0144 vs. Sunderland AFC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 191038.2942,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1792688209,
     "fills": 1
   }
 ]
