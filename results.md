@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 02:16:22 (hora de Perú)
+Actualizado: 2026-10-22 02:18:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5939**  ($329,853,008 en total)
-- Resueltas: **5910** — 3616 ganadas / 2294 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **5912** — 3618 ganadas / 2294 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 612
 
 ### Balance
 
-- **Resultado de los apostadores: -$287,342** sobre $328,499,387 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,149** sobre $582,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$177,803** sobre $328,691,163 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,028** sobre $583,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 420 | 227 | 4 | 65% | $41,264,683 | +$820,918 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 421 | 227 | 3 | 65% | $41,264,683 | +$888,918 |
 | Sassy-Bucket | 83 | 79 | 2 | 51% | $10,129,011 | -$808,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -73,8 +73,8 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 |---|---|---|---|---|---|---|
 | tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.47 (68¢) | $48,788 | +$22,959 | ✅ Ganada |
 | tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.27 (79¢) | $44,644 | +$11,867 | ✅ Ganada |
-| bluemario | CF Pachuca vs. CF Cruz Azul: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $59,776 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | CF Pachuca vs. CF Cruz Azul: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $132,000 | — | ⏳ Pendiente |
+| bluemario | CF Pachuca vs. CF Cruz Azul: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $59,776 | +$41,540 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | CF Pachuca vs. CF Cruz Azul: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $132,000 | +$68,000 | ✅ Ganada |
 | dhgreg | Warriors vs. Lakers | Lakers | 1.15 (87¢) | $105,617 | +$15,782 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Lakers | Warriors | 7.69 (13¢) | $26,000 | -$26,000 | ❌ Perdida |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Kings vs. Clippers | Clippers | 1.14 (88¢) | $31,000 | +$4,227 | ✅ Ganada |
