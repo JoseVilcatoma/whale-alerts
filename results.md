@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 19:06:35 (hora de Perú)
+Actualizado: 2026-10-21 19:08:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5917**  ($328,264,152 en total)
+- Apuestas registradas: **5918**  ($328,296,667 en total)
 - Resueltas: **5850** — 3586 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 609
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bluemario | FC Cincinnati vs. D.C. United SC: O/U 2.5 | Under 2.5 | 6.25 (16¢) | $32,516 | — | ⏳ Pendiente |
 | googleplay | Spread: Pacers (-2.5) | Pelicans | 1.92 (52¢) | $51,878 | — | ⏳ Pendiente |
 | YYYYY999 | Suns vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $34,225 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 | 778908 | Will FC Internazionale Milano win on 2026-10-21? | Yes | 1.27 (79¢) | $126,390 | +$33,597 | ✅ Ganada |
 | 1l2ihj34li12u34 | Will Club Brugge KV win on 2026-10-21? | No | 2.27 (44¢) | $75,818 | -$75,818 | ❌ Perdida |
 | Flaznorp | Will Viking FK win on 2026-10-21? | No | 1.10 (91¢) | $25,534 | +$2,525 | ✅ Ganada |
-| crisp1973 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.64 (61¢) | $29,280 | -$29,280 | ❌ Perdida |
