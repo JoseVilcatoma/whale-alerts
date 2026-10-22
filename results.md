@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 07:33:31 (hora de Perú)
+Actualizado: 2026-10-22 07:35:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5944**  ($330,088,222 en total)
-- Resueltas: **5914** — 3620 ganadas / 2294 perdidas (**61%** de acierto)
+- Apuestas registradas: **5945**  ($330,117,069 en total)
+- Resueltas: **5915** — 3621 ganadas / 2294 perdidas (**61%** de acierto)
 - Pendientes: 8
 - Apostadores distintos: 612
 
 ### Balance
 
-- **Resultado de los apostadores: -$149,668** sobre $328,796,095 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,980** sobre $583,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$107,884** sobre $328,858,772 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,913** sobre $583,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,10 +71,11 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: Sinners vs Eternal Fire (BO3) - DraculaN Playoffs | Eternal Fire | 2.17 (46¢) | $28,847 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: BC.Game Esports vs FaZe (BO3) - DraculaN Playoffs | FaZe | 1.75 (57¢) | $57,000 | — | ⏳ Pendiente |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Ningbo Open: Elena Rybakina vs Polina Kudermetova | Elena Rybakina | 1.15 (87¢) | $37,207 | +$5,560 | ✅ Ganada |
 | YYYYY999 | Counter-Strike: BIG vs TheMongolz (BO3) - 1win Private Club Playoffs | TheMongolz | 1.92 (52¢) | $30,532 | — | ⏳ Pendiente |
-| bluemario | PSM Makassar vs. Persebaya Surabaya: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $62,677 | — | ⏳ Pendiente |
+| bluemario | PSM Makassar vs. Persebaya Surabaya: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $62,677 | +$41,785 | ✅ Ganada |
 | RJW1 | Spread: 76ers (-3.5) | 76ers | 2.00 (50¢) | $47,797 | — | ⏳ Pendiente |
 | tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.47 (68¢) | $48,788 | +$22,959 | ✅ Ganada |
 | tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.27 (79¢) | $44,644 | +$11,867 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | pau1og1 | Guangzhou 2: Liam Broady vs Akira Santillan | Liam Broady | 1.52 (66¢) | $64,973 | -$64,973 | ❌ Perdida |
 | Donkey14 | Bucks vs. Wizards | Wizards | 1.64 (61¢) | $31,282 | +$20,000 | ✅ Ganada |
 | googleplay | Spread: Wizards (-4.5) | Bucks | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
-| Jacdoh | M25 Tamworth: Blake Ellis vs Benjamin O'Connell | Blake Ellis | 1.33 (75¢) | $67,724 | +$22,575 | ✅ Ganada |
