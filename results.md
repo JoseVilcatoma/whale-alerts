@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-21 20:04:20 (hora de Perú)
+Actualizado: 2026-10-21 20:06:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5923**  ($328,824,726 en total)
+- Apuestas registradas: **5924**  ($328,879,726 en total)
 - Resueltas: **5850** — 3586 ganadas / 2264 perdidas (**61%** de acierto)
-- Pendientes: 51
-- Apostadores distintos: 609
+- Pendientes: 52
+- Apostadores distintos: 610
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 19 | 0 | 52% | $1,829,321 | -$98,360 |
 | TAIWANNUMBERONE | 31 | 16 | 0 | 66% | $1,825,045 | -$150,964 |
 
-_(mostrando los 40 de mayor monto, de 609 en total)_
+_(mostrando los 40 de mayor monto, de 610 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ropetard | Suns vs. Trail Blazers | Trail Blazers | 1.69 (59¢) | $55,000 | — | ⏳ Pendiente |
 | googleplay | Mavericks vs. Rockets | Rockets | 1.25 (80¢) | $195,532 | — | ⏳ Pendiente |
 | googleplay | Mavericks vs. Rockets | Rockets | 1.27 (79¢) | $66,431 | — | ⏳ Pendiente |
 | googleplay | Bucks vs. Wizards | Bucks | 1.72 (58¢) | $35,683 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 609 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will FC Bayern München vs. Arsenal FC end in a draw? | Yes | 3.85 (26¢) | $66,905 | +$190,423 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. Arsenal FC end in a draw? | No | 1.35 (74¢) | $190,423 | -$190,423 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Real Madrid CF (-2.5) | RB Leipzig | 1.72 (58¢) | $58,000 | -$58,000 | ❌ Perdida |
-| SparYel | FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 3.5 | Under 3.5 | 2.04 (49¢) | $32,128 | +$33,440 | ✅ Ganada |
