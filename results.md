@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 11:22:04 (hora de Perú)
+Actualizado: 2026-10-22 11:24:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5958**  ($331,409,215 en total)
+- Apuestas registradas: **5959**  ($331,470,115 en total)
 - Resueltas: **5916** — 3622 ganadas / 2294 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 612
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
-| 3edmond.dantes | 27 | 20 | 1 | 57% | $6,746,832 | -$1,341,289 |
+| 3edmond.dantes | 27 | 20 | 2 | 57% | $6,807,732 | -$1,341,289 |
 | mooseborzoii | 71 | 40 | 1 | 64% | $6,526,776 | +$1,013,949 |
 | ferrariChampions2026 | 98 | 48 | 0 | 67% | $6,444,374 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.72 (58¢) | $60,900 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.75 (57¢) | $56,999 | — | ⏳ Pendiente |
 | bluemario | KKS Lech Poznań vs. Sunderland AFC: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $240,335 | — | ⏳ Pendiente |
 | beeemw | Will Stade Rennais FC 1901 win on 2026-10-22? | No | 1.14 (88¢) | $39,092 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | googleplay | Jazz vs. Grizzlies | Grizzlies | 1.82 (55¢) | $72,604 | +$59,403 | ✅ Ganada |
 | Sassy-Bucket | Jazz vs. Grizzlies | Jazz | 2.22 (45¢) | $76,590 | -$76,590 | ❌ Perdida |
 | www511zwin | Spread: Atlanta Dream (-3.5) | Golden State Valkyries | 2.04 (49¢) | $40,000 | -$40,000 | ❌ Perdida |
-| googleplay | Timberwolves vs. Heat | Heat | 1.85 (54¢) | $47,707 | -$47,707 | ❌ Perdida |
