@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 09:14:40 (hora de Perú)
+Actualizado: 2026-10-22 09:16:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5947**  ($330,231,133 en total)
+- Apuestas registradas: **5948**  ($330,267,286 en total)
 - Resueltas: **5915** — 3621 ganadas / 2294 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 612
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 2.5 | Under 2.5 | 5.56 (18¢) | $36,154 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Hazem SC vs. Al Fayha Saudi Club: O/U 1.5 | Over 1.5 | 1.19 (84¢) | $84,000 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Sangal vs Metizport (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs | Metizport | 2.13 (47¢) | $30,064 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Sinners vs Eternal Fire (BO3) - DraculaN Playoffs | Eternal Fire | 2.17 (46¢) | $28,847 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | googleplay | Timberwolves vs. Heat | Heat | 1.89 (53¢) | $96,314 | -$96,314 | ❌ Perdida |
 | bluemario | Montevideo City Torque vs. CA Mineiro: O/U 0.5 | Under 0.5 | 7.69 (13¢) | $26,304 | -$26,304 | ❌ Perdida |
 | texaskid | Spread: Raptors (-10.5) | Raptors | 2.00 (50¢) | $29,449 | +$29,449 | ✅ Ganada |
-| pau1og1 | Guangzhou 2: Liam Broady vs Akira Santillan | Liam Broady | 1.52 (66¢) | $64,973 | -$64,973 | ❌ Perdida |
