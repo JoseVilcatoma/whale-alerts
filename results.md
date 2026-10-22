@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 01:59:56 (hora de Perú)
+Actualizado: 2026-10-22 02:02:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **5939**  ($329,853,008 en total)
-- Resueltas: **5908** — 3614 ganadas / 2294 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **5910** — 3616 ganadas / 2294 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 612
 
 ### Balance
 
-- **Resultado de los apostadores: -$322,169** sobre $328,405,954 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,223** sobre $582,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$287,342** sobre $328,499,387 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,149** sobre $582,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,8 +71,8 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.47 (68¢) | $48,788 | — | ⏳ Pendiente |
-| tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.27 (79¢) | $44,644 | — | ⏳ Pendiente |
+| tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.47 (68¢) | $48,788 | +$22,959 | ✅ Ganada |
+| tin54321 | Japan Women's Open: Mary Stoiana vs Moyuka Uchijima | Mary Stoiana | 1.27 (79¢) | $44,644 | +$11,867 | ✅ Ganada |
 | bluemario | CF Pachuca vs. CF Cruz Azul: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $59,776 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | CF Pachuca vs. CF Cruz Azul: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $132,000 | — | ⏳ Pendiente |
 | dhgreg | Warriors vs. Lakers | Lakers | 1.15 (87¢) | $105,617 | +$15,782 | ✅ Ganada |
