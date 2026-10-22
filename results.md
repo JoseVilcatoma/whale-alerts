@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 12:47:03 (hora de Perú)
+Actualizado: 2026-10-22 12:49:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5968**  ($331,987,971 en total)
-- Resueltas: **5923** — 3625 ganadas / 2298 perdidas (**61%** de acierto)
+- Apuestas registradas: **5969**  ($332,018,470 en total)
+- Resueltas: **5924** — 3626 ganadas / 2298 perdidas (**61%** de acierto)
 - Pendientes: 23
 - Apostadores distintos: 613
 
 ### Balance
 
-- **Resultado de los apostadores: -$203,399** sobre $329,507,823 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,057** sobre $584,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$196,180** sobre $329,603,732 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,049** sobre $584,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1l2ihj34li12u34 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.89 (53¢) | $30,499 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.64 (61¢) | $29,890 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | 778908 | Lyon Open: Flavio Cobolli vs Stan Wawrinka | Flavio Cobolli | 1.10 (91¢) | $109,200 | — | ⏳ Pendiente |
@@ -86,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 | beeemw | Will Stade Rennais FC 1901 win on 2026-10-22? | No | 1.14 (88¢) | $39,092 | -$12,883 | 💰 Vendida antes |
 | bluemario | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Under 4.5 | 1.52 (66¢) | $68,284 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Over 4.5 | 2.70 (37¢) | $29,330 | — | ⏳ Pendiente |
-| bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 4.5 | Under 4.5 | 1.08 (93¢) | $95,909 | — | ⏳ Pendiente |
+| bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 4.5 | Under 4.5 | 1.08 (93¢) | $95,909 | +$7,219 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AS Omónoia Leukosías win on 2026-10-22? | No | 1.11 (90¢) | $92,040 | — | ⏳ Pendiente |
 | bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 3.5 | Under 3.5 | 1.52 (66¢) | $134,523 | -$134,523 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Fateh Saudi Club vs. Al Shabab Saudi Club: O/U 2.5 | Over 2.5 | 1.11 (90¢) | $358,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 613 en total)_
 | n0tTODAY | Pacers vs. Pelicans | Pacers | 1.79 (56¢) | $26,813 | +$21,067 | ✅ Ganada |
 | googleplay | Pacers vs. Pelicans | Pelicans | 2.27 (44¢) | $129,443 | -$129,443 | ❌ Perdida |
 | mooseborzoii | Panthers vs. Senators | Senators | 2.04 (49¢) | $105,002 | +$109,288 | ✅ Ganada |
-| googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $78,481 | -$78,481 | ❌ Perdida |

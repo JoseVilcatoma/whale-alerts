@@ -89474,7 +89474,7 @@
     "side": "BUY",
     "usd": 95909.3151,
     "odds_at_bet": 93,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792683361,
     "fills": 1
   },
@@ -89705,6 +89705,21 @@
     "odds_at_bet": 61,
     "status": "pending",
     "ultimo_fill": 1792691202,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12150,
+    "timestamp": 1792691288,
+    "username": "1l2ihj34li12u34",
+    "wallet": "0xb52e8b3afd9f0f0d502a5a76494b42816d67285c",
+    "slug": "uel-bou-mil1-2026-10-22-bou",
+    "title": "Will AFC Bournemouth win on 2026-10-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 30499.025800000003,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792691288,
     "fills": 1
   }
 ]
