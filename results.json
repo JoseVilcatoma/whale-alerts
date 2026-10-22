@@ -89384,7 +89384,7 @@
     "side": "BUY",
     "usd": 84000.0,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792678303,
     "fills": 1
   },
@@ -89399,7 +89399,7 @@
     "side": "BUY",
     "usd": 36153.6606,
     "odds_at_bet": 18,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792678485,
     "fills": 1
   },
@@ -89444,7 +89444,7 @@
     "side": "BUY",
     "usd": 134523.2912,
     "odds_at_bet": 66,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792682888,
     "fills": 1
   },
@@ -89690,6 +89690,21 @@
     "odds_at_bet": 60,
     "status": "pending",
     "ultimo_fill": 1792690914,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12148,
+    "timestamp": 1792691202,
+    "username": "thistime214",
+    "wallet": "0xe3d98584726d6d6e58dca042011022735a6ffc2f",
+    "slug": "nba-cle-phi-2026-10-22-total-232pt5",
+    "title": "Cavaliers vs. 76ers: O/U 232.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 29890.0,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1792691202,
     "fills": 1
   }
 ]
