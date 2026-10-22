@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 12:24:27 (hora de Perú)
+Actualizado: 2026-10-22 12:26:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5965**  ($331,818,881 en total)
+- Apuestas registradas: **5966**  ($331,928,081 en total)
 - Resueltas: **5919** — 3624 ganadas / 2295 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 612
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 778908 | Lyon Open: Flavio Cobolli vs Stan Wawrinka | Flavio Cobolli | 1.10 (91¢) | $109,200 | — | ⏳ Pendiente |
 | rabbitfoot1 | Sharks vs. Senators | Sharks | 2.27 (44¢) | $32,839 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | KKS Lech Poznań vs. Sunderland AFC: O/U 2.5 | Over 2.5 | 1.28 (78¢) | $191,038 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lyon Open: Kyrian Jacquet vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $37,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 612 en total)_
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $78,481 | -$78,481 | ❌ Perdida |
 | googleplay | Hornets vs. Nets | Nets | 2.13 (47¢) | $235,000 | -$235,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Hornets (-1.5) | Nets | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
-| Sassy-Bucket | Bucks vs. Wizards | Bucks | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
