@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 17:41:45 (hora de Perú)
+Actualizado: 2026-10-22 17:43:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5987**  ($333,021,612 en total)
+- Apuestas registradas: **5988**  ($333,077,630 en total)
 - Resueltas: **5937** — 3634 ganadas / 2303 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 615
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 426 | 228 | 5 | 65% | $42,115,884 | +$836,022 |
-| Sassy-Bucket | 83 | 79 | 2 | 51% | $10,129,011 | -$808,238 |
+| Sassy-Bucket | 83 | 79 | 3 | 51% | $10,185,030 | -$808,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 0 | 51% | $7,411,771 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $56,018 | — | ⏳ Pendiente |
 | mooseborzoii | Sharks vs. Senators | Sharks | 2.27 (44¢) | $36,591 | — | ⏳ Pendiente |
 | FeedTheBigBird | Ducks vs. Devils | Devils | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Memphis (-10.5) | East Carolina | 2.00 (50¢) | $26,463 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | Nooserac | Spread: Clippers (-5.5) | Kings | 2.17 (46¢) | $43,935 | -$43,935 | ❌ Perdida |
 | www511zwin | Spread: Clippers (-5.5) | Clippers | 1.85 (54¢) | $26,987 | +$22,989 | ✅ Ganada |
 | Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $131,726 | +$64,880 | ✅ Ganada |
-| Sassy-Bucket | Warriors vs. Lakers | Lakers | 1.49 (67¢) | $66,482 | +$32,745 | ✅ Ganada |
