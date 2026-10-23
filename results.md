@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 21:03:31 (hora de Perú)
+Actualizado: 2026-10-22 21:05:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6025**  ($336,162,021 en total)
+- Apuestas registradas: **6027**  ($336,228,370 en total)
 - Resueltas: **5951** — 3643 ganadas / 2308 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Pendientes: 54
 - Apostadores distintos: 615
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 427 | 229 | 9 | 65% | $42,563,355 | +$814,049 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 427 | 229 | 10 | 65% | $42,599,704 | +$814,049 |
 | Sassy-Bucket | 83 | 82 | 4 | 50% | $10,362,110 | -$987,626 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 1 | 51% | $7,445,993 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Bears | Bears | 1.33 (75¢) | $36,349 | — | ⏳ Pendiente |
+| Anon455 | Patriots vs. Bears | Bears | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | Anon455 | Patriots vs. Bears | Bears | 1.35 (74¢) | $29,600 | — | ⏳ Pendiente |
 | ethanaz | Spread: Thunder (-8.5) | Thunder | 2.08 (48¢) | $26,610 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | 76ers | 1.09 (92¢) | $29,117 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $29,997 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $72,416 | +$61,688 | ✅ Ganada |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.64 (61¢) | $29,890 | — | ⏳ Pendiente |
-| thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
-| 778908 | Lyon Open: Flavio Cobolli vs Stan Wawrinka | Flavio Cobolli | 1.10 (91¢) | $109,200 | +$10,800 | ✅ Ganada |
