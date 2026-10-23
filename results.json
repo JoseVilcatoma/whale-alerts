@@ -90366,5 +90366,20 @@
     "status": "pending",
     "ultimo_fill": 1792716370,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12218,
+    "timestamp": 1792717382,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-ne-chi-2026-10-23",
+    "title": "Patriots vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 126201.99560000002,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1792717382,
+    "fills": 1
   }
 ]

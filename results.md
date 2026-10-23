@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 20:01:38 (hora de Perú)
+Actualizado: 2026-10-22 20:03:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6012**  ($335,364,286 en total)
+- Apuestas registradas: **6013**  ($335,490,488 en total)
 - Resueltas: **5945** — 3640 ganadas / 2305 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 615
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | 3edmond.dantes | 31 | 20 | 0 | 61% | $6,944,675 | -$1,144,994 |
-| mooseborzoii | 71 | 41 | 4 | 63% | $6,694,977 | +$958,949 |
+| mooseborzoii | 71 | 41 | 5 | 63% | $6,821,179 | +$958,949 |
 | ferrariChampions2026 | 98 | 48 | 2 | 67% | $6,522,923 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Patriots vs. Bears | Bears | 1.47 (68¢) | $126,202 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Patriots vs. Bears | Bears | 1.43 (70¢) | $46,721 | — | ⏳ Pendiente |
 | milkteaboba | Patriots vs. Bears | Bears | 1.54 (65¢) | $49,867 | — | ⏳ Pendiente |
 | Anon455 | Patriots vs. Bears | Bears | 1.47 (68¢) | $27,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | beeemw | Will Stade Rennais FC 1901 win on 2026-10-22? | No | 1.14 (88¢) | $39,092 | -$12,883 | 💰 Vendida antes |
 | bluemario | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Under 4.5 | 1.52 (66¢) | $68,284 | -$68,284 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Over 4.5 | 2.70 (37¢) | $29,330 | +$49,941 | ✅ Ganada |
-| bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 4.5 | Under 4.5 | 1.08 (93¢) | $95,909 | +$7,219 | ✅ Ganada |
