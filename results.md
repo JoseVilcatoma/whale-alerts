@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 20:28:32 (hora de Perú)
+Actualizado: 2026-10-22 20:30:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6017**  ($335,832,441 en total)
+- Apuestas registradas: **6018**  ($335,870,441 en total)
 - Resueltas: **5945** — 3640 ganadas / 2305 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 615
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 45 | 49 | 3 | 48% | $4,296,413 | -$107,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
-| surfandturf | 33 | 10 | 0 | 77% | $3,504,490 | +$456,568 |
+| surfandturf | 33 | 10 | 1 | 77% | $3,542,490 | +$456,568 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Patriots vs. Bears | Bears | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | milkteaboba | Patriots vs. Bears | Bears | 1.59 (63¢) | $173,607 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Bears | Bears | 1.52 (66¢) | $47,384 | — | ⏳ Pendiente |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.45 (69¢) | $64,161 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | tiger105 | Will Sunderland AFC win on 2026-10-22? | Yes | 1.89 (53¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Fateh Saudi Club vs. Al Shabab Saudi Club: O/U 4.5 | Under 4.5 | 1.35 (74¢) | $27,393 | +$9,624 | ✅ Ganada |
 | 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.72 (58¢) | $60,900 | +$44,100 | ✅ Ganada |
-| 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.75 (57¢) | $56,999 | +$43,000 | ✅ Ganada |
