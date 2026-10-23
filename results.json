@@ -91240,5 +91240,20 @@
     "status": "pending",
     "ultimo_fill": 1792781981,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12356,
+    "timestamp": 1792782398,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "lol-blg-mkoi-2026-10-23",
+    "title": "LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 31241.179999999997,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1792782398,
+    "fills": 1
   }
 ]
