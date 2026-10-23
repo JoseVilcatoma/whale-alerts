@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 13:22:57 (hora de Perú)
+Actualizado: 2026-10-23 13:24:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6062**  ($337,927,025 en total)
+- Apuestas registradas: **6063**  ($337,957,875 en total)
 - Resueltas: **6020** — 3686 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Hanwha Life Esports vs Top Esports (BO1) - Worlds Group Stage | Top Esports | 4.17 (24¢) | $30,850 | — | ⏳ Pendiente |
 | fraagen | Stade Brestois 29 vs. OGC Nice: O/U 9.5 Total Corners | Under 9.5 Total Corners | 1.85 (54¢) | $26,998 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | LlamaEnjoyer | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.39 (72¢) | $28,080 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | ferrariChampions2026 | Patriots vs. Bears | Bears | 1.54 (65¢) | $31,829 | +$17,139 | ✅ Ganada |
 | Painfulvoid | Cavaliers vs. 76ers | Cavaliers | 1.08 (93¢) | $35,880 | -$35,880 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 1.09 (92¢) | $42,559 | -$42,559 | ❌ Perdida |
-| Sassy-Bucket | Patriots vs. Bears | Patriots | 2.44 (41¢) | $27,456 | -$27,456 | ❌ Perdida |
