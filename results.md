@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 17:25:31 (hora de Perú)
+Actualizado: 2026-10-23 17:27:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6094**  ($339,750,712 en total)
+- Apuestas registradas: **6095**  ($340,000,712 en total)
 - Resueltas: **6043** — 3696 ganadas / 2347 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 616
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 434 | 234 | 5 | 65% | $43,055,497 | +$732,933 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 434 | 234 | 6 | 65% | $43,305,497 | +$732,933 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.00 (50¢) | $250,000 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $29,200 | — | ⏳ Pendiente |
 | beeemw | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $37,875 | — | ⏳ Pendiente |
 | bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.14 (88¢) | $34,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-8.5) | Thunder | 1.96 (51¢) | $88,515 | +$85,044 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Nuggets vs. Thunder | Thunder | 1.22 (82¢) | $87,767 | +$19,266 | ✅ Ganada |
 | 0x6db5…e279 | Nuggets vs. Thunder | Thunder | 1.23 (81¢) | $26,473 | +$6,210 | ✅ Ganada |
-| ethanaz | Nuggets vs. Thunder | Thunder | 1.35 (74¢) | $27,913 | +$9,807 | ✅ Ganada |
