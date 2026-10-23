@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 14:37:45 (hora de Perú)
+Actualizado: 2026-10-23 14:39:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6076**  ($338,684,152 en total)
-- Resueltas: **6023** — 3689 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **6024** — 3689 ganadas / 2335 perdidas (**61%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$980,934** sobre $336,412,184 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,237** sobre $593,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,011,784** sobre $336,443,034 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,337** sobre $593,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $81,636 | — | ⏳ Pendiente |
 | omnibus-076daa | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,358 | — | ⏳ Pendiente |
 | robustmst | Lyon Open: Flavio Cobolli vs Brandon Nakashima | Flavio Cobolli | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Hanwha Life Esports vs Top Esports (BO1) - Worlds Group Stage | Top Esports | 4.17 (24¢) | $30,850 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Hanwha Life Esports vs Top Esports (BO1) - Worlds Group Stage | Top Esports | 4.17 (24¢) | $30,850 | -$30,850 | ❌ Perdida |
 | fraagen | Stade Brestois 29 vs. OGC Nice: O/U 9.5 Total Corners | Under 9.5 Total Corners | 1.85 (54¢) | $26,998 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | LlamaEnjoyer | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.39 (72¢) | $28,080 | +$10,920 | ✅ Ganada |
