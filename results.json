@@ -90998,5 +90998,20 @@
     "status": "pending",
     "ultimo_fill": 1792769499,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 12333,
+    "timestamp": 1792774611,
+    "username": "retordedgremlin125",
+    "wallet": "0xf0b6a8ebfa3a626337cc45e8eed30eaafb182fef",
+    "slug": "lol-gen-ig1-2026-10-23",
+    "title": "LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 35486.9124,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1792774611,
+    "fills": 1
   }
 ]
