@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 18:50:45 (hora de Perú)
+Actualizado: 2026-10-23 18:52:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6122**  ($342,151,065 en total)
-- Resueltas: **6056** — 3703 ganadas / 2353 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Resueltas: **6057** — 3703 ganadas / 2354 perdidas (**61%** de acierto)
+- Pendientes: 43
 - Apostadores distintos: 617
 
 ### Balance
 
-- **Resultado de los apostadores: -$699,596** sobre $338,452,784 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,995** sobre $597,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$741,880** sobre $338,495,068 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$6,095** sobre $597,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | mooseborzoii | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $50,063 | — | ⏳ Pendiente |
 | googleplay | Knicks vs. Celtics | Celtics | 1.72 (58¢) | $692,461 | — | ⏳ Pendiente |
 | Talvez10 | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $48,780 | — | ⏳ Pendiente |
-| 01258787xy48487484545122 | Lyon Open: Luca Van Assche vs Lorenzo Musetti | Luca Van Assche | 1.39 (72¢) | $42,284 | — | ⏳ Pendiente |
+| 01258787xy48487484545122 | Lyon Open: Luca Van Assche vs Lorenzo Musetti | Luca Van Assche | 1.39 (72¢) | $42,284 | -$42,284 | ❌ Perdida |
 | googleplay | Mavericks vs. Pacers: O/U 240.5 | Over 240.5 | 1.92 (52¢) | $28,121 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.00 (50¢) | $250,000 | +$250,000 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $29,200 | -$29,200 | ❌ Perdida |

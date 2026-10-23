@@ -91642,7 +91642,7 @@
     "side": "BUY",
     "usd": 42283.9191,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792794669,
     "fills": 1
   },
