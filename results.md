@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 21:09:41 (hora de Perú)
+Actualizado: 2026-10-22 21:11:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6027**  ($336,228,370 en total)
+- Apuestas registradas: **6028**  ($336,256,742 en total)
 - Resueltas: **5951** — 3643 ganadas / 2308 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 615
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | 3edmond.dantes | 31 | 20 | 0 | 61% | $6,944,675 | -$1,144,994 |
-| mooseborzoii | 72 | 41 | 5 | 64% | $6,885,340 | +$1,005,519 |
+| mooseborzoii | 72 | 41 | 6 | 64% | $6,913,712 | +$1,005,519 |
 | ferrariChampions2026 | 98 | 48 | 2 | 67% | $6,522,923 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Patriots vs. Bears | Patriots | 6.25 (16¢) | $28,372 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Bears | Bears | 1.33 (75¢) | $36,349 | — | ⏳ Pendiente |
 | Anon455 | Patriots vs. Bears | Bears | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | Anon455 | Patriots vs. Bears | Bears | 1.35 (74¢) | $29,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | 3edmond.dantes | Will TSG 1899 Hoffenheim win on 2026-10-22? | Yes | 1.82 (55¢) | $106,647 | +$87,257 | ✅ Ganada |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $29,997 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $72,416 | +$61,688 | ✅ Ganada |
-| thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.64 (61¢) | $29,890 | — | ⏳ Pendiente |
