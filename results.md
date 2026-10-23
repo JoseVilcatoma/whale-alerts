@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 20:05:51 (hora de Perú)
+Actualizado: 2026-10-22 20:07:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6013**  ($335,490,488 en total)
+- Apuestas registradas: **6014**  ($335,518,088 en total)
 - Resueltas: **5945** — 3640 ganadas / 2305 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 615
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Anon455 | Patriots vs. Bears | Bears | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.47 (68¢) | $126,202 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Patriots vs. Bears | Bears | 1.43 (70¢) | $46,721 | — | ⏳ Pendiente |
 | milkteaboba | Patriots vs. Bears | Bears | 1.54 (65¢) | $49,867 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | bluemario | KKS Lech Poznań vs. Sunderland AFC: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $240,335 | +$88,544 | 💰 Vendida antes |
 | beeemw | Will Stade Rennais FC 1901 win on 2026-10-22? | No | 1.14 (88¢) | $39,092 | -$12,883 | 💰 Vendida antes |
 | bluemario | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Under 4.5 | 1.52 (66¢) | $68,284 | -$68,284 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Over 4.5 | 2.70 (37¢) | $29,330 | +$49,941 | ✅ Ganada |
