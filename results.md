@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 04:46:03 (hora de Perú)
+Actualizado: 2026-10-23 04:48:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6045**  ($337,204,156 en total)
+- Apuestas registradas: **6046**  ($337,231,566 en total)
 - Resueltas: **6016** — 3683 ganadas / 2333 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Japan Women's Open: Katie Boulter vs Antonia Ruzic | Katie Boulter | 1.20 (83¢) | $27,411 | — | ⏳ Pendiente |
 | Kyn008 | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,407 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Torino FC win on 2026-10-23? | Yes | 2.17 (46¢) | $34,281 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Guangzhou 2: Yi Zhou vs Andre Ilagan | Yi Zhou | 1.20 (83¢) | $32,907 | +$6,740 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $56,018 | -$56,018 | ❌ Perdida |
 | mooseborzoii | Sharks vs. Senators | Sharks | 2.27 (44¢) | $36,591 | +$46,570 | ✅ Ganada |
 | Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $91,749 | -$91,749 | ❌ Perdida |
-| FeedTheBigBird | Ducks vs. Devils | Devils | 1.52 (66¢) | $26,400 | +$13,600 | ✅ Ganada |

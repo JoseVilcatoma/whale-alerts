@@ -90863,5 +90863,20 @@
     "status": "pending",
     "ultimo_fill": 1792742584,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12321,
+    "timestamp": 1792747703,
+    "username": "0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048",
+    "wallet": "0x246be8a4e3805e318801b79ad1ee1268d5fbfb5b",
+    "slug": "wta-boulter-ruzic-2026-10-22",
+    "title": "Japan Women's Open: Katie Boulter vs Antonia Ruzic",
+    "outcome": "Katie Boulter",
+    "side": "BUY",
+    "usd": 27410.859999323347,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1792747703,
+    "fills": 1
   }
 ]
