@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 18:44:32 (hora de Perú)
+Actualizado: 2026-10-23 18:46:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6121**  ($342,125,194 en total)
-- Resueltas: **6055** — 3703 ganadas / 2352 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Resueltas: **6056** — 3703 ganadas / 2353 perdidas (**61%** de acierto)
+- Pendientes: 43
 - Apostadores distintos: 617
 
 ### Balance
 
-- **Resultado de los apostadores: -$639,220** sobre $338,392,407 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,895** sobre $597,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$699,596** sobre $338,452,784 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,995** sobre $597,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | zb8 | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.49 (67¢) | $57,284 | +$28,214 | ✅ Ganada |
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.54 (65¢) | $254,300 | +$136,931 | ✅ Ganada |
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | G2 Esports | 2.50 (40¢) | $40,000 | -$40,000 | ❌ Perdida |
-| bluemario | CA Gimnasia y Esgrima de Mendoza vs. CA Platense: O/U 2.5 | Under 2.5 | 1.67 (60¢) | $60,377 | — | ⏳ Pendiente |
+| bluemario | CA Gimnasia y Esgrima de Mendoza vs. CA Platense: O/U 2.5 | Under 2.5 | 1.67 (60¢) | $60,377 | -$60,377 | ❌ Perdida |
 | monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks: O/U 236.5 | Over 236.5 | 1.79 (56¢) | $48,594 | +$38,181 | ✅ Ganada |
 | Netrol | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
