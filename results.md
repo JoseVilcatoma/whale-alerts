@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 07:49:16 (hora de Perú)
+Actualizado: 2026-10-23 07:51:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6046**  ($337,231,566 en total)
+- Apuestas registradas: **6047**  ($337,257,244 en total)
 - Resueltas: **6017** — 3684 ganadas / 2333 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 616
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Lakersfan111 | 66 | 44 | 0 | 60% | $5,446,811 | -$42,389 |
+| Lakersfan111 | 66 | 44 | 1 | 60% | $5,472,489 | -$42,389 |
 | ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
 | BrotherObama | 45 | 50 | 2 | 47% | $4,296,413 | -$144,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YYYYY999 | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $25,678 | — | ⏳ Pendiente |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Japan Women's Open: Katie Boulter vs Antonia Ruzic | Katie Boulter | 1.20 (83¢) | $27,411 | +$5,614 | ✅ Ganada |
 | Kyn008 | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,407 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Torino FC win on 2026-10-23? | Yes | 2.17 (46¢) | $34,281 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | justwins | Cavaliers vs. 76ers: O/U 236.5 | Over 236.5 | 1.92 (52¢) | $27,365 | -$27,365 | ❌ Perdida |
 | Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $56,018 | -$56,018 | ❌ Perdida |
 | mooseborzoii | Sharks vs. Senators | Sharks | 2.27 (44¢) | $36,591 | +$46,570 | ✅ Ganada |
-| Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $91,749 | -$91,749 | ❌ Perdida |
