@@ -91945,5 +91945,20 @@
     "status": "pending",
     "ultimo_fill": 1792797369,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 12434,
+    "timestamp": 1792797495,
+    "username": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "slug": "nba-lac-lal-2026-10-23-total-225pt5",
+    "title": "Clippers vs. Lakers: O/U 225.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 37926.53,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792797495,
+    "fills": 1
   }
 ]
