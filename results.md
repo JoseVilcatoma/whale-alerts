@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 16:13:22 (hora de Perú)
+Actualizado: 2026-10-23 16:15:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6088**  ($339,309,739 en total)
-- Resueltas: **6033** — 3692 ganadas / 2341 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **6034** — 3692 ganadas / 2342 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,160,458** sobre $336,821,308 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,709** sobre $594,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$1,187,455** sobre $336,848,305 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$5,809** sobre $594,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | omnibus-076daa | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,358 | -$26,358 | ❌ Perdida |
 | robustmst | Lyon Open: Flavio Cobolli vs Brandon Nakashima | Flavio Cobolli | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs Top Esports (BO1) - Worlds Group Stage | Top Esports | 4.17 (24¢) | $30,850 | -$30,850 | ❌ Perdida |
-| fraagen | Stade Brestois 29 vs. OGC Nice: O/U 9.5 Total Corners | Under 9.5 Total Corners | 1.85 (54¢) | $26,998 | — | ⏳ Pendiente |
+| fraagen | Stade Brestois 29 vs. OGC Nice: O/U 9.5 Total Corners | Under 9.5 Total Corners | 1.85 (54¢) | $26,998 | -$26,998 | ❌ Perdida |
 | monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | LlamaEnjoyer | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.39 (72¢) | $28,080 | +$10,920 | ✅ Ganada |
 | S-Works | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.43 (70¢) | $100,205 | +$42,945 | ✅ Ganada |
