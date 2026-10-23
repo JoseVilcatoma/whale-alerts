@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 21:13:48 (hora de Perú)
+Actualizado: 2026-10-22 21:15:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6028**  ($336,256,742 en total)
-- Resueltas: **5952** — 3643 ganadas / 2309 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Resueltas: **5960** — 3646 ganadas / 2314 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 615
 
 ### Balance
 
-- **Resultado de los apostadores: -$182,025** sobre $331,725,945 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,035** sobre $586,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$202,321** sobre $332,004,158 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,242** sobre $587,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Lakersfan111 | 66 | 44 | 0 | 60% | $5,446,811 | -$42,389 |
-| ethanaz | 57 | 24 | 2 | 70% | $5,072,275 | -$206,677 |
+| ethanaz | 58 | 24 | 1 | 71% | $5,072,275 | -$175,754 |
 | BrotherObama | 45 | 49 | 3 | 48% | $4,296,413 | -$107,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
@@ -79,8 +79,8 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | 76ers | 1.09 (92¢) | $29,117 | — | ⏳ Pendiente |
 | Zzzz87 | Utah vs. Kraken | Utah | 1.56 (64¢) | $90,669 | — | ⏳ Pendiente |
 | Anon455 | Patriots vs. Bears | Bears | 1.22 (82¢) | $32,800 | — | ⏳ Pendiente |
-| ethanaz | Spread: 76ers (-5.5) | 76ers | 1.96 (51¢) | $32,184 | — | ⏳ Pendiente |
-| Nooserac | Spread: 76ers (-5.5) | 76ers | 1.96 (51¢) | $50,600 | — | ⏳ Pendiente |
+| ethanaz | Spread: 76ers (-5.5) | 76ers | 1.96 (51¢) | $32,184 | +$30,922 | ✅ Ganada |
+| Nooserac | Spread: 76ers (-5.5) | 76ers | 1.96 (51¢) | $50,600 | +$48,616 | ✅ Ganada |
 | surfandturf | Patriots vs. Bears | Bears | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | milkteaboba | Patriots vs. Bears | Bears | 1.59 (63¢) | $173,607 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Bears | Bears | 1.52 (66¢) | $47,384 | — | ⏳ Pendiente |
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | Talvez10 | Red Wings vs. Canucks | Red Wings | 1.64 (61¢) | $83,076 | — | ⏳ Pendiente |
 | googleplay | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $388,692 | — | ⏳ Pendiente |
 | www511zwin | Spread: 76ers (-2.5) | Cavaliers | 1.96 (51¢) | $102,926 | -$102,926 | ❌ Perdida |
-| justwins | Cavaliers vs. 76ers: O/U 236.5 | Over 236.5 | 1.92 (52¢) | $27,365 | — | ⏳ Pendiente |
+| justwins | Cavaliers vs. 76ers: O/U 236.5 | Over 236.5 | 1.92 (52¢) | $27,365 | -$27,365 | ❌ Perdida |
 | Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $56,018 | -$56,018 | ❌ Perdida |
 | mooseborzoii | Sharks vs. Senators | Sharks | 2.27 (44¢) | $36,591 | +$46,570 | ✅ Ganada |
 | Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $91,749 | -$91,749 | ❌ Perdida |
@@ -126,8 +126,8 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | jonjones1993 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $253,800 | +$216,200 | ✅ Ganada |
 | mooseborzoii | Spread: Thunder (-8.5) | Nuggets | 1.96 (51¢) | $49,886 | — | ⏳ Pendiente |
 | Jokerxing7 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $47,422 | — | ⏳ Pendiente |
-| thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.61 (62¢) | $30,380 | — | ⏳ Pendiente |
+| thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.61 (62¢) | $30,380 | -$30,380 | ❌ Perdida |
 | mooseborzoii | Will TSG 1899 Hoffenheim win on 2026-10-22? | No | 2.13 (47¢) | $55,000 | -$55,000 | ❌ Perdida |
 | 3edmond.dantes | Will TSG 1899 Hoffenheim win on 2026-10-22? | Yes | 1.82 (55¢) | $106,647 | +$87,257 | ✅ Ganada |
-| thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $29,997 | — | ⏳ Pendiente |
+| thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $29,997 | -$29,997 | ❌ Perdida |
 | 1l2ihj34li12u34 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $72,416 | +$61,688 | ✅ Ganada |
