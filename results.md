@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 13:56:30 (hora de Perú)
+Actualizado: 2026-10-23 13:58:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6068**  ($338,228,664 en total)
+- Apuestas registradas: **6069**  ($338,255,403 en total)
 - Resueltas: **6023** — 3689 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 616
 
 ### Balance
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | — | ⏳ Pendiente |
+| UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $111,057 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $81,636 | — | ⏳ Pendiente |
 | omnibus-076daa | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,358 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | ferrariChampions2026 | Patriots vs. Bears | Bears | 1.43 (70¢) | $46,721 | +$20,023 | ✅ Ganada |
 | milkteaboba | Patriots vs. Bears | Bears | 1.54 (65¢) | $49,867 | +$26,852 | ✅ Ganada |
 | Anon455 | Patriots vs. Bears | Bears | 1.47 (68¢) | $27,200 | +$12,800 | ✅ Ganada |
-| dhgreg | Cavaliers vs. 76ers | Cavaliers | 1.10 (91¢) | $569,235 | -$569,235 | ❌ Perdida |
