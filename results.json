@@ -91885,5 +91885,35 @@
     "status": "pending",
     "ultimo_fill": 1792796815,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12430,
+    "timestamp": 1792796882,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nba-tor-was-2026-10-23",
+    "title": "Raptors vs. Wizards",
+    "outcome": "Wizards",
+    "side": "BUY",
+    "usd": 81000.0,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "ultimo_fill": 1792796882,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12431,
+    "timestamp": 1792796954,
+    "username": "Jokerxing7",
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "slug": "nba-det-mia-2026-10-23-total-235pt5",
+    "title": "Pistons vs. Heat: O/U 235.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 31802.74,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792796954,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 18:07:33 (hora de Perú)
+Actualizado: 2026-10-23 18:09:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6113**  ($341,523,734 en total)
+- Apuestas registradas: **6115**  ($341,636,536 en total)
 - Resueltas: **6053** — 3703 ganadas / 2350 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 40
 - Apostadores distintos: 617
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jokerxing7 | Pistons vs. Heat: O/U 235.5 | Over 235.5 | 2.00 (50¢) | $31,803 | — | ⏳ Pendiente |
+| dhgreg | Raptors vs. Wizards | Wizards | 3.70 (27¢) | $81,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $47,514 | — | ⏳ Pendiente |
 | bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $50,000 | — | ⏳ Pendiente |
 | para-Vision | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | NeverLoseBet | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.33 (75¢) | $31,500 | +$420 | 💰 Vendida antes |
 | YYYYY999 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $32,988 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Trail Blazers vs. Kings: O/U 233.5 | Over 233.5 | 2.00 (50¢) | $25,800 | — | ⏳ Pendiente |
-| retordedgremlin125 | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.30 (77¢) | $35,487 | +$10,600 | ✅ Ganada |
-| 778908 | Lyon Open: Daniel Altmaier vs Taylor Fritz | Taylor Fritz | 1.23 (81¢) | $130,754 | +$30,671 | ✅ Ganada |
