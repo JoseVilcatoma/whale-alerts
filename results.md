@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 22:37:06 (hora de Perú)
+Actualizado: 2026-10-22 22:39:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6035**  ($336,782,978 en total)
+- Apuestas registradas: **6036**  ($336,809,451 en total)
 - Resueltas: **5976** — 3650 ganadas / 2326 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 615
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | Nuggets vs. Thunder | Thunder | 1.23 (81¢) | $26,473 | — | ⏳ Pendiente |
 | ethanaz | Nuggets vs. Thunder | Thunder | 1.35 (74¢) | $27,913 | — | ⏳ Pendiente |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.18 (85¢) | $132,155 | — | ⏳ Pendiente |
 | Anon455 | Patriots vs. Bears | Bears | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | Kyn008 | Will AC Milan win on 2026-10-22? | No | 1.30 (77¢) | $31,253 | +$9,335 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Bournemouth win on 2026-10-22? | No | 2.17 (46¢) | $32,200 | -$32,200 | ❌ Perdida |
 | mooseborzoii | Jets vs. Stars | Stars | 1.56 (64¢) | $26,724 | +$15,032 | ✅ Ganada |
-| jonjones1993 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $253,800 | +$216,200 | ✅ Ganada |
