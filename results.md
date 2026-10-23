@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 17:51:09 (hora de Perú)
+Actualizado: 2026-10-23 17:53:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6101**  ($340,565,817 en total)
+- Apuestas registradas: **6105**  ($340,725,683 en total)
 - Resueltas: **6047** — 3699 ganadas / 2348 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 36
 - Apostadores distintos: 617
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 435 | 234 | 5 | 65% | $43,305,497 | +$771,113 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 435 | 234 | 6 | 65% | $43,344,730 | +$771,113 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $29,944 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Magic (-1.5) | Timberwolves | 2.04 (49¢) | $39,233 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $61,689 | — | ⏳ Pendiente |
+| Jokerxing7 | Spread: Magic (-1.5) | Magic | 1.96 (51¢) | $29,000 | — | ⏳ Pendiente |
 | wanzzz333 | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $49,626 | — | ⏳ Pendiente |
 | mooseborzoii | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $50,063 | — | ⏳ Pendiente |
 | googleplay | Knicks vs. Celtics | Celtics | 1.72 (58¢) | $346,231 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | YYYYY999 | Pistons vs. Heat | Pistons | 1.92 (52¢) | $61,760 | — | ⏳ Pendiente |
 | YYYYY999 | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $25,678 | — | ⏳ Pendiente |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Japan Women's Open: Katie Boulter vs Antonia Ruzic | Katie Boulter | 1.20 (83¢) | $27,411 | +$5,614 | ✅ Ganada |
-| Kyn008 | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,407 | -$26,407 | ❌ Perdida |
-| Bloodygoodrep1 | Will Torino FC win on 2026-10-23? | Yes | 2.17 (46¢) | $34,281 | +$40,242 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Guangzhou 2: Yi Zhou vs Andre Ilagan | Yi Zhou | 1.20 (83¢) | $32,907 | +$6,740 | ✅ Ganada |
-| itwillallbeok | Raptors vs. Wizards | Raptors | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
