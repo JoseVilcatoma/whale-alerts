@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 23:39:46 (hora de Perú)
+Actualizado: 2026-10-22 23:41:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6039**  ($337,025,283 en total)
-- Resueltas: **5999** — 3670 ganadas / 2329 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **6004** — 3674 ganadas / 2330 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,295,485** sobre $335,025,955 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$5,491** sobre $591,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,215,000** sobre $335,284,466 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$5,352** sobre $592,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 430 | 233 | 6 | 65% | $42,918,005 | +$482,138 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 431 | 233 | 5 | 65% | $42,918,005 | +$567,182 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| mooseborzoii | 78 | 42 | 2 | 65% | $7,162,641 | +$1,159,346 |
+| mooseborzoii | 78 | 43 | 1 | 64% | $7,162,641 | +$1,109,460 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | 3edmond.dantes | 31 | 20 | 0 | 61% | $6,944,675 | -$1,144,994 |
 | ferrariChampions2026 | 100 | 48 | 0 | 68% | $6,522,923 | +$195,124 |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Lakersfan111 | 66 | 44 | 0 | 60% | $5,446,811 | -$42,389 |
-| ethanaz | 58 | 24 | 2 | 71% | $5,100,188 | -$175,754 |
+| ethanaz | 59 | 24 | 1 | 71% | $5,100,188 | -$146,927 |
 | BrotherObama | 45 | 49 | 3 | 48% | $4,296,413 | -$107,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.10 (91¢) | $39,551 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-8.5) | Thunder | 1.96 (51¢) | $88,515 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-8.5) | Thunder | 1.96 (51¢) | $88,515 | +$85,044 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Nuggets vs. Thunder | Thunder | 1.22 (82¢) | $87,767 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Nuggets vs. Thunder | Thunder | 1.23 (81¢) | $26,473 | — | ⏳ Pendiente |
 | ethanaz | Nuggets vs. Thunder | Thunder | 1.35 (74¢) | $27,913 | — | ⏳ Pendiente |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Bears | Bears | 1.33 (75¢) | $36,349 | +$12,116 | ✅ Ganada |
 | Anon455 | Patriots vs. Bears | Bears | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
 | Anon455 | Patriots vs. Bears | Bears | 1.35 (74¢) | $29,600 | +$10,400 | ✅ Ganada |
-| ethanaz | Spread: Thunder (-8.5) | Thunder | 2.08 (48¢) | $26,610 | — | ⏳ Pendiente |
+| ethanaz | Spread: Thunder (-8.5) | Thunder | 2.08 (48¢) | $26,610 | +$28,827 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | 76ers | 1.09 (92¢) | $29,117 | +$2,532 | ✅ Ganada |
 | Zzzz87 | Utah vs. Kraken | Utah | 1.56 (64¢) | $90,669 | — | ⏳ Pendiente |
 | Anon455 | Patriots vs. Bears | Bears | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
@@ -126,8 +126,8 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $91,749 | -$91,749 | ❌ Perdida |
 | FeedTheBigBird | Ducks vs. Devils | Devils | 1.52 (66¢) | $26,400 | +$13,600 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Memphis (-10.5) | East Carolina | 2.00 (50¢) | $26,463 | +$26,463 | ✅ Ganada |
-| kuwkuw | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
+| kuwkuw | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $34,000 | +$6,000 | ✅ Ganada |
 | kalmal | W15 Bol: Eliska Tichackova vs Andrea Obradovic | Eliska Tichackova | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
-| Jacdoh | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $59,500 | — | ⏳ Pendiente |
+| Jacdoh | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $59,500 | +$10,500 | ✅ Ganada |
 | scootergene | Will Olympique Lyonnais win on 2026-10-22? | No | 1.08 (93¢) | $43,161 | +$3,249 | ✅ Ganada |
 | EdZachary | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $30,800 | -$30,800 | ❌ Perdida |
