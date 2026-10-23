@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 19:00:28 (hora de Perú)
+Actualizado: 2026-10-22 19:02:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **5999**  ($334,247,788 en total)
+- Apuestas registradas: **6000**  ($334,306,852 en total)
 - Resueltas: **5945** — 3640 ganadas / 2305 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 615
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Patriots vs. Bears: O/U 50.5 | Over 50.5 | 2.00 (50¢) | $59,064 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $34,222 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $220,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Ducks vs. Devils | Ducks | 2.94 (34¢) | $31,620 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Ningbo Open: Elena Rybakina vs Polina Kudermetova | Elena Rybakina | 1.15 (87¢) | $37,207 | +$5,560 | ✅ Ganada |
 | YYYYY999 | Counter-Strike: BIG vs TheMongolz (BO3) - 1win Private Club Playoffs | TheMongolz | 1.92 (52¢) | $30,532 | +$28,184 | ✅ Ganada |
 | bluemario | PSM Makassar vs. Persebaya Surabaya: O/U 1.5 | Under 1.5 | 1.67 (60¢) | $62,677 | +$41,785 | ✅ Ganada |
-| RJW1 | Spread: 76ers (-3.5) | 76ers | 2.00 (50¢) | $47,797 | — | ⏳ Pendiente |
