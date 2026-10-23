@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 18:26:02 (hora de Perú)
+Actualizado: 2026-10-23 18:28:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6118**  ($341,789,761 en total)
+- Apuestas registradas: **6120**  ($341,947,758 en total)
 - Resueltas: **6053** — 3703 ganadas / 2350 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 45
 - Apostadores distintos: 617
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| PEYZ-BIGGEST-FAN | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.11 (90¢) | $56,453 | — | ⏳ Pendiente |
+| bluemario | Cruzeiro EC vs. Clube do Remo: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $101,544 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Lakers: O/U 225.5 | Under 225.5 | 2.00 (50¢) | $37,927 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Warriors (-4.5) | Warriors | 1.96 (51¢) | $70,069 | — | ⏳ Pendiente |
 | Jokerxing7 | Raptors vs. Wizards: O/U 236.5 | Over 236.5 | 2.00 (50¢) | $45,229 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | Mooseborzoiii | LoL: Hanwha Life Esports vs Top Esports (BO1) - Worlds Group Stage | Top Esports | 4.17 (24¢) | $30,850 | -$30,850 | ❌ Perdida |
 | fraagen | Stade Brestois 29 vs. OGC Nice: O/U 9.5 Total Corners | Under 9.5 Total Corners | 1.85 (54¢) | $26,998 | -$26,998 | ❌ Perdida |
 | monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
-| LlamaEnjoyer | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.39 (72¢) | $28,080 | +$10,920 | ✅ Ganada |
-| S-Works | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.43 (70¢) | $100,205 | +$42,945 | ✅ Ganada |
