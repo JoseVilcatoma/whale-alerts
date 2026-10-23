@@ -91510,5 +91510,35 @@
     "status": "pending",
     "ultimo_fill": 1792789978,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12385,
+    "timestamp": 1792790158,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "lol-g2-dk-2026-10-23",
+    "title": "LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 146915.4914,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1792790223,
+    "fills": 3
+  },
+  {
+    "telegram_msg_id": 12386,
+    "timestamp": 1792790219,
+    "username": "zb8",
+    "wallet": "0x0224bb9eb0a5c9fd261ac9123a72cbdd5748292a",
+    "slug": "lol-g2-dk-2026-10-23",
+    "title": "LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 57283.8951,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1792790219,
+    "fills": 2
   }
 ]

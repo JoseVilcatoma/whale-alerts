@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 16:15:22 (hora de Perú)
+Actualizado: 2026-10-23 16:17:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6088**  ($339,309,739 en total)
+- Apuestas registradas: **6090**  ($339,513,939 en total)
 - Resueltas: **6034** — 3692 ganadas / 2342 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 34
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| zb8 | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.49 (67¢) | $57,284 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.56 (64¢) | $146,915 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | G2 Esports | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
 | bluemario | CA Gimnasia y Esgrima de Mendoza vs. CA Platense: O/U 2.5 | Under 2.5 | 1.67 (60¢) | $60,377 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Anon455 | Patriots vs. Bears | Bears | 1.45 (69¢) | $27,600 | +$12,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.96 (51¢) | $190,236 | +$182,776 | ✅ Ganada |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.52 (66¢) | $85,621 | +$44,108 | ✅ Ganada |
-| CHZHSHCH | Nuggets vs. Thunder | Nuggets | 2.08 (48¢) | $31,558 | -$19,066 | 💰 Vendida antes |
-| mooseborzoii | Patriots vs. Bears | Bears | 1.37 (73¢) | $31,153 | +$11,522 | ✅ Ganada |
