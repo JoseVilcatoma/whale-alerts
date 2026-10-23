@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 20:36:43 (hora de Perú)
+Actualizado: 2026-10-22 20:38:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6020**  ($335,953,225 en total)
+- Apuestas registradas: **6021**  ($335,986,025 en total)
 - Resueltas: **5945** — 3640 ganadas / 2305 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 615
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Anon455 | Patriots vs. Bears | Bears | 1.22 (82¢) | $32,800 | — | ⏳ Pendiente |
 | ethanaz | Spread: 76ers (-5.5) | 76ers | 1.96 (51¢) | $32,184 | — | ⏳ Pendiente |
 | Nooserac | Spread: 76ers (-5.5) | 76ers | 1.96 (51¢) | $50,600 | — | ⏳ Pendiente |
 | surfandturf | Patriots vs. Bears | Bears | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | KKS Lech Poznań vs. Sunderland AFC: O/U 2.5 | Over 2.5 | 1.28 (78¢) | $191,038 | -$191,038 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lyon Open: Kyrian Jacquet vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $37,200 | +$22,800 | ✅ Ganada |
 | 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.72 (58¢) | $30,296 | +$21,939 | ✅ Ganada |
-| tiger105 | Will Sunderland AFC win on 2026-10-22? | Yes | 1.89 (53¢) | $30,000 | -$30,000 | ❌ Perdida |
