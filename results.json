@@ -91670,11 +91670,11 @@
     "title": "Knicks vs. Celtics",
     "outcome": "Celtics",
     "side": "BUY",
-    "usd": 346230.58759999997,
+    "usd": 692461.1752019635,
     "odds_at_bet": 58,
     "status": "pending",
     "ultimo_fill": 1792795359,
-    "fills": 2
+    "fills": 4
   },
   {
     "telegram_msg_id": 12408,
@@ -91764,6 +91764,36 @@
     "odds_at_bet": 49,
     "status": "pending",
     "ultimo_fill": 1792795987,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12416,
+    "timestamp": 1792796023,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-nyk-bos-2026-10-23-spread-home-2pt5",
+    "title": "Spread: Celtics (-2.5)",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 79700.67839999999,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1792796023,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12417,
+    "timestamp": 1792795394,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nba-tor-was-2026-10-23",
+    "title": "Raptors vs. Wizards",
+    "outcome": "Wizards",
+    "side": "BUY",
+    "usd": 27841.598200000004,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "ultimo_fill": 1792795394,
     "fills": 1
   }
 ]

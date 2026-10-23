@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 17:53:13 (hora de Perú)
+Actualizado: 2026-10-23 17:55:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6105**  ($340,725,683 en total)
+- Apuestas registradas: **6107**  ($341,179,456 en total)
 - Resueltas: **6047** — 3699 ganadas / 2348 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 38
 - Apostadores distintos: 617
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 435 | 234 | 6 | 65% | $43,344,730 | +$771,113 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 435 | 234 | 7 | 65% | $43,424,431 | +$771,113 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -43,9 +43,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
+| googleplay | 12 | 14 | 2 | 46% | $3,467,783 | -$881,509 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
-| googleplay | 12 | 14 | 2 | 46% | $3,121,553 | -$881,509 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
@@ -71,13 +71,15 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-2.5) | Knicks | 2.08 (48¢) | $79,701 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $29,944 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Magic (-1.5) | Timberwolves | 2.04 (49¢) | $39,233 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $61,689 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Magic (-1.5) | Magic | 1.96 (51¢) | $29,000 | — | ⏳ Pendiente |
 | wanzzz333 | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $49,626 | — | ⏳ Pendiente |
+| dhgreg | Raptors vs. Wizards | Wizards | 3.85 (26¢) | $27,842 | — | ⏳ Pendiente |
 | mooseborzoii | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $50,063 | — | ⏳ Pendiente |
-| googleplay | Knicks vs. Celtics | Celtics | 1.72 (58¢) | $346,231 | — | ⏳ Pendiente |
+| googleplay | Knicks vs. Celtics | Celtics | 1.72 (58¢) | $692,461 | — | ⏳ Pendiente |
 | Talvez10 | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $48,780 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Lyon Open: Luca Van Assche vs Lorenzo Musetti | Luca Van Assche | 1.39 (72¢) | $42,284 | — | ⏳ Pendiente |
 | googleplay | Mavericks vs. Pacers: O/U 240.5 | Over 240.5 | 1.92 (52¢) | $28,121 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | rabbitfoot1 | Torino FC vs. AC Monza: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $28,277 | -$28,277 | ❌ Perdida |
 | YYYYY999 | Bulls vs. Bucks | Bucks | 1.92 (52¢) | $33,716 | — | ⏳ Pendiente |
 | YYYYY999 | Pistons vs. Heat | Pistons | 1.92 (52¢) | $61,760 | — | ⏳ Pendiente |
-| YYYYY999 | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $25,678 | — | ⏳ Pendiente |
-| 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Japan Women's Open: Katie Boulter vs Antonia Ruzic | Katie Boulter | 1.20 (83¢) | $27,411 | +$5,614 | ✅ Ganada |
