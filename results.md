@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 22:06:08 (hora de Perú)
+Actualizado: 2026-10-22 22:08:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6033**  ($336,622,910 en total)
-- Resueltas: **5973** — 3647 ganadas / 2326 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **5974** — 3648 ganadas / 2326 perdidas (**61%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 615
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,841,264** sobre $333,674,750 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,434** sobre $589,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$1,826,232** sobre $333,701,474 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,377** sobre $589,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
-| mooseborzoii | 72 | 41 | 8 | 64% | $7,030,486 | +$1,005,519 |
+| mooseborzoii | 73 | 41 | 7 | 64% | $7,030,486 | +$1,020,551 |
 | 3edmond.dantes | 31 | 20 | 0 | 61% | $6,944,675 | -$1,144,994 |
 | ferrariChampions2026 | 98 | 48 | 2 | 67% | $6,522,923 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -127,7 +127,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | EdZachary | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $30,800 | -$30,800 | ❌ Perdida |
 | Kyn008 | Will AC Milan win on 2026-10-22? | No | 1.30 (77¢) | $31,253 | +$9,335 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Bournemouth win on 2026-10-22? | No | 2.17 (46¢) | $32,200 | -$32,200 | ❌ Perdida |
-| mooseborzoii | Jets vs. Stars | Stars | 1.56 (64¢) | $26,724 | — | ⏳ Pendiente |
+| mooseborzoii | Jets vs. Stars | Stars | 1.56 (64¢) | $26,724 | +$15,032 | ✅ Ganada |
 | jonjones1993 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $253,800 | +$216,200 | ✅ Ganada |
 | mooseborzoii | Spread: Thunder (-8.5) | Nuggets | 1.96 (51¢) | $49,886 | — | ⏳ Pendiente |
 | Jokerxing7 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $47,422 | -$47,422 | ❌ Perdida |
