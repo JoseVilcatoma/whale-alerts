@@ -91555,5 +91555,35 @@
     "status": "pending",
     "ultimo_fill": 1792791628,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12397,
+    "timestamp": 1792792744,
+    "username": "bluemol",
+    "wallet": "0x664e438f9e05b2c4ee225755ee993223c0bae82a",
+    "slug": "lol-los-t1-2026-10-23",
+    "title": "LoL: LOS vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 33999.999995,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1792792744,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12398,
+    "timestamp": 1792792797,
+    "username": "beeemw",
+    "wallet": "0x1e386b0e0f1fc58c67ce738d7bbc4ba7ec74fd47",
+    "slug": "nba-tor-was-2026-10-23",
+    "title": "Raptors vs. Wizards",
+    "outcome": "Raptors",
+    "side": "BUY",
+    "usd": 37875.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1792792797,
+    "fills": 1
   }
 ]

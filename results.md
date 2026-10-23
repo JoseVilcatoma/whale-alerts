@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 16:58:41 (hora de Perú)
+Actualizado: 2026-10-23 17:00:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6091**  ($339,649,637 en total)
+- Apuestas registradas: **6093**  ($339,721,512 en total)
 - Resueltas: **6043** — 3696 ganadas / 2347 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 28
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beeemw | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $37,875 | — | ⏳ Pendiente |
+| bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.14 (88¢) | $34,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.44 (41¢) | $28,313 | — | ⏳ Pendiente |
 | zb8 | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.49 (67¢) | $57,284 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.54 (65¢) | $254,300 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | 0x6db5…e279 | Nuggets vs. Thunder | Thunder | 1.23 (81¢) | $26,473 | +$6,210 | ✅ Ganada |
 | ethanaz | Nuggets vs. Thunder | Thunder | 1.35 (74¢) | $27,913 | +$9,807 | ✅ Ganada |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.18 (85¢) | $132,155 | +$23,321 | ✅ Ganada |
-| Anon455 | Patriots vs. Bears | Bears | 1.45 (69¢) | $27,600 | +$12,400 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.96 (51¢) | $190,236 | +$182,776 | ✅ Ganada |
