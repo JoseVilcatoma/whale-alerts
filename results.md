@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 19:25:00 (hora de Perú)
+Actualizado: 2026-10-22 19:27:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6006**  ($334,576,008 en total)
+- Apuestas registradas: **6007**  ($334,636,020 en total)
 - Resueltas: **5945** — 3640 ganadas / 2305 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 615
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bluemario | CR Flamengo vs. Estudiantes de La Plata: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $60,012 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Patriots vs. Bears | Bears | 1.54 (65¢) | $31,829 | — | ⏳ Pendiente |
 | Painfulvoid | Cavaliers vs. 76ers | Cavaliers | 1.08 (93¢) | $35,880 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 1.09 (92¢) | $42,559 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Fateh Saudi Club vs. Al Shabab Saudi Club: O/U 2.5 | Over 2.5 | 1.11 (90¢) | $358,000 | +$39,778 | ✅ Ganada |
 | Woaifacai | Florence: Henry Searle vs Matthew William Donald | Matthew William Donald | 1.45 (69¢) | $27,414 | +$12,317 | ✅ Ganada |
 | bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 2.5 | Under 2.5 | 5.56 (18¢) | $36,154 | -$36,154 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Hazem SC vs. Al Fayha Saudi Club: O/U 1.5 | Over 1.5 | 1.19 (84¢) | $84,000 | +$16,000 | ✅ Ganada |
