@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 22:55:51 (hora de Perú)
+Actualizado: 2026-10-22 22:57:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6038**  ($336,985,732 en total)
-- Resueltas: **5998** — 3669 ganadas / 2329 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **5999** — 3670 ganadas / 2329 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,321,948** sobre $334,999,492 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$5,591** sobre $591,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,295,485** sobre $335,025,955 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$5,491** sobre $591,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -124,7 +124,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | mooseborzoii | Sharks vs. Senators | Sharks | 2.27 (44¢) | $36,591 | +$46,570 | ✅ Ganada |
 | Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $91,749 | -$91,749 | ❌ Perdida |
 | FeedTheBigBird | Ducks vs. Devils | Devils | 1.52 (66¢) | $26,400 | +$13,600 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Memphis (-10.5) | East Carolina | 2.00 (50¢) | $26,463 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Memphis (-10.5) | East Carolina | 2.00 (50¢) | $26,463 | +$26,463 | ✅ Ganada |
 | kuwkuw | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
 | kalmal | W15 Bol: Eliska Tichackova vs Andrea Obradovic | Eliska Tichackova | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | Jacdoh | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $59,500 | — | ⏳ Pendiente |
