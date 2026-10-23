@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 12:16:15 (hora de Perú)
+Actualizado: 2026-10-23 12:18:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6057**  ($337,711,743 en total)
-- Resueltas: **6018** — 3684 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **6019** — 3685 ganadas / 2334 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,076,490** sobre $336,086,158 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,372** sobre $593,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,045,819** sobre $336,216,912 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,348** sobre $593,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | YYYYY999 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $32,988 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Trail Blazers vs. Kings: O/U 233.5 | Over 233.5 | 2.00 (50¢) | $25,800 | — | ⏳ Pendiente |
 | retordedgremlin125 | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.30 (77¢) | $35,487 | — | ⏳ Pendiente |
-| 778908 | Lyon Open: Daniel Altmaier vs Taylor Fritz | Taylor Fritz | 1.23 (81¢) | $130,754 | — | ⏳ Pendiente |
+| 778908 | Lyon Open: Daniel Altmaier vs Taylor Fritz | Taylor Fritz | 1.23 (81¢) | $130,754 | +$30,671 | ✅ Ganada |
 | Elaran1993 | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $35,825 | — | ⏳ Pendiente |
 | Talvez10 | Knicks vs. Celtics | Knicks | 2.22 (45¢) | $33,004 | — | ⏳ Pendiente |
 | Talvez10 | Pelicans vs. Jazz | Pelicans | 2.00 (50¢) | $36,887 | — | ⏳ Pendiente |
