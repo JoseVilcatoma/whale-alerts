@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 17:55:16 (hora de Perú)
+Actualizado: 2026-10-23 17:57:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6107**  ($341,179,456 en total)
-- Resueltas: **6047** — 3699 ganadas / 2348 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **6049** — 3701 ganadas / 2348 perdidas (**61%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 617
 
 ### Balance
 
-- **Resultado de los apostadores: -$906,825** sobre $337,798,997 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,842** sobre $596,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$807,559** sobre $337,991,690 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,739** sobre $596,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | mooseborzoii | 78 | 43 | 2 | 64% | $7,212,704 | +$1,109,460 |
-| 3edmond.dantes | 31 | 20 | 2 | 61% | $7,137,368 | -$1,144,994 |
+| 3edmond.dantes | 33 | 20 | 0 | 62% | $7,137,368 | -$1,045,728 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | ferrariChampions2026 | 100 | 49 | 0 | 67% | $6,548,034 | +$170,014 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -111,8 +111,8 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | omnibus-076daa | Will Ipswich Town FC win on 2026-10-23? | Yes | 3.33 (30¢) | $138,844 | -$138,844 | ❌ Perdida |
 | UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | +$20,171 | ✅ Ganada |
 | UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | +$20,171 | ✅ Ganada |
-| 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $111,057 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $81,636 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $111,057 | +$57,211 | ✅ Ganada |
+| 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $81,636 | +$42,055 | ✅ Ganada |
 | omnibus-076daa | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,358 | -$26,358 | ❌ Perdida |
 | robustmst | Lyon Open: Flavio Cobolli vs Brandon Nakashima | Flavio Cobolli | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs Top Esports (BO1) - Worlds Group Stage | Top Esports | 4.17 (24¢) | $30,850 | -$30,850 | ❌ Perdida |
