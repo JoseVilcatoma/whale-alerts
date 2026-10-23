@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 10:30:43 (hora de Perú)
+Actualizado: 2026-10-23 10:32:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6053**  ($337,486,713 en total)
+- Apuestas registradas: **6054**  ($337,617,467 en total)
 - Resueltas: **6018** — 3684 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 778908 | Lyon Open: Daniel Altmaier vs Taylor Fritz | Taylor Fritz | 1.23 (81¢) | $130,754 | — | ⏳ Pendiente |
 | Elaran1993 | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $35,825 | — | ⏳ Pendiente |
 | Talvez10 | Knicks vs. Celtics | Knicks | 2.22 (45¢) | $33,004 | — | ⏳ Pendiente |
 | Talvez10 | Pelicans vs. Jazz | Pelicans | 2.00 (50¢) | $36,887 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Sassy-Bucket | Ducks vs. Devils | Ducks | 2.94 (34¢) | $31,620 | -$31,620 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $26,254 | -$26,254 | ❌ Perdida |
 | googleplay | Cavaliers vs. 76ers | Cavaliers | 2.17 (46¢) | $138,000 | -$138,000 | ❌ Perdida |
-| Sassy-Bucket | Kings vs. Islanders | Islanders | 2.04 (49¢) | $26,255 | -$26,255 | ❌ Perdida |

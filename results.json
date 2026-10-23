@@ -90983,5 +90983,20 @@
     "status": "pending",
     "ultimo_fill": 1792768081,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12332,
+    "timestamp": 1792769498,
+    "username": "778908",
+    "wallet": "0x3c3ac5fb217e2aee15e00198f4c47f6bb29c8b5f",
+    "slug": "atp-altmaie-fritz-2026-10-23",
+    "title": "Lyon Open: Daniel Altmaier vs Taylor Fritz",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 130754.25,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1792769499,
+    "fills": 2
   }
 ]
