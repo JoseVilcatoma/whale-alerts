@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 21:30:37 (hora de Perú)
+Actualizado: 2026-10-22 21:32:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6030**  ($336,319,453 en total)
+- Apuestas registradas: **6032**  ($336,595,310 en total)
 - Resueltas: **5972** — 3647 ganadas / 2325 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 38
 - Apostadores distintos: 615
 
 ### Balance
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 428 | 233 | 5 | 65% | $42,599,704 | +$445,612 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 428 | 233 | 6 | 65% | $42,789,940 | +$445,612 |
 | Sassy-Bucket | 83 | 82 | 4 | 50% | $10,362,110 | -$987,626 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
-| mooseborzoii | 72 | 41 | 7 | 64% | $6,944,865 | +$1,005,519 |
+| mooseborzoii | 72 | 41 | 8 | 64% | $7,030,486 | +$1,005,519 |
 | 3edmond.dantes | 31 | 20 | 0 | 61% | $6,944,675 | -$1,144,994 |
 | ferrariChampions2026 | 98 | 48 | 2 | 67% | $6,522,923 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.96 (51¢) | $190,236 | — | ⏳ Pendiente |
+| mooseborzoii | Patriots vs. Bears | Bears | 1.52 (66¢) | $85,621 | — | ⏳ Pendiente |
 | CHZHSHCH | Nuggets vs. Thunder | Nuggets | 2.08 (48¢) | $31,558 | — | ⏳ Pendiente |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.37 (73¢) | $31,153 | — | ⏳ Pendiente |
 | mooseborzoii | Patriots vs. Bears | Patriots | 6.25 (16¢) | $28,372 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | mooseborzoii | Spread: Thunder (-8.5) | Nuggets | 1.96 (51¢) | $49,886 | — | ⏳ Pendiente |
 | Jokerxing7 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $47,422 | -$47,422 | ❌ Perdida |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.61 (62¢) | $30,380 | -$30,380 | ❌ Perdida |
-| mooseborzoii | Will TSG 1899 Hoffenheim win on 2026-10-22? | No | 2.13 (47¢) | $55,000 | -$55,000 | ❌ Perdida |
-| 3edmond.dantes | Will TSG 1899 Hoffenheim win on 2026-10-22? | Yes | 1.82 (55¢) | $106,647 | +$87,257 | ✅ Ganada |

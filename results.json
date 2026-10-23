@@ -90636,5 +90636,35 @@
     "status": "pending",
     "ultimo_fill": 1792722568,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12263,
+    "timestamp": 1792722682,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-ne-chi-2026-10-23",
+    "title": "Patriots vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 85621.1949,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1792722731,
+    "fills": 3
+  },
+  {
+    "telegram_msg_id": 12264,
+    "timestamp": 1792722718,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-den-okc-2026-10-22",
+    "title": "Nuggets vs. Thunder",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 190236.273209,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792722740,
+    "fills": 2
   }
 ]
