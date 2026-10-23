@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 23:46:04 (hora de Perú)
+Actualizado: 2026-10-22 23:48:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6039**  ($337,025,283 en total)
-- Resueltas: **6010** — 3680 ganadas / 2330 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **6011** — 3681 ganadas / 2330 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$951,327** sobre $335,716,417 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,096** sobre $592,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$898,213** sobre $335,799,493 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,032** sobre $592,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Talvez10 | 23 | 18 | 1 | 56% | $2,000,565 | +$324,087 |
+| Talvez10 | 24 | 18 | 0 | 57% | $2,000,565 | +$377,201 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
@@ -117,7 +117,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $26,254 | -$26,254 | ❌ Perdida |
 | googleplay | Cavaliers vs. 76ers | Cavaliers | 2.17 (46¢) | $138,000 | -$138,000 | ❌ Perdida |
 | Sassy-Bucket | Kings vs. Islanders | Islanders | 2.04 (49¢) | $26,255 | -$26,255 | ❌ Perdida |
-| Talvez10 | Red Wings vs. Canucks | Red Wings | 1.64 (61¢) | $83,076 | — | ⏳ Pendiente |
+| Talvez10 | Red Wings vs. Canucks | Red Wings | 1.64 (61¢) | $83,076 | +$53,114 | ✅ Ganada |
 | googleplay | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $388,692 | -$388,692 | ❌ Perdida |
 | www511zwin | Spread: 76ers (-2.5) | Cavaliers | 1.96 (51¢) | $102,926 | -$102,926 | ❌ Perdida |
 | justwins | Cavaliers vs. 76ers: O/U 236.5 | Over 236.5 | 1.92 (52¢) | $27,365 | -$27,365 | ❌ Perdida |
