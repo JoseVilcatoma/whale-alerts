@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 17:59:20 (hora de Perú)
+Actualizado: 2026-10-23 18:01:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6109**  ($341,270,871 en total)
+- Apuestas registradas: **6111**  ($341,426,219 en total)
 - Resueltas: **6049** — 3701 ganadas / 2348 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 40
 - Apostadores distintos: 617
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| para-Vision | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
+| 778908 | North Carolina Central vs. Delaware State | North Carolina Central | 1.72 (58¢) | $127,348 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Magic (-1.5) | Magic | 1.92 (52¢) | $57,192 | — | ⏳ Pendiente |
 | Kkunn | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $34,223 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-2.5) | Knicks | 2.08 (48¢) | $79,701 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | 778908 | Lyon Open: Daniel Altmaier vs Taylor Fritz | Taylor Fritz | 1.23 (81¢) | $130,754 | +$30,671 | ✅ Ganada |
 | Elaran1993 | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $35,825 | — | ⏳ Pendiente |
 | Talvez10 | Knicks vs. Celtics | Knicks | 2.22 (45¢) | $33,004 | — | ⏳ Pendiente |
-| Talvez10 | Pelicans vs. Jazz | Pelicans | 2.00 (50¢) | $36,887 | — | ⏳ Pendiente |
-| rabbitfoot1 | Torino FC vs. AC Monza: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $28,277 | -$28,277 | ❌ Perdida |
