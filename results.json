@@ -91088,5 +91088,20 @@
     "status": "pending",
     "ultimo_fill": 1792776199,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12340,
+    "timestamp": 1792777249,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "nba-atl-cha-2026-10-23",
+    "title": "Hawks vs. Hornets",
+    "outcome": "Hawks",
+    "side": "BUY",
+    "usd": 28499.999999999996,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1792777249,
+    "fills": 1
   }
 ]

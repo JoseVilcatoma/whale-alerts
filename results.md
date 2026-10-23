@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 12:39:20 (hora de Perú)
+Actualizado: 2026-10-23 12:41:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6060**  ($337,871,528 en total)
+- Apuestas registradas: **6061**  ($337,900,028 en total)
 - Resueltas: **6019** — 3685 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | LlamaEnjoyer | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.39 (72¢) | $28,080 | — | ⏳ Pendiente |
 | S-Works | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.43 (70¢) | $100,205 | — | ⏳ Pendiente |
 | NeverLoseBet | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.33 (75¢) | $31,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 1.09 (92¢) | $42,559 | -$42,559 | ❌ Perdida |
 | Sassy-Bucket | Patriots vs. Bears | Patriots | 2.44 (41¢) | $27,456 | -$27,456 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 1.08 (93¢) | $82,156 | -$82,156 | ❌ Perdida |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Patriots vs. Bears: O/U 50.5 | Over 50.5 | 1.96 (51¢) | $49,276 | +$47,344 | ✅ Ganada |
