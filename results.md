@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 18:38:23 (hora de Perú)
+Actualizado: 2026-10-23 18:40:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6121**  ($342,125,194 en total)
-- Resueltas: **6053** — 3703 ganadas / 2350 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Resueltas: **6055** — 3703 ganadas / 2352 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 617
 
 ### Balance
 
-- **Resultado de los apostadores: -$577,031** sobre $338,330,219 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,695** sobre $596,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$639,220** sobre $338,392,407 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,895** sobre $597,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| Lakersfan111 | 66 | 45 | 4 | 59% | $5,640,821 | -$76,104 |
+| Lakersfan111 | 66 | 46 | 3 | 59% | $5,640,821 | -$109,093 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
 | BrotherObama | 45 | 50 | 3 | 47% | $4,341,370 | -$144,788 |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | 01258787xy48487484545122 | Lyon Open: Luca Van Assche vs Lorenzo Musetti | Luca Van Assche | 1.39 (72¢) | $42,284 | — | ⏳ Pendiente |
 | googleplay | Mavericks vs. Pacers: O/U 240.5 | Over 240.5 | 1.92 (52¢) | $28,121 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.00 (50¢) | $250,000 | +$250,000 | ✅ Ganada |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $29,200 | — | ⏳ Pendiente |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $29,200 | -$29,200 | ❌ Perdida |
 | beeemw | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $37,875 | — | ⏳ Pendiente |
 | bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.14 (88¢) | $34,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.44 (41¢) | $28,313 | +$40,743 | ✅ Ganada |
