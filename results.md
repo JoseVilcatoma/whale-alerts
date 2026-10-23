@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 16:40:16 (hora de Perú)
+Actualizado: 2026-10-23 16:42:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6090**  ($339,621,324 en total)
+- Apuestas registradas: **6091**  ($339,649,637 en total)
 - Resueltas: **6043** — 3696 ganadas / 2347 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 616
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 434 | 234 | 4 | 65% | $43,027,184 | +$732,933 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 434 | 234 | 5 | 65% | $43,055,497 | +$732,933 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.44 (41¢) | $28,313 | — | ⏳ Pendiente |
 | zb8 | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.49 (67¢) | $57,284 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.54 (65¢) | $254,300 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | G2 Esports | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | mooseborzoii | Patriots vs. Bears | Bears | 1.18 (85¢) | $132,155 | +$23,321 | ✅ Ganada |
 | Anon455 | Patriots vs. Bears | Bears | 1.45 (69¢) | $27,600 | +$12,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.96 (51¢) | $190,236 | +$182,776 | ✅ Ganada |
-| mooseborzoii | Patriots vs. Bears | Bears | 1.52 (66¢) | $85,621 | +$44,108 | ✅ Ganada |
