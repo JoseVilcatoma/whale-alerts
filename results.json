@@ -91270,5 +91270,35 @@
     "status": "pending",
     "ultimo_fill": 1792782531,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12358,
+    "timestamp": 1792782673,
+    "username": "S-Works",
+    "wallet": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+    "slug": "sea-tor-mon-2026-10-23-total-0pt5",
+    "title": "Torino FC vs. AC Monza: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 90950.0,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1792782673,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12359,
+    "timestamp": 1792782733,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "lol-blg-mkoi-2026-10-23",
+    "title": "LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 82959.4628,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1792782733,
+    "fills": 1
   }
 ]

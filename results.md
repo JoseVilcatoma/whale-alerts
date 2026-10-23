@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 14:10:49 (hora de Perú)
+Actualizado: 2026-10-23 14:12:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6072**  ($338,458,288 en total)
+- Apuestas registradas: **6074**  ($338,632,197 en total)
 - Resueltas: **6023** — 3689 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 29
 - Apostadores distintos: 616
 
 ### Balance
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
+| S-Works | 13 | 5 | 1 | 72% | $2,091,761 | -$114,948 |
 | Talvez10 | 24 | 18 | 2 | 57% | $2,070,456 | +$377,201 |
-| S-Works | 13 | 5 | 0 | 72% | $2,000,811 | -$114,948 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.20 (83¢) | $82,959 | — | ⏳ Pendiente |
+| S-Works | Torino FC vs. AC Monza: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $90,950 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $32,800 | — | ⏳ Pendiente |
 | meoooow | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $31,241 | — | ⏳ Pendiente |
 | omnibus-076daa | Will Ipswich Town FC win on 2026-10-23? | Yes | 3.33 (30¢) | $138,844 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | milkteaboba | Patriots vs. Bears | Bears | 1.59 (63¢) | $173,607 | +$101,960 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Bears | Bears | 1.52 (66¢) | $47,384 | +$24,410 | ✅ Ganada |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.45 (69¢) | $64,161 | +$28,826 | ✅ Ganada |
-| Anon455 | Patriots vs. Bears | Bears | 1.41 (71¢) | $56,800 | +$23,200 | ✅ Ganada |
-| mooseborzoii | Patriots vs. Bears | Bears | 1.47 (68¢) | $126,202 | +$59,389 | ✅ Ganada |
