@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 21:38:56 (hora de Perú)
+Actualizado: 2026-10-22 21:41:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6032**  ($336,595,310 en total)
-- Resueltas: **5972** — 3647 ganadas / 2325 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **5973** — 3647 ganadas / 2326 perdidas (**61%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 615
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,815,009** sobre $333,648,495 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$6,334** sobre $588,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$1,841,264** sobre $333,674,750 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,434** sobre $589,000 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 428 | 233 | 6 | 65% | $42,789,940 | +$445,612 |
-| Sassy-Bucket | 83 | 82 | 4 | 50% | $10,362,110 | -$987,626 |
+| Sassy-Bucket | 83 | 83 | 3 | 50% | $10,362,110 | -$1,013,881 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | Sassy-Bucket | Ducks vs. Devils | Ducks | 2.94 (34¢) | $31,620 | -$31,620 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $26,254 | -$26,254 | ❌ Perdida |
 | googleplay | Cavaliers vs. 76ers | Cavaliers | 2.17 (46¢) | $138,000 | -$138,000 | ❌ Perdida |
-| Sassy-Bucket | Kings vs. Islanders | Islanders | 2.04 (49¢) | $26,255 | — | ⏳ Pendiente |
+| Sassy-Bucket | Kings vs. Islanders | Islanders | 2.04 (49¢) | $26,255 | -$26,255 | ❌ Perdida |
 | Talvez10 | Red Wings vs. Canucks | Red Wings | 1.64 (61¢) | $83,076 | — | ⏳ Pendiente |
 | googleplay | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $388,692 | -$388,692 | ❌ Perdida |
 | www511zwin | Spread: 76ers (-2.5) | Cavaliers | 1.96 (51¢) | $102,926 | -$102,926 | ❌ Perdida |
