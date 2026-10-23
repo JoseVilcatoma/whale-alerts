@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 17:41:54 (hora de Perú)
+Actualizado: 2026-10-23 17:43:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6098**  ($340,119,897 en total)
-- Resueltas: **6046** — 3698 ganadas / 2348 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Apuestas registradas: **6100**  ($340,516,191 en total)
+- Resueltas: **6047** — 3699 ganadas / 2348 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$945,006** sobre $337,750,403 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,920** sobre $596,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$906,825** sobre $337,798,997 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,842** sobre $596,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 434 | 234 | 6 | 65% | $43,305,497 | +$732,933 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 435 | 234 | 5 | 65% | $43,305,497 | +$771,113 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| mooseborzoii | 78 | 43 | 1 | 64% | $7,162,641 | +$1,109,460 |
+| mooseborzoii | 78 | 43 | 2 | 64% | $7,212,704 | +$1,109,460 |
 | 3edmond.dantes | 31 | 20 | 2 | 61% | $7,137,368 | -$1,144,994 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | ferrariChampions2026 | 100 | 49 | 0 | 67% | $6,548,034 | +$170,014 |
@@ -45,10 +45,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
+| googleplay | 12 | 14 | 2 | 46% | $3,121,553 | -$881,509 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
-| googleplay | 12 | 14 | 1 | 46% | $2,775,322 | -$881,509 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | milkteaboba | 13 | 11 | 0 | 54% | $2,337,396 | -$694,704 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $50,063 | — | ⏳ Pendiente |
+| googleplay | Knicks vs. Celtics | Celtics | 1.72 (58¢) | $346,231 | — | ⏳ Pendiente |
 | Talvez10 | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $48,780 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Lyon Open: Luca Van Assche vs Lorenzo Musetti | Luca Van Assche | 1.39 (72¢) | $42,284 | — | ⏳ Pendiente |
 | googleplay | Mavericks vs. Pacers: O/U 240.5 | Over 240.5 | 1.92 (52¢) | $28,121 | — | ⏳ Pendiente |
@@ -84,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | G2 Esports | 2.50 (40¢) | $40,000 | -$40,000 | ❌ Perdida |
 | bluemario | CA Gimnasia y Esgrima de Mendoza vs. CA Platense: O/U 2.5 | Under 2.5 | 1.67 (60¢) | $60,377 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks: O/U 236.5 | Over 236.5 | 1.79 (56¢) | $48,594 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks: O/U 236.5 | Over 236.5 | 1.79 (56¢) | $48,594 | +$38,181 | ✅ Ganada |
 | Netrol | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
 | meoooow | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $37,834 | -$37,834 | ❌ Perdida |
 | Mooseborzoiii | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 2.56 (39¢) | $201,608 | +$315,335 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Guangzhou 2: Yi Zhou vs Andre Ilagan | Yi Zhou | 1.20 (83¢) | $32,907 | +$6,740 | ✅ Ganada |
 | itwillallbeok | Raptors vs. Wizards | Raptors | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Guangzhou 2: Yi Zhou vs Andre Ilagan | Yi Zhou | 1.19 (84¢) | $30,000 | +$5,714 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Talia Gibson vs Ashlyn Krueger | Talia Gibson | 2.38 (42¢) | $27,677 | -$27,677 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.10 (91¢) | $39,551 | +$3,912 | ✅ Ganada |

@@ -91462,7 +91462,7 @@
     "side": "BUY",
     "usd": 48593.79840000001,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792786733,
     "fills": 1
   },
@@ -91659,6 +91659,36 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1792795181,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12407,
+    "timestamp": 1792795359,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-nyk-bos-2026-10-23",
+    "title": "Knicks vs. Celtics",
+    "outcome": "Celtics",
+    "side": "BUY",
+    "usd": 346230.58759999997,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1792795359,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 12408,
+    "timestamp": 1792795393,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nba-tor-was-2026-10-23",
+    "title": "Raptors vs. Wizards",
+    "outcome": "Raptors",
+    "side": "BUY",
+    "usd": 50062.998,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1792795393,
     "fills": 1
   }
 ]
