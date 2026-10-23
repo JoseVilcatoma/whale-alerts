@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 23:41:50 (hora de Perú)
+Actualizado: 2026-10-22 23:44:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6039**  ($337,025,283 en total)
-- Resueltas: **6004** — 3674 ganadas / 2330 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **6010** — 3680 ganadas / 2330 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,215,000** sobre $335,284,466 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$5,352** sobre $592,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$951,327** sobre $335,716,417 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,096** sobre $592,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 431 | 233 | 5 | 65% | $42,918,005 | +$567,182 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 433 | 233 | 3 | 65% | $42,918,005 | +$753,869 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Lakersfan111 | 66 | 44 | 0 | 60% | $5,446,811 | -$42,389 |
-| ethanaz | 59 | 24 | 1 | 71% | $5,100,188 | -$146,927 |
+| ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
 | BrotherObama | 45 | 49 | 3 | 48% | $4,296,413 | -$107,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
@@ -71,14 +71,14 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.10 (91¢) | $39,551 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.10 (91¢) | $39,551 | +$3,912 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-8.5) | Thunder | 1.96 (51¢) | $88,515 | +$85,044 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Nuggets vs. Thunder | Thunder | 1.22 (82¢) | $87,767 | — | ⏳ Pendiente |
-| 0x6db5…e279 | Nuggets vs. Thunder | Thunder | 1.23 (81¢) | $26,473 | — | ⏳ Pendiente |
-| ethanaz | Nuggets vs. Thunder | Thunder | 1.35 (74¢) | $27,913 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Nuggets vs. Thunder | Thunder | 1.22 (82¢) | $87,767 | +$19,266 | ✅ Ganada |
+| 0x6db5…e279 | Nuggets vs. Thunder | Thunder | 1.23 (81¢) | $26,473 | +$6,210 | ✅ Ganada |
+| ethanaz | Nuggets vs. Thunder | Thunder | 1.35 (74¢) | $27,913 | +$9,807 | ✅ Ganada |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.18 (85¢) | $132,155 | +$23,321 | ✅ Ganada |
 | Anon455 | Patriots vs. Bears | Bears | 1.45 (69¢) | $27,600 | +$12,400 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.96 (51¢) | $190,236 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.96 (51¢) | $190,236 | +$182,776 | ✅ Ganada |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.52 (66¢) | $85,621 | +$44,108 | ✅ Ganada |
 | CHZHSHCH | Nuggets vs. Thunder | Nuggets | 2.08 (48¢) | $31,558 | -$19,066 | 💰 Vendida antes |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.37 (73¢) | $31,153 | +$11,522 | ✅ Ganada |
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Anon455 | Patriots vs. Bears | Bears | 1.47 (68¢) | $27,200 | +$12,800 | ✅ Ganada |
 | dhgreg | Cavaliers vs. 76ers | Cavaliers | 1.10 (91¢) | $569,235 | -$569,235 | ❌ Perdida |
 | milkteaboba | Patriots vs. Bears | Bears | 1.43 (70¢) | $35,244 | +$15,104 | ✅ Ganada |
-| bluemario | CR Flamengo vs. Estudiantes de La Plata: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $60,012 | — | ⏳ Pendiente |
+| bluemario | CR Flamengo vs. Estudiantes de La Plata: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $60,012 | +$41,703 | ✅ Ganada |
 | ferrariChampions2026 | Patriots vs. Bears | Bears | 1.54 (65¢) | $31,829 | +$17,139 | ✅ Ganada |
 | Painfulvoid | Cavaliers vs. 76ers | Cavaliers | 1.08 (93¢) | $35,880 | -$35,880 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 1.09 (92¢) | $42,559 | -$42,559 | ❌ Perdida |
