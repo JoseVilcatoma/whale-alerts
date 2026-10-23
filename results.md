@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 19:33:07 (hora de Perú)
+Actualizado: 2026-10-22 19:35:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6007**  ($334,636,020 en total)
+- Apuestas registradas: **6009**  ($334,796,670 en total)
 - Resueltas: **5945** — 3640 ganadas / 2305 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 42
 - Apostadores distintos: 615
 
 ### Balance
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| milkteaboba | 10 | 11 | 0 | 48% | $2,078,678 | -$838,620 |
+| milkteaboba | 10 | 11 | 1 | 48% | $2,113,922 | -$838,620 |
 | Talvez10 | 23 | 18 | 1 | 56% | $2,000,565 | +$324,087 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dhgreg | Cavaliers vs. 76ers | Cavaliers | 1.08 (93¢) | $125,406 | — | ⏳ Pendiente |
+| milkteaboba | Patriots vs. Bears | Bears | 1.43 (70¢) | $35,244 | — | ⏳ Pendiente |
 | bluemario | CR Flamengo vs. Estudiantes de La Plata: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $60,012 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Patriots vs. Bears | Bears | 1.54 (65¢) | $31,829 | — | ⏳ Pendiente |
 | Painfulvoid | Cavaliers vs. 76ers | Cavaliers | 1.08 (93¢) | $35,880 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AS Omónoia Leukosías win on 2026-10-22? | No | 1.11 (90¢) | $92,040 | +$10,227 | ✅ Ganada |
 | bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 3.5 | Under 3.5 | 1.52 (66¢) | $134,523 | -$134,523 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Fateh Saudi Club vs. Al Shabab Saudi Club: O/U 2.5 | Over 2.5 | 1.11 (90¢) | $358,000 | +$39,778 | ✅ Ganada |
-| Woaifacai | Florence: Henry Searle vs Matthew William Donald | Matthew William Donald | 1.45 (69¢) | $27,414 | +$12,317 | ✅ Ganada |
-| bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 2.5 | Under 2.5 | 5.56 (18¢) | $36,154 | -$36,154 | ❌ Perdida |
