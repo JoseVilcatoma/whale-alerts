@@ -90501,5 +90501,20 @@
     "status": "pending",
     "ultimo_fill": 1792719488,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12227,
+    "timestamp": 1792719616,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "nhl-utah-sea-2026-10-22",
+    "title": "Utah vs. Kraken",
+    "outcome": "Utah",
+    "side": "BUY",
+    "usd": 90669.42439999999,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1792719625,
+    "fills": 2
   }
 ]
