@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 21:11:44 (hora de Perú)
+Actualizado: 2026-10-22 21:13:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6028**  ($336,256,742 en total)
-- Resueltas: **5951** — 3643 ganadas / 2308 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Resueltas: **5952** — 3643 ganadas / 2309 perdidas (**61%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 615
 
 ### Balance
 
-- **Resultado de los apostadores: -$79,099** sobre $331,623,019 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,935** sobre $586,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$182,025** sobre $331,725,945 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,035** sobre $586,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | Sassy-Bucket | Kings vs. Islanders | Islanders | 2.04 (49¢) | $26,255 | — | ⏳ Pendiente |
 | Talvez10 | Red Wings vs. Canucks | Red Wings | 1.64 (61¢) | $83,076 | — | ⏳ Pendiente |
 | googleplay | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $388,692 | — | ⏳ Pendiente |
-| www511zwin | Spread: 76ers (-2.5) | Cavaliers | 1.96 (51¢) | $102,926 | — | ⏳ Pendiente |
+| www511zwin | Spread: 76ers (-2.5) | Cavaliers | 1.96 (51¢) | $102,926 | -$102,926 | ❌ Perdida |
 | justwins | Cavaliers vs. 76ers: O/U 236.5 | Over 236.5 | 1.92 (52¢) | $27,365 | — | ⏳ Pendiente |
 | Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $56,018 | -$56,018 | ❌ Perdida |
 | mooseborzoii | Sharks vs. Senators | Sharks | 2.27 (44¢) | $36,591 | +$46,570 | ✅ Ganada |
