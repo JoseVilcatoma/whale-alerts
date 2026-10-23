@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 08:38:44 (hora de Perú)
+Actualizado: 2026-10-23 08:40:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6049**  ($337,352,720 en total)
+- Apuestas registradas: **6050**  ($337,380,997 en total)
 - Resueltas: **6017** — 3684 ganadas / 2333 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| rabbitfoot1 | Torino FC vs. AC Monza: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $28,277 | — | ⏳ Pendiente |
 | YYYYY999 | Bulls vs. Bucks | Bucks | 1.92 (52¢) | $33,716 | — | ⏳ Pendiente |
 | YYYYY999 | Pistons vs. Heat | Pistons | 1.92 (52¢) | $61,760 | — | ⏳ Pendiente |
 | YYYYY999 | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $25,678 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Talvez10 | Red Wings vs. Canucks | Red Wings | 1.64 (61¢) | $83,076 | +$53,114 | ✅ Ganada |
 | googleplay | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $388,692 | -$388,692 | ❌ Perdida |
 | www511zwin | Spread: 76ers (-2.5) | Cavaliers | 1.96 (51¢) | $102,926 | -$102,926 | ❌ Perdida |
-| justwins | Cavaliers vs. 76ers: O/U 236.5 | Over 236.5 | 1.92 (52¢) | $27,365 | -$27,365 | ❌ Perdida |

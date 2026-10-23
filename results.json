@@ -90923,5 +90923,20 @@
     "status": "pending",
     "ultimo_fill": 1792760425,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12326,
+    "timestamp": 1792762728,
+    "username": "rabbitfoot1",
+    "wallet": "0x10a6fadcbacd66330862206f6199b197e3ad4d8b",
+    "slug": "sea-tor-mon-2026-10-23-total-2pt5",
+    "title": "Torino FC vs. AC Monza: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 28276.9968,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1792762728,
+    "fills": 1
   }
 ]
