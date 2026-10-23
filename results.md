@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 12:20:27 (hora de Perú)
+Actualizado: 2026-10-23 12:22:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6057**  ($337,711,743 en total)
+- Apuestas registradas: **6058**  ($337,743,243 en total)
 - Resueltas: **6019** — 3685 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NeverLoseBet | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.33 (75¢) | $31,500 | — | ⏳ Pendiente |
 | YYYYY999 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $32,988 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Trail Blazers vs. Kings: O/U 233.5 | Over 233.5 | 2.00 (50¢) | $25,800 | — | ⏳ Pendiente |
 | retordedgremlin125 | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.30 (77¢) | $35,487 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Patriots vs. Bears: O/U 50.5 | Over 50.5 | 1.96 (51¢) | $49,276 | +$47,344 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Patriots vs. Bears: O/U 50.5 | Over 50.5 | 2.00 (50¢) | $59,064 | +$59,064 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $34,222 | -$34,222 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $220,000 | -$220,000 | ❌ Perdida |
