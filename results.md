@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 13:39:12 (hora de Perú)
+Actualizado: 2026-10-23 13:41:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6063**  ($337,957,875 en total)
-- Resueltas: **6020** — 3686 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **6023** — 3689 ganadas / 2334 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,045,399** sobre $336,248,412 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,348** sobre $593,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$980,934** sobre $336,412,184 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,237** sobre $593,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Talvez10 | 24 | 18 | 2 | 57% | $2,070,456 | +$377,201 |
-| S-Works | 12 | 5 | 1 | 71% | $2,000,811 | -$157,893 |
+| S-Works | 13 | 5 | 0 | 72% | $2,000,811 | -$114,948 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
@@ -74,12 +74,12 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Mooseborzoiii | LoL: Hanwha Life Esports vs Top Esports (BO1) - Worlds Group Stage | Top Esports | 4.17 (24¢) | $30,850 | — | ⏳ Pendiente |
 | fraagen | Stade Brestois 29 vs. OGC Nice: O/U 9.5 Total Corners | Under 9.5 Total Corners | 1.85 (54¢) | $26,998 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
-| LlamaEnjoyer | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.39 (72¢) | $28,080 | — | ⏳ Pendiente |
-| S-Works | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.43 (70¢) | $100,205 | — | ⏳ Pendiente |
+| LlamaEnjoyer | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.39 (72¢) | $28,080 | +$10,920 | ✅ Ganada |
+| S-Works | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.43 (70¢) | $100,205 | +$42,945 | ✅ Ganada |
 | NeverLoseBet | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.33 (75¢) | $31,500 | +$420 | 💰 Vendida antes |
 | YYYYY999 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $32,988 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Trail Blazers vs. Kings: O/U 233.5 | Over 233.5 | 2.00 (50¢) | $25,800 | — | ⏳ Pendiente |
-| retordedgremlin125 | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.30 (77¢) | $35,487 | — | ⏳ Pendiente |
+| retordedgremlin125 | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.30 (77¢) | $35,487 | +$10,600 | ✅ Ganada |
 | 778908 | Lyon Open: Daniel Altmaier vs Taylor Fritz | Taylor Fritz | 1.23 (81¢) | $130,754 | +$30,671 | ✅ Ganada |
 | Elaran1993 | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $35,825 | — | ⏳ Pendiente |
 | Talvez10 | Knicks vs. Celtics | Knicks | 2.22 (45¢) | $33,004 | — | ⏳ Pendiente |
