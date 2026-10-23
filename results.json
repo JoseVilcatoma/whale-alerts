@@ -90848,5 +90848,20 @@
     "status": "pending",
     "ultimo_fill": 1792742561,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12319,
+    "timestamp": 1792742584,
+    "username": "Kyn008",
+    "wallet": "0xd29312e2446a746bbd94408e1c475f1ec6d7d683",
+    "slug": "sea-tor-mon-2026-10-23-tor",
+    "title": "Will Torino FC win on 2026-10-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 26407.425600000002,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792742584,
+    "fills": 1
   }
 ]
