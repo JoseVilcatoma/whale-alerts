@@ -90231,5 +90231,50 @@
     "status": "pending",
     "ultimo_fill": 1792714562,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12209,
+    "timestamp": 1792714918,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-cle-phi-2026-10-22",
+    "title": "Cavaliers vs. 76ers",
+    "outcome": "Cavaliers",
+    "side": "BUY",
+    "usd": 42559.200000000004,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1792714918,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12210,
+    "timestamp": 1792714921,
+    "username": "Painfulvoid",
+    "wallet": "0xd6966eb1ae7b52320ba7ab1016680198c9e08a49",
+    "slug": "nba-cle-phi-2026-10-22",
+    "title": "Cavaliers vs. 76ers",
+    "outcome": "Cavaliers",
+    "side": "BUY",
+    "usd": 35879.999996,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1792714921,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12211,
+    "timestamp": 1792714966,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-ne-chi-2026-10-23",
+    "title": "Patriots vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 31829.115500000004,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1792714966,
+    "fills": 1
   }
 ]
