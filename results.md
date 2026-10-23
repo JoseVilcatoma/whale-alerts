@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 18:15:44 (hora de Perú)
+Actualizado: 2026-10-23 18:17:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6117**  ($341,711,371 en total)
+- Apuestas registradas: **6117**  ($341,751,835 en total)
 - Resueltas: **6053** — 3703 ganadas / 2350 perdidas (**61%** de acierto)
 - Pendientes: 42
 - Apostadores distintos: 617
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Jokerxing7 | Spread: Warriors (-4.5) | Warriors | 1.96 (51¢) | $29,606 | — | ⏳ Pendiente |
+| Jokerxing7 | Spread: Warriors (-4.5) | Warriors | 1.96 (51¢) | $70,069 | — | ⏳ Pendiente |
 | Jokerxing7 | Raptors vs. Wizards: O/U 236.5 | Over 236.5 | 2.00 (50¢) | $45,229 | — | ⏳ Pendiente |
 | Jokerxing7 | Pistons vs. Heat: O/U 235.5 | Over 235.5 | 2.00 (50¢) | $31,803 | — | ⏳ Pendiente |
 | dhgreg | Raptors vs. Wizards | Wizards | 3.70 (27¢) | $81,000 | — | ⏳ Pendiente |
