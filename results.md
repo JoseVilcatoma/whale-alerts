@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 13:43:21 (hora de Perú)
+Actualizado: 2026-10-23 13:45:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6064**  ($337,982,875 en total)
+- Apuestas registradas: **6065**  ($338,009,233 en total)
 - Resueltas: **6023** — 3689 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,358 | — | ⏳ Pendiente |
 | robustmst | Lyon Open: Flavio Cobolli vs Brandon Nakashima | Flavio Cobolli | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs Top Esports (BO1) - Worlds Group Stage | Top Esports | 4.17 (24¢) | $30,850 | — | ⏳ Pendiente |
 | fraagen | Stade Brestois 29 vs. OGC Nice: O/U 9.5 Total Corners | Under 9.5 Total Corners | 1.85 (54¢) | $26,998 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | milkteaboba | Patriots vs. Bears | Bears | 1.43 (70¢) | $35,244 | +$15,104 | ✅ Ganada |
 | bluemario | CR Flamengo vs. Estudiantes de La Plata: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $60,012 | +$41,703 | ✅ Ganada |
 | ferrariChampions2026 | Patriots vs. Bears | Bears | 1.54 (65¢) | $31,829 | +$17,139 | ✅ Ganada |
-| Painfulvoid | Cavaliers vs. 76ers | Cavaliers | 1.08 (93¢) | $35,880 | -$35,880 | ❌ Perdida |
