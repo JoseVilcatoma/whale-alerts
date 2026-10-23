@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 15:40:52 (hora de Perú)
+Actualizado: 2026-10-23 15:42:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6085**  ($339,175,763 en total)
-- Resueltas: **6025** — 3690 ganadas / 2335 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **6028** — 3690 ganadas / 2338 perdidas (**61%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$988,707** sobre $336,468,034 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,244** sobre $594,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,135,708** sobre $336,615,035 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,544** sobre $594,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,10 +82,10 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | ferrariChampions2026 | European Open: Jan-Lennard Struff vs Zizou Bergs | Zizou Bergs | 2.27 (44¢) | $25,110 | — | ⏳ Pendiente |
 | Donkey14 | Knicks vs. Celtics | Celtics | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
 | EdZachary | Bulls vs. Bucks | Bucks | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.20 (83¢) | $82,959 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.20 (83¢) | $82,959 | -$82,959 | ❌ Perdida |
 | S-Works | Torino FC vs. AC Monza: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $90,950 | — | ⏳ Pendiente |
-| PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $32,800 | — | ⏳ Pendiente |
-| meoooow | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $31,241 | — | ⏳ Pendiente |
+| PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $32,800 | -$32,800 | ❌ Perdida |
+| meoooow | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $31,241 | -$31,241 | ❌ Perdida |
 | omnibus-076daa | Will Ipswich Town FC win on 2026-10-23? | Yes | 3.33 (30¢) | $138,844 | — | ⏳ Pendiente |
 | UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | — | ⏳ Pendiente |
 | UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | — | ⏳ Pendiente |
