@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 10:05:57 (hora de Perú)
+Actualizado: 2026-10-23 10:08:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6052**  ($337,450,888 en total)
+- Apuestas registradas: **6053**  ($337,486,713 en total)
 - Resueltas: **6018** — 3684 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elaran1993 | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $35,825 | — | ⏳ Pendiente |
 | Talvez10 | Knicks vs. Celtics | Knicks | 2.22 (45¢) | $33,004 | — | ⏳ Pendiente |
 | Talvez10 | Pelicans vs. Jazz | Pelicans | 2.00 (50¢) | $36,887 | — | ⏳ Pendiente |
 | rabbitfoot1 | Torino FC vs. AC Monza: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $28,277 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $26,254 | -$26,254 | ❌ Perdida |
 | googleplay | Cavaliers vs. 76ers | Cavaliers | 2.17 (46¢) | $138,000 | -$138,000 | ❌ Perdida |
 | Sassy-Bucket | Kings vs. Islanders | Islanders | 2.04 (49¢) | $26,255 | -$26,255 | ❌ Perdida |
-| Talvez10 | Red Wings vs. Canucks | Red Wings | 1.64 (61¢) | $83,076 | +$53,114 | ✅ Ganada |
