@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 19:37:15 (hora de Perú)
+Actualizado: 2026-10-22 19:39:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6010**  ($335,267,699 en total)
+- Apuestas registradas: **6011**  ($335,317,566 en total)
 - Resueltas: **5945** — 3640 ganadas / 2305 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 615
 
 ### Balance
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| milkteaboba | 10 | 11 | 1 | 48% | $2,113,922 | -$838,620 |
+| milkteaboba | 10 | 11 | 2 | 48% | $2,163,789 | -$838,620 |
 | Talvez10 | 23 | 18 | 1 | 56% | $2,000,565 | +$324,087 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Patriots vs. Bears | Bears | 1.54 (65¢) | $49,867 | — | ⏳ Pendiente |
 | Anon455 | Patriots vs. Bears | Bears | 1.47 (68¢) | $27,200 | — | ⏳ Pendiente |
 | dhgreg | Cavaliers vs. 76ers | Cavaliers | 1.10 (91¢) | $569,235 | — | ⏳ Pendiente |
 | milkteaboba | Patriots vs. Bears | Bears | 1.43 (70¢) | $35,244 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Qairat FK vs. Panathinaikós AO: O/U 4.5 | Over 4.5 | 2.70 (37¢) | $29,330 | +$49,941 | ✅ Ganada |
 | bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 4.5 | Under 4.5 | 1.08 (93¢) | $95,909 | +$7,219 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AS Omónoia Leukosías win on 2026-10-22? | No | 1.11 (90¢) | $92,040 | +$10,227 | ✅ Ganada |
-| bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 3.5 | Under 3.5 | 1.52 (66¢) | $134,523 | -$134,523 | ❌ Perdida |
