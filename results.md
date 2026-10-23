@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 15:04:18 (hora de Perú)
+Actualizado: 2026-10-23 15:06:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6076**  ($338,684,152 en total)
+- Apuestas registradas: **6079**  ($338,786,170 en total)
 - Resueltas: **6025** — 3690 ganadas / 2335 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 32
 - Apostadores distintos: 616
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 78 | 43 | 1 | 64% | $7,162,641 | +$1,109,460 |
 | 3edmond.dantes | 31 | 20 | 2 | 61% | $7,137,368 | -$1,144,994 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
-| ferrariChampions2026 | 100 | 48 | 0 | 68% | $6,522,923 | +$195,124 |
+| ferrariChampions2026 | 100 | 48 | 1 | 68% | $6,548,034 | +$195,124 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 66 | 44 | 4 | 60% | $5,600,953 | -$42,389 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
-| BrotherObama | 45 | 50 | 2 | 47% | $4,296,413 | -$144,788 |
+| BrotherObama | 45 | 50 | 3 | 47% | $4,341,370 | -$144,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $44,956 | — | ⏳ Pendiente |
+| 778908 | European Open: Jan-Lennard Struff vs Zizou Bergs | Jan-Lennard Struff | 1.79 (56¢) | $31,952 | — | ⏳ Pendiente |
+| ferrariChampions2026 | European Open: Jan-Lennard Struff vs Zizou Bergs | Zizou Bergs | 2.27 (44¢) | $25,110 | — | ⏳ Pendiente |
 | Donkey14 | Knicks vs. Celtics | Celtics | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
 | EdZachary | Bulls vs. Bucks | Bucks | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.20 (83¢) | $82,959 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Zzzz87 | Utah vs. Kraken | Utah | 1.56 (64¢) | $90,669 | -$90,669 | ❌ Perdida |
 | Anon455 | Patriots vs. Bears | Bears | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
 | ethanaz | Spread: 76ers (-5.5) | 76ers | 1.96 (51¢) | $32,184 | +$30,922 | ✅ Ganada |
-| Nooserac | Spread: 76ers (-5.5) | 76ers | 1.96 (51¢) | $50,600 | +$48,616 | ✅ Ganada |
-| surfandturf | Patriots vs. Bears | Bears | 1.32 (76¢) | $38,000 | +$12,000 | ✅ Ganada |
-| milkteaboba | Patriots vs. Bears | Bears | 1.59 (63¢) | $173,607 | +$101,960 | ✅ Ganada |
