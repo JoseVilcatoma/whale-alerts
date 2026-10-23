@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 15:59:05 (hora de Perú)
+Actualizado: 2026-10-23 16:01:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6087**  ($339,269,739 en total)
-- Resueltas: **6029** — 3691 ganadas / 2338 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **6033** — 3692 ganadas / 2341 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,119,658** sobre $336,705,985 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,527** sobre $594,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,160,458** sobre $336,821,308 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,709** sobre $594,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $111,057 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $81,636 | — | ⏳ Pendiente |
-| omnibus-076daa | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,358 | — | ⏳ Pendiente |
+| omnibus-076daa | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,358 | -$26,358 | ❌ Perdida |
 | robustmst | Lyon Open: Flavio Cobolli vs Brandon Nakashima | Flavio Cobolli | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs Top Esports (BO1) - Worlds Group Stage | Top Esports | 4.17 (24¢) | $30,850 | -$30,850 | ❌ Perdida |
 | fraagen | Stade Brestois 29 vs. OGC Nice: O/U 9.5 Total Corners | Under 9.5 Total Corners | 1.85 (54¢) | $26,998 | — | ⏳ Pendiente |
@@ -108,13 +108,13 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Elaran1993 | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $35,825 | — | ⏳ Pendiente |
 | Talvez10 | Knicks vs. Celtics | Knicks | 2.22 (45¢) | $33,004 | — | ⏳ Pendiente |
 | Talvez10 | Pelicans vs. Jazz | Pelicans | 2.00 (50¢) | $36,887 | — | ⏳ Pendiente |
-| rabbitfoot1 | Torino FC vs. AC Monza: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $28,277 | — | ⏳ Pendiente |
+| rabbitfoot1 | Torino FC vs. AC Monza: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $28,277 | -$28,277 | ❌ Perdida |
 | YYYYY999 | Bulls vs. Bucks | Bucks | 1.92 (52¢) | $33,716 | — | ⏳ Pendiente |
 | YYYYY999 | Pistons vs. Heat | Pistons | 1.92 (52¢) | $61,760 | — | ⏳ Pendiente |
 | YYYYY999 | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $25,678 | — | ⏳ Pendiente |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Japan Women's Open: Katie Boulter vs Antonia Ruzic | Katie Boulter | 1.20 (83¢) | $27,411 | +$5,614 | ✅ Ganada |
-| Kyn008 | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,407 | — | ⏳ Pendiente |
-| Bloodygoodrep1 | Will Torino FC win on 2026-10-23? | Yes | 2.17 (46¢) | $34,281 | — | ⏳ Pendiente |
+| Kyn008 | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,407 | -$26,407 | ❌ Perdida |
+| Bloodygoodrep1 | Will Torino FC win on 2026-10-23? | Yes | 2.17 (46¢) | $34,281 | +$40,242 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Guangzhou 2: Yi Zhou vs Andre Ilagan | Yi Zhou | 1.20 (83¢) | $32,907 | +$6,740 | ✅ Ganada |
 | itwillallbeok | Raptors vs. Wizards | Raptors | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Guangzhou 2: Yi Zhou vs Andre Ilagan | Yi Zhou | 1.19 (84¢) | $30,000 | +$5,714 | ✅ Ganada |
