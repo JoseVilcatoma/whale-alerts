@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 20:59:22 (hora de Perú)
+Actualizado: 2026-10-22 21:01:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6024**  ($336,132,421 en total)
+- Apuestas registradas: **6025**  ($336,162,021 en total)
 - Resueltas: **5947** — 3641 ganadas / 2306 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 615
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Anon455 | Patriots vs. Bears | Bears | 1.35 (74¢) | $29,600 | — | ⏳ Pendiente |
 | ethanaz | Spread: Thunder (-8.5) | Thunder | 2.08 (48¢) | $26,610 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | 76ers | 1.09 (92¢) | $29,117 | — | ⏳ Pendiente |
 | Zzzz87 | Utah vs. Kraken | Utah | 1.56 (64¢) | $90,669 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.64 (61¢) | $29,890 | — | ⏳ Pendiente |
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | 778908 | Lyon Open: Flavio Cobolli vs Stan Wawrinka | Flavio Cobolli | 1.10 (91¢) | $109,200 | +$10,800 | ✅ Ganada |
-| rabbitfoot1 | Sharks vs. Senators | Sharks | 2.27 (44¢) | $32,839 | — | ⏳ Pendiente |
