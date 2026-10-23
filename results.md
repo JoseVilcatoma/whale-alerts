@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 16:17:26 (hora de Perú)
+Actualizado: 2026-10-23 16:19:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6090**  ($339,513,939 en total)
-- Resueltas: **6034** — 3692 ganadas / 2342 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Apuestas registradas: **6090**  ($339,621,324 en total)
+- Resueltas: **6037** — 3694 ganadas / 2343 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,187,455** sobre $336,848,305 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$5,809** sobre $594,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$1,285,958** sobre $337,040,625 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$5,758** sobre $595,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | zb8 | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.49 (67¢) | $57,284 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.56 (64¢) | $146,915 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.54 (65¢) | $254,300 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | G2 Esports | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
 | bluemario | CA Gimnasia y Esgrima de Mendoza vs. CA Platense: O/U 2.5 | Under 2.5 | 1.67 (60¢) | $60,377 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
@@ -91,9 +91,9 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | S-Works | Torino FC vs. AC Monza: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $90,950 | +$16,050 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $32,800 | -$32,800 | ❌ Perdida |
 | meoooow | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $31,241 | -$31,241 | ❌ Perdida |
-| omnibus-076daa | Will Ipswich Town FC win on 2026-10-23? | Yes | 3.33 (30¢) | $138,844 | — | ⏳ Pendiente |
-| UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | — | ⏳ Pendiente |
-| UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | — | ⏳ Pendiente |
+| omnibus-076daa | Will Ipswich Town FC win on 2026-10-23? | Yes | 3.33 (30¢) | $138,844 | -$138,844 | ❌ Perdida |
+| UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | +$20,171 | ✅ Ganada |
+| UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | +$20,171 | ✅ Ganada |
 | 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $111,057 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $81,636 | — | ⏳ Pendiente |
 | omnibus-076daa | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,358 | -$26,358 | ❌ Perdida |

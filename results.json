@@ -91192,7 +91192,7 @@
     "side": "BUY",
     "usd": 26738.129999999997,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792781666,
     "fills": 1
   },
@@ -91222,7 +91222,7 @@
     "side": "BUY",
     "usd": 26738.129999999997,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792781899,
     "fills": 1
   },
@@ -91237,7 +91237,7 @@
     "side": "BUY",
     "usd": 138844.068,
     "odds_at_bet": 30,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792781981,
     "fills": 1
   },
@@ -91520,11 +91520,11 @@
     "title": "LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "usd": 146915.4914,
-    "odds_at_bet": 64,
+    "usd": 254300.2371,
+    "odds_at_bet": 65,
     "status": "pending",
-    "ultimo_fill": 1792790223,
-    "fills": 3
+    "ultimo_fill": 1792790257,
+    "fills": 5
   },
   {
     "telegram_msg_id": 12386,
