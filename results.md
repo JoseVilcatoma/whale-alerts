@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 15:08:26 (hora de Perú)
+Actualizado: 2026-10-23 15:10:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6079**  ($338,786,170 en total)
+- Apuestas registradas: **6080**  ($338,826,037 en total)
 - Resueltas: **6025** — 3690 ganadas / 2335 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 616
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| Lakersfan111 | 66 | 44 | 4 | 60% | $5,600,953 | -$42,389 |
+| Lakersfan111 | 66 | 44 | 5 | 60% | $5,640,821 | -$42,389 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
 | BrotherObama | 45 | 50 | 3 | 47% | $4,341,370 | -$144,788 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YYYYY999 | Mavericks vs. Pacers | Mavericks | 3.23 (31¢) | $39,867 | — | ⏳ Pendiente |
 | BrotherObama | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $44,956 | — | ⏳ Pendiente |
 | 778908 | European Open: Jan-Lennard Struff vs Zizou Bergs | Jan-Lennard Struff | 1.79 (56¢) | $31,952 | — | ⏳ Pendiente |
 | ferrariChampions2026 | European Open: Jan-Lennard Struff vs Zizou Bergs | Zizou Bergs | 2.27 (44¢) | $25,110 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | 76ers | 1.09 (92¢) | $29,117 | +$2,532 | ✅ Ganada |
 | Zzzz87 | Utah vs. Kraken | Utah | 1.56 (64¢) | $90,669 | -$90,669 | ❌ Perdida |
 | Anon455 | Patriots vs. Bears | Bears | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
-| ethanaz | Spread: 76ers (-5.5) | 76ers | 1.96 (51¢) | $32,184 | +$30,922 | ✅ Ganada |
