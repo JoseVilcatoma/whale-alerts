@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 15:18:44 (hora de Perú)
+Actualizado: 2026-10-23 15:20:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6084**  ($339,127,169 en total)
+- Apuestas registradas: **6085**  ($339,175,763 en total)
 - Resueltas: **6025** — 3690 ganadas / 2335 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 616
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 434 | 234 | 3 | 65% | $42,978,590 | +$732,933 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 434 | 234 | 4 | 65% | $43,027,184 | +$732,933 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks: O/U 236.5 | Over 236.5 | 1.79 (56¢) | $48,594 | — | ⏳ Pendiente |
 | Netrol | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | meoooow | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $37,834 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 2.56 (39¢) | $201,608 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | mooseborzoii | Patriots vs. Bears | Patriots | 6.25 (16¢) | $28,372 | -$28,372 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Bears | Bears | 1.33 (75¢) | $36,349 | +$12,116 | ✅ Ganada |
 | Anon455 | Patriots vs. Bears | Bears | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
-| Anon455 | Patriots vs. Bears | Bears | 1.35 (74¢) | $29,600 | +$10,400 | ✅ Ganada |
