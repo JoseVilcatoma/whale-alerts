@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 15:55:04 (hora de Perú)
+Actualizado: 2026-10-23 15:57:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6086**  ($339,209,363 en total)
+- Apuestas registradas: **6087**  ($339,269,739 en total)
 - Resueltas: **6028** — 3690 ganadas / 2338 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bluemario | CA Gimnasia y Esgrima de Mendoza vs. CA Platense: O/U 2.5 | Under 2.5 | 1.67 (60¢) | $60,377 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks: O/U 236.5 | Over 236.5 | 1.79 (56¢) | $48,594 | — | ⏳ Pendiente |
 | Netrol | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | CHZHSHCH | Nuggets vs. Thunder | Nuggets | 2.08 (48¢) | $31,558 | -$19,066 | 💰 Vendida antes |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.37 (73¢) | $31,153 | +$11,522 | ✅ Ganada |
 | mooseborzoii | Patriots vs. Bears | Patriots | 6.25 (16¢) | $28,372 | -$28,372 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Bears | Bears | 1.33 (75¢) | $36,349 | +$12,116 | ✅ Ganada |
