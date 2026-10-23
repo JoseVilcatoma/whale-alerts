@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 22:12:17 (hora de Perú)
+Actualizado: 2026-10-22 22:14:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6034**  ($336,661,257 en total)
+- Apuestas registradas: **6034**  ($336,755,065 en total)
 - Resueltas: **5974** — 3648 ganadas / 2326 perdidas (**61%** de acierto)
 - Pendientes: 38
 - Apostadores distintos: 615
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 83 | 83 | 3 | 50% | $10,362,110 | -$1,013,881 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| mooseborzoii | 73 | 41 | 8 | 64% | $7,068,833 | +$1,020,551 |
+| mooseborzoii | 73 | 41 | 8 | 64% | $7,162,641 | +$1,020,551 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | 3edmond.dantes | 31 | 20 | 0 | 61% | $6,944,675 | -$1,144,994 |
 | ferrariChampions2026 | 98 | 48 | 2 | 67% | $6,522,923 | +$157,963 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| mooseborzoii | Patriots vs. Bears | Bears | 1.16 (86¢) | $38,347 | — | ⏳ Pendiente |
+| mooseborzoii | Patriots vs. Bears | Bears | 1.18 (85¢) | $132,155 | — | ⏳ Pendiente |
 | Anon455 | Patriots vs. Bears | Bears | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.96 (51¢) | $190,236 | — | ⏳ Pendiente |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.52 (66¢) | $85,621 | — | ⏳ Pendiente |
