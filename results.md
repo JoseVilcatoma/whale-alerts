@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 15:57:05 (hora de Perú)
+Actualizado: 2026-10-23 15:59:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6087**  ($339,269,739 en total)
-- Resueltas: **6028** — 3690 ganadas / 2338 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Resueltas: **6029** — 3691 ganadas / 2338 perdidas (**61%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,135,708** sobre $336,615,035 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,544** sobre $594,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,119,658** sobre $336,705,985 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,527** sobre $594,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| S-Works | 13 | 5 | 1 | 72% | $2,091,761 | -$114,948 |
+| S-Works | 14 | 5 | 0 | 74% | $2,091,761 | -$98,898 |
 | Talvez10 | 24 | 18 | 2 | 57% | $2,070,456 | +$377,201 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Donkey14 | Knicks vs. Celtics | Celtics | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
 | EdZachary | Bulls vs. Bucks | Bucks | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.20 (83¢) | $82,959 | -$82,959 | ❌ Perdida |
-| S-Works | Torino FC vs. AC Monza: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $90,950 | — | ⏳ Pendiente |
+| S-Works | Torino FC vs. AC Monza: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $90,950 | +$16,050 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $32,800 | -$32,800 | ❌ Perdida |
 | meoooow | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $31,241 | -$31,241 | ❌ Perdida |
 | omnibus-076daa | Will Ipswich Town FC win on 2026-10-23? | Yes | 3.33 (30¢) | $138,844 | — | ⏳ Pendiente |
