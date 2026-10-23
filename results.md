@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 02:36:11 (hora de Perú)
+Actualizado: 2026-10-23 02:38:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6043**  ($337,143,468 en total)
-- Resueltas: **6014** — 3681 ganadas / 2333 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **6016** — 3683 ganadas / 2333 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,053,559** sobre $335,954,839 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,332** sobre $593,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,041,104** sobre $336,017,747 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,292** sobre $593,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 433 | 234 | 4 | 65% | $42,978,590 | +$726,192 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 434 | 234 | 3 | 65% | $42,978,590 | +$732,933 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,9 +71,9 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Guangzhou 2: Yi Zhou vs Andre Ilagan | Yi Zhou | 1.20 (83¢) | $32,907 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Guangzhou 2: Yi Zhou vs Andre Ilagan | Yi Zhou | 1.20 (83¢) | $32,907 | +$6,740 | ✅ Ganada |
 | itwillallbeok | Raptors vs. Wizards | Raptors | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
-| 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Guangzhou 2: Yi Zhou vs Andre Ilagan | Yi Zhou | 1.19 (84¢) | $30,000 | — | ⏳ Pendiente |
+| 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Guangzhou 2: Yi Zhou vs Andre Ilagan | Yi Zhou | 1.19 (84¢) | $30,000 | +$5,714 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Talia Gibson vs Ashlyn Krueger | Talia Gibson | 2.38 (42¢) | $27,677 | -$27,677 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.10 (91¢) | $39,551 | +$3,912 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-8.5) | Thunder | 1.96 (51¢) | $88,515 | +$85,044 | ✅ Ganada |
