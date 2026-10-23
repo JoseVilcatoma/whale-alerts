@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 22:35:02 (hora de Perú)
+Actualizado: 2026-10-22 22:37:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6034**  ($336,755,065 en total)
+- Apuestas registradas: **6035**  ($336,782,978 en total)
 - Resueltas: **5976** — 3650 ganadas / 2326 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 615
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Lakersfan111 | 66 | 44 | 0 | 60% | $5,446,811 | -$42,389 |
-| ethanaz | 58 | 24 | 1 | 71% | $5,072,275 | -$175,754 |
+| ethanaz | 58 | 24 | 2 | 71% | $5,100,188 | -$175,754 |
 | BrotherObama | 45 | 49 | 3 | 48% | $4,296,413 | -$107,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Nuggets vs. Thunder | Thunder | 1.35 (74¢) | $27,913 | — | ⏳ Pendiente |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.18 (85¢) | $132,155 | — | ⏳ Pendiente |
 | Anon455 | Patriots vs. Bears | Bears | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.96 (51¢) | $190,236 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Bournemouth win on 2026-10-22? | No | 2.17 (46¢) | $32,200 | -$32,200 | ❌ Perdida |
 | mooseborzoii | Jets vs. Stars | Stars | 1.56 (64¢) | $26,724 | +$15,032 | ✅ Ganada |
 | jonjones1993 | Will AFC Bournemouth win on 2026-10-22? | Yes | 1.85 (54¢) | $253,800 | +$216,200 | ✅ Ganada |
-| mooseborzoii | Spread: Thunder (-8.5) | Nuggets | 1.96 (51¢) | $49,886 | — | ⏳ Pendiente |
