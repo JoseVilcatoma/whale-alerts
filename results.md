@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 19:35:12 (hora de Perú)
+Actualizado: 2026-10-22 19:37:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6009**  ($334,796,670 en total)
+- Apuestas registradas: **6010**  ($335,267,699 en total)
 - Resueltas: **5945** — 3640 ganadas / 2305 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 615
 
 ### Balance
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| dhgreg | Cavaliers vs. 76ers | Cavaliers | 1.08 (93¢) | $125,406 | — | ⏳ Pendiente |
+| Anon455 | Patriots vs. Bears | Bears | 1.47 (68¢) | $27,200 | — | ⏳ Pendiente |
+| dhgreg | Cavaliers vs. 76ers | Cavaliers | 1.10 (91¢) | $569,235 | — | ⏳ Pendiente |
 | milkteaboba | Patriots vs. Bears | Bears | 1.43 (70¢) | $35,244 | — | ⏳ Pendiente |
 | bluemario | CR Flamengo vs. Estudiantes de La Plata: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $60,012 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Patriots vs. Bears | Bears | 1.54 (65¢) | $31,829 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 4.5 | Under 4.5 | 1.08 (93¢) | $95,909 | +$7,219 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AS Omónoia Leukosías win on 2026-10-22? | No | 1.11 (90¢) | $92,040 | +$10,227 | ✅ Ganada |
 | bluemario | Al Hazem SC vs. Al Fayha Saudi Club: O/U 3.5 | Under 3.5 | 1.52 (66¢) | $134,523 | -$134,523 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Fateh Saudi Club vs. Al Shabab Saudi Club: O/U 2.5 | Over 2.5 | 1.11 (90¢) | $358,000 | +$39,778 | ✅ Ganada |

@@ -90316,10 +90316,25 @@
     "title": "Cavaliers vs. 76ers",
     "outcome": "Cavaliers",
     "side": "BUY",
-    "usd": 125406.29640000002,
-    "odds_at_bet": 93,
+    "usd": 569234.8905000001,
+    "odds_at_bet": 91,
     "status": "pending",
-    "ultimo_fill": 1792715665,
+    "ultimo_fill": 1792715720,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 12215,
+    "timestamp": 1792715784,
+    "username": "Anon455",
+    "wallet": "0x496121ba250d47b62c2d84b3414a99aeeacade13",
+    "slug": "nfl-ne-chi-2026-10-23",
+    "title": "Patriots vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 27200.000000000004,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1792715784,
     "fills": 1
   }
 ]
