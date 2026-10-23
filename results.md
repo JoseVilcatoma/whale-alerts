@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 18:34:15 (hora de Perú)
+Actualizado: 2026-10-23 18:36:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6120**  ($341,947,758 en total)
+- Apuestas registradas: **6121**  ($342,125,194 en total)
 - Resueltas: **6053** — 3703 ganadas / 2350 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 617
 
 ### Balance
@@ -42,8 +42,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 45 | 50 | 3 | 47% | $4,341,370 | -$144,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
+| googleplay | 12 | 14 | 3 | 46% | $3,645,219 | -$881,509 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
-| googleplay | 12 | 14 | 2 | 46% | $3,467,783 | -$881,509 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Pistons vs. Heat | Pistons | 1.85 (54¢) | $177,436 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.11 (90¢) | $56,453 | — | ⏳ Pendiente |
 | bluemario | Cruzeiro EC vs. Clube do Remo: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $101,544 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Lakers: O/U 225.5 | Under 225.5 | 2.00 (50¢) | $37,927 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | robustmst | Lyon Open: Flavio Cobolli vs Brandon Nakashima | Flavio Cobolli | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs Top Esports (BO1) - Worlds Group Stage | Top Esports | 4.17 (24¢) | $30,850 | -$30,850 | ❌ Perdida |
 | fraagen | Stade Brestois 29 vs. OGC Nice: O/U 9.5 Total Corners | Under 9.5 Total Corners | 1.85 (54¢) | $26,998 | -$26,998 | ❌ Perdida |
-| monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
