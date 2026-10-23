@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 18:05:28 (hora de Perú)
+Actualizado: 2026-10-23 18:07:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6112**  ($341,476,219 en total)
+- Apuestas registradas: **6113**  ($341,523,734 en total)
 - Resueltas: **6053** — 3703 ganadas / 2350 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 617
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 437 | 234 | 5 | 65% | $43,424,431 | +$1,061,856 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 437 | 234 | 6 | 65% | $43,471,945 | +$1,061,856 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $47,514 | — | ⏳ Pendiente |
 | bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $50,000 | — | ⏳ Pendiente |
 | para-Vision | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | 778908 | North Carolina Central vs. Delaware State | North Carolina Central | 1.72 (58¢) | $127,348 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Trail Blazers vs. Kings: O/U 233.5 | Over 233.5 | 2.00 (50¢) | $25,800 | — | ⏳ Pendiente |
 | retordedgremlin125 | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.30 (77¢) | $35,487 | +$10,600 | ✅ Ganada |
 | 778908 | Lyon Open: Daniel Altmaier vs Taylor Fritz | Taylor Fritz | 1.23 (81¢) | $130,754 | +$30,671 | ✅ Ganada |
-| Elaran1993 | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $35,825 | — | ⏳ Pendiente |

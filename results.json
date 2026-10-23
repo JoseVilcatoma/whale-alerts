@@ -91870,5 +91870,20 @@
     "status": "pending",
     "ultimo_fill": 1792796542,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12429,
+    "timestamp": 1792796815,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-tor-was-2026-10-23-spread-away-8pt5",
+    "title": "Spread: Raptors (-8.5)",
+    "outcome": "Wizards",
+    "side": "BUY",
+    "usd": 47514.32,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792796815,
+    "fills": 1
   }
 ]
