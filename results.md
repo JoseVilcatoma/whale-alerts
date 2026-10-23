@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 14:08:45 (hora de Perú)
+Actualizado: 2026-10-23 14:10:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6071**  ($338,425,488 en total)
+- Apuestas registradas: **6072**  ($338,458,288 en total)
 - Resueltas: **6023** — 3689 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $32,800 | — | ⏳ Pendiente |
 | meoooow | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $31,241 | — | ⏳ Pendiente |
 | omnibus-076daa | Will Ipswich Town FC win on 2026-10-23? | Yes | 3.33 (30¢) | $138,844 | — | ⏳ Pendiente |
 | UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | mooseborzoii | Patriots vs. Bears | Bears | 1.45 (69¢) | $64,161 | +$28,826 | ✅ Ganada |
 | Anon455 | Patriots vs. Bears | Bears | 1.41 (71¢) | $56,800 | +$23,200 | ✅ Ganada |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.47 (68¢) | $126,202 | +$59,389 | ✅ Ganada |
-| ferrariChampions2026 | Patriots vs. Bears | Bears | 1.43 (70¢) | $46,721 | +$20,023 | ✅ Ganada |
