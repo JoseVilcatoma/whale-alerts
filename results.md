@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 21:28:33 (hora de Perú)
+Actualizado: 2026-10-22 21:30:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6029**  ($336,287,895 en total)
+- Apuestas registradas: **6030**  ($336,319,453 en total)
 - Resueltas: **5972** — 3647 ganadas / 2325 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 615
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CHZHSHCH | Nuggets vs. Thunder | Nuggets | 2.08 (48¢) | $31,558 | — | ⏳ Pendiente |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.37 (73¢) | $31,153 | — | ⏳ Pendiente |
 | mooseborzoii | Patriots vs. Bears | Patriots | 6.25 (16¢) | $28,372 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Bears | Bears | 1.33 (75¢) | $36,349 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.61 (62¢) | $30,380 | -$30,380 | ❌ Perdida |
 | mooseborzoii | Will TSG 1899 Hoffenheim win on 2026-10-22? | No | 2.13 (47¢) | $55,000 | -$55,000 | ❌ Perdida |
 | 3edmond.dantes | Will TSG 1899 Hoffenheim win on 2026-10-22? | Yes | 1.82 (55¢) | $106,647 | +$87,257 | ✅ Ganada |
-| thistime214 | Cavaliers vs. 76ers: O/U 232.5 | Over 232.5 | 1.67 (60¢) | $29,997 | -$29,997 | ❌ Perdida |

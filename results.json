@@ -90621,5 +90621,20 @@
     "status": "pending",
     "ultimo_fill": 1792722341,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12262,
+    "timestamp": 1792722568,
+    "username": "CHZHSHCH",
+    "wallet": "0x385edd359037625b95dd057794ba3ea25a9c40ce",
+    "slug": "nba-den-okc-2026-10-22",
+    "title": "Nuggets vs. Thunder",
+    "outcome": "Nuggets",
+    "side": "BUY",
+    "usd": 31557.6288,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1792722568,
+    "fills": 1
   }
 ]
