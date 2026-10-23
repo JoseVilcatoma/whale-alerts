@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 00:10:42 (hora de Perú)
+Actualizado: 2026-10-23 00:12:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6040**  ($337,052,960 en total)
-- Resueltas: **6011** — 3681 ganadas / 2330 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **6012** — 3681 ganadas / 2331 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$898,213** sobre $335,799,493 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$5,032** sobre $592,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$988,882** sobre $335,890,163 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,132** sobre $592,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Anon455 | Patriots vs. Bears | Bears | 1.35 (74¢) | $29,600 | +$10,400 | ✅ Ganada |
 | ethanaz | Spread: Thunder (-8.5) | Thunder | 2.08 (48¢) | $26,610 | +$28,827 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | 76ers | 1.09 (92¢) | $29,117 | +$2,532 | ✅ Ganada |
-| Zzzz87 | Utah vs. Kraken | Utah | 1.56 (64¢) | $90,669 | — | ⏳ Pendiente |
+| Zzzz87 | Utah vs. Kraken | Utah | 1.56 (64¢) | $90,669 | -$90,669 | ❌ Perdida |
 | Anon455 | Patriots vs. Bears | Bears | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
 | ethanaz | Spread: 76ers (-5.5) | 76ers | 1.96 (51¢) | $32,184 | +$30,922 | ✅ Ganada |
 | Nooserac | Spread: 76ers (-5.5) | 76ers | 1.96 (51¢) | $50,600 | +$48,616 | ✅ Ganada |
