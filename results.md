@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 21:01:25 (hora de Perú)
+Actualizado: 2026-10-22 21:03:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6025**  ($336,162,021 en total)
-- Resueltas: **5947** — 3641 ganadas / 2306 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Resueltas: **5951** — 3643 ganadas / 2308 perdidas (**61%** de acierto)
+- Pendientes: 52
 - Apostadores distintos: 615
 
 ### Balance
 
-- **Resultado de los apostadores: -$19,697** sobre $331,405,822 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,989** sobre $586,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$79,099** sobre $331,623,019 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,935** sobre $586,800 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,12 +25,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 427 | 229 | 9 | 65% | $42,563,355 | +$814,049 |
-| Sassy-Bucket | 83 | 80 | 6 | 51% | $10,362,110 | -$839,858 |
+| Sassy-Bucket | 83 | 82 | 4 | 50% | $10,362,110 | -$987,626 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 1 | 51% | $7,445,993 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | 3edmond.dantes | 31 | 20 | 0 | 61% | $6,944,675 | -$1,144,994 |
-| mooseborzoii | 71 | 41 | 6 | 63% | $6,885,340 | +$958,949 |
+| mooseborzoii | 72 | 41 | 5 | 64% | $6,885,340 | +$1,005,519 |
 | ferrariChampions2026 | 98 | 48 | 2 | 67% | $6,522,923 | +$157,963 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
@@ -107,9 +107,9 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | googleplay | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $388,692 | — | ⏳ Pendiente |
 | www511zwin | Spread: 76ers (-2.5) | Cavaliers | 1.96 (51¢) | $102,926 | — | ⏳ Pendiente |
 | justwins | Cavaliers vs. 76ers: O/U 236.5 | Over 236.5 | 1.92 (52¢) | $27,365 | — | ⏳ Pendiente |
-| Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $56,018 | — | ⏳ Pendiente |
-| mooseborzoii | Sharks vs. Senators | Sharks | 2.27 (44¢) | $36,591 | — | ⏳ Pendiente |
-| Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $91,749 | — | ⏳ Pendiente |
+| Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $56,018 | -$56,018 | ❌ Perdida |
+| mooseborzoii | Sharks vs. Senators | Sharks | 2.27 (44¢) | $36,591 | +$46,570 | ✅ Ganada |
+| Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $91,749 | -$91,749 | ❌ Perdida |
 | FeedTheBigBird | Ducks vs. Devils | Devils | 1.52 (66¢) | $26,400 | +$13,600 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Memphis (-10.5) | East Carolina | 2.00 (50¢) | $26,463 | — | ⏳ Pendiente |
 | kuwkuw | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
