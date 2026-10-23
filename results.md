@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 01:14:07 (hora de Perú)
+Actualizado: 2026-10-23 01:16:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6041**  ($337,082,960 en total)
+- Apuestas registradas: **6042**  ($337,110,560 en total)
 - Resueltas: **6013** — 3681 ganadas / 2332 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| itwillallbeok | Raptors vs. Wizards | Raptors | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Guangzhou 2: Yi Zhou vs Andre Ilagan | Yi Zhou | 1.19 (84¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Talia Gibson vs Ashlyn Krueger | Talia Gibson | 2.38 (42¢) | $27,677 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.10 (91¢) | $39,551 | +$3,912 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Memphis (-10.5) | East Carolina | 2.00 (50¢) | $26,463 | +$26,463 | ✅ Ganada |
 | kuwkuw | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $34,000 | +$6,000 | ✅ Ganada |
 | kalmal | W15 Bol: Eliska Tichackova vs Andrea Obradovic | Eliska Tichackova | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
-| Jacdoh | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $59,500 | +$10,500 | ✅ Ganada |
