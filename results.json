@@ -90920,7 +90920,7 @@
     "side": "BUY",
     "usd": 33715.682,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792760425,
     "fills": 1
   },
@@ -91312,7 +91312,7 @@
     "side": "BUY",
     "usd": 26500.0,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792782815,
     "fills": 1
   },
@@ -91552,7 +91552,7 @@
     "side": "BUY",
     "usd": 28313.021499999995,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792791628,
     "fills": 1
   },
@@ -91612,7 +91612,7 @@
     "side": "BUY",
     "usd": 250000.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792794442,
     "fills": 2
   },
@@ -91854,6 +91854,21 @@
     "odds_at_bet": 56,
     "status": "pending",
     "ultimo_fill": 1792796479,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12428,
+    "timestamp": 1792796542,
+    "username": "bluemol",
+    "wallet": "0x664e438f9e05b2c4ee225755ee993223c0bae82a",
+    "slug": "lol-los-t1-2026-10-23",
+    "title": "LoL: LOS vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 50000.0,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1792796542,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 18:01:25 (hora de Perú)
+Actualizado: 2026-10-23 18:03:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6111**  ($341,426,219 en total)
-- Resueltas: **6049** — 3701 ganadas / 2348 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Apuestas registradas: **6112**  ($341,476,219 en total)
+- Resueltas: **6053** — 3703 ganadas / 2350 perdidas (**61%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 617
 
 ### Balance
 
-- **Resultado de los apostadores: -$807,559** sobre $337,991,690 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,739** sobre $596,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$577,031** sobre $338,330,219 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,695** sobre $596,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 435 | 234 | 7 | 65% | $43,424,431 | +$771,113 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 437 | 234 | 5 | 65% | $43,424,431 | +$1,061,856 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| Lakersfan111 | 66 | 44 | 5 | 60% | $5,640,821 | -$42,389 |
+| Lakersfan111 | 66 | 45 | 4 | 59% | $5,640,821 | -$76,104 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
 | BrotherObama | 45 | 50 | 3 | 47% | $4,341,370 | -$144,788 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $50,000 | — | ⏳ Pendiente |
 | para-Vision | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | 778908 | North Carolina Central vs. Delaware State | North Carolina Central | 1.72 (58¢) | $127,348 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Magic (-1.5) | Magic | 1.92 (52¢) | $57,192 | — | ⏳ Pendiente |
@@ -87,11 +88,11 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | Talvez10 | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $48,780 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Lyon Open: Luca Van Assche vs Lorenzo Musetti | Luca Van Assche | 1.39 (72¢) | $42,284 | — | ⏳ Pendiente |
 | googleplay | Mavericks vs. Pacers: O/U 240.5 | Over 240.5 | 1.92 (52¢) | $28,121 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.00 (50¢) | $250,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.00 (50¢) | $250,000 | +$250,000 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $29,200 | — | ⏳ Pendiente |
 | beeemw | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $37,875 | — | ⏳ Pendiente |
 | bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.14 (88¢) | $34,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.44 (41¢) | $28,313 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.44 (41¢) | $28,313 | +$40,743 | ✅ Ganada |
 | zb8 | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.49 (67¢) | $57,284 | +$28,214 | ✅ Ganada |
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.54 (65¢) | $254,300 | +$136,931 | ✅ Ganada |
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | G2 Esports | 2.50 (40¢) | $40,000 | -$40,000 | ❌ Perdida |
@@ -107,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | 778908 | European Open: Jan-Lennard Struff vs Zizou Bergs | Jan-Lennard Struff | 1.79 (56¢) | $31,952 | +$25,105 | ✅ Ganada |
 | ferrariChampions2026 | European Open: Jan-Lennard Struff vs Zizou Bergs | Zizou Bergs | 2.27 (44¢) | $25,110 | -$25,110 | ❌ Perdida |
 | Donkey14 | Knicks vs. Celtics | Celtics | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
-| EdZachary | Bulls vs. Bucks | Bucks | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| EdZachary | Bulls vs. Bucks | Bucks | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | Mooseborzoiii | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.20 (83¢) | $82,959 | -$82,959 | ❌ Perdida |
 | S-Works | Torino FC vs. AC Monza: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $90,950 | +$16,050 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $32,800 | -$32,800 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | retordedgremlin125 | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.30 (77¢) | $35,487 | +$10,600 | ✅ Ganada |
 | 778908 | Lyon Open: Daniel Altmaier vs Taylor Fritz | Taylor Fritz | 1.23 (81¢) | $130,754 | +$30,671 | ✅ Ganada |
 | Elaran1993 | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $35,825 | — | ⏳ Pendiente |
-| Talvez10 | Knicks vs. Celtics | Knicks | 2.22 (45¢) | $33,004 | — | ⏳ Pendiente |
