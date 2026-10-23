@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 20:44:56 (hora de Perú)
+Actualizado: 2026-10-22 20:46:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6022**  ($336,076,695 en total)
+- Apuestas registradas: **6023**  ($336,105,812 en total)
 - Resueltas: **5945** — 3640 ganadas / 2305 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 615
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 427 | 229 | 8 | 65% | $42,534,238 | +$814,049 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 427 | 229 | 9 | 65% | $42,563,355 | +$814,049 |
 | Sassy-Bucket | 83 | 79 | 7 | 51% | $10,362,110 | -$808,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 1 | 51% | $7,445,993 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | 76ers | 1.09 (92¢) | $29,117 | — | ⏳ Pendiente |
 | Zzzz87 | Utah vs. Kraken | Utah | 1.56 (64¢) | $90,669 | — | ⏳ Pendiente |
 | Anon455 | Patriots vs. Bears | Bears | 1.22 (82¢) | $32,800 | — | ⏳ Pendiente |
 | ethanaz | Spread: 76ers (-5.5) | 76ers | 1.96 (51¢) | $32,184 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | 778908 | Lyon Open: Flavio Cobolli vs Stan Wawrinka | Flavio Cobolli | 1.10 (91¢) | $109,200 | +$10,800 | ✅ Ganada |
 | rabbitfoot1 | Sharks vs. Senators | Sharks | 2.27 (44¢) | $32,839 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | KKS Lech Poznań vs. Sunderland AFC: O/U 2.5 | Over 2.5 | 1.28 (78¢) | $191,038 | -$191,038 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lyon Open: Kyrian Jacquet vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $37,200 | +$22,800 | ✅ Ganada |
