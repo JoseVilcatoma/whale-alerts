@@ -90391,10 +90391,25 @@
     "title": "Patriots vs. Bears",
     "outcome": "Bears",
     "side": "BUY",
-    "usd": 27599.999999999996,
+    "usd": 56800.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1792717740,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 12220,
+    "timestamp": 1792717684,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-ne-chi-2026-10-23",
+    "title": "Patriots vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 64160.99549999999,
     "odds_at_bet": 69,
     "status": "pending",
-    "ultimo_fill": 1792717661,
+    "ultimo_fill": 1792717684,
     "fills": 1
   }
 ]
