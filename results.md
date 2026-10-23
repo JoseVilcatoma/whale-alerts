@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 22:33:02 (hora de Perú)
+Actualizado: 2026-10-22 22:35:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6034**  ($336,755,065 en total)
-- Resueltas: **5974** — 3648 ganadas / 2326 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **5976** — 3650 ganadas / 2326 perdidas (**61%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 615
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,826,232** sobre $333,701,474 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$6,377** sobre $589,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$1,719,825** sobre $333,809,813 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,181** sobre $589,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -104,8 +104,8 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 1.09 (92¢) | $42,559 | -$42,559 | ❌ Perdida |
 | Sassy-Bucket | Patriots vs. Bears | Patriots | 2.44 (41¢) | $27,456 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 1.08 (93¢) | $82,156 | -$82,156 | ❌ Perdida |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Patriots vs. Bears: O/U 50.5 | Over 50.5 | 1.96 (51¢) | $49,276 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Patriots vs. Bears: O/U 50.5 | Over 50.5 | 2.00 (50¢) | $59,064 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Patriots vs. Bears: O/U 50.5 | Over 50.5 | 1.96 (51¢) | $49,276 | +$47,344 | ✅ Ganada |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Patriots vs. Bears: O/U 50.5 | Over 50.5 | 2.00 (50¢) | $59,064 | +$59,064 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $34,222 | -$34,222 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $220,000 | -$220,000 | ❌ Perdida |
 | Sassy-Bucket | Ducks vs. Devils | Ducks | 2.94 (34¢) | $31,620 | -$31,620 | ❌ Perdida |
