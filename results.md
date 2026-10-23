@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-22 20:22:20 (hora de Perú)
+Actualizado: 2026-10-22 20:24:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6015**  ($335,611,449 en total)
+- Apuestas registradas: **6016**  ($335,658,834 en total)
 - Resueltas: **5945** — 3640 ganadas / 2305 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 615
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 427 | 229 | 7 | 65% | $42,486,854 | +$814,049 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 427 | 229 | 8 | 65% | $42,534,238 | +$814,049 |
 | Sassy-Bucket | 83 | 79 | 7 | 51% | $10,362,110 | -$808,238 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 89 | 1 | 51% | $7,445,993 | -$627,445 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Bears | Bears | 1.52 (66¢) | $47,384 | — | ⏳ Pendiente |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.45 (69¢) | $64,161 | — | ⏳ Pendiente |
 | Anon455 | Patriots vs. Bears | Bears | 1.41 (71¢) | $56,800 | — | ⏳ Pendiente |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.47 (68¢) | $126,202 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 615 en total)_
 | 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.72 (58¢) | $60,900 | +$44,100 | ✅ Ganada |
 | 3edmond.dantes | Will Olympique de Marseille win on 2026-10-22? | No | 1.75 (57¢) | $56,999 | +$43,000 | ✅ Ganada |
 | bluemario | KKS Lech Poznań vs. Sunderland AFC: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $240,335 | +$88,544 | 💰 Vendida antes |
-| beeemw | Will Stade Rennais FC 1901 win on 2026-10-22? | No | 1.14 (88¢) | $39,092 | -$12,883 | 💰 Vendida antes |
