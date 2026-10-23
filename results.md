@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 17:57:20 (hora de Perú)
+Actualizado: 2026-10-23 17:59:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6107**  ($341,179,456 en total)
+- Apuestas registradas: **6109**  ($341,270,871 en total)
 - Resueltas: **6049** — 3701 ganadas / 2348 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 38
 - Apostadores distintos: 617
 
 ### Balance
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Talvez10 | 24 | 18 | 3 | 57% | $2,119,237 | +$377,201 |
+| Talvez10 | 24 | 18 | 4 | 57% | $2,176,429 | +$377,201 |
 | S-Works | 14 | 5 | 0 | 74% | $2,091,761 | -$98,898 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Spread: Magic (-1.5) | Magic | 1.92 (52¢) | $57,192 | — | ⏳ Pendiente |
+| Kkunn | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $34,223 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-2.5) | Knicks | 2.08 (48¢) | $79,701 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $29,944 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Magic (-1.5) | Timberwolves | 2.04 (49¢) | $39,233 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | Talvez10 | Knicks vs. Celtics | Knicks | 2.22 (45¢) | $33,004 | — | ⏳ Pendiente |
 | Talvez10 | Pelicans vs. Jazz | Pelicans | 2.00 (50¢) | $36,887 | — | ⏳ Pendiente |
 | rabbitfoot1 | Torino FC vs. AC Monza: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $28,277 | -$28,277 | ❌ Perdida |
-| YYYYY999 | Bulls vs. Bucks | Bucks | 1.92 (52¢) | $33,716 | — | ⏳ Pendiente |
-| YYYYY999 | Pistons vs. Heat | Pistons | 1.92 (52¢) | $61,760 | — | ⏳ Pendiente |
