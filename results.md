@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 08:59:23 (hora de Perú)
+Actualizado: 2026-10-23 09:01:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6051**  ($337,417,884 en total)
+- Apuestas registradas: **6052**  ($337,450,888 en total)
 - Resueltas: **6017** — 3684 ganadas / 2333 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 616
 
 ### Balance
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Talvez10 | 24 | 18 | 1 | 57% | $2,037,452 | +$377,201 |
+| Talvez10 | 24 | 18 | 2 | 57% | $2,070,456 | +$377,201 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Knicks vs. Celtics | Knicks | 2.22 (45¢) | $33,004 | — | ⏳ Pendiente |
 | Talvez10 | Pelicans vs. Jazz | Pelicans | 2.00 (50¢) | $36,887 | — | ⏳ Pendiente |
 | rabbitfoot1 | Torino FC vs. AC Monza: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $28,277 | — | ⏳ Pendiente |
 | YYYYY999 | Bulls vs. Bucks | Bucks | 1.92 (52¢) | $33,716 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | googleplay | Cavaliers vs. 76ers | Cavaliers | 2.17 (46¢) | $138,000 | -$138,000 | ❌ Perdida |
 | Sassy-Bucket | Kings vs. Islanders | Islanders | 2.04 (49¢) | $26,255 | -$26,255 | ❌ Perdida |
 | Talvez10 | Red Wings vs. Canucks | Red Wings | 1.64 (61¢) | $83,076 | +$53,114 | ✅ Ganada |
-| googleplay | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $388,692 | -$388,692 | ❌ Perdida |

@@ -90953,5 +90953,20 @@
     "status": "pending",
     "ultimo_fill": 1792763668,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12328,
+    "timestamp": 1792764058,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "nba-nyk-bos-2026-10-23",
+    "title": "Knicks vs. Celtics",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 33004.1673,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1792764058,
+    "fills": 1
   }
 ]
