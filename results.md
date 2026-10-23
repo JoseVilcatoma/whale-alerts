@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 16:11:21 (hora de Perú)
+Actualizado: 2026-10-23 16:13:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6087**  ($339,269,739 en total)
+- Apuestas registradas: **6088**  ($339,309,739 en total)
 - Resueltas: **6033** — 3692 ganadas / 2341 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 616
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | G2 Esports | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
 | bluemario | CA Gimnasia y Esgrima de Mendoza vs. CA Platense: O/U 2.5 | Under 2.5 | 1.67 (60¢) | $60,377 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks: O/U 236.5 | Over 236.5 | 1.79 (56¢) | $48,594 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | mooseborzoii | Patriots vs. Bears | Bears | 1.52 (66¢) | $85,621 | +$44,108 | ✅ Ganada |
 | CHZHSHCH | Nuggets vs. Thunder | Nuggets | 2.08 (48¢) | $31,558 | -$19,066 | 💰 Vendida antes |
 | mooseborzoii | Patriots vs. Bears | Bears | 1.37 (73¢) | $31,153 | +$11,522 | ✅ Ganada |
-| mooseborzoii | Patriots vs. Bears | Patriots | 6.25 (16¢) | $28,372 | -$28,372 | ❌ Perdida |
