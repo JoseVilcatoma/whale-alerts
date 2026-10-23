@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 00:00:27 (hora de Perú)
+Actualizado: 2026-10-23 00:02:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6039**  ($337,025,283 en total)
+- Apuestas registradas: **6040**  ($337,052,960 en total)
 - Resueltas: **6011** — 3681 ganadas / 2330 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 616
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 433 | 233 | 3 | 65% | $42,918,005 | +$753,869 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 433 | 233 | 4 | 65% | $42,945,682 | +$753,869 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Talia Gibson vs Ashlyn Krueger | Talia Gibson | 2.38 (42¢) | $27,677 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.10 (91¢) | $39,551 | +$3,912 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-8.5) | Thunder | 1.96 (51¢) | $88,515 | +$85,044 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Nuggets vs. Thunder | Thunder | 1.22 (82¢) | $87,767 | +$19,266 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | kalmal | W15 Bol: Eliska Tichackova vs Andrea Obradovic | Eliska Tichackova | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | Jacdoh | M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard | Enzo Aguiard | 1.18 (85¢) | $59,500 | +$10,500 | ✅ Ganada |
 | scootergene | Will Olympique Lyonnais win on 2026-10-22? | No | 1.08 (93¢) | $43,161 | +$3,249 | ✅ Ganada |
-| EdZachary | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $30,800 | -$30,800 | ❌ Perdida |

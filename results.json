@@ -90773,5 +90773,20 @@
     "status": "won",
     "ultimo_fill": 1792728403,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12309,
+    "timestamp": 1792731690,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-gibson-krueger-2026-10-22",
+    "title": "Japan Women's Open: Talia Gibson vs Ashlyn Krueger",
+    "outcome": "Talia Gibson",
+    "side": "BUY",
+    "usd": 27676.756799999996,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1792731690,
+    "fills": 1
   }
 ]
