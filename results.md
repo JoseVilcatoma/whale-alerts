@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 18:54:55 (hora de Perú)
+Actualizado: 2026-10-23 18:56:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6122**  ($342,151,065 en total)
+- Apuestas registradas: **6123**  ($342,180,065 en total)
 - Resueltas: **6057** — 3703 ganadas / 2354 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 617
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vtcchampion52 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | Team Secret Whales | 2.38 (42¢) | $25,871 | — | ⏳ Pendiente |
 | googleplay | Pistons vs. Heat | Pistons | 1.85 (54¢) | $177,436 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.11 (90¢) | $56,453 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $81,636 | +$42,055 | ✅ Ganada |
 | omnibus-076daa | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,358 | -$26,358 | ❌ Perdida |
 | robustmst | Lyon Open: Flavio Cobolli vs Brandon Nakashima | Flavio Cobolli | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
-| Mooseborzoiii | LoL: Hanwha Life Esports vs Top Esports (BO1) - Worlds Group Stage | Top Esports | 4.17 (24¢) | $30,850 | -$30,850 | ❌ Perdida |
