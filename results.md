@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 13:47:33 (hora de Perú)
+Actualizado: 2026-10-23 13:49:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6065**  ($338,009,233 en total)
+- Apuestas registradas: **6066**  ($338,045,613 en total)
 - Resueltas: **6023** — 3689 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 616
 
 ### Balance
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Talvez10 | 24 | 18 | 2 | 57% | $2,070,456 | +$377,201 |
-| S-Works | 13 | 5 | 0 | 72% | $2,000,811 | -$114,948 |
+| S-Works | 13 | 5 | 1 | 72% | $2,037,191 | -$114,948 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | Will Middlesbrough FC win on 2026-10-23? | No | 2.94 (34¢) | $36,380 | — | ⏳ Pendiente |
 | omnibus-076daa | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,358 | — | ⏳ Pendiente |
 | robustmst | Lyon Open: Flavio Cobolli vs Brandon Nakashima | Flavio Cobolli | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs Top Esports (BO1) - Worlds Group Stage | Top Esports | 4.17 (24¢) | $30,850 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | dhgreg | Cavaliers vs. 76ers | Cavaliers | 1.10 (91¢) | $569,235 | -$569,235 | ❌ Perdida |
 | milkteaboba | Patriots vs. Bears | Bears | 1.43 (70¢) | $35,244 | +$15,104 | ✅ Ganada |
 | bluemario | CR Flamengo vs. Estudiantes de La Plata: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $60,012 | +$41,703 | ✅ Ganada |
-| ferrariChampions2026 | Patriots vs. Bears | Bears | 1.54 (65¢) | $31,829 | +$17,139 | ✅ Ganada |
