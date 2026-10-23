@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 12:22:33 (hora de Perú)
+Actualizado: 2026-10-23 12:24:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6058**  ($337,743,243 en total)
+- Apuestas registradas: **6060**  ($337,871,528 en total)
 - Resueltas: **6019** — 3685 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 19
 - Apostadores distintos: 616
 
 ### Balance
@@ -58,8 +58,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Talvez10 | 24 | 18 | 2 | 57% | $2,070,456 | +$377,201 |
+| S-Works | 12 | 5 | 1 | 71% | $2,000,811 | -$157,893 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
-| S-Works | 12 | 5 | 0 | 71% | $1,900,606 | -$157,893 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 | Jsram | 21 | 19 | 0 | 52% | $1,829,321 | -$98,360 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| LlamaEnjoyer | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.39 (72¢) | $28,080 | — | ⏳ Pendiente |
+| S-Works | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.43 (70¢) | $100,205 | — | ⏳ Pendiente |
 | NeverLoseBet | LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage | Gen.G | 1.33 (75¢) | $31,500 | — | ⏳ Pendiente |
 | YYYYY999 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $32,988 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Trail Blazers vs. Kings: O/U 233.5 | Over 233.5 | 2.00 (50¢) | $25,800 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | Sassy-Bucket | Patriots vs. Bears | Patriots | 2.44 (41¢) | $27,456 | -$27,456 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. 76ers | Cavaliers | 1.08 (93¢) | $82,156 | -$82,156 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Patriots vs. Bears: O/U 50.5 | Over 50.5 | 1.96 (51¢) | $49,276 | +$47,344 | ✅ Ganada |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Patriots vs. Bears: O/U 50.5 | Over 50.5 | 2.00 (50¢) | $59,064 | +$59,064 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cavaliers vs. 76ers | Cavaliers | 2.27 (44¢) | $34,222 | -$34,222 | ❌ Perdida |
