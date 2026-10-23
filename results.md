@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 13:54:26 (hora de Perú)
+Actualizado: 2026-10-23 13:56:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6066**  ($338,120,290 en total)
+- Apuestas registradas: **6068**  ($338,228,664 en total)
 - Resueltas: **6023** — 3689 ganadas / 2334 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 23
 - Apostadores distintos: 616
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | mooseborzoii | 78 | 43 | 1 | 64% | $7,162,641 | +$1,109,460 |
-| 3edmond.dantes | 31 | 20 | 1 | 61% | $7,055,732 | -$1,144,994 |
+| 3edmond.dantes | 31 | 20 | 2 | 61% | $7,137,368 | -$1,144,994 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | ferrariChampions2026 | 100 | 48 | 0 | 68% | $6,522,923 | +$195,124 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $111,057 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $81,636 | — | ⏳ Pendiente |
 | omnibus-076daa | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,358 | — | ⏳ Pendiente |
 | robustmst | Lyon Open: Flavio Cobolli vs Brandon Nakashima | Flavio Cobolli | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs Top Esports (BO1) - Worlds Group Stage | Top Esports | 4.17 (24¢) | $30,850 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | milkteaboba | Patriots vs. Bears | Bears | 1.54 (65¢) | $49,867 | +$26,852 | ✅ Ganada |
 | Anon455 | Patriots vs. Bears | Bears | 1.47 (68¢) | $27,200 | +$12,800 | ✅ Ganada |
 | dhgreg | Cavaliers vs. 76ers | Cavaliers | 1.10 (91¢) | $569,235 | -$569,235 | ❌ Perdida |
-| milkteaboba | Patriots vs. Bears | Bears | 1.43 (70¢) | $35,244 | +$15,104 | ✅ Ganada |
-| bluemario | CR Flamengo vs. Estudiantes de La Plata: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $60,012 | +$41,703 | ✅ Ganada |
