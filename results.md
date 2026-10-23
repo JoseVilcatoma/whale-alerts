@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 07:59:35 (hora de Perú)
+Actualizado: 2026-10-23 08:01:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6048**  ($337,319,004 en total)
+- Apuestas registradas: **6049**  ($337,352,720 en total)
 - Resueltas: **6017** — 3684 ganadas / 2333 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 616
 
 ### Balance
@@ -36,8 +36,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
+| Lakersfan111 | 66 | 44 | 3 | 60% | $5,567,965 | -$42,389 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Lakersfan111 | 66 | 44 | 2 | 60% | $5,534,249 | -$42,389 |
 | ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
 | BrotherObama | 45 | 50 | 2 | 47% | $4,296,413 | -$144,788 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YYYYY999 | Bulls vs. Bucks | Bucks | 1.92 (52¢) | $33,716 | — | ⏳ Pendiente |
 | YYYYY999 | Pistons vs. Heat | Pistons | 1.92 (52¢) | $61,760 | — | ⏳ Pendiente |
 | YYYYY999 | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $25,678 | — | ⏳ Pendiente |
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Japan Women's Open: Katie Boulter vs Antonia Ruzic | Katie Boulter | 1.20 (83¢) | $27,411 | +$5,614 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | googleplay | Cavaliers vs. 76ers | Cavaliers | 2.22 (45¢) | $388,692 | -$388,692 | ❌ Perdida |
 | www511zwin | Spread: 76ers (-2.5) | Cavaliers | 1.96 (51¢) | $102,926 | -$102,926 | ❌ Perdida |
 | justwins | Cavaliers vs. 76ers: O/U 236.5 | Over 236.5 | 1.92 (52¢) | $27,365 | -$27,365 | ❌ Perdida |
-| Sassy-Bucket | Sharks vs. Senators | Senators | 1.79 (56¢) | $56,018 | -$56,018 | ❌ Perdida |
