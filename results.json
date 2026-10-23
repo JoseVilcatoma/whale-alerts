@@ -91028,5 +91028,20 @@
     "status": "pending",
     "ultimo_fill": 1792774672,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12335,
+    "timestamp": 1792775345,
+    "username": "YYYYY999",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-tl2-cfo-2026-10-23",
+    "title": "LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 32988.4648,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1792775345,
+    "fills": 1
   }
 ]
