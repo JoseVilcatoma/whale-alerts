@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 16:36:06 (hora de Perú)
+Actualizado: 2026-10-23 16:38:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6090**  ($339,621,324 en total)
-- Resueltas: **6039** — 3695 ganadas / 2344 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **6043** — 3696 ganadas / 2347 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 616
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,285,963** sobre $337,097,687 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$5,780** sobre $595,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$1,070,151** sobre $337,398,819 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,923** sobre $595,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,10 +77,10 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | bluemario | CA Gimnasia y Esgrima de Mendoza vs. CA Platense: O/U 2.5 | Under 2.5 | 1.67 (60¢) | $60,377 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks: O/U 236.5 | Over 236.5 | 1.79 (56¢) | $48,594 | — | ⏳ Pendiente |
-| Netrol | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
-| meoooow | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $37,834 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 2.56 (39¢) | $201,608 | — | ⏳ Pendiente |
-| n0tTODAY | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.52 (66¢) | $30,690 | — | ⏳ Pendiente |
+| Netrol | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
+| meoooow | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $37,834 | -$37,834 | ❌ Perdida |
+| Mooseborzoiii | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 2.56 (39¢) | $201,608 | +$315,335 | ✅ Ganada |
+| n0tTODAY | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.52 (66¢) | $30,690 | -$30,690 | ❌ Perdida |
 | YYYYY999 | Mavericks vs. Pacers | Mavericks | 3.23 (31¢) | $39,867 | — | ⏳ Pendiente |
 | BrotherObama | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $44,956 | — | ⏳ Pendiente |
 | 778908 | European Open: Jan-Lennard Struff vs Zizou Bergs | Jan-Lennard Struff | 1.79 (56¢) | $31,952 | +$25,105 | ✅ Ganada |
