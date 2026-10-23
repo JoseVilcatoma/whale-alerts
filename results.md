@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 17:37:48 (hora de Perú)
+Actualizado: 2026-10-23 17:39:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6097**  ($340,071,117 en total)
+- Apuestas registradas: **6098**  ($340,119,897 en total)
 - Resueltas: **6043** — 3696 ganadas / 2347 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 616
 
 ### Balance
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
+| Talvez10 | 24 | 18 | 3 | 57% | $2,119,237 | +$377,201 |
 | S-Works | 14 | 5 | 0 | 74% | $2,091,761 | -$98,898 |
-| Talvez10 | 24 | 18 | 2 | 57% | $2,070,456 | +$377,201 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $48,780 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Lyon Open: Luca Van Assche vs Lorenzo Musetti | Luca Van Assche | 1.39 (72¢) | $42,284 | — | ⏳ Pendiente |
 | googleplay | Mavericks vs. Pacers: O/U 240.5 | Over 240.5 | 1.92 (52¢) | $28,121 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.00 (50¢) | $250,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 616 en total)_
 | 0x246bE8A4e3805E318801B79AD1Ee1268d5fbFB5b-1773192326048 | Guangzhou 2: Yi Zhou vs Andre Ilagan | Yi Zhou | 1.19 (84¢) | $30,000 | +$5,714 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Talia Gibson vs Ashlyn Krueger | Talia Gibson | 2.38 (42¢) | $27,677 | -$27,677 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Thunder | Thunder | 1.10 (91¢) | $39,551 | +$3,912 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-8.5) | Thunder | 1.96 (51¢) | $88,515 | +$85,044 | ✅ Ganada |
