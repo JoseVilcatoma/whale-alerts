@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 01:47:28 (hora de Perú)
+Actualizado: 2026-10-24 01:49:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6159**  ($344,378,306 en total)
+- Apuestas registradas: **6160**  ($344,414,281 en total)
 - Resueltas: **6127** — 3745 ganadas / 2382 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 619
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| Lakersfan111 | 69 | 46 | 0 | 60% | $5,640,821 | +$45,676 |
+| Lakersfan111 | 69 | 46 | 1 | 60% | $5,676,796 | +$45,676 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
 | BrotherObama | 45 | 51 | 2 | 47% | $4,341,370 | -$189,745 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YYYYY999 | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.85 (54¢) | $35,975 | — | ⏳ Pendiente |
 | Kch-Temp | Will Arsenal FC win on 2026-10-24? | Yes | 1.49 (67¢) | $25,575 | — | ⏳ Pendiente |
 | RJW1 | Will Manchester City FC win on 2026-10-24? | Yes | 1.67 (60¢) | $34,613 | — | ⏳ Pendiente |
 | Woaifacai | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.54 (65¢) | $86,892 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | Jokerxing7 | Spread: Magic (-1.5) | Magic | 1.96 (51¢) | $29,000 | -$29,000 | ❌ Perdida |
 | wanzzz333 | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $49,626 | +$6,134 | ✅ Ganada |
 | dhgreg | Raptors vs. Wizards | Wizards | 3.85 (26¢) | $27,842 | -$27,842 | ❌ Perdida |
-| mooseborzoii | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $50,063 | +$17,590 | ✅ Ganada |
