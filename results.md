@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 19:56:39 (hora de Perú)
+Actualizado: 2026-10-23 19:58:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6132**  ($342,873,894 en total)
+- Apuestas registradas: **6133**  ($342,899,394 en total)
 - Resueltas: **6063** — 3709 ganadas / 2354 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 618
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 618 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| scootergene | Pelicans vs. Jazz: O/U 238.5 | Over 238.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | googleplay | Pelicans vs. Jazz: O/U 238.5 | Under 238.5 | 2.00 (50¢) | $248,760 | — | ⏳ Pendiente |
 | ticklepickles444 | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $38,191 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.06 (94¢) | $33,206 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 618 en total)_
 | Donkey14 | Knicks vs. Celtics | Celtics | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
 | EdZachary | Bulls vs. Bucks | Bucks | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | Mooseborzoiii | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.20 (83¢) | $82,959 | -$82,959 | ❌ Perdida |
-| S-Works | Torino FC vs. AC Monza: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $90,950 | +$16,050 | ✅ Ganada |
