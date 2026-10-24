@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 20:41:55 (hora de Perú)
+Actualizado: 2026-10-23 20:43:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6138**  ($343,258,852 en total)
-- Resueltas: **6069** — 3713 ganadas / 2356 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Resueltas: **6073** — 3717 ganadas / 2356 perdidas (**61%** de acierto)
+- Pendientes: 43
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$612,338** sobre $339,126,134 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,997** sobre $598,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$514,290** sobre $339,252,059 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,686** sobre $598,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | dhgreg | Raptors vs. Wizards | Wizards | 3.70 (27¢) | $81,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $47,514 | — | ⏳ Pendiente |
 | bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
-| para-Vision | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
+| para-Vision | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
 | 778908 | North Carolina Central vs. Delaware State | North Carolina Central | 1.72 (58¢) | $127,348 | +$92,218 | ✅ Ganada |
 | Talvez10 | Spread: Magic (-1.5) | Magic | 1.92 (52¢) | $57,192 | — | ⏳ Pendiente |
 | Kkunn | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $34,223 | +$4,230 | ✅ Ganada |
@@ -123,7 +123,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.54 (65¢) | $254,300 | +$136,931 | ✅ Ganada |
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | G2 Esports | 2.50 (40¢) | $40,000 | -$40,000 | ❌ Perdida |
 | bluemario | CA Gimnasia y Esgrima de Mendoza vs. CA Platense: O/U 2.5 | Under 2.5 | 1.67 (60¢) | $60,377 | -$60,377 | ❌ Perdida |
-| monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $33,600 | +$26,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks: O/U 236.5 | Over 236.5 | 1.79 (56¢) | $48,594 | +$38,181 | ✅ Ganada |
 | Netrol | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
 | meoooow | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $37,834 | -$37,834 | ❌ Perdida |
