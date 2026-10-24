@@ -93160,5 +93160,35 @@
     "status": "pending",
     "ultimo_fill": 1792849855,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12614,
+    "timestamp": 1792850350,
+    "username": "YYYYY999",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-vit-9z-2026-10-24",
+    "title": "Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 58100.0,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1792850350,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12615,
+    "timestamp": 1792850352,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nba-was-chi-2026-10-24",
+    "title": "Wizards vs. Bulls",
+    "outcome": "Bulls",
+    "side": "BUY",
+    "usd": 33180.8724,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792850352,
+    "fills": 1
   }
 ]
