@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 15:13:05 (hora de Perú)
+Actualizado: 2026-10-24 15:15:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6303**  ($354,209,524 en total)
+- Apuestas registradas: **6304**  ($354,460,689 en total)
 - Resueltas: **6216** — 3789 ganadas / 2427 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Pendientes: 66
 - Apostadores distintos: 626
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 450 | 247 | 7 | 65% | $45,161,468 | +$651,313 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 450 | 247 | 8 | 65% | $45,200,848 | +$651,313 |
 | Sassy-Bucket | 85 | 84 | 9 | 50% | $10,940,291 | -$972,115 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 626 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Mooseborzoiii | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.75 (57¢) | $104,137 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | LYON | 2.50 (40¢) | $39,380 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.69 (59¢) | $315,922 | — | ⏳ Pendiente |
 | texaskid | Spread: 76ers (-12.5) | 76ers | 2.00 (50¢) | $25,518 | — | ⏳ Pendiente |
 | 999585 | Michigan State vs. UCLA | UCLA | 1.15 (87¢) | $200,100 | — | ⏳ Pendiente |
 | sulumos | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Petr Yan | 1.69 (59¢) | $43,070 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 626 en total)_
 | skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.70 (27¢) | $27,000 | -$27,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | No | 1.35 (74¢) | $74,000 | +$26,000 | ✅ Ganada |
 | skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.85 (26¢) | $26,000 | -$26,000 | ❌ Perdida |
-| YYYYY999 | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $33,137 | — | ⏳ Pendiente |
