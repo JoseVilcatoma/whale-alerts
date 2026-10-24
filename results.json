@@ -93217,7 +93217,7 @@
     "side": "BUY",
     "usd": 29912.399999999998,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792851370,
     "fills": 1
   },
@@ -93414,6 +93414,21 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1792855174,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12638,
+    "timestamp": 1792855615,
+    "username": "Jokerxing7",
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "slug": "sea-nap-rom-2026-10-24-total-2pt5",
+    "title": "SSC Napoli vs. AS Roma: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 30468.2702,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1792855615,
     "fills": 1
   }
 ]

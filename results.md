@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 10:25:05 (hora de Perú)
+Actualizado: 2026-10-24 10:27:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6215**  ($348,408,762 en total)
-- Resueltas: **6154** — 3753 ganadas / 2401 perdidas (**61%** de acierto)
+- Apuestas registradas: **6216**  ($348,439,230 en total)
+- Resueltas: **6155** — 3753 ganadas / 2402 perdidas (**61%** de acierto)
 - Pendientes: 39
 - Apostadores distintos: 620
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,675,343** sobre $344,930,479 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$7,155** sobre $606,900 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,705,256** sobre $344,960,392 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,255** sobre $607,000 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jokerxing7 | SSC Napoli vs. AS Roma: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $30,468 | — | ⏳ Pendiente |
 | Kch-Temp | Will Chelsea FC win on 2026-10-24? | No | 1.96 (51¢) | $47,220 | — | ⏳ Pendiente |
 | RJW1 | Will Chelsea FC win on 2026-10-24? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Racing Club vs. RCD Espanyol de Barcelona: O/U 0.5 | Over 0.5 | 1.25 (80¢) | $80,500 | — | ⏳ Pendiente |
@@ -84,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.08 (48¢) | $30,780 | — | ⏳ Pendiente |
 | Zzzz87 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $33,902 | — | ⏳ Pendiente |
 | Woaifacai | Will Fulham FC win on 2026-10-24? | Yes | 2.22 (45¢) | $29,341 | — | ⏳ Pendiente |
-| PollyPepperoni | UFC 333: Noah Gugnon vs. Kody Steele (Lightweight, Early Prelims) | Noah Gugnon | 2.38 (42¢) | $29,912 | — | ⏳ Pendiente |
+| PollyPepperoni | UFC 333: Noah Gugnon vs. Kody Steele (Lightweight, Early Prelims) | Noah Gugnon | 2.38 (42¢) | $29,912 | -$29,912 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Arsenal FC (-2.5) | Arsenal FC | 2.70 (37¢) | $26,828 | — | ⏳ Pendiente |
 | gmpm2 | Wizards vs. Bulls | Bulls | 1.92 (52¢) | $33,181 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.20 (83¢) | $58,100 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | Kch-Temp | Will Arsenal FC win on 2026-10-24? | Yes | 1.49 (67¢) | $25,575 | — | ⏳ Pendiente |
 | RJW1 | Will Manchester City FC win on 2026-10-24? | Yes | 1.67 (60¢) | $34,613 | -$34,613 | ❌ Perdida |
 | Woaifacai | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.54 (65¢) | $86,892 | -$86,892 | ❌ Perdida |
-| ferrariChampions2026 | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ashlyn Krueger | 4.00 (25¢) | $38,900 | +$116,700 | ✅ Ganada |
