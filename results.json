@@ -94197,5 +94197,20 @@
     "status": "pending",
     "ultimo_fill": 1792864113,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12716,
+    "timestamp": 1792864282,
+    "username": "ArielFilipino",
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "slug": "nba-sas-dal-2026-10-24-spread-away-12pt5",
+    "title": "Spread: Spurs (-12.5)",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 30973.7901,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792864282,
+    "fills": 1
   }
 ]

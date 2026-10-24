@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 12:51:02 (hora de Perú)
+Actualizado: 2026-10-24 12:53:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6267**  ($352,200,232 en total)
+- Apuestas registradas: **6268**  ($352,231,206 en total)
 - Resueltas: **6180** — 3773 ganadas / 2407 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Pendientes: 66
 - Apostadores distintos: 624
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArielFilipino | Spread: Spurs (-12.5) | Spurs | 1.85 (54¢) | $30,974 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: SS Lazio (-1.5) | Parma Calcio 1913 | 1.75 (57¢) | $65,438 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Over 2.5 | 1.59 (63¢) | $45,000 | — | ⏳ Pendiente |
 | spx11 | Wizards vs. Bulls | Wizards | 2.13 (47¢) | $47,350 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | EdZachary | Spread: Cavaliers (-11.5) | Cavaliers | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Spurs (-12.5) | Spurs | 1.96 (51¢) | $39,632 | — | ⏳ Pendiente |
 | crazyoddslover | Swiss Indoors Basel, Qualification: Aleksandar Kovacevic vs James Duckworth | Aleksandar Kovacevic | 1.69 (59¢) | $31,343 | +$21,781 | ✅ Ganada |
-| mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.13 (47¢) | $26,613 | — | ⏳ Pendiente |
