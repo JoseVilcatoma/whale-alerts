@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 15:31:57 (hora de Perú)
+Actualizado: 2026-10-24 15:34:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6306**  ($354,548,667 en total)
+- Apuestas registradas: **6307**  ($354,576,113 en total)
 - Resueltas: **6223** — 3796 ganadas / 2427 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Pendientes: 62
 - Apostadores distintos: 627
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 85 | 84 | 9 | 50% | $10,940,291 | -$972,115 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
-| mooseborzoii | 79 | 44 | 10 | 64% | $7,617,915 | +$1,091,023 |
+| mooseborzoii | 79 | 44 | 11 | 64% | $7,645,361 | +$1,091,023 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 627 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | BYU vs. UCF | BYU | 1.64 (61¢) | $27,446 | — | ⏳ Pendiente |
 | Flaznorp | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Under 2.5 | 1.39 (72¢) | $32,734 | — | ⏳ Pendiente |
 | gol702 | M25 Tamworth: Blake Ellis vs Isaac Becroft | Isaac Becroft | 1.92 (52¢) | $25,994 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | LYON | 2.50 (40¢) | $39,380 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 627 en total)_
 | Sassy-Bucket | Baylor vs. Kansas | Baylor | 2.00 (50¢) | $98,325 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Abus Magomedov vs. Cam Rowston (Middleweight, Prelims) | Cam Rowston | 2.17 (46¢) | $59,800 | -$59,800 | ❌ Perdida |
 | gmpm2 | Wizards vs. Bulls | Bulls | 1.89 (53¢) | $33,596 | — | ⏳ Pendiente |
-| skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.70 (27¢) | $27,000 | -$27,000 | ❌ Perdida |
