@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 00:08:37 (hora de Perú)
+Actualizado: 2026-10-24 00:10:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6155**  ($344,192,325 en total)
-- Resueltas: **6123** — 3744 ganadas / 2379 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **6126** — 3745 ganadas / 2381 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$171,820** sobre $342,659,908 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,004** sobre $603,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$301,380** sobre $342,928,384 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,048** sobre $604,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 442 | 237 | 4 | 65% | $43,842,445 | +$991,151 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 443 | 237 | 3 | 65% | $43,842,445 | +$1,075,890 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -85,8 +85,8 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.20 (83¢) | $64,190 | +$13,147 | ✅ Ganada |
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.27 (79¢) | $60,938 | +$16,199 | ✅ Ganada |
 | KaneAnalytics | Duke vs. Virginia | Duke | 1.39 (72¢) | $55,854 | +$21,721 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Warriors | Grizzlies | 2.56 (39¢) | $54,177 | — | ⏳ Pendiente |
-| Woaifacai | Grizzlies vs. Warriors | Warriors | 1.64 (61¢) | $144,230 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Warriors | Grizzlies | 2.56 (39¢) | $54,177 | +$84,738 | ✅ Ganada |
+| Woaifacai | Grizzlies vs. Warriors | Warriors | 1.64 (61¢) | $144,230 | -$144,230 | ❌ Perdida |
 | monkeymashingkeyboard | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $28,800 | +$51,200 | ✅ Ganada |
 | ndb1 | Rockets vs. Spurs | Spurs | 1.56 (64¢) | $34,025 | -$34,025 | ❌ Perdida |
 | tiger105 | Pelicans vs. Jazz | Pelicans | 1.96 (51¢) | $60,000 | -$60,000 | ❌ Perdida |
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | PEYZ-BIGGEST-FAN | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.11 (90¢) | $56,453 | +$6,273 | ✅ Ganada |
 | bluemario | Cruzeiro EC vs. Clube do Remo: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $101,544 | +$101,544 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Lakers: O/U 225.5 | Under 225.5 | 2.00 (50¢) | $37,927 | -$37,927 | ❌ Perdida |
-| Jokerxing7 | Spread: Warriors (-4.5) | Warriors | 1.96 (51¢) | $70,069 | — | ⏳ Pendiente |
+| Jokerxing7 | Spread: Warriors (-4.5) | Warriors | 1.96 (51¢) | $70,069 | -$70,069 | ❌ Perdida |
 | Jokerxing7 | Raptors vs. Wizards: O/U 236.5 | Over 236.5 | 2.00 (50¢) | $45,229 | -$45,229 | ❌ Perdida |
 | Jokerxing7 | Pistons vs. Heat: O/U 235.5 | Over 235.5 | 2.00 (50¢) | $31,803 | +$31,803 | ✅ Ganada |
 | dhgreg | Raptors vs. Wizards | Wizards | 3.70 (27¢) | $81,000 | -$81,000 | ❌ Perdida |
