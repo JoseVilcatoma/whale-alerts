@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 08:25:57 (hora de Perú)
+Actualizado: 2026-10-24 08:28:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6193**  ($346,886,812 en total)
+- Apuestas registradas: **6194**  ($346,919,324 en total)
 - Resueltas: **6135** — 3747 ganadas / 2388 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 619
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Pan Pacific Open, Qualification: Kayla Day vs Shuai Zhang | Shuai Zhang | 1.25 (80¢) | $32,512 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.41 (71¢) | $106,500 | — | ⏳ Pendiente |
 | Jsram | Will Fulham FC win on 2026-10-24? | No | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
 | Kch-Temp | Will Arsenal FC win on 2026-10-24? | Yes | 1.45 (69¢) | $91,261 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | tiger105 | Pelicans vs. Jazz | Pelicans | 1.96 (51¢) | $60,000 | -$60,000 | ❌ Perdida |
 | dhgreg | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $143,229 | +$254,629 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Celtics | Celtics | 1.14 (88¢) | $88,880 | +$12,120 | ✅ Ganada |
-| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Knicks vs. Celtics | Celtics | 1.18 (85¢) | $33,325 | +$5,881 | ✅ Ganada |
