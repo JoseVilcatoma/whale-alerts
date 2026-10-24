@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 06:00:34 (hora de Perú)
+Actualizado: 2026-10-24 06:02:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6175**  ($345,321,984 en total)
+- Apuestas registradas: **6176**  ($345,371,721 en total)
 - Resueltas: **6132** — 3746 ganadas / 2386 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 619
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beeemw | Will Aston Villa FC win on 2026-10-24? | No | 1.22 (82¢) | $49,737 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.69 (59¢) | $45,888 | — | ⏳ Pendiente |
 | S-Works | FK Liepaja vs. FK Tukums 2000/TSS: O/U 0.5 | Over 0.5 | 1.14 (88¢) | $88,100 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FK Liepaja vs. FK Tukums 2000/TSS: O/U 0.5 | Over 0.5 | 1.12 (89¢) | $131,927 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | bluemario | Cruzeiro EC vs. Clube do Remo: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $101,544 | +$101,544 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Lakers: O/U 225.5 | Under 225.5 | 2.00 (50¢) | $37,927 | -$37,927 | ❌ Perdida |
 | Jokerxing7 | Spread: Warriors (-4.5) | Warriors | 1.96 (51¢) | $70,069 | -$70,069 | ❌ Perdida |
-| Jokerxing7 | Raptors vs. Wizards: O/U 236.5 | Over 236.5 | 2.00 (50¢) | $45,229 | -$45,229 | ❌ Perdida |

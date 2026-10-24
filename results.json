@@ -92815,5 +92815,20 @@
     "status": "pending",
     "ultimo_fill": 1792837992,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12573,
+    "timestamp": 1792839704,
+    "username": "beeemw",
+    "wallet": "0x1e386b0e0f1fc58c67ce738d7bbc4ba7ec74fd47",
+    "slug": "epl-ast-mac-2026-10-24-ast",
+    "title": "Will Aston Villa FC win on 2026-10-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 49736.812999999995,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1792839704,
+    "fills": 1
   }
 ]
