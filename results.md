@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 20:37:50 (hora de Perú)
+Actualizado: 2026-10-23 20:39:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6137**  ($343,224,828 en total)
+- Apuestas registradas: **6138**  ($343,258,852 en total)
 - Resueltas: **6069** — 3713 ganadas / 2356 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 619
 
 ### Balance
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
-| ndb1 | 27 | 14 | 0 | 66% | $2,226,161 | +$366,376 |
+| ndb1 | 27 | 14 | 1 | 66% | $2,260,185 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Talvez10 | 24 | 18 | 4 | 57% | $2,176,429 | +$377,201 |
 | S-Works | 14 | 5 | 0 | 74% | $2,091,761 | -$98,898 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Rockets vs. Spurs | Spurs | 1.56 (64¢) | $34,025 | — | ⏳ Pendiente |
 | tiger105 | Pelicans vs. Jazz | Pelicans | 1.96 (51¢) | $60,000 | — | ⏳ Pendiente |
 | dhgreg | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $143,229 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Celtics | Celtics | 1.14 (88¢) | $88,880 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | n0tTODAY | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.52 (66¢) | $30,690 | -$30,690 | ❌ Perdida |
 | YYYYY999 | Mavericks vs. Pacers | Mavericks | 3.23 (31¢) | $39,867 | — | ⏳ Pendiente |
 | BrotherObama | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $44,956 | — | ⏳ Pendiente |
-| 778908 | European Open: Jan-Lennard Struff vs Zizou Bergs | Jan-Lennard Struff | 1.79 (56¢) | $31,952 | +$25,105 | ✅ Ganada |
