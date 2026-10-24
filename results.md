@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 18:05:52 (hora de Perú)
+Actualizado: 2026-10-24 18:08:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6347**  ($356,858,723 en total)
+- Apuestas registradas: **6348**  ($357,301,096 en total)
 - Resueltas: **6269** — 3823 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 57
 - Apostadores distintos: 628
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 25 | 0 | 71% | $5,149,705 | -$186,637 |
 | BrotherObama | 45 | 51 | 3 | 47% | $4,374,370 | -$189,745 |
-| googleplay | 14 | 16 | 0 | 47% | $3,893,979 | -$505,804 |
+| googleplay | 14 | 16 | 1 | 47% | $4,336,352 | -$505,804 |
 | maz26 | 32 | 21 | 3 | 60% | $3,818,660 | +$365,369 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -74,6 +74,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | theowalcott | Will Philadelphia Union win on 2026-10-24? | Yes | 1.54 (65¢) | $28,129 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Bulls (-1.5) | Wizards | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
 | robustmst | Heat vs. Hornets | Hornets | 1.89 (53¢) | $48,854 | — | ⏳ Pendiente |
+| googleplay | Wizards vs. Bulls | Bulls | 1.89 (53¢) | $442,373 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Oklahoma State (-13.5) | Colorado | 1.96 (51¢) | $44,319 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.33 (43¢) | $68,536 | — | ⏳ Pendiente |
 | mooseborzoii | Ole Miss vs. Texas | Ole Miss | 2.44 (41¢) | $82,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | ferrariChampions2026 | Kings vs. Devils | Kings | 2.70 (37¢) | $48,596 | -$48,596 | ❌ Perdida |
 | Mooseborzoiii | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | LOS | 4.17 (24¢) | $125,116 | -$125,116 | ❌ Perdida |
 | Nooserac | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.27 (79¢) | $36,978 | +$9,830 | ✅ Ganada |
-| End123 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
