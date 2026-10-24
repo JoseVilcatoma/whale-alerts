@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 13:24:03 (hora de Perú)
+Actualizado: 2026-10-24 13:26:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6278**  ($352,682,912 en total)
+- Apuestas registradas: **6279**  ($352,752,219 en total)
 - Resueltas: **6185** — 3774 ganadas / 2411 perdidas (**61%** de acierto)
-- Pendientes: 71
+- Pendientes: 72
 - Apostadores distintos: 624
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| retordedgremlin125 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.20 (83¢) | $69,307 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.20 (83¢) | $44,404 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.82 (55¢) | $44,117 | — | ⏳ Pendiente |
 | Flaznorp | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.10 (91¢) | $29,351 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-10-24? | Yes | 2.00 (50¢) | $75,788 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Kholood Saudi Club vs. Al Ettifaq Saudi Club: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $170,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rangers vs. Senators | Senators | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
-| SDTrading | Spread: TCU (-10.5) | West Virginia | 1.92 (52¢) | $34,598 | — | ⏳ Pendiente |
