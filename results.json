@@ -95054,5 +95054,20 @@
     "status": "pending",
     "ultimo_fill": 1792877286,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12844,
+    "timestamp": 1792878205,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "cfb-txam-ala-2026-10-24",
+    "title": "Texas A&M vs. Alabama",
+    "outcome": "Texas A&M",
+    "side": "BUY",
+    "usd": 88009.9975,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "ultimo_fill": 1792878205,
+    "fills": 1
   }
 ]

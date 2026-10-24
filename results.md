@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 16:42:13 (hora de Perú)
+Actualizado: 2026-10-24 16:44:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6324**  ($355,570,044 en total)
+- Apuestas registradas: **6325**  ($355,658,054 en total)
 - Resueltas: **6251** — 3815 ganadas / 2436 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 52
 - Apostadores distintos: 628
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 86 | 86 | 9 | 50% | $11,114,542 | -$1,118,216 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
-| mooseborzoii | 85 | 44 | 5 | 66% | $7,645,361 | +$1,189,712 |
+| mooseborzoii | 85 | 44 | 6 | 66% | $7,733,371 | +$1,189,712 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Texas A&M vs. Alabama | Texas A&M | 3.45 (29¢) | $88,010 | — | ⏳ Pendiente |
 | juice-fruit | Will Inter Miami CF win on 2026-10-24? | Yes | 2.00 (50¢) | $28,510 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.33 (43¢) | $29,770 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.44 (41¢) | $35,115 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | ArielFilipino | Spread: Spurs (-12.5) | Spurs | 1.85 (54¢) | $30,974 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: SS Lazio (-1.5) | Parma Calcio 1913 | 1.75 (57¢) | $65,438 | +$49,365 | ✅ Ganada |
 | ferrariChampions2026 | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Over 2.5 | 1.59 (63¢) | $45,000 | — | ⏳ Pendiente |
-| spx11 | Wizards vs. Bulls | Wizards | 2.13 (47¢) | $47,350 | — | ⏳ Pendiente |
