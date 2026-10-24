@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 03:01:54 (hora de Perú)
+Actualizado: 2026-10-24 03:04:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6168**  ($344,892,762 en total)
-- Resueltas: **6127** — 3745 ganadas / 2382 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **6130** — 3746 ganadas / 2384 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$350,580** sobre $342,977,584 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,148** sobre $604,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$349,530** sobre $343,132,134 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,048** sobre $604,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 79 | 43 | 1 | 65% | $7,212,704 | +$1,127,050 |
 | 3edmond.dantes | 33 | 20 | 0 | 62% | $7,137,368 | -$1,045,728 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
-| ferrariChampions2026 | 100 | 49 | 1 | 67% | $6,586,934 | +$170,014 |
+| ferrariChampions2026 | 101 | 49 | 0 | 67% | $6,586,934 | +$286,715 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | Lakersfan111 | 69 | 46 | 5 | 60% | $5,872,128 | +$45,676 |
@@ -82,8 +82,8 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | YYYYY999 | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.85 (54¢) | $35,975 | — | ⏳ Pendiente |
 | Kch-Temp | Will Arsenal FC win on 2026-10-24? | Yes | 1.49 (67¢) | $25,575 | — | ⏳ Pendiente |
 | RJW1 | Will Manchester City FC win on 2026-10-24? | Yes | 1.67 (60¢) | $34,613 | — | ⏳ Pendiente |
-| Woaifacai | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.54 (65¢) | $86,892 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ashlyn Krueger | 4.00 (25¢) | $38,900 | — | ⏳ Pendiente |
+| Woaifacai | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.54 (65¢) | $86,892 | -$86,892 | ❌ Perdida |
+| ferrariChampions2026 | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ashlyn Krueger | 4.00 (25¢) | $38,900 | +$116,700 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Jazz | Jazz | 1.37 (73¢) | $25,603 | +$9,470 | ✅ Ganada |
 | ndb1 | Arsenal FC vs. Everton FC: O/U 2.5 | Under 2.5 | 2.04 (49¢) | $76,863 | — | ⏳ Pendiente |
 | RJW1 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | KaneAnalytics | Army vs. Tulsa | Tulsa | 1.61 (62¢) | $75,646 | -$75,646 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Army vs. Tulsa | Tulsa | 3.70 (27¢) | $28,912 | -$28,912 | ❌ Perdida |
 | RJW1 | Rockets vs. Spurs | Spurs | 1.69 (59¢) | $36,828 | -$36,828 | ❌ Perdida |
-| Kkunn | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.61 (62¢) | $28,758 | — | ⏳ Pendiente |
+| Kkunn | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.61 (62¢) | $28,758 | -$28,758 | ❌ Perdida |
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.20 (83¢) | $64,190 | +$13,147 | ✅ Ganada |
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.27 (79¢) | $60,938 | +$16,199 | ✅ Ganada |
 | KaneAnalytics | Duke vs. Virginia | Duke | 1.39 (72¢) | $55,854 | +$21,721 | ✅ Ganada |
