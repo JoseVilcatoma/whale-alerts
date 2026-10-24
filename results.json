@@ -93427,7 +93427,7 @@
     "side": "BUY",
     "usd": 30468.2702,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792855615,
     "fills": 1
   },
@@ -93654,7 +93654,7 @@
     "side": "BUY",
     "usd": 30032.7368,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792857371,
     "fills": 1
   },
@@ -94044,7 +94044,7 @@
     "side": "BUY",
     "usd": 35613.35999800001,
     "odds_at_bet": 82,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792861708,
     "fills": 1
   },
@@ -94316,6 +94316,21 @@
     "odds_at_bet": 27,
     "status": "pending",
     "ultimo_fill": 1792865460,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12726,
+    "timestamp": 1792865767,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "bun-dor-ein-2026-10-24-dor",
+    "title": "Will BV Borussia 09 Dortmund win on 2026-10-24?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 29351.240100000003,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1792865767,
     "fills": 1
   }
 ]

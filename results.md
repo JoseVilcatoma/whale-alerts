@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 13:15:39 (hora de Perú)
+Actualizado: 2026-10-24 13:17:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6275**  ($352,565,040 en total)
-- Resueltas: **6182** — 3773 ganadas / 2409 perdidas (**61%** de acierto)
-- Pendientes: 71
+- Apuestas registradas: **6276**  ($352,594,392 en total)
+- Resueltas: **6185** — 3774 ganadas / 2411 perdidas (**61%** de acierto)
+- Pendientes: 69
 - Apostadores distintos: 624
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,439,276** sobre $347,134,446 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,058** sobre $609,600 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,491,960** sobre $347,230,560 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,236** sobre $609,900 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
-| Talvez10 | 24 | 22 | 2 | 52% | $2,251,674 | +$201,337 |
+| Talvez10 | 25 | 22 | 1 | 53% | $2,251,674 | +$209,155 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 1 | 49% | $1,909,851 | -$162,470 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.10 (91¢) | $29,351 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Indiana vs. Michigan | Michigan | 3.70 (27¢) | $31,104 | — | ⏳ Pendiente |
 | migrodrigues | Spread: Club Atlético de Madrid (-3.5) | Club Atlético de Madrid | 5.56 (18¢) | $60,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.41 (71¢) | $25,379 | — | ⏳ Pendiente |
@@ -89,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | Jokerxing7 | Spread: SS Lazio (-1.5) | SS Lazio | 2.33 (43¢) | $31,497 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Top Esports | 2.44 (41¢) | $27,289 | — | ⏳ Pendiente |
 | YYYYY999 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.45 (69¢) | $31,050 | — | ⏳ Pendiente |
-| Talvez10 | UFC 333: Nikita Krylov vs. Abdul-Rakhman Yakhyaev (Light Heavyweight, Prelims) | Abdul-Rakhman Yakhyaev | 1.22 (82¢) | $35,613 | — | ⏳ Pendiente |
+| Talvez10 | UFC 333: Nikita Krylov vs. Abdul-Rakhman Yakhyaev (Light Heavyweight, Prelims) | Abdul-Rakhman Yakhyaev | 1.22 (82¢) | $35,613 | +$7,818 | ✅ Ganada |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $27,426 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Akron vs. Kent State | Akron | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $32,592 | — | ⏳ Pendiente |
@@ -115,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | Ksi172 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $26,101 | — | ⏳ Pendiente |
 | joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.89 (53¢) | $129,390 | — | ⏳ Pendiente |
 | raybanman | Will Tottenham Hotspur FC win on 2026-10-24? | Yes | 4.17 (24¢) | $54,000 | — | ⏳ Pendiente |
-| Jokerxing7 | SSC Napoli vs. AS Roma: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $30,033 | — | ⏳ Pendiente |
+| Jokerxing7 | SSC Napoli vs. AS Roma: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $30,033 | -$30,033 | ❌ Perdida |
 | plonker2026 | Will Chelsea FC win on 2026-10-24? | No | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $716,561 | — | ⏳ Pendiente |
 | joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $249,115 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | SDTrading | Spread: TCU (-10.5) | West Virginia | 1.92 (52¢) | $34,598 | — | ⏳ Pendiente |
 | RJW1 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.89 (53¢) | $28,229 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Arsenal FC (-2.5) | Arsenal FC | 2.70 (37¢) | $27,668 | -$27,668 | ❌ Perdida |
-| Jokerxing7 | SSC Napoli vs. AS Roma: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $30,468 | — | ⏳ Pendiente |
