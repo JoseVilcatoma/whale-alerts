@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 07:50:56 (hora de Perú)
+Actualizado: 2026-10-24 07:53:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6190**  ($346,663,401 en total)
+- Apuestas registradas: **6191**  ($346,754,662 en total)
 - Resueltas: **6134** — 3747 ganadas / 2387 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 619
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
-| Kch-Temp | 38 | 11 | 2 | 78% | $3,306,101 | +$1,755,985 |
+| Kch-Temp | 38 | 11 | 3 | 78% | $3,397,362 | +$1,755,985 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Will Arsenal FC win on 2026-10-24? | Yes | 1.45 (69¢) | $91,261 | — | ⏳ Pendiente |
 | crisp1973 | Will 1. FC Köln win on 2026-10-24? | No | 1.89 (53¢) | $30,901 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
 | robustmst | Swiss Indoors Basel, Qualification: Sebastian Baez vs Giovanni Mpetshi Perricard | Sebastian Baez | 2.63 (38¢) | $29,702 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Knicks vs. Celtics | Celtics | 1.18 (85¢) | $33,325 | +$5,881 | ✅ Ganada |
 | scootergene | Pelicans vs. Jazz: O/U 238.5 | Over 238.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | googleplay | Pelicans vs. Jazz: O/U 238.5 | Under 238.5 | 2.00 (50¢) | $248,760 | -$248,760 | ❌ Perdida |
-| ticklepickles444 | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $38,191 | +$12,730 | ✅ Ganada |
