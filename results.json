@@ -92125,5 +92125,20 @@
     "status": "pending",
     "ultimo_fill": 1792801910,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 12450,
+    "timestamp": 1792802062,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-tsw-ly-2026-10-23",
+    "title": "LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage",
+    "outcome": "LYON",
+    "side": "BUY",
+    "usd": 33205.9136,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1792802062,
+    "fills": 1
   }
 ]
