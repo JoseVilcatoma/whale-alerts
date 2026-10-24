@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 05:29:49 (hora de Perú)
+Actualizado: 2026-10-24 05:31:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6172**  ($345,056,069 en total)
+- Apuestas registradas: **6173**  ($345,144,412 en total)
 - Resueltas: **6132** — 3746 ganadas / 2386 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 619
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 443 | 238 | 5 | 65% | $43,953,386 | +$1,041,455 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 443 | 238 | 6 | 65% | $44,041,729 | +$1,041,455 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FK Liepaja vs. FK Tukums 2000/TSS: O/U 0.5 | Over 0.5 | 1.12 (89¢) | $88,343 | — | ⏳ Pendiente |
 | salgnklasf | Counter-Strike: Spirit vs BetBoom Team (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.27 (79¢) | $25,536 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Isenmulang Kalteng FC vs. Psim Yogyakarta: O/U 0.5 | Over 0.5 | 1.37 (73¢) | $36,341 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $61,266 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | Jokerxing7 | Raptors vs. Wizards: O/U 236.5 | Over 236.5 | 2.00 (50¢) | $45,229 | -$45,229 | ❌ Perdida |
 | Jokerxing7 | Pistons vs. Heat: O/U 235.5 | Over 235.5 | 2.00 (50¢) | $31,803 | +$31,803 | ✅ Ganada |
 | dhgreg | Raptors vs. Wizards | Wizards | 3.70 (27¢) | $81,000 | -$81,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $47,514 | -$47,514 | ❌ Perdida |
