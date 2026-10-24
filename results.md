@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 01:51:38 (hora de Perú)
+Actualizado: 2026-10-24 01:53:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6161**  ($344,445,658 en total)
+- Apuestas registradas: **6163**  ($344,525,612 en total)
 - Resueltas: **6127** — 3745 ganadas / 2382 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 14
 - Apostadores distintos: 619
 
 ### Balance
@@ -34,9 +34,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 100 | 49 | 1 | 67% | $6,586,934 | +$170,014 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
+| Lakersfan111 | 69 | 46 | 4 | 60% | $5,788,128 | +$45,676 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| Lakersfan111 | 69 | 46 | 2 | 60% | $5,708,173 | +$45,676 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
 | BrotherObama | 45 | 51 | 2 | 47% | $4,341,370 | -$189,745 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YYYYY999 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.75 (57¢) | $26,367 | — | ⏳ Pendiente |
+| YYYYY999 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.23 (81¢) | $53,587 | — | ⏳ Pendiente |
 | YYYYY999 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.47 (68¢) | $31,377 | — | ⏳ Pendiente |
 | YYYYY999 | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.85 (54¢) | $35,975 | — | ⏳ Pendiente |
 | Kch-Temp | Will Arsenal FC win on 2026-10-24? | Yes | 1.49 (67¢) | $25,575 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | Donkey14 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $29,944 | -$29,944 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Magic (-1.5) | Timberwolves | 2.04 (49¢) | $39,233 | +$40,835 | ✅ Ganada |
 | monkeymashingkeyboard | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $61,689 | +$21,675 | ✅ Ganada |
-| Jokerxing7 | Spread: Magic (-1.5) | Magic | 1.96 (51¢) | $29,000 | -$29,000 | ❌ Perdida |
-| wanzzz333 | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $49,626 | +$6,134 | ✅ Ganada |

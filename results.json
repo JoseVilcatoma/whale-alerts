@@ -92605,5 +92605,35 @@
     "status": "pending",
     "ultimo_fill": 1792824644,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12553,
+    "timestamp": 1792824712,
+    "username": "YYYYY999",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-g2-los-2026-10-24",
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 53587.494,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1792824712,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12554,
+    "timestamp": 1792824740,
+    "username": "YYYYY999",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-hle1-gen-2026-10-24",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 26366.923199999997,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1792824740,
+    "fills": 1
   }
 ]
