@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 04:30:36 (hora de Perú)
+Actualizado: 2026-10-24 04:32:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6168**  ($344,892,762 en total)
+- Apuestas registradas: **6169**  ($344,932,926 en total)
 - Resueltas: **6130** — 3746 ganadas / 2384 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 619
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 443 | 237 | 4 | 65% | $43,876,880 | +$1,075,890 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 443 | 237 | 5 | 65% | $43,917,044 | +$1,075,890 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ningbo Open: Elena Rybakina vs Diana Shnaider | Elena Rybakina | 1.61 (62¢) | $40,164 | — | ⏳ Pendiente |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Aston Villa FC vs. Manchester City FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ningbo Open: Leylah Fernandez vs Marie Bouzkova | Marie Bouzkova | 2.13 (47¢) | $34,435 | — | ⏳ Pendiente |
 | Kkunn | Ningbo Open: Leylah Fernandez vs Marie Bouzkova | Marie Bouzkova | 1.82 (55¢) | $29,713 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
 | para-Vision | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
 | 778908 | North Carolina Central vs. Delaware State | North Carolina Central | 1.72 (58¢) | $127,348 | +$92,218 | ✅ Ganada |
-| Talvez10 | Spread: Magic (-1.5) | Magic | 1.92 (52¢) | $57,192 | -$57,192 | ❌ Perdida |
