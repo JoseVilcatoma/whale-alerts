@@ -95701,5 +95701,20 @@
     "status": "pending",
     "ultimo_fill": 1792885337,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12908,
+    "timestamp": 1792886026,
+    "username": "big8betz",
+    "wallet": "0xbfd40a4fcb43d80eb4fb425f75d4fa090c61526f",
+    "slug": "nba-was-chi-2026-10-24",
+    "title": "Wizards vs. Bulls",
+    "outcome": "Wizards",
+    "side": "BUY",
+    "usd": 49000.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1792886026,
+    "fills": 1
   }
 ]
