@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 07:01:56 (hora de Perú)
+Actualizado: 2026-10-24 07:04:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6186**  ($346,523,521 en total)
-- Resueltas: **6132** — 3746 ganadas / 2386 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Resueltas: **6133** — 3747 ganadas / 2386 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$413,678** sobre $343,196,282 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,248** sobre $604,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$389,061** sobre $343,236,446 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,187** sobre $604,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 443 | 238 | 9 | 65% | $44,261,456 | +$1,041,455 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 444 | 238 | 8 | 65% | $44,261,456 | +$1,066,072 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 3edmond.dantes | 33 | 20 | 4 | 62% | $7,979,734 | -$1,045,728 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | salgnklasf | Counter-Strike: Spirit vs BetBoom Team (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.27 (79¢) | $25,536 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Isenmulang Kalteng FC vs. Psim Yogyakarta: O/U 0.5 | Over 0.5 | 1.37 (73¢) | $36,341 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $61,266 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ningbo Open: Elena Rybakina vs Diana Shnaider | Elena Rybakina | 1.61 (62¢) | $40,164 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ningbo Open: Elena Rybakina vs Diana Shnaider | Elena Rybakina | 1.61 (62¢) | $40,164 | +$24,617 | ✅ Ganada |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Aston Villa FC vs. Manchester City FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ningbo Open: Leylah Fernandez vs Marie Bouzkova | Marie Bouzkova | 2.13 (47¢) | $34,435 | -$34,435 | ❌ Perdida |
 | Kkunn | Ningbo Open: Leylah Fernandez vs Marie Bouzkova | Marie Bouzkova | 1.82 (55¢) | $29,713 | -$29,713 | ❌ Perdida |
