@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 12:12:59 (hora de Perú)
+Actualizado: 2026-10-24 12:15:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6259**  ($351,420,794 en total)
-- Resueltas: **6173** — 3766 ganadas / 2407 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Resueltas: **6178** — 3771 ganadas / 2407 perdidas (**61%** de acierto)
+- Pendientes: 59
 - Apostadores distintos: 622
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,383,903** sobre $346,554,887 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,005** sobre $608,700 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,331,533** sobre $346,825,453 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,908** sobre $609,200 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 101 | 49 | 0 | 67% | $6,586,934 | +$286,715 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Lakersfan111 | 69 | 46 | 9 | 60% | $6,019,614 | +$45,676 |
+| Lakersfan111 | 72 | 46 | 6 | 61% | $6,019,614 | +$78,376 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| S-Works | 14 | 6 | 3 | 70% | $2,371,320 | -$186,998 |
+| S-Works | 16 | 6 | 1 | 73% | $2,371,320 | -$167,328 |
 | milkteaboba | 13 | 11 | 0 | 54% | $2,337,396 | -$694,704 |
 | ndb1 | 28 | 15 | 0 | 65% | $2,337,048 | +$412,352 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
