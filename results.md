@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 21:37:19 (hora de Perú)
+Actualizado: 2026-10-23 21:39:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6144**  ($343,667,040 en total)
+- Apuestas registradas: **6145**  ($343,695,798 en total)
 - Resueltas: **6097** — 3730 ganadas / 2367 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 619
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kkunn | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.61 (62¢) | $28,758 | — | ⏳ Pendiente |
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.20 (83¢) | $64,190 | — | ⏳ Pendiente |
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.27 (79¢) | $60,938 | — | ⏳ Pendiente |
 | KaneAnalytics | Duke vs. Virginia | Duke | 1.39 (72¢) | $55,854 | +$21,721 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | G2 Esports | 2.50 (40¢) | $40,000 | -$40,000 | ❌ Perdida |
 | bluemario | CA Gimnasia y Esgrima de Mendoza vs. CA Platense: O/U 2.5 | Under 2.5 | 1.67 (60¢) | $60,377 | -$60,377 | ❌ Perdida |
 | monkeymashingkeyboard | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $33,600 | +$26,400 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks: O/U 236.5 | Over 236.5 | 1.79 (56¢) | $48,594 | +$38,181 | ✅ Ganada |
