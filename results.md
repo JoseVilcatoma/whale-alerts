@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 13:55:23 (hora de Perú)
+Actualizado: 2026-10-24 13:57:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6286**  ($353,067,629 en total)
-- Resueltas: **6188** — 3775 ganadas / 2413 perdidas (**61%** de acierto)
-- Pendientes: 76
+- Resueltas: **6190** — 3777 ganadas / 2413 perdidas (**61%** de acierto)
+- Pendientes: 74
 - Apostadores distintos: 624
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,510,882** sobre $347,316,041 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,292** sobre $610,200 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,467,979** sobre $347,405,393 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,216** sobre $610,400 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | retordedgremlin125 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.20 (83¢) | $69,307 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.20 (83¢) | $44,404 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.82 (55¢) | $44,117 | — | ⏳ Pendiente |
-| Flaznorp | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.10 (91¢) | $29,351 | — | ⏳ Pendiente |
+| Flaznorp | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.10 (91¢) | $29,351 | +$2,903 | ✅ Ganada |
 | ferrariChampions2026 | Indiana vs. Michigan | Michigan | 3.70 (27¢) | $31,104 | — | ⏳ Pendiente |
 | migrodrigues | Spread: Club Atlético de Madrid (-3.5) | Club Atlético de Madrid | 5.56 (18¢) | $60,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.41 (71¢) | $25,379 | — | ⏳ Pendiente |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Indiana vs. Michigan | Indiana | 1.28 (78¢) | $74,110 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.39 (72¢) | $44,388 | — | ⏳ Pendiente |
 | 999585 | LSU vs. Auburn | LSU | 1.06 (94¢) | $411,655 | — | ⏳ Pendiente |
-| Woaifacai | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
+| Woaifacai | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.67 (60¢) | $60,000 | +$40,000 | ✅ Ganada |
 | Jokerxing7 | Spread: SS Lazio (-1.5) | SS Lazio | 2.33 (43¢) | $31,497 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Top Esports | 2.44 (41¢) | $27,289 | +$39,270 | ✅ Ganada |
 | YYYYY999 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.45 (69¢) | $31,050 | — | ⏳ Pendiente |
