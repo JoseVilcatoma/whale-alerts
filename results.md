@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 12:10:54 (hora de Perú)
+Actualizado: 2026-10-24 12:12:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6257**  ($351,362,455 en total)
+- Apuestas registradas: **6259**  ($351,420,794 en total)
 - Resueltas: **6173** — 3766 ganadas / 2407 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Pendientes: 64
 - Apostadores distintos: 622
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 101 | 49 | 0 | 67% | $6,586,934 | +$286,715 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Lakersfan111 | 69 | 46 | 8 | 60% | $5,988,564 | +$45,676 |
+| Lakersfan111 | 69 | 46 | 9 | 60% | $6,019,614 | +$45,676 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Top Esports | 2.44 (41¢) | $27,289 | — | ⏳ Pendiente |
+| YYYYY999 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.45 (69¢) | $31,050 | — | ⏳ Pendiente |
 | Talvez10 | UFC 333: Nikita Krylov vs. Abdul-Rakhman Yakhyaev (Light Heavyweight, Prelims) | Abdul-Rakhman Yakhyaev | 1.22 (82¢) | $35,613 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $27,426 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Akron vs. Kent State | Akron | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 | PollyPepperoni | UFC 333: Noah Gugnon vs. Kody Steele (Lightweight, Early Prelims) | Noah Gugnon | 2.38 (42¢) | $29,912 | -$29,912 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Arsenal FC (-2.5) | Arsenal FC | 2.70 (37¢) | $26,828 | -$26,828 | ❌ Perdida |
 | gmpm2 | Wizards vs. Bulls | Bulls | 1.92 (52¢) | $33,181 | — | ⏳ Pendiente |
-| YYYYY999 | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.20 (83¢) | $58,100 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.39 (72¢) | $432,000 | +$168,000 | ✅ Ganada |
