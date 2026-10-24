@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 18:16:20 (hora de Perú)
+Actualizado: 2026-10-24 18:18:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6352**  ($357,886,572 en total)
+- Apuestas registradas: **6354**  ($357,965,422 en total)
 - Resueltas: **6269** — 3823 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Pendientes: 63
 - Apostadores distintos: 629
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 25 | 0 | 71% | $5,149,705 | -$186,637 |
 | googleplay | 14 | 16 | 2 | 47% | $4,645,412 | -$505,804 |
-| BrotherObama | 45 | 51 | 3 | 47% | $4,374,370 | -$189,745 |
+| BrotherObama | 45 | 51 | 4 | 47% | $4,400,789 | -$189,745 |
 | maz26 | 32 | 21 | 3 | 60% | $3,818,660 | +$365,369 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 629 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $52,430 | — | ⏳ Pendiente |
+| BrotherObama | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.27 (44¢) | $26,419 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.33 (43¢) | $25,800 | — | ⏳ Pendiente |
 | executiveX | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Bulls | Wizards | 2.17 (46¢) | $216,417 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 629 en total)_
 | Sassy-Bucket | BYU vs. UCF | BYU | 1.35 (74¢) | $74,145 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tennessee vs. South Carolina | Tennessee | 2.17 (46¢) | $49,641 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.75 (57¢) | $27,040 | +$20,398 | ✅ Ganada |
-| freee67thewhale | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Merab Dvalishvili | 2.38 (42¢) | $25,000 | -$25,000 | ❌ Perdida |
-| mooseborzoii | Indiana vs. Michigan | Indiana | 1.82 (55¢) | $29,873 | +$24,442 | ✅ Ganada |

@@ -95474,5 +95474,35 @@
     "status": "pending",
     "ultimo_fill": 1792883776,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12891,
+    "timestamp": 1792883790,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-dk-t1-2026-10-24",
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 26419.113599999997,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1792883790,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12892,
+    "timestamp": 1792883805,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "nba-mil-phi-2026-10-24-spread-home-12pt5",
+    "title": "Spread: 76ers (-12.5)",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 52430.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792883805,
+    "fills": 1
   }
 ]
