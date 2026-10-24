@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 11:20:22 (hora de Perú)
+Actualizado: 2026-10-24 11:22:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6241**  ($350,648,644 en total)
+- Apuestas registradas: **6242**  ($350,691,990 en total)
 - Resueltas: **6157** — 3755 ganadas / 2402 perdidas (**61%** de acierto)
-- Pendientes: 62
-- Apostadores distintos: 620
+- Pendientes: 63
+- Apostadores distintos: 621
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 19 | 1 | 52% | $1,854,971 | -$98,360 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 
-_(mostrando los 40 de mayor monto, de 620 en total)_
+_(mostrando los 40 de mayor monto, de 621 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 4217893367451 | Counter-Strike: G2 vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.72 (58¢) | $43,346 | — | ⏳ Pendiente |
 | S-Works | UFC 333: Grant Dawson vs. Nurullo Aliev (Lightweight, Prelims) | Nurullo Aliev | 2.04 (49¢) | $88,193 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $32,900 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $54,526 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | Jokerxing7 | Como 1907 vs. US Sassuolo Calcio: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $42,032 | -$42,032 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: MOUZ vs Liquid (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.43 (70¢) | $51,981 | -$51,981 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-10-24? | No | 2.56 (39¢) | $34,564 | +$54,062 | ✅ Ganada |
-| 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.64 (61¢) | $321,910 | -$321,910 | ❌ Perdida |

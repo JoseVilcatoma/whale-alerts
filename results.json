@@ -93807,5 +93807,20 @@
     "status": "pending",
     "ultimo_fill": 1792858691,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12666,
+    "timestamp": 1792858846,
+    "username": "4217893367451",
+    "wallet": "0xb2088bb79ba9b217a1d261ab95c8e1c6e25ec095",
+    "slug": "cs2-g2-navi-2026-10-24",
+    "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 43345.7316,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1792858846,
+    "fills": 1
   }
 ]
