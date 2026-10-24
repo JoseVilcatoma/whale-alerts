@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 18:55:56 (hora de Perú)
+Actualizado: 2026-10-24 18:58:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6368**  ($359,500,890 en total)
+- Apuestas registradas: **6369**  ($359,527,541 en total)
 - Resueltas: **6271** — 3825 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 75
+- Pendientes: 76
 - Apostadores distintos: 631
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 631 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Ole Miss vs. Texas | Texas | 1.43 (70¢) | $26,651 | — | ⏳ Pendiente |
 | big8betz | Wizards vs. Bulls | Wizards | 2.08 (48¢) | $49,000 | — | ⏳ Pendiente |
 | HVAB | Fort Worth: Jenson Brooksby vs Gabriel Debru | Jenson Brooksby | 1.32 (76¢) | $32,854 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $89,965 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 631 en total)_
 | Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.89 (53¢) | $76,318 | -$76,318 | ❌ Perdida |
 | Nooserac | Kansas State vs. Arizona State | Arizona State | 1.54 (65¢) | $30,880 | +$16,628 | ✅ Ganada |
 | Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.92 (52¢) | $69,818 | -$69,818 | ❌ Perdida |
-| Mambaxbt | Heat vs. Hornets | Heat | 1.67 (60¢) | $74,000 | — | ⏳ Pendiente |
