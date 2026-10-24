@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 12:59:13 (hora de Perú)
+Actualizado: 2026-10-24 13:01:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6268**  ($352,231,206 en total)
-- Resueltas: **6180** — 3773 ganadas / 2407 perdidas (**61%** de acierto)
+- Apuestas registradas: **6270**  ($352,387,157 en total)
+- Resueltas: **6182** — 3773 ganadas / 2409 perdidas (**61%** de acierto)
 - Pendientes: 66
 - Apostadores distintos: 624
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,291,283** sobre $346,986,453 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,858** sobre $609,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$1,439,276** sobre $347,134,446 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,058** sobre $609,600 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 448 | 244 | 11 | 65% | $45,136,089 | +$809,827 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 448 | 245 | 10 | 65% | $45,136,089 | +$750,027 |
 | Sassy-Bucket | 83 | 84 | 5 | 50% | $10,555,104 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| S-Works | 16 | 6 | 1 | 73% | $2,371,320 | -$167,328 |
+| S-Works | 16 | 7 | 0 | 70% | $2,371,320 | -$255,521 |
 | milkteaboba | 13 | 11 | 0 | 54% | $2,337,396 | -$694,704 |
 | ndb1 | 28 | 15 | 0 | 65% | $2,337,048 | +$412,352 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.47 (68¢) | $112,951 | — | ⏳ Pendiente |
+| zhqzhq | Will Parma Calcio 1913 win on 2026-10-24? | No | 1.12 (89¢) | $43,000 | — | ⏳ Pendiente |
 | ArielFilipino | Spread: Spurs (-12.5) | Spurs | 1.85 (54¢) | $30,974 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: SS Lazio (-1.5) | Parma Calcio 1913 | 1.75 (57¢) | $65,438 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Over 2.5 | 1.59 (63¢) | $45,000 | — | ⏳ Pendiente |
@@ -90,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | Pwaddler | Tennessee vs. South Carolina | South Carolina | 1.82 (55¢) | $42,735 | — | ⏳ Pendiente |
 | Sassy-Bucket | Akron vs. Kent State | Kent State | 1.72 (58¢) | $27,198 | — | ⏳ Pendiente |
 | Sassy-Bucket | Baylor vs. Kansas | Baylor | 2.00 (50¢) | $98,325 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Abus Magomedov vs. Cam Rowston (Middleweight, Prelims) | Cam Rowston | 2.17 (46¢) | $59,800 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Abus Magomedov vs. Cam Rowston (Middleweight, Prelims) | Cam Rowston | 2.17 (46¢) | $59,800 | -$59,800 | ❌ Perdida |
 | gmpm2 | Wizards vs. Bulls | Bulls | 1.89 (53¢) | $33,596 | — | ⏳ Pendiente |
 | skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.70 (27¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | No | 1.35 (74¢) | $74,000 | — | ⏳ Pendiente |
@@ -98,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | YYYYY999 | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $33,137 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: G2 vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.72 (58¢) | $43,346 | — | ⏳ Pendiente |
 | Woaifacai | Spread: Chelsea FC (-1.5) | Chelsea FC | 3.23 (31¢) | $44,572 | — | ⏳ Pendiente |
-| S-Works | UFC 333: Grant Dawson vs. Nurullo Aliev (Lightweight, Prelims) | Nurullo Aliev | 2.04 (49¢) | $88,193 | — | ⏳ Pendiente |
+| S-Works | UFC 333: Grant Dawson vs. Nurullo Aliev (Lightweight, Prelims) | Nurullo Aliev | 2.04 (49¢) | $88,193 | -$88,193 | ❌ Perdida |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $32,900 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $54,526 | — | ⏳ Pendiente |
 | lllllllIlll | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Racing Club vs. RCD Espanyol de Barcelona: O/U 0.5 | Over 0.5 | 1.25 (80¢) | $80,500 | +$20,125 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Racing Club vs. RCD Espanyol de Barcelona: O/U 0.5 | Over 0.5 | 1.25 (80¢) | $80,500 | +$20,125 | ✅ Ganada |
 | EdZachary | Spread: Cavaliers (-11.5) | Cavaliers | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
-| Talvez10 | Spread: Spurs (-12.5) | Spurs | 1.96 (51¢) | $39,632 | — | ⏳ Pendiente |
-| crazyoddslover | Swiss Indoors Basel, Qualification: Aleksandar Kovacevic vs James Duckworth | Aleksandar Kovacevic | 1.69 (59¢) | $31,343 | +$21,781 | ✅ Ganada |

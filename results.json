@@ -93804,7 +93804,7 @@
     "side": "BUY",
     "usd": 88192.993,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792858691,
     "fills": 1
   },
@@ -93924,7 +93924,7 @@
     "side": "BUY",
     "usd": 59800.0,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792860637,
     "fills": 1
   },
@@ -94211,6 +94211,36 @@
     "odds_at_bet": 54,
     "status": "pending",
     "ultimo_fill": 1792864282,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12717,
+    "timestamp": 1792864773,
+    "username": "zhqzhq",
+    "wallet": "0xac715194f101aa682a63e56d979e58e6b2e40b92",
+    "slug": "sea-laz-par-2026-10-24-par",
+    "title": "Will Parma Calcio 1913 win on 2026-10-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 43000.0,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1792864773,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12718,
+    "timestamp": 1792864856,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "lol-cfo-mkoi-2026-10-24",
+    "title": "LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 112950.9444,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1792864856,
     "fills": 1
   }
 ]
