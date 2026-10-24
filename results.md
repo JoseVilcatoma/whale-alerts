@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 15:44:19 (hora de Perú)
+Actualizado: 2026-10-24 15:46:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6310**  ($354,885,663 en total)
+- Apuestas registradas: **6311**  ($354,916,543 en total)
 - Resueltas: **6235** — 3805 ganadas / 2430 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 628
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Nooserac | Kansas State vs. Arizona State | Arizona State | 1.54 (65¢) | $30,880 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.92 (52¢) | $69,818 | — | ⏳ Pendiente |
 | Mambaxbt | Heat vs. Hornets | Heat | 1.67 (60¢) | $74,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.08 (48¢) | $165,732 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | MeiGuNiuBi | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $32,592 | -$32,592 | ❌ Perdida |
 | Sassy-Bucket | Miami (OH) vs. Central Michigan | Central Michigan | 2.44 (41¢) | $67,472 | — | ⏳ Pendiente |
 | Pwaddler | Tennessee vs. South Carolina | South Carolina | 1.82 (55¢) | $42,735 | — | ⏳ Pendiente |
-| Sassy-Bucket | Akron vs. Kent State | Kent State | 1.72 (58¢) | $27,198 | — | ⏳ Pendiente |

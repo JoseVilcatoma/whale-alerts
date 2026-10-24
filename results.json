@@ -94842,5 +94842,20 @@
     "status": "pending",
     "ultimo_fill": 1792874473,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12814,
+    "timestamp": 1792874715,
+    "username": "Nooserac",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "cfb-kanst-arzst-2026-10-24",
+    "title": "Kansas State vs. Arizona State",
+    "outcome": "Arizona State",
+    "side": "BUY",
+    "usd": 30879.758,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1792874715,
+    "fills": 1
   }
 ]
