@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 20:09:00 (hora de Perú)
+Actualizado: 2026-10-23 20:11:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6133**  ($342,899,394 en total)
+- Apuestas registradas: **6134**  ($342,932,719 en total)
 - Resueltas: **6063** — 3709 ganadas / 2354 perdidas (**61%** de acierto)
-- Pendientes: 48
-- Apostadores distintos: 618
+- Pendientes: 49
+- Apostadores distintos: 619
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 19 | 0 | 52% | $1,829,321 | -$98,360 |
 | TAIWANNUMBERONE | 31 | 16 | 0 | 66% | $1,825,045 | -$150,964 |
 
-_(mostrando los 40 de mayor monto, de 618 en total)_
+_(mostrando los 40 de mayor monto, de 619 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Knicks vs. Celtics | Celtics | 1.18 (85¢) | $33,325 | — | ⏳ Pendiente |
 | scootergene | Pelicans vs. Jazz: O/U 238.5 | Over 238.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | googleplay | Pelicans vs. Jazz: O/U 238.5 | Under 238.5 | 2.00 (50¢) | $248,760 | — | ⏳ Pendiente |
 | ticklepickles444 | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $38,191 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 618 en total)_
 | ferrariChampions2026 | European Open: Jan-Lennard Struff vs Zizou Bergs | Zizou Bergs | 2.27 (44¢) | $25,110 | -$25,110 | ❌ Perdida |
 | Donkey14 | Knicks vs. Celtics | Celtics | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
 | EdZachary | Bulls vs. Bucks | Bucks | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
-| Mooseborzoiii | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.20 (83¢) | $82,959 | -$82,959 | ❌ Perdida |
