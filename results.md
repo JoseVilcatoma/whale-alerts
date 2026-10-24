@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 18:39:20 (hora de Perú)
+Actualizado: 2026-10-24 18:41:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6364**  ($359,294,471 en total)
+- Apuestas registradas: **6366**  ($359,371,475 en total)
 - Resueltas: **6269** — 3823 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Pendientes: 75
 - Apostadores distintos: 630
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 455 | 248 | 9 | 65% | $46,067,733 | +$992,583 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 455 | 248 | 10 | 65% | $46,110,136 | +$992,583 |
 | Sassy-Bucket | 86 | 88 | 10 | 49% | $11,659,202 | -$1,264,352 |
 | mooseborzoii | 85 | 44 | 11 | 66% | $7,986,631 | +$1,189,712 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 630 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $42,403 | — | ⏳ Pendiente |
+| juice-fruit | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $34,601 | — | ⏳ Pendiente |
 | Eugycom | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $34,300 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bulls (-1.5) | Bulls | 1.96 (51¢) | $101,193 | — | ⏳ Pendiente |
 | juice-fruit | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 630 en total)_
 | Mambaxbt | Heat vs. Hornets | Heat | 1.67 (60¢) | $74,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.08 (48¢) | $165,732 | +$179,543 | ✅ Ganada |
 | mooseborzoii | BYU vs. UCF | BYU | 1.64 (61¢) | $27,446 | — | ⏳ Pendiente |
-| Flaznorp | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Under 2.5 | 1.39 (72¢) | $32,734 | +$12,730 | ✅ Ganada |
-| gol702 | M25 Tamworth: Blake Ellis vs Isaac Becroft | Isaac Becroft | 1.92 (52¢) | $25,994 | — | ⏳ Pendiente |

@@ -95654,5 +95654,35 @@
     "status": "pending",
     "ultimo_fill": 1792884578,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12903,
+    "timestamp": 1792885240,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "nba-mil-phi-2026-10-24-spread-home-12pt5",
+    "title": "Spread: 76ers (-12.5)",
+    "outcome": "Bucks",
+    "side": "BUY",
+    "usd": 34600.81,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792885240,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12904,
+    "timestamp": 1792885267,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-mil-phi-2026-10-24-spread-home-12pt5",
+    "title": "Spread: 76ers (-12.5)",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 42402.806599999996,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792885267,
+    "fills": 1
   }
 ]
