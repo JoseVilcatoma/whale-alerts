@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 22:05:00 (hora de Perú)
+Actualizado: 2026-10-23 22:07:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6147**  ($343,761,539 en total)
+- Apuestas registradas: **6148**  ($343,796,941 en total)
 - Resueltas: **6101** — 3734 ganadas / 2367 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 619
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Army vs. Tulsa | Tulsa | 1.64 (61¢) | $35,402 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Army vs. Tulsa | Tulsa | 3.70 (27¢) | $28,912 | — | ⏳ Pendiente |
 | RJW1 | Rockets vs. Spurs | Spurs | 1.69 (59¢) | $36,828 | — | ⏳ Pendiente |
 | Kkunn | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.61 (62¢) | $28,758 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.44 (41¢) | $28,313 | +$40,743 | ✅ Ganada |
 | zb8 | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.49 (67¢) | $57,284 | +$28,214 | ✅ Ganada |
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.54 (65¢) | $254,300 | +$136,931 | ✅ Ganada |
-| Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | G2 Esports | 2.50 (40¢) | $40,000 | -$40,000 | ❌ Perdida |
