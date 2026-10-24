@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 13:32:24 (hora de Perú)
+Actualizado: 2026-10-24 13:34:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6280**  ($352,788,246 en total)
+- Apuestas registradas: **6281**  ($352,830,407 en total)
 - Resueltas: **6185** — 3774 ganadas / 2411 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Pendientes: 74
 - Apostadores distintos: 624
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 448 | 245 | 11 | 65% | $45,161,468 | +$750,027 |
-| Sassy-Bucket | 83 | 84 | 6 | 50% | $10,599,221 | -$1,041,337 |
+| Sassy-Bucket | 83 | 84 | 7 | 50% | $10,641,382 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.79 (56¢) | $42,161 | — | ⏳ Pendiente |
 | mooseborzoii | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Rizvan Kuniev | 2.27 (44¢) | $36,027 | — | ⏳ Pendiente |
 | retordedgremlin125 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.20 (83¢) | $69,307 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.20 (83¢) | $44,404 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $38,808 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.23 (81¢) | $58,777 | +$13,787 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-10-24? | Yes | 2.00 (50¢) | $75,788 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Kholood Saudi Club vs. Al Ettifaq Saudi Club: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $170,200 | — | ⏳ Pendiente |

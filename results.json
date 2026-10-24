@@ -94392,5 +94392,20 @@
     "status": "pending",
     "ultimo_fill": 1792866677,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12734,
+    "timestamp": 1792866858,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "ufc-ale22-riz-2026-10-24",
+    "title": "UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card)",
+    "outcome": "Alexander Volkov",
+    "side": "BUY",
+    "usd": 42161.280000000006,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1792866858,
+    "fills": 1
   }
 ]
