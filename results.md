@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 19:23:43 (hora de Perú)
+Actualizado: 2026-10-23 19:25:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6127**  ($342,313,216 en total)
+- Apuestas registradas: **6128**  ($342,414,016 en total)
 - Resueltas: **6057** — 3703 ganadas / 2354 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 617
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 778908 | Duke vs. Virginia | Virginia | 1.39 (72¢) | $100,800 | — | ⏳ Pendiente |
 | zb8 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.69 (59¢) | $25,585 | — | ⏳ Pendiente |
 | Jokerxing7 | Pelicans vs. Jazz | Jazz | 1.96 (51¢) | $47,249 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | Team Secret Whales | 2.33 (43¢) | $26,033 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $32,800 | -$32,800 | ❌ Perdida |
 | meoooow | LoL: Bilibili Gaming vs Movistar KOI (BO1) - Worlds Group Stage | Bilibili Gaming | 1.22 (82¢) | $31,241 | -$31,241 | ❌ Perdida |
 | omnibus-076daa | Will Ipswich Town FC win on 2026-10-23? | Yes | 3.33 (30¢) | $138,844 | -$138,844 | ❌ Perdida |
-| UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | +$20,171 | ✅ Ganada |
 | UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | +$20,171 | ✅ Ganada |

@@ -92095,5 +92095,20 @@
     "status": "pending",
     "ultimo_fill": 1792800635,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12448,
+    "timestamp": 1792801511,
+    "username": "778908",
+    "wallet": "0x3c3ac5fb217e2aee15e00198f4c47f6bb29c8b5f",
+    "slug": "cfb-duke-vir-2026-10-23",
+    "title": "Duke vs. Virginia",
+    "outcome": "Virginia",
+    "side": "BUY",
+    "usd": 100800.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1792801511,
+    "fills": 2
   }
 ]
