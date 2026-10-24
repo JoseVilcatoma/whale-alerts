@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 13:34:25 (hora de Perú)
+Actualizado: 2026-10-24 13:36:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6281**  ($352,830,407 en total)
-- Resueltas: **6185** — 3774 ganadas / 2411 perdidas (**61%** de acierto)
-- Pendientes: 74
+- Resueltas: **6188** — 3775 ganadas / 2413 perdidas (**61%** de acierto)
+- Pendientes: 71
 - Apostadores distintos: 624
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,491,960** sobre $347,230,560 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,236** sobre $609,900 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,510,882** sobre $347,316,041 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,292** sobre $610,200 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -93,12 +93,12 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | 999585 | LSU vs. Auburn | LSU | 1.06 (94¢) | $411,655 | — | ⏳ Pendiente |
 | Woaifacai | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: SS Lazio (-1.5) | SS Lazio | 2.33 (43¢) | $31,497 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Top Esports | 2.44 (41¢) | $27,289 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Top Esports | 2.44 (41¢) | $27,289 | +$39,270 | ✅ Ganada |
 | YYYYY999 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.45 (69¢) | $31,050 | — | ⏳ Pendiente |
 | Talvez10 | UFC 333: Nikita Krylov vs. Abdul-Rakhman Yakhyaev (Light Heavyweight, Prelims) | Abdul-Rakhman Yakhyaev | 1.22 (82¢) | $35,613 | +$7,818 | ✅ Ganada |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $27,426 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Akron vs. Kent State | Akron | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
-| MeiGuNiuBi | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $32,592 | — | ⏳ Pendiente |
+| MeiGuNiuBi | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $32,592 | -$32,592 | ❌ Perdida |
 | Sassy-Bucket | Miami (OH) vs. Central Michigan | Central Michigan | 2.44 (41¢) | $67,472 | — | ⏳ Pendiente |
 | Pwaddler | Tennessee vs. South Carolina | South Carolina | 1.82 (55¢) | $42,735 | — | ⏳ Pendiente |
 | Sassy-Bucket | Akron vs. Kent State | Kent State | 1.72 (58¢) | $27,198 | — | ⏳ Pendiente |
@@ -115,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $32,900 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $54,526 | — | ⏳ Pendiente |
 | lllllllIlll | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
-| lllllllIlll | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
+| lllllllIlll | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $25,600 | -$25,600 | ❌ Perdida |
 | juice-fruit | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $65,356 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $78,962 | — | ⏳ Pendiente |
 | Ksi172 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $26,101 | — | ⏳ Pendiente |
