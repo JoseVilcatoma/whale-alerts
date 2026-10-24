@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 21:33:11 (hora de Perú)
+Actualizado: 2026-10-23 21:35:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6144**  ($343,667,040 en total)
-- Resueltas: **6095** — 3729 ganadas / 2366 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **6097** — 3730 ganadas / 2367 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$217,785** sobre $340,870,924 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,960** sobre $601,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$296,864** sobre $341,027,578 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,021** sobre $601,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 |---|---|---|---|---|---|---|
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.20 (83¢) | $64,190 | — | ⏳ Pendiente |
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.27 (79¢) | $60,938 | — | ⏳ Pendiente |
-| KaneAnalytics | Duke vs. Virginia | Duke | 1.39 (72¢) | $55,854 | — | ⏳ Pendiente |
+| KaneAnalytics | Duke vs. Virginia | Duke | 1.39 (72¢) | $55,854 | +$21,721 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Warriors | Grizzlies | 2.56 (39¢) | $54,177 | — | ⏳ Pendiente |
 | Woaifacai | Grizzlies vs. Warriors | Warriors | 1.64 (61¢) | $144,230 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $28,800 | — | ⏳ Pendiente |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | ticklepickles444 | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $38,191 | +$12,730 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.06 (94¢) | $33,206 | +$2,120 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.15 (87¢) | $139,722 | +$20,878 | ✅ Ganada |
-| 778908 | Duke vs. Virginia | Virginia | 1.39 (72¢) | $100,800 | — | ⏳ Pendiente |
+| 778908 | Duke vs. Virginia | Virginia | 1.39 (72¢) | $100,800 | -$100,800 | ❌ Perdida |
 | zb8 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.69 (59¢) | $25,585 | +$17,779 | ✅ Ganada |
 | Jokerxing7 | Pelicans vs. Jazz | Jazz | 1.96 (51¢) | $47,249 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | Team Secret Whales | 2.33 (43¢) | $26,033 | -$26,033 | ❌ Perdida |

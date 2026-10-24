@@ -92107,7 +92107,7 @@
     "side": "BUY",
     "usd": 100800.0,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792801511,
     "fills": 2
   },
@@ -92317,7 +92317,7 @@
     "side": "BUY",
     "usd": 55853.748,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792807826,
     "fills": 2
   },
