@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 19:40:14 (hora de Perú)
+Actualizado: 2026-10-23 19:42:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6130**  ($342,586,943 en total)
-- Resueltas: **6058** — 3704 ganadas / 2354 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Resueltas: **6063** — 3709 ganadas / 2354 perdidas (**61%** de acierto)
+- Pendientes: 45
 - Apostadores distintos: 617
 
 ### Balance
 
-- **Resultado de los apostadores: -$649,662** sobre $338,622,416 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$6,022** sobre $597,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$622,210** sobre $338,846,717 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,961** sobre $597,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | vtcchampion52 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | Team Secret Whales | 2.38 (42¢) | $25,871 | — | ⏳ Pendiente |
 | googleplay | Pistons vs. Heat | Pistons | 1.85 (54¢) | $177,436 | — | ⏳ Pendiente |
-| PEYZ-BIGGEST-FAN | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.11 (90¢) | $56,453 | — | ⏳ Pendiente |
+| PEYZ-BIGGEST-FAN | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.11 (90¢) | $56,453 | +$6,273 | ✅ Ganada |
 | bluemario | Cruzeiro EC vs. Clube do Remo: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $101,544 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Lakers: O/U 225.5 | Under 225.5 | 2.00 (50¢) | $37,927 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Warriors (-4.5) | Warriors | 1.96 (51¢) | $70,069 | — | ⏳ Pendiente |
@@ -89,17 +89,17 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | Jokerxing7 | Pistons vs. Heat: O/U 235.5 | Over 235.5 | 2.00 (50¢) | $31,803 | — | ⏳ Pendiente |
 | dhgreg | Raptors vs. Wizards | Wizards | 3.70 (27¢) | $81,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $47,514 | — | ⏳ Pendiente |
-| bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $50,000 | — | ⏳ Pendiente |
+| bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
 | para-Vision | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | 778908 | North Carolina Central vs. Delaware State | North Carolina Central | 1.72 (58¢) | $127,348 | +$92,218 | ✅ Ganada |
 | Talvez10 | Spread: Magic (-1.5) | Magic | 1.92 (52¢) | $57,192 | — | ⏳ Pendiente |
-| Kkunn | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $34,223 | — | ⏳ Pendiente |
+| Kkunn | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $34,223 | +$4,230 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-2.5) | Knicks | 2.08 (48¢) | $79,701 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $29,944 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Magic (-1.5) | Timberwolves | 2.04 (49¢) | $39,233 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $61,689 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Magic (-1.5) | Magic | 1.96 (51¢) | $29,000 | — | ⏳ Pendiente |
-| wanzzz333 | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $49,626 | — | ⏳ Pendiente |
+| wanzzz333 | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $49,626 | +$6,134 | ✅ Ganada |
 | dhgreg | Raptors vs. Wizards | Wizards | 3.85 (26¢) | $27,842 | — | ⏳ Pendiente |
 | mooseborzoii | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $50,063 | — | ⏳ Pendiente |
 | googleplay | Knicks vs. Celtics | Celtics | 1.72 (58¢) | $692,461 | — | ⏳ Pendiente |
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.00 (50¢) | $250,000 | +$250,000 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $29,200 | -$29,200 | ❌ Perdida |
 | beeemw | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $37,875 | — | ⏳ Pendiente |
-| bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.14 (88¢) | $34,000 | — | ⏳ Pendiente |
+| bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.14 (88¢) | $34,000 | +$4,636 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.44 (41¢) | $28,313 | +$40,743 | ✅ Ganada |
 | zb8 | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.49 (67¢) | $57,284 | +$28,214 | ✅ Ganada |
 | Mooseborzoiii | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.54 (65¢) | $254,300 | +$136,931 | ✅ Ganada |
