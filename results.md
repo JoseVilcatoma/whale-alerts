@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 16:09:06 (hora de Perú)
+Actualizado: 2026-10-24 16:11:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6314**  ($355,053,563 en total)
+- Apuestas registradas: **6315**  ($355,080,257 en total)
 - Resueltas: **6241** — 3810 ganadas / 2431 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 52
 - Apostadores distintos: 628
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | San Jose State vs. Nevada | Nevada | 1.43 (70¢) | $26,694 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Jose State vs. Nevada | San Jose State | 2.94 (34¢) | $28,115 | — | ⏳ Pendiente |
 | YYYYY999 | Spread: Bulls (-1.5) | Wizards | 1.96 (51¢) | $32,587 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.89 (53¢) | $76,318 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | YYYYY999 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.45 (69¢) | $31,050 | +$13,950 | ✅ Ganada |
 | Talvez10 | UFC 333: Nikita Krylov vs. Abdul-Rakhman Yakhyaev (Light Heavyweight, Prelims) | Abdul-Rakhman Yakhyaev | 1.22 (82¢) | $35,613 | +$7,818 | ✅ Ganada |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $27,426 | +$9,142 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Akron vs. Kent State | Akron | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
