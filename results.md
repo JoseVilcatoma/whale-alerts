@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 09:33:59 (hora de Perú)
+Actualizado: 2026-10-24 09:36:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6204**  ($347,924,595 en total)
+- Apuestas registradas: **6205**  ($347,955,375 en total)
 - Resueltas: **6151** — 3752 ganadas / 2399 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 620
 
 ### Balance
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 35 | 23 | 4 | 60% | $7,865,280 | -$694,864 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
+| mooseborzoii | 79 | 43 | 2 | 65% | $7,243,484 | +$1,127,050 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| mooseborzoii | 79 | 43 | 1 | 65% | $7,212,704 | +$1,127,050 |
 | ferrariChampions2026 | 101 | 49 | 0 | 67% | $6,586,934 | +$286,715 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.08 (48¢) | $30,780 | — | ⏳ Pendiente |
 | Zzzz87 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $33,902 | — | ⏳ Pendiente |
 | Woaifacai | Will Fulham FC win on 2026-10-24? | Yes | 2.22 (45¢) | $29,341 | — | ⏳ Pendiente |
 | PollyPepperoni | UFC 333: Noah Gugnon vs. Kody Steele (Lightweight, Early Prelims) | Noah Gugnon | 2.38 (42¢) | $29,912 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | KaneAnalytics | Army vs. Tulsa | Tulsa | 1.61 (62¢) | $75,646 | -$75,646 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Army vs. Tulsa | Tulsa | 3.70 (27¢) | $28,912 | -$28,912 | ❌ Perdida |
 | RJW1 | Rockets vs. Spurs | Spurs | 1.69 (59¢) | $36,828 | -$36,828 | ❌ Perdida |
-| Kkunn | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.61 (62¢) | $28,758 | -$28,758 | ❌ Perdida |
