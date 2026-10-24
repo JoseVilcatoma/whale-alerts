@@ -93265,5 +93265,20 @@
     "status": "pending",
     "ultimo_fill": 1792852543,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12624,
+    "timestamp": 1792852619,
+    "username": "veliMax",
+    "wallet": "0x3435519d1d620440c7dab8b5c9ec5d79c1a5a1ed",
+    "slug": "epl-ars-eve-2026-10-24-ars",
+    "title": "Will Arsenal FC win on 2026-10-24?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 45446.577143,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1792852619,
+    "fills": 1
   }
 ]
