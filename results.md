@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 08:11:36 (hora de Perú)
+Actualizado: 2026-10-24 08:13:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6191**  ($346,754,662 en total)
+- Apuestas registradas: **6192**  ($346,780,312 en total)
 - Resueltas: **6135** — 3747 ganadas / 2388 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 619
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | TAIWANNUMBERONE | 31 | 17 | 0 | 65% | $1,858,023 | -$183,942 |
+| Jsram | 21 | 19 | 1 | 52% | $1,854,971 | -$98,360 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
-| Jsram | 21 | 19 | 0 | 52% | $1,829,321 | -$98,360 |
 
 _(mostrando los 40 de mayor monto, de 619 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Will Fulham FC win on 2026-10-24? | No | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
 | Kch-Temp | Will Arsenal FC win on 2026-10-24? | Yes | 1.45 (69¢) | $91,261 | — | ⏳ Pendiente |
 | crisp1973 | Will 1. FC Köln win on 2026-10-24? | No | 1.89 (53¢) | $30,901 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Celtics | Celtics | 1.14 (88¢) | $88,880 | +$12,120 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Knicks vs. Celtics | Celtics | 1.18 (85¢) | $33,325 | +$5,881 | ✅ Ganada |
 | scootergene | Pelicans vs. Jazz: O/U 238.5 | Over 238.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
-| googleplay | Pelicans vs. Jazz: O/U 238.5 | Under 238.5 | 2.00 (50¢) | $248,760 | -$248,760 | ❌ Perdida |
