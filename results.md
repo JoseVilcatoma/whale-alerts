@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 11:01:44 (hora de Perú)
+Actualizado: 2026-10-24 11:03:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6233**  ($350,249,406 en total)
+- Apuestas registradas: **6234**  ($350,275,507 en total)
 - Resueltas: **6157** — 3755 ganadas / 2402 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 620
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Ksi172 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $26,101 | — | ⏳ Pendiente |
 | joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.89 (53¢) | $129,390 | — | ⏳ Pendiente |
 | raybanman | Will Tottenham Hotspur FC win on 2026-10-24? | Yes | 4.17 (24¢) | $54,000 | — | ⏳ Pendiente |
 | Jokerxing7 | SSC Napoli vs. AS Roma: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $30,033 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-10-24? | No | 1.23 (81¢) | $60,579 | -$60,579 | ❌ Perdida |
 | beeemw | Will Aston Villa FC win on 2026-10-24? | No | 1.22 (82¢) | $49,737 | -$49,737 | ❌ Perdida |
 | 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.69 (59¢) | $45,888 | -$45,888 | ❌ Perdida |
-| S-Works | FK Liepaja vs. FK Tukums 2000/TSS: O/U 0.5 | Over 0.5 | 1.14 (88¢) | $88,100 | -$88,100 | ❌ Perdida |
