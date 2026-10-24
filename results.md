@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 10:14:53 (hora de Perú)
+Actualizado: 2026-10-24 10:16:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6212**  ($348,256,042 en total)
-- Resueltas: **6153** — 3752 ganadas / 2401 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Resueltas: **6154** — 3753 ganadas / 2401 perdidas (**61%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 620
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,724,756** sobre $344,893,203 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$7,287** sobre $606,800 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,675,343** sobre $344,930,479 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,155** sobre $606,900 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | crisp1973 | Will 1. FC Köln win on 2026-10-24? | No | 1.89 (53¢) | $30,901 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
 | robustmst | Swiss Indoors Basel, Qualification: Sebastian Baez vs Giovanni Mpetshi Perricard | Sebastian Baez | 2.63 (38¢) | $29,702 | -$29,702 | ❌ Perdida |
-| Jokerxing7 | Spread: Como 1907 (-1.5) | Como 1907 | 2.33 (43¢) | $37,277 | — | ⏳ Pendiente |
+| Jokerxing7 | Spread: Como 1907 (-1.5) | Como 1907 | 2.33 (43¢) | $37,277 | +$49,413 | ✅ Ganada |
 | Jokerxing7 | Rayo Vallecano de Madrid vs. Elche CF: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $32,956 | +$29,226 | ✅ Ganada |
 | Jokerxing7 | Como 1907 vs. US Sassuolo Calcio: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $42,032 | -$42,032 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: MOUZ vs Liquid (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.43 (70¢) | $51,981 | -$51,981 | ❌ Perdida |
