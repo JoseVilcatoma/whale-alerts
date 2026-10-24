@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 12:31:40 (hora de Perú)
+Actualizado: 2026-10-24 12:33:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6261**  ($351,512,292 en total)
+- Apuestas registradas: **6262**  ($351,718,119 en total)
 - Resueltas: **6180** — 3773 ganadas / 2407 perdidas (**61%** de acierto)
-- Pendientes: 59
-- Apostadores distintos: 622
+- Pendientes: 60
+- Apostadores distintos: 623
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 
-_(mostrando los 40 de mayor monto, de 622 en total)_
+_(mostrando los 40 de mayor monto, de 623 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | LSU vs. Auburn | LSU | 1.06 (94¢) | $205,827 | — | ⏳ Pendiente |
 | Woaifacai | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: SS Lazio (-1.5) | SS Lazio | 2.33 (43¢) | $31,497 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Top Esports | 2.44 (41¢) | $27,289 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 | mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.08 (48¢) | $30,780 | — | ⏳ Pendiente |
 | Zzzz87 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $33,902 | — | ⏳ Pendiente |
 | Woaifacai | Will Fulham FC win on 2026-10-24? | Yes | 2.22 (45¢) | $29,341 | +$35,861 | ✅ Ganada |
-| PollyPepperoni | UFC 333: Noah Gugnon vs. Kody Steele (Lightweight, Early Prelims) | Noah Gugnon | 2.38 (42¢) | $29,912 | -$29,912 | ❌ Perdida |

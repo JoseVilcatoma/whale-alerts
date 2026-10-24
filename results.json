@@ -94107,5 +94107,20 @@
     "status": "pending",
     "ultimo_fill": 1792862443,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12709,
+    "timestamp": 1792863164,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "cfb-lsu-aubrn-2026-10-24",
+    "title": "LSU vs. Auburn",
+    "outcome": "LSU",
+    "side": "BUY",
+    "usd": 205827.43839999998,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1792863180,
+    "fills": 2
   }
 ]
