@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 10:49:22 (hora de Perú)
+Actualizado: 2026-10-24 10:51:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6228**  ($349,271,422 en total)
+- Apuestas registradas: **6230**  ($349,564,593 en total)
 - Resueltas: **6155** — 3753 ganadas / 2402 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 53
 - Apostadores distintos: 620
 
 ### Balance
@@ -31,8 +31,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | mooseborzoii | 79 | 43 | 3 | 65% | $7,270,097 | +$1,127,050 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
+| joseph00677 | 21 | 2 | 3 | 91% | $6,791,250 | +$3,145,251 |
 | ferrariChampions2026 | 101 | 49 | 0 | 67% | $6,586,934 | +$286,715 |
-| joseph00677 | 21 | 2 | 2 | 91% | $6,546,079 | +$3,145,251 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Lakersfan111 | 69 | 46 | 7 | 60% | $5,955,428 | +$45,676 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| plonker2026 | Will Chelsea FC win on 2026-10-24? | No | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
+| joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $245,171 | — | ⏳ Pendiente |
 | joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $249,115 | — | ⏳ Pendiente |
 | ArturitoFilito | Will Chelsea FC win on 2026-10-24? | No | 2.08 (48¢) | $32,000 | — | ⏳ Pendiente |
 | UpTheBlues | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $26,752 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FK Liepaja vs. FK Tukums 2000/TSS: O/U 0.5 | Over 0.5 | 1.12 (89¢) | $131,927 | -$131,927 | ❌ Perdida |
 | salgnklasf | Counter-Strike: Spirit vs BetBoom Team (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.27 (79¢) | $25,536 | -$25,536 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Isenmulang Kalteng FC vs. Psim Yogyakarta: O/U 0.5 | Over 0.5 | 1.37 (73¢) | $36,341 | -$36,341 | ❌ Perdida |
-| S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $61,266 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ningbo Open: Elena Rybakina vs Diana Shnaider | Elena Rybakina | 1.61 (62¢) | $40,164 | +$24,617 | ✅ Ganada |
