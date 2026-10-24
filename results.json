@@ -95354,5 +95354,35 @@
     "status": "pending",
     "ultimo_fill": 1792882781,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12883,
+    "timestamp": 1792882984,
+    "username": "robustmst",
+    "wallet": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63",
+    "slug": "nba-mia-cha-2026-10-24",
+    "title": "Heat vs. Hornets",
+    "outcome": "Hornets",
+    "side": "BUY",
+    "usd": 48853.999999,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792882984,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12884,
+    "timestamp": 1792883016,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nba-was-chi-2026-10-24-spread-home-1pt5",
+    "title": "Spread: Bulls (-1.5)",
+    "outcome": "Wizards",
+    "side": "BUY",
+    "usd": 39999.998499999994,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792883016,
+    "fills": 1
   }
 ]

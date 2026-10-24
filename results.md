@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 18:01:44 (hora de Perú)
+Actualizado: 2026-10-24 18:03:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6344**  ($356,741,740 en total)
+- Apuestas registradas: **6346**  ($356,830,594 en total)
 - Resueltas: **6269** — 3823 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 55
 - Apostadores distintos: 628
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Spread: Bulls (-1.5) | Wizards | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
+| robustmst | Heat vs. Hornets | Hornets | 1.89 (53¢) | $48,854 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Oklahoma State (-13.5) | Colorado | 1.96 (51¢) | $44,319 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.33 (43¢) | $68,536 | — | ⏳ Pendiente |
 | mooseborzoii | Ole Miss vs. Texas | Ole Miss | 2.44 (41¢) | $82,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | Nooserac | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.27 (79¢) | $36,978 | +$9,830 | ✅ Ganada |
 | End123 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
 | YYYYY999 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.22 (82¢) | $101,042 | +$22,180 | ✅ Ganada |
-| mooseborzoii | Spread: Ohio (-10.5) | Eastern Michigan | 1.96 (51¢) | $73,600 | — | ⏳ Pendiente |
-| Talvez10 | Wild vs. Kraken | Wild | 1.64 (61¢) | $35,187 | — | ⏳ Pendiente |
