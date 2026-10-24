@@ -95679,10 +95679,25 @@
     "title": "Spread: 76ers (-12.5)",
     "outcome": "76ers",
     "side": "BUY",
-    "usd": 42402.806599999996,
+    "usd": 89964.73009999999,
     "odds_at_bet": 49,
     "status": "pending",
-    "ultimo_fill": 1792885267,
+    "ultimo_fill": 1792885289,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 12905,
+    "timestamp": 1792885337,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-brooksb-debru-2026-10-24",
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Jenson Brooksby",
+    "side": "BUY",
+    "usd": 32853.7429,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1792885337,
     "fills": 1
   }
 ]
