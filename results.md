@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 09:11:18 (hora de Perú)
+Actualizado: 2026-10-24 09:13:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6200**  ($347,804,612 en total)
+- Apuestas registradas: **6201**  ($347,831,440 en total)
 - Resueltas: **6149** — 3751 ganadas / 2398 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 619
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 445 | 242 | 3 | 65% | $44,261,456 | +$810,286 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 445 | 242 | 4 | 65% | $44,288,283 | +$810,286 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 35 | 23 | 4 | 60% | $7,865,280 | -$694,864 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Arsenal FC (-2.5) | Arsenal FC | 2.70 (37¢) | $26,828 | — | ⏳ Pendiente |
 | gmpm2 | Wizards vs. Bulls | Bulls | 1.92 (52¢) | $33,181 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.20 (83¢) | $58,100 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.39 (72¢) | $432,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.20 (83¢) | $64,190 | +$13,147 | ✅ Ganada |
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.27 (79¢) | $60,938 | +$16,199 | ✅ Ganada |
 | KaneAnalytics | Duke vs. Virginia | Duke | 1.39 (72¢) | $55,854 | +$21,721 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Warriors | Grizzlies | 2.56 (39¢) | $54,177 | +$84,738 | ✅ Ganada |
