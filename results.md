@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 11:58:19 (hora de Perú)
+Actualizado: 2026-10-24 12:00:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6251**  ($351,115,617 en total)
+- Apuestas registradas: **6255**  ($351,299,416 en total)
 - Resueltas: **6158** — 3756 ganadas / 2402 perdidas (**61%** de acierto)
-- Pendientes: 71
+- Pendientes: 75
 - Apostadores distintos: 622
 
 ### Balance
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 446 | 242 | 13 | 65% | $45,020,979 | +$824,073 |
-| Sassy-Bucket | 83 | 84 | 4 | 50% | $10,487,632 | -$1,041,337 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 446 | 242 | 14 | 65% | $45,061,979 | +$824,073 |
+| Sassy-Bucket | 83 | 84 | 5 | 50% | $10,555,104 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 35 | 23 | 4 | 60% | $7,865,280 | -$694,864 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Akron vs. Kent State | Akron | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
+| MeiGuNiuBi | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $32,592 | — | ⏳ Pendiente |
+| Sassy-Bucket | Miami (OH) vs. Central Michigan | Central Michigan | 2.44 (41¢) | $67,472 | — | ⏳ Pendiente |
+| Pwaddler | Tennessee vs. South Carolina | South Carolina | 1.82 (55¢) | $42,735 | — | ⏳ Pendiente |
 | Sassy-Bucket | Akron vs. Kent State | Kent State | 1.72 (58¢) | $27,198 | — | ⏳ Pendiente |
 | Sassy-Bucket | Baylor vs. Kansas | Baylor | 2.00 (50¢) | $98,325 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Abus Magomedov vs. Cam Rowston (Middleweight, Prelims) | Cam Rowston | 2.17 (46¢) | $59,800 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 | totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.39 (72¢) | $432,000 | — | ⏳ Pendiente |
 | Zzzz87 | Spread: Arsenal FC (-1.5) | Arsenal FC | 2.13 (47¢) | $48,807 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.39 (72¢) | $288,000 | — | ⏳ Pendiente |
-| Woaifacai | Pan Pacific Open, Qualification: Kayla Day vs Shuai Zhang | Shuai Zhang | 1.25 (80¢) | $32,512 | +$8,128 | ✅ Ganada |
-| totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.41 (71¢) | $106,500 | — | ⏳ Pendiente |
-| Jsram | Will Fulham FC win on 2026-10-24? | No | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
