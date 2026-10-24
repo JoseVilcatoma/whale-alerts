@@ -94752,5 +94752,20 @@
     "status": "pending",
     "ultimo_fill": 1792872855,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12790,
+    "timestamp": 1792873282,
+    "username": "gol702",
+    "wallet": "0x71a15f07f1eb2f1b3a27ee47f2d3f21377be54e2",
+    "slug": "itf-ellis1-becrof1-2026-10-24",
+    "title": "M25 Tamworth: Blake Ellis vs Isaac Becroft",
+    "outcome": "Isaac Becroft",
+    "side": "BUY",
+    "usd": 25994.3944,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792873282,
+    "fills": 1
   }
 ]

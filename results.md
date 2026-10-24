@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 15:19:26 (hora de Perú)
+Actualizado: 2026-10-24 15:21:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6304**  ($354,489,939 en total)
+- Apuestas registradas: **6305**  ($354,515,933 en total)
 - Resueltas: **6217** — 3790 ganadas / 2427 perdidas (**61%** de acierto)
-- Pendientes: 65
-- Apostadores distintos: 626
+- Pendientes: 66
+- Apostadores distintos: 627
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 
-_(mostrando los 40 de mayor monto, de 626 en total)_
+_(mostrando los 40 de mayor monto, de 627 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gol702 | M25 Tamworth: Blake Ellis vs Isaac Becroft | Isaac Becroft | 1.92 (52¢) | $25,994 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | LYON | 2.50 (40¢) | $39,380 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.69 (59¢) | $345,171 | — | ⏳ Pendiente |
 | texaskid | Spread: 76ers (-12.5) | 76ers | 2.00 (50¢) | $25,518 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 626 en total)_
 | gmpm2 | Wizards vs. Bulls | Bulls | 1.89 (53¢) | $33,596 | — | ⏳ Pendiente |
 | skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.70 (27¢) | $27,000 | -$27,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | No | 1.35 (74¢) | $74,000 | +$26,000 | ✅ Ganada |
-| skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.85 (26¢) | $26,000 | -$26,000 | ❌ Perdida |
