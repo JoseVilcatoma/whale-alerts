@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 17:41:17 (hora de Perú)
+Actualizado: 2026-10-24 17:43:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6341**  ($356,546,886 en total)
-- Resueltas: **6261** — 3819 ganadas / 2442 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Resueltas: **6268** — 3823 ganadas / 2445 perdidas (**61%** de acierto)
+- Pendientes: 51
 - Apostadores distintos: 628
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,818,455** sobre $352,815,517 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,446** sobre $617,400 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,777,332** sobre $353,232,294 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,487** sobre $618,100 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 454 | 248 | 6 | 65% | $45,598,367 | +$880,195 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 455 | 248 | 5 | 65% | $45,598,367 | +$992,583 |
 | Sassy-Bucket | 86 | 88 | 8 | 49% | $11,151,501 | -$1,264,352 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 25 | 22 | 2 | 53% | $2,286,861 | +$209,155 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Mooseborzoiii | 10 | 11 | 4 | 48% | $2,151,951 | -$121,043 |
+| Mooseborzoiii | 10 | 14 | 1 | 42% | $2,151,951 | -$258,804 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
 | TAIWANNUMBERONE | 31 | 17 | 0 | 65% | $1,858,023 | -$183,942 |
@@ -89,13 +89,13 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | ropetard | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $49,830 | — | ⏳ Pendiente |
 | mooseborzoii | Texas A&M vs. Alabama | Texas A&M | 3.45 (29¢) | $88,010 | — | ⏳ Pendiente |
 | juice-fruit | Will Inter Miami CF win on 2026-10-24? | Yes | 2.00 (50¢) | $28,510 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.33 (43¢) | $29,770 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.44 (41¢) | $35,115 | — | ⏳ Pendiente |
-| vtcchampion52 | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.56 (39¢) | $72,876 | — | ⏳ Pendiente |
-| Nooserac | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
-| PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.61 (62¢) | $43,230 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.64 (61¢) | $175,786 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.33 (43¢) | $29,770 | -$29,770 | ❌ Perdida |
+| Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.44 (41¢) | $35,115 | -$35,115 | ❌ Perdida |
+| vtcchampion52 | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
+| Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.56 (39¢) | $72,876 | -$72,876 | ❌ Perdida |
+| Nooserac | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
+| PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.61 (62¢) | $43,230 | +$26,496 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.64 (61¢) | $175,786 | +$112,388 | ✅ Ganada |
 | Nooserac | Michigan State vs. UCLA | UCLA | 1.12 (89¢) | $44,500 | — | ⏳ Pendiente |
 | KaneAnalytics | San Jose State vs. Nevada | Nevada | 1.43 (70¢) | $26,694 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Jose State vs. Nevada | San Jose State | 2.94 (34¢) | $28,115 | — | ⏳ Pendiente |
