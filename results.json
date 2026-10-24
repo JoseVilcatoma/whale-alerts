@@ -92335,5 +92335,20 @@
     "status": "pending",
     "ultimo_fill": 1792808262,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12502,
+    "timestamp": 1792808602,
+    "username": "778908",
+    "wallet": "0x3c3ac5fb217e2aee15e00198f4c47f6bb29c8b5f",
+    "slug": "mlb-tb-mil-2026-10-23",
+    "title": "Tampa Bay Rays vs. Milwaukee Brewers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 64189.9092,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1792808602,
+    "fills": 1
   }
 ]
