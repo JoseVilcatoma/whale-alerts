@@ -94152,5 +94152,20 @@
     "status": "pending",
     "ultimo_fill": 1792863424,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12713,
+    "timestamp": 1792863933,
+    "username": "spx11",
+    "wallet": "0xff36c717909a7bad60e74eed3418009ff481e757",
+    "slug": "nba-was-chi-2026-10-24",
+    "title": "Wizards vs. Bulls",
+    "outcome": "Wizards",
+    "side": "BUY",
+    "usd": 47350.202600000004,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1792863933,
+    "fills": 1
   }
 ]

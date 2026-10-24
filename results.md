@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 12:44:11 (hora de Perú)
+Actualizado: 2026-10-24 12:46:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6264**  ($351,836,617 en total)
+- Apuestas registradas: **6265**  ($351,883,967 en total)
 - Resueltas: **6180** — 3773 ganadas / 2407 perdidas (**61%** de acierto)
-- Pendientes: 62
-- Apostadores distintos: 623
+- Pendientes: 63
+- Apostadores distintos: 624
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 
-_(mostrando los 40 de mayor monto, de 623 en total)_
+_(mostrando los 40 de mayor monto, de 624 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| spx11 | Wizards vs. Bulls | Wizards | 2.13 (47¢) | $47,350 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Indiana vs. Michigan | Indiana | 1.28 (78¢) | $74,110 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.39 (72¢) | $44,388 | — | ⏳ Pendiente |
 | 999585 | LSU vs. Auburn | LSU | 1.06 (94¢) | $205,827 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 623 en total)_
 | mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.13 (47¢) | $26,613 | — | ⏳ Pendiente |
 | PollyPepperoni | UFC 333: Abubakar Vagaev vs. Jacob Malkoun (Middleweight, Early Prelims) | Jacob Malkoun | 2.44 (41¢) | $29,133 | -$29,133 | ❌ Perdida |
 | veliMax | Will Arsenal FC win on 2026-10-24? | Yes | 1.16 (86¢) | $45,447 | +$7,398 | ✅ Ganada |
-| mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.08 (48¢) | $30,780 | — | ⏳ Pendiente |
