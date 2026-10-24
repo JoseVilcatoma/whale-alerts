@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 10:18:54 (hora de Perú)
+Actualizado: 2026-10-24 10:20:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6213**  ($348,336,542 en total)
+- Apuestas registradas: **6215**  ($348,408,762 en total)
 - Resueltas: **6154** — 3753 ganadas / 2401 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 39
 - Apostadores distintos: 620
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 32 | 21 | 1 | 60% | $3,712,661 | +$365,369 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
-| Kch-Temp | 38 | 11 | 3 | 78% | $3,397,362 | +$1,755,985 |
+| Kch-Temp | 38 | 11 | 4 | 78% | $3,444,582 | +$1,755,985 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Will Chelsea FC win on 2026-10-24? | No | 1.96 (51¢) | $47,220 | — | ⏳ Pendiente |
+| RJW1 | Will Chelsea FC win on 2026-10-24? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Racing Club vs. RCD Espanyol de Barcelona: O/U 0.5 | Over 0.5 | 1.25 (80¢) | $80,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Racing Club vs. RCD Espanyol de Barcelona: O/U 0.5 | Over 0.5 | 1.25 (80¢) | $80,500 | — | ⏳ Pendiente |
 | EdZachary | Spread: Cavaliers (-11.5) | Cavaliers | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | RJW1 | Will Manchester City FC win on 2026-10-24? | Yes | 1.67 (60¢) | $34,613 | -$34,613 | ❌ Perdida |
 | Woaifacai | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.54 (65¢) | $86,892 | -$86,892 | ❌ Perdida |
 | ferrariChampions2026 | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ashlyn Krueger | 4.00 (25¢) | $38,900 | +$116,700 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Jazz | Jazz | 1.37 (73¢) | $25,603 | +$9,470 | ✅ Ganada |
-| ndb1 | Arsenal FC vs. Everton FC: O/U 2.5 | Under 2.5 | 2.04 (49¢) | $76,863 | — | ⏳ Pendiente |
