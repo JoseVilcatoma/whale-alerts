@@ -95114,5 +95114,20 @@
     "status": "pending",
     "ultimo_fill": 1792878613,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12848,
+    "timestamp": 1792879127,
+    "username": "YEEES-but-why",
+    "wallet": "0x9052a5f2324b8efa264a2a37e942770284143c2d",
+    "slug": "nba-mia-cha-2026-10-24",
+    "title": "Heat vs. Hornets",
+    "outcome": "Hornets",
+    "side": "BUY",
+    "usd": 29415.0,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1792879127,
+    "fills": 1
   }
 ]
