@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 14:54:08 (hora de Perú)
+Actualizado: 2026-10-24 14:56:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6300**  ($353,879,770 en total)
+- Apuestas registradas: **6301**  ($354,079,870 en total)
 - Resueltas: **6212** — 3786 ganadas / 2426 perdidas (**61%** de acierto)
-- Pendientes: 66
+- Pendientes: 67
 - Apostadores distintos: 626
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 626 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Michigan State vs. UCLA | UCLA | 1.15 (87¢) | $200,100 | — | ⏳ Pendiente |
 | sulumos | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Petr Yan | 1.69 (59¢) | $43,070 | — | ⏳ Pendiente |
 | Sassy-Bucket | BYU vs. UCF | BYU | 1.33 (75¢) | $135,185 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tennessee vs. South Carolina | Tennessee | 2.13 (47¢) | $39,938 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 626 en total)_
 | YYYYY999 | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $33,137 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: G2 vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.72 (58¢) | $43,346 | — | ⏳ Pendiente |
 | Woaifacai | Spread: Chelsea FC (-1.5) | Chelsea FC | 3.23 (31¢) | $44,572 | -$44,572 | ❌ Perdida |
-| S-Works | UFC 333: Grant Dawson vs. Nurullo Aliev (Lightweight, Prelims) | Nurullo Aliev | 2.04 (49¢) | $88,193 | -$88,193 | ❌ Perdida |
