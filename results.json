@@ -94917,5 +94917,20 @@
     "status": "pending",
     "ultimo_fill": 1792876155,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12825,
+    "timestamp": 1792876335,
+    "username": "Nooserac",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "cfb-mst-ucla-2026-10-24",
+    "title": "Michigan State vs. UCLA",
+    "outcome": "UCLA",
+    "side": "BUY",
+    "usd": 44500.0,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1792876335,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 16:11:08 (hora de Perú)
+Actualizado: 2026-10-24 16:13:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6315**  ($355,080,257 en total)
+- Apuestas registradas: **6316**  ($355,124,757 en total)
 - Resueltas: **6241** — 3810 ganadas / 2431 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Pendientes: 53
 - Apostadores distintos: 628
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Nooserac | Michigan State vs. UCLA | UCLA | 1.12 (89¢) | $44,500 | — | ⏳ Pendiente |
 | KaneAnalytics | San Jose State vs. Nevada | Nevada | 1.43 (70¢) | $26,694 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Jose State vs. Nevada | San Jose State | 2.94 (34¢) | $28,115 | — | ⏳ Pendiente |
 | YYYYY999 | Spread: Bulls (-1.5) | Wizards | 1.96 (51¢) | $32,587 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | Mooseborzoiii | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Top Esports | 2.44 (41¢) | $27,289 | +$39,270 | ✅ Ganada |
 | YYYYY999 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.45 (69¢) | $31,050 | +$13,950 | ✅ Ganada |
 | Talvez10 | UFC 333: Nikita Krylov vs. Abdul-Rakhman Yakhyaev (Light Heavyweight, Prelims) | Abdul-Rakhman Yakhyaev | 1.22 (82¢) | $35,613 | +$7,818 | ✅ Ganada |
-| mooseborzoii | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $27,426 | +$9,142 | ✅ Ganada |
