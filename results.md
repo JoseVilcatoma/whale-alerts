@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 15:40:10 (hora de Perú)
+Actualizado: 2026-10-24 15:42:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6308**  ($354,741,845 en total)
-- Resueltas: **6234** — 3804 ganadas / 2430 perdidas (**61%** de acierto)
-- Pendientes: 52
-- Apostadores distintos: 627
+- Apuestas registradas: **6310**  ($354,885,663 en total)
+- Resueltas: **6235** — 3805 ganadas / 2430 perdidas (**61%** de acierto)
+- Pendientes: 53
+- Apostadores distintos: 628
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,274,394** sobre $350,453,604 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,995** sobre $614,800 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,248,119** sobre $350,865,259 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,989** sobre $614,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 452 | 247 | 7 | 65% | $45,366,580 | +$682,582 |
-| Sassy-Bucket | 85 | 84 | 9 | 50% | $10,940,291 | -$972,115 |
+| Sassy-Bucket | 85 | 84 | 10 | 50% | $11,010,108 | -$972,115 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | mooseborzoii | 85 | 44 | 5 | 66% | $7,645,361 | +$1,189,712 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 
-_(mostrando los 40 de mayor monto, de 627 en total)_
+_(mostrando los 40 de mayor monto, de 628 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.92 (52¢) | $69,818 | — | ⏳ Pendiente |
+| Mambaxbt | Heat vs. Hornets | Heat | 1.67 (60¢) | $74,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.08 (48¢) | $165,732 | — | ⏳ Pendiente |
 | mooseborzoii | BYU vs. UCF | BYU | 1.64 (61¢) | $27,446 | — | ⏳ Pendiente |
 | Flaznorp | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Under 2.5 | 1.39 (72¢) | $32,734 | — | ⏳ Pendiente |
@@ -117,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 627 en total)_
 | spx11 | Wizards vs. Bulls | Wizards | 2.13 (47¢) | $47,350 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Indiana vs. Michigan | Indiana | 1.28 (78¢) | $74,110 | +$20,903 | ✅ Ganada |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.39 (72¢) | $44,388 | +$17,262 | ✅ Ganada |
-| 999585 | LSU vs. Auburn | LSU | 1.06 (94¢) | $411,655 | — | ⏳ Pendiente |
+| 999585 | LSU vs. Auburn | LSU | 1.06 (94¢) | $411,655 | +$26,276 | ✅ Ganada |
 | Woaifacai | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.67 (60¢) | $60,000 | +$40,000 | ✅ Ganada |
 | Jokerxing7 | Spread: SS Lazio (-1.5) | SS Lazio | 2.33 (43¢) | $31,497 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Top Esports | 2.44 (41¢) | $27,289 | +$39,270 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 627 en total)_
 | Sassy-Bucket | Miami (OH) vs. Central Michigan | Central Michigan | 2.44 (41¢) | $67,472 | — | ⏳ Pendiente |
 | Pwaddler | Tennessee vs. South Carolina | South Carolina | 1.82 (55¢) | $42,735 | — | ⏳ Pendiente |
 | Sassy-Bucket | Akron vs. Kent State | Kent State | 1.72 (58¢) | $27,198 | — | ⏳ Pendiente |
-| Sassy-Bucket | Baylor vs. Kansas | Baylor | 2.00 (50¢) | $98,325 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Abus Magomedov vs. Cam Rowston (Middleweight, Prelims) | Cam Rowston | 2.17 (46¢) | $59,800 | -$59,800 | ❌ Perdida |

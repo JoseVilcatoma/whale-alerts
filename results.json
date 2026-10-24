@@ -94119,7 +94119,7 @@
     "side": "BUY",
     "usd": 411654.87679999997,
     "odds_at_bet": 94,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792863165,
     "fills": 4
   },
@@ -94811,6 +94811,36 @@
     "odds_at_bet": 48,
     "status": "pending",
     "ultimo_fill": 1792874344,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12811,
+    "timestamp": 1792874433,
+    "username": "Mambaxbt",
+    "wallet": "0x9aa1c2cec75db347bbc705a97d3849e35e9665f7",
+    "slug": "nba-mia-cha-2026-10-24",
+    "title": "Heat vs. Hornets",
+    "outcome": "Heat",
+    "side": "BUY",
+    "usd": 74000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792874433,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 12813,
+    "timestamp": 1792874473,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "ufc-ale14-mov-2026-10-24",
+    "title": "UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card)",
+    "outcome": "Movsar Evloev",
+    "side": "BUY",
+    "usd": 69817.50880000001,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792874473,
     "fills": 1
   }
 ]
