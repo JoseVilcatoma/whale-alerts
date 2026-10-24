@@ -93502,7 +93502,7 @@
     "side": "BUY",
     "usd": 170200.0,
     "odds_at_bet": 85,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792856539,
     "fills": 1
   },
@@ -94647,5 +94647,35 @@
     "status": "pending",
     "ultimo_fill": 1792869880,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 12777,
+    "timestamp": 1792870078,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-tenn-sc-2026-10-24",
+    "title": "Tennessee vs. South Carolina",
+    "outcome": "Tennessee",
+    "side": "BUY",
+    "usd": 39937.8747,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1792870078,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12778,
+    "timestamp": 1792870094,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-byu-ucf-2026-10-24",
+    "title": "BYU vs. UCF",
+    "outcome": "BYU",
+    "side": "BUY",
+    "usd": 135184.6326,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1792870094,
+    "fills": 1
   }
 ]

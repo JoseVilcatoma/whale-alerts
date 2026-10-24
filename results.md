@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 14:26:51 (hora de Perú)
+Actualizado: 2026-10-24 14:28:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6297**  ($353,661,577 en total)
-- Resueltas: **6211** — 3785 ganadas / 2426 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Apuestas registradas: **6299**  ($353,836,700 en total)
+- Resueltas: **6212** — 3786 ganadas / 2426 perdidas (**61%** de acierto)
+- Pendientes: 65
 - Apostadores distintos: 626
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,528,748** sobre $349,362,203 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,543** sobre $612,500 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,498,713** sobre $349,532,403 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,526** sobre $612,600 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 449 | 247 | 8 | 65% | $45,161,468 | +$621,277 |
-| Sassy-Bucket | 83 | 84 | 9 | 50% | $10,765,168 | -$1,041,337 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 450 | 247 | 7 | 65% | $45,161,468 | +$651,313 |
+| Sassy-Bucket | 83 | 84 | 11 | 50% | $10,940,291 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | mooseborzoii | 79 | 43 | 11 | 65% | $7,617,915 | +$1,127,050 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 626 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | BYU vs. UCF | BYU | 1.33 (75¢) | $135,185 | — | ⏳ Pendiente |
+| Sassy-Bucket | Tennessee vs. South Carolina | Tennessee | 2.13 (47¢) | $39,938 | — | ⏳ Pendiente |
 | Sassy-Bucket | BYU vs. UCF | BYU | 1.35 (74¢) | $74,145 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tennessee vs. South Carolina | Tennessee | 2.17 (46¢) | $49,641 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.75 (57¢) | $27,040 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 626 en total)_
 | Woaifacai | Spread: Chelsea FC (-1.5) | Chelsea FC | 3.23 (31¢) | $44,572 | -$44,572 | ❌ Perdida |
 | S-Works | UFC 333: Grant Dawson vs. Nurullo Aliev (Lightweight, Prelims) | Nurullo Aliev | 2.04 (49¢) | $88,193 | -$88,193 | ❌ Perdida |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $32,900 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $54,526 | +$56,752 | ✅ Ganada |
-| lllllllIlll | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
