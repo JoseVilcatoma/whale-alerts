@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 07:40:45 (hora de Perú)
+Actualizado: 2026-10-24 07:42:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6187**  ($346,560,798 en total)
+- Apuestas registradas: **6189**  ($346,632,500 en total)
 - Resueltas: **6134** — 3747 ganadas / 2387 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 33
 - Apostadores distintos: 619
 
 ### Balance
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
-| S-Works | 14 | 5 | 2 | 74% | $2,241,127 | -$98,898 |
+| S-Works | 14 | 5 | 3 | 74% | $2,283,127 | -$98,898 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Talvez10 | 24 | 22 | 0 | 52% | $2,176,429 | +$201,337 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
+| robustmst | Swiss Indoors Basel, Qualification: Sebastian Baez vs Giovanni Mpetshi Perricard | Sebastian Baez | 2.63 (38¢) | $29,702 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Como 1907 (-1.5) | Como 1907 | 2.33 (43¢) | $37,277 | — | ⏳ Pendiente |
 | Jokerxing7 | Rayo Vallecano de Madrid vs. Elche CF: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $32,956 | — | ⏳ Pendiente |
 | Jokerxing7 | Como 1907 vs. US Sassuolo Calcio: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $42,032 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | googleplay | Pelicans vs. Jazz: O/U 238.5 | Under 238.5 | 2.00 (50¢) | $248,760 | -$248,760 | ❌ Perdida |
 | ticklepickles444 | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $38,191 | +$12,730 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.06 (94¢) | $33,206 | +$2,120 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.15 (87¢) | $139,722 | +$20,878 | ✅ Ganada |
-| 778908 | Duke vs. Virginia | Virginia | 1.39 (72¢) | $100,800 | -$100,800 | ❌ Perdida |

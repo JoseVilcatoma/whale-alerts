@@ -92995,5 +92995,35 @@
     "status": "pending",
     "ultimo_fill": 1792845110,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12587,
+    "timestamp": 1792845690,
+    "username": "robustmst",
+    "wallet": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63",
+    "slug": "atp-baez-perrica-2026-10-24",
+    "title": "Swiss Indoors Basel, Qualification: Sebastian Baez vs Giovanni Mpetshi Perricard",
+    "outcome": "Sebastian Baez",
+    "side": "BUY",
+    "usd": 29702.42,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1792845690,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12588,
+    "timestamp": 1792845707,
+    "username": "S-Works",
+    "wallet": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+    "slug": "cs2-vit-9z-2026-10-24",
+    "title": "Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 42000.0,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1792845707,
+    "fills": 1
   }
 ]
