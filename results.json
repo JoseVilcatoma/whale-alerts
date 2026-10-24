@@ -94677,5 +94677,20 @@
     "status": "pending",
     "ultimo_fill": 1792870094,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12780,
+    "timestamp": 1792871312,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "ufc-mer-pet-2026-10-24",
+    "title": "UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card)",
+    "outcome": "Petr Yan",
+    "side": "BUY",
+    "usd": 43070.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1792871312,
+    "fills": 1
   }
 ]
