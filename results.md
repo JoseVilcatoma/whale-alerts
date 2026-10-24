@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 23:00:30 (hora de Perú)
+Actualizado: 2026-10-23 23:02:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6155**  ($344,192,325 en total)
-- Resueltas: **6101** — 3734 ganadas / 2367 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Resueltas: **6104** — 3737 ganadas / 2367 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: +$44,641** sobre $341,400,121 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$5,644** sobre $601,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$93,271** sobre $341,559,532 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$5,541** sobre $601,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,8 +82,8 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Army vs. Tulsa | Tulsa | 3.70 (27¢) | $28,912 | — | ⏳ Pendiente |
 | RJW1 | Rockets vs. Spurs | Spurs | 1.69 (59¢) | $36,828 | — | ⏳ Pendiente |
 | Kkunn | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.61 (62¢) | $28,758 | — | ⏳ Pendiente |
-| 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.20 (83¢) | $64,190 | — | ⏳ Pendiente |
-| 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.27 (79¢) | $60,938 | — | ⏳ Pendiente |
+| 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.20 (83¢) | $64,190 | +$13,147 | ✅ Ganada |
+| 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.27 (79¢) | $60,938 | +$16,199 | ✅ Ganada |
 | KaneAnalytics | Duke vs. Virginia | Duke | 1.39 (72¢) | $55,854 | +$21,721 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Warriors | Grizzlies | 2.56 (39¢) | $54,177 | — | ⏳ Pendiente |
 | Woaifacai | Grizzlies vs. Warriors | Warriors | 1.64 (61¢) | $144,230 | — | ⏳ Pendiente |
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | zb8 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.69 (59¢) | $25,585 | +$17,779 | ✅ Ganada |
 | Jokerxing7 | Pelicans vs. Jazz | Jazz | 1.96 (51¢) | $47,249 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | Team Secret Whales | 2.33 (43¢) | $26,033 | -$26,033 | ❌ Perdida |
-| kkookkoo | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $34,283 | — | ⏳ Pendiente |
+| kkookkoo | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $34,283 | +$19,284 | ✅ Ganada |
 | vtcchampion52 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
 | Mooseborzoiii | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | Team Secret Whales | 2.38 (42¢) | $25,871 | -$25,871 | ❌ Perdida |
 | googleplay | Pistons vs. Heat | Pistons | 1.85 (54¢) | $177,436 | +$151,149 | ✅ Ganada |
