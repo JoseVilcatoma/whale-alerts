@@ -93532,7 +93532,7 @@
     "side": "BUY",
     "usd": 58777.2774,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792856680,
     "fills": 1
   },
@@ -93911,6 +93911,21 @@
     "odds_at_bet": 53,
     "status": "pending",
     "ultimo_fill": 1792860527,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12673,
+    "timestamp": 1792860637,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ufc-abu2-cam7-2026-10-24",
+    "title": "UFC 333: Abus Magomedov vs. Cam Rowston (Middleweight, Prelims)",
+    "outcome": "Cam Rowston",
+    "side": "BUY",
+    "usd": 59800.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1792860637,
     "fills": 1
   }
 ]
