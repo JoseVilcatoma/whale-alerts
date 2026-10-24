@@ -92500,5 +92500,20 @@
     "status": "pending",
     "ultimo_fill": 1792814012,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12520,
+    "timestamp": 1792814254,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-nop-uta-2026-10-23",
+    "title": "Pelicans vs. Jazz",
+    "outcome": "Jazz",
+    "side": "BUY",
+    "usd": 25603.2243,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1792814254,
+    "fills": 1
   }
 ]
