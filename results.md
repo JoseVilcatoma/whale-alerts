@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 22:50:15 (hora de Perú)
+Actualizado: 2026-10-23 22:52:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6152**  ($344,037,859 en total)
+- Apuestas registradas: **6153**  ($344,089,859 en total)
 - Resueltas: **6101** — 3734 ganadas / 2367 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 619
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | takeormake | Army vs. Tulsa | Tulsa | 1.25 (80¢) | $33,944 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Army vs. Tulsa | Tulsa | 1.22 (82¢) | $32,978 | — | ⏳ Pendiente |
 | Woaifacai | Trail Blazers vs. Kings | Trail Blazers | 1.52 (66¢) | $84,552 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | googleplay | Mavericks vs. Pacers: O/U 240.5 | Over 240.5 | 1.92 (52¢) | $28,121 | -$28,121 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.00 (50¢) | $250,000 | +$250,000 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $29,200 | -$29,200 | ❌ Perdida |
-| beeemw | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $37,875 | +$12,625 | ✅ Ganada |
