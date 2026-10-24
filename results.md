@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 09:15:25 (hora de Perú)
+Actualizado: 2026-10-24 09:17:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6201**  ($347,831,440 en total)
+- Apuestas registradas: **6202**  ($347,861,352 en total)
 - Resueltas: **6149** — 3751 ganadas / 2398 perdidas (**61%** de acierto)
-- Pendientes: 30
-- Apostadores distintos: 619
+- Pendientes: 31
+- Apostadores distintos: 620
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 19 | 1 | 52% | $1,854,971 | -$98,360 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 
-_(mostrando los 40 de mayor monto, de 619 en total)_
+_(mostrando los 40 de mayor monto, de 620 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| PollyPepperoni | UFC 333: Noah Gugnon vs. Kody Steele (Lightweight, Early Prelims) | Noah Gugnon | 2.38 (42¢) | $29,912 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Arsenal FC (-2.5) | Arsenal FC | 2.70 (37¢) | $26,828 | — | ⏳ Pendiente |
 | gmpm2 | Wizards vs. Bulls | Bulls | 1.92 (52¢) | $33,181 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.20 (83¢) | $58,100 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | Kkunn | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.61 (62¢) | $28,758 | -$28,758 | ❌ Perdida |
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.20 (83¢) | $64,190 | +$13,147 | ✅ Ganada |
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.27 (79¢) | $60,938 | +$16,199 | ✅ Ganada |
-| KaneAnalytics | Duke vs. Virginia | Duke | 1.39 (72¢) | $55,854 | +$21,721 | ✅ Ganada |

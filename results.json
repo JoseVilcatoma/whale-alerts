@@ -93205,5 +93205,20 @@
     "status": "pending",
     "ultimo_fill": 1792851163,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12618,
+    "timestamp": 1792851370,
+    "username": "PollyPepperoni",
+    "wallet": "0xc6ce4a5b5881c1e3ba74c221f0457a794734fc99",
+    "slug": "ufc-ngugno-kod-2026-10-24",
+    "title": "UFC 333: Noah Gugnon vs. Kody Steele (Lightweight, Early Prelims)",
+    "outcome": "Noah Gugnon",
+    "side": "BUY",
+    "usd": 29912.399999999998,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1792851370,
+    "fills": 1
   }
 ]
