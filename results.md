@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 14:01:40 (hora de Perú)
+Actualizado: 2026-10-24 14:03:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6286**  ($353,067,629 en total)
-- Resueltas: **6190** — 3777 ganadas / 2413 perdidas (**61%** de acierto)
-- Pendientes: 74
+- Resueltas: **6193** — 3778 ganadas / 2415 perdidas (**61%** de acierto)
+- Pendientes: 71
 - Apostadores distintos: 624
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,467,979** sobre $347,405,393 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,216** sobre $610,400 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,494,979** sobre $347,532,393 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,381** sobre $610,700 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 448 | 245 | 11 | 65% | $45,161,468 | +$750,027 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 449 | 245 | 10 | 65% | $45,161,468 | +$776,027 |
 | Sassy-Bucket | 83 | 84 | 7 | 50% | $10,641,382 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
@@ -110,9 +110,9 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | Sassy-Bucket | Baylor vs. Kansas | Baylor | 2.00 (50¢) | $98,325 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Abus Magomedov vs. Cam Rowston (Middleweight, Prelims) | Cam Rowston | 2.17 (46¢) | $59,800 | -$59,800 | ❌ Perdida |
 | gmpm2 | Wizards vs. Bulls | Bulls | 1.89 (53¢) | $33,596 | — | ⏳ Pendiente |
-| skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.70 (27¢) | $27,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | No | 1.35 (74¢) | $74,000 | — | ⏳ Pendiente |
-| skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.85 (26¢) | $26,000 | — | ⏳ Pendiente |
+| skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.70 (27¢) | $27,000 | -$27,000 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | No | 1.35 (74¢) | $74,000 | +$26,000 | ✅ Ganada |
+| skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.85 (26¢) | $26,000 | -$26,000 | ❌ Perdida |
 | YYYYY999 | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $33,137 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: G2 vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.72 (58¢) | $43,346 | — | ⏳ Pendiente |
 | Woaifacai | Spread: Chelsea FC (-1.5) | Chelsea FC | 3.23 (31¢) | $44,572 | — | ⏳ Pendiente |
