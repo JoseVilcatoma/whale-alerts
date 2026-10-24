@@ -94077,5 +94077,20 @@
     "status": "pending",
     "ultimo_fill": 1792861898,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12707,
+    "timestamp": 1792862338,
+    "username": "Jokerxing7",
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "slug": "sea-laz-par-2026-10-24-spread-home-1pt5",
+    "title": "Spread: SS Lazio (-1.5)",
+    "outcome": "SS Lazio",
+    "side": "BUY",
+    "usd": 31497.4269,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1792862338,
+    "fills": 1
   }
 ]
