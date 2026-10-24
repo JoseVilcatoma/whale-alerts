@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 10:10:48 (hora de Perú)
+Actualizado: 2026-10-24 10:12:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6212**  ($348,256,042 en total)
-- Resueltas: **6152** — 3752 ganadas / 2400 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **6153** — 3752 ganadas / 2401 perdidas (**61%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 620
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,682,724** sobre $344,851,171 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$7,187** sobre $606,700 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,724,756** sobre $344,893,203 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,287** sobre $606,800 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | robustmst | Swiss Indoors Basel, Qualification: Sebastian Baez vs Giovanni Mpetshi Perricard | Sebastian Baez | 2.63 (38¢) | $29,702 | -$29,702 | ❌ Perdida |
 | Jokerxing7 | Spread: Como 1907 (-1.5) | Como 1907 | 2.33 (43¢) | $37,277 | — | ⏳ Pendiente |
 | Jokerxing7 | Rayo Vallecano de Madrid vs. Elche CF: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $32,956 | +$29,226 | ✅ Ganada |
-| Jokerxing7 | Como 1907 vs. US Sassuolo Calcio: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $42,032 | — | ⏳ Pendiente |
+| Jokerxing7 | Como 1907 vs. US Sassuolo Calcio: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $42,032 | -$42,032 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: MOUZ vs Liquid (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.43 (70¢) | $51,981 | -$51,981 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-10-24? | No | 2.56 (39¢) | $34,564 | +$54,062 | ✅ Ganada |
 | 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.64 (61¢) | $321,910 | -$321,910 | ❌ Perdida |
