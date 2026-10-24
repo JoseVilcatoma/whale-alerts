@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 21:12:42 (hora de Perú)
+Actualizado: 2026-10-23 21:14:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6142**  ($343,541,913 en total)
-- Resueltas: **6090** — 3725 ganadas / 2365 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **6095** — 3729 ganadas / 2366 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$724,219** sobre $339,997,799 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$6,043** sobre $600,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$217,785** sobre $340,870,924 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,960** sobre $601,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 440 | 236 | 5 | 65% | $43,787,930 | +$998,474 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 441 | 236 | 4 | 65% | $43,787,930 | +$1,010,594 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
 | BrotherObama | 45 | 50 | 3 | 47% | $4,341,370 | -$144,788 |
-| googleplay | 12 | 15 | 3 | 44% | $3,893,979 | -$909,631 |
+| googleplay | 13 | 15 | 2 | 46% | $3,893,979 | -$408,193 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 1 | 66% | $2,260,185 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Talvez10 | 24 | 19 | 3 | 56% | $2,176,429 | +$320,009 |
+| Talvez10 | 24 | 20 | 2 | 55% | $2,176,429 | +$287,004 |
 | S-Works | 14 | 5 | 0 | 74% | $2,091,761 | -$98,898 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
@@ -78,8 +78,8 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | ndb1 | Rockets vs. Spurs | Spurs | 1.56 (64¢) | $34,025 | — | ⏳ Pendiente |
 | tiger105 | Pelicans vs. Jazz | Pelicans | 1.96 (51¢) | $60,000 | — | ⏳ Pendiente |
 | dhgreg | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $143,229 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Celtics | Celtics | 1.14 (88¢) | $88,880 | — | ⏳ Pendiente |
-| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Knicks vs. Celtics | Celtics | 1.18 (85¢) | $33,325 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Celtics | Celtics | 1.14 (88¢) | $88,880 | +$12,120 | ✅ Ganada |
+| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Knicks vs. Celtics | Celtics | 1.18 (85¢) | $33,325 | +$5,881 | ✅ Ganada |
 | scootergene | Pelicans vs. Jazz: O/U 238.5 | Over 238.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | googleplay | Pelicans vs. Jazz: O/U 238.5 | Under 238.5 | 2.00 (50¢) | $248,760 | — | ⏳ Pendiente |
 | ticklepickles444 | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $38,191 | +$12,730 | ✅ Ganada |
@@ -114,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | wanzzz333 | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $49,626 | +$6,134 | ✅ Ganada |
 | dhgreg | Raptors vs. Wizards | Wizards | 3.85 (26¢) | $27,842 | -$27,842 | ❌ Perdida |
 | mooseborzoii | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $50,063 | +$17,590 | ✅ Ganada |
-| googleplay | Knicks vs. Celtics | Celtics | 1.72 (58¢) | $692,461 | — | ⏳ Pendiente |
+| googleplay | Knicks vs. Celtics | Celtics | 1.72 (58¢) | $692,461 | +$501,437 | ✅ Ganada |
 | Talvez10 | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $48,780 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Lyon Open: Luca Van Assche vs Lorenzo Musetti | Luca Van Assche | 1.39 (72¢) | $42,284 | -$42,284 | ❌ Perdida |
 | googleplay | Mavericks vs. Pacers: O/U 240.5 | Over 240.5 | 1.92 (52¢) | $28,121 | -$28,121 | ❌ Perdida |
