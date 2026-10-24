@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 08:05:18 (hora de Perú)
+Actualizado: 2026-10-24 08:07:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6191**  ($346,754,662 en total)
-- Resueltas: **6134** — 3747 ganadas / 2387 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **6135** — 3747 ganadas / 2388 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$425,402** sobre $343,272,788 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,287** sobre $604,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$477,383** sobre $343,324,769 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,387** sobre $605,000 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | Jokerxing7 | Spread: Como 1907 (-1.5) | Como 1907 | 2.33 (43¢) | $37,277 | — | ⏳ Pendiente |
 | Jokerxing7 | Rayo Vallecano de Madrid vs. Elche CF: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $32,956 | — | ⏳ Pendiente |
 | Jokerxing7 | Como 1907 vs. US Sassuolo Calcio: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $42,032 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: MOUZ vs Liquid (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.43 (70¢) | $51,981 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: MOUZ vs Liquid (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.43 (70¢) | $51,981 | -$51,981 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-10-24? | No | 2.56 (39¢) | $34,564 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.64 (61¢) | $321,910 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-10-24? | No | 1.23 (81¢) | $81,000 | — | ⏳ Pendiente |
