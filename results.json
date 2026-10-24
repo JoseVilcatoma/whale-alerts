@@ -92707,7 +92707,7 @@
     "side": "BUY",
     "usd": 30600.0,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792828610,
     "fills": 1
   },
@@ -93114,6 +93114,36 @@
     "odds_at_bet": 72,
     "status": "pending",
     "ultimo_fill": 1792849108,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12609,
+    "timestamp": 1792849662,
+    "username": "YYYYY999",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-vit-9z-2026-10-24",
+    "title": "Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 25200.0,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1792849662,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12610,
+    "timestamp": 1792849726,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "epl-ars-eve-2026-10-24-spread-home-1pt5",
+    "title": "Spread: Arsenal FC (-1.5)",
+    "outcome": "Arsenal FC",
+    "side": "BUY",
+    "usd": 48807.3109,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1792849726,
     "fills": 1
   }
 ]
