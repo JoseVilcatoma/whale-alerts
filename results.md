@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 20:29:35 (hora de Perú)
+Actualizado: 2026-10-23 20:31:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6135**  ($343,021,599 en total)
+- Apuestas registradas: **6136**  ($343,164,828 en total)
 - Resueltas: **6069** — 3713 ganadas / 2356 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 619
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dhgreg | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $143,229 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Celtics | Celtics | 1.14 (88¢) | $88,880 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Knicks vs. Celtics | Celtics | 1.18 (85¢) | $33,325 | — | ⏳ Pendiente |
 | scootergene | Pelicans vs. Jazz: O/U 238.5 | Over 238.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | BrotherObama | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $44,956 | — | ⏳ Pendiente |
 | 778908 | European Open: Jan-Lennard Struff vs Zizou Bergs | Jan-Lennard Struff | 1.79 (56¢) | $31,952 | +$25,105 | ✅ Ganada |
 | ferrariChampions2026 | European Open: Jan-Lennard Struff vs Zizou Bergs | Zizou Bergs | 2.27 (44¢) | $25,110 | -$25,110 | ❌ Perdida |
-| Donkey14 | Knicks vs. Celtics | Celtics | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
