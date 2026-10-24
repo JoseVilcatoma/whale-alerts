@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 10:43:15 (hora de Perú)
+Actualizado: 2026-10-24 10:45:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6221**  ($348,726,425 en total)
+- Apuestas registradas: **6223**  ($348,860,991 en total)
 - Resueltas: **6155** — 3753 ganadas / 2402 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 46
 - Apostadores distintos: 620
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 445 | 242 | 9 | 65% | $44,673,652 | +$810,286 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 445 | 242 | 11 | 65% | $44,808,217 | +$810,286 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 35 | 23 | 4 | 60% | $7,865,280 | -$694,864 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.23 (81¢) | $58,777 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-10-24? | Yes | 2.00 (50¢) | $75,788 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Kholood Saudi Club vs. Al Ettifaq Saudi Club: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $170,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rangers vs. Senators | Senators | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | SDTrading | Spread: TCU (-10.5) | West Virginia | 1.92 (52¢) | $34,598 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | Kkunn | Ningbo Open: Leylah Fernandez vs Marie Bouzkova | Marie Bouzkova | 1.82 (55¢) | $29,713 | -$29,713 | ❌ Perdida |
 | YYYYY999 | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $84,000 | — | ⏳ Pendiente |
 | rabbitfoot1 | Arsenal FC vs. Everton FC: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $188,401 | — | ⏳ Pendiente |
-| YYYYY999 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.75 (57¢) | $26,367 | — | ⏳ Pendiente |
-| YYYYY999 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.23 (81¢) | $53,587 | — | ⏳ Pendiente |

@@ -93505,5 +93505,35 @@
     "status": "pending",
     "ultimo_fill": 1792856539,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12644,
+    "timestamp": 1792856679,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "epl-che-tot-2026-10-24-che",
+    "title": "Will Chelsea FC win on 2026-10-24?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 75788.18,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792856679,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12645,
+    "timestamp": 1792856680,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-lgc-nemi1-2026-10-24",
+    "title": "Counter-Strike: Legacy vs Nemiga (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "usd": 58777.2774,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1792856680,
+    "fills": 1
   }
 ]
