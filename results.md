@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 10:53:29 (hora de Perú)
+Actualizado: 2026-10-24 10:55:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6230**  ($349,799,832 en total)
+- Apuestas registradas: **6230**  ($350,035,983 en total)
 - Resueltas: **6155** — 3753 ganadas / 2402 perdidas (**61%** de acierto)
 - Pendientes: 53
 - Apostadores distintos: 620
@@ -30,8 +30,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 35 | 23 | 4 | 60% | $7,865,280 | -$694,864 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | mooseborzoii | 79 | 43 | 3 | 65% | $7,270,097 | +$1,127,050 |
+| joseph00677 | 21 | 2 | 3 | 91% | $7,262,641 | +$3,145,251 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| joseph00677 | 21 | 2 | 3 | 91% | $7,026,489 | +$3,145,251 |
 | ferrariChampions2026 | 101 | 49 | 0 | 67% | $6,586,934 | +$286,715 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Lakersfan111 | 69 | 46 | 7 | 60% | $5,955,428 | +$45,676 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | plonker2026 | Will Chelsea FC win on 2026-10-24? | No | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
-| joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $480,410 | — | ⏳ Pendiente |
+| joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $716,561 | — | ⏳ Pendiente |
 | joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $249,115 | — | ⏳ Pendiente |
 | ArturitoFilito | Will Chelsea FC win on 2026-10-24? | No | 2.08 (48¢) | $32,000 | — | ⏳ Pendiente |
 | UpTheBlues | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $26,752 | — | ⏳ Pendiente |
