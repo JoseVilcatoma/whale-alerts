@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 18:49:41 (hora de Perú)
+Actualizado: 2026-10-24 18:51:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6367**  ($359,451,890 en total)
-- Resueltas: **6270** — 3824 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 75
+- Resueltas: **6271** — 3825 ganadas / 2446 perdidas (**61%** de acierto)
+- Pendientes: 74
 - Apostadores distintos: 630
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,793,666** sobre $353,329,744 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,587** sobre $618,200 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,777,039** sobre $353,360,624 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,533** sobre $618,300 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -127,7 +127,7 @@ _(mostrando los 40 de mayor monto, de 630 en total)_
 | Sassy-Bucket | San Jose State vs. Nevada | San Jose State | 2.94 (34¢) | $28,115 | — | ⏳ Pendiente |
 | YYYYY999 | Spread: Bulls (-1.5) | Wizards | 1.96 (51¢) | $32,587 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.89 (53¢) | $76,318 | -$76,318 | ❌ Perdida |
-| Nooserac | Kansas State vs. Arizona State | Arizona State | 1.54 (65¢) | $30,880 | — | ⏳ Pendiente |
+| Nooserac | Kansas State vs. Arizona State | Arizona State | 1.54 (65¢) | $30,880 | +$16,628 | ✅ Ganada |
 | Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.92 (52¢) | $69,818 | -$69,818 | ❌ Perdida |
 | Mambaxbt | Heat vs. Hornets | Heat | 1.67 (60¢) | $74,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.08 (48¢) | $165,732 | +$179,543 | ✅ Ganada |
