@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 23:06:39 (hora de Perú)
+Actualizado: 2026-10-23 23:08:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6155**  ($344,192,325 en total)
-- Resueltas: **6104** — 3737 ganadas / 2367 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **6106** — 3737 ganadas / 2369 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: +$93,271** sobre $341,559,532 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$5,541** sobre $601,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$466** sobre $341,653,268 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$5,741** sobre $602,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 69 | 46 | 0 | 60% | $5,640,821 | +$45,676 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
-| BrotherObama | 45 | 50 | 3 | 47% | $4,341,370 | -$144,788 |
+| BrotherObama | 45 | 51 | 2 | 47% | $4,341,370 | -$189,745 |
 | googleplay | 14 | 15 | 1 | 48% | $3,893,979 | -$257,044 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Talvez10 | 24 | 20 | 2 | 55% | $2,176,429 | +$287,004 |
+| Talvez10 | 24 | 21 | 1 | 53% | $2,176,429 | +$238,224 |
 | S-Works | 14 | 5 | 0 | 74% | $2,091,761 | -$98,898 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
@@ -128,6 +128,6 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | dhgreg | Raptors vs. Wizards | Wizards | 3.85 (26¢) | $27,842 | -$27,842 | ❌ Perdida |
 | mooseborzoii | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $50,063 | +$17,590 | ✅ Ganada |
 | googleplay | Knicks vs. Celtics | Celtics | 1.72 (58¢) | $692,461 | +$501,437 | ✅ Ganada |
-| Talvez10 | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $48,780 | — | ⏳ Pendiente |
+| Talvez10 | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $48,780 | -$48,780 | ❌ Perdida |
 | 01258787xy48487484545122 | Lyon Open: Luca Van Assche vs Lorenzo Musetti | Luca Van Assche | 1.39 (72¢) | $42,284 | -$42,284 | ❌ Perdida |
 | googleplay | Mavericks vs. Pacers: O/U 240.5 | Over 240.5 | 1.92 (52¢) | $28,121 | -$28,121 | ❌ Perdida |
