@@ -94572,5 +94572,35 @@
     "status": "pending",
     "ultimo_fill": 1792869021,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12772,
+    "timestamp": 1792869023,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "cfb-ind-mich-2026-10-24",
+    "title": "Indiana vs. Michigan",
+    "outcome": "Indiana",
+    "side": "BUY",
+    "usd": 29872.997000000003,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1792869023,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12773,
+    "timestamp": 1792869093,
+    "username": "freee67thewhale",
+    "wallet": "0x6eb744d27b04a6c611961124b52ffbdbf7c13cd4",
+    "slug": "ufc-mer-pet-2026-10-24",
+    "title": "UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card)",
+    "outcome": "Merab Dvalishvili",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1792869093,
+    "fills": 1
   }
 ]

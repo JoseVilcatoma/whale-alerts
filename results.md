@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 14:10:23 (hora de Perú)
+Actualizado: 2026-10-24 14:12:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6292**  ($353,455,878 en total)
+- Apuestas registradas: **6294**  ($353,510,751 en total)
 - Resueltas: **6211** — 3785 ganadas / 2426 perdidas (**61%** de acierto)
-- Pendientes: 59
-- Apostadores distintos: 625
+- Pendientes: 61
+- Apostadores distintos: 626
 
 ### Balance
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 83 | 84 | 7 | 50% | $10,641,382 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
-| mooseborzoii | 79 | 43 | 9 | 65% | $7,561,002 | +$1,127,050 |
+| mooseborzoii | 79 | 43 | 10 | 65% | $7,590,875 | +$1,127,050 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 
-_(mostrando los 40 de mayor monto, de 625 en total)_
+_(mostrando los 40 de mayor monto, de 626 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| freee67thewhale | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Merab Dvalishvili | 2.38 (42¢) | $25,000 | — | ⏳ Pendiente |
+| mooseborzoii | Indiana vs. Michigan | Indiana | 1.82 (55¢) | $29,873 | — | ⏳ Pendiente |
 | ethanaz | Indiana vs. Michigan | Michigan | 2.22 (45¢) | $49,517 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Kings vs. Devils | Kings | 2.70 (37¢) | $48,596 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | LOS | 4.17 (24¢) | $125,116 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 625 en total)_
 | lllllllIlll | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $25,600 | -$25,600 | ❌ Perdida |
 | juice-fruit | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $65,356 | +$68,023 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $78,962 | -$78,962 | ❌ Perdida |
-| Ksi172 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $26,101 | -$26,101 | ❌ Perdida |
-| joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.89 (53¢) | $129,390 | -$129,390 | ❌ Perdida |
