@@ -92482,7 +92482,7 @@
     "side": "BUY",
     "usd": 52000.0,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792813882,
     "fills": 1
   },
@@ -93247,7 +93247,7 @@
     "side": "BUY",
     "usd": 33902.0425998691,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792852266,
     "fills": 1
   },
@@ -93397,7 +93397,7 @@
     "side": "BUY",
     "usd": 25000.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792855158,
     "fills": 1
   },
@@ -93412,7 +93412,7 @@
     "side": "BUY",
     "usd": 47219.997299999995,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792855174,
     "fills": 1
   },
@@ -93517,7 +93517,7 @@
     "side": "BUY",
     "usd": 75788.18,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792856679,
     "fills": 1
   },
@@ -93547,7 +93547,7 @@
     "side": "BUY",
     "usd": 38808.0,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792856735,
     "fills": 1
   },
@@ -93562,7 +93562,7 @@
     "side": "BUY",
     "usd": 63756.6045,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792856736,
     "fills": 1
   },
@@ -93577,7 +93577,7 @@
     "side": "BUY",
     "usd": 26751.55,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792856753,
     "fills": 1
   },
@@ -93609,7 +93609,7 @@
     "side": "BUY",
     "usd": 249115.37560000003,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792856907,
     "fills": 1
   },
@@ -93624,7 +93624,7 @@
     "side": "BUY",
     "usd": 716561.3167000001,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792857272,
     "fills": 4
   },
@@ -93639,7 +93639,7 @@
     "side": "BUY",
     "usd": 48000.0,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792857080,
     "fills": 1
   },
@@ -93684,7 +93684,7 @@
     "side": "BUY",
     "usd": 129390.26550000001,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792857418,
     "fills": 1
   },
@@ -93699,7 +93699,7 @@
     "side": "BUY",
     "usd": 26101.0724,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792857786,
     "fills": 1
   },
@@ -93714,7 +93714,7 @@
     "side": "BUY",
     "usd": 78961.7547,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792857992,
     "fills": 1
   },
@@ -93729,7 +93729,7 @@
     "side": "BUY",
     "usd": 65355.780000000006,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792858231,
     "fills": 1
   },
@@ -93774,7 +93774,7 @@
     "side": "BUY",
     "usd": 54526.23959999999,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792858288,
     "fills": 1
   },
@@ -94537,10 +94537,40 @@
     "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
     "outcome": "LOS",
     "side": "BUY",
-    "usd": 31702.300500000005,
-    "odds_at_bet": 23,
+    "usd": 125116.1842,
+    "odds_at_bet": 24,
     "status": "pending",
-    "ultimo_fill": 1792868874,
+    "ultimo_fill": 1792868945,
+    "fills": 4
+  },
+  {
+    "telegram_msg_id": 12754,
+    "timestamp": 1792868927,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nhl-lak-nj-2026-10-24",
+    "title": "Kings vs. Devils",
+    "outcome": "Kings",
+    "side": "BUY",
+    "usd": 48596.140400000004,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1792868927,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12771,
+    "timestamp": 1792869021,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "cfb-ind-mich-2026-10-24",
+    "title": "Indiana vs. Michigan",
+    "outcome": "Michigan",
+    "side": "BUY",
+    "usd": 49516.9425,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1792869021,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 14:07:56 (hora de Perú)
+Actualizado: 2026-10-24 14:10:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6290**  ($353,264,351 en total)
-- Resueltas: **6195** — 3779 ganadas / 2416 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Apuestas registradas: **6292**  ($353,455,878 en total)
+- Resueltas: **6211** — 3785 ganadas / 2426 perdidas (**61%** de acierto)
+- Pendientes: 59
 - Apostadores distintos: 625
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,368,551** sobre $347,630,964 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,164** sobre $610,900 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,528,748** sobre $349,362,203 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,543** sobre $612,500 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,27 +24,27 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 449 | 245 | 10 | 65% | $45,161,468 | +$776,027 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 449 | 247 | 8 | 65% | $45,161,468 | +$621,277 |
 | Sassy-Bucket | 83 | 84 | 7 | 50% | $10,641,382 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | mooseborzoii | 79 | 43 | 9 | 65% | $7,561,002 | +$1,127,050 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
-| joseph00677 | 21 | 2 | 4 | 91% | $7,392,031 | +$3,145,251 |
+| joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 101 | 49 | 2 | 67% | $6,663,038 | +$286,715 |
+| ferrariChampions2026 | 101 | 49 | 3 | 67% | $6,711,634 | +$286,715 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Lakersfan111 | 72 | 46 | 7 | 61% | $6,120,656 | +$78,376 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
+| ethanaz | 60 | 24 | 1 | 71% | $5,149,705 | -$137,120 |
 | BrotherObama | 45 | 51 | 3 | 47% | $4,374,370 | -$189,745 |
 | googleplay | 14 | 16 | 0 | 47% | $3,893,979 | -$505,804 |
 | maz26 | 32 | 21 | 2 | 60% | $3,746,257 | +$365,369 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
-| Kch-Temp | 40 | 11 | 3 | 78% | $3,510,019 | +$1,809,583 |
+| Kch-Temp | 41 | 11 | 2 | 79% | $3,510,019 | +$1,854,951 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | raybanman | 17 | 13 | 0 | 57% | $3,063,662 | +$459,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 625 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Mooseborzoiii | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | LOS | 4.35 (23¢) | $31,702 | — | ⏳ Pendiente |
+| ethanaz | Indiana vs. Michigan | Michigan | 2.22 (45¢) | $49,517 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Kings vs. Devils | Kings | 2.70 (37¢) | $48,596 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | LOS | 4.17 (24¢) | $125,116 | — | ⏳ Pendiente |
 | Nooserac | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.27 (79¢) | $36,978 | — | ⏳ Pendiente |
 | End123 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.23 (81¢) | $27,000 | — | ⏳ Pendiente |
 | YYYYY999 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.22 (82¢) | $101,042 | — | ⏳ Pendiente |
@@ -122,12 +124,10 @@ _(mostrando los 40 de mayor monto, de 625 en total)_
 | Woaifacai | Spread: Chelsea FC (-1.5) | Chelsea FC | 3.23 (31¢) | $44,572 | -$44,572 | ❌ Perdida |
 | S-Works | UFC 333: Grant Dawson vs. Nurullo Aliev (Lightweight, Prelims) | Nurullo Aliev | 2.04 (49¢) | $88,193 | -$88,193 | ❌ Perdida |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $32,900 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $54,526 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $54,526 | +$56,752 | ✅ Ganada |
 | lllllllIlll | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | lllllllIlll | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $25,600 | -$25,600 | ❌ Perdida |
-| juice-fruit | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $65,356 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $78,962 | — | ⏳ Pendiente |
-| Ksi172 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $26,101 | — | ⏳ Pendiente |
-| joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.89 (53¢) | $129,390 | — | ⏳ Pendiente |
-| raybanman | Will Tottenham Hotspur FC win on 2026-10-24? | Yes | 4.17 (24¢) | $54,000 | +$171,000 | ✅ Ganada |
-| Jokerxing7 | SSC Napoli vs. AS Roma: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $30,033 | -$30,033 | ❌ Perdida |
+| juice-fruit | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $65,356 | +$68,023 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $78,962 | -$78,962 | ❌ Perdida |
+| Ksi172 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $26,101 | -$26,101 | ❌ Perdida |
+| joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.89 (53¢) | $129,390 | -$129,390 | ❌ Perdida |
