@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 10:02:43 (hora de Perú)
+Actualizado: 2026-10-24 10:04:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6210**  ($348,127,542 en total)
+- Apuestas registradas: **6211**  ($348,175,542 en total)
 - Resueltas: **6152** — 3752 ganadas / 2400 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 620
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| EdZachary | Spread: Cavaliers (-11.5) | Cavaliers | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Spurs (-12.5) | Spurs | 1.96 (51¢) | $39,632 | — | ⏳ Pendiente |
 | crazyoddslover | Swiss Indoors Basel, Qualification: Aleksandar Kovacevic vs James Duckworth | Aleksandar Kovacevic | 1.69 (59¢) | $31,343 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.13 (47¢) | $26,613 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | ndb1 | Arsenal FC vs. Everton FC: O/U 2.5 | Under 2.5 | 2.04 (49¢) | $76,863 | — | ⏳ Pendiente |
 | RJW1 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | takeormake | Army vs. Tulsa | Tulsa | 1.25 (80¢) | $33,944 | -$33,944 | ❌ Perdida |
-| TAIWANNUMBERONE | Army vs. Tulsa | Tulsa | 1.22 (82¢) | $32,978 | -$32,978 | ❌ Perdida |
