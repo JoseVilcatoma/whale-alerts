@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 12:02:34 (hora de Perú)
+Actualizado: 2026-10-24 12:04:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6255**  ($351,299,416 en total)
-- Resueltas: **6169** — 3764 ganadas / 2405 perdidas (**61%** de acierto)
+- Apuestas registradas: **6256**  ($351,326,841 en total)
+- Resueltas: **6170** — 3765 ganadas / 2405 perdidas (**61%** de acierto)
 - Pendientes: 64
 - Apostadores distintos: 622
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,301,407** sobre $346,211,682 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,022** sobre $608,300 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,246,369** sobre $346,260,490 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,909** sobre $608,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | joseph00677 | 21 | 2 | 4 | 91% | $7,392,031 | +$3,145,251 |
-| mooseborzoii | 79 | 43 | 3 | 65% | $7,270,097 | +$1,127,050 |
+| mooseborzoii | 79 | 43 | 4 | 65% | $7,297,522 | +$1,127,050 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 101 | 49 | 0 | 67% | $6,586,934 | +$286,715 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $27,426 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Akron vs. Kent State | Akron | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $32,592 | — | ⏳ Pendiente |
 | Sassy-Bucket | Miami (OH) vs. Central Michigan | Central Michigan | 2.44 (41¢) | $67,472 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 | gmpm2 | Wizards vs. Bulls | Bulls | 1.92 (52¢) | $33,181 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.20 (83¢) | $58,100 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.39 (72¢) | $432,000 | +$168,000 | ✅ Ganada |
-| Zzzz87 | Spread: Arsenal FC (-1.5) | Arsenal FC | 2.13 (47¢) | $48,807 | — | ⏳ Pendiente |
-| YYYYY999 | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
+| Zzzz87 | Spread: Arsenal FC (-1.5) | Arsenal FC | 2.13 (47¢) | $48,807 | +$55,038 | ✅ Ganada |

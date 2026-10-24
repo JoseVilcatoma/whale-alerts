@@ -93142,7 +93142,7 @@
     "side": "BUY",
     "usd": 48807.3109,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792849726,
     "fills": 1
   },
@@ -94016,6 +94016,21 @@
     "odds_at_bet": 41,
     "status": "pending",
     "ultimo_fill": 1792861120,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12692,
+    "timestamp": 1792861386,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "cfb-ind-mich-2026-10-24",
+    "title": "Indiana vs. Michigan",
+    "outcome": "Indiana",
+    "side": "BUY",
+    "usd": 27425.5,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1792861386,
     "fills": 1
   }
 ]
