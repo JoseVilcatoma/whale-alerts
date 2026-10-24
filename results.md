@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 10:57:36 (hora de Perú)
+Actualizado: 2026-10-24 10:59:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6233**  ($350,249,406 en total)
-- Resueltas: **6156** — 3754 ganadas / 2402 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Resueltas: **6157** — 3755 ganadas / 2402 perdidas (**61%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 620
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,704,589** sobre $344,992,392 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$7,255** sobre $607,000 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,677,186** sobre $345,023,293 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,166** sobre $607,100 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -114,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.41 (71¢) | $106,500 | — | ⏳ Pendiente |
 | Jsram | Will Fulham FC win on 2026-10-24? | No | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
 | Kch-Temp | Will Arsenal FC win on 2026-10-24? | Yes | 1.45 (69¢) | $91,261 | — | ⏳ Pendiente |
-| crisp1973 | Will 1. FC Köln win on 2026-10-24? | No | 1.89 (53¢) | $30,901 | — | ⏳ Pendiente |
+| crisp1973 | Will 1. FC Köln win on 2026-10-24? | No | 1.89 (53¢) | $30,901 | +$27,403 | ✅ Ganada |
 | S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
 | robustmst | Swiss Indoors Basel, Qualification: Sebastian Baez vs Giovanni Mpetshi Perricard | Sebastian Baez | 2.63 (38¢) | $29,702 | -$29,702 | ❌ Perdida |
 | Jokerxing7 | Spread: Como 1907 (-1.5) | Como 1907 | 2.33 (43¢) | $37,277 | +$49,413 | ✅ Ganada |
