@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 19:07:19 (hora de Perú)
+Actualizado: 2026-10-23 19:09:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6124**  ($342,214,349 en total)
+- Apuestas registradas: **6125**  ($342,240,382 en total)
 - Resueltas: **6057** — 3703 ganadas / 2354 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 617
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| PEYZ-BIGGEST-FAN | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | Team Secret Whales | 2.33 (43¢) | $26,033 | — | ⏳ Pendiente |
 | kkookkoo | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $34,283 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | Team Secret Whales | 2.38 (42¢) | $25,871 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | UpTheBlues | Will Nottingham Forest FC win on 2026-10-23? | No | 1.75 (57¢) | $26,738 | +$20,171 | ✅ Ganada |
 | 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $111,057 | +$57,211 | ✅ Ganada |
 | 3edmond.dantes | Will Middlesbrough FC win on 2026-10-23? | Yes | 1.52 (66¢) | $81,636 | +$42,055 | ✅ Ganada |
-| omnibus-076daa | Will Torino FC win on 2026-10-23? | No | 1.85 (54¢) | $26,358 | -$26,358 | ❌ Perdida |
