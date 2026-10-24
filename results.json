@@ -93007,7 +93007,7 @@
     "side": "BUY",
     "usd": 29702.42,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792845690,
     "fills": 1
   },
@@ -93309,6 +93309,36 @@
     "odds_at_bet": 47,
     "status": "pending",
     "ultimo_fill": 1792852948,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12628,
+    "timestamp": 1792852974,
+    "username": "crazyoddslover",
+    "wallet": "0x49f268b2bf6a036aecc080958cf7b1af5759506a",
+    "slug": "atp-kovacev-duckwor-2026-10-24",
+    "title": "Swiss Indoors Basel, Qualification: Aleksandar Kovacevic vs James Duckworth",
+    "outcome": "Aleksandar Kovacevic",
+    "side": "BUY",
+    "usd": 31343.35210235447,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1792852974,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12629,
+    "timestamp": 1792853271,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "nba-sas-dal-2026-10-24-spread-away-12pt5",
+    "title": "Spread: Spurs (-12.5)",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 39631.7557,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792853271,
     "fills": 1
   }
 ]
