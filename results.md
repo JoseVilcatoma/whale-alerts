@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 16:17:20 (hora de Perú)
+Actualizado: 2026-10-24 16:19:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6316**  ($355,124,757 en total)
-- Resueltas: **6241** — 3810 ganadas / 2431 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Apuestas registradas: **6320**  ($355,392,363 en total)
+- Resueltas: **6242** — 3810 ganadas / 2432 perdidas (**61%** de acierto)
+- Pendientes: 56
 - Apostadores distintos: 628
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,308,127** sobre $351,278,289 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,973** sobre $615,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,375,598** sobre $351,345,761 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,073** sobre $615,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 452 | 247 | 7 | 65% | $45,366,580 | +$682,582 |
-| Sassy-Bucket | 85 | 84 | 12 | 50% | $11,114,542 | -$972,115 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 452 | 247 | 8 | 65% | $45,488,080 | +$682,582 |
+| Sassy-Bucket | 85 | 85 | 11 | 50% | $11,114,542 | -$1,039,587 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | mooseborzoii | 85 | 44 | 5 | 66% | $7,645,361 | +$1,189,712 |
@@ -61,9 +61,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
+| Mooseborzoiii | 10 | 10 | 2 | 50% | $1,900,847 | +$224,129 |
 | TAIWANNUMBERONE | 31 | 17 | 0 | 65% | $1,858,023 | -$183,942 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
-| Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 
 _(mostrando los 40 de mayor monto, de 628 en total)_
 
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.56 (39¢) | $72,876 | — | ⏳ Pendiente |
+| Nooserac | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
+| PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.61 (62¢) | $43,230 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.64 (61¢) | $121,500 | — | ⏳ Pendiente |
 | Nooserac | Michigan State vs. UCLA | UCLA | 1.12 (89¢) | $44,500 | — | ⏳ Pendiente |
 | KaneAnalytics | San Jose State vs. Nevada | Nevada | 1.43 (70¢) | $26,694 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Jose State vs. Nevada | San Jose State | 2.94 (34¢) | $28,115 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.39 (72¢) | $44,388 | +$17,262 | ✅ Ganada |
 | 999585 | LSU vs. Auburn | LSU | 1.06 (94¢) | $411,655 | +$26,276 | ✅ Ganada |
 | Woaifacai | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.67 (60¢) | $60,000 | +$40,000 | ✅ Ganada |
-| Jokerxing7 | Spread: SS Lazio (-1.5) | SS Lazio | 2.33 (43¢) | $31,497 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Top Esports | 2.44 (41¢) | $27,289 | +$39,270 | ✅ Ganada |
-| YYYYY999 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.45 (69¢) | $31,050 | +$13,950 | ✅ Ganada |
-| Talvez10 | UFC 333: Nikita Krylov vs. Abdul-Rakhman Yakhyaev (Light Heavyweight, Prelims) | Abdul-Rakhman Yakhyaev | 1.22 (82¢) | $35,613 | +$7,818 | ✅ Ganada |
