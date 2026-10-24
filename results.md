@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 23:18:53 (hora de Perú)
+Actualizado: 2026-10-23 23:20:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6155**  ($344,192,325 en total)
-- Resueltas: **6106** — 3737 ganadas / 2369 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **6110** — 3737 ganadas / 2373 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$466** sobre $341,653,268 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$5,741** sobre $602,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$171,946** sobre $341,824,749 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,141** sobre $602,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 441 | 236 | 6 | 65% | $43,842,445 | +$1,010,594 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 441 | 237 | 5 | 65% | $43,842,445 | +$981,681 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 14 | 5 | 0 | 74% | $2,091,761 | -$98,898 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
-| TAIWANNUMBERONE | 31 | 16 | 1 | 66% | $1,858,023 | -$150,964 |
+| TAIWANNUMBERONE | 31 | 17 | 0 | 65% | $1,858,023 | -$183,942 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 | Jsram | 21 | 19 | 0 | 52% | $1,829,321 | -$98,360 |
 
@@ -74,12 +74,12 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Jazz | Jazz | 1.37 (73¢) | $25,603 | — | ⏳ Pendiente |
 | ndb1 | Arsenal FC vs. Everton FC: O/U 2.5 | Under 2.5 | 2.04 (49¢) | $76,863 | — | ⏳ Pendiente |
 | RJW1 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
-| takeormake | Army vs. Tulsa | Tulsa | 1.25 (80¢) | $33,944 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Army vs. Tulsa | Tulsa | 1.22 (82¢) | $32,978 | — | ⏳ Pendiente |
+| takeormake | Army vs. Tulsa | Tulsa | 1.25 (80¢) | $33,944 | -$33,944 | ❌ Perdida |
+| TAIWANNUMBERONE | Army vs. Tulsa | Tulsa | 1.22 (82¢) | $32,978 | -$32,978 | ❌ Perdida |
 | Woaifacai | Trail Blazers vs. Kings | Trail Blazers | 1.52 (66¢) | $84,552 | — | ⏳ Pendiente |
 | 778908 | NC State vs. Stanford | NC State | 2.44 (41¢) | $49,200 | — | ⏳ Pendiente |
-| KaneAnalytics | Army vs. Tulsa | Tulsa | 1.61 (62¢) | $75,646 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Army vs. Tulsa | Tulsa | 3.70 (27¢) | $28,912 | — | ⏳ Pendiente |
+| KaneAnalytics | Army vs. Tulsa | Tulsa | 1.61 (62¢) | $75,646 | -$75,646 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Army vs. Tulsa | Tulsa | 3.70 (27¢) | $28,912 | -$28,912 | ❌ Perdida |
 | RJW1 | Rockets vs. Spurs | Spurs | 1.69 (59¢) | $36,828 | — | ⏳ Pendiente |
 | Kkunn | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.61 (62¢) | $28,758 | — | ⏳ Pendiente |
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.20 (83¢) | $64,190 | +$13,147 | ✅ Ganada |
