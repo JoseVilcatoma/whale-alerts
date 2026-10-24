@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 17:55:35 (hora de Perú)
+Actualizado: 2026-10-24 17:57:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6342**  ($356,628,886 en total)
+- Apuestas registradas: **6343**  ($356,697,421 en total)
 - Resueltas: **6269** — 3823 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 52
 - Apostadores distintos: 628
 
 ### Balance
@@ -58,8 +58,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Talvez10 | 25 | 22 | 2 | 53% | $2,286,861 | +$209,155 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
+| Mooseborzoiii | 10 | 14 | 2 | 42% | $2,220,487 | -$258,804 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Mooseborzoiii | 10 | 14 | 1 | 42% | $2,151,951 | -$258,804 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
 | TAIWANNUMBERONE | 31 | 17 | 0 | 65% | $1,858,023 | -$183,942 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.33 (43¢) | $68,536 | — | ⏳ Pendiente |
 | mooseborzoii | Ole Miss vs. Texas | Ole Miss | 2.44 (41¢) | $82,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Clemson (-2.5) | Clemson | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Clemson (-2.5) | Virginia Tech | 2.13 (47¢) | $72,404 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | mooseborzoii | Spread: Ohio (-10.5) | Eastern Michigan | 1.96 (51¢) | $73,600 | — | ⏳ Pendiente |
 | Talvez10 | Wild vs. Kraken | Wild | 1.64 (61¢) | $35,187 | — | ⏳ Pendiente |
 | shark142 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
-| KaneAnalytics | Indiana vs. Michigan | Michigan | 3.57 (28¢) | $38,374 | -$38,374 | ❌ Perdida |
