@@ -94092,5 +94092,20 @@
     "status": "pending",
     "ultimo_fill": 1792862338,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12708,
+    "timestamp": 1792862443,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "bun-dor-ein-2026-10-24-dor",
+    "title": "Will BV Borussia 09 Dortmund win on 2026-10-24?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 60000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792862443,
+    "fills": 1
   }
 ]
