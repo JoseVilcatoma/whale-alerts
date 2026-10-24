@@ -92665,5 +92665,20 @@
     "status": "pending",
     "ultimo_fill": 1792825600,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12557,
+    "timestamp": 1792827232,
+    "username": "Kkunn",
+    "wallet": "0xe7870d0e1bfc65a23e3d66caf00ca1b9129e5034",
+    "slug": "wta-fernand-bouzkov-2026-10-24",
+    "title": "Ningbo Open: Leylah Fernandez vs Marie Bouzkova",
+    "outcome": "Marie Bouzkova",
+    "side": "BUY",
+    "usd": 29713.161500000002,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1792827232,
+    "fills": 1
   }
 ]
