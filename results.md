@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 17:04:58 (hora de Perú)
+Actualizado: 2026-10-24 17:07:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6329**  ($355,833,735 en total)
+- Apuestas registradas: **6330**  ($355,870,694 en total)
 - Resueltas: **6251** — 3815 ganadas / 2436 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 57
 - Apostadores distintos: 628
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 452 | 248 | 7 | 65% | $45,542,367 | +$641,582 |
-| Sassy-Bucket | 86 | 86 | 9 | 50% | $11,114,542 | -$1,118,216 |
+| Sassy-Bucket | 86 | 86 | 10 | 50% | $11,151,501 | -$1,118,216 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | mooseborzoii | 85 | 44 | 7 | 66% | $7,804,807 | +$1,189,712 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | San Diego State vs. Colorado State | Colorado State | 2.00 (50¢) | $36,959 | — | ⏳ Pendiente |
 | YEEES-but-why | Heat vs. Hornets | Hornets | 2.70 (37¢) | $29,415 | — | ⏳ Pendiente |
 | sinasinner | Spread: Texas (-3.5) | Ole Miss | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoii | Texas A&M vs. Alabama | Alabama | 1.45 (69¢) | $71,436 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.41 (71¢) | $25,379 | +$10,366 | ✅ Ganada |
 | SineNooneEI | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.41 (71¢) | $28,400 | +$11,600 | ✅ Ganada |
 | BrotherObama | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $33,000 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.47 (68¢) | $112,951 | +$53,153 | ✅ Ganada |
