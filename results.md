@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 16:46:21 (hora de Perú)
+Actualizado: 2026-10-24 16:48:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6327**  ($355,736,366 en total)
+- Apuestas registradas: **6327**  ($355,779,320 en total)
 - Resueltas: **6251** — 3815 ganadas / 2436 perdidas (**61%** de acierto)
 - Pendientes: 54
 - Apostadores distintos: 628
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 86 | 86 | 9 | 50% | $11,114,542 | -$1,118,216 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
-| mooseborzoii | 85 | 44 | 7 | 66% | $7,761,853 | +$1,189,712 |
+| mooseborzoii | 85 | 44 | 7 | 66% | $7,804,807 | +$1,189,712 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| mooseborzoii | Texas A&M vs. Alabama | Alabama | 1.41 (71¢) | $28,482 | — | ⏳ Pendiente |
+| mooseborzoii | Texas A&M vs. Alabama | Alabama | 1.45 (69¢) | $71,436 | — | ⏳ Pendiente |
 | ropetard | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $49,830 | — | ⏳ Pendiente |
 | mooseborzoii | Texas A&M vs. Alabama | Texas A&M | 3.45 (29¢) | $88,010 | — | ⏳ Pendiente |
 | juice-fruit | Will Inter Miami CF win on 2026-10-24? | Yes | 2.00 (50¢) | $28,510 | — | ⏳ Pendiente |

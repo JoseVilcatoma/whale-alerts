@@ -95094,10 +95094,10 @@
     "title": "Texas A&M vs. Alabama",
     "outcome": "Alabama",
     "side": "BUY",
-    "usd": 28481.649999999998,
-    "odds_at_bet": 71,
+    "usd": 71436.128,
+    "odds_at_bet": 69,
     "status": "pending",
-    "ultimo_fill": 1792878367,
-    "fills": 1
+    "ultimo_fill": 1792878412,
+    "fills": 2
   }
 ]
