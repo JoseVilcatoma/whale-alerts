@@ -95384,5 +95384,20 @@
     "status": "pending",
     "ultimo_fill": 1792883016,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12885,
+    "timestamp": 1792883054,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "mls-phi-ner-2026-10-24-phi",
+    "title": "Will Philadelphia Union win on 2026-10-24?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 28129.007900000004,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1792883054,
+    "fills": 1
   }
 ]

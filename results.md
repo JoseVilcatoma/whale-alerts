@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 18:03:48 (hora de Perú)
+Actualizado: 2026-10-24 18:05:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6346**  ($356,830,594 en total)
+- Apuestas registradas: **6347**  ($356,858,723 en total)
 - Resueltas: **6269** — 3823 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 628
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will Philadelphia Union win on 2026-10-24? | Yes | 1.54 (65¢) | $28,129 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Bulls (-1.5) | Wizards | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
 | robustmst | Heat vs. Hornets | Hornets | 1.89 (53¢) | $48,854 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Oklahoma State (-13.5) | Colorado | 1.96 (51¢) | $44,319 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | Mooseborzoiii | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | LOS | 4.17 (24¢) | $125,116 | -$125,116 | ❌ Perdida |
 | Nooserac | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.27 (79¢) | $36,978 | +$9,830 | ✅ Ganada |
 | End123 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
-| YYYYY999 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.22 (82¢) | $101,042 | +$22,180 | ✅ Ganada |
