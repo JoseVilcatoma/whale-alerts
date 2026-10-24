@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 14:05:51 (hora de Perú)
+Actualizado: 2026-10-24 14:07:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6286**  ($353,067,629 en total)
-- Resueltas: **6193** — 3778 ganadas / 2415 perdidas (**61%** de acierto)
-- Pendientes: 71
-- Apostadores distintos: 624
+- Apuestas registradas: **6290**  ($353,264,351 en total)
+- Resueltas: **6195** — 3779 ganadas / 2416 perdidas (**61%** de acierto)
+- Pendientes: 73
+- Apostadores distintos: 625
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,494,979** sobre $347,532,393 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,381** sobre $610,700 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,368,551** sobre $347,630,964 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,164** sobre $610,900 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 101 | 49 | 2 | 67% | $6,663,038 | +$286,715 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Lakersfan111 | 72 | 46 | 6 | 61% | $6,019,614 | +$78,376 |
+| Lakersfan111 | 72 | 46 | 7 | 61% | $6,120,656 | +$78,376 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | Kch-Temp | 40 | 11 | 3 | 78% | $3,510,019 | +$1,809,583 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| raybanman | 16 | 13 | 1 | 55% | $3,063,662 | +$288,157 |
+| raybanman | 17 | 13 | 0 | 57% | $3,063,662 | +$459,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -65,12 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 
-_(mostrando los 40 de mayor monto, de 624 en total)_
+_(mostrando los 40 de mayor monto, de 625 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | LOS | 4.35 (23¢) | $31,702 | — | ⏳ Pendiente |
+| Nooserac | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.27 (79¢) | $36,978 | — | ⏳ Pendiente |
+| End123 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.23 (81¢) | $27,000 | — | ⏳ Pendiente |
+| YYYYY999 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.22 (82¢) | $101,042 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Ohio (-10.5) | Eastern Michigan | 1.96 (51¢) | $73,600 | — | ⏳ Pendiente |
 | Talvez10 | Wild vs. Kraken | Wild | 1.64 (61¢) | $35,187 | — | ⏳ Pendiente |
 | shark142 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -115,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.85 (26¢) | $26,000 | -$26,000 | ❌ Perdida |
 | YYYYY999 | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $33,137 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: G2 vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.72 (58¢) | $43,346 | — | ⏳ Pendiente |
-| Woaifacai | Spread: Chelsea FC (-1.5) | Chelsea FC | 3.23 (31¢) | $44,572 | — | ⏳ Pendiente |
+| Woaifacai | Spread: Chelsea FC (-1.5) | Chelsea FC | 3.23 (31¢) | $44,572 | -$44,572 | ❌ Perdida |
 | S-Works | UFC 333: Grant Dawson vs. Nurullo Aliev (Lightweight, Prelims) | Nurullo Aliev | 2.04 (49¢) | $88,193 | -$88,193 | ❌ Perdida |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $32,900 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $54,526 | — | ⏳ Pendiente |
@@ -125,9 +129,5 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $78,962 | — | ⏳ Pendiente |
 | Ksi172 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $26,101 | — | ⏳ Pendiente |
 | joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.89 (53¢) | $129,390 | — | ⏳ Pendiente |
-| raybanman | Will Tottenham Hotspur FC win on 2026-10-24? | Yes | 4.17 (24¢) | $54,000 | — | ⏳ Pendiente |
+| raybanman | Will Tottenham Hotspur FC win on 2026-10-24? | Yes | 4.17 (24¢) | $54,000 | +$171,000 | ✅ Ganada |
 | Jokerxing7 | SSC Napoli vs. AS Roma: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $30,033 | -$30,033 | ❌ Perdida |
-| plonker2026 | Will Chelsea FC win on 2026-10-24? | No | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
-| joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $716,561 | — | ⏳ Pendiente |
-| joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $249,115 | — | ⏳ Pendiente |
-| ArturitoFilito | Will Chelsea FC win on 2026-10-24? | No | 2.08 (48¢) | $32,000 | +$667 | 💰 Vendida antes |
