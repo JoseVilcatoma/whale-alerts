@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 18:24:39 (hora de Perú)
+Actualizado: 2026-10-24 18:26:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6358**  ($358,705,953 en total)
+- Apuestas registradas: **6360**  ($358,791,283 en total)
 - Resueltas: **6269** — 3823 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Pendientes: 69
 - Apostadores distintos: 629
 
 ### Balance
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 455 | 248 | 7 | 65% | $45,910,891 | +$992,583 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 455 | 248 | 8 | 65% | $45,966,540 | +$992,583 |
 | Sassy-Bucket | 86 | 88 | 9 | 49% | $11,391,508 | -$1,264,352 |
+| mooseborzoii | 85 | 44 | 11 | 66% | $7,986,631 | +$1,189,712 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
-| mooseborzoii | 85 | 44 | 10 | 66% | $7,956,949 | +$1,189,712 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 1 | 51% | $7,477,793 | -$661,667 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 629 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Spread: 76ers (-12.5) | 76ers | 1.96 (51¢) | $29,682 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | Bucks | 2.04 (49¢) | $55,649 | — | ⏳ Pendiente |
 | NS13 | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.82 (55¢) | $25,258 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.89 (53¢) | $96,107 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.13 (47¢) | $379,159 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 629 en total)_
 | Mooseborzoiii | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.69 (59¢) | $345,171 | -$345,171 | ❌ Perdida |
 | texaskid | Spread: 76ers (-12.5) | 76ers | 2.00 (50¢) | $25,518 | — | ⏳ Pendiente |
 | 999585 | Michigan State vs. UCLA | UCLA | 1.15 (87¢) | $200,100 | +$4,600 | 💰 Vendida antes |
-| sulumos | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Petr Yan | 1.69 (59¢) | $43,070 | +$29,930 | ✅ Ganada |
-| Sassy-Bucket | BYU vs. UCF | BYU | 1.33 (75¢) | $135,185 | — | ⏳ Pendiente |
