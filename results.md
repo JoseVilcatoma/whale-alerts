@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 15:50:32 (hora de Perú)
+Actualizado: 2026-10-24 15:52:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6312**  ($354,992,861 en total)
+- Apuestas registradas: **6313**  ($355,025,448 en total)
 - Resueltas: **6235** — 3805 ganadas / 2430 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 628
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 101 | 50 | 2 | 67% | $6,711,634 | +$255,610 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Lakersfan111 | 74 | 46 | 5 | 62% | $6,120,656 | +$107,091 |
+| Lakersfan111 | 74 | 46 | 6 | 62% | $6,153,243 | +$107,091 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YYYYY999 | Spread: Bulls (-1.5) | Wizards | 1.96 (51¢) | $32,587 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.89 (53¢) | $76,318 | — | ⏳ Pendiente |
 | Nooserac | Kansas State vs. Arizona State | Arizona State | 1.54 (65¢) | $30,880 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.92 (52¢) | $69,818 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $27,426 | +$9,142 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Akron vs. Kent State | Akron | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $32,592 | -$32,592 | ❌ Perdida |
-| Sassy-Bucket | Miami (OH) vs. Central Michigan | Central Michigan | 2.44 (41¢) | $67,472 | — | ⏳ Pendiente |
