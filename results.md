@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 09:01:02 (hora de Perú)
+Actualizado: 2026-10-24 09:03:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6200**  ($347,804,612 en total)
-- Resueltas: **6148** — 3750 ganadas / 2398 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **6149** — 3751 ganadas / 2398 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,664,840** sobre $344,730,464 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$7,101** sobre $606,300 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,656,712** sobre $344,762,976 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,076** sobre $606,400 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | Zzzz87 | Spread: Arsenal FC (-1.5) | Arsenal FC | 2.13 (47¢) | $48,807 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.39 (72¢) | $288,000 | — | ⏳ Pendiente |
-| Woaifacai | Pan Pacific Open, Qualification: Kayla Day vs Shuai Zhang | Shuai Zhang | 1.25 (80¢) | $32,512 | — | ⏳ Pendiente |
+| Woaifacai | Pan Pacific Open, Qualification: Kayla Day vs Shuai Zhang | Shuai Zhang | 1.25 (80¢) | $32,512 | +$8,128 | ✅ Ganada |
 | totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.41 (71¢) | $106,500 | — | ⏳ Pendiente |
 | Jsram | Will Fulham FC win on 2026-10-24? | No | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
 | Kch-Temp | Will Arsenal FC win on 2026-10-24? | Yes | 1.45 (69¢) | $91,261 | — | ⏳ Pendiente |
