@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 16:38:07 (hora de Perú)
+Actualizado: 2026-10-24 16:40:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6324**  ($355,570,044 en total)
-- Resueltas: **6250** — 3814 ganadas / 2436 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Resueltas: **6251** — 3815 ganadas / 2436 perdidas (**61%** de acierto)
+- Pendientes: 51
 - Apostadores distintos: 628
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,467,830** sobre $351,877,388 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,255** sobre $616,300 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,462,516** sobre $351,920,388 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,243** sobre $616,400 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -126,7 +126,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | SineNooneEI | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.41 (71¢) | $28,400 | +$11,600 | ✅ Ganada |
 | BrotherObama | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $33,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.47 (68¢) | $112,951 | +$53,153 | ✅ Ganada |
-| zhqzhq | Will Parma Calcio 1913 win on 2026-10-24? | No | 1.12 (89¢) | $43,000 | — | ⏳ Pendiente |
+| zhqzhq | Will Parma Calcio 1913 win on 2026-10-24? | No | 1.12 (89¢) | $43,000 | +$5,315 | ✅ Ganada |
 | ArielFilipino | Spread: Spurs (-12.5) | Spurs | 1.85 (54¢) | $30,974 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: SS Lazio (-1.5) | Parma Calcio 1913 | 1.75 (57¢) | $65,438 | +$49,365 | ✅ Ganada |
 | ferrariChampions2026 | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Over 2.5 | 1.59 (63¢) | $45,000 | — | ⏳ Pendiente |
