@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 08:23:53 (hora de Perú)
+Actualizado: 2026-10-24 08:25:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6192**  ($346,780,312 en total)
+- Apuestas registradas: **6193**  ($346,886,812 en total)
 - Resueltas: **6135** — 3747 ganadas / 2388 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 619
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | mooseborzoii | 79 | 43 | 1 | 65% | $7,212,704 | +$1,127,050 |
-| totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
+| totoro3miyazaki | 35 | 23 | 2 | 60% | $7,145,280 | -$694,864 |
 | ferrariChampions2026 | 101 | 49 | 0 | 67% | $6,586,934 | +$286,715 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.41 (71¢) | $106,500 | — | ⏳ Pendiente |
 | Jsram | Will Fulham FC win on 2026-10-24? | No | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
 | Kch-Temp | Will Arsenal FC win on 2026-10-24? | Yes | 1.45 (69¢) | $91,261 | — | ⏳ Pendiente |
 | crisp1973 | Will 1. FC Köln win on 2026-10-24? | No | 1.89 (53¢) | $30,901 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | dhgreg | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $143,229 | +$254,629 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Celtics | Celtics | 1.14 (88¢) | $88,880 | +$12,120 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Knicks vs. Celtics | Celtics | 1.18 (85¢) | $33,325 | +$5,881 | ✅ Ganada |
-| scootergene | Pelicans vs. Jazz: O/U 238.5 | Over 238.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
