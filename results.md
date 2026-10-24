@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 09:40:10 (hora de Perú)
+Actualizado: 2026-10-24 09:42:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6206**  ($348,000,821 en total)
+- Apuestas registradas: **6207**  ($348,029,954 en total)
 - Resueltas: **6151** — 3752 ganadas / 2399 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 620
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| PollyPepperoni | UFC 333: Abubakar Vagaev vs. Jacob Malkoun (Middleweight, Early Prelims) | Jacob Malkoun | 2.44 (41¢) | $29,133 | — | ⏳ Pendiente |
 | veliMax | Will Arsenal FC win on 2026-10-24? | Yes | 1.16 (86¢) | $45,447 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.08 (48¢) | $30,780 | — | ⏳ Pendiente |
 | Zzzz87 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $33,902 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | Woaifacai | Trail Blazers vs. Kings | Trail Blazers | 1.52 (66¢) | $84,552 | +$43,557 | ✅ Ganada |
 | 778908 | NC State vs. Stanford | NC State | 2.44 (41¢) | $49,200 | -$49,200 | ❌ Perdida |
 | KaneAnalytics | Army vs. Tulsa | Tulsa | 1.61 (62¢) | $75,646 | -$75,646 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Army vs. Tulsa | Tulsa | 3.70 (27¢) | $28,912 | -$28,912 | ❌ Perdida |
