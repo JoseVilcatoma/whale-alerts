@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 12:49:00 (hora de Perú)
+Actualizado: 2026-10-24 12:51:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6265**  ($351,883,967 en total)
+- Apuestas registradas: **6267**  ($352,200,232 en total)
 - Resueltas: **6180** — 3773 ganadas / 2407 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Pendientes: 65
 - Apostadores distintos: 624
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 2 | 4 | 91% | $7,392,031 | +$3,145,251 |
 | mooseborzoii | 79 | 43 | 5 | 65% | $7,341,910 | +$1,127,050 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 101 | 49 | 0 | 67% | $6,586,934 | +$286,715 |
+| ferrariChampions2026 | 101 | 49 | 1 | 67% | $6,631,934 | +$286,715 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Lakersfan111 | 72 | 46 | 6 | 61% | $6,019,614 | +$78,376 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 32 | 21 | 2 | 60% | $3,746,257 | +$365,369 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
-| Kch-Temp | 40 | 11 | 2 | 78% | $3,444,582 | +$1,809,583 |
+| Kch-Temp | 40 | 11 | 3 | 78% | $3,510,019 | +$1,809,583 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | raybanman | 16 | 13 | 1 | 55% | $3,063,662 | +$288,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
@@ -71,10 +71,12 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Spread: SS Lazio (-1.5) | Parma Calcio 1913 | 1.75 (57¢) | $65,438 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Over 2.5 | 1.59 (63¢) | $45,000 | — | ⏳ Pendiente |
 | spx11 | Wizards vs. Bulls | Wizards | 2.13 (47¢) | $47,350 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Indiana vs. Michigan | Indiana | 1.28 (78¢) | $74,110 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.39 (72¢) | $44,388 | — | ⏳ Pendiente |
-| 999585 | LSU vs. Auburn | LSU | 1.06 (94¢) | $205,827 | — | ⏳ Pendiente |
+| 999585 | LSU vs. Auburn | LSU | 1.06 (94¢) | $411,655 | — | ⏳ Pendiente |
 | Woaifacai | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: SS Lazio (-1.5) | SS Lazio | 2.33 (43¢) | $31,497 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Top Esports | 2.44 (41¢) | $27,289 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | Talvez10 | Spread: Spurs (-12.5) | Spurs | 1.96 (51¢) | $39,632 | — | ⏳ Pendiente |
 | crazyoddslover | Swiss Indoors Basel, Qualification: Aleksandar Kovacevic vs James Duckworth | Aleksandar Kovacevic | 1.69 (59¢) | $31,343 | +$21,781 | ✅ Ganada |
 | mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.13 (47¢) | $26,613 | — | ⏳ Pendiente |
-| PollyPepperoni | UFC 333: Abubakar Vagaev vs. Jacob Malkoun (Middleweight, Early Prelims) | Jacob Malkoun | 2.44 (41¢) | $29,133 | -$29,133 | ❌ Perdida |
-| veliMax | Will Arsenal FC win on 2026-10-24? | Yes | 1.16 (86¢) | $45,447 | +$7,398 | ✅ Ganada |
