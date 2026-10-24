@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 12:06:41 (hora de Perú)
+Actualizado: 2026-10-24 12:08:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6256**  ($351,326,841 en total)
-- Resueltas: **6170** — 3765 ganadas / 2405 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Apuestas registradas: **6257**  ($351,362,455 en total)
+- Resueltas: **6173** — 3766 ganadas / 2407 perdidas (**61%** de acierto)
+- Pendientes: 62
 - Apostadores distintos: 622
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,246,369** sobre $346,260,490 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,909** sobre $608,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$1,383,903** sobre $346,554,887 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,005** sobre $608,700 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -53,11 +53,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | S-Works | 14 | 6 | 3 | 70% | $2,371,320 | -$186,998 |
 | milkteaboba | 13 | 11 | 0 | 54% | $2,337,396 | -$694,704 |
-| ndb1 | 27 | 15 | 1 | 64% | $2,337,048 | +$332,351 |
+| ndb1 | 28 | 15 | 0 | 65% | $2,337,048 | +$412,352 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
-| Talvez10 | 24 | 22 | 1 | 52% | $2,216,061 | +$201,337 |
+| Talvez10 | 24 | 22 | 2 | 52% | $2,251,674 | +$201,337 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 1 | 49% | $1,909,851 | -$162,470 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | UFC 333: Nikita Krylov vs. Abdul-Rakhman Yakhyaev (Light Heavyweight, Prelims) | Abdul-Rakhman Yakhyaev | 1.22 (82¢) | $35,613 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $27,426 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Akron vs. Kent State | Akron | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $32,592 | — | ⏳ Pendiente |
@@ -120,7 +121,7 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 | Talvez10 | Spread: Spurs (-12.5) | Spurs | 1.96 (51¢) | $39,632 | — | ⏳ Pendiente |
 | crazyoddslover | Swiss Indoors Basel, Qualification: Aleksandar Kovacevic vs James Duckworth | Aleksandar Kovacevic | 1.69 (59¢) | $31,343 | +$21,781 | ✅ Ganada |
 | mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.13 (47¢) | $26,613 | — | ⏳ Pendiente |
-| PollyPepperoni | UFC 333: Abubakar Vagaev vs. Jacob Malkoun (Middleweight, Early Prelims) | Jacob Malkoun | 2.44 (41¢) | $29,133 | — | ⏳ Pendiente |
+| PollyPepperoni | UFC 333: Abubakar Vagaev vs. Jacob Malkoun (Middleweight, Early Prelims) | Jacob Malkoun | 2.44 (41¢) | $29,133 | -$29,133 | ❌ Perdida |
 | veliMax | Will Arsenal FC win on 2026-10-24? | Yes | 1.16 (86¢) | $45,447 | +$7,398 | ✅ Ganada |
 | mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.08 (48¢) | $30,780 | — | ⏳ Pendiente |
 | Zzzz87 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $33,902 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 | gmpm2 | Wizards vs. Bulls | Bulls | 1.92 (52¢) | $33,181 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.20 (83¢) | $58,100 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.39 (72¢) | $432,000 | +$168,000 | ✅ Ganada |
-| Zzzz87 | Spread: Arsenal FC (-1.5) | Arsenal FC | 2.13 (47¢) | $48,807 | +$55,038 | ✅ Ganada |

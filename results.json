@@ -92497,7 +92497,7 @@
     "side": "BUY",
     "usd": 76862.87,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792814012,
     "fills": 1
   },
@@ -92647,7 +92647,7 @@
     "side": "BUY",
     "usd": 188401.38,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792825443,
     "fills": 1
   },
@@ -93292,7 +93292,7 @@
     "side": "BUY",
     "usd": 29132.832899999998,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792852861,
     "fills": 1
   },
@@ -94031,6 +94031,21 @@
     "odds_at_bet": 75,
     "status": "pending",
     "ultimo_fill": 1792861386,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12696,
+    "timestamp": 1792861708,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-nik2-abd8-2026-10-24",
+    "title": "UFC 333: Nikita Krylov vs. Abdul-Rakhman Yakhyaev (Light Heavyweight, Prelims)",
+    "outcome": "Abdul-Rakhman Yakhyaev",
+    "side": "BUY",
+    "usd": 35613.35999800001,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1792861708,
     "fills": 1
   }
 ]
