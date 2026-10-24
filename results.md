@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 08:42:19 (hora de Perú)
+Actualizado: 2026-10-24 08:44:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6195**  ($347,207,324 en total)
-- Resueltas: **6144** — 3748 ganadas / 2396 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **6145** — 3749 ganadas / 2396 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,491,616** sobre $344,427,627 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,030** sobre $605,900 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,474,212** sobre $344,479,837 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,997** sobre $606,000 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-10-24? | No | 1.23 (81¢) | $81,000 | -$81,000 | ❌ Perdida |
 | 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.64 (61¢) | $190,754 | -$190,754 | ❌ Perdida |
 | 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.64 (61¢) | $283,813 | -$283,813 | ❌ Perdida |
-| Woaifacai | Guangzhou Open, Qualification: Dayana Yastremska vs Xiaodi You | Dayana Yastremska | 1.33 (75¢) | $52,210 | — | ⏳ Pendiente |
+| Woaifacai | Guangzhou Open, Qualification: Dayana Yastremska vs Xiaodi You | Dayana Yastremska | 1.33 (75¢) | $52,210 | +$17,403 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-10-24? | No | 1.23 (81¢) | $60,579 | -$60,579 | ❌ Perdida |
 | beeemw | Will Aston Villa FC win on 2026-10-24? | No | 1.22 (82¢) | $49,737 | -$49,737 | ❌ Perdida |
 | 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.69 (59¢) | $45,888 | -$45,888 | ❌ Perdida |
