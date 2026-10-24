@@ -94452,5 +94452,20 @@
     "status": "pending",
     "ultimo_fill": 1792867593,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12741,
+    "timestamp": 1792867711,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "nhl-min-sea-2026-10-24",
+    "title": "Wild vs. Kraken",
+    "outcome": "Wild",
+    "side": "BUY",
+    "usd": 35187.423,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1792867711,
+    "fills": 1
   }
 ]
