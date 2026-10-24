@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 00:35:19 (hora de Perú)
+Actualizado: 2026-10-24 00:37:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6156**  ($344,231,226 en total)
+- Apuestas registradas: **6157**  ($344,318,118 en total)
 - Resueltas: **6126** — 3745 ganadas / 2381 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 619
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.54 (65¢) | $86,892 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ashlyn Krueger | 4.00 (25¢) | $38,900 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Jazz | Jazz | 1.37 (73¢) | $25,603 | +$9,470 | ✅ Ganada |
 | ndb1 | Arsenal FC vs. Everton FC: O/U 2.5 | Under 2.5 | 2.04 (49¢) | $76,863 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | mooseborzoii | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $50,063 | +$17,590 | ✅ Ganada |
 | googleplay | Knicks vs. Celtics | Celtics | 1.72 (58¢) | $692,461 | +$501,437 | ✅ Ganada |
 | Talvez10 | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $48,780 | -$48,780 | ❌ Perdida |
-| 01258787xy48487484545122 | Lyon Open: Luca Van Assche vs Lorenzo Musetti | Luca Van Assche | 1.39 (72¢) | $42,284 | -$42,284 | ❌ Perdida |
