@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 06:12:54 (hora de Perú)
+Actualizado: 2026-10-24 06:14:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6177**  ($345,432,300 en total)
+- Apuestas registradas: **6178**  ($345,484,510 en total)
 - Resueltas: **6132** — 3746 ganadas / 2386 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 619
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Guangzhou Open, Qualification: Dayana Yastremska vs Xiaodi You | Dayana Yastremska | 1.33 (75¢) | $52,210 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-10-24? | No | 1.23 (81¢) | $60,579 | — | ⏳ Pendiente |
 | beeemw | Will Aston Villa FC win on 2026-10-24? | No | 1.22 (82¢) | $49,737 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.69 (59¢) | $45,888 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | googleplay | Pistons vs. Heat | Pistons | 1.85 (54¢) | $177,436 | +$151,149 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.11 (90¢) | $56,453 | +$6,273 | ✅ Ganada |
 | bluemario | Cruzeiro EC vs. Clube do Remo: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $101,544 | +$101,544 | ✅ Ganada |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Lakers: O/U 225.5 | Under 225.5 | 2.00 (50¢) | $37,927 | -$37,927 | ❌ Perdida |

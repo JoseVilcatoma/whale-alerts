@@ -92845,5 +92845,20 @@
     "status": "pending",
     "ultimo_fill": 1792840070,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12575,
+    "timestamp": 1792840375,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "wta-yastrem-you-2026-10-24",
+    "title": "Guangzhou Open, Qualification: Dayana Yastremska vs Xiaodi You",
+    "outcome": "Dayana Yastremska",
+    "side": "BUY",
+    "usd": 52209.80499999999,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1792840375,
+    "fills": 1
   }
 ]
