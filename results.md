@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 11:39:16 (hora de Perú)
+Actualizado: 2026-10-24 11:41:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6246**  ($350,869,698 en total)
+- Apuestas registradas: **6247**  ($350,896,698 en total)
 - Resueltas: **6157** — 3755 ganadas / 2402 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Pendientes: 68
 - Apostadores distintos: 622
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.70 (27¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | No | 1.35 (74¢) | $74,000 | — | ⏳ Pendiente |
 | skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.85 (26¢) | $26,000 | — | ⏳ Pendiente |
 | YYYYY999 | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $33,137 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 | crisp1973 | Will 1. FC Köln win on 2026-10-24? | No | 1.89 (53¢) | $30,901 | +$27,403 | ✅ Ganada |
 | S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
 | robustmst | Swiss Indoors Basel, Qualification: Sebastian Baez vs Giovanni Mpetshi Perricard | Sebastian Baez | 2.63 (38¢) | $29,702 | -$29,702 | ❌ Perdida |
-| Jokerxing7 | Spread: Como 1907 (-1.5) | Como 1907 | 2.33 (43¢) | $37,277 | +$49,413 | ✅ Ganada |
