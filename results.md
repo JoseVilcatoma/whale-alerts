@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 20:56:11 (hora de Perú)
+Actualizado: 2026-10-23 20:58:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6139**  ($343,287,652 en total)
-- Resueltas: **6073** — 3717 ganadas / 2356 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Resueltas: **6076** — 3718 ganadas / 2358 perdidas (**61%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$514,290** sobre $339,252,059 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$5,686** sobre $598,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$559,647** sobre $339,377,485 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,782** sobre $599,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 439 | 234 | 7 | 65% | $43,733,752 | +$1,084,854 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 440 | 234 | 6 | 65% | $43,733,752 | +$1,125,689 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | ndb1 | 27 | 14 | 1 | 66% | $2,260,185 | +$366,376 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Talvez10 | 24 | 18 | 4 | 57% | $2,176,429 | +$377,201 |
+| Talvez10 | 24 | 19 | 3 | 56% | $2,176,429 | +$320,009 |
 | S-Works | 14 | 5 | 0 | 74% | $2,091,761 | -$98,898 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
@@ -101,13 +101,13 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
 | para-Vision | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
 | 778908 | North Carolina Central vs. Delaware State | North Carolina Central | 1.72 (58¢) | $127,348 | +$92,218 | ✅ Ganada |
-| Talvez10 | Spread: Magic (-1.5) | Magic | 1.92 (52¢) | $57,192 | — | ⏳ Pendiente |
+| Talvez10 | Spread: Magic (-1.5) | Magic | 1.92 (52¢) | $57,192 | -$57,192 | ❌ Perdida |
 | Kkunn | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $34,223 | +$4,230 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-2.5) | Knicks | 2.08 (48¢) | $79,701 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $29,944 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Magic (-1.5) | Timberwolves | 2.04 (49¢) | $39,233 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Magic (-1.5) | Timberwolves | 2.04 (49¢) | $39,233 | +$40,835 | ✅ Ganada |
 | monkeymashingkeyboard | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $61,689 | — | ⏳ Pendiente |
-| Jokerxing7 | Spread: Magic (-1.5) | Magic | 1.96 (51¢) | $29,000 | — | ⏳ Pendiente |
+| Jokerxing7 | Spread: Magic (-1.5) | Magic | 1.96 (51¢) | $29,000 | -$29,000 | ❌ Perdida |
 | wanzzz333 | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $49,626 | +$6,134 | ✅ Ganada |
 | dhgreg | Raptors vs. Wizards | Wizards | 3.85 (26¢) | $27,842 | — | ⏳ Pendiente |
 | mooseborzoii | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $50,063 | — | ⏳ Pendiente |
