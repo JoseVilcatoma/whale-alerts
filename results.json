@@ -95604,10 +95604,25 @@
     "title": "Syracuse vs. North Carolina",
     "outcome": "North Carolina",
     "side": "BUY",
-    "usd": 115798.9124,
+    "usd": 188627.0524,
     "odds_at_bet": 76,
     "status": "pending",
-    "ultimo_fill": 1792884457,
-    "fills": 3
+    "ultimo_fill": 1792884554,
+    "fills": 4
+  },
+  {
+    "telegram_msg_id": 12900,
+    "timestamp": 1792884618,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-was-chi-2026-10-24-spread-home-1pt5",
+    "title": "Spread: Bulls (-1.5)",
+    "outcome": "Bulls",
+    "side": "BUY",
+    "usd": 101193.1749,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792884618,
+    "fills": 1
   }
 ]

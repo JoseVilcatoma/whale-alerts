@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 18:28:48 (hora de Perú)
+Actualizado: 2026-10-24 18:30:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6361**  ($358,907,082 en total)
+- Apuestas registradas: **6362**  ($359,081,104 en total)
 - Resueltas: **6269** — 3823 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 70
+- Pendientes: 71
 - Apostadores distintos: 629
 
 ### Balance
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 455 | 248 | 8 | 65% | $45,966,540 | +$992,583 |
-| Sassy-Bucket | 86 | 88 | 10 | 49% | $11,507,307 | -$1,264,352 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 455 | 248 | 9 | 65% | $46,067,733 | +$992,583 |
+| Sassy-Bucket | 86 | 88 | 10 | 49% | $11,580,135 | -$1,264,352 |
 | mooseborzoii | 85 | 44 | 11 | 66% | $7,986,631 | +$1,189,712 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 629 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Sassy-Bucket | Syracuse vs. North Carolina | North Carolina | 1.32 (76¢) | $115,799 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bulls (-1.5) | Bulls | 1.96 (51¢) | $101,193 | — | ⏳ Pendiente |
+| Sassy-Bucket | Syracuse vs. North Carolina | North Carolina | 1.32 (76¢) | $188,627 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: 76ers (-12.5) | 76ers | 1.96 (51¢) | $29,682 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | Bucks | 2.04 (49¢) | $55,649 | — | ⏳ Pendiente |
 | NS13 | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.82 (55¢) | $25,258 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 629 en total)_
 | gol702 | M25 Tamworth: Blake Ellis vs Isaac Becroft | Isaac Becroft | 1.92 (52¢) | $25,994 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | LYON | 2.50 (40¢) | $39,380 | +$59,071 | ✅ Ganada |
 | Mooseborzoiii | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.69 (59¢) | $345,171 | -$345,171 | ❌ Perdida |
-| texaskid | Spread: 76ers (-12.5) | 76ers | 2.00 (50¢) | $25,518 | — | ⏳ Pendiente |
