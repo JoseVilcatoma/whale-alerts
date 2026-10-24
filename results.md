@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 01:37:09 (hora de Perú)
+Actualizado: 2026-10-24 01:39:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6158**  ($344,352,731 en total)
+- Apuestas registradas: **6159**  ($344,378,306 en total)
 - Resueltas: **6127** — 3745 ganadas / 2382 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 619
 
 ### Balance
@@ -44,8 +44,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
+| Kch-Temp | 38 | 11 | 2 | 78% | $3,306,101 | +$1,755,985 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Kch-Temp | 38 | 11 | 1 | 78% | $3,280,526 | +$1,755,985 |
 | raybanman | 16 | 13 | 0 | 55% | $3,009,662 | +$288,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Will Arsenal FC win on 2026-10-24? | Yes | 1.49 (67¢) | $25,575 | — | ⏳ Pendiente |
 | RJW1 | Will Manchester City FC win on 2026-10-24? | Yes | 1.67 (60¢) | $34,613 | — | ⏳ Pendiente |
 | Woaifacai | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.54 (65¢) | $86,892 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ashlyn Krueger | 4.00 (25¢) | $38,900 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | wanzzz333 | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $49,626 | +$6,134 | ✅ Ganada |
 | dhgreg | Raptors vs. Wizards | Wizards | 3.85 (26¢) | $27,842 | -$27,842 | ❌ Perdida |
 | mooseborzoii | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $50,063 | +$17,590 | ✅ Ganada |
-| googleplay | Knicks vs. Celtics | Celtics | 1.72 (58¢) | $692,461 | +$501,437 | ✅ Ganada |
