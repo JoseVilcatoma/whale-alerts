@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 18:22:33 (hora de Perú)
+Actualizado: 2026-10-24 18:24:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6358**  ($358,667,553 en total)
+- Apuestas registradas: **6358**  ($358,705,953 en total)
 - Resueltas: **6269** — 3823 ganadas / 2446 perdidas (**61%** de acierto)
 - Pendientes: 67
 - Apostadores distintos: 629
@@ -49,8 +49,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 13 | 0 | 57% | $3,063,662 | +$459,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
+| Mooseborzoiii | 10 | 14 | 4 | 42% | $2,625,446 | -$258,804 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Mooseborzoiii | 10 | 14 | 4 | 42% | $2,587,046 | -$258,804 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | S-Works | 16 | 7 | 0 | 70% | $2,371,320 | -$255,521 |
 | milkteaboba | 13 | 11 | 0 | 54% | $2,337,396 | -$694,704 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 629 en total)_
 |---|---|---|---|---|---|---|
 | NS13 | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.82 (55¢) | $25,258 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.89 (53¢) | $96,107 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.13 (47¢) | $340,759 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.13 (47¢) | $379,159 | — | ⏳ Pendiente |
 | Sassy-Bucket | Ole Miss vs. Texas | Texas | 1.67 (60¢) | $240,007 | — | ⏳ Pendiente |
 | yabanci | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $52,430 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.27 (44¢) | $26,419 | — | ⏳ Pendiente |
