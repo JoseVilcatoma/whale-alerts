@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 21:06:27 (hora de Perú)
+Actualizado: 2026-10-23 21:08:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6139**  ($343,287,652 en total)
-- Resueltas: **6087** — 3724 ganadas / 2363 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **6089** — 3725 ganadas / 2364 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$705,135** sobre $339,850,110 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$6,065** sobre $600,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$644,519** sobre $339,918,099 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$5,943** sobre $600,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,11 +36,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| Lakersfan111 | 67 | 46 | 2 | 59% | $5,640,821 | -$100,071 |
+| Lakersfan111 | 68 | 46 | 1 | 60% | $5,640,821 | -$11,334 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
 | BrotherObama | 45 | 50 | 3 | 47% | $4,341,370 | -$144,788 |
-| googleplay | 12 | 14 | 4 | 46% | $3,893,979 | -$881,509 |
+| googleplay | 12 | 15 | 3 | 44% | $3,893,979 | -$909,631 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | maz26 | 32 | 21 | 0 | 60% | $3,679,480 | +$365,369 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -114,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | googleplay | Knicks vs. Celtics | Celtics | 1.72 (58¢) | $692,461 | — | ⏳ Pendiente |
 | Talvez10 | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $48,780 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Lyon Open: Luca Van Assche vs Lorenzo Musetti | Luca Van Assche | 1.39 (72¢) | $42,284 | -$42,284 | ❌ Perdida |
-| googleplay | Mavericks vs. Pacers: O/U 240.5 | Over 240.5 | 1.92 (52¢) | $28,121 | — | ⏳ Pendiente |
+| googleplay | Mavericks vs. Pacers: O/U 240.5 | Over 240.5 | 1.92 (52¢) | $28,121 | -$28,121 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.00 (50¢) | $250,000 | +$250,000 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $29,200 | -$29,200 | ❌ Perdida |
 | beeemw | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $37,875 | +$12,625 | ✅ Ganada |
@@ -130,4 +130,4 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | meoooow | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $37,834 | -$37,834 | ❌ Perdida |
 | Mooseborzoiii | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 2.56 (39¢) | $201,608 | +$315,335 | ✅ Ganada |
 | n0tTODAY | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.52 (66¢) | $30,690 | -$30,690 | ❌ Perdida |
-| YYYYY999 | Mavericks vs. Pacers | Mavericks | 3.23 (31¢) | $39,867 | — | ⏳ Pendiente |
+| YYYYY999 | Mavericks vs. Pacers | Mavericks | 3.23 (31¢) | $39,867 | +$88,737 | ✅ Ganada |
