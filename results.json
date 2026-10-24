@@ -95339,5 +95339,20 @@
     "status": "pending",
     "ultimo_fill": 1792882644,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12882,
+    "timestamp": 1792882781,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "cfb-col-okst-2026-10-24-spread-home-13pt5",
+    "title": "Spread: Oklahoma State (-13.5)",
+    "outcome": "Colorado",
+    "side": "BUY",
+    "usd": 44319.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792882781,
+    "fills": 1
   }
 ]
