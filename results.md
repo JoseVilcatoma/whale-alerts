@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 12:33:45 (hora de Perú)
+Actualizado: 2026-10-24 12:35:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6262**  ($351,718,119 en total)
+- Apuestas registradas: **6263**  ($351,762,507 en total)
 - Resueltas: **6180** — 3773 ganadas / 2407 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Pendientes: 61
 - Apostadores distintos: 623
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | joseph00677 | 21 | 2 | 4 | 91% | $7,392,031 | +$3,145,251 |
-| mooseborzoii | 79 | 43 | 4 | 65% | $7,297,522 | +$1,127,050 |
+| mooseborzoii | 79 | 43 | 5 | 65% | $7,341,910 | +$1,127,050 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 101 | 49 | 0 | 67% | $6,586,934 | +$286,715 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 623 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Indiana vs. Michigan | Indiana | 1.39 (72¢) | $44,388 | — | ⏳ Pendiente |
 | 999585 | LSU vs. Auburn | LSU | 1.06 (94¢) | $205,827 | — | ⏳ Pendiente |
 | Woaifacai | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: SS Lazio (-1.5) | SS Lazio | 2.33 (43¢) | $31,497 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 623 en total)_
 | veliMax | Will Arsenal FC win on 2026-10-24? | Yes | 1.16 (86¢) | $45,447 | +$7,398 | ✅ Ganada |
 | mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.08 (48¢) | $30,780 | — | ⏳ Pendiente |
 | Zzzz87 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $33,902 | — | ⏳ Pendiente |
-| Woaifacai | Will Fulham FC win on 2026-10-24? | Yes | 2.22 (45¢) | $29,341 | +$35,861 | ✅ Ganada |
