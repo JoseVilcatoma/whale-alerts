@@ -95069,5 +95069,35 @@
     "status": "pending",
     "ultimo_fill": 1792878205,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12845,
+    "timestamp": 1792878305,
+    "username": "ropetard",
+    "wallet": "0x2c866881290c2197960f06448d3a236d9f20d939",
+    "slug": "nba-sas-dal-2026-10-24-spread-away-14pt5",
+    "title": "Spread: Spurs (-14.5)",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 49830.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792878305,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12846,
+    "timestamp": 1792878367,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "cfb-txam-ala-2026-10-24",
+    "title": "Texas A&M vs. Alabama",
+    "outcome": "Alabama",
+    "side": "BUY",
+    "usd": 28481.649999999998,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1792878367,
+    "fills": 1
   }
 ]
