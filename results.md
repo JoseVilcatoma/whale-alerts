@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 18:18:25 (hora de Perú)
+Actualizado: 2026-10-24 18:20:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6354**  ($357,965,422 en total)
+- Apuestas registradas: **6358**  ($358,428,882 en total)
 - Resueltas: **6269** — 3823 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Pendientes: 67
 - Apostadores distintos: 629
 
 ### Balance
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 455 | 248 | 6 | 65% | $45,814,783 | +$992,583 |
-| Sassy-Bucket | 86 | 88 | 8 | 49% | $11,151,501 | -$1,264,352 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 455 | 248 | 7 | 65% | $45,910,891 | +$992,583 |
+| Sassy-Bucket | 86 | 88 | 9 | 49% | $11,391,508 | -$1,264,352 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | mooseborzoii | 85 | 44 | 10 | 66% | $7,956,949 | +$1,189,712 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
@@ -52,13 +52,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | S-Works | 16 | 7 | 0 | 70% | $2,371,320 | -$255,521 |
+| Mooseborzoiii | 10 | 14 | 4 | 42% | $2,348,376 | -$258,804 |
 | milkteaboba | 13 | 11 | 0 | 54% | $2,337,396 | -$694,704 |
 | ndb1 | 28 | 15 | 0 | 65% | $2,337,048 | +$412,352 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Talvez10 | 25 | 22 | 2 | 53% | $2,286,861 | +$209,155 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
-| Mooseborzoiii | 10 | 14 | 3 | 42% | $2,246,287 | -$258,804 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 629 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NS13 | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.82 (55¢) | $25,258 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.89 (53¢) | $96,107 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.22 (45¢) | $102,089 | — | ⏳ Pendiente |
+| Sassy-Bucket | Ole Miss vs. Texas | Texas | 1.67 (60¢) | $240,007 | — | ⏳ Pendiente |
 | yabanci | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $52,430 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.27 (44¢) | $26,419 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.33 (43¢) | $25,800 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 629 en total)_
 | 999585 | Michigan State vs. UCLA | UCLA | 1.15 (87¢) | $200,100 | +$4,600 | 💰 Vendida antes |
 | sulumos | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Petr Yan | 1.69 (59¢) | $43,070 | +$29,930 | ✅ Ganada |
 | Sassy-Bucket | BYU vs. UCF | BYU | 1.33 (75¢) | $135,185 | — | ⏳ Pendiente |
-| Sassy-Bucket | Tennessee vs. South Carolina | Tennessee | 2.13 (47¢) | $39,938 | — | ⏳ Pendiente |
-| Sassy-Bucket | BYU vs. UCF | BYU | 1.35 (74¢) | $74,145 | — | ⏳ Pendiente |
-| Sassy-Bucket | Tennessee vs. South Carolina | Tennessee | 2.17 (46¢) | $49,641 | — | ⏳ Pendiente |
-| mooseborzoii | Indiana vs. Michigan | Indiana | 1.75 (57¢) | $27,040 | +$20,398 | ✅ Ganada |
