@@ -95159,5 +95159,35 @@
     "status": "pending",
     "ultimo_fill": 1792879627,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12852,
+    "timestamp": 1792879894,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-hle1-gen-2026-10-24",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 25909.2032,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1792879894,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12853,
+    "timestamp": 1792879911,
+    "username": "Nooserac",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "cfb-boise-washst-2026-10-24-spread-away-14pt5",
+    "title": "Spread: Boise State (-14.5)",
+    "outcome": "Washington State",
+    "side": "BUY",
+    "usd": 33999.66,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792879911,
+    "fills": 1
   }
 ]
