@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 11:05:53 (hora de Perú)
+Actualizado: 2026-10-24 11:07:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6234**  ($350,275,507 en total)
+- Apuestas registradas: **6235**  ($350,354,469 en total)
 - Resueltas: **6157** — 3755 ganadas / 2402 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 620
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 445 | 242 | 11 | 65% | $44,808,217 | +$810,286 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 445 | 242 | 12 | 65% | $44,887,179 | +$810,286 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 35 | 23 | 4 | 60% | $7,865,280 | -$694,864 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $78,962 | — | ⏳ Pendiente |
 | Ksi172 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $26,101 | — | ⏳ Pendiente |
 | joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.89 (53¢) | $129,390 | — | ⏳ Pendiente |
 | raybanman | Will Tottenham Hotspur FC win on 2026-10-24? | Yes | 4.17 (24¢) | $54,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | Woaifacai | Guangzhou Open, Qualification: Dayana Yastremska vs Xiaodi You | Dayana Yastremska | 1.33 (75¢) | $52,210 | +$17,403 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-10-24? | No | 1.23 (81¢) | $60,579 | -$60,579 | ❌ Perdida |
 | beeemw | Will Aston Villa FC win on 2026-10-24? | No | 1.22 (82¢) | $49,737 | -$49,737 | ❌ Perdida |
-| 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.69 (59¢) | $45,888 | -$45,888 | ❌ Perdida |
