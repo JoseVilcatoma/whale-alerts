@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 19:36:06 (hora de Perú)
+Actualizado: 2026-10-23 19:38:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6130**  ($342,586,943 en total)
-- Resueltas: **6057** — 3703 ganadas / 2354 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Resueltas: **6058** — 3704 ganadas / 2354 perdidas (**61%** de acierto)
+- Pendientes: 50
 - Apostadores distintos: 617
 
 ### Balance
 
-- **Resultado de los apostadores: -$741,880** sobre $338,495,068 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$6,095** sobre $597,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$649,662** sobre $338,622,416 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$6,022** sobre $597,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 617 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $47,514 | — | ⏳ Pendiente |
 | bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $50,000 | — | ⏳ Pendiente |
 | para-Vision | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
-| 778908 | North Carolina Central vs. Delaware State | North Carolina Central | 1.72 (58¢) | $127,348 | — | ⏳ Pendiente |
+| 778908 | North Carolina Central vs. Delaware State | North Carolina Central | 1.72 (58¢) | $127,348 | +$92,218 | ✅ Ganada |
 | Talvez10 | Spread: Magic (-1.5) | Magic | 1.92 (52¢) | $57,192 | — | ⏳ Pendiente |
 | Kkunn | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $34,223 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-2.5) | Knicks | 2.08 (48¢) | $79,701 | — | ⏳ Pendiente |
