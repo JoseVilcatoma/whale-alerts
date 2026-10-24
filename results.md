@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 18:47:38 (hora de Perú)
+Actualizado: 2026-10-24 18:49:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6367**  ($359,451,890 en total)
-- Resueltas: **6269** — 3823 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 76
+- Resueltas: **6270** — 3824 ganadas / 2446 perdidas (**61%** de acierto)
+- Pendientes: 75
 - Apostadores distintos: 630
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,825,929** sobre $353,280,890 apostados (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,793,666** sobre $353,329,744 apostados (ROI **-0.8%**)
 - Copiando $100 fijo en cada una: **-$7,587** sobre $618,200 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 630 en total)_
 | googleplay | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $309,060 | — | ⏳ Pendiente |
 | theowalcott | Will Philadelphia Union win on 2026-10-24? | Yes | 1.54 (65¢) | $28,129 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Bulls (-1.5) | Wizards | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
-| robustmst | Heat vs. Hornets | Hornets | 1.89 (53¢) | $48,854 | — | ⏳ Pendiente |
+| robustmst | Heat vs. Hornets | Hornets | 1.89 (53¢) | $48,854 | +$32,262 | 💰 Vendida antes |
 | googleplay | Wizards vs. Bulls | Bulls | 1.89 (53¢) | $442,373 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Oklahoma State (-13.5) | Colorado | 1.96 (51¢) | $44,319 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.33 (43¢) | $68,536 | — | ⏳ Pendiente |
