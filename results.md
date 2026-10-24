@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 09:42:14 (hora de Perú)
+Actualizado: 2026-10-24 09:44:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6207**  ($348,029,954 en total)
+- Apuestas registradas: **6208**  ($348,056,567 en total)
 - Resueltas: **6151** — 3752 ganadas / 2399 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 620
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 35 | 23 | 4 | 60% | $7,865,280 | -$694,864 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
-| mooseborzoii | 79 | 43 | 2 | 65% | $7,243,484 | +$1,127,050 |
+| mooseborzoii | 79 | 43 | 3 | 65% | $7,270,097 | +$1,127,050 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 101 | 49 | 0 | 67% | $6,586,934 | +$286,715 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.13 (47¢) | $26,613 | — | ⏳ Pendiente |
 | PollyPepperoni | UFC 333: Abubakar Vagaev vs. Jacob Malkoun (Middleweight, Early Prelims) | Jacob Malkoun | 2.44 (41¢) | $29,133 | — | ⏳ Pendiente |
 | veliMax | Will Arsenal FC win on 2026-10-24? | Yes | 1.16 (86¢) | $45,447 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.08 (48¢) | $30,780 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | TAIWANNUMBERONE | Army vs. Tulsa | Tulsa | 1.22 (82¢) | $32,978 | -$32,978 | ❌ Perdida |
 | Woaifacai | Trail Blazers vs. Kings | Trail Blazers | 1.52 (66¢) | $84,552 | +$43,557 | ✅ Ganada |
 | 778908 | NC State vs. Stanford | NC State | 2.44 (41¢) | $49,200 | -$49,200 | ❌ Perdida |
-| KaneAnalytics | Army vs. Tulsa | Tulsa | 1.61 (62¢) | $75,646 | -$75,646 | ❌ Perdida |
