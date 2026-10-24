@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 13:53:18 (hora de Perú)
+Actualizado: 2026-10-24 13:55:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6285**  ($352,994,029 en total)
+- Apuestas registradas: **6286**  ($353,067,629 en total)
 - Resueltas: **6188** — 3775 ganadas / 2413 perdidas (**61%** de acierto)
-- Pendientes: 75
+- Pendientes: 76
 - Apostadores distintos: 624
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 83 | 84 | 7 | 50% | $10,641,382 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
-| mooseborzoii | 79 | 43 | 8 | 65% | $7,487,402 | +$1,127,050 |
+| mooseborzoii | 79 | 43 | 9 | 65% | $7,561,002 | +$1,127,050 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | joseph00677 | 21 | 2 | 4 | 91% | $7,392,031 | +$3,145,251 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Spread: Ohio (-10.5) | Eastern Michigan | 1.96 (51¢) | $73,600 | — | ⏳ Pendiente |
 | Talvez10 | Wild vs. Kraken | Wild | 1.64 (61¢) | $35,187 | — | ⏳ Pendiente |
 | shark142 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | KaneAnalytics | Indiana vs. Michigan | Michigan | 3.57 (28¢) | $38,374 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $716,561 | — | ⏳ Pendiente |
 | joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $249,115 | — | ⏳ Pendiente |
 | ArturitoFilito | Will Chelsea FC win on 2026-10-24? | No | 2.08 (48¢) | $32,000 | +$667 | 💰 Vendida antes |
-| UpTheBlues | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $26,752 | — | ⏳ Pendiente |
