@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 17:14:39 (hora de Perú)
+Actualizado: 2026-10-24 17:16:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6333**  ($355,962,603 en total)
+- Apuestas registradas: **6335**  ($356,147,197 en total)
 - Resueltas: **6251** — 3815 ganadas / 2436 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Pendientes: 62
 - Apostadores distintos: 628
 
 ### Balance
@@ -71,10 +71,12 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zzzz87 | Predators vs. Penguins | Penguins | 1.85 (54¢) | $107,037 | — | ⏳ Pendiente |
 | Nooserac | Spread: Boise State (-14.5) | Washington State | 1.96 (51¢) | $34,000 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.72 (58¢) | $25,909 | — | ⏳ Pendiente |
 | YYYYY999 | Pelicans vs. Nuggets | Nuggets | 1.25 (80¢) | $32,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Diego State vs. Colorado State | Colorado State | 2.00 (50¢) | $36,959 | — | ⏳ Pendiente |
+| juice-fruit | Heat vs. Hornets | Heat | 1.59 (63¢) | $77,557 | — | ⏳ Pendiente |
 | YEEES-but-why | Heat vs. Hornets | Hornets | 2.70 (37¢) | $29,415 | — | ⏳ Pendiente |
 | sinasinner | Spread: Texas (-3.5) | Ole Miss | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoii | Texas A&M vs. Alabama | Alabama | 1.45 (69¢) | $71,436 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.20 (83¢) | $44,404 | +$9,095 | ✅ Ganada |
 | Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.82 (55¢) | $44,117 | +$36,095 | ✅ Ganada |
 | Flaznorp | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.10 (91¢) | $29,351 | +$2,903 | ✅ Ganada |
-| ferrariChampions2026 | Indiana vs. Michigan | Michigan | 3.70 (27¢) | $31,104 | -$31,104 | ❌ Perdida |
-| migrodrigues | Spread: Club Atlético de Madrid (-3.5) | Club Atlético de Madrid | 5.56 (18¢) | $60,000 | — | ⏳ Pendiente |

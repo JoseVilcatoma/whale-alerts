@@ -95189,5 +95189,35 @@
     "status": "pending",
     "ultimo_fill": 1792879911,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12854,
+    "timestamp": 1792879128,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "nba-mia-cha-2026-10-24",
+    "title": "Heat vs. Hornets",
+    "outcome": "Heat",
+    "side": "BUY",
+    "usd": 77556.99999915001,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1792879128,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12855,
+    "timestamp": 1792880140,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "nhl-nsh-pit-2026-10-24",
+    "title": "Predators vs. Penguins",
+    "outcome": "Penguins",
+    "side": "BUY",
+    "usd": 107037.3049,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792880146,
+    "fills": 2
   }
 ]
