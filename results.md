@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 20:43:56 (hora de Perú)
+Actualizado: 2026-10-23 20:45:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6138**  ($343,258,852 en total)
+- Apuestas registradas: **6139**  ($343,287,652 en total)
 - Resueltas: **6073** — 3717 ganadas / 2356 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 619
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $28,800 | — | ⏳ Pendiente |
 | ndb1 | Rockets vs. Spurs | Spurs | 1.56 (64¢) | $34,025 | — | ⏳ Pendiente |
 | tiger105 | Pelicans vs. Jazz | Pelicans | 1.96 (51¢) | $60,000 | — | ⏳ Pendiente |
 | dhgreg | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $143,229 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | Mooseborzoiii | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 2.56 (39¢) | $201,608 | +$315,335 | ✅ Ganada |
 | n0tTODAY | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.52 (66¢) | $30,690 | -$30,690 | ❌ Perdida |
 | YYYYY999 | Mavericks vs. Pacers | Mavericks | 3.23 (31¢) | $39,867 | — | ⏳ Pendiente |
-| BrotherObama | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $44,956 | — | ⏳ Pendiente |
