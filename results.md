@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 10:27:05 (hora de Perú)
+Actualizado: 2026-10-24 10:29:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6216**  ($348,439,230 en total)
+- Apuestas registradas: **6218**  ($348,502,057 en total)
 - Resueltas: **6155** — 3753 ganadas / 2402 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 41
 - Apostadores distintos: 620
 
 ### Balance
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 24 | 22 | 1 | 52% | $2,216,061 | +$201,337 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
-| SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
+| SDTrading | 31 | 32 | 1 | 49% | $1,909,851 | -$162,470 |
 | TAIWANNUMBERONE | 31 | 17 | 0 | 65% | $1,858,023 | -$183,942 |
 | Jsram | 21 | 19 | 1 | 52% | $1,854,971 | -$98,360 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Spread: TCU (-10.5) | West Virginia | 1.92 (52¢) | $34,598 | — | ⏳ Pendiente |
+| RJW1 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.89 (53¢) | $28,229 | — | ⏳ Pendiente |
 | Jokerxing7 | SSC Napoli vs. AS Roma: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $30,468 | — | ⏳ Pendiente |
 | Kch-Temp | Will Chelsea FC win on 2026-10-24? | No | 1.96 (51¢) | $47,220 | — | ⏳ Pendiente |
 | RJW1 | Will Chelsea FC win on 2026-10-24? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | YYYYY999 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.47 (68¢) | $31,377 | — | ⏳ Pendiente |
 | YYYYY999 | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.85 (54¢) | $35,975 | — | ⏳ Pendiente |
 | Kch-Temp | Will Arsenal FC win on 2026-10-24? | Yes | 1.49 (67¢) | $25,575 | — | ⏳ Pendiente |
-| RJW1 | Will Manchester City FC win on 2026-10-24? | Yes | 1.67 (60¢) | $34,613 | -$34,613 | ❌ Perdida |
-| Woaifacai | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.54 (65¢) | $86,892 | -$86,892 | ❌ Perdida |

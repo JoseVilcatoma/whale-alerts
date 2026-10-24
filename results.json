@@ -93430,5 +93430,35 @@
     "status": "pending",
     "ultimo_fill": 1792855615,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12639,
+    "timestamp": 1792855729,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "mlb-tb-mil-2026-10-24",
+    "title": "Tampa Bay Rays vs. Milwaukee Brewers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 28228.7805,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792855729,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12640,
+    "timestamp": 1792855741,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "cfb-wvir-tcu-2026-10-24-spread-home-10pt5",
+    "title": "Spread: TCU (-10.5)",
+    "outcome": "West Virginia",
+    "side": "BUY",
+    "usd": 34597.8568,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792855741,
+    "fills": 1
   }
 ]
