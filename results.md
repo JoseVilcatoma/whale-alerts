@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 23:50:00 (hora de Perú)
+Actualizado: 2026-10-23 23:52:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6155**  ($344,192,325 en total)
-- Resueltas: **6122** — 3743 ganadas / 2379 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **6123** — 3744 ganadas / 2379 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$215,377** sobre $342,575,356 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,056** sobre $603,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$171,820** sobre $342,659,908 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,004** sobre $603,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | RJW1 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | takeormake | Army vs. Tulsa | Tulsa | 1.25 (80¢) | $33,944 | -$33,944 | ❌ Perdida |
 | TAIWANNUMBERONE | Army vs. Tulsa | Tulsa | 1.22 (82¢) | $32,978 | -$32,978 | ❌ Perdida |
-| Woaifacai | Trail Blazers vs. Kings | Trail Blazers | 1.52 (66¢) | $84,552 | — | ⏳ Pendiente |
+| Woaifacai | Trail Blazers vs. Kings | Trail Blazers | 1.52 (66¢) | $84,552 | +$43,557 | ✅ Ganada |
 | 778908 | NC State vs. Stanford | NC State | 2.44 (41¢) | $49,200 | — | ⏳ Pendiente |
 | KaneAnalytics | Army vs. Tulsa | Tulsa | 1.61 (62¢) | $75,646 | -$75,646 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Army vs. Tulsa | Tulsa | 3.70 (27¢) | $28,912 | -$28,912 | ❌ Perdida |
