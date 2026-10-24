@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 08:52:53 (hora de Perú)
+Actualizado: 2026-10-24 08:54:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6198**  ($347,713,331 en total)
-- Resueltas: **6146** — 3750 ganadas / 2396 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **6148** — 3750 ganadas / 2398 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,444,812** sobre $344,510,437 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,901** sobre $606,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$1,664,840** sobre $344,730,464 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,101** sobre $606,300 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 445 | 241 | 4 | 65% | $44,261,456 | +$942,213 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 445 | 242 | 3 | 65% | $44,261,456 | +$810,286 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 35 | 23 | 4 | 60% | $7,865,280 | -$694,864 |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
-| S-Works | 14 | 5 | 3 | 74% | $2,283,127 | -$98,898 |
+| S-Works | 14 | 6 | 2 | 70% | $2,283,127 | -$186,998 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Talvez10 | 24 | 22 | 0 | 52% | $2,176,429 | +$201,337 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
@@ -95,8 +95,8 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-10-24? | No | 1.23 (81¢) | $60,579 | -$60,579 | ❌ Perdida |
 | beeemw | Will Aston Villa FC win on 2026-10-24? | No | 1.22 (82¢) | $49,737 | -$49,737 | ❌ Perdida |
 | 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.69 (59¢) | $45,888 | -$45,888 | ❌ Perdida |
-| S-Works | FK Liepaja vs. FK Tukums 2000/TSS: O/U 0.5 | Over 0.5 | 1.14 (88¢) | $88,100 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FK Liepaja vs. FK Tukums 2000/TSS: O/U 0.5 | Over 0.5 | 1.12 (89¢) | $131,927 | — | ⏳ Pendiente |
+| S-Works | FK Liepaja vs. FK Tukums 2000/TSS: O/U 0.5 | Over 0.5 | 1.14 (88¢) | $88,100 | -$88,100 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FK Liepaja vs. FK Tukums 2000/TSS: O/U 0.5 | Over 0.5 | 1.12 (89¢) | $131,927 | -$131,927 | ❌ Perdida |
 | salgnklasf | Counter-Strike: Spirit vs BetBoom Team (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.27 (79¢) | $25,536 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Isenmulang Kalteng FC vs. Psim Yogyakarta: O/U 0.5 | Over 0.5 | 1.37 (73¢) | $36,341 | -$36,341 | ❌ Perdida |
 | S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $61,266 | — | ⏳ Pendiente |
