@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 16:36:01 (hora de Perú)
+Actualizado: 2026-10-24 16:38:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6324**  ($355,570,044 en total)
-- Resueltas: **6248** — 3813 ganadas / 2435 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Resueltas: **6250** — 3814 ganadas / 2436 perdidas (**61%** de acierto)
+- Pendientes: 52
 - Apostadores distintos: 628
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,485,698** sobre $351,780,453 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,231** sobre $616,100 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,467,830** sobre $351,877,388 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,255** sobre $616,300 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 32 | 21 | 2 | 60% | $3,746,257 | +$365,369 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
-| Kch-Temp | 41 | 11 | 2 | 79% | $3,510,019 | +$1,854,951 |
+| Kch-Temp | 42 | 11 | 1 | 79% | $3,510,019 | +$1,904,316 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | raybanman | 17 | 13 | 0 | 57% | $3,063,662 | +$459,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
@@ -128,6 +128,6 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | Mooseborzoiii | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.47 (68¢) | $112,951 | +$53,153 | ✅ Ganada |
 | zhqzhq | Will Parma Calcio 1913 win on 2026-10-24? | No | 1.12 (89¢) | $43,000 | — | ⏳ Pendiente |
 | ArielFilipino | Spread: Spurs (-12.5) | Spurs | 1.85 (54¢) | $30,974 | — | ⏳ Pendiente |
-| Kch-Temp | Spread: SS Lazio (-1.5) | Parma Calcio 1913 | 1.75 (57¢) | $65,438 | — | ⏳ Pendiente |
+| Kch-Temp | Spread: SS Lazio (-1.5) | Parma Calcio 1913 | 1.75 (57¢) | $65,438 | +$49,365 | ✅ Ganada |
 | ferrariChampions2026 | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Over 2.5 | 1.59 (63¢) | $45,000 | — | ⏳ Pendiente |
 | spx11 | Wizards vs. Bulls | Wizards | 2.13 (47¢) | $47,350 | — | ⏳ Pendiente |
