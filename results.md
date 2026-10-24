@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 15:10:58 (hora de Perú)
+Actualizado: 2026-10-24 15:13:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6302**  ($354,105,387 en total)
-- Resueltas: **6215** — 3788 ganadas / 2427 perdidas (**61%** de acierto)
+- Apuestas registradas: **6303**  ($354,209,524 en total)
+- Resueltas: **6216** — 3789 ganadas / 2427 perdidas (**61%** de acierto)
 - Pendientes: 65
 - Apostadores distintos: 626
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,465,518** sobre $349,654,707 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,465** sobre $612,900 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,434,130** sobre $349,698,053 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,393** sobre $613,000 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 626 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.75 (57¢) | $104,137 | — | ⏳ Pendiente |
 | texaskid | Spread: 76ers (-12.5) | 76ers | 2.00 (50¢) | $25,518 | — | ⏳ Pendiente |
 | 999585 | Michigan State vs. UCLA | UCLA | 1.15 (87¢) | $200,100 | — | ⏳ Pendiente |
 | sulumos | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Petr Yan | 1.69 (59¢) | $43,070 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 626 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | No | 1.35 (74¢) | $74,000 | +$26,000 | ✅ Ganada |
 | skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.85 (26¢) | $26,000 | -$26,000 | ❌ Perdida |
 | YYYYY999 | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $33,137 | — | ⏳ Pendiente |
-| 4217893367451 | Counter-Strike: G2 vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.72 (58¢) | $43,346 | — | ⏳ Pendiente |

@@ -93819,7 +93819,7 @@
     "side": "BUY",
     "usd": 43345.7316,
     "odds_at_bet": 58,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792858846,
     "fills": 1
   },
@@ -94722,5 +94722,20 @@
     "status": "pending",
     "ultimo_fill": 1792872487,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12786,
+    "timestamp": 1792872735,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "lol-ly-kc-2026-10-24",
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 104136.69689999998,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1792872752,
+    "fills": 3
   }
 ]
