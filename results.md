@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 17:22:49 (hora de Perú)
+Actualizado: 2026-10-24 17:24:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6337**  ($356,360,859 en total)
-- Resueltas: **6253** — 3816 ganadas / 2437 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Resueltas: **6258** — 3818 ganadas / 2440 perdidas (**61%** de acierto)
+- Pendientes: 57
 - Apostadores distintos: 628
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,494,786** sobre $351,998,122 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,304** sobre $616,600 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,496,379** sobre $352,394,990 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,396** sobre $617,100 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 452 | 248 | 7 | 65% | $45,542,367 | +$641,582 |
-| Sassy-Bucket | 86 | 86 | 10 | 50% | $11,151,501 | -$1,118,216 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 453 | 248 | 6 | 65% | $45,542,367 | +$821,125 |
+| Sassy-Bucket | 86 | 88 | 8 | 49% | $11,151,501 | -$1,264,352 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | mooseborzoii | 85 | 44 | 7 | 66% | $7,804,807 | +$1,189,712 |
@@ -96,11 +96,11 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | KaneAnalytics | San Jose State vs. Nevada | Nevada | 1.43 (70¢) | $26,694 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Jose State vs. Nevada | San Jose State | 2.94 (34¢) | $28,115 | — | ⏳ Pendiente |
 | YYYYY999 | Spread: Bulls (-1.5) | Wizards | 1.96 (51¢) | $32,587 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.89 (53¢) | $76,318 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.89 (53¢) | $76,318 | -$76,318 | ❌ Perdida |
 | Nooserac | Kansas State vs. Arizona State | Arizona State | 1.54 (65¢) | $30,880 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.92 (52¢) | $69,818 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.92 (52¢) | $69,818 | -$69,818 | ❌ Perdida |
 | Mambaxbt | Heat vs. Hornets | Heat | 1.67 (60¢) | $74,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.08 (48¢) | $165,732 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.08 (48¢) | $165,732 | +$179,543 | ✅ Ganada |
 | mooseborzoii | BYU vs. UCF | BYU | 1.64 (61¢) | $27,446 | — | ⏳ Pendiente |
 | Flaznorp | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Under 2.5 | 1.39 (72¢) | $32,734 | +$12,730 | ✅ Ganada |
 | gol702 | M25 Tamworth: Blake Ellis vs Isaac Becroft | Isaac Becroft | 1.92 (52¢) | $25,994 | — | ⏳ Pendiente |
@@ -124,7 +124,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | YYYYY999 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.22 (82¢) | $101,042 | +$22,180 | ✅ Ganada |
 | mooseborzoii | Spread: Ohio (-10.5) | Eastern Michigan | 1.96 (51¢) | $73,600 | — | ⏳ Pendiente |
 | Talvez10 | Wild vs. Kraken | Wild | 1.64 (61¢) | $35,187 | — | ⏳ Pendiente |
-| shark142 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| shark142 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | KaneAnalytics | Indiana vs. Michigan | Michigan | 3.57 (28¢) | $38,374 | -$38,374 | ❌ Perdida |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.28 (78¢) | $65,061 | +$18,351 | ✅ Ganada |
 | Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.79 (56¢) | $42,161 | +$33,127 | ✅ Ganada |
