@@ -92755,5 +92755,20 @@
     "status": "pending",
     "ultimo_fill": 1792834589,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12569,
+    "timestamp": 1792837223,
+    "username": "salgnklasf",
+    "wallet": "0xdad3251e1639eb14da805365f56bf389575961cf",
+    "slug": "cs2-ts7-bb3-2026-10-24",
+    "title": "Counter-Strike: Spirit vs BetBoom Team (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 25535.629998,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1792837223,
+    "fills": 1
   }
 ]

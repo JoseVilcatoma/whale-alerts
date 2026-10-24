@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 05:19:22 (hora de Perú)
+Actualizado: 2026-10-24 05:21:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6171**  ($345,030,533 en total)
+- Apuestas registradas: **6172**  ($345,056,069 en total)
 - Resueltas: **6132** — 3746 ganadas / 2386 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 619
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| salgnklasf | Counter-Strike: Spirit vs BetBoom Team (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.27 (79¢) | $25,536 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Isenmulang Kalteng FC vs. Psim Yogyakarta: O/U 0.5 | Over 0.5 | 1.37 (73¢) | $36,341 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $61,266 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ningbo Open: Elena Rybakina vs Diana Shnaider | Elena Rybakina | 1.61 (62¢) | $40,164 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | Jokerxing7 | Pistons vs. Heat: O/U 235.5 | Over 235.5 | 2.00 (50¢) | $31,803 | +$31,803 | ✅ Ganada |
 | dhgreg | Raptors vs. Wizards | Wizards | 3.70 (27¢) | $81,000 | -$81,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $47,514 | -$47,514 | ❌ Perdida |
-| bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
