@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 09:17:28 (hora de Perú)
+Actualizado: 2026-10-24 09:19:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6202**  ($347,861,352 en total)
-- Resueltas: **6149** — 3751 ganadas / 2398 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **6151** — 3752 ganadas / 2399 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 620
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,656,712** sobre $344,762,976 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$7,076** sobre $606,400 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,653,022** sobre $344,821,468 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,087** sobre $606,600 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
 | robustmst | Swiss Indoors Basel, Qualification: Sebastian Baez vs Giovanni Mpetshi Perricard | Sebastian Baez | 2.63 (38¢) | $29,702 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Como 1907 (-1.5) | Como 1907 | 2.33 (43¢) | $37,277 | — | ⏳ Pendiente |
-| Jokerxing7 | Rayo Vallecano de Madrid vs. Elche CF: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $32,956 | — | ⏳ Pendiente |
+| Jokerxing7 | Rayo Vallecano de Madrid vs. Elche CF: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $32,956 | +$29,226 | ✅ Ganada |
 | Jokerxing7 | Como 1907 vs. US Sassuolo Calcio: O/U 3.5 | Over 3.5 | 2.04 (49¢) | $42,032 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: MOUZ vs Liquid (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.43 (70¢) | $51,981 | -$51,981 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-10-24? | No | 2.56 (39¢) | $34,564 | +$54,062 | ✅ Ganada |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.69 (59¢) | $45,888 | -$45,888 | ❌ Perdida |
 | S-Works | FK Liepaja vs. FK Tukums 2000/TSS: O/U 0.5 | Over 0.5 | 1.14 (88¢) | $88,100 | -$88,100 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FK Liepaja vs. FK Tukums 2000/TSS: O/U 0.5 | Over 0.5 | 1.12 (89¢) | $131,927 | -$131,927 | ❌ Perdida |
-| salgnklasf | Counter-Strike: Spirit vs BetBoom Team (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.27 (79¢) | $25,536 | — | ⏳ Pendiente |
+| salgnklasf | Counter-Strike: Spirit vs BetBoom Team (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.27 (79¢) | $25,536 | -$25,536 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Isenmulang Kalteng FC vs. Psim Yogyakarta: O/U 0.5 | Over 0.5 | 1.37 (73¢) | $36,341 | -$36,341 | ❌ Perdida |
 | S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $61,266 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ningbo Open: Elena Rybakina vs Diana Shnaider | Elena Rybakina | 1.61 (62¢) | $40,164 | +$24,617 | ✅ Ganada |
