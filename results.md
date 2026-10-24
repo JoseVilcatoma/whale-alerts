@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 21:00:17 (hora de Perú)
+Actualizado: 2026-10-23 21:02:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6139**  ($343,287,652 en total)
-- Resueltas: **6079** — 3718 ganadas / 2361 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **6087** — 3724 ganadas / 2363 perdidas (**61%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$682,335** sobre $339,500,172 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$6,082** sobre $599,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$705,135** sobre $339,850,110 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$6,065** sobre $600,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| mooseborzoii | 78 | 43 | 2 | 64% | $7,212,704 | +$1,109,460 |
+| mooseborzoii | 79 | 43 | 1 | 65% | $7,212,704 | +$1,127,050 |
 | 3edmond.dantes | 33 | 20 | 0 | 62% | $7,137,368 | -$1,045,728 |
 | totoro3miyazaki | 35 | 23 | 1 | 60% | $7,038,780 | -$694,864 |
 | ferrariChampions2026 | 100 | 49 | 0 | 67% | $6,548,034 | +$170,014 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 2 | 0 | 91% | $6,233,207 | +$3,145,251 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| Lakersfan111 | 66 | 46 | 3 | 59% | $5,640,821 | -$109,093 |
+| Lakersfan111 | 67 | 46 | 2 | 59% | $5,640,821 | -$100,071 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
 | BrotherObama | 45 | 50 | 3 | 47% | $4,341,370 | -$144,788 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Knicks vs. Celtics | Celtics | 1.18 (85¢) | $33,325 | — | ⏳ Pendiente |
 | scootergene | Pelicans vs. Jazz: O/U 238.5 | Over 238.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | googleplay | Pelicans vs. Jazz: O/U 238.5 | Under 238.5 | 2.00 (50¢) | $248,760 | — | ⏳ Pendiente |
-| ticklepickles444 | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $38,191 | — | ⏳ Pendiente |
+| ticklepickles444 | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $38,191 | +$12,730 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.06 (94¢) | $33,206 | +$2,120 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.15 (87¢) | $139,722 | +$20,878 | ✅ Ganada |
 | 778908 | Duke vs. Virginia | Virginia | 1.39 (72¢) | $100,800 | — | ⏳ Pendiente |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | Jokerxing7 | Spread: Warriors (-4.5) | Warriors | 1.96 (51¢) | $70,069 | — | ⏳ Pendiente |
 | Jokerxing7 | Raptors vs. Wizards: O/U 236.5 | Over 236.5 | 2.00 (50¢) | $45,229 | -$45,229 | ❌ Perdida |
 | Jokerxing7 | Pistons vs. Heat: O/U 235.5 | Over 235.5 | 2.00 (50¢) | $31,803 | — | ⏳ Pendiente |
-| dhgreg | Raptors vs. Wizards | Wizards | 3.70 (27¢) | $81,000 | — | ⏳ Pendiente |
+| dhgreg | Raptors vs. Wizards | Wizards | 3.70 (27¢) | $81,000 | -$81,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $47,514 | -$47,514 | ❌ Perdida |
 | bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
 | para-Vision | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
@@ -106,18 +106,18 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-2.5) | Knicks | 2.08 (48¢) | $79,701 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $29,944 | -$29,944 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Magic (-1.5) | Timberwolves | 2.04 (49¢) | $39,233 | +$40,835 | ✅ Ganada |
-| monkeymashingkeyboard | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $61,689 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $61,689 | +$21,675 | ✅ Ganada |
 | Jokerxing7 | Spread: Magic (-1.5) | Magic | 1.96 (51¢) | $29,000 | -$29,000 | ❌ Perdida |
 | wanzzz333 | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $49,626 | +$6,134 | ✅ Ganada |
-| dhgreg | Raptors vs. Wizards | Wizards | 3.85 (26¢) | $27,842 | — | ⏳ Pendiente |
-| mooseborzoii | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $50,063 | — | ⏳ Pendiente |
+| dhgreg | Raptors vs. Wizards | Wizards | 3.85 (26¢) | $27,842 | -$27,842 | ❌ Perdida |
+| mooseborzoii | Raptors vs. Wizards | Raptors | 1.35 (74¢) | $50,063 | +$17,590 | ✅ Ganada |
 | googleplay | Knicks vs. Celtics | Celtics | 1.72 (58¢) | $692,461 | — | ⏳ Pendiente |
 | Talvez10 | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 1.96 (51¢) | $48,780 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Lyon Open: Luca Van Assche vs Lorenzo Musetti | Luca Van Assche | 1.39 (72¢) | $42,284 | -$42,284 | ❌ Perdida |
 | googleplay | Mavericks vs. Pacers: O/U 240.5 | Over 240.5 | 1.92 (52¢) | $28,121 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.00 (50¢) | $250,000 | +$250,000 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $29,200 | -$29,200 | ❌ Perdida |
-| beeemw | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $37,875 | — | ⏳ Pendiente |
+| beeemw | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $37,875 | +$12,625 | ✅ Ganada |
 | bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.14 (88¢) | $34,000 | +$4,636 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.44 (41¢) | $28,313 | +$40,743 | ✅ Ganada |
 | zb8 | LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage | Dplus KIA | 1.49 (67¢) | $57,284 | +$28,214 | ✅ Ganada |
