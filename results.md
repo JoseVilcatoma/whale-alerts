@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 10:04:38 (hora de Perú)
+Actualizado: 2026-10-24 10:06:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6211**  ($348,175,542 en total)
+- Apuestas registradas: **6212**  ($348,256,042 en total)
 - Resueltas: **6152** — 3752 ganadas / 2400 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 620
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 445 | 242 | 4 | 65% | $44,288,283 | +$810,286 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 445 | 242 | 5 | 65% | $44,368,783 | +$810,286 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 35 | 23 | 4 | 60% | $7,865,280 | -$694,864 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Racing Club vs. RCD Espanyol de Barcelona: O/U 0.5 | Over 0.5 | 1.25 (80¢) | $80,500 | — | ⏳ Pendiente |
 | EdZachary | Spread: Cavaliers (-11.5) | Cavaliers | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Spurs (-12.5) | Spurs | 1.96 (51¢) | $39,632 | — | ⏳ Pendiente |
 | crazyoddslover | Swiss Indoors Basel, Qualification: Aleksandar Kovacevic vs James Duckworth | Aleksandar Kovacevic | 1.69 (59¢) | $31,343 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Jazz | Jazz | 1.37 (73¢) | $25,603 | +$9,470 | ✅ Ganada |
 | ndb1 | Arsenal FC vs. Everton FC: O/U 2.5 | Under 2.5 | 2.04 (49¢) | $76,863 | — | ⏳ Pendiente |
 | RJW1 | Will Chelsea FC win on 2026-10-24? | Yes | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
-| takeormake | Army vs. Tulsa | Tulsa | 1.25 (80¢) | $33,944 | -$33,944 | ❌ Perdida |
