@@ -92725,5 +92725,35 @@
     "status": "pending",
     "ultimo_fill": 1792834294,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12565,
+    "timestamp": 1792834560,
+    "username": "S-Works",
+    "wallet": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+    "slug": "cs2-vit-9z-2026-10-24",
+    "title": "Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 61265.895599999996,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1792834560,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12566,
+    "timestamp": 1792834589,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "idn1-adb-yog-2026-10-24-total-0pt5",
+    "title": "Isenmulang Kalteng FC vs. Psim Yogyakarta: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 36341.4367,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1792834589,
+    "fills": 1
   }
 ]

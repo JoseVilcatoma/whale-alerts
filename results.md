@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 04:34:44 (hora de Perú)
+Actualizado: 2026-10-24 04:36:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6169**  ($344,932,926 en total)
+- Apuestas registradas: **6171**  ($345,030,533 en total)
 - Resueltas: **6130** — 3746 ganadas / 2384 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 19
 - Apostadores distintos: 619
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 443 | 237 | 5 | 65% | $43,917,044 | +$1,075,890 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 443 | 237 | 6 | 65% | $43,953,386 | +$1,075,890 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Talvez10 | 24 | 22 | 0 | 52% | $2,176,429 | +$201,337 |
-| S-Works | 14 | 5 | 0 | 74% | $2,091,761 | -$98,898 |
+| S-Works | 14 | 5 | 1 | 74% | $2,153,027 | -$98,898 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 0 | 49% | $1,875,253 | -$162,470 |
 | TAIWANNUMBERONE | 31 | 17 | 0 | 65% | $1,858,023 | -$183,942 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Isenmulang Kalteng FC vs. Psim Yogyakarta: O/U 0.5 | Over 0.5 | 1.37 (73¢) | $36,341 | — | ⏳ Pendiente |
+| S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $61,266 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ningbo Open: Elena Rybakina vs Diana Shnaider | Elena Rybakina | 1.61 (62¢) | $40,164 | — | ⏳ Pendiente |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Aston Villa FC vs. Manchester City FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ningbo Open: Leylah Fernandez vs Marie Bouzkova | Marie Bouzkova | 2.13 (47¢) | $34,435 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | dhgreg | Raptors vs. Wizards | Wizards | 3.70 (27¢) | $81,000 | -$81,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-8.5) | Wizards | 2.04 (49¢) | $47,514 | -$47,514 | ❌ Perdida |
 | bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
-| para-Vision | Hawks vs. Hornets | Hawks | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
-| 778908 | North Carolina Central vs. Delaware State | North Carolina Central | 1.72 (58¢) | $127,348 | +$92,218 | ✅ Ganada |
