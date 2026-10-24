@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 12:00:26 (hora de Perú)
+Actualizado: 2026-10-24 12:02:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6255**  ($351,299,416 en total)
-- Resueltas: **6158** — 3756 ganadas / 2402 perdidas (**61%** de acierto)
-- Pendientes: 75
+- Resueltas: **6169** — 3764 ganadas / 2405 perdidas (**61%** de acierto)
+- Pendientes: 64
 - Apostadores distintos: 622
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,663,399** sobre $345,082,070 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$7,143** sobre $607,200 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,301,407** sobre $346,211,682 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,022** sobre $608,300 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 446 | 242 | 14 | 65% | $45,061,979 | +$824,073 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 446 | 244 | 12 | 65% | $45,061,979 | +$769,577 |
 | Sassy-Bucket | 83 | 84 | 5 | 50% | $10,555,104 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
-| totoro3miyazaki | 35 | 23 | 4 | 60% | $7,865,280 | -$694,864 |
+| totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | joseph00677 | 21 | 2 | 4 | 91% | $7,392,031 | +$3,145,251 |
 | mooseborzoii | 79 | 43 | 3 | 65% | $7,270,097 | +$1,127,050 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 32 | 21 | 2 | 60% | $3,746,257 | +$365,369 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
-| Kch-Temp | 38 | 11 | 4 | 78% | $3,444,582 | +$1,755,985 |
+| Kch-Temp | 40 | 11 | 2 | 78% | $3,444,582 | +$1,809,583 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | raybanman | 16 | 13 | 1 | 55% | $3,063,662 | +$288,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 31 | 32 | 1 | 49% | $1,909,851 | -$162,470 |
 | TAIWANNUMBERONE | 31 | 17 | 0 | 65% | $1,858,023 | -$183,942 |
-| Jsram | 21 | 19 | 1 | 52% | $1,854,971 | -$98,360 |
+| Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
 
 _(mostrando los 40 de mayor monto, de 622 en total)_
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rangers vs. Senators | Senators | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | SDTrading | Spread: TCU (-10.5) | West Virginia | 1.92 (52¢) | $34,598 | — | ⏳ Pendiente |
 | RJW1 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.89 (53¢) | $28,229 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Arsenal FC (-2.5) | Arsenal FC | 2.70 (37¢) | $27,668 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Arsenal FC (-2.5) | Arsenal FC | 2.70 (37¢) | $27,668 | -$27,668 | ❌ Perdida |
 | Jokerxing7 | SSC Napoli vs. AS Roma: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $30,468 | — | ⏳ Pendiente |
 | Kch-Temp | Will Chelsea FC win on 2026-10-24? | No | 1.96 (51¢) | $47,220 | — | ⏳ Pendiente |
 | RJW1 | Will Chelsea FC win on 2026-10-24? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -117,17 +117,17 @@ _(mostrando los 40 de mayor monto, de 622 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Racing Club vs. RCD Espanyol de Barcelona: O/U 0.5 | Over 0.5 | 1.25 (80¢) | $80,500 | — | ⏳ Pendiente |
 | EdZachary | Spread: Cavaliers (-11.5) | Cavaliers | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Spurs (-12.5) | Spurs | 1.96 (51¢) | $39,632 | — | ⏳ Pendiente |
-| crazyoddslover | Swiss Indoors Basel, Qualification: Aleksandar Kovacevic vs James Duckworth | Aleksandar Kovacevic | 1.69 (59¢) | $31,343 | — | ⏳ Pendiente |
+| crazyoddslover | Swiss Indoors Basel, Qualification: Aleksandar Kovacevic vs James Duckworth | Aleksandar Kovacevic | 1.69 (59¢) | $31,343 | +$21,781 | ✅ Ganada |
 | mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.13 (47¢) | $26,613 | — | ⏳ Pendiente |
 | PollyPepperoni | UFC 333: Abubakar Vagaev vs. Jacob Malkoun (Middleweight, Early Prelims) | Jacob Malkoun | 2.44 (41¢) | $29,133 | — | ⏳ Pendiente |
-| veliMax | Will Arsenal FC win on 2026-10-24? | Yes | 1.16 (86¢) | $45,447 | — | ⏳ Pendiente |
+| veliMax | Will Arsenal FC win on 2026-10-24? | Yes | 1.16 (86¢) | $45,447 | +$7,398 | ✅ Ganada |
 | mooseborzoii | Spread: Troy (-11.5) | Louisiana-Monroe | 2.08 (48¢) | $30,780 | — | ⏳ Pendiente |
 | Zzzz87 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $33,902 | — | ⏳ Pendiente |
-| Woaifacai | Will Fulham FC win on 2026-10-24? | Yes | 2.22 (45¢) | $29,341 | — | ⏳ Pendiente |
+| Woaifacai | Will Fulham FC win on 2026-10-24? | Yes | 2.22 (45¢) | $29,341 | +$35,861 | ✅ Ganada |
 | PollyPepperoni | UFC 333: Noah Gugnon vs. Kody Steele (Lightweight, Early Prelims) | Noah Gugnon | 2.38 (42¢) | $29,912 | -$29,912 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Arsenal FC (-2.5) | Arsenal FC | 2.70 (37¢) | $26,828 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Arsenal FC (-2.5) | Arsenal FC | 2.70 (37¢) | $26,828 | -$26,828 | ❌ Perdida |
 | gmpm2 | Wizards vs. Bulls | Bulls | 1.92 (52¢) | $33,181 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.20 (83¢) | $58,100 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.39 (72¢) | $432,000 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Arsenal FC win on 2026-10-24? | Yes | 1.39 (72¢) | $432,000 | +$168,000 | ✅ Ganada |
 | Zzzz87 | Spread: Arsenal FC (-1.5) | Arsenal FC | 2.13 (47¢) | $48,807 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
