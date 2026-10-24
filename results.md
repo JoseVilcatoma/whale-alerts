@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 22:02:56 (hora de Perú)
+Actualizado: 2026-10-23 22:05:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6147**  ($343,761,539 en total)
-- Resueltas: **6100** — 3733 ganadas / 2367 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **6101** — 3734 ganadas / 2367 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$56,903** sobre $341,298,577 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$5,744** sobre $601,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: +$44,641** sobre $341,400,121 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$5,644** sobre $601,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | Mooseborzoiii | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | Team Secret Whales | 2.38 (42¢) | $25,871 | -$25,871 | ❌ Perdida |
 | googleplay | Pistons vs. Heat | Pistons | 1.85 (54¢) | $177,436 | +$151,149 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.11 (90¢) | $56,453 | +$6,273 | ✅ Ganada |
-| bluemario | Cruzeiro EC vs. Clube do Remo: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $101,544 | — | ⏳ Pendiente |
+| bluemario | Cruzeiro EC vs. Clube do Remo: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $101,544 | +$101,544 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Lakers: O/U 225.5 | Under 225.5 | 2.00 (50¢) | $37,927 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Warriors (-4.5) | Warriors | 1.96 (51¢) | $70,069 | — | ⏳ Pendiente |
 | Jokerxing7 | Raptors vs. Wizards: O/U 236.5 | Over 236.5 | 2.00 (50¢) | $45,229 | -$45,229 | ❌ Perdida |
