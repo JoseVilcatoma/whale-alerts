@@ -94344,7 +94344,7 @@
     "side": "BUY",
     "usd": 44116.501000000004,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792865895,
     "fills": 1
   },
@@ -94389,7 +94389,7 @@
     "side": "BUY",
     "usd": 36026.997599999995,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792866677,
     "fills": 1
   },
@@ -94404,7 +94404,7 @@
     "side": "BUY",
     "usd": 42161.280000000006,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792866858,
     "fills": 1
   },
@@ -94707,5 +94707,20 @@
     "status": "pending",
     "ultimo_fill": 1792871718,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 12782,
+    "timestamp": 1792872487,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "nba-mil-phi-2026-10-24-spread-home-12pt5",
+    "title": "Spread: 76ers (-12.5)",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 25517.555,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792872487,
+    "fills": 1
   }
 ]

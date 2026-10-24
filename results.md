@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 15:06:49 (hora de Perú)
+Actualizado: 2026-10-24 15:08:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6301**  ($354,079,870 en total)
-- Resueltas: **6212** — 3786 ganadas / 2426 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Apuestas registradas: **6302**  ($354,105,387 en total)
+- Resueltas: **6215** — 3788 ganadas / 2427 perdidas (**61%** de acierto)
+- Pendientes: 65
 - Apostadores distintos: 626
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,498,713** sobre $349,532,403 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,526** sobre $612,600 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,465,518** sobre $349,654,707 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,465** sobre $612,900 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,10 +25,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 450 | 247 | 7 | 65% | $45,161,468 | +$651,313 |
-| Sassy-Bucket | 83 | 84 | 11 | 50% | $10,940,291 | -$1,041,337 |
+| Sassy-Bucket | 85 | 84 | 9 | 50% | $10,940,291 | -$972,115 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
-| mooseborzoii | 79 | 43 | 11 | 65% | $7,617,915 | +$1,127,050 |
+| mooseborzoii | 79 | 44 | 10 | 64% | $7,617,915 | +$1,091,023 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 626 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Spread: 76ers (-12.5) | 76ers | 2.00 (50¢) | $25,518 | — | ⏳ Pendiente |
 | 999585 | Michigan State vs. UCLA | UCLA | 1.15 (87¢) | $200,100 | — | ⏳ Pendiente |
 | sulumos | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Petr Yan | 1.69 (59¢) | $43,070 | — | ⏳ Pendiente |
 | Sassy-Bucket | BYU vs. UCF | BYU | 1.33 (75¢) | $135,185 | — | ⏳ Pendiente |
@@ -91,11 +92,11 @@ _(mostrando los 40 de mayor monto, de 626 en total)_
 | shark142 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | KaneAnalytics | Indiana vs. Michigan | Michigan | 3.57 (28¢) | $38,374 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.28 (78¢) | $65,061 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.79 (56¢) | $42,161 | — | ⏳ Pendiente |
-| mooseborzoii | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Rizvan Kuniev | 2.27 (44¢) | $36,027 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.79 (56¢) | $42,161 | +$33,127 | ✅ Ganada |
+| mooseborzoii | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Rizvan Kuniev | 2.27 (44¢) | $36,027 | -$36,027 | ❌ Perdida |
 | retordedgremlin125 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.20 (83¢) | $69,307 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.20 (83¢) | $44,404 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.82 (55¢) | $44,117 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.82 (55¢) | $44,117 | +$36,095 | ✅ Ganada |
 | Flaznorp | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.10 (91¢) | $29,351 | +$2,903 | ✅ Ganada |
 | ferrariChampions2026 | Indiana vs. Michigan | Michigan | 3.70 (27¢) | $31,104 | — | ⏳ Pendiente |
 | migrodrigues | Spread: Club Atlético de Madrid (-3.5) | Club Atlético de Madrid | 5.56 (18¢) | $60,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 626 en total)_
 | skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.85 (26¢) | $26,000 | -$26,000 | ❌ Perdida |
 | YYYYY999 | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $33,137 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: G2 vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.72 (58¢) | $43,346 | — | ⏳ Pendiente |
-| Woaifacai | Spread: Chelsea FC (-1.5) | Chelsea FC | 3.23 (31¢) | $44,572 | -$44,572 | ❌ Perdida |
