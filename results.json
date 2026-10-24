@@ -94704,9 +94704,11 @@
     "side": "BUY",
     "usd": 200100.0,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1792871718,
-    "fills": 3
+    "fills": 3,
+    "profit_usd": 4600.0,
+    "precio_salida": 89
   },
   {
     "telegram_msg_id": 12782,

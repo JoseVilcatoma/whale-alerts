@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 16:21:29 (hora de Perú)
+Actualizado: 2026-10-24 16:23:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6322**  ($355,511,764 en total)
-- Resueltas: **6242** — 3810 ganadas / 2432 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Resueltas: **6243** — 3811 ganadas / 2432 perdidas (**61%** de acierto)
+- Pendientes: 57
 - Apostadores distintos: 628
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,375,598** sobre $351,345,761 apostados (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,370,998** sobre $351,545,861 apostados (ROI **-0.7%**)
 - Copiando $100 fijo en cada una: **-$7,073** sobre $615,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | LYON | 2.50 (40¢) | $39,380 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.69 (59¢) | $345,171 | — | ⏳ Pendiente |
 | texaskid | Spread: 76ers (-12.5) | 76ers | 2.00 (50¢) | $25,518 | — | ⏳ Pendiente |
-| 999585 | Michigan State vs. UCLA | UCLA | 1.15 (87¢) | $200,100 | — | ⏳ Pendiente |
+| 999585 | Michigan State vs. UCLA | UCLA | 1.15 (87¢) | $200,100 | +$4,600 | 💰 Vendida antes |
 | sulumos | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Petr Yan | 1.69 (59¢) | $43,070 | — | ⏳ Pendiente |
 | Sassy-Bucket | BYU vs. UCF | BYU | 1.33 (75¢) | $135,185 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tennessee vs. South Carolina | Tennessee | 2.13 (47¢) | $39,938 | — | ⏳ Pendiente |
