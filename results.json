@@ -94257,5 +94257,35 @@
     "status": "pending",
     "ultimo_fill": 1792865093,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12722,
+    "timestamp": 1792865343,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "lol-cfo-mkoi-2026-10-24",
+    "title": "LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 28400.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1792865343,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12723,
+    "timestamp": 1792865348,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-cfo-mkoi-2026-10-24",
+    "title": "LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 25379.1346,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1792865348,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 13:07:27 (hora de Perú)
+Actualizado: 2026-10-24 13:09:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6271**  ($352,420,157 en total)
+- Apuestas registradas: **6273**  ($352,473,936 en total)
 - Resueltas: **6182** — 3773 ganadas / 2409 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Pendientes: 69
 - Apostadores distintos: 624
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 448 | 245 | 10 | 65% | $45,136,089 | +$750,027 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 448 | 245 | 11 | 65% | $45,161,468 | +$750,027 |
 | Sassy-Bucket | 83 | 84 | 5 | 50% | $10,555,104 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.41 (71¢) | $25,379 | — | ⏳ Pendiente |
+| SineNooneEI | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | BrotherObama | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $33,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.47 (68¢) | $112,951 | — | ⏳ Pendiente |
 | zhqzhq | Will Parma Calcio 1913 win on 2026-10-24? | No | 1.12 (89¢) | $43,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | Jokerxing7 | SSC Napoli vs. AS Roma: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $30,468 | — | ⏳ Pendiente |
 | Kch-Temp | Will Chelsea FC win on 2026-10-24? | No | 1.96 (51¢) | $47,220 | — | ⏳ Pendiente |
 | RJW1 | Will Chelsea FC win on 2026-10-24? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Racing Club vs. RCD Espanyol de Barcelona: O/U 0.5 | Over 0.5 | 1.25 (80¢) | $80,500 | +$20,125 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Racing Club vs. RCD Espanyol de Barcelona: O/U 0.5 | Over 0.5 | 1.25 (80¢) | $80,500 | +$20,125 | ✅ Ganada |
