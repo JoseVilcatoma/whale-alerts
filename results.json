@@ -94797,5 +94797,20 @@
     "status": "pending",
     "ultimo_fill": 1792874030,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12810,
+    "timestamp": 1792874344,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ufc-ale14-mov-2026-10-24",
+    "title": "UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card)",
+    "outcome": "Alexander Volkanovski",
+    "side": "BUY",
+    "usd": 165732.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1792874344,
+    "fills": 1
   }
 ]
