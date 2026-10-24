@@ -94287,5 +94287,35 @@
     "status": "pending",
     "ultimo_fill": 1792865348,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12724,
+    "timestamp": 1792865424,
+    "username": "migrodrigues",
+    "wallet": "0x9a933a2a83188b28efaf1d07d45228ea6ee82793",
+    "slug": "lal-mad-dep-2026-10-24-spread-home-3pt5",
+    "title": "Spread: Club Atl\u00e9tico de Madrid (-3.5)",
+    "outcome": "Club Atl\u00e9tico de Madrid",
+    "side": "BUY",
+    "usd": 60000.00000000001,
+    "odds_at_bet": 18,
+    "status": "pending",
+    "ultimo_fill": 1792865424,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12725,
+    "timestamp": 1792865460,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-ind-mich-2026-10-24",
+    "title": "Indiana vs. Michigan",
+    "outcome": "Michigan",
+    "side": "BUY",
+    "usd": 31104.1863,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "ultimo_fill": 1792865460,
+    "fills": 1
   }
 ]
