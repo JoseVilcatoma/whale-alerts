@@ -93777,5 +93777,35 @@
     "status": "pending",
     "ultimo_fill": 1792858288,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12664,
+    "timestamp": 1792858617,
+    "username": "0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961",
+    "wallet": "0x418d51e13d019913bb027db22ecc723fe1ad88a3",
+    "slug": "cfb-ind-mich-2026-10-24",
+    "title": "Indiana vs. Michigan",
+    "outcome": "Indiana",
+    "side": "BUY",
+    "usd": 32900.1524,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1792858617,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12665,
+    "timestamp": 1792858691,
+    "username": "S-Works",
+    "wallet": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+    "slug": "ufc-gra-nur-2026-10-24",
+    "title": "UFC 333: Grant Dawson vs. Nurullo Aliev (Lightweight, Prelims)",
+    "outcome": "Nurullo Aliev",
+    "side": "BUY",
+    "usd": 88192.993,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792858691,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 11:16:10 (hora de Perú)
+Actualizado: 2026-10-24 11:18:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6239**  ($350,527,551 en total)
+- Apuestas registradas: **6241**  ($350,648,644 en total)
 - Resueltas: **6157** — 3755 ganadas / 2402 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Pendientes: 62
 - Apostadores distintos: 620
 
 ### Balance
@@ -51,12 +51,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
+| S-Works | 14 | 6 | 3 | 70% | $2,371,320 | -$186,998 |
 | milkteaboba | 13 | 11 | 0 | 54% | $2,337,396 | -$694,704 |
 | ndb1 | 27 | 15 | 1 | 64% | $2,337,048 | +$332,351 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
-| S-Works | 14 | 6 | 2 | 70% | $2,283,127 | -$186,998 |
 | Talvez10 | 24 | 22 | 1 | 52% | $2,216,061 | +$201,337 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | UFC 333: Grant Dawson vs. Nurullo Aliev (Lightweight, Prelims) | Nurullo Aliev | 2.04 (49¢) | $88,193 | — | ⏳ Pendiente |
+| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $32,900 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $54,526 | — | ⏳ Pendiente |
 | lllllllIlll | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | lllllllIlll | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | lllllllIlll | Counter-Strike: MOUZ vs Liquid (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.43 (70¢) | $51,981 | -$51,981 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-10-24? | No | 2.56 (39¢) | $34,564 | +$54,062 | ✅ Ganada |
 | 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.64 (61¢) | $321,910 | -$321,910 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-10-24? | No | 1.23 (81¢) | $81,000 | -$81,000 | ❌ Perdida |
-| 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.64 (61¢) | $190,754 | -$190,754 | ❌ Perdida |
