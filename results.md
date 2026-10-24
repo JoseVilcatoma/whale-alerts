@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 08:44:22 (hora de Perú)
+Actualizado: 2026-10-24 08:46:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6195**  ($347,207,324 en total)
-- Resueltas: **6145** — 3749 ganadas / 2396 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **6146** — 3750 ganadas / 2396 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,474,212** sobre $344,479,837 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$6,997** sobre $606,000 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,444,812** sobre $344,510,437 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$6,901** sobre $606,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Isenmulang Kalteng FC vs. Psim Yogyakarta: O/U 0.5 | Over 0.5 | 1.37 (73¢) | $36,341 | -$36,341 | ❌ Perdida |
 | S-Works | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $61,266 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ningbo Open: Elena Rybakina vs Diana Shnaider | Elena Rybakina | 1.61 (62¢) | $40,164 | +$24,617 | ✅ Ganada |
-| 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Aston Villa FC vs. Manchester City FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
+| 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Aston Villa FC vs. Manchester City FC: O/U 9.5 Total Corners | Over 9.5 Total Corners | 1.96 (51¢) | $30,600 | +$29,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ningbo Open: Leylah Fernandez vs Marie Bouzkova | Marie Bouzkova | 2.13 (47¢) | $34,435 | -$34,435 | ❌ Perdida |
 | Kkunn | Ningbo Open: Leylah Fernandez vs Marie Bouzkova | Marie Bouzkova | 1.82 (55¢) | $29,713 | -$29,713 | ❌ Perdida |
 | YYYYY999 | Counter-Strike: Vitality vs 9z (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.19 (84¢) | $84,000 | — | ⏳ Pendiente |
