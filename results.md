@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 06:29:12 (hora de Perú)
+Actualizado: 2026-10-24 06:31:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6182**  ($346,132,124 en total)
+- Apuestas registradas: **6183**  ($346,396,552 en total)
 - Resueltas: **6132** — 3746 ganadas / 2386 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 619
 
 ### Balance
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 443 | 238 | 8 | 65% | $44,226,891 | +$1,041,455 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 443 | 238 | 9 | 65% | $44,261,456 | +$1,041,455 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
-| 3edmond.dantes | 33 | 20 | 4 | 62% | $7,749,870 | -$1,045,728 |
+| 3edmond.dantes | 33 | 20 | 4 | 62% | $7,979,734 | -$1,045,728 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | mooseborzoii | 79 | 43 | 1 | 65% | $7,212,704 | +$1,127,050 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.64 (61¢) | $92,047 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester City FC win on 2026-10-24? | No | 2.56 (39¢) | $34,564 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.64 (61¢) | $321,910 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-10-24? | No | 1.23 (81¢) | $81,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.64 (61¢) | $190,754 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester City FC win on 2026-10-24? | Yes | 1.64 (61¢) | $283,813 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | Jokerxing7 | Pelicans vs. Jazz | Jazz | 1.96 (51¢) | $47,249 | +$45,397 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | Team Secret Whales | 2.33 (43¢) | $26,033 | -$26,033 | ❌ Perdida |
 | kkookkoo | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $34,283 | +$19,284 | ✅ Ganada |
-| vtcchampion52 | LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage | LYON | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |

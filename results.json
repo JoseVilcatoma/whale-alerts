@@ -92915,10 +92915,25 @@
     "title": "Will Manchester City FC win on 2026-10-24?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 92046.56,
+    "usd": 321910.42,
     "odds_at_bet": 61,
     "status": "pending",
-    "ultimo_fill": 1792841275,
-    "fills": 2
+    "ultimo_fill": 1792841354,
+    "fills": 3
+  },
+  {
+    "telegram_msg_id": 12580,
+    "timestamp": 1792841392,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "epl-ast-mac-2026-10-24-mac",
+    "title": "Will Manchester City FC win on 2026-10-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 34564.214100000005,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1792841392,
+    "fills": 1
   }
 ]
