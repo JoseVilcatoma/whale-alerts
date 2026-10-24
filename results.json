@@ -92617,7 +92617,7 @@
     "side": "BUY",
     "usd": 53587.494,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792824712,
     "fills": 1
   },
@@ -94374,7 +94374,7 @@
     "side": "BUY",
     "usd": 69306.81,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792866321,
     "fills": 1
   },
@@ -94494,7 +94494,7 @@
     "side": "BUY",
     "usd": 101041.7109,
     "odds_at_bet": 82,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792868831,
     "fills": 3
   },
@@ -94509,7 +94509,7 @@
     "side": "BUY",
     "usd": 26999.730000000003,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792868815,
     "fills": 1
   },
@@ -94524,7 +94524,7 @@
     "side": "BUY",
     "usd": 36978.177800000005,
     "odds_at_bet": 79,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792868845,
     "fills": 1
   },
@@ -94539,7 +94539,7 @@
     "side": "BUY",
     "usd": 125116.1842,
     "odds_at_bet": 24,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792868945,
     "fills": 4
   },
@@ -94886,6 +94886,21 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1792875103,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12823,
+    "timestamp": 1792875268,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-sjst-nevada-2026-10-24",
+    "title": "San Jose State vs. Nevada",
+    "outcome": "San Jose State",
+    "side": "BUY",
+    "usd": 28115.280000000002,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "ultimo_fill": 1792875268,
     "fills": 1
   }
 ]

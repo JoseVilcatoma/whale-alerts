@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 15:52:36 (hora de Perú)
+Actualizado: 2026-10-24 15:54:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6313**  ($355,025,448 en total)
-- Resueltas: **6235** — 3805 ganadas / 2430 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Apuestas registradas: **6314**  ($355,053,563 en total)
+- Resueltas: **6241** — 3810 ganadas / 2431 perdidas (**61%** de acierto)
+- Pendientes: 51
 - Apostadores distintos: 628
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,248,119** sobre $350,865,259 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,989** sobre $614,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,308,127** sobre $351,278,289 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,973** sobre $615,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 452 | 247 | 7 | 65% | $45,366,580 | +$682,582 |
-| Sassy-Bucket | 85 | 84 | 11 | 50% | $11,086,427 | -$972,115 |
+| Sassy-Bucket | 85 | 84 | 12 | 50% | $11,114,542 | -$972,115 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | mooseborzoii | 85 | 44 | 5 | 66% | $7,645,361 | +$1,189,712 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 101 | 50 | 2 | 67% | $6,711,634 | +$255,610 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Lakersfan111 | 74 | 46 | 6 | 62% | $6,153,243 | +$107,091 |
+| Lakersfan111 | 76 | 46 | 4 | 62% | $6,153,243 | +$141,841 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | San Jose State vs. Nevada | San Jose State | 2.94 (34¢) | $28,115 | — | ⏳ Pendiente |
 | YYYYY999 | Spread: Bulls (-1.5) | Wizards | 1.96 (51¢) | $32,587 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.89 (53¢) | $76,318 | — | ⏳ Pendiente |
 | Nooserac | Kansas State vs. Arizona State | Arizona State | 1.54 (65¢) | $30,880 | — | ⏳ Pendiente |
@@ -94,10 +95,10 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.82 (55¢) | $29,873 | +$24,442 | ✅ Ganada |
 | ethanaz | Indiana vs. Michigan | Michigan | 2.22 (45¢) | $49,517 | -$49,517 | ❌ Perdida |
 | ferrariChampions2026 | Kings vs. Devils | Kings | 2.70 (37¢) | $48,596 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | LOS | 4.17 (24¢) | $125,116 | — | ⏳ Pendiente |
-| Nooserac | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.27 (79¢) | $36,978 | — | ⏳ Pendiente |
-| End123 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.23 (81¢) | $27,000 | — | ⏳ Pendiente |
-| YYYYY999 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.22 (82¢) | $101,042 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | LOS | 4.17 (24¢) | $125,116 | -$125,116 | ❌ Perdida |
+| Nooserac | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.27 (79¢) | $36,978 | +$9,830 | ✅ Ganada |
+| End123 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
+| YYYYY999 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.22 (82¢) | $101,042 | +$22,180 | ✅ Ganada |
 | mooseborzoii | Spread: Ohio (-10.5) | Eastern Michigan | 1.96 (51¢) | $73,600 | — | ⏳ Pendiente |
 | Talvez10 | Wild vs. Kraken | Wild | 1.64 (61¢) | $35,187 | — | ⏳ Pendiente |
 | shark142 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -105,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.28 (78¢) | $65,061 | +$18,351 | ✅ Ganada |
 | Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.79 (56¢) | $42,161 | +$33,127 | ✅ Ganada |
 | mooseborzoii | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Rizvan Kuniev | 2.27 (44¢) | $36,027 | -$36,027 | ❌ Perdida |
-| retordedgremlin125 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.20 (83¢) | $69,307 | — | ⏳ Pendiente |
+| retordedgremlin125 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.20 (83¢) | $69,307 | +$14,195 | ✅ Ganada |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.20 (83¢) | $44,404 | +$9,095 | ✅ Ganada |
 | Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.82 (55¢) | $44,117 | +$36,095 | ✅ Ganada |
 | Flaznorp | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.10 (91¢) | $29,351 | +$2,903 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | Talvez10 | UFC 333: Nikita Krylov vs. Abdul-Rakhman Yakhyaev (Light Heavyweight, Prelims) | Abdul-Rakhman Yakhyaev | 1.22 (82¢) | $35,613 | +$7,818 | ✅ Ganada |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.33 (75¢) | $27,426 | +$9,142 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Akron vs. Kent State | Akron | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
-| MeiGuNiuBi | LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage | Anyone's Legend | 1.56 (64¢) | $32,592 | -$32,592 | ❌ Perdida |
