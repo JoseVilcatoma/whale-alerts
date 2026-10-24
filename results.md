@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 18:33:02 (hora de Perú)
+Actualizado: 2026-10-24 18:35:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6362**  ($359,081,104 en total)
+- Apuestas registradas: **6363**  ($359,115,404 en total)
 - Resueltas: **6269** — 3823 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 71
-- Apostadores distintos: 629
+- Pendientes: 72
+- Apostadores distintos: 630
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 31 | 17 | 0 | 65% | $1,858,023 | -$183,942 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 
-_(mostrando los 40 de mayor monto, de 629 en total)_
+_(mostrando los 40 de mayor monto, de 630 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Eugycom | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $34,300 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bulls (-1.5) | Bulls | 1.96 (51¢) | $101,193 | — | ⏳ Pendiente |
 | Sassy-Bucket | Syracuse vs. North Carolina | North Carolina | 1.32 (76¢) | $188,627 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: 76ers (-12.5) | 76ers | 1.96 (51¢) | $29,682 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 629 en total)_
 | Flaznorp | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Under 2.5 | 1.39 (72¢) | $32,734 | +$12,730 | ✅ Ganada |
 | gol702 | M25 Tamworth: Blake Ellis vs Isaac Becroft | Isaac Becroft | 1.92 (52¢) | $25,994 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | LYON | 2.50 (40¢) | $39,380 | +$59,071 | ✅ Ganada |
-| Mooseborzoiii | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.69 (59¢) | $345,171 | -$345,171 | ❌ Perdida |
