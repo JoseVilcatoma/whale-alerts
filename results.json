@@ -92065,5 +92065,35 @@
     "status": "pending",
     "ultimo_fill": 1792800519,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12446,
+    "timestamp": 1792800591,
+    "username": "Jokerxing7",
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "slug": "nba-nop-uta-2026-10-23",
+    "title": "Pelicans vs. Jazz",
+    "outcome": "Jazz",
+    "side": "BUY",
+    "usd": 47249.4906,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792800591,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12447,
+    "timestamp": 1792800635,
+    "username": "zb8",
+    "wallet": "0x0224bb9eb0a5c9fd261ac9123a72cbdd5748292a",
+    "slug": "lol-tsw-ly-2026-10-23",
+    "title": "LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage",
+    "outcome": "LYON",
+    "side": "BUY",
+    "usd": 25584.553499999998,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1792800635,
+    "fills": 1
   }
 ]
