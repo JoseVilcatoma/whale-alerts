@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 16:48:24 (hora de Perú)
+Actualizado: 2026-10-24 16:50:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6327**  ($355,779,320 en total)
+- Apuestas registradas: **6328**  ($355,804,320 en total)
 - Resueltas: **6251** — 3815 ganadas / 2436 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 628
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sinasinner | Spread: Texas (-3.5) | Ole Miss | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoii | Texas A&M vs. Alabama | Alabama | 1.45 (69¢) | $71,436 | — | ⏳ Pendiente |
 | ropetard | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $49,830 | — | ⏳ Pendiente |
 | mooseborzoii | Texas A&M vs. Alabama | Texas A&M | 3.45 (29¢) | $88,010 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | BrotherObama | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $33,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.47 (68¢) | $112,951 | +$53,153 | ✅ Ganada |
 | zhqzhq | Will Parma Calcio 1913 win on 2026-10-24? | No | 1.12 (89¢) | $43,000 | +$5,315 | ✅ Ganada |
-| ArielFilipino | Spread: Spurs (-12.5) | Spurs | 1.85 (54¢) | $30,974 | — | ⏳ Pendiente |
