@@ -94194,7 +94194,7 @@
     "side": "BUY",
     "usd": 45000.00000027,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792864113,
     "fills": 1
   },
@@ -94781,7 +94781,7 @@
     "side": "BUY",
     "usd": 32733.8568,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792873696,
     "fills": 1
   },
@@ -95219,5 +95219,35 @@
     "status": "pending",
     "ultimo_fill": 1792880146,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 12858,
+    "timestamp": 1792880278,
+    "username": "YYYYY999",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-hle1-gen-2026-10-24",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 27442.908799999997,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1792880278,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12859,
+    "timestamp": 1792880284,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "lol-hle1-gen-2026-10-24",
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 186218.7138,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1792880315,
+    "fills": 4
   }
 ]

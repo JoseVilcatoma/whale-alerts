@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 17:16:42 (hora de Perú)
+Actualizado: 2026-10-24 17:18:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6335**  ($356,147,197 en total)
-- Resueltas: **6251** — 3815 ganadas / 2436 perdidas (**61%** de acierto)
+- Apuestas registradas: **6337**  ($356,360,859 en total)
+- Resueltas: **6253** — 3816 ganadas / 2437 perdidas (**61%** de acierto)
 - Pendientes: 62
 - Apostadores distintos: 628
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,462,516** sobre $351,920,388 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,243** sobre $616,400 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,494,786** sobre $351,998,122 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,304** sobre $616,600 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,9 +32,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 101 | 50 | 2 | 67% | $6,711,634 | +$255,610 |
+| ferrariChampions2026 | 101 | 51 | 1 | 66% | $6,711,634 | +$210,610 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Lakersfan111 | 76 | 46 | 5 | 62% | $6,185,243 | +$141,841 |
+| Lakersfan111 | 76 | 46 | 6 | 62% | $6,212,686 | +$141,841 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 25 | 22 | 2 | 53% | $2,286,861 | +$209,155 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Mooseborzoiii | 10 | 10 | 4 | 50% | $1,965,733 | +$224,129 |
+| Mooseborzoiii | 10 | 10 | 5 | 50% | $2,151,951 | +$224,129 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
 | TAIWANNUMBERONE | 31 | 17 | 0 | 65% | $1,858,023 | -$183,942 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Hanwha Life Esports | 2.38 (42¢) | $186,219 | — | ⏳ Pendiente |
+| YYYYY999 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.72 (58¢) | $27,443 | — | ⏳ Pendiente |
 | Zzzz87 | Predators vs. Penguins | Penguins | 1.85 (54¢) | $107,037 | — | ⏳ Pendiente |
 | Nooserac | Spread: Boise State (-14.5) | Washington State | 1.96 (51¢) | $34,000 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.72 (58¢) | $25,909 | — | ⏳ Pendiente |
@@ -100,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | Mambaxbt | Heat vs. Hornets | Heat | 1.67 (60¢) | $74,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.08 (48¢) | $165,732 | — | ⏳ Pendiente |
 | mooseborzoii | BYU vs. UCF | BYU | 1.64 (61¢) | $27,446 | — | ⏳ Pendiente |
-| Flaznorp | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Under 2.5 | 1.39 (72¢) | $32,734 | — | ⏳ Pendiente |
+| Flaznorp | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Under 2.5 | 1.39 (72¢) | $32,734 | +$12,730 | ✅ Ganada |
 | gol702 | M25 Tamworth: Blake Ellis vs Isaac Becroft | Isaac Becroft | 1.92 (52¢) | $25,994 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | LYON | 2.50 (40¢) | $39,380 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.69 (59¢) | $345,171 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | mooseborzoii | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Rizvan Kuniev | 2.27 (44¢) | $36,027 | -$36,027 | ❌ Perdida |
 | retordedgremlin125 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.20 (83¢) | $69,307 | +$14,195 | ✅ Ganada |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.20 (83¢) | $44,404 | +$9,095 | ✅ Ganada |
-| Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.82 (55¢) | $44,117 | +$36,095 | ✅ Ganada |
-| Flaznorp | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.10 (91¢) | $29,351 | +$2,903 | ✅ Ganada |
