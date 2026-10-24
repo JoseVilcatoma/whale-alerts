@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 15:17:18 (hora de Perú)
+Actualizado: 2026-10-24 15:19:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6304**  ($354,489,939 en total)
-- Resueltas: **6216** — 3789 ganadas / 2427 perdidas (**61%** de acierto)
-- Pendientes: 66
+- Resueltas: **6217** — 3790 ganadas / 2427 perdidas (**61%** de acierto)
+- Pendientes: 65
 - Apostadores distintos: 626
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,434,130** sobre $349,698,053 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,393** sobre $613,000 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,402,193** sobre $349,732,651 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,300** sobre $613,100 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
-| SDTrading | 31 | 32 | 1 | 49% | $1,909,851 | -$162,470 |
+| SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
 | TAIWANNUMBERONE | 31 | 17 | 0 | 65% | $1,858,023 | -$183,942 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 | Weaseloftheweek | 19 | 17 | 0 | 53% | $1,833,222 | -$41,347 |
