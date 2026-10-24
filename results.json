@@ -93852,5 +93852,35 @@
     "status": "pending",
     "ultimo_fill": 1792859518,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12669,
+    "timestamp": 1792859874,
+    "username": "skk1ch",
+    "wallet": "0x349606c1b77f3ba668879cbc9347f15a44cf8fc4",
+    "slug": "epl-che-tot-2026-10-24-draw",
+    "title": "Will Chelsea FC vs. Tottenham Hotspur FC end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 26000.0,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "ultimo_fill": 1792859874,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12670,
+    "timestamp": 1792859879,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "epl-che-tot-2026-10-24-draw",
+    "title": "Will Chelsea FC vs. Tottenham Hotspur FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 74000.0,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1792859879,
+    "fills": 1
   }
 ]
