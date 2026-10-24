@@ -92422,7 +92422,7 @@
     "side": "BUY",
     "usd": 49200.0,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792811265,
     "fills": 1
   },

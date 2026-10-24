@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 01:20:40 (hora de Perú)
+Actualizado: 2026-10-24 01:22:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6157**  ($344,318,118 en total)
-- Resueltas: **6126** — 3745 ganadas / 2381 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **6127** — 3745 ganadas / 2382 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$301,380** sobre $342,928,384 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,048** sobre $604,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$350,580** sobre $342,977,584 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,148** sobre $604,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | takeormake | Army vs. Tulsa | Tulsa | 1.25 (80¢) | $33,944 | -$33,944 | ❌ Perdida |
 | TAIWANNUMBERONE | Army vs. Tulsa | Tulsa | 1.22 (82¢) | $32,978 | -$32,978 | ❌ Perdida |
 | Woaifacai | Trail Blazers vs. Kings | Trail Blazers | 1.52 (66¢) | $84,552 | +$43,557 | ✅ Ganada |
-| 778908 | NC State vs. Stanford | NC State | 2.44 (41¢) | $49,200 | — | ⏳ Pendiente |
+| 778908 | NC State vs. Stanford | NC State | 2.44 (41¢) | $49,200 | -$49,200 | ❌ Perdida |
 | KaneAnalytics | Army vs. Tulsa | Tulsa | 1.61 (62¢) | $75,646 | -$75,646 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Army vs. Tulsa | Tulsa | 3.70 (27¢) | $28,912 | -$28,912 | ❌ Perdida |
 | RJW1 | Rockets vs. Spurs | Spurs | 1.69 (59¢) | $36,828 | -$36,828 | ❌ Perdida |
