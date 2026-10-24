@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 10:41:14 (hora de Perú)
+Actualizado: 2026-10-24 10:43:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6220**  ($348,556,225 en total)
+- Apuestas registradas: **6221**  ($348,726,425 en total)
 - Resueltas: **6155** — 3753 ganadas / 2402 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 620
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 445 | 242 | 8 | 65% | $44,503,452 | +$810,286 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 445 | 242 | 9 | 65% | $44,673,652 | +$810,286 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 35 | 23 | 4 | 60% | $7,865,280 | -$694,864 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Al Kholood Saudi Club vs. Al Ettifaq Saudi Club: O/U 0.5 | Over 0.5 | 1.18 (85¢) | $170,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rangers vs. Senators | Senators | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | SDTrading | Spread: TCU (-10.5) | West Virginia | 1.92 (52¢) | $34,598 | — | ⏳ Pendiente |
 | RJW1 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.89 (53¢) | $28,229 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 620 en total)_
 | rabbitfoot1 | Arsenal FC vs. Everton FC: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $188,401 | — | ⏳ Pendiente |
 | YYYYY999 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.75 (57¢) | $26,367 | — | ⏳ Pendiente |
 | YYYYY999 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.23 (81¢) | $53,587 | — | ⏳ Pendiente |
-| YYYYY999 | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.47 (68¢) | $31,377 | — | ⏳ Pendiente |
