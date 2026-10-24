@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 16:25:40 (hora de Perú)
+Actualizado: 2026-10-24 16:27:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6322**  ($355,511,764 en total)
-- Resueltas: **6246** — 3812 ganadas / 2434 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Apuestas registradas: **6323**  ($355,541,534 en total)
+- Resueltas: **6248** — 3813 ganadas / 2435 perdidas (**61%** de acierto)
+- Pendientes: 53
 - Apostadores distintos: 628
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,490,628** sobre $351,712,383 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,200** sobre $615,900 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,485,698** sobre $351,780,453 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,231** sobre $616,100 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 25 | 22 | 2 | 53% | $2,286,861 | +$209,155 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Mooseborzoiii | 10 | 10 | 3 | 50% | $1,935,962 | +$224,129 |
+| Mooseborzoiii | 10 | 10 | 4 | 50% | $1,965,733 | +$224,129 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
 | TAIWANNUMBERONE | 31 | 17 | 0 | 65% | $1,858,023 | -$183,942 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.33 (43¢) | $29,770 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.44 (41¢) | $35,115 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.56 (39¢) | $72,876 | — | ⏳ Pendiente |
@@ -93,13 +94,13 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | Mooseborzoiii | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.69 (59¢) | $345,171 | — | ⏳ Pendiente |
 | texaskid | Spread: 76ers (-12.5) | 76ers | 2.00 (50¢) | $25,518 | — | ⏳ Pendiente |
 | 999585 | Michigan State vs. UCLA | UCLA | 1.15 (87¢) | $200,100 | +$4,600 | 💰 Vendida antes |
-| sulumos | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Petr Yan | 1.69 (59¢) | $43,070 | — | ⏳ Pendiente |
+| sulumos | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Petr Yan | 1.69 (59¢) | $43,070 | +$29,930 | ✅ Ganada |
 | Sassy-Bucket | BYU vs. UCF | BYU | 1.33 (75¢) | $135,185 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tennessee vs. South Carolina | Tennessee | 2.13 (47¢) | $39,938 | — | ⏳ Pendiente |
 | Sassy-Bucket | BYU vs. UCF | BYU | 1.35 (74¢) | $74,145 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tennessee vs. South Carolina | Tennessee | 2.17 (46¢) | $49,641 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.75 (57¢) | $27,040 | +$20,398 | ✅ Ganada |
-| freee67thewhale | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Merab Dvalishvili | 2.38 (42¢) | $25,000 | — | ⏳ Pendiente |
+| freee67thewhale | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Merab Dvalishvili | 2.38 (42¢) | $25,000 | -$25,000 | ❌ Perdida |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.82 (55¢) | $29,873 | +$24,442 | ✅ Ganada |
 | ethanaz | Indiana vs. Michigan | Michigan | 2.22 (45¢) | $49,517 | -$49,517 | ❌ Perdida |
 | ferrariChampions2026 | Kings vs. Devils | Kings | 2.70 (37¢) | $48,596 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | ferrariChampions2026 | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Over 2.5 | 1.59 (63¢) | $45,000 | — | ⏳ Pendiente |
 | spx11 | Wizards vs. Bulls | Wizards | 2.13 (47¢) | $47,350 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Indiana vs. Michigan | Indiana | 1.28 (78¢) | $74,110 | +$20,903 | ✅ Ganada |
-| mooseborzoii | Indiana vs. Michigan | Indiana | 1.39 (72¢) | $44,388 | +$17,262 | ✅ Ganada |

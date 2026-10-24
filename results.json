@@ -94599,7 +94599,7 @@
     "side": "BUY",
     "usd": 25000.0,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792869093,
     "fills": 1
   },
@@ -94689,7 +94689,7 @@
     "side": "BUY",
     "usd": 43070.0,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792871312,
     "fills": 1
   },
@@ -95023,6 +95023,21 @@
     "odds_at_bet": 41,
     "status": "pending",
     "ultimo_fill": 1792876880,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12837,
+    "timestamp": 1792877159,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "lol-ig1-tsw-2026-10-24",
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "side": "BUY",
+    "usd": 29770.0942,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1792877159,
     "fills": 1
   }
 ]
