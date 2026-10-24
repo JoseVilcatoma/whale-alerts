@@ -92455,5 +92455,20 @@
     "status": "pending",
     "ultimo_fill": 1792812435,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12517,
+    "timestamp": 1792813126,
+    "username": "takeormake",
+    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+    "slug": "cfb-army-tulsa-2026-10-23",
+    "title": "Army vs. Tulsa",
+    "outcome": "Tulsa",
+    "side": "BUY",
+    "usd": 33943.744,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1792813126,
+    "fills": 1
   }
 ]

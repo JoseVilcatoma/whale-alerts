@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 22:37:54 (hora de Perú)
+Actualizado: 2026-10-23 22:39:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6151**  ($344,003,916 en total)
+- Apuestas registradas: **6152**  ($344,037,859 en total)
 - Resueltas: **6101** — 3734 ganadas / 2367 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 619
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| takeormake | Army vs. Tulsa | Tulsa | 1.25 (80¢) | $33,944 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Army vs. Tulsa | Tulsa | 1.22 (82¢) | $32,978 | — | ⏳ Pendiente |
 | Woaifacai | Trail Blazers vs. Kings | Trail Blazers | 1.52 (66¢) | $84,552 | — | ⏳ Pendiente |
 | 778908 | NC State vs. Stanford | NC State | 2.44 (41¢) | $49,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks | Bulls | 2.00 (50¢) | $250,000 | +$250,000 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage | Team Liquid | 1.37 (73¢) | $29,200 | -$29,200 | ❌ Perdida |
 | beeemw | Raptors vs. Wizards | Raptors | 1.33 (75¢) | $37,875 | +$12,625 | ✅ Ganada |
-| bluemol | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.14 (88¢) | $34,000 | +$4,636 | ✅ Ganada |
