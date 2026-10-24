@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 16:19:25 (hora de Perú)
+Actualizado: 2026-10-24 16:21:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6320**  ($355,392,363 en total)
+- Apuestas registradas: **6322**  ($355,511,764 en total)
 - Resueltas: **6242** — 3810 ganadas / 2432 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 58
 - Apostadores distintos: 628
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 452 | 247 | 8 | 65% | $45,488,080 | +$682,582 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 452 | 247 | 8 | 65% | $45,542,367 | +$682,582 |
 | Sassy-Bucket | 85 | 85 | 11 | 50% | $11,114,542 | -$1,039,587 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
@@ -59,9 +59,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 25 | 22 | 2 | 53% | $2,286,861 | +$209,155 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
+| Mooseborzoiii | 10 | 10 | 3 | 50% | $1,935,962 | +$224,129 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
-| Mooseborzoiii | 10 | 10 | 2 | 50% | $1,900,847 | +$224,129 |
 | TAIWANNUMBERONE | 31 | 17 | 0 | 65% | $1,858,023 | -$183,942 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 
@@ -71,10 +71,12 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.44 (41¢) | $35,115 | — | ⏳ Pendiente |
+| vtcchampion52 | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.56 (39¢) | $72,876 | — | ⏳ Pendiente |
 | Nooserac | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.61 (62¢) | $43,230 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.64 (61¢) | $121,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.64 (61¢) | $175,786 | — | ⏳ Pendiente |
 | Nooserac | Michigan State vs. UCLA | UCLA | 1.12 (89¢) | $44,500 | — | ⏳ Pendiente |
 | KaneAnalytics | San Jose State vs. Nevada | Nevada | 1.43 (70¢) | $26,694 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Jose State vs. Nevada | San Jose State | 2.94 (34¢) | $28,115 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | spx11 | Wizards vs. Bulls | Wizards | 2.13 (47¢) | $47,350 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Indiana vs. Michigan | Indiana | 1.28 (78¢) | $74,110 | +$20,903 | ✅ Ganada |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.39 (72¢) | $44,388 | +$17,262 | ✅ Ganada |
-| 999585 | LSU vs. Auburn | LSU | 1.06 (94¢) | $411,655 | +$26,276 | ✅ Ganada |
-| Woaifacai | Will BV Borussia 09 Dortmund win on 2026-10-24? | Yes | 1.67 (60¢) | $60,000 | +$40,000 | ✅ Ganada |
