@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 13:03:21 (hora de Perú)
+Actualizado: 2026-10-24 13:05:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6270**  ($352,387,157 en total)
+- Apuestas registradas: **6271**  ($352,420,157 en total)
 - Resueltas: **6182** — 3773 ganadas / 2409 perdidas (**61%** de acierto)
-- Pendientes: 66
+- Pendientes: 67
 - Apostadores distintos: 624
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 24 | 0 | 71% | $5,100,188 | -$137,120 |
-| BrotherObama | 45 | 51 | 2 | 47% | $4,341,370 | -$189,745 |
+| BrotherObama | 45 | 51 | 3 | 47% | $4,374,370 | -$189,745 |
 | googleplay | 14 | 16 | 0 | 47% | $3,893,979 | -$505,804 |
 | maz26 | 32 | 21 | 2 | 60% | $3,746,257 | +$365,369 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Tampa Bay Rays vs. Milwaukee Brewers: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $33,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage | Movistar KOI | 1.47 (68¢) | $112,951 | — | ⏳ Pendiente |
 | zhqzhq | Will Parma Calcio 1913 win on 2026-10-24? | No | 1.12 (89¢) | $43,000 | — | ⏳ Pendiente |
 | ArielFilipino | Spread: Spurs (-12.5) | Spurs | 1.85 (54¢) | $30,974 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | RJW1 | Will Chelsea FC win on 2026-10-24? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Racing Club vs. RCD Espanyol de Barcelona: O/U 0.5 | Over 0.5 | 1.25 (80¢) | $80,500 | +$20,125 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Racing Club vs. RCD Espanyol de Barcelona: O/U 0.5 | Over 0.5 | 1.25 (80¢) | $80,500 | +$20,125 | ✅ Ganada |
-| EdZachary | Spread: Cavaliers (-11.5) | Cavaliers | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
