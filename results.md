@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 13:45:01 (hora de Perú)
+Actualizado: 2026-10-24 13:47:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6283**  ($352,933,842 en total)
+- Apuestas registradas: **6284**  ($352,958,842 en total)
 - Resueltas: **6188** — 3775 ganadas / 2413 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Pendientes: 74
 - Apostadores distintos: 624
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| shark142 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | KaneAnalytics | Indiana vs. Michigan | Michigan | 3.57 (28¢) | $38,374 | — | ⏳ Pendiente |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.28 (78¢) | $65,061 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.79 (56¢) | $42,161 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 624 en total)_
 | ArturitoFilito | Will Chelsea FC win on 2026-10-24? | No | 2.08 (48¢) | $32,000 | +$667 | 💰 Vendida antes |
 | UpTheBlues | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $26,752 | — | ⏳ Pendiente |
 | joseph00677 | Will Chelsea FC win on 2026-10-24? | Yes | 1.96 (51¢) | $63,757 | — | ⏳ Pendiente |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Chelsea FC win on 2026-10-24? | No | 2.04 (49¢) | $38,808 | — | ⏳ Pendiente |
