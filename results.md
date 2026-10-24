@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 15:27:44 (hora de Perú)
+Actualizado: 2026-10-24 15:29:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6305**  ($354,515,933 en total)
+- Apuestas registradas: **6306**  ($354,548,667 en total)
 - Resueltas: **6223** — 3796 ganadas / 2427 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Pendientes: 61
 - Apostadores distintos: 627
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 627 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5 | Under 2.5 | 1.39 (72¢) | $32,734 | — | ⏳ Pendiente |
 | gol702 | M25 Tamworth: Blake Ellis vs Isaac Becroft | Isaac Becroft | 1.92 (52¢) | $25,994 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | LYON | 2.50 (40¢) | $39,380 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 1.69 (59¢) | $345,171 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 627 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 333: Abus Magomedov vs. Cam Rowston (Middleweight, Prelims) | Cam Rowston | 2.17 (46¢) | $59,800 | -$59,800 | ❌ Perdida |
 | gmpm2 | Wizards vs. Bulls | Bulls | 1.89 (53¢) | $33,596 | — | ⏳ Pendiente |
 | skk1ch | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | Yes | 3.70 (27¢) | $27,000 | -$27,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC vs. Tottenham Hotspur FC end in a draw? | No | 1.35 (74¢) | $74,000 | +$26,000 | ✅ Ganada |
