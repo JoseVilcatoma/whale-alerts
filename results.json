@@ -92557,7 +92557,7 @@
     "side": "BUY",
     "usd": 34612.878,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792823503,
     "fills": 1
   },
@@ -92812,7 +92812,7 @@
     "side": "BUY",
     "usd": 45888.43,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792837992,
     "fills": 1
   },
@@ -92827,7 +92827,7 @@
     "side": "BUY",
     "usd": 49736.812999999995,
     "odds_at_bet": 82,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792839704,
     "fills": 1
   },
@@ -92842,7 +92842,7 @@
     "side": "BUY",
     "usd": 60578.74170000001,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792840070,
     "fills": 1
   },
@@ -92872,7 +92872,7 @@
     "side": "BUY",
     "usd": 283812.8639,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792840816,
     "fills": 3
   },
@@ -92887,7 +92887,7 @@
     "side": "BUY",
     "usd": 190754.32,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792840991,
     "fills": 2
   },
@@ -92902,7 +92902,7 @@
     "side": "BUY",
     "usd": 81000.0,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792841137,
     "fills": 1
   },
@@ -92917,7 +92917,7 @@
     "side": "BUY",
     "usd": 321910.42,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792841354,
     "fills": 3
   },
@@ -92932,7 +92932,7 @@
     "side": "BUY",
     "usd": 34564.214100000005,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792841392,
     "fills": 1
   },
@@ -93099,6 +93099,21 @@
     "odds_at_bet": 80,
     "status": "pending",
     "ultimo_fill": 1792848373,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12595,
+    "timestamp": 1792849108,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "epl-ars-eve-2026-10-24-ars",
+    "title": "Will Arsenal FC win on 2026-10-24?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 288000.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1792849108,
     "fills": 1
   }
 ]
