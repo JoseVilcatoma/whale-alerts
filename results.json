@@ -93837,5 +93837,20 @@
     "status": "pending",
     "ultimo_fill": 1792858728,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12668,
+    "timestamp": 1792859518,
+    "username": "YYYYY999",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-hou-atl-2026-10-24",
+    "title": "Rockets vs. Hawks",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 33136.7008,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792859518,
+    "fills": 1
   }
 ]
