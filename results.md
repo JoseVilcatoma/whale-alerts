@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 23:37:36 (hora de Perú)
+Actualizado: 2026-10-23 23:39:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6155**  ($344,192,325 en total)
-- Resueltas: **6116** — 3740 ganadas / 2376 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **6122** — 3743 ganadas / 2379 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 619
 
 ### Balance
 
-- **Resultado de los apostadores: -$438,226** sobre $342,268,748 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,211** sobre $603,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$215,377** sobre $342,575,356 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,056** sobre $603,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | milkteaboba | 13 | 11 | 0 | 54% | $2,337,396 | -$694,704 |
-| ndb1 | 27 | 14 | 2 | 66% | $2,337,048 | +$366,376 |
+| ndb1 | 27 | 15 | 1 | 64% | $2,337,048 | +$332,351 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
@@ -80,17 +80,17 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 778908 | NC State vs. Stanford | NC State | 2.44 (41¢) | $49,200 | — | ⏳ Pendiente |
 | KaneAnalytics | Army vs. Tulsa | Tulsa | 1.61 (62¢) | $75,646 | -$75,646 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Army vs. Tulsa | Tulsa | 3.70 (27¢) | $28,912 | -$28,912 | ❌ Perdida |
-| RJW1 | Rockets vs. Spurs | Spurs | 1.69 (59¢) | $36,828 | — | ⏳ Pendiente |
+| RJW1 | Rockets vs. Spurs | Spurs | 1.69 (59¢) | $36,828 | -$36,828 | ❌ Perdida |
 | Kkunn | Japan Women's Open: Ann Li vs Ashlyn Krueger | Ann Li | 1.61 (62¢) | $28,758 | — | ⏳ Pendiente |
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.20 (83¢) | $64,190 | +$13,147 | ✅ Ganada |
 | 778908 | Tampa Bay Rays vs. Milwaukee Brewers | Milwaukee Brewers | 1.27 (79¢) | $60,938 | +$16,199 | ✅ Ganada |
 | KaneAnalytics | Duke vs. Virginia | Duke | 1.39 (72¢) | $55,854 | +$21,721 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Warriors | Grizzlies | 2.56 (39¢) | $54,177 | — | ⏳ Pendiente |
 | Woaifacai | Grizzlies vs. Warriors | Warriors | 1.64 (61¢) | $144,230 | — | ⏳ Pendiente |
-| monkeymashingkeyboard | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $28,800 | — | ⏳ Pendiente |
-| ndb1 | Rockets vs. Spurs | Spurs | 1.56 (64¢) | $34,025 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $28,800 | +$51,200 | ✅ Ganada |
+| ndb1 | Rockets vs. Spurs | Spurs | 1.56 (64¢) | $34,025 | -$34,025 | ❌ Perdida |
 | tiger105 | Pelicans vs. Jazz | Pelicans | 1.96 (51¢) | $60,000 | -$60,000 | ❌ Perdida |
-| dhgreg | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $143,229 | — | ⏳ Pendiente |
+| dhgreg | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $143,229 | +$254,629 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Celtics | Celtics | 1.14 (88¢) | $88,880 | +$12,120 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Knicks vs. Celtics | Celtics | 1.18 (85¢) | $33,325 | +$5,881 | ✅ Ganada |
 | scootergene | Pelicans vs. Jazz: O/U 238.5 | Over 238.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | googleplay | Pistons vs. Heat | Pistons | 1.85 (54¢) | $177,436 | +$151,149 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: LOS vs T1 (BO1) - Worlds Group Stage | T1 | 1.11 (90¢) | $56,453 | +$6,273 | ✅ Ganada |
 | bluemario | Cruzeiro EC vs. Clube do Remo: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $101,544 | +$101,544 | ✅ Ganada |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Lakers: O/U 225.5 | Under 225.5 | 2.00 (50¢) | $37,927 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Lakers: O/U 225.5 | Under 225.5 | 2.00 (50¢) | $37,927 | -$37,927 | ❌ Perdida |
 | Jokerxing7 | Spread: Warriors (-4.5) | Warriors | 1.96 (51¢) | $70,069 | — | ⏳ Pendiente |
 | Jokerxing7 | Raptors vs. Wizards: O/U 236.5 | Over 236.5 | 2.00 (50¢) | $45,229 | -$45,229 | ❌ Perdida |
 | Jokerxing7 | Pistons vs. Heat: O/U 235.5 | Over 235.5 | 2.00 (50¢) | $31,803 | +$31,803 | ✅ Ganada |
