@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 17:53:32 (hora de Perú)
+Actualizado: 2026-10-24 17:55:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6341**  ($356,546,886 en total)
-- Resueltas: **6268** — 3823 ganadas / 2445 perdidas (**61%** de acierto)
+- Apuestas registradas: **6342**  ($356,628,886 en total)
+- Resueltas: **6269** — 3823 ganadas / 2446 perdidas (**61%** de acierto)
 - Pendientes: 51
 - Apostadores distintos: 628
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,777,332** sobre $353,232,294 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,487** sobre $618,100 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,825,929** sobre $353,280,890 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,587** sobre $618,200 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,12 +27,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 455 | 248 | 5 | 65% | $45,598,367 | +$992,583 |
 | Sassy-Bucket | 86 | 88 | 8 | 49% | $11,151,501 | -$1,264,352 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
+| mooseborzoii | 85 | 44 | 9 | 66% | $7,912,630 | +$1,189,712 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
-| mooseborzoii | 85 | 44 | 8 | 66% | $7,830,630 | +$1,189,712 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 1 | 51% | $7,477,793 | -$661,667 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 101 | 51 | 1 | 66% | $6,711,634 | +$210,610 |
+| ferrariChampions2026 | 101 | 52 | 0 | 66% | $6,711,634 | +$162,014 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Lakersfan111 | 76 | 47 | 5 | 62% | $6,212,686 | +$105,865 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Ole Miss vs. Texas | Ole Miss | 2.44 (41¢) | $82,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Clemson (-2.5) | Clemson | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Clemson (-2.5) | Virginia Tech | 2.13 (47¢) | $72,404 | — | ⏳ Pendiente |
 | mooseborzoii | San Diego State vs. Colorado State | San Diego State | 2.04 (49¢) | $25,823 | — | ⏳ Pendiente |
@@ -121,7 +122,7 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | freee67thewhale | UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card) | Merab Dvalishvili | 2.38 (42¢) | $25,000 | -$25,000 | ❌ Perdida |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.82 (55¢) | $29,873 | +$24,442 | ✅ Ganada |
 | ethanaz | Indiana vs. Michigan | Michigan | 2.22 (45¢) | $49,517 | -$49,517 | ❌ Perdida |
-| ferrariChampions2026 | Kings vs. Devils | Kings | 2.70 (37¢) | $48,596 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Kings vs. Devils | Kings | 2.70 (37¢) | $48,596 | -$48,596 | ❌ Perdida |
 | Mooseborzoiii | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | LOS | 4.17 (24¢) | $125,116 | -$125,116 | ❌ Perdida |
 | Nooserac | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.27 (79¢) | $36,978 | +$9,830 | ✅ Ganada |
 | End123 | LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage | G2 Esports | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | Talvez10 | Wild vs. Kraken | Wild | 1.64 (61¢) | $35,187 | — | ⏳ Pendiente |
 | shark142 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | KaneAnalytics | Indiana vs. Michigan | Michigan | 3.57 (28¢) | $38,374 | -$38,374 | ❌ Perdida |
-| mooseborzoii | Indiana vs. Michigan | Indiana | 1.28 (78¢) | $65,061 | +$18,351 | ✅ Ganada |

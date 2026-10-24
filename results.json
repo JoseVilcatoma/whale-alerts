@@ -94554,7 +94554,7 @@
     "side": "BUY",
     "usd": 48596.140400000004,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792868927,
     "fills": 1
   },
@@ -95308,6 +95308,21 @@
     "odds_at_bet": 53,
     "status": "pending",
     "ultimo_fill": 1792881531,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12880,
+    "timestamp": 1792882473,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "cfb-miss-tx-2026-10-24",
+    "title": "Ole Miss vs. Texas",
+    "outcome": "Ole Miss",
+    "side": "BUY",
+    "usd": 82000.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1792882473,
     "fills": 1
   }
 ]
