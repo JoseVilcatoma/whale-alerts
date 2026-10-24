@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 17:37:08 (hora de Perú)
+Actualizado: 2026-10-24 17:39:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6339**  ($356,442,682 en total)
+- Apuestas registradas: **6341**  ($356,546,886 en total)
 - Resueltas: **6261** — 3819 ganadas / 2442 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 58
 - Apostadores distintos: 628
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | mooseborzoii | 85 | 44 | 8 | 66% | $7,830,630 | +$1,189,712 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 1 | 51% | $7,477,793 | -$661,667 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 101 | 51 | 1 | 66% | $6,711,634 | +$210,610 |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 25 | 0 | 71% | $5,149,705 | -$186,637 |
 | BrotherObama | 45 | 51 | 3 | 47% | $4,374,370 | -$189,745 |
 | googleplay | 14 | 16 | 0 | 47% | $3,893,979 | -$505,804 |
-| maz26 | 32 | 21 | 2 | 60% | $3,746,257 | +$365,369 |
+| maz26 | 32 | 21 | 3 | 60% | $3,818,660 | +$365,369 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | Kch-Temp | 42 | 11 | 1 | 79% | $3,510,019 | +$1,904,316 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Clemson (-2.5) | Clemson | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
+| gmpm2 | Spread: Clemson (-2.5) | Virginia Tech | 2.13 (47¢) | $72,404 | — | ⏳ Pendiente |
 | mooseborzoii | San Diego State vs. Colorado State | San Diego State | 2.04 (49¢) | $25,823 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Hanwha Life Esports | 2.38 (42¢) | $186,219 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 628 en total)_
 | shark142 | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Alexander Volkanovski | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | KaneAnalytics | Indiana vs. Michigan | Michigan | 3.57 (28¢) | $38,374 | -$38,374 | ❌ Perdida |
 | mooseborzoii | Indiana vs. Michigan | Indiana | 1.28 (78¢) | $65,061 | +$18,351 | ✅ Ganada |
-| Sassy-Bucket | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Alexander Volkov | 1.79 (56¢) | $42,161 | +$33,127 | ✅ Ganada |
-| mooseborzoii | UFC 333: Alexander Volkov vs. Rizvan Kuniev (Heavyweight, Main Card) | Rizvan Kuniev | 2.27 (44¢) | $36,027 | -$36,027 | ❌ Perdida |

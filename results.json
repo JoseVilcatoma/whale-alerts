@@ -95279,5 +95279,35 @@
     "status": "pending",
     "ultimo_fill": 1792881226,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12870,
+    "timestamp": 1792881529,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "cfb-vtech-clmsn-2026-10-24-spread-home-2pt5",
+    "title": "Spread: Clemson (-2.5)",
+    "outcome": "Virginia Tech",
+    "side": "BUY",
+    "usd": 72403.5376,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1792881529,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12871,
+    "timestamp": 1792881531,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "cfb-vtech-clmsn-2026-10-24-spread-home-2pt5",
+    "title": "Spread: Clemson (-2.5)",
+    "outcome": "Clemson",
+    "side": "BUY",
+    "usd": 31800.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792881531,
+    "fills": 1
   }
 ]
