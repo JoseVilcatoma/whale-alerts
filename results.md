@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-23 21:08:35 (hora de Perú)
+Actualizado: 2026-10-23 21:10:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6139**  ($343,287,652 en total)
+- Apuestas registradas: **6142**  ($343,541,913 en total)
 - Resueltas: **6089** — 3725 ganadas / 2364 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 31
 - Apostadores distintos: 619
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 440 | 235 | 5 | 65% | $43,733,752 | +$1,078,174 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 440 | 235 | 6 | 65% | $43,787,930 | +$1,078,174 |
 | Sassy-Bucket | 83 | 84 | 2 | 50% | $10,362,110 | -$1,041,337 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 0 | 51% | $7,445,993 | -$661,667 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Duke vs. Virginia | Duke | 1.39 (72¢) | $55,854 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Warriors | Grizzlies | 2.56 (39¢) | $54,177 | — | ⏳ Pendiente |
+| Woaifacai | Grizzlies vs. Warriors | Warriors | 1.64 (61¢) | $144,230 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Rockets vs. Spurs | Rockets | 2.78 (36¢) | $28,800 | — | ⏳ Pendiente |
 | ndb1 | Rockets vs. Spurs | Spurs | 1.56 (64¢) | $34,025 | — | ⏳ Pendiente |
 | tiger105 | Pelicans vs. Jazz | Pelicans | 1.96 (51¢) | $60,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 619 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bulls vs. Bucks: O/U 236.5 | Over 236.5 | 1.79 (56¢) | $48,594 | +$38,181 | ✅ Ganada |
 | Netrol | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
 | meoooow | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.61 (62¢) | $37,834 | -$37,834 | ❌ Perdida |
-| Mooseborzoiii | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Karmine Corp | 2.56 (39¢) | $201,608 | +$315,335 | ✅ Ganada |
-| n0tTODAY | LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage | Anyone's Legend | 1.52 (66¢) | $30,690 | -$30,690 | ❌ Perdida |
-| YYYYY999 | Mavericks vs. Pacers | Mavericks | 3.23 (31¢) | $39,867 | +$88,737 | ✅ Ganada |
