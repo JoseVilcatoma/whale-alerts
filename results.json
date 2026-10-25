@@ -97558,7 +97558,7 @@
     "side": "BUY",
     "usd": 29569.0245,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792944392,
     "fills": 1
   },
@@ -97603,7 +97603,7 @@
     "side": "BUY",
     "usd": 57554.979999999996,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792944876,
     "fills": 1
   },
@@ -97753,7 +97753,7 @@
     "side": "BUY",
     "usd": 32400.000000000004,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792946558,
     "fills": 1
   },
@@ -97873,7 +97873,7 @@
     "side": "BUY",
     "usd": 29487.780000000002,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792947388,
     "fills": 1
   },
@@ -97888,7 +97888,7 @@
     "side": "BUY",
     "usd": 52995.62700000001,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792947570,
     "fills": 1
   },
@@ -97918,7 +97918,7 @@
     "side": "BUY",
     "usd": 47200.0,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792947588,
     "fills": 1
   },
@@ -97948,7 +97948,7 @@
     "side": "BUY",
     "usd": 28212.1787,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792947707,
     "fills": 1
   },
@@ -97978,7 +97978,7 @@
     "side": "BUY",
     "usd": 59201.1825,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792947716,
     "fills": 1
   },
@@ -97993,7 +97993,7 @@
     "side": "BUY",
     "usd": 25000.000000250002,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792947665,
     "fills": 1
   },
@@ -98068,7 +98068,7 @@
     "side": "BUY",
     "usd": 74772.15999900001,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792948354,
     "fills": 1
   },
@@ -98083,7 +98083,7 @@
     "side": "BUY",
     "usd": 27095.5599,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792948393,
     "fills": 1
   },
@@ -98113,7 +98113,7 @@
     "side": "BUY",
     "usd": 67129.90000000001,
     "odds_at_bet": 58,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792949098,
     "fills": 1
   },
@@ -98852,6 +98852,36 @@
     "odds_at_bet": 65,
     "status": "pending",
     "ultimo_fill": 1792958497,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13309,
+    "timestamp": 1792958810,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-gb-det-2026-10-25",
+    "title": "Packers vs. Lions",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 32097.611000000004,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1792958810,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13310,
+    "timestamp": 1792958841,
+    "username": "zb8",
+    "wallet": "0x0224bb9eb0a5c9fd261ac9123a72cbdd5748292a",
+    "slug": "lol-dk-mkoi-2026-10-25-game2",
+    "title": "LoL: Dplus KIA vs Movistar KOI - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 28262.402,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1792958841,
     "fills": 1
   }
 ]

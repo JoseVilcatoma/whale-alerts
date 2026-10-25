@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:05:50 (hora de Perú)
+Actualizado: 2026-10-25 15:08:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6577**  ($373,171,979 en total)
-- Resueltas: **6453** — 3936 ganadas / 2517 perdidas (**61%** de acierto)
-- Pendientes: 102
+- Apuestas registradas: **6579**  ($373,232,339 en total)
+- Resueltas: **6465** — 3942 ganadas / 2523 perdidas (**61%** de acierto)
+- Pendientes: 92
 - Apostadores distintos: 640
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,900,718** sobre $365,249,661 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$7,263** sobre $636,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$1,913,071** sobre $365,780,280 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,449** sobre $637,600 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,14 +25,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 15 | 65% | $47,738,194 | +$1,143,151 |
-| Sassy-Bucket | 90 | 94 | 5 | 49% | $12,066,678 | -$1,490,411 |
+| Sassy-Bucket | 92 | 94 | 3 | 49% | $12,066,678 | -$1,433,478 |
 | mooseborzoii | 93 | 51 | 6 | 65% | $8,533,753 | +$1,128,490 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 3 | 62% | $7,945,894 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 102 | 53 | 5 | 66% | $6,941,599 | +$124,380 |
+| ferrariChampions2026 | 102 | 54 | 4 | 65% | $6,941,599 | +$97,285 |
 | Lakersfan111 | 83 | 47 | 7 | 64% | $6,572,613 | +$245,409 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | googleplay | 17 | 21 | 0 | 45% | $6,000,572 | -$366,994 |
@@ -41,8 +41,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 26 | 0 | 70% | $5,197,196 | -$234,128 |
 | BrotherObama | 47 | 51 | 3 | 48% | $4,425,789 | -$123,120 |
-| maz26 | 33 | 23 | 5 | 59% | $4,210,441 | +$380,239 |
-| Kch-Temp | 43 | 11 | 5 | 80% | $3,864,821 | +$1,951,752 |
+| maz26 | 35 | 23 | 4 | 60% | $4,242,538 | +$420,194 |
+| Kch-Temp | 43 | 12 | 4 | 78% | $3,864,821 | +$1,922,183 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | Mooseborzoiii | 14 | 17 | 3 | 45% | $3,439,626 | +$95,320 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 35 | 17 | 1 | 67% | $2,031,205 | -$153,848 |
-| SDTrading | 33 | 32 | 1 | 51% | $1,980,751 | -$99,033 |
+| SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| zb8 | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.43 (70¢) | $28,262 | — | ⏳ Pendiente |
+| gmpm2 | Packers vs. Lions | Lions | 1.54 (65¢) | $32,098 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Lions | Lions | 1.54 (65¢) | $186,550 | — | ⏳ Pendiente |
 | juice-fruit | Browns vs. Titans | Browns | 1.61 (62¢) | $34,444 | — | ⏳ Pendiente |
 | LTandBB | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $36,356 | — | ⏳ Pendiente |
@@ -119,15 +121,13 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | juice-fruit | Dolphins vs. Jets | Jets | 1.96 (51¢) | $38,141 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-10-25? | Yes | 4.17 (24¢) | $32,314 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Giants vs. Texans | Texans | 1.59 (63¢) | $34,497 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.72 (58¢) | $67,130 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.72 (58¢) | $67,130 | +$48,611 | ✅ Ganada |
 | jakepaulthegoat2008 | Spread: Pacers (-7.5) | Nets | 1.89 (53¢) | $36,684 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Giants | 5.26 (19¢) | $44,294 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Colts vs. Vikings | Colts | 2.33 (43¢) | $27,096 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.75 (57¢) | $74,772 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Colts vs. Vikings | Colts | 2.33 (43¢) | $27,096 | -$27,096 | ❌ Perdida |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.75 (57¢) | $74,772 | +$56,407 | ✅ Ganada |
 | milkteaboba | Giants vs. Texans | Texans | 1.23 (81¢) | $346,955 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.32 (76¢) | $37,978 | -$37,978 | ❌ Perdida |
 | goweibo123 | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.33 (75¢) | $25,654 | -$25,654 | ❌ Perdida |
 | YYYYY999 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $42,706 | — | ⏳ Pendiente |
 | mooseborzoii | Browns vs. Titans | Titans | 2.22 (45¢) | $89,633 | — | ⏳ Pendiente |
-| gmpm2 | Colts vs. Vikings | Vikings | 1.33 (75¢) | $59,201 | — | ⏳ Pendiente |
-| Sassy-Bucket | Spread: Vikings (-6.5) | Colts | 2.13 (47¢) | $28,212 | — | ⏳ Pendiente |
