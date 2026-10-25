@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 18:13:42 (hora de Perú)
+Actualizado: 2026-10-25 18:15:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6646**  ($377,853,202 en total)
+- Apuestas registradas: **6648**  ($377,905,714 en total)
 - Resueltas: **6538** — 3984 ganadas / 2554 perdidas (**61%** de acierto)
-- Pendientes: 86
+- Pendientes: 88
 - Apostadores distintos: 643
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 473 | 254 | 11 | 65% | $48,174,706 | +$1,725,672 |
 | Sassy-Bucket | 93 | 94 | 3 | 50% | $12,103,975 | -$1,393,191 |
-| mooseborzoii | 95 | 53 | 3 | 64% | $8,577,252 | +$952,942 |
+| mooseborzoii | 95 | 53 | 4 | 64% | $8,602,883 | +$952,942 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Siddhartha1 | Pistons vs. 76ers | Pistons | 1.85 (54¢) | $26,881 | — | ⏳ Pendiente |
+| mooseborzoii | Packers vs. Lions | Lions | 1.52 (66¢) | $25,631 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Thunder (-16.5) | Thunder | 1.92 (52¢) | $33,539 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $38,727 | — | ⏳ Pendiente |
 | dhgreg | Spread: Thunder (-13.5) | Clippers | 2.44 (41¢) | $36,900 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | mentionmarket | Rams vs. Raiders | Rams | 1.49 (67¢) | $35,711 | — | ⏳ Pendiente |
 | cosmicxbt | Broncos vs. Cardinals | Broncos | 1.43 (70¢) | $159,332 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Lions | Lions | 1.52 (66¢) | $116,305 | — | ⏳ Pendiente |
-| takeormake | Spread: Lions (-3.5) | Packers | 2.13 (47¢) | $66,589 | — | ⏳ Pendiente |
-| veliMax | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $67,223 | -$67,223 | ❌ Perdida |

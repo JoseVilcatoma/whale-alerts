@@ -99894,5 +99894,35 @@
     "status": "pending",
     "ultimo_fill": 1792969561,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13453,
+    "timestamp": 1792970067,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nfl-gb-det-2026-10-25",
+    "title": "Packers vs. Lions",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 25630.8954,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1792970067,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13454,
+    "timestamp": 1792970117,
+    "username": "Siddhartha1",
+    "wallet": "0xc95ed399d2fbaec9461f2abd70e0d96df1921288",
+    "slug": "nba-det-phi-2026-10-25",
+    "title": "Pistons vs. 76ers",
+    "outcome": "Pistons",
+    "side": "BUY",
+    "usd": 26881.146000000004,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792970117,
+    "fills": 1
   }
 ]
