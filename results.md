@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 12:09:27 (hora de Perú)
+Actualizado: 2026-10-25 12:11:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6521**  ($369,206,238 en total)
+- Apuestas registradas: **6522**  ($369,231,892 en total)
 - Resueltas: **6428** — 3925 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 71
+- Pendientes: 72
 - Apostadores distintos: 637
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| goweibo123 | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.33 (75¢) | $25,654 | — | ⏳ Pendiente |
 | YYYYY999 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $42,706 | — | ⏳ Pendiente |
 | mooseborzoii | Browns vs. Titans | Titans | 2.22 (45¢) | $89,633 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Vikings | Vikings | 1.33 (75¢) | $59,201 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 | KaneAnalytics | Steelers vs. Saints | Steelers | 1.67 (60¢) | $31,479 | +$20,986 | ✅ Ganada |
 | Woaifacai | Will Hull City AFC win on 2026-10-25? | No | 1.67 (60¢) | $50,232 | +$33,488 | ✅ Ganada |
 | Woaifacai | Hull City AFC vs. Brentford FC: O/U 2.5 | Under 2.5 | 1.79 (56¢) | $53,390 | +$41,950 | ✅ Ganada |
-| Kch-Temp | Broncos vs. Cardinals: O/U 42.5 | Over 42.5 | 1.85 (54¢) | $67,881 | — | ⏳ Pendiente |
