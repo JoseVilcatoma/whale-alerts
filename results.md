@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 01:08:17 (hora de Perú)
+Actualizado: 2026-10-25 01:10:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6419**  ($362,194,039 en total)
-- Resueltas: **6383** — 3896 ganadas / 2487 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **6384** — 3897 ganadas / 2487 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 633
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,167,951** sobre $360,605,255 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,623** sobre $629,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,161,390** sobre $360,631,502 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,598** sobre $629,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 27 | 22 | 0 | 55% | $2,286,861 | +$269,729 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| TAIWANNUMBERONE | 34 | 17 | 1 | 67% | $1,983,875 | -$160,410 |
+| TAIWANNUMBERONE | 35 | 17 | 0 | 67% | $1,983,875 | -$153,848 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Ashlyn Krueger vs Katerina Siniakova | Katerina Siniakova | 1.49 (67¢) | $26,344 | — | ⏳ Pendiente |
 | hovistomaradona | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Houston vs. Utah | Utah | 1.25 (80¢) | $26,246 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Houston vs. Utah | Utah | 1.25 (80¢) | $26,246 | +$6,562 | ✅ Ganada |
 | veliMax | Pan Pacific Open, Qualification: Kimberly Birrell vs Daria Kasatkina | Daria Kasatkina | 1.15 (87¢) | $79,555 | — | ⏳ Pendiente |
 | NeverLoseBet | Will Real Madrid CF win on 2026-10-25? | No | 1.35 (74¢) | $31,011 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Steelers vs. Saints: O/U 44.5 | Under 44.5 | 1.79 (56¢) | $81,181 | — | ⏳ Pendiente |
