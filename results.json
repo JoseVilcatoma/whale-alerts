@@ -96358,7 +96358,7 @@
     "side": "BUY",
     "usd": 28999.999999999996,
     "odds_at_bet": 58,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792901227,
     "fills": 1
   },
@@ -96373,7 +96373,7 @@
     "side": "BUY",
     "usd": 27119.9978,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792902083,
     "fills": 1
   },
@@ -96463,7 +96463,7 @@
     "side": "BUY",
     "usd": 29500.0,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792907193,
     "fills": 1
   },
@@ -97003,7 +97003,7 @@
     "side": "BUY",
     "usd": 28563.2362,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792934455,
     "fills": 1
   },
@@ -97048,7 +97048,7 @@
     "side": "BUY",
     "usd": 69169.152,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792935679,
     "fills": 1
   },
@@ -97078,7 +97078,7 @@
     "side": "BUY",
     "usd": 41300.0,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792936159,
     "fills": 1
   },
@@ -97576,5 +97576,35 @@
     "status": "pending",
     "ultimo_fill": 1792944585,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13178,
+    "timestamp": 1792944802,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "epl-sun-lee-2026-10-25-sun",
+    "title": "Will Sunderland AFC win on 2026-10-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 30590.34,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1792944802,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13185,
+    "timestamp": 1792944876,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-ind-min-2026-10-25",
+    "title": "Colts vs. Vikings",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 57554.979999999996,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1792944876,
+    "fills": 1
   }
 ]
