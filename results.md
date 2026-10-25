@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:02:28 (hora de Perú)
+Actualizado: 2026-10-25 11:04:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6488**  ($366,159,864 en total)
+- Apuestas registradas: **6489**  ($366,259,864 en total)
 - Resueltas: **6407** — 3912 ganadas / 2495 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Pendientes: 60
 - Apostadores distintos: 636
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Browns vs. Titans | Titans | 2.22 (45¢) | $100,000 | — | ⏳ Pendiente |
 | googleplay | Will Sunderland AFC win on 2026-10-25? | Yes | 2.86 (35¢) | $244,803 | — | ⏳ Pendiente |
 | YYYYY999 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $53,024 | — | ⏳ Pendiente |
 | Donkey14 | 49ers vs. Falcons | Falcons | 2.38 (42¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 | Woaifacai | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Elena Rybakina | 1.37 (73¢) | $70,059 | +$25,912 | ✅ Ganada |
 | Woaifacai | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Elena Rybakina | 1.33 (75¢) | $32,872 | +$10,957 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-10-25? | Yes | 3.85 (26¢) | $34,917 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-25? | No | 2.44 (41¢) | $63,725 | — | ⏳ Pendiente |
