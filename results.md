@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:44:13 (hora de Perú)
+Actualizado: 2026-10-25 11:46:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6505**  ($367,873,840 en total)
+- Apuestas registradas: **6507**  ($367,924,240 en total)
 - Resueltas: **6421** — 3918 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Pendientes: 64
 - Apostadores distintos: 637
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Wiretransferxyz | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
+| 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 2.63 (38¢) | $31,516 | — | ⏳ Pendiente |
 | SDTrading | Spread: Panthers (-2.5) | Panthers | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | DonLino1 | Browns vs. Titans | Titans | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 | Mooseborzoiii | Counter-Strike: G2 vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | G2 | 2.33 (43¢) | $55,900 | -$55,900 | ❌ Perdida |
 | 4217893367451 | Counter-Strike: MOUZ vs 9z (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.33 (75¢) | $52,499 | +$17,500 | ✅ Ganada |
 | gmpm2 | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $54,236 | — | ⏳ Pendiente |
-| juice-fruit | Will Celtic FC win on 2026-10-25? | Yes | 1.69 (59¢) | $26,565 | +$18,460 | ✅ Ganada |
-| SDTrading | Spread: Steelers (-2.5) | Steelers | 1.82 (55¢) | $38,500 | — | ⏳ Pendiente |

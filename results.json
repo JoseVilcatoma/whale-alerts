@@ -97771,5 +97771,35 @@
     "status": "pending",
     "ultimo_fill": 1792946617,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13199,
+    "timestamp": 1792946682,
+    "username": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-furia-navi-2026-10-25",
+    "title": "Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 25200.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1792946682,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13200,
+    "timestamp": 1792946703,
+    "username": "Wiretransferxyz",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-furia-navi-2026-10-25",
+    "title": "Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 25200.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1792946703,
+    "fills": 1
   }
 ]
