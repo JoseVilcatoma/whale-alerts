@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:55:25 (hora de Perú)
+Actualizado: 2026-10-25 15:57:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6597**  ($374,388,450 en total)
+- Apuestas registradas: **6598**  ($374,414,786 en total)
 - Resueltas: **6495** — 3960 ganadas / 2535 perdidas (**61%** de acierto)
-- Pendientes: 80
+- Pendientes: 81
 - Apostadores distintos: 642
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 642 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 473game | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $26,336 | — | ⏳ Pendiente |
 | goweibo123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $30,666 | — | ⏳ Pendiente |
 | thewatcherofall | Packers vs. Lions | Lions | 1.47 (68¢) | $49,442 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Rams vs. Raiders | Rams | 1.35 (74¢) | $29,833 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 642 en total)_
 | cosmicxbt | Spread: Ravens (-6.5) | Bengals | 1.92 (52¢) | $48,307 | +$44,591 | ✅ Ganada |
 | mooseborzoii | Bengals vs. Ravens | Ravens | 1.33 (75¢) | $123,662 | -$123,662 | ❌ Perdida |
 | fhiwbijd | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
-| Mooseborzoiii | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | Top Esports | 2.08 (48¢) | $64,089 | +$69,429 | ✅ Ganada |
