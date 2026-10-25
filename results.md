@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 23:06:47 (hora de Perú)
+Actualizado: 2026-10-24 23:08:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6410**  ($361,750,047 en total)
-- Resueltas: **6366** — 3884 ganadas / 2482 perdidas (**61%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 632
+- Apuestas registradas: **6411**  ($361,779,047 en total)
+- Resueltas: **6368** — 3885 ganadas / 2483 perdidas (**61%** de acierto)
+- Pendientes: 21
+- Apostadores distintos: 633
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,438,953** sobre $359,543,346 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,762** sobre $627,800 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,451,055** sobre $359,608,710 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,774** sobre $628,000 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 
-_(mostrando los 40 de mayor monto, de 632 en total)_
+_(mostrando los 40 de mayor monto, de 633 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hovistomaradona | Will Brentford FC win on 2026-10-25? | Yes | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Nuggets | Nuggets | 1.12 (89¢) | $178,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Nuggets | Pelicans | 3.12 (32¢) | $31,123 | — | ⏳ Pendiente |
 | Woaifacai | Pelicans vs. Nuggets | Nuggets | 1.49 (67¢) | $30,804 | — | ⏳ Pendiente |
@@ -89,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | mooseborzoii | Houston vs. Utah: O/U 57.5 | Under 57.5 | 2.00 (50¢) | $38,424 | — | ⏳ Pendiente |
 | Nooserac | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $41,035 | +$10,259 | ✅ Ganada |
 | TAIWANNUMBERONE | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $38,174 | +$9,544 | ✅ Ganada |
-| Woaifacai | Tampa Bay Rays vs. Milwaukee Brewers | Tampa Bay Rays | 1.61 (62¢) | $37,135 | — | ⏳ Pendiente |
+| Woaifacai | Tampa Bay Rays vs. Milwaukee Brewers | Tampa Bay Rays | 1.61 (62¢) | $37,135 | -$37,135 | ❌ Perdida |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
 | sulumos | Warriors vs. Suns | Suns | 1.30 (77¢) | $30,810 | — | ⏳ Pendiente |
 | Woaifacai | Bucks vs. 76ers | 76ers | 1.18 (85¢) | $77,432 | +$13,664 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | yabanci | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $52,430 | -$52,430 | ❌ Perdida |
 | BrotherObama | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.27 (44¢) | $26,419 | +$33,624 | ✅ Ganada |
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.33 (43¢) | $25,800 | +$34,200 | ✅ Ganada |
-| executiveX | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.75 (57¢) | $34,200 | -$34,200 | ❌ Perdida |
