@@ -96301,5 +96301,35 @@
     "status": "pending",
     "ultimo_fill": 1792898972,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13026,
+    "timestamp": 1792899690,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "nba-nop-den-2026-10-24",
+    "title": "Pelicans vs. Nuggets",
+    "outcome": "Nuggets",
+    "side": "BUY",
+    "usd": 30803.797899999998,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1792899690,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13027,
+    "timestamp": 1792899692,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-nop-den-2026-10-24",
+    "title": "Pelicans vs. Nuggets",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 31123.4016,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "ultimo_fill": 1792899692,
+    "fills": 1
   }
 ]

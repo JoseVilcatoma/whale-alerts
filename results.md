@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 22:40:13 (hora de Perú)
+Actualizado: 2026-10-24 22:42:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6407**  ($361,510,119 en total)
+- Apuestas registradas: **6409**  ($361,572,047 en total)
 - Resueltas: **6348** — 3871 ganadas / 2477 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 39
 - Apostadores distintos: 632
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 459 | 252 | 3 | 65% | $46,191,698 | +$1,050,793 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 459 | 252 | 4 | 65% | $46,222,821 | +$1,050,793 |
 | Sassy-Bucket | 87 | 94 | 3 | 48% | $11,659,202 | -$1,822,112 |
 | mooseborzoii | 89 | 49 | 6 | 64% | $8,166,026 | +$1,140,595 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Nuggets | Pelicans | 3.12 (32¢) | $31,123 | — | ⏳ Pendiente |
+| Woaifacai | Pelicans vs. Nuggets | Nuggets | 1.49 (67¢) | $30,804 | — | ⏳ Pendiente |
 | dhgreg | Warriors vs. Suns | Suns | 1.35 (74¢) | $67,284 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $37,999 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $35,327 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.33 (43¢) | $25,800 | +$34,200 | ✅ Ganada |
 | executiveX | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.75 (57¢) | $34,200 | -$34,200 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Bulls | Wizards | 2.17 (46¢) | $216,417 | +$254,054 | ✅ Ganada |
-| googleplay | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $309,060 | +$309,060 | ✅ Ganada |
-| theowalcott | Will Philadelphia Union win on 2026-10-24? | Yes | 1.54 (65¢) | $28,129 | -$28,129 | ❌ Perdida |
