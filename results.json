@@ -97123,7 +97123,7 @@
     "side": "BUY",
     "usd": 67880.60280000001,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792937072,
     "fills": 1
   },
@@ -99135,9 +99135,11 @@
     "side": "BUY",
     "usd": 49442.0,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1792961636,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": -15995.94,
+    "precio_salida": 46
   },
   {
     "telegram_msg_id": 13365,

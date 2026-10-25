@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 18:11:33 (hora de Perú)
+Actualizado: 2026-10-25 18:13:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6646**  ($377,853,202 en total)
-- Resueltas: **6536** — 3983 ganadas / 2553 perdidas (**61%** de acierto)
-- Pendientes: 88
+- Resueltas: **6538** — 3984 ganadas / 2554 perdidas (**61%** de acierto)
+- Pendientes: 86
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,367,256** sobre $371,294,587 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,780** sobre $644,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,325,428** sobre $371,411,910 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,695** sobre $644,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 47 | 51 | 3 | 48% | $4,425,789 | -$123,120 |
 | maz26 | 36 | 23 | 5 | 61% | $4,388,312 | +$470,258 |
 | Mooseborzoiii | 17 | 17 | 3 | 50% | $3,880,917 | +$529,743 |
-| Kch-Temp | 43 | 13 | 3 | 77% | $3,864,821 | +$1,850,175 |
+| Kch-Temp | 44 | 13 | 2 | 77% | $3,864,821 | +$1,908,000 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
@@ -121,7 +121,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | jakepaulthegoat2008 | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $30,600 | — | ⏳ Pendiente |
 | 473game | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $26,336 | — | ⏳ Pendiente |
 | goweibo123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $30,666 | — | ⏳ Pendiente |
-| thewatcherofall | Packers vs. Lions | Lions | 1.47 (68¢) | $49,442 | — | ⏳ Pendiente |
+| thewatcherofall | Packers vs. Lions | Lions | 1.47 (68¢) | $49,442 | -$15,996 | 💰 Vendida antes |
 | TAIWANNUMBERONE | Rams vs. Raiders | Rams | 1.35 (74¢) | $29,833 | — | ⏳ Pendiente |
 | EdZachary | Pacers vs. Nets | Nets | 3.03 (33¢) | $25,390 | — | ⏳ Pendiente |
 | milkteaboba | Broncos vs. Cardinals | Broncos | 1.35 (74¢) | $129,608 | — | ⏳ Pendiente |
