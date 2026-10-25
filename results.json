@@ -99425,5 +99425,35 @@
     "status": "pending",
     "ultimo_fill": 1792965708,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13392,
+    "timestamp": 1792966077,
+    "username": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "slug": "nba-lac-okc-2026-10-25-total-223pt5",
+    "title": "Clippers vs. Thunder: O/U 223.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 25015.169999999995,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792966077,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13393,
+    "timestamp": 1792966093,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "nba-tor-min-2026-10-25-spread-home-3pt5",
+    "title": "Spread: Timberwolves (-3.5)",
+    "outcome": "Timberwolves",
+    "side": "BUY",
+    "usd": 152922.1944,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792966118,
+    "fills": 2
   }
 ]

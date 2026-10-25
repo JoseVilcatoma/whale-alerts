@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:07:36 (hora de Perú)
+Actualizado: 2026-10-25 17:09:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6615**  ($375,622,756 en total)
+- Apuestas registradas: **6617**  ($375,800,693 en total)
 - Resueltas: **6503** — 3966 ganadas / 2537 perdidas (**61%** de acierto)
-- Pendientes: 90
+- Pendientes: 92
 - Apostadores distintos: 643
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Spread: Timberwolves (-3.5) | Timberwolves | 1.96 (51¢) | $152,922 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Thunder: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $25,015 | — | ⏳ Pendiente |
 | mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.79 (56¢) | $43,500 | — | ⏳ Pendiente |
 | ropetard | Raptors vs. Timberwolves | Timberwolves | 2.00 (50¢) | $80,558 | — | ⏳ Pendiente |
 | ColdBlooded | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $40,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Eugycom | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $40,310 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Spread: Knicks (-7.5) | Magic | 1.96 (51¢) | $25,037 | — | ⏳ Pendiente |
 | BrotherObama | Raptors vs. Timberwolves | Timberwolves | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Spread: Grizzlies (-3.5) | Grizzlies | 2.04 (49¢) | $30,153 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
