@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:52:42 (hora de Perú)
+Actualizado: 2026-10-25 11:54:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6510**  ($368,350,868 en total)
+- Apuestas registradas: **6511**  ($368,394,302 en total)
 - Resueltas: **6422** — 3919 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 66
+- Pendientes: 67
 - Apostadores distintos: 637
 
 ### Balance
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
-| Mooseborzoiii | 13 | 17 | 0 | 43% | $2,707,146 | +$25,890 |
+| Mooseborzoiii | 13 | 17 | 1 | 43% | $2,750,581 | +$25,890 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | S-Works | 16 | 7 | 1 | 70% | $2,455,714 | -$255,521 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | Browns vs. Titans | Browns | 1.85 (54¢) | $43,435 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Lakers (-6.5) | Jazz | 2.00 (50¢) | $35,068 | — | ⏳ Pendiente |
 | salgnklasf | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.10 (91¢) | $77,127 | — | ⏳ Pendiente |
 | RegardedMoney | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $314,432 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 | googleplay | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $28,563 | -$28,563 | ❌ Perdida |
 | omnibus-076daa | Athletic Club vs. Getafe CF: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $61,341 | +$72,009 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: G2 vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | G2 | 2.33 (43¢) | $25,800 | -$25,800 | ❌ Perdida |
-| mooseborzoii | Panthers vs. Blackhawks | Panthers | 1.61 (62¢) | $25,587 | — | ⏳ Pendiente |
