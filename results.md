@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 08:45:13 (hora de Perú)
+Actualizado: 2026-10-25 08:47:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6457**  ($363,783,066 en total)
+- Apuestas registradas: **6458**  ($363,819,066 en total)
 - Resueltas: **6400** — 3908 ganadas / 2492 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 635
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $36,000 | — | ⏳ Pendiente |
 | nb1985 | Will Atalanta BC win on 2026-10-25? | No | 1.92 (52¢) | $69,169 | — | ⏳ Pendiente |
 | Kch-Temp | Will Genoa CFC win on 2026-10-25? | Yes | 2.33 (43¢) | $35,785 | — | ⏳ Pendiente |
 | mooseborzoii | Magic vs. Knicks: O/U 224.5 | Under 224.5 | 2.00 (50¢) | $55,463 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | ferrariChampions2026 | Ole Miss vs. Texas | Ole Miss | 2.50 (40¢) | $39,256 | -$39,256 | ❌ Perdida |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.67 (60¢) | $58,856 | +$39,237 | ✅ Ganada |
 | TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.35 (74¢) | $26,104 | +$9,172 | ✅ Ganada |
-| Zywoo123 | Warriors vs. Suns | Suns | 1.28 (78¢) | $29,615 | +$8,353 | ✅ Ganada |
