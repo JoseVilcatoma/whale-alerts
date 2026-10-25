@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 23:56:08 (hora de Perú)
+Actualizado: 2026-10-24 23:58:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6413**  ($361,920,202 en total)
-- Resueltas: **6377** — 3890 ganadas / 2487 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **6380** — 3893 ganadas / 2487 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 633
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,276,331** sobre $360,369,815 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,906** sobre $628,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,235,135** sobre $360,497,524 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,813** sobre $629,200 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Nuggets | Nuggets | 1.12 (89¢) | $178,000 | +$22,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Nuggets | Pelicans | 3.12 (32¢) | $31,123 | -$31,123 | ❌ Perdida |
 | Woaifacai | Pelicans vs. Nuggets | Nuggets | 1.49 (67¢) | $30,804 | +$15,172 | ✅ Ganada |
-| dhgreg | Warriors vs. Suns | Suns | 1.35 (74¢) | $67,284 | — | ⏳ Pendiente |
+| dhgreg | Warriors vs. Suns | Suns | 1.35 (74¢) | $67,284 | +$23,640 | ✅ Ganada |
 | 0x6db5…e279 | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $37,999 | +$5,182 | ✅ Ganada |
 | TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $35,327 | +$4,817 | ✅ Ganada |
 | tin54321 | Pelicans vs. Nuggets | Pelicans | 1.20 (83¢) | $90,109 | -$90,109 | ❌ Perdida |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | ferrariChampions2026 | Ole Miss vs. Texas | Ole Miss | 2.50 (40¢) | $39,256 | -$39,256 | ❌ Perdida |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.67 (60¢) | $58,856 | +$39,237 | ✅ Ganada |
 | TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.35 (74¢) | $26,104 | +$9,172 | ✅ Ganada |
-| Zywoo123 | Warriors vs. Suns | Suns | 1.28 (78¢) | $29,615 | — | ⏳ Pendiente |
+| Zywoo123 | Warriors vs. Suns | Suns | 1.28 (78¢) | $29,615 | +$8,353 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Utah (-6.5) | Houston | 2.04 (49¢) | $49,247 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Pelicans vs. Nuggets | Pelicans | 1.52 (66¢) | $27,186 | -$27,186 | ❌ Perdida |
 | mooseborzoii | Houston vs. Utah: O/U 57.5 | Under 57.5 | 2.00 (50¢) | $38,424 | — | ⏳ Pendiente |
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | TAIWANNUMBERONE | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $38,174 | +$9,544 | ✅ Ganada |
 | Woaifacai | Tampa Bay Rays vs. Milwaukee Brewers | Tampa Bay Rays | 1.61 (62¢) | $37,135 | -$37,135 | ❌ Perdida |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
-| sulumos | Warriors vs. Suns | Suns | 1.30 (77¢) | $30,810 | — | ⏳ Pendiente |
+| sulumos | Warriors vs. Suns | Suns | 1.30 (77¢) | $30,810 | +$9,203 | ✅ Ganada |
 | Woaifacai | Bucks vs. 76ers | 76ers | 1.18 (85¢) | $77,432 | +$13,664 | ✅ Ganada |
 | Netrol | Spread: Nuggets (-11.5) | Nuggets | 2.08 (48¢) | $27,960 | -$27,960 | ❌ Perdida |
 | googleplay | Spread: Nuggets (-11.5) | Pelicans | 1.89 (53¢) | $317,928 | +$281,936 | ✅ Ganada |
