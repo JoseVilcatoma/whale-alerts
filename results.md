@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 12:01:04 (hora de Perú)
+Actualizado: 2026-10-25 12:03:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6516**  ($368,961,486 en total)
-- Resueltas: **6424** — 3921 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 70
+- Apuestas registradas: **6518**  ($369,079,331 en total)
+- Resueltas: **6428** — 3925 ganadas / 2503 perdidas (**61%** de acierto)
+- Pendientes: 68
 - Apostadores distintos: 637
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,069,541** sobre $362,713,828 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,835** sobre $633,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$1,833,106** sobre $363,120,340 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,594** sobre $634,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,8 +25,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 6 | 65% | $47,041,017 | +$1,143,151 |
-| Sassy-Bucket | 88 | 94 | 6 | 48% | $12,038,465 | -$1,662,107 |
-| mooseborzoii | 93 | 50 | 4 | 65% | $8,273,570 | +$1,154,984 |
+| Sassy-Bucket | 90 | 94 | 5 | 49% | $12,066,678 | -$1,490,411 |
+| mooseborzoii | 93 | 50 | 5 | 65% | $8,363,203 | +$1,154,984 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 3 | 62% | $7,945,894 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Browns vs. Titans | Titans | 2.22 (45¢) | $89,633 | — | ⏳ Pendiente |
+| Sassy-Bucket | Spread: Vikings (-6.5) | Colts | 2.13 (47¢) | $28,212 | — | ⏳ Pendiente |
 | sinasinner | Spread: 49ers (-2.5) | Falcons | 1.96 (51¢) | $25,000 | — | ⏳ Pendiente |
 | chubbytoro | Buccaneers vs. Panthers | Panthers | 1.69 (59¢) | $47,200 | — | ⏳ Pendiente |
 | Mooseborzoiii | Browns vs. Titans | Browns | 1.82 (55¢) | $412,500 | — | ⏳ Pendiente |
@@ -113,21 +115,19 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 | tikstt2 | Will Leeds United FC win on 2026-10-25? | No | 1.52 (66¢) | $33,474 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $448,587 | +$44,366 | ✅ Ganada |
 | Nooserac | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $45,500 | +$4,500 | ✅ Ganada |
-| Sassy-Bucket | Steelers vs. Saints | Steelers | 1.56 (64¢) | $193,906 | — | ⏳ Pendiente |
-| Sassy-Bucket | Steelers vs. Saints | Steelers | 1.59 (63¢) | $106,630 | — | ⏳ Pendiente |
+| Sassy-Bucket | Steelers vs. Saints | Steelers | 1.56 (64¢) | $193,906 | +$109,072 | ✅ Ganada |
+| Sassy-Bucket | Steelers vs. Saints | Steelers | 1.59 (63¢) | $106,630 | +$62,624 | ✅ Ganada |
 | veliMax | Will Liverpool FC win on 2026-10-25? | Yes | 1.14 (88¢) | $55,726 | +$7,599 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.16 (86¢) | $37,196 | — | ⏳ Pendiente |
 | justwins | Spread: Texans (-10.5) | Giants | 1.96 (51¢) | $25,896 | — | ⏳ Pendiente |
 | migrodrigues | Spread: FC Barcelona (-3.5) | FC Barcelona | 7.69 (13¢) | $66,000 | — | ⏳ Pendiente |
-| juice-fruit | Steelers vs. Saints | Steelers | 1.59 (63¢) | $74,496 | — | ⏳ Pendiente |
+| juice-fruit | Steelers vs. Saints | Steelers | 1.59 (63¢) | $74,496 | +$43,752 | ✅ Ganada |
 | Pwaddler | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $32,922 | — | ⏳ Pendiente |
 | halanddd123 | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.35 (74¢) | $40,382 | — | ⏳ Pendiente |
-| KaneAnalytics | Steelers vs. Saints | Steelers | 1.67 (60¢) | $31,479 | — | ⏳ Pendiente |
+| KaneAnalytics | Steelers vs. Saints | Steelers | 1.67 (60¢) | $31,479 | +$20,986 | ✅ Ganada |
 | Woaifacai | Will Hull City AFC win on 2026-10-25? | No | 1.67 (60¢) | $50,232 | +$33,488 | ✅ Ganada |
 | Woaifacai | Hull City AFC vs. Brentford FC: O/U 2.5 | Under 2.5 | 1.79 (56¢) | $53,390 | +$41,950 | ✅ Ganada |
 | Kch-Temp | Broncos vs. Cardinals: O/U 42.5 | Over 42.5 | 1.85 (54¢) | $67,881 | — | ⏳ Pendiente |
 | Takon88 | Will Real Betis Balompié win on 2026-10-25? | No | 1.67 (60¢) | $75,442 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Genoa CFC vs. Venezia FC: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $30,306 | -$30,306 | ❌ Perdida |
 | googleplay | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $41,300 | -$41,300 | ❌ Perdida |
-| monkeymashingkeyboard | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $36,000 | — | ⏳ Pendiente |
-| nb1985 | Will Atalanta BC win on 2026-10-25? | No | 1.92 (52¢) | $69,169 | +$63,848 | ✅ Ganada |
