@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 05:23:10 (hora de Perú)
+Actualizado: 2026-10-25 05:25:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6434**  ($362,785,319 en total)
+- Apuestas registradas: **6435**  ($362,869,175 en total)
 - Resueltas: **6391** — 3903 ganadas / 2488 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 633
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1l2ihj34li12u34 | Will FC Barcelona win on 2026-10-25? | Yes | 1.67 (60¢) | $83,856 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Vitality vs TheMongolz (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.23 (81¢) | $32,982 | — | ⏳ Pendiente |
 | robustmst | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Leylah Fernandez | 2.56 (39¢) | $25,000 | — | ⏳ Pendiente |
 | Woaifacai | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Elena Rybakina | 1.37 (73¢) | $70,059 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | yabanci | Rockets vs. Hawks: O/U 227.5 | Under 227.5 | 2.13 (47¢) | $50,290 | -$50,290 | ❌ Perdida |
 | OhWhenTheReds | Will CF Monterrey win on 2026-10-24? | No | 1.67 (60¢) | $26,224 | +$17,482 | ✅ Ganada |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.37 (73¢) | $37,115 | +$13,727 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Hornets | Heat | 2.94 (34¢) | $34,000 | -$34,000 | ❌ Perdida |
