@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 22:21:41 (hora de Perú)
+Actualizado: 2026-10-24 22:23:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6406**  ($361,442,836 en total)
-- Resueltas: **6344** — 3869 ganadas / 2475 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Resueltas: **6345** — 3869 ganadas / 2476 perdidas (**61%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,362,129** sobre $358,229,868 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,929** sobre $625,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,412,419** sobre $358,280,158 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,029** sobre $625,700 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | 3648393489047 | Ole Miss vs. Texas | Texas | 1.41 (71¢) | $26,210 | — | ⏳ Pendiente |
 | KaneAnalytics | Utah State vs. Texas State | Texas State | 1.49 (67¢) | $37,135 | +$18,291 | ✅ Ganada |
 | ferrariChampions2026 | Heat vs. Hornets | Hornets | 1.06 (94¢) | $25,403 | +$1,621 | ✅ Ganada |
-| yabanci | Rockets vs. Hawks: O/U 227.5 | Under 227.5 | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
+| yabanci | Rockets vs. Hawks: O/U 227.5 | Under 227.5 | 2.13 (47¢) | $50,290 | -$50,290 | ❌ Perdida |
 | OhWhenTheReds | Will CF Monterrey win on 2026-10-24? | No | 1.67 (60¢) | $26,224 | — | ⏳ Pendiente |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.37 (73¢) | $37,115 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Hornets | Heat | 2.94 (34¢) | $34,000 | -$34,000 | ❌ Perdida |
