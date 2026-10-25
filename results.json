@@ -96946,5 +96946,35 @@
     "status": "pending",
     "ultimo_fill": 1792933033,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13120,
+    "timestamp": 1792933144,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nhl-fla-chi-2026-10-25",
+    "title": "Panthers vs. Blackhawks",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 25586.7614,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1792933144,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13121,
+    "timestamp": 1792933164,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "cs2-g2-aur1-2026-10-25",
+    "title": "Counter-Strike: G2 vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 25800.0,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1792933164,
+    "fills": 1
   }
 ]
