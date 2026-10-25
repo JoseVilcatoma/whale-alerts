@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 21:37:37 (hora de Perú)
+Actualizado: 2026-10-24 21:39:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6399**  ($361,103,797 en total)
-- Resueltas: **6324** — 3856 ganadas / 2468 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Apuestas registradas: **6400**  ($361,162,653 en total)
+- Resueltas: **6328** — 3859 ganadas / 2469 perdidas (**61%** de acierto)
+- Pendientes: 50
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,314,369** sobre $356,659,330 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$7,272** sobre $623,600 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,244,720** sobre $356,842,743 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$7,210** sobre $624,000 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,10 +26,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 458 | 251 | 5 | 65% | $46,191,698 | +$897,932 |
 | Sassy-Bucket | 87 | 93 | 4 | 48% | $11,659,202 | -$1,554,417 |
-| mooseborzoii | 89 | 48 | 6 | 65% | $8,107,170 | +$1,184,914 |
+| mooseborzoii | 89 | 48 | 7 | 65% | $8,166,026 | +$1,184,914 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 1 | 51% | $7,477,793 | -$661,667 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 102 | 52 | 0 | 66% | $6,737,037 | +$163,636 |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 25 | 0 | 71% | $5,149,705 | -$186,637 |
 | googleplay | 15 | 16 | 2 | 48% | $4,963,340 | -$196,744 |
 | BrotherObama | 47 | 51 | 2 | 48% | $4,400,789 | -$123,120 |
-| maz26 | 32 | 21 | 3 | 60% | $3,818,660 | +$365,369 |
+| maz26 | 33 | 21 | 2 | 61% | $3,818,660 | +$447,016 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | Kch-Temp | 42 | 11 | 1 | 79% | $3,510,019 | +$1,904,316 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 25 | 22 | 2 | 53% | $2,286,861 | +$209,155 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| TAIWANNUMBERONE | 31 | 17 | 2 | 65% | $1,922,301 | -$183,942 |
+| TAIWANNUMBERONE | 32 | 17 | 1 | 65% | $1,922,301 | -$174,399 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Ole Miss vs. Texas | Texas | 1.67 (60¢) | $58,856 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.35 (74¢) | $26,104 | — | ⏳ Pendiente |
 | Zywoo123 | Warriors vs. Suns | Suns | 1.28 (78¢) | $29,615 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Utah (-6.5) | Houston | 2.04 (49¢) | $49,247 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Pelicans vs. Nuggets | Pelicans | 1.52 (66¢) | $27,186 | — | ⏳ Pendiente |
 | mooseborzoii | Houston vs. Utah: O/U 57.5 | Under 57.5 | 2.00 (50¢) | $38,424 | — | ⏳ Pendiente |
-| Nooserac | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $41,035 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $38,174 | — | ⏳ Pendiente |
+| Nooserac | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $41,035 | +$10,259 | ✅ Ganada |
+| TAIWANNUMBERONE | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $38,174 | +$9,544 | ✅ Ganada |
 | Woaifacai | Tampa Bay Rays vs. Milwaukee Brewers | Tampa Bay Rays | 1.61 (62¢) | $37,135 | — | ⏳ Pendiente |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.11 (90¢) | $45,000 | — | ⏳ Pendiente |
 | sulumos | Warriors vs. Suns | Suns | 1.30 (77¢) | $30,810 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | mooseborzoii | Spread: Oklahoma State (-13.5) | Colorado | 1.96 (51¢) | $44,319 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.33 (43¢) | $68,536 | +$90,850 | ✅ Ganada |
 | mooseborzoii | Ole Miss vs. Texas | Ole Miss | 2.44 (41¢) | $82,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Clemson (-2.5) | Clemson | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
-| gmpm2 | Spread: Clemson (-2.5) | Virginia Tech | 2.13 (47¢) | $72,404 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Clemson (-2.5) | Clemson | 1.89 (53¢) | $31,800 | -$31,800 | ❌ Perdida |
