@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 00:00:14 (hora de Perú)
+Actualizado: 2026-10-25 00:02:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6414**  ($362,001,383 en total)
-- Resueltas: **6380** — 3893 ganadas / 2487 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **6382** — 3895 ganadas / 2487 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 633
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,235,135** sobre $360,497,524 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,813** sobre $629,200 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,185,434** sobre $360,579,032 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,690** sobre $629,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 28 | 15 | 0 | 65% | $2,337,048 | +$412,352 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| Talvez10 | 26 | 22 | 1 | 54% | $2,286,861 | +$247,232 |
+| Talvez10 | 27 | 22 | 0 | 55% | $2,286,861 | +$269,729 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 34 | 17 | 0 | 67% | $1,957,629 | -$160,410 |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | Woaifacai | Bucks vs. 76ers | 76ers | 1.18 (85¢) | $77,432 | +$13,664 | ✅ Ganada |
 | Netrol | Spread: Nuggets (-11.5) | Nuggets | 2.08 (48¢) | $27,960 | -$27,960 | ❌ Perdida |
 | googleplay | Spread: Nuggets (-11.5) | Pelicans | 1.89 (53¢) | $317,928 | +$281,936 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Kraken | Wild | 1.59 (63¢) | $46,321 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Kraken | Wild | 1.59 (63¢) | $46,321 | +$27,204 | ✅ Ganada |
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.00 (50¢) | $27,560 | +$27,560 | ✅ Ganada |
 | KaneAnalytics | Ole Miss vs. Texas | Texas | 1.19 (84¢) | $50,400 | +$9,600 | ✅ Ganada |
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.04 (49¢) | $59,901 | +$62,346 | ✅ Ganada |
