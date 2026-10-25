@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 19:37:46 (hora de Perú)
+Actualizado: 2026-10-24 19:39:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6383**  ($360,168,381 en total)
+- Apuestas registradas: **6383**  ($360,193,467 en total)
 - Resueltas: **6286** — 3835 ganadas / 2451 perdidas (**61%** de acierto)
 - Pendientes: 75
 - Apostadores distintos: 632
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.04 (49¢) | $34,815 | — | ⏳ Pendiente |
+| theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.04 (49¢) | $59,901 | — | ⏳ Pendiente |
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.08 (48¢) | $33,181 | — | ⏳ Pendiente |
 | 3648393489047 | Ole Miss vs. Texas | Texas | 1.41 (71¢) | $26,210 | — | ⏳ Pendiente |
 | KaneAnalytics | Utah State vs. Texas State | Texas State | 1.49 (67¢) | $37,135 | — | ⏳ Pendiente |
