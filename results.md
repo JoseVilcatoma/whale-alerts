@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 08:47:14 (hora de Perú)
+Actualizado: 2026-10-25 08:49:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6458**  ($363,819,066 en total)
-- Resueltas: **6400** — 3908 ganadas / 2492 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **6401** — 3908 ganadas / 2493 perdidas (**61%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 635
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,133,093** sobre $361,273,139 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,531** sobre $631,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,174,118** sobre $361,314,164 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,631** sobre $631,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | Matheobong | FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
 | migrodrigues | Will FC Barcelona win on 2026-10-25? | No | 2.50 (40¢) | $58,178 | — | ⏳ Pendiente |
 | Jokerxing7 | FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5 | Over 3.5 | 2.00 (50¢) | $43,000 | — | ⏳ Pendiente |
-| Jokerxing7 | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 2.00 (50¢) | $41,025 | — | ⏳ Pendiente |
+| Jokerxing7 | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 2.00 (50¢) | $41,025 | -$41,025 | ❌ Perdida |
 | NeverLoseBet | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $25,322 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will FC Barcelona win on 2026-10-25? | Yes | 1.67 (60¢) | $83,856 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Vitality vs TheMongolz (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.23 (81¢) | $32,982 | +$7,737 | ✅ Ganada |
