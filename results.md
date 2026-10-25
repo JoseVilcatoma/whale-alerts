@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:59:02 (hora de Perú)
+Actualizado: 2026-10-25 18:01:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6643**  ($377,744,037 en total)
+- Apuestas registradas: **6645**  ($377,819,663 en total)
 - Resueltas: **6536** — 3983 ganadas / 2553 perdidas (**61%** de acierto)
-- Pendientes: 85
+- Pendientes: 87
 - Apostadores distintos: 643
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 473 | 254 | 10 | 65% | $48,135,980 | +$1,725,672 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 473 | 254 | 11 | 65% | $48,174,706 | +$1,725,672 |
 | Sassy-Bucket | 93 | 94 | 3 | 50% | $12,103,975 | -$1,393,191 |
 | mooseborzoii | 95 | 53 | 3 | 64% | $8,577,252 | +$952,942 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $38,727 | — | ⏳ Pendiente |
+| dhgreg | Spread: Thunder (-13.5) | Clippers | 2.44 (41¢) | $36,900 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $33,434 | — | ⏳ Pendiente |
 | ndb1 | Clippers vs. Thunder | Thunder | 1.11 (90¢) | $266,144 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Canadiens vs. Jets | Jets | 2.08 (48¢) | $34,715 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | takeormake | Spread: Lions (-3.5) | Packers | 2.13 (47¢) | $66,589 | — | ⏳ Pendiente |
 | veliMax | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $67,223 | -$67,223 | ❌ Perdida |
 | juice-fruit | Packers vs. Lions | Lions | 1.52 (66¢) | $98,677 | — | ⏳ Pendiente |
-| Donkey14 | Rams vs. Raiders | Raiders | 2.63 (38¢) | $100,000 | — | ⏳ Pendiente |
-| sinasinner | Spread: Broncos (-4.5) | Broncos | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
