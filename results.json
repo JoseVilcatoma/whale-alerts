@@ -96376,5 +96376,20 @@
     "status": "pending",
     "ultimo_fill": 1792902083,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13060,
+    "timestamp": 1792903262,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "lal-bar-rea-2026-10-25-total-4pt5",
+    "title": "FC Barcelona vs. Real Madrid CF: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 114035.08,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792903262,
+    "fills": 1
   }
 ]

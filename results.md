@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 23:39:33 (hora de Perú)
+Actualizado: 2026-10-24 23:41:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6412**  ($361,806,167 en total)
+- Apuestas registradas: **6413**  ($361,920,202 en total)
 - Resueltas: **6377** — 3890 ganadas / 2487 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 633
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Under 4.5 | 1.85 (54¢) | $114,035 | — | ⏳ Pendiente |
 | hovistomaradona | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $27,120 | — | ⏳ Pendiente |
 | hovistomaradona | Will Brentford FC win on 2026-10-25? | Yes | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Nuggets | Nuggets | 1.12 (89¢) | $178,000 | +$22,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.13 (47¢) | $379,159 | +$427,563 | ✅ Ganada |
 | Sassy-Bucket | Ole Miss vs. Texas | Texas | 1.67 (60¢) | $240,007 | +$160,005 | ✅ Ganada |
 | yabanci | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $52,430 | -$52,430 | ❌ Perdida |
-| BrotherObama | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.27 (44¢) | $26,419 | +$33,624 | ✅ Ganada |
