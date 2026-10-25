@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:56:59 (hora de Perú)
+Actualizado: 2026-10-25 17:59:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6643**  ($377,744,037 en total)
-- Resueltas: **6535** — 3982 ganadas / 2553 perdidas (**61%** de acierto)
-- Pendientes: 86
+- Resueltas: **6536** — 3983 ganadas / 2553 perdidas (**61%** de acierto)
+- Pendientes: 85
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,381,757** sobre $371,214,029 apostados (ROI **-0.6%**)
+- **Resultado de los apostadores: -$2,367,256** sobre $371,294,587 apostados (ROI **-0.6%**)
 - Copiando $100 fijo en cada una: **-$6,780** sobre $644,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | RJW1 | Spread: Timberwolves (-3.5) | Timberwolves | 1.96 (51¢) | $152,922 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Thunder: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $25,015 | — | ⏳ Pendiente |
 | mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.79 (56¢) | $43,500 | — | ⏳ Pendiente |
-| ropetard | Raptors vs. Timberwolves | Timberwolves | 2.00 (50¢) | $80,558 | — | ⏳ Pendiente |
+| ropetard | Raptors vs. Timberwolves | Timberwolves | 2.00 (50¢) | $80,558 | +$14,500 | 💰 Vendida antes |
 | ColdBlooded | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $40,500 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $33,530 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.25 (80¢) | $40,000 | — | ⏳ Pendiente |
