@@ -96618,7 +96618,7 @@
     "fills": 1
   },
   {
-    "telegram_msg_id": null,
+    "telegram_msg_id": 13087,
     "timestamp": 1792916560,
     "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
     "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
@@ -96630,6 +96630,21 @@
     "odds_at_bet": 41,
     "status": "pending",
     "ultimo_fill": 1792916560,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13088,
+    "timestamp": 1792916660,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lal-bar-rea-2026-10-25-rea",
+    "title": "Will Real Madrid CF win on 2026-10-25?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 34916.8092,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "ultimo_fill": 1792916660,
     "fills": 1
   }
 ]
