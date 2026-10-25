@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 20:28:04 (hora de Perú)
+Actualizado: 2026-10-24 20:30:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6391**  ($360,816,878 en total)
-- Resueltas: **6304** — 3843 ganadas / 2461 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Resueltas: **6305** — 3844 ganadas / 2461 perdidas (**61%** de acierto)
+- Pendientes: 64
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,799,833** sobre $355,398,764 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,502** sobre $621,600 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,789,458** sobre $355,431,618 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,471** sobre $621,700 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | KaneAnalytics | San Diego State vs. Colorado State | Colorado State | 1.59 (63¢) | $57,155 | — | ⏳ Pendiente |
 | KaneAnalytics | Ole Miss vs. Texas | Texas | 1.43 (70¢) | $26,651 | — | ⏳ Pendiente |
 | big8betz | Wizards vs. Bulls | Wizards | 2.08 (48¢) | $49,000 | — | ⏳ Pendiente |
-| HVAB | Fort Worth: Jenson Brooksby vs Gabriel Debru | Jenson Brooksby | 1.32 (76¢) | $32,854 | — | ⏳ Pendiente |
+| HVAB | Fort Worth: Jenson Brooksby vs Gabriel Debru | Jenson Brooksby | 1.32 (76¢) | $32,854 | +$10,375 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $89,965 | — | ⏳ Pendiente |
 | juice-fruit | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $34,601 | — | ⏳ Pendiente |
 | Eugycom | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $34,300 | — | ⏳ Pendiente |
