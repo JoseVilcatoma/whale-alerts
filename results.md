@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:09:38 (hora de Perú)
+Actualizado: 2026-10-25 17:11:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6617**  ($375,800,693 en total)
-- Resueltas: **6503** — 3966 ganadas / 2537 perdidas (**61%** de acierto)
+- Apuestas registradas: **6619**  ($375,874,839 en total)
+- Resueltas: **6505** — 3968 ganadas / 2537 perdidas (**61%** de acierto)
 - Pendientes: 92
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,128,197** sobre $368,852,444 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,631** sobre $641,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,097,715** sobre $368,903,231 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,511** sobre $641,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 466 | 254 | 13 | 65% | $47,923,123 | +$1,350,315 |
 | Sassy-Bucket | 93 | 94 | 2 | 50% | $12,066,678 | -$1,393,191 |
-| mooseborzoii | 94 | 53 | 4 | 64% | $8,577,252 | +$937,260 |
+| mooseborzoii | 95 | 53 | 3 | 64% | $8,577,252 | +$952,942 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 3 | 62% | $7,945,894 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ethanaz | 60 | 26 | 0 | 70% | $5,197,196 | -$234,128 |
+| ethanaz | 60 | 26 | 1 | 70% | $5,234,064 | -$234,128 |
 | BrotherObama | 47 | 51 | 3 | 48% | $4,425,789 | -$123,120 |
 | maz26 | 36 | 23 | 4 | 61% | $4,358,843 | +$470,258 |
 | Kch-Temp | 43 | 13 | 3 | 77% | $3,864,821 | +$1,850,175 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Packers vs. Lions | Packers | 2.08 (48¢) | $36,868 | — | ⏳ Pendiente |
+| Siddhartha1 | Spread: Pacers (-6.5) | Pacers | 2.08 (48¢) | $37,278 | — | ⏳ Pendiente |
 | RJW1 | Spread: Timberwolves (-3.5) | Timberwolves | 1.96 (51¢) | $152,922 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Thunder: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $25,015 | — | ⏳ Pendiente |
 | mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.79 (56¢) | $43,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Texans | 2.27 (44¢) | $59,451 | -$59,451 | ❌ Perdida |
 | sbsigner | Packers vs. Lions | Lions | 1.54 (65¢) | $46,429 | — | ⏳ Pendiente |
 | Eugycom | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $40,310 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Spread: Knicks (-7.5) | Magic | 1.96 (51¢) | $25,037 | — | ⏳ Pendiente |
-| BrotherObama | Raptors vs. Timberwolves | Timberwolves | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
