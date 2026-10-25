@@ -96736,5 +96736,20 @@
     "status": "pending",
     "ultimo_fill": 1792924679,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13099,
+    "timestamp": 1792924798,
+    "username": "Jokerxing7",
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "slug": "sea-int-fio-2026-10-25-spread-home-1pt5",
+    "title": "Spread: FC Internazionale Milano (-1.5)",
+    "outcome": "FC Internazionale Milano",
+    "side": "BUY",
+    "usd": 41024.6,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792924798,
+    "fills": 1
   }
 ]
