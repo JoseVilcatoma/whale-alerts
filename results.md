@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:06:40 (hora de Perú)
+Actualizado: 2026-10-25 11:08:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6491**  ($366,333,902 en total)
-- Resueltas: **6407** — 3912 ganadas / 2495 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Resueltas: **6410** — 3913 ganadas / 2497 perdidas (**61%** de acierto)
+- Pendientes: 59
 - Apostadores distintos: 636
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,140,523** sobre $361,568,268 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,598** sobre $631,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,180,274** sobre $361,703,359 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,720** sobre $632,200 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 13 | 0 | 57% | $3,063,662 | +$459,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
-| Mooseborzoiii | 13 | 15 | 2 | 46% | $2,707,146 | +$107,590 |
+| Mooseborzoiii | 13 | 17 | 0 | 43% | $2,707,146 | +$25,890 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | S-Works | 16 | 7 | 0 | 70% | $2,371,320 | -$255,521 |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 | halanddd123 | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.35 (74¢) | $40,382 | — | ⏳ Pendiente |
 | KaneAnalytics | Steelers vs. Saints | Steelers | 1.67 (60¢) | $31,479 | — | ⏳ Pendiente |
 | Woaifacai | Will Hull City AFC win on 2026-10-25? | No | 1.67 (60¢) | $50,232 | — | ⏳ Pendiente |
-| Woaifacai | Hull City AFC vs. Brentford FC: O/U 2.5 | Under 2.5 | 1.79 (56¢) | $53,390 | — | ⏳ Pendiente |
+| Woaifacai | Hull City AFC vs. Brentford FC: O/U 2.5 | Under 2.5 | 1.79 (56¢) | $53,390 | +$41,950 | ✅ Ganada |
 | Kch-Temp | Broncos vs. Cardinals: O/U 42.5 | Over 42.5 | 1.85 (54¢) | $67,881 | — | ⏳ Pendiente |
 | Takon88 | Will Real Betis Balompié win on 2026-10-25? | No | 1.67 (60¢) | $75,442 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Genoa CFC vs. Venezia FC: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $30,306 | — | ⏳ Pendiente |
@@ -110,9 +110,9 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 | mooseborzoii | Magic vs. Knicks: O/U 224.5 | Under 224.5 | 2.00 (50¢) | $55,463 | — | ⏳ Pendiente |
 | googleplay | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $28,563 | — | ⏳ Pendiente |
 | omnibus-076daa | Athletic Club vs. Getafe CF: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $61,341 | +$72,009 | ✅ Ganada |
-| Mooseborzoiii | Counter-Strike: G2 vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | G2 | 2.33 (43¢) | $25,800 | — | ⏳ Pendiente |
+| Mooseborzoiii | Counter-Strike: G2 vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | G2 | 2.33 (43¢) | $25,800 | -$25,800 | ❌ Perdida |
 | mooseborzoii | Panthers vs. Blackhawks | Panthers | 1.61 (62¢) | $25,587 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: G2 vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | G2 | 2.33 (43¢) | $55,900 | — | ⏳ Pendiente |
+| Mooseborzoiii | Counter-Strike: G2 vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | G2 | 2.33 (43¢) | $55,900 | -$55,900 | ❌ Perdida |
 | 4217893367451 | Counter-Strike: MOUZ vs 9z (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.33 (75¢) | $52,499 | +$17,500 | ✅ Ganada |
 | gmpm2 | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $54,236 | — | ⏳ Pendiente |
 | juice-fruit | Will Celtic FC win on 2026-10-25? | Yes | 1.69 (59¢) | $26,565 | +$18,460 | ✅ Ganada |
