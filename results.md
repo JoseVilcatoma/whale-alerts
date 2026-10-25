@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:36:53 (hora de Perú)
+Actualizado: 2026-10-25 15:39:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6591**  ($374,073,510 en total)
-- Resueltas: **6487** — 3956 ganadas / 2531 perdidas (**61%** de acierto)
-- Pendientes: 82
+- Resueltas: **6495** — 3960 ganadas / 2535 perdidas (**61%** de acierto)
+- Pendientes: 74
 - Apostadores distintos: 641
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,912,642** sobre $367,585,534 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$6,954** sobre $639,800 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,158,330** sobre $368,231,766 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,740** sobre $640,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,15 +24,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 464 | 253 | 14 | 65% | $47,738,194 | +$1,206,151 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 466 | 254 | 11 | 65% | $47,738,194 | +$1,350,315 |
 | Sassy-Bucket | 93 | 94 | 2 | 50% | $12,066,678 | -$1,393,191 |
-| mooseborzoii | 93 | 53 | 4 | 64% | $8,533,753 | +$915,195 |
+| mooseborzoii | 94 | 53 | 3 | 64% | $8,533,753 | +$937,260 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 3 | 62% | $7,945,894 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 103 | 54 | 3 | 66% | $6,941,599 | +$125,287 |
+| ferrariChampions2026 | 103 | 55 | 2 | 65% | $6,941,599 | +$90,790 |
 | Lakersfan111 | 83 | 47 | 8 | 64% | $6,610,287 | +$245,409 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | googleplay | 17 | 21 | 0 | 45% | $6,000,572 | -$366,994 |
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | cosmicxbt | 20 | 8 | 1 | 71% | $3,153,830 | -$394,523 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
-| milkteaboba | 13 | 11 | 1 | 54% | $2,684,351 | -$694,704 |
+| milkteaboba | 13 | 12 | 0 | 52% | $2,684,351 | -$1,041,660 |
 | S-Works | 17 | 7 | 1 | 71% | $2,592,304 | -$208,050 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -91,16 +91,16 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $299,289 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Rams (-3.5) | Raiders | 1.89 (53¢) | $34,238 | — | ⏳ Pendiente |
 | tikstt2 | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $147,800 | — | ⏳ Pendiente |
-| mooseborzoii | Giants vs. Texans | Giants | 1.47 (68¢) | $46,888 | — | ⏳ Pendiente |
+| mooseborzoii | Giants vs. Texans | Giants | 1.47 (68¢) | $46,888 | +$22,065 | ✅ Ganada |
 | nb1985 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.17 (46¢) | $42,797 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Dplus KIA vs Movistar KOI (BO3) - Worlds Group Stage | Dplus KIA | 1.08 (93¢) | $166,214 | -$3,574 | 💰 Vendida antes |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Giants | 1.45 (69¢) | $32,903 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Giants | 1.45 (69¢) | $32,903 | +$14,783 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Madrid CF win on 2026-10-25? | No | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $76,823 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | 49ers vs. Falcons | Falcons | 1.18 (85¢) | $47,330 | +$8,352 | ✅ Ganada |
 | ArturitoFilito | Spread: FC Barcelona (-1.5) | Real Madrid CF | 1.75 (57¢) | $37,549 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Texans | 2.27 (44¢) | $59,451 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Texans | 2.27 (44¢) | $59,451 | -$59,451 | ❌ Perdida |
 | sbsigner | Packers vs. Lions | Lions | 1.54 (65¢) | $46,429 | — | ⏳ Pendiente |
 | Eugycom | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $40,310 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Spread: Knicks (-7.5) | Magic | 1.96 (51¢) | $25,037 | — | ⏳ Pendiente |
@@ -120,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 | Kch-Temp | Spread: Broncos (-4.5) | Cardinals | 2.00 (50¢) | $149,560 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.16 (86¢) | $58,494 | — | ⏳ Pendiente |
 | S-Works | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.15 (87¢) | $136,590 | — | ⏳ Pendiente |
-| KaneAnalytics | Giants vs. Texans | Texans | 1.59 (63¢) | $55,346 | — | ⏳ Pendiente |
+| KaneAnalytics | Giants vs. Texans | Texans | 1.59 (63¢) | $55,346 | -$55,346 | ❌ Perdida |
 | cosmicxbt | Spread: Ravens (-6.5) | Bengals | 1.92 (52¢) | $48,307 | +$44,591 | ✅ Ganada |
 | mooseborzoii | Bengals vs. Ravens | Ravens | 1.33 (75¢) | $123,662 | -$123,662 | ❌ Perdida |
 | fhiwbijd | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
