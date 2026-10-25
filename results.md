@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 10:10:40 (hora de Perú)
+Actualizado: 2026-10-25 10:12:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6472**  ($364,501,713 en total)
-- Resueltas: **6404** — 3909 ganadas / 2495 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Resueltas: **6406** — 3911 ganadas / 2495 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 635
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,248,492** sobre $361,427,864 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,819** sobre $631,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,158,983** sobre $361,541,704 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,668** sobre $631,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,11 +90,11 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | Kch-Temp | Will Genoa CFC win on 2026-10-25? | Yes | 2.33 (43¢) | $35,785 | — | ⏳ Pendiente |
 | mooseborzoii | Magic vs. Knicks: O/U 224.5 | Under 224.5 | 2.00 (50¢) | $55,463 | — | ⏳ Pendiente |
 | googleplay | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $28,563 | — | ⏳ Pendiente |
-| omnibus-076daa | Athletic Club vs. Getafe CF: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $61,341 | — | ⏳ Pendiente |
+| omnibus-076daa | Athletic Club vs. Getafe CF: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $61,341 | +$72,009 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: G2 vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | G2 | 2.33 (43¢) | $25,800 | — | ⏳ Pendiente |
 | mooseborzoii | Panthers vs. Blackhawks | Panthers | 1.61 (62¢) | $25,587 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: G2 vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | G2 | 2.33 (43¢) | $55,900 | — | ⏳ Pendiente |
-| 4217893367451 | Counter-Strike: MOUZ vs 9z (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.33 (75¢) | $52,499 | — | ⏳ Pendiente |
+| 4217893367451 | Counter-Strike: MOUZ vs 9z (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.33 (75¢) | $52,499 | +$17,500 | ✅ Ganada |
 | gmpm2 | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $54,236 | — | ⏳ Pendiente |
 | juice-fruit | Will Celtic FC win on 2026-10-25? | Yes | 1.69 (59¢) | $26,565 | — | ⏳ Pendiente |
 | SDTrading | Spread: Steelers (-2.5) | Steelers | 1.82 (55¢) | $38,500 | — | ⏳ Pendiente |
