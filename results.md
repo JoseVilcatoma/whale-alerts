@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:57:27 (hora de Perú)
+Actualizado: 2026-10-25 15:59:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6598**  ($374,414,786 en total)
+- Apuestas registradas: **6600**  ($374,555,988 en total)
 - Resueltas: **6495** — 3960 ganadas / 2535 perdidas (**61%** de acierto)
-- Pendientes: 81
+- Pendientes: 83
 - Apostadores distintos: 642
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 103 | 55 | 2 | 65% | $6,941,599 | +$90,790 |
-| Lakersfan111 | 83 | 47 | 8 | 64% | $6,610,287 | +$245,409 |
+| Lakersfan111 | 83 | 47 | 9 | 64% | $6,640,887 | +$245,409 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | googleplay | 17 | 21 | 0 | 45% | $6,000,572 | -$366,994 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 642 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| halanddd123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $110,601 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $30,600 | — | ⏳ Pendiente |
 | 473game | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $26,336 | — | ⏳ Pendiente |
 | goweibo123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $30,666 | — | ⏳ Pendiente |
 | thewatcherofall | Packers vs. Lions | Lions | 1.47 (68¢) | $49,442 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 642 en total)_
 | S-Works | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.15 (87¢) | $136,590 | — | ⏳ Pendiente |
 | KaneAnalytics | Giants vs. Texans | Texans | 1.59 (63¢) | $55,346 | -$55,346 | ❌ Perdida |
 | cosmicxbt | Spread: Ravens (-6.5) | Bengals | 1.92 (52¢) | $48,307 | +$44,591 | ✅ Ganada |
-| mooseborzoii | Bengals vs. Ravens | Ravens | 1.33 (75¢) | $123,662 | -$123,662 | ❌ Perdida |
-| fhiwbijd | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
