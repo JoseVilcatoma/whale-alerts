@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 22:44:16 (hora de Perú)
+Actualizado: 2026-10-24 22:46:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6409**  ($361,572,047 en total)
-- Resueltas: **6348** — 3871 ganadas / 2477 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Resueltas: **6349** — 3871 ganadas / 2478 perdidas (**61%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,609,924** sobre $358,615,290 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,921** sobre $626,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,639,924** sobre $358,645,290 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,021** sobre $626,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | 0x6db5…e279 | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $37,999 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $35,327 | — | ⏳ Pendiente |
 | tin54321 | Pelicans vs. Nuggets | Pelicans | 1.20 (83¢) | $90,109 | — | ⏳ Pendiente |
-| tin54321 | Pelicans vs. Nuggets: O/U 247.5 | Under 247.5 | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
+| tin54321 | Pelicans vs. Nuggets: O/U 247.5 | Under 247.5 | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
 | ethanaz | Ole Miss vs. Texas | Ole Miss | 2.27 (44¢) | $47,491 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Ole Miss vs. Texas | Ole Miss | 2.50 (40¢) | $39,256 | — | ⏳ Pendiente |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.67 (60¢) | $58,856 | — | ⏳ Pendiente |
