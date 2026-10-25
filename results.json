@@ -99620,5 +99620,35 @@
     "status": "pending",
     "ultimo_fill": 1792966886,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1792967038,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "nba-tor-min-2026-10-25",
+    "title": "Raptors vs. Timberwolves",
+    "outcome": "Timberwolves",
+    "side": "BUY",
+    "usd": 33000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792967038,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1792967054,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-lac-okc-2026-10-25-spread-home-16pt5",
+    "title": "Spread: Thunder (-16.5)",
+    "outcome": "Clippers",
+    "side": "BUY",
+    "usd": 84952.60290000001,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792967054,
+    "fills": 1
   }
 ]
