@@ -96571,5 +96571,20 @@
     "status": "pending",
     "ultimo_fill": 1792915055,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13084,
+    "timestamp": 1792915294,
+    "username": "kdvlklkvlsklkfs",
+    "wallet": "0xcfe8f6cc8ff9cb68985b7af650ef6dbe9a373a6c",
+    "slug": "atp-pleshiv-palan-2026-10-24",
+    "title": "Ningbo: Egor Pleshivtsev vs Dominik Palan",
+    "outcome": "Dominik Palan",
+    "side": "BUY",
+    "usd": 46193.664,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792915294,
+    "fills": 1
   }
 ]
