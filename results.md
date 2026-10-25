@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 22:03:17 (hora de Perú)
+Actualizado: 2026-10-24 22:05:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6403**  ($361,279,400 en total)
-- Resueltas: **6339** — 3866 ganadas / 2473 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Resueltas: **6342** — 3868 ganadas / 2474 perdidas (**61%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,307,849** sobre $357,974,634 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,979** sobre $625,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,336,101** sobre $358,148,414 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,879** sobre $625,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 459 | 251 | 4 | 65% | $46,191,698 | +$1,151,986 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 459 | 252 | 3 | 65% | $46,191,698 | +$1,050,793 |
 | Sassy-Bucket | 87 | 93 | 4 | 48% | $11,659,202 | -$1,554,417 |
 | mooseborzoii | 89 | 48 | 7 | 65% | $8,166,026 | +$1,184,914 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 102 | 52 | 1 | 66% | $6,776,293 | +$163,636 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Lakersfan111 | 78 | 47 | 3 | 62% | $6,212,686 | +$145,629 |
+| Lakersfan111 | 79 | 47 | 2 | 63% | $6,212,686 | +$176,938 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -111,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $89,965 | -$89,965 | ❌ Perdida |
 | juice-fruit | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $34,601 | +$34,601 | ✅ Ganada |
 | Eugycom | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $34,300 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bulls (-1.5) | Bulls | 1.96 (51¢) | $101,193 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bulls (-1.5) | Bulls | 1.96 (51¢) | $101,193 | -$101,193 | ❌ Perdida |
 | juice-fruit | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $100,000 | +$100,000 | ✅ Ganada |
 | Sassy-Bucket | Syracuse vs. North Carolina | North Carolina | 1.32 (76¢) | $267,695 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: 76ers (-12.5) | 76ers | 1.96 (51¢) | $29,682 | -$29,682 | ❌ Perdida |
@@ -127,7 +127,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Bulls | Wizards | 2.17 (46¢) | $216,417 | +$254,054 | ✅ Ganada |
 | googleplay | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $309,060 | +$309,060 | ✅ Ganada |
 | theowalcott | Will Philadelphia Union win on 2026-10-24? | Yes | 1.54 (65¢) | $28,129 | -$28,129 | ❌ Perdida |
-| Donkey14 | Spread: Bulls (-1.5) | Wizards | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
+| Donkey14 | Spread: Bulls (-1.5) | Wizards | 2.04 (49¢) | $40,000 | +$41,633 | ✅ Ganada |
 | robustmst | Heat vs. Hornets | Hornets | 1.89 (53¢) | $48,854 | +$32,262 | 💰 Vendida antes |
 | googleplay | Wizards vs. Bulls | Bulls | 1.89 (53¢) | $442,373 | -$442,373 | ❌ Perdida |
 | mooseborzoii | Spread: Oklahoma State (-13.5) | Colorado | 1.96 (51¢) | $44,319 | — | ⏳ Pendiente |
