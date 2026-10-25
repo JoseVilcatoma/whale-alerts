@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 16:51:09 (hora de Perú)
+Actualizado: 2026-10-25 16:53:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6610**  ($375,384,668 en total)
+- Apuestas registradas: **6611**  ($375,424,668 en total)
 - Resueltas: **6503** — 3966 ganadas / 2537 perdidas (**61%** de acierto)
-- Pendientes: 85
+- Pendientes: 86
 - Apostadores distintos: 643
 
 ### Balance
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 43 | 13 | 3 | 77% | $3,864,821 | +$1,850,175 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
-| Mooseborzoiii | 17 | 17 | 0 | 50% | $3,439,626 | +$529,743 |
+| Mooseborzoiii | 17 | 17 | 1 | 50% | $3,479,626 | +$529,743 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | cosmicxbt | 20 | 8 | 1 | 71% | $3,153,830 | -$394,523 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.25 (80¢) | $40,000 | — | ⏳ Pendiente |
 | sinasinner | Will FC Barcelona vs. Real Madrid CF end in a draw? | Yes | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Raiders | Rams | 1.19 (84¢) | $132,532 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Packers vs. Lions | Lions | 1.33 (75¢) | $33,606 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | shark142 | Bengals vs. Ravens | Bengals | 1.39 (72¢) | $28,286 | +$11,000 | ✅ Ganada |
 | yabanci | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Movistar KOI | 4.76 (21¢) | $32,188 | -$32,188 | ❌ Perdida |
 | Mooseborzoiii | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.28 (78¢) | $212,456 | +$59,924 | ✅ Ganada |
-| Sunshine.Smile | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.35 (74¢) | $32,936 | +$11,572 | ✅ Ganada |
