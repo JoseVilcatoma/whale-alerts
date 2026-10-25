@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:30:44 (hora de Perú)
+Actualizado: 2026-10-25 15:32:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6591**  ($374,073,510 en total)
-- Resueltas: **6482** — 3952 ganadas / 2530 perdidas (**61%** de acierto)
-- Pendientes: 87
+- Resueltas: **6487** — 3956 ganadas / 2531 perdidas (**61%** de acierto)
+- Pendientes: 82
 - Apostadores distintos: 641
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,030,662** sobre $367,327,032 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$7,244** sobre $639,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$1,912,642** sobre $367,585,534 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,954** sobre $639,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 26 | 0 | 70% | $5,197,196 | -$234,128 |
 | BrotherObama | 47 | 51 | 3 | 48% | $4,425,789 | -$123,120 |
 | maz26 | 36 | 23 | 4 | 61% | $4,358,843 | +$470,258 |
-| Kch-Temp | 43 | 12 | 4 | 78% | $3,864,821 | +$1,922,183 |
+| Kch-Temp | 43 | 13 | 3 | 77% | $3,864,821 | +$1,850,175 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | Mooseborzoiii | 16 | 17 | 1 | 48% | $3,439,626 | +$469,820 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 27 | 22 | 0 | 55% | $2,286,861 | +$269,729 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| TAIWANNUMBERONE | 35 | 17 | 1 | 67% | $2,031,205 | -$153,848 |
+| TAIWANNUMBERONE | 36 | 17 | 0 | 68% | $2,031,205 | -$145,496 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | juice-fruit | 22 | 9 | 1 | 71% | $1,911,186 | +$443,555 |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Giants | 1.45 (69¢) | $32,903 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Madrid CF win on 2026-10-25? | No | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $76,823 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | 49ers vs. Falcons | Falcons | 1.18 (85¢) | $47,330 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | 49ers vs. Falcons | Falcons | 1.18 (85¢) | $47,330 | +$8,352 | ✅ Ganada |
 | ArturitoFilito | Spread: FC Barcelona (-1.5) | Real Madrid CF | 1.75 (57¢) | $37,549 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Texans | 2.27 (44¢) | $59,451 | — | ⏳ Pendiente |
 | sbsigner | Packers vs. Lions | Lions | 1.54 (65¢) | $46,429 | — | ⏳ Pendiente |
