@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 13:03:10 (hora de Perú)
+Actualizado: 2026-10-25 13:05:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6535**  ($370,064,601 en total)
+- Apuestas registradas: **6536**  ($370,100,068 en total)
 - Resueltas: **6429** — 3926 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 84
+- Pendientes: 85
 - Apostadores distintos: 639
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| shark142 | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $35,467 | — | ⏳ Pendiente |
 | chongchong37 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Titans | Browns | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Dolphins vs. Jets | Dolphins | 2.08 (48¢) | $25,849 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 | Takon88 | Will FC Bayern München win on 2026-10-25? | Yes | 1.54 (65¢) | $95,869 | — | ⏳ Pendiente |
 | mooseborzoii | Will Leeds United FC win on 2026-10-25? | Yes | 2.94 (34¢) | $26,494 | — | ⏳ Pendiente |
 | tikstt2 | Will Leeds United FC win on 2026-10-25? | No | 1.52 (66¢) | $33,474 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $448,587 | +$44,366 | ✅ Ganada |
