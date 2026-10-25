@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 22:56:33 (hora de Perú)
+Actualizado: 2026-10-24 22:58:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6410**  ($361,750,047 en total)
-- Resueltas: **6363** — 3881 ganadas / 2482 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **6366** — 3884 ganadas / 2482 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,564,805** sobre $359,422,705 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,075** sobre $627,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,438,953** sobre $359,543,346 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,762** sobre $627,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,10 +96,10 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | Netrol | Spread: Nuggets (-11.5) | Nuggets | 2.08 (48¢) | $27,960 | — | ⏳ Pendiente |
 | googleplay | Spread: Nuggets (-11.5) | Pelicans | 1.89 (53¢) | $317,928 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Kraken | Wild | 1.59 (63¢) | $46,321 | — | ⏳ Pendiente |
-| theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.00 (50¢) | $27,560 | — | ⏳ Pendiente |
+| theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.00 (50¢) | $27,560 | +$27,560 | ✅ Ganada |
 | KaneAnalytics | Ole Miss vs. Texas | Texas | 1.19 (84¢) | $50,400 | +$9,600 | ✅ Ganada |
-| theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.04 (49¢) | $59,901 | — | ⏳ Pendiente |
-| theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.08 (48¢) | $33,181 | — | ⏳ Pendiente |
+| theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.04 (49¢) | $59,901 | +$62,346 | ✅ Ganada |
+| theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.08 (48¢) | $33,181 | +$35,946 | ✅ Ganada |
 | 3648393489047 | Ole Miss vs. Texas | Texas | 1.41 (71¢) | $26,210 | +$10,705 | ✅ Ganada |
 | KaneAnalytics | Utah State vs. Texas State | Texas State | 1.49 (67¢) | $37,135 | +$18,291 | ✅ Ganada |
 | ferrariChampions2026 | Heat vs. Hornets | Hornets | 1.06 (94¢) | $25,403 | +$1,621 | ✅ Ganada |
