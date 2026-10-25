@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 21:29:24 (hora de Perú)
+Actualizado: 2026-10-24 21:31:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6398**  ($361,077,693 en total)
+- Apuestas registradas: **6399**  ($361,103,797 en total)
 - Resueltas: **6324** — 3856 ganadas / 2468 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Pendientes: 53
 - Apostadores distintos: 632
 
 ### Balance
@@ -60,9 +60,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 25 | 22 | 2 | 53% | $2,286,861 | +$209,155 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
+| TAIWANNUMBERONE | 31 | 17 | 2 | 65% | $1,922,301 | -$183,942 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
-| TAIWANNUMBERONE | 31 | 17 | 1 | 65% | $1,896,198 | -$183,942 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 
 _(mostrando los 40 de mayor monto, de 632 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.35 (74¢) | $26,104 | — | ⏳ Pendiente |
 | Zywoo123 | Warriors vs. Suns | Suns | 1.28 (78¢) | $29,615 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Utah (-6.5) | Houston | 2.04 (49¢) | $49,247 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Pelicans vs. Nuggets | Pelicans | 1.52 (66¢) | $27,186 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | mooseborzoii | Ole Miss vs. Texas | Ole Miss | 2.44 (41¢) | $82,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Clemson (-2.5) | Clemson | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Clemson (-2.5) | Virginia Tech | 2.13 (47¢) | $72,404 | — | ⏳ Pendiente |
-| mooseborzoii | San Diego State vs. Colorado State | San Diego State | 2.04 (49¢) | $25,823 | -$25,823 | ❌ Perdida |
