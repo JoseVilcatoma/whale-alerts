@@ -99954,5 +99954,35 @@
     "status": "pending",
     "ultimo_fill": 1792970839,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13457,
+    "timestamp": 1792970911,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "nba-det-phi-2026-10-25",
+    "title": "Pistons vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 39690.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1792970911,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13458,
+    "timestamp": 1792970975,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-ind-bkn-2026-10-25",
+    "title": "Pacers vs. Nets",
+    "outcome": "Pacers",
+    "side": "BUY",
+    "usd": 41000.0,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1792970975,
+    "fills": 1
   }
 ]
