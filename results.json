@@ -98641,5 +98641,35 @@
     "status": "pending",
     "ultimo_fill": 1792957113,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13285,
+    "timestamp": 1792957131,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-sf-atl-2026-10-25",
+    "title": "49ers vs. Falcons",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 47329.7,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1792957131,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13286,
+    "timestamp": 1792957172,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lal-bar-rea-2026-10-25-draw",
+    "title": "Will FC Barcelona vs. Real Madrid CF end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 76822.66,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1792957190,
+    "fills": 2
   }
 ]
