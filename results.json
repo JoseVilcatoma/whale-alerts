@@ -97528,7 +97528,7 @@
     "side": "BUY",
     "usd": 99999.999,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792944250,
     "fills": 1
   },
@@ -97633,7 +97633,7 @@
     "side": "BUY",
     "usd": 49238.92600000001,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792945057,
     "fills": 1
   },
@@ -97723,7 +97723,7 @@
     "side": "BUY",
     "usd": 349600.0,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792946314,
     "fills": 1
   },
@@ -97738,7 +97738,7 @@
     "side": "BUY",
     "usd": 29999.999999999996,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792946468,
     "fills": 1
   },
@@ -97858,7 +97858,7 @@
     "side": "BUY",
     "usd": 43434.782609,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792947178,
     "fills": 1
   },
@@ -97903,7 +97903,7 @@
     "side": "BUY",
     "usd": 412500.00000000006,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792947595,
     "fills": 3
   },
@@ -97963,7 +97963,7 @@
     "side": "BUY",
     "usd": 89632.998,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792947754,
     "fills": 1
   },
@@ -98203,7 +98203,7 @@
     "side": "BUY",
     "usd": 37000.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792949892,
     "fills": 1
   },
@@ -98835,7 +98835,7 @@
     "side": "BUY",
     "usd": 34444.1,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792958487,
     "fills": 1
   },
@@ -99017,6 +99017,36 @@
     "odds_at_bet": 47,
     "status": "pending",
     "ultimo_fill": 1792959629,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13335,
+    "timestamp": 1792959878,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-gb-det-2026-10-25",
+    "title": "Packers vs. Lions",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 116304.5268,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1792959973,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 13345,
+    "timestamp": 1792959955,
+    "username": "cosmicxbt",
+    "wallet": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+    "slug": "nfl-den-ari-2026-10-25",
+    "title": "Broncos vs. Cardinals",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 159331.669,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1792959955,
     "fills": 1
   }
 ]
