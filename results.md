@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:23:18 (hora de Perú)
+Actualizado: 2026-10-25 11:25:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6498**  ($367,316,300 en total)
+- Apuestas registradas: **6499**  ($367,347,823 en total)
 - Resueltas: **6421** — 3918 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 636
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bbb17367162806 | Magic vs. Knicks | Knicks | 1.39 (72¢) | $31,523 | — | ⏳ Pendiente |
 | S-Works | Will Sunderland AFC win on 2026-10-25? | No | 1.56 (64¢) | $84,393 | — | ⏳ Pendiente |
 | nb1985 | Will Leeds United FC win on 2026-10-25? | No | 1.49 (67¢) | $50,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Browns vs. Titans | Browns | 1.82 (55¢) | $49,239 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 | totoro3miyazaki | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $30,493 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $50,121 | — | ⏳ Pendiente |
 | Matheobong | FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $35,700 | -$35,700 | ❌ Perdida |
-| migrodrigues | Will FC Barcelona win on 2026-10-25? | No | 2.50 (40¢) | $58,178 | — | ⏳ Pendiente |
