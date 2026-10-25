@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 18:53:20 (hora de Perú)
+Actualizado: 2026-10-25 18:55:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6652**  ($378,100,444 en total)
-- Resueltas: **6556** — 3999 ganadas / 2557 perdidas (**61%** de acierto)
-- Pendientes: 74
+- Resueltas: **6562** — 4002 ganadas / 2560 perdidas (**61%** de acierto)
+- Pendientes: 68
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,990,687** sobre $372,741,631 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$6,173** sobre $646,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,119,466** sobre $373,121,800 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,370** sobre $647,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 473 | 255 | 12 | 65% | $48,302,189 | +$1,669,064 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 474 | 256 | 10 | 65% | $48,302,189 | +$1,641,912 |
 | Sassy-Bucket | 93 | 94 | 3 | 50% | $12,103,975 | -$1,393,191 |
 | mooseborzoii | 96 | 53 | 3 | 64% | $8,602,883 | +$966,146 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| TAIWANNUMBERONE | 37 | 17 | 1 | 69% | $2,086,612 | -$142,335 |
+| TAIWANNUMBERONE | 38 | 17 | 0 | 69% | $2,086,612 | -$131,853 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | Jokerxing7 | 13 | 19 | 2 | 41% | $1,921,271 | -$291,322 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
@@ -114,20 +114,20 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $33,530 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.25 (80¢) | $40,000 | — | ⏳ Pendiente |
 | sinasinner | Will FC Barcelona vs. Real Madrid CF end in a draw? | Yes | 1.85 (54¢) | $25,000 | -$25,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Raiders | Rams | 1.19 (84¢) | $132,532 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Raiders | Rams | 1.19 (84¢) | $132,532 | +$25,244 | ✅ Ganada |
 | ferrariChampions2026 | Packers vs. Lions | Lions | 1.33 (75¢) | $33,606 | +$11,202 | ✅ Ganada |
 | googleplay | Pacers vs. Nets: O/U 231.5 | Over 231.5 | 1.96 (51¢) | $27,966 | — | ⏳ Pendiente |
 | googleplay | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $350,623 | — | ⏳ Pendiente |
 | Flaznorp | FC Barcelona vs. Real Madrid CF: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $26,924 | +$25,869 | ✅ Ganada |
 | EdZachary | Grizzlies vs. Kings | Kings | 2.50 (40¢) | $31,027 | — | ⏳ Pendiente |
 | Eugycom | Pacers vs. Nets | Nets | 2.94 (34¢) | $28,246 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.25 (80¢) | $52,396 | — | ⏳ Pendiente |
-| cs2.quant | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.23 (81¢) | $29,697 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.25 (80¢) | $52,396 | -$52,396 | ❌ Perdida |
+| cs2.quant | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.23 (81¢) | $29,697 | -$29,697 | ❌ Perdida |
 | halanddd123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $201,263 | -$59,066 | 💰 Vendida antes |
 | jakepaulthegoat2008 | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $30,600 | — | ⏳ Pendiente |
 | 473game | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $26,336 | — | ⏳ Pendiente |
 | goweibo123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $30,666 | — | ⏳ Pendiente |
 | thewatcherofall | Packers vs. Lions | Lions | 1.47 (68¢) | $49,442 | -$15,996 | 💰 Vendida antes |
-| TAIWANNUMBERONE | Rams vs. Raiders | Rams | 1.35 (74¢) | $29,833 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Rams vs. Raiders | Rams | 1.35 (74¢) | $29,833 | +$10,482 | ✅ Ganada |
 | EdZachary | Pacers vs. Nets | Nets | 3.03 (33¢) | $25,390 | — | ⏳ Pendiente |
 | milkteaboba | Broncos vs. Cardinals | Broncos | 1.35 (74¢) | $129,608 | +$45,538 | ✅ Ganada |
