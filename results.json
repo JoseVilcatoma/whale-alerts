@@ -94826,7 +94826,7 @@
     "side": "BUY",
     "usd": 74000.0,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792874433,
     "fills": 2
   },
@@ -95126,7 +95126,7 @@
     "side": "BUY",
     "usd": 29415.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792879127,
     "fills": 1
   },
@@ -95201,7 +95201,7 @@
     "side": "BUY",
     "usd": 77556.99999915001,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792879128,
     "fills": 1
   },
@@ -95803,7 +95803,7 @@
     "side": "BUY",
     "usd": 34000.0,
     "odds_at_bet": 34,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792887778,
     "fills": 1
   },
@@ -95818,7 +95818,7 @@
     "side": "BUY",
     "usd": 33000.0,
     "odds_at_bet": 66,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792887778,
     "fills": 1
   },
@@ -95878,7 +95878,7 @@
     "side": "BUY",
     "usd": 25403.00256,
     "odds_at_bet": 94,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792888245,
     "fills": 1
   },
@@ -96026,10 +96026,25 @@
     "title": "Bucks vs. 76ers",
     "outcome": "76ers",
     "side": "BUY",
-    "usd": 40673.8202,
+    "usd": 77431.6282,
     "odds_at_bet": 85,
     "status": "pending",
-    "ultimo_fill": 1792891046,
+    "ultimo_fill": 1792891091,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 12963,
+    "timestamp": 1792891147,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "nba-gsw-phx-2026-10-24",
+    "title": "Warriors vs. Suns",
+    "outcome": "Suns",
+    "side": "BUY",
+    "usd": 30810.132866000004,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1792891147,
     "fills": 1
   }
 ]

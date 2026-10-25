@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 20:17:28 (hora de Perú)
+Actualizado: 2026-10-24 20:19:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6389**  ($360,704,310 en total)
-- Resueltas: **6298** — 3840 ganadas / 2458 perdidas (**61%** de acierto)
-- Pendientes: 69
+- Apuestas registradas: **6390**  ($360,771,878 en total)
+- Resueltas: **6304** — 3843 ganadas / 2461 perdidas (**61%** de acierto)
+- Pendientes: 64
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,682,982** sobre $355,125,389 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,430** sobre $621,000 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,799,833** sobre $355,398,764 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,502** sobre $621,600 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 456 | 249 | 9 | 65% | $46,191,698 | +$940,476 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 456 | 250 | 8 | 65% | $46,191,698 | +$906,476 |
 | Sassy-Bucket | 86 | 93 | 5 | 48% | $11,659,202 | -$1,591,376 |
 | mooseborzoii | 89 | 46 | 6 | 66% | $8,023,746 | +$1,240,419 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 1 | 51% | $7,477,793 | -$661,667 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 101 | 52 | 1 | 66% | $6,737,037 | +$162,014 |
+| ferrariChampions2026 | 102 | 52 | 0 | 66% | $6,737,037 | +$163,636 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Lakersfan111 | 78 | 47 | 3 | 62% | $6,212,686 | +$145,629 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Woaifacai | Bucks vs. 76ers | 76ers | 1.18 (85¢) | $40,674 | — | ⏳ Pendiente |
+| sulumos | Warriors vs. Suns | Suns | 1.30 (77¢) | $30,810 | — | ⏳ Pendiente |
+| Woaifacai | Bucks vs. 76ers | 76ers | 1.18 (85¢) | $77,432 | — | ⏳ Pendiente |
 | Netrol | Spread: Nuggets (-11.5) | Nuggets | 2.08 (48¢) | $27,960 | — | ⏳ Pendiente |
 | googleplay | Spread: Nuggets (-11.5) | Pelicans | 1.89 (53¢) | $317,928 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Kraken | Wild | 1.59 (63¢) | $46,321 | — | ⏳ Pendiente |
@@ -81,12 +82,12 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.08 (48¢) | $33,181 | — | ⏳ Pendiente |
 | 3648393489047 | Ole Miss vs. Texas | Texas | 1.41 (71¢) | $26,210 | — | ⏳ Pendiente |
 | KaneAnalytics | Utah State vs. Texas State | Texas State | 1.49 (67¢) | $37,135 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Heat vs. Hornets | Hornets | 1.06 (94¢) | $25,403 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Heat vs. Hornets | Hornets | 1.06 (94¢) | $25,403 | +$1,621 | ✅ Ganada |
 | yabanci | Rockets vs. Hawks: O/U 227.5 | Under 227.5 | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will CF Monterrey win on 2026-10-24? | No | 1.67 (60¢) | $26,224 | — | ⏳ Pendiente |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.37 (73¢) | $37,115 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Hornets | Heat | 2.94 (34¢) | $34,000 | — | ⏳ Pendiente |
-| Woaifacai | Heat vs. Hornets | Hornets | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Hornets | Heat | 2.94 (34¢) | $34,000 | -$34,000 | ❌ Perdida |
+| Woaifacai | Heat vs. Hornets | Hornets | 1.52 (66¢) | $33,000 | +$17,000 | ✅ Ganada |
 | meoooow | LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage | Bilibili Gaming | 1.32 (76¢) | $74,057 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Bucks vs. 76ers | 76ers | 1.12 (89¢) | $30,718 | — | ⏳ Pendiente |
 | winner877 | Spurs vs. Mavericks | Spurs | 1.15 (87¢) | $141,539 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.72 (58¢) | $25,909 | +$18,762 | ✅ Ganada |
 | YYYYY999 | Pelicans vs. Nuggets | Nuggets | 1.25 (80¢) | $32,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Diego State vs. Colorado State | Colorado State | 2.00 (50¢) | $36,959 | — | ⏳ Pendiente |
-| juice-fruit | Heat vs. Hornets | Heat | 1.59 (63¢) | $77,557 | — | ⏳ Pendiente |
