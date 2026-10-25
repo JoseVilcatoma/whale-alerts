@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 14:57:31 (hora de Perú)
+Actualizado: 2026-10-25 14:59:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6572**  ($372,572,544 en total)
-- Resueltas: **6452** — 3936 ganadas / 2516 perdidas (**61%** de acierto)
-- Pendientes: 98
+- Apuestas registradas: **6574**  ($372,914,630 en total)
+- Resueltas: **6453** — 3936 ganadas / 2517 perdidas (**61%** de acierto)
+- Pendientes: 99
 - Apostadores distintos: 640
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,897,144** sobre $365,083,448 apostados (ROI **-0.5%**)
+- **Resultado de los apostadores: -$1,900,718** sobre $365,249,661 apostados (ROI **-0.5%**)
 - Copiando $100 fijo en cada una: **-$7,263** sobre $636,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 14 | 65% | $47,438,905 | +$1,143,151 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 15 | 65% | $47,738,194 | +$1,143,151 |
 | Sassy-Bucket | 90 | 94 | 5 | 49% | $12,066,678 | -$1,490,411 |
 | mooseborzoii | 93 | 51 | 6 | 65% | $8,533,753 | +$1,128,490 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 102 | 53 | 4 | 66% | $6,898,802 | +$124,380 |
+| ferrariChampions2026 | 102 | 53 | 5 | 66% | $6,941,599 | +$124,380 |
 | Lakersfan111 | 83 | 47 | 7 | 64% | $6,572,613 | +$245,409 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | googleplay | 17 | 21 | 0 | 45% | $6,000,572 | -$366,994 |
@@ -71,11 +71,13 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $299,289 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Rams (-3.5) | Raiders | 1.89 (53¢) | $34,238 | — | ⏳ Pendiente |
 | tikstt2 | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $147,800 | — | ⏳ Pendiente |
 | mooseborzoii | Giants vs. Texans | Giants | 1.47 (68¢) | $46,888 | — | ⏳ Pendiente |
 | nb1985 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Dplus KIA vs Movistar KOI (BO3) - Worlds Group Stage | Dplus KIA | 1.08 (93¢) | $166,214 | — | ⏳ Pendiente |
+| ferrariChampions2026 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.17 (46¢) | $42,797 | — | ⏳ Pendiente |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Dplus KIA vs Movistar KOI (BO3) - Worlds Group Stage | Dplus KIA | 1.08 (93¢) | $166,214 | -$3,574 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Giants | 1.45 (69¢) | $32,903 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Madrid CF win on 2026-10-25? | No | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $76,823 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | sinasinner | Spread: Vikings (-6.5) | Vikings | 1.82 (55¢) | $25,000 | — | ⏳ Pendiente |
 | sinasinner | Spread: 49ers (-2.5) | Falcons | 1.96 (51¢) | $25,000 | — | ⏳ Pendiente |
 | chubbytoro | Buccaneers vs. Panthers | Panthers | 1.69 (59¢) | $47,200 | — | ⏳ Pendiente |
-| Mooseborzoiii | Browns vs. Titans | Browns | 1.82 (55¢) | $412,500 | — | ⏳ Pendiente |
-| EdZachary | Spread: Vikings (-6.5) | Vikings | 1.85 (54¢) | $52,996 | — | ⏳ Pendiente |

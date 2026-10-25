@@ -98713,9 +98713,11 @@
     "side": "BUY",
     "usd": 166213.65999800002,
     "odds_at_bet": 93,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1792957881,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": -3574.49,
+    "precio_salida": 91
   },
   {
     "telegram_msg_id": 13294,
@@ -98775,6 +98777,36 @@
     "odds_at_bet": 53,
     "status": "pending",
     "ultimo_fill": 1792958246,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13298,
+    "timestamp": 1792958064,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lal-bar-rea-2026-10-25-total-4pt5",
+    "title": "FC Barcelona vs. Real Madrid CF: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 42796.5094,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1792958064,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13300,
+    "timestamp": 1792958375,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lal-bar-rea-2026-10-25-draw",
+    "title": "Will FC Barcelona vs. Real Madrid CF end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 299289.42,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1792958375,
     "fills": 1
   }
 ]
