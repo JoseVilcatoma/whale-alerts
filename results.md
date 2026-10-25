@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 10:27:11 (hora de Perú)
+Actualizado: 2026-10-25 10:29:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6476**  ($365,296,337 en total)
+- Apuestas registradas: **6478**  ($365,356,305 en total)
 - Resueltas: **6406** — 3911 ganadas / 2495 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 50
 - Apostadores distintos: 635
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 462 | 253 | 7 | 65% | $47,041,017 | +$1,098,785 |
 | Sassy-Bucket | 88 | 94 | 4 | 48% | $11,959,739 | -$1,662,107 |
-| mooseborzoii | 93 | 50 | 3 | 65% | $8,247,076 | +$1,154,984 |
+| mooseborzoii | 93 | 50 | 4 | 65% | $8,273,570 | +$1,154,984 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 3 | 62% | $7,945,894 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Will Leeds United FC win on 2026-10-25? | Yes | 2.94 (34¢) | $26,494 | — | ⏳ Pendiente |
+| tikstt2 | Will Leeds United FC win on 2026-10-25? | No | 1.52 (66¢) | $33,474 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $448,587 | — | ⏳ Pendiente |
 | Nooserac | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $45,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | Steelers vs. Saints | Steelers | 1.56 (64¢) | $193,906 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | YYYYY999 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.37 (73¢) | $49,330 | +$18,245 | ✅ Ganada |
 | Wiretransferxyz | Counter-Strike: BetBoom Team vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | BetBoom Team | 1.72 (58¢) | $26,100 | +$18,900 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Ashlyn Krueger vs Katerina Siniakova | Katerina Siniakova | 1.49 (67¢) | $26,344 | +$12,975 | ✅ Ganada |
-| hovistomaradona | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Houston vs. Utah | Utah | 1.25 (80¢) | $26,246 | +$6,562 | ✅ Ganada |
