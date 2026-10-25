@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 06:55:51 (hora de Perú)
+Actualizado: 2026-10-25 06:57:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6446**  ($363,292,158 en total)
-- Resueltas: **6395** — 3905 ganadas / 2490 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **6396** — 3906 ganadas / 2490 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 635
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,147,495** sobre $361,128,254 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,577** sobre $630,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,139,758** sobre $361,161,236 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,553** sobre $630,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 102 | 53 | 0 | 66% | $6,776,293 | +$124,380 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Lakersfan111 | 82 | 47 | 1 | 64% | $6,294,998 | +$237,672 |
+| Lakersfan111 | 83 | 47 | 0 | 64% | $6,294,998 | +$245,409 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | Jokerxing7 | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 2.00 (50¢) | $41,025 | — | ⏳ Pendiente |
 | NeverLoseBet | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $25,322 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will FC Barcelona win on 2026-10-25? | Yes | 1.67 (60¢) | $83,856 | — | ⏳ Pendiente |
-| YYYYY999 | Counter-Strike: Vitality vs TheMongolz (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.23 (81¢) | $32,982 | — | ⏳ Pendiente |
+| YYYYY999 | Counter-Strike: Vitality vs TheMongolz (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.23 (81¢) | $32,982 | +$7,737 | ✅ Ganada |
 | robustmst | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Leylah Fernandez | 2.56 (39¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Woaifacai | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Elena Rybakina | 1.37 (73¢) | $70,059 | +$25,912 | ✅ Ganada |
 | Woaifacai | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Elena Rybakina | 1.33 (75¢) | $32,872 | +$10,957 | ✅ Ganada |
