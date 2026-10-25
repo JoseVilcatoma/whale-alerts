@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:10:04 (hora de Perú)
+Actualizado: 2026-10-25 15:12:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6580**  ($373,270,012 en total)
+- Apuestas registradas: **6582**  ($373,351,611 en total)
 - Resueltas: **6465** — 3942 ganadas / 2523 perdidas (**61%** de acierto)
-- Pendientes: 93
+- Pendientes: 95
 - Apostadores distintos: 640
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tennischamp | Broncos vs. Cardinals | Broncos | 1.39 (72¢) | $55,698 | — | ⏳ Pendiente |
+| Sunshine.Smile | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.41 (71¢) | $37,673 | — | ⏳ Pendiente |
 | zb8 | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.43 (70¢) | $28,262 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Lions | Lions | 1.54 (65¢) | $32,098 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.75 (57¢) | $74,772 | +$56,407 | ✅ Ganada |
 | milkteaboba | Giants vs. Texans | Texans | 1.23 (81¢) | $346,955 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.32 (76¢) | $37,978 | -$37,978 | ❌ Perdida |
-| goweibo123 | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.33 (75¢) | $25,654 | -$25,654 | ❌ Perdida |
-| YYYYY999 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $42,706 | — | ⏳ Pendiente |
