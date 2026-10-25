@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 16:13:58 (hora de Perú)
+Actualizado: 2026-10-25 16:16:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6608**  ($375,227,136 en total)
+- Apuestas registradas: **6609**  ($375,359,668 en total)
 - Resueltas: **6495** — 3960 ganadas / 2535 perdidas (**61%** de acierto)
-- Pendientes: 91
+- Pendientes: 92
 - Apostadores distintos: 643
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 466 | 254 | 12 | 65% | $47,790,591 | +$1,350,315 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 466 | 254 | 13 | 65% | $47,923,123 | +$1,350,315 |
 | Sassy-Bucket | 93 | 94 | 2 | 50% | $12,066,678 | -$1,393,191 |
 | mooseborzoii | 94 | 53 | 3 | 64% | $8,533,753 | +$937,260 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Raiders | Rams | 1.19 (84¢) | $132,532 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Packers vs. Lions | Lions | 1.33 (75¢) | $33,606 | — | ⏳ Pendiente |
 | googleplay | Pacers vs. Nets: O/U 231.5 | Over 231.5 | 1.96 (51¢) | $27,966 | — | ⏳ Pendiente |
 | googleplay | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $350,623 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Mooseborzoiii | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.28 (78¢) | $212,456 | — | ⏳ Pendiente |
 | Sunshine.Smile | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.35 (74¢) | $32,936 | — | ⏳ Pendiente |
 | LaarsY | Panthers vs. Blackhawks | Panthers | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
-| bluemol | LoL: Dplus KIA vs Movistar KOI (BO3) - Worlds Group Stage | Dplus KIA | 1.27 (79¢) | $50,000 | — | ⏳ Pendiente |
