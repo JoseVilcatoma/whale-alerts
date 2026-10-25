@@ -96016,5 +96016,20 @@
     "status": "pending",
     "ultimo_fill": 1792890541,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12956,
+    "timestamp": 1792891046,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "nba-mil-phi-2026-10-24",
+    "title": "Bucks vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 40673.8202,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1792891046,
+    "fills": 1
   }
 ]
