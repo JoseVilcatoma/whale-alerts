@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:38:07 (hora de Perú)
+Actualizado: 2026-10-25 17:40:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6631**  ($376,515,762 en total)
+- Apuestas registradas: **6632**  ($376,545,231 en total)
 - Resueltas: **6535** — 3982 ganadas / 2553 perdidas (**61%** de acierto)
-- Pendientes: 74
+- Pendientes: 75
 - Apostadores distintos: 643
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 26 | 1 | 70% | $5,234,064 | -$234,128 |
 | BrotherObama | 47 | 51 | 3 | 48% | $4,425,789 | -$123,120 |
-| maz26 | 36 | 23 | 4 | 61% | $4,358,843 | +$470,258 |
+| maz26 | 36 | 23 | 5 | 61% | $4,388,312 | +$470,258 |
 | Kch-Temp | 43 | 13 | 3 | 77% | $3,864,821 | +$1,850,175 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Spread: Thunder (-16.5) | Thunder | 2.13 (47¢) | $29,469 | — | ⏳ Pendiente |
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.89 (53¢) | $118,388 | — | ⏳ Pendiente |
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.96 (51¢) | $84,953 | — | ⏳ Pendiente |
 | Zzzz87 | Raptors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $33,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | LTandBB | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $36,356 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $299,289 | +$52,816 | ✅ Ganada |
 | gmpm2 | Spread: Rams (-3.5) | Raiders | 1.89 (53¢) | $34,238 | — | ⏳ Pendiente |
-| tikstt2 | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $147,800 | -$147,800 | ❌ Perdida |

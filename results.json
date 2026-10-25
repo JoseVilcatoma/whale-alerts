@@ -99665,5 +99665,20 @@
     "status": "pending",
     "ultimo_fill": 1792967734,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13435,
+    "timestamp": 1792967918,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nba-lac-okc-2026-10-25-spread-home-16pt5",
+    "title": "Spread: Thunder (-16.5)",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 29469.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1792967918,
+    "fills": 1
   }
 ]
