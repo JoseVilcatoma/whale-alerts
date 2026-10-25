@@ -96673,7 +96673,7 @@
     "side": "BUY",
     "usd": 25000.00000017,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792920635,
     "fills": 1
   },
@@ -96688,7 +96688,7 @@
     "side": "BUY",
     "usd": 70058.9176,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792920056,
     "fills": 1
   },
@@ -96703,7 +96703,7 @@
     "side": "BUY",
     "usd": 32872.48219941053,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792919852,
     "fills": 1
   },
@@ -96825,6 +96825,36 @@
     "odds_at_bet": 61,
     "status": "pending",
     "ultimo_fill": 1792925786,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13106,
+    "timestamp": 1792926986,
+    "username": "Yellow-Fever",
+    "wallet": "0xda856317923415a534d8952e6f8abde17c2e1ca7",
+    "slug": "lal-bar-rea-2026-10-25-rea",
+    "title": "Will Real Madrid CF win on 2026-10-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 38000.0,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1792926986,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13107,
+    "timestamp": 1792927003,
+    "username": "zhqzhq",
+    "wallet": "0xac715194f101aa682a63e56d979e58e6b2e40b92",
+    "slug": "sea-int-fio-2026-10-25-fio",
+    "title": "Will ACF Fiorentina win on 2026-10-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 34999.999996,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1792927003,
     "fills": 1
   }
 ]

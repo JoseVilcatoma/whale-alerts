@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 06:16:23 (hora de Perú)
+Actualizado: 2026-10-25 06:18:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6442**  ($363,153,014 en total)
-- Resueltas: **6392** — 3903 ganadas / 2489 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Apuestas registradas: **6444**  ($363,226,014 en total)
+- Resueltas: **6395** — 3905 ganadas / 2490 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 634
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,159,365** sobre $361,000,323 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,547** sobre $630,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,147,495** sobre $361,128,254 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,577** sobre $630,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 634 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| zhqzhq | Will ACF Fiorentina win on 2026-10-25? | No | 1.12 (89¢) | $35,000 | — | ⏳ Pendiente |
+| Yellow-Fever | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $30,493 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $50,121 | — | ⏳ Pendiente |
 | Matheobong | FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
@@ -80,9 +82,9 @@ _(mostrando los 40 de mayor monto, de 634 en total)_
 | NeverLoseBet | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $25,322 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will FC Barcelona win on 2026-10-25? | Yes | 1.67 (60¢) | $83,856 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Vitality vs TheMongolz (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.23 (81¢) | $32,982 | — | ⏳ Pendiente |
-| robustmst | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Leylah Fernandez | 2.56 (39¢) | $25,000 | — | ⏳ Pendiente |
-| Woaifacai | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Elena Rybakina | 1.37 (73¢) | $70,059 | — | ⏳ Pendiente |
-| Woaifacai | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Elena Rybakina | 1.33 (75¢) | $32,872 | — | ⏳ Pendiente |
+| robustmst | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Leylah Fernandez | 2.56 (39¢) | $25,000 | -$25,000 | ❌ Perdida |
+| Woaifacai | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Elena Rybakina | 1.37 (73¢) | $70,059 | +$25,912 | ✅ Ganada |
+| Woaifacai | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Elena Rybakina | 1.33 (75¢) | $32,872 | +$10,957 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-10-25? | Yes | 3.85 (26¢) | $34,917 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-25? | No | 2.44 (41¢) | $63,725 | — | ⏳ Pendiente |
 | Flaznorp | Will Real Madrid CF win on 2026-10-25? | No | 1.35 (74¢) | $46,212 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 634 en total)_
 | googleplay | Spread: Nuggets (-11.5) | Pelicans | 1.89 (53¢) | $317,928 | +$281,936 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Kraken | Wild | 1.59 (63¢) | $46,321 | +$27,204 | ✅ Ganada |
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.00 (50¢) | $27,560 | +$27,560 | ✅ Ganada |
-| KaneAnalytics | Ole Miss vs. Texas | Texas | 1.19 (84¢) | $50,400 | +$9,600 | ✅ Ganada |
-| theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.04 (49¢) | $59,901 | +$62,346 | ✅ Ganada |
