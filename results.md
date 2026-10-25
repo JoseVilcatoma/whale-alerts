@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 07:56:04 (hora de Perú)
+Actualizado: 2026-10-25 07:58:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6449**  ($363,425,458 en total)
+- Apuestas registradas: **6450**  ($363,481,358 en total)
 - Resueltas: **6398** — 3907 ganadas / 2491 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 635
 
 ### Balance
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 13 | 0 | 57% | $3,063,662 | +$459,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
-| Mooseborzoiii | 13 | 15 | 0 | 46% | $2,625,446 | +$107,590 |
+| Mooseborzoiii | 13 | 15 | 1 | 46% | $2,681,346 | +$107,590 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | S-Works | 16 | 7 | 0 | 70% | $2,371,320 | -$255,521 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | Counter-Strike: G2 vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | G2 | 2.33 (43¢) | $55,900 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: MOUZ vs 9z (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.33 (75¢) | $52,499 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $54,236 | — | ⏳ Pendiente |
 | juice-fruit | Will Celtic FC win on 2026-10-25? | Yes | 1.69 (59¢) | $26,565 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | TAIWANNUMBERONE | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $38,174 | +$9,544 | ✅ Ganada |
 | Woaifacai | Tampa Bay Rays vs. Milwaukee Brewers | Tampa Bay Rays | 1.61 (62¢) | $37,135 | -$37,135 | ❌ Perdida |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
-| sulumos | Warriors vs. Suns | Suns | 1.30 (77¢) | $30,810 | +$9,203 | ✅ Ganada |
