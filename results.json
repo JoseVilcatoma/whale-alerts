@@ -97126,5 +97126,20 @@
     "status": "pending",
     "ultimo_fill": 1792937072,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13139,
+    "timestamp": 1792938155,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "epl-hul-bre-2026-10-25-total-2pt5",
+    "title": "Hull City AFC vs. Brentford FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 53390.42240000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1792938155,
+    "fills": 2
   }
 ]
