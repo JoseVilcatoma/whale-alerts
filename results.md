@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 12:36:19 (hora de Perú)
+Actualizado: 2026-10-25 12:38:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6532**  ($369,971,753 en total)
+- Apuestas registradas: **6534**  ($370,034,601 en total)
 - Resueltas: **6429** — 3926 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 81
+- Pendientes: 83
 - Apostadores distintos: 638
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 8 | 65% | $47,117,625 | +$1,143,151 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 9 | 65% | $47,154,625 | +$1,143,151 |
 | Sassy-Bucket | 90 | 94 | 5 | 49% | $12,066,678 | -$1,490,411 |
 | mooseborzoii | 93 | 50 | 5 | 65% | $8,363,203 | +$1,154,984 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 102 | 53 | 3 | 66% | $6,872,953 | +$124,380 |
+| ferrariChampions2026 | 102 | 53 | 4 | 66% | $6,898,802 | +$124,380 |
 | Lakersfan111 | 83 | 47 | 4 | 64% | $6,457,423 | +$245,409 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | googleplay | 16 | 19 | 3 | 46% | $6,000,572 | -$427,044 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 638 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Titans | Browns | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Dolphins vs. Jets | Dolphins | 2.08 (48¢) | $25,849 | — | ⏳ Pendiente |
 | juice-fruit | Dolphins vs. Jets | Jets | 1.96 (51¢) | $38,141 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-10-25? | Yes | 4.17 (24¢) | $32,314 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Giants vs. Texans | Texans | 1.59 (63¢) | $34,497 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 638 en total)_
 | tikstt2 | Will Leeds United FC win on 2026-10-25? | No | 1.52 (66¢) | $33,474 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $448,587 | +$44,366 | ✅ Ganada |
 | Nooserac | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $45,500 | +$4,500 | ✅ Ganada |
-| Sassy-Bucket | Steelers vs. Saints | Steelers | 1.56 (64¢) | $193,906 | +$109,072 | ✅ Ganada |
-| Sassy-Bucket | Steelers vs. Saints | Steelers | 1.59 (63¢) | $106,630 | +$62,624 | ✅ Ganada |
