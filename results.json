@@ -96331,5 +96331,20 @@
     "status": "pending",
     "ultimo_fill": 1792899692,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13029,
+    "timestamp": 1792900210,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-nop-den-2026-10-24",
+    "title": "Pelicans vs. Nuggets",
+    "outcome": "Nuggets",
+    "side": "BUY",
+    "usd": 178000.0,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1792900210,
+    "fills": 1
   }
 ]
