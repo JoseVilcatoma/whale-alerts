@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 21:21:01 (hora de Perú)
+Actualizado: 2026-10-24 21:23:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6397**  ($361,048,078 en total)
-- Resueltas: **6311** — 3848 ganadas / 2463 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Resueltas: **6321** — 3854 ganadas / 2467 perdidas (**61%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,680,520** sobre $355,734,340 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,365** sobre $622,300 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,359,072** sobre $356,539,394 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$7,331** sobre $623,300 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 457 | 250 | 7 | 65% | $46,191,698 | +$929,976 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 458 | 251 | 5 | 65% | $46,191,698 | +$897,932 |
 | Sassy-Bucket | 86 | 93 | 5 | 48% | $11,659,202 | -$1,591,376 |
-| mooseborzoii | 89 | 46 | 8 | 66% | $8,107,170 | +$1,240,419 |
+| mooseborzoii | 89 | 47 | 7 | 65% | $8,107,170 | +$1,210,738 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 1 | 51% | $7,477,793 | -$661,667 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 25 | 0 | 71% | $5,149,705 | -$186,637 |
-| googleplay | 14 | 16 | 3 | 47% | $4,963,340 | -$505,804 |
+| googleplay | 15 | 16 | 2 | 48% | $4,963,340 | -$196,744 |
 | BrotherObama | 47 | 51 | 2 | 48% | $4,400,789 | -$123,120 |
 | maz26 | 32 | 21 | 3 | 60% | $3,818,660 | +$365,369 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | Woaifacai | Tampa Bay Rays vs. Milwaukee Brewers | Tampa Bay Rays | 1.61 (62¢) | $37,135 | — | ⏳ Pendiente |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.11 (90¢) | $45,000 | — | ⏳ Pendiente |
 | sulumos | Warriors vs. Suns | Suns | 1.30 (77¢) | $30,810 | — | ⏳ Pendiente |
-| Woaifacai | Bucks vs. 76ers | 76ers | 1.18 (85¢) | $77,432 | — | ⏳ Pendiente |
+| Woaifacai | Bucks vs. 76ers | 76ers | 1.18 (85¢) | $77,432 | +$13,664 | ✅ Ganada |
 | Netrol | Spread: Nuggets (-11.5) | Nuggets | 2.08 (48¢) | $27,960 | — | ⏳ Pendiente |
 | googleplay | Spread: Nuggets (-11.5) | Pelicans | 1.89 (53¢) | $317,928 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Kraken | Wild | 1.59 (63¢) | $46,321 | — | ⏳ Pendiente |
@@ -96,30 +96,30 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Hornets | Heat | 2.94 (34¢) | $34,000 | -$34,000 | ❌ Perdida |
 | Woaifacai | Heat vs. Hornets | Hornets | 1.52 (66¢) | $33,000 | +$17,000 | ✅ Ganada |
 | meoooow | LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage | Bilibili Gaming | 1.32 (76¢) | $74,057 | +$23,386 | ✅ Ganada |
-| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Bucks vs. 76ers | 76ers | 1.12 (89¢) | $30,718 | — | ⏳ Pendiente |
+| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Bucks vs. 76ers | 76ers | 1.12 (89¢) | $30,718 | +$3,797 | ✅ Ganada |
 | winner877 | Spurs vs. Mavericks | Spurs | 1.15 (87¢) | $141,539 | — | ⏳ Pendiente |
 | KaneAnalytics | San Diego State vs. Colorado State | Colorado State | 1.59 (63¢) | $57,155 | — | ⏳ Pendiente |
 | KaneAnalytics | Ole Miss vs. Texas | Texas | 1.43 (70¢) | $26,651 | — | ⏳ Pendiente |
 | big8betz | Wizards vs. Bulls | Wizards | 2.08 (48¢) | $49,000 | — | ⏳ Pendiente |
 | HVAB | Fort Worth: Jenson Brooksby vs Gabriel Debru | Jenson Brooksby | 1.32 (76¢) | $32,854 | +$10,375 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $89,965 | — | ⏳ Pendiente |
-| juice-fruit | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $34,601 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $89,965 | -$89,965 | ❌ Perdida |
+| juice-fruit | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $34,601 | +$34,601 | ✅ Ganada |
 | Eugycom | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $34,300 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bulls (-1.5) | Bulls | 1.96 (51¢) | $101,193 | — | ⏳ Pendiente |
-| juice-fruit | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
+| juice-fruit | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $100,000 | +$100,000 | ✅ Ganada |
 | Sassy-Bucket | Syracuse vs. North Carolina | North Carolina | 1.32 (76¢) | $267,695 | — | ⏳ Pendiente |
-| mooseborzoii | Spread: 76ers (-12.5) | 76ers | 1.96 (51¢) | $29,682 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | Bucks | 2.04 (49¢) | $55,649 | — | ⏳ Pendiente |
+| mooseborzoii | Spread: 76ers (-12.5) | 76ers | 1.96 (51¢) | $29,682 | -$29,682 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | Bucks | 2.04 (49¢) | $55,649 | +$57,921 | ✅ Ganada |
 | NS13 | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.82 (55¢) | $25,258 | -$25,258 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.89 (53¢) | $96,107 | -$96,107 | ❌ Perdida |
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.13 (47¢) | $379,159 | +$427,563 | ✅ Ganada |
 | Sassy-Bucket | Ole Miss vs. Texas | Texas | 1.67 (60¢) | $240,007 | — | ⏳ Pendiente |
-| yabanci | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $52,430 | — | ⏳ Pendiente |
+| yabanci | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $52,430 | -$52,430 | ❌ Perdida |
 | BrotherObama | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.27 (44¢) | $26,419 | +$33,624 | ✅ Ganada |
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.33 (43¢) | $25,800 | +$34,200 | ✅ Ganada |
 | executiveX | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.75 (57¢) | $34,200 | -$34,200 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Bulls | Wizards | 2.17 (46¢) | $216,417 | — | ⏳ Pendiente |
-| googleplay | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $309,060 | — | ⏳ Pendiente |
+| googleplay | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $309,060 | +$309,060 | ✅ Ganada |
 | theowalcott | Will Philadelphia Union win on 2026-10-24? | Yes | 1.54 (65¢) | $28,129 | -$28,129 | ❌ Perdida |
 | Donkey14 | Spread: Bulls (-1.5) | Wizards | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
 | robustmst | Heat vs. Hornets | Hornets | 1.89 (53¢) | $48,854 | +$32,262 | 💰 Vendida antes |
