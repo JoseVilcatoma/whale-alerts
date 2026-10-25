@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 01:10:17 (hora de Perú)
+Actualizado: 2026-10-25 01:12:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6419**  ($362,194,039 en total)
-- Resueltas: **6384** — 3897 ganadas / 2487 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **6385** — 3897 ganadas / 2488 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 633
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,161,390** sobre $360,631,502 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,598** sobre $629,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,210,636** sobre $360,680,748 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,698** sobre $629,700 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.67 (60¢) | $58,856 | +$39,237 | ✅ Ganada |
 | TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.35 (74¢) | $26,104 | +$9,172 | ✅ Ganada |
 | Zywoo123 | Warriors vs. Suns | Suns | 1.28 (78¢) | $29,615 | +$8,353 | ✅ Ganada |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Utah (-6.5) | Houston | 2.04 (49¢) | $49,247 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Utah (-6.5) | Houston | 2.04 (49¢) | $49,247 | -$49,247 | ❌ Perdida |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Pelicans vs. Nuggets | Pelicans | 1.52 (66¢) | $27,186 | -$27,186 | ❌ Perdida |
 | mooseborzoii | Houston vs. Utah: O/U 57.5 | Under 57.5 | 2.00 (50¢) | $38,424 | — | ⏳ Pendiente |
 | Nooserac | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $41,035 | +$10,259 | ✅ Ganada |
