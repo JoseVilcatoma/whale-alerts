@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 13:07:12 (hora de Perú)
+Actualizado: 2026-10-25 13:09:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6536**  ($370,100,068 en total)
+- Apuestas registradas: **6537**  ($370,131,268 en total)
 - Resueltas: **6429** — 3926 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 85
+- Pendientes: 86
 - Apostadores distintos: 639
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| PEYZ-BIGGEST-FAN | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
 | shark142 | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $35,467 | — | ⏳ Pendiente |
 | chongchong37 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Titans | Browns | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 | kevinmeng | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.35 (74¢) | $53,339 | — | ⏳ Pendiente |
 | Takon88 | Will FC Bayern München win on 2026-10-25? | Yes | 1.54 (65¢) | $95,869 | — | ⏳ Pendiente |
 | mooseborzoii | Will Leeds United FC win on 2026-10-25? | Yes | 2.94 (34¢) | $26,494 | — | ⏳ Pendiente |
-| tikstt2 | Will Leeds United FC win on 2026-10-25? | No | 1.52 (66¢) | $33,474 | — | ⏳ Pendiente |
