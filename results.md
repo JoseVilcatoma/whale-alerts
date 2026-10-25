@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:17:37 (hora de Perú)
+Actualizado: 2026-10-25 17:19:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6620**  ($375,908,062 en total)
+- Apuestas registradas: **6627**  ($376,253,421 en total)
 - Resueltas: **6505** — 3968 ganadas / 2537 perdidas (**61%** de acierto)
-- Pendientes: 93
+- Pendientes: 100
 - Apostadores distintos: 643
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 466 | 254 | 13 | 65% | $47,923,123 | +$1,350,315 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 466 | 254 | 15 | 65% | $48,067,830 | +$1,350,315 |
 | Sassy-Bucket | 93 | 94 | 2 | 50% | $12,066,678 | -$1,393,191 |
 | mooseborzoii | 95 | 53 | 3 | 64% | $8,577,252 | +$952,942 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -55,12 +55,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ndb1 | 28 | 15 | 0 | 65% | $2,337,048 | +$412,352 |
+| Talvez10 | 27 | 22 | 1 | 55% | $2,335,861 | +$269,729 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| Talvez10 | 27 | 22 | 0 | 55% | $2,286,861 | +$269,729 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| TAIWANNUMBERONE | 36 | 17 | 1 | 68% | $2,061,037 | -$145,496 |
+| TAIWANNUMBERONE | 36 | 17 | 2 | 68% | $2,086,612 | -$145,496 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | juice-fruit | 22 | 9 | 1 | 71% | $1,911,186 | +$443,555 |
@@ -71,9 +71,16 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Siddhartha1 | Pacers vs. Nets | Pacers | 1.54 (65¢) | $32,641 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Broncos vs. Cardinals | Broncos | 1.12 (89¢) | $25,575 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $33,223 | — | ⏳ Pendiente |
+| Woaifacai | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $52,986 | — | ⏳ Pendiente |
+| Baronen11 | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $40,450 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $40,384 | — | ⏳ Pendiente |
 | ethanaz | Packers vs. Lions | Packers | 2.08 (48¢) | $36,868 | — | ⏳ Pendiente |
 | Siddhartha1 | Spread: Pacers (-6.5) | Pacers | 2.08 (48¢) | $37,278 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-3.5) | Raptors | 2.04 (49¢) | $104,323 | — | ⏳ Pendiente |
+| Talvez10 | Spread: Timberwolves (-3.5) | Raptors | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: Timberwolves (-3.5) | Timberwolves | 1.96 (51¢) | $152,922 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Thunder: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $25,015 | — | ⏳ Pendiente |
 | mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.79 (56¢) | $43,500 | — | ⏳ Pendiente |
@@ -124,10 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | nb1985 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.17 (46¢) | $42,797 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Dplus KIA vs Movistar KOI (BO3) - Worlds Group Stage | Dplus KIA | 1.08 (93¢) | $166,214 | -$3,574 | 💰 Vendida antes |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Giants | 1.45 (69¢) | $32,903 | +$14,783 | ✅ Ganada |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Madrid CF win on 2026-10-25? | No | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $76,823 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | 49ers vs. Falcons | Falcons | 1.18 (85¢) | $47,330 | +$8,352 | ✅ Ganada |
-| ArturitoFilito | Spread: FC Barcelona (-1.5) | Real Madrid CF | 1.75 (57¢) | $37,549 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Texans | 2.27 (44¢) | $59,451 | -$59,451 | ❌ Perdida |
-| sbsigner | Packers vs. Lions | Lions | 1.54 (65¢) | $46,429 | — | ⏳ Pendiente |
