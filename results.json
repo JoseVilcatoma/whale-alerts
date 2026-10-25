@@ -97171,5 +97171,35 @@
     "status": "pending",
     "ultimo_fill": 1792939436,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13142,
+    "timestamp": 1792939949,
+    "username": "halanddd123",
+    "wallet": "0x2787692672096be48fe4fe0f7921925b7cace0c4",
+    "slug": "lol-hle1-ig1-2026-10-25",
+    "title": "LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 40382.0368,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1792939949,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13143,
+    "timestamp": 1792940044,
+    "username": "Pwaddler",
+    "wallet": "0x1d1ade627d0bb0205758580b20d808573e720df6",
+    "slug": "nfl-mia-nyj-2026-10-25-spread-home-4pt5",
+    "title": "Spread: Jets (-4.5)",
+    "outcome": "Dolphins",
+    "side": "BUY",
+    "usd": 32922.0736,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792940044,
+    "fills": 1
   }
 ]

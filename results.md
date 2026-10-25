@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 09:52:03 (hora de Perú)
+Actualizado: 2026-10-25 09:54:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6465**  ($364,169,095 en total)
+- Apuestas registradas: **6467**  ($364,242,399 en total)
 - Resueltas: **6404** — 3909 ganadas / 2495 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 41
 - Apostadores distintos: 635
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Pwaddler | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $32,922 | — | ⏳ Pendiente |
+| halanddd123 | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.35 (74¢) | $40,382 | — | ⏳ Pendiente |
 | KaneAnalytics | Steelers vs. Saints | Steelers | 1.67 (60¢) | $31,479 | — | ⏳ Pendiente |
 | Woaifacai | Will Hull City AFC win on 2026-10-25? | No | 1.67 (60¢) | $50,232 | — | ⏳ Pendiente |
 | Woaifacai | Hull City AFC vs. Brentford FC: O/U 2.5 | Under 2.5 | 1.79 (56¢) | $53,390 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Nuggets | Nuggets | 1.12 (89¢) | $178,000 | +$22,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Nuggets | Pelicans | 3.12 (32¢) | $31,123 | -$31,123 | ❌ Perdida |
 | Woaifacai | Pelicans vs. Nuggets | Nuggets | 1.49 (67¢) | $30,804 | +$15,172 | ✅ Ganada |
-| dhgreg | Warriors vs. Suns | Suns | 1.35 (74¢) | $67,284 | +$23,640 | ✅ Ganada |
-| 0x6db5…e279 | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $37,999 | +$5,182 | ✅ Ganada |
