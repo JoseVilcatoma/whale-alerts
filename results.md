@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 10:43:43 (hora de Perú)
+Actualizado: 2026-10-25 10:45:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6479**  ($365,409,644 en total)
+- Apuestas registradas: **6481**  ($365,619,513 en total)
 - Resueltas: **6406** — 3911 ganadas / 2495 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 53
 - Apostadores distintos: 636
 
 ### Balance
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.75 (57¢) | $114,000 | — | ⏳ Pendiente |
 | kevinmeng | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.35 (74¢) | $53,339 | — | ⏳ Pendiente |
+| Takon88 | Will FC Bayern München win on 2026-10-25? | Yes | 1.54 (65¢) | $95,869 | — | ⏳ Pendiente |
 | mooseborzoii | Will Leeds United FC win on 2026-10-25? | Yes | 2.94 (34¢) | $26,494 | — | ⏳ Pendiente |
 | tikstt2 | Will Leeds United FC win on 2026-10-25? | No | 1.52 (66¢) | $33,474 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $448,587 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | OG | 2.50 (40¢) | $29,427 | +$44,141 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.39 (72¢) | $25,467 | +$9,904 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: BetBoom Team vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 2.44 (41¢) | $28,732 | -$28,732 | ❌ Perdida |
-| YYYYY999 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.37 (73¢) | $49,330 | +$18,245 | ✅ Ganada |
-| Wiretransferxyz | Counter-Strike: BetBoom Team vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | BetBoom Team | 1.72 (58¢) | $26,100 | +$18,900 | ✅ Ganada |
