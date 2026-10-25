@@ -95941,5 +95941,20 @@
     "status": "pending",
     "ultimo_fill": 1792888716,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 12942,
+    "timestamp": 1792889056,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "cfb-miss-tx-2026-10-24",
+    "title": "Ole Miss vs. Texas",
+    "outcome": "Texas",
+    "side": "BUY",
+    "usd": 50400.0,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1792889056,
+    "fills": 1
   }
 ]
