@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 18:55:26 (hora de Perú)
+Actualizado: 2026-10-25 18:57:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6652**  ($378,100,444 en total)
-- Resueltas: **6562** — 4002 ganadas / 2560 perdidas (**61%** de acierto)
-- Pendientes: 68
+- Resueltas: **6572** — 4010 ganadas / 2562 perdidas (**61%** de acierto)
+- Pendientes: 58
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,119,466** sobre $373,121,800 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,370** sobre $647,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$1,954,760** sobre $373,568,779 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,058** sobre $648,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,8 +32,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 104 | 56 | 1 | 65% | $6,975,205 | +$59,196 |
-| Lakersfan111 | 84 | 47 | 8 | 64% | $6,640,887 | +$260,796 |
+| ferrariChampions2026 | 104 | 57 | 0 | 65% | $6,975,205 | +$24,128 |
+| Lakersfan111 | 87 | 47 | 5 | 65% | $6,640,887 | +$370,926 |
 | googleplay | 17 | 21 | 4 | 45% | $6,582,502 | -$366,994 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
 | BrotherObama | 47 | 51 | 3 | 48% | $4,425,789 | -$123,120 |
-| maz26 | 39 | 23 | 2 | 63% | $4,388,312 | +$647,906 |
+| maz26 | 39 | 24 | 1 | 62% | $4,388,312 | +$613,668 |
 | Mooseborzoiii | 17 | 17 | 3 | 50% | $3,880,917 | +$529,743 |
 | Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -98,8 +98,8 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Zzzz87 | Spread: Timberwolves (-3.5) | Timberwolves | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Siddhartha1 | Pacers vs. Nets | Pacers | 1.54 (65¢) | $32,641 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Broncos vs. Cardinals | Broncos | 1.12 (89¢) | $25,575 | +$3,161 | ✅ Ganada |
-| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $33,223 | — | ⏳ Pendiente |
-| Woaifacai | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $52,986 | — | ⏳ Pendiente |
+| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $33,223 | +$11,673 | ✅ Ganada |
+| Woaifacai | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $52,986 | +$18,617 | ✅ Ganada |
 | Baronen11 | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $40,450 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $40,384 | — | ⏳ Pendiente |
 | ethanaz | Packers vs. Lions | Packers | 2.08 (48¢) | $36,868 | -$36,868 | ❌ Perdida |
@@ -124,7 +124,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.25 (80¢) | $52,396 | -$52,396 | ❌ Perdida |
 | cs2.quant | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.23 (81¢) | $29,697 | -$29,697 | ❌ Perdida |
 | halanddd123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $201,263 | -$59,066 | 💰 Vendida antes |
-| jakepaulthegoat2008 | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $30,600 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $30,600 | +$14,400 | ✅ Ganada |
 | 473game | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $26,336 | — | ⏳ Pendiente |
 | goweibo123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $30,666 | — | ⏳ Pendiente |
 | thewatcherofall | Packers vs. Lions | Lions | 1.47 (68¢) | $49,442 | -$15,996 | 💰 Vendida antes |
