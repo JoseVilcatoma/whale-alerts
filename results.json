@@ -97033,7 +97033,7 @@
     "side": "BUY",
     "usd": 35784.729,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792935044,
     "fills": 1
   },
@@ -97093,7 +97093,7 @@
     "side": "BUY",
     "usd": 30305.639999999996,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792936705,
     "fills": 1
   },
@@ -97635,6 +97635,36 @@
     "odds_at_bet": 55,
     "status": "pending",
     "ultimo_fill": 1792945057,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13190,
+    "timestamp": 1792945228,
+    "username": "nb1985",
+    "wallet": "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7",
+    "slug": "epl-sun-lee-2026-10-25-lee",
+    "title": "Will Leeds United FC win on 2026-10-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 50000.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1792945228,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13191,
+    "timestamp": 1792945233,
+    "username": "S-Works",
+    "wallet": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+    "slug": "epl-sun-lee-2026-10-25-sun",
+    "title": "Will Sunderland AFC win on 2026-10-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 84393.496889,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1792945233,
     "fills": 1
   }
 ]
