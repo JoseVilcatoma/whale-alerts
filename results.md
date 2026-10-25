@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 18:47:11 (hora de Perú)
+Actualizado: 2026-10-25 18:49:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6652**  ($378,100,444 en total)
-- Resueltas: **6543** — 3989 ganadas / 2554 perdidas (**61%** de acierto)
-- Pendientes: 87
+- Resueltas: **6556** — 3999 ganadas / 2557 perdidas (**61%** de acierto)
+- Pendientes: 74
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,170,764** sobre $371,814,648 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,516** sobre $645,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$1,990,687** sobre $372,741,631 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,173** sobre $646,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,26 +24,26 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 473 | 254 | 13 | 65% | $48,302,189 | +$1,725,672 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 473 | 255 | 12 | 65% | $48,302,189 | +$1,669,064 |
 | Sassy-Bucket | 93 | 94 | 3 | 50% | $12,103,975 | -$1,393,191 |
-| mooseborzoii | 95 | 53 | 4 | 64% | $8,602,883 | +$952,942 |
+| mooseborzoii | 96 | 53 | 3 | 64% | $8,602,883 | +$966,146 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 103 | 56 | 2 | 65% | $6,975,205 | +$47,994 |
+| ferrariChampions2026 | 104 | 56 | 1 | 65% | $6,975,205 | +$59,196 |
 | Lakersfan111 | 84 | 47 | 8 | 64% | $6,640,887 | +$260,796 |
 | googleplay | 17 | 21 | 4 | 45% | $6,582,502 | -$366,994 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ethanaz | 60 | 26 | 1 | 70% | $5,234,064 | -$234,128 |
+| ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
 | BrotherObama | 47 | 51 | 3 | 48% | $4,425,789 | -$123,120 |
-| maz26 | 36 | 23 | 5 | 61% | $4,388,312 | +$470,258 |
+| maz26 | 39 | 23 | 2 | 63% | $4,388,312 | +$647,906 |
 | Mooseborzoiii | 17 | 17 | 3 | 50% | $3,880,917 | +$529,743 |
-| Kch-Temp | 44 | 13 | 2 | 77% | $3,864,821 | +$1,908,000 |
+| Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. 76ers | 76ers | 2.22 (45¢) | $86,482 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Pacers vs. Nets | Pacers | 1.22 (82¢) | $27,558 | — | ⏳ Pendiente |
 | Siddhartha1 | Pistons vs. 76ers | Pistons | 1.85 (54¢) | $26,881 | — | ⏳ Pendiente |
-| mooseborzoii | Packers vs. Lions | Lions | 1.52 (66¢) | $25,631 | — | ⏳ Pendiente |
+| mooseborzoii | Packers vs. Lions | Lions | 1.52 (66¢) | $25,631 | +$13,204 | ✅ Ganada |
 | Jokerxing7 | Spread: Thunder (-16.5) | Thunder | 1.92 (52¢) | $33,539 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $38,727 | — | ⏳ Pendiente |
 | dhgreg | Spread: Thunder (-13.5) | Clippers | 2.44 (41¢) | $36,900 | — | ⏳ Pendiente |
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Woaifacai | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $52,986 | — | ⏳ Pendiente |
 | Baronen11 | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $40,450 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $40,384 | — | ⏳ Pendiente |
-| ethanaz | Packers vs. Lions | Packers | 2.08 (48¢) | $36,868 | — | ⏳ Pendiente |
+| ethanaz | Packers vs. Lions | Packers | 2.08 (48¢) | $36,868 | -$36,868 | ❌ Perdida |
 | Siddhartha1 | Spread: Pacers (-6.5) | Pacers | 2.08 (48¢) | $37,278 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-3.5) | Raptors | 2.04 (49¢) | $104,323 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Timberwolves (-3.5) | Raptors | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
@@ -115,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.25 (80¢) | $40,000 | — | ⏳ Pendiente |
 | sinasinner | Will FC Barcelona vs. Real Madrid CF end in a draw? | Yes | 1.85 (54¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Raiders | Rams | 1.19 (84¢) | $132,532 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Packers vs. Lions | Lions | 1.33 (75¢) | $33,606 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Packers vs. Lions | Lions | 1.33 (75¢) | $33,606 | +$11,202 | ✅ Ganada |
 | googleplay | Pacers vs. Nets: O/U 231.5 | Over 231.5 | 1.96 (51¢) | $27,966 | — | ⏳ Pendiente |
 | googleplay | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $350,623 | — | ⏳ Pendiente |
 | Flaznorp | FC Barcelona vs. Real Madrid CF: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $26,924 | +$25,869 | ✅ Ganada |
