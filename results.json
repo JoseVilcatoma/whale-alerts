@@ -97366,5 +97366,20 @@
     "status": "pending",
     "ultimo_fill": 1792942079,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13157,
+    "timestamp": 1792942824,
+    "username": "kevinmeng",
+    "wallet": "0xddf37336be71210729a5b79d62d90d6b2bdf8d34",
+    "slug": "lol-hle1-ig1-2026-10-25",
+    "title": "LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 53339.24999800001,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1792942824,
+    "fills": 1
   }
 ]
