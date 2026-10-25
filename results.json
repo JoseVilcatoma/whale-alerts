@@ -98491,5 +98491,20 @@
     "status": "pending",
     "ultimo_fill": 1792955547,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13275,
+    "timestamp": 1792955725,
+    "username": "shark142",
+    "wallet": "0x2759769cd371bee44ec5bfc5e72c7f1f092b2b38",
+    "slug": "nfl-cin-bal-2026-10-25",
+    "title": "Bengals vs. Ravens",
+    "outcome": "Bengals",
+    "side": "BUY",
+    "usd": 28285.7184,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1792955725,
+    "fills": 1
   }
 ]

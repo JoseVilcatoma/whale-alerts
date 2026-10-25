@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 14:13:38 (hora de Perú)
+Actualizado: 2026-10-25 14:15:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6553**  ($371,513,309 en total)
+- Apuestas registradas: **6554**  ($371,541,595 en total)
 - Resueltas: **6448** — 3934 ganadas / 2514 perdidas (**61%** de acierto)
-- Pendientes: 83
+- Pendientes: 84
 - Apostadores distintos: 640
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| shark142 | Bengals vs. Ravens | Bengals | 1.39 (72¢) | $28,286 | — | ⏳ Pendiente |
 | yabanci | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Movistar KOI | 4.76 (21¢) | $32,188 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.28 (78¢) | $212,456 | — | ⏳ Pendiente |
 | Sunshine.Smile | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.35 (74¢) | $32,936 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | nb1985 | Will Leeds United FC win on 2026-10-25? | No | 1.49 (67¢) | $50,000 | +$24,627 | ✅ Ganada |
 | Sassy-Bucket | Browns vs. Titans | Browns | 1.82 (55¢) | $49,239 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Broncos vs. Cardinals | Broncos | 1.49 (67¢) | $32,524 | — | ⏳ Pendiente |
-| gmpm2 | Colts vs. Vikings | Vikings | 1.35 (74¢) | $57,555 | — | ⏳ Pendiente |
