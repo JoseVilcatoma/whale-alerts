@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 20:19:35 (hora de Perú)
+Actualizado: 2026-10-24 20:21:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6390**  ($360,771,878 en total)
+- Apuestas registradas: **6391**  ($360,816,878 en total)
 - Resueltas: **6304** — 3843 ganadas / 2461 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Pendientes: 65
 - Apostadores distintos: 632
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 456 | 250 | 8 | 65% | $46,191,698 | +$906,476 |
 | Sassy-Bucket | 86 | 93 | 5 | 48% | $11,659,202 | -$1,591,376 |
-| mooseborzoii | 89 | 46 | 6 | 66% | $8,023,746 | +$1,240,419 |
+| mooseborzoii | 89 | 46 | 7 | 66% | $8,068,746 | +$1,240,419 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 1 | 51% | $7,477,793 | -$661,667 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Ole Miss vs. Texas | Texas | 1.11 (90¢) | $45,000 | — | ⏳ Pendiente |
 | sulumos | Warriors vs. Suns | Suns | 1.30 (77¢) | $30,810 | — | ⏳ Pendiente |
 | Woaifacai | Bucks vs. 76ers | 76ers | 1.18 (85¢) | $77,432 | — | ⏳ Pendiente |
 | Netrol | Spread: Nuggets (-11.5) | Nuggets | 2.08 (48¢) | $27,960 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | Nooserac | Spread: Boise State (-14.5) | Washington State | 1.96 (51¢) | $34,000 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.72 (58¢) | $25,909 | +$18,762 | ✅ Ganada |
 | YYYYY999 | Pelicans vs. Nuggets | Nuggets | 1.25 (80¢) | $32,000 | — | ⏳ Pendiente |
-| Sassy-Bucket | San Diego State vs. Colorado State | Colorado State | 2.00 (50¢) | $36,959 | — | ⏳ Pendiente |
