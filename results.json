@@ -96751,5 +96751,20 @@
     "status": "pending",
     "ultimo_fill": 1792924798,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13100,
+    "timestamp": 1792925000,
+    "username": "Jokerxing7",
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "slug": "sea-int-fio-2026-10-25-total-3pt5",
+    "title": "FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 43000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792925000,
+    "fills": 1
   }
 ]
