@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:42:17 (hora de Perú)
+Actualizado: 2026-10-25 17:44:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6633**  ($376,571,445 en total)
+- Apuestas registradas: **6636**  ($376,927,377 en total)
 - Resueltas: **6535** — 3982 ganadas / 2553 perdidas (**61%** de acierto)
-- Pendientes: 76
+- Pendientes: 79
 - Apostadores distintos: 643
 
 ### Balance
@@ -44,13 +44,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 36 | 23 | 5 | 61% | $4,388,312 | +$470,258 |
 | Kch-Temp | 43 | 13 | 3 | 77% | $3,864,821 | +$1,850,175 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
+| Mooseborzoiii | 17 | 17 | 3 | 50% | $3,654,117 | +$529,743 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
-| Mooseborzoiii | 17 | 17 | 2 | 50% | $3,513,156 | +$529,743 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | cosmicxbt | 20 | 8 | 1 | 71% | $3,153,830 | -$394,523 |
+| milkteaboba | 13 | 12 | 2 | 52% | $2,996,859 | -$1,041,660 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
-| milkteaboba | 13 | 12 | 1 | 52% | $2,813,959 | -$1,041,660 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Raptors vs. Timberwolves | Timberwolves | 1.69 (59¢) | $182,900 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.20 (83¢) | $140,961 | — | ⏳ Pendiente |
+| dhgreg | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $32,071 | — | ⏳ Pendiente |
 | zb8 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.22 (82¢) | $26,215 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Thunder (-16.5) | Thunder | 2.13 (47¢) | $29,469 | — | ⏳ Pendiente |
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.89 (53¢) | $118,388 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | zb8 | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.43 (70¢) | $28,262 | +$12,112 | ✅ Ganada |
 | gmpm2 | Packers vs. Lions | Lions | 1.54 (65¢) | $32,098 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Lions | Lions | 1.54 (65¢) | $186,550 | — | ⏳ Pendiente |
-| juice-fruit | Browns vs. Titans | Browns | 1.61 (62¢) | $34,444 | +$21,111 | ✅ Ganada |
-| LTandBB | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $36,356 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $299,289 | +$52,816 | ✅ Ganada |
