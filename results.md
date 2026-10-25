@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 13:44:24 (hora de Perú)
+Actualizado: 2026-10-25 13:46:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6548**  ($371,160,529 en total)
-- Resueltas: **6434** — 3928 ganadas / 2506 perdidas (**61%** de acierto)
-- Pendientes: 92
+- Resueltas: **6439** — 3928 ganadas / 2511 perdidas (**61%** de acierto)
+- Pendientes: 87
 - Apostadores distintos: 639
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,925,068** sobre $363,418,037 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$6,710** sobre $634,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,115,422** sobre $363,608,391 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$7,210** sobre $635,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,8 +96,8 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 | ferrariChampions2026 | Colts vs. Vikings | Colts | 2.33 (43¢) | $27,096 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.75 (57¢) | $74,772 | — | ⏳ Pendiente |
 | milkteaboba | Giants vs. Texans | Texans | 1.23 (81¢) | $346,955 | — | ⏳ Pendiente |
-| fhiwbijd | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.32 (76¢) | $37,978 | — | ⏳ Pendiente |
-| goweibo123 | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.33 (75¢) | $25,654 | — | ⏳ Pendiente |
+| fhiwbijd | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.32 (76¢) | $37,978 | -$37,978 | ❌ Perdida |
+| goweibo123 | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.33 (75¢) | $25,654 | -$25,654 | ❌ Perdida |
 | YYYYY999 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $42,706 | — | ⏳ Pendiente |
 | mooseborzoii | Browns vs. Titans | Titans | 2.22 (45¢) | $89,633 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Vikings | Vikings | 1.33 (75¢) | $59,201 | — | ⏳ Pendiente |
@@ -118,7 +118,7 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 | SDTrading | Spread: Panthers (-2.5) | Panthers | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | DonLino1 | Browns vs. Titans | Titans | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | raybanman | Browns vs. Titans | Titans | 2.17 (46¢) | $349,600 | — | ⏳ Pendiente |
-| salgnklasf | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.37 (73¢) | $33,000 | — | ⏳ Pendiente |
+| salgnklasf | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.37 (73¢) | $33,000 | -$33,000 | ❌ Perdida |
 | COMEONDUDE | Spread: Bengals (-3.5) | Ravens | 1.82 (55¢) | $49,500 | — | ⏳ Pendiente |
 | bbb17367162806 | Magic vs. Knicks | Knicks | 1.39 (72¢) | $31,523 | — | ⏳ Pendiente |
 | S-Works | Will Sunderland AFC win on 2026-10-25? | No | 1.56 (64¢) | $84,393 | — | ⏳ Pendiente |
