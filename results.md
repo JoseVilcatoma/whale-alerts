@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 19:33:35 (hora de Perú)
+Actualizado: 2026-10-24 19:35:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6381**  ($360,100,385 en total)
-- Resueltas: **6285** — 3835 ganadas / 2450 perdidas (**61%** de acierto)
+- Apuestas registradas: **6382**  ($360,133,566 en total)
+- Resueltas: **6286** — 3835 ganadas / 2451 perdidas (**61%** de acierto)
 - Pendientes: 74
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,831,693** sobre $354,149,815 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,178** sobre $619,700 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,860,203** sobre $354,178,325 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,278** sobre $619,800 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.08 (48¢) | $33,181 | — | ⏳ Pendiente |
 | 3648393489047 | Ole Miss vs. Texas | Texas | 1.41 (71¢) | $26,210 | — | ⏳ Pendiente |
 | KaneAnalytics | Utah State vs. Texas State | Texas State | 1.49 (67¢) | $37,135 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Heat vs. Hornets | Hornets | 1.06 (94¢) | $25,403 | — | ⏳ Pendiente |
@@ -128,6 +129,5 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | mooseborzoii | Texas A&M vs. Alabama | Alabama | 1.45 (69¢) | $71,436 | +$32,094 | ✅ Ganada |
 | ropetard | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $49,830 | — | ⏳ Pendiente |
 | mooseborzoii | Texas A&M vs. Alabama | Texas A&M | 3.45 (29¢) | $88,010 | -$88,010 | ❌ Perdida |
-| juice-fruit | Will Inter Miami CF win on 2026-10-24? | Yes | 2.00 (50¢) | $28,510 | — | ⏳ Pendiente |
+| juice-fruit | Will Inter Miami CF win on 2026-10-24? | Yes | 2.00 (50¢) | $28,510 | -$28,510 | ❌ Perdida |
 | Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.33 (43¢) | $29,770 | -$29,770 | ❌ Perdida |
-| Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.44 (41¢) | $35,115 | -$35,115 | ❌ Perdida |
