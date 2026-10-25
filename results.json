@@ -96886,5 +96886,20 @@
     "status": "pending",
     "ultimo_fill": 1792928155,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13114,
+    "timestamp": 1792929579,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "scop-hib-cel-2026-10-25-cel",
+    "title": "Will Celtic FC win on 2026-10-25?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 26564.5022,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1792929579,
+    "fills": 1
   }
 ]
