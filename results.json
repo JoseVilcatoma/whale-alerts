@@ -96766,5 +96766,50 @@
     "status": "pending",
     "ultimo_fill": 1792925000,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13101,
+    "timestamp": 1792925633,
+    "username": "migrodrigues",
+    "wallet": "0x9a933a2a83188b28efaf1d07d45228ea6ee82793",
+    "slug": "lal-bar-rea-2026-10-25-bar",
+    "title": "Will FC Barcelona win on 2026-10-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 58177.600000000006,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1792925633,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13102,
+    "timestamp": 1792925639,
+    "username": "Matheobong",
+    "wallet": "0x48b2388d57139e5dcb88cf02021ac2ed79b3e84f",
+    "slug": "sea-int-fio-2026-10-25-total-3pt5",
+    "title": "FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 35700.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792925639,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13103,
+    "timestamp": 1792925663,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "lal-bar-rea-2026-10-25-bar",
+    "title": "Will FC Barcelona win on 2026-10-25?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 50121.29840000001,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1792925663,
+    "fills": 1
   }
 ]
