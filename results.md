@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 20:06:56 (hora de Perú)
+Actualizado: 2026-10-24 20:09:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6387**  ($360,635,676 en total)
+- Apuestas registradas: **6388**  ($360,663,636 en total)
 - Resueltas: **6296** — 3839 ganadas / 2457 perdidas (**61%** de acierto)
-- Pendientes: 69
+- Pendientes: 70
 - Apostadores distintos: 632
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Netrol | Spread: Nuggets (-11.5) | Nuggets | 2.08 (48¢) | $27,960 | — | ⏳ Pendiente |
 | googleplay | Spread: Nuggets (-11.5) | Pelicans | 1.89 (53¢) | $317,928 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Kraken | Wild | 1.59 (63¢) | $46,321 | — | ⏳ Pendiente |
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.00 (50¢) | $27,560 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | Sassy-Bucket | San Diego State vs. Colorado State | Colorado State | 2.00 (50¢) | $36,959 | — | ⏳ Pendiente |
 | juice-fruit | Heat vs. Hornets | Heat | 1.59 (63¢) | $77,557 | — | ⏳ Pendiente |
 | YEEES-but-why | Heat vs. Hornets | Hornets | 2.70 (37¢) | $29,415 | — | ⏳ Pendiente |
-| sinasinner | Spread: Texas (-3.5) | Ole Miss | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
