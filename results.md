@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 18:05:18 (hora de Perú)
+Actualizado: 2026-10-25 18:07:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6645**  ($377,819,663 en total)
+- Apuestas registradas: **6646**  ($377,853,202 en total)
 - Resueltas: **6536** — 3983 ganadas / 2553 perdidas (**61%** de acierto)
-- Pendientes: 87
+- Pendientes: 88
 - Apostadores distintos: 643
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 36 | 17 | 2 | 68% | $2,086,612 | -$145,496 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
+| Jokerxing7 | 13 | 19 | 2 | 41% | $1,921,271 | -$291,322 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
-| juice-fruit | 22 | 9 | 1 | 71% | $1,911,186 | +$443,555 |
 
 _(mostrando los 40 de mayor monto, de 643 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jokerxing7 | Spread: Thunder (-16.5) | Thunder | 1.92 (52¢) | $33,539 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $38,727 | — | ⏳ Pendiente |
 | dhgreg | Spread: Thunder (-13.5) | Clippers | 2.44 (41¢) | $36,900 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $33,434 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | gmpm2 | Packers vs. Lions | Lions | 1.52 (66¢) | $116,305 | — | ⏳ Pendiente |
 | takeormake | Spread: Lions (-3.5) | Packers | 2.13 (47¢) | $66,589 | — | ⏳ Pendiente |
 | veliMax | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $67,223 | -$67,223 | ❌ Perdida |
-| juice-fruit | Packers vs. Lions | Lions | 1.52 (66¢) | $98,677 | — | ⏳ Pendiente |
