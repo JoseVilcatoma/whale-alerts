@@ -98248,7 +98248,7 @@
     "side": "BUY",
     "usd": 31200.0,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792951696,
     "fills": 1
   },
@@ -98263,7 +98263,7 @@
     "side": "BUY",
     "usd": 64088.7024,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792951976,
     "fills": 1
   },
@@ -98278,7 +98278,7 @@
     "side": "BUY",
     "usd": 26500.0,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792951978,
     "fills": 1
   },
@@ -98398,7 +98398,7 @@
     "side": "BUY",
     "usd": 65078.56,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792953715,
     "fills": 1
   },
@@ -98671,5 +98671,20 @@
     "status": "pending",
     "ultimo_fill": 1792957190,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13287,
+    "timestamp": 1792957293,
+    "username": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+    "wallet": "0xd3a0b4e941b557d33a8efd5a51c581e7c79cf136",
+    "slug": "lal-bar-rea-2026-10-25-rea",
+    "title": "Will Real Madrid CF win on 2026-10-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1792957293,
+    "fills": 1
   }
 ]

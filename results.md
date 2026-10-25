@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 14:40:46 (hora de Perú)
+Actualizado: 2026-10-25 14:42:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6565**  ($372,084,501 en total)
-- Resueltas: **6448** — 3934 ganadas / 2514 perdidas (**61%** de acierto)
-- Pendientes: 95
+- Apuestas registradas: **6566**  ($372,114,501 en total)
+- Resueltas: **6452** — 3936 ganadas / 2516 perdidas (**61%** de acierto)
+- Pendientes: 92
 - Apostadores distintos: 640
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,925,143** sobre $364,896,581 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$7,196** sobre $636,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$1,897,144** sobre $365,083,448 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,263** sobre $636,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 43 | 11 | 5 | 80% | $3,864,821 | +$1,951,752 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
-| Mooseborzoiii | 13 | 17 | 4 | 43% | $3,439,626 | +$25,890 |
+| Mooseborzoiii | 14 | 17 | 3 | 45% | $3,439,626 | +$95,320 |
 | raybanman | 17 | 13 | 1 | 57% | $3,413,262 | +$459,157 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | cosmicxbt | 19 | 8 | 1 | 70% | $2,994,498 | -$439,114 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Real Madrid CF win on 2026-10-25? | No | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $76,823 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | 49ers vs. Falcons | Falcons | 1.18 (85¢) | $47,330 | — | ⏳ Pendiente |
 | ArturitoFilito | Spread: FC Barcelona (-1.5) | Real Madrid CF | 1.75 (57¢) | $37,549 | — | ⏳ Pendiente |
@@ -89,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | LaarsY | Panthers vs. Blackhawks | Panthers | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | bluemol | LoL: Dplus KIA vs Movistar KOI (BO3) - Worlds Group Stage | Dplus KIA | 1.27 (79¢) | $50,000 | — | ⏳ Pendiente |
 | Jokerxing7 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.22 (45¢) | $245,027 | — | ⏳ Pendiente |
-| halanddd123 | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | Top Esports | 1.25 (80¢) | $65,079 | — | ⏳ Pendiente |
+| halanddd123 | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | Top Esports | 1.25 (80¢) | $65,079 | +$16,270 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Broncos (-4.5) | Cardinals | 2.00 (50¢) | $56,608 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Broncos (-4.5) | Cardinals | 2.00 (50¢) | $149,560 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.16 (86¢) | $58,494 | — | ⏳ Pendiente |
@@ -97,9 +98,9 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | KaneAnalytics | Giants vs. Texans | Texans | 1.59 (63¢) | $55,346 | — | ⏳ Pendiente |
 | cosmicxbt | Spread: Ravens (-6.5) | Bengals | 1.92 (52¢) | $48,307 | — | ⏳ Pendiente |
 | mooseborzoii | Bengals vs. Ravens | Ravens | 1.33 (75¢) | $123,662 | — | ⏳ Pendiente |
-| fhiwbijd | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | Top Esports | 2.08 (48¢) | $64,089 | — | ⏳ Pendiente |
-| PEYZ-BIGGEST-FAN | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
+| fhiwbijd | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
+| Mooseborzoiii | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | Top Esports | 2.08 (48¢) | $64,089 | +$69,429 | ✅ Ganada |
+| PEYZ-BIGGEST-FAN | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.92 (52¢) | $31,200 | -$31,200 | ❌ Perdida |
 | shark142 | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $35,467 | — | ⏳ Pendiente |
 | chongchong37 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Titans | Browns | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | salgnklasf | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.10 (91¢) | $77,127 | — | ⏳ Pendiente |
 | RegardedMoney | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $314,432 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
-| 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
