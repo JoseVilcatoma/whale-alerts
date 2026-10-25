@@ -98296,5 +98296,20 @@
     "status": "pending",
     "ultimo_fill": 1792952367,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13248,
+    "timestamp": 1792952533,
+    "username": "cosmicxbt",
+    "wallet": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+    "slug": "nfl-cin-bal-2026-10-25-spread-home-6pt5",
+    "title": "Spread: Ravens (-6.5)",
+    "outcome": "Bengals",
+    "side": "BUY",
+    "usd": 48306.5284,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792952533,
+    "fills": 1
   }
 ]
