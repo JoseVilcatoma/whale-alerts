@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 12:13:41 (hora de Perú)
+Actualizado: 2026-10-25 12:15:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6526**  ($369,718,693 en total)
+- Apuestas registradas: **6527**  ($369,762,988 en total)
 - Resueltas: **6428** — 3925 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 76
+- Pendientes: 77
 - Apostadores distintos: 638
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 6 | 65% | $47,041,017 | +$1,143,151 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 7 | 65% | $47,085,311 | +$1,143,151 |
 | Sassy-Bucket | 90 | 94 | 5 | 49% | $12,066,678 | -$1,490,411 |
 | mooseborzoii | 93 | 50 | 5 | 65% | $8,363,203 | +$1,154,984 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 638 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Giants | 5.26 (19¢) | $44,294 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Vikings | Colts | 2.33 (43¢) | $27,096 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.75 (57¢) | $74,772 | — | ⏳ Pendiente |
 | milkteaboba | Giants vs. Texans | Texans | 1.23 (81¢) | $346,955 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 638 en total)_
 | justwins | Spread: Texans (-10.5) | Giants | 1.96 (51¢) | $25,896 | — | ⏳ Pendiente |
 | migrodrigues | Spread: FC Barcelona (-3.5) | FC Barcelona | 7.69 (13¢) | $66,000 | — | ⏳ Pendiente |
 | juice-fruit | Steelers vs. Saints | Steelers | 1.59 (63¢) | $74,496 | +$43,752 | ✅ Ganada |
-| Pwaddler | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $32,922 | — | ⏳ Pendiente |

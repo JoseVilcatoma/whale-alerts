@@ -98086,5 +98086,20 @@
     "status": "pending",
     "ultimo_fill": 1792948393,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13227,
+    "timestamp": 1792948451,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-nyg-hou-2026-10-25",
+    "title": "Giants vs. Texans",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 44294.1585,
+    "odds_at_bet": 19,
+    "status": "pending",
+    "ultimo_fill": 1792948451,
+    "fills": 1
   }
 ]
