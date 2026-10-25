@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:21:41 (hora de Perú)
+Actualizado: 2026-10-25 17:23:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6628**  ($376,279,421 en total)
-- Resueltas: **6505** — 3968 ganadas / 2537 perdidas (**61%** de acierto)
-- Pendientes: 101
+- Resueltas: **6530** — 3980 ganadas / 2550 perdidas (**61%** de acierto)
+- Pendientes: 76
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,097,715** sobre $368,903,231 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,511** sobre $641,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,181,504** sobre $370,756,168 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,644** sobre $644,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 466 | 254 | 15 | 65% | $48,067,830 | +$1,350,315 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 473 | 254 | 8 | 65% | $48,067,830 | +$1,725,672 |
 | Sassy-Bucket | 93 | 94 | 2 | 50% | $12,066,678 | -$1,393,191 |
 | mooseborzoii | 95 | 53 | 3 | 64% | $8,577,252 | +$952,942 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
-| totoro3miyazaki | 38 | 23 | 3 | 62% | $7,945,894 | -$371,364 |
+| totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 20 | 8 | 1 | 71% | $3,153,830 | -$394,523 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | milkteaboba | 13 | 12 | 1 | 52% | $2,813,959 | -$1,041,660 |
-| S-Works | 17 | 7 | 1 | 71% | $2,592,304 | -$208,050 |
+| S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ndb1 | 28 | 15 | 0 | 65% | $2,337,048 | +$412,352 |
@@ -89,12 +89,12 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | ColdBlooded | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $40,500 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $33,530 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.25 (80¢) | $40,000 | — | ⏳ Pendiente |
-| sinasinner | Will FC Barcelona vs. Real Madrid CF end in a draw? | Yes | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
+| sinasinner | Will FC Barcelona vs. Real Madrid CF end in a draw? | Yes | 1.85 (54¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Raiders | Rams | 1.19 (84¢) | $132,532 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Packers vs. Lions | Lions | 1.33 (75¢) | $33,606 | — | ⏳ Pendiente |
 | googleplay | Pacers vs. Nets: O/U 231.5 | Over 231.5 | 1.96 (51¢) | $27,966 | — | ⏳ Pendiente |
 | googleplay | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $350,623 | — | ⏳ Pendiente |
-| Flaznorp | FC Barcelona vs. Real Madrid CF: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $26,924 | — | ⏳ Pendiente |
+| Flaznorp | FC Barcelona vs. Real Madrid CF: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $26,924 | +$25,869 | ✅ Ganada |
 | EdZachary | Grizzlies vs. Kings | Kings | 2.50 (40¢) | $31,027 | — | ⏳ Pendiente |
 | Eugycom | Pacers vs. Nets | Nets | 2.94 (34¢) | $28,246 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.25 (80¢) | $52,396 | — | ⏳ Pendiente |
@@ -112,7 +112,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | cosmicxbt | Broncos vs. Cardinals | Broncos | 1.43 (70¢) | $159,332 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Lions | Lions | 1.52 (66¢) | $116,305 | — | ⏳ Pendiente |
 | takeormake | Spread: Lions (-3.5) | Packers | 2.13 (47¢) | $66,589 | — | ⏳ Pendiente |
-| veliMax | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $67,223 | — | ⏳ Pendiente |
+| veliMax | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $67,223 | -$67,223 | ❌ Perdida |
 | juice-fruit | Packers vs. Lions | Lions | 1.52 (66¢) | $98,677 | — | ⏳ Pendiente |
 | Donkey14 | Rams vs. Raiders | Raiders | 2.63 (38¢) | $100,000 | — | ⏳ Pendiente |
 | sinasinner | Spread: Broncos (-4.5) | Broncos | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
@@ -125,9 +125,9 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | gmpm2 | Packers vs. Lions | Lions | 1.54 (65¢) | $186,550 | — | ⏳ Pendiente |
 | juice-fruit | Browns vs. Titans | Browns | 1.61 (62¢) | $34,444 | +$21,111 | ✅ Ganada |
 | LTandBB | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $36,356 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $299,289 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $299,289 | +$52,816 | ✅ Ganada |
 | gmpm2 | Spread: Rams (-3.5) | Raiders | 1.89 (53¢) | $34,238 | — | ⏳ Pendiente |
-| tikstt2 | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $147,800 | — | ⏳ Pendiente |
+| tikstt2 | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $147,800 | -$147,800 | ❌ Perdida |
 | mooseborzoii | Giants vs. Texans | Giants | 1.47 (68¢) | $46,888 | +$22,065 | ✅ Ganada |
 | nb1985 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.17 (46¢) | $42,797 | — | ⏳ Pendiente |
