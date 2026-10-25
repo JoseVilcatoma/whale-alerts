@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 16:07:46 (hora de Perú)
+Actualizado: 2026-10-25 16:09:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6603**  ($374,756,989 en total)
+- Apuestas registradas: **6605**  ($374,814,940 en total)
 - Resueltas: **6495** — 3960 ganadas / 2535 perdidas (**61%** de acierto)
-- Pendientes: 86
+- Pendientes: 88
 - Apostadores distintos: 643
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | FC Barcelona vs. Real Madrid CF: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $26,924 | — | ⏳ Pendiente |
+| EdZachary | Grizzlies vs. Kings | Kings | 2.50 (40¢) | $31,027 | — | ⏳ Pendiente |
 | Eugycom | Pacers vs. Nets | Nets | 2.94 (34¢) | $28,246 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.25 (80¢) | $52,396 | — | ⏳ Pendiente |
 | cs2.quant | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.23 (81¢) | $29,697 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Jokerxing7 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.22 (45¢) | $245,027 | — | ⏳ Pendiente |
 | halanddd123 | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | Top Esports | 1.25 (80¢) | $65,079 | +$16,270 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Broncos (-4.5) | Cardinals | 2.00 (50¢) | $56,608 | — | ⏳ Pendiente |
-| Kch-Temp | Spread: Broncos (-4.5) | Cardinals | 2.00 (50¢) | $149,560 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.16 (86¢) | $58,494 | — | ⏳ Pendiente |
