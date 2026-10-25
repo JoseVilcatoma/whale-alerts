@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 00:53:54 (hora de Perú)
+Actualizado: 2026-10-25 00:55:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6418**  ($362,167,695 en total)
+- Apuestas registradas: **6419**  ($362,194,039 en total)
 - Resueltas: **6383** — 3896 ganadas / 2487 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 633
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 460 | 253 | 3 | 65% | $46,400,821 | +$1,041,669 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 460 | 253 | 4 | 65% | $46,427,165 | +$1,041,669 |
 | Sassy-Bucket | 88 | 94 | 2 | 48% | $11,659,202 | -$1,662,107 |
 | mooseborzoii | 92 | 50 | 2 | 65% | $8,166,026 | +$1,116,560 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Ashlyn Krueger vs Katerina Siniakova | Katerina Siniakova | 1.49 (67¢) | $26,344 | — | ⏳ Pendiente |
 | hovistomaradona | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Houston vs. Utah | Utah | 1.25 (80¢) | $26,246 | — | ⏳ Pendiente |
 | veliMax | Pan Pacific Open, Qualification: Kimberly Birrell vs Daria Kasatkina | Daria Kasatkina | 1.15 (87¢) | $79,555 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | juice-fruit | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $100,000 | +$100,000 | ✅ Ganada |
 | Sassy-Bucket | Syracuse vs. North Carolina | North Carolina | 1.32 (76¢) | $267,695 | -$267,695 | ❌ Perdida |
 | mooseborzoii | Spread: 76ers (-12.5) | 76ers | 1.96 (51¢) | $29,682 | -$29,682 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | Bucks | 2.04 (49¢) | $55,649 | +$57,921 | ✅ Ganada |
