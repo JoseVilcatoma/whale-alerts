@@ -95746,5 +95746,20 @@
     "status": "pending",
     "ultimo_fill": 1792886508,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 12914,
+    "timestamp": 1792886887,
+    "username": "winner877",
+    "wallet": "0x85e5669beee6b80d887493e724987dabc5f56056",
+    "slug": "nba-sas-dal-2026-10-24",
+    "title": "Spurs vs. Mavericks",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 37553.1498,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1792886887,
+    "fills": 1
   }
 ]
