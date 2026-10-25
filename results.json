@@ -95141,7 +95141,7 @@
     "side": "BUY",
     "usd": 36959.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792879601,
     "fills": 1
   },
@@ -95276,7 +95276,7 @@
     "side": "BUY",
     "usd": 25823.2303,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792881226,
     "fills": 1
   },
@@ -95743,7 +95743,7 @@
     "side": "BUY",
     "usd": 57154.545,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792886508,
     "fills": 2
   },
@@ -96150,6 +96150,21 @@
     "odds_at_bet": 49,
     "status": "pending",
     "ultimo_fill": 1792894561,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12988,
+    "timestamp": 1792895312,
+    "username": "Zywoo123",
+    "wallet": "0xc44f432b014f36679e13615f95996eac32bbd49f",
+    "slug": "nba-gsw-phx-2026-10-24",
+    "title": "Warriors vs. Suns",
+    "outcome": "Suns",
+    "side": "BUY",
+    "usd": 29614.5096,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1792895312,
     "fills": 1
   }
 ]
