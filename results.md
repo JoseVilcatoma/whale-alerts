@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 21:01:59 (hora de Perú)
+Actualizado: 2026-10-24 21:04:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6391**  ($360,816,878 en total)
-- Resueltas: **6308** — 3846 ganadas / 2462 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Resueltas: **6309** — 3847 ganadas / 2462 perdidas (**61%** de acierto)
+- Pendientes: 60
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,708,891** sobre $355,646,711 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,454** sobre $622,000 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,675,891** sobre $355,679,711 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,354** sobre $622,100 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 25 | 0 | 71% | $5,149,705 | -$186,637 |
 | googleplay | 14 | 16 | 3 | 47% | $4,963,340 | -$505,804 |
-| BrotherObama | 46 | 51 | 3 | 47% | $4,400,789 | -$156,120 |
+| BrotherObama | 47 | 51 | 2 | 48% | $4,400,789 | -$123,120 |
 | maz26 | 32 | 21 | 3 | 60% | $3,818,660 | +$365,369 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
