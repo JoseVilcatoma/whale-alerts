@@ -96976,5 +96976,20 @@
     "status": "pending",
     "ultimo_fill": 1792933164,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13122,
+    "timestamp": 1792933349,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "lal-bil-get-2026-10-25-total-2pt5",
+    "title": "Athletic Club vs. Getafe CF: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 61341.046,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1792933349,
+    "fills": 1
   }
 ]
