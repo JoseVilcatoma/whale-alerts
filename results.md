@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 13:50:42 (hora de Perú)
+Actualizado: 2026-10-25 13:52:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6548**  ($371,160,529 en total)
-- Resueltas: **6439** — 3928 ganadas / 2511 perdidas (**61%** de acierto)
-- Pendientes: 87
-- Apostadores distintos: 639
+- Apuestas registradas: **6550**  ($371,235,729 en total)
+- Resueltas: **6447** — 3933 ganadas / 2514 perdidas (**61%** de acierto)
+- Pendientes: 81
+- Apostadores distintos: 640
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,115,422** sobre $363,608,391 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$7,210** sobre $635,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$1,976,764** sobre $364,800,712 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,250** sobre $635,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 11 | 65% | $47,269,727 | +$1,143,151 |
 | Sassy-Bucket | 90 | 94 | 5 | 49% | $12,066,678 | -$1,490,411 |
-| mooseborzoii | 93 | 50 | 6 | 65% | $8,486,865 | +$1,154,984 |
+| mooseborzoii | 93 | 51 | 5 | 65% | $8,486,865 | +$1,128,490 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 3 | 62% | $7,945,894 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 102 | 53 | 4 | 66% | $6,898,802 | +$124,380 |
 | Lakersfan111 | 83 | 47 | 4 | 64% | $6,457,423 | +$245,409 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| googleplay | 16 | 19 | 3 | 46% | $6,000,572 | -$427,044 |
+| googleplay | 17 | 21 | 0 | 45% | $6,000,572 | -$366,994 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 19 | 8 | 1 | 70% | $2,994,498 | -$439,114 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | milkteaboba | 13 | 11 | 1 | 54% | $2,684,351 | -$694,704 |
-| S-Works | 16 | 7 | 2 | 70% | $2,592,304 | -$255,521 |
+| S-Works | 17 | 7 | 1 | 71% | $2,592,304 | -$208,050 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | ndb1 | 28 | 15 | 0 | 65% | $2,337,048 | +$412,352 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 
-_(mostrando los 40 de mayor monto, de 639 en total)_
+_(mostrando los 40 de mayor monto, de 640 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| LaarsY | Panthers vs. Blackhawks | Panthers | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
+| bluemol | LoL: Dplus KIA vs Movistar KOI (BO3) - Worlds Group Stage | Dplus KIA | 1.27 (79¢) | $50,000 | — | ⏳ Pendiente |
 | Jokerxing7 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.22 (45¢) | $245,027 | — | ⏳ Pendiente |
 | halanddd123 | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | Top Esports | 1.25 (80¢) | $65,079 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Broncos (-4.5) | Cardinals | 2.00 (50¢) | $56,608 | — | ⏳ Pendiente |
@@ -121,13 +123,11 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 | salgnklasf | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.37 (73¢) | $33,000 | -$33,000 | ❌ Perdida |
 | COMEONDUDE | Spread: Bengals (-3.5) | Ravens | 1.82 (55¢) | $49,500 | — | ⏳ Pendiente |
 | bbb17367162806 | Magic vs. Knicks | Knicks | 1.39 (72¢) | $31,523 | — | ⏳ Pendiente |
-| S-Works | Will Sunderland AFC win on 2026-10-25? | No | 1.56 (64¢) | $84,393 | — | ⏳ Pendiente |
-| nb1985 | Will Leeds United FC win on 2026-10-25? | No | 1.49 (67¢) | $50,000 | — | ⏳ Pendiente |
+| S-Works | Will Sunderland AFC win on 2026-10-25? | No | 1.56 (64¢) | $84,393 | +$47,471 | ✅ Ganada |
+| nb1985 | Will Leeds United FC win on 2026-10-25? | No | 1.49 (67¢) | $50,000 | +$24,627 | ✅ Ganada |
 | Sassy-Bucket | Browns vs. Titans | Browns | 1.82 (55¢) | $49,239 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Broncos vs. Cardinals | Broncos | 1.49 (67¢) | $32,524 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Vikings | Vikings | 1.35 (74¢) | $57,555 | — | ⏳ Pendiente |
-| nigiri99 | Will Sunderland AFC win on 2026-10-25? | No | 1.52 (66¢) | $30,590 | — | ⏳ Pendiente |
-| googleplay | Will Leeds United FC win on 2026-10-25? | No | 1.52 (66¢) | $678,097 | — | ⏳ Pendiente |
+| nigiri99 | Will Sunderland AFC win on 2026-10-25? | No | 1.52 (66¢) | $30,590 | +$15,759 | ✅ Ganada |
+| googleplay | Will Leeds United FC win on 2026-10-25? | No | 1.52 (66¢) | $678,097 | +$349,322 | ✅ Ganada |
 | Kch-Temp | Colts vs. Vikings: O/U 40.5 | Over 40.5 | 1.82 (55¢) | $29,569 | — | ⏳ Pendiente |
-| googleplay | Will Sunderland AFC win on 2026-10-25? | Yes | 2.86 (35¢) | $44,469 | — | ⏳ Pendiente |
-| Donkey14 | Browns vs. Titans | Titans | 2.22 (45¢) | $100,000 | — | ⏳ Pendiente |

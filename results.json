@@ -97348,7 +97348,7 @@
     "side": "BUY",
     "usd": 33474.0384,
     "odds_at_bet": 66,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792942045,
     "fills": 1
   },
@@ -97363,7 +97363,7 @@
     "side": "BUY",
     "usd": 26493.996800000004,
     "odds_at_bet": 34,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792942079,
     "fills": 1
   },
@@ -97513,7 +97513,7 @@
     "side": "BUY",
     "usd": 244803.25879999998,
     "odds_at_bet": 35,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792944032,
     "fills": 1
   },
@@ -97543,7 +97543,7 @@
     "side": "BUY",
     "usd": 44469.03999999999,
     "odds_at_bet": 35,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792944329,
     "fills": 1
   },
@@ -97573,7 +97573,7 @@
     "side": "BUY",
     "usd": 678096.5309,
     "odds_at_bet": 66,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792944585,
     "fills": 2
   },
@@ -97588,7 +97588,7 @@
     "side": "BUY",
     "usd": 30590.34,
     "odds_at_bet": 66,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792944802,
     "fills": 1
   },
@@ -97648,7 +97648,7 @@
     "side": "BUY",
     "usd": 50000.0,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792945228,
     "fills": 1
   },
@@ -97663,7 +97663,7 @@
     "side": "BUY",
     "usd": 84393.496889,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792945233,
     "fills": 1
   },
@@ -98415,6 +98415,36 @@
     "odds_at_bet": 45,
     "status": "pending",
     "ultimo_fill": 1792953743,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13261,
+    "timestamp": 1792954242,
+    "username": "bluemol",
+    "wallet": "0x664e438f9e05b2c4ee225755ee993223c0bae82a",
+    "slug": "lol-dk-mkoi-2026-10-25",
+    "title": "LoL: Dplus KIA vs Movistar KOI (BO3) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 49999.999998,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1792954242,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13262,
+    "timestamp": 1792954267,
+    "username": "LaarsY",
+    "wallet": "0x191f77486cb1c5af42e54734621804936a204a8d",
+    "slug": "nhl-fla-chi-2026-10-25",
+    "title": "Panthers vs. Blackhawks",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 25200.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1792954267,
     "fills": 1
   }
 ]
