@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 16:38:48 (hora de Perú)
+Actualizado: 2026-10-25 16:40:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6609**  ($375,359,668 en total)
-- Resueltas: **6502** — 3966 ganadas / 2536 perdidas (**61%** de acierto)
-- Pendientes: 85
+- Resueltas: **6503** — 3966 ganadas / 2537 perdidas (**61%** de acierto)
+- Pendientes: 84
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,069,131** sobre $368,651,181 apostados (ROI **-0.6%**)
+- **Resultado de los apostadores: -$2,128,197** sobre $368,852,444 apostados (ROI **-0.6%**)
 - Copiando $100 fijo en cada una: **-$6,631** sobre $641,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Eugycom | Pacers vs. Nets | Nets | 2.94 (34¢) | $28,246 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.25 (80¢) | $52,396 | — | ⏳ Pendiente |
 | cs2.quant | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.23 (81¢) | $29,697 | — | ⏳ Pendiente |
-| halanddd123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $201,263 | — | ⏳ Pendiente |
+| halanddd123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $201,263 | -$59,066 | 💰 Vendida antes |
 | jakepaulthegoat2008 | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $30,600 | — | ⏳ Pendiente |
 | 473game | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $26,336 | — | ⏳ Pendiente |
 | goweibo123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $30,666 | — | ⏳ Pendiente |
