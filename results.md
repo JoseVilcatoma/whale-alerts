@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 03:12:12 (hora de Perú)
+Actualizado: 2026-10-25 03:14:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6427**  ($362,479,552 en total)
+- Apuestas registradas: **6428**  ($362,525,763 en total)
 - Resueltas: **6388** — 3900 ganadas / 2488 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 633
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Will Real Madrid CF win on 2026-10-25? | No | 1.35 (74¢) | $46,212 | — | ⏳ Pendiente |
 | rabbitfoot1 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Under 4.5 | 1.79 (56¢) | $26,002 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Ningbo: Egor Pleshivtsev vs Dominik Palan | Dominik Palan | 1.67 (60¢) | $46,194 | — | ⏳ Pendiente |
 | salgnklasf | Counter-Strike: Spirit vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.11 (90¢) | $54,261 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | winner877 | Spurs vs. Mavericks | Spurs | 1.15 (87¢) | $141,539 | +$21,149 | ✅ Ganada |
 | KaneAnalytics | San Diego State vs. Colorado State | Colorado State | 1.59 (63¢) | $57,155 | +$33,567 | ✅ Ganada |
 | KaneAnalytics | Ole Miss vs. Texas | Texas | 1.43 (70¢) | $26,651 | +$11,422 | ✅ Ganada |
-| big8betz | Wizards vs. Bulls | Wizards | 2.08 (48¢) | $49,000 | +$53,083 | ✅ Ganada |
