@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 19:02:11 (hora de Perú)
+Actualizado: 2026-10-24 19:04:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6370**  ($359,584,695 en total)
-- Resueltas: **6271** — 3825 ganadas / 2446 perdidas (**61%** de acierto)
-- Pendientes: 77
+- Resueltas: **6274** — 3827 ganadas / 2447 perdidas (**61%** de acierto)
+- Pendientes: 74
 - Apostadores distintos: 631
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,777,039** sobre $353,360,624 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,533** sobre $618,300 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,827,454** sobre $353,564,570 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,576** sobre $618,600 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 455 | 248 | 10 | 65% | $46,157,698 | +$992,583 |
 | Sassy-Bucket | 86 | 88 | 10 | 49% | $11,659,202 | -$1,264,352 |
-| mooseborzoii | 85 | 44 | 11 | 66% | $7,986,631 | +$1,189,712 |
+| mooseborzoii | 86 | 45 | 9 | 66% | $7,986,631 | +$1,133,796 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 1 | 51% | $7,477,793 | -$661,667 |
@@ -114,9 +114,9 @@ _(mostrando los 40 de mayor monto, de 631 en total)_
 | juice-fruit | Heat vs. Hornets | Heat | 1.59 (63¢) | $77,557 | — | ⏳ Pendiente |
 | YEEES-but-why | Heat vs. Hornets | Hornets | 2.70 (37¢) | $29,415 | — | ⏳ Pendiente |
 | sinasinner | Spread: Texas (-3.5) | Ole Miss | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
-| mooseborzoii | Texas A&M vs. Alabama | Alabama | 1.45 (69¢) | $71,436 | — | ⏳ Pendiente |
+| mooseborzoii | Texas A&M vs. Alabama | Alabama | 1.45 (69¢) | $71,436 | +$32,094 | ✅ Ganada |
 | ropetard | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $49,830 | — | ⏳ Pendiente |
-| mooseborzoii | Texas A&M vs. Alabama | Texas A&M | 3.45 (29¢) | $88,010 | — | ⏳ Pendiente |
+| mooseborzoii | Texas A&M vs. Alabama | Texas A&M | 3.45 (29¢) | $88,010 | -$88,010 | ❌ Perdida |
 | juice-fruit | Will Inter Miami CF win on 2026-10-24? | Yes | 2.00 (50¢) | $28,510 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.33 (43¢) | $29,770 | -$29,770 | ❌ Perdida |
 | Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.44 (41¢) | $35,115 | -$35,115 | ❌ Perdida |
@@ -125,7 +125,7 @@ _(mostrando los 40 de mayor monto, de 631 en total)_
 | Nooserac | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.61 (62¢) | $43,230 | +$26,496 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.64 (61¢) | $175,786 | +$112,388 | ✅ Ganada |
-| Nooserac | Michigan State vs. UCLA | UCLA | 1.12 (89¢) | $44,500 | — | ⏳ Pendiente |
+| Nooserac | Michigan State vs. UCLA | UCLA | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
 | KaneAnalytics | San Jose State vs. Nevada | Nevada | 1.43 (70¢) | $26,694 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Jose State vs. Nevada | San Jose State | 2.94 (34¢) | $28,115 | — | ⏳ Pendiente |
 | YYYYY999 | Spread: Bulls (-1.5) | Wizards | 1.96 (51¢) | $32,587 | — | ⏳ Pendiente |
