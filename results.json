@@ -96421,5 +96421,35 @@
     "status": "pending",
     "ultimo_fill": 1792905718,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13069,
+    "timestamp": 1792905920,
+    "username": "veliMax",
+    "wallet": "0x3435519d1d620440c7dab8b5c9ec5d79c1a5a1ed",
+    "slug": "wta-birrell-kasatki-2026-10-24",
+    "title": "Pan Pacific Open, Qualification: Kimberly Birrell vs Daria Kasatkina",
+    "outcome": "Daria Kasatkina",
+    "side": "BUY",
+    "usd": 79554.7836,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1792905920,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13070,
+    "timestamp": 1792905957,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "cfb-hou-utah-2026-10-24",
+    "title": "Houston vs. Utah",
+    "outcome": "Utah",
+    "side": "BUY",
+    "usd": 26246.271999999997,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1792905957,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 00:24:56 (hora de Perú)
+Actualizado: 2026-10-25 00:27:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6415**  ($362,032,394 en total)
+- Apuestas registradas: **6417**  ($362,138,195 en total)
 - Resueltas: **6383** — 3896 ganadas / 2487 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 12
 - Apostadores distintos: 633
 
 ### Balance
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 27 | 22 | 0 | 55% | $2,286,861 | +$269,729 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| TAIWANNUMBERONE | 34 | 17 | 0 | 67% | $1,957,629 | -$160,410 |
+| TAIWANNUMBERONE | 34 | 17 | 1 | 67% | $1,983,875 | -$160,410 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Houston vs. Utah | Utah | 1.25 (80¢) | $26,246 | — | ⏳ Pendiente |
+| veliMax | Pan Pacific Open, Qualification: Kimberly Birrell vs Daria Kasatkina | Daria Kasatkina | 1.15 (87¢) | $79,555 | — | ⏳ Pendiente |
 | NeverLoseBet | Will Real Madrid CF win on 2026-10-25? | No | 1.35 (74¢) | $31,011 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Steelers vs. Saints: O/U 44.5 | Under 44.5 | 1.79 (56¢) | $81,181 | — | ⏳ Pendiente |
 | omnibus-076daa | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Under 4.5 | 1.85 (54¢) | $114,035 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | mooseborzoii | Spread: 76ers (-12.5) | 76ers | 1.96 (51¢) | $29,682 | -$29,682 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | Bucks | 2.04 (49¢) | $55,649 | +$57,921 | ✅ Ganada |
 | NS13 | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.82 (55¢) | $25,258 | -$25,258 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.89 (53¢) | $96,107 | -$96,107 | ❌ Perdida |
-| Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.13 (47¢) | $379,159 | +$427,563 | ✅ Ganada |
