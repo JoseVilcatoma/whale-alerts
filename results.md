@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:53:15 (hora de Perú)
+Actualizado: 2026-10-25 15:55:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6595**  ($374,308,341 en total)
+- Apuestas registradas: **6597**  ($374,388,450 en total)
 - Resueltas: **6495** — 3960 ganadas / 2535 perdidas (**61%** de acierto)
-- Pendientes: 78
-- Apostadores distintos: 641
+- Pendientes: 80
+- Apostadores distintos: 642
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | juice-fruit | 22 | 9 | 1 | 71% | $1,911,186 | +$443,555 |
 
-_(mostrando los 40 de mayor monto, de 641 en total)_
+_(mostrando los 40 de mayor monto, de 642 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| goweibo123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $30,666 | — | ⏳ Pendiente |
+| thewatcherofall | Packers vs. Lions | Lions | 1.47 (68¢) | $49,442 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Rams vs. Raiders | Rams | 1.35 (74¢) | $29,833 | — | ⏳ Pendiente |
 | EdZachary | Pacers vs. Nets | Nets | 3.03 (33¢) | $25,390 | — | ⏳ Pendiente |
 | milkteaboba | Broncos vs. Cardinals | Broncos | 1.35 (74¢) | $129,608 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 | mooseborzoii | Bengals vs. Ravens | Ravens | 1.33 (75¢) | $123,662 | -$123,662 | ❌ Perdida |
 | fhiwbijd | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | Mooseborzoiii | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | Top Esports | 2.08 (48¢) | $64,089 | +$69,429 | ✅ Ganada |
-| PEYZ-BIGGEST-FAN | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.92 (52¢) | $31,200 | -$31,200 | ❌ Perdida |
-| shark142 | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $35,467 | — | ⏳ Pendiente |
