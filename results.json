@@ -99273,5 +99273,50 @@
     "status": "pending",
     "ultimo_fill": 1792962581,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13374,
+    "timestamp": 1792962727,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-ind-bkn-2026-10-25-spread-away-6pt5",
+    "title": "Spread: Pacers (-6.5)",
+    "outcome": "Nets",
+    "side": "BUY",
+    "usd": 350623.0468,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792962727,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13375,
+    "timestamp": 1792962790,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-ind-bkn-2026-10-25-total-231pt5",
+    "title": "Pacers vs. Nets: O/U 231.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 27966.1303,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792962790,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13376,
+    "timestamp": 1792962832,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-gb-det-2026-10-25",
+    "title": "Packers vs. Lions",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 33606.465000000004,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1792962832,
+    "fills": 1
   }
 ]
