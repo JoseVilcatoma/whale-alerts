@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 02:16:25 (hora de Perú)
+Actualizado: 2026-10-25 02:18:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6420**  ($362,220,139 en total)
-- Resueltas: **6387** — 3899 ganadas / 2488 perdidas (**61%** de acierto)
+- Apuestas registradas: **6421**  ($362,269,469 en total)
+- Resueltas: **6388** — 3900 ganadas / 2488 perdidas (**61%** de acierto)
 - Pendientes: 11
 - Apostadores distintos: 633
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,160,325** sobre $360,798,727 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,583** sobre $629,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,147,349** sobre $360,825,071 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,534** sobre $630,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 460 | 253 | 4 | 65% | $46,427,165 | +$1,041,669 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 461 | 253 | 3 | 65% | $46,427,165 | +$1,054,645 |
 | Sassy-Bucket | 88 | 94 | 2 | 48% | $11,659,202 | -$1,662,107 |
 | mooseborzoii | 93 | 50 | 1 | 65% | $8,166,026 | +$1,154,984 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 102 | 53 | 0 | 66% | $6,776,293 | +$124,380 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Lakersfan111 | 81 | 47 | 0 | 63% | $6,212,686 | +$219,427 |
+| Lakersfan111 | 81 | 47 | 1 | 63% | $6,262,016 | +$219,427 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,8 +71,9 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YYYYY999 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.37 (73¢) | $49,330 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: BetBoom Team vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | BetBoom Team | 1.72 (58¢) | $26,100 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Ashlyn Krueger vs Katerina Siniakova | Katerina Siniakova | 1.49 (67¢) | $26,344 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Ashlyn Krueger vs Katerina Siniakova | Katerina Siniakova | 1.49 (67¢) | $26,344 | +$12,975 | ✅ Ganada |
 | hovistomaradona | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Houston vs. Utah | Utah | 1.25 (80¢) | $26,246 | +$6,562 | ✅ Ganada |
 | veliMax | Pan Pacific Open, Qualification: Kimberly Birrell vs Daria Kasatkina | Daria Kasatkina | 1.15 (87¢) | $79,555 | +$11,887 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | Eugycom | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $34,300 | +$35,700 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bulls (-1.5) | Bulls | 1.96 (51¢) | $101,193 | -$101,193 | ❌ Perdida |
 | juice-fruit | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $100,000 | +$100,000 | ✅ Ganada |
-| Sassy-Bucket | Syracuse vs. North Carolina | North Carolina | 1.32 (76¢) | $267,695 | -$267,695 | ❌ Perdida |

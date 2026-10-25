@@ -96478,7 +96478,7 @@
     "side": "BUY",
     "usd": 26343.924300000002,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792907640,
     "fills": 1
   },
@@ -96495,6 +96495,21 @@
     "odds_at_bet": 58,
     "status": "pending",
     "ultimo_fill": 1792909742,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13078,
+    "timestamp": 1792912633,
+    "username": "YYYYY999",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-fut-tl1-2026-10-25",
+    "title": "Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "usd": 49329.7062,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1792912633,
     "fills": 1
   }
 ]
