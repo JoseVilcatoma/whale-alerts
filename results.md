@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 10:54:07 (hora de Perú)
+Actualizado: 2026-10-25 10:56:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6484**  ($365,747,872 en total)
+- Apuestas registradas: **6486**  ($365,862,036 en total)
 - Resueltas: **6406** — 3911 ganadas / 2495 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 58
 - Apostadores distintos: 636
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | 49ers vs. Falcons | Falcons | 2.38 (42¢) | $50,000 | — | ⏳ Pendiente |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 49ers vs. Falcons | Falcons | 2.38 (42¢) | $64,165 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.72 (58¢) | $26,339 | — | ⏳ Pendiente |
 | YYYYY999 | Pistons vs. 76ers | Pistons | 1.96 (51¢) | $30,011 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: 49ers (-2.5) | 49ers | 1.92 (52¢) | $72,007 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-25? | No | 2.44 (41¢) | $63,725 | — | ⏳ Pendiente |
 | Flaznorp | Will Real Madrid CF win on 2026-10-25? | No | 1.35 (74¢) | $46,212 | — | ⏳ Pendiente |
 | rabbitfoot1 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Under 4.5 | 1.79 (56¢) | $26,002 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Ningbo: Egor Pleshivtsev vs Dominik Palan | Dominik Palan | 1.67 (60¢) | $46,194 | -$46,194 | ❌ Perdida |
-| salgnklasf | Counter-Strike: Spirit vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.11 (90¢) | $54,261 | +$6,029 | ✅ Ganada |
