@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 21:10:27 (hora de Perú)
+Actualizado: 2026-10-24 21:12:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6394**  ($360,933,222 en total)
+- Apuestas registradas: **6396**  ($360,998,832 en total)
 - Resueltas: **6310** — 3848 ganadas / 2462 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Pendientes: 64
 - Apostadores distintos: 632
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 457 | 250 | 7 | 65% | $46,191,698 | +$929,976 |
 | Sassy-Bucket | 86 | 93 | 5 | 48% | $11,659,202 | -$1,591,376 |
-| mooseborzoii | 89 | 46 | 7 | 66% | $8,068,746 | +$1,240,419 |
+| mooseborzoii | 89 | 46 | 8 | 66% | $8,107,170 | +$1,240,419 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 1 | 51% | $7,477,793 | -$661,667 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Pelicans vs. Nuggets | Pelicans | 1.52 (66¢) | $27,186 | — | ⏳ Pendiente |
+| mooseborzoii | Houston vs. Utah: O/U 57.5 | Under 57.5 | 2.00 (50¢) | $38,424 | — | ⏳ Pendiente |
 | Nooserac | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $41,035 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $38,174 | — | ⏳ Pendiente |
 | Woaifacai | Tampa Bay Rays vs. Milwaukee Brewers | Tampa Bay Rays | 1.61 (62¢) | $37,135 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | mooseborzoii | San Diego State vs. Colorado State | San Diego State | 2.04 (49¢) | $25,823 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.79 (56¢) | $56,000 | +$44,000 | ✅ Ganada |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Hanwha Life Esports | 2.38 (42¢) | $186,219 | -$186,219 | ❌ Perdida |
-| YYYYY999 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.72 (58¢) | $27,443 | +$19,872 | ✅ Ganada |
-| Zzzz87 | Predators vs. Penguins | Penguins | 1.85 (54¢) | $107,037 | +$91,180 | ✅ Ganada |
