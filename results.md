@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 19:14:42 (hora de Perú)
+Actualizado: 2026-10-24 19:16:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6373**  ($359,831,009 en total)
-- Resueltas: **6277** — 3828 ganadas / 2449 perdidas (**61%** de acierto)
-- Pendientes: 74
+- Resueltas: **6285** — 3835 ganadas / 2450 perdidas (**61%** de acierto)
+- Pendientes: 66
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,882,068** sobre $353,696,884 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,694** sobre $618,900 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,831,693** sobre $354,149,815 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,178** sobre $619,700 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 455 | 248 | 10 | 65% | $46,157,698 | +$992,583 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 456 | 248 | 9 | 65% | $46,157,698 | +$1,036,583 |
 | Sassy-Bucket | 86 | 90 | 8 | 49% | $11,659,202 | -$1,353,931 |
-| mooseborzoii | 86 | 45 | 9 | 66% | $7,986,631 | +$1,133,796 |
+| mooseborzoii | 89 | 45 | 6 | 66% | $7,986,631 | +$1,267,865 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 90 | 1 | 51% | $7,477,793 | -$661,667 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 101 | 52 | 0 | 66% | $6,711,634 | +$162,014 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Lakersfan111 | 76 | 47 | 5 | 62% | $6,212,686 | +$105,865 |
+| Lakersfan111 | 78 | 47 | 3 | 62% | $6,212,686 | +$145,629 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 13 | 0 | 57% | $3,063,662 | +$459,157 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
-| Mooseborzoiii | 10 | 14 | 4 | 42% | $2,625,446 | -$258,804 |
+| Mooseborzoiii | 10 | 15 | 3 | 40% | $2,625,446 | -$445,022 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | S-Works | 16 | 7 | 0 | 70% | $2,371,320 | -$255,521 |
@@ -106,12 +106,12 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Clemson (-2.5) | Clemson | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Clemson (-2.5) | Virginia Tech | 2.13 (47¢) | $72,404 | — | ⏳ Pendiente |
 | mooseborzoii | San Diego State vs. Colorado State | San Diego State | 2.04 (49¢) | $25,823 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Hanwha Life Esports | 2.38 (42¢) | $186,219 | — | ⏳ Pendiente |
-| YYYYY999 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.72 (58¢) | $27,443 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.79 (56¢) | $56,000 | +$44,000 | ✅ Ganada |
+| Mooseborzoiii | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Hanwha Life Esports | 2.38 (42¢) | $186,219 | -$186,219 | ❌ Perdida |
+| YYYYY999 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.72 (58¢) | $27,443 | +$19,872 | ✅ Ganada |
 | Zzzz87 | Predators vs. Penguins | Penguins | 1.85 (54¢) | $107,037 | — | ⏳ Pendiente |
 | Nooserac | Spread: Boise State (-14.5) | Washington State | 1.96 (51¢) | $34,000 | — | ⏳ Pendiente |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.72 (58¢) | $25,909 | — | ⏳ Pendiente |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.72 (58¢) | $25,909 | +$18,762 | ✅ Ganada |
 | YYYYY999 | Pelicans vs. Nuggets | Nuggets | 1.25 (80¢) | $32,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Diego State vs. Colorado State | Colorado State | 2.00 (50¢) | $36,959 | — | ⏳ Pendiente |
 | juice-fruit | Heat vs. Hornets | Heat | 1.59 (63¢) | $77,557 | — | ⏳ Pendiente |
