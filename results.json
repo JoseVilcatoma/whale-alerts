@@ -98808,5 +98808,50 @@
     "status": "pending",
     "ultimo_fill": 1792958375,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13301,
+    "timestamp": 1792958416,
+    "username": "LTandBB",
+    "wallet": "0xfb3efff897ca857afb06ad1f80a670f49f11a19a",
+    "slug": "nba-lac-okc-2026-10-25-spread-home-16pt5",
+    "title": "Spread: Thunder (-16.5)",
+    "outcome": "Clippers",
+    "side": "BUY",
+    "usd": 36355.805,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792958416,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13302,
+    "timestamp": 1792958487,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "nfl-cle-ten-2026-10-25",
+    "title": "Browns vs. Titans",
+    "outcome": "Browns",
+    "side": "BUY",
+    "usd": 34444.1,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1792958487,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13303,
+    "timestamp": 1792958497,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-gb-det-2026-10-25",
+    "title": "Packers vs. Lions",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 186550.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1792958497,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 14:59:36 (hora de Perú)
+Actualizado: 2026-10-25 15:01:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6574**  ($372,914,630 en total)
+- Apuestas registradas: **6577**  ($373,171,979 en total)
 - Resueltas: **6453** — 3936 ganadas / 2517 perdidas (**61%** de acierto)
-- Pendientes: 99
+- Pendientes: 102
 - Apostadores distintos: 640
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 26 | 0 | 70% | $5,197,196 | -$234,128 |
 | BrotherObama | 47 | 51 | 3 | 48% | $4,425,789 | -$123,120 |
-| maz26 | 33 | 23 | 4 | 59% | $4,023,891 | +$380,239 |
+| maz26 | 33 | 23 | 5 | 59% | $4,210,441 | +$380,239 |
 | Kch-Temp | 43 | 11 | 5 | 80% | $3,864,821 | +$1,951,752 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Packers vs. Lions | Lions | 1.54 (65¢) | $186,550 | — | ⏳ Pendiente |
+| juice-fruit | Browns vs. Titans | Browns | 1.61 (62¢) | $34,444 | — | ⏳ Pendiente |
+| LTandBB | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $36,356 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $299,289 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Rams (-3.5) | Raiders | 1.89 (53¢) | $34,238 | — | ⏳ Pendiente |
 | tikstt2 | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $147,800 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | mooseborzoii | Browns vs. Titans | Titans | 2.22 (45¢) | $89,633 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Vikings | Vikings | 1.33 (75¢) | $59,201 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Vikings (-6.5) | Colts | 2.13 (47¢) | $28,212 | — | ⏳ Pendiente |
-| sinasinner | Spread: Vikings (-6.5) | Vikings | 1.82 (55¢) | $25,000 | — | ⏳ Pendiente |
-| sinasinner | Spread: 49ers (-2.5) | Falcons | 1.96 (51¢) | $25,000 | — | ⏳ Pendiente |
-| chubbytoro | Buccaneers vs. Panthers | Panthers | 1.69 (59¢) | $47,200 | — | ⏳ Pendiente |
