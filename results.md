@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 07:29:26 (hora de Perú)
+Actualizado: 2026-10-25 07:31:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6447**  ($363,318,723 en total)
+- Apuestas registradas: **6448**  ($363,372,959 en total)
 - Resueltas: **6398** — 3907 ganadas / 2491 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 635
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 26 | 0 | 70% | $5,197,196 | -$234,128 |
 | googleplay | 16 | 17 | 0 | 48% | $4,963,340 | -$357,180 |
 | BrotherObama | 47 | 51 | 2 | 48% | $4,400,789 | -$123,120 |
-| maz26 | 33 | 23 | 0 | 59% | $3,818,660 | +$380,239 |
+| maz26 | 33 | 23 | 1 | 59% | $3,872,896 | +$380,239 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | Kch-Temp | 42 | 11 | 1 | 79% | $3,510,019 | +$1,904,316 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $54,236 | — | ⏳ Pendiente |
 | juice-fruit | Will Celtic FC win on 2026-10-25? | Yes | 1.69 (59¢) | $26,565 | — | ⏳ Pendiente |
 | SDTrading | Spread: Steelers (-2.5) | Steelers | 1.82 (55¢) | $38,500 | — | ⏳ Pendiente |
 | 0xf3ce…a57a | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | Team Liquid | 1.47 (68¢) | $27,644 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
 | sulumos | Warriors vs. Suns | Suns | 1.30 (77¢) | $30,810 | +$9,203 | ✅ Ganada |
 | Woaifacai | Bucks vs. 76ers | 76ers | 1.18 (85¢) | $77,432 | +$13,664 | ✅ Ganada |
-| Netrol | Spread: Nuggets (-11.5) | Nuggets | 2.08 (48¢) | $27,960 | -$27,960 | ❌ Perdida |
