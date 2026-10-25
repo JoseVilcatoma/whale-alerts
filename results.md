@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 08:18:36 (hora de Perú)
+Actualizado: 2026-10-25 08:20:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6453**  ($363,594,086 en total)
-- Resueltas: **6398** — 3907 ganadas / 2491 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **6400** — 3908 ganadas / 2492 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 635
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,149,590** sobre $361,216,068 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,581** sobre $631,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,133,093** sobre $361,273,139 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,531** sobre $631,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 461 | 253 | 6 | 65% | $46,555,234 | +$1,054,645 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 462 | 253 | 5 | 65% | $46,555,234 | +$1,098,785 |
 | Sassy-Bucket | 88 | 94 | 2 | 48% | $11,659,202 | -$1,662,107 |
 | mooseborzoii | 93 | 50 | 2 | 65% | $8,191,613 | +$1,154,984 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | gmpm2 | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $54,236 | — | ⏳ Pendiente |
 | juice-fruit | Will Celtic FC win on 2026-10-25? | Yes | 1.69 (59¢) | $26,565 | — | ⏳ Pendiente |
 | SDTrading | Spread: Steelers (-2.5) | Steelers | 1.82 (55¢) | $38,500 | — | ⏳ Pendiente |
-| 0xf3ce…a57a | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | Team Liquid | 1.47 (68¢) | $27,644 | — | ⏳ Pendiente |
+| 0xf3ce…a57a | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | Team Liquid | 1.47 (68¢) | $27,644 | -$27,644 | ❌ Perdida |
 | zhqzhq | Will ACF Fiorentina win on 2026-10-25? | No | 1.12 (89¢) | $35,000 | — | ⏳ Pendiente |
 | Yellow-Fever | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $30,493 | — | ⏳ Pendiente |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | rabbitfoot1 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Under 4.5 | 1.79 (56¢) | $26,002 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Ningbo: Egor Pleshivtsev vs Dominik Palan | Dominik Palan | 1.67 (60¢) | $46,194 | -$46,194 | ❌ Perdida |
 | salgnklasf | Counter-Strike: Spirit vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.11 (90¢) | $54,261 | +$6,029 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | OG | 2.50 (40¢) | $29,427 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | OG | 2.50 (40¢) | $29,427 | +$44,141 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.39 (72¢) | $25,467 | +$9,904 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: BetBoom Team vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 2.44 (41¢) | $28,732 | -$28,732 | ❌ Perdida |
 | YYYYY999 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.37 (73¢) | $49,330 | +$18,245 | ✅ Ganada |
