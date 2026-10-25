@@ -97153,7 +97153,7 @@
     "side": "BUY",
     "usd": 50231.63089999999,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792938611,
     "fills": 1
   },
@@ -97561,5 +97561,20 @@
     "status": "pending",
     "ultimo_fill": 1792944392,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13175,
+    "timestamp": 1792944584,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "epl-sun-lee-2026-10-25-lee",
+    "title": "Will Leeds United FC win on 2026-10-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 678096.5309,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1792944585,
+    "fills": 2
   }
 ]

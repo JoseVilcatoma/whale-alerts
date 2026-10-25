@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:08:45 (hora de Perú)
+Actualizado: 2026-10-25 11:10:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6491**  ($366,333,902 en total)
-- Resueltas: **6410** — 3913 ganadas / 2497 perdidas (**61%** de acierto)
+- Apuestas registradas: **6492**  ($367,011,998 en total)
+- Resueltas: **6411** — 3914 ganadas / 2497 perdidas (**61%** de acierto)
 - Pendientes: 59
 - Apostadores distintos: 636
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,180,274** sobre $361,703,359 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,720** sobre $632,200 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,146,786** sobre $361,753,590 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,653** sobre $632,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,10 +35,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 102 | 53 | 0 | 66% | $6,776,293 | +$124,380 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Lakersfan111 | 83 | 47 | 2 | 64% | $6,378,033 | +$245,409 |
+| googleplay | 16 | 17 | 5 | 48% | $6,000,572 | -$357,180 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| googleplay | 16 | 17 | 4 | 48% | $5,322,476 | -$357,180 |
 | ethanaz | 60 | 26 | 0 | 70% | $5,197,196 | -$234,128 |
 | BrotherObama | 47 | 51 | 2 | 48% | $4,400,789 | -$123,120 |
 | maz26 | 33 | 23 | 1 | 59% | $3,872,896 | +$380,239 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Will Leeds United FC win on 2026-10-25? | No | 1.52 (66¢) | $678,097 | — | ⏳ Pendiente |
 | Kch-Temp | Colts vs. Vikings: O/U 40.5 | Over 40.5 | 1.82 (55¢) | $29,569 | — | ⏳ Pendiente |
 | googleplay | Will Sunderland AFC win on 2026-10-25? | Yes | 2.86 (35¢) | $44,469 | — | ⏳ Pendiente |
 | Donkey14 | Browns vs. Titans | Titans | 2.22 (45¢) | $100,000 | — | ⏳ Pendiente |
@@ -98,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 | Pwaddler | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $32,922 | — | ⏳ Pendiente |
 | halanddd123 | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.35 (74¢) | $40,382 | — | ⏳ Pendiente |
 | KaneAnalytics | Steelers vs. Saints | Steelers | 1.67 (60¢) | $31,479 | — | ⏳ Pendiente |
-| Woaifacai | Will Hull City AFC win on 2026-10-25? | No | 1.67 (60¢) | $50,232 | — | ⏳ Pendiente |
+| Woaifacai | Will Hull City AFC win on 2026-10-25? | No | 1.67 (60¢) | $50,232 | +$33,488 | ✅ Ganada |
 | Woaifacai | Hull City AFC vs. Brentford FC: O/U 2.5 | Under 2.5 | 1.79 (56¢) | $53,390 | +$41,950 | ✅ Ganada |
 | Kch-Temp | Broncos vs. Cardinals: O/U 42.5 | Over 42.5 | 1.85 (54¢) | $67,881 | — | ⏳ Pendiente |
 | Takon88 | Will Real Betis Balompié win on 2026-10-25? | No | 1.67 (60¢) | $75,442 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 | 1l2ihj34li12u34 | Will FC Barcelona win on 2026-10-25? | Yes | 1.67 (60¢) | $83,856 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: Vitality vs TheMongolz (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.23 (81¢) | $32,982 | +$7,737 | ✅ Ganada |
 | robustmst | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Leylah Fernandez | 2.56 (39¢) | $25,000 | -$25,000 | ❌ Perdida |
-| Woaifacai | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Elena Rybakina | 1.37 (73¢) | $70,059 | +$25,912 | ✅ Ganada |
