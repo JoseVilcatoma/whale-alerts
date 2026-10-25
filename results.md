@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 18:15:47 (hora de Perú)
+Actualizado: 2026-10-25 18:17:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6648**  ($377,905,714 en total)
+- Apuestas registradas: **6649**  ($377,933,272 en total)
 - Resueltas: **6538** — 3984 ganadas / 2554 perdidas (**61%** de acierto)
-- Pendientes: 88
+- Pendientes: 89
 - Apostadores distintos: 643
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Pacers vs. Nets | Pacers | 1.22 (82¢) | $27,558 | — | ⏳ Pendiente |
 | Siddhartha1 | Pistons vs. 76ers | Pistons | 1.85 (54¢) | $26,881 | — | ⏳ Pendiente |
 | mooseborzoii | Packers vs. Lions | Lions | 1.52 (66¢) | $25,631 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Thunder (-16.5) | Thunder | 1.92 (52¢) | $33,539 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | bluemol | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $50,000 | — | ⏳ Pendiente |
 | mentionmarket | Rams vs. Raiders | Rams | 1.49 (67¢) | $35,711 | — | ⏳ Pendiente |
 | cosmicxbt | Broncos vs. Cardinals | Broncos | 1.43 (70¢) | $159,332 | — | ⏳ Pendiente |
-| gmpm2 | Packers vs. Lions | Lions | 1.52 (66¢) | $116,305 | — | ⏳ Pendiente |
