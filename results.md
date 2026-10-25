@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 19:27:23 (hora de Perú)
+Actualizado: 2026-10-24 19:29:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6376**  ($359,935,124 en total)
+- Apuestas registradas: **6377**  ($359,961,347 en total)
 - Resueltas: **6285** — 3835 ganadas / 2450 perdidas (**61%** de acierto)
-- Pendientes: 69
+- Pendientes: 70
 - Apostadores distintos: 632
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| OhWhenTheReds | Will CF Monterrey win on 2026-10-24? | No | 1.67 (60¢) | $26,224 | — | ⏳ Pendiente |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.37 (73¢) | $37,115 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Hornets | Heat | 2.94 (34¢) | $34,000 | — | ⏳ Pendiente |
 | Woaifacai | Heat vs. Hornets | Hornets | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.56 (39¢) | $72,876 | -$72,876 | ❌ Perdida |
 | Nooserac | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.61 (62¢) | $43,230 | +$26,496 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Invictus Gaming | 1.64 (61¢) | $175,786 | +$112,388 | ✅ Ganada |

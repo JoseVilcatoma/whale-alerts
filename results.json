@@ -95836,5 +95836,20 @@
     "status": "pending",
     "ultimo_fill": 1792888020,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12931,
+    "timestamp": 1792888084,
+    "username": "OhWhenTheReds",
+    "wallet": "0x918b42a06ff25eaaa4a79eca9da6a9de46f4ea63",
+    "slug": "mex-mon1-gua-2026-10-24-mon1",
+    "title": "Will CF Monterrey win on 2026-10-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 26223.6,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792888084,
+    "fills": 1
   }
 ]
