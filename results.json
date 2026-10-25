@@ -95731,5 +95731,20 @@
     "status": "pending",
     "ultimo_fill": 1792886237,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12910,
+    "timestamp": 1792886444,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "cfb-sdst-colst-2026-10-24",
+    "title": "San Diego State vs. Colorado State",
+    "outcome": "Colorado State",
+    "side": "BUY",
+    "usd": 57154.545,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1792886508,
+    "fills": 2
   }
 ]
