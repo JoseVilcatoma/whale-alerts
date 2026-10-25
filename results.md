@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 13:29:52 (hora de Perú)
+Actualizado: 2026-10-25 13:31:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6541**  ($370,393,825 en total)
+- Apuestas registradas: **6543**  ($370,585,761 en total)
 - Resueltas: **6434** — 3928 ganadas / 2506 perdidas (**61%** de acierto)
-- Pendientes: 85
+- Pendientes: 87
 - Apostadores distintos: 639
 
 ### Balance
@@ -51,9 +51,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 19 | 8 | 1 | 70% | $2,994,498 | -$439,114 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | milkteaboba | 13 | 11 | 1 | 54% | $2,684,351 | -$694,704 |
+| S-Works | 16 | 7 | 2 | 70% | $2,592,304 | -$255,521 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| S-Works | 16 | 7 | 1 | 70% | $2,455,714 | -$255,521 |
 | ndb1 | 28 | 15 | 0 | 65% | $2,337,048 | +$412,352 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.15 (87¢) | $136,590 | — | ⏳ Pendiente |
+| KaneAnalytics | Giants vs. Texans | Texans | 1.59 (63¢) | $55,346 | — | ⏳ Pendiente |
 | cosmicxbt | Spread: Ravens (-6.5) | Bengals | 1.92 (52¢) | $48,307 | — | ⏳ Pendiente |
 | mooseborzoii | Bengals vs. Ravens | Ravens | 1.33 (75¢) | $123,662 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 | Donkey14 | 49ers vs. Falcons | Falcons | 2.38 (42¢) | $50,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 49ers vs. Falcons | Falcons | 2.38 (42¢) | $64,165 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.72 (58¢) | $26,339 | -$26,339 | ❌ Perdida |
-| YYYYY999 | Pistons vs. 76ers | Pistons | 1.96 (51¢) | $30,011 | — | ⏳ Pendiente |
-| Kch-Temp | Spread: 49ers (-2.5) | 49ers | 1.92 (52¢) | $72,007 | — | ⏳ Pendiente |
