@@ -97156,5 +97156,20 @@
     "status": "pending",
     "ultimo_fill": 1792938611,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13141,
+    "timestamp": 1792939436,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "nfl-pit-no-2026-10-25",
+    "title": "Steelers vs. Saints",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 31479.275999999998,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792939436,
+    "fills": 1
   }
 ]
