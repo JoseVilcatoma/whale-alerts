@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 14:09:23 (hora de Perú)
+Actualizado: 2026-10-25 14:11:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6550**  ($371,235,729 en total)
+- Apuestas registradas: **6552**  ($371,307,165 en total)
 - Resueltas: **6448** — 3934 ganadas / 2514 perdidas (**61%** de acierto)
-- Pendientes: 80
+- Pendientes: 82
 - Apostadores distintos: 640
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | raybanman | 17 | 13 | 1 | 57% | $3,413,262 | +$459,157 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Mooseborzoiii | 13 | 17 | 3 | 43% | $3,227,170 | +$25,890 |
+| Mooseborzoiii | 13 | 17 | 4 | 43% | $3,265,670 | +$25,890 |
 | cosmicxbt | 19 | 8 | 1 | 70% | $2,994,498 | -$439,114 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | milkteaboba | 13 | 11 | 1 | 54% | $2,684,351 | -$694,704 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
+| Sunshine.Smile | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.35 (74¢) | $32,936 | — | ⏳ Pendiente |
 | LaarsY | Panthers vs. Blackhawks | Panthers | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | bluemol | LoL: Dplus KIA vs Movistar KOI (BO3) - Worlds Group Stage | Dplus KIA | 1.27 (79¢) | $50,000 | — | ⏳ Pendiente |
 | Jokerxing7 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.22 (45¢) | $245,027 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | monkeymashingkeyboard | Broncos vs. Cardinals | Broncos | 1.49 (67¢) | $32,524 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Vikings | Vikings | 1.35 (74¢) | $57,555 | — | ⏳ Pendiente |
 | nigiri99 | Will Sunderland AFC win on 2026-10-25? | No | 1.52 (66¢) | $30,590 | +$15,759 | ✅ Ganada |
-| googleplay | Will Leeds United FC win on 2026-10-25? | No | 1.52 (66¢) | $678,097 | +$349,322 | ✅ Ganada |
-| Kch-Temp | Colts vs. Vikings: O/U 40.5 | Over 40.5 | 1.82 (55¢) | $29,569 | — | ⏳ Pendiente |
