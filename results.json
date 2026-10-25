@@ -99939,5 +99939,20 @@
     "status": "pending",
     "ultimo_fill": 1792970232,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13456,
+    "timestamp": 1792970839,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-det-phi-2026-10-25",
+    "title": "Pistons vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 86482.494,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1792970839,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 18:26:10 (hora de Perú)
+Actualizado: 2026-10-25 18:28:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6649**  ($377,933,272 en total)
+- Apuestas registradas: **6650**  ($378,019,754 en total)
 - Resueltas: **6538** — 3984 ganadas / 2554 perdidas (**61%** de acierto)
-- Pendientes: 89
+- Pendientes: 90
 - Apostadores distintos: 643
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 473 | 254 | 11 | 65% | $48,174,706 | +$1,725,672 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 473 | 254 | 12 | 65% | $48,261,189 | +$1,725,672 |
 | Sassy-Bucket | 93 | 94 | 3 | 50% | $12,103,975 | -$1,393,191 |
 | mooseborzoii | 95 | 53 | 4 | 64% | $8,602,883 | +$952,942 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. 76ers | 76ers | 2.22 (45¢) | $86,482 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Pacers vs. Nets | Pacers | 1.22 (82¢) | $27,558 | — | ⏳ Pendiente |
 | Siddhartha1 | Pistons vs. 76ers | Pistons | 1.85 (54¢) | $26,881 | — | ⏳ Pendiente |
 | mooseborzoii | Packers vs. Lions | Lions | 1.52 (66¢) | $25,631 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | milkteaboba | Broncos vs. Cardinals | Broncos | 1.35 (74¢) | $129,608 | — | ⏳ Pendiente |
 | bluemol | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $50,000 | — | ⏳ Pendiente |
 | mentionmarket | Rams vs. Raiders | Rams | 1.49 (67¢) | $35,711 | — | ⏳ Pendiente |
-| cosmicxbt | Broncos vs. Cardinals | Broncos | 1.43 (70¢) | $159,332 | — | ⏳ Pendiente |
