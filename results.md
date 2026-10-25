@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:34:05 (hora de Perú)
+Actualizado: 2026-10-25 17:36:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6630**  ($376,397,374 en total)
+- Apuestas registradas: **6631**  ($376,515,762 en total)
 - Resueltas: **6535** — 3982 ganadas / 2553 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Pendientes: 74
 - Apostadores distintos: 643
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 103 | 56 | 2 | 65% | $6,975,205 | +$47,994 |
 | Lakersfan111 | 84 | 47 | 8 | 64% | $6,640,887 | +$260,796 |
-| googleplay | 17 | 21 | 3 | 45% | $6,464,114 | -$366,994 |
+| googleplay | 17 | 21 | 4 | 45% | $6,582,502 | -$366,994 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Thunder (-16.5) | Clippers | 1.89 (53¢) | $118,388 | — | ⏳ Pendiente |
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.96 (51¢) | $84,953 | — | ⏳ Pendiente |
 | Zzzz87 | Raptors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $33,000 | — | ⏳ Pendiente |
 | Zzzz87 | Spread: Timberwolves (-3.5) | Timberwolves | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $299,289 | +$52,816 | ✅ Ganada |
 | gmpm2 | Spread: Rams (-3.5) | Raiders | 1.89 (53¢) | $34,238 | — | ⏳ Pendiente |
 | tikstt2 | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $147,800 | -$147,800 | ❌ Perdida |
-| mooseborzoii | Giants vs. Texans | Giants | 1.47 (68¢) | $46,888 | +$22,065 | ✅ Ganada |
