@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:40:01 (hora de Perú)
+Actualizado: 2026-10-25 11:42:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6502**  ($367,779,923 en total)
+- Apuestas registradas: **6503**  ($367,809,923 en total)
 - Resueltas: **6421** — 3918 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 59
-- Apostadores distintos: 636
+- Pendientes: 60
+- Apostadores distintos: 637
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 
-_(mostrando los 40 de mayor monto, de 636 en total)_
+_(mostrando los 40 de mayor monto, de 637 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| DonLino1 | Browns vs. Titans | Titans | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | raybanman | Browns vs. Titans | Titans | 2.17 (46¢) | $349,600 | — | ⏳ Pendiente |
 | salgnklasf | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.37 (73¢) | $33,000 | — | ⏳ Pendiente |
 | COMEONDUDE | Spread: Bengals (-3.5) | Ravens | 1.82 (55¢) | $49,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 | SDTrading | Spread: Steelers (-2.5) | Steelers | 1.82 (55¢) | $38,500 | — | ⏳ Pendiente |
 | 0xf3ce…a57a | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | Team Liquid | 1.47 (68¢) | $27,644 | -$27,644 | ❌ Perdida |
 | zhqzhq | Will ACF Fiorentina win on 2026-10-25? | No | 1.12 (89¢) | $35,000 | +$4,326 | ✅ Ganada |
-| Yellow-Fever | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |

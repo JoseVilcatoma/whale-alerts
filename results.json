@@ -97726,5 +97726,20 @@
     "status": "pending",
     "ultimo_fill": 1792946314,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13196,
+    "timestamp": 1792946468,
+    "username": "DonLino1",
+    "wallet": "0x0213df9341c5916dd5ab44bf047b12323907bbe9",
+    "slug": "nfl-cle-ten-2026-10-25",
+    "title": "Browns vs. Titans",
+    "outcome": "Titans",
+    "side": "BUY",
+    "usd": 29999.999999999996,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1792946468,
+    "fills": 1
   }
 ]
