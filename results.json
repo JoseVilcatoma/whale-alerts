@@ -95881,5 +95881,35 @@
     "status": "pending",
     "ultimo_fill": 1792888245,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12934,
+    "timestamp": 1792888313,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "cfb-utahst-txst-2026-10-24",
+    "title": "Utah State vs. Texas State",
+    "outcome": "Texas State",
+    "side": "BUY",
+    "usd": 37135.4669,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1792888313,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12935,
+    "timestamp": 1792888367,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "cfb-miss-tx-2026-10-24",
+    "title": "Ole Miss vs. Texas",
+    "outcome": "Texas",
+    "side": "BUY",
+    "usd": 26209.5293,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1792888367,
+    "fills": 1
   }
 ]
