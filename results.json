@@ -98506,5 +98506,50 @@
     "status": "pending",
     "ultimo_fill": 1792955725,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13276,
+    "timestamp": 1792955961,
+    "username": "Eugycom",
+    "wallet": "0x64ceab3becc143e1b97a8e16dc270c2297566015",
+    "slug": "nba-lal-uta-2026-10-25",
+    "title": "Lakers vs. Jazz",
+    "outcome": "Lakers",
+    "side": "BUY",
+    "usd": 67624.3,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1792955961,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13277,
+    "timestamp": 1792955970,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-mem-sac-2026-10-25",
+    "title": "Grizzlies vs. Kings",
+    "outcome": "Grizzlies",
+    "side": "BUY",
+    "usd": 60000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792955970,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13278,
+    "timestamp": 1792955977,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-mem-sac-2026-10-25-spread-away-3pt5",
+    "title": "Spread: Grizzlies (-3.5)",
+    "outcome": "Grizzlies",
+    "side": "BUY",
+    "usd": 30153.3603,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792955977,
+    "fills": 1
   }
 ]

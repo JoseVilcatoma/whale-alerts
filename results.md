@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 14:17:50 (hora de Perú)
+Actualizado: 2026-10-25 14:19:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6554**  ($371,541,595 en total)
+- Apuestas registradas: **6557**  ($371,699,372 en total)
 - Resueltas: **6448** — 3934 ganadas / 2514 perdidas (**61%** de acierto)
-- Pendientes: 84
+- Pendientes: 87
 - Apostadores distintos: 640
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 102 | 53 | 4 | 66% | $6,898,802 | +$124,380 |
-| Lakersfan111 | 83 | 47 | 4 | 64% | $6,457,423 | +$245,409 |
+| Lakersfan111 | 83 | 47 | 6 | 64% | $6,547,576 | +$245,409 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | googleplay | 17 | 21 | 0 | 45% | $6,000,572 | -$366,994 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Spread: Grizzlies (-3.5) | Grizzlies | 2.04 (49¢) | $30,153 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
+| Eugycom | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $67,624 | — | ⏳ Pendiente |
 | shark142 | Bengals vs. Ravens | Bengals | 1.39 (72¢) | $28,286 | — | ⏳ Pendiente |
 | yabanci | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Movistar KOI | 4.76 (21¢) | $32,188 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.28 (78¢) | $212,456 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | COMEONDUDE | Spread: Bengals (-3.5) | Ravens | 1.82 (55¢) | $49,500 | — | ⏳ Pendiente |
 | bbb17367162806 | Magic vs. Knicks | Knicks | 1.39 (72¢) | $31,523 | — | ⏳ Pendiente |
 | S-Works | Will Sunderland AFC win on 2026-10-25? | No | 1.56 (64¢) | $84,393 | +$47,471 | ✅ Ganada |
-| nb1985 | Will Leeds United FC win on 2026-10-25? | No | 1.49 (67¢) | $50,000 | +$24,627 | ✅ Ganada |
-| Sassy-Bucket | Browns vs. Titans | Browns | 1.82 (55¢) | $49,239 | — | ⏳ Pendiente |
-| monkeymashingkeyboard | Broncos vs. Cardinals | Broncos | 1.49 (67¢) | $32,524 | — | ⏳ Pendiente |
