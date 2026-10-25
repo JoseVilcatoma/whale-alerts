@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 01:16:31 (hora de Perú)
+Actualizado: 2026-10-25 01:18:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6419**  ($362,194,039 en total)
-- Resueltas: **6386** — 3898 ganadas / 2488 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **6387** — 3899 ganadas / 2488 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 633
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,172,212** sobre $360,719,172 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,598** sobre $629,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,160,325** sobre $360,798,727 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,583** sobre $629,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Ashlyn Krueger vs Katerina Siniakova | Katerina Siniakova | 1.49 (67¢) | $26,344 | — | ⏳ Pendiente |
 | hovistomaradona | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Houston vs. Utah | Utah | 1.25 (80¢) | $26,246 | +$6,562 | ✅ Ganada |
-| veliMax | Pan Pacific Open, Qualification: Kimberly Birrell vs Daria Kasatkina | Daria Kasatkina | 1.15 (87¢) | $79,555 | — | ⏳ Pendiente |
+| veliMax | Pan Pacific Open, Qualification: Kimberly Birrell vs Daria Kasatkina | Daria Kasatkina | 1.15 (87¢) | $79,555 | +$11,887 | ✅ Ganada |
 | NeverLoseBet | Will Real Madrid CF win on 2026-10-25? | No | 1.35 (74¢) | $31,011 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Steelers vs. Saints: O/U 44.5 | Under 44.5 | 1.79 (56¢) | $81,181 | — | ⏳ Pendiente |
 | omnibus-076daa | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Under 4.5 | 1.85 (54¢) | $114,035 | — | ⏳ Pendiente |
