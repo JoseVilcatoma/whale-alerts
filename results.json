@@ -96196,5 +96196,20 @@
     "status": "pending",
     "ultimo_fill": 1792895951,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13000,
+    "timestamp": 1792895952,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-miss-tx-2026-10-24",
+    "title": "Ole Miss vs. Texas",
+    "outcome": "Ole Miss",
+    "side": "BUY",
+    "usd": 39255.616,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1792895952,
+    "fills": 1
   }
 ]

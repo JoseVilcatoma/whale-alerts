@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 21:47:01 (hora de Perú)
+Actualizado: 2026-10-24 21:49:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6400**  ($361,162,653 en total)
+- Apuestas registradas: **6401**  ($361,201,908 en total)
 - Resueltas: **6329** — 3859 ganadas / 2470 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Pendientes: 50
 - Apostadores distintos: 632
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 102 | 52 | 0 | 66% | $6,737,037 | +$163,636 |
+| ferrariChampions2026 | 102 | 52 | 1 | 66% | $6,776,293 | +$163,636 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Lakersfan111 | 78 | 47 | 3 | 62% | $6,212,686 | +$145,629 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Ole Miss vs. Texas | Ole Miss | 2.50 (40¢) | $39,256 | — | ⏳ Pendiente |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.67 (60¢) | $58,856 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.35 (74¢) | $26,104 | — | ⏳ Pendiente |
 | Zywoo123 | Warriors vs. Suns | Suns | 1.28 (78¢) | $29,615 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | mooseborzoii | Spread: Oklahoma State (-13.5) | Colorado | 1.96 (51¢) | $44,319 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.33 (43¢) | $68,536 | +$90,850 | ✅ Ganada |
 | mooseborzoii | Ole Miss vs. Texas | Ole Miss | 2.44 (41¢) | $82,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Clemson (-2.5) | Clemson | 1.89 (53¢) | $31,800 | -$31,800 | ❌ Perdida |
