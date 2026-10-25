@@ -99720,11 +99720,11 @@
     "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
     "outcome": "Gen.G",
     "side": "BUY",
-    "usd": 140960.5517,
-    "odds_at_bet": 83,
+    "usd": 367760.5517,
+    "odds_at_bet": 84,
     "status": "pending",
-    "ultimo_fill": 1792968257,
-    "fills": 2
+    "ultimo_fill": 1792968270,
+    "fills": 3
   },
   {
     "telegram_msg_id": 13439,
@@ -99739,6 +99739,36 @@
     "odds_at_bet": 59,
     "status": "pending",
     "ultimo_fill": 1792968249,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13440,
+    "timestamp": 1792968321,
+    "username": "Jokerxing7",
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "slug": "nba-lac-okc-2026-10-25-spread-home-16pt5",
+    "title": "Spread: Thunder (-16.5)",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 32941.279,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792968321,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13441,
+    "timestamp": 1792968342,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nba-det-phi-2026-10-25",
+    "title": "Pistons vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 30227.4155,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1792968342,
     "fills": 1
   }
 ]

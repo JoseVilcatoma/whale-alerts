@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:44:20 (hora de Perú)
+Actualizado: 2026-10-25 17:46:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6636**  ($376,927,377 en total)
+- Apuestas registradas: **6638**  ($377,217,346 en total)
 - Resueltas: **6535** — 3982 ganadas / 2553 perdidas (**61%** de acierto)
-- Pendientes: 79
+- Pendientes: 81
 - Apostadores distintos: 643
 
 ### Balance
@@ -42,9 +42,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 26 | 1 | 70% | $5,234,064 | -$234,128 |
 | BrotherObama | 47 | 51 | 3 | 48% | $4,425,789 | -$123,120 |
 | maz26 | 36 | 23 | 5 | 61% | $4,388,312 | +$470,258 |
+| Mooseborzoiii | 17 | 17 | 3 | 50% | $3,880,917 | +$529,743 |
 | Kch-Temp | 43 | 13 | 3 | 77% | $3,864,821 | +$1,850,175 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Mooseborzoiii | 17 | 17 | 3 | 50% | $3,654,117 | +$529,743 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,8 +71,10 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dhgreg | Pistons vs. 76ers | 76ers | 2.13 (47¢) | $30,227 | — | ⏳ Pendiente |
+| Jokerxing7 | Spread: Thunder (-16.5) | Thunder | 2.04 (49¢) | $32,941 | — | ⏳ Pendiente |
 | milkteaboba | Raptors vs. Timberwolves | Timberwolves | 1.69 (59¢) | $182,900 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.20 (83¢) | $140,961 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.19 (84¢) | $367,761 | — | ⏳ Pendiente |
 | dhgreg | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $32,071 | — | ⏳ Pendiente |
 | zb8 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.22 (82¢) | $26,215 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Thunder (-16.5) | Thunder | 2.13 (47¢) | $29,469 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Sunshine.Smile | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.35 (74¢) | $25,900 | +$9,100 | ✅ Ganada |
 | jakepaulthegoat2008 | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.41 (71¢) | $37,673 | +$15,388 | ✅ Ganada |
 | zb8 | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.43 (70¢) | $28,262 | +$12,112 | ✅ Ganada |
-| gmpm2 | Packers vs. Lions | Lions | 1.54 (65¢) | $32,098 | — | ⏳ Pendiente |
-| gmpm2 | Packers vs. Lions | Lions | 1.54 (65¢) | $186,550 | — | ⏳ Pendiente |
