@@ -96661,5 +96661,50 @@
     "status": "pending",
     "ultimo_fill": 1792920690,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13091,
+    "timestamp": 1792920635,
+    "username": "robustmst",
+    "wallet": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63",
+    "slug": "wta-rybakin-fernand-2026-10-25",
+    "title": "Ningbo Open: Elena Rybakina vs Leylah Fernandez",
+    "outcome": "Leylah Fernandez",
+    "side": "BUY",
+    "usd": 25000.00000017,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1792920635,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13092,
+    "timestamp": 1792920056,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "wta-rybakin-fernand-2026-10-25",
+    "title": "Ningbo Open: Elena Rybakina vs Leylah Fernandez",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 70058.9176,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1792920056,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13093,
+    "timestamp": 1792919852,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "wta-rybakin-fernand-2026-10-25",
+    "title": "Ningbo Open: Elena Rybakina vs Leylah Fernandez",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 32872.48219941053,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1792919852,
+    "fills": 1
   }
 ]
