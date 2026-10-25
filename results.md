@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 19:08:27 (hora de Perú)
+Actualizado: 2026-10-24 19:10:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6371**  ($359,622,249 en total)
-- Resueltas: **6274** — 3827 ganadas / 2447 perdidas (**61%** de acierto)
-- Pendientes: 75
+- Apuestas registradas: **6372**  ($359,756,952 en total)
+- Resueltas: **6277** — 3828 ganadas / 2449 perdidas (**61%** de acierto)
+- Pendientes: 73
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,827,454** sobre $353,564,570 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,576** sobre $618,600 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,882,068** sobre $353,696,884 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,694** sobre $618,900 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 455 | 248 | 10 | 65% | $46,157,698 | +$992,583 |
-| Sassy-Bucket | 86 | 88 | 10 | 49% | $11,659,202 | -$1,264,352 |
+| Sassy-Bucket | 86 | 90 | 8 | 49% | $11,659,202 | -$1,353,931 |
 | mooseborzoii | 86 | 45 | 9 | 66% | $7,986,631 | +$1,133,796 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| winner877 | Spurs vs. Mavericks | Spurs | 1.15 (87¢) | $37,553 | — | ⏳ Pendiente |
+| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Bucks vs. 76ers | 76ers | 1.12 (89¢) | $30,718 | — | ⏳ Pendiente |
+| winner877 | Spurs vs. Mavericks | Spurs | 1.15 (87¢) | $141,539 | — | ⏳ Pendiente |
 | KaneAnalytics | San Diego State vs. Colorado State | Colorado State | 1.59 (63¢) | $57,155 | — | ⏳ Pendiente |
 | KaneAnalytics | Ole Miss vs. Texas | Texas | 1.43 (70¢) | $26,651 | — | ⏳ Pendiente |
 | big8betz | Wizards vs. Bulls | Wizards | 2.08 (48¢) | $49,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | KaneAnalytics | San Jose State vs. Nevada | Nevada | 1.43 (70¢) | $26,694 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Jose State vs. Nevada | San Jose State | 2.94 (34¢) | $28,115 | — | ⏳ Pendiente |
 | YYYYY999 | Spread: Bulls (-1.5) | Wizards | 1.96 (51¢) | $32,587 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 1.89 (53¢) | $76,318 | -$76,318 | ❌ Perdida |

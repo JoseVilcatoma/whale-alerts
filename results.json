@@ -93969,7 +93969,7 @@
     "side": "BUY",
     "usd": 42735.0,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792861100,
     "fills": 1
   },
@@ -94629,7 +94629,7 @@
     "side": "BUY",
     "usd": 49640.9138,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792869676,
     "fills": 1
   },
@@ -94659,7 +94659,7 @@
     "side": "BUY",
     "usd": 39937.8747,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792870078,
     "fills": 1
   },
@@ -95756,10 +95756,25 @@
     "title": "Spurs vs. Mavericks",
     "outcome": "Spurs",
     "side": "BUY",
-    "usd": 37553.1498,
+    "usd": 141538.7034,
     "odds_at_bet": 87,
     "status": "pending",
-    "ultimo_fill": 1792886887,
+    "ultimo_fill": 1792887034,
+    "fills": 4
+  },
+  {
+    "telegram_msg_id": 12918,
+    "timestamp": 1792886982,
+    "username": "0x3mf379C47E653dafa153841a995Cf975B6a02fxd",
+    "wallet": "0x3a55b0c45449b955e43ec10734bd988bb5d1394e",
+    "slug": "nba-mil-phi-2026-10-24",
+    "title": "Bucks vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 30718.047400000003,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1792886982,
     "fills": 1
   }
 ]
