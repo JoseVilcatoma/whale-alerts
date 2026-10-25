@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 21:12:33 (hora de Perú)
+Actualizado: 2026-10-24 21:14:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6396**  ($360,998,832 en total)
-- Resueltas: **6310** — 3848 ganadas / 2462 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Resueltas: **6311** — 3848 ganadas / 2463 perdidas (**61%** de acierto)
+- Pendientes: 63
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,652,391** sobre $355,706,211 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$7,265** sobre $622,200 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,680,520** sobre $355,734,340 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,365** sobre $622,300 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -119,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | executiveX | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.75 (57¢) | $34,200 | -$34,200 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Bulls | Wizards | 2.17 (46¢) | $216,417 | — | ⏳ Pendiente |
 | googleplay | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $309,060 | — | ⏳ Pendiente |
-| theowalcott | Will Philadelphia Union win on 2026-10-24? | Yes | 1.54 (65¢) | $28,129 | — | ⏳ Pendiente |
+| theowalcott | Will Philadelphia Union win on 2026-10-24? | Yes | 1.54 (65¢) | $28,129 | -$28,129 | ❌ Perdida |
 | Donkey14 | Spread: Bulls (-1.5) | Wizards | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
 | robustmst | Heat vs. Hornets | Hornets | 1.89 (53¢) | $48,854 | +$32,262 | 💰 Vendida antes |
 | googleplay | Wizards vs. Bulls | Bulls | 1.89 (53¢) | $442,373 | — | ⏳ Pendiente |
