@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 16:57:20 (hora de Perú)
+Actualizado: 2026-10-25 16:59:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6612**  ($375,458,198 en total)
+- Apuestas registradas: **6613**  ($375,498,698 en total)
 - Resueltas: **6503** — 3966 ganadas / 2537 perdidas (**61%** de acierto)
-- Pendientes: 87
+- Pendientes: 88
 - Apostadores distintos: 643
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ColdBlooded | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $40,500 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $33,530 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.25 (80¢) | $40,000 | — | ⏳ Pendiente |
 | sinasinner | Will FC Barcelona vs. Real Madrid CF end in a draw? | Yes | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | jakepaulthegoat2008 | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
 | Eugycom | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $94,824 | — | ⏳ Pendiente |
 | shark142 | Bengals vs. Ravens | Bengals | 1.39 (72¢) | $28,286 | +$11,000 | ✅ Ganada |
-| yabanci | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Movistar KOI | 4.76 (21¢) | $32,188 | -$32,188 | ❌ Perdida |
