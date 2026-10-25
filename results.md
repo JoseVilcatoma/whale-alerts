@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 03:37:22 (hora de Perú)
+Actualizado: 2026-10-25 04:33:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6430**  ($362,624,405 en total)
+- Apuestas registradas: **6431**  ($362,657,387 en total)
 - Resueltas: **6388** — 3900 ganadas / 2488 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 633
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 102 | 53 | 0 | 66% | $6,776,293 | +$124,380 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Lakersfan111 | 81 | 47 | 1 | 63% | $6,262,016 | +$219,427 |
+| Lakersfan111 | 81 | 47 | 2 | 63% | $6,294,998 | +$219,427 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YYYYY999 | Counter-Strike: Vitality vs TheMongolz (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.23 (81¢) | $32,982 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-10-25? | Yes | 3.85 (26¢) | $34,917 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-25? | No | 2.44 (41¢) | $63,725 | — | ⏳ Pendiente |
 | Flaznorp | Will Real Madrid CF win on 2026-10-25? | No | 1.35 (74¢) | $46,212 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | Woaifacai | Heat vs. Hornets | Hornets | 1.52 (66¢) | $33,000 | +$17,000 | ✅ Ganada |
 | meoooow | LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage | Bilibili Gaming | 1.32 (76¢) | $74,057 | +$23,386 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Bucks vs. 76ers | 76ers | 1.12 (89¢) | $30,718 | +$3,797 | ✅ Ganada |
-| winner877 | Spurs vs. Mavericks | Spurs | 1.15 (87¢) | $141,539 | +$21,149 | ✅ Ganada |
