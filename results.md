@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 19:48:16 (hora de Perú)
+Actualizado: 2026-10-24 19:50:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6385**  ($360,271,427 en total)
+- Apuestas registradas: **6386**  ($360,317,748 en total)
 - Resueltas: **6289** — 3835 ganadas / 2454 perdidas (**61%** de acierto)
-- Pendientes: 74
+- Pendientes: 75
 - Apostadores distintos: 632
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Kraken | Wild | 1.59 (63¢) | $46,321 | — | ⏳ Pendiente |
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.00 (50¢) | $27,560 | — | ⏳ Pendiente |
 | KaneAnalytics | Ole Miss vs. Texas | Texas | 1.19 (84¢) | $50,400 | — | ⏳ Pendiente |
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.04 (49¢) | $59,901 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | YEEES-but-why | Heat vs. Hornets | Hornets | 2.70 (37¢) | $29,415 | — | ⏳ Pendiente |
 | sinasinner | Spread: Texas (-3.5) | Ole Miss | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoii | Texas A&M vs. Alabama | Alabama | 1.45 (69¢) | $71,436 | +$32,094 | ✅ Ganada |
-| ropetard | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $49,830 | — | ⏳ Pendiente |
