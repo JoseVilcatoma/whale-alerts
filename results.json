@@ -99410,5 +99410,20 @@
     "status": "pending",
     "ultimo_fill": 1792965598,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13391,
+    "timestamp": 1792965708,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nba-tor-min-2026-10-25",
+    "title": "Raptors vs. Timberwolves",
+    "outcome": "Timberwolves",
+    "side": "BUY",
+    "usd": 43499.5456,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1792965708,
+    "fills": 1
   }
 ]

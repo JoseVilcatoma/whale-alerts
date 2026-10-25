@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:01:26 (hora de Perú)
+Actualizado: 2026-10-25 17:03:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6614**  ($375,579,256 en total)
+- Apuestas registradas: **6615**  ($375,622,756 en total)
 - Resueltas: **6503** — 3966 ganadas / 2537 perdidas (**61%** de acierto)
-- Pendientes: 89
+- Pendientes: 90
 - Apostadores distintos: 643
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 466 | 254 | 13 | 65% | $47,923,123 | +$1,350,315 |
 | Sassy-Bucket | 93 | 94 | 2 | 50% | $12,066,678 | -$1,393,191 |
-| mooseborzoii | 94 | 53 | 3 | 64% | $8,533,753 | +$937,260 |
+| mooseborzoii | 94 | 53 | 4 | 64% | $8,577,252 | +$937,260 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 3 | 62% | $7,945,894 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.79 (56¢) | $43,500 | — | ⏳ Pendiente |
 | ropetard | Raptors vs. Timberwolves | Timberwolves | 2.00 (50¢) | $80,558 | — | ⏳ Pendiente |
 | ColdBlooded | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $40,500 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $33,530 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | BrotherObama | Raptors vs. Timberwolves | Timberwolves | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Spread: Grizzlies (-3.5) | Grizzlies | 2.04 (49¢) | $30,153 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
-| Eugycom | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $94,824 | — | ⏳ Pendiente |
