@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 02:53:37 (hora de Perú)
+Actualizado: 2026-10-25 02:55:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6423**  ($362,323,667 en total)
+- Apuestas registradas: **6424**  ($362,353,094 en total)
 - Resueltas: **6388** — 3900 ganadas / 2488 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 633
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 461 | 253 | 3 | 65% | $46,427,165 | +$1,054,645 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 461 | 253 | 4 | 65% | $46,456,592 | +$1,054,645 |
 | Sassy-Bucket | 88 | 94 | 2 | 48% | $11,659,202 | -$1,662,107 |
 | mooseborzoii | 93 | 50 | 1 | 65% | $8,166,026 | +$1,154,984 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | OG | 2.50 (40¢) | $29,427 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.39 (72¢) | $25,467 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: BetBoom Team vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 2.44 (41¢) | $28,732 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.37 (73¢) | $49,330 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | HVAB | Fort Worth: Jenson Brooksby vs Gabriel Debru | Jenson Brooksby | 1.32 (76¢) | $32,854 | +$10,375 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $89,965 | -$89,965 | ❌ Perdida |
 | juice-fruit | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $34,601 | +$34,601 | ✅ Ganada |
-| Eugycom | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $34,300 | +$35,700 | ✅ Ganada |
