@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 13:13:23 (hora de Perú)
+Actualizado: 2026-10-25 13:15:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6539**  ($370,221,857 en total)
-- Resueltas: **6429** — 3926 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 88
+- Resueltas: **6434** — 3928 ganadas / 2506 perdidas (**61%** de acierto)
+- Pendientes: 83
 - Apostadores distintos: 639
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,782,812** sobre $363,195,781 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$6,527** sobre $634,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$1,925,068** sobre $363,418,037 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$6,710** sobre $634,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -103,9 +103,9 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 | ferrariChampions2026 | Spread: Lakers (-6.5) | Jazz | 2.00 (50¢) | $35,068 | — | ⏳ Pendiente |
 | salgnklasf | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.10 (91¢) | $77,127 | — | ⏳ Pendiente |
 | RegardedMoney | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $314,432 | — | ⏳ Pendiente |
-| Wiretransferxyz | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
-| 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
-| juice-fruit | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 2.63 (38¢) | $31,516 | — | ⏳ Pendiente |
+| Wiretransferxyz | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
+| 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
+| juice-fruit | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 2.63 (38¢) | $31,516 | -$31,516 | ❌ Perdida |
 | SDTrading | Spread: Panthers (-2.5) | Panthers | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | DonLino1 | Browns vs. Titans | Titans | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | raybanman | Browns vs. Titans | Titans | 2.17 (46¢) | $349,600 | — | ⏳ Pendiente |
@@ -126,8 +126,8 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 | YYYYY999 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $53,024 | — | ⏳ Pendiente |
 | Donkey14 | 49ers vs. Falcons | Falcons | 2.38 (42¢) | $50,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 49ers vs. Falcons | Falcons | 2.38 (42¢) | $64,165 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.72 (58¢) | $26,339 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.72 (58¢) | $26,339 | -$26,339 | ❌ Perdida |
 | YYYYY999 | Pistons vs. 76ers | Pistons | 1.96 (51¢) | $30,011 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: 49ers (-2.5) | 49ers | 1.92 (52¢) | $72,007 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.75 (57¢) | $114,000 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.75 (57¢) | $114,000 | -$114,000 | ❌ Perdida |
 | kevinmeng | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.35 (74¢) | $53,339 | — | ⏳ Pendiente |
