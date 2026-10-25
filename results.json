@@ -98293,7 +98293,7 @@
     "side": "BUY",
     "usd": 123661.995,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792952367,
     "fills": 1
   },
@@ -98308,7 +98308,7 @@
     "side": "BUY",
     "usd": 48306.5284,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792952533,
     "fills": 1
   },
@@ -98503,7 +98503,7 @@
     "side": "BUY",
     "usd": 28285.7184,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792955725,
     "fills": 1
   },
@@ -98942,6 +98942,36 @@
     "odds_at_bet": 52,
     "status": "pending",
     "ultimo_fill": 1792959191,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13322,
+    "timestamp": 1792959287,
+    "username": "sinasinner",
+    "wallet": "0x8a260ebadf8ef07e693dd1b0be120b3330dd73c3",
+    "slug": "nfl-den-ari-2026-10-25-spread-away-4pt5",
+    "title": "Spread: Broncos (-4.5)",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 53000.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792959287,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13323,
+    "timestamp": 1792959294,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nfl-la-lv-2026-10-25",
+    "title": "Rams vs. Raiders",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "usd": 99999.9982,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1792959294,
     "fills": 1
   }
 ]

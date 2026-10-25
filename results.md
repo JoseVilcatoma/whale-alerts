@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:14:10 (hora de Perú)
+Actualizado: 2026-10-25 15:16:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6583**  ($373,376,674 en total)
-- Resueltas: **6465** — 3942 ganadas / 2523 perdidas (**61%** de acierto)
-- Pendientes: 96
+- Apuestas registradas: **6585**  ($373,529,674 en total)
+- Resueltas: **6468** — 3944 ganadas / 2524 perdidas (**61%** de acierto)
+- Pendientes: 95
 - Apostadores distintos: 641
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,913,071** sobre $365,780,280 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$7,449** sobre $637,600 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$1,981,143** sobre $365,980,534 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,417** sobre $637,900 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 15 | 65% | $47,738,194 | +$1,143,151 |
 | Sassy-Bucket | 92 | 94 | 3 | 49% | $12,066,678 | -$1,433,478 |
-| mooseborzoii | 93 | 51 | 6 | 65% | $8,533,753 | +$1,128,490 |
+| mooseborzoii | 93 | 52 | 5 | 64% | $8,533,753 | +$1,004,828 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 3 | 62% | $7,945,894 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mooseborzoiii | 14 | 17 | 3 | 45% | $3,439,626 | +$95,320 |
 | raybanman | 17 | 13 | 1 | 57% | $3,413,262 | +$459,157 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| cosmicxbt | 19 | 8 | 1 | 70% | $2,994,498 | -$439,114 |
+| cosmicxbt | 20 | 8 | 0 | 71% | $2,994,498 | -$394,523 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | milkteaboba | 13 | 11 | 1 | 54% | $2,684,351 | -$694,704 |
 | S-Works | 17 | 7 | 1 | 71% | $2,592,304 | -$208,050 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Rams vs. Raiders | Raiders | 2.63 (38¢) | $100,000 | — | ⏳ Pendiente |
+| sinasinner | Spread: Broncos (-4.5) | Broncos | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | testingout123 | Spread: Lions (-4.5) | Packers | 1.92 (52¢) | $25,063 | — | ⏳ Pendiente |
 | tennischamp | Broncos vs. Cardinals | Broncos | 1.39 (72¢) | $55,698 | — | ⏳ Pendiente |
 | Sunshine.Smile | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
@@ -100,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 | jakepaulthegoat2008 | Spread: Grizzlies (-3.5) | Grizzlies | 2.04 (49¢) | $30,153 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
 | Eugycom | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $94,824 | — | ⏳ Pendiente |
-| shark142 | Bengals vs. Ravens | Bengals | 1.39 (72¢) | $28,286 | — | ⏳ Pendiente |
+| shark142 | Bengals vs. Ravens | Bengals | 1.39 (72¢) | $28,286 | +$11,000 | ✅ Ganada |
 | yabanci | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Movistar KOI | 4.76 (21¢) | $32,188 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.28 (78¢) | $212,456 | — | ⏳ Pendiente |
 | Sunshine.Smile | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.35 (74¢) | $32,936 | — | ⏳ Pendiente |
@@ -113,8 +115,8 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.16 (86¢) | $58,494 | — | ⏳ Pendiente |
 | S-Works | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.15 (87¢) | $136,590 | — | ⏳ Pendiente |
 | KaneAnalytics | Giants vs. Texans | Texans | 1.59 (63¢) | $55,346 | — | ⏳ Pendiente |
-| cosmicxbt | Spread: Ravens (-6.5) | Bengals | 1.92 (52¢) | $48,307 | — | ⏳ Pendiente |
-| mooseborzoii | Bengals vs. Ravens | Ravens | 1.33 (75¢) | $123,662 | — | ⏳ Pendiente |
+| cosmicxbt | Spread: Ravens (-6.5) | Bengals | 1.92 (52¢) | $48,307 | +$44,591 | ✅ Ganada |
+| mooseborzoii | Bengals vs. Ravens | Ravens | 1.33 (75¢) | $123,662 | -$123,662 | ❌ Perdida |
 | fhiwbijd | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | Mooseborzoiii | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | Top Esports | 2.08 (48¢) | $64,089 | +$69,429 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.92 (52¢) | $31,200 | -$31,200 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 | jakepaulthegoat2008 | Spread: Pacers (-7.5) | Nets | 1.89 (53¢) | $36,684 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Giants | 5.26 (19¢) | $44,294 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Vikings | Colts | 2.33 (43¢) | $27,096 | -$27,096 | ❌ Perdida |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.75 (57¢) | $74,772 | +$56,407 | ✅ Ganada |
-| milkteaboba | Giants vs. Texans | Texans | 1.23 (81¢) | $346,955 | — | ⏳ Pendiente |
