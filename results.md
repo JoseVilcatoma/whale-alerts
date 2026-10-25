@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 13:42:18 (hora de Perú)
+Actualizado: 2026-10-25 13:44:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6547**  ($370,915,502 en total)
+- Apuestas registradas: **6548**  ($371,160,529 en total)
 - Resueltas: **6434** — 3928 ganadas / 2506 perdidas (**61%** de acierto)
-- Pendientes: 91
+- Pendientes: 92
 - Apostadores distintos: 639
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jokerxing7 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.22 (45¢) | $245,027 | — | ⏳ Pendiente |
 | halanddd123 | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | Top Esports | 1.25 (80¢) | $65,079 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Broncos (-4.5) | Cardinals | 2.00 (50¢) | $56,608 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Broncos (-4.5) | Cardinals | 2.00 (50¢) | $149,560 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 | Kch-Temp | Colts vs. Vikings: O/U 40.5 | Over 40.5 | 1.82 (55¢) | $29,569 | — | ⏳ Pendiente |
 | googleplay | Will Sunderland AFC win on 2026-10-25? | Yes | 2.86 (35¢) | $44,469 | — | ⏳ Pendiente |
 | Donkey14 | Browns vs. Titans | Titans | 2.22 (45¢) | $100,000 | — | ⏳ Pendiente |
-| googleplay | Will Sunderland AFC win on 2026-10-25? | Yes | 2.86 (35¢) | $244,803 | — | ⏳ Pendiente |
