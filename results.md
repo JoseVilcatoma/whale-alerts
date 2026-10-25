@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 22:07:25 (hora de Perú)
+Actualizado: 2026-10-24 22:09:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6403**  ($361,279,400 en total)
-- Resueltas: **6342** — 3868 ganadas / 2474 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Apuestas registradas: **6406**  ($361,442,836 en total)
+- Resueltas: **6343** — 3868 ganadas / 2475 perdidas (**61%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,336,101** sobre $358,148,414 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,879** sobre $625,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,380,420** sobre $358,192,733 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,979** sobre $625,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 459 | 252 | 3 | 65% | $46,191,698 | +$1,050,793 |
 | Sassy-Bucket | 87 | 93 | 4 | 48% | $11,659,202 | -$1,554,417 |
-| mooseborzoii | 89 | 48 | 7 | 65% | $8,166,026 | +$1,184,914 |
+| mooseborzoii | 89 | 49 | 6 | 64% | $8,166,026 | +$1,140,595 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 26 | 22 | 1 | 54% | $2,286,861 | +$247,232 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| TAIWANNUMBERONE | 32 | 17 | 1 | 65% | $1,922,301 | -$174,399 |
+| TAIWANNUMBERONE | 32 | 17 | 2 | 65% | $1,957,629 | -$174,399 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $37,999 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $35,327 | — | ⏳ Pendiente |
+| tin54321 | Pelicans vs. Nuggets | Pelicans | 1.20 (83¢) | $90,109 | — | ⏳ Pendiente |
 | tin54321 | Pelicans vs. Nuggets: O/U 247.5 | Under 247.5 | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
 | ethanaz | Ole Miss vs. Texas | Ole Miss | 2.27 (44¢) | $47,491 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Ole Miss vs. Texas | Ole Miss | 2.50 (40¢) | $39,256 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | googleplay | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $309,060 | +$309,060 | ✅ Ganada |
 | theowalcott | Will Philadelphia Union win on 2026-10-24? | Yes | 1.54 (65¢) | $28,129 | -$28,129 | ❌ Perdida |
 | Donkey14 | Spread: Bulls (-1.5) | Wizards | 2.04 (49¢) | $40,000 | +$41,633 | ✅ Ganada |
-| robustmst | Heat vs. Hornets | Hornets | 1.89 (53¢) | $48,854 | +$32,262 | 💰 Vendida antes |
-| googleplay | Wizards vs. Bulls | Bulls | 1.89 (53¢) | $442,373 | -$442,373 | ❌ Perdida |
-| mooseborzoii | Spread: Oklahoma State (-13.5) | Colorado | 1.96 (51¢) | $44,319 | — | ⏳ Pendiente |

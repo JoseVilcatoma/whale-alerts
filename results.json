@@ -95351,7 +95351,7 @@
     "side": "BUY",
     "usd": 44319.0,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792882781,
     "fills": 1
   },
@@ -96240,6 +96240,51 @@
     "odds_at_bet": 57,
     "status": "pending",
     "ultimo_fill": 1792896717,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13016,
+    "timestamp": 1792897646,
+    "username": "tin54321",
+    "wallet": "0x91e67d77b45558ce69238bf8a79e2e902b1ee9c5",
+    "slug": "nba-nop-den-2026-10-24",
+    "title": "Pelicans vs. Nuggets",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 90109.398298,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1792897674,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 13017,
+    "timestamp": 1792897682,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "cfb-miss-tx-2026-10-24",
+    "title": "Ole Miss vs. Texas",
+    "outcome": "Texas",
+    "side": "BUY",
+    "usd": 35327.177599999995,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1792897682,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13019,
+    "timestamp": 1792897703,
+    "username": "0x6db5\u2026e279",
+    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
+    "slug": "cfb-miss-tx-2026-10-24",
+    "title": "Ole Miss vs. Texas",
+    "outcome": "Texas",
+    "side": "BUY",
+    "usd": 37999.439997999994,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1792897703,
     "fills": 1
   }
 ]
