@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 12:50:42 (hora de Perú)
+Actualizado: 2026-10-25 12:52:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6534**  ($370,034,601 en total)
+- Apuestas registradas: **6535**  ($370,064,601 en total)
 - Resueltas: **6429** — 3926 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 83
-- Apostadores distintos: 638
+- Pendientes: 84
+- Apostadores distintos: 639
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 
-_(mostrando los 40 de mayor monto, de 638 en total)_
+_(mostrando los 40 de mayor monto, de 639 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| chongchong37 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Titans | Browns | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Dolphins vs. Jets | Dolphins | 2.08 (48¢) | $25,849 | — | ⏳ Pendiente |
 | juice-fruit | Dolphins vs. Jets | Jets | 1.96 (51¢) | $38,141 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 638 en total)_
 | mooseborzoii | Will Leeds United FC win on 2026-10-25? | Yes | 2.94 (34¢) | $26,494 | — | ⏳ Pendiente |
 | tikstt2 | Will Leeds United FC win on 2026-10-25? | No | 1.52 (66¢) | $33,474 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $448,587 | +$44,366 | ✅ Ganada |
-| Nooserac | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $45,500 | +$4,500 | ✅ Ganada |

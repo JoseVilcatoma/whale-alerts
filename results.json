@@ -98206,5 +98206,20 @@
     "status": "pending",
     "ultimo_fill": 1792949892,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13236,
+    "timestamp": 1792950724,
+    "username": "chongchong37",
+    "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+    "slug": "nba-lal-uta-2026-10-25-spread-away-6pt5",
+    "title": "Spread: Lakers (-6.5)",
+    "outcome": "Lakers",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792950724,
+    "fills": 1
   }
 ]
