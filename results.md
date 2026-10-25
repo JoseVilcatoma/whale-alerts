@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 12:34:18 (hora de Perú)
+Actualizado: 2026-10-25 12:36:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6530**  ($369,901,299 en total)
+- Apuestas registradas: **6532**  ($369,971,753 en total)
 - Resueltas: **6429** — 3926 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 79
+- Pendientes: 81
 - Apostadores distintos: 638
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 7 | 65% | $47,085,311 | +$1,143,151 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 8 | 65% | $47,117,625 | +$1,143,151 |
 | Sassy-Bucket | 90 | 94 | 5 | 49% | $12,066,678 | -$1,490,411 |
 | mooseborzoii | 93 | 50 | 5 | 65% | $8,363,203 | +$1,154,984 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 638 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Dolphins vs. Jets | Jets | 1.96 (51¢) | $38,141 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-10-25? | Yes | 4.17 (24¢) | $32,314 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Giants vs. Texans | Texans | 1.59 (63¢) | $34,497 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.72 (58¢) | $67,130 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Spread: Pacers (-7.5) | Nets | 1.89 (53¢) | $36,684 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 638 en total)_
 | Nooserac | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $45,500 | +$4,500 | ✅ Ganada |
 | Sassy-Bucket | Steelers vs. Saints | Steelers | 1.56 (64¢) | $193,906 | +$109,072 | ✅ Ganada |
 | Sassy-Bucket | Steelers vs. Saints | Steelers | 1.59 (63¢) | $106,630 | +$62,624 | ✅ Ganada |
-| veliMax | Will Liverpool FC win on 2026-10-25? | Yes | 1.14 (88¢) | $55,726 | +$7,599 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.16 (86¢) | $37,196 | — | ⏳ Pendiente |
