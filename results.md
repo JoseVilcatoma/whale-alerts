@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 10:45:48 (hora de Perú)
+Actualizado: 2026-10-25 10:47:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6481**  ($365,619,513 en total)
+- Apuestas registradas: **6483**  ($365,721,532 en total)
 - Resueltas: **6406** — 3911 ganadas / 2495 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 55
 - Apostadores distintos: 636
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 102 | 53 | 0 | 66% | $6,776,293 | +$124,380 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Lakersfan111 | 83 | 47 | 0 | 64% | $6,294,998 | +$245,409 |
+| Lakersfan111 | 83 | 47 | 1 | 64% | $6,325,009 | +$245,409 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 47 | 51 | 2 | 48% | $4,400,789 | -$123,120 |
 | maz26 | 33 | 23 | 1 | 59% | $3,872,896 | +$380,239 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Kch-Temp | 42 | 11 | 3 | 79% | $3,613,685 | +$1,904,316 |
+| Kch-Temp | 42 | 11 | 4 | 79% | $3,685,692 | +$1,904,316 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | raybanman | 17 | 13 | 0 | 57% | $3,063,662 | +$459,157 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| YYYYY999 | Pistons vs. 76ers | Pistons | 1.96 (51¢) | $30,011 | — | ⏳ Pendiente |
+| Kch-Temp | Spread: 49ers (-2.5) | 49ers | 1.92 (52¢) | $72,007 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.75 (57¢) | $114,000 | — | ⏳ Pendiente |
 | kevinmeng | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.35 (74¢) | $53,339 | — | ⏳ Pendiente |
 | Takon88 | Will FC Bayern München win on 2026-10-25? | Yes | 1.54 (65¢) | $95,869 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 | kdvlklkvlsklkfs | Ningbo: Egor Pleshivtsev vs Dominik Palan | Dominik Palan | 1.67 (60¢) | $46,194 | -$46,194 | ❌ Perdida |
 | salgnklasf | Counter-Strike: Spirit vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.11 (90¢) | $54,261 | +$6,029 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | OG | 2.50 (40¢) | $29,427 | +$44,141 | ✅ Ganada |
-| 4217893367451 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.39 (72¢) | $25,467 | +$9,904 | ✅ Ganada |
-| 4217893367451 | Counter-Strike: BetBoom Team vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 2.44 (41¢) | $28,732 | -$28,732 | ❌ Perdida |
