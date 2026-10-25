@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 12:23:56 (hora de Perú)
+Actualizado: 2026-10-25 12:26:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6527**  ($369,762,988 en total)
+- Apuestas registradas: **6529**  ($369,866,801 en total)
 - Resueltas: **6428** — 3925 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 77
+- Pendientes: 79
 - Apostadores distintos: 638
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 102 | 53 | 2 | 66% | $6,838,456 | +$124,380 |
-| Lakersfan111 | 83 | 47 | 3 | 64% | $6,420,739 | +$245,409 |
+| Lakersfan111 | 83 | 47 | 4 | 64% | $6,457,423 | +$245,409 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | googleplay | 16 | 19 | 3 | 46% | $6,000,572 | -$427,044 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 638 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.72 (58¢) | $67,130 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Spread: Pacers (-7.5) | Nets | 1.89 (53¢) | $36,684 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Giants | 5.26 (19¢) | $44,294 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colts vs. Vikings | Colts | 2.33 (43¢) | $27,096 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.75 (57¢) | $74,772 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 638 en total)_
 | veliMax | Will Liverpool FC win on 2026-10-25? | Yes | 1.14 (88¢) | $55,726 | +$7,599 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.16 (86¢) | $37,196 | — | ⏳ Pendiente |
 | justwins | Spread: Texans (-10.5) | Giants | 1.96 (51¢) | $25,896 | — | ⏳ Pendiente |
-| migrodrigues | Spread: FC Barcelona (-3.5) | FC Barcelona | 7.69 (13¢) | $66,000 | — | ⏳ Pendiente |
-| juice-fruit | Steelers vs. Saints | Steelers | 1.59 (63¢) | $74,496 | +$43,752 | ✅ Ganada |
