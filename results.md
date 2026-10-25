@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 07:21:01 (hora de Perú)
+Actualizado: 2026-10-25 07:23:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6447**  ($363,318,723 en total)
-- Resueltas: **6396** — 3906 ganadas / 2490 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **6398** — 3907 ganadas / 2491 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 635
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,139,758** sobre $361,161,236 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,553** sobre $630,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,149,590** sobre $361,216,068 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,581** sobre $631,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,9 +96,9 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | salgnklasf | Counter-Strike: Spirit vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.11 (90¢) | $54,261 | +$6,029 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | OG | 2.50 (40¢) | $29,427 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.39 (72¢) | $25,467 | +$9,904 | ✅ Ganada |
-| 4217893367451 | Counter-Strike: BetBoom Team vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 2.44 (41¢) | $28,732 | — | ⏳ Pendiente |
+| 4217893367451 | Counter-Strike: BetBoom Team vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 2.44 (41¢) | $28,732 | -$28,732 | ❌ Perdida |
 | YYYYY999 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.37 (73¢) | $49,330 | +$18,245 | ✅ Ganada |
-| Wiretransferxyz | Counter-Strike: BetBoom Team vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | BetBoom Team | 1.72 (58¢) | $26,100 | — | ⏳ Pendiente |
+| Wiretransferxyz | Counter-Strike: BetBoom Team vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | BetBoom Team | 1.72 (58¢) | $26,100 | +$18,900 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Japan Women's Open: Ashlyn Krueger vs Katerina Siniakova | Katerina Siniakova | 1.49 (67¢) | $26,344 | +$12,975 | ✅ Ganada |
 | hovistomaradona | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Houston vs. Utah | Utah | 1.25 (80¢) | $26,246 | +$6,562 | ✅ Ganada |
