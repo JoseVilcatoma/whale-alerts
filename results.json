@@ -97441,5 +97441,20 @@
     "status": "pending",
     "ultimo_fill": 1792943246,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13162,
+    "timestamp": 1792943288,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-furia-navi-2026-10-25",
+    "title": "Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 26339.284799999998,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1792943288,
+    "fills": 1
   }
 ]
