@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 02:49:28 (hora de Perú)
+Actualizado: 2026-10-25 02:51:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6422**  ($362,298,200 en total)
+- Apuestas registradas: **6423**  ($362,323,667 en total)
 - Resueltas: **6388** — 3900 ganadas / 2488 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 633
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 4217893367451 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.39 (72¢) | $25,467 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: BetBoom Team vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 2.44 (41¢) | $28,732 | — | ⏳ Pendiente |
 | YYYYY999 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.37 (73¢) | $49,330 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: BetBoom Team vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | BetBoom Team | 1.72 (58¢) | $26,100 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | 76ers | 2.04 (49¢) | $89,965 | -$89,965 | ❌ Perdida |
 | juice-fruit | Spread: 76ers (-12.5) | Bucks | 2.00 (50¢) | $34,601 | +$34,601 | ✅ Ganada |
 | Eugycom | Rockets vs. Hawks | Rockets | 2.04 (49¢) | $34,300 | +$35,700 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bulls (-1.5) | Bulls | 1.96 (51¢) | $101,193 | -$101,193 | ❌ Perdida |
