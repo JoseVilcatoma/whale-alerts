@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:08:03 (hora de Perú)
+Actualizado: 2026-10-25 15:10:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6579**  ($373,232,339 en total)
+- Apuestas registradas: **6580**  ($373,270,012 en total)
 - Resueltas: **6465** — 3942 ganadas / 2523 perdidas (**61%** de acierto)
-- Pendientes: 92
+- Pendientes: 93
 - Apostadores distintos: 640
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 102 | 54 | 4 | 65% | $6,941,599 | +$97,285 |
-| Lakersfan111 | 83 | 47 | 7 | 64% | $6,572,613 | +$245,409 |
+| Lakersfan111 | 83 | 47 | 8 | 64% | $6,610,287 | +$245,409 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | googleplay | 17 | 21 | 0 | 45% | $6,000,572 | -$366,994 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.41 (71¢) | $37,673 | — | ⏳ Pendiente |
 | zb8 | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.43 (70¢) | $28,262 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Lions | Lions | 1.54 (65¢) | $32,098 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Lions | Lions | 1.54 (65¢) | $186,550 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | fhiwbijd | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.32 (76¢) | $37,978 | -$37,978 | ❌ Perdida |
 | goweibo123 | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.33 (75¢) | $25,654 | -$25,654 | ❌ Perdida |
 | YYYYY999 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $42,706 | — | ⏳ Pendiente |
-| mooseborzoii | Browns vs. Titans | Titans | 2.22 (45¢) | $89,633 | — | ⏳ Pendiente |
