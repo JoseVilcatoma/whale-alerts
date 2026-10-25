@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:10:52 (hora de Perú)
+Actualizado: 2026-10-25 11:12:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6492**  ($367,011,998 en total)
-- Resueltas: **6411** — 3914 ganadas / 2497 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Resueltas: **6413** — 3916 ganadas / 2497 perdidas (**61%** de acierto)
+- Pendientes: 57
 - Apostadores distintos: 636
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,146,786** sobre $361,753,590 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,653** sobre $632,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,097,920** sobre $362,247,678 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,633** sobre $632,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 462 | 253 | 7 | 65% | $47,041,017 | +$1,098,785 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 6 | 65% | $47,041,017 | +$1,143,151 |
 | Sassy-Bucket | 88 | 94 | 4 | 48% | $11,959,739 | -$1,662,107 |
 | mooseborzoii | 93 | 50 | 4 | 65% | $8,273,570 | +$1,154,984 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -87,8 +87,8 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 | Takon88 | Will FC Bayern München win on 2026-10-25? | Yes | 1.54 (65¢) | $95,869 | — | ⏳ Pendiente |
 | mooseborzoii | Will Leeds United FC win on 2026-10-25? | Yes | 2.94 (34¢) | $26,494 | — | ⏳ Pendiente |
 | tikstt2 | Will Leeds United FC win on 2026-10-25? | No | 1.52 (66¢) | $33,474 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $448,587 | — | ⏳ Pendiente |
-| Nooserac | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $45,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $448,587 | +$44,366 | ✅ Ganada |
+| Nooserac | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $45,500 | +$4,500 | ✅ Ganada |
 | Sassy-Bucket | Steelers vs. Saints | Steelers | 1.56 (64¢) | $193,906 | — | ⏳ Pendiente |
 | Sassy-Bucket | Steelers vs. Saints | Steelers | 1.59 (63¢) | $106,630 | — | ⏳ Pendiente |
 | veliMax | Will Liverpool FC win on 2026-10-25? | Yes | 1.14 (88¢) | $55,726 | — | ⏳ Pendiente |
