@@ -97276,5 +97276,20 @@
     "status": "pending",
     "ultimo_fill": 1792940770,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13151,
+    "timestamp": 1792941326,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-pit-no-2026-10-25",
+    "title": "Steelers vs. Saints",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 106630.3791,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1792941326,
+    "fills": 1
   }
 ]
