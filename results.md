@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 19:12:39 (hora de Perú)
+Actualizado: 2026-10-24 19:14:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6373**  ($359,796,159 en total)
+- Apuestas registradas: **6373**  ($359,831,009 en total)
 - Resueltas: **6277** — 3828 ganadas / 2449 perdidas (**61%** de acierto)
 - Pendientes: 74
 - Apostadores distintos: 632
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| meoooow | LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage | Bilibili Gaming | 1.32 (76¢) | $39,207 | — | ⏳ Pendiente |
+| meoooow | LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage | Bilibili Gaming | 1.32 (76¢) | $74,057 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Bucks vs. 76ers | 76ers | 1.12 (89¢) | $30,718 | — | ⏳ Pendiente |
 | winner877 | Spurs vs. Mavericks | Spurs | 1.15 (87¢) | $141,539 | — | ⏳ Pendiente |
 | KaneAnalytics | San Diego State vs. Colorado State | Colorado State | 1.59 (63¢) | $57,155 | — | ⏳ Pendiente |
