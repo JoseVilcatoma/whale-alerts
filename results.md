@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:50:32 (hora de Perú)
+Actualizado: 2026-10-25 11:52:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6510**  ($368,350,868 en total)
-- Resueltas: **6421** — 3918 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Resueltas: **6422** — 3919 ganadas / 2503 perdidas (**61%** de acierto)
+- Pendientes: 66
 - Apostadores distintos: 637
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,172,425** sobre $362,538,421 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$7,009** sobre $633,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,164,826** sobre $362,594,146 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,995** sobre $633,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 | Nooserac | Will Manchester United FC vs. AFC Bournemouth end in a draw? | No | 1.10 (91¢) | $45,500 | +$4,500 | ✅ Ganada |
 | Sassy-Bucket | Steelers vs. Saints | Steelers | 1.56 (64¢) | $193,906 | — | ⏳ Pendiente |
 | Sassy-Bucket | Steelers vs. Saints | Steelers | 1.59 (63¢) | $106,630 | — | ⏳ Pendiente |
-| veliMax | Will Liverpool FC win on 2026-10-25? | Yes | 1.14 (88¢) | $55,726 | — | ⏳ Pendiente |
+| veliMax | Will Liverpool FC win on 2026-10-25? | Yes | 1.14 (88¢) | $55,726 | +$7,599 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.16 (86¢) | $37,196 | — | ⏳ Pendiente |
 | justwins | Spread: Texans (-10.5) | Giants | 1.96 (51¢) | $25,896 | — | ⏳ Pendiente |
 | migrodrigues | Spread: FC Barcelona (-3.5) | FC Barcelona | 7.69 (13¢) | $66,000 | — | ⏳ Pendiente |
