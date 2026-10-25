@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 08:51:17 (hora de Perú)
+Actualizado: 2026-10-25 08:53:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6459**  ($363,860,366 en total)
-- Resueltas: **6401** — 3908 ganadas / 2493 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **6403** — 3908 ganadas / 2495 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 635
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,174,118** sobre $361,314,164 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,631** sobre $631,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,252,818** sobre $361,392,864 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,831** sobre $631,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,9 +90,9 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | Yellow-Fever | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $30,493 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $50,121 | — | ⏳ Pendiente |
-| Matheobong | FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
+| Matheobong | FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $35,700 | -$35,700 | ❌ Perdida |
 | migrodrigues | Will FC Barcelona win on 2026-10-25? | No | 2.50 (40¢) | $58,178 | — | ⏳ Pendiente |
-| Jokerxing7 | FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5 | Over 3.5 | 2.00 (50¢) | $43,000 | — | ⏳ Pendiente |
+| Jokerxing7 | FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5 | Over 3.5 | 2.00 (50¢) | $43,000 | -$43,000 | ❌ Perdida |
 | Jokerxing7 | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 2.00 (50¢) | $41,025 | -$41,025 | ❌ Perdida |
 | NeverLoseBet | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $25,322 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will FC Barcelona win on 2026-10-25? | Yes | 1.67 (60¢) | $83,856 | — | ⏳ Pendiente |
