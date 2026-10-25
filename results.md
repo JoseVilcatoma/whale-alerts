@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 07:39:39 (hora de Perú)
+Actualizado: 2026-10-25 07:41:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6448**  ($363,372,959 en total)
+- Apuestas registradas: **6449**  ($363,425,458 en total)
 - Resueltas: **6398** — 3907 ganadas / 2491 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 635
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 4217893367451 | Counter-Strike: MOUZ vs 9z (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.33 (75¢) | $52,499 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $54,236 | — | ⏳ Pendiente |
 | juice-fruit | Will Celtic FC win on 2026-10-25? | Yes | 1.69 (59¢) | $26,565 | — | ⏳ Pendiente |
 | SDTrading | Spread: Steelers (-2.5) | Steelers | 1.82 (55¢) | $38,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | Woaifacai | Tampa Bay Rays vs. Milwaukee Brewers | Tampa Bay Rays | 1.61 (62¢) | $37,135 | -$37,135 | ❌ Perdida |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
 | sulumos | Warriors vs. Suns | Suns | 1.30 (77¢) | $30,810 | +$9,203 | ✅ Ganada |
-| Woaifacai | Bucks vs. 76ers | 76ers | 1.18 (85¢) | $77,432 | +$13,664 | ✅ Ganada |

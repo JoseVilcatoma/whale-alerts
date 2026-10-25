@@ -96916,5 +96916,20 @@
     "status": "pending",
     "ultimo_fill": 1792931378,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13118,
+    "timestamp": 1792932033,
+    "username": "4217893367451",
+    "wallet": "0xb2088bb79ba9b217a1d261ab95c8e1c6e25ec095",
+    "slug": "cs2-mouz-9z-2026-10-25",
+    "title": "Counter-Strike: MOUZ vs 9z (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 52499.25,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1792932033,
+    "fills": 1
   }
 ]
