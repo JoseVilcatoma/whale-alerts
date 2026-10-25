@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 09:01:40 (hora de Perú)
+Actualizado: 2026-10-25 09:04:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6460**  ($363,890,672 en total)
+- Apuestas registradas: **6462**  ($364,033,994 en total)
 - Resueltas: **6404** — 3909 ganadas / 2495 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 36
 - Apostadores distintos: 635
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 47 | 51 | 2 | 48% | $4,400,789 | -$123,120 |
 | maz26 | 33 | 23 | 1 | 59% | $3,872,896 | +$380,239 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Kch-Temp | 42 | 11 | 2 | 79% | $3,545,804 | +$1,904,316 |
+| Kch-Temp | 42 | 11 | 3 | 79% | $3,613,685 | +$1,904,316 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | raybanman | 17 | 13 | 0 | 57% | $3,063,662 | +$459,157 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Broncos vs. Cardinals: O/U 42.5 | Over 42.5 | 1.85 (54¢) | $67,881 | — | ⏳ Pendiente |
+| Takon88 | Will Real Betis Balompié win on 2026-10-25? | No | 1.67 (60¢) | $75,442 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Genoa CFC vs. Venezia FC: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $30,306 | — | ⏳ Pendiente |
 | googleplay | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $41,300 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $36,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $35,327 | +$4,817 | ✅ Ganada |
 | tin54321 | Pelicans vs. Nuggets | Pelicans | 1.20 (83¢) | $90,109 | -$90,109 | ❌ Perdida |
 | tin54321 | Pelicans vs. Nuggets: O/U 247.5 | Under 247.5 | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
-| ethanaz | Ole Miss vs. Texas | Ole Miss | 2.27 (44¢) | $47,491 | -$47,491 | ❌ Perdida |
-| ferrariChampions2026 | Ole Miss vs. Texas | Ole Miss | 2.50 (40¢) | $39,256 | -$39,256 | ❌ Perdida |
