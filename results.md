@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 01:14:26 (hora de Perú)
+Actualizado: 2026-10-25 01:16:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6419**  ($362,194,039 en total)
-- Resueltas: **6385** — 3897 ganadas / 2488 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **6386** — 3898 ganadas / 2488 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 633
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,210,636** sobre $360,680,748 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,698** sobre $629,700 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,172,212** sobre $360,719,172 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,598** sobre $629,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 460 | 253 | 4 | 65% | $46,427,165 | +$1,041,669 |
 | Sassy-Bucket | 88 | 94 | 2 | 48% | $11,659,202 | -$1,662,107 |
-| mooseborzoii | 92 | 50 | 2 | 65% | $8,166,026 | +$1,116,560 |
+| mooseborzoii | 93 | 50 | 1 | 65% | $8,166,026 | +$1,154,984 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 1 | 62% | $7,865,280 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | Zywoo123 | Warriors vs. Suns | Suns | 1.28 (78¢) | $29,615 | +$8,353 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Utah (-6.5) | Houston | 2.04 (49¢) | $49,247 | -$49,247 | ❌ Perdida |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Pelicans vs. Nuggets | Pelicans | 1.52 (66¢) | $27,186 | -$27,186 | ❌ Perdida |
-| mooseborzoii | Houston vs. Utah: O/U 57.5 | Under 57.5 | 2.00 (50¢) | $38,424 | — | ⏳ Pendiente |
+| mooseborzoii | Houston vs. Utah: O/U 57.5 | Under 57.5 | 2.00 (50¢) | $38,424 | +$38,424 | ✅ Ganada |
 | Nooserac | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $41,035 | +$10,259 | ✅ Ganada |
 | TAIWANNUMBERONE | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $38,174 | +$9,544 | ✅ Ganada |
 | Woaifacai | Tampa Bay Rays vs. Milwaukee Brewers | Tampa Bay Rays | 1.61 (62¢) | $37,135 | -$37,135 | ❌ Perdida |
