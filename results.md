@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 18:42:54 (hora de Perú)
+Actualizado: 2026-10-25 18:45:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6652**  ($378,100,444 en total)
-- Resueltas: **6538** — 3984 ganadas / 2554 perdidas (**61%** de acierto)
-- Pendientes: 92
+- Resueltas: **6543** — 3989 ganadas / 2554 perdidas (**61%** de acierto)
+- Pendientes: 87
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,325,428** sobre $371,411,910 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,695** sobre $644,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,170,764** sobre $371,814,648 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,516** sobre $645,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -48,8 +48,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| cosmicxbt | 20 | 8 | 1 | 71% | $3,153,830 | -$394,523 |
-| milkteaboba | 13 | 12 | 2 | 52% | $2,996,859 | -$1,041,660 |
+| cosmicxbt | 21 | 8 | 0 | 72% | $3,153,830 | -$326,238 |
+| milkteaboba | 14 | 12 | 1 | 54% | $2,996,859 | -$996,122 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | ndb1 | 28 | 15 | 1 | 65% | $2,603,192 | +$412,352 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| TAIWANNUMBERONE | 36 | 17 | 2 | 68% | $2,086,612 | -$145,496 |
+| TAIWANNUMBERONE | 37 | 17 | 1 | 69% | $2,086,612 | -$142,335 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | Jokerxing7 | 13 | 19 | 2 | 41% | $1,921,271 | -$291,322 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Zzzz87 | Raptors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $33,000 | — | ⏳ Pendiente |
 | Zzzz87 | Spread: Timberwolves (-3.5) | Timberwolves | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Siddhartha1 | Pacers vs. Nets | Pacers | 1.54 (65¢) | $32,641 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Broncos vs. Cardinals | Broncos | 1.12 (89¢) | $25,575 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Broncos vs. Cardinals | Broncos | 1.12 (89¢) | $25,575 | +$3,161 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $33,223 | — | ⏳ Pendiente |
 | Woaifacai | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $52,986 | — | ⏳ Pendiente |
 | Baronen11 | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $40,450 | — | ⏳ Pendiente |
@@ -130,4 +130,4 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | thewatcherofall | Packers vs. Lions | Lions | 1.47 (68¢) | $49,442 | -$15,996 | 💰 Vendida antes |
 | TAIWANNUMBERONE | Rams vs. Raiders | Rams | 1.35 (74¢) | $29,833 | — | ⏳ Pendiente |
 | EdZachary | Pacers vs. Nets | Nets | 3.03 (33¢) | $25,390 | — | ⏳ Pendiente |
-| milkteaboba | Broncos vs. Cardinals | Broncos | 1.35 (74¢) | $129,608 | — | ⏳ Pendiente |
+| milkteaboba | Broncos vs. Cardinals | Broncos | 1.35 (74¢) | $129,608 | +$45,538 | ✅ Ganada |
