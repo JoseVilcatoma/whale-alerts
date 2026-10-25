@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 21:51:07 (hora de Perú)
+Actualizado: 2026-10-24 21:53:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6402**  ($361,249,400 en total)
+- Apuestas registradas: **6403**  ($361,279,400 en total)
 - Resueltas: **6333** — 3863 ganadas / 2470 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 632
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tin54321 | Pelicans vs. Nuggets: O/U 247.5 | Under 247.5 | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
 | ethanaz | Ole Miss vs. Texas | Ole Miss | 2.27 (44¢) | $47,491 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Ole Miss vs. Texas | Ole Miss | 2.50 (40¢) | $39,256 | — | ⏳ Pendiente |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.67 (60¢) | $58,856 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | robustmst | Heat vs. Hornets | Hornets | 1.89 (53¢) | $48,854 | +$32,262 | 💰 Vendida antes |
 | googleplay | Wizards vs. Bulls | Bulls | 1.89 (53¢) | $442,373 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Oklahoma State (-13.5) | Colorado | 1.96 (51¢) | $44,319 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.33 (43¢) | $68,536 | +$90,850 | ✅ Ganada |
