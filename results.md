@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 14:21:59 (hora de Perú)
+Actualizado: 2026-10-25 14:24:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6558**  ($371,751,572 en total)
+- Apuestas registradas: **6559**  ($371,776,609 en total)
 - Resueltas: **6448** — 3934 ganadas / 2514 perdidas (**61%** de acierto)
-- Pendientes: 88
+- Pendientes: 89
 - Apostadores distintos: 640
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 102 | 53 | 4 | 66% | $6,898,802 | +$124,380 |
-| Lakersfan111 | 83 | 47 | 6 | 64% | $6,547,576 | +$245,409 |
+| Lakersfan111 | 83 | 47 | 7 | 64% | $6,572,613 | +$245,409 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | googleplay | 17 | 21 | 0 | 45% | $6,000,572 | -$366,994 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Spread: Knicks (-7.5) | Magic | 1.96 (51¢) | $25,037 | — | ⏳ Pendiente |
 | BrotherObama | Raptors vs. Timberwolves | Timberwolves | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Spread: Grizzlies (-3.5) | Grizzlies | 2.04 (49¢) | $30,153 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | raybanman | Browns vs. Titans | Titans | 2.17 (46¢) | $349,600 | — | ⏳ Pendiente |
 | salgnklasf | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.37 (73¢) | $33,000 | -$33,000 | ❌ Perdida |
 | COMEONDUDE | Spread: Bengals (-3.5) | Ravens | 1.82 (55¢) | $49,500 | — | ⏳ Pendiente |
-| bbb17367162806 | Magic vs. Knicks | Knicks | 1.39 (72¢) | $31,523 | — | ⏳ Pendiente |
