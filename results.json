@@ -98581,5 +98581,20 @@
     "status": "pending",
     "ultimo_fill": 1792956146,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13281,
+    "timestamp": 1792956705,
+    "username": "Eugycom",
+    "wallet": "0x64ceab3becc143e1b97a8e16dc270c2297566015",
+    "slug": "nba-lal-uta-2026-10-25",
+    "title": "Lakers vs. Jazz",
+    "outcome": "Lakers",
+    "side": "BUY",
+    "usd": 40309.516,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1792956705,
+    "fills": 1
   }
 ]

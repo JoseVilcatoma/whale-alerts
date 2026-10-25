@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 14:30:27 (hora de Perú)
+Actualizado: 2026-10-25 14:32:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6559**  ($371,776,609 en total)
+- Apuestas registradas: **6560**  ($371,816,919 en total)
 - Resueltas: **6448** — 3934 ganadas / 2514 perdidas (**61%** de acierto)
-- Pendientes: 89
+- Pendientes: 90
 - Apostadores distintos: 640
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Eugycom | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $40,310 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Spread: Knicks (-7.5) | Magic | 1.96 (51¢) | $25,037 | — | ⏳ Pendiente |
 | BrotherObama | Raptors vs. Timberwolves | Timberwolves | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Spread: Grizzlies (-3.5) | Grizzlies | 2.04 (49¢) | $30,153 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | DonLino1 | Browns vs. Titans | Titans | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | raybanman | Browns vs. Titans | Titans | 2.17 (46¢) | $349,600 | — | ⏳ Pendiente |
 | salgnklasf | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.37 (73¢) | $33,000 | -$33,000 | ❌ Perdida |
-| COMEONDUDE | Spread: Bengals (-3.5) | Ravens | 1.82 (55¢) | $49,500 | — | ⏳ Pendiente |
