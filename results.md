@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 22:13:30 (hora de Perú)
+Actualizado: 2026-10-24 22:15:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6406**  ($361,442,836 en total)
-- Resueltas: **6343** — 3868 ganadas / 2475 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Resueltas: **6344** — 3869 ganadas / 2475 perdidas (**61%** de acierto)
+- Pendientes: 40
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,380,420** sobre $358,192,733 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,979** sobre $625,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,362,129** sobre $358,229,868 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,929** sobre $625,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.04 (49¢) | $59,901 | — | ⏳ Pendiente |
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.08 (48¢) | $33,181 | — | ⏳ Pendiente |
 | 3648393489047 | Ole Miss vs. Texas | Texas | 1.41 (71¢) | $26,210 | — | ⏳ Pendiente |
-| KaneAnalytics | Utah State vs. Texas State | Texas State | 1.49 (67¢) | $37,135 | — | ⏳ Pendiente |
+| KaneAnalytics | Utah State vs. Texas State | Texas State | 1.49 (67¢) | $37,135 | +$18,291 | ✅ Ganada |
 | ferrariChampions2026 | Heat vs. Hornets | Hornets | 1.06 (94¢) | $25,403 | +$1,621 | ✅ Ganada |
 | yabanci | Rockets vs. Hawks: O/U 227.5 | Under 227.5 | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will CF Monterrey win on 2026-10-24? | No | 1.67 (60¢) | $26,224 | — | ⏳ Pendiente |
