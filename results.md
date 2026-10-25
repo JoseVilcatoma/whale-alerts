@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 12:11:32 (hora de Perú)
+Actualizado: 2026-10-25 12:13:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6522**  ($369,231,892 en total)
+- Apuestas registradas: **6526**  ($369,718,693 en total)
 - Resueltas: **6428** — 3925 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 72
-- Apostadores distintos: 637
+- Pendientes: 76
+- Apostadores distintos: 638
 
 ### Balance
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 102 | 53 | 1 | 66% | $6,811,361 | +$124,380 |
+| ferrariChampions2026 | 102 | 53 | 2 | 66% | $6,838,456 | +$124,380 |
 | Lakersfan111 | 83 | 47 | 3 | 64% | $6,420,739 | +$245,409 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | googleplay | 16 | 19 | 3 | 46% | $6,000,572 | -$427,044 |
@@ -50,10 +50,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mooseborzoiii | 13 | 17 | 2 | 43% | $3,163,081 | +$25,890 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
+| milkteaboba | 13 | 11 | 1 | 54% | $2,684,351 | -$694,704 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | S-Works | 16 | 7 | 1 | 70% | $2,455,714 | -$255,521 |
-| milkteaboba | 13 | 11 | 0 | 54% | $2,337,396 | -$694,704 |
 | ndb1 | 28 | 15 | 0 | 65% | $2,337,048 | +$412,352 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -65,12 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 
-_(mostrando los 40 de mayor monto, de 637 en total)_
+_(mostrando los 40 de mayor monto, de 638 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Colts vs. Vikings | Colts | 2.33 (43¢) | $27,096 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.75 (57¢) | $74,772 | — | ⏳ Pendiente |
+| milkteaboba | Giants vs. Texans | Texans | 1.23 (81¢) | $346,955 | — | ⏳ Pendiente |
+| fhiwbijd | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.32 (76¢) | $37,978 | — | ⏳ Pendiente |
 | goweibo123 | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.33 (75¢) | $25,654 | — | ⏳ Pendiente |
 | YYYYY999 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $42,706 | — | ⏳ Pendiente |
 | mooseborzoii | Browns vs. Titans | Titans | 2.22 (45¢) | $89,633 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 | migrodrigues | Spread: FC Barcelona (-3.5) | FC Barcelona | 7.69 (13¢) | $66,000 | — | ⏳ Pendiente |
 | juice-fruit | Steelers vs. Saints | Steelers | 1.59 (63¢) | $74,496 | +$43,752 | ✅ Ganada |
 | Pwaddler | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $32,922 | — | ⏳ Pendiente |
-| halanddd123 | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.35 (74¢) | $40,382 | — | ⏳ Pendiente |
-| KaneAnalytics | Steelers vs. Saints | Steelers | 1.67 (60¢) | $31,479 | +$20,986 | ✅ Ganada |
-| Woaifacai | Will Hull City AFC win on 2026-10-25? | No | 1.67 (60¢) | $50,232 | +$33,488 | ✅ Ganada |
-| Woaifacai | Hull City AFC vs. Brentford FC: O/U 2.5 | Under 2.5 | 1.79 (56¢) | $53,390 | +$41,950 | ✅ Ganada |
