@@ -98596,5 +98596,20 @@
     "status": "pending",
     "ultimo_fill": 1792956705,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13282,
+    "timestamp": 1792956881,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "nfl-gb-det-2026-10-25",
+    "title": "Packers vs. Lions",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 46428.577000000005,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1792956881,
+    "fills": 1
   }
 ]
