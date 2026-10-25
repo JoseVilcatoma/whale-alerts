@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:15:02 (hora de Perú)
+Actualizado: 2026-10-25 11:17:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6494**  ($367,100,144 en total)
+- Apuestas registradas: **6495**  ($367,132,668 en total)
 - Resueltas: **6419** — 3917 ganadas / 2502 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 636
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Broncos vs. Cardinals | Broncos | 1.49 (67¢) | $32,524 | — | ⏳ Pendiente |
 | gmpm2 | Colts vs. Vikings | Vikings | 1.35 (74¢) | $57,555 | — | ⏳ Pendiente |
 | nigiri99 | Will Sunderland AFC win on 2026-10-25? | No | 1.52 (66¢) | $30,590 | — | ⏳ Pendiente |
 | googleplay | Will Leeds United FC win on 2026-10-25? | No | 1.52 (66¢) | $678,097 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 | Jokerxing7 | FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5 | Over 3.5 | 2.00 (50¢) | $43,000 | -$43,000 | ❌ Perdida |
 | Jokerxing7 | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 2.00 (50¢) | $41,025 | -$41,025 | ❌ Perdida |
 | NeverLoseBet | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $25,322 | — | ⏳ Pendiente |
-| 1l2ihj34li12u34 | Will FC Barcelona win on 2026-10-25? | Yes | 1.67 (60¢) | $83,856 | — | ⏳ Pendiente |

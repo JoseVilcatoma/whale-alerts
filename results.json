@@ -97606,5 +97606,20 @@
     "status": "pending",
     "ultimo_fill": 1792944876,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13186,
+    "timestamp": 1792944973,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "nfl-den-ari-2026-10-25",
+    "title": "Broncos vs. Cardinals",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 32524.2589,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1792944973,
+    "fills": 1
   }
 ]
