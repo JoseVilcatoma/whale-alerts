@@ -99770,5 +99770,35 @@
     "status": "pending",
     "ultimo_fill": 1792968342,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13442,
+    "timestamp": 1792968513,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nhl-mon-wpg-2026-10-25",
+    "title": "Canadiens vs. Jets",
+    "outcome": "Canadiens",
+    "side": "BUY",
+    "usd": 37297.208,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1792968513,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13443,
+    "timestamp": 1792968514,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nba-det-phi-2026-10-25",
+    "title": "Pistons vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 155100.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1792968514,
+    "fills": 1
   }
 ]
