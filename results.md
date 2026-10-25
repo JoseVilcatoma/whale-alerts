@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 20:45:03 (hora de Perú)
+Actualizado: 2026-10-24 20:47:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6391**  ($360,816,878 en total)
-- Resueltas: **6305** — 3844 ganadas / 2461 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Resueltas: **6306** — 3844 ganadas / 2462 perdidas (**61%** de acierto)
+- Pendientes: 63
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,789,458** sobre $355,431,618 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,471** sobre $621,700 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,823,457** sobre $355,465,617 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,571** sobre $621,800 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -128,6 +128,6 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | Mooseborzoiii | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Hanwha Life Esports | 2.38 (42¢) | $186,219 | -$186,219 | ❌ Perdida |
 | YYYYY999 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.72 (58¢) | $27,443 | +$19,872 | ✅ Ganada |
 | Zzzz87 | Predators vs. Penguins | Penguins | 1.85 (54¢) | $107,037 | — | ⏳ Pendiente |
-| Nooserac | Spread: Boise State (-14.5) | Washington State | 1.96 (51¢) | $34,000 | — | ⏳ Pendiente |
+| Nooserac | Spread: Boise State (-14.5) | Washington State | 1.96 (51¢) | $34,000 | -$34,000 | ❌ Perdida |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.72 (58¢) | $25,909 | +$18,762 | ✅ Ganada |
 | YYYYY999 | Pelicans vs. Nuggets | Nuggets | 1.25 (80¢) | $32,000 | — | ⏳ Pendiente |
