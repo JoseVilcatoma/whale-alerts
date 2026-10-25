@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:28:38 (hora de Perú)
+Actualizado: 2026-10-25 15:30:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6590**  ($374,037,799 en total)
+- Apuestas registradas: **6591**  ($374,073,510 en total)
 - Resueltas: **6482** — 3952 ganadas / 2530 perdidas (**61%** de acierto)
-- Pendientes: 86
+- Pendientes: 87
 - Apostadores distintos: 641
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mentionmarket | Rams vs. Raiders | Rams | 1.49 (67¢) | $35,711 | — | ⏳ Pendiente |
 | cosmicxbt | Broncos vs. Cardinals | Broncos | 1.43 (70¢) | $159,332 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Lions | Lions | 1.52 (66¢) | $116,305 | — | ⏳ Pendiente |
 | takeormake | Spread: Lions (-3.5) | Packers | 2.13 (47¢) | $66,589 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Titans | Browns | 2.70 (37¢) | $37,000 | +$63,000 | ✅ Ganada |
 | ferrariChampions2026 | Dolphins vs. Jets | Dolphins | 2.08 (48¢) | $25,849 | +$28,003 | ✅ Ganada |
 | juice-fruit | Dolphins vs. Jets | Jets | 1.96 (51¢) | $38,141 | -$38,141 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-10-25? | Yes | 4.17 (24¢) | $32,314 | — | ⏳ Pendiente |
