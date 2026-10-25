@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:39:04 (hora de Perú)
+Actualizado: 2026-10-25 15:41:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6591**  ($374,073,510 en total)
+- Apuestas registradas: **6592**  ($374,123,510 en total)
 - Resueltas: **6495** — 3960 ganadas / 2535 perdidas (**61%** de acierto)
-- Pendientes: 74
+- Pendientes: 75
 - Apostadores distintos: 641
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bluemol | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $50,000 | — | ⏳ Pendiente |
 | mentionmarket | Rams vs. Raiders | Rams | 1.49 (67¢) | $35,711 | — | ⏳ Pendiente |
 | cosmicxbt | Broncos vs. Cardinals | Broncos | 1.43 (70¢) | $159,332 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Lions | Lions | 1.52 (66¢) | $116,305 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 | chongchong37 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Titans | Browns | 2.70 (37¢) | $37,000 | +$63,000 | ✅ Ganada |
 | ferrariChampions2026 | Dolphins vs. Jets | Dolphins | 2.08 (48¢) | $25,849 | +$28,003 | ✅ Ganada |
-| juice-fruit | Dolphins vs. Jets | Jets | 1.96 (51¢) | $38,141 | -$38,141 | ❌ Perdida |
