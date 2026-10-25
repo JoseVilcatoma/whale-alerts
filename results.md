@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 08:53:24 (hora de Perú)
+Actualizado: 2026-10-25 08:55:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6459**  ($363,860,366 en total)
-- Resueltas: **6403** — 3908 ganadas / 2495 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **6404** — 3909 ganadas / 2495 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 635
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,252,818** sobre $361,392,864 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,831** sobre $631,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,248,492** sobre $361,427,864 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,819** sobre $631,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | juice-fruit | Will Celtic FC win on 2026-10-25? | Yes | 1.69 (59¢) | $26,565 | — | ⏳ Pendiente |
 | SDTrading | Spread: Steelers (-2.5) | Steelers | 1.82 (55¢) | $38,500 | — | ⏳ Pendiente |
 | 0xf3ce…a57a | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | Team Liquid | 1.47 (68¢) | $27,644 | -$27,644 | ❌ Perdida |
-| zhqzhq | Will ACF Fiorentina win on 2026-10-25? | No | 1.12 (89¢) | $35,000 | — | ⏳ Pendiente |
+| zhqzhq | Will ACF Fiorentina win on 2026-10-25? | No | 1.12 (89¢) | $35,000 | +$4,326 | ✅ Ganada |
 | Yellow-Fever | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $30,493 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $50,121 | — | ⏳ Pendiente |
