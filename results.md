@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:42:07 (hora de Perú)
+Actualizado: 2026-10-25 11:44:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6503**  ($367,809,923 en total)
+- Apuestas registradas: **6505**  ($367,873,840 en total)
 - Resueltas: **6421** — 3918 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Pendientes: 62
 - Apostadores distintos: 637
 
 ### Balance
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 35 | 17 | 0 | 67% | $1,983,875 | -$153,848 |
-| SDTrading | 32 | 32 | 1 | 50% | $1,948,351 | -$130,533 |
+| SDTrading | 32 | 32 | 2 | 50% | $1,980,751 | -$130,533 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 2.63 (38¢) | $31,516 | — | ⏳ Pendiente |
+| SDTrading | Spread: Panthers (-2.5) | Panthers | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | DonLino1 | Browns vs. Titans | Titans | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | raybanman | Browns vs. Titans | Titans | 2.17 (46¢) | $349,600 | — | ⏳ Pendiente |
 | salgnklasf | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.37 (73¢) | $33,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 | gmpm2 | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $54,236 | — | ⏳ Pendiente |
 | juice-fruit | Will Celtic FC win on 2026-10-25? | Yes | 1.69 (59¢) | $26,565 | +$18,460 | ✅ Ganada |
 | SDTrading | Spread: Steelers (-2.5) | Steelers | 1.82 (55¢) | $38,500 | — | ⏳ Pendiente |
-| 0xf3ce…a57a | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | Team Liquid | 1.47 (68¢) | $27,644 | -$27,644 | ❌ Perdida |
-| zhqzhq | Will ACF Fiorentina win on 2026-10-25? | No | 1.12 (89¢) | $35,000 | +$4,326 | ✅ Ganada |

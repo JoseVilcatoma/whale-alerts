@@ -97741,5 +97741,35 @@
     "status": "pending",
     "ultimo_fill": 1792946468,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13197,
+    "timestamp": 1792946558,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "nfl-tb-car-2026-10-25-spread-home-2pt5",
+    "title": "Spread: Panthers (-2.5)",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 32400.000000000004,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1792946558,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13198,
+    "timestamp": 1792946617,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "cs2-furia-navi-2026-10-25",
+    "title": "Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 31516.424800000004,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1792946617,
+    "fills": 1
   }
 ]
