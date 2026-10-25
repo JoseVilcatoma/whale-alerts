@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 13:40:12 (hora de Perú)
+Actualizado: 2026-10-25 13:42:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6544**  ($370,644,255 en total)
+- Apuestas registradas: **6547**  ($370,915,502 en total)
 - Resueltas: **6434** — 3928 ganadas / 2506 perdidas (**61%** de acierto)
-- Pendientes: 88
+- Pendientes: 91
 - Apostadores distintos: 639
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 10 | 65% | $47,213,119 | +$1,143,151 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 11 | 65% | $47,269,727 | +$1,143,151 |
 | Sassy-Bucket | 90 | 94 | 5 | 49% | $12,066,678 | -$1,490,411 |
 | mooseborzoii | 93 | 50 | 6 | 65% | $8,486,865 | +$1,154,984 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 26 | 0 | 70% | $5,197,196 | -$234,128 |
 | BrotherObama | 47 | 51 | 2 | 48% | $4,400,789 | -$123,120 |
 | maz26 | 33 | 23 | 3 | 59% | $3,989,653 | +$380,239 |
-| Kch-Temp | 43 | 11 | 4 | 80% | $3,715,261 | +$1,951,752 |
+| Kch-Temp | 43 | 11 | 5 | 80% | $3,864,821 | +$1,951,752 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | raybanman | 17 | 13 | 1 | 57% | $3,413,262 | +$459,157 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| halanddd123 | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | Top Esports | 1.25 (80¢) | $65,079 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Broncos (-4.5) | Cardinals | 2.00 (50¢) | $56,608 | — | ⏳ Pendiente |
+| Kch-Temp | Spread: Broncos (-4.5) | Cardinals | 2.00 (50¢) | $149,560 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.16 (86¢) | $58,494 | — | ⏳ Pendiente |
 | S-Works | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.15 (87¢) | $136,590 | — | ⏳ Pendiente |
 | KaneAnalytics | Giants vs. Texans | Texans | 1.59 (63¢) | $55,346 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 | googleplay | Will Sunderland AFC win on 2026-10-25? | Yes | 2.86 (35¢) | $44,469 | — | ⏳ Pendiente |
 | Donkey14 | Browns vs. Titans | Titans | 2.22 (45¢) | $100,000 | — | ⏳ Pendiente |
 | googleplay | Will Sunderland AFC win on 2026-10-25? | Yes | 2.86 (35¢) | $244,803 | — | ⏳ Pendiente |
-| YYYYY999 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $53,024 | — | ⏳ Pendiente |
-| Donkey14 | 49ers vs. Falcons | Falcons | 2.38 (42¢) | $50,000 | — | ⏳ Pendiente |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 49ers vs. Falcons | Falcons | 2.38 (42¢) | $64,165 | — | ⏳ Pendiente |
