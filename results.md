@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:59:28 (hora de Perú)
+Actualizado: 2026-10-25 16:01:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6600**  ($374,555,988 en total)
+- Apuestas registradas: **6602**  ($374,728,743 en total)
 - Resueltas: **6495** — 3960 ganadas / 2535 perdidas (**61%** de acierto)
-- Pendientes: 83
-- Apostadores distintos: 642
+- Pendientes: 85
+- Apostadores distintos: 643
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 466 | 254 | 11 | 65% | $47,738,194 | +$1,350,315 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 466 | 254 | 12 | 65% | $47,790,591 | +$1,350,315 |
 | Sassy-Bucket | 93 | 94 | 2 | 50% | $12,066,678 | -$1,393,191 |
 | mooseborzoii | 94 | 53 | 3 | 64% | $8,533,753 | +$937,260 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -65,13 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | juice-fruit | 22 | 9 | 1 | 71% | $1,911,186 | +$443,555 |
 
-_(mostrando los 40 de mayor monto, de 642 en total)_
+_(mostrando los 40 de mayor monto, de 643 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| halanddd123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $110,601 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.25 (80¢) | $52,396 | — | ⏳ Pendiente |
+| cs2.quant | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.23 (81¢) | $29,697 | — | ⏳ Pendiente |
+| halanddd123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $201,263 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $30,600 | — | ⏳ Pendiente |
 | 473game | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $26,336 | — | ⏳ Pendiente |
 | goweibo123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $30,666 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 642 en total)_
 | Kch-Temp | Spread: Broncos (-4.5) | Cardinals | 2.00 (50¢) | $149,560 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.16 (86¢) | $58,494 | — | ⏳ Pendiente |
 | S-Works | Spread: FC Barcelona (-3.5) | Real Madrid CF | 1.15 (87¢) | $136,590 | — | ⏳ Pendiente |
-| KaneAnalytics | Giants vs. Texans | Texans | 1.59 (63¢) | $55,346 | -$55,346 | ❌ Perdida |
-| cosmicxbt | Spread: Ravens (-6.5) | Bengals | 1.92 (52¢) | $48,307 | +$44,591 | ✅ Ganada |
