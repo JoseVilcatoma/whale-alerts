@@ -95956,5 +95956,20 @@
     "status": "pending",
     "ultimo_fill": 1792889056,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12943,
+    "timestamp": 1792889241,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "mls-rsl-stl-2026-10-24-rsl",
+    "title": "Will Real Salt Lake win on 2026-10-24?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 27559.585,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792889241,
+    "fills": 1
   }
 ]
