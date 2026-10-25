@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 06:06:09 (hora de Perú)
+Actualizado: 2026-10-25 06:08:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6442**  ($363,153,014 en total)
-- Resueltas: **6391** — 3903 ganadas / 2488 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **6392** — 3903 ganadas / 2489 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 634
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,113,171** sobre $360,954,129 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,447** sobre $630,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,159,365** sobre $361,000,323 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,547** sobre $630,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 634 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-25? | No | 2.44 (41¢) | $63,725 | — | ⏳ Pendiente |
 | Flaznorp | Will Real Madrid CF win on 2026-10-25? | No | 1.35 (74¢) | $46,212 | — | ⏳ Pendiente |
 | rabbitfoot1 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Under 4.5 | 1.79 (56¢) | $26,002 | — | ⏳ Pendiente |
-| kdvlklkvlsklkfs | Ningbo: Egor Pleshivtsev vs Dominik Palan | Dominik Palan | 1.67 (60¢) | $46,194 | — | ⏳ Pendiente |
+| kdvlklkvlsklkfs | Ningbo: Egor Pleshivtsev vs Dominik Palan | Dominik Palan | 1.67 (60¢) | $46,194 | -$46,194 | ❌ Perdida |
 | salgnklasf | Counter-Strike: Spirit vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.11 (90¢) | $54,261 | +$6,029 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | OG | 2.50 (40¢) | $29,427 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: FUT Esports vs Liquid (BO3) - PGL Masters Bucharest Group Stage | FUT Esports | 1.39 (72¢) | $25,467 | +$9,904 | ✅ Ganada |
