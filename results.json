@@ -95776,5 +95776,20 @@
     "status": "pending",
     "ultimo_fill": 1792886982,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12919,
+    "timestamp": 1792887127,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "lol-tl2-blg-2026-10-24",
+    "title": "LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 39206.576,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1792887127,
+    "fills": 1
   }
 ]
