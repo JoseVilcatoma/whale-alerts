@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 05:55:51 (hora de Perú)
+Actualizado: 2026-10-25 05:57:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6441**  ($363,122,521 en total)
+- Apuestas registradas: **6442**  ($363,153,014 en total)
 - Resueltas: **6391** — 3903 ganadas / 2488 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 634
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 88 | 94 | 2 | 48% | $11,659,202 | -$1,662,107 |
 | mooseborzoii | 93 | 50 | 1 | 65% | $8,166,026 | +$1,154,984 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
-| totoro3miyazaki | 38 | 23 | 2 | 62% | $7,915,401 | -$371,364 |
+| totoro3miyazaki | 38 | 23 | 3 | 62% | $7,945,894 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 634 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $30,493 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $50,121 | — | ⏳ Pendiente |
 | Matheobong | FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5 | Over 3.5 | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
 | migrodrigues | Will FC Barcelona win on 2026-10-25? | No | 2.50 (40¢) | $58,178 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 634 en total)_
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.00 (50¢) | $27,560 | +$27,560 | ✅ Ganada |
 | KaneAnalytics | Ole Miss vs. Texas | Texas | 1.19 (84¢) | $50,400 | +$9,600 | ✅ Ganada |
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.04 (49¢) | $59,901 | +$62,346 | ✅ Ganada |
-| theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.08 (48¢) | $33,181 | +$35,946 | ✅ Ganada |
