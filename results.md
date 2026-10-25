@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 00:45:37 (hora de Perú)
+Actualizado: 2026-10-25 00:47:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6417**  ($362,138,195 en total)
+- Apuestas registradas: **6418**  ($362,167,695 en total)
 - Resueltas: **6383** — 3896 ganadas / 2487 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 633
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hovistomaradona | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Houston vs. Utah | Utah | 1.25 (80¢) | $26,246 | — | ⏳ Pendiente |
 | veliMax | Pan Pacific Open, Qualification: Kimberly Birrell vs Daria Kasatkina | Daria Kasatkina | 1.15 (87¢) | $79,555 | — | ⏳ Pendiente |
 | NeverLoseBet | Will Real Madrid CF win on 2026-10-25? | No | 1.35 (74¢) | $31,011 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | Sassy-Bucket | Syracuse vs. North Carolina | North Carolina | 1.32 (76¢) | $267,695 | -$267,695 | ❌ Perdida |
 | mooseborzoii | Spread: 76ers (-12.5) | 76ers | 1.96 (51¢) | $29,682 | -$29,682 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-12.5) | Bucks | 2.04 (49¢) | $55,649 | +$57,921 | ✅ Ganada |
-| NS13 | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | T1 | 1.82 (55¢) | $25,258 | -$25,258 | ❌ Perdida |
