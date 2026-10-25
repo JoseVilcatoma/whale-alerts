@@ -96898,7 +96898,7 @@
     "side": "BUY",
     "usd": 26564.5022,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792929579,
     "fills": 1
   },
@@ -97500,6 +97500,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1792943959,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13166,
+    "timestamp": 1792944032,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "epl-sun-lee-2026-10-25-sun",
+    "title": "Will Sunderland AFC win on 2026-10-25?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 244803.25879999998,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1792944032,
     "fills": 1
   }
 ]
