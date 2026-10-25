@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 19:35:42 (hora de Perú)
+Actualizado: 2026-10-24 19:37:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6382**  ($360,133,566 en total)
+- Apuestas registradas: **6383**  ($360,168,381 en total)
 - Resueltas: **6286** — 3835 ganadas / 2451 perdidas (**61%** de acierto)
-- Pendientes: 74
+- Pendientes: 75
 - Apostadores distintos: 632
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.04 (49¢) | $34,815 | — | ⏳ Pendiente |
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.08 (48¢) | $33,181 | — | ⏳ Pendiente |
 | 3648393489047 | Ole Miss vs. Texas | Texas | 1.41 (71¢) | $26,210 | — | ⏳ Pendiente |
 | KaneAnalytics | Utah State vs. Texas State | Texas State | 1.49 (67¢) | $37,135 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | ropetard | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $49,830 | — | ⏳ Pendiente |
 | mooseborzoii | Texas A&M vs. Alabama | Texas A&M | 3.45 (29¢) | $88,010 | -$88,010 | ❌ Perdida |
 | juice-fruit | Will Inter Miami CF win on 2026-10-24? | Yes | 2.00 (50¢) | $28,510 | -$28,510 | ❌ Perdida |
-| Mooseborzoiii | LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage | Team Secret Whales | 2.33 (43¢) | $29,770 | -$29,770 | ❌ Perdida |
