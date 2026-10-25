@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 12:03:10 (hora de Perú)
+Actualizado: 2026-10-25 12:05:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6518**  ($369,079,331 en total)
+- Apuestas registradas: **6520**  ($369,163,532 en total)
 - Resueltas: **6428** — 3925 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 68
+- Pendientes: 70
 - Apostadores distintos: 637
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 26 | 0 | 70% | $5,197,196 | -$234,128 |
 | BrotherObama | 47 | 51 | 2 | 48% | $4,400,789 | -$123,120 |
-| maz26 | 33 | 23 | 2 | 59% | $3,930,451 | +$380,239 |
+| maz26 | 33 | 23 | 3 | 59% | $3,989,653 | +$380,239 |
 | Kch-Temp | 43 | 11 | 4 | 80% | $3,715,261 | +$1,951,752 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -72,7 +72,9 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | mooseborzoii | Browns vs. Titans | Titans | 2.22 (45¢) | $89,633 | — | ⏳ Pendiente |
+| gmpm2 | Colts vs. Vikings | Vikings | 1.33 (75¢) | $59,201 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Vikings (-6.5) | Colts | 2.13 (47¢) | $28,212 | — | ⏳ Pendiente |
+| sinasinner | Spread: Vikings (-6.5) | Vikings | 1.82 (55¢) | $25,000 | — | ⏳ Pendiente |
 | sinasinner | Spread: 49ers (-2.5) | Falcons | 1.96 (51¢) | $25,000 | — | ⏳ Pendiente |
 | chubbytoro | Buccaneers vs. Panthers | Panthers | 1.69 (59¢) | $47,200 | — | ⏳ Pendiente |
 | Mooseborzoiii | Browns vs. Titans | Browns | 1.82 (55¢) | $412,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 | Woaifacai | Hull City AFC vs. Brentford FC: O/U 2.5 | Under 2.5 | 1.79 (56¢) | $53,390 | +$41,950 | ✅ Ganada |
 | Kch-Temp | Broncos vs. Cardinals: O/U 42.5 | Over 42.5 | 1.85 (54¢) | $67,881 | — | ⏳ Pendiente |
 | Takon88 | Will Real Betis Balompié win on 2026-10-25? | No | 1.67 (60¢) | $75,442 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Genoa CFC vs. Venezia FC: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $30,306 | -$30,306 | ❌ Perdida |
-| googleplay | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $41,300 | -$41,300 | ❌ Perdida |
