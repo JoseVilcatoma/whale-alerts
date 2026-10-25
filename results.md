@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 20:57:45 (hora de Perú)
+Actualizado: 2026-10-24 20:59:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6391**  ($360,816,878 en total)
-- Resueltas: **6306** — 3844 ganadas / 2462 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Resueltas: **6307** — 3845 ganadas / 2462 perdidas (**61%** de acierto)
+- Pendientes: 62
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,823,457** sobre $355,465,617 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,571** sobre $621,800 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,800,071** sobre $355,539,674 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,539** sobre $621,900 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.37 (73¢) | $37,115 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Hornets | Heat | 2.94 (34¢) | $34,000 | -$34,000 | ❌ Perdida |
 | Woaifacai | Heat vs. Hornets | Hornets | 1.52 (66¢) | $33,000 | +$17,000 | ✅ Ganada |
-| meoooow | LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage | Bilibili Gaming | 1.32 (76¢) | $74,057 | — | ⏳ Pendiente |
+| meoooow | LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage | Bilibili Gaming | 1.32 (76¢) | $74,057 | +$23,386 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Bucks vs. 76ers | 76ers | 1.12 (89¢) | $30,718 | — | ⏳ Pendiente |
 | winner877 | Spurs vs. Mavericks | Spurs | 1.15 (87¢) | $141,539 | — | ⏳ Pendiente |
 | KaneAnalytics | San Diego State vs. Colorado State | Colorado State | 1.59 (63¢) | $57,155 | — | ⏳ Pendiente |
