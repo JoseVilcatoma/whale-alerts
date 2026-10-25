@@ -98471,10 +98471,25 @@
     "title": "LoL: Dplus KIA vs Movistar KOI - Game 1 Winner",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "usd": 38500.0,
-    "odds_at_bet": 77,
+    "usd": 212456.3699,
+    "odds_at_bet": 78,
     "status": "pending",
-    "ultimo_fill": 1792955475,
+    "ultimo_fill": 1792955565,
+    "fills": 4
+  },
+  {
+    "telegram_msg_id": 13274,
+    "timestamp": 1792955547,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "lol-dk-mkoi-2026-10-25-game1",
+    "title": "LoL: Dplus KIA vs Movistar KOI - Game 1 Winner",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 32187.852899999998,
+    "odds_at_bet": 21,
+    "status": "pending",
+    "ultimo_fill": 1792955547,
     "fills": 1
   }
 ]
