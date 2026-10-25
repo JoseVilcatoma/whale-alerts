@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:12:07 (hora de Perú)
+Actualizado: 2026-10-25 15:14:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6582**  ($373,351,611 en total)
+- Apuestas registradas: **6583**  ($373,376,674 en total)
 - Resueltas: **6465** — 3942 ganadas / 2523 perdidas (**61%** de acierto)
-- Pendientes: 95
-- Apostadores distintos: 640
+- Pendientes: 96
+- Apostadores distintos: 641
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 
-_(mostrando los 40 de mayor monto, de 640 en total)_
+_(mostrando los 40 de mayor monto, de 641 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| testingout123 | Spread: Lions (-4.5) | Packers | 1.92 (52¢) | $25,063 | — | ⏳ Pendiente |
 | tennischamp | Broncos vs. Cardinals | Broncos | 1.39 (72¢) | $55,698 | — | ⏳ Pendiente |
 | Sunshine.Smile | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.41 (71¢) | $37,673 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | ferrariChampions2026 | Colts vs. Vikings | Colts | 2.33 (43¢) | $27,096 | -$27,096 | ❌ Perdida |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.75 (57¢) | $74,772 | +$56,407 | ✅ Ganada |
 | milkteaboba | Giants vs. Texans | Texans | 1.23 (81¢) | $346,955 | — | ⏳ Pendiente |
-| fhiwbijd | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.32 (76¢) | $37,978 | -$37,978 | ❌ Perdida |
