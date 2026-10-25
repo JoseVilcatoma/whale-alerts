@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 21:14:41 (hora de Perú)
+Actualizado: 2026-10-24 21:16:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6396**  ($360,998,832 en total)
+- Apuestas registradas: **6397**  ($361,048,078 en total)
 - Resueltas: **6311** — 3848 ganadas / 2463 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Pendientes: 64
 - Apostadores distintos: 632
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Utah (-6.5) | Houston | 2.04 (49¢) | $49,247 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Pelicans vs. Nuggets | Pelicans | 1.52 (66¢) | $27,186 | — | ⏳ Pendiente |
 | mooseborzoii | Houston vs. Utah: O/U 57.5 | Under 57.5 | 2.00 (50¢) | $38,424 | — | ⏳ Pendiente |
 | Nooserac | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $41,035 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | gmpm2 | Spread: Clemson (-2.5) | Virginia Tech | 2.13 (47¢) | $72,404 | — | ⏳ Pendiente |
 | mooseborzoii | San Diego State vs. Colorado State | San Diego State | 2.04 (49¢) | $25,823 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Gen.G | 1.79 (56¢) | $56,000 | +$44,000 | ✅ Ganada |
-| Mooseborzoiii | LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage | Hanwha Life Esports | 2.38 (42¢) | $186,219 | -$186,219 | ❌ Perdida |
