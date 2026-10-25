@@ -97081,5 +97081,20 @@
     "status": "pending",
     "ultimo_fill": 1792936159,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13135,
+    "timestamp": 1792936705,
+    "username": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "slug": "sea-gen-ven-2026-10-25-total-2pt5",
+    "title": "Genoa CFC vs. Venezia FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 30305.639999999996,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792936705,
+    "fills": 1
   }
 ]
