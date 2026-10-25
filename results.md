@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 14:36:42 (hora de Perú)
+Actualizado: 2026-10-25 14:38:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6561**  ($371,863,348 en total)
+- Apuestas registradas: **6563**  ($371,960,348 en total)
 - Resueltas: **6448** — 3934 ganadas / 2514 perdidas (**61%** de acierto)
-- Pendientes: 91
+- Pendientes: 93
 - Apostadores distintos: 640
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 11 | 65% | $47,269,727 | +$1,143,151 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 12 | 65% | $47,329,179 | +$1,143,151 |
 | Sassy-Bucket | 90 | 94 | 5 | 49% | $12,066,678 | -$1,490,411 |
 | mooseborzoii | 93 | 51 | 5 | 65% | $8,486,865 | +$1,128,490 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArturitoFilito | Spread: FC Barcelona (-1.5) | Real Madrid CF | 1.75 (57¢) | $37,549 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Texans | 2.27 (44¢) | $59,451 | — | ⏳ Pendiente |
 | sbsigner | Packers vs. Lions | Lions | 1.54 (65¢) | $46,429 | — | ⏳ Pendiente |
 | Eugycom | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $40,310 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Spread: Knicks (-7.5) | Magic | 1.96 (51¢) | $25,037 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
 | juice-fruit | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 2.63 (38¢) | $31,516 | -$31,516 | ❌ Perdida |
 | SDTrading | Spread: Panthers (-2.5) | Panthers | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
-| DonLino1 | Browns vs. Titans | Titans | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
-| raybanman | Browns vs. Titans | Titans | 2.17 (46¢) | $349,600 | — | ⏳ Pendiente |
