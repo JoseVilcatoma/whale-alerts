@@ -96856,5 +96856,35 @@
     "status": "pending",
     "ultimo_fill": 1792927003,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13111,
+    "timestamp": 1792928108,
+    "username": "0xf3ce\u2026a57a",
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "slug": "dota2-liquid-og-2026-10-25",
+    "title": "Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 27643.999999,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1792928108,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13112,
+    "timestamp": 1792928155,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "nfl-pit-no-2026-10-25-spread-away-2pt5",
+    "title": "Spread: Steelers (-2.5)",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 38500.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1792928155,
+    "fills": 1
   }
 ]

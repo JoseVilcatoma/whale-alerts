@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 06:34:50 (hora de Perú)
+Actualizado: 2026-10-25 06:36:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6444**  ($363,226,014 en total)
+- Apuestas registradas: **6446**  ($363,292,158 en total)
 - Resueltas: **6395** — 3905 ganadas / 2490 perdidas (**61%** de acierto)
-- Pendientes: 27
-- Apostadores distintos: 634
+- Pendientes: 29
+- Apostadores distintos: 635
 
 ### Balance
 
@@ -61,16 +61,18 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 35 | 17 | 0 | 67% | $1,983,875 | -$153,848 |
+| SDTrading | 32 | 32 | 1 | 50% | $1,948,351 | -$130,533 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
-| SDTrading | 32 | 32 | 0 | 50% | $1,909,851 | -$130,533 |
 | Jsram | 21 | 20 | 0 | 51% | $1,854,971 | -$124,010 |
 
-_(mostrando los 40 de mayor monto, de 634 en total)_
+_(mostrando los 40 de mayor monto, de 635 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Spread: Steelers (-2.5) | Steelers | 1.82 (55¢) | $38,500 | — | ⏳ Pendiente |
+| 0xf3ce…a57a | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | Team Liquid | 1.47 (68¢) | $27,644 | — | ⏳ Pendiente |
 | zhqzhq | Will ACF Fiorentina win on 2026-10-25? | No | 1.12 (89¢) | $35,000 | — | ⏳ Pendiente |
 | Yellow-Fever | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $30,493 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 634 en total)_
 | Woaifacai | Bucks vs. 76ers | 76ers | 1.18 (85¢) | $77,432 | +$13,664 | ✅ Ganada |
 | Netrol | Spread: Nuggets (-11.5) | Nuggets | 2.08 (48¢) | $27,960 | -$27,960 | ❌ Perdida |
 | googleplay | Spread: Nuggets (-11.5) | Pelicans | 1.89 (53¢) | $317,928 | +$281,936 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Kraken | Wild | 1.59 (63¢) | $46,321 | +$27,204 | ✅ Ganada |
-| theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.00 (50¢) | $27,560 | +$27,560 | ✅ Ganada |
