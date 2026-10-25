@@ -96406,5 +96406,20 @@
     "status": "pending",
     "ultimo_fill": 1792904409,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13068,
+    "timestamp": 1792905718,
+    "username": "NeverLoseBet",
+    "wallet": "0x3990e456f5a7e80368219ec137f57974f5143401",
+    "slug": "lal-bar-rea-2026-10-25-rea",
+    "title": "Will Real Madrid CF win on 2026-10-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 31011.032000000003,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1792905718,
+    "fills": 1
   }
 ]
