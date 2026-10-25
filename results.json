@@ -95986,5 +95986,20 @@
     "status": "pending",
     "ultimo_fill": 1792889403,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 12945,
+    "timestamp": 1792889505,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-nop-den-2026-10-24-spread-home-11pt5",
+    "title": "Spread: Nuggets (-11.5)",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 317928.2985,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1792889505,
+    "fills": 1
   }
 ]

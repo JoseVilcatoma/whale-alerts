@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 19:50:20 (hora de Perú)
+Actualizado: 2026-10-24 19:52:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6386**  ($360,317,748 en total)
+- Apuestas registradas: **6387**  ($360,635,676 en total)
 - Resueltas: **6289** — 3835 ganadas / 2454 perdidas (**61%** de acierto)
-- Pendientes: 75
+- Pendientes: 76
 - Apostadores distintos: 632
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 25 | 0 | 71% | $5,149,705 | -$186,637 |
-| googleplay | 14 | 16 | 2 | 47% | $4,645,412 | -$505,804 |
+| googleplay | 14 | 16 | 3 | 47% | $4,963,340 | -$505,804 |
 | BrotherObama | 45 | 51 | 4 | 47% | $4,400,789 | -$189,745 |
 | maz26 | 32 | 21 | 3 | 60% | $3,818,660 | +$365,369 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Nuggets (-11.5) | Pelicans | 1.89 (53¢) | $317,928 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Kraken | Wild | 1.59 (63¢) | $46,321 | — | ⏳ Pendiente |
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.00 (50¢) | $27,560 | — | ⏳ Pendiente |
 | KaneAnalytics | Ole Miss vs. Texas | Texas | 1.19 (84¢) | $50,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | juice-fruit | Heat vs. Hornets | Heat | 1.59 (63¢) | $77,557 | — | ⏳ Pendiente |
 | YEEES-but-why | Heat vs. Hornets | Hornets | 2.70 (37¢) | $29,415 | — | ⏳ Pendiente |
 | sinasinner | Spread: Texas (-3.5) | Ole Miss | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
-| mooseborzoii | Texas A&M vs. Alabama | Alabama | 1.45 (69¢) | $71,436 | +$32,094 | ✅ Ganada |
