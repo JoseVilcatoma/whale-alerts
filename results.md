@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 16:22:15 (hora de Perú)
+Actualizado: 2026-10-25 16:24:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6609**  ($375,359,668 en total)
-- Resueltas: **6496** — 3961 ganadas / 2535 perdidas (**61%** de acierto)
-- Pendientes: 91
+- Resueltas: **6502** — 3966 ganadas / 2536 perdidas (**61%** de acierto)
+- Pendientes: 85
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,145,039** sobre $368,281,766 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$6,713** sobre $640,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,069,131** sobre $368,651,181 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,631** sobre $641,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 103 | 55 | 3 | 65% | $6,975,205 | +$90,790 |
-| Lakersfan111 | 83 | 47 | 9 | 64% | $6,640,887 | +$245,409 |
+| Lakersfan111 | 84 | 47 | 8 | 64% | $6,640,887 | +$260,796 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | googleplay | 17 | 21 | 2 | 45% | $6,379,161 | -$366,994 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 43 | 13 | 3 | 77% | $3,864,821 | +$1,850,175 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
-| Mooseborzoiii | 16 | 17 | 1 | 48% | $3,439,626 | +$469,820 |
+| Mooseborzoiii | 17 | 17 | 0 | 50% | $3,439,626 | +$529,743 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | cosmicxbt | 20 | 8 | 1 | 71% | $3,153,830 | -$394,523 |
@@ -99,9 +99,9 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | sinasinner | Spread: Broncos (-4.5) | Broncos | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | testingout123 | Spread: Lions (-4.5) | Packers | 1.92 (52¢) | $25,063 | — | ⏳ Pendiente |
 | tennischamp | Broncos vs. Cardinals | Broncos | 1.39 (72¢) | $55,698 | — | ⏳ Pendiente |
-| Sunshine.Smile | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.41 (71¢) | $37,673 | — | ⏳ Pendiente |
-| zb8 | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.43 (70¢) | $28,262 | — | ⏳ Pendiente |
+| Sunshine.Smile | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.35 (74¢) | $25,900 | +$9,100 | ✅ Ganada |
+| jakepaulthegoat2008 | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.41 (71¢) | $37,673 | +$15,388 | ✅ Ganada |
+| zb8 | LoL: Dplus KIA vs Movistar KOI - Game 2 Winner | Dplus KIA | 1.43 (70¢) | $28,262 | +$12,112 | ✅ Ganada |
 | gmpm2 | Packers vs. Lions | Lions | 1.54 (65¢) | $32,098 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Lions | Lions | 1.54 (65¢) | $186,550 | — | ⏳ Pendiente |
 | juice-fruit | Browns vs. Titans | Browns | 1.61 (62¢) | $34,444 | +$21,111 | ✅ Ganada |
@@ -127,7 +127,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | jakepaulthegoat2008 | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
 | Eugycom | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $94,824 | — | ⏳ Pendiente |
 | shark142 | Bengals vs. Ravens | Bengals | 1.39 (72¢) | $28,286 | +$11,000 | ✅ Ganada |
-| yabanci | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Movistar KOI | 4.76 (21¢) | $32,188 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.28 (78¢) | $212,456 | — | ⏳ Pendiente |
-| Sunshine.Smile | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.35 (74¢) | $32,936 | — | ⏳ Pendiente |
+| yabanci | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Movistar KOI | 4.76 (21¢) | $32,188 | -$32,188 | ❌ Perdida |
+| Mooseborzoiii | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.28 (78¢) | $212,456 | +$59,924 | ✅ Ganada |
+| Sunshine.Smile | LoL: Dplus KIA vs Movistar KOI - Game 1 Winner | Dplus KIA | 1.35 (74¢) | $32,936 | +$11,572 | ✅ Ganada |
 | LaarsY | Panthers vs. Blackhawks | Panthers | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
