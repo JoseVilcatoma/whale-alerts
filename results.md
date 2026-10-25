@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 14:55:29 (hora de Perú)
+Actualizado: 2026-10-25 14:57:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6570**  ($372,390,506 en total)
+- Apuestas registradas: **6572**  ($372,572,544 en total)
 - Resueltas: **6452** — 3936 ganadas / 2516 perdidas (**61%** de acierto)
-- Pendientes: 96
+- Pendientes: 98
 - Apostadores distintos: 640
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 26 | 0 | 70% | $5,197,196 | -$234,128 |
 | BrotherObama | 47 | 51 | 3 | 48% | $4,425,789 | -$123,120 |
-| maz26 | 33 | 23 | 3 | 59% | $3,989,653 | +$380,239 |
+| maz26 | 33 | 23 | 4 | 59% | $4,023,891 | +$380,239 |
 | Kch-Temp | 43 | 11 | 5 | 80% | $3,864,821 | +$1,951,752 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Spread: Rams (-3.5) | Raiders | 1.89 (53¢) | $34,238 | — | ⏳ Pendiente |
+| tikstt2 | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $147,800 | — | ⏳ Pendiente |
 | mooseborzoii | Giants vs. Texans | Giants | 1.47 (68¢) | $46,888 | — | ⏳ Pendiente |
 | nb1985 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Dplus KIA vs Movistar KOI (BO3) - Worlds Group Stage | Dplus KIA | 1.08 (93¢) | $166,214 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 640 en total)_
 | chubbytoro | Buccaneers vs. Panthers | Panthers | 1.69 (59¢) | $47,200 | — | ⏳ Pendiente |
 | Mooseborzoiii | Browns vs. Titans | Browns | 1.82 (55¢) | $412,500 | — | ⏳ Pendiente |
 | EdZachary | Spread: Vikings (-6.5) | Vikings | 1.85 (54¢) | $52,996 | — | ⏳ Pendiente |
-| Sassy-Bucket | Spread: Vikings (-7.5) | Colts | 1.85 (54¢) | $29,488 | — | ⏳ Pendiente |
-| Mooseborzoiii | Browns vs. Titans | Browns | 1.85 (54¢) | $43,435 | — | ⏳ Pendiente |
