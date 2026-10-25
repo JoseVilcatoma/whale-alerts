@@ -98173,7 +98173,7 @@
     "side": "BUY",
     "usd": 38140.5999,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1792949770,
     "fills": 1
   },
@@ -98188,7 +98188,7 @@
     "side": "BUY",
     "usd": 25848.8736,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1792949794,
     "fills": 1
   },
@@ -99003,5 +99003,20 @@
     "status": "pending",
     "ultimo_fill": 1792959616,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13332,
+    "timestamp": 1792959629,
+    "username": "takeormake",
+    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+    "slug": "nfl-gb-det-2026-10-25-spread-home-3pt5",
+    "title": "Spread: Lions (-3.5)",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 66589.083,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1792959629,
+    "fills": 1
   }
 ]

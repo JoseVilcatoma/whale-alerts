@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 15:20:19 (hora de Perú)
+Actualizado: 2026-10-25 15:22:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6587**  ($373,695,574 en total)
-- Resueltas: **6471** — 3946 ganadas / 2525 perdidas (**61%** de acierto)
-- Pendientes: 94
+- Apuestas registradas: **6588**  ($373,762,163 en total)
+- Resueltas: **6473** — 3947 ganadas / 2526 perdidas (**61%** de acierto)
+- Pendientes: 93
 - Apostadores distintos: 641
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,950,189** sobre $366,117,192 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$7,333** sobre $638,200 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$1,960,327** sobre $366,181,182 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$7,324** sobre $638,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 102 | 54 | 4 | 65% | $6,941,599 | +$97,285 |
+| ferrariChampions2026 | 103 | 54 | 3 | 66% | $6,941,599 | +$125,287 |
 | Lakersfan111 | 83 | 47 | 8 | 64% | $6,610,287 | +$245,409 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | googleplay | 17 | 21 | 0 | 45% | $6,000,572 | -$366,994 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 35 | 17 | 1 | 67% | $2,031,205 | -$153,848 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
-| juice-fruit | 21 | 8 | 3 | 72% | $1,911,186 | +$460,584 |
+| juice-fruit | 21 | 9 | 2 | 70% | $1,911,186 | +$422,444 |
 
 _(mostrando los 40 de mayor monto, de 641 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| takeormake | Spread: Lions (-3.5) | Packers | 2.13 (47¢) | $66,589 | — | ⏳ Pendiente |
 | veliMax | Will FC Barcelona win on 2026-10-25? | Yes | 1.64 (61¢) | $67,223 | — | ⏳ Pendiente |
 | juice-fruit | Packers vs. Lions | Lions | 1.52 (66¢) | $98,677 | — | ⏳ Pendiente |
 | Donkey14 | Rams vs. Raiders | Raiders | 2.63 (38¢) | $100,000 | — | ⏳ Pendiente |
@@ -125,9 +126,8 @@ _(mostrando los 40 de mayor monto, de 641 en total)_
 | shark142 | Will Real Madrid CF win on 2026-10-25? | No | 1.32 (76¢) | $35,467 | — | ⏳ Pendiente |
 | chongchong37 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Titans | Browns | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Dolphins vs. Jets | Dolphins | 2.08 (48¢) | $25,849 | — | ⏳ Pendiente |
-| juice-fruit | Dolphins vs. Jets | Jets | 1.96 (51¢) | $38,141 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Dolphins vs. Jets | Dolphins | 2.08 (48¢) | $25,849 | +$28,003 | ✅ Ganada |
+| juice-fruit | Dolphins vs. Jets | Jets | 1.96 (51¢) | $38,141 | -$38,141 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-10-25? | Yes | 4.17 (24¢) | $32,314 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Giants vs. Texans | Texans | 1.59 (63¢) | $34,497 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Colts vs. Vikings | Vikings | 1.72 (58¢) | $67,130 | +$48,611 | ✅ Ganada |
-| jakepaulthegoat2008 | Spread: Pacers (-7.5) | Nets | 1.89 (53¢) | $36,684 | — | ⏳ Pendiente |
