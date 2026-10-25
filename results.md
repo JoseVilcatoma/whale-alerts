@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 03:05:56 (hora de Perú)
+Actualizado: 2026-10-25 03:08:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6426**  ($362,453,549 en total)
+- Apuestas registradas: **6427**  ($362,479,552 en total)
 - Resueltas: **6388** — 3900 ganadas / 2488 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 633
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| rabbitfoot1 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Under 4.5 | 1.79 (56¢) | $26,002 | — | ⏳ Pendiente |
 | kdvlklkvlsklkfs | Ningbo: Egor Pleshivtsev vs Dominik Palan | Dominik Palan | 1.67 (60¢) | $46,194 | — | ⏳ Pendiente |
 | salgnklasf | Counter-Strike: Spirit vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.11 (90¢) | $54,261 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A | OG | 2.50 (40¢) | $29,427 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | KaneAnalytics | San Diego State vs. Colorado State | Colorado State | 1.59 (63¢) | $57,155 | +$33,567 | ✅ Ganada |
 | KaneAnalytics | Ole Miss vs. Texas | Texas | 1.43 (70¢) | $26,651 | +$11,422 | ✅ Ganada |
 | big8betz | Wizards vs. Bulls | Wizards | 2.08 (48¢) | $49,000 | +$53,083 | ✅ Ganada |
-| HVAB | Fort Worth: Jenson Brooksby vs Gabriel Debru | Jenson Brooksby | 1.32 (76¢) | $32,854 | +$10,375 | ✅ Ganada |
