@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:15:36 (hora de Perú)
+Actualizado: 2026-10-25 17:17:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6619**  ($375,874,839 en total)
+- Apuestas registradas: **6620**  ($375,908,062 en total)
 - Resueltas: **6505** — 3968 ganadas / 2537 perdidas (**61%** de acierto)
-- Pendientes: 92
+- Pendientes: 93
 - Apostadores distintos: 643
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $33,223 | — | ⏳ Pendiente |
 | ethanaz | Packers vs. Lions | Packers | 2.08 (48¢) | $36,868 | — | ⏳ Pendiente |
 | Siddhartha1 | Spread: Pacers (-6.5) | Pacers | 2.08 (48¢) | $37,278 | — | ⏳ Pendiente |
 | RJW1 | Spread: Timberwolves (-3.5) | Timberwolves | 1.96 (51¢) | $152,922 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | ArturitoFilito | Spread: FC Barcelona (-1.5) | Real Madrid CF | 1.75 (57¢) | $37,549 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Giants vs. Texans | Texans | 2.27 (44¢) | $59,451 | -$59,451 | ❌ Perdida |
 | sbsigner | Packers vs. Lions | Lions | 1.54 (65¢) | $46,429 | — | ⏳ Pendiente |
-| Eugycom | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $40,310 | — | ⏳ Pendiente |
