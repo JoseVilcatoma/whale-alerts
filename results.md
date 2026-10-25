@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 21:49:02 (hora de Perú)
+Actualizado: 2026-10-24 21:51:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6401**  ($361,201,908 en total)
-- Resueltas: **6329** — 3859 ganadas / 2470 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Apuestas registradas: **6402**  ($361,249,400 en total)
+- Resueltas: **6333** — 3863 ganadas / 2470 perdidas (**61%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 632
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,292,720** sobre $356,890,743 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$7,310** sobre $624,100 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$2,159,232** sobre $357,152,717 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$7,017** sobre $624,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ethanaz | 60 | 25 | 0 | 71% | $5,149,705 | -$186,637 |
+| ethanaz | 60 | 25 | 1 | 71% | $5,197,196 | -$186,637 |
 | googleplay | 15 | 16 | 2 | 48% | $4,963,340 | -$196,744 |
 | BrotherObama | 47 | 51 | 2 | 48% | $4,400,789 | -$123,120 |
 | maz26 | 33 | 21 | 2 | 61% | $3,818,660 | +$447,016 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 28 | 15 | 0 | 65% | $2,337,048 | +$412,352 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| Talvez10 | 25 | 22 | 2 | 53% | $2,286,861 | +$209,155 |
+| Talvez10 | 26 | 22 | 1 | 54% | $2,286,861 | +$247,232 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 32 | 17 | 1 | 65% | $1,922,301 | -$174,399 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Ole Miss vs. Texas | Ole Miss | 2.27 (44¢) | $47,491 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Ole Miss vs. Texas | Ole Miss | 2.50 (40¢) | $39,256 | — | ⏳ Pendiente |
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.67 (60¢) | $58,856 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.35 (74¢) | $26,104 | — | ⏳ Pendiente |
@@ -101,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | Woaifacai | Heat vs. Hornets | Hornets | 1.52 (66¢) | $33,000 | +$17,000 | ✅ Ganada |
 | meoooow | LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage | Bilibili Gaming | 1.32 (76¢) | $74,057 | +$23,386 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Bucks vs. 76ers | 76ers | 1.12 (89¢) | $30,718 | +$3,797 | ✅ Ganada |
-| winner877 | Spurs vs. Mavericks | Spurs | 1.15 (87¢) | $141,539 | — | ⏳ Pendiente |
+| winner877 | Spurs vs. Mavericks | Spurs | 1.15 (87¢) | $141,539 | +$21,149 | ✅ Ganada |
 | KaneAnalytics | San Diego State vs. Colorado State | Colorado State | 1.59 (63¢) | $57,155 | +$33,567 | ✅ Ganada |
 | KaneAnalytics | Ole Miss vs. Texas | Texas | 1.43 (70¢) | $26,651 | — | ⏳ Pendiente |
 | big8betz | Wizards vs. Bulls | Wizards | 2.08 (48¢) | $49,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 632 en total)_
 | googleplay | Wizards vs. Bulls | Bulls | 1.89 (53¢) | $442,373 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Oklahoma State (-13.5) | Colorado | 1.96 (51¢) | $44,319 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage | Dplus KIA | 2.33 (43¢) | $68,536 | +$90,850 | ✅ Ganada |
-| mooseborzoii | Ole Miss vs. Texas | Ole Miss | 2.44 (41¢) | $82,000 | — | ⏳ Pendiente |
