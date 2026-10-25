@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:48:24 (hora de Perú)
+Actualizado: 2026-10-25 11:50:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6507**  ($367,924,240 en total)
+- Apuestas registradas: **6510**  ($368,350,868 en total)
 - Resueltas: **6421** — 3918 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Pendientes: 67
 - Apostadores distintos: 637
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 102 | 53 | 0 | 66% | $6,776,293 | +$124,380 |
+| ferrariChampions2026 | 102 | 53 | 1 | 66% | $6,811,361 | +$124,380 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Lakersfan111 | 83 | 47 | 2 | 64% | $6,378,033 | +$245,409 |
 | googleplay | 16 | 19 | 3 | 46% | $6,000,572 | -$427,044 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Lakers (-6.5) | Jazz | 2.00 (50¢) | $35,068 | — | ⏳ Pendiente |
+| salgnklasf | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.10 (91¢) | $77,127 | — | ⏳ Pendiente |
+| RegardedMoney | Will FC Barcelona vs. Real Madrid CF end in a draw? | No | 1.18 (85¢) | $314,432 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 2.63 (38¢) | $31,516 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 | omnibus-076daa | Athletic Club vs. Getafe CF: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $61,341 | +$72,009 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: G2 vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | G2 | 2.33 (43¢) | $25,800 | -$25,800 | ❌ Perdida |
 | mooseborzoii | Panthers vs. Blackhawks | Panthers | 1.61 (62¢) | $25,587 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: G2 vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | G2 | 2.33 (43¢) | $55,900 | -$55,900 | ❌ Perdida |
-| 4217893367451 | Counter-Strike: MOUZ vs 9z (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.33 (75¢) | $52,499 | +$17,500 | ✅ Ganada |
-| gmpm2 | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $54,236 | — | ⏳ Pendiente |

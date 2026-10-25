@@ -97801,5 +97801,50 @@
     "status": "pending",
     "ultimo_fill": 1792946703,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13201,
+    "timestamp": 1792946947,
+    "username": "salgnklasf",
+    "wallet": "0xdad3251e1639eb14da805365f56bf389575961cf",
+    "slug": "lol-gen-ly-2026-10-25",
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 77127.369996,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1792946947,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13202,
+    "timestamp": 1792946948,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nba-lal-uta-2026-10-25-spread-away-6pt5",
+    "title": "Spread: Lakers (-6.5)",
+    "outcome": "Jazz",
+    "side": "BUY",
+    "usd": 35068.075,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1792946948,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13203,
+    "timestamp": 1792946859,
+    "username": "RegardedMoney",
+    "wallet": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
+    "slug": "lal-bar-rea-2026-10-25-draw",
+    "title": "Will FC Barcelona vs. Real Madrid CF end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 314432.47599999997,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1792946859,
+    "fills": 2
   }
 ]
