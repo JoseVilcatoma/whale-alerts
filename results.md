@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 13:17:25 (hora de Perú)
+Actualizado: 2026-10-25 13:19:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6539**  ($370,221,857 en total)
+- Apuestas registradas: **6540**  ($370,345,519 en total)
 - Resueltas: **6434** — 3928 ganadas / 2506 perdidas (**61%** de acierto)
-- Pendientes: 83
+- Pendientes: 84
 - Apostadores distintos: 639
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 463 | 253 | 9 | 65% | $47,154,625 | +$1,143,151 |
 | Sassy-Bucket | 90 | 94 | 5 | 49% | $12,066,678 | -$1,490,411 |
-| mooseborzoii | 93 | 50 | 5 | 65% | $8,363,203 | +$1,154,984 |
+| mooseborzoii | 93 | 50 | 6 | 65% | $8,486,865 | +$1,154,984 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 23 | 3 | 62% | $7,945,894 | -$371,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Bengals vs. Ravens | Ravens | 1.33 (75¢) | $123,662 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | Top Esports | 2.08 (48¢) | $64,089 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage | G2 Esports | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 639 en total)_
 | YYYYY999 | Pistons vs. 76ers | Pistons | 1.96 (51¢) | $30,011 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: 49ers (-2.5) | 49ers | 1.92 (52¢) | $72,007 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: FURIA vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.75 (57¢) | $114,000 | -$114,000 | ❌ Perdida |
-| kevinmeng | LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage | Hanwha Life Esports | 1.35 (74¢) | $53,339 | — | ⏳ Pendiente |
