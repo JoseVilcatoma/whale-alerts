@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-24 23:18:52 (hora de Perú)
+Actualizado: 2026-10-24 23:20:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6411**  ($361,779,047 en total)
-- Resueltas: **6369** — 3886 ganadas / 2483 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **6377** — 3890 ganadas / 2487 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 633
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,427,060** sobre $359,634,705 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,681** sobre $628,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$2,276,331** sobre $360,369,815 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,906** sobre $628,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 459 | 252 | 5 | 65% | $46,400,821 | +$1,050,793 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 460 | 253 | 3 | 65% | $46,400,821 | +$1,041,669 |
 | Sassy-Bucket | 88 | 94 | 2 | 48% | $11,659,202 | -$1,662,107 |
 | mooseborzoii | 92 | 50 | 2 | 65% | $8,166,026 | +$1,116,560 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -34,12 +34,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 102 | 53 | 0 | 66% | $6,776,293 | +$124,380 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Lakersfan111 | 80 | 47 | 1 | 63% | $6,212,686 | +$211,427 |
+| Lakersfan111 | 81 | 47 | 0 | 63% | $6,212,686 | +$219,427 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 26 | 0 | 70% | $5,197,196 | -$234,128 |
-| googleplay | 15 | 17 | 1 | 47% | $4,963,340 | -$639,117 |
+| googleplay | 16 | 17 | 0 | 48% | $4,963,340 | -$357,180 |
 | BrotherObama | 47 | 51 | 2 | 48% | $4,400,789 | -$123,120 |
 | maz26 | 33 | 23 | 0 | 59% | $3,818,660 | +$380,239 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -72,13 +72,13 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | hovistomaradona | Will Brentford FC win on 2026-10-25? | Yes | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Nuggets | Nuggets | 1.12 (89¢) | $178,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Nuggets | Pelicans | 3.12 (32¢) | $31,123 | — | ⏳ Pendiente |
-| Woaifacai | Pelicans vs. Nuggets | Nuggets | 1.49 (67¢) | $30,804 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Nuggets | Nuggets | 1.12 (89¢) | $178,000 | +$22,000 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Nuggets | Pelicans | 3.12 (32¢) | $31,123 | -$31,123 | ❌ Perdida |
+| Woaifacai | Pelicans vs. Nuggets | Nuggets | 1.49 (67¢) | $30,804 | +$15,172 | ✅ Ganada |
 | dhgreg | Warriors vs. Suns | Suns | 1.35 (74¢) | $67,284 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $37,999 | +$5,182 | ✅ Ganada |
 | TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $35,327 | +$4,817 | ✅ Ganada |
-| tin54321 | Pelicans vs. Nuggets | Pelicans | 1.20 (83¢) | $90,109 | — | ⏳ Pendiente |
+| tin54321 | Pelicans vs. Nuggets | Pelicans | 1.20 (83¢) | $90,109 | -$90,109 | ❌ Perdida |
 | tin54321 | Pelicans vs. Nuggets: O/U 247.5 | Under 247.5 | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
 | ethanaz | Ole Miss vs. Texas | Ole Miss | 2.27 (44¢) | $47,491 | -$47,491 | ❌ Perdida |
 | ferrariChampions2026 | Ole Miss vs. Texas | Ole Miss | 2.50 (40¢) | $39,256 | -$39,256 | ❌ Perdida |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.35 (74¢) | $26,104 | +$9,172 | ✅ Ganada |
 | Zywoo123 | Warriors vs. Suns | Suns | 1.28 (78¢) | $29,615 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Utah (-6.5) | Houston | 2.04 (49¢) | $49,247 | — | ⏳ Pendiente |
-| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Pelicans vs. Nuggets | Pelicans | 1.52 (66¢) | $27,186 | — | ⏳ Pendiente |
+| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Pelicans vs. Nuggets | Pelicans | 1.52 (66¢) | $27,186 | -$27,186 | ❌ Perdida |
 | mooseborzoii | Houston vs. Utah: O/U 57.5 | Under 57.5 | 2.00 (50¢) | $38,424 | — | ⏳ Pendiente |
 | Nooserac | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $41,035 | +$10,259 | ✅ Ganada |
 | TAIWANNUMBERONE | Virginia Tech vs. Clemson | Virginia Tech | 1.25 (80¢) | $38,174 | +$9,544 | ✅ Ganada |
@@ -94,8 +94,8 @@ _(mostrando los 40 de mayor monto, de 633 en total)_
 | mooseborzoii | Ole Miss vs. Texas | Texas | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
 | sulumos | Warriors vs. Suns | Suns | 1.30 (77¢) | $30,810 | — | ⏳ Pendiente |
 | Woaifacai | Bucks vs. 76ers | 76ers | 1.18 (85¢) | $77,432 | +$13,664 | ✅ Ganada |
-| Netrol | Spread: Nuggets (-11.5) | Nuggets | 2.08 (48¢) | $27,960 | — | ⏳ Pendiente |
-| googleplay | Spread: Nuggets (-11.5) | Pelicans | 1.89 (53¢) | $317,928 | — | ⏳ Pendiente |
+| Netrol | Spread: Nuggets (-11.5) | Nuggets | 2.08 (48¢) | $27,960 | -$27,960 | ❌ Perdida |
+| googleplay | Spread: Nuggets (-11.5) | Pelicans | 1.89 (53¢) | $317,928 | +$281,936 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Kraken | Wild | 1.59 (63¢) | $46,321 | — | ⏳ Pendiente |
 | theowalcott | Will Real Salt Lake win on 2026-10-24? | Yes | 2.00 (50¢) | $27,560 | +$27,560 | ✅ Ganada |
 | KaneAnalytics | Ole Miss vs. Texas | Texas | 1.19 (84¢) | $50,400 | +$9,600 | ✅ Ganada |
