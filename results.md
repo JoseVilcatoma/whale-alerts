@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:04:34 (hora de Perú)
+Actualizado: 2026-10-25 11:06:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6489**  ($366,259,864 en total)
+- Apuestas registradas: **6491**  ($366,333,902 en total)
 - Resueltas: **6407** — 3912 ganadas / 2495 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Pendientes: 62
 - Apostadores distintos: 636
 
 ### Balance
@@ -38,12 +38,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| googleplay | 16 | 17 | 3 | 48% | $5,278,007 | -$357,180 |
+| googleplay | 16 | 17 | 4 | 48% | $5,322,476 | -$357,180 |
 | ethanaz | 60 | 26 | 0 | 70% | $5,197,196 | -$234,128 |
 | BrotherObama | 47 | 51 | 2 | 48% | $4,400,789 | -$123,120 |
 | maz26 | 33 | 23 | 1 | 59% | $3,872,896 | +$380,239 |
+| Kch-Temp | 42 | 11 | 5 | 79% | $3,715,261 | +$1,904,316 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Kch-Temp | 42 | 11 | 4 | 79% | $3,685,692 | +$1,904,316 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | raybanman | 17 | 13 | 0 | 57% | $3,063,662 | +$459,157 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Colts vs. Vikings: O/U 40.5 | Over 40.5 | 1.82 (55¢) | $29,569 | — | ⏳ Pendiente |
+| googleplay | Will Sunderland AFC win on 2026-10-25? | Yes | 2.86 (35¢) | $44,469 | — | ⏳ Pendiente |
 | Donkey14 | Browns vs. Titans | Titans | 2.22 (45¢) | $100,000 | — | ⏳ Pendiente |
 | googleplay | Will Sunderland AFC win on 2026-10-25? | Yes | 2.86 (35¢) | $244,803 | — | ⏳ Pendiente |
 | YYYYY999 | Spread: Lakers (-6.5) | Lakers | 2.00 (50¢) | $53,024 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 636 en total)_
 | YYYYY999 | Counter-Strike: Vitality vs TheMongolz (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.23 (81¢) | $32,982 | +$7,737 | ✅ Ganada |
 | robustmst | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Leylah Fernandez | 2.56 (39¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Woaifacai | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Elena Rybakina | 1.37 (73¢) | $70,059 | +$25,912 | ✅ Ganada |
-| Woaifacai | Ningbo Open: Elena Rybakina vs Leylah Fernandez | Elena Rybakina | 1.33 (75¢) | $32,872 | +$10,957 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-10-25? | Yes | 3.85 (26¢) | $34,917 | — | ⏳ Pendiente |
