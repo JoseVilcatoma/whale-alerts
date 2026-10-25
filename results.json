@@ -97141,5 +97141,20 @@
     "status": "pending",
     "ultimo_fill": 1792938155,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13140,
+    "timestamp": 1792938611,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "epl-hul-bre-2026-10-25-hul",
+    "title": "Will Hull City AFC win on 2026-10-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 50231.63089999999,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792938611,
+    "fills": 1
   }
 ]

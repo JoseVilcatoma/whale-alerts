@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 09:29:32 (hora de Perú)
+Actualizado: 2026-10-25 09:31:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6463**  ($364,087,384 en total)
+- Apuestas registradas: **6464**  ($364,137,616 en total)
 - Resueltas: **6404** — 3909 ganadas / 2495 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 635
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Will Hull City AFC win on 2026-10-25? | No | 1.67 (60¢) | $50,232 | — | ⏳ Pendiente |
 | Woaifacai | Hull City AFC vs. Brentford FC: O/U 2.5 | Under 2.5 | 1.79 (56¢) | $53,390 | — | ⏳ Pendiente |
 | Kch-Temp | Broncos vs. Cardinals: O/U 42.5 | Over 42.5 | 1.85 (54¢) | $67,881 | — | ⏳ Pendiente |
 | Takon88 | Will Real Betis Balompié win on 2026-10-25? | No | 1.67 (60¢) | $75,442 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | dhgreg | Warriors vs. Suns | Suns | 1.35 (74¢) | $67,284 | +$23,640 | ✅ Ganada |
 | 0x6db5…e279 | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $37,999 | +$5,182 | ✅ Ganada |
 | TAIWANNUMBERONE | Ole Miss vs. Texas | Texas | 1.14 (88¢) | $35,327 | +$4,817 | ✅ Ganada |
-| tin54321 | Pelicans vs. Nuggets | Pelicans | 1.20 (83¢) | $90,109 | -$90,109 | ❌ Perdida |
