@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:50:41 (hora de Perú)
+Actualizado: 2026-10-25 17:52:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6641**  ($377,444,458 en total)
+- Apuestas registradas: **6642**  ($377,710,602 en total)
 - Resueltas: **6535** — 3982 ganadas / 2553 perdidas (**61%** de acierto)
-- Pendientes: 84
+- Pendientes: 85
 - Apostadores distintos: 643
 
 ### Balance
@@ -51,10 +51,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 20 | 8 | 1 | 71% | $3,153,830 | -$394,523 |
 | milkteaboba | 13 | 12 | 2 | 52% | $2,996,859 | -$1,041,660 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
+| ndb1 | 28 | 15 | 1 | 65% | $2,603,192 | +$412,352 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| ndb1 | 28 | 15 | 0 | 65% | $2,337,048 | +$412,352 |
 | Talvez10 | 27 | 22 | 1 | 55% | $2,335,861 | +$269,729 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Clippers vs. Thunder | Thunder | 1.11 (90¢) | $266,144 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Canadiens vs. Jets | Jets | 2.08 (48¢) | $34,715 | — | ⏳ Pendiente |
 | dhgreg | Pistons vs. 76ers | 76ers | 2.13 (47¢) | $155,100 | — | ⏳ Pendiente |
 | Sassy-Bucket | Canadiens vs. Jets | Canadiens | 1.92 (52¢) | $37,297 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Donkey14 | Rams vs. Raiders | Raiders | 2.63 (38¢) | $100,000 | — | ⏳ Pendiente |
 | sinasinner | Spread: Broncos (-4.5) | Broncos | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | testingout123 | Spread: Lions (-4.5) | Packers | 1.92 (52¢) | $25,063 | — | ⏳ Pendiente |
-| tennischamp | Broncos vs. Cardinals | Broncos | 1.39 (72¢) | $55,698 | — | ⏳ Pendiente |
