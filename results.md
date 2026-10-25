@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 11:58:56 (hora de Perú)
+Actualizado: 2026-10-25 12:01:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6512**  ($368,423,790 en total)
+- Apuestas registradas: **6516**  ($368,961,486 en total)
 - Resueltas: **6424** — 3921 ganadas / 2503 perdidas (**61%** de acierto)
-- Pendientes: 66
+- Pendientes: 70
 - Apostadores distintos: 637
 
 ### Balance
@@ -47,9 +47,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | raybanman | 17 | 13 | 1 | 57% | $3,413,262 | +$459,157 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| Mooseborzoiii | 13 | 17 | 2 | 43% | $3,163,081 | +$25,890 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | cosmicxbt | 19 | 8 | 0 | 70% | $2,946,192 | -$439,114 |
-| Mooseborzoiii | 13 | 17 | 1 | 43% | $2,750,581 | +$25,890 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | S-Works | 16 | 7 | 1 | 70% | $2,455,714 | -$255,521 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sinasinner | Spread: 49ers (-2.5) | Falcons | 1.96 (51¢) | $25,000 | — | ⏳ Pendiente |
+| chubbytoro | Buccaneers vs. Panthers | Panthers | 1.69 (59¢) | $47,200 | — | ⏳ Pendiente |
+| Mooseborzoiii | Browns vs. Titans | Browns | 1.82 (55¢) | $412,500 | — | ⏳ Pendiente |
+| EdZachary | Spread: Vikings (-6.5) | Vikings | 1.85 (54¢) | $52,996 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Vikings (-7.5) | Colts | 1.85 (54¢) | $29,488 | — | ⏳ Pendiente |
 | Mooseborzoiii | Browns vs. Titans | Browns | 1.85 (54¢) | $43,435 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Lakers (-6.5) | Jazz | 2.00 (50¢) | $35,068 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 637 en total)_
 | googleplay | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $41,300 | -$41,300 | ❌ Perdida |
 | monkeymashingkeyboard | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $36,000 | — | ⏳ Pendiente |
 | nb1985 | Will Atalanta BC win on 2026-10-25? | No | 1.92 (52¢) | $69,169 | +$63,848 | ✅ Ganada |
-| Kch-Temp | Will Genoa CFC win on 2026-10-25? | Yes | 2.33 (43¢) | $35,785 | +$47,436 | ✅ Ganada |
-| mooseborzoii | Magic vs. Knicks: O/U 224.5 | Under 224.5 | 2.00 (50¢) | $55,463 | — | ⏳ Pendiente |
-| googleplay | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $28,563 | -$28,563 | ❌ Perdida |
-| omnibus-076daa | Athletic Club vs. Getafe CF: O/U 2.5 | Over 2.5 | 2.17 (46¢) | $61,341 | +$72,009 | ✅ Ganada |
