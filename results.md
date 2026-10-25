@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 17:19:41 (hora de Perú)
+Actualizado: 2026-10-25 17:21:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6627**  ($376,253,421 en total)
+- Apuestas registradas: **6628**  ($376,279,421 en total)
 - Resueltas: **6505** — 3968 ganadas / 2537 perdidas (**61%** de acierto)
-- Pendientes: 100
+- Pendientes: 101
 - Apostadores distintos: 643
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zzzz87 | Spread: Timberwolves (-3.5) | Timberwolves | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Siddhartha1 | Pacers vs. Nets | Pacers | 1.54 (65¢) | $32,641 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Broncos vs. Cardinals | Broncos | 1.12 (89¢) | $25,575 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $33,223 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | mooseborzoii | Giants vs. Texans | Giants | 1.47 (68¢) | $46,888 | +$22,065 | ✅ Ganada |
 | nb1985 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Over 4.5 | 2.17 (46¢) | $42,797 | — | ⏳ Pendiente |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Dplus KIA vs Movistar KOI (BO3) - Worlds Group Stage | Dplus KIA | 1.08 (93¢) | $166,214 | -$3,574 | 💰 Vendida antes |
