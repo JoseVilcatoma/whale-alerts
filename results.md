@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 09:58:18 (hora de Perú)
+Actualizado: 2026-10-25 10:00:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6469**  ($364,382,896 en total)
+- Apuestas registradas: **6470**  ($364,408,792 en total)
 - Resueltas: **6404** — 3909 ganadas / 2495 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 635
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | Spread: Texans (-10.5) | Giants | 1.96 (51¢) | $25,896 | — | ⏳ Pendiente |
 | migrodrigues | Spread: FC Barcelona (-3.5) | FC Barcelona | 7.69 (13¢) | $66,000 | — | ⏳ Pendiente |
 | juice-fruit | Steelers vs. Saints | Steelers | 1.59 (63¢) | $74,496 | — | ⏳ Pendiente |
 | Pwaddler | Spread: Jets (-4.5) | Dolphins | 1.92 (52¢) | $32,922 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 635 en total)_
 | omnibus-076daa | FC Barcelona vs. Real Madrid CF: O/U 4.5 | Under 4.5 | 1.85 (54¢) | $114,035 | — | ⏳ Pendiente |
 | hovistomaradona | Will Brentford FC win on 2026-10-25? | Yes | 1.69 (59¢) | $27,120 | — | ⏳ Pendiente |
 | hovistomaradona | Will Brentford FC win on 2026-10-25? | Yes | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Nuggets | Nuggets | 1.12 (89¢) | $178,000 | +$22,000 | ✅ Ganada |
