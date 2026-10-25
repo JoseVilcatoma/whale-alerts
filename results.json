@@ -95791,5 +95791,35 @@
     "status": "pending",
     "ultimo_fill": 1792887196,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 12928,
+    "timestamp": 1792887778,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-mia-cha-2026-10-24",
+    "title": "Heat vs. Hornets",
+    "outcome": "Heat",
+    "side": "BUY",
+    "usd": 34000.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "ultimo_fill": 1792887778,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 12929,
+    "timestamp": 1792887778,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "nba-mia-cha-2026-10-24",
+    "title": "Heat vs. Hornets",
+    "outcome": "Hornets",
+    "side": "BUY",
+    "usd": 33000.0,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1792887778,
+    "fills": 1
   }
 ]
