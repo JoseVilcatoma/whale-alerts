@@ -101274,5 +101274,20 @@
     "status": "pending",
     "ultimo_fill": 1793052802,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13693,
+    "timestamp": 1793053552,
+    "username": "dromedaryy",
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "slug": "will-harry-kane-win-the-2026-ballon-dor",
+    "title": "Will Harry Kane win the 2026 Ballon d'Or?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 61478.90788,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1793053552,
+    "fills": 1
   }
 ]

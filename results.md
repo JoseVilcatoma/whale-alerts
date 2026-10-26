@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 17:24:09 (hora de Perú)
+Actualizado: 2026-10-26 17:26:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6738**  ($382,453,407 en total)
+- Apuestas registradas: **6739**  ($382,514,885 en total)
 - Resueltas: **6683** — 4091 ganadas / 2592 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 647
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dromedaryy | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.41 (71¢) | $61,479 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Wizards | 2.50 (40¢) | $120,000 | — | ⏳ Pendiente |
 | googleplay | Wizards vs. Hornets | Hornets | 1.69 (59¢) | $44,250 | — | ⏳ Pendiente |
 | googleplay | Spread: Hornets (-2.5) | Hornets | 1.89 (53¢) | $30,976 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | keeptheblueflagflyinghigh | Grizzlies vs. Kings | Grizzlies | 1.32 (76¢) | $25,522 | +$8,060 | ✅ Ganada |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $49,637 | +$7,417 | ✅ Ganada |
 | Soarin22 | Chiefs vs. Seahawks | Seahawks | 1.20 (83¢) | $63,208 | +$12,946 | ✅ Ganada |
-| FlamePyro | Chiefs vs. Seahawks | Seahawks | 1.10 (91¢) | $29,393 | +$2,907 | ✅ Ganada |
