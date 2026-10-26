@@ -100374,5 +100374,20 @@
     "status": "pending",
     "ultimo_fill": 1792978551,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13538,
+    "timestamp": 1792978826,
+    "username": "FlamePyro",
+    "wallet": "0x613bfbb81d9e5398bff208da4ae848e7a73e823a",
+    "slug": "nfl-kc-sea-2026-10-26",
+    "title": "Chiefs vs. Seahawks",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 29393.0,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1792978826,
+    "fills": 1
   }
 ]

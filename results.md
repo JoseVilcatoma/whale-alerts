@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 20:39:20 (hora de Perú)
+Actualizado: 2026-10-25 20:41:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6678**  ($379,674,798 en total)
+- Apuestas registradas: **6679**  ($379,704,191 en total)
 - Resueltas: **6591** — 4024 ganadas / 2567 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Pendientes: 66
 - Apostadores distintos: 643
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FlamePyro | Chiefs vs. Seahawks | Seahawks | 1.10 (91¢) | $29,393 | — | ⏳ Pendiente |
 | Woaifacai | Pistons vs. 76ers | Pistons | 1.28 (78¢) | $106,345 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Pistons vs. 76ers | Pistons | 1.32 (76¢) | $25,499 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Clippers vs. Thunder | Thunder | 1.06 (94¢) | $94,940 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $40,384 | -$40,384 | ❌ Perdida |
 | ethanaz | Packers vs. Lions | Packers | 2.08 (48¢) | $36,868 | -$36,868 | ❌ Perdida |
 | Siddhartha1 | Spread: Pacers (-6.5) | Pacers | 2.08 (48¢) | $37,278 | +$40,384 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-3.5) | Raptors | 2.04 (49¢) | $104,323 | — | ⏳ Pendiente |
