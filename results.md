@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 20:53:50 (hora de Perú)
+Actualizado: 2026-10-25 20:56:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6679**  ($379,704,191 en total)
-- Resueltas: **6607** — 4035 ganadas / 2572 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Resueltas: **6614** — 4040 ganadas / 2574 perdidas (**61%** de acierto)
+- Pendientes: 43
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,885,583** sobre $376,071,735 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,673** sobre $651,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,741,754** sobre $376,454,218 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,526** sobre $652,200 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 478 | 258 | 8 | 65% | $48,521,678 | +$1,584,426 |
 | Sassy-Bucket | 93 | 94 | 5 | 50% | $12,396,975 | -$1,393,191 |
-| mooseborzoii | 96 | 53 | 7 | 64% | $8,927,578 | +$966,146 |
+| mooseborzoii | 98 | 53 | 5 | 65% | $8,927,578 | +$1,008,397 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
-| BrotherObama | 47 | 51 | 3 | 48% | $4,425,789 | -$123,120 |
+| BrotherObama | 48 | 51 | 2 | 48% | $4,425,789 | -$98,120 |
 | maz26 | 39 | 25 | 0 | 61% | $4,388,312 | +$584,199 |
 | Mooseborzoiii | 20 | 17 | 0 | 54% | $3,880,917 | +$617,658 |
 | Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | cosmicxbt | 21 | 8 | 0 | 72% | $3,153,830 | -$326,238 |
-| milkteaboba | 14 | 12 | 1 | 54% | $2,996,859 | -$996,122 |
+| milkteaboba | 15 | 12 | 0 | 56% | $2,996,859 | -$869,022 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | ndb1 | 29 | 15 | 0 | 66% | $2,603,192 | +$441,923 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | ferrariChampions2026 | Chiefs vs. Seahawks | Seahawks | 1.79 (56¢) | $25,902 | — | ⏳ Pendiente |
 | kkookkoo | Chiefs vs. Seahawks | Seahawks | 1.69 (59¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $195,825 | — | ⏳ Pendiente |
-| mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.32 (76¢) | $25,562 | — | ⏳ Pendiente |
+| mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.32 (76¢) | $25,562 | +$8,072 | ✅ Ganada |
 | Sassy-Bucket | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $116,000 | — | ⏳ Pendiente |
 | KaneAnalytics | Pistons vs. 76ers | Pistons | 1.41 (71¢) | $27,686 | — | ⏳ Pendiente |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $36,000 | — | ⏳ Pendiente |
@@ -114,20 +114,20 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Sassy-Bucket | Canadiens vs. Jets | Canadiens | 1.92 (52¢) | $37,297 | — | ⏳ Pendiente |
 | dhgreg | Pistons vs. 76ers | 76ers | 2.13 (47¢) | $30,227 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Thunder (-16.5) | Thunder | 2.04 (49¢) | $32,941 | -$32,941 | ❌ Perdida |
-| milkteaboba | Raptors vs. Timberwolves | Timberwolves | 1.69 (59¢) | $182,900 | — | ⏳ Pendiente |
+| milkteaboba | Raptors vs. Timberwolves | Timberwolves | 1.69 (59¢) | $182,900 | +$127,100 | ✅ Ganada |
 | Mooseborzoiii | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.19 (84¢) | $367,761 | +$70,050 | ✅ Ganada |
-| dhgreg | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $32,071 | — | ⏳ Pendiente |
+| dhgreg | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $32,071 | -$32,071 | ❌ Perdida |
 | zb8 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.22 (82¢) | $26,215 | +$5,754 | ✅ Ganada |
 | gmpm2 | Spread: Thunder (-16.5) | Thunder | 2.13 (47¢) | $29,469 | -$29,469 | ❌ Perdida |
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.89 (53¢) | $118,388 | +$104,986 | ✅ Ganada |
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.96 (51¢) | $84,953 | +$81,621 | ✅ Ganada |
-| Zzzz87 | Raptors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $33,000 | — | ⏳ Pendiente |
+| Zzzz87 | Raptors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $33,000 | +$22,000 | ✅ Ganada |
 | Zzzz87 | Spread: Timberwolves (-3.5) | Timberwolves | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | Siddhartha1 | Pacers vs. Nets | Pacers | 1.54 (65¢) | $32,641 | +$17,576 | ✅ Ganada |
 | TAIWANNUMBERONE | Broncos vs. Cardinals | Broncos | 1.12 (89¢) | $25,575 | +$3,161 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $33,223 | +$11,673 | ✅ Ganada |
 | Woaifacai | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $52,986 | +$18,617 | ✅ Ganada |
-| Baronen11 | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $40,450 | — | ⏳ Pendiente |
+| Baronen11 | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $40,450 | -$40,450 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $40,384 | -$40,384 | ❌ Perdida |
 | ethanaz | Packers vs. Lions | Packers | 2.08 (48¢) | $36,868 | -$36,868 | ❌ Perdida |
 | Siddhartha1 | Spread: Pacers (-6.5) | Pacers | 2.08 (48¢) | $37,278 | +$40,384 | ✅ Ganada |
