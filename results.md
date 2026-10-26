@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 16:09:50 (hora de Perú)
+Actualizado: 2026-10-26 16:11:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6723**  ($381,703,291 en total)
+- Apuestas registradas: **6724**  ($381,728,354 en total)
 - Resueltas: **6677** — 4087 ganadas / 2590 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 646
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dromedaryy | Will Kylian Mbappé win the 2026 Ballon d'Or? | No | 1.30 (77¢) | $25,063 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend - Game 1 Winner | Team Liquid | 2.86 (35¢) | $28,000 | — | ⏳ Pendiente |
 | 473game | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 1.35 (74¢) | $59,940 | — | ⏳ Pendiente |
 | dromedaryy | Will Kylian Mbappé win the 2026 Ballon d'Or? | No | 1.33 (75¢) | $48,422 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 | googleplay | Spread: Grizzlies (-3.5) | Grizzlies | 1.96 (51¢) | $57,196 | +$54,953 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Kings | 2.56 (39¢) | $39,000 | -$39,000 | ❌ Perdida |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.64 (61¢) | $119,919 | +$76,670 | ✅ Ganada |
-| ferrariChampions2026 | Chiefs vs. Seahawks | Seahawks | 1.79 (56¢) | $25,902 | +$20,352 | ✅ Ganada |
