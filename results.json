@@ -100764,5 +100764,20 @@
     "status": "pending",
     "ultimo_fill": 1793025788,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13646,
+    "timestamp": 1793026502,
+    "username": "0x33b1\u2026af25",
+    "wallet": "0x33b1e49db9a9a54aa21f298185798c04e650af25",
+    "slug": "fl1-psg-lyo-2026-10-25-psg",
+    "title": "Will Paris Saint-Germain FC win on 2026-10-25?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 31094.949998,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1793026502,
+    "fills": 1
   }
 ]
