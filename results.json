@@ -101411,5 +101411,35 @@
     "status": "pending",
     "ultimo_fill": 1793056504,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13703,
+    "timestamp": 1793057183,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nba-dal-mia-2026-10-26-spread-home-7pt5",
+    "title": "Spread: Heat (-7.5)",
+    "outcome": "Heat",
+    "side": "BUY",
+    "usd": 36281.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793057183,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13704,
+    "timestamp": 1793057183,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nba-chi-bos-2026-10-26-spread-home-14pt5",
+    "title": "Spread: Celtics (-14.5)",
+    "outcome": "Bulls",
+    "side": "BUY",
+    "usd": 102000.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793057183,
+    "fills": 1
   }
 ]
