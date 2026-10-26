@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 20:58:03 (hora de Perú)
+Actualizado: 2026-10-25 21:00:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6679**  ($379,704,191 en total)
-- Resueltas: **6614** — 4040 ganadas / 2574 perdidas (**61%** de acierto)
+- Apuestas registradas: **6680**  ($379,767,400 en total)
+- Resueltas: **6615** — 4041 ganadas / 2574 perdidas (**61%** de acierto)
 - Pendientes: 43
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,741,754** sobre $376,454,218 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,526** sobre $652,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$1,717,698** sobre $376,479,255 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,430** sobre $652,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 104 | 57 | 1 | 65% | $7,001,107 | +$24,128 |
 | googleplay | 20 | 22 | 4 | 48% | $6,849,314 | -$504,140 |
-| Lakersfan111 | 87 | 48 | 4 | 64% | $6,640,887 | +$334,242 |
+| Lakersfan111 | 88 | 48 | 3 | 65% | $6,640,887 | +$358,297 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Soarin22 | Chiefs vs. Seahawks | Seahawks | 1.20 (83¢) | $63,208 | — | ⏳ Pendiente |
 | FlamePyro | Chiefs vs. Seahawks | Seahawks | 1.10 (91¢) | $29,393 | — | ⏳ Pendiente |
 | Woaifacai | Pistons vs. 76ers | Pistons | 1.28 (78¢) | $106,345 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Pistons vs. 76ers | Pistons | 1.32 (76¢) | $25,499 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Baronen11 | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $40,450 | -$40,450 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $40,384 | -$40,384 | ❌ Perdida |
 | ethanaz | Packers vs. Lions | Packers | 2.08 (48¢) | $36,868 | -$36,868 | ❌ Perdida |
-| Siddhartha1 | Spread: Pacers (-6.5) | Pacers | 2.08 (48¢) | $37,278 | +$40,384 | ✅ Ganada |
