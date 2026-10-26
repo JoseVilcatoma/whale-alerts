@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 17:34:21 (hora de Perú)
+Actualizado: 2026-10-26 17:36:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6740**  ($382,543,285 en total)
-- Resueltas: **6683** — 4091 ganadas / 2592 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Apuestas registradas: **6742**  ($382,680,029 en total)
+- Resueltas: **6684** — 4092 ganadas / 2592 perdidas (**61%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 647
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,192,175** sobre $380,005,266 apostados (ROI **-0.3%**)
+- **Resultado de los apostadores: -$1,192,175** sobre $380,032,825 apostados (ROI **-0.3%**)
 - Copiando $100 fijo en cada una: **-$4,344** sobre $659,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -32,9 +32,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
+| googleplay | 24 | 22 | 5 | 52% | $7,100,891 | -$319,839 |
 | ferrariChampions2026 | 105 | 57 | 1 | 65% | $7,042,218 | +$44,480 |
 | Lakersfan111 | 95 | 51 | 1 | 65% | $6,967,748 | +$420,713 |
-| googleplay | 24 | 22 | 3 | 52% | $6,964,147 | -$319,839 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Wizards vs. Hornets | Hornets | 1.67 (60¢) | $104,987 | — | ⏳ Pendiente |
+| googleplay | Wizards vs. Hornets: O/U 227.5 | Under 227.5 | 1.89 (53¢) | $31,757 | — | ⏳ Pendiente |
 | ethBELIVER | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | dromedaryy | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.41 (71¢) | $61,479 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Wizards | 2.50 (40¢) | $120,000 | — | ⏳ Pendiente |
@@ -85,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | illenial | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.64 (61¢) | $32,228 | — | ⏳ Pendiente |
 | Paracellus | Timberwolves vs. Cavaliers | Cavaliers | 1.75 (57¢) | $27,246 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.67 (60¢) | $132,000 | — | ⏳ Pendiente |
-| ropetard | Timberwolves vs. Cavaliers | Timberwolves | 2.44 (41¢) | $27,559 | — | ⏳ Pendiente |
+| ropetard | Timberwolves vs. Cavaliers | Timberwolves | 2.44 (41¢) | $27,559 | +$0 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
 | dromedaryy | Will Kylian Mbappé win the 2026 Ballon d'Or? | No | 1.30 (77¢) | $25,063 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend - Game 1 Winner | Team Liquid | 2.86 (35¢) | $28,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | TAIWANNUMBERONE | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $31,434 | +$4,287 | ✅ Ganada |
 | Jokerxing7 | Grizzlies vs. Kings: O/U 239.5 | Under 239.5 | 2.04 (49¢) | $27,222 | +$28,333 | ✅ Ganada |
 | Anon455 | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $26,100 | +$3,900 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Grizzlies vs. Kings | Grizzlies | 1.32 (76¢) | $25,522 | +$8,060 | ✅ Ganada |
-| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $49,637 | +$7,417 | ✅ Ganada |
