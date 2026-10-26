@@ -100449,5 +100449,35 @@
     "status": "pending",
     "ultimo_fill": 1792981081,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13574,
+    "timestamp": 1792981526,
+    "username": "Jokerxing7",
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "slug": "nba-mem-sac-2026-10-25-total-239pt5",
+    "title": "Grizzlies vs. Kings: O/U 239.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 27221.95,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1792981526,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13575,
+    "timestamp": 1792981580,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-kc-sea-2026-10-26",
+    "title": "Chiefs vs. Seahawks",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 31434.435999999998,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1792981580,
+    "fills": 1
   }
 ]

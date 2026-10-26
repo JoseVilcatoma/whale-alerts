@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 21:25:03 (hora de Perú)
+Actualizado: 2026-10-25 21:27:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6683**  ($379,868,659 en total)
+- Apuestas registradas: **6685**  ($379,927,316 en total)
 - Resueltas: **6622** — 4043 ganadas / 2579 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 41
 - Apostadores distintos: 643
 
 ### Balance
@@ -60,9 +60,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| TAIWANNUMBERONE | 38 | 17 | 0 | 69% | $2,086,612 | -$131,853 |
+| TAIWANNUMBERONE | 38 | 17 | 1 | 69% | $2,118,047 | -$131,853 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
-| Jokerxing7 | 13 | 21 | 0 | 38% | $1,921,271 | -$357,802 |
+| Jokerxing7 | 13 | 21 | 1 | 38% | $1,948,493 | -$357,802 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 
 _(mostrando los 40 de mayor monto, de 643 en total)_
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $31,434 | — | ⏳ Pendiente |
+| Jokerxing7 | Grizzlies vs. Kings: O/U 239.5 | Under 239.5 | 2.04 (49¢) | $27,222 | — | ⏳ Pendiente |
 | Anon455 | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $26,100 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Grizzlies vs. Kings | Grizzlies | 1.32 (76¢) | $25,522 | — | ⏳ Pendiente |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $49,637 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Zzzz87 | Spread: Timberwolves (-3.5) | Timberwolves | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | Siddhartha1 | Pacers vs. Nets | Pacers | 1.54 (65¢) | $32,641 | +$17,576 | ✅ Ganada |
 | TAIWANNUMBERONE | Broncos vs. Cardinals | Broncos | 1.12 (89¢) | $25,575 | +$3,161 | ✅ Ganada |
-| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $33,223 | +$11,673 | ✅ Ganada |
-| Woaifacai | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $52,986 | +$18,617 | ✅ Ganada |
