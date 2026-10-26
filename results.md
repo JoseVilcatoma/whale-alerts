@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 08:58:35 (hora de Perú)
+Actualizado: 2026-10-26 09:00:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6701**  ($380,651,629 en total)
+- Apuestas registradas: **6702**  ($380,679,629 en total)
 - Resueltas: **6671** — 4084 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 645
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 105 | 57 | 0 | 65% | $7,001,107 | +$44,480 |
 | googleplay | 24 | 22 | 0 | 52% | $6,849,314 | -$319,839 |
-| Lakersfan111 | 93 | 48 | 2 | 66% | $6,803,478 | +$493,916 |
+| Lakersfan111 | 93 | 48 | 3 | 66% | $6,831,478 | +$493,916 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 645 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Counter-Strike: Liquid vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.43 (70¢) | $28,000 | — | ⏳ Pendiente |
 | salgnklasf | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.56 (64¢) | $76,756 | — | ⏳ Pendiente |
 | MajorMalfunction | Will Lamine Yamal win the 2026 Ballon d'Or? | No | 1.11 (90¢) | $25,265 | — | ⏳ Pendiente |
 | dromedaryy | Will Lamine Yamal win the 2026 Ballon d'Or? | No | 1.11 (90¢) | $27,067 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 645 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $38,727 | +$38,727 | ✅ Ganada |
 | dhgreg | Spread: Thunder (-13.5) | Clippers | 2.44 (41¢) | $36,900 | +$53,100 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $33,434 | +$33,434 | ✅ Ganada |
-| ndb1 | Clippers vs. Thunder | Thunder | 1.11 (90¢) | $266,144 | +$29,572 | ✅ Ganada |
