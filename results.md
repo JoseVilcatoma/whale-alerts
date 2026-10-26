@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 19:01:52 (hora de Perú)
+Actualizado: 2026-10-25 19:03:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6652**  ($378,100,444 en total)
-- Resueltas: **6578** — 4016 ganadas / 2562 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Apuestas registradas: **6653**  ($378,151,754 en total)
+- Resueltas: **6581** — 4019 ganadas / 2562 perdidas (**61%** de acierto)
+- Pendientes: 50
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,862,023** sobre $374,146,884 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,981** sobre $648,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,834,658** sobre $374,260,914 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,909** sobre $648,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
 | BrotherObama | 47 | 51 | 3 | 48% | $4,425,789 | -$123,120 |
 | maz26 | 39 | 24 | 1 | 62% | $4,388,312 | +$613,668 |
-| Mooseborzoiii | 18 | 17 | 2 | 51% | $3,880,917 | +$599,793 |
+| Mooseborzoiii | 20 | 17 | 0 | 54% | $3,880,917 | +$617,658 |
 | Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Magic vs. Knicks | Knicks | 1.35 (74¢) | $51,310 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Nets | Pacers | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | sulumos | Pistons vs. 76ers | 76ers | 2.22 (45¢) | $39,690 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. 76ers | 76ers | 2.22 (45¢) | $86,482 | — | ⏳ Pendiente |
@@ -110,9 +111,9 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Thunder: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $25,015 | — | ⏳ Pendiente |
 | mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.79 (56¢) | $43,500 | — | ⏳ Pendiente |
 | ropetard | Raptors vs. Timberwolves | Timberwolves | 2.00 (50¢) | $80,558 | +$14,500 | 💰 Vendida antes |
-| ColdBlooded | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $40,500 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $33,530 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.25 (80¢) | $40,000 | — | ⏳ Pendiente |
+| ColdBlooded | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $40,500 | +$9,500 | ✅ Ganada |
+| Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $33,530 | +$7,865 | ✅ Ganada |
+| Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.25 (80¢) | $40,000 | +$10,000 | ✅ Ganada |
 | sinasinner | Will FC Barcelona vs. Real Madrid CF end in a draw? | Yes | 1.85 (54¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Raiders | Rams | 1.19 (84¢) | $132,532 | +$25,244 | ✅ Ganada |
 | ferrariChampions2026 | Packers vs. Lions | Lions | 1.33 (75¢) | $33,606 | +$11,202 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | thewatcherofall | Packers vs. Lions | Lions | 1.47 (68¢) | $49,442 | -$15,996 | 💰 Vendida antes |
 | TAIWANNUMBERONE | Rams vs. Raiders | Rams | 1.35 (74¢) | $29,833 | +$10,482 | ✅ Ganada |
 | EdZachary | Pacers vs. Nets | Nets | 3.03 (33¢) | $25,390 | — | ⏳ Pendiente |
-| milkteaboba | Broncos vs. Cardinals | Broncos | 1.35 (74¢) | $129,608 | +$45,538 | ✅ Ganada |
