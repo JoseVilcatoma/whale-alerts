@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 11:36:08 (hora de Perú)
+Actualizado: 2026-10-26 15:17:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6714**  ($381,168,499 en total)
-- Resueltas: **6671** — 4084 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **6676** — 4087 ganadas / 2589 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 646
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,088,201** sobre $379,387,429 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$4,392** sobre $657,900 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$1,064,953** sobre $379,605,176 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$4,426** sobre $658,400 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 105 | 57 | 1 | 65% | $7,042,218 | +$44,480 |
-| Lakersfan111 | 93 | 48 | 6 | 66% | $6,967,748 | +$493,916 |
+| Lakersfan111 | 95 | 49 | 3 | 66% | $6,967,748 | +$508,988 |
 | googleplay | 24 | 22 | 0 | 52% | $6,849,314 | -$319,839 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 |---|---|---|---|---|---|---|
 | ferrariChampions2026 | Kings vs. Rangers | Kings | 2.22 (45¢) | $41,111 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: G2 vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | G2 | 1.35 (74¢) | $34,331 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.56 (64¢) | $35,000 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.56 (64¢) | $35,000 | -$35,000 | ❌ Perdida |
 | RJW1 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $47,878 | — | ⏳ Pendiente |
 | Eugycom | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | ArielFilipino | Grizzlies vs. Jazz | Jazz | 1.92 (52¢) | $26,255 | — | ⏳ Pendiente |
@@ -83,18 +83,18 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 | 0x33b1…af25 | Will Paris Saint-Germain FC win on 2026-10-25? | Yes | 1.35 (74¢) | $31,095 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 1.37 (73¢) | $47,994 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: LOS vs Team Secret Whales (BO3) - Worlds Group Stage | Team Secret Whales | 1.47 (68¢) | $53,945 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Counter-Strike: Liquid vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.43 (70¢) | $28,000 | — | ⏳ Pendiente |
-| salgnklasf | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.56 (64¢) | $76,756 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Counter-Strike: Liquid vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.43 (70¢) | $28,000 | -$28,000 | ❌ Perdida |
+| salgnklasf | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.56 (64¢) | $76,756 | +$43,175 | ✅ Ganada |
 | MajorMalfunction | Will Lamine Yamal win the 2026 Ballon d'Or? | No | 1.11 (90¢) | $25,265 | — | ⏳ Pendiente |
 | dromedaryy | Will Lamine Yamal win the 2026 Ballon d'Or? | No | 1.11 (90¢) | $27,067 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.56 (64¢) | $44,800 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.56 (64¢) | $44,800 | +$25,200 | ✅ Ganada |
 | salgnklasf | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $83,466 | +$35,771 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: TheMongolz vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.32 (76¢) | $42,068 | +$13,285 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $42,000 | +$18,000 | ✅ Ganada |
 | norrisfan | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $30,600 | +$12,499 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $42,600 | +$17,400 | ✅ Ganada |
 | Woaifacai | Pan Pacific Open: Moyuka Uchijima vs Elise Mertens | Elise Mertens | 1.06 (94¢) | $37,953 | +$2,423 | ✅ Ganada |
-| jakepaulthegoat2008 | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.54 (65¢) | $33,192 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.54 (65¢) | $33,192 | +$17,872 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.08 (93¢) | $35,726 | +$2,689 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.14 (88¢) | $80,164 | +$10,931 | ✅ Ganada |
 | Noprajsk | Grizzlies vs. Kings | Kings | 2.27 (44¢) | $25,255 | -$25,255 | ❌ Perdida |
