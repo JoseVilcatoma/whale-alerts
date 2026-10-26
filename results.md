@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 20:51:45 (hora de Perú)
+Actualizado: 2026-10-25 20:53:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6679**  ($379,704,191 en total)
-- Resueltas: **6603** — 4033 ganadas / 2570 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Resueltas: **6607** — 4035 ganadas / 2572 perdidas (**61%** de acierto)
+- Pendientes: 50
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,903,185** sobre $375,739,490 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,661** sobre $651,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,885,583** sobre $376,071,735 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,673** sobre $651,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 478 | 257 | 9 | 65% | $48,521,678 | +$1,688,749 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 478 | 258 | 8 | 65% | $48,521,678 | +$1,584,426 |
 | Sassy-Bucket | 93 | 94 | 5 | 50% | $12,396,975 | -$1,393,191 |
 | mooseborzoii | 96 | 53 | 7 | 64% | $8,927,578 | +$966,146 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| Talvez10 | 27 | 22 | 1 | 55% | $2,335,861 | +$269,729 |
+| Talvez10 | 27 | 23 | 0 | 54% | $2,335,861 | +$220,729 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
@@ -122,7 +122,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.89 (53¢) | $118,388 | +$104,986 | ✅ Ganada |
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.96 (51¢) | $84,953 | +$81,621 | ✅ Ganada |
 | Zzzz87 | Raptors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $33,000 | — | ⏳ Pendiente |
-| Zzzz87 | Spread: Timberwolves (-3.5) | Timberwolves | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| Zzzz87 | Spread: Timberwolves (-3.5) | Timberwolves | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | Siddhartha1 | Pacers vs. Nets | Pacers | 1.54 (65¢) | $32,641 | +$17,576 | ✅ Ganada |
 | TAIWANNUMBERONE | Broncos vs. Cardinals | Broncos | 1.12 (89¢) | $25,575 | +$3,161 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $33,223 | +$11,673 | ✅ Ganada |
