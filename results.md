@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 16:01:30 (hora de Perú)
+Actualizado: 2026-10-26 16:03:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6721**  ($381,615,351 en total)
+- Apuestas registradas: **6723**  ($381,703,291 en total)
 - Resueltas: **6677** — 4087 ganadas / 2590 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 24
 - Apostadores distintos: 646
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
 | BrotherObama | 48 | 51 | 2 | 48% | $4,425,789 | -$98,120 |
 | maz26 | 39 | 25 | 0 | 61% | $4,388,312 | +$584,199 |
-| Mooseborzoiii | 20 | 17 | 1 | 54% | $4,051,386 | +$617,658 |
+| Mooseborzoiii | 20 | 17 | 2 | 54% | $4,079,386 | +$617,658 |
 | Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend - Game 1 Winner | Team Liquid | 2.86 (35¢) | $28,000 | — | ⏳ Pendiente |
+| 473game | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 1.35 (74¢) | $59,940 | — | ⏳ Pendiente |
 | dromedaryy | Will Kylian Mbappé win the 2026 Ballon d'Or? | No | 1.33 (75¢) | $48,422 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Harry Kane win the 2026 Ballon d'Or? | No | 4.35 (23¢) | $43,127 | — | ⏳ Pendiente |
 | flawfence | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.32 (76¢) | $74,583 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Kings | 2.56 (39¢) | $39,000 | -$39,000 | ❌ Perdida |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.64 (61¢) | $119,919 | +$76,670 | ✅ Ganada |
 | ferrariChampions2026 | Chiefs vs. Seahawks | Seahawks | 1.79 (56¢) | $25,902 | +$20,352 | ✅ Ganada |
-| kkookkoo | Chiefs vs. Seahawks | Seahawks | 1.69 (59¢) | $25,000 | +$17,373 | ✅ Ganada |
-| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $195,825 | +$141,804 | ✅ Ganada |
