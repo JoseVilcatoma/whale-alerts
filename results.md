@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 19:24:17 (hora de Perú)
+Actualizado: 2026-10-25 19:26:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6662**  ($378,864,911 en total)
+- Apuestas registradas: **6666**  ($378,999,964 en total)
 - Resueltas: **6581** — 4019 ganadas / 2562 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Pendientes: 63
 - Apostadores distintos: 643
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 474 | 256 | 11 | 65% | $48,349,738 | +$1,641,912 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 474 | 256 | 12 | 65% | $48,388,738 | +$1,641,912 |
 | Sassy-Bucket | 93 | 94 | 5 | 50% | $12,396,975 | -$1,393,191 |
 | mooseborzoii | 96 | 53 | 6 | 64% | $8,885,927 | +$966,146 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -32,9 +32,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 104 | 57 | 0 | 65% | $6,975,205 | +$24,128 |
+| ferrariChampions2026 | 104 | 57 | 1 | 65% | $7,001,107 | +$24,128 |
 | Lakersfan111 | 87 | 47 | 5 | 65% | $6,640,887 | +$370,926 |
-| googleplay | 17 | 21 | 4 | 45% | $6,582,502 | -$366,994 |
+| googleplay | 17 | 21 | 5 | 45% | $6,627,653 | -$366,994 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Kings | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
+| googleplay | Grizzlies vs. Kings | Grizzlies | 1.64 (61¢) | $45,151 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Chiefs vs. Seahawks | Seahawks | 1.79 (56¢) | $25,902 | — | ⏳ Pendiente |
+| kkookkoo | Chiefs vs. Seahawks | Seahawks | 1.69 (59¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $195,825 | — | ⏳ Pendiente |
 | mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.32 (76¢) | $25,562 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $116,000 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Raiders | Rams | 1.19 (84¢) | $132,532 | +$25,244 | ✅ Ganada |
 | ferrariChampions2026 | Packers vs. Lions | Lions | 1.33 (75¢) | $33,606 | +$11,202 | ✅ Ganada |
 | googleplay | Pacers vs. Nets: O/U 231.5 | Over 231.5 | 1.96 (51¢) | $27,966 | — | ⏳ Pendiente |
-| googleplay | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $350,623 | — | ⏳ Pendiente |
-| Flaznorp | FC Barcelona vs. Real Madrid CF: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $26,924 | +$25,869 | ✅ Ganada |
-| EdZachary | Grizzlies vs. Kings | Kings | 2.50 (40¢) | $31,027 | — | ⏳ Pendiente |
-| Eugycom | Pacers vs. Nets | Nets | 2.94 (34¢) | $28,246 | — | ⏳ Pendiente |
