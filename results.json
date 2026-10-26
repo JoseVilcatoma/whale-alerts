@@ -100779,5 +100779,20 @@
     "status": "pending",
     "ultimo_fill": 1793026502,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13647,
+    "timestamp": 1793027126,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "mlb-mil-tb-2026-10-26",
+    "title": "Milwaukee Brewers vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 44462.9985,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793027126,
+    "fills": 1
   }
 ]
