@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 18:56:13 (hora de Perú)
+Actualizado: 2026-10-26 18:58:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6760**  ($383,786,216 en total)
+- Apuestas registradas: **6761**  ($383,847,816 en total)
 - Resueltas: **6691** — 4096 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 647
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 481 | 264 | 10 | 65% | $49,257,808 | +$1,338,540 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 481 | 264 | 11 | 65% | $49,319,408 | +$1,338,540 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
 | mooseborzoii | 103 | 53 | 3 | 66% | $9,057,960 | +$1,293,210 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-6.5) | Thunder | 1.79 (56¢) | $61,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Bucks | Bucks | 2.44 (41¢) | $28,818 | — | ⏳ Pendiente |
 | ic4cream | Pacers vs. Bucks | Pacers | 1.69 (59¢) | $41,470 | — | ⏳ Pendiente |
 | yabanci | Spread: Pacers (-3.5) | Pacers | 2.04 (49¢) | $52,430 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | jakepaulthegoat2008 | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 1.37 (73¢) | $47,994 | -$47,994 | ❌ Perdida |
 | jakepaulthegoat2008 | LoL: LOS vs Team Secret Whales (BO3) - Worlds Group Stage | Team Secret Whales | 1.47 (68¢) | $53,945 | -$53,945 | ❌ Perdida |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.43 (70¢) | $28,000 | -$28,000 | ❌ Perdida |
-| salgnklasf | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.56 (64¢) | $76,756 | +$43,175 | ✅ Ganada |
