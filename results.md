@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 18:37:31 (hora de Perú)
+Actualizado: 2026-10-26 18:39:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6751**  ($383,170,619 en total)
-- Resueltas: **6684** — 4092 ganadas / 2592 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Resueltas: **6686** — 4094 ganadas / 2592 perdidas (**61%** de acierto)
+- Pendientes: 43
 - Apostadores distintos: 647
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,192,175** sobre $380,032,825 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$4,344** sobre $659,100 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$1,065,975** sobre $380,126,625 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$4,046** sobre $659,300 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
 | BrotherObama | 48 | 51 | 2 | 48% | $4,425,789 | -$98,120 |
 | maz26 | 39 | 25 | 0 | 61% | $4,388,312 | +$584,199 |
-| Mooseborzoiii | 20 | 18 | 3 | 53% | $4,277,186 | +$447,189 |
+| Mooseborzoiii | 22 | 18 | 1 | 55% | $4,277,186 | +$573,389 |
 | Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -92,14 +92,14 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $57,833 | — | ⏳ Pendiente |
 | 0x33b1…af25 | Suns vs. Thunder | Thunder | 1.32 (76¢) | $41,944 | — | ⏳ Pendiente |
 | Baronen11 | Timberwolves vs. Cavaliers | Cavaliers | 1.72 (58¢) | $32,932 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend - Game 2 Winner | Team Liquid | 2.13 (47¢) | $65,800 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend - Game 2 Winner | Team Liquid | 2.13 (47¢) | $65,800 | +$74,200 | ✅ Ganada |
 | illenial | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.64 (61¢) | $32,228 | — | ⏳ Pendiente |
 | Paracellus | Timberwolves vs. Cavaliers | Cavaliers | 1.75 (57¢) | $27,246 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.67 (60¢) | $132,000 | — | ⏳ Pendiente |
 | ropetard | Timberwolves vs. Cavaliers | Timberwolves | 2.44 (41¢) | $27,559 | +$0 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
 | dromedaryy | Will Kylian Mbappé win the 2026 Ballon d'Or? | No | 1.30 (77¢) | $25,063 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend - Game 1 Winner | Team Liquid | 2.86 (35¢) | $28,000 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend - Game 1 Winner | Team Liquid | 2.86 (35¢) | $28,000 | +$52,000 | ✅ Ganada |
 | 473game | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 1.35 (74¢) | $59,940 | — | ⏳ Pendiente |
 | dromedaryy | Will Kylian Mbappé win the 2026 Ballon d'Or? | No | 1.33 (75¢) | $48,422 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Harry Kane win the 2026 Ballon d'Or? | No | 4.35 (23¢) | $43,127 | — | ⏳ Pendiente |
