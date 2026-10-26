@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 19:51:19 (hora de Perú)
+Actualizado: 2026-10-25 19:53:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6672**  ($379,330,751 en total)
-- Resueltas: **6582** — 4020 ganadas / 2562 perdidas (**61%** de acierto)
-- Pendientes: 68
+- Resueltas: **6587** — 4023 ganadas / 2564 perdidas (**61%** de acierto)
+- Pendientes: 63
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,807,789** sobre $374,288,880 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,813** sobre $649,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,828,800** sobre $374,443,715 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,916** sobre $649,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 474 | 256 | 12 | 65% | $48,388,738 | +$1,641,912 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 475 | 256 | 11 | 65% | $48,388,738 | +$1,650,912 |
 | Sassy-Bucket | 93 | 94 | 5 | 50% | $12,396,975 | -$1,393,191 |
 | mooseborzoii | 96 | 53 | 7 | 64% | $8,927,578 | +$966,146 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -91,10 +91,10 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | keeptheblueflagflyinghigh | Magic vs. Knicks | Knicks | 1.30 (77¢) | $25,877 | — | ⏳ Pendiente |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $61,657 | — | ⏳ Pendiente |
 | Woaifacai | Magic vs. Knicks | Knicks | 1.35 (74¢) | $51,310 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Nets | Pacers | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Nets | Pacers | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | sulumos | Pistons vs. 76ers | 76ers | 2.22 (45¢) | $39,690 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. 76ers | 76ers | 2.22 (45¢) | $86,482 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Pacers vs. Nets | Pacers | 1.22 (82¢) | $27,558 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Pacers vs. Nets | Pacers | 1.22 (82¢) | $27,558 | +$6,049 | ✅ Ganada |
 | Siddhartha1 | Pistons vs. 76ers | Pistons | 1.85 (54¢) | $26,881 | — | ⏳ Pendiente |
 | mooseborzoii | Packers vs. Lions | Lions | 1.52 (66¢) | $25,631 | +$13,204 | ✅ Ganada |
 | Jokerxing7 | Spread: Thunder (-16.5) | Thunder | 1.92 (52¢) | $33,539 | — | ⏳ Pendiente |
@@ -116,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.96 (51¢) | $84,953 | — | ⏳ Pendiente |
 | Zzzz87 | Raptors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $33,000 | — | ⏳ Pendiente |
 | Zzzz87 | Spread: Timberwolves (-3.5) | Timberwolves | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
-| Siddhartha1 | Pacers vs. Nets | Pacers | 1.54 (65¢) | $32,641 | — | ⏳ Pendiente |
+| Siddhartha1 | Pacers vs. Nets | Pacers | 1.54 (65¢) | $32,641 | +$17,576 | ✅ Ganada |
 | TAIWANNUMBERONE | Broncos vs. Cardinals | Broncos | 1.12 (89¢) | $25,575 | +$3,161 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $33,223 | +$11,673 | ✅ Ganada |
 | Woaifacai | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $52,986 | +$18,617 | ✅ Ganada |
