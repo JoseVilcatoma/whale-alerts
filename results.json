@@ -100689,5 +100689,20 @@
     "status": "pending",
     "ultimo_fill": 1793010867,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13641,
+    "timestamp": 1793018140,
+    "username": "MajorMalfunction",
+    "wallet": "0x5cd3f7060163d2dce795a9405d47ae2e16087a5a",
+    "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
+    "title": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25265.292250000002,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1793018140,
+    "fills": 1
   }
 ]
