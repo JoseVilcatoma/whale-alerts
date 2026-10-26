@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 22:34:18 (hora de Perú)
+Actualizado: 2026-10-25 22:36:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6690**  ($380,165,863 en total)
-- Resueltas: **6632** — 4049 ganadas / 2583 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **6646** — 4063 ganadas / 2583 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,021,128** sobre $377,316,452 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,825** sobre $654,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,488,817** sobre $378,246,954 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$5,150** sobre $655,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,14 +25,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 478 | 261 | 7 | 65% | $48,637,568 | +$1,415,679 |
-| Sassy-Bucket | 94 | 94 | 4 | 50% | $12,396,975 | -$1,358,763 |
-| mooseborzoii | 99 | 53 | 5 | 65% | $8,977,216 | +$1,063,860 |
+| Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
+| mooseborzoii | 103 | 53 | 1 | 66% | $8,977,216 | +$1,293,210 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 104 | 57 | 1 | 65% | $7,001,107 | +$24,128 |
+| ferrariChampions2026 | 105 | 57 | 0 | 65% | $7,001,107 | +$44,480 |
 | googleplay | 20 | 22 | 4 | 48% | $6,849,314 | -$504,140 |
 | Lakersfan111 | 89 | 48 | 2 | 65% | $6,640,887 | +$387,132 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 9 | 1 | 61% | $2,310,389 | +$133,412 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| TAIWANNUMBERONE | 38 | 17 | 1 | 69% | $2,118,047 | -$131,853 |
+| TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | Jokerxing7 | 13 | 21 | 1 | 38% | $1,948,493 | -$357,802 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
@@ -74,15 +74,15 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.08 (93¢) | $35,726 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.14 (88¢) | $80,164 | — | ⏳ Pendiente |
 | Noprajsk | Grizzlies vs. Kings | Kings | 2.27 (44¢) | $25,255 | — | ⏳ Pendiente |
-| Woaifacai | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $45,760 | — | ⏳ Pendiente |
+| Woaifacai | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $45,760 | +$6,240 | ✅ Ganada |
 | KaneAnalytics | Grizzlies vs. Kings | Grizzlies | 1.28 (78¢) | $51,641 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $31,434 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $31,434 | +$4,287 | ✅ Ganada |
 | Jokerxing7 | Grizzlies vs. Kings: O/U 239.5 | Under 239.5 | 2.04 (49¢) | $27,222 | — | ⏳ Pendiente |
-| Anon455 | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $26,100 | — | ⏳ Pendiente |
+| Anon455 | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $26,100 | +$3,900 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Grizzlies vs. Kings | Grizzlies | 1.32 (76¢) | $25,522 | — | ⏳ Pendiente |
-| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $49,637 | — | ⏳ Pendiente |
-| Soarin22 | Chiefs vs. Seahawks | Seahawks | 1.20 (83¢) | $63,208 | — | ⏳ Pendiente |
-| FlamePyro | Chiefs vs. Seahawks | Seahawks | 1.10 (91¢) | $29,393 | — | ⏳ Pendiente |
+| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $49,637 | +$7,417 | ✅ Ganada |
+| Soarin22 | Chiefs vs. Seahawks | Seahawks | 1.20 (83¢) | $63,208 | +$12,946 | ✅ Ganada |
+| FlamePyro | Chiefs vs. Seahawks | Seahawks | 1.10 (91¢) | $29,393 | +$2,907 | ✅ Ganada |
 | Woaifacai | Pistons vs. 76ers | Pistons | 1.28 (78¢) | $106,345 | +$29,995 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Pistons vs. 76ers | Pistons | 1.32 (76¢) | $25,499 | +$8,052 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Clippers vs. Thunder | Thunder | 1.06 (94¢) | $94,940 | +$6,060 | ✅ Ganada |
@@ -90,24 +90,24 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Canucks | Wild | 1.54 (65¢) | $49,312 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Kings | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Pistons vs. 76ers | Pistons | 1.32 (76¢) | $25,541 | +$8,066 | ✅ Ganada |
-| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.85 (54¢) | $41,651 | — | ⏳ Pendiente |
+| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.85 (54¢) | $41,651 | +$35,480 | ✅ Ganada |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $64,496 | — | ⏳ Pendiente |
-| KaneAnalytics | Chiefs vs. Seahawks | Seahawks | 1.67 (60¢) | $41,934 | — | ⏳ Pendiente |
+| KaneAnalytics | Chiefs vs. Seahawks | Seahawks | 1.67 (60¢) | $41,934 | +$27,956 | ✅ Ganada |
 | googleplay | Spread: Grizzlies (-3.5) | Grizzlies | 1.96 (51¢) | $57,196 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Kings | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.64 (61¢) | $119,919 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Chiefs vs. Seahawks | Seahawks | 1.79 (56¢) | $25,902 | — | ⏳ Pendiente |
-| kkookkoo | Chiefs vs. Seahawks | Seahawks | 1.69 (59¢) | $25,000 | — | ⏳ Pendiente |
-| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $195,825 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Chiefs vs. Seahawks | Seahawks | 1.79 (56¢) | $25,902 | +$20,352 | ✅ Ganada |
+| kkookkoo | Chiefs vs. Seahawks | Seahawks | 1.69 (59¢) | $25,000 | +$17,373 | ✅ Ganada |
+| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $195,825 | +$141,804 | ✅ Ganada |
 | mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.32 (76¢) | $25,562 | +$8,072 | ✅ Ganada |
-| Sassy-Bucket | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $116,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $116,000 | +$84,000 | ✅ Ganada |
 | KaneAnalytics | Pistons vs. 76ers | Pistons | 1.41 (71¢) | $27,686 | +$11,308 | ✅ Ganada |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $36,000 | — | ⏳ Pendiente |
-| Sassy-Bucket | Chiefs vs. Seahawks | Seahawks | 1.69 (59¢) | $177,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Chiefs vs. Seahawks | Seahawks | 1.69 (59¢) | $177,000 | +$123,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Magic vs. Knicks | Knicks | 1.30 (77¢) | $47,549 | -$47,549 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Magic vs. Knicks | Knicks | 1.30 (77¢) | $25,877 | -$25,877 | ❌ Perdida |
-| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $61,657 | — | ⏳ Pendiente |
+| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $61,657 | +$44,648 | ✅ Ganada |
 | Woaifacai | Magic vs. Knicks | Knicks | 1.35 (74¢) | $51,310 | -$51,310 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Nets | Pacers | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | sulumos | Pistons vs. 76ers | 76ers | 2.22 (45¢) | $39,690 | -$39,690 | ❌ Perdida |
