@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 19:14:07 (hora de Perú)
+Actualizado: 2026-10-25 19:16:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6659**  ($378,527,524 en total)
+- Apuestas registradas: **6661**  ($378,669,086 en total)
 - Resueltas: **6581** — 4019 ganadas / 2562 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 58
 - Apostadores distintos: 643
 
 ### Balance
@@ -25,8 +25,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 474 | 256 | 11 | 65% | $48,349,738 | +$1,641,912 |
-| Sassy-Bucket | 93 | 94 | 4 | 50% | $12,280,975 | -$1,393,191 |
-| mooseborzoii | 96 | 53 | 4 | 64% | $8,664,540 | +$966,146 |
+| Sassy-Bucket | 93 | 94 | 5 | 50% | $12,396,975 | -$1,393,191 |
+| mooseborzoii | 96 | 53 | 5 | 64% | $8,690,102 | +$966,146 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.32 (76¢) | $25,562 | — | ⏳ Pendiente |
+| Sassy-Bucket | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $116,000 | — | ⏳ Pendiente |
 | KaneAnalytics | Pistons vs. 76ers | Pistons | 1.41 (71¢) | $27,686 | — | ⏳ Pendiente |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $36,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chiefs vs. Seahawks | Seahawks | 1.69 (59¢) | $177,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | EdZachary | Grizzlies vs. Kings | Kings | 2.50 (40¢) | $31,027 | — | ⏳ Pendiente |
 | Eugycom | Pacers vs. Nets | Nets | 2.94 (34¢) | $28,246 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.25 (80¢) | $52,396 | -$52,396 | ❌ Perdida |
-| cs2.quant | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.23 (81¢) | $29,697 | -$29,697 | ❌ Perdida |
-| halanddd123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $201,263 | -$59,066 | 💰 Vendida antes |
