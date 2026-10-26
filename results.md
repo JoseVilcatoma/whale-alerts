@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 02:11:00 (hora de Perú)
+Actualizado: 2026-10-26 02:13:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6695**  ($380,352,207 en total)
-- Resueltas: **6665** — 4078 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **6666** — 4079 ganadas / 2587 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,187,577** sobre $379,108,742 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$4,597** sobre $657,300 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$1,185,155** sobre $379,146,695 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$4,591** sobre $657,400 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $42,000 | — | ⏳ Pendiente |
 | norrisfan | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $30,600 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $42,600 | — | ⏳ Pendiente |
-| Woaifacai | Pan Pacific Open: Moyuka Uchijima vs Elise Mertens | Elise Mertens | 1.06 (94¢) | $37,953 | — | ⏳ Pendiente |
+| Woaifacai | Pan Pacific Open: Moyuka Uchijima vs Elise Mertens | Elise Mertens | 1.06 (94¢) | $37,953 | +$2,423 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.54 (65¢) | $33,192 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.08 (93¢) | $35,726 | +$2,689 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.14 (88¢) | $80,164 | +$10,931 | ✅ Ganada |
