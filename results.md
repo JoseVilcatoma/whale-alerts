@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 16:43:24 (hora de Perú)
+Actualizado: 2026-10-26 16:45:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6727**  ($381,837,912 en total)
+- Apuestas registradas: **6729**  ($381,987,386 en total)
 - Resueltas: **6683** — 4091 ganadas / 2592 perdidas (**61%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 646
+- Pendientes: 24
+- Apostadores distintos: 647
 
 ### Balance
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
 | BrotherObama | 48 | 51 | 2 | 48% | $4,425,789 | -$98,120 |
 | maz26 | 39 | 25 | 0 | 61% | $4,388,312 | +$584,199 |
-| Mooseborzoiii | 20 | 18 | 2 | 53% | $4,121,386 | +$447,189 |
+| Mooseborzoiii | 20 | 18 | 2 | 53% | $4,211,386 | +$447,189 |
 | Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -65,13 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jokerxing7 | 14 | 21 | 0 | 40% | $1,948,493 | -$329,469 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 
-_(mostrando los 40 de mayor monto, de 646 en total)_
+_(mostrando los 40 de mayor monto, de 647 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.67 (60¢) | $42,000 | — | ⏳ Pendiente |
+| illenial | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.64 (61¢) | $32,228 | — | ⏳ Pendiente |
+| Paracellus | Timberwolves vs. Cavaliers | Cavaliers | 1.75 (57¢) | $27,246 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.67 (60¢) | $132,000 | — | ⏳ Pendiente |
 | ropetard | Timberwolves vs. Cavaliers | Timberwolves | 2.44 (41¢) | $27,559 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
 | dromedaryy | Will Kylian Mbappé win the 2026 Ballon d'Or? | No | 1.30 (77¢) | $25,063 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 | keeptheblueflagflyinghigh | Pistons vs. 76ers | Pistons | 1.32 (76¢) | $25,541 | +$8,066 | ✅ Ganada |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.85 (54¢) | $41,651 | +$35,480 | ✅ Ganada |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
-| googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $64,496 | +$37,879 | ✅ Ganada |
-| KaneAnalytics | Chiefs vs. Seahawks | Seahawks | 1.67 (60¢) | $41,934 | +$27,956 | ✅ Ganada |

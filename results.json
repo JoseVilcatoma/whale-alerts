@@ -101104,10 +101104,40 @@
     "title": "LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "usd": 42000.0,
+    "usd": 132000.0,
     "odds_at_bet": 60,
     "status": "pending",
-    "ultimo_fill": 1793050979,
+    "ultimo_fill": 1793051033,
+    "fills": 3
+  },
+  {
+    "telegram_msg_id": 13682,
+    "timestamp": 1793051045,
+    "username": "Paracellus",
+    "wallet": "0xa8a53259e60402b0001953f49f66ccb47d35122b",
+    "slug": "nba-min-cle-2026-10-26",
+    "title": "Timberwolves vs. Cavaliers",
+    "outcome": "Cavaliers",
+    "side": "BUY",
+    "usd": 27245.999999999996,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1793051045,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13683,
+    "timestamp": 1793051047,
+    "username": "illenial",
+    "wallet": "0x36a4978843cb404ce522a6183ba779174ccfb736",
+    "slug": "lol-tl2-al-2026-10-26",
+    "title": "LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 32228.139999000003,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1793051047,
     "fills": 1
   }
 ]
