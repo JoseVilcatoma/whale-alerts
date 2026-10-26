@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 15:18:58 (hora de Perú)
+Actualizado: 2026-10-26 15:21:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6714**  ($381,168,499 en total)
+- Apuestas registradas: **6719**  ($381,523,802 en total)
 - Resueltas: **6676** — 4087 ganadas / 2589 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 21
 - Apostadores distintos: 646
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 480 | 263 | 3 | 65% | $48,637,568 | +$1,352,300 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 480 | 263 | 4 | 65% | $48,682,249 | +$1,352,300 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
 | mooseborzoii | 103 | 53 | 2 | 66% | $9,021,679 | +$1,293,210 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
 | BrotherObama | 48 | 51 | 2 | 48% | $4,425,789 | -$98,120 |
 | maz26 | 39 | 25 | 0 | 61% | $4,388,312 | +$584,199 |
-| Mooseborzoiii | 20 | 17 | 0 | 54% | $3,880,917 | +$617,658 |
+| Mooseborzoiii | 20 | 17 | 1 | 54% | $4,051,386 | +$617,658 |
 | Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -71,6 +71,11 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| flawfence | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.32 (76¢) | $74,583 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LOS vs Team Secret Whales (BO3) - Worlds Group Stage | LOS | 1.59 (63¢) | $44,680 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: LOS vs Team Secret Whales - Game 2 Winner | Team Secret Whales | 1.67 (60¢) | $170,469 | — | ⏳ Pendiente |
+| PEYZ-BIGGEST-FAN | LoL: LOS vs Team Secret Whales - Game 2 Winner | LOS | 2.44 (41¢) | $36,900 | — | ⏳ Pendiente |
+| zb8 | LoL: LOS vs Team Secret Whales - Game 2 Winner | LOS | 2.44 (41¢) | $28,670 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Kings vs. Rangers | Kings | 2.22 (45¢) | $41,111 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: G2 vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | G2 | 1.35 (74¢) | $34,331 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.56 (64¢) | $35,000 | -$35,000 | ❌ Perdida |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $195,825 | +$141,804 | ✅ Ganada |
 | mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.32 (76¢) | $25,562 | +$8,072 | ✅ Ganada |
 | Sassy-Bucket | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $116,000 | +$84,000 | ✅ Ganada |
-| KaneAnalytics | Pistons vs. 76ers | Pistons | 1.41 (71¢) | $27,686 | +$11,308 | ✅ Ganada |
-| 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Grizzlies vs. Kings | Grizzlies | 1.67 (60¢) | $36,000 | +$24,000 | ✅ Ganada |
-| Sassy-Bucket | Chiefs vs. Seahawks | Seahawks | 1.69 (59¢) | $177,000 | +$123,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Magic vs. Knicks | Knicks | 1.30 (77¢) | $47,549 | -$47,549 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Magic vs. Knicks | Knicks | 1.30 (77¢) | $25,877 | -$25,877 | ❌ Perdida |
