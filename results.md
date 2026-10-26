@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 19:07:59 (hora de Perú)
+Actualizado: 2026-10-25 19:09:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6654**  ($378,213,412 en total)
+- Apuestas registradas: **6656**  ($378,286,838 en total)
 - Resueltas: **6581** — 4019 ganadas / 2562 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 53
 - Apostadores distintos: 643
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 474 | 256 | 10 | 65% | $48,302,189 | +$1,641,912 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 474 | 256 | 11 | 65% | $48,349,738 | +$1,641,912 |
 | Sassy-Bucket | 93 | 94 | 3 | 50% | $12,103,975 | -$1,393,191 |
 | mooseborzoii | 96 | 53 | 4 | 64% | $8,664,540 | +$966,146 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Magic vs. Knicks | Knicks | 1.30 (77¢) | $47,549 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Magic vs. Knicks | Knicks | 1.30 (77¢) | $25,877 | — | ⏳ Pendiente |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $61,657 | — | ⏳ Pendiente |
 | Woaifacai | Magic vs. Knicks | Knicks | 1.35 (74¢) | $51,310 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Nets | Pacers | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | jakepaulthegoat2008 | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $30,600 | +$14,400 | ✅ Ganada |
 | 473game | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $26,336 | +$2,290 | ✅ Ganada |
 | goweibo123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $30,666 | +$2,667 | ✅ Ganada |
-| thewatcherofall | Packers vs. Lions | Lions | 1.47 (68¢) | $49,442 | -$15,996 | 💰 Vendida antes |
-| TAIWANNUMBERONE | Rams vs. Raiders | Rams | 1.35 (74¢) | $29,833 | +$10,482 | ✅ Ganada |
