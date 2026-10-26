@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 22:05:20 (hora de Perú)
+Actualizado: 2026-10-25 22:07:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6687**  ($380,024,717 en total)
+- Apuestas registradas: **6688**  ($380,049,972 en total)
 - Resueltas: **6632** — 4049 ganadas / 2583 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 643
 
 ### Balance
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | Talvez10 | 27 | 23 | 0 | 54% | $2,335,861 | +$220,729 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
+| Noprajsk | 14 | 9 | 1 | 61% | $2,310,389 | +$133,412 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| Noprajsk | 14 | 9 | 0 | 61% | $2,285,134 | +$133,412 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 38 | 17 | 1 | 69% | $2,118,047 | -$131,853 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Noprajsk | Grizzlies vs. Kings | Kings | 2.27 (44¢) | $25,255 | — | ⏳ Pendiente |
 | Woaifacai | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $45,760 | — | ⏳ Pendiente |
 | KaneAnalytics | Grizzlies vs. Kings | Grizzlies | 1.28 (78¢) | $51,641 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $31,434 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.89 (53¢) | $118,388 | +$104,986 | ✅ Ganada |
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.96 (51¢) | $84,953 | +$81,621 | ✅ Ganada |
 | Zzzz87 | Raptors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $33,000 | +$22,000 | ✅ Ganada |
-| Zzzz87 | Spread: Timberwolves (-3.5) | Timberwolves | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
