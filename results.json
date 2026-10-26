@@ -101139,5 +101139,35 @@
     "status": "pending",
     "ultimo_fill": 1793051047,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13684,
+    "timestamp": 1793051669,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "lol-tl2-al-2026-10-26-game2",
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 65800.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1793051720,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 13685,
+    "timestamp": 1793051702,
+    "username": "Baronen11",
+    "wallet": "0xb8bafc68fee1a04be137731aa91032a96af1da22",
+    "slug": "nba-min-cle-2026-10-26",
+    "title": "Timberwolves vs. Cavaliers",
+    "outcome": "Cavaliers",
+    "side": "BUY",
+    "usd": 32932.2144,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1793051702,
+    "fills": 1
   }
 ]

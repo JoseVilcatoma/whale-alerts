@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 16:53:27 (hora de Perú)
+Actualizado: 2026-10-26 16:55:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6729**  ($381,987,386 en total)
+- Apuestas registradas: **6731**  ($382,086,119 en total)
 - Resueltas: **6683** — 4091 ganadas / 2592 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 26
 - Apostadores distintos: 647
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
 | BrotherObama | 48 | 51 | 2 | 48% | $4,425,789 | -$98,120 |
 | maz26 | 39 | 25 | 0 | 61% | $4,388,312 | +$584,199 |
-| Mooseborzoiii | 20 | 18 | 2 | 53% | $4,211,386 | +$447,189 |
+| Mooseborzoiii | 20 | 18 | 3 | 53% | $4,277,186 | +$447,189 |
 | Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Baronen11 | Timberwolves vs. Cavaliers | Cavaliers | 1.72 (58¢) | $32,932 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend - Game 2 Winner | Team Liquid | 2.13 (47¢) | $65,800 | — | ⏳ Pendiente |
 | illenial | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.64 (61¢) | $32,228 | — | ⏳ Pendiente |
 | Paracellus | Timberwolves vs. Cavaliers | Cavaliers | 1.75 (57¢) | $27,246 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.67 (60¢) | $132,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Canucks | Wild | 1.54 (65¢) | $49,312 | +$26,552 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Kings | 2.63 (38¢) | $38,000 | -$38,000 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Pistons vs. 76ers | Pistons | 1.32 (76¢) | $25,541 | +$8,066 | ✅ Ganada |
-| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.85 (54¢) | $41,651 | +$35,480 | ✅ Ganada |
-| googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
