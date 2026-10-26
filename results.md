@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 23:49:59 (hora de Perú)
+Actualizado: 2026-10-25 23:52:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6690**  ($380,165,863 en total)
-- Resueltas: **6663** — 4076 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **6665** — 4078 ganadas / 2587 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,253,835** sobre $379,029,477 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$4,784** sobre $657,100 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$1,187,577** sobre $379,108,742 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$4,597** sobre $657,300 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -86,8 +86,8 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Woaifacai | Pistons vs. 76ers | Pistons | 1.28 (78¢) | $106,345 | +$29,995 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Pistons vs. 76ers | Pistons | 1.32 (76¢) | $25,499 | +$8,052 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Clippers vs. Thunder | Thunder | 1.06 (94¢) | $94,940 | +$6,060 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Wild (-1.5) | Wild | 2.33 (43¢) | $29,953 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Canucks | Wild | 1.54 (65¢) | $49,312 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Wild (-1.5) | Wild | 2.33 (43¢) | $29,953 | +$39,705 | ✅ Ganada |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Canucks | Wild | 1.54 (65¢) | $49,312 | +$26,552 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Kings | 2.63 (38¢) | $38,000 | -$38,000 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Pistons vs. 76ers | Pistons | 1.32 (76¢) | $25,541 | +$8,066 | ✅ Ganada |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.85 (54¢) | $41,651 | +$35,480 | ✅ Ganada |
