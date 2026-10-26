@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 17:59:07 (hora de Perú)
+Actualizado: 2026-10-26 18:01:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6745**  ($382,773,966 en total)
+- Apuestas registradas: **6746**  ($382,799,080 en total)
 - Resueltas: **6684** — 4092 ganadas / 2592 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 647
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 481 | 263 | 6 | 65% | $48,885,376 | +$1,378,540 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 481 | 263 | 7 | 65% | $48,910,490 | +$1,378,540 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
 | mooseborzoii | 103 | 53 | 2 | 66% | $9,021,679 | +$1,293,210 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Hornets | 1.72 (58¢) | $25,114 | — | ⏳ Pendiente |
 | juice-fruit | Wizards vs. Hornets | Wizards | 2.44 (41¢) | $31,761 | — | ⏳ Pendiente |
 | Elaran1993 | Mavericks vs. Heat: O/U 239.5 | Over 239.5 | 1.89 (53¢) | $37,094 | — | ⏳ Pendiente |
 | dhgreg | Timberwolves vs. Cavaliers | Cavaliers | 1.69 (59¢) | $25,080 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.14 (88¢) | $80,164 | +$10,931 | ✅ Ganada |
 | Noprajsk | Grizzlies vs. Kings | Kings | 2.27 (44¢) | $25,255 | -$25,255 | ❌ Perdida |
 | Woaifacai | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $45,760 | +$6,240 | ✅ Ganada |
-| KaneAnalytics | Grizzlies vs. Kings | Grizzlies | 1.28 (78¢) | $51,641 | +$14,566 | ✅ Ganada |
