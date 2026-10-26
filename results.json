@@ -100899,5 +100899,20 @@
     "status": "pending",
     "ultimo_fill": 1793031889,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13655,
+    "timestamp": 1793032417,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nhl-lak-nyr-2026-10-26",
+    "title": "Kings vs. Rangers",
+    "outcome": "Kings",
+    "side": "BUY",
+    "usd": 41110.645500000006,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1793032417,
+    "fills": 1
   }
 ]
