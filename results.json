@@ -100239,5 +100239,20 @@
     "status": "pending",
     "ultimo_fill": 1792974788,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13519,
+    "timestamp": 1792975063,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-mem-sac-2026-10-25",
+    "title": "Grizzlies vs. Kings",
+    "outcome": "Grizzlies",
+    "side": "BUY",
+    "usd": 25200.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1792975063,
+    "fills": 1
   }
 ]

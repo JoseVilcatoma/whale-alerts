@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 19:36:40 (hora de Perú)
+Actualizado: 2026-10-25 19:38:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6669**  ($379,238,358 en total)
+- Apuestas registradas: **6670**  ($379,263,558 en total)
 - Resueltas: **6581** — 4019 ganadas / 2562 perdidas (**61%** de acierto)
-- Pendientes: 66
+- Pendientes: 67
 - Apostadores distintos: 643
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 104 | 57 | 1 | 65% | $7,001,107 | +$24,128 |
-| googleplay | 17 | 21 | 7 | 45% | $6,824,114 | -$366,994 |
+| googleplay | 17 | 21 | 8 | 45% | $6,849,314 | -$366,994 |
 | Lakersfan111 | 87 | 47 | 5 | 65% | $6,640,887 | +$370,926 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $64,496 | — | ⏳ Pendiente |
 | KaneAnalytics | Chiefs vs. Seahawks | Seahawks | 1.67 (60¢) | $41,934 | — | ⏳ Pendiente |
 | googleplay | Spread: Grizzlies (-3.5) | Grizzlies | 1.96 (51¢) | $57,196 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | ColdBlooded | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $40,500 | +$9,500 | ✅ Ganada |
 | Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $33,530 | +$7,865 | ✅ Ganada |
 | Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.25 (80¢) | $40,000 | +$10,000 | ✅ Ganada |
-| sinasinner | Will FC Barcelona vs. Real Madrid CF end in a draw? | Yes | 1.85 (54¢) | $25,000 | -$25,000 | ❌ Perdida |
