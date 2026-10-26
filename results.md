@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 18:39:34 (hora de Perú)
+Actualizado: 2026-10-26 18:41:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6751**  ($383,170,619 en total)
+- Apuestas registradas: **6752**  ($383,201,639 en total)
 - Resueltas: **6686** — 4094 ganadas / 2592 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 647
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Wizards vs. Hornets | Wizards | 2.17 (46¢) | $31,020 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Bucks | Pacers | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
 | dhgreg | Mavericks vs. Heat | Heat | 1.39 (72¢) | $144,000 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Heat (-7.5) | Heat | 2.00 (50¢) | $36,281 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $42,000 | +$18,000 | ✅ Ganada |
 | norrisfan | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $30,600 | +$12,499 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $42,600 | +$17,400 | ✅ Ganada |
-| Woaifacai | Pan Pacific Open: Moyuka Uchijima vs Elise Mertens | Elise Mertens | 1.06 (94¢) | $37,953 | +$2,423 | ✅ Ganada |

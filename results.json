@@ -101471,5 +101471,20 @@
     "status": "pending",
     "ultimo_fill": 1793057710,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13709,
+    "timestamp": 1793058062,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "nba-was-cha-2026-10-26",
+    "title": "Wizards vs. Hornets",
+    "outcome": "Wizards",
+    "side": "BUY",
+    "usd": 31019.787200000006,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1793058062,
+    "fills": 1
   }
 ]
