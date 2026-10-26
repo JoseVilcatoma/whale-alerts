@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 19:05:56 (hora de Perú)
+Actualizado: 2026-10-25 19:07:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6653**  ($378,151,754 en total)
+- Apuestas registradas: **6654**  ($378,213,412 en total)
 - Resueltas: **6581** — 4019 ganadas / 2562 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 643
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 474 | 256 | 10 | 65% | $48,302,189 | +$1,641,912 |
 | Sassy-Bucket | 93 | 94 | 3 | 50% | $12,103,975 | -$1,393,191 |
-| mooseborzoii | 96 | 53 | 3 | 64% | $8,602,883 | +$966,146 |
+| mooseborzoii | 96 | 53 | 4 | 64% | $8,664,540 | +$966,146 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $61,657 | — | ⏳ Pendiente |
 | Woaifacai | Magic vs. Knicks | Knicks | 1.35 (74¢) | $51,310 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Nets | Pacers | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | sulumos | Pistons vs. 76ers | 76ers | 2.22 (45¢) | $39,690 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | goweibo123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $30,666 | +$2,667 | ✅ Ganada |
 | thewatcherofall | Packers vs. Lions | Lions | 1.47 (68¢) | $49,442 | -$15,996 | 💰 Vendida antes |
 | TAIWANNUMBERONE | Rams vs. Raiders | Rams | 1.35 (74¢) | $29,833 | +$10,482 | ✅ Ganada |
-| EdZachary | Pacers vs. Nets | Nets | 3.03 (33¢) | $25,390 | — | ⏳ Pendiente |
