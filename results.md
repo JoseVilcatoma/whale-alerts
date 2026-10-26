@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 16:41:18 (hora de Perú)
+Actualizado: 2026-10-26 16:43:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6724**  ($381,728,354 en total)
-- Resueltas: **6677** — 4087 ganadas / 2590 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Apuestas registradas: **6727**  ($381,837,912 en total)
+- Resueltas: **6683** — 4091 ganadas / 2592 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 646
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,099,284** sobre $379,639,507 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$4,526** sobre $658,500 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$1,192,175** sobre $380,005,266 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$4,344** sobre $659,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 480 | 263 | 5 | 65% | $48,725,376 | +$1,352,300 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 481 | 263 | 5 | 65% | $48,765,376 | +$1,378,540 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
 | mooseborzoii | 103 | 53 | 2 | 66% | $9,021,679 | +$1,293,210 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 105 | 57 | 1 | 65% | $7,042,218 | +$44,480 |
-| Lakersfan111 | 95 | 50 | 2 | 66% | $6,967,748 | +$474,658 |
+| Lakersfan111 | 95 | 51 | 1 | 65% | $6,967,748 | +$420,713 |
 | googleplay | 24 | 22 | 0 | 52% | $6,849,314 | -$319,839 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
 | BrotherObama | 48 | 51 | 2 | 48% | $4,425,789 | -$98,120 |
 | maz26 | 39 | 25 | 0 | 61% | $4,388,312 | +$584,199 |
-| Mooseborzoiii | 20 | 17 | 2 | 54% | $4,079,386 | +$617,658 |
+| Mooseborzoiii | 20 | 18 | 2 | 53% | $4,121,386 | +$447,189 |
 | Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -71,16 +71,19 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.67 (60¢) | $42,000 | — | ⏳ Pendiente |
+| ropetard | Timberwolves vs. Cavaliers | Timberwolves | 2.44 (41¢) | $27,559 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
 | dromedaryy | Will Kylian Mbappé win the 2026 Ballon d'Or? | No | 1.30 (77¢) | $25,063 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend - Game 1 Winner | Team Liquid | 2.86 (35¢) | $28,000 | — | ⏳ Pendiente |
 | 473game | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 1.35 (74¢) | $59,940 | — | ⏳ Pendiente |
 | dromedaryy | Will Kylian Mbappé win the 2026 Ballon d'Or? | No | 1.33 (75¢) | $48,422 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Harry Kane win the 2026 Ballon d'Or? | No | 4.35 (23¢) | $43,127 | — | ⏳ Pendiente |
 | flawfence | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.32 (76¢) | $74,583 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LOS vs Team Secret Whales (BO3) - Worlds Group Stage | LOS | 1.59 (63¢) | $44,680 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: LOS vs Team Secret Whales - Game 2 Winner | Team Secret Whales | 1.67 (60¢) | $170,469 | — | ⏳ Pendiente |
-| PEYZ-BIGGEST-FAN | LoL: LOS vs Team Secret Whales - Game 2 Winner | LOS | 2.44 (41¢) | $36,900 | — | ⏳ Pendiente |
-| zb8 | LoL: LOS vs Team Secret Whales - Game 2 Winner | LOS | 2.44 (41¢) | $28,670 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LOS vs Team Secret Whales (BO3) - Worlds Group Stage | LOS | 1.59 (63¢) | $44,680 | +$26,241 | ✅ Ganada |
+| Mooseborzoiii | LoL: LOS vs Team Secret Whales - Game 2 Winner | Team Secret Whales | 1.67 (60¢) | $170,469 | -$170,469 | ❌ Perdida |
+| PEYZ-BIGGEST-FAN | LoL: LOS vs Team Secret Whales - Game 2 Winner | LOS | 2.44 (41¢) | $36,900 | +$53,100 | ✅ Ganada |
+| zb8 | LoL: LOS vs Team Secret Whales - Game 2 Winner | LOS | 2.44 (41¢) | $28,670 | +$41,257 | ✅ Ganada |
 | ferrariChampions2026 | Kings vs. Rangers | Kings | 2.22 (45¢) | $41,111 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: G2 vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | G2 | 1.35 (74¢) | $34,331 | -$34,331 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.56 (64¢) | $35,000 | -$35,000 | ❌ Perdida |
@@ -90,9 +93,9 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 | ArielFilipino | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $27,699 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Hornets (-1.5) | Hornets | 1.85 (54¢) | $28,100 | — | ⏳ Pendiente |
 | mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays | Tampa Bay Rays | 1.96 (51¢) | $44,463 | — | ⏳ Pendiente |
-| 0x33b1…af25 | Will Paris Saint-Germain FC win on 2026-10-25? | Yes | 1.35 (74¢) | $31,095 | — | ⏳ Pendiente |
+| 0x33b1…af25 | Will Paris Saint-Germain FC win on 2026-10-25? | Yes | 1.35 (74¢) | $31,095 | +$10,925 | ✅ Ganada |
 | jakepaulthegoat2008 | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 1.37 (73¢) | $47,994 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: LOS vs Team Secret Whales (BO3) - Worlds Group Stage | Team Secret Whales | 1.47 (68¢) | $53,945 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | LoL: LOS vs Team Secret Whales (BO3) - Worlds Group Stage | Team Secret Whales | 1.47 (68¢) | $53,945 | -$53,945 | ❌ Perdida |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.43 (70¢) | $28,000 | -$28,000 | ❌ Perdida |
 | salgnklasf | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.56 (64¢) | $76,756 | +$43,175 | ✅ Ganada |
 | MajorMalfunction | Will Lamine Yamal win the 2026 Ballon d'Or? | No | 1.11 (90¢) | $25,265 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $64,496 | +$37,879 | ✅ Ganada |
 | KaneAnalytics | Chiefs vs. Seahawks | Seahawks | 1.67 (60¢) | $41,934 | +$27,956 | ✅ Ganada |
-| googleplay | Spread: Grizzlies (-3.5) | Grizzlies | 1.96 (51¢) | $57,196 | +$54,953 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Kings | 2.56 (39¢) | $39,000 | -$39,000 | ❌ Perdida |
-| googleplay | Grizzlies vs. Kings | Grizzlies | 1.64 (61¢) | $119,919 | +$76,670 | ✅ Ganada |
