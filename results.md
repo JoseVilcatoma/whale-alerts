@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 08:23:36 (hora de Perú)
+Actualizado: 2026-10-26 08:25:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6700**  ($380,574,874 en total)
+- Apuestas registradas: **6701**  ($380,651,629 en total)
 - Resueltas: **6671** — 4084 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 645
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 645 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| salgnklasf | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.56 (64¢) | $76,756 | — | ⏳ Pendiente |
 | MajorMalfunction | Will Lamine Yamal win the 2026 Ballon d'Or? | No | 1.11 (90¢) | $25,265 | — | ⏳ Pendiente |
 | dromedaryy | Will Lamine Yamal win the 2026 Ballon d'Or? | No | 1.11 (90¢) | $27,067 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.56 (64¢) | $44,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 645 en total)_
 | dhgreg | Spread: Thunder (-13.5) | Clippers | 2.44 (41¢) | $36,900 | +$53,100 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $33,434 | +$33,434 | ✅ Ganada |
 | ndb1 | Clippers vs. Thunder | Thunder | 1.11 (90¢) | $266,144 | +$29,572 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Canadiens vs. Jets | Jets | 2.08 (48¢) | $34,715 | -$34,715 | ❌ Perdida |
