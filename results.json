@@ -101441,5 +101441,20 @@
     "status": "pending",
     "ultimo_fill": 1793057183,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13705,
+    "timestamp": 1793057578,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nba-dal-mia-2026-10-26",
+    "title": "Mavericks vs. Heat",
+    "outcome": "Heat",
+    "side": "BUY",
+    "usd": 144000.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1793057578,
+    "fills": 1
   }
 ]
