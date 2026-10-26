@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 17:11:49 (hora de Perú)
+Actualizado: 2026-10-26 17:13:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6736**  ($382,289,157 en total)
+- Apuestas registradas: **6738**  ($382,453,407 en total)
 - Resueltas: **6683** — 4091 ganadas / 2592 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 33
 - Apostadores distintos: 647
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 481 | 263 | 5 | 65% | $48,765,376 | +$1,378,540 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 481 | 263 | 6 | 65% | $48,885,376 | +$1,378,540 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
 | mooseborzoii | 103 | 53 | 2 | 66% | $9,021,679 | +$1,293,210 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 105 | 57 | 1 | 65% | $7,042,218 | +$44,480 |
 | Lakersfan111 | 95 | 51 | 1 | 65% | $6,967,748 | +$420,713 |
-| googleplay | 24 | 22 | 2 | 52% | $6,919,897 | -$319,839 |
+| googleplay | 24 | 22 | 3 | 52% | $6,964,147 | -$319,839 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Wizards | 2.50 (40¢) | $120,000 | — | ⏳ Pendiente |
+| googleplay | Wizards vs. Hornets | Hornets | 1.69 (59¢) | $44,250 | — | ⏳ Pendiente |
 | googleplay | Spread: Hornets (-2.5) | Hornets | 1.89 (53¢) | $30,976 | — | ⏳ Pendiente |
 | sulumos | Wizards vs. Hornets | Wizards | 2.44 (41¢) | $32,677 | — | ⏳ Pendiente |
 | googleplay | Wizards vs. Hornets | Hornets | 1.69 (59¢) | $39,608 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $49,637 | +$7,417 | ✅ Ganada |
 | Soarin22 | Chiefs vs. Seahawks | Seahawks | 1.20 (83¢) | $63,208 | +$12,946 | ✅ Ganada |
 | FlamePyro | Chiefs vs. Seahawks | Seahawks | 1.10 (91¢) | $29,393 | +$2,907 | ✅ Ganada |
-| Woaifacai | Pistons vs. 76ers | Pistons | 1.28 (78¢) | $106,345 | +$29,995 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Pistons vs. 76ers | Pistons | 1.32 (76¢) | $25,499 | +$8,052 | ✅ Ganada |
