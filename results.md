@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 19:55:35 (hora de Perú)
+Actualizado: 2026-10-25 19:57:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6672**  ($379,330,751 en total)
-- Resueltas: **6587** — 4023 ganadas / 2564 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Resueltas: **6591** — 4024 ganadas / 2567 perdidas (**61%** de acierto)
+- Pendientes: 59
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,828,800** sobre $374,443,715 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,916** sobre $649,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$2,216,107** sobre $374,908,684 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$6,107** sobre $649,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 475 | 256 | 11 | 65% | $48,388,738 | +$1,650,912 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 475 | 257 | 10 | 65% | $48,388,738 | +$1,610,528 |
 | Sassy-Bucket | 93 | 94 | 5 | 50% | $12,396,975 | -$1,393,191 |
 | mooseborzoii | 96 | 53 | 7 | 64% | $8,927,578 | +$966,146 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 104 | 57 | 1 | 65% | $7,001,107 | +$24,128 |
-| googleplay | 18 | 21 | 7 | 46% | $6,849,314 | -$340,124 |
-| Lakersfan111 | 87 | 47 | 5 | 65% | $6,640,887 | +$370,926 |
+| googleplay | 18 | 22 | 6 | 45% | $6,849,314 | -$690,747 |
+| Lakersfan111 | 87 | 48 | 4 | 64% | $6,640,887 | +$334,242 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -121,9 +121,9 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $33,223 | +$11,673 | ✅ Ganada |
 | Woaifacai | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $52,986 | +$18,617 | ✅ Ganada |
 | Baronen11 | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $40,450 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $40,384 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $40,384 | -$40,384 | ❌ Perdida |
 | ethanaz | Packers vs. Lions | Packers | 2.08 (48¢) | $36,868 | -$36,868 | ❌ Perdida |
-| Siddhartha1 | Spread: Pacers (-6.5) | Pacers | 2.08 (48¢) | $37,278 | — | ⏳ Pendiente |
+| Siddhartha1 | Spread: Pacers (-6.5) | Pacers | 2.08 (48¢) | $37,278 | +$40,384 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-3.5) | Raptors | 2.04 (49¢) | $104,323 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Timberwolves (-3.5) | Raptors | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: Timberwolves (-3.5) | Timberwolves | 1.96 (51¢) | $152,922 | — | ⏳ Pendiente |
