@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 03:02:20 (hora de Perú)
+Actualizado: 2026-10-26 03:04:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6697**  ($380,477,741 en total)
+- Apuestas registradas: **6698**  ($380,522,541 en total)
 - Resueltas: **6666** — 4079 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 643
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 105 | 57 | 0 | 65% | $7,001,107 | +$44,480 |
 | googleplay | 24 | 22 | 0 | 52% | $6,849,314 | -$319,839 |
-| Lakersfan111 | 91 | 48 | 3 | 65% | $6,758,678 | +$458,516 |
+| Lakersfan111 | 91 | 48 | 4 | 65% | $6,803,478 | +$458,516 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.56 (64¢) | $44,800 | — | ⏳ Pendiente |
 | salgnklasf | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $83,466 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: TheMongolz vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.32 (76¢) | $42,068 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $42,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Canadiens vs. Jets | Jets | 2.08 (48¢) | $34,715 | -$34,715 | ❌ Perdida |
 | dhgreg | Pistons vs. 76ers | 76ers | 2.13 (47¢) | $155,100 | -$155,100 | ❌ Perdida |
 | Sassy-Bucket | Canadiens vs. Jets | Canadiens | 1.92 (52¢) | $37,297 | +$34,428 | ✅ Ganada |
-| dhgreg | Pistons vs. 76ers | 76ers | 2.13 (47¢) | $30,227 | -$30,227 | ❌ Perdida |
