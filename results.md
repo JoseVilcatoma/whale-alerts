@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 18:13:15 (hora de Perú)
+Actualizado: 2026-10-26 18:15:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6746**  ($382,799,080 en total)
+- Apuestas registradas: **6747**  ($382,829,338 en total)
 - Resueltas: **6684** — 4092 ganadas / 2592 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 647
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 01258787xy48487484545122 | Sioux Falls: Daniel Milavsky vs Harry Wendelken | Daniel Milavsky | 1.25 (80¢) | $30,258 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Hornets | 1.72 (58¢) | $25,114 | — | ⏳ Pendiente |
 | juice-fruit | Wizards vs. Hornets | Wizards | 2.44 (41¢) | $31,761 | — | ⏳ Pendiente |
 | Elaran1993 | Mavericks vs. Heat: O/U 239.5 | Over 239.5 | 1.89 (53¢) | $37,094 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.08 (93¢) | $35,726 | +$2,689 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.14 (88¢) | $80,164 | +$10,931 | ✅ Ganada |
 | Noprajsk | Grizzlies vs. Kings | Kings | 2.27 (44¢) | $25,255 | -$25,255 | ❌ Perdida |
-| Woaifacai | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $45,760 | +$6,240 | ✅ Ganada |
