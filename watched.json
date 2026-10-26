@@ -35,18 +35,6 @@
     "username": "Diabolical-Prize",
     "added_at": 1791937716.6759536
   },
-  "0xa38a455bbdd4b68486548b7e19da99903f4f821d": {
-    "username": "takeormake",
-    "added_at": 1792358940.2230978
-  },
-  "0xa2a78bb796f56b1b174b29eff72af4f0c558627b": {
-    "username": "0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900",
-    "added_at": 1792370392.6049962
-  },
-  "0xb52e8b3afd9f0f0d502a5a76494b42816d67285c": {
-    "username": "1l2ihj34li12u34",
-    "added_at": 1792370392.6049962
-  },
   "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6": {
     "username": "Jokerxing7",
     "added_at": 1792441121.310615
@@ -210,5 +198,9 @@
   "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2": {
     "username": "Mooseborzoiii",
     "added_at": 1792974542.8971698
+  },
+  "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563": {
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "added_at": 1792975445.5814505
   }
 }

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 19:42:55 (hora de Perú)
+Actualizado: 2026-10-25 19:45:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6670**  ($379,263,558 en total)
+- Apuestas registradas: **6671**  ($379,305,209 en total)
 - Resueltas: **6581** — 4019 ganadas / 2562 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Pendientes: 68
 - Apostadores distintos: 643
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 474 | 256 | 12 | 65% | $48,388,738 | +$1,641,912 |
 | Sassy-Bucket | 93 | 94 | 5 | 50% | $12,396,975 | -$1,393,191 |
-| mooseborzoii | 96 | 53 | 6 | 64% | $8,885,927 | +$966,146 |
+| mooseborzoii | 96 | 53 | 7 | 64% | $8,927,578 | +$966,146 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.85 (54¢) | $41,651 | — | ⏳ Pendiente |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $64,496 | — | ⏳ Pendiente |
 | KaneAnalytics | Chiefs vs. Seahawks | Seahawks | 1.67 (60¢) | $41,934 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | ropetard | Raptors vs. Timberwolves | Timberwolves | 2.00 (50¢) | $80,558 | +$14,500 | 💰 Vendida antes |
 | ColdBlooded | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $40,500 | +$9,500 | ✅ Ganada |
 | Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $33,530 | +$7,865 | ✅ Ganada |
-| Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.25 (80¢) | $40,000 | +$10,000 | ✅ Ganada |
