@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 17:55:01 (hora de Perú)
+Actualizado: 2026-10-26 17:57:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6742**  ($382,680,029 en total)
+- Apuestas registradas: **6743**  ($382,705,110 en total)
 - Resueltas: **6684** — 4092 ganadas / 2592 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 647
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dhgreg | Timberwolves vs. Cavaliers | Cavaliers | 1.69 (59¢) | $25,080 | — | ⏳ Pendiente |
 | googleplay | Wizards vs. Hornets | Hornets | 1.67 (60¢) | $104,987 | — | ⏳ Pendiente |
 | googleplay | Wizards vs. Hornets: O/U 227.5 | Under 227.5 | 1.89 (53¢) | $31,757 | — | ⏳ Pendiente |
 | ethBELIVER | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | KaneAnalytics | Grizzlies vs. Kings | Grizzlies | 1.28 (78¢) | $51,641 | +$14,566 | ✅ Ganada |
 | TAIWANNUMBERONE | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $31,434 | +$4,287 | ✅ Ganada |
 | Jokerxing7 | Grizzlies vs. Kings: O/U 239.5 | Under 239.5 | 2.04 (49¢) | $27,222 | +$28,333 | ✅ Ganada |
-| Anon455 | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $26,100 | +$3,900 | ✅ Ganada |
