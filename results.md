@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 22:21:55 (hora de Perú)
+Actualizado: 2026-10-25 22:23:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6689**  ($380,130,136 en total)
+- Apuestas registradas: **6690**  ($380,165,863 en total)
 - Resueltas: **6632** — 4049 ganadas / 2583 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 643
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 478 | 261 | 6 | 65% | $48,601,842 | +$1,415,679 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 478 | 261 | 7 | 65% | $48,637,568 | +$1,415,679 |
 | Sassy-Bucket | 94 | 94 | 4 | 50% | $12,396,975 | -$1,358,763 |
 | mooseborzoii | 99 | 53 | 5 | 65% | $8,977,216 | +$1,063,860 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.08 (93¢) | $35,726 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.14 (88¢) | $80,164 | — | ⏳ Pendiente |
 | Noprajsk | Grizzlies vs. Kings | Kings | 2.27 (44¢) | $25,255 | — | ⏳ Pendiente |
 | Woaifacai | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $45,760 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | zb8 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.22 (82¢) | $26,215 | +$5,754 | ✅ Ganada |
 | gmpm2 | Spread: Thunder (-16.5) | Thunder | 2.13 (47¢) | $29,469 | -$29,469 | ❌ Perdida |
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.89 (53¢) | $118,388 | +$104,986 | ✅ Ganada |
-| googleplay | Spread: Thunder (-16.5) | Clippers | 1.96 (51¢) | $84,953 | +$81,621 | ✅ Ganada |
