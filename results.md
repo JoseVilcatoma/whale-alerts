@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 21:44:46 (hora de Perú)
+Actualizado: 2026-10-25 21:46:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6686**  ($379,978,957 en total)
+- Apuestas registradas: **6687**  ($380,024,717 en total)
 - Resueltas: **6632** — 4049 ganadas / 2583 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 643
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $45,760 | — | ⏳ Pendiente |
 | KaneAnalytics | Grizzlies vs. Kings | Grizzlies | 1.28 (78¢) | $51,641 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $31,434 | — | ⏳ Pendiente |
 | Jokerxing7 | Grizzlies vs. Kings: O/U 239.5 | Under 239.5 | 2.04 (49¢) | $27,222 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.96 (51¢) | $84,953 | +$81,621 | ✅ Ganada |
 | Zzzz87 | Raptors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $33,000 | +$22,000 | ✅ Ganada |
 | Zzzz87 | Spread: Timberwolves (-3.5) | Timberwolves | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
-| Siddhartha1 | Pacers vs. Nets | Pacers | 1.54 (65¢) | $32,641 | +$17,576 | ✅ Ganada |
