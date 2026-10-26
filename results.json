@@ -100809,5 +100809,35 @@
     "status": "pending",
     "ultimo_fill": 1793027543,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13649,
+    "timestamp": 1793029044,
+    "username": "ArielFilipino",
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "slug": "nba-gsw-den-2026-10-26-spread-home-7pt5",
+    "title": "Spread: Nuggets (-7.5)",
+    "outcome": "Warriors",
+    "side": "BUY",
+    "usd": 27698.621600000002,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793029044,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13650,
+    "timestamp": 1793029126,
+    "username": "ArielFilipino",
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "slug": "nba-mem-uta-2026-10-26",
+    "title": "Grizzlies vs. Jazz",
+    "outcome": "Jazz",
+    "side": "BUY",
+    "usd": 26254.877599999996,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793029126,
+    "fills": 1
   }
 ]

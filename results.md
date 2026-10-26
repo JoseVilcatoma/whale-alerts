@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 10:37:22 (hora de Perú)
+Actualizado: 2026-10-26 10:39:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6707**  ($380,885,227 en total)
+- Apuestas registradas: **6709**  ($380,939,180 en total)
 - Resueltas: **6671** — 4084 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 16
 - Apostadores distintos: 646
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArielFilipino | Grizzlies vs. Jazz | Jazz | 1.92 (52¢) | $26,255 | — | ⏳ Pendiente |
+| ArielFilipino | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $27,699 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Hornets (-1.5) | Hornets | 1.85 (54¢) | $28,100 | — | ⏳ Pendiente |
 | mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays | Tampa Bay Rays | 1.96 (51¢) | $44,463 | — | ⏳ Pendiente |
 | 0x33b1…af25 | Will Paris Saint-Germain FC win on 2026-10-25? | Yes | 1.35 (74¢) | $31,095 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Nets | Pacers | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | sulumos | Pistons vs. 76ers | 76ers | 2.22 (45¢) | $39,690 | -$39,690 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. 76ers | 76ers | 2.22 (45¢) | $86,482 | -$86,482 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Pacers vs. Nets | Pacers | 1.22 (82¢) | $27,558 | +$6,049 | ✅ Ganada |
-| Siddhartha1 | Pistons vs. 76ers | Pistons | 1.85 (54¢) | $26,881 | +$22,899 | ✅ Ganada |
