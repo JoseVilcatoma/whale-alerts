@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 20:10:03 (hora de Perú)
+Actualizado: 2026-10-25 20:12:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6673**  ($379,368,750 en total)
+- Apuestas registradas: **6675**  ($379,448,015 en total)
 - Resueltas: **6591** — 4024 ganadas / 2567 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Pendientes: 62
 - Apostadores distintos: 643
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Wild (-1.5) | Wild | 2.33 (43¢) | $29,953 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Canucks | Wild | 1.54 (65¢) | $49,312 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Kings | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Pistons vs. 76ers | Pistons | 1.32 (76¢) | $25,541 | — | ⏳ Pendiente |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.85 (54¢) | $41,651 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Talvez10 | Spread: Timberwolves (-3.5) | Raptors | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: Timberwolves (-3.5) | Timberwolves | 1.96 (51¢) | $152,922 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Clippers vs. Thunder: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $25,015 | — | ⏳ Pendiente |
-| mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.79 (56¢) | $43,500 | — | ⏳ Pendiente |
-| ropetard | Raptors vs. Timberwolves | Timberwolves | 2.00 (50¢) | $80,558 | +$14,500 | 💰 Vendida antes |
