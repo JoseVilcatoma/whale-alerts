@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 16:55:28 (hora de Perú)
+Actualizado: 2026-10-26 16:57:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6731**  ($382,086,119 en total)
+- Apuestas registradas: **6733**  ($382,185,896 en total)
 - Resueltas: **6683** — 4091 ganadas / 2592 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 28
 - Apostadores distintos: 647
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $57,833 | — | ⏳ Pendiente |
+| 0x33b1…af25 | Suns vs. Thunder | Thunder | 1.32 (76¢) | $41,944 | — | ⏳ Pendiente |
 | Baronen11 | Timberwolves vs. Cavaliers | Cavaliers | 1.72 (58¢) | $32,932 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend - Game 2 Winner | Team Liquid | 2.13 (47¢) | $65,800 | — | ⏳ Pendiente |
 | illenial | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.64 (61¢) | $32,228 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Clippers vs. Thunder | Thunder | 1.06 (94¢) | $94,940 | +$6,060 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Wild (-1.5) | Wild | 2.33 (43¢) | $29,953 | +$39,705 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Wild vs. Canucks | Wild | 1.54 (65¢) | $49,312 | +$26,552 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Kings | 2.63 (38¢) | $38,000 | -$38,000 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Pistons vs. 76ers | Pistons | 1.32 (76¢) | $25,541 | +$8,066 | ✅ Ganada |
