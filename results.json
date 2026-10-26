@@ -100761,7 +100761,7 @@
     "side": "BUY",
     "usd": 47994.0325,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793025788,
     "fills": 1
   },
@@ -101031,7 +101031,7 @@
     "side": "BUY",
     "usd": 59940.0,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793048516,
     "fills": 1
   },
@@ -101076,7 +101076,7 @@
     "side": "BUY",
     "usd": 40000.0,
     "odds_at_bet": 40,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793050903,
     "fills": 1
   },
@@ -101108,7 +101108,7 @@
     "side": "BUY",
     "usd": 132000.0,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793051033,
     "fills": 3
   },
@@ -101138,7 +101138,7 @@
     "side": "BUY",
     "usd": 32228.139999000003,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793051047,
     "fills": 1
   },
@@ -101485,6 +101485,21 @@
     "odds_at_bet": 46,
     "status": "pending",
     "ultimo_fill": 1793058062,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13710,
+    "timestamp": 1793058124,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-was-cha-2026-10-26",
+    "title": "Wizards vs. Hornets",
+    "outcome": "Hornets",
+    "side": "BUY",
+    "usd": 27500.000000000004,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1793058124,
     "fills": 1
   }
 ]
