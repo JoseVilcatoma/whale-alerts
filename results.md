@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 05:45:36 (hora de Perú)
+Actualizado: 2026-10-26 05:47:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6698**  ($380,522,541 en total)
+- Apuestas registradas: **6699**  ($380,549,608 en total)
 - Resueltas: **6667** — 4080 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 9
-- Apostadores distintos: 643
+- Pendientes: 10
+- Apostadores distintos: 644
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jokerxing7 | 14 | 21 | 0 | 40% | $1,948,493 | -$329,469 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 
-_(mostrando los 40 de mayor monto, de 643 en total)_
+_(mostrando los 40 de mayor monto, de 644 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dromedaryy | Will Lamine Yamal win the 2026 Ballon d'Or? | No | 1.11 (90¢) | $27,067 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.56 (64¢) | $44,800 | — | ⏳ Pendiente |
 | salgnklasf | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $83,466 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: TheMongolz vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.32 (76¢) | $42,068 | +$13,285 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | ndb1 | Clippers vs. Thunder | Thunder | 1.11 (90¢) | $266,144 | +$29,572 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Canadiens vs. Jets | Jets | 2.08 (48¢) | $34,715 | -$34,715 | ❌ Perdida |
 | dhgreg | Pistons vs. 76ers | 76ers | 2.13 (47¢) | $155,100 | -$155,100 | ❌ Perdida |
-| Sassy-Bucket | Canadiens vs. Jets | Canadiens | 1.92 (52¢) | $37,297 | +$34,428 | ✅ Ganada |
