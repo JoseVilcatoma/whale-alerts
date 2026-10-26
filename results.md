@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 03:35:21 (hora de Perú)
+Actualizado: 2026-10-26 05:43:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6698**  ($380,522,541 en total)
-- Resueltas: **6666** — 4079 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **6667** — 4080 ganadas / 2587 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,185,155** sobre $379,146,695 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$4,591** sobre $657,400 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$1,171,870** sobre $379,188,763 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$4,559** sobre $657,500 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 |---|---|---|---|---|---|---|
 | jakepaulthegoat2008 | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.56 (64¢) | $44,800 | — | ⏳ Pendiente |
 | salgnklasf | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $83,466 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: TheMongolz vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.32 (76¢) | $42,068 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: TheMongolz vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.32 (76¢) | $42,068 | +$13,285 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $42,000 | — | ⏳ Pendiente |
 | norrisfan | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $30,600 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $42,600 | — | ⏳ Pendiente |
