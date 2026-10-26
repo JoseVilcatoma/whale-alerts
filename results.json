@@ -101531,5 +101531,50 @@
     "status": "pending",
     "ultimo_fill": 1793058373,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13718,
+    "timestamp": 1793058497,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-ind-mil-2026-10-26",
+    "title": "Pacers vs. Bucks",
+    "outcome": "Bucks",
+    "side": "BUY",
+    "usd": 44404.0554,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1793058497,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13719,
+    "timestamp": 1793058528,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-ind-mil-2026-10-26",
+    "title": "Pacers vs. Bucks",
+    "outcome": "Pacers",
+    "side": "BUY",
+    "usd": 231999.99999999997,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1793058528,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13720,
+    "timestamp": 1793058556,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "nba-ind-mil-2026-10-26-spread-away-3pt5",
+    "title": "Spread: Pacers (-3.5)",
+    "outcome": "Pacers",
+    "side": "BUY",
+    "usd": 52430.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793058556,
+    "fills": 1
   }
 ]
