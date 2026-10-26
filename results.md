@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 00:51:07 (hora de Perú)
+Actualizado: 2026-10-26 00:53:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6691**  ($380,199,054 en total)
+- Apuestas registradas: **6692**  ($380,237,007 en total)
 - Resueltas: **6665** — 4078 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 643
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Pan Pacific Open: Moyuka Uchijima vs Elise Mertens | Elise Mertens | 1.06 (94¢) | $37,953 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.54 (65¢) | $33,192 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.08 (93¢) | $35,726 | +$2,689 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.14 (88¢) | $80,164 | +$10,931 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Mooseborzoiii | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.19 (84¢) | $367,761 | +$70,050 | ✅ Ganada |
 | dhgreg | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $32,071 | -$32,071 | ❌ Perdida |
 | zb8 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.22 (82¢) | $26,215 | +$5,754 | ✅ Ganada |
-| gmpm2 | Spread: Thunder (-16.5) | Thunder | 2.13 (47¢) | $29,469 | -$29,469 | ❌ Perdida |

@@ -100569,5 +100569,20 @@
     "status": "pending",
     "ultimo_fill": 1792991021,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13626,
+    "timestamp": 1792993915,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "wta-uchijim-mertens-2026-10-26",
+    "title": "Pan Pacific Open: Moyuka Uchijima vs Elise Mertens",
+    "outcome": "Elise Mertens",
+    "side": "BUY",
+    "usd": 37953.0965,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1792993915,
+    "fills": 1
   }
 ]
