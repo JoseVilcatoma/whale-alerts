@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 18:59:49 (hora de Perú)
+Actualizado: 2026-10-25 19:01:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6652**  ($378,100,444 en total)
-- Resueltas: **6572** — 4010 ganadas / 2562 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Resueltas: **6578** — 4016 ganadas / 2562 perdidas (**61%** de acierto)
+- Pendientes: 52
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,954,760** sobre $373,568,779 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$6,058** sobre $648,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,862,023** sobre $374,146,884 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,981** sobre $648,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
 | BrotherObama | 47 | 51 | 3 | 48% | $4,425,789 | -$123,120 |
 | maz26 | 39 | 24 | 1 | 62% | $4,388,312 | +$613,668 |
-| Mooseborzoiii | 17 | 17 | 3 | 50% | $3,880,917 | +$529,743 |
+| Mooseborzoiii | 18 | 17 | 2 | 51% | $3,880,917 | +$599,793 |
 | Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -88,9 +88,9 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | dhgreg | Pistons vs. 76ers | 76ers | 2.13 (47¢) | $30,227 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Thunder (-16.5) | Thunder | 2.04 (49¢) | $32,941 | — | ⏳ Pendiente |
 | milkteaboba | Raptors vs. Timberwolves | Timberwolves | 1.69 (59¢) | $182,900 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.19 (84¢) | $367,761 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.19 (84¢) | $367,761 | +$70,050 | ✅ Ganada |
 | dhgreg | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $32,071 | — | ⏳ Pendiente |
-| zb8 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.22 (82¢) | $26,215 | — | ⏳ Pendiente |
+| zb8 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.22 (82¢) | $26,215 | +$5,754 | ✅ Ganada |
 | gmpm2 | Spread: Thunder (-16.5) | Thunder | 2.13 (47¢) | $29,469 | — | ⏳ Pendiente |
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.89 (53¢) | $118,388 | — | ⏳ Pendiente |
 | googleplay | Spread: Thunder (-16.5) | Clippers | 1.96 (51¢) | $84,953 | — | ⏳ Pendiente |
@@ -125,8 +125,8 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | cs2.quant | LoL: Gen.G vs LYON - Game 1 Winner | Gen.G | 1.23 (81¢) | $29,697 | -$29,697 | ❌ Perdida |
 | halanddd123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $201,263 | -$59,066 | 💰 Vendida antes |
 | jakepaulthegoat2008 | Lakers vs. Jazz | Lakers | 1.47 (68¢) | $30,600 | +$14,400 | ✅ Ganada |
-| 473game | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $26,336 | — | ⏳ Pendiente |
-| goweibo123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $30,666 | — | ⏳ Pendiente |
+| 473game | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $26,336 | +$2,290 | ✅ Ganada |
+| goweibo123 | LoL: Gen.G vs LYON (BO3) - Worlds Group Stage | Gen.G | 1.09 (92¢) | $30,666 | +$2,667 | ✅ Ganada |
 | thewatcherofall | Packers vs. Lions | Lions | 1.47 (68¢) | $49,442 | -$15,996 | 💰 Vendida antes |
 | TAIWANNUMBERONE | Rams vs. Raiders | Rams | 1.35 (74¢) | $29,833 | +$10,482 | ✅ Ganada |
 | EdZachary | Pacers vs. Nets | Nets | 3.03 (33¢) | $25,390 | — | ⏳ Pendiente |
