@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 21:10:25 (hora de Perú)
+Actualizado: 2026-10-25 21:12:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6680**  ($379,767,400 en total)
+- Apuestas registradas: **6681**  ($379,817,037 en total)
 - Resueltas: **6620** — 4042 ganadas / 2578 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 643
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 478 | 259 | 7 | 65% | $48,521,678 | +$1,536,877 |
 | Sassy-Bucket | 93 | 94 | 5 | 50% | $12,396,975 | -$1,393,191 |
-| mooseborzoii | 99 | 53 | 4 | 65% | $8,927,578 | +$1,063,860 |
+| mooseborzoii | 99 | 53 | 5 | 65% | $8,977,216 | +$1,063,860 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $49,637 | — | ⏳ Pendiente |
 | Soarin22 | Chiefs vs. Seahawks | Seahawks | 1.20 (83¢) | $63,208 | — | ⏳ Pendiente |
 | FlamePyro | Chiefs vs. Seahawks | Seahawks | 1.10 (91¢) | $29,393 | — | ⏳ Pendiente |
 | Woaifacai | Pistons vs. 76ers | Pistons | 1.28 (78¢) | $106,345 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Woaifacai | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $52,986 | +$18,617 | ✅ Ganada |
 | Baronen11 | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $40,450 | -$40,450 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $40,384 | -$40,384 | ❌ Perdida |
-| ethanaz | Packers vs. Lions | Packers | 2.08 (48¢) | $36,868 | -$36,868 | ❌ Perdida |
