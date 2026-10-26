@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 19:47:12 (hora de Perú)
+Actualizado: 2026-10-25 19:49:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6671**  ($379,305,209 en total)
+- Apuestas registradas: **6672**  ($379,330,751 en total)
 - Resueltas: **6582** — 4020 ganadas / 2562 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Pendientes: 68
 - Apostadores distintos: 643
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Pistons vs. 76ers | Pistons | 1.32 (76¢) | $25,541 | — | ⏳ Pendiente |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.85 (54¢) | $41,651 | — | ⏳ Pendiente |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $64,496 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.79 (56¢) | $43,500 | — | ⏳ Pendiente |
 | ropetard | Raptors vs. Timberwolves | Timberwolves | 2.00 (50¢) | $80,558 | +$14,500 | 💰 Vendida antes |
 | ColdBlooded | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $40,500 | +$9,500 | ✅ Ganada |
-| Mooseborzoiii | LoL: Gen.G vs LYON - Game 2 Winner | Gen.G | 1.23 (81¢) | $33,530 | +$7,865 | ✅ Ganada |
