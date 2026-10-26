@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 18:33:23 (hora de Perú)
+Actualizado: 2026-10-26 18:35:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6750**  ($383,111,619 en total)
+- Apuestas registradas: **6751**  ($383,170,619 en total)
 - Resueltas: **6684** — 4092 ganadas / 2592 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 647
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 481 | 263 | 7 | 65% | $48,910,490 | +$1,378,540 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 481 | 263 | 8 | 65% | $48,969,490 | +$1,378,540 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
 | mooseborzoii | 103 | 53 | 3 | 66% | $9,057,960 | +$1,293,210 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Bucks | Pacers | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
 | dhgreg | Mavericks vs. Heat | Heat | 1.39 (72¢) | $144,000 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Heat (-7.5) | Heat | 2.00 (50¢) | $36,281 | — | ⏳ Pendiente |
 | dhgreg | Spread: Celtics (-14.5) | Bulls | 1.96 (51¢) | $102,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | norrisfan | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $30,600 | +$12,499 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $42,600 | +$17,400 | ✅ Ganada |
 | Woaifacai | Pan Pacific Open: Moyuka Uchijima vs Elise Mertens | Elise Mertens | 1.06 (94¢) | $37,953 | +$2,423 | ✅ Ganada |
-| jakepaulthegoat2008 | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.54 (65¢) | $33,192 | +$17,872 | ✅ Ganada |
