@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 02:56:09 (hora de Perú)
+Actualizado: 2026-10-26 02:58:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6696**  ($380,394,275 en total)
+- Apuestas registradas: **6697**  ($380,477,741 en total)
 - Resueltas: **6666** — 4079 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 643
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| salgnklasf | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $83,466 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: TheMongolz vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.32 (76¢) | $42,068 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $42,000 | — | ⏳ Pendiente |
 | norrisfan | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $30,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | dhgreg | Pistons vs. 76ers | 76ers | 2.13 (47¢) | $155,100 | -$155,100 | ❌ Perdida |
 | Sassy-Bucket | Canadiens vs. Jets | Canadiens | 1.92 (52¢) | $37,297 | +$34,428 | ✅ Ganada |
 | dhgreg | Pistons vs. 76ers | 76ers | 2.13 (47¢) | $30,227 | -$30,227 | ❌ Perdida |
-| Jokerxing7 | Spread: Thunder (-16.5) | Thunder | 2.04 (49¢) | $32,941 | -$32,941 | ❌ Perdida |
