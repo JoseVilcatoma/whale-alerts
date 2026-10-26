@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 15:21:03 (hora de Perú)
+Actualizado: 2026-10-26 15:23:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6719**  ($381,523,802 en total)
-- Resueltas: **6676** — 4087 ganadas / 2589 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **6677** — 4087 ganadas / 2590 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 646
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,064,953** sobre $379,605,176 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$4,426** sobre $658,400 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$1,099,284** sobre $379,639,507 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$4,526** sobre $658,500 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 105 | 57 | 1 | 65% | $7,042,218 | +$44,480 |
-| Lakersfan111 | 95 | 49 | 3 | 66% | $6,967,748 | +$508,988 |
+| Lakersfan111 | 95 | 50 | 2 | 66% | $6,967,748 | +$474,658 |
 | googleplay | 24 | 22 | 0 | 52% | $6,849,314 | -$319,839 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 | PEYZ-BIGGEST-FAN | LoL: LOS vs Team Secret Whales - Game 2 Winner | LOS | 2.44 (41¢) | $36,900 | — | ⏳ Pendiente |
 | zb8 | LoL: LOS vs Team Secret Whales - Game 2 Winner | LOS | 2.44 (41¢) | $28,670 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Kings vs. Rangers | Kings | 2.22 (45¢) | $41,111 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Counter-Strike: G2 vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | G2 | 1.35 (74¢) | $34,331 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Counter-Strike: G2 vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | G2 | 1.35 (74¢) | $34,331 | -$34,331 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.56 (64¢) | $35,000 | -$35,000 | ❌ Perdida |
 | RJW1 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $47,878 | — | ⏳ Pendiente |
 | Eugycom | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
