@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 21:12:30 (hora de Perú)
+Actualizado: 2026-10-25 21:14:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6681**  ($379,817,037 en total)
+- Apuestas registradas: **6682**  ($379,842,559 en total)
 - Resueltas: **6620** — 4042 ganadas / 2578 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 643
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Grizzlies vs. Kings | Grizzlies | 1.32 (76¢) | $25,522 | — | ⏳ Pendiente |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $49,637 | — | ⏳ Pendiente |
 | Soarin22 | Chiefs vs. Seahawks | Seahawks | 1.20 (83¢) | $63,208 | — | ⏳ Pendiente |
 | FlamePyro | Chiefs vs. Seahawks | Seahawks | 1.10 (91¢) | $29,393 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $33,223 | +$11,673 | ✅ Ganada |
 | Woaifacai | Lakers vs. Jazz | Lakers | 1.35 (74¢) | $52,986 | +$18,617 | ✅ Ganada |
 | Baronen11 | Raptors vs. Timberwolves | Raptors | 2.44 (41¢) | $40,450 | -$40,450 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pacers (-6.5) | Nets | 1.92 (52¢) | $40,384 | -$40,384 | ❌ Perdida |
