@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 15:59:29 (hora de Perú)
+Actualizado: 2026-10-26 16:01:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6720**  ($381,566,929 en total)
+- Apuestas registradas: **6721**  ($381,615,351 en total)
 - Resueltas: **6677** — 4087 ganadas / 2590 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 646
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dromedaryy | Will Kylian Mbappé win the 2026 Ballon d'Or? | No | 1.33 (75¢) | $48,422 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Harry Kane win the 2026 Ballon d'Or? | No | 4.35 (23¢) | $43,127 | — | ⏳ Pendiente |
 | flawfence | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.32 (76¢) | $74,583 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LOS vs Team Secret Whales (BO3) - Worlds Group Stage | LOS | 1.59 (63¢) | $44,680 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 | ferrariChampions2026 | Chiefs vs. Seahawks | Seahawks | 1.79 (56¢) | $25,902 | +$20,352 | ✅ Ganada |
 | kkookkoo | Chiefs vs. Seahawks | Seahawks | 1.69 (59¢) | $25,000 | +$17,373 | ✅ Ganada |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $195,825 | +$141,804 | ✅ Ganada |
-| mooseborzoii | Raptors vs. Timberwolves | Timberwolves | 1.32 (76¢) | $25,562 | +$8,072 | ✅ Ganada |
