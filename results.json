@@ -100479,5 +100479,20 @@
     "status": "pending",
     "ultimo_fill": 1792981580,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13576,
+    "timestamp": 1792981768,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "nba-mem-sac-2026-10-25",
+    "title": "Grizzlies vs. Kings",
+    "outcome": "Grizzlies",
+    "side": "BUY",
+    "usd": 51641.397600000004,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1792981768,
+    "fills": 1
   }
 ]
