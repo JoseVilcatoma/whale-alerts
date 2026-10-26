@@ -100189,10 +100189,40 @@
     "title": "Grizzlies vs. Kings",
     "outcome": "Grizzlies",
     "side": "BUY",
-    "usd": 45150.6483,
+    "usd": 119919.0437,
     "odds_at_bet": 61,
     "status": "pending",
-    "ultimo_fill": 1792974356,
+    "ultimo_fill": 1792974379,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 13516,
+    "timestamp": 1792974416,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-mem-sac-2026-10-25-spread-away-3pt5",
+    "title": "Spread: Grizzlies (-3.5)",
+    "outcome": "Grizzlies",
+    "side": "BUY",
+    "usd": 57196.13619999999,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1792974416,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13517,
+    "timestamp": 1792974499,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "nfl-kc-sea-2026-10-26",
+    "title": "Chiefs vs. Seahawks",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 41933.687999999995,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1792974499,
     "fills": 1
   }
 ]
