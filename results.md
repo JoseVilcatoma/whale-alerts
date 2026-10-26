@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 22:48:41 (hora de Perú)
+Actualizado: 2026-10-25 22:50:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6690**  ($380,165,863 en total)
-- Resueltas: **6646** — 4063 ganadas / 2583 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **6649** — 4066 ganadas / 2583 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,488,817** sobre $378,246,954 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$5,150** sobre $655,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$1,374,147** sobre $378,361,526 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$4,846** sobre $655,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 105 | 57 | 0 | 65% | $7,001,107 | +$44,480 |
-| googleplay | 20 | 22 | 4 | 48% | $6,849,314 | -$504,140 |
-| Lakersfan111 | 89 | 48 | 2 | 65% | $6,640,887 | +$387,132 |
+| googleplay | 21 | 22 | 3 | 49% | $6,849,314 | -$449,187 |
+| Lakersfan111 | 90 | 48 | 1 | 65% | $6,640,887 | +$418,516 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
-| Jokerxing7 | 13 | 21 | 1 | 38% | $1,948,493 | -$357,802 |
+| Jokerxing7 | 14 | 21 | 0 | 40% | $1,948,493 | -$329,469 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 33 | 3 | 0 | 92% | $1,917,633 | +$67,979 |
 
 _(mostrando los 40 de mayor monto, de 643 en total)_
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | Woaifacai | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $45,760 | +$6,240 | ✅ Ganada |
 | KaneAnalytics | Grizzlies vs. Kings | Grizzlies | 1.28 (78¢) | $51,641 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Chiefs vs. Seahawks | Seahawks | 1.14 (88¢) | $31,434 | +$4,287 | ✅ Ganada |
-| Jokerxing7 | Grizzlies vs. Kings: O/U 239.5 | Under 239.5 | 2.04 (49¢) | $27,222 | — | ⏳ Pendiente |
+| Jokerxing7 | Grizzlies vs. Kings: O/U 239.5 | Under 239.5 | 2.04 (49¢) | $27,222 | +$28,333 | ✅ Ganada |
 | Anon455 | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $26,100 | +$3,900 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Grizzlies vs. Kings | Grizzlies | 1.32 (76¢) | $25,522 | — | ⏳ Pendiente |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.15 (87¢) | $49,637 | +$7,417 | ✅ Ganada |
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.59 (63¢) | $64,496 | — | ⏳ Pendiente |
 | KaneAnalytics | Chiefs vs. Seahawks | Seahawks | 1.67 (60¢) | $41,934 | +$27,956 | ✅ Ganada |
-| googleplay | Spread: Grizzlies (-3.5) | Grizzlies | 1.96 (51¢) | $57,196 | — | ⏳ Pendiente |
+| googleplay | Spread: Grizzlies (-3.5) | Grizzlies | 1.96 (51¢) | $57,196 | +$54,953 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Kings | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | googleplay | Grizzlies vs. Kings | Grizzlies | 1.64 (61¢) | $119,919 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chiefs vs. Seahawks | Seahawks | 1.79 (56¢) | $25,902 | +$20,352 | ✅ Ganada |
