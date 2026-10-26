@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 06:12:20 (hora de Perú)
+Actualizado: 2026-10-26 06:14:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6699**  ($380,549,608 en total)
-- Resueltas: **6667** — 4080 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **6671** — 4084 ganadas / 2587 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 644
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,171,870** sobre $379,188,763 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$4,559** sobre $657,500 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$1,088,201** sobre $379,387,429 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$4,392** sobre $657,900 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 105 | 57 | 0 | 65% | $7,001,107 | +$44,480 |
 | googleplay | 24 | 22 | 0 | 52% | $6,849,314 | -$319,839 |
-| Lakersfan111 | 91 | 48 | 4 | 65% | $6,803,478 | +$458,516 |
+| Lakersfan111 | 93 | 48 | 2 | 66% | $6,803,478 | +$493,916 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -73,11 +73,11 @@ _(mostrando los 40 de mayor monto, de 644 en total)_
 |---|---|---|---|---|---|---|
 | dromedaryy | Will Lamine Yamal win the 2026 Ballon d'Or? | No | 1.11 (90¢) | $27,067 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.56 (64¢) | $44,800 | — | ⏳ Pendiente |
-| salgnklasf | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $83,466 | — | ⏳ Pendiente |
+| salgnklasf | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $83,466 | +$35,771 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: TheMongolz vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | MOUZ | 1.32 (76¢) | $42,068 | +$13,285 | ✅ Ganada |
-| jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $42,000 | — | ⏳ Pendiente |
-| norrisfan | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $30,600 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $42,600 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.43 (70¢) | $42,000 | +$18,000 | ✅ Ganada |
+| norrisfan | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $30,600 | +$12,499 | ✅ Ganada |
+| jakepaulthegoat2008 | Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.41 (71¢) | $42,600 | +$17,400 | ✅ Ganada |
 | Woaifacai | Pan Pacific Open: Moyuka Uchijima vs Elise Mertens | Elise Mertens | 1.06 (94¢) | $37,953 | +$2,423 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.54 (65¢) | $33,192 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Kings | Grizzlies | 1.08 (93¢) | $35,726 | +$2,689 | ✅ Ganada |
