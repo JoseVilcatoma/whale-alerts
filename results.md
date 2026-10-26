@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 20:47:36 (hora de Perú)
+Actualizado: 2026-10-25 20:49:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6679**  ($379,704,191 en total)
-- Resueltas: **6602** — 4032 ganadas / 2570 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Resueltas: **6603** — 4033 ganadas / 2570 perdidas (**61%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,956,285** sobre $375,702,590 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,805** sobre $651,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,903,185** sobre $375,739,490 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,661** sobre $651,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -106,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | mooseborzoii | Packers vs. Lions | Lions | 1.52 (66¢) | $25,631 | +$13,204 | ✅ Ganada |
 | Jokerxing7 | Spread: Thunder (-16.5) | Thunder | 1.92 (52¢) | $33,539 | -$33,539 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $38,727 | +$38,727 | ✅ Ganada |
-| dhgreg | Spread: Thunder (-13.5) | Clippers | 2.44 (41¢) | $36,900 | — | ⏳ Pendiente |
+| dhgreg | Spread: Thunder (-13.5) | Clippers | 2.44 (41¢) | $36,900 | +$53,100 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $33,434 | +$33,434 | ✅ Ganada |
 | ndb1 | Clippers vs. Thunder | Thunder | 1.11 (90¢) | $266,144 | +$29,572 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Canadiens vs. Jets | Jets | 2.08 (48¢) | $34,715 | — | ⏳ Pendiente |
