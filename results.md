@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 11:23:32 (hora de Perú)
+Actualizado: 2026-10-26 11:25:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6712**  ($381,093,058 en total)
+- Apuestas registradas: **6713**  ($381,127,388 en total)
 - Resueltas: **6671** — 4084 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 646
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 105 | 57 | 0 | 65% | $7,001,107 | +$44,480 |
-| Lakersfan111 | 93 | 48 | 5 | 66% | $6,933,417 | +$493,916 |
+| Lakersfan111 | 93 | 48 | 6 | 66% | $6,967,748 | +$493,916 |
 | googleplay | 24 | 22 | 0 | 52% | $6,849,314 | -$319,839 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Counter-Strike: G2 vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | G2 | 1.35 (74¢) | $34,331 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.56 (64¢) | $35,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $47,878 | — | ⏳ Pendiente |
 | Eugycom | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Magic vs. Knicks | Knicks | 1.30 (77¢) | $47,549 | -$47,549 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Magic vs. Knicks | Knicks | 1.30 (77¢) | $25,877 | -$25,877 | ❌ Perdida |
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $61,657 | +$44,648 | ✅ Ganada |
-| Woaifacai | Magic vs. Knicks | Knicks | 1.35 (74¢) | $51,310 | -$51,310 | ❌ Perdida |
