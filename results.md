@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-25 21:18:46 (hora de Perú)
+Actualizado: 2026-10-25 21:20:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6683**  ($379,868,659 en total)
-- Resueltas: **6620** — 4042 ganadas / 2578 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Resueltas: **6622** — 4043 ganadas / 2579 perdidas (**61%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 643
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,818,495** sobre $376,690,977 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,730** sobre $652,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$1,818,782** sobre $376,762,989 apostados (ROI **-0.5%**)
+- Copiando $100 fijo en cada una: **-$5,738** sobre $653,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 478 | 259 | 7 | 65% | $48,521,678 | +$1,536,877 |
-| Sassy-Bucket | 93 | 94 | 5 | 50% | $12,396,975 | -$1,393,191 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 478 | 260 | 6 | 65% | $48,521,678 | +$1,502,162 |
+| Sassy-Bucket | 94 | 94 | 4 | 50% | $12,396,975 | -$1,358,763 |
 | mooseborzoii | 99 | 53 | 5 | 65% | $8,977,216 | +$1,063,860 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -113,9 +113,9 @@ _(mostrando los 40 de mayor monto, de 643 en total)_
 | dhgreg | Spread: Thunder (-13.5) | Clippers | 2.44 (41¢) | $36,900 | +$53,100 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-16.5) | Clippers | 2.00 (50¢) | $33,434 | +$33,434 | ✅ Ganada |
 | ndb1 | Clippers vs. Thunder | Thunder | 1.11 (90¢) | $266,144 | +$29,572 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Canadiens vs. Jets | Jets | 2.08 (48¢) | $34,715 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Canadiens vs. Jets | Jets | 2.08 (48¢) | $34,715 | -$34,715 | ❌ Perdida |
 | dhgreg | Pistons vs. 76ers | 76ers | 2.13 (47¢) | $155,100 | — | ⏳ Pendiente |
-| Sassy-Bucket | Canadiens vs. Jets | Canadiens | 1.92 (52¢) | $37,297 | — | ⏳ Pendiente |
+| Sassy-Bucket | Canadiens vs. Jets | Canadiens | 1.92 (52¢) | $37,297 | +$34,428 | ✅ Ganada |
 | dhgreg | Pistons vs. 76ers | 76ers | 2.13 (47¢) | $30,227 | — | ⏳ Pendiente |
 | Jokerxing7 | Spread: Thunder (-16.5) | Thunder | 2.04 (49¢) | $32,941 | -$32,941 | ❌ Perdida |
 | milkteaboba | Raptors vs. Timberwolves | Timberwolves | 1.69 (59¢) | $182,900 | +$127,100 | ✅ Ganada |
