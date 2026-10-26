@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 10:10:46 (hora de Perú)
+Actualizado: 2026-10-26 10:12:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6706**  ($380,857,126 en total)
+- Apuestas registradas: **6707**  ($380,885,227 en total)
 - Resueltas: **6671** — 4084 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 646
 
 ### Balance
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| Talvez10 | 27 | 23 | 0 | 54% | $2,335,861 | +$220,729 |
+| Talvez10 | 27 | 23 | 1 | 54% | $2,363,962 | +$220,729 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Spread: Hornets (-1.5) | Hornets | 1.85 (54¢) | $28,100 | — | ⏳ Pendiente |
 | mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays | Tampa Bay Rays | 1.96 (51¢) | $44,463 | — | ⏳ Pendiente |
 | 0x33b1…af25 | Will Paris Saint-Germain FC win on 2026-10-25? | Yes | 1.35 (74¢) | $31,095 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 1.37 (73¢) | $47,994 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. 76ers | 76ers | 2.22 (45¢) | $86,482 | -$86,482 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Pacers vs. Nets | Pacers | 1.22 (82¢) | $27,558 | +$6,049 | ✅ Ganada |
 | Siddhartha1 | Pistons vs. 76ers | Pistons | 1.85 (54¢) | $26,881 | +$22,899 | ✅ Ganada |
-| mooseborzoii | Packers vs. Lions | Lions | 1.52 (66¢) | $25,631 | +$13,204 | ✅ Ganada |
