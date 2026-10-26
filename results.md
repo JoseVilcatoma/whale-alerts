@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 11:02:30 (hora de Perú)
+Actualizado: 2026-10-26 11:04:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6710**  ($381,010,180 en total)
+- Apuestas registradas: **6711**  ($381,058,058 en total)
 - Resueltas: **6671** — 4084 ganadas / 2587 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 646
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $47,878 | — | ⏳ Pendiente |
 | Eugycom | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | ArielFilipino | Grizzlies vs. Jazz | Jazz | 1.92 (52¢) | $26,255 | — | ⏳ Pendiente |
 | ArielFilipino | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $27,699 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 646 en total)_
 | mooseborzoii | Chiefs vs. Seahawks | Seahawks | 1.72 (58¢) | $61,657 | +$44,648 | ✅ Ganada |
 | Woaifacai | Magic vs. Knicks | Knicks | 1.35 (74¢) | $51,310 | -$51,310 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Nets | Pacers | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
-| sulumos | Pistons vs. 76ers | 76ers | 2.22 (45¢) | $39,690 | -$39,690 | ❌ Perdida |
