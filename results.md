@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 16:12:44 (hora de Perú)
+Actualizado: 2026-10-27 16:14:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6853**  ($389,086,028 en total)
-- Resueltas: **6821** — 4171 ganadas / 2650 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **6822** — 4171 ganadas / 2651 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 651
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,522,025** sobre $387,714,274 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,657** sobre $672,600 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,552,756** sobre $387,745,005 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,757** sobre $672,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 | jakepaulthegoat2008 | Spread: Spurs (-18.5) | Spurs | 2.00 (50¢) | $25,339 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Pistons vs. Knicks | Knicks | 1.67 (60¢) | $31,194 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Spurs | Spurs | 1.08 (93¢) | $111,351 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Envy vs GamerLegion (BO3) - Tesla Cup Group B | Envy | 1.61 (62¢) | $30,731 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Envy vs GamerLegion (BO3) - Tesla Cup Group B | Envy | 1.61 (62¢) | $30,731 | -$30,731 | ❌ Perdida |
 | justwins | Spread: Spurs (-18.5) | Kings | 2.00 (50¢) | $34,371 | — | ⏳ Pendiente |
 | jessy2 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.33 (43¢) | $31,323 | -$31,323 | ❌ Perdida |
 | kkookkoo | Erste Bank Open: Karen Khachanov vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $25,000 | +$7,468 | ✅ Ganada |
