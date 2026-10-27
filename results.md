@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 08:11:11 (hora de Perú)
+Actualizado: 2026-10-27 08:13:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6837**  ($388,501,156 en total)
+- Apuestas registradas: **6838**  ($388,531,889 en total)
 - Resueltas: **6802** — 4159 ganadas / 2643 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 649
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Trail Blazers vs. Lakers | Lakers | 1.69 (59¢) | $30,733 | — | ⏳ Pendiente |
 | Kkunn | Guangzhou Open: Xinran Sun vs Mananchaya Sawangkaew | Xinran Sun | 1.39 (72¢) | $29,546 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $89,447 | — | ⏳ Pendiente |
 | salgnklasf | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $39,977 | +$4,862 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 2.22 (45¢) | $415,299 | -$415,299 | ❌ Perdida |
 | googleplay | Grizzlies vs. Jazz | Grizzlies | 1.92 (52¢) | $57,781 | +$53,336 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Mavericks vs. Heat | Heat | 1.28 (78¢) | $26,167 | -$26,167 | ❌ Perdida |
-| Elaran1993 | Cowboys vs. Eagles | Cowboys | 1.85 (54¢) | $54,000 | +$46,000 | ✅ Ganada |
