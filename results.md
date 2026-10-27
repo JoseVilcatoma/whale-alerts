@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 20:39:07 (hora de Perú)
+Actualizado: 2026-10-26 20:41:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6793**  ($386,161,184 en total)
+- Apuestas registradas: **6795**  ($386,268,521 en total)
 - Resueltas: **6692** — 4097 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 79
+- Pendientes: 81
 - Apostadores distintos: 648
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | googleplay | 24 | 22 | 10 | 52% | $7,386,595 | -$319,839 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 105 | 57 | 1 | 65% | $7,042,218 | +$44,480 |
+| ferrariChampions2026 | 105 | 57 | 2 | 65% | $7,120,218 | +$44,480 |
 | Lakersfan111 | 95 | 52 | 0 | 65% | $6,967,748 | +$372,719 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Hawks vs. Rockets | Rockets | 1.96 (51¢) | $29,336 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
 | milkteaboba | Cowboys vs. Eagles | Cowboys | 1.61 (62¢) | $81,648 | — | ⏳ Pendiente |
 | cosmicxbt | Cowboys vs. Eagles | Cowboys | 1.47 (68¢) | $68,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $104,908 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Wizards | 2.50 (40¢) | $120,000 | — | ⏳ Pendiente |
 | googleplay | Wizards vs. Hornets | Hornets | 1.69 (59¢) | $44,250 | — | ⏳ Pendiente |
 | googleplay | Spread: Hornets (-2.5) | Hornets | 1.89 (53¢) | $30,976 | — | ⏳ Pendiente |
-| sulumos | Wizards vs. Hornets | Wizards | 2.44 (41¢) | $32,677 | — | ⏳ Pendiente |
-| googleplay | Wizards vs. Hornets | Hornets | 1.69 (59¢) | $39,608 | — | ⏳ Pendiente |
