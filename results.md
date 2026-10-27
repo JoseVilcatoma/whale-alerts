@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 19:48:12 (hora de Perú)
+Actualizado: 2026-10-26 19:50:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6782**  ($385,569,997 en total)
+- Apuestas registradas: **6785**  ($385,680,643 en total)
 - Resueltas: **6691** — 4096 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 69
-- Apostadores distintos: 647
+- Pendientes: 72
+- Apostadores distintos: 648
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 481 | 264 | 12 | 65% | $49,472,408 | +$1,338,540 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 481 | 264 | 13 | 65% | $49,503,608 | +$1,338,540 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
 | mooseborzoii | 103 | 53 | 3 | 66% | $9,057,960 | +$1,293,210 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jokerxing7 | 14 | 21 | 0 | 40% | $1,948,493 | -$329,469 |
 | juice-fruit | 23 | 9 | 1 | 72% | $1,942,948 | +$494,388 |
 
-_(mostrando los 40 de mayor monto, de 647 en total)_
+_(mostrando los 40 de mayor monto, de 648 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x9ACA96e73df7808A21E426094436C3f06590dEDC-1766897988378 | Cowboys vs. Eagles | Cowboys | 1.64 (61¢) | $52,374 | — | ⏳ Pendiente |
+| sifonman | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $27,072 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Jazz | Grizzlies | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
 | NS13 | Mavericks vs. Heat | Heat | 1.54 (65¢) | $45,584 | — | ⏳ Pendiente |
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 2.22 (45¢) | $415,299 | — | ⏳ Pendiente |
 | googleplay | Grizzlies vs. Jazz | Grizzlies | 1.92 (52¢) | $57,781 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | Paracellus | Timberwolves vs. Cavaliers | Cavaliers | 1.75 (57¢) | $27,246 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.67 (60¢) | $132,000 | +$88,000 | ✅ Ganada |
 | ropetard | Timberwolves vs. Cavaliers | Timberwolves | 2.44 (41¢) | $27,559 | +$0 | 💰 Vendida antes |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 2.50 (40¢) | $40,000 | -$40,000 | ❌ Perdida |
-| dromedaryy | Will Kylian Mbappé win the 2026 Ballon d'Or? | No | 1.30 (77¢) | $25,063 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend - Game 1 Winner | Team Liquid | 2.86 (35¢) | $28,000 | +$52,000 | ✅ Ganada |

@@ -101936,5 +101936,50 @@
     "status": "pending",
     "ultimo_fill": 1793062044,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13745,
+    "timestamp": 1793062147,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-mem-uta-2026-10-26",
+    "title": "Grizzlies vs. Jazz",
+    "outcome": "Grizzlies",
+    "side": "BUY",
+    "usd": 31200.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793062147,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13746,
+    "timestamp": 1793062162,
+    "username": "sifonman",
+    "wallet": "0x6ac96d439f44a8dd84de19a781fcbbab5bdee85a",
+    "slug": "nba-mem-uta-2026-10-26",
+    "title": "Grizzlies vs. Jazz",
+    "outcome": "Jazz",
+    "side": "BUY",
+    "usd": 27072.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1793062162,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13747,
+    "timestamp": 1793062172,
+    "username": "0x9ACA96e73df7808A21E426094436C3f06590dEDC-1766897988378",
+    "wallet": "0xca01b952835dcca6f8ccb1ce8a2028448eef20e4",
+    "slug": "nfl-dal-phi-2026-10-27",
+    "title": "Cowboys vs. Eagles",
+    "outcome": "Cowboys",
+    "side": "BUY",
+    "usd": 52374.350000000006,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1793062172,
+    "fills": 1
   }
 ]
