@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 20:51:37 (hora de Perú)
+Actualizado: 2026-10-26 20:53:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6797**  ($386,620,061 en total)
+- Apuestas registradas: **6798**  ($386,691,061 en total)
 - Resueltas: **6706** — 4107 ganadas / 2599 perdidas (**61%** de acierto)
-- Pendientes: 69
+- Pendientes: 70
 - Apostadores distintos: 648
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bbb17367162806 | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-7.5) | Nuggets | 2.13 (47¢) | $117,500 | — | ⏳ Pendiente |
 | googleplay | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $234,040 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Hawks vs. Rockets | Rockets | 1.96 (51¢) | $29,336 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | googleplay | Wizards vs. Hornets: O/U 227.5 | Under 227.5 | 1.89 (53¢) | $31,757 | +$28,161 | ✅ Ganada |
 | ethBELIVER | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | dromedaryy | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.41 (71¢) | $61,479 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Wizards | 2.50 (40¢) | $120,000 | -$120,000 | ❌ Perdida |
