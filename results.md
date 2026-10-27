@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 05:58:00 (hora de Perú)
+Actualizado: 2026-10-27 06:00:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6835**  ($388,382,163 en total)
+- Apuestas registradas: **6836**  ($388,471,610 en total)
 - Resueltas: **6796** — 4154 ganadas / 2642 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 649
 
 ### Balance
@@ -32,8 +32,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 36 | 23 | 0 | 61% | $7,742,265 | +$333,941 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
+| Lakersfan111 | 95 | 52 | 4 | 65% | $7,217,508 | +$372,719 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| Lakersfan111 | 95 | 52 | 3 | 65% | $7,128,061 | +$372,719 |
 | ferrariChampions2026 | 107 | 57 | 0 | 65% | $7,120,218 | +$166,726 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $89,447 | — | ⏳ Pendiente |
 | salgnklasf | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $39,977 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $81,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | keeptheblueflagflyinghigh | Mavericks vs. Heat | Heat | 1.28 (78¢) | $26,167 | -$26,167 | ❌ Perdida |
 | Elaran1993 | Cowboys vs. Eagles | Cowboys | 1.85 (54¢) | $54,000 | +$46,000 | ✅ Ganada |
 | EdZachary | Cowboys vs. Eagles | Eagles | 3.03 (33¢) | $33,000 | -$33,000 | ❌ Perdida |
-| dhgreg | Grizzlies vs. Jazz: O/U 238.5 | Over 238.5 | 2.08 (48¢) | $96,305 | -$96,305 | ❌ Perdida |
