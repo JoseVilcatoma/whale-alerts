@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 18:58:15 (hora de Perú)
+Actualizado: 2026-10-26 19:00:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6761**  ($383,847,816 en total)
+- Apuestas registradas: **6762**  ($383,937,672 en total)
 - Resueltas: **6691** — 4096 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 647
 
 ### Balance
@@ -31,8 +31,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
+| googleplay | 24 | 22 | 8 | 52% | $7,294,383 | -$319,839 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| googleplay | 24 | 22 | 7 | 52% | $7,204,528 | -$319,839 |
 | ferrariChampions2026 | 105 | 57 | 1 | 65% | $7,042,218 | +$44,480 |
 | Lakersfan111 | 95 | 52 | 0 | 65% | $6,967,748 | +$372,719 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Thunder (-8.5) | Suns | 1.89 (53¢) | $89,855 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-6.5) | Thunder | 1.79 (56¢) | $61,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Bucks | Bucks | 2.44 (41¢) | $28,818 | — | ⏳ Pendiente |
 | ic4cream | Pacers vs. Bucks | Pacers | 1.69 (59¢) | $41,470 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | 0x33b1…af25 | Will Paris Saint-Germain FC win on 2026-10-25? | Yes | 1.35 (74¢) | $31,095 | +$10,925 | ✅ Ganada |
 | jakepaulthegoat2008 | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Anyone's Legend | 1.37 (73¢) | $47,994 | -$47,994 | ❌ Perdida |
 | jakepaulthegoat2008 | LoL: LOS vs Team Secret Whales (BO3) - Worlds Group Stage | Team Secret Whales | 1.47 (68¢) | $53,945 | -$53,945 | ❌ Perdida |
-| jakepaulthegoat2008 | Counter-Strike: Liquid vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.43 (70¢) | $28,000 | -$28,000 | ❌ Perdida |

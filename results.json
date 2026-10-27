@@ -101621,5 +101621,20 @@
     "status": "pending",
     "ultimo_fill": 1793058983,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13724,
+    "timestamp": 1793059161,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-phx-okc-2026-10-26-spread-home-8pt5",
+    "title": "Spread: Thunder (-8.5)",
+    "outcome": "Suns",
+    "side": "BUY",
+    "usd": 89855.4203,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1793059161,
+    "fills": 1
   }
 ]
