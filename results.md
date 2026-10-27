@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 01:19:13 (hora de Perú)
+Actualizado: 2026-10-27 01:21:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6824**  ($387,945,923 en total)
+- Apuestas registradas: **6825**  ($387,973,201 en total)
 - Resueltas: **6793** — 4152 ganadas / 2641 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 649
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 4217893367451 | Counter-Strike: FURIA vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.10 (91¢) | $27,278 | — | ⏳ Pendiente |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: TheMongolz vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $43,856 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $25,142 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | gmpm2 | Cowboys vs. Eagles: O/U 44.5 | Under 44.5 | 1.89 (53¢) | $71,418 | -$71,418 | ❌ Perdida |
 | yabanci | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $58,850 | -$58,850 | ❌ Perdida |
 | dhgreg | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $100,000 | -$100,000 | ❌ Perdida |
-| yabanci | Spread: Pacers (-3.5) | Pacers | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
