@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 20:45:25 (hora de Perú)
+Actualizado: 2026-10-26 20:47:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6796**  ($386,502,561 en total)
-- Resueltas: **6693** — 4098 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 81
+- Resueltas: **6694** — 4099 ganadas / 2595 perdidas (**61%** de acierto)
+- Pendientes: 80
 - Apostadores distintos: 648
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,069,578** sobre $380,500,802 apostados (ROI **-0.3%**)
+- **Resultado de los apostadores: -$1,055,841** sobre $380,553,176 apostados (ROI **-0.3%**)
 - Copiando $100 fijo en cada una: **-$4,101** sobre $660,000 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | juice-fruit | Cowboys vs. Eagles | Cowboys | 1.92 (52¢) | $78,749 | — | ⏳ Pendiente |
 | KaneAnalytics | Cowboys vs. Eagles | Eagles | 2.17 (46¢) | $55,157 | — | ⏳ Pendiente |
 | 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
-| 0x9ACA96e73df7808A21E426094436C3f06590dEDC-1766897988378 | Cowboys vs. Eagles | Cowboys | 1.64 (61¢) | $52,374 | — | ⏳ Pendiente |
+| 0x9ACA96e73df7808A21E426094436C3f06590dEDC-1766897988378 | Cowboys vs. Eagles | Cowboys | 1.64 (61¢) | $52,374 | +$13,738 | 💰 Vendida antes |
 | sifonman | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $27,072 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Jazz | Grizzlies | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
 | NS13 | Mavericks vs. Heat | Heat | 1.54 (65¢) | $45,584 | — | ⏳ Pendiente |
