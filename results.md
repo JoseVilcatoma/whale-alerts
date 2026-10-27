@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 05:15:11 (hora de Perú)
+Actualizado: 2026-10-27 05:17:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6832**  ($388,232,785 en total)
-- Resueltas: **6795** — 4153 ganadas / 2642 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **6796** — 4154 ganadas / 2642 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,670,615** sobre $386,744,269 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,942** sobre $670,100 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,621,910** sobre $386,770,495 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,757** sobre $670,200 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Kkunn | Pan Pacific Open: Tereza Valentova vs Mia Pohankova | Mia Pohankova | 2.86 (35¢) | $26,226 | — | ⏳ Pendiente |
+| Kkunn | Pan Pacific Open: Tereza Valentova vs Mia Pohankova | Mia Pohankova | 2.86 (35¢) | $26,226 | +$48,705 | ✅ Ganada |
 | NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Katie Volynets | 1.20 (83¢) | $25,509 | -$25,509 | ❌ Perdida |
 | jakepaulthegoat2008 | Counter-Strike: MIBR vs Eternal Fire (BO3) - Stake Ranked Episode 5 Playoffs | MIBR | 1.56 (64¢) | $50,913 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.27 (44¢) | $29,876 | — | ⏳ Pendiente |
