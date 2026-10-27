@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 10:04:08 (hora de Perú)
+Actualizado: 2026-10-27 10:06:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6846**  ($388,771,109 en total)
+- Apuestas registradas: **6847**  ($388,805,480 en total)
 - Resueltas: **6807** — 4164 ganadas / 2643 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 651
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | Spread: Spurs (-18.5) | Kings | 2.00 (50¢) | $34,371 | — | ⏳ Pendiente |
 | jessy2 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.33 (43¢) | $31,323 | — | ⏳ Pendiente |
 | kkookkoo | Erste Bank Open: Karen Khachanov vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $25,000 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Spirit vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.75 (57¢) | $37,196 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 | keeptheblueflagflyinghigh | Pacers vs. Bucks | Pacers | 1.20 (83¢) | $26,423 | -$26,423 | ❌ Perdida |
 | Electricy | Cowboys vs. Eagles | Cowboys | 1.92 (52¢) | $37,456 | +$34,574 | ✅ Ganada |
 | juice-fruit | Cowboys vs. Eagles | Cowboys | 1.92 (52¢) | $78,749 | +$72,691 | ✅ Ganada |
-| KaneAnalytics | Cowboys vs. Eagles | Eagles | 2.17 (46¢) | $55,157 | -$55,157 | ❌ Perdida |
