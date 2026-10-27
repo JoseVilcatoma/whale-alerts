@@ -102990,5 +102990,20 @@
     "status": "pending",
     "ultimo_fill": 1793116676,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13934,
+    "timestamp": 1793129553,
+    "username": "01258787xy48487484545122",
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "slug": "atp-varilla-pacheco-2026-10-26",
+    "title": "Guayaquil: Juan Pablo Varillas vs Rodrigo Pacheco",
+    "outcome": "Rodrigo Pacheco",
+    "side": "BUY",
+    "usd": 46932.099299953996,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1793129553,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 14:50:09 (hora de Perú)
+Actualizado: 2026-10-27 14:52:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6852**  ($389,039,096 en total)
+- Apuestas registradas: **6853**  ($389,086,028 en total)
 - Resueltas: **6819** — 4169 ganadas / 2650 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 651
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 01258787xy48487484545122 | Guayaquil: Juan Pablo Varillas vs Rodrigo Pacheco | Rodrigo Pacheco | 1.11 (90¢) | $46,932 | — | ⏳ Pendiente |
 | salgnklasf | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.45 (69¢) | $35,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Spread: Spurs (-18.5) | Spurs | 2.00 (50¢) | $25,339 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Pistons vs. Knicks | Knicks | 1.67 (60¢) | $31,194 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 | googleplay | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $234,040 | +$216,037 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Hawks vs. Rockets | Rockets | 1.96 (51¢) | $29,336 | +$28,186 | ✅ Ganada |
 | ferrariChampions2026 | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $78,000 | +$72,000 | ✅ Ganada |
-| milkteaboba | Cowboys vs. Eagles | Cowboys | 1.61 (62¢) | $81,648 | +$50,042 | ✅ Ganada |
