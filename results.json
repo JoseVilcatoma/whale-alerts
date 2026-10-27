@@ -101826,10 +101826,40 @@
     "title": "Cowboys vs. Eagles",
     "outcome": "Cowboys",
     "side": "BUY",
-    "usd": 121108.7684,
+    "usd": 229908.7616,
     "odds_at_bet": 68,
     "status": "pending",
-    "ultimo_fill": 1793060576,
+    "ultimo_fill": 1793060632,
+    "fills": 4
+  },
+  {
+    "telegram_msg_id": 13738,
+    "timestamp": 1793060605,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nba-mem-uta-2026-10-26-total-238pt5",
+    "title": "Grizzlies vs. Jazz: O/U 238.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 96304.63680000001,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1793060626,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13739,
+    "timestamp": 1793060626,
+    "username": "EdZachary",
+    "wallet": "0xe5b70fd855af9258d9463992e4f1ed7987905ee3",
+    "slug": "nfl-dal-phi-2026-10-27",
+    "title": "Cowboys vs. Eagles",
+    "outcome": "Eagles",
+    "side": "BUY",
+    "usd": 33000.0,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "ultimo_fill": 1793060626,
+    "fills": 1
   }
 ]
