@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 08:09:04 (hora de Perú)
+Actualizado: 2026-10-27 08:11:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6837**  ($388,501,156 en total)
-- Resueltas: **6798** — 4155 ganadas / 2643 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **6802** — 4159 ganadas / 2643 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,661,148** sobre $386,854,572 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,857** sobre $670,300 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,553,669** sobre $387,010,578 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,581** sobre $670,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,17 +82,17 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.27 (44¢) | $29,876 | — | ⏳ Pendiente |
 | NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Dayana Yastremska | 2.78 (36¢) | $26,605 | +$47,298 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: B8 vs K27 (BO3) - Tesla Cup Group A | B8 | 1.59 (63¢) | $44,100 | -$44,100 | ❌ Perdida |
-| lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $56,356 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $56,356 | +$39,163 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: FURIA vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.10 (91¢) | $27,278 | — | ⏳ Pendiente |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: TheMongolz vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $43,856 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $25,142 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Seoul: Omar Jasika vs Alexandre Muller | Omar Jasika | 1.06 (94¢) | $29,673 | +$1,894 | ✅ Ganada |
-| 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.67 (60¢) | $33,000 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $41,195 | — | ⏳ Pendiente |
+| 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.67 (60¢) | $33,000 | +$22,000 | ✅ Ganada |
+| lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $41,195 | +$28,627 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Warriors | 1.18 (85¢) | $44,070 | +$7,777 | ✅ Ganada |
 | Zywoo123 | Warriors vs. Nuggets | Warriors | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
-| NS13 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $25,454 | — | ⏳ Pendiente |
+| NS13 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $25,454 | +$17,689 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Warriors vs. Nuggets | Nuggets | 1.72 (58¢) | $75,000 | -$75,000 | ❌ Perdida |
 | googleplay | Spread: Nuggets (-1.5) | Warriors | 2.08 (48¢) | $95,770 | +$103,751 | ✅ Ganada |
 | yabanci | Spread: Nuggets (-2.5) | Nuggets | 2.04 (49¢) | $52,430 | -$52,430 | ❌ Perdida |
