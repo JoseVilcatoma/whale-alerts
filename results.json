@@ -102493,5 +102493,20 @@
     "status": "pending",
     "ultimo_fill": 1793073711,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13851,
+    "timestamp": 1793074225,
+    "username": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-nemi1-dendel-2026-10-27",
+    "title": "Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "usd": 33000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1793074225,
+    "fills": 1
   }
 ]
