@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 07:05:26 (hora de Perú)
+Actualizado: 2026-10-27 07:07:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6837**  ($388,501,156 en total)
-- Resueltas: **6797** — 4154 ganadas / 2643 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **6798** — 4155 ganadas / 2643 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,666,010** sobre $386,814,595 apostados (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,661,148** sobre $386,854,572 apostados (ROI **-0.7%**)
 - Copiando $100 fijo en cada una: **-$4,857** sobre $670,300 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 |---|---|---|---|---|---|---|
 | Kkunn | Guangzhou Open: Xinran Sun vs Mananchaya Sawangkaew | Xinran Sun | 1.39 (72¢) | $29,546 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $89,447 | — | ⏳ Pendiente |
-| salgnklasf | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $39,977 | — | ⏳ Pendiente |
+| salgnklasf | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $39,977 | +$4,862 | 💰 Vendida antes |
 | jakepaulthegoat2008 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $81,400 | — | ⏳ Pendiente |
 | Kkunn | Pan Pacific Open: Tereza Valentova vs Mia Pohankova | Mia Pohankova | 2.86 (35¢) | $26,226 | +$48,705 | ✅ Ganada |
