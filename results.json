@@ -103105,10 +103105,25 @@
     "title": "Nets vs. Celtics: O/U 223.5",
     "outcome": "Under",
     "side": "BUY",
-    "usd": 90014.0,
+    "usd": 120181.01,
     "odds_at_bet": 50,
     "status": "pending",
-    "ultimo_fill": 1793143625,
+    "ultimo_fill": 1793143661,
+    "fills": 3
+  },
+  {
+    "telegram_msg_id": 13947,
+    "timestamp": 1793143676,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-bkn-bos-2026-10-27-total-223pt5",
+    "title": "Nets vs. Celtics: O/U 223.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 135317.21370000002,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793143726,
     "fills": 2
   }
 ]
