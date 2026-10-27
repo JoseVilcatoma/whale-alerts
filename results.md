@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 20:43:20 (hora de Perú)
+Actualizado: 2026-10-26 20:45:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6795**  ($386,268,521 en total)
+- Apuestas registradas: **6796**  ($386,502,561 en total)
 - Resueltas: **6693** — 4098 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 80
+- Pendientes: 81
 - Apostadores distintos: 648
 
 ### Balance
@@ -29,9 +29,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 103 | 53 | 3 | 66% | $9,057,960 | +$1,293,210 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
+| googleplay | 25 | 22 | 10 | 53% | $7,620,635 | -$291,677 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| googleplay | 25 | 22 | 9 | 53% | $7,386,595 | -$291,677 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 105 | 57 | 2 | 65% | $7,120,218 | +$44,480 |
 | Lakersfan111 | 95 | 52 | 0 | 65% | $6,967,748 | +$372,719 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $234,040 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Hawks vs. Rockets | Rockets | 1.96 (51¢) | $29,336 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
 | milkteaboba | Cowboys vs. Eagles | Cowboys | 1.61 (62¢) | $81,648 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | dromedaryy | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.41 (71¢) | $61,479 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Wizards | 2.50 (40¢) | $120,000 | — | ⏳ Pendiente |
 | googleplay | Wizards vs. Hornets | Hornets | 1.69 (59¢) | $44,250 | — | ⏳ Pendiente |
-| googleplay | Spread: Hornets (-2.5) | Hornets | 1.89 (53¢) | $30,976 | — | ⏳ Pendiente |
