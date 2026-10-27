@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 22:48:02 (hora de Perú)
+Actualizado: 2026-10-26 22:50:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6816**  ($387,675,488 en total)
-- Resueltas: **6760** — 4137 ganadas / 2623 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **6770** — 4141 ganadas / 2629 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,122,067** sobre $384,582,734 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,371** sobre $666,600 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,326,583** sobre $385,123,445 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,666** sobre $667,600 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 486 | 270 | 11 | 64% | $50,132,508 | +$818,469 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 487 | 271 | 9 | 64% | $50,132,508 | +$742,361 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
 | mooseborzoii | 103 | 55 | 1 | 65% | $9,057,960 | +$1,212,466 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| googleplay | 32 | 23 | 4 | 58% | $7,742,265 | -$73,463 |
+| googleplay | 33 | 23 | 3 | 59% | $7,742,265 | -$20,126 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-2.5) | Nuggets | 2.04 (49¢) | $84,710 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Warriors | 2.38 (42¢) | $29,262 | — | ⏳ Pendiente |
 | googleplay | Warriors vs. Nuggets | Warriors | 2.33 (43¢) | $25,860 | — | ⏳ Pendiente |
-| CHZHSHCH | Grizzlies vs. Jazz | Grizzlies | 1.25 (80¢) | $64,198 | — | ⏳ Pendiente |
+| CHZHSHCH | Grizzlies vs. Jazz | Grizzlies | 1.25 (80¢) | $64,198 | +$16,050 | ✅ Ganada |
 | dhgreg | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-9.5) | Warriors | 1.69 (59¢) | $27,199 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Nuggets | 1.43 (70¢) | $137,830 | — | ⏳ Pendiente |
@@ -96,18 +96,18 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | ferrariChampions2026 | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
 | milkteaboba | Cowboys vs. Eagles | Cowboys | 1.61 (62¢) | $81,648 | +$50,042 | ✅ Ganada |
 | cosmicxbt | Cowboys vs. Eagles | Cowboys | 1.47 (68¢) | $68,000 | +$32,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $104,908 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $104,908 | -$104,908 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Pacers vs. Bucks | Pacers | 1.20 (83¢) | $26,423 | -$26,423 | ❌ Perdida |
 | Electricy | Cowboys vs. Eagles | Cowboys | 1.92 (52¢) | $37,456 | +$34,574 | ✅ Ganada |
 | juice-fruit | Cowboys vs. Eagles | Cowboys | 1.92 (52¢) | $78,749 | +$72,691 | ✅ Ganada |
 | KaneAnalytics | Cowboys vs. Eagles | Eagles | 2.17 (46¢) | $55,157 | -$55,157 | ❌ Perdida |
-| 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
+| 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $28,200 | -$28,200 | ❌ Perdida |
 | 0x9ACA96e73df7808A21E426094436C3f06590dEDC-1766897988378 | Cowboys vs. Eagles | Cowboys | 1.64 (61¢) | $52,374 | +$13,738 | 💰 Vendida antes |
-| sifonman | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $27,072 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Jazz | Grizzlies | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
+| sifonman | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $27,072 | -$27,072 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Jazz | Grizzlies | 1.92 (52¢) | $31,200 | +$28,800 | ✅ Ganada |
 | NS13 | Mavericks vs. Heat | Heat | 1.54 (65¢) | $45,584 | -$45,584 | ❌ Perdida |
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 2.22 (45¢) | $415,299 | -$415,299 | ❌ Perdida |
-| googleplay | Grizzlies vs. Jazz | Grizzlies | 1.92 (52¢) | $57,781 | — | ⏳ Pendiente |
+| googleplay | Grizzlies vs. Jazz | Grizzlies | 1.92 (52¢) | $57,781 | +$53,336 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Mavericks vs. Heat | Heat | 1.28 (78¢) | $26,167 | -$26,167 | ❌ Perdida |
 | Elaran1993 | Cowboys vs. Eagles | Cowboys | 1.85 (54¢) | $54,000 | +$46,000 | ✅ Ganada |
 | EdZachary | Cowboys vs. Eagles | Eagles | 3.03 (33¢) | $33,000 | -$33,000 | ❌ Perdida |
@@ -116,12 +116,12 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | dhgreg | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $36,181 | — | ⏳ Pendiente |
 | Anon455 | Cowboys vs. Eagles | Cowboys | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Wizards vs. Hornets | Hornets | 1.25 (80¢) | $26,838 | +$6,710 | ✅ Ganada |
-| Siddhartha1 | Grizzlies vs. Jazz | Grizzlies | 1.96 (51¢) | $43,263 | — | ⏳ Pendiente |
+| Siddhartha1 | Grizzlies vs. Jazz | Grizzlies | 1.96 (51¢) | $43,263 | +$41,566 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cowboys (-4.5) | Eagles | 1.96 (51¢) | $153,000 | -$153,000 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Cowboys (-4.5) | Eagles | 1.96 (51¢) | $51,000 | -$51,000 | ❌ Perdida |
 | gmpm2 | Cowboys vs. Eagles: O/U 44.5 | Under 44.5 | 1.89 (53¢) | $71,418 | -$71,418 | ❌ Perdida |
 | yabanci | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $58,850 | -$58,850 | ❌ Perdida |
-| dhgreg | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
+| dhgreg | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $100,000 | -$100,000 | ❌ Perdida |
 | yabanci | Spread: Pacers (-3.5) | Pacers | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
 | RJW1 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | googleplay | Spread: Pacers (-3.5) | Bucks | 1.92 (52¢) | $34,431 | +$31,783 | ✅ Ganada |
