@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 19:56:41 (hora de Perú)
+Actualizado: 2026-10-26 19:58:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6786**  ($385,708,843 en total)
+- Apuestas registradas: **6788**  ($385,842,749 en total)
 - Resueltas: **6691** — 4096 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Pendientes: 75
 - Apostadores distintos: 648
 
 ### Balance
@@ -61,9 +61,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
+| juice-fruit | 23 | 9 | 2 | 72% | $2,021,697 | +$494,388 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | Jokerxing7 | 14 | 21 | 0 | 40% | $1,948,493 | -$329,469 |
-| juice-fruit | 23 | 9 | 1 | 72% | $1,942,948 | +$494,388 |
 
 _(mostrando los 40 de mayor monto, de 648 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Cowboys vs. Eagles | Cowboys | 1.92 (52¢) | $78,749 | — | ⏳ Pendiente |
+| KaneAnalytics | Cowboys vs. Eagles | Eagles | 2.17 (46¢) | $55,157 | — | ⏳ Pendiente |
 | 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
 | 0x9ACA96e73df7808A21E426094436C3f06590dEDC-1766897988378 | Cowboys vs. Eagles | Cowboys | 1.64 (61¢) | $52,374 | — | ⏳ Pendiente |
 | sifonman | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $27,072 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | Baronen11 | Timberwolves vs. Cavaliers | Cavaliers | 1.72 (58¢) | $32,932 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend - Game 2 Winner | Team Liquid | 2.13 (47¢) | $65,800 | +$74,200 | ✅ Ganada |
 | illenial | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.64 (61¢) | $32,228 | +$20,605 | ✅ Ganada |
-| Paracellus | Timberwolves vs. Cavaliers | Cavaliers | 1.75 (57¢) | $27,246 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.67 (60¢) | $132,000 | +$88,000 | ✅ Ganada |
