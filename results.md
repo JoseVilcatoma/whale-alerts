@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 06:34:54 (hora de Perú)
+Actualizado: 2026-10-27 06:37:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6836**  ($388,471,610 en total)
-- Resueltas: **6796** — 4154 ganadas / 2642 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **6797** — 4154 ganadas / 2643 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,621,910** sobre $386,770,495 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,757** sobre $670,200 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,666,010** sobre $386,814,595 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,857** sobre $670,300 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | jakepaulthegoat2008 | Counter-Strike: MIBR vs Eternal Fire (BO3) - Stake Ranked Episode 5 Playoffs | MIBR | 1.56 (64¢) | $50,913 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.27 (44¢) | $29,876 | — | ⏳ Pendiente |
 | NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Dayana Yastremska | 2.78 (36¢) | $26,605 | +$47,298 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: B8 vs K27 (BO3) - Tesla Cup Group A | B8 | 1.59 (63¢) | $44,100 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: B8 vs K27 (BO3) - Tesla Cup Group A | B8 | 1.59 (63¢) | $44,100 | -$44,100 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $56,356 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: FURIA vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.10 (91¢) | $27,278 | — | ⏳ Pendiente |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: TheMongolz vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
