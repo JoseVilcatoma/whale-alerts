@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 20:57:59 (hora de Perú)
+Actualizado: 2026-10-26 21:00:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6800**  ($386,780,591 en total)
-- Resueltas: **6708** — 4109 ganadas / 2599 perdidas (**61%** de acierto)
-- Pendientes: 70
-- Apostadores distintos: 648
+- Apuestas registradas: **6802**  ($386,885,282 en total)
+- Resueltas: **6713** — 4112 ganadas / 2601 perdidas (**61%** de acierto)
+- Pendientes: 67
+- Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,020,604** sobre $381,169,493 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$3,879** sobre $661,400 (ROI **-0.6%**)
+- **Resultado de los apostadores: -$1,062,318** sobre $381,435,932 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$3,966** sobre $661,900 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 483 | 265 | 13 | 65% | $49,782,016 | +$1,259,226 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 483 | 266 | 12 | 64% | $49,782,016 | +$1,216,099 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
 | mooseborzoii | 103 | 53 | 3 | 66% | $9,057,960 | +$1,293,210 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | Jokerxing7 | 14 | 21 | 0 | 40% | $1,948,493 | -$329,469 |
 
-_(mostrando los 40 de mayor monto, de 648 en total)_
+_(mostrando los 40 de mayor monto, de 649 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Eugycom | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
+| Leemur | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $33,691 | — | ⏳ Pendiente |
 | KaneAnalytics | Timberwolves vs. Cavaliers | Cavaliers | 1.19 (84¢) | $33,531 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 12.50 (8¢) | $56,000 | — | ⏳ Pendiente |
 | bbb17367162806 | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
@@ -104,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cowboys (-4.5) | Eagles | 1.96 (51¢) | $153,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Cowboys (-4.5) | Eagles | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | gmpm2 | Cowboys vs. Eagles: O/U 44.5 | Under 44.5 | 1.89 (53¢) | $71,418 | — | ⏳ Pendiente |
-| yabanci | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $58,850 | — | ⏳ Pendiente |
+| yabanci | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $58,850 | -$58,850 | ❌ Perdida |
 | dhgreg | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | yabanci | Spread: Pacers (-3.5) | Pacers | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | juice-fruit | Wizards vs. Hornets | Wizards | 2.44 (41¢) | $31,761 | -$31,761 | ❌ Perdida |
 | Elaran1993 | Mavericks vs. Heat: O/U 239.5 | Over 239.5 | 1.89 (53¢) | $37,094 | — | ⏳ Pendiente |
 | dhgreg | Timberwolves vs. Cavaliers | Cavaliers | 1.69 (59¢) | $25,080 | — | ⏳ Pendiente |
-| googleplay | Wizards vs. Hornets | Hornets | 1.67 (60¢) | $104,987 | +$69,992 | ✅ Ganada |
-| googleplay | Wizards vs. Hornets: O/U 227.5 | Under 227.5 | 1.89 (53¢) | $31,757 | +$28,161 | ✅ Ganada |

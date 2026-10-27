@@ -100986,7 +100986,7 @@
     "side": "BUY",
     "usd": 74583.2536,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793046040,
     "fills": 1
   },
@@ -101001,7 +101001,7 @@
     "side": "BUY",
     "usd": 43127.12664,
     "odds_at_bet": 23,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793047473,
     "fills": 1
   },
@@ -101288,7 +101288,7 @@
     "side": "BUY",
     "usd": 61478.90788,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793053552,
     "fills": 1
   },
@@ -101303,7 +101303,7 @@
     "side": "BUY",
     "usd": 28400.0,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793053828,
     "fills": 1
   },
@@ -101708,7 +101708,7 @@
     "side": "BUY",
     "usd": 58850.00000000001,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793059770,
     "fills": 1
   },
@@ -102207,6 +102207,36 @@
     "odds_at_bet": 84,
     "status": "pending",
     "ultimo_fill": 1793066128,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13780,
+    "timestamp": 1793066354,
+    "username": "Leemur",
+    "wallet": "0x29deb07c49818d0bc246cf5ec2f2bbd4733152ee",
+    "slug": "nba-gsw-den-2026-10-26",
+    "title": "Warriors vs. Nuggets",
+    "outcome": "Nuggets",
+    "side": "BUY",
+    "usd": 33691.1046,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1793066354,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13786,
+    "timestamp": 1793066405,
+    "username": "Eugycom",
+    "wallet": "0x64ceab3becc143e1b97a8e16dc270c2297566015",
+    "slug": "nba-gsw-den-2026-10-26",
+    "title": "Warriors vs. Nuggets",
+    "outcome": "Nuggets",
+    "side": "BUY",
+    "usd": 71000.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1793066405,
     "fills": 1
   }
 ]
