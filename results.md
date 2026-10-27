@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 19:58:49 (hora de Perú)
+Actualizado: 2026-10-26 20:00:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6788**  ($385,842,749 en total)
+- Apuestas registradas: **6789**  ($385,880,205 en total)
 - Resueltas: **6691** — 4096 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 75
+- Pendientes: 76
 - Apostadores distintos: 648
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Electricy | Cowboys vs. Eagles | Cowboys | 1.92 (52¢) | $37,456 | — | ⏳ Pendiente |
 | juice-fruit | Cowboys vs. Eagles | Cowboys | 1.92 (52¢) | $78,749 | — | ⏳ Pendiente |
 | KaneAnalytics | Cowboys vs. Eagles | Eagles | 2.17 (46¢) | $55,157 | — | ⏳ Pendiente |
 | 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | 0x33b1…af25 | Suns vs. Thunder | Thunder | 1.32 (76¢) | $41,944 | — | ⏳ Pendiente |
 | Baronen11 | Timberwolves vs. Cavaliers | Cavaliers | 1.72 (58¢) | $32,932 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend - Game 2 Winner | Team Liquid | 2.13 (47¢) | $65,800 | +$74,200 | ✅ Ganada |
-| illenial | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.64 (61¢) | $32,228 | +$20,605 | ✅ Ganada |

@@ -102026,5 +102026,20 @@
     "status": "pending",
     "ultimo_fill": 1793062717,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13751,
+    "timestamp": 1793062756,
+    "username": "Electricy",
+    "wallet": "0x701187150980c2421bc3c87a74dbdef31d75c6da",
+    "slug": "nfl-dal-phi-2026-10-27",
+    "title": "Cowboys vs. Eagles",
+    "outcome": "Cowboys",
+    "side": "BUY",
+    "usd": 37455.6728,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793062756,
+    "fills": 1
   }
 ]
