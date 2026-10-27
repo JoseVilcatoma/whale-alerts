@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 19:18:49 (hora de Perú)
+Actualizado: 2026-10-26 19:20:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6773**  ($384,575,772 en total)
+- Apuestas registradas: **6774**  ($384,611,953 en total)
 - Resueltas: **6691** — 4096 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Pendientes: 61
 - Apostadores distintos: 647
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dhgreg | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $36,181 | — | ⏳ Pendiente |
 | Anon455 | Cowboys vs. Eagles | Cowboys | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Wizards vs. Hornets | Hornets | 1.25 (80¢) | $26,838 | — | ⏳ Pendiente |
 | Siddhartha1 | Grizzlies vs. Jazz | Grizzlies | 1.96 (51¢) | $43,263 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | Mooseborzoiii | LoL: LOS vs Team Secret Whales - Game 2 Winner | Team Secret Whales | 1.67 (60¢) | $170,469 | -$170,469 | ❌ Perdida |
 | PEYZ-BIGGEST-FAN | LoL: LOS vs Team Secret Whales - Game 2 Winner | LOS | 2.44 (41¢) | $36,900 | +$53,100 | ✅ Ganada |
 | zb8 | LoL: LOS vs Team Secret Whales - Game 2 Winner | LOS | 2.44 (41¢) | $28,670 | +$41,257 | ✅ Ganada |
-| ferrariChampions2026 | Kings vs. Rangers | Kings | 2.22 (45¢) | $41,111 | — | ⏳ Pendiente |
