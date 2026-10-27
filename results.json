@@ -101756,5 +101756,20 @@
     "status": "pending",
     "ultimo_fill": 1793060018,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13733,
+    "timestamp": 1793060161,
+    "username": "Siddhartha1",
+    "wallet": "0xc95ed399d2fbaec9461f2abd70e0d96df1921288",
+    "slug": "nba-mem-uta-2026-10-26",
+    "title": "Grizzlies vs. Jazz",
+    "outcome": "Grizzlies",
+    "side": "BUY",
+    "usd": 43262.9583,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793060161,
+    "fills": 1
   }
 ]

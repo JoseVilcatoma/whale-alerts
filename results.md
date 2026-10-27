@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 19:14:41 (hora de Perú)
+Actualizado: 2026-10-26 19:16:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6770**  ($384,478,871 en total)
+- Apuestas registradas: **6771**  ($384,522,134 en total)
 - Resueltas: **6691** — 4096 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Pendientes: 58
 - Apostadores distintos: 647
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Siddhartha1 | Grizzlies vs. Jazz | Grizzlies | 1.96 (51¢) | $43,263 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cowboys (-4.5) | Eagles | 1.96 (51¢) | $153,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Cowboys (-4.5) | Eagles | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | gmpm2 | Cowboys vs. Eagles: O/U 44.5 | Under 44.5 | 1.89 (53¢) | $71,418 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | ferrariChampions2026 | Kings vs. Rangers | Kings | 2.22 (45¢) | $41,111 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: G2 vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | G2 | 1.35 (74¢) | $34,331 | -$34,331 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.56 (64¢) | $35,000 | -$35,000 | ❌ Perdida |
-| RJW1 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $47,878 | — | ⏳ Pendiente |
