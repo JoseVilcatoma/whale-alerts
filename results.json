@@ -102885,5 +102885,20 @@
     "status": "pending",
     "ultimo_fill": 1793112351,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13914,
+    "timestamp": 1793112883,
+    "username": "jessy2",
+    "wallet": "0xb73e43e4d29e57fa90090b6ff3e9a671453bc66f",
+    "slug": "cs2-ast10-fnc-2026-10-27",
+    "title": "Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 31323.2198,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1793112883,
+    "fills": 1
   }
 ]

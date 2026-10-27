@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 09:53:35 (hora de Perú)
+Actualizado: 2026-10-27 09:55:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6845**  ($388,739,785 en total)
+- Apuestas registradas: **6846**  ($388,771,109 en total)
 - Resueltas: **6807** — 4164 ganadas / 2643 perdidas (**61%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 650
+- Pendientes: 17
+- Apostadores distintos: 651
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | Jokerxing7 | 14 | 21 | 0 | 40% | $1,948,493 | -$329,469 |
 
-_(mostrando los 40 de mayor monto, de 650 en total)_
+_(mostrando los 40 de mayor monto, de 651 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jessy2 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.33 (43¢) | $31,323 | — | ⏳ Pendiente |
 | kkookkoo | Erste Bank Open: Karen Khachanov vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $25,000 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Spirit vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.75 (57¢) | $37,196 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 1.75 (57¢) | $29,332 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 650 en total)_
 | Electricy | Cowboys vs. Eagles | Cowboys | 1.92 (52¢) | $37,456 | +$34,574 | ✅ Ganada |
 | juice-fruit | Cowboys vs. Eagles | Cowboys | 1.92 (52¢) | $78,749 | +$72,691 | ✅ Ganada |
 | KaneAnalytics | Cowboys vs. Eagles | Eagles | 2.17 (46¢) | $55,157 | -$55,157 | ❌ Perdida |
-| 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $28,200 | -$28,200 | ❌ Perdida |
