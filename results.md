@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 17:18:36 (hora de Perú)
+Actualizado: 2026-10-27 17:20:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6854**  ($389,118,606 en total)
+- Apuestas registradas: **6855**  ($389,150,613 en total)
 - Resueltas: **6823** — 4172 ganadas / 2651 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 651
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HVAB | Queretaro: Mell Elizabeth Reasco vs Diletta Cherubini | Diletta Cherubini | 1.32 (76¢) | $32,007 | — | ⏳ Pendiente |
 | fantasy7788 | Pistons vs. Knicks | Knicks | 1.61 (62¢) | $32,578 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Guayaquil: Juan Pablo Varillas vs Rodrigo Pacheco | Rodrigo Pacheco | 1.11 (90¢) | $46,932 | +$5,215 | ✅ Ganada |
 | salgnklasf | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.45 (69¢) | $35,000 | +$15,725 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 | bbb17367162806 | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | -$71,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-7.5) | Nuggets | 2.13 (47¢) | $117,500 | -$117,500 | ❌ Perdida |
 | googleplay | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $234,040 | +$216,037 | ✅ Ganada |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Hawks vs. Rockets | Rockets | 1.96 (51¢) | $29,336 | +$28,186 | ✅ Ganada |
