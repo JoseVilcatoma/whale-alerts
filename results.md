@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 22:41:50 (hora de Perú)
+Actualizado: 2026-10-26 22:43:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6815**  ($387,650,033 en total)
-- Resueltas: **6758** — 4137 ganadas / 2621 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **6760** — 4137 ganadas / 2623 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,918,067** sobre $384,378,734 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$4,171** sobre $666,400 (ROI **-0.6%**)
+- **Resultado de los apostadores: -$2,122,067** sobre $384,582,734 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,371** sobre $666,600 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 486 | 269 | 12 | 64% | $50,132,508 | +$971,469 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 486 | 270 | 11 | 64% | $50,132,508 | +$818,469 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
 | mooseborzoii | 103 | 55 | 1 | 65% | $9,057,960 | +$1,212,466 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -116,8 +116,8 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | Anon455 | Cowboys vs. Eagles | Cowboys | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Wizards vs. Hornets | Hornets | 1.25 (80¢) | $26,838 | +$6,710 | ✅ Ganada |
 | Siddhartha1 | Grizzlies vs. Jazz | Grizzlies | 1.96 (51¢) | $43,263 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cowboys (-4.5) | Eagles | 1.96 (51¢) | $153,000 | — | ⏳ Pendiente |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Cowboys (-4.5) | Eagles | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cowboys (-4.5) | Eagles | 1.96 (51¢) | $153,000 | -$153,000 | ❌ Perdida |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Cowboys (-4.5) | Eagles | 1.96 (51¢) | $51,000 | -$51,000 | ❌ Perdida |
 | gmpm2 | Cowboys vs. Eagles: O/U 44.5 | Under 44.5 | 1.89 (53¢) | $71,418 | -$71,418 | ❌ Perdida |
 | yabanci | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $58,850 | -$58,850 | ❌ Perdida |
 | dhgreg | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
