@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 16:43:37 (hora de Perú)
+Actualizado: 2026-10-27 16:45:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6854**  ($389,118,606 en total)
-- Resueltas: **6822** — 4171 ganadas / 2651 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **6823** — 4172 ganadas / 2651 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 651
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,552,756** sobre $387,745,005 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,757** sobre $672,700 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,524,117** sobre $387,795,919 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,700** sobre $672,800 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 36 | 23 | 0 | 61% | $7,742,265 | +$333,941 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| Lakersfan111 | 97 | 53 | 3 | 65% | $7,354,198 | +$413,505 |
+| Lakersfan111 | 98 | 53 | 2 | 65% | $7,354,198 | +$442,144 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 107 | 57 | 0 | 65% | $7,120,218 | +$166,726 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $81,400 | +$28,600 | ✅ Ganada |
 | Kkunn | Pan Pacific Open: Tereza Valentova vs Mia Pohankova | Mia Pohankova | 2.86 (35¢) | $26,226 | +$48,705 | ✅ Ganada |
 | NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Katie Volynets | 1.20 (83¢) | $25,509 | -$25,509 | ❌ Perdida |
-| jakepaulthegoat2008 | Counter-Strike: MIBR vs Eternal Fire (BO3) - Stake Ranked Episode 5 Playoffs | MIBR | 1.56 (64¢) | $50,913 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Counter-Strike: MIBR vs Eternal Fire (BO3) - Stake Ranked Episode 5 Playoffs | MIBR | 1.56 (64¢) | $50,913 | +$28,639 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.27 (44¢) | $29,876 | +$38,024 | ✅ Ganada |
 | NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Dayana Yastremska | 2.78 (36¢) | $26,605 | +$47,298 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: B8 vs K27 (BO3) - Tesla Cup Group A | B8 | 1.59 (63¢) | $44,100 | -$44,100 | ❌ Perdida |
