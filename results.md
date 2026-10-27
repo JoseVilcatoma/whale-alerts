@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 20:32:42 (hora de Perú)
+Actualizado: 2026-10-26 20:34:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6792**  ($386,079,536 en total)
+- Apuestas registradas: **6793**  ($386,161,184 en total)
 - Resueltas: **6692** — 4097 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 78
+- Pendientes: 79
 - Apostadores distintos: 648
 
 ### Balance
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | cosmicxbt | 21 | 8 | 1 | 72% | $3,221,830 | -$326,238 |
-| milkteaboba | 15 | 12 | 0 | 56% | $2,996,859 | -$869,022 |
+| milkteaboba | 15 | 12 | 1 | 56% | $3,078,507 | -$869,022 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | ndb1 | 29 | 15 | 0 | 66% | $2,603,192 | +$441,923 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Cowboys vs. Eagles | Cowboys | 1.61 (62¢) | $81,648 | — | ⏳ Pendiente |
 | cosmicxbt | Cowboys vs. Eagles | Cowboys | 1.47 (68¢) | $68,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $104,908 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Pacers vs. Bucks | Pacers | 1.20 (83¢) | $26,423 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | googleplay | Spread: Hornets (-2.5) | Hornets | 1.89 (53¢) | $30,976 | — | ⏳ Pendiente |
 | sulumos | Wizards vs. Hornets | Wizards | 2.44 (41¢) | $32,677 | — | ⏳ Pendiente |
 | googleplay | Wizards vs. Hornets | Hornets | 1.69 (59¢) | $39,608 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $57,833 | — | ⏳ Pendiente |
