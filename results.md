@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 20:41:10 (hora de Perú)
+Actualizado: 2026-10-26 20:43:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6795**  ($386,268,521 en total)
-- Resueltas: **6692** — 4097 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 81
+- Resueltas: **6693** — 4098 ganadas / 2595 perdidas (**61%** de acierto)
+- Pendientes: 80
 - Apostadores distintos: 648
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,097,740** sobre $380,469,045 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$4,190** sobre $659,900 (ROI **-0.6%**)
+- **Resultado de los apostadores: -$1,069,578** sobre $380,500,802 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$4,101** sobre $660,000 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| googleplay | 24 | 22 | 10 | 52% | $7,386,595 | -$319,839 |
+| googleplay | 25 | 22 | 9 | 53% | $7,386,595 | -$291,677 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 105 | 57 | 2 | 65% | $7,120,218 | +$44,480 |
 | Lakersfan111 | 95 | 52 | 0 | 65% | $6,967,748 | +$372,719 |
@@ -125,7 +125,7 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | Elaran1993 | Mavericks vs. Heat: O/U 239.5 | Over 239.5 | 1.89 (53¢) | $37,094 | — | ⏳ Pendiente |
 | dhgreg | Timberwolves vs. Cavaliers | Cavaliers | 1.69 (59¢) | $25,080 | — | ⏳ Pendiente |
 | googleplay | Wizards vs. Hornets | Hornets | 1.67 (60¢) | $104,987 | — | ⏳ Pendiente |
-| googleplay | Wizards vs. Hornets: O/U 227.5 | Under 227.5 | 1.89 (53¢) | $31,757 | — | ⏳ Pendiente |
+| googleplay | Wizards vs. Hornets: O/U 227.5 | Under 227.5 | 1.89 (53¢) | $31,757 | +$28,161 | ✅ Ganada |
 | ethBELIVER | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | dromedaryy | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.41 (71¢) | $61,479 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Wizards | 2.50 (40¢) | $120,000 | — | ⏳ Pendiente |
