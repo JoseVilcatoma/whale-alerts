@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 22:54:17 (hora de Perú)
+Actualizado: 2026-10-26 22:56:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6816**  ($387,675,488 en total)
-- Resueltas: **6770** — 4141 ganadas / 2629 perdidas (**61%** de acierto)
+- Apuestas registradas: **6817**  ($387,700,988 en total)
+- Resueltas: **6771** — 4141 ganadas / 2630 perdidas (**61%** de acierto)
 - Pendientes: 24
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,326,583** sobre $385,123,445 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,666** sobre $667,600 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,422,888** sobre $385,219,750 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,766** sobre $667,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zywoo123 | Warriors vs. Nuggets | Warriors | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $25,454 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Warriors vs. Nuggets | Nuggets | 1.72 (58¢) | $75,000 | — | ⏳ Pendiente |
 | googleplay | Spread: Nuggets (-1.5) | Warriors | 2.08 (48¢) | $95,770 | — | ⏳ Pendiente |
@@ -111,7 +112,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | keeptheblueflagflyinghigh | Mavericks vs. Heat | Heat | 1.28 (78¢) | $26,167 | -$26,167 | ❌ Perdida |
 | Elaran1993 | Cowboys vs. Eagles | Cowboys | 1.85 (54¢) | $54,000 | +$46,000 | ✅ Ganada |
 | EdZachary | Cowboys vs. Eagles | Eagles | 3.03 (33¢) | $33,000 | -$33,000 | ❌ Perdida |
-| dhgreg | Grizzlies vs. Jazz: O/U 238.5 | Over 238.5 | 2.08 (48¢) | $96,305 | — | ⏳ Pendiente |
+| dhgreg | Grizzlies vs. Jazz: O/U 238.5 | Over 238.5 | 2.08 (48¢) | $96,305 | -$96,305 | ❌ Perdida |
 | Elaran1993 | Cowboys vs. Eagles | Cowboys | 1.47 (68¢) | $229,909 | +$108,192 | ✅ Ganada |
 | dhgreg | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $36,181 | — | ⏳ Pendiente |
 | Anon455 | Cowboys vs. Eagles | Cowboys | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Bucks | Bucks | 2.44 (41¢) | $28,818 | +$41,470 | ✅ Ganada |
 | ic4cream | Pacers vs. Bucks | Pacers | 1.69 (59¢) | $41,470 | -$41,470 | ❌ Perdida |
 | yabanci | Spread: Pacers (-3.5) | Pacers | 2.04 (49¢) | $52,430 | -$52,430 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Bucks | Pacers | 1.72 (58¢) | $232,000 | -$232,000 | ❌ Perdida |

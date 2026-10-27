@@ -101843,7 +101843,7 @@
     "side": "BUY",
     "usd": 96304.63680000001,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793060626,
     "fills": 2
   },
@@ -102447,6 +102447,21 @@
     "odds_at_bet": 59,
     "status": "pending",
     "ultimo_fill": 1793072853,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13847,
+    "timestamp": 1793073353,
+    "username": "Zywoo123",
+    "wallet": "0xc44f432b014f36679e13615f95996eac32bbd49f",
+    "slug": "nba-gsw-den-2026-10-26",
+    "title": "Warriors vs. Nuggets",
+    "outcome": "Warriors",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1793073353,
     "fills": 1
   }
 ]
