@@ -102613,5 +102613,20 @@
     "status": "pending",
     "ultimo_fill": 1793085908,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13881,
+    "timestamp": 1793086474,
+    "username": "NS13",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "wta-yastrem-volynet-2026-10-26",
+    "title": "Guangzhou Open: Dayana Yastremska vs Katie Volynets",
+    "outcome": "Dayana Yastremska",
+    "side": "BUY",
+    "usd": 26605.2708,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "ultimo_fill": 1793086474,
+    "fills": 1
   }
 ]
