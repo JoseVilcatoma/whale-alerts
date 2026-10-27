@@ -103050,5 +103050,20 @@
     "status": "pending",
     "ultimo_fill": 1793140272,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13942,
+    "timestamp": 1793141057,
+    "username": "tennischamp",
+    "wallet": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+    "slug": "nba-sac-sas-2026-10-27",
+    "title": "Kings vs. Spurs",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 90856.2477,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1793141057,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 17:43:23 (hora de Perú)
+Actualizado: 2026-10-27 17:45:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6856**  ($389,177,882 en total)
+- Apuestas registradas: **6857**  ($389,268,739 en total)
 - Resueltas: **6823** — 4172 ganadas / 2651 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 651
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tennischamp | Kings vs. Spurs | Spurs | 1.08 (93¢) | $90,856 | — | ⏳ Pendiente |
 | mooseborzoii | Canadiens vs. Blues | Canadiens | 1.96 (51¢) | $27,269 | — | ⏳ Pendiente |
 | HVAB | Queretaro: Mell Elizabeth Reasco vs Diletta Cherubini | Diletta Cherubini | 1.32 (76¢) | $32,007 | — | ⏳ Pendiente |
 | fantasy7788 | Pistons vs. Knicks | Knicks | 1.61 (62¢) | $32,578 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 | KaneAnalytics | Timberwolves vs. Cavaliers | Cavaliers | 1.19 (84¢) | $33,531 | +$6,387 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 12.50 (8¢) | $56,000 | -$56,000 | ❌ Perdida |
 | bbb17367162806 | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | -$71,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-7.5) | Nuggets | 2.13 (47¢) | $117,500 | -$117,500 | ❌ Perdida |
