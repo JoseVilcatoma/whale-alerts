@@ -35,10 +35,6 @@
     "username": "Diabolical-Prize",
     "added_at": 1791937716.6759536
   },
-  "0x2117ae94a97d69b78cbc81b6680a62deb1955c26": {
-    "username": "Zzzz87",
-    "added_at": 1792456467.5441294
-  },
   "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747": {
     "username": "juice-fruit",
     "added_at": 1792466827.642883
@@ -234,5 +230,9 @@
   "0x70c14608f9c06ad9a5f48f1d6ddb6c0fc2d41be2": {
     "username": "ColdConviction",
     "added_at": 1793045694.5627265
+  },
+  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
+    "username": "RN1",
+    "added_at": 1793061948.82123
   }
 }
