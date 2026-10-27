@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 04:10:21 (hora de Perú)
+Actualizado: 2026-10-27 05:11:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6832**  ($388,232,785 en total)
-- Resueltas: **6793** — 4152 ganadas / 2641 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **6795** — 4153 ganadas / 2642 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,692,405** sobre $386,692,155 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,020** sobre $669,900 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,670,615** sobre $386,744,269 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,942** sobre $670,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,10 +72,10 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Kkunn | Pan Pacific Open: Tereza Valentova vs Mia Pohankova | Mia Pohankova | 2.86 (35¢) | $26,226 | — | ⏳ Pendiente |
-| NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Katie Volynets | 1.20 (83¢) | $25,509 | — | ⏳ Pendiente |
+| NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Katie Volynets | 1.20 (83¢) | $25,509 | -$25,509 | ❌ Perdida |
 | jakepaulthegoat2008 | Counter-Strike: MIBR vs Eternal Fire (BO3) - Stake Ranked Episode 5 Playoffs | MIBR | 1.56 (64¢) | $50,913 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.27 (44¢) | $29,876 | — | ⏳ Pendiente |
-| NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Dayana Yastremska | 2.78 (36¢) | $26,605 | — | ⏳ Pendiente |
+| NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Dayana Yastremska | 2.78 (36¢) | $26,605 | +$47,298 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: B8 vs K27 (BO3) - Tesla Cup Group A | B8 | 1.59 (63¢) | $44,100 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $56,356 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: FURIA vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.10 (91¢) | $27,278 | — | ⏳ Pendiente |
