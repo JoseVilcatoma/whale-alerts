@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 19:08:30 (hora de Perú)
+Actualizado: 2026-10-26 19:10:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6766**  ($384,144,603 en total)
+- Apuestas registradas: **6768**  ($384,274,871 en total)
 - Resueltas: **6691** — 4096 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 55
 - Apostadores distintos: 647
 
 ### Balance
@@ -40,8 +40,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
+| maz26 | 39 | 25 | 1 | 61% | $4,459,729 | +$584,199 |
 | BrotherObama | 48 | 51 | 2 | 48% | $4,425,789 | -$98,120 |
-| maz26 | 39 | 25 | 0 | 61% | $4,388,312 | +$584,199 |
 | Mooseborzoiii | 23 | 18 | 0 | 56% | $4,277,186 | +$661,389 |
 | Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Cowboys vs. Eagles: O/U 44.5 | Under 44.5 | 1.89 (53¢) | $71,418 | — | ⏳ Pendiente |
+| yabanci | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $58,850 | — | ⏳ Pendiente |
 | dhgreg | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | yabanci | Spread: Pacers (-3.5) | Pacers | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | RJW1 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $47,878 | — | ⏳ Pendiente |
 | Eugycom | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | ArielFilipino | Grizzlies vs. Jazz | Jazz | 1.92 (52¢) | $26,255 | — | ⏳ Pendiente |
-| ArielFilipino | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $27,699 | — | ⏳ Pendiente |
-| Talvez10 | Spread: Hornets (-1.5) | Hornets | 1.85 (54¢) | $28,100 | — | ⏳ Pendiente |

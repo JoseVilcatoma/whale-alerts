@@ -101696,5 +101696,35 @@
     "status": "pending",
     "ultimo_fill": 1793059684,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13729,
+    "timestamp": 1793059770,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "mlb-mil-tb-2026-10-26-total-7pt5",
+    "title": "Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 58850.00000000001,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1793059770,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13730,
+    "timestamp": 1793059788,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-dal-phi-2026-10-27-total-44pt5",
+    "title": "Cowboys vs. Eagles: O/U 44.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 71417.5,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1793059788,
+    "fills": 1
   }
 ]
