@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 19:50:19 (hora de Perú)
+Actualizado: 2026-10-26 19:52:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6785**  ($385,680,643 en total)
+- Apuestas registradas: **6786**  ($385,708,843 en total)
 - Resueltas: **6691** — 4096 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 72
+- Pendientes: 73
 - Apostadores distintos: 648
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
 | 0x9ACA96e73df7808A21E426094436C3f06590dEDC-1766897988378 | Cowboys vs. Eagles | Cowboys | 1.64 (61¢) | $52,374 | — | ⏳ Pendiente |
 | sifonman | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $27,072 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Jazz | Grizzlies | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | illenial | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.64 (61¢) | $32,228 | +$20,605 | ✅ Ganada |
 | Paracellus | Timberwolves vs. Cavaliers | Cavaliers | 1.75 (57¢) | $27,246 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage | Team Liquid | 1.67 (60¢) | $132,000 | +$88,000 | ✅ Ganada |
-| ropetard | Timberwolves vs. Cavaliers | Timberwolves | 2.44 (41¢) | $27,559 | +$0 | 💰 Vendida antes |
