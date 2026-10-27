@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 20:26:16 (hora de Perú)
+Actualizado: 2026-10-26 20:28:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6791**  ($386,011,536 en total)
-- Resueltas: **6691** — 4096 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 78
+- Resueltas: **6692** — 4097 ganadas / 2595 perdidas (**61%** de acierto)
+- Pendientes: 77
 - Apostadores distintos: 648
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,105,304** sobre $380,438,787 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$4,215** sobre $659,800 (ROI **-0.6%**)
+- **Resultado de los apostadores: -$1,097,740** sobre $380,469,045 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$4,190** sobre $659,900 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -115,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | dhgreg | Mavericks vs. Heat | Heat | 1.39 (72¢) | $144,000 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Heat (-7.5) | Heat | 2.00 (50¢) | $36,281 | — | ⏳ Pendiente |
 | dhgreg | Spread: Celtics (-14.5) | Bulls | 1.96 (51¢) | $102,000 | — | ⏳ Pendiente |
-| 01258787xy48487484545122 | Sioux Falls: Daniel Milavsky vs Harry Wendelken | Daniel Milavsky | 1.25 (80¢) | $30,258 | — | ⏳ Pendiente |
+| 01258787xy48487484545122 | Sioux Falls: Daniel Milavsky vs Harry Wendelken | Daniel Milavsky | 1.25 (80¢) | $30,258 | +$7,565 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Hornets | 1.72 (58¢) | $25,114 | — | ⏳ Pendiente |
 | juice-fruit | Wizards vs. Hornets | Wizards | 2.44 (41¢) | $31,761 | — | ⏳ Pendiente |
 | Elaran1993 | Mavericks vs. Heat: O/U 239.5 | Over 239.5 | 1.89 (53¢) | $37,094 | — | ⏳ Pendiente |
