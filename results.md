@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 09:18:54 (hora de Perú)
+Actualizado: 2026-10-27 09:20:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6838**  ($388,531,889 en total)
+- Apuestas registradas: **6840**  ($388,590,308 en total)
 - Resueltas: **6806** — 4163 ganadas / 2643 perdidas (**61%** de acierto)
-- Pendientes: 10
-- Apostadores distintos: 649
+- Pendientes: 12
+- Apostadores distintos: 650
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | Jokerxing7 | 14 | 21 | 0 | 40% | $1,948,493 | -$329,469 |
 
-_(mostrando los 40 de mayor monto, de 649 en total)_
+_(mostrando los 40 de mayor monto, de 650 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x869909eeaa3637081a7383b177c20dedd7957bb2-1792846915646 | Curitiba: Julia Riera vs Rebeka Masarova | Rebeka Masarova | 1.52 (66¢) | $26,219 | — | ⏳ Pendiente |
+| Wiretransferxyz | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.17 (46¢) | $32,200 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Trail Blazers vs. Lakers | Lakers | 1.69 (59¢) | $30,733 | — | ⏳ Pendiente |
 | Kkunn | Guangzhou Open: Xinran Sun vs Mananchaya Sawangkaew | Xinran Sun | 1.39 (72¢) | $29,546 | +$11,490 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $89,447 | +$40,186 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Jazz | Grizzlies | 1.92 (52¢) | $31,200 | +$28,800 | ✅ Ganada |
 | NS13 | Mavericks vs. Heat | Heat | 1.54 (65¢) | $45,584 | -$45,584 | ❌ Perdida |
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 2.22 (45¢) | $415,299 | -$415,299 | ❌ Perdida |
-| googleplay | Grizzlies vs. Jazz | Grizzlies | 1.92 (52¢) | $57,781 | +$53,336 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Mavericks vs. Heat | Heat | 1.28 (78¢) | $26,167 | -$26,167 | ❌ Perdida |
