@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 03:25:26 (hora de Perú)
+Actualizado: 2026-10-27 03:27:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6831**  ($388,206,559 en total)
+- Apuestas registradas: **6832**  ($388,232,785 en total)
 - Resueltas: **6793** — 4152 ganadas / 2641 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 649
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kkunn | Pan Pacific Open: Tereza Valentova vs Mia Pohankova | Mia Pohankova | 2.86 (35¢) | $26,226 | — | ⏳ Pendiente |
 | NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Katie Volynets | 1.20 (83¢) | $25,509 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: MIBR vs Eternal Fire (BO3) - Stake Ranked Episode 5 Playoffs | MIBR | 1.56 (64¢) | $50,913 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.27 (44¢) | $29,876 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | Elaran1993 | Cowboys vs. Eagles | Cowboys | 1.47 (68¢) | $229,909 | +$108,192 | ✅ Ganada |
 | dhgreg | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $36,181 | -$36,181 | ❌ Perdida |
 | Anon455 | Cowboys vs. Eagles | Cowboys | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Wizards vs. Hornets | Hornets | 1.25 (80¢) | $26,838 | +$6,710 | ✅ Ganada |
