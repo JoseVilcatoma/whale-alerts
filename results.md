@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 00:05:06 (hora de Perú)
+Actualizado: 2026-10-27 00:07:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6821**  ($387,848,925 en total)
+- Apuestas registradas: **6822**  ($387,874,067 en total)
 - Resueltas: **6793** — 4152 ganadas / 2641 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 649
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $25,142 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Seoul: Omar Jasika vs Alexandre Muller | Omar Jasika | 1.06 (94¢) | $29,673 | +$1,894 | ✅ Ganada |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.67 (60¢) | $33,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $41,195 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | yabanci | Spread: Pacers (-3.5) | Pacers | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
 | RJW1 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | googleplay | Spread: Pacers (-3.5) | Bucks | 1.92 (52¢) | $34,431 | +$31,783 | ✅ Ganada |
-| googleplay | Spread: Thunder (-8.5) | Suns | 1.89 (53¢) | $89,855 | -$89,855 | ❌ Perdida |
