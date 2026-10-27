@@ -102253,5 +102253,50 @@
     "status": "pending",
     "ultimo_fill": 1793066467,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13788,
+    "timestamp": 1793066557,
+    "username": "Anon455",
+    "wallet": "0x496121ba250d47b62c2d84b3414a99aeeacade13",
+    "slug": "nfl-dal-phi-2026-10-27",
+    "title": "Cowboys vs. Eagles",
+    "outcome": "Cowboys",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1793066557,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13789,
+    "timestamp": 1793066557,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-dal-phi-2026-10-27",
+    "title": "Cowboys vs. Eagles",
+    "outcome": "Cowboys",
+    "side": "BUY",
+    "usd": 37500.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1793066557,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13790,
+    "timestamp": 1793066653,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-gsw-den-2026-10-26",
+    "title": "Warriors vs. Nuggets",
+    "outcome": "Nuggets",
+    "side": "BUY",
+    "usd": 137829.804,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1793066653,
+    "fills": 1
   }
 ]
