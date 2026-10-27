@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 17:30:56 (hora de Perú)
+Actualizado: 2026-10-27 17:33:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6855**  ($389,150,613 en total)
+- Apuestas registradas: **6856**  ($389,177,882 en total)
 - Resueltas: **6823** — 4172 ganadas / 2651 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 651
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 491 | 274 | 3 | 64% | $50,176,578 | +$496,117 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
-| mooseborzoii | 103 | 55 | 1 | 65% | $9,057,960 | +$1,212,466 |
+| mooseborzoii | 103 | 55 | 2 | 65% | $9,085,229 | +$1,212,466 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | googleplay | 36 | 23 | 0 | 61% | $7,742,265 | +$333,941 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Canadiens vs. Blues | Canadiens | 1.96 (51¢) | $27,269 | — | ⏳ Pendiente |
 | HVAB | Queretaro: Mell Elizabeth Reasco vs Diletta Cherubini | Diletta Cherubini | 1.32 (76¢) | $32,007 | — | ⏳ Pendiente |
 | fantasy7788 | Pistons vs. Knicks | Knicks | 1.61 (62¢) | $32,578 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Guayaquil: Juan Pablo Varillas vs Rodrigo Pacheco | Rodrigo Pacheco | 1.11 (90¢) | $46,932 | +$5,215 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 12.50 (8¢) | $56,000 | -$56,000 | ❌ Perdida |
 | bbb17367162806 | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | -$71,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-7.5) | Nuggets | 2.13 (47¢) | $117,500 | -$117,500 | ❌ Perdida |
-| googleplay | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $234,040 | +$216,037 | ✅ Ganada |

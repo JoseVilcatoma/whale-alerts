@@ -103035,5 +103035,20 @@
     "status": "pending",
     "ultimo_fill": 1793139599,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13941,
+    "timestamp": 1793140272,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nhl-mon-stl-2026-10-27",
+    "title": "Canadiens vs. Blues",
+    "outcome": "Canadiens",
+    "side": "BUY",
+    "usd": 27269.337900000002,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793140272,
+    "fills": 1
   }
 ]
