@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 15:04:22 (hora de Perú)
+Actualizado: 2026-10-27 15:06:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6853**  ($389,086,028 en total)
-- Resueltas: **6819** — 4169 ganadas / 2650 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **6820** — 4170 ganadas / 2650 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 651
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,542,964** sobre $387,632,342 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,713** sobre $672,400 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,527,239** sobre $387,667,342 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,668** sobre $672,500 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 01258787xy48487484545122 | Guayaquil: Juan Pablo Varillas vs Rodrigo Pacheco | Rodrigo Pacheco | 1.11 (90¢) | $46,932 | — | ⏳ Pendiente |
-| salgnklasf | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.45 (69¢) | $35,000 | — | ⏳ Pendiente |
+| salgnklasf | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.45 (69¢) | $35,000 | +$15,725 | ✅ Ganada |
 | jakepaulthegoat2008 | Spread: Spurs (-18.5) | Spurs | 2.00 (50¢) | $25,339 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Pistons vs. Knicks | Knicks | 1.67 (60¢) | $31,194 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Spurs | Spurs | 1.08 (93¢) | $111,351 | — | ⏳ Pendiente |
