@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 11:02:38 (hora de Perú)
+Actualizado: 2026-10-27 14:48:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6852**  ($389,039,096 en total)
-- Resueltas: **6808** — 4164 ganadas / 2644 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **6819** — 4169 ganadas / 2650 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 651
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,470,394** sobre $387,307,969 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,473** sobre $671,300 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,542,964** sobre $387,632,342 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,713** sobre $672,400 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 36 | 23 | 0 | 61% | $7,742,265 | +$333,941 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| Lakersfan111 | 97 | 52 | 4 | 65% | $7,354,198 | +$441,505 |
+| Lakersfan111 | 97 | 53 | 3 | 65% | $7,354,198 | +$413,505 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 107 | 57 | 0 | 65% | $7,120,218 | +$166,726 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
-| juice-fruit | 24 | 10 | 1 | 71% | $2,058,893 | +$535,318 |
+| juice-fruit | 24 | 11 | 0 | 69% | $2,058,893 | +$498,122 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | Jokerxing7 | 14 | 21 | 0 | 40% | $1,948,493 | -$329,469 |
 
@@ -77,28 +77,28 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 | jakepaulthegoat2008 | Kings vs. Spurs | Spurs | 1.08 (93¢) | $111,351 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Envy vs GamerLegion (BO3) - Tesla Cup Group B | Envy | 1.61 (62¢) | $30,731 | — | ⏳ Pendiente |
 | justwins | Spread: Spurs (-18.5) | Kings | 2.00 (50¢) | $34,371 | — | ⏳ Pendiente |
-| jessy2 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.33 (43¢) | $31,323 | — | ⏳ Pendiente |
-| kkookkoo | Erste Bank Open: Karen Khachanov vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $25,000 | — | ⏳ Pendiente |
-| juice-fruit | Counter-Strike: Spirit vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.75 (57¢) | $37,196 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 1.75 (57¢) | $29,332 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: Spirit vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.82 (55¢) | $31,000 | — | ⏳ Pendiente |
-| Netrol | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.00 (50¢) | $26,949 | — | ⏳ Pendiente |
-| 0x869909eeaa3637081a7383b177c20dedd7957bb2-1792846915646 | Curitiba: Julia Riera vs Rebeka Masarova | Rebeka Masarova | 1.52 (66¢) | $26,219 | — | ⏳ Pendiente |
-| Wiretransferxyz | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.17 (46¢) | $32,200 | — | ⏳ Pendiente |
+| jessy2 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.33 (43¢) | $31,323 | -$31,323 | ❌ Perdida |
+| kkookkoo | Erste Bank Open: Karen Khachanov vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $25,000 | +$7,468 | ✅ Ganada |
+| juice-fruit | Counter-Strike: Spirit vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.75 (57¢) | $37,196 | -$37,196 | ❌ Perdida |
+| lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 1.75 (57¢) | $29,332 | +$22,128 | ✅ Ganada |
+| fantasy7788 | Counter-Strike: Spirit vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.82 (55¢) | $31,000 | -$31,000 | ❌ Perdida |
+| Netrol | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.00 (50¢) | $26,949 | -$26,949 | ❌ Perdida |
+| 0x869909eeaa3637081a7383b177c20dedd7957bb2-1792846915646 | Curitiba: Julia Riera vs Rebeka Masarova | Rebeka Masarova | 1.52 (66¢) | $26,219 | -$26,219 | ❌ Perdida |
+| Wiretransferxyz | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.17 (46¢) | $32,200 | +$37,800 | ✅ Ganada |
 | monkeymashingkeyboard | Trail Blazers vs. Lakers | Lakers | 1.69 (59¢) | $30,733 | — | ⏳ Pendiente |
 | Kkunn | Guangzhou Open: Xinran Sun vs Mananchaya Sawangkaew | Xinran Sun | 1.39 (72¢) | $29,546 | +$11,490 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $89,447 | +$40,186 | ✅ Ganada |
 | salgnklasf | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $39,977 | +$4,862 | 💰 Vendida antes |
-| jakepaulthegoat2008 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $81,400 | +$28,600 | ✅ Ganada |
 | Kkunn | Pan Pacific Open: Tereza Valentova vs Mia Pohankova | Mia Pohankova | 2.86 (35¢) | $26,226 | +$48,705 | ✅ Ganada |
 | NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Katie Volynets | 1.20 (83¢) | $25,509 | -$25,509 | ❌ Perdida |
 | jakepaulthegoat2008 | Counter-Strike: MIBR vs Eternal Fire (BO3) - Stake Ranked Episode 5 Playoffs | MIBR | 1.56 (64¢) | $50,913 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.27 (44¢) | $29,876 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.27 (44¢) | $29,876 | +$38,024 | ✅ Ganada |
 | NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Dayana Yastremska | 2.78 (36¢) | $26,605 | +$47,298 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: B8 vs K27 (BO3) - Tesla Cup Group A | B8 | 1.59 (63¢) | $44,100 | -$44,100 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $56,356 | +$39,163 | ✅ Ganada |
-| 4217893367451 | Counter-Strike: FURIA vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.10 (91¢) | $27,278 | — | ⏳ Pendiente |
+| 4217893367451 | Counter-Strike: FURIA vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.10 (91¢) | $27,278 | +$2,698 | ✅ Ganada |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: TheMongolz vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $43,856 | +$19,703 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $25,142 | +$11,296 | ✅ Ganada |
