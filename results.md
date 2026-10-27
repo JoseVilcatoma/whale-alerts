@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 18:33:29 (hora de Perú)
+Actualizado: 2026-10-27 18:35:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6864**  ($389,773,602 en total)
+- Apuestas registradas: **6865**  ($389,814,626 en total)
 - Resueltas: **6823** — 4172 ganadas / 2651 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 652
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Delaware vs. Western Kentucky | Western Kentucky | 1.47 (68¢) | $41,025 | — | ⏳ Pendiente |
 | dhgreg | Spread: Celtics (-13.5) | Nets | 2.00 (50¢) | $59,229 | — | ⏳ Pendiente |
 | dhgreg | Nets vs. Celtics | Nets | 7.14 (14¢) | $32,527 | — | ⏳ Pendiente |
 | googleplay | Nets vs. Celtics: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $135,317 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 | dhgreg | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | -$71,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-9.5) | Warriors | 1.69 (59¢) | $27,199 | +$18,901 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Nuggets | 1.43 (70¢) | $137,830 | -$137,830 | ❌ Perdida |
-| Anon455 | Cowboys vs. Eagles | Cowboys | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
