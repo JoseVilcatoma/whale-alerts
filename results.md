@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 05:51:56 (hora de Perú)
+Actualizado: 2026-10-27 05:53:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6834**  ($388,342,185 en total)
+- Apuestas registradas: **6835**  ($388,382,163 en total)
 - Resueltas: **6796** — 4154 ganadas / 2642 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 649
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| salgnklasf | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $39,977 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $81,400 | — | ⏳ Pendiente |
 | Kkunn | Pan Pacific Open: Tereza Valentova vs Mia Pohankova | Mia Pohankova | 2.86 (35¢) | $26,226 | +$48,705 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | Elaran1993 | Cowboys vs. Eagles | Cowboys | 1.85 (54¢) | $54,000 | +$46,000 | ✅ Ganada |
 | EdZachary | Cowboys vs. Eagles | Eagles | 3.03 (33¢) | $33,000 | -$33,000 | ❌ Perdida |
 | dhgreg | Grizzlies vs. Jazz: O/U 238.5 | Over 238.5 | 2.08 (48¢) | $96,305 | -$96,305 | ❌ Perdida |
-| Elaran1993 | Cowboys vs. Eagles | Cowboys | 1.47 (68¢) | $229,909 | +$108,192 | ✅ Ganada |
