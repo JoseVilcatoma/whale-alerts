@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 00:15:23 (hora de Perú)
+Actualizado: 2026-10-27 00:17:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6823**  ($387,917,923 en total)
+- Apuestas registradas: **6824**  ($387,945,923 en total)
 - Resueltas: **6793** — 4152 ganadas / 2641 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 649
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: TheMongolz vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $43,856 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $25,142 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Seoul: Omar Jasika vs Alexandre Muller | Omar Jasika | 1.06 (94¢) | $29,673 | +$1,894 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | yabanci | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $58,850 | -$58,850 | ❌ Perdida |
 | dhgreg | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $100,000 | -$100,000 | ❌ Perdida |
 | yabanci | Spread: Pacers (-3.5) | Pacers | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
-| RJW1 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
