@@ -101771,5 +101771,35 @@
     "status": "pending",
     "ultimo_fill": 1793060161,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13734,
+    "timestamp": 1793060311,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nba-was-cha-2026-10-26",
+    "title": "Wizards vs. Hornets",
+    "outcome": "Hornets",
+    "side": "BUY",
+    "usd": 26838.240000000005,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1793060311,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13735,
+    "timestamp": 1793060326,
+    "username": "Anon455",
+    "wallet": "0x496121ba250d47b62c2d84b3414a99aeeacade13",
+    "slug": "nfl-dal-phi-2026-10-27",
+    "title": "Cowboys vs. Eagles",
+    "outcome": "Cowboys",
+    "side": "BUY",
+    "usd": 26800.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1793060326,
+    "fills": 1
   }
 ]
