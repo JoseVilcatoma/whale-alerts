@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 20:47:29 (hora de Perú)
+Actualizado: 2026-10-26 20:49:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6796**  ($386,502,561 en total)
-- Resueltas: **6694** — 4099 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 80
+- Apuestas registradas: **6797**  ($386,620,061 en total)
+- Resueltas: **6706** — 4107 ganadas / 2599 perdidas (**61%** de acierto)
+- Pendientes: 69
 - Apostadores distintos: 648
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,055,841** sobre $380,553,176 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$4,101** sobre $660,000 (ROI **-0.6%**)
+- **Resultado de los apostadores: -$1,044,231** sobre $381,096,008 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$3,942** sobre $661,200 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 481 | 264 | 14 | 65% | $49,608,516 | +$1,338,540 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 483 | 265 | 12 | 65% | $49,726,016 | +$1,259,226 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
 | mooseborzoii | 103 | 53 | 3 | 66% | $9,057,960 | +$1,293,210 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| googleplay | 25 | 22 | 10 | 53% | $7,620,635 | -$291,677 |
+| googleplay | 29 | 22 | 6 | 57% | $7,620,635 | -$135,943 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -55,13 +55,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| Talvez10 | 27 | 23 | 2 | 54% | $2,462,685 | +$220,729 |
+| Talvez10 | 28 | 23 | 1 | 55% | $2,462,685 | +$244,667 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
-| juice-fruit | 23 | 9 | 2 | 72% | $2,021,697 | +$494,388 |
+| juice-fruit | 23 | 10 | 1 | 70% | $2,021,697 | +$462,627 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | Jokerxing7 | 14 | 21 | 0 | 40% | $1,948,493 | -$329,469 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-7.5) | Nuggets | 2.13 (47¢) | $117,500 | — | ⏳ Pendiente |
 | googleplay | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $234,040 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Hawks vs. Rockets | Rockets | 1.96 (51¢) | $29,336 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
@@ -95,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | Elaran1993 | Cowboys vs. Eagles | Cowboys | 1.47 (68¢) | $229,909 | — | ⏳ Pendiente |
 | dhgreg | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $36,181 | — | ⏳ Pendiente |
 | Anon455 | Cowboys vs. Eagles | Cowboys | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Wizards vs. Hornets | Hornets | 1.25 (80¢) | $26,838 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Wizards vs. Hornets | Hornets | 1.25 (80¢) | $26,838 | +$6,710 | ✅ Ganada |
 | Siddhartha1 | Grizzlies vs. Jazz | Grizzlies | 1.96 (51¢) | $43,263 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cowboys (-4.5) | Eagles | 1.96 (51¢) | $153,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Spread: Cowboys (-4.5) | Eagles | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
@@ -114,20 +115,19 @@ _(mostrando los 40 de mayor monto, de 648 en total)_
 | googleplay | Pacers vs. Bucks | Bucks | 2.38 (42¢) | $44,404 | — | ⏳ Pendiente |
 | googleplay | Spread: Pacers (-3.5) | Bucks | 2.00 (50¢) | $59,233 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Thunder (-8.5) | Suns | 1.92 (52¢) | $98,723 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Hornets | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
-| KaneAnalytics | Wizards vs. Hornets | Wizards | 2.17 (46¢) | $31,020 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Hornets | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
+| KaneAnalytics | Wizards vs. Hornets | Wizards | 2.17 (46¢) | $31,020 | -$31,020 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Bucks | Pacers | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
 | dhgreg | Mavericks vs. Heat | Heat | 1.39 (72¢) | $144,000 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Heat (-7.5) | Heat | 2.00 (50¢) | $36,281 | — | ⏳ Pendiente |
 | dhgreg | Spread: Celtics (-14.5) | Bulls | 1.96 (51¢) | $102,000 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Sioux Falls: Daniel Milavsky vs Harry Wendelken | Daniel Milavsky | 1.25 (80¢) | $30,258 | +$7,565 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Hornets | 1.72 (58¢) | $25,114 | — | ⏳ Pendiente |
-| juice-fruit | Wizards vs. Hornets | Wizards | 2.44 (41¢) | $31,761 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Hornets | 1.72 (58¢) | $25,114 | +$18,186 | ✅ Ganada |
+| juice-fruit | Wizards vs. Hornets | Wizards | 2.44 (41¢) | $31,761 | -$31,761 | ❌ Perdida |
 | Elaran1993 | Mavericks vs. Heat: O/U 239.5 | Over 239.5 | 1.89 (53¢) | $37,094 | — | ⏳ Pendiente |
 | dhgreg | Timberwolves vs. Cavaliers | Cavaliers | 1.69 (59¢) | $25,080 | — | ⏳ Pendiente |
-| googleplay | Wizards vs. Hornets | Hornets | 1.67 (60¢) | $104,987 | — | ⏳ Pendiente |
+| googleplay | Wizards vs. Hornets | Hornets | 1.67 (60¢) | $104,987 | +$69,992 | ✅ Ganada |
 | googleplay | Wizards vs. Hornets: O/U 227.5 | Under 227.5 | 1.89 (53¢) | $31,757 | +$28,161 | ✅ Ganada |
 | ethBELIVER | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | dromedaryy | Will Harry Kane win the 2026 Ballon d'Or? | Yes | 1.41 (71¢) | $61,479 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Wizards | 2.50 (40¢) | $120,000 | — | ⏳ Pendiente |
-| googleplay | Wizards vs. Hornets | Hornets | 1.69 (59¢) | $44,250 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Wizards | 2.50 (40¢) | $120,000 | -$120,000 | ❌ Perdida |
