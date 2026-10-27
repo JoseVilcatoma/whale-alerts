@@ -103095,5 +103095,20 @@
     "status": "pending",
     "ultimo_fill": 1793142634,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13946,
+    "timestamp": 1793143619,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "nba-bkn-bos-2026-10-27-total-223pt5",
+    "title": "Nets vs. Celtics: O/U 223.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 90014.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793143625,
+    "fills": 2
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 18:24:40 (hora de Perú)
+Actualizado: 2026-10-27 18:27:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6859**  ($389,394,293 en total)
+- Apuestas registradas: **6860**  ($389,484,307 en total)
 - Resueltas: **6823** — 4172 ganadas / 2651 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 651
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 491 | 274 | 3 | 64% | $50,176,578 | +$496,117 |
 | Sassy-Bucket | 96 | 94 | 4 | 51% | $12,522,529 | -$1,151,763 |
-| mooseborzoii | 103 | 55 | 2 | 65% | $9,085,229 | +$1,212,466 |
+| mooseborzoii | 103 | 55 | 3 | 65% | $9,175,243 | +$1,212,466 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | googleplay | 36 | 23 | 0 | 61% | $7,742,265 | +$333,941 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Nets vs. Celtics: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $90,014 | — | ⏳ Pendiente |
 | Sassy-Bucket | Devils vs. Stars | Stars | 1.89 (53¢) | $63,280 | — | ⏳ Pendiente |
 | Sassy-Bucket | Devils vs. Stars | Stars | 1.92 (52¢) | $62,274 | — | ⏳ Pendiente |
 | tennischamp | Kings vs. Spurs | Spurs | 1.08 (93¢) | $90,856 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-8.5) | Warriors | 1.79 (56¢) | $33,992 | +$26,708 | ✅ Ganada |
 | Eugycom | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | -$71,000 | ❌ Perdida |
 | Leemur | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $33,691 | -$33,691 | ❌ Perdida |
-| KaneAnalytics | Timberwolves vs. Cavaliers | Cavaliers | 1.19 (84¢) | $33,531 | +$6,387 | ✅ Ganada |
