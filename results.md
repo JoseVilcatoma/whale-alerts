@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 22:56:25 (hora de Perú)
+Actualizado: 2026-10-26 22:58:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6817**  ($387,700,988 en total)
+- Apuestas registradas: **6818**  ($387,745,058 en total)
 - Resueltas: **6771** — 4141 ganadas / 2630 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 649
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 487 | 271 | 9 | 64% | $50,132,508 | +$742,361 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 487 | 271 | 10 | 64% | $50,176,578 | +$742,361 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
 | mooseborzoii | 103 | 55 | 1 | 65% | $9,057,960 | +$1,212,466 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Warriors | 1.18 (85¢) | $44,070 | — | ⏳ Pendiente |
 | Zywoo123 | Warriors vs. Nuggets | Warriors | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $25,454 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Warriors vs. Nuggets | Nuggets | 1.72 (58¢) | $75,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-6.5) | Thunder | 1.79 (56¢) | $61,600 | +$48,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Bucks | Bucks | 2.44 (41¢) | $28,818 | +$41,470 | ✅ Ganada |
 | ic4cream | Pacers vs. Bucks | Pacers | 1.69 (59¢) | $41,470 | -$41,470 | ❌ Perdida |
-| yabanci | Spread: Pacers (-3.5) | Pacers | 2.04 (49¢) | $52,430 | -$52,430 | ❌ Perdida |
