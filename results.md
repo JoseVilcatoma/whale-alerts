@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 23:00:39 (hora de Perú)
+Actualizado: 2026-10-26 23:02:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6818**  ($387,745,058 en total)
+- Apuestas registradas: **6819**  ($387,786,253 en total)
 - Resueltas: **6771** — 4141 ganadas / 2630 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 649
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $41,195 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Warriors | 1.18 (85¢) | $44,070 | — | ⏳ Pendiente |
 | Zywoo123 | Warriors vs. Nuggets | Warriors | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $25,454 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | googleplay | Spread: Thunder (-8.5) | Suns | 1.89 (53¢) | $89,855 | -$89,855 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-6.5) | Thunder | 1.79 (56¢) | $61,600 | +$48,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Bucks | Bucks | 2.44 (41¢) | $28,818 | +$41,470 | ✅ Ganada |
-| ic4cream | Pacers vs. Bucks | Pacers | 1.69 (59¢) | $41,470 | -$41,470 | ❌ Perdida |
