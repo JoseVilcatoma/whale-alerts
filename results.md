@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 23:46:38 (hora de Perú)
+Actualizado: 2026-10-26 23:48:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6821**  ($387,848,925 en total)
-- Resueltas: **6771** — 4141 ganadas / 2630 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **6772** — 4142 ganadas / 2630 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,422,888** sobre $385,219,750 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,766** sobre $667,700 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,319,137** sobre $385,315,520 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,657** sobre $667,800 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 103 | 55 | 1 | 65% | $9,057,960 | +$1,212,466 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| googleplay | 33 | 23 | 3 | 59% | $7,742,265 | -$20,126 |
+| googleplay | 34 | 23 | 2 | 60% | $7,742,265 | +$83,624 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | Zywoo123 | Warriors vs. Nuggets | Warriors | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $25,454 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Warriors vs. Nuggets | Nuggets | 1.72 (58¢) | $75,000 | — | ⏳ Pendiente |
-| googleplay | Spread: Nuggets (-1.5) | Warriors | 2.08 (48¢) | $95,770 | — | ⏳ Pendiente |
+| googleplay | Spread: Nuggets (-1.5) | Warriors | 2.08 (48¢) | $95,770 | +$103,751 | ✅ Ganada |
 | yabanci | Spread: Nuggets (-2.5) | Nuggets | 2.04 (49¢) | $52,430 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-2.5) | Nuggets | 2.04 (49¢) | $84,710 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Warriors | 2.38 (42¢) | $29,262 | — | ⏳ Pendiente |
