@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 08:29:14 (hora de Perú)
+Actualizado: 2026-10-27 08:31:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6838**  ($388,531,889 en total)
-- Resueltas: **6802** — 4159 ganadas / 2643 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **6805** — 4162 ganadas / 2643 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,553,669** sobre $387,010,578 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,581** sobre $670,700 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,482,484** sobre $387,169,023 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,447** sobre $671,000 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 36 | 23 | 0 | 61% | $7,742,265 | +$333,941 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| Lakersfan111 | 95 | 52 | 4 | 65% | $7,217,508 | +$372,719 |
+| Lakersfan111 | 96 | 52 | 3 | 65% | $7,217,508 | +$412,905 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 107 | 57 | 0 | 65% | $7,120,218 | +$166,726 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 |---|---|---|---|---|---|---|
 | monkeymashingkeyboard | Trail Blazers vs. Lakers | Lakers | 1.69 (59¢) | $30,733 | — | ⏳ Pendiente |
 | Kkunn | Guangzhou Open: Xinran Sun vs Mananchaya Sawangkaew | Xinran Sun | 1.39 (72¢) | $29,546 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $89,447 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $89,447 | +$40,186 | ✅ Ganada |
 | salgnklasf | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $39,977 | +$4,862 | 💰 Vendida antes |
 | jakepaulthegoat2008 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $81,400 | — | ⏳ Pendiente |
@@ -86,8 +86,8 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $56,356 | +$39,163 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: FURIA vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.10 (91¢) | $27,278 | — | ⏳ Pendiente |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: TheMongolz vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $43,856 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $25,142 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $43,856 | +$19,703 | ✅ Ganada |
+| lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $25,142 | +$11,296 | ✅ Ganada |
 | 01258787xy48487484545122 | Seoul: Omar Jasika vs Alexandre Muller | Omar Jasika | 1.06 (94¢) | $29,673 | +$1,894 | ✅ Ganada |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.67 (60¢) | $33,000 | +$22,000 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $41,195 | +$28,627 | ✅ Ganada |
