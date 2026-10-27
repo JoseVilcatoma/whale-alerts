@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 21:04:17 (hora de Perú)
+Actualizado: 2026-10-26 21:06:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6806**  ($387,124,604 en total)
+- Apuestas registradas: **6807**  ($387,151,803 en total)
 - Resueltas: **6713** — 4112 ganadas / 2601 perdidas (**61%** de acierto)
-- Pendientes: 71
+- Pendientes: 72
 - Apostadores distintos: 649
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 483 | 266 | 15 | 64% | $49,991,338 | +$1,216,099 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 483 | 266 | 16 | 64% | $50,018,537 | +$1,216,099 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
 | mooseborzoii | 103 | 53 | 3 | 66% | $9,057,960 | +$1,293,210 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-9.5) | Warriors | 1.69 (59¢) | $27,199 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Nuggets | 1.43 (70¢) | $137,830 | — | ⏳ Pendiente |
 | Anon455 | Cowboys vs. Eagles | Cowboys | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Eagles | Cowboys | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | dhgreg | Mavericks vs. Heat | Heat | 1.39 (72¢) | $144,000 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Heat (-7.5) | Heat | 2.00 (50¢) | $36,281 | — | ⏳ Pendiente |
 | dhgreg | Spread: Celtics (-14.5) | Bulls | 1.96 (51¢) | $102,000 | — | ⏳ Pendiente |
-| 01258787xy48487484545122 | Sioux Falls: Daniel Milavsky vs Harry Wendelken | Daniel Milavsky | 1.25 (80¢) | $30,258 | +$7,565 | ✅ Ganada |
