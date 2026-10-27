@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 22:33:35 (hora de Perú)
+Actualizado: 2026-10-26 22:35:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6815**  ($387,650,033 en total)
-- Resueltas: **6746** — 4128 ganadas / 2618 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Resueltas: **6747** — 4128 ganadas / 2619 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,164,648** sobre $383,602,053 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,412** sobre $665,200 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,209,111** sobre $383,646,516 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,512** sobre $665,300 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 485 | 269 | 13 | 64% | $50,132,508 | +$958,969 |
 | Sassy-Bucket | 96 | 94 | 2 | 51% | $12,396,975 | -$1,151,763 |
-| mooseborzoii | 103 | 54 | 2 | 66% | $9,057,960 | +$1,256,929 |
+| mooseborzoii | 103 | 55 | 1 | 65% | $9,057,960 | +$1,212,466 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | googleplay | 32 | 23 | 4 | 58% | $7,742,265 | -$73,463 |
