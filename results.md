@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 10:37:39 (hora de Perú)
+Actualizado: 2026-10-27 10:39:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6848**  ($388,836,212 en total)
+- Apuestas registradas: **6849**  ($388,947,562 en total)
 - Resueltas: **6808** — 4164 ganadas / 2644 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 651
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 36 | 23 | 0 | 61% | $7,742,265 | +$333,941 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| Lakersfan111 | 97 | 52 | 2 | 65% | $7,217,508 | +$441,505 |
+| Lakersfan111 | 97 | 52 | 3 | 65% | $7,328,859 | +$441,505 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 107 | 57 | 0 | 65% | $7,120,218 | +$166,726 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Kings vs. Spurs | Spurs | 1.08 (93¢) | $111,351 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Envy vs GamerLegion (BO3) - Tesla Cup Group B | Envy | 1.61 (62¢) | $30,731 | — | ⏳ Pendiente |
 | justwins | Spread: Spurs (-18.5) | Kings | 2.00 (50¢) | $34,371 | — | ⏳ Pendiente |
 | jessy2 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.33 (43¢) | $31,323 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 | cosmicxbt | Cowboys vs. Eagles | Cowboys | 1.47 (68¢) | $68,000 | +$32,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $104,908 | -$104,908 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Pacers vs. Bucks | Pacers | 1.20 (83¢) | $26,423 | -$26,423 | ❌ Perdida |
-| Electricy | Cowboys vs. Eagles | Cowboys | 1.92 (52¢) | $37,456 | +$34,574 | ✅ Ganada |
