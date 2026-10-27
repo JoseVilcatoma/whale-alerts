@@ -103125,5 +103125,35 @@
     "status": "pending",
     "ultimo_fill": 1793143726,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13948,
+    "timestamp": 1793143819,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nba-bkn-bos-2026-10-27",
+    "title": "Nets vs. Celtics",
+    "outcome": "Nets",
+    "side": "BUY",
+    "usd": 32526.617200000004,
+    "odds_at_bet": 14,
+    "status": "pending",
+    "ultimo_fill": 1793143819,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13949,
+    "timestamp": 1793143419,
+    "username": "VPenguin",
+    "wallet": "0xfbf3d501e88815464642d0e913f15379c3eeb218",
+    "slug": "nba-bkn-bos-2026-10-27-spread-home-10pt5",
+    "title": "Spread: Celtics (-10.5)",
+    "outcome": "Nets",
+    "side": "BUY",
+    "usd": 32054.4,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1793143419,
+    "fills": 1
   }
 ]
