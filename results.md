@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 19:04:24 (hora de Perú)
+Actualizado: 2026-10-26 19:06:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6764**  ($383,997,603 en total)
+- Apuestas registradas: **6765**  ($384,044,603 en total)
 - Resueltas: **6691** — 4096 ganadas / 2595 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 52
 - Apostadores distintos: 647
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Spread: Pacers (-3.5) | Pacers | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | googleplay | Spread: Pacers (-3.5) | Bucks | 1.92 (52¢) | $34,431 | — | ⏳ Pendiente |
 | googleplay | Spread: Thunder (-8.5) | Suns | 1.89 (53¢) | $89,855 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 647 en total)_
 | ArielFilipino | Spread: Nuggets (-7.5) | Warriors | 1.92 (52¢) | $27,699 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Hornets (-1.5) | Hornets | 1.85 (54¢) | $28,100 | — | ⏳ Pendiente |
 | mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays | Tampa Bay Rays | 1.96 (51¢) | $44,463 | — | ⏳ Pendiente |
-| 0x33b1…af25 | Will Paris Saint-Germain FC win on 2026-10-25? | Yes | 1.35 (74¢) | $31,095 | +$10,925 | ✅ Ganada |
