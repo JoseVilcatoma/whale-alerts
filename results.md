@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 22:19:23 (hora de Perú)
+Actualizado: 2026-10-26 22:21:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6812**  ($387,484,974 en total)
+- Apuestas registradas: **6815**  ($387,650,033 en total)
 - Resueltas: **6746** — 4128 ganadas / 2618 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 47
 - Apostadores distintos: 649
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 103 | 54 | 2 | 66% | $9,057,960 | +$1,256,929 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| googleplay | 32 | 23 | 3 | 58% | $7,716,405 | -$73,463 |
+| googleplay | 32 | 23 | 4 | 58% | $7,742,265 | -$73,463 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,10 +71,13 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Warriors vs. Nuggets | Nuggets | 1.72 (58¢) | $75,000 | — | ⏳ Pendiente |
 | googleplay | Spread: Nuggets (-1.5) | Warriors | 2.08 (48¢) | $95,770 | — | ⏳ Pendiente |
 | yabanci | Spread: Nuggets (-2.5) | Nuggets | 2.04 (49¢) | $52,430 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-2.5) | Nuggets | 2.04 (49¢) | $84,710 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Warriors | 2.38 (42¢) | $29,262 | — | ⏳ Pendiente |
+| googleplay | Warriors vs. Nuggets | Warriors | 2.33 (43¢) | $25,860 | — | ⏳ Pendiente |
+| CHZHSHCH | Grizzlies vs. Jazz | Grizzlies | 1.25 (80¢) | $64,198 | — | ⏳ Pendiente |
 | dhgreg | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-9.5) | Warriors | 1.69 (59¢) | $27,199 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Nuggets | 1.43 (70¢) | $137,830 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | yabanci | Spread: Pacers (-3.5) | Pacers | 2.04 (49¢) | $52,430 | -$52,430 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Bucks | Pacers | 1.72 (58¢) | $232,000 | -$232,000 | ❌ Perdida |
 | googleplay | Pacers vs. Bucks | Bucks | 2.38 (42¢) | $44,404 | +$61,320 | ✅ Ganada |
-| googleplay | Spread: Pacers (-3.5) | Bucks | 2.00 (50¢) | $59,233 | +$59,233 | ✅ Ganada |
-| Talvez10 | Spread: Thunder (-8.5) | Suns | 1.92 (52¢) | $98,723 | -$98,723 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Wizards vs. Hornets | Hornets | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
