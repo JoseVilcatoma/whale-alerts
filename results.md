@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 09:29:11 (hora de Perú)
+Actualizado: 2026-10-27 09:31:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6843**  ($388,677,590 en total)
+- Apuestas registradas: **6844**  ($388,714,785 en total)
 - Resueltas: **6806** — 4163 ganadas / 2643 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 650
 
 ### Balance
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
-| juice-fruit | 24 | 10 | 0 | 71% | $2,021,697 | +$535,318 |
+| juice-fruit | 24 | 10 | 1 | 71% | $2,058,893 | +$535,318 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | Jokerxing7 | 14 | 21 | 0 | 40% | $1,948,493 | -$329,469 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 650 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Counter-Strike: Spirit vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.75 (57¢) | $37,196 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 1.75 (57¢) | $29,332 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.82 (55¢) | $31,000 | — | ⏳ Pendiente |
 | Netrol | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.00 (50¢) | $26,949 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 650 en total)_
 | KaneAnalytics | Cowboys vs. Eagles | Eagles | 2.17 (46¢) | $55,157 | -$55,157 | ❌ Perdida |
 | 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $28,200 | -$28,200 | ❌ Perdida |
 | 0x9ACA96e73df7808A21E426094436C3f06590dEDC-1766897988378 | Cowboys vs. Eagles | Cowboys | 1.64 (61¢) | $52,374 | +$13,738 | 💰 Vendida antes |
-| sifonman | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $27,072 | -$27,072 | ❌ Perdida |
