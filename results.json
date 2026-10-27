@@ -102960,5 +102960,20 @@
     "status": "pending",
     "ultimo_fill": 1793115697,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13920,
+    "timestamp": 1793116465,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-sac-sas-2026-10-27-spread-home-18pt5",
+    "title": "Spread: Spurs (-18.5)",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 25339.065,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793116465,
+    "fills": 1
   }
 ]
