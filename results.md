@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 21:06:23 (hora de Perú)
+Actualizado: 2026-10-26 21:08:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6807**  ($387,151,803 en total)
-- Resueltas: **6713** — 4112 ganadas / 2601 perdidas (**61%** de acierto)
-- Pendientes: 72
+- Apuestas registradas: **6808**  ($387,222,803 en total)
+- Resueltas: **6715** — 4114 ganadas / 2601 perdidas (**61%** de acierto)
+- Pendientes: 71
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,062,318** sobre $381,435,932 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$3,966** sobre $661,900 (ROI **-0.6%**)
+- **Resultado de los apostadores: -$1,056,503** sobre $381,488,265 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$3,944** sobre $662,100 (ROI **-0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dhgreg | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-9.5) | Warriors | 1.69 (59¢) | $27,199 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Nuggets | 1.43 (70¢) | $137,830 | — | ⏳ Pendiente |
 | Anon455 | Cowboys vs. Eagles | Cowboys | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pacers vs. Bucks | Pacers | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
 | dhgreg | Mavericks vs. Heat | Heat | 1.39 (72¢) | $144,000 | — | ⏳ Pendiente |
 | mooseborzoii | Spread: Heat (-7.5) | Heat | 2.00 (50¢) | $36,281 | — | ⏳ Pendiente |
-| dhgreg | Spread: Celtics (-14.5) | Bulls | 1.96 (51¢) | $102,000 | — | ⏳ Pendiente |
