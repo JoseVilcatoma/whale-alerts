@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-26 23:56:55 (hora de Perú)
+Actualizado: 2026-10-26 23:58:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6821**  ($387,848,925 en total)
-- Resueltas: **6792** — 4151 ganadas / 2641 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **6793** — 4152 ganadas / 2641 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,694,299** sobre $386,662,482 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,026** sobre $669,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,692,405** sobre $386,692,155 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,020** sobre $669,900 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 01258787xy48487484545122 | Seoul: Omar Jasika vs Alexandre Muller | Omar Jasika | 1.06 (94¢) | $29,673 | — | ⏳ Pendiente |
+| 01258787xy48487484545122 | Seoul: Omar Jasika vs Alexandre Muller | Omar Jasika | 1.06 (94¢) | $29,673 | +$1,894 | ✅ Ganada |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.67 (60¢) | $33,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $41,195 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Warriors | 1.18 (85¢) | $44,070 | +$7,777 | ✅ Ganada |
