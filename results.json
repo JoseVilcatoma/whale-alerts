@@ -102915,5 +102915,20 @@
     "status": "pending",
     "ultimo_fill": 1793113463,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13917,
+    "timestamp": 1793115188,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-envy-gl1-2026-10-27",
+    "title": "Counter-Strike: Envy vs GamerLegion (BO3) - Tesla Cup Group B",
+    "outcome": "Envy",
+    "side": "BUY",
+    "usd": 30731.4594,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1793115188,
+    "fills": 1
   }
 ]
