@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 18:39:32 (hora de Perú)
+Actualizado: 2026-10-27 18:41:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6865**  ($389,814,626 en total)
-- Resueltas: **6823** — 4172 ganadas / 2651 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **6824** — 4173 ganadas / 2651 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 652
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,524,117** sobre $387,795,919 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,700** sobre $672,800 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,514,010** sobre $387,827,926 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,669** sobre $672,900 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 | Sassy-Bucket | Devils vs. Stars | Stars | 1.92 (52¢) | $62,274 | — | ⏳ Pendiente |
 | tennischamp | Kings vs. Spurs | Spurs | 1.08 (93¢) | $90,856 | — | ⏳ Pendiente |
 | mooseborzoii | Canadiens vs. Blues | Canadiens | 1.96 (51¢) | $27,269 | — | ⏳ Pendiente |
-| HVAB | Queretaro: Mell Elizabeth Reasco vs Diletta Cherubini | Diletta Cherubini | 1.32 (76¢) | $32,007 | — | ⏳ Pendiente |
+| HVAB | Queretaro: Mell Elizabeth Reasco vs Diletta Cherubini | Diletta Cherubini | 1.32 (76¢) | $32,007 | +$10,108 | ✅ Ganada |
 | fantasy7788 | Pistons vs. Knicks | Knicks | 1.61 (62¢) | $32,578 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Guayaquil: Juan Pablo Varillas vs Rodrigo Pacheco | Rodrigo Pacheco | 1.11 (90¢) | $46,932 | +$5,215 | ✅ Ganada |
 | salgnklasf | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.45 (69¢) | $35,000 | +$15,725 | ✅ Ganada |
