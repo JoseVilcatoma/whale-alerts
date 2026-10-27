@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 08:39:31 (hora de Perú)
+Actualizado: 2026-10-27 08:41:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6838**  ($388,531,889 en total)
-- Resueltas: **6805** — 4162 ganadas / 2643 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **6806** — 4163 ganadas / 2643 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 649
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,482,484** sobre $387,169,023 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,447** sobre $671,000 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,470,994** sobre $387,198,569 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,408** sobre $671,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 649 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | monkeymashingkeyboard | Trail Blazers vs. Lakers | Lakers | 1.69 (59¢) | $30,733 | — | ⏳ Pendiente |
-| Kkunn | Guangzhou Open: Xinran Sun vs Mananchaya Sawangkaew | Xinran Sun | 1.39 (72¢) | $29,546 | — | ⏳ Pendiente |
+| Kkunn | Guangzhou Open: Xinran Sun vs Mananchaya Sawangkaew | Xinran Sun | 1.39 (72¢) | $29,546 | +$11,490 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $89,447 | +$40,186 | ✅ Ganada |
 | salgnklasf | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $39,977 | +$4,862 | 💰 Vendida antes |
 | jakepaulthegoat2008 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
