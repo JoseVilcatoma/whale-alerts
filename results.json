@@ -102945,5 +102945,20 @@
     "status": "pending",
     "ultimo_fill": 1793115531,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13919,
+    "timestamp": 1793115697,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "nba-det-nyk-2026-10-27",
+    "title": "Pistons vs. Knicks",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 31194.125999999997,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1793115697,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 10:39:47 (hora de Perú)
+Actualizado: 2026-10-27 10:41:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6849**  ($388,947,562 en total)
+- Apuestas registradas: **6850**  ($388,978,757 en total)
 - Resueltas: **6808** — 4164 ganadas / 2644 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 651
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Pistons vs. Knicks | Knicks | 1.67 (60¢) | $31,194 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Spurs | Spurs | 1.08 (93¢) | $111,351 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Envy vs GamerLegion (BO3) - Tesla Cup Group B | Envy | 1.61 (62¢) | $30,731 | — | ⏳ Pendiente |
 | justwins | Spread: Spurs (-18.5) | Kings | 2.00 (50¢) | $34,371 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 651 en total)_
 | milkteaboba | Cowboys vs. Eagles | Cowboys | 1.61 (62¢) | $81,648 | +$50,042 | ✅ Ganada |
 | cosmicxbt | Cowboys vs. Eagles | Cowboys | 1.47 (68¢) | $68,000 | +$32,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Jazz | Jazz | 2.00 (50¢) | $104,908 | -$104,908 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Pacers vs. Bucks | Pacers | 1.20 (83¢) | $26,423 | -$26,423 | ❌ Perdida |
