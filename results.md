@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 09:25:09 (hora de Perú)
+Actualizado: 2026-10-27 09:27:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6842**  ($388,648,257 en total)
+- Apuestas registradas: **6843**  ($388,677,590 en total)
 - Resueltas: **6806** — 4163 ganadas / 2643 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 650
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 650 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 1.75 (57¢) | $29,332 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.82 (55¢) | $31,000 | — | ⏳ Pendiente |
 | Netrol | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.00 (50¢) | $26,949 | — | ⏳ Pendiente |
 | 0x869909eeaa3637081a7383b177c20dedd7957bb2-1792846915646 | Curitiba: Julia Riera vs Rebeka Masarova | Rebeka Masarova | 1.52 (66¢) | $26,219 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 650 en total)_
 | 0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513 | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $28,200 | -$28,200 | ❌ Perdida |
 | 0x9ACA96e73df7808A21E426094436C3f06590dEDC-1766897988378 | Cowboys vs. Eagles | Cowboys | 1.64 (61¢) | $52,374 | +$13,738 | 💰 Vendida antes |
 | sifonman | Grizzlies vs. Jazz | Jazz | 2.13 (47¢) | $27,072 | -$27,072 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Jazz | Grizzlies | 1.92 (52¢) | $31,200 | +$28,800 | ✅ Ganada |
