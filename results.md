@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 18:46:10 (hora de Perú)
+Actualizado: 2026-10-28 18:48:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6961**  ($395,465,547 en total)
-- Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
+- Apuestas registradas: **6963**  ($395,600,922 en total)
+- Resueltas: **6890** — 4201 ganadas / 2689 perdidas (**61%** de acierto)
 - Pendientes: 51
 - Apostadores distintos: 659
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,432,361** sobre $391,107,110 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,411** sobre $679,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,425,910** sobre $391,159,308 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,387** sobre $679,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 8 | 64% | $51,057,832 | +$137,979 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 9 | 64% | $51,117,832 | +$137,979 |
 | Sassy-Bucket | 96 | 96 | 4 | 50% | $12,689,178 | -$1,277,318 |
-| googleplay | 38 | 23 | 11 | 62% | $9,428,110 | +$514,330 |
+| googleplay | 38 | 23 | 12 | 62% | $9,503,485 | +$514,330 |
 | mooseborzoii | 105 | 56 | 2 | 65% | $9,377,862 | +$1,144,338 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 659 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Pelicans | Nuggets | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
+| googleplay | Nuggets vs. Pelicans | Pelicans | 2.50 (40¢) | $75,375 | — | ⏳ Pendiente |
 | googleplay | Knicks vs. Bulls: O/U 233.5 | Over 233.5 | 1.96 (51¢) | $65,451 | — | ⏳ Pendiente |
 | thetesterguy | Inter Miami CF vs. FC Cincinnati: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $25,320 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Nashville SC win on 2026-10-28? | Yes | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
@@ -110,9 +112,9 @@ _(mostrando los 40 de mayor monto, de 659 en total)_
 | BrotherObama | Milwaukee Brewers vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Lakers vs. Clippers | Lakers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: 76ers (-7.5) | 76ers | 2.00 (50¢) | $34,179 | — | ⏳ Pendiente |
-| UpTheBlues | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $26,634 | — | ⏳ Pendiente |
+| UpTheBlues | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $26,634 | +$3,292 | ✅ Ganada |
 | hewhodoesit | Lakers vs. Clippers | Clippers | 2.04 (49¢) | $33,111 | — | ⏳ Pendiente |
-| Flaznorp | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $25,564 | — | ⏳ Pendiente |
+| Flaznorp | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $25,564 | +$3,160 | ✅ Ganada |
 | jakepaulthegoat2008 | Hornets vs. Pistons | Pistons | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Erste Bank Open: Learner Tien vs Alex de Minaur | Alex de Minaur | 1.12 (89¢) | $48,187 | +$5,956 | ✅ Ganada |
 | yabanci | FC Bayern München vs. 1. FC Magdeburg: O/U 4.5 | Under 4.5 | 2.22 (45¢) | $37,529 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 659 en total)_
 | CORGII | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 3.12 (32¢) | $37,724 | +$80,164 | ✅ Ganada |
 | 1337zzz1337 | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $27,428 | -$27,428 | ❌ Perdida |
 | bbb17367162806 | Will AC Milan win on 2026-10-28? | Yes | 1.79 (56¢) | $28,283 | -$28,283 | ❌ Perdida |
-| RichieRicher | Will Manchester City FC win on 2026-10-28? | Yes | 1.85 (54¢) | $29,110 | — | ⏳ Pendiente |
-| mbmbbbmbv | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.41 (71¢) | $29,406 | -$29,406 | ❌ Perdida |

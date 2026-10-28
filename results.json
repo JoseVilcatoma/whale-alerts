@@ -104013,7 +104013,7 @@
     "side": "BUY",
     "usd": 25563.71,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793219191,
     "fills": 1
   },
@@ -104043,7 +104043,7 @@
     "side": "BUY",
     "usd": 26634.14,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793219944,
     "fills": 1
   },
@@ -104630,6 +104630,36 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1793231160,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14117,
+    "timestamp": 1793231227,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-den-nop-2026-10-28",
+    "title": "Nuggets vs. Pelicans",
+    "outcome": "Nuggets",
+    "side": "BUY",
+    "usd": 60000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1793231227,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14119,
+    "timestamp": 1793231227,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-den-nop-2026-10-28",
+    "title": "Nuggets vs. Pelicans",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 75375.064,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1793231227,
     "fills": 1
   }
 ]
