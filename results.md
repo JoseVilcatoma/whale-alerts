@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 22:47:13 (hora de Perú)
+Actualizado: 2026-10-27 22:49:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6880**  ($390,705,193 en total)
+- Apuestas registradas: **6881**  ($390,738,460 en total)
 - Resueltas: **6845** — 4184 ganadas / 2661 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 653
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Sabres vs. Sharks | Sharks | 2.38 (42¢) | $33,267 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $33,842 | — | ⏳ Pendiente |
 | BrotherObama | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $29,780 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $76,606 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: TheMongolz vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $43,856 | +$19,703 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $25,142 | +$11,296 | ✅ Ganada |
-| 01258787xy48487484545122 | Seoul: Omar Jasika vs Alexandre Muller | Omar Jasika | 1.06 (94¢) | $29,673 | +$1,894 | ✅ Ganada |

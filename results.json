@@ -103412,5 +103412,20 @@
     "status": "pending",
     "ultimo_fill": 1793156629,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13990,
+    "timestamp": 1793159238,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "nhl-buf-sj-2026-10-27",
+    "title": "Sabres vs. Sharks",
+    "outcome": "Sharks",
+    "side": "BUY",
+    "usd": 33266.6964,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1793159238,
+    "fills": 1
   }
 ]
