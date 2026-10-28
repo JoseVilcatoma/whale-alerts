@@ -103806,5 +103806,20 @@
     "status": "pending",
     "ultimo_fill": 1793202776,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14038,
+    "timestamp": 1793203078,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "cs2-ts7-navi-2026-10-28",
+    "title": "Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 30687.499999000003,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1793203078,
+    "fills": 1
   }
 ]
