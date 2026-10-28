@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 21:46:02 (hora de Perú)
+Actualizado: 2026-10-27 21:48:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6878**  ($390,641,572 en total)
-- Resueltas: **6833** — 4179 ganadas / 2654 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **6834** — 4179 ganadas / 2655 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 653
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,451,788** sobre $388,517,596 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,619** sobre $673,800 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,484,315** sobre $388,550,122 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,719** sobre $673,900 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
-| dhgreg | 6 | 12 | 5 | 33% | $2,070,801 | -$1,021,152 |
+| dhgreg | 6 | 13 | 4 | 32% | $2,070,801 | -$1,053,678 |
 | juice-fruit | 24 | 11 | 0 | 69% | $2,058,893 | +$498,122 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | Zzzz87 | Panthers vs. Jets | Jets | 2.08 (48¢) | $28,645 | — | ⏳ Pendiente |
 | KaneAnalytics | Delaware vs. Western Kentucky | Western Kentucky | 1.47 (68¢) | $41,025 | -$41,025 | ❌ Perdida |
 | dhgreg | Spread: Celtics (-13.5) | Nets | 2.00 (50¢) | $59,229 | +$59,229 | ✅ Ganada |
-| dhgreg | Nets vs. Celtics | Nets | 7.14 (14¢) | $32,527 | — | ⏳ Pendiente |
+| dhgreg | Nets vs. Celtics | Nets | 7.14 (14¢) | $32,527 | -$32,527 | ❌ Perdida |
 | googleplay | Nets vs. Celtics: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $135,317 | +$130,011 | ✅ Ganada |
 | mooseborzoii | Nets vs. Celtics: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $120,181 | -$120,181 | ❌ Perdida |
 | VPenguin | Spread: Celtics (-10.5) | Nets | 2.50 (40¢) | $32,054 | — | ⏳ Pendiente |
