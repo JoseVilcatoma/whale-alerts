@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 22:11:07 (hora de Perú)
+Actualizado: 2026-10-27 22:13:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6880**  ($390,705,193 en total)
-- Resueltas: **6840** — 4181 ganadas / 2659 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **6843** — 4183 ganadas / 2660 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 653
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,569,233** sobre $388,791,646 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,773** sobre $674,400 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,662,036** sobre $388,988,984 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,745** sobre $674,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 492 | 274 | 5 | 64% | $50,640,672 | +$524,117 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 492 | 275 | 4 | 64% | $50,640,672 | +$390,551 |
 | Sassy-Bucket | 96 | 96 | 2 | 50% | $12,522,529 | -$1,277,318 |
 | mooseborzoii | 104 | 56 | 2 | 65% | $9,233,418 | +$1,118,485 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Western Kentucky | Delaware | 1.39 (72¢) | $72,000 | +$28,000 | ✅ Ganada |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $28,155 | — | ⏳ Pendiente |
 | KaneAnalytics | Sam Houston vs. Missouri State | Missouri State | 1.32 (76¢) | $50,860 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Knicks | Pistons | 1.75 (57¢) | $133,566 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Knicks | Pistons | 1.75 (57¢) | $133,566 | -$133,566 | ❌ Perdida |
 | mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,008 | — | ⏳ Pendiente |
 | Zzzz87 | Panthers vs. Jets | Jets | 2.08 (48¢) | $28,645 | -$28,645 | ❌ Perdida |
 | KaneAnalytics | Delaware vs. Western Kentucky | Western Kentucky | 1.47 (68¢) | $41,025 | -$41,025 | ❌ Perdida |
@@ -97,11 +97,11 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | tennischamp | Kings vs. Spurs | Spurs | 1.08 (93¢) | $90,856 | +$6,839 | ✅ Ganada |
 | mooseborzoii | Canadiens vs. Blues | Canadiens | 1.96 (51¢) | $27,269 | +$26,200 | ✅ Ganada |
 | HVAB | Queretaro: Mell Elizabeth Reasco vs Diletta Cherubini | Diletta Cherubini | 1.32 (76¢) | $32,007 | +$10,108 | ✅ Ganada |
-| fantasy7788 | Pistons vs. Knicks | Knicks | 1.61 (62¢) | $32,578 | — | ⏳ Pendiente |
+| fantasy7788 | Pistons vs. Knicks | Knicks | 1.61 (62¢) | $32,578 | +$19,967 | ✅ Ganada |
 | 01258787xy48487484545122 | Guayaquil: Juan Pablo Varillas vs Rodrigo Pacheco | Rodrigo Pacheco | 1.11 (90¢) | $46,932 | +$5,215 | ✅ Ganada |
 | salgnklasf | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.45 (69¢) | $35,000 | +$15,725 | ✅ Ganada |
 | jakepaulthegoat2008 | Spread: Spurs (-18.5) | Spurs | 2.00 (50¢) | $25,339 | +$25,339 | ✅ Ganada |
-| monkeymashingkeyboard | Pistons vs. Knicks | Knicks | 1.67 (60¢) | $31,194 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Pistons vs. Knicks | Knicks | 1.67 (60¢) | $31,194 | +$20,796 | ✅ Ganada |
 | jakepaulthegoat2008 | Kings vs. Spurs | Spurs | 1.08 (93¢) | $111,351 | +$8,381 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Envy vs GamerLegion (BO3) - Tesla Cup Group B | Envy | 1.61 (62¢) | $30,731 | -$30,731 | ❌ Perdida |
 | justwins | Spread: Spurs (-18.5) | Kings | 2.00 (50¢) | $34,371 | -$34,371 | ❌ Perdida |
