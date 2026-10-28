@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 23:26:22 (hora de Perú)
+Actualizado: 2026-10-27 23:28:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6882**  ($390,769,120 en total)
+- Apuestas registradas: **6883**  ($390,818,880 en total)
 - Resueltas: **6845** — 4184 ganadas / 2661 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 653
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Trail Blazers vs. Lakers | Trail Blazers | 2.86 (35¢) | $49,760 | — | ⏳ Pendiente |
 | FlamePyro | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.37 (73¢) | $30,660 | — | ⏳ Pendiente |
 | yabanci | Sabres vs. Sharks | Sharks | 2.38 (42¢) | $33,267 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $33,842 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $56,356 | +$39,163 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: FURIA vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.10 (91¢) | $27,278 | +$2,698 | ✅ Ganada |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: TheMongolz vs Legacy (BO3) - PGL Masters Bucharest Group Stage | Legacy | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
-| lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $43,856 | +$19,703 | ✅ Ganada |
