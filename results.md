@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 00:05:28 (hora de Perú)
+Actualizado: 2026-10-28 00:07:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6884**  ($390,845,023 en total)
-- Resueltas: **6847** — 4185 ganadas / 2662 perdidas (**61%** de acierto)
+- Apuestas registradas: **6885**  ($390,920,292 en total)
+- Resueltas: **6848** — 4185 ganadas / 2663 perdidas (**61%** de acierto)
 - Pendientes: 15
-- Apostadores distintos: 653
+- Apostadores distintos: 654
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,677,470** sobre $389,125,201 apostados (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,679,532** sobre $389,200,469 apostados (ROI **-0.7%**)
 - Copiando $100 fijo en cada una: **-$4,821** sobre $675,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 24 | 11 | 0 | 69% | $2,058,893 | +$498,122 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
-_(mostrando los 40 de mayor monto, de 653 en total)_
+_(mostrando los 40 de mayor monto, de 654 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SadSquid54333 | Trail Blazers vs. Lakers | Lakers | 1.37 (73¢) | $75,268 | -$2,062 | 💰 Vendida antes |
 | jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.52 (66¢) | $26,144 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Trail Blazers vs. Lakers | Trail Blazers | 2.86 (35¢) | $49,760 | — | ⏳ Pendiente |
 | FlamePyro | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.37 (73¢) | $30,660 | -$30,660 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Dayana Yastremska | 2.78 (36¢) | $26,605 | +$47,298 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: B8 vs K27 (BO3) - Tesla Cup Group A | B8 | 1.59 (63¢) | $44,100 | -$44,100 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $56,356 | +$39,163 | ✅ Ganada |
-| 4217893367451 | Counter-Strike: FURIA vs TYLOO (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.10 (91¢) | $27,278 | +$2,698 | ✅ Ganada |
