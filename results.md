@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 08:49:11 (hora de Perú)
+Actualizado: 2026-10-28 08:51:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6898**  ($391,448,390 en total)
-- Resueltas: **6859** — 4188 ganadas / 2671 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **6864** — 4189 ganadas / 2675 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 654
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,044,028** sobre $389,837,028 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$5,322** sobre $676,100 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,193,324** sobre $390,027,205 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$5,664** sobre $676,600 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| juice-fruit | 24 | 11 | 2 | 69% | $2,144,924 | +$498,122 |
+| juice-fruit | 24 | 12 | 1 | 67% | $2,144,924 | +$455,372 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
 | dhgreg | 6 | 18 | 0 | 25% | $2,104,643 | -$1,243,495 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
@@ -75,14 +75,14 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 | tankfest2027 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $25,714 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.70 (27¢) | $43,282 | — | ⏳ Pendiente |
 | bbb17367162806 | Will AC Milan win on 2026-10-28? | Yes | 1.79 (56¢) | $26,978 | — | ⏳ Pendiente |
-| NS13 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.59 (63¢) | $25,755 | — | ⏳ Pendiente |
-| juice-fruit | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.75 (57¢) | $42,750 | — | ⏳ Pendiente |
-| CORGII | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $33,323 | — | ⏳ Pendiente |
+| NS13 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.59 (63¢) | $25,755 | +$15,126 | ✅ Ganada |
+| juice-fruit | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.75 (57¢) | $42,750 | -$42,750 | ❌ Perdida |
+| CORGII | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $33,323 | -$33,323 | ❌ Perdida |
 | 4217893367451 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.85 (26¢) | $52,000 | — | ⏳ Pendiente |
-| HBAFlover98 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $26,750 | — | ⏳ Pendiente |
+| HBAFlover98 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $26,750 | -$26,750 | ❌ Perdida |
 | jakepaulthegoat2008 | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.89 (53¢) | $49,631 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $64,019 | — | ⏳ Pendiente |
-| yabanci | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $61,600 | — | ⏳ Pendiente |
+| yabanci | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $61,600 | -$61,600 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | magic | 2.13 (47¢) | $40,333 | — | ⏳ Pendiente |
 | SadSquid54333 | Trail Blazers vs. Lakers | Lakers | 1.37 (73¢) | $75,268 | -$2,062 | 💰 Vendida antes |
 | jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.52 (66¢) | $26,144 | — | ⏳ Pendiente |
