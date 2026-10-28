@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 00:15:30 (hora de Perú)
+Actualizado: 2026-10-28 00:17:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6887**  ($391,022,224 en total)
-- Resueltas: **6848** — 4185 ganadas / 2663 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **6849** — 4186 ganadas / 2663 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 654
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,679,532** sobre $389,200,469 apostados (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,674,475** sobre $389,230,249 apostados (ROI **-0.7%**)
 - Copiando $100 fijo en cada una: **-$4,821** sobre $675,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
-| BrotherObama | 48 | 51 | 3 | 48% | $4,455,569 | -$98,120 |
+| BrotherObama | 49 | 51 | 2 | 49% | $4,455,569 | -$93,063 |
 | Mooseborzoiii | 23 | 18 | 0 | 56% | $4,277,186 | +$661,389 |
 | Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 | FlamePyro | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.37 (73¢) | $30,660 | -$30,660 | ❌ Perdida |
 | yabanci | Sabres vs. Sharks | Sharks | 2.38 (42¢) | $33,267 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $33,842 | — | ⏳ Pendiente |
-| BrotherObama | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $29,780 | — | ⏳ Pendiente |
+| BrotherObama | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $29,780 | +$5,057 | 💰 Vendida antes |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $76,606 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $25,435 | — | ⏳ Pendiente |
 | 0xe34b…03a3 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.79 (56¢) | $28,000 | -$5,000 | 💰 Vendida antes |
