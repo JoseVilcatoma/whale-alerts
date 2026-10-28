@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 01:57:36 (hora de Perú)
+Actualizado: 2026-10-28 01:59:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6889**  ($391,135,875 en total)
+- Apuestas registradas: **6890**  ($391,162,625 en total)
 - Resueltas: **6859** — 4188 ganadas / 2671 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 654
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HBAFlover98 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $26,750 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.89 (53¢) | $49,631 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $64,019 | — | ⏳ Pendiente |
 | yabanci | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $61,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $81,400 | +$28,600 | ✅ Ganada |
 | Kkunn | Pan Pacific Open: Tereza Valentova vs Mia Pohankova | Mia Pohankova | 2.86 (35¢) | $26,226 | +$48,705 | ✅ Ganada |
 | NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Katie Volynets | 1.20 (83¢) | $25,509 | -$25,509 | ❌ Perdida |
-| jakepaulthegoat2008 | Counter-Strike: MIBR vs Eternal Fire (BO3) - Stake Ranked Episode 5 Playoffs | MIBR | 1.56 (64¢) | $50,913 | +$28,639 | ✅ Ganada |
