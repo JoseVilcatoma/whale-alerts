@@ -103504,5 +103504,20 @@
     "status": "pending",
     "ultimo_fill": 1793164239,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13999,
+    "timestamp": 1793164384,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "cs2-mglz-nemi1-2026-10-28",
+    "title": "Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 61600.00000000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1793164384,
+    "fills": 1
   }
 ]
