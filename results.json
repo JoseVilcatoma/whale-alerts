@@ -103716,5 +103716,20 @@
     "status": "pending",
     "ultimo_fill": 1793197312,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1793198339,
+    "username": "tankfest2027",
+    "wallet": "0x4d6ef7033e3e332ba584882d09070b3abe755cfd",
+    "slug": "cs2-tl1-furia-2026-10-28-game2",
+    "title": "Counter-Strike: Liquid vs FURIA - Map 2 Winner",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 46650.03,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1793198339,
+    "fills": 1
   }
 ]
