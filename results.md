@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 18:38:00 (hora de Perú)
+Actualizado: 2026-10-28 18:40:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6957**  ($395,298,416 en total)
+- Apuestas registradas: **6958**  ($395,349,776 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 658
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 658 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Spread: Nuggets (-4.5) | Nuggets | 2.08 (48¢) | $51,360 | — | ⏳ Pendiente |
 | googleplay | Spread: Nuggets (-4.5) | Pelicans | 1.92 (52¢) | $86,424 | — | ⏳ Pendiente |
 | wangyou1288 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $52,387 | — | ⏳ Pendiente |
 | googleplay | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 1.92 (52¢) | $162,106 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 658 en total)_
 | tankfest2027 | Counter-Strike: Liquid vs FURIA - Map 2 Winner | FURIA | 1.67 (60¢) | $46,650 | +$31,100 | ✅ Ganada |
 | thegreatjeff | Will FC Internazionale Milano win on 2026-10-28? | Yes | 1.39 (72¢) | $69,333 | +$26,963 | ✅ Ganada |
 | Kch-Temp | Spread: Jacksonville State (-3.5) | New Mexico State | 1.85 (54¢) | $40,673 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $35,964 | +$13,986 | ✅ Ganada |

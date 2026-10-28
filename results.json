@@ -104571,5 +104571,20 @@
     "status": "pending",
     "ultimo_fill": 1793230676,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 14112,
+    "timestamp": 1793230743,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "nba-den-nop-2026-10-28-spread-away-4pt5",
+    "title": "Spread: Nuggets (-4.5)",
+    "outcome": "Nuggets",
+    "side": "BUY",
+    "usd": 51360.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1793230743,
+    "fills": 1
   }
 ]
