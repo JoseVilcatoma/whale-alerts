@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 19:40:05 (hora de Perú)
+Actualizado: 2026-10-27 19:42:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6867**  ($389,871,280 en total)
+- Apuestas registradas: **6868**  ($390,004,846 en total)
 - Resueltas: **6824** — 4173 ganadas / 2651 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 652
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 491 | 274 | 3 | 64% | $50,176,578 | +$496,117 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 491 | 274 | 4 | 64% | $50,310,144 | +$496,117 |
 | Sassy-Bucket | 96 | 94 | 4 | 51% | $12,522,529 | -$1,151,763 |
 | mooseborzoii | 103 | 55 | 4 | 65% | $9,233,418 | +$1,212,466 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Knicks | Pistons | 1.75 (57¢) | $133,566 | — | ⏳ Pendiente |
 | mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,008 | — | ⏳ Pendiente |
 | Zzzz87 | Panthers vs. Jets | Jets | 2.08 (48¢) | $28,645 | — | ⏳ Pendiente |
 | KaneAnalytics | Delaware vs. Western Kentucky | Western Kentucky | 1.47 (68¢) | $41,025 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Warriors | 2.38 (42¢) | $29,262 | +$40,409 | ✅ Ganada |
 | googleplay | Warriors vs. Nuggets | Warriors | 2.33 (43¢) | $25,860 | +$34,280 | ✅ Ganada |
 | CHZHSHCH | Grizzlies vs. Jazz | Grizzlies | 1.25 (80¢) | $64,198 | +$16,050 | ✅ Ganada |
-| dhgreg | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | -$71,000 | ❌ Perdida |
