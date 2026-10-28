@@ -104331,5 +104331,35 @@
     "status": "pending",
     "ultimo_fill": 1793228172,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 14096,
+    "timestamp": 1793228248,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nba-phi-ind-2026-10-28-spread-away-6pt5",
+    "title": "Spread: 76ers (-6.5)",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 121052.36160000002,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793228248,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14097,
+    "timestamp": 1793228315,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-orl-tor-2026-10-28-spread-home-4pt5",
+    "title": "Spread: Raptors (-4.5)",
+    "outcome": "Raptors",
+    "side": "BUY",
+    "usd": 320437.60250000004,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1793228315,
+    "fills": 1
   }
 ]
