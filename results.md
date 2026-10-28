@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 08:38:46 (hora de Perú)
+Actualizado: 2026-10-28 08:40:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6896**  ($391,386,712 en total)
+- Apuestas registradas: **6897**  ($391,412,426 en total)
 - Resueltas: **6859** — 4188 ganadas / 2671 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 654
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tankfest2027 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $25,714 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.70 (27¢) | $43,282 | — | ⏳ Pendiente |
 | bbb17367162806 | Will AC Milan win on 2026-10-28? | Yes | 1.79 (56¢) | $26,978 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.59 (63¢) | $25,755 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 | 0x869909eeaa3637081a7383b177c20dedd7957bb2-1792846915646 | Curitiba: Julia Riera vs Rebeka Masarova | Rebeka Masarova | 1.52 (66¢) | $26,219 | -$26,219 | ❌ Perdida |
 | Wiretransferxyz | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.17 (46¢) | $32,200 | +$37,800 | ✅ Ganada |
 | monkeymashingkeyboard | Trail Blazers vs. Lakers | Lakers | 1.69 (59¢) | $30,733 | -$30,733 | ❌ Perdida |
-| Kkunn | Guangzhou Open: Xinran Sun vs Mananchaya Sawangkaew | Xinran Sun | 1.39 (72¢) | $29,546 | +$11,490 | ✅ Ganada |
