@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 21:43:55 (hora de Perú)
+Actualizado: 2026-10-27 21:46:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6878**  ($390,641,572 en total)
-- Resueltas: **6828** — 4175 ganadas / 2653 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **6833** — 4179 ganadas / 2654 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 653
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,517,205** sobre $388,196,449 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,734** sobre $673,300 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,451,788** sobre $388,517,596 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,619** sobre $673,800 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 37 | 23 | 1 | 62% | $7,922,258 | +$463,951 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| Lakersfan111 | 98 | 53 | 2 | 65% | $7,354,198 | +$442,144 |
+| Lakersfan111 | 100 | 53 | 0 | 65% | $7,354,198 | +$475,864 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 107 | 57 | 0 | 65% | $7,120,218 | +$166,726 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
-| dhgreg | 5 | 12 | 6 | 29% | $2,070,801 | -$1,080,381 |
+| dhgreg | 6 | 12 | 5 | 33% | $2,070,801 | -$1,021,152 |
 | juice-fruit | 24 | 11 | 0 | 69% | $2,058,893 | +$498,122 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
@@ -85,24 +85,24 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,008 | — | ⏳ Pendiente |
 | Zzzz87 | Panthers vs. Jets | Jets | 2.08 (48¢) | $28,645 | — | ⏳ Pendiente |
 | KaneAnalytics | Delaware vs. Western Kentucky | Western Kentucky | 1.47 (68¢) | $41,025 | -$41,025 | ❌ Perdida |
-| dhgreg | Spread: Celtics (-13.5) | Nets | 2.00 (50¢) | $59,229 | — | ⏳ Pendiente |
+| dhgreg | Spread: Celtics (-13.5) | Nets | 2.00 (50¢) | $59,229 | +$59,229 | ✅ Ganada |
 | dhgreg | Nets vs. Celtics | Nets | 7.14 (14¢) | $32,527 | — | ⏳ Pendiente |
 | googleplay | Nets vs. Celtics: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $135,317 | +$130,011 | ✅ Ganada |
 | mooseborzoii | Nets vs. Celtics: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $120,181 | -$120,181 | ❌ Perdida |
 | VPenguin | Spread: Celtics (-10.5) | Nets | 2.50 (40¢) | $32,054 | — | ⏳ Pendiente |
 | Sassy-Bucket | Devils vs. Stars | Stars | 1.89 (53¢) | $63,280 | — | ⏳ Pendiente |
 | Sassy-Bucket | Devils vs. Stars | Stars | 1.92 (52¢) | $62,274 | — | ⏳ Pendiente |
-| tennischamp | Kings vs. Spurs | Spurs | 1.08 (93¢) | $90,856 | — | ⏳ Pendiente |
+| tennischamp | Kings vs. Spurs | Spurs | 1.08 (93¢) | $90,856 | +$6,839 | ✅ Ganada |
 | mooseborzoii | Canadiens vs. Blues | Canadiens | 1.96 (51¢) | $27,269 | — | ⏳ Pendiente |
 | HVAB | Queretaro: Mell Elizabeth Reasco vs Diletta Cherubini | Diletta Cherubini | 1.32 (76¢) | $32,007 | +$10,108 | ✅ Ganada |
 | fantasy7788 | Pistons vs. Knicks | Knicks | 1.61 (62¢) | $32,578 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Guayaquil: Juan Pablo Varillas vs Rodrigo Pacheco | Rodrigo Pacheco | 1.11 (90¢) | $46,932 | +$5,215 | ✅ Ganada |
 | salgnklasf | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.45 (69¢) | $35,000 | +$15,725 | ✅ Ganada |
-| jakepaulthegoat2008 | Spread: Spurs (-18.5) | Spurs | 2.00 (50¢) | $25,339 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Spread: Spurs (-18.5) | Spurs | 2.00 (50¢) | $25,339 | +$25,339 | ✅ Ganada |
 | monkeymashingkeyboard | Pistons vs. Knicks | Knicks | 1.67 (60¢) | $31,194 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Kings vs. Spurs | Spurs | 1.08 (93¢) | $111,351 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Kings vs. Spurs | Spurs | 1.08 (93¢) | $111,351 | +$8,381 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Envy vs GamerLegion (BO3) - Tesla Cup Group B | Envy | 1.61 (62¢) | $30,731 | -$30,731 | ❌ Perdida |
-| justwins | Spread: Spurs (-18.5) | Kings | 2.00 (50¢) | $34,371 | — | ⏳ Pendiente |
+| justwins | Spread: Spurs (-18.5) | Kings | 2.00 (50¢) | $34,371 | -$34,371 | ❌ Perdida |
 | jessy2 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.33 (43¢) | $31,323 | -$31,323 | ❌ Perdida |
 | kkookkoo | Erste Bank Open: Karen Khachanov vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $25,000 | +$7,468 | ✅ Ganada |
 | juice-fruit | Counter-Strike: Spirit vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.75 (57¢) | $37,196 | -$37,196 | ❌ Perdida |
