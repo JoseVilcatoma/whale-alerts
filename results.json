@@ -103986,5 +103986,20 @@
     "status": "pending",
     "ultimo_fill": 1793216834,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14068,
+    "timestamp": 1793218389,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-cha-det-2026-10-28",
+    "title": "Hornets vs. Pistons",
+    "outcome": "Pistons",
+    "side": "BUY",
+    "usd": 25550.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1793218389,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 15:11:46 (hora de Perú)
+Actualizado: 2026-10-28 15:13:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6918**  ($392,299,001 en total)
+- Apuestas registradas: **6919**  ($392,324,551 en total)
 - Resueltas: **6883** — 4197 ganadas / 2686 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 655
 
 ### Balance
@@ -30,8 +30,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | googleplay | 38 | 23 | 0 | 62% | $7,922,258 | +$514,330 |
+| Lakersfan111 | 102 | 53 | 2 | 66% | $7,491,487 | +$533,863 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
-| Lakersfan111 | 102 | 53 | 1 | 66% | $7,465,937 | +$533,863 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 107 | 57 | 0 | 65% | $7,120,218 | +$166,726 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Hornets vs. Pistons | Pistons | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Erste Bank Open: Learner Tien vs Alex de Minaur | Alex de Minaur | 1.12 (89¢) | $48,187 | — | ⏳ Pendiente |
 | yabanci | FC Bayern München vs. 1. FC Magdeburg: O/U 4.5 | Under 4.5 | 2.22 (45¢) | $37,529 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: fnatic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs | BIG | 1.75 (57¢) | $30,340 | -$30,340 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 | googleplay | Nets vs. Celtics: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $135,317 | +$130,011 | ✅ Ganada |
 | mooseborzoii | Nets vs. Celtics: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $120,181 | -$120,181 | ❌ Perdida |
 | VPenguin | Spread: Celtics (-10.5) | Nets | 2.50 (40¢) | $32,054 | +$48,082 | ✅ Ganada |
-| Sassy-Bucket | Devils vs. Stars | Stars | 1.89 (53¢) | $63,280 | -$63,280 | ❌ Perdida |
