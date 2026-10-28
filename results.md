@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 23:49:18 (hora de Perú)
+Actualizado: 2026-10-27 23:51:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6883**  ($390,818,880 en total)
-- Resueltas: **6846** — 4185 ganadas / 2661 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **6847** — 4185 ganadas / 2662 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 653
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,646,810** sobre $389,094,541 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,721** sobre $675,000 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,677,470** sobre $389,125,201 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,821** sobre $675,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | keeptheblueflagflyinghigh | Trail Blazers vs. Lakers | Trail Blazers | 2.86 (35¢) | $49,760 | — | ⏳ Pendiente |
-| FlamePyro | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.37 (73¢) | $30,660 | — | ⏳ Pendiente |
+| FlamePyro | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.37 (73¢) | $30,660 | -$30,660 | ❌ Perdida |
 | yabanci | Sabres vs. Sharks | Sharks | 2.38 (42¢) | $33,267 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $33,842 | — | ⏳ Pendiente |
 | BrotherObama | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $29,780 | — | ⏳ Pendiente |
