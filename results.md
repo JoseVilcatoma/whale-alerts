@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 17:44:12 (hora de Perú)
+Actualizado: 2026-10-28 17:46:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6934**  ($393,074,343 en total)
+- Apuestas registradas: **6935**  ($393,102,743 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 656
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 38 | 23 | 4 | 62% | $8,172,895 | +$514,330 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| Lakersfan111 | 102 | 53 | 2 | 66% | $7,491,487 | +$533,863 |
+| Lakersfan111 | 102 | 53 | 3 | 66% | $7,519,887 | +$533,863 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Hornets vs. Pistons | Pistons | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | justwins | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | googleplay | Heat vs. Hawks | Hawks | 1.75 (57¢) | $26,582 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $76,606 | -$76,606 | ❌ Perdida |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $25,435 | -$25,435 | ❌ Perdida |
 | 0xe34b…03a3 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.79 (56¢) | $28,000 | -$5,000 | 💰 Vendida antes |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $258,528 | -$258,528 | ❌ Perdida |
