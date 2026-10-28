@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 17:15:24 (hora de Perú)
+Actualizado: 2026-10-28 17:17:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6928**  ($392,683,895 en total)
-- Resueltas: **6887** — 4198 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 656
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,481,952** sobre $391,001,729 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,458** sobre $678,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,432,361** sobre $391,107,110 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,411** sobre $679,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 |---|---|---|---|---|---|---|
 | googleplay | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $59,189 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Invictus Gaming vs LYON - Game 1 Winner | Invictus Gaming | 1.59 (63¢) | $25,285 | — | ⏳ Pendiente |
-| tenniz | Brest: Francesco Maestrelli vs Gabriel Diallo | Francesco Maestrelli | 1.47 (68¢) | $105,381 | — | ⏳ Pendiente |
+| tenniz | Brest: Francesco Maestrelli vs Gabriel Diallo | Francesco Maestrelli | 1.47 (68¢) | $105,381 | +$49,591 | ✅ Ganada |
 | BrotherObama | Milwaukee Brewers vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Lakers vs. Clippers | Lakers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: 76ers (-7.5) | 76ers | 2.00 (50¢) | $34,179 | — | ⏳ Pendiente |
