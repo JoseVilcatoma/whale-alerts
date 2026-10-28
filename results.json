@@ -103836,5 +103836,20 @@
     "status": "pending",
     "ultimo_fill": 1793203201,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14045,
+    "timestamp": 1793204977,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-lg6-envy-2026-10-28",
+    "title": "Counter-Strike: Luminosity vs Envy (BO3) - Tesla Cup Group B",
+    "outcome": "Luminosity",
+    "side": "BUY",
+    "usd": 57090.55589999999,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1793204977,
+    "fills": 1
   }
 ]
