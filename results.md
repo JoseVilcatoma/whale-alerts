@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 01:18:17 (hora de Perú)
+Actualizado: 2026-10-28 01:20:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6887**  ($391,022,224 en total)
-- Resueltas: **6850** — 4186 ganadas / 2664 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **6859** — 4188 ganadas / 2671 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 654
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,707,742** sobre $389,263,516 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,921** sobre $675,200 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$3,044,028** sobre $389,837,028 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$5,322** sobre $676,100 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 492 | 275 | 4 | 64% | $50,640,672 | +$390,551 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 492 | 276 | 3 | 64% | $50,640,672 | +$132,023 |
 | Sassy-Bucket | 96 | 96 | 2 | 50% | $12,522,529 | -$1,277,318 |
 | mooseborzoii | 105 | 56 | 1 | 65% | $9,233,418 | +$1,144,338 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| googleplay | 37 | 23 | 1 | 62% | $7,922,258 | +$463,951 |
+| googleplay | 38 | 23 | 0 | 62% | $7,922,258 | +$514,330 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Lakersfan111 | 100 | 53 | 1 | 65% | $7,380,342 | +$475,864 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
-| dhgreg | 6 | 13 | 5 | 32% | $2,104,643 | -$1,053,678 |
+| dhgreg | 6 | 18 | 0 | 25% | $2,104,643 | -$1,243,495 |
 | juice-fruit | 24 | 11 | 0 | 69% | $2,058,893 | +$498,122 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
@@ -75,20 +75,20 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 | lllllllIlll | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | magic | 2.13 (47¢) | $40,333 | — | ⏳ Pendiente |
 | SadSquid54333 | Trail Blazers vs. Lakers | Lakers | 1.37 (73¢) | $75,268 | -$2,062 | 💰 Vendida antes |
 | jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.52 (66¢) | $26,144 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Trail Blazers vs. Lakers | Trail Blazers | 2.86 (35¢) | $49,760 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Trail Blazers vs. Lakers | Trail Blazers | 2.86 (35¢) | $49,760 | +$92,412 | ✅ Ganada |
 | FlamePyro | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.37 (73¢) | $30,660 | -$30,660 | ❌ Perdida |
 | yabanci | Sabres vs. Sharks | Sharks | 2.38 (42¢) | $33,267 | -$33,267 | ❌ Perdida |
-| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $33,842 | — | ⏳ Pendiente |
+| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $33,842 | -$33,842 | ❌ Perdida |
 | BrotherObama | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $29,780 | +$5,057 | 💰 Vendida antes |
-| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $76,606 | — | ⏳ Pendiente |
-| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $25,435 | — | ⏳ Pendiente |
+| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $76,606 | -$76,606 | ❌ Perdida |
+| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $25,435 | -$25,435 | ❌ Perdida |
 | 0xe34b…03a3 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.79 (56¢) | $28,000 | -$5,000 | 💰 Vendida antes |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $258,528 | — | ⏳ Pendiente |
-| googleplay | Trail Blazers vs. Lakers | Trail Blazers | 2.13 (47¢) | $44,675 | — | ⏳ Pendiente |
-| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $25,779 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $258,528 | -$258,528 | ❌ Perdida |
+| googleplay | Trail Blazers vs. Lakers | Trail Blazers | 2.13 (47¢) | $44,675 | +$50,378 | ✅ Ganada |
+| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $25,779 | -$25,779 | ❌ Perdida |
 | KaneAnalytics | Sam Houston vs. Missouri State | Sam Houston | 5.88 (17¢) | $26,688 | -$26,688 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Western Kentucky | Delaware | 1.39 (72¢) | $72,000 | +$28,000 | ✅ Ganada |
-| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $28,155 | — | ⏳ Pendiente |
+| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $28,155 | -$28,155 | ❌ Perdida |
 | KaneAnalytics | Sam Houston vs. Missouri State | Missouri State | 1.32 (76¢) | $50,860 | +$16,061 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Knicks | Pistons | 1.75 (57¢) | $133,566 | -$133,566 | ❌ Perdida |
 | mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,008 | +$25,853 | ✅ Ganada |
@@ -120,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 | Netrol | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.00 (50¢) | $26,949 | -$26,949 | ❌ Perdida |
 | 0x869909eeaa3637081a7383b177c20dedd7957bb2-1792846915646 | Curitiba: Julia Riera vs Rebeka Masarova | Rebeka Masarova | 1.52 (66¢) | $26,219 | -$26,219 | ❌ Perdida |
 | Wiretransferxyz | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.17 (46¢) | $32,200 | +$37,800 | ✅ Ganada |
-| monkeymashingkeyboard | Trail Blazers vs. Lakers | Lakers | 1.69 (59¢) | $30,733 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Trail Blazers vs. Lakers | Lakers | 1.69 (59¢) | $30,733 | -$30,733 | ❌ Perdida |
 | Kkunn | Guangzhou Open: Xinran Sun vs Mananchaya Sawangkaew | Xinran Sun | 1.39 (72¢) | $29,546 | +$11,490 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $89,447 | +$40,186 | ✅ Ganada |
 | salgnklasf | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $39,977 | +$4,862 | 💰 Vendida antes |
