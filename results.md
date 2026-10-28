@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 17:07:01 (hora de Perú)
+Actualizado: 2026-10-28 17:09:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6927**  ($392,624,706 en total)
+- Apuestas registradas: **6928**  ($392,683,895 en total)
 - Resueltas: **6887** — 4198 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 656
 
 ### Balance
@@ -27,9 +27,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 4 | 64% | $50,770,355 | +$137,979 |
 | Sassy-Bucket | 96 | 96 | 2 | 50% | $12,522,529 | -$1,277,318 |
 | mooseborzoii | 105 | 56 | 1 | 65% | $9,233,418 | +$1,144,338 |
+| googleplay | 38 | 23 | 1 | 62% | $7,981,447 | +$514,330 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| googleplay | 38 | 23 | 0 | 62% | $7,922,258 | +$514,330 |
 | Lakersfan111 | 102 | 53 | 2 | 66% | $7,491,487 | +$533,863 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $59,189 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Invictus Gaming vs LYON - Game 1 Winner | Invictus Gaming | 1.59 (63¢) | $25,285 | — | ⏳ Pendiente |
 | tenniz | Brest: Francesco Maestrelli vs Gabriel Diallo | Francesco Maestrelli | 1.47 (68¢) | $105,381 | — | ⏳ Pendiente |
 | BrotherObama | Milwaukee Brewers vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Western Kentucky | Delaware | 1.39 (72¢) | $72,000 | +$28,000 | ✅ Ganada |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $28,155 | -$28,155 | ❌ Perdida |
 | KaneAnalytics | Sam Houston vs. Missouri State | Missouri State | 1.32 (76¢) | $50,860 | +$16,061 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Knicks | Pistons | 1.75 (57¢) | $133,566 | -$133,566 | ❌ Perdida |
