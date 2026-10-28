@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 10:08:08 (hora de Perú)
+Actualizado: 2026-10-28 10:10:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6902**  ($391,634,453 en total)
+- Apuestas registradas: **6903**  ($391,663,563 en total)
 - Resueltas: **6866** — 4190 ganadas / 2676 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 654
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RichieRicher | Will Manchester City FC win on 2026-10-28? | Yes | 1.85 (54¢) | $29,110 | — | ⏳ Pendiente |
 | mbmbbbmbv | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.41 (71¢) | $29,406 | — | ⏳ Pendiente |
 | tankfest2027 | Counter-Strike: Liquid vs FURIA - Map 2 Winner | FURIA | 1.67 (60¢) | $46,650 | — | ⏳ Pendiente |
 | thegreatjeff | Will FC Internazionale Milano win on 2026-10-28? | Yes | 1.39 (72¢) | $69,333 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 | jessy2 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.33 (43¢) | $31,323 | -$31,323 | ❌ Perdida |
 | kkookkoo | Erste Bank Open: Karen Khachanov vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $25,000 | +$7,468 | ✅ Ganada |
 | juice-fruit | Counter-Strike: Spirit vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.75 (57¢) | $37,196 | -$37,196 | ❌ Perdida |
-| lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 1.75 (57¢) | $29,332 | +$22,128 | ✅ Ganada |
