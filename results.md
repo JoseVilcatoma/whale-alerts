@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 09:05:47 (hora de Perú)
+Actualizado: 2026-10-28 09:07:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6898**  ($391,448,390 en total)
+- Apuestas registradas: **6899**  ($391,489,063 en total)
 - Resueltas: **6864** — 4189 ganadas / 2675 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 654
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | BrotherObama | 49 | 51 | 2 | 49% | $4,455,569 | -$93,063 |
 | Mooseborzoiii | 23 | 18 | 0 | 56% | $4,277,186 | +$661,389 |
-| Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
+| Kch-Temp | 44 | 14 | 2 | 76% | $3,905,494 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Spread: Jacksonville State (-3.5) | New Mexico State | 1.85 (54¢) | $40,673 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $35,964 | — | ⏳ Pendiente |
 | tankfest2027 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $25,714 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.70 (27¢) | $43,282 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.82 (55¢) | $31,000 | -$31,000 | ❌ Perdida |
 | Netrol | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 2.00 (50¢) | $26,949 | -$26,949 | ❌ Perdida |
 | 0x869909eeaa3637081a7383b177c20dedd7957bb2-1792846915646 | Curitiba: Julia Riera vs Rebeka Masarova | Rebeka Masarova | 1.52 (66¢) | $26,219 | -$26,219 | ❌ Perdida |
-| Wiretransferxyz | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.17 (46¢) | $32,200 | +$37,800 | ✅ Ganada |
