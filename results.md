@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 18:09:07 (hora de Perú)
+Actualizado: 2026-10-28 18:11:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6948**  ($394,792,762 en total)
+- Apuestas registradas: **6950**  ($394,879,720 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 40
 - Apostadores distintos: 656
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 38 | 23 | 7 | 62% | $9,085,417 | +$514,330 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| Lakersfan111 | 102 | 53 | 4 | 66% | $7,628,220 | +$533,863 |
+| Lakersfan111 | 102 | 53 | 5 | 66% | $7,688,220 | +$533,863 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 1 | 51% | $7,503,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| winner877 | 76ers vs. Pacers | 76ers | 1.39 (72¢) | $26,959 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Warriors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
 | juice-fruit | Hornets vs. Pistons | Pistons | 1.39 (72¢) | $47,450 | — | ⏳ Pendiente |
 | winner877 | 76ers vs. Pacers | 76ers | 1.39 (72¢) | $35,092 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kennesaw State vs. Middle Tennessee: O/U 49.5 | Over 49.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | juice-fruit | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.75 (57¢) | $42,750 | -$42,750 | ❌ Perdida |
 | CORGII | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $33,323 | -$33,323 | ❌ Perdida |
 | 4217893367451 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.85 (26¢) | $52,000 | -$52,000 | ❌ Perdida |
-| HBAFlover98 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $26,750 | -$26,750 | ❌ Perdida |
-| jakepaulthegoat2008 | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.89 (53¢) | $49,631 | +$44,013 | ✅ Ganada |

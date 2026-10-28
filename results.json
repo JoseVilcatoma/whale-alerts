@@ -104436,5 +104436,35 @@
     "status": "pending",
     "ultimo_fill": 1793228944,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14103,
+    "timestamp": 1793229031,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-gsw-min-2026-10-28",
+    "title": "Warriors vs. Timberwolves",
+    "outcome": "Timberwolves",
+    "side": "BUY",
+    "usd": 60000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1793229031,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14104,
+    "timestamp": 1793229049,
+    "username": "winner877",
+    "wallet": "0x85e5669beee6b80d887493e724987dabc5f56056",
+    "slug": "nba-phi-ind-2026-10-28",
+    "title": "76ers vs. Pacers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 26958.6504,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1793229049,
+    "fills": 1
   }
 ]
