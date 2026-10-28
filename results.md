@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 11:07:18 (hora de Perú)
+Actualizado: 2026-10-28 11:09:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6908**  ($391,817,802 en total)
-- Resueltas: **6867** — 4191 ganadas / 2676 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **6871** — 4193 ganadas / 2678 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 655
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,158,544** sobre $390,163,819 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$5,608** sobre $676,900 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,229,840** sobre $390,320,779 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$5,731** sobre $677,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | googleplay | 38 | 23 | 0 | 62% | $7,922,258 | +$514,330 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
-| Lakersfan111 | 101 | 53 | 2 | 66% | $7,465,937 | +$519,877 |
+| Lakersfan111 | 102 | 53 | 1 | 66% | $7,465,937 | +$533,863 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 107 | 57 | 0 | 65% | $7,120,218 | +$166,726 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| juice-fruit | 24 | 12 | 1 | 67% | $2,144,924 | +$455,372 |
+| juice-fruit | 24 | 13 | 0 | 65% | $2,144,924 | +$412,091 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
 | dhgreg | 6 | 18 | 0 | 25% | $2,104,643 | -$1,243,495 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
@@ -81,14 +81,14 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 | tankfest2027 | Counter-Strike: Liquid vs FURIA - Map 2 Winner | FURIA | 1.67 (60¢) | $46,650 | +$31,100 | ✅ Ganada |
 | thegreatjeff | Will FC Internazionale Milano win on 2026-10-28? | Yes | 1.39 (72¢) | $69,333 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Jacksonville State (-3.5) | New Mexico State | 1.85 (54¢) | $40,673 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $35,964 | — | ⏳ Pendiente |
-| tankfest2027 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $25,714 | — | ⏳ Pendiente |
-| juice-fruit | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.70 (27¢) | $43,282 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $35,964 | +$13,986 | ✅ Ganada |
+| tankfest2027 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $25,714 | +$10,000 | ✅ Ganada |
+| juice-fruit | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.70 (27¢) | $43,282 | -$43,282 | ❌ Perdida |
 | bbb17367162806 | Will AC Milan win on 2026-10-28? | Yes | 1.79 (56¢) | $26,978 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.59 (63¢) | $25,755 | +$15,126 | ✅ Ganada |
 | juice-fruit | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.75 (57¢) | $42,750 | -$42,750 | ❌ Perdida |
 | CORGII | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $33,323 | -$33,323 | ❌ Perdida |
-| 4217893367451 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.85 (26¢) | $52,000 | — | ⏳ Pendiente |
+| 4217893367451 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.85 (26¢) | $52,000 | -$52,000 | ❌ Perdida |
 | HBAFlover98 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $26,750 | -$26,750 | ❌ Perdida |
 | jakepaulthegoat2008 | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.89 (53¢) | $49,631 | +$44,013 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $64,019 | — | ⏳ Pendiente |
