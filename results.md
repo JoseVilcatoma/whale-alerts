@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 21:58:35 (hora de Perú)
+Actualizado: 2026-10-27 22:00:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6879**  ($390,671,352 en total)
-- Resueltas: **6836** — 4180 ganadas / 2656 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **6838** — 4180 ganadas / 2658 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 653
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,441,233** sobre $388,610,177 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,569** sobre $674,000 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,566,788** sobre $388,735,731 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,769** sobre $674,200 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 492 | 274 | 5 | 64% | $50,640,672 | +$524,117 |
-| Sassy-Bucket | 96 | 94 | 4 | 51% | $12,522,529 | -$1,151,763 |
+| Sassy-Bucket | 96 | 96 | 2 | 50% | $12,522,529 | -$1,277,318 |
 | mooseborzoii | 103 | 56 | 3 | 65% | $9,233,418 | +$1,092,285 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -91,8 +91,8 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | googleplay | Nets vs. Celtics: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $135,317 | +$130,011 | ✅ Ganada |
 | mooseborzoii | Nets vs. Celtics: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $120,181 | -$120,181 | ❌ Perdida |
 | VPenguin | Spread: Celtics (-10.5) | Nets | 2.50 (40¢) | $32,054 | +$48,082 | ✅ Ganada |
-| Sassy-Bucket | Devils vs. Stars | Stars | 1.89 (53¢) | $63,280 | — | ⏳ Pendiente |
-| Sassy-Bucket | Devils vs. Stars | Stars | 1.92 (52¢) | $62,274 | — | ⏳ Pendiente |
+| Sassy-Bucket | Devils vs. Stars | Stars | 1.89 (53¢) | $63,280 | -$63,280 | ❌ Perdida |
+| Sassy-Bucket | Devils vs. Stars | Stars | 1.92 (52¢) | $62,274 | -$62,274 | ❌ Perdida |
 | tennischamp | Kings vs. Spurs | Spurs | 1.08 (93¢) | $90,856 | +$6,839 | ✅ Ganada |
 | mooseborzoii | Canadiens vs. Blues | Canadiens | 1.96 (51¢) | $27,269 | — | ⏳ Pendiente |
 | HVAB | Queretaro: Mell Elizabeth Reasco vs Diletta Cherubini | Diletta Cherubini | 1.32 (76¢) | $32,007 | +$10,108 | ✅ Ganada |
