@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 18:27:45 (hora de Perú)
+Actualizado: 2026-10-28 18:29:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6954**  ($394,997,498 en total)
+- Apuestas registradas: **6955**  ($395,159,604 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 657
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 7 | 64% | $51,032,832 | +$137,979 |
 | Sassy-Bucket | 96 | 96 | 4 | 50% | $12,689,178 | -$1,277,318 |
 | mooseborzoii | 105 | 56 | 2 | 65% | $9,377,862 | +$1,144,338 |
-| googleplay | 38 | 23 | 8 | 62% | $9,114,128 | +$514,330 |
+| googleplay | 38 | 23 | 9 | 62% | $9,276,234 | +$514,330 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | Lakersfan111 | 102 | 53 | 6 | 66% | $7,718,220 | +$533,863 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 657 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 1.92 (52¢) | $162,106 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Warriors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | aibaby | Spread: Cavaliers (-9.5) | Wizards | 1.59 (63¢) | $29,798 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $29,269 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 657 en total)_
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $35,964 | +$13,986 | ✅ Ganada |
 | tankfest2027 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $25,714 | +$10,000 | ✅ Ganada |
 | juice-fruit | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.70 (27¢) | $43,282 | -$43,282 | ❌ Perdida |
-| bbb17367162806 | Will AC Milan win on 2026-10-28? | Yes | 1.79 (56¢) | $26,978 | -$26,978 | ❌ Perdida |
