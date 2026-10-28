@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 05:57:32 (hora de Perú)
+Actualizado: 2026-10-28 05:59:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6892**  ($391,247,947 en total)
+- Apuestas registradas: **6893**  ($391,290,697 en total)
 - Resueltas: **6859** — 4188 ganadas / 2671 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 654
 
 ### Balance
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
 | dhgreg | 6 | 18 | 0 | 25% | $2,104,643 | -$1,243,495 |
-| juice-fruit | 24 | 11 | 0 | 69% | $2,058,893 | +$498,122 |
+| juice-fruit | 24 | 11 | 1 | 69% | $2,101,643 | +$498,122 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
 _(mostrando los 40 de mayor monto, de 654 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.75 (57¢) | $42,750 | — | ⏳ Pendiente |
 | CORGII | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $33,323 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.85 (26¢) | $52,000 | — | ⏳ Pendiente |
 | HBAFlover98 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $26,750 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 | jakepaulthegoat2008 | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $89,447 | +$40,186 | ✅ Ganada |
 | salgnklasf | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $39,977 | +$4,862 | 💰 Vendida antes |
 | jakepaulthegoat2008 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
-| jakepaulthegoat2008 | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $81,400 | +$28,600 | ✅ Ganada |
