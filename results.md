@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 01:47:16 (hora de Perú)
+Actualizado: 2026-10-28 01:49:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6887**  ($391,022,224 en total)
+- Apuestas registradas: **6889**  ($391,135,875 en total)
 - Resueltas: **6859** — 4188 ganadas / 2671 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 8
 - Apostadores distintos: 654
 
 ### Balance
@@ -31,8 +31,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | googleplay | 38 | 23 | 0 | 62% | $7,922,258 | +$514,330 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
+| Lakersfan111 | 100 | 53 | 2 | 65% | $7,429,973 | +$475,864 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| Lakersfan111 | 100 | 53 | 1 | 65% | $7,380,342 | +$475,864 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 107 | 57 | 0 | 65% | $7,120,218 | +$166,726 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.89 (53¢) | $49,631 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $64,019 | — | ⏳ Pendiente |
 | yabanci | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $61,600 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | magic | 2.13 (47¢) | $40,333 | — | ⏳ Pendiente |
 | SadSquid54333 | Trail Blazers vs. Lakers | Lakers | 1.37 (73¢) | $75,268 | -$2,062 | 💰 Vendida antes |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 | Kkunn | Pan Pacific Open: Tereza Valentova vs Mia Pohankova | Mia Pohankova | 2.86 (35¢) | $26,226 | +$48,705 | ✅ Ganada |
 | NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Katie Volynets | 1.20 (83¢) | $25,509 | -$25,509 | ❌ Perdida |
 | jakepaulthegoat2008 | Counter-Strike: MIBR vs Eternal Fire (BO3) - Stake Ranked Episode 5 Playoffs | MIBR | 1.56 (64¢) | $50,913 | +$28,639 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | fnatic | 2.27 (44¢) | $29,876 | +$38,024 | ✅ Ganada |
-| NS13 | Guangzhou Open: Dayana Yastremska vs Katie Volynets | Dayana Yastremska | 2.78 (36¢) | $26,605 | +$47,298 | ✅ Ganada |
