@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 11:35:57 (hora de Perú)
+Actualizado: 2026-10-28 11:38:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6911**  ($391,974,893 en total)
+- Apuestas registradas: **6913**  ($392,036,950 en total)
 - Resueltas: **6871** — 4193 ganadas / 2678 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 20
 - Apostadores distintos: 655
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Will FC Internazionale Milano win on 2026-10-28? | Yes | 1.39 (72¢) | $36,857 | — | ⏳ Pendiente |
+| RJW1 | Nuggets vs. Pelicans | Pelicans | 2.78 (36¢) | $25,200 | — | ⏳ Pendiente |
 | nb1985 | Spread: VfB Stuttgart (-1.5) | VfB Stuttgart | 2.17 (46¢) | $50,000 | — | ⏳ Pendiente |
 | nb1985 | Will SC Freiburg win on 2026-10-28? | No | 2.33 (43¢) | $50,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Luminosity vs Envy (BO3) - Tesla Cup Group B | Luminosity | 1.75 (57¢) | $57,091 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 | mooseborzoii | Canadiens vs. Blues | Canadiens | 1.96 (51¢) | $27,269 | +$26,200 | ✅ Ganada |
 | HVAB | Queretaro: Mell Elizabeth Reasco vs Diletta Cherubini | Diletta Cherubini | 1.32 (76¢) | $32,007 | +$10,108 | ✅ Ganada |
 | fantasy7788 | Pistons vs. Knicks | Knicks | 1.61 (62¢) | $32,578 | +$19,967 | ✅ Ganada |
-| 01258787xy48487484545122 | Guayaquil: Juan Pablo Varillas vs Rodrigo Pacheco | Rodrigo Pacheco | 1.11 (90¢) | $46,932 | +$5,215 | ✅ Ganada |
-| salgnklasf | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.45 (69¢) | $35,000 | +$15,725 | ✅ Ganada |
