@@ -104271,5 +104271,35 @@
     "status": "pending",
     "ultimo_fill": 1793227729,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14092,
+    "timestamp": 1793227830,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-ig1-ly-2026-10-28-game2",
+    "title": "LoL: Invictus Gaming vs LYON - Game 2 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 108332.9517,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1793227882,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 14093,
+    "timestamp": 1793227905,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "lol-ig1-ly-2026-10-28-game2",
+    "title": "LoL: Invictus Gaming vs LYON - Game 2 Winner",
+    "outcome": "LYON",
+    "side": "BUY",
+    "usd": 73100.0,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1793227905,
+    "fills": 1
   }
 ]

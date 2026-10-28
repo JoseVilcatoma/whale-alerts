@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 17:50:20 (hora de Perú)
+Actualizado: 2026-10-28 17:52:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6937**  ($393,340,787 en total)
+- Apuestas registradas: **6939**  ($393,522,220 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 29
 - Apostadores distintos: 656
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 38 | 23 | 5 | 62% | $8,266,495 | +$514,330 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| Lakersfan111 | 102 | 53 | 3 | 66% | $7,519,887 | +$533,863 |
+| Lakersfan111 | 102 | 53 | 4 | 66% | $7,628,220 | +$533,863 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
 | BrotherObama | 49 | 51 | 4 | 49% | $4,510,569 | -$93,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
-| Mooseborzoiii | 23 | 18 | 0 | 56% | $4,277,186 | +$661,389 |
+| Mooseborzoiii | 23 | 18 | 1 | 56% | $4,350,286 | +$661,389 |
 | Kch-Temp | 44 | 14 | 2 | 76% | $3,905,494 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Invictus Gaming vs LYON - Game 2 Winner | LYON | 2.33 (43¢) | $73,100 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON - Game 2 Winner | Invictus Gaming | 1.75 (57¢) | $108,333 | — | ⏳ Pendiente |
 | mooseborzoii | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $144,444 | — | ⏳ Pendiente |
 | googleplay | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $93,600 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Hornets vs. Pistons | Pistons | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | FlamePyro | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.37 (73¢) | $30,660 | -$30,660 | ❌ Perdida |
 | yabanci | Sabres vs. Sharks | Sharks | 2.38 (42¢) | $33,267 | -$33,267 | ❌ Perdida |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $33,842 | -$33,842 | ❌ Perdida |
-| BrotherObama | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $29,780 | +$5,057 | 💰 Vendida antes |
-| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $76,606 | -$76,606 | ❌ Perdida |
