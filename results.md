@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 23:45:11 (hora de Perú)
+Actualizado: 2026-10-27 23:47:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6883**  ($390,818,880 en total)
-- Resueltas: **6845** — 4184 ganadas / 2661 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **6846** — 4185 ganadas / 2661 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 653
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,672,663** sobre $389,066,533 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,813** sobre $674,900 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,646,810** sobre $389,094,541 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,721** sobre $675,000 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 492 | 275 | 4 | 64% | $50,640,672 | +$390,551 |
 | Sassy-Bucket | 96 | 96 | 2 | 50% | $12,522,529 | -$1,277,318 |
-| mooseborzoii | 104 | 56 | 2 | 65% | $9,233,418 | +$1,118,485 |
+| mooseborzoii | 105 | 56 | 1 | 65% | $9,233,418 | +$1,144,338 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | googleplay | 37 | 23 | 1 | 62% | $7,922,258 | +$463,951 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $28,155 | — | ⏳ Pendiente |
 | KaneAnalytics | Sam Houston vs. Missouri State | Missouri State | 1.32 (76¢) | $50,860 | +$16,061 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Knicks | Pistons | 1.75 (57¢) | $133,566 | -$133,566 | ❌ Perdida |
-| mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,008 | — | ⏳ Pendiente |
+| mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,008 | +$25,853 | ✅ Ganada |
 | Zzzz87 | Panthers vs. Jets | Jets | 2.08 (48¢) | $28,645 | -$28,645 | ❌ Perdida |
 | KaneAnalytics | Delaware vs. Western Kentucky | Western Kentucky | 1.47 (68¢) | $41,025 | -$41,025 | ❌ Perdida |
 | dhgreg | Spread: Celtics (-13.5) | Nets | 2.00 (50¢) | $59,229 | +$59,229 | ✅ Ganada |
