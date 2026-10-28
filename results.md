@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 18:44:08 (hora de Perú)
+Actualizado: 2026-10-28 18:46:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6960**  ($395,400,096 en total)
+- Apuestas registradas: **6961**  ($395,465,547 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 659
 
 ### Balance
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 8 | 64% | $51,057,832 | +$137,979 |
 | Sassy-Bucket | 96 | 96 | 4 | 50% | $12,689,178 | -$1,277,318 |
+| googleplay | 38 | 23 | 11 | 62% | $9,428,110 | +$514,330 |
 | mooseborzoii | 105 | 56 | 2 | 65% | $9,377,862 | +$1,144,338 |
-| googleplay | 38 | 23 | 10 | 62% | $9,362,658 | +$514,330 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | Lakersfan111 | 102 | 53 | 6 | 66% | $7,718,220 | +$533,863 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 659 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Knicks vs. Bulls: O/U 233.5 | Over 233.5 | 1.96 (51¢) | $65,451 | — | ⏳ Pendiente |
 | thetesterguy | Inter Miami CF vs. FC Cincinnati: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $25,320 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Nashville SC win on 2026-10-28? | Yes | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | yabanci | Spread: Nuggets (-4.5) | Nuggets | 2.08 (48¢) | $51,360 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 659 en total)_
 | bbb17367162806 | Will AC Milan win on 2026-10-28? | Yes | 1.79 (56¢) | $28,283 | -$28,283 | ❌ Perdida |
 | RichieRicher | Will Manchester City FC win on 2026-10-28? | Yes | 1.85 (54¢) | $29,110 | — | ⏳ Pendiente |
 | mbmbbbmbv | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.41 (71¢) | $29,406 | -$29,406 | ❌ Perdida |
-| tankfest2027 | Counter-Strike: Liquid vs FURIA - Map 2 Winner | FURIA | 1.67 (60¢) | $46,650 | +$31,100 | ✅ Ganada |
