@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 17:42:10 (hora de Perú)
+Actualizado: 2026-10-28 17:44:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6933**  ($393,034,343 en total)
+- Apuestas registradas: **6934**  ($393,074,343 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 656
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | googleplay | Heat vs. Hawks | Hawks | 1.75 (57¢) | $26,582 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Hawks | Heat | 2.33 (43¢) | $129,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $25,435 | -$25,435 | ❌ Perdida |
 | 0xe34b…03a3 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.79 (56¢) | $28,000 | -$5,000 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $258,528 | -$258,528 | ❌ Perdida |
-| googleplay | Trail Blazers vs. Lakers | Trail Blazers | 2.13 (47¢) | $44,675 | +$50,378 | ✅ Ganada |
