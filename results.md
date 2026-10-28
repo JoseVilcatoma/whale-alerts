@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 18:33:55 (hora de Perú)
+Actualizado: 2026-10-28 18:35:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6955**  ($395,159,604 en total)
+- Apuestas registradas: **6956**  ($395,211,992 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 45
-- Apostadores distintos: 657
+- Pendientes: 46
+- Apostadores distintos: 658
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dhgreg | 6 | 18 | 0 | 25% | $2,104,643 | -$1,243,495 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
-_(mostrando los 40 de mayor monto, de 657 en total)_
+_(mostrando los 40 de mayor monto, de 658 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wangyou1288 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $52,387 | — | ⏳ Pendiente |
 | googleplay | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 1.92 (52¢) | $162,106 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Warriors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | aibaby | Spread: Cavaliers (-9.5) | Wizards | 1.59 (63¢) | $29,798 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 657 en total)_
 | Kch-Temp | Spread: Jacksonville State (-3.5) | New Mexico State | 1.85 (54¢) | $40,673 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $35,964 | +$13,986 | ✅ Ganada |
 | tankfest2027 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $25,714 | +$10,000 | ✅ Ganada |
-| juice-fruit | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.70 (27¢) | $43,282 | -$43,282 | ❌ Perdida |

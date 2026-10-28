@@ -104541,5 +104541,20 @@
     "status": "pending",
     "ultimo_fill": 1793230142,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 14110,
+    "timestamp": 1793230537,
+    "username": "wangyou1288",
+    "wallet": "0x92839e2d4f467ae41dc141913585afad1d474277",
+    "slug": "lol-ig1-ly-2026-10-28",
+    "title": "LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 52387.41,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1793230537,
+    "fills": 1
   }
 ]
