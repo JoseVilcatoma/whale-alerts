@@ -103047,7 +103047,7 @@
     "side": "BUY",
     "usd": 27269.337900000002,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793140272,
     "fills": 1
   },
@@ -103197,7 +103197,7 @@
     "side": "BUY",
     "usd": 28645.44,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793145181,
     "fills": 1
   },
@@ -103396,6 +103396,21 @@
     "odds_at_bet": 53,
     "status": "pending",
     "ultimo_fill": 1793156023,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 13983,
+    "timestamp": 1793156629,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nba-por-lal-2026-10-27",
+    "title": "Trail Blazers vs. Lakers",
+    "outcome": "Lakers",
+    "side": "BUY",
+    "usd": 33841.6156,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793156629,
     "fills": 1
   }
 ]

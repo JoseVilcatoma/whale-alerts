@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 22:02:43 (hora de Perú)
+Actualizado: 2026-10-27 22:04:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6879**  ($390,671,352 en total)
-- Resueltas: **6838** — 4180 ganadas / 2658 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Apuestas registradas: **6880**  ($390,705,193 en total)
+- Resueltas: **6840** — 4181 ganadas / 2659 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 653
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,566,788** sobre $388,735,731 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,769** sobre $674,200 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,569,233** sobre $388,791,646 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,773** sobre $674,400 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 492 | 274 | 5 | 64% | $50,640,672 | +$524,117 |
 | Sassy-Bucket | 96 | 96 | 2 | 50% | $12,522,529 | -$1,277,318 |
-| mooseborzoii | 103 | 56 | 3 | 65% | $9,233,418 | +$1,092,285 |
+| mooseborzoii | 104 | 56 | 2 | 65% | $9,233,418 | +$1,118,485 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | googleplay | 37 | 23 | 1 | 62% | $7,922,258 | +$463,951 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
-| dhgreg | 6 | 13 | 4 | 32% | $2,070,801 | -$1,053,678 |
+| dhgreg | 6 | 13 | 5 | 32% | $2,104,643 | -$1,053,678 |
 | juice-fruit | 24 | 11 | 0 | 69% | $2,058,893 | +$498,122 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $33,842 | — | ⏳ Pendiente |
 | BrotherObama | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $29,780 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $76,606 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $25,435 | — | ⏳ Pendiente |
@@ -84,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | KaneAnalytics | Sam Houston vs. Missouri State | Missouri State | 1.32 (76¢) | $50,860 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Knicks | Pistons | 1.75 (57¢) | $133,566 | — | ⏳ Pendiente |
 | mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,008 | — | ⏳ Pendiente |
-| Zzzz87 | Panthers vs. Jets | Jets | 2.08 (48¢) | $28,645 | — | ⏳ Pendiente |
+| Zzzz87 | Panthers vs. Jets | Jets | 2.08 (48¢) | $28,645 | -$28,645 | ❌ Perdida |
 | KaneAnalytics | Delaware vs. Western Kentucky | Western Kentucky | 1.47 (68¢) | $41,025 | -$41,025 | ❌ Perdida |
 | dhgreg | Spread: Celtics (-13.5) | Nets | 2.00 (50¢) | $59,229 | +$59,229 | ✅ Ganada |
 | dhgreg | Nets vs. Celtics | Nets | 7.14 (14¢) | $32,527 | -$32,527 | ❌ Perdida |
@@ -94,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | Sassy-Bucket | Devils vs. Stars | Stars | 1.89 (53¢) | $63,280 | -$63,280 | ❌ Perdida |
 | Sassy-Bucket | Devils vs. Stars | Stars | 1.92 (52¢) | $62,274 | -$62,274 | ❌ Perdida |
 | tennischamp | Kings vs. Spurs | Spurs | 1.08 (93¢) | $90,856 | +$6,839 | ✅ Ganada |
-| mooseborzoii | Canadiens vs. Blues | Canadiens | 1.96 (51¢) | $27,269 | — | ⏳ Pendiente |
+| mooseborzoii | Canadiens vs. Blues | Canadiens | 1.96 (51¢) | $27,269 | +$26,200 | ✅ Ganada |
 | HVAB | Queretaro: Mell Elizabeth Reasco vs Diletta Cherubini | Diletta Cherubini | 1.32 (76¢) | $32,007 | +$10,108 | ✅ Ganada |
 | fantasy7788 | Pistons vs. Knicks | Knicks | 1.61 (62¢) | $32,578 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Guayaquil: Juan Pablo Varillas vs Rodrigo Pacheco | Rodrigo Pacheco | 1.11 (90¢) | $46,932 | +$5,215 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $43,856 | +$19,703 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $25,142 | +$11,296 | ✅ Ganada |
 | 01258787xy48487484545122 | Seoul: Omar Jasika vs Alexandre Muller | Omar Jasika | 1.06 (94¢) | $29,673 | +$1,894 | ✅ Ganada |
-| 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.67 (60¢) | $33,000 | +$22,000 | ✅ Ganada |
