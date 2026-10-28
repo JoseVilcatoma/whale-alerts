@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 10:59:11 (hora de Perú)
+Actualizado: 2026-10-28 11:01:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6907**  ($391,787,685 en total)
+- Apuestas registradas: **6908**  ($391,817,802 en total)
 - Resueltas: **6866** — 4190 ganadas / 2676 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 655
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.41 (71¢) | $30,117 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $30,687 | — | ⏳ Pendiente |
 | CORGII | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 3.12 (32¢) | $37,724 | — | ⏳ Pendiente |
 | 1337zzz1337 | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $27,428 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 | jakepaulthegoat2008 | Spread: Spurs (-18.5) | Spurs | 2.00 (50¢) | $25,339 | +$25,339 | ✅ Ganada |
 | monkeymashingkeyboard | Pistons vs. Knicks | Knicks | 1.67 (60¢) | $31,194 | +$20,796 | ✅ Ganada |
 | jakepaulthegoat2008 | Kings vs. Spurs | Spurs | 1.08 (93¢) | $111,351 | +$8,381 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Envy vs GamerLegion (BO3) - Tesla Cup Group B | Envy | 1.61 (62¢) | $30,731 | -$30,731 | ❌ Perdida |
