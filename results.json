@@ -103290,5 +103290,20 @@
     "status": "pending",
     "ultimo_fill": 1793151424,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 13960,
+    "timestamp": 1793153118,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nba-por-lal-2026-10-27",
+    "title": "Trail Blazers vs. Lakers",
+    "outcome": "Lakers",
+    "side": "BUY",
+    "usd": 25779.184200000003,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793153118,
+    "fills": 1
   }
 ]
