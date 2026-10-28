@@ -103641,5 +103641,20 @@
     "status": "pending",
     "ultimo_fill": 1793190861,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14020,
+    "timestamp": 1793193731,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "cs2-tl1-furia-2026-10-28",
+    "title": "Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Liquid",
+    "side": "BUY",
+    "usd": 43281.70480000001,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "ultimo_fill": 1793193731,
+    "fills": 1
   }
 ]
