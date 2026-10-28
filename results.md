@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 16:10:48 (hora de Perú)
+Actualizado: 2026-10-28 16:12:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6925**  ($392,494,039 en total)
-- Resueltas: **6886** — 4197 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **6887** — 4198 ganadas / 2689 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 656
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,487,908** sobre $390,953,541 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,471** sobre $678,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,481,952** sobre $391,001,729 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,458** sobre $678,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 492 | 276 | 5 | 64% | $50,770,355 | +$132,023 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 4 | 64% | $50,770,355 | +$137,979 |
 | Sassy-Bucket | 96 | 96 | 2 | 50% | $12,522,529 | -$1,277,318 |
 | mooseborzoii | 105 | 56 | 1 | 65% | $9,233,418 | +$1,144,338 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | hewhodoesit | Lakers vs. Clippers | Clippers | 2.04 (49¢) | $33,111 | — | ⏳ Pendiente |
 | Flaznorp | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $25,564 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Hornets vs. Pistons | Pistons | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Erste Bank Open: Learner Tien vs Alex de Minaur | Alex de Minaur | 1.12 (89¢) | $48,187 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Erste Bank Open: Learner Tien vs Alex de Minaur | Alex de Minaur | 1.12 (89¢) | $48,187 | +$5,956 | ✅ Ganada |
 | yabanci | FC Bayern München vs. 1. FC Magdeburg: O/U 4.5 | Under 4.5 | 2.22 (45¢) | $37,529 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: fnatic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs | BIG | 1.75 (57¢) | $30,340 | -$30,340 | ❌ Perdida |
 | omnibus-076daa | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.69 (59¢) | $64,498 | +$44,821 | ✅ Ganada |
