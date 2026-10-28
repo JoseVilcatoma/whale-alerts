@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 17:58:40 (hora de Perú)
+Actualizado: 2026-10-28 18:00:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6943**  ($394,507,791 en total)
+- Apuestas registradas: **6945**  ($394,684,219 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 35
 - Apostadores distintos: 656
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 5 | 64% | $50,899,355 | +$137,979 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 6 | 64% | $51,003,563 | +$137,979 |
 | Sassy-Bucket | 96 | 96 | 4 | 50% | $12,689,178 | -$1,277,318 |
 | mooseborzoii | 105 | 56 | 2 | 65% | $9,377,862 | +$1,144,338 |
 | googleplay | 38 | 23 | 7 | 62% | $9,085,417 | +$514,330 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tennischamp | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.75 (57¢) | $72,220 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-4.5) | Magic | 2.13 (47¢) | $104,208 | — | ⏳ Pendiente |
 | googleplay | Spread: Raptors (-4.5) | Raptors | 1.89 (53¢) | $320,438 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: 76ers (-6.5) | 76ers | 1.85 (54¢) | $121,052 | — | ⏳ Pendiente |
 | googleplay | Wizards vs. Cavaliers | Cavaliers | 1.28 (78¢) | $498,485 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | lllllllIlll | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $64,019 | -$64,019 | ❌ Perdida |
 | yabanci | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $61,600 | -$61,600 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | magic | 2.13 (47¢) | $40,333 | -$40,333 | ❌ Perdida |
-| SadSquid54333 | Trail Blazers vs. Lakers | Lakers | 1.37 (73¢) | $75,268 | -$2,062 | 💰 Vendida antes |
-| jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.52 (66¢) | $26,144 | — | ⏳ Pendiente |

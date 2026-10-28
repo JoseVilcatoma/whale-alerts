@@ -104361,5 +104361,35 @@
     "status": "pending",
     "ultimo_fill": 1793228315,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14098,
+    "timestamp": 1793228379,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-orl-tor-2026-10-28-spread-home-4pt5",
+    "title": "Spread: Raptors (-4.5)",
+    "outcome": "Magic",
+    "side": "BUY",
+    "usd": 104207.789,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1793228379,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14099,
+    "timestamp": 1793228439,
+    "username": "tennischamp",
+    "wallet": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+    "slug": "mlb-mil-tb-2026-10-28",
+    "title": "Milwaukee Brewers vs. Tampa Bay Rays",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 72220.38509999998,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1793228439,
+    "fills": 1
   }
 ]
