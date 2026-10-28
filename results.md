@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 11:05:16 (hora de Perú)
+Actualizado: 2026-10-28 11:07:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6908**  ($391,817,802 en total)
-- Resueltas: **6866** — 4190 ganadas / 2676 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **6867** — 4191 ganadas / 2676 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 655
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,189,644** sobre $390,117,169 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$5,675** sobre $676,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,158,544** sobre $390,163,819 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$5,608** sobre $676,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 | bbb17367162806 | Will AC Milan win on 2026-10-28? | Yes | 1.79 (56¢) | $28,283 | — | ⏳ Pendiente |
 | RichieRicher | Will Manchester City FC win on 2026-10-28? | Yes | 1.85 (54¢) | $29,110 | — | ⏳ Pendiente |
 | mbmbbbmbv | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.41 (71¢) | $29,406 | — | ⏳ Pendiente |
-| tankfest2027 | Counter-Strike: Liquid vs FURIA - Map 2 Winner | FURIA | 1.67 (60¢) | $46,650 | — | ⏳ Pendiente |
+| tankfest2027 | Counter-Strike: Liquid vs FURIA - Map 2 Winner | FURIA | 1.67 (60¢) | $46,650 | +$31,100 | ✅ Ganada |
 | thegreatjeff | Will FC Internazionale Milano win on 2026-10-28? | Yes | 1.39 (72¢) | $69,333 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Jacksonville State (-3.5) | New Mexico State | 1.85 (54¢) | $40,673 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $35,964 | — | ⏳ Pendiente |
