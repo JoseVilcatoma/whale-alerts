@@ -104496,5 +104496,20 @@
     "status": "pending",
     "ultimo_fill": 1793229764,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14107,
+    "timestamp": 1793229874,
+    "username": "aibaby",
+    "wallet": "0xfa257198aff8511f2c6584b90b930c50deab05e8",
+    "slug": "nba-was-cle-2026-10-28-spread-home-9pt5",
+    "title": "Spread: Cavaliers (-9.5)",
+    "outcome": "Wizards",
+    "side": "BUY",
+    "usd": 29797.74,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1793229874,
+    "fills": 1
   }
 ]

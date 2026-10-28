@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 18:23:32 (hora de Perú)
+Actualizado: 2026-10-28 18:25:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6952**  ($394,937,700 en total)
+- Apuestas registradas: **6953**  ($394,967,498 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 42
-- Apostadores distintos: 656
+- Pendientes: 43
+- Apostadores distintos: 657
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dhgreg | 6 | 18 | 0 | 25% | $2,104,643 | -$1,243,495 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
-_(mostrando los 40 de mayor monto, de 656 en total)_
+_(mostrando los 40 de mayor monto, de 657 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| aibaby | Spread: Cavaliers (-9.5) | Wizards | 1.59 (63¢) | $29,798 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $29,269 | — | ⏳ Pendiente |
 | googleplay | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $28,711 | — | ⏳ Pendiente |
 | winner877 | 76ers vs. Pacers | 76ers | 1.39 (72¢) | $26,959 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | juice-fruit | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.70 (27¢) | $43,282 | -$43,282 | ❌ Perdida |
 | bbb17367162806 | Will AC Milan win on 2026-10-28? | Yes | 1.79 (56¢) | $26,978 | -$26,978 | ❌ Perdida |
 | NS13 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.59 (63¢) | $25,755 | +$15,126 | ✅ Ganada |
-| juice-fruit | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.75 (57¢) | $42,750 | -$42,750 | ❌ Perdida |
