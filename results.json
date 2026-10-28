@@ -104061,5 +104061,20 @@
     "status": "pending",
     "ultimo_fill": 1793220489,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14074,
+    "timestamp": 1793220746,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "nba-lal-lac-2026-10-28",
+    "title": "Lakers vs. Clippers",
+    "outcome": "Lakers",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793220746,
+    "fills": 1
   }
 ]
