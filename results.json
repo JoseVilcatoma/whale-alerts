@@ -104106,5 +104106,20 @@
     "status": "pending",
     "ultimo_fill": 1793223557,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 14080,
+    "timestamp": 1793225118,
+    "username": "fhiwbijd",
+    "wallet": "0xb5a5e9d836c828bb0f0e26cc978089cc58fcc668",
+    "slug": "lol-ig1-ly-2026-10-28-game1",
+    "title": "LoL: Invictus Gaming vs LYON - Game 1 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 25285.493899999998,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1793225118,
+    "fills": 1
   }
 ]
