@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 21:52:17 (hora de Perú)
+Actualizado: 2026-10-27 21:54:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6878**  ($390,641,572 en total)
-- Resueltas: **6835** — 4180 ganadas / 2655 perdidas (**61%** de acierto)
+- Apuestas registradas: **6879**  ($390,671,352 en total)
+- Resueltas: **6836** — 4180 ganadas / 2656 perdidas (**61%** de acierto)
 - Pendientes: 21
 - Apostadores distintos: 653
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,436,233** sobre $388,582,177 apostados (ROI **-0.6%**)
+- **Resultado de los apostadores: -$2,441,233** sobre $388,610,177 apostados (ROI **-0.6%**)
 - Copiando $100 fijo en cada una: **-$4,569** sobre $674,000 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
-| BrotherObama | 48 | 51 | 2 | 48% | $4,425,789 | -$98,120 |
+| BrotherObama | 48 | 51 | 3 | 48% | $4,455,569 | -$98,120 |
 | Mooseborzoiii | 23 | 18 | 0 | 56% | $4,277,186 | +$661,389 |
 | Kch-Temp | 44 | 14 | 1 | 76% | $3,864,821 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,9 +71,10 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $29,780 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $76,606 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $25,435 | — | ⏳ Pendiente |
-| 0xe34b…03a3 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
+| 0xe34b…03a3 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.79 (56¢) | $28,000 | -$5,000 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $258,528 | — | ⏳ Pendiente |
 | googleplay | Trail Blazers vs. Lakers | Trail Blazers | 2.13 (47¢) | $44,675 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $25,779 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | lllllllIlll | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $25,142 | +$11,296 | ✅ Ganada |
 | 01258787xy48487484545122 | Seoul: Omar Jasika vs Alexandre Muller | Omar Jasika | 1.06 (94¢) | $29,673 | +$1,894 | ✅ Ganada |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.67 (60¢) | $33,000 | +$22,000 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $41,195 | +$28,627 | ✅ Ganada |
