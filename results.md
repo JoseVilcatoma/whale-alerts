@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 15:32:08 (hora de Perú)
+Actualizado: 2026-10-28 15:34:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6920**  ($392,350,115 en total)
+- Apuestas registradas: **6921**  ($392,383,226 en total)
 - Resueltas: **6884** — 4197 ganadas / 2687 perdidas (**61%** de acierto)
-- Pendientes: 14
-- Apostadores distintos: 655
+- Pendientes: 15
+- Apostadores distintos: 656
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dhgreg | 6 | 18 | 0 | 25% | $2,104,643 | -$1,243,495 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
-_(mostrando los 40 de mayor monto, de 655 en total)_
+_(mostrando los 40 de mayor monto, de 656 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hewhodoesit | Lakers vs. Clippers | Clippers | 2.04 (49¢) | $33,111 | — | ⏳ Pendiente |
 | Flaznorp | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $25,564 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Hornets vs. Pistons | Pistons | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Erste Bank Open: Learner Tien vs Alex de Minaur | Alex de Minaur | 1.12 (89¢) | $48,187 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 | dhgreg | Spread: Celtics (-13.5) | Nets | 2.00 (50¢) | $59,229 | +$59,229 | ✅ Ganada |
 | dhgreg | Nets vs. Celtics | Nets | 7.14 (14¢) | $32,527 | -$32,527 | ❌ Perdida |
 | googleplay | Nets vs. Celtics: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $135,317 | +$130,011 | ✅ Ganada |
-| mooseborzoii | Nets vs. Celtics: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $120,181 | -$120,181 | ❌ Perdida |
