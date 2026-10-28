@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 00:38:32 (hora de Perú)
+Actualizado: 2026-10-28 00:40:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6887**  ($391,022,224 en total)
-- Resueltas: **6849** — 4186 ganadas / 2663 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **6850** — 4186 ganadas / 2664 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 654
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,674,475** sobre $389,230,249 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,821** sobre $675,100 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,707,742** sobre $389,263,516 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,921** sobre $675,200 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 | jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.52 (66¢) | $26,144 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Trail Blazers vs. Lakers | Trail Blazers | 2.86 (35¢) | $49,760 | — | ⏳ Pendiente |
 | FlamePyro | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.37 (73¢) | $30,660 | -$30,660 | ❌ Perdida |
-| yabanci | Sabres vs. Sharks | Sharks | 2.38 (42¢) | $33,267 | — | ⏳ Pendiente |
+| yabanci | Sabres vs. Sharks | Sharks | 2.38 (42¢) | $33,267 | -$33,267 | ❌ Perdida |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $33,842 | — | ⏳ Pendiente |
 | BrotherObama | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $29,780 | +$5,057 | 💰 Vendida antes |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.89 (53¢) | $76,606 | — | ⏳ Pendiente |
