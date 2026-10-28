@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 15:46:32 (hora de Perú)
+Actualizado: 2026-10-28 15:48:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6922**  ($392,409,860 en total)
+- Apuestas registradas: **6923**  ($392,444,039 en total)
 - Resueltas: **6884** — 4197 ganadas / 2687 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 656
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Spread: 76ers (-7.5) | 76ers | 2.00 (50¢) | $34,179 | — | ⏳ Pendiente |
 | UpTheBlues | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $26,634 | — | ⏳ Pendiente |
 | hewhodoesit | Lakers vs. Clippers | Clippers | 2.04 (49¢) | $33,111 | — | ⏳ Pendiente |
 | Flaznorp | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $25,564 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | Zzzz87 | Panthers vs. Jets | Jets | 2.08 (48¢) | $28,645 | -$28,645 | ❌ Perdida |
 | KaneAnalytics | Delaware vs. Western Kentucky | Western Kentucky | 1.47 (68¢) | $41,025 | -$41,025 | ❌ Perdida |
 | dhgreg | Spread: Celtics (-13.5) | Nets | 2.00 (50¢) | $59,229 | +$59,229 | ✅ Ganada |
-| dhgreg | Nets vs. Celtics | Nets | 7.14 (14¢) | $32,527 | -$32,527 | ❌ Perdida |
