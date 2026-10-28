@@ -104481,5 +104481,20 @@
     "status": "pending",
     "ultimo_fill": 1793229433,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14106,
+    "timestamp": 1793229764,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-hou-mil-2026-10-28-total-226pt5",
+    "title": "Rockets vs. Bucks: O/U 226.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 29269.19,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793229764,
+    "fills": 1
   }
 ]
