@@ -103863,7 +103863,7 @@
     "side": "BUY",
     "usd": 50000.0,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793205109,
     "fills": 1
   },
@@ -103878,7 +103878,7 @@
     "side": "BUY",
     "usd": 50000.00000000001,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793205327,
     "fills": 1
   },
@@ -104075,6 +104075,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1793220746,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14075,
+    "timestamp": 1793221424,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-mil-tb-2026-10-28-total-6pt5",
+    "title": "Milwaukee Brewers vs. Tampa Bay Rays: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793221424,
     "fills": 1
   }
 ]

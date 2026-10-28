@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 16:02:38 (hora de Perú)
+Actualizado: 2026-10-28 16:04:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6924**  ($392,469,039 en total)
-- Resueltas: **6884** — 4197 ganadas / 2687 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Apuestas registradas: **6925**  ($392,494,039 en total)
+- Resueltas: **6886** — 4197 ganadas / 2689 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 656
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,387,908** sobre $390,853,541 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,271** sobre $678,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,487,908** sobre $390,953,541 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,471** sobre $678,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,8 +40,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
+| BrotherObama | 49 | 51 | 3 | 49% | $4,480,569 | -$93,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
-| BrotherObama | 49 | 51 | 2 | 49% | $4,455,569 | -$93,063 |
 | Mooseborzoiii | 23 | 18 | 0 | 56% | $4,277,186 | +$661,389 |
 | Kch-Temp | 44 | 14 | 2 | 76% | $3,905,494 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Milwaukee Brewers vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Lakers vs. Clippers | Lakers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: 76ers (-7.5) | 76ers | 2.00 (50¢) | $34,179 | — | ⏳ Pendiente |
 | UpTheBlues | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $26,634 | — | ⏳ Pendiente |
@@ -84,8 +85,8 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-5.5) | Pacers | 2.08 (48¢) | $81,496 | — | ⏳ Pendiente |
 | omnibus-076daa | Will FC Internazionale Milano win on 2026-10-28? | Yes | 1.39 (72¢) | $36,857 | +$14,333 | ✅ Ganada |
 | RJW1 | Nuggets vs. Pelicans | Pelicans | 2.78 (36¢) | $25,200 | — | ⏳ Pendiente |
-| nb1985 | Spread: VfB Stuttgart (-1.5) | VfB Stuttgart | 2.17 (46¢) | $50,000 | — | ⏳ Pendiente |
-| nb1985 | Will SC Freiburg win on 2026-10-28? | No | 2.33 (43¢) | $50,000 | — | ⏳ Pendiente |
+| nb1985 | Spread: VfB Stuttgart (-1.5) | VfB Stuttgart | 2.17 (46¢) | $50,000 | -$50,000 | ❌ Perdida |
+| nb1985 | Will SC Freiburg win on 2026-10-28? | No | 2.33 (43¢) | $50,000 | -$50,000 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Luminosity vs Envy (BO3) - Tesla Cup Group B | Luminosity | 1.75 (57¢) | $57,091 | -$57,091 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.41 (71¢) | $30,117 | -$30,117 | ❌ Perdida |
 | omnibus-076daa | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $30,687 | -$30,687 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Knicks | Pistons | 1.75 (57¢) | $133,566 | -$133,566 | ❌ Perdida |
 | mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,008 | +$25,853 | ✅ Ganada |
 | Zzzz87 | Panthers vs. Jets | Jets | 2.08 (48¢) | $28,645 | -$28,645 | ❌ Perdida |
-| KaneAnalytics | Delaware vs. Western Kentucky | Western Kentucky | 1.47 (68¢) | $41,025 | -$41,025 | ❌ Perdida |
