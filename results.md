@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 06:47:02 (hora de Perú)
+Actualizado: 2026-10-28 06:49:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6893**  ($391,290,697 en total)
+- Apuestas registradas: **6894**  ($391,316,452 en total)
 - Resueltas: **6859** — 4188 ganadas / 2671 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 654
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NS13 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.59 (63¢) | $25,755 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.75 (57¢) | $42,750 | — | ⏳ Pendiente |
 | CORGII | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $33,323 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.85 (26¢) | $52,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 654 en total)_
 | Kkunn | Guangzhou Open: Xinran Sun vs Mananchaya Sawangkaew | Xinran Sun | 1.39 (72¢) | $29,546 | +$11,490 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A | FaZe | 1.45 (69¢) | $89,447 | +$40,186 | ✅ Ganada |
 | salgnklasf | Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage | Aurora Gaming | 1.35 (74¢) | $39,977 | +$4,862 | 💰 Vendida antes |
-| jakepaulthegoat2008 | Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
