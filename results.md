@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 15:26:06 (hora de Perú)
+Actualizado: 2026-10-28 15:28:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6919**  ($392,324,551 en total)
-- Resueltas: **6883** — 4197 ganadas / 2686 perdidas (**61%** de acierto)
+- Apuestas registradas: **6920**  ($392,350,115 en total)
+- Resueltas: **6884** — 4197 ganadas / 2687 perdidas (**61%** de acierto)
 - Pendientes: 14
 - Apostadores distintos: 655
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,330,818** sobre $390,796,451 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,171** sobre $678,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,387,908** sobre $390,853,541 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,271** sobre $678,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $25,564 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Hornets vs. Pistons | Pistons | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Erste Bank Open: Learner Tien vs Alex de Minaur | Alex de Minaur | 1.12 (89¢) | $48,187 | — | ⏳ Pendiente |
 | yabanci | FC Bayern München vs. 1. FC Magdeburg: O/U 4.5 | Under 4.5 | 2.22 (45¢) | $37,529 | — | ⏳ Pendiente |
@@ -81,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 | RJW1 | Nuggets vs. Pelicans | Pelicans | 2.78 (36¢) | $25,200 | — | ⏳ Pendiente |
 | nb1985 | Spread: VfB Stuttgart (-1.5) | VfB Stuttgart | 2.17 (46¢) | $50,000 | — | ⏳ Pendiente |
 | nb1985 | Will SC Freiburg win on 2026-10-28? | No | 2.33 (43¢) | $50,000 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: Luminosity vs Envy (BO3) - Tesla Cup Group B | Luminosity | 1.75 (57¢) | $57,091 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Luminosity vs Envy (BO3) - Tesla Cup Group B | Luminosity | 1.75 (57¢) | $57,091 | -$57,091 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.41 (71¢) | $30,117 | -$30,117 | ❌ Perdida |
 | omnibus-076daa | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $30,687 | -$30,687 | ❌ Perdida |
 | CORGII | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 3.12 (32¢) | $37,724 | +$80,164 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 | dhgreg | Nets vs. Celtics | Nets | 7.14 (14¢) | $32,527 | -$32,527 | ❌ Perdida |
 | googleplay | Nets vs. Celtics: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $135,317 | +$130,011 | ✅ Ganada |
 | mooseborzoii | Nets vs. Celtics: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $120,181 | -$120,181 | ❌ Perdida |
-| VPenguin | Spread: Celtics (-10.5) | Nets | 2.50 (40¢) | $32,054 | +$48,082 | ✅ Ganada |
