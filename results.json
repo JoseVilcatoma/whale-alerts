@@ -103956,5 +103956,35 @@
     "status": "lost",
     "ultimo_fill": 1793205890,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14066,
+    "timestamp": 1793217973,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-tien-minaur-2026-10-28",
+    "title": "Erste Bank Open: Learner Tien vs Alex de Minaur",
+    "outcome": "Alex de Minaur",
+    "side": "BUY",
+    "usd": 48187.3048,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1793217973,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14067,
+    "timestamp": 1793216834,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "dfb-bay-fcm-2026-10-28-total-4pt5",
+    "title": "FC Bayern M\u00fcnchen vs. 1. FC Magdeburg: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 37528.884000000005,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1793216834,
+    "fills": 1
   }
 ]

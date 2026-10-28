@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 15:05:37 (hora de Perú)
+Actualizado: 2026-10-28 15:07:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6916**  ($392,213,285 en total)
+- Apuestas registradas: **6918**  ($392,299,001 en total)
 - Resueltas: **6883** — 4197 ganadas / 2686 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 13
 - Apostadores distintos: 655
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 492 | 276 | 4 | 64% | $50,722,168 | +$132,023 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 492 | 276 | 5 | 64% | $50,770,355 | +$132,023 |
 | Sassy-Bucket | 96 | 96 | 2 | 50% | $12,522,529 | -$1,277,318 |
 | mooseborzoii | 105 | 56 | 1 | 65% | $9,233,418 | +$1,144,338 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Erste Bank Open: Learner Tien vs Alex de Minaur | Alex de Minaur | 1.12 (89¢) | $48,187 | — | ⏳ Pendiente |
+| yabanci | FC Bayern München vs. 1. FC Magdeburg: O/U 4.5 | Under 4.5 | 2.22 (45¢) | $37,529 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: fnatic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs | BIG | 1.75 (57¢) | $30,340 | -$30,340 | ❌ Perdida |
 | omnibus-076daa | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.69 (59¢) | $64,498 | +$44,821 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-5.5) | Pacers | 2.08 (48¢) | $81,496 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 | mooseborzoii | Nets vs. Celtics: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $120,181 | -$120,181 | ❌ Perdida |
 | VPenguin | Spread: Celtics (-10.5) | Nets | 2.50 (40¢) | $32,054 | +$48,082 | ✅ Ganada |
 | Sassy-Bucket | Devils vs. Stars | Stars | 1.89 (53¢) | $63,280 | -$63,280 | ❌ Perdida |
-| Sassy-Bucket | Devils vs. Stars | Stars | 1.92 (52¢) | $62,274 | -$62,274 | ❌ Perdida |
-| tennischamp | Kings vs. Spurs | Spurs | 1.08 (93¢) | $90,856 | +$6,839 | ✅ Ganada |
