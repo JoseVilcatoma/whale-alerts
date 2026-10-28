@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 11:40:03 (hora de Perú)
+Actualizado: 2026-10-28 11:42:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6913**  ($392,036,950 en total)
+- Apuestas registradas: **6914**  ($392,118,446 en total)
 - Resueltas: **6871** — 4193 ganadas / 2678 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 655
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 492 | 276 | 3 | 64% | $50,640,672 | +$132,023 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 492 | 276 | 4 | 64% | $50,722,168 | +$132,023 |
 | Sassy-Bucket | 96 | 96 | 2 | 50% | $12,522,529 | -$1,277,318 |
 | mooseborzoii | 105 | 56 | 1 | 65% | $9,233,418 | +$1,144,338 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-5.5) | Pacers | 2.08 (48¢) | $81,496 | — | ⏳ Pendiente |
 | omnibus-076daa | Will FC Internazionale Milano win on 2026-10-28? | Yes | 1.39 (72¢) | $36,857 | — | ⏳ Pendiente |
 | RJW1 | Nuggets vs. Pelicans | Pelicans | 2.78 (36¢) | $25,200 | — | ⏳ Pendiente |
 | nb1985 | Spread: VfB Stuttgart (-1.5) | VfB Stuttgart | 2.17 (46¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 | tennischamp | Kings vs. Spurs | Spurs | 1.08 (93¢) | $90,856 | +$6,839 | ✅ Ganada |
 | mooseborzoii | Canadiens vs. Blues | Canadiens | 1.96 (51¢) | $27,269 | +$26,200 | ✅ Ganada |
 | HVAB | Queretaro: Mell Elizabeth Reasco vs Diletta Cherubini | Diletta Cherubini | 1.32 (76¢) | $32,007 | +$10,108 | ✅ Ganada |
-| fantasy7788 | Pistons vs. Knicks | Knicks | 1.61 (62¢) | $32,578 | +$19,967 | ✅ Ganada |
