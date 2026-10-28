@@ -103182,7 +103182,7 @@
     "side": "BUY",
     "usd": 41024.5156,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793144053,
     "fills": 1
   },
@@ -103272,7 +103272,7 @@
     "side": "BUY",
     "usd": 72000.0,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793149849,
     "fills": 1
   },
@@ -103335,5 +103335,20 @@
     "status": "pending",
     "ultimo_fill": 1793153680,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 13965,
+    "timestamp": 1793154456,
+    "username": "0xe34b\u202603a3",
+    "wallet": "0xe34b8deb3de95e27dc8b9d915d53aa42ca7203a3",
+    "slug": "mlb-mil-tb-2026-10-27",
+    "title": "Milwaukee Brewers vs. Tampa Bay Rays",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 28000.000000000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1793154456,
+    "fills": 1
   }
 ]

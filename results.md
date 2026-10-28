@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 21:27:15 (hora de Perú)
+Actualizado: 2026-10-27 21:29:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6875**  ($390,511,531 en total)
-- Resueltas: **6826** — 4174 ganadas / 2652 perdidas (**61%** de acierto)
-- Pendientes: 27
-- Apostadores distintos: 652
+- Apuestas registradas: **6876**  ($390,539,531 en total)
+- Resueltas: **6828** — 4175 ganadas / 2653 perdidas (**61%** de acierto)
+- Pendientes: 26
+- Apostadores distintos: 653
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,504,180** sobre $388,083,424 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,673** sobre $673,100 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,517,205** sobre $388,196,449 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,734** sobre $673,300 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 491 | 274 | 6 | 64% | $50,640,672 | +$496,117 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 492 | 274 | 5 | 64% | $50,640,672 | +$524,117 |
 | Sassy-Bucket | 96 | 94 | 4 | 51% | $12,522,529 | -$1,151,763 |
 | mooseborzoii | 103 | 56 | 3 | 65% | $9,233,418 | +$1,092,285 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -65,23 +65,24 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 | dhgreg | 5 | 12 | 4 | 29% | $1,968,761 | -$1,080,381 |
 
-_(mostrando los 40 de mayor monto, de 652 en total)_
+_(mostrando los 40 de mayor monto, de 653 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xe34b…03a3 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $258,528 | — | ⏳ Pendiente |
 | googleplay | Trail Blazers vs. Lakers | Trail Blazers | 2.13 (47¢) | $44,675 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $25,779 | — | ⏳ Pendiente |
 | KaneAnalytics | Sam Houston vs. Missouri State | Sam Houston | 5.88 (17¢) | $26,688 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Western Kentucky | Delaware | 1.39 (72¢) | $72,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Western Kentucky | Delaware | 1.39 (72¢) | $72,000 | +$28,000 | ✅ Ganada |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $28,155 | — | ⏳ Pendiente |
 | KaneAnalytics | Sam Houston vs. Missouri State | Missouri State | 1.32 (76¢) | $50,860 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Knicks | Pistons | 1.75 (57¢) | $133,566 | — | ⏳ Pendiente |
 | mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,008 | — | ⏳ Pendiente |
 | Zzzz87 | Panthers vs. Jets | Jets | 2.08 (48¢) | $28,645 | — | ⏳ Pendiente |
-| KaneAnalytics | Delaware vs. Western Kentucky | Western Kentucky | 1.47 (68¢) | $41,025 | — | ⏳ Pendiente |
+| KaneAnalytics | Delaware vs. Western Kentucky | Western Kentucky | 1.47 (68¢) | $41,025 | -$41,025 | ❌ Perdida |
 | dhgreg | Spread: Celtics (-13.5) | Nets | 2.00 (50¢) | $59,229 | — | ⏳ Pendiente |
 | dhgreg | Nets vs. Celtics | Nets | 7.14 (14¢) | $32,527 | — | ⏳ Pendiente |
 | googleplay | Nets vs. Celtics: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $135,317 | +$130,011 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 | lllllllIlll | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $41,195 | +$28,627 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Warriors | 1.18 (85¢) | $44,070 | +$7,777 | ✅ Ganada |
 | Zywoo123 | Warriors vs. Nuggets | Warriors | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
-| NS13 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $25,454 | +$17,689 | ✅ Ganada |
