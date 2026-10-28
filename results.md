@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 11:49:06 (hora de Perú)
+Actualizado: 2026-10-28 15:03:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6916**  ($392,213,285 en total)
-- Resueltas: **6871** — 4193 ganadas / 2678 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **6883** — 4197 ganadas / 2686 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 655
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,229,840** sobre $390,320,779 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$5,731** sobre $677,300 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,330,818** sobre $390,796,451 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,171** sobre $678,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,35 +71,35 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| lllllllIlll | Counter-Strike: fnatic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs | BIG | 1.75 (57¢) | $30,340 | — | ⏳ Pendiente |
-| omnibus-076daa | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.69 (59¢) | $64,498 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: fnatic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs | BIG | 1.75 (57¢) | $30,340 | -$30,340 | ❌ Perdida |
+| omnibus-076daa | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.69 (59¢) | $64,498 | +$44,821 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-5.5) | Pacers | 2.08 (48¢) | $81,496 | — | ⏳ Pendiente |
-| omnibus-076daa | Will FC Internazionale Milano win on 2026-10-28? | Yes | 1.39 (72¢) | $36,857 | — | ⏳ Pendiente |
+| omnibus-076daa | Will FC Internazionale Milano win on 2026-10-28? | Yes | 1.39 (72¢) | $36,857 | +$14,333 | ✅ Ganada |
 | RJW1 | Nuggets vs. Pelicans | Pelicans | 2.78 (36¢) | $25,200 | — | ⏳ Pendiente |
 | nb1985 | Spread: VfB Stuttgart (-1.5) | VfB Stuttgart | 2.17 (46¢) | $50,000 | — | ⏳ Pendiente |
 | nb1985 | Will SC Freiburg win on 2026-10-28? | No | 2.33 (43¢) | $50,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Luminosity vs Envy (BO3) - Tesla Cup Group B | Luminosity | 1.75 (57¢) | $57,091 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.41 (71¢) | $30,117 | — | ⏳ Pendiente |
-| omnibus-076daa | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $30,687 | — | ⏳ Pendiente |
-| CORGII | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 3.12 (32¢) | $37,724 | — | ⏳ Pendiente |
-| 1337zzz1337 | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $27,428 | — | ⏳ Pendiente |
-| bbb17367162806 | Will AC Milan win on 2026-10-28? | Yes | 1.79 (56¢) | $28,283 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.41 (71¢) | $30,117 | -$30,117 | ❌ Perdida |
+| omnibus-076daa | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $30,687 | -$30,687 | ❌ Perdida |
+| CORGII | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 3.12 (32¢) | $37,724 | +$80,164 | ✅ Ganada |
+| 1337zzz1337 | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $27,428 | -$27,428 | ❌ Perdida |
+| bbb17367162806 | Will AC Milan win on 2026-10-28? | Yes | 1.79 (56¢) | $28,283 | -$28,283 | ❌ Perdida |
 | RichieRicher | Will Manchester City FC win on 2026-10-28? | Yes | 1.85 (54¢) | $29,110 | — | ⏳ Pendiente |
-| mbmbbbmbv | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.41 (71¢) | $29,406 | — | ⏳ Pendiente |
+| mbmbbbmbv | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.41 (71¢) | $29,406 | -$29,406 | ❌ Perdida |
 | tankfest2027 | Counter-Strike: Liquid vs FURIA - Map 2 Winner | FURIA | 1.67 (60¢) | $46,650 | +$31,100 | ✅ Ganada |
-| thegreatjeff | Will FC Internazionale Milano win on 2026-10-28? | Yes | 1.39 (72¢) | $69,333 | — | ⏳ Pendiente |
+| thegreatjeff | Will FC Internazionale Milano win on 2026-10-28? | Yes | 1.39 (72¢) | $69,333 | +$26,963 | ✅ Ganada |
 | Kch-Temp | Spread: Jacksonville State (-3.5) | New Mexico State | 1.85 (54¢) | $40,673 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $35,964 | +$13,986 | ✅ Ganada |
 | tankfest2027 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | FURIA | 1.39 (72¢) | $25,714 | +$10,000 | ✅ Ganada |
 | juice-fruit | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.70 (27¢) | $43,282 | -$43,282 | ❌ Perdida |
-| bbb17367162806 | Will AC Milan win on 2026-10-28? | Yes | 1.79 (56¢) | $26,978 | — | ⏳ Pendiente |
+| bbb17367162806 | Will AC Milan win on 2026-10-28? | Yes | 1.79 (56¢) | $26,978 | -$26,978 | ❌ Perdida |
 | NS13 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.59 (63¢) | $25,755 | +$15,126 | ✅ Ganada |
 | juice-fruit | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.75 (57¢) | $42,750 | -$42,750 | ❌ Perdida |
 | CORGII | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $33,323 | -$33,323 | ❌ Perdida |
 | 4217893367451 | Counter-Strike: Liquid vs FURIA (BO3) - PGL Masters Bucharest Group Stage | Liquid | 3.85 (26¢) | $52,000 | -$52,000 | ❌ Perdida |
 | HBAFlover98 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $26,750 | -$26,750 | ❌ Perdida |
 | jakepaulthegoat2008 | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.89 (53¢) | $49,631 | +$44,013 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $64,019 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $64,019 | -$64,019 | ❌ Perdida |
 | yabanci | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $61,600 | -$61,600 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | magic | 2.13 (47¢) | $40,333 | -$40,333 | ❌ Perdida |
 | SadSquid54333 | Trail Blazers vs. Lakers | Lakers | 1.37 (73¢) | $75,268 | -$2,062 | 💰 Vendida antes |
