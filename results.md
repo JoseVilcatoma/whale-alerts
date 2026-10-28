@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 17:34:03 (hora de Perú)
+Actualizado: 2026-10-28 17:36:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6931**  ($392,977,761 en total)
+- Apuestas registradas: **6932**  ($393,007,761 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 656
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
-| BrotherObama | 49 | 51 | 3 | 49% | $4,480,569 | -$93,063 |
+| BrotherObama | 49 | 51 | 4 | 49% | $4,510,569 | -$93,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Mooseborzoiii | 23 | 18 | 0 | 56% | $4,277,186 | +$661,389 |
 | Kch-Temp | 44 | 14 | 2 | 76% | $3,905,494 | +$1,758,440 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Hawks | Heat | 2.33 (43¢) | $129,000 | — | ⏳ Pendiente |
 | googleplay | Heat vs. Hawks | Hawks | 1.75 (57¢) | $45,390 | — | ⏳ Pendiente |
 | googleplay | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $119,476 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $258,528 | -$258,528 | ❌ Perdida |
 | googleplay | Trail Blazers vs. Lakers | Trail Blazers | 2.13 (47¢) | $44,675 | +$50,378 | ✅ Ganada |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $25,779 | -$25,779 | ❌ Perdida |
-| KaneAnalytics | Sam Houston vs. Missouri State | Sam Houston | 5.88 (17¢) | $26,688 | -$26,688 | ❌ Perdida |

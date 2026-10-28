@@ -104181,5 +104181,20 @@
     "status": "pending",
     "ultimo_fill": 1793226756,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14086,
+    "timestamp": 1793226891,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "nba-mia-atl-2026-10-28-spread-home-2pt5",
+    "title": "Spread: Hawks (-2.5)",
+    "outcome": "Hawks",
+    "side": "BUY",
+    "usd": 30000.000000000004,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793226891,
+    "fills": 1
   }
 ]
