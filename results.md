@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 21:48:04 (hora de Perú)
+Actualizado: 2026-10-27 21:50:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6878**  ($390,641,572 en total)
-- Resueltas: **6834** — 4179 ganadas / 2655 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **6835** — 4180 ganadas / 2655 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 653
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,484,315** sobre $388,550,122 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,719** sobre $673,900 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,436,233** sobre $388,582,177 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,569** sobre $674,000 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 653 en total)_
 | dhgreg | Nets vs. Celtics | Nets | 7.14 (14¢) | $32,527 | -$32,527 | ❌ Perdida |
 | googleplay | Nets vs. Celtics: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $135,317 | +$130,011 | ✅ Ganada |
 | mooseborzoii | Nets vs. Celtics: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $120,181 | -$120,181 | ❌ Perdida |
-| VPenguin | Spread: Celtics (-10.5) | Nets | 2.50 (40¢) | $32,054 | — | ⏳ Pendiente |
+| VPenguin | Spread: Celtics (-10.5) | Nets | 2.50 (40¢) | $32,054 | +$48,082 | ✅ Ganada |
 | Sassy-Bucket | Devils vs. Stars | Stars | 1.89 (53¢) | $63,280 | — | ⏳ Pendiente |
 | Sassy-Bucket | Devils vs. Stars | Stars | 1.92 (52¢) | $62,274 | — | ⏳ Pendiente |
 | tennischamp | Kings vs. Spurs | Spurs | 1.08 (93¢) | $90,856 | +$6,839 | ✅ Ganada |
