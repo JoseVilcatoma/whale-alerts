@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 20:09:36 (hora de Perú)
+Actualizado: 2026-10-27 20:11:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6870**  ($390,083,861 en total)
+- Apuestas registradas: **6871**  ($390,155,861 en total)
 - Resueltas: **6824** — 4173 ganadas / 2651 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 652
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 491 | 274 | 4 | 64% | $50,310,144 | +$496,117 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 491 | 274 | 5 | 64% | $50,382,144 | +$496,117 |
 | Sassy-Bucket | 96 | 94 | 4 | 51% | $12,522,529 | -$1,151,763 |
 | mooseborzoii | 103 | 55 | 4 | 65% | $9,233,418 | +$1,212,466 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Delaware vs. Western Kentucky | Delaware | 1.39 (72¢) | $72,000 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $28,155 | — | ⏳ Pendiente |
 | KaneAnalytics | Sam Houston vs. Missouri State | Missouri State | 1.32 (76¢) | $50,860 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Knicks | Pistons | 1.75 (57¢) | $133,566 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 | googleplay | Spread: Nuggets (-1.5) | Warriors | 2.08 (48¢) | $95,770 | +$103,751 | ✅ Ganada |
 | yabanci | Spread: Nuggets (-2.5) | Nuggets | 2.04 (49¢) | $52,430 | -$52,430 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-2.5) | Nuggets | 2.04 (49¢) | $84,710 | -$84,710 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Warriors | 2.38 (42¢) | $29,262 | +$40,409 | ✅ Ganada |
