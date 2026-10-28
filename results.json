@@ -104256,5 +104256,20 @@
     "status": "pending",
     "ultimo_fill": 1793227599,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14091,
+    "timestamp": 1793227729,
+    "username": "mooseborzoii",
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "slug": "cfb-kenest-mtnst-2026-10-28",
+    "title": "Kennesaw State vs. Middle Tennessee",
+    "outcome": "Kennesaw State",
+    "side": "BUY",
+    "usd": 144444.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793227729,
+    "fills": 1
   }
 ]
