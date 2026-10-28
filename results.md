@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 17:52:23 (hora de Perú)
+Actualizado: 2026-10-28 17:54:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6939**  ($393,522,220 en total)
+- Apuestas registradas: **6940**  ($393,567,816 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 656
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 5 | 64% | $50,899,355 | +$137,979 |
-| Sassy-Bucket | 96 | 96 | 2 | 50% | $12,522,529 | -$1,277,318 |
+| Sassy-Bucket | 96 | 96 | 3 | 50% | $12,568,126 | -$1,277,318 |
 | mooseborzoii | 105 | 56 | 2 | 65% | $9,377,862 | +$1,144,338 |
 | googleplay | 38 | 23 | 5 | 62% | $8,266,495 | +$514,330 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -74,6 +74,7 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | Mooseborzoiii | LoL: Invictus Gaming vs LYON - Game 2 Winner | LYON | 2.33 (43¢) | $73,100 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON - Game 2 Winner | Invictus Gaming | 1.75 (57¢) | $108,333 | — | ⏳ Pendiente |
 | mooseborzoii | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $144,444 | — | ⏳ Pendiente |
+| Sassy-Bucket | Kennesaw State vs. Middle Tennessee | Middle Tennessee | 2.00 (50¢) | $45,596 | — | ⏳ Pendiente |
 | googleplay | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $93,600 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Hornets vs. Pistons | Pistons | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | justwins | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | keeptheblueflagflyinghigh | Trail Blazers vs. Lakers | Trail Blazers | 2.86 (35¢) | $49,760 | +$92,412 | ✅ Ganada |
 | FlamePyro | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.37 (73¢) | $30,660 | -$30,660 | ❌ Perdida |
 | yabanci | Sabres vs. Sharks | Sharks | 2.38 (42¢) | $33,267 | -$33,267 | ❌ Perdida |
-| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $33,842 | -$33,842 | ❌ Perdida |
