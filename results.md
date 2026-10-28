@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 20:05:23 (hora de Perú)
+Actualizado: 2026-10-27 20:07:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6869**  ($390,055,706 en total)
+- Apuestas registradas: **6870**  ($390,083,861 en total)
 - Resueltas: **6824** — 4173 ganadas / 2651 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 652
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $28,155 | — | ⏳ Pendiente |
 | KaneAnalytics | Sam Houston vs. Missouri State | Missouri State | 1.32 (76¢) | $50,860 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Knicks | Pistons | 1.75 (57¢) | $133,566 | — | ⏳ Pendiente |
 | mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,008 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 | yabanci | Spread: Nuggets (-2.5) | Nuggets | 2.04 (49¢) | $52,430 | -$52,430 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-2.5) | Nuggets | 2.04 (49¢) | $84,710 | -$84,710 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Warriors | 2.38 (42¢) | $29,262 | +$40,409 | ✅ Ganada |
-| googleplay | Warriors vs. Nuggets | Warriors | 2.33 (43¢) | $25,860 | +$34,280 | ✅ Ganada |
