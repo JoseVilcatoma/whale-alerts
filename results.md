@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 18:04:58 (hora de Perú)
+Actualizado: 2026-10-28 18:07:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6946**  ($394,710,219 en total)
+- Apuestas registradas: **6947**  ($394,745,312 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 656
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| winner877 | 76ers vs. Pacers | 76ers | 1.39 (72¢) | $35,092 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kennesaw State vs. Middle Tennessee: O/U 49.5 | Over 49.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | tennischamp | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.75 (57¢) | $72,220 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-4.5) | Magic | 2.13 (47¢) | $104,208 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | HBAFlover98 | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $26,750 | -$26,750 | ❌ Perdida |
 | jakepaulthegoat2008 | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.89 (53¢) | $49,631 | +$44,013 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $64,019 | -$64,019 | ❌ Perdida |
-| yabanci | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $61,600 | -$61,600 | ❌ Perdida |
