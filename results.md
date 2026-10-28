@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 11:31:49 (hora de Perú)
+Actualizado: 2026-10-28 11:33:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6909**  ($391,874,893 en total)
+- Apuestas registradas: **6910**  ($391,924,893 en total)
 - Resueltas: **6871** — 4193 ganadas / 2678 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 655
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nb1985 | Will SC Freiburg win on 2026-10-28? | No | 2.33 (43¢) | $50,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Luminosity vs Envy (BO3) - Tesla Cup Group B | Luminosity | 1.75 (57¢) | $57,091 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.41 (71¢) | $30,117 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $30,687 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 655 en total)_
 | 01258787xy48487484545122 | Guayaquil: Juan Pablo Varillas vs Rodrigo Pacheco | Rodrigo Pacheco | 1.11 (90¢) | $46,932 | +$5,215 | ✅ Ganada |
 | salgnklasf | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Vitality | 1.45 (69¢) | $35,000 | +$15,725 | ✅ Ganada |
 | jakepaulthegoat2008 | Spread: Spurs (-18.5) | Spurs | 2.00 (50¢) | $25,339 | +$25,339 | ✅ Ganada |
-| monkeymashingkeyboard | Pistons vs. Knicks | Knicks | 1.67 (60¢) | $31,194 | +$20,796 | ✅ Ganada |
