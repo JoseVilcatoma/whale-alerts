@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 18:50:17 (hora de Perú)
+Actualizado: 2026-10-28 18:52:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6963**  ($395,600,922 en total)
-- Resueltas: **6890** — 4201 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Apuestas registradas: **6967**  ($395,874,148 en total)
+- Resueltas: **6891** — 4201 ganadas / 2690 perdidas (**61%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 659
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,425,910** sobre $391,159,308 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,387** sobre $679,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,463,439** sobre $391,196,837 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,487** sobre $679,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,10 +27,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 9 | 64% | $51,117,832 | +$137,979 |
 | Sassy-Bucket | 96 | 96 | 4 | 50% | $12,689,178 | -$1,277,318 |
 | googleplay | 38 | 23 | 12 | 62% | $9,503,485 | +$514,330 |
-| mooseborzoii | 105 | 56 | 2 | 65% | $9,377,862 | +$1,144,338 |
+| mooseborzoii | 105 | 56 | 3 | 65% | $9,422,935 | +$1,144,338 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| Lakersfan111 | 102 | 53 | 6 | 66% | $7,718,220 | +$533,863 |
+| Lakersfan111 | 102 | 53 | 7 | 66% | $7,746,220 | +$533,863 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 1 | 51% | $7,503,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -40,9 +40,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
+| Mooseborzoiii | 23 | 18 | 2 | 56% | $4,514,790 | +$661,389 |
 | BrotherObama | 49 | 51 | 4 | 49% | $4,510,569 | -$93,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
-| Mooseborzoiii | 23 | 18 | 1 | 56% | $4,350,286 | +$661,389 |
 | Kch-Temp | 44 | 14 | 2 | 76% | $3,905,494 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 34 | 10 | 0 | 77% | $3,542,490 | +$468,568 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 659 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.82 (55¢) | $35,648 | — | ⏳ Pendiente |
+| mooseborzoii | Spread: Chicago Fire FC (-1.5) | Orlando City SC | 1.92 (52¢) | $45,074 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | LYON | 2.22 (45¢) | $164,504 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Pelicans | Nuggets | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
 | googleplay | Nuggets vs. Pelicans | Pelicans | 2.50 (40¢) | $75,375 | — | ⏳ Pendiente |
 | googleplay | Knicks vs. Bulls: O/U 233.5 | Over 233.5 | 1.96 (51¢) | $65,451 | — | ⏳ Pendiente |
@@ -117,7 +121,7 @@ _(mostrando los 40 de mayor monto, de 659 en total)_
 | Flaznorp | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $25,564 | +$3,160 | ✅ Ganada |
 | jakepaulthegoat2008 | Hornets vs. Pistons | Pistons | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Erste Bank Open: Learner Tien vs Alex de Minaur | Alex de Minaur | 1.12 (89¢) | $48,187 | +$5,956 | ✅ Ganada |
-| yabanci | FC Bayern München vs. 1. FC Magdeburg: O/U 4.5 | Under 4.5 | 2.22 (45¢) | $37,529 | — | ⏳ Pendiente |
+| yabanci | FC Bayern München vs. 1. FC Magdeburg: O/U 4.5 | Under 4.5 | 2.22 (45¢) | $37,529 | -$37,529 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: fnatic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs | BIG | 1.75 (57¢) | $30,340 | -$30,340 | ❌ Perdida |
 | omnibus-076daa | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.69 (59¢) | $64,498 | +$44,821 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-5.5) | Pacers | 2.08 (48¢) | $81,496 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 659 en total)_
 | nb1985 | Will SC Freiburg win on 2026-10-28? | No | 2.33 (43¢) | $50,000 | -$50,000 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: Luminosity vs Envy (BO3) - Tesla Cup Group B | Luminosity | 1.75 (57¢) | $57,091 | -$57,091 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.41 (71¢) | $30,117 | -$30,117 | ❌ Perdida |
-| omnibus-076daa | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $30,687 | -$30,687 | ❌ Perdida |
-| CORGII | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 3.12 (32¢) | $37,724 | +$80,164 | ✅ Ganada |
-| 1337zzz1337 | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $27,428 | -$27,428 | ❌ Perdida |
-| bbb17367162806 | Will AC Milan win on 2026-10-28? | Yes | 1.79 (56¢) | $28,283 | -$28,283 | ❌ Perdida |
