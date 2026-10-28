@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 21:10:57 (hora de Perú)
+Actualizado: 2026-10-27 21:12:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6874**  ($390,253,004 en total)
-- Resueltas: **6824** — 4173 ganadas / 2651 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **6826** — 4174 ganadas / 2652 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 652
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,514,010** sobre $387,827,926 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,669** sobre $672,900 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,504,180** sobre $388,083,424 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,673** sobre $673,100 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,10 +26,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 491 | 274 | 5 | 64% | $50,382,144 | +$496,117 |
 | Sassy-Bucket | 96 | 94 | 4 | 51% | $12,522,529 | -$1,151,763 |
-| mooseborzoii | 103 | 55 | 4 | 65% | $9,233,418 | +$1,212,466 |
+| mooseborzoii | 103 | 56 | 3 | 65% | $9,233,418 | +$1,092,285 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| googleplay | 36 | 23 | 2 | 61% | $7,922,258 | +$333,941 |
+| googleplay | 37 | 23 | 1 | 62% | $7,922,258 | +$463,951 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Lakersfan111 | 98 | 53 | 2 | 65% | $7,354,198 | +$442,144 |
@@ -83,8 +83,8 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 | KaneAnalytics | Delaware vs. Western Kentucky | Western Kentucky | 1.47 (68¢) | $41,025 | — | ⏳ Pendiente |
 | dhgreg | Spread: Celtics (-13.5) | Nets | 2.00 (50¢) | $59,229 | — | ⏳ Pendiente |
 | dhgreg | Nets vs. Celtics | Nets | 7.14 (14¢) | $32,527 | — | ⏳ Pendiente |
-| googleplay | Nets vs. Celtics: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $135,317 | — | ⏳ Pendiente |
-| mooseborzoii | Nets vs. Celtics: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $120,181 | — | ⏳ Pendiente |
+| googleplay | Nets vs. Celtics: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $135,317 | +$130,011 | ✅ Ganada |
+| mooseborzoii | Nets vs. Celtics: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $120,181 | -$120,181 | ❌ Perdida |
 | VPenguin | Spread: Celtics (-10.5) | Nets | 2.50 (40¢) | $32,054 | — | ⏳ Pendiente |
 | Sassy-Bucket | Devils vs. Stars | Stars | 1.89 (53¢) | $63,280 | — | ⏳ Pendiente |
 | Sassy-Bucket | Devils vs. Stars | Stars | 1.92 (52¢) | $62,274 | — | ⏳ Pendiente |
