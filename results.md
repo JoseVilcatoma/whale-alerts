@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 19:06:27 (hora de Perú)
+Actualizado: 2026-10-27 19:08:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6866**  ($389,843,272 en total)
+- Apuestas registradas: **6867**  ($389,871,280 en total)
 - Resueltas: **6824** — 4173 ganadas / 2651 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 652
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 491 | 274 | 3 | 64% | $50,176,578 | +$496,117 |
 | Sassy-Bucket | 96 | 94 | 4 | 51% | $12,522,529 | -$1,151,763 |
-| mooseborzoii | 103 | 55 | 3 | 65% | $9,205,410 | +$1,212,466 |
+| mooseborzoii | 103 | 55 | 4 | 65% | $9,233,418 | +$1,212,466 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | googleplay | 36 | 23 | 1 | 61% | $7,877,583 | +$333,941 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoii | Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,008 | — | ⏳ Pendiente |
 | Zzzz87 | Panthers vs. Jets | Jets | 2.08 (48¢) | $28,645 | — | ⏳ Pendiente |
 | KaneAnalytics | Delaware vs. Western Kentucky | Western Kentucky | 1.47 (68¢) | $41,025 | — | ⏳ Pendiente |
 | dhgreg | Spread: Celtics (-13.5) | Nets | 2.00 (50¢) | $59,229 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 | googleplay | Warriors vs. Nuggets | Warriors | 2.33 (43¢) | $25,860 | +$34,280 | ✅ Ganada |
 | CHZHSHCH | Grizzlies vs. Jazz | Grizzlies | 1.25 (80¢) | $64,198 | +$16,050 | ✅ Ganada |
 | dhgreg | Warriors vs. Nuggets | Nuggets | 1.41 (71¢) | $71,000 | -$71,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-9.5) | Warriors | 1.69 (59¢) | $27,199 | +$18,901 | ✅ Ganada |
