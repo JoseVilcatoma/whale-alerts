@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-27 21:12:58 (hora de Perú)
+Actualizado: 2026-10-27 21:15:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6874**  ($390,253,004 en total)
+- Apuestas registradas: **6875**  ($390,511,531 en total)
 - Resueltas: **6826** — 4174 ganadas / 2652 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 652
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 491 | 274 | 5 | 64% | $50,382,144 | +$496,117 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 491 | 274 | 6 | 64% | $50,640,672 | +$496,117 |
 | Sassy-Bucket | 96 | 94 | 4 | 51% | $12,522,529 | -$1,151,763 |
 | mooseborzoii | 103 | 56 | 3 | 65% | $9,233,418 | +$1,092,285 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Lakers | Lakers | 1.92 (52¢) | $258,528 | — | ⏳ Pendiente |
 | googleplay | Trail Blazers vs. Lakers | Trail Blazers | 2.13 (47¢) | $44,675 | — | ⏳ Pendiente |
 | dhgreg | Trail Blazers vs. Lakers | Lakers | 1.85 (54¢) | $25,779 | — | ⏳ Pendiente |
 | KaneAnalytics | Sam Houston vs. Missouri State | Sam Houston | 5.88 (17¢) | $26,688 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 652 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Nuggets | Warriors | 1.18 (85¢) | $44,070 | +$7,777 | ✅ Ganada |
 | Zywoo123 | Warriors vs. Nuggets | Warriors | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | NS13 | Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage | Nemiga | 1.69 (59¢) | $25,454 | +$17,689 | ✅ Ganada |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Warriors vs. Nuggets | Nuggets | 1.72 (58¢) | $75,000 | -$75,000 | ❌ Perdida |
