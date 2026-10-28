@@ -104391,5 +104391,20 @@
     "status": "pending",
     "ultimo_fill": 1793228439,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14100,
+    "timestamp": 1793228570,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "cfb-kenest-mtnst-2026-10-28-total-49pt5",
+    "title": "Kennesaw State vs. Middle Tennessee: O/U 49.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26000.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793228570,
+    "fills": 1
   }
 ]

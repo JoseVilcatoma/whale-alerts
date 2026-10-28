@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 18:00:49 (hora de Perú)
+Actualizado: 2026-10-28 18:02:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6945**  ($394,684,219 en total)
+- Apuestas registradas: **6946**  ($394,710,219 en total)
 - Resueltas: **6888** — 4199 ganadas / 2689 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 656
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | Lakersfan111 | 102 | 53 | 4 | 66% | $7,628,220 | +$533,863 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 0 | 51% | $7,477,793 | -$693,467 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 94 | 91 | 1 | 51% | $7,503,793 | -$693,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 107 | 57 | 0 | 65% | $7,120,218 | +$166,726 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kennesaw State vs. Middle Tennessee: O/U 49.5 | Over 49.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | tennischamp | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.75 (57¢) | $72,220 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-4.5) | Magic | 2.13 (47¢) | $104,208 | — | ⏳ Pendiente |
 | googleplay | Spread: Raptors (-4.5) | Raptors | 1.89 (53¢) | $320,438 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 656 en total)_
 | jakepaulthegoat2008 | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.89 (53¢) | $49,631 | +$44,013 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Spirit | 1.45 (69¢) | $64,019 | -$64,019 | ❌ Perdida |
 | yabanci | Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage | TheMongolz | 1.79 (56¢) | $61,600 | -$61,600 | ❌ Perdida |
-| lllllllIlll | Counter-Strike: Astralis vs magic (BO3) - Stake Ranked Episode 5 Playoffs | magic | 2.13 (47¢) | $40,333 | -$40,333 | ❌ Perdida |
