@@ -104031,5 +104031,20 @@
     "status": "pending",
     "ultimo_fill": 1793219570,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14072,
+    "timestamp": 1793219944,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "efl-bor-ast-2026-10-28-ast",
+    "title": "Will Aston Villa FC win on 2026-10-28?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 26634.14,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1793219944,
+    "fills": 1
   }
 ]
