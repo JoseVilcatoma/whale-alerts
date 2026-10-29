@@ -105846,5 +105846,20 @@
     "status": "pending",
     "ultimo_fill": 1793312248,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14296,
+    "timestamp": 1793312828,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nhl-nyi-min-2026-10-29-spread-home-1pt5",
+    "title": "Spread: Wild (-1.5)",
+    "outcome": "Islanders",
+    "side": "BUY",
+    "usd": 26133.943799999997,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1793312828,
+    "fills": 1
   }
 ]

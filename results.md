@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 17:25:11 (hora de Perú)
+Actualizado: 2026-10-29 17:27:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7042**  ($399,450,440 en total)
+- Apuestas registradas: **7043**  ($399,476,573 en total)
 - Resueltas: **7007** — 4270 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 663
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 95 | 91 | 0 | 51% | $7,503,793 | -$669,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 107 | 57 | 1 | 65% | $7,145,702 | +$166,726 |
+| ferrariChampions2026 | 107 | 57 | 2 | 65% | $7,171,836 | +$166,726 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Wild (-1.5) | Islanders | 1.69 (59¢) | $26,134 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Kings vs. Pelicans | Pelicans | 1.47 (68¢) | $27,205 | — | ⏳ Pendiente |
 | Hdisllbsj | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Jerome Kym | 1.79 (56¢) | $26,601 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner | Karmine Corp | 1.33 (75¢) | $92,257 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | googleplay | Spurs vs. Jazz: O/U 232.5 | Under 232.5 | 1.96 (51¢) | $148,079 | +$142,272 | ✅ Ganada |
 | CHZHSHCH | Heat vs. Hawks | Heat | 1.10 (91¢) | $98,598 | +$9,751 | ✅ Ganada |
 | dhgreg | Spread: Spurs (-12.5) | Jazz | 2.17 (46¢) | $63,888 | +$75,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.54 (65¢) | $29,234 | +$15,741 | ✅ Ganada |
