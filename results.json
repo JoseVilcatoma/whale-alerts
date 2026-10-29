@@ -106163,5 +106163,35 @@
     "status": "pending",
     "ultimo_fill": 1793317404,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14325,
+    "timestamp": 1793317538,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "nhl-wsh-nsh-2026-10-29",
+    "title": "Capitals vs. Predators",
+    "outcome": "Capitals",
+    "side": "BUY",
+    "usd": 115100.75760000001,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793317543,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 14326,
+    "timestamp": 1793317547,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nhl-mon-dal-2026-10-29",
+    "title": "Canadiens vs. Stars",
+    "outcome": "Stars",
+    "side": "BUY",
+    "usd": 38279.4093,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1793317547,
+    "fills": 1
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 18:44:58 (hora de Perú)
+Actualizado: 2026-10-29 18:47:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7063**  ($400,787,501 en total)
+- Apuestas registradas: **7065**  ($400,940,881 en total)
 - Resueltas: **7015** — 4278 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 26
-- Apostadores distintos: 664
+- Pendientes: 28
+- Apostadores distintos: 665
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 41 | 17 | 0 | 71% | $2,176,369 | -$109,010 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
-_(mostrando los 40 de mayor monto, de 664 en total)_
+_(mostrando los 40 de mayor monto, de 665 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Canadiens vs. Stars | Stars | 1.64 (61¢) | $38,279 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Capitals vs. Predators | Capitals | 1.96 (51¢) | $115,101 | — | ⏳ Pendiente |
 | Sassy-Bucket | Canadiens vs. Stars | Canadiens | 2.56 (39¢) | $29,367 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Cavaliers vs. Hawks | Hawks | 1.92 (52¢) | $55,827 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blackhawks vs. Red Wings | Red Wings | 1.67 (60¢) | $60,499 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 664 en total)_
 | jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $99,935 | +$23,442 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $29,779 | +$66,282 | ✅ Ganada |
 | NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.49 (67¢) | $36,975 | -$36,975 | ❌ Perdida |
-| NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.35 (74¢) | $27,807 | -$27,807 | ❌ Perdida |
-| norrisfan | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $53,992 | -$53,992 | ❌ Perdida |
