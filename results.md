@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 00:25:03 (hora de Perú)
+Actualizado: 2026-10-29 00:27:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6997**  ($397,409,894 en total)
-- Resueltas: **6967** — 4245 ganadas / 2722 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **6970** — 4247 ganadas / 2723 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 661
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,839,352** sobre $396,162,151 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,335** sobre $686,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$2,843,774** sobre $396,250,112 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,322** sobre $687,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 499 | 279 | 4 | 64% | $51,282,687 | +$337,031 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 500 | 279 | 3 | 64% | $51,282,687 | +$340,720 |
 | Sassy-Bucket | 96 | 98 | 2 | 49% | $12,689,178 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.43 (70¢) | $74,900 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Clippers | Lakers | 1.12 (89¢) | $29,849 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Clippers | Lakers | 1.12 (89¢) | $29,849 | +$3,689 | ✅ Ganada |
 | yabanci | Lakers vs. Clippers: O/U 199.5 | Under 199.5 | 2.00 (50¢) | $30,506 | +$30,506 | ✅ Ganada |
 | 01258787xy48487484545122 | Seoul: Stefanos Sakellaridis vs Coleman Wong | Coleman Wong | 1.09 (92¢) | $46,472 | +$4,041 | ✅ Ganada |
 | MD14 | Thunder vs. Mavericks: O/U 228.5 | Over 228.5 | 1.64 (61¢) | $25,006 | -$25,006 | ❌ Perdida |
