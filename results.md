@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 00:53:50 (hora de Perú)
+Actualizado: 2026-10-29 00:55:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6999**  ($397,504,091 en total)
+- Apuestas registradas: **7000**  ($397,535,141 en total)
 - Resueltas: **6970** — 4247 ganadas / 2723 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 661
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Wiretransferxyz | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $31,050 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $27,900 | — | ⏳ Pendiente |
 | yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $66,297 | — | ⏳ Pendiente |
 | yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.43 (70¢) | $74,900 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | googleplay | Spread: Raptors (-4.5) | Raptors | 1.89 (53¢) | $320,438 | +$284,162 | ✅ Ganada |
 | Sassy-Bucket | Spread: 76ers (-6.5) | 76ers | 1.85 (54¢) | $121,052 | -$121,052 | ❌ Perdida |
 | googleplay | Wizards vs. Cavaliers | Cavaliers | 1.28 (78¢) | $498,485 | +$140,598 | ✅ Ganada |
-| Mooseborzoiii | LoL: Invictus Gaming vs LYON - Game 2 Winner | LYON | 2.33 (43¢) | $73,100 | +$96,900 | ✅ Ganada |
