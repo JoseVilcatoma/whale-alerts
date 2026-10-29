@@ -106118,5 +106118,20 @@
     "status": "pending",
     "ultimo_fill": 1793316610,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14322,
+    "timestamp": 1793316962,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nhl-chi-det-2026-10-29",
+    "title": "Blackhawks vs. Red Wings",
+    "outcome": "Red Wings",
+    "side": "BUY",
+    "usd": 60499.2,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1793316962,
+    "fills": 1
   }
 ]
