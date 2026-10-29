@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 10:23:22 (hora de Perú)
+Actualizado: 2026-10-29 10:25:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7028**  ($398,886,660 en total)
+- Apuestas registradas: **7029**  ($398,918,120 en total)
 - Resueltas: **6982** — 4250 ganadas / 2732 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 663
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 61 | 27 | 0 | 69% | $5,284,122 | -$220,938 |
-| Mooseborzoiii | 25 | 19 | 4 | 57% | $4,848,960 | +$655,885 |
+| Mooseborzoiii | 25 | 19 | 5 | 57% | $4,880,420 | +$655,885 |
 | BrotherObama | 49 | 53 | 2 | 48% | $4,510,569 | -$148,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Kch-Temp | 44 | 15 | 1 | 75% | $3,905,494 | +$1,717,767 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $31,460 | — | ⏳ Pendiente |
 | tankfest2027 | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $29,921 | — | ⏳ Pendiente |
 | norrisfan | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.70 (37¢) | $29,439 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $27,052 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | theowalcott | Will Nashville SC win on 2026-10-28? | No | 1.92 (52¢) | $35,827 | +$33,071 | ✅ Ganada |
 | googleplay | Knicks vs. Bulls: O/U 233.5 | Over 233.5 | 1.92 (52¢) | $51,848 | +$47,860 | ✅ Ganada |
 | mooseborzoii | Warriors vs. Timberwolves | Timberwolves | 1.69 (59¢) | $49,677 | -$49,677 | ❌ Perdida |
-| googleplay | Warriors vs. Timberwolves | Warriors | 2.38 (42¢) | $54,948 | +$75,881 | ✅ Ganada |
