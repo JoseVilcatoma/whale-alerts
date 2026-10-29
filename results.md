@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 10:21:20 (hora de Perú)
+Actualizado: 2026-10-29 10:23:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7026**  ($398,827,300 en total)
+- Apuestas registradas: **7028**  ($398,886,660 en total)
 - Resueltas: **6982** — 4250 ganadas / 2732 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 24
 - Apostadores distintos: 663
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tankfest2027 | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $29,921 | — | ⏳ Pendiente |
+| norrisfan | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.70 (37¢) | $29,439 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $27,052 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.63 (38¢) | $75,243 | — | ⏳ Pendiente |
 | 0xc1a9273b15a17d21AF09DddB42b9239B93D4e2Db-1777826537793 | Guayaquil: Diego Dedura-Palomero vs Valerio Aboian | Diego Dedura-Palomero | 1.30 (77¢) | $27,721 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | googleplay | Knicks vs. Bulls: O/U 233.5 | Over 233.5 | 1.92 (52¢) | $51,848 | +$47,860 | ✅ Ganada |
 | mooseborzoii | Warriors vs. Timberwolves | Timberwolves | 1.69 (59¢) | $49,677 | -$49,677 | ❌ Perdida |
 | googleplay | Warriors vs. Timberwolves | Warriors | 2.38 (42¢) | $54,948 | +$75,881 | ✅ Ganada |
-| jakepaulthegoat2008 | Warriors vs. Timberwolves | Timberwolves | 1.69 (59¢) | $35,400 | -$35,400 | ❌ Perdida |
-| fantasy7788 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.82 (55¢) | $35,648 | +$29,166 | ✅ Ganada |
