@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 15:31:08 (hora de Perú)
+Actualizado: 2026-10-29 15:33:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7039**  ($399,304,376 en total)
-- Resueltas: **7005** — 4270 ganadas / 2735 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **7006** — 4270 ganadas / 2736 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 663
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,668,582** sobre $397,876,594 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,799** sobre $690,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,717,303** sobre $397,925,315 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,899** sobre $690,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $29,164 | +$7,753 | ✅ Ganada |
 | Kyn008 | Will Frosinone Calcio win on 2026-10-29? | Yes | 1.82 (55¢) | $31,006 | +$25,369 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $41,080 | +$10,920 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: HOTU vs GamerLegion (BO3) - Tesla Cup Playoffs | GamerLegion | 1.92 (52¢) | $48,721 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: HOTU vs GamerLegion (BO3) - Tesla Cup Playoffs | GamerLegion | 1.92 (52¢) | $48,721 | -$48,721 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Cavaliers vs. Hawks | Cavaliers | 2.04 (49¢) | $42,971 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $56,142 | +$32,972 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $31,460 | +$18,477 | ✅ Ganada |
