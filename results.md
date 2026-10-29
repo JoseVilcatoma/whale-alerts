@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 19:42:37 (hora de Perú)
+Actualizado: 2026-10-28 19:44:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6983**  ($396,634,517 en total)
+- Apuestas registradas: **6984**  ($396,698,406 en total)
 - Resueltas: **6892** — 4201 ganadas / 2691 perdidas (**61%** de acierto)
-- Pendientes: 69
+- Pendientes: 70
 - Apostadores distintos: 660
 
 ### Balance
@@ -61,8 +61,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | juice-fruit | 24 | 13 | 1 | 65% | $2,192,374 | +$412,091 |
+| dhgreg | 6 | 18 | 1 | 25% | $2,168,532 | -$1,243,495 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
-| dhgreg | 6 | 18 | 0 | 25% | $2,104,643 | -$1,243,495 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
 _(mostrando los 40 de mayor monto, de 660 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dhgreg | Spread: Spurs (-12.5) | Jazz | 2.17 (46¢) | $63,888 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.54 (65¢) | $29,234 | — | ⏳ Pendiente |
 | googleplay | Hornets vs. Pistons: O/U 199.5 | Over 199.5 | 1.92 (52¢) | $26,344 | — | ⏳ Pendiente |
 | sulumos | Spread: Spurs (-14.5) | Spurs | 2.08 (48¢) | $44,784 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 | fhiwbijd | LoL: Invictus Gaming vs LYON - Game 1 Winner | Invictus Gaming | 1.59 (63¢) | $25,285 | — | ⏳ Pendiente |
 | tenniz | Brest: Francesco Maestrelli vs Gabriel Diallo | Francesco Maestrelli | 1.47 (68¢) | $105,381 | +$49,591 | ✅ Ganada |
 | BrotherObama | Milwaukee Brewers vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
-| monkeymashingkeyboard | Lakers vs. Clippers | Lakers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
