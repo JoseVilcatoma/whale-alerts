@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 11:44:49 (hora de Perú)
+Actualizado: 2026-10-29 11:46:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7036**  ($399,194,704 en total)
-- Resueltas: **6989** — 4256 ganadas / 2733 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **6990** — 4257 ganadas / 2733 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 663
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,988,446** sobre $397,097,170 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,521** sobre $689,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$2,962,820** sobre $397,124,932 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,429** sobre $689,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -127,7 +127,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.54 (65¢) | $29,234 | +$15,741 | ✅ Ganada |
 | googleplay | Hornets vs. Pistons: O/U 199.5 | Over 199.5 | 1.92 (52¢) | $26,344 | -$26,344 | ❌ Perdida |
 | sulumos | Spread: Spurs (-14.5) | Spurs | 2.08 (48¢) | $44,784 | -$44,784 | ❌ Perdida |
-| yabanci | Counter-Strike: Inner Circle Esports vs Astralis (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.92 (52¢) | $27,762 | — | ⏳ Pendiente |
+| yabanci | Counter-Strike: Inner Circle Esports vs Astralis (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.92 (52¢) | $27,762 | +$25,626 | ✅ Ganada |
 | mooseborzoii | Warriors vs. Timberwolves | Timberwolves | 1.75 (57¢) | $25,706 | -$25,706 | ❌ Perdida |
 | googleplay | Warriors vs. Timberwolves | Warriors | 2.38 (42¢) | $106,878 | +$147,593 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Timberwolves | Timberwolves | 1.75 (57¢) | $62,700 | -$62,700 | ❌ Perdida |
