@@ -105798,7 +105798,7 @@
     "side": "BUY",
     "usd": 25136.3,
     "odds_at_bet": 70,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793304717,
     "fills": 1
   },
@@ -105965,6 +105965,21 @@
     "odds_at_bet": 93,
     "status": "pending",
     "ultimo_fill": 1793314487,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14305,
+    "timestamp": 1793314898,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "cfb-flatl-ntx-2026-10-29-spread-home-14pt5",
+    "title": "Spread: North Texas (-14.5)",
+    "outcome": "North Texas",
+    "side": "BUY",
+    "usd": 56526.61559999999,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793314898,
     "fills": 1
   }
 ]

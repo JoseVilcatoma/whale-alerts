@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 18:00:09 (hora de Perú)
+Actualizado: 2026-10-29 18:02:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7050**  ($399,909,535 en total)
-- Resueltas: **7007** — 4270 ganadas / 2737 perdidas (**61%** de acierto)
+- Apuestas registradas: **7051**  ($399,966,061 en total)
+- Resueltas: **7008** — 4271 ganadas / 2737 perdidas (**61%** de acierto)
 - Pendientes: 21
 - Apostadores distintos: 663
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,745,025** sobre $397,953,036 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,999** sobre $690,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$2,734,252** sobre $397,978,173 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,956** sobre $691,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,15 +54,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 29 | 15 | 0 | 66% | $2,603,192 | +$441,923 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
+| Talvez10 | 28 | 24 | 1 | 54% | $2,519,211 | +$145,944 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| Talvez10 | 28 | 24 | 0 | 54% | $2,462,685 | +$145,944 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | juice-fruit | 25 | 15 | 0 | 62% | $2,306,116 | +$316,802 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | dhgreg | 8 | 18 | 0 | 31% | $2,243,332 | -$1,073,295 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| TAIWANNUMBERONE | 39 | 17 | 2 | 70% | $2,176,369 | -$127,567 |
+| TAIWANNUMBERONE | 40 | 17 | 1 | 70% | $2,176,369 | -$116,794 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
 _(mostrando los 40 de mayor monto, de 663 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Spread: North Texas (-14.5) | North Texas | 1.96 (51¢) | $56,527 | — | ⏳ Pendiente |
 | yesmate | Sioux Falls: Liam Draxl vs Daniil Ostapenkov | Liam Draxl | 1.08 (93¢) | $93,000 | — | ⏳ Pendiente |
 | tenniz | Sioux Falls: Liam Draxl vs Daniil Ostapenkov | Liam Draxl | 1.09 (92¢) | $166,198 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Florida Atlantic vs. North Texas | North Texas | 1.20 (83¢) | $30,248 | — | ⏳ Pendiente |
@@ -82,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | monkeymashingkeyboard | Kings vs. Pelicans | Pelicans | 1.47 (68¢) | $27,205 | — | ⏳ Pendiente |
 | Hdisllbsj | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Jerome Kym | 1.79 (56¢) | $26,601 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner | Karmine Corp | 1.33 (75¢) | $92,257 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster - Game 1 Winner | Karmine Corp | 1.43 (70¢) | $25,136 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster - Game 1 Winner | Karmine Corp | 1.43 (70¢) | $25,136 | +$10,773 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $33,186 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $51,350 | +$13,650 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA - Map 2 Winner | FURIA | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | 01258787xy48487484545122 | Seoul: Stefanos Sakellaridis vs Coleman Wong | Coleman Wong | 1.09 (92¢) | $46,472 | +$4,041 | ✅ Ganada |
 | MD14 | Thunder vs. Mavericks: O/U 228.5 | Over 228.5 | 1.64 (61¢) | $25,006 | -$25,006 | ❌ Perdida |
 | thetesterguy | Chicago Fire FC vs. Orlando City SC: O/U 2.5 | Over 2.5 | 1.09 (92¢) | $27,539 | +$2,395 | ✅ Ganada |
-| ethanaz | Spread: Nuggets (-10.5) | Nuggets | 2.00 (50¢) | $50,058 | +$50,058 | ✅ Ganada |
