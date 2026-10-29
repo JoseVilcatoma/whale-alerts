@@ -105561,5 +105561,20 @@
     "status": "pending",
     "ultimo_fill": 1793286843,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14250,
+    "timestamp": 1793286918,
+    "username": "0xc1a9273b15a17d21AF09DddB42b9239B93D4e2Db-1777826537793",
+    "wallet": "0xc1a9273b15a17d21af09dddb42b9239b93d4e2db",
+    "slug": "atp-dedurap-aboian-2026-10-29",
+    "title": "Guayaquil: Diego Dedura-Palomero vs Valerio Aboian",
+    "outcome": "Diego Dedura-Palomero",
+    "side": "BUY",
+    "usd": 27721.257299999997,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1793286918,
+    "fills": 1
   }
 ]

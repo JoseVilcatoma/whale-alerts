@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 10:15:15 (hora de Perú)
+Actualizado: 2026-10-29 10:17:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7023**  ($398,697,284 en total)
+- Apuestas registradas: **7024**  ($398,725,006 en total)
 - Resueltas: **6981** — 4250 ganadas / 2731 perdidas (**61%** de acierto)
-- Pendientes: 20
-- Apostadores distintos: 662
+- Pendientes: 21
+- Apostadores distintos: 663
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
-_(mostrando los 40 de mayor monto, de 662 en total)_
+_(mostrando los 40 de mayor monto, de 663 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xc1a9273b15a17d21AF09DddB42b9239B93D4e2Db-1777826537793 | Guayaquil: Diego Dedura-Palomero vs Valerio Aboian | Diego Dedura-Palomero | 1.30 (77¢) | $27,721 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $43,088 | — | ⏳ Pendiente |
 | Mooseborzoiii | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | FURIA | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $144,900 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 662 en total)_
 | fantasy7788 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.82 (55¢) | $35,648 | +$29,166 | ✅ Ganada |
 | mooseborzoii | Spread: Chicago Fire FC (-1.5) | Orlando City SC | 1.92 (52¢) | $45,074 | +$41,606 | ✅ Ganada |
 | Mooseborzoiii | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | LYON | 2.22 (45¢) | $164,504 | -$164,504 | ❌ Perdida |
-| jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
