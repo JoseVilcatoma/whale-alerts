@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 19:11:03 (hora de Perú)
+Actualizado: 2026-10-28 19:13:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6979**  ($396,506,393 en total)
+- Apuestas registradas: **6980**  ($396,534,155 en total)
 - Resueltas: **6892** — 4201 ganadas / 2691 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Pendientes: 66
 - Apostadores distintos: 660
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Counter-Strike: Inner Circle Esports vs Astralis (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.92 (52¢) | $27,762 | — | ⏳ Pendiente |
 | mooseborzoii | Warriors vs. Timberwolves | Timberwolves | 1.75 (57¢) | $25,706 | — | ⏳ Pendiente |
 | googleplay | Warriors vs. Timberwolves | Warriors | 2.38 (42¢) | $106,878 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Timberwolves | Timberwolves | 1.75 (57¢) | $62,700 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 | RJW1 | Spread: 76ers (-7.5) | 76ers | 2.00 (50¢) | $34,179 | — | ⏳ Pendiente |
 | UpTheBlues | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $26,634 | +$3,292 | ✅ Ganada |
 | hewhodoesit | Lakers vs. Clippers | Clippers | 2.04 (49¢) | $33,111 | — | ⏳ Pendiente |
-| Flaznorp | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $25,564 | +$3,160 | ✅ Ganada |
