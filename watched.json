@@ -43,10 +43,6 @@
     "username": "balthazar",
     "added_at": 1792474943.4600887
   },
-  "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7": {
-    "username": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
-    "added_at": 1792621214.722011
-  },
   "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": {
     "username": "nb1985",
     "added_at": 1792628933.010678
@@ -214,5 +210,9 @@
   "0xe9b710551dd82a44e79203c2394a2b10163ace7b": {
     "username": "googleplay",
     "added_at": 1793168179.1083343
+  },
+  "0xb52e8b3afd9f0f0d502a5a76494b42816d67285c": {
+    "username": "1l2ihj34li12u34",
+    "added_at": 1793233041.9193585
   }
 }
