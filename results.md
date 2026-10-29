@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 18:53:13 (hora de Perú)
+Actualizado: 2026-10-29 18:55:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7065**  ($400,940,881 en total)
+- Apuestas registradas: **7066**  ($400,980,143 en total)
 - Resueltas: **7015** — 4278 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 665
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 109 | 57 | 4 | 66% | $8,212,360 | +$436,996 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 95 | 91 | 0 | 51% | $7,503,793 | -$669,467 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 95 | 91 | 1 | 51% | $7,543,055 | -$669,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 107 | 57 | 3 | 65% | $7,202,084 | +$166,726 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kings vs. Pelicans | Pelicans | 1.47 (68¢) | $39,262 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Canadiens vs. Stars | Stars | 1.64 (61¢) | $38,279 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Capitals vs. Predators | Capitals | 1.96 (51¢) | $115,101 | — | ⏳ Pendiente |
 | Sassy-Bucket | Canadiens vs. Stars | Canadiens | 2.56 (39¢) | $29,367 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | jakepaulthegoat2008 | Game Handicap: KC (-1.5) vs CTBC Flying Oyster (+1.5) | Karmine Corp | 1.79 (56¢) | $33,287 | +$26,154 | ✅ Ganada |
 | jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $99,935 | +$23,442 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $29,779 | +$66,282 | ✅ Ganada |
-| NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.49 (67¢) | $36,975 | -$36,975 | ❌ Perdida |
