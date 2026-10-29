@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 15:37:19 (hora de Perú)
+Actualizado: 2026-10-29 15:39:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7039**  ($399,304,376 en total)
-- Resueltas: **7006** — 4270 ganadas / 2736 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **7007** — 4270 ganadas / 2737 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 663
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,717,303** sobre $397,925,315 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,899** sobre $690,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$2,745,025** sobre $397,953,036 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,999** sobre $690,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | norrisfan | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.70 (37¢) | $29,439 | -$29,439 | ❌ Perdida |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $27,052 | +$15,888 | ✅ Ganada |
 | juice-fruit | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.63 (38¢) | $75,243 | -$75,243 | ❌ Perdida |
-| 0xc1a9273b15a17d21AF09DddB42b9239B93D4e2Db-1777826537793 | Guayaquil: Diego Dedura-Palomero vs Valerio Aboian | Diego Dedura-Palomero | 1.30 (77¢) | $27,721 | — | ⏳ Pendiente |
+| 0xc1a9273b15a17d21AF09DddB42b9239B93D4e2Db-1777826537793 | Guayaquil: Diego Dedura-Palomero vs Valerio Aboian | Diego Dedura-Palomero | 1.30 (77¢) | $27,721 | -$27,721 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $43,088 | +$25,305 | ✅ Ganada |
 | Mooseborzoiii | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | FURIA | 2.70 (37¢) | $37,000 | +$63,000 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $144,900 | +$85,100 | ✅ Ganada |
