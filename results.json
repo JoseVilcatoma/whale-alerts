@@ -105156,5 +105156,20 @@
     "status": "pending",
     "ultimo_fill": 1793247633,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14207,
+    "timestamp": 1793250583,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "cs2-fut-nemi1-2026-10-29",
+    "title": "Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "usd": 74900.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1793250583,
+    "fills": 1
   }
 ]
