@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 20:08:03 (hora de Perú)
+Actualizado: 2026-10-28 20:10:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6986**  ($396,945,083 en total)
+- Apuestas registradas: **6987**  ($397,019,883 en total)
 - Resueltas: **6892** — 4201 ganadas / 2691 perdidas (**61%** de acierto)
-- Pendientes: 72
+- Pendientes: 73
 - Apostadores distintos: 660
 
 ### Balance
@@ -59,9 +59,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
+| dhgreg | 6 | 18 | 2 | 25% | $2,243,332 | -$1,243,495 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | juice-fruit | 24 | 13 | 1 | 65% | $2,192,374 | +$412,091 |
-| dhgreg | 6 | 18 | 1 | 25% | $2,168,532 | -$1,243,495 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dhgreg | Spread: Spurs (-11.5) | Jazz | 2.27 (44¢) | $74,800 | — | ⏳ Pendiente |
 | googleplay | Spurs vs. Jazz: O/U 232.5 | Under 232.5 | 1.96 (51¢) | $148,079 | — | ⏳ Pendiente |
 | CHZHSHCH | Heat vs. Hawks | Heat | 1.10 (91¢) | $98,598 | — | ⏳ Pendiente |
 | dhgreg | Spread: Spurs (-12.5) | Jazz | 2.17 (46¢) | $63,888 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 | googleplay | Heat vs. Hawks | Hawks | 1.75 (57¢) | $45,390 | — | ⏳ Pendiente |
 | googleplay | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $119,476 | — | ⏳ Pendiente |
 | googleplay | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $59,189 | — | ⏳ Pendiente |
-| fhiwbijd | LoL: Invictus Gaming vs LYON - Game 1 Winner | Invictus Gaming | 1.59 (63¢) | $25,285 | — | ⏳ Pendiente |

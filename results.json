@@ -105006,5 +105006,20 @@
     "status": "pending",
     "ultimo_fill": 1793235411,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 14145,
+    "timestamp": 1793236177,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nba-sas-uta-2026-10-28-spread-away-11pt5",
+    "title": "Spread: Spurs (-11.5)",
+    "outcome": "Jazz",
+    "side": "BUY",
+    "usd": 74800.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1793236177,
+    "fills": 1
   }
 ]
