@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 23:06:31 (hora de Perú)
+Actualizado: 2026-10-28 23:08:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6994**  ($397,274,639 en total)
+- Apuestas registradas: **6995**  ($397,305,145 en total)
 - Resueltas: **6964** — 4243 ganadas / 2721 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 661
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Lakers vs. Clippers: O/U 199.5 | Under 199.5 | 2.00 (50¢) | $30,506 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Seoul: Stefanos Sakellaridis vs Coleman Wong | Coleman Wong | 1.09 (92¢) | $46,472 | — | ⏳ Pendiente |
 | MD14 | Thunder vs. Mavericks: O/U 228.5 | Over 228.5 | 1.64 (61¢) | $25,006 | — | ⏳ Pendiente |
 | thetesterguy | Chicago Fire FC vs. Orlando City SC: O/U 2.5 | Over 2.5 | 1.09 (92¢) | $27,539 | +$2,395 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | mooseborzoii | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $144,444 | +$144,444 | ✅ Ganada |
 | Sassy-Bucket | Kennesaw State vs. Middle Tennessee | Middle Tennessee | 2.00 (50¢) | $45,596 | -$45,596 | ❌ Perdida |
 | googleplay | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $93,600 | -$93,600 | ❌ Perdida |
-| jakepaulthegoat2008 | Hornets vs. Pistons | Pistons | 1.41 (71¢) | $28,400 | +$11,600 | ✅ Ganada |
