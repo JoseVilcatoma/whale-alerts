@@ -105921,5 +105921,20 @@
     "status": "pending",
     "ultimo_fill": 1793313652,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14301,
+    "timestamp": 1793313744,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-flatl-ntx-2026-10-29",
+    "title": "Florida Atlantic vs. North Texas",
+    "outcome": "North Texas",
+    "side": "BUY",
+    "usd": 30247.699998999997,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1793313744,
+    "fills": 1
   }
 ]

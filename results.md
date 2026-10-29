@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 17:41:55 (hora de Perú)
+Actualizado: 2026-10-29 17:43:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7047**  ($399,620,089 en total)
+- Apuestas registradas: **7048**  ($399,650,337 en total)
 - Resueltas: **7007** — 4270 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 663
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 95 | 91 | 0 | 51% | $7,503,793 | -$669,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 107 | 57 | 2 | 65% | $7,171,836 | +$166,726 |
+| ferrariChampions2026 | 107 | 57 | 3 | 65% | $7,202,084 | +$166,726 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Florida Atlantic vs. North Texas | North Texas | 1.20 (83¢) | $30,248 | — | ⏳ Pendiente |
 | BrotherObama | Bruins vs. Blues | Blues | 1.96 (51¢) | $43,015 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | ethanaz | Spread: Nuggets (-10.5) | Nuggets | 2.00 (50¢) | $50,058 | +$50,058 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-10.5) | Nuggets | 2.08 (48¢) | $43,072 | +$46,661 | ✅ Ganada |
 | KaneAnalytics | Heat vs. Hawks | Heat | 1.10 (91¢) | $25,480 | +$2,520 | ✅ Ganada |
-| keeptheblueflagflyinghigh | 76ers vs. Pacers | Pacers | 1.25 (80¢) | $37,129 | -$37,129 | ❌ Perdida |
