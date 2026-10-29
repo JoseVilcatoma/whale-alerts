@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 19:29:57 (hora de Perú)
+Actualizado: 2026-10-28 19:32:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6981**  ($396,578,939 en total)
+- Apuestas registradas: **6982**  ($396,605,283 en total)
 - Resueltas: **6892** — 4201 ganadas / 2691 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Pendientes: 68
 - Apostadores distintos: 660
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 10 | 64% | $51,180,532 | +$137,979 |
 | Sassy-Bucket | 96 | 96 | 4 | 50% | $12,689,178 | -$1,277,318 |
-| googleplay | 38 | 23 | 16 | 62% | $9,791,616 | +$514,330 |
+| googleplay | 38 | 23 | 17 | 62% | $9,817,960 | +$514,330 |
 | mooseborzoii | 105 | 56 | 5 | 65% | $9,498,318 | +$1,144,338 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Hornets vs. Pistons: O/U 199.5 | Over 199.5 | 1.92 (52¢) | $26,344 | — | ⏳ Pendiente |
 | sulumos | Spread: Spurs (-14.5) | Spurs | 2.08 (48¢) | $44,784 | — | ⏳ Pendiente |
 | yabanci | Counter-Strike: Inner Circle Esports vs Astralis (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.92 (52¢) | $27,762 | — | ⏳ Pendiente |
 | mooseborzoii | Warriors vs. Timberwolves | Timberwolves | 1.75 (57¢) | $25,706 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 | BrotherObama | Milwaukee Brewers vs. Tampa Bay Rays: O/U 6.5 | Over 6.5 | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Lakers vs. Clippers | Lakers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: 76ers (-7.5) | 76ers | 2.00 (50¢) | $34,179 | — | ⏳ Pendiente |
-| UpTheBlues | Will Aston Villa FC win on 2026-10-28? | No | 1.12 (89¢) | $26,634 | +$3,292 | ✅ Ganada |
