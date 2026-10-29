@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 19:55:19 (hora de Perú)
+Actualizado: 2026-10-28 19:57:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6985**  ($396,797,004 en total)
+- Apuestas registradas: **6986**  ($396,945,083 en total)
 - Resueltas: **6892** — 4201 ganadas / 2691 perdidas (**61%** de acierto)
-- Pendientes: 71
+- Pendientes: 72
 - Apostadores distintos: 660
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 11 | 64% | $51,209,766 | +$137,979 |
 | Sassy-Bucket | 96 | 96 | 4 | 50% | $12,689,178 | -$1,277,318 |
-| googleplay | 38 | 23 | 17 | 62% | $9,817,960 | +$514,330 |
+| googleplay | 38 | 23 | 18 | 62% | $9,966,039 | +$514,330 |
 | mooseborzoii | 105 | 56 | 5 | 65% | $9,498,318 | +$1,144,338 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spurs vs. Jazz: O/U 232.5 | Under 232.5 | 1.96 (51¢) | $148,079 | — | ⏳ Pendiente |
 | CHZHSHCH | Heat vs. Hawks | Heat | 1.10 (91¢) | $98,598 | — | ⏳ Pendiente |
 | dhgreg | Spread: Spurs (-12.5) | Jazz | 2.17 (46¢) | $63,888 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.54 (65¢) | $29,234 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 | googleplay | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $119,476 | — | ⏳ Pendiente |
 | googleplay | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $59,189 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Invictus Gaming vs LYON - Game 1 Winner | Invictus Gaming | 1.59 (63¢) | $25,285 | — | ⏳ Pendiente |
-| tenniz | Brest: Francesco Maestrelli vs Gabriel Diallo | Francesco Maestrelli | 1.47 (68¢) | $105,381 | +$49,591 | ✅ Ganada |
