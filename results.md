@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 08:00:39 (hora de Perú)
+Actualizado: 2026-10-29 08:02:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7012**  ($398,082,869 en total)
+- Apuestas registradas: **7013**  ($398,121,368 en total)
 - Resueltas: **6978** — 4249 ganadas / 2729 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 661
 
 ### Balance
@@ -60,8 +60,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | dhgreg | 8 | 18 | 0 | 31% | $2,243,332 | -$1,073,295 |
+| juice-fruit | 25 | 13 | 1 | 66% | $2,230,873 | +$430,543 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| juice-fruit | 25 | 13 | 0 | 66% | $2,192,374 | +$430,543 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | Aurora Gaming | 2.63 (38¢) | $38,499 | — | ⏳ Pendiente |
 | mooseborzoi | Grizzlies vs. Trail Blazers | Trail Blazers | 1.39 (72¢) | $34,220 | — | ⏳ Pendiente |
 | tennischamp | Swiss Indoors Basel: Valentin Vacherot vs Rafael Jodar | Rafael Jodar | 1.33 (75¢) | $38,284 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Playoffs | Natus Vincere | 1.75 (57¢) | $53,128 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | wangyou1288 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $52,387 | +$34,925 | ✅ Ganada |
 | googleplay | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 1.92 (52¢) | $162,106 | +$149,636 | ✅ Ganada |
 | jakepaulthegoat2008 | Warriors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
-| aibaby | Spread: Cavaliers (-9.5) | Wizards | 1.59 (63¢) | $29,798 | -$29,798 | ❌ Perdida |
