@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 19:02:43 (hora de Perú)
+Actualizado: 2026-10-28 19:04:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6971**  ($396,066,021 en total)
+- Apuestas registradas: **6975**  ($396,274,297 en total)
 - Resueltas: **6892** — 4201 ganadas / 2691 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Pendientes: 61
 - Apostadores distintos: 659
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 9 | 64% | $51,117,832 | +$137,979 |
 | Sassy-Bucket | 96 | 96 | 4 | 50% | $12,689,178 | -$1,277,318 |
-| googleplay | 38 | 23 | 14 | 62% | $9,610,281 | +$514,330 |
+| googleplay | 38 | 23 | 15 | 62% | $9,684,738 | +$514,330 |
 | mooseborzoii | 105 | 56 | 4 | 65% | $9,472,612 | +$1,144,338 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 659 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Warriors vs. Timberwolves | Timberwolves | 1.72 (58¢) | $62,060 | — | ⏳ Pendiente |
+| KaneAnalytics | Heat vs. Hawks | Heat | 1.27 (79¢) | $35,932 | — | ⏳ Pendiente |
+| googleplay | Nuggets vs. Pelicans | Pelicans | 2.50 (40¢) | $74,457 | — | ⏳ Pendiente |
+| theowalcott | Will Nashville SC win on 2026-10-28? | No | 1.92 (52¢) | $35,827 | — | ⏳ Pendiente |
 | googleplay | Knicks vs. Bulls: O/U 233.5 | Over 233.5 | 1.92 (52¢) | $51,848 | — | ⏳ Pendiente |
 | mooseborzoii | Warriors vs. Timberwolves | Timberwolves | 1.69 (59¢) | $49,677 | — | ⏳ Pendiente |
 | googleplay | Warriors vs. Timberwolves | Warriors | 2.38 (42¢) | $54,948 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 659 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Erste Bank Open: Learner Tien vs Alex de Minaur | Alex de Minaur | 1.12 (89¢) | $48,187 | +$5,956 | ✅ Ganada |
 | yabanci | FC Bayern München vs. 1. FC Magdeburg: O/U 4.5 | Under 4.5 | 2.22 (45¢) | $37,529 | -$37,529 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: fnatic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs | BIG | 1.75 (57¢) | $30,340 | -$30,340 | ❌ Perdida |
-| omnibus-076daa | Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage | Natus Vincere | 1.69 (59¢) | $64,498 | +$44,821 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-5.5) | Pacers | 2.08 (48¢) | $81,496 | — | ⏳ Pendiente |
-| omnibus-076daa | Will FC Internazionale Milano win on 2026-10-28? | Yes | 1.39 (72¢) | $36,857 | +$14,333 | ✅ Ganada |
-| RJW1 | Nuggets vs. Pelicans | Pelicans | 2.78 (36¢) | $25,200 | — | ⏳ Pendiente |
