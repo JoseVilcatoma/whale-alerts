@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 18:18:31 (hora de Perú)
+Actualizado: 2026-10-29 18:20:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7052**  ($400,017,980 en total)
+- Apuestas registradas: **7053**  ($400,044,563 en total)
 - Resueltas: **7008** — 4271 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 663
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NS13 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.41 (71¢) | $26,583 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Pelicans | Pelicans | 1.45 (69¢) | $51,919 | — | ⏳ Pendiente |
 | Talvez10 | Spread: North Texas (-14.5) | North Texas | 1.96 (51¢) | $56,527 | — | ⏳ Pendiente |
 | yesmate | Sioux Falls: Liam Draxl vs Daniil Ostapenkov | Liam Draxl | 1.08 (93¢) | $93,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Clippers | Lakers | 1.12 (89¢) | $29,849 | +$3,689 | ✅ Ganada |
 | yabanci | Lakers vs. Clippers: O/U 199.5 | Under 199.5 | 2.00 (50¢) | $30,506 | +$30,506 | ✅ Ganada |
 | 01258787xy48487484545122 | Seoul: Stefanos Sakellaridis vs Coleman Wong | Coleman Wong | 1.09 (92¢) | $46,472 | +$4,041 | ✅ Ganada |
-| MD14 | Thunder vs. Mavericks: O/U 228.5 | Over 228.5 | 1.64 (61¢) | $25,006 | -$25,006 | ❌ Perdida |

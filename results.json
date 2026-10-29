@@ -105996,5 +105996,20 @@
     "status": "pending",
     "ultimo_fill": 1793315817,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14307,
+    "timestamp": 1793315982,
+    "username": "NS13",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "lol-tes-blg-2026-10-28-game2",
+    "title": "LoL: Top Esports vs Bilibili Gaming - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 26583.1881,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1793315982,
+    "fills": 1
   }
 ]
