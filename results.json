@@ -105456,5 +105456,35 @@
     "status": "pending",
     "ultimo_fill": 1793279721,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14242,
+    "timestamp": 1793281435,
+    "username": "0xB985b597F5598a975C42032749386D765826B70d-1781959038065",
+    "wallet": "0xb985b597f5598a975c42032749386d765826b70d",
+    "slug": "atp-norrie-medvede-2026-10-29",
+    "title": "Erste Bank Open: Cameron Norrie vs Daniil Medvedev",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "usd": 25733.7431,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1793281435,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14243,
+    "timestamp": 1793281512,
+    "username": "tennischamp",
+    "wallet": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+    "slug": "atp-norrie-medvede-2026-10-29",
+    "title": "Erste Bank Open: Cameron Norrie vs Daniil Medvedev",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "usd": 30574.586,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1793281512,
+    "fills": 1
   }
 ]

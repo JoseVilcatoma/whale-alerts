@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 08:43:36 (hora de Perú)
+Actualizado: 2026-10-29 08:45:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7016**  ($398,293,186 en total)
+- Apuestas registradas: **7018**  ($398,349,495 en total)
 - Resueltas: **6980** — 4250 ganadas / 2730 perdidas (**61%** de acierto)
-- Pendientes: 14
-- Apostadores distintos: 661
+- Pendientes: 16
+- Apostadores distintos: 662
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
-_(mostrando los 40 de mayor monto, de 661 en total)_
+_(mostrando los 40 de mayor monto, de 662 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tennischamp | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.43 (70¢) | $30,575 | — | ⏳ Pendiente |
+| 0xB985b597F5598a975C42032749386D765826B70d-1781959038065 | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.45 (69¢) | $25,734 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.54 (65¢) | $39,196 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.56 (64¢) | $99,196 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.59 (63¢) | $33,426 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | googleplay | Knicks vs. Bulls: O/U 233.5 | Over 233.5 | 1.96 (51¢) | $65,451 | +$62,885 | ✅ Ganada |
 | thetesterguy | Inter Miami CF vs. FC Cincinnati: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $25,320 | +$1,616 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Nashville SC win on 2026-10-28? | Yes | 2.04 (49¢) | $25,000 | -$25,000 | ❌ Perdida |
-| yabanci | Spread: Nuggets (-4.5) | Nuggets | 2.08 (48¢) | $51,360 | +$55,640 | ✅ Ganada |
-| googleplay | Spread: Nuggets (-4.5) | Pelicans | 1.92 (52¢) | $86,424 | -$86,424 | ❌ Perdida |
