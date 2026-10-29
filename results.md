@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 18:32:44 (hora de Perú)
+Actualizado: 2026-10-29 18:34:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7060**  ($400,641,808 en total)
-- Resueltas: **7013** — 4276 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **7015** — 4278 ganadas / 2737 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 664
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,632,344** sobre $398,263,439 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,797** sobre $691,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,610,892** sobre $398,522,637 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,781** sobre $691,600 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,8 +81,8 @@ _(mostrando los 40 de mayor monto, de 664 en total)_
 | NS13 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.41 (71¢) | $26,583 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Pelicans | Pelicans | 1.45 (69¢) | $51,919 | — | ⏳ Pendiente |
 | Talvez10 | Spread: North Texas (-14.5) | North Texas | 1.96 (51¢) | $56,527 | — | ⏳ Pendiente |
-| yesmate | Sioux Falls: Liam Draxl vs Daniil Ostapenkov | Liam Draxl | 1.08 (93¢) | $93,000 | — | ⏳ Pendiente |
-| tenniz | Sioux Falls: Liam Draxl vs Daniil Ostapenkov | Liam Draxl | 1.09 (92¢) | $166,198 | — | ⏳ Pendiente |
+| yesmate | Sioux Falls: Liam Draxl vs Daniil Ostapenkov | Liam Draxl | 1.08 (93¢) | $93,000 | +$7,000 | ✅ Ganada |
+| tenniz | Sioux Falls: Liam Draxl vs Daniil Ostapenkov | Liam Draxl | 1.09 (92¢) | $166,198 | +$14,452 | ✅ Ganada |
 | ferrariChampions2026 | Florida Atlantic vs. North Texas | North Texas | 1.20 (83¢) | $30,248 | — | ⏳ Pendiente |
 | BrotherObama | Bruins vs. Blues | Blues | 1.96 (51¢) | $43,015 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
