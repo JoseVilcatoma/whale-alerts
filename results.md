@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 18:16:28 (hora de Perú)
+Actualizado: 2026-10-29 18:18:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7051**  ($399,966,061 en total)
+- Apuestas registradas: **7052**  ($400,017,980 en total)
 - Resueltas: **7008** — 4271 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 663
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 96 | 98 | 2 | 49% | $12,689,178 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 106 | 57 | 3 | 65% | $8,007,100 | +$356,648 |
+| Lakersfan111 | 106 | 57 | 4 | 65% | $8,059,018 | +$356,648 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 95 | 91 | 0 | 51% | $7,503,793 | -$669,467 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Kings vs. Pelicans | Pelicans | 1.45 (69¢) | $51,919 | — | ⏳ Pendiente |
 | Talvez10 | Spread: North Texas (-14.5) | North Texas | 1.96 (51¢) | $56,527 | — | ⏳ Pendiente |
 | yesmate | Sioux Falls: Liam Draxl vs Daniil Ostapenkov | Liam Draxl | 1.08 (93¢) | $93,000 | — | ⏳ Pendiente |
 | tenniz | Sioux Falls: Liam Draxl vs Daniil Ostapenkov | Liam Draxl | 1.09 (92¢) | $166,198 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | yabanci | Lakers vs. Clippers: O/U 199.5 | Under 199.5 | 2.00 (50¢) | $30,506 | +$30,506 | ✅ Ganada |
 | 01258787xy48487484545122 | Seoul: Stefanos Sakellaridis vs Coleman Wong | Coleman Wong | 1.09 (92¢) | $46,472 | +$4,041 | ✅ Ganada |
 | MD14 | Thunder vs. Mavericks: O/U 228.5 | Over 228.5 | 1.64 (61¢) | $25,006 | -$25,006 | ❌ Perdida |
-| thetesterguy | Chicago Fire FC vs. Orlando City SC: O/U 2.5 | Over 2.5 | 1.09 (92¢) | $27,539 | +$2,395 | ✅ Ganada |
