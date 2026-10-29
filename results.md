@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 11:34:35 (hora de Perú)
+Actualizado: 2026-10-29 11:36:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7032**  ($399,065,954 en total)
+- Apuestas registradas: **7033**  ($399,107,034 en total)
 - Resueltas: **6989** — 4256 ganadas / 2733 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 663
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 61 | 27 | 0 | 69% | $5,284,122 | -$220,938 |
-| Mooseborzoiii | 25 | 19 | 6 | 57% | $4,936,562 | +$655,885 |
+| Mooseborzoiii | 25 | 19 | 7 | 57% | $4,977,642 | +$655,885 |
 | BrotherObama | 49 | 53 | 2 | 48% | $4,510,569 | -$148,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Kch-Temp | 44 | 15 | 1 | 75% | $3,905,494 | +$1,717,767 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $41,080 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: HOTU vs GamerLegion (BO3) - Tesla Cup Playoffs | GamerLegion | 1.92 (52¢) | $48,721 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Cavaliers vs. Hawks | Cavaliers | 2.04 (49¢) | $42,971 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $56,142 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | wollao | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.72 (58¢) | $36,813 | +$26,657 | ✅ Ganada |
 | yabanci | Warriors vs. Timberwolves | Timberwolves | 1.72 (58¢) | $62,060 | -$62,060 | ❌ Perdida |
 | KaneAnalytics | Heat vs. Hawks | Heat | 1.27 (79¢) | $35,932 | +$9,552 | ✅ Ganada |
-| googleplay | Nuggets vs. Pelicans | Pelicans | 2.50 (40¢) | $74,457 | -$74,457 | ❌ Perdida |
