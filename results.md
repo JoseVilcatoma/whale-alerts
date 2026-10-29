@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 18:24:34 (hora de Perú)
+Actualizado: 2026-10-29 18:26:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7055**  ($400,150,558 en total)
+- Apuestas registradas: **7057**  ($400,306,747 en total)
 - Resueltas: **7013** — 4276 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 22
 - Apostadores distintos: 663
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 96 | 98 | 2 | 49% | $12,689,178 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 109 | 57 | 2 | 66% | $8,099,289 | +$436,996 |
+| Lakersfan111 | 109 | 57 | 3 | 66% | $8,156,533 | +$436,996 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 95 | 91 | 0 | 51% | $7,503,793 | -$669,467 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 61 | 27 | 0 | 69% | $5,284,122 | -$220,938 |
-| Mooseborzoiii | 35 | 19 | 1 | 65% | $5,121,657 | +$985,790 |
+| Mooseborzoiii | 35 | 19 | 2 | 65% | $5,220,602 | +$985,790 |
 | BrotherObama | 49 | 53 | 3 | 48% | $4,553,584 | -$148,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Kch-Temp | 44 | 15 | 1 | 75% | $3,905,494 | +$1,717,767 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.30 (77¢) | $98,945 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.32 (76¢) | $57,244 | — | ⏳ Pendiente |
 | omnibus-076daa | Bruins vs. Blues | Blues | 1.96 (51¢) | $65,724 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.37 (73¢) | $40,271 | — | ⏳ Pendiente |
 | NS13 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.41 (71¢) | $26,583 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | Wiretransferxyz | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $31,050 | -$31,050 | ❌ Perdida |
 | Mooseborzoiii | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $27,900 | +$62,100 | ✅ Ganada |
 | yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $66,297 | -$66,297 | ❌ Perdida |
-| yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.43 (70¢) | $74,900 | -$74,900 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Clippers | Lakers | 1.12 (89¢) | $29,849 | +$3,689 | ✅ Ganada |
