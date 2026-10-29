@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 00:37:20 (hora de Perú)
+Actualizado: 2026-10-29 00:39:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6997**  ($397,409,894 en total)
+- Apuestas registradas: **6998**  ($397,476,191 en total)
 - Resueltas: **6970** — 4247 ganadas / 2723 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 661
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $66,297 | — | ⏳ Pendiente |
 | yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.43 (70¢) | $74,900 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Clippers | Lakers | 1.12 (89¢) | $29,849 | +$3,689 | ✅ Ganada |
 | yabanci | Lakers vs. Clippers: O/U 199.5 | Under 199.5 | 2.00 (50¢) | $30,506 | +$30,506 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | googleplay | Wizards vs. Cavaliers | Cavaliers | 1.28 (78¢) | $498,485 | +$140,598 | ✅ Ganada |
 | Mooseborzoiii | LoL: Invictus Gaming vs LYON - Game 2 Winner | LYON | 2.33 (43¢) | $73,100 | +$96,900 | ✅ Ganada |
 | jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON - Game 2 Winner | Invictus Gaming | 1.75 (57¢) | $108,333 | -$108,333 | ❌ Perdida |
-| mooseborzoii | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $144,444 | +$144,444 | ✅ Ganada |
