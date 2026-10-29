@@ -105096,5 +105096,35 @@
     "status": "won",
     "ultimo_fill": 1793238250,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14194,
+    "timestamp": 1793245625,
+    "username": "01258787xy48487484545122",
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "slug": "atp-sakella-wong-2026-10-28",
+    "title": "Seoul: Stefanos Sakellaridis vs Coleman Wong",
+    "outcome": "Coleman Wong",
+    "side": "BUY",
+    "usd": 46472.19559794581,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1793245625,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14195,
+    "timestamp": 1793245606,
+    "username": "MD14",
+    "wallet": "0x7d787c72c8317046fda90814a93c87fc192529a5",
+    "slug": "nba-okc-dal-2026-10-28-total-228pt5",
+    "title": "Thunder vs. Mavericks: O/U 228.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25006.230199999998,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1793245606,
+    "fills": 1
   }
 ]

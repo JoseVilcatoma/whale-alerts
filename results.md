@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 22:56:15 (hora de Perú)
+Actualizado: 2026-10-28 22:58:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6992**  ($397,203,161 en total)
+- Apuestas registradas: **6994**  ($397,274,639 en total)
 - Resueltas: **6957** — 4238 ganadas / 2719 perdidas (**61%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 660
+- Pendientes: 15
+- Apostadores distintos: 661
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
-_(mostrando los 40 de mayor monto, de 660 en total)_
+_(mostrando los 40 de mayor monto, de 661 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 01258787xy48487484545122 | Seoul: Stefanos Sakellaridis vs Coleman Wong | Coleman Wong | 1.09 (92¢) | $46,472 | — | ⏳ Pendiente |
+| MD14 | Thunder vs. Mavericks: O/U 228.5 | Over 228.5 | 1.64 (61¢) | $25,006 | — | ⏳ Pendiente |
 | thetesterguy | Chicago Fire FC vs. Orlando City SC: O/U 2.5 | Over 2.5 | 1.09 (92¢) | $27,539 | +$2,395 | ✅ Ganada |
 | ethanaz | Spread: Nuggets (-10.5) | Nuggets | 2.00 (50¢) | $50,058 | +$50,058 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-10.5) | Nuggets | 2.08 (48¢) | $43,072 | +$46,661 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 | Sassy-Bucket | Kennesaw State vs. Middle Tennessee | Middle Tennessee | 2.00 (50¢) | $45,596 | -$45,596 | ❌ Perdida |
 | googleplay | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $93,600 | -$93,600 | ❌ Perdida |
 | jakepaulthegoat2008 | Hornets vs. Pistons | Pistons | 1.41 (71¢) | $28,400 | +$11,600 | ✅ Ganada |
-| justwins | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $40,000 | +$40,000 | ✅ Ganada |
-| googleplay | Heat vs. Hawks | Hawks | 1.75 (57¢) | $26,582 | -$26,582 | ❌ Perdida |
