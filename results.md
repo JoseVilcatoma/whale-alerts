@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 20:42:01 (hora de Perú)
+Actualizado: 2026-10-28 20:44:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6991**  ($397,175,622 en total)
-- Resueltas: **6892** — 4201 ganadas / 2691 perdidas (**61%** de acierto)
-- Pendientes: 77
+- Resueltas: **6896** — 4201 ganadas / 2695 perdidas (**61%** de acierto)
+- Pendientes: 73
 - Apostadores distintos: 660
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,492,549** sobre $391,225,947 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,587** sobre $679,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,794,814** sobre $391,528,212 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$6,987** sobre $679,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 12 | 64% | $51,252,838 | +$137,979 |
 | Sassy-Bucket | 96 | 96 | 4 | 50% | $12,689,178 | -$1,277,318 |
-| googleplay | 38 | 23 | 18 | 62% | $9,966,039 | +$514,330 |
+| googleplay | 38 | 26 | 15 | 59% | $9,966,039 | +$242,065 |
 | mooseborzoii | 105 | 56 | 5 | 65% | $9,498,318 | +$1,144,338 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 60 | 27 | 1 | 69% | $5,284,122 | -$270,996 |
 | Mooseborzoiii | 23 | 18 | 2 | 56% | $4,514,790 | +$661,389 |
-| BrotherObama | 49 | 51 | 4 | 49% | $4,510,569 | -$93,063 |
+| BrotherObama | 49 | 52 | 3 | 49% | $4,510,569 | -$123,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Kch-Temp | 44 | 14 | 2 | 76% | $3,905,494 | +$1,758,440 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -126,8 +126,8 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 | jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON - Game 2 Winner | Invictus Gaming | 1.75 (57¢) | $108,333 | — | ⏳ Pendiente |
 | mooseborzoii | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $144,444 | — | ⏳ Pendiente |
 | Sassy-Bucket | Kennesaw State vs. Middle Tennessee | Middle Tennessee | 2.00 (50¢) | $45,596 | — | ⏳ Pendiente |
-| googleplay | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $93,600 | — | ⏳ Pendiente |
+| googleplay | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $93,600 | -$93,600 | ❌ Perdida |
 | jakepaulthegoat2008 | Hornets vs. Pistons | Pistons | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | justwins | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | googleplay | Heat vs. Hawks | Hawks | 1.75 (57¢) | $26,582 | — | ⏳ Pendiente |
-| BrotherObama | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $30,000 | -$30,000 | ❌ Perdida |
