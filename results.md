@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 04:46:41 (hora de Perú)
+Actualizado: 2026-10-29 06:15:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7009**  ($397,957,237 en total)
-- Resueltas: **6972** — 4247 ganadas / 2725 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **6978** — 4249 ganadas / 2729 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 661
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,908,557** sobre $396,314,894 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,522** sobre $687,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,006,414** sobre $396,598,812 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,477** sobre $688,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 500 | 279 | 4 | 64% | $51,312,466 | +$340,720 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 501 | 279 | 3 | 64% | $51,312,466 | +$407,002 |
 | Sassy-Bucket | 96 | 98 | 2 | 49% | $12,689,178 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 61 | 27 | 0 | 69% | $5,284,122 | -$220,938 |
-| Mooseborzoiii | 24 | 19 | 1 | 56% | $4,542,690 | +$593,785 |
+| Mooseborzoiii | 25 | 19 | 0 | 57% | $4,542,690 | +$655,885 |
 | BrotherObama | 49 | 53 | 2 | 48% | $4,510,569 | -$148,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Kch-Temp | 44 | 15 | 1 | 75% | $3,905,494 | +$1,717,767 |
@@ -73,17 +73,17 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 |---|---|---|---|---|---|---|
 | jakepaulthegoat2008 | Game Handicap: KC (-1.5) vs CTBC Flying Oyster (+1.5) | Karmine Corp | 1.79 (56¢) | $33,287 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $99,935 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $29,779 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $29,779 | +$66,282 | ✅ Ganada |
 | NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.49 (67¢) | $36,975 | -$36,975 | ❌ Perdida |
 | NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.35 (74¢) | $27,807 | -$27,807 | ❌ Perdida |
-| norrisfan | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $53,992 | — | ⏳ Pendiente |
+| norrisfan | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $53,992 | -$53,992 | ❌ Perdida |
 | Wiretransferxyz | Counter-Strike: FaZe vs GamerLegion (BO3) - Tesla Cup Playoffs | FaZe | 1.69 (59¢) | $26,550 | — | ⏳ Pendiente |
 | yabanci | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.41 (71¢) | $75,970 | — | ⏳ Pendiente |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
-| Wiretransferxyz | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $31,050 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $27,900 | — | ⏳ Pendiente |
-| yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $66,297 | — | ⏳ Pendiente |
-| yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.43 (70¢) | $74,900 | — | ⏳ Pendiente |
+| Wiretransferxyz | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $31,050 | -$31,050 | ❌ Perdida |
+| Mooseborzoiii | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $27,900 | +$62,100 | ✅ Ganada |
+| yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $66,297 | -$66,297 | ❌ Perdida |
+| yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.43 (70¢) | $74,900 | -$74,900 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Clippers | Lakers | 1.12 (89¢) | $29,849 | +$3,689 | ✅ Ganada |
 | yabanci | Lakers vs. Clippers: O/U 199.5 | Under 199.5 | 2.00 (50¢) | $30,506 | +$30,506 | ✅ Ganada |
 | 01258787xy48487484545122 | Seoul: Stefanos Sakellaridis vs Coleman Wong | Coleman Wong | 1.09 (92¢) | $46,472 | +$4,041 | ✅ Ganada |
