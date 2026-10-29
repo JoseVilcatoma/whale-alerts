@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 18:26:35 (hora de Perú)
+Actualizado: 2026-10-29 18:28:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7057**  ($400,306,747 en total)
+- Apuestas registradas: **7059**  ($400,572,808 en total)
 - Resueltas: **7013** — 4276 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 663
+- Pendientes: 24
+- Apostadores distintos: 664
 
 ### Balance
 
@@ -39,8 +39,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
+| Mooseborzoiii | 35 | 19 | 2 | 65% | $5,407,121 | +$985,790 |
 | ethanaz | 61 | 27 | 0 | 69% | $5,284,122 | -$220,938 |
-| Mooseborzoiii | 35 | 19 | 2 | 65% | $5,220,602 | +$985,790 |
 | BrotherObama | 49 | 53 | 3 | 48% | $4,553,584 | -$148,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Kch-Temp | 44 | 15 | 1 | 75% | $3,905,494 | +$1,717,767 |
@@ -65,14 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 41 | 17 | 0 | 71% | $2,176,369 | -$109,010 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
-_(mostrando los 40 de mayor monto, de 663 en total)_
+_(mostrando los 40 de mayor monto, de 664 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.30 (77¢) | $98,945 | — | ⏳ Pendiente |
+| PEYZ-BIGGEST-FAN | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.28 (78¢) | $28,175 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.28 (78¢) | $285,464 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.32 (76¢) | $57,244 | — | ⏳ Pendiente |
+| LinkE5 | LoL: Top Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Bilibili Gaming | 1.10 (91¢) | $51,366 | — | ⏳ Pendiente |
 | omnibus-076daa | Bruins vs. Blues | Blues | 1.96 (51¢) | $65,724 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.37 (73¢) | $40,271 | — | ⏳ Pendiente |
 | NS13 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.41 (71¢) | $26,583 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | yabanci | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.41 (71¢) | $75,970 | +$31,030 | ✅ Ganada |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
 | Wiretransferxyz | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $31,050 | -$31,050 | ❌ Perdida |
-| Mooseborzoiii | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $27,900 | +$62,100 | ✅ Ganada |
-| yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $66,297 | -$66,297 | ❌ Perdida |

@@ -106068,10 +106068,40 @@
     "title": "LoL: Top Esports vs Bilibili Gaming - Game 2 Winner",
     "outcome": "Bilibili Gaming",
     "side": "BUY",
-    "usd": 98945.2586,
-    "odds_at_bet": 77,
+    "usd": 285463.95160000003,
+    "odds_at_bet": 78,
     "status": "pending",
-    "ultimo_fill": 1793316385,
-    "fills": 2
+    "ultimo_fill": 1793316479,
+    "fills": 4
+  },
+  {
+    "telegram_msg_id": 14317,
+    "timestamp": 1793316172,
+    "username": "LinkE5",
+    "wallet": "0xf070207d315d47fd07870e464d3ded9151f5ac55",
+    "slug": "lol-tes-blg-2026-10-28",
+    "title": "LoL: Top Esports vs Bilibili Gaming (BO3) - Worlds Group Stage",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 51366.4424,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1793316172,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14318,
+    "timestamp": 1793316450,
+    "username": "PEYZ-BIGGEST-FAN",
+    "wallet": "0xdaef2be2a19ad331737d06545f85615b094554e9",
+    "slug": "lol-tes-blg-2026-10-28-game2",
+    "title": "LoL: Top Esports vs Bilibili Gaming - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 28175.4408,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1793316450,
+    "fills": 1
   }
 ]
