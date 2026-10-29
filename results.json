@@ -105936,5 +105936,35 @@
     "status": "pending",
     "ultimo_fill": 1793313744,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14302,
+    "timestamp": 1793314483,
+    "username": "tenniz",
+    "wallet": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
+    "slug": "atp-draxl-ostapen-2026-10-29",
+    "title": "Sioux Falls: Liam Draxl vs Daniil Ostapenkov",
+    "outcome": "Liam Draxl",
+    "side": "BUY",
+    "usd": 166198.24495,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1793314483,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14303,
+    "timestamp": 1793314487,
+    "username": "yesmate",
+    "wallet": "0x5d7639ed5fd3c5ebf0fc69d548e1046acd0f9168",
+    "slug": "atp-draxl-ostapen-2026-10-29",
+    "title": "Sioux Falls: Liam Draxl vs Daniil Ostapenkov",
+    "outcome": "Liam Draxl",
+    "side": "BUY",
+    "usd": 93000.0,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1793314487,
+    "fills": 1
   }
 ]
