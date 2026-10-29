@@ -105681,5 +105681,20 @@
     "status": "pending",
     "ultimo_fill": 1793290554,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14266,
+    "timestamp": 1793290898,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-hotu-gl1-2026-10-29",
+    "title": "Counter-Strike: HOTU vs GamerLegion (BO3) - Tesla Cup Playoffs",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "usd": 48720.890400000004,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793290898,
+    "fills": 1
   }
 ]
