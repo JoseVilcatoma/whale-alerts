@@ -105801,5 +105801,20 @@
     "status": "pending",
     "ultimo_fill": 1793304717,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14293,
+    "timestamp": 1793307572,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-kc-cfo-2026-10-29-game2",
+    "title": "LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 92256.774,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1793307572,
+    "fills": 1
   }
 ]

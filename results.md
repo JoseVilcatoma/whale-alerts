@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 15:57:54 (hora de Perú)
+Actualizado: 2026-10-29 15:59:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7039**  ($399,304,376 en total)
+- Apuestas registradas: **7040**  ($399,396,633 en total)
 - Resueltas: **7007** — 4270 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 663
 
 ### Balance
@@ -28,9 +28,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 96 | 98 | 2 | 49% | $12,689,178 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
+| Lakersfan111 | 106 | 57 | 3 | 65% | $8,007,100 | +$356,648 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| Lakersfan111 | 106 | 57 | 2 | 65% | $7,914,843 | +$356,648 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 95 | 91 | 0 | 51% | $7,503,793 | -$669,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner | Karmine Corp | 1.33 (75¢) | $92,257 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster - Game 1 Winner | Karmine Corp | 1.43 (70¢) | $25,136 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $33,186 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $51,350 | +$13,650 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.54 (65¢) | $29,234 | +$15,741 | ✅ Ganada |
 | googleplay | Hornets vs. Pistons: O/U 199.5 | Over 199.5 | 1.92 (52¢) | $26,344 | -$26,344 | ❌ Perdida |
 | sulumos | Spread: Spurs (-14.5) | Spurs | 2.08 (48¢) | $44,784 | -$44,784 | ❌ Perdida |
-| yabanci | Counter-Strike: Inner Circle Esports vs Astralis (BO3) - Stake Ranked Episode 5 Playoffs | Astralis | 1.92 (52¢) | $27,762 | +$25,626 | ✅ Ganada |
