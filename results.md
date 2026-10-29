@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 10:17:14 (hora de Perú)
+Actualizado: 2026-10-29 10:19:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7024**  ($398,725,006 en total)
-- Resueltas: **6981** — 4250 ganadas / 2731 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **6982** — 4250 ganadas / 2732 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 663
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,066,797** sobre $396,766,194 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,636** sobre $688,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,093,347** sobre $396,792,744 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,736** sobre $688,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.49 (67¢) | $36,975 | -$36,975 | ❌ Perdida |
 | NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.35 (74¢) | $27,807 | -$27,807 | ❌ Perdida |
 | norrisfan | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $53,992 | -$53,992 | ❌ Perdida |
-| Wiretransferxyz | Counter-Strike: FaZe vs GamerLegion (BO3) - Tesla Cup Playoffs | FaZe | 1.69 (59¢) | $26,550 | — | ⏳ Pendiente |
+| Wiretransferxyz | Counter-Strike: FaZe vs GamerLegion (BO3) - Tesla Cup Playoffs | FaZe | 1.69 (59¢) | $26,550 | -$26,550 | ❌ Perdida |
 | yabanci | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.41 (71¢) | $75,970 | +$31,030 | ✅ Ganada |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $31,050 | -$31,050 | ❌ Perdida |
