@@ -106208,5 +106208,20 @@
     "status": "pending",
     "ultimo_fill": 1793318003,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14328,
+    "timestamp": 1793318172,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "nhl-nyi-min-2026-10-29",
+    "title": "Islanders vs. Wild",
+    "outcome": "Wild",
+    "side": "BUY",
+    "usd": 82228.54740000001,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1793318174,
+    "fills": 2
   }
 ]
