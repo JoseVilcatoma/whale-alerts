@@ -105021,5 +105021,20 @@
     "status": "pending",
     "ultimo_fill": 1793236177,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14146,
+    "timestamp": 1793236294,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nba-phi-ind-2026-10-28",
+    "title": "76ers vs. Pacers",
+    "outcome": "Pacers",
+    "side": "BUY",
+    "usd": 37129.328,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1793236294,
+    "fills": 1
   }
 ]

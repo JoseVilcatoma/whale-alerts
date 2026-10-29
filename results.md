@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 20:10:11 (hora de Perú)
+Actualizado: 2026-10-28 20:12:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6987**  ($397,019,883 en total)
+- Apuestas registradas: **6988**  ($397,057,012 en total)
 - Resueltas: **6892** — 4201 ganadas / 2691 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Pendientes: 74
 - Apostadores distintos: 660
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | 76ers vs. Pacers | Pacers | 1.25 (80¢) | $37,129 | — | ⏳ Pendiente |
 | dhgreg | Spread: Spurs (-11.5) | Jazz | 2.27 (44¢) | $74,800 | — | ⏳ Pendiente |
 | googleplay | Spurs vs. Jazz: O/U 232.5 | Under 232.5 | 1.96 (51¢) | $148,079 | — | ⏳ Pendiente |
 | CHZHSHCH | Heat vs. Hawks | Heat | 1.10 (91¢) | $98,598 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Hawks | Heat | 2.33 (43¢) | $129,000 | — | ⏳ Pendiente |
 | googleplay | Heat vs. Hawks | Hawks | 1.75 (57¢) | $45,390 | — | ⏳ Pendiente |
 | googleplay | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $119,476 | — | ⏳ Pendiente |
-| googleplay | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $59,189 | — | ⏳ Pendiente |
