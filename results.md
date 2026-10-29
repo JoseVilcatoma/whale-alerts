@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 17:39:49 (hora de Perú)
+Actualizado: 2026-10-29 17:41:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7043**  ($399,476,573 en total)
+- Apuestas registradas: **7047**  ($399,620,089 en total)
 - Resueltas: **7007** — 4270 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 18
 - Apostadores distintos: 663
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 501 | 279 | 3 | 64% | $51,312,466 | +$407,002 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 501 | 279 | 4 | 64% | $51,347,966 | +$407,002 |
 | Sassy-Bucket | 96 | 98 | 2 | 49% | $12,689,178 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -40,8 +40,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 61 | 27 | 0 | 69% | $5,284,122 | -$220,938 |
-| Mooseborzoiii | 35 | 19 | 0 | 65% | $5,085,657 | +$985,790 |
-| BrotherObama | 49 | 53 | 2 | 48% | $4,510,569 | -$148,063 |
+| Mooseborzoiii | 35 | 19 | 1 | 65% | $5,121,657 | +$985,790 |
+| BrotherObama | 49 | 53 | 3 | 48% | $4,553,584 | -$148,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Kch-Temp | 44 | 15 | 1 | 75% | $3,905,494 | +$1,717,767 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Bruins vs. Blues | Blues | 1.96 (51¢) | $43,015 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
+| vtcchampion52 | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Top Esports | 3.45 (29¢) | $29,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Wild (-1.5) | Islanders | 1.69 (59¢) | $26,134 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Kings vs. Pelicans | Pelicans | 1.47 (68¢) | $27,205 | — | ⏳ Pendiente |
 | Hdisllbsj | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Jerome Kym | 1.79 (56¢) | $26,601 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-10.5) | Nuggets | 2.08 (48¢) | $43,072 | +$46,661 | ✅ Ganada |
 | KaneAnalytics | Heat vs. Hawks | Heat | 1.10 (91¢) | $25,480 | +$2,520 | ✅ Ganada |
 | keeptheblueflagflyinghigh | 76ers vs. Pacers | Pacers | 1.25 (80¢) | $37,129 | -$37,129 | ❌ Perdida |
-| dhgreg | Spread: Spurs (-11.5) | Jazz | 2.27 (44¢) | $74,800 | +$95,200 | ✅ Ganada |
-| googleplay | Spurs vs. Jazz: O/U 232.5 | Under 232.5 | 1.96 (51¢) | $148,079 | +$142,272 | ✅ Ganada |
-| CHZHSHCH | Heat vs. Hawks | Heat | 1.10 (91¢) | $98,598 | +$9,751 | ✅ Ganada |
-| dhgreg | Spread: Spurs (-12.5) | Jazz | 2.17 (46¢) | $63,888 | +$75,000 | ✅ Ganada |
