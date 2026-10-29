@@ -105516,5 +105516,35 @@
     "status": "pending",
     "ultimo_fill": 1793282632,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14247,
+    "timestamp": 1793285925,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "cs2-bb3-furia-2026-10-29",
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 144900.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1793285925,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14248,
+    "timestamp": 1793285947,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "cs2-bb3-furia-2026-10-29-map-handicap-home-1pt5",
+    "title": "Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5)",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 37000.0,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1793285947,
+    "fills": 1
   }
 ]

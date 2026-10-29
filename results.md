@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 09:58:38 (hora de Perú)
+Actualizado: 2026-10-29 10:00:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7020**  ($398,472,297 en total)
+- Apuestas registradas: **7022**  ($398,654,197 en total)
 - Resueltas: **6981** — 4250 ganadas / 2731 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 19
 - Apostadores distintos: 662
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 61 | 27 | 0 | 69% | $5,284,122 | -$220,938 |
-| Mooseborzoiii | 25 | 19 | 1 | 57% | $4,640,008 | +$655,885 |
+| Mooseborzoiii | 25 | 19 | 3 | 57% | $4,821,908 | +$655,885 |
 | BrotherObama | 49 | 53 | 2 | 48% | $4,510,569 | -$148,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Kch-Temp | 44 | 15 | 1 | 75% | $3,905,494 | +$1,717,767 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 662 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | FURIA | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
+| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $144,900 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Predators (-1.5) | Capitals | 1.43 (70¢) | $25,484 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $97,318 | — | ⏳ Pendiente |
 | tennischamp | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.43 (70¢) | $30,575 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 662 en total)_
 | Mooseborzoiii | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | LYON | 2.22 (45¢) | $164,504 | -$164,504 | ❌ Perdida |
 | jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Pelicans | Nuggets | 1.67 (60¢) | $60,000 | +$40,000 | ✅ Ganada |
-| googleplay | Nuggets vs. Pelicans | Pelicans | 2.50 (40¢) | $75,375 | -$75,375 | ❌ Perdida |
-| googleplay | Knicks vs. Bulls: O/U 233.5 | Over 233.5 | 1.96 (51¢) | $65,451 | +$62,885 | ✅ Ganada |
