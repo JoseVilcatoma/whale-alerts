@@ -105066,5 +105066,20 @@
     "status": "pending",
     "ultimo_fill": 1793236863,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14149,
+    "timestamp": 1793237015,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nba-den-nop-2026-10-28-spread-away-10pt5",
+    "title": "Spread: Nuggets (-10.5)",
+    "outcome": "Nuggets",
+    "side": "BUY",
+    "usd": 50058.23,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793237015,
+    "fills": 1
   }
 ]

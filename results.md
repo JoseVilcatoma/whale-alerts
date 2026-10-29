@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 20:22:55 (hora de Perú)
+Actualizado: 2026-10-28 20:24:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6990**  ($397,125,564 en total)
+- Apuestas registradas: **6991**  ($397,175,622 en total)
 - Resueltas: **6892** — 4201 ganadas / 2691 perdidas (**61%** de acierto)
-- Pendientes: 76
+- Pendientes: 77
 - Apostadores distintos: 660
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ethanaz | 60 | 27 | 0 | 69% | $5,234,064 | -$270,996 |
+| ethanaz | 60 | 27 | 1 | 69% | $5,284,122 | -$270,996 |
 | Mooseborzoiii | 23 | 18 | 2 | 56% | $4,514,790 | +$661,389 |
 | BrotherObama | 49 | 51 | 4 | 49% | $4,510,569 | -$93,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Spread: Nuggets (-10.5) | Nuggets | 2.00 (50¢) | $50,058 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-10.5) | Nuggets | 2.08 (48¢) | $43,072 | — | ⏳ Pendiente |
 | KaneAnalytics | Heat vs. Hawks | Heat | 1.10 (91¢) | $25,480 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | 76ers vs. Pacers | Pacers | 1.25 (80¢) | $37,129 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 | justwins | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | googleplay | Heat vs. Hawks | Hawks | 1.75 (57¢) | $26,582 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Hawks | Heat | 2.33 (43¢) | $129,000 | — | ⏳ Pendiente |
