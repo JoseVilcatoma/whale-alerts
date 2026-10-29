@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 12:04:20 (hora de Perú)
+Actualizado: 2026-10-29 15:02:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7037**  ($399,246,054 en total)
-- Resueltas: **6990** — 4257 ganadas / 2733 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **7005** — 4270 ganadas / 2735 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 663
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,962,820** sobre $397,124,932 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,429** sobre $689,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$2,668,582** sobre $397,876,594 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,799** sobre $690,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 61 | 27 | 0 | 69% | $5,284,122 | -$220,938 |
-| Mooseborzoiii | 25 | 19 | 10 | 57% | $5,085,657 | +$655,885 |
+| Mooseborzoiii | 35 | 19 | 0 | 65% | $5,085,657 | +$985,790 |
 | BrotherObama | 49 | 53 | 2 | 48% | $4,510,569 | -$148,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Kch-Temp | 44 | 15 | 1 | 75% | $3,905,494 | +$1,717,767 |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 24 | 0 | 54% | $2,462,685 | +$145,944 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
-| juice-fruit | 25 | 14 | 1 | 64% | $2,306,116 | +$392,045 |
+| juice-fruit | 25 | 15 | 0 | 62% | $2,306,116 | +$316,802 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | dhgreg | 8 | 18 | 0 | 31% | $2,243,332 | -$1,073,295 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,25 +71,25 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $51,350 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA - Map 2 Winner | FURIA | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $29,164 | — | ⏳ Pendiente |
-| Kyn008 | Will Frosinone Calcio win on 2026-10-29? | Yes | 1.82 (55¢) | $31,006 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $41,080 | — | ⏳ Pendiente |
+| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $51,350 | +$13,650 | ✅ Ganada |
+| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA - Map 2 Winner | FURIA | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
+| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $29,164 | +$7,753 | ✅ Ganada |
+| Kyn008 | Will Frosinone Calcio win on 2026-10-29? | Yes | 1.82 (55¢) | $31,006 | +$25,369 | ✅ Ganada |
+| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $41,080 | +$10,920 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: HOTU vs GamerLegion (BO3) - Tesla Cup Playoffs | GamerLegion | 1.92 (52¢) | $48,721 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Cavaliers vs. Hawks | Cavaliers | 2.04 (49¢) | $42,971 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $56,142 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $31,460 | — | ⏳ Pendiente |
-| tankfest2027 | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $29,921 | — | ⏳ Pendiente |
-| norrisfan | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.70 (37¢) | $29,439 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $27,052 | — | ⏳ Pendiente |
-| juice-fruit | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.63 (38¢) | $75,243 | — | ⏳ Pendiente |
+| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $56,142 | +$32,972 | ✅ Ganada |
+| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $31,460 | +$18,477 | ✅ Ganada |
+| tankfest2027 | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $29,921 | +$18,339 | ✅ Ganada |
+| norrisfan | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.70 (37¢) | $29,439 | -$29,439 | ❌ Perdida |
+| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $27,052 | +$15,888 | ✅ Ganada |
+| juice-fruit | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.63 (38¢) | $75,243 | -$75,243 | ❌ Perdida |
 | 0xc1a9273b15a17d21AF09DddB42b9239B93D4e2Db-1777826537793 | Guayaquil: Diego Dedura-Palomero vs Valerio Aboian | Diego Dedura-Palomero | 1.30 (77¢) | $27,721 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $43,088 | — | ⏳ Pendiente |
-| Mooseborzoiii | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | FURIA | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $144,900 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $43,088 | +$25,305 | ✅ Ganada |
+| Mooseborzoiii | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | FURIA | 2.70 (37¢) | $37,000 | +$63,000 | ✅ Ganada |
+| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $144,900 | +$85,100 | ✅ Ganada |
 | ferrariChampions2026 | Spread: Predators (-1.5) | Capitals | 1.43 (70¢) | $25,484 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $97,318 | — | ⏳ Pendiente |
+| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $97,318 | +$59,647 | ✅ Ganada |
 | tennischamp | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.43 (70¢) | $30,575 | +$13,103 | ✅ Ganada |
 | 0xB985b597F5598a975C42032749386D765826B70d-1781959038065 | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.45 (69¢) | $25,734 | +$11,562 | ✅ Ganada |
 | omnibus-076daa | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.54 (65¢) | $39,196 | +$21,106 | ✅ Ganada |
