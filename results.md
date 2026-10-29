@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 20:48:22 (hora de Perú)
+Actualizado: 2026-10-28 20:50:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6992**  ($397,203,161 en total)
-- Resueltas: **6903** — 4206 ganadas / 2697 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Resueltas: **6904** — 4206 ganadas / 2698 perdidas (**61%** de acierto)
+- Pendientes: 66
 - Apostadores distintos: 660
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,533,365** sobre $392,387,680 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,980** sobre $680,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,563,162** sobre $392,417,477 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,080** sobre $680,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -110,7 +110,7 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 | wangyou1288 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $52,387 | — | ⏳ Pendiente |
 | googleplay | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 1.92 (52¢) | $162,106 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Warriors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
-| aibaby | Spread: Cavaliers (-9.5) | Wizards | 1.59 (63¢) | $29,798 | — | ⏳ Pendiente |
+| aibaby | Spread: Cavaliers (-9.5) | Wizards | 1.59 (63¢) | $29,798 | -$29,798 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $29,269 | — | ⏳ Pendiente |
 | googleplay | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $28,711 | — | ⏳ Pendiente |
 | winner877 | 76ers vs. Pacers | 76ers | 1.39 (72¢) | $26,959 | — | ⏳ Pendiente |
