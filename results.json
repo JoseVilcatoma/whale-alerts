@@ -105381,5 +105381,20 @@
     "status": "pending",
     "ultimo_fill": 1793273989,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14235,
+    "timestamp": 1793277429,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-mem-por-2026-10-29",
+    "title": "Grizzlies vs. Trail Blazers",
+    "outcome": "Trail Blazers",
+    "side": "BUY",
+    "usd": 34219.7904,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1793277429,
+    "fills": 1
   }
 ]

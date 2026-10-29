@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 07:35:54 (hora de Perú)
+Actualizado: 2026-10-29 07:37:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7011**  ($398,048,650 en total)
+- Apuestas registradas: **7012**  ($398,082,869 en total)
 - Resueltas: **6978** — 4249 ganadas / 2729 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 661
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Grizzlies vs. Trail Blazers | Trail Blazers | 1.39 (72¢) | $34,220 | — | ⏳ Pendiente |
 | tennischamp | Swiss Indoors Basel: Valentin Vacherot vs Rafael Jodar | Rafael Jodar | 1.33 (75¢) | $38,284 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Playoffs | Natus Vincere | 1.75 (57¢) | $53,128 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Game Handicap: KC (-1.5) vs CTBC Flying Oyster (+1.5) | Karmine Corp | 1.79 (56¢) | $33,287 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | googleplay | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 1.92 (52¢) | $162,106 | +$149,636 | ✅ Ganada |
 | jakepaulthegoat2008 | Warriors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | aibaby | Spread: Cavaliers (-9.5) | Wizards | 1.59 (63¢) | $29,798 | -$29,798 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $29,269 | +$29,269 | ✅ Ganada |
