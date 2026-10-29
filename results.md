@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 09:15:02 (hora de Perú)
+Actualizado: 2026-10-29 09:17:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7020**  ($398,472,297 en total)
-- Resueltas: **6980** — 4250 ganadas / 2730 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **6981** — 4250 ganadas / 2731 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 662
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,028,512** sobre $396,727,910 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,536** sobre $688,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,066,797** sobre $396,766,194 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,636** sobre $688,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 662 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.59 (63¢) | $33,426 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | Aurora Gaming | 2.63 (38¢) | $38,499 | — | ⏳ Pendiente |
 | mooseborzoi | Grizzlies vs. Trail Blazers | Trail Blazers | 1.39 (72¢) | $34,220 | — | ⏳ Pendiente |
-| tennischamp | Swiss Indoors Basel: Valentin Vacherot vs Rafael Jodar | Rafael Jodar | 1.33 (75¢) | $38,284 | — | ⏳ Pendiente |
+| tennischamp | Swiss Indoors Basel: Valentin Vacherot vs Rafael Jodar | Rafael Jodar | 1.33 (75¢) | $38,284 | -$38,284 | ❌ Perdida |
 | omnibus-076daa | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Playoffs | Natus Vincere | 1.75 (57¢) | $53,128 | -$53,128 | ❌ Perdida |
 | jakepaulthegoat2008 | Game Handicap: KC (-1.5) vs CTBC Flying Oyster (+1.5) | Karmine Corp | 1.79 (56¢) | $33,287 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $99,935 | — | ⏳ Pendiente |
