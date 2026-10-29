@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 23:20:57 (hora de Perú)
+Actualizado: 2026-10-28 23:22:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **6996**  ($397,334,994 en total)
-- Resueltas: **6964** — 4243 ganadas / 2721 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **6965** — 4243 ganadas / 2722 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 661
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,848,893** sobre $396,060,167 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,343** sobre $686,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$2,873,899** sobre $396,085,173 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,443** sobre $686,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Clippers | Lakers | 1.12 (89¢) | $29,849 | — | ⏳ Pendiente |
 | yabanci | Lakers vs. Clippers: O/U 199.5 | Under 199.5 | 2.00 (50¢) | $30,506 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Seoul: Stefanos Sakellaridis vs Coleman Wong | Coleman Wong | 1.09 (92¢) | $46,472 | — | ⏳ Pendiente |
-| MD14 | Thunder vs. Mavericks: O/U 228.5 | Over 228.5 | 1.64 (61¢) | $25,006 | — | ⏳ Pendiente |
+| MD14 | Thunder vs. Mavericks: O/U 228.5 | Over 228.5 | 1.64 (61¢) | $25,006 | -$25,006 | ❌ Perdida |
 | thetesterguy | Chicago Fire FC vs. Orlando City SC: O/U 2.5 | Over 2.5 | 1.09 (92¢) | $27,539 | +$2,395 | ✅ Ganada |
 | ethanaz | Spread: Nuggets (-10.5) | Nuggets | 2.00 (50¢) | $50,058 | +$50,058 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-10.5) | Nuggets | 2.08 (48¢) | $43,072 | +$46,661 | ✅ Ganada |
