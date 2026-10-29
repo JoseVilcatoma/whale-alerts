@@ -105321,5 +105321,35 @@
     "status": "pending",
     "ultimo_fill": 1793257572,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14224,
+    "timestamp": 1793265579,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-kc-cfo-2026-10-29",
+    "title": "LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 99935.15940000002,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1793265579,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 14225,
+    "timestamp": 1793265581,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-kc-cfo-2026-10-29-game-handicap-away-1pt5",
+    "title": "Game Handicap: KC (-1.5) vs CTBC Flying Oyster (+1.5)",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 33287.441600000006,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1793265581,
+    "fills": 1
   }
 ]

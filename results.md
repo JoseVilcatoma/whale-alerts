@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 04:19:28 (hora de Perú)
+Actualizado: 2026-10-29 04:21:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7007**  ($397,824,015 en total)
+- Apuestas registradas: **7009**  ($397,957,237 en total)
 - Resueltas: **6972** — 4247 ganadas / 2725 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 661
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| Lakersfan111 | 106 | 57 | 0 | 65% | $7,781,620 | +$356,648 |
+| Lakersfan111 | 106 | 57 | 2 | 65% | $7,914,843 | +$356,648 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 95 | 91 | 0 | 51% | $7,503,793 | -$669,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Game Handicap: KC (-1.5) vs CTBC Flying Oyster (+1.5) | Karmine Corp | 1.79 (56¢) | $33,287 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $99,935 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $29,779 | — | ⏳ Pendiente |
 | NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.49 (67¢) | $36,975 | -$36,975 | ❌ Perdida |
 | NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.35 (74¢) | $27,807 | -$27,807 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $29,269 | +$29,269 | ✅ Ganada |
 | googleplay | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $28,711 | +$28,711 | ✅ Ganada |
 | winner877 | 76ers vs. Pacers | 76ers | 1.39 (72¢) | $26,959 | +$10,484 | ✅ Ganada |
-| jakepaulthegoat2008 | Warriors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $60,000 | -$60,000 | ❌ Perdida |
-| juice-fruit | Hornets vs. Pistons | Pistons | 1.39 (72¢) | $47,450 | +$18,453 | ✅ Ganada |
