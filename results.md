@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 10:49:50 (hora de Perú)
+Actualizado: 2026-10-29 10:51:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7030**  ($398,974,262 en total)
-- Resueltas: **6987** — 4254 ganadas / 2733 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **6989** — 4256 ganadas / 2733 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 663
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,013,111** sobre $397,040,861 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,609** sobre $688,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$2,988,446** sobre $397,097,170 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,521** sobre $689,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,8 +83,8 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $144,900 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Predators (-1.5) | Capitals | 1.43 (70¢) | $25,484 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $97,318 | — | ⏳ Pendiente |
-| tennischamp | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.43 (70¢) | $30,575 | — | ⏳ Pendiente |
-| 0xB985b597F5598a975C42032749386D765826B70d-1781959038065 | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.45 (69¢) | $25,734 | — | ⏳ Pendiente |
+| tennischamp | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.43 (70¢) | $30,575 | +$13,103 | ✅ Ganada |
+| 0xB985b597F5598a975C42032749386D765826B70d-1781959038065 | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.45 (69¢) | $25,734 | +$11,562 | ✅ Ganada |
 | omnibus-076daa | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.54 (65¢) | $39,196 | +$21,106 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.56 (64¢) | $99,196 | +$55,798 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.59 (63¢) | $33,426 | +$19,631 | ✅ Ganada |
