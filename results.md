@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 18:28:39 (hora de Perú)
+Actualizado: 2026-10-29 18:30:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7059**  ($400,572,808 en total)
+- Apuestas registradas: **7060**  ($400,641,808 en total)
 - Resueltas: **7013** — 4276 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 664
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 501 | 279 | 4 | 64% | $51,347,966 | +$407,002 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 501 | 279 | 5 | 64% | $51,416,966 | +$407,002 |
 | Sassy-Bucket | 96 | 98 | 2 | 49% | $12,689,178 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 664 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Ben Shelton | 1.45 (69¢) | $69,000 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.28 (78¢) | $28,175 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.28 (78¢) | $285,464 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.32 (76¢) | $57,244 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 664 en total)_
 | Wiretransferxyz | Counter-Strike: FaZe vs GamerLegion (BO3) - Tesla Cup Playoffs | FaZe | 1.69 (59¢) | $26,550 | -$26,550 | ❌ Perdida |
 | yabanci | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.41 (71¢) | $75,970 | +$31,030 | ✅ Ganada |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
-| Wiretransferxyz | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $31,050 | -$31,050 | ❌ Perdida |
