@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 09:02:27 (hora de Perú)
+Actualizado: 2026-10-29 09:04:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7019**  ($398,446,813 en total)
+- Apuestas registradas: **7020**  ($398,472,297 en total)
 - Resueltas: **6980** — 4250 ganadas / 2730 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 662
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 95 | 91 | 0 | 51% | $7,503,793 | -$669,467 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ferrariChampions2026 | 107 | 57 | 0 | 65% | $7,120,218 | +$166,726 |
+| ferrariChampions2026 | 107 | 57 | 1 | 65% | $7,145,702 | +$166,726 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 662 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Predators (-1.5) | Capitals | 1.43 (70¢) | $25,484 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $97,318 | — | ⏳ Pendiente |
 | tennischamp | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.43 (70¢) | $30,575 | — | ⏳ Pendiente |
 | 0xB985b597F5598a975C42032749386D765826B70d-1781959038065 | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.45 (69¢) | $25,734 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 662 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Pelicans | Nuggets | 1.67 (60¢) | $60,000 | +$40,000 | ✅ Ganada |
 | googleplay | Nuggets vs. Pelicans | Pelicans | 2.50 (40¢) | $75,375 | -$75,375 | ❌ Perdida |
 | googleplay | Knicks vs. Bulls: O/U 233.5 | Over 233.5 | 1.96 (51¢) | $65,451 | +$62,885 | ✅ Ganada |
-| thetesterguy | Inter Miami CF vs. FC Cincinnati: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $25,320 | +$1,616 | ✅ Ganada |
