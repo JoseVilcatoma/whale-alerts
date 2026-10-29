@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 18:22:31 (hora de Perú)
+Actualizado: 2026-10-29 18:24:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7054**  ($400,084,834 en total)
-- Resueltas: **7011** — 4274 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Apuestas registradas: **7055**  ($400,150,558 en total)
+- Resueltas: **7013** — 4276 ganadas / 2737 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 663
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,676,872** sobre $398,144,581 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,831** sobre $691,300 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,632,344** sobre $398,263,439 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,797** sobre $691,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 96 | 98 | 2 | 49% | $12,689,178 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 108 | 57 | 3 | 65% | $8,099,289 | +$406,244 |
+| Lakersfan111 | 109 | 57 | 2 | 66% | $8,099,289 | +$436,996 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 95 | 91 | 0 | 51% | $7,503,793 | -$669,467 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Bruins vs. Blues | Blues | 1.96 (51¢) | $65,724 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.37 (73¢) | $40,271 | — | ⏳ Pendiente |
 | NS13 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.41 (71¢) | $26,583 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Pelicans | Pelicans | 1.45 (69¢) | $51,919 | — | ⏳ Pendiente |
@@ -84,8 +85,8 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | vtcchampion52 | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Top Esports | 3.45 (29¢) | $29,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Wild (-1.5) | Islanders | 1.69 (59¢) | $26,134 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Kings vs. Pelicans | Pelicans | 1.47 (68¢) | $27,205 | — | ⏳ Pendiente |
-| Hdisllbsj | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Jerome Kym | 1.79 (56¢) | $26,601 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner | Karmine Corp | 1.33 (75¢) | $92,257 | — | ⏳ Pendiente |
+| Hdisllbsj | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Jerome Kym | 1.79 (56¢) | $26,601 | +$13,776 | 💰 Vendida antes |
+| jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner | Karmine Corp | 1.33 (75¢) | $92,257 | +$30,752 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster - Game 1 Winner | Karmine Corp | 1.43 (70¢) | $25,136 | +$10,773 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $33,186 | +$7,784 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $51,350 | +$13,650 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $66,297 | -$66,297 | ❌ Perdida |
 | yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.43 (70¢) | $74,900 | -$74,900 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Clippers | Lakers | 1.12 (89¢) | $29,849 | +$3,689 | ✅ Ganada |
-| yabanci | Lakers vs. Clippers: O/U 199.5 | Under 199.5 | 2.00 (50¢) | $30,506 | +$30,506 | ✅ Ganada |
