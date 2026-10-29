@@ -105216,5 +105216,20 @@
     "status": "pending",
     "ultimo_fill": 1793253298,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14215,
+    "timestamp": 1793253718,
+    "username": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-aur1-mouz-2026-10-29",
+    "title": "Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 37800.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1793253718,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 01:00:02 (hora de Perú)
+Actualizado: 2026-10-29 01:02:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7000**  ($397,535,141 en total)
+- Apuestas registradas: **7001**  ($397,572,941 en total)
 - Resueltas: **6970** — 4247 ganadas / 2723 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 661
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $31,050 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $27,900 | — | ⏳ Pendiente |
 | yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $66,297 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-4.5) | Magic | 2.13 (47¢) | $104,208 | -$104,208 | ❌ Perdida |
 | googleplay | Spread: Raptors (-4.5) | Raptors | 1.89 (53¢) | $320,438 | +$284,162 | ✅ Ganada |
 | Sassy-Bucket | Spread: 76ers (-6.5) | 76ers | 1.85 (54¢) | $121,052 | -$121,052 | ❌ Perdida |
-| googleplay | Wizards vs. Cavaliers | Cavaliers | 1.28 (78¢) | $498,485 | +$140,598 | ✅ Ganada |
