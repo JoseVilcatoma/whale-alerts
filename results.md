@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 10:19:18 (hora de Perú)
+Actualizado: 2026-10-29 10:21:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7024**  ($398,725,006 en total)
+- Apuestas registradas: **7026**  ($398,827,300 en total)
 - Resueltas: **6982** — 4250 ganadas / 2732 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 22
 - Apostadores distintos: 663
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 61 | 27 | 0 | 69% | $5,284,122 | -$220,938 |
-| Mooseborzoiii | 25 | 19 | 3 | 57% | $4,821,908 | +$655,885 |
+| Mooseborzoiii | 25 | 19 | 4 | 57% | $4,848,960 | +$655,885 |
 | BrotherObama | 49 | 53 | 2 | 48% | $4,510,569 | -$148,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Kch-Temp | 44 | 15 | 1 | 75% | $3,905,494 | +$1,717,767 |
@@ -58,9 +58,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 24 | 0 | 54% | $2,462,685 | +$145,944 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
+| juice-fruit | 25 | 13 | 2 | 66% | $2,306,116 | +$430,543 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | dhgreg | 8 | 18 | 0 | 31% | $2,243,332 | -$1,073,295 |
-| juice-fruit | 25 | 13 | 1 | 66% | $2,230,873 | +$430,543 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 39 | 17 | 0 | 70% | $2,118,047 | -$127,567 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $27,052 | — | ⏳ Pendiente |
+| juice-fruit | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.63 (38¢) | $75,243 | — | ⏳ Pendiente |
 | 0xc1a9273b15a17d21AF09DddB42b9239B93D4e2Db-1777826537793 | Guayaquil: Diego Dedura-Palomero vs Valerio Aboian | Diego Dedura-Palomero | 1.30 (77¢) | $27,721 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $43,088 | — | ⏳ Pendiente |
 | Mooseborzoiii | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | FURIA | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | googleplay | Warriors vs. Timberwolves | Warriors | 2.38 (42¢) | $54,948 | +$75,881 | ✅ Ganada |
 | jakepaulthegoat2008 | Warriors vs. Timberwolves | Timberwolves | 1.69 (59¢) | $35,400 | -$35,400 | ❌ Perdida |
 | fantasy7788 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.82 (55¢) | $35,648 | +$29,166 | ✅ Ganada |
-| mooseborzoii | Spread: Chicago Fire FC (-1.5) | Orlando City SC | 1.92 (52¢) | $45,074 | +$41,606 | ✅ Ganada |
-| Mooseborzoiii | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | LYON | 2.22 (45¢) | $164,504 | -$164,504 | ❌ Perdida |
