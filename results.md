@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 23:18:53 (hora de Perú)
+Actualizado: 2026-10-28 23:20:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6995**  ($397,305,145 en total)
+- Apuestas registradas: **6996**  ($397,334,994 en total)
 - Resueltas: **6964** — 4243 ganadas / 2721 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 661
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 499 | 279 | 3 | 64% | $51,252,838 | +$337,031 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 499 | 279 | 4 | 64% | $51,282,687 | +$337,031 |
 | Sassy-Bucket | 96 | 98 | 2 | 49% | $12,689,178 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Clippers | Lakers | 1.12 (89¢) | $29,849 | — | ⏳ Pendiente |
 | yabanci | Lakers vs. Clippers: O/U 199.5 | Under 199.5 | 2.00 (50¢) | $30,506 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Seoul: Stefanos Sakellaridis vs Coleman Wong | Coleman Wong | 1.09 (92¢) | $46,472 | — | ⏳ Pendiente |
 | MD14 | Thunder vs. Mavericks: O/U 228.5 | Over 228.5 | 1.64 (61¢) | $25,006 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON - Game 2 Winner | Invictus Gaming | 1.75 (57¢) | $108,333 | -$108,333 | ❌ Perdida |
 | mooseborzoii | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $144,444 | +$144,444 | ✅ Ganada |
 | Sassy-Bucket | Kennesaw State vs. Middle Tennessee | Middle Tennessee | 2.00 (50¢) | $45,596 | -$45,596 | ❌ Perdida |
-| googleplay | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $93,600 | -$93,600 | ❌ Perdida |
