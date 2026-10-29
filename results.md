@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 02:35:04 (hora de Perú)
+Actualizado: 2026-10-29 02:37:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7007**  ($397,824,015 en total)
-- Resueltas: **6970** — 4247 ganadas / 2723 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **6972** — 4247 ganadas / 2725 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 661
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,843,774** sobre $396,250,112 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,322** sobre $687,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$2,908,557** sobre $396,314,894 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,522** sobre $687,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,8 +72,8 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $29,779 | — | ⏳ Pendiente |
-| NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.49 (67¢) | $36,975 | — | ⏳ Pendiente |
-| NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.35 (74¢) | $27,807 | — | ⏳ Pendiente |
+| NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.49 (67¢) | $36,975 | -$36,975 | ❌ Perdida |
+| NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.35 (74¢) | $27,807 | -$27,807 | ❌ Perdida |
 | norrisfan | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $53,992 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: FaZe vs GamerLegion (BO3) - Tesla Cup Playoffs | FaZe | 1.69 (59¢) | $26,550 | — | ⏳ Pendiente |
 | yabanci | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.41 (71¢) | $75,970 | — | ⏳ Pendiente |
