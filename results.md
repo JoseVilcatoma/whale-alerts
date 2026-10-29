@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 02:05:42 (hora de Perú)
+Actualizado: 2026-10-29 02:07:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7006**  ($397,794,236 en total)
+- Apuestas registradas: **7007**  ($397,824,015 en total)
 - Resueltas: **6970** — 4247 ganadas / 2723 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 661
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 500 | 279 | 3 | 64% | $51,282,687 | +$340,720 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 500 | 279 | 4 | 64% | $51,312,466 | +$340,720 |
 | Sassy-Bucket | 96 | 98 | 2 | 49% | $12,689,178 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $29,779 | — | ⏳ Pendiente |
 | NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.49 (67¢) | $36,975 | — | ⏳ Pendiente |
 | NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.35 (74¢) | $27,807 | — | ⏳ Pendiente |
 | norrisfan | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $53,992 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | winner877 | 76ers vs. Pacers | 76ers | 1.39 (72¢) | $26,959 | +$10,484 | ✅ Ganada |
 | jakepaulthegoat2008 | Warriors vs. Timberwolves | Timberwolves | 1.67 (60¢) | $60,000 | -$60,000 | ❌ Perdida |
 | juice-fruit | Hornets vs. Pistons | Pistons | 1.39 (72¢) | $47,450 | +$18,453 | ✅ Ganada |
-| winner877 | 76ers vs. Pacers | 76ers | 1.39 (72¢) | $35,092 | +$13,647 | ✅ Ganada |
