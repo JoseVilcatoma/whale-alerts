@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 18:42:56 (hora de Perú)
+Actualizado: 2026-10-29 18:44:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7062**  ($400,758,134 en total)
+- Apuestas registradas: **7063**  ($400,787,501 en total)
 - Resueltas: **7015** — 4278 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 664
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 501 | 279 | 5 | 64% | $51,416,966 | +$407,002 |
-| Sassy-Bucket | 96 | 98 | 3 | 49% | $12,749,677 | -$1,443,967 |
+| Sassy-Bucket | 96 | 98 | 4 | 49% | $12,779,044 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 109 | 57 | 4 | 66% | $8,212,360 | +$436,996 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 664 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Canadiens vs. Stars | Canadiens | 2.56 (39¢) | $29,367 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Cavaliers vs. Hawks | Hawks | 1.92 (52¢) | $55,827 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blackhawks vs. Red Wings | Red Wings | 1.67 (60¢) | $60,499 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Ben Shelton | 1.45 (69¢) | $69,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 664 en total)_
 | NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.49 (67¢) | $36,975 | -$36,975 | ❌ Perdida |
 | NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.35 (74¢) | $27,807 | -$27,807 | ❌ Perdida |
 | norrisfan | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $53,992 | -$53,992 | ❌ Perdida |
-| Wiretransferxyz | Counter-Strike: FaZe vs GamerLegion (BO3) - Tesla Cup Playoffs | FaZe | 1.69 (59¢) | $26,550 | -$26,550 | ❌ Perdida |
