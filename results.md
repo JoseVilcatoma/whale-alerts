@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 18:20:30 (hora de Perú)
+Actualizado: 2026-10-29 18:22:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7053**  ($400,044,563 en total)
-- Resueltas: **7008** — 4271 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Apuestas registradas: **7054**  ($400,084,834 en total)
+- Resueltas: **7011** — 4274 ganadas / 2737 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 663
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,734,252** sobre $397,978,173 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,956** sobre $691,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$2,676,872** sobre $398,144,581 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,831** sobre $691,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 96 | 98 | 2 | 49% | $12,689,178 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 106 | 57 | 4 | 65% | $8,059,018 | +$356,648 |
+| Lakersfan111 | 108 | 57 | 3 | 65% | $8,099,289 | +$406,244 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 95 | 91 | 0 | 51% | $7,503,793 | -$669,467 |
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | dhgreg | 8 | 18 | 0 | 31% | $2,243,332 | -$1,073,295 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| TAIWANNUMBERONE | 40 | 17 | 1 | 70% | $2,176,369 | -$116,794 |
+| TAIWANNUMBERONE | 41 | 17 | 0 | 71% | $2,176,369 | -$109,010 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
 _(mostrando los 40 de mayor monto, de 663 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.37 (73¢) | $40,271 | — | ⏳ Pendiente |
 | NS13 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.41 (71¢) | $26,583 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Pelicans | Pelicans | 1.45 (69¢) | $51,919 | — | ⏳ Pendiente |
 | Talvez10 | Spread: North Texas (-14.5) | North Texas | 1.96 (51¢) | $56,527 | — | ⏳ Pendiente |
@@ -86,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | Hdisllbsj | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Jerome Kym | 1.79 (56¢) | $26,601 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner | Karmine Corp | 1.33 (75¢) | $92,257 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster - Game 1 Winner | Karmine Corp | 1.43 (70¢) | $25,136 | +$10,773 | ✅ Ganada |
-| TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $33,186 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $33,186 | +$7,784 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $51,350 | +$13,650 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA - Map 2 Winner | FURIA | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $29,164 | +$7,753 | ✅ Ganada |
@@ -115,8 +116,8 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | mooseborzoi | Grizzlies vs. Trail Blazers | Trail Blazers | 1.39 (72¢) | $34,220 | — | ⏳ Pendiente |
 | tennischamp | Swiss Indoors Basel: Valentin Vacherot vs Rafael Jodar | Rafael Jodar | 1.33 (75¢) | $38,284 | -$38,284 | ❌ Perdida |
 | omnibus-076daa | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Playoffs | Natus Vincere | 1.75 (57¢) | $53,128 | -$53,128 | ❌ Perdida |
-| jakepaulthegoat2008 | Game Handicap: KC (-1.5) vs CTBC Flying Oyster (+1.5) | Karmine Corp | 1.79 (56¢) | $33,287 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $99,935 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Game Handicap: KC (-1.5) vs CTBC Flying Oyster (+1.5) | Karmine Corp | 1.79 (56¢) | $33,287 | +$26,154 | ✅ Ganada |
+| jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $99,935 | +$23,442 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | Nemiga | 3.23 (31¢) | $29,779 | +$66,282 | ✅ Ganada |
 | NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.49 (67¢) | $36,975 | -$36,975 | ❌ Perdida |
 | NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.35 (74¢) | $27,807 | -$27,807 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | yabanci | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.43 (70¢) | $74,900 | -$74,900 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Clippers | Lakers | 1.12 (89¢) | $29,849 | +$3,689 | ✅ Ganada |
 | yabanci | Lakers vs. Clippers: O/U 199.5 | Under 199.5 | 2.00 (50¢) | $30,506 | +$30,506 | ✅ Ganada |
-| 01258787xy48487484545122 | Seoul: Stefanos Sakellaridis vs Coleman Wong | Coleman Wong | 1.09 (92¢) | $46,472 | +$4,041 | ✅ Ganada |
