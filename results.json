@@ -105711,5 +105711,35 @@
     "status": "pending",
     "ultimo_fill": 1793291697,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14268,
+    "timestamp": 1793291829,
+    "username": "Kyn008",
+    "wallet": "0xd29312e2446a746bbd94408e1c475f1ec6d7d683",
+    "slug": "sea-fro-lec-2026-10-29-fro",
+    "title": "Will Frosinone Calcio win on 2026-10-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 31006.041000000005,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1793291829,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14269,
+    "timestamp": 1793291855,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "cs2-bb3-furia-2026-10-29",
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 29164.2246,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1793291855,
+    "fills": 1
   }
 ]
