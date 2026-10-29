@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 10:13:12 (hora de Perú)
+Actualizado: 2026-10-29 10:15:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7022**  ($398,654,197 en total)
+- Apuestas registradas: **7023**  ($398,697,284 en total)
 - Resueltas: **6981** — 4250 ganadas / 2731 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 662
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 662 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $43,088 | — | ⏳ Pendiente |
 | Mooseborzoiii | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | FURIA | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $144,900 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Predators (-1.5) | Capitals | 1.43 (70¢) | $25,484 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 662 en total)_
 | mooseborzoii | Spread: Chicago Fire FC (-1.5) | Orlando City SC | 1.92 (52¢) | $45,074 | +$41,606 | ✅ Ganada |
 | Mooseborzoiii | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | LYON | 2.22 (45¢) | $164,504 | -$164,504 | ❌ Perdida |
 | jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Pelicans | Nuggets | 1.67 (60¢) | $60,000 | +$40,000 | ✅ Ganada |
