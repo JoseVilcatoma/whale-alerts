@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 18:57:26 (hora de Perú)
+Actualizado: 2026-10-29 18:59:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7067**  ($401,062,372 en total)
+- Apuestas registradas: **7068**  ($401,094,055 en total)
 - Resueltas: **7015** — 4278 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 665
 
 ### Balance
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | juice-fruit | 25 | 15 | 0 | 62% | $2,306,116 | +$316,802 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| dhgreg | 8 | 18 | 0 | 31% | $2,243,332 | -$1,073,295 |
+| dhgreg | 8 | 18 | 1 | 31% | $2,275,015 | -$1,073,295 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 41 | 17 | 0 | 71% | $2,176,369 | -$109,010 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dhgreg | Spread: Pelicans (-5.5) | Kings | 2.13 (47¢) | $31,683 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Islanders vs. Wild | Wild | 1.52 (66¢) | $82,229 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kings vs. Pelicans | Pelicans | 1.47 (68¢) | $39,262 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Canadiens vs. Stars | Stars | 1.64 (61¢) | $38,279 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | tennischamp | Swiss Indoors Basel: Valentin Vacherot vs Rafael Jodar | Rafael Jodar | 1.33 (75¢) | $38,284 | -$38,284 | ❌ Perdida |
 | omnibus-076daa | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Playoffs | Natus Vincere | 1.75 (57¢) | $53,128 | -$53,128 | ❌ Perdida |
 | jakepaulthegoat2008 | Game Handicap: KC (-1.5) vs CTBC Flying Oyster (+1.5) | Karmine Corp | 1.79 (56¢) | $33,287 | +$26,154 | ✅ Ganada |
-| jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $99,935 | +$23,442 | ✅ Ganada |

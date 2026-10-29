@@ -106223,5 +106223,20 @@
     "status": "pending",
     "ultimo_fill": 1793318174,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 14329,
+    "timestamp": 1793318367,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nba-sac-nop-2026-10-29-spread-home-5pt5",
+    "title": "Spread: Pelicans (-5.5)",
+    "outcome": "Kings",
+    "side": "BUY",
+    "usd": 31683.1183,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1793318367,
+    "fills": 1
   }
 ]
