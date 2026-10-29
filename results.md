@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 17:16:51 (hora de Perú)
+Actualizado: 2026-10-29 17:18:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7041**  ($399,423,234 en total)
+- Apuestas registradas: **7042**  ($399,450,440 en total)
 - Resueltas: **7007** — 4270 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 663
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Kings vs. Pelicans | Pelicans | 1.47 (68¢) | $27,205 | — | ⏳ Pendiente |
 | Hdisllbsj | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Jerome Kym | 1.79 (56¢) | $26,601 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner | Karmine Corp | 1.33 (75¢) | $92,257 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster - Game 1 Winner | Karmine Corp | 1.43 (70¢) | $25,136 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | CHZHSHCH | Heat vs. Hawks | Heat | 1.10 (91¢) | $98,598 | +$9,751 | ✅ Ganada |
 | dhgreg | Spread: Spurs (-12.5) | Jazz | 2.17 (46¢) | $63,888 | +$75,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.54 (65¢) | $29,234 | +$15,741 | ✅ Ganada |
-| googleplay | Hornets vs. Pistons: O/U 199.5 | Over 199.5 | 1.92 (52¢) | $26,344 | -$26,344 | ❌ Perdida |
