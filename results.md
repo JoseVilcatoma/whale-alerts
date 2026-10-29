@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 11:14:16 (hora de Perú)
+Actualizado: 2026-10-29 11:16:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7030**  ($398,974,262 en total)
+- Apuestas registradas: **7031**  ($399,017,233 en total)
 - Resueltas: **6989** — 4256 ganadas / 2733 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 663
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Cavaliers vs. Hawks | Cavaliers | 2.04 (49¢) | $42,971 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $56,142 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $31,460 | — | ⏳ Pendiente |
 | tankfest2027 | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $29,921 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 663 en total)_
 | KaneAnalytics | Heat vs. Hawks | Heat | 1.27 (79¢) | $35,932 | +$9,552 | ✅ Ganada |
 | googleplay | Nuggets vs. Pelicans | Pelicans | 2.50 (40¢) | $74,457 | -$74,457 | ❌ Perdida |
 | theowalcott | Will Nashville SC win on 2026-10-28? | No | 1.92 (52¢) | $35,827 | +$33,071 | ✅ Ganada |
-| googleplay | Knicks vs. Bulls: O/U 233.5 | Over 233.5 | 1.92 (52¢) | $51,848 | +$47,860 | ✅ Ganada |

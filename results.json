@@ -105666,5 +105666,20 @@
     "status": "pending",
     "ultimo_fill": 1793287665,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 14265,
+    "timestamp": 1793290554,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "nba-cle-atl-2026-10-29",
+    "title": "Cavaliers vs. Hawks",
+    "outcome": "Cavaliers",
+    "side": "BUY",
+    "usd": 42970.7796,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793290554,
+    "fills": 1
   }
 ]
