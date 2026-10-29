@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 01:20:42 (hora de Perú)
+Actualizado: 2026-10-29 01:22:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7004**  ($397,729,453 en total)
+- Apuestas registradas: **7005**  ($397,757,260 en total)
 - Resueltas: **6970** — 4247 ganadas / 2723 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 661
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NS13 | Guangzhou Open: Jil Teichmann vs Zeynep Sonmez | Zeynep Sonmez | 1.35 (74¢) | $27,807 | — | ⏳ Pendiente |
 | norrisfan | Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs | FUT Esports | 1.45 (69¢) | $53,992 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: FaZe vs GamerLegion (BO3) - Tesla Cup Playoffs | FaZe | 1.69 (59¢) | $26,550 | — | ⏳ Pendiente |
 | yabanci | Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.41 (71¢) | $75,970 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | juice-fruit | Hornets vs. Pistons | Pistons | 1.39 (72¢) | $47,450 | +$18,453 | ✅ Ganada |
 | winner877 | 76ers vs. Pacers | 76ers | 1.39 (72¢) | $35,092 | +$13,647 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kennesaw State vs. Middle Tennessee: O/U 49.5 | Over 49.5 | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
-| tennischamp | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.75 (57¢) | $72,220 | +$54,482 | ✅ Ganada |
