@@ -104163,7 +104163,7 @@
     "side": "BUY",
     "usd": 45390.11459999999,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793226596,
     "fills": 1
   },
@@ -104178,7 +104178,7 @@
     "side": "BUY",
     "usd": 129000.0,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793226756,
     "fills": 1
   },
@@ -104208,7 +104208,7 @@
     "side": "BUY",
     "usd": 26582.3433,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793227209,
     "fills": 1
   },
@@ -104328,7 +104328,7 @@
     "side": "BUY",
     "usd": 498484.5874000001,
     "odds_at_bet": 78,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793228172,
     "fills": 2
   },
@@ -104823,7 +104823,7 @@
     "side": "BUY",
     "usd": 35932.2178,
     "odds_at_bet": 79,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793232243,
     "fills": 1
   },
@@ -104988,7 +104988,7 @@
     "side": "BUY",
     "usd": 98598.4454,
     "odds_at_bet": 91,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793234864,
     "fills": 2
   },
@@ -105048,7 +105048,7 @@
     "side": "BUY",
     "usd": 25480.0,
     "odds_at_bet": 91,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793236355,
     "fills": 1
   },
@@ -105080,6 +105080,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1793237015,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14154,
+    "timestamp": 1793238250,
+    "username": "thetesterguy",
+    "wallet": "0xad494094e355999ad09bd07e51861c2a1541c53e",
+    "slug": "mls-chi-orl-2026-10-28-total-2pt5",
+    "title": "Chicago Fire FC vs. Orlando City SC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 27538.50801,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1793238250,
     "fills": 1
   }
 ]

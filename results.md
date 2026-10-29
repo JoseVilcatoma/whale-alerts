@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-28 20:44:06 (hora de Perú)
+Actualizado: 2026-10-28 20:46:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **6991**  ($397,175,622 en total)
-- Resueltas: **6896** — 4201 ganadas / 2695 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Apuestas registradas: **6992**  ($397,203,161 en total)
+- Resueltas: **6903** — 4206 ganadas / 2697 perdidas (**61%** de acierto)
+- Pendientes: 67
 - Apostadores distintos: 660
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,794,814** sobre $391,528,212 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$6,987** sobre $679,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,533,365** sobre $392,387,680 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,980** sobre $680,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 493 | 276 | 12 | 64% | $51,252,838 | +$137,979 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 494 | 276 | 11 | 64% | $51,252,838 | +$308,979 |
 | Sassy-Bucket | 96 | 96 | 4 | 50% | $12,689,178 | -$1,277,318 |
-| googleplay | 38 | 26 | 15 | 59% | $9,966,039 | +$242,065 |
+| googleplay | 39 | 28 | 12 | 58% | $9,966,039 | +$310,691 |
 | mooseborzoii | 105 | 56 | 5 | 65% | $9,498,318 | +$1,144,338 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| thetesterguy | Chicago Fire FC vs. Orlando City SC: O/U 2.5 | Over 2.5 | 1.09 (92¢) | $27,539 | — | ⏳ Pendiente |
 | ethanaz | Spread: Nuggets (-10.5) | Nuggets | 2.00 (50¢) | $50,058 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-10.5) | Nuggets | 2.08 (48¢) | $43,072 | — | ⏳ Pendiente |
-| KaneAnalytics | Heat vs. Hawks | Heat | 1.10 (91¢) | $25,480 | — | ⏳ Pendiente |
+| KaneAnalytics | Heat vs. Hawks | Heat | 1.10 (91¢) | $25,480 | +$2,520 | ✅ Ganada |
 | keeptheblueflagflyinghigh | 76ers vs. Pacers | Pacers | 1.25 (80¢) | $37,129 | — | ⏳ Pendiente |
 | dhgreg | Spread: Spurs (-11.5) | Jazz | 2.27 (44¢) | $74,800 | — | ⏳ Pendiente |
 | googleplay | Spurs vs. Jazz: O/U 232.5 | Under 232.5 | 1.96 (51¢) | $148,079 | — | ⏳ Pendiente |
-| CHZHSHCH | Heat vs. Hawks | Heat | 1.10 (91¢) | $98,598 | — | ⏳ Pendiente |
+| CHZHSHCH | Heat vs. Hawks | Heat | 1.10 (91¢) | $98,598 | +$9,751 | ✅ Ganada |
 | dhgreg | Spread: Spurs (-12.5) | Jazz | 2.17 (46¢) | $63,888 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.54 (65¢) | $29,234 | — | ⏳ Pendiente |
 | googleplay | Hornets vs. Pistons: O/U 199.5 | Over 199.5 | 1.92 (52¢) | $26,344 | — | ⏳ Pendiente |
@@ -88,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Timberwolves | Timberwolves | 1.75 (57¢) | $62,700 | — | ⏳ Pendiente |
 | wollao | Milwaukee Brewers vs. Tampa Bay Rays | Milwaukee Brewers | 1.72 (58¢) | $36,813 | — | ⏳ Pendiente |
 | yabanci | Warriors vs. Timberwolves | Timberwolves | 1.72 (58¢) | $62,060 | — | ⏳ Pendiente |
-| KaneAnalytics | Heat vs. Hawks | Heat | 1.27 (79¢) | $35,932 | — | ⏳ Pendiente |
+| KaneAnalytics | Heat vs. Hawks | Heat | 1.27 (79¢) | $35,932 | +$9,552 | ✅ Ganada |
 | googleplay | Nuggets vs. Pelicans | Pelicans | 2.50 (40¢) | $74,457 | — | ⏳ Pendiente |
 | theowalcott | Will Nashville SC win on 2026-10-28? | No | 1.92 (52¢) | $35,827 | — | ⏳ Pendiente |
 | googleplay | Knicks vs. Bulls: O/U 233.5 | Over 233.5 | 1.92 (52¢) | $51,848 | — | ⏳ Pendiente |
@@ -121,7 +122,7 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Raptors (-4.5) | Magic | 2.13 (47¢) | $104,208 | — | ⏳ Pendiente |
 | googleplay | Spread: Raptors (-4.5) | Raptors | 1.89 (53¢) | $320,438 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: 76ers (-6.5) | 76ers | 1.85 (54¢) | $121,052 | — | ⏳ Pendiente |
-| googleplay | Wizards vs. Cavaliers | Cavaliers | 1.28 (78¢) | $498,485 | — | ⏳ Pendiente |
+| googleplay | Wizards vs. Cavaliers | Cavaliers | 1.28 (78¢) | $498,485 | +$140,598 | ✅ Ganada |
 | Mooseborzoiii | LoL: Invictus Gaming vs LYON - Game 2 Winner | LYON | 2.33 (43¢) | $73,100 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Invictus Gaming vs LYON - Game 2 Winner | Invictus Gaming | 1.75 (57¢) | $108,333 | — | ⏳ Pendiente |
 | mooseborzoii | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $144,444 | — | ⏳ Pendiente |
@@ -129,5 +130,4 @@ _(mostrando los 40 de mayor monto, de 660 en total)_
 | googleplay | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $93,600 | -$93,600 | ❌ Perdida |
 | jakepaulthegoat2008 | Hornets vs. Pistons | Pistons | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | justwins | Kennesaw State vs. Middle Tennessee | Kennesaw State | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
-| googleplay | Heat vs. Hawks | Hawks | 1.75 (57¢) | $26,582 | — | ⏳ Pendiente |
-| BrotherObama | Spread: Hawks (-2.5) | Hawks | 1.92 (52¢) | $30,000 | -$30,000 | ❌ Perdida |
+| googleplay | Heat vs. Hawks | Hawks | 1.75 (57¢) | $26,582 | -$26,582 | ❌ Perdida |
