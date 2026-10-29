@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 08:12:56 (hora de Perú)
+Actualizado: 2026-10-29 08:14:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7014**  ($398,154,794 en total)
+- Apuestas registradas: **7015**  ($398,253,990 en total)
 - Resueltas: **6978** — 4249 ganadas / 2729 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 661
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.56 (64¢) | $99,196 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.59 (63¢) | $33,426 | — | ⏳ Pendiente |
 | juice-fruit | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | Aurora Gaming | 2.63 (38¢) | $38,499 | — | ⏳ Pendiente |
 | mooseborzoi | Grizzlies vs. Trail Blazers | Trail Blazers | 1.39 (72¢) | $34,220 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 661 en total)_
 | yabanci | Spread: Nuggets (-4.5) | Nuggets | 2.08 (48¢) | $51,360 | +$55,640 | ✅ Ganada |
 | googleplay | Spread: Nuggets (-4.5) | Pelicans | 1.92 (52¢) | $86,424 | -$86,424 | ❌ Perdida |
 | wangyou1288 | LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage | Invictus Gaming | 1.67 (60¢) | $52,387 | +$34,925 | ✅ Ganada |
-| googleplay | Rockets vs. Bucks: O/U 226.5 | Over 226.5 | 1.92 (52¢) | $162,106 | +$149,636 | ✅ Ganada |
