@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 10:02:34 (hora de Perú)
+Actualizado: 2026-10-30 10:04:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7096**  ($402,246,998 en total)
+- Apuestas registradas: **7097**  ($402,276,268 en total)
 - Resueltas: **7060** — 4296 ganadas / 2764 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 665
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.67 (60¢) | $29,270 | — | ⏳ Pendiente |
 | Mooseborzoiii | Map Handicap: MOUZ (-1.5) vs FURIA (+1.5) | FURIA | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.44 (41¢) | $53,300 | — | ⏳ Pendiente |
 | Mooseborzoiii | Map Handicap: MOUZ (-1.5) vs FURIA (+1.5) | FURIA | 1.49 (67¢) | $53,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner | Karmine Corp | 1.33 (75¢) | $92,257 | +$30,752 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster - Game 1 Winner | Karmine Corp | 1.43 (70¢) | $25,136 | +$10,773 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $33,186 | +$7,784 | ✅ Ganada |
-| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $51,350 | +$13,650 | ✅ Ganada |
