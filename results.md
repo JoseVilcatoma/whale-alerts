@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 19:16:08 (hora de Perú)
+Actualizado: 2026-10-29 19:18:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7076**  ($401,378,781 en total)
+- Apuestas registradas: **7077**  ($401,403,984 en total)
 - Resueltas: **7016** — 4278 ganadas / 2738 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 665
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | Mooseborzoiii | 35 | 19 | 2 | 65% | $5,407,121 | +$985,790 |
-| ethanaz | 61 | 27 | 0 | 69% | $5,284,122 | -$220,938 |
+| ethanaz | 61 | 27 | 1 | 69% | $5,309,325 | -$220,938 |
 | BrotherObama | 49 | 53 | 3 | 48% | $4,553,584 | -$148,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Kch-Temp | 44 | 15 | 1 | 75% | $3,905,494 | +$1,717,767 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Panthers vs. Packers | Panthers | 2.13 (47¢) | $25,203 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Pelicans (-6.5) | Kings | 1.92 (52¢) | $51,975 | — | ⏳ Pendiente |
 | surfandturf | Panthers vs. Packers | Packers | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Packers (-3.5) | Panthers | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | ferrariChampions2026 | Spread: Predators (-1.5) | Capitals | 1.43 (70¢) | $25,484 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $97,318 | +$59,647 | ✅ Ganada |
 | tennischamp | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.43 (70¢) | $30,575 | +$13,103 | ✅ Ganada |
-| 0xB985b597F5598a975C42032749386D765826B70d-1781959038065 | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.45 (69¢) | $25,734 | +$11,562 | ✅ Ganada |
