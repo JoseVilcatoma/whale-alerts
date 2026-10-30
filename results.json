@@ -107135,11 +107135,11 @@
     "title": "Spread: Knicks (-3.5)",
     "outcome": "Knicks",
     "side": "BUY",
-    "usd": 107214.63130000001,
+    "usd": 214429.26260000002,
     "odds_at_bet": 49,
     "status": "pending",
-    "ultimo_fill": 1793402118,
-    "fills": 2
+    "ultimo_fill": 1793402008,
+    "fills": 4
   },
   {
     "telegram_msg_id": 14446,
@@ -107150,11 +107150,11 @@
     "title": "LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "usd": 136669.9716,
+    "usd": 224758.0232,
     "odds_at_bet": 68,
     "status": "pending",
-    "ultimo_fill": 1793402116,
-    "fills": 3
+    "ultimo_fill": 1793402044,
+    "fills": 5
   },
   {
     "telegram_msg_id": 14447,
@@ -107240,11 +107240,11 @@
     "title": "Spread: Raptors (-5.5)",
     "outcome": "Raptors",
     "side": "BUY",
-    "usd": 53319.1932,
+    "usd": 214769.6435107462,
     "odds_at_bet": 52,
     "status": "pending",
-    "ultimo_fill": 1793402763,
-    "fills": 1
+    "ultimo_fill": 1793402607,
+    "fills": 3
   },
   {
     "telegram_msg_id": 14456,
@@ -107259,6 +107259,51 @@
     "odds_at_bet": 66,
     "status": "pending",
     "ultimo_fill": 1793402898,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14457,
+    "timestamp": 1793402731,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-nyk-phi-2026-10-30-spread-away-3pt5",
+    "title": "Spread: Knicks (-3.5)",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 164366.87399999998,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793402731,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14458,
+    "timestamp": 1793402103,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-hle1-g2-2026-10-30-game-handicap-away-1pt5",
+    "title": "Game Handicap: HLE (-1.5) vs G2 Esports (+1.5)",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 48588.05209999999,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793402103,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14459,
+    "timestamp": 1793402056,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-hle1-g2-2026-10-30-game1",
+    "title": "LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 64972.301909744616,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "ultimo_fill": 1793402056,
     "fills": 1
   }
 ]
