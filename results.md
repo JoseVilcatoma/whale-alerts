@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 16:40:19 (hora de Perú)
+Actualizado: 2026-10-30 16:42:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7111**  ($402,897,351 en total)
+- Apuestas registradas: **7112**  ($402,929,242 en total)
 - Resueltas: **7071** — 4305 ganadas / 2766 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 669
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 669 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fhiwbijd | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | LOS | 3.12 (32¢) | $31,891 | — | ⏳ Pendiente |
 | texaskid | Spread: Knicks (-3.5) | 76ers | 1.96 (51¢) | $93,279 | — | ⏳ Pendiente |
 | RJW1 | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $48,153 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Clippers vs. Timberwolves | Timberwolves | 1.41 (71¢) | $74,932 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 669 en total)_
 | omnibus-076daa | Bruins vs. Blues | Blues | 1.96 (51¢) | $65,724 | +$63,146 | ✅ Ganada |
 | jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.37 (73¢) | $40,271 | -$40,271 | ❌ Perdida |
 | NS13 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.41 (71¢) | $26,583 | -$26,583 | ❌ Perdida |
-| jakepaulthegoat2008 | Kings vs. Pelicans | Pelicans | 1.45 (69¢) | $51,919 | +$23,326 | ✅ Ganada |
