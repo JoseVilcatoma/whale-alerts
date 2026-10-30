@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 18:41:49 (hora de Perú)
+Actualizado: 2026-10-30 18:43:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7141**  ($405,130,528 en total)
+- Apuestas registradas: **7143**  ($405,258,892 en total)
 - Resueltas: **7081** — 4309 ganadas / 2772 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 40
 - Apostadores distintos: 672
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 41 | 17 | 0 | 71% | $2,176,369 | -$109,010 |
-| SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
+| KaneAnalytics | 32 | 15 | 1 | 68% | $2,010,553 | -$22,066 |
 
 _(mostrando los 40 de mayor monto, de 672 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Baylor vs. UCF | Baylor | 1.82 (55¢) | $38,337 | — | ⏳ Pendiente |
+| DonaldinhoTrumpito | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.11 (90¢) | $90,027 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Nuggets vs. Suns | Suns | 2.56 (39¢) | $36,187 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Rockets vs. Mavericks | Rockets | 1.52 (66¢) | $56,086 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Magic vs. Raptors | Raptors | 1.52 (66¢) | $29,573 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 | mbmbbbmbv | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.20 (83¢) | $59,216 | -$59,216 | ❌ Perdida |
 | Kch-Temp | Erste Bank Open: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $26,550 | +$7,930 | ✅ Ganada |
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.89 (53¢) | $57,744 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.25 (80¢) | $39,996 | -$39,996 | ❌ Perdida |
-| trustfundking | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.22 (82¢) | $29,727 | -$29,727 | ❌ Perdida |

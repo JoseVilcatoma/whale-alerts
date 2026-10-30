@@ -107335,5 +107335,35 @@
     "status": "pending",
     "ultimo_fill": 1793403677,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14467,
+    "timestamp": 1793403719,
+    "username": "DonaldinhoTrumpito",
+    "wallet": "0x7523cafcee7bcf2db9a79d80e0d79b88a9a54c4c",
+    "slug": "lol-hle1-g2-2026-10-30",
+    "title": "LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 90026.784,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1793403719,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14468,
+    "timestamp": 1793403829,
+    "username": "KaneAnalytics",
+    "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+    "slug": "cfb-bayl-ucf-2026-10-30",
+    "title": "Baylor vs. UCF",
+    "outcome": "Baylor",
+    "side": "BUY",
+    "usd": 38337.046,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1793403829,
+    "fills": 1
   }
 ]
