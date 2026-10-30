@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 16:55:07 (hora de Perú)
+Actualizado: 2026-10-30 16:57:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7113**  ($402,993,640 en total)
+- Apuestas registradas: **7115**  ($403,116,008 en total)
 - Resueltas: **7072** — 4306 ganadas / 2766 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 21
 - Apostadores distintos: 669
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 98 | 98 | 3 | 50% | $12,843,443 | -$1,357,701 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 112 | 59 | 3 | 65% | $8,380,460 | +$425,019 |
+| Lakersfan111 | 112 | 59 | 4 | 65% | $8,407,697 | +$425,019 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 96 | 91 | 0 | 51% | $7,543,055 | -$650,990 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 669 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $95,132 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.45 (69¢) | $27,237 | — | ⏳ Pendiente |
 | Sassy-Bucket | Devils vs. Golden Knights | Golden Knights | 1.92 (52¢) | $64,398 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | LOS | 3.12 (32¢) | $31,891 | — | ⏳ Pendiente |
 | texaskid | Spread: Knicks (-3.5) | 76ers | 1.96 (51¢) | $93,279 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 669 en total)_
 | Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.28 (78¢) | $285,464 | -$285,464 | ❌ Perdida |
 | jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.32 (76¢) | $57,244 | -$57,244 | ❌ Perdida |
 | LinkE5 | LoL: Top Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Bilibili Gaming | 1.10 (91¢) | $51,366 | -$51,366 | ❌ Perdida |
-| omnibus-076daa | Bruins vs. Blues | Blues | 1.96 (51¢) | $65,724 | +$63,146 | ✅ Ganada |
-| jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.37 (73¢) | $40,271 | -$40,271 | ❌ Perdida |
