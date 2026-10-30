@@ -106870,5 +106870,20 @@
     "status": "pending",
     "ultimo_fill": 1793393662,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14423,
+    "timestamp": 1793393770,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "nba-nyk-phi-2026-10-30-spread-away-3pt5",
+    "title": "Spread: Knicks (-3.5)",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 93279.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793393770,
+    "fills": 1
   }
 ]
