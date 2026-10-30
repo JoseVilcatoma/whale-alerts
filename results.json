@@ -107230,5 +107230,35 @@
     "status": "pending",
     "ultimo_fill": 1793402506,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14452,
+    "timestamp": 1793402606,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-orl-tor-2026-10-30-spread-home-5pt5",
+    "title": "Spread: Raptors (-5.5)",
+    "outcome": "Raptors",
+    "side": "BUY",
+    "usd": 81540.82190000001,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793402710,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 14453,
+    "timestamp": 1793402687,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "nba-orl-tor-2026-10-30-spread-home-5pt5",
+    "title": "Spread: Raptors (-5.5)",
+    "outcome": "Magic",
+    "side": "BUY",
+    "usd": 51360.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1793402687,
+    "fills": 1
   }
 ]
