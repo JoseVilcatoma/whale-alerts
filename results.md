@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 18:15:01 (hora de Perú)
+Actualizado: 2026-10-30 18:17:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7130**  ($403,953,129 en total)
+- Apuestas registradas: **7131**  ($404,079,475 en total)
 - Resueltas: **7076** — 4308 ganadas / 2768 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 672
 
 ### Balance
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 503 | 281 | 5 | 64% | $51,641,462 | +$375,110 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 503 | 281 | 5 | 64% | $51,683,962 | +$375,110 |
 | Sassy-Bucket | 98 | 98 | 5 | 50% | $12,942,636 | -$1,357,701 |
-| googleplay | 47 | 32 | 2 | 59% | $10,072,901 | +$987,090 |
+| googleplay | 47 | 32 | 2 | 59% | $10,106,216 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 112 | 59 | 5 | 65% | $8,474,516 | +$425,019 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 110 | 57 | 0 | 66% | $7,202,084 | +$202,004 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Mooseborzoiii | 41 | 20 | 3 | 67% | $5,859,785 | +$1,006,285 |
+| Mooseborzoiii | 41 | 20 | 4 | 67% | $5,910,317 | +$1,006,285 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,9 +71,10 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.96 (51¢) | $50,532 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.49 (67¢) | $91,722 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.47 (68¢) | $94,170 | — | ⏳ Pendiente |
-| googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $73,900 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.47 (68¢) | $136,670 | — | ⏳ Pendiente |
+| googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $107,215 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $42,934 | — | ⏳ Pendiente |
 | googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $32,962 | — | ⏳ Pendiente |
 | 0x709179E7392e59922Ab2D73cb1141698b30096f8-1773173619816 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $49,175 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 | mooseborzoi | Spread: Packers (-3.5) | Panthers | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Panthers vs. Packers: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $25,089 | -$25,089 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Panthers vs. Packers: O/U 48.5 | Over 48.5 | 2.27 (44¢) | $25,792 | -$25,792 | ❌ Perdida |
-| KaneAnalytics | Florida Atlantic vs. North Texas | Florida Atlantic | 3.85 (26¢) | $36,773 | -$36,773 | ❌ Perdida |
