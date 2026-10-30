@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 12:01:30 (hora de Perú)
+Actualizado: 2026-10-30 14:50:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7100**  ($402,367,766 en total)
-- Resueltas: **7061** — 4297 ganadas / 2764 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **7070** — 4304 ganadas / 2766 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 666
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,385,696** sobre $400,689,803 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,329** sobre $696,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,134,568** sobre $401,057,090 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,937** sobre $697,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,12 +38,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| Mooseborzoiii | 36 | 20 | 6 | 64% | $5,719,333 | +$714,326 |
+| Mooseborzoiii | 41 | 20 | 1 | 67% | $5,719,333 | +$1,006,285 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 61 | 28 | 0 | 69% | $5,309,325 | -$246,141 |
 | BrotherObama | 50 | 53 | 2 | 49% | $4,553,584 | -$106,735 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
-| Kch-Temp | 44 | 15 | 2 | 75% | $3,932,043 | +$1,717,767 |
+| Kch-Temp | 45 | 15 | 1 | 75% | $3,932,043 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 35 | 10 | 0 | 78% | $3,574,490 | +$477,568 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
@@ -71,22 +71,22 @@ _(mostrando los 40 de mayor monto, de 666 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Vps1 | Brest: Martin Damm vs Clement Tabur | Martin Damm | 1.27 (79¢) | $29,631 | — | ⏳ Pendiente |
+| Vps1 | Brest: Martin Damm vs Clement Tabur | Martin Damm | 1.27 (79¢) | $29,631 | +$7,877 | ✅ Ganada |
 | 999585 | Swiss Indoors Basel: Taylor Fritz vs Arthur Fils | Taylor Fritz | 1.15 (87¢) | $36,867 | +$5,509 | ✅ Ganada |
 | monkeymashingkeyboard | Magic vs. Raptors: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| omnibus-076daa | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.67 (60¢) | $29,270 | — | ⏳ Pendiente |
-| Mooseborzoiii | Map Handicap: MOUZ (-1.5) vs FURIA (+1.5) | FURIA | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.44 (41¢) | $53,300 | — | ⏳ Pendiente |
-| Mooseborzoiii | Map Handicap: MOUZ (-1.5) vs FURIA (+1.5) | FURIA | 1.49 (67¢) | $53,600 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.44 (41¢) | $90,112 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.50 (40¢) | $30,657 | — | ⏳ Pendiente |
+| omnibus-076daa | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.67 (60¢) | $29,270 | -$29,270 | ❌ Perdida |
+| Mooseborzoiii | Map Handicap: MOUZ (-1.5) vs FURIA (+1.5) | FURIA | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
+| Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.44 (41¢) | $53,300 | +$76,700 | ✅ Ganada |
+| Mooseborzoiii | Map Handicap: MOUZ (-1.5) vs FURIA (+1.5) | FURIA | 1.49 (67¢) | $53,600 | +$26,400 | ✅ Ganada |
+| Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.44 (41¢) | $90,112 | +$129,673 | ✅ Ganada |
+| Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.50 (40¢) | $30,657 | +$45,985 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Imperial vs paiN (BO3) - Gamers Club Masters Group B | Imperial | 1.41 (71¢) | $26,146 | — | ⏳ Pendiente |
 | RJW1 | Knicks vs. 76ers | Knicks | 1.89 (53¢) | $104,670 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.67 (60¢) | $27,368 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.67 (60¢) | $27,368 | -$27,368 | ❌ Perdida |
 | omnibus-076daa | Dota 2: Team Spirit vs PARIVISION (BO3) - PARI Universe Playoffs | PARIVISION | 1.85 (54¢) | $27,173 | -$27,173 | ❌ Perdida |
 | 4217893367451 | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.22 (82¢) | $32,572 | -$32,572 | ❌ Perdida |
 | mbmbbbmbv | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.20 (83¢) | $59,216 | -$59,216 | ❌ Perdida |
-| Kch-Temp | Erste Bank Open: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $26,550 | — | ⏳ Pendiente |
+| Kch-Temp | Erste Bank Open: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $26,550 | +$7,930 | ✅ Ganada |
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.89 (53¢) | $57,744 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.25 (80¢) | $39,996 | — | ⏳ Pendiente |
 | trustfundking | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.22 (82¢) | $29,727 | -$29,727 | ❌ Perdida |
