@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 09:56:33 (hora de Perú)
+Actualizado: 2026-10-30 09:58:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7095**  ($402,220,198 en total)
+- Apuestas registradas: **7096**  ($402,246,998 en total)
 - Resueltas: **7060** — 4296 ganadas / 2764 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 665
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| Mooseborzoiii | 36 | 20 | 5 | 64% | $5,692,533 | +$714,326 |
+| Mooseborzoiii | 36 | 20 | 6 | 64% | $5,719,333 | +$714,326 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 61 | 28 | 0 | 69% | $5,309,325 | -$246,141 |
 | BrotherObama | 50 | 53 | 2 | 49% | $4,553,584 | -$106,735 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | Map Handicap: MOUZ (-1.5) vs FURIA (+1.5) | FURIA | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.44 (41¢) | $53,300 | — | ⏳ Pendiente |
 | Mooseborzoiii | Map Handicap: MOUZ (-1.5) vs FURIA (+1.5) | FURIA | 1.49 (67¢) | $53,600 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.44 (41¢) | $90,112 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster - Game 1 Winner | Karmine Corp | 1.43 (70¢) | $25,136 | +$10,773 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage | Karmine Corp | 1.23 (81¢) | $33,186 | +$7,784 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $51,350 | +$13,650 | ✅ Ganada |
-| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA - Map 2 Winner | FURIA | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
