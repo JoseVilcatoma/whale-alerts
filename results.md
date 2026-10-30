@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 09:35:57 (hora de Perú)
+Actualizado: 2026-10-30 09:38:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7091**  ($401,992,529 en total)
+- Apuestas registradas: **7092**  ($402,023,186 en total)
 - Resueltas: **7060** — 4296 ganadas / 2764 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 665
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Mooseborzoiii | 36 | 20 | 1 | 64% | $5,464,864 | +$714,326 |
+| Mooseborzoiii | 36 | 20 | 2 | 64% | $5,495,521 | +$714,326 |
 | ethanaz | 61 | 28 | 0 | 69% | $5,309,325 | -$246,141 |
 | BrotherObama | 50 | 53 | 2 | 49% | $4,553,584 | -$106,735 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.50 (40¢) | $30,657 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Imperial vs paiN (BO3) - Gamers Club Masters Group B | Imperial | 1.41 (71¢) | $26,146 | — | ⏳ Pendiente |
 | RJW1 | Knicks vs. 76ers | Knicks | 1.89 (53¢) | $104,670 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.67 (60¢) | $27,368 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $29,164 | +$7,753 | ✅ Ganada |
 | Kyn008 | Will Frosinone Calcio win on 2026-10-29? | Yes | 1.82 (55¢) | $31,006 | +$25,369 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.27 (79¢) | $41,080 | +$10,920 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: HOTU vs GamerLegion (BO3) - Tesla Cup Playoffs | GamerLegion | 1.92 (52¢) | $48,721 | -$48,721 | ❌ Perdida |
