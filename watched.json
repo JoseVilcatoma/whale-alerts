@@ -43,16 +43,12 @@
     "username": "balthazar",
     "added_at": 1792474943.4600887
   },
-  "0x8bac34bb7b51b4d63b128eb711d76706efdc35ca": {
-    "username": "akroll",
-    "added_at": 1792715090.6187851
-  },
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": {
     "username": "primm",
     "added_at": 1792715993.124628
   },
   "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": {
-    "username": "glm4.1.fund",
+    "username": "qwen300.fund",
     "added_at": 1792736669.2610414
   },
   "0xc1b5f266564e6d4907cf84bdf5a8f91621ef5d85": {
@@ -210,5 +206,13 @@
   "0xfd2b117412a698f322b0cd18d6827dad262b8e50": {
     "username": "surf",
     "added_at": 1793319368.548682
+  },
+  "0x03805a13a0b3e058f55f6c6af95389d4f431073d": {
+    "username": "donthackme",
+    "added_at": 1793320270.793203
+  },
+  "0x67542c3219b37fd1610aad290676ff91cdbfe3bc": {
+    "username": "gmpm2",
+    "added_at": 1793320270.793203
   }
 }
