@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 17:18:00 (hora de Perú)
+Actualizado: 2026-10-30 17:20:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7117**  ($403,246,157 en total)
-- Resueltas: **7074** — 4307 ganadas / 2767 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **7076** — 4308 ganadas / 2768 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 669
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,146,581** sobre $401,214,566 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,787** sobre $697,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,131,489** sobre $401,293,813 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,798** sobre $697,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,10 +83,10 @@ _(mostrando los 40 de mayor monto, de 669 en total)_
 | Wal1 | Knicks vs. 76ers | Knicks | 1.69 (59¢) | $35,618 | — | ⏳ Pendiente |
 | Pvblo | Will Villarreal CF win on 2026-10-30? | Yes | 1.43 (70¢) | $78,658 | -$78,658 | ❌ Perdida |
 | Woaifacai | Will Lille OSC win on 2026-10-30? | Yes | 2.70 (37¢) | $27,006 | +$45,984 | ✅ Ganada |
-| SparYel | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Under 2.5 | 1.89 (53¢) | $50,000 | — | ⏳ Pendiente |
+| SparYel | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Under 2.5 | 1.89 (53¢) | $50,000 | +$44,340 | ✅ Ganada |
 | jakepaulthegoat2008 | Game Handicap: TL (-1.5) vs LOS (+1.5) | Team Liquid | 1.82 (55¢) | $27,027 | — | ⏳ Pendiente |
 | HVAB | Curitiba: Francesca Jones vs Nauhany Leme Da Silva | Nauhany Leme Da Silva | 1.39 (72¢) | $25,666 | +$9,981 | ✅ Ganada |
-| otsosiusa | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $29,247 | — | ⏳ Pendiente |
+| otsosiusa | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $29,247 | -$29,247 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Hornets vs. Wizards | Wizards | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | Vps1 | Brest: Martin Damm vs Clement Tabur | Martin Damm | 1.27 (79¢) | $29,631 | +$7,877 | ✅ Ganada |
 | 999585 | Swiss Indoors Basel: Taylor Fritz vs Arthur Fils | Taylor Fritz | 1.15 (87¢) | $36,867 | +$5,509 | ✅ Ganada |
