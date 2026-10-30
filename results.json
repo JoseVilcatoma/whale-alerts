@@ -107065,5 +107065,20 @@
     "status": "pending",
     "ultimo_fill": 1793401068,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14441,
+    "timestamp": 1793401161,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-harv-dart-2026-10-30",
+    "title": "Harvard vs. Dartmouth",
+    "outcome": "Harvard",
+    "side": "BUY",
+    "usd": 35864.4,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1793401161,
+    "fills": 1
   }
 ]
