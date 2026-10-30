@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 09:31:51 (hora de Perú)
+Actualizado: 2026-10-30 09:33:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7091**  ($401,992,529 en total)
-- Resueltas: **7057** — 4296 ganadas / 2761 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **7060** — 4296 ganadas / 2764 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 665
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,269,689** sobre $400,531,420 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,044** sobre $695,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,391,205** sobre $400,652,936 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,344** sobre $696,000 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,12 +75,12 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | RJW1 | Knicks vs. 76ers | Knicks | 1.89 (53¢) | $104,670 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.67 (60¢) | $27,368 | — | ⏳ Pendiente |
 | omnibus-076daa | Dota 2: Team Spirit vs PARIVISION (BO3) - PARI Universe Playoffs | PARIVISION | 1.85 (54¢) | $27,173 | -$27,173 | ❌ Perdida |
-| 4217893367451 | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.22 (82¢) | $32,572 | — | ⏳ Pendiente |
-| mbmbbbmbv | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.20 (83¢) | $59,216 | — | ⏳ Pendiente |
+| 4217893367451 | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.22 (82¢) | $32,572 | -$32,572 | ❌ Perdida |
+| mbmbbbmbv | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.20 (83¢) | $59,216 | -$59,216 | ❌ Perdida |
 | Kch-Temp | Erste Bank Open: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $26,550 | — | ⏳ Pendiente |
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.89 (53¢) | $57,744 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.25 (80¢) | $39,996 | — | ⏳ Pendiente |
-| trustfundking | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.22 (82¢) | $29,727 | — | ⏳ Pendiente |
+| trustfundking | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.22 (82¢) | $29,727 | -$29,727 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Senators vs. Kings | Senators | 1.85 (54¢) | $38,373 | -$38,373 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Sabres vs. Ducks | Sabres | 1.69 (59¢) | $27,410 | +$19,048 | ✅ Ganada |
 | Anon455 | Panthers vs. Packers | Packers | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
