@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 17:56:31 (hora de Perú)
+Actualizado: 2026-10-30 17:58:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7122**  ($403,482,401 en total)
+- Apuestas registradas: **7123**  ($403,532,401 en total)
 - Resueltas: **7076** — 4308 ganadas / 2768 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 671
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 671 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| arjennnnn | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $50,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.89 (53¢) | $48,730 | — | ⏳ Pendiente |
 | freeman123 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $43,450 | — | ⏳ Pendiente |
 | horrocrux | Queretaro: Nadia Podoroska vs Carole Monnet | Nadia Podoroska | 1.49 (67¢) | $85,167 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 671 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kings vs. Pelicans | Pelicans | 1.47 (68¢) | $39,262 | +$18,476 | ✅ Ganada |
 | Multicoloured-Serf | Canadiens vs. Stars | Stars | 1.64 (61¢) | $38,279 | -$38,279 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Capitals vs. Predators | Capitals | 1.96 (51¢) | $115,101 | +$110,587 | ✅ Ganada |
-| Sassy-Bucket | Canadiens vs. Stars | Canadiens | 2.56 (39¢) | $29,367 | +$45,933 | ✅ Ganada |
