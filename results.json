@@ -107185,5 +107185,35 @@
     "status": "pending",
     "ultimo_fill": 1793402102,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14449,
+    "timestamp": 1793402447,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-hou-dal-2026-10-30",
+    "title": "Rockets vs. Mavericks",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 45745.414,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1793402447,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14450,
+    "timestamp": 1793402461,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-orl-tor-2026-10-30-spread-home-5pt5",
+    "title": "Spread: Raptors (-5.5)",
+    "outcome": "Raptors",
+    "side": "BUY",
+    "usd": 27461.7966,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793402461,
+    "fills": 1
   }
 ]

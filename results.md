@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 18:19:02 (hora de Perú)
+Actualizado: 2026-10-30 18:21:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7131**  ($404,079,475 en total)
+- Apuestas registradas: **7133**  ($404,152,682 en total)
 - Resueltas: **7076** — 4308 ganadas / 2768 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 35
 - Apostadores distintos: 672
 
 ### Balance
@@ -26,9 +26,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 503 | 281 | 5 | 64% | $51,683,962 | +$375,110 |
 | Sassy-Bucket | 98 | 98 | 5 | 50% | $12,942,636 | -$1,357,701 |
-| googleplay | 47 | 32 | 2 | 59% | $10,106,216 | +$987,090 |
+| googleplay | 47 | 32 | 3 | 59% | $10,133,677 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 112 | 59 | 5 | 65% | $8,474,516 | +$425,019 |
+| Lakersfan111 | 112 | 59 | 6 | 65% | $8,520,262 | +$425,019 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 96 | 91 | 0 | 51% | $7,543,055 | -$650,990 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Raptors (-5.5) | Raptors | 1.96 (51¢) | $27,462 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Rockets vs. Mavericks | Rockets | 1.54 (65¢) | $45,745 | — | ⏳ Pendiente |
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.96 (51¢) | $50,532 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.49 (67¢) | $91,722 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.47 (68¢) | $136,670 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 | keeptheblueflagflyinghigh | Spread: Pelicans (-6.5) | Kings | 1.92 (52¢) | $51,975 | -$51,975 | ❌ Perdida |
 | surfandturf | Panthers vs. Packers | Packers | 1.56 (64¢) | $32,000 | +$9,000 | 💰 Vendida antes |
 | mooseborzoi | Spread: Packers (-3.5) | Panthers | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Panthers vs. Packers: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $25,089 | -$25,089 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Panthers vs. Packers: O/U 48.5 | Over 48.5 | 2.27 (44¢) | $25,792 | -$25,792 | ❌ Perdida |
