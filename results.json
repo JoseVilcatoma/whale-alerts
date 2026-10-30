@@ -106525,5 +106525,20 @@
     "status": "pending",
     "ultimo_fill": 1793360881,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14384,
+    "timestamp": 1793362839,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "dota2-ts8-pari-2026-10-30",
+    "title": "Dota 2: Team Spirit vs PARIVISION (BO3) - PARI Universe Playoffs",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 27172.939999999995,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793362839,
+    "fills": 1
   }
 ]

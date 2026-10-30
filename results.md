@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 07:19:41 (hora de Perú)
+Actualizado: 2026-10-30 07:21:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7087**  ($401,807,173 en total)
+- Apuestas registradas: **7088**  ($401,834,346 en total)
 - Resueltas: **7056** — 4296 ganadas / 2760 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 665
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Dota 2: Team Spirit vs PARIVISION (BO3) - PARI Universe Playoffs | PARIVISION | 1.85 (54¢) | $27,173 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.22 (82¢) | $32,572 | — | ⏳ Pendiente |
 | mbmbbbmbv | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.20 (83¢) | $59,216 | — | ⏳ Pendiente |
 | Kch-Temp | Erste Bank Open: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $26,550 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Cavaliers vs. Hawks | Cavaliers | 2.04 (49¢) | $42,971 | -$42,971 | ❌ Perdida |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $56,142 | +$32,972 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $31,460 | +$18,477 | ✅ Ganada |
-| tankfest2027 | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $29,921 | +$18,339 | ✅ Ganada |
