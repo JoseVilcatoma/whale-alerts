@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 17:54:28 (hora de Perú)
+Actualizado: 2026-10-30 17:56:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7121**  ($403,433,671 en total)
+- Apuestas registradas: **7122**  ($403,482,401 en total)
 - Resueltas: **7076** — 4308 ganadas / 2768 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 671
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| Mooseborzoiii | 41 | 20 | 1 | 67% | $5,719,333 | +$1,006,285 |
+| Mooseborzoiii | 41 | 20 | 2 | 67% | $5,768,063 | +$1,006,285 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 61 | 28 | 0 | 69% | $5,309,325 | -$246,141 |
 | BrotherObama | 50 | 53 | 2 | 49% | $4,553,584 | -$106,735 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 671 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.89 (53¢) | $48,730 | — | ⏳ Pendiente |
 | freeman123 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $43,450 | — | ⏳ Pendiente |
 | horrocrux | Queretaro: Nadia Podoroska vs Carole Monnet | Nadia Podoroska | 1.49 (67¢) | $85,167 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Rockets vs. Mavericks | Mavericks | 2.78 (36¢) | $26,501 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 671 en total)_
 | Multicoloured-Serf | Canadiens vs. Stars | Stars | 1.64 (61¢) | $38,279 | -$38,279 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Capitals vs. Predators | Capitals | 1.96 (51¢) | $115,101 | +$110,587 | ✅ Ganada |
 | Sassy-Bucket | Canadiens vs. Stars | Canadiens | 2.56 (39¢) | $29,367 | +$45,933 | ✅ Ganada |
-| jakepaulthegoat2008 | Cavaliers vs. Hawks | Hawks | 1.92 (52¢) | $55,827 | +$51,533 | ✅ Ganada |

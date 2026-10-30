@@ -107035,5 +107035,20 @@
     "status": "pending",
     "ultimo_fill": 1793400581,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14439,
+    "timestamp": 1793400917,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "lol-hle1-g2-2026-10-30-game-handicap-away-1pt5",
+    "title": "Game Handicap: HLE (-1.5) vs G2 Esports (+1.5)",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 48729.8218,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1793400917,
+    "fills": 1
   }
 ]
