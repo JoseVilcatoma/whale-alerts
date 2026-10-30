@@ -106570,5 +106570,20 @@
     "status": "pending",
     "ultimo_fill": 1793370228,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14388,
+    "timestamp": 1793370699,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-imp11-pain-2026-10-30",
+    "title": "Counter-Strike: Imperial vs paiN (BO3) - Gamers Club Masters Group B",
+    "outcome": "Imperial",
+    "side": "BUY",
+    "usd": 26145.686100000003,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1793370699,
+    "fills": 1
   }
 ]
