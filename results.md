@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 18:37:47 (hora de Perú)
+Actualizado: 2026-10-30 18:39:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7140**  ($405,094,341 en total)
-- Resueltas: **7076** — 4308 ganadas / 2768 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Resueltas: **7081** — 4309 ganadas / 2772 perdidas (**61%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 672
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,131,489** sobre $401,293,813 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,798** sobre $697,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,224,800** sobre $401,486,782 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,985** sobre $698,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 98 | 98 | 6 | 50% | $13,110,636 | -$1,357,701 |
 | googleplay | 47 | 32 | 5 | 59% | $10,620,029 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 112 | 59 | 7 | 65% | $8,585,234 | +$425,019 |
+| Lakersfan111 | 112 | 63 | 3 | 64% | $8,585,234 | +$263,940 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 96 | 91 | 0 | 51% | $7,543,055 | -$650,990 |
@@ -94,12 +94,12 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 | horrocrux | Queretaro: Nadia Podoroska vs Carole Monnet | Nadia Podoroska | 1.49 (67¢) | $85,167 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Rockets vs. Mavericks | Mavericks | 2.78 (36¢) | $26,501 | — | ⏳ Pendiente |
 | PrimeOasis1987 | Spread: Rockets (-6.5) | Mavericks | 1.96 (51¢) | $32,397 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.35 (74¢) | $39,641 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.35 (74¢) | $39,641 | -$39,641 | ❌ Perdida |
 | Sassy-Bucket | Devils vs. Golden Knights | Golden Knights | 1.92 (52¢) | $63,329 | — | ⏳ Pendiente |
 | RJW1 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $95,132 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.43 (70¢) | $54,414 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.43 (70¢) | $54,414 | -$54,414 | ❌ Perdida |
 | Sassy-Bucket | Devils vs. Golden Knights | Golden Knights | 1.92 (52¢) | $64,398 | — | ⏳ Pendiente |
-| fhiwbijd | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | LOS | 3.12 (32¢) | $31,891 | — | ⏳ Pendiente |
+| fhiwbijd | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | LOS | 3.12 (32¢) | $31,891 | +$67,768 | ✅ Ganada |
 | texaskid | Spread: Knicks (-3.5) | 76ers | 1.96 (51¢) | $93,279 | — | ⏳ Pendiente |
 | RJW1 | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $48,153 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Clippers vs. Timberwolves | Timberwolves | 1.41 (71¢) | $74,932 | — | ⏳ Pendiente |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 | Pvblo | Will Villarreal CF win on 2026-10-30? | Yes | 1.43 (70¢) | $78,658 | -$78,658 | ❌ Perdida |
 | Woaifacai | Will Lille OSC win on 2026-10-30? | Yes | 2.70 (37¢) | $27,006 | +$45,984 | ✅ Ganada |
 | SparYel | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Under 2.5 | 1.89 (53¢) | $50,000 | +$44,340 | ✅ Ganada |
-| jakepaulthegoat2008 | Game Handicap: TL (-1.5) vs LOS (+1.5) | Team Liquid | 1.82 (55¢) | $27,027 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Game Handicap: TL (-1.5) vs LOS (+1.5) | Team Liquid | 1.82 (55¢) | $27,027 | -$27,027 | ❌ Perdida |
 | HVAB | Curitiba: Francesca Jones vs Nauhany Leme Da Silva | Nauhany Leme Da Silva | 1.39 (72¢) | $25,666 | +$9,981 | ✅ Ganada |
 | otsosiusa | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $29,247 | -$29,247 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Hornets vs. Wizards | Wizards | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
@@ -128,6 +128,6 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 | mbmbbbmbv | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.20 (83¢) | $59,216 | -$59,216 | ❌ Perdida |
 | Kch-Temp | Erste Bank Open: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $26,550 | +$7,930 | ✅ Ganada |
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.89 (53¢) | $57,744 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.25 (80¢) | $39,996 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.25 (80¢) | $39,996 | -$39,996 | ❌ Perdida |
 | trustfundking | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.22 (82¢) | $29,727 | -$29,727 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Senators vs. Kings | Senators | 1.85 (54¢) | $38,373 | -$38,373 | ❌ Perdida |
