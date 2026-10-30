@@ -106238,5 +106238,35 @@
     "status": "pending",
     "ultimo_fill": 1793318367,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14330,
+    "timestamp": 1793318373,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nba-sac-nop-2026-10-29-spread-home-6pt5",
+    "title": "Spread: Pelicans (-6.5)",
+    "outcome": "Kings",
+    "side": "BUY",
+    "usd": 33396.7176,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793318373,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14331,
+    "timestamp": 1793318386,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "nhl-nyi-min-2026-10-29",
+    "title": "Islanders vs. Wild",
+    "outcome": "Wild",
+    "side": "BUY",
+    "usd": 29700.0,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1793318386,
+    "fills": 1
   }
 ]
