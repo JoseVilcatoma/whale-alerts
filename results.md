@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 01:33:52 (hora de Perú)
+Actualizado: 2026-10-30 01:35:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7083**  ($401,631,091 en total)
+- Apuestas registradas: **7084**  ($401,688,835 en total)
 - Resueltas: **7056** — 4296 ganadas / 2760 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 665
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Mooseborzoiii | 36 | 20 | 0 | 64% | $5,407,121 | +$714,326 |
+| Mooseborzoiii | 36 | 20 | 1 | 64% | $5,464,864 | +$714,326 |
 | ethanaz | 61 | 28 | 0 | 69% | $5,309,325 | -$246,141 |
 | BrotherObama | 50 | 53 | 2 | 49% | $4,553,584 | -$106,735 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.89 (53¢) | $57,744 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.25 (80¢) | $39,996 | — | ⏳ Pendiente |
 | trustfundking | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.22 (82¢) | $29,727 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Senators vs. Kings | Senators | 1.85 (54¢) | $38,373 | -$38,373 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | norrisfan | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.70 (37¢) | $29,439 | -$29,439 | ❌ Perdida |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $27,052 | +$15,888 | ✅ Ganada |
 | juice-fruit | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.63 (38¢) | $75,243 | -$75,243 | ❌ Perdida |
-| 0xc1a9273b15a17d21AF09DddB42b9239B93D4e2Db-1777826537793 | Guayaquil: Diego Dedura-Palomero vs Valerio Aboian | Diego Dedura-Palomero | 1.30 (77¢) | $27,721 | -$27,721 | ❌ Perdida |
