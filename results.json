@@ -106115,7 +106115,7 @@
     "side": "BUY",
     "usd": 69000.0,
     "odds_at_bet": 69,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793316610,
     "fills": 1
   },
@@ -106297,6 +106297,36 @@
     "odds_at_bet": 44,
     "status": "pending",
     "ultimo_fill": 1793318902,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14334,
+    "timestamp": 1793319195,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nfl-car-gb-2026-10-30-spread-home-3pt5",
+    "title": "Spread: Packers (-3.5)",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 50000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793319195,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14335,
+    "timestamp": 1793319195,
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+    "slug": "nfl-car-gb-2026-10-30-total-46pt5",
+    "title": "Panthers vs. Packers: O/U 46.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25089.48,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793319195,
     "fills": 1
   }
 ]

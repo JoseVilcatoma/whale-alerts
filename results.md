@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 19:11:57 (hora de Perú)
+Actualizado: 2026-10-29 19:14:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7072**  ($401,219,717 en total)
-- Resueltas: **7015** — 4278 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Apuestas registradas: **7074**  ($401,294,807 en total)
+- Resueltas: **7016** — 4278 ganadas / 2738 perdidas (**61%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 665
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,610,892** sobre $398,522,637 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,781** sobre $691,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,679,892** sobre $398,591,637 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,881** sobre $691,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 501 | 279 | 6 | 64% | $51,442,758 | +$407,002 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 501 | 280 | 5 | 64% | $51,442,758 | +$338,002 |
 | Sassy-Bucket | 96 | 98 | 4 | 49% | $12,779,044 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: Packers (-3.5) | Panthers | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Panthers vs. Packers: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $25,089 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Panthers vs. Packers: O/U 48.5 | Over 48.5 | 2.27 (44¢) | $25,792 | — | ⏳ Pendiente |
 | KaneAnalytics | Florida Atlantic vs. North Texas | Florida Atlantic | 3.85 (26¢) | $36,773 | — | ⏳ Pendiente |
 | Talvez10 | Islanders vs. Wild | Wild | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
@@ -83,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | Sassy-Bucket | Canadiens vs. Stars | Canadiens | 2.56 (39¢) | $29,367 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Cavaliers vs. Hawks | Hawks | 1.92 (52¢) | $55,827 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blackhawks vs. Red Wings | Red Wings | 1.67 (60¢) | $60,499 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Ben Shelton | 1.45 (69¢) | $69,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Ben Shelton | 1.45 (69¢) | $69,000 | -$69,000 | ❌ Perdida |
 | PEYZ-BIGGEST-FAN | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.28 (78¢) | $28,175 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.28 (78¢) | $285,464 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.32 (76¢) | $57,244 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | 0xB985b597F5598a975C42032749386D765826B70d-1781959038065 | Erste Bank Open: Cameron Norrie vs Daniil Medvedev | Daniil Medvedev | 1.45 (69¢) | $25,734 | +$11,562 | ✅ Ganada |
 | omnibus-076daa | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.54 (65¢) | $39,196 | +$21,106 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.56 (64¢) | $99,196 | +$55,798 | ✅ Ganada |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.59 (63¢) | $33,426 | +$19,631 | ✅ Ganada |
-| juice-fruit | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | Aurora Gaming | 2.63 (38¢) | $38,499 | -$38,499 | ❌ Perdida |
