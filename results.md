@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 03:47:24 (hora de Perú)
+Actualizado: 2026-10-30 03:49:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7084**  ($401,688,835 en total)
+- Apuestas registradas: **7085**  ($401,715,385 en total)
 - Resueltas: **7056** — 4296 ganadas / 2760 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 665
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 61 | 28 | 0 | 69% | $5,309,325 | -$246,141 |
 | BrotherObama | 50 | 53 | 2 | 49% | $4,553,584 | -$106,735 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
-| Kch-Temp | 44 | 15 | 1 | 75% | $3,905,494 | +$1,717,767 |
+| Kch-Temp | 44 | 15 | 2 | 75% | $3,932,043 | +$1,717,767 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 35 | 10 | 0 | 78% | $3,574,490 | +$477,568 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Erste Bank Open: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $26,550 | — | ⏳ Pendiente |
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.89 (53¢) | $57,744 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.25 (80¢) | $39,996 | — | ⏳ Pendiente |
 | trustfundking | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.22 (82¢) | $29,727 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | tankfest2027 | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $29,921 | +$18,339 | ✅ Ganada |
 | norrisfan | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.70 (37¢) | $29,439 | -$29,439 | ❌ Perdida |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $27,052 | +$15,888 | ✅ Ganada |
-| juice-fruit | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | BetBoom Team | 2.63 (38¢) | $75,243 | -$75,243 | ❌ Perdida |
