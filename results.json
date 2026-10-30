@@ -106450,5 +106450,20 @@
     "status": "pending",
     "ultimo_fill": 1793339543,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14378,
+    "timestamp": 1793340010,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-tl2-los-2026-10-30",
+    "title": "LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 39996.0,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1793340010,
+    "fills": 1
   }
 ]
