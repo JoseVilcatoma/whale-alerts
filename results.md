@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 15:13:10 (hora de Perú)
+Actualizado: 2026-10-30 15:15:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7106**  ($402,566,712 en total)
+- Apuestas registradas: **7108**  ($402,680,988 en total)
 - Resueltas: **7070** — 4304 ganadas / 2766 perdidas (**61%** de acierto)
-- Pendientes: 14
-- Apostadores distintos: 667
+- Pendientes: 16
+- Apostadores distintos: 669
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 41 | 17 | 0 | 71% | $2,176,369 | -$109,010 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
-_(mostrando los 40 de mayor monto, de 667 en total)_
+_(mostrando los 40 de mayor monto, de 669 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Wal1 | Knicks vs. 76ers | Knicks | 1.69 (59¢) | $35,618 | — | ⏳ Pendiente |
+| Pvblo | Will Villarreal CF win on 2026-10-30? | Yes | 1.43 (70¢) | $78,658 | — | ⏳ Pendiente |
 | Woaifacai | Will Lille OSC win on 2026-10-30? | Yes | 2.70 (37¢) | $27,006 | — | ⏳ Pendiente |
 | SparYel | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Under 2.5 | 1.89 (53¢) | $50,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Game Handicap: TL (-1.5) vs LOS (+1.5) | Team Liquid | 1.82 (55¢) | $27,027 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 667 en total)_
 | Talvez10 | Spread: North Texas (-14.5) | North Texas | 1.96 (51¢) | $56,527 | -$56,527 | ❌ Perdida |
 | yesmate | Sioux Falls: Liam Draxl vs Daniil Ostapenkov | Liam Draxl | 1.08 (93¢) | $93,000 | +$7,000 | ✅ Ganada |
 | tenniz | Sioux Falls: Liam Draxl vs Daniil Ostapenkov | Liam Draxl | 1.09 (92¢) | $166,198 | +$14,452 | ✅ Ganada |
-| ferrariChampions2026 | Florida Atlantic vs. North Texas | North Texas | 1.20 (83¢) | $30,248 | +$6,195 | ✅ Ganada |
-| BrotherObama | Bruins vs. Blues | Blues | 1.96 (51¢) | $43,015 | +$41,329 | ✅ Ganada |

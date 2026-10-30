@@ -106810,5 +106810,35 @@
     "status": "pending",
     "ultimo_fill": 1793390197,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14418,
+    "timestamp": 1793391263,
+    "username": "Pvblo",
+    "wallet": "0x4230db382ca5bc595c5cc3e554901d348a000ebc",
+    "slug": "lal-vil-esp-2026-10-30-vil",
+    "title": "Will Villarreal CF win on 2026-10-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 78657.549998,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1793391263,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 14419,
+    "timestamp": 1793391305,
+    "username": "Wal1",
+    "wallet": "0xa5aa873702c0b28480246b6b474d48cb12869134",
+    "slug": "nba-nyk-phi-2026-10-30",
+    "title": "Knicks vs. 76ers",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 35617.7292,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1793391305,
+    "fills": 1
   }
 ]
