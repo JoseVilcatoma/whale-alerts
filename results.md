@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 15:48:34 (hora de Perú)
+Actualizado: 2026-10-30 15:50:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7109**  ($402,755,919 en total)
-- Resueltas: **7070** — 4304 ganadas / 2766 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **7071** — 4305 ganadas / 2766 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 669
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,134,568** sobre $401,057,090 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,937** sobre $697,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,124,587** sobre $401,082,756 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,898** sobre $697,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 669 en total)_
 | Woaifacai | Will Lille OSC win on 2026-10-30? | Yes | 2.70 (37¢) | $27,006 | — | ⏳ Pendiente |
 | SparYel | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Under 2.5 | 1.89 (53¢) | $50,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Game Handicap: TL (-1.5) vs LOS (+1.5) | Team Liquid | 1.82 (55¢) | $27,027 | — | ⏳ Pendiente |
-| HVAB | Curitiba: Francesca Jones vs Nauhany Leme Da Silva | Nauhany Leme Da Silva | 1.39 (72¢) | $25,666 | — | ⏳ Pendiente |
+| HVAB | Curitiba: Francesca Jones vs Nauhany Leme Da Silva | Nauhany Leme Da Silva | 1.39 (72¢) | $25,666 | +$9,981 | ✅ Ganada |
 | otsosiusa | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $29,247 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Hornets vs. Wizards | Wizards | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | Vps1 | Brest: Martin Damm vs Clement Tabur | Martin Damm | 1.27 (79¢) | $29,631 | +$7,877 | ✅ Ganada |
