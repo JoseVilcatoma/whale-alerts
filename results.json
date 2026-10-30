@@ -106975,5 +106975,20 @@
     "status": "pending",
     "ultimo_fill": 1793397650,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14435,
+    "timestamp": 1793399736,
+    "username": "PrimeOasis1987",
+    "wallet": "0x8c5e8ccd19eba2b566b1af96a698debd5cf1a114",
+    "slug": "nba-hou-dal-2026-10-30-spread-away-6pt5",
+    "title": "Spread: Rockets (-6.5)",
+    "outcome": "Mavericks",
+    "side": "BUY",
+    "usd": 32396.6739,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793399736,
+    "fills": 1
   }
 ]
