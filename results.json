@@ -106990,5 +106990,35 @@
     "status": "pending",
     "ultimo_fill": 1793399736,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14436,
+    "timestamp": 1793399898,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "nba-hou-dal-2026-10-30",
+    "title": "Rockets vs. Mavericks",
+    "outcome": "Mavericks",
+    "side": "BUY",
+    "usd": 26501.2458,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "ultimo_fill": 1793399898,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14437,
+    "timestamp": 1793399914,
+    "username": "horrocrux",
+    "wallet": "0xa31c26cb45331da8389bece7a1250fceb5d6bdf7",
+    "slug": "wta-podoros-monnet-2026-10-30",
+    "title": "Queretaro: Nadia Podoroska vs Carole Monnet",
+    "outcome": "Nadia Podoroska",
+    "side": "BUY",
+    "usd": 85166.585299,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1793399936,
+    "fills": 2
   }
 ]
