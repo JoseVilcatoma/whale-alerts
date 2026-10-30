@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 20:32:13 (hora de Perú)
+Actualizado: 2026-10-29 20:34:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7079**  ($401,495,584 en total)
-- Resueltas: **7019** — 4280 ganadas / 2739 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **7020** — 4281 ganadas / 2739 perdidas (**61%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 665
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,680,392** sobre $398,692,137 apostados (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,671,392** sobre $398,724,137 apostados (ROI **-0.7%**)
 - Copiando $100 fijo en cada una: **-$5,901** sobre $692,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Kch-Temp | 44 | 15 | 1 | 75% | $3,905,494 | +$1,717,767 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| surfandturf | 34 | 10 | 1 | 77% | $3,574,490 | +$468,568 |
+| surfandturf | 35 | 10 | 0 | 78% | $3,574,490 | +$477,568 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | cosmicxbt | 22 | 8 | 0 | 73% | $3,221,830 | -$294,238 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. Hawks | Hawks | 1.79 (56¢) | $61,600 | — | ⏳ Pendiente |
 | ethanaz | Panthers vs. Packers | Panthers | 2.13 (47¢) | $25,203 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Pelicans (-6.5) | Kings | 1.92 (52¢) | $51,975 | — | ⏳ Pendiente |
-| surfandturf | Panthers vs. Packers | Packers | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
+| surfandturf | Panthers vs. Packers | Packers | 1.56 (64¢) | $32,000 | +$9,000 | 💰 Vendida antes |
 | mooseborzoi | Spread: Packers (-3.5) | Panthers | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Panthers vs. Packers: O/U 46.5 | Over 46.5 | 1.92 (52¢) | $25,089 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Panthers vs. Packers: O/U 48.5 | Over 48.5 | 2.27 (44¢) | $25,792 | — | ⏳ Pendiente |
