@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 17:48:21 (hora de Perú)
+Actualizado: 2026-10-30 17:50:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7120**  ($403,390,221 en total)
+- Apuestas registradas: **7121**  ($403,433,671 en total)
 - Resueltas: **7076** — 4308 ganadas / 2768 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 671
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 671 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| freeman123 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $43,450 | — | ⏳ Pendiente |
 | horrocrux | Queretaro: Nadia Podoroska vs Carole Monnet | Nadia Podoroska | 1.49 (67¢) | $85,167 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Rockets vs. Mavericks | Mavericks | 2.78 (36¢) | $26,501 | — | ⏳ Pendiente |
 | PrimeOasis1987 | Spread: Rockets (-6.5) | Mavericks | 1.96 (51¢) | $32,397 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 671 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Capitals vs. Predators | Capitals | 1.96 (51¢) | $115,101 | +$110,587 | ✅ Ganada |
 | Sassy-Bucket | Canadiens vs. Stars | Canadiens | 2.56 (39¢) | $29,367 | +$45,933 | ✅ Ganada |
 | jakepaulthegoat2008 | Cavaliers vs. Hawks | Hawks | 1.92 (52¢) | $55,827 | +$51,533 | ✅ Ganada |
-| Sassy-Bucket | Blackhawks vs. Red Wings | Red Wings | 1.67 (60¢) | $60,499 | +$40,333 | ✅ Ganada |

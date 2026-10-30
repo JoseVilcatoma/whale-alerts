@@ -107020,5 +107020,20 @@
     "status": "pending",
     "ultimo_fill": 1793399936,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 14438,
+    "timestamp": 1793400581,
+    "username": "freeman123",
+    "wallet": "0xb70c4f38ce25d986a9da3f3190cbae87660934ca",
+    "slug": "lol-hle1-g2-2026-10-30",
+    "title": "LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 43450.0,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1793400581,
+    "fills": 1
   }
 ]
