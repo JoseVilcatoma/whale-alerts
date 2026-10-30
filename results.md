@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 20:40:27 (hora de Perú)
+Actualizado: 2026-10-29 20:42:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7079**  ($401,495,584 en total)
-- Resueltas: **7020** — 4281 ganadas / 2739 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Resueltas: **7025** — 4281 ganadas / 2744 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 665
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,671,392** sobre $398,724,137 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,901** sobre $692,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,109,129** sobre $399,161,875 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,401** sobre $692,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 96 | 98 | 4 | 49% | $12,779,044 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 109 | 57 | 4 | 66% | $8,212,360 | +$436,996 |
+| Lakersfan111 | 109 | 59 | 2 | 65% | $8,212,360 | +$339,481 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 95 | 91 | 1 | 51% | $7,543,055 | -$669,467 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Mooseborzoiii | 36 | 19 | 1 | 65% | $5,407,121 | +$999,790 |
+| Mooseborzoiii | 36 | 20 | 0 | 64% | $5,407,121 | +$714,326 |
 | ethanaz | 61 | 27 | 1 | 69% | $5,309,325 | -$220,938 |
 | BrotherObama | 49 | 53 | 3 | 48% | $4,553,584 | -$148,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
@@ -91,13 +91,13 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | jakepaulthegoat2008 | Cavaliers vs. Hawks | Hawks | 1.92 (52¢) | $55,827 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blackhawks vs. Red Wings | Red Wings | 1.67 (60¢) | $60,499 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Ben Shelton | 1.45 (69¢) | $69,000 | -$69,000 | ❌ Perdida |
-| PEYZ-BIGGEST-FAN | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.28 (78¢) | $28,175 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.28 (78¢) | $285,464 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.32 (76¢) | $57,244 | — | ⏳ Pendiente |
+| PEYZ-BIGGEST-FAN | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.28 (78¢) | $28,175 | -$28,175 | ❌ Perdida |
+| Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.28 (78¢) | $285,464 | -$285,464 | ❌ Perdida |
+| jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.32 (76¢) | $57,244 | -$57,244 | ❌ Perdida |
 | LinkE5 | LoL: Top Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Bilibili Gaming | 1.10 (91¢) | $51,366 | — | ⏳ Pendiente |
 | omnibus-076daa | Bruins vs. Blues | Blues | 1.96 (51¢) | $65,724 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.37 (73¢) | $40,271 | — | ⏳ Pendiente |
-| NS13 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.41 (71¢) | $26,583 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.37 (73¢) | $40,271 | -$40,271 | ❌ Perdida |
+| NS13 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.41 (71¢) | $26,583 | -$26,583 | ❌ Perdida |
 | jakepaulthegoat2008 | Kings vs. Pelicans | Pelicans | 1.45 (69¢) | $51,919 | — | ⏳ Pendiente |
 | Talvez10 | Spread: North Texas (-14.5) | North Texas | 1.96 (51¢) | $56,527 | — | ⏳ Pendiente |
 | yesmate | Sioux Falls: Liam Draxl vs Daniil Ostapenkov | Liam Draxl | 1.08 (93¢) | $93,000 | +$7,000 | ✅ Ganada |
