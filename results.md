@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 19:03:40 (hora de Perú)
+Actualizado: 2026-10-29 19:05:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7070**  ($401,157,152 en total)
+- Apuestas registradas: **7071**  ($401,193,925 en total)
 - Resueltas: **7015** — 4278 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 665
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KaneAnalytics | Florida Atlantic vs. North Texas | Florida Atlantic | 3.85 (26¢) | $36,773 | — | ⏳ Pendiente |
 | Talvez10 | Islanders vs. Wild | Wild | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | dhgreg | Spread: Pelicans (-6.5) | Kings | 1.96 (51¢) | $33,397 | — | ⏳ Pendiente |
 | dhgreg | Spread: Pelicans (-5.5) | Kings | 2.13 (47¢) | $31,683 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.59 (63¢) | $33,426 | +$19,631 | ✅ Ganada |
 | juice-fruit | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | Aurora Gaming | 2.63 (38¢) | $38,499 | -$38,499 | ❌ Perdida |
 | mooseborzoi | Grizzlies vs. Trail Blazers | Trail Blazers | 1.39 (72¢) | $34,220 | — | ⏳ Pendiente |
-| tennischamp | Swiss Indoors Basel: Valentin Vacherot vs Rafael Jodar | Rafael Jodar | 1.33 (75¢) | $38,284 | -$38,284 | ❌ Perdida |
