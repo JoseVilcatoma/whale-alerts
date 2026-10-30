@@ -106795,5 +106795,20 @@
     "status": "pending",
     "ultimo_fill": 1793390066,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14417,
+    "timestamp": 1793390197,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "fl1-lil-rcl-2026-10-30-lil",
+    "title": "Will Lille OSC win on 2026-10-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 27006.3851,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1793390197,
+    "fills": 1
   }
 ]
