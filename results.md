@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 14:50:48 (hora de Perú)
+Actualizado: 2026-10-30 14:52:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7100**  ($402,367,766 en total)
+- Apuestas registradas: **7102**  ($402,420,459 en total)
 - Resueltas: **7070** — 4304 ganadas / 2766 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 10
 - Apostadores distintos: 666
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 98 | 98 | 2 | 50% | $12,779,044 | -$1,357,701 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 111 | 59 | 2 | 65% | $8,278,502 | +$414,339 |
+| Lakersfan111 | 111 | 59 | 3 | 65% | $8,305,529 | +$414,339 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 96 | 91 | 0 | 51% | $7,543,055 | -$650,990 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 666 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Game Handicap: TL (-1.5) vs LOS (+1.5) | Team Liquid | 1.82 (55¢) | $27,027 | — | ⏳ Pendiente |
+| HVAB | Curitiba: Francesca Jones vs Nauhany Leme Da Silva | Nauhany Leme Da Silva | 1.39 (72¢) | $25,666 | — | ⏳ Pendiente |
 | Vps1 | Brest: Martin Damm vs Clement Tabur | Martin Damm | 1.27 (79¢) | $29,631 | +$7,877 | ✅ Ganada |
 | 999585 | Swiss Indoors Basel: Taylor Fritz vs Arthur Fils | Taylor Fritz | 1.15 (87¢) | $36,867 | +$5,509 | ✅ Ganada |
 | monkeymashingkeyboard | Magic vs. Raptors: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 666 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 1.41 (71¢) | $35,500 | +$14,500 | ✅ Ganada |
 | vtcchampion52 | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Top Esports | 3.45 (29¢) | $29,000 | -$29,000 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Wild (-1.5) | Islanders | 1.69 (59¢) | $26,134 | +$18,161 | ✅ Ganada |
-| monkeymashingkeyboard | Kings vs. Pelicans | Pelicans | 1.47 (68¢) | $27,205 | +$12,803 | ✅ Ganada |
-| Hdisllbsj | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Jerome Kym | 1.79 (56¢) | $26,601 | +$13,776 | 💰 Vendida antes |
