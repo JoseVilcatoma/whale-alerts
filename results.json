@@ -106690,5 +106690,20 @@
     "status": "pending",
     "ultimo_fill": 1793372964,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14399,
+    "timestamp": 1793376170,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "atp-fritz-fils-2026-10-30",
+    "title": "Swiss Indoors Basel: Taylor Fritz vs Arthur Fils",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 36866.8068,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1793376170,
+    "fills": 1
   }
 ]
