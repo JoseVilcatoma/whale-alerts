@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 11:55:14 (hora de Perú)
+Actualizado: 2026-10-30 11:57:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7100**  ($402,367,766 en total)
-- Resueltas: **7060** — 4296 ganadas / 2764 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **7061** — 4297 ganadas / 2764 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 666
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,391,205** sobre $400,652,936 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,344** sobre $696,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,385,696** sobre $400,689,803 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,329** sobre $696,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 666 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Vps1 | Brest: Martin Damm vs Clement Tabur | Martin Damm | 1.27 (79¢) | $29,631 | — | ⏳ Pendiente |
-| 999585 | Swiss Indoors Basel: Taylor Fritz vs Arthur Fils | Taylor Fritz | 1.15 (87¢) | $36,867 | — | ⏳ Pendiente |
+| 999585 | Swiss Indoors Basel: Taylor Fritz vs Arthur Fils | Taylor Fritz | 1.15 (87¢) | $36,867 | +$5,509 | ✅ Ganada |
 | monkeymashingkeyboard | Magic vs. Raptors: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.67 (60¢) | $29,270 | — | ⏳ Pendiente |
 | Mooseborzoiii | Map Handicap: MOUZ (-1.5) vs FURIA (+1.5) | FURIA | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
