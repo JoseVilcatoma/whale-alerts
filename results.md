@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 08:58:43 (hora de Perú)
+Actualizado: 2026-10-30 09:00:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7088**  ($401,834,346 en total)
-- Resueltas: **7056** — 4296 ganadas / 2760 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **7057** — 4296 ganadas / 2761 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 665
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,242,516** sobre $400,504,247 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,944** sobre $695,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,269,689** sobre $400,531,420 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,044** sobre $695,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| omnibus-076daa | Dota 2: Team Spirit vs PARIVISION (BO3) - PARI Universe Playoffs | PARIVISION | 1.85 (54¢) | $27,173 | — | ⏳ Pendiente |
+| omnibus-076daa | Dota 2: Team Spirit vs PARIVISION (BO3) - PARI Universe Playoffs | PARIVISION | 1.85 (54¢) | $27,173 | -$27,173 | ❌ Perdida |
 | 4217893367451 | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.22 (82¢) | $32,572 | — | ⏳ Pendiente |
 | mbmbbbmbv | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.20 (83¢) | $59,216 | — | ⏳ Pendiente |
 | Kch-Temp | Erste Bank Open: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $26,550 | — | ⏳ Pendiente |
