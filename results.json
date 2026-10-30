@@ -106328,5 +106328,35 @@
     "status": "pending",
     "ultimo_fill": 1793319195,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14337,
+    "timestamp": 1793319271,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "nfl-car-gb-2026-10-30",
+    "title": "Panthers vs. Packers",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 32000.064,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1793319271,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14338,
+    "timestamp": 1793319343,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nba-sac-nop-2026-10-29-spread-home-6pt5",
+    "title": "Spread: Pelicans (-6.5)",
+    "outcome": "Kings",
+    "side": "BUY",
+    "usd": 51974.55640000001,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793319343,
+    "fills": 1
   }
 ]
