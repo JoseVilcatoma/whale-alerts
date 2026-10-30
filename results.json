@@ -106582,7 +106582,7 @@
     "side": "BUY",
     "usd": 26145.686100000003,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793370699,
     "fills": 1
   },
@@ -106899,6 +106899,21 @@
     "odds_at_bet": 32,
     "status": "pending",
     "ultimo_fill": 1793396505,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14425,
+    "timestamp": 1793397186,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nhl-nj-las-2026-10-30",
+    "title": "Devils vs. Golden Knights",
+    "outcome": "Golden Knights",
+    "side": "BUY",
+    "usd": 64398.36,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793397186,
     "fills": 1
   }
 ]

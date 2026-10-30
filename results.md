@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 16:52:58 (hora de Perú)
+Actualizado: 2026-10-30 16:55:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7112**  ($402,929,242 en total)
-- Resueltas: **7071** — 4305 ganadas / 2766 perdidas (**61%** de acierto)
+- Apuestas registradas: **7113**  ($402,993,640 en total)
+- Resueltas: **7072** — 4306 ganadas / 2766 perdidas (**61%** de acierto)
 - Pendientes: 19
 - Apostadores distintos: 669
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,124,587** sobre $401,082,756 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,898** sobre $697,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,113,908** sobre $401,108,902 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,857** sobre $697,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,10 +25,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 503 | 281 | 3 | 64% | $51,504,358 | +$375,110 |
-| Sassy-Bucket | 98 | 98 | 2 | 50% | $12,779,044 | -$1,357,701 |
+| Sassy-Bucket | 98 | 98 | 3 | 50% | $12,843,443 | -$1,357,701 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 111 | 59 | 4 | 65% | $8,380,460 | +$414,339 |
+| Lakersfan111 | 112 | 59 | 3 | 65% | $8,380,460 | +$425,019 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 96 | 91 | 0 | 51% | $7,543,055 | -$650,990 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 669 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Devils vs. Golden Knights | Golden Knights | 1.92 (52¢) | $64,398 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | LOS | 3.12 (32¢) | $31,891 | — | ⏳ Pendiente |
 | texaskid | Spread: Knicks (-3.5) | 76ers | 1.96 (51¢) | $93,279 | — | ⏳ Pendiente |
 | RJW1 | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $48,153 | — | ⏳ Pendiente |
@@ -92,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 669 en total)_
 | Mooseborzoiii | Map Handicap: MOUZ (-1.5) vs FURIA (+1.5) | FURIA | 1.49 (67¢) | $53,600 | +$26,400 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.44 (41¢) | $90,112 | +$129,673 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.50 (40¢) | $30,657 | +$45,985 | ✅ Ganada |
-| jakepaulthegoat2008 | Counter-Strike: Imperial vs paiN (BO3) - Gamers Club Masters Group B | Imperial | 1.41 (71¢) | $26,146 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Counter-Strike: Imperial vs paiN (BO3) - Gamers Club Masters Group B | Imperial | 1.41 (71¢) | $26,146 | +$10,679 | ✅ Ganada |
 | RJW1 | Knicks vs. 76ers | Knicks | 1.89 (53¢) | $104,670 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.67 (60¢) | $27,368 | -$27,368 | ❌ Perdida |
 | omnibus-076daa | Dota 2: Team Spirit vs PARIVISION (BO3) - PARI Universe Playoffs | PARIVISION | 1.85 (54¢) | $27,173 | -$27,173 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 669 en total)_
 | LinkE5 | LoL: Top Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Bilibili Gaming | 1.10 (91¢) | $51,366 | -$51,366 | ❌ Perdida |
 | omnibus-076daa | Bruins vs. Blues | Blues | 1.96 (51¢) | $65,724 | +$63,146 | ✅ Ganada |
 | jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.37 (73¢) | $40,271 | -$40,271 | ❌ Perdida |
-| NS13 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.41 (71¢) | $26,583 | -$26,583 | ❌ Perdida |
