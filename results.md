@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 18:39:48 (hora de Perú)
+Actualizado: 2026-10-30 18:41:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7140**  ($405,094,341 en total)
+- Apuestas registradas: **7141**  ($405,130,528 en total)
 - Resueltas: **7081** — 4309 ganadas / 2772 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 672
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 98 | 98 | 6 | 50% | $13,110,636 | -$1,357,701 |
 | googleplay | 47 | 32 | 5 | 59% | $10,620,029 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 112 | 63 | 3 | 64% | $8,585,234 | +$263,940 |
+| Lakersfan111 | 112 | 63 | 4 | 64% | $8,621,421 | +$263,940 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 96 | 91 | 0 | 51% | $7,543,055 | -$650,990 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Nuggets vs. Suns | Suns | 2.56 (39¢) | $36,187 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Rockets vs. Mavericks | Rockets | 1.52 (66¢) | $56,086 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Magic vs. Raptors | Raptors | 1.52 (66¢) | $29,573 | — | ⏳ Pendiente |
 | googleplay | Spread: Raptors (-5.5) | Raptors | 1.92 (52¢) | $214,770 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.89 (53¢) | $57,744 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.25 (80¢) | $39,996 | -$39,996 | ❌ Perdida |
 | trustfundking | Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs | Vitality | 1.22 (82¢) | $29,727 | -$29,727 | ❌ Perdida |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Senators vs. Kings | Senators | 1.85 (54¢) | $38,373 | -$38,373 | ❌ Perdida |
