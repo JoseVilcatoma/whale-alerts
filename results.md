@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 18:23:11 (hora de Perú)
+Actualizado: 2026-10-30 18:27:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7134**  ($404,320,682 en total)
+- Apuestas registradas: **7135**  ($404,374,002 en total)
 - Resueltas: **7076** — 4308 ganadas / 2768 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 672
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 503 | 281 | 5 | 64% | $51,683,962 | +$375,110 |
 | Sassy-Bucket | 98 | 98 | 6 | 50% | $13,110,636 | -$1,357,701 |
-| googleplay | 47 | 32 | 3 | 59% | $10,133,677 | +$987,090 |
+| googleplay | 47 | 32 | 4 | 59% | $10,186,997 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 112 | 59 | 6 | 65% | $8,520,262 | +$425,019 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Raptors (-5.5) | Raptors | 1.92 (52¢) | $53,319 | — | ⏳ Pendiente |
 | Sassy-Bucket | Knicks vs. 76ers | 76ers | 2.38 (42¢) | $168,000 | — | ⏳ Pendiente |
 | googleplay | Spread: Raptors (-5.5) | Raptors | 1.96 (51¢) | $27,462 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Rockets vs. Mavericks | Rockets | 1.54 (65¢) | $45,745 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. Hawks | Hawks | 1.79 (56¢) | $61,600 | +$48,400 | ✅ Ganada |
 | ethanaz | Panthers vs. Packers | Panthers | 2.13 (47¢) | $25,203 | -$25,203 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Spread: Pelicans (-6.5) | Kings | 1.92 (52¢) | $51,975 | -$51,975 | ❌ Perdida |
-| surfandturf | Panthers vs. Packers | Packers | 1.56 (64¢) | $32,000 | +$9,000 | 💰 Vendida antes |
