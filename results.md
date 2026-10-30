@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 20:30:09 (hora de Perú)
+Actualizado: 2026-10-29 20:32:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7078**  ($401,465,584 en total)
-- Resueltas: **7016** — 4278 ganadas / 2738 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Apuestas registradas: **7079**  ($401,495,584 en total)
+- Resueltas: **7019** — 4280 ganadas / 2739 perdidas (**61%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 665
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,679,892** sobre $398,591,637 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,881** sobre $691,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$2,680,392** sobre $398,692,137 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,901** sobre $692,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 501 | 280 | 6 | 64% | $51,504,358 | +$338,002 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 502 | 280 | 5 | 64% | $51,504,358 | +$352,502 |
 | Sassy-Bucket | 96 | 98 | 4 | 49% | $12,779,044 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| Mooseborzoiii | 35 | 19 | 2 | 65% | $5,407,121 | +$985,790 |
+| Mooseborzoiii | 36 | 19 | 1 | 65% | $5,407,121 | +$999,790 |
 | ethanaz | 61 | 27 | 1 | 69% | $5,309,325 | -$220,938 |
 | BrotherObama | 49 | 53 | 3 | 48% | $4,553,584 | -$148,063 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Anon455 | Panthers vs. Packers | Packers | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. Hawks | Hawks | 1.79 (56¢) | $61,600 | — | ⏳ Pendiente |
 | ethanaz | Panthers vs. Packers | Panthers | 2.13 (47¢) | $25,203 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Pelicans (-6.5) | Kings | 1.92 (52¢) | $51,975 | — | ⏳ Pendiente |
@@ -103,9 +104,9 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | tenniz | Sioux Falls: Liam Draxl vs Daniil Ostapenkov | Liam Draxl | 1.09 (92¢) | $166,198 | +$14,452 | ✅ Ganada |
 | ferrariChampions2026 | Florida Atlantic vs. North Texas | North Texas | 1.20 (83¢) | $30,248 | — | ⏳ Pendiente |
 | BrotherObama | Bruins vs. Blues | Blues | 1.96 (51¢) | $43,015 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
-| vtcchampion52 | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Top Esports | 3.45 (29¢) | $29,000 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 1.39 (72¢) | $36,000 | +$14,000 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 1.41 (71¢) | $35,500 | +$14,500 | ✅ Ganada |
+| vtcchampion52 | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Top Esports | 3.45 (29¢) | $29,000 | -$29,000 | ❌ Perdida |
 | ferrariChampions2026 | Spread: Wild (-1.5) | Islanders | 1.69 (59¢) | $26,134 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Kings vs. Pelicans | Pelicans | 1.47 (68¢) | $27,205 | — | ⏳ Pendiente |
 | Hdisllbsj | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Jerome Kym | 1.79 (56¢) | $26,601 | +$13,776 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | Mooseborzoiii | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | FURIA | 2.70 (37¢) | $37,000 | +$63,000 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $144,900 | +$85,100 | ✅ Ganada |
 | ferrariChampions2026 | Spread: Predators (-1.5) | Capitals | 1.43 (70¢) | $25,484 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.61 (62¢) | $97,318 | +$59,647 | ✅ Ganada |
