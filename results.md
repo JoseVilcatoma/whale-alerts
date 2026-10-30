@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 00:14:09 (hora de Perú)
+Actualizado: 2026-10-30 00:16:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7081**  ($401,561,368 en total)
-- Resueltas: **7055** — 4296 ganadas / 2759 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **7056** — 4296 ganadas / 2760 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 665
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,204,143** sobre $400,465,874 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,844** sobre $695,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,242,516** sobre $400,504,247 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,944** sobre $695,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Senators vs. Kings | Senators | 1.85 (54¢) | $38,373 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Senators vs. Kings | Senators | 1.85 (54¢) | $38,373 | -$38,373 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Sabres vs. Ducks | Sabres | 1.69 (59¢) | $27,410 | +$19,048 | ✅ Ganada |
 | Anon455 | Panthers vs. Packers | Packers | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. Hawks | Hawks | 1.79 (56¢) | $61,600 | +$48,400 | ✅ Ganada |
