@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 11:32:05 (hora de Perú)
+Actualizado: 2026-10-30 11:34:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7099**  ($402,338,135 en total)
+- Apuestas registradas: **7100**  ($402,367,766 en total)
 - Resueltas: **7060** — 4296 ganadas / 2764 perdidas (**61%** de acierto)
-- Pendientes: 17
-- Apostadores distintos: 665
+- Pendientes: 18
+- Apostadores distintos: 666
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 41 | 17 | 0 | 71% | $2,176,369 | -$109,010 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
-_(mostrando los 40 de mayor monto, de 665 en total)_
+_(mostrando los 40 de mayor monto, de 666 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Vps1 | Brest: Martin Damm vs Clement Tabur | Martin Damm | 1.27 (79¢) | $29,631 | — | ⏳ Pendiente |
 | 999585 | Swiss Indoors Basel: Taylor Fritz vs Arthur Fils | Taylor Fritz | 1.15 (87¢) | $36,867 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Magic vs. Raptors: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.67 (60¢) | $29,270 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | ferrariChampions2026 | Spread: Wild (-1.5) | Islanders | 1.69 (59¢) | $26,134 | +$18,161 | ✅ Ganada |
 | monkeymashingkeyboard | Kings vs. Pelicans | Pelicans | 1.47 (68¢) | $27,205 | +$12,803 | ✅ Ganada |
 | Hdisllbsj | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Jerome Kym | 1.79 (56¢) | $26,601 | +$13,776 | 💰 Vendida antes |
-| jakepaulthegoat2008 | LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner | Karmine Corp | 1.33 (75¢) | $92,257 | +$30,752 | ✅ Ganada |
