@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 16:59:15 (hora de Perú)
+Actualizado: 2026-10-30 17:01:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7116**  ($403,206,515 en total)
+- Apuestas registradas: **7117**  ($403,246,157 en total)
 - Resueltas: **7072** — 4306 ganadas / 2766 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 669
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 98 | 98 | 4 | 50% | $12,906,772 | -$1,357,701 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 112 | 59 | 4 | 65% | $8,434,875 | +$425,019 |
+| Lakersfan111 | 112 | 59 | 5 | 65% | $8,474,516 | +$425,019 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 96 | 91 | 0 | 51% | $7,543,055 | -$650,990 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 669 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.35 (74¢) | $39,641 | — | ⏳ Pendiente |
 | Sassy-Bucket | Devils vs. Golden Knights | Golden Knights | 1.92 (52¢) | $63,329 | — | ⏳ Pendiente |
 | RJW1 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $95,132 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.43 (70¢) | $54,414 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 669 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Swiss Indoors Basel: Ben Shelton vs Jerome Kym | Ben Shelton | 1.45 (69¢) | $69,000 | -$69,000 | ❌ Perdida |
 | PEYZ-BIGGEST-FAN | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.28 (78¢) | $28,175 | -$28,175 | ❌ Perdida |
 | Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.28 (78¢) | $285,464 | -$285,464 | ❌ Perdida |
-| jakepaulthegoat2008 | LoL: Top Esports vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.32 (76¢) | $57,244 | -$57,244 | ❌ Perdida |
