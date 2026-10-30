@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 18:06:47 (hora de Perú)
+Actualizado: 2026-10-30 18:08:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7125**  ($403,617,440 en total)
+- Apuestas registradas: **7127**  ($403,693,336 en total)
 - Resueltas: **7076** — 4308 ganadas / 2768 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 29
 - Apostadores distintos: 672
 
 ### Balance
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 503 | 281 | 3 | 64% | $51,504,358 | +$375,110 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 503 | 281 | 4 | 64% | $51,547,292 | +$375,110 |
 | Sassy-Bucket | 98 | 98 | 5 | 50% | $12,942,636 | -$1,357,701 |
-| googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
+| googleplay | 47 | 32 | 1 | 59% | $9,999,001 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 112 | 59 | 5 | 65% | $8,474,516 | +$425,019 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $42,934 | — | ⏳ Pendiente |
+| googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $32,962 | — | ⏳ Pendiente |
 | 0x709179E7392e59922Ab2D73cb1141698b30096f8-1773173619816 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $49,175 | — | ⏳ Pendiente |
 | Sassy-Bucket | Harvard vs. Dartmouth | Harvard | 1.28 (78¢) | $35,864 | — | ⏳ Pendiente |
 | arjennnnn | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $50,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 | Talvez10 | Islanders vs. Wild | Wild | 1.52 (66¢) | $29,700 | -$29,700 | ❌ Perdida |
 | dhgreg | Spread: Pelicans (-6.5) | Kings | 1.96 (51¢) | $33,397 | -$33,397 | ❌ Perdida |
 | dhgreg | Spread: Pelicans (-5.5) | Kings | 2.13 (47¢) | $31,683 | -$31,683 | ❌ Perdida |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Islanders vs. Wild | Wild | 1.52 (66¢) | $82,229 | -$82,229 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kings vs. Pelicans | Pelicans | 1.47 (68¢) | $39,262 | +$18,476 | ✅ Ganada |
