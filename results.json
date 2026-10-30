@@ -106435,5 +106435,20 @@
     "status": "lost",
     "ultimo_fill": 1793325276,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14377,
+    "timestamp": 1793339543,
+    "username": "trustfundking",
+    "wallet": "0x8e74984fb998be82444627906740dc1a19c35972",
+    "slug": "cs2-nemi1-vit-2026-10-30",
+    "title": "Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 29727.4272,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1793339543,
+    "fills": 1
   }
 ]
