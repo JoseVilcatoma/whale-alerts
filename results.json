@@ -106420,5 +106420,20 @@
     "status": "pending",
     "ultimo_fill": 1793324621,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14352,
+    "timestamp": 1793325276,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "nhl-ott-lak-2026-10-29",
+    "title": "Senators vs. Kings",
+    "outcome": "Senators",
+    "side": "BUY",
+    "usd": 38373.3504,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793325276,
+    "fills": 1
   }
 ]

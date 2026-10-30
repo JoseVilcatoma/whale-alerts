@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 20:52:51 (hora de Perú)
+Actualizado: 2026-10-29 20:54:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7080**  ($401,522,994 en total)
+- Apuestas registradas: **7081**  ($401,561,368 en total)
 - Resueltas: **7025** — 4281 ganadas / 2744 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 665
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Senators vs. Kings | Senators | 1.85 (54¢) | $38,373 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Sabres vs. Ducks | Sabres | 1.69 (59¢) | $27,410 | — | ⏳ Pendiente |
 | Anon455 | Panthers vs. Packers | Packers | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cavaliers vs. Hawks | Hawks | 1.79 (56¢) | $61,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | 0xc1a9273b15a17d21AF09DddB42b9239B93D4e2Db-1777826537793 | Guayaquil: Diego Dedura-Palomero vs Valerio Aboian | Diego Dedura-Palomero | 1.30 (77¢) | $27,721 | -$27,721 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $43,088 | +$25,305 | ✅ Ganada |
 | Mooseborzoiii | Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5) | FURIA | 2.70 (37¢) | $37,000 | +$63,000 | ✅ Ganada |
-| Mooseborzoiii | Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 1.59 (63¢) | $144,900 | +$85,100 | ✅ Ganada |
