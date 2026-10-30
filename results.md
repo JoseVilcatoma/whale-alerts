@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 14:52:51 (hora de Perú)
+Actualizado: 2026-10-30 14:54:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7102**  ($402,420,459 en total)
+- Apuestas registradas: **7105**  ($402,539,706 en total)
 - Resueltas: **7070** — 4304 ganadas / 2766 perdidas (**61%** de acierto)
-- Pendientes: 10
-- Apostadores distintos: 666
+- Pendientes: 13
+- Apostadores distintos: 667
 
 ### Balance
 
@@ -65,14 +65,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 41 | 17 | 0 | 71% | $2,176,369 | -$109,010 |
 | SDTrading | 33 | 33 | 0 | 50% | $1,980,751 | -$131,433 |
 
-_(mostrando los 40 de mayor monto, de 666 en total)_
+_(mostrando los 40 de mayor monto, de 667 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SparYel | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Under 2.5 | 1.89 (53¢) | $50,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Game Handicap: TL (-1.5) vs LOS (+1.5) | Team Liquid | 1.82 (55¢) | $27,027 | — | ⏳ Pendiente |
 | HVAB | Curitiba: Francesca Jones vs Nauhany Leme Da Silva | Nauhany Leme Da Silva | 1.39 (72¢) | $25,666 | — | ⏳ Pendiente |
+| otsosiusa | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $29,247 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Hornets vs. Wizards | Wizards | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | Vps1 | Brest: Martin Damm vs Clement Tabur | Martin Damm | 1.27 (79¢) | $29,631 | +$7,877 | ✅ Ganada |
 | 999585 | Swiss Indoors Basel: Taylor Fritz vs Arthur Fils | Taylor Fritz | 1.15 (87¢) | $36,867 | +$5,509 | ✅ Ganada |
 | monkeymashingkeyboard | Magic vs. Raptors: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 666 en total)_
 | ferrariChampions2026 | Florida Atlantic vs. North Texas | North Texas | 1.20 (83¢) | $30,248 | +$6,195 | ✅ Ganada |
 | BrotherObama | Bruins vs. Blues | Blues | 1.96 (51¢) | $43,015 | +$41,329 | ✅ Ganada |
 | Mooseborzoiii | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 1.39 (72¢) | $36,000 | +$14,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 1.41 (71¢) | $35,500 | +$14,500 | ✅ Ganada |
-| vtcchampion52 | LoL: Top Esports vs Bilibili Gaming - Game 1 Winner | Top Esports | 3.45 (29¢) | $29,000 | -$29,000 | ❌ Perdida |
-| ferrariChampions2026 | Spread: Wild (-1.5) | Islanders | 1.69 (59¢) | $26,134 | +$18,161 | ✅ Ganada |

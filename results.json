@@ -106750,5 +106750,50 @@
     "status": "pending",
     "ultimo_fill": 1793389913,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14414,
+    "timestamp": 1793389597,
+    "username": "otsosiusa",
+    "wallet": "0x557deed21fffb32eb650af4699df0f6a93801fda",
+    "slug": "fl1-lil-rcl-2026-10-30-total-2pt5",
+    "title": "Lille OSC vs. Racing Club de Lens: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 29247.4532,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793389597,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14415,
+    "timestamp": 1793389111,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "nba-cha-was-2026-10-30",
+    "title": "Hornets vs. Wizards",
+    "outcome": "Wizards",
+    "side": "BUY",
+    "usd": 40000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793389111,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14416,
+    "timestamp": 1793390066,
+    "username": "SparYel",
+    "wallet": "0xa164b901678d14b57b89a8d4e928956fe46a8b02",
+    "slug": "fl1-lil-rcl-2026-10-30-total-2pt5",
+    "title": "Lille OSC vs. Racing Club de Lens: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 50000.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1793390066,
+    "fills": 1
   }
 ]
