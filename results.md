@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 18:21:07 (hora de Perú)
+Actualizado: 2026-10-30 18:23:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7133**  ($404,152,682 en total)
+- Apuestas registradas: **7134**  ($404,320,682 en total)
 - Resueltas: **7076** — 4308 ganadas / 2768 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 672
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 503 | 281 | 5 | 64% | $51,683,962 | +$375,110 |
-| Sassy-Bucket | 98 | 98 | 5 | 50% | $12,942,636 | -$1,357,701 |
+| Sassy-Bucket | 98 | 98 | 6 | 50% | $13,110,636 | -$1,357,701 |
 | googleplay | 47 | 32 | 3 | 59% | $10,133,677 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 112 | 59 | 6 | 65% | $8,520,262 | +$425,019 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Knicks vs. 76ers | 76ers | 2.38 (42¢) | $168,000 | — | ⏳ Pendiente |
 | googleplay | Spread: Raptors (-5.5) | Raptors | 1.96 (51¢) | $27,462 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Rockets vs. Mavericks | Rockets | 1.54 (65¢) | $45,745 | — | ⏳ Pendiente |
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.96 (51¢) | $50,532 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 | ethanaz | Panthers vs. Packers | Panthers | 2.13 (47¢) | $25,203 | -$25,203 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Spread: Pelicans (-6.5) | Kings | 1.92 (52¢) | $51,975 | -$51,975 | ❌ Perdida |
 | surfandturf | Panthers vs. Packers | Packers | 1.56 (64¢) | $32,000 | +$9,000 | 💰 Vendida antes |
-| mooseborzoi | Spread: Packers (-3.5) | Panthers | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
