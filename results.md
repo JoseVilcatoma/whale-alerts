@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 17:13:57 (hora de Perú)
+Actualizado: 2026-10-30 17:16:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7117**  ($403,246,157 en total)
-- Resueltas: **7072** — 4306 ganadas / 2766 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **7074** — 4307 ganadas / 2767 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 669
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,113,908** sobre $401,108,902 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,857** sobre $697,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,146,581** sobre $401,214,566 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,787** sobre $697,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,8 +81,8 @@ _(mostrando los 40 de mayor monto, de 669 en total)_
 | RJW1 | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $48,153 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Clippers vs. Timberwolves | Timberwolves | 1.41 (71¢) | $74,932 | — | ⏳ Pendiente |
 | Wal1 | Knicks vs. 76ers | Knicks | 1.69 (59¢) | $35,618 | — | ⏳ Pendiente |
-| Pvblo | Will Villarreal CF win on 2026-10-30? | Yes | 1.43 (70¢) | $78,658 | — | ⏳ Pendiente |
-| Woaifacai | Will Lille OSC win on 2026-10-30? | Yes | 2.70 (37¢) | $27,006 | — | ⏳ Pendiente |
+| Pvblo | Will Villarreal CF win on 2026-10-30? | Yes | 1.43 (70¢) | $78,658 | -$78,658 | ❌ Perdida |
+| Woaifacai | Will Lille OSC win on 2026-10-30? | Yes | 2.70 (37¢) | $27,006 | +$45,984 | ✅ Ganada |
 | SparYel | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Under 2.5 | 1.89 (53¢) | $50,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Game Handicap: TL (-1.5) vs LOS (+1.5) | Team Liquid | 1.82 (55¢) | $27,027 | — | ⏳ Pendiente |
 | HVAB | Curitiba: Francesca Jones vs Nauhany Leme Da Silva | Nauhany Leme Da Silva | 1.39 (72¢) | $25,666 | +$9,981 | ✅ Ganada |
