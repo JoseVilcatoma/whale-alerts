@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-29 19:07:51 (hora de Perú)
+Actualizado: 2026-10-29 19:09:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7071**  ($401,193,925 en total)
+- Apuestas registradas: **7072**  ($401,219,717 en total)
 - Resueltas: **7015** — 4278 ganadas / 2737 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 665
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 501 | 279 | 5 | 64% | $51,416,966 | +$407,002 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 501 | 279 | 6 | 64% | $51,442,758 | +$407,002 |
 | Sassy-Bucket | 96 | 98 | 4 | 49% | $12,779,044 | -$1,443,967 |
 | googleplay | 47 | 32 | 0 | 59% | $9,966,039 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Panthers vs. Packers: O/U 48.5 | Over 48.5 | 2.27 (44¢) | $25,792 | — | ⏳ Pendiente |
 | KaneAnalytics | Florida Atlantic vs. North Texas | Florida Atlantic | 3.85 (26¢) | $36,773 | — | ⏳ Pendiente |
 | Talvez10 | Islanders vs. Wild | Wild | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | dhgreg | Spread: Pelicans (-6.5) | Kings | 1.96 (51¢) | $33,397 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 665 en total)_
 | fantasy7788 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.56 (64¢) | $99,196 | +$55,798 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.59 (63¢) | $33,426 | +$19,631 | ✅ Ganada |
 | juice-fruit | Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | Aurora Gaming | 2.63 (38¢) | $38,499 | -$38,499 | ❌ Perdida |
-| mooseborzoi | Grizzlies vs. Trail Blazers | Trail Blazers | 1.39 (72¢) | $34,220 | — | ⏳ Pendiente |
