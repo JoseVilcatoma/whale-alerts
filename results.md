@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 10:08:56 (hora de Perú)
+Actualizado: 2026-10-31 10:11:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7214**  ($408,795,779 en total)
+- Apuestas registradas: **7215**  ($408,823,007 en total)
 - Resueltas: **7169** — 4356 ganadas / 2813 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 678
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 61 | 29 | 0 | 68% | $5,347,825 | -$284,641 |
 | BrotherObama | 50 | 53 | 2 | 49% | $4,553,584 | -$106,735 |
-| maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
+| maz26 | 39 | 26 | 1 | 60% | $4,486,958 | +$512,782 |
 | Kch-Temp | 45 | 15 | 1 | 75% | $3,932,043 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 35 | 10 | 0 | 78% | $3,574,490 | +$477,568 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 678 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Spread: Texas Tech (-3.5) | Texas Tech | 1.96 (51¢) | $27,228 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Michigan (-16.5) | Rutgers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | googleplay | Will Rayo Vallecano de Madrid win on 2026-10-31? | No | 1.61 (62¢) | $31,028 | — | ⏳ Pendiente |
 | liriks | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.56 (39¢) | $28,921 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 678 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $120,518 | +$111,247 | ✅ Ganada |
 | purplegatto | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $25,938 | +$23,942 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Rockets vs. Mavericks | Rockets | 1.30 (77¢) | $42,976 | -$42,976 | ❌ Perdida |
-| cosmicxbt | Lakers vs. Warriors | Lakers | 1.72 (58¢) | $130,500 | -$130,500 | ❌ Perdida |
