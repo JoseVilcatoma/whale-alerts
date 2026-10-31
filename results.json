@@ -108507,5 +108507,20 @@
     "status": "pending",
     "ultimo_fill": 1793461761,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14637,
+    "timestamp": 1793462345,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "cfb-nd-navy-2026-10-31-spread-away-30pt5",
+    "title": "Spread: Notre Dame (-30.5)",
+    "outcome": "Notre Dame",
+    "side": "BUY",
+    "usd": 40842.6408,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793462345,
+    "fills": 1
   }
 ]
