@@ -108714,7 +108714,7 @@
     "side": "BUY",
     "usd": 37418.240000000005,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793474498,
     "fills": 1
   },
@@ -108939,7 +108939,7 @@
     "side": "BUY",
     "usd": 141000.0,
     "odds_at_bet": 94,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793476966,
     "fills": 1
   },
@@ -109121,7 +109121,7 @@
     "side": "BUY",
     "usd": 50135.5095,
     "odds_at_bet": 31,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793483095,
     "fills": 1
   },
@@ -109196,7 +109196,7 @@
     "side": "BUY",
     "usd": 31569.8171,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793483804,
     "fills": 1
   },
@@ -109376,7 +109376,7 @@
     "side": "BUY",
     "usd": 39584.51069999999,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793486942,
     "fills": 1
   },
@@ -109603,6 +109603,21 @@
     "odds_at_bet": 94,
     "status": "pending",
     "ultimo_fill": 1793490000,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14764,
+    "timestamp": 1793490101,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-min-sas-2026-10-31",
+    "title": "Timberwolves vs. Spurs",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 42000.0,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1793490101,
     "fills": 1
   }
 ]
