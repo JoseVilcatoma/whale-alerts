@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 21:06:58 (hora de Perú)
+Actualizado: 2026-10-30 21:09:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7169**  ($406,897,518 en total)
+- Apuestas registradas: **7170**  ($406,975,756 en total)
 - Resueltas: **7104** — 4325 ganadas / 2779 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 674
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 505 | 282 | 9 | 64% | $52,121,524 | +$447,671 |
 | Sassy-Bucket | 98 | 100 | 4 | 49% | $13,110,636 | -$1,485,429 |
-| googleplay | 47 | 32 | 8 | 59% | $10,771,484 | +$987,090 |
+| googleplay | 47 | 32 | 9 | 59% | $10,849,722 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 112 | 64 | 3 | 64% | $8,621,421 | +$198,968 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Lakers (-3.5) | Warriors | 1.85 (54¢) | $78,238 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Warriors | Warriors | 2.27 (44¢) | $42,739 | — | ⏳ Pendiente |
 | takeormake | Knicks vs. 76ers | 76ers | 1.06 (94¢) | $40,000 | — | ⏳ Pendiente |
 | omnibus-076daa | Lakers vs. Warriors | Lakers | 1.79 (56¢) | $25,830 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | Sassy-Bucket | Devils vs. Golden Knights | Golden Knights | 1.92 (52¢) | $64,398 | -$64,398 | ❌ Perdida |
 | fhiwbijd | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | LOS | 3.12 (32¢) | $31,891 | +$67,768 | ✅ Ganada |
 | texaskid | Spread: Knicks (-3.5) | 76ers | 1.96 (51¢) | $93,279 | — | ⏳ Pendiente |
-| RJW1 | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $48,153 | — | ⏳ Pendiente |

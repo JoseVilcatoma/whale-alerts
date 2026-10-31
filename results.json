@@ -107757,5 +107757,20 @@
     "status": "pending",
     "ultimo_fill": 1793412168,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14518,
+    "timestamp": 1793412423,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-lal-gsw-2026-10-30-spread-away-3pt5",
+    "title": "Spread: Lakers (-3.5)",
+    "outcome": "Warriors",
+    "side": "BUY",
+    "usd": 78237.873,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793412423,
+    "fills": 1
   }
 ]
