@@ -108387,5 +108387,20 @@
     "status": "pending",
     "ultimo_fill": 1793456247,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14621,
+    "timestamp": 1793458236,
+    "username": "liriks",
+    "wallet": "0x5146a5b21a07d9d28789d5e05680d264cd25c84b",
+    "slug": "cs2-nemi1-furia-2026-10-31",
+    "title": "Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "usd": 28921.2651,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1793458236,
+    "fills": 1
   }
 ]
