@@ -108219,7 +108219,7 @@
     "side": "BUY",
     "usd": 25398.4053,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793450368,
     "fills": 1
   },
@@ -108341,6 +108341,21 @@
     "odds_at_bet": 38,
     "status": "pending",
     "ultimo_fill": 1793454588,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14617,
+    "timestamp": 1793454934,
+    "username": "rabbitfoot1",
+    "wallet": "0x10a6fadcbacd66330862206f6199b197e3ad4d8b",
+    "slug": "epl-bou-lee-2026-10-31-total-2pt5",
+    "title": "AFC Bournemouth vs. Leeds United FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 75538.9302,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793454934,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 08:53:43 (hora de Perú)
+Actualizado: 2026-10-31 08:55:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7208**  ($408,565,690 en total)
-- Resueltas: **7162** — 4353 ganadas / 2809 perdidas (**61%** de acierto)
+- Apuestas registradas: **7209**  ($408,641,229 en total)
+- Resueltas: **7163** — 4353 ganadas / 2810 perdidas (**61%** de acierto)
 - Pendientes: 24
 - Apostadores distintos: 676
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,617,686** sobre $406,649,197 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,187** sobre $706,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,643,084** sobre $406,674,595 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,287** sobre $706,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| rabbitfoot1 | AFC Bournemouth vs. Leeds United FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $75,539 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Ipswich Town FC win on 2026-10-31? | Yes | 2.63 (38¢) | $27,263 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-10-31? | Yes | 1.52 (66¢) | $66,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Nemiga vs FURIA - Map 4 Winner | FURIA | 1.52 (66¢) | $29,554 | — | ⏳ Pendiente |
@@ -79,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 | Mooseborzoiii | LoL: Karmine Corp vs Movistar KOI (BO3) - Worlds Group Stage | Movistar KOI | 2.63 (38¢) | $76,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Bilibili Gaming | 2.44 (41¢) | $64,547 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Notre Dame (-30.5) | Navy | 2.04 (49¢) | $26,816 | — | ⏳ Pendiente |
-| LlamaEnjoyer | Counter-Strike: Nemiga vs FURIA - Map 3 Winner | Nemiga | 2.44 (41¢) | $25,398 | — | ⏳ Pendiente |
+| LlamaEnjoyer | Counter-Strike: Nemiga vs FURIA - Map 3 Winner | Nemiga | 2.44 (41¢) | $25,398 | -$25,398 | ❌ Perdida |
 | Kyn008 | Will Levante UD win on 2026-10-31? | No | 1.18 (85¢) | $29,910 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Oklahoma State vs. Iowa State | Oklahoma State | 1.32 (76¢) | $33,356 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Rockets vs. Mavericks | Rockets | 1.96 (51¢) | $37,652 | -$37,652 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.47 (68¢) | $32,685 | +$15,381 | ✅ Ganada |
 | 0xF0F30b69a850f849bcd51A91Ce00984c9ba83cE6-1776270044839 | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.27 (79¢) | $153,999 | +$40,936 | ✅ Ganada |
-| Woaifacai | Hornets vs. Wizards | Wizards | 1.49 (67¢) | $152,808 | +$75,264 | ✅ Ganada |
