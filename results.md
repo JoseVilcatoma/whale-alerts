@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 22:27:14 (hora de Perú)
+Actualizado: 2026-10-30 22:29:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7180**  ($407,439,794 en total)
-- Resueltas: **7132** — 4335 ganadas / 2797 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **7134** — 4336 ganadas / 2798 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 674
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,809,030** sobre $405,168,276 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,811** sobre $703,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,849,004** sobre $405,277,953 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,829** sobre $703,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -106,9 +106,9 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | G2 Esports | 2.38 (42¢) | $25,155 | -$25,155 | ❌ Perdida |
 | PEYZ-BIGGEST-FAN | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.67 (60¢) | $36,000 | +$24,000 | ✅ Ganada |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | G2 Esports | 2.44 (41¢) | $36,108 | -$36,108 | ❌ Perdida |
-| Multicoloured-Serf | Baylor vs. UCF | UCF | 2.78 (36¢) | $71,341 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Baylor vs. UCF | UCF | 2.78 (36¢) | $71,341 | -$71,341 | ❌ Perdida |
 | zb8 | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.39 (72¢) | $27,684 | +$10,766 | ✅ Ganada |
-| KaneAnalytics | Baylor vs. UCF | Baylor | 1.82 (55¢) | $38,337 | — | ⏳ Pendiente |
+| KaneAnalytics | Baylor vs. UCF | Baylor | 1.82 (55¢) | $38,337 | +$31,367 | ✅ Ganada |
 | DonaldinhoTrumpito | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.11 (90¢) | $90,027 | +$10,003 | ✅ Ganada |
 | jakepaulthegoat2008 | Nuggets vs. Suns | Suns | 2.56 (39¢) | $36,187 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Rockets vs. Mavericks | Rockets | 1.52 (66¢) | $56,086 | -$56,086 | ❌ Perdida |
