@@ -106777,7 +106777,7 @@
     "side": "BUY",
     "usd": 40000.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793389111,
     "fills": 1
   },
@@ -107452,7 +107452,7 @@
     "side": "BUY",
     "usd": 152808.1988,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793405416,
     "fills": 3
   },
@@ -107649,6 +107649,51 @@
     "odds_at_bet": 44,
     "status": "pending",
     "ultimo_fill": 1793411578,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14508,
+    "timestamp": 1793411691,
+    "username": "0x3mf379C47E653dafa153841a995Cf975B6a02fxd",
+    "wallet": "0x3a55b0c45449b955e43ec10734bd988bb5d1394e",
+    "slug": "nba-hou-dal-2026-10-30",
+    "title": "Rockets vs. Mavericks",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 47168.0318,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1793411691,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14511,
+    "timestamp": 1793411776,
+    "username": "CHZHSHCH",
+    "wallet": "0x385edd359037625b95dd057794ba3ea25a9c40ce",
+    "slug": "nba-nyk-phi-2026-10-30",
+    "title": "Knicks vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 269114.7568,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1793411776,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14512,
+    "timestamp": 1793411785,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-nyk-phi-2026-10-30",
+    "title": "Knicks vs. 76ers",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 28163.6584,
+    "odds_at_bet": 8,
+    "status": "pending",
+    "ultimo_fill": 1793411785,
     "fills": 1
   }
 ]
