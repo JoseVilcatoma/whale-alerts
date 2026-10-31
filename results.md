@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 15:02:06 (hora de Perú)
+Actualizado: 2026-10-31 15:04:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7247**  ($410,424,528 en total)
+- Apuestas registradas: **7248**  ($410,565,528 en total)
 - Resueltas: **7187** — 4365 ganadas / 2822 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 682
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Arizona State vs. BYU | BYU | 1.06 (94¢) | $141,000 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Aston Villa FC win on 2026-10-31? | Yes | 2.04 (49¢) | $46,479 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.72 (58¢) | $63,092 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.69 (59¢) | $68,329 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | drainedandpoor | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 1.41 (71¢) | $29,820 | +$12,180 | ✅ Ganada |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $40,000 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.27 (44¢) | $50,551 | +$64,337 | ✅ Ganada |
-| CORGII | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.22 (45¢) | $32,850 | +$40,150 | ✅ Ganada |
