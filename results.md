@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 22:12:53 (hora de Perú)
+Actualizado: 2026-10-30 22:14:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7176**  ($407,302,856 en total)
+- Apuestas registradas: **7177**  ($407,339,976 en total)
 - Resueltas: **7122** — 4330 ganadas / 2792 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 674
 
 ### Balance
@@ -61,8 +61,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
 | juice-fruit | 25 | 15 | 0 | 62% | $2,306,116 | +$316,802 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
+| TAIWANNUMBERONE | 41 | 17 | 1 | 71% | $2,213,488 | -$109,010 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| TAIWANNUMBERONE | 41 | 17 | 0 | 71% | $2,176,369 | -$109,010 |
 | Woaifacai | 25 | 10 | 2 | 71% | $2,087,656 | +$244,427 |
 
 _(mostrando los 40 de mayor monto, de 674 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Kent State vs. Sacramento State | Kent State | 1.30 (77¢) | $37,119 | — | ⏳ Pendiente |
 | Woaifacai | Rockets vs. Mavericks | Mavericks | 1.18 (85¢) | $27,174 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Suns | 2.94 (34¢) | $25,942 | — | ⏳ Pendiente |
 | Woaifacai | Nuggets vs. Suns | Nuggets | 1.64 (61¢) | $58,607 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | horrocrux | Queretaro: Nadia Podoroska vs Carole Monnet | Nadia Podoroska | 1.49 (67¢) | $85,167 | -$85,167 | ❌ Perdida |
 | monkeymashingkeyboard | Rockets vs. Mavericks | Mavericks | 2.78 (36¢) | $26,501 | — | ⏳ Pendiente |
 | PrimeOasis1987 | Spread: Rockets (-6.5) | Mavericks | 1.96 (51¢) | $32,397 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.35 (74¢) | $39,641 | -$39,641 | ❌ Perdida |
