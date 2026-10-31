@@ -109619,5 +109619,20 @@
     "status": "pending",
     "ultimo_fill": 1793490101,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14770,
+    "timestamp": 1793490283,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-sac-mem-2026-10-31",
+    "title": "Kings vs. Grizzlies",
+    "outcome": "Grizzlies",
+    "side": "BUY",
+    "usd": 68679.5628,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1793490283,
+    "fills": 1
   }
 ]
