@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 23:50:51 (hora de Perú)
+Actualizado: 2026-10-30 23:52:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7184**  ($407,576,088 en total)
-- Resueltas: **7134** — 4336 ganadas / 2798 perdidas (**61%** de acierto)
-- Pendientes: 28
-- Apostadores distintos: 674
+- Apuestas registradas: **7185**  ($407,611,892 en total)
+- Resueltas: **7136** — 4338 ganadas / 2798 perdidas (**61%** de acierto)
+- Pendientes: 27
+- Apostadores distintos: 675
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,849,004** sobre $405,277,953 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,829** sobre $703,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,713,814** sobre $405,424,409 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,644** sobre $703,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 506 | 285 | 8 | 64% | $52,251,969 | +$400,233 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 507 | 285 | 7 | 64% | $52,251,969 | +$511,481 |
 | Sassy-Bucket | 99 | 101 | 3 | 50% | $13,223,330 | -$1,289,293 |
 | googleplay | 47 | 37 | 4 | 56% | $10,849,722 | +$333,100 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Woaifacai | 26 | 10 | 2 | 72% | $2,117,095 | +$249,222 |
 
-_(mostrando los 40 de mayor monto, de 674 en total)_
+_(mostrando los 40 de mayor monto, de 675 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| todouzai | FK Macva Sabac vs. FK Crvena Zvezda Belgrade: O/U 3.5 | Under 3.5 | 1.67 (60¢) | $35,804 | — | ⏳ Pendiente |
 | hovistomaradona | Aston Villa FC vs. Fulham FC: O/U 2.5 | Under 2.5 | 2.22 (45¢) | $41,353 | — | ⏳ Pendiente |
 | Woaifacai | Lakers vs. Warriors | Warriors | 1.09 (92¢) | $29,439 | — | ⏳ Pendiente |
 | omnibus-076daa | Lakers vs. Warriors | Warriors | 1.54 (65¢) | $34,998 | — | ⏳ Pendiente |
@@ -97,8 +98,8 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.89 (53¢) | $80,745 | — | ⏳ Pendiente |
 | esportsbetter1 | Lakers vs. Warriors | Lakers | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.92 (52¢) | $34,880 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $120,518 | — | ⏳ Pendiente |
-| purplegatto | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $25,938 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $120,518 | +$111,247 | ✅ Ganada |
+| purplegatto | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $25,938 | +$23,942 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Rockets vs. Mavericks | Rockets | 1.30 (77¢) | $42,976 | -$42,976 | ❌ Perdida |
 | cosmicxbt | Lakers vs. Warriors | Lakers | 1.72 (58¢) | $130,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Mavericks | Mavericks | 2.13 (47¢) | $47,207 | +$53,233 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $214,429 | -$214,429 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $42,934 | -$42,934 | ❌ Perdida |
 | googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $32,962 | -$32,962 | ❌ Perdida |
-| 0x709179E7392e59922Ab2D73cb1141698b30096f8-1773173619816 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $49,175 | +$13,072 | ✅ Ganada |

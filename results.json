@@ -107572,7 +107572,7 @@
     "side": "BUY",
     "usd": 25937.600000000002,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793409145,
     "fills": 1
   },
@@ -107587,7 +107587,7 @@
     "side": "BUY",
     "usd": 120518.0704,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793409217,
     "fills": 1
   },
@@ -107981,6 +107981,21 @@
     "odds_at_bet": 45,
     "status": "pending",
     "ultimo_fill": 1793421881,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14566,
+    "timestamp": 1793422353,
+    "username": "todouzai",
+    "wallet": "0x94e4c271a84d72f9efc8326606cee80b6e7c87e0",
+    "slug": "srb-mac-czv-2026-10-31-total-3pt5",
+    "title": "FK Macva Sabac vs. FK Crvena Zvezda Belgrade: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 35804.219999999994,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1793422353,
     "fills": 1
   }
 ]
