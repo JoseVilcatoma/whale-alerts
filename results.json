@@ -109002,5 +109002,20 @@
     "status": "pending",
     "ultimo_fill": 1793479269,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14690,
+    "timestamp": 1793479604,
+    "username": "vtcchampion52",
+    "wallet": "0xc69bd5567b40ef4d11922eaa57e1f9be1c642076",
+    "slug": "lol-los-ly-2026-10-31",
+    "title": "LoL: LOS vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "LYON",
+    "side": "BUY",
+    "usd": 50884.153600000005,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1793479604,
+    "fills": 1
   }
 ]

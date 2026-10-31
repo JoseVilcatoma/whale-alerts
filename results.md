@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 15:44:56 (hora de Perú)
+Actualizado: 2026-10-31 15:47:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7252**  ($410,699,826 en total)
+- Apuestas registradas: **7253**  ($410,750,711 en total)
 - Resueltas: **7190** — 4367 ganadas / 2823 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 682
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.56 (64¢) | $50,884 | — | ⏳ Pendiente |
 | thegreatjeff | Will AC Milan win on 2026-10-31? | Yes | 1.28 (78¢) | $30,000 | — | ⏳ Pendiente |
 | 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Will Aston Villa FC win on 2026-10-31? | Yes | 1.35 (74¢) | $30,543 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $45,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Chelsea FC win on 2026-10-31? | No | 1.79 (56¢) | $27,390 | -$27,390 | ❌ Perdida |
 | ArturitoFilito | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.04 (49¢) | $28,356 | -$28,356 | ❌ Perdida |
 | omnibus-076daa | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 2.00 (50¢) | $48,917 | +$48,917 | ✅ Ganada |
-| Lihtaryki | Will Manchester United FC win on 2026-10-31? | No | 1.45 (69¢) | $34,500 | +$15,500 | ✅ Ganada |
