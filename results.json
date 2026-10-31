@@ -107530,5 +107530,20 @@
     "status": "pending",
     "ultimo_fill": 1793407795,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14480,
+    "timestamp": 1793407836,
+    "username": "cosmicxbt",
+    "wallet": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+    "slug": "nba-lal-gsw-2026-10-30",
+    "title": "Lakers vs. Warriors",
+    "outcome": "Lakers",
+    "side": "BUY",
+    "usd": 130499.99999999999,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1793407836,
+    "fills": 1
   }
 ]
