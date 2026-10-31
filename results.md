@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 15:12:17 (hora de Perú)
+Actualizado: 2026-10-31 15:14:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7250**  ($410,639,283 en total)
-- Resueltas: **7189** — 4366 ganadas / 2823 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Resueltas: **7190** — 4367 ganadas / 2823 perdidas (**61%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 682
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,807,216** sobre $407,761,497 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,637** sobre $708,800 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,782,216** sobre $407,786,497 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,537** sobre $708,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 511 | 288 | 12 | 64% | $53,007,736 | +$456,538 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 512 | 288 | 11 | 64% | $53,007,736 | +$481,538 |
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
 | googleplay | 51 | 38 | 0 | 57% | $10,880,751 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 1st Half O/U 0.5 | Over 0.5 | 1.37 (73¢) | $29,200 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Rayo Vallecano de Madrid win on 2026-10-31? | Yes | 2.63 (38¢) | $45,024 | +$73,460 | ✅ Ganada |
 | gmpm2 | Spread: Texas Tech (-3.5) | Texas Tech | 1.96 (51¢) | $27,228 | +$26,161 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Michigan (-16.5) | Rutgers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Michigan (-16.5) | Rutgers | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | googleplay | Will Rayo Vallecano de Madrid win on 2026-10-31? | No | 1.61 (62¢) | $31,028 | -$31,028 | ❌ Perdida |
 | liriks | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.56 (39¢) | $28,921 | -$28,921 | ❌ Perdida |
 | TennisAce1 | Rolex Paris Masters, Qualification: Tallon Griekspoor vs Benjamin Bonzi | Benjamin Bonzi | 1.52 (66¢) | $26,402 | +$13,601 | ✅ Ganada |
