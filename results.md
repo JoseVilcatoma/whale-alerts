@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 14:53:54 (hora de Perú)
+Actualizado: 2026-10-31 14:55:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7242**  ($410,127,562 en total)
-- Resueltas: **7186** — 4364 ganadas / 2822 perdidas (**61%** de acierto)
-- Pendientes: 34
-- Apostadores distintos: 681
+- Apuestas registradas: **7244**  ($410,246,628 en total)
+- Resueltas: **7187** — 4365 ganadas / 2822 perdidas (**61%** de acierto)
+- Pendientes: 35
+- Apostadores distintos: 682
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,800,539** sobre $407,668,465 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,643** sobre $708,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,797,572** sobre $407,698,465 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,633** sobre $708,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Woaifacai | 28 | 10 | 0 | 74% | $2,117,095 | +$289,252 |
 
-_(mostrando los 40 de mayor monto, de 681 en total)_
+_(mostrando los 40 de mayor monto, de 682 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Will Aston Villa FC win on 2026-10-31? | No | 1.96 (51¢) | $48,666 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: LOS vs LYON - Game 2 Winner | LOS | 2.44 (41¢) | $70,400 | — | ⏳ Pendiente |
 | meoooow | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.64 (61¢) | $33,046 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $68,097 | — | ⏳ Pendiente |
 | ukowna | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $90,000 | — | ⏳ Pendiente |
@@ -82,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 681 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $44,955 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota vs. Indiana: O/U 41.5 | Over 41.5 | 2.17 (46¢) | $37,418 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $101,459 | — | ⏳ Pendiente |
-| HAN88888 | FC Bayern München vs. BV Borussia 09 Dortmund: O/U 4.5 | Under 4.5 | 1.10 (91¢) | $30,000 | — | ⏳ Pendiente |
+| HAN88888 | FC Bayern München vs. BV Borussia 09 Dortmund: O/U 4.5 | Under 4.5 | 1.10 (91¢) | $30,000 | +$2,967 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Jazz | Trail Blazers | 1.45 (69¢) | $69,000 | — | ⏳ Pendiente |
 | rabbitfoot1 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $40,225 | — | ⏳ Pendiente |
 | omnibus-076daa | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $36,367 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 681 en total)_
 | qiu3 | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.22 (45¢) | $39,685 | +$48,504 | ✅ Ganada |
 | omnibus-076daa | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.27 (44¢) | $48,497 | +$61,723 | ✅ Ganada |
 | todouzai | FK Macva Sabac vs. FK Crvena Zvezda Belgrade: O/U 3.5 | Under 3.5 | 1.67 (60¢) | $35,804 | — | ⏳ Pendiente |
-| hovistomaradona | Aston Villa FC vs. Fulham FC: O/U 2.5 | Under 2.5 | 2.22 (45¢) | $41,353 | — | ⏳ Pendiente |
-| Woaifacai | Lakers vs. Warriors | Warriors | 1.09 (92¢) | $29,439 | +$2,560 | ✅ Ganada |

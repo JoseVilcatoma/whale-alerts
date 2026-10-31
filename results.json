@@ -108684,7 +108684,7 @@
     "side": "BUY",
     "usd": 29999.999996999995,
     "odds_at_bet": 91,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793474177,
     "fills": 1
   },
@@ -108851,6 +108851,36 @@
     "odds_at_bet": 61,
     "status": "pending",
     "ultimo_fill": 1793476392,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14677,
+    "timestamp": 1793476488,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "lol-los-ly-2026-10-31-game2",
+    "title": "LoL: LOS vs LYON - Game 2 Winner",
+    "outcome": "LOS",
+    "side": "BUY",
+    "usd": 70400.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1793476513,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 14678,
+    "timestamp": 1793476495,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "epl-ast-ful-2026-10-31-ast",
+    "title": "Will Aston Villa FC win on 2026-10-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 48665.995200000005,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793476495,
     "fills": 1
   }
 ]
