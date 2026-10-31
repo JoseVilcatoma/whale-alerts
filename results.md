@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 20:48:14 (hora de Perú)
+Actualizado: 2026-10-30 20:50:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7159**  ($406,271,477 en total)
+- Apuestas registradas: **7160**  ($406,297,127 en total)
 - Resueltas: **7101** — 4322 ganadas / 2779 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 674
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| esportsbetter1 | Lakers vs. Warriors | Lakers | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.92 (52¢) | $34,880 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $120,518 | — | ⏳ Pendiente |
 | purplegatto | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $25,938 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | HVAB | Curitiba: Francesca Jones vs Nauhany Leme Da Silva | Nauhany Leme Da Silva | 1.39 (72¢) | $25,666 | +$9,981 | ✅ Ganada |
 | otsosiusa | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $29,247 | -$29,247 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Hornets vs. Wizards | Wizards | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
-| Vps1 | Brest: Martin Damm vs Clement Tabur | Martin Damm | 1.27 (79¢) | $29,631 | +$7,877 | ✅ Ganada |
