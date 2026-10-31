@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 20:56:31 (hora de Perú)
+Actualizado: 2026-10-30 20:58:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7165**  ($406,758,149 en total)
+- Apuestas registradas: **7166**  ($406,788,949 en total)
 - Resueltas: **7103** — 4324 ganadas / 2779 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 674
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sulumos | Lakers vs. Warriors | Lakers | 1.82 (55¢) | $30,800 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 12.50 (8¢) | $28,164 | — | ⏳ Pendiente |
 | CHZHSHCH | Knicks vs. 76ers | 76ers | 1.09 (92¢) | $269,115 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Rockets vs. Mavericks | Rockets | 1.22 (82¢) | $47,168 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | jakepaulthegoat2008 | Clippers vs. Timberwolves | Timberwolves | 1.41 (71¢) | $74,932 | — | ⏳ Pendiente |
 | Wal1 | Knicks vs. 76ers | Knicks | 1.69 (59¢) | $35,618 | — | ⏳ Pendiente |
 | Pvblo | Will Villarreal CF win on 2026-10-30? | Yes | 1.43 (70¢) | $78,658 | -$78,658 | ❌ Perdida |
-| Woaifacai | Will Lille OSC win on 2026-10-30? | Yes | 2.70 (37¢) | $27,006 | +$45,984 | ✅ Ganada |
