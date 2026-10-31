@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 07:55:02 (hora de Perú)
+Actualizado: 2026-10-31 07:57:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7200**  ($408,175,511 en total)
+- Apuestas registradas: **7202**  ($408,266,874 en total)
 - Resueltas: **7162** — 4353 ganadas / 2809 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 18
 - Apostadores distintos: 676
 
 ### Balance
@@ -28,12 +28,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
 | googleplay | 51 | 37 | 0 | 58% | $10,849,722 | +$549,151 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 113 | 66 | 0 | 63% | $8,621,421 | +$147,641 |
+| Lakersfan111 | 113 | 66 | 1 | 63% | $8,685,968 | +$147,641 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| ferrariChampions2026 | 110 | 57 | 1 | 66% | $7,235,440 | +$202,004 |
+| ferrariChampions2026 | 110 | 57 | 2 | 66% | $7,262,256 | +$202,004 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 45 | 22 | 1 | 67% | $6,022,581 | +$1,133,168 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Bilibili Gaming | 2.44 (41¢) | $64,547 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Spread: Notre Dame (-30.5) | Navy | 2.04 (49¢) | $26,816 | — | ⏳ Pendiente |
 | LlamaEnjoyer | Counter-Strike: Nemiga vs FURIA - Map 3 Winner | Nemiga | 2.44 (41¢) | $25,398 | — | ⏳ Pendiente |
 | Kyn008 | Will Levante UD win on 2026-10-31? | No | 1.18 (85¢) | $29,910 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Oklahoma State vs. Iowa State | Oklahoma State | 1.32 (76¢) | $33,356 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 | Multicoloured-Serf | Baylor vs. UCF | UCF | 2.78 (36¢) | $71,341 | -$71,341 | ❌ Perdida |
 | zb8 | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.39 (72¢) | $27,684 | +$10,766 | ✅ Ganada |
 | KaneAnalytics | Baylor vs. UCF | Baylor | 1.82 (55¢) | $38,337 | +$31,367 | ✅ Ganada |
-| DonaldinhoTrumpito | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.11 (90¢) | $90,027 | +$10,003 | ✅ Ganada |
-| jakepaulthegoat2008 | Nuggets vs. Suns | Suns | 2.56 (39¢) | $36,187 | -$36,187 | ❌ Perdida |

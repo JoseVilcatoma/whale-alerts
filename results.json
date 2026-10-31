@@ -108222,5 +108222,35 @@
     "status": "pending",
     "ultimo_fill": 1793450368,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14609,
+    "timestamp": 1793451393,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-nd-navy-2026-10-31-spread-away-30pt5",
+    "title": "Spread: Notre Dame (-30.5)",
+    "outcome": "Navy",
+    "side": "BUY",
+    "usd": 26816.2986,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793451393,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14610,
+    "timestamp": 1793451411,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-hle1-blg-2026-10-31",
+    "title": "LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 64546.7797,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1793451412,
+    "fills": 2
   }
 ]
