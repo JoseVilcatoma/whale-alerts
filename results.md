@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 00:07:11 (hora de Perú)
+Actualizado: 2026-10-31 00:09:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7187**  ($407,700,074 en total)
-- Resueltas: **7142** — 4341 ganadas / 2801 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **7150** — 4345 ganadas / 2805 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 675
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,769,696** sobre $405,679,954 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,739** sobre $704,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,861,073** sobre $406,035,740 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,822** sobre $704,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 508 | 287 | 4 | 64% | $52,251,969 | +$420,143 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 509 | 287 | 3 | 64% | $52,251,969 | +$474,538 |
 | Sassy-Bucket | 99 | 101 | 3 | 50% | $13,223,330 | -$1,289,293 |
-| googleplay | 47 | 37 | 4 | 56% | $10,849,722 | +$333,100 |
+| googleplay | 48 | 37 | 3 | 56% | $10,849,722 | +$378,703 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 113 | 66 | 0 | 63% | $8,621,421 | +$147,641 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 35 | 10 | 0 | 78% | $3,574,490 | +$477,568 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
-| cosmicxbt | 22 | 8 | 1 | 73% | $3,352,330 | -$294,238 |
+| cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 16 | 12 | 0 | 57% | $3,078,507 | -$818,979 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | TAIWANNUMBERONE | 41 | 17 | 2 | 71% | $2,244,502 | -$109,010 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Woaifacai | 27 | 10 | 1 | 73% | $2,117,095 | +$286,692 |
+| Woaifacai | 28 | 10 | 0 | 74% | $2,117,095 | +$289,252 |
 
 _(mostrando los 40 de mayor monto, de 675 en total)_
 
@@ -75,8 +75,8 @@ _(mostrando los 40 de mayor monto, de 675 en total)_
 | omnibus-076daa | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.27 (44¢) | $48,497 | — | ⏳ Pendiente |
 | todouzai | FK Macva Sabac vs. FK Crvena Zvezda Belgrade: O/U 3.5 | Under 3.5 | 1.67 (60¢) | $35,804 | — | ⏳ Pendiente |
 | hovistomaradona | Aston Villa FC vs. Fulham FC: O/U 2.5 | Under 2.5 | 2.22 (45¢) | $41,353 | — | ⏳ Pendiente |
-| Woaifacai | Lakers vs. Warriors | Warriors | 1.09 (92¢) | $29,439 | — | ⏳ Pendiente |
-| omnibus-076daa | Lakers vs. Warriors | Warriors | 1.54 (65¢) | $34,998 | — | ⏳ Pendiente |
+| Woaifacai | Lakers vs. Warriors | Warriors | 1.09 (92¢) | $29,439 | +$2,560 | ✅ Ganada |
+| omnibus-076daa | Lakers vs. Warriors | Warriors | 1.54 (65¢) | $34,998 | +$18,845 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Nuggets | 1.28 (78¢) | $30,504 | +$8,604 | ✅ Ganada |
 | TAIWANNUMBERONE | Kent State vs. Sacramento State | Kent State | 1.30 (77¢) | $31,014 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Nuggets vs. Suns: O/U 255.5 | Under 255.5 | 2.13 (47¢) | $30,305 | +$34,173 | ✅ Ganada |
@@ -89,21 +89,21 @@ _(mostrando los 40 de mayor monto, de 675 en total)_
 | yabanci | Kent State vs. Sacramento State | Sacramento State | 3.70 (27¢) | $28,684 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Suns | 2.70 (37¢) | $74,000 | -$74,000 | ❌ Perdida |
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.85 (54¢) | $78,238 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Warriors | Warriors | 2.27 (44¢) | $42,739 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Warriors | Warriors | 2.27 (44¢) | $42,739 | +$54,395 | ✅ Ganada |
 | takeormake | Knicks vs. 76ers | 76ers | 1.06 (94¢) | $40,000 | +$2,553 | ✅ Ganada |
-| omnibus-076daa | Lakers vs. Warriors | Lakers | 1.79 (56¢) | $25,830 | — | ⏳ Pendiente |
-| sulumos | Lakers vs. Warriors | Lakers | 1.82 (55¢) | $30,800 | — | ⏳ Pendiente |
+| omnibus-076daa | Lakers vs. Warriors | Lakers | 1.79 (56¢) | $25,830 | -$25,830 | ❌ Perdida |
+| sulumos | Lakers vs. Warriors | Lakers | 1.82 (55¢) | $30,800 | -$30,800 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 12.50 (8¢) | $28,164 | -$28,164 | ❌ Perdida |
 | CHZHSHCH | Knicks vs. 76ers | 76ers | 1.09 (92¢) | $269,115 | +$5,850 | 💰 Vendida antes |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Rockets vs. Mavericks | Rockets | 1.22 (82¢) | $47,168 | -$47,168 | ❌ Perdida |
-| googleplay | Lakers vs. Warriors | Warriors | 2.27 (44¢) | $35,831 | — | ⏳ Pendiente |
+| googleplay | Lakers vs. Warriors | Warriors | 2.27 (44¢) | $35,831 | +$45,603 | ✅ Ganada |
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.89 (53¢) | $80,745 | — | ⏳ Pendiente |
-| esportsbetter1 | Lakers vs. Warriors | Lakers | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
+| esportsbetter1 | Lakers vs. Warriors | Lakers | 1.75 (57¢) | $25,650 | -$25,650 | ❌ Perdida |
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.92 (52¢) | $34,880 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $120,518 | +$111,247 | ✅ Ganada |
 | purplegatto | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $25,938 | +$23,942 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Rockets vs. Mavericks | Rockets | 1.30 (77¢) | $42,976 | -$42,976 | ❌ Perdida |
-| cosmicxbt | Lakers vs. Warriors | Lakers | 1.72 (58¢) | $130,500 | — | ⏳ Pendiente |
+| cosmicxbt | Lakers vs. Warriors | Lakers | 1.72 (58¢) | $130,500 | -$130,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Mavericks | Mavericks | 2.13 (47¢) | $47,207 | +$53,233 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Rockets vs. Mavericks | Mavericks | 2.00 (50¢) | $37,134 | +$37,134 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Rockets vs. Mavericks | Rockets | 1.96 (51¢) | $37,652 | -$37,652 | ❌ Perdida |
