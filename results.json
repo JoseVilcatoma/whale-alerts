@@ -107515,5 +107515,20 @@
     "status": "pending",
     "ultimo_fill": 1793407085,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14479,
+    "timestamp": 1793407795,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-hou-dal-2026-10-30",
+    "title": "Rockets vs. Mavericks",
+    "outcome": "Mavericks",
+    "side": "BUY",
+    "usd": 47206.7624,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1793407795,
+    "fills": 1
   }
 ]
