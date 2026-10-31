@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 15:57:15 (hora de Perú)
+Actualizado: 2026-10-31 15:59:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7253**  ($410,750,711 en total)
+- Apuestas registradas: **7254**  ($410,803,490 en total)
 - Resueltas: **7190** — 4367 ganadas / 2823 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 682
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
 | googleplay | 51 | 38 | 0 | 57% | $10,880,751 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 113 | 66 | 3 | 63% | $8,880,994 | +$147,641 |
+| Lakersfan111 | 113 | 66 | 4 | 63% | $8,933,773 | +$147,641 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | 76ers vs. Hornets | 76ers | 1.92 (52¢) | $52,779 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.56 (64¢) | $50,884 | — | ⏳ Pendiente |
 | thegreatjeff | Will AC Milan win on 2026-10-31? | Yes | 1.28 (78¢) | $30,000 | — | ⏳ Pendiente |
 | 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Will Aston Villa FC win on 2026-10-31? | Yes | 1.35 (74¢) | $30,543 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | Mooseborzoiii | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 1.96 (51¢) | $51,000 | +$49,000 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Chelsea FC win on 2026-10-31? | No | 1.79 (56¢) | $27,390 | -$27,390 | ❌ Perdida |
 | ArturitoFilito | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.04 (49¢) | $28,356 | -$28,356 | ❌ Perdida |
-| omnibus-076daa | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 2.00 (50¢) | $48,917 | +$48,917 | ✅ Ganada |
