@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 21:25:44 (hora de Perú)
+Actualizado: 2026-10-30 21:27:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7171**  ($407,049,756 en total)
-- Resueltas: **7105** — 4326 ganadas / 2779 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Resueltas: **7117** — 4329 ganadas / 2788 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 674
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,033,489** sobre $403,317,929 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,796** sobre $700,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,475,743** sobre $404,385,635 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,456** sobre $701,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 505 | 282 | 10 | 64% | $52,195,524 | +$447,671 |
-| Sassy-Bucket | 98 | 100 | 4 | 49% | $13,110,636 | -$1,485,429 |
-| googleplay | 47 | 32 | 9 | 59% | $10,849,722 | +$987,090 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 505 | 284 | 8 | 64% | $52,195,524 | +$376,573 |
+| Sassy-Bucket | 99 | 100 | 3 | 50% | $13,110,636 | -$1,253,429 |
+| googleplay | 47 | 35 | 6 | 57% | $10,849,722 | +$575,332 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 112 | 64 | 3 | 64% | $8,621,421 | +$198,968 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -74,10 +74,10 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Suns | 2.70 (37¢) | $74,000 | — | ⏳ Pendiente |
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.85 (54¢) | $78,238 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Warriors | Warriors | 2.27 (44¢) | $42,739 | — | ⏳ Pendiente |
-| takeormake | Knicks vs. 76ers | 76ers | 1.06 (94¢) | $40,000 | — | ⏳ Pendiente |
+| takeormake | Knicks vs. 76ers | 76ers | 1.06 (94¢) | $40,000 | +$2,553 | ✅ Ganada |
 | omnibus-076daa | Lakers vs. Warriors | Lakers | 1.79 (56¢) | $25,830 | — | ⏳ Pendiente |
 | sulumos | Lakers vs. Warriors | Lakers | 1.82 (55¢) | $30,800 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 12.50 (8¢) | $28,164 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 12.50 (8¢) | $28,164 | -$28,164 | ❌ Perdida |
 | CHZHSHCH | Knicks vs. 76ers | 76ers | 1.09 (92¢) | $269,115 | +$5,850 | 💰 Vendida antes |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Rockets vs. Mavericks | Rockets | 1.22 (82¢) | $47,168 | — | ⏳ Pendiente |
 | googleplay | Lakers vs. Warriors | Warriors | 2.27 (44¢) | $35,831 | — | ⏳ Pendiente |
@@ -105,8 +105,8 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | monkeymashingkeyboard | Rockets vs. Mavericks | Rockets | 1.52 (66¢) | $56,086 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Magic vs. Raptors | Raptors | 1.52 (66¢) | $29,573 | — | ⏳ Pendiente |
 | googleplay | Spread: Raptors (-5.5) | Raptors | 1.92 (52¢) | $214,770 | — | ⏳ Pendiente |
-| googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $164,367 | — | ⏳ Pendiente |
-| Sassy-Bucket | Knicks vs. 76ers | 76ers | 2.38 (42¢) | $168,000 | — | ⏳ Pendiente |
+| googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $164,367 | -$164,367 | ❌ Perdida |
+| Sassy-Bucket | Knicks vs. 76ers | 76ers | 2.38 (42¢) | $168,000 | +$232,000 | ✅ Ganada |
 | googleplay | Spread: Raptors (-5.5) | Raptors | 1.96 (51¢) | $27,462 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Rockets vs. Mavericks | Rockets | 1.54 (65¢) | $45,745 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | G2 Esports | 2.04 (49¢) | $48,588 | -$48,588 | ❌ Perdida |
@@ -114,9 +114,9 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.49 (67¢) | $91,722 | +$45,176 | ✅ Ganada |
 | jakepaulthegoat2008 | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | G2 Esports | 3.12 (32¢) | $64,972 | -$64,972 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.47 (68¢) | $224,758 | +$105,768 | ✅ Ganada |
-| googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $214,429 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $42,934 | — | ⏳ Pendiente |
-| googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $32,962 | — | ⏳ Pendiente |
+| googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $214,429 | -$214,429 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $42,934 | -$42,934 | ❌ Perdida |
+| googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $32,962 | -$32,962 | ❌ Perdida |
 | 0x709179E7392e59922Ab2D73cb1141698b30096f8-1773173619816 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $49,175 | +$13,072 | ✅ Ganada |
 | Sassy-Bucket | Harvard vs. Dartmouth | Harvard | 1.28 (78¢) | $35,864 | — | ⏳ Pendiente |
 | arjennnnn | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $50,000 | +$13,291 | ✅ Ganada |
@@ -127,7 +127,7 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | PrimeOasis1987 | Spread: Rockets (-6.5) | Mavericks | 1.96 (51¢) | $32,397 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.35 (74¢) | $39,641 | -$39,641 | ❌ Perdida |
 | Sassy-Bucket | Devils vs. Golden Knights | Golden Knights | 1.92 (52¢) | $63,329 | -$63,329 | ❌ Perdida |
-| RJW1 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $95,132 | — | ⏳ Pendiente |
+| RJW1 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $95,132 | -$95,132 | ❌ Perdida |
 | jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.43 (70¢) | $54,414 | -$54,414 | ❌ Perdida |
 | Sassy-Bucket | Devils vs. Golden Knights | Golden Knights | 1.92 (52¢) | $64,398 | -$64,398 | ❌ Perdida |
 | fhiwbijd | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | LOS | 3.12 (32¢) | $31,891 | +$67,768 | ✅ Ganada |
