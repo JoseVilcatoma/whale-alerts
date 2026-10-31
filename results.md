@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 21:29:50 (hora de Perú)
+Actualizado: 2026-10-30 21:31:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7173**  ($407,160,047 en total)
+- Apuestas registradas: **7173**  ($407,191,134 en total)
 - Resueltas: **7117** — 4329 ganadas / 2788 perdidas (**61%** de acierto)
 - Pendientes: 34
 - Apostadores distintos: 674
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 505 | 284 | 8 | 64% | $52,195,524 | +$376,573 |
-| Sassy-Bucket | 99 | 100 | 4 | 50% | $13,192,243 | -$1,253,429 |
+| Sassy-Bucket | 99 | 100 | 4 | 50% | $13,223,330 | -$1,253,429 |
 | googleplay | 47 | 35 | 6 | 57% | $10,849,722 | +$575,332 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 112 | 64 | 3 | 64% | $8,621,421 | +$198,968 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Sassy-Bucket | Kent State vs. Sacramento State | Kent State | 1.37 (73¢) | $81,607 | — | ⏳ Pendiente |
+| Sassy-Bucket | Kent State vs. Sacramento State | Kent State | 1.37 (73¢) | $112,694 | — | ⏳ Pendiente |
 | yabanci | Kent State vs. Sacramento State | Sacramento State | 3.70 (27¢) | $28,684 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Suns | 2.70 (37¢) | $74,000 | — | ⏳ Pendiente |
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.85 (54¢) | $78,238 | — | ⏳ Pendiente |
