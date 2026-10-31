@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 10:47:02 (hora de Perú)
+Actualizado: 2026-10-31 10:49:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7217**  ($408,897,231 en total)
+- Apuestas registradas: **7218**  ($408,923,301 en total)
 - Resueltas: **7171** — 4357 ganadas / 2814 perdidas (**61%** de acierto)
-- Pendientes: 24
-- Apostadores distintos: 678
+- Pendientes: 25
+- Apostadores distintos: 679
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Woaifacai | 28 | 10 | 0 | 74% | $2,117,095 | +$289,252 |
 
-_(mostrando los 40 de mayor monto, de 678 en total)_
+_(mostrando los 40 de mayor monto, de 679 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lukibazdonauki754 | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $26,070 | — | ⏳ Pendiente |
 | CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 1st Half O/U 0.5 | Over 0.5 | 1.37 (73¢) | $29,200 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Rayo Vallecano de Madrid win on 2026-10-31? | Yes | 2.63 (38¢) | $45,024 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Texas Tech (-3.5) | Texas Tech | 1.96 (51¢) | $27,228 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 678 en total)_
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.89 (53¢) | $80,745 | +$71,604 | ✅ Ganada |
 | esportsbetter1 | Lakers vs. Warriors | Lakers | 1.75 (57¢) | $25,650 | -$25,650 | ❌ Perdida |
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.92 (52¢) | $34,880 | +$32,197 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $120,518 | +$111,247 | ✅ Ganada |
