@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 06:40:49 (hora de Perú)
+Actualizado: 2026-10-31 06:42:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7193**  ($407,931,183 en total)
+- Apuestas registradas: **7194**  ($407,980,100 en total)
 - Resueltas: **7162** — 4353 ganadas / 2809 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 676
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 2.00 (50¢) | $48,917 | — | ⏳ Pendiente |
 | Lihtaryki | Will Manchester United FC win on 2026-10-31? | No | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
 | plonker2026 | Will Chelsea FC win on 2026-10-31? | No | 1.79 (56¢) | $43,389 | — | ⏳ Pendiente |
 | drainedandpoor | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 1.41 (71¢) | $29,820 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 | googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $164,367 | -$164,367 | ❌ Perdida |
 | Sassy-Bucket | Knicks vs. 76ers | 76ers | 2.38 (42¢) | $168,000 | +$232,000 | ✅ Ganada |
 | googleplay | Spread: Raptors (-5.5) | Raptors | 1.96 (51¢) | $27,462 | -$27,462 | ❌ Perdida |
-| jakepaulthegoat2008 | Rockets vs. Mavericks | Rockets | 1.54 (65¢) | $45,745 | -$45,745 | ❌ Perdida |
