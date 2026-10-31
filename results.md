@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 06:49:04 (hora de Perú)
+Actualizado: 2026-10-31 06:51:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7196**  ($408,035,846 en total)
+- Apuestas registradas: **7197**  ($408,086,846 en total)
 - Resueltas: **7162** — 4353 ganadas / 2809 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 676
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 110 | 57 | 0 | 66% | $7,202,084 | +$202,004 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Mooseborzoiii | 45 | 22 | 0 | 67% | $5,971,581 | +$1,133,168 |
+| Mooseborzoiii | 45 | 22 | 1 | 67% | $6,022,581 | +$1,133,168 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Chelsea FC win on 2026-10-31? | No | 1.79 (56¢) | $27,390 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.04 (49¢) | $28,356 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 2.00 (50¢) | $48,917 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 | monkeymashingkeyboard | Rockets vs. Mavericks | Rockets | 1.52 (66¢) | $56,086 | -$56,086 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Magic vs. Raptors | Raptors | 1.52 (66¢) | $29,573 | -$29,573 | ❌ Perdida |
 | googleplay | Spread: Raptors (-5.5) | Raptors | 1.92 (52¢) | $214,770 | -$214,770 | ❌ Perdida |
-| googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $164,367 | -$164,367 | ❌ Perdida |
