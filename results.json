@@ -109589,5 +109589,20 @@
     "status": "pending",
     "ultimo_fill": 1793489646,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14763,
+    "timestamp": 1793490000,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "cfb-mspst-tx-2026-10-31",
+    "title": "Mississippi State vs. Texas",
+    "outcome": "Texas",
+    "side": "BUY",
+    "usd": 108525.81999999999,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1793490000,
+    "fills": 1
   }
 ]

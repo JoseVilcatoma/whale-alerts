@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 18:38:59 (hora de Perú)
+Actualizado: 2026-10-31 18:41:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7291**  ($413,309,489 en total)
+- Apuestas registradas: **7292**  ($413,418,015 en total)
 - Resueltas: **7223** — 4390 ganadas / 2833 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 683
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 683 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Mississippi State vs. Texas | Texas | 1.06 (94¢) | $108,526 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cavaliers vs. Bucks | Cavaliers | 1.33 (75¢) | $29,376 | — | ⏳ Pendiente |
 | googleplay | Spread: Cavaliers (-9.5) | Bucks | 1.89 (53¢) | $31,383 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Cavaliers (-9.5) | Cavaliers | 2.13 (47¢) | $32,456 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 683 en total)_
 | nigiri99 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $46,138 | +$5,126 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $44,955 | -$44,955 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota vs. Indiana: O/U 41.5 | Over 41.5 | 2.17 (46¢) | $37,418 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $101,459 | -$101,459 | ❌ Perdida |
