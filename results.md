@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 19:21:12 (hora de Perú)
+Actualizado: 2026-10-30 19:23:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7150**  ($405,761,987 en total)
+- Apuestas registradas: **7151**  ($405,794,673 en total)
 - Resueltas: **7081** — 4309 ganadas / 2772 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 673
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 503 | 281 | 7 | 64% | $51,850,211 | +$375,110 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 503 | 281 | 8 | 64% | $51,882,897 | +$375,110 |
 | Sassy-Bucket | 98 | 98 | 6 | 50% | $13,110,636 | -$1,357,701 |
 | googleplay | 47 | 32 | 5 | 59% | $10,620,029 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 673 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.47 (68¢) | $32,685 | — | ⏳ Pendiente |
 | 0xF0F30b69a850f849bcd51A91Ce00984c9ba83cE6-1776270044839 | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.27 (79¢) | $153,999 | — | ⏳ Pendiente |
 | Woaifacai | Hornets vs. Wizards | Wizards | 1.49 (67¢) | $152,808 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | G2 Esports | 2.38 (42¢) | $25,155 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 673 en total)_
 | Mooseborzoiii | Map Handicap: MOUZ (-1.5) vs FURIA (+1.5) | FURIA | 1.49 (67¢) | $53,600 | +$26,400 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.44 (41¢) | $90,112 | +$129,673 | ✅ Ganada |
 | Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.50 (40¢) | $30,657 | +$45,985 | ✅ Ganada |
-| jakepaulthegoat2008 | Counter-Strike: Imperial vs paiN (BO3) - Gamers Club Masters Group B | Imperial | 1.41 (71¢) | $26,146 | +$10,679 | ✅ Ganada |
