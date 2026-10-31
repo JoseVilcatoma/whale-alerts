@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 20:52:22 (hora de Perú)
+Actualizado: 2026-10-30 20:54:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7160**  ($406,297,127 en total)
+- Apuestas registradas: **7162**  ($406,413,703 en total)
 - Resueltas: **7101** — 4322 ganadas / 2779 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 39
 - Apostadores distintos: 674
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 505 | 282 | 7 | 64% | $52,050,621 | +$447,671 |
 | Sassy-Bucket | 98 | 100 | 4 | 49% | $13,110,636 | -$1,485,429 |
-| googleplay | 47 | 32 | 6 | 59% | $10,654,908 | +$987,090 |
+| googleplay | 47 | 32 | 8 | 59% | $10,771,484 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 112 | 64 | 3 | 64% | $8,621,421 | +$198,968 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Lakers vs. Warriors | Warriors | 2.27 (44¢) | $35,831 | — | ⏳ Pendiente |
+| googleplay | Spread: Lakers (-3.5) | Warriors | 1.89 (53¢) | $80,745 | — | ⏳ Pendiente |
 | esportsbetter1 | Lakers vs. Warriors | Lakers | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.92 (52¢) | $34,880 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $120,518 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | SparYel | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Under 2.5 | 1.89 (53¢) | $50,000 | +$44,340 | ✅ Ganada |
 | jakepaulthegoat2008 | Game Handicap: TL (-1.5) vs LOS (+1.5) | Team Liquid | 1.82 (55¢) | $27,027 | -$27,027 | ❌ Perdida |
 | HVAB | Curitiba: Francesca Jones vs Nauhany Leme Da Silva | Nauhany Leme Da Silva | 1.39 (72¢) | $25,666 | +$9,981 | ✅ Ganada |
-| otsosiusa | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $29,247 | -$29,247 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Hornets vs. Wizards | Wizards | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
