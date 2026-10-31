@@ -107817,5 +107817,50 @@
     "status": "pending",
     "ultimo_fill": 1793413831,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 14535,
+    "timestamp": 1793413946,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "nba-den-phx-2026-10-30",
+    "title": "Nuggets vs. Suns",
+    "outcome": "Nuggets",
+    "side": "BUY",
+    "usd": 58607.2479,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1793413947,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 14536,
+    "timestamp": 1793413949,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-den-phx-2026-10-30",
+    "title": "Nuggets vs. Suns",
+    "outcome": "Suns",
+    "side": "BUY",
+    "usd": 25941.5478,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "ultimo_fill": 1793413949,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14537,
+    "timestamp": 1793414014,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "nba-hou-dal-2026-10-30",
+    "title": "Rockets vs. Mavericks",
+    "outcome": "Mavericks",
+    "side": "BUY",
+    "usd": 27173.658499999998,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1793414014,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 21:31:54 (hora de Perú)
+Actualizado: 2026-10-30 21:33:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7173**  ($407,191,134 en total)
+- Apuestas registradas: **7176**  ($407,302,856 en total)
 - Resueltas: **7117** — 4329 ganadas / 2788 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 37
 - Apostadores distintos: 674
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 505 | 284 | 8 | 64% | $52,195,524 | +$376,573 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 505 | 284 | 9 | 64% | $52,221,466 | +$376,573 |
 | Sassy-Bucket | 99 | 100 | 4 | 50% | $13,223,330 | -$1,253,429 |
 | googleplay | 47 | 35 | 6 | 57% | $10,849,722 | +$575,332 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | TAIWANNUMBERONE | 41 | 17 | 0 | 71% | $2,176,369 | -$109,010 |
-| KaneAnalytics | 32 | 15 | 1 | 68% | $2,010,553 | -$22,066 |
+| Woaifacai | 25 | 10 | 2 | 71% | $2,087,656 | +$244,427 |
 
 _(mostrando los 40 de mayor monto, de 674 en total)_
 
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Rockets vs. Mavericks | Mavericks | 1.18 (85¢) | $27,174 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Suns | 2.94 (34¢) | $25,942 | — | ⏳ Pendiente |
+| Woaifacai | Nuggets vs. Suns | Nuggets | 1.64 (61¢) | $58,607 | — | ⏳ Pendiente |
 | Sassy-Bucket | Kent State vs. Sacramento State | Kent State | 1.37 (73¢) | $112,694 | — | ⏳ Pendiente |
 | yabanci | Kent State vs. Sacramento State | Sacramento State | 3.70 (27¢) | $28,684 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Suns | 2.70 (37¢) | $74,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | monkeymashingkeyboard | Rockets vs. Mavericks | Mavericks | 2.78 (36¢) | $26,501 | — | ⏳ Pendiente |
 | PrimeOasis1987 | Spread: Rockets (-6.5) | Mavericks | 1.96 (51¢) | $32,397 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.35 (74¢) | $39,641 | -$39,641 | ❌ Perdida |
-| Sassy-Bucket | Devils vs. Golden Knights | Golden Knights | 1.92 (52¢) | $63,329 | -$63,329 | ❌ Perdida |
-| RJW1 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $95,132 | -$95,132 | ❌ Perdida |
-| jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.43 (70¢) | $54,414 | -$54,414 | ❌ Perdida |
