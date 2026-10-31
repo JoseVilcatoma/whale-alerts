@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 21:00:43 (hora de Perú)
+Actualizado: 2026-10-30 21:02:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7166**  ($406,788,949 en total)
-- Resueltas: **7103** — 4324 ganadas / 2779 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Apuestas registradas: **7168**  ($406,854,779 en total)
+- Resueltas: **7104** — 4325 ganadas / 2779 perdidas (**61%** de acierto)
+- Pendientes: 42
 - Apostadores distintos: 674
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,064,340** sobre $403,023,814 apostados (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,058,489** sobre $403,292,929 apostados (ROI **-0.8%**)
 - Copiando $100 fijo en cada una: **-$6,896** sobre $700,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,9 +71,11 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| takeormake | Knicks vs. 76ers | 76ers | 1.06 (94¢) | $40,000 | — | ⏳ Pendiente |
+| omnibus-076daa | Lakers vs. Warriors | Lakers | 1.79 (56¢) | $25,830 | — | ⏳ Pendiente |
 | sulumos | Lakers vs. Warriors | Lakers | 1.82 (55¢) | $30,800 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 12.50 (8¢) | $28,164 | — | ⏳ Pendiente |
-| CHZHSHCH | Knicks vs. 76ers | 76ers | 1.09 (92¢) | $269,115 | — | ⏳ Pendiente |
+| CHZHSHCH | Knicks vs. 76ers | 76ers | 1.09 (92¢) | $269,115 | +$5,850 | 💰 Vendida antes |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Rockets vs. Mavericks | Rockets | 1.22 (82¢) | $47,168 | — | ⏳ Pendiente |
 | googleplay | Lakers vs. Warriors | Warriors | 2.27 (44¢) | $35,831 | — | ⏳ Pendiente |
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.89 (53¢) | $80,745 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | texaskid | Spread: Knicks (-3.5) | 76ers | 1.96 (51¢) | $93,279 | — | ⏳ Pendiente |
 | RJW1 | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $48,153 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Clippers vs. Timberwolves | Timberwolves | 1.41 (71¢) | $74,932 | — | ⏳ Pendiente |
-| Wal1 | Knicks vs. 76ers | Knicks | 1.69 (59¢) | $35,618 | — | ⏳ Pendiente |
-| Pvblo | Will Villarreal CF win on 2026-10-30? | Yes | 1.43 (70¢) | $78,658 | -$78,658 | ❌ Perdida |
