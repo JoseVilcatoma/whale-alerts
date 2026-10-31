@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 11:35:42 (hora de Perú)
+Actualizado: 2026-10-31 14:00:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7222**  ($409,160,104 en total)
-- Resueltas: **7177** — 4361 ganadas / 2816 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **7182** — 4363 ganadas / 2819 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 679
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,622,217** sobre $407,218,754 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,437** sobre $707,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,627,607** sobre $407,440,806 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,447** sobre $708,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 511 | 287 | 6 | 64% | $52,578,714 | +$540,538 |
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
-| googleplay | 51 | 37 | 1 | 58% | $10,880,751 | +$549,151 |
+| googleplay | 51 | 38 | 0 | 57% | $10,880,751 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 113 | 66 | 1 | 63% | $8,685,968 | +$147,641 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -77,15 +77,15 @@ _(mostrando los 40 de mayor monto, de 679 en total)_
 | CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $28,215 | — | ⏳ Pendiente |
 | lukibazdonauki754 | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $26,070 | — | ⏳ Pendiente |
 | CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 1st Half O/U 0.5 | Over 0.5 | 1.37 (73¢) | $29,200 | — | ⏳ Pendiente |
-| 1l2ihj34li12u34 | Will Rayo Vallecano de Madrid win on 2026-10-31? | Yes | 2.63 (38¢) | $45,024 | — | ⏳ Pendiente |
+| 1l2ihj34li12u34 | Will Rayo Vallecano de Madrid win on 2026-10-31? | Yes | 2.63 (38¢) | $45,024 | +$73,460 | ✅ Ganada |
 | gmpm2 | Spread: Texas Tech (-3.5) | Texas Tech | 1.96 (51¢) | $27,228 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Michigan (-16.5) | Rutgers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| googleplay | Will Rayo Vallecano de Madrid win on 2026-10-31? | No | 1.61 (62¢) | $31,028 | — | ⏳ Pendiente |
+| googleplay | Will Rayo Vallecano de Madrid win on 2026-10-31? | No | 1.61 (62¢) | $31,028 | -$31,028 | ❌ Perdida |
 | liriks | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.56 (39¢) | $28,921 | -$28,921 | ❌ Perdida |
 | TennisAce1 | Rolex Paris Masters, Qualification: Tallon Griekspoor vs Benjamin Bonzi | Benjamin Bonzi | 1.52 (66¢) | $26,402 | +$13,601 | ✅ Ganada |
-| 1l2ihj34li12u34 | Brentford FC vs. Nottingham Forest FC: O/U 2.5 | Under 2.5 | 2.27 (44¢) | $43,198 | — | ⏳ Pendiente |
-| rabbitfoot1 | AFC Bournemouth vs. Leeds United FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $75,539 | — | ⏳ Pendiente |
-| 1l2ihj34li12u34 | Will Ipswich Town FC win on 2026-10-31? | Yes | 2.63 (38¢) | $27,263 | — | ⏳ Pendiente |
+| 1l2ihj34li12u34 | Brentford FC vs. Nottingham Forest FC: O/U 2.5 | Under 2.5 | 2.27 (44¢) | $43,198 | +$54,979 | ✅ Ganada |
+| rabbitfoot1 | AFC Bournemouth vs. Leeds United FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $75,539 | -$75,539 | ❌ Perdida |
+| 1l2ihj34li12u34 | Will Ipswich Town FC win on 2026-10-31? | Yes | 2.63 (38¢) | $27,263 | -$27,263 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-10-31? | Yes | 1.52 (66¢) | $66,000 | +$34,000 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: Nemiga vs FURIA - Map 4 Winner | FURIA | 1.52 (66¢) | $29,554 | -$29,554 | ❌ Perdida |
 | RJW1 | Will Manchester United FC win on 2026-10-31? | Yes | 3.12 (32¢) | $32,000 | -$32,000 | ❌ Perdida |
