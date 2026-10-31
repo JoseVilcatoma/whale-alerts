@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 14:47:48 (hora de Perú)
+Actualizado: 2026-10-31 14:49:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7240**  ($410,026,419 en total)
-- Resueltas: **7185** — 4364 ganadas / 2821 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **7186** — 4364 ganadas / 2822 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 681
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,716,539** sobre $407,584,465 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,543** sobre $708,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,800,539** sobre $407,668,465 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,643** sobre $708,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 511 | 287 | 10 | 64% | $52,831,547 | +$540,538 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 511 | 288 | 9 | 64% | $52,831,547 | +$456,538 |
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
 | googleplay | 51 | 38 | 0 | 57% | $10,880,751 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 681 en total)_
 | ch27er | Trail Blazers vs. Jazz | Jazz | 3.23 (31¢) | $25,000 | — | ⏳ Pendiente |
 | ch27er | Spread: Trail Blazers (-8.5) | Jazz | 1.75 (57¢) | $27,500 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Utah (-7.5) | Utah | 2.08 (48¢) | $27,192 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. BV Borussia 09 Dortmund end in a draw? | No | 1.19 (84¢) | $84,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. BV Borussia 09 Dortmund end in a draw? | No | 1.19 (84¢) | $84,000 | -$84,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Porto vs. Estoril Praia: O/U 5.5 | Under 5.5 | 1.15 (87¢) | $83,745 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Notre Dame (-30.5) | Notre Dame | 1.92 (52¢) | $40,843 | -$40,843 | ❌ Perdida |
 | CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $28,215 | — | ⏳ Pendiente |
