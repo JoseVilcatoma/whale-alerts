@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 08:24:10 (hora de Perú)
+Actualizado: 2026-10-31 08:26:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7205**  ($408,442,874 en total)
+- Apuestas registradas: **7206**  ($408,472,428 en total)
 - Resueltas: **7162** — 4353 ganadas / 2809 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 676
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: Nemiga vs FURIA - Map 4 Winner | FURIA | 1.52 (66¢) | $29,554 | — | ⏳ Pendiente |
 | RJW1 | Will Manchester United FC win on 2026-10-31? | Yes | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC win on 2026-10-31? | No | 1.47 (68¢) | $68,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Karmine Corp vs Movistar KOI (BO3) - Worlds Group Stage | Movistar KOI | 2.63 (38¢) | $76,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 | Woaifacai | Hornets vs. Wizards | Wizards | 1.49 (67¢) | $152,808 | +$75,264 | ✅ Ganada |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | G2 Esports | 2.38 (42¢) | $25,155 | -$25,155 | ❌ Perdida |
 | PEYZ-BIGGEST-FAN | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.67 (60¢) | $36,000 | +$24,000 | ✅ Ganada |
-| Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | G2 Esports | 2.44 (41¢) | $36,108 | -$36,108 | ❌ Perdida |

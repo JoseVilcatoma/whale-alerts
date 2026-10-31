@@ -108297,5 +108297,20 @@
     "status": "pending",
     "ultimo_fill": 1793452820,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14614,
+    "timestamp": 1793453155,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-nemi1-furia-2026-10-31-game4",
+    "title": "Counter-Strike: Nemiga vs FURIA - Map 4 Winner",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 29553.546000000002,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1793453155,
+    "fills": 1
   }
 ]
