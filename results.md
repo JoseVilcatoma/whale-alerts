@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 21:33:55 (hora de Perú)
+Actualizado: 2026-10-30 21:36:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7176**  ($407,302,856 en total)
-- Resueltas: **7117** — 4329 ganadas / 2788 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Resueltas: **7120** — 4329 ganadas / 2791 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 674
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,475,743** sobre $404,385,635 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,456** sobre $701,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,747,547** sobre $404,657,439 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,756** sobre $701,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 505 | 284 | 9 | 64% | $52,221,466 | +$376,573 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 505 | 285 | 8 | 64% | $52,221,466 | +$347,000 |
 | Sassy-Bucket | 99 | 100 | 4 | 50% | $13,223,330 | -$1,253,429 |
-| googleplay | 47 | 35 | 6 | 57% | $10,849,722 | +$575,332 |
+| googleplay | 47 | 37 | 4 | 56% | $10,849,722 | +$333,100 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 112 | 64 | 3 | 64% | $8,621,421 | +$198,968 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -108,11 +108,11 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | DonaldinhoTrumpito | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.11 (90¢) | $90,027 | +$10,003 | ✅ Ganada |
 | jakepaulthegoat2008 | Nuggets vs. Suns | Suns | 2.56 (39¢) | $36,187 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Rockets vs. Mavericks | Rockets | 1.52 (66¢) | $56,086 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Magic vs. Raptors | Raptors | 1.52 (66¢) | $29,573 | — | ⏳ Pendiente |
-| googleplay | Spread: Raptors (-5.5) | Raptors | 1.92 (52¢) | $214,770 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Magic vs. Raptors | Raptors | 1.52 (66¢) | $29,573 | -$29,573 | ❌ Perdida |
+| googleplay | Spread: Raptors (-5.5) | Raptors | 1.92 (52¢) | $214,770 | -$214,770 | ❌ Perdida |
 | googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $164,367 | -$164,367 | ❌ Perdida |
 | Sassy-Bucket | Knicks vs. 76ers | 76ers | 2.38 (42¢) | $168,000 | +$232,000 | ✅ Ganada |
-| googleplay | Spread: Raptors (-5.5) | Raptors | 1.96 (51¢) | $27,462 | — | ⏳ Pendiente |
+| googleplay | Spread: Raptors (-5.5) | Raptors | 1.96 (51¢) | $27,462 | -$27,462 | ❌ Perdida |
 | jakepaulthegoat2008 | Rockets vs. Mavericks | Rockets | 1.54 (65¢) | $45,745 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | G2 Esports | 2.04 (49¢) | $48,588 | -$48,588 | ❌ Perdida |
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.96 (51¢) | $50,532 | +$48,551 | ✅ Ganada |
