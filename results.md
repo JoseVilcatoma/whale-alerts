@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 17:03:24 (hora de Perú)
+Actualizado: 2026-10-31 17:05:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7272**  ($411,846,145 en total)
+- Apuestas registradas: **7272**  ($412,201,050 en total)
 - Resueltas: **7195** — 4370 ganadas / 2825 perdidas (**61%** de acierto)
 - Pendientes: 55
 - Apostadores distintos: 682
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.56 (64¢) | $28,544 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.54 (65¢) | $64,500 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.54 (65¢) | $419,405 | — | ⏳ Pendiente |
 | googleplay | Hawks vs. Pelicans | Hawks | 1.54 (65¢) | $80,796 | — | ⏳ Pendiente |
 | YEEES-but-why | Hawks vs. Pelicans | Pelicans | 2.86 (35¢) | $26,639 | — | ⏳ Pendiente |
 | yabanci | Spread: Hawks (-4.5) | Pelicans | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
