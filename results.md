@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 09:16:09 (hora de Perú)
+Actualizado: 2026-10-31 09:18:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7210**  ($408,684,428 en total)
+- Apuestas registradas: **7211**  ($408,710,829 en total)
 - Resueltas: **7163** — 4353 ganadas / 2810 perdidas (**61%** de acierto)
-- Pendientes: 25
-- Apostadores distintos: 676
+- Pendientes: 26
+- Apostadores distintos: 677
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Woaifacai | 28 | 10 | 0 | 74% | $2,117,095 | +$289,252 |
 
-_(mostrando los 40 de mayor monto, de 676 en total)_
+_(mostrando los 40 de mayor monto, de 677 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TennisAce1 | Rolex Paris Masters, Qualification: Tallon Griekspoor vs Benjamin Bonzi | Benjamin Bonzi | 1.52 (66¢) | $26,402 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Brentford FC vs. Nottingham Forest FC: O/U 2.5 | Under 2.5 | 2.27 (44¢) | $43,198 | — | ⏳ Pendiente |
 | rabbitfoot1 | AFC Bournemouth vs. Leeds United FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $75,539 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Ipswich Town FC win on 2026-10-31? | Yes | 2.63 (38¢) | $27,263 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Mavericks | Mavericks | 2.13 (47¢) | $47,207 | +$53,233 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Rockets vs. Mavericks | Mavericks | 2.00 (50¢) | $37,134 | +$37,134 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Rockets vs. Mavericks | Rockets | 1.96 (51¢) | $37,652 | -$37,652 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.47 (68¢) | $32,685 | +$15,381 | ✅ Ganada |
