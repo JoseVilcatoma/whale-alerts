@@ -107892,5 +107892,35 @@
     "status": "pending",
     "ultimo_fill": 1793416706,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14555,
+    "timestamp": 1793416835,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "nba-den-phx-2026-10-30-total-255pt5",
+    "title": "Nuggets vs. Suns: O/U 255.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 30304.678799999998,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1793416835,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14556,
+    "timestamp": 1793416856,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "cfb-kentst-sacst-2026-10-30",
+    "title": "Kent State vs. Sacramento State",
+    "outcome": "Kent State",
+    "side": "BUY",
+    "usd": 31013.990700000002,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1793416856,
+    "fills": 1
   }
 ]
