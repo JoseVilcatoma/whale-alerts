@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 14:17:05 (hora de Perú)
+Actualizado: 2026-10-31 14:19:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7231**  ($409,570,085 en total)
+- Apuestas registradas: **7232**  ($409,671,544 en total)
 - Resueltas: **7182** — 4363 ganadas / 2819 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 681
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 511 | 287 | 7 | 64% | $52,647,714 | +$540,538 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 511 | 287 | 8 | 64% | $52,749,173 | +$540,538 |
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
 | googleplay | 51 | 38 | 0 | 57% | $10,880,751 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 681 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $101,459 | — | ⏳ Pendiente |
 | HAN88888 | FC Bayern München vs. BV Borussia 09 Dortmund: O/U 4.5 | Under 4.5 | 1.10 (91¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Jazz | Trail Blazers | 1.45 (69¢) | $69,000 | — | ⏳ Pendiente |
 | rabbitfoot1 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $40,225 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 681 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Suns | 2.94 (34¢) | $25,942 | -$25,942 | ❌ Perdida |
 | Woaifacai | Nuggets vs. Suns | Nuggets | 1.64 (61¢) | $58,607 | +$37,470 | ✅ Ganada |
 | Sassy-Bucket | Kent State vs. Sacramento State | Kent State | 1.37 (73¢) | $112,694 | -$112,694 | ❌ Perdida |
-| yabanci | Kent State vs. Sacramento State | Sacramento State | 3.70 (27¢) | $28,684 | +$77,553 | ✅ Ganada |
