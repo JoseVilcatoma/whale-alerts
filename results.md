@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 18:30:42 (hora de Perú)
+Actualizado: 2026-10-31 18:32:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7288**  ($413,216,275 en total)
+- Apuestas registradas: **7289**  ($413,248,731 en total)
 - Resueltas: **7222** — 4389 ganadas / 2833 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 683
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 683 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Spread: Cavaliers (-9.5) | Cavaliers | 2.13 (47¢) | $32,456 | — | ⏳ Pendiente |
 | 999585 | Mississippi State vs. Texas | Texas | 1.10 (91¢) | $183,012 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,297 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-4.5) | 76ers | 2.27 (44¢) | $42,932 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 683 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $101,459 | -$101,459 | ❌ Perdida |
 | HAN88888 | FC Bayern München vs. BV Borussia 09 Dortmund: O/U 4.5 | Under 4.5 | 1.10 (91¢) | $30,000 | +$2,967 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Jazz | Trail Blazers | 1.45 (69¢) | $69,000 | +$31,000 | ✅ Ganada |
-| rabbitfoot1 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $40,225 | -$40,225 | ❌ Perdida |

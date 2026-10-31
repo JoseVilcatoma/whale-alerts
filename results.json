@@ -109544,5 +109544,20 @@
     "status": "pending",
     "ultimo_fill": 1793489065,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 14759,
+    "timestamp": 1793489506,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nba-cle-mil-2026-10-31-spread-away-9pt5",
+    "title": "Spread: Cavaliers (-9.5)",
+    "outcome": "Cavaliers",
+    "side": "BUY",
+    "usd": 32455.995699999996,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1793489506,
+    "fills": 1
   }
 ]
