@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 08:38:55 (hora de Perú)
+Actualizado: 2026-10-31 08:41:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7206**  ($408,472,428 en total)
+- Apuestas registradas: **7207**  ($408,538,428 en total)
 - Resueltas: **7162** — 4353 ganadas / 2809 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 676
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 509 | 287 | 4 | 64% | $52,319,969 | +$474,538 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 509 | 287 | 5 | 64% | $52,385,969 | +$474,538 |
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
 | googleplay | 51 | 37 | 0 | 58% | $10,849,722 | +$549,151 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-10-31? | Yes | 1.52 (66¢) | $66,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: Nemiga vs FURIA - Map 4 Winner | FURIA | 1.52 (66¢) | $29,554 | — | ⏳ Pendiente |
 | RJW1 | Will Manchester United FC win on 2026-10-31? | Yes | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC win on 2026-10-31? | No | 1.47 (68¢) | $68,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 | 0xF0F30b69a850f849bcd51A91Ce00984c9ba83cE6-1776270044839 | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.27 (79¢) | $153,999 | +$40,936 | ✅ Ganada |
 | Woaifacai | Hornets vs. Wizards | Wizards | 1.49 (67¢) | $152,808 | +$75,264 | ✅ Ganada |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | G2 Esports | 2.38 (42¢) | $25,155 | -$25,155 | ❌ Perdida |
-| PEYZ-BIGGEST-FAN | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.67 (60¢) | $36,000 | +$24,000 | ✅ Ganada |
