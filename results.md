@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 20:10:58 (hora de Perú)
+Actualizado: 2026-10-30 20:13:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7155**  ($406,047,165 en total)
+- Apuestas registradas: **7157**  ($406,116,079 en total)
 - Resueltas: **7084** — 4309 ganadas / 2775 perdidas (**61%** de acierto)
-- Pendientes: 49
-- Apostadores distintos: 673
+- Pendientes: 51
+- Apostadores distintos: 674
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 41 | 17 | 0 | 71% | $2,176,369 | -$109,010 |
 | KaneAnalytics | 32 | 15 | 1 | 68% | $2,010,553 | -$22,066 |
 
-_(mostrando los 40 de mayor monto, de 673 en total)_
+_(mostrando los 40 de mayor monto, de 674 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| purplegatto | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $25,938 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Rockets vs. Mavericks | Rockets | 1.30 (77¢) | $42,976 | — | ⏳ Pendiente |
 | cosmicxbt | Lakers vs. Warriors | Lakers | 1.72 (58¢) | $130,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Mavericks | Mavericks | 2.13 (47¢) | $47,207 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Rockets vs. Mavericks | Mavericks | 2.00 (50¢) | $37,134 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 673 en total)_
 | Vps1 | Brest: Martin Damm vs Clement Tabur | Martin Damm | 1.27 (79¢) | $29,631 | +$7,877 | ✅ Ganada |
 | 999585 | Swiss Indoors Basel: Taylor Fritz vs Arthur Fils | Taylor Fritz | 1.15 (87¢) | $36,867 | +$5,509 | ✅ Ganada |
 | monkeymashingkeyboard | Magic vs. Raptors: O/U 226.5 | Over 226.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| omnibus-076daa | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.67 (60¢) | $29,270 | -$29,270 | ❌ Perdida |
-| Mooseborzoiii | Map Handicap: MOUZ (-1.5) vs FURIA (+1.5) | FURIA | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
