@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 18:51:35 (hora de Perú)
+Actualizado: 2026-10-31 18:53:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7294**  ($413,528,695 en total)
+- Apuestas registradas: **7297**  ($413,654,127 en total)
 - Resueltas: **7228** — 4393 ganadas / 2835 perdidas (**61%** de acierto)
-- Pendientes: 44
-- Apostadores distintos: 683
+- Pendientes: 47
+- Apostadores distintos: 684
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 516 | 291 | 8 | 64% | $53,249,212 | +$386,959 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 516 | 291 | 9 | 64% | $53,289,925 | +$386,959 |
 | Sassy-Bucket | 99 | 102 | 3 | 49% | $13,315,384 | -$1,401,987 |
 | googleplay | 51 | 38 | 8 | 57% | $11,516,128 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 29 | 15 | 0 | 66% | $2,603,192 | +$441,923 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Talvez10 | 28 | 26 | 0 | 52% | $2,548,911 | +$59,717 |
+| Talvez10 | 28 | 26 | 1 | 52% | $2,588,270 | +$59,717 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Woaifacai | 28 | 10 | 0 | 74% | $2,117,095 | +$289,252 |
 
-_(mostrando los 40 de mayor monto, de 683 en total)_
+_(mostrando los 40 de mayor monto, de 684 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $40,713 | — | ⏳ Pendiente |
+| jizzbucket57 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $45,360 | — | ⏳ Pendiente |
+| Talvez10 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $39,359 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Grizzlies | Grizzlies | 1.35 (74¢) | $68,680 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
 | 999585 | Mississippi State vs. Texas | Texas | 1.06 (94¢) | $108,526 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 683 en total)_
 | ukowna | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $90,000 | +$10,000 | ✅ Ganada |
 | vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LOS | 1.79 (56¢) | $25,200 | -$25,200 | ❌ Perdida |
 | Multicoloured-Serf | Spread: New Mexico (-14.5) | San Jose State | 2.04 (49¢) | $31,677 | +$32,970 | ✅ Ganada |
-| surfandturf | Boxing: Canelo Álvarez vs. Christian Mbilli | Canelo | 1.39 (72¢) | $34,495 | — | ⏳ Pendiente |
-| CUTJALENHURTS | Colorado State vs. Utah State | Utah State | 1.33 (75¢) | $44,991 | +$14,997 | ✅ Ganada |
-| nigiri99 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $46,138 | +$5,126 | ✅ Ganada |

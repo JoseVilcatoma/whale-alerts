@@ -109634,5 +109634,50 @@
     "status": "pending",
     "ultimo_fill": 1793490283,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14771,
+    "timestamp": 1793490711,
+    "username": "jizzbucket57",
+    "wallet": "0xc49fe658479db29e1a2fefebf0735f657dca9e05",
+    "slug": "nba-cle-mil-2026-10-31-spread-away-9pt5",
+    "title": "Spread: Cavaliers (-9.5)",
+    "outcome": "Bucks",
+    "side": "BUY",
+    "usd": 45360.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793490711,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14772,
+    "timestamp": 1793490725,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-cle-mil-2026-10-31-spread-away-9pt5",
+    "title": "Spread: Cavaliers (-9.5)",
+    "outcome": "Bucks",
+    "side": "BUY",
+    "usd": 40712.5656,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793490725,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14773,
+    "timestamp": 1793490670,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "nba-cle-mil-2026-10-31-spread-away-9pt5",
+    "title": "Spread: Cavaliers (-9.5)",
+    "outcome": "Bucks",
+    "side": "BUY",
+    "usd": 39359.1347024,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793490670,
+    "fills": 1
   }
 ]
