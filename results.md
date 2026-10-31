@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 18:04:08 (hora de Perú)
+Actualizado: 2026-10-31 18:06:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7282**  ($412,764,217 en total)
-- Resueltas: **7220** — 4387 ganadas / 2833 perdidas (**61%** de acierto)
+- Apuestas registradas: **7283**  ($412,799,073 en total)
+- Resueltas: **7221** — 4388 ganadas / 2833 perdidas (**61%** de acierto)
 - Pendientes: 40
 - Apostadores distintos: 682
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,815,765** sobre $409,229,820 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,669** sobre $711,800 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,800,767** sobre $409,274,811 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,635** sobre $711,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fhiwbijd | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Hanwha Life Esports | 2.86 (35¢) | $34,855 | — | ⏳ Pendiente |
 | zb8 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $32,572 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Thunder vs. Rockets | Thunder | 2.33 (43¢) | $27,325 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $35,905 | — | ⏳ Pendiente |
@@ -117,7 +118,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LOS | 1.79 (56¢) | $25,200 | -$25,200 | ❌ Perdida |
 | Multicoloured-Serf | Spread: New Mexico (-14.5) | San Jose State | 2.04 (49¢) | $31,677 | — | ⏳ Pendiente |
 | surfandturf | Boxing: Canelo Álvarez vs. Christian Mbilli | Canelo | 1.39 (72¢) | $34,495 | — | ⏳ Pendiente |
-| CUTJALENHURTS | Colorado State vs. Utah State | Utah State | 1.33 (75¢) | $44,991 | — | ⏳ Pendiente |
+| CUTJALENHURTS | Colorado State vs. Utah State | Utah State | 1.33 (75¢) | $44,991 | +$14,997 | ✅ Ganada |
 | nigiri99 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $46,138 | +$5,126 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $44,955 | -$44,955 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota vs. Indiana: O/U 41.5 | Over 41.5 | 2.17 (46¢) | $37,418 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | jakepaulthegoat2008 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.32 (76¢) | $126,697 | +$40,010 | ✅ Ganada |
 | ch27er | Trail Blazers vs. Jazz | Jazz | 3.23 (31¢) | $25,000 | -$25,000 | ❌ Perdida |
 | ch27er | Spread: Trail Blazers (-8.5) | Jazz | 1.75 (57¢) | $27,500 | -$27,500 | ❌ Perdida |
-| Multicoloured-Serf | Spread: Utah (-7.5) | Utah | 2.08 (48¢) | $27,192 | — | ⏳ Pendiente |

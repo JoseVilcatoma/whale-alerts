@@ -108759,7 +108759,7 @@
     "side": "BUY",
     "usd": 44991.33,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793475377,
     "fills": 1
   },
@@ -109453,6 +109453,21 @@
     "odds_at_bet": 58,
     "status": "pending",
     "ultimo_fill": 1793487829,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14752,
+    "timestamp": 1793487932,
+    "username": "fhiwbijd",
+    "wallet": "0xb5a5e9d836c828bb0f0e26cc978089cc58fcc668",
+    "slug": "lol-hle1-blg-2026-10-31",
+    "title": "LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 34855.2808,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1793487932,
     "fills": 1
   }
 ]
