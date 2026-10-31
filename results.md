@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 14:15:03 (hora de Perú)
+Actualizado: 2026-10-31 14:17:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7230**  ($409,540,085 en total)
+- Apuestas registradas: **7231**  ($409,570,085 en total)
 - Resueltas: **7182** — 4363 ganadas / 2819 perdidas (**61%** de acierto)
-- Pendientes: 26
-- Apostadores distintos: 680
+- Pendientes: 27
+- Apostadores distintos: 681
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Woaifacai | 28 | 10 | 0 | 74% | $2,117,095 | +$289,252 |
 
-_(mostrando los 40 de mayor monto, de 680 en total)_
+_(mostrando los 40 de mayor monto, de 681 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HAN88888 | FC Bayern München vs. BV Borussia 09 Dortmund: O/U 4.5 | Under 4.5 | 1.10 (91¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Jazz | Trail Blazers | 1.45 (69¢) | $69,000 | — | ⏳ Pendiente |
 | rabbitfoot1 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $40,225 | — | ⏳ Pendiente |
 | omnibus-076daa | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $36,367 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 680 en total)_
 | Woaifacai | Nuggets vs. Suns | Nuggets | 1.64 (61¢) | $58,607 | +$37,470 | ✅ Ganada |
 | Sassy-Bucket | Kent State vs. Sacramento State | Kent State | 1.37 (73¢) | $112,694 | -$112,694 | ❌ Perdida |
 | yabanci | Kent State vs. Sacramento State | Sacramento State | 3.70 (27¢) | $28,684 | +$77,553 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Suns | 2.70 (37¢) | $74,000 | -$74,000 | ❌ Perdida |
