@@ -108702,5 +108702,20 @@
     "status": "pending",
     "ultimo_fill": 1793474242,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14662,
+    "timestamp": 1793474498,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-minnst-ind-2026-10-31-total-41pt5",
+    "title": "Minnesota vs. Indiana: O/U 41.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 37418.240000000005,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1793474498,
+    "fills": 1
   }
 ]
