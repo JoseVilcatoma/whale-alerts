@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 20:17:09 (hora de Perú)
+Actualizado: 2026-10-30 20:19:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7158**  ($406,236,597 en total)
-- Resueltas: **7084** — 4309 ganadas / 2775 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Resueltas: **7087** — 4311 ganadas / 2776 perdidas (**61%** de acierto)
+- Pendientes: 49
 - Apostadores distintos: 674
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,437,694** sobre $401,699,676 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,285** sobre $698,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,351,722** sobre $402,081,129 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,289** sobre $698,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 503 | 281 | 10 | 64% | $52,050,621 | +$375,110 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 504 | 281 | 9 | 64% | $52,050,621 | +$480,878 |
 | Sassy-Bucket | 98 | 100 | 4 | 49% | $13,110,636 | -$1,485,429 |
 | googleplay | 47 | 32 | 5 | 59% | $10,620,029 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 112 | 63 | 4 | 64% | $8,621,421 | +$263,940 |
+| Lakersfan111 | 112 | 64 | 3 | 64% | $8,621,421 | +$198,968 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 96 | 91 | 0 | 51% | $7,543,055 | -$650,990 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 110 | 57 | 0 | 66% | $7,202,084 | +$202,004 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Mooseborzoiii | 41 | 20 | 6 | 67% | $5,971,581 | +$1,006,285 |
+| Mooseborzoiii | 42 | 20 | 5 | 68% | $5,971,581 | +$1,051,461 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -98,9 +98,9 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | jakepaulthegoat2008 | Rockets vs. Mavericks | Rockets | 1.54 (65¢) | $45,745 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | G2 Esports | 2.04 (49¢) | $48,588 | — | ⏳ Pendiente |
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.96 (51¢) | $50,532 | — | ⏳ Pendiente |
-| Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.49 (67¢) | $91,722 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | G2 Esports | 3.12 (32¢) | $64,972 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.47 (68¢) | $224,758 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.49 (67¢) | $91,722 | +$45,176 | ✅ Ganada |
+| jakepaulthegoat2008 | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | G2 Esports | 3.12 (32¢) | $64,972 | -$64,972 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.47 (68¢) | $224,758 | +$105,768 | ✅ Ganada |
 | googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $214,429 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $42,934 | — | ⏳ Pendiente |
 | googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $32,962 | — | ⏳ Pendiente |
