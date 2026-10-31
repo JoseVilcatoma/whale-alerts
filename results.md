@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 16:38:36 (hora de Perú)
+Actualizado: 2026-10-31 16:40:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7258**  ($410,934,157 en total)
+- Apuestas registradas: **7259**  ($410,959,440 en total)
 - Resueltas: **7191** — 4368 ganadas / 2823 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 682
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 512 | 288 | 11 | 64% | $53,007,736 | +$481,538 |
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
-| googleplay | 51 | 38 | 0 | 57% | $10,880,751 | +$518,123 |
+| googleplay | 51 | 38 | 1 | 57% | $10,906,033 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 113 | 66 | 4 | 63% | $8,933,773 | +$147,641 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Hawks (-4.5) | Hawks | 1.92 (52¢) | $25,282 | — | ⏳ Pendiente |
 | robustmst | Sioux Falls: Liam Draxl vs Sebastian Dominko | Liam Draxl | 1.96 (51¢) | $29,402 | — | ⏳ Pendiente |
 | mooseborzoi | Hawks vs. Pelicans | Hawks | 1.59 (63¢) | $37,859 | — | ⏳ Pendiente |
 | PrimeOasis1987 | 76ers vs. Hornets | 76ers | 1.89 (53¢) | $38,207 | +$721 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | jakepaulthegoat2008 | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Bilibili Gaming | 2.44 (41¢) | $64,547 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Notre Dame (-30.5) | Navy | 2.04 (49¢) | $26,816 | +$27,911 | ✅ Ganada |
 | LlamaEnjoyer | Counter-Strike: Nemiga vs FURIA - Map 3 Winner | Nemiga | 2.44 (41¢) | $25,398 | -$25,398 | ❌ Perdida |
-| Kyn008 | Will Levante UD win on 2026-10-31? | No | 1.18 (85¢) | $29,910 | +$5,278 | ✅ Ganada |
