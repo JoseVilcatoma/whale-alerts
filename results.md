@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 17:01:19 (hora de Perú)
+Actualizado: 2026-10-31 17:03:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7268**  ($411,645,665 en total)
-- Resueltas: **7194** — 4369 ganadas / 2825 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Apuestas registradas: **7272**  ($411,846,145 en total)
+- Resueltas: **7195** — 4370 ganadas / 2825 perdidas (**61%** de acierto)
+- Pendientes: 55
 - Apostadores distintos: 682
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,802,995** sobre $407,946,204 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,692** sobre $709,200 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,794,533** sobre $407,976,204 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,664** sobre $709,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 513 | 288 | 11 | 64% | $53,113,736 | +$512,538 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 513 | 288 | 12 | 64% | $53,142,280 | +$512,538 |
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
-| googleplay | 51 | 38 | 5 | 57% | $11,302,904 | +$518,123 |
+| googleplay | 51 | 38 | 6 | 57% | $11,383,700 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 113 | 66 | 4 | 63% | $8,933,773 | +$147,641 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.56 (64¢) | $28,544 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.54 (65¢) | $64,500 | — | ⏳ Pendiente |
+| googleplay | Hawks vs. Pelicans | Hawks | 1.54 (65¢) | $80,796 | — | ⏳ Pendiente |
+| YEEES-but-why | Hawks vs. Pelicans | Pelicans | 2.86 (35¢) | $26,639 | — | ⏳ Pendiente |
 | yabanci | Spread: Hawks (-4.5) | Pelicans | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
 | googleplay | Hawks vs. Pelicans | Hawks | 1.54 (65¢) | $48,483 | — | ⏳ Pendiente |
 | googleplay | Spread: 76ers (-1.5) | Hornets | 1.92 (52¢) | $240,264 | — | ⏳ Pendiente |
@@ -87,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | Mooseborzoiii | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | 76ers vs. Hornets | 76ers | 1.92 (52¢) | $52,779 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.56 (64¢) | $50,884 | — | ⏳ Pendiente |
-| thegreatjeff | Will AC Milan win on 2026-10-31? | Yes | 1.28 (78¢) | $30,000 | — | ⏳ Pendiente |
+| thegreatjeff | Will AC Milan win on 2026-10-31? | Yes | 1.28 (78¢) | $30,000 | +$8,462 | ✅ Ganada |
 | 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Will Aston Villa FC win on 2026-10-31? | Yes | 1.35 (74¢) | $30,543 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $45,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | South Carolina vs. Oklahoma | Oklahoma | 1.67 (60¢) | $28,756 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | gmpm2 | Spread: Texas Tech (-3.5) | Texas Tech | 1.96 (51¢) | $27,228 | +$26,161 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Michigan (-16.5) | Rutgers | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | googleplay | Will Rayo Vallecano de Madrid win on 2026-10-31? | No | 1.61 (62¢) | $31,028 | -$31,028 | ❌ Perdida |
-| liriks | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.56 (39¢) | $28,921 | -$28,921 | ❌ Perdida |
-| TennisAce1 | Rolex Paris Masters, Qualification: Tallon Griekspoor vs Benjamin Bonzi | Benjamin Bonzi | 1.52 (66¢) | $26,402 | +$13,601 | ✅ Ganada |
-| 1l2ihj34li12u34 | Brentford FC vs. Nottingham Forest FC: O/U 2.5 | Under 2.5 | 2.27 (44¢) | $43,198 | +$54,979 | ✅ Ganada |
-| rabbitfoot1 | AFC Bournemouth vs. Leeds United FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $75,539 | -$75,539 | ❌ Perdida |
