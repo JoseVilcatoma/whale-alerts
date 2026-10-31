@@ -109424,5 +109424,35 @@
     "status": "pending",
     "ultimo_fill": 1793487611,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14749,
+    "timestamp": 1793486968,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nba-okc-hou-2026-10-31",
+    "title": "Thunder vs. Rockets",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 92053.97,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1793486968,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14750,
+    "timestamp": 1793487829,
+    "username": "zb8",
+    "wallet": "0x0224bb9eb0a5c9fd261ac9123a72cbdd5748292a",
+    "slug": "lol-hle1-blg-2026-10-31-game2",
+    "title": "LoL: Hanwha Life Esports vs Bilibili Gaming - Game 2 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 32571.632999999998,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1793487829,
+    "fills": 1
   }
 ]

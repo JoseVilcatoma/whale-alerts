@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 18:02:05 (hora de Perú)
+Actualizado: 2026-10-31 18:04:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7280**  ($412,639,592 en total)
+- Apuestas registradas: **7282**  ($412,764,217 en total)
 - Resueltas: **7220** — 4387 ganadas / 2833 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 40
 - Apostadores distintos: 682
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 516 | 290 | 8 | 64% | $53,206,280 | +$424,377 |
-| Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
+| Sassy-Bucket | 99 | 102 | 3 | 49% | $13,315,384 | -$1,401,987 |
 | googleplay | 51 | 38 | 7 | 57% | $11,484,746 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 115 | 66 | 3 | 64% | $8,969,678 | +$235,134 |
@@ -71,8 +71,10 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| zb8 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $32,572 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Thunder vs. Rockets | Thunder | 2.33 (43¢) | $27,325 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $35,905 | — | ⏳ Pendiente |
+| Sassy-Bucket | Thunder vs. Rockets | Thunder | 2.33 (43¢) | $92,054 | — | ⏳ Pendiente |
 | EdZachary | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $51,300 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Indiana | Indiana | 1.75 (57¢) | $39,585 | — | ⏳ Pendiente |
 | Zzzz87 | Penguins vs. Canadiens | Penguins | 2.13 (47¢) | $26,881 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | ch27er | Trail Blazers vs. Jazz | Jazz | 3.23 (31¢) | $25,000 | -$25,000 | ❌ Perdida |
 | ch27er | Spread: Trail Blazers (-8.5) | Jazz | 1.75 (57¢) | $27,500 | -$27,500 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Utah (-7.5) | Utah | 2.08 (48¢) | $27,192 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. BV Borussia 09 Dortmund end in a draw? | No | 1.19 (84¢) | $84,000 | -$84,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Porto vs. Estoril Praia: O/U 5.5 | Under 5.5 | 1.15 (87¢) | $83,745 | — | ⏳ Pendiente |
