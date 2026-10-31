@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 11:04:03 (hora de Perú)
+Actualizado: 2026-10-31 11:06:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7220**  ($408,992,359 en total)
-- Resueltas: **7171** — 4357 ganadas / 2814 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **7172** — 4358 ganadas / 2814 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 679
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,688,638** sobre $407,005,337 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,526** sobre $707,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,675,037** sobre $407,031,739 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,474** sobre $707,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 679 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Michigan (-16.5) | Rutgers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | googleplay | Will Rayo Vallecano de Madrid win on 2026-10-31? | No | 1.61 (62¢) | $31,028 | — | ⏳ Pendiente |
 | liriks | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.56 (39¢) | $28,921 | — | ⏳ Pendiente |
-| TennisAce1 | Rolex Paris Masters, Qualification: Tallon Griekspoor vs Benjamin Bonzi | Benjamin Bonzi | 1.52 (66¢) | $26,402 | — | ⏳ Pendiente |
+| TennisAce1 | Rolex Paris Masters, Qualification: Tallon Griekspoor vs Benjamin Bonzi | Benjamin Bonzi | 1.52 (66¢) | $26,402 | +$13,601 | ✅ Ganada |
 | 1l2ihj34li12u34 | Brentford FC vs. Nottingham Forest FC: O/U 2.5 | Under 2.5 | 2.27 (44¢) | $43,198 | — | ⏳ Pendiente |
 | rabbitfoot1 | AFC Bournemouth vs. Leeds United FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $75,539 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Ipswich Town FC win on 2026-10-31? | Yes | 2.63 (38¢) | $27,263 | — | ⏳ Pendiente |
