@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 22:08:47 (hora de Perú)
+Actualizado: 2026-10-30 22:10:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7176**  ($407,302,856 en total)
-- Resueltas: **7121** — 4330 ganadas / 2791 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **7122** — 4330 ganadas / 2792 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 674
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,716,941** sobre $404,732,371 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,715** sobre $702,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,752,806** sobre $404,768,236 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,815** sobre $702,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 505 | 285 | 8 | 64% | $52,221,466 | +$347,000 |
-| Sassy-Bucket | 99 | 100 | 4 | 50% | $13,223,330 | -$1,253,429 |
+| Sassy-Bucket | 99 | 101 | 3 | 50% | $13,223,330 | -$1,289,293 |
 | googleplay | 47 | 37 | 4 | 56% | $10,849,722 | +$333,100 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 113 | 64 | 2 | 64% | $8,621,421 | +$229,574 |
@@ -123,7 +123,7 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $42,934 | -$42,934 | ❌ Perdida |
 | googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $32,962 | -$32,962 | ❌ Perdida |
 | 0x709179E7392e59922Ab2D73cb1141698b30096f8-1773173619816 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $49,175 | +$13,072 | ✅ Ganada |
-| Sassy-Bucket | Harvard vs. Dartmouth | Harvard | 1.28 (78¢) | $35,864 | — | ⏳ Pendiente |
+| Sassy-Bucket | Harvard vs. Dartmouth | Harvard | 1.28 (78¢) | $35,864 | -$35,864 | ❌ Perdida |
 | arjennnnn | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $50,000 | +$13,291 | ✅ Ganada |
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.89 (53¢) | $48,730 | +$43,213 | ✅ Ganada |
 | freeman123 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $43,450 | +$11,550 | ✅ Ganada |
