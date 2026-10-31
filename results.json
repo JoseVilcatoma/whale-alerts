@@ -109679,5 +109679,35 @@
     "status": "pending",
     "ultimo_fill": 1793490670,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14774,
+    "timestamp": 1793490972,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-sac-mem-2026-10-31-total-228pt5",
+    "title": "Kings vs. Grizzlies: O/U 228.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 34592.1212,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793490972,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14775,
+    "timestamp": 1793491034,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "nba-sac-mem-2026-10-31-total-228pt5",
+    "title": "Kings vs. Grizzlies: O/U 228.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 50290.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1793491034,
+    "fills": 1
   }
 ]

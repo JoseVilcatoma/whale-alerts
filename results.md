@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 18:55:49 (hora de Perú)
+Actualizado: 2026-10-31 18:57:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7297**  ($413,654,127 en total)
+- Apuestas registradas: **7299**  ($413,739,009 en total)
 - Resueltas: **7228** — 4393 ganadas / 2835 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 49
 - Apostadores distintos: 684
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 516 | 291 | 9 | 64% | $53,289,925 | +$386,959 |
 | Sassy-Bucket | 99 | 102 | 3 | 49% | $13,315,384 | -$1,401,987 |
-| googleplay | 51 | 38 | 8 | 57% | $11,516,128 | +$518,123 |
+| googleplay | 51 | 38 | 9 | 57% | $11,550,721 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 115 | 66 | 6 | 64% | $9,122,655 | +$235,134 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
+| googleplay | Kings vs. Grizzlies: O/U 228.5 | Over 228.5 | 1.92 (52¢) | $34,592 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $40,713 | — | ⏳ Pendiente |
 | jizzbucket57 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $45,360 | — | ⏳ Pendiente |
 | Talvez10 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $39,359 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | meoooow | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.64 (61¢) | $33,046 | +$21,128 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $68,097 | +$7,566 | ✅ Ganada |
 | ukowna | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $90,000 | +$10,000 | ✅ Ganada |
-| vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LOS | 1.79 (56¢) | $25,200 | -$25,200 | ❌ Perdida |
-| Multicoloured-Serf | Spread: New Mexico (-14.5) | San Jose State | 2.04 (49¢) | $31,677 | +$32,970 | ✅ Ganada |
