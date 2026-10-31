@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 14:04:45 (hora de Perú)
+Actualizado: 2026-10-31 14:06:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7226**  ($409,366,492 en total)
+- Apuestas registradas: **7228**  ($409,430,860 en total)
 - Resueltas: **7182** — 4363 ganadas / 2819 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 24
 - Apostadores distintos: 680
 
 ### Balance
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 39 | 26 | 1 | 60% | $4,486,958 | +$512,782 |
 | Kch-Temp | 45 | 15 | 1 | 75% | $3,932,043 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| surfandturf | 35 | 10 | 0 | 78% | $3,574,490 | +$477,568 |
+| surfandturf | 35 | 10 | 1 | 78% | $3,602,490 | +$477,568 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 680 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $36,367 | — | ⏳ Pendiente |
+| surfandturf | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.32 (76¢) | $126,697 | — | ⏳ Pendiente |
 | ch27er | Trail Blazers vs. Jazz | Jazz | 3.23 (31¢) | $25,000 | — | ⏳ Pendiente |
 | ch27er | Spread: Trail Blazers (-8.5) | Jazz | 1.75 (57¢) | $27,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 680 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Suns | 2.70 (37¢) | $74,000 | -$74,000 | ❌ Perdida |
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.85 (54¢) | $78,238 | +$66,647 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Warriors | Warriors | 2.27 (44¢) | $42,739 | +$54,395 | ✅ Ganada |
-| takeormake | Knicks vs. 76ers | 76ers | 1.06 (94¢) | $40,000 | +$2,553 | ✅ Ganada |
-| omnibus-076daa | Lakers vs. Warriors | Lakers | 1.79 (56¢) | $25,830 | -$25,830 | ❌ Perdida |

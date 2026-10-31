@@ -108612,5 +108612,35 @@
     "status": "pending",
     "ultimo_fill": 1793472478,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14656,
+    "timestamp": 1793473516,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "lal-bar-ala-2026-10-31-spread-home-2pt5",
+    "title": "Spread: FC Barcelona (-2.5)",
+    "outcome": "FC Barcelona",
+    "side": "BUY",
+    "usd": 28000.112,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1793473516,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14657,
+    "timestamp": 1793473530,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "lal-bar-ala-2026-10-31-spread-home-2pt5",
+    "title": "Spread: FC Barcelona (-2.5)",
+    "outcome": "Deportivo Alav\u00e9s",
+    "side": "BUY",
+    "usd": 36367.08000000001,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1793473530,
+    "fills": 1
   }
 ]
