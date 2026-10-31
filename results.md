@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 21:50:26 (hora de Perú)
+Actualizado: 2026-10-30 21:52:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7176**  ($407,302,856 en total)
-- Resueltas: **7120** — 4329 ganadas / 2791 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **7121** — 4330 ganadas / 2791 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 674
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,747,547** sobre $404,657,439 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,756** sobre $701,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,716,941** sobre $404,732,371 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,715** sobre $702,000 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 99 | 100 | 4 | 50% | $13,223,330 | -$1,253,429 |
 | googleplay | 47 | 37 | 4 | 56% | $10,849,722 | +$333,100 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 112 | 64 | 3 | 64% | $8,621,421 | +$198,968 |
+| Lakersfan111 | 113 | 64 | 2 | 64% | $8,621,421 | +$229,574 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 96 | 91 | 0 | 51% | $7,543,055 | -$650,990 |
