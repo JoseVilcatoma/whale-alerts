@@ -108762,5 +108762,35 @@
     "status": "pending",
     "ultimo_fill": 1793475377,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14668,
+    "timestamp": 1793475453,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "boxing-canelo-alvarez-vs-christian-mbilli",
+    "title": "Boxing: Canelo \u00c1lvarez vs. Christian Mbilli",
+    "outcome": "Canelo",
+    "side": "BUY",
+    "usd": 34494.8832,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1793475453,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14669,
+    "timestamp": 1793475539,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "cfb-nmx-sjst-2026-10-31-spread-away-14pt5",
+    "title": "Spread: New Mexico (-14.5)",
+    "outcome": "San Jose State",
+    "side": "BUY",
+    "usd": 31677.039608000003,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793475539,
+    "fills": 1
   }
 ]
