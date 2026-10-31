@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 14:45:43 (hora de Perú)
+Actualizado: 2026-10-31 14:47:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7239**  ($409,936,419 en total)
+- Apuestas registradas: **7240**  ($410,026,419 en total)
 - Resueltas: **7185** — 4364 ganadas / 2821 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 681
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 681 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ukowna | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $90,000 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LOS | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: New Mexico (-14.5) | San Jose State | 2.04 (49¢) | $31,677 | — | ⏳ Pendiente |
 | surfandturf | Boxing: Canelo Álvarez vs. Christian Mbilli | Canelo | 1.39 (72¢) | $34,495 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 681 en total)_
 | Woaifacai | Lakers vs. Warriors | Warriors | 1.09 (92¢) | $29,439 | +$2,560 | ✅ Ganada |
 | omnibus-076daa | Lakers vs. Warriors | Warriors | 1.54 (65¢) | $34,998 | +$18,845 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Nuggets | 1.28 (78¢) | $30,504 | +$8,604 | ✅ Ganada |
-| TAIWANNUMBERONE | Kent State vs. Sacramento State | Kent State | 1.30 (77¢) | $31,014 | -$31,014 | ❌ Perdida |
