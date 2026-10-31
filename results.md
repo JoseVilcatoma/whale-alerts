@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 17:22:09 (hora de Perú)
+Actualizado: 2026-10-31 17:24:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7273**  ($412,366,096 en total)
-- Resueltas: **7212** — 4381 ganadas / 2831 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Resueltas: **7216** — 4384 ganadas / 2832 perdidas (**61%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 682
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,917,894** sobre $408,766,972 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,821** sobre $711,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,873,996** sobre $409,001,839 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,715** sobre $711,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 515 | 290 | 8 | 64% | $53,142,280 | +$378,690 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 516 | 290 | 7 | 64% | $53,142,280 | +$424,377 |
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
 | googleplay | 51 | 38 | 7 | 57% | $11,484,746 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 113 | 66 | 4 | 63% | $8,933,773 | +$147,641 |
+| Lakersfan111 | 114 | 66 | 3 | 63% | $8,933,773 | +$195,124 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
@@ -98,11 +98,11 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | ferrariChampions2026 | South Carolina vs. Oklahoma | Oklahoma | 1.67 (60¢) | $28,756 | — | ⏳ Pendiente |
 | 999585 | Arizona State vs. BYU | BYU | 1.06 (94¢) | $141,000 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Aston Villa FC win on 2026-10-31? | Yes | 2.04 (49¢) | $46,479 | -$46,479 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.72 (58¢) | $63,092 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.69 (59¢) | $68,329 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.72 (58¢) | $63,092 | +$45,687 | ✅ Ganada |
+| jakepaulthegoat2008 | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.69 (59¢) | $68,329 | +$47,483 | ✅ Ganada |
 | Multicoloured-Serf | Will Aston Villa FC win on 2026-10-31? | No | 1.96 (51¢) | $48,666 | +$46,758 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | LoL: LOS vs LYON - Game 2 Winner | LOS | 2.44 (41¢) | $70,400 | — | ⏳ Pendiente |
-| meoooow | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.64 (61¢) | $33,046 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: LOS vs LYON - Game 2 Winner | LOS | 2.44 (41¢) | $70,400 | -$70,400 | ❌ Perdida |
+| meoooow | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.64 (61¢) | $33,046 | +$21,128 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $68,097 | +$7,566 | ✅ Ganada |
 | ukowna | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $90,000 | +$10,000 | ✅ Ganada |
 | vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LOS | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
