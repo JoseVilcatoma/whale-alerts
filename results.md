@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 18:00:00 (hora de Perú)
+Actualizado: 2026-10-31 18:02:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7278**  ($412,576,362 en total)
+- Apuestas registradas: **7280**  ($412,639,592 en total)
 - Resueltas: **7220** — 4387 ganadas / 2833 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 38
 - Apostadores distintos: 682
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
 | googleplay | 51 | 38 | 7 | 57% | $11,484,746 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 115 | 66 | 2 | 64% | $8,933,773 | +$235,134 |
+| Lakersfan111 | 115 | 66 | 3 | 64% | $8,969,678 | +$235,134 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Thunder vs. Rockets | Thunder | 2.33 (43¢) | $27,325 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $35,905 | — | ⏳ Pendiente |
 | EdZachary | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $51,300 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Indiana | Indiana | 1.75 (57¢) | $39,585 | — | ⏳ Pendiente |
 | Zzzz87 | Penguins vs. Canadiens | Penguins | 2.13 (47¢) | $26,881 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | Multicoloured-Serf | Spread: Utah (-7.5) | Utah | 2.08 (48¢) | $27,192 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. BV Borussia 09 Dortmund end in a draw? | No | 1.19 (84¢) | $84,000 | -$84,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Porto vs. Estoril Praia: O/U 5.5 | Under 5.5 | 1.15 (87¢) | $83,745 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Spread: Notre Dame (-30.5) | Notre Dame | 1.92 (52¢) | $40,843 | -$40,843 | ❌ Perdida |
-| CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $28,215 | +$7,500 | ✅ Ganada |

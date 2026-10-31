@@ -109394,5 +109394,35 @@
     "status": "pending",
     "ultimo_fill": 1793486967,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14747,
+    "timestamp": 1793487611,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nba-okc-hou-2026-10-31",
+    "title": "Thunder vs. Rockets",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 27324.9993,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1793487611,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14748,
+    "timestamp": 1793487611,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-okc-hou-2026-10-31",
+    "title": "Thunder vs. Rockets",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 35905.2861,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1793487611,
+    "fills": 1
   }
 ]
