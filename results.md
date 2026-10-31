@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 23:42:39 (hora de Perú)
+Actualizado: 2026-10-30 23:44:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7183**  ($407,534,735 en total)
+- Apuestas registradas: **7184**  ($407,576,088 en total)
 - Resueltas: **7134** — 4336 ganadas / 2798 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 674
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hovistomaradona | Aston Villa FC vs. Fulham FC: O/U 2.5 | Under 2.5 | 2.22 (45¢) | $41,353 | — | ⏳ Pendiente |
 | Woaifacai | Lakers vs. Warriors | Warriors | 1.09 (92¢) | $29,439 | — | ⏳ Pendiente |
 | omnibus-076daa | Lakers vs. Warriors | Warriors | 1.54 (65¢) | $34,998 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Nuggets | 1.28 (78¢) | $30,504 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $42,934 | -$42,934 | ❌ Perdida |
 | googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $32,962 | -$32,962 | ❌ Perdida |
 | 0x709179E7392e59922Ab2D73cb1141698b30096f8-1773173619816 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $49,175 | +$13,072 | ✅ Ganada |
-| Sassy-Bucket | Harvard vs. Dartmouth | Harvard | 1.28 (78¢) | $35,864 | -$35,864 | ❌ Perdida |
