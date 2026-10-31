@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 14:49:50 (hora de Perú)
+Actualizado: 2026-10-31 14:51:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7240**  ($410,026,419 en total)
+- Apuestas registradas: **7241**  ($410,094,517 en total)
 - Resueltas: **7186** — 4364 ganadas / 2822 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 681
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 511 | 288 | 9 | 64% | $52,831,547 | +$456,538 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 511 | 288 | 10 | 64% | $52,899,644 | +$456,538 |
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
 | googleplay | 51 | 38 | 0 | 57% | $10,880,751 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 681 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $68,097 | — | ⏳ Pendiente |
 | ukowna | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $90,000 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LOS | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: New Mexico (-14.5) | San Jose State | 2.04 (49¢) | $31,677 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 681 en total)_
 | hovistomaradona | Aston Villa FC vs. Fulham FC: O/U 2.5 | Under 2.5 | 2.22 (45¢) | $41,353 | — | ⏳ Pendiente |
 | Woaifacai | Lakers vs. Warriors | Warriors | 1.09 (92¢) | $29,439 | +$2,560 | ✅ Ganada |
 | omnibus-076daa | Lakers vs. Warriors | Warriors | 1.54 (65¢) | $34,998 | +$18,845 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Nuggets | 1.28 (78¢) | $30,504 | +$8,604 | ✅ Ganada |
