@@ -108102,5 +108102,20 @@
     "status": "pending",
     "ultimo_fill": 1793445404,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14601,
+    "timestamp": 1793445580,
+    "username": "Lihtaryki",
+    "wallet": "0x2d17d4d201e1ab9760fcac194965611c4e3dc0e5",
+    "slug": "epl-che-mun-2026-10-31-mun",
+    "title": "Will Manchester United FC win on 2026-10-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 34500.0,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1793445580,
+    "fills": 1
   }
 ]
