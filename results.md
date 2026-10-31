@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 14:35:28 (hora de Perú)
+Actualizado: 2026-10-31 14:37:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7235**  ($409,800,056 en total)
+- Apuestas registradas: **7236**  ($409,845,047 en total)
 - Resueltas: **7184** — 4364 ganadas / 2820 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 681
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 681 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CUTJALENHURTS | Colorado State vs. Utah State | Utah State | 1.33 (75¢) | $44,991 | — | ⏳ Pendiente |
 | nigiri99 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $46,138 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $44,955 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota vs. Indiana: O/U 41.5 | Over 41.5 | 2.17 (46¢) | $37,418 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 681 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Nuggets vs. Suns: O/U 255.5 | Under 255.5 | 2.13 (47¢) | $30,305 | +$34,173 | ✅ Ganada |
 | ethanaz | Kent State vs. Sacramento State | Kent State | 1.30 (77¢) | $38,500 | -$38,500 | ❌ Perdida |
 | TAIWANNUMBERONE | Kent State vs. Sacramento State | Kent State | 1.30 (77¢) | $37,119 | -$37,119 | ❌ Perdida |
-| Woaifacai | Rockets vs. Mavericks | Mavericks | 1.18 (85¢) | $27,174 | +$4,795 | ✅ Ganada |
