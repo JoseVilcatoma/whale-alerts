@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 14:29:20 (hora de Perú)
+Actualizado: 2026-10-31 14:31:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7234**  ($409,753,918 en total)
-- Resueltas: **7182** — 4363 ganadas / 2819 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **7184** — 4364 ganadas / 2820 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 681
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,627,607** sobre $407,440,806 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,447** sobre $708,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,640,539** sobre $407,508,465 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,443** sobre $708,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| ferrariChampions2026 | 110 | 57 | 2 | 66% | $7,262,256 | +$202,004 |
+| ferrariChampions2026 | 111 | 57 | 1 | 66% | $7,262,256 | +$229,915 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 46 | 22 | 1 | 68% | $6,098,581 | +$1,182,168 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 681 en total)_
 | Multicoloured-Serf | Spread: Utah (-7.5) | Utah | 2.08 (48¢) | $27,192 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. BV Borussia 09 Dortmund end in a draw? | No | 1.19 (84¢) | $84,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Porto vs. Estoril Praia: O/U 5.5 | Under 5.5 | 1.15 (87¢) | $83,745 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Spread: Notre Dame (-30.5) | Notre Dame | 1.92 (52¢) | $40,843 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Spread: Notre Dame (-30.5) | Notre Dame | 1.92 (52¢) | $40,843 | -$40,843 | ❌ Perdida |
 | CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $28,215 | — | ⏳ Pendiente |
 | lukibazdonauki754 | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $26,070 | — | ⏳ Pendiente |
 | CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 1st Half O/U 0.5 | Over 0.5 | 1.37 (73¢) | $29,200 | — | ⏳ Pendiente |
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 681 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC win on 2026-10-31? | No | 1.47 (68¢) | $68,000 | +$32,000 | ✅ Ganada |
 | Mooseborzoiii | LoL: Karmine Corp vs Movistar KOI (BO3) - Worlds Group Stage | Movistar KOI | 2.63 (38¢) | $76,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Bilibili Gaming | 2.44 (41¢) | $64,547 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Spread: Notre Dame (-30.5) | Navy | 2.04 (49¢) | $26,816 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Spread: Notre Dame (-30.5) | Navy | 2.04 (49¢) | $26,816 | +$27,911 | ✅ Ganada |
 | LlamaEnjoyer | Counter-Strike: Nemiga vs FURIA - Map 3 Winner | Nemiga | 2.44 (41¢) | $25,398 | -$25,398 | ❌ Perdida |
 | Kyn008 | Will Levante UD win on 2026-10-31? | No | 1.18 (85¢) | $29,910 | +$5,278 | ✅ Ganada |
 | ferrariChampions2026 | Oklahoma State vs. Iowa State | Oklahoma State | 1.32 (76¢) | $33,356 | — | ⏳ Pendiente |
