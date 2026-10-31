@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 06:47:00 (hora de Perú)
+Actualizado: 2026-10-31 06:49:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7194**  ($407,980,100 en total)
+- Apuestas registradas: **7196**  ($408,035,846 en total)
 - Resueltas: **7162** — 4353 ganadas / 2809 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 12
 - Apostadores distintos: 676
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Chelsea FC win on 2026-10-31? | No | 1.79 (56¢) | $27,390 | — | ⏳ Pendiente |
+| ArturitoFilito | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.04 (49¢) | $28,356 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 2.00 (50¢) | $48,917 | — | ⏳ Pendiente |
 | Lihtaryki | Will Manchester United FC win on 2026-10-31? | No | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
 | plonker2026 | Will Chelsea FC win on 2026-10-31? | No | 1.79 (56¢) | $43,389 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Magic vs. Raptors | Raptors | 1.52 (66¢) | $29,573 | -$29,573 | ❌ Perdida |
 | googleplay | Spread: Raptors (-5.5) | Raptors | 1.92 (52¢) | $214,770 | -$214,770 | ❌ Perdida |
 | googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $164,367 | -$164,367 | ❌ Perdida |
-| Sassy-Bucket | Knicks vs. 76ers | 76ers | 2.38 (42¢) | $168,000 | +$232,000 | ✅ Ganada |
-| googleplay | Spread: Raptors (-5.5) | Raptors | 1.96 (51¢) | $27,462 | -$27,462 | ❌ Perdida |
