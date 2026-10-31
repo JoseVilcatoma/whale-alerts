@@ -109284,11 +109284,11 @@
     "title": "LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "usd": 419404.865,
+    "usd": 483404.865,
     "odds_at_bet": 65,
     "status": "pending",
-    "ultimo_fill": 1793484283,
-    "fills": 9
+    "ultimo_fill": 1793484165,
+    "fills": 10
   },
   {
     "telegram_msg_id": 14714,
@@ -109303,6 +109303,21 @@
     "odds_at_bet": 64,
     "status": "pending",
     "ultimo_fill": 1793484194,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14715,
+    "timestamp": 1793484309,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-phi-cha-2026-10-31",
+    "title": "76ers vs. Hornets",
+    "outcome": "Hornets",
+    "side": "BUY",
+    "usd": 101045.96639999999,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1793484309,
     "fills": 1
   }
 ]

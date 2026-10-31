@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 17:05:30 (hora de Perú)
+Actualizado: 2026-10-31 17:07:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7272**  ($412,201,050 en total)
+- Apuestas registradas: **7273**  ($412,366,096 en total)
 - Resueltas: **7195** — 4370 ganadas / 2825 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 682
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 513 | 288 | 12 | 64% | $53,142,280 | +$512,538 |
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
-| googleplay | 51 | 38 | 6 | 57% | $11,383,700 | +$518,123 |
+| googleplay | 51 | 38 | 7 | 57% | $11,484,746 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 113 | 66 | 4 | 63% | $8,933,773 | +$147,641 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,8 +71,9 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | 76ers vs. Hornets | Hornets | 2.08 (48¢) | $101,046 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.56 (64¢) | $28,544 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.54 (65¢) | $419,405 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.54 (65¢) | $483,405 | — | ⏳ Pendiente |
 | googleplay | Hawks vs. Pelicans | Hawks | 1.54 (65¢) | $80,796 | — | ⏳ Pendiente |
 | YEEES-but-why | Hawks vs. Pelicans | Pelicans | 2.86 (35¢) | $26,639 | — | ⏳ Pendiente |
 | yabanci | Spread: Hawks (-4.5) | Pelicans | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | 1l2ihj34li12u34 | Will Rayo Vallecano de Madrid win on 2026-10-31? | Yes | 2.63 (38¢) | $45,024 | +$73,460 | ✅ Ganada |
 | gmpm2 | Spread: Texas Tech (-3.5) | Texas Tech | 1.96 (51¢) | $27,228 | +$26,161 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Michigan (-16.5) | Rutgers | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
-| googleplay | Will Rayo Vallecano de Madrid win on 2026-10-31? | No | 1.61 (62¢) | $31,028 | -$31,028 | ❌ Perdida |
