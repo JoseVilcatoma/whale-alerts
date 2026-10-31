@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 18:10:18 (hora de Perú)
+Actualizado: 2026-10-31 18:12:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7284**  ($412,914,084 en total)
-- Resueltas: **7221** — 4388 ganadas / 2833 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Resueltas: **7222** — 4389 ganadas / 2833 perdidas (**61%** de acierto)
+- Pendientes: 40
 - Apostadores distintos: 683
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,800,767** sobre $409,274,811 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,635** sobre $711,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,767,797** sobre $409,306,488 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,531** sobre $712,000 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -117,7 +117,7 @@ _(mostrando los 40 de mayor monto, de 683 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $68,097 | +$7,566 | ✅ Ganada |
 | ukowna | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $90,000 | +$10,000 | ✅ Ganada |
 | vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LOS | 1.79 (56¢) | $25,200 | -$25,200 | ❌ Perdida |
-| Multicoloured-Serf | Spread: New Mexico (-14.5) | San Jose State | 2.04 (49¢) | $31,677 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Spread: New Mexico (-14.5) | San Jose State | 2.04 (49¢) | $31,677 | +$32,970 | ✅ Ganada |
 | surfandturf | Boxing: Canelo Álvarez vs. Christian Mbilli | Canelo | 1.39 (72¢) | $34,495 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Colorado State vs. Utah State | Utah State | 1.33 (75¢) | $44,991 | +$14,997 | ✅ Ganada |
 | nigiri99 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $46,138 | +$5,126 | ✅ Ganada |
