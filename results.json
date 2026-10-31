@@ -108717,5 +108717,20 @@
     "status": "pending",
     "ultimo_fill": 1793474498,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14663,
+    "timestamp": 1793474785,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lal-bar-ala-2026-10-31-spread-home-2pt5",
+    "title": "Spread: FC Barcelona (-2.5)",
+    "outcome": "Deportivo Alav\u00e9s",
+    "side": "BUY",
+    "usd": 44955.3735,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1793474785,
+    "fills": 1
   }
 ]
