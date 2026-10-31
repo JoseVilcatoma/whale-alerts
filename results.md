@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 08:01:04 (hora de Perú)
+Actualizado: 2026-10-31 08:03:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7202**  ($408,266,874 en total)
+- Apuestas registradas: **7203**  ($408,342,874 en total)
 - Resueltas: **7162** — 4353 ganadas / 2809 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 676
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 110 | 57 | 2 | 66% | $7,262,256 | +$202,004 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Mooseborzoiii | 45 | 22 | 1 | 67% | $6,022,581 | +$1,133,168 |
+| Mooseborzoiii | 45 | 22 | 2 | 67% | $6,098,581 | +$1,133,168 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Karmine Corp vs Movistar KOI (BO3) - Worlds Group Stage | Movistar KOI | 2.63 (38¢) | $76,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Bilibili Gaming | 2.44 (41¢) | $64,547 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Notre Dame (-30.5) | Navy | 2.04 (49¢) | $26,816 | — | ⏳ Pendiente |
 | LlamaEnjoyer | Counter-Strike: Nemiga vs FURIA - Map 3 Winner | Nemiga | 2.44 (41¢) | $25,398 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | G2 Esports | 2.44 (41¢) | $36,108 | -$36,108 | ❌ Perdida |
 | Multicoloured-Serf | Baylor vs. UCF | UCF | 2.78 (36¢) | $71,341 | -$71,341 | ❌ Perdida |
 | zb8 | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.39 (72¢) | $27,684 | +$10,766 | ✅ Ganada |
-| KaneAnalytics | Baylor vs. UCF | Baylor | 1.82 (55¢) | $38,337 | +$31,367 | ✅ Ganada |

@@ -108252,5 +108252,20 @@
     "status": "pending",
     "ultimo_fill": 1793451412,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 14611,
+    "timestamp": 1793451692,
+    "username": "Mooseborzoiii",
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "slug": "lol-kc-mkoi-2026-10-31",
+    "title": "LoL: Karmine Corp vs Movistar KOI (BO3) - Worlds Group Stage",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 76000.0,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1793451692,
+    "fills": 1
   }
 ]
