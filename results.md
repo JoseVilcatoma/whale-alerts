@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 23:13:55 (hora de Perú)
+Actualizado: 2026-10-30 23:15:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7181**  ($407,470,298 en total)
+- Apuestas registradas: **7182**  ($407,505,296 en total)
 - Resueltas: **7134** — 4336 ganadas / 2798 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 674
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Lakers vs. Warriors | Warriors | 1.54 (65¢) | $34,998 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Nuggets | 1.28 (78¢) | $30,504 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Kent State vs. Sacramento State | Kent State | 1.30 (77¢) | $31,014 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Nuggets vs. Suns: O/U 255.5 | Under 255.5 | 2.13 (47¢) | $30,305 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | 0x709179E7392e59922Ab2D73cb1141698b30096f8-1773173619816 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $49,175 | +$13,072 | ✅ Ganada |
 | Sassy-Bucket | Harvard vs. Dartmouth | Harvard | 1.28 (78¢) | $35,864 | -$35,864 | ❌ Perdida |
 | arjennnnn | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $50,000 | +$13,291 | ✅ Ganada |
-| Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.89 (53¢) | $48,730 | +$43,213 | ✅ Ganada |
