@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 19:08:36 (hora de Perú)
+Actualizado: 2026-10-30 19:10:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7148**  ($405,455,180 en total)
+- Apuestas registradas: **7149**  ($405,607,988 en total)
 - Resueltas: **7081** — 4309 ganadas / 2772 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 672
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Hornets vs. Wizards | Wizards | 1.49 (67¢) | $152,808 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | G2 Esports | 2.38 (42¢) | $25,155 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.67 (60¢) | $36,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | G2 Esports | 2.44 (41¢) | $36,108 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 | Mooseborzoiii | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | FURIA | 2.50 (40¢) | $30,657 | +$45,985 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Imperial vs paiN (BO3) - Gamers Club Masters Group B | Imperial | 1.41 (71¢) | $26,146 | +$10,679 | ✅ Ganada |
 | RJW1 | Knicks vs. 76ers | Knicks | 1.89 (53¢) | $104,670 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.67 (60¢) | $27,368 | -$27,368 | ❌ Perdida |
