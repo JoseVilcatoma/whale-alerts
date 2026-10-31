@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 18:08:13 (hora de Perú)
+Actualizado: 2026-10-31 18:10:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7283**  ($412,842,190 en total)
+- Apuestas registradas: **7284**  ($412,914,084 en total)
 - Resueltas: **7221** — 4388 ganadas / 2833 perdidas (**61%** de acierto)
-- Pendientes: 40
-- Apostadores distintos: 682
+- Pendientes: 41
+- Apostadores distintos: 683
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Woaifacai | 28 | 10 | 0 | 74% | $2,117,095 | +$289,252 |
 
-_(mostrando los 40 de mayor monto, de 682 en total)_
+_(mostrando los 40 de mayor monto, de 683 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Albihime217255 | 76ers vs. Hornets | 76ers | 1.56 (64¢) | $71,894 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Hanwha Life Esports | 2.94 (34¢) | $77,972 | — | ⏳ Pendiente |
 | zb8 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $32,572 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Thunder vs. Rockets | Thunder | 2.33 (43¢) | $27,325 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | surfandturf | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
 | jakepaulthegoat2008 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.32 (76¢) | $126,697 | +$40,010 | ✅ Ganada |
 | ch27er | Trail Blazers vs. Jazz | Jazz | 3.23 (31¢) | $25,000 | -$25,000 | ❌ Perdida |
-| ch27er | Spread: Trail Blazers (-8.5) | Jazz | 1.75 (57¢) | $27,500 | -$27,500 | ❌ Perdida |
