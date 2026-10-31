@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 16:51:01 (hora de Perú)
+Actualizado: 2026-10-31 16:53:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7261**  ($411,115,575 en total)
+- Apuestas registradas: **7263**  ($411,209,414 en total)
 - Resueltas: **7194** — 4369 ganadas / 2825 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 47
 - Apostadores distintos: 682
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 513 | 288 | 11 | 64% | $53,113,736 | +$512,538 |
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
-| googleplay | 51 | 38 | 1 | 57% | $10,906,033 | +$518,123 |
+| googleplay | 51 | 38 | 2 | 57% | $10,948,512 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 113 | 66 | 4 | 63% | $8,933,773 | +$147,641 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Hawks (-4.5) | Hawks | 1.92 (52¢) | $42,479 | — | ⏳ Pendiente |
+| yabanci | Spread: 76ers (-1.5) | 76ers | 2.08 (48¢) | $51,360 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Hornets | 76ers | 1.89 (53¢) | $106,000 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Indiana | Minnesota | 3.23 (31¢) | $50,136 | — | ⏳ Pendiente |
 | googleplay | Spread: Hawks (-4.5) | Hawks | 1.92 (52¢) | $25,282 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | lllllllIlll | Counter-Strike: Nemiga vs FURIA - Map 4 Winner | FURIA | 1.52 (66¢) | $29,554 | -$29,554 | ❌ Perdida |
 | RJW1 | Will Manchester United FC win on 2026-10-31? | Yes | 3.12 (32¢) | $32,000 | -$32,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC win on 2026-10-31? | No | 1.47 (68¢) | $68,000 | +$32,000 | ✅ Ganada |
-| Mooseborzoiii | LoL: Karmine Corp vs Movistar KOI (BO3) - Worlds Group Stage | Movistar KOI | 2.63 (38¢) | $76,000 | -$76,000 | ❌ Perdida |
-| jakepaulthegoat2008 | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Bilibili Gaming | 2.44 (41¢) | $64,547 | — | ⏳ Pendiente |
