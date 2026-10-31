@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 20:46:10 (hora de Perú)
+Actualizado: 2026-10-30 20:48:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7158**  ($406,236,597 en total)
+- Apuestas registradas: **7159**  ($406,271,477 en total)
 - Resueltas: **7101** — 4322 ganadas / 2779 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 674
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 505 | 282 | 7 | 64% | $52,050,621 | +$447,671 |
 | Sassy-Bucket | 98 | 100 | 4 | 49% | $13,110,636 | -$1,485,429 |
-| googleplay | 47 | 32 | 5 | 59% | $10,620,029 | +$987,090 |
+| googleplay | 47 | 32 | 6 | 59% | $10,654,908 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 112 | 64 | 3 | 64% | $8,621,421 | +$198,968 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Lakers (-3.5) | Warriors | 1.92 (52¢) | $34,880 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $120,518 | — | ⏳ Pendiente |
 | purplegatto | Spread: Nuggets (-3.5) | Nuggets | 1.92 (52¢) | $25,938 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Rockets vs. Mavericks | Rockets | 1.30 (77¢) | $42,976 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | otsosiusa | Lille OSC vs. Racing Club de Lens: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $29,247 | -$29,247 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Hornets vs. Wizards | Wizards | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | Vps1 | Brest: Martin Damm vs Clement Tabur | Martin Damm | 1.27 (79¢) | $29,631 | +$7,877 | ✅ Ganada |
-| 999585 | Swiss Indoors Basel: Taylor Fritz vs Arthur Fils | Taylor Fritz | 1.15 (87¢) | $36,867 | +$5,509 | ✅ Ganada |
