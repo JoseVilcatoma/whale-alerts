@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 16:28:14 (hora de Perú)
+Actualizado: 2026-10-31 16:30:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7257**  ($410,904,755 en total)
+- Apuestas registradas: **7258**  ($410,934,157 en total)
 - Resueltas: **7191** — 4368 ganadas / 2823 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 682
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robustmst | Sioux Falls: Liam Draxl vs Sebastian Dominko | Liam Draxl | 1.96 (51¢) | $29,402 | — | ⏳ Pendiente |
 | mooseborzoi | Hawks vs. Pelicans | Hawks | 1.59 (63¢) | $37,859 | — | ⏳ Pendiente |
 | PrimeOasis1987 | 76ers vs. Hornets | 76ers | 1.89 (53¢) | $38,207 | +$721 | 💰 Vendida antes |
 | Mooseborzoiii | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | ferrariChampions2026 | Spread: Notre Dame (-30.5) | Navy | 2.04 (49¢) | $26,816 | +$27,911 | ✅ Ganada |
 | LlamaEnjoyer | Counter-Strike: Nemiga vs FURIA - Map 3 Winner | Nemiga | 2.44 (41¢) | $25,398 | -$25,398 | ❌ Perdida |
 | Kyn008 | Will Levante UD win on 2026-10-31? | No | 1.18 (85¢) | $29,910 | +$5,278 | ✅ Ganada |
-| ferrariChampions2026 | Oklahoma State vs. Iowa State | Oklahoma State | 1.32 (76¢) | $33,356 | — | ⏳ Pendiente |
