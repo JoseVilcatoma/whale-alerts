@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 16:15:50 (hora de Perú)
+Actualizado: 2026-10-31 16:17:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7256**  ($410,866,896 en total)
-- Resueltas: **7190** — 4367 ganadas / 2823 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Resueltas: **7191** — 4368 ganadas / 2823 perdidas (**61%** de acierto)
+- Pendientes: 43
 - Apostadores distintos: 682
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,782,216** sobre $407,786,497 apostados (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,781,495** sobre $407,824,704 apostados (ROI **-0.9%**)
 - Copiando $100 fijo en cada una: **-$7,537** sobre $708,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| PrimeOasis1987 | 76ers vs. Hornets | 76ers | 1.89 (53¢) | $38,207 | — | ⏳ Pendiente |
+| PrimeOasis1987 | 76ers vs. Hornets | 76ers | 1.89 (53¢) | $38,207 | +$721 | 💰 Vendida antes |
 | Mooseborzoiii | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | 76ers vs. Hornets | 76ers | 1.92 (52¢) | $52,779 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.56 (64¢) | $50,884 | — | ⏳ Pendiente |
