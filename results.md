@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 17:40:45 (hora de Perú)
+Actualizado: 2026-10-31 17:42:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7275**  ($412,458,596 en total)
-- Resueltas: **7216** — 4384 ganadas / 2832 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Resueltas: **7220** — 4387 ganadas / 2833 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 682
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,873,996** sobre $409,001,839 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,715** sobre $711,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,815,765** sobre $409,229,820 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,669** sobre $711,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
 | googleplay | 51 | 38 | 7 | 57% | $11,484,746 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 114 | 66 | 3 | 63% | $8,933,773 | +$195,124 |
+| Lakersfan111 | 115 | 66 | 2 | 64% | $8,933,773 | +$235,134 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 111 | 57 | 2 | 66% | $7,291,012 | +$229,915 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Mooseborzoiii | 46 | 23 | 1 | 67% | $6,123,781 | +$1,106,168 |
+| Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -91,9 +91,9 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | robustmst | Sioux Falls: Liam Draxl vs Sebastian Dominko | Liam Draxl | 1.96 (51¢) | $29,402 | — | ⏳ Pendiente |
 | mooseborzoi | Hawks vs. Pelicans | Hawks | 1.59 (63¢) | $37,859 | — | ⏳ Pendiente |
 | PrimeOasis1987 | 76ers vs. Hornets | 76ers | 1.89 (53¢) | $38,207 | +$721 | 💰 Vendida antes |
-| Mooseborzoiii | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
+| Mooseborzoiii | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
 | jakepaulthegoat2008 | 76ers vs. Hornets | 76ers | 1.92 (52¢) | $52,779 | — | ⏳ Pendiente |
-| vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.56 (64¢) | $50,884 | — | ⏳ Pendiente |
+| vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.56 (64¢) | $50,884 | +$28,622 | ✅ Ganada |
 | thegreatjeff | Will AC Milan win on 2026-10-31? | Yes | 1.28 (78¢) | $30,000 | +$8,462 | ✅ Ganada |
 | 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Will Aston Villa FC win on 2026-10-31? | Yes | 1.35 (74¢) | $30,543 | -$30,543 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | meoooow | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.64 (61¢) | $33,046 | +$21,128 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $68,097 | +$7,566 | ✅ Ganada |
 | ukowna | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $90,000 | +$10,000 | ✅ Ganada |
-| vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LOS | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
+| vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LOS | 1.79 (56¢) | $25,200 | -$25,200 | ❌ Perdida |
 | Multicoloured-Serf | Spread: New Mexico (-14.5) | San Jose State | 2.04 (49¢) | $31,677 | — | ⏳ Pendiente |
 | surfandturf | Boxing: Canelo Álvarez vs. Christian Mbilli | Canelo | 1.39 (72¢) | $34,495 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Colorado State vs. Utah State | Utah State | 1.33 (75¢) | $44,991 | — | ⏳ Pendiente |
@@ -120,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | rabbitfoot1 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $40,225 | -$40,225 | ❌ Perdida |
 | omnibus-076daa | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $36,367 | -$36,367 | ❌ Perdida |
 | surfandturf | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
-| jakepaulthegoat2008 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.32 (76¢) | $126,697 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.32 (76¢) | $126,697 | +$40,010 | ✅ Ganada |
 | ch27er | Trail Blazers vs. Jazz | Jazz | 3.23 (31¢) | $25,000 | -$25,000 | ❌ Perdida |
 | ch27er | Spread: Trail Blazers (-8.5) | Jazz | 1.75 (57¢) | $27,500 | -$27,500 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Utah (-7.5) | Utah | 2.08 (48¢) | $27,192 | — | ⏳ Pendiente |
