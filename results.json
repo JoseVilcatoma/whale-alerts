@@ -108492,5 +108492,20 @@
     "status": "pending",
     "ultimo_fill": 1793461682,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14636,
+    "timestamp": 1793461761,
+    "username": "CUTJALENHURTS",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "lal-bar-ala-2026-10-31-second-half-team-total-home-0pt5",
+    "title": "FC Barcelona vs. Deportivo Alav\u00e9s: FC Barcelona 2nd Half O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 28214.905300000002,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1793461761,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 10:49:10 (hora de Perú)
+Actualizado: 2026-10-31 10:51:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7218**  ($408,923,301 en total)
+- Apuestas registradas: **7219**  ($408,951,516 en total)
 - Resueltas: **7171** — 4357 ganadas / 2814 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 679
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 679 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $28,215 | — | ⏳ Pendiente |
 | lukibazdonauki754 | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $26,070 | — | ⏳ Pendiente |
 | CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 1st Half O/U 0.5 | Over 0.5 | 1.37 (73¢) | $29,200 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Rayo Vallecano de Madrid win on 2026-10-31? | Yes | 2.63 (38¢) | $45,024 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 679 en total)_
 | googleplay | Lakers vs. Warriors | Warriors | 2.27 (44¢) | $35,831 | +$45,603 | ✅ Ganada |
 | googleplay | Spread: Lakers (-3.5) | Warriors | 1.89 (53¢) | $80,745 | +$71,604 | ✅ Ganada |
 | esportsbetter1 | Lakers vs. Warriors | Lakers | 1.75 (57¢) | $25,650 | -$25,650 | ❌ Perdida |
-| googleplay | Spread: Lakers (-3.5) | Warriors | 1.92 (52¢) | $34,880 | +$32,197 | ✅ Ganada |
