@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 01:30:02 (hora de Perú)
+Actualizado: 2026-10-31 01:32:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7187**  ($407,700,074 en total)
+- Apuestas registradas: **7188**  ($407,732,924 en total)
 - Resueltas: **7153** — 4348 ganadas / 2805 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 675
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 675 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CORGII | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.22 (45¢) | $32,850 | — | ⏳ Pendiente |
 | qiu3 | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.22 (45¢) | $39,685 | — | ⏳ Pendiente |
 | omnibus-076daa | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.27 (44¢) | $48,497 | — | ⏳ Pendiente |
 | todouzai | FK Macva Sabac vs. FK Crvena Zvezda Belgrade: O/U 3.5 | Under 3.5 | 1.67 (60¢) | $35,804 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 675 en total)_
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.49 (67¢) | $91,722 | +$45,176 | ✅ Ganada |
 | jakepaulthegoat2008 | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | G2 Esports | 3.12 (32¢) | $64,972 | -$64,972 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.47 (68¢) | $224,758 | +$105,768 | ✅ Ganada |
-| googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $214,429 | -$214,429 | ❌ Perdida |
