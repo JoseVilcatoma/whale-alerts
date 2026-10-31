@@ -107994,7 +107994,7 @@
     "side": "BUY",
     "usd": 35804.219999999994,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793422353,
     "fills": 1
   },
@@ -108444,7 +108444,7 @@
     "side": "BUY",
     "usd": 27228.409900000002,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793459398,
     "fills": 1
   },
@@ -108941,6 +108941,21 @@
     "odds_at_bet": 94,
     "status": "pending",
     "ultimo_fill": 1793476966,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14683,
+    "timestamp": 1793477187,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-sc-okl-2026-10-31",
+    "title": "South Carolina vs. Oklahoma",
+    "outcome": "Oklahoma",
+    "side": "BUY",
+    "usd": 28755.66,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1793477187,
     "fills": 1
   }
 ]

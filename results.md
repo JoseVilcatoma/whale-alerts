@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 15:06:12 (hora de Perú)
+Actualizado: 2026-10-31 15:08:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7248**  ($410,565,528 en total)
-- Resueltas: **7187** — 4365 ganadas / 2822 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Apuestas registradas: **7249**  ($410,594,283 en total)
+- Resueltas: **7189** — 4366 ganadas / 2823 perdidas (**61%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 682
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,797,572** sobre $407,698,465 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,633** sobre $708,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,807,216** sobre $407,761,497 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,637** sobre $708,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| ferrariChampions2026 | 111 | 57 | 1 | 66% | $7,262,256 | +$229,915 |
+| ferrariChampions2026 | 111 | 57 | 2 | 66% | $7,291,012 | +$229,915 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 46 | 23 | 0 | 67% | $6,098,581 | +$1,106,168 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 61 | 29 | 0 | 68% | $5,347,825 | -$284,641 |
 | BrotherObama | 50 | 53 | 2 | 49% | $4,553,584 | -$106,735 |
-| maz26 | 39 | 26 | 1 | 60% | $4,486,958 | +$512,782 |
+| maz26 | 40 | 26 | 0 | 61% | $4,486,958 | +$538,942 |
 | Kch-Temp | 45 | 15 | 1 | 75% | $3,932,043 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 35 | 10 | 2 | 78% | $3,636,985 | +$477,568 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | South Carolina vs. Oklahoma | Oklahoma | 1.67 (60¢) | $28,756 | — | ⏳ Pendiente |
 | 999585 | Arizona State vs. BYU | BYU | 1.06 (94¢) | $141,000 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Aston Villa FC win on 2026-10-31? | Yes | 2.04 (49¢) | $46,479 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.72 (58¢) | $63,092 | — | ⏳ Pendiente |
@@ -104,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | lukibazdonauki754 | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $26,070 | — | ⏳ Pendiente |
 | CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 1st Half O/U 0.5 | Over 0.5 | 1.37 (73¢) | $29,200 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Rayo Vallecano de Madrid win on 2026-10-31? | Yes | 2.63 (38¢) | $45,024 | +$73,460 | ✅ Ganada |
-| gmpm2 | Spread: Texas Tech (-3.5) | Texas Tech | 1.96 (51¢) | $27,228 | — | ⏳ Pendiente |
+| gmpm2 | Spread: Texas Tech (-3.5) | Texas Tech | 1.96 (51¢) | $27,228 | +$26,161 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Michigan (-16.5) | Rutgers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | googleplay | Will Rayo Vallecano de Madrid win on 2026-10-31? | No | 1.61 (62¢) | $31,028 | -$31,028 | ❌ Perdida |
 | liriks | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.56 (39¢) | $28,921 | -$28,921 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | plonker2026 | Will Chelsea FC win on 2026-10-31? | No | 1.79 (56¢) | $43,389 | -$43,389 | ❌ Perdida |
 | drainedandpoor | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 1.41 (71¢) | $29,820 | +$12,180 | ✅ Ganada |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $40,000 | — | ⏳ Pendiente |
-| 4217893367451 | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.27 (44¢) | $50,551 | +$64,337 | ✅ Ganada |
