@@ -109047,5 +109047,20 @@
     "status": "pending",
     "ultimo_fill": 1793480533,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14693,
+    "timestamp": 1793481199,
+    "username": "PrimeOasis1987",
+    "wallet": "0x8c5e8ccd19eba2b566b1af96a698debd5cf1a114",
+    "slug": "nba-phi-cha-2026-10-31",
+    "title": "76ers vs. Hornets",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 38206.673800000004,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1793481199,
+    "fills": 1
   }
 ]
