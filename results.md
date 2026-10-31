@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 23:34:28 (hora de Perú)
+Actualizado: 2026-10-30 23:36:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7182**  ($407,505,296 en total)
+- Apuestas registradas: **7183**  ($407,534,735 en total)
 - Resueltas: **7134** — 4336 ganadas / 2798 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 674
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | TAIWANNUMBERONE | 41 | 17 | 2 | 71% | $2,244,502 | -$109,010 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Woaifacai | 26 | 10 | 1 | 72% | $2,087,656 | +$249,222 |
+| Woaifacai | 26 | 10 | 2 | 72% | $2,117,095 | +$249,222 |
 
 _(mostrando los 40 de mayor monto, de 674 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Lakers vs. Warriors | Warriors | 1.09 (92¢) | $29,439 | — | ⏳ Pendiente |
 | omnibus-076daa | Lakers vs. Warriors | Warriors | 1.54 (65¢) | $34,998 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Nuggets | 1.28 (78¢) | $30,504 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Kent State vs. Sacramento State | Kent State | 1.30 (77¢) | $31,014 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | googleplay | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $32,962 | -$32,962 | ❌ Perdida |
 | 0x709179E7392e59922Ab2D73cb1141698b30096f8-1773173619816 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $49,175 | +$13,072 | ✅ Ganada |
 | Sassy-Bucket | Harvard vs. Dartmouth | Harvard | 1.28 (78¢) | $35,864 | -$35,864 | ❌ Perdida |
-| arjennnnn | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $50,000 | +$13,291 | ✅ Ganada |
