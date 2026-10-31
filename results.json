@@ -108192,5 +108192,20 @@
     "status": "pending",
     "ultimo_fill": 1793448264,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14607,
+    "timestamp": 1793450183,
+    "username": "Kyn008",
+    "wallet": "0xd29312e2446a746bbd94408e1c475f1ec6d7d683",
+    "slug": "lal-lev-mad-2026-10-31-lev",
+    "title": "Will Levante UD win on 2026-10-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 29910.3185,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1793450183,
+    "fills": 1
   }
 ]
