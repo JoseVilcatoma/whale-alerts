@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 11:31:28 (hora de Perú)
+Actualizado: 2026-10-31 11:33:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7221**  ($409,076,104 en total)
+- Apuestas registradas: **7222**  ($409,160,104 en total)
 - Resueltas: **7177** — 4361 ganadas / 2816 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 679
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 511 | 287 | 5 | 64% | $52,494,714 | +$540,538 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 511 | 287 | 6 | 64% | $52,578,714 | +$540,538 |
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
 | googleplay | 51 | 37 | 1 | 58% | $10,880,751 | +$549,151 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 679 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. BV Borussia 09 Dortmund end in a draw? | No | 1.19 (84¢) | $84,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Porto vs. Estoril Praia: O/U 5.5 | Under 5.5 | 1.15 (87¢) | $83,745 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Notre Dame (-30.5) | Notre Dame | 1.92 (52¢) | $40,843 | — | ⏳ Pendiente |
 | CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $28,215 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 679 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 12.50 (8¢) | $28,164 | -$28,164 | ❌ Perdida |
 | CHZHSHCH | Knicks vs. 76ers | 76ers | 1.09 (92¢) | $269,115 | +$5,850 | 💰 Vendida antes |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Rockets vs. Mavericks | Rockets | 1.22 (82¢) | $47,168 | -$47,168 | ❌ Perdida |
-| googleplay | Lakers vs. Warriors | Warriors | 2.27 (44¢) | $35,831 | +$45,603 | ✅ Ganada |
