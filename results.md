@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 18:32:43 (hora de Perú)
+Actualizado: 2026-10-31 18:34:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7289**  ($413,248,731 en total)
+- Apuestas registradas: **7291**  ($413,309,489 en total)
 - Resueltas: **7222** — 4389 ganadas / 2833 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 47
 - Apostadores distintos: 683
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 516 | 290 | 9 | 64% | $53,249,212 | +$424,377 |
 | Sassy-Bucket | 99 | 102 | 3 | 49% | $13,315,384 | -$1,401,987 |
-| googleplay | 51 | 38 | 7 | 57% | $11,484,746 | +$518,123 |
+| googleplay | 51 | 38 | 8 | 57% | $11,516,128 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 115 | 66 | 4 | 64% | $9,011,975 | +$235,134 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 683 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cavaliers vs. Bucks | Cavaliers | 1.33 (75¢) | $29,376 | — | ⏳ Pendiente |
+| googleplay | Spread: Cavaliers (-9.5) | Bucks | 1.89 (53¢) | $31,383 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Cavaliers (-9.5) | Cavaliers | 2.13 (47¢) | $32,456 | — | ⏳ Pendiente |
 | 999585 | Mississippi State vs. Texas | Texas | 1.10 (91¢) | $183,012 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,297 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 683 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $44,955 | -$44,955 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota vs. Indiana: O/U 41.5 | Over 41.5 | 2.17 (46¢) | $37,418 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $101,459 | -$101,459 | ❌ Perdida |
-| HAN88888 | FC Bayern München vs. BV Borussia 09 Dortmund: O/U 4.5 | Under 4.5 | 1.10 (91¢) | $30,000 | +$2,967 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Jazz | Trail Blazers | 1.45 (69¢) | $69,000 | +$31,000 | ✅ Ganada |
