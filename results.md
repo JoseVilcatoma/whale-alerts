@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 17:15:50 (hora de Perú)
+Actualizado: 2026-10-31 17:18:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7273**  ($412,366,096 en total)
-- Resueltas: **7195** — 4370 ganadas / 2825 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Resueltas: **7212** — 4381 ganadas / 2831 perdidas (**61%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 682
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,794,533** sobre $407,976,204 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,664** sobre $709,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,917,894** sobre $408,766,972 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,821** sobre $711,000 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 513 | 288 | 12 | 64% | $53,142,280 | +$512,538 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 515 | 290 | 8 | 64% | $53,142,280 | +$378,690 |
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
 | googleplay | 51 | 38 | 7 | 57% | $11,484,746 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 40 | 26 | 0 | 61% | $4,486,958 | +$538,942 |
 | Kch-Temp | 45 | 15 | 1 | 75% | $3,932,043 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| surfandturf | 35 | 10 | 2 | 78% | $3,636,985 | +$477,568 |
+| surfandturf | 36 | 10 | 1 | 78% | $3,636,985 | +$499,568 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -93,31 +93,31 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | jakepaulthegoat2008 | 76ers vs. Hornets | 76ers | 1.92 (52¢) | $52,779 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.56 (64¢) | $50,884 | — | ⏳ Pendiente |
 | thegreatjeff | Will AC Milan win on 2026-10-31? | Yes | 1.28 (78¢) | $30,000 | +$8,462 | ✅ Ganada |
-| 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Will Aston Villa FC win on 2026-10-31? | Yes | 1.35 (74¢) | $30,543 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $45,000 | — | ⏳ Pendiente |
+| 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Will Aston Villa FC win on 2026-10-31? | Yes | 1.35 (74¢) | $30,543 | -$30,543 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
 | ferrariChampions2026 | South Carolina vs. Oklahoma | Oklahoma | 1.67 (60¢) | $28,756 | — | ⏳ Pendiente |
 | 999585 | Arizona State vs. BYU | BYU | 1.06 (94¢) | $141,000 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Aston Villa FC win on 2026-10-31? | Yes | 2.04 (49¢) | $46,479 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Aston Villa FC win on 2026-10-31? | Yes | 2.04 (49¢) | $46,479 | -$46,479 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.72 (58¢) | $63,092 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.69 (59¢) | $68,329 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Will Aston Villa FC win on 2026-10-31? | No | 1.96 (51¢) | $48,666 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Will Aston Villa FC win on 2026-10-31? | No | 1.96 (51¢) | $48,666 | +$46,758 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: LOS vs LYON - Game 2 Winner | LOS | 2.44 (41¢) | $70,400 | — | ⏳ Pendiente |
 | meoooow | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.64 (61¢) | $33,046 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $68,097 | — | ⏳ Pendiente |
-| ukowna | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $90,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $68,097 | +$7,566 | ✅ Ganada |
+| ukowna | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $90,000 | +$10,000 | ✅ Ganada |
 | vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LOS | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: New Mexico (-14.5) | San Jose State | 2.04 (49¢) | $31,677 | — | ⏳ Pendiente |
 | surfandturf | Boxing: Canelo Álvarez vs. Christian Mbilli | Canelo | 1.39 (72¢) | $34,495 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Colorado State vs. Utah State | Utah State | 1.33 (75¢) | $44,991 | — | ⏳ Pendiente |
-| nigiri99 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $46,138 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $44,955 | — | ⏳ Pendiente |
+| nigiri99 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $46,138 | +$5,126 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $44,955 | -$44,955 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota vs. Indiana: O/U 41.5 | Over 41.5 | 2.17 (46¢) | $37,418 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $101,459 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $101,459 | -$101,459 | ❌ Perdida |
 | HAN88888 | FC Bayern München vs. BV Borussia 09 Dortmund: O/U 4.5 | Under 4.5 | 1.10 (91¢) | $30,000 | +$2,967 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Trail Blazers vs. Jazz | Trail Blazers | 1.45 (69¢) | $69,000 | +$31,000 | ✅ Ganada |
-| rabbitfoot1 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $40,225 | — | ⏳ Pendiente |
-| omnibus-076daa | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $36,367 | — | ⏳ Pendiente |
-| surfandturf | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
+| rabbitfoot1 | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $40,225 | -$40,225 | ❌ Perdida |
+| omnibus-076daa | Spread: FC Barcelona (-2.5) | Deportivo Alavés | 2.22 (45¢) | $36,367 | -$36,367 | ❌ Perdida |
+| surfandturf | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
 | jakepaulthegoat2008 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.32 (76¢) | $126,697 | — | ⏳ Pendiente |
 | ch27er | Trail Blazers vs. Jazz | Jazz | 3.23 (31¢) | $25,000 | -$25,000 | ❌ Perdida |
 | ch27er | Spread: Trail Blazers (-8.5) | Jazz | 1.75 (57¢) | $27,500 | -$27,500 | ❌ Perdida |
@@ -125,9 +125,9 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. BV Borussia 09 Dortmund end in a draw? | No | 1.19 (84¢) | $84,000 | -$84,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Porto vs. Estoril Praia: O/U 5.5 | Under 5.5 | 1.15 (87¢) | $83,745 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Notre Dame (-30.5) | Notre Dame | 1.92 (52¢) | $40,843 | -$40,843 | ❌ Perdida |
-| CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $28,215 | — | ⏳ Pendiente |
-| lukibazdonauki754 | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $26,070 | — | ⏳ Pendiente |
-| CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 1st Half O/U 0.5 | Over 0.5 | 1.37 (73¢) | $29,200 | — | ⏳ Pendiente |
+| CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $28,215 | +$7,500 | ✅ Ganada |
+| lukibazdonauki754 | FC Barcelona vs. Deportivo Alavés: FC Barcelona 2nd Half O/U 0.5 | Over 0.5 | 1.27 (79¢) | $26,070 | +$6,930 | ✅ Ganada |
+| CUTJALENHURTS | FC Barcelona vs. Deportivo Alavés: FC Barcelona 1st Half O/U 0.5 | Over 0.5 | 1.37 (73¢) | $29,200 | +$10,800 | ✅ Ganada |
 | 1l2ihj34li12u34 | Will Rayo Vallecano de Madrid win on 2026-10-31? | Yes | 2.63 (38¢) | $45,024 | +$73,460 | ✅ Ganada |
 | gmpm2 | Spread: Texas Tech (-3.5) | Texas Tech | 1.96 (51¢) | $27,228 | +$26,161 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Michigan (-16.5) | Rutgers | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
