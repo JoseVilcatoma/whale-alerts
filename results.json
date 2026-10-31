@@ -109169,5 +109169,50 @@
     "status": "pending",
     "ultimo_fill": 1793483539,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14705,
+    "timestamp": 1793483755,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-atl-nop-2026-10-31",
+    "title": "Hawks vs. Pelicans",
+    "outcome": "Hawks",
+    "side": "BUY",
+    "usd": 65645.3135,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1793483755,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14706,
+    "timestamp": 1793483804,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "cfb-minnst-ind-2026-10-31",
+    "title": "Minnesota vs. Indiana",
+    "outcome": "Indiana",
+    "side": "BUY",
+    "usd": 31569.8171,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1793483804,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14707,
+    "timestamp": 1793483825,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-phi-cha-2026-10-31-spread-away-1pt5",
+    "title": "Spread: 76ers (-1.5)",
+    "outcome": "Hornets",
+    "side": "BUY",
+    "usd": 148859.72400000002,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793483825,
+    "fills": 1
   }
 ]
