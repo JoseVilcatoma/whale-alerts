@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 04:33:26 (hora de Perú)
+Actualizado: 2026-10-31 05:43:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7189**  ($407,783,475 en total)
-- Resueltas: **7158** — 4349 ganadas / 2809 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **7162** — 4353 ganadas / 2809 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 675
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,832,400** sobre $406,477,614 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,686** sobre $705,700 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,617,686** sobre $406,649,197 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,187** sobre $706,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,10 +71,10 @@ _(mostrando los 40 de mayor monto, de 675 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 4217893367451 | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.27 (44¢) | $50,551 | — | ⏳ Pendiente |
-| CORGII | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.22 (45¢) | $32,850 | — | ⏳ Pendiente |
-| qiu3 | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.22 (45¢) | $39,685 | — | ⏳ Pendiente |
-| omnibus-076daa | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.27 (44¢) | $48,497 | — | ⏳ Pendiente |
+| 4217893367451 | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.27 (44¢) | $50,551 | +$64,337 | ✅ Ganada |
+| CORGII | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.22 (45¢) | $32,850 | +$40,150 | ✅ Ganada |
+| qiu3 | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.22 (45¢) | $39,685 | +$48,504 | ✅ Ganada |
+| omnibus-076daa | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.27 (44¢) | $48,497 | +$61,723 | ✅ Ganada |
 | todouzai | FK Macva Sabac vs. FK Crvena Zvezda Belgrade: O/U 3.5 | Under 3.5 | 1.67 (60¢) | $35,804 | — | ⏳ Pendiente |
 | hovistomaradona | Aston Villa FC vs. Fulham FC: O/U 2.5 | Under 2.5 | 2.22 (45¢) | $41,353 | — | ⏳ Pendiente |
 | Woaifacai | Lakers vs. Warriors | Warriors | 1.09 (92¢) | $29,439 | +$2,560 | ✅ Ganada |
