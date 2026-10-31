@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 11:12:29 (hora de Perú)
+Actualizado: 2026-10-31 11:14:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7220**  ($408,992,359 en total)
-- Resueltas: **7172** — 4358 ganadas / 2814 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **7177** — 4361 ganadas / 2816 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 679
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,675,037** sobre $407,031,739 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,474** sobre $707,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,622,217** sobre $407,218,754 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,437** sobre $707,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 110 | 57 | 2 | 66% | $7,262,256 | +$202,004 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Mooseborzoiii | 45 | 22 | 2 | 67% | $6,098,581 | +$1,133,168 |
+| Mooseborzoiii | 46 | 22 | 1 | 68% | $6,098,581 | +$1,182,168 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 679 en total)_
 | gmpm2 | Spread: Texas Tech (-3.5) | Texas Tech | 1.96 (51¢) | $27,228 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Michigan (-16.5) | Rutgers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | googleplay | Will Rayo Vallecano de Madrid win on 2026-10-31? | No | 1.61 (62¢) | $31,028 | — | ⏳ Pendiente |
-| liriks | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.56 (39¢) | $28,921 | — | ⏳ Pendiente |
+| liriks | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.56 (39¢) | $28,921 | -$28,921 | ❌ Perdida |
 | TennisAce1 | Rolex Paris Masters, Qualification: Tallon Griekspoor vs Benjamin Bonzi | Benjamin Bonzi | 1.52 (66¢) | $26,402 | +$13,601 | ✅ Ganada |
 | 1l2ihj34li12u34 | Brentford FC vs. Nottingham Forest FC: O/U 2.5 | Under 2.5 | 2.27 (44¢) | $43,198 | — | ⏳ Pendiente |
 | rabbitfoot1 | AFC Bournemouth vs. Leeds United FC: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $75,539 | — | ⏳ Pendiente |
@@ -94,13 +94,13 @@ _(mostrando los 40 de mayor monto, de 679 en total)_
 | LlamaEnjoyer | Counter-Strike: Nemiga vs FURIA - Map 3 Winner | Nemiga | 2.44 (41¢) | $25,398 | -$25,398 | ❌ Perdida |
 | Kyn008 | Will Levante UD win on 2026-10-31? | No | 1.18 (85¢) | $29,910 | +$5,278 | ✅ Ganada |
 | ferrariChampions2026 | Oklahoma State vs. Iowa State | Oklahoma State | 1.32 (76¢) | $33,356 | — | ⏳ Pendiente |
-| Mooseborzoiii | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
+| Mooseborzoiii | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 1.96 (51¢) | $51,000 | +$49,000 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Chelsea FC win on 2026-10-31? | No | 1.79 (56¢) | $27,390 | -$27,390 | ❌ Perdida |
-| ArturitoFilito | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.04 (49¢) | $28,356 | — | ⏳ Pendiente |
-| omnibus-076daa | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 2.00 (50¢) | $48,917 | — | ⏳ Pendiente |
+| ArturitoFilito | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | Nemiga | 2.04 (49¢) | $28,356 | -$28,356 | ❌ Perdida |
+| omnibus-076daa | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 2.00 (50¢) | $48,917 | +$48,917 | ✅ Ganada |
 | Lihtaryki | Will Manchester United FC win on 2026-10-31? | No | 1.45 (69¢) | $34,500 | +$15,500 | ✅ Ganada |
 | plonker2026 | Will Chelsea FC win on 2026-10-31? | No | 1.79 (56¢) | $43,389 | -$43,389 | ❌ Perdida |
-| drainedandpoor | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 1.41 (71¢) | $29,820 | — | ⏳ Pendiente |
+| drainedandpoor | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 1.41 (71¢) | $29,820 | +$12,180 | ✅ Ganada |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $40,000 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.27 (44¢) | $50,551 | +$64,337 | ✅ Ganada |
 | CORGII | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.22 (45¢) | $32,850 | +$40,150 | ✅ Ganada |
