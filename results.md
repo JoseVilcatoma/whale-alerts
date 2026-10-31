@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 22:17:01 (hora de Perú)
+Actualizado: 2026-10-30 22:19:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7177**  ($407,339,976 en total)
+- Apuestas registradas: **7178**  ($407,378,476 en total)
 - Resueltas: **7132** — 4335 ganadas / 2797 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 674
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ethanaz | 61 | 28 | 0 | 69% | $5,309,325 | -$246,141 |
+| ethanaz | 61 | 28 | 1 | 69% | $5,347,825 | -$246,141 |
 | BrotherObama | 50 | 53 | 2 | 49% | $4,553,584 | -$106,735 |
 | maz26 | 39 | 26 | 0 | 60% | $4,459,729 | +$512,782 |
 | Kch-Temp | 45 | 15 | 1 | 75% | $3,932,043 | +$1,725,698 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Kent State vs. Sacramento State | Kent State | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Kent State vs. Sacramento State | Kent State | 1.30 (77¢) | $37,119 | — | ⏳ Pendiente |
 | Woaifacai | Rockets vs. Mavericks | Mavericks | 1.18 (85¢) | $27,174 | +$4,795 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nuggets vs. Suns | Suns | 2.94 (34¢) | $25,942 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 674 en total)_
 | freeman123 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $43,450 | +$11,550 | ✅ Ganada |
 | horrocrux | Queretaro: Nadia Podoroska vs Carole Monnet | Nadia Podoroska | 1.49 (67¢) | $85,167 | -$85,167 | ❌ Perdida |
 | monkeymashingkeyboard | Rockets vs. Mavericks | Mavericks | 2.78 (36¢) | $26,501 | +$47,113 | ✅ Ganada |
-| PrimeOasis1987 | Spread: Rockets (-6.5) | Mavericks | 1.96 (51¢) | $32,397 | +$31,126 | ✅ Ganada |
