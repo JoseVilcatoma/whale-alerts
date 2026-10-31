@@ -109484,5 +109484,20 @@
     "status": "pending",
     "ultimo_fill": 1793488215,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14755,
+    "timestamp": 1793488597,
+    "username": "Albihime217255",
+    "wallet": "0x2d79b22ca5cee63c0ec7ab772aa57ef4e070bd0e",
+    "slug": "nba-phi-cha-2026-10-31",
+    "title": "76ers vs. Hornets",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 33949.999999,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1793488597,
+    "fills": 1
   }
 ]
