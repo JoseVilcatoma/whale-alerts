@@ -108207,5 +108207,20 @@
     "status": "pending",
     "ultimo_fill": 1793450183,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14608,
+    "timestamp": 1793450368,
+    "username": "LlamaEnjoyer",
+    "wallet": "0x9b979a065641e8cfde3022a30ed2d9415cf55e12",
+    "slug": "cs2-nemi1-furia-2026-10-31-game3",
+    "title": "Counter-Strike: Nemiga vs FURIA - Map 3 Winner",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "usd": 25398.4053,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1793450368,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 07:38:46 (hora de Perú)
+Actualizado: 2026-10-31 07:40:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7199**  ($408,150,113 en total)
+- Apuestas registradas: **7200**  ($408,175,511 en total)
 - Resueltas: **7162** — 4353 ganadas / 2809 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 676
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| LlamaEnjoyer | Counter-Strike: Nemiga vs FURIA - Map 3 Winner | Nemiga | 2.44 (41¢) | $25,398 | — | ⏳ Pendiente |
 | Kyn008 | Will Levante UD win on 2026-10-31? | No | 1.18 (85¢) | $29,910 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Oklahoma State vs. Iowa State | Oklahoma State | 1.32 (76¢) | $33,356 | — | ⏳ Pendiente |
 | Mooseborzoiii | Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs | FURIA | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 676 en total)_
 | KaneAnalytics | Baylor vs. UCF | Baylor | 1.82 (55¢) | $38,337 | +$31,367 | ✅ Ganada |
 | DonaldinhoTrumpito | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.11 (90¢) | $90,027 | +$10,003 | ✅ Ganada |
 | jakepaulthegoat2008 | Nuggets vs. Suns | Suns | 2.56 (39¢) | $36,187 | -$36,187 | ❌ Perdida |
-| monkeymashingkeyboard | Rockets vs. Mavericks | Rockets | 1.52 (66¢) | $56,086 | -$56,086 | ❌ Perdida |
