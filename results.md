@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 05:45:23 (hora de Perú)
+Actualizado: 2026-10-31 05:47:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7189**  ($407,783,475 en total)
+- Apuestas registradas: **7190**  ($407,823,475 en total)
 - Resueltas: **7162** — 4353 ganadas / 2809 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 675
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 675 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $40,000 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.27 (44¢) | $50,551 | +$64,337 | ✅ Ganada |
 | CORGII | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.22 (45¢) | $32,850 | +$40,150 | ✅ Ganada |
 | qiu3 | Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 2.22 (45¢) | $39,685 | +$48,504 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 675 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | G2 Esports | 2.04 (49¢) | $48,588 | -$48,588 | ❌ Perdida |
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.96 (51¢) | $50,532 | +$48,551 | ✅ Ganada |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | Hanwha Life Esports | 1.49 (67¢) | $91,722 | +$45,176 | ✅ Ganada |
-| jakepaulthegoat2008 | LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner | G2 Esports | 3.12 (32¢) | $64,972 | -$64,972 | ❌ Perdida |
