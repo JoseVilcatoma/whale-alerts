@@ -107455,5 +107455,20 @@
     "status": "pending",
     "ultimo_fill": 1793405416,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1793406071,
+    "username": "0xF0F30b69a850f849bcd51A91Ce00984c9ba83cE6-1776270044839",
+    "wallet": "0xbf1c60a98290dadacde12521c30417e131d65798",
+    "slug": "lol-hle1-g2-2026-10-30-game2",
+    "title": "LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 153998.8949,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1793406071,
+    "fills": 1
   }
 ]
