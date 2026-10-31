@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 18:06:13 (hora de Perú)
+Actualizado: 2026-10-31 18:08:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7283**  ($412,799,073 en total)
+- Apuestas registradas: **7283**  ($412,842,190 en total)
 - Resueltas: **7221** — 4388 ganadas / 2833 perdidas (**61%** de acierto)
 - Pendientes: 40
 - Apostadores distintos: 682
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 682 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| fhiwbijd | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Hanwha Life Esports | 2.86 (35¢) | $34,855 | — | ⏳ Pendiente |
+| fhiwbijd | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Hanwha Life Esports | 2.94 (34¢) | $77,972 | — | ⏳ Pendiente |
 | zb8 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $32,572 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Thunder vs. Rockets | Thunder | 2.33 (43¢) | $27,325 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $35,905 | — | ⏳ Pendiente |
