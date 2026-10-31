@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 14:02:41 (hora de Perú)
+Actualizado: 2026-10-31 14:04:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7222**  ($409,160,104 en total)
+- Apuestas registradas: **7226**  ($409,366,492 en total)
 - Resueltas: **7182** — 4363 ganadas / 2819 perdidas (**61%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 679
+- Pendientes: 22
+- Apostadores distintos: 680
 
 ### Balance
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 99 | 102 | 2 | 49% | $13,223,330 | -$1,401,987 |
 | googleplay | 51 | 38 | 0 | 57% | $10,880,751 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 113 | 66 | 1 | 63% | $8,685,968 | +$147,641 |
+| Lakersfan111 | 113 | 66 | 2 | 63% | $8,812,665 | +$147,641 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
@@ -65,12 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Woaifacai | 28 | 10 | 0 | 74% | $2,117,095 | +$289,252 |
 
-_(mostrando los 40 de mayor monto, de 679 en total)_
+_(mostrando los 40 de mayor monto, de 680 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.32 (76¢) | $126,697 | — | ⏳ Pendiente |
+| ch27er | Trail Blazers vs. Jazz | Jazz | 3.23 (31¢) | $25,000 | — | ⏳ Pendiente |
+| ch27er | Spread: Trail Blazers (-8.5) | Jazz | 1.75 (57¢) | $27,500 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Spread: Utah (-7.5) | Utah | 2.08 (48¢) | $27,192 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München vs. BV Borussia 09 Dortmund end in a draw? | No | 1.19 (84¢) | $84,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | FC Porto vs. Estoril Praia: O/U 5.5 | Under 5.5 | 1.15 (87¢) | $83,745 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Notre Dame (-30.5) | Notre Dame | 1.92 (52¢) | $40,843 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 679 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Warriors | Warriors | 2.27 (44¢) | $42,739 | +$54,395 | ✅ Ganada |
 | takeormake | Knicks vs. 76ers | 76ers | 1.06 (94¢) | $40,000 | +$2,553 | ✅ Ganada |
 | omnibus-076daa | Lakers vs. Warriors | Lakers | 1.79 (56¢) | $25,830 | -$25,830 | ❌ Perdida |
-| sulumos | Lakers vs. Warriors | Lakers | 1.82 (55¢) | $30,800 | -$30,800 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. 76ers | Knicks | 12.50 (8¢) | $28,164 | -$28,164 | ❌ Perdida |
-| CHZHSHCH | Knicks vs. 76ers | 76ers | 1.09 (92¢) | $269,115 | +$5,850 | 💰 Vendida antes |
-| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Rockets vs. Mavericks | Rockets | 1.22 (82¢) | $47,168 | -$47,168 | ❌ Perdida |
