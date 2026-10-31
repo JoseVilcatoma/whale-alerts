@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 20:04:44 (hora de Perú)
+Actualizado: 2026-10-30 20:06:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7155**  ($406,047,165 en total)
-- Resueltas: **7081** — 4309 ganadas / 2772 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Resueltas: **7084** — 4309 ganadas / 2775 perdidas (**61%** de acierto)
+- Pendientes: 49
 - Apostadores distintos: 673
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,224,800** sobre $401,486,782 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,985** sobre $698,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,437,694** sobre $401,699,676 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,285** sobre $698,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 503 | 281 | 9 | 64% | $51,930,103 | +$375,110 |
-| Sassy-Bucket | 98 | 98 | 6 | 50% | $13,110,636 | -$1,357,701 |
+| Sassy-Bucket | 98 | 100 | 4 | 49% | $13,110,636 | -$1,485,429 |
 | googleplay | 47 | 32 | 5 | 59% | $10,620,029 | +$987,090 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 112 | 63 | 4 | 64% | $8,621,421 | +$263,940 |
@@ -106,14 +106,14 @@ _(mostrando los 40 de mayor monto, de 673 en total)_
 | arjennnnn | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $50,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | Game Handicap: HLE (-1.5) vs G2 Esports (+1.5) | Hanwha Life Esports | 1.89 (53¢) | $48,730 | — | ⏳ Pendiente |
 | freeman123 | LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage | Hanwha Life Esports | 1.27 (79¢) | $43,450 | — | ⏳ Pendiente |
-| horrocrux | Queretaro: Nadia Podoroska vs Carole Monnet | Nadia Podoroska | 1.49 (67¢) | $85,167 | — | ⏳ Pendiente |
+| horrocrux | Queretaro: Nadia Podoroska vs Carole Monnet | Nadia Podoroska | 1.49 (67¢) | $85,167 | -$85,167 | ❌ Perdida |
 | monkeymashingkeyboard | Rockets vs. Mavericks | Mavericks | 2.78 (36¢) | $26,501 | — | ⏳ Pendiente |
 | PrimeOasis1987 | Spread: Rockets (-6.5) | Mavericks | 1.96 (51¢) | $32,397 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.35 (74¢) | $39,641 | -$39,641 | ❌ Perdida |
-| Sassy-Bucket | Devils vs. Golden Knights | Golden Knights | 1.92 (52¢) | $63,329 | — | ⏳ Pendiente |
+| Sassy-Bucket | Devils vs. Golden Knights | Golden Knights | 1.92 (52¢) | $63,329 | -$63,329 | ❌ Perdida |
 | RJW1 | Knicks vs. 76ers | Knicks | 1.72 (58¢) | $95,132 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | Team Liquid | 1.43 (70¢) | $54,414 | -$54,414 | ❌ Perdida |
-| Sassy-Bucket | Devils vs. Golden Knights | Golden Knights | 1.92 (52¢) | $64,398 | — | ⏳ Pendiente |
+| Sassy-Bucket | Devils vs. Golden Knights | Golden Knights | 1.92 (52¢) | $64,398 | -$64,398 | ❌ Perdida |
 | fhiwbijd | LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage | LOS | 3.12 (32¢) | $31,891 | +$67,768 | ✅ Ganada |
 | texaskid | Spread: Knicks (-3.5) | 76ers | 1.96 (51¢) | $93,279 | — | ⏳ Pendiente |
 | RJW1 | Spread: Knicks (-3.5) | Knicks | 2.04 (49¢) | $48,153 | — | ⏳ Pendiente |
