@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-30 19:04:27 (hora de Perú)
+Actualizado: 2026-10-30 19:06:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7147**  ($405,430,025 en total)
+- Apuestas registradas: **7148**  ($405,455,180 en total)
 - Resueltas: **7081** — 4309 ganadas / 2772 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 672
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ferrariChampions2026 | 110 | 57 | 0 | 66% | $7,202,084 | +$202,004 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| Mooseborzoiii | 41 | 20 | 5 | 67% | $5,946,425 | +$1,006,285 |
+| Mooseborzoiii | 41 | 20 | 6 | 67% | $5,971,581 | +$1,006,285 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | G2 Esports | 2.38 (42¢) | $25,155 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | Hanwha Life Esports | 1.67 (60¢) | $36,000 | — | ⏳ Pendiente |
 | Mooseborzoiii | LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner | G2 Esports | 2.44 (41¢) | $36,108 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Baylor vs. UCF | UCF | 2.78 (36¢) | $71,341 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 672 en total)_
 | jakepaulthegoat2008 | Counter-Strike: Imperial vs paiN (BO3) - Gamers Club Masters Group B | Imperial | 1.41 (71¢) | $26,146 | +$10,679 | ✅ Ganada |
 | RJW1 | Knicks vs. 76ers | Knicks | 1.89 (53¢) | $104,670 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs | MOUZ | 1.67 (60¢) | $27,368 | -$27,368 | ❌ Perdida |
-| omnibus-076daa | Dota 2: Team Spirit vs PARIVISION (BO3) - PARI Universe Playoffs | PARIVISION | 1.85 (54¢) | $27,173 | -$27,173 | ❌ Perdida |
