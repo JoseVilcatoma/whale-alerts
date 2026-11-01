@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 19:45:42 (hora de Perú)
+Actualizado: 2026-10-31 19:47:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7318**  ($414,959,555 en total)
+- Apuestas registradas: **7320**  ($415,227,898 en total)
 - Resueltas: **7236** — 4396 ganadas / 2840 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Pendientes: 62
 - Apostadores distintos: 684
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 517 | 292 | 11 | 64% | $53,488,486 | +$370,928 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 517 | 292 | 12 | 64% | $53,726,829 | +$370,928 |
 | Sassy-Bucket | 99 | 102 | 4 | 49% | $13,347,227 | -$1,401,987 |
 | googleplay | 51 | 38 | 12 | 57% | $11,807,027 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $238,343 | — | ⏳ Pendiente |
+| CUTJALENHURTS | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | yabanci | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $124,200 | — | ⏳ Pendiente |
 | Woaifacai | Thunder vs. Rockets | Rockets | 1.64 (61¢) | $133,947 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Rockets | Thunder | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | googleplay | Spread: Hawks (-4.5) | Hawks | 1.92 (52¢) | $42,479 | — | ⏳ Pendiente |
 | yabanci | Spread: 76ers (-1.5) | 76ers | 2.08 (48¢) | $51,360 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Hornets | 76ers | 1.89 (53¢) | $106,000 | — | ⏳ Pendiente |
-| ethanaz | Minnesota vs. Indiana | Minnesota | 3.23 (31¢) | $50,136 | -$50,136 | ❌ Perdida |
-| googleplay | Spread: Hawks (-4.5) | Hawks | 1.92 (52¢) | $25,282 | — | ⏳ Pendiente |
