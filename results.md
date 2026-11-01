@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 20:52:10 (hora de Perú)
+Actualizado: 2026-10-31 20:54:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7332**  ($415,839,292 en total)
-- Resueltas: **7248** — 4404 ganadas / 2844 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Resueltas: **7262** — 4411 ganadas / 2851 perdidas (**61%** de acierto)
+- Pendientes: 48
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,414,221** sobre $411,407,670 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,416** sobre $714,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,648,453** sobre $412,011,604 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,751** sobre $716,000 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 520 | 292 | 12 | 64% | $54,005,829 | +$579,568 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 520 | 293 | 11 | 64% | $54,005,829 | +$515,568 |
 | Sassy-Bucket | 99 | 102 | 4 | 49% | $13,347,227 | -$1,401,987 |
-| googleplay | 51 | 40 | 11 | 56% | $11,833,428 | +$176,813 |
+| googleplay | 51 | 45 | 6 | 53% | $11,833,428 | -$85,872 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 117 | 66 | 4 | 64% | $9,122,655 | +$376,737 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -80,23 +80,23 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | ferrariChampions2026 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $74,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $205,000 | — | ⏳ Pendiente |
 | yabanci | Penguins vs. Canadiens | Canadiens | 1.12 (89¢) | $44,208 | — | ⏳ Pendiente |
-| 467j6yj | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $33,898 | — | ⏳ Pendiente |
-| ElonSpam | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $27,978 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $26,947 | — | ⏳ Pendiente |
+| 467j6yj | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $33,898 | +$2,551 | ✅ Ganada |
+| ElonSpam | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $27,978 | +$2,106 | ✅ Ganada |
+| keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $26,947 | +$2,028 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $238,343 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | yabanci | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $124,200 | — | ⏳ Pendiente |
 | Woaifacai | Thunder vs. Rockets | Rockets | 1.64 (61¢) | $133,947 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Rockets | Thunder | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | yabanci | Thunder vs. Rockets: O/U 220.5 | Under 220.5 | 1.96 (51¢) | $32,520 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.15 (87¢) | $30,496 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.15 (87¢) | $30,496 | +$4,557 | ✅ Ganada |
 | Woaifacai | Thunder vs. Rockets | Rockets | 1.69 (59¢) | $100,036 | — | ⏳ Pendiente |
 | Sassy-Bucket | Thunder vs. Rockets | Thunder | 2.38 (42¢) | $31,843 | — | ⏳ Pendiente |
 | googleplay | Thunder vs. Rockets | Rockets | 1.72 (58¢) | $43,668 | — | ⏳ Pendiente |
 | LlamaEnjoyer | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $32,594 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $25,707 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-2.5) | Rockets | 1.89 (53¢) | $125,768 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.30 (77¢) | $43,142 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.30 (77¢) | $43,142 | +$12,887 | ✅ Ganada |
 | CUTJALENHURTS | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.08 (48¢) | $40,574 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-2.5) | Rockets | 1.92 (52¢) | $86,870 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Timberwolves vs. Spurs | Spurs | 1.20 (83¢) | $72,632 | — | ⏳ Pendiente |
@@ -128,6 +128,6 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | EdZachary | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $51,300 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Indiana | Indiana | 1.75 (57¢) | $39,585 | +$29,862 | ✅ Ganada |
 | Zzzz87 | Penguins vs. Canadiens | Penguins | 2.13 (47¢) | $26,881 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hawks vs. Pelicans | Hawks | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hawks vs. Pelicans | Hawks | 1.56 (64¢) | $64,000 | -$64,000 | ❌ Perdida |
 | EdZachary | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | googleplay | 76ers vs. Hornets | Hornets | 2.08 (48¢) | $101,046 | -$101,046 | ❌ Perdida |
