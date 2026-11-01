@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 01:00:32 (hora de Perú)
+Actualizado: 2026-11-01 01:02:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7348**  ($417,349,793 en total)
-- Resueltas: **7317** — 4442 ganadas / 2875 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **7320** — 4444 ganadas / 2876 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,557,845** sobre $415,396,432 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,249** sobre $721,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,385,549** sobre $416,201,226 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,288** sobre $721,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
-| Woaifacai | 31 | 11 | 3 | 74% | $3,316,793 | +$305,736 |
+| Woaifacai | 33 | 11 | 1 | 75% | $3,316,793 | +$535,051 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 16 | 12 | 0 | 57% | $3,078,507 | -$818,979 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
@@ -72,9 +72,9 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Woaifacai | Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Elena Pridankina | Himeno Sakatsume | 1.30 (77¢) | $32,126 | — | ⏳ Pendiente |
-| Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.32 (76¢) | $348,453 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Leylah Fernandez | 4.55 (22¢) | $57,020 | — | ⏳ Pendiente |
-| Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.30 (77¢) | $399,321 | — | ⏳ Pendiente |
+| Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.32 (76¢) | $348,453 | +$110,038 | ✅ Ganada |
+| keeptheblueflagflyinghigh | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Leylah Fernandez | 4.55 (22¢) | $57,020 | -$57,020 | ❌ Perdida |
+| Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.30 (77¢) | $399,321 | +$119,278 | ✅ Ganada |
 | TennisAce1 | Washington vs. Nebraska | Nebraska | 1.52 (66¢) | $26,775 | -$26,775 | ❌ Perdida |
 | Woaifacai | Taipei: Masamichi Imamura vs Luca Staeheli | Masamichi Imamura | 1.08 (93¢) | $43,844 | +$3,300 | ✅ Ganada |
 | mooseborzoi | Spread: Oregon State (-6.5) | Oregon State | 2.00 (50¢) | $29,413 | — | ⏳ Pendiente |
