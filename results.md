@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 22:51:00 (hora de Perú)
+Actualizado: 2026-10-31 22:53:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7346**  ($416,969,215 en total)
-- Resueltas: **7312** — 4439 ganadas / 2873 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **7314** — 4439 ganadas / 2875 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,569,815** sobre $415,215,082 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,249** sobre $721,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,632,607** sobre $415,277,875 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,449** sobre $721,200 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
-| TAIWANNUMBERONE | 41 | 20 | 1 | 67% | $2,316,216 | -$212,839 |
+| TAIWANNUMBERONE | 41 | 21 | 0 | 66% | $2,316,216 | -$248,857 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
 | juice-fruit | 25 | 15 | 0 | 62% | $2,306,116 | +$316,802 |
@@ -73,10 +73,10 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 |---|---|---|---|---|---|---|
 | keeptheblueflagflyinghigh | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Leylah Fernandez | 4.55 (22¢) | $57,020 | — | ⏳ Pendiente |
 | Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.30 (77¢) | $399,321 | — | ⏳ Pendiente |
-| TennisAce1 | Washington vs. Nebraska | Nebraska | 1.52 (66¢) | $26,775 | — | ⏳ Pendiente |
+| TennisAce1 | Washington vs. Nebraska | Nebraska | 1.52 (66¢) | $26,775 | -$26,775 | ❌ Perdida |
 | Woaifacai | Taipei: Masamichi Imamura vs Luca Staeheli | Masamichi Imamura | 1.08 (93¢) | $43,844 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Oregon State (-6.5) | Oregon State | 2.00 (50¢) | $29,413 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Washington vs. Nebraska | Nebraska | 1.35 (74¢) | $36,017 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Washington vs. Nebraska | Nebraska | 1.35 (74¢) | $36,017 | -$36,017 | ❌ Perdida |
 | yabanci | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $58,733 | -$58,733 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Tom Nolan | 2.22 (45¢) | $32,770 | +$40,053 | ✅ Ganada |
 | Multicoloured-Serf | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $27,457 | -$27,457 | ❌ Perdida |
