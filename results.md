@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 22:10:35 (hora de Perú)
+Actualizado: 2026-10-31 22:12:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7343**  ($416,486,098 en total)
-- Resueltas: **7303** — 4434 ganadas / 2869 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **7306** — 4435 ganadas / 2871 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,501,536** sobre $414,663,866 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,063** sobre $720,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,547,674** sobre $414,782,827 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,140** sobre $720,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 522 | 298 | 4 | 64% | $54,005,829 | +$413,459 |
-| Sassy-Bucket | 99 | 104 | 3 | 49% | $13,379,998 | -$1,525,884 |
+| Sassy-Bucket | 100 | 104 | 2 | 49% | $13,379,998 | -$1,485,831 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 121 | 66 | 0 | 65% | $9,122,655 | +$444,011 |
@@ -74,9 +74,9 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Woaifacai | Taipei: Masamichi Imamura vs Luca Staeheli | Masamichi Imamura | 1.08 (93¢) | $43,844 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Oregon State (-6.5) | Oregon State | 2.00 (50¢) | $29,413 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Washington vs. Nebraska | Nebraska | 1.35 (74¢) | $36,017 | — | ⏳ Pendiente |
-| yabanci | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $58,733 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Tom Nolan | 2.22 (45¢) | $32,770 | — | ⏳ Pendiente |
-| Multicoloured-Serf | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $27,457 | — | ⏳ Pendiente |
+| yabanci | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $58,733 | -$58,733 | ❌ Perdida |
+| Sassy-Bucket | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Tom Nolan | 2.22 (45¢) | $32,770 | +$40,053 | ✅ Ganada |
+| Multicoloured-Serf | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $27,457 | -$27,457 | ❌ Perdida |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Timberwolves vs. Spurs | Spurs | 1.15 (87¢) | $25,046 | +$3,742 | ✅ Ganada |
 | Multicoloured-Serf | Ohio State vs. USC | USC | 1.09 (92¢) | $44,665 | — | ⏳ Pendiente |
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 1.32 (76¢) | $276,458 | +$87,302 | ✅ Ganada |
