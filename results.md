@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 16:37:32 (hora de Perú)
+Actualizado: 2026-11-01 16:39:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7416**  ($421,302,504 en total)
+- Apuestas registradas: **7417**  ($421,333,415 en total)
 - Resueltas: **7359** — 4473 ganadas / 2886 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 685
 
 ### Balance
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| TAIWANNUMBERONE | 42 | 21 | 2 | 67% | $2,416,685 | -$244,224 |
+| TAIWANNUMBERONE | 42 | 21 | 3 | 67% | $2,447,596 | -$244,224 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Titans vs. Bengals | Bengals | 1.14 (88¢) | $30,911 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Dolphins | Patriots | 1.32 (76¢) | $33,662 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Broncos | Broncos | 2.04 (49¢) | $45,119 | — | ⏳ Pendiente |
 | Bibberino | Titans vs. Bengals | Titans | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: SS Lazio (-1.5) | Cagliari Calcio | 1.64 (61¢) | $27,517 | +$17,593 | ✅ Ganada |
 | ch27er | Will SS Lazio win on 2026-11-01? | Yes | 1.54 (65¢) | $50,000 | +$20,000 | 💰 Vendida antes |
 | nb1985 | Will FC Utrecht win on 2026-11-01? | Yes | 2.00 (50¢) | $28,851 | -$28,851 | ❌ Perdida |
-| 999585 | Will Cagliari Calcio win on 2026-11-01? | No | 1.15 (87¢) | $31,193 | +$4,661 | ✅ Ganada |
