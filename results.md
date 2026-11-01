@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 08:51:58 (hora de Perú)
+Actualizado: 2026-11-01 08:54:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7360**  ($417,967,962 en total)
+- Apuestas registradas: **7361**  ($418,009,944 en total)
 - Resueltas: **7327** — 4448 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 685
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
 | Woaifacai | 36 | 12 | 0 | 75% | $3,469,088 | +$559,695 |
-| raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
+| raybanman | 17 | 14 | 1 | 55% | $3,455,244 | +$109,557 |
 | cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 16 | 12 | 0 | 57% | $3,078,507 | -$818,979 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Liverpool FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $41,983 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: SS Lazio (-1.5) | Cagliari Calcio | 1.64 (61¢) | $27,517 | — | ⏳ Pendiente |
 | ch27er | Will SS Lazio win on 2026-11-01? | Yes | 1.54 (65¢) | $50,000 | — | ⏳ Pendiente |
 | nb1985 | Will FC Utrecht win on 2026-11-01? | Yes | 2.00 (50¢) | $28,851 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Timberwolves vs. Spurs | Spurs | 1.20 (83¢) | $72,632 | +$14,876 | ✅ Ganada |
 | Woaifacai | 76ers vs. Hornets | Hornets | 1.67 (60¢) | $141,971 | -$141,971 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Hornets | 76ers | 2.50 (40¢) | $40,000 | +$60,000 | ✅ Ganada |
-| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | 76ers vs. Hornets | Hornets | 1.39 (72¢) | $28,649 | -$28,649 | ❌ Perdida |
