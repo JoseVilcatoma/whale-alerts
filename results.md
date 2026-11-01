@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 20:50:05 (hora de Perú)
+Actualizado: 2026-10-31 20:52:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7331**  ($415,806,840 en total)
+- Apuestas registradas: **7332**  ($415,839,292 en total)
 - Resueltas: **7248** — 4404 ganadas / 2844 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Pendientes: 62
 - Apostadores distintos: 685
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 62 | 30 | 0 | 67% | $5,437,546 | -$304,914 |
-| BrotherObama | 50 | 53 | 2 | 49% | $4,553,584 | -$106,735 |
+| BrotherObama | 50 | 53 | 3 | 49% | $4,586,036 | -$106,735 |
 | maz26 | 40 | 26 | 0 | 61% | $4,486,958 | +$538,942 |
 | Kch-Temp | 45 | 15 | 1 | 75% | $3,932,043 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Flames vs. Avalanche: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $32,452 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-8.5) | Thunder | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-8.5) | Rockets | 1.89 (53¢) | $26,401 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ohio State vs. USC | Ohio State | 2.86 (35¢) | $35,696 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hawks vs. Pelicans | Hawks | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
 | EdZachary | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | googleplay | 76ers vs. Hornets | Hornets | 2.08 (48¢) | $101,046 | -$101,046 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.56 (64¢) | $28,544 | -$28,544 | ❌ Perdida |
