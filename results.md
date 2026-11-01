@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 15:48:28 (hora de Perú)
+Actualizado: 2026-11-01 15:50:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7403**  ($420,594,999 en total)
+- Apuestas registradas: **7404**  ($420,649,847 en total)
 - Resueltas: **7345** — 4462 ganadas / 2883 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 685
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 121 | 66 | 1 | 65% | $9,163,505 | +$444,011 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| ferrariChampions2026 | 112 | 60 | 7 | 65% | $7,648,792 | +$244,772 |
+| ferrariChampions2026 | 112 | 60 | 8 | 65% | $7,703,641 | +$244,772 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Raiders vs. Jets | Raiders | 1.45 (69¢) | $54,849 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Raiders vs. Jets | Raiders | 1.54 (65¢) | $36,353 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Celtics vs. Magic | Celtics | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
 | ch27er | Spread: Celtics (-6.5) | Celtics | 1.89 (53¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.32 (76¢) | $348,453 | +$110,038 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Leylah Fernandez | 4.55 (22¢) | $57,020 | -$57,020 | ❌ Perdida |
 | Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.30 (77¢) | $399,321 | +$119,278 | ✅ Ganada |
-| TennisAce1 | Washington vs. Nebraska | Nebraska | 1.52 (66¢) | $26,775 | -$26,775 | ❌ Perdida |
