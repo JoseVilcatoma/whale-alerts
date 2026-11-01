@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 12:24:18 (hora de Perú)
+Actualizado: 2026-11-01 12:26:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7387**  ($419,840,153 en total)
-- Resueltas: **7332** — 4453 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Apuestas registradas: **7389**  ($419,904,146 en total)
+- Resueltas: **7333** — 4453 ganadas / 2880 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,341,483** sobre $416,753,922 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,315** sobre $722,900 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$4,370,334** sobre $416,782,773 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,415** sobre $723,000 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 62 | 30 | 0 | 67% | $5,437,546 | -$304,914 |
-| BrotherObama | 51 | 53 | 2 | 49% | $4,586,036 | -$74,283 |
+| BrotherObama | 51 | 53 | 3 | 49% | $4,623,036 | -$74,283 |
 | maz26 | 40 | 26 | 1 | 61% | $4,529,222 | +$538,942 |
 | Kch-Temp | 45 | 15 | 2 | 75% | $4,289,543 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Spread: Steelers (-3.5) | Steelers | 2.00 (50¢) | $26,993 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Steelers (-3.5) | Browns | 2.00 (50¢) | $37,000 | — | ⏳ Pendiente |
 | justwins | Spread: Steelers (-3.5) | Steelers | 1.96 (51¢) | $306,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Steelers | Steelers | 1.54 (65¢) | $103,445 | — | ⏳ Pendiente |
 | Kch-Temp | Browns vs. Steelers | Steelers | 1.54 (65¢) | $357,500 | — | ⏳ Pendiente |
@@ -100,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | raybanman | Liverpool FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $41,983 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: SS Lazio (-1.5) | Cagliari Calcio | 1.64 (61¢) | $27,517 | +$17,593 | ✅ Ganada |
 | ch27er | Will SS Lazio win on 2026-11-01? | Yes | 1.54 (65¢) | $50,000 | +$20,000 | 💰 Vendida antes |
-| nb1985 | Will FC Utrecht win on 2026-11-01? | Yes | 2.00 (50¢) | $28,851 | — | ⏳ Pendiente |
+| nb1985 | Will FC Utrecht win on 2026-11-01? | Yes | 2.00 (50¢) | $28,851 | -$28,851 | ❌ Perdida |
 | 999585 | Will Cagliari Calcio win on 2026-11-01? | No | 1.15 (87¢) | $31,193 | +$4,661 | ✅ Ganada |
 | ferrariChampions2026 | Patriots vs. Dolphins | Patriots | 1.32 (76¢) | $33,485 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Racing Club vs. Real Madrid CF end in a draw? | No | 1.14 (88¢) | $165,044 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | BrotherObama | Flames vs. Avalanche: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $32,452 | +$32,452 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-8.5) | Thunder | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
 | googleplay | Spread: Rockets (-8.5) | Rockets | 1.89 (53¢) | $26,401 | +$23,412 | ✅ Ganada |
-| TAIWANNUMBERONE | Ohio State vs. USC | Ohio State | 2.86 (35¢) | $35,696 | -$35,696 | ❌ Perdida |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Broncos | Broncos | 2.08 (48¢) | $29,907 | — | ⏳ Pendiente |

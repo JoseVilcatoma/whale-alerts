@@ -110591,7 +110591,7 @@
     "side": "BUY",
     "usd": 28851.1942,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793539196,
     "fills": 1
   },
@@ -111030,6 +111030,36 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1793553495,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14971,
+    "timestamp": 1793553944,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "nfl-cle-pit-2026-11-01-spread-home-3pt5",
+    "title": "Spread: Steelers (-3.5)",
+    "outcome": "Browns",
+    "side": "BUY",
+    "usd": 37000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793553944,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14972,
+    "timestamp": 1793553965,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nfl-cle-pit-2026-11-01-spread-home-3pt5",
+    "title": "Spread: Steelers (-3.5)",
+    "outcome": "Steelers",
+    "side": "BUY",
+    "usd": 26993.25,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793553965,
     "fills": 1
   }
 ]
