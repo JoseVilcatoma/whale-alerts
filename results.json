@@ -111536,10 +111536,25 @@
     "title": "Chiefs vs. Broncos",
     "outcome": "Chiefs",
     "side": "BUY",
-    "usd": 56479.392,
-    "odds_at_bet": 64,
+    "usd": 122779.39199999999,
+    "odds_at_bet": 65,
     "status": "pending",
-    "ultimo_fill": 1793569766,
+    "ultimo_fill": 1793569853,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 15035,
+    "timestamp": 1793569883,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nba-bos-orl-2026-11-01",
+    "title": "Celtics vs. Magic",
+    "outcome": "Celtics",
+    "side": "BUY",
+    "usd": 39000.0,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1793569883,
     "fills": 1
   }
 ]
