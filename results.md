@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 12:26:23 (hora de Perú)
+Actualizado: 2026-11-01 12:28:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7389**  ($419,904,146 en total)
+- Apuestas registradas: **7390**  ($419,988,696 en total)
 - Resueltas: **7333** — 4453 ganadas / 2880 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Titans vs. Bengals | Bengals | 1.12 (89¢) | $84,550 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Steelers (-3.5) | Steelers | 2.00 (50¢) | $26,993 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Steelers (-3.5) | Browns | 2.00 (50¢) | $37,000 | — | ⏳ Pendiente |
 | justwins | Spread: Steelers (-3.5) | Steelers | 1.96 (51¢) | $306,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | keeptheblueflagflyinghigh | Thunder vs. Rockets | Rockets | 1.11 (90¢) | $30,141 | +$3,349 | ✅ Ganada |
 | BrotherObama | Flames vs. Avalanche: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $32,452 | +$32,452 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-8.5) | Thunder | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
-| googleplay | Spread: Rockets (-8.5) | Rockets | 1.89 (53¢) | $26,401 | +$23,412 | ✅ Ganada |
