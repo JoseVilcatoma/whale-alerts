@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 12:18:06 (hora de Perú)
+Actualizado: 2026-11-01 12:20:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7386**  ($419,534,153 en total)
+- Apuestas registradas: **7387**  ($419,840,153 en total)
 - Resueltas: **7332** — 4453 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | Spread: Steelers (-3.5) | Steelers | 1.96 (51¢) | $306,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Steelers | Steelers | 1.54 (65¢) | $103,445 | — | ⏳ Pendiente |
 | Kch-Temp | Browns vs. Steelers | Steelers | 1.54 (65¢) | $357,500 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: DENDELE CS vs Imperial (BO5) - Gamers Club Masters Playoffs | Imperial | 2.38 (42¢) | $40,850 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | googleplay | Spread: Rockets (-8.5) | Rockets | 1.89 (53¢) | $26,401 | +$23,412 | ✅ Ganada |
 | TAIWANNUMBERONE | Ohio State vs. USC | Ohio State | 2.86 (35¢) | $35,696 | -$35,696 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Broncos | Broncos | 2.08 (48¢) | $29,907 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma State (-3.5) | Iowa State | 1.67 (60¢) | $27,000 | +$18,000 | ✅ Ganada |
