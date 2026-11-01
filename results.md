@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 17:39:01 (hora de Perú)
+Actualizado: 2026-11-01 17:41:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7430**  ($422,080,675 en total)
+- Apuestas registradas: **7431**  ($422,115,127 en total)
 - Resueltas: **7378** — 4485 ganadas / 2893 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 685
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 529 | 300 | 6 | 64% | $54,786,671 | +$369,185 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 529 | 300 | 7 | 64% | $54,821,122 | +$369,185 |
 | Sassy-Bucket | 101 | 104 | 5 | 49% | $13,500,144 | -$1,457,852 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | thetesterguy | Nashville SC vs. New York Red Bulls: O/U 3.5 | Over 3.5 | 1.12 (89¢) | $26,700 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Chiefs (-1.5) | Chiefs | 1.45 (69¢) | $34,452 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.37 (73¢) | $34,761 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.52 (66¢) | $32,039 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.79 (56¢) | $26,463 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | ferrariChampions2026 | Eintracht Frankfurt vs. Hamburger SV: O/U 3.5 | Under 3.5 | 1.85 (54¢) | $30,821 | -$30,821 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Flyers | Utah | 1.64 (61¢) | $39,522 | — | ⏳ Pendiente |
 | Matheobong | Juventus FC vs. SSC Napoli: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $25,484 | -$25,484 | ❌ Perdida |
-| MigRodr | Will Elche CF win on 2026-11-01? | No | 1.67 (60¢) | $85,638 | +$57,092 | ✅ Ganada |
