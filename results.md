@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 16:13:01 (hora de Perú)
+Actualizado: 2026-11-01 16:15:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7408**  ($420,819,499 en total)
+- Apuestas registradas: **7409**  ($420,959,270 en total)
 - Resueltas: **7347** — 4464 ganadas / 2883 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 685
 
 ### Balance
@@ -41,8 +41,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 62 | 30 | 1 | 67% | $5,464,378 | -$304,914 |
+| maz26 | 41 | 26 | 1 | 61% | $4,668,992 | +$584,728 |
 | BrotherObama | 51 | 53 | 3 | 49% | $4,623,036 | -$74,283 |
-| maz26 | 41 | 26 | 0 | 61% | $4,529,222 | +$584,728 |
 | Kch-Temp | 45 | 15 | 2 | 75% | $4,289,543 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Chargers vs. Rams | Rams | 1.45 (69¢) | $139,771 | — | ⏳ Pendiente |
 | ethanaz | Chargers vs. Rams: O/U 44.5 | Under 44.5 | 2.22 (45¢) | $26,832 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Titans vs. Bengals | Titans | 1.59 (63¢) | $27,984 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raiders vs. Jets | Raiders | 1.20 (83¢) | $83,830 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Woaifacai | Ningbo: Petr Bar Biryukov vs Yaroslav Demin | Yaroslav Demin | 1.41 (71¢) | $70,345 | +$28,733 | ✅ Ganada |
 | thetesterguy | FC Machida Zelvia vs. Gamba Ōsaka: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $69,666 | -$69,666 | ❌ Perdida |
 | ferrariChampions2026 | Titans vs. Bengals | Bengals | 1.15 (87¢) | $33,417 | — | ⏳ Pendiente |
-| Woaifacai | Taipei: Jake Delaney vs Kai-I Wang | Jake Delaney | 1.20 (83¢) | $56,660 | +$11,605 | ✅ Ganada |
