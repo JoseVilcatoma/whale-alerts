@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 21:27:11 (hora de Perú)
+Actualizado: 2026-10-31 21:29:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7337**  ($416,257,863 en total)
+- Apuestas registradas: **7339**  ($416,318,090 en total)
 - Resueltas: **7264** — 4412 ganadas / 2852 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 53
 - Apostadores distintos: 685
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 520 | 293 | 11 | 64% | $54,005,829 | +$515,568 |
-| Sassy-Bucket | 99 | 102 | 4 | 49% | $13,347,227 | -$1,401,987 |
+| Sassy-Bucket | 99 | 102 | 5 | 49% | $13,379,998 | -$1,401,987 |
 | googleplay | 51 | 45 | 6 | 53% | $11,833,428 | -$85,872 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 117 | 66 | 4 | 64% | $9,122,655 | +$376,737 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Tom Nolan | 2.22 (45¢) | $32,770 | — | ⏳ Pendiente |
+| Multicoloured-Serf | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $27,457 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Timberwolves vs. Spurs | Spurs | 1.15 (87¢) | $25,046 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Ohio State vs. USC | USC | 1.09 (92¢) | $44,665 | — | ⏳ Pendiente |
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 1.32 (76¢) | $276,458 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | zb8 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $32,572 | -$32,572 | ❌ Perdida |
 | Multicoloured-Serf | Thunder vs. Rockets | Thunder | 2.33 (43¢) | $27,325 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $35,905 | — | ⏳ Pendiente |
-| Sassy-Bucket | Thunder vs. Rockets | Thunder | 2.33 (43¢) | $92,054 | — | ⏳ Pendiente |
-| EdZachary | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $51,300 | — | ⏳ Pendiente |

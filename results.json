@@ -110279,5 +110279,35 @@
     "status": "pending",
     "ultimo_fill": 1793499499,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14850,
+    "timestamp": 1793500096,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "ufc-ren-tom14-2026-10-31",
+    "title": "UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card)",
+    "outcome": "Renato Moicano",
+    "side": "BUY",
+    "usd": 27456.9955,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1793500096,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14851,
+    "timestamp": 1793500107,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "ufc-ren-tom14-2026-10-31",
+    "title": "UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card)",
+    "outcome": "Tom Nolan",
+    "side": "BUY",
+    "usd": 32770.35,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1793500107,
+    "fills": 1
   }
 ]
