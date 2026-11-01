@@ -110669,5 +110669,20 @@
     "status": "pending",
     "ultimo_fill": 1793541509,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14941,
+    "timestamp": 1793544138,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "sea-fro-tor-2026-11-01-total-2pt5",
+    "title": "Frosinone Calcio vs. Torino FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 92934.43409999998,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1793544138,
+    "fills": 1
   }
 ]
