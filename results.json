@@ -110546,7 +110546,7 @@
     "side": "BUY",
     "usd": 165043.636267,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793533504,
     "fills": 1
   },
@@ -110638,7 +110638,7 @@
     "side": "BUY",
     "usd": 41982.6197,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793541154,
     "fills": 1
   },
@@ -110653,7 +110653,7 @@
     "side": "BUY",
     "usd": 114080.0,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793541254,
     "fills": 1
   },
@@ -110698,7 +110698,7 @@
     "side": "BUY",
     "usd": 46500.0,
     "odds_at_bet": 93,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793544755,
     "fills": 1
   },
@@ -110743,7 +110743,7 @@
     "side": "BUY",
     "usd": 25790.980000000003,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793546380,
     "fills": 1
   },
@@ -110773,7 +110773,7 @@
     "side": "BUY",
     "usd": 34970.47119973606,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793546302,
     "fills": 1
   },
@@ -110833,7 +110833,7 @@
     "side": "BUY",
     "usd": 30821.3856,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793548068,
     "fills": 1
   },
@@ -110878,7 +110878,7 @@
     "side": "BUY",
     "usd": 31333.333334000003,
     "odds_at_bet": 94,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793550326,
     "fills": 1
   },
@@ -110893,7 +110893,7 @@
     "side": "BUY",
     "usd": 128568.54609999999,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793550461,
     "fills": 1
   },
@@ -110923,7 +110923,7 @@
     "side": "BUY",
     "usd": 30586.157499999998,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793551063,
     "fills": 1
   },
@@ -111090,6 +111090,21 @@
     "odds_at_bet": 54,
     "status": "pending",
     "ultimo_fill": 1793554132,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14987,
+    "timestamp": 1793560749,
+    "username": "Jittz",
+    "wallet": "0xd47107e357c4688bffc76504541f5280760bedf8",
+    "slug": "nfl-ten-cin-2026-11-01",
+    "title": "Titans vs. Bengals",
+    "outcome": "Bengals",
+    "side": "BUY",
+    "usd": 26489.51,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1793560749,
     "fills": 1
   }
 ]
