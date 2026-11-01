@@ -110444,5 +110444,20 @@
     "status": "won",
     "ultimo_fill": 1793511444,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14919,
+    "timestamp": 1793514269,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "atp-delaney-kaiiwan-2026-11-01",
+    "title": "Taipei: Jake Delaney vs Kai-I Wang",
+    "outcome": "Jake Delaney",
+    "side": "BUY",
+    "usd": 56660.00810000001,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1793514269,
+    "fills": 1
   }
 ]

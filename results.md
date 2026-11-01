@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 01:23:06 (hora de Perú)
+Actualizado: 2026-11-01 01:25:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7348**  ($417,349,793 en total)
+- Apuestas registradas: **7349**  ($417,406,453 en total)
 - Resueltas: **7321** — 4445 ganadas / 2876 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 685
 
 ### Balance
@@ -47,8 +47,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
+| Woaifacai | 34 | 11 | 1 | 76% | $3,373,453 | +$544,647 |
 | cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
-| Woaifacai | 34 | 11 | 0 | 76% | $3,316,793 | +$544,647 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 16 | 12 | 0 | 57% | $3,078,507 | -$818,979 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Taipei: Jake Delaney vs Kai-I Wang | Jake Delaney | 1.20 (83¢) | $56,660 | — | ⏳ Pendiente |
 | Woaifacai | Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Elena Pridankina | Himeno Sakatsume | 1.30 (77¢) | $32,126 | +$9,596 | ✅ Ganada |
 | Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.32 (76¢) | $348,453 | +$110,038 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Leylah Fernandez | 4.55 (22¢) | $57,020 | -$57,020 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 999585 | Mississippi State vs. Texas | Texas | 1.06 (94¢) | $108,526 | +$6,927 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cavaliers vs. Bucks | Cavaliers | 1.33 (75¢) | $29,376 | +$9,792 | ✅ Ganada |
 | googleplay | Spread: Cavaliers (-9.5) | Bucks | 1.89 (53¢) | $31,383 | -$31,383 | ❌ Perdida |
-| Multicoloured-Serf | Spread: Cavaliers (-9.5) | Cavaliers | 2.13 (47¢) | $32,456 | +$36,599 | ✅ Ganada |
