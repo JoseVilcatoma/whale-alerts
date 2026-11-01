@@ -110804,5 +110804,20 @@
     "status": "pending",
     "ultimo_fill": 1793547304,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14950,
+    "timestamp": 1793547419,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "nhl-utah-phi-2026-11-01",
+    "title": "Utah vs. Flyers",
+    "outcome": "Utah",
+    "side": "BUY",
+    "usd": 39521.582800000004,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1793547419,
+    "fills": 1
   }
 ]
