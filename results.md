@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 19:18:45 (hora de Perú)
+Actualizado: 2026-10-31 19:20:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7310**  ($414,423,845 en total)
-- Resueltas: **7229** — 4394 ganadas / 2835 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Resueltas: **7231** — 4394 ganadas / 2837 perdidas (**61%** de acierto)
+- Pendientes: 57
 - Apostadores distintos: 684
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,743,233** sobre $409,662,790 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,396** sobre $712,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,255,182** sobre $410,174,739 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,596** sobre $712,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 516 | 291 | 12 | 64% | $53,449,486 | +$386,959 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 516 | 292 | 11 | 64% | $53,449,486 | +$358,414 |
 | Sassy-Bucket | 99 | 102 | 3 | 49% | $13,315,384 | -$1,401,987 |
 | googleplay | 51 | 38 | 11 | 57% | $11,763,359 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -109,8 +109,8 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hawks vs. Pelicans | Hawks | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
 | EdZachary | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | googleplay | 76ers vs. Hornets | Hornets | 2.08 (48¢) | $101,046 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.56 (64¢) | $28,544 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.54 (65¢) | $483,405 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.56 (64¢) | $28,544 | -$28,544 | ❌ Perdida |
+| Thunderous-Authoritarian-Snarl | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.54 (65¢) | $483,405 | -$483,405 | ❌ Perdida |
 | googleplay | Hawks vs. Pelicans | Hawks | 1.54 (65¢) | $80,796 | — | ⏳ Pendiente |
 | YEEES-but-why | Hawks vs. Pelicans | Pelicans | 2.86 (35¢) | $26,639 | — | ⏳ Pendiente |
 | yabanci | Spread: Hawks (-4.5) | Pelicans | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
