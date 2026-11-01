@@ -111316,5 +111316,20 @@
     "status": "pending",
     "ultimo_fill": 1793566547,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15004,
+    "timestamp": 1793567191,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "nfl-ten-cin-2026-11-01",
+    "title": "Titans vs. Bengals",
+    "outcome": "Titans",
+    "side": "BUY",
+    "usd": 27984.459999999995,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1793567191,
+    "fills": 1
   }
 ]

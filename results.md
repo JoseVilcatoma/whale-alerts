@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 16:04:49 (hora de Perú)
+Actualizado: 2026-11-01 16:06:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7406**  ($420,764,682 en total)
+- Apuestas registradas: **7407**  ($420,792,667 en total)
 - Resueltas: **7345** — 4462 ganadas / 2883 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Titans vs. Bengals | Titans | 1.59 (63¢) | $27,984 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raiders vs. Jets | Raiders | 1.20 (83¢) | $83,830 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Raiders vs. Jets | Raiders | 1.15 (87¢) | $31,005 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Raiders vs. Jets | Raiders | 1.45 (69¢) | $54,849 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | ferrariChampions2026 | Titans vs. Bengals | Bengals | 1.15 (87¢) | $33,417 | — | ⏳ Pendiente |
 | Woaifacai | Taipei: Jake Delaney vs Kai-I Wang | Jake Delaney | 1.20 (83¢) | $56,660 | +$11,605 | ✅ Ganada |
 | Woaifacai | Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Elena Pridankina | Himeno Sakatsume | 1.30 (77¢) | $32,126 | +$9,596 | ✅ Ganada |
-| Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.32 (76¢) | $348,453 | +$110,038 | ✅ Ganada |
