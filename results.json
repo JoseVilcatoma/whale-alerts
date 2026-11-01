@@ -111301,5 +111301,20 @@
     "status": "pending",
     "ultimo_fill": 1793566332,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15003,
+    "timestamp": 1793566547,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-lv-nyj-2026-11-01",
+    "title": "Raiders vs. Jets",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "usd": 83830.0,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1793566547,
+    "fills": 1
   }
 ]
