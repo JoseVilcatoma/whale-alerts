@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 22:12:44 (hora de Perú)
+Actualizado: 2026-10-31 22:14:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7343**  ($416,486,098 en total)
-- Resueltas: **7306** — 4435 ganadas / 2871 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Apuestas registradas: **7344**  ($416,512,873 en total)
+- Resueltas: **7308** — 4437 ganadas / 2871 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,547,674** sobre $414,782,827 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,140** sobre $720,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,522,647** sobre $415,074,365 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,124** sobre $720,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TennisAce1 | Washington vs. Nebraska | Nebraska | 1.52 (66¢) | $26,775 | — | ⏳ Pendiente |
 | Woaifacai | Taipei: Masamichi Imamura vs Luca Staeheli | Masamichi Imamura | 1.08 (93¢) | $43,844 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Oregon State (-6.5) | Oregon State | 2.00 (50¢) | $29,413 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Washington vs. Nebraska | Nebraska | 1.35 (74¢) | $36,017 | — | ⏳ Pendiente |
@@ -122,12 +123,11 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Talvez10 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $39,359 | -$39,359 | ❌ Perdida |
 | jakepaulthegoat2008 | Kings vs. Grizzlies | Grizzlies | 1.35 (74¢) | $68,680 | +$24,131 | ✅ Ganada |
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,000 | +$8,000 | ✅ Ganada |
-| 999585 | Mississippi State vs. Texas | Texas | 1.06 (94¢) | $108,526 | — | ⏳ Pendiente |
+| 999585 | Mississippi State vs. Texas | Texas | 1.06 (94¢) | $108,526 | +$6,927 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cavaliers vs. Bucks | Cavaliers | 1.33 (75¢) | $29,376 | +$9,792 | ✅ Ganada |
 | googleplay | Spread: Cavaliers (-9.5) | Bucks | 1.89 (53¢) | $31,383 | -$31,383 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Cavaliers (-9.5) | Cavaliers | 2.13 (47¢) | $32,456 | +$36,599 | ✅ Ganada |
-| 999585 | Mississippi State vs. Texas | Texas | 1.10 (91¢) | $183,012 | — | ⏳ Pendiente |
+| 999585 | Mississippi State vs. Texas | Texas | 1.10 (91¢) | $183,012 | +$18,100 | ✅ Ganada |
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,297 | +$8,057 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-4.5) | 76ers | 2.27 (44¢) | $42,932 | +$54,640 | ✅ Ganada |
 | Albihime217255 | 76ers vs. Hornets | 76ers | 1.59 (63¢) | $33,950 | +$19,939 | ✅ Ganada |
-| Albihime217255 | 76ers vs. Hornets | 76ers | 1.56 (64¢) | $71,894 | +$40,440 | ✅ Ganada |
