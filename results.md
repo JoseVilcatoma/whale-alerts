@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 21:33:23 (hora de Perú)
+Actualizado: 2026-10-31 21:35:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7340**  ($416,376,824 en total)
-- Resueltas: **7264** — 4412 ganadas / 2852 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Resueltas: **7265** — 4413 ganadas / 2852 perdidas (**61%** de acierto)
+- Pendientes: 53
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,669,870** sobre $412,082,694 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,838** sobre $716,200 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,660,078** sobre $412,112,070 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,805** sobre $716,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -120,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | jakepaulthegoat2008 | Kings vs. Grizzlies | Grizzlies | 1.35 (74¢) | $68,680 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
 | 999585 | Mississippi State vs. Texas | Texas | 1.06 (94¢) | $108,526 | — | ⏳ Pendiente |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cavaliers vs. Bucks | Cavaliers | 1.33 (75¢) | $29,376 | — | ⏳ Pendiente |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cavaliers vs. Bucks | Cavaliers | 1.33 (75¢) | $29,376 | +$9,792 | ✅ Ganada |
 | googleplay | Spread: Cavaliers (-9.5) | Bucks | 1.89 (53¢) | $31,383 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Cavaliers (-9.5) | Cavaliers | 2.13 (47¢) | $32,456 | — | ⏳ Pendiente |
 | 999585 | Mississippi State vs. Texas | Texas | 1.10 (91¢) | $183,012 | — | ⏳ Pendiente |
