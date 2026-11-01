@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 04:22:00 (hora de Perú)
+Actualizado: 2026-11-01 04:24:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7353**  ($417,605,173 en total)
-- Resueltas: **7324** — 4446 ganadas / 2878 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **7326** — 4447 ganadas / 2879 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,463,428** sobre $416,389,092 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,437** sobre $722,200 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$4,459,985** sobre $416,484,727 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,496** sobre $722,400 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 45 | 15 | 1 | 75% | $3,932,043 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
-| Woaifacai | 35 | 11 | 2 | 76% | $3,469,088 | +$556,252 |
+| Woaifacai | 36 | 12 | 0 | 75% | $3,469,088 | +$559,695 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,8 +71,8 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Woaifacai | Ningbo: Petr Bar Biryukov vs Yaroslav Demin | Petr Bar Biryukov | 1.89 (53¢) | $25,290 | — | ⏳ Pendiente |
-| Woaifacai | Ningbo: Petr Bar Biryukov vs Yaroslav Demin | Yaroslav Demin | 1.41 (71¢) | $70,345 | — | ⏳ Pendiente |
+| Woaifacai | Ningbo: Petr Bar Biryukov vs Yaroslav Demin | Petr Bar Biryukov | 1.89 (53¢) | $25,290 | -$25,290 | ❌ Perdida |
+| Woaifacai | Ningbo: Petr Bar Biryukov vs Yaroslav Demin | Yaroslav Demin | 1.41 (71¢) | $70,345 | +$28,733 | ✅ Ganada |
 | thetesterguy | FC Machida Zelvia vs. Gamba Ōsaka: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $69,666 | -$69,666 | ❌ Perdida |
 | ferrariChampions2026 | Titans vs. Bengals | Bengals | 1.15 (87¢) | $33,417 | — | ⏳ Pendiente |
 | Woaifacai | Taipei: Jake Delaney vs Kai-I Wang | Jake Delaney | 1.20 (83¢) | $56,660 | +$11,605 | ✅ Ganada |
