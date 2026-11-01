@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 11:18:04 (hora de Perú)
+Actualizado: 2026-11-01 11:20:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7376**  ($418,715,139 en total)
-- Resueltas: **7329** — 4450 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **7331** — 4452 ganadas / 2879 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,372,103** sobre $416,654,362 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,415** sobre $722,600 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$4,349,850** sobre $416,713,071 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,336** sobre $722,800 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,10 +87,10 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | ferrariChampions2026 | Celtics vs. Magic: O/U 222.5 | Under 222.5 | 1.96 (51¢) | $26,282 | — | ⏳ Pendiente |
 | yupiiiiiiiii | Liverpool FC vs. Arsenal FC: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $114,080 | — | ⏳ Pendiente |
 | raybanman | Liverpool FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $41,983 | — | ⏳ Pendiente |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: SS Lazio (-1.5) | Cagliari Calcio | 1.64 (61¢) | $27,517 | — | ⏳ Pendiente |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: SS Lazio (-1.5) | Cagliari Calcio | 1.64 (61¢) | $27,517 | +$17,593 | ✅ Ganada |
 | ch27er | Will SS Lazio win on 2026-11-01? | Yes | 1.54 (65¢) | $50,000 | +$20,000 | 💰 Vendida antes |
 | nb1985 | Will FC Utrecht win on 2026-11-01? | Yes | 2.00 (50¢) | $28,851 | — | ⏳ Pendiente |
-| 999585 | Will Cagliari Calcio win on 2026-11-01? | No | 1.15 (87¢) | $31,193 | — | ⏳ Pendiente |
+| 999585 | Will Cagliari Calcio win on 2026-11-01? | No | 1.15 (87¢) | $31,193 | +$4,661 | ✅ Ganada |
 | ferrariChampions2026 | Patriots vs. Dolphins | Patriots | 1.32 (76¢) | $33,485 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Racing Club vs. Real Madrid CF end in a draw? | No | 1.14 (88¢) | $165,044 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chennai Open, Qualification: Aliona Falei vs Rada Zolotareva | Aliona Falei | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
