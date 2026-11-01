@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 19:43:34 (hora de Perú)
+Actualizado: 2026-10-31 19:45:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7315**  ($414,662,408 en total)
+- Apuestas registradas: **7318**  ($414,959,555 en total)
 - Resueltas: **7236** — 4396 ganadas / 2840 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Pendientes: 60
 - Apostadores distintos: 684
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 517 | 292 | 10 | 64% | $53,449,486 | +$370,928 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 517 | 292 | 11 | 64% | $53,488,486 | +$370,928 |
 | Sassy-Bucket | 99 | 102 | 4 | 49% | $13,347,227 | -$1,401,987 |
 | googleplay | 51 | 38 | 12 | 57% | $11,807,027 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -55,8 +55,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 26 | 1 | 52% | $2,588,270 | +$59,717 |
+| Woaifacai | 28 | 10 | 3 | 74% | $2,493,049 | +$289,252 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| Woaifacai | 28 | 10 | 2 | 74% | $2,359,102 | +$289,252 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $124,200 | — | ⏳ Pendiente |
+| Woaifacai | Thunder vs. Rockets | Rockets | 1.64 (61¢) | $133,947 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Rockets | Thunder | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | yabanci | Thunder vs. Rockets: O/U 220.5 | Under 220.5 | 1.96 (51¢) | $32,520 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.15 (87¢) | $30,496 | — | ⏳ Pendiente |
 | Woaifacai | Thunder vs. Rockets | Rockets | 1.69 (59¢) | $100,036 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Hornets | 76ers | 1.89 (53¢) | $106,000 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Indiana | Minnesota | 3.23 (31¢) | $50,136 | -$50,136 | ❌ Perdida |
 | googleplay | Spread: Hawks (-4.5) | Hawks | 1.92 (52¢) | $25,282 | — | ⏳ Pendiente |
-| robustmst | Sioux Falls: Liam Draxl vs Sebastian Dominko | Liam Draxl | 1.96 (51¢) | $29,402 | +$28,249 | ✅ Ganada |
-| mooseborzoi | Hawks vs. Pelicans | Hawks | 1.59 (63¢) | $37,859 | — | ⏳ Pendiente |
-| PrimeOasis1987 | 76ers vs. Hornets | 76ers | 1.89 (53¢) | $38,207 | +$721 | 💰 Vendida antes |
