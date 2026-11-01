@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 19:22:54 (hora de Perú)
+Actualizado: 2026-10-31 19:24:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7310**  ($414,423,845 en total)
+- Apuestas registradas: **7311**  ($414,467,513 en total)
 - Resueltas: **7231** — 4394 ganadas / 2837 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Pendientes: 58
 - Apostadores distintos: 684
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 516 | 292 | 11 | 64% | $53,449,486 | +$358,414 |
 | Sassy-Bucket | 99 | 102 | 3 | 49% | $13,315,384 | -$1,401,987 |
-| googleplay | 51 | 38 | 11 | 57% | $11,763,359 | +$518,123 |
+| googleplay | 51 | 38 | 12 | 57% | $11,807,027 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 115 | 66 | 6 | 64% | $9,122,655 | +$235,134 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Thunder vs. Rockets | Rockets | 1.72 (58¢) | $43,668 | — | ⏳ Pendiente |
 | LlamaEnjoyer | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $32,594 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $25,707 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-2.5) | Rockets | 1.89 (53¢) | $125,768 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | jakepaulthegoat2008 | 76ers vs. Hornets | 76ers | 1.92 (52¢) | $52,779 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.56 (64¢) | $50,884 | +$28,622 | ✅ Ganada |
 | thegreatjeff | Will AC Milan win on 2026-10-31? | Yes | 1.28 (78¢) | $30,000 | +$8,462 | ✅ Ganada |
-| 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Will Aston Villa FC win on 2026-10-31? | Yes | 1.35 (74¢) | $30,543 | -$30,543 | ❌ Perdida |
