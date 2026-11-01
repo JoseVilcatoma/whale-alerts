@@ -110534,5 +110534,20 @@
     "status": "pending",
     "ultimo_fill": 1793533434,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14931,
+    "timestamp": 1793533504,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lal-rrc-rea-2026-11-01-draw",
+    "title": "Will Real Racing Club vs. Real Madrid CF end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 165043.636267,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1793533504,
+    "fills": 1
   }
 ]
