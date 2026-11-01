@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 20:33:25 (hora de Perú)
+Actualizado: 2026-10-31 20:35:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7325**  ($415,387,930 en total)
+- Apuestas registradas: **7328**  ($415,697,743 en total)
 - Resueltas: **7248** — 4404 ganadas / 2844 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 58
 - Apostadores distintos: 685
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 520 | 292 | 10 | 64% | $53,753,829 | +$579,568 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 520 | 292 | 11 | 64% | $53,958,829 | +$579,568 |
 | Sassy-Bucket | 99 | 102 | 4 | 49% | $13,347,227 | -$1,401,987 |
 | googleplay | 51 | 40 | 10 | 56% | $11,807,027 | +$176,813 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| ferrariChampions2026 | 111 | 58 | 1 | 66% | $7,291,012 | +$201,159 |
+| ferrariChampions2026 | 111 | 58 | 2 | 66% | $7,365,917 | +$201,159 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
@@ -71,7 +71,10 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Broncos | Broncos | 2.08 (48¢) | $29,907 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma State (-3.5) | Iowa State | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $74,905 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $205,000 | — | ⏳ Pendiente |
 | yabanci | Penguins vs. Canadiens | Canadiens | 1.12 (89¢) | $44,208 | — | ⏳ Pendiente |
 | 467j6yj | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $33,898 | — | ⏳ Pendiente |
 | ElonSpam | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $27,978 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Thunderous-Authoritarian-Snarl | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.54 (65¢) | $483,405 | -$483,405 | ❌ Perdida |
 | googleplay | Hawks vs. Pelicans | Hawks | 1.54 (65¢) | $80,796 | — | ⏳ Pendiente |
 | YEEES-but-why | Hawks vs. Pelicans | Pelicans | 2.86 (35¢) | $26,639 | — | ⏳ Pendiente |
-| yabanci | Spread: Hawks (-4.5) | Pelicans | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
-| googleplay | Hawks vs. Pelicans | Hawks | 1.54 (65¢) | $48,483 | — | ⏳ Pendiente |
-| googleplay | Spread: 76ers (-1.5) | Hornets | 1.92 (52¢) | $240,264 | -$240,264 | ❌ Perdida |

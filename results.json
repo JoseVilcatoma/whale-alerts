@@ -110099,5 +110099,50 @@
     "status": "pending",
     "ultimo_fill": 1793496733,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14822,
+    "timestamp": 1793496577,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-atl-gsv-2026-10-31",
+    "title": "Atlanta Dream vs. Golden State Valkyries",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "usd": 74905.42970000001,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1793496577,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14823,
+    "timestamp": 1793496574,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wnba-atl-gsv-2026-10-31",
+    "title": "Atlanta Dream vs. Golden State Valkyries",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "usd": 205000.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1793496574,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14824,
+    "timestamp": 1793496909,
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+    "slug": "nfl-kc-den-2026-11-01",
+    "title": "Chiefs vs. Broncos",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 29907.2928,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1793496909,
+    "fills": 1
   }
 ]
