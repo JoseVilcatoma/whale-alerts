@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 11:11:41 (hora de Perú)
+Actualizado: 2026-11-01 11:13:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7374**  ($418,635,875 en total)
+- Apuestas registradas: **7375**  ($418,678,139 en total)
 - Resueltas: **7328** — 4449 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 685
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 62 | 30 | 0 | 67% | $5,437,546 | -$304,914 |
 | BrotherObama | 51 | 53 | 2 | 49% | $4,586,036 | -$74,283 |
-| maz26 | 40 | 26 | 0 | 61% | $4,486,958 | +$538,942 |
+| maz26 | 40 | 26 | 1 | 61% | $4,529,222 | +$538,942 |
 | Kch-Temp | 45 | 15 | 1 | 75% | $3,932,043 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Titans vs. Bengals: O/U 46.5 | Over 46.5 | 2.08 (48¢) | $42,264 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Eintracht Frankfurt vs. Hamburger SV: O/U 3.5 | Under 3.5 | 1.85 (54¢) | $30,821 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Flyers | Utah | 1.64 (61¢) | $39,522 | — | ⏳ Pendiente |
 | Matheobong | Juventus FC vs. SSC Napoli: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $25,484 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | yabanci | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $124,200 | -$124,200 | ❌ Perdida |
 | Woaifacai | Thunder vs. Rockets | Rockets | 1.64 (61¢) | $133,947 | +$85,638 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Rockets | Thunder | 2.56 (39¢) | $39,000 | -$39,000 | ❌ Perdida |
-| yabanci | Thunder vs. Rockets: O/U 220.5 | Under 220.5 | 1.96 (51¢) | $32,520 | +$31,245 | ✅ Ganada |
