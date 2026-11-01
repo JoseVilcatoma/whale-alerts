@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 11:43:15 (hora de Perú)
+Actualizado: 2026-11-01 11:45:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7380**  ($418,940,370 en total)
+- Apuestas registradas: **7381**  ($418,967,253 en total)
 - Resueltas: **7332** — 4453 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 685
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 525 | 298 | 5 | 64% | $54,366,992 | +$443,127 |
-| Sassy-Bucket | 100 | 104 | 2 | 49% | $13,379,998 | -$1,485,831 |
+| Sassy-Bucket | 100 | 104 | 3 | 49% | $13,406,880 | -$1,485,831 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 121 | 66 | 0 | 65% | $9,122,655 | +$444,011 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Ravens vs. Bills: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $26,882 | — | ⏳ Pendiente |
 | Woaifacai | Liverpool FC vs. Arsenal FC: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $30,586 | — | ⏳ Pendiente |
 | EdZachary | Cardinals vs. Cowboys | Cardinals | 4.00 (25¢) | $34,744 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-01? | No | 1.69 (59¢) | $128,569 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | yabanci | Penguins vs. Canadiens | Canadiens | 1.12 (89¢) | $44,208 | +$5,464 | ✅ Ganada |
 | 467j6yj | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $33,898 | +$2,551 | ✅ Ganada |
 | ElonSpam | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $27,978 | +$2,106 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $26,947 | +$2,028 | ✅ Ganada |
