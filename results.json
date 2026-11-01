@@ -111646,5 +111646,20 @@
     "status": "pending",
     "ultimo_fill": 1793571600,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15057,
+    "timestamp": 1793571726,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-lac-la-2026-11-01",
+    "title": "Chargers vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 34761.4831,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1793571726,
+    "fills": 1
   }
 ]

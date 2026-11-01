@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 17:20:33 (hora de Perú)
+Actualizado: 2026-11-01 17:22:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7428**  ($422,019,214 en total)
+- Apuestas registradas: **7429**  ($422,053,975 en total)
 - Resueltas: **7376** — 4484 ganadas / 2892 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 685
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 529 | 299 | 7 | 64% | $54,786,671 | +$419,185 |
-| Sassy-Bucket | 101 | 104 | 4 | 49% | $13,465,382 | -$1,457,852 |
+| Sassy-Bucket | 101 | 104 | 5 | 49% | $13,500,144 | -$1,457,852 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 121 | 66 | 1 | 65% | $9,163,505 | +$444,011 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Chargers vs. Rams | Rams | 1.37 (73¢) | $34,761 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.52 (66¢) | $32,039 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.79 (56¢) | $26,463 | — | ⏳ Pendiente |
 | milkteaboba | Chiefs vs. Broncos | Broncos | 2.27 (44¢) | $106,828 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Matheobong | Juventus FC vs. SSC Napoli: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $25,484 | -$25,484 | ❌ Perdida |
 | MigRodr | Will Elche CF win on 2026-11-01? | No | 1.67 (60¢) | $85,638 | +$57,092 | ✅ Ganada |
 | ferrariChampions2026 | Cardinals vs. Cowboys | Cowboys | 1.33 (75¢) | $33,502 | -$33,502 | ❌ Perdida |
-| UpTheBlues | Will Liverpool FC win on 2026-11-01? | No | 1.49 (67¢) | $25,791 | +$12,703 | ✅ Ganada |
