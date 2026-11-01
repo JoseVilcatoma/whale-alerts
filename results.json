@@ -110911,5 +110911,20 @@
     "status": "pending",
     "ultimo_fill": 1793550499,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14962,
+    "timestamp": 1793551063,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "epl-liv-ars-2026-11-01-total-2pt5",
+    "title": "Liverpool FC vs. Arsenal FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 30586.157499999998,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1793551063,
+    "fills": 1
   }
 ]
