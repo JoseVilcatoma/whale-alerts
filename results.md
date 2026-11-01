@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 16:47:40 (hora de Perú)
+Actualizado: 2026-11-01 16:49:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7420**  ($421,478,012 en total)
-- Resueltas: **7360** — 4474 ganadas / 2886 perdidas (**61%** de acierto)
+- Apuestas registradas: **7421**  ($421,534,492 en total)
+- Resueltas: **7361** — 4474 ganadas / 2887 perdidas (**61%** de acierto)
 - Pendientes: 38
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,558,730** sobre $418,916,460 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,474** sobre $725,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,585,730** sobre $418,943,460 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,574** sobre $725,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Chiefs vs. Broncos | Chiefs | 1.56 (64¢) | $56,479 | — | ⏳ Pendiente |
 | RJW1 | Spread: Lakers (-2.5) | Lakers | 1.89 (53¢) | $25,492 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.27 (79¢) | $44,263 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Bengals | Bengals | 1.12 (89¢) | $74,843 | — | ⏳ Pendiente |
@@ -100,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | CUTJALENHURTS | Titans vs. Bengals | Bengals | 1.27 (79¢) | $26,125 | — | ⏳ Pendiente |
 | Jittz | Titans vs. Bengals | Bengals | 1.37 (73¢) | $26,490 | — | ⏳ Pendiente |
 | 999585 | Ravens vs. Bills | Bills | 1.15 (87¢) | $65,250 | — | ⏳ Pendiente |
-| sinasinner | Spread: Bills (-3.5) | Ravens | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
+| sinasinner | Spread: Bills (-3.5) | Ravens | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
 | 999585 | Titans vs. Bengals | Bengals | 1.12 (89¢) | $84,550 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Steelers (-3.5) | Steelers | 2.00 (50¢) | $26,993 | +$26,993 | ✅ Ganada |
 | BrotherObama | Spread: Steelers (-3.5) | Browns | 2.00 (50¢) | $37,000 | -$37,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Woaifacai | Frosinone Calcio vs. Torino FC: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $92,934 | +$64,582 | ✅ Ganada |
 | ferrariChampions2026 | Celtics vs. Magic: O/U 222.5 | Under 222.5 | 1.96 (51¢) | $26,282 | — | ⏳ Pendiente |
 | yupiiiiiiiii | Liverpool FC vs. Arsenal FC: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $114,080 | +$133,920 | ✅ Ganada |
-| raybanman | Liverpool FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $41,983 | -$41,983 | ❌ Perdida |
