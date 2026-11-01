@@ -111106,5 +111106,35 @@
     "status": "pending",
     "ultimo_fill": 1793560749,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14988,
+    "timestamp": 1793560353,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "nfl-bal-buf-2026-11-01",
+    "title": "Ravens vs. Bills",
+    "outcome": "Bills",
+    "side": "BUY",
+    "usd": 65250.0,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1793560353,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14989,
+    "timestamp": 1793561059,
+    "username": "CUTJALENHURTS",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "nfl-ten-cin-2026-11-01",
+    "title": "Titans vs. Bengals",
+    "outcome": "Bengals",
+    "side": "BUY",
+    "usd": 26124.8181,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1793561059,
+    "fills": 1
   }
 ]

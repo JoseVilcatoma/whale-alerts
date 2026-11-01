@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 14:22:22 (hora de Perú)
+Actualizado: 2026-11-01 14:24:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7392**  ($420,042,186 en total)
+- Apuestas registradas: **7394**  ($420,133,561 en total)
 - Resueltas: **7343** — 4460 ganadas / 2883 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 29
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CUTJALENHURTS | Titans vs. Bengals | Bengals | 1.27 (79¢) | $26,125 | — | ⏳ Pendiente |
 | Jittz | Titans vs. Bengals | Bengals | 1.37 (73¢) | $26,490 | — | ⏳ Pendiente |
+| 999585 | Ravens vs. Bills | Bills | 1.15 (87¢) | $65,250 | — | ⏳ Pendiente |
 | sinasinner | Spread: Bills (-3.5) | Ravens | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | 999585 | Titans vs. Bengals | Bengals | 1.12 (89¢) | $84,550 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Steelers (-3.5) | Steelers | 2.00 (50¢) | $26,993 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Timberwolves vs. Spurs | Spurs | 1.15 (87¢) | $25,046 | +$3,742 | ✅ Ganada |
 | Multicoloured-Serf | Ohio State vs. USC | USC | 1.09 (92¢) | $44,665 | +$3,884 | ✅ Ganada |
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 1.32 (76¢) | $276,458 | +$87,302 | ✅ Ganada |
-| Mastermoney | Texas State vs. Boise State: O/U 63.5 | Over 63.5 | 1.92 (52¢) | $42,262 | +$39,011 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Thunder vs. Rockets | Rockets | 1.11 (90¢) | $30,141 | +$3,349 | ✅ Ganada |
