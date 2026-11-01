@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 01:49:49 (hora de Perú)
+Actualizado: 2026-11-01 01:51:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7350**  ($417,439,871 en total)
-- Resueltas: **7321** — 4445 ganadas / 2876 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **7322** — 4445 ganadas / 2877 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,375,953** sobre $416,233,352 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,258** sobre $721,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,405,366** sobre $416,262,765 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,358** sobre $722,000 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.30 (77¢) | $399,321 | +$119,278 | ✅ Ganada |
 | TennisAce1 | Washington vs. Nebraska | Nebraska | 1.52 (66¢) | $26,775 | -$26,775 | ❌ Perdida |
 | Woaifacai | Taipei: Masamichi Imamura vs Luca Staeheli | Masamichi Imamura | 1.08 (93¢) | $43,844 | +$3,300 | ✅ Ganada |
-| mooseborzoi | Spread: Oregon State (-6.5) | Oregon State | 2.00 (50¢) | $29,413 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Oregon State (-6.5) | Oregon State | 2.00 (50¢) | $29,413 | -$29,413 | ❌ Perdida |
 | TAIWANNUMBERONE | Washington vs. Nebraska | Nebraska | 1.35 (74¢) | $36,017 | -$36,017 | ❌ Perdida |
 | yabanci | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $58,733 | -$58,733 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Tom Nolan | 2.22 (45¢) | $32,770 | +$40,053 | ✅ Ganada |
