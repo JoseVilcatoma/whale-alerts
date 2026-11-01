@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 20:14:50 (hora de Perú)
+Actualizado: 2026-10-31 20:16:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7324**  ($415,360,930 en total)
-- Resueltas: **7247** — 4403 ganadas / 2844 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Resueltas: **7248** — 4404 ganadas / 2844 perdidas (**61%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,427,635** sobre $411,373,175 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,455** sobre $714,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,414,221** sobre $411,407,670 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,416** sobre $714,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 40 | 26 | 0 | 61% | $4,486,958 | +$538,942 |
 | Kch-Temp | 45 | 15 | 1 | 75% | $3,932,043 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| surfandturf | 36 | 10 | 1 | 78% | $3,636,985 | +$499,568 |
+| surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
