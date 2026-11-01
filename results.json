@@ -111376,5 +111376,20 @@
     "status": "pending",
     "ultimo_fill": 1793567871,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15010,
+    "timestamp": 1793568059,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "nfl-lac-la-2026-11-01",
+    "title": "Chargers vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 34004.217500000006,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1793568059,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 16:19:09 (hora de Perú)
+Actualizado: 2026-11-01 16:21:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7410**  ($420,991,258 en total)
+- Apuestas registradas: **7411**  ($421,025,262 en total)
 - Resueltas: **7347** — 4464 ganadas / 2883 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 685
 
 ### Balance
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 45 | 15 | 2 | 75% | $4,289,543 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
-| Woaifacai | 38 | 12 | 0 | 76% | $3,592,609 | +$660,182 |
+| Woaifacai | 38 | 12 | 1 | 76% | $3,626,613 | +$660,182 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Chargers vs. Rams | Rams | 1.33 (75¢) | $34,004 | — | ⏳ Pendiente |
 | thetesterguy | Nashville SC vs. New York Red Bulls: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $31,988 | — | ⏳ Pendiente |
 | gmpm2 | Chargers vs. Rams | Rams | 1.45 (69¢) | $139,771 | — | ⏳ Pendiente |
 | ethanaz | Chargers vs. Rams: O/U 44.5 | Under 44.5 | 2.22 (45¢) | $26,832 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chennai Open, Qualification: Aliona Falei vs Rada Zolotareva | Aliona Falei | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
 | Woaifacai | Ningbo: Petr Bar Biryukov vs Yaroslav Demin | Petr Bar Biryukov | 1.89 (53¢) | $25,290 | -$25,290 | ❌ Perdida |
 | Woaifacai | Ningbo: Petr Bar Biryukov vs Yaroslav Demin | Yaroslav Demin | 1.41 (71¢) | $70,345 | +$28,733 | ✅ Ganada |
-| thetesterguy | FC Machida Zelvia vs. Gamba Ōsaka: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $69,666 | -$69,666 | ❌ Perdida |
