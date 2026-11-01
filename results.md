@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 12:01:39 (hora de Perú)
+Actualizado: 2026-11-01 12:03:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7384**  ($419,073,208 en total)
+- Apuestas registradas: **7385**  ($419,430,708 en total)
 - Resueltas: **7332** — 4453 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 685
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 62 | 30 | 0 | 67% | $5,437,546 | -$304,914 |
 | BrotherObama | 51 | 53 | 2 | 49% | $4,586,036 | -$74,283 |
 | maz26 | 40 | 26 | 1 | 61% | $4,529,222 | +$538,942 |
-| Kch-Temp | 45 | 15 | 1 | 75% | $3,932,043 | +$1,725,698 |
+| Kch-Temp | 45 | 15 | 2 | 75% | $4,289,543 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
 | Woaifacai | 37 | 12 | 1 | 76% | $3,592,609 | +$624,277 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Browns vs. Steelers | Steelers | 1.54 (65¢) | $357,500 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: DENDELE CS vs Imperial (BO5) - Gamers Club Masters Playoffs | Imperial | 2.38 (42¢) | $40,850 | — | ⏳ Pendiente |
 | SDTrading | Raiders vs. Jets | Jets | 1.85 (54¢) | $35,100 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Titans vs. Bengals: O/U 46.5 | Over 46.5 | 2.04 (49¢) | $30,005 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Broncos | Broncos | 2.08 (48¢) | $29,907 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma State (-3.5) | Iowa State | 1.67 (60¢) | $27,000 | +$18,000 | ✅ Ganada |
 | ferrariChampions2026 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $74,905 | +$107,791 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $205,000 | +$295,000 | ✅ Ganada |
