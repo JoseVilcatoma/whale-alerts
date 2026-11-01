@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 21:54:01 (hora de Perú)
+Actualizado: 2026-10-31 21:56:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7341**  ($416,412,841 en total)
-- Resueltas: **7278** — 4419 ganadas / 2859 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Resueltas: **7284** — 4422 ganadas / 2862 perdidas (**61%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,851,480** sobre $412,655,700 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,226** sobre $717,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,753,930** sobre $413,604,606 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,207** sobre $718,200 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 521 | 295 | 8 | 64% | $54,005,829 | +$442,803 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 522 | 296 | 6 | 64% | $54,005,829 | +$499,459 |
 | Sassy-Bucket | 99 | 102 | 5 | 49% | $13,379,998 | -$1,401,987 |
 | googleplay | 52 | 46 | 4 | 53% | $11,833,428 | -$85,324 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| ferrariChampions2026 | 111 | 58 | 2 | 66% | $7,365,917 | +$201,159 |
+| ferrariChampions2026 | 112 | 58 | 1 | 66% | $7,365,917 | +$308,950 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Multicoloured-Serf | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $27,457 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Timberwolves vs. Spurs | Spurs | 1.15 (87¢) | $25,046 | +$3,742 | ✅ Ganada |
 | Multicoloured-Serf | Ohio State vs. USC | USC | 1.09 (92¢) | $44,665 | — | ⏳ Pendiente |
-| CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 1.32 (76¢) | $276,458 | — | ⏳ Pendiente |
+| CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 1.32 (76¢) | $276,458 | +$87,302 | ✅ Ganada |
 | Mastermoney | Texas State vs. Boise State: O/U 63.5 | Over 63.5 | 1.92 (52¢) | $42,262 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Thunder vs. Rockets | Rockets | 1.11 (90¢) | $30,141 | — | ⏳ Pendiente |
 | BrotherObama | Flames vs. Avalanche: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $32,452 | — | ⏳ Pendiente |
@@ -86,15 +86,15 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | TAIWANNUMBERONE | Ohio State vs. USC | Ohio State | 2.86 (35¢) | $35,696 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Broncos | Broncos | 2.08 (48¢) | $29,907 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma State (-3.5) | Iowa State | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $74,905 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $205,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $74,905 | +$107,791 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $205,000 | +$295,000 | ✅ Ganada |
 | yabanci | Penguins vs. Canadiens | Canadiens | 1.12 (89¢) | $44,208 | +$5,464 | ✅ Ganada |
 | 467j6yj | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $33,898 | +$2,551 | ✅ Ganada |
 | ElonSpam | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $27,978 | +$2,106 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $26,947 | +$2,028 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $238,343 | — | ⏳ Pendiente |
-| CUTJALENHURTS | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
-| yabanci | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $124,200 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $238,343 | -$238,343 | ❌ Perdida |
+| CUTJALENHURTS | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
+| yabanci | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $124,200 | -$124,200 | ❌ Perdida |
 | Woaifacai | Thunder vs. Rockets | Rockets | 1.64 (61¢) | $133,947 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Rockets | Thunder | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | yabanci | Thunder vs. Rockets: O/U 220.5 | Under 220.5 | 1.96 (51¢) | $32,520 | — | ⏳ Pendiente |
