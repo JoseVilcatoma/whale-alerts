@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 07:19:29 (hora de Perú)
+Actualizado: 2026-11-01 07:21:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7355**  ($417,796,916 en total)
-- Resueltas: **7326** — 4447 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **7327** — 4448 ganadas / 2879 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,459,985** sobre $416,484,727 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,496** sobre $722,400 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$4,456,685** sobre $416,511,427 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,484** sobre $722,500 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 523 | 298 | 5 | 64% | $54,197,572 | +$431,459 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 524 | 298 | 4 | 64% | $54,197,572 | +$434,759 |
 | Sassy-Bucket | 100 | 104 | 2 | 49% | $13,379,998 | -$1,485,831 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Racing Club vs. Real Madrid CF end in a draw? | No | 1.14 (88¢) | $165,044 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chennai Open, Qualification: Aliona Falei vs Rada Zolotareva | Aliona Falei | 1.12 (89¢) | $26,700 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chennai Open, Qualification: Aliona Falei vs Rada Zolotareva | Aliona Falei | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
 | Woaifacai | Ningbo: Petr Bar Biryukov vs Yaroslav Demin | Petr Bar Biryukov | 1.89 (53¢) | $25,290 | -$25,290 | ❌ Perdida |
 | Woaifacai | Ningbo: Petr Bar Biryukov vs Yaroslav Demin | Yaroslav Demin | 1.41 (71¢) | $70,345 | +$28,733 | ✅ Ganada |
 | thetesterguy | FC Machida Zelvia vs. Gamba Ōsaka: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $69,666 | -$69,666 | ❌ Perdida |
