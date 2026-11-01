@@ -110339,5 +110339,20 @@
     "status": "pending",
     "ultimo_fill": 1793501149,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14875,
+    "timestamp": 1793501937,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "cfb-oregst-frest-2026-10-31-spread-away-6pt5",
+    "title": "Spread: Oregon State (-6.5)",
+    "outcome": "Oregon State",
+    "side": "BUY",
+    "usd": 29413.3639,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793501937,
+    "fills": 1
   }
 ]
