@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 17:22:36 (hora de Perú)
+Actualizado: 2026-11-01 17:24:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7429**  ($422,053,975 en total)
-- Resueltas: **7376** — 4484 ganadas / 2892 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **7378** — 4485 ganadas / 2893 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,596,781** sobre $419,570,778 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,609** sobre $727,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,591,305** sobre $419,676,254 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,609** sobre $727,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 529 | 299 | 7 | 64% | $54,786,671 | +$419,185 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 529 | 300 | 6 | 64% | $54,786,671 | +$369,185 |
 | Sassy-Bucket | 101 | 104 | 5 | 49% | $13,500,144 | -$1,457,852 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -102,9 +102,9 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | ch27er | Spread: Celtics (-6.5) | Celtics | 1.89 (53¢) | $25,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ravens vs. Bills | Bills | 1.14 (88¢) | $44,143 | +$6,019 | ✅ Ganada |
 | Multicoloured-Serf | Raiders vs. Jets | Jets | 1.52 (66¢) | $124,338 | -$124,338 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Athletic Club win on 2026-11-01? | No | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Athletic Club win on 2026-11-01? | No | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
 | ferrariChampions2026 | Raiders vs. Jets | Raiders | 2.86 (35¢) | $65,808 | +$122,215 | ✅ Ganada |
-| MigRodr | Will Athletic Club win on 2026-11-01? | Yes | 2.00 (50¢) | $55,475 | — | ⏳ Pendiente |
+| MigRodr | Will Athletic Club win on 2026-11-01? | Yes | 2.00 (50¢) | $55,475 | +$55,475 | ✅ Ganada |
 | TAIWANNUMBERONE | Titans vs. Bengals | Bengals | 1.19 (84¢) | $25,322 | +$4,823 | ✅ Ganada |
 | CUTJALENHURTS | Titans vs. Bengals | Bengals | 1.27 (79¢) | $26,125 | +$6,945 | ✅ Ganada |
 | Jittz | Titans vs. Bengals | Bengals | 1.37 (73¢) | $26,490 | +$9,797 | ✅ Ganada |
