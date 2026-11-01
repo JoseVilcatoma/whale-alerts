@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 14:42:50 (hora de Perú)
+Actualizado: 2026-11-01 14:44:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7396**  ($420,214,358 en total)
-- Resueltas: **7343** — 4460 ganadas / 2883 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **7345** — 4462 ganadas / 2883 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,306,475** sobre $417,432,450 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,247** sobre $724,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,224,716** sobre $417,555,088 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,114** sobre $724,200 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -91,12 +91,12 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | EdZachary | Cardinals vs. Cowboys | Cardinals | 4.00 (25¢) | $34,744 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-01? | No | 1.69 (59¢) | $128,569 | -$128,569 | ❌ Perdida |
 | thetesterguy | Liverpool FC vs. Arsenal FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $31,333 | +$2,000 | ✅ Ganada |
-| MigRodr | Will Elche CF win on 2026-11-01? | No | 1.67 (60¢) | $37,000 | — | ⏳ Pendiente |
+| MigRodr | Will Elche CF win on 2026-11-01? | No | 1.67 (60¢) | $37,000 | +$24,667 | ✅ Ganada |
 | gmpm2 | Titans vs. Bengals: O/U 46.5 | Over 46.5 | 2.08 (48¢) | $42,264 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Eintracht Frankfurt vs. Hamburger SV: O/U 3.5 | Under 3.5 | 1.85 (54¢) | $30,821 | -$30,821 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Flyers | Utah | 1.64 (61¢) | $39,522 | — | ⏳ Pendiente |
 | Matheobong | Juventus FC vs. SSC Napoli: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $25,484 | — | ⏳ Pendiente |
-| MigRodr | Will Elche CF win on 2026-11-01? | No | 1.67 (60¢) | $85,638 | — | ⏳ Pendiente |
+| MigRodr | Will Elche CF win on 2026-11-01? | No | 1.67 (60¢) | $85,638 | +$57,092 | ✅ Ganada |
 | ferrariChampions2026 | Cardinals vs. Cowboys | Cowboys | 1.33 (75¢) | $33,502 | — | ⏳ Pendiente |
 | UpTheBlues | Will Liverpool FC win on 2026-11-01? | No | 1.49 (67¢) | $25,791 | +$12,703 | ✅ Ganada |
 | 1l2ihj34li12u34 | Will Arsenal FC win on 2026-11-01? | Yes | 2.56 (39¢) | $34,970 | +$54,697 | ✅ Ganada |
