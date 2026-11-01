@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 10:52:35 (hora de Perú)
+Actualizado: 2026-11-01 10:54:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7374**  ($418,635,875 en total)
-- Resueltas: **7327** — 4448 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **7328** — 4449 ganadas / 2879 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,456,685** sobre $416,511,427 apostados (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,436,685** sobre $416,561,427 apostados (ROI **-1.1%**)
 - Copiando $100 fijo en cada una: **-$8,484** sobre $722,500 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | yupiiiiiiiii | Liverpool FC vs. Arsenal FC: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $114,080 | — | ⏳ Pendiente |
 | raybanman | Liverpool FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $41,983 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: SS Lazio (-1.5) | Cagliari Calcio | 1.64 (61¢) | $27,517 | — | ⏳ Pendiente |
-| ch27er | Will SS Lazio win on 2026-11-01? | Yes | 1.54 (65¢) | $50,000 | — | ⏳ Pendiente |
+| ch27er | Will SS Lazio win on 2026-11-01? | Yes | 1.54 (65¢) | $50,000 | +$20,000 | 💰 Vendida antes |
 | nb1985 | Will FC Utrecht win on 2026-11-01? | Yes | 2.00 (50¢) | $28,851 | — | ⏳ Pendiente |
 | 999585 | Will Cagliari Calcio win on 2026-11-01? | No | 1.15 (87¢) | $31,193 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Patriots vs. Dolphins | Patriots | 1.32 (76¢) | $33,485 | — | ⏳ Pendiente |
