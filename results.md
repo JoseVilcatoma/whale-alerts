@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 10:18:50 (hora de Perú)
+Actualizado: 2026-11-01 10:20:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7367**  ($418,360,146 en total)
+- Apuestas registradas: **7368**  ($418,385,937 en total)
 - Resueltas: **7327** — 4448 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| UpTheBlues | Will Liverpool FC win on 2026-11-01? | No | 1.49 (67¢) | $25,791 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Courmayeur: Noma Noha Akugue vs Alina Charaeva | Alina Charaeva | 1.20 (83¢) | $40,851 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cardinals vs. Cowboys | Cowboys | 1.33 (75¢) | $29,554 | — | ⏳ Pendiente |
 | 999585 | Will Real Racing Club win on 2026-11-01? | No | 1.08 (93¢) | $46,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | googleplay | Thunder vs. Rockets | Rockets | 1.72 (58¢) | $43,668 | +$31,622 | ✅ Ganada |
 | LlamaEnjoyer | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $32,594 | -$32,594 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $25,707 | -$25,707 | ❌ Perdida |
-| googleplay | Spread: Rockets (-2.5) | Rockets | 1.89 (53¢) | $125,768 | +$111,530 | ✅ Ganada |
