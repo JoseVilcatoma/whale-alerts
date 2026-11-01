@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 11:57:32 (hora de Perú)
+Actualizado: 2026-11-01 11:59:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7383**  ($419,032,357 en total)
+- Apuestas registradas: **7384**  ($419,073,208 en total)
 - Resueltas: **7332** — 4453 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 685
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 100 | 104 | 3 | 49% | $13,406,880 | -$1,485,831 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 121 | 66 | 0 | 65% | $9,122,655 | +$444,011 |
+| Lakersfan111 | 121 | 66 | 1 | 65% | $9,163,505 | +$444,011 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | ferrariChampions2026 | 112 | 59 | 7 | 65% | $7,582,984 | +$275,594 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Counter-Strike: DENDELE CS vs Imperial (BO5) - Gamers Club Masters Playoffs | Imperial | 2.38 (42¢) | $40,850 | — | ⏳ Pendiente |
 | SDTrading | Raiders vs. Jets | Jets | 1.85 (54¢) | $35,100 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Titans vs. Bengals: O/U 46.5 | Over 46.5 | 2.04 (49¢) | $30,005 | — | ⏳ Pendiente |
 | Sassy-Bucket | Ravens vs. Bills: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $26,882 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma State (-3.5) | Iowa State | 1.67 (60¢) | $27,000 | +$18,000 | ✅ Ganada |
 | ferrariChampions2026 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $74,905 | +$107,791 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $205,000 | +$295,000 | ✅ Ganada |
-| yabanci | Penguins vs. Canadiens | Canadiens | 1.12 (89¢) | $44,208 | +$5,464 | ✅ Ganada |
