@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 18:45:29 (hora de Perú)
+Actualizado: 2026-11-01 18:47:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7440**  ($422,662,512 en total)
+- Apuestas registradas: **7441**  ($422,711,391 en total)
 - Resueltas: **7383** — 4490 ganadas / 2893 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 685
 
 ### Balance
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| TAIWANNUMBERONE | 45 | 21 | 1 | 68% | $2,479,476 | -$229,166 |
+| TAIWANNUMBERONE | 45 | 21 | 2 | 68% | $2,528,355 | -$229,166 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Jittz | Patriots vs. Dolphins | Patriots | 1.18 (85¢) | $28,179 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Patriots vs. Dolphins | Patriots | 1.23 (81¢) | $48,879 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Patriots vs. Dolphins | Patriots | 1.23 (81¢) | $32,400 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chiefs vs. Broncos: O/U 52.5 | Under 52.5 | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
 | Jittz | Chiefs vs. Broncos | Chiefs | 1.61 (62¢) | $25,110 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | jakepaulthegoat2008 | Counter-Strike: DENDELE CS vs Imperial (BO5) - Gamers Club Masters Playoffs | Imperial | 2.38 (42¢) | $40,850 | — | ⏳ Pendiente |
 | SDTrading | Raiders vs. Jets | Jets | 1.85 (54¢) | $35,100 | -$35,100 | ❌ Perdida |
 | ferrariChampions2026 | Titans vs. Bengals: O/U 46.5 | Over 46.5 | 2.04 (49¢) | $30,005 | +$31,229 | ✅ Ganada |
-| Sassy-Bucket | Ravens vs. Bills: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $26,882 | +$27,980 | ✅ Ganada |
