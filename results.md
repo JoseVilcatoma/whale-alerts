@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 19:00:04 (hora de Perú)
+Actualizado: 2026-10-31 19:02:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7300**  ($413,785,938 en total)
+- Apuestas registradas: **7301**  ($413,814,587 en total)
 - Resueltas: **7228** — 4393 ganadas / 2835 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 684
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | 76ers vs. Hornets | Hornets | 1.39 (72¢) | $28,649 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $46,929 | — | ⏳ Pendiente |
 | yabanci | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
 | googleplay | Kings vs. Grizzlies: O/U 228.5 | Over 228.5 | 1.92 (52¢) | $34,592 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | Multicoloured-Serf | Will Aston Villa FC win on 2026-10-31? | No | 1.96 (51¢) | $48,666 | +$46,758 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: LOS vs LYON - Game 2 Winner | LOS | 2.44 (41¢) | $70,400 | -$70,400 | ❌ Perdida |
 | meoooow | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.64 (61¢) | $33,046 | +$21,128 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $68,097 | +$7,566 | ✅ Ganada |
