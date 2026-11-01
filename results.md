@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 08:45:45 (hora de Perú)
+Actualizado: 2026-11-01 08:47:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7358**  ($417,890,445 en total)
+- Apuestas registradas: **7359**  ($417,940,445 en total)
 - Resueltas: **7327** — 4448 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ch27er | Will SS Lazio win on 2026-11-01? | Yes | 1.54 (65¢) | $50,000 | — | ⏳ Pendiente |
 | nb1985 | Will FC Utrecht win on 2026-11-01? | Yes | 2.00 (50¢) | $28,851 | — | ⏳ Pendiente |
 | 999585 | Will Cagliari Calcio win on 2026-11-01? | No | 1.15 (87¢) | $31,193 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Patriots vs. Dolphins | Patriots | 1.32 (76¢) | $33,485 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Hornets | 76ers | 2.50 (40¢) | $40,000 | +$60,000 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | 76ers vs. Hornets | Hornets | 1.39 (72¢) | $28,649 | -$28,649 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $46,929 | -$46,929 | ❌ Perdida |
-| yabanci | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $50,290 | -$50,290 | ❌ Perdida |
