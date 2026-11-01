@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 16:43:36 (hora de Perú)
+Actualizado: 2026-11-01 16:45:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7419**  ($421,452,520 en total)
+- Apuestas registradas: **7420**  ($421,478,012 en total)
 - Resueltas: **7360** — 4474 ganadas / 2886 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Spread: Lakers (-2.5) | Lakers | 1.89 (53¢) | $25,492 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.27 (79¢) | $44,263 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Bengals | Bengals | 1.12 (89¢) | $74,843 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Titans vs. Bengals | Bengals | 1.14 (88¢) | $30,911 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | ferrariChampions2026 | Celtics vs. Magic: O/U 222.5 | Under 222.5 | 1.96 (51¢) | $26,282 | — | ⏳ Pendiente |
 | yupiiiiiiiii | Liverpool FC vs. Arsenal FC: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $114,080 | +$133,920 | ✅ Ganada |
 | raybanman | Liverpool FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $41,983 | -$41,983 | ❌ Perdida |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: SS Lazio (-1.5) | Cagliari Calcio | 1.64 (61¢) | $27,517 | +$17,593 | ✅ Ganada |
