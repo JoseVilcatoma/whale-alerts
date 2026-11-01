@@ -109091,7 +109091,7 @@
     "side": "BUY",
     "usd": 29401.61,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793482178,
     "fills": 1
   },
@@ -109813,6 +109813,21 @@
     "odds_at_bet": 48,
     "status": "pending",
     "ultimo_fill": 1793491898,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14783,
+    "timestamp": 1793492000,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nba-atl-nop-2026-10-31",
+    "title": "Hawks vs. Pelicans",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 43141.9219,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1793492000,
     "fills": 1
   }
 ]

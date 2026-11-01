@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 19:12:32 (hora de Perú)
+Actualizado: 2026-10-31 19:14:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7306**  ($414,196,634 en total)
-- Resueltas: **7228** — 4393 ganadas / 2835 perdidas (**61%** de acierto)
+- Apuestas registradas: **7307**  ($414,239,776 en total)
+- Resueltas: **7229** — 4394 ganadas / 2835 perdidas (**61%** de acierto)
 - Pendientes: 56
 - Apostadores distintos: 684
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,771,482** sobre $409,633,388 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,492** sobre $712,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,743,233** sobre $409,662,790 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,396** sobre $712,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.30 (77¢) | $43,142 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.08 (48¢) | $40,574 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-2.5) | Rockets | 1.92 (52¢) | $86,870 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Timberwolves vs. Spurs | Spurs | 1.20 (83¢) | $72,632 | — | ⏳ Pendiente |
@@ -119,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Hornets | 76ers | 1.89 (53¢) | $106,000 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Indiana | Minnesota | 3.23 (31¢) | $50,136 | -$50,136 | ❌ Perdida |
 | googleplay | Spread: Hawks (-4.5) | Hawks | 1.92 (52¢) | $25,282 | — | ⏳ Pendiente |
-| robustmst | Sioux Falls: Liam Draxl vs Sebastian Dominko | Liam Draxl | 1.96 (51¢) | $29,402 | — | ⏳ Pendiente |
+| robustmst | Sioux Falls: Liam Draxl vs Sebastian Dominko | Liam Draxl | 1.96 (51¢) | $29,402 | +$28,249 | ✅ Ganada |
 | mooseborzoi | Hawks vs. Pelicans | Hawks | 1.59 (63¢) | $37,859 | — | ⏳ Pendiente |
 | PrimeOasis1987 | 76ers vs. Hornets | 76ers | 1.89 (53¢) | $38,207 | +$721 | 💰 Vendida antes |
 | Mooseborzoiii | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-10-31? | Yes | 1.11 (90¢) | $45,000 | +$5,000 | ✅ Ganada |
 | ferrariChampions2026 | South Carolina vs. Oklahoma | Oklahoma | 1.67 (60¢) | $28,756 | — | ⏳ Pendiente |
 | 999585 | Arizona State vs. BYU | BYU | 1.06 (94¢) | $141,000 | +$9,000 | ✅ Ganada |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Aston Villa FC win on 2026-10-31? | Yes | 2.04 (49¢) | $46,479 | -$46,479 | ❌ Perdida |
