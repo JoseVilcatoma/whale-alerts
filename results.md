@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 18:11:48 (hora de Perú)
+Actualizado: 2026-11-01 18:13:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7437**  ($422,576,733 en total)
+- Apuestas registradas: **7438**  ($422,601,933 en total)
 - Resueltas: **7378** — 4485 ganadas / 2893 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 685
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | ferrariChampions2026 | 116 | 62 | 3 | 65% | $7,786,750 | +$364,796 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 1 | 52% | $7,598,560 | -$616,817 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chiefs vs. Broncos: O/U 52.5 | Under 52.5 | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
 | Jittz | Chiefs vs. Broncos | Chiefs | 1.61 (62¢) | $25,110 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.79 (56¢) | $122,202 | — | ⏳ Pendiente |
 | 999585 | Chargers vs. Rams | Rams | 1.16 (86¢) | $206,836 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Sassy-Bucket | Ravens vs. Bills: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $26,882 | +$27,980 | ✅ Ganada |
 | Woaifacai | Liverpool FC vs. Arsenal FC: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $30,586 | +$35,905 | ✅ Ganada |
 | EdZachary | Cardinals vs. Cowboys | Cardinals | 4.00 (25¢) | $34,744 | +$104,231 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-01? | No | 1.69 (59¢) | $128,569 | -$128,569 | ❌ Perdida |
