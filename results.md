@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 11:15:56 (hora de Perú)
+Actualizado: 2026-11-01 11:18:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7375**  ($418,678,139 en total)
-- Resueltas: **7328** — 4449 ganadas / 2879 perdidas (**61%** de acierto)
+- Apuestas registradas: **7376**  ($418,715,139 en total)
+- Resueltas: **7329** — 4450 ganadas / 2879 perdidas (**61%** de acierto)
 - Pendientes: 25
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,436,685** sobre $416,561,427 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,484** sobre $722,500 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$4,372,103** sobre $416,654,362 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,415** sobre $722,600 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 45 | 15 | 1 | 75% | $3,932,043 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
-| Woaifacai | 36 | 12 | 1 | 75% | $3,562,023 | +$559,695 |
+| Woaifacai | 37 | 12 | 0 | 76% | $3,562,023 | +$624,277 |
 | raybanman | 17 | 14 | 1 | 55% | $3,455,244 | +$109,557 |
 | cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MigRodr | Will Elche CF win on 2026-11-01? | No | 1.67 (60¢) | $37,000 | — | ⏳ Pendiente |
 | gmpm2 | Titans vs. Bengals: O/U 46.5 | Over 46.5 | 2.08 (48¢) | $42,264 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Eintracht Frankfurt vs. Hamburger SV: O/U 3.5 | Under 3.5 | 1.85 (54¢) | $30,821 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Flyers | Utah | 1.64 (61¢) | $39,522 | — | ⏳ Pendiente |
@@ -82,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Courmayeur: Noma Noha Akugue vs Alina Charaeva | Alina Charaeva | 1.20 (83¢) | $40,851 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cardinals vs. Cowboys | Cowboys | 1.33 (75¢) | $29,554 | — | ⏳ Pendiente |
 | 999585 | Will Real Racing Club win on 2026-11-01? | No | 1.08 (93¢) | $46,500 | — | ⏳ Pendiente |
-| Woaifacai | Frosinone Calcio vs. Torino FC: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $92,934 | — | ⏳ Pendiente |
+| Woaifacai | Frosinone Calcio vs. Torino FC: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $92,934 | +$64,582 | ✅ Ganada |
 | ferrariChampions2026 | Celtics vs. Magic: O/U 222.5 | Under 222.5 | 1.96 (51¢) | $26,282 | — | ⏳ Pendiente |
 | yupiiiiiiiii | Liverpool FC vs. Arsenal FC: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $114,080 | — | ⏳ Pendiente |
 | raybanman | Liverpool FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $41,983 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | CUTJALENHURTS | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | yabanci | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $124,200 | -$124,200 | ❌ Perdida |
 | Woaifacai | Thunder vs. Rockets | Rockets | 1.64 (61¢) | $133,947 | +$85,638 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Rockets | Thunder | 2.56 (39¢) | $39,000 | -$39,000 | ❌ Perdida |
