@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 19:10:29 (hora de Perú)
+Actualizado: 2026-10-31 19:12:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7305**  ($414,156,060 en total)
+- Apuestas registradas: **7306**  ($414,196,634 en total)
 - Resueltas: **7228** — 4393 ganadas / 2835 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 684
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CUTJALENHURTS | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.08 (48¢) | $40,574 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-2.5) | Rockets | 1.92 (52¢) | $86,870 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Timberwolves vs. Spurs | Spurs | 1.20 (83¢) | $72,632 | — | ⏳ Pendiente |
 | Woaifacai | 76ers vs. Hornets | Hornets | 1.67 (60¢) | $141,971 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | ferrariChampions2026 | South Carolina vs. Oklahoma | Oklahoma | 1.67 (60¢) | $28,756 | — | ⏳ Pendiente |
 | 999585 | Arizona State vs. BYU | BYU | 1.06 (94¢) | $141,000 | +$9,000 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Aston Villa FC win on 2026-10-31? | Yes | 2.04 (49¢) | $46,479 | -$46,479 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: LOS vs LYON - Game 2 Winner | LYON | 1.72 (58¢) | $63,092 | +$45,687 | ✅ Ganada |
