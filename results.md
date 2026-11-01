@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 21:06:36 (hora de Perú)
+Actualizado: 2026-10-31 21:08:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7334**  ($415,911,695 en total)
+- Apuestas registradas: **7335**  ($416,188,153 en total)
 - Resueltas: **7262** — 4411 ganadas / 2851 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 1.32 (76¢) | $276,458 | — | ⏳ Pendiente |
 | Mastermoney | Texas State vs. Boise State: O/U 63.5 | Over 63.5 | 1.92 (52¢) | $42,262 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Thunder vs. Rockets | Rockets | 1.11 (90¢) | $30,141 | — | ⏳ Pendiente |
 | BrotherObama | Flames vs. Avalanche: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $32,452 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | EdZachary | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $51,300 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Indiana | Indiana | 1.75 (57¢) | $39,585 | +$29,862 | ✅ Ganada |
 | Zzzz87 | Penguins vs. Canadiens | Penguins | 2.13 (47¢) | $26,881 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hawks vs. Pelicans | Hawks | 1.56 (64¢) | $64,000 | -$64,000 | ❌ Perdida |
