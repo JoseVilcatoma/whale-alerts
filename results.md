@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 19:37:22 (hora de Perú)
+Actualizado: 2026-10-31 19:39:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7314**  ($414,629,888 en total)
-- Resueltas: **7233** — 4395 ganadas / 2838 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Resueltas: **7236** — 4396 ganadas / 2840 perdidas (**61%** de acierto)
+- Pendientes: 56
 - Apostadores distintos: 684
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,271,425** sobre $410,287,239 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,681** sobre $713,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,289,084** sobre $410,462,330 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,737** sobre $713,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 99 | 102 | 4 | 49% | $13,347,227 | -$1,401,987 |
 | googleplay | 51 | 38 | 12 | 57% | $11,807,027 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 115 | 66 | 6 | 64% | $9,122,655 | +$235,134 |
+| Lakersfan111 | 116 | 66 | 5 | 64% | $9,122,655 | +$328,018 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
@@ -102,8 +102,8 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-4.5) | 76ers | 2.27 (44¢) | $42,932 | — | ⏳ Pendiente |
 | Albihime217255 | 76ers vs. Hornets | 76ers | 1.59 (63¢) | $33,950 | — | ⏳ Pendiente |
 | Albihime217255 | 76ers vs. Hornets | 76ers | 1.56 (64¢) | $71,894 | — | ⏳ Pendiente |
-| fhiwbijd | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Hanwha Life Esports | 2.94 (34¢) | $77,972 | — | ⏳ Pendiente |
-| zb8 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $32,572 | — | ⏳ Pendiente |
+| fhiwbijd | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Hanwha Life Esports | 2.94 (34¢) | $77,972 | -$77,972 | ❌ Perdida |
+| zb8 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $32,572 | -$32,572 | ❌ Perdida |
 | Multicoloured-Serf | Thunder vs. Rockets | Thunder | 2.33 (43¢) | $27,325 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $35,905 | — | ⏳ Pendiente |
 | Sassy-Bucket | Thunder vs. Rockets | Thunder | 2.33 (43¢) | $92,054 | — | ⏳ Pendiente |
