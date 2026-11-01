@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 16:41:33 (hora de Perú)
+Actualizado: 2026-11-01 16:43:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7418**  ($421,408,258 en total)
-- Resueltas: **7359** — 4473 ganadas / 2886 perdidas (**61%** de acierto)
+- Apuestas registradas: **7419**  ($421,452,520 en total)
+- Resueltas: **7360** — 4474 ganadas / 2886 perdidas (**61%** de acierto)
 - Pendientes: 37
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,586,709** sobre $418,889,578 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,578** sobre $725,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,558,730** sobre $418,916,460 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,474** sobre $725,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 528 | 299 | 7 | 64% | $54,757,890 | +$409,935 |
-| Sassy-Bucket | 100 | 104 | 3 | 49% | $13,406,880 | -$1,485,831 |
+| Sassy-Bucket | 101 | 104 | 2 | 49% | $13,406,880 | -$1,457,852 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 121 | 66 | 1 | 65% | $9,163,505 | +$444,011 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.27 (79¢) | $44,263 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Bengals | Bengals | 1.12 (89¢) | $74,843 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Titans vs. Bengals | Bengals | 1.14 (88¢) | $30,911 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Dolphins | Patriots | 1.32 (76¢) | $33,662 | — | ⏳ Pendiente |
@@ -108,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | jakepaulthegoat2008 | Counter-Strike: DENDELE CS vs Imperial (BO5) - Gamers Club Masters Playoffs | Imperial | 2.38 (42¢) | $40,850 | — | ⏳ Pendiente |
 | SDTrading | Raiders vs. Jets | Jets | 1.85 (54¢) | $35,100 | -$35,100 | ❌ Perdida |
 | ferrariChampions2026 | Titans vs. Bengals: O/U 46.5 | Over 46.5 | 2.04 (49¢) | $30,005 | +$31,229 | ✅ Ganada |
-| Sassy-Bucket | Ravens vs. Bills: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $26,882 | — | ⏳ Pendiente |
+| Sassy-Bucket | Ravens vs. Bills: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $26,882 | +$27,980 | ✅ Ganada |
 | Woaifacai | Liverpool FC vs. Arsenal FC: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $30,586 | +$35,905 | ✅ Ganada |
 | EdZachary | Cardinals vs. Cowboys | Cardinals | 4.00 (25¢) | $34,744 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-01? | No | 1.69 (59¢) | $128,569 | -$128,569 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | yupiiiiiiiii | Liverpool FC vs. Arsenal FC: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $114,080 | +$133,920 | ✅ Ganada |
 | raybanman | Liverpool FC vs. Arsenal FC: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $41,983 | -$41,983 | ❌ Perdida |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: SS Lazio (-1.5) | Cagliari Calcio | 1.64 (61¢) | $27,517 | +$17,593 | ✅ Ganada |
-| ch27er | Will SS Lazio win on 2026-11-01? | Yes | 1.54 (65¢) | $50,000 | +$20,000 | 💰 Vendida antes |

@@ -110938,7 +110938,7 @@
     "side": "BUY",
     "usd": 26882.38,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793551422,
     "fills": 1
   },
@@ -111495,6 +111495,21 @@
     "odds_at_bet": 89,
     "status": "pending",
     "ultimo_fill": 1793569182,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15030,
+    "timestamp": 1793569337,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nba-bos-orl-2026-11-01",
+    "title": "Celtics vs. Magic",
+    "outcome": "Celtics",
+    "side": "BUY",
+    "usd": 44262.5308,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1793569337,
     "fills": 1
   }
 ]
