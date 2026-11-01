@@ -110579,5 +110579,20 @@
     "status": "pending",
     "ultimo_fill": 1793539093,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14935,
+    "timestamp": 1793539196,
+    "username": "nb1985",
+    "wallet": "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7",
+    "slug": "ere-tel-utr-2026-11-01-utr",
+    "title": "Will FC Utrecht win on 2026-11-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 28851.1942,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793539196,
+    "fills": 1
   }
 ]
