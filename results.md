@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 18:22:58 (hora de Perú)
+Actualizado: 2026-11-01 18:24:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7438**  ($422,601,933 en total)
-- Resueltas: **7378** — 4485 ganadas / 2893 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Resueltas: **7383** — 4490 ganadas / 2893 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,591,305** sobre $419,676,254 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,609** sobre $727,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,506,118** sobre $419,845,799 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,327** sobre $728,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 121 | 66 | 1 | 65% | $9,163,505 | +$444,011 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| ferrariChampions2026 | 116 | 62 | 3 | 65% | $7,786,750 | +$364,796 |
+| ferrariChampions2026 | 117 | 62 | 2 | 65% | $7,786,750 | +$390,047 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 1 | 52% | $7,598,560 | -$616,817 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -87,10 +87,10 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.79 (56¢) | $102,202 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chiefs vs. Broncos | Broncos | 2.33 (43¢) | $83,109 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Rams | Chargers | 2.50 (40¢) | $28,780 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.28 (78¢) | $39,000 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.28 (78¢) | $39,000 | +$11,000 | ✅ Ganada |
 | 999585 | Chiefs vs. Broncos | Chiefs | 1.54 (65¢) | $122,779 | — | ⏳ Pendiente |
 | RJW1 | Spread: Lakers (-2.5) | Lakers | 1.89 (53¢) | $25,492 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.27 (79¢) | $44,263 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.27 (79¢) | $44,263 | +$11,766 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Bengals | Bengals | 1.12 (89¢) | $74,843 | +$9,250 | ✅ Ganada |
 | TAIWANNUMBERONE | Titans vs. Bengals | Bengals | 1.14 (88¢) | $30,911 | +$4,215 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Dolphins | Patriots | 1.32 (76¢) | $33,662 | — | ⏳ Pendiente |
@@ -107,8 +107,8 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | TAIWANNUMBERONE | Raiders vs. Jets | Raiders | 1.15 (87¢) | $31,005 | +$4,633 | ✅ Ganada |
 | ferrariChampions2026 | Raiders vs. Jets | Raiders | 1.45 (69¢) | $54,849 | +$24,642 | ✅ Ganada |
 | Multicoloured-Serf | Raiders vs. Jets | Raiders | 1.54 (65¢) | $36,353 | +$19,574 | ✅ Ganada |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Celtics vs. Magic | Celtics | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
-| ch27er | Spread: Celtics (-6.5) | Celtics | 1.89 (53¢) | $25,000 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Celtics vs. Magic | Celtics | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
+| ch27er | Spread: Celtics (-6.5) | Celtics | 1.89 (53¢) | $25,000 | +$22,170 | ✅ Ganada |
 | TAIWANNUMBERONE | Ravens vs. Bills | Bills | 1.14 (88¢) | $44,143 | +$6,019 | ✅ Ganada |
 | Multicoloured-Serf | Raiders vs. Jets | Jets | 1.52 (66¢) | $124,338 | -$124,338 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Athletic Club win on 2026-11-01? | No | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
