@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 01:35:25 (hora de Perú)
+Actualizado: 2026-11-01 01:37:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7349**  ($417,406,453 en total)
+- Apuestas registradas: **7350**  ($417,439,871 en total)
 - Resueltas: **7321** — 4445 ganadas / 2876 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 685
 
 ### Balance
@@ -32,8 +32,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
+| ferrariChampions2026 | 112 | 59 | 1 | 65% | $7,399,335 | +$275,594 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| ferrariChampions2026 | 112 | 59 | 0 | 65% | $7,365,917 | +$275,594 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Titans vs. Bengals | Bengals | 1.15 (87¢) | $33,417 | — | ⏳ Pendiente |
 | Woaifacai | Taipei: Jake Delaney vs Kai-I Wang | Jake Delaney | 1.20 (83¢) | $56,660 | — | ⏳ Pendiente |
 | Woaifacai | Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Elena Pridankina | Himeno Sakatsume | 1.30 (77¢) | $32,126 | +$9,596 | ✅ Ganada |
 | Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.32 (76¢) | $348,453 | +$110,038 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,000 | +$8,000 | ✅ Ganada |
 | 999585 | Mississippi State vs. Texas | Texas | 1.06 (94¢) | $108,526 | +$6,927 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cavaliers vs. Bucks | Cavaliers | 1.33 (75¢) | $29,376 | +$9,792 | ✅ Ganada |
-| googleplay | Spread: Cavaliers (-9.5) | Bucks | 1.89 (53¢) | $31,383 | -$31,383 | ❌ Perdida |
