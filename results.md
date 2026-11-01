@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 10:20:56 (hora de Perú)
+Actualizado: 2026-11-01 10:23:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7368**  ($418,385,937 en total)
+- Apuestas registradas: **7369**  ($418,419,439 en total)
 - Resueltas: **7327** — 4448 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 685
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
-| ferrariChampions2026 | 112 | 59 | 4 | 65% | $7,488,656 | +$275,594 |
+| ferrariChampions2026 | 112 | 59 | 5 | 65% | $7,522,158 | +$275,594 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cardinals vs. Cowboys | Cowboys | 1.33 (75¢) | $33,502 | — | ⏳ Pendiente |
 | UpTheBlues | Will Liverpool FC win on 2026-11-01? | No | 1.49 (67¢) | $25,791 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Courmayeur: Noma Noha Akugue vs Alina Charaeva | Alina Charaeva | 1.20 (83¢) | $40,851 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cardinals vs. Cowboys | Cowboys | 1.33 (75¢) | $29,554 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Sassy-Bucket | Thunder vs. Rockets | Thunder | 2.38 (42¢) | $31,843 | -$31,843 | ❌ Perdida |
 | googleplay | Thunder vs. Rockets | Rockets | 1.72 (58¢) | $43,668 | +$31,622 | ✅ Ganada |
 | LlamaEnjoyer | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $32,594 | -$32,594 | ❌ Perdida |
-| Multicoloured-Serf | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $25,707 | -$25,707 | ❌ Perdida |
