@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 21:49:51 (hora de Perú)
+Actualizado: 2026-10-31 21:51:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7341**  ($416,412,841 en total)
-- Resueltas: **7274** — 4418 ganadas / 2856 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Resueltas: **7278** — 4419 ganadas / 2859 perdidas (**61%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,745,618** sobre $412,483,315 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,019** sobre $717,200 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,851,480** sobre $412,655,700 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,226** sobre $717,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 521 | 294 | 9 | 64% | $54,005,829 | +$489,732 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 521 | 295 | 8 | 64% | $54,005,829 | +$442,803 |
 | Sassy-Bucket | 99 | 102 | 5 | 49% | $13,379,998 | -$1,401,987 |
-| googleplay | 51 | 46 | 5 | 53% | $11,833,428 | -$117,255 |
+| googleplay | 52 | 46 | 4 | 53% | $11,833,428 | -$85,324 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 119 | 66 | 2 | 64% | $9,122,655 | +$392,794 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -106,15 +106,15 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Multicoloured-Serf | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $25,707 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-2.5) | Rockets | 1.89 (53¢) | $125,768 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.30 (77¢) | $43,142 | +$12,887 | ✅ Ganada |
-| CUTJALENHURTS | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.08 (48¢) | $40,574 | — | ⏳ Pendiente |
+| CUTJALENHURTS | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.08 (48¢) | $40,574 | -$40,574 | ❌ Perdida |
 | googleplay | Spread: Rockets (-2.5) | Rockets | 1.92 (52¢) | $86,870 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Timberwolves vs. Spurs | Spurs | 1.20 (83¢) | $72,632 | +$14,876 | ✅ Ganada |
 | Woaifacai | 76ers vs. Hornets | Hornets | 1.67 (60¢) | $141,971 | -$141,971 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Hornets | 76ers | 2.50 (40¢) | $40,000 | +$60,000 | ✅ Ganada |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | 76ers vs. Hornets | Hornets | 1.39 (72¢) | $28,649 | -$28,649 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $46,929 | — | ⏳ Pendiente |
-| yabanci | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
-| googleplay | Kings vs. Grizzlies: O/U 228.5 | Over 228.5 | 1.92 (52¢) | $34,592 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $46,929 | -$46,929 | ❌ Perdida |
+| yabanci | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $50,290 | -$50,290 | ❌ Perdida |
+| googleplay | Kings vs. Grizzlies: O/U 228.5 | Over 228.5 | 1.92 (52¢) | $34,592 | +$31,931 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $40,713 | -$40,713 | ❌ Perdida |
 | jizzbucket57 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $45,360 | -$45,360 | ❌ Perdida |
 | Talvez10 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $39,359 | -$39,359 | ❌ Perdida |
