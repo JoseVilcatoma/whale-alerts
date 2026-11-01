@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 19:58:16 (hora de Perú)
+Actualizado: 2026-10-31 20:00:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7323**  ($415,316,722 en total)
-- Resueltas: **7246** — 4402 ganadas / 2844 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Resueltas: **7247** — 4403 ganadas / 2844 perdidas (**61%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,482,276** sobre $411,330,243 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,583** sobre $714,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,427,635** sobre $411,373,175 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,455** sobre $714,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 519 | 292 | 10 | 64% | $53,726,829 | +$524,928 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 520 | 292 | 9 | 64% | $53,726,829 | +$579,568 |
 | Sassy-Bucket | 99 | 102 | 4 | 49% | $13,347,227 | -$1,401,987 |
 | googleplay | 51 | 40 | 10 | 56% | $11,807,027 | +$176,813 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Multicoloured-Serf | Spread: Cavaliers (-9.5) | Cavaliers | 2.13 (47¢) | $32,456 | — | ⏳ Pendiente |
 | 999585 | Mississippi State vs. Texas | Texas | 1.10 (91¢) | $183,012 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,297 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-4.5) | 76ers | 2.27 (44¢) | $42,932 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-4.5) | 76ers | 2.27 (44¢) | $42,932 | +$54,640 | ✅ Ganada |
 | Albihime217255 | 76ers vs. Hornets | 76ers | 1.59 (63¢) | $33,950 | +$19,939 | ✅ Ganada |
 | Albihime217255 | 76ers vs. Hornets | 76ers | 1.56 (64¢) | $71,894 | +$40,440 | ✅ Ganada |
 | fhiwbijd | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Hanwha Life Esports | 2.94 (34¢) | $77,972 | -$77,972 | ❌ Perdida |
