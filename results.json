@@ -110414,5 +110414,20 @@
     "status": "pending",
     "ultimo_fill": 1793504136,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14910,
+    "timestamp": 1793505204,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "wta-fernand-shnaide-2026-10-31",
+    "title": "Pan Pacific Open: Leylah Fernandez vs Diana Shnaider",
+    "outcome": "Diana Shnaider",
+    "side": "BUY",
+    "usd": 348452.7435,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1793505209,
+    "fills": 3
   }
 ]
