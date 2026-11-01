@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 10:16:44 (hora de Perú)
+Actualizado: 2026-11-01 10:18:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7366**  ($418,319,295 en total)
+- Apuestas registradas: **7367**  ($418,360,146 en total)
 - Resueltas: **7327** — 4448 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 685
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 524 | 298 | 4 | 64% | $54,197,572 | +$434,759 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 524 | 298 | 5 | 64% | $54,238,423 | +$434,759 |
 | Sassy-Bucket | 100 | 104 | 2 | 49% | $13,379,998 | -$1,485,831 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Courmayeur: Noma Noha Akugue vs Alina Charaeva | Alina Charaeva | 1.20 (83¢) | $40,851 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cardinals vs. Cowboys | Cowboys | 1.33 (75¢) | $29,554 | — | ⏳ Pendiente |
 | 999585 | Will Real Racing Club win on 2026-11-01? | No | 1.08 (93¢) | $46,500 | — | ⏳ Pendiente |
 | Woaifacai | Frosinone Calcio vs. Torino FC: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $92,934 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | LlamaEnjoyer | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $32,594 | -$32,594 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $25,707 | -$25,707 | ❌ Perdida |
 | googleplay | Spread: Rockets (-2.5) | Rockets | 1.89 (53¢) | $125,768 | +$111,530 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.30 (77¢) | $43,142 | +$12,887 | ✅ Ganada |
