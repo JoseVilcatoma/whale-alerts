@@ -111136,5 +111136,35 @@
     "status": "pending",
     "ultimo_fill": 1793561059,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14990,
+    "timestamp": 1793561574,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-ten-cin-2026-11-01",
+    "title": "Titans vs. Bengals",
+    "outcome": "Bengals",
+    "side": "BUY",
+    "usd": 25321.539599999996,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1793561574,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14991,
+    "timestamp": 1793561603,
+    "username": "MigRodr",
+    "wallet": "0x9a933a2a83188b28efaf1d07d45228ea6ee82793",
+    "slug": "lal-bil-rso-2026-11-01-bil",
+    "title": "Will Athletic Club win on 2026-11-01?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 55475.34999999999,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793561603,
+    "fills": 1
   }
 ]

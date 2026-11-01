@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 14:32:36 (hora de Perú)
+Actualizado: 2026-11-01 14:34:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7394**  ($420,133,561 en total)
+- Apuestas registradas: **7396**  ($420,214,358 en total)
 - Resueltas: **7343** — 4460 ganadas / 2883 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 31
 - Apostadores distintos: 685
 
 ### Balance
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
+| TAIWANNUMBERONE | 41 | 21 | 1 | 66% | $2,341,537 | -$248,857 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
-| TAIWANNUMBERONE | 41 | 21 | 0 | 66% | $2,316,216 | -$248,857 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
 | juice-fruit | 25 | 15 | 0 | 62% | $2,306,116 | +$316,802 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MigRodr | Will Athletic Club win on 2026-11-01? | Yes | 2.00 (50¢) | $55,475 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Titans vs. Bengals | Bengals | 1.19 (84¢) | $25,322 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Titans vs. Bengals | Bengals | 1.27 (79¢) | $26,125 | — | ⏳ Pendiente |
 | Jittz | Titans vs. Bengals | Bengals | 1.37 (73¢) | $26,490 | — | ⏳ Pendiente |
 | 999585 | Ravens vs. Bills | Bills | 1.15 (87¢) | $65,250 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Sassy-Bucket | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Tom Nolan | 2.22 (45¢) | $32,770 | +$40,053 | ✅ Ganada |
 | Multicoloured-Serf | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $27,457 | -$27,457 | ❌ Perdida |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Timberwolves vs. Spurs | Spurs | 1.15 (87¢) | $25,046 | +$3,742 | ✅ Ganada |
-| Multicoloured-Serf | Ohio State vs. USC | USC | 1.09 (92¢) | $44,665 | +$3,884 | ✅ Ganada |
-| CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 1.32 (76¢) | $276,458 | +$87,302 | ✅ Ganada |
