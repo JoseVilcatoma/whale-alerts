@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 19:35:18 (hora de Perú)
+Actualizado: 2026-10-31 19:37:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7312**  ($414,499,356 en total)
+- Apuestas registradas: **7314**  ($414,629,888 en total)
 - Resueltas: **7233** — 4395 ganadas / 2838 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Pendientes: 59
 - Apostadores distintos: 684
 
 ### Balance
@@ -56,12 +56,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 26 | 1 | 52% | $2,588,270 | +$59,717 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
+| Woaifacai | 28 | 10 | 2 | 74% | $2,359,102 | +$289,252 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
 | juice-fruit | 25 | 15 | 0 | 62% | $2,306,116 | +$316,802 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| Woaifacai | 28 | 10 | 1 | 74% | $2,259,066 | +$289,252 |
 | TAIWANNUMBERONE | 41 | 19 | 0 | 68% | $2,244,502 | -$177,143 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.15 (87¢) | $30,496 | — | ⏳ Pendiente |
+| Woaifacai | Thunder vs. Rockets | Rockets | 1.69 (59¢) | $100,036 | — | ⏳ Pendiente |
 | Sassy-Bucket | Thunder vs. Rockets | Thunder | 2.38 (42¢) | $31,843 | — | ⏳ Pendiente |
 | googleplay | Thunder vs. Rockets | Rockets | 1.72 (58¢) | $43,668 | — | ⏳ Pendiente |
 | LlamaEnjoyer | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $32,594 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | mooseborzoi | Hawks vs. Pelicans | Hawks | 1.59 (63¢) | $37,859 | — | ⏳ Pendiente |
 | PrimeOasis1987 | 76ers vs. Hornets | 76ers | 1.89 (53¢) | $38,207 | +$721 | 💰 Vendida antes |
 | Mooseborzoiii | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
-| jakepaulthegoat2008 | 76ers vs. Hornets | 76ers | 1.92 (52¢) | $52,779 | — | ⏳ Pendiente |
-| vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.56 (64¢) | $50,884 | +$28,622 | ✅ Ganada |

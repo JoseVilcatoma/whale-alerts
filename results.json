@@ -109904,5 +109904,35 @@
     "status": "pending",
     "ultimo_fill": 1793492927,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14794,
+    "timestamp": 1793493330,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "nba-okc-hou-2026-10-31",
+    "title": "Thunder vs. Rockets",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 100036.118,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1793493338,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 14795,
+    "timestamp": 1793493357,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nba-atl-nop-2026-10-31",
+    "title": "Hawks vs. Pelicans",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 30495.605399999997,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1793493357,
+    "fills": 1
   }
 ]
