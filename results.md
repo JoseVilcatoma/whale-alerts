@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 08:16:56 (hora de Perú)
+Actualizado: 2026-11-01 08:18:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7356**  ($417,830,401 en total)
+- Apuestas registradas: **7357**  ($417,861,594 en total)
 - Resueltas: **7327** — 4448 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Will Cagliari Calcio win on 2026-11-01? | No | 1.15 (87¢) | $31,193 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Patriots vs. Dolphins | Patriots | 1.32 (76¢) | $33,485 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Racing Club vs. Real Madrid CF end in a draw? | No | 1.14 (88¢) | $165,044 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chennai Open, Qualification: Aliona Falei vs Rada Zolotareva | Aliona Falei | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $46,929 | -$46,929 | ❌ Perdida |
 | yabanci | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $50,290 | -$50,290 | ❌ Perdida |
 | googleplay | Kings vs. Grizzlies: O/U 228.5 | Over 228.5 | 1.92 (52¢) | $34,592 | +$31,931 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $40,713 | -$40,713 | ❌ Perdida |
