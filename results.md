@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 22:06:30 (hora de Perú)
+Actualizado: 2026-10-31 22:08:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7342**  ($416,442,254 en total)
-- Resueltas: **7290** — 4426 ganadas / 2864 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **7303** — 4434 ganadas / 2869 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,565,139** sobre $413,976,745 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,095** sobre $718,800 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,501,536** sobre $414,663,866 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,063** sobre $720,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 522 | 296 | 6 | 64% | $54,005,829 | +$499,459 |
-| Sassy-Bucket | 99 | 102 | 5 | 49% | $13,379,998 | -$1,401,987 |
-| googleplay | 54 | 46 | 2 | 54% | $11,833,428 | +$106,394 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 522 | 298 | 4 | 64% | $54,005,829 | +$413,459 |
+| Sassy-Bucket | 99 | 104 | 3 | 49% | $13,379,998 | -$1,525,884 |
+| googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 120 | 66 | 1 | 65% | $9,122,655 | +$416,924 |
+| Lakersfan111 | 121 | 66 | 0 | 65% | $9,122,655 | +$444,011 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| Woaifacai | 28 | 11 | 2 | 72% | $2,493,049 | +$147,281 |
+| Woaifacai | 30 | 11 | 0 | 73% | $2,493,049 | +$302,436 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | TAIWANNUMBERONE | 41 | 19 | 2 | 68% | $2,316,216 | -$177,143 |
@@ -80,10 +80,10 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Multicoloured-Serf | Ohio State vs. USC | USC | 1.09 (92¢) | $44,665 | — | ⏳ Pendiente |
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 1.32 (76¢) | $276,458 | +$87,302 | ✅ Ganada |
 | Mastermoney | Texas State vs. Boise State: O/U 63.5 | Over 63.5 | 1.92 (52¢) | $42,262 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Thunder vs. Rockets | Rockets | 1.11 (90¢) | $30,141 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Thunder vs. Rockets | Rockets | 1.11 (90¢) | $30,141 | +$3,349 | ✅ Ganada |
 | BrotherObama | Flames vs. Avalanche: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $32,452 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-8.5) | Thunder | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
-| googleplay | Spread: Rockets (-8.5) | Rockets | 1.89 (53¢) | $26,401 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-8.5) | Thunder | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
+| googleplay | Spread: Rockets (-8.5) | Rockets | 1.89 (53¢) | $26,401 | +$23,412 | ✅ Ganada |
 | TAIWANNUMBERONE | Ohio State vs. USC | Ohio State | 2.86 (35¢) | $35,696 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Broncos | Broncos | 2.08 (48¢) | $29,907 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma State (-3.5) | Iowa State | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
@@ -96,13 +96,13 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $238,343 | -$238,343 | ❌ Perdida |
 | CUTJALENHURTS | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | yabanci | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $124,200 | -$124,200 | ❌ Perdida |
-| Woaifacai | Thunder vs. Rockets | Rockets | 1.64 (61¢) | $133,947 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Rockets | Thunder | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
+| Woaifacai | Thunder vs. Rockets | Rockets | 1.64 (61¢) | $133,947 | +$85,638 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Rockets | Thunder | 2.56 (39¢) | $39,000 | -$39,000 | ❌ Perdida |
 | yabanci | Thunder vs. Rockets: O/U 220.5 | Under 220.5 | 1.96 (51¢) | $32,520 | +$31,245 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.15 (87¢) | $30,496 | +$4,557 | ✅ Ganada |
-| Woaifacai | Thunder vs. Rockets | Rockets | 1.69 (59¢) | $100,036 | — | ⏳ Pendiente |
-| Sassy-Bucket | Thunder vs. Rockets | Thunder | 2.38 (42¢) | $31,843 | — | ⏳ Pendiente |
-| googleplay | Thunder vs. Rockets | Rockets | 1.72 (58¢) | $43,668 | — | ⏳ Pendiente |
+| Woaifacai | Thunder vs. Rockets | Rockets | 1.69 (59¢) | $100,036 | +$69,517 | ✅ Ganada |
+| Sassy-Bucket | Thunder vs. Rockets | Thunder | 2.38 (42¢) | $31,843 | -$31,843 | ❌ Perdida |
+| googleplay | Thunder vs. Rockets | Rockets | 1.72 (58¢) | $43,668 | +$31,622 | ✅ Ganada |
 | LlamaEnjoyer | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $32,594 | -$32,594 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $25,707 | -$25,707 | ❌ Perdida |
 | googleplay | Spread: Rockets (-2.5) | Rockets | 1.89 (53¢) | $125,768 | +$111,530 | ✅ Ganada |
