@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 17:01:58 (hora de Perú)
+Actualizado: 2026-11-01 17:03:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7422**  ($421,639,792 en total)
-- Resueltas: **7362** — 4474 ganadas / 2888 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Apuestas registradas: **7423**  ($421,668,572 en total)
+- Resueltas: **7364** — 4476 ganadas / 2888 perdidas (**61%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,611,214** sobre $418,968,944 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,674** sobre $725,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,595,444** sobre $419,078,337 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,645** sobre $726,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 528 | 299 | 7 | 64% | $54,757,890 | +$409,935 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 528 | 299 | 8 | 64% | $54,786,671 | +$409,935 |
 | Sassy-Bucket | 101 | 104 | 2 | 49% | $13,406,880 | -$1,457,852 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| TAIWANNUMBERONE | 42 | 21 | 3 | 67% | $2,447,596 | -$244,224 |
+| TAIWANNUMBERONE | 43 | 21 | 2 | 67% | $2,447,596 | -$238,204 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Rams | Chargers | 2.50 (40¢) | $28,780 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.28 (78¢) | $39,000 | — | ⏳ Pendiente |
 | 999585 | Chiefs vs. Broncos | Chiefs | 1.54 (65¢) | $122,779 | — | ⏳ Pendiente |
 | RJW1 | Spread: Lakers (-2.5) | Lakers | 1.89 (53¢) | $25,492 | — | ⏳ Pendiente |
@@ -93,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Multicoloured-Serf | Raiders vs. Jets | Raiders | 1.54 (65¢) | $36,353 | +$19,574 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Celtics vs. Magic | Celtics | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
 | ch27er | Spread: Celtics (-6.5) | Celtics | 1.89 (53¢) | $25,000 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Ravens vs. Bills | Bills | 1.14 (88¢) | $44,143 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Ravens vs. Bills | Bills | 1.14 (88¢) | $44,143 | +$6,019 | ✅ Ganada |
 | Multicoloured-Serf | Raiders vs. Jets | Jets | 1.52 (66¢) | $124,338 | -$124,338 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Athletic Club win on 2026-11-01? | No | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Raiders vs. Jets | Raiders | 2.86 (35¢) | $65,808 | +$122,215 | ✅ Ganada |
@@ -101,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | TAIWANNUMBERONE | Titans vs. Bengals | Bengals | 1.19 (84¢) | $25,322 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Titans vs. Bengals | Bengals | 1.27 (79¢) | $26,125 | — | ⏳ Pendiente |
 | Jittz | Titans vs. Bengals | Bengals | 1.37 (73¢) | $26,490 | — | ⏳ Pendiente |
-| 999585 | Ravens vs. Bills | Bills | 1.15 (87¢) | $65,250 | — | ⏳ Pendiente |
+| 999585 | Ravens vs. Bills | Bills | 1.15 (87¢) | $65,250 | +$9,750 | ✅ Ganada |
 | sinasinner | Spread: Bills (-3.5) | Ravens | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
 | 999585 | Titans vs. Bengals | Bengals | 1.12 (89¢) | $84,550 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Steelers (-3.5) | Steelers | 2.00 (50¢) | $26,993 | +$26,993 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | ferrariChampions2026 | Cardinals vs. Cowboys | Cowboys | 1.33 (75¢) | $29,554 | — | ⏳ Pendiente |
 | 999585 | Will Real Racing Club win on 2026-11-01? | No | 1.08 (93¢) | $46,500 | +$3,500 | ✅ Ganada |
 | Woaifacai | Frosinone Calcio vs. Torino FC: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $92,934 | +$64,582 | ✅ Ganada |
-| ferrariChampions2026 | Celtics vs. Magic: O/U 222.5 | Under 222.5 | 1.96 (51¢) | $26,282 | — | ⏳ Pendiente |

@@ -111118,7 +111118,7 @@
     "side": "BUY",
     "usd": 65250.0,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793560353,
     "fills": 1
   },
@@ -111223,7 +111223,7 @@
     "side": "BUY",
     "usd": 44142.5688,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793563497,
     "fills": 1
   },
@@ -111555,6 +111555,21 @@
     "odds_at_bet": 78,
     "status": "pending",
     "ultimo_fill": 1793569883,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15037,
+    "timestamp": 1793570586,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-lac-la-2026-11-01",
+    "title": "Chargers vs. Rams",
+    "outcome": "Chargers",
+    "side": "BUY",
+    "usd": 28780.384000000005,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1793570586,
     "fills": 1
   }
 ]
