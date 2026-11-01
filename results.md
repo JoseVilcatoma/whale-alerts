@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 22:23:03 (hora de Perú)
+Actualizado: 2026-10-31 22:25:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7344**  ($416,512,873 en total)
-- Resueltas: **7309** — 4437 ganadas / 2872 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **7310** — 4438 ganadas / 2872 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,556,003** sobre $415,107,721 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,224** sobre $720,700 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,538,003** sobre $415,134,721 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,158** sobre $720,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 522 | 298 | 4 | 64% | $54,005,829 | +$413,459 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 523 | 298 | 3 | 64% | $54,005,829 | +$431,459 |
 | Sassy-Bucket | 100 | 104 | 2 | 49% | $13,379,998 | -$1,485,831 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | googleplay | Spread: Rockets (-8.5) | Rockets | 1.89 (53¢) | $26,401 | +$23,412 | ✅ Ganada |
 | TAIWANNUMBERONE | Ohio State vs. USC | Ohio State | 2.86 (35¢) | $35,696 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Broncos | Broncos | 2.08 (48¢) | $29,907 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma State (-3.5) | Iowa State | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma State (-3.5) | Iowa State | 1.67 (60¢) | $27,000 | +$18,000 | ✅ Ganada |
 | ferrariChampions2026 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $74,905 | +$107,791 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $205,000 | +$295,000 | ✅ Ganada |
 | yabanci | Penguins vs. Canadiens | Canadiens | 1.12 (89¢) | $44,208 | +$5,464 | ✅ Ganada |
