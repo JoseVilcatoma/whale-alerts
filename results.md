@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 22:02:23 (hora de Perú)
+Actualizado: 2026-10-31 22:04:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7342**  ($416,442,254 en total)
-- Resueltas: **7285** — 4423 ganadas / 2862 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **7289** — 4425 ganadas / 2864 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,729,799** sobre $413,673,286 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,172** sobre $718,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,596,383** sobre $413,944,226 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,191** sobre $718,700 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 522 | 296 | 6 | 64% | $54,005,829 | +$499,459 |
 | Sassy-Bucket | 99 | 102 | 5 | 49% | $13,379,998 | -$1,401,987 |
-| googleplay | 52 | 46 | 4 | 53% | $11,833,428 | -$85,324 |
+| googleplay | 54 | 46 | 2 | 54% | $11,833,428 | +$106,394 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 120 | 66 | 1 | 65% | $9,122,655 | +$416,924 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -103,12 +103,12 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Woaifacai | Thunder vs. Rockets | Rockets | 1.69 (59¢) | $100,036 | — | ⏳ Pendiente |
 | Sassy-Bucket | Thunder vs. Rockets | Thunder | 2.38 (42¢) | $31,843 | — | ⏳ Pendiente |
 | googleplay | Thunder vs. Rockets | Rockets | 1.72 (58¢) | $43,668 | — | ⏳ Pendiente |
-| LlamaEnjoyer | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $32,594 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $25,707 | — | ⏳ Pendiente |
-| googleplay | Spread: Rockets (-2.5) | Rockets | 1.89 (53¢) | $125,768 | — | ⏳ Pendiente |
+| LlamaEnjoyer | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $32,594 | -$32,594 | ❌ Perdida |
+| Multicoloured-Serf | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $25,707 | -$25,707 | ❌ Perdida |
+| googleplay | Spread: Rockets (-2.5) | Rockets | 1.89 (53¢) | $125,768 | +$111,530 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.30 (77¢) | $43,142 | +$12,887 | ✅ Ganada |
 | CUTJALENHURTS | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.08 (48¢) | $40,574 | -$40,574 | ❌ Perdida |
-| googleplay | Spread: Rockets (-2.5) | Rockets | 1.92 (52¢) | $86,870 | — | ⏳ Pendiente |
+| googleplay | Spread: Rockets (-2.5) | Rockets | 1.92 (52¢) | $86,870 | +$80,188 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Timberwolves vs. Spurs | Spurs | 1.20 (83¢) | $72,632 | +$14,876 | ✅ Ganada |
 | Woaifacai | 76ers vs. Hornets | Hornets | 1.67 (60¢) | $141,971 | -$141,971 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Hornets | 76ers | 2.50 (40¢) | $40,000 | +$60,000 | ✅ Ganada |
