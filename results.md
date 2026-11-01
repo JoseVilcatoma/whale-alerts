@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 14:53:08 (hora de Perú)
+Actualizado: 2026-11-01 14:55:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7397**  ($420,280,166 en total)
+- Apuestas registradas: **7398**  ($420,330,166 en total)
 - Resueltas: **7345** — 4462 ganadas / 2883 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 685
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 526 | 299 | 4 | 64% | $54,470,437 | +$337,064 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 526 | 299 | 5 | 64% | $54,520,437 | +$337,064 |
 | Sassy-Bucket | 100 | 104 | 3 | 49% | $13,406,880 | -$1,485,831 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Athletic Club win on 2026-11-01? | No | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Raiders vs. Jets | Raiders | 2.86 (35¢) | $65,808 | — | ⏳ Pendiente |
 | MigRodr | Will Athletic Club win on 2026-11-01? | Yes | 2.00 (50¢) | $55,475 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Titans vs. Bengals | Bengals | 1.19 (84¢) | $25,322 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | TAIWANNUMBERONE | Washington vs. Nebraska | Nebraska | 1.35 (74¢) | $36,017 | -$36,017 | ❌ Perdida |
 | yabanci | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $58,733 | -$58,733 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Tom Nolan | 2.22 (45¢) | $32,770 | +$40,053 | ✅ Ganada |
-| Multicoloured-Serf | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $27,457 | -$27,457 | ❌ Perdida |
