@@ -110713,7 +110713,7 @@
     "side": "BUY",
     "usd": 29554.179999,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793545865,
     "fills": 1
   },
@@ -110758,7 +110758,7 @@
     "side": "BUY",
     "usd": 33502.299999,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793546518,
     "fills": 1
   },
@@ -110908,7 +110908,7 @@
     "side": "BUY",
     "usd": 34743.5775,
     "odds_at_bet": 25,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793550499,
     "fills": 1
   },
@@ -111571,5 +111571,50 @@
     "status": "pending",
     "ultimo_fill": 1793570586,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15040,
+    "timestamp": 1793570789,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-kc-den-2026-11-01",
+    "title": "Chiefs vs. Broncos",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 83109.1659,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1793570789,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15041,
+    "timestamp": 1793570822,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nfl-kc-den-2026-11-01",
+    "title": "Chiefs vs. Broncos",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 102201.99920000002,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1793570822,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15042,
+    "timestamp": 1793570833,
+    "username": "milkteaboba",
+    "wallet": "0xf4c95b636c71243531dfc82a97565a94c106f88c",
+    "slug": "nfl-kc-den-2026-11-01",
+    "title": "Chiefs vs. Broncos",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 106828.3524,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1793570873,
+    "fills": 2
   }
 ]

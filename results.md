@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 17:06:00 (hora de Perú)
+Actualizado: 2026-11-01 17:08:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7423**  ($421,668,572 en total)
-- Resueltas: **7364** — 4476 ganadas / 2888 perdidas (**61%** de acierto)
+- Apuestas registradas: **7426**  ($421,960,712 en total)
+- Resueltas: **7367** — 4477 ganadas / 2890 perdidas (**61%** de acierto)
 - Pendientes: 37
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,595,444** sobre $419,078,337 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,645** sobre $726,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$3,554,270** sobre $419,176,137 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,545** sobre $726,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 121 | 66 | 1 | 65% | $9,163,505 | +$444,011 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| ferrariChampions2026 | 115 | 60 | 5 | 66% | $7,703,641 | +$422,859 |
+| ferrariChampions2026 | 115 | 62 | 4 | 65% | $7,786,750 | +$359,803 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| milkteaboba | 16 | 12 | 0 | 57% | $3,078,507 | -$818,979 |
+| milkteaboba | 16 | 12 | 1 | 57% | $3,185,336 | -$818,979 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | ndb1 | 29 | 15 | 0 | 66% | $2,603,192 | +$441,923 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Chiefs vs. Broncos | Broncos | 2.27 (44¢) | $106,828 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.79 (56¢) | $102,202 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Chiefs vs. Broncos | Broncos | 2.33 (43¢) | $83,109 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Rams | Chargers | 2.50 (40¢) | $28,780 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.28 (78¢) | $39,000 | — | ⏳ Pendiente |
 | 999585 | Chiefs vs. Broncos | Chiefs | 1.54 (65¢) | $122,779 | — | ⏳ Pendiente |
@@ -115,7 +118,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | ferrariChampions2026 | Titans vs. Bengals: O/U 46.5 | Over 46.5 | 2.04 (49¢) | $30,005 | +$31,229 | ✅ Ganada |
 | Sassy-Bucket | Ravens vs. Bills: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $26,882 | +$27,980 | ✅ Ganada |
 | Woaifacai | Liverpool FC vs. Arsenal FC: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $30,586 | +$35,905 | ✅ Ganada |
-| EdZachary | Cardinals vs. Cowboys | Cardinals | 4.00 (25¢) | $34,744 | — | ⏳ Pendiente |
+| EdZachary | Cardinals vs. Cowboys | Cardinals | 4.00 (25¢) | $34,744 | +$104,231 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-01? | No | 1.69 (59¢) | $128,569 | -$128,569 | ❌ Perdida |
 | thetesterguy | Liverpool FC vs. Arsenal FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $31,333 | +$2,000 | ✅ Ganada |
 | MigRodr | Will Elche CF win on 2026-11-01? | No | 1.67 (60¢) | $37,000 | +$24,667 | ✅ Ganada |
@@ -124,10 +127,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Flyers | Utah | 1.64 (61¢) | $39,522 | — | ⏳ Pendiente |
 | Matheobong | Juventus FC vs. SSC Napoli: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $25,484 | -$25,484 | ❌ Perdida |
 | MigRodr | Will Elche CF win on 2026-11-01? | No | 1.67 (60¢) | $85,638 | +$57,092 | ✅ Ganada |
-| ferrariChampions2026 | Cardinals vs. Cowboys | Cowboys | 1.33 (75¢) | $33,502 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cardinals vs. Cowboys | Cowboys | 1.33 (75¢) | $33,502 | -$33,502 | ❌ Perdida |
 | UpTheBlues | Will Liverpool FC win on 2026-11-01? | No | 1.49 (67¢) | $25,791 | +$12,703 | ✅ Ganada |
 | 1l2ihj34li12u34 | Will Arsenal FC win on 2026-11-01? | Yes | 2.56 (39¢) | $34,970 | +$54,697 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Courmayeur: Noma Noha Akugue vs Alina Charaeva | Alina Charaeva | 1.20 (83¢) | $40,851 | +$8,367 | ✅ Ganada |
-| ferrariChampions2026 | Cardinals vs. Cowboys | Cowboys | 1.33 (75¢) | $29,554 | — | ⏳ Pendiente |
-| 999585 | Will Real Racing Club win on 2026-11-01? | No | 1.08 (93¢) | $46,500 | +$3,500 | ✅ Ganada |
-| Woaifacai | Frosinone Calcio vs. Torino FC: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $92,934 | +$64,582 | ✅ Ganada |
