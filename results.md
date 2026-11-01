@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 21:10:42 (hora de Perú)
+Actualizado: 2026-10-31 21:12:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7335**  ($416,188,153 en total)
-- Resueltas: **7262** — 4411 ganadas / 2851 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Resueltas: **7264** — 4412 ganadas / 2852 perdidas (**61%** de acierto)
+- Pendientes: 49
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,648,453** sobre $412,011,604 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,751** sobre $716,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,669,870** sobre $412,082,694 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,838** sobre $716,200 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma State (-3.5) | Iowa State | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $74,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 2.44 (41¢) | $205,000 | — | ⏳ Pendiente |
-| yabanci | Penguins vs. Canadiens | Canadiens | 1.12 (89¢) | $44,208 | — | ⏳ Pendiente |
+| yabanci | Penguins vs. Canadiens | Canadiens | 1.12 (89¢) | $44,208 | +$5,464 | ✅ Ganada |
 | 467j6yj | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $33,898 | +$2,551 | ✅ Ganada |
 | ElonSpam | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $27,978 | +$2,106 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $26,947 | +$2,028 | ✅ Ganada |
@@ -130,4 +130,4 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Sassy-Bucket | Thunder vs. Rockets | Thunder | 2.33 (43¢) | $92,054 | — | ⏳ Pendiente |
 | EdZachary | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $51,300 | — | ⏳ Pendiente |
 | ethanaz | Minnesota vs. Indiana | Indiana | 1.75 (57¢) | $39,585 | +$29,862 | ✅ Ganada |
-| Zzzz87 | Penguins vs. Canadiens | Penguins | 2.13 (47¢) | $26,881 | — | ⏳ Pendiente |
+| Zzzz87 | Penguins vs. Canadiens | Penguins | 2.13 (47¢) | $26,881 | -$26,881 | ❌ Perdida |
