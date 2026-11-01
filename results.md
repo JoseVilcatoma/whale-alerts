@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 22:08:34 (hora de Perú)
+Actualizado: 2026-10-31 22:10:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7342**  ($416,442,254 en total)
+- Apuestas registradas: **7343**  ($416,486,098 en total)
 - Resueltas: **7303** — 4434 ganadas / 2869 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 685
 
 ### Balance
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| Woaifacai | 30 | 11 | 0 | 73% | $2,493,049 | +$302,436 |
+| Woaifacai | 30 | 11 | 1 | 73% | $2,536,893 | +$302,436 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | TAIWANNUMBERONE | 41 | 19 | 2 | 68% | $2,316,216 | -$177,143 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Taipei: Masamichi Imamura vs Luca Staeheli | Masamichi Imamura | 1.08 (93¢) | $43,844 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Oregon State (-6.5) | Oregon State | 2.00 (50¢) | $29,413 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Washington vs. Nebraska | Nebraska | 1.35 (74¢) | $36,017 | — | ⏳ Pendiente |
 | yabanci | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $58,733 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-4.5) | 76ers | 2.27 (44¢) | $42,932 | +$54,640 | ✅ Ganada |
 | Albihime217255 | 76ers vs. Hornets | 76ers | 1.59 (63¢) | $33,950 | +$19,939 | ✅ Ganada |
 | Albihime217255 | 76ers vs. Hornets | 76ers | 1.56 (64¢) | $71,894 | +$40,440 | ✅ Ganada |
-| fhiwbijd | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Hanwha Life Esports | 2.94 (34¢) | $77,972 | -$77,972 | ❌ Perdida |
