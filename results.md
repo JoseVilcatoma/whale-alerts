@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 15:26:02 (hora de Perú)
+Actualizado: 2026-11-01 15:28:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7400**  ($420,498,646 en total)
+- Apuestas registradas: **7401**  ($420,523,646 en total)
 - Resueltas: **7345** — 4462 ganadas / 2883 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ch27er | Spread: Celtics (-6.5) | Celtics | 1.89 (53¢) | $25,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ravens vs. Bills | Bills | 1.14 (88¢) | $44,143 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Raiders vs. Jets | Jets | 1.52 (66¢) | $124,338 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Athletic Club win on 2026-11-01? | No | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | TennisAce1 | Washington vs. Nebraska | Nebraska | 1.52 (66¢) | $26,775 | -$26,775 | ❌ Perdida |
 | Woaifacai | Taipei: Masamichi Imamura vs Luca Staeheli | Masamichi Imamura | 1.08 (93¢) | $43,844 | +$3,300 | ✅ Ganada |
 | mooseborzoi | Spread: Oregon State (-6.5) | Oregon State | 2.00 (50¢) | $29,413 | -$29,413 | ❌ Perdida |
-| TAIWANNUMBERONE | Washington vs. Nebraska | Nebraska | 1.35 (74¢) | $36,017 | -$36,017 | ❌ Perdida |
