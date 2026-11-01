@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 23:40:17 (hora de Perú)
+Actualizado: 2026-10-31 23:42:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7347**  ($417,317,668 en total)
-- Resueltas: **7315** — 4440 ganadas / 2875 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **7316** — 4441 ganadas / 2875 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,629,307** sobre $415,321,719 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,441** sobre $721,300 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$4,596,855** sobre $415,354,170 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,341** sobre $721,400 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 62 | 30 | 0 | 67% | $5,437,546 | -$304,914 |
-| BrotherObama | 50 | 53 | 3 | 49% | $4,586,036 | -$106,735 |
+| BrotherObama | 51 | 53 | 2 | 49% | $4,586,036 | -$74,283 |
 | maz26 | 40 | 26 | 0 | 61% | $4,486,958 | +$538,942 |
 | Kch-Temp | 45 | 15 | 1 | 75% | $3,932,043 | +$1,725,698 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 1.32 (76¢) | $276,458 | +$87,302 | ✅ Ganada |
 | Mastermoney | Texas State vs. Boise State: O/U 63.5 | Over 63.5 | 1.92 (52¢) | $42,262 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Thunder vs. Rockets | Rockets | 1.11 (90¢) | $30,141 | +$3,349 | ✅ Ganada |
-| BrotherObama | Flames vs. Avalanche: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $32,452 | — | ⏳ Pendiente |
+| BrotherObama | Flames vs. Avalanche: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $32,452 | +$32,452 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-8.5) | Thunder | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
 | googleplay | Spread: Rockets (-8.5) | Rockets | 1.89 (53¢) | $26,401 | +$23,412 | ✅ Ganada |
 | TAIWANNUMBERONE | Ohio State vs. USC | Ohio State | 2.86 (35¢) | $35,696 | -$35,696 | ❌ Perdida |
