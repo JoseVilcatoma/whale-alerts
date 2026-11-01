@@ -109829,5 +109829,35 @@
     "status": "pending",
     "ultimo_fill": 1793492000,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14785,
+    "timestamp": 1793492102,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-okc-hou-2026-10-31-spread-home-2pt5",
+    "title": "Spread: Rockets (-2.5)",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 71487.44940000001,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1793492102,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14786,
+    "timestamp": 1793492156,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nba-okc-hou-2026-10-31-spread-home-2pt5",
+    "title": "Spread: Rockets (-2.5)",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 25706.997799999997,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1793492156,
+    "fills": 1
   }
 ]
