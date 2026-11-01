@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 00:35:50 (hora de Perú)
+Actualizado: 2026-11-01 00:37:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7347**  ($417,317,668 en total)
-- Resueltas: **7316** — 4441 ganadas / 2875 perdidas (**61%** de acierto)
+- Apuestas registradas: **7348**  ($417,349,793 en total)
+- Resueltas: **7317** — 4442 ganadas / 2875 perdidas (**61%** de acierto)
 - Pendientes: 9
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,596,855** sobre $415,354,170 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,341** sobre $721,400 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$4,557,845** sobre $415,396,432 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,249** sobre $721,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -48,8 +48,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
+| Woaifacai | 31 | 11 | 3 | 74% | $3,316,793 | +$305,736 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Woaifacai | 31 | 11 | 2 | 74% | $3,284,667 | +$305,736 |
 | milkteaboba | 16 | 12 | 0 | 57% | $3,078,507 | -$818,979 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
 | ndb1 | 29 | 15 | 0 | 66% | $2,603,192 | +$441,923 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Elena Pridankina | Himeno Sakatsume | 1.30 (77¢) | $32,126 | — | ⏳ Pendiente |
 | Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.32 (76¢) | $348,453 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Leylah Fernandez | 4.55 (22¢) | $57,020 | — | ⏳ Pendiente |
 | Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.30 (77¢) | $399,321 | — | ⏳ Pendiente |
@@ -84,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Timberwolves vs. Spurs | Spurs | 1.15 (87¢) | $25,046 | +$3,742 | ✅ Ganada |
 | Multicoloured-Serf | Ohio State vs. USC | USC | 1.09 (92¢) | $44,665 | +$3,884 | ✅ Ganada |
 | CHZHSHCH | Atlanta Dream vs. Golden State Valkyries | Golden State Valkyries | 1.32 (76¢) | $276,458 | +$87,302 | ✅ Ganada |
-| Mastermoney | Texas State vs. Boise State: O/U 63.5 | Over 63.5 | 1.92 (52¢) | $42,262 | — | ⏳ Pendiente |
+| Mastermoney | Texas State vs. Boise State: O/U 63.5 | Over 63.5 | 1.92 (52¢) | $42,262 | +$39,011 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Thunder vs. Rockets | Rockets | 1.11 (90¢) | $30,141 | +$3,349 | ✅ Ganada |
 | BrotherObama | Flames vs. Avalanche: O/U 6.5 | Over 6.5 | 2.00 (50¢) | $32,452 | +$32,452 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-8.5) | Thunder | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cavaliers vs. Bucks | Cavaliers | 1.33 (75¢) | $29,376 | +$9,792 | ✅ Ganada |
 | googleplay | Spread: Cavaliers (-9.5) | Bucks | 1.89 (53¢) | $31,383 | -$31,383 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Cavaliers (-9.5) | Cavaliers | 2.13 (47¢) | $32,456 | +$36,599 | ✅ Ganada |
-| 999585 | Mississippi State vs. Texas | Texas | 1.10 (91¢) | $183,012 | +$18,100 | ✅ Ganada |

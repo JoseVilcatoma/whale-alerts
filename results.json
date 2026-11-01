@@ -110231,7 +110231,7 @@
     "side": "BUY",
     "usd": 42261.82,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793498395,
     "fills": 1
   },
@@ -110429,5 +110429,20 @@
     "status": "pending",
     "ultimo_fill": 1793505209,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 14914,
+    "timestamp": 1793511444,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "wta-sakatsu-pridank-2026-10-31",
+    "title": "Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Elena Pridankina",
+    "outcome": "Himeno Sakatsume",
+    "side": "BUY",
+    "usd": 32125.863,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1793511444,
+    "fills": 1
   }
 ]
