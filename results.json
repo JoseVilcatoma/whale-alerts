@@ -110474,5 +110474,20 @@
     "status": "pending",
     "ultimo_fill": 1793515047,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14922,
+    "timestamp": 1793517066,
+    "username": "thetesterguy",
+    "wallet": "0xad494094e355999ad09bd07e51861c2a1541c53e",
+    "slug": "jap-zel-gam-2026-11-01-total-0pt5",
+    "title": "FC Machida Zelvia vs. Gamba \u014csaka: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 69666.41292900001,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1793517066,
+    "fills": 2
   }
 ]

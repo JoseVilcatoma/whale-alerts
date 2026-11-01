@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 02:10:16 (hora de Perú)
+Actualizado: 2026-11-01 02:12:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7350**  ($417,439,871 en total)
+- Apuestas registradas: **7351**  ($417,509,537 en total)
 - Resueltas: **7322** — 4445 ganadas / 2877 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| thetesterguy | FC Machida Zelvia vs. Gamba Ōsaka: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $69,666 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Titans vs. Bengals | Bengals | 1.15 (87¢) | $33,417 | — | ⏳ Pendiente |
 | Woaifacai | Taipei: Jake Delaney vs Kai-I Wang | Jake Delaney | 1.20 (83¢) | $56,660 | — | ⏳ Pendiente |
 | Woaifacai | Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Elena Pridankina | Himeno Sakatsume | 1.30 (77¢) | $32,126 | +$9,596 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | jakepaulthegoat2008 | Kings vs. Grizzlies | Grizzlies | 1.35 (74¢) | $68,680 | +$24,131 | ✅ Ganada |
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,000 | +$8,000 | ✅ Ganada |
 | 999585 | Mississippi State vs. Texas | Texas | 1.06 (94¢) | $108,526 | +$6,927 | ✅ Ganada |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cavaliers vs. Bucks | Cavaliers | 1.33 (75¢) | $29,376 | +$9,792 | ✅ Ganada |
