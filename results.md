@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 22:04:30 (hora de Perú)
+Actualizado: 2026-10-31 22:06:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7342**  ($416,442,254 en total)
-- Resueltas: **7289** — 4425 ganadas / 2864 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **7290** — 4426 ganadas / 2864 perdidas (**61%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,596,383** sobre $413,944,226 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,191** sobre $718,700 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,565,139** sobre $413,976,745 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,095** sobre $718,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | yabanci | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $124,200 | -$124,200 | ❌ Perdida |
 | Woaifacai | Thunder vs. Rockets | Rockets | 1.64 (61¢) | $133,947 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Rockets | Thunder | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
-| yabanci | Thunder vs. Rockets: O/U 220.5 | Under 220.5 | 1.96 (51¢) | $32,520 | — | ⏳ Pendiente |
+| yabanci | Thunder vs. Rockets: O/U 220.5 | Under 220.5 | 1.96 (51¢) | $32,520 | +$31,245 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.15 (87¢) | $30,496 | +$4,557 | ✅ Ganada |
 | Woaifacai | Thunder vs. Rockets | Rockets | 1.69 (59¢) | $100,036 | — | ⏳ Pendiente |
 | Sassy-Bucket | Thunder vs. Rockets | Thunder | 2.38 (42¢) | $31,843 | — | ⏳ Pendiente |
