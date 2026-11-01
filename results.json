@@ -110956,5 +110956,20 @@
     "status": "pending",
     "ultimo_fill": 1793552075,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14965,
+    "timestamp": 1793552169,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "nfl-lv-nyj-2026-11-01",
+    "title": "Raiders vs. Jets",
+    "outcome": "Jets",
+    "side": "BUY",
+    "usd": 35099.9946,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793552169,
+    "fills": 1
   }
 ]
