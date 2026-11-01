@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 22:35:33 (hora de Perú)
+Actualizado: 2026-10-31 22:37:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7344**  ($416,512,873 en total)
+- Apuestas registradas: **7345**  ($416,813,615 en total)
 - Resueltas: **7312** — 4439 ganadas / 2873 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 685
 
 ### Balance
@@ -51,11 +51,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 16 | 12 | 0 | 57% | $3,078,507 | -$818,979 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
+| Woaifacai | 30 | 11 | 2 | 73% | $2,837,635 | +$302,436 |
 | ndb1 | 29 | 15 | 0 | 66% | $2,603,192 | +$441,923 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| Woaifacai | 30 | 11 | 1 | 73% | $2,536,893 | +$302,436 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | TAIWANNUMBERONE | 41 | 20 | 1 | 67% | $2,316,216 | -$212,839 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.30 (77¢) | $300,742 | — | ⏳ Pendiente |
 | TennisAce1 | Washington vs. Nebraska | Nebraska | 1.52 (66¢) | $26,775 | — | ⏳ Pendiente |
 | Woaifacai | Taipei: Masamichi Imamura vs Luca Staeheli | Masamichi Imamura | 1.08 (93¢) | $43,844 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Oregon State (-6.5) | Oregon State | 2.00 (50¢) | $29,413 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 999585 | Mississippi State vs. Texas | Texas | 1.10 (91¢) | $183,012 | +$18,100 | ✅ Ganada |
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,297 | +$8,057 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-4.5) | 76ers | 2.27 (44¢) | $42,932 | +$54,640 | ✅ Ganada |
-| Albihime217255 | 76ers vs. Hornets | 76ers | 1.59 (63¢) | $33,950 | +$19,939 | ✅ Ganada |
