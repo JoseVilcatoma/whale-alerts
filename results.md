@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 01:18:59 (hora de Perú)
+Actualizado: 2026-11-01 01:21:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7348**  ($417,349,793 en total)
-- Resueltas: **7320** — 4444 ganadas / 2876 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **7321** — 4445 ganadas / 2876 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,385,549** sobre $416,201,226 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,288** sobre $721,800 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,375,953** sobre $416,233,352 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,258** sobre $721,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
 | raybanman | 17 | 14 | 0 | 55% | $3,413,262 | +$109,557 |
 | cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
-| Woaifacai | 33 | 11 | 1 | 75% | $3,316,793 | +$535,051 |
+| Woaifacai | 34 | 11 | 0 | 76% | $3,316,793 | +$544,647 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 16 | 12 | 0 | 57% | $3,078,507 | -$818,979 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Woaifacai | Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Elena Pridankina | Himeno Sakatsume | 1.30 (77¢) | $32,126 | — | ⏳ Pendiente |
+| Woaifacai | Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Elena Pridankina | Himeno Sakatsume | 1.30 (77¢) | $32,126 | +$9,596 | ✅ Ganada |
 | Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.32 (76¢) | $348,453 | +$110,038 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Leylah Fernandez | 4.55 (22¢) | $57,020 | -$57,020 | ❌ Perdida |
 | Woaifacai | Pan Pacific Open: Leylah Fernandez vs Diana Shnaider | Diana Shnaider | 1.30 (77¢) | $399,321 | +$119,278 | ✅ Ganada |
