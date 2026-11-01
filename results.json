@@ -110249,5 +110249,20 @@
     "status": "pending",
     "ultimo_fill": 1793498821,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 14848,
+    "timestamp": 1793499355,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "cfb-ohiost-usc-2026-10-31",
+    "title": "Ohio State vs. USC",
+    "outcome": "USC",
+    "side": "BUY",
+    "usd": 44664.997200000005,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1793499355,
+    "fills": 1
   }
 ]
