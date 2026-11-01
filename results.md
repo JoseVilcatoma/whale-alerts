@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 22:18:52 (hora de Perú)
+Actualizado: 2026-10-31 22:20:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7344**  ($416,512,873 en total)
-- Resueltas: **7308** — 4437 ganadas / 2871 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **7309** — 4437 ganadas / 2872 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,522,647** sobre $415,074,365 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,124** sobre $720,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,556,003** sobre $415,107,721 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,224** sobre $720,700 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
-| ferrariChampions2026 | 112 | 58 | 1 | 66% | $7,365,917 | +$308,950 |
+| ferrariChampions2026 | 112 | 59 | 0 | 65% | $7,365,917 | +$275,594 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
