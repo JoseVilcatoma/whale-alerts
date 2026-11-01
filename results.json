@@ -110471,7 +110471,7 @@
     "side": "BUY",
     "usd": 33417.359995,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793515047,
     "fills": 1
   },
@@ -111073,7 +111073,7 @@
     "side": "BUY",
     "usd": 84550.0,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793554068,
     "fills": 1
   },
@@ -111103,7 +111103,7 @@
     "side": "BUY",
     "usd": 26489.51,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793560749,
     "fills": 1
   },
@@ -111133,7 +111133,7 @@
     "side": "BUY",
     "usd": 26124.8181,
     "odds_at_bet": 79,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793561059,
     "fills": 1
   },
@@ -111148,7 +111148,7 @@
     "side": "BUY",
     "usd": 25321.539599999996,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793561574,
     "fills": 1
   },
@@ -111328,7 +111328,7 @@
     "side": "BUY",
     "usd": 27984.459999999995,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793567191,
     "fills": 1
   },
@@ -111433,7 +111433,7 @@
     "side": "BUY",
     "usd": 65000.0,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793568154,
     "fills": 1
   },
@@ -111478,7 +111478,7 @@
     "side": "BUY",
     "usd": 30911.275999999998,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793569071,
     "fills": 1
   },
@@ -111493,7 +111493,7 @@
     "side": "BUY",
     "usd": 74842.5297,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793569182,
     "fills": 1
   },
@@ -111616,5 +111616,20 @@
     "status": "pending",
     "ultimo_fill": 1793570873,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 15055,
+    "timestamp": 1793571257,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-lac-la-2026-11-01",
+    "title": "Chargers vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 26463.08,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1793571257,
+    "fills": 1
   }
 ]
