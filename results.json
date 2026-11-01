@@ -110654,5 +110654,20 @@
     "status": "pending",
     "ultimo_fill": 1793541254,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14940,
+    "timestamp": 1793541509,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nba-bos-orl-2026-11-01-total-222pt5",
+    "title": "Celtics vs. Magic: O/U 222.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 26282.13,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793541509,
+    "fills": 1
   }
 ]
