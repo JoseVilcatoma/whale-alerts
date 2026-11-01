@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 21:29:14 (hora de Perú)
+Actualizado: 2026-10-31 21:31:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7339**  ($416,318,090 en total)
+- Apuestas registradas: **7340**  ($416,376,824 en total)
 - Resueltas: **7264** — 4412 ganadas / 2852 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $58,733 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Tom Nolan | 2.22 (45¢) | $32,770 | — | ⏳ Pendiente |
 | Multicoloured-Serf | UFC Fight Night: Renato Moicano vs. Tom Nolan (Lightweight, Main Card) | Renato Moicano | 1.82 (55¢) | $27,457 | — | ⏳ Pendiente |
 | 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | Timberwolves vs. Spurs | Spurs | 1.15 (87¢) | $25,046 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | fhiwbijd | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Hanwha Life Esports | 2.94 (34¢) | $77,972 | -$77,972 | ❌ Perdida |
 | zb8 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $32,572 | -$32,572 | ❌ Perdida |
 | Multicoloured-Serf | Thunder vs. Rockets | Thunder | 2.33 (43¢) | $27,325 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $35,905 | — | ⏳ Pendiente |
