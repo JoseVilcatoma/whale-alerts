@@ -109029,7 +109029,7 @@
     "side": "BUY",
     "usd": 52779.069200000005,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793480238,
     "fills": 1
   },
@@ -109136,7 +109136,7 @@
     "side": "BUY",
     "usd": 106000.0,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793483279,
     "fills": 1
   },
@@ -109151,7 +109151,7 @@
     "side": "BUY",
     "usd": 51360.0,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793483471,
     "fills": 1
   },
@@ -109211,7 +109211,7 @@
     "side": "BUY",
     "usd": 240263.76400000002,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793483895,
     "fills": 2
   },
@@ -109316,7 +109316,7 @@
     "side": "BUY",
     "usd": 101045.96639999999,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793484309,
     "fills": 1
   },
@@ -109481,7 +109481,7 @@
     "side": "BUY",
     "usd": 71894.0,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793488215,
     "fills": 1
   },
@@ -109496,7 +109496,7 @@
     "side": "BUY",
     "usd": 33949.999999,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793488597,
     "fills": 1
   },
@@ -109736,7 +109736,7 @@
     "side": "BUY",
     "usd": 28648.915200000003,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793491212,
     "fills": 1
   },
@@ -109751,7 +109751,7 @@
     "side": "BUY",
     "usd": 40000.0,
     "odds_at_bet": 40,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793491389,
     "fills": 1
   },
@@ -109766,7 +109766,7 @@
     "side": "BUY",
     "usd": 141971.262,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793491407,
     "fills": 2
   },
@@ -110023,6 +110023,51 @@
     "odds_at_bet": 60,
     "status": "pending",
     "ultimo_fill": 1793493950,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14805,
+    "timestamp": 1793494613,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nba-atl-nop-2026-10-31",
+    "title": "Hawks vs. Pelicans",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 26946.6105,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1793494613,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14806,
+    "timestamp": 1793494621,
+    "username": "ElonSpam",
+    "wallet": "0x5116ee15e86bc8878b90ac8a8514e38511eb58c4",
+    "slug": "nba-atl-nop-2026-10-31",
+    "title": "Hawks vs. Pelicans",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 27978.120000000003,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1793494621,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14817,
+    "timestamp": 1793494686,
+    "username": "467j6yj",
+    "wallet": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+    "slug": "nba-atl-nop-2026-10-31",
+    "title": "Hawks vs. Pelicans",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 33898.5,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1793494686,
     "fills": 1
   }
 ]

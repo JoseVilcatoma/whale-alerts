@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 19:56:10 (hora de Perú)
+Actualizado: 2026-10-31 19:58:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7320**  ($415,227,898 en total)
-- Resueltas: **7236** — 4396 ganadas / 2840 perdidas (**61%** de acierto)
-- Pendientes: 62
-- Apostadores distintos: 684
+- Apuestas registradas: **7323**  ($415,316,722 en total)
+- Resueltas: **7246** — 4402 ganadas / 2844 perdidas (**61%** de acierto)
+- Pendientes: 55
+- Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,289,084** sobre $410,462,330 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,737** sobre $713,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,482,276** sobre $411,330,243 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,583** sobre $714,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 517 | 292 | 12 | 64% | $53,726,829 | +$370,928 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 519 | 292 | 10 | 64% | $53,726,829 | +$524,928 |
 | Sassy-Bucket | 99 | 102 | 4 | 49% | $13,347,227 | -$1,401,987 |
-| googleplay | 51 | 38 | 12 | 57% | $11,807,027 | +$518,123 |
+| googleplay | 51 | 40 | 10 | 56% | $11,807,027 | +$176,813 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 116 | 66 | 5 | 64% | $9,122,655 | +$328,018 |
+| Lakersfan111 | 117 | 66 | 4 | 64% | $9,122,655 | +$376,737 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 26 | 1 | 52% | $2,588,270 | +$59,717 |
-| Woaifacai | 28 | 10 | 3 | 74% | $2,493,049 | +$289,252 |
+| Woaifacai | 28 | 11 | 2 | 72% | $2,493,049 | +$147,281 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 41 | 19 | 0 | 68% | $2,244,502 | -$177,143 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 
-_(mostrando los 40 de mayor monto, de 684 en total)_
+_(mostrando los 40 de mayor monto, de 685 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 467j6yj | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $33,898 | — | ⏳ Pendiente |
+| ElonSpam | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $27,978 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $26,947 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $238,343 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | yabanci | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $124,200 | — | ⏳ Pendiente |
@@ -88,9 +91,9 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | CUTJALENHURTS | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.08 (48¢) | $40,574 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-2.5) | Rockets | 1.92 (52¢) | $86,870 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Timberwolves vs. Spurs | Spurs | 1.20 (83¢) | $72,632 | — | ⏳ Pendiente |
-| Woaifacai | 76ers vs. Hornets | Hornets | 1.67 (60¢) | $141,971 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Hornets | 76ers | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
-| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | 76ers vs. Hornets | Hornets | 1.39 (72¢) | $28,649 | — | ⏳ Pendiente |
+| Woaifacai | 76ers vs. Hornets | Hornets | 1.67 (60¢) | $141,971 | -$141,971 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Hornets | 76ers | 2.50 (40¢) | $40,000 | +$60,000 | ✅ Ganada |
+| 0x3mf379C47E653dafa153841a995Cf975B6a02fxd | 76ers vs. Hornets | Hornets | 1.39 (72¢) | $28,649 | -$28,649 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $46,929 | — | ⏳ Pendiente |
 | yabanci | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
 | googleplay | Kings vs. Grizzlies: O/U 228.5 | Over 228.5 | 1.92 (52¢) | $34,592 | — | ⏳ Pendiente |
@@ -106,8 +109,8 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | 999585 | Mississippi State vs. Texas | Texas | 1.10 (91¢) | $183,012 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,297 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-4.5) | 76ers | 2.27 (44¢) | $42,932 | — | ⏳ Pendiente |
-| Albihime217255 | 76ers vs. Hornets | 76ers | 1.59 (63¢) | $33,950 | — | ⏳ Pendiente |
-| Albihime217255 | 76ers vs. Hornets | 76ers | 1.56 (64¢) | $71,894 | — | ⏳ Pendiente |
+| Albihime217255 | 76ers vs. Hornets | 76ers | 1.59 (63¢) | $33,950 | +$19,939 | ✅ Ganada |
+| Albihime217255 | 76ers vs. Hornets | 76ers | 1.56 (64¢) | $71,894 | +$40,440 | ✅ Ganada |
 | fhiwbijd | LoL: Hanwha Life Esports vs Bilibili Gaming (BO3) - Worlds Group Stage | Hanwha Life Esports | 2.94 (34¢) | $77,972 | -$77,972 | ❌ Perdida |
 | zb8 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $32,572 | -$32,572 | ❌ Perdida |
 | Multicoloured-Serf | Thunder vs. Rockets | Thunder | 2.33 (43¢) | $27,325 | — | ⏳ Pendiente |
@@ -118,16 +121,13 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | Zzzz87 | Penguins vs. Canadiens | Penguins | 2.13 (47¢) | $26,881 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Hawks vs. Pelicans | Hawks | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
 | EdZachary | Thunder vs. Rockets | Rockets | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
-| googleplay | 76ers vs. Hornets | Hornets | 2.08 (48¢) | $101,046 | — | ⏳ Pendiente |
+| googleplay | 76ers vs. Hornets | Hornets | 2.08 (48¢) | $101,046 | -$101,046 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.56 (64¢) | $28,544 | -$28,544 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | LoL: Hanwha Life Esports vs Bilibili Gaming - Game 1 Winner | Hanwha Life Esports | 1.54 (65¢) | $483,405 | -$483,405 | ❌ Perdida |
 | googleplay | Hawks vs. Pelicans | Hawks | 1.54 (65¢) | $80,796 | — | ⏳ Pendiente |
 | YEEES-but-why | Hawks vs. Pelicans | Pelicans | 2.86 (35¢) | $26,639 | — | ⏳ Pendiente |
 | yabanci | Spread: Hawks (-4.5) | Pelicans | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
 | googleplay | Hawks vs. Pelicans | Hawks | 1.54 (65¢) | $48,483 | — | ⏳ Pendiente |
-| googleplay | Spread: 76ers (-1.5) | Hornets | 1.92 (52¢) | $240,264 | — | ⏳ Pendiente |
+| googleplay | Spread: 76ers (-1.5) | Hornets | 1.92 (52¢) | $240,264 | -$240,264 | ❌ Perdida |
 | Multicoloured-Serf | Minnesota vs. Indiana | Indiana | 1.49 (67¢) | $31,570 | +$15,549 | ✅ Ganada |
 | googleplay | Hawks vs. Pelicans | Hawks | 1.54 (65¢) | $65,645 | — | ⏳ Pendiente |
-| googleplay | Spread: Hawks (-4.5) | Hawks | 1.92 (52¢) | $42,479 | — | ⏳ Pendiente |
-| yabanci | Spread: 76ers (-1.5) | 76ers | 2.08 (48¢) | $51,360 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Hornets | 76ers | 1.89 (53¢) | $106,000 | — | ⏳ Pendiente |
