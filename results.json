@@ -111211,5 +111211,20 @@
     "status": "pending",
     "ultimo_fill": 1793563375,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14997,
+    "timestamp": 1793563497,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-bal-buf-2026-11-01",
+    "title": "Ravens vs. Bills",
+    "outcome": "Bills",
+    "side": "BUY",
+    "usd": 44142.5688,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1793563497,
+    "fills": 1
   }
 ]
