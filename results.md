@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 18:39:16 (hora de Perú)
+Actualizado: 2026-11-01 18:41:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7438**  ($422,601,933 en total)
+- Apuestas registradas: **7439**  ($422,634,333 en total)
 - Resueltas: **7383** — 4490 ganadas / 2893 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CUTJALENHURTS | Patriots vs. Dolphins | Patriots | 1.23 (81¢) | $32,400 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chiefs vs. Broncos: O/U 52.5 | Under 52.5 | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
 | Jittz | Chiefs vs. Broncos | Chiefs | 1.61 (62¢) | $25,110 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.79 (56¢) | $122,202 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | ferrariChampions2026 | Titans vs. Bengals: O/U 46.5 | Over 46.5 | 2.04 (49¢) | $30,005 | +$31,229 | ✅ Ganada |
 | Sassy-Bucket | Ravens vs. Bills: O/U 54.5 | Under 54.5 | 2.04 (49¢) | $26,882 | +$27,980 | ✅ Ganada |
 | Woaifacai | Liverpool FC vs. Arsenal FC: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $30,586 | +$35,905 | ✅ Ganada |
-| EdZachary | Cardinals vs. Cowboys | Cardinals | 4.00 (25¢) | $34,744 | +$104,231 | ✅ Ganada |
