@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 16:17:07 (hora de Perú)
+Actualizado: 2026-11-01 16:19:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7409**  ($420,959,270 en total)
+- Apuestas registradas: **7410**  ($420,991,258 en total)
 - Resueltas: **7347** — 4464 ganadas / 2883 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| thetesterguy | Nashville SC vs. New York Red Bulls: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $31,988 | — | ⏳ Pendiente |
 | gmpm2 | Chargers vs. Rams | Rams | 1.45 (69¢) | $139,771 | — | ⏳ Pendiente |
 | ethanaz | Chargers vs. Rams: O/U 44.5 | Under 44.5 | 2.22 (45¢) | $26,832 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Titans vs. Bengals | Titans | 1.59 (63¢) | $27,984 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Woaifacai | Ningbo: Petr Bar Biryukov vs Yaroslav Demin | Petr Bar Biryukov | 1.89 (53¢) | $25,290 | -$25,290 | ❌ Perdida |
 | Woaifacai | Ningbo: Petr Bar Biryukov vs Yaroslav Demin | Yaroslav Demin | 1.41 (71¢) | $70,345 | +$28,733 | ✅ Ganada |
 | thetesterguy | FC Machida Zelvia vs. Gamba Ōsaka: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $69,666 | -$69,666 | ❌ Perdida |
-| ferrariChampions2026 | Titans vs. Bengals | Bengals | 1.15 (87¢) | $33,417 | — | ⏳ Pendiente |

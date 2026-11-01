@@ -111361,5 +111361,20 @@
     "status": "pending",
     "ultimo_fill": 1793567636,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15009,
+    "timestamp": 1793567871,
+    "username": "thetesterguy",
+    "wallet": "0xad494094e355999ad09bd07e51861c2a1541c53e",
+    "slug": "mls-nas-nyr-2026-11-01-total-1pt5",
+    "title": "Nashville SC vs. New York Red Bulls: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 31987.845000000005,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1793567871,
+    "fills": 1
   }
 ]
