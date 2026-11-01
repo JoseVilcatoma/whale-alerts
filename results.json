@@ -110504,5 +110504,20 @@
     "status": "pending",
     "ultimo_fill": 1793518974,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 14925,
+    "timestamp": 1793521694,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "atp-biryuko-demin-2026-11-01",
+    "title": "Ningbo: Petr Bar Biryukov vs Yaroslav Demin",
+    "outcome": "Petr Bar Biryukov",
+    "side": "BUY",
+    "usd": 25289.944499999998,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1793521694,
+    "fills": 1
   }
 ]
