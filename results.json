@@ -111751,5 +111751,20 @@
     "status": "pending",
     "ultimo_fill": 1793573326,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 15066,
+    "timestamp": 1793573415,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nfl-kc-den-2026-11-01",
+    "title": "Chiefs vs. Broncos",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 122201.99600000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1793573415,
+    "fills": 1
   }
 ]
