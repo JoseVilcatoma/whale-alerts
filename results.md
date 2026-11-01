@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 17:47:09 (hora de Perú)
+Actualizado: 2026-11-01 17:49:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7434**  ($422,222,585 en total)
+- Apuestas registradas: **7435**  ($422,429,421 en total)
 - Resueltas: **7378** — 4485 ganadas / 2893 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Chargers vs. Rams | Rams | 1.16 (86¢) | $206,836 | — | ⏳ Pendiente |
 | KaneAnalytics | Patriots vs. Dolphins | Dolphins | 1.67 (60¢) | $49,356 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Patriots vs. Dolphins | Dolphins | 1.69 (59¢) | $31,880 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Patriots vs. Dolphins | Dolphins | 1.69 (59¢) | $26,222 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-01? | No | 1.69 (59¢) | $128,569 | -$128,569 | ❌ Perdida |
 | thetesterguy | Liverpool FC vs. Arsenal FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $31,333 | +$2,000 | ✅ Ganada |
 | MigRodr | Will Elche CF win on 2026-11-01? | No | 1.67 (60¢) | $37,000 | +$24,667 | ✅ Ganada |
-| gmpm2 | Titans vs. Bengals: O/U 46.5 | Over 46.5 | 2.08 (48¢) | $42,264 | +$45,786 | ✅ Ganada |
