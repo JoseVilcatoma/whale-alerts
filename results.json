@@ -110881,5 +110881,35 @@
     "status": "pending",
     "ultimo_fill": 1793550326,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14959,
+    "timestamp": 1793550461,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "epl-liv-ars-2026-11-01-ars",
+    "title": "Will Arsenal FC win on 2026-11-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 128568.54609999999,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1793550461,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14960,
+    "timestamp": 1793550499,
+    "username": "EdZachary",
+    "wallet": "0xe5b70fd855af9258d9463992e4f1ed7987905ee3",
+    "slug": "nfl-ari-dal-2026-11-01",
+    "title": "Cardinals vs. Cowboys",
+    "outcome": "Cardinals",
+    "side": "BUY",
+    "usd": 34743.5775,
+    "odds_at_bet": 25,
+    "status": "pending",
+    "ultimo_fill": 1793550499,
+    "fills": 1
   }
 ]
