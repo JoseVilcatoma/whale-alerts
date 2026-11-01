@@ -110699,5 +110699,20 @@
     "status": "pending",
     "ultimo_fill": 1793544755,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14943,
+    "timestamp": 1793545865,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-ari-dal-2026-11-01",
+    "title": "Cardinals vs. Cowboys",
+    "outcome": "Cowboys",
+    "side": "BUY",
+    "usd": 29554.179999,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1793545865,
+    "fills": 1
   }
 ]
