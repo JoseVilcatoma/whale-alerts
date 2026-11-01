@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 21:56:11 (hora de Perú)
+Actualizado: 2026-10-31 21:58:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7341**  ($416,412,841 en total)
-- Resueltas: **7284** — 4422 ganadas / 2862 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **7285** — 4423 ganadas / 2862 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,753,930** sobre $413,604,606 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,207** sobre $718,200 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,729,799** sobre $413,673,286 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,172** sobre $718,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 99 | 102 | 5 | 49% | $13,379,998 | -$1,401,987 |
 | googleplay | 52 | 46 | 4 | 53% | $11,833,428 | -$85,324 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 119 | 66 | 2 | 64% | $9,122,655 | +$392,794 |
+| Lakersfan111 | 120 | 66 | 1 | 65% | $9,122,655 | +$416,924 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 0 | 52% | $7,573,360 | -$616,817 |
@@ -118,7 +118,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $40,713 | -$40,713 | ❌ Perdida |
 | jizzbucket57 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $45,360 | -$45,360 | ❌ Perdida |
 | Talvez10 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $39,359 | -$39,359 | ❌ Perdida |
-| jakepaulthegoat2008 | Kings vs. Grizzlies | Grizzlies | 1.35 (74¢) | $68,680 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Kings vs. Grizzlies | Grizzlies | 1.35 (74¢) | $68,680 | +$24,131 | ✅ Ganada |
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,000 | +$8,000 | ✅ Ganada |
 | 999585 | Mississippi State vs. Texas | Texas | 1.06 (94¢) | $108,526 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cavaliers vs. Bucks | Cavaliers | 1.33 (75¢) | $29,376 | +$9,792 | ✅ Ganada |
