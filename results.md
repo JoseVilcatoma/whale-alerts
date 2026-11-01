@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 20:04:30 (hora de Perú)
+Actualizado: 2026-10-31 20:06:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7323**  ($415,316,722 en total)
+- Apuestas registradas: **7324**  ($415,360,930 en total)
 - Resueltas: **7247** — 4403 ganadas / 2844 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Penguins vs. Canadiens | Canadiens | 1.12 (89¢) | $44,208 | — | ⏳ Pendiente |
 | 467j6yj | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $33,898 | — | ⏳ Pendiente |
 | ElonSpam | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $27,978 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $26,947 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | googleplay | Hawks vs. Pelicans | Hawks | 1.54 (65¢) | $48,483 | — | ⏳ Pendiente |
 | googleplay | Spread: 76ers (-1.5) | Hornets | 1.92 (52¢) | $240,264 | -$240,264 | ❌ Perdida |
 | Multicoloured-Serf | Minnesota vs. Indiana | Indiana | 1.49 (67¢) | $31,570 | +$15,549 | ✅ Ganada |
-| googleplay | Hawks vs. Pelicans | Hawks | 1.54 (65¢) | $65,645 | — | ⏳ Pendiente |
