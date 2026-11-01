@@ -109526,7 +109526,7 @@
     "side": "BUY",
     "usd": 42297.1752,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793488907,
     "fills": 1
   },
@@ -109616,7 +109616,7 @@
     "side": "BUY",
     "usd": 42000.0,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793490101,
     "fills": 1
   },
@@ -109781,7 +109781,7 @@
     "side": "BUY",
     "usd": 72631.64829999999,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793491587,
     "fills": 1
   },
@@ -110276,7 +110276,7 @@
     "side": "BUY",
     "usd": 25045.56,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793499499,
     "fills": 1
   },
@@ -110323,6 +110323,21 @@
     "odds_at_bet": 55,
     "status": "pending",
     "ultimo_fill": 1793500181,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14859,
+    "timestamp": 1793501149,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "cfb-wash-nebr-2026-10-31",
+    "title": "Washington vs. Nebraska",
+    "outcome": "Nebraska",
+    "side": "BUY",
+    "usd": 36017.428,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1793501149,
     "fills": 1
   }
 ]
