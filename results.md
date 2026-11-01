@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 21:37:33 (hora de Perú)
+Actualizado: 2026-10-31 21:39:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7340**  ($416,376,824 en total)
-- Resueltas: **7265** — 4413 ganadas / 2852 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Resueltas: **7270** — 4414 ganadas / 2856 perdidas (**61%** de acierto)
+- Pendientes: 48
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,660,078** sobre $412,112,070 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,805** sobre $716,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$4,780,293** sobre $412,301,340 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,092** sobre $716,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 520 | 293 | 11 | 64% | $54,005,829 | +$515,568 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 520 | 294 | 10 | 64% | $54,005,829 | +$474,856 |
 | Sassy-Bucket | 99 | 102 | 5 | 49% | $13,379,998 | -$1,401,987 |
-| googleplay | 51 | 45 | 6 | 53% | $11,833,428 | -$85,872 |
+| googleplay | 51 | 46 | 5 | 53% | $11,833,428 | -$117,255 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 117 | 66 | 4 | 64% | $9,122,655 | +$376,737 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 29 | 15 | 0 | 66% | $2,603,192 | +$441,923 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Talvez10 | 28 | 26 | 1 | 52% | $2,588,270 | +$59,717 |
+| Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | Woaifacai | 28 | 11 | 2 | 72% | $2,493,049 | +$147,281 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
@@ -114,15 +114,15 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $46,929 | — | ⏳ Pendiente |
 | yabanci | Kings vs. Grizzlies: O/U 228.5 | Under 228.5 | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
 | googleplay | Kings vs. Grizzlies: O/U 228.5 | Over 228.5 | 1.92 (52¢) | $34,592 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $40,713 | — | ⏳ Pendiente |
-| jizzbucket57 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $45,360 | — | ⏳ Pendiente |
-| Talvez10 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $39,359 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $40,713 | -$40,713 | ❌ Perdida |
+| jizzbucket57 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $45,360 | -$45,360 | ❌ Perdida |
+| Talvez10 | Spread: Cavaliers (-9.5) | Bucks | 1.85 (54¢) | $39,359 | -$39,359 | ❌ Perdida |
 | jakepaulthegoat2008 | Kings vs. Grizzlies | Grizzlies | 1.35 (74¢) | $68,680 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
 | 999585 | Mississippi State vs. Texas | Texas | 1.06 (94¢) | $108,526 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cavaliers vs. Bucks | Cavaliers | 1.33 (75¢) | $29,376 | +$9,792 | ✅ Ganada |
-| googleplay | Spread: Cavaliers (-9.5) | Bucks | 1.89 (53¢) | $31,383 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Spread: Cavaliers (-9.5) | Cavaliers | 2.13 (47¢) | $32,456 | — | ⏳ Pendiente |
+| googleplay | Spread: Cavaliers (-9.5) | Bucks | 1.89 (53¢) | $31,383 | -$31,383 | ❌ Perdida |
+| Multicoloured-Serf | Spread: Cavaliers (-9.5) | Cavaliers | 2.13 (47¢) | $32,456 | +$36,599 | ✅ Ganada |
 | 999585 | Mississippi State vs. Texas | Texas | 1.10 (91¢) | $183,012 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Timberwolves vs. Spurs | Spurs | 1.19 (84¢) | $42,297 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: 76ers (-4.5) | 76ers | 2.27 (44¢) | $42,932 | +$54,640 | ✅ Ganada |
