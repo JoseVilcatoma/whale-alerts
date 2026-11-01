@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 20:31:22 (hora de Perú)
+Actualizado: 2026-10-31 20:33:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7324**  ($415,360,930 en total)
+- Apuestas registradas: **7325**  ($415,387,930 en total)
 - Resueltas: **7248** — 4404 ganadas / 2844 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 685
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 520 | 292 | 9 | 64% | $53,726,829 | +$579,568 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 520 | 292 | 10 | 64% | $53,753,829 | +$579,568 |
 | Sassy-Bucket | 99 | 102 | 4 | 49% | $13,347,227 | -$1,401,987 |
 | googleplay | 51 | 40 | 10 | 56% | $11,807,027 | +$176,813 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma State (-3.5) | Iowa State | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
 | yabanci | Penguins vs. Canadiens | Canadiens | 1.12 (89¢) | $44,208 | — | ⏳ Pendiente |
 | 467j6yj | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $33,898 | — | ⏳ Pendiente |
 | ElonSpam | Hawks vs. Pelicans | Pelicans | 1.08 (93¢) | $27,978 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | yabanci | Spread: Hawks (-4.5) | Pelicans | 2.13 (47¢) | $50,290 | — | ⏳ Pendiente |
 | googleplay | Hawks vs. Pelicans | Hawks | 1.54 (65¢) | $48,483 | — | ⏳ Pendiente |
 | googleplay | Spread: 76ers (-1.5) | Hornets | 1.92 (52¢) | $240,264 | -$240,264 | ❌ Perdida |
-| Multicoloured-Serf | Minnesota vs. Indiana | Indiana | 1.49 (67¢) | $31,570 | +$15,549 | ✅ Ganada |
