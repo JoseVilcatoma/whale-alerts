@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-10-31 19:27:01 (hora de Perú)
+Actualizado: 2026-10-31 19:29:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7311**  ($414,467,513 en total)
+- Apuestas registradas: **7312**  ($414,499,356 en total)
 - Resueltas: **7232** — 4394 ganadas / 2838 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Pendientes: 58
 - Apostadores distintos: 684
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 516 | 292 | 11 | 64% | $53,449,486 | +$358,414 |
-| Sassy-Bucket | 99 | 102 | 3 | 49% | $13,315,384 | -$1,401,987 |
+| Sassy-Bucket | 99 | 102 | 4 | 49% | $13,347,227 | -$1,401,987 |
 | googleplay | 51 | 38 | 12 | 57% | $11,807,027 | +$518,123 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 115 | 66 | 6 | 64% | $9,122,655 | +$235,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Thunder vs. Rockets | Thunder | 2.38 (42¢) | $31,843 | — | ⏳ Pendiente |
 | googleplay | Thunder vs. Rockets | Rockets | 1.72 (58¢) | $43,668 | — | ⏳ Pendiente |
 | LlamaEnjoyer | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $32,594 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Rockets (-2.5) | Thunder | 2.13 (47¢) | $25,707 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 684 en total)_
 | Mooseborzoiii | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
 | jakepaulthegoat2008 | 76ers vs. Hornets | 76ers | 1.92 (52¢) | $52,779 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: LOS vs LYON (BO3) - Worlds Group Stage | LYON | 1.56 (64¢) | $50,884 | +$28,622 | ✅ Ganada |
-| thegreatjeff | Will AC Milan win on 2026-10-31? | Yes | 1.28 (78¢) | $30,000 | +$8,462 | ✅ Ganada |

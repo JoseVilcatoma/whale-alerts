@@ -109889,5 +109889,20 @@
     "status": "pending",
     "ultimo_fill": 1793492592,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14792,
+    "timestamp": 1793492927,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nba-okc-hou-2026-10-31",
+    "title": "Thunder vs. Rockets",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 31843.2408,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1793492927,
+    "fills": 1
   }
 ]
