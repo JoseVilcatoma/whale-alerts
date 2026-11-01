@@ -110774,5 +110774,35 @@
     "status": "pending",
     "ultimo_fill": 1793546302,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14948,
+    "timestamp": 1793547293,
+    "username": "MigRodr",
+    "wallet": "0x9a933a2a83188b28efaf1d07d45228ea6ee82793",
+    "slug": "lal-elc-val-2026-11-01-elc",
+    "title": "Will Elche CF win on 2026-11-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 85637.95199999999,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1793547323,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 14949,
+    "timestamp": 1793547304,
+    "username": "Matheobong",
+    "wallet": "0x48b2388d57139e5dcb88cf02021ac2ed79b3e84f",
+    "slug": "sea-juv-nap-2026-11-01-total-2pt5",
+    "title": "Juventus FC vs. SSC Napoli: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25484.0815,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793547304,
+    "fills": 1
   }
 ]

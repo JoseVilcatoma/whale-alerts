@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 10:33:31 (hora de Perú)
+Actualizado: 2026-11-01 10:35:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7370**  ($418,454,410 en total)
+- Apuestas registradas: **7372**  ($418,565,532 en total)
 - Resueltas: **7327** — 4448 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 23
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Matheobong | Juventus FC vs. SSC Napoli: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $25,484 | — | ⏳ Pendiente |
+| MigRodr | Will Elche CF win on 2026-11-01? | No | 1.67 (60¢) | $85,638 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cardinals vs. Cowboys | Cowboys | 1.33 (75¢) | $33,502 | — | ⏳ Pendiente |
 | UpTheBlues | Will Liverpool FC win on 2026-11-01? | No | 1.49 (67¢) | $25,791 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Arsenal FC win on 2026-11-01? | Yes | 2.56 (39¢) | $34,970 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | yabanci | Thunder vs. Rockets: O/U 220.5 | Under 220.5 | 1.96 (51¢) | $32,520 | +$31,245 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Hawks vs. Pelicans | Pelicans | 1.15 (87¢) | $30,496 | +$4,557 | ✅ Ganada |
 | Woaifacai | Thunder vs. Rockets | Rockets | 1.69 (59¢) | $100,036 | +$69,517 | ✅ Ganada |
-| Sassy-Bucket | Thunder vs. Rockets | Thunder | 2.38 (42¢) | $31,843 | -$31,843 | ❌ Perdida |
-| googleplay | Thunder vs. Rockets | Rockets | 1.72 (58¢) | $43,668 | +$31,622 | ✅ Ganada |
