@@ -110144,5 +110144,50 @@
     "status": "pending",
     "ultimo_fill": 1793496909,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 14825,
+    "timestamp": 1793497680,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-okc-hou-2026-10-31-spread-home-8pt5",
+    "title": "Spread: Rockets (-8.5)",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 26401.271600000004,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1793497680,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14826,
+    "timestamp": 1793497800,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-okc-hou-2026-10-31-spread-home-8pt5",
+    "title": "Spread: Rockets (-8.5)",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 47000.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1793497800,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 14827,
+    "timestamp": 1793497480,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "cfb-ohiost-usc-2026-10-31",
+    "title": "Ohio State vs. USC",
+    "outcome": "Ohio State",
+    "side": "BUY",
+    "usd": 35696.073,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1793497480,
+    "fills": 1
   }
 ]
