@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 04:13:47 (hora de Perú)
+Actualizado: 2026-11-01 04:15:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7353**  ($417,605,173 en total)
-- Resueltas: **7323** — 4446 ganadas / 2877 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **7324** — 4446 ganadas / 2878 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,393,761** sobre $416,319,425 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,337** sobre $722,100 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$4,463,428** sobre $416,389,092 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,437** sobre $722,200 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 |---|---|---|---|---|---|---|
 | Woaifacai | Ningbo: Petr Bar Biryukov vs Yaroslav Demin | Petr Bar Biryukov | 1.89 (53¢) | $25,290 | — | ⏳ Pendiente |
 | Woaifacai | Ningbo: Petr Bar Biryukov vs Yaroslav Demin | Yaroslav Demin | 1.41 (71¢) | $70,345 | — | ⏳ Pendiente |
-| thetesterguy | FC Machida Zelvia vs. Gamba Ōsaka: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $69,666 | — | ⏳ Pendiente |
+| thetesterguy | FC Machida Zelvia vs. Gamba Ōsaka: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $69,666 | -$69,666 | ❌ Perdida |
 | ferrariChampions2026 | Titans vs. Bengals | Bengals | 1.15 (87¢) | $33,417 | — | ⏳ Pendiente |
 | Woaifacai | Taipei: Jake Delaney vs Kai-I Wang | Jake Delaney | 1.20 (83¢) | $56,660 | +$11,605 | ✅ Ganada |
 | Woaifacai | Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Elena Pridankina | Himeno Sakatsume | 1.30 (77¢) | $32,126 | +$9,596 | ✅ Ganada |
