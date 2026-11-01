@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 11:24:16 (hora de Perú)
+Actualizado: 2026-11-01 11:26:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7376**  ($418,715,139 en total)
+- Apuestas registradas: **7377**  ($418,746,472 en total)
 - Resueltas: **7331** — 4452 ganadas / 2879 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| thetesterguy | Liverpool FC vs. Arsenal FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $31,333 | — | ⏳ Pendiente |
 | MigRodr | Will Elche CF win on 2026-11-01? | No | 1.67 (60¢) | $37,000 | — | ⏳ Pendiente |
 | gmpm2 | Titans vs. Bengals: O/U 46.5 | Over 46.5 | 2.08 (48¢) | $42,264 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Eintracht Frankfurt vs. Hamburger SV: O/U 3.5 | Under 3.5 | 1.85 (54¢) | $30,821 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $238,343 | -$238,343 | ❌ Perdida |
 | CUTJALENHURTS | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | yabanci | Atlanta Dream vs. Golden State Valkyries | Atlanta Dream | 1.67 (60¢) | $124,200 | -$124,200 | ❌ Perdida |
-| Woaifacai | Thunder vs. Rockets | Rockets | 1.64 (61¢) | $133,947 | +$85,638 | ✅ Ganada |
