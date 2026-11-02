@@ -111841,5 +111841,20 @@
     "status": "pending",
     "ultimo_fill": 1793576371,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15079,
+    "timestamp": 1793577576,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "nfl-ne-mia-2026-11-01",
+    "title": "Patriots vs. Dolphins",
+    "outcome": "Patriots",
+    "side": "BUY",
+    "usd": 86330.4399,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1793577576,
+    "fills": 1
   }
 ]
