@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 03:46:28 (hora de Perú)
+Actualizado: 2026-11-02 03:48:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7484**  ($424,913,681 en total)
-- Resueltas: **7445** — 4530 ganadas / 2915 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Apuestas registradas: **7485**  ($424,944,237 en total)
+- Resueltas: **7448** — 4531 ganadas / 2917 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 687
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,399,592** sobre $423,169,014 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,034** sobre $734,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,448,548** sobre $423,273,060 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,117** sobre $734,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
-| TAIWANNUMBERONE | 48 | 22 | 0 | 69% | $2,640,053 | -$207,231 |
+| TAIWANNUMBERONE | 48 | 22 | 1 | 69% | $2,670,608 | -$207,231 |
 | ndb1 | 30 | 15 | 0 | 67% | $2,639,910 | +$448,403 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.82 (55¢) | $30,555 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | NS13 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Katie Volynets | 1.79 (56¢) | $27,481 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - IEM Beijing Group B | 9z | 1.69 (59¢) | $34,983 | — | ⏳ Pendiente |
@@ -82,9 +83,9 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 | lllllllIlll | Map Handicap: FURIA (-1.5) vs FaZe (+1.5) | FaZe | 1.79 (56¢) | $52,802 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.39 (72¢) | $115,200 | — | ⏳ Pendiente |
 | hovistomaradona | Will Newcastle United FC win on 2026-11-02? | Yes | 2.27 (44¢) | $114,832 | — | ⏳ Pendiente |
-| yabanci | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.79 (56¢) | $40,905 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.85 (54¢) | $37,800 | — | ⏳ Pendiente |
-| 4217893367451 | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | PARIVISION | 2.17 (46¢) | $25,341 | — | ⏳ Pendiente |
+| yabanci | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.79 (56¢) | $40,905 | -$40,905 | ❌ Perdida |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.85 (54¢) | $37,800 | -$37,800 | ❌ Perdida |
+| 4217893367451 | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | PARIVISION | 2.17 (46¢) | $25,341 | +$29,749 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: Aurora Gaming vs Liquid (BO3) - IEM Beijing Group B | Liquid | 1.69 (59¢) | $50,145 | +$34,846 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.41 (71¢) | $51,101 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.27 (44¢) | $66,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.52 (66¢) | $32,039 | +$16,505 | ✅ Ganada |
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.79 (56¢) | $26,463 | +$20,792 | ✅ Ganada |
 | milkteaboba | Chiefs vs. Broncos | Broncos | 2.27 (44¢) | $106,828 | +$135,963 | ✅ Ganada |
-| Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.79 (56¢) | $102,202 | -$102,202 | ❌ Perdida |
