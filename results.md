@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 04:19:49 (hora de Perú)
+Actualizado: 2026-11-02 04:21:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7486**  ($424,970,637 en total)
+- Apuestas registradas: **7487**  ($425,064,861 en total)
 - Resueltas: **7448** — 4531 ganadas / 2917 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 687
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
 | BrotherObama | 51 | 54 | 2 | 49% | $4,623,036 | -$111,283 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
-| Woaifacai | 40 | 12 | 0 | 77% | $3,746,405 | +$689,169 |
+| Woaifacai | 40 | 12 | 1 | 77% | $3,840,629 | +$689,169 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.08 (93¢) | $94,224 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.82 (55¢) | $30,555 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Chiefs (-1.5) | Chiefs | 1.45 (69¢) | $34,452 | -$34,452 | ❌ Perdida |
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.37 (73¢) | $34,761 | +$12,857 | ✅ Ganada |
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.52 (66¢) | $32,039 | +$16,505 | ✅ Ganada |
-| Sassy-Bucket | Chargers vs. Rams | Rams | 1.79 (56¢) | $26,463 | +$20,792 | ✅ Ganada |
