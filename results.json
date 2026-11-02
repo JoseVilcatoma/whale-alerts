@@ -112591,5 +112591,20 @@
     "status": "pending",
     "ultimo_fill": 1793626629,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15203,
+    "timestamp": 1793627018,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nba-nop-mem-2026-11-02",
+    "title": "Pelicans vs. Grizzlies",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 25256.9988,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "ultimo_fill": 1793627018,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 08:42:55 (hora de Perú)
+Actualizado: 2026-11-02 08:44:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7491**  ($425,243,568 en total)
+- Apuestas registradas: **7492**  ($425,268,825 en total)
 - Resueltas: **7456** — 4536 ganadas / 2920 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 687
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Pelicans vs. Grizzlies | Pelicans | 2.78 (36¢) | $25,257 | — | ⏳ Pendiente |
 | RJW1 | Spread: Rockets (-4.5) | Rockets | 1.92 (52¢) | $70,270 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Luca Van Assche vs Mariano Navone | Luca Van Assche | 1.11 (90¢) | $26,572 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.32 (76¢) | $30,760 | +$9,714 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 | 999585 | Chargers vs. Rams | Rams | 1.16 (86¢) | $206,836 | +$33,671 | ✅ Ganada |
 | KaneAnalytics | Patriots vs. Dolphins | Dolphins | 1.67 (60¢) | $49,356 | -$49,356 | ❌ Perdida |
 | TAIWANNUMBERONE | Patriots vs. Dolphins | Dolphins | 1.69 (59¢) | $31,880 | -$31,880 | ❌ Perdida |
-| CUTJALENHURTS | Patriots vs. Dolphins | Dolphins | 1.69 (59¢) | $26,222 | -$26,222 | ❌ Perdida |
