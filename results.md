@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 23:14:46 (hora de Perú)
+Actualizado: 2026-11-01 23:16:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7467**  ($424,114,820 en total)
-- Resueltas: **7419** — 4513 ganadas / 2906 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **7421** — 4515 ganadas / 2906 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 686
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,476,970** sobre $421,840,807 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,308** sobre $731,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,370,613** sobre $421,969,316 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,141** sobre $731,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 104 | 104 | 3 | 50% | $13,671,792 | -$1,407,697 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 121 | 67 | 3 | 64% | $9,320,014 | +$403,160 |
+| Lakersfan111 | 123 | 67 | 1 | 65% | $9,320,014 | +$509,517 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | ferrariChampions2026 | 119 | 63 | 0 | 65% | $7,817,005 | +$480,534 |
@@ -89,9 +89,9 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | R2D2RS | Spread: Commanders (-6.5) | Eagles | 1.85 (54¢) | $45,481 | — | ⏳ Pendiente |
 | sinasinner | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | sinasinner | Spread: Commanders (-5.5) | Commanders | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.82 (55¢) | $92,486 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.82 (55¢) | $92,486 | +$75,670 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 2.00 (50¢) | $27,410 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.85 (54¢) | $36,023 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.85 (54¢) | $36,023 | +$30,686 | ✅ Ganada |
 | TAIWANNUMBERONE | Chiefs vs. Broncos | Broncos | 1.37 (73¢) | $57,241 | +$21,171 | ✅ Ganada |
 | ch27er | Raptors vs. Lakers | Lakers | 1.69 (59¢) | $45,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chiefs vs. Broncos | Chiefs | 1.39 (72¢) | $30,255 | -$30,255 | ❌ Perdida |
