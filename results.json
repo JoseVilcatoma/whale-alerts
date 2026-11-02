@@ -112456,5 +112456,20 @@
     "status": "pending",
     "ultimo_fill": 1793606580,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15181,
+    "timestamp": 1793607585,
+    "username": "NS13",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "wta-volynet-sasnovi-2026-11-02",
+    "title": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+    "outcome": "Katie Volynets",
+    "side": "BUY",
+    "usd": 27480.588800000005,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1793607585,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 03:19:12 (hora de Perú)
+Actualizado: 2026-11-02 03:21:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7482**  ($424,857,801 en total)
+- Apuestas registradas: **7483**  ($424,885,281 en total)
 - Resueltas: **7444** — 4529 ganadas / 2915 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 687
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NS13 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Katie Volynets | 1.79 (56¢) | $27,481 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - IEM Beijing Group B | 9z | 1.69 (59¢) | $34,983 | — | ⏳ Pendiente |
 | drainedandpoor | Counter-Strike: 9z vs BetBoom Team (BO3) - IEM Beijing Group B | 9z | 1.69 (59¢) | $26,550 | — | ⏳ Pendiente |
 | CornerGaming | Will Newcastle United FC win on 2026-11-02? | No | 1.82 (55¢) | $25,652 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 | milkteaboba | Chiefs vs. Broncos | Broncos | 2.27 (44¢) | $106,828 | +$135,963 | ✅ Ganada |
 | Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.79 (56¢) | $102,202 | -$102,202 | ❌ Perdida |
 | ferrariChampions2026 | Chiefs vs. Broncos | Broncos | 2.33 (43¢) | $83,109 | +$110,168 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Rams | Chargers | 2.50 (40¢) | $28,780 | -$28,780 | ❌ Perdida |
