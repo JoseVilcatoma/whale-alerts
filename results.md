@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 04:28:13 (hora de Perú)
+Actualizado: 2026-11-02 04:30:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7488**  ($425,115,966 en total)
+- Apuestas registradas: **7489**  ($425,146,726 en total)
 - Resueltas: **7448** — 4531 ganadas / 2917 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 687
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 533 | 302 | 5 | 64% | $54,983,464 | +$439,522 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 533 | 302 | 6 | 64% | $55,014,224 | +$439,522 |
 | Sassy-Bucket | 104 | 105 | 2 | 50% | $13,671,792 | -$1,579,345 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.32 (76¢) | $30,760 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.82 (55¢) | $51,105 | — | ⏳ Pendiente |
 | Woaifacai | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.08 (93¢) | $94,224 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 | CUTJALENHURTS | Patriots vs. Dolphins | Dolphins | 1.69 (59¢) | $26,222 | -$26,222 | ❌ Perdida |
 | thetesterguy | Nashville SC vs. New York Red Bulls: O/U 3.5 | Over 3.5 | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Chiefs (-1.5) | Chiefs | 1.45 (69¢) | $34,452 | -$34,452 | ❌ Perdida |
-| Sassy-Bucket | Chargers vs. Rams | Rams | 1.37 (73¢) | $34,761 | +$12,857 | ✅ Ganada |
