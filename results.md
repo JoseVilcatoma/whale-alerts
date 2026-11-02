@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 09:01:29 (hora de Perú)
+Actualizado: 2026-11-02 09:03:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7494**  ($425,336,502 en total)
-- Resueltas: **7461** — 4539 ganadas / 2922 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **7462** — 4540 ganadas / 2922 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 687
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,396,057** sobre $423,908,621 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,238** sobre $735,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,393,104** sobre $423,935,193 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,227** sobre $735,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 | NS13 | Suns vs. Warriors | Warriors | 1.72 (58¢) | $34,246 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Pelicans vs. Grizzlies | Pelicans | 2.78 (36¢) | $25,257 | — | ⏳ Pendiente |
 | RJW1 | Spread: Rockets (-4.5) | Rockets | 1.92 (52¢) | $70,270 | — | ⏳ Pendiente |
-| 999585 | Rolex Paris Masters: Luca Van Assche vs Mariano Navone | Luca Van Assche | 1.11 (90¢) | $26,572 | — | ⏳ Pendiente |
+| 999585 | Rolex Paris Masters: Luca Van Assche vs Mariano Navone | Luca Van Assche | 1.11 (90¢) | $26,572 | +$2,952 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.32 (76¢) | $30,760 | +$9,714 | ✅ Ganada |
 | NS13 | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.82 (55¢) | $51,105 | -$51,105 | ❌ Perdida |
 | Woaifacai | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.08 (93¢) | $94,224 | +$7,092 | ✅ Ganada |
