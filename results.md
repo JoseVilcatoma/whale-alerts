@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 00:28:50 (hora de Perú)
+Actualizado: 2026-11-02 00:30:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7472**  ($424,345,206 en total)
-- Resueltas: **7440** — 4527 ganadas / 2913 perdidas (**61%** de acierto)
+- Apuestas registradas: **7473**  ($424,386,111 en total)
+- Resueltas: **7441** — 4527 ganadas / 2914 perdidas (**61%** de acierto)
 - Pendientes: 10
 - Apostadores distintos: 686
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,394,623** sobre $422,995,729 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,973** sobre $733,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,428,593** sobre $423,029,699 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,073** sobre $733,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.79 (56¢) | $40,905 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.85 (54¢) | $37,800 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | PARIVISION | 2.17 (46¢) | $25,341 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: Aurora Gaming vs Liquid (BO3) - IEM Beijing Group B | Liquid | 1.69 (59¢) | $50,145 | — | ⏳ Pendiente |
@@ -78,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.27 (44¢) | $66,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Aurora Gaming vs Liquid (BO3) - IEM Beijing Group B | Aurora Gaming | 1.43 (70¢) | $28,000 | — | ⏳ Pendiente |
 | ndb1 | Eagles vs. Commanders | Commanders | 1.18 (85¢) | $36,718 | +$6,480 | ✅ Ganada |
-| yabanci | Counter-Strike: Legacy vs TheMongolz (BO3) - IEM Beijing Group A | Legacy | 1.32 (76¢) | $33,970 | — | ⏳ Pendiente |
+| yabanci | Counter-Strike: Legacy vs TheMongolz (BO3) - IEM Beijing Group A | Legacy | 1.32 (76¢) | $33,970 | -$33,970 | ❌ Perdida |
 | TAIWANNUMBERONE | Eagles vs. Commanders | Commanders | 1.39 (72¢) | $54,457 | +$21,178 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Raptors vs. Lakers | Lakers | 1.16 (86¢) | $30,100 | +$4,900 | ✅ Ganada |
 | cosmicxbt | Eagles vs. Commanders | Commanders | 1.56 (64¢) | $55,804 | +$31,390 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Dolphins | Patriots | 1.32 (76¢) | $33,662 | +$10,630 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Broncos | Broncos | 2.04 (49¢) | $45,119 | +$46,960 | ✅ Ganada |
 | Bibberino | Titans vs. Bengals | Titans | 1.54 (65¢) | $65,000 | -$65,000 | ❌ Perdida |
-| sinasinner | Spread: Chiefs (-1.5) | Broncos | 1.89 (53¢) | $53,000 | +$47,000 | ✅ Ganada |

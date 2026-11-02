@@ -112198,7 +112198,7 @@
     "side": "BUY",
     "usd": 33969.9784,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793589586,
     "fills": 1
   },
@@ -112305,6 +112305,21 @@
     "odds_at_bet": 54,
     "status": "pending",
     "ultimo_fill": 1793597150,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15167,
+    "timestamp": 1793597354,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "cs2-prv-g2-2026-11-02",
+    "title": "Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 40904.5033,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1793597354,
     "fills": 1
   }
 ]
