@@ -112291,5 +112291,20 @@
     "status": "pending",
     "ultimo_fill": 1793596930,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15166,
+    "timestamp": 1793597150,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "cs2-prv-g2-2026-11-02",
+    "title": "Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 37800.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793597150,
+    "fills": 1
   }
 ]
