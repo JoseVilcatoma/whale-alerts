@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 13:45:25 (hora de Perú)
+Actualizado: 2026-11-02 13:47:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7502**  ($425,622,674 en total)
+- Apuestas registradas: **7503**  ($425,682,845 en total)
 - Resueltas: **7464** — 4542 ganadas / 2922 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 688
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SineNooneEI | Hawks vs. Pacers | Hawks | 1.28 (78¢) | $60,171 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov | Karen Khachanov | 1.22 (82¢) | $36,900 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Valladolid CF vs. CD Leganés end in a draw? | No | 1.18 (85¢) | $31,228 | — | ⏳ Pendiente |
 | Moneyloverman | Hawks vs. Pacers | Hawks | 1.47 (68¢) | $40,496 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | TAIWANNUMBERONE | Chiefs vs. Broncos | Broncos | 1.37 (73¢) | $57,241 | +$21,171 | ✅ Ganada |
 | ch27er | Raptors vs. Lakers | Lakers | 1.69 (59¢) | $45,000 | +$31,271 | ✅ Ganada |
 | ferrariChampions2026 | Chiefs vs. Broncos | Chiefs | 1.39 (72¢) | $30,255 | -$30,255 | ❌ Perdida |
-| Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.37 (73¢) | $38,202 | -$38,202 | ❌ Perdida |
