@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 23:51:51 (hora de Perú)
+Actualizado: 2026-11-01 23:53:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7469**  ($424,231,920 en total)
-- Resueltas: **7437** — 4524 ganadas / 2913 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **7438** — 4525 ganadas / 2913 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 686
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,453,400** sobre $422,895,137 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,147** sobre $733,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,430,794** sobre $422,920,629 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,059** sobre $733,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -120,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Rams | Chargers | 2.50 (40¢) | $28,780 | -$28,780 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.28 (78¢) | $39,000 | +$11,000 | ✅ Ganada |
 | 999585 | Chiefs vs. Broncos | Chiefs | 1.54 (65¢) | $122,779 | -$122,779 | ❌ Perdida |
-| RJW1 | Spread: Lakers (-2.5) | Lakers | 1.89 (53¢) | $25,492 | — | ⏳ Pendiente |
+| RJW1 | Spread: Lakers (-2.5) | Lakers | 1.89 (53¢) | $25,492 | +$22,606 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.27 (79¢) | $44,263 | +$11,766 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Bengals | Bengals | 1.12 (89¢) | $74,843 | +$9,250 | ✅ Ganada |
 | TAIWANNUMBERONE | Titans vs. Bengals | Bengals | 1.14 (88¢) | $30,911 | +$4,215 | ✅ Ganada |
