@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 03:27:35 (hora de Perú)
+Actualizado: 2026-11-02 03:29:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7483**  ($424,885,281 en total)
-- Resueltas: **7444** — 4529 ganadas / 2915 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **7445** — 4530 ganadas / 2915 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 687
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,416,871** sobre $423,135,473 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,086** sobre $734,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,399,592** sobre $423,169,014 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,034** sobre $734,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 | CornerGaming | Will Newcastle United FC win on 2026-11-02? | No | 1.82 (55¢) | $25,652 | — | ⏳ Pendiente |
 | hovistomaradona | Will Newcastle United FC win on 2026-11-02? | Yes | 2.22 (45¢) | $40,500 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Prudential Hong Kong Tennis Open: Claire Liu vs Tatiana Prozorova | Claire Liu | 1.18 (85¢) | $27,629 | +$4,876 | ✅ Ganada |
-| Kkunn | Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter | Katie Boulter | 1.52 (66¢) | $33,541 | — | ⏳ Pendiente |
+| Kkunn | Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter | Katie Boulter | 1.52 (66¢) | $33,541 | +$17,279 | ✅ Ganada |
 | lllllllIlll | Map Handicap: FURIA (-1.5) vs FaZe (+1.5) | FaZe | 1.79 (56¢) | $52,802 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.39 (72¢) | $115,200 | — | ⏳ Pendiente |
 | hovistomaradona | Will Newcastle United FC win on 2026-11-02? | Yes | 2.27 (44¢) | $114,832 | — | ⏳ Pendiente |
