@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 01:51:29 (hora de Perú)
+Actualizado: 2026-11-02 01:53:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7478**  ($424,730,115 en total)
+- Apuestas registradas: **7479**  ($424,770,615 en total)
 - Resueltas: **7443** — 4528 ganadas / 2915 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 686
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hovistomaradona | Will Newcastle United FC win on 2026-11-02? | Yes | 2.22 (45¢) | $40,500 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Prudential Hong Kong Tennis Open: Claire Liu vs Tatiana Prozorova | Claire Liu | 1.18 (85¢) | $27,629 | — | ⏳ Pendiente |
 | Kkunn | Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter | Katie Boulter | 1.52 (66¢) | $33,541 | — | ⏳ Pendiente |
 | lllllllIlll | Map Handicap: FURIA (-1.5) vs FaZe (+1.5) | FaZe | 1.79 (56¢) | $52,802 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.28 (78¢) | $39,000 | +$11,000 | ✅ Ganada |
 | 999585 | Chiefs vs. Broncos | Chiefs | 1.54 (65¢) | $122,779 | -$122,779 | ❌ Perdida |
 | RJW1 | Spread: Lakers (-2.5) | Lakers | 1.89 (53¢) | $25,492 | +$22,606 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.27 (79¢) | $44,263 | +$11,766 | ✅ Ganada |
