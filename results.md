@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 19:06:20 (hora de Perú)
+Actualizado: 2026-11-01 19:08:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7442**  ($422,797,721 en total)
-- Resueltas: **7384** — 4490 ganadas / 2894 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **7386** — 4492 ganadas / 2894 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,545,640** sobre $419,885,320 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,427** sobre $728,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,538,785** sobre $419,944,008 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,403** sobre $728,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | KaneAnalytics | Patriots vs. Dolphins | Dolphins | 1.67 (60¢) | $49,356 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Patriots vs. Dolphins | Dolphins | 1.69 (59¢) | $31,880 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Patriots vs. Dolphins | Dolphins | 1.69 (59¢) | $26,222 | — | ⏳ Pendiente |
-| thetesterguy | Nashville SC vs. New York Red Bulls: O/U 3.5 | Over 3.5 | 1.12 (89¢) | $26,700 | — | ⏳ Pendiente |
+| thetesterguy | Nashville SC vs. New York Red Bulls: O/U 3.5 | Over 3.5 | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Chiefs (-1.5) | Chiefs | 1.45 (69¢) | $34,452 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.37 (73¢) | $34,761 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.52 (66¢) | $32,039 | — | ⏳ Pendiente |
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | sinasinner | Spread: Chiefs (-1.5) | Broncos | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | beautifulobsession | Chiefs vs. Broncos | Broncos | 2.00 (50¢) | $47,000 | — | ⏳ Pendiente |
 | Woaifacai | Chargers vs. Rams | Rams | 1.33 (75¢) | $67,466 | — | ⏳ Pendiente |
-| thetesterguy | Nashville SC vs. New York Red Bulls: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $31,988 | — | ⏳ Pendiente |
+| thetesterguy | Nashville SC vs. New York Red Bulls: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $31,988 | +$3,554 | ✅ Ganada |
 | gmpm2 | Chargers vs. Rams | Rams | 1.45 (69¢) | $139,771 | — | ⏳ Pendiente |
 | ethanaz | Chargers vs. Rams: O/U 44.5 | Under 44.5 | 2.22 (45¢) | $26,832 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Titans vs. Bengals | Titans | 1.59 (63¢) | $27,984 | -$27,984 | ❌ Perdida |
