@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 04:45:02 (hora de Perú)
+Actualizado: 2026-11-02 08:01:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7489**  ($425,146,726 en total)
-- Resueltas: **7448** — 4531 ganadas / 2917 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **7456** — 4536 ganadas / 2920 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 687
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,448,548** sobre $423,273,060 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,117** sobre $734,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,430,869** sobre $423,681,460 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,247** sobre $735,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 533 | 302 | 6 | 64% | $55,014,224 | +$439,522 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 535 | 303 | 3 | 64% | $55,014,224 | +$417,852 |
 | Sassy-Bucket | 104 | 105 | 2 | 50% | $13,671,792 | -$1,579,345 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
 | BrotherObama | 51 | 54 | 2 | 49% | $4,623,036 | -$111,283 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
-| Woaifacai | 40 | 12 | 1 | 77% | $3,840,629 | +$689,169 |
+| Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -71,21 +71,21 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.32 (76¢) | $30,760 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.32 (76¢) | $30,760 | +$9,714 | ✅ Ganada |
 | NS13 | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.82 (55¢) | $51,105 | — | ⏳ Pendiente |
-| Woaifacai | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.08 (93¢) | $94,224 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
+| Woaifacai | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.08 (93¢) | $94,224 | +$7,092 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.14 (88¢) | $26,400 | +$3,600 | ✅ Ganada |
 | TAIWANNUMBERONE | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.82 (55¢) | $30,555 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
-| NS13 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Katie Volynets | 1.79 (56¢) | $27,481 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - IEM Beijing Group B | 9z | 1.69 (59¢) | $34,983 | — | ⏳ Pendiente |
-| drainedandpoor | Counter-Strike: 9z vs BetBoom Team (BO3) - IEM Beijing Group B | 9z | 1.69 (59¢) | $26,550 | — | ⏳ Pendiente |
+| NS13 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Katie Volynets | 1.79 (56¢) | $27,481 | -$27,481 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - IEM Beijing Group B | 9z | 1.69 (59¢) | $34,983 | -$34,983 | ❌ Perdida |
+| drainedandpoor | Counter-Strike: 9z vs BetBoom Team (BO3) - IEM Beijing Group B | 9z | 1.69 (59¢) | $26,550 | -$26,550 | ❌ Perdida |
 | CornerGaming | Will Newcastle United FC win on 2026-11-02? | No | 1.82 (55¢) | $25,652 | — | ⏳ Pendiente |
 | hovistomaradona | Will Newcastle United FC win on 2026-11-02? | Yes | 2.22 (45¢) | $40,500 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Prudential Hong Kong Tennis Open: Claire Liu vs Tatiana Prozorova | Claire Liu | 1.18 (85¢) | $27,629 | +$4,876 | ✅ Ganada |
 | Kkunn | Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter | Katie Boulter | 1.52 (66¢) | $33,541 | +$17,279 | ✅ Ganada |
-| lllllllIlll | Map Handicap: FURIA (-1.5) vs FaZe (+1.5) | FaZe | 1.79 (56¢) | $52,802 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.39 (72¢) | $115,200 | — | ⏳ Pendiente |
+| lllllllIlll | Map Handicap: FURIA (-1.5) vs FaZe (+1.5) | FaZe | 1.79 (56¢) | $52,802 | +$41,487 | ✅ Ganada |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.39 (72¢) | $115,200 | +$44,800 | ✅ Ganada |
 | hovistomaradona | Will Newcastle United FC win on 2026-11-02? | Yes | 2.27 (44¢) | $114,832 | — | ⏳ Pendiente |
 | yabanci | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.79 (56¢) | $40,905 | -$40,905 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.85 (54¢) | $37,800 | -$37,800 | ❌ Perdida |
