@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 23:45:30 (hora de Perú)
+Actualizado: 2026-11-01 23:47:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7469**  ($424,231,920 en total)
-- Resueltas: **7421** — 4515 ganadas / 2906 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **7437** — 4524 ganadas / 2913 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 686
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,370,613** sobre $421,969,316 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,141** sobre $731,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,453,400** sobre $422,895,137 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,147** sobre $733,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,15 +24,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 531 | 302 | 5 | 64% | $54,922,080 | +$363,544 |
-| Sassy-Bucket | 104 | 104 | 3 | 50% | $13,671,792 | -$1,407,697 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 533 | 302 | 3 | 64% | $54,922,080 | +$439,522 |
+| Sassy-Bucket | 104 | 105 | 2 | 50% | $13,671,792 | -$1,579,345 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 123 | 67 | 1 | 65% | $9,320,014 | +$509,517 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | ferrariChampions2026 | 119 | 63 | 0 | 65% | $7,817,005 | +$480,534 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 91 | 1 | 52% | $7,625,969 | -$597,017 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 92 | 0 | 52% | $7,625,969 | -$624,427 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -41,19 +41,19 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ethanaz | 63 | 30 | 0 | 68% | $5,464,378 | -$272,119 |
-| maz26 | 42 | 26 | 1 | 62% | $4,724,372 | +$647,524 |
+| maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
 | BrotherObama | 51 | 54 | 2 | 49% | $4,623,036 | -$111,283 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
 | Woaifacai | 40 | 12 | 0 | 77% | $3,746,405 | +$689,169 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
-| cosmicxbt | 22 | 9 | 1 | 71% | $3,408,134 | -$424,738 |
+| cosmicxbt | 23 | 9 | 0 | 72% | $3,408,134 | -$393,348 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
-| TAIWANNUMBERONE | 47 | 22 | 1 | 68% | $2,640,053 | -$228,409 |
-| ndb1 | 29 | 15 | 1 | 66% | $2,639,910 | +$441,923 |
+| TAIWANNUMBERONE | 48 | 22 | 0 | 69% | $2,640,053 | -$207,231 |
+| ndb1 | 30 | 15 | 0 | 67% | $2,639,910 | +$448,403 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -74,25 +74,25 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.41 (71¢) | $51,101 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.27 (44¢) | $66,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Aurora Gaming vs Liquid (BO3) - IEM Beijing Group B | Aurora Gaming | 1.43 (70¢) | $28,000 | — | ⏳ Pendiente |
-| ndb1 | Eagles vs. Commanders | Commanders | 1.18 (85¢) | $36,718 | — | ⏳ Pendiente |
+| ndb1 | Eagles vs. Commanders | Commanders | 1.18 (85¢) | $36,718 | +$6,480 | ✅ Ganada |
 | yabanci | Counter-Strike: Legacy vs TheMongolz (BO3) - IEM Beijing Group A | Legacy | 1.32 (76¢) | $33,970 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Eagles vs. Commanders | Commanders | 1.39 (72¢) | $54,457 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Eagles vs. Commanders | Commanders | 1.39 (72¢) | $54,457 | +$21,178 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Raptors vs. Lakers | Lakers | 1.16 (86¢) | $30,100 | — | ⏳ Pendiente |
-| cosmicxbt | Eagles vs. Commanders | Commanders | 1.56 (64¢) | $55,804 | — | ⏳ Pendiente |
-| Sassy-Bucket | Eagles vs. Commanders | Eagles | 1.75 (57¢) | $171,648 | — | ⏳ Pendiente |
-| EdZachary | Eagles vs. Commanders | Commanders | 2.56 (39¢) | $32,764 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Eagles vs. Commanders | Eagles | 1.25 (80¢) | $30,341 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Commanders | Commanders | 1.67 (60¢) | $43,715 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Eagles vs. Commanders | Commanders | 1.75 (57¢) | $82,675 | — | ⏳ Pendiente |
-| gmpm2 | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 1.92 (52¢) | $55,380 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Commanders: O/U 42.5 | Under 42.5 | 1.82 (55¢) | $57,243 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Eagles vs. Commanders: O/U 40.5 | Under 40.5 | 2.04 (49¢) | $83,797 | — | ⏳ Pendiente |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Eagles vs. Commanders: O/U 42.5 | Over 42.5 | 2.22 (45¢) | $87,187 | — | ⏳ Pendiente |
-| R2D2RS | Spread: Commanders (-6.5) | Eagles | 1.85 (54¢) | $45,481 | — | ⏳ Pendiente |
-| sinasinner | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
-| sinasinner | Spread: Commanders (-5.5) | Commanders | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
+| cosmicxbt | Eagles vs. Commanders | Commanders | 1.56 (64¢) | $55,804 | +$31,390 | ✅ Ganada |
+| Sassy-Bucket | Eagles vs. Commanders | Eagles | 1.75 (57¢) | $171,648 | -$171,648 | ❌ Perdida |
+| EdZachary | Eagles vs. Commanders | Commanders | 2.56 (39¢) | $32,764 | +$51,247 | ✅ Ganada |
+| Multicoloured-Serf | Eagles vs. Commanders | Eagles | 1.25 (80¢) | $30,341 | -$30,341 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Commanders | Commanders | 1.67 (60¢) | $43,715 | +$29,143 | ✅ Ganada |
+| Multicoloured-Serf | Eagles vs. Commanders | Commanders | 1.75 (57¢) | $82,675 | +$62,369 | ✅ Ganada |
+| gmpm2 | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 1.92 (52¢) | $55,380 | -$55,380 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Commanders: O/U 42.5 | Under 42.5 | 1.82 (55¢) | $57,243 | +$46,835 | ✅ Ganada |
+| Multicoloured-Serf | Eagles vs. Commanders: O/U 40.5 | Under 40.5 | 2.04 (49¢) | $83,797 | +$87,218 | ✅ Ganada |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Eagles vs. Commanders: O/U 42.5 | Over 42.5 | 2.22 (45¢) | $87,187 | -$87,187 | ❌ Perdida |
+| R2D2RS | Spread: Commanders (-6.5) | Eagles | 1.85 (54¢) | $45,481 | -$45,481 | ❌ Perdida |
+| sinasinner | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 1.96 (51¢) | $30,600 | -$30,600 | ❌ Perdida |
+| sinasinner | Spread: Commanders (-5.5) | Commanders | 1.96 (51¢) | $30,600 | +$29,400 | ✅ Ganada |
 | jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.82 (55¢) | $92,486 | +$75,670 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 2.00 (50¢) | $27,410 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 2.00 (50¢) | $27,410 | -$27,410 | ❌ Perdida |
 | jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.85 (54¢) | $36,023 | +$30,686 | ✅ Ganada |
 | TAIWANNUMBERONE | Chiefs vs. Broncos | Broncos | 1.37 (73¢) | $57,241 | +$21,171 | ✅ Ganada |
 | ch27er | Raptors vs. Lakers | Lakers | 1.69 (59¢) | $45,000 | — | ⏳ Pendiente |
