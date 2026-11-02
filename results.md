@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 13:01:23 (hora de Perú)
+Actualizado: 2026-11-02 13:03:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7500**  ($425,554,546 en total)
+- Apuestas registradas: **7501**  ($425,585,774 en total)
 - Resueltas: **7464** — 4542 ganadas / 2922 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 688
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 535 | 303 | 3 | 64% | $55,014,224 | +$417,852 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 535 | 303 | 4 | 64% | $55,045,452 | +$417,852 |
 | Sassy-Bucket | 104 | 105 | 2 | 50% | $13,671,792 | -$1,579,345 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Valladolid CF vs. CD Leganés end in a draw? | No | 1.18 (85¢) | $31,228 | — | ⏳ Pendiente |
 | Moneyloverman | Hawks vs. Pacers | Hawks | 1.47 (68¢) | $40,496 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Thunder vs. Cavaliers | Cavaliers | 1.64 (61¢) | $41,049 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-11-02? | Yes | 2.38 (42¢) | $27,279 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | ferrariChampions2026 | Chiefs vs. Broncos | Chiefs | 1.39 (72¢) | $30,255 | -$30,255 | ❌ Perdida |
 | Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.37 (73¢) | $38,202 | -$38,202 | ❌ Perdida |
 | Woaifacai | Patriots vs. Dolphins | Patriots | 1.08 (93¢) | $86,330 | +$6,498 | ✅ Ganada |
-| Jittz | Patriots vs. Dolphins | Patriots | 1.18 (85¢) | $28,179 | +$4,973 | ✅ Ganada |
