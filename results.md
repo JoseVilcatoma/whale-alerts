@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 12:59:17 (hora de Perú)
+Actualizado: 2026-11-02 13:01:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7499**  ($425,514,050 en total)
+- Apuestas registradas: **7500**  ($425,554,546 en total)
 - Resueltas: **7464** — 4542 ganadas / 2922 perdidas (**61%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 687
+- Pendientes: 14
+- Apostadores distintos: 688
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 
-_(mostrando los 40 de mayor monto, de 687 en total)_
+_(mostrando los 40 de mayor monto, de 688 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Moneyloverman | Hawks vs. Pacers | Hawks | 1.47 (68¢) | $40,496 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Thunder vs. Cavaliers | Cavaliers | 1.64 (61¢) | $41,049 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-11-02? | Yes | 2.38 (42¢) | $27,279 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Mattia Bellucci vs Lorenzo Sonego | Mattia Bellucci | 1.06 (94¢) | $51,501 | +$3,287 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 | Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.37 (73¢) | $38,202 | -$38,202 | ❌ Perdida |
 | Woaifacai | Patriots vs. Dolphins | Patriots | 1.08 (93¢) | $86,330 | +$6,498 | ✅ Ganada |
 | Jittz | Patriots vs. Dolphins | Patriots | 1.18 (85¢) | $28,179 | +$4,973 | ✅ Ganada |
-| TAIWANNUMBERONE | Patriots vs. Dolphins | Patriots | 1.23 (81¢) | $48,879 | +$11,465 | ✅ Ganada |
