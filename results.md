@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 12:15:35 (hora de Perú)
+Actualizado: 2026-11-02 12:17:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7497**  ($425,445,723 en total)
+- Apuestas registradas: **7498**  ($425,473,002 en total)
 - Resueltas: **7464** — 4542 ganadas / 2922 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 687
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 123 | 68 | 0 | 64% | $9,320,014 | +$481,517 |
-| 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
+| 3edmond.dantes | 33 | 24 | 1 | 58% | $8,007,013 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | ferrariChampions2026 | 119 | 63 | 1 | 65% | $7,850,436 | +$480,534 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 92 | 0 | 52% | $7,625,969 | -$624,427 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | Will ACF Fiorentina win on 2026-11-02? | Yes | 2.38 (42¢) | $27,279 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Mattia Bellucci vs Lorenzo Sonego | Mattia Bellucci | 1.06 (94¢) | $51,501 | +$3,287 | ✅ Ganada |
 | SineNooneEI | Hawks vs. Pacers | Hawks | 1.56 (64¢) | $31,411 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Casper Ruud vs Juan Manuel Cerundolo | Casper Ruud | 1.20 (83¢) | $26,310 | +$5,389 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 | Jittz | Patriots vs. Dolphins | Patriots | 1.18 (85¢) | $28,179 | +$4,973 | ✅ Ganada |
 | TAIWANNUMBERONE | Patriots vs. Dolphins | Patriots | 1.23 (81¢) | $48,879 | +$11,465 | ✅ Ganada |
 | CUTJALENHURTS | Patriots vs. Dolphins | Patriots | 1.23 (81¢) | $32,400 | +$7,600 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chiefs vs. Broncos: O/U 52.5 | Under 52.5 | 1.79 (56¢) | $25,200 | +$19,800 | ✅ Ganada |
