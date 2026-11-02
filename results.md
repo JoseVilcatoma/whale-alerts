@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 10:34:41 (hora de Perú)
+Actualizado: 2026-11-02 10:36:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7496**  ($425,394,222 en total)
-- Resueltas: **7462** — 4540 ganadas / 2922 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **7463** — 4541 ganadas / 2922 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 687
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,393,104** sobre $423,935,193 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,227** sobre $735,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,387,716** sobre $423,961,503 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,206** sobre $736,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | SineNooneEI | Hawks vs. Pacers | Hawks | 1.56 (64¢) | $31,411 | — | ⏳ Pendiente |
-| 999585 | Rolex Paris Masters: Casper Ruud vs Juan Manuel Cerundolo | Casper Ruud | 1.20 (83¢) | $26,310 | — | ⏳ Pendiente |
+| 999585 | Rolex Paris Masters: Casper Ruud vs Juan Manuel Cerundolo | Casper Ruud | 1.20 (83¢) | $26,310 | +$5,389 | ✅ Ganada |
 | ferrariChampions2026 | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $33,431 | — | ⏳ Pendiente |
 | NS13 | Suns vs. Warriors | Warriors | 1.72 (58¢) | $34,246 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Pelicans vs. Grizzlies | Pelicans | 2.78 (36¢) | $25,257 | — | ⏳ Pendiente |
