@@ -110983,7 +110983,7 @@
     "side": "BUY",
     "usd": 40850.3256,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793552271,
     "fills": 1
   },
@@ -111900,6 +111900,21 @@
     "odds_at_bet": 59,
     "status": "pending",
     "ultimo_fill": 1793578871,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15093,
+    "timestamp": 1793579119,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-kc-den-2026-11-01",
+    "title": "Chiefs vs. Broncos",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 57240.8549,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1793579119,
     "fills": 1
   }
 ]

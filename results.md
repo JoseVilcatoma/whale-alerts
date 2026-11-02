@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 19:24:43 (hora de Perú)
+Actualizado: 2026-11-01 19:26:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7445**  ($422,911,179 en total)
-- Resueltas: **7394** — 4499 ganadas / 2895 perdidas (**61%** de acierto)
+- Apuestas registradas: **7446**  ($422,968,420 en total)
+- Resueltas: **7395** — 4499 ganadas / 2896 perdidas (**61%** de acierto)
 - Pendientes: 29
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,365,661** sobre $420,506,957 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,119** sobre $729,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,406,512** sobre $420,547,807 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,219** sobre $729,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 104 | 104 | 2 | 50% | $13,500,144 | -$1,407,697 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 121 | 66 | 1 | 65% | $9,163,505 | +$444,011 |
+| Lakersfan111 | 121 | 67 | 0 | 64% | $9,163,505 | +$403,160 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | ferrariChampions2026 | 117 | 62 | 3 | 65% | $7,817,005 | +$390,047 |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| TAIWANNUMBERONE | 45 | 21 | 2 | 68% | $2,528,355 | -$229,166 |
+| TAIWANNUMBERONE | 45 | 21 | 3 | 68% | $2,585,596 | -$229,166 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Chiefs vs. Broncos | Broncos | 1.37 (73¢) | $57,241 | — | ⏳ Pendiente |
 | ch27er | Raptors vs. Lakers | Lakers | 1.69 (59¢) | $45,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chiefs vs. Broncos | Chiefs | 1.39 (72¢) | $30,255 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.37 (73¢) | $38,202 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Multicoloured-Serf | Spread: Steelers (-3.5) | Steelers | 2.00 (50¢) | $26,993 | +$26,993 | ✅ Ganada |
 | BrotherObama | Spread: Steelers (-3.5) | Browns | 2.00 (50¢) | $37,000 | -$37,000 | ❌ Perdida |
 | justwins | Spread: Steelers (-3.5) | Steelers | 1.96 (51¢) | $306,000 | +$294,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Steelers | Steelers | 1.54 (65¢) | $103,445 | +$55,701 | ✅ Ganada |
