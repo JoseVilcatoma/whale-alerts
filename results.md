@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 20:10:40 (hora de Perú)
+Actualizado: 2026-11-01 20:12:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7452**  ($423,231,020 en total)
+- Apuestas registradas: **7453**  ($423,275,726 en total)
 - Resueltas: **7419** — 4513 ganadas / 2906 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 686
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Eagles vs. Commanders: O/U 42.5 | Over 42.5 | 2.22 (45¢) | $44,706 | — | ⏳ Pendiente |
 | R2D2RS | Spread: Commanders (-6.5) | Eagles | 1.85 (54¢) | $45,481 | — | ⏳ Pendiente |
 | sinasinner | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | sinasinner | Spread: Commanders (-5.5) | Commanders | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | MigRodr | Will Athletic Club win on 2026-11-01? | Yes | 2.00 (50¢) | $55,475 | +$55,475 | ✅ Ganada |
 | TAIWANNUMBERONE | Titans vs. Bengals | Bengals | 1.19 (84¢) | $25,322 | +$4,823 | ✅ Ganada |
 | CUTJALENHURTS | Titans vs. Bengals | Bengals | 1.27 (79¢) | $26,125 | +$6,945 | ✅ Ganada |
-| Jittz | Titans vs. Bengals | Bengals | 1.37 (73¢) | $26,490 | +$9,797 | ✅ Ganada |

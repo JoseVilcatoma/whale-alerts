@@ -112006,5 +112006,20 @@
     "status": "pending",
     "ultimo_fill": 1793581717,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15125,
+    "timestamp": 1793581947,
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+    "slug": "nfl-phi-was-2026-11-02-total-42pt5",
+    "title": "Eagles vs. Commanders: O/U 42.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 44706.483,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1793581947,
+    "fills": 1
   }
 ]
