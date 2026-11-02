@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 13:54:28 (hora de Perú)
+Actualizado: 2026-11-02 17:59:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7503**  ($425,682,845 en total)
-- Resueltas: **7464** — 4542 ganadas / 2922 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,384,428** sobre $424,013,004 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,200** sobre $736,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,467,491** sobre $424,289,395 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,140** sobre $736,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 535 | 303 | 4 | 64% | $55,045,452 | +$417,852 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 3 | 64% | $55,045,452 | +$423,363 |
 | Sassy-Bucket | 104 | 105 | 2 | 50% | $13,671,792 | -$1,579,345 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 123 | 68 | 0 | 64% | $9,320,014 | +$481,517 |
-| 3edmond.dantes | 33 | 24 | 1 | 58% | $8,007,013 | -$1,888,094 |
+| 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | ferrariChampions2026 | 119 | 63 | 1 | 65% | $7,850,436 | +$480,534 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 92 | 0 | 52% | $7,625,969 | -$624,427 |
@@ -72,11 +72,11 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | SineNooneEI | Hawks vs. Pacers | Hawks | 1.28 (78¢) | $60,171 | — | ⏳ Pendiente |
-| 999585 | Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov | Karen Khachanov | 1.22 (82¢) | $36,900 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Valladolid CF vs. CD Leganés end in a draw? | No | 1.18 (85¢) | $31,228 | — | ⏳ Pendiente |
+| 999585 | Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov | Karen Khachanov | 1.22 (82¢) | $36,900 | +$8,100 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Valladolid CF vs. CD Leganés end in a draw? | No | 1.18 (85¢) | $31,228 | +$5,511 | ✅ Ganada |
 | Moneyloverman | Hawks vs. Pacers | Hawks | 1.47 (68¢) | $40,496 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Thunder vs. Cavaliers | Cavaliers | 1.64 (61¢) | $41,049 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will ACF Fiorentina win on 2026-11-02? | Yes | 2.38 (42¢) | $27,279 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will ACF Fiorentina win on 2026-11-02? | Yes | 2.38 (42¢) | $27,279 | +$37,670 | ✅ Ganada |
 | 999585 | Rolex Paris Masters: Mattia Bellucci vs Lorenzo Sonego | Mattia Bellucci | 1.06 (94¢) | $51,501 | +$3,287 | ✅ Ganada |
 | SineNooneEI | Hawks vs. Pacers | Hawks | 1.56 (64¢) | $31,411 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Casper Ruud vs Juan Manuel Cerundolo | Casper Ruud | 1.20 (83¢) | $26,310 | +$5,389 | ✅ Ganada |
@@ -94,13 +94,13 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | NS13 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Katie Volynets | 1.79 (56¢) | $27,481 | -$27,481 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - IEM Beijing Group B | 9z | 1.69 (59¢) | $34,983 | -$34,983 | ❌ Perdida |
 | drainedandpoor | Counter-Strike: 9z vs BetBoom Team (BO3) - IEM Beijing Group B | 9z | 1.69 (59¢) | $26,550 | -$26,550 | ❌ Perdida |
-| CornerGaming | Will Newcastle United FC win on 2026-11-02? | No | 1.82 (55¢) | $25,652 | — | ⏳ Pendiente |
-| hovistomaradona | Will Newcastle United FC win on 2026-11-02? | Yes | 2.22 (45¢) | $40,500 | — | ⏳ Pendiente |
+| CornerGaming | Will Newcastle United FC win on 2026-11-02? | No | 1.82 (55¢) | $25,652 | +$20,988 | ✅ Ganada |
+| hovistomaradona | Will Newcastle United FC win on 2026-11-02? | Yes | 2.22 (45¢) | $40,500 | -$40,500 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Prudential Hong Kong Tennis Open: Claire Liu vs Tatiana Prozorova | Claire Liu | 1.18 (85¢) | $27,629 | +$4,876 | ✅ Ganada |
 | Kkunn | Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter | Katie Boulter | 1.52 (66¢) | $33,541 | +$17,279 | ✅ Ganada |
 | lllllllIlll | Map Handicap: FURIA (-1.5) vs FaZe (+1.5) | FaZe | 1.79 (56¢) | $52,802 | +$41,487 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.39 (72¢) | $115,200 | +$44,800 | ✅ Ganada |
-| hovistomaradona | Will Newcastle United FC win on 2026-11-02? | Yes | 2.27 (44¢) | $114,832 | — | ⏳ Pendiente |
+| hovistomaradona | Will Newcastle United FC win on 2026-11-02? | Yes | 2.27 (44¢) | $114,832 | -$114,832 | ❌ Perdida |
 | yabanci | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.79 (56¢) | $40,905 | -$40,905 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.85 (54¢) | $37,800 | -$37,800 | ❌ Perdida |
 | 4217893367451 | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | PARIVISION | 2.17 (46¢) | $25,341 | +$29,749 | ✅ Ganada |
