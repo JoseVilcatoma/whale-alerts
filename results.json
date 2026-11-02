@@ -112096,5 +112096,20 @@
     "status": "pending",
     "ultimo_fill": 1793584059,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15131,
+    "timestamp": 1793584372,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nfl-phi-was-2026-11-02",
+    "title": "Eagles vs. Commanders",
+    "outcome": "Eagles",
+    "side": "BUY",
+    "usd": 30341.11,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1793584372,
+    "fills": 1
   }
 ]
