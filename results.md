@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 12:01:02 (hora de Perú)
+Actualizado: 2026-11-02 12:03:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7497**  ($425,445,723 en total)
-- Resueltas: **7463** — 4541 ganadas / 2922 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **7464** — 4542 ganadas / 2922 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 687
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,387,716** sobre $423,961,503 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,206** sobre $736,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,384,428** sobre $424,013,004 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,200** sobre $736,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 999585 | Rolex Paris Masters: Mattia Bellucci vs Lorenzo Sonego | Mattia Bellucci | 1.06 (94¢) | $51,501 | — | ⏳ Pendiente |
+| 999585 | Rolex Paris Masters: Mattia Bellucci vs Lorenzo Sonego | Mattia Bellucci | 1.06 (94¢) | $51,501 | +$3,287 | ✅ Ganada |
 | SineNooneEI | Hawks vs. Pacers | Hawks | 1.56 (64¢) | $31,411 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Casper Ruud vs Juan Manuel Cerundolo | Casper Ruud | 1.20 (83¢) | $26,310 | +$5,389 | ✅ Ganada |
 | ferrariChampions2026 | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $33,431 | — | ⏳ Pendiente |
