@@ -112141,5 +112141,20 @@
     "status": "pending",
     "ultimo_fill": 1793586019,
     "fills": 4
+  },
+  {
+    "telegram_msg_id": 15134,
+    "timestamp": 1793587463,
+    "username": "cosmicxbt",
+    "wallet": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+    "slug": "nfl-phi-was-2026-11-02",
+    "title": "Eagles vs. Commanders",
+    "outcome": "Commanders",
+    "side": "BUY",
+    "usd": 55804.4288,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1793587463,
+    "fills": 1
   }
 ]

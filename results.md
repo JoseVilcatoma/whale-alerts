@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 21:43:35 (hora de Perú)
+Actualizado: 2026-11-01 21:45:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7461**  ($423,875,770 en total)
+- Apuestas registradas: **7462**  ($423,931,574 en total)
 - Resueltas: **7419** — 4513 ganadas / 2906 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 686
 
 ### Balance
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
-| cosmicxbt | 22 | 9 | 0 | 71% | $3,352,330 | -$424,738 |
+| cosmicxbt | 22 | 9 | 1 | 71% | $3,408,134 | -$424,738 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Eagles vs. Commanders | Commanders | 1.56 (64¢) | $55,804 | — | ⏳ Pendiente |
 | Sassy-Bucket | Eagles vs. Commanders | Eagles | 1.75 (57¢) | $171,648 | — | ⏳ Pendiente |
 | EdZachary | Eagles vs. Commanders | Commanders | 2.56 (39¢) | $32,764 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Eagles vs. Commanders | Eagles | 1.25 (80¢) | $30,341 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | TAIWANNUMBERONE | Raiders vs. Jets | Raiders | 1.15 (87¢) | $31,005 | +$4,633 | ✅ Ganada |
 | ferrariChampions2026 | Raiders vs. Jets | Raiders | 1.45 (69¢) | $54,849 | +$24,642 | ✅ Ganada |
 | Multicoloured-Serf | Raiders vs. Jets | Raiders | 1.54 (65¢) | $36,353 | +$19,574 | ✅ Ganada |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Celtics vs. Magic | Celtics | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
