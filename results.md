@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 10:15:57 (hora de Perú)
+Actualizado: 2026-11-02 10:18:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7495**  ($425,362,811 en total)
+- Apuestas registradas: **7496**  ($425,394,222 en total)
 - Resueltas: **7462** — 4540 ganadas / 2922 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 687
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SineNooneEI | Hawks vs. Pacers | Hawks | 1.56 (64¢) | $31,411 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Casper Ruud vs Juan Manuel Cerundolo | Casper Ruud | 1.20 (83¢) | $26,310 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $33,431 | — | ⏳ Pendiente |
 | NS13 | Suns vs. Warriors | Warriors | 1.72 (58¢) | $34,246 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 | CUTJALENHURTS | Patriots vs. Dolphins | Patriots | 1.23 (81¢) | $32,400 | +$7,600 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chiefs vs. Broncos: O/U 52.5 | Under 52.5 | 1.79 (56¢) | $25,200 | +$19,800 | ✅ Ganada |
 | Jittz | Chiefs vs. Broncos | Chiefs | 1.61 (62¢) | $25,110 | -$25,110 | ❌ Perdida |
-| Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.79 (56¢) | $122,202 | -$122,202 | ❌ Perdida |
