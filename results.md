@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 19:08:19 (hora de Perú)
+Actualizado: 2026-11-01 19:10:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7442**  ($422,797,721 en total)
+- Apuestas registradas: **7443**  ($422,835,923 en total)
 - Resueltas: **7386** — 4492 ganadas / 2894 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.37 (73¢) | $38,202 | — | ⏳ Pendiente |
 | Woaifacai | Patriots vs. Dolphins | Patriots | 1.08 (93¢) | $86,330 | — | ⏳ Pendiente |
 | Jittz | Patriots vs. Dolphins | Patriots | 1.18 (85¢) | $28,179 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Patriots vs. Dolphins | Patriots | 1.23 (81¢) | $48,879 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Steelers | Steelers | 1.54 (65¢) | $103,445 | +$55,701 | ✅ Ganada |
 | Kch-Temp | Browns vs. Steelers | Steelers | 1.54 (65¢) | $357,500 | +$192,500 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: DENDELE CS vs Imperial (BO5) - Gamers Club Masters Playoffs | Imperial | 2.38 (42¢) | $40,850 | — | ⏳ Pendiente |
-| SDTrading | Raiders vs. Jets | Jets | 1.85 (54¢) | $35,100 | -$35,100 | ❌ Perdida |
