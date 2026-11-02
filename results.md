@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 20:43:11 (hora de Perú)
+Actualizado: 2026-11-01 20:45:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7456**  ($423,514,627 en total)
+- Apuestas registradas: **7457**  ($423,597,302 en total)
 - Resueltas: **7419** — 4513 ganadas / 2906 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 686
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Eagles vs. Commanders | Commanders | 1.75 (57¢) | $82,675 | — | ⏳ Pendiente |
 | gmpm2 | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 1.92 (52¢) | $55,380 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Commanders: O/U 42.5 | Under 42.5 | 1.82 (55¢) | $57,243 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Eagles vs. Commanders: O/U 40.5 | Under 40.5 | 2.04 (49¢) | $83,797 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | TAIWANNUMBERONE | Ravens vs. Bills | Bills | 1.14 (88¢) | $44,143 | +$6,019 | ✅ Ganada |
 | Multicoloured-Serf | Raiders vs. Jets | Jets | 1.52 (66¢) | $124,338 | -$124,338 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Athletic Club win on 2026-11-01? | No | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
-| ferrariChampions2026 | Raiders vs. Jets | Raiders | 2.86 (35¢) | $65,808 | +$122,215 | ✅ Ganada |
