@@ -112471,5 +112471,20 @@
     "status": "pending",
     "ultimo_fill": 1793607585,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15183,
+    "timestamp": 1793608325,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "cs2-navi-fal2-2026-11-02-map-handicap-home-1pt5",
+    "title": "Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5)",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 28400.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1793608325,
+    "fills": 1
   }
 ]
