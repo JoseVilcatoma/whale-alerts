@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 18:44:31 (hora de Perú)
+Actualizado: 2026-11-02 18:46:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7504**  ($425,716,088 en total)
+- Apuestas registradas: **7505**  ($425,981,484 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 688
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 4 | 64% | $55,078,694 | +$423,363 |
 | Sassy-Bucket | 104 | 105 | 2 | 50% | $13,671,792 | -$1,579,345 |
-| googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
+| googleplay | 56 | 46 | 1 | 55% | $12,098,825 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 123 | 68 | 0 | 64% | $9,320,014 | +$481,517 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $265,397 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-4.5) | Celtics | 2.08 (48¢) | $33,242 | — | ⏳ Pendiente |
 | SineNooneEI | Hawks vs. Pacers | Hawks | 1.28 (78¢) | $60,171 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov | Karen Khachanov | 1.22 (82¢) | $36,900 | +$8,100 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 2.00 (50¢) | $27,410 | -$27,410 | ❌ Perdida |
 | jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.85 (54¢) | $36,023 | +$30,686 | ✅ Ganada |
 | TAIWANNUMBERONE | Chiefs vs. Broncos | Broncos | 1.37 (73¢) | $57,241 | +$21,171 | ✅ Ganada |
-| ch27er | Raptors vs. Lakers | Lakers | 1.69 (59¢) | $45,000 | +$31,271 | ✅ Ganada |
