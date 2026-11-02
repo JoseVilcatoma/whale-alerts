@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 21:18:21 (hora de Perú)
+Actualizado: 2026-11-01 21:20:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7460**  ($423,704,122 en total)
+- Apuestas registradas: **7461**  ($423,875,770 en total)
 - Resueltas: **7419** — 4513 ganadas / 2906 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 686
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 531 | 302 | 5 | 64% | $54,922,080 | +$363,544 |
-| Sassy-Bucket | 104 | 104 | 2 | 50% | $13,500,144 | -$1,407,697 |
+| Sassy-Bucket | 104 | 104 | 3 | 50% | $13,671,792 | -$1,407,697 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 121 | 67 | 2 | 64% | $9,292,014 | +$403,160 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Eagles vs. Commanders | Eagles | 1.75 (57¢) | $171,648 | — | ⏳ Pendiente |
 | EdZachary | Eagles vs. Commanders | Commanders | 2.56 (39¢) | $32,764 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Eagles vs. Commanders | Eagles | 1.25 (80¢) | $30,341 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Commanders | Commanders | 1.67 (60¢) | $43,715 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | ferrariChampions2026 | Raiders vs. Jets | Raiders | 1.45 (69¢) | $54,849 | +$24,642 | ✅ Ganada |
 | Multicoloured-Serf | Raiders vs. Jets | Raiders | 1.54 (65¢) | $36,353 | +$19,574 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Celtics vs. Magic | Celtics | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
-| ch27er | Spread: Celtics (-6.5) | Celtics | 1.89 (53¢) | $25,000 | +$22,170 | ✅ Ganada |
