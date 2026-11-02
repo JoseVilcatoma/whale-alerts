@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 19:12:27 (hora de Perú)
+Actualizado: 2026-11-01 19:14:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7444**  ($422,866,179 en total)
-- Resueltas: **7386** — 4492 ganadas / 2894 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **7394** — 4499 ganadas / 2895 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,538,785** sobre $419,944,008 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,403** sobre $728,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,365,661** sobre $420,506,957 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,119** sobre $729,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 529 | 300 | 7 | 64% | $54,821,122 | +$369,185 |
-| Sassy-Bucket | 101 | 104 | 5 | 49% | $13,500,144 | -$1,457,852 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 529 | 301 | 6 | 64% | $54,821,122 | +$340,405 |
+| Sassy-Bucket | 104 | 104 | 2 | 50% | $13,500,144 | -$1,407,697 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 121 | 66 | 1 | 65% | $9,163,505 | +$444,011 |
@@ -40,11 +40,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ethanaz | 62 | 30 | 1 | 67% | $5,464,378 | -$304,914 |
-| maz26 | 41 | 26 | 1 | 61% | $4,668,992 | +$584,728 |
+| ethanaz | 63 | 30 | 0 | 68% | $5,464,378 | -$272,119 |
+| maz26 | 42 | 26 | 0 | 62% | $4,668,992 | +$647,524 |
 | BrotherObama | 51 | 54 | 2 | 49% | $4,623,036 | -$111,283 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
-| Woaifacai | 38 | 12 | 2 | 76% | $3,746,405 | +$660,182 |
+| Woaifacai | 39 | 12 | 1 | 76% | $3,746,405 | +$682,671 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -80,19 +80,19 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chiefs vs. Broncos: O/U 52.5 | Under 52.5 | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
 | Jittz | Chiefs vs. Broncos | Chiefs | 1.61 (62¢) | $25,110 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.79 (56¢) | $122,202 | — | ⏳ Pendiente |
-| 999585 | Chargers vs. Rams | Rams | 1.16 (86¢) | $206,836 | — | ⏳ Pendiente |
+| 999585 | Chargers vs. Rams | Rams | 1.16 (86¢) | $206,836 | +$33,671 | ✅ Ganada |
 | KaneAnalytics | Patriots vs. Dolphins | Dolphins | 1.67 (60¢) | $49,356 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Patriots vs. Dolphins | Dolphins | 1.69 (59¢) | $31,880 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Patriots vs. Dolphins | Dolphins | 1.69 (59¢) | $26,222 | — | ⏳ Pendiente |
 | thetesterguy | Nashville SC vs. New York Red Bulls: O/U 3.5 | Over 3.5 | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Chiefs (-1.5) | Chiefs | 1.45 (69¢) | $34,452 | — | ⏳ Pendiente |
-| Sassy-Bucket | Chargers vs. Rams | Rams | 1.37 (73¢) | $34,761 | — | ⏳ Pendiente |
-| Sassy-Bucket | Chargers vs. Rams | Rams | 1.52 (66¢) | $32,039 | — | ⏳ Pendiente |
-| Sassy-Bucket | Chargers vs. Rams | Rams | 1.79 (56¢) | $26,463 | — | ⏳ Pendiente |
+| Sassy-Bucket | Chargers vs. Rams | Rams | 1.37 (73¢) | $34,761 | +$12,857 | ✅ Ganada |
+| Sassy-Bucket | Chargers vs. Rams | Rams | 1.52 (66¢) | $32,039 | +$16,505 | ✅ Ganada |
+| Sassy-Bucket | Chargers vs. Rams | Rams | 1.79 (56¢) | $26,463 | +$20,792 | ✅ Ganada |
 | milkteaboba | Chiefs vs. Broncos | Broncos | 2.27 (44¢) | $106,828 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.79 (56¢) | $102,202 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chiefs vs. Broncos | Broncos | 2.33 (43¢) | $83,109 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Rams | Chargers | 2.50 (40¢) | $28,780 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Rams | Chargers | 2.50 (40¢) | $28,780 | -$28,780 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.28 (78¢) | $39,000 | +$11,000 | ✅ Ganada |
 | 999585 | Chiefs vs. Broncos | Chiefs | 1.54 (65¢) | $122,779 | — | ⏳ Pendiente |
 | RJW1 | Spread: Lakers (-2.5) | Lakers | 1.89 (53¢) | $25,492 | — | ⏳ Pendiente |
@@ -104,10 +104,10 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | Bibberino | Titans vs. Bengals | Titans | 1.54 (65¢) | $65,000 | -$65,000 | ❌ Perdida |
 | sinasinner | Spread: Chiefs (-1.5) | Broncos | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | beautifulobsession | Chiefs vs. Broncos | Broncos | 2.00 (50¢) | $47,000 | — | ⏳ Pendiente |
-| Woaifacai | Chargers vs. Rams | Rams | 1.33 (75¢) | $67,466 | — | ⏳ Pendiente |
+| Woaifacai | Chargers vs. Rams | Rams | 1.33 (75¢) | $67,466 | +$22,489 | ✅ Ganada |
 | thetesterguy | Nashville SC vs. New York Red Bulls: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $31,988 | +$3,554 | ✅ Ganada |
-| gmpm2 | Chargers vs. Rams | Rams | 1.45 (69¢) | $139,771 | — | ⏳ Pendiente |
-| ethanaz | Chargers vs. Rams: O/U 44.5 | Under 44.5 | 2.22 (45¢) | $26,832 | — | ⏳ Pendiente |
+| gmpm2 | Chargers vs. Rams | Rams | 1.45 (69¢) | $139,771 | +$62,796 | ✅ Ganada |
+| ethanaz | Chargers vs. Rams: O/U 44.5 | Under 44.5 | 2.22 (45¢) | $26,832 | +$32,795 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Titans vs. Bengals | Titans | 1.59 (63¢) | $27,984 | -$27,984 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raiders vs. Jets | Raiders | 1.20 (83¢) | $83,830 | +$17,170 | ✅ Ganada |
 | TAIWANNUMBERONE | Raiders vs. Jets | Raiders | 1.15 (87¢) | $31,005 | +$4,633 | ✅ Ganada |
