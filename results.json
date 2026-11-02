@@ -110561,7 +110561,7 @@
     "side": "BUY",
     "usd": 33484.919999,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793536037,
     "fills": 1
   },
@@ -111463,7 +111463,7 @@
     "side": "BUY",
     "usd": 33661.7376,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793568483,
     "fills": 1
   },
@@ -111703,7 +111703,7 @@
     "side": "BUY",
     "usd": 31879.8358,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793572970,
     "fills": 1
   },
@@ -111718,7 +111718,7 @@
     "side": "BUY",
     "usd": 26221.96,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793572970,
     "fills": 1
   },
@@ -111733,7 +111733,7 @@
     "side": "BUY",
     "usd": 49356.294,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793573021,
     "fills": 1
   },
@@ -111808,7 +111808,7 @@
     "side": "BUY",
     "usd": 32400.000000000004,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793576361,
     "fills": 1
   },
@@ -111823,7 +111823,7 @@
     "side": "BUY",
     "usd": 28179.2,
     "odds_at_bet": 85,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793576692,
     "fills": 1
   },
@@ -111838,7 +111838,7 @@
     "side": "BUY",
     "usd": 48878.6076,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793576371,
     "fills": 1
   },
@@ -111853,7 +111853,7 @@
     "side": "BUY",
     "usd": 86330.4399,
     "odds_at_bet": 93,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793577576,
     "fills": 1
   },
@@ -111930,6 +111930,21 @@
     "odds_at_bet": 54,
     "status": "pending",
     "ultimo_fill": 1793580133,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15096,
+    "timestamp": 1793580618,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "nfl-phi-was-2026-11-02-total-40pt5",
+    "title": "Eagles vs. Commanders: O/U 40.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 27409.54,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793580618,
     "fills": 1
   }
 ]

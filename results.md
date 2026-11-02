@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 19:49:35 (hora de Perú)
+Actualizado: 2026-11-01 19:51:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7447**  ($423,004,443 en total)
-- Resueltas: **7395** — 4499 ganadas / 2896 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Apuestas registradas: **7448**  ($423,031,852 en total)
+- Resueltas: **7404** — 4505 ganadas / 2899 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 685
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,406,512** sobre $420,547,807 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,219** sobre $729,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,462,230** sobre $420,918,200 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,384** sobre $730,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,15 +24,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 529 | 301 | 6 | 64% | $54,821,122 | +$340,405 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 530 | 301 | 5 | 64% | $54,821,122 | +$351,035 |
 | Sassy-Bucket | 104 | 104 | 2 | 50% | $13,500,144 | -$1,407,697 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | Lakersfan111 | 121 | 67 | 1 | 64% | $9,199,528 | +$403,160 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| ferrariChampions2026 | 117 | 62 | 3 | 65% | $7,817,005 | +$390,047 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 1 | 52% | $7,598,560 | -$616,817 |
+| ferrariChampions2026 | 118 | 62 | 2 | 66% | $7,817,005 | +$400,622 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 97 | 91 | 2 | 52% | $7,625,969 | -$616,817 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 42 | 26 | 0 | 62% | $4,668,992 | +$647,524 |
 | BrotherObama | 51 | 54 | 2 | 49% | $4,623,036 | -$111,283 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
-| Woaifacai | 39 | 12 | 1 | 76% | $3,746,405 | +$682,671 |
+| Woaifacai | 40 | 12 | 0 | 77% | $3,746,405 | +$689,169 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| TAIWANNUMBERONE | 45 | 21 | 3 | 68% | $2,585,596 | -$229,166 |
+| TAIWANNUMBERONE | 46 | 22 | 1 | 68% | $2,585,596 | -$249,580 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
@@ -71,22 +71,23 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 2.00 (50¢) | $27,410 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.85 (54¢) | $36,023 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Chiefs vs. Broncos | Broncos | 1.37 (73¢) | $57,241 | — | ⏳ Pendiente |
 | ch27er | Raptors vs. Lakers | Lakers | 1.69 (59¢) | $45,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chiefs vs. Broncos | Chiefs | 1.39 (72¢) | $30,255 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.37 (73¢) | $38,202 | — | ⏳ Pendiente |
-| Woaifacai | Patriots vs. Dolphins | Patriots | 1.08 (93¢) | $86,330 | — | ⏳ Pendiente |
-| Jittz | Patriots vs. Dolphins | Patriots | 1.18 (85¢) | $28,179 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Patriots vs. Dolphins | Patriots | 1.23 (81¢) | $48,879 | — | ⏳ Pendiente |
-| CUTJALENHURTS | Patriots vs. Dolphins | Patriots | 1.23 (81¢) | $32,400 | — | ⏳ Pendiente |
+| Woaifacai | Patriots vs. Dolphins | Patriots | 1.08 (93¢) | $86,330 | +$6,498 | ✅ Ganada |
+| Jittz | Patriots vs. Dolphins | Patriots | 1.18 (85¢) | $28,179 | +$4,973 | ✅ Ganada |
+| TAIWANNUMBERONE | Patriots vs. Dolphins | Patriots | 1.23 (81¢) | $48,879 | +$11,465 | ✅ Ganada |
+| CUTJALENHURTS | Patriots vs. Dolphins | Patriots | 1.23 (81¢) | $32,400 | +$7,600 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chiefs vs. Broncos: O/U 52.5 | Under 52.5 | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
 | Jittz | Chiefs vs. Broncos | Chiefs | 1.61 (62¢) | $25,110 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.79 (56¢) | $122,202 | — | ⏳ Pendiente |
 | 999585 | Chargers vs. Rams | Rams | 1.16 (86¢) | $206,836 | +$33,671 | ✅ Ganada |
-| KaneAnalytics | Patriots vs. Dolphins | Dolphins | 1.67 (60¢) | $49,356 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Patriots vs. Dolphins | Dolphins | 1.69 (59¢) | $31,880 | — | ⏳ Pendiente |
-| CUTJALENHURTS | Patriots vs. Dolphins | Dolphins | 1.69 (59¢) | $26,222 | — | ⏳ Pendiente |
+| KaneAnalytics | Patriots vs. Dolphins | Dolphins | 1.67 (60¢) | $49,356 | -$49,356 | ❌ Perdida |
+| TAIWANNUMBERONE | Patriots vs. Dolphins | Dolphins | 1.69 (59¢) | $31,880 | -$31,880 | ❌ Perdida |
+| CUTJALENHURTS | Patriots vs. Dolphins | Dolphins | 1.69 (59¢) | $26,222 | -$26,222 | ❌ Perdida |
 | thetesterguy | Nashville SC vs. New York Red Bulls: O/U 3.5 | Over 3.5 | 1.12 (89¢) | $26,700 | +$3,300 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Chiefs (-1.5) | Chiefs | 1.45 (69¢) | $34,452 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.37 (73¢) | $34,761 | +$12,857 | ✅ Ganada |
@@ -102,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | keeptheblueflagflyinghigh | Celtics vs. Magic | Celtics | 1.27 (79¢) | $44,263 | +$11,766 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Titans vs. Bengals | Bengals | 1.12 (89¢) | $74,843 | +$9,250 | ✅ Ganada |
 | TAIWANNUMBERONE | Titans vs. Bengals | Bengals | 1.14 (88¢) | $30,911 | +$4,215 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Dolphins | Patriots | 1.32 (76¢) | $33,662 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Dolphins | Patriots | 1.32 (76¢) | $33,662 | +$10,630 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chiefs vs. Broncos | Broncos | 2.04 (49¢) | $45,119 | — | ⏳ Pendiente |
 | Bibberino | Titans vs. Bengals | Titans | 1.54 (65¢) | $65,000 | -$65,000 | ❌ Perdida |
 | sinasinner | Spread: Chiefs (-1.5) | Broncos | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | sinasinner | Spread: Bills (-3.5) | Ravens | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
 | 999585 | Titans vs. Bengals | Bengals | 1.12 (89¢) | $84,550 | +$10,450 | ✅ Ganada |
 | Multicoloured-Serf | Spread: Steelers (-3.5) | Steelers | 2.00 (50¢) | $26,993 | +$26,993 | ✅ Ganada |
-| BrotherObama | Spread: Steelers (-3.5) | Browns | 2.00 (50¢) | $37,000 | -$37,000 | ❌ Perdida |
