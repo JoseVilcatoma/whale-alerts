@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 19:20:39 (hora de Perú)
+Actualizado: 2026-11-01 19:22:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7444**  ($422,866,179 en total)
+- Apuestas registradas: **7445**  ($422,911,179 en total)
 - Resueltas: **7394** — 4499 ganadas / 2895 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ch27er | Raptors vs. Lakers | Lakers | 1.69 (59¢) | $45,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chiefs vs. Broncos | Chiefs | 1.39 (72¢) | $30,255 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.37 (73¢) | $38,202 | — | ⏳ Pendiente |
 | Woaifacai | Patriots vs. Dolphins | Patriots | 1.08 (93¢) | $86,330 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | BrotherObama | Spread: Steelers (-3.5) | Browns | 2.00 (50¢) | $37,000 | -$37,000 | ❌ Perdida |
 | justwins | Spread: Steelers (-3.5) | Steelers | 1.96 (51¢) | $306,000 | +$294,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Steelers | Steelers | 1.54 (65¢) | $103,445 | +$55,701 | ✅ Ganada |
-| Kch-Temp | Browns vs. Steelers | Steelers | 1.54 (65¢) | $357,500 | +$192,500 | ✅ Ganada |
