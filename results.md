@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 23:06:32 (hora de Perú)
+Actualizado: 2026-11-01 23:08:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7466**  ($424,086,820 en total)
+- Apuestas registradas: **7467**  ($424,114,820 en total)
 - Resueltas: **7419** — 4513 ganadas / 2906 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 686
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 104 | 104 | 3 | 50% | $13,671,792 | -$1,407,697 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 121 | 67 | 2 | 64% | $9,292,014 | +$403,160 |
+| Lakersfan111 | 121 | 67 | 3 | 64% | $9,320,014 | +$403,160 |
 | 3edmond.dantes | 33 | 24 | 0 | 58% | $7,979,734 | -$1,888,094 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | ferrariChampions2026 | 119 | 63 | 0 | 65% | $7,817,005 | +$480,534 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Counter-Strike: Aurora Gaming vs Liquid (BO3) - IEM Beijing Group B | Aurora Gaming | 1.43 (70¢) | $28,000 | — | ⏳ Pendiente |
 | ndb1 | Eagles vs. Commanders | Commanders | 1.18 (85¢) | $36,718 | — | ⏳ Pendiente |
 | yabanci | Counter-Strike: Legacy vs TheMongolz (BO3) - IEM Beijing Group A | Legacy | 1.32 (76¢) | $33,970 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Eagles vs. Commanders | Commanders | 1.39 (72¢) | $54,457 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | thetesterguy | Nashville SC vs. New York Red Bulls: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $31,988 | +$3,554 | ✅ Ganada |
 | gmpm2 | Chargers vs. Rams | Rams | 1.45 (69¢) | $139,771 | +$62,796 | ✅ Ganada |
 | ethanaz | Chargers vs. Rams: O/U 44.5 | Under 44.5 | 2.22 (45¢) | $26,832 | +$32,795 | ✅ Ganada |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Titans vs. Bengals | Titans | 1.59 (63¢) | $27,984 | -$27,984 | ❌ Perdida |
