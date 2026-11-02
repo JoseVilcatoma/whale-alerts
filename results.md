@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 23:35:18 (hora de Perú)
+Actualizado: 2026-11-01 23:37:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7468**  ($424,180,820 en total)
+- Apuestas registradas: **7469**  ($424,231,920 en total)
 - Resueltas: **7421** — 4515 ganadas / 2906 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 686
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.41 (71¢) | $51,101 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.27 (44¢) | $66,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Aurora Gaming vs Liquid (BO3) - IEM Beijing Group B | Aurora Gaming | 1.43 (70¢) | $28,000 | — | ⏳ Pendiente |
 | ndb1 | Eagles vs. Commanders | Commanders | 1.18 (85¢) | $36,718 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | beautifulobsession | Chiefs vs. Broncos | Broncos | 2.00 (50¢) | $47,000 | +$47,000 | ✅ Ganada |
 | Woaifacai | Chargers vs. Rams | Rams | 1.33 (75¢) | $67,466 | +$22,489 | ✅ Ganada |
 | thetesterguy | Nashville SC vs. New York Red Bulls: O/U 1.5 | Over 1.5 | 1.11 (90¢) | $31,988 | +$3,554 | ✅ Ganada |
-| gmpm2 | Chargers vs. Rams | Rams | 1.45 (69¢) | $139,771 | +$62,796 | ✅ Ganada |
