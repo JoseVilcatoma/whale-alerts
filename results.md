@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 23:57:59 (hora de Perú)
+Actualizado: 2026-11-02 00:00:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7469**  ($424,231,920 en total)
-- Resueltas: **7438** — 4525 ganadas / 2913 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **7440** — 4527 ganadas / 2913 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 686
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,430,794** sobre $422,920,629 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,059** sobre $733,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,394,623** sobre $422,995,729 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,973** sobre $733,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | ndb1 | Eagles vs. Commanders | Commanders | 1.18 (85¢) | $36,718 | +$6,480 | ✅ Ganada |
 | yabanci | Counter-Strike: Legacy vs TheMongolz (BO3) - IEM Beijing Group A | Legacy | 1.32 (76¢) | $33,970 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Eagles vs. Commanders | Commanders | 1.39 (72¢) | $54,457 | +$21,178 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Raptors vs. Lakers | Lakers | 1.16 (86¢) | $30,100 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Raptors vs. Lakers | Lakers | 1.16 (86¢) | $30,100 | +$4,900 | ✅ Ganada |
 | cosmicxbt | Eagles vs. Commanders | Commanders | 1.56 (64¢) | $55,804 | +$31,390 | ✅ Ganada |
 | Sassy-Bucket | Eagles vs. Commanders | Eagles | 1.75 (57¢) | $171,648 | -$171,648 | ❌ Perdida |
 | EdZachary | Eagles vs. Commanders | Commanders | 2.56 (39¢) | $32,764 | +$51,247 | ✅ Ganada |
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 2.00 (50¢) | $27,410 | -$27,410 | ❌ Perdida |
 | jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.85 (54¢) | $36,023 | +$30,686 | ✅ Ganada |
 | TAIWANNUMBERONE | Chiefs vs. Broncos | Broncos | 1.37 (73¢) | $57,241 | +$21,171 | ✅ Ganada |
-| ch27er | Raptors vs. Lakers | Lakers | 1.69 (59¢) | $45,000 | — | ⏳ Pendiente |
+| ch27er | Raptors vs. Lakers | Lakers | 1.69 (59¢) | $45,000 | +$31,271 | ✅ Ganada |
 | ferrariChampions2026 | Chiefs vs. Broncos | Chiefs | 1.39 (72¢) | $30,255 | -$30,255 | ❌ Perdida |
 | Multicoloured-Serf | Chiefs vs. Broncos | Chiefs | 1.37 (73¢) | $38,202 | -$38,202 | ❌ Perdida |
 | Woaifacai | Patriots vs. Dolphins | Patriots | 1.08 (93¢) | $86,330 | +$6,498 | ✅ Ganada |
