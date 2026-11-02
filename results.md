@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 20:14:49 (hora de Perú)
+Actualizado: 2026-11-01 20:16:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7454**  ($423,361,423 en total)
+- Apuestas registradas: **7455**  ($423,459,247 en total)
 - Resueltas: **7419** — 4513 ganadas / 2906 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 686
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 531 | 302 | 3 | 64% | $54,821,122 | +$363,544 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 531 | 302 | 4 | 64% | $54,878,366 | +$363,544 |
 | Sassy-Bucket | 104 | 104 | 2 | 50% | $13,500,144 | -$1,407,697 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Multicoloured-Serf | Eagles vs. Commanders: O/U 40.5 | Under 40.5 | 2.04 (49¢) | $43,217 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Commanders: O/U 42.5 | Under 42.5 | 1.82 (55¢) | $57,243 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Eagles vs. Commanders: O/U 40.5 | Under 40.5 | 2.04 (49¢) | $83,797 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Eagles vs. Commanders: O/U 42.5 | Over 42.5 | 2.22 (45¢) | $87,187 | — | ⏳ Pendiente |
 | R2D2RS | Spread: Commanders (-6.5) | Eagles | 1.85 (54¢) | $45,481 | — | ⏳ Pendiente |
 | sinasinner | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 686 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Athletic Club win on 2026-11-01? | No | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
 | ferrariChampions2026 | Raiders vs. Jets | Raiders | 2.86 (35¢) | $65,808 | +$122,215 | ✅ Ganada |
 | MigRodr | Will Athletic Club win on 2026-11-01? | Yes | 2.00 (50¢) | $55,475 | +$55,475 | ✅ Ganada |
-| TAIWANNUMBERONE | Titans vs. Bengals | Bengals | 1.19 (84¢) | $25,322 | +$4,823 | ✅ Ganada |
