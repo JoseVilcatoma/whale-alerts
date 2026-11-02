@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 04:17:44 (hora de Perú)
+Actualizado: 2026-11-02 04:19:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7485**  ($424,944,237 en total)
+- Apuestas registradas: **7486**  ($424,970,637 en total)
 - Resueltas: **7448** — 4531 ganadas / 2917 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 687
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 533 | 302 | 4 | 64% | $54,957,064 | +$439,522 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 533 | 302 | 5 | 64% | $54,983,464 | +$439,522 |
 | Sassy-Bucket | 104 | 105 | 2 | 50% | $13,671,792 | -$1,579,345 |
 | googleplay | 56 | 46 | 0 | 55% | $11,833,428 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.82 (55¢) | $30,555 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | NS13 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Katie Volynets | 1.79 (56¢) | $27,481 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 687 en total)_
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.37 (73¢) | $34,761 | +$12,857 | ✅ Ganada |
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.52 (66¢) | $32,039 | +$16,505 | ✅ Ganada |
 | Sassy-Bucket | Chargers vs. Rams | Rams | 1.79 (56¢) | $26,463 | +$20,792 | ✅ Ganada |
-| milkteaboba | Chiefs vs. Broncos | Broncos | 2.27 (44¢) | $106,828 | +$135,963 | ✅ Ganada |
