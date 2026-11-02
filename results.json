@@ -111961,5 +111961,35 @@
     "status": "pending",
     "ultimo_fill": 1793580855,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15122,
+    "timestamp": 1793581370,
+    "username": "sinasinner",
+    "wallet": "0x8a260ebadf8ef07e693dd1b0be120b3330dd73c3",
+    "slug": "nfl-phi-was-2026-11-02-spread-home-5pt5",
+    "title": "Spread: Commanders (-5.5)",
+    "outcome": "Commanders",
+    "side": "BUY",
+    "usd": 30600.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793581370,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15123,
+    "timestamp": 1793581431,
+    "username": "sinasinner",
+    "wallet": "0x8a260ebadf8ef07e693dd1b0be120b3330dd73c3",
+    "slug": "nfl-phi-was-2026-11-02-total-40pt5",
+    "title": "Eagles vs. Commanders: O/U 40.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 30600.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793581431,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-01 20:02:24 (hora de Perú)
+Actualizado: 2026-11-01 20:04:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7449**  ($423,124,338 en total)
+- Apuestas registradas: **7451**  ($423,185,538 en total)
 - Resueltas: **7419** — 4513 ganadas / 2906 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 10
 - Apostadores distintos: 685
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sinasinner | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
+| sinasinner | Spread: Commanders (-5.5) | Commanders | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.82 (55¢) | $92,486 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 2.00 (50¢) | $27,410 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.85 (54¢) | $36,023 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 685 en total)_
 | CUTJALENHURTS | Titans vs. Bengals | Bengals | 1.27 (79¢) | $26,125 | +$6,945 | ✅ Ganada |
 | Jittz | Titans vs. Bengals | Bengals | 1.37 (73¢) | $26,490 | +$9,797 | ✅ Ganada |
 | 999585 | Ravens vs. Bills | Bills | 1.15 (87¢) | $65,250 | +$9,750 | ✅ Ganada |
-| sinasinner | Spread: Bills (-3.5) | Ravens | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
-| 999585 | Titans vs. Bengals | Bengals | 1.12 (89¢) | $84,550 | +$10,450 | ✅ Ganada |
