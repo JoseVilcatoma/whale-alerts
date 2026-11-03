@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 20:57:53 (hora de Perú)
+Actualizado: 2026-11-02 20:59:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7530**  ($427,103,790 en total)
+- Apuestas registradas: **7531**  ($427,203,790 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 688
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | PARIVISION | 1.72 (58¢) | $100,000 | — | ⏳ Pendiente |
 | googleplay | Trail Blazers vs. Nuggets | Trail Blazers | 2.50 (40¢) | $29,066 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Trail Blazers vs. Nuggets | Nuggets | 1.64 (61¢) | $29,526 | — | ⏳ Pendiente |
 | cosmicxbt | Bears vs. Seahawks | Bears | 1.67 (60¢) | $97,778 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | hovistomaradona | Will Newcastle United FC win on 2026-11-02? | Yes | 2.27 (44¢) | $114,832 | -$114,832 | ❌ Perdida |
 | yabanci | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.79 (56¢) | $40,905 | -$40,905 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.85 (54¢) | $37,800 | -$37,800 | ❌ Perdida |
-| 4217893367451 | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | PARIVISION | 2.17 (46¢) | $25,341 | +$29,749 | ✅ Ganada |
