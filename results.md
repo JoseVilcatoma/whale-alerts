@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 21:51:26 (hora de Perú)
+Actualizado: 2026-11-02 21:53:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7536**  ($427,378,150 en total)
-- Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Resueltas: **7472** — 4546 ganadas / 2926 perdidas (**61%** de acierto)
+- Pendientes: 42
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,467,491** sobre $424,289,395 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,140** sobre $736,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,771,388** sobre $424,593,292 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,340** sobre $736,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 5 | 64% | $55,104,514 | +$423,363 |
 | Sassy-Bucket | 104 | 105 | 4 | 50% | $13,758,270 | -$1,579,345 |
-| googleplay | 56 | 46 | 3 | 55% | $12,159,271 | +$161,428 |
+| googleplay | 56 | 47 | 2 | 54% | $12,159,271 | -$103,969 |
 | Lakersfan111 | 123 | 68 | 9 | 64% | $9,665,520 | +$481,517 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -100,9 +100,9 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | PARIVISION | 1.72 (58¢) | $37,286 | — | ⏳ Pendiente |
 | ch27er | Spread: Magic (-2.5) | Wizards | 2.00 (50¢) | $27,442 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.35 (74¢) | $37,679 | — | ⏳ Pendiente |
-| ch27er | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $38,500 | — | ⏳ Pendiente |
+| ch27er | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $38,500 | -$38,500 | ❌ Perdida |
 | Multicoloured-Serf | Thunder vs. Cavaliers | Thunder | 2.63 (38¢) | $30,645 | — | ⏳ Pendiente |
-| googleplay | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $265,397 | — | ⏳ Pendiente |
+| googleplay | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $265,397 | -$265,397 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-4.5) | Celtics | 2.08 (48¢) | $33,242 | — | ⏳ Pendiente |
 | SineNooneEI | Hawks vs. Pacers | Hawks | 1.28 (78¢) | $60,171 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov | Karen Khachanov | 1.22 (82¢) | $36,900 | +$8,100 | ✅ Ganada |
