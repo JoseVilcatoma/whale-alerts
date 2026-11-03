@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 20:23:10 (hora de Perú)
+Actualizado: 2026-11-02 20:25:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7525**  ($426,883,911 en total)
+- Apuestas registradas: **7526**  ($426,912,420 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 688
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 1.89 (53¢) | $28,509 | — | ⏳ Pendiente |
 | vtcchampion52 | Bears vs. Seahawks | Seahawks | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | takeormake | Bears vs. Seahawks | Bears | 2.63 (38¢) | $32,479 | — | ⏳ Pendiente |
 | sinasinner | Bears vs. Seahawks: O/U 46.5 | Under 46.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.41 (71¢) | $51,101 | +$20,872 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.27 (44¢) | $66,000 | +$84,000 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Aurora Gaming vs Liquid (BO3) - IEM Beijing Group B | Aurora Gaming | 1.43 (70¢) | $28,000 | -$28,000 | ❌ Perdida |
-| ndb1 | Eagles vs. Commanders | Commanders | 1.18 (85¢) | $36,718 | +$6,480 | ✅ Ganada |
