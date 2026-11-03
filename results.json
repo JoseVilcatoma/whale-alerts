@@ -114093,5 +114093,20 @@
     "status": "pending",
     "ultimo_fill": 1793744085,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 15413,
+    "timestamp": 1793745354,
+    "username": "ch27er",
+    "wallet": "0x61a3f1ef9c9618f532eb49f0cb260486c168e508",
+    "slug": "nhl-wpg-mon-2026-11-03",
+    "title": "Jets vs. Canadiens",
+    "outcome": "Canadiens",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1793745354,
+    "fills": 1
   }
 ]
