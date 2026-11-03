@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 19:23:44 (hora de Perú)
+Actualizado: 2026-11-02 19:25:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7514**  ($426,278,565 en total)
+- Apuestas registradas: **7515**  ($426,306,065 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 688
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ch27er | Pistons vs. Hornets | Pistons | 1.47 (68¢) | $27,500 | — | ⏳ Pendiente |
 | ch27er | Spread: 76ers (-9.5) | 76ers | 1.79 (56¢) | $34,676 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Jazz vs. Spurs | Spurs | 1.11 (90¢) | $31,584 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Pistons (-5.5) | Hornets | 2.04 (49¢) | $31,104 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Commanders | Commanders | 1.67 (60¢) | $43,715 | +$29,143 | ✅ Ganada |
 | Multicoloured-Serf | Eagles vs. Commanders | Commanders | 1.75 (57¢) | $82,675 | +$62,369 | ✅ Ganada |
 | gmpm2 | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 1.92 (52¢) | $55,380 | -$55,380 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Commanders: O/U 42.5 | Under 42.5 | 1.82 (55¢) | $57,243 | +$46,835 | ✅ Ganada |
