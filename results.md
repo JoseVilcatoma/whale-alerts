@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 18:35:46 (hora de Perú)
+Actualizado: 2026-11-03 18:37:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7596**  ($430,136,563 en total)
+- Apuestas registradas: **7598**  ($430,328,126 en total)
 - Resueltas: **7562** — 4609 ganadas / 2953 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 14
 - Apostadores distintos: 692
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 540 | 307 | 3 | 64% | $55,339,568 | +$366,989 |
-| Sassy-Bucket | 106 | 105 | 2 | 50% | $13,758,270 | -$1,539,685 |
+| Sassy-Bucket | 106 | 105 | 3 | 50% | $13,858,099 | -$1,539,685 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 129 | 73 | 1 | 64% | $9,763,560 | +$419,824 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Jets vs. Canadiens | Jets | 2.56 (39¢) | $91,734 | — | ⏳ Pendiente |
+| Sassy-Bucket | Jets vs. Canadiens | Canadiens | 1.64 (61¢) | $99,829 | — | ⏳ Pendiente |
 | tenniz | Costa do Sauipe: Daniel Galan vs Gonzalo Bueno | Gonzalo Bueno | 1.14 (88¢) | $143,214 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: BetBoom Team vs Aurora Gaming (BO3) - IEM Beijing Group B | BetBoom Team | 2.17 (46¢) | $27,140 | — | ⏳ Pendiente |
 | ch27er | Hurricanes vs. Predators | Hurricanes | 1.52 (66¢) | $27,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Lakers: O/U 237.5 | Under 237.5 | 2.04 (49¢) | $30,084 | -$30,084 | ❌ Perdida |
 | jakepaulthegoat2008 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $36,400 | +$28,600 | ✅ Ganada |
 | jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.45 (69¢) | $34,500 | +$15,500 | ✅ Ganada |
-| Multicoloured-Serf | Bears vs. Seahawks | Bears | 1.69 (59¢) | $32,467 | +$22,562 | ✅ Ganada |
-| Pwaddler | Bears vs. Seahawks | Bears | 1.67 (60¢) | $29,605 | +$19,737 | ✅ Ganada |

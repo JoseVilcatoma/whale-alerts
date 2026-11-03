@@ -114168,5 +114168,35 @@
     "status": "pending",
     "ultimo_fill": 1793748847,
     "fills": 4
+  },
+  {
+    "telegram_msg_id": 15418,
+    "timestamp": 1793748953,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nhl-wpg-mon-2026-11-03",
+    "title": "Jets vs. Canadiens",
+    "outcome": "Canadiens",
+    "side": "BUY",
+    "usd": 99828.94,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1793748953,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15419,
+    "timestamp": 1793748968,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nhl-wpg-mon-2026-11-03",
+    "title": "Jets vs. Canadiens",
+    "outcome": "Jets",
+    "side": "BUY",
+    "usd": 91734.31800000001,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1793749012,
+    "fills": 2
   }
 ]
