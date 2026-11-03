@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 23:07:33 (hora de Perú)
+Actualizado: 2026-11-02 23:09:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7551**  ($427,977,204 en total)
-- Resueltas: **7488** — 4556 ganadas / 2932 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Resueltas: **7490** — 4557 ganadas / 2933 perdidas (**61%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,560,077** sobre $425,363,577 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,265** sobre $738,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,540,587** sobre $425,414,245 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,187** sobre $738,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | TAIWANNUMBERONE | Bears vs. Seahawks | Bears | 1.15 (87¢) | $39,788 | — | ⏳ Pendiente |
 | CHZHSHCH | Suns vs. Warriors: O/U 230.5 | Under 230.5 | 1.20 (83¢) | $138,329 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Suns vs. Warriors: O/U 230.5 | Over 230.5 | 5.88 (17¢) | $37,778 | — | ⏳ Pendiente |
-| CHZHSHCH | Pelicans vs. Grizzlies | Grizzlies | 1.52 (66¢) | $25,411 | — | ⏳ Pendiente |
+| CHZHSHCH | Pelicans vs. Grizzlies | Grizzlies | 1.52 (66¢) | $25,411 | -$25,411 | ❌ Perdida |
 | sinasinner | Spread: Bears (-6.5) | Bears | 1.61 (62¢) | $29,694 | — | ⏳ Pendiente |
 | ethanaz | Bears vs. Seahawks | Bears | 1.41 (71¢) | $25,183 | — | ⏳ Pendiente |
 | robustmst | Suns vs. Warriors | Warriors | 2.27 (44¢) | $28,862 | — | ⏳ Pendiente |
@@ -130,4 +130,4 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | 999585 | Rolex Paris Masters: Casper Ruud vs Juan Manuel Cerundolo | Casper Ruud | 1.20 (83¢) | $26,310 | +$5,389 | ✅ Ganada |
 | ferrariChampions2026 | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $33,431 | — | ⏳ Pendiente |
 | NS13 | Suns vs. Warriors | Warriors | 1.72 (58¢) | $34,246 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Pelicans vs. Grizzlies | Pelicans | 2.78 (36¢) | $25,257 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Pelicans vs. Grizzlies | Pelicans | 2.78 (36¢) | $25,257 | +$44,901 | ✅ Ganada |
