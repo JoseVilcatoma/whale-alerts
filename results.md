@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 00:15:40 (hora de Perú)
+Actualizado: 2026-11-03 00:17:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7556**  ($428,163,307 en total)
+- Apuestas registradas: **7557**  ($428,189,210 en total)
 - Resueltas: **7516** — 4574 ganadas / 2942 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 689
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 305 | 5 | 64% | $55,162,372 | +$364,301 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 305 | 6 | 64% | $55,188,275 | +$364,301 |
 | Sassy-Bucket | 106 | 105 | 2 | 50% | $13,758,270 | -$1,539,685 |
 | googleplay | 57 | 47 | 1 | 55% | $12,159,271 | -$60,369 |
 | Lakersfan111 | 126 | 71 | 5 | 64% | $9,736,420 | +$422,099 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.54 (65¢) | $25,903 | — | ⏳ Pendiente |
 | kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.41 (71¢) | $32,612 | — | ⏳ Pendiente |
 | winner877 | Trail Blazers vs. Nuggets | Trail Blazers | 1.06 (94¢) | $28,012 | +$1,788 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 | Moneyloverman | Hawks vs. Pacers | Hawks | 1.47 (68¢) | $40,496 | +$19,057 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Thunder vs. Cavaliers | Cavaliers | 1.64 (61¢) | $41,049 | -$41,049 | ❌ Perdida |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-11-02? | Yes | 2.38 (42¢) | $27,279 | +$37,670 | ✅ Ganada |
-| 999585 | Rolex Paris Masters: Mattia Bellucci vs Lorenzo Sonego | Mattia Bellucci | 1.06 (94¢) | $51,501 | +$3,287 | ✅ Ganada |
