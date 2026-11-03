@@ -113041,5 +113041,35 @@
     "status": "pending",
     "ultimo_fill": 1793667216,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15248,
+    "timestamp": 1793667347,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nhl-col-chi-2026-11-02",
+    "title": "Avalanche vs. Blackhawks",
+    "outcome": "Avalanche",
+    "side": "BUY",
+    "usd": 48580.14,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1793667347,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15249,
+    "timestamp": 1793667349,
+    "username": "sinasinner",
+    "wallet": "0x8a260ebadf8ef07e693dd1b0be120b3330dd73c3",
+    "slug": "nfl-chi-sea-2026-11-03-total-46pt5",
+    "title": "Bears vs. Seahawks: O/U 46.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 51000.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793667349,
+    "fills": 1
   }
 ]

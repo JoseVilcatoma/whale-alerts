@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 19:54:30 (hora de Perú)
+Actualizado: 2026-11-02 19:56:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7521**  ($426,722,852 en total)
+- Apuestas registradas: **7523**  ($426,822,433 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 31
 - Apostadores distintos: 688
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 4 | 64% | $55,078,694 | +$423,363 |
-| Sassy-Bucket | 104 | 105 | 3 | 50% | $13,709,690 | -$1,579,345 |
+| Sassy-Bucket | 104 | 105 | 4 | 50% | $13,758,270 | -$1,579,345 |
 | googleplay | 56 | 46 | 1 | 55% | $12,098,825 | +$161,428 |
 | Lakersfan111 | 123 | 68 | 7 | 64% | $9,588,653 | +$481,517 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sinasinner | Bears vs. Seahawks: O/U 46.5 | Under 46.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.45 (69¢) | $48,580 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Grizzlies (-5.5) | Pelicans | 2.00 (50¢) | $216,800 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $31,156 | — | ⏳ Pendiente |
 | Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $37,898 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | ndb1 | Eagles vs. Commanders | Commanders | 1.18 (85¢) | $36,718 | +$6,480 | ✅ Ganada |
 | yabanci | Counter-Strike: Legacy vs TheMongolz (BO3) - IEM Beijing Group A | Legacy | 1.32 (76¢) | $33,970 | -$33,970 | ❌ Perdida |
 | TAIWANNUMBERONE | Eagles vs. Commanders | Commanders | 1.39 (72¢) | $54,457 | +$21,178 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Raptors vs. Lakers | Lakers | 1.16 (86¢) | $30,100 | +$4,900 | ✅ Ganada |
-| cosmicxbt | Eagles vs. Commanders | Commanders | 1.56 (64¢) | $55,804 | +$31,390 | ✅ Ganada |
