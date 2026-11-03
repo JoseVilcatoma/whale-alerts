@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 22:34:40 (hora de Perú)
+Actualizado: 2026-11-02 22:36:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7546**  ($427,678,297 en total)
-- Resueltas: **7479** — 4551 ganadas / 2928 perdidas (**61%** de acierto)
+- Apuestas registradas: **7547**  ($427,703,709 en total)
+- Resueltas: **7480** — 4552 ganadas / 2928 perdidas (**61%** de acierto)
 - Pendientes: 45
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,709,464** sobre $424,852,670 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,146** sobre $737,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,682,218** sobre $424,887,346 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,067** sobre $737,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CHZHSHCH | Pelicans vs. Grizzlies | Grizzlies | 1.52 (66¢) | $25,411 | — | ⏳ Pendiente |
 | sinasinner | Spread: Bears (-6.5) | Bears | 1.61 (62¢) | $29,694 | — | ⏳ Pendiente |
 | ethanaz | Bears vs. Seahawks | Bears | 1.41 (71¢) | $25,183 | — | ⏳ Pendiente |
 | robustmst | Suns vs. Warriors | Warriors | 2.27 (44¢) | $28,862 | — | ⏳ Pendiente |
@@ -103,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $33,801 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Heat vs. Lakers | Heat | 2.27 (44¢) | $39,235 | — | ⏳ Pendiente |
 | ch27er | Pistons vs. Hornets | Pistons | 1.47 (68¢) | $27,500 | — | ⏳ Pendiente |
-| ch27er | Spread: 76ers (-9.5) | 76ers | 1.79 (56¢) | $34,676 | — | ⏳ Pendiente |
+| ch27er | Spread: 76ers (-9.5) | 76ers | 1.79 (56¢) | $34,676 | +$27,245 | ✅ Ganada |
 | jakepaulthegoat2008 | Jazz vs. Spurs | Spurs | 1.11 (90¢) | $31,584 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Pistons (-5.5) | Hornets | 2.04 (49¢) | $31,104 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: 76ers (-10.5) | Bulls | 2.00 (50¢) | $28,165 | -$28,165 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | 999585 | Rolex Paris Masters: Luca Van Assche vs Mariano Navone | Luca Van Assche | 1.11 (90¢) | $26,572 | +$2,952 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.32 (76¢) | $30,760 | +$9,714 | ✅ Ganada |
 | NS13 | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.82 (55¢) | $51,105 | -$51,105 | ❌ Perdida |
-| Woaifacai | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.08 (93¢) | $94,224 | +$7,092 | ✅ Ganada |
