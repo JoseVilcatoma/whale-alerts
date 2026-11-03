@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 23:38:38 (hora de Perú)
+Actualizado: 2026-11-02 23:40:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7555**  ($428,130,695 en total)
-- Resueltas: **7500** — 4564 ganadas / 2936 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **7501** — 4564 ganadas / 2937 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,411,469** sobre $425,867,356 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,100** sobre $739,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,462,469** sobre $425,918,356 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,200** sobre $739,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 1.89 (53¢) | $28,509 | — | ⏳ Pendiente |
 | vtcchampion52 | Bears vs. Seahawks | Seahawks | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | takeormake | Bears vs. Seahawks | Bears | 2.63 (38¢) | $32,479 | — | ⏳ Pendiente |
-| sinasinner | Bears vs. Seahawks: O/U 46.5 | Under 46.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
+| sinasinner | Bears vs. Seahawks: O/U 46.5 | Under 46.5 | 1.96 (51¢) | $51,000 | -$51,000 | ❌ Perdida |
 | Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.45 (69¢) | $48,580 | +$21,826 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Grizzlies (-5.5) | Pelicans | 2.00 (50¢) | $216,800 | +$216,800 | ✅ Ganada |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $31,156 | -$31,156 | ❌ Perdida |
