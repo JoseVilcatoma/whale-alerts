@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 22:12:03 (hora de Perú)
+Actualizado: 2026-11-02 22:14:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7540**  ($427,511,123 en total)
-- Resueltas: **7474** — 4547 ganadas / 2927 perdidas (**61%** de acierto)
+- Apuestas registradas: **7541**  ($427,541,206 en total)
+- Resueltas: **7475** — 4548 ganadas / 2927 perdidas (**61%** de acierto)
 - Pendientes: 44
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,762,437** sobre $424,664,985 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,277** sobre $737,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,734,995** sobre $424,692,427 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,177** sobre $737,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 5 | 64% | $55,104,514 | +$423,363 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 6 | 64% | $55,134,598 | +$423,363 |
 | Sassy-Bucket | 104 | 105 | 4 | 50% | $13,758,270 | -$1,579,345 |
 | googleplay | 56 | 47 | 2 | 54% | $12,159,271 | -$103,969 |
 | Lakersfan111 | 123 | 68 | 11 | 64% | $9,736,420 | +$481,517 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Lakers: O/U 237.5 | Under 237.5 | 2.04 (49¢) | $30,084 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $36,400 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Bears vs. Seahawks | Bears | 1.69 (59¢) | $32,467 | — | ⏳ Pendiente |
@@ -102,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | mooseborzoi | Spread: Pistons (-5.5) | Hornets | 2.04 (49¢) | $31,104 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: 76ers (-10.5) | Bulls | 2.00 (50¢) | $28,165 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | PARIVISION | 1.72 (58¢) | $37,286 | — | ⏳ Pendiente |
-| ch27er | Spread: Magic (-2.5) | Wizards | 2.00 (50¢) | $27,442 | — | ⏳ Pendiente |
+| ch27er | Spread: Magic (-2.5) | Wizards | 2.00 (50¢) | $27,442 | +$27,442 | ✅ Ganada |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.35 (74¢) | $37,679 | — | ⏳ Pendiente |
 | ch27er | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $38,500 | -$38,500 | ❌ Perdida |
 | Multicoloured-Serf | Thunder vs. Cavaliers | Thunder | 2.63 (38¢) | $30,645 | +$50,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.41 (71¢) | $28,400 | +$11,600 | ✅ Ganada |
 | NS13 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Katie Volynets | 1.79 (56¢) | $27,481 | -$27,481 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - IEM Beijing Group B | 9z | 1.69 (59¢) | $34,983 | -$34,983 | ❌ Perdida |
-| drainedandpoor | Counter-Strike: 9z vs BetBoom Team (BO3) - IEM Beijing Group B | 9z | 1.69 (59¢) | $26,550 | -$26,550 | ❌ Perdida |

@@ -112858,7 +112858,7 @@
     "side": "BUY",
     "usd": 27441.565000000002,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793664742,
     "fills": 1
   },
@@ -113325,6 +113325,21 @@
     "odds_at_bet": 56,
     "status": "pending",
     "ultimo_fill": 1793675439,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15271,
+    "timestamp": 1793675596,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-mia-lal-2026-11-02-total-237pt5",
+    "title": "Heat vs. Lakers: O/U 237.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 30083.977599999995,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793675596,
     "fills": 1
   }
 ]
