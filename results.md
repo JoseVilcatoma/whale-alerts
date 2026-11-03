@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 17:13:25 (hora de Perú)
+Actualizado: 2026-11-03 17:15:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7591**  ($429,781,249 en total)
+- Apuestas registradas: **7591**  ($429,881,209 en total)
 - Resueltas: **7558** — 4606 ganadas / 2952 perdidas (**61%** de acierto)
 - Pendientes: 11
 - Apostadores distintos: 692
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 999585 | Ohio vs. Akron | Ohio | 1.19 (84¢) | $127,628 | — | ⏳ Pendiente |
+| 999585 | Ohio vs. Akron | Ohio | 1.19 (84¢) | $227,588 | — | ⏳ Pendiente |
 | 999585 | Ohio vs. Akron | Ohio | 1.20 (83¢) | $42,953 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Ohio (-13.5) | Akron | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | thetesterguy | Will Manchester United FC win on 2026-11-03? | Yes | 1.11 (90¢) | $28,110 | — | ⏳ Pendiente |
