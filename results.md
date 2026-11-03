@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 11:43:42 (hora de Perú)
+Actualizado: 2026-11-03 11:45:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7578**  ($429,230,399 en total)
-- Resueltas: **7549** — 4597 ganadas / 2952 perdidas (**61%** de acierto)
+- Apuestas registradas: **7579**  ($429,270,129 en total)
+- Resueltas: **7550** — 4598 ganadas / 2952 perdidas (**61%** de acierto)
 - Pendientes: 7
 - Apostadores distintos: 691
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,136,939** sobre $428,005,572 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,199** sobre $744,500 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,133,241** sobre $428,063,517 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,193** sobre $744,600 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,8 +71,9 @@ _(mostrando los 40 de mayor monto, de 691 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $39,731 | — | ⏳ Pendiente |
 | DitieForlan | Will FC Barcelona win on 2026-11-03? | No | 4.35 (23¢) | $29,870 | — | ⏳ Pendiente |
-| 999585 | Rolex Paris Masters: Tommy Paul vs Holger Rune | Tommy Paul | 1.06 (94¢) | $57,945 | — | ⏳ Pendiente |
+| 999585 | Rolex Paris Masters: Tommy Paul vs Holger Rune | Tommy Paul | 1.06 (94¢) | $57,945 | +$3,699 | ✅ Ganada |
 | Matheobong | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $38,400 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Prudential Hong Kong Tennis Open: Elena Pridankina vs Paula Badosa | Elena Pridankina | 1.54 (65¢) | $30,573 | +$16,463 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chennai Open: Jeline Vandromme vs Kyoka Okamura | Jeline Vandromme | 1.15 (87¢) | $87,000 | +$13,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 691 en total)_
 | Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.45 (69¢) | $48,580 | +$21,826 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Grizzlies (-5.5) | Pelicans | 2.00 (50¢) | $216,800 | +$216,800 | ✅ Ganada |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $31,156 | -$31,156 | ❌ Perdida |
-| Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $37,898 | +$17,835 | ✅ Ganada |
