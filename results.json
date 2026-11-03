@@ -113793,5 +113793,20 @@
     "status": "pending",
     "ultimo_fill": 1793700089,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15363,
+    "timestamp": 1793700450,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "cs2-furia-navi-2026-11-03",
+    "title": "Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 32400.000000000004,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793700450,
+    "fills": 1
   }
 ]
