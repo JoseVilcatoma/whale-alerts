@@ -113613,5 +113613,20 @@
     "status": "pending",
     "ultimo_fill": 1793684758,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15335,
+    "timestamp": 1793685166,
+    "username": "CORGII",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-mglz-hero-2026-11-02",
+    "title": "Counter-Strike: TheMongolz vs Heroic (BO3) - IEM Beijing Group A",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "usd": 28171.4426,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793685166,
+    "fills": 1
   }
 ]
