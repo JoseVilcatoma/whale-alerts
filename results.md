@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 22:59:17 (hora de Perú)
+Actualizado: 2026-11-02 23:01:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7551**  ($427,977,204 en total)
-- Resueltas: **7482** — 4553 ganadas / 2929 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Resueltas: **7484** — 4555 ganadas / 2929 perdidas (**61%** de acierto)
+- Pendientes: 45
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,700,381** sobre $424,945,949 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,120** sobre $737,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,674,241** sobre $425,044,140 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,065** sobre $738,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 7 | 64% | $55,162,372 | +$423,363 |
 | Sassy-Bucket | 104 | 105 | 4 | 50% | $13,758,270 | -$1,579,345 |
 | googleplay | 56 | 47 | 2 | 54% | $12,159,271 | -$103,969 |
-| Lakersfan111 | 123 | 68 | 11 | 64% | $9,736,420 | +$481,517 |
+| Lakersfan111 | 124 | 68 | 10 | 65% | $9,736,420 | +$494,226 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | jakepaulthegoat2008 | Heat vs. Lakers | Heat | 2.22 (45¢) | $30,150 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.49 (67¢) | $46,717 | — | ⏳ Pendiente |
 | googleplay | Heat vs. Lakers: O/U 237.5 | Over 237.5 | 1.96 (51¢) | $31,379 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Bucks vs. Timberwolves | Timberwolves | 1.33 (75¢) | $40,294 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Bucks vs. Timberwolves | Timberwolves | 1.33 (75¢) | $40,294 | +$13,431 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | Liquid | 2.50 (40¢) | $25,820 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | PARIVISION | 1.72 (58¢) | $100,000 | — | ⏳ Pendiente |
 | googleplay | Trail Blazers vs. Nuggets | Trail Blazers | 2.50 (40¢) | $29,066 | — | ⏳ Pendiente |
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Grizzlies (-5.5) | Pelicans | 2.00 (50¢) | $216,800 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $31,156 | — | ⏳ Pendiente |
 | Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $37,898 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Bucks vs. Timberwolves | Timberwolves | 1.22 (82¢) | $57,897 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Bucks vs. Timberwolves | Timberwolves | 1.22 (82¢) | $57,897 | +$12,709 | ✅ Ganada |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $33,801 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Heat vs. Lakers | Heat | 2.27 (44¢) | $39,235 | — | ⏳ Pendiente |
 | ch27er | Pistons vs. Hornets | Pistons | 1.47 (68¢) | $27,500 | +$12,941 | ✅ Ganada |
