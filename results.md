@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 01:34:10 (hora de Perú)
+Actualizado: 2026-11-03 01:36:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7562**  ($428,474,903 en total)
+- Apuestas registradas: **7563**  ($428,518,381 en total)
 - Resueltas: **7531** — 4583 ganadas / 2948 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 689
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 4217893367451 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.11 (90¢) | $43,478 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | FaZe | 3.70 (27¢) | $35,100 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $42,900 | — | ⏳ Pendiente |
 | CORGII | Counter-Strike: TheMongolz vs Heroic (BO3) - IEM Beijing Group A | TheMongolz | 2.04 (49¢) | $28,171 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 | Multicoloured-Serf | Thunder vs. Cavaliers | Thunder | 2.63 (38¢) | $30,645 | +$50,000 | ✅ Ganada |
 | googleplay | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $265,397 | -$265,397 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-4.5) | Celtics | 2.08 (48¢) | $33,242 | -$33,242 | ❌ Perdida |
-| SineNooneEI | Hawks vs. Pacers | Hawks | 1.28 (78¢) | $60,171 | +$16,971 | ✅ Ganada |
