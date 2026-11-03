@@ -113311,5 +113311,20 @@
     "status": "pending",
     "ultimo_fill": 1793675060,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15270,
+    "timestamp": 1793675439,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-phx-gsw-2026-11-02",
+    "title": "Suns vs. Warriors",
+    "outcome": "Warriors",
+    "side": "BUY",
+    "usd": 36399.9944,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1793675439,
+    "fills": 1
   }
 ]
