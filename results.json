@@ -113655,7 +113655,7 @@
     "side": "BUY",
     "usd": 35099.9973,
     "odds_at_bet": 27,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793685755,
     "fills": 1
   },
@@ -113700,7 +113700,7 @@
     "side": "BUY",
     "usd": 38500.2945,
     "odds_at_bet": 79,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793689458,
     "fills": 1
   },
@@ -113730,7 +113730,7 @@
     "side": "BUY",
     "usd": 60291.959999,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793696275,
     "fills": 1
   },
@@ -113807,6 +113807,21 @@
     "odds_at_bet": 54,
     "status": "pending",
     "ultimo_fill": 1793700450,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15367,
+    "timestamp": 1793700750,
+    "username": "lonmi2511",
+    "wallet": "0x997cb45c25e94b4ee58c234ce1f211496a0d51f3",
+    "slug": "cs2-furia-navi-2026-11-03",
+    "title": "Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 51518.0232,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1793700750,
     "fills": 1
   }
 ]

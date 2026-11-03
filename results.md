@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 05:10:50 (hora de Perú)
+Actualizado: 2026-11-03 05:12:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7572**  ($428,935,092 en total)
-- Resueltas: **7534** — 4586 ganadas / 2948 perdidas (**61%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 689
+- Apuestas registradas: **7573**  ($428,986,610 en total)
+- Resueltas: **7537** — 4588 ganadas / 2949 perdidas (**61%** de acierto)
+- Pendientes: 14
+- Apostadores distintos: 690
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,338,704** sobre $427,316,089 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,781** sobre $743,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,333,873** sobre $427,449,981 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,805** sobre $743,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -65,23 +65,24 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 
-_(mostrando los 40 de mayor monto, de 689 en total)_
+_(mostrando los 40 de mayor monto, de 690 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lonmi2511 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | FURIA | 1.79 (56¢) | $51,518 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | FURIA | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.17 (46¢) | $45,810 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $86,907 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $31,200 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: TheMongolz vs Heroic - Map 2 Winner | TheMongolz | 2.00 (50¢) | $53,000 | — | ⏳ Pendiente |
-| omnibus-076daa | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.49 (67¢) | $60,292 | — | ⏳ Pendiente |
+| omnibus-076daa | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.49 (67¢) | $60,292 | +$29,696 | ✅ Ganada |
 | TAIWANNUMBERONE | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | Legacy | 1.64 (61¢) | $27,111 | — | ⏳ Pendiente |
-| yabanci | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.27 (79¢) | $38,500 | — | ⏳ Pendiente |
+| yabanci | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.27 (79¢) | $38,500 | +$10,234 | ✅ Ganada |
 | hovistomaradona | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $41,491 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.11 (90¢) | $43,478 | +$4,831 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | FaZe | 3.70 (27¢) | $35,100 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | FaZe | 3.70 (27¢) | $35,100 | -$35,100 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $42,900 | — | ⏳ Pendiente |
 | CORGII | Counter-Strike: TheMongolz vs Heroic (BO3) - IEM Beijing Group A | TheMongolz | 2.04 (49¢) | $28,171 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.37 (73¢) | $150,000 | +$55,479 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 | jakepaulthegoat2008 | Heat vs. Lakers | Heat | 2.27 (44¢) | $39,235 | -$39,235 | ❌ Perdida |
 | ch27er | Pistons vs. Hornets | Pistons | 1.47 (68¢) | $27,500 | +$12,941 | ✅ Ganada |
 | ch27er | Spread: 76ers (-9.5) | 76ers | 1.79 (56¢) | $34,676 | +$27,245 | ✅ Ganada |
-| jakepaulthegoat2008 | Jazz vs. Spurs | Spurs | 1.11 (90¢) | $31,584 | +$3,509 | ✅ Ganada |
