@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 12:10:25 (hora de Perú)
+Actualizado: 2026-11-03 12:12:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7580**  ($429,304,901 en total)
+- Apuestas registradas: **7581**  ($429,347,856 en total)
 - Resueltas: **7550** — 4598 ganadas / 2952 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 691
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 691 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| thetesterguy | Galatasaray SK vs. VfB Stuttgart: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $42,955 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FK Shakhtar Donetsk win on 2026-11-03? | No | 1.39 (72¢) | $34,772 | — | ⏳ Pendiente |
 | mooseborzoi | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $39,731 | — | ⏳ Pendiente |
 | DitieForlan | Will FC Barcelona win on 2026-11-03? | No | 4.35 (23¢) | $29,870 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 691 en total)_
 | takeormake | Bears vs. Seahawks | Bears | 2.63 (38¢) | $32,479 | +$52,991 | ✅ Ganada |
 | sinasinner | Bears vs. Seahawks: O/U 46.5 | Under 46.5 | 1.96 (51¢) | $51,000 | -$51,000 | ❌ Perdida |
 | Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.45 (69¢) | $48,580 | +$21,826 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Grizzlies (-5.5) | Pelicans | 2.00 (50¢) | $216,800 | +$216,800 | ✅ Ganada |
