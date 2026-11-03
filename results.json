@@ -113026,5 +113026,20 @@
     "status": "pending",
     "ultimo_fill": 1793666607,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15247,
+    "timestamp": 1793667216,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "nba-nop-mem-2026-11-02-spread-home-5pt5",
+    "title": "Spread: Grizzlies (-5.5)",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 216800.065,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793667216,
+    "fills": 1
   }
 ]

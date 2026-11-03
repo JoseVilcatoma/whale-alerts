@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 19:52:27 (hora de Perú)
+Actualizado: 2026-11-02 19:54:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7520**  ($426,506,052 en total)
+- Apuestas registradas: **7521**  ($426,722,852 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 688
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Grizzlies (-5.5) | Pelicans | 2.00 (50¢) | $216,800 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $31,156 | — | ⏳ Pendiente |
 | Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $37,898 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Bucks vs. Timberwolves | Timberwolves | 1.22 (82¢) | $57,897 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | TAIWANNUMBERONE | Eagles vs. Commanders | Commanders | 1.39 (72¢) | $54,457 | +$21,178 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Raptors vs. Lakers | Lakers | 1.16 (86¢) | $30,100 | +$4,900 | ✅ Ganada |
 | cosmicxbt | Eagles vs. Commanders | Commanders | 1.56 (64¢) | $55,804 | +$31,390 | ✅ Ganada |
-| Sassy-Bucket | Eagles vs. Commanders | Eagles | 1.75 (57¢) | $171,648 | -$171,648 | ❌ Perdida |
