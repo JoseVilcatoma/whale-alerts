@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 23:40:43 (hora de Perú)
+Actualizado: 2026-11-02 23:42:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7555**  ($428,130,695 en total)
-- Resueltas: **7501** — 4564 ganadas / 2937 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Resueltas: **7502** — 4565 ganadas / 2937 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,462,469** sobre $425,918,356 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,200** sobre $739,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,444,269** sobre $425,948,050 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,138** sobre $739,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | CHZHSHCH | Suns vs. Warriors: O/U 230.5 | Under 230.5 | 1.20 (83¢) | $138,329 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Suns vs. Warriors: O/U 230.5 | Over 230.5 | 5.88 (17¢) | $37,778 | — | ⏳ Pendiente |
 | CHZHSHCH | Pelicans vs. Grizzlies | Grizzlies | 1.52 (66¢) | $25,411 | -$25,411 | ❌ Perdida |
-| sinasinner | Spread: Bears (-6.5) | Bears | 1.61 (62¢) | $29,694 | — | ⏳ Pendiente |
+| sinasinner | Spread: Bears (-6.5) | Bears | 1.61 (62¢) | $29,694 | +$18,200 | ✅ Ganada |
 | ethanaz | Bears vs. Seahawks | Bears | 1.41 (71¢) | $25,183 | — | ⏳ Pendiente |
 | robustmst | Suns vs. Warriors | Warriors | 2.27 (44¢) | $28,862 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 4.76 (21¢) | $25,577 | — | ⏳ Pendiente |
