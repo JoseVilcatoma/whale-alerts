@@ -113823,5 +113823,20 @@
     "status": "pending",
     "ultimo_fill": 1793700750,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15368,
+    "timestamp": 1793701178,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-vandrom-okamura-2026-11-02",
+    "title": "Chennai Open: Jeline Vandromme vs Kyoka Okamura",
+    "outcome": "Jeline Vandromme",
+    "side": "BUY",
+    "usd": 87000.0,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1793701178,
+    "fills": 1
   }
 ]
