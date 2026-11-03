@@ -113988,5 +113988,20 @@
     "status": "pending",
     "ultimo_fill": 1793727917,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15393,
+    "timestamp": 1793727941,
+    "username": "Kyn008",
+    "wallet": "0xd29312e2446a746bbd94408e1c475f1ec6d7d683",
+    "slug": "ucl-mnu-rom-2026-11-03-rom",
+    "title": "Will AS Roma win on 2026-11-03?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 31444.0849,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1793727941,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 12:45:22 (hora de Perú)
+Actualizado: 2026-11-03 12:47:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7584**  ($429,445,920 en total)
+- Apuestas registradas: **7585**  ($429,477,364 en total)
 - Resueltas: **7550** — 4598 ganadas / 2952 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 692
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kyn008 | Will AS Roma win on 2026-11-03? | No | 1.49 (67¢) | $31,444 | — | ⏳ Pendiente |
 | mooseborzoi | Wild vs. Flyers | Wild | 1.59 (63¢) | $26,460 | — | ⏳ Pendiente |
 | ch27er | Will Galatasaray SK win on 2026-11-03? | Yes | 2.04 (49¢) | $42,000 | — | ⏳ Pendiente |
 | 0x1eae…c2ab | Will FC Barcelona win on 2026-11-03? | Yes | 1.30 (77¢) | $29,604 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | cosmicxbt | Bears vs. Seahawks | Bears | 1.67 (60¢) | $97,778 | +$65,185 | ✅ Ganada |
 | robustmst | Celtics vs. Rockets | Celtics | 2.56 (39¢) | $35,000 | -$35,000 | ❌ Perdida |
 | Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 1.89 (53¢) | $28,509 | -$28,509 | ❌ Perdida |
-| vtcchampion52 | Bears vs. Seahawks | Seahawks | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
