@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 00:11:38 (hora de Perú)
+Actualizado: 2026-11-03 00:13:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7556**  ($428,163,307 en total)
-- Resueltas: **7515** — 4574 ganadas / 2941 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **7516** — 4574 ganadas / 2942 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 689
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,328,386** sobre $426,432,640 apostados (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,453,383** sobre $426,570,970 apostados (ROI **-0.8%**)
 - Copiando $100 fijo en cada una: **-$6,949** sobre $741,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 | NS13 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | Aurora Gaming | 1.79 (56¢) | $55,851 | — | ⏳ Pendiente |
 | 3648393489047 | Bears vs. Seahawks | Bears | 1.11 (90¢) | $57,600 | +$6,400 | ✅ Ganada |
 | TAIWANNUMBERONE | Bears vs. Seahawks | Bears | 1.15 (87¢) | $39,788 | +$5,945 | ✅ Ganada |
-| CHZHSHCH | Suns vs. Warriors: O/U 230.5 | Under 230.5 | 1.20 (83¢) | $138,329 | — | ⏳ Pendiente |
+| CHZHSHCH | Suns vs. Warriors: O/U 230.5 | Under 230.5 | 1.20 (83¢) | $138,329 | -$124,996 | 💰 Vendida antes |
 | CUTJALENHURTS | Suns vs. Warriors: O/U 230.5 | Over 230.5 | 5.88 (17¢) | $37,778 | — | ⏳ Pendiente |
 | CHZHSHCH | Pelicans vs. Grizzlies | Grizzlies | 1.52 (66¢) | $25,411 | -$25,411 | ❌ Perdida |
 | sinasinner | Spread: Bears (-6.5) | Bears | 1.61 (62¢) | $29,694 | +$18,200 | ✅ Ganada |

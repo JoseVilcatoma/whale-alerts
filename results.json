@@ -113458,9 +113458,11 @@
     "side": "BUY",
     "usd": 138329.45169999998,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1793677769,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": -124996.49,
+    "precio_salida": 8
   },
   {
     "telegram_msg_id": 15288,
