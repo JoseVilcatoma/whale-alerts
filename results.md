@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 23:05:32 (hora de Perú)
+Actualizado: 2026-11-02 23:07:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7551**  ($427,977,204 en total)
-- Resueltas: **7487** — 4555 ganadas / 2932 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Resueltas: **7488** — 4556 ganadas / 2932 perdidas (**61%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,776,877** sobre $425,146,777 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,365** sobre $738,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,560,077** sobre $425,363,577 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,265** sobre $738,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | takeormake | Bears vs. Seahawks | Bears | 2.63 (38¢) | $32,479 | — | ⏳ Pendiente |
 | sinasinner | Bears vs. Seahawks: O/U 46.5 | Under 46.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.45 (69¢) | $48,580 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Grizzlies (-5.5) | Pelicans | 2.00 (50¢) | $216,800 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Grizzlies (-5.5) | Pelicans | 2.00 (50¢) | $216,800 | +$216,800 | ✅ Ganada |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $31,156 | -$31,156 | ❌ Perdida |
 | Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $37,898 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Bucks vs. Timberwolves | Timberwolves | 1.22 (82¢) | $57,897 | +$12,709 | ✅ Ganada |
