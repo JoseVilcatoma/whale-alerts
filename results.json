@@ -113943,5 +113943,20 @@
     "status": "pending",
     "ultimo_fill": 1793725888,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15390,
+    "timestamp": 1793726100,
+    "username": "0x1eae\u2026c2ab",
+    "wallet": "0x1eae27fbc5e6a2f82bdd732bd1d2e0922648c2ab",
+    "slug": "ucl-fcb-ast-2026-11-03-fcb",
+    "title": "Will FC Barcelona win on 2026-11-03?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 29604.349999,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1793726100,
+    "fills": 1
   }
 ]
