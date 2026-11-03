@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 03:11:31 (hora de Perú)
+Actualizado: 2026-11-03 03:13:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7565**  ($428,598,371 en total)
-- Resueltas: **7531** — 4583 ganadas / 2948 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **7534** — 4586 ganadas / 2948 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 689
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,412,334** sobre $427,089,999 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,870** sobre $742,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,338,704** sobre $427,316,089 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,781** sobre $743,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,14 +73,14 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 |---|---|---|---|---|---|---|
 | yabanci | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.27 (79¢) | $38,500 | — | ⏳ Pendiente |
 | hovistomaradona | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $41,491 | — | ⏳ Pendiente |
-| 4217893367451 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.11 (90¢) | $43,478 | — | ⏳ Pendiente |
+| 4217893367451 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.11 (90¢) | $43,478 | +$4,831 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | FaZe | 3.70 (27¢) | $35,100 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $42,900 | — | ⏳ Pendiente |
 | CORGII | Counter-Strike: TheMongolz vs Heroic (BO3) - IEM Beijing Group A | TheMongolz | 2.04 (49¢) | $28,171 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.37 (73¢) | $150,000 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.37 (73¢) | $150,000 | +$55,479 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Suns | 2.44 (41¢) | $29,521 | -$29,521 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.54 (65¢) | $25,903 | +$13,948 | ✅ Ganada |
-| kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.41 (71¢) | $32,612 | — | ⏳ Pendiente |
+| kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.41 (71¢) | $32,612 | +$13,320 | ✅ Ganada |
 | winner877 | Trail Blazers vs. Nuggets | Trail Blazers | 1.06 (94¢) | $28,012 | +$1,788 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | G2 | 2.13 (47¢) | $30,629 | -$30,629 | ❌ Perdida |
