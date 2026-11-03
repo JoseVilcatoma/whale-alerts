@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 18:58:52 (hora de Perú)
+Actualizado: 2026-11-02 19:00:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7505**  ($425,981,484 en total)
+- Apuestas registradas: **7506**  ($426,012,130 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 688
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Thunder vs. Cavaliers | Thunder | 2.63 (38¢) | $30,645 | — | ⏳ Pendiente |
 | googleplay | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $265,397 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-4.5) | Celtics | 2.08 (48¢) | $33,242 | — | ⏳ Pendiente |
 | SineNooneEI | Hawks vs. Pacers | Hawks | 1.28 (78¢) | $60,171 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.82 (55¢) | $92,486 | +$75,670 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 2.00 (50¢) | $27,410 | -$27,410 | ❌ Perdida |
 | jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.85 (54¢) | $36,023 | +$30,686 | ✅ Ganada |
-| TAIWANNUMBERONE | Chiefs vs. Broncos | Broncos | 1.37 (73¢) | $57,241 | +$21,171 | ✅ Ganada |

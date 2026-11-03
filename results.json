@@ -112801,5 +112801,20 @@
     "status": "pending",
     "ultimo_fill": 1793663131,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 15232,
+    "timestamp": 1793663963,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nba-okc-cle-2026-11-02",
+    "title": "Thunder vs. Cavaliers",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 30645.16129,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1793663963,
+    "fills": 1
   }
 ]
