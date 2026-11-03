@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 20:41:42 (hora de Perú)
+Actualizado: 2026-11-02 20:43:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7527**  ($426,947,420 en total)
+- Apuestas registradas: **7528**  ($427,045,198 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 688
 
 ### Balance
@@ -47,8 +47,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
+| cosmicxbt | 23 | 9 | 1 | 72% | $3,505,913 | -$393,348 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
-| cosmicxbt | 23 | 9 | 0 | 72% | $3,408,134 | -$393,348 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Bears vs. Seahawks | Bears | 1.67 (60¢) | $97,778 | — | ⏳ Pendiente |
 | robustmst | Celtics vs. Rockets | Celtics | 2.56 (39¢) | $35,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 1.89 (53¢) | $28,509 | — | ⏳ Pendiente |
 | vtcchampion52 | Bears vs. Seahawks | Seahawks | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | 4217893367451 | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | PARIVISION | 2.17 (46¢) | $25,341 | +$29,749 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: Aurora Gaming vs Liquid (BO3) - IEM Beijing Group B | Liquid | 1.69 (59¢) | $50,145 | +$34,846 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.41 (71¢) | $51,101 | +$20,872 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.27 (44¢) | $66,000 | +$84,000 | ✅ Ganada |
