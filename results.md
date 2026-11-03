@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 10:07:18 (hora de Perú)
+Actualizado: 2026-11-03 10:09:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7575**  ($429,104,183 en total)
-- Resueltas: **7548** — 4596 ganadas / 2952 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **7549** — 4597 ganadas / 2952 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 690
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,153,402** sobre $427,974,999 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,253** sobre $744,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,136,939** sobre $428,005,572 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,199** sobre $744,500 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 690 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 01258787xy48487484545122 | Prudential Hong Kong Tennis Open: Elena Pridankina vs Paula Badosa | Elena Pridankina | 1.54 (65¢) | $30,573 | — | ⏳ Pendiente |
+| 01258787xy48487484545122 | Prudential Hong Kong Tennis Open: Elena Pridankina vs Paula Badosa | Elena Pridankina | 1.54 (65¢) | $30,573 | +$16,463 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chennai Open: Jeline Vandromme vs Kyoka Okamura | Jeline Vandromme | 1.15 (87¢) | $87,000 | +$13,000 | ✅ Ganada |
 | lonmi2511 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | FURIA | 1.79 (56¢) | $51,518 | +$40,478 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | FURIA | 1.85 (54¢) | $32,400 | +$27,600 | ✅ Ganada |
