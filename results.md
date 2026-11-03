@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 01:38:17 (hora de Perú)
+Actualizado: 2026-11-03 01:40:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7563**  ($428,518,381 en total)
+- Apuestas registradas: **7564**  ($428,559,871 en total)
 - Resueltas: **7531** — 4583 ganadas / 2948 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 689
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hovistomaradona | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $41,491 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.11 (90¢) | $43,478 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | FaZe | 3.70 (27¢) | $35,100 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $42,900 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 | ch27er | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $38,500 | -$38,500 | ❌ Perdida |
 | Multicoloured-Serf | Thunder vs. Cavaliers | Thunder | 2.63 (38¢) | $30,645 | +$50,000 | ✅ Ganada |
 | googleplay | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $265,397 | -$265,397 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-4.5) | Celtics | 2.08 (48¢) | $33,242 | -$33,242 | ❌ Perdida |
