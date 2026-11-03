@@ -112816,5 +112816,20 @@
     "status": "pending",
     "ultimo_fill": 1793663963,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15233,
+    "timestamp": 1793664080,
+    "username": "ch27er",
+    "wallet": "0x61a3f1ef9c9618f532eb49f0cb260486c168e508",
+    "slug": "nba-okc-cle-2026-11-02-spread-home-4pt5",
+    "title": "Spread: Cavaliers (-4.5)",
+    "outcome": "Cavaliers",
+    "side": "BUY",
+    "usd": 38500.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793664080,
+    "fills": 1
   }
 ]
