@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 05:00:29 (hora de Perú)
+Actualizado: 2026-11-03 05:02:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7570**  ($428,856,882 en total)
+- Apuestas registradas: **7571**  ($428,902,692 en total)
 - Resueltas: **7534** — 4586 ganadas / 2948 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 689
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 4217893367451 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.17 (46¢) | $45,810 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $86,907 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $31,200 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: TheMongolz vs Heroic - Map 2 Winner | TheMongolz | 2.00 (50¢) | $53,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 | ch27er | Spread: 76ers (-9.5) | 76ers | 1.79 (56¢) | $34,676 | +$27,245 | ✅ Ganada |
 | jakepaulthegoat2008 | Jazz vs. Spurs | Spurs | 1.11 (90¢) | $31,584 | +$3,509 | ✅ Ganada |
 | mooseborzoi | Spread: Pistons (-5.5) | Hornets | 2.04 (49¢) | $31,104 | -$31,104 | ❌ Perdida |
-| mooseborzoi | Spread: 76ers (-10.5) | Bulls | 2.00 (50¢) | $28,165 | -$28,165 | ❌ Perdida |
