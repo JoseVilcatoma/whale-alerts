@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 01:13:25 (hora de Perú)
+Actualizado: 2026-11-03 01:15:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7562**  ($428,474,903 en total)
-- Resueltas: **7522** — 4576 ganadas / 2946 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **7529** — 4581 ganadas / 2948 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 689
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,509,449** sobre $426,788,297 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,174** sobre $741,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,450,844** sobre $427,008,782 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,964** sobre $742,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 306 | 6 | 64% | $55,217,796 | +$334,217 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 538 | 307 | 3 | 64% | $55,217,796 | +$340,467 |
 | Sassy-Bucket | 106 | 105 | 2 | 50% | $13,758,270 | -$1,539,685 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 126 | 73 | 3 | 63% | $9,736,420 | +$352,714 |
+| Lakersfan111 | 127 | 73 | 2 | 64% | $9,736,420 | +$381,314 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -75,8 +75,8 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $42,900 | — | ⏳ Pendiente |
 | CORGII | Counter-Strike: TheMongolz vs Heroic (BO3) - IEM Beijing Group A | TheMongolz | 2.04 (49¢) | $28,171 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.37 (73¢) | $150,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Suns | 2.44 (41¢) | $29,521 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.54 (65¢) | $25,903 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Suns | 2.44 (41¢) | $29,521 | -$29,521 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.54 (65¢) | $25,903 | +$13,948 | ✅ Ganada |
 | kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.41 (71¢) | $32,612 | — | ⏳ Pendiente |
 | winner877 | Trail Blazers vs. Nuggets | Trail Blazers | 1.06 (94¢) | $28,012 | +$1,788 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
@@ -85,15 +85,15 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 | 3648393489047 | Bears vs. Seahawks | Bears | 1.11 (90¢) | $57,600 | +$6,400 | ✅ Ganada |
 | TAIWANNUMBERONE | Bears vs. Seahawks | Bears | 1.15 (87¢) | $39,788 | +$5,945 | ✅ Ganada |
 | CHZHSHCH | Suns vs. Warriors: O/U 230.5 | Under 230.5 | 1.20 (83¢) | $138,329 | -$124,996 | 💰 Vendida antes |
-| CUTJALENHURTS | Suns vs. Warriors: O/U 230.5 | Over 230.5 | 5.88 (17¢) | $37,778 | — | ⏳ Pendiente |
+| CUTJALENHURTS | Suns vs. Warriors: O/U 230.5 | Over 230.5 | 5.88 (17¢) | $37,778 | -$37,778 | ❌ Perdida |
 | CHZHSHCH | Pelicans vs. Grizzlies | Grizzlies | 1.52 (66¢) | $25,411 | -$25,411 | ❌ Perdida |
 | sinasinner | Spread: Bears (-6.5) | Bears | 1.61 (62¢) | $29,694 | +$18,200 | ✅ Ganada |
 | ethanaz | Bears vs. Seahawks | Bears | 1.41 (71¢) | $25,183 | +$10,286 | ✅ Ganada |
-| robustmst | Suns vs. Warriors | Warriors | 2.27 (44¢) | $28,862 | — | ⏳ Pendiente |
+| robustmst | Suns vs. Warriors | Warriors | 2.27 (44¢) | $28,862 | +$36,734 | ✅ Ganada |
 | Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 4.76 (21¢) | $25,577 | -$25,577 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $27,774 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $27,774 | +$21,823 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Lakers: O/U 237.5 | Under 237.5 | 2.04 (49¢) | $30,084 | -$30,084 | ❌ Perdida |
-| jakepaulthegoat2008 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $36,400 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $36,400 | +$28,600 | ✅ Ganada |
 | jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Bears vs. Seahawks | Bears | 1.69 (59¢) | $32,467 | +$22,562 | ✅ Ganada |
 | Pwaddler | Bears vs. Seahawks | Bears | 1.67 (60¢) | $29,605 | +$19,737 | ✅ Ganada |
