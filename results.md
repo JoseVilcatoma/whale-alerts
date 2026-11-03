@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 17:03:18 (hora de Perú)
+Actualizado: 2026-11-03 17:05:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7588**  ($429,585,668 en total)
+- Apuestas registradas: **7589**  ($429,610,668 en total)
 - Resueltas: **7558** — 4606 ganadas / 2952 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 692
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Spread: Ohio (-13.5) | Akron | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | thetesterguy | Will Manchester United FC win on 2026-11-03? | Yes | 1.11 (90¢) | $28,110 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Casper Ruud vs Rafael Jodar | Casper Ruud | 1.08 (93¢) | $42,694 | +$3,214 | ✅ Ganada |
 | Momo63 | Will VfB Stuttgart win on 2026-11-03? | No | 1.33 (75¢) | $37,500 | +$12,500 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | Liquid | 2.50 (40¢) | $25,820 | -$25,820 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | PARIVISION | 1.72 (58¢) | $100,000 | +$72,414 | ✅ Ganada |
 | googleplay | Trail Blazers vs. Nuggets | Trail Blazers | 2.50 (40¢) | $29,066 | +$43,600 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Trail Blazers vs. Nuggets | Nuggets | 1.64 (61¢) | $29,526 | -$29,526 | ❌ Perdida |
