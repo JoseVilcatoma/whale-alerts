@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 22:24:19 (hora de Perú)
+Actualizado: 2026-11-02 22:26:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7544**  ($427,623,420 en total)
-- Resueltas: **7475** — 4548 ganadas / 2927 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Apuestas registradas: **7545**  ($427,648,603 en total)
+- Resueltas: **7478** — 4551 ganadas / 2927 perdidas (**61%** de acierto)
+- Pendientes: 45
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,734,995** sobre $424,692,427 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,177** sobre $737,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,681,299** sobre $424,824,505 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,046** sobre $737,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ethanaz | 63 | 30 | 0 | 68% | $5,464,378 | -$272,119 |
+| ethanaz | 63 | 30 | 1 | 68% | $5,489,561 | -$272,119 |
 | maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
 | BrotherObama | 51 | 54 | 2 | 49% | $4,623,036 | -$111,283 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Bears vs. Seahawks | Bears | 1.41 (71¢) | $25,183 | — | ⏳ Pendiente |
 | robustmst | Suns vs. Warriors | Warriors | 2.27 (44¢) | $28,862 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 4.76 (21¢) | $25,577 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $27,774 | — | ⏳ Pendiente |
@@ -112,14 +113,14 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | Multicoloured-Serf | Thunder vs. Cavaliers | Thunder | 2.63 (38¢) | $30,645 | +$50,000 | ✅ Ganada |
 | googleplay | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $265,397 | -$265,397 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-4.5) | Celtics | 2.08 (48¢) | $33,242 | — | ⏳ Pendiente |
-| SineNooneEI | Hawks vs. Pacers | Hawks | 1.28 (78¢) | $60,171 | — | ⏳ Pendiente |
+| SineNooneEI | Hawks vs. Pacers | Hawks | 1.28 (78¢) | $60,171 | +$16,971 | ✅ Ganada |
 | 999585 | Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov | Karen Khachanov | 1.22 (82¢) | $36,900 | +$8,100 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Valladolid CF vs. CD Leganés end in a draw? | No | 1.18 (85¢) | $31,228 | +$5,511 | ✅ Ganada |
-| Moneyloverman | Hawks vs. Pacers | Hawks | 1.47 (68¢) | $40,496 | — | ⏳ Pendiente |
+| Moneyloverman | Hawks vs. Pacers | Hawks | 1.47 (68¢) | $40,496 | +$19,057 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Thunder vs. Cavaliers | Cavaliers | 1.64 (61¢) | $41,049 | -$41,049 | ❌ Perdida |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-11-02? | Yes | 2.38 (42¢) | $27,279 | +$37,670 | ✅ Ganada |
 | 999585 | Rolex Paris Masters: Mattia Bellucci vs Lorenzo Sonego | Mattia Bellucci | 1.06 (94¢) | $51,501 | +$3,287 | ✅ Ganada |
-| SineNooneEI | Hawks vs. Pacers | Hawks | 1.56 (64¢) | $31,411 | — | ⏳ Pendiente |
+| SineNooneEI | Hawks vs. Pacers | Hawks | 1.56 (64¢) | $31,411 | +$17,668 | ✅ Ganada |
 | 999585 | Rolex Paris Masters: Casper Ruud vs Juan Manuel Cerundolo | Casper Ruud | 1.20 (83¢) | $26,310 | +$5,389 | ✅ Ganada |
 | ferrariChampions2026 | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $33,431 | — | ⏳ Pendiente |
 | NS13 | Suns vs. Warriors | Warriors | 1.72 (58¢) | $34,246 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | NS13 | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.82 (55¢) | $51,105 | -$51,105 | ❌ Perdida |
 | Woaifacai | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.08 (93¢) | $94,224 | +$7,092 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.14 (88¢) | $26,400 | +$3,600 | ✅ Ganada |
-| TAIWANNUMBERONE | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.82 (55¢) | $30,555 | -$30,555 | ❌ Perdida |

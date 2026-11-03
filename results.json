@@ -112663,7 +112663,7 @@
     "side": "BUY",
     "usd": 31410.651700000002,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793632599,
     "fills": 1
   },
@@ -112723,7 +112723,7 @@
     "side": "BUY",
     "usd": 40495.6745,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793642407,
     "fills": 1
   },
@@ -112768,7 +112768,7 @@
     "side": "BUY",
     "usd": 60171.4542,
     "odds_at_bet": 78,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793645150,
     "fills": 1
   },
@@ -113385,6 +113385,21 @@
     "odds_at_bet": 44,
     "status": "pending",
     "ultimo_fill": 1793676212,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15276,
+    "timestamp": 1793676260,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-chi-sea-2026-11-03",
+    "title": "Bears vs. Seahawks",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 25182.954499999996,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1793676260,
     "fills": 1
   }
 ]
