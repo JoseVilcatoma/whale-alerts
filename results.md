@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 18:33:41 (hora de Perú)
+Actualizado: 2026-11-03 18:35:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7595**  ($429,993,349 en total)
+- Apuestas registradas: **7596**  ($430,136,563 en total)
 - Resueltas: **7562** — 4609 ganadas / 2953 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 692
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tenniz | Costa do Sauipe: Daniel Galan vs Gonzalo Bueno | Gonzalo Bueno | 1.14 (88¢) | $143,214 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: BetBoom Team vs Aurora Gaming (BO3) - IEM Beijing Group B | BetBoom Team | 2.17 (46¢) | $27,140 | — | ⏳ Pendiente |
 | ch27er | Hurricanes vs. Predators | Hurricanes | 1.52 (66¢) | $27,500 | — | ⏳ Pendiente |
 | ch27er | Ducks vs. Canucks | Ducks | 1.56 (64¢) | $27,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.45 (69¢) | $34,500 | +$15,500 | ✅ Ganada |
 | Multicoloured-Serf | Bears vs. Seahawks | Bears | 1.69 (59¢) | $32,467 | +$22,562 | ✅ Ganada |
 | Pwaddler | Bears vs. Seahawks | Bears | 1.67 (60¢) | $29,605 | +$19,737 | ✅ Ganada |
-| jakepaulthegoat2008 | Heat vs. Lakers | Heat | 2.22 (45¢) | $30,150 | -$30,150 | ❌ Perdida |
