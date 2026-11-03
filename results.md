@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 23:24:05 (hora de Perú)
+Actualizado: 2026-11-02 23:26:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7554**  ($428,102,683 en total)
-- Resueltas: **7493** — 4560 ganadas / 2933 perdidas (**61%** de acierto)
+- Apuestas registradas: **7555**  ($428,130,695 en total)
+- Resueltas: **7494** — 4560 ganadas / 2934 perdidas (**61%** de acierto)
 - Pendientes: 39
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,485,195** sobre $425,534,154 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,048** sobre $739,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,520,195** sobre $425,569,154 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,148** sobre $739,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| winner877 | Trail Blazers vs. Nuggets | Trail Blazers | 1.06 (94¢) | $28,012 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | G2 | 2.13 (47¢) | $30,629 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | Aurora Gaming | 1.79 (56¢) | $55,851 | — | ⏳ Pendiente |
@@ -98,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | googleplay | Trail Blazers vs. Nuggets | Trail Blazers | 2.50 (40¢) | $29,066 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Trail Blazers vs. Nuggets | Nuggets | 1.64 (61¢) | $29,526 | — | ⏳ Pendiente |
 | cosmicxbt | Bears vs. Seahawks | Bears | 1.67 (60¢) | $97,778 | — | ⏳ Pendiente |
-| robustmst | Celtics vs. Rockets | Celtics | 2.56 (39¢) | $35,000 | — | ⏳ Pendiente |
+| robustmst | Celtics vs. Rockets | Celtics | 2.56 (39¢) | $35,000 | -$35,000 | ❌ Perdida |
 | Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 1.89 (53¢) | $28,509 | — | ⏳ Pendiente |
 | vtcchampion52 | Bears vs. Seahawks | Seahawks | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | takeormake | Bears vs. Seahawks | Bears | 2.63 (38¢) | $32,479 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-11-02? | Yes | 2.38 (42¢) | $27,279 | +$37,670 | ✅ Ganada |
 | 999585 | Rolex Paris Masters: Mattia Bellucci vs Lorenzo Sonego | Mattia Bellucci | 1.06 (94¢) | $51,501 | +$3,287 | ✅ Ganada |
 | SineNooneEI | Hawks vs. Pacers | Hawks | 1.56 (64¢) | $31,411 | +$17,668 | ✅ Ganada |
-| 999585 | Rolex Paris Masters: Casper Ruud vs Juan Manuel Cerundolo | Casper Ruud | 1.20 (83¢) | $26,310 | +$5,389 | ✅ Ganada |
