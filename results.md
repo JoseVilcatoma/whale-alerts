@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 03:13:33 (hora de Perú)
+Actualizado: 2026-11-03 03:15:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7565**  ($428,598,371 en total)
+- Apuestas registradas: **7566**  ($428,625,482 en total)
 - Resueltas: **7534** — 4586 ganadas / 2948 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 689
 
 ### Balance
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
-| TAIWANNUMBERONE | 49 | 23 | 0 | 68% | $2,710,396 | -$231,841 |
+| TAIWANNUMBERONE | 49 | 23 | 1 | 68% | $2,737,507 | -$231,841 |
 | ndb1 | 30 | 15 | 0 | 67% | $2,639,910 | +$448,403 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | Legacy | 1.64 (61¢) | $27,111 | — | ⏳ Pendiente |
 | yabanci | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.27 (79¢) | $38,500 | — | ⏳ Pendiente |
 | hovistomaradona | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $41,491 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.11 (90¢) | $43,478 | +$4,831 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 | ch27er | Spread: Magic (-2.5) | Wizards | 2.00 (50¢) | $27,442 | +$27,442 | ✅ Ganada |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.35 (74¢) | $37,679 | -$37,679 | ❌ Perdida |
 | ch27er | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $38,500 | -$38,500 | ❌ Perdida |
-| Multicoloured-Serf | Thunder vs. Cavaliers | Thunder | 2.63 (38¢) | $30,645 | +$50,000 | ✅ Ganada |
