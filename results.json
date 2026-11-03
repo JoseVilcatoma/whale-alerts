@@ -113266,5 +113266,35 @@
     "status": "pending",
     "ultimo_fill": 1793674139,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15267,
+    "timestamp": 1793674553,
+    "username": "Pwaddler",
+    "wallet": "0x1d1ade627d0bb0205758580b20d808573e720df6",
+    "slug": "nfl-chi-sea-2026-11-03",
+    "title": "Bears vs. Seahawks",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 29605.26,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1793674553,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1793674659,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nfl-chi-sea-2026-11-03",
+    "title": "Bears vs. Seahawks",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 32466.944799999997,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1793674659,
+    "fills": 1
   }
 ]
