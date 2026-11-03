@@ -113958,5 +113958,20 @@
     "status": "pending",
     "ultimo_fill": 1793726100,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15391,
+    "timestamp": 1793727512,
+    "username": "ch27er",
+    "wallet": "0x61a3f1ef9c9618f532eb49f0cb260486c168e508",
+    "slug": "ucl-gal-stu-2026-11-03-gal",
+    "title": "Will Galatasaray SK win on 2026-11-03?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 42000.00000000001,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793727512,
+    "fills": 1
   }
 ]
