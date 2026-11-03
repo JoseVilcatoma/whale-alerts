@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 19:35:59 (hora de Perú)
+Actualizado: 2026-11-02 19:38:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7517**  ($426,379,101 en total)
+- Apuestas registradas: **7518**  ($426,436,998 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 688
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 4 | 64% | $55,078,694 | +$423,363 |
 | Sassy-Bucket | 104 | 105 | 2 | 50% | $13,671,792 | -$1,579,345 |
 | googleplay | 56 | 46 | 1 | 55% | $12,098,825 | +$161,428 |
-| Lakersfan111 | 123 | 68 | 5 | 64% | $9,499,600 | +$481,517 |
+| Lakersfan111 | 123 | 68 | 6 | 64% | $9,557,496 | +$481,517 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Bucks vs. Timberwolves | Timberwolves | 1.22 (82¢) | $57,897 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $33,801 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Heat vs. Lakers | Heat | 2.27 (44¢) | $39,235 | — | ⏳ Pendiente |
 | ch27er | Pistons vs. Hornets | Pistons | 1.47 (68¢) | $27,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | Sassy-Bucket | Eagles vs. Commanders | Eagles | 1.75 (57¢) | $171,648 | -$171,648 | ❌ Perdida |
 | EdZachary | Eagles vs. Commanders | Commanders | 2.56 (39¢) | $32,764 | +$51,247 | ✅ Ganada |
 | Multicoloured-Serf | Eagles vs. Commanders | Eagles | 1.25 (80¢) | $30,341 | -$30,341 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Eagles vs. Commanders | Commanders | 1.67 (60¢) | $43,715 | +$29,143 | ✅ Ganada |
