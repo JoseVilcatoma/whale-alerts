@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 23:44:52 (hora de Perú)
+Actualizado: 2026-11-02 23:46:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7555**  ($428,130,695 en total)
-- Resueltas: **7502** — 4565 ganadas / 2937 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **7512** — 4572 ganadas / 2940 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,444,269** sobre $425,948,050 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,138** sobre $739,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,344,248** sobre $426,346,036 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,005** sobre $740,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,19 +40,19 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ethanaz | 63 | 30 | 1 | 68% | $5,489,561 | -$272,119 |
+| ethanaz | 64 | 30 | 0 | 68% | $5,489,561 | -$261,833 |
 | maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
 | BrotherObama | 51 | 54 | 2 | 49% | $4,623,036 | -$111,283 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | surfandturf | 37 | 10 | 0 | 79% | $3,636,985 | +$512,983 |
-| cosmicxbt | 23 | 9 | 1 | 72% | $3,505,913 | -$393,348 |
+| cosmicxbt | 24 | 9 | 0 | 73% | $3,505,913 | -$328,163 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
-| TAIWANNUMBERONE | 48 | 23 | 1 | 68% | $2,710,396 | -$237,786 |
+| TAIWANNUMBERONE | 49 | 23 | 0 | 68% | $2,710,396 | -$231,841 |
 | ndb1 | 30 | 15 | 0 | 67% | $2,639,910 | +$448,403 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -75,21 +75,21 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | G2 | 2.13 (47¢) | $30,629 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | Aurora Gaming | 1.79 (56¢) | $55,851 | — | ⏳ Pendiente |
-| 3648393489047 | Bears vs. Seahawks | Bears | 1.11 (90¢) | $57,600 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Bears vs. Seahawks | Bears | 1.15 (87¢) | $39,788 | — | ⏳ Pendiente |
+| 3648393489047 | Bears vs. Seahawks | Bears | 1.11 (90¢) | $57,600 | +$6,400 | ✅ Ganada |
+| TAIWANNUMBERONE | Bears vs. Seahawks | Bears | 1.15 (87¢) | $39,788 | +$5,945 | ✅ Ganada |
 | CHZHSHCH | Suns vs. Warriors: O/U 230.5 | Under 230.5 | 1.20 (83¢) | $138,329 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Suns vs. Warriors: O/U 230.5 | Over 230.5 | 5.88 (17¢) | $37,778 | — | ⏳ Pendiente |
 | CHZHSHCH | Pelicans vs. Grizzlies | Grizzlies | 1.52 (66¢) | $25,411 | -$25,411 | ❌ Perdida |
 | sinasinner | Spread: Bears (-6.5) | Bears | 1.61 (62¢) | $29,694 | +$18,200 | ✅ Ganada |
-| ethanaz | Bears vs. Seahawks | Bears | 1.41 (71¢) | $25,183 | — | ⏳ Pendiente |
+| ethanaz | Bears vs. Seahawks | Bears | 1.41 (71¢) | $25,183 | +$10,286 | ✅ Ganada |
 | robustmst | Suns vs. Warriors | Warriors | 2.27 (44¢) | $28,862 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 4.76 (21¢) | $25,577 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 4.76 (21¢) | $25,577 | -$25,577 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $27,774 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Lakers: O/U 237.5 | Under 237.5 | 2.04 (49¢) | $30,084 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $36,400 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Bears vs. Seahawks | Bears | 1.69 (59¢) | $32,467 | — | ⏳ Pendiente |
-| Pwaddler | Bears vs. Seahawks | Bears | 1.67 (60¢) | $29,605 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Bears vs. Seahawks | Bears | 1.69 (59¢) | $32,467 | +$22,562 | ✅ Ganada |
+| Pwaddler | Bears vs. Seahawks | Bears | 1.67 (60¢) | $29,605 | +$19,737 | ✅ Ganada |
 | jakepaulthegoat2008 | Heat vs. Lakers | Heat | 2.22 (45¢) | $30,150 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.49 (67¢) | $46,717 | — | ⏳ Pendiente |
 | googleplay | Heat vs. Lakers: O/U 237.5 | Over 237.5 | 1.96 (51¢) | $31,379 | — | ⏳ Pendiente |
@@ -98,11 +98,11 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | fantasy7788 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | PARIVISION | 1.72 (58¢) | $100,000 | +$72,414 | ✅ Ganada |
 | googleplay | Trail Blazers vs. Nuggets | Trail Blazers | 2.50 (40¢) | $29,066 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Trail Blazers vs. Nuggets | Nuggets | 1.64 (61¢) | $29,526 | — | ⏳ Pendiente |
-| cosmicxbt | Bears vs. Seahawks | Bears | 1.67 (60¢) | $97,778 | — | ⏳ Pendiente |
+| cosmicxbt | Bears vs. Seahawks | Bears | 1.67 (60¢) | $97,778 | +$65,185 | ✅ Ganada |
 | robustmst | Celtics vs. Rockets | Celtics | 2.56 (39¢) | $35,000 | -$35,000 | ❌ Perdida |
-| Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 1.89 (53¢) | $28,509 | — | ⏳ Pendiente |
-| vtcchampion52 | Bears vs. Seahawks | Seahawks | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
-| takeormake | Bears vs. Seahawks | Bears | 2.63 (38¢) | $32,479 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 1.89 (53¢) | $28,509 | -$28,509 | ❌ Perdida |
+| vtcchampion52 | Bears vs. Seahawks | Seahawks | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
+| takeormake | Bears vs. Seahawks | Bears | 2.63 (38¢) | $32,479 | +$52,991 | ✅ Ganada |
 | sinasinner | Bears vs. Seahawks: O/U 46.5 | Under 46.5 | 1.96 (51¢) | $51,000 | -$51,000 | ❌ Perdida |
 | Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.45 (69¢) | $48,580 | +$21,826 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Grizzlies (-5.5) | Pelicans | 2.00 (50¢) | $216,800 | +$216,800 | ✅ Ganada |
