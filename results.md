@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 09:18:09 (hora de Perú)
+Actualizado: 2026-11-03 09:20:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7574**  ($429,073,610 en total)
-- Resueltas: **7544** — 4593 ganadas / 2951 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **7548** — 4596 ganadas / 2952 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 690
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,303,191** sobre $427,834,788 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,622** sobre $744,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,153,402** sobre $427,974,999 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,253** sobre $744,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
-| TAIWANNUMBERONE | 49 | 23 | 1 | 68% | $2,737,507 | -$231,841 |
+| TAIWANNUMBERONE | 49 | 24 | 0 | 67% | $2,737,507 | -$258,952 |
 | ndb1 | 30 | 15 | 0 | 67% | $2,639,910 | +$448,403 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -76,22 +76,22 @@ _(mostrando los 40 de mayor monto, de 690 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | FURIA | 1.85 (54¢) | $32,400 | +$27,600 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.17 (46¢) | $45,810 | -$45,810 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $86,907 | -$86,907 | ❌ Perdida |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $31,200 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $31,200 | +$48,800 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: TheMongolz vs Heroic - Map 2 Winner | TheMongolz | 2.00 (50¢) | $53,000 | +$53,000 | ✅ Ganada |
 | omnibus-076daa | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.49 (67¢) | $60,292 | +$29,696 | ✅ Ganada |
-| TAIWANNUMBERONE | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | Legacy | 1.64 (61¢) | $27,111 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | Legacy | 1.64 (61¢) | $27,111 | -$27,111 | ❌ Perdida |
 | yabanci | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.27 (79¢) | $38,500 | +$10,234 | ✅ Ganada |
 | hovistomaradona | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $41,491 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.11 (90¢) | $43,478 | +$4,831 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | FaZe | 3.70 (27¢) | $35,100 | -$35,100 | ❌ Perdida |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $42,900 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $42,900 | +$67,100 | ✅ Ganada |
 | CORGII | Counter-Strike: TheMongolz vs Heroic (BO3) - IEM Beijing Group A | TheMongolz | 2.04 (49¢) | $28,171 | +$29,321 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.37 (73¢) | $150,000 | +$55,479 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Suns | 2.44 (41¢) | $29,521 | -$29,521 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.54 (65¢) | $25,903 | +$13,948 | ✅ Ganada |
 | kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.41 (71¢) | $32,612 | +$13,320 | ✅ Ganada |
 | winner877 | Trail Blazers vs. Nuggets | Trail Blazers | 1.06 (94¢) | $28,012 | +$1,788 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $39,000 | +$61,000 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | G2 | 2.13 (47¢) | $30,629 | -$30,629 | ❌ Perdida |
 | NS13 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | Aurora Gaming | 1.79 (56¢) | $55,851 | +$43,883 | ✅ Ganada |
 | 3648393489047 | Bears vs. Seahawks | Bears | 1.11 (90¢) | $57,600 | +$6,400 | ✅ Ganada |
