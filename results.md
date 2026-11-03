@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 23:26:07 (hora de Perú)
+Actualizado: 2026-11-02 23:28:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7555**  ($428,130,695 en total)
-- Resueltas: **7494** — 4560 ganadas / 2934 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Resueltas: **7496** — 4561 ganadas / 2935 perdidas (**61%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,520,195** sobre $425,569,154 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,148** sobre $739,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,488,572** sobre $425,672,667 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,156** sobre $739,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 7 | 64% | $55,162,372 | +$423,363 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 304 | 6 | 64% | $55,162,372 | +$390,121 |
 | Sassy-Bucket | 106 | 105 | 2 | 50% | $13,758,270 | -$1,539,685 |
 | googleplay | 56 | 47 | 2 | 54% | $12,159,271 | -$103,969 |
 | Lakersfan111 | 124 | 71 | 7 | 64% | $9,736,420 | +$391,589 |
@@ -122,7 +122,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | ch27er | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $38,500 | -$38,500 | ❌ Perdida |
 | Multicoloured-Serf | Thunder vs. Cavaliers | Thunder | 2.63 (38¢) | $30,645 | +$50,000 | ✅ Ganada |
 | googleplay | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $265,397 | -$265,397 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-4.5) | Celtics | 2.08 (48¢) | $33,242 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-4.5) | Celtics | 2.08 (48¢) | $33,242 | -$33,242 | ❌ Perdida |
 | SineNooneEI | Hawks vs. Pacers | Hawks | 1.28 (78¢) | $60,171 | +$16,971 | ✅ Ganada |
 | 999585 | Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov | Karen Khachanov | 1.22 (82¢) | $36,900 | +$8,100 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Valladolid CF vs. CD Leganés end in a draw? | No | 1.18 (85¢) | $31,228 | +$5,511 | ✅ Ganada |
