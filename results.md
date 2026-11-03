@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 17:35:58 (hora de Perú)
+Actualizado: 2026-11-03 17:38:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7592**  ($429,911,209 en total)
+- Apuestas registradas: **7593**  ($429,938,709 en total)
 - Resueltas: **7562** — 4609 ganadas / 2953 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 692
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ch27er | Ducks vs. Canucks | Ducks | 1.56 (64¢) | $27,500 | — | ⏳ Pendiente |
 | ch27er | Jets vs. Canadiens | Canadiens | 1.64 (61¢) | $30,000 | — | ⏳ Pendiente |
 | 999585 | Ohio vs. Akron | Ohio | 1.19 (84¢) | $227,588 | — | ⏳ Pendiente |
 | 999585 | Ohio vs. Akron | Ohio | 1.20 (83¢) | $42,953 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | jakepaulthegoat2008 | Heat vs. Lakers | Heat | 2.22 (45¢) | $30,150 | -$30,150 | ❌ Perdida |
 | jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.49 (67¢) | $46,717 | +$23,010 | ✅ Ganada |
 | googleplay | Heat vs. Lakers: O/U 237.5 | Over 237.5 | 1.96 (51¢) | $31,379 | +$30,149 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Bucks vs. Timberwolves | Timberwolves | 1.33 (75¢) | $40,294 | +$13,431 | ✅ Ganada |
