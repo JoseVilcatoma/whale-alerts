@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 21:53:30 (hora de Perú)
+Actualizado: 2026-11-02 21:55:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7536**  ($427,378,150 en total)
-- Resueltas: **7472** — 4546 ganadas / 2926 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Resueltas: **7474** — 4547 ganadas / 2927 perdidas (**61%** de acierto)
+- Pendientes: 40
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,771,388** sobre $424,593,292 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,340** sobre $736,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,762,437** sobre $424,664,985 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,277** sobre $737,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -101,14 +101,14 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | ch27er | Spread: Magic (-2.5) | Wizards | 2.00 (50¢) | $27,442 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.35 (74¢) | $37,679 | — | ⏳ Pendiente |
 | ch27er | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $38,500 | -$38,500 | ❌ Perdida |
-| Multicoloured-Serf | Thunder vs. Cavaliers | Thunder | 2.63 (38¢) | $30,645 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Thunder vs. Cavaliers | Thunder | 2.63 (38¢) | $30,645 | +$50,000 | ✅ Ganada |
 | googleplay | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $265,397 | -$265,397 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Rockets (-4.5) | Celtics | 2.08 (48¢) | $33,242 | — | ⏳ Pendiente |
 | SineNooneEI | Hawks vs. Pacers | Hawks | 1.28 (78¢) | $60,171 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov | Karen Khachanov | 1.22 (82¢) | $36,900 | +$8,100 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Valladolid CF vs. CD Leganés end in a draw? | No | 1.18 (85¢) | $31,228 | +$5,511 | ✅ Ganada |
 | Moneyloverman | Hawks vs. Pacers | Hawks | 1.47 (68¢) | $40,496 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Thunder vs. Cavaliers | Cavaliers | 1.64 (61¢) | $41,049 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Thunder vs. Cavaliers | Cavaliers | 1.64 (61¢) | $41,049 | -$41,049 | ❌ Perdida |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-11-02? | Yes | 2.38 (42¢) | $27,279 | +$37,670 | ✅ Ganada |
 | 999585 | Rolex Paris Masters: Mattia Bellucci vs Lorenzo Sonego | Mattia Bellucci | 1.06 (94¢) | $51,501 | +$3,287 | ✅ Ganada |
 | SineNooneEI | Hawks vs. Pacers | Hawks | 1.56 (64¢) | $31,411 | — | ⏳ Pendiente |
