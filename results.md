@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 22:14:07 (hora de Perú)
+Actualizado: 2026-11-02 22:16:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7541**  ($427,541,206 en total)
+- Apuestas registradas: **7542**  ($427,568,981 en total)
 - Resueltas: **7475** — 4548 ganadas / 2927 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 688
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 6 | 64% | $55,134,598 | +$423,363 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 7 | 64% | $55,162,372 | +$423,363 |
 | Sassy-Bucket | 104 | 105 | 4 | 50% | $13,758,270 | -$1,579,345 |
 | googleplay | 56 | 47 | 2 | 54% | $12,159,271 | -$103,969 |
 | Lakersfan111 | 123 | 68 | 11 | 64% | $9,736,420 | +$481,517 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $27,774 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Lakers: O/U 237.5 | Under 237.5 | 2.04 (49¢) | $30,084 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $36,400 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | TAIWANNUMBERONE | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.82 (55¢) | $30,555 | -$30,555 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.41 (71¢) | $28,400 | +$11,600 | ✅ Ganada |
 | NS13 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Katie Volynets | 1.79 (56¢) | $27,481 | -$27,481 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 9z vs BetBoom Team (BO3) - IEM Beijing Group B | 9z | 1.69 (59¢) | $34,983 | -$34,983 | ❌ Perdida |
