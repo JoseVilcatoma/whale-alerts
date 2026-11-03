@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 17:21:38 (hora de Perú)
+Actualizado: 2026-11-03 17:23:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7591**  ($429,881,209 en total)
-- Resueltas: **7560** — 4607 ganadas / 2953 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **7562** — 4609 ganadas / 2953 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 692
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,947,480** sobre $428,442,533 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,744** sobre $745,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,928,869** sobre $428,502,087 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,684** sobre $745,800 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,10 +74,10 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | 999585 | Ohio vs. Akron | Ohio | 1.19 (84¢) | $227,588 | — | ⏳ Pendiente |
 | 999585 | Ohio vs. Akron | Ohio | 1.20 (83¢) | $42,953 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Ohio (-13.5) | Akron | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| thetesterguy | Will Manchester United FC win on 2026-11-03? | Yes | 1.11 (90¢) | $28,110 | — | ⏳ Pendiente |
+| thetesterguy | Will Manchester United FC win on 2026-11-03? | Yes | 1.11 (90¢) | $28,110 | +$3,123 | ✅ Ganada |
 | 999585 | Rolex Paris Masters: Casper Ruud vs Rafael Jodar | Casper Ruud | 1.08 (93¢) | $42,694 | +$3,214 | ✅ Ganada |
 | Momo63 | Will VfB Stuttgart win on 2026-11-03? | No | 1.33 (75¢) | $37,500 | +$12,500 | ✅ Ganada |
-| Kyn008 | Will AS Roma win on 2026-11-03? | No | 1.49 (67¢) | $31,444 | — | ⏳ Pendiente |
+| Kyn008 | Will AS Roma win on 2026-11-03? | No | 1.49 (67¢) | $31,444 | +$15,487 | ✅ Ganada |
 | mooseborzoi | Wild vs. Flyers | Wild | 1.59 (63¢) | $26,460 | — | ⏳ Pendiente |
 | ch27er | Will Galatasaray SK win on 2026-11-03? | Yes | 2.04 (49¢) | $42,000 | +$43,714 | ✅ Ganada |
 | 0x1eae…c2ab | Will FC Barcelona win on 2026-11-03? | Yes | 1.30 (77¢) | $29,604 | +$8,843 | ✅ Ganada |
