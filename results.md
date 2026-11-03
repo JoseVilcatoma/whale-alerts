@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 22:36:43 (hora de Perú)
+Actualizado: 2026-11-02 22:38:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7547**  ($427,703,709 en total)
-- Resueltas: **7480** — 4552 ganadas / 2928 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Resueltas: **7481** — 4553 ganadas / 2928 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,682,218** sobre $424,887,346 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,067** sobre $737,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,669,277** sobre $424,914,846 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,020** sobre $737,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | jakepaulthegoat2008 | Bucks vs. Timberwolves | Timberwolves | 1.22 (82¢) | $57,897 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $33,801 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Heat vs. Lakers | Heat | 2.27 (44¢) | $39,235 | — | ⏳ Pendiente |
-| ch27er | Pistons vs. Hornets | Pistons | 1.47 (68¢) | $27,500 | — | ⏳ Pendiente |
+| ch27er | Pistons vs. Hornets | Pistons | 1.47 (68¢) | $27,500 | +$12,941 | ✅ Ganada |
 | ch27er | Spread: 76ers (-9.5) | 76ers | 1.79 (56¢) | $34,676 | +$27,245 | ✅ Ganada |
 | jakepaulthegoat2008 | Jazz vs. Spurs | Spurs | 1.11 (90¢) | $31,584 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Pistons (-5.5) | Hornets | 2.04 (49¢) | $31,104 | — | ⏳ Pendiente |
