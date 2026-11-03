@@ -113868,5 +113868,20 @@
     "status": "pending",
     "ultimo_fill": 1793719641,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15384,
+    "timestamp": 1793720903,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "atp-paul-rune-2026-11-02",
+    "title": "Rolex Paris Masters: Tommy Paul vs Holger Rune",
+    "outcome": "Tommy Paul",
+    "side": "BUY",
+    "usd": 57945.1908,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1793720903,
+    "fills": 1
   }
 ]
