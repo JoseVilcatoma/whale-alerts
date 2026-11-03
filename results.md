@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 01:17:43 (hora de Perú)
+Actualizado: 2026-11-03 01:19:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7562**  ($428,474,903 en total)
-- Resueltas: **7529** — 4581 ganadas / 2948 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **7531** — 4583 ganadas / 2948 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 689
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,450,844** sobre $427,008,782 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,964** sobre $742,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,412,334** sobre $427,089,999 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,870** sobre $742,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 538 | 307 | 3 | 64% | $55,217,796 | +$340,467 |
 | Sassy-Bucket | 106 | 105 | 2 | 50% | $13,758,270 | -$1,539,685 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 127 | 73 | 2 | 64% | $9,736,420 | +$381,314 |
+| Lakersfan111 | 129 | 73 | 0 | 64% | $9,736,420 | +$419,824 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -94,11 +94,11 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $27,774 | +$21,823 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Lakers: O/U 237.5 | Under 237.5 | 2.04 (49¢) | $30,084 | -$30,084 | ❌ Perdida |
 | jakepaulthegoat2008 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $36,400 | +$28,600 | ✅ Ganada |
-| jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.45 (69¢) | $34,500 | +$15,500 | ✅ Ganada |
 | Multicoloured-Serf | Bears vs. Seahawks | Bears | 1.69 (59¢) | $32,467 | +$22,562 | ✅ Ganada |
 | Pwaddler | Bears vs. Seahawks | Bears | 1.67 (60¢) | $29,605 | +$19,737 | ✅ Ganada |
 | jakepaulthegoat2008 | Heat vs. Lakers | Heat | 2.22 (45¢) | $30,150 | -$30,150 | ❌ Perdida |
-| jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.49 (67¢) | $46,717 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.49 (67¢) | $46,717 | +$23,010 | ✅ Ganada |
 | googleplay | Heat vs. Lakers: O/U 237.5 | Over 237.5 | 1.96 (51¢) | $31,379 | +$30,149 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Bucks vs. Timberwolves | Timberwolves | 1.33 (75¢) | $40,294 | +$13,431 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | Liquid | 2.50 (40¢) | $25,820 | -$25,820 | ❌ Perdida |
