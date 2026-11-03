@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 08:59:39 (hora de Perú)
+Actualizado: 2026-11-03 09:01:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7574**  ($429,073,610 en total)
-- Resueltas: **7540** — 4591 ganadas / 2949 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **7544** — 4593 ganadas / 2951 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 690
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,238,552** sobre $427,618,152 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,586** sobre $743,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,303,191** sobre $427,834,788 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,622** sobre $744,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,10 +72,10 @@ _(mostrando los 40 de mayor monto, de 690 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chennai Open: Jeline Vandromme vs Kyoka Okamura | Jeline Vandromme | 1.15 (87¢) | $87,000 | +$13,000 | ✅ Ganada |
-| lonmi2511 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | FURIA | 1.79 (56¢) | $51,518 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | FURIA | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
-| 4217893367451 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.17 (46¢) | $45,810 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $86,907 | — | ⏳ Pendiente |
+| lonmi2511 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | FURIA | 1.79 (56¢) | $51,518 | +$40,478 | ✅ Ganada |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | FURIA | 1.85 (54¢) | $32,400 | +$27,600 | ✅ Ganada |
+| 4217893367451 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.17 (46¢) | $45,810 | -$45,810 | ❌ Perdida |
+| fantasy7788 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $86,907 | -$86,907 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $31,200 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: TheMongolz vs Heroic - Map 2 Winner | TheMongolz | 2.00 (50¢) | $53,000 | +$53,000 | ✅ Ganada |
 | omnibus-076daa | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.49 (67¢) | $60,292 | +$29,696 | ✅ Ganada |
