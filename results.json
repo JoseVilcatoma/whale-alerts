@@ -112966,5 +112966,20 @@
     "status": "pending",
     "ultimo_fill": 1793665673,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15243,
+    "timestamp": 1793665832,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-sac-dal-2026-11-02",
+    "title": "Kings vs. Mavericks",
+    "outcome": "Mavericks",
+    "side": "BUY",
+    "usd": 33801.149999999994,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1793665832,
+    "fills": 1
   }
 ]
