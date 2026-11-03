@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 17:15:25 (hora de Perú)
+Actualizado: 2026-11-03 17:17:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7591**  ($429,881,209 en total)
-- Resueltas: **7558** — 4606 ganadas / 2952 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **7560** — 4607 ganadas / 2953 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 692
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,926,453** sobre $428,383,059 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,674** sobre $745,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,947,480** sobre $428,442,533 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,744** sobre $745,600 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,11 +80,11 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | Kyn008 | Will AS Roma win on 2026-11-03? | No | 1.49 (67¢) | $31,444 | — | ⏳ Pendiente |
 | mooseborzoi | Wild vs. Flyers | Wild | 1.59 (63¢) | $26,460 | — | ⏳ Pendiente |
 | ch27er | Will Galatasaray SK win on 2026-11-03? | Yes | 2.04 (49¢) | $42,000 | +$43,714 | ✅ Ganada |
-| 0x1eae…c2ab | Will FC Barcelona win on 2026-11-03? | Yes | 1.30 (77¢) | $29,604 | — | ⏳ Pendiente |
+| 0x1eae…c2ab | Will FC Barcelona win on 2026-11-03? | Yes | 1.30 (77¢) | $29,604 | +$8,843 | ✅ Ganada |
 | thetesterguy | Galatasaray SK vs. VfB Stuttgart: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $42,955 | +$4,248 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FK Shakhtar Donetsk win on 2026-11-03? | No | 1.39 (72¢) | $34,772 | +$13,522 | ✅ Ganada |
 | mooseborzoi | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $39,731 | +$43,041 | ✅ Ganada |
-| DitieForlan | Will FC Barcelona win on 2026-11-03? | No | 4.35 (23¢) | $29,870 | — | ⏳ Pendiente |
+| DitieForlan | Will FC Barcelona win on 2026-11-03? | No | 4.35 (23¢) | $29,870 | -$29,870 | ❌ Perdida |
 | 999585 | Rolex Paris Masters: Tommy Paul vs Holger Rune | Tommy Paul | 1.06 (94¢) | $57,945 | +$3,699 | ✅ Ganada |
 | Matheobong | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $38,400 | +$41,600 | ✅ Ganada |
 | 01258787xy48487484545122 | Prudential Hong Kong Tennis Open: Elena Pridankina vs Paula Badosa | Elena Pridankina | 1.54 (65¢) | $30,573 | +$16,463 | ✅ Ganada |
