@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 21:45:20 (hora de Perú)
+Actualizado: 2026-11-02 21:47:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7534**  ($427,301,283 en total)
+- Apuestas registradas: **7535**  ($427,348,000 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 688
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 5 | 64% | $55,104,514 | +$423,363 |
 | Sassy-Bucket | 104 | 105 | 4 | 50% | $13,758,270 | -$1,579,345 |
 | googleplay | 56 | 46 | 3 | 55% | $12,159,271 | +$161,428 |
-| Lakersfan111 | 123 | 68 | 7 | 64% | $9,588,653 | +$481,517 |
+| Lakersfan111 | 123 | 68 | 8 | 64% | $9,635,370 | +$481,517 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Raptors vs. Clippers | Raptors | 1.49 (67¢) | $46,717 | — | ⏳ Pendiente |
 | googleplay | Heat vs. Lakers: O/U 237.5 | Over 237.5 | 1.96 (51¢) | $31,379 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Bucks vs. Timberwolves | Timberwolves | 1.33 (75¢) | $40,294 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | Liquid | 2.50 (40¢) | $25,820 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | keeptheblueflagflyinghigh | Prudential Hong Kong Tennis Open: Claire Liu vs Tatiana Prozorova | Claire Liu | 1.18 (85¢) | $27,629 | +$4,876 | ✅ Ganada |
 | Kkunn | Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter | Katie Boulter | 1.52 (66¢) | $33,541 | +$17,279 | ✅ Ganada |
 | lllllllIlll | Map Handicap: FURIA (-1.5) vs FaZe (+1.5) | FaZe | 1.79 (56¢) | $52,802 | +$41,487 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.39 (72¢) | $115,200 | +$44,800 | ✅ Ganada |
