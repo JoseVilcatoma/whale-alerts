@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 09:30:25 (hora de Perú)
+Actualizado: 2026-11-03 09:32:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7574**  ($429,073,610 en total)
+- Apuestas registradas: **7575**  ($429,104,183 en total)
 - Resueltas: **7548** — 4596 ganadas / 2952 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 690
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 690 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 01258787xy48487484545122 | Prudential Hong Kong Tennis Open: Elena Pridankina vs Paula Badosa | Elena Pridankina | 1.54 (65¢) | $30,573 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chennai Open: Jeline Vandromme vs Kyoka Okamura | Jeline Vandromme | 1.15 (87¢) | $87,000 | +$13,000 | ✅ Ganada |
 | lonmi2511 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | FURIA | 1.79 (56¢) | $51,518 | +$40,478 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | FURIA | 1.85 (54¢) | $32,400 | +$27,600 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 690 en total)_
 | jakepaulthegoat2008 | Bucks vs. Timberwolves | Timberwolves | 1.22 (82¢) | $57,897 | +$12,709 | ✅ Ganada |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $33,801 | -$33,801 | ❌ Perdida |
 | jakepaulthegoat2008 | Heat vs. Lakers | Heat | 2.27 (44¢) | $39,235 | -$39,235 | ❌ Perdida |
-| ch27er | Pistons vs. Hornets | Pistons | 1.47 (68¢) | $27,500 | +$12,941 | ✅ Ganada |

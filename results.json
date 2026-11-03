@@ -113838,5 +113838,20 @@
     "status": "won",
     "ultimo_fill": 1793701178,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15381,
+    "timestamp": 1793716278,
+    "username": "01258787xy48487484545122",
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "slug": "wta-pridank-badosa-2026-11-02",
+    "title": "Prudential Hong Kong Tennis Open: Elena Pridankina vs Paula Badosa",
+    "outcome": "Elena Pridankina",
+    "side": "BUY",
+    "usd": 30573.465,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1793716278,
+    "fills": 1
   }
 ]
