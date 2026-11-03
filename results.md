@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 11:39:34 (hora de Perú)
+Actualizado: 2026-11-03 11:41:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7577**  ($429,200,528 en total)
+- Apuestas registradas: **7578**  ($429,230,399 en total)
 - Resueltas: **7549** — 4597 ganadas / 2952 perdidas (**61%** de acierto)
-- Pendientes: 6
-- Apostadores distintos: 690
+- Pendientes: 7
+- Apostadores distintos: 691
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 
-_(mostrando los 40 de mayor monto, de 690 en total)_
+_(mostrando los 40 de mayor monto, de 691 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| DitieForlan | Will FC Barcelona win on 2026-11-03? | No | 4.35 (23¢) | $29,870 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Tommy Paul vs Holger Rune | Tommy Paul | 1.06 (94¢) | $57,945 | — | ⏳ Pendiente |
 | Matheobong | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $38,400 | — | ⏳ Pendiente |
 | 01258787xy48487484545122 | Prudential Hong Kong Tennis Open: Elena Pridankina vs Paula Badosa | Elena Pridankina | 1.54 (65¢) | $30,573 | +$16,463 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 690 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Grizzlies (-5.5) | Pelicans | 2.00 (50¢) | $216,800 | +$216,800 | ✅ Ganada |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $31,156 | -$31,156 | ❌ Perdida |
 | Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $37,898 | +$17,835 | ✅ Ganada |
-| jakepaulthegoat2008 | Bucks vs. Timberwolves | Timberwolves | 1.22 (82¢) | $57,897 | +$12,709 | ✅ Ganada |
