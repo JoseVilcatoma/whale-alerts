@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 22:57:15 (hora de Perú)
+Actualizado: 2026-11-02 22:59:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7550**  ($427,919,604 en total)
+- Apuestas registradas: **7551**  ($427,977,204 en total)
 - Resueltas: **7482** — 4553 ganadas / 2929 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 688
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | Bears vs. Seahawks | Bears | 1.11 (90¢) | $57,600 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Bears vs. Seahawks | Bears | 1.15 (87¢) | $39,788 | — | ⏳ Pendiente |
 | CHZHSHCH | Suns vs. Warriors: O/U 230.5 | Under 230.5 | 1.20 (83¢) | $138,329 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Suns vs. Warriors: O/U 230.5 | Over 230.5 | 5.88 (17¢) | $37,778 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | ferrariChampions2026 | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $33,431 | — | ⏳ Pendiente |
 | NS13 | Suns vs. Warriors | Warriors | 1.72 (58¢) | $34,246 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Pelicans vs. Grizzlies | Pelicans | 2.78 (36¢) | $25,257 | — | ⏳ Pendiente |
-| RJW1 | Spread: Rockets (-4.5) | Rockets | 1.92 (52¢) | $70,270 | — | ⏳ Pendiente |
