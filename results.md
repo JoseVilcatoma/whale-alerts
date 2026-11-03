@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 20:49:49 (hora de Perú)
+Actualizado: 2026-11-02 20:51:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7529**  ($427,074,724 en total)
+- Apuestas registradas: **7530**  ($427,103,790 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 688
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 4 | 64% | $55,078,694 | +$423,363 |
 | Sassy-Bucket | 104 | 105 | 4 | 50% | $13,758,270 | -$1,579,345 |
-| googleplay | 56 | 46 | 1 | 55% | $12,098,825 | +$161,428 |
+| googleplay | 56 | 46 | 2 | 55% | $12,127,891 | +$161,428 |
 | Lakersfan111 | 123 | 68 | 7 | 64% | $9,588,653 | +$481,517 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Trail Blazers vs. Nuggets | Trail Blazers | 2.50 (40¢) | $29,066 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Trail Blazers vs. Nuggets | Nuggets | 1.64 (61¢) | $29,526 | — | ⏳ Pendiente |
 | cosmicxbt | Bears vs. Seahawks | Bears | 1.67 (60¢) | $97,778 | — | ⏳ Pendiente |
 | robustmst | Celtics vs. Rockets | Celtics | 2.56 (39¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | yabanci | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.79 (56¢) | $40,905 | -$40,905 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | G2 | 1.85 (54¢) | $37,800 | -$37,800 | ❌ Perdida |
 | 4217893367451 | Counter-Strike: PARIVISION vs G2 (BO3) - IEM Beijing Group B | PARIVISION | 2.17 (46¢) | $25,341 | +$29,749 | ✅ Ganada |
-| 4217893367451 | Counter-Strike: Aurora Gaming vs Liquid (BO3) - IEM Beijing Group B | Liquid | 1.69 (59¢) | $50,145 | +$34,846 | ✅ Ganada |
