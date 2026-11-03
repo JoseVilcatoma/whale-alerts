@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 17:11:26 (hora de Perú)
+Actualizado: 2026-11-03 17:13:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7590**  ($429,653,621 en total)
+- Apuestas registradas: **7591**  ($429,781,249 en total)
 - Resueltas: **7558** — 4606 ganadas / 2952 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 692
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Ohio vs. Akron | Ohio | 1.19 (84¢) | $127,628 | — | ⏳ Pendiente |
 | 999585 | Ohio vs. Akron | Ohio | 1.20 (83¢) | $42,953 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Ohio (-13.5) | Akron | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | thetesterguy | Will Manchester United FC win on 2026-11-03? | Yes | 1.11 (90¢) | $28,110 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | googleplay | Heat vs. Lakers: O/U 237.5 | Over 237.5 | 1.96 (51¢) | $31,379 | +$30,149 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Bucks vs. Timberwolves | Timberwolves | 1.33 (75¢) | $40,294 | +$13,431 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | Liquid | 2.50 (40¢) | $25,820 | -$25,820 | ❌ Perdida |
-| fantasy7788 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | PARIVISION | 1.72 (58¢) | $100,000 | +$72,414 | ✅ Ganada |

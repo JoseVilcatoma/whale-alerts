@@ -114078,5 +114078,20 @@
     "status": "pending",
     "ultimo_fill": 1793743804,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15408,
+    "timestamp": 1793743971,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "cfb-ohio-akron-2026-11-03",
+    "title": "Ohio vs. Akron",
+    "outcome": "Ohio",
+    "side": "BUY",
+    "usd": 127627.7436,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1793743971,
+    "fills": 1
   }
 ]
