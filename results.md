@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 22:22:17 (hora de Perú)
+Actualizado: 2026-11-02 22:24:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7543**  ($427,594,558 en total)
+- Apuestas registradas: **7544**  ($427,623,420 en total)
 - Resueltas: **7475** — 4548 ganadas / 2927 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 688
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robustmst | Suns vs. Warriors | Warriors | 2.27 (44¢) | $28,862 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 4.76 (21¢) | $25,577 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $27,774 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Lakers: O/U 237.5 | Under 237.5 | 2.04 (49¢) | $30,084 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | Woaifacai | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.08 (93¢) | $94,224 | +$7,092 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich | Aliaksandra Sasnovich | 1.14 (88¢) | $26,400 | +$3,600 | ✅ Ganada |
 | TAIWANNUMBERONE | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.82 (55¢) | $30,555 | -$30,555 | ❌ Perdida |
-| Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Natus Vincere | 1.41 (71¢) | $28,400 | +$11,600 | ✅ Ganada |
