@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 13:28:39 (hora de Perú)
+Actualizado: 2026-11-03 15:45:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7586**  ($429,514,864 en total)
-- Resueltas: **7550** — 4598 ganadas / 2952 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **7557** — 4605 ganadas / 2952 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 692
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,133,241** sobre $428,063,517 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,193** sobre $744,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,929,666** sobre $428,340,365 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,681** sobre $745,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 539 | 307 | 4 | 64% | $55,339,568 | +$353,467 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 540 | 307 | 3 | 64% | $55,339,568 | +$366,989 |
 | Sassy-Bucket | 106 | 105 | 2 | 50% | $13,758,270 | -$1,539,685 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 129 | 73 | 0 | 64% | $9,736,420 | +$419,824 |
@@ -71,17 +71,17 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Momo63 | Will VfB Stuttgart win on 2026-11-03? | No | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
+| Momo63 | Will VfB Stuttgart win on 2026-11-03? | No | 1.33 (75¢) | $37,500 | +$12,500 | ✅ Ganada |
 | Kyn008 | Will AS Roma win on 2026-11-03? | No | 1.49 (67¢) | $31,444 | — | ⏳ Pendiente |
 | mooseborzoi | Wild vs. Flyers | Wild | 1.59 (63¢) | $26,460 | — | ⏳ Pendiente |
-| ch27er | Will Galatasaray SK win on 2026-11-03? | Yes | 2.04 (49¢) | $42,000 | — | ⏳ Pendiente |
+| ch27er | Will Galatasaray SK win on 2026-11-03? | Yes | 2.04 (49¢) | $42,000 | +$43,714 | ✅ Ganada |
 | 0x1eae…c2ab | Will FC Barcelona win on 2026-11-03? | Yes | 1.30 (77¢) | $29,604 | — | ⏳ Pendiente |
-| thetesterguy | Galatasaray SK vs. VfB Stuttgart: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $42,955 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FK Shakhtar Donetsk win on 2026-11-03? | No | 1.39 (72¢) | $34,772 | — | ⏳ Pendiente |
-| mooseborzoi | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $39,731 | — | ⏳ Pendiente |
+| thetesterguy | Galatasaray SK vs. VfB Stuttgart: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $42,955 | +$4,248 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FK Shakhtar Donetsk win on 2026-11-03? | No | 1.39 (72¢) | $34,772 | +$13,522 | ✅ Ganada |
+| mooseborzoi | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $39,731 | +$43,041 | ✅ Ganada |
 | DitieForlan | Will FC Barcelona win on 2026-11-03? | No | 4.35 (23¢) | $29,870 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Tommy Paul vs Holger Rune | Tommy Paul | 1.06 (94¢) | $57,945 | +$3,699 | ✅ Ganada |
-| Matheobong | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $38,400 | — | ⏳ Pendiente |
+| Matheobong | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $38,400 | +$41,600 | ✅ Ganada |
 | 01258787xy48487484545122 | Prudential Hong Kong Tennis Open: Elena Pridankina vs Paula Badosa | Elena Pridankina | 1.54 (65¢) | $30,573 | +$16,463 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chennai Open: Jeline Vandromme vs Kyoka Okamura | Jeline Vandromme | 1.15 (87¢) | $87,000 | +$13,000 | ✅ Ganada |
 | lonmi2511 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | FURIA | 1.79 (56¢) | $51,518 | +$40,478 | ✅ Ganada |
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | omnibus-076daa | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.49 (67¢) | $60,292 | +$29,696 | ✅ Ganada |
 | TAIWANNUMBERONE | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | Legacy | 1.64 (61¢) | $27,111 | -$27,111 | ❌ Perdida |
 | yabanci | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.27 (79¢) | $38,500 | +$10,234 | ✅ Ganada |
-| hovistomaradona | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $41,491 | — | ⏳ Pendiente |
+| hovistomaradona | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $41,491 | +$44,948 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.11 (90¢) | $43,478 | +$4,831 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | FaZe | 3.70 (27¢) | $35,100 | -$35,100 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $42,900 | +$67,100 | ✅ Ganada |
