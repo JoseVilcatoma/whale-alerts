@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 23:57:27 (hora de Perú)
+Actualizado: 2026-11-02 23:59:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7555**  ($428,130,695 en total)
+- Apuestas registradas: **7556**  ($428,163,307 en total)
 - Resueltas: **7512** — 4572 ganadas / 2940 perdidas (**61%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 688
+- Pendientes: 22
+- Apostadores distintos: 689
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 
-_(mostrando los 40 de mayor monto, de 688 en total)_
+_(mostrando los 40 de mayor monto, de 689 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.41 (71¢) | $32,612 | — | ⏳ Pendiente |
 | winner877 | Trail Blazers vs. Nuggets | Trail Blazers | 1.06 (94¢) | $28,012 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | G2 | 2.13 (47¢) | $30,629 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Thunder vs. Cavaliers | Cavaliers | 1.64 (61¢) | $41,049 | -$41,049 | ❌ Perdida |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-11-02? | Yes | 2.38 (42¢) | $27,279 | +$37,670 | ✅ Ganada |
 | 999585 | Rolex Paris Masters: Mattia Bellucci vs Lorenzo Sonego | Mattia Bellucci | 1.06 (94¢) | $51,501 | +$3,287 | ✅ Ganada |
-| SineNooneEI | Hawks vs. Pacers | Hawks | 1.56 (64¢) | $31,411 | +$17,668 | ✅ Ganada |
