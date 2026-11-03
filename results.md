@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 00:01:30 (hora de Perú)
+Actualizado: 2026-11-03 00:03:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7556**  ($428,163,307 en total)
-- Resueltas: **7512** — 4572 ganadas / 2940 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **7515** — 4574 ganadas / 2941 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 689
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,344,248** sobre $426,346,036 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,005** sobre $740,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,328,386** sobre $426,432,640 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,949** sobre $741,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,13 +26,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 305 | 5 | 64% | $55,162,372 | +$364,301 |
 | Sassy-Bucket | 106 | 105 | 2 | 50% | $13,758,270 | -$1,539,685 |
-| googleplay | 56 | 47 | 2 | 54% | $12,159,271 | -$103,969 |
+| googleplay | 57 | 47 | 1 | 55% | $12,159,271 | -$60,369 |
 | Lakersfan111 | 126 | 71 | 5 | 64% | $9,736,420 | +$422,099 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | ferrariChampions2026 | 120 | 63 | 0 | 66% | $7,850,436 | +$496,266 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 92 | 1 | 52% | $7,655,495 | -$624,427 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.41 (71¢) | $32,612 | — | ⏳ Pendiente |
-| winner877 | Trail Blazers vs. Nuggets | Trail Blazers | 1.06 (94¢) | $28,012 | — | ⏳ Pendiente |
+| winner877 | Trail Blazers vs. Nuggets | Trail Blazers | 1.06 (94¢) | $28,012 | +$1,788 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | G2 | 2.13 (47¢) | $30,629 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | Aurora Gaming | 1.79 (56¢) | $55,851 | — | ⏳ Pendiente |
@@ -97,8 +97,8 @@ _(mostrando los 40 de mayor monto, de 689 en total)_
 | keeptheblueflagflyinghigh | Bucks vs. Timberwolves | Timberwolves | 1.33 (75¢) | $40,294 | +$13,431 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | Liquid | 2.50 (40¢) | $25,820 | -$25,820 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | PARIVISION | 1.72 (58¢) | $100,000 | +$72,414 | ✅ Ganada |
-| googleplay | Trail Blazers vs. Nuggets | Trail Blazers | 2.50 (40¢) | $29,066 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Trail Blazers vs. Nuggets | Nuggets | 1.64 (61¢) | $29,526 | — | ⏳ Pendiente |
+| googleplay | Trail Blazers vs. Nuggets | Trail Blazers | 2.50 (40¢) | $29,066 | +$43,600 | ✅ Ganada |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Trail Blazers vs. Nuggets | Nuggets | 1.64 (61¢) | $29,526 | -$29,526 | ❌ Perdida |
 | cosmicxbt | Bears vs. Seahawks | Bears | 1.67 (60¢) | $97,778 | +$65,185 | ✅ Ganada |
 | robustmst | Celtics vs. Rockets | Celtics | 2.56 (39¢) | $35,000 | -$35,000 | ❌ Perdida |
 | Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 1.89 (53¢) | $28,509 | -$28,509 | ❌ Perdida |
