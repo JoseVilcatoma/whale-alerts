@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 22:30:29 (hora de Perú)
+Actualizado: 2026-11-02 22:32:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7545**  ($427,648,603 en total)
-- Resueltas: **7478** — 4551 ganadas / 2927 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Resueltas: **7479** — 4551 ganadas / 2928 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,681,299** sobre $424,824,505 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,046** sobre $737,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,709,464** sobre $424,852,670 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,146** sobre $737,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | ch27er | Spread: 76ers (-9.5) | 76ers | 1.79 (56¢) | $34,676 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Jazz vs. Spurs | Spurs | 1.11 (90¢) | $31,584 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Pistons (-5.5) | Hornets | 2.04 (49¢) | $31,104 | — | ⏳ Pendiente |
-| mooseborzoi | Spread: 76ers (-10.5) | Bulls | 2.00 (50¢) | $28,165 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: 76ers (-10.5) | Bulls | 2.00 (50¢) | $28,165 | -$28,165 | ❌ Perdida |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | PARIVISION | 1.72 (58¢) | $37,286 | — | ⏳ Pendiente |
 | ch27er | Spread: Magic (-2.5) | Wizards | 2.00 (50¢) | $27,442 | +$27,442 | ✅ Ganada |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.35 (74¢) | $37,679 | — | ⏳ Pendiente |
