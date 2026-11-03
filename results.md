@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 19:11:08 (hora de Perú)
+Actualizado: 2026-11-02 19:13:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7507**  ($426,050,630 en total)
+- Apuestas registradas: **7509**  ($426,115,750 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 17
 - Apostadores distintos: 688
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 104 | 105 | 2 | 50% | $13,671,792 | -$1,579,345 |
 | googleplay | 56 | 46 | 1 | 55% | $12,098,825 | +$161,428 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| Lakersfan111 | 123 | 68 | 0 | 64% | $9,320,014 | +$481,517 |
+| Lakersfan111 | 123 | 68 | 1 | 64% | $9,357,694 | +$481,517 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | ferrariChampions2026 | 119 | 63 | 1 | 65% | $7,850,436 | +$480,534 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ch27er | Spread: Magic (-2.5) | Wizards | 2.00 (50¢) | $27,442 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.35 (74¢) | $37,679 | — | ⏳ Pendiente |
 | ch27er | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $38,500 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Thunder vs. Cavaliers | Thunder | 2.63 (38¢) | $30,645 | — | ⏳ Pendiente |
 | googleplay | Spread: Cavaliers (-4.5) | Cavaliers | 2.00 (50¢) | $265,397 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | R2D2RS | Spread: Commanders (-6.5) | Eagles | 1.85 (54¢) | $45,481 | -$45,481 | ❌ Perdida |
 | sinasinner | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 1.96 (51¢) | $30,600 | -$30,600 | ❌ Perdida |
 | sinasinner | Spread: Commanders (-5.5) | Commanders | 1.96 (51¢) | $30,600 | +$29,400 | ✅ Ganada |
-| jakepaulthegoat2008 | Clippers vs. Warriors | Warriors | 1.82 (55¢) | $92,486 | +$75,670 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 2.00 (50¢) | $27,410 | -$27,410 | ❌ Perdida |
