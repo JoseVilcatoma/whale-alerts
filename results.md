@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 22:49:01 (hora de Perú)
+Actualizado: 2026-11-02 22:51:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7547**  ($427,703,709 en total)
+- Apuestas registradas: **7549**  ($427,879,816 en total)
 - Resueltas: **7482** — 4553 ganadas / 2929 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 45
 - Apostadores distintos: 688
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CHZHSHCH | Suns vs. Warriors: O/U 230.5 | Under 230.5 | 1.20 (83¢) | $138,329 | — | ⏳ Pendiente |
+| CUTJALENHURTS | Suns vs. Warriors: O/U 230.5 | Over 230.5 | 5.88 (17¢) | $37,778 | — | ⏳ Pendiente |
 | CHZHSHCH | Pelicans vs. Grizzlies | Grizzlies | 1.52 (66¢) | $25,411 | — | ⏳ Pendiente |
 | sinasinner | Spread: Bears (-6.5) | Bears | 1.61 (62¢) | $29,694 | — | ⏳ Pendiente |
 | ethanaz | Bears vs. Seahawks | Bears | 1.41 (71¢) | $25,183 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | Multicoloured-Serf | Pelicans vs. Grizzlies | Pelicans | 2.78 (36¢) | $25,257 | — | ⏳ Pendiente |
 | RJW1 | Spread: Rockets (-4.5) | Rockets | 1.92 (52¢) | $70,270 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Luca Van Assche vs Mariano Navone | Luca Van Assche | 1.11 (90¢) | $26,572 | +$2,952 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.32 (76¢) | $30,760 | +$9,714 | ✅ Ganada |
-| NS13 | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.82 (55¢) | $51,105 | -$51,105 | ❌ Perdida |

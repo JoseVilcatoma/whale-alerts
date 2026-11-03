@@ -113431,5 +113431,35 @@
     "status": "pending",
     "ultimo_fill": 1793676889,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15286,
+    "timestamp": 1793677758,
+    "username": "CUTJALENHURTS",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "nba-phx-gsw-2026-11-02-total-230pt5",
+    "title": "Suns vs. Warriors: O/U 230.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 37777.740000000005,
+    "odds_at_bet": 17,
+    "status": "pending",
+    "ultimo_fill": 1793677758,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15287,
+    "timestamp": 1793677769,
+    "username": "CHZHSHCH",
+    "wallet": "0x385edd359037625b95dd057794ba3ea25a9c40ce",
+    "slug": "nba-phx-gsw-2026-11-02-total-230pt5",
+    "title": "Suns vs. Warriors: O/U 230.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 138329.45169999998,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1793677769,
+    "fills": 1
   }
 ]
