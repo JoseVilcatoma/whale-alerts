@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 19:17:25 (hora de Perú)
+Actualizado: 2026-11-02 19:19:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7510**  ($426,153,036 en total)
+- Apuestas registradas: **7511**  ($426,181,201 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 688
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: 76ers (-10.5) | Bulls | 2.00 (50¢) | $28,165 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | PARIVISION | 1.72 (58¢) | $37,286 | — | ⏳ Pendiente |
 | ch27er | Spread: Magic (-2.5) | Wizards | 2.00 (50¢) | $27,442 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.35 (74¢) | $37,679 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | Multicoloured-Serf | Eagles vs. Commanders: O/U 40.5 | Under 40.5 | 2.04 (49¢) | $83,797 | +$87,218 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Eagles vs. Commanders: O/U 42.5 | Over 42.5 | 2.22 (45¢) | $87,187 | -$87,187 | ❌ Perdida |
 | R2D2RS | Spread: Commanders (-6.5) | Eagles | 1.85 (54¢) | $45,481 | -$45,481 | ❌ Perdida |
-| sinasinner | Eagles vs. Commanders: O/U 40.5 | Over 40.5 | 1.96 (51¢) | $30,600 | -$30,600 | ❌ Perdida |
