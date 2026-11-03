@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 23:19:56 (hora de Perú)
+Actualizado: 2026-11-02 23:22:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7554**  ($428,102,683 en total)
-- Resueltas: **7490** — 4557 ganadas / 2933 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Resueltas: **7493** — 4560 ganadas / 2933 perdidas (**61%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 688
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,540,587** sobre $425,414,245 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,187** sobre $738,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,485,195** sobre $425,534,154 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,048** sobre $739,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,13 +25,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 7 | 64% | $55,162,372 | +$423,363 |
-| Sassy-Bucket | 104 | 105 | 4 | 50% | $13,758,270 | -$1,579,345 |
+| Sassy-Bucket | 106 | 105 | 2 | 50% | $13,758,270 | -$1,539,685 |
 | googleplay | 56 | 47 | 2 | 54% | $12,159,271 | -$103,969 |
 | Lakersfan111 | 124 | 71 | 7 | 64% | $9,736,420 | +$391,589 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| ferrariChampions2026 | 119 | 63 | 1 | 65% | $7,850,436 | +$480,534 |
+| ferrariChampions2026 | 120 | 63 | 0 | 66% | $7,850,436 | +$496,266 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 92 | 1 | 52% | $7,655,495 | -$624,427 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -103,10 +103,10 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | vtcchampion52 | Bears vs. Seahawks | Seahawks | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | takeormake | Bears vs. Seahawks | Bears | 2.63 (38¢) | $32,479 | — | ⏳ Pendiente |
 | sinasinner | Bears vs. Seahawks: O/U 46.5 | Under 46.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
-| Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.45 (69¢) | $48,580 | — | ⏳ Pendiente |
+| Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.45 (69¢) | $48,580 | +$21,826 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Grizzlies (-5.5) | Pelicans | 2.00 (50¢) | $216,800 | +$216,800 | ✅ Ganada |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $31,156 | -$31,156 | ❌ Perdida |
-| Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $37,898 | — | ⏳ Pendiente |
+| Sassy-Bucket | Avalanche vs. Blackhawks | Avalanche | 1.47 (68¢) | $37,898 | +$17,835 | ✅ Ganada |
 | jakepaulthegoat2008 | Bucks vs. Timberwolves | Timberwolves | 1.22 (82¢) | $57,897 | +$12,709 | ✅ Ganada |
 | jakepaulthegoat2008 | Kings vs. Mavericks | Mavericks | 1.33 (75¢) | $33,801 | -$33,801 | ❌ Perdida |
 | jakepaulthegoat2008 | Heat vs. Lakers | Heat | 2.27 (44¢) | $39,235 | — | ⏳ Pendiente |
