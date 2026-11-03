@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 18:54:22 (hora de Perú)
+Actualizado: 2026-11-03 18:56:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7599**  ($430,376,130 en total)
+- Apuestas registradas: **7600**  ($430,421,388 en total)
 - Resueltas: **7562** — 4609 ganadas / 2953 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 692
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mastermoney | Ohio vs. Akron: O/U 51.5 | Over 51.5 | 1.85 (54¢) | $45,258 | — | ⏳ Pendiente |
 | Sassy-Bucket | Jets vs. Canadiens | Canadiens | 1.64 (61¢) | $48,004 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Jets vs. Canadiens | Jets | 2.56 (39¢) | $91,734 | — | ⏳ Pendiente |
 | Sassy-Bucket | Jets vs. Canadiens | Canadiens | 1.64 (61¢) | $99,829 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 4.76 (21¢) | $25,577 | -$25,577 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $27,774 | +$21,823 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Lakers: O/U 237.5 | Under 237.5 | 2.04 (49¢) | $30,084 | -$30,084 | ❌ Perdida |
-| jakepaulthegoat2008 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $36,400 | +$28,600 | ✅ Ganada |
