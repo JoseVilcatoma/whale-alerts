@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-02 21:43:13 (hora de Perú)
+Actualizado: 2026-11-02 21:45:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7533**  ($427,269,904 en total)
+- Apuestas registradas: **7534**  ($427,301,283 en total)
 - Resueltas: **7470** — 4546 ganadas / 2924 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 688
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 536 | 303 | 5 | 64% | $55,104,514 | +$423,363 |
 | Sassy-Bucket | 104 | 105 | 4 | 50% | $13,758,270 | -$1,579,345 |
-| googleplay | 56 | 46 | 2 | 55% | $12,127,891 | +$161,428 |
+| googleplay | 56 | 46 | 3 | 55% | $12,159,271 | +$161,428 |
 | Lakersfan111 | 123 | 68 | 7 | 64% | $9,588,653 | +$481,517 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Heat vs. Lakers: O/U 237.5 | Over 237.5 | 1.96 (51¢) | $31,379 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Bucks vs. Timberwolves | Timberwolves | 1.33 (75¢) | $40,294 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | Liquid | 2.50 (40¢) | $25,820 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B | PARIVISION | 1.72 (58¢) | $100,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 688 en total)_
 | Kkunn | Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter | Katie Boulter | 1.52 (66¢) | $33,541 | +$17,279 | ✅ Ganada |
 | lllllllIlll | Map Handicap: FURIA (-1.5) vs FaZe (+1.5) | FaZe | 1.79 (56¢) | $52,802 | +$41,487 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs FaZe (BO3) - IEM Beijing Group A | FURIA | 1.39 (72¢) | $115,200 | +$44,800 | ✅ Ganada |
-| hovistomaradona | Will Newcastle United FC win on 2026-11-02? | Yes | 2.27 (44¢) | $114,832 | -$114,832 | ❌ Perdida |
