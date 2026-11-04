@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 12:28:50 (hora de Perú)
+Actualizado: 2026-11-04 12:30:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7642**  ($432,720,619 en total)
+- Apuestas registradas: **7644**  ($432,960,119 en total)
 - Resueltas: **7598** — 4633 ganadas / 2965 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 24
 - Apostadores distintos: 694
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
+| 999585 | 19 | 1 | 1 | 95% | $2,290,231 | +$88,453 |
 
 _(mostrando los 40 de mayor monto, de 694 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 694 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Will AEK win on 2026-11-04? | No | 1.08 (93¢) | $139,500 | — | ⏳ Pendiente |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $100,000 | — | ⏳ Pendiente |
 | NS13 | Will Liverpool FC win on 2026-11-04? | Yes | 1.59 (63¢) | $82,754 | — | ⏳ Pendiente |
 | ic4cream | Trail Blazers vs. Suns: O/U 227.5 | Under 227.5 | 2.04 (49¢) | $27,924 | — | ⏳ Pendiente |
 | juice-fruit | Will Real Madrid CF win on 2026-11-04? | Yes | 1.22 (82¢) | $64,934 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 694 en total)_
 | 999585 | Rolex Paris Masters: Casper Ruud vs Rafael Jodar | Casper Ruud | 1.08 (93¢) | $42,694 | +$3,214 | ✅ Ganada |
 | Momo63 | Will VfB Stuttgart win on 2026-11-03? | No | 1.33 (75¢) | $37,500 | +$12,500 | ✅ Ganada |
 | Kyn008 | Will AS Roma win on 2026-11-03? | No | 1.49 (67¢) | $31,444 | +$15,487 | ✅ Ganada |
-| mooseborzoi | Wild vs. Flyers | Wild | 1.59 (63¢) | $26,460 | +$15,540 | ✅ Ganada |
-| ch27er | Will Galatasaray SK win on 2026-11-03? | Yes | 2.04 (49¢) | $42,000 | +$43,714 | ✅ Ganada |
