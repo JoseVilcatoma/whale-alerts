@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 04:03:26 (hora de Perú)
+Actualizado: 2026-11-04 04:05:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7625**  ($431,935,440 en total)
+- Apuestas registradas: **7627**  ($432,071,136 en total)
 - Resueltas: **7590** — 4629 ganadas / 2961 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 693
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 540 | 307 | 3 | 64% | $55,339,568 | +$366,989 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 540 | 307 | 4 | 64% | $55,448,534 | +$366,989 |
 | Sassy-Bucket | 106 | 107 | 2 | 50% | $13,906,103 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 130 | 73 | 1 | 64% | $9,792,810 | +$451,684 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.25 (80¢) | $108,966 | — | ⏳ Pendiente |
+| 4217893367451 | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Team Falcons | 3.70 (27¢) | $26,730 | — | ⏳ Pendiente |
 | qiu3 | Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A | FURIA | 1.35 (74¢) | $150,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $70,500 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Will FC Porto win on 2026-11-04? | No | 2.08 (48¢) | $60,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 | fantasy7788 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $86,907 | -$86,907 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $31,200 | +$48,800 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: TheMongolz vs Heroic - Map 2 Winner | TheMongolz | 2.00 (50¢) | $53,000 | +$53,000 | ✅ Ganada |
-| omnibus-076daa | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.49 (67¢) | $60,292 | +$29,696 | ✅ Ganada |
-| TAIWANNUMBERONE | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | Legacy | 1.64 (61¢) | $27,111 | -$27,111 | ❌ Perdida |
