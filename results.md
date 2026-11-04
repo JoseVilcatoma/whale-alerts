@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 04:05:31 (hora de Perú)
+Actualizado: 2026-11-04 04:07:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7627**  ($432,071,136 en total)
-- Resueltas: **7590** — 4629 ganadas / 2961 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **7591** — 4630 ganadas / 2961 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 693
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,752,092** sobre $430,256,466 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$5,525** sobre $748,600 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,713,906** sobre $430,377,388 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$5,493** sobre $748,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 | Mastermoney | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva | Antonia Ruzic | 1.67 (60¢) | $45,204 | +$30,136 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs BetBoom Team (BO3) - IEM Beijing Group B | BetBoom Team | 1.54 (65¢) | $29,250 | — | ⏳ Pendiente |
 | bobthebuilder2 | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva | Alina Charaeva | 1.45 (69¢) | $42,234 | -$42,234 | ❌ Perdida |
-| qiu3 | Counter-Strike: MOUZ vs PARIVISION (BO3) - IEM Beijing Group B | MOUZ | 1.32 (76¢) | $120,922 | — | ⏳ Pendiente |
+| qiu3 | Counter-Strike: MOUZ vs PARIVISION (BO3) - IEM Beijing Group B | MOUZ | 1.32 (76¢) | $120,922 | +$38,186 | ✅ Ganada |
 | vtcchampion52 | Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.15 (87¢) | $43,227 | +$6,459 | ✅ Ganada |
 | vtcchampion52 | Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.15 (87¢) | $40,051 | +$5,985 | ✅ Ganada |
 | Multicoloured-Serf | Buffalo vs. Miami (OH) | Miami (OH) | 1.49 (67¢) | $44,050 | -$44,050 | ❌ Perdida |
