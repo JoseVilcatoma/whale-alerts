@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 20:20:32 (hora de Perú)
+Actualizado: 2026-11-03 20:22:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7607**  ($430,969,611 en total)
+- Apuestas registradas: **7608**  ($431,011,959 en total)
 - Resueltas: **7563** — 4610 ganadas / 2953 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 692
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Ohio vs. Akron | Ohio | 1.33 (75¢) | $42,348 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Ohio vs. Akron | Ohio | 1.30 (77¢) | $44,543 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ohio vs. Akron | Ohio | 1.18 (85¢) | $59,516 | — | ⏳ Pendiente |
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.22 (82¢) | $43,270 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | 3648393489047 | Bears vs. Seahawks | Bears | 1.11 (90¢) | $57,600 | +$6,400 | ✅ Ganada |
 | TAIWANNUMBERONE | Bears vs. Seahawks | Bears | 1.15 (87¢) | $39,788 | +$5,945 | ✅ Ganada |
 | CHZHSHCH | Suns vs. Warriors: O/U 230.5 | Under 230.5 | 1.20 (83¢) | $138,329 | -$124,996 | 💰 Vendida antes |
-| CUTJALENHURTS | Suns vs. Warriors: O/U 230.5 | Over 230.5 | 5.88 (17¢) | $37,778 | -$37,778 | ❌ Perdida |
