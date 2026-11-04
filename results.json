@@ -114453,5 +114453,20 @@
     "status": "pending",
     "ultimo_fill": 1793767018,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15458,
+    "timestamp": 1793767647,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "cfb-buf-miaoh-2026-11-03",
+    "title": "Buffalo vs. Miami (OH)",
+    "outcome": "Miami (OH)",
+    "side": "BUY",
+    "usd": 44049.7409,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1793767647,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 23:46:42 (hora de Perú)
+Actualizado: 2026-11-03 23:48:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7615**  ($431,290,002 en total)
+- Apuestas registradas: **7616**  ($431,334,051 en total)
 - Resueltas: **7582** — 4623 ganadas / 2959 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 692
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Buffalo vs. Miami (OH) | Miami (OH) | 1.49 (67¢) | $44,050 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Buffalo vs. Miami (OH) | Buffalo | 1.61 (62¢) | $76,356 | — | ⏳ Pendiente |
 | 0F62 | Spread: RB Leipzig (-1.5) | Manchester City FC | 1.06 (94¢) | $29,422 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: BetBoom Team vs Aurora Gaming (BO3) - IEM Beijing Group B | Aurora Gaming | 1.82 (55¢) | $26,199 | -$26,199 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | fantasy7788 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.37 (73¢) | $150,000 | +$55,479 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Suns | 2.44 (41¢) | $29,521 | -$29,521 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.54 (65¢) | $25,903 | +$13,948 | ✅ Ganada |
-| kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.41 (71¢) | $32,612 | +$13,320 | ✅ Ganada |
