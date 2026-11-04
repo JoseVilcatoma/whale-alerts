@@ -114708,5 +114708,20 @@
     "status": "pending",
     "ultimo_fill": 1793799267,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15491,
+    "timestamp": 1793806127,
+    "username": "kuwkuw",
+    "wallet": "0x7ee97269ec611c5b89edcce6fd97a88d6902aa69",
+    "slug": "atp-doubles-gornwal-doumpel-2026-11-04",
+    "title": "Rolex Paris Masters (Doubles): Gornes/Walkow vs Doumbia/Pel",
+    "outcome": "Doumbia/Pel",
+    "side": "BUY",
+    "usd": 31117.291400000002,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1793806127,
+    "fills": 1
   }
 ]
