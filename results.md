@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 17:49:20 (hora de Perú)
+Actualizado: 2026-11-04 17:51:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7662**  ($434,433,029 en total)
+- Apuestas registradas: **7663**  ($434,482,692 en total)
 - Resueltas: **7630** — 4657 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 696
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mastermoney | Ball State vs. UMass: O/U 47.5 | Over 47.5 | 1.79 (56¢) | $49,663 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: UMass (-2.5) | UMass | 2.00 (50¢) | $83,223 | — | ⏳ Pendiente |
 | darkumbreon88 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.39 (72¢) | $28,445 | +$11,062 | ✅ Ganada |
 | justwins | Senators vs. Sabres | Sabres | 1.85 (54¢) | $29,013 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 | TAIWANNUMBERONE | Ohio vs. Akron | Ohio | 1.18 (85¢) | $59,516 | +$10,503 | ✅ Ganada |
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.22 (82¢) | $43,270 | +$9,498 | ✅ Ganada |
 | ethanaz | Ohio vs. Akron | Ohio | 1.19 (84¢) | $174,925 | +$33,319 | ✅ Ganada |
-| ethanaz | Ohio vs. Akron | Ohio | 1.22 (82¢) | $101,552 | +$22,292 | ✅ Ganada |
