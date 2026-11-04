@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 09:56:41 (hora de Perú)
+Actualizado: 2026-11-04 09:58:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7632**  ($432,221,582 en total)
-- Resueltas: **7596** — 4632 ganadas / 2964 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **7597** — 4632 ganadas / 2965 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 693
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,829,255** sobre $430,687,736 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,627** sobre $749,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,863,589** sobre $430,722,070 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,727** sobre $749,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 | ferrariChampions2026 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.69 (59¢) | $28,761 | — | ⏳ Pendiente |
 | RJW1 | Spread: Arsenal FC (-1.5) | Arsenal FC | 1.82 (55¢) | $30,256 | — | ⏳ Pendiente |
 | Matheobong | Spread: Real Madrid CF (-2.5) | AEK | 1.59 (63¢) | $28,703 | — | ⏳ Pendiente |
-| ArturitoFilito | Rolex Paris Masters: Alexander Zverev vs Lorenzo Musetti | Alexander Zverev | 1.56 (64¢) | $34,334 | — | ⏳ Pendiente |
+| ArturitoFilito | Rolex Paris Masters: Alexander Zverev vs Lorenzo Musetti | Alexander Zverev | 1.56 (64¢) | $34,334 | -$34,334 | ❌ Perdida |
 | Eugycom | Trail Blazers vs. Suns | Trail Blazers | 1.72 (58¢) | $28,391 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.25 (80¢) | $108,966 | — | ⏳ Pendiente |
 | 4217893367451 | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Team Falcons | 3.70 (27¢) | $26,730 | -$26,730 | ❌ Perdida |
