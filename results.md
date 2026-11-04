@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 17:26:42 (hora de Perú)
+Actualizado: 2026-11-04 17:28:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7662**  ($434,433,029 en total)
-- Resueltas: **7629** — 4657 ganadas / 2972 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **7630** — 4657 ganadas / 2973 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 696
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,928,833** sobre $433,014,060 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,028** sobre $752,500 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,009,157** sobre $433,094,384 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,128** sobre $752,600 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 | ic4cream | Trail Blazers vs. Suns: O/U 227.5 | Under 227.5 | 2.04 (49¢) | $27,924 | — | ⏳ Pendiente |
 | juice-fruit | Will Real Madrid CF win on 2026-11-04? | Yes | 1.22 (82¢) | $64,934 | +$14,254 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 76ers vs. Pistons | 76ers | 2.22 (45¢) | $41,797 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Will Como 1907 win on 2026-11-04? | No | 2.04 (49¢) | $80,324 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Will Como 1907 win on 2026-11-04? | No | 2.04 (49¢) | $80,324 | -$80,324 | ❌ Perdida |
 | justwins | Senators vs. Sabres | Sabres | 1.85 (54¢) | $41,986 | — | ⏳ Pendiente |
 | ch27er | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.64 (61¢) | $49,895 | -$49,895 | ❌ Perdida |
 | plonker2026 | Fenerbahçe SK vs. Liverpool FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $28,706 | -$28,706 | ❌ Perdida |
