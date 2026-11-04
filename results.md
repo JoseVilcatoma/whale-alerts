@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 12:43:32 (hora de Perú)
+Actualizado: 2026-11-04 12:45:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7650**  ($433,424,024 en total)
+- Apuestas registradas: **7653**  ($433,705,699 en total)
 - Resueltas: **7598** — 4633 ganadas / 2965 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 33
 - Apostadores distintos: 696
 
 ### Balance
@@ -53,8 +53,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 33 | 8 | 3 | 80% | $3,108,346 | -$356,459 |
 | TAIWANNUMBERONE | 50 | 24 | 0 | 68% | $2,797,023 | -$248,449 |
+| ndb1 | 30 | 15 | 1 | 67% | $2,754,910 | +$448,403 |
 | S-Works | 18 | 7 | 1 | 72% | $2,682,709 | -$187,640 |
-| ndb1 | 30 | 15 | 0 | 67% | $2,639,910 | +$448,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $115,000 | — | ⏳ Pendiente |
+| Flaznorp | Will AEK vs. Real Madrid CF end in a draw? | No | 1.12 (89¢) | $137,483 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Thunder (-3.5) | Cavaliers | 2.00 (50¢) | $29,191 | — | ⏳ Pendiente |
 | meoooow | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $37,164 | — | ⏳ Pendiente |
 | S-Works | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $90,405 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $233,312 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 | tenniz | Costa do Sauipe: Daniel Galan vs Gonzalo Bueno | Gonzalo Bueno | 1.14 (88¢) | $143,214 | +$19,529 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: BetBoom Team vs Aurora Gaming (BO3) - IEM Beijing Group B | BetBoom Team | 2.17 (46¢) | $27,140 | +$31,860 | ✅ Ganada |
 | ch27er | Hurricanes vs. Predators | Hurricanes | 1.52 (66¢) | $27,500 | -$27,500 | ❌ Perdida |
-| ch27er | Ducks vs. Canucks | Ducks | 1.56 (64¢) | $27,500 | +$15,469 | ✅ Ganada |
-| ch27er | Jets vs. Canadiens | Canadiens | 1.64 (61¢) | $30,000 | -$30,000 | ❌ Perdida |
-| 999585 | Ohio vs. Akron | Ohio | 1.19 (84¢) | $227,588 | +$43,350 | ✅ Ganada |
