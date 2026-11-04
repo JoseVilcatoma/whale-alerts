@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 19:38:23 (hora de Perú)
+Actualizado: 2026-11-03 19:40:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7602**  ($430,545,805 en total)
+- Apuestas registradas: **7603**  ($430,647,357 en total)
 - Resueltas: **7563** — 4610 ganadas / 2953 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 692
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| ethanaz | 64 | 30 | 1 | 68% | $5,574,724 | -$261,833 |
+| ethanaz | 64 | 30 | 2 | 68% | $5,676,277 | -$261,833 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
 | BrotherObama | 51 | 54 | 2 | 49% | $4,623,036 | -$111,283 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Ohio vs. Akron | Ohio | 1.22 (82¢) | $101,552 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Ohio vs. Akron | Ohio | 1.30 (77¢) | $39,253 | — | ⏳ Pendiente |
 | ethanaz | Ohio vs. Akron | Ohio | 1.22 (82¢) | $85,164 | — | ⏳ Pendiente |
 | Mastermoney | Ohio vs. Akron: O/U 51.5 | Over 51.5 | 1.85 (54¢) | $45,258 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | sinasinner | Spread: Bears (-6.5) | Bears | 1.61 (62¢) | $29,694 | +$18,200 | ✅ Ganada |
 | ethanaz | Bears vs. Seahawks | Bears | 1.41 (71¢) | $25,183 | +$10,286 | ✅ Ganada |
 | robustmst | Suns vs. Warriors | Warriors | 2.27 (44¢) | $28,862 | +$36,734 | ✅ Ganada |
-| Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 4.76 (21¢) | $25,577 | -$25,577 | ❌ Perdida |
