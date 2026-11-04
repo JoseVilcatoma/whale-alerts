@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 00:11:16 (hora de Perú)
+Actualizado: 2026-11-04 00:13:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7616**  ($431,334,051 en total)
-- Resueltas: **7583** — 4624 ganadas / 2959 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **7584** — 4625 ganadas / 2959 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 692
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,778,678** sobre $429,937,768 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$5,568** sobre $747,900 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,755,187** sobre $429,965,344 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$5,483** sobre $748,000 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | 0F62 | Spread: RB Leipzig (-1.5) | Manchester City FC | 1.06 (94¢) | $29,422 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: BetBoom Team vs Aurora Gaming (BO3) - IEM Beijing Group B | Aurora Gaming | 1.82 (55¢) | $26,199 | -$26,199 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A | FURIA | 1.41 (71¢) | $33,868 | — | ⏳ Pendiente |
-| Mastermoney | Spread: Miami (OH) (-14.5) | Buffalo | 1.85 (54¢) | $27,576 | — | ⏳ Pendiente |
+| Mastermoney | Spread: Miami (OH) (-14.5) | Buffalo | 1.85 (54¢) | $27,576 | +$23,491 | ✅ Ganada |
 | 0F62 | Will SK Slavia Praha win on 2026-11-04? | No | 1.06 (94¢) | $50,361 | — | ⏳ Pendiente |
 | 0F62 | Will AEK win on 2026-11-04? | No | 1.06 (94¢) | $34,260 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Ohio vs. Akron | Ohio | 1.33 (75¢) | $42,348 | +$14,116 | ✅ Ganada |
