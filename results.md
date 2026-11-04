@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 19:53:06 (hora de Perú)
+Actualizado: 2026-11-03 19:55:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7604**  ($430,822,282 en total)
+- Apuestas registradas: **7605**  ($430,865,552 en total)
 - Resueltas: **7563** — 4610 ganadas / 2953 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 692
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.22 (82¢) | $43,270 | — | ⏳ Pendiente |
 | ethanaz | Ohio vs. Akron | Ohio | 1.19 (84¢) | $174,925 | — | ⏳ Pendiente |
 | ethanaz | Ohio vs. Akron | Ohio | 1.22 (82¢) | $101,552 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Ohio vs. Akron | Ohio | 1.30 (77¢) | $39,253 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | CUTJALENHURTS | Suns vs. Warriors: O/U 230.5 | Over 230.5 | 5.88 (17¢) | $37,778 | -$37,778 | ❌ Perdida |
 | CHZHSHCH | Pelicans vs. Grizzlies | Grizzlies | 1.52 (66¢) | $25,411 | -$25,411 | ❌ Perdida |
 | sinasinner | Spread: Bears (-6.5) | Bears | 1.61 (62¢) | $29,694 | +$18,200 | ✅ Ganada |
-| ethanaz | Bears vs. Seahawks | Bears | 1.41 (71¢) | $25,183 | +$10,286 | ✅ Ganada |
