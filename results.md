@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 19:13:13 (hora de Perú)
+Actualizado: 2026-11-03 19:15:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7600**  ($430,421,388 en total)
+- Apuestas registradas: **7601**  ($430,506,552 en total)
 - Resueltas: **7563** — 4610 ganadas / 2953 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 692
 
 ### Balance
@@ -39,8 +39,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
+| ethanaz | 64 | 30 | 1 | 68% | $5,574,724 | -$261,833 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ethanaz | 64 | 30 | 0 | 68% | $5,489,561 | -$261,833 |
 | maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
 | BrotherObama | 51 | 54 | 2 | 49% | $4,623,036 | -$111,283 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Ohio vs. Akron | Ohio | 1.22 (82¢) | $85,164 | — | ⏳ Pendiente |
 | Mastermoney | Ohio vs. Akron: O/U 51.5 | Over 51.5 | 1.85 (54¢) | $45,258 | — | ⏳ Pendiente |
 | Sassy-Bucket | Jets vs. Canadiens | Canadiens | 1.64 (61¢) | $48,004 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Jets vs. Canadiens | Jets | 2.56 (39¢) | $91,734 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | robustmst | Suns vs. Warriors | Warriors | 2.27 (44¢) | $28,862 | +$36,734 | ✅ Ganada |
 | Multicoloured-Serf | Bears vs. Seahawks | Seahawks | 4.76 (21¢) | $25,577 | -$25,577 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.79 (56¢) | $27,774 | +$21,823 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Heat vs. Lakers: O/U 237.5 | Under 237.5 | 2.04 (49¢) | $30,084 | -$30,084 | ❌ Perdida |
