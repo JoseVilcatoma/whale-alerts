@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 04:01:20 (hora de Perú)
+Actualizado: 2026-11-04 04:03:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7624**  ($431,785,440 en total)
+- Apuestas registradas: **7625**  ($431,935,440 en total)
 - Resueltas: **7590** — 4629 ganadas / 2961 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 693
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| qiu3 | Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A | FURIA | 1.35 (74¢) | $150,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $70,500 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Will FC Porto win on 2026-11-04? | No | 2.08 (48¢) | $60,000 | — | ⏳ Pendiente |
 | Mastermoney | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva | Antonia Ruzic | 1.67 (60¢) | $45,204 | +$30,136 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 | fantasy7788 | Counter-Strike: TheMongolz vs Heroic - Map 2 Winner | TheMongolz | 2.00 (50¢) | $53,000 | +$53,000 | ✅ Ganada |
 | omnibus-076daa | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.49 (67¢) | $60,292 | +$29,696 | ✅ Ganada |
 | TAIWANNUMBERONE | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | Legacy | 1.64 (61¢) | $27,111 | -$27,111 | ❌ Perdida |
-| yabanci | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.27 (79¢) | $38,500 | +$10,234 | ✅ Ganada |
