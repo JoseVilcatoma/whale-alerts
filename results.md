@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 00:05:07 (hora de Perú)
+Actualizado: 2026-11-04 00:07:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7616**  ($431,334,051 en total)
-- Resueltas: **7582** — 4623 ganadas / 2959 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **7583** — 4624 ganadas / 2959 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 692
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,794,147** sobre $429,910,268 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$5,624** sobre $747,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,778,678** sobre $429,937,768 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$5,568** sobre $747,900 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | tenniz | Costa do Sauipe: Daniel Galan vs Gonzalo Bueno | Gonzalo Bueno | 1.14 (88¢) | $143,214 | +$19,529 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: BetBoom Team vs Aurora Gaming (BO3) - IEM Beijing Group B | BetBoom Team | 2.17 (46¢) | $27,140 | +$31,860 | ✅ Ganada |
 | ch27er | Hurricanes vs. Predators | Hurricanes | 1.52 (66¢) | $27,500 | -$27,500 | ❌ Perdida |
-| ch27er | Ducks vs. Canucks | Ducks | 1.56 (64¢) | $27,500 | — | ⏳ Pendiente |
+| ch27er | Ducks vs. Canucks | Ducks | 1.56 (64¢) | $27,500 | +$15,469 | ✅ Ganada |
 | ch27er | Jets vs. Canadiens | Canadiens | 1.64 (61¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 999585 | Ohio vs. Akron | Ohio | 1.19 (84¢) | $227,588 | +$43,350 | ✅ Ganada |
 | 999585 | Ohio vs. Akron | Ohio | 1.20 (83¢) | $42,953 | +$8,798 | ✅ Ganada |
