@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 08:01:53 (hora de Perú)
+Actualizado: 2026-11-04 08:03:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7627**  ($432,071,136 en total)
-- Resueltas: **7592** — 4631 ganadas / 2961 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Apuestas registradas: **7628**  ($432,099,526 en total)
+- Resueltas: **7594** — 4631 ganadas / 2963 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 693
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,698,156** sobre $430,406,638 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$5,440** sobre $748,800 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,882,025** sobre $430,590,506 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,640** sobre $749,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,9 +71,10 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Eugycom | Trail Blazers vs. Suns | Trail Blazers | 1.72 (58¢) | $28,391 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.25 (80¢) | $108,966 | — | ⏳ Pendiente |
 | 4217893367451 | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Team Falcons | 3.70 (27¢) | $26,730 | — | ⏳ Pendiente |
-| qiu3 | Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A | FURIA | 1.35 (74¢) | $150,000 | — | ⏳ Pendiente |
+| qiu3 | Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A | FURIA | 1.35 (74¢) | $150,000 | -$150,000 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $70,500 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Will FC Porto win on 2026-11-04? | No | 2.08 (48¢) | $60,000 | — | ⏳ Pendiente |
 | Mastermoney | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva | Antonia Ruzic | 1.67 (60¢) | $45,204 | +$30,136 | ✅ Ganada |
@@ -86,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 | Multicoloured-Serf | Buffalo vs. Miami (OH) | Buffalo | 1.61 (62¢) | $76,356 | +$46,799 | ✅ Ganada |
 | 0F62 | Spread: RB Leipzig (-1.5) | Manchester City FC | 1.06 (94¢) | $29,422 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: BetBoom Team vs Aurora Gaming (BO3) - IEM Beijing Group B | Aurora Gaming | 1.82 (55¢) | $26,199 | -$26,199 | ❌ Perdida |
-| lllllllIlll | Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A | FURIA | 1.41 (71¢) | $33,868 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A | FURIA | 1.41 (71¢) | $33,868 | -$33,868 | ❌ Perdida |
 | Mastermoney | Spread: Miami (OH) (-14.5) | Buffalo | 1.85 (54¢) | $27,576 | +$23,491 | ✅ Ganada |
 | 0F62 | Will SK Slavia Praha win on 2026-11-04? | No | 1.06 (94¢) | $50,361 | — | ⏳ Pendiente |
 | 0F62 | Will AEK win on 2026-11-04? | No | 1.06 (94¢) | $34,260 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 | 4217893367451 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.17 (46¢) | $45,810 | -$45,810 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $86,907 | -$86,907 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $31,200 | +$48,800 | ✅ Ganada |
-| fantasy7788 | Counter-Strike: TheMongolz vs Heroic - Map 2 Winner | TheMongolz | 2.00 (50¢) | $53,000 | +$53,000 | ✅ Ganada |
