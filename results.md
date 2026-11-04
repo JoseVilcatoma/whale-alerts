@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 13:36:06 (hora de Perú)
+Actualizado: 2026-11-04 13:38:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7659**  ($434,292,348 en total)
+- Apuestas registradas: **7661**  ($434,349,806 en total)
 - Resueltas: **7598** — 4633 ganadas / 2965 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 41
 - Apostadores distintos: 696
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| darkumbreon88 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.39 (72¢) | $28,445 | — | ⏳ Pendiente |
+| justwins | Senators vs. Sabres | Sabres | 1.85 (54¢) | $29,013 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.28 (78¢) | $28,610 | — | ⏳ Pendiente |
 | Fvalp | Will Real Madrid CF win on 2026-11-04? | Yes | 1.23 (81¢) | $72,900 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $82,941 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 | ethanaz | Ohio vs. Akron | Ohio | 1.19 (84¢) | $174,925 | +$33,319 | ✅ Ganada |
 | ethanaz | Ohio vs. Akron | Ohio | 1.22 (82¢) | $101,552 | +$22,292 | ✅ Ganada |
 | CUTJALENHURTS | Ohio vs. Akron | Ohio | 1.30 (77¢) | $39,253 | +$11,725 | ✅ Ganada |
-| ethanaz | Ohio vs. Akron | Ohio | 1.22 (82¢) | $85,164 | +$18,694 | ✅ Ganada |
-| Mastermoney | Ohio vs. Akron: O/U 51.5 | Over 51.5 | 1.85 (54¢) | $45,258 | -$45,258 | ❌ Perdida |

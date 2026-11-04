@@ -115113,5 +115113,35 @@
     "status": "pending",
     "ultimo_fill": 1793816478,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15519,
+    "timestamp": 1793817396,
+    "username": "justwins",
+    "wallet": "0xa2cced8bfae7d645f7f437fb76becf2fcbb70cbc",
+    "slug": "nhl-ott-buf-2026-11-04",
+    "title": "Senators vs. Sabres",
+    "outcome": "Sabres",
+    "side": "BUY",
+    "usd": 29012.709131000003,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793817396,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15520,
+    "timestamp": 1793817398,
+    "username": "darkumbreon88",
+    "wallet": "0x0235dc24b38772bf3339a9e5ec5db3d3a05fcee5",
+    "slug": "ucl-aek1-rma-2026-11-04-rma",
+    "title": "Will Real Madrid CF win on 2026-11-04?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 28445.493599999998,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1793817398,
+    "fills": 1
   }
 ]
