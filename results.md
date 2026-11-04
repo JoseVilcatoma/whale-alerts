@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 05:14:49 (hora de Perú)
+Actualizado: 2026-11-04 07:45:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7627**  ($432,071,136 en total)
-- Resueltas: **7591** — 4630 ganadas / 2961 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **7592** — 4631 ganadas / 2961 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 693
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,713,906** sobre $430,377,388 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$5,493** sobre $748,700 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,698,156** sobre $430,406,638 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$5,440** sobre $748,800 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 540 | 307 | 4 | 64% | $55,448,534 | +$366,989 |
 | Sassy-Bucket | 106 | 107 | 2 | 50% | $13,906,103 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 130 | 73 | 1 | 64% | $9,792,810 | +$451,684 |
+| Lakersfan111 | 131 | 73 | 0 | 64% | $9,792,810 | +$467,434 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $70,500 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Will FC Porto win on 2026-11-04? | No | 2.08 (48¢) | $60,000 | — | ⏳ Pendiente |
 | Mastermoney | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva | Antonia Ruzic | 1.67 (60¢) | $45,204 | +$30,136 | ✅ Ganada |
-| jakepaulthegoat2008 | Counter-Strike: Liquid vs BetBoom Team (BO3) - IEM Beijing Group B | BetBoom Team | 1.54 (65¢) | $29,250 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Counter-Strike: Liquid vs BetBoom Team (BO3) - IEM Beijing Group B | BetBoom Team | 1.54 (65¢) | $29,250 | +$15,750 | ✅ Ganada |
 | bobthebuilder2 | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva | Alina Charaeva | 1.45 (69¢) | $42,234 | -$42,234 | ❌ Perdida |
 | qiu3 | Counter-Strike: MOUZ vs PARIVISION (BO3) - IEM Beijing Group B | MOUZ | 1.32 (76¢) | $120,922 | +$38,186 | ✅ Ganada |
 | vtcchampion52 | Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.15 (87¢) | $43,227 | +$6,459 | ✅ Ganada |
