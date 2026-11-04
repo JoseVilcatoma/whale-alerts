@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 19:48:53 (hora de Perú)
+Actualizado: 2026-11-03 19:50:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7603**  ($430,647,357 en total)
+- Apuestas registradas: **7604**  ($430,822,282 en total)
 - Resueltas: **7563** — 4610 ganadas / 2953 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 692
 
 ### Balance
@@ -37,9 +37,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
+| ethanaz | 64 | 30 | 3 | 68% | $5,851,202 | -$261,833 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| ethanaz | 64 | 30 | 2 | 68% | $5,676,277 | -$261,833 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
 | BrotherObama | 51 | 54 | 2 | 49% | $4,623,036 | -$111,283 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Ohio vs. Akron | Ohio | 1.19 (84¢) | $174,925 | — | ⏳ Pendiente |
 | ethanaz | Ohio vs. Akron | Ohio | 1.22 (82¢) | $101,552 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Ohio vs. Akron | Ohio | 1.30 (77¢) | $39,253 | — | ⏳ Pendiente |
 | ethanaz | Ohio vs. Akron | Ohio | 1.22 (82¢) | $85,164 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | CHZHSHCH | Pelicans vs. Grizzlies | Grizzlies | 1.52 (66¢) | $25,411 | -$25,411 | ❌ Perdida |
 | sinasinner | Spread: Bears (-6.5) | Bears | 1.61 (62¢) | $29,694 | +$18,200 | ✅ Ganada |
 | ethanaz | Bears vs. Seahawks | Bears | 1.41 (71¢) | $25,183 | +$10,286 | ✅ Ganada |
-| robustmst | Suns vs. Warriors | Warriors | 2.27 (44¢) | $28,862 | +$36,734 | ✅ Ganada |
