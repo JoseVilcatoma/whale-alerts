@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 11:59:36 (hora de Perú)
+Actualizado: 2026-11-04 12:01:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7636**  ($432,380,901 en total)
+- Apuestas registradas: **7637**  ($432,422,887 en total)
 - Resueltas: **7598** — 4633 ganadas / 2965 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 694
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 694 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | Senators vs. Sabres | Sabres | 1.85 (54¢) | $41,986 | — | ⏳ Pendiente |
 | ch27er | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.64 (61¢) | $49,895 | — | ⏳ Pendiente |
 | plonker2026 | Fenerbahçe SK vs. Liverpool FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $28,706 | — | ⏳ Pendiente |
 | darkumbreon88 | Will Liverpool FC win on 2026-11-04? | Yes | 1.54 (65¢) | $49,601 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 694 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FK Shakhtar Donetsk win on 2026-11-03? | No | 1.39 (72¢) | $34,772 | +$13,522 | ✅ Ganada |
 | mooseborzoi | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $39,731 | +$43,041 | ✅ Ganada |
 | DitieForlan | Will FC Barcelona win on 2026-11-03? | No | 4.35 (23¢) | $29,870 | -$29,870 | ❌ Perdida |
-| 999585 | Rolex Paris Masters: Tommy Paul vs Holger Rune | Tommy Paul | 1.06 (94¢) | $57,945 | +$3,699 | ✅ Ganada |
