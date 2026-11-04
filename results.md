@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 11:28:23 (hora de Perú)
+Actualizado: 2026-11-04 11:30:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7633**  ($432,252,699 en total)
+- Apuestas registradas: **7634**  ($432,302,300 en total)
 - Resueltas: **7597** — 4632 ganadas / 2965 perdidas (**61%** de acierto)
-- Pendientes: 14
-- Apostadores distintos: 693
+- Pendientes: 15
+- Apostadores distintos: 694
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 
-_(mostrando los 40 de mayor monto, de 693 en total)_
+_(mostrando los 40 de mayor monto, de 694 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| darkumbreon88 | Will Liverpool FC win on 2026-11-04? | Yes | 1.54 (65¢) | $49,601 | — | ⏳ Pendiente |
 | kuwkuw | Rolex Paris Masters (Doubles): Gornes/Walkow vs Doumbia/Pel | Doumbia/Pel | 1.09 (92¢) | $31,117 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.69 (59¢) | $28,761 | — | ⏳ Pendiente |
 | RJW1 | Spread: Arsenal FC (-1.5) | Arsenal FC | 1.82 (55¢) | $30,256 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 | 999585 | Rolex Paris Masters: Tommy Paul vs Holger Rune | Tommy Paul | 1.06 (94¢) | $57,945 | +$3,699 | ✅ Ganada |
 | Matheobong | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $38,400 | +$41,600 | ✅ Ganada |
 | 01258787xy48487484545122 | Prudential Hong Kong Tennis Open: Elena Pridankina vs Paula Badosa | Elena Pridankina | 1.54 (65¢) | $30,573 | +$16,463 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chennai Open: Jeline Vandromme vs Kyoka Okamura | Jeline Vandromme | 1.15 (87¢) | $87,000 | +$13,000 | ✅ Ganada |
