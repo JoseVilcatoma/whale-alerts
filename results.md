@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 12:45:37 (hora de Perú)
+Actualizado: 2026-11-04 12:47:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7653**  ($433,705,699 en total)
+- Apuestas registradas: **7656**  ($434,107,897 en total)
 - Resueltas: **7598** — 4633 ganadas / 2965 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 36
 - Apostadores distintos: 696
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 540 | 307 | 4 | 64% | $55,448,534 | +$366,989 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 540 | 307 | 6 | 64% | $55,800,732 | +$366,989 |
 | Sassy-Bucket | 106 | 107 | 2 | 50% | $13,906,103 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 131 | 73 | 0 | 64% | $9,792,810 | +$467,434 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Marcoli | Will Real Madrid CF win on 2026-11-04? | Yes | 1.20 (83¢) | $50,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $92,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AEK vs. Real Madrid CF end in a draw? | No | 1.12 (89¢) | $260,199 | — | ⏳ Pendiente |
 | ndb1 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $115,000 | — | ⏳ Pendiente |
 | Flaznorp | Will AEK vs. Real Madrid CF end in a draw? | No | 1.12 (89¢) | $137,483 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Thunder (-3.5) | Cavaliers | 2.00 (50¢) | $29,191 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 | Sassy-Bucket | Jets vs. Canadiens | Canadiens | 1.64 (61¢) | $48,004 | -$48,004 | ❌ Perdida |
 | Multicoloured-Serf | Jets vs. Canadiens | Jets | 2.56 (39¢) | $91,734 | +$143,482 | ✅ Ganada |
 | Sassy-Bucket | Jets vs. Canadiens | Canadiens | 1.64 (61¢) | $99,829 | -$99,829 | ❌ Perdida |
-| tenniz | Costa do Sauipe: Daniel Galan vs Gonzalo Bueno | Gonzalo Bueno | 1.14 (88¢) | $143,214 | +$19,529 | ✅ Ganada |
-| jakepaulthegoat2008 | Counter-Strike: BetBoom Team vs Aurora Gaming (BO3) - IEM Beijing Group B | BetBoom Team | 2.17 (46¢) | $27,140 | +$31,860 | ✅ Ganada |
-| ch27er | Hurricanes vs. Predators | Hurricanes | 1.52 (66¢) | $27,500 | -$27,500 | ❌ Perdida |
