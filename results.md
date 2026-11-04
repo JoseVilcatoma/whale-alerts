@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 20:33:09 (hora de Perú)
+Actualizado: 2026-11-03 20:35:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7608**  ($431,011,959 en total)
+- Apuestas registradas: **7609**  ($431,046,219 en total)
 - Resueltas: **7563** — 4610 ganadas / 2953 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 692
 
 ### Balance
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
-| 0F62 | 33 | 8 | 0 | 80% | $2,994,303 | -$356,459 |
+| 0F62 | 33 | 8 | 1 | 80% | $3,028,563 | -$356,459 |
 | TAIWANNUMBERONE | 49 | 24 | 1 | 67% | $2,797,023 | -$258,952 |
 | ndb1 | 30 | 15 | 0 | 67% | $2,639,910 | +$448,403 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Will AEK win on 2026-11-04? | No | 1.06 (94¢) | $34,260 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Ohio vs. Akron | Ohio | 1.33 (75¢) | $42,348 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Ohio vs. Akron | Ohio | 1.30 (77¢) | $44,543 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ohio vs. Akron | Ohio | 1.18 (85¢) | $59,516 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | NS13 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | Aurora Gaming | 1.79 (56¢) | $55,851 | +$43,883 | ✅ Ganada |
 | 3648393489047 | Bears vs. Seahawks | Bears | 1.11 (90¢) | $57,600 | +$6,400 | ✅ Ganada |
 | TAIWANNUMBERONE | Bears vs. Seahawks | Bears | 1.15 (87¢) | $39,788 | +$5,945 | ✅ Ganada |
-| CHZHSHCH | Suns vs. Warriors: O/U 230.5 | Under 230.5 | 1.20 (83¢) | $138,329 | -$124,996 | 💰 Vendida antes |
