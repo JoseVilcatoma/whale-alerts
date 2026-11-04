@@ -115173,5 +115173,20 @@
     "status": "pending",
     "ultimo_fill": 1793832578,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15548,
+    "timestamp": 1793833502,
+    "username": "Mastermoney",
+    "wallet": "0xbe23032d56a012c531b372c7739bc1dbd4dfb587",
+    "slug": "cfb-ballst-umass-2026-11-04-total-47pt5",
+    "title": "Ball State vs. UMass: O/U 47.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 29595.100000000002,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1793833502,
+    "fills": 1
   }
 ]
