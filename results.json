@@ -114753,5 +114753,20 @@
     "status": "pending",
     "ultimo_fill": 1793810138,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15495,
+    "timestamp": 1793810244,
+    "username": "ch27er",
+    "wallet": "0x61a3f1ef9c9618f532eb49f0cb260486c168e508",
+    "slug": "ucl-aek1-rma-2026-11-04-spread-away-1pt5",
+    "title": "Spread: Real Madrid CF (-1.5)",
+    "outcome": "Real Madrid CF",
+    "side": "BUY",
+    "usd": 49894.8399,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1793810244,
+    "fills": 1
   }
 ]
