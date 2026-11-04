@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 19:11:07 (hora de Perú)
+Actualizado: 2026-11-03 19:13:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7600**  ($430,421,388 en total)
-- Resueltas: **7562** — 4609 ganadas / 2953 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **7563** — 4610 ganadas / 2953 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 692
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,928,869** sobre $428,502,087 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,684** sobre $745,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,909,340** sobre $428,645,301 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,670** sobre $745,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | Sassy-Bucket | Jets vs. Canadiens | Canadiens | 1.64 (61¢) | $48,004 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Jets vs. Canadiens | Jets | 2.56 (39¢) | $91,734 | — | ⏳ Pendiente |
 | Sassy-Bucket | Jets vs. Canadiens | Canadiens | 1.64 (61¢) | $99,829 | — | ⏳ Pendiente |
-| tenniz | Costa do Sauipe: Daniel Galan vs Gonzalo Bueno | Gonzalo Bueno | 1.14 (88¢) | $143,214 | — | ⏳ Pendiente |
+| tenniz | Costa do Sauipe: Daniel Galan vs Gonzalo Bueno | Gonzalo Bueno | 1.14 (88¢) | $143,214 | +$19,529 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: BetBoom Team vs Aurora Gaming (BO3) - IEM Beijing Group B | BetBoom Team | 2.17 (46¢) | $27,140 | — | ⏳ Pendiente |
 | ch27er | Hurricanes vs. Predators | Hurricanes | 1.52 (66¢) | $27,500 | — | ⏳ Pendiente |
 | ch27er | Ducks vs. Canucks | Ducks | 1.56 (64¢) | $27,500 | — | ⏳ Pendiente |
