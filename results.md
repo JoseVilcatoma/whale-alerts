@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 12:41:23 (hora de Perú)
+Actualizado: 2026-11-04 12:43:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7648**  ($433,296,455 en total)
+- Apuestas registradas: **7650**  ($433,424,024 en total)
 - Resueltas: **7598** — 4633 ganadas / 2965 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 30
 - Apostadores distintos: 696
 
 ### Balance
@@ -53,8 +53,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 33 | 8 | 3 | 80% | $3,108,346 | -$356,459 |
 | TAIWANNUMBERONE | 50 | 24 | 0 | 68% | $2,797,023 | -$248,449 |
+| S-Works | 18 | 7 | 1 | 72% | $2,682,709 | -$187,640 |
 | ndb1 | 30 | 15 | 0 | 67% | $2,639,910 | +$448,403 |
-| S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| meoooow | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $37,164 | — | ⏳ Pendiente |
+| S-Works | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $90,405 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $233,312 | — | ⏳ Pendiente |
 | LightParadox | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $26,912 | — | ⏳ Pendiente |
 | MadridTime | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $26,912 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 | ch27er | Ducks vs. Canucks | Ducks | 1.56 (64¢) | $27,500 | +$15,469 | ✅ Ganada |
 | ch27er | Jets vs. Canadiens | Canadiens | 1.64 (61¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 999585 | Ohio vs. Akron | Ohio | 1.19 (84¢) | $227,588 | +$43,350 | ✅ Ganada |
-| 999585 | Ohio vs. Akron | Ohio | 1.20 (83¢) | $42,953 | +$8,798 | ✅ Ganada |
-| Multicoloured-Serf | Spread: Ohio (-13.5) | Akron | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
