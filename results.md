@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 12:32:58 (hora de Perú)
+Actualizado: 2026-11-04 12:35:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7644**  ($432,960,119 en total)
+- Apuestas registradas: **7647**  ($433,063,143 en total)
 - Resueltas: **7598** — 4633 ganadas / 2965 perdidas (**61%** de acierto)
-- Pendientes: 24
-- Apostadores distintos: 694
+- Pendientes: 27
+- Apostadores distintos: 696
 
 ### Balance
 
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 999585 | 19 | 1 | 1 | 95% | $2,290,231 | +$88,453 |
 
-_(mostrando los 40 de mayor monto, de 694 en total)_
+_(mostrando los 40 de mayor monto, de 696 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| LightParadox | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $26,912 | — | ⏳ Pendiente |
+| MadridTime | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $26,912 | — | ⏳ Pendiente |
+| beautifulobsession | Will Real Madrid CF win on 2026-11-04? | Yes | 1.22 (82¢) | $49,200 | — | ⏳ Pendiente |
 | 999585 | Will AEK win on 2026-11-04? | No | 1.08 (93¢) | $139,500 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $100,000 | — | ⏳ Pendiente |
 | NS13 | Will Liverpool FC win on 2026-11-04? | Yes | 1.59 (63¢) | $82,754 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 694 en total)_
 | 999585 | Ohio vs. Akron | Ohio | 1.20 (83¢) | $42,953 | +$8,798 | ✅ Ganada |
 | Multicoloured-Serf | Spread: Ohio (-13.5) | Akron | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | thetesterguy | Will Manchester United FC win on 2026-11-03? | Yes | 1.11 (90¢) | $28,110 | +$3,123 | ✅ Ganada |
-| 999585 | Rolex Paris Masters: Casper Ruud vs Rafael Jodar | Casper Ruud | 1.08 (93¢) | $42,694 | +$3,214 | ✅ Ganada |
-| Momo63 | Will VfB Stuttgart win on 2026-11-03? | No | 1.33 (75¢) | $37,500 | +$12,500 | ✅ Ganada |
-| Kyn008 | Will AS Roma win on 2026-11-03? | No | 1.49 (67¢) | $31,444 | +$15,487 | ✅ Ganada |
