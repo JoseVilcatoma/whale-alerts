@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 08:20:25 (hora de Perú)
+Actualizado: 2026-11-04 08:22:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7630**  ($432,162,564 en total)
-- Resueltas: **7594** — 4631 ganadas / 2963 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **7596** — 4632 ganadas / 2964 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 693
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,882,025** sobre $430,590,506 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,640** sobre $749,000 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,829,255** sobre $430,687,736 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,627** sobre $749,200 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,9 +75,9 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 | ArturitoFilito | Rolex Paris Masters: Alexander Zverev vs Lorenzo Musetti | Alexander Zverev | 1.56 (64¢) | $34,334 | — | ⏳ Pendiente |
 | Eugycom | Trail Blazers vs. Suns | Trail Blazers | 1.72 (58¢) | $28,391 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.25 (80¢) | $108,966 | — | ⏳ Pendiente |
-| 4217893367451 | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Team Falcons | 3.70 (27¢) | $26,730 | — | ⏳ Pendiente |
+| 4217893367451 | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Team Falcons | 3.70 (27¢) | $26,730 | -$26,730 | ❌ Perdida |
 | qiu3 | Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A | FURIA | 1.35 (74¢) | $150,000 | -$150,000 | ❌ Perdida |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $70,500 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $70,500 | +$79,500 | ✅ Ganada |
 | Multicoloured-Serf | Will FC Porto win on 2026-11-04? | No | 2.08 (48¢) | $60,000 | — | ⏳ Pendiente |
 | Mastermoney | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva | Antonia Ruzic | 1.67 (60¢) | $45,204 | +$30,136 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs BetBoom Team (BO3) - IEM Beijing Group B | BetBoom Team | 1.54 (65¢) | $29,250 | +$15,750 | ✅ Ganada |
