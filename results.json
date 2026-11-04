@@ -114783,5 +114783,20 @@
     "status": "pending",
     "ultimo_fill": 1793811688,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15497,
+    "timestamp": 1793811779,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "ucl-rcl-com-2026-11-04-com",
+    "title": "Will Como 1907 win on 2026-11-04?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 80323.82224400001,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793811779,
+    "fills": 1
   }
 ]
