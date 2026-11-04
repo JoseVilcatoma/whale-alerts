@@ -114393,5 +114393,35 @@
     "status": "pending",
     "ultimo_fill": 1793756801,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15434,
+    "timestamp": 1793756959,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-mglz-furia-2026-11-04",
+    "title": "Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 33868.38449999999,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1793756959,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15435,
+    "timestamp": 1793756988,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-bb3-aur1-2026-11-03",
+    "title": "Counter-Strike: BetBoom Team vs Aurora Gaming (BO3) - IEM Beijing Group B",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 26199.277500000004,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1793756988,
+    "fills": 1
   }
 ]
