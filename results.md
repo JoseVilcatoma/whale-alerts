@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 18:45:15 (hora de Perú)
+Actualizado: 2026-11-04 18:47:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7666**  ($434,695,431 en total)
+- Apuestas registradas: **7667**  ($434,862,881 en total)
 - Resueltas: **7630** — 4657 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 696
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 307 | 3 | 64% | $55,912,283 | +$449,672 |
 | Sassy-Bucket | 106 | 107 | 2 | 50% | $13,906,103 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 131 | 73 | 2 | 64% | $9,975,954 | +$467,434 |
+| Lakersfan111 | 131 | 73 | 3 | 64% | $10,143,404 | +$467,434 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Bucks vs. Celtics | Celtics | 1.18 (85¢) | $167,450 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | 76ers vs. Pistons | Pistons | 1.75 (57¢) | $57,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Bucks vs. Celtics | Celtics | 1.19 (84¢) | $126,145 | — | ⏳ Pendiente |
 | Mastermoney | Ball State vs. UMass: O/U 47.5 | Over 47.5 | 1.75 (57¢) | $29,595 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 | 0F62 | Will SK Slavia Praha win on 2026-11-04? | No | 1.06 (94¢) | $50,361 | +$3,215 | ✅ Ganada |
 | 0F62 | Will AEK win on 2026-11-04? | No | 1.06 (94¢) | $34,260 | +$2,187 | ✅ Ganada |
 | Multicoloured-Serf | Ohio vs. Akron | Ohio | 1.33 (75¢) | $42,348 | +$14,116 | ✅ Ganada |
-| Multicoloured-Serf | Ohio vs. Akron | Ohio | 1.30 (77¢) | $44,543 | +$13,305 | ✅ Ganada |
