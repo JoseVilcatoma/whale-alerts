@@ -114543,5 +114543,20 @@
     "status": "pending",
     "ultimo_fill": 1793775507,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15470,
+    "timestamp": 1793775746,
+    "username": "Mastermoney",
+    "wallet": "0xbe23032d56a012c531b372c7739bc1dbd4dfb587",
+    "slug": "wta-ruzic-charaev-2026-11-01",
+    "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva",
+    "outcome": "Antonia Ruzic",
+    "side": "BUY",
+    "usd": 45204.4667,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1793775746,
+    "fills": 1
   }
 ]

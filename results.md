@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 02:00:35 (hora de Perú)
+Actualizado: 2026-11-04 02:02:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7621**  ($431,609,735 en total)
+- Apuestas registradas: **7622**  ($431,654,940 en total)
 - Resueltas: **7588** — 4628 ganadas / 2960 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 693
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mastermoney | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva | Antonia Ruzic | 1.67 (60¢) | $45,204 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs BetBoom Team (BO3) - IEM Beijing Group B | BetBoom Team | 1.54 (65¢) | $29,250 | — | ⏳ Pendiente |
 | bobthebuilder2 | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva | Alina Charaeva | 1.45 (69¢) | $42,234 | — | ⏳ Pendiente |
 | qiu3 | Counter-Strike: MOUZ vs PARIVISION (BO3) - IEM Beijing Group B | MOUZ | 1.32 (76¢) | $120,922 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 | yabanci | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.27 (79¢) | $38,500 | +$10,234 | ✅ Ganada |
 | hovistomaradona | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $41,491 | +$44,948 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.11 (90¢) | $43,478 | +$4,831 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A | FaZe | 3.70 (27¢) | $35,100 | -$35,100 | ❌ Perdida |
