@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 20:45:48 (hora de Perú)
+Actualizado: 2026-11-03 20:47:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7610**  ($431,096,580 en total)
+- Apuestas registradas: **7611**  ($431,124,156 en total)
 - Resueltas: **7563** — 4610 ganadas / 2953 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 692
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mastermoney | Spread: Miami (OH) (-14.5) | Buffalo | 1.85 (54¢) | $27,576 | — | ⏳ Pendiente |
 | 0F62 | Will SK Slavia Praha win on 2026-11-04? | No | 1.06 (94¢) | $50,361 | — | ⏳ Pendiente |
 | 0F62 | Will AEK win on 2026-11-04? | No | 1.06 (94¢) | $34,260 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Ohio vs. Akron | Ohio | 1.33 (75¢) | $42,348 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $39,000 | +$61,000 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | G2 | 2.13 (47¢) | $30,629 | -$30,629 | ❌ Perdida |
 | NS13 | Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B | Aurora Gaming | 1.79 (56¢) | $55,851 | +$43,883 | ✅ Ganada |
-| 3648393489047 | Bears vs. Seahawks | Bears | 1.11 (90¢) | $57,600 | +$6,400 | ✅ Ganada |
