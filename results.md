@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 08:16:16 (hora de Perú)
+Actualizado: 2026-11-04 08:18:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7628**  ($432,099,526 en total)
+- Apuestas registradas: **7629**  ($432,133,861 en total)
 - Resueltas: **7594** — 4631 ganadas / 2963 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 693
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArturitoFilito | Rolex Paris Masters: Alexander Zverev vs Lorenzo Musetti | Alexander Zverev | 1.56 (64¢) | $34,334 | — | ⏳ Pendiente |
 | Eugycom | Trail Blazers vs. Suns | Trail Blazers | 1.72 (58¢) | $28,391 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.25 (80¢) | $108,966 | — | ⏳ Pendiente |
 | 4217893367451 | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Team Falcons | 3.70 (27¢) | $26,730 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 693 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | FURIA | 1.85 (54¢) | $32,400 | +$27,600 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.17 (46¢) | $45,810 | -$45,810 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: FURIA vs Natus Vincere (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $86,907 | -$86,907 | ❌ Perdida |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $31,200 | +$48,800 | ✅ Ganada |
