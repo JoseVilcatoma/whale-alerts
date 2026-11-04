@@ -114813,5 +114813,20 @@
     "status": "pending",
     "ultimo_fill": 1793812362,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15499,
+    "timestamp": 1793812531,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "ucl-aek1-rma-2026-11-04-rma",
+    "title": "Will Real Madrid CF win on 2026-11-04?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 64933.5614,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1793812531,
+    "fills": 1
   }
 ]
