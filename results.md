@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 18:57:35 (hora de Perú)
+Actualizado: 2026-11-04 18:59:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7667**  ($434,862,881 en total)
+- Apuestas registradas: **7668**  ($434,890,900 en total)
 - Resueltas: **7630** — 4657 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 696
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Hawks vs. Wizards | Hawks | 1.79 (56¢) | $28,019 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Bucks vs. Celtics | Celtics | 1.18 (85¢) | $167,450 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | 76ers vs. Pistons | Pistons | 1.75 (57¢) | $57,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Bucks vs. Celtics | Celtics | 1.19 (84¢) | $126,145 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 | Mastermoney | Spread: Miami (OH) (-14.5) | Buffalo | 1.85 (54¢) | $27,576 | +$23,491 | ✅ Ganada |
 | 0F62 | Will SK Slavia Praha win on 2026-11-04? | No | 1.06 (94¢) | $50,361 | +$3,215 | ✅ Ganada |
 | 0F62 | Will AEK win on 2026-11-04? | No | 1.06 (94¢) | $34,260 | +$2,187 | ✅ Ganada |
-| Multicoloured-Serf | Ohio vs. Akron | Ohio | 1.33 (75¢) | $42,348 | +$14,116 | ✅ Ganada |
