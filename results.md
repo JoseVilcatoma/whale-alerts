@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 12:12:06 (hora de Perú)
+Actualizado: 2026-11-04 12:14:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7638**  ($432,503,211 en total)
+- Apuestas registradas: **7639**  ($432,545,008 en total)
 - Resueltas: **7598** — 4633 ganadas / 2965 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 694
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 694 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 76ers vs. Pistons | 76ers | 2.22 (45¢) | $41,797 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Will Como 1907 win on 2026-11-04? | No | 2.04 (49¢) | $80,324 | — | ⏳ Pendiente |
 | justwins | Senators vs. Sabres | Sabres | 1.85 (54¢) | $41,986 | — | ⏳ Pendiente |
 | ch27er | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.64 (61¢) | $49,895 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 694 en total)_
 | 0x1eae…c2ab | Will FC Barcelona win on 2026-11-03? | Yes | 1.30 (77¢) | $29,604 | +$8,843 | ✅ Ganada |
 | thetesterguy | Galatasaray SK vs. VfB Stuttgart: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $42,955 | +$4,248 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FK Shakhtar Donetsk win on 2026-11-03? | No | 1.39 (72¢) | $34,772 | +$13,522 | ✅ Ganada |
-| mooseborzoi | Will Galatasaray SK win on 2026-11-03? | Yes | 2.08 (48¢) | $39,731 | +$43,041 | ✅ Ganada |
