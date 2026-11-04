@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 00:13:16 (hora de Perú)
+Actualizado: 2026-11-04 00:15:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7616**  ($431,334,051 en total)
-- Resueltas: **7584** — 4625 ganadas / 2959 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **7586** — 4626 ganadas / 2960 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 692
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,755,187** sobre $429,965,344 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$5,483** sobre $748,000 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$2,752,438** sobre $430,085,749 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$5,522** sobre $748,200 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,8 +71,8 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Multicoloured-Serf | Buffalo vs. Miami (OH) | Miami (OH) | 1.49 (67¢) | $44,050 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Buffalo vs. Miami (OH) | Buffalo | 1.61 (62¢) | $76,356 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Buffalo vs. Miami (OH) | Miami (OH) | 1.49 (67¢) | $44,050 | -$44,050 | ❌ Perdida |
+| Multicoloured-Serf | Buffalo vs. Miami (OH) | Buffalo | 1.61 (62¢) | $76,356 | +$46,799 | ✅ Ganada |
 | 0F62 | Spread: RB Leipzig (-1.5) | Manchester City FC | 1.06 (94¢) | $29,422 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: BetBoom Team vs Aurora Gaming (BO3) - IEM Beijing Group B | Aurora Gaming | 1.82 (55¢) | $26,199 | -$26,199 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A | FURIA | 1.41 (71¢) | $33,868 | — | ⏳ Pendiente |
