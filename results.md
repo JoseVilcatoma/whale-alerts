@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 11:30:24 (hora de Perú)
+Actualizado: 2026-11-04 11:32:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7634**  ($432,302,300 en total)
-- Resueltas: **7597** — 4632 ganadas / 2965 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **7598** — 4633 ganadas / 2965 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 694
 
 ### Balance
 
-- **Resultado de los apostadores: -$2,863,589** sobre $430,722,070 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,727** sobre $749,300 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,860,883** sobre $430,753,188 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,718** sobre $749,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 694 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | darkumbreon88 | Will Liverpool FC win on 2026-11-04? | Yes | 1.54 (65¢) | $49,601 | — | ⏳ Pendiente |
-| kuwkuw | Rolex Paris Masters (Doubles): Gornes/Walkow vs Doumbia/Pel | Doumbia/Pel | 1.09 (92¢) | $31,117 | — | ⏳ Pendiente |
+| kuwkuw | Rolex Paris Masters (Doubles): Gornes/Walkow vs Doumbia/Pel | Doumbia/Pel | 1.09 (92¢) | $31,117 | +$2,706 | ✅ Ganada |
 | ferrariChampions2026 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.69 (59¢) | $28,761 | — | ⏳ Pendiente |
 | RJW1 | Spread: Arsenal FC (-1.5) | Arsenal FC | 1.82 (55¢) | $30,256 | — | ⏳ Pendiente |
 | Matheobong | Spread: Real Madrid CF (-2.5) | AEK | 1.59 (63¢) | $28,703 | — | ⏳ Pendiente |
