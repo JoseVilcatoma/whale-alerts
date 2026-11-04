@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 12:35:06 (hora de Perú)
+Actualizado: 2026-11-04 12:37:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7647**  ($433,063,143 en total)
+- Apuestas registradas: **7648**  ($433,296,455 en total)
 - Resueltas: **7598** — 4633 ganadas / 2965 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 696
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $233,312 | — | ⏳ Pendiente |
 | LightParadox | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $26,912 | — | ⏳ Pendiente |
 | MadridTime | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $26,912 | — | ⏳ Pendiente |
 | beautifulobsession | Will Real Madrid CF win on 2026-11-04? | Yes | 1.22 (82¢) | $49,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 | 999585 | Ohio vs. Akron | Ohio | 1.19 (84¢) | $227,588 | +$43,350 | ✅ Ganada |
 | 999585 | Ohio vs. Akron | Ohio | 1.20 (83¢) | $42,953 | +$8,798 | ✅ Ganada |
 | Multicoloured-Serf | Spread: Ohio (-13.5) | Akron | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
-| thetesterguy | Will Manchester United FC win on 2026-11-03? | Yes | 1.11 (90¢) | $28,110 | +$3,123 | ✅ Ganada |
