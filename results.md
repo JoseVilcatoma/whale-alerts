@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-03 23:24:11 (hora de Perú)
+Actualizado: 2026-11-03 23:26:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7613**  ($431,184,224 en total)
+- Apuestas registradas: **7614**  ($431,213,646 en total)
 - Resueltas: **7582** — 4623 ganadas / 2959 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 692
 
 ### Balance
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
-| 0F62 | 33 | 8 | 2 | 80% | $3,078,924 | -$356,459 |
+| 0F62 | 33 | 8 | 3 | 80% | $3,108,346 | -$356,459 |
 | TAIWANNUMBERONE | 50 | 24 | 0 | 68% | $2,797,023 | -$248,449 |
 | ndb1 | 30 | 15 | 0 | 67% | $2,639,910 | +$448,403 |
 | S-Works | 18 | 7 | 0 | 72% | $2,592,304 | -$187,640 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Spread: RB Leipzig (-1.5) | Manchester City FC | 1.06 (94¢) | $29,422 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: BetBoom Team vs Aurora Gaming (BO3) - IEM Beijing Group B | Aurora Gaming | 1.82 (55¢) | $26,199 | -$26,199 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A | FURIA | 1.41 (71¢) | $33,868 | — | ⏳ Pendiente |
 | Mastermoney | Spread: Miami (OH) (-14.5) | Buffalo | 1.85 (54¢) | $27,576 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 692 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Suns vs. Warriors | Warriors | 1.54 (65¢) | $25,903 | +$13,948 | ✅ Ganada |
 | kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Group B | MOUZ | 1.41 (71¢) | $32,612 | +$13,320 | ✅ Ganada |
 | winner877 | Trail Blazers vs. Nuggets | Trail Blazers | 1.06 (94¢) | $28,012 | +$1,788 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A | B8 | 2.56 (39¢) | $39,000 | +$61,000 | ✅ Ganada |
