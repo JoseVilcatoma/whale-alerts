@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 23:57:52 (hora de Perú)
+Actualizado: 2026-11-04 23:59:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7696**  ($436,120,655 en total)
-- Resueltas: **7665** — 4677 ganadas / 2988 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **7666** — 4677 ganadas / 2989 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 697
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,273,297** sobre $434,793,034 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,601** sobre $756,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,301,221** sobre $434,820,957 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,701** sobre $756,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -126,7 +126,7 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | 999585 | Will AEK win on 2026-11-04? | No | 1.08 (93¢) | $139,500 | +$10,500 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $100,000 | +$8,696 | ✅ Ganada |
 | NS13 | Will Liverpool FC win on 2026-11-04? | Yes | 1.59 (63¢) | $82,754 | -$82,754 | ❌ Perdida |
-| ic4cream | Trail Blazers vs. Suns: O/U 227.5 | Under 227.5 | 2.04 (49¢) | $27,924 | — | ⏳ Pendiente |
+| ic4cream | Trail Blazers vs. Suns: O/U 227.5 | Under 227.5 | 2.04 (49¢) | $27,924 | -$27,924 | ❌ Perdida |
 | juice-fruit | Will Real Madrid CF win on 2026-11-04? | Yes | 1.22 (82¢) | $64,934 | +$14,254 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 76ers vs. Pistons | 76ers | 2.22 (45¢) | $41,797 | +$51,085 | ✅ Ganada |
 | Multicoloured-Serf | Will Como 1907 win on 2026-11-04? | No | 2.04 (49¢) | $80,324 | -$80,324 | ❌ Perdida |
