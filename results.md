@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 11:55:13 (hora de Perú)
+Actualizado: 2026-11-05 11:57:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7706**  ($436,577,400 en total)
+- Apuestas registradas: **7707**  ($436,627,400 en total)
 - Resueltas: **7674** — 4683 ganadas / 2991 perdidas (**61%** de acierto)
-- Pendientes: 10
-- Apostadores distintos: 698
+- Pendientes: 11
+- Apostadores distintos: 699
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 999585 | 20 | 1 | 0 | 95% | $2,290,231 | +$98,953 |
 
-_(mostrando los 40 de mayor monto, de 698 en total)_
+_(mostrando los 40 de mayor monto, de 699 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xce81…9820 | Will FC Midtjylland win on 2026-11-05? | No | 1.54 (65¢) | $50,000 | — | ⏳ Pendiente |
 | Kyn008 | Will AFC Ajax win on 2026-11-05? | Yes | 2.44 (41¢) | $27,614 | — | ⏳ Pendiente |
 | yabanci | Will AFC Bournemouth win on 2026-11-05? | Yes | 1.54 (65¢) | $69,550 | — | ⏳ Pendiente |
 | Marcoli | Rolex Paris Masters: Rinky Hijikata vs Tomas Etcheverry | Rinky Hijikata | 1.06 (94¢) | $70,000 | +$4,468 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 698 en total)_
 | meoooow | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $37,164 | +$3,232 | ✅ Ganada |
 | S-Works | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $90,405 | +$7,861 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $233,312 | +$20,288 | ✅ Ganada |
-| LightParadox | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $26,912 | +$2,340 | ✅ Ganada |

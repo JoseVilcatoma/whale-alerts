@@ -115818,5 +115818,20 @@
     "status": "pending",
     "ultimo_fill": 1793897196,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15624,
+    "timestamp": 1793897723,
+    "username": "0xce81\u20269820",
+    "wallet": "0xce81e3c66a532c95b4d3e190aed398518eee9820",
+    "slug": "col-mid-aja-2026-11-05-mid",
+    "title": "Will FC Midtjylland win on 2026-11-05?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 49999.995500000005,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1793897723,
+    "fills": 1
   }
 ]
