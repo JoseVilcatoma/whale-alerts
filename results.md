@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 20:54:41 (hora de Perú)
+Actualizado: 2026-11-04 20:56:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7689**  ($435,788,770 en total)
+- Apuestas registradas: **7690**  ($435,829,191 en total)
 - Resueltas: **7631** — 4658 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 697
 
 ### Balance
@@ -36,8 +36,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
+| ethanaz | 67 | 30 | 5 | 69% | $6,142,089 | -$187,528 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
-| ethanaz | 67 | 30 | 4 | 69% | $6,101,667 | -$187,528 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Toledo vs. Sacramento State | Toledo | 1.28 (78¢) | $40,422 | — | ⏳ Pendiente |
 | 3648393489047 | Toledo vs. Sacramento State | Toledo | 1.33 (75¢) | $27,622 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Ball State vs. UMass | Ball State | 2.86 (35¢) | $40,526 | — | ⏳ Pendiente |
 | 3648393489047 | Toledo vs. Sacramento State | Toledo | 1.28 (78¢) | $33,911 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | kuwkuw | Rolex Paris Masters (Doubles): Gornes/Walkow vs Doumbia/Pel | Doumbia/Pel | 1.09 (92¢) | $31,117 | +$2,706 | ✅ Ganada |
 | ferrariChampions2026 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.69 (59¢) | $28,761 | -$28,761 | ❌ Perdida |
 | RJW1 | Spread: Arsenal FC (-1.5) | Arsenal FC | 1.82 (55¢) | $30,256 | -$30,256 | ❌ Perdida |
-| Matheobong | Spread: Real Madrid CF (-2.5) | AEK | 1.59 (63¢) | $28,703 | +$16,858 | ✅ Ganada |
