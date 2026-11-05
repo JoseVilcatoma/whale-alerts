@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 16:48:19 (hora de Perú)
+Actualizado: 2026-11-05 16:50:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7717**  ($437,054,408 en total)
-- Resueltas: **7676** — 4683 ganadas / 2993 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **7678** — 4685 ganadas / 2993 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 699
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,374,178** sobre $435,345,254 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,888** sobre $757,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,307,905** sobre $435,444,804 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,738** sobre $757,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,12 +78,12 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Magic vs. Suns | Suns | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | RJW1 | Magic vs. Suns | Suns | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | 473game | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.69 (59¢) | $28,780 | — | ⏳ Pendiente |
-| nb1985 | Will RSC Anderlecht win on 2026-11-05? | Yes | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
+| nb1985 | Will RSC Anderlecht win on 2026-11-05? | Yes | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
 | lalalalalalallalalalala | Game Handicap: DK (-1.5) vs Bilibili Gaming (+1.5) | Dplus KIA | 3.70 (27¢) | $39,889 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will AFC Ajax win on 2026-11-05? | No | 1.69 (59¢) | $65,483 | — | ⏳ Pendiente |
 | 0xce81…9820 | Will FC Midtjylland win on 2026-11-05? | No | 1.54 (65¢) | $50,000 | — | ⏳ Pendiente |
 | Kyn008 | Will AFC Ajax win on 2026-11-05? | Yes | 2.44 (41¢) | $27,614 | — | ⏳ Pendiente |
-| yabanci | Will AFC Bournemouth win on 2026-11-05? | Yes | 1.54 (65¢) | $69,550 | — | ⏳ Pendiente |
+| yabanci | Will AFC Bournemouth win on 2026-11-05? | Yes | 1.54 (65¢) | $69,550 | +$37,450 | ✅ Ganada |
 | Marcoli | Rolex Paris Masters: Rinky Hijikata vs Tomas Etcheverry | Rinky Hijikata | 1.06 (94¢) | $70,000 | +$4,468 | ✅ Ganada |
 | juice-fruit | FK Crvena zvezda vs. Inter Club d'Escaldes: O/U 3.5 | Over 3.5 | 1.72 (58¢) | $28,527 | — | ⏳ Pendiente |
 | mooseborzoi | Stars vs. Blue Jackets | Stars | 1.82 (55¢) | $26,240 | — | ⏳ Pendiente |
