@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 04:29:32 (hora de Perú)
+Actualizado: 2026-11-05 04:31:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7698**  ($436,198,958 en total)
+- Apuestas registradas: **7699**  ($436,248,958 en total)
 - Resueltas: **7672** — 4681 ganadas / 2991 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 698
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 698 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Marcoli | Luanda: Anna Blinkova vs Zongyu Li | Anna Blinkova | 1.12 (89¢) | $50,000 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Heat vs. Clippers | Clippers | 1.23 (81¢) | $40,149 | -$40,149 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Heat vs. Clippers | Clippers | 1.47 (68¢) | $38,154 | -$38,154 | ❌ Perdida |
 | TAIWANNUMBERONE | Ball State vs. UMass | UMass | 1.33 (75¢) | $44,977 | +$14,992 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 698 en total)_
 | NS13 | Will Liverpool FC win on 2026-11-04? | Yes | 1.59 (63¢) | $82,754 | -$82,754 | ❌ Perdida |
 | ic4cream | Trail Blazers vs. Suns: O/U 227.5 | Under 227.5 | 2.04 (49¢) | $27,924 | -$27,924 | ❌ Perdida |
 | juice-fruit | Will Real Madrid CF win on 2026-11-04? | Yes | 1.22 (82¢) | $64,934 | +$14,254 | ✅ Ganada |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 76ers vs. Pistons | 76ers | 2.22 (45¢) | $41,797 | +$51,085 | ✅ Ganada |
