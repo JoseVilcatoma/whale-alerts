@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 19:26:16 (hora de Perú)
+Actualizado: 2026-11-04 19:28:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7673**  ($435,031,906 en total)
+- Apuestas registradas: **7674**  ($435,057,626 en total)
 - Resueltas: **7630** — 4657 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 696
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 307 | 4 | 64% | $55,943,239 | +$449,672 |
 | Sassy-Bucket | 106 | 107 | 2 | 50% | $13,906,103 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 131 | 73 | 4 | 64% | $10,169,654 | +$467,434 |
+| Lakersfan111 | 131 | 73 | 5 | 64% | $10,195,375 | +$467,434 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Hornets vs. Nets | Nets | 2.50 (40¢) | $25,721 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Rockets (-7.5) | Rockets | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Bucks vs. Celtics | Celtics | 1.19 (84¢) | $26,250 | — | ⏳ Pendiente |
 | g56gz56guzn547nu76 | Senators vs. Sabres | Sabres | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 696 en total)_
 | vtcchampion52 | Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.15 (87¢) | $40,051 | +$5,985 | ✅ Ganada |
 | Multicoloured-Serf | Buffalo vs. Miami (OH) | Miami (OH) | 1.49 (67¢) | $44,050 | -$44,050 | ❌ Perdida |
 | Multicoloured-Serf | Buffalo vs. Miami (OH) | Buffalo | 1.61 (62¢) | $76,356 | +$46,799 | ✅ Ganada |
-| 0F62 | Spread: RB Leipzig (-1.5) | Manchester City FC | 1.06 (94¢) | $29,422 | +$1,878 | ✅ Ganada |
