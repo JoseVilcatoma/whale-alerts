@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 19:45:14 (hora de Perú)
+Actualizado: 2026-11-04 19:47:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7676**  ($435,155,005 en total)
+- Apuestas registradas: **7678**  ($435,208,259 en total)
 - Resueltas: **7630** — 4657 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 26
 - Apostadores distintos: 697
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 307 | 4 | 64% | $55,943,239 | +$449,672 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 307 | 5 | 64% | $55,968,358 | +$449,672 |
 | Sassy-Bucket | 106 | 107 | 2 | 50% | $13,906,103 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 131 | 73 | 5 | 64% | $10,195,375 | +$467,434 |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
-| ethanaz | 67 | 30 | 0 | 69% | $5,851,202 | -$187,528 |
+| ethanaz | 67 | 30 | 1 | 69% | $5,879,337 | -$187,528 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.47 (68¢) | $28,135 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-3.5) | Thunder | 2.04 (49¢) | $25,119 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Thunder (-3.5) | Cavaliers | 1.96 (51¢) | $61,679 | — | ⏳ Pendiente |
 | alexubet | Will Crystal Palace FC win on 2026-11-05? | Yes | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Hornets vs. Nets | Nets | 2.50 (40¢) | $25,721 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs BetBoom Team (BO3) - IEM Beijing Group B | BetBoom Team | 1.54 (65¢) | $29,250 | +$15,750 | ✅ Ganada |
 | bobthebuilder2 | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva | Alina Charaeva | 1.45 (69¢) | $42,234 | -$42,234 | ❌ Perdida |
 | qiu3 | Counter-Strike: MOUZ vs PARIVISION (BO3) - IEM Beijing Group B | MOUZ | 1.32 (76¢) | $120,922 | +$38,186 | ✅ Ganada |
-| vtcchampion52 | Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.15 (87¢) | $43,227 | +$6,459 | ✅ Ganada |
-| vtcchampion52 | Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.15 (87¢) | $40,051 | +$5,985 | ✅ Ganada |
