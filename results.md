@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 20:27:42 (hora de Perú)
+Actualizado: 2026-11-04 20:29:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7683**  ($435,450,302 en total)
+- Apuestas registradas: **7684**  ($435,603,063 en total)
 - Resueltas: **7631** — 4658 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 697
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
-| ethanaz | 67 | 30 | 3 | 69% | $5,948,906 | -$187,528 |
+| ethanaz | 67 | 30 | 4 | 69% | $6,101,667 | -$187,528 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.19 (84¢) | $152,761 | — | ⏳ Pendiente |
 | ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.43 (70¢) | $42,297 | — | ⏳ Pendiente |
 | mooseborzoi | Cavaliers vs. Thunder | Cavaliers | 2.44 (41¢) | $26,825 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Thunder (-3.5) | Cavaliers | 1.92 (52¢) | $115,134 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.25 (80¢) | $108,966 | +$27,241 | ✅ Ganada |
 | 4217893367451 | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Team Falcons | 3.70 (27¢) | $26,730 | -$26,730 | ❌ Perdida |
 | qiu3 | Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A | FURIA | 1.35 (74¢) | $150,000 | -$150,000 | ❌ Perdida |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $70,500 | +$79,500 | ✅ Ganada |
