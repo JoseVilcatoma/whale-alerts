@@ -115278,5 +115278,20 @@
     "status": "pending",
     "ultimo_fill": 1793837058,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15555,
+    "timestamp": 1793837301,
+    "username": "g56gz56guzn547nu76",
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "slug": "nhl-ott-buf-2026-11-04",
+    "title": "Senators vs. Sabres",
+    "outcome": "Sabres",
+    "side": "BUY",
+    "usd": 32400.000000000004,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793837301,
+    "fills": 1
   }
 ]
