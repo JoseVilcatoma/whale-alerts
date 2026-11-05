@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 08:37:42 (hora de Perú)
+Actualizado: 2026-11-05 08:39:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7699**  ($436,248,958 en total)
+- Apuestas registradas: **7700**  ($436,282,040 en total)
 - Resueltas: **7673** — 4682 ganadas / 2991 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 698
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| ferrariChampions2026 | 120 | 64 | 0 | 65% | $7,879,198 | +$467,505 |
+| ferrariChampions2026 | 120 | 64 | 1 | 65% | $7,912,280 | +$467,505 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 698 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Bayer 04 Leverkusen (-1.5) | Bayer 04 Leverkusen | 1.85 (54¢) | $33,082 | — | ⏳ Pendiente |
 | Marcoli | Luanda: Anna Blinkova vs Zongyu Li | Anna Blinkova | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Heat vs. Clippers | Clippers | 1.23 (81¢) | $40,149 | -$40,149 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Heat vs. Clippers | Clippers | 1.47 (68¢) | $38,154 | -$38,154 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 698 en total)_
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $100,000 | +$8,696 | ✅ Ganada |
 | NS13 | Will Liverpool FC win on 2026-11-04? | Yes | 1.59 (63¢) | $82,754 | -$82,754 | ❌ Perdida |
 | ic4cream | Trail Blazers vs. Suns: O/U 227.5 | Under 227.5 | 2.04 (49¢) | $27,924 | -$27,924 | ❌ Perdida |
-| juice-fruit | Will Real Madrid CF win on 2026-11-04? | Yes | 1.22 (82¢) | $64,934 | +$14,254 | ✅ Ganada |

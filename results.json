@@ -115713,5 +115713,20 @@
     "status": "won",
     "ultimo_fill": 1793871045,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15616,
+    "timestamp": 1793885955,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "uel-lev-olm-2026-11-05-spread-home-1pt5",
+    "title": "Spread: Bayer 04 Leverkusen (-1.5)",
+    "outcome": "Bayer 04 Leverkusen",
+    "side": "BUY",
+    "usd": 33081.899999999994,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793885955,
+    "fills": 1
   }
 ]
