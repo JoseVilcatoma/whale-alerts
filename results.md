@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 20:58:51 (hora de Perú)
+Actualizado: 2026-11-04 21:00:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7690**  ($435,829,191 en total)
+- Apuestas registradas: **7691**  ($435,866,191 en total)
 - Resueltas: **7631** — 4658 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 697
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 307 | 5 | 64% | $55,968,358 | +$449,672 |
 | Sassy-Bucket | 106 | 107 | 2 | 50% | $13,906,103 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 131 | 73 | 5 | 64% | $10,195,375 | +$467,434 |
+| Lakersfan111 | 131 | 73 | 6 | 64% | $10,232,375 | +$467,434 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Raptors vs. Nuggets | Raptors | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
 | ethanaz | Toledo vs. Sacramento State | Toledo | 1.28 (78¢) | $40,422 | — | ⏳ Pendiente |
 | 3648393489047 | Toledo vs. Sacramento State | Toledo | 1.33 (75¢) | $27,622 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Ball State vs. UMass | Ball State | 2.86 (35¢) | $40,526 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | darkumbreon88 | Will Liverpool FC win on 2026-11-04? | Yes | 1.54 (65¢) | $49,601 | -$49,601 | ❌ Perdida |
 | kuwkuw | Rolex Paris Masters (Doubles): Gornes/Walkow vs Doumbia/Pel | Doumbia/Pel | 1.09 (92¢) | $31,117 | +$2,706 | ✅ Ganada |
 | ferrariChampions2026 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.69 (59¢) | $28,761 | -$28,761 | ❌ Perdida |
-| RJW1 | Spread: Arsenal FC (-1.5) | Arsenal FC | 1.82 (55¢) | $30,256 | -$30,256 | ❌ Perdida |
