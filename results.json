@@ -115623,5 +115623,20 @@
     "status": "pending",
     "ultimo_fill": 1793845073,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15579,
+    "timestamp": 1793845314,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "nhl-cal-sea-2026-11-04",
+    "title": "Flames vs. Kraken",
+    "outcome": "Kraken",
+    "side": "BUY",
+    "usd": 93831.892,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1793845314,
+    "fills": 1
   }
 ]
