@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 05:30:03 (hora de Perú)
+Actualizado: 2026-11-05 07:54:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7699**  ($436,248,958 en total)
-- Resueltas: **7672** — 4681 ganadas / 2991 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **7673** — 4682 ganadas / 2991 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 698
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,265,709** sobre $435,106,137 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,707** sobre $756,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,259,529** sobre $435,156,137 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,694** sobre $756,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 698 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Marcoli | Luanda: Anna Blinkova vs Zongyu Li | Anna Blinkova | 1.12 (89¢) | $50,000 | — | ⏳ Pendiente |
+| Marcoli | Luanda: Anna Blinkova vs Zongyu Li | Anna Blinkova | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Heat vs. Clippers | Clippers | 1.23 (81¢) | $40,149 | -$40,149 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Heat vs. Clippers | Clippers | 1.47 (68¢) | $38,154 | -$38,154 | ❌ Perdida |
 | TAIWANNUMBERONE | Ball State vs. UMass | UMass | 1.33 (75¢) | $44,977 | +$14,992 | ✅ Ganada |
