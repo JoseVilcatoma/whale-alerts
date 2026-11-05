@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 12:38:56 (hora de Perú)
+Actualizado: 2026-11-05 12:41:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7711**  ($436,791,553 en total)
+- Apuestas registradas: **7712**  ($436,842,553 en total)
 - Resueltas: **7674** — 4683 ganadas / 2991 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 699
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Magic vs. Suns | Suns | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | 473game | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.69 (59¢) | $28,780 | — | ⏳ Pendiente |
 | nb1985 | Will RSC Anderlecht win on 2026-11-05? | Yes | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | lalalalalalallalalalala | Game Handicap: DK (-1.5) vs Bilibili Gaming (+1.5) | Dplus KIA | 3.70 (27¢) | $39,889 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AEK vs. Real Madrid CF end in a draw? | No | 1.12 (89¢) | $260,199 | +$32,159 | ✅ Ganada |
 | ndb1 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $115,000 | +$10,000 | ✅ Ganada |
-| Flaznorp | Will AEK vs. Real Madrid CF end in a draw? | No | 1.12 (89¢) | $137,483 | +$16,992 | ✅ Ganada |

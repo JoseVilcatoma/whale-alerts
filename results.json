@@ -115893,5 +115893,20 @@
     "status": "pending",
     "ultimo_fill": 1793899727,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15629,
+    "timestamp": 1793900393,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "nba-orl-phx-2026-11-05",
+    "title": "Magic vs. Suns",
+    "outcome": "Suns",
+    "side": "BUY",
+    "usd": 51000.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1793900393,
+    "fills": 1
   }
 ]
