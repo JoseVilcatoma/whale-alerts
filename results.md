@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 18:56:06 (hora de Perú)
+Actualizado: 2026-11-05 18:58:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7737**  ($438,078,087 en total)
+- Apuestas registradas: **7738**  ($438,157,530 en total)
 - Resueltas: **7682** — 4687 ganadas / 2995 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 699
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $79,444 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blues vs. Devils | Blues | 3.03 (33¢) | $49,500 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Bruins vs. Penguins | Penguins | 1.89 (53¢) | $72,662 | — | ⏳ Pendiente |
 | g56gz56guzn547nu76 | Utah vs. Canadiens | Canadiens | 2.13 (47¢) | $32,517 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | mooseborzoi | Spread: Thunder (-3.5) | Cavaliers | 1.92 (52¢) | $115,134 | -$115,134 | ❌ Perdida |
 | ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.45 (69¢) | $27,273 | +$12,253 | ✅ Ganada |
 | TAIWANNUMBERONE | Central Michigan vs. Eastern Michigan | Central Michigan | 1.47 (68¢) | $30,515 | +$14,360 | ✅ Ganada |
-| ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.47 (68¢) | $28,135 | +$13,240 | ✅ Ganada |

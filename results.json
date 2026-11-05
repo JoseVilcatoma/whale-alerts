@@ -116283,5 +116283,20 @@
     "status": "pending",
     "ultimo_fill": 1793922200,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15664,
+    "timestamp": 1793922988,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "nhl-van-wpg-2026-11-05",
+    "title": "Canucks vs. Jets",
+    "outcome": "Jets",
+    "side": "BUY",
+    "usd": 79443.8809,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1793922988,
+    "fills": 2
   }
 ]
