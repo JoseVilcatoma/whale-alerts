@@ -116193,5 +116193,20 @@
     "status": "pending",
     "ultimo_fill": 1793919002,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15658,
+    "timestamp": 1793919402,
+    "username": "vtcchampion52",
+    "wallet": "0xc69bd5567b40ef4d11922eaa57e1f9be1c642076",
+    "slug": "lol-dk-blg-2026-11-03-game2",
+    "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 27340.9074,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793919402,
+    "fills": 1
   }
 ]
