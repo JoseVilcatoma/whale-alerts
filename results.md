@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 21:52:12 (hora de Perú)
+Actualizado: 2026-11-04 21:54:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7695**  ($436,075,678 en total)
+- Apuestas registradas: **7696**  ($436,120,655 en total)
 - Resueltas: **7632** — 4659 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 697
 
 ### Balance
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
-| TAIWANNUMBERONE | 50 | 24 | 1 | 68% | $2,827,538 | -$248,449 |
+| TAIWANNUMBERONE | 50 | 24 | 2 | 68% | $2,872,515 | -$248,449 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | S-Works | 19 | 7 | 0 | 73% | $2,682,709 | -$179,779 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Ball State vs. UMass | UMass | 1.33 (75¢) | $44,977 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.20 (83¢) | $25,015 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Flames vs. Kraken | Kraken | 1.82 (55¢) | $93,832 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.19 (84¢) | $59,640 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 76ers vs. Pistons | 76ers | 2.22 (45¢) | $41,797 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Will Como 1907 win on 2026-11-04? | No | 2.04 (49¢) | $80,324 | -$80,324 | ❌ Perdida |
 | justwins | Senators vs. Sabres | Sabres | 1.85 (54¢) | $41,986 | — | ⏳ Pendiente |
-| ch27er | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.64 (61¢) | $49,895 | -$49,895 | ❌ Perdida |
