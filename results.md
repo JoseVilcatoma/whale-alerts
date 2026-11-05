@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 00:47:07 (hora de Perú)
+Actualizado: 2026-11-05 00:49:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7698**  ($436,198,958 en total)
-- Resueltas: **7667** — 4678 ganadas / 2989 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **7669** — 4680 ganadas / 2989 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 698
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,280,662** sobre $434,849,348 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,628** sobre $756,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,264,178** sobre $434,934,003 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,589** sobre $756,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 546 | 308 | 3 | 64% | $55,968,358 | +$444,860 |
 | Sassy-Bucket | 106 | 107 | 2 | 50% | $13,906,103 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 135 | 75 | 2 | 64% | $10,317,029 | +$470,592 |
+| Lakersfan111 | 137 | 75 | 0 | 65% | $10,317,029 | +$487,076 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -74,9 +74,9 @@ _(mostrando los 40 de mayor monto, de 698 en total)_
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Heat vs. Clippers | Clippers | 1.23 (81¢) | $40,149 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Heat vs. Clippers | Clippers | 1.47 (68¢) | $38,154 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ball State vs. UMass | UMass | 1.33 (75¢) | $44,977 | +$14,992 | ✅ Ganada |
-| jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.20 (83¢) | $25,015 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.20 (83¢) | $25,015 | +$5,123 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Flames vs. Kraken | Kraken | 1.82 (55¢) | $93,832 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.19 (84¢) | $59,640 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.19 (84¢) | $59,640 | +$11,360 | ✅ Ganada |
 | BrotherObama | Spread: Grizzlies (-2.5) | Grizzlies | 2.04 (49¢) | $31,000 | -$31,000 | ❌ Perdida |
 | jakepaulthegoat2008 | Raptors vs. Nuggets | Raptors | 2.70 (37¢) | $37,000 | -$37,000 | ❌ Perdida |
 | ethanaz | Toledo vs. Sacramento State | Toledo | 1.28 (78¢) | $40,422 | +$11,401 | ✅ Ganada |
