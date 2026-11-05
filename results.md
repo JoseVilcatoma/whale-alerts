@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 13:33:33 (hora de Perú)
+Actualizado: 2026-11-05 13:35:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7714**  ($436,898,503 en total)
+- Apuestas registradas: **7717**  ($437,023,514 en total)
 - Resueltas: **7674** — 4683 ganadas / 2991 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 21
 - Apostadores distintos: 699
 
 ### Balance
@@ -52,13 +52,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
-| TAIWANNUMBERONE | 52 | 24 | 0 | 68% | $2,872,515 | -$219,097 |
+| TAIWANNUMBERONE | 52 | 24 | 1 | 68% | $2,898,293 | -$219,097 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | S-Works | 19 | 7 | 0 | 73% | $2,682,709 | -$179,779 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| juice-fruit | 26 | 15 | 1 | 63% | $2,399,576 | +$331,056 |
+| juice-fruit | 26 | 15 | 2 | 63% | $2,452,099 | +$331,056 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Rolex Paris Masters: Arthur Fils vs Taylor Fritz | Arthur Fils | 1.96 (51¢) | $52,523 | — | ⏳ Pendiente |
+| Zzzz87 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Dplus KIA | 2.38 (42¢) | $46,710 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.72 (58¢) | $25,778 | — | ⏳ Pendiente |
 | Dessssa | Blues vs. Devils | Blues | 3.12 (32¢) | $25,351 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Magic vs. Suns | Suns | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | RJW1 | Magic vs. Suns | Suns | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | justwins | Senators vs. Sabres | Sabres | 1.85 (54¢) | $29,013 | -$29,013 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.28 (78¢) | $28,610 | +$8,069 | ✅ Ganada |
 | Fvalp | Will Real Madrid CF win on 2026-11-04? | Yes | 1.23 (81¢) | $72,900 | +$17,100 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $82,941 | +$7,212 | ✅ Ganada |
-| Marcoli | Will Real Madrid CF win on 2026-11-04? | Yes | 1.20 (83¢) | $50,000 | +$10,241 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
