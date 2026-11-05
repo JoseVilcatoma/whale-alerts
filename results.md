@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 20:38:14 (hora de Perú)
+Actualizado: 2026-11-04 20:40:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7685**  ($435,633,232 en total)
+- Apuestas registradas: **7686**  ($435,686,710 en total)
 - Resueltas: **7631** — 4658 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 697
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tennischamp | 76ers vs. Pistons | 76ers | 1.25 (80¢) | $53,478 | — | ⏳ Pendiente |
 | olegio | Pacers vs. Grizzlies | Grizzlies | 2.04 (49¢) | $30,169 | — | ⏳ Pendiente |
 | ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.19 (84¢) | $152,761 | — | ⏳ Pendiente |
 | ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.43 (70¢) | $42,297 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | ArturitoFilito | Rolex Paris Masters: Alexander Zverev vs Lorenzo Musetti | Alexander Zverev | 1.56 (64¢) | $34,334 | -$34,334 | ❌ Perdida |
 | Eugycom | Trail Blazers vs. Suns | Trail Blazers | 1.72 (58¢) | $28,391 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.25 (80¢) | $108,966 | +$27,241 | ✅ Ganada |
-| 4217893367451 | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Team Falcons | 3.70 (27¢) | $26,730 | -$26,730 | ❌ Perdida |

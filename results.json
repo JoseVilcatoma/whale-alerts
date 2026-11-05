@@ -115503,5 +115503,20 @@
     "status": "pending",
     "ultimo_fill": 1793842545,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15571,
+    "timestamp": 1793842715,
+    "username": "tennischamp",
+    "wallet": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+    "slug": "nba-phi-det-2026-11-04",
+    "title": "76ers vs. Pistons",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 53477.952000000005,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1793842715,
+    "fills": 1
   }
 ]
