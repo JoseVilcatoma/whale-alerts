@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 00:40:58 (hora de Perú)
+Actualizado: 2026-11-05 00:43:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7697**  ($436,158,809 en total)
+- Apuestas registradas: **7698**  ($436,198,958 en total)
 - Resueltas: **7667** — 4678 ganadas / 2989 perdidas (**61%** de acierto)
-- Pendientes: 8
-- Apostadores distintos: 697
+- Pendientes: 9
+- Apostadores distintos: 698
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 999585 | 20 | 1 | 0 | 95% | $2,290,231 | +$98,953 |
 
-_(mostrando los 40 de mayor monto, de 697 en total)_
+_(mostrando los 40 de mayor monto, de 698 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Heat vs. Clippers | Clippers | 1.23 (81¢) | $40,149 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Heat vs. Clippers | Clippers | 1.47 (68¢) | $38,154 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Ball State vs. UMass | UMass | 1.33 (75¢) | $44,977 | +$14,992 | ✅ Ganada |
 | jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.20 (83¢) | $25,015 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | ic4cream | Trail Blazers vs. Suns: O/U 227.5 | Under 227.5 | 2.04 (49¢) | $27,924 | -$27,924 | ❌ Perdida |
 | juice-fruit | Will Real Madrid CF win on 2026-11-04? | Yes | 1.22 (82¢) | $64,934 | +$14,254 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | 76ers vs. Pistons | 76ers | 2.22 (45¢) | $41,797 | +$51,085 | ✅ Ganada |
-| Multicoloured-Serf | Will Como 1907 win on 2026-11-04? | No | 2.04 (49¢) | $80,324 | -$80,324 | ❌ Perdida |
