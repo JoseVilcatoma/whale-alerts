@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 13:46:15 (hora de Perú)
+Actualizado: 2026-11-05 16:19:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7717**  ($437,054,408 en total)
-- Resueltas: **7674** — 4683 ganadas / 2991 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **7675** — 4683 ganadas / 2992 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 699
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,255,061** sobre $435,226,137 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,688** sobre $757,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,338,478** sobre $435,309,554 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,788** sobre $757,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 19 | 7 | 0 | 73% | $2,682,709 | -$179,779 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| juice-fruit | 26 | 15 | 2 | 63% | $2,482,993 | +$331,056 |
+| juice-fruit | 26 | 16 | 1 | 62% | $2,482,993 | +$247,639 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| juice-fruit | Rolex Paris Masters: Arthur Fils vs Taylor Fritz | Arthur Fils | 1.96 (51¢) | $83,417 | — | ⏳ Pendiente |
+| juice-fruit | Rolex Paris Masters: Arthur Fils vs Taylor Fritz | Arthur Fils | 1.96 (51¢) | $83,417 | -$83,417 | ❌ Perdida |
 | Zzzz87 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Dplus KIA | 2.38 (42¢) | $46,710 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.72 (58¢) | $25,778 | — | ⏳ Pendiente |
 | Dessssa | Blues vs. Devils | Blues | 3.12 (32¢) | $25,351 | — | ⏳ Pendiente |
