@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 21:43:53 (hora de Perú)
+Actualizado: 2026-11-04 21:45:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7695**  ($436,075,678 en total)
-- Resueltas: **7631** — 4658 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Resueltas: **7632** — 4659 ganadas / 2973 perdidas (**61%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 697
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,005,557** sobre $433,120,784 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,114** sobre $752,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$2,983,542** sobre $433,148,803 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,036** sobre $752,800 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | g56gz56guzn547nu76 | Senators vs. Sabres | Sabres | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Pistons | Pistons | 1.75 (57¢) | $30,956 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Gen.G vs LYON - Game 3 Winner | Gen.G | 1.14 (88¢) | $26,400 | +$3,600 | ✅ Ganada |
-| mooseborzoi | Hawks vs. Wizards | Hawks | 1.79 (56¢) | $28,019 | — | ⏳ Pendiente |
+| mooseborzoi | Hawks vs. Wizards | Hawks | 1.79 (56¢) | $28,019 | +$22,015 | ✅ Ganada |
 | jakepaulthegoat2008 | Bucks vs. Celtics | Celtics | 1.18 (85¢) | $167,450 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | 76ers vs. Pistons | Pistons | 1.75 (57¢) | $57,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Bucks vs. Celtics | Celtics | 1.19 (84¢) | $126,145 | — | ⏳ Pendiente |
