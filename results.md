@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 16:54:34 (hora de Perú)
+Actualizado: 2026-11-05 16:56:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7717**  ($437,054,408 en total)
-- Resueltas: **7678** — 4685 ganadas / 2993 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **7679** — 4685 ganadas / 2994 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 699
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,307,905** sobre $435,444,804 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,738** sobre $757,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,336,431** sobre $435,473,331 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,838** sobre $757,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 19 | 7 | 0 | 73% | $2,682,709 | -$179,779 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| juice-fruit | 26 | 16 | 1 | 62% | $2,482,993 | +$247,639 |
+| juice-fruit | 26 | 17 | 0 | 60% | $2,482,993 | +$219,112 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | Kyn008 | Will AFC Ajax win on 2026-11-05? | Yes | 2.44 (41¢) | $27,614 | — | ⏳ Pendiente |
 | yabanci | Will AFC Bournemouth win on 2026-11-05? | Yes | 1.54 (65¢) | $69,550 | +$37,450 | ✅ Ganada |
 | Marcoli | Rolex Paris Masters: Rinky Hijikata vs Tomas Etcheverry | Rinky Hijikata | 1.06 (94¢) | $70,000 | +$4,468 | ✅ Ganada |
-| juice-fruit | FK Crvena zvezda vs. Inter Club d'Escaldes: O/U 3.5 | Over 3.5 | 1.72 (58¢) | $28,527 | — | ⏳ Pendiente |
+| juice-fruit | FK Crvena zvezda vs. Inter Club d'Escaldes: O/U 3.5 | Over 3.5 | 1.72 (58¢) | $28,527 | -$28,527 | ❌ Perdida |
 | mooseborzoi | Stars vs. Blue Jackets | Stars | 1.82 (55¢) | $26,240 | — | ⏳ Pendiente |
 | mooseborzoi | Magic vs. Suns | Magic | 2.08 (48¢) | $73,430 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Bayer 04 Leverkusen (-1.5) | Bayer 04 Leverkusen | 1.85 (54¢) | $33,082 | — | ⏳ Pendiente |
