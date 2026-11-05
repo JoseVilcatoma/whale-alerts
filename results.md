@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 19:43:08 (hora de Perú)
+Actualizado: 2026-11-04 19:45:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7675**  ($435,093,326 en total)
+- Apuestas registradas: **7676**  ($435,155,005 en total)
 - Resueltas: **7630** — 4657 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 697
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: Thunder (-3.5) | Cavaliers | 1.96 (51¢) | $61,679 | — | ⏳ Pendiente |
 | alexubet | Will Crystal Palace FC win on 2026-11-05? | Yes | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Hornets vs. Nets | Nets | 2.50 (40¢) | $25,721 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Rockets (-7.5) | Rockets | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | qiu3 | Counter-Strike: MOUZ vs PARIVISION (BO3) - IEM Beijing Group B | MOUZ | 1.32 (76¢) | $120,922 | +$38,186 | ✅ Ganada |
 | vtcchampion52 | Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.15 (87¢) | $43,227 | +$6,459 | ✅ Ganada |
 | vtcchampion52 | Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A | Team Falcons | 1.15 (87¢) | $40,051 | +$5,985 | ✅ Ganada |
-| Multicoloured-Serf | Buffalo vs. Miami (OH) | Miami (OH) | 1.49 (67¢) | $44,050 | -$44,050 | ❌ Perdida |
