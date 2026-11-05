@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 19:47:22 (hora de Perú)
+Actualizado: 2026-11-04 19:49:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7678**  ($435,208,259 en total)
+- Apuestas registradas: **7680**  ($435,266,047 en total)
 - Resueltas: **7630** — 4657 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 28
 - Apostadores distintos: 697
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
-| ethanaz | 67 | 30 | 1 | 69% | $5,879,337 | -$187,528 |
+| ethanaz | 67 | 30 | 2 | 69% | $5,906,610 | -$187,528 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
-| TAIWANNUMBERONE | 50 | 24 | 0 | 68% | $2,797,023 | -$248,449 |
+| TAIWANNUMBERONE | 50 | 24 | 1 | 68% | $2,827,538 | -$248,449 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | S-Works | 19 | 7 | 0 | 73% | $2,682,709 | -$179,779 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.45 (69¢) | $27,273 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Central Michigan vs. Eastern Michigan | Central Michigan | 1.47 (68¢) | $30,515 | — | ⏳ Pendiente |
 | ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.47 (68¢) | $28,135 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-3.5) | Thunder | 2.04 (49¢) | $25,119 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Thunder (-3.5) | Cavaliers | 1.96 (51¢) | $61,679 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | Multicoloured-Serf | Will FC Porto win on 2026-11-04? | No | 2.08 (48¢) | $60,000 | -$60,000 | ❌ Perdida |
 | Mastermoney | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva | Antonia Ruzic | 1.67 (60¢) | $45,204 | +$30,136 | ✅ Ganada |
 | jakepaulthegoat2008 | Counter-Strike: Liquid vs BetBoom Team (BO3) - IEM Beijing Group B | BetBoom Team | 1.54 (65¢) | $29,250 | +$15,750 | ✅ Ganada |
-| bobthebuilder2 | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva | Alina Charaeva | 1.45 (69¢) | $42,234 | -$42,234 | ❌ Perdida |
-| qiu3 | Counter-Strike: MOUZ vs PARIVISION (BO3) - IEM Beijing Group B | MOUZ | 1.32 (76¢) | $120,922 | +$38,186 | ✅ Ganada |
