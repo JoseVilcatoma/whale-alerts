@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 11:34:32 (hora de Perú)
+Actualizado: 2026-11-05 11:36:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7704**  ($436,480,236 en total)
+- Apuestas registradas: **7705**  ($436,549,786 en total)
 - Resueltas: **7674** — 4683 ganadas / 2991 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 698
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 698 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yabanci | Will AFC Bournemouth win on 2026-11-05? | Yes | 1.54 (65¢) | $69,550 | — | ⏳ Pendiente |
 | Marcoli | Rolex Paris Masters: Rinky Hijikata vs Tomas Etcheverry | Rinky Hijikata | 1.06 (94¢) | $70,000 | +$4,468 | ✅ Ganada |
 | juice-fruit | FK Crvena zvezda vs. Inter Club d'Escaldes: O/U 3.5 | Over 3.5 | 1.72 (58¢) | $28,527 | — | ⏳ Pendiente |
 | mooseborzoi | Stars vs. Blue Jackets | Stars | 1.82 (55¢) | $26,240 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 698 en total)_
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $233,312 | +$20,288 | ✅ Ganada |
 | LightParadox | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $26,912 | +$2,340 | ✅ Ganada |
 | MadridTime | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $26,912 | +$2,340 | ✅ Ganada |
-| beautifulobsession | Will Real Madrid CF win on 2026-11-04? | Yes | 1.22 (82¢) | $49,200 | +$10,800 | ✅ Ganada |
