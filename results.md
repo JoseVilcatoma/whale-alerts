@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 17:11:03 (hora de Perú)
+Actualizado: 2026-11-05 17:13:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7721**  ($437,165,421 en total)
+- Apuestas registradas: **7724**  ($437,265,683 en total)
 - Resueltas: **7682** — 4687 ganadas / 2995 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 20
 - Apostadores distintos: 699
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 546 | 308 | 3 | 64% | $55,968,358 | +$444,860 |
 | Sassy-Bucket | 106 | 107 | 2 | 50% | $13,906,103 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 137 | 75 | 1 | 65% | $10,344,375 | +$487,076 |
+| Lakersfan111 | 137 | 75 | 2 | 65% | $10,371,028 | +$487,076 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 52 | 24 | 1 | 68% | $2,898,293 | -$219,097 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
-| S-Works | 19 | 7 | 0 | 73% | $2,682,709 | -$179,779 |
+| S-Works | 19 | 7 | 1 | 73% | $2,707,709 | -$179,779 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | juice-fruit | 26 | 17 | 0 | 60% | $2,482,993 | +$219,112 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.00 (50¢) | $26,653 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.00 (50¢) | $48,610 | — | ⏳ Pendiente |
+| S-Works | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.13 (47¢) | $27,603 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.22 (45¢) | $27,346 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | jakepaulthegoat2008 | Bucks vs. Celtics | Celtics | 1.18 (85¢) | $167,450 | +$29,550 | ✅ Ganada |
 | jakepaulthegoat2008 | 76ers vs. Pistons | Pistons | 1.75 (57¢) | $57,000 | -$57,000 | ❌ Perdida |
 | jakepaulthegoat2008 | Bucks vs. Celtics | Celtics | 1.19 (84¢) | $126,145 | +$24,028 | ✅ Ganada |
-| Mastermoney | Ball State vs. UMass: O/U 47.5 | Over 47.5 | 1.75 (57¢) | $29,595 | +$22,326 | ✅ Ganada |
-| Mastermoney | Ball State vs. UMass: O/U 47.5 | Over 47.5 | 1.79 (56¢) | $49,663 | +$39,021 | ✅ Ganada |
-| Multicoloured-Serf | Spread: UMass (-2.5) | UMass | 2.00 (50¢) | $83,223 | -$83,223 | ❌ Perdida |
