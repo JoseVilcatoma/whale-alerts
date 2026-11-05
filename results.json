@@ -116178,5 +116178,20 @@
     "status": "pending",
     "ultimo_fill": 1793918864,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15657,
+    "timestamp": 1793919002,
+    "username": "fhiwbijd",
+    "wallet": "0xb5a5e9d836c828bb0f0e26cc978089cc58fcc668",
+    "slug": "lol-dk-blg-2026-11-03-game2",
+    "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 29866.0209,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1793919002,
+    "fills": 1
   }
 ]
