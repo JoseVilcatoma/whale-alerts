@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 20:52:37 (hora de Perú)
+Actualizado: 2026-11-04 20:54:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7687**  ($435,720,621 en total)
+- Apuestas registradas: **7689**  ($435,788,770 en total)
 - Resueltas: **7631** — 4658 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 36
 - Apostadores distintos: 697
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3648393489047 | Toledo vs. Sacramento State | Toledo | 1.33 (75¢) | $27,622 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Ball State vs. UMass | Ball State | 2.86 (35¢) | $40,526 | — | ⏳ Pendiente |
 | 3648393489047 | Toledo vs. Sacramento State | Toledo | 1.28 (78¢) | $33,911 | — | ⏳ Pendiente |
 | tennischamp | 76ers vs. Pistons | 76ers | 1.25 (80¢) | $53,478 | — | ⏳ Pendiente |
 | olegio | Pacers vs. Grizzlies | Grizzlies | 2.04 (49¢) | $30,169 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | ferrariChampions2026 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.69 (59¢) | $28,761 | -$28,761 | ❌ Perdida |
 | RJW1 | Spread: Arsenal FC (-1.5) | Arsenal FC | 1.82 (55¢) | $30,256 | -$30,256 | ❌ Perdida |
 | Matheobong | Spread: Real Madrid CF (-2.5) | AEK | 1.59 (63¢) | $28,703 | +$16,858 | ✅ Ganada |
-| ArturitoFilito | Rolex Paris Masters: Alexander Zverev vs Lorenzo Musetti | Alexander Zverev | 1.56 (64¢) | $34,334 | -$34,334 | ❌ Perdida |
-| Eugycom | Trail Blazers vs. Suns | Trail Blazers | 1.72 (58¢) | $28,391 | — | ⏳ Pendiente |
