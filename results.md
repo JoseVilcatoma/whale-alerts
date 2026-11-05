@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 19:53:45 (hora de Perú)
+Actualizado: 2026-11-04 19:55:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7680**  ($435,266,047 en total)
+- Apuestas registradas: **7682**  ($435,408,006 en total)
 - Resueltas: **7630** — 4657 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 30
 - Apostadores distintos: 697
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Cavaliers vs. Thunder | Cavaliers | 2.44 (41¢) | $26,825 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Thunder (-3.5) | Cavaliers | 1.92 (52¢) | $115,134 | — | ⏳ Pendiente |
 | ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.45 (69¢) | $27,273 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Central Michigan vs. Eastern Michigan | Central Michigan | 1.47 (68¢) | $30,515 | — | ⏳ Pendiente |
 | ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.47 (68¢) | $28,135 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | qiu3 | Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A | FURIA | 1.35 (74¢) | $150,000 | -$150,000 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $70,500 | +$79,500 | ✅ Ganada |
 | Multicoloured-Serf | Will FC Porto win on 2026-11-04? | No | 2.08 (48¢) | $60,000 | -$60,000 | ❌ Perdida |
-| Mastermoney | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva | Antonia Ruzic | 1.67 (60¢) | $45,204 | +$30,136 | ✅ Ganada |
-| jakepaulthegoat2008 | Counter-Strike: Liquid vs BetBoom Team (BO3) - IEM Beijing Group B | BetBoom Team | 1.54 (65¢) | $29,250 | +$15,750 | ✅ Ganada |

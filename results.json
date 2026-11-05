@@ -115428,5 +115428,35 @@
     "status": "pending",
     "ultimo_fill": 1793839759,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15565,
+    "timestamp": 1793840045,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-cle-okc-2026-11-04-spread-home-3pt5",
+    "title": "Spread: Thunder (-3.5)",
+    "outcome": "Cavaliers",
+    "side": "BUY",
+    "usd": 115133.72,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793840045,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15566,
+    "timestamp": 1793840070,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-cle-okc-2026-11-04",
+    "title": "Cavaliers vs. Thunder",
+    "outcome": "Cavaliers",
+    "side": "BUY",
+    "usd": 26825.07,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1793840070,
+    "fills": 1
   }
 ]
