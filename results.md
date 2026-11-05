@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 11:59:22 (hora de Perú)
+Actualizado: 2026-11-05 12:01:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7708**  ($436,664,058 en total)
+- Apuestas registradas: **7708**  ($436,692,883 en total)
 - Resueltas: **7674** — 4683 ganadas / 2991 perdidas (**61%** de acierto)
 - Pendientes: 12
 - Apostadores distintos: 699
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 1l2ihj34li12u34 | Will AFC Ajax win on 2026-11-05? | No | 1.69 (59¢) | $36,658 | — | ⏳ Pendiente |
+| 1l2ihj34li12u34 | Will AFC Ajax win on 2026-11-05? | No | 1.69 (59¢) | $65,483 | — | ⏳ Pendiente |
 | 0xce81…9820 | Will FC Midtjylland win on 2026-11-05? | No | 1.54 (65¢) | $50,000 | — | ⏳ Pendiente |
 | Kyn008 | Will AFC Ajax win on 2026-11-05? | Yes | 2.44 (41¢) | $27,614 | — | ⏳ Pendiente |
 | yabanci | Will AFC Bournemouth win on 2026-11-05? | Yes | 1.54 (65¢) | $69,550 | — | ⏳ Pendiente |
