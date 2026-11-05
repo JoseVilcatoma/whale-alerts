@@ -115608,5 +115608,20 @@
     "status": "pending",
     "ultimo_fill": 1793844872,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15578,
+    "timestamp": 1793845073,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-dal-sas-2026-11-04",
+    "title": "Mavericks vs. Spurs",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 59640.0,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1793845073,
+    "fills": 1
   }
 ]
