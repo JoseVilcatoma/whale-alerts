@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 20:19:13 (hora de Perú)
+Actualizado: 2026-11-04 20:21:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7682**  ($435,408,006 en total)
-- Resueltas: **7630** — 4657 ganadas / 2973 perdidas (**61%** de acierto)
+- Apuestas registradas: **7683**  ($435,450,302 en total)
+- Resueltas: **7631** — 4658 ganadas / 2973 perdidas (**61%** de acierto)
 - Pendientes: 30
 - Apostadores distintos: 697
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,009,157** sobre $433,094,384 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,128** sobre $752,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,005,557** sobre $433,120,784 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,114** sobre $752,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
-| ethanaz | 67 | 30 | 2 | 69% | $5,906,610 | -$187,528 |
+| ethanaz | 67 | 30 | 3 | 69% | $5,948,906 | -$187,528 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.43 (70¢) | $42,297 | — | ⏳ Pendiente |
 | mooseborzoi | Cavaliers vs. Thunder | Cavaliers | 2.44 (41¢) | $26,825 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Thunder (-3.5) | Cavaliers | 1.92 (52¢) | $115,134 | — | ⏳ Pendiente |
 | ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.45 (69¢) | $27,273 | — | ⏳ Pendiente |
@@ -84,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | jakepaulthegoat2008 | Bucks vs. Celtics | Celtics | 1.19 (84¢) | $26,250 | — | ⏳ Pendiente |
 | g56gz56guzn547nu76 | Senators vs. Sabres | Sabres | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Pistons | Pistons | 1.75 (57¢) | $30,956 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Gen.G vs LYON - Game 3 Winner | Gen.G | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Gen.G vs LYON - Game 3 Winner | Gen.G | 1.14 (88¢) | $26,400 | +$3,600 | ✅ Ganada |
 | mooseborzoi | Hawks vs. Wizards | Hawks | 1.79 (56¢) | $28,019 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Bucks vs. Celtics | Celtics | 1.18 (85¢) | $167,450 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | 76ers vs. Pistons | Pistons | 1.75 (57¢) | $57,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | 4217893367451 | Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5) | Team Falcons | 3.70 (27¢) | $26,730 | -$26,730 | ❌ Perdida |
 | qiu3 | Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A | FURIA | 1.35 (74¢) | $150,000 | -$150,000 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A | Natus Vincere | 2.13 (47¢) | $70,500 | +$79,500 | ✅ Ganada |
-| Multicoloured-Serf | Will FC Porto win on 2026-11-04? | No | 2.08 (48¢) | $60,000 | -$60,000 | ❌ Perdida |

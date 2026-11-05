@@ -115260,7 +115260,7 @@
     "side": "BUY",
     "usd": 26400.0,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793836775,
     "fills": 1
   },
@@ -115457,6 +115457,21 @@
     "odds_at_bet": 41,
     "status": "pending",
     "ultimo_fill": 1793840070,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15567,
+    "timestamp": 1793841665,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "cfb-cmich-emich-2026-11-04",
+    "title": "Central Michigan vs. Eastern Michigan",
+    "outcome": "Central Michigan",
+    "side": "BUY",
+    "usd": 42296.59,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1793841665,
     "fills": 1
   }
 ]
