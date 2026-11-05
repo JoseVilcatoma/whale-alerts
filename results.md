@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 17:06:59 (hora de Perú)
+Actualizado: 2026-11-05 17:08:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7717**  ($437,054,408 en total)
+- Apuestas registradas: **7721**  ($437,165,421 en total)
 - Resueltas: **7682** — 4687 ganadas / 2995 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 17
 - Apostadores distintos: 699
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 546 | 308 | 3 | 64% | $55,968,358 | +$444,860 |
 | Sassy-Bucket | 106 | 107 | 2 | 50% | $13,906,103 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 137 | 75 | 0 | 65% | $10,317,029 | +$487,076 |
+| Lakersfan111 | 137 | 75 | 1 | 65% | $10,344,375 | +$487,076 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
-| BrotherObama | 51 | 55 | 2 | 48% | $4,654,036 | -$142,283 |
+| BrotherObama | 51 | 55 | 3 | 48% | $4,684,036 | -$142,283 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fhiwbijd | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.13 (47¢) | $27,603 | — | ⏳ Pendiente |
+| BrotherObama | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.22 (45¢) | $27,346 | — | ⏳ Pendiente |
+| OhWhenTheReds | Spread: SE Palmeiras (-1.5) | Clube do Remo | 2.13 (47¢) | $26,064 | — | ⏳ Pendiente |
 | juice-fruit | Rolex Paris Masters: Arthur Fils vs Taylor Fritz | Arthur Fils | 1.96 (51¢) | $83,417 | -$83,417 | ❌ Perdida |
 | Zzzz87 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Dplus KIA | 2.38 (42¢) | $46,710 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.72 (58¢) | $25,778 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | Mastermoney | Ball State vs. UMass: O/U 47.5 | Over 47.5 | 1.75 (57¢) | $29,595 | +$22,326 | ✅ Ganada |
 | Mastermoney | Ball State vs. UMass: O/U 47.5 | Over 47.5 | 1.79 (56¢) | $49,663 | +$39,021 | ✅ Ganada |
 | Multicoloured-Serf | Spread: UMass (-2.5) | UMass | 2.00 (50¢) | $83,223 | -$83,223 | ❌ Perdida |
-| darkumbreon88 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.39 (72¢) | $28,445 | +$11,062 | ✅ Ganada |
-| justwins | Senators vs. Sabres | Sabres | 1.85 (54¢) | $29,013 | -$29,013 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-11-04? | Yes | 1.28 (78¢) | $28,610 | +$8,069 | ✅ Ganada |
-| Fvalp | Will Real Madrid CF win on 2026-11-04? | Yes | 1.23 (81¢) | $72,900 | +$17,100 | ✅ Ganada |
