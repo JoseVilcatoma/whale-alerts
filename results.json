@@ -115773,5 +115773,20 @@
     "status": "pending",
     "ultimo_fill": 1793891432,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15620,
+    "timestamp": 1793893610,
+    "username": "Marcoli",
+    "wallet": "0xdbbbde184ab04018ce0373c0dbe4e5fd6be805a8",
+    "slug": "atp-hijikat-etcheve-2026-11-05",
+    "title": "Rolex Paris Masters: Rinky Hijikata vs Tomas Etcheverry",
+    "outcome": "Rinky Hijikata",
+    "side": "BUY",
+    "usd": 69999.99999999999,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1793893610,
+    "fills": 1
   }
 ]
