@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 08:49:58 (hora de Perú)
+Actualizado: 2026-11-05 08:52:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7700**  ($436,282,040 en total)
+- Apuestas registradas: **7701**  ($436,355,470 en total)
 - Resueltas: **7673** — 4682 ganadas / 2991 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 698
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 698 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Magic vs. Suns | Magic | 2.08 (48¢) | $73,430 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Bayer 04 Leverkusen (-1.5) | Bayer 04 Leverkusen | 1.85 (54¢) | $33,082 | — | ⏳ Pendiente |
 | Marcoli | Luanda: Anna Blinkova vs Zongyu Li | Anna Blinkova | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Heat vs. Clippers | Clippers | 1.23 (81¢) | $40,149 | -$40,149 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 698 en total)_
 | 999585 | Will AEK win on 2026-11-04? | No | 1.08 (93¢) | $139,500 | +$10,500 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $100,000 | +$8,696 | ✅ Ganada |
 | NS13 | Will Liverpool FC win on 2026-11-04? | Yes | 1.59 (63¢) | $82,754 | -$82,754 | ❌ Perdida |
-| ic4cream | Trail Blazers vs. Suns: O/U 227.5 | Under 227.5 | 2.04 (49¢) | $27,924 | -$27,924 | ❌ Perdida |
