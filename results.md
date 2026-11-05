@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 21:33:34 (hora de Perú)
+Actualizado: 2026-11-04 21:35:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7694**  ($436,050,663 en total)
+- Apuestas registradas: **7695**  ($436,075,678 en total)
 - Resueltas: **7631** — 4658 ganadas / 2973 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 697
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 545 | 307 | 5 | 64% | $55,968,358 | +$449,672 |
 | Sassy-Bucket | 106 | 107 | 2 | 50% | $13,906,103 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 131 | 73 | 7 | 64% | $10,292,015 | +$467,434 |
+| Lakersfan111 | 131 | 73 | 8 | 64% | $10,317,029 | +$467,434 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.20 (83¢) | $25,015 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Flames vs. Kraken | Kraken | 1.82 (55¢) | $93,832 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.19 (84¢) | $59,640 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Grizzlies (-2.5) | Grizzlies | 2.04 (49¢) | $31,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | Multicoloured-Serf | Will Como 1907 win on 2026-11-04? | No | 2.04 (49¢) | $80,324 | -$80,324 | ❌ Perdida |
 | justwins | Senators vs. Sabres | Sabres | 1.85 (54¢) | $41,986 | — | ⏳ Pendiente |
 | ch27er | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.64 (61¢) | $49,895 | -$49,895 | ❌ Perdida |
-| plonker2026 | Fenerbahçe SK vs. Liverpool FC: O/U 3.5 | Under 3.5 | 1.92 (52¢) | $28,706 | -$28,706 | ❌ Perdida |
