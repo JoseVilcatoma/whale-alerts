@@ -115518,5 +115518,20 @@
     "status": "pending",
     "ultimo_fill": 1793842715,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15572,
+    "timestamp": 1793843355,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "cfb-toledo-sacst-2026-11-04",
+    "title": "Toledo vs. Sacramento State",
+    "outcome": "Toledo",
+    "side": "BUY",
+    "usd": 33910.819800000005,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1793843355,
+    "fills": 1
   }
 ]
