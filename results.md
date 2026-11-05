@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 13:35:40 (hora de Perú)
+Actualizado: 2026-11-05 13:37:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7717**  ($437,023,514 en total)
+- Apuestas registradas: **7717**  ($437,054,408 en total)
 - Resueltas: **7674** — 4683 ganadas / 2991 perdidas (**61%** de acierto)
 - Pendientes: 21
 - Apostadores distintos: 699
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 19 | 7 | 0 | 73% | $2,682,709 | -$179,779 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
+| juice-fruit | 26 | 15 | 2 | 63% | $2,482,993 | +$331,056 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| juice-fruit | 26 | 15 | 2 | 63% | $2,452,099 | +$331,056 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| juice-fruit | Rolex Paris Masters: Arthur Fils vs Taylor Fritz | Arthur Fils | 1.96 (51¢) | $52,523 | — | ⏳ Pendiente |
+| juice-fruit | Rolex Paris Masters: Arthur Fils vs Taylor Fritz | Arthur Fils | 1.96 (51¢) | $83,417 | — | ⏳ Pendiente |
 | Zzzz87 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Dplus KIA | 2.38 (42¢) | $46,710 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.72 (58¢) | $25,778 | — | ⏳ Pendiente |
 | Dessssa | Blues vs. Devils | Blues | 3.12 (32¢) | $25,351 | — | ⏳ Pendiente |
