@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-04 23:45:30 (hora de Perú)
+Actualizado: 2026-11-04 23:47:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7696**  ($436,120,655 en total)
-- Resueltas: **7664** — 4677 ganadas / 2987 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **7665** — 4677 ganadas / 2988 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 697
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,236,297** sobre $434,756,034 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,501** sobre $756,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,273,297** sobre $434,793,034 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,601** sobre $756,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 546 | 308 | 3 | 64% | $55,968,358 | +$444,860 |
 | Sassy-Bucket | 106 | 107 | 2 | 50% | $13,906,103 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 135 | 74 | 3 | 65% | $10,317,029 | +$507,592 |
+| Lakersfan111 | 135 | 75 | 2 | 64% | $10,317,029 | +$470,592 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 697 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Flames vs. Kraken | Kraken | 1.82 (55¢) | $93,832 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.19 (84¢) | $59,640 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Grizzlies (-2.5) | Grizzlies | 2.04 (49¢) | $31,000 | -$31,000 | ❌ Perdida |
-| jakepaulthegoat2008 | Raptors vs. Nuggets | Raptors | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Raptors vs. Nuggets | Raptors | 2.70 (37¢) | $37,000 | -$37,000 | ❌ Perdida |
 | ethanaz | Toledo vs. Sacramento State | Toledo | 1.28 (78¢) | $40,422 | +$11,401 | ✅ Ganada |
 | 3648393489047 | Toledo vs. Sacramento State | Toledo | 1.33 (75¢) | $27,622 | +$9,208 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Ball State vs. UMass | Ball State | 2.86 (35¢) | $40,526 | -$40,526 | ❌ Perdida |
