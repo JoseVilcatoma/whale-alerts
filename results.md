@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 17:15:06 (hora de Perú)
+Actualizado: 2026-11-05 17:17:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7728**  ($437,600,021 en total)
+- Apuestas registradas: **7728**  ($437,625,021 en total)
 - Resueltas: **7682** — 4687 ganadas / 2995 perdidas (**61%** de acierto)
 - Pendientes: 24
 - Apostadores distintos: 699
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.00 (50¢) | $35,897 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.00 (50¢) | $26,653 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.00 (50¢) | $262,109 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.00 (50¢) | $287,109 | — | ⏳ Pendiente |
 | S-Works | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.13 (47¢) | $27,603 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
