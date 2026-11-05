@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 11:24:13 (hora de Perú)
+Actualizado: 2026-11-05 11:26:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7704**  ($436,480,236 en total)
-- Resueltas: **7673** — 4682 ganadas / 2991 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **7674** — 4683 ganadas / 2991 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 698
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,259,529** sobre $435,156,137 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,694** sobre $756,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,255,061** sobre $435,226,137 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,688** sobre $757,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 698 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Marcoli | Rolex Paris Masters: Rinky Hijikata vs Tomas Etcheverry | Rinky Hijikata | 1.06 (94¢) | $70,000 | — | ⏳ Pendiente |
+| Marcoli | Rolex Paris Masters: Rinky Hijikata vs Tomas Etcheverry | Rinky Hijikata | 1.06 (94¢) | $70,000 | +$4,468 | ✅ Ganada |
 | juice-fruit | FK Crvena zvezda vs. Inter Club d'Escaldes: O/U 3.5 | Over 3.5 | 1.72 (58¢) | $28,527 | — | ⏳ Pendiente |
 | mooseborzoi | Stars vs. Blue Jackets | Stars | 1.82 (55¢) | $26,240 | — | ⏳ Pendiente |
 | mooseborzoi | Magic vs. Suns | Magic | 2.08 (48¢) | $73,430 | — | ⏳ Pendiente |
