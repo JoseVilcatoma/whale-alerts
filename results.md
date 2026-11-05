@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 12:09:42 (hora de Perú)
+Actualizado: 2026-11-05 12:11:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7708**  ($436,692,883 en total)
+- Apuestas registradas: **7709**  ($436,732,772 en total)
 - Resueltas: **7674** — 4683 ganadas / 2991 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 699
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lalalalalalallalalalala | Game Handicap: DK (-1.5) vs Bilibili Gaming (+1.5) | Dplus KIA | 3.70 (27¢) | $39,889 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will AFC Ajax win on 2026-11-05? | No | 1.69 (59¢) | $65,483 | — | ⏳ Pendiente |
 | 0xce81…9820 | Will FC Midtjylland win on 2026-11-05? | No | 1.54 (65¢) | $50,000 | — | ⏳ Pendiente |
 | Kyn008 | Will AFC Ajax win on 2026-11-05? | Yes | 2.44 (41¢) | $27,614 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | Flaznorp | Will AEK vs. Real Madrid CF end in a draw? | No | 1.12 (89¢) | $137,483 | +$16,992 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Thunder (-3.5) | Cavaliers | 2.00 (50¢) | $29,191 | -$29,191 | ❌ Perdida |
 | meoooow | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $37,164 | +$3,232 | ✅ Ganada |
-| S-Works | Will AEK win on 2026-11-04? | No | 1.09 (92¢) | $90,405 | +$7,861 | ✅ Ganada |

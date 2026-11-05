@@ -115848,5 +115848,20 @@
     "status": "pending",
     "ultimo_fill": 1793897971,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 15626,
+    "timestamp": 1793898665,
+    "username": "lalalalalalallalalalala",
+    "wallet": "0xe1787252abc9db4d5bfac51c253a68e0162ffe19",
+    "slug": "lol-dk-blg-2026-11-03-game-handicap-away-1pt5",
+    "title": "Game Handicap: DK (-1.5) vs Bilibili Gaming (+1.5)",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 39888.9135,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "ultimo_fill": 1793898665,
+    "fills": 1
   }
 ]
