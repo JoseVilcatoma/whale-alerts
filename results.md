@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 16:42:14 (hora de Perú)
+Actualizado: 2026-11-05 16:44:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7717**  ($437,054,408 en total)
-- Resueltas: **7675** — 4683 ganadas / 2992 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **7676** — 4683 ganadas / 2993 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 699
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,338,478** sobre $435,309,554 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,788** sobre $757,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,374,178** sobre $435,345,254 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,888** sobre $757,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -113,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.47 (68¢) | $28,135 | +$13,240 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-3.5) | Thunder | 2.04 (49¢) | $25,119 | +$26,144 | ✅ Ganada |
 | mooseborzoi | Spread: Thunder (-3.5) | Cavaliers | 1.96 (51¢) | $61,679 | -$61,679 | ❌ Perdida |
-| alexubet | Will Crystal Palace FC win on 2026-11-05? | Yes | 1.96 (51¢) | $35,700 | — | ⏳ Pendiente |
+| alexubet | Will Crystal Palace FC win on 2026-11-05? | Yes | 1.96 (51¢) | $35,700 | -$35,700 | ❌ Perdida |
 | jakepaulthegoat2008 | Hornets vs. Nets | Nets | 2.50 (40¢) | $25,721 | +$38,581 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Rockets (-7.5) | Rockets | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | jakepaulthegoat2008 | Bucks vs. Celtics | Celtics | 1.19 (84¢) | $26,250 | +$5,000 | ✅ Ganada |
