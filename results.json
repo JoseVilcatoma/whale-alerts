@@ -116068,11 +116068,11 @@
     "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "usd": 48609.67,
+    "usd": 262108.73769999997,
     "odds_at_bet": 50,
     "status": "pending",
-    "ultimo_fill": 1793916750,
-    "fills": 1
+    "ultimo_fill": 1793916884,
+    "fills": 6
   },
   {
     "telegram_msg_id": 15650,
@@ -116087,6 +116087,66 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1793916768,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15651,
+    "timestamp": 1793916789,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-dk-blg-2026-11-03-game1",
+    "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 35897.435,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793916789,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15652,
+    "timestamp": 1793916798,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-dk-blg-2026-11-03-game1",
+    "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793916798,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15653,
+    "timestamp": 1793916813,
+    "username": "Netrol",
+    "wallet": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
+    "slug": "lol-dk-blg-2026-11-03-game1",
+    "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 25641.025,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1793916813,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15654,
+    "timestamp": 1793916843,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-dk-blg-2026-11-03-game1",
+    "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 34300.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793916843,
     "fills": 1
   }
 ]
