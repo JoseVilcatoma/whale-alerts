@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 18:41:36 (hora de Perú)
+Actualizado: 2026-11-05 18:43:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7735**  ($437,955,925 en total)
+- Apuestas registradas: **7737**  ($438,078,087 en total)
 - Resueltas: **7682** — 4687 ganadas / 2995 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 33
 - Apostadores distintos: 699
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 546 | 308 | 6 | 64% | $56,173,658 | +$444,860 |
-| Sassy-Bucket | 106 | 107 | 2 | 50% | $13,906,103 | -$1,687,518 |
+| Sassy-Bucket | 106 | 107 | 3 | 50% | $13,955,603 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 137 | 75 | 3 | 65% | $10,406,397 | +$487,076 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Blues vs. Devils | Blues | 3.03 (33¢) | $49,500 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Bruins vs. Penguins | Penguins | 1.89 (53¢) | $72,662 | — | ⏳ Pendiente |
 | g56gz56guzn547nu76 | Utah vs. Canadiens | Canadiens | 2.13 (47¢) | $32,517 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.82 (55¢) | $35,369 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Dplus KIA | 2.00 (50¢) | $25,517 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.45 (69¢) | $27,273 | +$12,253 | ✅ Ganada |
 | TAIWANNUMBERONE | Central Michigan vs. Eastern Michigan | Central Michigan | 1.47 (68¢) | $30,515 | +$14,360 | ✅ Ganada |
 | ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.47 (68¢) | $28,135 | +$13,240 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-3.5) | Thunder | 2.04 (49¢) | $25,119 | +$26,144 | ✅ Ganada |
-| mooseborzoi | Spread: Thunder (-3.5) | Cavaliers | 1.96 (51¢) | $61,679 | -$61,679 | ❌ Perdida |
