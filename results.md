@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 23:49:05 (hora de Perú)
+Actualizado: 2026-11-05 23:51:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7769**  ($440,589,314 en total)
-- Resueltas: **7739** — 4722 ganadas / 3017 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **7740** — 4723 ganadas / 3017 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 700
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,613,337** sobre $439,338,609 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,744** sobre $763,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,608,536** sobre $439,363,815 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,725** sobre $763,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| ethanaz | 72 | 30 | 1 | 71% | $6,167,294 | -$103,409 |
+| ethanaz | 73 | 30 | 0 | 71% | $6,167,294 | -$98,608 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | jakepaulthegoat2008 | Game Handicap: T1 (-1.5) vs Karmine Corp (+1.5) | T1 | 1.54 (65¢) | $63,254 | — | ⏳ Pendiente |
-| ethanaz | UTSA vs. Florida Atlantic | Florida Atlantic | 1.19 (84¢) | $25,205 | — | ⏳ Pendiente |
+| ethanaz | UTSA vs. Florida Atlantic | Florida Atlantic | 1.19 (84¢) | $25,205 | +$4,801 | ✅ Ganada |
 | PerpsKing | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | PARIVISION | 3.45 (29¢) | $26,625 | — | ⏳ Pendiente |
 | Anon455 | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
 | CUTJALENHURTS | Magic vs. Suns: O/U 224.5 | Over 224.5 | 1.89 (53¢) | $28,603 | -$28,603 | ❌ Perdida |
