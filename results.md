@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 18:14:48 (hora de Perú)
+Actualizado: 2026-11-06 18:16:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7801**  ($442,496,941 en total)
+- Apuestas registradas: **7804**  ($442,605,062 en total)
 - Resueltas: **7757** — 4736 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 701
+- Pendientes: 24
+- Apostadores distintos: 702
 
 ### Balance
 
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 
-_(mostrando los 40 de mayor monto, de 701 en total)_
+_(mostrando los 40 de mayor monto, de 702 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| arjennnnn | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.09 (92¢) | $36,473 | — | ⏳ Pendiente |
+| KateBollinger | LoL: Karmine Corp vs T1 - Game 2 Winner | T1 | 1.45 (69¢) | $41,389 | — | ⏳ Pendiente |
+| vtcchampion52 | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 2.08 (48¢) | $30,259 | — | ⏳ Pendiente |
 | Wal1 | Wizards vs. Hawks | Hawks | 1.37 (73¢) | $31,676 | +$868 | 💰 Vendida antes |
 | ropetard | Spread: Hawks (-8.5) | Hawks | 2.08 (48¢) | $38,880 | — | ⏳ Pendiente |
 | juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.52 (66¢) | $34,607 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 701 en total)_
 | hewhodoesit | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $31,600 | +$8,400 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $41,562 | +$19,559 | ✅ Ganada |
 | S-Works | Blues vs. Devils | Devils | 1.49 (67¢) | $38,190 | +$18,810 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Dplus KIA | 2.13 (47¢) | $58,908 | -$58,908 | ❌ Perdida |
-| VPenguin | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.89 (53¢) | $55,265 | +$49,008 | ✅ Ganada |
-| fkALG2FalconsTES | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
