@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 17:19:36 (hora de Perú)
+Actualizado: 2026-11-06 17:21:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7796**  ($442,306,290 en total)
-- Resueltas: **7751** — 4730 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Apuestas registradas: **7797**  ($442,362,845 en total)
+- Resueltas: **7755** — 4734 ganadas / 3021 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 701
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,478,554** sobre $439,867,900 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,641** sobre $764,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,394,152** sobre $440,089,718 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,494** sobre $765,100 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 548 | 311 | 7 | 64% | $56,826,890 | +$425,533 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 549 | 311 | 6 | 64% | $56,826,890 | +$475,022 |
 | Sassy-Bucket | 107 | 108 | 2 | 50% | $14,750,043 | -$1,512,945 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 141 | 76 | 1 | 65% | $10,547,747 | +$585,487 |
@@ -57,9 +57,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| juice-fruit | 26 | 17 | 0 | 60% | $2,482,993 | +$219,112 |
+| juice-fruit | 26 | 17 | 1 | 60% | $2,539,549 | +$219,112 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| 999585 | 20 | 1 | 2 | 95% | $2,392,235 | +$98,953 |
+| 999585 | 21 | 1 | 1 | 95% | $2,392,235 | +$100,980 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 701 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.49 (67¢) | $56,555 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 1 Winner | T1 | 1.49 (67¢) | $67,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 1 Winner | Karmine Corp | 3.03 (33¢) | $98,315 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings | Spurs | 1.12 (89¢) | $210,947 | — | ⏳ Pendiente |
@@ -80,12 +81,12 @@ _(mostrando los 40 de mayor monto, de 701 en total)_
 | Lanlanlanlan | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.20 (83¢) | $49,519 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 1.52 (66¢) | $99,000 | — | ⏳ Pendiente |
 | 473game | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $35,515 | — | ⏳ Pendiente |
-| 999585 | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $26,936 | — | ⏳ Pendiente |
+| 999585 | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $26,936 | +$2,027 | ✅ Ganada |
 | 473game | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.61 (62¢) | $29,408 | — | ⏳ Pendiente |
-| one8tyfive | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.39 (72¢) | $38,216 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.61 (62¢) | $29,408 | +$18,024 | ✅ Ganada |
+| one8tyfive | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.39 (72¢) | $38,216 | +$14,862 | ✅ Ganada |
 | ferrariChampions2026 | Spread: Flames (-1.5) | Ducks | 1.54 (65¢) | $33,295 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.39 (72¢) | $127,258 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.39 (72¢) | $127,258 | +$49,489 | ✅ Ganada |
 | fantasy7788 | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 1.52 (66¢) | $74,602 | — | ⏳ Pendiente |
 | SDTrading | Spread: Arizona (-6.5) | Arizona | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | 999585 | Will Wolfsberger AC win on 2026-11-06? | No | 1.06 (94¢) | $75,068 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 701 en total)_
 | zb8 | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | NS13 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.11 (90¢) | $45,724 | +$5,080 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $79,444 | +$37,385 | ✅ Ganada |
-| Sassy-Bucket | Blues vs. Devils | Blues | 3.03 (33¢) | $49,500 | -$49,500 | ❌ Perdida |
