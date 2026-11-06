@@ -117124,5 +117124,20 @@
     "status": "pending",
     "ultimo_fill": 1794002823,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15792,
+    "timestamp": 1794003078,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-sas-sac-2026-11-06",
+    "title": "Spurs vs. Kings",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 166447.44400000002,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1794003078,
+    "fills": 1
   }
 ]
