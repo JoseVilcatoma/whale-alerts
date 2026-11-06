@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 23:55:16 (hora de Perú)
+Actualizado: 2026-11-05 23:57:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7769**  ($440,589,314 en total)
+- Apuestas registradas: **7770**  ($440,627,366 en total)
 - Resueltas: **7740** — 4723 ganadas / 3017 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 700
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 4217893367451 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $38,052 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Game Handicap: T1 (-1.5) vs Karmine Corp (+1.5) | T1 | 1.54 (65¢) | $63,254 | — | ⏳ Pendiente |
 | ethanaz | UTSA vs. Florida Atlantic | Florida Atlantic | 1.19 (84¢) | $25,205 | +$4,801 | ✅ Ganada |
 | PerpsKing | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | PARIVISION | 3.45 (29¢) | $26,625 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Magic vs. Suns | Suns | 1.96 (51¢) | $30,600 | +$29,400 | ✅ Ganada |
 | RJW1 | Magic vs. Suns | Suns | 1.96 (51¢) | $51,000 | +$49,000 | ✅ Ganada |
 | 473game | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.69 (59¢) | $28,780 | +$20,000 | ✅ Ganada |
-| nb1985 | Will RSC Anderlecht win on 2026-11-05? | Yes | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
