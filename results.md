@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 19:33:27 (hora de Perú)
+Actualizado: 2026-11-05 19:35:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7748**  ($438,857,132 en total)
+- Apuestas registradas: **7749**  ($438,910,632 en total)
 - Resueltas: **7683** — 4687 ganadas / 2996 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 699
 
 ### Balance
@@ -53,8 +53,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 52 | 24 | 2 | 68% | $2,934,190 | -$219,097 |
+| S-Works | 19 | 7 | 3 | 73% | $2,799,399 | -$179,779 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
-| S-Works | 19 | 7 | 2 | 73% | $2,745,899 | -$179,779 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | juice-fruit | 26 | 17 | 0 | 60% | $2,482,993 | +$219,112 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | LoL: Dplus KIA vs Bilibili Gaming - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $53,500 | — | ⏳ Pendiente |
 | Mastermoney | Jaguars vs. Ravens: O/U 40.5 | Over 40.5 | 2.04 (49¢) | $42,757 | — | ⏳ Pendiente |
 | hewhodoesit | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $41,562 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | BrotherObama | Spread: Grizzlies (-2.5) | Grizzlies | 2.04 (49¢) | $31,000 | -$31,000 | ❌ Perdida |
 | jakepaulthegoat2008 | Raptors vs. Nuggets | Raptors | 2.70 (37¢) | $37,000 | -$37,000 | ❌ Perdida |
 | ethanaz | Toledo vs. Sacramento State | Toledo | 1.28 (78¢) | $40,422 | +$11,401 | ✅ Ganada |
-| 3648393489047 | Toledo vs. Sacramento State | Toledo | 1.33 (75¢) | $27,622 | +$9,208 | ✅ Ganada |
