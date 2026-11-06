@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 16:12:19 (hora de Perú)
+Actualizado: 2026-11-06 16:14:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7785**  ($441,445,621 en total)
+- Apuestas registradas: **7786**  ($441,486,621 en total)
 - Resueltas: **7751** — 4730 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 700
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 473game | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.61 (62¢) | $29,408 | — | ⏳ Pendiente |
 | one8tyfive | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.39 (72¢) | $38,216 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Flames (-1.5) | Ducks | 1.54 (65¢) | $33,295 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | fhiwbijd | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Dplus KIA | 3.85 (26¢) | $34,295 | -$34,295 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.04 (49¢) | $34,300 | +$35,700 | ✅ Ganada |
 | Netrol | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.00 (50¢) | $25,641 | +$25,641 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
