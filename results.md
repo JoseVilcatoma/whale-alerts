@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 21:14:26 (hora de Perú)
+Actualizado: 2026-11-05 21:16:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7763**  ($440,379,228 en total)
+- Apuestas registradas: **7764**  ($440,411,228 en total)
 - Resueltas: **7709** — 4701 ganadas / 3008 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 700
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Anon455 | Jaguars vs. Ravens | Jaguars | 1.25 (80¢) | $32,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Jaguars vs. Ravens | Jaguars | 1.22 (82¢) | $32,978 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $35,354 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | 0xce81…9820 | Will FC Midtjylland win on 2026-11-05? | No | 1.54 (65¢) | $50,000 | +$26,923 | ✅ Ganada |
 | Kyn008 | Will AFC Ajax win on 2026-11-05? | Yes | 2.44 (41¢) | $27,614 | +$39,737 | ✅ Ganada |
 | yabanci | Will AFC Bournemouth win on 2026-11-05? | Yes | 1.54 (65¢) | $69,550 | +$37,450 | ✅ Ganada |
-| Marcoli | Rolex Paris Masters: Rinky Hijikata vs Tomas Etcheverry | Rinky Hijikata | 1.06 (94¢) | $70,000 | +$4,468 | ✅ Ganada |
