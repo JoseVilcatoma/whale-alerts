@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 22:12:06 (hora de Perú)
+Actualizado: 2026-11-05 23:40:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7768**  ($440,526,061 en total)
-- Resueltas: **7716** — 4704 ganadas / 3012 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **7732** — 4717 ganadas / 3015 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 700
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,036,122** sobre $437,511,867 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,177** sobre $761,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,687,080** sobre $439,047,403 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,009** sobre $762,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 548 | 310 | 4 | 64% | $56,257,685 | +$450,652 |
-| Sassy-Bucket | 106 | 108 | 3 | 50% | $14,750,043 | -$1,737,018 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 548 | 311 | 3 | 64% | $56,257,685 | +$425,533 |
+| Sassy-Bucket | 107 | 108 | 2 | 50% | $14,750,043 | -$1,512,945 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 139 | 76 | 2 | 65% | $10,484,493 | +$515,321 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 120 | 65 | 1 | 65% | $8,091,683 | +$434,423 |
+| ferrariChampions2026 | 121 | 65 | 0 | 65% | $8,091,683 | +$476,505 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
-| TAIWANNUMBERONE | 54 | 24 | 1 | 69% | $2,967,168 | -$164,533 |
+| TAIWANNUMBERONE | 55 | 24 | 0 | 70% | $2,967,168 | -$157,294 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -73,26 +73,26 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 |---|---|---|---|---|---|---|
 | ethanaz | UTSA vs. Florida Atlantic | Florida Atlantic | 1.19 (84¢) | $25,205 | — | ⏳ Pendiente |
 | PerpsKing | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | PARIVISION | 3.45 (29¢) | $26,625 | — | ⏳ Pendiente |
-| Anon455 | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $34,400 | — | ⏳ Pendiente |
+| Anon455 | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
 | CUTJALENHURTS | Magic vs. Suns: O/U 224.5 | Over 224.5 | 1.89 (53¢) | $28,603 | — | ⏳ Pendiente |
-| Anon455 | Jaguars vs. Ravens | Jaguars | 1.25 (80¢) | $32,000 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Jaguars vs. Ravens | Jaguars | 1.22 (82¢) | $32,978 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $35,354 | — | ⏳ Pendiente |
+| Anon455 | Jaguars vs. Ravens | Jaguars | 1.25 (80¢) | $32,000 | +$8,000 | ✅ Ganada |
+| TAIWANNUMBERONE | Jaguars vs. Ravens | Jaguars | 1.22 (82¢) | $32,978 | +$7,239 | ✅ Ganada |
+| keeptheblueflagflyinghigh | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $35,354 | +$6,734 | ✅ Ganada |
 | jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.92 (52¢) | $25,096 | — | ⏳ Pendiente |
-| FlamePyro | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $67,940 | — | ⏳ Pendiente |
-| Anon455 | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $33,600 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Jaguars vs. Ravens | Jaguars | 1.23 (81¢) | $179,404 | — | ⏳ Pendiente |
-| Sassy-Bucket | Jaguars vs. Ravens | Jaguars | 1.28 (78¢) | $794,440 | — | ⏳ Pendiente |
+| FlamePyro | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $67,940 | +$11,060 | ✅ Ganada |
+| Anon455 | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $33,600 | +$6,400 | ✅ Ganada |
+| ferrariChampions2026 | Jaguars vs. Ravens | Jaguars | 1.23 (81¢) | $179,404 | +$42,082 | ✅ Ganada |
+| Sassy-Bucket | Jaguars vs. Ravens | Jaguars | 1.28 (78¢) | $794,440 | +$224,073 | ✅ Ganada |
 | ch27er | Heat vs. Warriors | Warriors | 1.61 (62¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoi | Magic vs. Suns | Suns | 1.92 (52¢) | $29,477 | — | ⏳ Pendiente |
-| BoggsFromShawshank | Jaguars vs. Ravens | Jaguars | 1.28 (78¢) | $53,352 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-9.5) | Ravens | 1.92 (52¢) | $25,119 | — | ⏳ Pendiente |
-| Sausesantana | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $77,759 | — | ⏳ Pendiente |
-| Multicoloured-Serf | James Madison vs. Southern Miss: O/U 57.5 | Under 57.5 | 2.13 (47¢) | $36,076 | — | ⏳ Pendiente |
+| BoggsFromShawshank | Jaguars vs. Ravens | Jaguars | 1.28 (78¢) | $53,352 | +$15,048 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-9.5) | Ravens | 1.92 (52¢) | $25,119 | -$25,119 | ❌ Perdida |
+| Sausesantana | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $77,759 | +$20,670 | ✅ Ganada |
+| Multicoloured-Serf | James Madison vs. Southern Miss: O/U 57.5 | Under 57.5 | 2.13 (47¢) | $36,076 | -$36,076 | ❌ Perdida |
 | S-Works | LoL: Dplus KIA vs Bilibili Gaming - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $53,500 | — | ⊘ Anulada |
-| Mastermoney | Jaguars vs. Ravens: O/U 40.5 | Over 40.5 | 2.04 (49¢) | $42,757 | — | ⏳ Pendiente |
-| hewhodoesit | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
+| Mastermoney | Jaguars vs. Ravens: O/U 40.5 | Over 40.5 | 2.04 (49¢) | $42,757 | +$44,502 | ✅ Ganada |
+| hewhodoesit | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $31,600 | +$8,400 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $41,562 | +$19,559 | ✅ Ganada |
 | S-Works | Blues vs. Devils | Devils | 1.49 (67¢) | $38,190 | +$18,810 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Dplus KIA | 2.13 (47¢) | $58,908 | -$58,908 | ❌ Perdida |
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $79,444 | +$37,385 | ✅ Ganada |
 | Sassy-Bucket | Blues vs. Devils | Blues | 3.03 (33¢) | $49,500 | -$49,500 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Bruins vs. Penguins | Penguins | 1.89 (53¢) | $72,662 | -$72,662 | ❌ Perdida |
-| g56gz56guzn547nu76 | Utah vs. Canadiens | Canadiens | 2.13 (47¢) | $32,517 | — | ⏳ Pendiente |
+| g56gz56guzn547nu76 | Utah vs. Canadiens | Canadiens | 2.13 (47¢) | $32,517 | +$36,668 | ✅ Ganada |
 | jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.82 (55¢) | $35,369 | +$28,938 | ✅ Ganada |
 | BrotherObama | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Dplus KIA | 2.00 (50¢) | $25,517 | -$25,517 | ❌ Perdida |
 | vtcchampion52 | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.85 (54¢) | $27,341 | +$23,290 | ✅ Ganada |
