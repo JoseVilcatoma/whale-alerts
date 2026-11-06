@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 16:59:01 (hora de Perú)
+Actualizado: 2026-11-06 17:01:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7789**  ($441,648,072 en total)
+- Apuestas registradas: **7790**  ($441,697,591 en total)
 - Resueltas: **7751** — 4730 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 15
-- Apostadores distintos: 700
+- Pendientes: 16
+- Apostadores distintos: 701
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 
-_(mostrando los 40 de mayor monto, de 700 en total)_
+_(mostrando los 40 de mayor monto, de 701 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Lanlanlanlan | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.20 (83¢) | $49,519 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 1.52 (66¢) | $99,000 | — | ⏳ Pendiente |
 | 473game | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $35,515 | — | ⏳ Pendiente |
 | 999585 | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $26,936 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | BrotherObama | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Dplus KIA | 2.00 (50¢) | $25,517 | -$25,517 | ❌ Perdida |
 | vtcchampion52 | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.85 (54¢) | $27,341 | +$23,290 | ✅ Ganada |
 | fhiwbijd | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Dplus KIA | 2.22 (45¢) | $29,866 | -$29,866 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.37 (73¢) | $146,000 | +$54,000 | ✅ Ganada |
