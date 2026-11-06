@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 00:03:29 (hora de Perú)
+Actualizado: 2026-11-06 00:05:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7771**  ($440,678,994 en total)
+- Apuestas registradas: **7771**  ($440,728,999 en total)
 - Resueltas: **7740** — 4723 ganadas / 3017 perdidas (**61%** de acierto)
 - Pendientes: 8
 - Apostadores distintos: 700
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| keeptheblueflagflyinghigh | Heat vs. Warriors | Warriors | 1.09 (92¢) | $51,628 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Heat vs. Warriors | Warriors | 1.09 (92¢) | $101,633 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $38,052 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Game Handicap: T1 (-1.5) vs Karmine Corp (+1.5) | T1 | 1.54 (65¢) | $63,254 | — | ⏳ Pendiente |
 | ethanaz | UTSA vs. Florida Atlantic | Florida Atlantic | 1.19 (84¢) | $25,205 | +$4,801 | ✅ Ganada |
