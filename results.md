@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 20:24:59 (hora de Perú)
+Actualizado: 2026-11-05 20:27:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7758**  ($440,164,859 en total)
-- Resueltas: **7697** — 4694 ganadas / 3003 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Apuestas registradas: **7759**  ($440,232,799 en total)
+- Resueltas: **7702** — 4697 ganadas / 3005 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 700
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,619,658** sobre $436,312,151 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,869** sobre $759,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,915,153** sobre $436,811,920 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,810** sobre $759,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 547 | 309 | 6 | 64% | $56,257,685 | +$455,560 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 547 | 310 | 5 | 64% | $56,257,685 | +$396,652 |
 | Sassy-Bucket | 106 | 107 | 4 | 50% | $14,750,043 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 139 | 76 | 0 | 65% | $10,406,397 | +$515,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FlamePyro | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $67,940 | — | ⏳ Pendiente |
 | Anon455 | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $33,600 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Jaguars vs. Ravens | Jaguars | 1.23 (81¢) | $179,404 | — | ⏳ Pendiente |
 | Sassy-Bucket | Jaguars vs. Ravens | Jaguars | 1.28 (78¢) | $794,440 | — | ⏳ Pendiente |
@@ -85,11 +86,11 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | hewhodoesit | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $41,562 | — | ⏳ Pendiente |
 | S-Works | Blues vs. Devils | Devils | 1.49 (67¢) | $38,190 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Dplus KIA | 2.13 (47¢) | $58,908 | — | ⏳ Pendiente |
-| VPenguin | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.89 (53¢) | $55,265 | — | ⏳ Pendiente |
-| fkALG2FalconsTES | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Dplus KIA | 2.13 (47¢) | $331,596 | — | ⏳ Pendiente |
-| zb8 | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Dplus KIA | 2.13 (47¢) | $58,908 | -$58,908 | ❌ Perdida |
+| VPenguin | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.89 (53¢) | $55,265 | +$49,008 | ✅ Ganada |
+| fkALG2FalconsTES | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
+| Thunderous-Authoritarian-Snarl | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Dplus KIA | 2.13 (47¢) | $331,596 | -$331,596 | ❌ Perdida |
+| zb8 | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | NS13 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.11 (90¢) | $45,724 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $79,444 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blues vs. Devils | Blues | 3.03 (33¢) | $49,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | mooseborzoi | Stars vs. Blue Jackets | Stars | 1.82 (55¢) | $26,240 | — | ⏳ Pendiente |
 | mooseborzoi | Magic vs. Suns | Magic | 2.08 (48¢) | $73,430 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Spread: Bayer 04 Leverkusen (-1.5) | Bayer 04 Leverkusen | 1.85 (54¢) | $33,082 | -$33,082 | ❌ Perdida |
-| Marcoli | Luanda: Anna Blinkova vs Zongyu Li | Anna Blinkova | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |

@@ -116325,7 +116325,7 @@
     "side": "BUY",
     "usd": 27000.0,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793923202,
     "fills": 1
   },
@@ -116340,7 +116340,7 @@
     "side": "BUY",
     "usd": 331595.923,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793923319,
     "fills": 8
   },
@@ -116355,7 +116355,7 @@
     "side": "BUY",
     "usd": 27000.0,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793923240,
     "fills": 1
   },
@@ -116370,7 +116370,7 @@
     "side": "BUY",
     "usd": 55264.89140000001,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1793923257,
     "fills": 1
   },
@@ -116385,7 +116385,7 @@
     "side": "BUY",
     "usd": 58907.837351,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1793923298,
     "fills": 1
   },
@@ -116598,6 +116598,21 @@
     "odds_at_bet": 84,
     "status": "pending",
     "ultimo_fill": 1793928127,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15705,
+    "timestamp": 1793928427,
+    "username": "FlamePyro",
+    "wallet": "0x613bfbb81d9e5398bff208da4ae848e7a73e823a",
+    "slug": "nfl-jax-bal-2026-11-06",
+    "title": "Jaguars vs. Ravens",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 67940.0,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1793928427,
     "fills": 1
   }
 ]
