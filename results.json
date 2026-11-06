@@ -116929,5 +116929,20 @@
     "status": "pending",
     "ultimo_fill": 1793978246,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15777,
+    "timestamp": 1793980251,
+    "username": "fantasy7788",
+    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+    "slug": "lol-kc-t1-2026-11-04-game-handicap-home-2pt5",
+    "title": "Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5)",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 74601.99999999999,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1793980251,
+    "fills": 1
   }
 ]
