@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 20:10:24 (hora de Perú)
+Actualizado: 2026-11-05 20:12:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7754**  ($439,132,416 en total)
+- Apuestas registradas: **7755**  ($439,157,416 en total)
 - Resueltas: **7693** — 4692 ganadas / 3001 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 700
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ch27er | Heat vs. Warriors | Warriors | 1.61 (62¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoi | Magic vs. Suns | Suns | 1.92 (52¢) | $29,477 | — | ⏳ Pendiente |
 | BoggsFromShawshank | Jaguars vs. Ravens | Jaguars | 1.28 (78¢) | $53,352 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-9.5) | Ravens | 1.92 (52¢) | $25,119 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Heat vs. Clippers | Clippers | 1.23 (81¢) | $40,149 | -$40,149 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Heat vs. Clippers | Clippers | 1.47 (68¢) | $38,154 | -$38,154 | ❌ Perdida |
 | TAIWANNUMBERONE | Ball State vs. UMass | UMass | 1.33 (75¢) | $44,977 | +$14,992 | ✅ Ganada |
-| jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.20 (83¢) | $25,015 | +$5,123 | ✅ Ganada |
