@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 18:53:55 (hora de Perú)
+Actualizado: 2026-11-06 18:55:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7807**  ($442,710,193 en total)
+- Apuestas registradas: **7809**  ($442,802,227 en total)
 - Resueltas: **7757** — 4736 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 29
 - Apostadores distintos: 702
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 549 | 311 | 6 | 64% | $56,826,890 | +$475,022 |
 | Sassy-Bucket | 107 | 108 | 2 | 50% | $14,750,043 | -$1,512,945 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 141 | 76 | 1 | 65% | $10,547,747 | +$585,487 |
+| Lakersfan111 | 141 | 76 | 2 | 65% | $10,589,571 | +$585,487 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 121 | 65 | 1 | 65% | $8,124,979 | +$476,505 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Celtics vs. Hornets | Celtics | 1.25 (80¢) | $41,824 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Wizards vs. Hawks | Hawks | 1.39 (72¢) | $50,209 | — | ⏳ Pendiente |
 | EdZachary | Spread: SMU (-5.5) | SMU | 1.96 (51¢) | $39,527 | — | ⏳ Pendiente |
 | spx11 | Raptors vs. Bucks | Bucks | 2.56 (39¢) | $30,114 | — | ⏳ Pendiente |
 | CUTJALENHURTS | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.08 (93¢) | $35,491 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-9.5) | Ravens | 1.92 (52¢) | $25,119 | -$25,119 | ❌ Perdida |
 | Sausesantana | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $77,759 | +$20,670 | ✅ Ganada |
 | Multicoloured-Serf | James Madison vs. Southern Miss: O/U 57.5 | Under 57.5 | 2.13 (47¢) | $36,076 | -$36,076 | ❌ Perdida |
-| S-Works | LoL: Dplus KIA vs Bilibili Gaming - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $53,500 | — | ⊘ Anulada |
-| Mastermoney | Jaguars vs. Ravens: O/U 40.5 | Over 40.5 | 2.04 (49¢) | $42,757 | +$44,502 | ✅ Ganada |

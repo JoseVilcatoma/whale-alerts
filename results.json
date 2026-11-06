@@ -117336,5 +117336,35 @@
     "status": "pending",
     "ultimo_fill": 1794009151,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15812,
+    "timestamp": 1794009237,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nba-was-atl-2026-11-06",
+    "title": "Wizards vs. Hawks",
+    "outcome": "Hawks",
+    "side": "BUY",
+    "usd": 50209.430400000005,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1794009237,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15813,
+    "timestamp": 1794009250,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-bos-cha-2026-11-06",
+    "title": "Celtics vs. Hornets",
+    "outcome": "Celtics",
+    "side": "BUY",
+    "usd": 41824.128000000004,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1794009250,
+    "fills": 1
   }
 ]
