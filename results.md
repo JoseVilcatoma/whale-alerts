@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 18:58:15 (hora de Perú)
+Actualizado: 2026-11-05 19:00:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7738**  ($438,157,530 en total)
+- Apuestas registradas: **7740**  ($438,230,254 en total)
 - Resueltas: **7682** — 4687 ganadas / 2995 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 36
 - Apostadores distintos: 699
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| zb8 | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
+| NS13 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.11 (90¢) | $45,724 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $79,444 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blues vs. Devils | Blues | 3.03 (33¢) | $49,500 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Bruins vs. Penguins | Penguins | 1.89 (53¢) | $72,662 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.43 (70¢) | $42,297 | +$18,127 | ✅ Ganada |
 | mooseborzoi | Cavaliers vs. Thunder | Cavaliers | 2.44 (41¢) | $26,825 | -$26,825 | ❌ Perdida |
 | mooseborzoi | Spread: Thunder (-3.5) | Cavaliers | 1.92 (52¢) | $115,134 | -$115,134 | ❌ Perdida |
-| ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.45 (69¢) | $27,273 | +$12,253 | ✅ Ganada |
-| TAIWANNUMBERONE | Central Michigan vs. Eastern Michigan | Central Michigan | 1.47 (68¢) | $30,515 | +$14,360 | ✅ Ganada |

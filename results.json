@@ -116298,5 +116298,35 @@
     "status": "pending",
     "ultimo_fill": 1793922988,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 15665,
+    "timestamp": 1793923185,
+    "username": "NS13",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "lol-dk-blg-2026-11-03",
+    "title": "LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 45723.726,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1793923185,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15666,
+    "timestamp": 1793923202,
+    "username": "zb8",
+    "wallet": "0x0224bb9eb0a5c9fd261ac9123a72cbdd5748292a",
+    "slug": "lol-dk-blg-2026-11-03-game3",
+    "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 27000.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1793923202,
+    "fills": 1
   }
 ]
