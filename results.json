@@ -116568,5 +116568,20 @@
     "status": "pending",
     "ultimo_fill": 1793927710,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 15694,
+    "timestamp": 1793927916,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-jax-bal-2026-11-06",
+    "title": "Jaguars vs. Ravens",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 179403.741,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1793927916,
+    "fills": 1
   }
 ]
