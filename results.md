@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 05:32:48 (hora de Perú)
+Actualizado: 2026-11-06 07:41:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7776**  ($440,952,907 en total)
-- Resueltas: **7746** — 4727 ganadas / 3019 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **7747** — 4728 ganadas / 3019 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 700
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,517,190** sobre $439,656,515 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,670** sobre $764,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,485,615** sobre $439,700,118 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,598** sobre $764,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | lllllllIlll | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | FURIA | 1.54 (65¢) | $50,111 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | PARIVISION | 1.69 (59¢) | $27,730 | -$27,730 | ❌ Perdida |
 | NS13 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.44 (41¢) | $73,660 | +$105,999 | ✅ Ganada |
-| fantasy7788 | Map Handicap: NAVI (-1.5) vs PARIVISION (+1.5) | PARIVISION | 1.72 (58¢) | $43,603 | — | ⏳ Pendiente |
+| fantasy7788 | Map Handicap: NAVI (-1.5) vs PARIVISION (+1.5) | PARIVISION | 1.72 (58¢) | $43,603 | +$31,575 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Heat vs. Warriors | Warriors | 1.09 (92¢) | $101,633 | +$8,838 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $38,052 | +$15,542 | ✅ Ganada |
 | jakepaulthegoat2008 | Game Handicap: T1 (-1.5) vs Karmine Corp (+1.5) | T1 | 1.54 (65¢) | $63,254 | — | ⏳ Pendiente |
