@@ -116433,5 +116433,20 @@
     "status": "pending",
     "ultimo_fill": 1793923445,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15675,
+    "timestamp": 1793924564,
+    "username": "Mastermoney",
+    "wallet": "0xbe23032d56a012c531b372c7739bc1dbd4dfb587",
+    "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
+    "title": "Jaguars vs. Ravens: O/U 40.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 42757.2258,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1793924564,
+    "fills": 1
   }
 ]

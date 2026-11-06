@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 19:21:04 (hora de Perú)
+Actualizado: 2026-11-05 19:23:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7747**  ($438,814,375 en total)
+- Apuestas registradas: **7748**  ($438,857,132 en total)
 - Resueltas: **7683** — 4687 ganadas / 2996 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 699
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mastermoney | Jaguars vs. Ravens: O/U 40.5 | Over 40.5 | 2.04 (49¢) | $42,757 | — | ⏳ Pendiente |
 | hewhodoesit | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $41,562 | — | ⏳ Pendiente |
 | S-Works | Blues vs. Devils | Devils | 1.49 (67¢) | $38,190 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | jakepaulthegoat2008 | Raptors vs. Nuggets | Raptors | 2.70 (37¢) | $37,000 | -$37,000 | ❌ Perdida |
 | ethanaz | Toledo vs. Sacramento State | Toledo | 1.28 (78¢) | $40,422 | +$11,401 | ✅ Ganada |
 | 3648393489047 | Toledo vs. Sacramento State | Toledo | 1.33 (75¢) | $27,622 | +$9,208 | ✅ Ganada |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Ball State vs. UMass | Ball State | 2.86 (35¢) | $40,526 | -$40,526 | ❌ Perdida |
