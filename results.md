@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 21:57:37 (hora de Perú)
+Actualizado: 2026-11-05 21:59:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7767**  ($440,500,855 en total)
-- Resueltas: **7711** — 4701 ganadas / 3010 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **7713** — 4703 ganadas / 3010 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 700
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,037,025** sobre $437,277,821 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,120** sobre $760,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,980,081** sobre $437,398,827 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,026** sobre $760,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | S-Works | LoL: Dplus KIA vs Bilibili Gaming - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $53,500 | — | ⊘ Anulada |
 | Mastermoney | Jaguars vs. Ravens: O/U 40.5 | Over 40.5 | 2.04 (49¢) | $42,757 | — | ⏳ Pendiente |
 | hewhodoesit | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $41,562 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $41,562 | +$19,559 | ✅ Ganada |
 | S-Works | Blues vs. Devils | Devils | 1.49 (67¢) | $38,190 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Dplus KIA | 2.13 (47¢) | $58,908 | -$58,908 | ❌ Perdida |
 | VPenguin | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.89 (53¢) | $55,265 | +$49,008 | ✅ Ganada |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | Thunderous-Authoritarian-Snarl | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Dplus KIA | 2.13 (47¢) | $331,596 | -$331,596 | ❌ Perdida |
 | zb8 | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | NS13 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.11 (90¢) | $45,724 | +$5,080 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $79,444 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $79,444 | +$37,385 | ✅ Ganada |
 | Sassy-Bucket | Blues vs. Devils | Blues | 3.03 (33¢) | $49,500 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Bruins vs. Penguins | Penguins | 1.89 (53¢) | $72,662 | -$72,662 | ❌ Perdida |
 | g56gz56guzn547nu76 | Utah vs. Canadiens | Canadiens | 2.13 (47¢) | $32,517 | — | ⏳ Pendiente |
