@@ -116869,5 +116869,20 @@
     "status": "pending",
     "ultimo_fill": 1793961010,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15770,
+    "timestamp": 1793969956,
+    "username": "tennischamp",
+    "wallet": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+    "slug": "wta-ruzic-eala-2026-11-06",
+    "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 30867.6732,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1793969956,
+    "fills": 1
   }
 ]
