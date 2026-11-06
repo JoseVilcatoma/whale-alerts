@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 00:56:59 (hora de Perú)
+Actualizado: 2026-11-06 00:59:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7771**  ($440,728,999 en total)
-- Resueltas: **7740** — 4723 ganadas / 3017 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **7742** — 4725 ganadas / 3017 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 700
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,608,536** sobre $439,363,815 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,725** sobre $763,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,584,375** sobre $439,490,448 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,655** sobre $763,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| keeptheblueflagflyinghigh | Heat vs. Warriors | Warriors | 1.09 (92¢) | $101,633 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Heat vs. Warriors | Warriors | 1.09 (92¢) | $101,633 | +$8,838 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $38,052 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Game Handicap: T1 (-1.5) vs Karmine Corp (+1.5) | T1 | 1.54 (65¢) | $63,254 | — | ⏳ Pendiente |
 | ethanaz | UTSA vs. Florida Atlantic | Florida Atlantic | 1.19 (84¢) | $25,205 | +$4,801 | ✅ Ganada |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | Anon455 | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $33,600 | +$6,400 | ✅ Ganada |
 | ferrariChampions2026 | Jaguars vs. Ravens | Jaguars | 1.23 (81¢) | $179,404 | +$42,082 | ✅ Ganada |
 | Sassy-Bucket | Jaguars vs. Ravens | Jaguars | 1.28 (78¢) | $794,440 | +$224,073 | ✅ Ganada |
-| ch27er | Heat vs. Warriors | Warriors | 1.61 (62¢) | $25,000 | — | ⏳ Pendiente |
+| ch27er | Heat vs. Warriors | Warriors | 1.61 (62¢) | $25,000 | +$15,323 | ✅ Ganada |
 | mooseborzoi | Magic vs. Suns | Suns | 1.92 (52¢) | $29,477 | +$27,210 | ✅ Ganada |
 | BoggsFromShawshank | Jaguars vs. Ravens | Jaguars | 1.28 (78¢) | $53,352 | +$15,048 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-9.5) | Ravens | 1.92 (52¢) | $25,119 | -$25,119 | ❌ Perdida |
