@@ -1,6 +1,6 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 20:22:54 (hora de Perú)
+Actualizado: 2026-11-05 20:24:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
@@ -8,7 +8,7 @@ Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 - Apuestas registradas: **7758**  ($440,164,859 en total)
 - Resueltas: **7697** — 4694 ganadas / 3003 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 38
 - Apostadores distintos: 700
 
 ### Balance
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-9.5) | Ravens | 1.92 (52¢) | $25,119 | — | ⏳ Pendiente |
 | Sausesantana | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $77,759 | — | ⏳ Pendiente |
 | Multicoloured-Serf | James Madison vs. Southern Miss: O/U 57.5 | Under 57.5 | 2.13 (47¢) | $36,076 | — | ⏳ Pendiente |
-| S-Works | LoL: Dplus KIA vs Bilibili Gaming - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $53,500 | — | ⏳ Pendiente |
+| S-Works | LoL: Dplus KIA vs Bilibili Gaming - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $53,500 | — | ⊘ Anulada |
 | Mastermoney | Jaguars vs. Ravens: O/U 40.5 | Over 40.5 | 2.04 (49¢) | $42,757 | — | ⏳ Pendiente |
 | hewhodoesit | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $41,562 | — | ⏳ Pendiente |
