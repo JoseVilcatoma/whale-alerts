@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 08:13:30 (hora de Perú)
+Actualizado: 2026-11-06 08:15:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7777**  ($440,983,774 en total)
+- Apuestas registradas: **7778**  ($441,041,774 en total)
 - Resueltas: **7747** — 4728 ganadas / 3019 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 700
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | BetBoom Team | 2.38 (42¢) | $58,000 | — | ⏳ Pendiente |
 | tennischamp | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala | Alexandra Eala | 1.19 (84¢) | $30,868 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | FURIA | 1.52 (66¢) | $28,803 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | FURIA | 1.54 (65¢) | $50,111 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | fhiwbijd | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.13 (47¢) | $27,603 | -$27,603 | ❌ Perdida |
 | BrotherObama | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
 | jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.22 (45¢) | $27,346 | -$27,346 | ❌ Perdida |
-| OhWhenTheReds | Spread: SE Palmeiras (-1.5) | Clube do Remo | 2.13 (47¢) | $26,064 | -$26,064 | ❌ Perdida |
