@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 20:27:08 (hora de Perú)
+Actualizado: 2026-11-05 20:29:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7759**  ($440,232,799 en total)
-- Resueltas: **7702** — 4697 ganadas / 3005 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **7709** — 4701 ganadas / 3008 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 700
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,915,153** sobre $436,811,920 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,810** sobre $759,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,938,300** sobre $437,179,096 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,920** sobre $760,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 547 | 310 | 5 | 64% | $56,257,685 | +$396,652 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 548 | 310 | 4 | 64% | $56,257,685 | +$450,652 |
 | Sassy-Bucket | 106 | 107 | 4 | 50% | $14,750,043 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 139 | 76 | 0 | 65% | $10,406,397 | +$515,321 |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
-| TAIWANNUMBERONE | 53 | 24 | 1 | 69% | $2,934,190 | -$183,199 |
+| TAIWANNUMBERONE | 54 | 24 | 0 | 69% | $2,934,190 | -$164,533 |
 | S-Works | 20 | 7 | 2 | 74% | $2,799,399 | -$154,779 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | fkALG2FalconsTES | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Dplus KIA | 2.13 (47¢) | $331,596 | -$331,596 | ❌ Perdida |
 | zb8 | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
-| NS13 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.11 (90¢) | $45,724 | — | ⏳ Pendiente |
+| NS13 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.11 (90¢) | $45,724 | +$5,080 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $79,444 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blues vs. Devils | Blues | 3.03 (33¢) | $49,500 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Bruins vs. Penguins | Penguins | 1.89 (53¢) | $72,662 | — | ⏳ Pendiente |
@@ -100,8 +100,8 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | BrotherObama | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Dplus KIA | 2.00 (50¢) | $25,517 | -$25,517 | ❌ Perdida |
 | vtcchampion52 | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.85 (54¢) | $27,341 | +$23,290 | ✅ Ganada |
 | fhiwbijd | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Dplus KIA | 2.22 (45¢) | $29,866 | -$29,866 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.37 (73¢) | $146,000 | — | ⏳ Pendiente |
-| fhiwbijd | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Dplus KIA | 3.85 (26¢) | $34,295 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.37 (73¢) | $146,000 | +$54,000 | ✅ Ganada |
+| fhiwbijd | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Dplus KIA | 3.85 (26¢) | $34,295 | -$34,295 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.04 (49¢) | $34,300 | +$35,700 | ✅ Ganada |
 | Netrol | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.00 (50¢) | $25,641 | +$25,641 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
@@ -114,14 +114,14 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.22 (45¢) | $27,346 | -$27,346 | ❌ Perdida |
 | OhWhenTheReds | Spread: SE Palmeiras (-1.5) | Clube do Remo | 2.13 (47¢) | $26,064 | — | ⏳ Pendiente |
 | juice-fruit | Rolex Paris Masters: Arthur Fils vs Taylor Fritz | Arthur Fils | 1.96 (51¢) | $83,417 | -$83,417 | ❌ Perdida |
-| Zzzz87 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Dplus KIA | 2.38 (42¢) | $46,710 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.72 (58¢) | $25,778 | — | ⏳ Pendiente |
+| Zzzz87 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Dplus KIA | 2.38 (42¢) | $46,710 | -$46,710 | ❌ Perdida |
+| TAIWANNUMBERONE | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.72 (58¢) | $25,778 | +$18,666 | ✅ Ganada |
 | Dessssa | Blues vs. Devils | Blues | 3.12 (32¢) | $25,351 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Magic vs. Suns | Suns | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | RJW1 | Magic vs. Suns | Suns | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
-| 473game | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.69 (59¢) | $28,780 | — | ⏳ Pendiente |
+| 473game | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.69 (59¢) | $28,780 | +$20,000 | ✅ Ganada |
 | nb1985 | Will RSC Anderlecht win on 2026-11-05? | Yes | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
-| lalalalalalallalalalala | Game Handicap: DK (-1.5) vs Bilibili Gaming (+1.5) | Dplus KIA | 3.70 (27¢) | $39,889 | — | ⏳ Pendiente |
+| lalalalalalallalalalala | Game Handicap: DK (-1.5) vs Bilibili Gaming (+1.5) | Dplus KIA | 3.70 (27¢) | $39,889 | -$39,889 | ❌ Perdida |
 | 1l2ihj34li12u34 | Will AFC Ajax win on 2026-11-05? | No | 1.69 (59¢) | $65,483 | -$65,483 | ❌ Perdida |
 | 0xce81…9820 | Will FC Midtjylland win on 2026-11-05? | No | 1.54 (65¢) | $50,000 | +$26,923 | ✅ Ganada |
 | Kyn008 | Will AFC Ajax win on 2026-11-05? | Yes | 2.44 (41¢) | $27,614 | +$39,737 | ✅ Ganada |
