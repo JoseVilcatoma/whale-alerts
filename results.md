@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 20:59:59 (hora de Perú)
+Actualizado: 2026-11-05 21:02:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7760**  ($440,257,896 en total)
+- Apuestas registradas: **7761**  ($440,310,896 en total)
 - Resueltas: **7709** — 4701 ganadas / 3008 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 700
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 548 | 310 | 4 | 64% | $56,257,685 | +$450,652 |
 | Sassy-Bucket | 106 | 107 | 4 | 50% | $14,750,043 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 139 | 76 | 1 | 65% | $10,431,493 | +$515,321 |
+| Lakersfan111 | 139 | 76 | 2 | 65% | $10,484,493 | +$515,321 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 120 | 65 | 1 | 65% | $8,091,683 | +$434,423 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.92 (52¢) | $25,096 | — | ⏳ Pendiente |
 | FlamePyro | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $67,940 | — | ⏳ Pendiente |
 | Anon455 | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $33,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | Marcoli | Rolex Paris Masters: Rinky Hijikata vs Tomas Etcheverry | Rinky Hijikata | 1.06 (94¢) | $70,000 | +$4,468 | ✅ Ganada |
 | juice-fruit | FK Crvena zvezda vs. Inter Club d'Escaldes: O/U 3.5 | Over 3.5 | 1.72 (58¢) | $28,527 | -$28,527 | ❌ Perdida |
 | mooseborzoi | Stars vs. Blue Jackets | Stars | 1.82 (55¢) | $26,240 | — | ⏳ Pendiente |
-| mooseborzoi | Magic vs. Suns | Magic | 2.08 (48¢) | $73,430 | — | ⏳ Pendiente |
