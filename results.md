@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 08:23:40 (hora de Perú)
+Actualizado: 2026-11-06 08:25:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7778**  ($441,041,774 en total)
+- Apuestas registradas: **7779**  ($441,116,842 en total)
 - Resueltas: **7747** — 4728 ganadas / 3019 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 700
 
 ### Balance
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | juice-fruit | 26 | 17 | 0 | 60% | $2,482,993 | +$219,112 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
+| 999585 | 20 | 1 | 1 | 95% | $2,365,299 | +$98,953 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| 999585 | 20 | 1 | 0 | 95% | $2,290,231 | +$98,953 |
 
 _(mostrando los 40 de mayor monto, de 700 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Will Wolfsberger AC win on 2026-11-06? | No | 1.06 (94¢) | $75,068 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | BetBoom Team | 2.38 (42¢) | $58,000 | — | ⏳ Pendiente |
 | tennischamp | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala | Alexandra Eala | 1.19 (84¢) | $30,868 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | FURIA | 1.52 (66¢) | $28,803 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | S-Works | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | fhiwbijd | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.13 (47¢) | $27,603 | -$27,603 | ❌ Perdida |
 | BrotherObama | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
-| jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.22 (45¢) | $27,346 | -$27,346 | ❌ Perdida |
