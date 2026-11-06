@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 18:18:55 (hora de Perú)
+Actualizado: 2026-11-06 18:20:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7804**  ($442,605,062 en total)
+- Apuestas registradas: **7805**  ($442,640,552 en total)
 - Resueltas: **7757** — 4736 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 702
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CUTJALENHURTS | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.08 (93¢) | $35,491 | — | ⏳ Pendiente |
 | arjennnnn | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.09 (92¢) | $36,473 | — | ⏳ Pendiente |
 | KateBollinger | LoL: Karmine Corp vs T1 - Game 2 Winner | T1 | 1.45 (69¢) | $41,389 | — | ⏳ Pendiente |
 | vtcchampion52 | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 2.08 (48¢) | $30,259 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | Mastermoney | Jaguars vs. Ravens: O/U 40.5 | Over 40.5 | 2.04 (49¢) | $42,757 | +$44,502 | ✅ Ganada |
 | hewhodoesit | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $31,600 | +$8,400 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $41,562 | +$19,559 | ✅ Ganada |
-| S-Works | Blues vs. Devils | Devils | 1.49 (67¢) | $38,190 | +$18,810 | ✅ Ganada |

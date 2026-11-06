@@ -117291,5 +117291,20 @@
     "status": "pending",
     "ultimo_fill": 1794006988,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15809,
+    "timestamp": 1794007160,
+    "username": "CUTJALENHURTS",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "lol-kc-t1-2026-11-04",
+    "title": "LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 35490.6321,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1794007160,
+    "fills": 1
   }
 ]
