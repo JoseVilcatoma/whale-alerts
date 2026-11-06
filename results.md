@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 23:45:07 (hora de Perú)
+Actualizado: 2026-11-05 23:47:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7768**  ($440,526,061 en total)
+- Apuestas registradas: **7769**  ($440,589,314 en total)
 - Resueltas: **7739** — 4722 ganadas / 3017 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 700
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 548 | 311 | 3 | 64% | $56,257,685 | +$425,533 |
 | Sassy-Bucket | 107 | 108 | 2 | 50% | $14,750,043 | -$1,512,945 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 141 | 76 | 0 | 65% | $10,484,493 | +$585,487 |
+| Lakersfan111 | 141 | 76 | 1 | 65% | $10,547,747 | +$585,487 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 121 | 65 | 0 | 65% | $8,091,683 | +$476,505 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Game Handicap: T1 (-1.5) vs Karmine Corp (+1.5) | T1 | 1.54 (65¢) | $63,254 | — | ⏳ Pendiente |
 | ethanaz | UTSA vs. Florida Atlantic | Florida Atlantic | 1.19 (84¢) | $25,205 | — | ⏳ Pendiente |
 | PerpsKing | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | PARIVISION | 3.45 (29¢) | $26,625 | — | ⏳ Pendiente |
 | Anon455 | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | RJW1 | Magic vs. Suns | Suns | 1.96 (51¢) | $51,000 | +$49,000 | ✅ Ganada |
 | 473game | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.69 (59¢) | $28,780 | +$20,000 | ✅ Ganada |
 | nb1985 | Will RSC Anderlecht win on 2026-11-05? | Yes | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
-| lalalalalalallalalalala | Game Handicap: DK (-1.5) vs Bilibili Gaming (+1.5) | Dplus KIA | 3.70 (27¢) | $39,889 | -$39,889 | ❌ Perdida |
