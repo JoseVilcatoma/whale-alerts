@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 20:18:44 (hora de Perú)
+Actualizado: 2026-11-05 20:20:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7757**  ($440,131,259 en total)
-- Resueltas: **7693** — 4692 ganadas / 3001 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Resueltas: **7697** — 4694 ganadas / 3003 perdidas (**61%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 700
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,616,503** sobre $436,194,059 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,836** sobre $758,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,619,658** sobre $436,312,151 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,869** sobre $759,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 547 | 309 | 6 | 64% | $56,257,685 | +$455,560 |
 | Sassy-Bucket | 106 | 107 | 4 | 50% | $14,750,043 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 138 | 76 | 1 | 64% | $10,406,397 | +$486,383 |
+| Lakersfan111 | 139 | 76 | 0 | 65% | $10,406,397 | +$515,321 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 120 | 65 | 1 | 65% | $8,091,683 | +$434,423 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
-| BrotherObama | 51 | 56 | 3 | 48% | $4,709,553 | -$172,283 |
+| BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -94,10 +94,10 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | Sassy-Bucket | Blues vs. Devils | Blues | 3.03 (33¢) | $49,500 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Bruins vs. Penguins | Penguins | 1.89 (53¢) | $72,662 | — | ⏳ Pendiente |
 | g56gz56guzn547nu76 | Utah vs. Canadiens | Canadiens | 2.13 (47¢) | $32,517 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.82 (55¢) | $35,369 | — | ⏳ Pendiente |
-| BrotherObama | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Dplus KIA | 2.00 (50¢) | $25,517 | — | ⏳ Pendiente |
-| vtcchampion52 | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.85 (54¢) | $27,341 | — | ⏳ Pendiente |
-| fhiwbijd | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Dplus KIA | 2.22 (45¢) | $29,866 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.82 (55¢) | $35,369 | +$28,938 | ✅ Ganada |
+| BrotherObama | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Dplus KIA | 2.00 (50¢) | $25,517 | -$25,517 | ❌ Perdida |
+| vtcchampion52 | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.85 (54¢) | $27,341 | +$23,290 | ✅ Ganada |
+| fhiwbijd | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Dplus KIA | 2.22 (45¢) | $29,866 | -$29,866 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.37 (73¢) | $146,000 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Dplus KIA | 3.85 (26¢) | $34,295 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.04 (49¢) | $34,300 | +$35,700 | ✅ Ganada |
