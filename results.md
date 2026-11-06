@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 21:49:23 (hora de Perú)
+Actualizado: 2026-11-05 21:51:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7767**  ($440,500,855 en total)
-- Resueltas: **7710** — 4701 ganadas / 3009 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **7711** — 4701 ganadas / 3010 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 700
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,964,364** sobre $437,205,159 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,020** sobre $760,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$4,037,025** sobre $437,277,821 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,120** sobre $760,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | NS13 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.11 (90¢) | $45,724 | +$5,080 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $79,444 | — | ⏳ Pendiente |
 | Sassy-Bucket | Blues vs. Devils | Blues | 3.03 (33¢) | $49,500 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Bruins vs. Penguins | Penguins | 1.89 (53¢) | $72,662 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Bruins vs. Penguins | Penguins | 1.89 (53¢) | $72,662 | -$72,662 | ❌ Perdida |
 | g56gz56guzn547nu76 | Utah vs. Canadiens | Canadiens | 2.13 (47¢) | $32,517 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.82 (55¢) | $35,369 | +$28,938 | ✅ Ganada |
 | BrotherObama | LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner | Dplus KIA | 2.00 (50¢) | $25,517 | -$25,517 | ❌ Perdida |
