@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 09:44:47 (hora de Perú)
+Actualizado: 2026-11-06 09:46:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7779**  ($441,116,842 en total)
-- Resueltas: **7747** — 4728 ganadas / 3019 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **7750** — 4729 ganadas / 3021 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 700
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,485,615** sobre $439,700,118 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,598** sobre $764,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,484,434** sobre $439,837,033 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,660** sobre $764,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,10 +72,10 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 999585 | Will Wolfsberger AC win on 2026-11-06? | No | 1.06 (94¢) | $75,068 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | BetBoom Team | 2.38 (42¢) | $58,000 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | BetBoom Team | 2.38 (42¢) | $58,000 | +$80,095 | ✅ Ganada |
 | tennischamp | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala | Alexandra Eala | 1.19 (84¢) | $30,868 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | FURIA | 1.52 (66¢) | $28,803 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | FURIA | 1.54 (65¢) | $50,111 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | FURIA | 1.52 (66¢) | $28,803 | -$28,803 | ❌ Perdida |
+| lllllllIlll | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | FURIA | 1.54 (65¢) | $50,111 | -$50,111 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | PARIVISION | 1.69 (59¢) | $27,730 | -$27,730 | ❌ Perdida |
 | NS13 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.44 (41¢) | $73,660 | +$105,999 | ✅ Ganada |
 | fantasy7788 | Map Handicap: NAVI (-1.5) vs PARIVISION (+1.5) | PARIVISION | 1.72 (58¢) | $43,603 | +$31,575 | ✅ Ganada |
