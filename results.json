@@ -116478,5 +116478,35 @@
     "status": "pending",
     "ultimo_fill": 1793925363,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15678,
+    "timestamp": 1793925872,
+    "username": "Sausesantana",
+    "wallet": "0x561e3d3da1b48d675a83f6c9637c538ae3275c0c",
+    "slug": "nfl-jax-bal-2026-11-06",
+    "title": "Jaguars vs. Ravens",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 77759.409998,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1793925872,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15679,
+    "timestamp": 1793925933,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-jax-bal-2026-11-06-spread-away-9pt5",
+    "title": "Spread: Jaguars (-9.5)",
+    "outcome": "Ravens",
+    "side": "BUY",
+    "usd": 25119.2084,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1793925933,
+    "fills": 1
   }
 ]

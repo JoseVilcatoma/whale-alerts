@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 19:43:50 (hora de Perú)
+Actualizado: 2026-11-05 19:45:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7750**  ($438,946,708 en total)
+- Apuestas registradas: **7752**  ($439,049,586 en total)
 - Resueltas: **7683** — 4687 ganadas / 2996 perdidas (**61%** de acierto)
-- Pendientes: 45
-- Apostadores distintos: 699
+- Pendientes: 47
+- Apostadores distintos: 700
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 546 | 308 | 7 | 64% | $56,232,565 | +$444,860 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 546 | 308 | 8 | 64% | $56,257,685 | +$444,860 |
 | Sassy-Bucket | 106 | 107 | 3 | 50% | $13,955,603 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 137 | 75 | 3 | 65% | $10,406,397 | +$487,076 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 999585 | 20 | 1 | 0 | 95% | $2,290,231 | +$98,953 |
 
-_(mostrando los 40 de mayor monto, de 699 en total)_
+_(mostrando los 40 de mayor monto, de 700 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-9.5) | Ravens | 1.92 (52¢) | $25,119 | — | ⏳ Pendiente |
+| Sausesantana | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $77,759 | — | ⏳ Pendiente |
 | Multicoloured-Serf | James Madison vs. Southern Miss: O/U 57.5 | Under 57.5 | 2.13 (47¢) | $36,076 | — | ⏳ Pendiente |
 | S-Works | LoL: Dplus KIA vs Bilibili Gaming - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $53,500 | — | ⏳ Pendiente |
 | Mastermoney | Jaguars vs. Ravens: O/U 40.5 | Over 40.5 | 2.04 (49¢) | $42,757 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.20 (83¢) | $25,015 | +$5,123 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Flames vs. Kraken | Kraken | 1.82 (55¢) | $93,832 | +$76,772 | ✅ Ganada |
 | jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.19 (84¢) | $59,640 | +$11,360 | ✅ Ganada |
-| BrotherObama | Spread: Grizzlies (-2.5) | Grizzlies | 2.04 (49¢) | $31,000 | -$31,000 | ❌ Perdida |
-| jakepaulthegoat2008 | Raptors vs. Nuggets | Raptors | 2.70 (37¢) | $37,000 | -$37,000 | ❌ Perdida |
