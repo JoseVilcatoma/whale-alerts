@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 19:35:33 (hora de Perú)
+Actualizado: 2026-11-05 19:37:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7749**  ($438,910,632 en total)
+- Apuestas registradas: **7750**  ($438,946,708 en total)
 - Resueltas: **7683** — 4687 ganadas / 2996 perdidas (**61%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 699
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | James Madison vs. Southern Miss: O/U 57.5 | Under 57.5 | 2.13 (47¢) | $36,076 | — | ⏳ Pendiente |
 | S-Works | LoL: Dplus KIA vs Bilibili Gaming - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $53,500 | — | ⏳ Pendiente |
 | Mastermoney | Jaguars vs. Ravens: O/U 40.5 | Over 40.5 | 2.04 (49¢) | $42,757 | — | ⏳ Pendiente |
 | hewhodoesit | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | jakepaulthegoat2008 | Mavericks vs. Spurs | Spurs | 1.19 (84¢) | $59,640 | +$11,360 | ✅ Ganada |
 | BrotherObama | Spread: Grizzlies (-2.5) | Grizzlies | 2.04 (49¢) | $31,000 | -$31,000 | ❌ Perdida |
 | jakepaulthegoat2008 | Raptors vs. Nuggets | Raptors | 2.70 (37¢) | $37,000 | -$37,000 | ❌ Perdida |
-| ethanaz | Toledo vs. Sacramento State | Toledo | 1.28 (78¢) | $40,422 | +$11,401 | ✅ Ganada |
