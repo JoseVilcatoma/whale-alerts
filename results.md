@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 02:41:42 (hora de Perú)
+Actualizado: 2026-11-06 02:43:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7772**  ($440,772,602 en total)
+- Apuestas registradas: **7773**  ($440,846,263 en total)
 - Resueltas: **7742** — 4725 ganadas / 3017 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 700
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NS13 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.44 (41¢) | $73,660 | — | ⏳ Pendiente |
 | fantasy7788 | Map Handicap: NAVI (-1.5) vs PARIVISION (+1.5) | PARIVISION | 1.72 (58¢) | $43,603 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Heat vs. Warriors | Warriors | 1.09 (92¢) | $101,633 | +$8,838 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $38,052 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | Zzzz87 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Dplus KIA | 2.38 (42¢) | $46,710 | -$46,710 | ❌ Perdida |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.72 (58¢) | $25,778 | +$18,666 | ✅ Ganada |
 | Dessssa | Blues vs. Devils | Blues | 3.12 (32¢) | $25,351 | -$25,351 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Magic vs. Suns | Suns | 1.96 (51¢) | $30,600 | +$29,400 | ✅ Ganada |
