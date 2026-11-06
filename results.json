@@ -116794,5 +116794,20 @@
     "status": "won",
     "ultimo_fill": 1793941455,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 15759,
+    "timestamp": 1793944991,
+    "username": "fantasy7788",
+    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+    "slug": "cs2-prv-navi-2026-11-06-map-handicap-home-1pt5",
+    "title": "Map Handicap: NAVI (-1.5) vs PARIVISION (+1.5)",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 43603.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1793944991,
+    "fills": 1
   }
 ]
