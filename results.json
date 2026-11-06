@@ -117184,5 +117184,20 @@
     "status": "pending",
     "ultimo_fill": 1794003680,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 15800,
+    "timestamp": 1794003774,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "lol-kc-t1-2026-11-04-game1",
+    "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 28932.529700000003,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1794003774,
+    "fills": 1
   }
 ]
