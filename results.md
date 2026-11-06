@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 19:00:19 (hora de Perú)
+Actualizado: 2026-11-05 19:02:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7740**  ($438,230,254 en total)
-- Resueltas: **7682** — 4687 ganadas / 2995 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Apuestas registradas: **7746**  ($438,782,775 en total)
+- Resueltas: **7683** — 4687 ganadas / 2996 perdidas (**61%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 699
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,335,255** sobre $435,616,428 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,740** sobre $757,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,368,337** sobre $435,649,510 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,840** sobre $757,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,14 +24,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 546 | 308 | 6 | 64% | $56,173,658 | +$444,860 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 546 | 308 | 7 | 64% | $56,232,565 | +$444,860 |
 | Sassy-Bucket | 106 | 107 | 3 | 50% | $13,955,603 | -$1,687,518 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 137 | 75 | 3 | 65% | $10,406,397 | +$487,076 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
-| ferrariChampions2026 | 120 | 64 | 1 | 65% | $7,912,280 | +$467,505 |
+| ferrariChampions2026 | 120 | 65 | 0 | 65% | $7,912,280 | +$434,423 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 52 | 24 | 2 | 68% | $2,934,190 | -$219,097 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
-| S-Works | 19 | 7 | 1 | 73% | $2,707,709 | -$179,779 |
+| S-Works | 19 | 7 | 2 | 73% | $2,745,899 | -$179,779 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | juice-fruit | 26 | 17 | 0 | 60% | $2,482,993 | +$219,112 |
@@ -71,6 +71,12 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $41,562 | — | ⏳ Pendiente |
+| S-Works | Blues vs. Devils | Devils | 1.49 (67¢) | $38,190 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Dplus KIA | 2.13 (47¢) | $58,908 | — | ⏳ Pendiente |
+| VPenguin | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.89 (53¢) | $55,265 | — | ⏳ Pendiente |
+| fkALG2FalconsTES | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Dplus KIA | 2.13 (47¢) | $331,596 | — | ⏳ Pendiente |
 | zb8 | LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | NS13 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.11 (90¢) | $45,724 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Canucks vs. Jets | Jets | 1.47 (68¢) | $79,444 | — | ⏳ Pendiente |
@@ -111,7 +117,7 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | juice-fruit | FK Crvena zvezda vs. Inter Club d'Escaldes: O/U 3.5 | Over 3.5 | 1.72 (58¢) | $28,527 | -$28,527 | ❌ Perdida |
 | mooseborzoi | Stars vs. Blue Jackets | Stars | 1.82 (55¢) | $26,240 | — | ⏳ Pendiente |
 | mooseborzoi | Magic vs. Suns | Magic | 2.08 (48¢) | $73,430 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Spread: Bayer 04 Leverkusen (-1.5) | Bayer 04 Leverkusen | 1.85 (54¢) | $33,082 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Spread: Bayer 04 Leverkusen (-1.5) | Bayer 04 Leverkusen | 1.85 (54¢) | $33,082 | -$33,082 | ❌ Perdida |
 | Marcoli | Luanda: Anna Blinkova vs Zongyu Li | Anna Blinkova | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Heat vs. Clippers | Clippers | 1.23 (81¢) | $40,149 | -$40,149 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Heat vs. Clippers | Clippers | 1.47 (68¢) | $38,154 | -$38,154 | ❌ Perdida |
@@ -125,9 +131,3 @@ _(mostrando los 40 de mayor monto, de 699 en total)_
 | 3648393489047 | Toledo vs. Sacramento State | Toledo | 1.33 (75¢) | $27,622 | +$9,208 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Ball State vs. UMass | Ball State | 2.86 (35¢) | $40,526 | -$40,526 | ❌ Perdida |
 | 3648393489047 | Toledo vs. Sacramento State | Toledo | 1.28 (78¢) | $33,911 | +$9,565 | ✅ Ganada |
-| tennischamp | 76ers vs. Pistons | 76ers | 1.25 (80¢) | $53,478 | +$13,369 | ✅ Ganada |
-| olegio | Pacers vs. Grizzlies | Grizzlies | 2.04 (49¢) | $30,169 | -$30,169 | ❌ Perdida |
-| ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.19 (84¢) | $152,761 | +$29,097 | ✅ Ganada |
-| ethanaz | Central Michigan vs. Eastern Michigan | Central Michigan | 1.43 (70¢) | $42,297 | +$18,127 | ✅ Ganada |
-| mooseborzoi | Cavaliers vs. Thunder | Cavaliers | 2.44 (41¢) | $26,825 | -$26,825 | ❌ Perdida |
-| mooseborzoi | Spread: Thunder (-3.5) | Cavaliers | 1.92 (52¢) | $115,134 | -$115,134 | ❌ Perdida |
