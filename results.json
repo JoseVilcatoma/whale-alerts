@@ -117139,5 +117139,35 @@
     "status": "pending",
     "ultimo_fill": 1794003192,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 15793,
+    "timestamp": 1794003249,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "lol-kc-t1-2026-11-04-game1",
+    "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 98315.178,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "ultimo_fill": 1794003249,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15794,
+    "timestamp": 1794003270,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-kc-t1-2026-11-04-game1",
+    "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 67000.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1794003270,
+    "fills": 1
   }
 ]
