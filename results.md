@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 21:04:07 (hora de Perú)
+Actualizado: 2026-11-05 21:06:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7761**  ($440,310,896 en total)
+- Apuestas registradas: **7762**  ($440,346,249 en total)
 - Resueltas: **7709** — 4701 ganadas / 3008 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 700
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $35,354 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.92 (52¢) | $25,096 | — | ⏳ Pendiente |
 | FlamePyro | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $67,940 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | yabanci | Will AFC Bournemouth win on 2026-11-05? | Yes | 1.54 (65¢) | $69,550 | +$37,450 | ✅ Ganada |
 | Marcoli | Rolex Paris Masters: Rinky Hijikata vs Tomas Etcheverry | Rinky Hijikata | 1.06 (94¢) | $70,000 | +$4,468 | ✅ Ganada |
 | juice-fruit | FK Crvena zvezda vs. Inter Club d'Escaldes: O/U 3.5 | Over 3.5 | 1.72 (58¢) | $28,527 | -$28,527 | ❌ Perdida |
-| mooseborzoi | Stars vs. Blue Jackets | Stars | 1.82 (55¢) | $26,240 | — | ⏳ Pendiente |
