@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 12:12:38 (hora de Perú)
+Actualizado: 2026-11-06 12:14:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7781**  ($441,217,444 en total)
+- Apuestas registradas: **7782**  ($441,344,702 en total)
 - Resueltas: **7751** — 4730 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 700
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 548 | 311 | 3 | 64% | $56,257,685 | +$425,533 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 548 | 311 | 4 | 64% | $56,384,942 | +$425,533 |
 | Sassy-Bucket | 107 | 108 | 2 | 50% | $14,750,043 | -$1,512,945 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 141 | 76 | 1 | 65% | $10,547,747 | +$585,487 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.39 (72¢) | $127,258 | — | ⏳ Pendiente |
 | fantasy7788 | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 1.52 (66¢) | $74,602 | — | ⏳ Pendiente |
 | SDTrading | Spread: Arizona (-6.5) | Arizona | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | 999585 | Will Wolfsberger AC win on 2026-11-06? | No | 1.06 (94¢) | $75,068 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | TAIWANNUMBERONE | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.00 (50¢) | $35,897 | +$35,897 | ✅ Ganada |
 | jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.00 (50¢) | $26,653 | +$26,653 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.00 (50¢) | $287,109 | -$287,109 | ❌ Perdida |
-| S-Works | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Bilibili Gaming | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
