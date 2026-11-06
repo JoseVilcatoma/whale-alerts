@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-05 23:42:54 (hora de Perú)
+Actualizado: 2026-11-05 23:45:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7768**  ($440,526,061 en total)
-- Resueltas: **7732** — 4717 ganadas / 3015 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **7739** — 4722 ganadas / 3017 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 700
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,687,080** sobre $439,047,403 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,009** sobre $762,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,613,337** sobre $439,338,609 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,744** sobre $763,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 548 | 311 | 3 | 64% | $56,257,685 | +$425,533 |
 | Sassy-Bucket | 107 | 108 | 2 | 50% | $14,750,043 | -$1,512,945 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 139 | 76 | 2 | 65% | $10,484,493 | +$515,321 |
+| Lakersfan111 | 141 | 76 | 0 | 65% | $10,484,493 | +$585,487 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 121 | 65 | 0 | 65% | $8,091,683 | +$476,505 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -74,18 +74,18 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | ethanaz | UTSA vs. Florida Atlantic | Florida Atlantic | 1.19 (84¢) | $25,205 | — | ⏳ Pendiente |
 | PerpsKing | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | PARIVISION | 3.45 (29¢) | $26,625 | — | ⏳ Pendiente |
 | Anon455 | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
-| CUTJALENHURTS | Magic vs. Suns: O/U 224.5 | Over 224.5 | 1.89 (53¢) | $28,603 | — | ⏳ Pendiente |
+| CUTJALENHURTS | Magic vs. Suns: O/U 224.5 | Over 224.5 | 1.89 (53¢) | $28,603 | -$28,603 | ❌ Perdida |
 | Anon455 | Jaguars vs. Ravens | Jaguars | 1.25 (80¢) | $32,000 | +$8,000 | ✅ Ganada |
 | TAIWANNUMBERONE | Jaguars vs. Ravens | Jaguars | 1.22 (82¢) | $32,978 | +$7,239 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $35,354 | +$6,734 | ✅ Ganada |
-| jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.92 (52¢) | $25,096 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.89 (53¢) | $53,000 | +$47,000 | ✅ Ganada |
+| jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.92 (52¢) | $25,096 | +$23,166 | ✅ Ganada |
 | FlamePyro | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $67,940 | +$11,060 | ✅ Ganada |
 | Anon455 | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $33,600 | +$6,400 | ✅ Ganada |
 | ferrariChampions2026 | Jaguars vs. Ravens | Jaguars | 1.23 (81¢) | $179,404 | +$42,082 | ✅ Ganada |
 | Sassy-Bucket | Jaguars vs. Ravens | Jaguars | 1.28 (78¢) | $794,440 | +$224,073 | ✅ Ganada |
 | ch27er | Heat vs. Warriors | Warriors | 1.61 (62¢) | $25,000 | — | ⏳ Pendiente |
-| mooseborzoi | Magic vs. Suns | Suns | 1.92 (52¢) | $29,477 | — | ⏳ Pendiente |
+| mooseborzoi | Magic vs. Suns | Suns | 1.92 (52¢) | $29,477 | +$27,210 | ✅ Ganada |
 | BoggsFromShawshank | Jaguars vs. Ravens | Jaguars | 1.28 (78¢) | $53,352 | +$15,048 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-9.5) | Ravens | 1.92 (52¢) | $25,119 | -$25,119 | ❌ Perdida |
 | Sausesantana | Jaguars vs. Ravens | Jaguars | 1.27 (79¢) | $77,759 | +$20,670 | ✅ Ganada |
@@ -126,8 +126,8 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | Zzzz87 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Dplus KIA | 2.38 (42¢) | $46,710 | -$46,710 | ❌ Perdida |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.72 (58¢) | $25,778 | +$18,666 | ✅ Ganada |
 | Dessssa | Blues vs. Devils | Blues | 3.12 (32¢) | $25,351 | -$25,351 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Magic vs. Suns | Suns | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
-| RJW1 | Magic vs. Suns | Suns | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Magic vs. Suns | Suns | 1.96 (51¢) | $30,600 | +$29,400 | ✅ Ganada |
+| RJW1 | Magic vs. Suns | Suns | 1.96 (51¢) | $51,000 | +$49,000 | ✅ Ganada |
 | 473game | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.69 (59¢) | $28,780 | +$20,000 | ✅ Ganada |
 | nb1985 | Will RSC Anderlecht win on 2026-11-05? | Yes | 1.96 (51¢) | $30,000 | +$28,824 | ✅ Ganada |
 | lalalalalalallalalalala | Game Handicap: DK (-1.5) vs Bilibili Gaming (+1.5) | Dplus KIA | 3.70 (27¢) | $39,889 | -$39,889 | ❌ Perdida |
