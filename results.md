@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 00:01:25 (hora de Perú)
+Actualizado: 2026-11-06 00:03:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7770**  ($440,627,366 en total)
+- Apuestas registradas: **7771**  ($440,678,994 en total)
 - Resueltas: **7740** — 4723 ganadas / 3017 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 700
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Heat vs. Warriors | Warriors | 1.09 (92¢) | $51,628 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $38,052 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Game Handicap: T1 (-1.5) vs Karmine Corp (+1.5) | T1 | 1.54 (65¢) | $63,254 | — | ⏳ Pendiente |
 | ethanaz | UTSA vs. Florida Atlantic | Florida Atlantic | 1.19 (84¢) | $25,205 | +$4,801 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | Dessssa | Blues vs. Devils | Blues | 3.12 (32¢) | $25,351 | -$25,351 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Magic vs. Suns | Suns | 1.96 (51¢) | $30,600 | +$29,400 | ✅ Ganada |
 | RJW1 | Magic vs. Suns | Suns | 1.96 (51¢) | $51,000 | +$49,000 | ✅ Ganada |
-| 473game | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Bilibili Gaming | 1.69 (59¢) | $28,780 | +$20,000 | ✅ Ganada |
