@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 05:28:43 (hora de Perú)
+Actualizado: 2026-11-06 05:30:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7775**  ($440,924,104 en total)
+- Apuestas registradas: **7776**  ($440,952,907 en total)
 - Resueltas: **7742** — 4725 ganadas / 3017 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 700
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | FURIA | 1.52 (66¢) | $28,803 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | FURIA | 1.54 (65¢) | $50,111 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | PARIVISION | 1.69 (59¢) | $27,730 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.44 (41¢) | $73,660 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 700 en total)_
 | jakepaulthegoat2008 | LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner | Dplus KIA | 2.22 (45¢) | $27,346 | -$27,346 | ❌ Perdida |
 | OhWhenTheReds | Spread: SE Palmeiras (-1.5) | Clube do Remo | 2.13 (47¢) | $26,064 | -$26,064 | ❌ Perdida |
 | juice-fruit | Rolex Paris Masters: Arthur Fils vs Taylor Fritz | Arthur Fils | 1.96 (51¢) | $83,417 | -$83,417 | ❌ Perdida |
-| Zzzz87 | LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs | Dplus KIA | 2.38 (42¢) | $46,710 | -$46,710 | ❌ Perdida |
