@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 18:11:29 (hora de Perú)
+Actualizado: 2026-11-07 18:13:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7929**  ($449,483,692 en total)
+- Apuestas registradas: **7929**  ($449,605,192 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
 - Pendientes: 59
 - Apostadores distintos: 709
@@ -52,8 +52,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
+| Thunderous-Authoritarian-Snarl | 13 | 10 | 5 | 57% | $3,026,229 | -$1,094,385 |
 | TAIWANNUMBERONE | 56 | 24 | 0 | 70% | $2,998,724 | -$144,405 |
-| Thunderous-Authoritarian-Snarl | 13 | 10 | 5 | 57% | $2,904,729 | -$1,094,385 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | 999585 | 22 | 1 | 3 | 96% | $2,767,600 | +$105,772 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 |---|---|---|---|---|---|---|
 | Multicoloured-Serf | Spread: Tennessee (-6.5) | Kentucky | 1.96 (51¢) | $26,167 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.28 (78¢) | $279,869 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.27 (79¢) | $401,369 | — | ⏳ Pendiente |
 | zb8 | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.30 (77¢) | $25,901 | — | ⏳ Pendiente |
 | ethanaz | Alabama vs. LSU | LSU | 1.52 (66¢) | $48,953 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
