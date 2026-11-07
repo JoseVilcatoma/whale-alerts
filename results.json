@@ -118463,5 +118463,20 @@
     "status": "pending",
     "ultimo_fill": 1794080038,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15954,
+    "timestamp": 1794081448,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-lamon-arkst-2026-11-07",
+    "title": "Louisiana-Monroe vs. Arkansas State",
+    "outcome": "Arkansas State",
+    "side": "BUY",
+    "usd": 32203.539998999997,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1794081448,
+    "fills": 1
   }
 ]
