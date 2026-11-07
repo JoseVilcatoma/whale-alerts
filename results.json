@@ -118160,7 +118160,7 @@
     "side": "BUY",
     "usd": 36508.669999000005,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794061202,
     "fills": 1
   },
@@ -118177,6 +118177,21 @@
     "odds_at_bet": 76,
     "status": "pending",
     "ultimo_fill": 1794062604,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15919,
+    "timestamp": 1794062802,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "epl-ars-hul-2026-11-07-ars",
+    "title": "Will Arsenal FC win on 2026-11-07?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 108197.55,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1794062802,
     "fills": 1
   }
 ]

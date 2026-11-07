@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 09:45:24 (hora de Perú)
+Actualizado: 2026-11-07 09:47:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7863**  ($445,845,883 en total)
-- Resueltas: **7828** — 4783 ganadas / 3045 perdidas (**61%** de acierto)
+- Apuestas registradas: **7864**  ($445,954,081 en total)
+- Resueltas: **7829** — 4784 ganadas / 3045 perdidas (**61%** de acierto)
 - Pendientes: 12
 - Apostadores distintos: 703
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,324,588** sobre $444,376,102 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,230** sobre $772,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,320,076** sobre $444,412,611 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,218** sobre $772,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,8 +44,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
+| surfandturf | 38 | 11 | 1 | 78% | $3,841,819 | +$518,806 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
-| surfandturf | 38 | 11 | 0 | 78% | $3,733,622 | +$518,806 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | cosmicxbt | 24 | 9 | 0 | 73% | $3,505,913 | -$328,163 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -71,8 +71,9 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Will Arsenal FC win on 2026-11-07? | Yes | 1.15 (87¢) | $108,198 | — | ⏳ Pendiente |
 | Flaznorp | Will Frosinone Calcio win on 2026-11-07? | No | 1.32 (76¢) | $56,424 | — | ⏳ Pendiente |
-| Flaznorp | Will Leeds United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.12 (89¢) | $36,509 | — | ⏳ Pendiente |
+| Flaznorp | Will Leeds United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.12 (89¢) | $36,509 | +$4,512 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Newcastle United FC win on 2026-11-07? | No | 1.37 (73¢) | $44,341 | — | ⏳ Pendiente |
 | sinasinner | Will Manchester City FC win on 2026-11-07? | Yes | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
 | LOLSHAQ | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.23 (81¢) | $67,530 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 | EdZachary | Spread: SMU (-5.5) | SMU | 1.96 (51¢) | $39,527 | +$37,977 | ✅ Ganada |
 | spx11 | Raptors vs. Bucks | Bucks | 2.56 (39¢) | $30,114 | -$30,114 | ❌ Perdida |
 | CUTJALENHURTS | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.08 (93¢) | $35,491 | +$2,671 | ✅ Ganada |
-| arjennnnn | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.09 (92¢) | $36,473 | +$3,172 | ✅ Ganada |
